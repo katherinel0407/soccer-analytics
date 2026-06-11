@@ -1,13 +1,13 @@
-distance,angle,goal,body_part_Head,body_part_Left Foot,body_part_Right Foot,shot_type_Free Kick,shot_type_Open Play
-29.201541055225153,0.06733927277093066,False,False,True,False,False,True
-16.877203559831823,0.06361044453908427,False,False,True,False,False,True
-13.822083779228084,0.06193884777819737,False,True,False,False,False,True
-26.29220416777567,0.0671227994475131,False,False,False,True,True,False
-7.317103251970684,0.05783517924433272,False,False,False,True,False,True
-7.5584389922787585,0.05850254364413844,False,True,False,False,False,True
-5.769748694700666,0.05426000737492903,False,False,False,True,False,True
-29.6150299679065,0.052246788719407376,False,False,True,False,False,True
-40.54873610853981,0.08101441135435662,False,False,True,False,False,True
-8.348652585896726,0.058778606230389496,True,False,True,False,False,True
-5.664803615307417,0.05626450866607191,True,False,True,False,False,True
-24.72933480706669,0.06095525483861824,True,False,False,True,False,True
+distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+29.201541055225153,0.06733927277093066,False,Left Foot,Open Play,1,1,1,Half Volley
+16.877203559831823,0.06361044453908427,False,Left Foot,Open Play,1,1,1,Normal
+13.822083779228084,0.06193884777819737,False,Head,Open Play,0,0,2,Normal
+26.29220416777567,0.0671227994475131,False,Right Foot,Free Kick,0,0,0,Normal
+7.317103251970684,0.05783517924433272,False,Right Foot,Open Play,1,1,2,Half Volley
+7.5584389922787585,0.05850254364413844,False,Head,Open Play,0,0,1,Normal
+5.769748694700666,0.05426000737492903,False,Right Foot,Open Play,1,0,2,Volley
+29.6150299679065,0.052246788719407376,False,Left Foot,Open Play,0,1,2,Normal
+40.54873610853981,0.08101441135435662,False,Left Foot,Open Play,0,1,1,Normal
+8.348652585896726,0.058778606230389496,True,Left Foot,Open Play,0,0,0,Normal
+5.664803615307417,0.05626450866607191,True,Left Foot,Open Play,1,1,1,Half Volley
+24.72933480706669,0.06095525483861824,True,Right Foot,Open Play,1,1,2,Normal

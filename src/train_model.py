@@ -1,10 +1,15 @@
 # this is where we train our model
 
 from sklearn.model_selection import train_test_split
-from load_data import all_shots
-from sklearn.linear_model import LogisticRegression
+from xgboost import XGBClassifier
+import joblib
+from load_data import load_all_shots
+
 from sklearn.metrics import roc_auc_score
 import pandas as pd
+import matplotlib.pyplot as plt
+
+all_shots = load_all_shots()
 
 # x has all our features
 X = all_shots.drop(columns=["goal"])
@@ -20,15 +25,26 @@ X_train, X_test, y_train, y_test = train_test_split(
     stratify=y
 )
 
-# train model: choice of logistic regression as a baseline model
-lr = LogisticRegression(
-    max_iter=1000
+# train model: XGBoost Model
+xgb = XGBClassifier(
+    n_estimators=200,
+    max_depth=4,
+    learning_rate=0.05,
+    subsample=0.8,
+    colsample_bytree=0.8,
+    random_state=42
 )
 
-lr.fit(X_train, y_train)
+xgb.fit(X_train, y_train)
 
 # generate XG predictions
-xg_pred = lr.predict_proba(X_test)[:, 1]
+xg_pred = xgb.predict_proba(X_test)[:, 1]
+
+# saving the model
+joblib.dump(
+    xgb,
+    "../models/xgboost_xg_model.pkl"
+)
 
 # now we look at model accuracy and feature importance to get a sense of our results
 auc = roc_auc_score(
@@ -36,16 +52,25 @@ auc = roc_auc_score(
     xg_pred
 )
 
-print(auc) # we get a value of 0.7839755130197827
+print(auc) # we get a value of 0.8014
 
-coef_df = pd.DataFrame({
+importance = pd.DataFrame({
     "feature": X.columns,
-    "coefficient": lr.coef_[0]
+    "importance": xgb.feature_importances_
 })
 
-coef_df.sort_values(
-    by="coefficient",
-    ascending=False
+importance.sort_values(
+    by="importance",
+    ascending=True
 )
 
-print(coef_df)
+print(importance)
+
+# map importance
+plt.figure(figsize=(8,6))
+plt.barh(
+    importance["feature"],
+    importance["importance"]
+)
+plt.title("XGBoost Feature Importance")
+plt.show()

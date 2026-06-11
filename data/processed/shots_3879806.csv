@@ -1,14 +1,14 @@
-distance,angle,goal,body_part_Head,body_part_Left Foot,body_part_Other,body_part_Right Foot,shot_type_Free Kick,shot_type_Open Play
-30.907118921051183,0.06527825465532054,False,False,False,False,True,False,True
-9.774456506629921,0.05776860281779251,False,True,False,False,False,False,True
-6.300793600809342,0.05731112123993607,False,False,False,True,False,False,True
-16.98116603770189,0.05703196388588848,False,False,False,False,True,False,True
-12.319902597017556,0.05946320332000296,True,True,False,False,False,False,True
-24.722661669003205,0.0677164254178628,False,False,False,False,True,False,True
-7.915806970865315,0.05644684816850273,False,True,False,False,False,False,True
-19.114915641979696,0.06509385486325286,False,False,False,False,True,False,True
-14.849915824677261,0.0624480826736175,False,False,False,False,True,False,True
-24.140422531513405,0.06369666497149758,False,False,False,False,True,False,True
-25.080071770232234,0.05622836001079095,False,False,True,False,False,True,False
-13.27742444904131,0.057856898928391236,False,True,False,False,False,False,True
-9.8488578017961,0.05933569918066296,False,True,False,False,False,False,True
+distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+30.907118921051183,0.06527825465532054,False,Right Foot,Open Play,0,0,3,Normal
+9.774456506629921,0.05776860281779251,False,Head,Open Play,0,0,4,Normal
+6.300793600809342,0.05731112123993607,False,Other,Open Play,1,1,5,Normal
+16.98116603770189,0.05703196388588848,False,Right Foot,Open Play,1,1,1,Volley
+12.319902597017556,0.05946320332000296,True,Head,Open Play,0,0,4,Normal
+24.722661669003205,0.0677164254178628,False,Right Foot,Open Play,1,0,2,Normal
+7.915806970865315,0.05644684816850273,False,Head,Open Play,0,0,2,Normal
+19.114915641979696,0.06509385486325286,False,Right Foot,Open Play,0,1,1,Half Volley
+14.849915824677261,0.0624480826736175,False,Right Foot,Open Play,0,0,3,Normal
+24.140422531513405,0.06369666497149758,False,Right Foot,Open Play,0,0,1,Half Volley
+25.080071770232234,0.05622836001079095,False,Left Foot,Free Kick,0,0,1,Normal
+13.27742444904131,0.057856898928391236,False,Head,Open Play,0,0,1,Normal
+9.8488578017961,0.05933569918066296,False,Head,Open Play,0,1,2,Normal

@@ -1,15 +1,15 @@
-distance,angle,goal,body_part_Head,body_part_Left Foot,body_part_Right Foot,shot_type_Open Play,shot_type_Penalty
-23.56374333589636,0.0609148772618868,False,False,False,True,True,False
-31.06444913401813,0.05463169882238571,False,False,True,False,True,False
-23.233165948703586,0.06778231824251796,False,False,False,True,True,False
-23.7539470404394,0.0660323970612865,False,False,True,False,True,False
-11.40175425099138,0.05810344098499332,False,False,False,True,True,False
-22.300224214119467,0.06708530292559167,False,False,True,False,True,False
-8.348652585896723,0.055074665505321155,False,False,False,True,True,False
-29.24739304621866,0.06054519469881156,False,False,False,True,True,False
-19.340372281835737,0.05356889170427319,False,False,False,True,True,False
-11.173182178770736,0.060353615283394,False,False,True,False,True,False
-7.397972695272675,0.058174851152051676,False,True,False,False,True,False
-30.367910695337603,0.0729382737399728,False,False,False,True,True,False
-16.687720036002517,0.0550337059405631,False,False,False,True,True,False
-12.0,0.05959154427448477,True,False,False,True,False,True
+distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+23.56374333589636,0.0609148772618868,False,Right Foot,Open Play,0,0,2,Normal
+31.06444913401813,0.05463169882238571,False,Left Foot,Open Play,0,0,2,Normal
+23.233165948703586,0.06778231824251796,False,Right Foot,Open Play,0,0,3,Normal
+23.7539470404394,0.0660323970612865,False,Left Foot,Open Play,1,1,2,Normal
+11.40175425099138,0.05810344098499332,False,Right Foot,Open Play,1,1,2,Normal
+22.300224214119467,0.06708530292559167,False,Left Foot,Open Play,1,0,1,Normal
+8.348652585896723,0.055074665505321155,False,Right Foot,Open Play,1,1,2,Overhead Kick
+29.24739304621866,0.06054519469881156,False,Right Foot,Open Play,1,0,0,Half Volley
+19.340372281835737,0.05356889170427319,False,Right Foot,Open Play,0,0,2,Normal
+11.173182178770736,0.060353615283394,False,Left Foot,Open Play,0,1,1,Half Volley
+7.397972695272675,0.058174851152051676,False,Head,Open Play,0,1,5,Normal
+30.367910695337603,0.0729382737399728,False,Right Foot,Open Play,0,1,2,Normal
+16.687720036002517,0.0550337059405631,False,Right Foot,Open Play,0,1,2,Normal
+12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal

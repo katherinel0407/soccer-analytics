@@ -1,21 +1,21 @@
-distance,angle,goal,body_part_Head,body_part_Left Foot,body_part_Right Foot,shot_type_Free Kick,shot_type_Open Play,shot_type_Penalty
-15.601602481796537,0.0627149045590073,False,False,False,True,False,True,False
-12.615070352558481,0.05477003205450241,True,False,False,True,False,True,False
-4.491102314577129,0.05681122755010379,True,True,False,False,False,True,False
-18.78430195668713,0.05200118136251064,False,False,False,True,False,True,False
-16.152399202595262,0.06285817610644633,False,False,False,True,False,True,False
-29.66749062526185,0.06658927101718169,True,False,False,True,False,True,False
-36.61106390150387,0.05639853772024166,False,False,False,True,True,False,False
-27.46434051638597,0.07043377573938088,False,False,False,True,False,True,False
-21.300234740490534,0.06651088925422971,False,False,True,False,False,True,False
-4.687216658103192,0.05555925765007899,False,True,False,False,False,True,False
-8.3868945385047,0.058968241649404174,True,False,True,False,False,True,False
-30.241858408503926,0.05730522561163427,False,False,True,False,False,True,False
-23.4367233204644,0.06788726432047255,False,False,True,False,False,True,False
-33.3097583299549,0.06473640341847328,False,False,False,True,True,False,False
-12.0,0.05959154427448477,True,False,False,True,False,False,True
-26.300760445279906,0.06968913934287002,False,False,False,True,False,True,False
-24.030189345904045,0.06004459221950855,False,False,False,True,False,True,False
-32.812497619047534,0.07451933391743076,False,False,False,True,False,True,False
-22.61725005388586,0.06529923758378894,False,False,False,True,False,True,False
-18.39184601936412,0.056646789667804474,True,False,False,True,False,True,False
+distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+15.601602481796537,0.0627149045590073,False,Right Foot,Open Play,0,1,2,Half Volley
+12.615070352558481,0.05477003205450241,True,Right Foot,Open Play,1,0,2,Half Volley
+4.491102314577129,0.05681122755010379,True,Head,Open Play,0,0,5,Normal
+18.78430195668713,0.05200118136251064,False,Right Foot,Open Play,0,1,2,Normal
+16.152399202595262,0.06285817610644633,False,Right Foot,Open Play,0,1,2,Normal
+29.66749062526185,0.06658927101718169,True,Right Foot,Open Play,1,0,0,Normal
+36.61106390150387,0.05639853772024166,False,Right Foot,Free Kick,0,0,0,Normal
+27.46434051638597,0.07043377573938088,False,Right Foot,Open Play,0,0,2,Normal
+21.300234740490534,0.06651088925422971,False,Left Foot,Open Play,0,1,1,Normal
+4.687216658103192,0.05555925765007899,False,Head,Open Play,0,0,6,Normal
+8.3868945385047,0.058968241649404174,True,Left Foot,Open Play,1,0,1,Half Volley
+30.241858408503926,0.05730522561163427,False,Left Foot,Open Play,0,0,2,Half Volley
+23.4367233204644,0.06788726432047255,False,Left Foot,Open Play,0,0,2,Half Volley
+33.3097583299549,0.06473640341847328,False,Right Foot,Free Kick,0,0,0,Normal
+12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+26.300760445279906,0.06968913934287002,False,Right Foot,Open Play,0,0,2,Half Volley
+24.030189345904045,0.06004459221950855,False,Right Foot,Open Play,1,1,2,Normal
+32.812497619047534,0.07451933391743076,False,Right Foot,Open Play,1,0,1,Normal
+22.61725005388586,0.06529923758378894,False,Right Foot,Open Play,0,0,3,Normal
+18.39184601936412,0.056646789667804474,True,Right Foot,Open Play,0,1,1,Normal

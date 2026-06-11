@@ -1,26 +1,26 @@
-distance,angle,goal,body_part_Head,body_part_Left Foot,body_part_Right Foot,shot_type_Free Kick,shot_type_Open Play,shot_type_Penalty
-14.792227688891222,0.0554430858743372,False,False,False,True,False,True,False
-5.336665625650538,0.05647833823273911,True,False,True,False,False,True,False
-23.408118249872203,0.06789761491094687,False,False,True,False,False,True,False
-15.8861574963866,0.0625194792052029,False,False,False,True,False,True,False
-12.0,0.05959154427448477,False,False,False,True,False,False,True
-23.6027540765903,0.06366829657891318,False,False,False,True,False,True,False
-23.953496613229554,0.06667081698306447,False,False,False,True,False,True,False
-16.6012047755577,0.06148701382474527,False,False,False,True,False,True,False
-20.118896590022025,0.05728074400314657,False,False,False,True,False,True,False
-30.065594955031244,0.05552446088323461,False,False,False,True,False,True,False
-5.913543776789002,0.05640887520052232,False,True,False,False,False,True,False
-16.002812252851058,0.061421858255082375,False,False,False,True,False,True,False
-23.104112188093264,0.06733817796199772,False,False,False,True,False,True,False
-19.11570035337445,0.06351725482023603,False,False,False,True,False,True,False
-16.08632960000509,0.06280775895041724,False,False,True,False,False,True,False
-18.67538486885879,0.06408522752642494,False,False,False,True,False,True,False
-16.192899678562824,0.06306579286304811,False,False,True,False,False,True,False
-25.34284909002932,0.06373319480460854,False,False,False,True,True,False,False
-12.0,0.05959154427448477,True,False,False,True,False,False,True
-28.50140347421509,0.06114847794873688,False,False,False,True,False,True,False
-30.736297760140204,0.05797631417456727,False,False,False,True,False,True,False
-11.813974775662928,0.05906719403744866,False,False,False,True,False,True,False
-22.860008748904708,0.0598300874012021,False,False,False,True,False,True,False
-30.324412607666446,0.060671104159016734,False,False,False,True,False,True,False
-14.698639392814556,0.06004062636244229,False,False,True,False,False,True,False
+distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+14.792227688891222,0.0554430858743372,False,Right Foot,Open Play,1,1,1,Volley
+5.336665625650538,0.05647833823273911,True,Left Foot,Open Play,1,0,3,Normal
+23.408118249872203,0.06789761491094687,False,Left Foot,Open Play,1,0,1,Half Volley
+15.8861574963866,0.0625194792052029,False,Right Foot,Open Play,1,0,4,Normal
+12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+23.6027540765903,0.06366829657891318,False,Right Foot,Open Play,1,0,1,Normal
+23.953496613229554,0.06667081698306447,False,Right Foot,Open Play,0,0,1,Normal
+16.6012047755577,0.06148701382474527,False,Right Foot,Open Play,0,1,2,Half Volley
+20.118896590022025,0.05728074400314657,False,Right Foot,Open Play,1,0,2,Normal
+30.065594955031244,0.05552446088323461,False,Right Foot,Open Play,0,0,2,Lob
+5.913543776789002,0.05640887520052232,False,Head,Open Play,0,1,6,Normal
+16.002812252851058,0.061421858255082375,False,Right Foot,Open Play,1,0,1,Half Volley
+23.104112188093264,0.06733817796199772,False,Right Foot,Open Play,1,0,2,Normal
+19.11570035337445,0.06351725482023603,False,Right Foot,Open Play,0,1,1,Normal
+16.08632960000509,0.06280775895041724,False,Left Foot,Open Play,0,0,2,Normal
+18.67538486885879,0.06408522752642494,False,Right Foot,Open Play,1,0,3,Overhead Kick
+16.192899678562824,0.06306579286304811,False,Left Foot,Open Play,1,1,2,Half Volley
+25.34284909002932,0.06373319480460854,False,Right Foot,Free Kick,0,0,0,Normal
+12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+28.50140347421509,0.06114847794873688,False,Right Foot,Open Play,0,0,2,Normal
+30.736297760140204,0.05797631417456727,False,Right Foot,Open Play,0,0,0,Normal
+11.813974775662928,0.05906719403744866,False,Right Foot,Open Play,0,0,1,Normal
+22.860008748904708,0.0598300874012021,False,Right Foot,Open Play,1,0,1,Volley
+30.324412607666446,0.060671104159016734,False,Right Foot,Open Play,0,0,0,Half Volley
+14.698639392814556,0.06004062636244229,False,Left Foot,Open Play,1,0,0,Normal
