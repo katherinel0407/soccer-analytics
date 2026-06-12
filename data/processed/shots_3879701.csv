@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-41.90584684742692,0.07478024602612586,False,Right Foot,Open Play,0,1,1,Normal
-22.450167037240497,0.05859096901679672,False,Left Foot,Free Kick,0,0,0,Normal
-27.23031399011036,0.07003459897601513,False,Left Foot,Open Play,0,1,2,Normal
-33.67031333385539,0.0638080328303207,False,Right Foot,Open Play,0,0,1,Normal
-19.681463360228072,0.06446731937426291,False,Left Foot,Open Play,1,0,1,Volley
-15.520631430454108,0.06292712260092323,False,Left Foot,Open Play,0,0,2,Half Volley
-10.060318086422516,0.0591376538145445,False,Head,Open Play,0,1,2,Normal
-18.738729946290384,0.06458137487311318,False,Right Foot,Open Play,0,0,3,Normal
-16.02560451277892,0.05209028873765547,False,Right Foot,Open Play,0,0,0,Half Volley
-23.436083290515924,0.05884771200189954,False,Left Foot,Open Play,0,0,2,Normal
-28.708361151413705,0.062436727236607564,False,Right Foot,Open Play,0,0,1,Half Volley
-16.510905486980416,0.06176174972835756,False,Left Foot,Open Play,0,1,2,Half Volley
-32.593557645645255,0.07420462233376567,False,Right Foot,Open Play,0,1,1,Normal
-13.674063039199433,0.06117090202224901,False,Left Foot,Open Play,1,0,1,Normal
-28.06439024814187,0.06211006903800742,False,Right Foot,Open Play,0,0,1,Normal
-15.222680447279972,0.0626180319022937,True,Left Foot,Open Play,0,0,2,Normal
-22.02294258267955,0.06686325224740812,False,Right Foot,Open Play,0,1,1,Normal
-27.78506793225454,0.06919998441781172,False,Right Foot,Open Play,0,0,2,Normal
-23.15879962346926,0.06772807700731086,False,Right Foot,Open Play,1,0,0,Volley
-26.97869529832753,0.05790551725127511,False,Right Foot,Open Play,0,0,1,Half Volley
-23.903347045968275,0.058107206512353356,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879701,Leonardo Bonucci,Juventus,41.90584684742692,0.07478024602612586,False,Right Foot,Open Play,0,1,1,Normal
+3879701,Paulo Bruno Exequiel Dybala,Juventus,22.450167037240497,0.05859096901679672,False,Left Foot,Free Kick,0,0,0,Normal
+3879701,Paulo Bruno Exequiel Dybala,Juventus,27.23031399011036,0.07003459897601513,False,Left Foot,Open Play,0,1,2,Normal
+3879701,Alessandro Florenzi,AS Roma,33.67031333385539,0.0638080328303207,False,Right Foot,Open Play,0,0,1,Normal
+3879701,Patrice Evra,Juventus,19.681463360228072,0.06446731937426291,False,Left Foot,Open Play,1,0,1,Volley
+3879701,Patrice Evra,Juventus,15.520631430454108,0.06292712260092323,False,Left Foot,Open Play,0,0,2,Half Volley
+3879701,Paul Pogba,Juventus,10.060318086422516,0.0591376538145445,False,Head,Open Play,0,1,2,Normal
+3879701,Sami Khedira,Juventus,18.738729946290384,0.06458137487311318,False,Right Foot,Open Play,0,0,3,Normal
+3879701,Alessandro Florenzi,AS Roma,16.02560451277892,0.05209028873765547,False,Right Foot,Open Play,0,0,0,Half Volley
+3879701,Paulo Bruno Exequiel Dybala,Juventus,23.436083290515924,0.05884771200189954,False,Left Foot,Open Play,0,0,2,Normal
+3879701,Giorgio Chiellini,Juventus,28.708361151413705,0.062436727236607564,False,Right Foot,Open Play,0,0,1,Half Volley
+3879701,Radja Nainggolan,AS Roma,16.510905486980416,0.06176174972835756,False,Left Foot,Open Play,0,1,2,Half Volley
+3879701,Juan Guillermo Cuadrado Bello,Juventus,32.593557645645255,0.07420462233376567,False,Right Foot,Open Play,0,1,1,Normal
+3879701,Patrice Evra,Juventus,13.674063039199433,0.06117090202224901,False,Left Foot,Open Play,1,0,1,Normal
+3879701,Paul Pogba,Juventus,28.06439024814187,0.06211006903800742,False,Right Foot,Open Play,0,0,1,Normal
+3879701,Paulo Bruno Exequiel Dybala,Juventus,15.222680447279972,0.0626180319022937,True,Left Foot,Open Play,0,0,2,Normal
+3879701,Patrice Evra,Juventus,22.02294258267955,0.06686325224740812,False,Right Foot,Open Play,0,1,1,Normal
+3879701,Álvaro Borja Morata Martín,Juventus,27.78506793225454,0.06919998441781172,False,Right Foot,Open Play,0,0,2,Normal
+3879701,Radja Nainggolan,AS Roma,23.15879962346926,0.06772807700731086,False,Right Foot,Open Play,1,0,0,Volley
+3879701,Alessandro Florenzi,AS Roma,26.97869529832753,0.05790551725127511,False,Right Foot,Open Play,0,0,1,Half Volley
+3879701,Miralem Pjanić,AS Roma,23.903347045968275,0.058107206512353356,False,Right Foot,Free Kick,0,0,0,Normal

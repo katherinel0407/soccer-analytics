@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.31600203873593,0.07573559132659995,False,Right Foot,Open Play,0,0,0,Normal
-30.421702779430348,0.07204143130782042,False,Right Foot,Open Play,1,0,1,Normal
-31.608384963487136,0.07287785323491042,False,Left Foot,Open Play,0,0,1,Normal
-35.793295461580506,0.05189773590047637,False,Right Foot,Open Play,0,0,3,Normal
-19.19088325221119,0.06351696070388489,False,Left Foot,Open Play,0,0,1,Normal
-23.71033529918968,0.06448224121985986,False,Left Foot,Open Play,0,0,3,Normal
-27.594383486499563,0.07087146019841238,False,Left Foot,Open Play,0,0,2,Normal
-15.789236840328918,0.05945219810695651,False,Right Foot,Open Play,1,0,2,Volley
-16.881350656863926,0.06372341753540216,True,Left Foot,Open Play,0,0,3,Normal
-27.864852413031006,0.06780016577641967,False,Left Foot,Free Kick,0,0,0,Normal
-17.93348822733603,0.05797609283965913,True,Left Foot,Open Play,1,1,3,Half Volley
-10.191172650877817,0.05542587359731351,False,Right Foot,Open Play,0,0,2,Normal
-16.446884203398525,0.05887722537225277,True,Left Foot,Open Play,0,0,3,Normal
-24.000208332429118,0.0649114589632924,False,Right Foot,Open Play,0,0,1,Normal
-11.903780911962386,0.056196264672666654,False,Right Foot,Open Play,1,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266921,Garry Mendes Rodrigues,Elche,35.31600203873593,0.07573559132659995,False,Right Foot,Open Play,0,0,0,Normal
+266921,Ivan Rakitić,Barcelona,30.421702779430348,0.07204143130782042,False,Right Foot,Open Play,1,0,1,Normal
+266921,Andrés Iniesta Luján,Barcelona,31.608384963487136,0.07287785323491042,False,Left Foot,Open Play,0,0,1,Normal
+266921,Jonathas Cristian de Jesus,Elche,35.793295461580506,0.05189773590047637,False,Right Foot,Open Play,0,0,3,Normal
+266921,Munir El Haddadi Mohamed,Barcelona,19.19088325221119,0.06351696070388489,False,Left Foot,Open Play,0,0,1,Normal
+266921,Lionel Andrés Messi Cuccittini,Barcelona,23.71033529918968,0.06448224121985986,False,Left Foot,Open Play,0,0,3,Normal
+266921,Andrés Iniesta Luján,Barcelona,27.594383486499563,0.07087146019841238,False,Left Foot,Open Play,0,0,2,Normal
+266921,Daniel Alves da Silva,Barcelona,15.789236840328918,0.05945219810695651,False,Right Foot,Open Play,1,0,2,Volley
+266921,Lionel Andrés Messi Cuccittini,Barcelona,16.881350656863926,0.06372341753540216,True,Left Foot,Open Play,0,0,3,Normal
+266921,José Eduardo Albácar Gallego,Elche,27.864852413031006,0.06780016577641967,False,Left Foot,Free Kick,0,0,0,Normal
+266921,Munir El Haddadi Mohamed,Barcelona,17.93348822733603,0.05797609283965913,True,Left Foot,Open Play,1,1,3,Half Volley
+266921,Marc Bartra Aregall,Barcelona,10.191172650877817,0.05542587359731351,False,Right Foot,Open Play,0,0,2,Normal
+266921,Lionel Andrés Messi Cuccittini,Barcelona,16.446884203398525,0.05887722537225277,True,Left Foot,Open Play,0,0,3,Normal
+266921,Pedro Eliezer Rodríguez Ledesma,Barcelona,24.000208332429118,0.0649114589632924,False,Right Foot,Open Play,0,0,1,Normal
+266921,Pedro Eliezer Rodríguez Ledesma,Barcelona,11.903780911962386,0.056196264672666654,False,Right Foot,Open Play,1,1,2,Normal

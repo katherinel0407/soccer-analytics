@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.08392994118018,0.07689923332713691,False,Right Foot,Open Play,0,1,1,Normal
-21.255117030964563,0.06038884986042106,False,Left Foot,Open Play,1,0,2,Half Volley
-15.84171707865028,0.054934607233588166,False,Right Foot,Open Play,0,0,1,Normal
-24.286621831782206,0.05785211324168814,False,Right Foot,Open Play,1,0,0,Volley
-25.243811122728676,0.06368935808025986,False,Right Foot,Open Play,0,1,3,Normal
-13.132021931142209,0.06132658955194562,False,Head,Open Play,0,1,4,Normal
-12.53554944946571,0.061019377753633676,False,Head,Open Play,0,0,2,Normal
-29.924237667817035,0.07260491682477681,False,Right Foot,Free Kick,0,0,0,Normal
-9.243916918709301,0.05942594296768589,False,Head,Open Play,0,1,4,Normal
-25.626743843102656,0.06940283779166961,False,Right Foot,Open Play,0,0,1,Normal
-13.994641831786904,0.06198879592653307,False,Head,Open Play,0,0,2,Normal
-29.845770219580533,0.06942349349002737,False,Right Foot,Free Kick,0,0,0,Normal
-17.031735084835013,0.06051173586505641,False,Right Foot,Open Play,1,1,2,Normal
-17.92010044614706,0.060886242051737594,False,Left Foot,Open Play,0,0,2,Normal
-23.574774654278244,0.056969689407617284,False,Right Foot,Open Play,0,0,2,Half Volley
-18.895766721676054,0.06411557264633308,False,Right Foot,Open Play,0,0,1,Normal
-31.48205838251369,0.055922828730688406,False,Left Foot,Open Play,0,0,3,Normal
-21.85497654997598,0.06686607593747007,False,Right Foot,Open Play,1,0,0,Normal
-11.58317745698477,0.05710913583755796,False,Right Foot,Open Play,1,0,2,Normal
-16.900887550658396,0.05424907888222363,False,Right Foot,Open Play,0,0,2,Normal
-21.70829334609241,0.06564929029949326,False,Left Foot,Open Play,1,0,0,Normal
-7.523961722390677,0.058453124189719645,False,Head,Open Play,0,1,1,Normal
-34.54113489739444,0.0614147083831255,False,Right Foot,Open Play,1,0,2,Lob
-12.49039631076613,0.05921081944183031,False,Head,Open Play,0,1,2,Normal
-13.063307391315567,0.06125900671740012,False,Right Foot,Open Play,1,1,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900621,Óscar Guido Trejo,Toulouse,36.08392994118018,0.07689923332713691,False,Right Foot,Open Play,0,1,1,Normal
+3900621,Adrien Thomasson,Nantes,21.255117030964563,0.06038884986042106,False,Left Foot,Open Play,1,0,2,Half Volley
+3900621,Jean-Daniel Akpa Akpro,Toulouse,15.84171707865028,0.054934607233588166,False,Right Foot,Open Play,0,0,1,Normal
+3900621,Adrien Thomasson,Nantes,24.286621831782206,0.05785211324168814,False,Right Foot,Open Play,1,0,0,Volley
+3900621,Emiliano Sala,Nantes,25.243811122728676,0.06368935808025986,False,Right Foot,Open Play,0,1,3,Normal
+3900621,Guillaume Gillet,Nantes,13.132021931142209,0.06132658955194562,False,Head,Open Play,0,1,4,Normal
+3900621,Emiliano Sala,Nantes,12.53554944946571,0.061019377753633676,False,Head,Open Play,0,0,2,Normal
+3900621,Adryan Oliveira Tavares,Nantes,29.924237667817035,0.07260491682477681,False,Right Foot,Free Kick,0,0,0,Normal
+3900621,Guillaume Gillet,Nantes,9.243916918709301,0.05942594296768589,False,Head,Open Play,0,1,4,Normal
+3900621,Óscar Guido Trejo,Toulouse,25.626743843102656,0.06940283779166961,False,Right Foot,Open Play,0,0,1,Normal
+3900621,Wissam Ben Yedder,Toulouse,13.994641831786904,0.06198879592653307,False,Head,Open Play,0,0,2,Normal
+3900621,Óscar Guido Trejo,Toulouse,29.845770219580533,0.06942349349002737,False,Right Foot,Free Kick,0,0,0,Normal
+3900621,Guillaume Gillet,Nantes,17.031735084835013,0.06051173586505641,False,Right Foot,Open Play,1,1,2,Normal
+3900621,Alejandro Bedoya,Nantes,17.92010044614706,0.060886242051737594,False,Left Foot,Open Play,0,0,2,Normal
+3900621,Óscar Guido Trejo,Toulouse,23.574774654278244,0.056969689407617284,False,Right Foot,Open Play,0,0,2,Half Volley
+3900621,Jean-Daniel Akpa Akpro,Toulouse,18.895766721676054,0.06411557264633308,False,Right Foot,Open Play,0,0,1,Normal
+3900621,Alejandro Bedoya,Nantes,31.48205838251369,0.055922828730688406,False,Left Foot,Open Play,0,0,3,Normal
+3900621,Yacine Bammou,Nantes,21.85497654997598,0.06686607593747007,False,Right Foot,Open Play,1,0,0,Normal
+3900621,Adryan Oliveira Tavares,Nantes,11.58317745698477,0.05710913583755796,False,Right Foot,Open Play,1,0,2,Normal
+3900621,Adryan Oliveira Tavares,Nantes,16.900887550658396,0.05424907888222363,False,Right Foot,Open Play,0,0,2,Normal
+3900621,Wissam Ben Yedder,Toulouse,21.70829334609241,0.06564929029949326,False,Left Foot,Open Play,1,0,0,Normal
+3900621,Emiliano Sala,Nantes,7.523961722390677,0.058453124189719645,False,Head,Open Play,0,1,1,Normal
+3900621,Óscar Guido Trejo,Toulouse,34.54113489739444,0.0614147083831255,False,Right Foot,Open Play,1,0,2,Lob
+3900621,Emiliano Sala,Nantes,12.49039631076613,0.05921081944183031,False,Head,Open Play,0,1,2,Normal
+3900621,Oswaldo Augusto Vizcarrondo Araújo,Nantes,13.063307391315567,0.06125900671740012,False,Right Foot,Open Play,1,1,2,Volley

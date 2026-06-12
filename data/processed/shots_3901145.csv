@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.634921855921824,0.05276327530352747,True,Left Foot,Open Play,1,0,0,Normal
-9.455686120002081,0.059307678288302995,True,Right Foot,Open Play,1,0,2,Normal
-34.51173713390852,0.07615931336067619,False,Right Foot,Open Play,0,0,1,Normal
-34.531434954255815,0.0566683660562385,False,Left Foot,Open Play,0,1,1,Normal
-29.40017006753533,0.07020540377492136,False,Left Foot,Open Play,0,1,1,Normal
-13.692698784388707,0.052289398215923384,False,Right Foot,Open Play,1,0,1,Half Volley
-6.18465843842649,0.057626303121752154,True,Head,Open Play,0,1,4,Normal
-29.656196654325047,0.07135923227081813,False,Right Foot,Open Play,1,0,0,Normal
-10.761505470890212,0.056308986475620056,False,Head,Open Play,0,1,3,Normal
-19.265772758962974,0.059403907057392104,False,Right Foot,Open Play,1,0,0,Normal
-41.15786680575173,0.0809483323791756,False,Left Foot,Open Play,1,0,0,Normal
-32.633724886993825,0.06508281949402737,False,Left Foot,Open Play,0,0,1,Normal
-10.336827366266688,0.05954864182363044,False,Head,Open Play,0,1,1,Normal
-4.114608122288198,0.055731348289415,False,Head,Open Play,0,0,5,Normal
-31.11269837220809,0.06576182546721816,False,Left Foot,Open Play,1,0,1,Normal
-16.307666908543354,0.061633254999269846,False,Right Foot,Open Play,0,0,2,Normal
-11.34636505670428,0.06056365749463057,True,Right Foot,Open Play,1,0,0,Volley
-9.222797840135058,0.05788838092571054,False,Left Foot,Open Play,1,0,3,Volley
-17.755280904564703,0.06427321157848936,False,Left Foot,Open Play,0,1,3,Half Volley
-26.461481440010118,0.0698440201526769,False,Right Foot,Open Play,0,1,3,Half Volley
-14.420124826089408,0.05858538169734977,False,Right Foot,Open Play,1,0,2,Normal
-11.344161493913951,0.054083818301285,False,Head,Open Play,0,0,3,Normal
-19.262658175859325,0.06519658584850792,False,Left Foot,Open Play,1,0,2,Normal
-17.310401497365678,0.06163160667940132,False,Left Foot,Open Play,0,1,2,Normal
-9.835141076771603,0.05504615983685014,True,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901145,Kévin Bérigaud,Montpellier,20.634921855921824,0.05276327530352747,True,Left Foot,Open Play,1,0,0,Normal
+3901145,Mustapha Yatabaré,Montpellier,9.455686120002081,0.059307678288302995,True,Right Foot,Open Play,1,0,2,Normal
+3901145,Vincent Manceau,Angers,34.51173713390852,0.07615931336067619,False,Right Foot,Open Play,0,0,1,Normal
+3901145,Ryad Boudebouz,Montpellier,34.531434954255815,0.0566683660562385,False,Left Foot,Open Play,0,1,1,Normal
+3901145,Pierrick Capelle,Angers,29.40017006753533,0.07020540377492136,False,Left Foot,Open Play,0,1,1,Normal
+3901145,Ismaël Traoré,Angers,13.692698784388707,0.052289398215923384,False,Right Foot,Open Play,1,0,1,Half Volley
+3901145,Souleymane Camara,Montpellier,6.18465843842649,0.057626303121752154,True,Head,Open Play,0,1,4,Normal
+3901145,Bryan Dabo,Montpellier,29.656196654325047,0.07135923227081813,False,Right Foot,Open Play,1,0,0,Normal
+3901145,Romain Thomas,Angers,10.761505470890212,0.056308986475620056,False,Head,Open Play,0,1,3,Normal
+3901145,Jamel Saihi,Montpellier,19.265772758962974,0.059403907057392104,False,Right Foot,Open Play,1,0,0,Normal
+3901145,Jérôme Roussillon,Montpellier,41.15786680575173,0.0809483323791756,False,Left Foot,Open Play,1,0,0,Normal
+3901145,Bryan Dabo,Montpellier,32.633724886993825,0.06508281949402737,False,Left Foot,Open Play,0,0,1,Normal
+3901145,Mohamed Lamine Yattara,Angers,10.336827366266688,0.05954864182363044,False,Head,Open Play,0,1,1,Normal
+3901145,Pierrick Capelle,Angers,4.114608122288198,0.055731348289415,False,Head,Open Play,0,0,5,Normal
+3901145,Gaël Angoula,Angers,31.11269837220809,0.06576182546721816,False,Left Foot,Open Play,1,0,1,Normal
+3901145,Billy Ketkeophomphone,Angers,16.307666908543354,0.061633254999269846,False,Right Foot,Open Play,0,0,2,Normal
+3901145,Arnold Bouka Moutou,Angers,11.34636505670428,0.06056365749463057,True,Right Foot,Open Play,1,0,0,Volley
+3901145,Goran Karanović,Angers,9.222797840135058,0.05788838092571054,False,Left Foot,Open Play,1,0,3,Volley
+3901145,Ismaël Traoré,Angers,17.755280904564703,0.06427321157848936,False,Left Foot,Open Play,0,1,3,Half Volley
+3901145,Billy Ketkeophomphone,Angers,26.461481440010118,0.0698440201526769,False,Right Foot,Open Play,0,1,3,Half Volley
+3901145,Mustapha Yatabaré,Montpellier,14.420124826089408,0.05858538169734977,False,Right Foot,Open Play,1,0,2,Normal
+3901145,Bryan Dabo,Montpellier,11.344161493913951,0.054083818301285,False,Head,Open Play,0,0,3,Normal
+3901145,Mustapha Yatabaré,Montpellier,19.262658175859325,0.06519658584850792,False,Left Foot,Open Play,1,0,2,Normal
+3901145,Bryan Dabo,Montpellier,17.310401497365678,0.06163160667940132,False,Left Foot,Open Play,0,1,2,Normal
+3901145,Goran Karanović,Angers,9.835141076771603,0.05504615983685014,True,Right Foot,Open Play,1,0,2,Volley

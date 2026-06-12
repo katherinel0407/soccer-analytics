@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.83864602632884,0.06350176315546353,False,Left Foot,Open Play,1,0,1,Normal
-20.997618912629118,0.05286046024956421,False,Left Foot,Open Play,0,0,3,Normal
-32.407560846197605,0.07411011161951385,False,Right Foot,Free Kick,0,0,0,Normal
-7.640026177965628,0.05831967316413812,False,Head,Open Play,0,1,6,Normal
-27.200183822908258,0.06645751980317238,False,Left Foot,Open Play,1,0,2,Normal
-21.74235497824465,0.06558757039450282,False,Right Foot,Open Play,0,1,2,Normal
-28.2177249260106,0.062039969314841965,False,Right Foot,Open Play,1,1,1,Normal
-9.861541461658009,0.059054138268836494,False,Left Foot,Open Play,1,0,4,Normal
-27.681221071332814,0.07076816593955389,False,Right Foot,Open Play,0,0,1,Normal
-13.379461872586655,0.054853767260771784,False,Left Foot,Open Play,0,0,3,Normal
-25.14318993286254,0.06295182256863101,False,Right Foot,Open Play,0,0,2,Normal
-5.295280917949493,0.057155380454150695,False,Right Foot,Open Play,1,0,3,Normal
-22.80372776543344,0.06704211607746333,False,Right Foot,Open Play,1,0,0,Normal
-11.800423721205943,0.05947215900191016,True,Left Foot,Penalty,0,0,0,Normal
-25.37754913304277,0.06924194468361561,False,Right Foot,Free Kick,0,0,0,Normal
-11.594826432508597,0.06029318782829212,True,Right Foot,Open Play,0,0,3,Normal
-31.776248991975123,0.0727261283409066,False,Right Foot,Open Play,0,0,1,Normal
-22.22476096609365,0.05603200668178857,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69215,Seydou Kéita,Barcelona,16.83864602632884,0.06350176315546353,False,Left Foot,Open Play,1,0,1,Normal
+69215,Pedro Eliezer Rodríguez Ledesma,Barcelona,20.997618912629118,0.05286046024956421,False,Left Foot,Open Play,0,0,3,Normal
+69215,Daniel Alves da Silva,Barcelona,32.407560846197605,0.07411011161951385,False,Right Foot,Free Kick,0,0,0,Normal
+69215,Seydou Kéita,Barcelona,7.640026177965628,0.05831967316413812,False,Head,Open Play,0,1,6,Normal
+69215,Seydou Kéita,Barcelona,27.200183822908258,0.06645751980317238,False,Left Foot,Open Play,1,0,2,Normal
+69215,Andrés Iniesta Luján,Barcelona,21.74235497824465,0.06558757039450282,False,Right Foot,Open Play,0,1,2,Normal
+69215,Xavier Hernández Creus,Barcelona,28.2177249260106,0.062039969314841965,False,Right Foot,Open Play,1,1,1,Normal
+69215,Pedro Eliezer Rodríguez Ledesma,Barcelona,9.861541461658009,0.059054138268836494,False,Left Foot,Open Play,1,0,4,Normal
+69215,Pedro Eliezer Rodríguez Ledesma,Barcelona,27.681221071332814,0.07076816593955389,False,Right Foot,Open Play,0,0,1,Normal
+69215,Lionel Andrés Messi Cuccittini,Barcelona,13.379461872586655,0.054853767260771784,False,Left Foot,Open Play,0,0,3,Normal
+69215,Xavier Hernández Creus,Barcelona,25.14318993286254,0.06295182256863101,False,Right Foot,Open Play,0,0,2,Normal
+69215,Samuel Eto''o Fils,Barcelona,5.295280917949493,0.057155380454150695,False,Right Foot,Open Play,1,0,3,Normal
+69215,Sergio Busquets i Burgos,Barcelona,22.80372776543344,0.06704211607746333,False,Right Foot,Open Play,1,0,0,Normal
+69215,Lionel Andrés Messi Cuccittini,Barcelona,11.800423721205943,0.05947215900191016,True,Left Foot,Penalty,0,0,0,Normal
+69215,Ezequiel Marcelo Garay,Racing Santander,25.37754913304277,0.06924194468361561,False,Right Foot,Free Kick,0,0,0,Normal
+69215,Jonathan Pereira Rodríguez,Racing Santander,11.594826432508597,0.06029318782829212,True,Right Foot,Open Play,0,0,3,Normal
+69215,Andrés Iniesta Luján,Barcelona,31.776248991975123,0.0727261283409066,False,Right Foot,Open Play,0,0,1,Normal
+69215,Lionel Andrés Messi Cuccittini,Barcelona,22.22476096609365,0.05603200668178857,False,Left Foot,Open Play,0,0,1,Normal

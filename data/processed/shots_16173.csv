@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.725969649077033,0.06417851105949718,False,Right Foot,Open Play,1,0,1,Volley
-28.568514137070558,0.07061960250043664,False,Left Foot,Open Play,0,0,1,Normal
-22.856071403458646,0.05716681851033684,False,Left Foot,Open Play,0,0,2,Normal
-7.2367119605522445,0.058039886175919236,False,Head,Open Play,0,0,2,Normal
-10.394710193170367,0.055182158890298504,False,Right Foot,Open Play,1,0,1,Half Volley
-14.154857823376398,0.06198896231795219,False,Right Foot,Open Play,0,0,1,Overhead Kick
-20.69033590834136,0.0645327290928896,False,Left Foot,Open Play,1,0,1,Normal
-5.20096144957834,0.05688095785363641,False,Head,Open Play,0,0,6,Normal
-28.701393694383547,0.05476839429231569,False,Left Foot,Open Play,0,0,2,Normal
-11.909659944767522,0.06081318161221238,False,Right Foot,Open Play,0,0,1,Normal
-23.14238535674315,0.06387123980381502,False,Left Foot,Open Play,0,0,2,Normal
-23.74721036248258,0.06808051237118291,False,Left Foot,Open Play,0,0,2,Normal
-21.957231155134288,0.06655232948495007,False,Right Foot,Open Play,1,0,2,Volley
-30.391610684529383,0.07166464973314139,False,Left Foot,Free Kick,0,0,0,Normal
-26.95848660440716,0.05692266561957808,False,Right Foot,Open Play,0,0,2,Normal
-21.856349191939625,0.06582301404277517,False,Left Foot,Open Play,1,0,0,Normal
-23.693459012984995,0.06255940796882016,False,Left Foot,Open Play,0,0,3,Normal
-9.915644204992427,0.05494313324634153,False,Right Foot,Open Play,1,0,1,Backheel
-21.807338214463492,0.06245363821070878,False,Right Foot,Open Play,0,0,3,Normal
-9.93227063666713,0.05630540319112553,False,Right Foot,Open Play,0,0,1,Normal
-18.739530410338457,0.06446446914715845,False,Left Foot,Open Play,1,0,1,Half Volley
-14.303146506975306,0.05697029599194606,False,Head,Open Play,0,1,2,Normal
-21.8961183774659,0.05350968202490771,False,Right Foot,Open Play,0,0,1,Normal
-22.91724241700995,0.05424305147183739,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16173,Iñaki Williams Arthuer,Athletic Club,17.725969649077033,0.06417851105949718,False,Right Foot,Open Play,1,0,1,Volley
+16173,Yuri Berchiche Izeta,Athletic Club,28.568514137070558,0.07061960250043664,False,Left Foot,Open Play,0,0,1,Normal
+16173,Markel Susaeta Laskurain,Athletic Club,22.856071403458646,0.05716681851033684,False,Left Foot,Open Play,0,0,2,Normal
+16173,Luis Alberto Suárez Díaz,Barcelona,7.2367119605522445,0.058039886175919236,False,Head,Open Play,0,0,2,Normal
+16173,Iñaki Williams Arthuer,Athletic Club,10.394710193170367,0.055182158890298504,False,Right Foot,Open Play,1,0,1,Half Volley
+16173,Raúl García Escudero,Athletic Club,14.154857823376398,0.06198896231795219,False,Right Foot,Open Play,0,0,1,Overhead Kick
+16173,Yuri Berchiche Izeta,Athletic Club,20.69033590834136,0.0645327290928896,False,Left Foot,Open Play,1,0,1,Normal
+16173,Yeray Álvarez López,Athletic Club,5.20096144957834,0.05688095785363641,False,Head,Open Play,0,0,6,Normal
+16173,Lionel Andrés Messi Cuccittini,Barcelona,28.701393694383547,0.05476839429231569,False,Left Foot,Open Play,0,0,2,Normal
+16173,Raúl García Escudero,Athletic Club,11.909659944767522,0.06081318161221238,False,Right Foot,Open Play,0,0,1,Normal
+16173,Lionel Andrés Messi Cuccittini,Barcelona,23.14238535674315,0.06387123980381502,False,Left Foot,Open Play,0,0,2,Normal
+16173,Lionel Andrés Messi Cuccittini,Barcelona,23.74721036248258,0.06808051237118291,False,Left Foot,Open Play,0,0,2,Normal
+16173,Philippe Coutinho Correia,Barcelona,21.957231155134288,0.06655232948495007,False,Right Foot,Open Play,1,0,2,Volley
+16173,Lionel Andrés Messi Cuccittini,Barcelona,30.391610684529383,0.07166464973314139,False,Left Foot,Free Kick,0,0,0,Normal
+16173,Arturo Erasmo Vidal Pardo,Barcelona,26.95848660440716,0.05692266561957808,False,Right Foot,Open Play,0,0,2,Normal
+16173,Mikel San José Domínguez,Athletic Club,21.856349191939625,0.06582301404277517,False,Left Foot,Open Play,1,0,0,Normal
+16173,Carles Aleña Castillo,Barcelona,23.693459012984995,0.06255940796882016,False,Left Foot,Open Play,0,0,3,Normal
+16173,Iñaki Williams Arthuer,Athletic Club,9.915644204992427,0.05494313324634153,False,Right Foot,Open Play,1,0,1,Backheel
+16173,Luis Alberto Suárez Díaz,Barcelona,21.807338214463492,0.06245363821070878,False,Right Foot,Open Play,0,0,3,Normal
+16173,Iñaki Williams Arthuer,Athletic Club,9.93227063666713,0.05630540319112553,False,Right Foot,Open Play,0,0,1,Normal
+16173,Yuri Berchiche Izeta,Athletic Club,18.739530410338457,0.06446446914715845,False,Left Foot,Open Play,1,0,1,Half Volley
+16173,Raúl García Escudero,Athletic Club,14.303146506975306,0.05697029599194606,False,Head,Open Play,0,1,2,Normal
+16173,Iñaki Williams Arthuer,Athletic Club,21.8961183774659,0.05350968202490771,False,Right Foot,Open Play,0,0,1,Normal
+16173,Ousmane Dembélé,Barcelona,22.91724241700995,0.05424305147183739,False,Left Foot,Open Play,0,0,1,Normal

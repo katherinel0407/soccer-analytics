@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.516286472252652,0.061337679885321086,False,Left Foot,Open Play,1,1,2,Overhead Kick
-8.85889383614004,0.05920035429542866,True,Right Foot,Open Play,1,0,1,Volley
-27.77426866723947,0.05923466055034633,False,Left Foot,Open Play,0,0,1,Normal
-28.357186038110335,0.05363206213632672,False,Right Foot,Open Play,0,0,1,Normal
-6.5375836514724615,0.05757870157615364,False,Head,Open Play,0,1,5,Normal
-15.134397906755325,0.054374340385648895,False,Right Foot,Open Play,0,1,1,Half Volley
-8.011242100947888,0.058712398771548574,False,Head,Open Play,0,0,4,Normal
-11.717508267545625,0.06059254004049757,True,Left Foot,Open Play,1,0,0,Normal
-18.663868837944612,0.06396805936335234,False,Left Foot,Open Play,0,0,3,Normal
-23.46103152037438,0.06785876223969696,False,Left Foot,Open Play,0,1,3,Normal
-15.825612152457165,0.06156766026991423,False,Head,Open Play,0,0,2,Normal
-18.797074240423694,0.06423334410124526,False,Left Foot,Open Play,1,0,0,Volley
-38.41575197754172,0.0730841854095704,False,Left Foot,Free Kick,0,0,0,Normal
-32.28157369150395,0.0638899598068346,False,Right Foot,Open Play,0,0,1,Normal
-13.977839604173454,0.05850858495620055,False,Right Foot,Open Play,1,1,2,Normal
-10.965856099730654,0.060182505418273205,False,Head,Open Play,0,1,3,Normal
-16.420109622045764,0.05540780457604851,True,Left Foot,Open Play,0,1,3,Normal
-18.33712082089225,0.05447071507125648,False,Right Foot,Open Play,1,0,1,Overhead Kick
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900586,Johan Audel,Nantes,13.516286472252652,0.061337679885321086,False,Left Foot,Open Play,1,1,2,Overhead Kick
+3900586,Nicolas Benezet,Guingamp,8.85889383614004,0.05920035429542866,True,Right Foot,Open Play,1,0,1,Volley
+3900586,Johan Audel,Nantes,27.77426866723947,0.05923466055034633,False,Left Foot,Open Play,0,0,1,Normal
+3900586,Adrien Thomasson,Nantes,28.357186038110335,0.05363206213632672,False,Right Foot,Open Play,0,0,1,Normal
+3900586,Reynald Lemaître,Guingamp,6.5375836514724615,0.05757870157615364,False,Head,Open Play,0,1,5,Normal
+3900586,Mevlüt Erdinç,Guingamp,15.134397906755325,0.054374340385648895,False,Right Foot,Open Play,0,1,1,Half Volley
+3900586,Guillaume Gillet,Nantes,8.011242100947888,0.058712398771548574,False,Head,Open Play,0,0,4,Normal
+3900586,Yannis Salibur,Guingamp,11.717508267545625,0.06059254004049757,True,Left Foot,Open Play,1,0,0,Normal
+3900586,Nicolas Benezet,Guingamp,18.663868837944612,0.06396805936335234,False,Left Foot,Open Play,0,0,3,Normal
+3900586,Nicolas Benezet,Guingamp,23.46103152037438,0.06785876223969696,False,Left Foot,Open Play,0,1,3,Normal
+3900586,Johan Audel,Nantes,15.825612152457165,0.06156766026991423,False,Head,Open Play,0,0,2,Normal
+3900586,Nicolas Benezet,Guingamp,18.797074240423694,0.06423334410124526,False,Left Foot,Open Play,1,0,0,Volley
+3900586,Yannis Salibur,Guingamp,38.41575197754172,0.0730841854095704,False,Left Foot,Free Kick,0,0,0,Normal
+3900586,Guillaume Gillet,Nantes,32.28157369150395,0.0638899598068346,False,Right Foot,Open Play,0,0,1,Normal
+3900586,Adryan Oliveira Tavares,Nantes,13.977839604173454,0.05850858495620055,False,Right Foot,Open Play,1,1,2,Normal
+3900586,Lévy Koffi Djidji,Nantes,10.965856099730654,0.060182505418273205,False,Head,Open Play,0,1,3,Normal
+3900586,Youssouf Sabaly,Nantes,16.420109622045764,0.05540780457604851,True,Left Foot,Open Play,0,1,3,Normal
+3900586,Jonathan Martins-Pereira,Guingamp,18.33712082089225,0.05447071507125648,False,Right Foot,Open Play,1,0,1,Overhead Kick

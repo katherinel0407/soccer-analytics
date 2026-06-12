@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.656922632730327,0.05761168034179666,False,Head,Open Play,0,1,2,Normal
-30.21539342785396,0.06049005285207266,False,Right Foot,Open Play,0,0,1,Normal
-24.101867147588376,0.06515118682866458,False,Right Foot,Open Play,1,0,0,Half Volley
-33.367199462945635,0.059601931726880525,False,Left Foot,Free Kick,0,0,0,Normal
-19.990497742677643,0.054099122389033395,False,Right Foot,Open Play,0,0,1,Normal
-24.775794639123085,0.058841625709718834,False,Right Foot,Open Play,0,1,3,Normal
-15.16047492659778,0.06170392939232363,False,Left Foot,Open Play,1,0,2,Normal
-25.424397731313128,0.06913382776897256,False,Right Foot,Open Play,1,0,1,Half Volley
-14.564683312726023,0.05359100141993386,False,Right Foot,Open Play,0,1,1,Half Volley
-7.746612162745724,0.05557983768332778,True,Right Foot,Open Play,1,0,2,Volley
-22.203603311174522,0.06392577365098898,False,Right Foot,Open Play,1,0,1,Normal
-12.97574660665042,0.06094821575902411,False,Head,Open Play,0,1,2,Normal
-12.060265337047937,0.059203613998751924,False,Right Foot,Open Play,0,1,1,Normal
-22.99608662359751,0.06344784558124371,False,Right Foot,Open Play,0,1,3,Normal
-31.233475631123728,0.05425364959672074,False,Right Foot,Open Play,1,0,1,Normal
-24.652180430947688,0.0627409630743417,False,Right Foot,Free Kick,0,0,0,Normal
-29.61384811198977,0.07104140147256062,False,Right Foot,Open Play,1,0,0,Normal
-29.62735222729159,0.07006020479290082,False,Left Foot,Open Play,0,0,1,Normal
-42.09726831992784,0.08127908734833972,False,Left Foot,Open Play,0,0,0,Normal
-30.717421766808492,0.07146991552095097,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879625,Molla Wagué,Udinese,10.656922632730327,0.05761168034179666,False,Head,Open Play,0,1,2,Normal
+3879625,Emmanuel Agyemang-Badu,Udinese,30.21539342785396,0.06049005285207266,False,Right Foot,Open Play,0,0,1,Normal
+3879625,Luis Fernando Muriel Fruto,Sampdoria,24.101867147588376,0.06515118682866458,False,Right Foot,Open Play,1,0,0,Half Volley
+3879625,Ervin Zukanović,Sampdoria,33.367199462945635,0.059601931726880525,False,Left Foot,Free Kick,0,0,0,Normal
+3879625,Eder Citadin Martins,Sampdoria,19.990497742677643,0.054099122389033395,False,Right Foot,Open Play,0,0,1,Normal
+3879625,Roberto Soriano,Sampdoria,24.775794639123085,0.058841625709718834,False,Right Foot,Open Play,0,1,3,Normal
+3879625,Cyril Théréau,Udinese,15.16047492659778,0.06170392939232363,False,Left Foot,Open Play,1,0,2,Normal
+3879625,Manuel Rolando Iturra Urrutia,Udinese,25.424397731313128,0.06913382776897256,False,Right Foot,Open Play,1,0,1,Half Volley
+3879625,Lorenzo De Silvestri,Sampdoria,14.564683312726023,0.05359100141993386,False,Right Foot,Open Play,0,1,1,Half Volley
+3879625,Emmanuel Agyemang-Badu,Udinese,7.746612162745724,0.05557983768332778,True,Right Foot,Open Play,1,0,2,Volley
+3879625,Emmanuel Agyemang-Badu,Udinese,22.203603311174522,0.06392577365098898,False,Right Foot,Open Play,1,0,1,Normal
+3879625,Édgar Osvaldo Barreto Cáceres,Sampdoria,12.97574660665042,0.06094821575902411,False,Head,Open Play,0,1,2,Normal
+3879625,Luis Fernando Muriel Fruto,Sampdoria,12.060265337047937,0.059203613998751924,False,Right Foot,Open Play,0,1,1,Normal
+3879625,Fernando Lucas Martins,Sampdoria,22.99608662359751,0.06344784558124371,False,Right Foot,Open Play,0,1,3,Normal
+3879625,Emmanuel Agyemang-Badu,Udinese,31.233475631123728,0.05425364959672074,False,Right Foot,Open Play,1,0,1,Normal
+3879625,Eder Citadin Martins,Sampdoria,24.652180430947688,0.0627409630743417,False,Right Foot,Free Kick,0,0,0,Normal
+3879625,Édgar Osvaldo Barreto Cáceres,Sampdoria,29.61384811198977,0.07104140147256062,False,Right Foot,Open Play,1,0,0,Normal
+3879625,Ali Adnan Kadhim Al Tameemi,Udinese,29.62735222729159,0.07006020479290082,False,Left Foot,Open Play,0,0,1,Normal
+3879625,Ali Adnan Kadhim Al Tameemi,Udinese,42.09726831992784,0.08127908734833972,False,Left Foot,Open Play,0,0,0,Normal
+3879625,Emmanuel Agyemang-Badu,Udinese,30.717421766808492,0.07146991552095097,False,Left Foot,Open Play,1,0,1,Normal

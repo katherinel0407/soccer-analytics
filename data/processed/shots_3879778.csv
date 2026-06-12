@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.637112729082247,0.06936508224383219,False,Right Foot,Free Kick,0,0,0,Normal
-21.11018711428205,0.06611252034500634,False,Left Foot,Open Play,1,0,0,Normal
-31.346451154795815,0.07303030886526439,False,Right Foot,Open Play,0,1,1,Normal
-24.33433787880821,0.059066808931956524,False,Right Foot,Open Play,0,0,3,Normal
-20.479501947068925,0.054092147010381314,False,Right Foot,Open Play,1,0,1,Normal
-14.047063750122296,0.06092484577268594,False,Left Foot,Open Play,1,0,1,Normal
-7.294518489934755,0.05448930993304741,False,Right Foot,Open Play,1,0,1,Normal
-27.47653544390195,0.07062808614295461,False,Left Foot,Open Play,0,0,2,Normal
-22.5523834660552,0.06719293528953754,False,Right Foot,Open Play,1,0,2,Normal
-21.356497840235885,0.05454439200895202,False,Left Foot,Open Play,0,0,2,Normal
-33.85852920609518,0.0547879673875405,False,Right Foot,Open Play,0,0,1,Normal
-29.482198018465315,0.07136688600925262,False,Right Foot,Open Play,0,0,2,Normal
-14.851935900750444,0.062268375391495316,True,Right Foot,Open Play,0,0,3,Normal
-21.067985190805505,0.06623018453349427,False,Right Foot,Open Play,0,0,2,Normal
-10.793516572461451,0.058088384083449046,False,Head,Open Play,0,1,6,Normal
-13.926234236145826,0.05936216590904262,False,Left Foot,Open Play,0,1,2,Normal
-21.716583525039102,0.05699006193407906,False,Left Foot,Open Play,0,0,2,Normal
-17.519132398609237,0.05925928810513799,False,Right Foot,Open Play,0,0,2,Volley
-18.56582882609877,0.06439567166088578,False,Right Foot,Open Play,0,0,3,Half Volley
-13.261221663180203,0.054341634085508884,False,Right Foot,Open Play,1,1,1,Half Volley
-20.00099997500125,0.06317934919533288,False,Left Foot,Open Play,0,0,1,Normal
-10.245974819410794,0.057494301198469176,False,Left Foot,Open Play,1,1,2,Normal
-20.096019506359966,0.06181537275431163,False,Right Foot,Open Play,1,0,2,Normal
-4.85489443757534,0.0570080288406762,True,Head,Open Play,0,0,3,Normal
-16.92837854019103,0.06376974663022668,False,Right Foot,Open Play,1,0,1,Normal
-17.376133056580798,0.06346497692788226,False,Right Foot,Open Play,0,0,2,Normal
-26.705991837039118,0.06889328461001268,False,Right Foot,Open Play,0,0,1,Normal
-27.77426866723947,0.07091245800126202,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879778,Fernando Lucas Martins,Sampdoria,27.637112729082247,0.06936508224383219,False,Right Foot,Free Kick,0,0,0,Normal
+3879778,Mário Rui Silva Duarte,Empoli,21.11018711428205,0.06611252034500634,False,Left Foot,Open Play,1,0,0,Normal
+3879778,Fernando Lucas Martins,Sampdoria,31.346451154795815,0.07303030886526439,False,Right Foot,Open Play,0,1,1,Normal
+3879778,Leandro Daniel Paredes,Empoli,24.33433787880821,0.059066808931956524,False,Right Foot,Open Play,0,0,3,Normal
+3879778,Fabio Quagliarella,Sampdoria,20.479501947068925,0.054092147010381314,False,Right Foot,Open Play,1,0,1,Normal
+3879778,Riccardo Saponara,Empoli,14.047063750122296,0.06092484577268594,False,Left Foot,Open Play,1,0,1,Normal
+3879778,Massimo Maccarone,Empoli,7.294518489934755,0.05448930993304741,False,Right Foot,Open Play,1,0,1,Normal
+3879778,Manuel Pucciarelli,Empoli,27.47653544390195,0.07062808614295461,False,Left Foot,Open Play,0,0,2,Normal
+3879778,Roberto Soriano,Sampdoria,22.5523834660552,0.06719293528953754,False,Right Foot,Open Play,1,0,2,Normal
+3879778,Fabio Quagliarella,Sampdoria,21.356497840235885,0.05454439200895202,False,Left Foot,Open Play,0,0,2,Normal
+3879778,Vincent Laurini,Empoli,33.85852920609518,0.0547879673875405,False,Right Foot,Open Play,0,0,1,Normal
+3879778,Antonio Cassano,Sampdoria,29.482198018465315,0.07136688600925262,False,Right Foot,Open Play,0,0,2,Normal
+3879778,Fabio Quagliarella,Sampdoria,14.851935900750444,0.062268375391495316,True,Right Foot,Open Play,0,0,3,Normal
+3879778,Massimo Maccarone,Empoli,21.067985190805505,0.06623018453349427,False,Right Foot,Open Play,0,0,2,Normal
+3879778,Andrea Ranocchia,Sampdoria,10.793516572461451,0.058088384083449046,False,Head,Open Play,0,1,6,Normal
+3879778,Roberto Soriano,Sampdoria,13.926234236145826,0.05936216590904262,False,Left Foot,Open Play,0,1,2,Normal
+3879778,Levan Mchedlidze,Empoli,21.716583525039102,0.05699006193407906,False,Left Foot,Open Play,0,0,2,Normal
+3879778,Manuel Pucciarelli,Empoli,17.519132398609237,0.05925928810513799,False,Right Foot,Open Play,0,0,2,Volley
+3879778,Fabio Quagliarella,Sampdoria,18.56582882609877,0.06439567166088578,False,Right Foot,Open Play,0,0,3,Half Volley
+3879778,Fabio Quagliarella,Sampdoria,13.261221663180203,0.054341634085508884,False,Right Foot,Open Play,1,1,1,Half Volley
+3879778,Piotr Zieliński,Empoli,20.00099997500125,0.06317934919533288,False,Left Foot,Open Play,0,0,1,Normal
+3879778,Levan Mchedlidze,Empoli,10.245974819410794,0.057494301198469176,False,Left Foot,Open Play,1,1,2,Normal
+3879778,Daniele Croce,Empoli,20.096019506359966,0.06181537275431163,False,Right Foot,Open Play,1,0,2,Normal
+3879778,Vincent Laurini,Empoli,4.85489443757534,0.0570080288406762,True,Head,Open Play,0,0,3,Normal
+3879778,Levan Mchedlidze,Empoli,16.92837854019103,0.06376974663022668,False,Right Foot,Open Play,1,0,1,Normal
+3879778,Manuel Pucciarelli,Empoli,17.376133056580798,0.06346497692788226,False,Right Foot,Open Play,0,0,2,Normal
+3879778,Carlos Joaquín Correa,Sampdoria,26.705991837039118,0.06889328461001268,False,Right Foot,Open Play,0,0,1,Normal
+3879778,Lazaros Christodoulopoulos,Sampdoria,27.77426866723947,0.07091245800126202,False,Right Foot,Free Kick,0,0,0,Normal

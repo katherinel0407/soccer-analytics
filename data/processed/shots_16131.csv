@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.17586685675881,0.05507189316497363,False,Right Foot,Open Play,1,0,2,Volley
-26.432177360179764,0.0699969396615057,False,Right Foot,Open Play,0,0,1,Normal
-11.951987282456416,0.058820999112976516,False,Head,Open Play,0,1,3,Normal
-16.747537132366656,0.06355056069879028,True,Right Foot,Open Play,0,0,2,Normal
-20.82738581771606,0.06238473780522266,False,Left Foot,Open Play,0,0,3,Half Volley
-12.466354719804817,0.05853427057042806,False,Head,Open Play,0,1,4,Normal
-11.112605455067683,0.05496894419152915,False,Head,Open Play,0,1,1,Normal
-25.806975801127873,0.06132740343409065,False,Left Foot,Open Play,1,0,1,Half Volley
-13.364505228402582,0.06151118657766761,True,Left Foot,Open Play,0,0,3,Normal
-24.596341191323557,0.06872852777311658,False,Right Foot,Open Play,0,0,1,Normal
-15.285614151874963,0.06279477906120268,False,Left Foot,Open Play,1,0,2,Normal
-8.14984662432367,0.05769674050466174,False,Head,Open Play,0,0,2,Normal
-12.2723265927859,0.0591378281177068,False,Left Foot,Open Play,1,0,1,Half Volley
-19.039432764659775,0.0635522201860561,False,Left Foot,Open Play,1,0,1,Normal
-13.18483977907961,0.05277327599064628,True,Right Foot,Open Play,0,0,3,Normal
-7.52728370662352,0.05838272709714383,False,Head,Open Play,0,1,2,Normal
-7.023531875061152,0.05421920664654233,False,Right Foot,Open Play,1,0,3,Half Volley
-11.715374513859981,0.06072507214509155,False,Head,Open Play,0,1,2,Normal
-16.516960979550685,0.06054490999596685,False,Left Foot,Open Play,0,0,0,Half Volley
-9.235799911215054,0.05433557431361823,False,Right Foot,Open Play,1,0,1,Half Volley
-9.86154146165801,0.0540342097931103,False,Right Foot,Open Play,1,1,1,Normal
-26.024987992312315,0.06778373009589728,False,Left Foot,Open Play,0,0,3,Normal
-10.34698023579827,0.057134693995579765,False,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16131,Sergio Enrich Ametller,Eibar,11.17586685675881,0.05507189316497363,False,Right Foot,Open Play,1,0,2,Volley
+16131,José Ángel Valdés Díaz,Eibar,26.432177360179764,0.0699969396615057,False,Right Foot,Open Play,0,0,1,Normal
+16131,Anaitz Arbilla Zabala,Eibar,11.951987282456416,0.058820999112976516,False,Head,Open Play,0,1,3,Normal
+16131,Luis Alberto Suárez Díaz,Barcelona,16.747537132366656,0.06355056069879028,True,Right Foot,Open Play,0,0,2,Normal
+16131,Gonzalo Escalante,Eibar,20.82738581771606,0.06238473780522266,False,Left Foot,Open Play,0,0,3,Half Volley
+16131,Sergio Enrich Ametller,Eibar,12.466354719804817,0.05853427057042806,False,Head,Open Play,0,1,4,Normal
+16131,Sergi Roberto Carnicer,Barcelona,11.112605455067683,0.05496894419152915,False,Head,Open Play,0,1,1,Normal
+16131,Fabián Ariel Orellana Valenzuela,Eibar,25.806975801127873,0.06132740343409065,False,Left Foot,Open Play,1,0,1,Half Volley
+16131,Lionel Andrés Messi Cuccittini,Barcelona,13.364505228402582,0.06151118657766761,True,Left Foot,Open Play,0,0,3,Normal
+16131,Joan Jordán Moreno,Eibar,24.596341191323557,0.06872852777311658,False,Right Foot,Open Play,0,0,1,Normal
+16131,Pedro Bigas Rigo,Eibar,15.285614151874963,0.06279477906120268,False,Left Foot,Open Play,1,0,2,Normal
+16131,Luis Alberto Suárez Díaz,Barcelona,8.14984662432367,0.05769674050466174,False,Head,Open Play,0,0,2,Normal
+16131,Philippe Coutinho Correia,Barcelona,12.2723265927859,0.0591378281177068,False,Left Foot,Open Play,1,0,1,Half Volley
+16131,Lionel Andrés Messi Cuccittini,Barcelona,19.039432764659775,0.0635522201860561,False,Left Foot,Open Play,1,0,1,Normal
+16131,Luis Alberto Suárez Díaz,Barcelona,13.18483977907961,0.05277327599064628,True,Right Foot,Open Play,0,0,3,Normal
+16131,Sergio Enrich Ametller,Eibar,7.52728370662352,0.05838272709714383,False,Head,Open Play,0,1,2,Normal
+16131,Gonzalo Escalante,Eibar,7.023531875061152,0.05421920664654233,False,Right Foot,Open Play,1,0,3,Half Volley
+16131,Pablo Ezequiel De Blasis,Eibar,11.715374513859981,0.06072507214509155,False,Head,Open Play,0,1,2,Normal
+16131,Enrique García Martínez,Eibar,16.516960979550685,0.06054490999596685,False,Left Foot,Open Play,0,0,0,Half Volley
+16131,Fabián Ariel Orellana Valenzuela,Eibar,9.235799911215054,0.05433557431361823,False,Right Foot,Open Play,1,0,1,Half Volley
+16131,Enrique García Martínez,Eibar,9.86154146165801,0.0540342097931103,False,Right Foot,Open Play,1,1,1,Normal
+16131,Papa Kouly Diop,Eibar,26.024987992312315,0.06778373009589728,False,Left Foot,Open Play,0,0,3,Normal
+16131,Anaitz Arbilla Zabala,Eibar,10.34698023579827,0.057134693995579765,False,Head,Open Play,0,1,5,Normal

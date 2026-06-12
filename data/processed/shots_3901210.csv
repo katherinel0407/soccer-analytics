@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.175866856758802,0.059669609997248844,False,Right Foot,Open Play,1,0,2,Overhead Kick
-19.483326204732087,0.05332264856345893,False,Right Foot,Open Play,1,0,2,Half Volley
-31.20544824225411,0.07293094155823591,False,Right Foot,Open Play,0,1,2,Normal
-8.077747210701753,0.05717988813134811,False,Head,Open Play,0,0,5,Normal
-7.523961722390672,0.0579475604549652,False,Head,Open Play,0,0,6,Normal
-7.4242844773082375,0.05412550968344919,False,Head,Open Play,0,0,3,Normal
-25.357050301641948,0.058864606281139556,False,Left Foot,Open Play,0,0,2,Normal
-11.920570456148486,0.05979921660085004,False,Head,Open Play,0,0,1,Normal
-26.648076853686828,0.06192387632559144,False,Right Foot,Open Play,1,0,1,Volley
-33.71201566207514,0.07472045402785815,False,Left Foot,Open Play,0,0,1,Normal
-27.073972741361768,0.05724462702094588,False,Right Foot,Open Play,0,0,2,Normal
-32.53382854814355,0.06098630103164697,False,Right Foot,Open Play,0,0,1,Normal
-27.829660436304284,0.05849518093324826,False,Left Foot,Open Play,0,0,1,Normal
-11.360017605620154,0.05602085947244698,False,Head,Open Play,0,0,1,Normal
-36.98986347636336,0.06725157507695768,False,Right Foot,Open Play,0,0,2,Normal
-37.44222215627699,0.06313485580317829,False,Right Foot,Open Play,1,0,1,Normal
-27.44175650354765,0.06320381904541564,False,Right Foot,Free Kick,0,0,0,Normal
-13.629746879527886,0.06153404781444593,True,Right Foot,Open Play,1,0,2,Volley
-18.000000000000004,0.05628673841173115,False,Right Foot,Open Play,1,0,1,Normal
-31.34645115479582,0.07251283666566004,False,Left Foot,Open Play,0,0,1,Normal
-19.363109254456013,0.06526469073735724,False,Right Foot,Open Play,0,1,3,Normal
-22.232408776378687,0.06465638125729388,False,Right Foot,Free Kick,0,0,0,Normal
-18.832153355365396,0.05689202789208186,False,Left Foot,Open Play,0,0,2,Normal
-29.841246622753548,0.06512909927679612,False,Right Foot,Open Play,1,0,0,Normal
-5.913543776789002,0.05640887520052232,False,Left Foot,Open Play,1,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901210,Nolan Roux,Saint-Étienne,11.175866856758802,0.059669609997248844,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3901210,Thiago Xavier Rodrigues Corrêa,Troyes,19.483326204732087,0.05332264856345893,False,Right Foot,Open Play,1,0,2,Half Volley
+3901210,Kévin Monnet-Paquet,Saint-Étienne,31.20544824225411,0.07293094155823591,False,Right Foot,Open Play,0,1,2,Normal
+3901210,Moustapha Bayal Sall,Saint-Étienne,8.077747210701753,0.05717988813134811,False,Head,Open Play,0,0,5,Normal
+3901210,Loïc Perrin,Saint-Étienne,7.523961722390672,0.0579475604549652,False,Head,Open Play,0,0,6,Normal
+3901210,Kévin Monnet-Paquet,Saint-Étienne,7.4242844773082375,0.05412550968344919,False,Head,Open Play,0,0,3,Normal
+3901210,Lossémy Karaboué,Troyes,25.357050301641948,0.058864606281139556,False,Left Foot,Open Play,0,0,2,Normal
+3901210,Nolan Roux,Saint-Étienne,11.920570456148486,0.05979921660085004,False,Head,Open Play,0,0,1,Normal
+3901210,Lossémy Karaboué,Troyes,26.648076853686828,0.06192387632559144,False,Right Foot,Open Play,1,0,1,Volley
+3901210,Oussama Tannane,Saint-Étienne,33.71201566207514,0.07472045402785815,False,Left Foot,Open Play,0,0,1,Normal
+3901210,Corentin Jean,Troyes,27.073972741361768,0.05724462702094588,False,Right Foot,Open Play,0,0,2,Normal
+3901210,Renaud Cohade,Saint-Étienne,32.53382854814355,0.06098630103164697,False,Right Foot,Open Play,0,0,1,Normal
+3901210,Fabien Lemoine,Saint-Étienne,27.829660436304284,0.05849518093324826,False,Left Foot,Open Play,0,0,1,Normal
+3901210,Renaud Cohade,Saint-Étienne,11.360017605620154,0.05602085947244698,False,Head,Open Play,0,0,1,Normal
+3901210,Jessy Pi,Troyes,36.98986347636336,0.06725157507695768,False,Right Foot,Open Play,0,0,2,Normal
+3901210,Aloïs Confais,Troyes,37.44222215627699,0.06313485580317829,False,Right Foot,Open Play,1,0,1,Normal
+3901210,Valentin Eysseric,Saint-Étienne,27.44175650354765,0.06320381904541564,False,Right Foot,Free Kick,0,0,0,Normal
+3901210,Neal Maupay,Saint-Étienne,13.629746879527886,0.06153404781444593,True,Right Foot,Open Play,1,0,2,Volley
+3901210,Neal Maupay,Saint-Étienne,18.000000000000004,0.05628673841173115,False,Right Foot,Open Play,1,0,1,Normal
+3901210,Fabien Camus,Troyes,31.34645115479582,0.07251283666566004,False,Left Foot,Open Play,0,0,1,Normal
+3901210,Oussama Tannane,Saint-Étienne,19.363109254456013,0.06526469073735724,False,Right Foot,Open Play,0,1,3,Normal
+3901210,Valentin Eysseric,Saint-Étienne,22.232408776378687,0.06465638125729388,False,Right Foot,Free Kick,0,0,0,Normal
+3901210,Corentin Jean,Troyes,18.832153355365396,0.05689202789208186,False,Left Foot,Open Play,0,0,2,Normal
+3901210,Fabien Camus,Troyes,29.841246622753548,0.06512909927679612,False,Right Foot,Open Play,1,0,0,Normal
+3901210,Oussama Tannane,Saint-Étienne,5.913543776789002,0.05640887520052232,False,Left Foot,Open Play,1,1,2,Normal

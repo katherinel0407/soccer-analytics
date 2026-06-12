@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.61508360777248,0.055008160303591916,False,Right Foot,Open Play,1,0,1,Half Volley
-25.55190795224497,0.0687357003428308,False,Left Foot,Open Play,0,0,1,Normal
-5.420332093147057,0.05747229684237147,False,Head,Open Play,0,0,4,Normal
-29.119237627383033,0.06958331824605259,False,Left Foot,Open Play,1,0,2,Normal
-17.140595088852663,0.05451279247157191,False,Head,Open Play,0,0,2,Normal
-21.560380330597134,0.06668251259447629,False,Right Foot,Open Play,0,0,3,Normal
-31.407005587925763,0.06641356166952982,False,Right Foot,Open Play,0,0,1,Normal
-8.956003573022953,0.05735157293254802,False,Head,Open Play,0,1,2,Normal
-7.256031973468697,0.057343820072855864,False,Head,Open Play,0,1,3,Normal
-13.591541487263322,0.05642610921365682,False,Head,Open Play,0,0,2,Normal
-19.602295783912663,0.06513442212213255,False,Right Foot,Open Play,0,0,2,Normal
-14.086873322352265,0.05593691979407709,False,Right Foot,Open Play,0,0,1,Half Volley
-19.912307751739878,0.06471172920814271,False,Left Foot,Open Play,0,1,3,Normal
-22.853664913969485,0.0663865468351659,False,Right Foot,Open Play,0,0,1,Normal
-21.99681795169474,0.05716714695907789,False,Right Foot,Open Play,1,0,1,Normal
-23.103679360655956,0.062306425707628864,False,Right Foot,Open Play,1,0,2,Normal
-16.58945448168806,0.0626503083519794,False,Right Foot,Open Play,1,0,2,Half Volley
-18.092263539977523,0.05420827444319264,False,Right Foot,Open Play,0,1,1,Normal
-20.008498194517248,0.0656581510209058,False,Left Foot,Open Play,0,0,3,Normal
-16.58010856418015,0.05385814620306974,False,Right Foot,Open Play,0,0,1,Normal
-19.42807247258461,0.06441781189821125,False,Right Foot,Open Play,0,0,2,Normal
-28.900000000000002,0.05860549150788178,False,Right Foot,Open Play,1,0,0,Normal
-23.228000344411914,0.06687006076659341,False,Left Foot,Open Play,1,0,1,Normal
-18.25376673456742,0.061691188321581894,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754325,Graziano Pellè,Southampton,10.61508360777248,0.055008160303591916,False,Right Foot,Open Play,1,0,1,Half Volley
+3754325,Dušan Tadić,Southampton,25.55190795224497,0.0687357003428308,False,Left Foot,Open Play,0,0,1,Normal
+3754325,Craig Dawson,West Bromwich Albion,5.420332093147057,0.05747229684237147,False,Head,Open Play,0,0,4,Normal
+3754325,Craig Gardner,West Bromwich Albion,29.119237627383033,0.06958331824605259,False,Left Foot,Open Play,1,0,2,Normal
+3754325,Craig Dawson,West Bromwich Albion,17.140595088852663,0.05451279247157191,False,Head,Open Play,0,0,2,Normal
+3754325,Jay Rodriguez,Southampton,21.560380330597134,0.06668251259447629,False,Right Foot,Open Play,0,0,3,Normal
+3754325,James Ward-Prowse,Southampton,31.407005587925763,0.06641356166952982,False,Right Foot,Open Play,0,0,1,Normal
+3754325,Jay Rodriguez,Southampton,8.956003573022953,0.05735157293254802,False,Head,Open Play,0,1,2,Normal
+3754325,Virgil van Dijk,Southampton,7.256031973468697,0.057343820072855864,False,Head,Open Play,0,1,3,Normal
+3754325,Victor Wanyama,Southampton,13.591541487263322,0.05642610921365682,False,Head,Open Play,0,0,2,Normal
+3754325,Jay Rodriguez,Southampton,19.602295783912663,0.06513442212213255,False,Right Foot,Open Play,0,0,2,Normal
+3754325,José Salomón Rondón Giménez,West Bromwich Albion,14.086873322352265,0.05593691979407709,False,Right Foot,Open Play,0,0,1,Half Volley
+3754325,Callum McManaman,West Bromwich Albion,19.912307751739878,0.06471172920814271,False,Left Foot,Open Play,0,1,3,Normal
+3754325,Callum McManaman,West Bromwich Albion,22.853664913969485,0.0663865468351659,False,Right Foot,Open Play,0,0,1,Normal
+3754325,James Ward-Prowse,Southampton,21.99681795169474,0.05716714695907789,False,Right Foot,Open Play,1,0,1,Normal
+3754325,James Ward-Prowse,Southampton,23.103679360655956,0.062306425707628864,False,Right Foot,Open Play,1,0,2,Normal
+3754325,Graziano Pellè,Southampton,16.58945448168806,0.0626503083519794,False,Right Foot,Open Play,1,0,2,Half Volley
+3754325,Sadio Mané,Southampton,18.092263539977523,0.05420827444319264,False,Right Foot,Open Play,0,1,1,Normal
+3754325,Saido Berahino,West Bromwich Albion,20.008498194517248,0.0656581510209058,False,Left Foot,Open Play,0,0,3,Normal
+3754325,Sadio Mané,Southampton,16.58010856418015,0.05385814620306974,False,Right Foot,Open Play,0,0,1,Normal
+3754325,Graziano Pellè,Southampton,19.42807247258461,0.06441781189821125,False,Right Foot,Open Play,0,0,2,Normal
+3754325,Craig Gardner,West Bromwich Albion,28.900000000000002,0.05860549150788178,False,Right Foot,Open Play,1,0,0,Normal
+3754325,Graziano Pellè,Southampton,23.228000344411914,0.06687006076659341,False,Left Foot,Open Play,1,0,1,Normal
+3754325,Sadio Mané,Southampton,18.25376673456742,0.061691188321581894,False,Left Foot,Open Play,0,0,3,Normal

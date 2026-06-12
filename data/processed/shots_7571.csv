@@ -1,12 +1,12 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.784887978899608,0.0710159290205298,False,Right Foot,Open Play,1,0,1,Lob
-27.294688127912362,0.05843681637388979,False,Left Foot,Free Kick,0,0,0,Normal
-21.400934559032695,0.06536981962479908,False,Right Foot,Open Play,0,0,0,Normal
-24.839484696748443,0.053247091485699546,False,Left Foot,Open Play,0,0,1,Normal
-30.01666203960727,0.06734545092168714,False,Right Foot,Open Play,0,0,1,Normal
-27.313000567495326,0.05981178084829161,False,Right Foot,Free Kick,0,0,0,Normal
-17.4928556845359,0.05724170529943384,False,Left Foot,Open Play,1,0,2,Normal
-6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,2,Normal
-9.219544457292887,0.054875192266184744,True,Head,Open Play,0,0,5,Normal
-13.892443989449804,0.053453634144510986,False,Right Foot,Open Play,0,1,2,Normal
-16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7571,M'Baye Babacar Niang,Senegal,27.784887978899608,0.0710159290205298,False,Right Foot,Open Play,1,0,1,Lob
+7571,Juan Fernando Quintero Paniagua,Colombia,27.294688127912362,0.05843681637388979,False,Left Foot,Free Kick,0,0,0,Normal
+7571,Keita Baldé Diao,Senegal,21.400934559032695,0.06536981962479908,False,Right Foot,Open Play,0,0,0,Normal
+7571,Ismaïla Sarr,Senegal,24.839484696748443,0.053247091485699546,False,Left Foot,Open Play,0,0,1,Normal
+7571,Salif Sané,Senegal,30.01666203960727,0.06734545092168714,False,Right Foot,Open Play,0,0,1,Normal
+7571,Sadio Mané,Senegal,27.313000567495326,0.05981178084829161,False,Right Foot,Free Kick,0,0,0,Normal
+7571,Luis Fernando Muriel Fruto,Colombia,17.4928556845359,0.05724170529943384,False,Left Foot,Open Play,1,0,2,Normal
+7571,Radamel Falcao García Zárate,Colombia,6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,2,Normal
+7571,Yerry Fernando Mina González,Colombia,9.219544457292887,0.054875192266184744,True,Head,Open Play,0,0,5,Normal
+7571,M'Baye Babacar Niang,Senegal,13.892443989449804,0.053453634144510986,False,Right Foot,Open Play,0,1,2,Normal
+7571,Ismaïla Sarr,Senegal,16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,1,0,1,Volley

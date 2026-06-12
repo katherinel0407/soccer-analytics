@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.63055985667863,0.057936254921903636,False,Right Foot,Open Play,0,0,1,Normal
-27.254724361108472,0.06493682000332389,True,Left Foot,Free Kick,0,0,0,Normal
-14.07195793057953,0.06203706355905286,False,Left Foot,Open Play,1,0,1,Normal
-8.786353054595518,0.05903451728552893,False,Head,Open Play,0,1,2,Normal
-17.065169205138286,0.06293032670971732,True,Right Foot,Open Play,0,0,1,Normal
-29.068883707497267,0.05908720978900898,False,Right Foot,Open Play,0,0,1,Normal
-10.785638599545232,0.0588513931999309,False,Head,Open Play,0,0,1,Normal
-10.346980235798267,0.05340889050268458,False,Head,Open Play,0,0,1,Normal
-6.841052550594834,0.058183573213158986,False,Head,Open Play,0,0,6,Normal
-8.415461959987704,0.05884125126860307,False,Right Foot,Open Play,1,0,3,Volley
-7.824321056807426,0.054798055192799844,False,Left Foot,Open Play,1,0,1,Normal
-19.691876497683,0.06547152118232472,False,Left Foot,Open Play,1,0,1,Volley
-8.075270893288968,0.058311122809030426,False,Head,Open Play,0,0,2,Normal
-9.900505037623086,0.055149244256262046,False,Head,Open Play,0,0,0,Normal
-7.615773105863909,0.0565764903339905,False,Head,Open Play,0,0,2,Normal
-9.154780172128659,0.05761436141021493,True,Left Foot,Open Play,0,1,1,Normal
-23.212496634356253,0.05882520919534709,False,Right Foot,Open Play,1,0,1,Volley
-32.62713594540593,0.07294495475294062,False,Right Foot,Free Kick,0,0,0,Normal
-16.28895331198417,0.06331855070928655,False,Right Foot,Open Play,0,0,2,Normal
-10.444615837837214,0.05396328789914815,False,Right Foot,Open Play,0,0,1,Normal
-21.817882573705457,0.057758462637840784,False,Left Foot,Open Play,0,0,2,Normal
-29.689223634174066,0.07223160121509045,True,Left Foot,Free Kick,0,0,0,Normal
-35.640005611671846,0.06293683721323565,False,Left Foot,Open Play,0,0,0,Normal
-6.929646455628169,0.05817399595699064,False,Right Foot,Open Play,0,0,2,Normal
-15.999999999999998,0.0624932578656277,False,Right Foot,Open Play,0,0,2,Normal
-7.414849964766647,0.05725206624407033,False,Head,Open Play,0,0,2,Diving Header
-11.552056094046637,0.05904169644086754,False,Right Foot,Open Play,0,0,2,Half Volley
-9.900505037623088,0.05875676231543443,False,Head,Open Play,0,0,3,Normal
-23.212496634356253,0.05882520919534709,False,Right Foot,Open Play,1,0,4,Normal
-13.851353724455961,0.06135327742802317,False,Right Foot,Open Play,1,0,1,Normal
-19.565786465153916,0.06522891708488836,False,Right Foot,Open Play,1,1,1,Normal
-14.780054127099808,0.054116765324383566,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16086,Borja Iglesias Quintas,Espanyol,20.63055985667863,0.057936254921903636,False,Right Foot,Open Play,0,0,1,Normal
+16086,Lionel Andrés Messi Cuccittini,Barcelona,27.254724361108472,0.06493682000332389,True,Left Foot,Free Kick,0,0,0,Normal
+16086,Luis Alberto Suárez Díaz,Barcelona,14.07195793057953,0.06203706355905286,False,Left Foot,Open Play,1,0,1,Normal
+16086,Víctor Sánchez Mata,Espanyol,8.786353054595518,0.05903451728552893,False,Head,Open Play,0,1,2,Normal
+16086,Ousmane Dembélé,Barcelona,17.065169205138286,0.06293032670971732,True,Right Foot,Open Play,0,0,1,Normal
+16086,Sergi Darder Moll,Espanyol,29.068883707497267,0.05908720978900898,False,Right Foot,Open Play,0,0,1,Normal
+16086,Hernán Arsenio Pérez González,Espanyol,10.785638599545232,0.0588513931999309,False,Head,Open Play,0,0,1,Normal
+16086,Óscar Esau Duarte Gaitán,Espanyol,10.346980235798267,0.05340889050268458,False,Head,Open Play,0,0,1,Normal
+16086,David López Silva,Espanyol,6.841052550594834,0.058183573213158986,False,Head,Open Play,0,0,6,Normal
+16086,Luis Alberto Suárez Díaz,Barcelona,8.415461959987704,0.05884125126860307,False,Right Foot,Open Play,1,0,3,Volley
+16086,Arturo Erasmo Vidal Pardo,Barcelona,7.824321056807426,0.054798055192799844,False,Left Foot,Open Play,1,0,1,Normal
+16086,Jordi Alba Ramos,Barcelona,19.691876497683,0.06547152118232472,False,Left Foot,Open Play,1,0,1,Volley
+16086,Ivan Rakitić,Barcelona,8.075270893288968,0.058311122809030426,False,Head,Open Play,0,0,2,Normal
+16086,Lionel Andrés Messi Cuccittini,Barcelona,9.900505037623086,0.055149244256262046,False,Head,Open Play,0,0,0,Normal
+16086,Hernán Arsenio Pérez González,Espanyol,7.615773105863909,0.0565764903339905,False,Head,Open Play,0,0,2,Normal
+16086,Luis Alberto Suárez Díaz,Barcelona,9.154780172128659,0.05761436141021493,True,Left Foot,Open Play,0,1,1,Normal
+16086,Sergi Darder Moll,Espanyol,23.212496634356253,0.05882520919534709,False,Right Foot,Open Play,1,0,1,Volley
+16086,Luis Alberto Suárez Díaz,Barcelona,32.62713594540593,0.07294495475294062,False,Right Foot,Free Kick,0,0,0,Normal
+16086,Ousmane Dembélé,Barcelona,16.28895331198417,0.06331855070928655,False,Right Foot,Open Play,0,0,2,Normal
+16086,Lionel Andrés Messi Cuccittini,Barcelona,10.444615837837214,0.05396328789914815,False,Right Foot,Open Play,0,0,1,Normal
+16086,Hernán Arsenio Pérez González,Espanyol,21.817882573705457,0.057758462637840784,False,Left Foot,Open Play,0,0,2,Normal
+16086,Lionel Andrés Messi Cuccittini,Barcelona,29.689223634174066,0.07223160121509045,True,Left Foot,Free Kick,0,0,0,Normal
+16086,Marc Roca Junqué,Espanyol,35.640005611671846,0.06293683721323565,False,Left Foot,Open Play,0,0,0,Normal
+16086,Borja Iglesias Quintas,Espanyol,6.929646455628169,0.05817399595699064,False,Right Foot,Open Play,0,0,2,Normal
+16086,Philippe Coutinho Correia,Barcelona,15.999999999999998,0.0624932578656277,False,Right Foot,Open Play,0,0,2,Normal
+16086,Lionel Andrés Messi Cuccittini,Barcelona,7.414849964766647,0.05725206624407033,False,Head,Open Play,0,0,2,Diving Header
+16086,Ivan Rakitić,Barcelona,11.552056094046637,0.05904169644086754,False,Right Foot,Open Play,0,0,2,Half Volley
+16086,Víctor Sánchez Mata,Espanyol,9.900505037623088,0.05875676231543443,False,Head,Open Play,0,0,3,Normal
+16086,Leonardo Carrilho Baptistão,Espanyol,23.212496634356253,0.05882520919534709,False,Right Foot,Open Play,1,0,4,Normal
+16086,Borja Iglesias Quintas,Espanyol,13.851353724455961,0.06135327742802317,False,Right Foot,Open Play,1,0,1,Normal
+16086,Dídac Vilá Rosselló,Espanyol,19.565786465153916,0.06522891708488836,False,Right Foot,Open Play,1,1,1,Normal
+16086,Munir El Haddadi Mohamed,Barcelona,14.780054127099808,0.054116765324383566,False,Right Foot,Open Play,0,0,1,Normal

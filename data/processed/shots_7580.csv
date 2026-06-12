@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.92582403567252,0.06033528764417051,False,Left Foot,Free Kick,0,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-19.313207915827967,0.06494908772480182,False,Right Foot,Free Kick,0,0,0,Normal
-27.294688127912362,0.0706382153344959,False,Right Foot,Open Play,0,0,3,Normal
-30.066592756745816,0.06901489905030712,True,Left Foot,Open Play,0,0,0,Normal
-22.627416997969522,0.05456244895387711,False,Left Foot,Open Play,0,0,2,Normal
-9.219544457292887,0.0576777719680193,True,Left Foot,Open Play,0,0,2,Normal
-6.4031242374328485,0.054841624801478805,False,Right Foot,Open Play,0,0,2,Normal
-25.612496949731394,0.05572386125008547,True,Right Foot,Open Play,1,0,1,Half Volley
-13.0,0.06132285227473536,False,Left Foot,Open Play,0,0,3,Normal
-12.806248474865697,0.060967023380698634,True,Left Foot,Open Play,0,0,2,Normal
-29.68164415931166,0.07240436293722485,False,Left Foot,Free Kick,0,0,0,Normal
-30.0,0.07241868024841559,False,Left Foot,Open Play,1,0,1,Half Volley
-17.029386365926403,0.05574201488403172,True,Right Foot,Open Play,0,0,1,Normal
-17.69180601295413,0.06377327899593536,False,Left Foot,Open Play,0,1,1,Normal
-7.211102550927978,0.05837628455796209,False,Right Foot,Open Play,1,0,5,Normal
-15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,2,Normal
-16.1245154965971,0.05729971908326584,False,Right Foot,Open Play,0,1,2,Normal
-16.15549442140351,0.05208307831539282,False,Left Foot,Open Play,0,0,2,Normal
-8.54400374531753,0.0589147156547097,True,Head,Open Play,0,0,2,Normal
-7.280109889280518,0.05818657105361519,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7580,Antoine Griezmann,France,26.92582403567252,0.06033528764417051,False,Left Foot,Free Kick,0,0,0,Normal
+7580,Antoine Griezmann,France,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+7580,Paul Pogba,France,19.313207915827967,0.06494908772480182,False,Right Foot,Free Kick,0,0,0,Normal
+7580,Éver Maximiliano David Banega,Argentina,27.294688127912362,0.0706382153344959,False,Right Foot,Open Play,0,0,3,Normal
+7580,Ángel Fabián Di María Hernández,Argentina,30.066592756745816,0.06901489905030712,True,Left Foot,Open Play,0,0,0,Normal
+7580,Lionel Andrés Messi Cuccittini,Argentina,22.627416997969522,0.05456244895387711,False,Left Foot,Open Play,0,0,2,Normal
+7580,Gabriel Iván Mercado,Argentina,9.219544457292887,0.0576777719680193,True,Left Foot,Open Play,0,0,2,Normal
+7580,Antoine Griezmann,France,6.4031242374328485,0.054841624801478805,False,Right Foot,Open Play,0,0,2,Normal
+7580,Benjamin Pavard,France,25.612496949731394,0.05572386125008547,True,Right Foot,Open Play,1,0,1,Half Volley
+7580,Blaise Matuidi,France,13.0,0.06132285227473536,False,Left Foot,Open Play,0,0,3,Normal
+7580,Kylian Mbappé Lottin,France,12.806248474865697,0.060967023380698634,True,Left Foot,Open Play,0,0,2,Normal
+7580,Lionel Andrés Messi Cuccittini,Argentina,29.68164415931166,0.07240436293722485,False,Left Foot,Free Kick,0,0,0,Normal
+7580,Lionel Andrés Messi Cuccittini,Argentina,30.0,0.07241868024841559,False,Left Foot,Open Play,1,0,1,Half Volley
+7580,Kylian Mbappé Lottin,France,17.029386365926403,0.05574201488403172,True,Right Foot,Open Play,0,0,1,Normal
+7580,Olivier Giroud,France,17.69180601295413,0.06377327899593536,False,Left Foot,Open Play,0,1,1,Normal
+7580,Nicolás Hernán Otamendi,Argentina,7.211102550927978,0.05837628455796209,False,Right Foot,Open Play,1,0,5,Normal
+7580,Lionel Andrés Messi Cuccittini,Argentina,15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,2,Normal
+7580,Sergio Leonel Agüero del Castillo,Argentina,16.1245154965971,0.05729971908326584,False,Right Foot,Open Play,0,1,2,Normal
+7580,Ángel Fabián Di María Hernández,Argentina,16.15549442140351,0.05208307831539282,False,Left Foot,Open Play,0,0,2,Normal
+7580,Sergio Leonel Agüero del Castillo,Argentina,8.54400374531753,0.0589147156547097,True,Head,Open Play,0,0,2,Normal
+7580,Ángel Fabián Di María Hernández,Argentina,7.280109889280518,0.05818657105361519,False,Right Foot,Open Play,1,0,1,Volley

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.228964600958977,0.057428174043908424,False,Left Foot,Open Play,1,1,4,Normal
-8.402380615039998,0.05898222396197486,True,Head,Open Play,0,1,3,Normal
-18.111046352985795,0.05319453073246955,False,Right Foot,Open Play,1,0,1,Normal
-23.963305281200256,0.06827397514471535,False,Left Foot,Open Play,1,0,1,Normal
-16.434719346554107,0.06212107512007798,False,Right Foot,Open Play,0,0,1,Normal
-29.346550052774525,0.07141744028781047,False,Right Foot,Open Play,0,0,1,Normal
-22.13255520720552,0.06704287971685492,True,Right Foot,Open Play,0,0,1,Normal
-26.82424276657218,0.05291352836512639,False,Right Foot,Open Play,0,0,1,Normal
-14.252368224263645,0.061187235426688365,False,Left Foot,Open Play,0,0,1,Normal
-11.815244390193538,0.0541084882748185,False,Right Foot,Open Play,0,0,2,Normal
-20.97808380191098,0.05401244409990512,False,Right Foot,Open Play,1,0,2,Normal
-19.57779354268504,0.06275517704532037,False,Left Foot,Open Play,0,0,2,Normal
-25.99769220527083,0.06140446370567472,False,Right Foot,Open Play,0,0,2,Normal
-15.50387048449516,0.05667081610318318,False,Right Foot,Open Play,0,0,1,Normal
-16.858232410309217,0.06324978593756657,True,Left Foot,Open Play,0,0,1,Normal
-22.21463481581455,0.055609672124095254,False,Right Foot,Open Play,0,0,2,Normal
-28.243406310146092,0.06491069506287164,False,Right Foot,Open Play,0,0,2,Normal
-14.00142849854971,0.06186587174899774,True,Right Foot,Open Play,0,0,1,Normal
-15.026643005009467,0.059770174023747485,True,Right Foot,Open Play,1,0,2,Normal
-12.473972903610147,0.05561448073562966,False,Right Foot,Open Play,1,0,2,Half Volley
-20.28299780604435,0.06105618339154519,False,Right Foot,Open Play,0,0,4,Normal
-21.821548982599744,0.056148480209536444,False,Right Foot,Open Play,1,0,1,Half Volley
-17.513994404475525,0.062250489498169845,False,Left Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881577,Marta Vieira da Silva Veiga,Orlando Pride,6.228964600958977,0.057428174043908424,False,Left Foot,Open Play,1,1,4,Normal
+3881577,Rafaelle Leone Carvalho Souza,Orlando Pride,8.402380615039998,0.05898222396197486,True,Head,Open Play,0,1,3,Normal
+3881577,Haley Jean McCutcheon,Orlando Pride,18.111046352985795,0.05319453073246955,False,Right Foot,Open Play,1,0,1,Normal
+3881577,Marta Vieira da Silva Veiga,Orlando Pride,23.963305281200256,0.06827397514471535,False,Left Foot,Open Play,1,0,1,Normal
+3881577,Julie Doyle,Orlando Pride,16.434719346554107,0.06212107512007798,False,Right Foot,Open Play,0,0,1,Normal
+3881577,Penelope Hocking,Chicago Red Stars,29.346550052774525,0.07141744028781047,False,Right Foot,Open Play,0,0,1,Normal
+3881577,Messiah Bright,Orlando Pride,22.13255520720552,0.06704287971685492,True,Right Foot,Open Play,0,0,1,Normal
+3881577,Adriana Leal da Silva,Orlando Pride,26.82424276657218,0.05291352836512639,False,Right Foot,Open Play,0,0,1,Normal
+3881577,Messiah Bright,Orlando Pride,14.252368224263645,0.061187235426688365,False,Left Foot,Open Play,0,0,1,Normal
+3881577,Ava Cook,Chicago Red Stars,11.815244390193538,0.0541084882748185,False,Right Foot,Open Play,0,0,2,Normal
+3881577,Yuki Nagasato,Chicago Red Stars,20.97808380191098,0.05401244409990512,False,Right Foot,Open Play,1,0,2,Normal
+3881577,Penelope Hocking,Chicago Red Stars,19.57779354268504,0.06275517704532037,False,Left Foot,Open Play,0,0,2,Normal
+3881577,Júlia Bianchi,Chicago Red Stars,25.99769220527083,0.06140446370567472,False,Right Foot,Open Play,0,0,2,Normal
+3881577,Messiah Bright,Orlando Pride,15.50387048449516,0.05667081610318318,False,Right Foot,Open Play,0,0,1,Normal
+3881577,Messiah Bright,Orlando Pride,16.858232410309217,0.06324978593756657,True,Left Foot,Open Play,0,0,1,Normal
+3881577,Júlia Bianchi,Chicago Red Stars,22.21463481581455,0.055609672124095254,False,Right Foot,Open Play,0,0,2,Normal
+3881577,Júlia Bianchi,Chicago Red Stars,28.243406310146092,0.06491069506287164,False,Right Foot,Open Play,0,0,2,Normal
+3881577,Mariana Valeria Larroquette,Orlando Pride,14.00142849854971,0.06186587174899774,True,Right Foot,Open Play,0,0,1,Normal
+3881577,Mikayla Cluff,Orlando Pride,15.026643005009467,0.059770174023747485,True,Right Foot,Open Play,1,0,2,Normal
+3881577,Mariana Valeria Larroquette,Orlando Pride,12.473972903610147,0.05561448073562966,False,Right Foot,Open Play,1,0,2,Half Volley
+3881577,Penelope Hocking,Chicago Red Stars,20.28299780604435,0.06105618339154519,False,Right Foot,Open Play,0,0,4,Normal
+3881577,Haley Jean McCutcheon,Orlando Pride,21.821548982599744,0.056148480209536444,False,Right Foot,Open Play,1,0,1,Half Volley
+3881577,Cari Roccaro,Chicago Red Stars,17.513994404475525,0.062250489498169845,False,Left Foot,Open Play,1,0,0,Normal

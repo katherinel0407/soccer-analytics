@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-76.7521986655757,0.04798040267703342,False,Right Foot,Open Play,0,0,0,Normal
-26.192556194461048,0.06707125769351942,False,Right Foot,Open Play,0,0,2,Normal
-14.718695594379277,0.06231316086245989,True,Right Foot,Open Play,0,0,2,Normal
-17.047287174210446,0.06380770950330457,False,Left Foot,Open Play,1,0,2,Half Volley
-29.443675042358414,0.06151497780763886,False,Right Foot,Open Play,0,0,2,Normal
-22.515772249692,0.06048815916511216,False,Right Foot,Open Play,0,0,3,Normal
-21.203773249117717,0.05651752345371981,False,Left Foot,Open Play,0,0,2,Normal
-17.76288264893961,0.06297904126747138,False,Left Foot,Open Play,0,0,3,Normal
-16.62077013859467,0.06038736804893901,False,Right Foot,Open Play,0,1,3,Overhead Kick
-9.749871794028879,0.059542400667725606,False,Head,Open Play,0,1,3,Normal
-26.53394052906579,0.06238366422826929,False,Left Foot,Open Play,0,1,2,Normal
-27.600724628168724,0.06660164668262242,False,Right Foot,Open Play,1,0,3,Normal
-7.045565981523414,0.0578102576564201,True,Right Foot,Open Play,0,0,3,Half Volley
-21.19834899231542,0.06638217247252419,False,Right Foot,Open Play,0,0,3,Normal
-15.685024705112841,0.05889068411032382,True,Left Foot,Open Play,1,1,3,Normal
-15.811388300841895,0.061450993842053214,False,Right Foot,Open Play,1,1,1,Normal
-13.997856978837866,0.0530615099879684,False,Right Foot,Open Play,1,1,1,Half Volley
-10.231813133555557,0.05331339951634133,False,Head,Open Play,0,0,1,Normal
-10.925200226998129,0.06022378668157269,False,Left Foot,Open Play,0,0,1,Normal
-24.760654272454108,0.06090512544325818,False,Right Foot,Open Play,0,1,2,Lob
-20.60218435020908,0.05614002438987755,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901159,Zlatan Ibrahimović,Paris Saint-Germain,76.7521986655757,0.04798040267703342,False,Right Foot,Open Play,0,0,0,Normal
+3901159,Sergi Darder Moll,Lyon,26.192556194461048,0.06707125769351942,False,Right Foot,Open Play,0,0,2,Normal
+3901159,Gnaly Maxwell Cornet,Lyon,14.718695594379277,0.06231316086245989,True,Right Foot,Open Play,0,0,2,Normal
+3901159,Zlatan Ibrahimović,Paris Saint-Germain,17.047287174210446,0.06380770950330457,False,Left Foot,Open Play,1,0,2,Half Volley
+3901159,Alexandre Lacazette,Lyon,29.443675042358414,0.06151497780763886,False,Right Foot,Open Play,0,0,2,Normal
+3901159,Sergi Darder Moll,Lyon,22.515772249692,0.06048815916511216,False,Right Foot,Open Play,0,0,3,Normal
+3901159,Rachid Ghezzal,Lyon,21.203773249117717,0.05651752345371981,False,Left Foot,Open Play,0,0,2,Normal
+3901159,Rachid Ghezzal,Lyon,17.76288264893961,0.06297904126747138,False,Left Foot,Open Play,0,0,3,Normal
+3901159,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,16.62077013859467,0.06038736804893901,False,Right Foot,Open Play,0,1,3,Overhead Kick
+3901159,Thiago Emiliano da Silva,Paris Saint-Germain,9.749871794028879,0.059542400667725606,False,Head,Open Play,0,1,3,Normal
+3901159,Rachid Ghezzal,Lyon,26.53394052906579,0.06238366422826929,False,Left Foot,Open Play,0,1,2,Normal
+3901159,Zlatan Ibrahimović,Paris Saint-Germain,27.600724628168724,0.06660164668262242,False,Right Foot,Open Play,1,0,3,Normal
+3901159,Sergi Darder Moll,Lyon,7.045565981523414,0.0578102576564201,True,Right Foot,Open Play,0,0,3,Half Volley
+3901159,Gnaly Maxwell Cornet,Lyon,21.19834899231542,0.06638217247252419,False,Right Foot,Open Play,0,0,3,Normal
+3901159,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,15.685024705112841,0.05889068411032382,True,Left Foot,Open Play,1,1,3,Normal
+3901159,Jordan Ferri,Lyon,15.811388300841895,0.061450993842053214,False,Right Foot,Open Play,1,1,1,Normal
+3901159,Jordan Ferri,Lyon,13.997856978837866,0.0530615099879684,False,Right Foot,Open Play,1,1,1,Half Volley
+3901159,Mapou Yanga-Mbiwa,Lyon,10.231813133555557,0.05331339951634133,False,Head,Open Play,0,0,1,Normal
+3901159,Rachid Ghezzal,Lyon,10.925200226998129,0.06022378668157269,False,Left Foot,Open Play,0,0,1,Normal
+3901159,Zlatan Ibrahimović,Paris Saint-Germain,24.760654272454108,0.06090512544325818,False,Right Foot,Open Play,0,1,2,Lob
+3901159,Rachid Ghezzal,Lyon,20.60218435020908,0.05614002438987755,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.476548360993906,0.07104691651695673,False,Right Foot,Open Play,0,0,1,Normal
-25.349161721840037,0.06798519982837867,True,Right Foot,Free Kick,0,0,0,Normal
-29.07249559291393,0.05330295245801251,False,Right Foot,Open Play,0,0,1,Half Volley
-25.612496949731394,0.06919046601801389,False,Right Foot,Open Play,0,1,2,Half Volley
-8.637708029332776,0.0569902346721414,False,Head,Open Play,0,0,3,Diving Header
-29.79194522014298,0.062130154330223564,False,Right Foot,Free Kick,0,0,0,Normal
-24.888752479784916,0.06430416928494374,False,Left Foot,Open Play,1,0,1,Normal
-28.74456470360962,0.05507128697574378,False,Right Foot,Open Play,0,0,1,Normal
-19.252012881774203,0.0651816477078798,False,Left Foot,Open Play,1,0,1,Normal
-31.417829333039542,0.06470064030555495,False,Right Foot,Open Play,0,0,1,Normal
-16.565325230734228,0.06353788716093563,False,Left Foot,Open Play,1,0,0,Volley
-21.803669415949237,0.06564368799743267,False,Right Foot,Open Play,0,0,3,Normal
-17.029973576021774,0.051788742759999715,False,Right Foot,Open Play,1,0,1,Normal
-11.401754250991383,0.053072694039249614,False,Right Foot,Open Play,1,0,2,Volley
-13.869751259485517,0.06197296195157209,True,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879588,Alejandro Darío Gómez,Atalanta,30.476548360993906,0.07104691651695673,False,Right Foot,Open Play,0,0,1,Normal
+3879588,Lucas Rodrigo Biglia,Lazio,25.349161721840037,0.06798519982837867,True,Right Foot,Free Kick,0,0,0,Normal
+3879588,Dušan Basta,Lazio,29.07249559291393,0.05330295245801251,False,Right Foot,Open Play,0,0,1,Half Volley
+3879588,Felipe Anderson Pereira Gomes,Lazio,25.612496949731394,0.06919046601801389,False,Right Foot,Open Play,0,1,2,Half Volley
+3879588,Guglielmo Stendardo,Atalanta,8.637708029332776,0.0569902346721414,False,Head,Open Play,0,0,3,Diving Header
+3879588,Jasmin Kurtič,Atalanta,29.79194522014298,0.062130154330223564,False,Right Foot,Free Kick,0,0,0,Normal
+3879588,Ogenyi Eddy Onazi,Lazio,24.888752479784916,0.06430416928494374,False,Left Foot,Open Play,1,0,1,Normal
+3879588,Antonio Candreva,Lazio,28.74456470360962,0.05507128697574378,False,Right Foot,Open Play,0,0,1,Normal
+3879588,Mauricio Ricardo Pinilla Ferreira,Atalanta,19.252012881774203,0.0651816477078798,False,Left Foot,Open Play,1,0,1,Normal
+3879588,Maximiliano Nicol Moralez,Atalanta,31.417829333039542,0.06470064030555495,False,Right Foot,Open Play,0,0,1,Normal
+3879588,Alessandro Matri,Lazio,16.565325230734228,0.06353788716093563,False,Left Foot,Open Play,1,0,0,Volley
+3879588,Felipe Anderson Pereira Gomes,Lazio,21.803669415949237,0.06564368799743267,False,Right Foot,Open Play,0,0,3,Normal
+3879588,Mauricio Ricardo Pinilla Ferreira,Atalanta,17.029973576021774,0.051788742759999715,False,Right Foot,Open Play,1,0,1,Normal
+3879588,Mauricio Ricardo Pinilla Ferreira,Atalanta,11.401754250991383,0.053072694039249614,False,Right Foot,Open Play,1,0,2,Volley
+3879588,Alejandro Darío Gómez,Atalanta,13.869751259485517,0.06197296195157209,True,Right Foot,Open Play,0,0,0,Normal

@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.852789764052883,0.06747382230107216,False,Right Foot,Open Play,0,0,2,Normal
-13.200378782444085,0.05606806756180486,False,Right Foot,Open Play,1,0,1,Normal
-12.041594578792292,0.05863765420504195,False,Head,Open Play,0,0,1,Diving Header
-10.640488710580914,0.06013899098855487,True,Head,Open Play,0,0,2,Normal
-8.077747210701762,0.058815484476926805,False,Head,Open Play,0,0,1,Normal
-8.471717653463205,0.057748201191305595,False,Head,Open Play,0,1,3,Normal
-17.373830895919298,0.06403913494667245,False,Right Foot,Open Play,0,0,3,Normal
-31.80251562376787,0.05805188025488274,False,Right Foot,Open Play,0,0,0,Normal
-15.666843970627903,0.06288252663580393,False,Right Foot,Open Play,0,0,3,Normal
-17.55477143115227,0.06405311750969706,False,Right Foot,Open Play,0,0,2,Normal
-16.867127793433003,0.05560347047842968,False,Right Foot,Open Play,0,0,1,Half Volley
-22.871160880025307,0.060144377602674604,False,Left Foot,Open Play,0,1,4,Normal
-20.988091861815356,0.06129781284565325,False,Left Foot,Open Play,0,0,2,Normal
-18.260887163552592,0.053751126364222364,False,Right Foot,Open Play,1,0,1,Normal
-24.475497952033578,0.06009369935181866,False,Right Foot,Open Play,0,1,2,Half Volley
-23.325951213187427,0.06782907144213522,False,Right Foot,Open Play,1,0,1,Normal
-29.00275848949544,0.06762101681001355,False,Left Foot,Open Play,0,0,1,Normal
-12.343824366864585,0.05725736323444389,False,Head,Open Play,0,0,3,Diving Header
-6.008327554319923,0.05762715714222564,True,Right Foot,Open Play,1,0,3,Normal
-14.480676779764126,0.06175408909038093,False,Left Foot,Open Play,0,0,2,Normal
-8.91852005660132,0.05819365724671448,False,Right Foot,Open Play,1,0,3,Volley
-15.476756766196209,0.05751443698681292,False,Right Foot,Open Play,0,0,2,Normal
-6.9202601107183845,0.055631075594578805,False,Right Foot,Open Play,1,1,3,Normal
-23.02433495239331,0.06764991560498533,False,Right Foot,Open Play,0,0,2,Normal
-13.612494260788507,0.061612298182867335,False,Right Foot,Open Play,0,0,2,Half Volley
-4.981967482832466,0.055404211468611256,False,Left Foot,Open Play,1,0,5,Volley
-11.011357772772623,0.05813085947086769,True,Right Foot,Open Play,0,0,3,Half Volley
-17.658992043715294,0.0634142498426479,False,Left Foot,Open Play,1,0,4,Normal
-6.648308055437863,0.05525129884184466,False,Right Foot,Open Play,1,0,1,Half Volley
-26.38787600395302,0.06244812509464941,False,Left Foot,Open Play,0,0,2,Normal
-17.93878479719293,0.06438091893466864,False,Right Foot,Open Play,0,0,3,Normal
-7.305477397131557,0.058269186829196594,True,Left Foot,Open Play,1,0,1,Half Volley
-16.160445538412606,0.06254561951026048,False,Left Foot,Open Play,0,0,1,Normal
-13.4892549831338,0.05866138779984488,False,Head,Open Play,0,0,0,Normal
-5.769748694700666,0.05606873812477079,True,Left Foot,Open Play,1,0,3,Half Volley
-18.92141643746578,0.06297155903826737,False,Right Foot,Open Play,0,0,2,Half Volley
-7.596051605933173,0.05763937533706731,False,Head,Open Play,0,0,1,Normal
-12.503599481749246,0.059692297199131834,False,Left Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857292,Jamal Musiala,Germany,22.852789764052883,0.06747382230107216,False,Right Foot,Open Play,0,0,2,Normal
+3857292,Leon Goretzka,Germany,13.200378782444085,0.05606806756180486,False,Right Foot,Open Play,1,0,1,Normal
+3857292,Thomas Müller,Germany,12.041594578792292,0.05863765420504195,False,Head,Open Play,0,0,1,Diving Header
+3857292,Serge Gnabry,Germany,10.640488710580914,0.06013899098855487,True,Head,Open Play,0,0,2,Normal
+3857292,Leon Goretzka,Germany,8.077747210701762,0.058815484476926805,False,Head,Open Play,0,0,1,Normal
+3857292,Thomas Müller,Germany,8.471717653463205,0.057748201191305595,False,Head,Open Play,0,1,3,Normal
+3857292,Serge Gnabry,Germany,17.373830895919298,0.06403913494667245,False,Right Foot,Open Play,0,0,3,Normal
+3857292,Joshua Kimmich,Germany,31.80251562376787,0.05805188025488274,False,Right Foot,Open Play,0,0,0,Normal
+3857292,Jamal Musiala,Germany,15.666843970627903,0.06288252663580393,False,Right Foot,Open Play,0,0,3,Normal
+3857292,Serge Gnabry,Germany,17.55477143115227,0.06405311750969706,False,Right Foot,Open Play,0,0,2,Normal
+3857292,Keysher Fuller Spence,Costa Rica,16.867127793433003,0.05560347047842968,False,Right Foot,Open Play,0,0,1,Half Volley
+3857292,Leroy Sané,Germany,22.871160880025307,0.060144377602674604,False,Left Foot,Open Play,0,1,4,Normal
+3857292,Leroy Sané,Germany,20.988091861815356,0.06129781284565325,False,Left Foot,Open Play,0,0,2,Normal
+3857292,Keysher Fuller Spence,Costa Rica,18.260887163552592,0.053751126364222364,False,Right Foot,Open Play,1,0,1,Normal
+3857292,Yeltsin Ignacio Tejeda Valverde,Costa Rica,24.475497952033578,0.06009369935181866,False,Right Foot,Open Play,0,1,2,Half Volley
+3857292,Serge Gnabry,Germany,23.325951213187427,0.06782907144213522,False,Right Foot,Open Play,1,0,1,Normal
+3857292,Leroy Sané,Germany,29.00275848949544,0.06762101681001355,False,Left Foot,Open Play,0,0,1,Normal
+3857292,Kendall Jamaal Waston Manley,Costa Rica,12.343824366864585,0.05725736323444389,False,Head,Open Play,0,0,3,Diving Header
+3857292,Yeltsin Ignacio Tejeda Valverde,Costa Rica,6.008327554319923,0.05762715714222564,True,Right Foot,Open Play,1,0,3,Normal
+3857292,Jamal Musiala,Germany,14.480676779764126,0.06175408909038093,False,Left Foot,Open Play,0,0,2,Normal
+3857292,Jamal Musiala,Germany,8.91852005660132,0.05819365724671448,False,Right Foot,Open Play,1,0,3,Volley
+3857292,Thomas Müller,Germany,15.476756766196209,0.05751443698681292,False,Right Foot,Open Play,0,0,2,Normal
+3857292,Antonio Rüdiger,Germany,6.9202601107183845,0.055631075594578805,False,Right Foot,Open Play,1,1,3,Normal
+3857292,Jamal Musiala,Germany,23.02433495239331,0.06764991560498533,False,Right Foot,Open Play,0,0,2,Normal
+3857292,Kai Havertz,Germany,13.612494260788507,0.061612298182867335,False,Right Foot,Open Play,0,0,2,Half Volley
+3857292,Juan Pablo Vargas Campos,Costa Rica,4.981967482832466,0.055404211468611256,False,Left Foot,Open Play,1,0,5,Volley
+3857292,Kai Havertz,Germany,11.011357772772623,0.05813085947086769,True,Right Foot,Open Play,0,0,3,Half Volley
+3857292,Kai Havertz,Germany,17.658992043715294,0.0634142498426479,False,Left Foot,Open Play,1,0,4,Normal
+3857292,Niclas Füllkrug,Germany,6.648308055437863,0.05525129884184466,False,Right Foot,Open Play,1,0,1,Half Volley
+3857292,Jewison Bennette,Costa Rica,26.38787600395302,0.06244812509464941,False,Left Foot,Open Play,0,0,2,Normal
+3857292,Jamal Musiala,Germany,17.93878479719293,0.06438091893466864,False,Right Foot,Open Play,0,0,3,Normal
+3857292,Kai Havertz,Germany,7.305477397131557,0.058269186829196594,True,Left Foot,Open Play,1,0,1,Half Volley
+3857292,Kai Havertz,Germany,16.160445538412606,0.06254561951026048,False,Left Foot,Open Play,0,0,1,Normal
+3857292,Mario Götze,Germany,13.4892549831338,0.05866138779984488,False,Head,Open Play,0,0,0,Normal
+3857292,Niclas Füllkrug,Germany,5.769748694700666,0.05606873812477079,True,Left Foot,Open Play,1,0,3,Half Volley
+3857292,Niclas Füllkrug,Germany,18.92141643746578,0.06297155903826737,False,Right Foot,Open Play,0,0,2,Half Volley
+3857292,Niclas Füllkrug,Germany,7.596051605933173,0.05763937533706731,False,Head,Open Play,0,0,1,Normal
+3857292,Jamal Musiala,Germany,12.503599481749246,0.059692297199131834,False,Left Foot,Open Play,0,0,4,Normal

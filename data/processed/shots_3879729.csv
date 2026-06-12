@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.881934341672064,0.05567784271103275,False,Left Foot,Open Play,0,0,1,Normal
-24.04412610181538,0.06689580549163011,False,Right Foot,Open Play,0,0,2,Normal
-24.751767613647317,0.06450705786627149,False,Right Foot,Open Play,0,1,2,Normal
-18.33575741549828,0.0645193709524047,False,Left Foot,Open Play,0,0,2,Half Volley
-36.95416079415145,0.059887311979223874,False,Right Foot,Open Play,0,0,1,Normal
-17.441330224498362,0.06393603824976887,False,Right Foot,Open Play,0,1,3,Volley
-11.811858448186728,0.05692556743189327,True,Left Foot,Open Play,1,1,3,Normal
-26.284025566872362,0.05639542638674645,False,Left Foot,Open Play,0,0,3,Normal
-22.790348834539586,0.055060572412508946,False,Left Foot,Open Play,0,1,2,Normal
-17.017637908946114,0.06366052300681968,False,Right Foot,Open Play,1,1,1,Volley
-36.72288115058512,0.0547404845720286,False,Left Foot,Free Kick,0,0,0,Normal
-14.511374848717814,0.05681445005680859,True,Right Foot,Open Play,0,0,2,Normal
-16.961426826773746,0.05638145343731636,False,Left Foot,Open Play,0,1,3,Normal
-3.9812058474788725,0.05673296108731206,True,Head,Open Play,0,1,5,Normal
-21.70829334609241,0.06675990586067969,False,Right Foot,Open Play,0,0,1,Normal
-5.0990195135927845,0.05707651274782877,True,Head,Open Play,0,1,3,Normal
-24.10746772267879,0.06529478634094552,False,Right Foot,Open Play,0,0,2,Normal
-34.92678055590008,0.07506104569214458,False,Right Foot,Open Play,0,1,3,Normal
-33.517159784206065,0.06792621278195075,False,Right Foot,Open Play,0,1,1,Normal
-13.461797799699713,0.061161143090253466,False,Left Foot,Open Play,1,1,2,Normal
-18.042172818150252,0.06441910172339439,False,Left Foot,Open Play,0,0,3,Normal
-30.727512102348932,0.07315825778948985,False,Left Foot,Open Play,0,0,1,Normal
-5.941380311005185,0.05734033763104032,False,Head,Open Play,0,1,4,Normal
-21.82842183942761,0.06589682508585303,False,Left Foot,Open Play,0,0,1,Normal
-8.872992730753248,0.05904639851699124,False,Head,Open Play,0,1,2,Normal
-8.883692925805121,0.054202079899660915,False,Right Foot,Open Play,1,1,1,Half Volley
-26.815294143454775,0.0701162909875792,False,Right Foot,Open Play,0,0,3,Normal
-12.836276718737412,0.05718038539662355,False,Left Foot,Open Play,0,0,2,Half Volley
-9.542536350467836,0.058862404463813196,False,Head,Open Play,0,1,1,Normal
-27.910034037958468,0.07076476195012416,False,Left Foot,Open Play,0,0,1,Normal
-12.050311199301037,0.060628087130260154,False,Head,Open Play,0,0,2,Normal
-8.340863264674702,0.05572707137257134,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879729,Franco Damián Vázquez,Palermo,29.881934341672064,0.05567784271103275,False,Left Foot,Open Play,0,0,1,Normal
+3879729,Domenico Berardi,Sassuolo,24.04412610181538,0.06689580549163011,False,Right Foot,Open Play,0,0,2,Normal
+3879729,Domenico Berardi,Sassuolo,24.751767613647317,0.06450705786627149,False,Right Foot,Open Play,0,1,2,Normal
+3879729,Domenico Berardi,Sassuolo,18.33575741549828,0.0645193709524047,False,Left Foot,Open Play,0,0,2,Half Volley
+3879729,Šime Vrsaljko,Sassuolo,36.95416079415145,0.059887311979223874,False,Right Foot,Open Play,0,0,1,Normal
+3879729,Uroš Đurđević,Palermo,17.441330224498362,0.06393603824976887,False,Right Foot,Open Play,0,1,3,Volley
+3879729,Franco Damián Vázquez,Palermo,11.811858448186728,0.05692556743189327,True,Left Foot,Open Play,1,1,3,Normal
+3879729,Domenico Berardi,Sassuolo,26.284025566872362,0.05639542638674645,False,Left Foot,Open Play,0,0,3,Normal
+3879729,Aleksandar Trajkovski,Palermo,22.790348834539586,0.055060572412508946,False,Left Foot,Open Play,0,1,2,Normal
+3879729,Lorenzo Pellegrini,Sassuolo,17.017637908946114,0.06366052300681968,False,Right Foot,Open Play,1,1,1,Volley
+3879729,Achraf Lazaar,Palermo,36.72288115058512,0.0547404845720286,False,Left Foot,Free Kick,0,0,0,Normal
+3879729,Gregoire Defrel,Sassuolo,14.511374848717814,0.05681445005680859,True,Right Foot,Open Play,0,0,2,Normal
+3879729,Diego Falcinelli,Sassuolo,16.961426826773746,0.05638145343731636,False,Left Foot,Open Play,0,1,3,Normal
+3879729,Simone Missiroli,Sassuolo,3.9812058474788725,0.05673296108731206,True,Head,Open Play,0,1,5,Normal
+3879729,Uroš Đurđević,Palermo,21.70829334609241,0.06675990586067969,False,Right Foot,Open Play,0,0,1,Normal
+3879729,Uroš Đurđević,Palermo,5.0990195135927845,0.05707651274782877,True,Head,Open Play,0,1,3,Normal
+3879729,Diego Falcinelli,Sassuolo,24.10746772267879,0.06529478634094552,False,Right Foot,Open Play,0,0,2,Normal
+3879729,Aleksandar Trajkovski,Palermo,34.92678055590008,0.07506104569214458,False,Right Foot,Open Play,0,1,3,Normal
+3879729,Gastón Brugman,Palermo,33.517159784206065,0.06792621278195075,False,Right Foot,Open Play,0,1,1,Normal
+3879729,Diego Falcinelli,Sassuolo,13.461797799699713,0.061161143090253466,False,Left Foot,Open Play,1,1,2,Normal
+3879729,Gregoire Defrel,Sassuolo,18.042172818150252,0.06441910172339439,False,Left Foot,Open Play,0,0,3,Normal
+3879729,Joseph Alfred Duncan,Sassuolo,30.727512102348932,0.07315825778948985,False,Left Foot,Open Play,0,0,1,Normal
+3879729,Simone Missiroli,Sassuolo,5.941380311005185,0.05734033763104032,False,Head,Open Play,0,1,4,Normal
+3879729,Diego Falcinelli,Sassuolo,21.82842183942761,0.06589682508585303,False,Left Foot,Open Play,0,0,1,Normal
+3879729,Diego Falcinelli,Sassuolo,8.872992730753248,0.05904639851699124,False,Head,Open Play,0,1,2,Normal
+3879729,Domenico Berardi,Sassuolo,8.883692925805121,0.054202079899660915,False,Right Foot,Open Play,1,1,1,Half Volley
+3879729,Nicola Sansone,Sassuolo,26.815294143454775,0.0701162909875792,False,Right Foot,Open Play,0,0,3,Normal
+3879729,Marcello Gazzola,Sassuolo,12.836276718737412,0.05718038539662355,False,Left Foot,Open Play,0,0,2,Half Volley
+3879729,Federico Peluso,Sassuolo,9.542536350467836,0.058862404463813196,False,Head,Open Play,0,1,1,Normal
+3879729,Gregoire Defrel,Sassuolo,27.910034037958468,0.07076476195012416,False,Left Foot,Open Play,0,0,1,Normal
+3879729,Diego Falcinelli,Sassuolo,12.050311199301037,0.060628087130260154,False,Head,Open Play,0,0,2,Normal
+3879729,Marcello Gazzola,Sassuolo,8.340863264674702,0.05572707137257134,False,Head,Open Play,0,1,3,Normal

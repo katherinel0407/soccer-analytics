@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.01348209444135,0.0656618860772102,True,Right Foot,Free Kick,0,0,0,Normal
-21.459729728027796,0.0536210278205769,False,Right Foot,Open Play,0,0,1,Normal
-12.40040321925058,0.0597955806941623,True,Right Foot,Open Play,0,0,0,Normal
-10.965856099730654,0.057178547706650255,False,Right Foot,Open Play,1,0,1,Normal
-13.04185569618066,0.06082689728125918,False,Left Foot,Open Play,1,1,1,Volley
-30.421374064956375,0.06203356932641893,False,Right Foot,Open Play,0,0,0,Normal
-11.55205609404663,0.058069474053354254,False,Right Foot,Open Play,1,0,3,Normal
-7.907591289387689,0.0560654599161029,False,Head,Open Play,0,1,2,Normal
-48.13834230631546,0.05629862531303282,False,Right Foot,Open Play,1,0,2,Normal
-36.069377593742864,0.06699716105404802,False,Right Foot,Open Play,0,0,1,Normal
-28.308655920053848,0.0674273124744935,False,Left Foot,Open Play,0,0,2,Normal
-10.165136496870076,0.0585113756747156,False,Head,Open Play,0,1,2,Normal
-17.246738822165767,0.0633617871056872,False,Right Foot,Open Play,1,0,2,Half Volley
-26.278698597913866,0.06929954957739284,False,Right Foot,Open Play,1,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-20.584703058339223,0.05606448470368514,False,Left Foot,Open Play,1,1,2,Volley
-15.16047492659778,0.060010199833762774,True,Right Foot,Open Play,1,0,2,Half Volley
-13.822083779228077,0.06133616318177215,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879694,Emanuele Giaccherini,Bologna,33.01348209444135,0.0656618860772102,True,Right Foot,Free Kick,0,0,0,Normal
+3879694,Antonio Candreva,Lazio,21.459729728027796,0.0536210278205769,False,Right Foot,Open Play,0,0,1,Normal
+3879694,Mattia Destro,Bologna,12.40040321925058,0.0597955806941623,True,Right Foot,Open Play,0,0,0,Normal
+3879694,Matteo Brighi,Bologna,10.965856099730654,0.057178547706650255,False,Right Foot,Open Play,1,0,1,Normal
+3879694,Sergej Milinković-Savić,Lazio,13.04185569618066,0.06082689728125918,False,Left Foot,Open Play,1,1,1,Volley
+3879694,Saphir Sliti Taïder,Bologna,30.421374064956375,0.06203356932641893,False,Right Foot,Open Play,0,0,0,Normal
+3879694,Matteo Brighi,Bologna,11.55205609404663,0.058069474053354254,False,Right Foot,Open Play,1,0,3,Normal
+3879694,Marco Parolo,Lazio,7.907591289387689,0.0560654599161029,False,Head,Open Play,0,1,2,Normal
+3879694,Mattia Destro,Bologna,48.13834230631546,0.05629862531303282,False,Right Foot,Open Play,1,0,2,Normal
+3879694,Antonio Candreva,Lazio,36.069377593742864,0.06699716105404802,False,Right Foot,Open Play,0,0,1,Normal
+3879694,Saphir Sliti Taïder,Bologna,28.308655920053848,0.0674273124744935,False,Left Foot,Open Play,0,0,2,Normal
+3879694,Miroslav Klose,Lazio,10.165136496870076,0.0585113756747156,False,Head,Open Play,0,1,2,Normal
+3879694,Keita Baldé Diao,Lazio,17.246738822165767,0.0633617871056872,False,Right Foot,Open Play,1,0,2,Half Volley
+3879694,Matteo Brighi,Bologna,26.278698597913866,0.06929954957739284,False,Right Foot,Open Play,1,0,1,Normal
+3879694,Antonio Candreva,Lazio,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3879694,Sergej Milinković-Savić,Lazio,20.584703058339223,0.05606448470368514,False,Left Foot,Open Play,1,1,2,Volley
+3879694,Senad Lulić,Lazio,15.16047492659778,0.060010199833762774,True,Right Foot,Open Play,1,0,2,Half Volley
+3879694,Keita Baldé Diao,Lazio,13.822083779228077,0.06133616318177215,False,Left Foot,Open Play,0,1,1,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.0606323715520025,0.05728205464096855,True,Head,Open Play,0,0,8,Normal
-9.464142856064678,0.055738460216605536,False,Head,Open Play,0,1,2,Normal
-7.964923100695953,0.058578397651977275,False,Head,Open Play,0,1,2,Normal
-31.158465944266254,0.06260066822152995,False,Right Foot,Open Play,1,0,3,Volley
-29.77045515271811,0.0705839803087789,False,Left Foot,Open Play,1,1,2,Volley
-25.825762331439517,0.06899223083659445,True,Left Foot,Open Play,0,0,1,Normal
-23.8214189333885,0.06284036144803215,False,Left Foot,Open Play,1,0,2,Half Volley
-12.800390619039714,0.059964498530254394,False,Left Foot,Open Play,1,1,5,Half Volley
-7.515317691222373,0.05399458949196683,True,Right Foot,Open Play,1,0,2,Volley
-21.140009460735826,0.06632791924983192,False,Right Foot,Open Play,1,0,4,Normal
-21.38059868198269,0.06645505749688933,False,Right Foot,Open Play,0,0,3,Normal
-30.852552568628745,0.073173629832339,False,Left Foot,Open Play,0,0,0,Normal
-7.636753236814717,0.0585261163608645,True,Left Foot,Open Play,1,1,2,Half Volley
-7.930952023559337,0.058623724285619835,True,Head,Open Play,0,1,3,Normal
-10.017983829094554,0.056841988083062706,False,Right Foot,Open Play,0,0,5,Half Volley
-7.224956747275379,0.0583558024002031,False,Head,Open Play,0,1,5,Normal
-8.627861844049198,0.05528232042874327,False,Right Foot,Open Play,1,1,2,Normal
-6.041522986797291,0.057524961629199824,False,Head,Open Play,0,1,4,Normal
-21.788299612406657,0.06628814153479987,False,Right Foot,Open Play,0,0,3,Normal
-19.104973174542796,0.06108706184043492,False,Right Foot,Open Play,1,1,2,Volley
-41.00792606314053,0.08220536218535017,False,Right Foot,Free Kick,0,0,0,Normal
-23.69852316073726,0.06151312667711576,False,Right Foot,Open Play,1,0,3,Half Volley
-21.2143819141638,0.05752058292809319,False,Right Foot,Open Play,0,0,4,Normal
-16.278206289391964,0.05944816794574663,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911518,Thaís Cristina da Silva Ferreira,Costa Adeje Tenerife,5.0606323715520025,0.05728205464096855,True,Head,Open Play,0,0,8,Normal
+3911518,Cristina Martín-Prieto Gutierrez,Sevilla FC,9.464142856064678,0.055738460216605536,False,Head,Open Play,0,1,2,Normal
+3911518,María Pérez,Sevilla FC,7.964923100695953,0.058578397651977275,False,Head,Open Play,0,1,2,Normal
+3911518,Natalia Ramos Álvarez,Costa Adeje Tenerife,31.158465944266254,0.06260066822152995,False,Right Foot,Open Play,1,0,3,Volley
+3911518,Lucía María Rodríguez Herrero,Sevilla FC,29.77045515271811,0.0705839803087789,False,Left Foot,Open Play,1,1,2,Volley
+3911518,Rinsola Omowunmiajike Babajide,Costa Adeje Tenerife,25.825762331439517,0.06899223083659445,True,Left Foot,Open Play,0,0,1,Normal
+3911518,Paola Hernández Díaz,Costa Adeje Tenerife,23.8214189333885,0.06284036144803215,False,Left Foot,Open Play,1,0,2,Half Volley
+3911518,Jassina Blom,Costa Adeje Tenerife,12.800390619039714,0.059964498530254394,False,Left Foot,Open Play,1,1,5,Half Volley
+3911518,Maria Estella del Valle,Costa Adeje Tenerife,7.515317691222373,0.05399458949196683,True,Right Foot,Open Play,1,0,2,Volley
+3911518,Cristina Martín-Prieto Gutierrez,Sevilla FC,21.140009460735826,0.06632791924983192,False,Right Foot,Open Play,1,0,4,Normal
+3911518,Maria Inmaculada Gabarro Romero,Sevilla FC,21.38059868198269,0.06645505749688933,False,Right Foot,Open Play,0,0,3,Normal
+3911518,Jassina Blom,Costa Adeje Tenerife,30.852552568628745,0.073173629832339,False,Left Foot,Open Play,0,0,0,Normal
+3911518,Jassina Blom,Costa Adeje Tenerife,7.636753236814717,0.0585261163608645,True,Left Foot,Open Play,1,1,2,Half Volley
+3911518,Maria Estella del Valle,Costa Adeje Tenerife,7.930952023559337,0.058623724285619835,True,Head,Open Play,0,1,3,Normal
+3911518,Cristina Martín-Prieto Gutierrez,Sevilla FC,10.017983829094554,0.056841988083062706,False,Right Foot,Open Play,0,0,5,Half Volley
+3911518,Agustina Barroso Basualdo,Costa Adeje Tenerife,7.224956747275379,0.0583558024002031,False,Head,Open Play,0,1,5,Normal
+3911518,Cristina Martín-Prieto Gutierrez,Sevilla FC,8.627861844049198,0.05528232042874327,False,Right Foot,Open Play,1,1,2,Normal
+3911518,Pamela Cinthia González Medina,Sevilla FC,6.041522986797291,0.057524961629199824,False,Head,Open Play,0,1,4,Normal
+3911518,Maria Inmaculada Gabarro Romero,Sevilla FC,21.788299612406657,0.06628814153479987,False,Right Foot,Open Play,0,0,3,Normal
+3911518,Klára Cahynová,Sevilla FC,19.104973174542796,0.06108706184043492,False,Right Foot,Open Play,1,1,2,Volley
+3911518,Natalia Ramos Álvarez,Costa Adeje Tenerife,41.00792606314053,0.08220536218535017,False,Right Foot,Free Kick,0,0,0,Normal
+3911518,Maria Inmaculada Gabarro Romero,Sevilla FC,23.69852316073726,0.06151312667711576,False,Right Foot,Open Play,1,0,3,Half Volley
+3911518,Amanda Sampedro Bustos,Sevilla FC,21.2143819141638,0.05752058292809319,False,Right Foot,Open Play,0,0,4,Normal
+3911518,Cristina Martín-Prieto Gutierrez,Sevilla FC,16.278206289391964,0.05944816794574663,False,Head,Open Play,0,0,2,Normal

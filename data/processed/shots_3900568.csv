@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.913379572249937,0.0700002858595526,False,Right Foot,Open Play,0,0,0,Normal
-8.440379138403674,0.058742535641416065,False,Right Foot,Open Play,1,1,2,Normal
-18.300273222004087,0.06457427212412314,False,Right Foot,Open Play,1,0,1,Half Volley
-35.46829570193639,0.07502516986129558,False,Right Foot,Open Play,1,0,1,Normal
-12.519584657647394,0.060054488716951175,False,Head,Open Play,0,0,1,Normal
-19.321749403198456,0.06516715402933468,False,Left Foot,Open Play,0,0,2,Normal
-17.088007490635068,0.05951755221027285,True,Right Foot,Open Play,0,1,2,Normal
-9.646242791885342,0.05730067428801624,False,Head,Open Play,0,1,5,Normal
-23.7255136930689,0.05564141547389477,False,Right Foot,Open Play,0,0,1,Half Volley
-6.952697318307476,0.058228017074281914,False,Left Foot,Open Play,1,0,2,Normal
-10.800462953040483,0.05905758139024959,False,Right Foot,Open Play,0,0,2,Half Volley
-23.221541723150082,0.06410717735365994,False,Left Foot,Open Play,1,1,2,Half Volley
-19.85648508674181,0.06550121657108471,False,Right Foot,Open Play,1,0,1,Half Volley
-18.173056980046038,0.05990968561571263,False,Right Foot,Open Play,0,0,3,Normal
-16.546903033498438,0.054969929498059775,True,Left Foot,Open Play,0,0,1,Normal
-5.481788029466295,0.057315943943595724,True,Head,Open Play,0,0,2,Normal
-16.209873534361705,0.062312247752515426,False,Left Foot,Open Play,0,1,3,Normal
-24.88875247978492,0.0516381197909252,False,Left Foot,Open Play,0,0,2,Normal
-24.512037858978594,0.04995519048168061,False,Left Foot,Free Kick,0,0,0,Normal
-40.71228315877163,0.07283087168012162,False,Right Foot,Free Kick,0,0,0,Normal
-18.72591786802452,0.06360573996347567,False,Left Foot,Open Play,0,1,2,Normal
-38.279237191981764,0.06956616014749337,False,Left Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900568,David Ducourtioux,Gazélec Ajaccio,26.913379572249937,0.0700002858595526,False,Right Foot,Open Play,0,0,0,Normal
+3900568,John Tshibumbu,Gazélec Ajaccio,8.440379138403674,0.058742535641416065,False,Right Foot,Open Play,1,1,2,Normal
+3900568,David Ducourtioux,Gazélec Ajaccio,18.300273222004087,0.06457427212412314,False,Right Foot,Open Play,1,0,1,Half Volley
+3900568,Jordan Ferri,Lyon,35.46829570193639,0.07502516986129558,False,Right Foot,Open Play,1,0,1,Normal
+3900568,Claudio Beauvue,Lyon,12.519584657647394,0.060054488716951175,False,Head,Open Play,0,0,1,Normal
+3900568,Gnaly Maxwell Cornet,Lyon,19.321749403198456,0.06516715402933468,False,Left Foot,Open Play,0,0,2,Normal
+3900568,Mohamed Larbi,Gazélec Ajaccio,17.088007490635068,0.05951755221027285,True,Right Foot,Open Play,0,1,2,Normal
+3900568,John Tshibumbu,Gazélec Ajaccio,9.646242791885342,0.05730067428801624,False,Head,Open Play,0,1,5,Normal
+3900568,Jacques Zoua Daogari,Gazélec Ajaccio,23.7255136930689,0.05564141547389477,False,Right Foot,Open Play,0,0,1,Half Volley
+3900568,John Tshibumbu,Gazélec Ajaccio,6.952697318307476,0.058228017074281914,False,Left Foot,Open Play,1,0,2,Normal
+3900568,Claudio Beauvue,Lyon,10.800462953040483,0.05905758139024959,False,Right Foot,Open Play,0,0,2,Half Volley
+3900568,Amos Youga,Gazélec Ajaccio,23.221541723150082,0.06410717735365994,False,Left Foot,Open Play,1,1,2,Half Volley
+3900568,John Tshibumbu,Gazélec Ajaccio,19.85648508674181,0.06550121657108471,False,Right Foot,Open Play,1,0,1,Half Volley
+3900568,Jacques Zoua Daogari,Gazélec Ajaccio,18.173056980046038,0.05990968561571263,False,Right Foot,Open Play,0,0,3,Normal
+3900568,Mohamed Larbi,Gazélec Ajaccio,16.546903033498438,0.054969929498059775,True,Left Foot,Open Play,0,0,1,Normal
+3900568,Clément Grenier,Lyon,5.481788029466295,0.057315943943595724,True,Head,Open Play,0,0,2,Normal
+3900568,Claudio Beauvue,Lyon,16.209873534361705,0.062312247752515426,False,Left Foot,Open Play,0,1,3,Normal
+3900568,Gnaly Maxwell Cornet,Lyon,24.88875247978492,0.0516381197909252,False,Left Foot,Open Play,0,0,2,Normal
+3900568,Damjan Đoković,Gazélec Ajaccio,24.512037858978594,0.04995519048168061,False,Left Foot,Free Kick,0,0,0,Normal
+3900568,Clément Grenier,Lyon,40.71228315877163,0.07283087168012162,False,Right Foot,Free Kick,0,0,0,Normal
+3900568,Khalid Boutaïb,Gazélec Ajaccio,18.72591786802452,0.06360573996347567,False,Left Foot,Open Play,0,1,2,Normal
+3900568,Rachid Ghezzal,Lyon,38.279237191981764,0.06956616014749337,False,Left Foot,Open Play,0,0,2,Half Volley

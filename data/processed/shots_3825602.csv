@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.541123461880996,0.056174441585130144,False,Right Foot,Open Play,0,0,3,Normal
-10.54751155486449,0.05731887417096233,False,Head,Open Play,0,0,4,Normal
-25.599414055794323,0.05179854259353315,False,Right Foot,Open Play,1,0,1,Normal
-13.04185569618066,0.06082689728125918,False,Right Foot,Open Play,1,0,2,Half Volley
-16.4283291907607,0.058194616606403474,False,Right Foot,Open Play,0,1,1,Half Volley
-34.29650127928504,0.05814112956925764,False,Right Foot,Free Kick,0,0,0,Normal
-6.844705983459043,0.056987831134776304,True,Right Foot,Open Play,1,0,1,Normal
-23.454637068179085,0.06391225936060023,False,Right Foot,Open Play,1,0,0,Half Volley
-27.388501236832948,0.06540040922649949,False,Right Foot,Open Play,0,0,1,Normal
-25.200198411917313,0.056133331420183015,False,Left Foot,Open Play,1,0,2,Normal
-23.233165948703586,0.06778231824251796,False,Right Foot,Open Play,0,0,1,Normal
-7.6557168181692825,0.058525383200734325,False,Head,Open Play,0,1,3,Normal
-19.9972498109115,0.05697010098541391,False,Left Foot,Open Play,0,1,2,Normal
-9.936297097007518,0.05659044481899351,False,Right Foot,Open Play,1,0,3,Normal
-18.856563843924476,0.06113412665062475,False,Right Foot,Open Play,1,0,0,Normal
-12.06026533704793,0.060942613551582786,False,Right Foot,Open Play,1,1,1,Half Volley
-12.233151678941939,0.05652017795330272,False,Head,Open Play,0,1,3,Normal
-8.01311425102625,0.058767938115330355,False,Head,Open Play,0,0,0,Normal
-10.344563789740002,0.06000058104719598,False,Left Foot,Open Play,0,0,3,Normal
-26.969983314789054,0.059206818604325834,False,Right Foot,Open Play,0,1,1,Normal
-17.33580110638098,0.06400947761652237,False,Right Foot,Open Play,0,0,2,Normal
-15.74579308894919,0.061639119077230874,False,Head,Open Play,0,1,2,Normal
-25.96150997149434,0.06189610585046071,False,Right Foot,Open Play,0,0,0,Normal
-23.041701326073998,0.06661127059579357,False,Right Foot,Open Play,1,0,1,Normal
-12.006664815842914,0.056778114227910154,False,Right Foot,Open Play,1,0,2,Half Volley
-9.037698822156004,0.05675374970227899,False,Head,Open Play,0,1,2,Normal
-8.343260753446456,0.05864079068592879,False,Head,Open Play,0,1,4,Normal
-13.880922159568508,0.0619695086787174,True,Head,Open Play,0,0,0,Diving Header
-5.721887800367989,0.057199618337941766,True,Right Foot,Open Play,1,0,3,Half Volley
-32.36788531863025,0.05461755811863558,False,Right Foot,Open Play,0,0,0,Normal
-19.26291774368566,0.06372984219861377,False,Right Foot,Open Play,0,0,2,Half Volley
-18.081205712009364,0.0556434270952962,False,Right Foot,Open Play,1,0,3,Volley
-6.029925372672534,0.057348950804763724,False,Right Foot,Open Play,1,0,3,Half Volley
-20.41372087592069,0.06571107200427036,False,Left Foot,Open Play,0,0,1,Normal
-16.629191201017566,0.05471758731792307,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825602,Karim Benzema,Real Madrid,21.541123461880996,0.056174441585130144,False,Right Foot,Open Play,0,0,3,Normal
+3825602,Raphaël Varane,Real Madrid,10.54751155486449,0.05731887417096233,False,Head,Open Play,0,0,4,Normal
+3825602,Raúl García Escudero,Athletic Club,25.599414055794323,0.05179854259353315,False,Right Foot,Open Play,1,0,1,Normal
+3825602,Karim Benzema,Real Madrid,13.04185569618066,0.06082689728125918,False,Right Foot,Open Play,1,0,2,Half Volley
+3825602,Karim Benzema,Real Madrid,16.4283291907607,0.058194616606403474,False,Right Foot,Open Play,0,1,1,Half Volley
+3825602,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,34.29650127928504,0.05814112956925764,False,Right Foot,Free Kick,0,0,0,Normal
+3825602,Karim Benzema,Real Madrid,6.844705983459043,0.056987831134776304,True,Right Foot,Open Play,1,0,1,Normal
+3825602,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23.454637068179085,0.06391225936060023,False,Right Foot,Open Play,1,0,0,Half Volley
+3825602,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,27.388501236832948,0.06540040922649949,False,Right Foot,Open Play,0,0,1,Normal
+3825602,Luka Modrić,Real Madrid,25.200198411917313,0.056133331420183015,False,Left Foot,Open Play,1,0,2,Normal
+3825602,Toni Kroos,Real Madrid,23.233165948703586,0.06778231824251796,False,Right Foot,Open Play,0,0,1,Normal
+3825602,Sabin Merino Zuloaga,Athletic Club,7.6557168181692825,0.058525383200734325,False,Head,Open Play,0,1,3,Normal
+3825602,Francisco Román Alarcón Suárez,Real Madrid,19.9972498109115,0.05697010098541391,False,Left Foot,Open Play,0,1,2,Normal
+3825602,Raúl García Escudero,Athletic Club,9.936297097007518,0.05659044481899351,False,Right Foot,Open Play,1,0,3,Normal
+3825602,Karim Benzema,Real Madrid,18.856563843924476,0.06113412665062475,False,Right Foot,Open Play,1,0,0,Normal
+3825602,Mateo Kovačić,Real Madrid,12.06026533704793,0.060942613551582786,False,Right Foot,Open Play,1,1,1,Half Volley
+3825602,Karim Benzema,Real Madrid,12.233151678941939,0.05652017795330272,False,Head,Open Play,0,1,3,Normal
+3825602,Aritz Aduriz Zubeldia,Athletic Club,8.01311425102625,0.058767938115330355,False,Head,Open Play,0,0,0,Normal
+3825602,Mateo Kovačić,Real Madrid,10.344563789740002,0.06000058104719598,False,Left Foot,Open Play,0,0,3,Normal
+3825602,Daniel Carvajal Ramos,Real Madrid,26.969983314789054,0.059206818604325834,False,Right Foot,Open Play,0,1,1,Normal
+3825602,Karim Benzema,Real Madrid,17.33580110638098,0.06400947761652237,False,Right Foot,Open Play,0,0,2,Normal
+3825602,Raphaël Varane,Real Madrid,15.74579308894919,0.061639119077230874,False,Head,Open Play,0,1,2,Normal
+3825602,Aritz Aduriz Zubeldia,Athletic Club,25.96150997149434,0.06189610585046071,False,Right Foot,Open Play,0,0,0,Normal
+3825602,Markel Susaeta Laskurain,Athletic Club,23.041701326073998,0.06661127059579357,False,Right Foot,Open Play,1,0,1,Normal
+3825602,Aritz Aduriz Zubeldia,Athletic Club,12.006664815842914,0.056778114227910154,False,Right Foot,Open Play,1,0,2,Half Volley
+3825602,Aritz Aduriz Zubeldia,Athletic Club,9.037698822156004,0.05675374970227899,False,Head,Open Play,0,1,2,Normal
+3825602,Kléper Laveran Lima Ferreira,Real Madrid,8.343260753446456,0.05864079068592879,False,Head,Open Play,0,1,4,Normal
+3825602,Sabin Merino Zuloaga,Athletic Club,13.880922159568508,0.0619695086787174,True,Head,Open Play,0,0,0,Diving Header
+3825602,Karim Benzema,Real Madrid,5.721887800367989,0.057199618337941766,True,Right Foot,Open Play,1,0,3,Half Volley
+3825602,Raúl García Escudero,Athletic Club,32.36788531863025,0.05461755811863558,False,Right Foot,Open Play,0,0,0,Normal
+3825602,Karim Benzema,Real Madrid,19.26291774368566,0.06372984219861377,False,Right Foot,Open Play,0,0,2,Half Volley
+3825602,Aritz Aduriz Zubeldia,Athletic Club,18.081205712009364,0.0556434270952962,False,Right Foot,Open Play,1,0,3,Volley
+3825602,Raúl García Escudero,Athletic Club,6.029925372672534,0.057348950804763724,False,Right Foot,Open Play,1,0,3,Half Volley
+3825602,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,20.41372087592069,0.06571107200427036,False,Left Foot,Open Play,0,0,1,Normal
+3825602,Sabin Merino Zuloaga,Athletic Club,16.629191201017566,0.05471758731792307,False,Head,Open Play,0,0,1,Normal

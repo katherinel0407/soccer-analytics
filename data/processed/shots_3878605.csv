@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.79178978717174,0.07028818572425809,False,Right Foot,Open Play,0,1,2,Normal
-30.479501308256346,0.0693401036361442,False,Right Foot,Open Play,1,0,2,Half Volley
-28.225166075685014,0.07122753541252165,False,Left Foot,Open Play,0,0,1,Normal
-27.986603938313056,0.07108244364170609,False,Right Foot,Open Play,0,0,1,Normal
-17.018813119603845,0.06350158121463449,False,Left Foot,Open Play,0,0,1,Normal
-29.433314458280087,0.07213899833707414,False,Right Foot,Open Play,0,0,0,Normal
-8.58020978764506,0.059082252549956096,False,Left Foot,Open Play,0,1,4,Normal
-8.1467785044151,0.05882514544716604,True,Right Foot,Open Play,1,1,4,Normal
-16.724233913695418,0.05344882773041245,False,Right Foot,Open Play,0,1,1,Normal
-6.412487816752564,0.05744487877807263,False,Left Foot,Open Play,1,0,2,Normal
-6.200806399171,0.05786101105307438,False,Head,Open Play,0,1,2,Normal
-14.94054885203352,0.06039984551511848,False,Left Foot,Open Play,1,0,3,Volley
-8.909545442950495,0.059168217416382556,False,Head,Open Play,0,0,1,Normal
-35.610391741737416,0.07703757588666063,False,Right Foot,Open Play,0,0,2,Normal
-21.991361940543833,0.06695740653663944,False,Right Foot,Open Play,0,0,1,Normal
-33.1470964037576,0.0750100554131519,False,Right Foot,Open Play,0,0,1,Normal
-11.001818031580054,0.05910499085074831,False,Right Foot,Open Play,0,1,1,Half Volley
-12.457929201917954,0.059321330777426705,False,Head,Open Play,0,1,2,Normal
-27.69295939404093,0.07081290346506092,False,Left Foot,Open Play,0,0,2,Normal
-11.63872845288522,0.060433016085264725,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878605,Borja Valero Iglesias,Fiorentina,26.79178978717174,0.07028818572425809,False,Right Foot,Open Play,0,1,2,Normal
+3878605,Isaac Cofie,Carpi,30.479501308256346,0.0693401036361442,False,Right Foot,Open Play,1,0,2,Half Volley
+3878605,Federico Bernardeschi,Fiorentina,28.225166075685014,0.07122753541252165,False,Left Foot,Open Play,0,0,1,Normal
+3878605,Khouma El Hadji Babacar,Fiorentina,27.986603938313056,0.07108244364170609,False,Right Foot,Open Play,0,0,1,Normal
+3878605,Marco Borriello,Carpi,17.018813119603845,0.06350158121463449,False,Left Foot,Open Play,0,0,1,Normal
+3878605,Ryder Matos Santos,Carpi,29.433314458280087,0.07213899833707414,False,Right Foot,Open Play,0,0,0,Normal
+3878605,Khouma El Hadji Babacar,Fiorentina,8.58020978764506,0.059082252549956096,False,Left Foot,Open Play,0,1,4,Normal
+3878605,Khouma El Hadji Babacar,Fiorentina,8.1467785044151,0.05882514544716604,True,Right Foot,Open Play,1,1,4,Normal
+3878605,Gaetano Letizia,Carpi,16.724233913695418,0.05344882773041245,False,Right Foot,Open Play,0,1,1,Normal
+3878605,Marco Borriello,Carpi,6.412487816752564,0.05744487877807263,False,Left Foot,Open Play,1,0,2,Normal
+3878605,Gabriel Moisés Antunes da Silva,Carpi,6.200806399171,0.05786101105307438,False,Head,Open Play,0,1,2,Normal
+3878605,Igor Bubnjić,Carpi,14.94054885203352,0.06039984551511848,False,Left Foot,Open Play,1,0,3,Volley
+3878605,Ryder Matos Santos,Carpi,8.909545442950495,0.059168217416382556,False,Head,Open Play,0,0,1,Normal
+3878605,Matteo Fedele,Carpi,35.610391741737416,0.07703757588666063,False,Right Foot,Open Play,0,0,2,Normal
+3878605,Giuseppe Rossi,Fiorentina,21.991361940543833,0.06695740653663944,False,Right Foot,Open Play,0,0,1,Normal
+3878605,Ryder Matos Santos,Carpi,33.1470964037576,0.0750100554131519,False,Right Foot,Open Play,0,0,1,Normal
+3878605,Nikola Kalinić,Fiorentina,11.001818031580054,0.05910499085074831,False,Right Foot,Open Play,0,1,1,Half Volley
+3878605,Marco Borriello,Carpi,12.457929201917954,0.059321330777426705,False,Head,Open Play,0,1,2,Normal
+3878605,Marcos Alonso Mendoza,Fiorentina,27.69295939404093,0.07081290346506092,False,Left Foot,Open Play,0,0,2,Normal
+3878605,Lorenzo Lollo,Carpi,11.63872845288522,0.060433016085264725,False,Head,Open Play,0,1,2,Normal

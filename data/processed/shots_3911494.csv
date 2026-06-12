@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.0766229125736,0.05866921649267213,False,Right Foot,Open Play,0,0,2,Normal
-15.533190271158077,0.06293566956173498,False,Left Foot,Open Play,1,0,0,Normal
-10.218121158021175,0.058034129501576555,False,Right Foot,Open Play,1,0,2,Normal
-23.034105148670303,0.0652623148743167,False,Right Foot,Open Play,0,0,2,Normal
-23.819529802244215,0.06774363809688268,False,Right Foot,Open Play,1,0,2,Half Volley
-22.91571513176056,0.06330809083361968,False,Left Foot,Open Play,0,0,2,Normal
-31.706781608987065,0.07111858313161891,False,Right Foot,Open Play,0,0,0,Normal
-29.735668817095746,0.0710126793636063,False,Left Foot,Open Play,0,0,1,Normal
-24.55789078890938,0.06858511820932818,False,Right Foot,Open Play,1,0,1,Normal
-26.522443326360413,0.05241801152098952,False,Left Foot,Open Play,1,0,1,Normal
-13.934489585198301,0.06175792028619232,True,Left Foot,Open Play,1,0,2,Half Volley
-44.74874299910557,0.08507818484503984,False,Right Foot,Open Play,0,0,1,Normal
-26.288020085202305,0.05975560915441277,False,Right Foot,Open Play,0,0,1,Normal
-7.9056941504209535,0.05781557929400348,False,Head,Open Play,0,1,3,Normal
-39.49303736103365,0.06999024442541081,False,Right Foot,Open Play,0,0,0,Normal
-19.684003657792797,0.06483685901487024,False,Left Foot,Open Play,0,1,1,Normal
-11.751595636338076,0.0598553738343132,False,Left Foot,Open Play,1,0,1,Volley
-10.716809226630845,0.06018410474484068,False,Right Foot,Open Play,0,1,4,Half Volley
-9.654014708917742,0.059622447904801555,True,Head,Open Play,0,0,1,Normal
-7.000714249274855,0.058165493900736574,True,Head,Open Play,0,1,5,Normal
-23.542302351299462,0.06266342436016074,False,Left Foot,Open Play,1,0,1,Normal
-37.253724646000165,0.07301305291587973,False,Left Foot,Open Play,0,1,2,Normal
-25.56912200291594,0.053016798152358345,False,Right Foot,Open Play,0,1,3,Normal
-14.880860190190617,0.054011021021509696,False,Right Foot,Open Play,0,1,1,Normal
-22.071927872299696,0.06701966019001418,False,Left Foot,Open Play,0,0,1,Normal
-24.355902775302745,0.06763665724455492,False,Right Foot,Open Play,1,0,0,Volley
-7.747257579298621,0.0565805746793593,True,Head,Open Play,0,1,7,Normal
-21.151359294381063,0.06610705192752146,False,Left Foot,Open Play,0,0,2,Normal
-14.741099009232657,0.05401702988659888,False,Right Foot,Open Play,0,0,0,Normal
-40.340674263080935,0.08161660413344589,False,Right Foot,Free Kick,0,0,0,Normal
-13.736083866954223,0.06178857094136352,False,Right Foot,Open Play,1,0,1,Normal
-29.079546076237154,0.07142501237161294,False,Right Foot,Open Play,0,0,1,Normal
-8.077747210701755,0.05870413607747493,False,Right Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911494,Isabel Corte Peláez,CD Sporting de Huelva,29.0766229125736,0.05866921649267213,False,Right Foot,Open Play,0,0,2,Normal
+3911494,Raiderlin Nazareth Carrasco Vargas,CD Sporting de Huelva,15.533190271158077,0.06293566956173498,False,Left Foot,Open Play,1,0,0,Normal
+3911494,Sofia Lovisa Gustafsson,CD Sporting de Huelva,10.218121158021175,0.058034129501576555,False,Right Foot,Open Play,1,0,2,Normal
+3911494,Patrícia Hmírová,CD Sporting de Huelva,23.034105148670303,0.0652623148743167,False,Right Foot,Open Play,0,0,2,Normal
+3911494,Fiamma Iannuzzi,Valencia CF,23.819529802244215,0.06774363809688268,False,Right Foot,Open Play,1,0,2,Half Volley
+3911494,Sofia Lovisa Gustafsson,CD Sporting de Huelva,22.91571513176056,0.06330809083361968,False,Left Foot,Open Play,0,0,2,Normal
+3911494,Claudia Florentino Vivó,Valencia CF,31.706781608987065,0.07111858313161891,False,Right Foot,Open Play,0,0,0,Normal
+3911494,Paula Sancho González,Valencia CF,29.735668817095746,0.0710126793636063,False,Left Foot,Open Play,0,0,1,Normal
+3911494,Isabel Corte Peláez,CD Sporting de Huelva,24.55789078890938,0.06858511820932818,False,Right Foot,Open Play,1,0,1,Normal
+3911494,Ascensión Martínez Salinas,Valencia CF,26.522443326360413,0.05241801152098952,False,Left Foot,Open Play,1,0,1,Normal
+3911494,Ana Marcos Moral,Valencia CF,13.934489585198301,0.06175792028619232,True,Left Foot,Open Play,1,0,2,Half Volley
+3911494,Patricia Ojeda,CD Sporting de Huelva,44.74874299910557,0.08507818484503984,False,Right Foot,Open Play,0,0,1,Normal
+3911494,Fiamma Iannuzzi,Valencia CF,26.288020085202305,0.05975560915441277,False,Right Foot,Open Play,0,0,1,Normal
+3911494,Ana Marcos Moral,Valencia CF,7.9056941504209535,0.05781557929400348,False,Head,Open Play,0,1,3,Normal
+3911494,María Cienfuegos Baragaño,CD Sporting de Huelva,39.49303736103365,0.06999024442541081,False,Right Foot,Open Play,0,0,0,Normal
+3911494,Raiderlin Nazareth Carrasco Vargas,CD Sporting de Huelva,19.684003657792797,0.06483685901487024,False,Left Foot,Open Play,0,1,1,Normal
+3911494,Ascensión Martínez Salinas,Valencia CF,11.751595636338076,0.0598553738343132,False,Left Foot,Open Play,1,0,1,Volley
+3911494,María Ruiz Gámez,CD Sporting de Huelva,10.716809226630845,0.06018410474484068,False,Right Foot,Open Play,0,1,4,Half Volley
+3911494,Ana Marcos Moral,Valencia CF,9.654014708917742,0.059622447904801555,True,Head,Open Play,0,0,1,Normal
+3911494,Jimena López Fuentes,Valencia CF,7.000714249274855,0.058165493900736574,True,Head,Open Play,0,1,5,Normal
+3911494,María Ruiz Gámez,CD Sporting de Huelva,23.542302351299462,0.06266342436016074,False,Left Foot,Open Play,1,0,1,Normal
+3911494,Sofia Lovisa Gustafsson,CD Sporting de Huelva,37.253724646000165,0.07301305291587973,False,Left Foot,Open Play,0,1,2,Normal
+3911494,Fiamma Iannuzzi,Valencia CF,25.56912200291594,0.053016798152358345,False,Right Foot,Open Play,0,1,3,Normal
+3911494,Marina Martí Serna,Valencia CF,14.880860190190617,0.054011021021509696,False,Right Foot,Open Play,0,1,1,Normal
+3911494,Paula Sancho González,Valencia CF,22.071927872299696,0.06701966019001418,False,Left Foot,Open Play,0,0,1,Normal
+3911494,Alices Yannel Correa Santa Cruz,CD Sporting de Huelva,24.355902775302745,0.06763665724455492,False,Right Foot,Open Play,1,0,0,Volley
+3911494,Sandra Castelló Oliver,CD Sporting de Huelva,7.747257579298621,0.0565805746793593,True,Head,Open Play,0,1,7,Normal
+3911494,Raiderlin Nazareth Carrasco Vargas,CD Sporting de Huelva,21.151359294381063,0.06610705192752146,False,Left Foot,Open Play,0,0,2,Normal
+3911494,Marina Martí Serna,Valencia CF,14.741099009232657,0.05401702988659888,False,Right Foot,Open Play,0,0,0,Normal
+3911494,Laia Balleste,CD Sporting de Huelva,40.340674263080935,0.08161660413344589,False,Right Foot,Free Kick,0,0,0,Normal
+3911494,Sandra Castelló Oliver,CD Sporting de Huelva,13.736083866954223,0.06178857094136352,False,Right Foot,Open Play,1,0,1,Normal
+3911494,Patricia Ojeda,CD Sporting de Huelva,29.079546076237154,0.07142501237161294,False,Right Foot,Open Play,0,0,1,Normal
+3911494,Elena Gil,Valencia CF,8.077747210701755,0.05870413607747493,False,Right Foot,Open Play,0,0,4,Normal

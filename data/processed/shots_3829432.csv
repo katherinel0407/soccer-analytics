@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.91294361377204,0.06016940951325774,False,Right Foot,Open Play,1,1,1,Normal
-11.807201192492656,0.05703589035446817,False,Right Foot,Open Play,1,1,4,Normal
-27.388501236832948,0.06769359313079144,False,Right Foot,Open Play,0,0,2,Normal
-19.875864761061344,0.06525081919154369,True,Left Foot,Open Play,0,0,1,Normal
-15.624659996300718,0.06299179561890948,False,Head,Open Play,0,0,1,Normal
-8.154140052758477,0.05669667618972786,True,Head,Open Play,0,0,5,Normal
-29.400170067535317,0.06032546704420356,False,Left Foot,Open Play,0,0,1,Normal
-26.658206991468873,0.0646654028687516,False,Right Foot,Open Play,0,0,2,Normal
-9.11975876873944,0.05859747586643581,False,Head,Open Play,0,1,3,Normal
-31.324910215354166,0.06432230407449215,False,Left Foot,Open Play,1,0,0,Normal
-35.11595079162744,0.0733120283975452,False,Right Foot,Free Kick,0,0,0,Normal
-31.0177368613508,0.06680287883116474,False,Right Foot,Open Play,0,1,1,Normal
-13.22308587282107,0.05687763979348136,False,Head,Open Play,0,0,2,Normal
-13.081666560496027,0.058924316364534934,False,Head,Open Play,0,0,3,Normal
-14.852945835759318,0.053057611337228625,False,Right Foot,Open Play,1,1,2,Half Volley
-66.21819991512908,0.050751670288116016,False,Right Foot,Open Play,0,0,0,Lob
-14.536161804272824,0.0623080659788968,False,Head,Open Play,0,0,1,Normal
-9.104943712072025,0.05829598014839053,False,Head,Open Play,0,0,5,Normal
-13.15940728148499,0.059002062027694625,False,Right Foot,Open Play,1,1,2,Volley
-9.33916484488843,0.0590914799964344,False,Head,Open Play,0,0,4,Diving Header
-7.169379331573971,0.05834177528758995,False,Head,Open Play,0,1,5,Normal
-12.509996003196804,0.05998243030889453,False,Head,Open Play,0,0,2,Normal
-22.13255520720552,0.06248942681146138,False,Right Foot,Open Play,0,0,2,Normal
-33.50104475982802,0.07122622843781301,False,Right Foot,Open Play,0,0,1,Normal
-24.01041440708594,0.05754408701482378,False,Right Foot,Open Play,0,1,2,Normal
-28.023561515267822,0.07100162621637572,False,Left Foot,Open Play,0,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829432,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,13.91294361377204,0.06016940951325774,False,Right Foot,Open Play,1,1,1,Normal
+3829432,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,11.807201192492656,0.05703589035446817,False,Right Foot,Open Play,1,1,4,Normal
+3829432,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,27.388501236832948,0.06769359313079144,False,Right Foot,Open Play,0,0,2,Normal
+3829432,Blaise Matuidi,Paris Saint-Germain,19.875864761061344,0.06525081919154369,True,Left Foot,Open Play,0,0,1,Normal
+3829432,Grégory Pujol,Gazélec Ajaccio,15.624659996300718,0.06299179561890948,False,Head,Open Play,0,0,1,Normal
+3829432,Thiago Emiliano da Silva,Paris Saint-Germain,8.154140052758477,0.05669667618972786,True,Head,Open Play,0,0,5,Normal
+3829432,Jacques Zoua Daogari,Gazélec Ajaccio,29.400170067535317,0.06032546704420356,False,Left Foot,Open Play,0,0,1,Normal
+3829432,Damjan Đoković,Gazélec Ajaccio,26.658206991468873,0.0646654028687516,False,Right Foot,Open Play,0,0,2,Normal
+3829432,Jean-Kévin Augustin,Paris Saint-Germain,9.11975876873944,0.05859747586643581,False,Head,Open Play,0,1,3,Normal
+3829432,Thiago Motta,Paris Saint-Germain,31.324910215354166,0.06432230407449215,False,Left Foot,Open Play,1,0,0,Normal
+3829432,David Luiz Moreira Marinho,Paris Saint-Germain,35.11595079162744,0.0733120283975452,False,Right Foot,Free Kick,0,0,0,Normal
+3829432,Grégory Pujol,Gazélec Ajaccio,31.0177368613508,0.06680287883116474,False,Right Foot,Open Play,0,1,1,Normal
+3829432,Roderic Filippi,Gazélec Ajaccio,13.22308587282107,0.05687763979348136,False,Head,Open Play,0,0,2,Normal
+3829432,Edinson Roberto Cavani Gómez,Paris Saint-Germain,13.081666560496027,0.058924316364534934,False,Head,Open Play,0,0,3,Normal
+3829432,Jean-Kévin Augustin,Paris Saint-Germain,14.852945835759318,0.053057611337228625,False,Right Foot,Open Play,1,1,2,Half Volley
+3829432,David Ducourtioux,Gazélec Ajaccio,66.21819991512908,0.050751670288116016,False,Right Foot,Open Play,0,0,0,Lob
+3829432,Edinson Roberto Cavani Gómez,Paris Saint-Germain,14.536161804272824,0.0623080659788968,False,Head,Open Play,0,0,1,Normal
+3829432,David Luiz Moreira Marinho,Paris Saint-Germain,9.104943712072025,0.05829598014839053,False,Head,Open Play,0,0,5,Normal
+3829432,Thiago Emiliano da Silva,Paris Saint-Germain,13.15940728148499,0.059002062027694625,False,Right Foot,Open Play,1,1,2,Volley
+3829432,Serge Aurier,Paris Saint-Germain,9.33916484488843,0.0590914799964344,False,Head,Open Play,0,0,4,Diving Header
+3829432,David Luiz Moreira Marinho,Paris Saint-Germain,7.169379331573971,0.05834177528758995,False,Head,Open Play,0,1,5,Normal
+3829432,Edinson Roberto Cavani Gómez,Paris Saint-Germain,12.509996003196804,0.05998243030889453,False,Head,Open Play,0,0,2,Normal
+3829432,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,22.13255520720552,0.06248942681146138,False,Right Foot,Open Play,0,0,2,Normal
+3829432,Kévin Mayi,Gazélec Ajaccio,33.50104475982802,0.07122622843781301,False,Right Foot,Open Play,0,0,1,Normal
+3829432,Javier Matías Pastore,Paris Saint-Germain,24.01041440708594,0.05754408701482378,False,Right Foot,Open Play,0,1,2,Normal
+3829432,Khalid Boutaïb,Gazélec Ajaccio,28.023561515267822,0.07100162621637572,False,Left Foot,Open Play,0,1,1,Half Volley

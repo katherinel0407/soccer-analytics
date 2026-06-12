@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.229823813423959,0.05780264671356192,False,Head,Open Play,0,0,4,Normal
-7.349829930005181,0.058168218822404805,True,Head,Open Play,0,0,4,Normal
-16.901183390520323,0.05615830234413152,False,Right Foot,Open Play,1,0,1,Half Volley
-40.689679281115005,0.0816673638529231,False,Right Foot,Open Play,0,0,1,Normal
-14.484474446799922,0.058663365913951646,True,Right Foot,Open Play,1,0,1,Normal
-35.8286198450345,0.07741038055844926,False,Right Foot,Open Play,0,0,2,Normal
-37.87941393422026,0.0792878951428372,False,Right Foot,Open Play,1,0,0,Half Volley
-7.083078426785918,0.05802117870075057,False,Head,Open Play,0,1,3,Normal
-26.575364531836623,0.06861179672679746,False,Right Foot,Open Play,1,1,2,Normal
-16.936646657470302,0.05956155911373274,False,Head,Open Play,0,0,1,Normal
-27.532707821788975,0.06953882237985676,False,Right Foot,Open Play,0,0,1,Half Volley
-9.441398201537734,0.05950843927659962,False,Right Foot,Open Play,0,0,2,Normal
-28.901211047290047,0.05958385282440132,False,Right Foot,Free Kick,0,0,0,Normal
-9.464142856064669,0.057509419984610226,False,Right Foot,Open Play,1,1,6,Half Volley
-30.271108337819417,0.07272790257138165,False,Right Foot,Open Play,0,0,1,Normal
-15.445711378890902,0.056000596897420804,False,Right Foot,Open Play,0,0,2,Half Volley
-16.011246047700347,0.06294276028734802,False,Right Foot,Open Play,0,0,1,Normal
-21.756838005555856,0.06631466440681175,False,Right Foot,Open Play,1,1,2,Lob
-27.086712609691123,0.06970838119887161,False,Right Foot,Open Play,0,0,3,Normal
-4.3046486500061745,0.05644251505953567,False,Head,Open Play,0,1,6,Normal
-25.492155656201376,0.05306096861990571,False,Left Foot,Open Play,0,1,1,Half Volley
-15.43048929878765,0.06279038355427302,True,Right Foot,Open Play,0,1,1,Normal
-47.92128963206228,0.08318974924919528,False,Left Foot,Open Play,0,0,0,Lob
-12.824975633505113,0.059633915935765974,False,Head,Open Play,0,0,2,Normal
-23.821418933388497,0.06669350932990467,False,Right Foot,Open Play,1,1,2,Half Volley
-24.412496799794972,0.06859556406511476,False,Right Foot,Open Play,0,1,1,Normal
-16.202777539668933,0.06151003005227436,False,Right Foot,Open Play,0,0,3,Normal
-27.851211822827388,0.059879996771550814,False,Right Foot,Open Play,1,1,1,Normal
-9.257429448826489,0.05896081590395339,True,Right Foot,Open Play,1,1,1,Half Volley
-7.641989269817123,0.055066330084391386,False,Right Foot,Open Play,0,1,4,Backheel
-5.7939623747483955,0.05756630361809276,True,Other,Open Play,0,0,3,Normal
-7.54320886625845,0.05853822480548025,False,Right Foot,Open Play,1,0,1,Volley
-23.657979626333272,0.05700165521130071,False,Left Foot,Open Play,0,0,4,Normal
-36.187290586613415,0.0766079419217292,False,Left Foot,Open Play,0,0,0,Normal
-12.09173271289107,0.06081200548204031,True,Right Foot,Open Play,0,1,2,Normal
-14.988328792764058,0.05737296572566435,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3910991,Eva Llamas Hernández,Sevilla FC,8.229823813423959,0.05780264671356192,False,Head,Open Play,0,0,4,Normal
+3910991,Klára Cahynová,Sevilla FC,7.349829930005181,0.058168218822404805,True,Head,Open Play,0,0,4,Normal
+3910991,Julia Aguado,Real Betis Balompié,16.901183390520323,0.05615830234413152,False,Right Foot,Open Play,1,0,1,Half Volley
+3910991,Rosa Márquez Baena,Real Betis Balompié,40.689679281115005,0.0816673638529231,False,Right Foot,Open Play,0,0,1,Normal
+3910991,Amanda Sampedro Bustos,Sevilla FC,14.484474446799922,0.058663365913951646,True,Right Foot,Open Play,1,0,1,Normal
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,35.8286198450345,0.07741038055844926,False,Right Foot,Open Play,0,0,2,Normal
+3910991,Lucía María Rodríguez Herrero,Sevilla FC,37.87941393422026,0.0792878951428372,False,Right Foot,Open Play,1,0,0,Half Volley
+3910991,Dorine Nina Chuigoue,Real Betis Balompié,7.083078426785918,0.05802117870075057,False,Head,Open Play,0,1,3,Normal
+3910991,María de los Ángeles Carrión Egido,Real Betis Balompié,26.575364531836623,0.06861179672679746,False,Right Foot,Open Play,1,1,2,Normal
+3910991,Cristina Martín-Prieto Gutierrez,Sevilla FC,16.936646657470302,0.05956155911373274,False,Head,Open Play,0,0,1,Normal
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,27.532707821788975,0.06953882237985676,False,Right Foot,Open Play,0,0,1,Half Volley
+3910991,Cristina Martín-Prieto Gutierrez,Sevilla FC,9.441398201537734,0.05950843927659962,False,Right Foot,Open Play,0,0,2,Normal
+3910991,María de los Ángeles Carrión Egido,Real Betis Balompié,28.901211047290047,0.05958385282440132,False,Right Foot,Free Kick,0,0,0,Normal
+3910991,Dorine Nina Chuigoue,Real Betis Balompié,9.464142856064669,0.057509419984610226,False,Right Foot,Open Play,1,1,6,Half Volley
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,30.271108337819417,0.07272790257138165,False,Right Foot,Open Play,0,0,1,Normal
+3910991,Antionette Oyedupe Payne,Sevilla FC,15.445711378890902,0.056000596897420804,False,Right Foot,Open Play,0,0,2,Half Volley
+3910991,Cristina Martín-Prieto Gutierrez,Sevilla FC,16.011246047700347,0.06294276028734802,False,Right Foot,Open Play,0,0,1,Normal
+3910991,Antionette Oyedupe Payne,Sevilla FC,21.756838005555856,0.06631466440681175,False,Right Foot,Open Play,1,1,2,Lob
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,27.086712609691123,0.06970838119887161,False,Right Foot,Open Play,0,0,3,Normal
+3910991,Eva Llamas Hernández,Sevilla FC,4.3046486500061745,0.05644251505953567,False,Head,Open Play,0,1,6,Normal
+3910991,Carla Armengol Joaniquet,Real Betis Balompié,25.492155656201376,0.05306096861990571,False,Left Foot,Open Play,0,1,1,Half Volley
+3910991,Cristina Martín-Prieto Gutierrez,Sevilla FC,15.43048929878765,0.06279038355427302,True,Right Foot,Open Play,0,1,1,Normal
+3910991,Rosa Otermin Abella,Sevilla FC,47.92128963206228,0.08318974924919528,False,Left Foot,Open Play,0,0,0,Lob
+3910991,Julia Aguado,Real Betis Balompié,12.824975633505113,0.059633915935765974,False,Head,Open Play,0,0,2,Normal
+3910991,Cristina Martín-Prieto Gutierrez,Sevilla FC,23.821418933388497,0.06669350932990467,False,Right Foot,Open Play,1,1,2,Half Volley
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,24.412496799794972,0.06859556406511476,False,Right Foot,Open Play,0,1,1,Normal
+3910991,Gema Gili Giner,Sevilla FC,16.202777539668933,0.06151003005227436,False,Right Foot,Open Play,0,0,3,Normal
+3910991,Gema Soliveres Cholbi,Real Betis Balompié,27.851211822827388,0.059879996771550814,False,Right Foot,Open Play,1,1,1,Normal
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,9.257429448826489,0.05896081590395339,True,Right Foot,Open Play,1,1,1,Half Volley
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,7.641989269817123,0.055066330084391386,False,Right Foot,Open Play,0,1,4,Backheel
+3910991,Cristina Martín-Prieto Gutierrez,Sevilla FC,5.7939623747483955,0.05756630361809276,True,Other,Open Play,0,0,3,Normal
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,7.54320886625845,0.05853822480548025,False,Right Foot,Open Play,1,0,1,Volley
+3910991,Débora García Mateo,Sevilla FC,23.657979626333272,0.05700165521130071,False,Left Foot,Open Play,0,0,4,Normal
+3910991,Rosa Otermin Abella,Sevilla FC,36.187290586613415,0.0766079419217292,False,Left Foot,Open Play,0,0,0,Normal
+3910991,Maria Inmaculada Gabarro Romero,Sevilla FC,12.09173271289107,0.06081200548204031,True,Right Foot,Open Play,0,1,2,Normal
+3910991,Nazareth Martín Vázquez,Sevilla FC,14.988328792764058,0.05737296572566435,False,Head,Open Play,0,1,3,Normal

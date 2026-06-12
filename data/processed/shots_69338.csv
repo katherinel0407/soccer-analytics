@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.903237033151662,0.05404989213397086,False,Right Foot,Open Play,0,0,1,Half Volley
-20.028230076569425,0.06023042988878477,False,Left Foot,Open Play,0,1,1,Normal
-22.60199106273604,0.06721079873468351,False,Left Foot,Open Play,0,0,3,Half Volley
-12.081390648431166,0.05908459241590785,False,Head,Open Play,0,1,4,Normal
-17.620726432244503,0.06412844408549417,False,Left Foot,Open Play,1,0,0,Lob
-12.343824366864594,0.053275669549952095,False,Right Foot,Open Play,1,0,1,Volley
-35.93883693165376,0.07459662652639107,False,Right Foot,Free Kick,0,0,0,Normal
-23.500212764994277,0.0647691434910151,False,Right Foot,Open Play,0,0,1,Normal
-22.770595073471405,0.05693079340334001,False,Right Foot,Open Play,1,1,2,Normal
-25.119116226491723,0.0681119206459991,False,Right Foot,Open Play,0,0,2,Normal
-32.555798254688824,0.07181062131226619,False,Left Foot,Free Kick,0,0,0,Normal
-23.79663841806233,0.06615057960221954,False,Right Foot,Open Play,0,0,1,Normal
-21.81948670340345,0.06654613580350272,False,Right Foot,Open Play,0,0,1,Normal
-13.152946437965907,0.06136832248154957,False,Left Foot,Open Play,0,1,2,Normal
-15.711460785044785,0.06093687129695006,False,Left Foot,Open Play,1,0,1,Normal
-18.990787240133038,0.06492991709190617,False,Left Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69338,Daniel Alves da Silva,Barcelona,13.903237033151662,0.05404989213397086,False,Right Foot,Open Play,0,0,1,Half Volley
+69338,Rubén Gracia Calmache,Villarreal,20.028230076569425,0.06023042988878477,False,Left Foot,Open Play,0,1,1,Normal
+69338,Lionel Andrés Messi Cuccittini,Barcelona,22.60199106273604,0.06721079873468351,False,Left Foot,Open Play,0,0,3,Half Volley
+69338,Gerard Piqué Bernabéu,Barcelona,12.081390648431166,0.05908459241590785,False,Head,Open Play,0,1,4,Normal
+69338,Lionel Andrés Messi Cuccittini,Barcelona,17.620726432244503,0.06412844408549417,False,Left Foot,Open Play,1,0,0,Lob
+69338,José Luis Moreno Barroso,Villarreal,12.343824366864594,0.053275669549952095,False,Right Foot,Open Play,1,0,1,Volley
+69338,Daniel Alves da Silva,Barcelona,35.93883693165376,0.07459662652639107,False,Right Foot,Free Kick,0,0,0,Normal
+69338,Marco Gastón Ruben Rodríguez,Villarreal,23.500212764994277,0.0647691434910151,False,Right Foot,Open Play,0,0,1,Normal
+69338,Marcos Antonio Senna da Silva,Villarreal,22.770595073471405,0.05693079340334001,False,Right Foot,Open Play,1,1,2,Normal
+69338,Adriano Correia Claro,Barcelona,25.119116226491723,0.0681119206459991,False,Right Foot,Open Play,0,0,2,Normal
+69338,Lionel Andrés Messi Cuccittini,Barcelona,32.555798254688824,0.07181062131226619,False,Left Foot,Free Kick,0,0,0,Normal
+69338,Marco Gastón Ruben Rodríguez,Villarreal,23.79663841806233,0.06615057960221954,False,Right Foot,Open Play,0,0,1,Normal
+69338,Francesc Fàbregas i Soler,Barcelona,21.81948670340345,0.06654613580350272,False,Right Foot,Open Play,0,0,1,Normal
+69338,Lionel Andrés Messi Cuccittini,Barcelona,13.152946437965907,0.06136832248154957,False,Left Foot,Open Play,0,1,2,Normal
+69338,Francesc Fàbregas i Soler,Barcelona,15.711460785044785,0.06093687129695006,False,Left Foot,Open Play,1,0,1,Normal
+69338,Lionel Andrés Messi Cuccittini,Barcelona,18.990787240133038,0.06492991709190617,False,Left Foot,Open Play,0,0,4,Normal

@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.13705953120198,0.06167073290903482,True,Left Foot,Open Play,0,0,1,Normal
-24.610973162392423,0.054556323099240876,False,Left Foot,Open Play,1,0,1,Normal
-7.947955712005447,0.05370374405740231,False,Right Foot,Open Play,1,0,4,Normal
-25.08326135094876,0.06280832611891253,False,Right Foot,Open Play,1,0,1,Volley
-6.020797289396148,0.057317905141302666,True,Left Foot,Open Play,1,0,4,Normal
-10.15135458941318,0.05872553767820692,False,Left Foot,Open Play,0,0,2,Normal
-22.603539545832202,0.057604127558545486,False,Right Foot,Open Play,0,0,2,Normal
-22.036787424667875,0.05349551762627514,False,Left Foot,Open Play,0,0,1,Normal
-17.007351351694947,0.06374591857057815,False,Right Foot,Open Play,0,0,1,Normal
-30.10996512784431,0.06394459136945266,False,Right Foot,Open Play,0,0,1,Normal
-34.30481015834369,0.05954983001377899,False,Right Foot,Open Play,0,0,1,Normal
-22.643321311150444,0.06364391319442944,False,Right Foot,Open Play,0,0,1,Normal
-19.690099034794116,0.05541887620556876,False,Right Foot,Open Play,1,0,1,Volley
-30.47769676337108,0.07258359388248221,False,Right Foot,Open Play,0,0,0,Volley
-23.889118861942148,0.06336786075255296,False,Left Foot,Open Play,1,0,1,Normal
-12.571793825862724,0.05740608716604985,False,Right Foot,Open Play,1,0,1,Normal
-8.982761268117951,0.055319338875145604,False,Right Foot,Open Play,0,0,3,Normal
-26.20934947685654,0.05544848634206021,False,Left Foot,Open Play,0,0,1,Normal
-18.866107176627615,0.056041651685595446,False,Left Foot,Open Play,0,0,2,Normal
-11.562439189029277,0.05895379856815326,False,Head,Open Play,0,0,1,Normal
-17.288724649319853,0.06272274815747603,False,Right Foot,Open Play,0,0,2,Normal
-28.76473535424931,0.058626683465166175,False,Left Foot,Open Play,0,0,1,Normal
-14.410065926289162,0.0605460216863652,False,Right Foot,Open Play,0,0,1,Normal
-26.65576860643864,0.0690579021227807,False,Left Foot,Open Play,0,0,1,Half Volley
-15.543809056984717,0.05577612953183095,False,Left Foot,Open Play,0,0,2,Normal
-13.172699040060095,0.06156480601693547,False,Head,Open Play,0,0,1,Normal
-7.234638899074372,0.0554675953634042,False,Head,Open Play,0,1,4,Normal
-19.768662069042506,0.05840924193015535,False,Right Foot,Open Play,0,0,0,Half Volley
-20.080338642562786,0.058223172531681036,False,Right Foot,Open Play,0,0,1,Half Volley
-10.846658471621566,0.05979650850941819,True,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813264,David Joel Williams,Mohun Bagan Super Giant,27.13705953120198,0.06167073290903482,True,Left Foot,Open Play,0,0,1,Normal
+3813264,Asish Rai,SC Delhi,24.610973162392423,0.054556323099240876,False,Left Foot,Open Play,1,0,1,Normal
+3813264,Aniket Anil Jadhav,SC Delhi,7.947955712005447,0.05370374405740231,False,Right Foot,Open Play,1,0,4,Normal
+3813264,Hitesh Sharma,SC Delhi,25.08326135094876,0.06280832611891253,False,Right Foot,Open Play,1,0,1,Volley
+3813264,Bartholomew Owogbalor Ogbeche,SC Delhi,6.020797289396148,0.057317905141302666,True,Left Foot,Open Play,1,0,4,Normal
+3813264,Aniket Anil Jadhav,SC Delhi,10.15135458941318,0.05872553767820692,False,Left Foot,Open Play,0,0,2,Normal
+3813264,Eduardo García Martín,SC Delhi,22.603539545832202,0.057604127558545486,False,Right Foot,Open Play,0,0,2,Normal
+3813264,Nikhil Poojary,SC Delhi,22.036787424667875,0.05349551762627514,False,Left Foot,Open Play,0,0,1,Normal
+3813264,Bartholomew Owogbalor Ogbeche,SC Delhi,17.007351351694947,0.06374591857057815,False,Right Foot,Open Play,0,0,1,Normal
+3813264,Deepak Tangri,Mohun Bagan Super Giant,30.10996512784431,0.06394459136945266,False,Right Foot,Open Play,0,0,1,Normal
+3813264,David Joel Williams,Mohun Bagan Super Giant,34.30481015834369,0.05954983001377899,False,Right Foot,Open Play,0,0,1,Normal
+3813264,João Victor de Albuquerque Bruno,SC Delhi,22.643321311150444,0.06364391319442944,False,Right Foot,Open Play,0,0,1,Normal
+3813264,Nikhil Poojary,SC Delhi,19.690099034794116,0.05541887620556876,False,Right Foot,Open Play,1,0,1,Volley
+3813264,Ashutosh Mehta,Mohun Bagan Super Giant,30.47769676337108,0.07258359388248221,False,Right Foot,Open Play,0,0,0,Volley
+3813264,Joni Ensio Kauko,Mohun Bagan Super Giant,23.889118861942148,0.06336786075255296,False,Left Foot,Open Play,1,0,1,Normal
+3813264,David Joel Williams,Mohun Bagan Super Giant,12.571793825862724,0.05740608716604985,False,Right Foot,Open Play,1,0,1,Normal
+3813264,Manvir Singh,Mohun Bagan Super Giant,8.982761268117951,0.055319338875145604,False,Right Foot,Open Play,0,0,3,Normal
+3813264,Eduardo García Martín,SC Delhi,26.20934947685654,0.05544848634206021,False,Left Foot,Open Play,0,0,1,Normal
+3813264,Manvir Singh,Mohun Bagan Super Giant,18.866107176627615,0.056041651685595446,False,Left Foot,Open Play,0,0,2,Normal
+3813264,Joni Ensio Kauko,Mohun Bagan Super Giant,11.562439189029277,0.05895379856815326,False,Head,Open Play,0,0,1,Normal
+3813264,Liston Colaco,Mohun Bagan Super Giant,17.288724649319853,0.06272274815747603,False,Right Foot,Open Play,0,0,2,Normal
+3813264,Asish Rai,SC Delhi,28.76473535424931,0.058626683465166175,False,Left Foot,Open Play,0,0,1,Normal
+3813264,Liston Colaco,Mohun Bagan Super Giant,14.410065926289162,0.0605460216863652,False,Right Foot,Open Play,0,0,1,Normal
+3813264,Akash Mishra,SC Delhi,26.65576860643864,0.0690579021227807,False,Left Foot,Open Play,0,0,1,Half Volley
+3813264,Manvir Singh,Mohun Bagan Super Giant,15.543809056984717,0.05577612953183095,False,Left Foot,Open Play,0,0,2,Normal
+3813264,Seityasen Singh,SC Delhi,13.172699040060095,0.06156480601693547,False,Head,Open Play,0,0,1,Normal
+3813264,Juan Antonio González Fernández,SC Delhi,7.234638899074372,0.0554675953634042,False,Head,Open Play,0,1,4,Normal
+3813264,Seityasen Singh,SC Delhi,19.768662069042506,0.05840924193015535,False,Right Foot,Open Play,0,0,0,Half Volley
+3813264,Seityasen Singh,SC Delhi,20.080338642562786,0.058223172531681036,False,Right Foot,Open Play,0,0,1,Half Volley
+3813264,Javier Siverio Toro,SC Delhi,10.846658471621566,0.05979650850941819,True,Head,Open Play,0,0,3,Normal

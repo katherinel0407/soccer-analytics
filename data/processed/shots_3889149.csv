@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.335466393669886,0.058504955363189136,False,Right Foot,Open Play,0,0,2,Volley
-31.71277345171816,0.06929767373205269,False,Left Foot,Free Kick,0,0,0,Normal
-21.6041662648666,0.06660159583469578,False,Right Foot,Open Play,1,0,1,Normal
-9.90858213873206,0.059626125352438254,True,Head,Open Play,0,1,5,Normal
-21.81604913819182,0.062084804865822414,False,Left Foot,Free Kick,0,0,0,Normal
-8.989994438263022,0.05861035511154387,False,Left Foot,Open Play,1,1,1,Half Volley
-26.69475603934226,0.06999328467392554,False,Left Foot,Open Play,0,0,0,Normal
-17.31040149736568,0.06398993663752388,False,Right Foot,Open Play,1,0,1,Volley
-35.100569795944914,0.0650412313264276,False,Right Foot,Open Play,0,0,0,Half Volley
-17.821616088334977,0.06428324202291243,True,Right Foot,Open Play,0,0,0,Normal
-12.525573839150045,0.06009044530975942,False,Head,Open Play,0,1,2,Normal
-27.33861737542702,0.07010949278260453,False,Left Foot,Open Play,0,0,1,Normal
-7.655063683601858,0.056784627777282694,False,Head,Open Play,0,1,4,Normal
-13.958868148958206,0.059556462400457415,False,Head,Open Play,0,0,2,Normal
-10.934349546269315,0.06006653272868363,False,Head,Open Play,0,0,1,Normal
-5.852349955359819,0.05573587814459791,True,Right Foot,Open Play,1,0,1,Half Volley
-23.995416228938396,0.0523491552344032,False,Left Foot,Open Play,0,1,2,Half Volley
-4.143669871020127,0.05660529342239669,True,Head,Open Play,0,0,3,Normal
-29.553003231482247,0.07184429757239372,False,Left Foot,Free Kick,0,0,0,Normal
-13.471822445385774,0.0570985632038859,True,Right Foot,Open Play,0,0,2,Normal
-15.536087023443198,0.059092419549960605,False,Right Foot,Open Play,1,0,2,Volley
-23.313729860320503,0.06715062169242825,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3889149,Jorge Alberto Francisco Valdano Castellano,Argentina,8.335466393669886,0.058504955363189136,False,Right Foot,Open Play,0,0,2,Volley
+3889149,Thomas Berthold,Germany,31.71277345171816,0.06929767373205269,False,Left Foot,Free Kick,0,0,0,Normal
+3889149,Lothar Matthäus,Germany,21.6041662648666,0.06660159583469578,False,Right Foot,Open Play,1,0,1,Normal
+3889149,José Luis Brown,Argentina,9.90858213873206,0.059626125352438254,True,Head,Open Play,0,1,5,Normal
+3889149,Diego Armando Maradona,Argentina,21.81604913819182,0.062084804865822414,False,Left Foot,Free Kick,0,0,0,Normal
+3889149,Karl-Heinz Rummenigge,Germany,8.989994438263022,0.05861035511154387,False,Left Foot,Open Play,1,1,1,Half Volley
+3889149,Sergio Daniel Batista,Argentina,26.69475603934226,0.06999328467392554,False,Left Foot,Open Play,0,0,0,Normal
+3889149,Hans-Peter Briegel,Germany,17.31040149736568,0.06398993663752388,False,Right Foot,Open Play,1,0,1,Volley
+3889149,Lothar Matthäus,Germany,35.100569795944914,0.0650412313264276,False,Right Foot,Open Play,0,0,0,Half Volley
+3889149,Jorge Alberto Francisco Valdano Castellano,Argentina,17.821616088334977,0.06428324202291243,True,Right Foot,Open Play,0,0,0,Normal
+3889149,Rudi Völler,Germany,12.525573839150045,0.06009044530975942,False,Head,Open Play,0,1,2,Normal
+3889149,Hans-Peter Briegel,Germany,27.33861737542702,0.07010949278260453,False,Left Foot,Open Play,0,0,1,Normal
+3889149,Thomas Berthold,Germany,7.655063683601858,0.056784627777282694,False,Head,Open Play,0,1,4,Normal
+3889149,Jorge Alberto Francisco Valdano Castellano,Argentina,13.958868148958206,0.059556462400457415,False,Head,Open Play,0,0,2,Normal
+3889149,Rudi Völler,Germany,10.934349546269315,0.06006653272868363,False,Head,Open Play,0,0,1,Normal
+3889149,Karl-Heinz Rummenigge,Germany,5.852349955359819,0.05573587814459791,True,Right Foot,Open Play,1,0,1,Half Volley
+3889149,Diego Armando Maradona,Argentina,23.995416228938396,0.0523491552344032,False,Left Foot,Open Play,0,1,2,Half Volley
+3889149,Rudi Völler,Germany,4.143669871020127,0.05660529342239669,True,Head,Open Play,0,0,3,Normal
+3889149,Diego Armando Maradona,Argentina,29.553003231482247,0.07184429757239372,False,Left Foot,Free Kick,0,0,0,Normal
+3889149,Jorge Luis Burruchaga,Argentina,13.471822445385774,0.0570985632038859,True,Right Foot,Open Play,0,0,2,Normal
+3889149,Rudi Völler,Germany,15.536087023443198,0.059092419549960605,False,Right Foot,Open Play,1,0,2,Volley
+3889149,Diego Armando Maradona,Argentina,23.313729860320503,0.06715062169242825,False,Left Foot,Free Kick,0,0,0,Normal

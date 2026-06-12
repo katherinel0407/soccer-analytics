@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.932955446926847,0.06483122784698013,False,Right Foot,Open Play,0,0,1,Normal
-16.171889190815033,0.062422463994421154,False,Left Foot,Open Play,0,0,3,Normal
-27.23563841733841,0.058896563889846196,True,Left Foot,Free Kick,0,0,0,Normal
-16.55294535724684,0.05759640196905198,False,Right Foot,Open Play,0,1,4,Volley
-11.107204868912785,0.05907567627258311,False,Head,Open Play,0,0,5,Normal
-33.09924470437355,0.07514452178744212,False,Right Foot,Open Play,0,0,2,Normal
-28.069200202357035,0.07114720844696736,False,Right Foot,Open Play,0,0,3,Normal
-34.28002333721492,0.06272785698929997,False,Left Foot,Free Kick,0,0,0,Normal
-29.363923443572727,0.07201600828542727,False,Right Foot,Open Play,0,0,0,Normal
-20.321417273408862,0.06149930251130347,False,Right Foot,Open Play,0,1,6,Half Volley
-30.360006587614564,0.07268871970340801,False,Right Foot,Open Play,0,0,1,Volley
-8.586617494683223,0.057338428445065315,False,Head,Open Play,0,0,4,Normal
-6.113100686231164,0.05732626321018349,True,Head,Open Play,0,1,4,Normal
-12.841339493993605,0.06135852455343077,False,Head,Open Play,0,1,2,Normal
-21.734074629484457,0.06603308325304408,False,Left Foot,Open Play,1,0,1,Half Volley
-10.621205204683694,0.0581973238270732,False,Left Foot,Open Play,0,0,3,Normal
-14.780054127099806,0.055016162946958595,False,Right Foot,Open Play,1,1,2,Volley
-34.88108369876143,0.06414138902516797,False,Right Foot,Open Play,0,0,0,Normal
-13.840520221436769,0.06142705637033784,True,Left Foot,Open Play,0,0,2,Normal
-12.461540835707275,0.06102786596942752,False,Head,Open Play,0,0,3,Normal
-34.08988119662491,0.06265628900555914,False,Left Foot,Open Play,0,0,1,Normal
-24.205164738129753,0.06737462108331771,False,Left Foot,Open Play,1,0,2,Normal
-21.423818520515894,0.06264669499848677,False,Left Foot,Open Play,0,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879670,Paul Pogba,Juventus,27.932955446926847,0.06483122784698013,False,Right Foot,Open Play,0,0,1,Normal
+3879670,Stephan Lichtsteiner,Juventus,16.171889190815033,0.062422463994421154,False,Left Foot,Open Play,0,0,3,Normal
+3879670,Paulo Bruno Exequiel Dybala,Juventus,27.23563841733841,0.058896563889846196,True,Left Foot,Free Kick,0,0,0,Normal
+3879670,Giampaolo Pazzini,Hellas Verona,16.55294535724684,0.05759640196905198,False,Right Foot,Open Play,0,1,4,Volley
+3879670,Filip Helander,Hellas Verona,11.107204868912785,0.05907567627258311,False,Head,Open Play,0,0,5,Normal
+3879670,Paul Pogba,Juventus,33.09924470437355,0.07514452178744212,False,Right Foot,Open Play,0,0,2,Normal
+3879670,Álvaro Borja Morata Martín,Juventus,28.069200202357035,0.07114720844696736,False,Right Foot,Open Play,0,0,3,Normal
+3879670,Luca Siligardi,Hellas Verona,34.28002333721492,0.06272785698929997,False,Left Foot,Free Kick,0,0,0,Normal
+3879670,Paul Pogba,Juventus,29.363923443572727,0.07201600828542727,False,Right Foot,Open Play,0,0,0,Normal
+3879670,Claudio Marchisio,Juventus,20.321417273408862,0.06149930251130347,False,Right Foot,Open Play,0,1,6,Half Volley
+3879670,Vangelis Moras,Hellas Verona,30.360006587614564,0.07268871970340801,False,Right Foot,Open Play,0,0,1,Volley
+3879670,Álvaro Borja Morata Martín,Juventus,8.586617494683223,0.057338428445065315,False,Head,Open Play,0,0,4,Normal
+3879670,Leonardo Bonucci,Juventus,6.113100686231164,0.05732626321018349,True,Head,Open Play,0,1,4,Normal
+3879670,Giorgio Chiellini,Juventus,12.841339493993605,0.06135852455343077,False,Head,Open Play,0,1,2,Normal
+3879670,Alex Sandro Lobo Silva,Juventus,21.734074629484457,0.06603308325304408,False,Left Foot,Open Play,1,0,1,Half Volley
+3879670,Paulo Bruno Exequiel Dybala,Juventus,10.621205204683694,0.0581973238270732,False,Left Foot,Open Play,0,0,3,Normal
+3879670,Giampaolo Pazzini,Hellas Verona,14.780054127099806,0.055016162946958595,False,Right Foot,Open Play,1,1,2,Volley
+3879670,Matteo Bianchetti,Hellas Verona,34.88108369876143,0.06414138902516797,False,Right Foot,Open Play,0,0,0,Normal
+3879670,Simone Zaza,Juventus,13.840520221436769,0.06142705637033784,True,Left Foot,Open Play,0,0,2,Normal
+3879670,Juan Ignacio Gómez Taleb,Hellas Verona,12.461540835707275,0.06102786596942752,False,Head,Open Play,0,0,3,Normal
+3879670,Paulo Bruno Exequiel Dybala,Juventus,34.08988119662491,0.06265628900555914,False,Left Foot,Open Play,0,0,1,Normal
+3879670,Urby Emanuelson,Hellas Verona,24.205164738129753,0.06737462108331771,False,Left Foot,Open Play,1,0,2,Normal
+3879670,Simone Zaza,Juventus,21.423818520515894,0.06264669499848677,False,Left Foot,Open Play,0,1,2,Half Volley

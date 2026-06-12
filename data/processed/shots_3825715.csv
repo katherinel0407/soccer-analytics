@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.361949623502321,0.05988745977925959,True,Head,Open Play,0,0,5,Normal
-19.458674158328467,0.06437202873129022,False,Left Foot,Open Play,0,0,2,Normal
-11.053506231056277,0.0548663778242549,False,Right Foot,Open Play,1,0,1,Half Volley
-5.408326913195977,0.05625260158078297,True,Head,Open Play,0,1,5,Normal
-7.116881339463236,0.058186767047610215,False,Head,Open Play,0,0,3,Normal
-9.674709297958255,0.058189431251031695,False,Right Foot,Open Play,1,0,2,Volley
-30.758738595722683,0.06717221450574701,False,Right Foot,Open Play,0,0,1,Normal
-26.41401143332833,0.06965603130712103,False,Left Foot,Open Play,0,0,1,Normal
-25.1745903640953,0.06843520145891323,False,Right Foot,Open Play,1,0,1,Normal
-19.250974001333027,0.05706183673298502,False,Right Foot,Open Play,0,0,1,Normal
-22.000227271553356,0.05495589589216353,False,Right Foot,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-6.594694837519017,0.054946507344877465,False,Head,Open Play,0,1,4,Normal
-23.13871215085231,0.067464553534885,False,Right Foot,Open Play,0,1,2,Normal
-34.44706083252968,0.07628291838064385,False,Left Foot,Open Play,0,0,0,Normal
-13.243866504914648,0.061587787726437984,False,Right Foot,Open Play,1,0,0,Normal
-17.678518037437417,0.06384710084202525,False,Left Foot,Open Play,0,1,2,Normal
-60.71515461563118,0.046345822693698024,False,Right Foot,Open Play,0,0,1,Normal
-10.728000745712126,0.05990005067686544,False,Head,Open Play,0,0,2,Normal
-3.687817782917149,0.05599643469357361,False,Head,Open Play,0,1,2,Normal
-21.261467494037195,0.05894377281928806,False,Left Foot,Open Play,0,0,3,Normal
-13.983204210766575,0.06133636269569589,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825715,Charles Días Barbosa de Oliveira,Málaga,10.361949623502321,0.05988745977925959,True,Head,Open Play,0,0,5,Normal
+3825715,Iago Aspas Juncal,Celta Vigo,19.458674158328467,0.06437202873129022,False,Left Foot,Open Play,0,0,2,Normal
+3825715,Fabián Ariel Orellana Valenzuela,Celta Vigo,11.053506231056277,0.0548663778242549,False,Right Foot,Open Play,1,0,1,Half Volley
+3825715,Raúl Albentosa Redal,Málaga,5.408326913195977,0.05625260158078297,True,Head,Open Play,0,1,5,Normal
+3825715,Pedro Pablo Hernández,Celta Vigo,7.116881339463236,0.058186767047610215,False,Head,Open Play,0,0,3,Normal
+3825715,Daniel Wass,Celta Vigo,9.674709297958255,0.058189431251031695,False,Right Foot,Open Play,1,0,2,Volley
+3825715,Nordin Amrabat,Málaga,30.758738595722683,0.06717221450574701,False,Right Foot,Open Play,0,0,1,Normal
+3825715,Iago Aspas Juncal,Celta Vigo,26.41401143332833,0.06965603130712103,False,Left Foot,Open Play,0,0,1,Normal
+3825715,Fabián Ariel Orellana Valenzuela,Celta Vigo,25.1745903640953,0.06843520145891323,False,Right Foot,Open Play,1,0,1,Normal
+3825715,Nordin Amrabat,Málaga,19.250974001333027,0.05706183673298502,False,Right Foot,Open Play,0,0,1,Normal
+3825715,Nordin Amrabat,Málaga,22.000227271553356,0.05495589589216353,False,Right Foot,Open Play,0,1,1,Normal
+3825715,Nordin Amrabat,Málaga,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3825715,Raúl Albentosa Redal,Málaga,6.594694837519017,0.054946507344877465,False,Head,Open Play,0,1,4,Normal
+3825715,Pablo Fornals Malla,Málaga,23.13871215085231,0.067464553534885,False,Right Foot,Open Play,0,1,2,Normal
+3825715,Carles Planas Antolínez,Celta Vigo,34.44706083252968,0.07628291838064385,False,Left Foot,Open Play,0,0,0,Normal
+3825715,Pablo Fornals Malla,Málaga,13.243866504914648,0.061587787726437984,False,Right Foot,Open Play,1,0,0,Normal
+3825715,Pablo Fornals Malla,Málaga,17.678518037437417,0.06384710084202525,False,Left Foot,Open Play,0,1,2,Normal
+3825715,Charles Días Barbosa de Oliveira,Málaga,60.71515461563118,0.046345822693698024,False,Right Foot,Open Play,0,0,1,Normal
+3825715,Raúl Albentosa Redal,Málaga,10.728000745712126,0.05990005067686544,False,Head,Open Play,0,0,2,Normal
+3825715,Ignacio Camacho Barnola,Málaga,3.687817782917149,0.05599643469357361,False,Head,Open Play,0,1,2,Normal
+3825715,Iago Aspas Juncal,Celta Vigo,21.261467494037195,0.05894377281928806,False,Left Foot,Open Play,0,0,3,Normal
+3825715,Pablo Fornals Malla,Málaga,13.983204210766575,0.06133636269569589,False,Right Foot,Open Play,1,0,2,Normal

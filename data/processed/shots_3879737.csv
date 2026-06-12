@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.72847461715397,0.059725084834335536,False,Right Foot,Open Play,0,0,1,Normal
-19.961212388028933,0.056423146893474704,False,Right Foot,Open Play,0,0,3,Normal
-3.858756276314945,0.05655181524557677,False,Right Foot,Open Play,1,0,1,Normal
-27.54087870784082,0.06872625699806584,False,Left Foot,Open Play,0,0,3,Half Volley
-26.16447973876033,0.06023808640616528,False,Left Foot,Open Play,0,0,3,Normal
-16.560193235587562,0.06351049215907813,False,Head,Open Play,0,0,1,Normal
-26.36095597659538,0.0699649200979411,False,Right Foot,Open Play,0,0,1,Normal
-11.417968295629487,0.0602952241690042,False,Head,Open Play,0,0,2,Normal
-37.00608058143959,0.0696131708410362,False,Right Foot,Open Play,1,0,1,Half Volley
-14.303146506975308,0.06045295178419697,False,Head,Open Play,0,0,3,Normal
-23.693247983339045,0.05470179987084869,False,Left Foot,Open Play,0,0,2,Normal
-23.448027635602962,0.0639602343819696,False,Right Foot,Open Play,1,0,1,Half Volley
-21.151359294381063,0.06610705192752146,False,Left Foot,Open Play,1,0,0,Volley
-34.40959168604011,0.06619921496244209,False,Right Foot,Open Play,0,0,0,Normal
-15.109268678529745,0.062244343303484106,True,Left Foot,Open Play,1,0,1,Normal
-9.953893710503445,0.05712815609493082,True,Left Foot,Open Play,1,0,2,Normal
-12.621014222319856,0.060825928673326875,False,Right Foot,Open Play,1,1,3,Normal
-28.723683607782625,0.06475791437301945,False,Right Foot,Open Play,0,0,1,Normal
-3.492849839314601,0.0563938118575371,True,Right Foot,Open Play,0,0,2,Normal
-26.076234390724444,0.06846409064412881,True,Left Foot,Free Kick,0,0,0,Normal
-14.358621103713272,0.05901585735001343,False,Right Foot,Open Play,1,0,1,Normal
-8.409518416651462,0.058246061561283945,True,Right Foot,Open Play,1,0,1,Volley
-15.730861387730807,0.06287608004721497,True,Right Foot,Open Play,1,0,0,Volley
-19.902261178067185,0.06317668703934155,False,Right Foot,Open Play,1,1,2,Normal
-12.220065466273086,0.0599266350383127,False,Right Foot,Open Play,0,1,4,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879737,Felipe Anderson Pereira Gomes,Lazio,33.72847461715397,0.059725084834335536,False,Right Foot,Open Play,0,0,1,Normal
+3879737,Felipe Anderson Pereira Gomes,Lazio,19.961212388028933,0.056423146893474704,False,Right Foot,Open Play,0,0,3,Normal
+3879737,Alessandro Matri,Lazio,3.858756276314945,0.05655181524557677,False,Right Foot,Open Play,1,0,1,Normal
+3879737,Luca Toni,Hellas Verona,27.54087870784082,0.06872625699806584,False,Left Foot,Open Play,0,0,3,Half Volley
+3879737,Artur Ioniţă,Hellas Verona,26.16447973876033,0.06023808640616528,False,Left Foot,Open Play,0,0,3,Normal
+3879737,Sergej Milinković-Savić,Lazio,16.560193235587562,0.06351049215907813,False,Head,Open Play,0,0,1,Normal
+3879737,Senad Lulić,Lazio,26.36095597659538,0.0699649200979411,False,Right Foot,Open Play,0,0,1,Normal
+3879737,Giampaolo Pazzini,Hellas Verona,11.417968295629487,0.0602952241690042,False,Head,Open Play,0,0,2,Normal
+3879737,Boško Janković,Hellas Verona,37.00608058143959,0.0696131708410362,False,Right Foot,Open Play,1,0,1,Half Volley
+3879737,Luca Toni,Hellas Verona,14.303146506975308,0.06045295178419697,False,Head,Open Play,0,0,3,Normal
+3879737,Felipe Anderson Pereira Gomes,Lazio,23.693247983339045,0.05470179987084869,False,Left Foot,Open Play,0,0,2,Normal
+3879737,Danilo Cataldi,Lazio,23.448027635602962,0.0639602343819696,False,Right Foot,Open Play,1,0,1,Half Volley
+3879737,Danilo Cataldi,Lazio,21.151359294381063,0.06610705192752146,False,Left Foot,Open Play,1,0,0,Volley
+3879737,Abdoulay Konko,Lazio,34.40959168604011,0.06619921496244209,False,Right Foot,Open Play,0,0,0,Normal
+3879737,Alessandro Matri,Lazio,15.109268678529745,0.062244343303484106,True,Left Foot,Open Play,1,0,1,Normal
+3879737,Stefano Mauri,Lazio,9.953893710503445,0.05712815609493082,True,Left Foot,Open Play,1,0,2,Normal
+3879737,Paweł Wszołek,Hellas Verona,12.621014222319856,0.060825928673326875,False,Right Foot,Open Play,1,1,3,Normal
+3879737,Danilo Cataldi,Lazio,28.723683607782625,0.06475791437301945,False,Right Foot,Open Play,0,0,1,Normal
+3879737,Felipe Anderson Pereira Gomes,Lazio,3.492849839314601,0.0563938118575371,True,Right Foot,Open Play,0,0,2,Normal
+3879737,Leandro Greco,Hellas Verona,26.076234390724444,0.06846409064412881,True,Left Foot,Free Kick,0,0,0,Normal
+3879737,Danilo Cataldi,Lazio,14.358621103713272,0.05901585735001343,False,Right Foot,Open Play,1,0,1,Normal
+3879737,Luca Toni,Hellas Verona,8.409518416651462,0.058246061561283945,True,Right Foot,Open Play,1,0,1,Volley
+3879737,Keita Baldé Diao,Lazio,15.730861387730807,0.06287608004721497,True,Right Foot,Open Play,1,0,0,Volley
+3879737,Danilo Cataldi,Lazio,19.902261178067185,0.06317668703934155,False,Right Foot,Open Play,1,1,2,Normal
+3879737,Miroslav Klose,Lazio,12.220065466273086,0.0599266350383127,False,Right Foot,Open Play,0,1,4,Normal
+3879737,Antonio Candreva,Lazio,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.164801127455263,0.06448829218575519,False,Head,Open Play,0,0,3,Normal
-6.723094525588641,0.05600059765180481,False,Left Foot,Open Play,1,0,4,Volley
-34.866172717979815,0.057359986279007034,False,Right Foot,Open Play,0,0,0,Normal
-25.618938307431872,0.06188022286756571,False,Right Foot,Free Kick,0,0,0,Normal
-34.6359639681069,0.07578015685460901,False,Right Foot,Free Kick,0,0,0,Normal
-36.79266231193389,0.06497128818799047,False,Right Foot,Open Play,0,1,1,Half Volley
-15.147607071745695,0.05645751325678613,False,Head,Open Play,0,1,1,Normal
-30.075238984919146,0.072576683636957,False,Right Foot,Open Play,0,0,0,Normal
-9.604165762834379,0.05633786461167703,True,Left Foot,Open Play,1,0,2,Volley
-19.572429588582,0.06512713901910133,False,Left Foot,Open Play,1,0,1,Normal
-33.65367736221407,0.06858304839994996,False,Right Foot,Free Kick,0,0,0,Normal
-10.004498987955369,0.058660501473092985,False,Right Foot,Open Play,0,1,2,Normal
-23.69852316073726,0.06151312667711576,False,Right Foot,Open Play,0,1,2,Half Volley
-17.118703221914917,0.054201665713096585,False,Right Foot,Open Play,0,0,1,Normal
-8.005623023850173,0.05683112972492685,False,Right Foot,Open Play,1,1,2,Normal
-19.46509696867704,0.057406460280276496,True,Right Foot,Open Play,0,1,1,Half Volley
-31.983276880269788,0.056375142230146134,False,Right Foot,Open Play,0,0,0,Normal
-29.099312706660278,0.07188177842259977,False,Left Foot,Open Play,0,0,0,Normal
-25.926820090400604,0.06299009255668912,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890361,Leon Aderemi Balogun,FSV Mainz 05,18.164801127455263,0.06448829218575519,False,Head,Open Play,0,0,3,Normal
+3890361,Pablo Ezequiel De Blasis,FSV Mainz 05,6.723094525588641,0.05600059765180481,False,Left Foot,Open Play,1,0,4,Volley
+3890361,Christian Träsch,Wolfsburg,34.866172717979815,0.057359986279007034,False,Right Foot,Open Play,0,0,0,Normal
+3890361,Ronaldo Aparecido Rodrigues,Wolfsburg,25.618938307431872,0.06188022286756571,False,Right Foot,Free Kick,0,0,0,Normal
+3890361,Pablo Ezequiel De Blasis,FSV Mainz 05,34.6359639681069,0.07578015685460901,False,Right Foot,Free Kick,0,0,0,Normal
+3890361,Daniel Brosinski,FSV Mainz 05,36.79266231193389,0.06497128818799047,False,Right Foot,Open Play,0,1,1,Half Volley
+3890361,Maximilian Arnold,Wolfsburg,15.147607071745695,0.05645751325678613,False,Head,Open Play,0,1,1,Normal
+3890361,Daniel Caligiuri,Wolfsburg,30.075238984919146,0.072576683636957,False,Right Foot,Open Play,0,0,0,Normal
+3890361,Pablo Ezequiel De Blasis,FSV Mainz 05,9.604165762834379,0.05633786461167703,True,Left Foot,Open Play,1,0,2,Volley
+3890361,Danny Latza,FSV Mainz 05,19.572429588582,0.06512713901910133,False,Left Foot,Open Play,1,0,1,Normal
+3890361,Danny Latza,FSV Mainz 05,33.65367736221407,0.06858304839994996,False,Right Foot,Free Kick,0,0,0,Normal
+3890361,Yunus Mallı,FSV Mainz 05,10.004498987955369,0.058660501473092985,False,Right Foot,Open Play,0,1,2,Normal
+3890361,Yoshinori Muto,FSV Mainz 05,23.69852316073726,0.06151312667711576,False,Right Foot,Open Play,0,1,2,Half Volley
+3890361,Nicklas Bendtner,Wolfsburg,17.118703221914917,0.054201665713096585,False,Right Foot,Open Play,0,0,1,Normal
+3890361,Yunus Mallı,FSV Mainz 05,8.005623023850173,0.05683112972492685,False,Right Foot,Open Play,1,1,2,Normal
+3890361,Yunus Mallı,FSV Mainz 05,19.46509696867704,0.057406460280276496,True,Right Foot,Open Play,0,1,1,Half Volley
+3890361,Adelino André Vieira Freitas,Wolfsburg,31.983276880269788,0.056375142230146134,False,Right Foot,Open Play,0,0,0,Normal
+3890361,Ricardo Iván Rodríguez Araya,Wolfsburg,29.099312706660278,0.07188177842259977,False,Left Foot,Open Play,0,0,0,Normal
+3890361,Jhon Andrés Córdoba Copete,FSV Mainz 05,25.926820090400604,0.06299009255668912,False,Right Foot,Open Play,0,0,1,Normal

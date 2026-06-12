@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.102749011047045,0.06723473808712097,False,Right Foot,Open Play,0,0,2,Normal
-7.647875521999555,0.058563006080894105,True,Head,Open Play,0,0,1,Normal
-20.873428084528907,0.06023270278144706,False,Left Foot,Open Play,0,0,3,Normal
-32.701223218711554,0.05973808621256517,False,Left Foot,Open Play,0,0,0,Normal
-10.031948963187562,0.05848791677716355,False,Left Foot,Open Play,1,0,1,Overhead Kick
-11.933985084622828,0.05987007579995473,False,Head,Open Play,0,1,5,Normal
-7.040596565632778,0.05795869520662622,True,Left Foot,Open Play,1,0,3,Normal
-30.4277833566627,0.07289780589069995,False,Right Foot,Open Play,0,1,1,Normal
-6.865857557508751,0.05790881668186593,False,Head,Open Play,0,1,3,Normal
-26.03247971285102,0.06077482746806461,False,Left Foot,Open Play,0,0,0,Normal
-22.913096691630308,0.05812116496150924,False,Left Foot,Open Play,0,0,2,Normal
-10.344563789739997,0.05389827994421148,False,Right Foot,Open Play,0,0,2,Half Volley
-8.14984662432367,0.05769674050466174,False,Head,Open Play,0,1,4,Normal
-10.348429832588128,0.05922927726506274,False,Head,Open Play,0,0,4,Normal
-8.98943824718764,0.05657627860930362,False,Head,Open Play,0,1,5,Normal
-31.84603586005642,0.06195116260677757,False,Right Foot,Open Play,0,0,2,Normal
-9.123595782365637,0.059311085086782955,False,Head,Open Play,0,1,2,Normal
-5.234500931320963,0.05666505592424538,False,Head,Open Play,0,1,5,Normal
-14.035668847618199,0.06081193870253114,False,Left Foot,Open Play,1,1,2,Half Volley
-29.05529211692769,0.06895985506443403,False,Left Foot,Open Play,0,0,1,Half Volley
-20.492193635626222,0.06198638572870807,False,Right Foot,Open Play,0,1,3,Normal
-39.747201159326934,0.06203021788075592,False,Right Foot,Open Play,0,0,1,Normal
-11.941942890501533,0.059189322958095085,False,Right Foot,Open Play,1,0,3,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901180,Jimmy Briand,Guingamp,29.102749011047045,0.06723473808712097,False,Right Foot,Open Play,0,0,2,Normal
+3901180,Jimmy Briand,Guingamp,7.647875521999555,0.058563006080894105,True,Head,Open Play,0,0,1,Normal
+3901180,Oussama Tannane,Saint-Étienne,20.873428084528907,0.06023270278144706,False,Left Foot,Open Play,0,0,3,Normal
+3901180,Ole Kristian Selnæs,Saint-Étienne,32.701223218711554,0.05973808621256517,False,Left Foot,Open Play,0,0,0,Normal
+3901180,Yannis Salibur,Guingamp,10.031948963187562,0.05848791677716355,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3901180,Sloan Privat,Guingamp,11.933985084622828,0.05987007579995473,False,Head,Open Play,0,1,5,Normal
+3901180,Sloan Privat,Guingamp,7.040596565632778,0.05795869520662622,True,Left Foot,Open Play,1,0,3,Normal
+3901180,Neal Maupay,Saint-Étienne,30.4277833566627,0.07289780589069995,False,Right Foot,Open Play,0,1,1,Normal
+3901180,Sloan Privat,Guingamp,6.865857557508751,0.05790881668186593,False,Head,Open Play,0,1,3,Normal
+3901180,Oussama Tannane,Saint-Étienne,26.03247971285102,0.06077482746806461,False,Left Foot,Open Play,0,0,0,Normal
+3901180,Benjamin Corgnet,Saint-Étienne,22.913096691630308,0.05812116496150924,False,Left Foot,Open Play,0,0,2,Normal
+3901180,Neal Maupay,Saint-Étienne,10.344563789739997,0.05389827994421148,False,Right Foot,Open Play,0,0,2,Half Volley
+3901180,Loïc Perrin,Saint-Étienne,8.14984662432367,0.05769674050466174,False,Head,Open Play,0,1,4,Normal
+3901180,Vincent Pajot,Saint-Étienne,10.348429832588128,0.05922927726506274,False,Head,Open Play,0,0,4,Normal
+3901180,Neal Maupay,Saint-Étienne,8.98943824718764,0.05657627860930362,False,Head,Open Play,0,1,5,Normal
+3901180,Valentin Eysseric,Saint-Étienne,31.84603586005642,0.06195116260677757,False,Right Foot,Open Play,0,0,2,Normal
+3901180,Neal Maupay,Saint-Étienne,9.123595782365637,0.059311085086782955,False,Head,Open Play,0,1,2,Normal
+3901180,Vincent Pajot,Saint-Étienne,5.234500931320963,0.05666505592424538,False,Head,Open Play,0,1,5,Normal
+3901180,Thibault Giresse,Guingamp,14.035668847618199,0.06081193870253114,False,Left Foot,Open Play,1,1,2,Half Volley
+3901180,Ole Kristian Selnæs,Saint-Étienne,29.05529211692769,0.06895985506443403,False,Left Foot,Open Play,0,0,1,Half Volley
+3901180,Valentin Eysseric,Saint-Étienne,20.492193635626222,0.06198638572870807,False,Right Foot,Open Play,0,1,3,Normal
+3901180,Moustapha Bayal Sall,Saint-Étienne,39.747201159326934,0.06203021788075592,False,Right Foot,Open Play,0,0,1,Normal
+3901180,Alexander Toft Søderlund,Saint-Étienne,11.941942890501533,0.059189322958095085,False,Right Foot,Open Play,1,0,3,Volley

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.131387822110554,0.06428592497490146,False,Right Foot,Open Play,0,0,2,Normal
-15.280052355931247,0.06213613723751212,False,Left Foot,Open Play,0,1,1,Normal
-10.580170130957253,0.05941548414622276,True,Right Foot,Open Play,1,0,2,Volley
-28.166824457151723,0.056368726049743925,False,Left Foot,Open Play,0,0,2,Normal
-24.75237362355376,0.049075023916540866,False,Left Foot,Free Kick,0,0,0,Normal
-24.02269760039451,0.06683469947141542,False,Right Foot,Open Play,1,0,0,Half Volley
-26.790483384963395,0.05873033885681601,False,Left Foot,Open Play,0,0,2,Normal
-28.622019495486335,0.0561734298468731,False,Left Foot,Free Kick,0,0,0,Normal
-13.37535046269816,0.057514609524846015,True,Right Foot,Open Play,0,0,2,Normal
-30.15294347157504,0.06520379516681368,False,Left Foot,Open Play,0,0,1,Normal
-7.1281133548786935,0.0545536606795648,False,Head,Open Play,0,1,3,Normal
-8.37257427557379,0.058433887155790745,True,Left Foot,Open Play,1,0,3,Normal
-17.59232787325202,0.06269334147111712,False,Left Foot,Open Play,1,0,2,Half Volley
-16.572265988693278,0.06093664594788534,False,Left Foot,Open Play,0,0,1,Normal
-26.303041649208552,0.06586477757204315,False,Right Foot,Open Play,1,0,1,Half Volley
-22.852789764052876,0.05414289699607054,True,Left Foot,Open Play,0,0,3,Normal
-8.321658488546616,0.058271035550013665,True,Head,Open Play,0,0,3,Normal
-7.00927956355002,0.058011610842969324,False,Left Foot,Open Play,1,0,4,Normal
-29.099312706660278,0.06548078640111145,False,Left Foot,Open Play,0,0,1,Normal
-10.282509421342635,0.05839414594732754,False,Head,Open Play,0,0,3,Normal
-5.6080299571239784,0.05755975012674356,False,Right Foot,Open Play,1,1,3,Half Volley
-7.595393340703298,0.058139299951837774,False,Head,Open Play,0,0,5,Normal
-27.808631753468195,0.06846270288013594,False,Left Foot,Open Play,0,1,2,Normal
-17.121331723905126,0.05529768575289763,False,Left Foot,Open Play,0,0,3,Normal
-10.492378186092987,0.0581875451388003,False,Head,Open Play,0,1,2,Normal
-35.13360214950923,0.07402865427331597,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825790,Jorge Franco Alviz,Espanyol,19.131387822110554,0.06428592497490146,False,Right Foot,Open Play,0,0,2,Normal
+3825790,Carlos Castro García,Sporting Gijón,15.280052355931247,0.06213613723751212,False,Left Foot,Open Play,0,1,1,Normal
+3825790,Carlos Castro García,Sporting Gijón,10.580170130957253,0.05941548414622276,True,Right Foot,Open Play,1,0,2,Volley
+3825790,Gerard Moreno Balaguero,Espanyol,28.166824457151723,0.056368726049743925,False,Left Foot,Open Play,0,0,2,Normal
+3825790,Marco Asensio Willemsen,Espanyol,24.75237362355376,0.049075023916540866,False,Left Foot,Free Kick,0,0,0,Normal
+3825790,Jonathan Rodríguez Menéndez,Sporting Gijón,24.02269760039451,0.06683469947141542,False,Right Foot,Open Play,1,0,0,Half Volley
+3825790,Marco Asensio Willemsen,Espanyol,26.790483384963395,0.05873033885681601,False,Left Foot,Open Play,0,0,2,Normal
+3825790,Marco Asensio Willemsen,Espanyol,28.622019495486335,0.0561734298468731,False,Left Foot,Free Kick,0,0,0,Normal
+3825790,Jorge Franco Alviz,Espanyol,13.37535046269816,0.057514609524846015,True,Right Foot,Open Play,0,0,2,Normal
+3825790,Omar Mascarell González,Sporting Gijón,30.15294347157504,0.06520379516681368,False,Left Foot,Open Play,0,0,1,Normal
+3825790,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,7.1281133548786935,0.0545536606795648,False,Head,Open Play,0,1,3,Normal
+3825790,Gerard Moreno Balaguero,Espanyol,8.37257427557379,0.058433887155790745,True,Left Foot,Open Play,1,0,3,Normal
+3825790,Víctor Sánchez Mata,Espanyol,17.59232787325202,0.06269334147111712,False,Left Foot,Open Play,1,0,2,Half Volley
+3825790,Gerard Moreno Balaguero,Espanyol,16.572265988693278,0.06093664594788534,False,Left Foot,Open Play,0,0,1,Normal
+3825790,Ismael López Blanco,Sporting Gijón,26.303041649208552,0.06586477757204315,False,Right Foot,Open Play,1,0,1,Half Volley
+3825790,Gerard Moreno Balaguero,Espanyol,22.852789764052876,0.05414289699607054,True,Left Foot,Open Play,0,0,3,Normal
+3825790,Carlos Castro García,Sporting Gijón,8.321658488546616,0.058271035550013665,True,Head,Open Play,0,0,3,Normal
+3825790,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,7.00927956355002,0.058011610842969324,False,Left Foot,Open Play,1,0,4,Normal
+3825790,Omar Mascarell González,Sporting Gijón,29.099312706660278,0.06548078640111145,False,Left Foot,Open Play,0,0,1,Normal
+3825790,Jorge Meré Pérez,Sporting Gijón,10.282509421342635,0.05839414594732754,False,Head,Open Play,0,0,3,Normal
+3825790,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,5.6080299571239784,0.05755975012674356,False,Right Foot,Open Play,1,1,3,Half Volley
+3825790,Jorge Meré Pérez,Sporting Gijón,7.595393340703298,0.058139299951837774,False,Head,Open Play,0,0,5,Normal
+3825790,Gerard Moreno Balaguero,Espanyol,27.808631753468195,0.06846270288013594,False,Left Foot,Open Play,0,1,2,Normal
+3825790,Hernán Arsenio Pérez González,Espanyol,17.121331723905126,0.05529768575289763,False,Left Foot,Open Play,0,0,3,Normal
+3825790,Ismael López Blanco,Sporting Gijón,10.492378186092987,0.0581875451388003,False,Head,Open Play,0,1,2,Normal
+3825790,Jonathan Rodríguez Menéndez,Sporting Gijón,35.13360214950923,0.07402865427331597,False,Left Foot,Free Kick,0,0,0,Normal

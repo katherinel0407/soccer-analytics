@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.808255317654375,0.0655781319073156,False,Right Foot,Open Play,0,0,2,Normal
-9.534149149242424,0.059495829886996726,False,Head,Open Play,0,1,3,Normal
-27.720028860013837,0.0537661360775922,False,Left Foot,Open Play,1,0,2,Normal
-3.394112549695431,0.05646159091948042,False,Head,Open Play,0,1,6,Normal
-17.31040149736568,0.05318265367344656,False,Right Foot,Open Play,1,0,1,Normal
-13.82931668593933,0.055690589369964676,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-5.314132102234568,0.0573162635287319,False,Head,Open Play,0,0,4,Normal
-4.887739763939978,0.05570001744779091,False,Head,Open Play,0,0,4,Normal
-7.355270219373316,0.05526555753067927,False,Head,Open Play,0,0,3,Normal
-14.654009690183777,0.05803715629137513,False,Right Foot,Open Play,1,0,2,Normal
-18.5,0.05323250370019074,True,Right Foot,Open Play,0,0,1,Normal
-12.030378215168462,0.060871986606644606,False,Head,Open Play,0,1,2,Normal
-28.23349075123372,0.07002549065006373,False,Right Foot,Open Play,0,0,2,Normal
-11.720068259186887,0.06033874327298596,False,Right Foot,Open Play,0,0,2,Normal
-12.726350615946426,0.06131465605897881,False,Right Foot,Open Play,1,0,2,Normal
-12.264175471673578,0.05890490767133746,False,Left Foot,Open Play,1,0,3,Overhead Kick
-31.857809089766352,0.05402200079760146,False,Left Foot,Open Play,0,0,1,Normal
-16.86001186239203,0.06369419231181842,False,Right Foot,Open Play,0,0,1,Normal
-20.20816666597937,0.05901358424689216,False,Left Foot,Open Play,1,0,2,Normal
-11.84567431596867,0.0585582006784133,False,Head,Open Play,0,1,2,Normal
-27.660260302462813,0.07073665694201053,True,Left Foot,Open Play,0,0,1,Normal
-15.315351775261313,0.05567597029367693,False,Right Foot,Open Play,1,0,2,Volley
-9.533624704172073,0.059263804789433196,False,Left Foot,Open Play,1,1,4,Volley
-29.413772284424866,0.06809768683689266,False,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754057,Vadis Odjidja-Ofoe,Norwich City,21.808255317654375,0.0655781319073156,False,Right Foot,Open Play,0,0,2,Normal
+3754057,Sébastien Aymar Bassong Nguena,Norwich City,9.534149149242424,0.059495829886996726,False,Head,Open Play,0,1,3,Normal
+3754057,Robert Brady,Norwich City,27.720028860013837,0.0537661360775922,False,Left Foot,Open Play,1,0,2,Normal
+3754057,Cameron Jerome,Norwich City,3.394112549695431,0.05646159091948042,False,Head,Open Play,0,1,6,Normal
+3754057,Bamidele Alli,Tottenham Hotspur,17.31040149736568,0.05318265367344656,False,Right Foot,Open Play,1,0,1,Normal
+3754057,Harry Kane,Tottenham Hotspur,13.82931668593933,0.055690589369964676,False,Right Foot,Open Play,1,0,1,Normal
+3754057,Harry Kane,Tottenham Hotspur,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3754057,Toby Alderweireld,Tottenham Hotspur,5.314132102234568,0.0573162635287319,False,Head,Open Play,0,0,4,Normal
+3754057,Bamidele Alli,Tottenham Hotspur,4.887739763939978,0.05570001744779091,False,Head,Open Play,0,0,4,Normal
+3754057,Toby Alderweireld,Tottenham Hotspur,7.355270219373316,0.05526555753067927,False,Head,Open Play,0,0,3,Normal
+3754057,Cameron Jerome,Norwich City,14.654009690183777,0.05803715629137513,False,Right Foot,Open Play,1,0,2,Normal
+3754057,Harry Kane,Tottenham Hotspur,18.5,0.05323250370019074,True,Right Foot,Open Play,0,0,1,Normal
+3754057,Cameron Jerome,Norwich City,12.030378215168462,0.060871986606644606,False,Head,Open Play,0,1,2,Normal
+3754057,Bamidele Alli,Tottenham Hotspur,28.23349075123372,0.07002549065006373,False,Right Foot,Open Play,0,0,2,Normal
+3754057,Bamidele Alli,Tottenham Hotspur,11.720068259186887,0.06033874327298596,False,Right Foot,Open Play,0,0,2,Normal
+3754057,Erik Lamela,Tottenham Hotspur,12.726350615946426,0.06131465605897881,False,Right Foot,Open Play,1,0,2,Normal
+3754057,Erik Lamela,Tottenham Hotspur,12.264175471673578,0.05890490767133746,False,Left Foot,Open Play,1,0,3,Overhead Kick
+3754057,Robert Brady,Norwich City,31.857809089766352,0.05402200079760146,False,Left Foot,Open Play,0,0,1,Normal
+3754057,Harry Kane,Tottenham Hotspur,16.86001186239203,0.06369419231181842,False,Right Foot,Open Play,0,0,1,Normal
+3754057,Erik Lamela,Tottenham Hotspur,20.20816666597937,0.05901358424689216,False,Left Foot,Open Play,1,0,2,Normal
+3754057,Robert Brady,Norwich City,11.84567431596867,0.0585582006784133,False,Head,Open Play,0,1,2,Normal
+3754057,Tom Carroll,Tottenham Hotspur,27.660260302462813,0.07073665694201053,True,Left Foot,Open Play,0,0,1,Normal
+3754057,Cameron Jerome,Norwich City,15.315351775261313,0.05567597029367693,False,Right Foot,Open Play,1,0,2,Volley
+3754057,Dieumerci Mbokani Bezua,Norwich City,9.533624704172073,0.059263804789433196,False,Left Foot,Open Play,1,1,4,Volley
+3754057,Nathan Redmond,Norwich City,29.413772284424866,0.06809768683689266,False,Right Foot,Open Play,0,0,1,Half Volley

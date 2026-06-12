@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,1,0,1,Volley
-23.853720883753127,0.057144861082662805,False,Left Foot,Open Play,0,0,1,Normal
-16.278820596099706,0.06320301473971049,False,Right Foot,Open Play,0,0,2,Normal
-30.364452901377952,0.0720549671890908,False,Right Foot,Open Play,0,0,2,Normal
-13.0,0.05774378338639683,False,Head,Open Play,0,0,2,Normal
-12.36931687685298,0.06064627765111373,False,Head,Open Play,0,1,5,Normal
-16.0312195418814,0.06090696083941079,False,Right Foot,Open Play,1,0,2,Normal
-25.495097567963924,0.0692519249928429,False,Right Foot,Open Play,0,0,2,Normal
-23.0,0.06448536161976014,False,Right Foot,Open Play,1,0,0,Normal
-17.804493814764857,0.05607124213128397,False,Right Foot,Open Play,0,0,3,Normal
-24.186773244895647,0.06349985131451397,False,Right Foot,Open Play,1,0,0,Half Volley
-11.661903789690601,0.060728982799624055,False,Right Foot,Open Play,0,0,3,Volley
-20.0,0.056303964608070044,False,Right Foot,Open Play,0,0,2,Normal
-18.867962264113206,0.0649606561201856,False,Left Foot,Open Play,0,0,1,Normal
-17.804493814764857,0.053918289101815335,False,Right Foot,Open Play,1,1,2,Half Volley
-22.20360331117452,0.05287370931864473,False,Right Foot,Open Play,0,0,2,Normal
-21.540659228538015,0.05948741955073013,False,Right Foot,Open Play,1,0,2,Volley
-27.85677655436824,0.06069582665801858,False,Right Foot,Open Play,0,1,1,Normal
-12.806248474865697,0.05449071668172145,False,Right Foot,Open Play,0,0,1,Lob
-10.0,0.05876351339338444,False,Head,Open Play,0,0,3,Normal
-11.40175425099138,0.05810344098499332,False,Head,Open Play,0,0,2,Normal
-11.40175425099138,0.060576983983408474,False,Head,Open Play,0,1,3,Normal
-18.867962264113206,0.0649606561201856,False,Right Foot,Open Play,0,0,1,Normal
-18.601075237738275,0.05352441346771902,False,Right Foot,Open Play,1,0,1,Volley
-27.018512172212592,0.0701288502238944,False,Right Foot,Open Play,0,0,1,Normal
-9.433981132056603,0.05953001347627859,True,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+8657,Thomas Meunier,Belgium,7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,1,0,1,Volley
+8657,Raheem Sterling,England,23.853720883753127,0.057144861082662805,False,Left Foot,Open Play,0,0,1,Normal
+8657,Kevin De Bruyne,Belgium,16.278820596099706,0.06320301473971049,False,Right Foot,Open Play,0,0,2,Normal
+8657,Fabian Delph,England,30.364452901377952,0.0720549671890908,False,Right Foot,Open Play,0,0,2,Normal
+8657,Ruben Loftus-Cheek,England,13.0,0.05774378338639683,False,Head,Open Play,0,0,2,Normal
+8657,Harry Maguire,England,12.36931687685298,0.06064627765111373,False,Head,Open Play,0,1,5,Normal
+8657,Harry Kane,England,16.0312195418814,0.06090696083941079,False,Right Foot,Open Play,1,0,2,Normal
+8657,Raheem Sterling,England,25.495097567963924,0.0692519249928429,False,Right Foot,Open Play,0,0,2,Normal
+8657,Youri Tielemans,Belgium,23.0,0.06448536161976014,False,Right Foot,Open Play,1,0,0,Normal
+8657,Eden Hazard,Belgium,17.804493814764857,0.05607124213128397,False,Right Foot,Open Play,0,0,3,Normal
+8657,Youri Tielemans,Belgium,24.186773244895647,0.06349985131451397,False,Right Foot,Open Play,1,0,0,Half Volley
+8657,Toby Alderweireld,Belgium,11.661903789690601,0.060728982799624055,False,Right Foot,Open Play,0,0,3,Volley
+8657,Kevin De Bruyne,Belgium,20.0,0.056303964608070044,False,Right Foot,Open Play,0,0,2,Normal
+8657,Romelu Lukaku Menama,Belgium,18.867962264113206,0.0649606561201856,False,Left Foot,Open Play,0,0,1,Normal
+8657,Jesse Lingard,England,17.804493814764857,0.053918289101815335,False,Right Foot,Open Play,1,1,2,Half Volley
+8657,Jesse Lingard,England,22.20360331117452,0.05287370931864473,False,Right Foot,Open Play,0,0,2,Normal
+8657,Harry Kane,England,21.540659228538015,0.05948741955073013,False,Right Foot,Open Play,1,0,2,Volley
+8657,Eric Dier,England,27.85677655436824,0.06069582665801858,False,Right Foot,Open Play,0,1,1,Normal
+8657,Eric Dier,England,12.806248474865697,0.05449071668172145,False,Right Foot,Open Play,0,0,1,Lob
+8657,Harry Maguire,England,10.0,0.05876351339338444,False,Head,Open Play,0,0,3,Normal
+8657,Eric Dier,England,11.40175425099138,0.05810344098499332,False,Head,Open Play,0,0,2,Normal
+8657,Harry Maguire,England,11.40175425099138,0.060576983983408474,False,Head,Open Play,0,1,3,Normal
+8657,Dries Mertens,Belgium,18.867962264113206,0.0649606561201856,False,Right Foot,Open Play,0,0,1,Normal
+8657,Thomas Meunier,Belgium,18.601075237738275,0.05352441346771902,False,Right Foot,Open Play,1,0,1,Volley
+8657,Marcus Rashford,England,27.018512172212592,0.0701288502238944,False,Right Foot,Open Play,0,0,1,Normal
+8657,Eden Hazard,Belgium,9.433981132056603,0.05953001347627859,True,Right Foot,Open Play,0,0,2,Normal

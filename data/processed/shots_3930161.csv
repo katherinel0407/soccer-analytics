@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.451643505151932,0.05386125523811114,True,Right Foot,Open Play,0,0,1,Normal
-14.337712509323092,0.05948548477270914,False,Right Foot,Open Play,1,0,0,Normal
-19.3238194982255,0.052144314852771434,False,Left Foot,Open Play,0,0,1,Normal
-22.000000000000004,0.05309375778223704,False,Left Foot,Open Play,0,0,3,Normal
-17.212204972053986,0.06341570063420436,False,Left Foot,Open Play,1,0,1,Half Volley
-22.09072203437452,0.06622720056581606,False,Left Foot,Open Play,0,0,3,Normal
-6.184658438426496,0.0540710956166909,True,Head,Open Play,0,0,4,Normal
-18.70427758562196,0.056511321794135934,False,Right Foot,Open Play,0,0,2,Normal
-19.481529714065065,0.06410617212800084,True,Right Foot,Open Play,1,0,0,Half Volley
-4.512205669071396,0.056840999718989954,False,Head,Open Play,0,1,4,Normal
-25.251732613822753,0.06793026483214952,False,Right Foot,Open Play,1,1,1,Half Volley
-10.912378292562995,0.060102063816630524,False,Right Foot,Open Play,1,1,1,Overhead Kick
-12.564234954823158,0.05395768109491112,False,Right Foot,Open Play,1,0,1,Normal
-11.806777714516356,0.05338530438649461,False,Right Foot,Open Play,0,0,1,Half Volley
-7.202777242147645,0.057699142799934836,False,Head,Open Play,0,1,5,Normal
-28.690416518412558,0.06067720615686703,False,Left Foot,Open Play,0,1,2,Normal
-11.428473213863697,0.06023900160469494,False,Other,Open Play,0,0,2,Normal
-22.769497139814042,0.06199498112232123,False,Right Foot,Open Play,1,0,1,Half Volley
-32.404474999604616,0.0745402549941036,False,Right Foot,Free Kick,0,0,0,Normal
-22.357325421436265,0.056769607981776916,False,Left Foot,Open Play,0,0,1,Normal
-9.67729300992793,0.05877071929756464,False,Head,Open Play,0,0,4,Normal
-23.015864094141676,0.06254713787107494,False,Left Foot,Open Play,1,0,0,Volley
-30.271108337819417,0.07272790257138165,False,Left Foot,Open Play,0,0,2,Normal
-12.976902558006667,0.05303329545938317,False,Right Foot,Open Play,0,1,2,Lob
-24.321389762922678,0.06838555810568639,False,Left Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930161,Nedim Bajrami,Albania,14.451643505151932,0.05386125523811114,True,Right Foot,Open Play,0,0,1,Normal
+3930161,Lorenzo Pellegrini,Italy,14.337712509323092,0.05948548477270914,False,Right Foot,Open Play,1,0,0,Normal
+3930161,Federico Chiesa,Italy,19.3238194982255,0.052144314852771434,False,Left Foot,Open Play,0,0,1,Normal
+3930161,Jasir Asani,Albania,22.000000000000004,0.05309375778223704,False,Left Foot,Open Play,0,0,3,Normal
+3930161,Berat Djimsiti,Albania,17.212204972053986,0.06341570063420436,False,Left Foot,Open Play,1,0,1,Half Volley
+3930161,Federico Dimarco,Italy,22.09072203437452,0.06622720056581606,False,Left Foot,Open Play,0,0,3,Normal
+3930161,Alessandro Bastoni,Italy,6.184658438426496,0.0540710956166909,True,Head,Open Play,0,0,4,Normal
+3930161,Gianluca Scamacca,Italy,18.70427758562196,0.056511321794135934,False,Right Foot,Open Play,0,0,2,Normal
+3930161,Nicolò Barella,Italy,19.481529714065065,0.06410617212800084,True,Right Foot,Open Play,1,0,0,Half Volley
+3930161,Riccardo Calafiori,Italy,4.512205669071396,0.056840999718989954,False,Head,Open Play,0,1,4,Normal
+3930161,Federico Chiesa,Italy,25.251732613822753,0.06793026483214952,False,Right Foot,Open Play,1,1,1,Half Volley
+3930161,Lorenzo Pellegrini,Italy,10.912378292562995,0.060102063816630524,False,Right Foot,Open Play,1,1,1,Overhead Kick
+3930161,Davide Frattesi,Italy,12.564234954823158,0.05395768109491112,False,Right Foot,Open Play,1,0,1,Normal
+3930161,Gianluca Scamacca,Italy,11.806777714516356,0.05338530438649461,False,Right Foot,Open Play,0,0,1,Half Volley
+3930161,Riccardo Calafiori,Italy,7.202777242147645,0.057699142799934836,False,Head,Open Play,0,1,5,Normal
+3930161,Jasir Asani,Albania,28.690416518412558,0.06067720615686703,False,Left Foot,Open Play,0,1,2,Normal
+3930161,Lorenzo Pellegrini,Italy,11.428473213863697,0.06023900160469494,False,Other,Open Play,0,0,2,Normal
+3930161,Gianluca Scamacca,Italy,22.769497139814042,0.06199498112232123,False,Right Foot,Open Play,1,0,1,Half Volley
+3930161,Kristjan Asllani,Albania,32.404474999604616,0.0745402549941036,False,Right Foot,Free Kick,0,0,0,Normal
+3930161,Federico Chiesa,Italy,22.357325421436265,0.056769607981776916,False,Left Foot,Open Play,0,0,1,Normal
+3930161,Giovanni Di Lorenzo,Italy,9.67729300992793,0.05877071929756464,False,Head,Open Play,0,0,4,Normal
+3930161,Kristjan Asllani,Albania,23.015864094141676,0.06254713787107494,False,Left Foot,Open Play,1,0,0,Volley
+3930161,Federico Dimarco,Italy,30.271108337819417,0.07272790257138165,False,Left Foot,Open Play,0,0,2,Normal
+3930161,Rey Manaj,Albania,12.976902558006667,0.05303329545938317,False,Right Foot,Open Play,0,1,2,Lob
+3930161,Mario Mitaj,Albania,24.321389762922678,0.06838555810568639,False,Left Foot,Open Play,1,0,0,Normal

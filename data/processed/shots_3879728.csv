@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.195771730178947,0.06426249780008209,False,Right Foot,Open Play,0,0,1,Normal
-27.972307734614958,0.057850142565909715,False,Right Foot,Open Play,1,0,1,Normal
-8.407734534343957,0.05894993982510566,False,Head,Open Play,0,1,6,Normal
-16.933103672983286,0.06271434476630852,False,Right Foot,Open Play,0,1,2,Normal
-24.331050121192877,0.05853781128493471,False,Right Foot,Open Play,1,0,1,Normal
-28.82932534763864,0.06659485632874372,False,Right Foot,Open Play,1,0,2,Half Volley
-9.266067126888302,0.05400338049720912,False,Head,Open Play,0,1,4,Normal
-13.48332303254654,0.06012445186474884,False,Right Foot,Open Play,0,0,1,Normal
-12.248265183282074,0.06030829911931721,False,Right Foot,Open Play,1,0,2,Normal
-15.88238017426859,0.052878720377950696,False,Right Foot,Open Play,0,0,1,Normal
-34.58569068270866,0.07584064751911122,False,Right Foot,Open Play,0,0,1,Normal
-13.651739815862303,0.061702609064332135,False,Left Foot,Open Play,1,1,1,Half Volley
-28.1215220071745,0.06636615986332421,False,Left Foot,Open Play,0,0,0,Normal
-19.59004849406963,0.06492977739898542,False,Left Foot,Open Play,1,1,2,Volley
-27.504545078950134,0.07054449663582937,False,Left Foot,Open Play,0,0,2,Normal
-25.133642792082483,0.06484150592345855,False,Right Foot,Open Play,0,0,2,Normal
-14.746185947559455,0.06189780898425544,True,Left Foot,Open Play,1,0,0,Normal
-13.781872151489438,0.06086480091031699,True,Right Foot,Open Play,1,0,1,Normal
-7.22495674727538,0.057441249980847056,False,Head,Open Play,0,1,2,Normal
-22.337636401374258,0.061923697818138224,False,Right Foot,Open Play,1,0,1,Normal
-8.782368700982673,0.057832777848212294,False,Head,Open Play,0,0,2,Normal
-32.82072515956952,0.0714740579798335,False,Right Foot,Open Play,0,0,1,Normal
-17.61391495380854,0.05136465693464231,False,Right Foot,Open Play,0,1,2,Normal
-8.37257427557379,0.058433887155790745,False,Head,Open Play,0,0,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879728,Mattia Destro,Bologna,27.195771730178947,0.06426249780008209,False,Right Foot,Open Play,0,0,1,Normal
+3879728,Borja Valero Iglesias,Fiorentina,27.972307734614958,0.057850142565909715,False,Right Foot,Open Play,1,0,1,Normal
+3879728,Davide Astori,Fiorentina,8.407734534343957,0.05894993982510566,False,Head,Open Play,0,1,6,Normal
+3879728,Mattia Destro,Bologna,16.933103672983286,0.06271434476630852,False,Right Foot,Open Play,0,1,2,Normal
+3879728,Matías Ariel Fernández Fernández,Fiorentina,24.331050121192877,0.05853781128493471,False,Right Foot,Open Play,1,0,1,Normal
+3879728,Matías Vecino Falero,Fiorentina,28.82932534763864,0.06659485632874372,False,Right Foot,Open Play,1,0,2,Half Volley
+3879728,Gonzalo Javier Rodríguez,Fiorentina,9.266067126888302,0.05400338049720912,False,Head,Open Play,0,1,4,Normal
+3879728,Cristian Tello Herrera,Fiorentina,13.48332303254654,0.06012445186474884,False,Right Foot,Open Play,0,0,1,Normal
+3879728,Khouma El Hadji Babacar,Fiorentina,12.248265183282074,0.06030829911931721,False,Right Foot,Open Play,1,0,2,Normal
+3879728,Godfred Donsah,Bologna,15.88238017426859,0.052878720377950696,False,Right Foot,Open Play,0,0,1,Normal
+3879728,Matías Vecino Falero,Fiorentina,34.58569068270866,0.07584064751911122,False,Right Foot,Open Play,0,0,1,Normal
+3879728,Mattia Destro,Bologna,13.651739815862303,0.061702609064332135,False,Left Foot,Open Play,1,1,1,Half Volley
+3879728,Saphir Sliti Taïder,Bologna,28.1215220071745,0.06636615986332421,False,Left Foot,Open Play,0,0,0,Normal
+3879728,Mattia Destro,Bologna,19.59004849406963,0.06492977739898542,False,Left Foot,Open Play,1,1,2,Volley
+3879728,Federico Bernardeschi,Fiorentina,27.504545078950134,0.07054449663582937,False,Left Foot,Open Play,0,0,2,Normal
+3879728,Amadou Diawara,Bologna,25.133642792082483,0.06484150592345855,False,Right Foot,Open Play,0,0,2,Normal
+3879728,Federico Bernardeschi,Fiorentina,14.746185947559455,0.06189780898425544,True,Left Foot,Open Play,1,0,0,Normal
+3879728,Emanuele Giaccherini,Bologna,13.781872151489438,0.06086480091031699,True,Right Foot,Open Play,1,0,1,Normal
+3879728,Davide Astori,Fiorentina,7.22495674727538,0.057441249980847056,False,Head,Open Play,0,1,2,Normal
+3879728,Saphir Sliti Taïder,Bologna,22.337636401374258,0.061923697818138224,False,Right Foot,Open Play,1,0,1,Normal
+3879728,Sergio Floccari,Bologna,8.782368700982673,0.057832777848212294,False,Head,Open Play,0,0,2,Normal
+3879728,Mauro Matías Zárate,Fiorentina,32.82072515956952,0.0714740579798335,False,Right Foot,Open Play,0,0,1,Normal
+3879728,Godfred Donsah,Bologna,17.61391495380854,0.05136465693464231,False,Right Foot,Open Play,0,1,2,Normal
+3879728,Sergio Floccari,Bologna,8.37257427557379,0.058433887155790745,False,Head,Open Play,0,0,5,Normal

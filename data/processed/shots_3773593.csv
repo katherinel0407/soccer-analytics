@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.82438317461282,0.06832224111718563,False,Right Foot,Open Play,0,0,1,Normal
-14.937536610833794,0.06258551407059028,True,Right Foot,Open Play,1,0,1,Normal
-13.56244815658294,0.05973760369961804,False,Left Foot,Open Play,1,0,3,Half Volley
-13.201893803541974,0.061596749987670195,True,Right Foot,Open Play,0,0,1,Normal
-8.556284240252891,0.058981252668474995,False,Left Foot,Open Play,0,0,4,Normal
-11.200892821556684,0.058290741423724965,False,Left Foot,Open Play,0,0,2,Normal
-12.001666550941998,0.05966323694216356,True,Left Foot,Penalty,0,0,0,Normal
-18.057962232765913,0.05953464880181671,False,Right Foot,Open Play,0,1,1,Normal
-8.88369292580512,0.05923552147076512,False,Right Foot,Open Play,1,0,3,Volley
-16.538742394752997,0.06313785529189604,False,Left Foot,Open Play,0,0,1,Normal
-13.65650028374767,0.06183216186458099,False,Left Foot,Open Play,1,0,2,Volley
-15.526107045875982,0.06281962871414279,False,Left Foot,Open Play,0,0,4,Half Volley
-12.050726119201277,0.06088879724157013,False,Head,Open Play,0,1,3,Normal
-21.936727194365158,0.05507310737392892,False,Left Foot,Open Play,0,0,2,Normal
-8.229823813423959,0.058263028710312484,False,Head,Open Play,0,0,3,Normal
-22.743790361327193,0.052489907992313546,False,Right Foot,Open Play,1,0,0,Normal
-17.968861956172965,0.06387093194986698,False,Left Foot,Open Play,0,0,2,Normal
-19.620652384668553,0.056216988322651575,False,Left Foot,Open Play,0,0,3,Normal
-16.381697103780176,0.05912164054042605,False,Right Foot,Open Play,0,0,4,Normal
-20.64000968992021,0.053324244964846154,False,Left Foot,Open Play,0,0,2,Normal
-30.01466308323317,0.07187248014171621,False,Right Foot,Free Kick,0,0,0,Normal
-11.81058846967415,0.059757789586609614,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773593,Philippe Coutinho Correia,Barcelona,24.82438317461282,0.06832224111718563,False,Right Foot,Open Play,0,0,1,Normal
+3773593,Anssumane Fati,Barcelona,14.937536610833794,0.06258551407059028,True,Right Foot,Open Play,1,0,1,Normal
+3773593,Sergi Roberto Carnicer,Barcelona,13.56244815658294,0.05973760369961804,False,Left Foot,Open Play,1,0,3,Half Volley
+3773593,Anssumane Fati,Barcelona,13.201893803541974,0.061596749987670195,True,Right Foot,Open Play,0,0,1,Normal
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,8.556284240252891,0.058981252668474995,False,Left Foot,Open Play,0,0,4,Normal
+3773593,Jordi Alba Ramos,Barcelona,11.200892821556684,0.058290741423724965,False,Left Foot,Open Play,0,0,2,Normal
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,12.001666550941998,0.05966323694216356,True,Left Foot,Penalty,0,0,0,Normal
+3773593,Francis Joseph Coquelin,Villarreal,18.057962232765913,0.05953464880181671,False,Right Foot,Open Play,0,1,1,Normal
+3773593,Philippe Coutinho Correia,Barcelona,8.88369292580512,0.05923552147076512,False,Right Foot,Open Play,1,0,3,Volley
+3773593,Gerard Moreno Balaguero,Villarreal,16.538742394752997,0.06313785529189604,False,Left Foot,Open Play,0,0,1,Normal
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,13.65650028374767,0.06183216186458099,False,Left Foot,Open Play,1,0,2,Volley
+3773593,Antoine Griezmann,Barcelona,15.526107045875982,0.06281962871414279,False,Left Foot,Open Play,0,0,4,Half Volley
+3773593,Vicente Iborra De La Fuente,Villarreal,12.050726119201277,0.06088879724157013,False,Head,Open Play,0,1,3,Normal
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,21.936727194365158,0.05507310737392892,False,Left Foot,Open Play,0,0,2,Normal
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,8.229823813423959,0.058263028710312484,False,Head,Open Play,0,0,3,Normal
+3773593,Mario Gaspar Pérez Martínez,Villarreal,22.743790361327193,0.052489907992313546,False,Right Foot,Open Play,1,0,0,Normal
+3773593,Francisco António Machado Mota de Castro Trincão,Barcelona,17.968861956172965,0.06387093194986698,False,Left Foot,Open Play,0,0,2,Normal
+3773593,Francisco António Machado Mota de Castro Trincão,Barcelona,19.620652384668553,0.056216988322651575,False,Left Foot,Open Play,0,0,3,Normal
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,16.381697103780176,0.05912164054042605,False,Right Foot,Open Play,0,0,4,Normal
+3773593,Takefusa Kubo,Villarreal,20.64000968992021,0.053324244964846154,False,Left Foot,Open Play,0,0,2,Normal
+3773593,Miralem Pjanić,Barcelona,30.01466308323317,0.07187248014171621,False,Right Foot,Free Kick,0,0,0,Normal
+3773593,Lionel Andrés Messi Cuccittini,Barcelona,11.81058846967415,0.059757789586609614,False,Left Foot,Open Play,0,0,3,Normal

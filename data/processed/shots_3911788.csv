@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-4.49444101084885,0.05693973962200404,True,Right Foot,Open Play,1,0,3,Half Volley
-8.53287759199674,0.05860463055414185,False,Head,Open Play,0,0,6,Normal
-3.721558813185682,0.05639176263177481,False,Head,Open Play,0,0,7,Normal
-11.00727032465361,0.05714243228116358,False,Right Foot,Open Play,0,0,3,Normal
-16.440194646049665,0.06026387097230336,False,Right Foot,Open Play,1,1,2,Volley
-20.431348462595412,0.06574063210961083,False,Right Foot,Open Play,0,1,2,Normal
-6.754257916307306,0.05809130148649321,False,Right Foot,Open Play,1,0,5,Half Volley
-19.669773765857098,0.05985614156567584,False,Right Foot,Open Play,1,1,2,Normal
-7.211102550927975,0.05669965562453776,False,Head,Open Play,0,0,3,Normal
-18.571483516402242,0.058475070028382356,False,Right Foot,Open Play,1,0,2,Volley
-13.790576492663389,0.05365430536487169,False,Right Foot,Open Play,1,1,2,Normal
-21.192923347193044,0.06622800593560273,False,Left Foot,Open Play,1,1,3,Normal
-18.26307750626931,0.0643596252533515,False,Right Foot,Open Play,0,0,1,Normal
-17.041420128616043,0.05615110638195053,False,Left Foot,Open Play,0,1,3,Normal
-17.31415605797753,0.05820418882310155,False,Right Foot,Open Play,1,1,1,Normal
-9.638464608017195,0.05909972862471685,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-17.913681921927726,0.06243155555984534,False,Left Foot,Open Play,0,1,4,Normal
-26.092910914652663,0.06480126409461508,False,Right Foot,Open Play,0,0,1,Normal
-17.08478855590551,0.06365385973466438,False,Right Foot,Open Play,0,0,4,Normal
-22.203603311174522,0.06392577365098898,False,Right Foot,Open Play,1,0,1,Volley
-21.224985276791116,0.06461109820330273,False,Left Foot,Open Play,0,1,2,Normal
-25.78565492672234,0.0668167475663852,False,Right Foot,Free Kick,0,0,0,Normal
-28.366882098672743,0.057570864382353745,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911788,Jovana Damnjanović,Bayern München W,4.49444101084885,0.05693973962200404,True,Right Foot,Open Play,1,0,3,Half Volley
+3911788,Tainara de Souza da Silva,Bayern München W,8.53287759199674,0.05860463055414185,False,Head,Open Play,0,0,6,Normal
+3911788,Tainara de Souza da Silva,Bayern München W,3.721558813185682,0.05639176263177481,False,Head,Open Play,0,0,7,Normal
+3911788,Jovana Damnjanović,Bayern München W,11.00727032465361,0.05714243228116358,False,Right Foot,Open Play,0,0,3,Normal
+3911788,Klara Bühl,Bayern München W,16.440194646049665,0.06026387097230336,False,Right Foot,Open Play,1,1,2,Volley
+3911788,Georgia Stanway,Bayern München W,20.431348462595412,0.06574063210961083,False,Right Foot,Open Play,0,1,2,Normal
+3911788,Georgia Stanway,Bayern München W,6.754257916307306,0.05809130148649321,False,Right Foot,Open Play,1,0,5,Half Volley
+3911788,Jill Johanna Wilhelmina Baijings,Bayern München W,19.669773765857098,0.05985614156567584,False,Right Foot,Open Play,1,1,2,Normal
+3911788,Sydney Lohmann,Bayern München W,7.211102550927975,0.05669965562453776,False,Head,Open Play,0,0,3,Normal
+3911788,Linda Dallmann,Bayern München W,18.571483516402242,0.058475070028382356,False,Right Foot,Open Play,1,0,2,Volley
+3911788,Jill Johanna Wilhelmina Baijings,Bayern München W,13.790576492663389,0.05365430536487169,False,Right Foot,Open Play,1,1,2,Normal
+3911788,Jill Johanna Wilhelmina Baijings,Bayern München W,21.192923347193044,0.06622800593560273,False,Left Foot,Open Play,1,1,3,Normal
+3911788,Linda Dallmann,Bayern München W,18.26307750626931,0.0643596252533515,False,Right Foot,Open Play,0,0,1,Normal
+3911788,Klara Bühl,Bayern München W,17.041420128616043,0.05615110638195053,False,Left Foot,Open Play,0,1,3,Normal
+3911788,Georgia Stanway,Bayern München W,17.31415605797753,0.05820418882310155,False,Right Foot,Open Play,1,1,1,Normal
+3911788,Klara Bühl,Bayern München W,9.638464608017195,0.05909972862471685,False,Right Foot,Open Play,0,0,2,Normal
+3911788,Georgia Stanway,Bayern München W,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3911788,Sydney Lohmann,Bayern München W,17.913681921927726,0.06243155555984534,False,Left Foot,Open Play,0,1,4,Normal
+3911788,Georgia Stanway,Bayern München W,26.092910914652663,0.06480126409461508,False,Right Foot,Open Play,0,0,1,Normal
+3911788,Maximiliane Rall,Bayern München W,17.08478855590551,0.06365385973466438,False,Right Foot,Open Play,0,0,4,Normal
+3911788,Tainara de Souza da Silva,Bayern München W,22.203603311174522,0.06392577365098898,False,Right Foot,Open Play,1,0,1,Volley
+3911788,Franziska Kett,Bayern München W,21.224985276791116,0.06461109820330273,False,Left Foot,Open Play,0,1,2,Normal
+3911788,Klara Bühl,Bayern München W,25.78565492672234,0.0668167475663852,False,Right Foot,Free Kick,0,0,0,Normal
+3911788,Alexandria Loy Hess,Duisburg WFC,28.366882098672743,0.057570864382353745,False,Right Foot,Open Play,1,0,0,Normal

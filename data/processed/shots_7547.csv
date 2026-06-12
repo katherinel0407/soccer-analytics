@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.324555320336759,0.05777875134233442,False,Head,Open Play,0,1,4,Normal
-23.021728866442675,0.05682438646829118,False,Left Foot,Open Play,0,1,3,Normal
-7.280109889280518,0.05690698529986257,False,Head,Open Play,0,0,5,Normal
-16.0312195418814,0.061695736670736176,True,Left Foot,Open Play,1,0,2,Normal
-32.0624390837628,0.07009617039243426,False,Left Foot,Open Play,0,0,1,Normal
-27.892651361962706,0.06988985867582403,False,Left Foot,Open Play,0,0,3,Normal
-7.280109889280518,0.05690698529986257,False,Head,Open Play,0,0,2,Normal
-9.848857801796104,0.05698279443696437,False,Right Foot,Open Play,0,0,2,Normal
-28.0,0.06690491840941816,False,Left Foot,Open Play,0,0,0,Volley
-10.04987562112089,0.05841857388508137,False,Head,Open Play,0,1,6,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-14.422205101855956,0.06229284542682555,False,Head,Open Play,0,1,1,Normal
-13.0,0.06001252184484243,False,Right Foot,Open Play,1,0,3,Normal
-29.5296461204668,0.07231380145195304,False,Right Foot,Open Play,0,1,1,Normal
-26.92582403567252,0.06229282135453244,False,Left Foot,Open Play,0,1,1,Normal
-27.294688127912362,0.0706382153344959,False,Right Foot,Open Play,0,1,1,Normal
-24.839484696748443,0.053247091485699546,False,Left Foot,Open Play,0,1,2,Normal
-12.165525060596439,0.05886470108823898,False,Other,Open Play,0,0,3,Normal
-15.231546211727817,0.06260044731151439,False,Other,Open Play,0,1,2,Normal
-17.08800749063506,0.06146862266784578,False,Right Foot,Open Play,0,0,1,Normal
-13.341664064126334,0.061092502800491146,False,Left Foot,Open Play,1,0,2,Normal
-24.041630560342615,0.0611098744664127,False,Right Foot,Open Play,1,0,1,Volley
-18.601075237738275,0.0647558414434647,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7547,Thomas Delaney,Denmark,6.324555320336759,0.05777875134233442,False,Head,Open Play,0,1,4,Normal
+7547,Tom Rogić,Australia,23.021728866442675,0.05682438646829118,False,Left Foot,Open Play,0,1,3,Normal
+7547,Mathew Leckie,Australia,7.280109889280518,0.05690698529986257,False,Head,Open Play,0,0,5,Normal
+7547,Christian Dannemann Eriksen,Denmark,16.0312195418814,0.061695736670736176,True,Left Foot,Open Play,1,0,2,Normal
+7547,Pione Sisto Ifolo Emirmija,Denmark,32.0624390837628,0.07009617039243426,False,Left Foot,Open Play,0,0,1,Normal
+7547,Tom Rogić,Australia,27.892651361962706,0.06988985867582403,False,Left Foot,Open Play,0,0,3,Normal
+7547,Nicolai Jørgensen,Denmark,7.280109889280518,0.05690698529986257,False,Head,Open Play,0,0,2,Normal
+7547,Robbie Kruse,Australia,9.848857801796104,0.05698279443696437,False,Right Foot,Open Play,0,0,2,Normal
+7547,Aaron Mooy,Australia,28.0,0.06690491840941816,False,Left Foot,Open Play,0,0,0,Volley
+7547,Mathew Leckie,Australia,10.04987562112089,0.05841857388508137,False,Head,Open Play,0,1,6,Normal
+7547,Mile Jedinak,Australia,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7547,Jens Stryger Larsen,Denmark,14.422205101855956,0.06229284542682555,False,Head,Open Play,0,1,1,Normal
+7547,Pione Sisto Ifolo Emirmija,Denmark,13.0,0.06001252184484243,False,Right Foot,Open Play,1,0,3,Normal
+7547,Aaron Mooy,Australia,29.5296461204668,0.07231380145195304,False,Right Foot,Open Play,0,1,1,Normal
+7547,Tom Rogić,Australia,26.92582403567252,0.06229282135453244,False,Left Foot,Open Play,0,1,1,Normal
+7547,Pione Sisto Ifolo Emirmija,Denmark,27.294688127912362,0.0706382153344959,False,Right Foot,Open Play,0,1,1,Normal
+7547,Mathew Leckie,Australia,24.839484696748443,0.053247091485699546,False,Left Foot,Open Play,0,1,2,Normal
+7547,Mathew Leckie,Australia,12.165525060596439,0.05886470108823898,False,Other,Open Play,0,0,3,Normal
+7547,Andreas Evald Cornelius,Denmark,15.231546211727817,0.06260044731151439,False,Other,Open Play,0,1,2,Normal
+7547,Daniel Arzani,Australia,17.08800749063506,0.06146862266784578,False,Right Foot,Open Play,0,0,1,Normal
+7547,Mathew Leckie,Australia,13.341664064126334,0.061092502800491146,False,Left Foot,Open Play,1,0,2,Normal
+7547,Christian Dannemann Eriksen,Denmark,24.041630560342615,0.0611098744664127,False,Right Foot,Open Play,1,0,1,Volley
+7547,Martin Braithwaite Christensen,Denmark,18.601075237738275,0.0647558414434647,False,Left Foot,Open Play,0,1,1,Normal

@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.008120878208574,0.05853798939467094,False,Right Foot,Open Play,1,0,2,Normal
-20.306649157357295,0.0657004255478709,False,Right Foot,Open Play,0,0,1,Normal
-16.340440630533806,0.0561853594451974,False,Right Foot,Open Play,1,0,2,Half Volley
-14.103191128251785,0.06207349642708257,False,Left Foot,Open Play,0,0,2,Normal
-20.16829194552677,0.06420469915619706,False,Right Foot,Open Play,1,1,1,Normal
-26.936406590337924,0.06563480575131281,False,Right Foot,Open Play,0,1,2,Normal
-35.728000223914016,0.06372379463497133,False,Right Foot,Open Play,0,0,1,Normal
-18.363278574372277,0.05425900692387939,False,Left Foot,Open Play,1,0,2,Volley
-27.202941017470888,0.0704436792322122,False,Right Foot,Open Play,1,1,1,Normal
-34.42237644323819,0.06705239214990445,False,Right Foot,Open Play,0,0,0,Normal
-32.006249389767625,0.07360048353970623,False,Right Foot,Free Kick,0,0,0,Normal
-31.296325662927266,0.0664267323913237,False,Right Foot,Open Play,1,0,1,Half Volley
-27.318308878845336,0.06062111353871652,False,Right Foot,Open Play,1,0,1,Half Volley
-17.779201331893397,0.06017103136109815,False,Right Foot,Open Play,1,1,4,Half Volley
-26.752569970004746,0.06352641086648764,False,Right Foot,Open Play,1,0,1,Half Volley
-20.66349438018652,0.0660940724182358,False,Right Foot,Open Play,0,0,2,Normal
-29.213866570517503,0.05730502561375248,False,Right Foot,Open Play,0,0,1,Normal
-7.300684899377595,0.055742389692362664,False,Head,Open Play,0,0,2,Normal
-20.145719148245863,0.053167609671765,False,Right Foot,Open Play,0,0,1,Normal
-7.443117626371355,0.05812188584960882,True,Head,Open Play,0,1,5,Normal
-19.480503073586164,0.0644120727570116,True,Left Foot,Open Play,1,0,0,Lob
-22.91418774471397,0.06706615909908106,False,Left Foot,Open Play,1,0,0,Normal
-16.264070831129576,0.06311638403072246,False,Left Foot,Open Play,1,0,0,Volley
-16.688319268278637,0.06330987191874775,False,Left Foot,Open Play,0,1,4,Normal
-24.465894629054542,0.06793326738818524,False,Right Foot,Open Play,0,0,2,Normal
-10.977249200050075,0.05968050529156552,False,Left Foot,Open Play,1,1,2,Normal
-22.68082890901477,0.05377380576294427,False,Right Foot,Open Play,1,0,0,Normal
-29.27200027329872,0.06103708371245805,False,Right Foot,Open Play,1,0,1,Normal
-35.37470847936417,0.07331081573510384,False,Right Foot,Open Play,0,0,1,Normal
-28.71724220742653,0.07045559485473109,False,Right Foot,Open Play,0,0,1,Normal
-10.139033484509266,0.059768170794064546,False,Left Foot,Open Play,1,0,3,Volley
-20.370812453115363,0.05389309258392414,False,Right Foot,Open Play,0,1,1,Normal
-28.181199406696656,0.07112632521236033,False,Right Foot,Open Play,0,1,3,Normal
-31.136473788789896,0.07345169677634213,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879576,Carlos Mario Carbonero Mancilla,Sampdoria,8.008120878208574,0.05853798939467094,False,Right Foot,Open Play,1,0,2,Normal
+3879576,Danilo Soddimo,Frosinone,20.306649157357295,0.0657004255478709,False,Right Foot,Open Play,0,0,1,Normal
+3879576,Luis Fernando Muriel Fruto,Sampdoria,16.340440630533806,0.0561853594451974,False,Right Foot,Open Play,1,0,2,Half Volley
+3879576,Luis Fernando Muriel Fruto,Sampdoria,14.103191128251785,0.06207349642708257,False,Left Foot,Open Play,0,0,2,Normal
+3879576,Luis Fernando Muriel Fruto,Sampdoria,20.16829194552677,0.06420469915619706,False,Right Foot,Open Play,1,1,1,Normal
+3879576,Roberto Soriano,Sampdoria,26.936406590337924,0.06563480575131281,False,Right Foot,Open Play,0,1,2,Normal
+3879576,Luca Paganini,Frosinone,35.728000223914016,0.06372379463497133,False,Right Foot,Open Play,0,0,1,Normal
+3879576,Luis Fernando Muriel Fruto,Sampdoria,18.363278574372277,0.05425900692387939,False,Left Foot,Open Play,1,0,2,Volley
+3879576,Eder Citadin Martins,Sampdoria,27.202941017470888,0.0704436792322122,False,Right Foot,Open Play,1,1,1,Normal
+3879576,Aleandro Rosi,Frosinone,34.42237644323819,0.06705239214990445,False,Right Foot,Open Play,0,0,0,Normal
+3879576,Danilo Soddimo,Frosinone,32.006249389767625,0.07360048353970623,False,Right Foot,Free Kick,0,0,0,Normal
+3879576,Federico Dionisi,Frosinone,31.296325662927266,0.0664267323913237,False,Right Foot,Open Play,1,0,1,Half Volley
+3879576,Roberto Crivello,Frosinone,27.318308878845336,0.06062111353871652,False,Right Foot,Open Play,1,0,1,Half Volley
+3879576,Luca Paganini,Frosinone,17.779201331893397,0.06017103136109815,False,Right Foot,Open Play,1,1,4,Half Volley
+3879576,Danilo Soddimo,Frosinone,26.752569970004746,0.06352641086648764,False,Right Foot,Open Play,1,0,1,Half Volley
+3879576,Danilo Soddimo,Frosinone,20.66349438018652,0.0660940724182358,False,Right Foot,Open Play,0,0,2,Normal
+3879576,Eder Citadin Martins,Sampdoria,29.213866570517503,0.05730502561375248,False,Right Foot,Open Play,0,0,1,Normal
+3879576,Daniel Ciofani,Frosinone,7.300684899377595,0.055742389692362664,False,Head,Open Play,0,0,2,Normal
+3879576,Luis Fernando Muriel Fruto,Sampdoria,20.145719148245863,0.053167609671765,False,Right Foot,Open Play,0,0,1,Normal
+3879576,Luca Paganini,Frosinone,7.443117626371355,0.05812188584960882,True,Head,Open Play,0,1,5,Normal
+3879576,Federico Dionisi,Frosinone,19.480503073586164,0.0644120727570116,True,Left Foot,Open Play,1,0,0,Lob
+3879576,Ervin Zukanović,Sampdoria,22.91418774471397,0.06706615909908106,False,Left Foot,Open Play,1,0,0,Normal
+3879576,Danilo Soddimo,Frosinone,16.264070831129576,0.06311638403072246,False,Left Foot,Open Play,1,0,0,Volley
+3879576,Danilo Soddimo,Frosinone,16.688319268278637,0.06330987191874775,False,Left Foot,Open Play,0,1,4,Normal
+3879576,Eder Citadin Martins,Sampdoria,24.465894629054542,0.06793326738818524,False,Right Foot,Open Play,0,0,2,Normal
+3879576,Eder Citadin Martins,Sampdoria,10.977249200050075,0.05968050529156552,False,Left Foot,Open Play,1,1,2,Normal
+3879576,Eder Citadin Martins,Sampdoria,22.68082890901477,0.05377380576294427,False,Right Foot,Open Play,1,0,0,Normal
+3879576,Carlos Mario Carbonero Mancilla,Sampdoria,29.27200027329872,0.06103708371245805,False,Right Foot,Open Play,1,0,1,Normal
+3879576,Carlos Joaquín Correa,Sampdoria,35.37470847936417,0.07331081573510384,False,Right Foot,Open Play,0,0,1,Normal
+3879576,Roberto Soriano,Sampdoria,28.71724220742653,0.07045559485473109,False,Right Foot,Open Play,0,0,1,Normal
+3879576,Vasco Regini,Sampdoria,10.139033484509266,0.059768170794064546,False,Left Foot,Open Play,1,0,3,Volley
+3879576,Eder Citadin Martins,Sampdoria,20.370812453115363,0.05389309258392414,False,Right Foot,Open Play,0,1,1,Normal
+3879576,Carlos Joaquín Correa,Sampdoria,28.181199406696656,0.07112632521236033,False,Right Foot,Open Play,0,1,3,Normal
+3879576,Pedro Miguel Almeida Lopes Pereira,Sampdoria,31.136473788789896,0.07345169677634213,False,Right Foot,Open Play,0,0,0,Normal

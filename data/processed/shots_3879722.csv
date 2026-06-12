@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.620514149850514,0.06714210138111186,False,Right Foot,Open Play,0,1,2,Normal
-8.005623023850173,0.058051788281344635,False,Head,Open Play,0,1,4,Normal
-17.824140933015535,0.06390188102802377,False,Right Foot,Open Play,0,1,2,Normal
-32.076471127603796,0.06586262907463997,False,Left Foot,Free Kick,0,0,0,Normal
-12.083045973594572,0.060866000238953805,False,Head,Open Play,0,1,2,Normal
-17.97386992275175,0.06025181439006222,False,Right Foot,Open Play,1,0,3,Volley
-16.10031055601103,0.06307032545303481,False,Right Foot,Open Play,0,1,3,Half Volley
-20.263267258761605,0.06560090982358725,False,Right Foot,Open Play,0,0,1,Normal
-24.023530131935235,0.06830392432430295,False,Left Foot,Open Play,0,0,3,Normal
-10.782393055347223,0.0567773415214989,True,Right Foot,Open Play,1,0,0,Normal
-57.87443304257935,0.09623323468522371,False,Left Foot,Open Play,0,1,1,Lob
-6.802940540677981,0.05634374867528384,False,Head,Open Play,0,1,7,Normal
-11.500434774390047,0.060617927590850114,True,Left Foot,Open Play,0,0,3,Normal
-19.08009433938942,0.06406957542214611,False,Left Foot,Open Play,0,0,2,Normal
-12.04200979903272,0.05978622956680604,False,Left Foot,Open Play,1,1,1,Volley
-15.072159765607585,0.057525023629898954,False,Left Foot,Open Play,1,0,1,Volley
-26.524139948356478,0.05441608236647971,False,Left Foot,Open Play,1,0,1,Normal
-22.092532675091825,0.0585786635238838,False,Left Foot,Free Kick,0,0,0,Normal
-21.693316943243147,0.06651030784001356,False,Left Foot,Open Play,0,0,3,Normal
-14.747203124660619,0.06222948167023926,False,Left Foot,Open Play,0,0,3,Half Volley
-13.5351394525509,0.058277089631418734,False,Head,Open Play,0,0,3,Normal
-16.179307772584085,0.06070897438565234,False,Left Foot,Open Play,0,0,1,Normal
-24.789110512481084,0.06630808090094599,False,Right Foot,Open Play,0,0,0,Half Volley
-32.485227411855995,0.05487139498384552,False,Left Foot,Open Play,0,0,2,Normal
-8.178630692236936,0.05739093982870913,False,Head,Open Play,0,1,3,Normal
-10.793516572461451,0.058088384083449046,False,Head,Open Play,0,1,3,Normal
-7.632168761236874,0.05605928107293339,False,Head,Open Play,0,0,3,Normal
-10.012492197250394,0.05859160117316634,True,Right Foot,Open Play,0,1,3,Normal
-14.805404418657394,0.06093507992322369,False,Right Foot,Open Play,1,0,2,Normal
-10.378824596263302,0.05699061472671088,False,Right Foot,Open Play,1,0,1,Normal
-23.935329536064458,0.0583190302150993,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879722,Alejandro Darío Gómez,Atalanta,34.620514149850514,0.06714210138111186,False,Right Foot,Open Play,0,1,2,Normal
+3879722,Nicolò Cherubin,Atalanta,8.005623023850173,0.058051788281344635,False,Head,Open Play,0,1,4,Normal
+3879722,Alessandro Diamanti,Atalanta,17.824140933015535,0.06390188102802377,False,Right Foot,Open Play,0,1,2,Normal
+3879722,Alessandro Diamanti,Atalanta,32.076471127603796,0.06586262907463997,False,Left Foot,Free Kick,0,0,0,Normal
+3879722,Marco Borriello,Atalanta,12.083045973594572,0.060866000238953805,False,Head,Open Play,0,1,2,Normal
+3879722,Giulio Migliaccio,Atalanta,17.97386992275175,0.06025181439006222,False,Right Foot,Open Play,1,0,3,Volley
+3879722,Giampaolo Pazzini,Hellas Verona,16.10031055601103,0.06307032545303481,False,Right Foot,Open Play,0,1,3,Half Volley
+3879722,Luca Siligardi,Hellas Verona,20.263267258761605,0.06560090982358725,False,Right Foot,Open Play,0,0,1,Normal
+3879722,Marco Borriello,Atalanta,24.023530131935235,0.06830392432430295,False,Left Foot,Open Play,0,0,3,Normal
+3879722,Andrea Conti,Atalanta,10.782393055347223,0.0567773415214989,True,Right Foot,Open Play,1,0,0,Normal
+3879722,Alessandro Diamanti,Atalanta,57.87443304257935,0.09623323468522371,False,Left Foot,Open Play,0,1,1,Lob
+3879722,Luca Toni,Hellas Verona,6.802940540677981,0.05634374867528384,False,Head,Open Play,0,1,7,Normal
+3879722,Luca Siligardi,Hellas Verona,11.500434774390047,0.060617927590850114,True,Left Foot,Open Play,0,0,3,Normal
+3879722,Alejandro Darío Gómez,Atalanta,19.08009433938942,0.06406957542214611,False,Left Foot,Open Play,0,0,2,Normal
+3879722,Urby Emanuelson,Hellas Verona,12.04200979903272,0.05978622956680604,False,Left Foot,Open Play,1,1,1,Volley
+3879722,Luca Toni,Hellas Verona,15.072159765607585,0.057525023629898954,False,Left Foot,Open Play,1,0,1,Volley
+3879722,Alessandro Diamanti,Atalanta,26.524139948356478,0.05441608236647971,False,Left Foot,Open Play,1,0,1,Normal
+3879722,Urby Emanuelson,Hellas Verona,22.092532675091825,0.0585786635238838,False,Left Foot,Free Kick,0,0,0,Normal
+3879722,Marco Borriello,Atalanta,21.693316943243147,0.06651030784001356,False,Left Foot,Open Play,0,0,3,Normal
+3879722,Marco Borriello,Atalanta,14.747203124660619,0.06222948167023926,False,Left Foot,Open Play,0,0,3,Half Volley
+3879722,Giampaolo Pazzini,Hellas Verona,13.5351394525509,0.058277089631418734,False,Head,Open Play,0,0,3,Normal
+3879722,Alessandro Diamanti,Atalanta,16.179307772584085,0.06070897438565234,False,Left Foot,Open Play,0,0,1,Normal
+3879722,Alejandro Darío Gómez,Atalanta,24.789110512481084,0.06630808090094599,False,Right Foot,Open Play,0,0,0,Half Volley
+3879722,Alessandro Diamanti,Atalanta,32.485227411855995,0.05487139498384552,False,Left Foot,Open Play,0,0,2,Normal
+3879722,Marco Borriello,Atalanta,8.178630692236936,0.05739093982870913,False,Head,Open Play,0,1,3,Normal
+3879722,Artur Ioniţă,Hellas Verona,10.793516572461451,0.058088384083449046,False,Head,Open Play,0,1,3,Normal
+3879722,Luca Toni,Hellas Verona,7.632168761236874,0.05605928107293339,False,Head,Open Play,0,0,3,Normal
+3879722,Giampaolo Pazzini,Hellas Verona,10.012492197250394,0.05859160117316634,True,Right Foot,Open Play,0,1,3,Normal
+3879722,Cristian Raimondi,Atalanta,14.805404418657394,0.06093507992322369,False,Right Foot,Open Play,1,0,2,Normal
+3879722,Juan Ignacio Gómez Taleb,Hellas Verona,10.378824596263302,0.05699061472671088,False,Right Foot,Open Play,1,0,1,Normal
+3879722,Giampaolo Pazzini,Hellas Verona,23.935329536064458,0.0583190302150993,False,Right Foot,Open Play,1,0,2,Half Volley

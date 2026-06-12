@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.916924876994801,0.05587273291259302,True,Right Foot,Open Play,1,0,1,Volley
-17.310401497365678,0.06400215701534664,False,Left Foot,Open Play,1,0,2,Volley
-31.896238022688514,0.05038736068620873,False,Left Foot,Free Kick,0,0,0,Normal
-12.335720489699815,0.06048288730109215,False,Left Foot,Open Play,0,0,2,Normal
-18.15736765062601,0.06443507292366255,False,Right Foot,Open Play,0,0,2,Normal
-9.141662868428266,0.05636727588136472,False,Left Foot,Open Play,0,1,2,Normal
-19.40927613281856,0.06256152461297587,False,Left Foot,Free Kick,0,0,0,Normal
-13.591173606425608,0.06105375765504796,False,Right Foot,Open Play,0,0,2,Normal
-6.258594091327534,0.05675789269568889,False,Head,Open Play,0,0,8,Normal
-30.37136809562586,0.07295236602145334,False,Right Foot,Open Play,0,0,2,Normal
-32.24856585958513,0.05885516146920324,False,Right Foot,Open Play,0,0,0,Normal
-22.91069619195366,0.06288261465785173,False,Right Foot,Open Play,0,0,1,Half Volley
-14.284257068535279,0.05506985995555283,False,Right Foot,Open Play,1,0,1,Normal
-10.376897416858279,0.05373370158729392,False,Right Foot,Open Play,1,0,2,Backheel
-26.554848898082625,0.05288328252353931,False,Left Foot,Open Play,0,0,2,Normal
-13.954210834009928,0.06082958813401362,False,Left Foot,Open Play,0,0,1,Normal
-22.580744009000234,0.0597185473309306,False,Right Foot,Open Play,0,1,1,Normal
-15.210851389715167,0.06257733115925052,False,Right Foot,Open Play,0,0,2,Normal
-13.880922159568508,0.06138418316852072,False,Left Foot,Open Play,0,1,1,Normal
-10.117806086301519,0.05974339311546293,False,Right Foot,Open Play,0,1,3,Normal
-18.458873205046945,0.06442878726811167,True,Right Foot,Open Play,1,0,1,Normal
-25.203174403237387,0.0653367013486724,False,Left Foot,Free Kick,0,0,0,Normal
-13.572398461583715,0.05854641638916738,False,Other,Open Play,1,0,2,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-23.281967270830012,0.059302929044043794,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267596,Lionel Andrés Messi Cuccittini,Barcelona,5.916924876994801,0.05587273291259302,True,Right Foot,Open Play,1,0,1,Volley
+267596,Rafael Alcântara do Nascimento,Barcelona,17.310401497365678,0.06400215701534664,False,Left Foot,Open Play,1,0,2,Volley
+267596,Lionel Andrés Messi Cuccittini,Barcelona,31.896238022688514,0.05038736068620873,False,Left Foot,Free Kick,0,0,0,Normal
+267596,Nabil El Zhar,Leganés,12.335720489699815,0.06048288730109215,False,Left Foot,Open Play,0,0,2,Normal
+267596,Nabil El Zhar,Leganés,18.15736765062601,0.06443507292366255,False,Right Foot,Open Play,0,0,2,Normal
+267596,Lionel Andrés Messi Cuccittini,Barcelona,9.141662868428266,0.05636727588136472,False,Left Foot,Open Play,0,1,2,Normal
+267596,Lionel Andrés Messi Cuccittini,Barcelona,19.40927613281856,0.06256152461297587,False,Left Foot,Free Kick,0,0,0,Normal
+267596,Neymar da Silva Santos Junior,Barcelona,13.591173606425608,0.06105375765504796,False,Right Foot,Open Play,0,0,2,Normal
+267596,Martín Maximiliano Mantovani,Leganés,6.258594091327534,0.05675789269568889,False,Head,Open Play,0,0,8,Normal
+267596,Neymar da Silva Santos Junior,Barcelona,30.37136809562586,0.07295236602145334,False,Right Foot,Open Play,0,0,2,Normal
+267596,Ivan Rakitić,Barcelona,32.24856585958513,0.05885516146920324,False,Right Foot,Open Play,0,0,0,Normal
+267596,Nabil El Zhar,Leganés,22.91069619195366,0.06288261465785173,False,Right Foot,Open Play,0,0,1,Half Volley
+267596,Miguel Ángel Guerrero Martín,Leganés,14.284257068535279,0.05506985995555283,False,Right Foot,Open Play,1,0,1,Normal
+267596,Miguel Ángel Guerrero Martín,Leganés,10.376897416858279,0.05373370158729392,False,Right Foot,Open Play,1,0,2,Backheel
+267596,Alexander Szymanowski,Leganés,26.554848898082625,0.05288328252353931,False,Left Foot,Open Play,0,0,2,Normal
+267596,Miguel Ángel Guerrero Martín,Leganés,13.954210834009928,0.06082958813401362,False,Left Foot,Open Play,0,0,1,Normal
+267596,Ivan Rakitić,Barcelona,22.580744009000234,0.0597185473309306,False,Right Foot,Open Play,0,1,1,Normal
+267596,Neymar da Silva Santos Junior,Barcelona,15.210851389715167,0.06257733115925052,False,Right Foot,Open Play,0,0,2,Normal
+267596,Alexander Szymanowski,Leganés,13.880922159568508,0.06138418316852072,False,Left Foot,Open Play,0,1,1,Normal
+267596,Rafael Alcântara do Nascimento,Barcelona,10.117806086301519,0.05974339311546293,False,Right Foot,Open Play,0,1,3,Normal
+267596,Unai López Cabrera,Leganés,18.458873205046945,0.06442878726811167,True,Right Foot,Open Play,1,0,1,Normal
+267596,Lionel Andrés Messi Cuccittini,Barcelona,25.203174403237387,0.0653367013486724,False,Left Foot,Free Kick,0,0,0,Normal
+267596,Gabriel Appelt Pires,Leganés,13.572398461583715,0.05854641638916738,False,Other,Open Play,1,0,2,Normal
+267596,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+267596,Nabil El Zhar,Leganés,23.281967270830012,0.059302929044043794,False,Right Foot,Open Play,0,0,0,Normal

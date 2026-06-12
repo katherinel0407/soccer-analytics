@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.91035425225664,0.056238941134311035,False,Left Foot,Open Play,0,0,1,Normal
-25.741017850893158,0.05675447581696096,False,Left Foot,Open Play,0,0,2,Normal
-7.559100475585705,0.0562988565665702,False,Right Foot,Open Play,1,1,2,Normal
-8.280096617793781,0.05868804793528957,False,Head,Open Play,0,1,2,Normal
-21.742354978244652,0.05611699658098445,False,Right Foot,Open Play,1,1,2,Half Volley
-12.332882874656681,0.0608185188699657,False,Left Foot,Open Play,1,0,3,Normal
-11.587061750072795,0.05332533885307078,False,Right Foot,Open Play,1,0,2,Normal
-9.08019823572151,0.05905232661423415,False,Head,Open Play,0,1,3,Normal
-10.404326023342412,0.05882368082453312,False,Head,Open Play,0,0,1,Normal
-20.080338642562786,0.058223172531681036,False,Right Foot,Open Play,1,0,3,Normal
-27.369508581631496,0.06989144726706781,False,Right Foot,Open Play,0,0,3,Normal
-15.065523555456016,0.054934077997227757,False,Head,Open Play,0,1,1,Normal
-2.507987240796891,0.05576054803966534,True,Head,Open Play,0,0,5,Normal
-11.038568747804222,0.05630893993387768,True,Left Foot,Open Play,0,0,2,Half Volley
-8.464632301523787,0.05901133202461706,False,Head,Open Play,0,1,3,Normal
-32.38178500330085,0.07315856590320736,False,Right Foot,Open Play,0,0,1,Normal
-25.019992006393608,0.06592787182616974,False,Right Foot,Open Play,0,0,1,Normal
-38.90758280849634,0.07895614415167732,False,Left Foot,Open Play,0,0,1,Normal
-16.843990026119112,0.054670391655232006,False,Right Foot,Open Play,1,0,0,Normal
-21.03758541277967,0.06618032407751906,False,Right Foot,Open Play,0,0,2,Normal
-37.86990889875496,0.0704005983584085,False,Right Foot,Free Kick,0,0,0,Normal
-17.530829986055995,0.06405945049192022,False,Right Foot,Open Play,0,0,3,Normal
-31.63621342702062,0.06586557705963915,False,Left Foot,Open Play,0,0,2,Normal
-12.020815280171307,0.06078355399682278,False,Left Foot,Open Play,1,1,2,Half Volley
-27.416783181110073,0.0599867046771238,False,Left Foot,Open Play,0,0,1,Normal
-24.5246814454337,0.06830752120342959,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754060,Gareth Barry,Everton,30.91035425225664,0.056238941134311035,False,Left Foot,Open Play,0,0,1,Normal
+3754060,Daniel Andre Sturridge,Liverpool,25.741017850893158,0.05675447581696096,False,Left Foot,Open Play,0,0,2,Normal
+3754060,Daniel Andre Sturridge,Liverpool,7.559100475585705,0.0562988565665702,False,Right Foot,Open Play,1,1,2,Normal
+3754060,Martin Škrtel,Liverpool,8.280096617793781,0.05868804793528957,False,Head,Open Play,0,1,2,Normal
+3754060,Daniel William John Ings,Liverpool,21.742354978244652,0.05611699658098445,False,Right Foot,Open Play,1,1,2,Half Volley
+3754060,Daniel Andre Sturridge,Liverpool,12.332882874656681,0.0608185188699657,False,Left Foot,Open Play,1,0,3,Normal
+3754060,James Philip Milner,Liverpool,11.587061750072795,0.05332533885307078,False,Right Foot,Open Play,1,0,2,Normal
+3754060,Mamadou Sakho,Liverpool,9.08019823572151,0.05905232661423415,False,Head,Open Play,0,1,3,Normal
+3754060,Steven Naismith,Everton,10.404326023342412,0.05882368082453312,False,Head,Open Play,0,0,1,Normal
+3754060,James McCarthy,Everton,20.080338642562786,0.058223172531681036,False,Right Foot,Open Play,1,0,3,Normal
+3754060,Ross Barkley,Everton,27.369508581631496,0.06989144726706781,False,Right Foot,Open Play,0,0,3,Normal
+3754060,Martin Škrtel,Liverpool,15.065523555456016,0.054934077997227757,False,Head,Open Play,0,1,1,Normal
+3754060,Daniel William John Ings,Liverpool,2.507987240796891,0.05576054803966534,True,Head,Open Play,0,0,5,Normal
+3754060,Romelu Lukaku Menama,Everton,11.038568747804222,0.05630893993387768,True,Left Foot,Open Play,0,0,2,Half Volley
+3754060,Guangtai Jiang,Everton,8.464632301523787,0.05901133202461706,False,Head,Open Play,0,1,3,Normal
+3754060,Philippe Coutinho Correia,Liverpool,32.38178500330085,0.07315856590320736,False,Right Foot,Open Play,0,0,1,Normal
+3754060,Ross Barkley,Everton,25.019992006393608,0.06592787182616974,False,Right Foot,Open Play,0,0,1,Normal
+3754060,José Ramiro Funes Mori,Everton,38.90758280849634,0.07895614415167732,False,Left Foot,Open Play,0,0,1,Normal
+3754060,Romelu Lukaku Menama,Everton,16.843990026119112,0.054670391655232006,False,Right Foot,Open Play,1,0,0,Normal
+3754060,Philippe Coutinho Correia,Liverpool,21.03758541277967,0.06618032407751906,False,Right Foot,Open Play,0,0,2,Normal
+3754060,Ross Barkley,Everton,37.86990889875496,0.0704005983584085,False,Right Foot,Free Kick,0,0,0,Normal
+3754060,Philippe Coutinho Correia,Liverpool,17.530829986055995,0.06405945049192022,False,Right Foot,Open Play,0,0,3,Normal
+3754060,Romelu Lukaku Menama,Everton,31.63621342702062,0.06586557705963915,False,Left Foot,Open Play,0,0,2,Normal
+3754060,Romelu Lukaku Menama,Everton,12.020815280171307,0.06078355399682278,False,Left Foot,Open Play,1,1,2,Half Volley
+3754060,Romelu Lukaku Menama,Everton,27.416783181110073,0.0599867046771238,False,Left Foot,Open Play,0,0,1,Normal
+3754060,Aaron Lennon,Everton,24.5246814454337,0.06830752120342959,False,Right Foot,Open Play,0,0,2,Normal

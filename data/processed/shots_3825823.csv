@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.408650248711403,0.05939885120579777,True,Head,Open Play,0,1,4,Normal
-24.010206163213176,0.06462247223343102,False,Left Foot,Open Play,1,0,1,Half Volley
-25.374396544548596,0.05940347875566746,False,Left Foot,Free Kick,0,0,0,Normal
-28.550656735003486,0.07145169433857604,False,Right Foot,Free Kick,0,0,0,Normal
-19.10104709171725,0.05345314684542413,False,Right Foot,Open Play,0,0,1,Normal
-24.039342753078756,0.05131088269781343,False,Left Foot,Open Play,0,1,2,Normal
-20.00924786192625,0.06066896364941115,False,Left Foot,Open Play,1,0,2,Half Volley
-29.365626163935275,0.07171805897415774,False,Right Foot,Open Play,0,0,0,Normal
-16.512419568312815,0.057519419439688683,False,Right Foot,Open Play,1,0,3,Normal
-29.713464961192262,0.0704300849083974,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-26.999999999999996,0.056092500869972216,False,Right Foot,Open Play,1,0,1,Half Volley
-6.488451279003336,0.05606116246251129,False,Head,Open Play,0,0,8,Normal
-15.508062419270818,0.0628660761926079,False,Left Foot,Open Play,1,0,3,Normal
-15.78353572555908,0.06017832336824283,False,Left Foot,Open Play,0,0,0,Normal
-19.875864761061337,0.061465707744509004,False,Right Foot,Open Play,1,0,0,Half Volley
-24.557687187518287,0.05328197992282248,False,Left Foot,Open Play,0,1,2,Normal
-5.099019513592782,0.05729824100675682,False,Head,Open Play,0,0,4,Normal
-16.133505508723147,0.06271494681694487,False,Left Foot,Open Play,0,0,2,Normal
-28.619573721493474,0.06312299079660241,False,Right Foot,Open Play,0,0,2,Normal
-8.537564055396597,0.0578881979303593,False,Head,Open Play,0,1,6,Normal
-20.98975940786364,0.05595322178352303,False,Right Foot,Open Play,0,1,3,Normal
-27.20294101747088,0.0700624237063451,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825823,Markel Bergara Larrañaga,Real Sociedad,10.408650248711403,0.05939885120579777,True,Head,Open Play,0,1,4,Normal
+3825823,Carlos Alberto Vela Garrido,Real Sociedad,24.010206163213176,0.06462247223343102,False,Left Foot,Open Play,1,0,1,Half Volley
+3825823,José Antonio Reyes Calderón,Sevilla,25.374396544548596,0.05940347875566746,False,Left Foot,Free Kick,0,0,0,Normal
+3825823,Asier Illarramendi Andonegi,Real Sociedad,28.550656735003486,0.07145169433857604,False,Right Foot,Free Kick,0,0,0,Normal
+3825823,Kevin Gameiro,Sevilla,19.10104709171725,0.05345314684542413,False,Right Foot,Open Play,0,0,1,Normal
+3825823,Víctor Machín Pérez,Sevilla,24.039342753078756,0.05131088269781343,False,Left Foot,Open Play,0,1,2,Normal
+3825823,Éver Maximiliano David Banega,Sevilla,20.00924786192625,0.06066896364941115,False,Left Foot,Open Play,1,0,2,Half Volley
+3825823,Markel Bergara Larrañaga,Real Sociedad,29.365626163935275,0.07171805897415774,False,Right Foot,Open Play,0,0,0,Normal
+3825823,Kevin Gameiro,Sevilla,16.512419568312815,0.057519419439688683,False,Right Foot,Open Play,1,0,3,Normal
+3825823,David Zurutuza Veillet,Real Sociedad,29.713464961192262,0.0704300849083974,False,Right Foot,Open Play,0,0,2,Normal
+3825823,Kevin Gameiro,Sevilla,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3825823,Mikel Oyarzabal Ugarte,Real Sociedad,26.999999999999996,0.056092500869972216,False,Right Foot,Open Play,1,0,1,Half Volley
+3825823,Íñigo Martínez Berridi,Real Sociedad,6.488451279003336,0.05606116246251129,False,Head,Open Play,0,0,8,Normal
+3825823,Kevin Gameiro,Sevilla,15.508062419270818,0.0628660761926079,False,Left Foot,Open Play,1,0,3,Normal
+3825823,José Antonio Reyes Calderón,Sevilla,15.78353572555908,0.06017832336824283,False,Left Foot,Open Play,0,0,0,Normal
+3825823,Víctor Machín Pérez,Sevilla,19.875864761061337,0.061465707744509004,False,Right Foot,Open Play,1,0,0,Half Volley
+3825823,Carlos Alberto Vela Garrido,Real Sociedad,24.557687187518287,0.05328197992282248,False,Left Foot,Open Play,0,1,2,Normal
+3825823,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,5.099019513592782,0.05729824100675682,False,Head,Open Play,0,0,4,Normal
+3825823,Kevin Gameiro,Sevilla,16.133505508723147,0.06271494681694487,False,Left Foot,Open Play,0,0,2,Normal
+3825823,Éver Maximiliano David Banega,Sevilla,28.619573721493474,0.06312299079660241,False,Right Foot,Open Play,0,0,2,Normal
+3825823,Vicente Iborra De La Fuente,Sevilla,8.537564055396597,0.0578881979303593,False,Head,Open Play,0,1,6,Normal
+3825823,Éver Maximiliano David Banega,Sevilla,20.98975940786364,0.05595322178352303,False,Right Foot,Open Play,0,1,3,Normal
+3825823,Yevhen Konoplyanka,Sevilla,27.20294101747088,0.0700624237063451,False,Right Foot,Open Play,0,0,1,Normal

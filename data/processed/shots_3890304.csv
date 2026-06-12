@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.255779668020395,0.0767209349678873,False,Right Foot,Open Play,0,0,0,Normal
-8.18352002502591,0.05607105500151688,False,Head,Open Play,0,1,6,Normal
-23.6019067026374,0.059811221643381145,False,Right Foot,Open Play,1,0,1,Normal
-11.108555261599049,0.0525123979445576,False,Right Foot,Open Play,1,0,0,Normal
-23.65354096113307,0.06807789155755703,False,Left Foot,Open Play,1,0,0,Half Volley
-14.541320435228704,0.06232577420083025,False,Left Foot,Open Play,0,0,2,Normal
-21.98931558734833,0.05593863906768036,False,Right Foot,Open Play,0,0,1,Normal
-33.30540496676178,0.06668471599449885,False,Right Foot,Open Play,0,0,1,Normal
-26.83151132530555,0.06563970294534259,False,Right Foot,Open Play,1,0,0,Volley
-16.565325230734228,0.05647618909294608,False,Right Foot,Open Play,1,0,2,Normal
-36.479172139729265,0.07630714430178735,False,Left Foot,Open Play,0,0,0,Normal
-7.324616030891996,0.05843068167409663,False,Head,Open Play,0,1,2,Normal
-9.093404203047394,0.05791723674645503,False,Head,Open Play,0,0,4,Normal
-16.089748288895017,0.05653482490333178,False,Right Foot,Open Play,1,1,3,Normal
-30.335622624235025,0.05337613838014747,False,Left Foot,Open Play,0,0,1,Half Volley
-20.057168294652165,0.05777161729724203,False,Right Foot,Open Play,0,0,2,Normal
-25.30019762768662,0.06563266859160174,False,Right Foot,Open Play,1,1,1,Normal
-8.324061508662703,0.05718938879388002,False,Left Foot,Open Play,1,0,2,Volley
-32.538592471094994,0.0744094784823774,False,Right Foot,Free Kick,0,0,0,Normal
-29.71363323459452,0.06725417175991322,True,Left Foot,Free Kick,0,0,0,Normal
-14.611296999240006,0.05996024824280474,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890304,Pascal Groß,Ingolstadt,35.255779668020395,0.0767209349678873,False,Right Foot,Open Play,0,0,0,Normal
+3890304,Mathew Leckie,Ingolstadt,8.18352002502591,0.05607105500151688,False,Head,Open Play,0,1,6,Normal
+3890304,Mathew Leckie,Ingolstadt,23.6019067026374,0.059811221643381145,False,Right Foot,Open Play,1,0,1,Normal
+3890304,Lukas Hinterseer,Ingolstadt,11.108555261599049,0.0525123979445576,False,Right Foot,Open Play,1,0,0,Normal
+3890304,Markus Suttner,Ingolstadt,23.65354096113307,0.06807789155755703,False,Left Foot,Open Play,1,0,0,Half Volley
+3890304,Nicolai Müller,Hamburger SV,14.541320435228704,0.06232577420083025,False,Left Foot,Open Play,0,0,2,Normal
+3890304,Mathew Leckie,Ingolstadt,21.98931558734833,0.05593863906768036,False,Right Foot,Open Play,0,0,1,Normal
+3890304,Pierre-Michel Lasogga,Hamburger SV,33.30540496676178,0.06668471599449885,False,Right Foot,Open Play,0,0,1,Normal
+3890304,Pascal Groß,Ingolstadt,26.83151132530555,0.06563970294534259,False,Right Foot,Open Play,1,0,0,Volley
+3890304,Lukas Hinterseer,Ingolstadt,16.565325230734228,0.05647618909294608,False,Right Foot,Open Play,1,0,2,Normal
+3890304,Markus Suttner,Ingolstadt,36.479172139729265,0.07630714430178735,False,Left Foot,Open Play,0,0,0,Normal
+3890304,Pierre-Michel Lasogga,Hamburger SV,7.324616030891996,0.05843068167409663,False,Head,Open Play,0,1,2,Normal
+3890304,Pierre-Michel Lasogga,Hamburger SV,9.093404203047394,0.05791723674645503,False,Head,Open Play,0,0,4,Normal
+3890304,Stefan Lex,Ingolstadt,16.089748288895017,0.05653482490333178,False,Right Foot,Open Play,1,1,3,Normal
+3890304,Lukas Hinterseer,Ingolstadt,30.335622624235025,0.05337613838014747,False,Left Foot,Open Play,0,0,1,Half Volley
+3890304,Pascal Groß,Ingolstadt,20.057168294652165,0.05777161729724203,False,Right Foot,Open Play,0,0,2,Normal
+3890304,Marcelo Alfonso Díaz Rojas,Hamburger SV,25.30019762768662,0.06563266859160174,False,Right Foot,Open Play,1,1,1,Normal
+3890304,Pierre-Michel Lasogga,Hamburger SV,8.324061508662703,0.05718938879388002,False,Left Foot,Open Play,1,0,2,Volley
+3890304,Marcelo Alfonso Díaz Rojas,Hamburger SV,32.538592471094994,0.0744094784823774,False,Right Foot,Free Kick,0,0,0,Normal
+3890304,Michael Gregoritsch,Hamburger SV,29.71363323459452,0.06725417175991322,True,Left Foot,Free Kick,0,0,0,Normal
+3890304,Mathew Leckie,Ingolstadt,14.611296999240006,0.05996024824280474,False,Head,Open Play,0,0,3,Normal

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.130521909796887,0.06290749425307211,False,Right Foot,Open Play,1,0,1,Half Volley
-11.621101496846157,0.05448257607427122,False,Right Foot,Open Play,1,0,1,Half Volley
-7.877182237323188,0.054163476011543824,False,Left Foot,Open Play,1,1,3,Half Volley
-6.906518659932808,0.054583464935423064,False,Head,Open Play,0,0,3,Diving Header
-27.225906780123964,0.05380348905574342,False,Right Foot,Open Play,1,0,1,Half Volley
-20.237094653136353,0.05739300710552069,False,Left Foot,Open Play,0,0,2,Normal
-15.707959765672944,0.06133172325977138,False,Left Foot,Open Play,0,0,2,Normal
-35.15736053801536,0.067171783332715,False,Left Foot,Open Play,0,0,1,Normal
-33.984261063027404,0.05701266270621729,False,Right Foot,Open Play,0,0,0,Normal
-8.005623023850172,0.058753614526856596,False,Head,Open Play,0,0,1,Normal
-28.602797066021353,0.06741877089252662,False,Right Foot,Open Play,1,0,1,Half Volley
-9.170605214488297,0.05675648877846279,False,Head,Open Play,0,1,4,Normal
-2.8178005607210728,0.05606142761058781,True,Right Foot,Open Play,0,0,3,Normal
-8.949860334105782,0.058923344591759165,False,Left Foot,Open Play,1,1,3,Half Volley
-10.324727599312244,0.058127963440125587,False,Head,Open Play,0,0,1,Normal
-18.69786084021378,0.051946429643381684,False,Right Foot,Open Play,0,0,1,Normal
-22.2171105231981,0.06610523770258528,False,Right Foot,Open Play,1,0,2,Normal
-32.20838400168503,0.07201332814912181,False,Right Foot,Open Play,0,0,1,Normal
-12.139604606411204,0.06039517137797303,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754245,Lee Cattermole,Sunderland,22.130521909796887,0.06290749425307211,False,Right Foot,Open Play,1,0,1,Half Volley
+3754245,Steven Fletcher,Sunderland,11.621101496846157,0.05448257607427122,False,Right Foot,Open Play,1,0,1,Half Volley
+3754245,Billy Jones,Sunderland,7.877182237323188,0.054163476011543824,False,Left Foot,Open Play,1,1,3,Half Volley
+3754245,Billy Jones,Sunderland,6.906518659932808,0.054583464935423064,False,Head,Open Play,0,0,3,Diving Header
+3754245,Yann Gérard M''Vila,Sunderland,27.225906780123964,0.05380348905574342,False,Right Foot,Open Play,1,0,1,Half Volley
+3754245,Stéphane Sessègnon,West Bromwich Albion,20.237094653136353,0.05739300710552069,False,Left Foot,Open Play,0,0,2,Normal
+3754245,James McClean,West Bromwich Albion,15.707959765672944,0.06133172325977138,False,Left Foot,Open Play,0,0,2,Normal
+3754245,Jordi Gómez García-Penche,Sunderland,35.15736053801536,0.067171783332715,False,Left Foot,Open Play,0,0,1,Normal
+3754245,Craig Dawson,West Bromwich Albion,33.984261063027404,0.05701266270621729,False,Right Foot,Open Play,0,0,0,Normal
+3754245,José Salomón Rondón Giménez,West Bromwich Albion,8.005623023850172,0.058753614526856596,False,Head,Open Play,0,0,1,Normal
+3754245,Claudio Ariel Yacob,West Bromwich Albion,28.602797066021353,0.06741877089252662,False,Right Foot,Open Play,1,0,1,Half Volley
+3754245,José Salomón Rondón Giménez,West Bromwich Albion,9.170605214488297,0.05675648877846279,False,Head,Open Play,0,1,4,Normal
+3754245,Saido Berahino,West Bromwich Albion,2.8178005607210728,0.05606142761058781,True,Right Foot,Open Play,0,0,3,Normal
+3754245,José Salomón Rondón Giménez,West Bromwich Albion,8.949860334105782,0.058923344591759165,False,Left Foot,Open Play,1,1,3,Half Volley
+3754245,Saido Berahino,West Bromwich Albion,10.324727599312244,0.058127963440125587,False,Head,Open Play,0,0,1,Normal
+3754245,Jermain Defoe,Sunderland,18.69786084021378,0.051946429643381684,False,Right Foot,Open Play,0,0,1,Normal
+3754245,Jermain Defoe,Sunderland,22.2171105231981,0.06610523770258528,False,Right Foot,Open Play,1,0,2,Normal
+3754245,Yann Gérard M''Vila,Sunderland,32.20838400168503,0.07201332814912181,False,Right Foot,Open Play,0,0,1,Normal
+3754245,Danny Graham,Sunderland,12.139604606411204,0.06039517137797303,False,Head,Open Play,0,0,4,Normal

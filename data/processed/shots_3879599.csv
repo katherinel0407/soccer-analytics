@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.1796723214252,0.07603615443994922,False,Right Foot,Open Play,0,1,2,Normal
-20.56501884268526,0.055571959631630155,False,Left Foot,Open Play,0,0,2,Normal
-5.515432893255066,0.057445553659636314,True,Left Foot,Open Play,1,0,2,Half Volley
-13.963523910532045,0.05158722940593416,False,Left Foot,Open Play,0,0,1,Normal
-20.089798406156294,0.054513733111446964,False,Left Foot,Open Play,0,0,3,Normal
-6.552098900352463,0.0578393361910761,True,Head,Open Play,0,0,4,Normal
-26.378210705049725,0.05273847763260211,False,Left Foot,Open Play,0,0,3,Normal
-36.135854770573786,0.05902221907432654,False,Right Foot,Open Play,0,0,1,Normal
-27.836127604248407,0.07104465761500597,False,Left Foot,Open Play,0,1,2,Normal
-35.08518205738713,0.06340366110752281,False,Right Foot,Open Play,0,0,1,Normal
-10.872442227944921,0.059820726786793156,False,Right Foot,Open Play,0,0,2,Half Volley
-35.61404217440081,0.07016225629382676,False,Right Foot,Open Play,0,0,0,Normal
-21.79541236132044,0.05421625244370724,False,Right Foot,Open Play,0,0,1,Normal
-9.121951545584974,0.05897487202444904,False,Head,Open Play,0,1,5,Normal
-30.92329219213246,0.0690473166362703,False,Right Foot,Open Play,1,0,1,Half Volley
-15.220052562327112,0.0562312615285718,True,Right Foot,Open Play,0,0,1,Normal
-16.85140943660203,0.0630785119549523,True,Left Foot,Open Play,0,0,1,Normal
-20.359273071502333,0.05870738868214919,False,Left Foot,Free Kick,0,0,0,Normal
-26.236615635405418,0.06969150995138043,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879599,Giacomo Bonaventura,AC Milan,34.1796723214252,0.07603615443994922,False,Right Foot,Open Play,0,1,2,Normal
+3879599,Alessio Cerci,AC Milan,20.56501884268526,0.055571959631630155,False,Left Foot,Open Play,0,0,2,Normal
+3879599,Andrea Bertolacci,AC Milan,5.515432893255066,0.057445553659636314,True,Left Foot,Open Play,1,0,2,Half Volley
+3879599,Alessio Cerci,AC Milan,13.963523910532045,0.05158722940593416,False,Left Foot,Open Play,0,0,1,Normal
+3879599,Felipe Anderson Pereira Gomes,Lazio,20.089798406156294,0.054513733111446964,False,Left Foot,Open Play,0,0,3,Normal
+3879599,Philippe Mexès,AC Milan,6.552098900352463,0.0578393361910761,True,Head,Open Play,0,0,4,Normal
+3879599,Alessio Cerci,AC Milan,26.378210705049725,0.05273847763260211,False,Left Foot,Open Play,0,0,3,Normal
+3879599,Antonio Candreva,Lazio,36.135854770573786,0.05902221907432654,False,Right Foot,Open Play,0,0,1,Normal
+3879599,Giacomo Bonaventura,AC Milan,27.836127604248407,0.07104465761500597,False,Left Foot,Open Play,0,1,2,Normal
+3879599,Lucas Rodrigo Biglia,Lazio,35.08518205738713,0.06340366110752281,False,Right Foot,Open Play,0,0,1,Normal
+3879599,Senad Lulić,Lazio,10.872442227944921,0.059820726786793156,False,Right Foot,Open Play,0,0,2,Half Volley
+3879599,Dušan Basta,Lazio,35.61404217440081,0.07016225629382676,False,Right Foot,Open Play,0,0,0,Normal
+3879599,Felipe Anderson Pereira Gomes,Lazio,21.79541236132044,0.05421625244370724,False,Right Foot,Open Play,0,0,1,Normal
+3879599,Maurício dos Santos Nascimento,Lazio,9.121951545584974,0.05897487202444904,False,Head,Open Play,0,1,5,Normal
+3879599,Danilo Cataldi,Lazio,30.92329219213246,0.0690473166362703,False,Right Foot,Open Play,1,0,1,Half Volley
+3879599,Carlos Arturo Bacca Ahumada,AC Milan,15.220052562327112,0.0562312615285718,True,Right Foot,Open Play,0,0,1,Normal
+3879599,Ricardo Kishna,Lazio,16.85140943660203,0.0630785119549523,True,Left Foot,Open Play,0,0,1,Normal
+3879599,Keisuke Honda,AC Milan,20.359273071502333,0.05870738868214919,False,Left Foot,Free Kick,0,0,0,Normal
+3879599,Felipe Anderson Pereira Gomes,Lazio,26.236615635405418,0.06969150995138043,False,Right Foot,Open Play,1,0,2,Normal

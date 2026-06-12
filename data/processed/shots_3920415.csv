@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.3321096762109,0.06185852064591885,False,Right Foot,Open Play,1,0,1,Normal
-25.180349481291955,0.04979222851582388,False,Left Foot,Open Play,0,0,1,Normal
-11.76860229593982,0.058481993303403076,False,Right Foot,Open Play,1,0,2,Volley
-13.566502865514016,0.05991523238227527,False,Left Foot,Open Play,0,1,1,Normal
-29.132284496757205,0.06449888848242945,False,Right Foot,Open Play,1,0,1,Normal
-13.520355024924461,0.0608419330340987,True,Right Foot,Open Play,0,0,2,Volley
-27.7965825237564,0.06494856858775684,False,Right Foot,Open Play,0,0,0,Normal
-11.636150566231086,0.05964195048546305,False,Head,Open Play,0,0,2,Normal
-25.446807265352565,0.06926617741877125,False,Right Foot,Open Play,0,0,4,Normal
-20.928927349484496,0.06399130858833897,False,Left Foot,Open Play,0,1,3,Normal
-8.558621384311845,0.05901116492075381,False,Right Foot,Open Play,1,0,3,Half Volley
-21.56293115510969,0.06645001953259828,False,Right Foot,Open Play,0,0,0,Normal
-12.151131634543344,0.05460864561334114,False,Head,Open Play,0,1,2,Normal
-26.219458423087225,0.06469224278560062,False,Left Foot,Open Play,0,1,1,Normal
-15.220052562327112,0.06273241876638583,False,Left Foot,Open Play,0,0,0,Normal
-14.9833240637717,0.06128891332403115,False,Left Foot,Open Play,1,0,1,Normal
-30.26053535547578,0.07258469599669178,False,Right Foot,Free Kick,0,0,0,Normal
-10.444615837837214,0.05946061022291587,False,Left Foot,Open Play,1,1,1,Half Volley
-12.006664815842914,0.056778114227910154,False,Head,Open Play,0,0,2,Normal
-30.217379105408863,0.07195750654101206,False,Right Foot,Open Play,0,0,0,Normal
-27.408392875176023,0.06854177106948543,False,Right Foot,Open Play,0,0,1,Normal
-31.777507768860666,0.07223360192465399,False,Right Foot,Open Play,0,0,0,Lob
-6.723094525588644,0.053982873547083754,False,Right Foot,Open Play,0,1,5,Half Volley
-25.433245958783953,0.06627315052028723,False,Left Foot,Open Play,0,0,1,Normal
-18.85974549138985,0.06317503231331993,False,Right Foot,Open Play,0,0,1,Normal
-19.57396229688818,0.062128285624778574,False,Right Foot,Open Play,1,1,3,Normal
-8.523496934944014,0.05861763548229268,False,Right Foot,Open Play,1,0,1,Volley
-14.759742545180108,0.06243708245125995,False,Left Foot,Open Play,0,0,1,Normal
-6.103277807866851,0.05781561212069913,False,Head,Open Play,0,1,5,Normal
-51.90780288164777,0.08083921274373035,False,Right Foot,Open Play,1,0,0,Half Volley
-26.639069052802878,0.06292638984925399,False,Left Foot,Open Play,0,0,1,Normal
-15.0,0.06260321267490356,False,Right Foot,Open Play,0,0,2,Normal
-6.226556030423244,0.05786298673361555,False,Left Foot,Open Play,1,0,3,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3920415,Youcef Atal,Algeria,26.3321096762109,0.06185852064591885,False,Right Foot,Open Play,1,0,1,Normal
+3920415,Adam Ounas,Algeria,25.180349481291955,0.04979222851582388,False,Left Foot,Open Play,0,0,1,Normal
+3920415,Houssem Aouar,Algeria,11.76860229593982,0.058481993303403076,False,Right Foot,Open Play,1,0,2,Volley
+3920415,Souleymane Anne,Mauritania,13.566502865514016,0.05991523238227527,False,Left Foot,Open Play,0,1,1,Normal
+3920415,Omaré Gassama,Mauritania,29.132284496757205,0.06449888848242945,False,Right Foot,Open Play,1,0,1,Normal
+3920415,Mohamed Dellahi Yali,Mauritania,13.520355024924461,0.0608419330340987,True,Right Foot,Open Play,0,0,2,Volley
+3920415,Hichem Boudaoui,Algeria,27.7965825237564,0.06494856858775684,False,Right Foot,Open Play,0,0,0,Normal
+3920415,Hichem Boudaoui,Algeria,11.636150566231086,0.05964195048546305,False,Head,Open Play,0,0,2,Normal
+3920415,Rayan Aït Nouri,Algeria,25.446807265352565,0.06926617741877125,False,Right Foot,Open Play,0,0,4,Normal
+3920415,Aboubakary Koita,Mauritania,20.928927349484496,0.06399130858833897,False,Left Foot,Open Play,0,1,3,Normal
+3920415,Baghdad Bounedjah,Algeria,8.558621384311845,0.05901116492075381,False,Right Foot,Open Play,1,0,3,Half Volley
+3920415,Idrissa Thiam,Mauritania,21.56293115510969,0.06645001953259828,False,Right Foot,Open Play,0,0,0,Normal
+3920415,Mohamed Dellahi Yali,Mauritania,12.151131634543344,0.05460864561334114,False,Head,Open Play,0,1,2,Normal
+3920415,Adam Ounas,Algeria,26.219458423087225,0.06469224278560062,False,Left Foot,Open Play,0,1,1,Normal
+3920415,Aboubakary Koita,Mauritania,15.220052562327112,0.06273241876638583,False,Left Foot,Open Play,0,0,0,Normal
+3920415,Souleymane Anne,Mauritania,14.9833240637717,0.06128891332403115,False,Left Foot,Open Play,1,0,1,Normal
+3920415,Aboubakary Koita,Mauritania,30.26053535547578,0.07258469599669178,False,Right Foot,Free Kick,0,0,0,Normal
+3920415,Bodda Mouhsine,Mauritania,10.444615837837214,0.05946061022291587,False,Left Foot,Open Play,1,1,1,Half Volley
+3920415,Hichem Boudaoui,Algeria,12.006664815842914,0.056778114227910154,False,Head,Open Play,0,0,2,Normal
+3920415,Idrissa Thiam,Mauritania,30.217379105408863,0.07195750654101206,False,Right Foot,Open Play,0,0,0,Normal
+3920415,Mohamed Youcef Belaïli,Algeria,27.408392875176023,0.06854177106948543,False,Right Foot,Open Play,0,0,1,Normal
+3920415,Mohamed Youcef Belaïli,Algeria,31.777507768860666,0.07223360192465399,False,Right Foot,Open Play,0,0,0,Lob
+3920415,Aïssa Mandi,Algeria,6.723094525588644,0.053982873547083754,False,Right Foot,Open Play,0,1,5,Half Volley
+3920415,Youcef Atal,Algeria,25.433245958783953,0.06627315052028723,False,Left Foot,Open Play,0,0,1,Normal
+3920415,Idrissa Thiam,Mauritania,18.85974549138985,0.06317503231331993,False,Right Foot,Open Play,0,0,1,Normal
+3920415,Aboubakar Kamara,Mauritania,19.57396229688818,0.062128285624778574,False,Right Foot,Open Play,1,1,3,Normal
+3920415,Pape Ibnou Bâ,Mauritania,8.523496934944014,0.05861763548229268,False,Right Foot,Open Play,1,0,1,Volley
+3920415,Guessouma Fofana,Mauritania,14.759742545180108,0.06243708245125995,False,Left Foot,Open Play,0,0,1,Normal
+3920415,Aïssa Mandi,Algeria,6.103277807866851,0.05781561212069913,False,Head,Open Play,0,1,5,Normal
+3920415,Bakari Camara,Mauritania,51.90780288164777,0.08083921274373035,False,Right Foot,Open Play,1,0,0,Half Volley
+3920415,Bodda Mouhsine,Mauritania,26.639069052802878,0.06292638984925399,False,Left Foot,Open Play,0,0,1,Normal
+3920415,Aïssa Mandi,Algeria,15.0,0.06260321267490356,False,Right Foot,Open Play,0,0,2,Normal
+3920415,Baghdad Bounedjah,Algeria,6.226556030423244,0.05786298673361555,False,Left Foot,Open Play,1,0,3,Volley

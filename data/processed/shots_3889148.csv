@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.942621983083911,0.05813211260431292,False,Left Foot,Open Play,1,0,2,Volley
-11.747765745025731,0.058518534856289335,False,Head,Open Play,0,1,2,Normal
-34.51622806738883,0.06185200508588212,False,Right Foot,Open Play,0,0,1,Normal
-18.880942773071478,0.06462093941066266,False,Left Foot,Open Play,0,0,2,Normal
-29.71077245714086,0.06324565963384611,False,Right Foot,Open Play,1,0,0,Half Volley
-30.056613249000623,0.06250834579305863,False,Left Foot,Open Play,0,0,2,Half Volley
-36.72124725550591,0.07623171888529248,False,Right Foot,Open Play,0,0,1,Normal
-26.596240335806865,0.06303162341875128,False,Left Foot,Open Play,0,0,0,Normal
-30.758576039862447,0.06320105233097766,False,Right Foot,Free Kick,0,0,0,Normal
-11.940268003692374,0.05762866718299812,False,Head,Open Play,0,0,4,Normal
-21.027838690650075,0.06098164184222065,False,Right Foot,Open Play,1,0,0,Half Volley
-31.003548184038543,0.07334144689598844,False,Left Foot,Open Play,0,0,0,Normal
-32.747060936823026,0.058660364457082656,False,Right Foot,Open Play,0,0,1,Normal
-42.07730979993849,0.06435344041023511,False,Right Foot,Open Play,0,0,0,Normal
-24.869660230891775,0.06892013706076615,False,Right Foot,Free Kick,0,0,0,Normal
-27.707760645710792,0.0602332509058464,False,Right Foot,Open Play,0,0,1,Normal
-17.013524032369077,0.06257213602188721,False,Left Foot,Open Play,1,0,2,Volley
-24.990398156091874,0.06247194260780122,False,Right Foot,Open Play,0,0,0,Normal
-15.695222202950811,0.06276291247569105,False,Head,Open Play,0,1,3,Normal
-14.016062214473795,0.05708955092925354,True,Left Foot,Open Play,1,0,3,Half Volley
-13.759360450253487,0.06191238829612694,False,Head,Open Play,0,0,2,Normal
-8.364807230295273,0.058937826157342305,False,Head,Open Play,0,1,2,Normal
-16.819036833302906,0.06133215541232218,False,Right Foot,Open Play,1,0,2,Volley
-25.99423012901132,0.05663899101699166,False,Right Foot,Open Play,1,0,0,Normal
-6.212889826803629,0.05736575681092605,False,Right Foot,Open Play,1,0,2,Normal
-13.79021392147344,0.055051065685842934,False,Right Foot,Open Play,0,0,2,Half Volley
-20.327321515635056,0.06570853712100168,False,Right Foot,Open Play,1,0,1,Normal
-11.960351165413162,0.06080789121135955,True,Left Foot,Open Play,0,1,1,Normal
-31.45790838565081,0.07300776314327667,False,Left Foot,Open Play,0,1,1,Half Volley
-34.45692963686695,0.055986673949883194,False,Right Foot,Open Play,0,0,0,Half Volley
-14.623952953972465,0.06171372755548106,False,Left Foot,Open Play,0,0,1,Normal
-30.27292519727818,0.06917712103872614,False,Left Foot,Open Play,1,0,0,Normal
-30.233259830855165,0.07283072419593316,False,Right Foot,Free Kick,0,0,0,Normal
-38.16202300717298,0.07921023841102223,False,Left Foot,Open Play,0,0,0,Normal
-14.373586887064764,0.06204107132566175,False,Right Foot,Open Play,1,0,0,Normal
-25.30335946075146,0.06754273124143435,False,Right Foot,Open Play,0,0,0,Half Volley
-32.21443775700578,0.06351143582176856,False,Right Foot,Open Play,0,1,1,Normal
-36.84263834200802,0.06696245822672019,False,Right Foot,Open Play,0,0,0,Normal
-30.010831378020836,0.07258907828585087,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3889148,Diego Armando Maradona,Argentina,6.942621983083911,0.05813211260431292,False,Left Foot,Open Play,1,0,2,Volley
+3889148,José Luis Brown,Argentina,11.747765745025731,0.058518534856289335,False,Head,Open Play,0,1,2,Normal
+3889148,Eric Gerets,Belgium,34.51622806738883,0.06185200508588212,False,Right Foot,Open Play,0,0,1,Normal
+3889148,Diego Armando Maradona,Argentina,18.880942773071478,0.06462093941066266,False,Left Foot,Open Play,0,0,2,Normal
+3889148,Jorge Luis Burruchaga,Argentina,29.71077245714086,0.06324565963384611,False,Right Foot,Open Play,1,0,0,Half Volley
+3889148,Diego Armando Maradona,Argentina,30.056613249000623,0.06250834579305863,False,Left Foot,Open Play,0,0,2,Half Volley
+3889148,Jan Ceulemans,Belgium,36.72124725550591,0.07623171888529248,False,Right Foot,Open Play,0,0,1,Normal
+3889148,Jorge Alberto Francisco Valdano Castellano,Argentina,26.596240335806865,0.06303162341875128,False,Left Foot,Open Play,0,0,0,Normal
+3889148,Jorge Luis Burruchaga,Argentina,30.758576039862447,0.06320105233097766,False,Right Foot,Free Kick,0,0,0,Normal
+3889148,Jorge Alberto Francisco Valdano Castellano,Argentina,11.940268003692374,0.05762866718299812,False,Head,Open Play,0,0,4,Normal
+3889148,Jan Ceulemans,Belgium,21.027838690650075,0.06098164184222065,False,Right Foot,Open Play,1,0,0,Half Volley
+3889148,Patrick Vervoort,Belgium,31.003548184038543,0.07334144689598844,False,Left Foot,Open Play,0,0,0,Normal
+3889148,Georges Grün,Belgium,32.747060936823026,0.058660364457082656,False,Right Foot,Open Play,0,0,1,Normal
+3889148,Stéphane Demol,Belgium,42.07730979993849,0.06435344041023511,False,Right Foot,Open Play,0,0,0,Normal
+3889148,Jorge Luis Burruchaga,Argentina,24.869660230891775,0.06892013706076615,False,Right Foot,Free Kick,0,0,0,Normal
+3889148,Jorge Luis Burruchaga,Argentina,27.707760645710792,0.0602332509058464,False,Right Foot,Open Play,0,0,1,Normal
+3889148,Franky Vercauteren,Belgium,17.013524032369077,0.06257213602188721,False,Left Foot,Open Play,1,0,2,Volley
+3889148,Jorge Luis Burruchaga,Argentina,24.990398156091874,0.06247194260780122,False,Right Foot,Open Play,0,0,0,Normal
+3889148,Georges Grün,Belgium,15.695222202950811,0.06276291247569105,False,Head,Open Play,0,1,3,Normal
+3889148,Diego Armando Maradona,Argentina,14.016062214473795,0.05708955092925354,True,Left Foot,Open Play,1,0,3,Half Volley
+3889148,Enzo Scifo,Belgium,13.759360450253487,0.06191238829612694,False,Head,Open Play,0,0,2,Normal
+3889148,Jorge Alberto Francisco Valdano Castellano,Argentina,8.364807230295273,0.058937826157342305,False,Head,Open Play,0,1,2,Normal
+3889148,Philippe Desmet,Belgium,16.819036833302906,0.06133215541232218,False,Right Foot,Open Play,1,0,2,Volley
+3889148,Georges Grün,Belgium,25.99423012901132,0.05663899101699166,False,Right Foot,Open Play,1,0,0,Normal
+3889148,Franky Vercauteren,Belgium,6.212889826803629,0.05736575681092605,False,Right Foot,Open Play,1,0,2,Normal
+3889148,Héctor Adolfo Enrique,Argentina,13.79021392147344,0.055051065685842934,False,Right Foot,Open Play,0,0,2,Half Volley
+3889148,Julio Jorge Olarticoechea,Argentina,20.327321515635056,0.06570853712100168,False,Right Foot,Open Play,1,0,1,Normal
+3889148,Diego Armando Maradona,Argentina,11.960351165413162,0.06080789121135955,True,Left Foot,Open Play,0,1,1,Normal
+3889148,Franky Vercauteren,Belgium,31.45790838565081,0.07300776314327667,False,Left Foot,Open Play,0,1,1,Half Volley
+3889148,Philippe Desmet,Belgium,34.45692963686695,0.055986673949883194,False,Right Foot,Open Play,0,0,0,Half Volley
+3889148,Diego Armando Maradona,Argentina,14.623952953972465,0.06171372755548106,False,Left Foot,Open Play,0,0,1,Normal
+3889148,Enzo Scifo,Belgium,30.27292519727818,0.06917712103872614,False,Left Foot,Open Play,1,0,0,Normal
+3889148,Enzo Scifo,Belgium,30.233259830855165,0.07283072419593316,False,Right Foot,Free Kick,0,0,0,Normal
+3889148,Patrick Vervoort,Belgium,38.16202300717298,0.07921023841102223,False,Left Foot,Open Play,0,0,0,Normal
+3889148,Jorge Alberto Francisco Valdano Castellano,Argentina,14.373586887064764,0.06204107132566175,False,Right Foot,Open Play,1,0,0,Normal
+3889148,Philippe Desmet,Belgium,25.30335946075146,0.06754273124143435,False,Right Foot,Open Play,0,0,0,Half Volley
+3889148,Jan Ceulemans,Belgium,32.21443775700578,0.06351143582176856,False,Right Foot,Open Play,0,1,1,Normal
+3889148,Georges Grün,Belgium,36.84263834200802,0.06696245822672019,False,Right Foot,Open Play,0,0,0,Normal
+3889148,Stéphane Demol,Belgium,30.010831378020836,0.07258907828585087,False,Right Foot,Open Play,0,0,1,Normal

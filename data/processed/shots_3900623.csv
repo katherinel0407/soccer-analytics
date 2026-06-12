@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.034016209567056,0.06154654369509039,False,Right Foot,Open Play,1,0,1,Normal
-29.538110975483864,0.05229307899330431,False,Right Foot,Open Play,0,1,2,Half Volley
-39.5790348543266,0.07110590262473145,False,Right Foot,Open Play,0,0,0,Half Volley
-32.715286946624815,0.06003431276178563,False,Left Foot,Open Play,0,1,3,Normal
-11.400438588054403,0.06011424155865222,True,Right Foot,Open Play,1,1,1,Normal
-12.414910390333072,0.0588341376832682,True,Right Foot,Open Play,1,1,2,Half Volley
-17.25398504693916,0.06395797779718494,False,Left Foot,Open Play,1,1,1,Normal
-33.26649966557949,0.0648599982847994,False,Right Foot,Open Play,0,1,1,Normal
-20.43942269243435,0.05849147755825994,False,Right Foot,Open Play,0,0,2,Half Volley
-9.454099639838791,0.052714754718549396,False,Right Foot,Open Play,0,1,2,Normal
-30.901294471267704,0.06687222782947044,False,Right Foot,Open Play,0,1,1,Normal
-16.630694513459137,0.06271836389624137,False,Head,Open Play,0,1,1,Normal
-25.40255892621844,0.05793687651537217,False,Left Foot,Open Play,0,0,1,Normal
-34.6439027824522,0.060184216613541855,False,Right Foot,Open Play,1,0,1,Half Volley
-22.26432123375873,0.0628107968882353,False,Right Foot,Open Play,0,0,1,Half Volley
-8.953770155638345,0.053448269086540504,False,Head,Open Play,0,0,2,Normal
-15.787653403846944,0.06223210414841362,False,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900623,Jamel Saihi,Montpellier,26.034016209567056,0.06154654369509039,False,Right Foot,Open Play,1,0,1,Normal
+3900623,Kévin Bérigaud,Montpellier,29.538110975483864,0.05229307899330431,False,Right Foot,Open Play,0,1,2,Half Volley
+3900623,Jonas Martin,Montpellier,39.5790348543266,0.07110590262473145,False,Right Foot,Open Play,0,0,0,Half Volley
+3900623,Ryad Boudebouz,Montpellier,32.715286946624815,0.06003431276178563,False,Left Foot,Open Play,0,1,3,Normal
+3900623,Kévin Bérigaud,Montpellier,11.400438588054403,0.06011424155865222,True,Right Foot,Open Play,1,1,1,Normal
+3900623,Jimmy Cabot,Lorient,12.414910390333072,0.0588341376832682,True,Right Foot,Open Play,1,1,2,Half Volley
+3900623,Yann Jouffre,Lorient,17.25398504693916,0.06395797779718494,False,Left Foot,Open Play,1,1,1,Normal
+3900623,Rodrigue Casimir Ninga,Montpellier,33.26649966557949,0.0648599982847994,False,Right Foot,Open Play,0,1,1,Normal
+3900623,Bryan Dabo,Montpellier,20.43942269243435,0.05849147755825994,False,Right Foot,Open Play,0,0,2,Half Volley
+3900623,Benjamin Moukandjo Bilé,Lorient,9.454099639838791,0.052714754718549396,False,Right Foot,Open Play,0,1,2,Normal
+3900623,Jamel Saihi,Montpellier,30.901294471267704,0.06687222782947044,False,Right Foot,Open Play,0,1,1,Normal
+3900623,Bryan Dabo,Montpellier,16.630694513459137,0.06271836389624137,False,Head,Open Play,0,1,1,Normal
+3900623,Yann Jouffre,Lorient,25.40255892621844,0.05793687651537217,False,Left Foot,Open Play,0,0,1,Normal
+3900623,Benjamin Moukandjo Bilé,Lorient,34.6439027824522,0.060184216613541855,False,Right Foot,Open Play,1,0,1,Half Volley
+3900623,Ryad Boudebouz,Montpellier,22.26432123375873,0.0628107968882353,False,Right Foot,Open Play,0,0,1,Half Volley
+3900623,Souleymane Camara,Montpellier,8.953770155638345,0.053448269086540504,False,Head,Open Play,0,0,2,Normal
+3900623,Raphaël Adelino José Guerreiro,Lorient,15.787653403846944,0.06223210414841362,False,Right Foot,Open Play,0,0,2,Half Volley

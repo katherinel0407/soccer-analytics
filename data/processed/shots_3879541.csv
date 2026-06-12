@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.9951511589203,0.06353965101642185,False,Right Foot,Open Play,0,1,1,Normal
-29.425329225006134,0.07191149766750426,False,Right Foot,Free Kick,0,0,0,Normal
-38.529599011668935,0.06930665441287678,False,Right Foot,Open Play,0,1,1,Normal
-24.480604567698084,0.05479444524524411,False,Left Foot,Open Play,1,1,3,Volley
-22.39866067424568,0.06511061945856317,False,Left Foot,Free Kick,0,0,0,Normal
-30.11610864637063,0.07222531044438595,False,Right Foot,Open Play,0,0,1,Normal
-34.60057802985377,0.0704093424615339,False,Right Foot,Open Play,0,0,4,Normal
-19.22550389456672,0.06428467817568852,False,Right Foot,Open Play,0,1,3,Normal
-12.946814279968642,0.06104138959728112,False,Left Foot,Open Play,0,1,1,Half Volley
-5.608029957123985,0.05748575587371757,False,Head,Open Play,0,0,4,Normal
-31.419261608128227,0.06797900593012543,False,Left Foot,Free Kick,0,0,0,Normal
-35.11936787586018,0.0646799102001453,False,Right Foot,Open Play,1,1,0,Normal
-25.670410982296335,0.058782758659397825,False,Right Foot,Open Play,0,1,2,Normal
-19.584943196241344,0.0653144983729802,False,Left Foot,Open Play,0,1,2,Normal
-18.16039647144302,0.06357447385015041,False,Left Foot,Open Play,1,1,1,Volley
-9.640020746865641,0.05457001182608533,True,Right Foot,Open Play,1,0,1,Half Volley
-6.280127387243035,0.05692389719671812,False,Head,Open Play,0,1,5,Normal
-25.868320393871734,0.06314514555267607,False,Right Foot,Open Play,1,1,2,Normal
-29.704208456042053,0.07238138949215206,False,Right Foot,Open Play,0,1,2,Normal
-7.387827826905555,0.058453667001749525,True,Right Foot,Open Play,1,0,1,Half Volley
-20.167548190099858,0.05440059242194894,False,Right Foot,Open Play,0,1,1,Normal
-29.584455377782433,0.0529714223653873,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879541,Matías Vecino Falero,Fiorentina,32.9951511589203,0.06353965101642185,False,Right Foot,Open Play,0,1,1,Normal
+3879541,Matías Vecino Falero,Fiorentina,29.425329225006134,0.07191149766750426,False,Right Foot,Free Kick,0,0,0,Normal
+3879541,Gonzalo Javier Rodríguez,Fiorentina,38.529599011668935,0.06930665441287678,False,Right Foot,Open Play,0,1,1,Normal
+3879541,Davide Astori,Fiorentina,24.480604567698084,0.05479444524524411,False,Left Foot,Open Play,1,1,3,Volley
+3879541,Marcos Alonso Mendoza,Fiorentina,22.39866067424568,0.06511061945856317,False,Left Foot,Free Kick,0,0,0,Normal
+3879541,Marcos Alonso Mendoza,Fiorentina,30.11610864637063,0.07222531044438595,False,Right Foot,Open Play,0,0,1,Normal
+3879541,Mattia Destro,Bologna,34.60057802985377,0.0704093424615339,False,Right Foot,Open Play,0,0,4,Normal
+3879541,Ante Rebić,Fiorentina,19.22550389456672,0.06428467817568852,False,Right Foot,Open Play,0,1,3,Normal
+3879541,Mattia Destro,Bologna,12.946814279968642,0.06104138959728112,False,Left Foot,Open Play,0,1,1,Half Volley
+3879541,Ante Rebić,Fiorentina,5.608029957123985,0.05748575587371757,False,Head,Open Play,0,0,4,Normal
+3879541,Marcos Alonso Mendoza,Fiorentina,31.419261608128227,0.06797900593012543,False,Left Foot,Free Kick,0,0,0,Normal
+3879541,Matías Vecino Falero,Fiorentina,35.11936787586018,0.0646799102001453,False,Right Foot,Open Play,1,1,0,Normal
+3879541,Borja Valero Iglesias,Fiorentina,25.670410982296335,0.058782758659397825,False,Right Foot,Open Play,0,1,2,Normal
+3879541,Marcos Alonso Mendoza,Fiorentina,19.584943196241344,0.0653144983729802,False,Left Foot,Open Play,0,1,2,Normal
+3879541,Marcos Alonso Mendoza,Fiorentina,18.16039647144302,0.06357447385015041,False,Left Foot,Open Play,1,1,1,Volley
+3879541,Jakub Błaszczykowski,Fiorentina,9.640020746865641,0.05457001182608533,True,Right Foot,Open Play,1,0,1,Half Volley
+3879541,Matías Vecino Falero,Fiorentina,6.280127387243035,0.05692389719671812,False,Head,Open Play,0,1,5,Normal
+3879541,Borja Valero Iglesias,Fiorentina,25.868320393871734,0.06314514555267607,False,Right Foot,Open Play,1,1,2,Normal
+3879541,Erick Antonio Pulgar Farfán,Bologna,29.704208456042053,0.07238138949215206,False,Right Foot,Open Play,0,1,2,Normal
+3879541,Nikola Kalinić,Fiorentina,7.387827826905555,0.058453667001749525,True,Right Foot,Open Play,1,0,1,Half Volley
+3879541,Jakub Błaszczykowski,Fiorentina,20.167548190099858,0.05440059242194894,False,Right Foot,Open Play,0,1,1,Normal
+3879541,Josip Iličić,Fiorentina,29.584455377782433,0.0529714223653873,False,Left Foot,Open Play,0,1,1,Normal

@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.30398159941885,0.05940536368804981,False,Right Foot,Open Play,1,1,2,Normal
-10.484750831564858,0.060095487631345805,False,Head,Open Play,0,1,6,Normal
-26.26518608348321,0.06987237427862171,False,Left Foot,Open Play,1,0,1,Volley
-28.255441953719295,0.06290672392983576,False,Right Foot,Open Play,0,0,1,Normal
-7.2532751223154355,0.05815547404764581,True,Head,Open Play,0,0,2,Normal
-30.447331574376104,0.06494536850712142,False,Left Foot,Free Kick,0,0,0,Normal
-18.001388835309346,0.0631803164505242,False,Left Foot,Open Play,0,0,1,Normal
-9.625487000666515,0.058789233296762354,False,Left Foot,Open Play,1,0,1,Volley
-16.82408987137194,0.06201518657426274,False,Left Foot,Open Play,1,0,1,Normal
-13.7800580550301,0.06137902908317214,False,Left Foot,Open Play,0,0,2,Normal
-17.24905794529081,0.06130056758869043,False,Head,Open Play,0,1,2,Normal
-17.928747864811978,0.06362705179847193,False,Right Foot,Open Play,0,0,1,Normal
-12.343824366864585,0.06104111432414719,False,Right Foot,Open Play,1,0,4,Volley
-15.697770542341352,0.06277887834867223,False,Left Foot,Open Play,0,1,2,Normal
-23.903974564912833,0.06653504431011749,False,Right Foot,Open Play,0,1,1,Normal
-26.923595599399423,0.059121307591783835,False,Left Foot,Open Play,0,0,1,Normal
-22.643321311150444,0.06724882050409876,False,Right Foot,Open Play,0,1,3,Normal
-20.523401277566055,0.06003163450540804,True,Right Foot,Open Play,1,0,0,Normal
-31.826561234289823,0.0695826940410427,False,Right Foot,Open Play,0,1,1,Normal
-28.21435804692356,0.06903134382668188,False,Left Foot,Open Play,1,1,1,Normal
-30.401480227120526,0.06793987456300966,False,Right Foot,Open Play,0,0,0,Normal
-38.382417849843705,0.05848607148250804,False,Left Foot,Open Play,0,0,1,Normal
-15.111915828246259,0.06114266556937825,False,Head,Open Play,0,1,1,Normal
-21.62706637526227,0.06654178471235421,False,Left Foot,Open Play,0,0,3,Half Volley
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-26.192556194461048,0.06707125769351942,False,Left Foot,Open Play,0,1,3,Normal
-23.96351393264352,0.0595068287792119,False,Right Foot,Free Kick,0,0,0,Normal
-4.801041553663124,0.05549735248973172,False,Head,Open Play,0,0,3,Normal
-15.606408939919522,0.053247709252750984,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900500,Cheikh N''Doye,Angers,11.30398159941885,0.05940536368804981,False,Right Foot,Open Play,1,1,2,Normal
+3900500,Cheikh N''Doye,Angers,10.484750831564858,0.060095487631345805,False,Head,Open Play,0,1,6,Normal
+3900500,Abdoul Razzagui Camara,Angers,26.26518608348321,0.06987237427862171,False,Left Foot,Open Play,1,0,1,Volley
+3900500,Abdoulaye Doucouré,Rennes,28.255441953719295,0.06290672392983576,False,Right Foot,Open Play,0,0,1,Normal
+3900500,Abdoulaye Doucouré,Rennes,7.2532751223154355,0.05815547404764581,True,Head,Open Play,0,0,2,Normal
+3900500,Thomas Mangani,Angers,30.447331574376104,0.06494536850712142,False,Left Foot,Free Kick,0,0,0,Normal
+3900500,Giovanni-Guy Yann Sio,Rennes,18.001388835309346,0.0631803164505242,False,Left Foot,Open Play,0,0,1,Normal
+3900500,Gilles Sunu,Angers,9.625487000666515,0.058789233296762354,False,Left Foot,Open Play,1,0,1,Volley
+3900500,Abdoul Razzagui Camara,Angers,16.82408987137194,0.06201518657426274,False,Left Foot,Open Play,1,0,1,Normal
+3900500,Billy Ketkeophomphone,Angers,13.7800580550301,0.06137902908317214,False,Left Foot,Open Play,0,0,2,Normal
+3900500,Cheikh N''Doye,Angers,17.24905794529081,0.06130056758869043,False,Head,Open Play,0,1,2,Normal
+3900500,Kamil Grosicki,Rennes,17.928747864811978,0.06362705179847193,False,Right Foot,Open Play,0,0,1,Normal
+3900500,Ismaël Traoré,Angers,12.343824366864585,0.06104111432414719,False,Right Foot,Open Play,1,0,4,Volley
+3900500,Gilles Sunu,Angers,15.697770542341352,0.06277887834867223,False,Left Foot,Open Play,0,1,2,Normal
+3900500,Abdoul Razzagui Camara,Angers,23.903974564912833,0.06653504431011749,False,Right Foot,Open Play,0,1,1,Normal
+3900500,Abdoul Razzagui Camara,Angers,26.923595599399423,0.059121307591783835,False,Left Foot,Open Play,0,0,1,Normal
+3900500,Kamil Grosicki,Rennes,22.643321311150444,0.06724882050409876,False,Right Foot,Open Play,0,1,3,Normal
+3900500,Gélson da Conceição Tavares Fernandes,Rennes,20.523401277566055,0.06003163450540804,True,Right Foot,Open Play,1,0,0,Normal
+3900500,Billy Ketkeophomphone,Angers,31.826561234289823,0.0695826940410427,False,Right Foot,Open Play,0,1,1,Normal
+3900500,Slimane Sissoko,Angers,28.21435804692356,0.06903134382668188,False,Left Foot,Open Play,1,1,1,Normal
+3900500,Abdoulaye Doucouré,Rennes,30.401480227120526,0.06793987456300966,False,Right Foot,Open Play,0,0,0,Normal
+3900500,Abdoul Razzagui Camara,Angers,38.382417849843705,0.05848607148250804,False,Left Foot,Open Play,0,0,1,Normal
+3900500,Slimane Sissoko,Angers,15.111915828246259,0.06114266556937825,False,Head,Open Play,0,1,1,Normal
+3900500,Kamil Grosicki,Rennes,21.62706637526227,0.06654178471235421,False,Left Foot,Open Play,0,0,3,Half Volley
+3900500,Thomas Mangani,Angers,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3900500,Mehdi Zeffane,Rennes,26.192556194461048,0.06707125769351942,False,Left Foot,Open Play,0,1,3,Normal
+3900500,Jeremie Boga,Rennes,23.96351393264352,0.0595068287792119,False,Right Foot,Free Kick,0,0,0,Normal
+3900500,Slimane Sissoko,Angers,4.801041553663124,0.05549735248973172,False,Head,Open Play,0,0,3,Normal
+3900500,Slimane Sissoko,Angers,15.606408939919522,0.053247709252750984,False,Right Foot,Open Play,0,0,1,Normal

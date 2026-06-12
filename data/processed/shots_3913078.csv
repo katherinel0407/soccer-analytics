@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.204017136723778,0.05915221228849219,False,Right Foot,Open Play,0,1,3,Half Volley
-33.97057550292605,0.06773953145351888,False,Right Foot,Open Play,0,0,2,Normal
-21.143556938225892,0.062061151283603865,False,Left Foot,Open Play,0,0,2,Normal
-16.66433316997713,0.06292566672529316,False,Right Foot,Open Play,0,1,1,Normal
-5.841232746604089,0.055499887973731614,True,Head,Open Play,0,0,5,Normal
-7.696752561957544,0.05650992538677187,False,Head,Open Play,0,1,2,Normal
-21.800000000000004,0.06682923594892586,False,Right Foot,Open Play,1,1,1,Half Volley
-13.46291201783626,0.05869963613162085,False,Head,Open Play,0,0,3,Normal
-29.51626670160033,0.07051044121429782,False,Right Foot,Open Play,0,0,1,Normal
-23.51935373261774,0.052211133363354666,False,Right Foot,Open Play,0,0,0,Normal
-12.3,0.05860626916523598,False,Head,Open Play,0,1,3,Normal
-16.102794788483152,0.06261742440370259,False,Right Foot,Open Play,0,1,1,Normal
-10.526157893552616,0.059724423495110666,False,Head,Open Play,0,0,4,Normal
-17.901117283566407,0.06287255563148186,False,Right Foot,Open Play,0,1,3,Normal
-17.07922714879101,0.06351444105681817,False,Right Foot,Open Play,1,0,1,Normal
-28.578663369723923,0.07126695991741072,False,Right Foot,Open Play,0,0,0,Half Volley
-8.06225774829855,0.05827886915945493,True,Head,Open Play,0,0,2,Normal
-15.592947123619705,0.06174103455119955,False,Left Foot,Open Play,0,0,4,Half Volley
-26.046112953759533,0.0691781657856838,False,Left Foot,Open Play,0,0,2,Normal
-8.570297544426326,0.058894151021657876,False,Head,Open Play,0,1,4,Normal
-5.166236541235795,0.057166765822129505,True,Right Foot,Open Play,1,0,1,Volley
-13.02919797992187,0.06116851739650224,False,Left Foot,Open Play,0,0,2,Half Volley
-9.289241088485108,0.05911425252497018,True,Head,Open Play,0,1,1,Normal
-18.248561587149826,0.06408307894114805,False,Right Foot,Open Play,0,0,3,Normal
-14.665946952038247,0.06232330190633702,False,Left Foot,Open Play,1,0,2,Normal
-15.805062480104281,0.0560228682232208,False,Right Foot,Open Play,0,0,1,Normal
-7.762087348130011,0.054763622622121984,False,Right Foot,Open Play,1,1,3,Half Volley
-15.51289785952322,0.06213063307127913,True,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913078,Melvine Malard,Manchester United W,11.204017136723778,0.05915221228849219,False,Right Foot,Open Play,0,1,3,Half Volley
+3913078,Hinata Miyazawa,Manchester United W,33.97057550292605,0.06773953145351888,False,Right Foot,Open Play,0,0,2,Normal
+3913078,Hinata Miyazawa,Manchester United W,21.143556938225892,0.062061151283603865,False,Left Foot,Open Play,0,0,2,Normal
+3913078,Nicoline Sørensen,Everton LFC,16.66433316997713,0.06292566672529316,False,Right Foot,Open Play,0,1,1,Normal
+3913078,Melvine Malard,Manchester United W,5.841232746604089,0.055499887973731614,True,Head,Open Play,0,0,5,Normal
+3913078,Nikita Parris,Manchester United W,7.696752561957544,0.05650992538677187,False,Head,Open Play,0,1,2,Normal
+3913078,Hannah Jayne Blundell,Manchester United W,21.800000000000004,0.06682923594892586,False,Right Foot,Open Play,1,1,1,Half Volley
+3913078,Katja Snoeijs,Everton LFC,13.46291201783626,0.05869963613162085,False,Head,Open Play,0,0,3,Normal
+3913078,Hanna Ulrika Bennison,Everton LFC,29.51626670160033,0.07051044121429782,False,Right Foot,Open Play,0,0,1,Normal
+3913078,Nicoline Sørensen,Everton LFC,23.51935373261774,0.052211133363354666,False,Right Foot,Open Play,0,0,0,Normal
+3913078,Hanna Ulrika Bennison,Everton LFC,12.3,0.05860626916523598,False,Head,Open Play,0,1,3,Normal
+3913078,Nicoline Sørensen,Everton LFC,16.102794788483152,0.06261742440370259,False,Right Foot,Open Play,0,1,1,Normal
+3913078,Nikita Parris,Manchester United W,10.526157893552616,0.059724423495110666,False,Head,Open Play,0,0,4,Normal
+3913078,Melvine Malard,Manchester United W,17.901117283566407,0.06287255563148186,False,Right Foot,Open Play,0,1,3,Normal
+3913078,Ella Toone,Manchester United W,17.07922714879101,0.06351444105681817,False,Right Foot,Open Play,1,0,1,Normal
+3913078,Hannah Jayne Blundell,Manchester United W,28.578663369723923,0.07126695991741072,False,Right Foot,Open Play,0,0,0,Half Volley
+3913078,Nikita Parris,Manchester United W,8.06225774829855,0.05827886915945493,True,Head,Open Play,0,0,2,Normal
+3913078,Hanna Ulrika Bennison,Everton LFC,15.592947123619705,0.06174103455119955,False,Left Foot,Open Play,0,0,4,Half Volley
+3913078,Katrine Veje,Everton LFC,26.046112953759533,0.0691781657856838,False,Left Foot,Open Play,0,0,2,Normal
+3913078,Megan Finnigan,Everton LFC,8.570297544426326,0.058894151021657876,False,Head,Open Play,0,1,4,Normal
+3913078,Rachel Williams,Manchester United W,5.166236541235795,0.057166765822129505,True,Right Foot,Open Play,1,0,1,Volley
+3913078,Clare Wheeler,Everton LFC,13.02919797992187,0.06116851739650224,False,Left Foot,Open Play,0,0,2,Half Volley
+3913078,Rachel Williams,Manchester United W,9.289241088485108,0.05911425252497018,True,Head,Open Play,0,1,1,Normal
+3913078,Lucía García Córdoba,Manchester United W,18.248561587149826,0.06408307894114805,False,Right Foot,Open Play,0,0,3,Normal
+3913078,Nikita Parris,Manchester United W,14.665946952038247,0.06232330190633702,False,Left Foot,Open Play,1,0,2,Normal
+3913078,Hinata Miyazawa,Manchester United W,15.805062480104281,0.0560228682232208,False,Right Foot,Open Play,0,0,1,Normal
+3913078,Hinata Miyazawa,Manchester United W,7.762087348130011,0.054763622622121984,False,Right Foot,Open Play,1,1,3,Half Volley
+3913078,Nikita Parris,Manchester United W,15.51289785952322,0.06213063307127913,True,Right Foot,Open Play,0,0,2,Half Volley

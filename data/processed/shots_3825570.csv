@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.23982109152523,0.06014221148966291,False,Right Foot,Open Play,0,0,1,Normal
-14.516542288024379,0.06204363803073912,False,Head,Open Play,0,1,3,Normal
-31.237157361066007,0.05843595593738444,False,Left Foot,Open Play,0,0,3,Normal
-28.09572921281809,0.07088823228611879,False,Right Foot,Open Play,0,1,2,Normal
-11.868024266911494,0.060482587853190516,True,Left Foot,Open Play,0,0,3,Half Volley
-17.240939649566673,0.056367152866490786,False,Right Foot,Open Play,1,1,2,Normal
-9.829038610159188,0.055183800497391994,False,Left Foot,Open Play,1,0,2,Half Volley
-28.90328701030386,0.056627828451579855,False,Right Foot,Open Play,0,0,3,Normal
-8.542833253669418,0.054736887306893606,True,Right Foot,Open Play,1,0,0,Normal
-17.810109488714545,0.06429216039370503,False,Right Foot,Open Play,0,0,2,Half Volley
-28.690416518412558,0.071304786174927,False,Left Foot,Free Kick,0,0,0,Normal
-18.700267377767627,0.0647971701810735,False,Left Foot,Open Play,1,0,0,Volley
-12.010412149464313,0.0597704225404511,False,Head,Open Play,0,0,2,Normal
-8.55862138431185,0.055110587230322874,True,Left Foot,Open Play,1,0,3,Normal
-33.83740533788014,0.0614586565118025,False,Right Foot,Open Play,0,0,0,Normal
-27.66983917553551,0.055122123155414954,False,Left Foot,Free Kick,0,0,0,Normal
-26.049952015310897,0.06218291982614659,False,Left Foot,Open Play,0,0,2,Normal
-7.1449282711585065,0.0582582532886599,False,Head,Open Play,0,1,3,Normal
-2.831960451701254,0.055115683688416565,True,Left Foot,Open Play,1,0,3,Volley
-31.988279103446626,0.05977853196272087,False,Left Foot,Open Play,0,0,1,Normal
-15.620819440733579,0.05614170276785429,False,Right Foot,Open Play,1,0,1,Normal
-20.695893312442443,0.06534018610136268,False,Right Foot,Open Play,0,0,1,Normal
-10.080674580602238,0.05936369777124403,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825570,Sergio Gontán Gallardo,Eibar,21.23982109152523,0.06014221148966291,False,Right Foot,Open Play,0,0,1,Normal
+3825570,Adrián González Morales,Eibar,14.516542288024379,0.06204363803073912,False,Head,Open Play,0,1,3,Normal
+3825570,Francisco Medina Luna,Granada,31.237157361066007,0.05843595593738444,False,Left Foot,Open Play,0,0,3,Normal
+3825570,Saúl Berjón Pérez,Eibar,28.09572921281809,0.07088823228611879,False,Right Foot,Open Play,0,1,2,Normal
+3825570,Adrián González Morales,Eibar,11.868024266911494,0.060482587853190516,True,Left Foot,Open Play,0,0,3,Half Volley
+3825570,Youssef El-Arabi,Granada,17.240939649566673,0.056367152866490786,False,Right Foot,Open Play,1,1,2,Normal
+3825570,Youssef El-Arabi,Granada,9.829038610159188,0.055183800497391994,False,Left Foot,Open Play,1,0,2,Half Volley
+3825570,Sergio Gontán Gallardo,Eibar,28.90328701030386,0.056627828451579855,False,Right Foot,Open Play,0,0,3,Normal
+3825570,Gonzalo Escalante,Eibar,8.542833253669418,0.054736887306893606,True,Right Foot,Open Play,1,0,0,Normal
+3825570,Saúl Berjón Pérez,Eibar,17.810109488714545,0.06429216039370503,False,Right Foot,Open Play,0,0,2,Half Volley
+3825570,Rubén Rochina Naixes,Granada,28.690416518412558,0.071304786174927,False,Left Foot,Free Kick,0,0,0,Normal
+3825570,Francisco Medina Luna,Granada,18.700267377767627,0.0647971701810735,False,Left Foot,Open Play,1,0,0,Volley
+3825570,Robert Ibáñez Castro,Granada,12.010412149464313,0.0597704225404511,False,Head,Open Play,0,0,2,Normal
+3825570,Rubén Rochina Naixes,Granada,8.55862138431185,0.055110587230322874,True,Left Foot,Open Play,1,0,3,Normal
+3825570,Hugo Miguel Almeida Costa Lopes,Granada,33.83740533788014,0.0614586565118025,False,Right Foot,Open Play,0,0,0,Normal
+3825570,Javier Márquez Moreno,Granada,27.66983917553551,0.055122123155414954,False,Left Foot,Free Kick,0,0,0,Normal
+3825570,Rubén Rochina Naixes,Granada,26.049952015310897,0.06218291982614659,False,Left Foot,Open Play,0,0,2,Normal
+3825570,Jean-Sylvain Claude Babin,Granada,7.1449282711585065,0.0582582532886599,False,Head,Open Play,0,1,3,Normal
+3825570,Mikel Arruabarrena Aranbide,Eibar,2.831960451701254,0.055115683688416565,True,Left Foot,Open Play,1,0,3,Volley
+3825570,Rubén Rochina Naixes,Granada,31.988279103446626,0.05977853196272087,False,Left Foot,Open Play,0,0,1,Normal
+3825570,Ander Capa Rodríguez,Eibar,15.620819440733579,0.05614170276785429,False,Right Foot,Open Play,1,0,1,Normal
+3825570,Edgar Antonio Méndez Ortega,Granada,20.695893312442443,0.06534018610136268,False,Right Foot,Open Play,0,0,1,Normal
+3825570,Borja González Tomás,Eibar,10.080674580602238,0.05936369777124403,False,Head,Open Play,0,0,2,Normal

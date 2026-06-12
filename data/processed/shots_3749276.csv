@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.021086409075131,0.05930893155025547,False,Head,Open Play,0,1,2,Normal
-10.288342918079666,0.05357148324758236,True,Right Foot,Open Play,1,0,1,Normal
-12.902712893031453,0.05253220538923669,False,Right Foot,Open Play,1,0,2,Volley
-17.611927776367924,0.06418336651370332,False,Right Foot,Open Play,1,0,2,Half Volley
-22.011133546457803,0.06369552645921793,False,Left Foot,Open Play,0,1,2,Normal
-8.188406438373704,0.05759692621945956,False,Head,Open Play,0,1,5,Normal
-22.37073981789606,0.064129322785694,False,Left Foot,Open Play,1,0,1,Volley
-14.402777509911067,0.06219011151978574,True,Left Foot,Open Play,1,0,2,Normal
-8.926925562588721,0.052809137596015465,False,Head,Open Play,0,0,1,Normal
-3.9698866482558426,0.055232331046874424,False,Head,Open Play,0,0,6,Normal
-28.104448046528145,0.06668779766429266,False,Left Foot,Open Play,0,0,0,Half Volley
-9.682974749528164,0.05467133423306669,True,Left Foot,Open Play,0,0,2,Normal
-40.422394783090226,0.047153733420269996,False,Right Foot,Open Play,0,0,0,Lob
-11.843141475132347,0.06024122749173378,False,Left Foot,Open Play,0,0,2,Normal
-18.84489320744482,0.06309206656372324,False,Right Foot,Open Play,1,1,1,Half Volley
-28.84024965217881,0.05589283594466293,False,Right Foot,Open Play,0,0,2,Normal
-9.308598175880187,0.058342790553011725,False,Head,Open Play,0,1,4,Normal
-15.079124643028853,0.06255849635129648,False,Left Foot,Open Play,1,1,2,Half Volley
-7.564390259630983,0.056505917205046975,False,Head,Open Play,0,1,4,Normal
-25.70311265197271,0.0645673294759743,False,Left Foot,Open Play,1,0,1,Normal
-31.51031577118833,0.07215578516671815,False,Right Foot,Open Play,0,0,0,Normal
-22.0081802973349,0.06374147763365455,False,Right Foot,Open Play,0,0,2,Normal
-9.442986815621428,0.05821267160192237,False,Right Foot,Open Play,1,0,4,Volley
-34.36815386371518,0.07440715961916408,False,Right Foot,Free Kick,0,0,0,Normal
-23.586648765774253,0.05656301512115888,False,Right Foot,Open Play,0,0,1,Normal
-14.0089257261219,0.053945361748285924,False,Right Foot,Open Play,0,0,1,Normal
-8.91852005660132,0.05724476957575867,False,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749276,Adrian Mutu,Chelsea,9.021086409075131,0.05930893155025547,False,Head,Open Play,0,1,2,Normal
+3749276,Eiður Smári Guðjohnsen,Chelsea,10.288342918079666,0.05357148324758236,True,Right Foot,Open Play,1,0,1,Normal
+3749276,William Gallas,Chelsea,12.902712893031453,0.05253220538923669,False,Right Foot,Open Play,1,0,2,Volley
+3749276,Thierry Henry,Arsenal,17.611927776367924,0.06418336651370332,False,Right Foot,Open Play,1,0,2,Half Volley
+3749276,Sulzeer Jeremiah ''Sol' Campbell,Arsenal,22.011133546457803,0.06369552645921793,False,Left Foot,Open Play,0,1,2,Normal
+3749276,William Gallas,Chelsea,8.188406438373704,0.05759692621945956,False,Head,Open Play,0,1,5,Normal
+3749276,Thierry Henry,Arsenal,22.37073981789606,0.064129322785694,False,Left Foot,Open Play,1,0,1,Volley
+3749276,Patrick Vieira,Arsenal,14.402777509911067,0.06219011151978574,True,Left Foot,Open Play,1,0,2,Normal
+3749276,Eiður Smári Guðjohnsen,Chelsea,8.926925562588721,0.052809137596015465,False,Head,Open Play,0,0,1,Normal
+3749276,Mario Melchiot,Chelsea,3.9698866482558426,0.055232331046874424,False,Head,Open Play,0,0,6,Normal
+3749276,Eduardo César Daude Gaspar,Arsenal,28.104448046528145,0.06668779766429266,False,Left Foot,Open Play,0,0,0,Half Volley
+3749276,Eduardo César Daude Gaspar,Arsenal,9.682974749528164,0.05467133423306669,True,Left Foot,Open Play,0,0,2,Normal
+3749276,Dennis Bergkamp,Arsenal,40.422394783090226,0.047153733420269996,False,Right Foot,Open Play,0,0,0,Lob
+3749276,John Terry,Chelsea,11.843141475132347,0.06024122749173378,False,Left Foot,Open Play,0,0,2,Normal
+3749276,Claude Makélélé,Chelsea,18.84489320744482,0.06309206656372324,False,Right Foot,Open Play,1,1,1,Half Volley
+3749276,Robert Pirès,Arsenal,28.84024965217881,0.05589283594466293,False,Right Foot,Open Play,0,0,2,Normal
+3749276,Kolo Habib Touré,Arsenal,9.308598175880187,0.058342790553011725,False,Head,Open Play,0,1,4,Normal
+3749276,Wayne Bridge,Chelsea,15.079124643028853,0.06255849635129648,False,Left Foot,Open Play,1,1,2,Half Volley
+3749276,"Gérémi Sorele N""Djitap Fotso",Chelsea,7.564390259630983,0.056505917205046975,False,Head,Open Play,0,1,4,Normal
+3749276,Scott Parker,Chelsea,25.70311265197271,0.0645673294759743,False,Left Foot,Open Play,1,0,1,Normal
+3749276,Claude Makélélé,Chelsea,31.51031577118833,0.07215578516671815,False,Right Foot,Open Play,0,0,0,Normal
+3749276,Frank Lampard,Chelsea,22.0081802973349,0.06374147763365455,False,Right Foot,Open Play,0,0,2,Normal
+3749276,William Gallas,Chelsea,9.442986815621428,0.05821267160192237,False,Right Foot,Open Play,1,0,4,Volley
+3749276,"Gérémi Sorele N""Djitap Fotso",Chelsea,34.36815386371518,0.07440715961916408,False,Right Foot,Free Kick,0,0,0,Normal
+3749276,Gilberto Aparecido da Silva,Arsenal,23.586648765774253,0.05656301512115888,False,Right Foot,Open Play,0,0,1,Normal
+3749276,Gilberto Aparecido da Silva,Arsenal,14.0089257261219,0.053945361748285924,False,Right Foot,Open Play,0,0,1,Normal
+3749276,Patrick Vieira,Arsenal,8.91852005660132,0.05724476957575867,False,Head,Open Play,0,1,5,Normal

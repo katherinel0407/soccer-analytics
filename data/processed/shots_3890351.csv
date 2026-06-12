@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.297590011563596,0.058911075754781446,False,Head,Open Play,0,1,3,Normal
-16.44384383287557,0.06299109995515778,False,Right Foot,Open Play,1,0,3,Volley
-15.621779668142805,0.05881159684624546,False,Head,Open Play,0,1,2,Normal
-21.246176126540984,0.06301328310705404,False,Right Foot,Open Play,0,0,1,Normal
-18.717104476921637,0.06315645170129956,True,Left Foot,Open Play,0,0,0,Normal
-18.370900903330792,0.061223998076014016,True,Right Foot,Open Play,0,0,4,Normal
-10.929318368498565,0.05941225202765181,False,Head,Open Play,0,0,1,Normal
-3.8470768123342727,0.05668338330786566,False,Head,Open Play,0,0,6,Normal
-26.256046922566238,0.05920728524291169,False,Left Foot,Open Play,0,0,3,Normal
-30.82401661042895,0.07223581619907028,False,Right Foot,Open Play,0,0,1,Normal
-33.37573969217761,0.05298130174584067,False,Right Foot,Open Play,1,0,0,Half Volley
-20.05617112013158,0.062435535356785456,False,Right Foot,Open Play,0,0,1,Half Volley
-12.034118164618468,0.05729466570695271,False,Head,Open Play,0,0,3,Normal
-11.900000000000006,0.05954970314276759,True,Left Foot,Penalty,0,0,0,Normal
-11.374093370462543,0.05997907632373767,False,Right Foot,Open Play,0,0,1,Normal
-30.186255150316345,0.07106786287485142,False,Right Foot,Open Play,0,0,1,Normal
-23.35294413987238,0.0678458782251931,False,Right Foot,Open Play,1,0,1,Normal
-26.527155897306443,0.05931032248849066,False,Left Foot,Open Play,0,0,2,Normal
-21.1123186789135,0.06061955799465659,False,Left Foot,Open Play,1,0,2,Volley
-25.935689695861186,0.0692174592931804,False,Left Foot,Open Play,0,0,2,Normal
-8.729833904490961,0.05769203218743654,False,Head,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-21.99386278033034,0.065238812318268,False,Right Foot,Open Play,0,0,0,Half Volley
-24.340295807569806,0.05615807734159398,False,Left Foot,Open Play,0,0,2,Normal
-15.523530526268825,0.05292932641194845,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890351,Salomon Armand Magloire Kalou,Hertha Berlin,8.297590011563596,0.058911075754781446,False,Head,Open Play,0,1,3,Normal
+3890351,Lars Edi Stindl,Borussia Mönchengladbach,16.44384383287557,0.06299109995515778,False,Right Foot,Open Play,1,0,3,Volley
+3890351,Salomon Armand Magloire Kalou,Hertha Berlin,15.621779668142805,0.05881159684624546,False,Head,Open Play,0,1,2,Normal
+3890351,Raffael Caetano de Araújo,Borussia Mönchengladbach,21.246176126540984,0.06301328310705404,False,Right Foot,Open Play,0,0,1,Normal
+3890351,Oscar Wendt,Borussia Mönchengladbach,18.717104476921637,0.06315645170129956,True,Left Foot,Open Play,0,0,0,Normal
+3890351,Raffael Caetano de Araújo,Borussia Mönchengladbach,18.370900903330792,0.061223998076014016,True,Right Foot,Open Play,0,0,4,Normal
+3890351,Salomon Armand Magloire Kalou,Hertha Berlin,10.929318368498565,0.05941225202765181,False,Head,Open Play,0,0,1,Normal
+3890351,Tolga Ciğerci,Hertha Berlin,3.8470768123342727,0.05668338330786566,False,Head,Open Play,0,0,6,Normal
+3890351,Ibrahima Traoré,Borussia Mönchengladbach,26.256046922566238,0.05920728524291169,False,Left Foot,Open Play,0,0,3,Normal
+3890351,Mahmoud Dahoud,Borussia Mönchengladbach,30.82401661042895,0.07223581619907028,False,Right Foot,Open Play,0,0,1,Normal
+3890351,Håvard Nordtveit,Borussia Mönchengladbach,33.37573969217761,0.05298130174584067,False,Right Foot,Open Play,1,0,0,Half Volley
+3890351,Genki Haraguchi,Hertha Berlin,20.05617112013158,0.062435535356785456,False,Right Foot,Open Play,0,0,1,Half Volley
+3890351,Valentin Stocker,Hertha Berlin,12.034118164618468,0.05729466570695271,False,Head,Open Play,0,0,3,Normal
+3890351,Granit Xhaka,Borussia Mönchengladbach,11.900000000000006,0.05954970314276759,True,Left Foot,Penalty,0,0,0,Normal
+3890351,Alexander Baumjohann,Hertha Berlin,11.374093370462543,0.05997907632373767,False,Right Foot,Open Play,0,0,1,Normal
+3890351,Tolga Ciğerci,Hertha Berlin,30.186255150316345,0.07106786287485142,False,Right Foot,Open Play,0,0,1,Normal
+3890351,Lars Edi Stindl,Borussia Mönchengladbach,23.35294413987238,0.0678458782251931,False,Right Foot,Open Play,1,0,1,Normal
+3890351,Valentin Stocker,Hertha Berlin,26.527155897306443,0.05931032248849066,False,Left Foot,Open Play,0,0,2,Normal
+3890351,Ronny Heberson Furtado de Araújo,Hertha Berlin,21.1123186789135,0.06061955799465659,False,Left Foot,Open Play,1,0,2,Volley
+3890351,Ronny Heberson Furtado de Araújo,Hertha Berlin,25.935689695861186,0.0692174592931804,False,Left Foot,Open Play,0,0,2,Normal
+3890351,Mitchell Weiser,Hertha Berlin,8.729833904490961,0.05769203218743654,False,Head,Open Play,0,1,1,Normal
+3890351,Alexander Baumjohann,Hertha Berlin,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3890351,Alexander Baumjohann,Hertha Berlin,21.99386278033034,0.065238812318268,False,Right Foot,Open Play,0,0,0,Half Volley
+3890351,Ibrahima Traoré,Borussia Mönchengladbach,24.340295807569806,0.05615807734159398,False,Left Foot,Open Play,0,0,2,Normal
+3890351,Håvard Nordtveit,Borussia Mönchengladbach,15.523530526268825,0.05292932641194845,True,Right Foot,Open Play,1,0,2,Normal

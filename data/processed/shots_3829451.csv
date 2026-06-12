@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.960659010233009,0.05682733249782953,False,Right Foot,Open Play,1,1,2,Volley
-28.0941275002446,0.07122169806134009,False,Right Foot,Open Play,0,0,2,Normal
-24.243968322038377,0.057225722924212755,False,Right Foot,Open Play,1,0,1,Normal
-14.74109900923266,0.060315483522143505,False,Right Foot,Open Play,1,1,3,Volley
-14.624978632463026,0.05917400534126731,False,Right Foot,Open Play,0,0,2,Normal
-12.120231020900555,0.0603605227844874,False,Right Foot,Open Play,1,1,3,Normal
-11.144954015158604,0.05886287051434889,False,Right Foot,Open Play,1,0,2,Normal
-10.656922632730327,0.0599443258649449,False,Head,Open Play,0,1,3,Normal
-19.45096398639409,0.0572073865344639,False,Right Foot,Open Play,0,1,1,Half Volley
-3.640054944640259,0.05589893236481733,False,Head,Open Play,0,0,5,Normal
-5.742821606144493,0.05763502996960819,True,Right Foot,Open Play,1,0,2,Half Volley
-34.02822357984619,0.07497548129333698,False,Right Foot,Open Play,0,0,2,Normal
-31.42689930616764,0.05648210359567605,False,Right Foot,Open Play,0,0,1,Normal
-32.10249211509911,0.0709574480904814,False,Right Foot,Open Play,0,0,1,Normal
-16.322070947033655,0.056111502503466165,False,Right Foot,Open Play,1,0,2,Normal
-12.387897319561542,0.06008665033393367,True,Left Foot,Open Play,1,0,2,Half Volley
-22.02294258267955,0.056090449038641965,False,Left Foot,Open Play,0,1,3,Normal
-37.51386410382167,0.07439726139006732,False,Left Foot,Open Play,0,0,0,Normal
-5.246903848937966,0.05706430957517776,False,Head,Open Play,0,1,5,Normal
-34.03762623920769,0.06896852933038852,False,Right Foot,Open Play,0,1,1,Normal
-9.827003612495515,0.05921438069236292,False,Left Foot,Open Play,1,0,5,Normal
-11.66919020326604,0.0606229790043939,False,Head,Open Play,0,0,1,Normal
-32.50846043724617,0.05639970787508487,True,Right Foot,Open Play,0,0,2,Normal
-26.537709019431194,0.06349397084538166,False,Right Foot,Open Play,0,0,0,Normal
-22.053117693423754,0.05824136086687681,False,Right Foot,Open Play,0,1,3,Normal
-22.999347816840366,0.06013416652133298,False,Left Foot,Open Play,0,1,3,Normal
-30.008332176247315,0.07060440686619933,False,Left Foot,Open Play,0,0,0,Normal
-19.474342094150447,0.06532160725659311,False,Right Foot,Open Play,0,0,1,Normal
-33.005454094740166,0.059039515843653245,False,Right Foot,Open Play,0,0,1,Normal
-27.064737205448722,0.058558349709548825,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829451,Nolan Roux,Saint-Étienne,13.960659010233009,0.05682733249782953,False,Right Foot,Open Play,1,1,2,Volley
+3829451,Valentin Eysseric,Saint-Étienne,28.0941275002446,0.07122169806134009,False,Right Foot,Open Play,0,0,2,Normal
+3829451,Romain Hamouma,Saint-Étienne,24.243968322038377,0.057225722924212755,False,Right Foot,Open Play,1,0,1,Normal
+3829451,Floyd Ayité,Bastia,14.74109900923266,0.060315483522143505,False,Right Foot,Open Play,1,1,3,Volley
+3829451,Nolan Roux,Saint-Étienne,14.624978632463026,0.05917400534126731,False,Right Foot,Open Play,0,0,2,Normal
+3829451,Jean-Christophe Bahebeck,Saint-Étienne,12.120231020900555,0.0603605227844874,False,Right Foot,Open Play,1,1,3,Normal
+3829451,Jean-Christophe Bahebeck,Saint-Étienne,11.144954015158604,0.05886287051434889,False,Right Foot,Open Play,1,0,2,Normal
+3829451,Florentin Pogba,Saint-Étienne,10.656922632730327,0.0599443258649449,False,Head,Open Play,0,1,3,Normal
+3829451,Romain Hamouma,Saint-Étienne,19.45096398639409,0.0572073865344639,False,Right Foot,Open Play,0,1,1,Half Volley
+3829451,Loïc Perrin,Saint-Étienne,3.640054944640259,0.05589893236481733,False,Head,Open Play,0,0,5,Normal
+3829451,Loïc Perrin,Saint-Étienne,5.742821606144493,0.05763502996960819,True,Right Foot,Open Play,1,0,2,Half Volley
+3829451,Nolan Roux,Saint-Étienne,34.02822357984619,0.07497548129333698,False,Right Foot,Open Play,0,0,2,Normal
+3829451,François Kamano,Bastia,31.42689930616764,0.05648210359567605,False,Right Foot,Open Play,0,0,1,Normal
+3829451,Jean-Christophe Bahebeck,Saint-Étienne,32.10249211509911,0.0709574480904814,False,Right Foot,Open Play,0,0,1,Normal
+3829451,Yannick Cahuzac,Bastia,16.322070947033655,0.056111502503466165,False,Right Foot,Open Play,1,0,2,Normal
+3829451,Gaël Danic,Bastia,12.387897319561542,0.06008665033393367,True,Left Foot,Open Play,1,0,2,Half Volley
+3829451,Floyd Ayité,Bastia,22.02294258267955,0.056090449038641965,False,Left Foot,Open Play,0,1,3,Normal
+3829451,Benoît Assou-Ekotto,Saint-Étienne,37.51386410382167,0.07439726139006732,False,Left Foot,Open Play,0,0,0,Normal
+3829451,Nolan Roux,Saint-Étienne,5.246903848937966,0.05706430957517776,False,Head,Open Play,0,1,5,Normal
+3829451,Lassana Coulibaly,Bastia,34.03762623920769,0.06896852933038852,False,Right Foot,Open Play,0,1,1,Normal
+3829451,Nolan Roux,Saint-Étienne,9.827003612495515,0.05921438069236292,False,Left Foot,Open Play,1,0,5,Normal
+3829451,Kévin Monnet-Paquet,Saint-Étienne,11.66919020326604,0.0606229790043939,False,Head,Open Play,0,0,1,Normal
+3829451,Valentin Eysseric,Saint-Étienne,32.50846043724617,0.05639970787508487,True,Right Foot,Open Play,0,0,2,Normal
+3829451,Ismaël Tiémoko Diomandé,Saint-Étienne,26.537709019431194,0.06349397084538166,False,Right Foot,Open Play,0,0,0,Normal
+3829451,Nolan Roux,Saint-Étienne,22.053117693423754,0.05824136086687681,False,Right Foot,Open Play,0,1,3,Normal
+3829451,Kévin Monnet-Paquet,Saint-Étienne,22.999347816840366,0.06013416652133298,False,Left Foot,Open Play,0,1,3,Normal
+3829451,Valentin Eysseric,Saint-Étienne,30.008332176247315,0.07060440686619933,False,Left Foot,Open Play,0,0,0,Normal
+3829451,Valentin Eysseric,Saint-Étienne,19.474342094150447,0.06532160725659311,False,Right Foot,Open Play,0,0,1,Normal
+3829451,Ismaël Tiémoko Diomandé,Saint-Étienne,33.005454094740166,0.059039515843653245,False,Right Foot,Open Play,0,0,1,Normal
+3829451,Nolan Roux,Saint-Étienne,27.064737205448722,0.058558349709548825,False,Right Foot,Open Play,0,0,1,Normal

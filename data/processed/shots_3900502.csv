@@ -1,44 +1,44 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.30772404161333,0.06759917730780778,False,Left Foot,Open Play,0,0,2,Normal
-31.631787809101144,0.07370655504623047,False,Left Foot,Open Play,0,0,0,Half Volley
-18.78004259846074,0.06328928208616746,False,Left Foot,Open Play,1,0,1,Normal
-22.073740054644116,0.05366349369621652,False,Right Foot,Open Play,0,1,1,Normal
-33.31321059279637,0.06308900351074224,False,Left Foot,Open Play,0,0,1,Normal
-25.742183279589945,0.0539746854227309,False,Right Foot,Open Play,0,0,1,Normal
-29.962810282081346,0.07214369363187019,False,Right Foot,Open Play,0,0,0,Half Volley
-25.709920264364882,0.06828734828432545,False,Left Foot,Open Play,0,1,2,Normal
-17.801685313475236,0.06286828212773053,False,Right Foot,Open Play,0,1,1,Normal
-16.50848266801041,0.06141287600732447,False,Left Foot,Open Play,0,0,1,Normal
-16.20493751916372,0.05645440262761406,False,Left Foot,Open Play,0,1,2,Normal
-24.196280705926686,0.06840466034095859,False,Left Foot,Open Play,1,0,0,Half Volley
-20.604125800431326,0.06046733257594114,True,Right Foot,Open Play,1,0,1,Half Volley
-29.904681907687966,0.06640148293897905,False,Left Foot,Open Play,1,0,0,Half Volley
-28.1966310044303,0.05973621431549453,False,Right Foot,Open Play,1,0,1,Normal
-23.472963170422265,0.05582447968256616,False,Right Foot,Open Play,1,1,1,Half Volley
-23.410467744152406,0.06738555284661396,False,Left Foot,Open Play,0,0,2,Normal
-21.103791128610037,0.06377627333901038,False,Right Foot,Open Play,0,0,2,Normal
-10.248902380255169,0.058498962668997394,False,Left Foot,Open Play,1,0,2,Half Volley
-19.160375779195977,0.060479642060132864,False,Right Foot,Open Play,0,1,2,Half Volley
-23.256181973832252,0.0677558159649424,False,Left Foot,Open Play,0,0,1,Half Volley
-22.215760171553885,0.05698459649602074,False,Right Foot,Open Play,1,0,2,Normal
-16.070158679988193,0.054676839487911875,False,Right Foot,Open Play,1,0,0,Volley
-23.461670869739855,0.061295646985973735,False,Right Foot,Open Play,0,0,1,Normal
-7.627581530209948,0.055886896908677854,False,Head,Open Play,0,0,1,Normal
-4.527692569068711,0.05702456262188981,True,Head,Open Play,0,0,2,Normal
-17.564737401965342,0.06288537879342429,False,Left Foot,Open Play,1,0,0,Normal
-9.167878707749145,0.05903970278578423,False,Head,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-19.555561868685846,0.05311791114856987,False,Left Foot,Open Play,1,0,0,Normal
-23.943683927081903,0.06811519385204817,False,Right Foot,Open Play,0,1,3,Normal
-26.299999999999997,0.06606852077663367,False,Left Foot,Open Play,0,0,2,Normal
-23.721087664776253,0.0643381908932752,False,Left Foot,Open Play,1,0,0,Volley
-11.423659658795868,0.06059007892037224,True,Left Foot,Open Play,0,0,2,Normal
-20.436486977951958,0.05466331618354805,False,Left Foot,Open Play,0,0,2,Normal
-33.22965543005223,0.0670565880166075,False,Right Foot,Open Play,0,0,2,Normal
-20.88923167567443,0.05758756081203122,False,Left Foot,Open Play,0,0,3,Normal
-29.267387994148027,0.07209583079168756,False,Left Foot,Open Play,0,1,1,Normal
-20.862646045025066,0.05491597779195382,False,Right Foot,Open Play,0,0,4,Normal
-11.46342008302932,0.05323131176250687,False,Right Foot,Open Play,0,0,2,Normal
-12.034118164618457,0.059853082540623784,False,Right Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-22.120578654275754,0.06574353875081229,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900502,Yann Jouffre,Lorient,23.30772404161333,0.06759917730780778,False,Left Foot,Open Play,0,0,2,Normal
+3900502,Raphaël Adelino José Guerreiro,Lorient,31.631787809101144,0.07370655504623047,False,Left Foot,Open Play,0,0,0,Half Volley
+3900502,Benjamin Jeannot,Lorient,18.78004259846074,0.06328928208616746,False,Left Foot,Open Play,1,0,1,Normal
+3900502,Benjamin Jeannot,Lorient,22.073740054644116,0.05366349369621652,False,Right Foot,Open Play,0,1,1,Normal
+3900502,Fabien Camus,Troyes,33.31321059279637,0.06308900351074224,False,Left Foot,Open Play,0,0,1,Normal
+3900502,Benjamin Moukandjo Bilé,Lorient,25.742183279589945,0.0539746854227309,False,Right Foot,Open Play,0,0,1,Normal
+3900502,Benjamin Jeannot,Lorient,29.962810282081346,0.07214369363187019,False,Right Foot,Open Play,0,0,0,Half Volley
+3900502,Yann Jouffre,Lorient,25.709920264364882,0.06828734828432545,False,Left Foot,Open Play,0,1,2,Normal
+3900502,Maxime Barthelmé,Lorient,17.801685313475236,0.06286828212773053,False,Right Foot,Open Play,0,1,1,Normal
+3900502,Yann Jouffre,Lorient,16.50848266801041,0.06141287600732447,False,Left Foot,Open Play,0,0,1,Normal
+3900502,Yann Jouffre,Lorient,16.20493751916372,0.05645440262761406,False,Left Foot,Open Play,0,1,2,Normal
+3900502,Lamine Koné,Lorient,24.196280705926686,0.06840466034095859,False,Left Foot,Open Play,1,0,0,Half Volley
+3900502,Benjamin Jeannot,Lorient,20.604125800431326,0.06046733257594114,True,Right Foot,Open Play,1,0,1,Half Volley
+3900502,Yann Jouffre,Lorient,29.904681907687966,0.06640148293897905,False,Left Foot,Open Play,1,0,0,Half Volley
+3900502,Didier Ndong Ibrahim,Lorient,28.1966310044303,0.05973621431549453,False,Right Foot,Open Play,1,0,1,Normal
+3900502,Jimmy Cabot,Troyes,23.472963170422265,0.05582447968256616,False,Right Foot,Open Play,1,1,1,Half Volley
+3900502,Maxime Barthelmé,Lorient,23.410467744152406,0.06738555284661396,False,Left Foot,Open Play,0,0,2,Normal
+3900502,Jessy Pi,Troyes,21.103791128610037,0.06377627333901038,False,Right Foot,Open Play,0,0,2,Normal
+3900502,Brayan Andrés Perea Vargas,Troyes,10.248902380255169,0.058498962668997394,False,Left Foot,Open Play,1,0,2,Half Volley
+3900502,Jimmy Cabot,Troyes,19.160375779195977,0.060479642060132864,False,Right Foot,Open Play,0,1,2,Half Volley
+3900502,Yoann Court,Troyes,23.256181973832252,0.0677558159649424,False,Left Foot,Open Play,0,0,1,Half Volley
+3900502,Jimmy Cabot,Troyes,22.215760171553885,0.05698459649602074,False,Right Foot,Open Play,1,0,2,Normal
+3900502,Benjamin Jeannot,Lorient,16.070158679988193,0.054676839487911875,False,Right Foot,Open Play,1,0,0,Volley
+3900502,Benjamin Moukandjo Bilé,Lorient,23.461670869739855,0.061295646985973735,False,Right Foot,Open Play,0,0,1,Normal
+3900502,Brayan Andrés Perea Vargas,Troyes,7.627581530209948,0.055886896908677854,False,Head,Open Play,0,0,1,Normal
+3900502,Benjamin Moukandjo Bilé,Lorient,4.527692569068711,0.05702456262188981,True,Head,Open Play,0,0,2,Normal
+3900502,Yann Jouffre,Lorient,17.564737401965342,0.06288537879342429,False,Left Foot,Open Play,1,0,0,Normal
+3900502,Calvin Anele Ngcongca,Troyes,9.167878707749145,0.05903970278578423,False,Head,Open Play,0,0,2,Normal
+3900502,Benjamin Nivet,Troyes,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3900502,Yann Jouffre,Lorient,19.555561868685846,0.05311791114856987,False,Left Foot,Open Play,1,0,0,Normal
+3900502,Walid Mesloub,Lorient,23.943683927081903,0.06811519385204817,False,Right Foot,Open Play,0,1,3,Normal
+3900502,Jessy Pi,Troyes,26.299999999999997,0.06606852077663367,False,Left Foot,Open Play,0,0,2,Normal
+3900502,Yann Jouffre,Lorient,23.721087664776253,0.0643381908932752,False,Left Foot,Open Play,1,0,0,Volley
+3900502,Didier Ndong Ibrahim,Lorient,11.423659658795868,0.06059007892037224,True,Left Foot,Open Play,0,0,2,Normal
+3900502,Yann Jouffre,Lorient,20.436486977951958,0.05466331618354805,False,Left Foot,Open Play,0,0,2,Normal
+3900502,Walid Mesloub,Lorient,33.22965543005223,0.0670565880166075,False,Right Foot,Open Play,0,0,2,Normal
+3900502,Yann Jouffre,Lorient,20.88923167567443,0.05758756081203122,False,Left Foot,Open Play,0,0,3,Normal
+3900502,Yoann Court,Troyes,29.267387994148027,0.07209583079168756,False,Left Foot,Open Play,0,1,1,Normal
+3900502,Walid Mesloub,Lorient,20.862646045025066,0.05491597779195382,False,Right Foot,Open Play,0,0,4,Normal
+3900502,Didier Ndong Ibrahim,Lorient,11.46342008302932,0.05323131176250687,False,Right Foot,Open Play,0,0,2,Normal
+3900502,Benjamin Moukandjo Bilé,Lorient,12.034118164618457,0.059853082540623784,False,Right Foot,Open Play,0,0,2,Normal
+3900502,Benjamin Moukandjo Bilé,Lorient,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3900502,Karim Azamoum,Troyes,22.120578654275754,0.06574353875081229,False,Right Foot,Open Play,0,1,1,Normal

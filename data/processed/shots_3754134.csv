@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.029255147726131,0.06109959615243847,False,Right Foot,Open Play,1,0,2,Overhead Kick
-15.700318468107582,0.062044321094738474,True,Left Foot,Open Play,1,1,1,Normal
-28.08629559055448,0.06572581222371311,False,Right Foot,Open Play,1,0,0,Volley
-15.890248582070704,0.05969411356746114,False,Left Foot,Open Play,1,0,1,Volley
-19.612496016570656,0.0632101327874691,False,Right Foot,Open Play,1,0,2,Half Volley
-20.336420530663705,0.06532806752404974,False,Left Foot,Open Play,0,0,0,Normal
-28.2349074728429,0.07130212466361892,False,Right Foot,Open Play,0,0,1,Normal
-25.21923868795409,0.0633923319951726,False,Right Foot,Open Play,0,0,1,Normal
-15.7664200121651,0.06283321977504107,False,Right Foot,Open Play,0,0,1,Normal
-25.76373420139246,0.06426080439364894,False,Right Foot,Open Play,0,0,0,Normal
-7.752418977325725,0.05753945850826487,False,Head,Open Play,0,0,5,Normal
-28.082912954321536,0.0651380419069242,False,Right Foot,Open Play,1,0,0,Volley
-6.212889826803629,0.05786872981124245,True,Right Foot,Open Play,1,0,2,Normal
-23.377339455121927,0.06219650855049291,False,Right Foot,Open Play,1,0,0,Normal
-7.779460135510685,0.05861128008948092,False,Head,Open Play,0,0,1,Normal
-12.66688596301395,0.060312714238495026,False,Head,Open Play,0,0,3,Normal
-26.223081436017388,0.06987918189117735,False,Right Foot,Free Kick,0,0,0,Normal
-13.640014662748717,0.0597756515216107,True,Left Foot,Open Play,0,1,1,Normal
-31.477134558278973,0.07169523234697396,False,Right Foot,Free Kick,0,0,0,Normal
-7.158910531638173,0.05618436571512384,True,Right Foot,Open Play,0,0,2,Normal
-8.249242389456134,0.05890063718693274,True,Head,Open Play,0,1,3,Normal
-8.357032966310468,0.05883033017330647,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754134,Manuel Lanzini,West Ham United,14.029255147726131,0.06109959615243847,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3754134,Diafra Sakho,West Ham United,15.700318468107582,0.062044321094738474,True,Left Foot,Open Play,1,1,1,Normal
+3754134,Mark Noble,West Ham United,28.08629559055448,0.06572581222371311,False,Right Foot,Open Play,1,0,0,Volley
+3754134,Angelo Obinze Ogbonna,West Ham United,15.890248582070704,0.05969411356746114,False,Left Foot,Open Play,1,0,1,Volley
+3754134,Dimitri Payet,West Ham United,19.612496016570656,0.0632101327874691,False,Right Foot,Open Play,1,0,2,Half Volley
+3754134,Andy Carroll,West Ham United,20.336420530663705,0.06532806752404974,False,Left Foot,Open Play,0,0,0,Normal
+3754134,Wayne Mark Rooney,Manchester United,28.2349074728429,0.07130212466361892,False,Right Foot,Open Play,0,0,1,Normal
+3754134,Manuel Lanzini,West Ham United,25.21923868795409,0.0633923319951726,False,Right Foot,Open Play,0,0,1,Normal
+3754134,Dimitri Payet,West Ham United,15.7664200121651,0.06283321977504107,False,Right Foot,Open Play,0,0,1,Normal
+3754134,Michail Antonio,West Ham United,25.76373420139246,0.06426080439364894,False,Right Foot,Open Play,0,0,0,Normal
+3754134,Diafra Sakho,West Ham United,7.752418977325725,0.05753945850826487,False,Head,Open Play,0,0,5,Normal
+3754134,Dimitri Payet,West Ham United,28.082912954321536,0.0651380419069242,False,Right Foot,Open Play,1,0,0,Volley
+3754134,Anthony Martial,Manchester United,6.212889826803629,0.05786872981124245,True,Right Foot,Open Play,1,0,2,Normal
+3754134,Dimitri Payet,West Ham United,23.377339455121927,0.06219650855049291,False,Right Foot,Open Play,1,0,0,Normal
+3754134,Diafra Sakho,West Ham United,7.779460135510685,0.05861128008948092,False,Head,Open Play,0,0,1,Normal
+3754134,Andy Carroll,West Ham United,12.66688596301395,0.060312714238495026,False,Head,Open Play,0,0,3,Normal
+3754134,Dimitri Payet,West Ham United,26.223081436017388,0.06987918189117735,False,Right Foot,Free Kick,0,0,0,Normal
+3754134,Anthony Martial,Manchester United,13.640014662748717,0.0597756515216107,True,Left Foot,Open Play,0,1,1,Normal
+3754134,Dimitri Payet,West Ham United,31.477134558278973,0.07169523234697396,False,Right Foot,Free Kick,0,0,0,Normal
+3754134,Michail Antonio,West Ham United,7.158910531638173,0.05618436571512384,True,Right Foot,Open Play,0,0,2,Normal
+3754134,Winston Reid,West Ham United,8.249242389456134,0.05890063718693274,True,Head,Open Play,0,1,3,Normal
+3754134,Cheikhou Kouyaté,West Ham United,8.357032966310468,0.05883033017330647,False,Head,Open Play,0,1,3,Normal

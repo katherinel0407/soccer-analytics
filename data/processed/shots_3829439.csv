@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.1637678967368,0.05766727804020475,False,Right Foot,Open Play,0,1,4,Volley
-11.650321883965265,0.060123015532916345,False,Head,Open Play,0,0,1,Normal
-12.433824833895644,0.061086908013644727,False,Head,Open Play,0,1,3,Normal
-7.592759709091292,0.0571590967717103,False,Head,Open Play,0,1,5,Normal
-10.761505470890214,0.06023110875268578,False,Head,Open Play,0,0,1,Normal
-4.903060268852503,0.05638865334574963,True,Left Foot,Open Play,1,0,3,Half Volley
-40.53566331022597,0.07472030881007573,False,Right Foot,Free Kick,0,0,0,Normal
-13.951702405083042,0.05476623770290069,False,Head,Open Play,0,0,1,Normal
-13.640014662748717,0.05422779048434602,False,Right Foot,Open Play,0,0,1,Normal
-31.904388412881385,0.05989320285480359,False,Right Foot,Open Play,0,0,2,Normal
-11.229425630903831,0.06019451601695988,False,Head,Open Play,0,1,1,Normal
-28.178892810044903,0.056868948116802195,False,Left Foot,Open Play,0,0,1,Normal
-27.144244325455073,0.07041047686200184,False,Right Foot,Open Play,0,0,0,Normal
-10.621205204683694,0.059840144716861055,False,Other,Open Play,1,0,2,Normal
-20.867678356731492,0.06499641580688065,False,Right Foot,Open Play,1,0,1,Volley
-11.844407963254223,0.05565978460253492,False,Left Foot,Open Play,1,0,0,Volley
-5.032891812864643,0.057269993501653516,False,Right Foot,Open Play,1,0,2,Half Volley
-24.741261083461367,0.06880525100929313,False,Right Foot,Open Play,1,1,1,Half Volley
-23.162469643800936,0.0637283713796582,True,Left Foot,Open Play,0,0,2,Normal
-17.438463235044534,0.058604830427129335,False,Right Foot,Open Play,1,0,1,Half Volley
-21.900913222968583,0.06680006915018565,False,Right Foot,Open Play,0,1,1,Half Volley
-11.646887996370536,0.06060070767476512,False,Right Foot,Open Play,0,1,4,Half Volley
-20.461182761512102,0.05642294324499753,False,Left Foot,Open Play,1,0,3,Normal
-12.682665335015345,0.05622290400297042,False,Right Foot,Open Play,1,0,1,Backheel
-11.458621208504974,0.05300802402526421,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829439,Martin Braithwaite Christensen,Toulouse,19.1637678967368,0.05766727804020475,False,Right Foot,Open Play,0,1,4,Volley
+3829439,Martin Braithwaite Christensen,Toulouse,11.650321883965265,0.060123015532916345,False,Head,Open Play,0,0,1,Normal
+3829439,Guido Marcelo Carrillo,AS Monaco,12.433824833895644,0.061086908013644727,False,Head,Open Play,0,1,3,Normal
+3829439,Guido Marcelo Carrillo,AS Monaco,7.592759709091292,0.0571590967717103,False,Head,Open Play,0,1,5,Normal
+3829439,Stephan El Shaarawy,AS Monaco,10.761505470890214,0.06023110875268578,False,Head,Open Play,0,0,1,Normal
+3829439,Tongo Hamed Doumbia,Toulouse,4.903060268852503,0.05638865334574963,True,Left Foot,Open Play,1,0,3,Half Volley
+3829439,Wissam Ben Yedder,Toulouse,40.53566331022597,0.07472030881007573,False,Right Foot,Free Kick,0,0,0,Normal
+3829439,Martin Braithwaite Christensen,Toulouse,13.951702405083042,0.05476623770290069,False,Head,Open Play,0,0,1,Normal
+3829439,Stephan El Shaarawy,AS Monaco,13.640014662748717,0.05422779048434602,False,Right Foot,Open Play,0,0,1,Normal
+3829439,Farès Bahlouli,AS Monaco,31.904388412881385,0.05989320285480359,False,Right Foot,Open Play,0,0,2,Normal
+3829439,Guido Marcelo Carrillo,AS Monaco,11.229425630903831,0.06019451601695988,False,Head,Open Play,0,1,1,Normal
+3829439,Nabil Dirar,AS Monaco,28.178892810044903,0.056868948116802195,False,Left Foot,Open Play,0,0,1,Normal
+3829439,Stephan El Shaarawy,AS Monaco,27.144244325455073,0.07041047686200184,False,Right Foot,Open Play,0,0,0,Normal
+3829439,Tongo Hamed Doumbia,Toulouse,10.621205204683694,0.059840144716861055,False,Other,Open Play,1,0,2,Normal
+3829439,Stephan El Shaarawy,AS Monaco,20.867678356731492,0.06499641580688065,False,Right Foot,Open Play,1,0,1,Volley
+3829439,Nabil Dirar,AS Monaco,11.844407963254223,0.05565978460253492,False,Left Foot,Open Play,1,0,0,Volley
+3829439,Martin Braithwaite Christensen,Toulouse,5.032891812864643,0.057269993501653516,False,Right Foot,Open Play,1,0,2,Half Volley
+3829439,Martin Braithwaite Christensen,Toulouse,24.741261083461367,0.06880525100929313,False,Right Foot,Open Play,1,1,1,Half Volley
+3829439,Thomas Lemar,AS Monaco,23.162469643800936,0.0637283713796582,True,Left Foot,Open Play,0,0,2,Normal
+3829439,Martin Braithwaite Christensen,Toulouse,17.438463235044534,0.058604830427129335,False,Right Foot,Open Play,1,0,1,Half Volley
+3829439,Martin Braithwaite Christensen,Toulouse,21.900913222968583,0.06680006915018565,False,Right Foot,Open Play,0,1,1,Half Volley
+3829439,Guido Marcelo Carrillo,AS Monaco,11.646887996370536,0.06060070767476512,False,Right Foot,Open Play,0,1,4,Half Volley
+3829439,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,20.461182761512102,0.05642294324499753,False,Left Foot,Open Play,1,0,3,Normal
+3829439,Guido Marcelo Carrillo,AS Monaco,12.682665335015345,0.05622290400297042,False,Right Foot,Open Play,1,0,1,Backheel
+3829439,Martin Braithwaite Christensen,Toulouse,11.458621208504974,0.05300802402526421,False,Right Foot,Open Play,0,1,1,Normal

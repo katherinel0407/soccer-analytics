@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.32984292226132,0.0677453066236219,True,Left Foot,Open Play,0,1,1,Normal
-7.045565981523413,0.05580475965852873,False,Head,Open Play,0,0,7,Normal
-20.693960471596537,0.056718139069518156,False,Right Foot,Open Play,0,0,4,Lob
-18.110770276274835,0.06423085272908774,False,Left Foot,Open Play,0,0,3,Half Volley
-9.211405973031479,0.054235523741577675,True,Right Foot,Open Play,1,0,0,Normal
-8.009993757800315,0.05782247576943414,False,Head,Open Play,0,1,3,Normal
-13.014607178090321,0.06141483141089858,False,Left Foot,Open Play,0,1,2,Normal
-12.72006289292628,0.06131254280824054,False,Head,Open Play,0,1,2,Normal
-13.776792079435618,0.054530242846105456,True,Left Foot,Open Play,1,0,1,Normal
-30.18691769624716,0.07277450993462775,False,Right Foot,Open Play,0,0,0,Normal
-25.379716310471245,0.0692672822044958,False,Right Foot,Open Play,0,1,2,Normal
-24.536707195546835,0.06796104473567262,False,Left Foot,Open Play,0,0,1,Normal
-7.621679604916494,0.05842418132779252,True,Head,Open Play,0,1,2,Normal
-9.767292357659821,0.055011955660544794,False,Left Foot,Open Play,1,0,2,Volley
-8.860022573334675,0.053222803626727794,False,Head,Open Play,0,1,2,Normal
-17.61391495380854,0.05136465693464231,False,Right Foot,Open Play,0,1,1,Normal
-12.070211265756704,0.060793085408043505,False,Left Foot,Open Play,1,1,3,Normal
-7.46324326281811,0.058320831760435815,False,Head,Open Play,0,1,3,Normal
-16.642415690037303,0.06314365089407832,False,Left Foot,Open Play,0,1,2,Normal
-24.671440979399645,0.06730535799752405,False,Left Foot,Open Play,0,0,3,Normal
-21.128653530218145,0.06408608047289302,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879868,Matteo Politano,Sassuolo,28.32984292226132,0.0677453066236219,True,Left Foot,Open Play,0,1,1,Normal
+3879868,Eder Citadin Martins,Inter Milan,7.045565981523413,0.05580475965852873,False,Head,Open Play,0,0,7,Normal
+3879868,Rodrigo Sebastián Palacio,Inter Milan,20.693960471596537,0.056718139069518156,False,Right Foot,Open Play,0,0,4,Lob
+3879868,Gregoire Defrel,Sassuolo,18.110770276274835,0.06423085272908774,False,Left Foot,Open Play,0,0,3,Half Volley
+3879868,Lorenzo Pellegrini,Sassuolo,9.211405973031479,0.054235523741577675,True,Right Foot,Open Play,1,0,0,Normal
+3879868,Eder Citadin Martins,Inter Milan,8.009993757800315,0.05782247576943414,False,Head,Open Play,0,1,3,Normal
+3879868,Stevan Jovetić,Inter Milan,13.014607178090321,0.06141483141089858,False,Left Foot,Open Play,0,1,2,Normal
+3879868,Jeison Fabián Murillo Cerón,Inter Milan,12.72006289292628,0.06131254280824054,False,Head,Open Play,0,1,2,Normal
+3879868,Rodrigo Sebastián Palacio,Inter Milan,13.776792079435618,0.054530242846105456,True,Left Foot,Open Play,1,0,1,Normal
+3879868,Stevan Jovetić,Inter Milan,30.18691769624716,0.07277450993462775,False,Right Foot,Open Play,0,0,0,Normal
+3879868,Stevan Jovetić,Inter Milan,25.379716310471245,0.0692672822044958,False,Right Foot,Open Play,0,1,2,Normal
+3879868,Joseph Alfred Duncan,Sassuolo,24.536707195546835,0.06796104473567262,False,Left Foot,Open Play,0,0,1,Normal
+3879868,Matteo Politano,Sassuolo,7.621679604916494,0.05842418132779252,True,Head,Open Play,0,1,2,Normal
+3879868,Jeison Fabián Murillo Cerón,Inter Milan,9.767292357659821,0.055011955660544794,False,Left Foot,Open Play,1,0,2,Volley
+3879868,Jeison Fabián Murillo Cerón,Inter Milan,8.860022573334675,0.053222803626727794,False,Head,Open Play,0,1,2,Normal
+3879868,Eder Citadin Martins,Inter Milan,17.61391495380854,0.05136465693464231,False,Right Foot,Open Play,0,1,1,Normal
+3879868,Joseph Alfred Duncan,Sassuolo,12.070211265756704,0.060793085408043505,False,Left Foot,Open Play,1,1,3,Normal
+3879868,Federico Peluso,Sassuolo,7.46324326281811,0.058320831760435815,False,Head,Open Play,0,1,3,Normal
+3879868,Diego Falcinelli,Sassuolo,16.642415690037303,0.06314365089407832,False,Left Foot,Open Play,0,1,2,Normal
+3879868,Diego Falcinelli,Sassuolo,24.671440979399645,0.06730535799752405,False,Left Foot,Open Play,0,0,3,Normal
+3879868,Stevan Jovetić,Inter Milan,21.128653530218145,0.06408608047289302,False,Right Foot,Free Kick,0,0,0,Normal

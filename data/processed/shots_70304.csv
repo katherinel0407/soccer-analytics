@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.842326394071193,0.06194377264312744,True,Left Foot,Open Play,0,0,3,Normal
-11.542096863222035,0.05451787122041023,True,Right Foot,Open Play,0,1,2,Normal
-20.930838492521033,0.06475856591124361,True,Left Foot,Open Play,0,0,3,Normal
-19.321490625725545,0.05186726194878534,False,Left Foot,Open Play,0,0,2,Normal
-16.800297616411438,0.06169550036927743,False,Left Foot,Open Play,0,0,3,Half Volley
-7.877182237323195,0.05627253155439009,False,Head,Open Play,0,1,4,Normal
-10.707007051459337,0.05968521997581341,False,Left Foot,Open Play,1,0,1,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-8.590692637965818,0.057512534929471344,False,Head,Open Play,0,1,2,Normal
-17.19563898202099,0.06368167922418715,True,Right Foot,Open Play,1,0,1,Half Volley
-16.98528775146303,0.05537792566298653,True,Right Foot,Open Play,1,0,1,Normal
-26.604698833100887,0.06647061686283022,True,Right Foot,Free Kick,0,0,0,Normal
-12.01041214946431,0.060589085841747235,False,Head,Open Play,0,0,2,Normal
-27.43446737226732,0.06079987292431219,False,Left Foot,Free Kick,0,0,0,Normal
-14.713938969562165,0.06229315873583079,False,Left Foot,Open Play,1,0,2,Normal
-25.351331325987598,0.05548422807111888,False,Left Foot,Open Play,0,0,1,Normal
-22.992390045404154,0.052366125990846495,False,Left Foot,Open Play,0,0,2,Normal
-20.122127124138736,0.06551619080042795,True,Left Foot,Open Play,0,0,3,Normal
-25.09760944791356,0.06882160274480276,False,Right Foot,Free Kick,0,0,0,Normal
-20.035967658189108,0.05839246892809605,False,Right Foot,Open Play,1,0,1,Volley
-21.840329667841555,0.06558138756540156,False,Right Foot,Open Play,0,1,1,Normal
-16.999999999999996,0.05626613918636247,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70304,Jordi Alba Ramos,Barcelona,13.842326394071193,0.06194377264312744,True,Left Foot,Open Play,0,0,3,Normal
+70304,Cristian Tello Herrera,Barcelona,11.542096863222035,0.05451787122041023,True,Right Foot,Open Play,0,1,2,Normal
+70304,Lionel Andrés Messi Cuccittini,Barcelona,20.930838492521033,0.06475856591124361,True,Left Foot,Open Play,0,0,3,Normal
+70304,Iván Sánchez Rico Soto,RC Deportivo La Coruña,19.321490625725545,0.05186726194878534,False,Left Foot,Open Play,0,0,2,Normal
+70304,Alejandro Bergantiños García,RC Deportivo La Coruña,16.800297616411438,0.06169550036927743,False,Left Foot,Open Play,0,0,3,Half Volley
+70304,Carlos Marchena López,RC Deportivo La Coruña,7.877182237323195,0.05627253155439009,False,Head,Open Play,0,1,4,Normal
+70304,Lionel Andrés Messi Cuccittini,Barcelona,10.707007051459337,0.05968521997581341,False,Left Foot,Open Play,1,0,1,Normal
+70304,Luís Miguel Afonso Fernandes,RC Deportivo La Coruña,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+70304,Iván Sánchez Rico Soto,RC Deportivo La Coruña,8.590692637965818,0.057512534929471344,False,Head,Open Play,0,1,2,Normal
+70304,Alejandro Bergantiños García,RC Deportivo La Coruña,17.19563898202099,0.06368167922418715,True,Right Foot,Open Play,1,0,1,Half Volley
+70304,Lionel Andrés Messi Cuccittini,Barcelona,16.98528775146303,0.05537792566298653,True,Right Foot,Open Play,1,0,1,Normal
+70304,Luís Miguel Afonso Fernandes,RC Deportivo La Coruña,26.604698833100887,0.06647061686283022,True,Right Foot,Free Kick,0,0,0,Normal
+70304,José Eduardo Rosa Vale de Castro,RC Deportivo La Coruña,12.01041214946431,0.060589085841747235,False,Head,Open Play,0,0,2,Normal
+70304,Lionel Andrés Messi Cuccittini,Barcelona,27.43446737226732,0.06079987292431219,False,Left Foot,Free Kick,0,0,0,Normal
+70304,Pedro Eliezer Rodríguez Ledesma,Barcelona,14.713938969562165,0.06229315873583079,False,Left Foot,Open Play,1,0,2,Normal
+70304,Luís Miguel Afonso Fernandes,RC Deportivo La Coruña,25.351331325987598,0.05548422807111888,False,Left Foot,Open Play,0,0,1,Normal
+70304,Iván Sánchez Rico Soto,RC Deportivo La Coruña,22.992390045404154,0.052366125990846495,False,Left Foot,Open Play,0,0,2,Normal
+70304,Lionel Andrés Messi Cuccittini,Barcelona,20.122127124138736,0.06551619080042795,True,Left Foot,Open Play,0,0,3,Normal
+70304,Xavier Hernández Creus,Barcelona,25.09760944791356,0.06882160274480276,False,Right Foot,Free Kick,0,0,0,Normal
+70304,José Eduardo Rosa Vale de Castro,RC Deportivo La Coruña,20.035967658189108,0.05839246892809605,False,Right Foot,Open Play,1,0,1,Volley
+70304,Nélson Miguel Castro Oliveira,RC Deportivo La Coruña,21.840329667841555,0.06558138756540156,False,Right Foot,Open Play,0,1,1,Normal
+70304,Pedro Eliezer Rodríguez Ledesma,Barcelona,16.999999999999996,0.05626613918636247,False,Right Foot,Open Play,0,0,3,Normal

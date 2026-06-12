@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.780036730914855,0.06676647269930511,True,Right Foot,Open Play,0,0,2,Normal
-17.42641672863357,0.05708854163051889,False,Head,Open Play,0,0,2,Normal
-22.1812984290821,0.06580001241852379,False,Right Foot,Open Play,1,0,1,Normal
-17.61192777636792,0.06319137464442554,False,Left Foot,Open Play,0,0,2,Normal
-25.26064132202506,0.06167068398955724,False,Left Foot,Free Kick,0,0,1,Normal
-8.58020978764506,0.059082252549956096,False,Left Foot,Open Play,1,0,0,Normal
-28.434486104025158,0.07025850780284043,False,Right Foot,Free Kick,0,0,0,Normal
-10.722872749408157,0.058806325036219895,True,Head,Open Play,0,0,3,Normal
-20.81970220728433,0.06591539410830585,True,Right Foot,Open Play,1,0,0,Normal
-12.40040321925058,0.0597955806941623,False,Right Foot,Open Play,0,0,3,Normal
-9.377099764852668,0.05887937677026263,False,Head,Open Play,0,1,4,Normal
-13.78441148544253,0.05382008702696345,False,Right Foot,Open Play,1,0,3,Half Volley
-10.90412765882719,0.059238598979920884,False,Head,Open Play,0,1,5,Normal
-15.54252231782216,0.05387941227679606,True,Left Foot,Open Play,0,0,1,Normal
-11.771151175649724,0.06012606734112701,False,Left Foot,Open Play,1,0,2,Normal
-13.984634424968004,0.06203478493809675,True,Right Foot,Open Play,0,0,2,Lob
-11.18302284715542,0.05824534465379745,False,Head,Open Play,0,0,2,Normal
-8.141252974819048,0.056383030771116824,False,Left Foot,Open Play,0,0,3,Half Volley
-25.8909250510676,0.06822394792834938,False,Right Foot,Open Play,0,0,1,Normal
-10.049875621120888,0.056413095294570954,False,Head,Open Play,0,0,4,Normal
-8.015609770940705,0.05845745913411468,False,Left Foot,Open Play,1,0,1,Volley
-31.890123863039477,0.05887712189309394,False,Left Foot,Free Kick,0,0,0,Normal
-17.949373248110923,0.06437607987930354,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69333,Francesc Fàbregas i Soler,Barcelona,21.780036730914855,0.06676647269930511,True,Right Foot,Open Play,0,0,2,Normal
+69333,Xavier Torres Buigues,Levante UD,17.42641672863357,0.05708854163051889,False,Head,Open Play,0,0,2,Normal
+69333,Andrés Iniesta Luján,Barcelona,22.1812984290821,0.06580001241852379,False,Right Foot,Open Play,1,0,1,Normal
+69333,Lionel Andrés Messi Cuccittini,Barcelona,17.61192777636792,0.06319137464442554,False,Left Foot,Open Play,0,0,2,Normal
+69333,Lionel Andrés Messi Cuccittini,Barcelona,25.26064132202506,0.06167068398955724,False,Left Foot,Free Kick,0,0,1,Normal
+69333,Carles Puyol i Saforcada,Barcelona,8.58020978764506,0.059082252549956096,False,Left Foot,Open Play,1,0,0,Normal
+69333,Xavier Hernández Creus,Barcelona,28.434486104025158,0.07025850780284043,False,Right Foot,Free Kick,0,0,0,Normal
+69333,Francesc Fàbregas i Soler,Barcelona,10.722872749408157,0.058806325036219895,True,Head,Open Play,0,0,3,Normal
+69333,Juan Isaac Cuenca López,Barcelona,20.81970220728433,0.06591539410830585,True,Right Foot,Open Play,1,0,0,Normal
+69333,Arouna Koné,Levante UD,12.40040321925058,0.0597955806941623,False,Right Foot,Open Play,0,0,3,Normal
+69333,Asier del Horno Cosgaya,Levante UD,9.377099764852668,0.05887937677026263,False,Head,Open Play,0,1,4,Normal
+69333,Francesc Fàbregas i Soler,Barcelona,13.78441148544253,0.05382008702696345,False,Right Foot,Open Play,1,0,3,Half Volley
+69333,Asier del Horno Cosgaya,Levante UD,10.90412765882719,0.059238598979920884,False,Head,Open Play,0,1,5,Normal
+69333,Lionel Andrés Messi Cuccittini,Barcelona,15.54252231782216,0.05387941227679606,True,Left Foot,Open Play,0,0,1,Normal
+69333,Lionel Andrés Messi Cuccittini,Barcelona,11.771151175649724,0.06012606734112701,False,Left Foot,Open Play,1,0,2,Normal
+69333,Alexis Alejandro Sánchez Sánchez,Barcelona,13.984634424968004,0.06203478493809675,True,Right Foot,Open Play,0,0,2,Lob
+69333,Alexis Alejandro Sánchez Sánchez,Barcelona,11.18302284715542,0.05824534465379745,False,Head,Open Play,0,0,2,Normal
+69333,Lionel Andrés Messi Cuccittini,Barcelona,8.141252974819048,0.056383030771116824,False,Left Foot,Open Play,0,0,3,Half Volley
+69333,Xavier Hernández Creus,Barcelona,25.8909250510676,0.06822394792834938,False,Right Foot,Open Play,0,0,1,Normal
+69333,Alexis Alejandro Sánchez Sánchez,Barcelona,10.049875621120888,0.056413095294570954,False,Head,Open Play,0,0,4,Normal
+69333,Lionel Andrés Messi Cuccittini,Barcelona,8.015609770940705,0.05845745913411468,False,Left Foot,Open Play,1,0,1,Volley
+69333,Rubén Suárez Estrada,Levante UD,31.890123863039477,0.05887712189309394,False,Left Foot,Free Kick,0,0,0,Normal
+69333,Pedro Eliezer Rodríguez Ledesma,Barcelona,17.949373248110923,0.06437607987930354,False,Left Foot,Open Play,0,0,0,Normal

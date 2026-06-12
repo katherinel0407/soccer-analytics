@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.406449935416662,0.05970295646525467,False,Left Foot,Open Play,0,1,1,Normal
-8.052949770115289,0.058780123411925005,False,Right Foot,Open Play,1,1,2,Overhead Kick
-23.813441582434066,0.0644808483579903,False,Right Foot,Open Play,1,1,1,Normal
-21.200943375236864,0.05822645039263758,False,Right Foot,Open Play,0,0,2,Normal
-26.503584663211125,0.0695318850157213,False,Right Foot,Open Play,0,0,0,Normal
-11.543396380615194,0.060031354981370695,False,Right Foot,Open Play,1,0,3,Normal
-17.710166571774536,0.06323899465844995,False,Right Foot,Open Play,0,0,3,Half Volley
-11.548592987892507,0.05988032707648779,False,Left Foot,Open Play,1,0,1,Volley
-15.684705926474997,0.06252964120620974,True,Left Foot,Open Play,1,0,0,Normal
-13.705838172107537,0.061877328706449894,False,Left Foot,Open Play,0,0,1,Half Volley
-24.95696295625732,0.06203631713604646,False,Left Foot,Open Play,0,1,2,Normal
-14.27620397724829,0.054478178893853146,False,Right Foot,Open Play,1,0,2,Normal
-23.052114870440843,0.06278217496702863,False,Right Foot,Open Play,0,0,2,Normal
-21.18584433059018,0.06477820169147469,False,Left Foot,Open Play,0,1,2,Normal
-19.14001044931794,0.05746746114847847,False,Left Foot,Open Play,0,0,2,Normal
-8.947066558375427,0.05671651214972468,False,Head,Open Play,0,1,3,Normal
-27.012959852633703,0.068323863485438,False,Left Foot,Open Play,0,0,1,Normal
-29.00017241328058,0.06734897905831266,False,Right Foot,Open Play,1,1,2,Lob
-17.088300090997937,0.06226175630333727,False,Left Foot,Open Play,1,0,2,Normal
-23.399999999999995,0.05960439219797381,True,Left Foot,Open Play,1,0,0,Normal
-16.367040050051813,0.05599774909746436,False,Left Foot,Open Play,1,0,0,Normal
-9.546203433826454,0.05947620845160818,True,Right Foot,Open Play,1,0,3,Normal
-11.272089424769483,0.05751152047518541,False,Head,Open Play,0,0,3,Normal
-6.87677249878168,0.05818616213069394,False,Head,Open Play,0,1,2,Normal
-7.040596565632778,0.05706480856205636,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3943043,Nicholas Williams Arthuer,Spain,12.406449935416662,0.05970295646525467,False,Left Foot,Open Play,0,1,1,Normal
+3943043,Robin Aime Robert Le Normand,Spain,8.052949770115289,0.058780123411925005,False,Right Foot,Open Play,1,1,2,Overhead Kick
+3943043,Declan Rice,England,23.813441582434066,0.0644808483579903,False,Right Foot,Open Play,1,1,1,Normal
+3943043,Fabián Ruiz Peña,Spain,21.200943375236864,0.05822645039263758,False,Right Foot,Open Play,0,0,2,Normal
+3943043,Daniel Olmo Carvajal,Spain,26.503584663211125,0.0695318850157213,False,Right Foot,Open Play,0,0,0,Normal
+3943043,Álvaro Borja Morata Martín,Spain,11.543396380615194,0.060031354981370695,False,Right Foot,Open Play,1,0,3,Normal
+3943043,Harry Kane,England,17.710166571774536,0.06323899465844995,False,Right Foot,Open Play,0,0,3,Half Volley
+3943043,Phil Foden,England,11.548592987892507,0.05988032707648779,False,Left Foot,Open Play,1,0,1,Volley
+3943043,Nicholas Williams Arthuer,Spain,15.684705926474997,0.06252964120620974,True,Left Foot,Open Play,1,0,0,Normal
+3943043,Daniel Olmo Carvajal,Spain,13.705838172107537,0.061877328706449894,False,Left Foot,Open Play,0,0,1,Half Volley
+3943043,Álvaro Borja Morata Martín,Spain,24.95696295625732,0.06203631713604646,False,Left Foot,Open Play,0,1,2,Normal
+3943043,Álvaro Borja Morata Martín,Spain,14.27620397724829,0.054478178893853146,False,Right Foot,Open Play,1,0,2,Normal
+3943043,Nicholas Williams Arthuer,Spain,23.052114870440843,0.06278217496702863,False,Right Foot,Open Play,0,0,2,Normal
+3943043,Jude Bellingham,England,21.18584433059018,0.06477820169147469,False,Left Foot,Open Play,0,1,2,Normal
+3943043,Lamine Yamal Nasraoui Ebana,Spain,19.14001044931794,0.05746746114847847,False,Left Foot,Open Play,0,0,2,Normal
+3943043,Aymeric Laporte,Spain,8.947066558375427,0.05671651214972468,False,Head,Open Play,0,1,3,Normal
+3943043,Fabián Ruiz Peña,Spain,27.012959852633703,0.068323863485438,False,Left Foot,Open Play,0,0,1,Normal
+3943043,Ollie Watkins,England,29.00017241328058,0.06734897905831266,False,Right Foot,Open Play,1,1,2,Lob
+3943043,Mikel Oyarzabal Ugarte,Spain,17.088300090997937,0.06226175630333727,False,Left Foot,Open Play,1,0,2,Normal
+3943043,Cole Palmer,England,23.399999999999995,0.05960439219797381,True,Left Foot,Open Play,1,0,0,Normal
+3943043,Lamine Yamal Nasraoui Ebana,Spain,16.367040050051813,0.05599774909746436,False,Left Foot,Open Play,1,0,0,Normal
+3943043,Mikel Oyarzabal Ugarte,Spain,9.546203433826454,0.05947620845160818,True,Right Foot,Open Play,1,0,3,Normal
+3943043,Declan Rice,England,11.272089424769483,0.05751152047518541,False,Head,Open Play,0,0,3,Normal
+3943043,Marc Guehi,England,6.87677249878168,0.05818616213069394,False,Head,Open Play,0,1,2,Normal
+3943043,Declan Rice,England,7.040596565632778,0.05706480856205636,False,Head,Open Play,0,0,4,Normal

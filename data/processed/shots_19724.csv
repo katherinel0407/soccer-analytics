@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.082762530298219,0.057472679332615344,False,Head,Open Play,0,0,2,Normal
-8.602325267042627,0.055904217137125255,False,Head,Open Play,0,0,1,Normal
-19.026297590440446,0.06305958792019607,False,Right Foot,Open Play,0,0,2,Normal
-7.280109889280518,0.05818657105361519,True,Head,Open Play,0,0,2,Normal
-21.213203435596427,0.054702205026093,False,Right Foot,Open Play,0,0,1,Normal
-9.055385138137417,0.05801923208647489,False,Head,Open Play,0,0,2,Normal
-1.0,0.055258766604164025,True,Right Foot,Open Play,0,0,2,Normal
-17.69180601295413,0.06400943786694582,False,Right Foot,Open Play,0,0,0,Normal
-12.165525060596439,0.06029976687390507,True,Right Foot,Open Play,0,0,3,Normal
-13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,0,0,2,Normal
-15.231546211727817,0.058105521868089045,False,Right Foot,Open Play,0,0,1,Normal
-32.2490309931942,0.05805697438676386,False,Right Foot,Open Play,0,0,0,Normal
-8.06225774829855,0.057624201777450715,False,Left Foot,Open Play,0,0,2,Normal
-2.23606797749979,0.05469035855109797,True,Left Foot,Open Play,0,0,4,Normal
-22.360679774997898,0.05855580607534376,False,Right Foot,Free Kick,0,0,0,Normal
-9.848857801796104,0.0588837603223269,False,Left Foot,Open Play,0,0,0,Normal
-28.0,0.06690491840941816,False,Right Foot,Open Play,0,0,1,Normal
-9.219544457292887,0.0576777719680193,False,Right Foot,Open Play,1,0,2,Volley
-12.36931687685298,0.05223940548991243,False,Right Foot,Open Play,0,0,1,Normal
-15.620499351813308,0.06290668439967836,False,Head,Open Play,0,0,2,Normal
-7.0710678118654755,0.05723344719965163,False,Right Foot,Open Play,0,0,3,Normal
-3.0,0.056007231776386834,True,Right Foot,Open Play,0,0,6,Normal
-23.706539182259394,0.05842911053288737,False,Left Foot,Open Play,0,0,2,Normal
-32.38826948140329,0.07180448344787009,True,Right Foot,Open Play,0,0,1,Normal
-18.681541692269406,0.06006488713675577,False,Right Foot,Open Play,0,0,1,Normal
-13.601470508735444,0.0614419142999389,False,Right Foot,Open Play,0,0,2,Normal
-9.486832980505138,0.057332220024372375,False,Head,Open Play,0,0,1,Normal
-34.92849839314596,0.07647602668356762,False,Right Foot,Open Play,0,0,0,Normal
-28.460498941515414,0.04833638334812483,True,Left Foot,Free Kick,0,0,0,Normal
-24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,2,Normal
-22.20360331117452,0.05650511766052872,False,Right Foot,Open Play,0,0,3,Normal
-29.68164415931166,0.07240436293722485,False,Right Foot,Open Play,0,0,0,Normal
-30.23243291566195,0.056657544938809014,False,Right Foot,Open Play,0,1,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19724,Vivianne Miedema,Arsenal WFC,6.082762530298219,0.057472679332615344,False,Head,Open Play,0,0,2,Normal
+19724,Jane Ross,West Ham United LFC,8.602325267042627,0.055904217137125255,False,Head,Open Play,0,0,1,Normal
+19724,Vivianne Miedema,Arsenal WFC,19.026297590440446,0.06305958792019607,False,Right Foot,Open Play,0,0,2,Normal
+19724,Kate Longhurst,West Ham United LFC,7.280109889280518,0.05818657105361519,True,Head,Open Play,0,0,2,Normal
+19724,Vivianne Miedema,Arsenal WFC,21.213203435596427,0.054702205026093,False,Right Foot,Open Play,0,0,1,Normal
+19724,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,9.055385138137417,0.05801923208647489,False,Head,Open Play,0,0,2,Normal
+19724,Danielle van de Donk,Arsenal WFC,1.0,0.055258766604164025,True,Right Foot,Open Play,0,0,2,Normal
+19724,Leanne Kiernan,West Ham United LFC,17.69180601295413,0.06400943786694582,False,Right Foot,Open Play,0,0,0,Normal
+19724,Kate Longhurst,West Ham United LFC,12.165525060596439,0.06029976687390507,True,Right Foot,Open Play,0,0,3,Normal
+19724,Jordan Nobbs,Arsenal WFC,13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,0,0,2,Normal
+19724,Vivianne Miedema,Arsenal WFC,15.231546211727817,0.058105521868089045,False,Right Foot,Open Play,0,0,1,Normal
+19724,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,32.2490309931942,0.05805697438676386,False,Right Foot,Open Play,0,0,0,Normal
+19724,Louise Quinn,Arsenal WFC,8.06225774829855,0.057624201777450715,False,Left Foot,Open Play,0,0,2,Normal
+19724,Danielle van de Donk,Arsenal WFC,2.23606797749979,0.05469035855109797,True,Left Foot,Open Play,0,0,4,Normal
+19724,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,22.360679774997898,0.05855580607534376,False,Right Foot,Free Kick,0,0,0,Normal
+19724,Vivianne Miedema,Arsenal WFC,9.848857801796104,0.0588837603223269,False,Left Foot,Open Play,0,0,0,Normal
+19724,Kim Little,Arsenal WFC,28.0,0.06690491840941816,False,Right Foot,Open Play,0,0,1,Normal
+19724,Jane Ross,West Ham United LFC,9.219544457292887,0.0576777719680193,False,Right Foot,Open Play,1,0,2,Volley
+19724,Vivianne Miedema,Arsenal WFC,12.36931687685298,0.05223940548991243,False,Right Foot,Open Play,0,0,1,Normal
+19724,Vivianne Miedema,Arsenal WFC,15.620499351813308,0.06290668439967836,False,Head,Open Play,0,0,2,Normal
+19724,Danielle van de Donk,Arsenal WFC,7.0710678118654755,0.05723344719965163,False,Right Foot,Open Play,0,0,3,Normal
+19724,Danielle van de Donk,Arsenal WFC,3.0,0.056007231776386834,True,Right Foot,Open Play,0,0,6,Normal
+19724,Alisha Lehmann,West Ham United LFC,23.706539182259394,0.05842911053288737,False,Left Foot,Open Play,0,0,2,Normal
+19724,Kim Little,Arsenal WFC,32.38826948140329,0.07180448344787009,True,Right Foot,Open Play,0,0,1,Normal
+19724,Lia Wälti,Arsenal WFC,18.681541692269406,0.06006488713675577,False,Right Foot,Open Play,0,0,1,Normal
+19724,Vivianne Miedema,Arsenal WFC,13.601470508735444,0.0614419142999389,False,Right Foot,Open Play,0,0,2,Normal
+19724,Vivianne Miedema,Arsenal WFC,9.486832980505138,0.057332220024372375,False,Head,Open Play,0,0,1,Normal
+19724,Danielle van de Donk,Arsenal WFC,34.92849839314596,0.07647602668356762,False,Right Foot,Open Play,0,0,0,Normal
+19724,Claire Lauren Rafferty,West Ham United LFC,28.460498941515414,0.04833638334812483,True,Left Foot,Free Kick,0,0,0,Normal
+19724,Jordan Nobbs,Arsenal WFC,24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,2,Normal
+19724,Kim Little,Arsenal WFC,22.20360331117452,0.05650511766052872,False,Right Foot,Open Play,0,0,3,Normal
+19724,Bethany Mead,Arsenal WFC,29.68164415931166,0.07240436293722485,False,Right Foot,Open Play,0,0,0,Normal
+19724,Brianna Visalli,West Ham United LFC,30.23243291566195,0.056657544938809014,False,Right Foot,Open Play,0,1,0,Normal

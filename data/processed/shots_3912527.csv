@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.196900627972994,0.05894791780253896,False,Right Foot,Open Play,1,0,1,Half Volley
-11.475626344561762,0.05858442033587294,False,Right Foot,Open Play,1,1,3,Volley
-23.593431289238108,0.06672050768984585,False,Right Foot,Open Play,0,0,3,Normal
-14.149558296992877,0.05589867218193391,False,Right Foot,Open Play,1,0,2,Half Volley
-11.727744881263405,0.06018604657279563,True,Right Foot,Open Play,0,1,2,Half Volley
-8.94035793466906,0.05587364350093165,False,Head,Open Play,0,0,5,Normal
-29.44978777512667,0.06131161771576227,False,Right Foot,Open Play,0,0,1,Normal
-21.031880562612557,0.06075761741458751,False,Right Foot,Open Play,1,0,1,Half Volley
-27.508725888343136,0.07056484567953904,False,Right Foot,Free Kick,0,0,0,Normal
-21.980445855350617,0.06542939562708015,False,Right Foot,Open Play,1,0,0,Normal
-19.46175737183053,0.06509746848035751,False,Right Foot,Open Play,0,0,1,Normal
-3.605551275463984,0.05629431342531267,False,Left Foot,Open Play,0,0,5,Half Volley
-19.623710148695125,0.06379655954089748,False,Right Foot,Open Play,1,0,1,Half Volley
-16.639711535961197,0.05985325857866899,False,Right Foot,Open Play,1,0,0,Normal
-27.004629232781554,0.06666935987040896,False,Right Foot,Open Play,0,0,1,Normal
-12.72006289292628,0.06131254280824054,False,Head,Open Play,0,0,0,Normal
-22.645087767549064,0.05654132248930379,False,Left Foot,Open Play,0,0,1,Normal
-28.06082678753426,0.06524657035557468,False,Left Foot,Open Play,0,0,1,Normal
-9.823441352194246,0.05960598074970898,False,Right Foot,Open Play,1,0,5,Normal
-12.432618388738558,0.05460246604460536,False,Right Foot,Open Play,0,1,2,Half Volley
-15.758172482873771,0.06293112045781926,True,Right Foot,Open Play,0,0,3,Normal
-13.900359707575921,0.06035786156170949,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912527,Valentina Giacinti,AS Roma W,24.196900627972994,0.05894791780253896,False,Right Foot,Open Play,1,0,1,Half Volley
+3912527,Michela Cambiaghi,FC Internazionale Milano W,11.475626344561762,0.05858442033587294,False,Right Foot,Open Play,1,1,3,Volley
+3912527,Beatrice Merlo,FC Internazionale Milano W,23.593431289238108,0.06672050768984585,False,Right Foot,Open Play,0,0,3,Normal
+3912527,Lucia Di Guglielmo,AS Roma W,14.149558296992877,0.05589867218193391,False,Right Foot,Open Play,1,0,2,Half Volley
+3912527,Agnese Bonfantini,FC Internazionale Milano W,11.727744881263405,0.06018604657279563,True,Right Foot,Open Play,0,1,2,Half Volley
+3912527,Evelyne Viens,AS Roma W,8.94035793466906,0.05587364350093165,False,Head,Open Play,0,0,5,Normal
+3912527,Manuela Giugliano,AS Roma W,29.44978777512667,0.06131161771576227,False,Right Foot,Open Play,0,0,1,Normal
+3912527,Emilie Haavi,AS Roma W,21.031880562612557,0.06075761741458751,False,Right Foot,Open Play,1,0,1,Half Volley
+3912527,Manuela Giugliano,AS Roma W,27.508725888343136,0.07056484567953904,False,Right Foot,Free Kick,0,0,0,Normal
+3912527,Anja Sønstevold,AS Roma W,21.980445855350617,0.06542939562708015,False,Right Foot,Open Play,1,0,0,Normal
+3912527,Emilie Haavi,AS Roma W,19.46175737183053,0.06509746848035751,False,Right Foot,Open Play,0,0,1,Normal
+3912527,Saki Kumagai,AS Roma W,3.605551275463984,0.05629431342531267,False,Left Foot,Open Play,0,0,5,Half Volley
+3912527,Giada Greggi,AS Roma W,19.623710148695125,0.06379655954089748,False,Right Foot,Open Play,1,0,1,Half Volley
+3912527,Sofie Junge Pedersen,FC Internazionale Milano W,16.639711535961197,0.05985325857866899,False,Right Foot,Open Play,1,0,0,Normal
+3912527,Lina Magull,FC Internazionale Milano W,27.004629232781554,0.06666935987040896,False,Right Foot,Open Play,0,0,1,Normal
+3912527,Bárbara Latorre Viñals,AS Roma W,12.72006289292628,0.06131254280824054,False,Head,Open Play,0,0,0,Normal
+3912527,Michela Cambiaghi,FC Internazionale Milano W,22.645087767549064,0.05654132248930379,False,Left Foot,Open Play,0,0,1,Normal
+3912527,Sofie Junge Pedersen,FC Internazionale Milano W,28.06082678753426,0.06524657035557468,False,Left Foot,Open Play,0,0,1,Normal
+3912527,Manuela Giugliano,AS Roma W,9.823441352194246,0.05960598074970898,False,Right Foot,Open Play,1,0,5,Normal
+3912527,Bárbara Latorre Viñals,AS Roma W,12.432618388738558,0.05460246604460536,False,Right Foot,Open Play,0,1,2,Half Volley
+3912527,Elisa Polli,FC Internazionale Milano W,15.758172482873771,0.06293112045781926,True,Right Foot,Open Play,0,0,3,Normal
+3912527,Bárbara Latorre Viñals,AS Roma W,13.900359707575921,0.06035786156170949,False,Right Foot,Open Play,1,0,1,Normal

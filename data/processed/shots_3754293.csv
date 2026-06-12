@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.909686285886274,0.060152900062709444,False,Left Foot,Open Play,1,0,1,Volley
-11.868024266911492,0.05290441583539588,False,Right Foot,Open Play,1,0,3,Half Volley
-15.996562130657946,0.060220708690123796,False,Right Foot,Open Play,1,1,3,Normal
-17.095028517086483,0.057574766057774646,False,Left Foot,Open Play,0,0,3,Normal
-25.570686341981517,0.06472485957395685,False,Right Foot,Open Play,0,0,1,Half Volley
-27.148664792214003,0.05762060817717008,False,Right Foot,Open Play,0,0,1,Normal
-9.220086767487603,0.05912330362493633,False,Head,Open Play,0,1,1,Normal
-18.213182039391135,0.05728300752694373,False,Right Foot,Open Play,1,0,1,Normal
-20.5204775772885,0.0563791963797539,False,Right Foot,Open Play,0,0,5,Normal
-24.429695045169925,0.068590804567159,False,Right Foot,Open Play,0,0,3,Normal
-16.743058263053374,0.05826473615212462,False,Right Foot,Open Play,0,0,3,Normal
-8.18840643837371,0.05885277666539819,True,Right Foot,Open Play,1,0,1,Volley
-36.24913792078372,0.06558593225453746,False,Left Foot,Open Play,0,0,0,Normal
-29.97148644962408,0.05455639566754362,False,Left Foot,Open Play,0,1,3,Normal
-24.12985702402731,0.06837579184831345,False,Left Foot,Open Play,0,0,2,Normal
-24.730952266340243,0.05754701207646538,False,Right Foot,Open Play,0,0,2,Normal
-9.682974749528164,0.05467133423306669,False,Head,Open Play,0,1,2,Normal
-20.08233054204616,0.06123966988736738,False,Left Foot,Open Play,0,1,3,Normal
-17.97386992275175,0.06359781832150568,False,Right Foot,Open Play,0,0,2,Overhead Kick
-27.806474066303334,0.05638247022445753,False,Left Foot,Open Play,0,0,1,Normal
-27.868440932352133,0.06939023875433639,False,Left Foot,Open Play,0,0,2,Half Volley
-26.34103262972049,0.06988760007888241,False,Left Foot,Open Play,0,0,1,Normal
-17.483706700811474,0.06408495890442331,False,Right Foot,Open Play,1,0,0,Normal
-19.123022773609826,0.056483568275522034,False,Right Foot,Open Play,1,0,1,Normal
-11.034491379306978,0.05535160742245346,False,Right Foot,Open Play,0,0,1,Normal
-17.3761330565808,0.05963577966626482,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754293,Xherdan Shaqiri,Stoke City,12.909686285886274,0.060152900062709444,False,Left Foot,Open Play,1,0,1,Volley
+3754293,Eden Hazard,Chelsea,11.868024266911492,0.05290441583539588,False,Right Foot,Open Play,1,0,3,Half Volley
+3754293,Ramires Santos do Nascimento,Chelsea,15.996562130657946,0.060220708690123796,False,Right Foot,Open Play,1,1,3,Normal
+3754293,Glen Johnson,Stoke City,17.095028517086483,0.057574766057774646,False,Left Foot,Open Play,0,0,3,Normal
+3754293,Ramires Santos do Nascimento,Chelsea,25.570686341981517,0.06472485957395685,False,Right Foot,Open Play,0,0,1,Half Volley
+3754293,Glenn Whelan,Stoke City,27.148664792214003,0.05762060817717008,False,Right Foot,Open Play,0,0,1,Normal
+3754293,Jonathan Walters,Stoke City,9.220086767487603,0.05912330362493633,False,Head,Open Play,0,1,1,Normal
+3754293,Eden Hazard,Chelsea,18.213182039391135,0.05728300752694373,False,Right Foot,Open Play,1,0,1,Normal
+3754293,Willian Borges da Silva,Chelsea,20.5204775772885,0.0563791963797539,False,Right Foot,Open Play,0,0,5,Normal
+3754293,Pedro Eliezer Rodríguez Ledesma,Chelsea,24.429695045169925,0.068590804567159,False,Right Foot,Open Play,0,0,3,Normal
+3754293,Diego da Silva Costa,Chelsea,16.743058263053374,0.05826473615212462,False,Right Foot,Open Play,0,0,3,Normal
+3754293,Marko Arnautović,Stoke City,8.18840643837371,0.05885277666539819,True,Right Foot,Open Play,1,0,1,Volley
+3754293,Nemanja Matić,Chelsea,36.24913792078372,0.06558593225453746,False,Left Foot,Open Play,0,0,0,Normal
+3754293,Nemanja Matić,Chelsea,29.97148644962408,0.05455639566754362,False,Left Foot,Open Play,0,1,3,Normal
+3754293,Eden Hazard,Chelsea,24.12985702402731,0.06837579184831345,False,Left Foot,Open Play,0,0,2,Normal
+3754293,Glen Johnson,Stoke City,24.730952266340243,0.05754701207646538,False,Right Foot,Open Play,0,0,2,Normal
+3754293,Marko Arnautović,Stoke City,9.682974749528164,0.05467133423306669,False,Head,Open Play,0,1,2,Normal
+3754293,Pedro Eliezer Rodríguez Ledesma,Chelsea,20.08233054204616,0.06123966988736738,False,Left Foot,Open Play,0,1,3,Normal
+3754293,Diego da Silva Costa,Chelsea,17.97386992275175,0.06359781832150568,False,Right Foot,Open Play,0,0,2,Overhead Kick
+3754293,Nemanja Matić,Chelsea,27.806474066303334,0.05638247022445753,False,Left Foot,Open Play,0,0,1,Normal
+3754293,Nemanja Matić,Chelsea,27.868440932352133,0.06939023875433639,False,Left Foot,Open Play,0,0,2,Half Volley
+3754293,Oscar dos Santos Emboaba Júnior,Chelsea,26.34103262972049,0.06988760007888241,False,Left Foot,Open Play,0,0,1,Normal
+3754293,Eden Hazard,Chelsea,17.483706700811474,0.06408495890442331,False,Right Foot,Open Play,1,0,0,Normal
+3754293,Jonathan Walters,Stoke City,19.123022773609826,0.056483568275522034,False,Right Foot,Open Play,1,0,1,Normal
+3754293,Loïc Rémy,Chelsea,11.034491379306978,0.05535160742245346,False,Right Foot,Open Play,0,0,1,Normal
+3754293,Oscar dos Santos Emboaba Júnior,Chelsea,17.3761330565808,0.05963577966626482,False,Right Foot,Open Play,1,0,2,Half Volley

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.821943192442752,0.056319169677856745,False,Right Foot,Open Play,0,0,2,Normal
-17.786792853125604,0.0642806866494488,False,Right Foot,Open Play,0,0,2,Normal
-29.729446681699276,0.06002947889026842,False,Right Foot,Open Play,0,0,1,Half Volley
-15.395129099815957,0.05303191772826495,False,Head,Open Play,0,1,1,Normal
-17.40718242565407,0.06272054853314821,False,Left Foot,Open Play,1,0,1,Normal
-14.361058456812994,0.061616235704417356,True,Right Foot,Open Play,0,0,1,Normal
-7.368174807915455,0.05718186385344128,False,Right Foot,Open Play,0,0,3,Normal
-27.069170655932556,0.06138257471704824,False,Right Foot,Open Play,0,0,0,Normal
-21.01547049199708,0.06567447975249753,False,Right Foot,Open Play,0,0,1,Normal
-10.960383204979646,0.054023219729710595,False,Head,Open Play,0,0,2,Normal
-13.813399291991818,0.05375265899769097,False,Right Foot,Open Play,0,0,1,Normal
-22.332935319836484,0.05339691119332321,False,Right Foot,Open Play,1,0,0,Normal
-22.588713996153036,0.06331662290598297,False,Right Foot,Open Play,1,0,0,Half Volley
-31.126997927843924,0.06314358184205703,False,Left Foot,Free Kick,0,0,0,Normal
-20.50609665440988,0.0646894113710932,False,Left Foot,Open Play,0,1,1,Half Volley
-16.05241414865689,0.06323960745584833,True,Left Foot,Open Play,1,0,2,Normal
-14.509651959988561,0.062198245177815366,False,Left Foot,Open Play,0,0,2,Half Volley
-28.714108030722464,0.07170889440574345,False,Right Foot,Open Play,0,0,1,Normal
-6.198386886924699,0.05770790926510788,True,Left Foot,Open Play,0,0,2,Normal
-21.511392330576836,0.06656525616550195,False,Left Foot,Open Play,0,0,1,Normal
-11.844407963254223,0.06055294932963089,False,Left Foot,Open Play,1,0,1,Normal
-18.509727172489605,0.062160466355814174,False,Left Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267077,José Manuel Jurado Marín,Espanyol,14.821943192442752,0.056319169677856745,False,Right Foot,Open Play,0,0,2,Normal
+267077,Neymar da Silva Santos Junior,Barcelona,17.786792853125604,0.0642806866494488,False,Right Foot,Open Play,0,0,2,Normal
+267077,Ivan Rakitić,Barcelona,29.729446681699276,0.06002947889026842,False,Right Foot,Open Play,0,0,1,Half Volley
+267077,Sergi Roberto Carnicer,Barcelona,15.395129099815957,0.05303191772826495,False,Head,Open Play,0,1,1,Normal
+267077,Neymar da Silva Santos Junior,Barcelona,17.40718242565407,0.06272054853314821,False,Left Foot,Open Play,1,0,1,Normal
+267077,Luis Alberto Suárez Díaz,Barcelona,14.361058456812994,0.061616235704417356,True,Right Foot,Open Play,0,0,1,Normal
+267077,Neymar da Silva Santos Junior,Barcelona,7.368174807915455,0.05718186385344128,False,Right Foot,Open Play,0,0,3,Normal
+267077,Neymar da Silva Santos Junior,Barcelona,27.069170655932556,0.06138257471704824,False,Right Foot,Open Play,0,0,0,Normal
+267077,Neymar da Silva Santos Junior,Barcelona,21.01547049199708,0.06567447975249753,False,Right Foot,Open Play,0,0,1,Normal
+267077,Ivan Rakitić,Barcelona,10.960383204979646,0.054023219729710595,False,Head,Open Play,0,0,2,Normal
+267077,Leonardo Carrilho Baptistão,Espanyol,13.813399291991818,0.05375265899769097,False,Right Foot,Open Play,0,0,1,Normal
+267077,José Manuel Jurado Marín,Espanyol,22.332935319836484,0.05339691119332321,False,Right Foot,Open Play,1,0,0,Normal
+267077,Pablo Daniel Piatti,Espanyol,22.588713996153036,0.06331662290598297,False,Right Foot,Open Play,1,0,0,Half Volley
+267077,Lionel Andrés Messi Cuccittini,Barcelona,31.126997927843924,0.06314358184205703,False,Left Foot,Free Kick,0,0,0,Normal
+267077,José Manuel Jurado Marín,Espanyol,20.50609665440988,0.0646894113710932,False,Left Foot,Open Play,0,1,1,Half Volley
+267077,Ivan Rakitić,Barcelona,16.05241414865689,0.06323960745584833,True,Left Foot,Open Play,1,0,2,Normal
+267077,Lionel Andrés Messi Cuccittini,Barcelona,14.509651959988561,0.062198245177815366,False,Left Foot,Open Play,0,0,2,Half Volley
+267077,Sergi Roberto Carnicer,Barcelona,28.714108030722464,0.07170889440574345,False,Right Foot,Open Play,0,0,1,Normal
+267077,Luis Alberto Suárez Díaz,Barcelona,6.198386886924699,0.05770790926510788,True,Left Foot,Open Play,0,0,2,Normal
+267077,Leonardo Carrilho Baptistão,Espanyol,21.511392330576836,0.06656525616550195,False,Left Foot,Open Play,0,0,1,Normal
+267077,Neymar da Silva Santos Junior,Barcelona,11.844407963254223,0.06055294932963089,False,Left Foot,Open Play,1,0,1,Normal
+267077,Lionel Andrés Messi Cuccittini,Barcelona,18.509727172489605,0.062160466355814174,False,Left Foot,Open Play,0,0,3,Half Volley

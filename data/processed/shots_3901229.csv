@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.749712641779894,0.0659737592226085,False,Right Foot,Open Play,0,0,1,Half Volley
-19.48255630044476,0.055471915822447176,False,Left Foot,Open Play,1,0,3,Normal
-6.449806198638845,0.05757009663496542,False,Head,Open Play,0,1,2,Normal
-19.327959023135367,0.06524536454674464,False,Left Foot,Open Play,1,1,1,Half Volley
-11.211155159036917,0.059433692329505114,False,Head,Open Play,0,1,3,Normal
-16.08011193990887,0.06251947604280376,True,Left Foot,Open Play,0,0,1,Normal
-21.135751701796654,0.057814960209850476,False,Right Foot,Open Play,0,0,1,Normal
-28.376927247325426,0.06028417837976153,False,Left Foot,Open Play,0,0,1,Normal
-38.515581262652645,0.06509854357613826,False,Right Foot,Free Kick,0,0,0,Normal
-8.4380092438916,0.05859108117691773,False,Left Foot,Open Play,1,0,1,Normal
-22.487774456357396,0.054432290467951165,False,Left Foot,Open Play,0,1,2,Normal
-30.270282456561254,0.0614893049871524,False,Left Foot,Open Play,0,0,0,Normal
-27.280212609142183,0.06838827516965884,False,Left Foot,Free Kick,0,0,0,Normal
-18.30437106267244,0.06453276779861876,False,Right Foot,Open Play,0,0,3,Normal
-17.327723451163457,0.06374973621014149,False,Left Foot,Open Play,1,0,1,Half Volley
-21.380598681982697,0.05638414106304104,False,Left Foot,Open Play,0,0,2,Normal
-21.707602354935464,0.06126527434436644,False,Right Foot,Open Play,0,0,2,Normal
-31.797012438277903,0.07358063703041916,False,Right Foot,Open Play,0,0,2,Half Volley
-7.529276193632425,0.05814851727037411,True,Head,Open Play,0,1,3,Normal
-29.163161694164778,0.0718022564259388,False,Left Foot,Open Play,1,0,1,Normal
-24.13648690261282,0.05732100157196006,False,Right Foot,Open Play,0,0,3,Normal
-25.992498917957075,0.06343695727690717,False,Right Foot,Open Play,0,0,1,Normal
-10.131633629380799,0.059856503245772054,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901229,Andy Delort,Caen,21.749712641779894,0.0659737592226085,False,Right Foot,Open Play,0,0,1,Half Volley
+3901229,Ludovic Blas,Guingamp,19.48255630044476,0.055471915822447176,False,Left Foot,Open Play,1,0,3,Normal
+3901229,Jérémy Sorbon,Guingamp,6.449806198638845,0.05757009663496542,False,Head,Open Play,0,1,2,Normal
+3901229,Jimmy Briand,Guingamp,19.327959023135367,0.06524536454674464,False,Left Foot,Open Play,1,1,1,Half Volley
+3901229,Moustapha Elhadji Diallo,Guingamp,11.211155159036917,0.059433692329505114,False,Head,Open Play,0,1,3,Normal
+3901229,Ronny Rodelin,Caen,16.08011193990887,0.06251947604280376,True,Left Foot,Open Play,0,0,1,Normal
+3901229,Jonathan Delaplace,Caen,21.135751701796654,0.057814960209850476,False,Right Foot,Open Play,0,0,1,Normal
+3901229,Ludovic Blas,Guingamp,28.376927247325426,0.06028417837976153,False,Left Foot,Open Play,0,0,1,Normal
+3901229,Andy Delort,Caen,38.515581262652645,0.06509854357613826,False,Right Foot,Free Kick,0,0,0,Normal
+3901229,Andy Delort,Caen,8.4380092438916,0.05859108117691773,False,Left Foot,Open Play,1,0,1,Normal
+3901229,Ludovic Blas,Guingamp,22.487774456357396,0.054432290467951165,False,Left Foot,Open Play,0,1,2,Normal
+3901229,Jeff Louis,Caen,30.270282456561254,0.0614893049871524,False,Left Foot,Open Play,0,0,0,Normal
+3901229,Thibault Giresse,Guingamp,27.280212609142183,0.06838827516965884,False,Left Foot,Free Kick,0,0,0,Normal
+3901229,Andy Delort,Caen,18.30437106267244,0.06453276779861876,False,Right Foot,Open Play,0,0,3,Normal
+3901229,Thibault Giresse,Guingamp,17.327723451163457,0.06374973621014149,False,Left Foot,Open Play,1,0,1,Half Volley
+3901229,Marcus Coco,Guingamp,21.380598681982697,0.05638414106304104,False,Left Foot,Open Play,0,0,2,Normal
+3901229,Ronny Rodelin,Caen,21.707602354935464,0.06126527434436644,False,Right Foot,Open Play,0,0,2,Normal
+3901229,Andy Delort,Caen,31.797012438277903,0.07358063703041916,False,Right Foot,Open Play,0,0,2,Half Volley
+3901229,Jérémy Sorbon,Guingamp,7.529276193632425,0.05814851727037411,True,Head,Open Play,0,1,3,Normal
+3901229,Julien Féret,Caen,29.163161694164778,0.0718022564259388,False,Left Foot,Open Play,1,0,1,Normal
+3901229,Andy Delort,Caen,24.13648690261282,0.05732100157196006,False,Right Foot,Open Play,0,0,3,Normal
+3901229,Nicolas Seube,Caen,25.992498917957075,0.06343695727690717,False,Right Foot,Open Play,0,0,1,Normal
+3901229,Jérémy Sorbon,Guingamp,10.131633629380799,0.059856503245772054,False,Head,Open Play,0,0,2,Normal

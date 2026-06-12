@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.114474897677315,0.06592564591139032,False,Left Foot,Open Play,1,0,1,Half Volley
-28.119210515233178,0.05303207889674941,False,Right Foot,Open Play,0,0,1,Normal
-8.348652585896726,0.05701622607045027,False,Head,Open Play,0,1,3,Normal
-23.19698256239376,0.05472055743981714,False,Left Foot,Open Play,0,1,1,Normal
-27.44102767754882,0.06581858110556164,False,Right Foot,Open Play,1,0,0,Normal
-16.11241757155021,0.060545990905855246,False,Head,Open Play,0,1,2,Normal
-24.13503677229434,0.0681259167041364,False,Right Foot,Open Play,0,0,3,Normal
-35.80893743187586,0.07143891718080154,False,Right Foot,Open Play,0,0,3,Half Volley
-23.791805311913595,0.058725166740954744,False,Left Foot,Open Play,1,0,0,Normal
-18.30983342360055,0.06207185663232026,False,Left Foot,Free Kick,0,0,0,Normal
-23.804621400055915,0.06818498742904501,False,Left Foot,Open Play,1,0,0,Normal
-9.541488353501252,0.054268273638958135,False,Head,Open Play,0,0,2,Normal
-13.18976876218836,0.06122506764666453,False,Right Foot,Open Play,1,0,1,Normal
-14.312232530251874,0.05666941949441859,False,Right Foot,Open Play,0,0,1,Half Volley
-21.57614423385235,0.06652483346908628,False,Right Foot,Open Play,0,1,1,Half Volley
-12.056948204251363,0.060943115641401646,False,Right Foot,Open Play,1,0,2,Volley
-35.46223343220221,0.07715786517277802,False,Right Foot,Open Play,0,1,1,Normal
-19.20234360696631,0.06514666354643545,True,Right Foot,Open Play,0,1,3,Normal
-28.296289509403884,0.05655647321365633,False,Left Foot,Free Kick,0,0,0,Normal
-31.004838332105525,0.07244687063784885,False,Left Foot,Open Play,0,0,1,Normal
-19.32588937151406,0.0584768303590851,False,Left Foot,Open Play,0,1,2,Normal
-28.97999309868793,0.07183269059267272,False,Right Foot,Open Play,0,0,1,Normal
-9.035485598461214,0.058622846012744194,True,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829515,Julian Palmieri,Bastia,22.114474897677315,0.06592564591139032,False,Left Foot,Open Play,1,0,1,Half Volley
+3829515,Floyd Ayité,Bastia,28.119210515233178,0.05303207889674941,False,Right Foot,Open Play,0,0,1,Normal
+3829515,Floyd Ayité,Bastia,8.348652585896726,0.05701622607045027,False,Head,Open Play,0,1,3,Normal
+3829515,Floyd Ayité,Bastia,23.19698256239376,0.05472055743981714,False,Left Foot,Open Play,0,1,1,Normal
+3829515,Floyd Ayité,Bastia,27.44102767754882,0.06581858110556164,False,Right Foot,Open Play,1,0,0,Normal
+3829515,Julian Palmieri,Bastia,16.11241757155021,0.060545990905855246,False,Head,Open Play,0,1,2,Normal
+3829515,Jean Carlos Francisco Deza Sánchez,Montpellier,24.13503677229434,0.0681259167041364,False,Right Foot,Open Play,0,0,3,Normal
+3829515,Jean Carlos Francisco Deza Sánchez,Montpellier,35.80893743187586,0.07143891718080154,False,Right Foot,Open Play,0,0,3,Half Volley
+3829515,Axel Ngando,Bastia,23.791805311913595,0.058725166740954744,False,Left Foot,Open Play,1,0,0,Normal
+3829515,Gaël Danic,Bastia,18.30983342360055,0.06207185663232026,False,Left Foot,Free Kick,0,0,0,Normal
+3829515,Seko Fofana,Bastia,23.804621400055915,0.06818498742904501,False,Left Foot,Open Play,1,0,0,Normal
+3829515,Vitorino Hilton da Silva,Montpellier,9.541488353501252,0.054268273638958135,False,Head,Open Play,0,0,2,Normal
+3829515,Seko Fofana,Bastia,13.18976876218836,0.06122506764666453,False,Right Foot,Open Play,1,0,1,Normal
+3829515,Floyd Ayité,Bastia,14.312232530251874,0.05666941949441859,False,Right Foot,Open Play,0,0,1,Half Volley
+3829515,Julian Palmieri,Bastia,21.57614423385235,0.06652483346908628,False,Right Foot,Open Play,0,1,1,Half Volley
+3829515,Axel Ngando,Bastia,12.056948204251363,0.060943115641401646,False,Right Foot,Open Play,1,0,2,Volley
+3829515,Rodrigue Casimir Ninga,Montpellier,35.46223343220221,0.07715786517277802,False,Right Foot,Open Play,0,1,1,Normal
+3829515,Ryad Boudebouz,Montpellier,19.20234360696631,0.06514666354643545,True,Right Foot,Open Play,0,1,3,Normal
+3829515,Ryad Boudebouz,Montpellier,28.296289509403884,0.05655647321365633,False,Left Foot,Free Kick,0,0,0,Normal
+3829515,Ramy Bensebaini,Montpellier,31.004838332105525,0.07244687063784885,False,Left Foot,Open Play,0,0,1,Normal
+3829515,Souleymane Camara,Montpellier,19.32588937151406,0.0584768303590851,False,Left Foot,Open Play,0,1,2,Normal
+3829515,Rodrigue Casimir Ninga,Montpellier,28.97999309868793,0.07183269059267272,False,Right Foot,Open Play,0,0,1,Normal
+3829515,Rodrigue Casimir Ninga,Montpellier,9.035485598461214,0.058622846012744194,True,Right Foot,Open Play,1,0,2,Volley

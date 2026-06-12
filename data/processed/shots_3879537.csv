@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.15705950556627,0.07118520999758164,True,Right Foot,Free Kick,0,0,0,Normal
-13.380956617521779,0.05846858220440325,False,Head,Open Play,0,0,2,Normal
-11.428473213863697,0.06023900160469494,True,Left Foot,Open Play,0,1,1,Half Volley
-23.45548976252681,0.06657960470557873,False,Right Foot,Open Play,1,0,1,Volley
-16.543578814754685,0.061998588921659846,False,Right Foot,Open Play,0,0,3,Normal
-25.047954008261826,0.06893646535416285,False,Right Foot,Open Play,0,1,2,Half Volley
-11.99708297879114,0.060876395082303685,True,Head,Open Play,0,1,3,Normal
-10.024470060806209,0.059618906626732304,False,Head,Open Play,0,1,2,Normal
-25.89382165691268,0.05893495495151135,False,Left Foot,Open Play,0,0,1,Normal
-40.80318615010353,0.07571925432670927,False,Right Foot,Open Play,0,1,1,Normal
-15.771493271088826,0.0617545919370471,True,Right Foot,Open Play,1,1,1,Half Volley
-3.7202150475476565,0.05535329420362564,True,Right Foot,Open Play,1,0,3,Half Volley
-11.253888216967496,0.054967244890163705,False,Head,Open Play,0,1,2,Normal
-11.829623831720092,0.05803701167703299,False,Right Foot,Open Play,1,0,5,Half Volley
-33.81952099010274,0.07437233780798803,False,Left Foot,Open Play,1,0,0,Half Volley
-24.901807163336567,0.06553732682039905,False,Left Foot,Open Play,0,0,2,Normal
-10.850345616615172,0.05754225026804485,False,Right Foot,Open Play,1,0,4,Volley
-10.50047617967871,0.05900343599373912,False,Head,Open Play,0,0,4,Normal
-10.829589096544705,0.05881179937602392,False,Head,Open Play,0,0,3,Normal
-15.526107045875989,0.052549552881421165,False,Right Foot,Open Play,0,1,1,Normal
-27.508907648250954,0.05761235000535111,False,Right Foot,Open Play,1,0,0,Normal
-11.260994627474075,0.054898217676616644,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879537,Mario Barwuah Balotelli,AC Milan,28.15705950556627,0.07118520999758164,True,Right Foot,Free Kick,0,0,0,Normal
+3879537,Cyril Théréau,Udinese,13.380956617521779,0.05846858220440325,False,Head,Open Play,0,0,2,Normal
+3879537,Giacomo Bonaventura,AC Milan,11.428473213863697,0.06023900160469494,True,Left Foot,Open Play,0,1,1,Half Volley
+3879537,Riccardo Montolivo,AC Milan,23.45548976252681,0.06657960470557873,False,Right Foot,Open Play,1,0,1,Volley
+3879537,Carlos Arturo Bacca Ahumada,AC Milan,16.543578814754685,0.061998588921659846,False,Right Foot,Open Play,0,0,3,Normal
+3879537,Antonio Di Natale,Udinese,25.047954008261826,0.06893646535416285,False,Right Foot,Open Play,0,1,2,Half Volley
+3879537,Cristian Eduardo Zapata Valencia,AC Milan,11.99708297879114,0.060876395082303685,True,Head,Open Play,0,1,3,Normal
+3879537,Duván Esteban Zapata Banguera,Udinese,10.024470060806209,0.059618906626732304,False,Head,Open Play,0,1,2,Normal
+3879537,Davide Calabria,AC Milan,25.89382165691268,0.05893495495151135,False,Left Foot,Open Play,0,0,1,Normal
+3879537,Nigel de Jong,AC Milan,40.80318615010353,0.07571925432670927,False,Right Foot,Open Play,0,1,1,Normal
+3879537,Emmanuel Agyemang-Badu,Udinese,15.771493271088826,0.0617545919370471,True,Right Foot,Open Play,1,1,1,Half Volley
+3879537,Duván Esteban Zapata Banguera,Udinese,3.7202150475476565,0.05535329420362564,True,Right Foot,Open Play,1,0,3,Half Volley
+3879537,Nigel de Jong,AC Milan,11.253888216967496,0.054967244890163705,False,Head,Open Play,0,1,2,Normal
+3879537,Molla Wagué,Udinese,11.829623831720092,0.05803701167703299,False,Right Foot,Open Play,1,0,5,Half Volley
+3879537,Ali Adnan Kadhim Al Tameemi,Udinese,33.81952099010274,0.07437233780798803,False,Left Foot,Open Play,1,0,0,Half Volley
+3879537,Giacomo Bonaventura,AC Milan,24.901807163336567,0.06553732682039905,False,Left Foot,Open Play,0,0,2,Normal
+3879537,Emmanuel Agyemang-Badu,Udinese,10.850345616615172,0.05754225026804485,False,Right Foot,Open Play,1,0,4,Volley
+3879537,Maurizio Domizzi,Udinese,10.50047617967871,0.05900343599373912,False,Head,Open Play,0,0,4,Normal
+3879537,Marco Antônio De Mattos Filho,Udinese,10.829589096544705,0.05881179937602392,False,Head,Open Play,0,0,3,Normal
+3879537,Edenílson Andrade dos Santos,Udinese,15.526107045875989,0.052549552881421165,False,Right Foot,Open Play,0,1,1,Normal
+3879537,Bruno Miguel Borges Fernandes,Udinese,27.508907648250954,0.05761235000535111,False,Right Foot,Open Play,1,0,0,Normal
+3879537,Molla Wagué,Udinese,11.260994627474075,0.054898217676616644,False,Head,Open Play,0,1,4,Normal

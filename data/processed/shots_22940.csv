@@ -1,14 +1,14 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.036787424667875,0.05349551762627514,False,Right Foot,Open Play,0,0,1,Normal
-25.107170290576352,0.06518986393834514,False,Left Foot,Open Play,0,1,2,Normal
-34.099999999999994,0.07002019348160589,False,Right Foot,Open Play,0,0,2,Normal
-11.482595525402784,0.05928406188133649,False,Left Foot,Open Play,1,0,2,Normal
-12.209013064126031,0.057146249869897116,False,Left Foot,Open Play,1,0,3,Normal
-17.395401691251628,0.06370887615289066,False,Right Foot,Open Play,0,0,3,Normal
-22.318154045529838,0.06699319994064264,False,Right Foot,Open Play,0,0,2,Normal
-16.313184851524237,0.054420263503192394,False,Right Foot,Open Play,0,0,1,Normal
-26.685201891685217,0.07021118308476104,False,Right Foot,Open Play,0,0,2,Normal
-36.877364330982225,0.06682710221636678,False,Right Foot,Open Play,1,0,1,Normal
-14.577379737113251,0.05811598375145909,False,Head,Open Play,0,1,4,Normal
-27.790825824361537,0.06938211615956691,False,Left Foot,Open Play,1,0,1,Normal
-11.985407794480754,0.05265047812614747,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+22940,Emi Nakajima,Japan Women's,22.036787424667875,0.05349551762627514,False,Right Foot,Open Play,0,0,1,Normal
+22940,Narumi Miura,Japan Women's,25.107170290576352,0.06518986393834514,False,Left Foot,Open Play,0,1,2,Normal
+22940,Kumi Yokoyama,Japan Women's,34.099999999999994,0.07002019348160589,False,Right Foot,Open Play,0,0,2,Normal
+22940,Yuika Sugasawa,Japan Women's,11.482595525402784,0.05928406188133649,False,Left Foot,Open Play,1,0,2,Normal
+22940,Yui Hasegawa,Japan Women's,12.209013064126031,0.057146249869897116,False,Left Foot,Open Play,1,0,3,Normal
+22940,Florencia Soledad Jaimes,Argentina Women's,17.395401691251628,0.06370887615289066,False,Right Foot,Open Play,0,0,3,Normal
+22940,Yuika Sugasawa,Japan Women's,22.318154045529838,0.06699319994064264,False,Right Foot,Open Play,0,0,2,Normal
+22940,María Florencia Bonsegundo,Argentina Women's,16.313184851524237,0.054420263503192394,False,Right Foot,Open Play,0,0,1,Normal
+22940,Florencia Soledad Jaimes,Argentina Women's,26.685201891685217,0.07021118308476104,False,Right Foot,Open Play,0,0,2,Normal
+22940,Mariana Valeria Larroquette,Argentina Women's,36.877364330982225,0.06682710221636678,False,Right Foot,Open Play,1,0,1,Normal
+22940,Mariela Del Carmen Coronel,Argentina Women's,14.577379737113251,0.05811598375145909,False,Head,Open Play,0,1,4,Normal
+22940,Hina Sugita,Japan Women's,27.790825824361537,0.06938211615956691,False,Left Foot,Open Play,1,0,1,Normal
+22940,Yui Hasegawa,Japan Women's,11.985407794480754,0.05265047812614747,False,Right Foot,Open Play,1,0,1,Half Volley

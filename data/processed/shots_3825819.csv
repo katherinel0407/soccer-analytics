@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.850291825480074,0.053521071670345234,False,Right Foot,Open Play,1,0,2,Lob
-29.19075196016711,0.05275847488281686,False,Left Foot,Open Play,0,0,0,Normal
-9.577577981932592,0.05484133222029355,False,Head,Open Play,0,1,2,Normal
-13.717871555019025,0.06057027923333701,False,Right Foot,Open Play,1,0,1,Volley
-22.02294258267955,0.056090449038641965,False,Left Foot,Open Play,0,0,1,Normal
-20.87869727736862,0.061842362530335517,False,Right Foot,Open Play,0,0,3,Normal
-22.983689869122408,0.054707047154341513,False,Right Foot,Open Play,0,0,2,Half Volley
-23.827085428142485,0.057944368219797156,False,Right Foot,Open Play,0,0,2,Normal
-22.655021518418383,0.05052618943877549,False,Left Foot,Open Play,1,0,1,Normal
-34.320984834354626,0.07460668527973092,False,Left Foot,Open Play,0,0,1,Normal
-13.832208789632984,0.05982066425759881,False,Left Foot,Open Play,1,0,1,Half Volley
-25.985572920372565,0.06424746605511515,False,Right Foot,Open Play,0,0,0,Normal
-26.732003291934554,0.0692502530770038,False,Right Foot,Open Play,1,0,0,Normal
-20.32461561752153,0.06074480592172514,False,Right Foot,Open Play,0,0,1,Half Volley
-6.506919393998976,0.0572631532437847,False,Head,Open Play,0,1,5,Normal
-20.803124765284668,0.05755339396299364,False,Left Foot,Open Play,0,0,2,Normal
-11.810588469674148,0.05932870112887511,False,Right Foot,Open Play,1,1,2,Volley
-25.814724480420082,0.053189881285884526,False,Left Foot,Open Play,0,0,1,Normal
-16.681726529349415,0.053987844382644555,False,Right Foot,Open Play,1,0,1,Normal
-12.940247292845678,0.06126407651099363,False,Right Foot,Open Play,0,0,1,Normal
-12.986531484580473,0.05695513827484108,False,Right Foot,Open Play,1,1,2,Overhead Kick
-11.33578404875463,0.058979962655783987,True,Right Foot,Open Play,1,0,2,Normal
-10.111874208078342,0.05243103868326598,True,Right Foot,Open Play,0,0,1,Normal
-12.065239326262862,0.06096059194572508,False,Left Foot,Open Play,0,0,2,Normal
-28.225166075685014,0.07122753541252165,False,Right Foot,Open Play,0,0,1,Normal
-11.510864433221338,0.05627134222319863,False,Right Foot,Open Play,0,0,2,Normal
-9.386160024205854,0.05296743501192719,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825819,Francisco Alcácer García,Valencia,12.850291825480074,0.053521071670345234,False,Right Foot,Open Play,1,0,2,Lob
+3825819,Rodrigo Moreno Machado,Valencia,29.19075196016711,0.05275847488281686,False,Left Foot,Open Play,0,0,0,Normal
+3825819,Sergi Gómez Solà,Celta Vigo,9.577577981932592,0.05484133222029355,False,Head,Open Play,0,1,2,Normal
+3825819,André Filipe Tavares Gomes,Valencia,13.717871555019025,0.06057027923333701,False,Right Foot,Open Play,1,0,1,Volley
+3825819,Fabián Ariel Orellana Valenzuela,Celta Vigo,22.02294258267955,0.056090449038641965,False,Left Foot,Open Play,0,0,1,Normal
+3825819,Daniel Wass,Celta Vigo,20.87869727736862,0.061842362530335517,False,Right Foot,Open Play,0,0,3,Normal
+3825819,Claudio Beauvue,Celta Vigo,22.983689869122408,0.054707047154341513,False,Right Foot,Open Play,0,0,2,Half Volley
+3825819,Danilo Barbosa da Silva,Valencia,23.827085428142485,0.057944368219797156,False,Right Foot,Open Play,0,0,2,Normal
+3825819,Rodrigo Moreno Machado,Valencia,22.655021518418383,0.05052618943877549,False,Left Foot,Open Play,1,0,1,Normal
+3825819,Guilherme Magdalena Siqueira,Valencia,34.320984834354626,0.07460668527973092,False,Left Foot,Open Play,0,0,1,Normal
+3825819,Santiago Mina Lorenzo,Valencia,13.832208789632984,0.05982066425759881,False,Left Foot,Open Play,1,0,1,Half Volley
+3825819,Fabián Ariel Orellana Valenzuela,Celta Vigo,25.985572920372565,0.06424746605511515,False,Right Foot,Open Play,0,0,0,Normal
+3825819,Santiago Mina Lorenzo,Valencia,26.732003291934554,0.0692502530770038,False,Right Foot,Open Play,1,0,0,Normal
+3825819,Rodrigo Moreno Machado,Valencia,20.32461561752153,0.06074480592172514,False,Right Foot,Open Play,0,0,1,Half Volley
+3825819,Claudio Beauvue,Celta Vigo,6.506919393998976,0.0572631532437847,False,Head,Open Play,0,1,5,Normal
+3825819,Danilo Barbosa da Silva,Valencia,20.803124765284668,0.05755339396299364,False,Left Foot,Open Play,0,0,2,Normal
+3825819,Francisco Alcácer García,Valencia,11.810588469674148,0.05932870112887511,False,Right Foot,Open Play,1,1,2,Volley
+3825819,Rodrigo Moreno Machado,Valencia,25.814724480420082,0.053189881285884526,False,Left Foot,Open Play,0,0,1,Normal
+3825819,Rodrigo Moreno Machado,Valencia,16.681726529349415,0.053987844382644555,False,Right Foot,Open Play,1,0,1,Normal
+3825819,Jonathan Castro Otto,Celta Vigo,12.940247292845678,0.06126407651099363,False,Right Foot,Open Play,0,0,1,Normal
+3825819,Sofiane Feghouli,Valencia,12.986531484580473,0.05695513827484108,False,Right Foot,Open Play,1,1,2,Overhead Kick
+3825819,John Guidetti,Celta Vigo,11.33578404875463,0.058979962655783987,True,Right Foot,Open Play,1,0,2,Normal
+3825819,Hugo Mallo Novegil,Celta Vigo,10.111874208078342,0.05243103868326598,True,Right Foot,Open Play,0,0,1,Normal
+3825819,Daniel Wass,Celta Vigo,12.065239326262862,0.06096059194572508,False,Left Foot,Open Play,0,0,2,Normal
+3825819,Jonathan Castro Otto,Celta Vigo,28.225166075685014,0.07122753541252165,False,Right Foot,Open Play,0,0,1,Normal
+3825819,Fabián Ariel Orellana Valenzuela,Celta Vigo,11.510864433221338,0.05627134222319863,False,Right Foot,Open Play,0,0,2,Normal
+3825819,Fabián Ariel Orellana Valenzuela,Celta Vigo,9.386160024205854,0.05296743501192719,False,Right Foot,Open Play,0,0,0,Normal

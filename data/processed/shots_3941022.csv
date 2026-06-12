@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-4.317406628984584,0.05676285733005933,True,Left Foot,Open Play,1,0,5,Normal
-22.08098729676732,0.057200149503816446,False,Right Foot,Open Play,0,0,2,Normal
-8.508818954473059,0.054134601150745795,False,Head,Open Play,0,0,4,Normal
-30.480321520613913,0.07058435389713359,False,Right Foot,Free Kick,0,0,0,Normal
-16.662832892398583,0.06289769231739636,False,Right Foot,Open Play,1,0,3,Half Volley
-61.04334525564601,0.08197088127487537,False,Left Foot,Open Play,0,1,1,Lob
-7.161005515987261,0.05465458449682746,False,Other,Open Play,0,0,5,Normal
-31.479675983084704,0.07373021922561092,False,Right Foot,Open Play,0,0,0,Normal
-10.262553288533995,0.056271854184305525,False,Left Foot,Open Play,1,1,3,Normal
-13.27742444904131,0.06146105446368029,False,Head,Open Play,0,1,1,Normal
-10.916501271011704,0.057105166995561334,False,Right Foot,Open Play,1,1,2,Normal
-16.179307772584085,0.06197379696844623,False,Left Foot,Open Play,0,0,2,Normal
-15.663013758533186,0.05562504227576305,False,Right Foot,Open Play,0,1,3,Half Volley
-18.1463494951464,0.06346892885008815,False,Right Foot,Open Play,0,0,2,Normal
-5.714017850864655,0.05459121798457978,True,Head,Open Play,0,1,8,Normal
-7.156814934033161,0.05690162955938767,False,Head,Open Play,0,0,7,Normal
-5.166236541235794,0.0573264391727268,True,Left Foot,Open Play,1,0,2,Half Volley
-10.638138934982937,0.05932081174534661,False,Head,Open Play,0,0,1,Normal
-24.824383174612812,0.06099364838544518,False,Right Foot,Open Play,0,1,1,Half Volley
-27.902867236182015,0.05996776645032651,False,Right Foot,Open Play,0,0,2,Normal
-23.348233337878046,0.065328413315288,False,Right Foot,Open Play,0,1,2,Normal
-23.967686580060246,0.05725652436204957,False,Left Foot,Open Play,1,0,1,Half Volley
-6.407807737440322,0.057889137171400214,False,Head,Open Play,0,1,4,Normal
-10.159232254457027,0.05731201809414289,False,Head,Open Play,0,0,4,Normal
-7.810889834071409,0.05689361745683244,False,Head,Open Play,0,0,3,Normal
-17.68191166135608,0.06345264519897895,False,Right Foot,Open Play,0,1,2,Normal
-6.670832032063163,0.05633902470966239,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3941022,Merih Demiral,Turkey,4.317406628984584,0.05676285733005933,True,Left Foot,Open Play,1,0,5,Normal
+3941022,Christoph Baumgartner,Austria,22.08098729676732,0.057200149503816446,False,Right Foot,Open Play,0,0,2,Normal
+3941022,Philipp Lienhart,Austria,8.508818954473059,0.054134601150745795,False,Head,Open Play,0,0,4,Normal
+3941022,Marcel Sabitzer,Austria,30.480321520613913,0.07058435389713359,False,Right Foot,Free Kick,0,0,0,Normal
+3941022,Philipp Lienhart,Austria,16.662832892398583,0.06289769231739636,False,Right Foot,Open Play,1,0,3,Half Volley
+3941022,Arda Güler,Turkey,61.04334525564601,0.08197088127487537,False,Left Foot,Open Play,0,1,1,Lob
+3941022,Merih Demiral,Turkey,7.161005515987261,0.05465458449682746,False,Other,Open Play,0,0,5,Normal
+3941022,Marcel Sabitzer,Austria,31.479675983084704,0.07373021922561092,False,Right Foot,Open Play,0,0,0,Normal
+3941022,Christoph Baumgartner,Austria,10.262553288533995,0.056271854184305525,False,Left Foot,Open Play,1,1,3,Normal
+3941022,Michael Gregoritsch,Austria,13.27742444904131,0.06146105446368029,False,Head,Open Play,0,1,1,Normal
+3941022,Marko Arnautović,Austria,10.916501271011704,0.057105166995561334,False,Right Foot,Open Play,1,1,2,Normal
+3941022,Konrad Laimer,Austria,16.179307772584085,0.06197379696844623,False,Left Foot,Open Play,0,0,2,Normal
+3941022,Stefan Posch,Austria,15.663013758533186,0.05562504227576305,False,Right Foot,Open Play,0,1,3,Half Volley
+3941022,Ferdi Erenay Kadıoğlu,Turkey,18.1463494951464,0.06346892885008815,False,Right Foot,Open Play,0,0,2,Normal
+3941022,Merih Demiral,Turkey,5.714017850864655,0.05459121798457978,True,Head,Open Play,0,1,8,Normal
+3941022,Stefan Posch,Austria,7.156814934033161,0.05690162955938767,False,Head,Open Play,0,0,7,Normal
+3941022,Michael Gregoritsch,Austria,5.166236541235794,0.0573264391727268,True,Left Foot,Open Play,1,0,2,Half Volley
+3941022,Michael Gregoritsch,Austria,10.638138934982937,0.05932081174534661,False,Head,Open Play,0,0,1,Normal
+3941022,Florian Grillitsch,Austria,24.824383174612812,0.06099364838544518,False,Right Foot,Open Play,0,1,1,Half Volley
+3941022,Florian Grillitsch,Austria,27.902867236182015,0.05996776645032651,False,Right Foot,Open Play,0,0,2,Normal
+3941022,Marko Arnautović,Austria,23.348233337878046,0.065328413315288,False,Right Foot,Open Play,0,1,2,Normal
+3941022,Marcel Sabitzer,Austria,23.967686580060246,0.05725652436204957,False,Left Foot,Open Play,1,0,1,Half Volley
+3941022,Christoph Baumgartner,Austria,6.407807737440322,0.057889137171400214,False,Head,Open Play,0,1,4,Normal
+3941022,Christoph Baumgartner,Austria,10.159232254457027,0.05731201809414289,False,Head,Open Play,0,0,4,Normal
+3941022,Michael Gregoritsch,Austria,7.810889834071409,0.05689361745683244,False,Head,Open Play,0,0,3,Normal
+3941022,Barış Alper Yılmaz,Turkey,17.68191166135608,0.06345264519897895,False,Right Foot,Open Play,0,1,2,Normal
+3941022,Christoph Baumgartner,Austria,6.670832032063163,0.05633902470966239,False,Head,Open Play,0,1,3,Normal

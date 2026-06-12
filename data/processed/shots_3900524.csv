@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.991361940543833,0.05782658581837232,False,Left Foot,Open Play,0,0,3,Normal
-27.75103601669674,0.057490111531107904,False,Left Foot,Open Play,0,0,1,Normal
-27.085235830614433,0.06323961966090622,False,Right Foot,Open Play,0,0,1,Normal
-14.221462653327892,0.05948371293582739,False,Left Foot,Open Play,1,0,1,Normal
-23.055585006674633,0.05429978032530526,False,Left Foot,Open Play,1,0,2,Normal
-30.560431934120306,0.07257427465035227,False,Right Foot,Open Play,1,0,0,Volley
-25.649366463910958,0.06893567809834206,False,Left Foot,Open Play,0,0,1,Normal
-11.12205017071942,0.05946155284734274,False,Head,Open Play,0,1,4,Normal
-10.955363982999376,0.054189843385803745,True,Left Foot,Open Play,0,1,2,Half Volley
-15.322206107476815,0.05607924219853865,False,Left Foot,Open Play,0,1,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-31.265636088203934,0.05880520513135439,False,Right Foot,Open Play,1,0,0,Normal
-15.305227865013963,0.059253615827273225,False,Head,Open Play,0,0,2,Normal
-13.53587825004348,0.058430820411963104,False,Head,Open Play,0,0,3,Normal
-19.659603251337497,0.05767624198747862,False,Right Foot,Open Play,1,0,2,Normal
-17.608236708995033,0.0608030526682099,False,Left Foot,Open Play,0,1,3,Normal
-16.688319268278637,0.06358943796604395,False,Left Foot,Open Play,1,0,2,Normal
-20.456050449683584,0.06531549539189822,False,Right Foot,Open Play,0,0,1,Normal
-25.838343600161377,0.06863747492400164,False,Right Foot,Open Play,1,1,1,Normal
-18.536720314014552,0.06385053770957022,False,Left Foot,Open Play,1,0,1,Half Volley
-9.538343671728336,0.059569757583417676,False,Right Foot,Open Play,1,0,1,Half Volley
-37.85828839237189,0.06250317698167963,False,Right Foot,Open Play,0,0,1,Normal
-17.465680633745716,0.06378410774422709,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900524,Raphaël Adelino José Guerreiro,Lorient,21.991361940543833,0.05782658581837232,False,Left Foot,Open Play,0,0,3,Normal
+3900524,Jacques Zoua Daogari,Gazélec Ajaccio,27.75103601669674,0.057490111531107904,False,Left Foot,Open Play,0,0,1,Normal
+3900524,Damjan Đoković,Gazélec Ajaccio,27.085235830614433,0.06323961966090622,False,Right Foot,Open Play,0,0,1,Normal
+3900524,David Ducourtioux,Gazélec Ajaccio,14.221462653327892,0.05948371293582739,False,Left Foot,Open Play,1,0,1,Normal
+3900524,David Ducourtioux,Gazélec Ajaccio,23.055585006674633,0.05429978032530526,False,Left Foot,Open Play,1,0,2,Normal
+3900524,Jérémie Bréchet,Gazélec Ajaccio,30.560431934120306,0.07257427465035227,False,Right Foot,Open Play,1,0,0,Volley
+3900524,David Ducourtioux,Gazélec Ajaccio,25.649366463910958,0.06893567809834206,False,Left Foot,Open Play,0,0,1,Normal
+3900524,Roderic Filippi,Gazélec Ajaccio,11.12205017071942,0.05946155284734274,False,Head,Open Play,0,1,4,Normal
+3900524,Mohamed Larbi,Gazélec Ajaccio,10.955363982999376,0.054189843385803745,True,Left Foot,Open Play,0,1,2,Half Volley
+3900524,Yann Jouffre,Lorient,15.322206107476815,0.05607924219853865,False,Left Foot,Open Play,0,1,2,Normal
+3900524,Benjamin Moukandjo Bilé,Lorient,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3900524,Jérôme Le Moigne,Gazélec Ajaccio,31.265636088203934,0.05880520513135439,False,Right Foot,Open Play,1,0,0,Normal
+3900524,David Ducourtioux,Gazélec Ajaccio,15.305227865013963,0.059253615827273225,False,Head,Open Play,0,0,2,Normal
+3900524,Jacques Zoua Daogari,Gazélec Ajaccio,13.53587825004348,0.058430820411963104,False,Head,Open Play,0,0,3,Normal
+3900524,Mohamed Larbi,Gazélec Ajaccio,19.659603251337497,0.05767624198747862,False,Right Foot,Open Play,1,0,2,Normal
+3900524,Didier Ndong Ibrahim,Lorient,17.608236708995033,0.0608030526682099,False,Left Foot,Open Play,0,1,3,Normal
+3900524,Mohamed Larbi,Gazélec Ajaccio,16.688319268278637,0.06358943796604395,False,Left Foot,Open Play,1,0,2,Normal
+3900524,Romain Philippoteaux,Lorient,20.456050449683584,0.06531549539189822,False,Right Foot,Open Play,0,0,1,Normal
+3900524,Mohamed Larbi,Gazélec Ajaccio,25.838343600161377,0.06863747492400164,False,Right Foot,Open Play,1,1,1,Normal
+3900524,Damjan Đoković,Gazélec Ajaccio,18.536720314014552,0.06385053770957022,False,Left Foot,Open Play,1,0,1,Half Volley
+3900524,Jacques Zoua Daogari,Gazélec Ajaccio,9.538343671728336,0.059569757583417676,False,Right Foot,Open Play,1,0,1,Half Volley
+3900524,David Ducourtioux,Gazélec Ajaccio,37.85828839237189,0.06250317698167963,False,Right Foot,Open Play,0,0,1,Normal
+3900524,Issiar Dia,Gazélec Ajaccio,17.465680633745716,0.06378410774422709,False,Left Foot,Open Play,0,0,1,Normal

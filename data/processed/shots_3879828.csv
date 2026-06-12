@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.959472625531973,0.07252295243639736,False,Left Foot,Open Play,0,0,2,Normal
-25.625963396524234,0.06912218970603361,False,Right Foot,Open Play,0,0,1,Normal
-23.486591919646408,0.05483607048613368,False,Right Foot,Open Play,0,0,1,Normal
-20.681634364817498,0.05644402443665288,False,Left Foot,Open Play,0,1,3,Normal
-25.52802381697416,0.05653578328570645,False,Right Foot,Open Play,0,0,1,Normal
-12.048651376813925,0.05792790182093098,False,Right Foot,Open Play,1,0,1,Normal
-25.18769540867127,0.0665108583723887,False,Left Foot,Open Play,0,1,3,Normal
-33.24123944740929,0.05860622643274146,False,Left Foot,Open Play,0,0,1,Normal
-14.749237268414936,0.057035177516857834,False,Right Foot,Open Play,1,0,1,Normal
-14.524806367039798,0.06210066783229011,False,Right Foot,Open Play,0,0,1,Half Volley
-16.230834852218788,0.06099267476199388,False,Left Foot,Open Play,1,1,1,Normal
-33.883476799171596,0.07423438716211501,False,Right Foot,Open Play,0,0,0,Normal
-22.522211259110414,0.06620419018547716,False,Right Foot,Open Play,0,1,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-26.57066051117285,0.06932615091525236,False,Right Foot,Open Play,0,1,2,Normal
-14.62908062729849,0.056924600396664346,False,Right Foot,Open Play,1,0,3,Volley
-24.901807163336567,0.06553732682039905,False,Right Foot,Free Kick,0,0,0,Normal
-10.890362712049582,0.05957658951909537,False,Head,Open Play,0,0,3,Normal
-29.920728600754355,0.058901649971212486,False,Right Foot,Open Play,0,0,1,Normal
-31.479675983084704,0.07218102402203619,False,Left Foot,Open Play,0,0,1,Normal
-29.793455657241246,0.06026312285593995,False,Right Foot,Open Play,0,1,1,Half Volley
-9.904544411531509,0.05440068696924339,False,Right Foot,Open Play,1,0,3,Half Volley
-25.181143738917022,0.06896858376818768,False,Right Foot,Open Play,0,0,2,Normal
-13.524792050157364,0.06174305169641218,False,Head,Open Play,0,1,2,Normal
-9.716480844420984,0.059104189579600196,True,Head,Open Play,0,1,4,Normal
-33.31816321467917,0.06892842002711538,False,Right Foot,Open Play,0,0,1,Normal
-25.68131616564852,0.06936537010024349,False,Right Foot,Free Kick,0,0,0,Normal
-24.100622398602074,0.06389284428354895,False,Right Foot,Open Play,0,0,2,Normal
-8.919641248391109,0.059084103599774236,False,Head,Open Play,0,1,4,Normal
-23.842189496772317,0.06356324444765359,False,Right Foot,Open Play,0,0,1,Normal
-7.523961722390677,0.058453124189719645,True,Left Foot,Open Play,1,0,2,Normal
-13.24839612934335,0.05706403418441669,False,Head,Open Play,0,0,3,Normal
-7.849203781276158,0.058639608069147246,True,Right Foot,Open Play,1,0,2,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-29.351831288694747,0.0721622682942212,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879828,Josef Alexander Martínez Mencia,Torino,29.959472625531973,0.07252295243639736,False,Left Foot,Open Play,0,0,2,Normal
+3879828,Joel Chukwuma Obi,Torino,25.625963396524234,0.06912218970603361,False,Right Foot,Open Play,0,0,1,Normal
+3879828,Maicon Douglas Sisenando,AS Roma,23.486591919646408,0.05483607048613368,False,Right Foot,Open Play,0,0,1,Normal
+3879828,Mohamed Salah,AS Roma,20.681634364817498,0.05644402443665288,False,Left Foot,Open Play,0,1,3,Normal
+3879828,Alessandro Florenzi,AS Roma,25.52802381697416,0.05653578328570645,False,Right Foot,Open Play,0,0,1,Normal
+3879828,Mohamed Salah,AS Roma,12.048651376813925,0.05792790182093098,False,Right Foot,Open Play,1,0,1,Normal
+3879828,Mohamed Salah,AS Roma,25.18769540867127,0.0665108583723887,False,Left Foot,Open Play,0,1,3,Normal
+3879828,Seydou Kéita,AS Roma,33.24123944740929,0.05860622643274146,False,Left Foot,Open Play,0,0,1,Normal
+3879828,Andrea Belotti,Torino,14.749237268414936,0.057035177516857834,False,Right Foot,Open Play,1,0,1,Normal
+3879828,Josef Alexander Martínez Mencia,Torino,14.524806367039798,0.06210066783229011,False,Right Foot,Open Play,0,0,1,Half Volley
+3879828,Radja Nainggolan,AS Roma,16.230834852218788,0.06099267476199388,False,Left Foot,Open Play,1,1,1,Normal
+3879828,Andrea Belotti,Torino,33.883476799171596,0.07423438716211501,False,Right Foot,Open Play,0,0,0,Normal
+3879828,Gastón Alexis Silva Perdomo,Torino,22.522211259110414,0.06620419018547716,False,Right Foot,Open Play,0,1,2,Normal
+3879828,Andrea Belotti,Torino,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3879828,Radja Nainggolan,AS Roma,26.57066051117285,0.06932615091525236,False,Right Foot,Open Play,0,1,2,Normal
+3879828,Radja Nainggolan,AS Roma,14.62908062729849,0.056924600396664346,False,Right Foot,Open Play,1,0,3,Volley
+3879828,Alessandro Florenzi,AS Roma,24.901807163336567,0.06553732682039905,False,Right Foot,Free Kick,0,0,0,Normal
+3879828,Stephan El Shaarawy,AS Roma,10.890362712049582,0.05957658951909537,False,Head,Open Play,0,0,3,Normal
+3879828,Daniele Baselli,Torino,29.920728600754355,0.058901649971212486,False,Right Foot,Open Play,0,0,1,Normal
+3879828,Gastón Alexis Silva Perdomo,Torino,31.479675983084704,0.07218102402203619,False,Left Foot,Open Play,0,0,1,Normal
+3879828,Alessandro Florenzi,AS Roma,29.793455657241246,0.06026312285593995,False,Right Foot,Open Play,0,1,1,Half Volley
+3879828,Radja Nainggolan,AS Roma,9.904544411531509,0.05440068696924339,False,Right Foot,Open Play,1,0,3,Half Volley
+3879828,Josef Alexander Martínez Mencia,Torino,25.181143738917022,0.06896858376818768,False,Right Foot,Open Play,0,0,2,Normal
+3879828,Edin Džeko,AS Roma,13.524792050157364,0.06174305169641218,False,Head,Open Play,0,1,2,Normal
+3879828,Konstantinos Manolas,AS Roma,9.716480844420984,0.059104189579600196,True,Head,Open Play,0,1,4,Normal
+3879828,Daniele Baselli,Torino,33.31816321467917,0.06892842002711538,False,Right Foot,Open Play,0,0,1,Normal
+3879828,Konstantinos Manolas,AS Roma,25.68131616564852,0.06936537010024349,False,Right Foot,Free Kick,0,0,0,Normal
+3879828,Andrea Belotti,Torino,24.100622398602074,0.06389284428354895,False,Right Foot,Open Play,0,0,2,Normal
+3879828,Alessandro Gazzi,Torino,8.919641248391109,0.059084103599774236,False,Head,Open Play,0,1,4,Normal
+3879828,Edin Džeko,AS Roma,23.842189496772317,0.06356324444765359,False,Right Foot,Open Play,0,0,1,Normal
+3879828,Josef Alexander Martínez Mencia,Torino,7.523961722390677,0.058453124189719645,True,Left Foot,Open Play,1,0,2,Normal
+3879828,Konstantinos Manolas,AS Roma,13.24839612934335,0.05706403418441669,False,Head,Open Play,0,0,3,Normal
+3879828,Francesco Totti,AS Roma,7.849203781276158,0.058639608069147246,True,Right Foot,Open Play,1,0,2,Half Volley
+3879828,Francesco Totti,AS Roma,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3879828,Francesco Totti,AS Roma,29.351831288694747,0.0721622682942212,False,Right Foot,Open Play,0,1,1,Normal

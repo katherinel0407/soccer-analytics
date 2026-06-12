@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.265368445693468,0.05464944668838637,True,Right Foot,Open Play,0,1,1,Normal
-23.135470602518552,0.05491196618207337,False,Right Foot,Open Play,1,1,1,Half Volley
-14.996666296213968,0.06143426293614985,False,Left Foot,Open Play,1,0,2,Normal
-28.71167010119752,0.05895697298153381,False,Right Foot,Open Play,0,0,1,Normal
-5.536244214266562,0.05639074220368017,False,Head,Open Play,0,1,7,Normal
-7.74661216274572,0.05827546469117367,False,Head,Open Play,0,0,6,Normal
-21.991134577370037,0.06640593239147283,False,Left Foot,Open Play,1,0,0,Volley
-7.5133215025047395,0.057290857254685704,False,Head,Open Play,0,1,5,Normal
-32.07319753314284,0.06443071862272612,False,Left Foot,Open Play,0,0,2,Normal
-10.705606008068857,0.05483568916008743,False,Head,Open Play,0,1,2,Normal
-11.260550608207392,0.057658549353736155,False,Head,Open Play,0,1,2,Normal
-35.346428390998724,0.06682490183230082,False,Right Foot,Open Play,0,0,1,Normal
-11.591807451817,0.06007392096119799,False,Head,Open Play,0,0,2,Normal
-24.904015740438332,0.06146246081009433,False,Right Foot,Open Play,0,0,2,Normal
-16.122654868228125,0.05699093416039619,False,Right Foot,Open Play,1,1,3,Half Volley
-24.359392439057256,0.06591689909974213,True,Left Foot,Open Play,1,0,2,Normal
-8.469356528095858,0.05892354243692369,False,Left Foot,Open Play,1,0,3,Normal
-7.299315036357867,0.057246006128406225,False,Head,Open Play,0,1,2,Normal
-12.918978287774934,0.05971249046235739,False,Head,Open Play,0,1,2,Normal
-21.81238180483736,0.06573880717769563,True,Left Foot,Open Play,1,1,2,Normal
-37.60478692932589,0.07229400338906834,False,Right Foot,Open Play,0,1,1,Normal
-14.425671561490645,0.055206411714957715,False,Right Foot,Open Play,1,0,0,Normal
-22.663186007267385,0.053158972259436145,False,Left Foot,Open Play,0,0,1,Normal
-14.916433890176299,0.05583704687411464,False,Left Foot,Open Play,1,0,2,Volley
-7.256031973468697,0.05792244202626966,False,Right Foot,Open Play,1,1,5,Normal
-15.908802594790092,0.058767066082136034,False,Left Foot,Open Play,1,0,2,Normal
-6.248199740725322,0.05544421857747619,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900612,Mevlüt Erdinç,Guingamp,13.265368445693468,0.05464944668838637,True,Right Foot,Open Play,0,1,1,Normal
+3900612,Lossémy Karaboué,Troyes,23.135470602518552,0.05491196618207337,False,Right Foot,Open Play,1,1,1,Half Volley
+3900612,Corentin Jean,Troyes,14.996666296213968,0.06143426293614985,False,Left Foot,Open Play,1,0,2,Normal
+3900612,Karim Azamoum,Troyes,28.71167010119752,0.05895697298153381,False,Right Foot,Open Play,0,0,1,Normal
+3900612,Lionel Mathis,Guingamp,5.536244214266562,0.05639074220368017,False,Head,Open Play,0,1,7,Normal
+3900612,Mevlüt Erdinç,Guingamp,7.74661216274572,0.05827546469117367,False,Head,Open Play,0,0,6,Normal
+3900612,Thibault Giresse,Guingamp,21.991134577370037,0.06640593239147283,False,Left Foot,Open Play,1,0,0,Volley
+3900612,Babacar Gueye,Troyes,7.5133215025047395,0.057290857254685704,False,Head,Open Play,0,1,5,Normal
+3900612,Lossémy Karaboué,Troyes,32.07319753314284,0.06443071862272612,False,Left Foot,Open Play,0,0,2,Normal
+3900612,Thiago Xavier Rodrigues Corrêa,Troyes,10.705606008068857,0.05483568916008743,False,Head,Open Play,0,1,2,Normal
+3900612,Mevlüt Erdinç,Guingamp,11.260550608207392,0.057658549353736155,False,Head,Open Play,0,1,2,Normal
+3900612,Corentin Jean,Troyes,35.346428390998724,0.06682490183230082,False,Right Foot,Open Play,0,0,1,Normal
+3900612,Thiago Xavier Rodrigues Corrêa,Troyes,11.591807451817,0.06007392096119799,False,Head,Open Play,0,0,2,Normal
+3900612,Aloïs Confais,Troyes,24.904015740438332,0.06146246081009433,False,Right Foot,Open Play,0,0,2,Normal
+3900612,Mevlüt Erdinç,Guingamp,16.122654868228125,0.05699093416039619,False,Right Foot,Open Play,1,1,3,Half Volley
+3900612,Younousse Sankharé,Guingamp,24.359392439057256,0.06591689909974213,True,Left Foot,Open Play,1,0,2,Normal
+3900612,Babacar Gueye,Troyes,8.469356528095858,0.05892354243692369,False,Left Foot,Open Play,1,0,3,Normal
+3900612,Mevlüt Erdinç,Guingamp,7.299315036357867,0.057246006128406225,False,Head,Open Play,0,1,2,Normal
+3900612,Thiago Xavier Rodrigues Corrêa,Troyes,12.918978287774934,0.05971249046235739,False,Head,Open Play,0,1,2,Normal
+3900612,Thibault Giresse,Guingamp,21.81238180483736,0.06573880717769563,True,Left Foot,Open Play,1,1,2,Normal
+3900612,Karim Azamoum,Troyes,37.60478692932589,0.07229400338906834,False,Right Foot,Open Play,0,1,1,Normal
+3900612,Julien Cardy,Guingamp,14.425671561490645,0.055206411714957715,False,Right Foot,Open Play,1,0,0,Normal
+3900612,Stéphane Darbion,Troyes,22.663186007267385,0.053158972259436145,False,Left Foot,Open Play,0,0,1,Normal
+3900612,Ludovic Blas,Guingamp,14.916433890176299,0.05583704687411464,False,Left Foot,Open Play,1,0,2,Volley
+3900612,Karim Azamoum,Troyes,7.256031973468697,0.05792244202626966,False,Right Foot,Open Play,1,1,5,Normal
+3900612,Stéphane Darbion,Troyes,15.908802594790092,0.058767066082136034,False,Left Foot,Open Play,1,0,2,Normal
+3900612,Ludovic Blas,Guingamp,6.248199740725322,0.05544421857747619,True,Right Foot,Open Play,1,0,2,Normal

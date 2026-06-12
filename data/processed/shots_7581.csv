@@ -1,46 +1,46 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.810249675906654,0.05852323815906913,True,Left Foot,Open Play,0,0,4,Normal
-8.94427190999916,0.059225041351301994,True,Right Foot,Open Play,1,0,1,Normal
-24.20743687382041,0.05589736977586779,False,Left Foot,Free Kick,0,0,0,Normal
-23.345235059857504,0.06738677712556854,False,Right Foot,Open Play,0,0,2,Normal
-24.186773244895647,0.06637476208566208,False,Right Foot,Open Play,0,0,2,Normal
-13.45362404707371,0.054816834098083196,False,Right Foot,Open Play,1,1,1,Normal
-27.202941017470888,0.06976651346115557,False,Right Foot,Open Play,0,0,2,Normal
-12.806248474865697,0.06133888858289386,False,Left Foot,Open Play,1,0,0,Half Volley
-10.816653826391969,0.06027626139884341,False,Right Foot,Open Play,1,0,3,Volley
-25.079872407968907,0.06885632663036952,False,Right Foot,Open Play,0,0,2,Normal
-29.410882339705484,0.05637629800266653,False,Left Foot,Open Play,1,0,1,Half Volley
-5.0990195135927845,0.05707651274782877,False,Head,Open Play,0,1,6,Normal
-18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,1,0,0,Normal
-31.11269837220809,0.05334577547530407,False,Right Foot,Open Play,1,1,2,Half Volley
-13.0,0.05284224919539496,False,Right Foot,Open Play,0,0,1,Normal
-22.47220505424423,0.06528797959449634,False,Right Foot,Open Play,0,0,1,Normal
-22.80350850198276,0.06736575895826241,False,Right Foot,Open Play,1,0,1,Normal
-16.401219466856727,0.05614516653493011,False,Right Foot,Open Play,0,0,4,Normal
-21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,0,0,2,Normal
-26.40075756488817,0.05946416968850502,False,Right Foot,Open Play,1,0,1,Normal
-29.206163733020468,0.05559015960973912,False,Left Foot,Open Play,0,0,1,Normal
-11.40175425099138,0.06023061517477308,False,Head,Open Play,0,0,1,Normal
-24.166091947189145,0.06827490364120975,False,Left Foot,Open Play,1,0,1,Normal
-25.079872407968907,0.05961853878235462,False,Right Foot,Open Play,0,0,1,Normal
-32.0,0.06892796015856448,False,Right Foot,Open Play,0,0,2,Normal
-22.360679774997898,0.05855580607534376,False,Right Foot,Open Play,0,0,1,Half Volley
-42.579337712087536,0.068850815529188,False,Left Foot,Open Play,0,0,0,Normal
-25.495097567963924,0.06292532539615285,False,Right Foot,Open Play,0,0,0,Volley
-25.96150997149434,0.06189610585046071,False,Right Foot,Open Play,0,0,1,Normal
-24.166091947189145,0.06827490364120975,False,Right Foot,Open Play,0,1,1,Normal
-24.413111231467404,0.0666606492924764,False,Right Foot,Open Play,0,0,1,Normal
-15.264337522473747,0.061751288581591984,False,Right Foot,Open Play,0,0,2,Half Volley
-11.045361017187261,0.058822261465885754,False,Right Foot,Penalty,0,0,0,Normal
-24.041630560342615,0.06761890740333981,False,Right Foot,Open Play,0,1,4,Normal
-25.059928172283335,0.0690358856417405,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7581,Mathias Jørgensen Jatta,Denmark,7.810249675906654,0.05852323815906913,True,Left Foot,Open Play,0,0,4,Normal
+7581,Mario Mandžukić,Croatia,8.94427190999916,0.059225041351301994,True,Right Foot,Open Play,1,0,1,Normal
+7581,Ivan Perišić,Croatia,24.20743687382041,0.05589736977586779,False,Left Foot,Free Kick,0,0,0,Normal
+7581,Ivan Perišić,Croatia,23.345235059857504,0.06738677712556854,False,Right Foot,Open Play,0,0,2,Normal
+7581,Christian Dannemann Eriksen,Denmark,24.186773244895647,0.06637476208566208,False,Right Foot,Open Play,0,0,2,Normal
+7581,Martin Braithwaite Christensen,Denmark,13.45362404707371,0.054816834098083196,False,Right Foot,Open Play,1,1,1,Normal
+7581,Ivan Rakitić,Croatia,27.202941017470888,0.06976651346115557,False,Right Foot,Open Play,0,0,2,Normal
+7581,Ivan Perišić,Croatia,12.806248474865697,0.06133888858289386,False,Left Foot,Open Play,1,0,0,Half Volley
+7581,Ivan Perišić,Croatia,10.816653826391969,0.06027626139884341,False,Right Foot,Open Play,1,0,3,Volley
+7581,Ante Rebić,Croatia,25.079872407968907,0.06885632663036952,False,Right Foot,Open Play,0,0,2,Normal
+7581,Christian Dannemann Eriksen,Denmark,29.410882339705484,0.05637629800266653,False,Left Foot,Open Play,1,0,1,Half Volley
+7581,Dejan Lovren,Croatia,5.0990195135927845,0.05707651274782877,False,Head,Open Play,0,1,6,Normal
+7581,Ivan Rakitić,Croatia,18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,1,0,0,Normal
+7581,Ivan Perišić,Croatia,31.11269837220809,0.05334577547530407,False,Right Foot,Open Play,1,1,2,Half Volley
+7581,Martin Braithwaite Christensen,Denmark,13.0,0.05284224919539496,False,Right Foot,Open Play,0,0,1,Normal
+7581,Ivan Perišić,Croatia,22.47220505424423,0.06528797959449634,False,Right Foot,Open Play,0,0,1,Normal
+7581,Ante Rebić,Croatia,22.80350850198276,0.06736575895826241,False,Right Foot,Open Play,1,0,1,Normal
+7581,Nicolai Jørgensen,Denmark,16.401219466856727,0.05614516653493011,False,Right Foot,Open Play,0,0,4,Normal
+7581,Christian Dannemann Eriksen,Denmark,21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,0,0,2,Normal
+7581,Luka Modrić,Croatia,26.40075756488817,0.05946416968850502,False,Right Foot,Open Play,1,0,1,Normal
+7581,Ante Rebić,Croatia,29.206163733020468,0.05559015960973912,False,Left Foot,Open Play,0,0,1,Normal
+7581,Ivan Perišić,Croatia,11.40175425099138,0.06023061517477308,False,Head,Open Play,0,0,1,Normal
+7581,Josip Pivarić,Croatia,24.166091947189145,0.06827490364120975,False,Left Foot,Open Play,1,0,1,Normal
+7581,Lasse Schöne,Denmark,25.079872407968907,0.05961853878235462,False,Right Foot,Open Play,0,0,1,Normal
+7581,Ivan Rakitić,Croatia,32.0,0.06892796015856448,False,Right Foot,Open Play,0,0,2,Normal
+7581,Martin Braithwaite Christensen,Denmark,22.360679774997898,0.05855580607534376,False,Right Foot,Open Play,0,0,1,Half Volley
+7581,Thomas Delaney,Denmark,42.579337712087536,0.068850815529188,False,Left Foot,Open Play,0,0,0,Normal
+7581,Lasse Schöne,Denmark,25.495097567963924,0.06292532539615285,False,Right Foot,Open Play,0,0,0,Volley
+7581,Lasse Schöne,Denmark,25.96150997149434,0.06189610585046071,False,Right Foot,Open Play,0,0,1,Normal
+7581,Mateo Kovačić,Croatia,24.166091947189145,0.06827490364120975,False,Right Foot,Open Play,0,1,1,Normal
+7581,Pione Sisto Ifolo Emirmija,Denmark,24.413111231467404,0.0666606492924764,False,Right Foot,Open Play,0,0,1,Normal
+7581,Nicolai Jørgensen,Denmark,15.264337522473747,0.061751288581591984,False,Right Foot,Open Play,0,0,2,Half Volley
+7581,Luka Modrić,Croatia,11.045361017187261,0.058822261465885754,False,Right Foot,Penalty,0,0,0,Normal
+7581,Luka Modrić,Croatia,24.041630560342615,0.06761890740333981,False,Right Foot,Open Play,0,1,4,Normal
+7581,Andrej Kramarić,Croatia,25.059928172283335,0.0690358856417405,False,Right Foot,Open Play,0,0,1,Normal
+7581,Christian Dannemann Eriksen,Denmark,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+7581,Milan Badelj,Croatia,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+7581,Simon Thorup Kjær,Denmark,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+7581,Andrej Kramarić,Croatia,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+7581,Michael Krohn-Dehli,Denmark,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+7581,Luka Modrić,Croatia,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+7581,Lasse Schöne,Denmark,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+7581,Josip Pivarić,Croatia,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+7581,Nicolai Jørgensen,Denmark,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+7581,Ivan Rakitić,Croatia,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.701546268507922,0.05290295586379789,False,Head,Open Play,0,1,3,Normal
-40.177854596780044,0.07506483753652984,False,Right Foot,Open Play,1,0,0,Volley
-12.355565547557903,0.06051764828211487,True,Left Foot,Open Play,1,0,1,Volley
-16.800297616411438,0.06161508864075069,False,Right Foot,Open Play,0,0,2,Normal
-11.596551211459381,0.060559398059866015,False,Right Foot,Open Play,1,0,3,Normal
-10.62167595062098,0.06010693458688495,False,Left Foot,Open Play,1,0,1,Backheel
-29.438919817140032,0.05964246094989758,False,Right Foot,Free Kick,0,0,0,Normal
-22.85804016095868,0.054071270410957745,False,Right Foot,Open Play,0,0,1,Normal
-24.71214276423637,0.05692327686498908,False,Right Foot,Open Play,0,0,3,Normal
-28.509822868618464,0.06842857666948084,False,Right Foot,Free Kick,0,0,0,Normal
-7.571657678474376,0.05592009377931385,False,Right Foot,Open Play,1,0,1,Volley
-32.938882798297826,0.06842281174331606,False,Right Foot,Open Play,0,0,0,Normal
-32.599999999999994,0.06923795296753091,False,Left Foot,Open Play,0,1,2,Normal
-7.05761999543755,0.05659146970839922,False,Head,Open Play,0,0,4,Normal
-8.095677859203636,0.05877356593518313,True,Right Foot,Open Play,1,0,2,Volley
-20.882768015758828,0.05611638773161199,False,Right Foot,Open Play,1,0,1,Half Volley
-33.02559613390802,0.07022777292674329,False,Right Foot,Free Kick,0,0,0,Normal
-17.000000000000007,0.0637005400063554,True,Right Foot,Open Play,1,0,1,Normal
-14.78005412709981,0.061882686571754594,False,Right Foot,Open Play,0,0,2,Normal
-16.901183390520327,0.06177998996342487,True,Right Foot,Open Play,1,0,1,Normal
-27.227375929384014,0.061314432096853104,False,Right Foot,Open Play,0,0,1,Lob
-26.142876658852977,0.06933906903764882,False,Left Foot,Open Play,0,0,0,Normal
-13.865424623862047,0.06188708890987872,False,Left Foot,Open Play,0,0,2,Normal
-15.31698403733581,0.06281186983800204,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68347,Carles Puyol i Saforcada,Barcelona,9.701546268507922,0.05290295586379789,False,Head,Open Play,0,1,3,Normal
+68347,Ustaritz Aldekoaotalora Astarloa,Athletic Club,40.177854596780044,0.07506483753652984,False,Right Foot,Open Play,1,0,0,Volley
+68347,Francisco Javier Yeste Navarro,Athletic Club,12.355565547557903,0.06051764828211487,True,Left Foot,Open Play,1,0,1,Volley
+68347,Anderson Luís de Souza,Barcelona,16.800297616411438,0.06161508864075069,False,Right Foot,Open Play,0,0,2,Normal
+68347,Joseba Garmendia Elorriaga,Athletic Club,11.596551211459381,0.060559398059866015,False,Right Foot,Open Play,1,0,3,Normal
+68347,Fernando Llorente Torres,Athletic Club,10.62167595062098,0.06010693458688495,False,Left Foot,Open Play,1,0,1,Backheel
+68347,Ronaldo de Assis Moreira,Barcelona,29.438919817140032,0.05964246094989758,False,Right Foot,Free Kick,0,0,0,Normal
+68347,Anderson Luís de Souza,Barcelona,22.85804016095868,0.054071270410957745,False,Right Foot,Open Play,0,0,1,Normal
+68347,Anderson Luís de Souza,Barcelona,24.71214276423637,0.05692327686498908,False,Right Foot,Open Play,0,0,3,Normal
+68347,Ronaldo de Assis Moreira,Barcelona,28.509822868618464,0.06842857666948084,False,Right Foot,Free Kick,0,0,0,Normal
+68347,Eiður Smári Guðjohnsen,Barcelona,7.571657678474376,0.05592009377931385,False,Right Foot,Open Play,1,0,1,Volley
+68347,Xavier Hernández Creus,Barcelona,32.938882798297826,0.06842281174331606,False,Right Foot,Open Play,0,0,0,Normal
+68347,Francisco Javier Yeste Navarro,Athletic Club,32.599999999999994,0.06923795296753091,False,Left Foot,Open Play,0,1,2,Normal
+68347,Carles Puyol i Saforcada,Barcelona,7.05761999543755,0.05659146970839922,False,Head,Open Play,0,0,4,Normal
+68347,Carles Puyol i Saforcada,Barcelona,8.095677859203636,0.05877356593518313,True,Right Foot,Open Play,1,0,2,Volley
+68347,Rafael Márquez Álvarez,Barcelona,20.882768015758828,0.05611638773161199,False,Right Foot,Open Play,1,0,1,Half Volley
+68347,Rafael Márquez Álvarez,Barcelona,33.02559613390802,0.07022777292674329,False,Right Foot,Free Kick,0,0,0,Normal
+68347,Eiður Smári Guðjohnsen,Barcelona,17.000000000000007,0.0637005400063554,True,Right Foot,Open Play,1,0,1,Normal
+68347,Andrés Iniesta Luján,Barcelona,14.78005412709981,0.061882686571754594,False,Right Foot,Open Play,0,0,2,Normal
+68347,Javier Pedro Saviola Fernández,Barcelona,16.901183390520327,0.06177998996342487,True,Right Foot,Open Play,1,0,1,Normal
+68347,Ronaldo de Assis Moreira,Barcelona,27.227375929384014,0.061314432096853104,False,Right Foot,Open Play,0,0,1,Lob
+68347,Igor Gabilondo del Campo,Athletic Club,26.142876658852977,0.06933906903764882,False,Left Foot,Open Play,0,0,0,Normal
+68347,Lionel Andrés Messi Cuccittini,Barcelona,13.865424623862047,0.06188708890987872,False,Left Foot,Open Play,0,0,2,Normal
+68347,Ronaldo de Assis Moreira,Barcelona,15.31698403733581,0.06281186983800204,False,Right Foot,Open Play,0,1,2,Normal

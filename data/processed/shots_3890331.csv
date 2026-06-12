@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.896375859826666,0.058199137863326214,False,Left Foot,Open Play,1,0,2,Normal
-22.510886255321,0.05906247899915457,False,Left Foot,Free Kick,0,0,0,Normal
-25.045758123881974,0.06360179256203798,False,Right Foot,Open Play,1,0,1,Half Volley
-21.2143819141638,0.0664554491083992,False,Right Foot,Open Play,0,0,2,Normal
-12.253978945632312,0.06099537985057346,True,Left Foot,Open Play,0,1,2,Normal
-17.42899882379938,0.06336557511849861,False,Left Foot,Open Play,0,0,1,Normal
-25.031979546172536,0.05999097215272143,False,Right Foot,Open Play,1,0,1,Normal
-22.372527796384563,0.06332116328866898,False,Right Foot,Free Kick,0,0,0,Normal
-10.084145972763386,0.058314234172961846,False,Head,Open Play,0,0,4,Normal
-13.790576492663389,0.06188088376366823,False,Left Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-14.14955829699288,0.06166823017776883,False,Left Foot,Open Play,1,0,2,Half Volley
-11.686744627996289,0.05319474864527225,False,Left Foot,Open Play,1,1,2,Normal
-25.622255950637918,0.06933253944515354,False,Right Foot,Open Play,0,0,2,Normal
-10.800462953040483,0.05905758139024959,False,Right Foot,Open Play,1,0,3,Normal
-12.87050892544657,0.05636593809104572,False,Right Foot,Open Play,0,0,1,Normal
-16.74514855114758,0.06067570966536403,False,Right Foot,Open Play,0,0,3,Normal
-26.626678350857055,0.06133592957567855,False,Right Foot,Open Play,0,0,0,Half Volley
-19.912307751739878,0.06471172920814271,False,Left Foot,Open Play,1,0,1,Half Volley
-22.441479452121694,0.06613447070429763,False,Left Foot,Free Kick,0,0,0,Normal
-20.71834935510066,0.056994392972643367,False,Right Foot,Open Play,0,0,2,Normal
-22.59778750231978,0.06326948043923884,False,Right Foot,Open Play,0,0,1,Normal
-11.573245007343443,0.0584029491681986,False,Right Foot,Open Play,1,1,2,Normal
-15.121177202850308,0.06261830865080735,False,Left Foot,Open Play,0,1,1,Normal
-8.761849119906142,0.05894324356144055,True,Left Foot,Open Play,0,0,2,Normal
-13.092364186807512,0.06080803509685118,False,Left Foot,Open Play,0,0,1,Normal
-31.14642836666831,0.07358391634758805,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890331,Yoshinori Muto,FSV Mainz 05,6.896375859826666,0.058199137863326214,False,Left Foot,Open Play,1,0,2,Normal
+3890331,Pierre Bengtsson,FSV Mainz 05,22.510886255321,0.05906247899915457,False,Left Foot,Free Kick,0,0,0,Normal
+3890331,İlkay Gündoğan,Borussia Dortmund,25.045758123881974,0.06360179256203798,False,Right Foot,Open Play,1,0,1,Half Volley
+3890331,Marco Reus,Borussia Dortmund,21.2143819141638,0.0664554491083992,False,Right Foot,Open Play,0,0,2,Normal
+3890331,Marco Reus,Borussia Dortmund,12.253978945632312,0.06099537985057346,True,Left Foot,Open Play,0,1,2,Normal
+3890331,Yunus Mallı,FSV Mainz 05,17.42899882379938,0.06336557511849861,False,Left Foot,Open Play,0,0,1,Normal
+3890331,Henrikh Mkhitaryan,Borussia Dortmund,25.031979546172536,0.05999097215272143,False,Right Foot,Open Play,1,0,1,Normal
+3890331,Jairo Samperio Bustara,FSV Mainz 05,22.372527796384563,0.06332116328866898,False,Right Foot,Free Kick,0,0,0,Normal
+3890331,Julian Baumgartlinger,FSV Mainz 05,10.084145972763386,0.058314234172961846,False,Head,Open Play,0,0,4,Normal
+3890331,Marco Reus,Borussia Dortmund,13.790576492663389,0.06188088376366823,False,Left Foot,Open Play,0,0,2,Normal
+3890331,Marco Reus,Borussia Dortmund,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3890331,Joo-Ho Park,Borussia Dortmund,14.14955829699288,0.06166823017776883,False,Left Foot,Open Play,1,0,2,Half Volley
+3890331,Yoshinori Muto,FSV Mainz 05,11.686744627996289,0.05319474864527225,False,Left Foot,Open Play,1,1,2,Normal
+3890331,Pablo Ezequiel De Blasis,FSV Mainz 05,25.622255950637918,0.06933253944515354,False,Right Foot,Open Play,0,0,2,Normal
+3890331,Yoshinori Muto,FSV Mainz 05,10.800462953040483,0.05905758139024959,False,Right Foot,Open Play,1,0,3,Normal
+3890331,Shinji Kagawa,Borussia Dortmund,12.87050892544657,0.05636593809104572,False,Right Foot,Open Play,0,0,1,Normal
+3890331,Pierre-Emerick Aubameyang,Borussia Dortmund,16.74514855114758,0.06067570966536403,False,Right Foot,Open Play,0,0,3,Normal
+3890331,İlkay Gündoğan,Borussia Dortmund,26.626678350857055,0.06133592957567855,False,Right Foot,Open Play,0,0,0,Half Volley
+3890331,Yunus Mallı,FSV Mainz 05,19.912307751739878,0.06471172920814271,False,Left Foot,Open Play,1,0,1,Half Volley
+3890331,Phillipp Klement,FSV Mainz 05,22.441479452121694,0.06613447070429763,False,Left Foot,Free Kick,0,0,0,Normal
+3890331,Henrikh Mkhitaryan,Borussia Dortmund,20.71834935510066,0.056994392972643367,False,Right Foot,Open Play,0,0,2,Normal
+3890331,Pierre-Emerick Aubameyang,Borussia Dortmund,22.59778750231978,0.06326948043923884,False,Right Foot,Open Play,0,0,1,Normal
+3890331,Pierre-Emerick Aubameyang,Borussia Dortmund,11.573245007343443,0.0584029491681986,False,Right Foot,Open Play,1,1,2,Normal
+3890331,Pierre-Emerick Aubameyang,Borussia Dortmund,15.121177202850308,0.06261830865080735,False,Left Foot,Open Play,0,1,1,Normal
+3890331,Henrikh Mkhitaryan,Borussia Dortmund,8.761849119906142,0.05894324356144055,True,Left Foot,Open Play,0,0,2,Normal
+3890331,Joo-Ho Park,Borussia Dortmund,13.092364186807512,0.06080803509685118,False,Left Foot,Open Play,0,0,1,Normal
+3890331,Pierre Bengtsson,FSV Mainz 05,31.14642836666831,0.07358391634758805,False,Left Foot,Open Play,0,0,2,Normal

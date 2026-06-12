@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.700241544484456,0.06542782001251171,False,Right Foot,Open Play,1,1,2,Normal
-10.630145812734645,0.05873056426062206,True,Head,Open Play,0,0,2,Normal
-28.28161947272469,0.07138468203979834,False,Left Foot,Open Play,0,0,2,Half Volley
-25.301383361389547,0.06894479086450567,False,Left Foot,Open Play,0,0,3,Half Volley
-15.805062480104281,0.0560228682232208,True,Right Foot,Open Play,0,0,1,Lob
-27.78380823429358,0.05630350858453681,False,Right Foot,Open Play,1,0,0,Normal
-20.725105548585265,0.053519078159150524,False,Right Foot,Open Play,1,0,2,Half Volley
-29.633089612796024,0.06847469323869786,False,Right Foot,Open Play,0,0,2,Normal
-21.799541279577426,0.06667192323977693,False,Right Foot,Open Play,1,0,1,Normal
-24.39713097886717,0.06251524637548239,False,Right Foot,Open Play,1,1,1,Volley
-13.920129309744212,0.05612417721185051,False,Right Foot,Open Play,0,1,2,Normal
-7.856844150166142,0.05503528462461957,True,Left Foot,Open Play,1,0,1,Normal
-10.406248123122955,0.05886262744363582,False,Left Foot,Open Play,1,0,0,Normal
-44.76516502817788,0.08460004371336975,False,Right Foot,Free Kick,0,0,0,Normal
-19.61147623204332,0.057077069250103876,False,Right Foot,Open Play,1,0,1,Half Volley
-14.849242404917497,0.055119594058423045,False,Left Foot,Open Play,0,1,2,Normal
-14.484474446799922,0.058663365913951646,False,Right Foot,Open Play,1,0,2,Half Volley
-24.81632527188504,0.06410923079311553,False,Left Foot,Open Play,0,0,2,Normal
-13.209844813622906,0.06065306721008461,False,Right Foot,Open Play,1,0,1,Volley
-6.350590523722972,0.056158029330227455,False,Right Foot,Open Play,1,1,2,Half Volley
-25.923734298900687,0.0695506928109789,False,Right Foot,Open Play,0,1,2,Normal
-15.28397853963424,0.06262690639128213,True,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890384,Henrikh Mkhitaryan,Borussia Dortmund,20.700241544484456,0.06542782001251171,False,Right Foot,Open Play,1,1,2,Normal
+3890384,Gonzalo Castro Randon,Borussia Dortmund,10.630145812734645,0.05873056426062206,True,Head,Open Play,0,0,2,Normal
+3890384,Filip Kostić,VfB Stuttgart,28.28161947272469,0.07138468203979834,False,Left Foot,Open Play,0,0,2,Half Volley
+3890384,Filip Kostić,VfB Stuttgart,25.301383361389547,0.06894479086450567,False,Left Foot,Open Play,0,0,3,Half Volley
+3890384,Pierre-Emerick Aubameyang,Borussia Dortmund,15.805062480104281,0.0560228682232208,True,Right Foot,Open Play,0,0,1,Lob
+3890384,Lukas Rupp,VfB Stuttgart,27.78380823429358,0.05630350858453681,False,Right Foot,Open Play,1,0,0,Normal
+3890384,Daniel Didavi,VfB Stuttgart,20.725105548585265,0.053519078159150524,False,Right Foot,Open Play,1,0,2,Half Volley
+3890384,Lukas Rupp,VfB Stuttgart,29.633089612796024,0.06847469323869786,False,Right Foot,Open Play,0,0,2,Normal
+3890384,Henrikh Mkhitaryan,Borussia Dortmund,21.799541279577426,0.06667192323977693,False,Right Foot,Open Play,1,0,1,Normal
+3890384,Lukas Rupp,VfB Stuttgart,24.39713097886717,0.06251524637548239,False,Right Foot,Open Play,1,1,1,Volley
+3890384,Timo Werner,VfB Stuttgart,13.920129309744212,0.05612417721185051,False,Right Foot,Open Play,0,1,2,Normal
+3890384,Daniel Didavi,VfB Stuttgart,7.856844150166142,0.05503528462461957,True,Left Foot,Open Play,1,0,1,Normal
+3890384,Pierre-Emerick Aubameyang,Borussia Dortmund,10.406248123122955,0.05886262744363582,False,Left Foot,Open Play,1,0,0,Normal
+3890384,İlkay Gündoğan,Borussia Dortmund,44.76516502817788,0.08460004371336975,False,Right Foot,Free Kick,0,0,0,Normal
+3890384,Pierre-Emerick Aubameyang,Borussia Dortmund,19.61147623204332,0.057077069250103876,False,Right Foot,Open Play,1,0,1,Half Volley
+3890384,Pierre-Emerick Aubameyang,Borussia Dortmund,14.849242404917497,0.055119594058423045,False,Left Foot,Open Play,0,1,2,Normal
+3890384,Marco Reus,Borussia Dortmund,14.484474446799922,0.058663365913951646,False,Right Foot,Open Play,1,0,2,Half Volley
+3890384,Henrikh Mkhitaryan,Borussia Dortmund,24.81632527188504,0.06410923079311553,False,Left Foot,Open Play,0,0,2,Normal
+3890384,Pierre-Emerick Aubameyang,Borussia Dortmund,13.209844813622906,0.06065306721008461,False,Right Foot,Open Play,1,0,1,Volley
+3890384,Henrikh Mkhitaryan,Borussia Dortmund,6.350590523722972,0.056158029330227455,False,Right Foot,Open Play,1,1,2,Half Volley
+3890384,Gonzalo Castro Randon,Borussia Dortmund,25.923734298900687,0.0695506928109789,False,Right Foot,Open Play,0,1,2,Normal
+3890384,Pierre-Emerick Aubameyang,Borussia Dortmund,15.28397853963424,0.06262690639128213,True,Left Foot,Open Play,0,1,2,Normal

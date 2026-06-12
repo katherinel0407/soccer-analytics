@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.382378656319151,0.05471564110102417,False,Head,Open Play,0,1,4,Normal
-6.2649820430708365,0.057837458229772716,False,Head,Open Play,0,1,3,Normal
-30.005999400119972,0.0675705654455032,False,Right Foot,Open Play,0,0,0,Normal
-13.752454326410254,0.05985846712160739,False,Right Foot,Open Play,1,0,2,Normal
-5.0635955604688645,0.05652658009629937,False,Head,Open Play,0,1,5,Normal
-7.051950084905596,0.056727418303656914,False,Head,Open Play,0,1,2,Normal
-28.284624798642817,0.06948458085103085,False,Right Foot,Open Play,0,0,1,Normal
-9.84123975929862,0.05837289426898853,False,Head,Open Play,0,0,5,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-15.028306624500308,0.06237142980458912,False,Left Foot,Open Play,1,0,3,Normal
-19.956452590578323,0.062391461011288805,False,Right Foot,Open Play,1,0,1,Normal
-8.183520025025912,0.05565569587383729,False,Head,Open Play,0,0,2,Normal
-10.70186899564744,0.060103271632147674,False,Head,Open Play,0,1,2,Normal
-13.261975720080326,0.05774291731315728,False,Right Foot,Open Play,1,0,3,Half Volley
-29.877416220282505,0.0564649452060469,False,Right Foot,Open Play,1,0,1,Normal
-19.38762491900439,0.06499694222721689,False,Right Foot,Open Play,0,0,2,Normal
-9.912618221237008,0.054067024193038854,True,Right Foot,Open Play,1,0,2,Half Volley
-9.299999999999997,0.05847804246130194,False,Left Foot,Open Play,1,0,2,Volley
-12.935609765295181,0.061179572628880304,False,Right Foot,Open Play,1,0,3,Half Volley
-19.0685605120051,0.06489764390213223,False,Right Foot,Open Play,0,0,1,Normal
-25.600781238079442,0.068740964872968,False,Right Foot,Open Play,0,1,1,Normal
-15.146286673637205,0.061666500522398034,False,Right Foot,Open Play,1,0,2,Half Volley
-26.40776400985135,0.06972648088851788,False,Right Foot,Open Play,0,1,3,Normal
-12.368508398347794,0.060183197763888446,False,Head,Open Play,0,0,2,Normal
-7.710382610480492,0.05833401976486836,False,Head,Open Play,0,1,4,Normal
-10.278618584226187,0.059716107467817296,False,Head,Open Play,0,0,3,Normal
-6.000833275470998,0.05621206481933427,False,Right Foot,Open Play,1,0,4,Half Volley
-10.989540481748993,0.057983951702607825,False,Left Foot,Open Play,0,0,1,Normal
-8.132035415564786,0.05711284214756891,False,Head,Open Play,0,1,3,Normal
-12.601983970788092,0.060376322143546726,False,Right Foot,Open Play,1,0,2,Normal
-11.081967334368032,0.058425173526680224,False,Right Foot,Open Play,1,0,1,Half Volley
-7.46324326281811,0.05684618555106797,True,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754261,Alexis Alejandro Sánchez Sánchez,Arsenal,5.382378656319151,0.05471564110102417,False,Head,Open Play,0,1,4,Normal
+3754261,Jamie Vardy,Leicester City,6.2649820430708365,0.057837458229772716,False,Head,Open Play,0,1,3,Normal
+3754261,N'Golo Kanté,Leicester City,30.005999400119972,0.0675705654455032,False,Right Foot,Open Play,0,0,0,Normal
+3754261,Alexis Alejandro Sánchez Sánchez,Arsenal,13.752454326410254,0.05985846712160739,False,Right Foot,Open Play,1,0,2,Normal
+3754261,Olivier Giroud,Arsenal,5.0635955604688645,0.05652658009629937,False,Head,Open Play,0,1,5,Normal
+3754261,Olivier Giroud,Arsenal,7.051950084905596,0.056727418303656914,False,Head,Open Play,0,1,2,Normal
+3754261,N'Golo Kanté,Leicester City,28.284624798642817,0.06948458085103085,False,Right Foot,Open Play,0,0,1,Normal
+3754261,Robert Huth,Leicester City,9.84123975929862,0.05837289426898853,False,Head,Open Play,0,0,5,Normal
+3754261,Jamie Vardy,Leicester City,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3754261,Mesut Özil,Arsenal,15.028306624500308,0.06237142980458912,False,Left Foot,Open Play,1,0,3,Normal
+3754261,Aaron Ramsey,Arsenal,19.956452590578323,0.062391461011288805,False,Right Foot,Open Play,1,0,1,Normal
+3754261,Olivier Giroud,Arsenal,8.183520025025912,0.05565569587383729,False,Head,Open Play,0,0,2,Normal
+3754261,Olivier Giroud,Arsenal,10.70186899564744,0.060103271632147674,False,Head,Open Play,0,1,2,Normal
+3754261,Alexis Alejandro Sánchez Sánchez,Arsenal,13.261975720080326,0.05774291731315728,False,Right Foot,Open Play,1,0,3,Half Volley
+3754261,Jamie Vardy,Leicester City,29.877416220282505,0.0564649452060469,False,Right Foot,Open Play,1,0,1,Normal
+3754261,Alexis Alejandro Sánchez Sánchez,Arsenal,19.38762491900439,0.06499694222721689,False,Right Foot,Open Play,0,0,2,Normal
+3754261,Theo Walcott,Arsenal,9.912618221237008,0.054067024193038854,True,Right Foot,Open Play,1,0,2,Half Volley
+3754261,Olivier Giroud,Arsenal,9.299999999999997,0.05847804246130194,False,Left Foot,Open Play,1,0,2,Volley
+3754261,Aaron Ramsey,Arsenal,12.935609765295181,0.061179572628880304,False,Right Foot,Open Play,1,0,3,Half Volley
+3754261,Alexis Alejandro Sánchez Sánchez,Arsenal,19.0685605120051,0.06489764390213223,False,Right Foot,Open Play,0,0,1,Normal
+3754261,N'Golo Kanté,Leicester City,25.600781238079442,0.068740964872968,False,Right Foot,Open Play,0,1,1,Normal
+3754261,Alexis Alejandro Sánchez Sánchez,Arsenal,15.146286673637205,0.061666500522398034,False,Right Foot,Open Play,1,0,2,Half Volley
+3754261,Aaron Ramsey,Arsenal,26.40776400985135,0.06972648088851788,False,Right Foot,Open Play,0,1,3,Normal
+3754261,Olivier Giroud,Arsenal,12.368508398347794,0.060183197763888446,False,Head,Open Play,0,0,2,Normal
+3754261,Per Mertesacker,Arsenal,7.710382610480492,0.05833401976486836,False,Head,Open Play,0,1,4,Normal
+3754261,Per Mertesacker,Arsenal,10.278618584226187,0.059716107467817296,False,Head,Open Play,0,0,3,Normal
+3754261,Daniel Nii Tackie Mensah Welbeck,Arsenal,6.000833275470998,0.05621206481933427,False,Right Foot,Open Play,1,0,4,Half Volley
+3754261,Olivier Giroud,Arsenal,10.989540481748993,0.057983951702607825,False,Left Foot,Open Play,0,0,1,Normal
+3754261,Olivier Giroud,Arsenal,8.132035415564786,0.05711284214756891,False,Head,Open Play,0,1,3,Normal
+3754261,Aaron Ramsey,Arsenal,12.601983970788092,0.060376322143546726,False,Right Foot,Open Play,1,0,2,Normal
+3754261,Theo Walcott,Arsenal,11.081967334368032,0.058425173526680224,False,Right Foot,Open Play,1,0,1,Half Volley
+3754261,Daniel Nii Tackie Mensah Welbeck,Arsenal,7.46324326281811,0.05684618555106797,True,Head,Open Play,0,0,4,Normal

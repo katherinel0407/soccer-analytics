@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.44693273575799,0.06146156283783575,False,Left Foot,Open Play,0,0,2,Half Volley
-21.959280498231266,0.06675994962120992,False,Right Foot,Open Play,0,0,1,Normal
-14.720054347725755,0.05621127174406358,False,Right Foot,Open Play,0,0,2,Normal
-4.201190307519996,0.05678946289546043,True,Head,Open Play,0,0,3,Normal
-28.84250335875858,0.07118977470518338,False,Right Foot,Free Kick,0,0,0,Normal
-28.20017730440715,0.06705758866245767,False,Left Foot,Open Play,0,0,2,Normal
-32.58972230627318,0.06107906698138899,False,Right Foot,Open Play,0,0,1,Normal
-28.974644087546615,0.0712486050327487,False,Right Foot,Open Play,0,0,1,Normal
-9.920181449953427,0.05978505086232806,False,Head,Open Play,0,1,3,Normal
-28.540847920130197,0.07157888861538252,False,Right Foot,Free Kick,0,0,0,Normal
-13.904315876734099,0.05970961582915677,False,Right Foot,Open Play,0,0,3,Normal
-13.069812546475184,0.06072924964207033,False,Left Foot,Open Play,1,0,3,Overhead Kick
-28.653097563788805,0.05823580915284254,False,Right Foot,Open Play,0,0,2,Normal
-10.430723848324236,0.06006505902731023,False,Head,Open Play,0,1,3,Normal
-12.185236969382256,0.0530554910990726,False,Head,Open Play,0,0,2,Normal
-16.18394265931513,0.06322741078195246,False,Left Foot,Open Play,0,0,1,Normal
-15.97310239120754,0.05800935423150485,False,Right Foot,Open Play,1,0,1,Half Volley
-21.82887995294307,0.06685202524554633,False,Left Foot,Open Play,1,0,0,Normal
-12.356779515715248,0.061002441356291064,False,Left Foot,Open Play,1,0,2,Half Volley
-10.700467279516348,0.055916832661852454,False,Left Foot,Open Play,1,0,1,Overhead Kick
-20.620620747203514,0.0533932350541726,False,Left Foot,Open Play,0,0,3,Normal
-22.32330620674276,0.06688848499010444,False,Right Foot,Open Play,0,0,3,Normal
-22.494888308235712,0.05854406884113528,False,Right Foot,Open Play,1,0,2,Normal
-22.07826985975124,0.067013598044805,False,Right Foot,Open Play,1,0,0,Volley
-16.620770138594665,0.06357239885694936,False,Right Foot,Open Play,1,0,2,Normal
-26.041505332833584,0.05630607980895511,False,Right Foot,Open Play,0,0,2,Normal
-8.720665112249176,0.05910856030128445,False,Head,Open Play,0,1,6,Normal
-16.72423391369542,0.056735499834603395,False,Left Foot,Open Play,0,0,2,Normal
-23.501914815605982,0.06486369451538301,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825599,Hernán Arsenio Pérez González,Espanyol,13.44693273575799,0.06146156283783575,False,Left Foot,Open Play,0,0,2,Half Volley
+3825599,Zakaria Bakkali,Valencia,21.959280498231266,0.06675994962120992,False,Right Foot,Open Play,0,0,1,Normal
+3825599,Rodrigo Moreno Machado,Valencia,14.720054347725755,0.05621127174406358,False,Right Foot,Open Play,0,0,2,Normal
+3825599,Víctor Guillermo Álvarez Delgado,Espanyol,4.201190307519996,0.05678946289546043,True,Head,Open Play,0,0,3,Normal
+3825599,Enzo Nicolás Pérez,Valencia,28.84250335875858,0.07118977470518338,False,Right Foot,Free Kick,0,0,0,Normal
+3825599,Marco Asensio Willemsen,Espanyol,28.20017730440715,0.06705758866245767,False,Left Foot,Open Play,0,0,2,Normal
+3825599,Danilo Barbosa da Silva,Valencia,32.58972230627318,0.06107906698138899,False,Right Foot,Open Play,0,0,1,Normal
+3825599,Zakaria Bakkali,Valencia,28.974644087546615,0.0712486050327487,False,Right Foot,Open Play,0,0,1,Normal
+3825599,Álvaro González Soberón,Espanyol,9.920181449953427,0.05978505086232806,False,Head,Open Play,0,1,3,Normal
+3825599,João Pedro Cavaco Cancelo,Valencia,28.540847920130197,0.07157888861538252,False,Right Foot,Free Kick,0,0,0,Normal
+3825599,Marco Asensio Willemsen,Espanyol,13.904315876734099,0.05970961582915677,False,Right Foot,Open Play,0,0,3,Normal
+3825599,Hernán Arsenio Pérez González,Espanyol,13.069812546475184,0.06072924964207033,False,Left Foot,Open Play,1,0,3,Overhead Kick
+3825599,Danilo Barbosa da Silva,Valencia,28.653097563788805,0.05823580915284254,False,Right Foot,Open Play,0,0,2,Normal
+3825599,Rodrigo Moreno Machado,Valencia,10.430723848324236,0.06006505902731023,False,Head,Open Play,0,1,3,Normal
+3825599,Álvaro González Soberón,Espanyol,12.185236969382256,0.0530554910990726,False,Head,Open Play,0,0,2,Normal
+3825599,Marco Asensio Willemsen,Espanyol,16.18394265931513,0.06322741078195246,False,Left Foot,Open Play,0,0,1,Normal
+3825599,Víctor Sánchez Mata,Espanyol,15.97310239120754,0.05800935423150485,False,Right Foot,Open Play,1,0,1,Half Volley
+3825599,Rubén Duarte Sánchez,Espanyol,21.82887995294307,0.06685202524554633,False,Left Foot,Open Play,1,0,0,Normal
+3825599,Francisco Alcácer García,Valencia,12.356779515715248,0.061002441356291064,False,Left Foot,Open Play,1,0,2,Half Volley
+3825599,Marco Asensio Willemsen,Espanyol,10.700467279516348,0.055916832661852454,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3825599,Hernán Arsenio Pérez González,Espanyol,20.620620747203514,0.0533932350541726,False,Left Foot,Open Play,0,0,3,Normal
+3825599,Jorge Franco Alviz,Espanyol,22.32330620674276,0.06688848499010444,False,Right Foot,Open Play,0,0,3,Normal
+3825599,Anaitz Arbilla Zabala,Espanyol,22.494888308235712,0.05854406884113528,False,Right Foot,Open Play,1,0,2,Normal
+3825599,Jorge Franco Alviz,Espanyol,22.07826985975124,0.067013598044805,False,Right Foot,Open Play,1,0,0,Volley
+3825599,Felipe Salvador Caicedo Corozo,Espanyol,16.620770138594665,0.06357239885694936,False,Right Foot,Open Play,1,0,2,Normal
+3825599,Papa Kouly Diop,Espanyol,26.041505332833584,0.05630607980895511,False,Right Foot,Open Play,0,0,2,Normal
+3825599,Aymen Abdennour,Valencia,8.720665112249176,0.05910856030128445,False,Head,Open Play,0,1,6,Normal
+3825599,Gerard Moreno Balaguero,Espanyol,16.72423391369542,0.056735499834603395,False,Left Foot,Open Play,0,0,2,Normal
+3825599,Papa Kouly Diop,Espanyol,23.501914815605982,0.06486369451538301,False,Right Foot,Open Play,1,0,1,Normal

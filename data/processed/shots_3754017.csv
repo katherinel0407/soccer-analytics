@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.51753846319839,0.05138369228361712,False,Left Foot,Free Kick,0,0,0,Normal
-19.725364381932216,0.06338449800261751,False,Right Foot,Open Play,0,1,2,Normal
-7.416872656315469,0.057875287689899,False,Right Foot,Open Play,1,0,3,Half Volley
-16.33707440149551,0.060995383833154324,False,Right Foot,Open Play,1,0,4,Volley
-19.22758435165479,0.06516028386055465,False,Right Foot,Open Play,0,0,3,Normal
-7.9404030124421245,0.05613541536878863,False,Head,Open Play,0,1,4,Normal
-18.016103907338014,0.06428658282865836,False,Right Foot,Open Play,1,0,3,Normal
-29.343653487594217,0.06589718223503854,False,Right Foot,Open Play,0,0,3,Normal
-22.557703783851753,0.05467902423083291,False,Right Foot,Open Play,1,0,2,Normal
-9.575489543621256,0.05896256513603455,False,Left Foot,Open Play,0,1,3,Volley
-7.35730929076656,0.0560525219435787,True,Head,Open Play,0,0,2,Diving Header
-27.829660436304284,0.07000745097511986,True,Right Foot,Free Kick,0,0,0,Normal
-27.624083695210597,0.062062828421154924,False,Left Foot,Open Play,0,1,2,Normal
-31.40859754907882,0.06380999858128196,False,Left Foot,Open Play,0,0,0,Half Volley
-21.86343980255623,0.05986117882450074,False,Right Foot,Open Play,0,0,1,Normal
-14.297202523570826,0.05932852726936246,False,Head,Open Play,0,0,1,Normal
-21.284971223847123,0.06278573811680141,False,Left Foot,Open Play,0,0,2,Normal
-6.525335240430178,0.057808637360616526,True,Left Foot,Open Play,1,0,1,Normal
-7.256721022610688,0.05807129483815715,False,Right Foot,Open Play,1,0,6,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754017,Kieran Richardson,Aston Villa,28.51753846319839,0.05138369228361712,False,Left Foot,Free Kick,0,0,0,Normal
+3754017,Gylfi Þór Sigurðsson,Swansea City,19.725364381932216,0.06338449800261751,False,Right Foot,Open Play,0,1,2,Normal
+3754017,Federico Fernández,Swansea City,7.416872656315469,0.057875287689899,False,Right Foot,Open Play,1,0,3,Half Volley
+3754017,Rudy Gestede,Aston Villa,16.33707440149551,0.060995383833154324,False,Right Foot,Open Play,1,0,4,Volley
+3754017,Rudy Gestede,Aston Villa,19.22758435165479,0.06516028386055465,False,Right Foot,Open Play,0,0,3,Normal
+3754017,Rudy Gestede,Aston Villa,7.9404030124421245,0.05613541536878863,False,Head,Open Play,0,1,4,Normal
+3754017,Gabriel Imuetinyan Agbonlahor,Aston Villa,18.016103907338014,0.06428658282865836,False,Right Foot,Open Play,1,0,3,Normal
+3754017,Jonjo Shelvey,Swansea City,29.343653487594217,0.06589718223503854,False,Right Foot,Open Play,0,0,3,Normal
+3754017,Bafétimbi Gomis,Swansea City,22.557703783851753,0.05467902423083291,False,Right Foot,Open Play,1,0,2,Normal
+3754017,André Ayew Pelé,Swansea City,9.575489543621256,0.05896256513603455,False,Left Foot,Open Play,0,1,3,Volley
+3754017,Jordan Ayew,Aston Villa,7.35730929076656,0.0560525219435787,True,Head,Open Play,0,0,2,Diving Header
+3754017,Gylfi Þór Sigurðsson,Swansea City,27.829660436304284,0.07000745097511986,True,Right Foot,Free Kick,0,0,0,Normal
+3754017,Jordan Ayew,Aston Villa,27.624083695210597,0.062062828421154924,False,Left Foot,Open Play,0,1,2,Normal
+3754017,Modou Barrow,Swansea City,31.40859754907882,0.06380999858128196,False,Left Foot,Open Play,0,0,0,Half Volley
+3754017,Jordan Ayew,Aston Villa,21.86343980255623,0.05986117882450074,False,Right Foot,Open Play,0,0,1,Normal
+3754017,André Ayew Pelé,Swansea City,14.297202523570826,0.05932852726936246,False,Head,Open Play,0,0,1,Normal
+3754017,Jonjo Shelvey,Swansea City,21.284971223847123,0.06278573811680141,False,Left Foot,Open Play,0,0,2,Normal
+3754017,André Ayew Pelé,Swansea City,6.525335240430178,0.057808637360616526,True,Left Foot,Open Play,1,0,1,Normal
+3754017,Joleon Lescott,Aston Villa,7.256721022610688,0.05807129483815715,False,Right Foot,Open Play,1,0,6,Volley

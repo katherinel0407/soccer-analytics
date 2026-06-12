@@ -1,12 +1,12 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.331185764395933,0.06360992454184904,False,Left Foot,Open Play,1,0,1,Volley
-28.525953095383162,0.0646701356732978,False,Left Foot,Open Play,1,1,3,Normal
-39.16018386065111,0.06772862149612614,False,Right Foot,Open Play,0,0,0,Normal
-11.18302284715541,0.06047273990600915,False,Head,Open Play,0,1,3,Normal
-14.82228052628879,0.061954015489296535,False,Right Foot,Open Play,0,1,3,Normal
-4.356604182158394,0.05694517643518646,False,Right Foot,Open Play,1,0,3,Volley
-13.729530217745978,0.05743497441932369,False,Right Foot,Open Play,0,0,2,Overhead Kick
-9.436630754670867,0.059133638883496126,False,Head,Open Play,0,1,3,Normal
-27.236923467968985,0.07010606741330401,False,Left Foot,Free Kick,0,0,0,Normal
-4.661544808322665,0.05549191363418325,True,Right Foot,Open Play,1,0,1,Normal
-22.637358503146952,0.053604975918672366,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879595,Giuseppe Rossi,Fiorentina,17.331185764395933,0.06360992454184904,False,Left Foot,Open Play,1,0,1,Volley
+3879595,Josip Iličić,Fiorentina,28.525953095383162,0.0646701356732978,False,Left Foot,Open Play,1,1,3,Normal
+3879595,Matías Vecino Falero,Fiorentina,39.16018386065111,0.06772862149612614,False,Right Foot,Open Play,0,0,0,Normal
+3879595,Davide Astori,Fiorentina,11.18302284715541,0.06047273990600915,False,Head,Open Play,0,1,3,Normal
+3879595,Nikola Kalinić,Fiorentina,14.82228052628879,0.061954015489296535,False,Right Foot,Open Play,0,1,3,Normal
+3879595,Nikola Kalinić,Fiorentina,4.356604182158394,0.05694517643518646,False,Right Foot,Open Play,1,0,3,Volley
+3879595,Boško Janković,Hellas Verona,13.729530217745978,0.05743497441932369,False,Right Foot,Open Play,0,0,2,Overhead Kick
+3879595,Boško Janković,Hellas Verona,9.436630754670867,0.059133638883496126,False,Head,Open Play,0,1,3,Normal
+3879595,Josip Iličić,Fiorentina,27.236923467968985,0.07010606741330401,False,Left Foot,Free Kick,0,0,0,Normal
+3879595,Nikola Kalinić,Fiorentina,4.661544808322665,0.05549191363418325,True,Right Foot,Open Play,1,0,1,Normal
+3879595,Borja Valero Iglesias,Fiorentina,22.637358503146952,0.053604975918672366,False,Right Foot,Open Play,0,0,3,Normal

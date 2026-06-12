@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.983689869122408,0.06694426885204315,False,Left Foot,Open Play,1,0,1,Normal
-18.95257238477141,0.06354570107263044,False,Right Foot,Open Play,0,1,4,Normal
-11.86970934774732,0.06016941517424623,False,Right Foot,Open Play,1,1,5,Half Volley
-9.902019995940218,0.05978261859684071,False,Right Foot,Open Play,1,1,2,Half Volley
-21.284971223847116,0.06591619828270975,False,Right Foot,Open Play,1,0,3,Normal
-10.24158190906073,0.05688078257528322,False,Head,Open Play,0,1,4,Normal
-9.33916484488843,0.0590914799964344,False,Left Foot,Open Play,1,0,1,Half Volley
-24.05202694161139,0.0636031265060185,False,Left Foot,Free Kick,0,0,0,Normal
-14.741099009232661,0.062461953013176655,True,Left Foot,Open Play,0,0,1,Half Volley
-27.552495349786376,0.06754119371726901,False,Left Foot,Open Play,1,0,0,Half Volley
-25.843567865138127,0.06354895494544911,False,Right Foot,Open Play,1,0,0,Volley
-9.656603957913983,0.05715797787424921,False,Right Foot,Open Play,1,1,2,Normal
-15.07647173578752,0.061385954871096916,True,Left Foot,Open Play,0,1,1,Normal
-36.68855407344367,0.04693735666582666,False,Left Foot,Free Kick,0,0,0,Normal
-9.518928511129811,0.05835530025689715,False,Right Foot,Open Play,1,0,5,Volley
-16.510905486980416,0.06176174972835756,False,Right Foot,Open Play,1,1,2,Volley
-22.740712389896668,0.05288339510397035,False,Right Foot,Open Play,1,1,1,Half Volley
-21.205895406702357,0.06641602340129338,False,Left Foot,Open Play,0,0,1,Normal
-19.96021041973255,0.06364133403957815,False,Left Foot,Open Play,0,1,1,Normal
-10.167103815738288,0.059902923256556245,False,Head,Open Play,0,0,2,Normal
-11.108555261599054,0.05728958487365699,False,Left Foot,Open Play,0,0,3,Half Volley
-26.82685221937155,0.06982342849609764,False,Left Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890451,Marcel Schäfer,Wolfsburg,22.983689869122408,0.06694426885204315,False,Left Foot,Open Play,1,0,1,Normal
+3890451,Vedad Ibišević,Hertha Berlin,18.95257238477141,0.06354570107263044,False,Right Foot,Open Play,0,1,4,Normal
+3890451,Max Kruse,Wolfsburg,11.86970934774732,0.06016941517424623,False,Right Foot,Open Play,1,1,5,Half Volley
+3890451,Vladimír Darida,Hertha Berlin,9.902019995940218,0.05978261859684071,False,Right Foot,Open Play,1,1,2,Half Volley
+3890451,Salomon Armand Magloire Kalou,Hertha Berlin,21.284971223847116,0.06591619828270975,False,Right Foot,Open Play,1,0,3,Normal
+3890451,Vedad Ibišević,Hertha Berlin,10.24158190906073,0.05688078257528322,False,Head,Open Play,0,1,4,Normal
+3890451,Julian Draxler,Wolfsburg,9.33916484488843,0.0590914799964344,False,Left Foot,Open Play,1,0,1,Half Volley
+3890451,Marvin Plattenhardt,Hertha Berlin,24.05202694161139,0.0636031265060185,False,Left Foot,Free Kick,0,0,0,Normal
+3890451,Marcel Schäfer,Wolfsburg,14.741099009232661,0.062461953013176655,True,Left Foot,Open Play,0,0,1,Half Volley
+3890451,Maximilian Arnold,Wolfsburg,27.552495349786376,0.06754119371726901,False,Left Foot,Open Play,1,0,0,Half Volley
+3890451,Adelino André Vieira Freitas,Wolfsburg,25.843567865138127,0.06354895494544911,False,Right Foot,Open Play,1,0,0,Volley
+3890451,Vedad Ibišević,Hertha Berlin,9.656603957913983,0.05715797787424921,False,Right Foot,Open Play,1,1,2,Normal
+3890451,Salomon Armand Magloire Kalou,Hertha Berlin,15.07647173578752,0.061385954871096916,True,Left Foot,Open Play,0,1,1,Normal
+3890451,Ricardo Iván Rodríguez Araya,Wolfsburg,36.68855407344367,0.04693735666582666,False,Left Foot,Free Kick,0,0,0,Normal
+3890451,Salomon Armand Magloire Kalou,Hertha Berlin,9.518928511129811,0.05835530025689715,False,Right Foot,Open Play,1,0,5,Volley
+3890451,Alexander Baumjohann,Hertha Berlin,16.510905486980416,0.06176174972835756,False,Right Foot,Open Play,1,1,2,Volley
+3890451,Christian Träsch,Wolfsburg,22.740712389896668,0.05288339510397035,False,Right Foot,Open Play,1,1,1,Half Volley
+3890451,Max Kruse,Wolfsburg,21.205895406702357,0.06641602340129338,False,Left Foot,Open Play,0,0,1,Normal
+3890451,Marcel Schäfer,Wolfsburg,19.96021041973255,0.06364133403957815,False,Left Foot,Open Play,0,1,1,Normal
+3890451,Marcel Schäfer,Wolfsburg,10.167103815738288,0.059902923256556245,False,Head,Open Play,0,0,2,Normal
+3890451,Adelino André Vieira Freitas,Wolfsburg,11.108555261599054,0.05728958487365699,False,Left Foot,Open Play,0,0,3,Half Volley
+3890451,Ricardo Iván Rodríguez Araya,Wolfsburg,26.82685221937155,0.06982342849609764,False,Left Foot,Open Play,0,0,2,Half Volley

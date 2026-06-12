@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.071247881648908,0.05903397272145433,False,Right Foot,Open Play,0,1,1,Normal
-18.117670931993434,0.06372370906353592,False,Right Foot,Open Play,1,0,2,Half Volley
-13.912943613772027,0.061901042073663204,False,Left Foot,Open Play,0,0,2,Normal
-9.300537618869136,0.058511742355931165,False,Head,Open Play,0,0,6,Normal
-17.622996340009827,0.06237686120279246,True,Right Foot,Open Play,1,0,0,Volley
-12.791403363196702,0.05455946390683521,False,Right Foot,Open Play,0,0,0,Half Volley
-19.662146373170966,0.05505316791215081,False,Left Foot,Open Play,1,1,2,Half Volley
-27.80881155317501,0.06717433785835823,False,Right Foot,Open Play,1,0,0,Half Volley
-13.244244032786474,0.061047635503465904,False,Head,Open Play,0,1,1,Normal
-23.744683615495912,0.06714763300213983,False,Right Foot,Open Play,0,0,1,Normal
-6.440496875241848,0.055652582740368474,False,Head,Open Play,0,0,1,Normal
-28.945638704302244,0.07135000650414343,False,Right Foot,Free Kick,0,0,0,Normal
-22.703523955544874,0.05926543629472109,False,Left Foot,Open Play,0,1,1,Normal
-16.144658559412154,0.05338285339541988,False,Right Foot,Open Play,0,0,1,Normal
-9.183681179135084,0.05940163837348506,False,Head,Open Play,0,0,4,Normal
-26.24519003550936,0.05452909713100466,False,Left Foot,Open Play,0,0,2,Normal
-19.45584745005984,0.0647953750781532,False,Left Foot,Open Play,1,0,1,Normal
-17.980545041794482,0.06143517470179906,False,Right Foot,Open Play,1,0,1,Half Volley
-28.400176055792336,0.06715738348674082,False,Right Foot,Open Play,0,1,1,Normal
-11.438968484964011,0.057476457127077364,False,Head,Open Play,0,0,2,Normal
-7.919595949289329,0.058667881303564005,True,Head,Open Play,0,1,3,Normal
-20.324615617521523,0.06366502158660478,False,Right Foot,Open Play,0,1,3,Normal
-12.567020331009255,0.05412471327691248,False,Left Foot,Open Play,0,0,1,Normal
-27.723816476091454,0.052212071645261926,False,Right Foot,Open Play,0,1,1,Normal
-18.517289218457435,0.062076024695036515,False,Right Foot,Open Play,1,0,1,Normal
-11.42716062720744,0.059893082160717655,False,Head,Open Play,0,0,2,Normal
-32.49015235421342,0.0746614924094301,False,Left Foot,Open Play,0,0,2,Normal
-28.5112258592997,0.07074239238646482,False,Right Foot,Open Play,0,0,2,Normal
-8.381527307120106,0.05869935441116276,False,Head,Open Play,0,0,2,Normal
-14.713938969562161,0.05968710663033625,False,Head,Open Play,0,0,2,Normal
-25.939352343495393,0.06958832335200157,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829485,Brayan Andrés Perea Vargas,Troyes,18.071247881648908,0.05903397272145433,False,Right Foot,Open Play,0,1,1,Normal
+3829485,Paul-Georges Ntep de Madiba,Rennes,18.117670931993434,0.06372370906353592,False,Right Foot,Open Play,1,0,2,Half Volley
+3829485,Kamil Grosicki,Rennes,13.912943613772027,0.061901042073663204,False,Left Foot,Open Play,0,0,2,Normal
+3829485,Edson André Sitoe,Rennes,9.300537618869136,0.058511742355931165,False,Head,Open Play,0,0,6,Normal
+3829485,Jessy Pi,Troyes,17.622996340009827,0.06237686120279246,True,Right Foot,Open Play,1,0,0,Volley
+3829485,Brayan Andrés Perea Vargas,Troyes,12.791403363196702,0.05455946390683521,False,Right Foot,Open Play,0,0,0,Half Volley
+3829485,Giovanni-Guy Yann Sio,Rennes,19.662146373170966,0.05505316791215081,False,Left Foot,Open Play,1,1,2,Half Volley
+3829485,Fabien Camus,Troyes,27.80881155317501,0.06717433785835823,False,Right Foot,Open Play,1,0,0,Half Volley
+3829485,Giovanni-Guy Yann Sio,Rennes,13.244244032786474,0.061047635503465904,False,Head,Open Play,0,1,1,Normal
+3829485,Benjamin André,Rennes,23.744683615495912,0.06714763300213983,False,Right Foot,Open Play,0,0,1,Normal
+3829485,Giovanni-Guy Yann Sio,Rennes,6.440496875241848,0.055652582740368474,False,Head,Open Play,0,0,1,Normal
+3829485,Benjamin Nivet,Troyes,28.945638704302244,0.07135000650414343,False,Right Foot,Free Kick,0,0,0,Normal
+3829485,Kamil Grosicki,Rennes,22.703523955544874,0.05926543629472109,False,Left Foot,Open Play,0,1,1,Normal
+3829485,Pedro Henrique Konzen Medina da Silva,Rennes,16.144658559412154,0.05338285339541988,False,Right Foot,Open Play,0,0,1,Normal
+3829485,Yacouba Sylla,Rennes,9.183681179135084,0.05940163837348506,False,Head,Open Play,0,0,4,Normal
+3829485,Pedro Henrique Konzen Medina da Silva,Rennes,26.24519003550936,0.05452909713100466,False,Left Foot,Open Play,0,0,2,Normal
+3829485,Chris Mavinga,Troyes,19.45584745005984,0.0647953750781532,False,Left Foot,Open Play,1,0,1,Normal
+3829485,Benjamin Nivet,Troyes,17.980545041794482,0.06143517470179906,False,Right Foot,Open Play,1,0,1,Half Volley
+3829485,Yacouba Sylla,Rennes,28.400176055792336,0.06715738348674082,False,Right Foot,Open Play,0,1,1,Normal
+3829485,Pedro Henrique Konzen Medina da Silva,Rennes,11.438968484964011,0.057476457127077364,False,Head,Open Play,0,0,2,Normal
+3829485,Fallou Diagne,Rennes,7.919595949289329,0.058667881303564005,True,Head,Open Play,0,1,3,Normal
+3829485,Jeremie Boga,Rennes,20.324615617521523,0.06366502158660478,False,Right Foot,Open Play,0,1,3,Normal
+3829485,Giovanni-Guy Yann Sio,Rennes,12.567020331009255,0.05412471327691248,False,Left Foot,Open Play,0,0,1,Normal
+3829485,Mehdi Zeffane,Rennes,27.723816476091454,0.052212071645261926,False,Right Foot,Open Play,0,1,1,Normal
+3829485,Benjamin Nivet,Troyes,18.517289218457435,0.062076024695036515,False,Right Foot,Open Play,1,0,1,Normal
+3829485,Jeremie Boga,Rennes,11.42716062720744,0.059893082160717655,False,Head,Open Play,0,0,2,Normal
+3829485,Yoann Court,Troyes,32.49015235421342,0.0746614924094301,False,Left Foot,Open Play,0,0,2,Normal
+3829485,Jessy Pi,Troyes,28.5112258592997,0.07074239238646482,False,Right Foot,Open Play,0,0,2,Normal
+3829485,Pedro Henrique Konzen Medina da Silva,Rennes,8.381527307120106,0.05869935441116276,False,Head,Open Play,0,0,2,Normal
+3829485,Benjamin Nivet,Troyes,14.713938969562161,0.05968710663033625,False,Head,Open Play,0,0,2,Normal
+3829485,Jessy Pi,Troyes,25.939352343495393,0.06958832335200157,False,Right Foot,Open Play,0,1,2,Normal

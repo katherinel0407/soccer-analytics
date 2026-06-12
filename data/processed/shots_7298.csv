@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.811388300841896,0.060763730794914914,False,Right Foot,Open Play,0,0,1,Normal
-15.556349186104045,0.055089810737483536,False,Left Foot,Open Play,0,0,2,Normal
-24.186773244895647,0.05794841336575842,False,Right Foot,Open Play,1,0,1,Half Volley
-13.0,0.06001252184484243,False,Right Foot,Open Play,0,0,1,Normal
-14.422205101855956,0.06229284542682555,True,Left Foot,Open Play,1,1,3,Normal
-14.422205101855956,0.06229284542682555,False,Right Foot,Open Play,0,0,2,Normal
-33.015148038438355,0.06883847307773917,False,Right Foot,Open Play,0,0,1,Normal
-12.649110640673518,0.06098738942947037,True,Left Foot,Open Play,1,1,2,Normal
-15.297058540778355,0.05969290837765946,False,Right Foot,Open Play,0,1,2,Normal
-13.341664064126334,0.05190726171244953,False,Right Foot,Open Play,1,1,2,Normal
-20.591260281974,0.057856613470424846,False,Right Foot,Open Play,1,0,0,Normal
-8.06225774829855,0.05827886915945493,False,Left Foot,Open Play,0,1,6,Normal
-14.866068747318506,0.05214889620218037,False,Right Foot,Open Play,0,0,2,Normal
-18.973665961010276,0.06457326578343017,False,Right Foot,Open Play,1,0,0,Normal
-13.892443989449804,0.056978846643416965,False,Left Foot,Open Play,0,1,2,Normal
-29.5296461204668,0.05854985236785473,False,Right Foot,Open Play,0,0,0,Half Volley
-17.69180601295413,0.06377327899593536,False,Right Foot,Open Play,0,0,1,Normal
-8.48528137423857,0.05895299279142968,False,Left Foot,Open Play,0,0,1,Normal
-5.0990195135927845,0.05646461582252842,True,Head,Open Play,0,0,2,Normal
-11.045361017187261,0.05952356516638149,False,Right Foot,Open Play,0,0,3,Normal
-9.486832980505138,0.05844692815252849,False,Left Foot,Open Play,0,0,2,Normal
-31.38470965295043,0.06063865630738687,False,Right Foot,Open Play,0,0,3,Normal
-2.23606797749979,0.055915095325107404,False,Head,Open Play,0,0,7,Normal
-13.0,0.06132285227473536,False,Head,Open Play,0,0,4,Normal
-12.041594578792296,0.060871607794059486,False,Left Foot,Open Play,0,0,1,Normal
-32.55764119219941,0.07236007239374133,False,Right Foot,Open Play,0,0,2,Normal
-7.280109889280518,0.05690698529986257,False,Left Foot,Open Play,1,0,2,Normal
-14.7648230602334,0.057339985149763,False,Right Foot,Open Play,0,0,4,Normal
-10.770329614269007,0.060095212670544365,False,Right Foot,Open Play,1,0,1,Half Volley
-22.80350850198276,0.06120170224849951,True,Right Foot,Open Play,1,0,1,Normal
-7.280109889280518,0.05690698529986257,False,Left Foot,Open Play,0,0,2,Normal
-16.278820596099706,0.054701185167019495,False,Right Foot,Open Play,0,0,0,Normal
-18.681541692269406,0.06419073813995829,False,Left Foot,Open Play,0,1,1,Normal
-11.40175425099138,0.06020545138587247,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7298,Francesca Kirby,Chelsea FCW,15.811388300841896,0.060763730794914914,False,Right Foot,Open Play,0,0,1,Normal
+7298,Francesca Kirby,Chelsea FCW,15.556349186104045,0.055089810737483536,False,Left Foot,Open Play,0,0,2,Normal
+7298,So-Yun Ji,Chelsea FCW,24.186773244895647,0.05794841336575842,False,Right Foot,Open Play,1,0,1,Half Volley
+7298,Drew Spence,Chelsea FCW,13.0,0.06001252184484243,False,Right Foot,Open Play,0,0,1,Normal
+7298,Millie Bright,Chelsea FCW,14.422205101855956,0.06229284542682555,True,Left Foot,Open Play,1,1,3,Normal
+7298,Francesca Kirby,Chelsea FCW,14.422205101855956,0.06229284542682555,False,Right Foot,Open Play,0,0,2,Normal
+7298,Maren Nævdal Mjelde,Chelsea FCW,33.015148038438355,0.06883847307773917,False,Right Foot,Open Play,0,0,1,Normal
+7298,So-Yun Ji,Chelsea FCW,12.649110640673518,0.06098738942947037,True,Left Foot,Open Play,1,1,2,Normal
+7298,Francesca Kirby,Chelsea FCW,15.297058540778355,0.05969290837765946,False,Right Foot,Open Play,0,1,2,Normal
+7298,Nikita Parris,Manchester City WFC,13.341664064126334,0.05190726171244953,False,Right Foot,Open Play,1,1,2,Normal
+7298,Jill Scott,Manchester City WFC,20.591260281974,0.057856613470424846,False,Right Foot,Open Play,1,0,0,Normal
+7298,Francesca Kirby,Chelsea FCW,8.06225774829855,0.05827886915945493,False,Left Foot,Open Play,0,1,6,Normal
+7298,Ramona Bachmann,Chelsea FCW,14.866068747318506,0.05214889620218037,False,Right Foot,Open Play,0,0,2,Normal
+7298,So-Yun Ji,Chelsea FCW,18.973665961010276,0.06457326578343017,False,Right Foot,Open Play,1,0,0,Normal
+7298,Francesca Kirby,Chelsea FCW,13.892443989449804,0.056978846643416965,False,Left Foot,Open Play,0,1,2,Normal
+7298,Drew Spence,Chelsea FCW,29.5296461204668,0.05854985236785473,False,Right Foot,Open Play,0,0,0,Half Volley
+7298,Ramona Bachmann,Chelsea FCW,17.69180601295413,0.06377327899593536,False,Right Foot,Open Play,0,0,1,Normal
+7298,Ramona Bachmann,Chelsea FCW,8.48528137423857,0.05895299279142968,False,Left Foot,Open Play,0,0,1,Normal
+7298,Nikita Parris,Manchester City WFC,5.0990195135927845,0.05646461582252842,True,Head,Open Play,0,0,2,Normal
+7298,Francesca Kirby,Chelsea FCW,11.045361017187261,0.05952356516638149,False,Right Foot,Open Play,0,0,3,Normal
+7298,Ramona Bachmann,Chelsea FCW,9.486832980505138,0.05844692815252849,False,Left Foot,Open Play,0,0,2,Normal
+7298,Ramona Bachmann,Chelsea FCW,31.38470965295043,0.06063865630738687,False,Right Foot,Open Play,0,0,3,Normal
+7298,Millie Bright,Chelsea FCW,2.23606797749979,0.055915095325107404,False,Head,Open Play,0,0,7,Normal
+7298,Jennifer Patricia Beattie,Manchester City WFC,13.0,0.06132285227473536,False,Head,Open Play,0,0,4,Normal
+7298,Crystal Alyssia Dunn Soubrier,Chelsea FCW,12.041594578792296,0.060871607794059486,False,Left Foot,Open Play,0,0,1,Normal
+7298,Georgia Stanway,Manchester City WFC,32.55764119219941,0.07236007239374133,False,Right Foot,Open Play,0,0,2,Normal
+7298,Nikita Parris,Manchester City WFC,7.280109889280518,0.05690698529986257,False,Left Foot,Open Play,1,0,2,Normal
+7298,Erin Cuthbert,Chelsea FCW,14.7648230602334,0.057339985149763,False,Right Foot,Open Play,0,0,4,Normal
+7298,Crystal Alyssia Dunn Soubrier,Chelsea FCW,10.770329614269007,0.060095212670544365,False,Right Foot,Open Play,1,0,1,Half Volley
+7298,Georgia Stanway,Manchester City WFC,22.80350850198276,0.06120170224849951,True,Right Foot,Open Play,1,0,1,Normal
+7298,Ramona Bachmann,Chelsea FCW,7.280109889280518,0.05690698529986257,False,Left Foot,Open Play,0,0,2,Normal
+7298,Erin Cuthbert,Chelsea FCW,16.278820596099706,0.054701185167019495,False,Right Foot,Open Play,0,0,0,Normal
+7298,Georgia Stanway,Manchester City WFC,18.681541692269406,0.06419073813995829,False,Left Foot,Open Play,0,1,1,Normal
+7298,Jennifer Patricia Beattie,Manchester City WFC,11.40175425099138,0.06020545138587247,False,Head,Open Play,0,0,4,Normal

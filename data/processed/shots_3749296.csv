@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.90013550110623,0.07144009090161997,False,Left Foot,Free Kick,0,0,0,Normal
-25.49078264785136,0.06213646907638942,False,Right Foot,Open Play,1,0,1,Half Volley
-26.542418879973994,0.06692692389213496,False,Left Foot,Open Play,1,0,0,Normal
-15.346986674914392,0.06052978320988986,False,Left Foot,Open Play,1,1,2,Normal
-28.12329994861912,0.05691984336050696,False,Right Foot,Open Play,0,0,2,Normal
-22.643321311150444,0.05905118337876213,False,Right Foot,Open Play,0,1,3,Normal
-5.800862004909267,0.05705262974700619,True,Head,Open Play,0,1,3,Diving Header
-38.53894134508628,0.07784076980967054,False,Right Foot,Free Kick,0,0,0,Normal
-12.299999999999997,0.05971734709659449,True,Right Foot,Penalty,0,0,0,Normal
-31.911283270968596,0.06456944522001848,False,Right Foot,Open Play,0,0,1,Normal
-16.02248420189578,0.058087074819792264,False,Left Foot,Open Play,1,0,3,Half Volley
-45.89259199478713,0.06419667984430796,False,Right Foot,Open Play,0,0,1,Normal
-26.566332076521206,0.0620813953445455,False,Right Foot,Open Play,0,0,0,Normal
-25.086251214559745,0.05650993487478603,False,Right Foot,Open Play,1,0,0,Normal
-16.98528775146303,0.05537792566298653,False,Right Foot,Open Play,1,0,2,Normal
-9.730878685915267,0.058752086749706514,False,Right Foot,Open Play,0,1,2,Normal
-18.384776310850235,0.058814035735414036,False,Left Foot,Open Play,0,1,2,Normal
-13.68210510118966,0.061373406113540474,False,Left Foot,Open Play,0,0,3,Half Volley
-25.01539525971956,0.0499774908744784,False,Left Foot,Free Kick,0,0,0,Normal
-8.102468759581864,0.058494220878410594,False,Head,Open Play,0,1,3,Normal
-25.203174403237387,0.06573222666798999,False,Right Foot,Free Kick,0,0,0,Normal
-8.44037913840368,0.05868237780758979,False,Head,Open Play,0,1,5,Normal
-22.86591349585666,0.05655890375916602,False,Right Foot,Open Play,1,0,0,Normal
-5.020956084253278,0.05510523109070397,False,Right Foot,Open Play,1,0,4,Half Volley
-7.539230729988304,0.05843357920950157,False,Head,Open Play,0,1,4,Normal
-45.47801666739657,0.07960038902026338,False,Right Foot,Open Play,0,1,2,Half Volley
-8.215229759416353,0.058197804014558575,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749296,Patrik Berger,Portsmouth,36.90013550110623,0.07144009090161997,False,Left Foot,Free Kick,0,0,0,Normal
+3749296,Nigel Quashie,Portsmouth,25.49078264785136,0.06213646907638942,False,Right Foot,Open Play,1,0,1,Half Volley
+3749296,Nigel Quashie,Portsmouth,26.542418879973994,0.06692692389213496,False,Left Foot,Open Play,1,0,0,Normal
+3749296,Arjan de Zeeuw,Portsmouth,15.346986674914392,0.06052978320988986,False,Left Foot,Open Play,1,1,2,Normal
+3749296,Ray Parlour,Arsenal,28.12329994861912,0.05691984336050696,False,Right Foot,Open Play,0,0,2,Normal
+3749296,Yakubu Aiyegbeni,Portsmouth,22.643321311150444,0.05905118337876213,False,Right Foot,Open Play,0,1,3,Normal
+3749296,Teddy Sheringham,Portsmouth,5.800862004909267,0.05705262974700619,True,Head,Open Play,0,1,3,Diving Header
+3749296,Thierry Henry,Arsenal,38.53894134508628,0.07784076980967054,False,Right Foot,Free Kick,0,0,0,Normal
+3749296,Thierry Henry,Arsenal,12.299999999999997,0.05971734709659449,True,Right Foot,Penalty,0,0,0,Normal
+3749296,Patrick Vieira,Arsenal,31.911283270968596,0.06456944522001848,False,Right Foot,Open Play,0,0,1,Normal
+3749296,Dennis Bergkamp,Arsenal,16.02248420189578,0.058087074819792264,False,Left Foot,Open Play,1,0,3,Half Volley
+3749296,Amdy Moustapha Faye,Portsmouth,45.89259199478713,0.06419667984430796,False,Right Foot,Open Play,0,0,1,Normal
+3749296,Thierry Henry,Arsenal,26.566332076521206,0.0620813953445455,False,Right Foot,Open Play,0,0,0,Normal
+3749296,Ray Parlour,Arsenal,25.086251214559745,0.05650993487478603,False,Right Foot,Open Play,1,0,0,Normal
+3749296,Yakubu Aiyegbeni,Portsmouth,16.98528775146303,0.05537792566298653,False,Right Foot,Open Play,1,0,2,Normal
+3749296,Dennis Bergkamp,Arsenal,9.730878685915267,0.058752086749706514,False,Right Foot,Open Play,0,1,2,Normal
+3749296,Yakubu Aiyegbeni,Portsmouth,18.384776310850235,0.058814035735414036,False,Left Foot,Open Play,0,1,2,Normal
+3749296,Dennis Bergkamp,Arsenal,13.68210510118966,0.061373406113540474,False,Left Foot,Open Play,0,0,3,Half Volley
+3749296,Eduardo César Daude Gaspar,Arsenal,25.01539525971956,0.0499774908744784,False,Left Foot,Free Kick,0,0,0,Normal
+3749296,Patrick Vieira,Arsenal,8.102468759581864,0.058494220878410594,False,Head,Open Play,0,1,3,Normal
+3749296,Thierry Henry,Arsenal,25.203174403237387,0.06573222666798999,False,Right Foot,Free Kick,0,0,0,Normal
+3749296,Thierry Henry,Arsenal,8.44037913840368,0.05868237780758979,False,Head,Open Play,0,1,5,Normal
+3749296,Ray Parlour,Arsenal,22.86591349585666,0.05655890375916602,False,Right Foot,Open Play,1,0,0,Normal
+3749296,Kolo Habib Touré,Arsenal,5.020956084253278,0.05510523109070397,False,Right Foot,Open Play,1,0,4,Half Volley
+3749296,Sulzeer Jeremiah ''Sol' Campbell,Arsenal,7.539230729988304,0.05843357920950157,False,Head,Open Play,0,1,4,Normal
+3749296,Jason Roberts,Portsmouth,45.47801666739657,0.07960038902026338,False,Right Foot,Open Play,0,1,2,Half Volley
+3749296,Thierry Henry,Arsenal,8.215229759416353,0.058197804014558575,False,Head,Open Play,0,1,3,Normal

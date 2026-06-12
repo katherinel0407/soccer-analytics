@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.100199202396777,0.06905842684057655,False,Left Foot,Open Play,0,0,1,Normal
-14.873466307488652,0.062183549180777106,False,Right Foot,Open Play,0,0,2,Normal
-22.23083444227859,0.059392148984448896,False,Right Foot,Open Play,1,0,1,Normal
-31.126997927843924,0.0723368992082244,False,Left Foot,Open Play,1,0,1,Normal
-23.436083290515935,0.06753419487133883,False,Right Foot,Open Play,1,0,2,Normal
-14.894629904767692,0.053775695626986204,False,Right Foot,Open Play,1,0,1,Normal
-26.99814808463722,0.06753563382510536,False,Right Foot,Open Play,1,1,1,Normal
-11.610340218959989,0.06062860775505888,False,Left Foot,Open Play,0,0,1,Half Volley
-24.04537377542715,0.06776451657158207,False,Right Foot,Open Play,1,0,4,Normal
-22.624102192131296,0.05998348727785342,False,Left Foot,Open Play,0,0,2,Normal
-8.988882021697686,0.05929572949883354,False,Right Foot,Open Play,1,0,1,Normal
-18.214829123546558,0.06410838484890008,False,Left Foot,Open Play,0,0,2,Normal
-34.723047101312986,0.07596388605725728,True,Right Foot,Open Play,0,0,1,Normal
-11.543396380615198,0.06044195580095233,True,Right Foot,Open Play,1,0,1,Volley
-27.266096163550806,0.06833871690791894,False,Left Foot,Open Play,0,1,2,Half Volley
-28.800868042473997,0.0580779655981068,False,Left Foot,Open Play,0,0,1,Normal
-22.804385543136217,0.055208784775307954,False,Right Foot,Open Play,0,0,1,Normal
-24.164643593481777,0.06843246783297066,False,Right Foot,Free Kick,0,0,0,Normal
-13.36899397860587,0.056578272963479774,False,Right Foot,Open Play,1,0,2,Half Volley
-11.132834320154057,0.06021800306878144,False,Left Foot,Open Play,1,0,3,Volley
-20.188362984650343,0.054187311690755975,False,Right Foot,Open Play,0,0,1,Normal
-16.660432167263853,0.06309659086872559,False,Left Foot,Open Play,1,0,1,Normal
-15.628499608087779,0.06297686324010159,False,Right Foot,Open Play,1,0,1,Half Volley
-28.18013484708687,0.057081315596122506,False,Left Foot,Open Play,0,0,1,Normal
-24.912848090894794,0.06499625207290002,False,Right Foot,Open Play,0,0,0,Half Volley
-10.682696288858919,0.055846024682311514,False,Right Foot,Open Play,1,0,2,Half Volley
-19.606376513777352,0.06526537802429049,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879756,M''Baye Babacar Niang,AC Milan,25.100199202396777,0.06905842684057655,False,Left Foot,Open Play,0,0,1,Normal
+3879756,Giacomo Bonaventura,AC Milan,14.873466307488652,0.062183549180777106,False,Right Foot,Open Play,0,0,2,Normal
+3879756,Jorge Luiz Frello Filho,Napoli,22.23083444227859,0.059392148984448896,False,Right Foot,Open Play,1,0,1,Normal
+3879756,Marek Hamšík,Napoli,31.126997927843924,0.0723368992082244,False,Left Foot,Open Play,1,0,1,Normal
+3879756,Lorenzo Insigne,Napoli,23.436083290515935,0.06753419487133883,False,Right Foot,Open Play,1,0,2,Normal
+3879756,Gonzalo Gerardo Higuaín,Napoli,14.894629904767692,0.053775695626986204,False,Right Foot,Open Play,1,0,1,Normal
+3879756,Gonzalo Gerardo Higuaín,Napoli,26.99814808463722,0.06753563382510536,False,Right Foot,Open Play,1,1,1,Normal
+3879756,Gonzalo Gerardo Higuaín,Napoli,11.610340218959989,0.06062860775505888,False,Left Foot,Open Play,0,0,1,Half Volley
+3879756,Lorenzo Insigne,Napoli,24.04537377542715,0.06776451657158207,False,Right Foot,Open Play,1,0,4,Normal
+3879756,José María Callejón Bueno,Napoli,22.624102192131296,0.05998348727785342,False,Left Foot,Open Play,0,0,2,Normal
+3879756,José María Callejón Bueno,Napoli,8.988882021697686,0.05929572949883354,False,Right Foot,Open Play,1,0,1,Normal
+3879756,Gonzalo Gerardo Higuaín,Napoli,18.214829123546558,0.06410838484890008,False,Left Foot,Open Play,0,0,2,Normal
+3879756,Lorenzo Insigne,Napoli,34.723047101312986,0.07596388605725728,True,Right Foot,Open Play,0,0,1,Normal
+3879756,Giacomo Bonaventura,AC Milan,11.543396380615198,0.06044195580095233,True,Right Foot,Open Play,1,0,1,Volley
+3879756,Giacomo Bonaventura,AC Milan,27.266096163550806,0.06833871690791894,False,Left Foot,Open Play,0,1,2,Half Volley
+3879756,Elseid Hysaj,Napoli,28.800868042473997,0.0580779655981068,False,Left Foot,Open Play,0,0,1,Normal
+3879756,José María Callejón Bueno,Napoli,22.804385543136217,0.055208784775307954,False,Right Foot,Open Play,0,0,1,Normal
+3879756,Dries Mertens,Napoli,24.164643593481777,0.06843246783297066,False,Right Foot,Free Kick,0,0,0,Normal
+3879756,Dries Mertens,Napoli,13.36899397860587,0.056578272963479774,False,Right Foot,Open Play,1,0,2,Half Volley
+3879756,Gonzalo Gerardo Higuaín,Napoli,11.132834320154057,0.06021800306878144,False,Left Foot,Open Play,1,0,3,Volley
+3879756,Dries Mertens,Napoli,20.188362984650343,0.054187311690755975,False,Right Foot,Open Play,0,0,1,Normal
+3879756,M''Baye Babacar Niang,AC Milan,16.660432167263853,0.06309659086872559,False,Left Foot,Open Play,1,0,1,Normal
+3879756,Lorenzo Insigne,Napoli,15.628499608087779,0.06297686324010159,False,Right Foot,Open Play,1,0,1,Half Volley
+3879756,Keisuke Honda,AC Milan,28.18013484708687,0.057081315596122506,False,Left Foot,Open Play,0,0,1,Normal
+3879756,Giacomo Bonaventura,AC Milan,24.912848090894794,0.06499625207290002,False,Right Foot,Open Play,0,0,0,Half Volley
+3879756,Omar El Kaddouri,Napoli,10.682696288858919,0.055846024682311514,False,Right Foot,Open Play,1,0,2,Half Volley
+3879756,Gonzalo Gerardo Higuaín,Napoli,19.606376513777352,0.06526537802429049,False,Right Foot,Open Play,0,0,3,Normal

@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.6732648832699,0.05952548959228283,False,Right Foot,Open Play,1,0,1,Normal
-26.436716891475005,0.06937263908095814,False,Right Foot,Free Kick,0,0,0,Normal
-23.305364189387813,0.06439077307856243,False,Left Foot,Open Play,1,0,1,Normal
-15.487091398968362,0.0551998550978362,False,Left Foot,Open Play,1,0,2,Normal
-24.505101509685694,0.0564991332714613,False,Right Foot,Open Play,0,0,2,Normal
-12.924782396620838,0.05732954648210719,False,Right Foot,Open Play,1,0,2,Normal
-29.464045886469833,0.0625417668271419,False,Left Foot,Open Play,0,0,1,Half Volley
-15.391231269784756,0.05570933335276309,False,Right Foot,Open Play,0,1,3,Normal
-11.027692415006868,0.056597367437058586,False,Right Foot,Open Play,1,1,1,Volley
-20.719314660480446,0.0657008372857898,False,Right Foot,Open Play,0,0,1,Lob
-26.55880268385607,0.06757315103561067,False,Left Foot,Open Play,0,0,1,Normal
-19.63058837630702,0.061514312238958806,False,Right Foot,Open Play,0,1,1,Normal
-37.98973545577806,0.07893170314132358,False,Right Foot,Free Kick,0,0,0,Normal
-7.4672618810377855,0.0537314584190318,True,Right Foot,Open Play,1,1,2,Normal
-10.261578825892242,0.05460086498236631,False,Head,Open Play,0,1,1,Normal
-14.598972566588378,0.061287025868224154,False,Left Foot,Open Play,1,0,1,Normal
-10.66067540074268,0.05988955524554734,True,Head,Open Play,0,0,2,Normal
-28.577613616255643,0.058068244970395984,False,Right Foot,Open Play,1,0,0,Normal
-15.360013020827815,0.05402306683771708,True,Right Foot,Open Play,1,0,2,Half Volley
-9.995999199679845,0.05964010962182565,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754221,Morgan Schneiderlin,Manchester United,24.6732648832699,0.05952548959228283,False,Right Foot,Open Play,1,0,1,Normal
+3754221,Memphis Depay,Manchester United,26.436716891475005,0.06937263908095814,False,Right Foot,Free Kick,0,0,0,Normal
+3754221,Juan Manuel Mata García,Manchester United,23.305364189387813,0.06439077307856243,False,Left Foot,Open Play,1,0,1,Normal
+3754221,Juan Manuel Mata García,Manchester United,15.487091398968362,0.0551998550978362,False,Left Foot,Open Play,1,0,2,Normal
+3754221,Bafétimbi Gomis,Swansea City,24.505101509685694,0.0564991332714613,False,Right Foot,Open Play,0,0,2,Normal
+3754221,Gylfi Þór Sigurðsson,Swansea City,12.924782396620838,0.05732954648210719,False,Right Foot,Open Play,1,0,2,Normal
+3754221,Jonjo Shelvey,Swansea City,29.464045886469833,0.0625417668271419,False,Left Foot,Open Play,0,0,1,Half Volley
+3754221,Bafétimbi Gomis,Swansea City,15.391231269784756,0.05570933335276309,False,Right Foot,Open Play,0,1,3,Normal
+3754221,Wayne Mark Rooney,Manchester United,11.027692415006868,0.056597367437058586,False,Right Foot,Open Play,1,1,1,Volley
+3754221,Wayne Mark Rooney,Manchester United,20.719314660480446,0.0657008372857898,False,Right Foot,Open Play,0,0,1,Lob
+3754221,Ander Herrera Agüera,Manchester United,26.55880268385607,0.06757315103561067,False,Left Foot,Open Play,0,0,1,Normal
+3754221,Wayne Routledge,Swansea City,19.63058837630702,0.061514312238958806,False,Right Foot,Open Play,0,1,1,Normal
+3754221,Jonjo Shelvey,Swansea City,37.98973545577806,0.07893170314132358,False,Right Foot,Free Kick,0,0,0,Normal
+3754221,Juan Manuel Mata García,Manchester United,7.4672618810377855,0.0537314584190318,True,Right Foot,Open Play,1,1,2,Normal
+3754221,Wayne Mark Rooney,Manchester United,10.261578825892242,0.05460086498236631,False,Head,Open Play,0,1,1,Normal
+3754221,Juan Manuel Mata García,Manchester United,14.598972566588378,0.061287025868224154,False,Left Foot,Open Play,1,0,1,Normal
+3754221,André Ayew Pelé,Swansea City,10.66067540074268,0.05988955524554734,True,Head,Open Play,0,0,2,Normal
+3754221,Jonjo Shelvey,Swansea City,28.577613616255643,0.058068244970395984,False,Right Foot,Open Play,1,0,0,Normal
+3754221,Bafétimbi Gomis,Swansea City,15.360013020827815,0.05402306683771708,True,Right Foot,Open Play,1,0,2,Half Volley
+3754221,Memphis Depay,Manchester United,9.995999199679845,0.05964010962182565,False,Head,Open Play,0,1,2,Normal

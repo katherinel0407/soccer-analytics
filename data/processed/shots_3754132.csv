@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.279497873901512,0.07123055061261463,False,Left Foot,Open Play,0,0,0,Normal
-11.343720729989789,0.058616681239421944,False,Right Foot,Open Play,0,0,2,Volley
-24.446267608778232,0.06299828700186082,False,Left Foot,Open Play,0,0,2,Normal
-9.062008607367359,0.05696641084808851,False,Head,Open Play,0,1,2,Normal
-22.811400658442704,0.06751219024752245,False,Left Foot,Open Play,0,0,0,Normal
-23.88388578100306,0.05849771400663949,False,Right Foot,Open Play,0,0,3,Normal
-26.20572456544562,0.069450867301681,False,Right Foot,Open Play,0,0,3,Normal
-9.964436762808024,0.05981018744121975,False,Head,Open Play,0,1,3,Normal
-14.64923206178399,0.05436067217253838,False,Head,Open Play,0,1,1,Normal
-16.80148802933835,0.06317489293040933,False,Left Foot,Open Play,0,0,1,Normal
-21.24758809841719,0.06469782074721042,False,Left Foot,Open Play,0,0,1,Normal
-14.503103116229989,0.060766768723826456,False,Head,Open Play,0,0,3,Normal
-13.647344063956183,0.06166409382790281,False,Left Foot,Open Play,0,0,4,Normal
-16.319313711060282,0.058879931047606006,False,Left Foot,Open Play,1,0,0,Half Volley
-17.502571239677902,0.06256185138212898,False,Head,Open Play,0,1,1,Normal
-11.77454882362802,0.06060446453817664,True,Left Foot,Open Play,1,0,1,Half Volley
-17.755280904564703,0.06384967437361093,False,Right Foot,Open Play,0,0,2,Normal
-33.391765451979325,0.05741085545807604,False,Left Foot,Free Kick,0,0,0,Normal
-26.791789787171737,0.06455294717448423,False,Right Foot,Open Play,0,0,1,Normal
-8.900561780022658,0.058349309913914855,False,Right Foot,Open Play,0,0,4,Volley
-18.764061394058594,0.06472007818690305,False,Right Foot,Open Play,0,0,6,Normal
-31.212337304341688,0.07341532153592284,False,Right Foot,Free Kick,0,0,0,Normal
-24.92007223103496,0.06881947157617534,False,Right Foot,Open Play,1,0,1,Volley
-20.254875956174104,0.06203500507747664,False,Left Foot,Open Play,0,0,1,Normal
-18.655294154743316,0.06470873671140896,False,Right Foot,Open Play,0,0,2,Normal
-12.100413216084807,0.05966938539163346,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754132,Patrick van Aanholt,Sunderland,28.279497873901512,0.07123055061261463,False,Left Foot,Open Play,0,0,0,Normal
+3754132,Jermain Defoe,Sunderland,11.343720729989789,0.058616681239421944,False,Right Foot,Open Play,0,0,2,Volley
+3754132,Jermain Defoe,Sunderland,24.446267608778232,0.06299828700186082,False,Left Foot,Open Play,0,0,2,Normal
+3754132,Peter Crouch,Stoke City,9.062008607367359,0.05696641084808851,False,Head,Open Play,0,1,2,Normal
+3754132,Patrick van Aanholt,Sunderland,22.811400658442704,0.06751219024752245,False,Left Foot,Open Play,0,0,0,Normal
+3754132,Yann Gérard M''Vila,Sunderland,23.88388578100306,0.05849771400663949,False,Right Foot,Open Play,0,0,3,Normal
+3754132,Marko Arnautović,Stoke City,26.20572456544562,0.069450867301681,False,Right Foot,Open Play,0,0,3,Normal
+3754132,Peter Crouch,Stoke City,9.964436762808024,0.05981018744121975,False,Head,Open Play,0,1,3,Normal
+3754132,Peter Crouch,Stoke City,14.64923206178399,0.05436067217253838,False,Head,Open Play,0,1,1,Normal
+3754132,Marko Arnautović,Stoke City,16.80148802933835,0.06317489293040933,False,Left Foot,Open Play,0,0,1,Normal
+3754132,Jermain Defoe,Sunderland,21.24758809841719,0.06469782074721042,False,Left Foot,Open Play,0,0,1,Normal
+3754132,Peter Crouch,Stoke City,14.503103116229989,0.060766768723826456,False,Head,Open Play,0,0,3,Normal
+3754132,Jan Kirchhoff,Sunderland,13.647344063956183,0.06166409382790281,False,Left Foot,Open Play,0,0,4,Normal
+3754132,Lamine Koné,Sunderland,16.319313711060282,0.058879931047606006,False,Left Foot,Open Play,1,0,0,Half Volley
+3754132,Younes Kaboul,Sunderland,17.502571239677902,0.06256185138212898,False,Head,Open Play,0,1,1,Normal
+3754132,Marko Arnautović,Stoke City,11.77454882362802,0.06060446453817664,True,Left Foot,Open Play,1,0,1,Half Volley
+3754132,Jermain Defoe,Sunderland,17.755280904564703,0.06384967437361093,False,Right Foot,Open Play,0,0,2,Normal
+3754132,Charlie Adam,Stoke City,33.391765451979325,0.05741085545807604,False,Left Foot,Free Kick,0,0,0,Normal
+3754132,Glenn Whelan,Stoke City,26.791789787171737,0.06455294717448423,False,Right Foot,Open Play,0,0,1,Normal
+3754132,Jermain Defoe,Sunderland,8.900561780022658,0.058349309913914855,False,Right Foot,Open Play,0,0,4,Volley
+3754132,Jermain Defoe,Sunderland,18.764061394058594,0.06472007818690305,False,Right Foot,Open Play,0,0,6,Normal
+3754132,Sebastian Larsson,Sunderland,31.212337304341688,0.07341532153592284,False,Right Foot,Free Kick,0,0,0,Normal
+3754132,Glenn Whelan,Stoke City,24.92007223103496,0.06881947157617534,False,Right Foot,Open Play,1,0,1,Volley
+3754132,Gilbert Gianelli Imbula Wanga,Stoke City,20.254875956174104,0.06203500507747664,False,Left Foot,Open Play,0,0,1,Normal
+3754132,Jermain Defoe,Sunderland,18.655294154743316,0.06470873671140896,False,Right Foot,Open Play,0,0,2,Normal
+3754132,Jermain Defoe,Sunderland,12.100413216084807,0.05966938539163346,True,Right Foot,Penalty,0,0,0,Normal

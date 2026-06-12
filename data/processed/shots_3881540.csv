@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.034118164618468,0.05729466570695271,True,Right Foot,Open Play,1,1,2,Normal
-21.163175565117825,0.06642096600142164,False,Left Foot,Open Play,0,0,3,Normal
-18.370900903330792,0.061223998076014016,False,Right Foot,Open Play,1,1,1,Normal
-25.309681941897253,0.06523497861041344,False,Right Foot,Open Play,0,1,2,Normal
-12.88448679614365,0.05445452307573773,False,Right Foot,Open Play,1,0,0,Normal
-14.373586887064763,0.0568179242831338,False,Right Foot,Open Play,1,0,1,Normal
-35.21718330588067,0.07526217473038802,False,Right Foot,Open Play,0,0,1,Normal
-27.65863337187866,0.07043507246770979,False,Right Foot,Free Kick,0,0,0,Normal
-13.023056476879765,0.0548983849062921,False,Left Foot,Open Play,1,0,2,Normal
-23.66114959168298,0.0639550358446901,False,Right Foot,Open Play,0,0,1,Normal
-21.940145851839723,0.06685001704948106,False,Left Foot,Open Play,0,0,1,Normal
-21.486972797488246,0.05552777697478994,False,Left Foot,Open Play,0,0,1,Normal
-15.697770542341349,0.05778103907577466,False,Left Foot,Open Play,0,0,2,Normal
-11.00727032465361,0.05903457784280972,False,Right Foot,Open Play,1,0,3,Normal
-7.964923100695949,0.05630932795858492,False,Head,Open Play,0,1,6,Normal
-12.603570922560007,0.06123215493862118,False,Head,Open Play,0,0,3,Normal
-9.570788891204318,0.05802610737731449,False,Left Foot,Open Play,0,0,4,Normal
-16.05801980320114,0.0631513090329326,False,Right Foot,Open Play,1,1,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881540,Kristen Hamilton,KC Current,12.034118164618468,0.05729466570695271,True,Right Foot,Open Play,1,1,2,Normal
+3881540,Cecelia Kizer,KC Current,21.163175565117825,0.06642096600142164,False,Left Foot,Open Play,0,0,3,Normal
+3881540,Cecelia Kizer,KC Current,18.370900903330792,0.061223998076014016,False,Right Foot,Open Play,1,1,1,Normal
+3881540,Lo’eau LaBonta,KC Current,25.309681941897253,0.06523497861041344,False,Right Foot,Open Play,0,1,2,Normal
+3881540,Kristen Hamilton,KC Current,12.88448679614365,0.05445452307573773,False,Right Foot,Open Play,1,0,0,Normal
+3881540,Débora Cristiane de Oliveira,KC Current,14.373586887064763,0.0568179242831338,False,Right Foot,Open Play,1,0,1,Normal
+3881540,Débora Cristiane de Oliveira,KC Current,35.21718330588067,0.07526217473038802,False,Right Foot,Open Play,0,0,1,Normal
+3881540,Débora Cristiane de Oliveira,KC Current,27.65863337187866,0.07043507246770979,False,Right Foot,Free Kick,0,0,0,Normal
+3881540,Addisyn Merrick,KC Current,13.023056476879765,0.0548983849062921,False,Left Foot,Open Play,1,0,2,Normal
+3881540,Vanessa DiBernardo,KC Current,23.66114959168298,0.0639550358446901,False,Right Foot,Open Play,0,0,1,Normal
+3881540,Vanessa DiBernardo,KC Current,21.940145851839723,0.06685001704948106,False,Left Foot,Open Play,0,0,1,Normal
+3881540,Olivia Wingate,North Carolina Courage,21.486972797488246,0.05552777697478994,False,Left Foot,Open Play,0,0,1,Normal
+3881540,Tess Boade,North Carolina Courage,15.697770542341349,0.05778103907577466,False,Left Foot,Open Play,0,0,2,Normal
+3881540,Victoria Pickett,North Carolina Courage,11.00727032465361,0.05903457784280972,False,Right Foot,Open Play,1,0,3,Normal
+3881540,Kaleigh Kurtz,North Carolina Courage,7.964923100695949,0.05630932795858492,False,Head,Open Play,0,1,6,Normal
+3881540,Mille Gejl Jensen,North Carolina Courage,12.603570922560007,0.06123215493862118,False,Head,Open Play,0,0,3,Normal
+3881540,Tess Boade,North Carolina Courage,9.570788891204318,0.05802610737731449,False,Left Foot,Open Play,0,0,4,Normal
+3881540,Victoria Pickett,North Carolina Courage,16.05801980320114,0.0631513090329326,False,Right Foot,Open Play,1,1,1,Volley

@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.981773850266636,0.06203935272208447,True,Left Foot,Open Play,0,0,1,Normal
-25.143587651725436,0.0626562019905439,False,Left Foot,Open Play,1,1,2,Normal
-18.236227680087786,0.05898611002852838,False,Right Foot,Open Play,0,0,2,Normal
-27.457057380571577,0.05086529226841002,False,Left Foot,Open Play,1,0,1,Normal
-6.228964600958977,0.057428174043908424,True,Head,Open Play,0,0,7,Normal
-18.221415971323417,0.06453888155039544,False,Left Foot,Open Play,0,0,2,Normal
-10.296115772464871,0.05948197115468602,True,Right Foot,Open Play,0,0,1,Normal
-8.514693182963198,0.05743994478653858,False,Head,Open Play,0,0,6,Normal
-11.063453348751471,0.05563220506700121,False,Head,Open Play,0,1,3,Normal
-4.601086828130931,0.05502424300919,False,Right Foot,Open Play,1,0,2,Half Volley
-8.340863264674704,0.05470178304291961,False,Left Foot,Open Play,1,0,1,Volley
-21.50209292138791,0.06364798396594898,False,Right Foot,Open Play,1,1,2,Half Volley
-32.407560846197605,0.055208523770032436,False,Left Foot,Open Play,0,0,0,Normal
-8.609297300012358,0.05625318809742758,True,Head,Open Play,0,0,2,Diving Header
-27.952996261581696,0.07011301813080612,False,Right Foot,Free Kick,0,0,0,Normal
-20.106217943710845,0.06490286688619276,False,Right Foot,Open Play,0,0,3,Normal
-25.831182706178982,0.06706077990484882,False,Right Foot,Open Play,1,0,0,Half Volley
-29.77129489961765,0.07235446104219585,False,Left Foot,Open Play,0,0,0,Normal
-24.600812994695932,0.05903860544808711,False,Left Foot,Open Play,0,0,2,Normal
-29.689728863699653,0.056329157275016264,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879797,Nicola Sansone,Sassuolo,13.981773850266636,0.06203935272208447,True,Left Foot,Open Play,0,0,1,Normal
+3879797,Domenico Berardi,Sassuolo,25.143587651725436,0.0626562019905439,False,Left Foot,Open Play,1,1,2,Normal
+3879797,Isaac Cofie,Carpi,18.236227680087786,0.05898611002852838,False,Right Foot,Open Play,0,0,2,Normal
+3879797,Domenico Berardi,Sassuolo,27.457057380571577,0.05086529226841002,False,Left Foot,Open Play,1,0,1,Normal
+3879797,Riccardo Gagliolo,Carpi,6.228964600958977,0.057428174043908424,True,Head,Open Play,0,0,7,Normal
+3879797,Gregoire Defrel,Sassuolo,18.221415971323417,0.06453888155039544,False,Left Foot,Open Play,0,0,2,Normal
+3879797,Gregoire Defrel,Sassuolo,10.296115772464871,0.05948197115468602,True,Right Foot,Open Play,0,0,1,Normal
+3879797,Simone Romagnoli,Carpi,8.514693182963198,0.05743994478653858,False,Head,Open Play,0,0,6,Normal
+3879797,Simone Romagnoli,Carpi,11.063453348751471,0.05563220506700121,False,Head,Open Play,0,1,3,Normal
+3879797,Matteo Mancosu,Carpi,4.601086828130931,0.05502424300919,False,Right Foot,Open Play,1,0,2,Half Volley
+3879797,Domenico Berardi,Sassuolo,8.340863264674704,0.05470178304291961,False,Left Foot,Open Play,1,0,1,Volley
+3879797,Raffaele Bianco,Carpi,21.50209292138791,0.06364798396594898,False,Right Foot,Open Play,1,1,2,Half Volley
+3879797,Kevin Lasagna,Carpi,32.407560846197605,0.055208523770032436,False,Left Foot,Open Play,0,0,0,Normal
+3879797,Francesco Acerbi,Sassuolo,8.609297300012358,0.05625318809742758,True,Head,Open Play,0,0,2,Diving Header
+3879797,Simone Verdi,Carpi,27.952996261581696,0.07011301813080612,False,Right Foot,Free Kick,0,0,0,Normal
+3879797,Simone Verdi,Carpi,20.106217943710845,0.06490286688619276,False,Right Foot,Open Play,0,0,3,Normal
+3879797,Isaac Cofie,Carpi,25.831182706178982,0.06706077990484882,False,Right Foot,Open Play,1,0,0,Half Volley
+3879797,Joseph Alfred Duncan,Sassuolo,29.77129489961765,0.07235446104219585,False,Left Foot,Open Play,0,0,0,Normal
+3879797,Matteo Politano,Sassuolo,24.600812994695932,0.05903860544808711,False,Left Foot,Open Play,0,0,2,Normal
+3879797,Gaetano Letizia,Carpi,29.689728863699653,0.056329157275016264,False,Right Foot,Open Play,0,0,0,Normal

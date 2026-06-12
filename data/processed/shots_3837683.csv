@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.055385138137416,0.05932199183334175,False,Right Foot,Open Play,0,0,4,Normal
-25.495097567963924,0.06782847153348155,False,Left Foot,Free Kick,0,0,0,Normal
-18.662529303392937,0.05182718049895658,False,Right Foot,Open Play,0,0,1,Normal
-32.53997541486472,0.06235883603582827,False,Right Foot,Open Play,0,0,1,Normal
-11.322543883774525,0.060101488716840686,False,Left Foot,Open Play,0,0,1,Half Volley
-15.689486925964156,0.0621858522212967,False,Left Foot,Open Play,0,0,4,Normal
-12.209013064126026,0.060036783184754076,False,Right Foot,Open Play,0,1,2,Normal
-22.486440358580545,0.0666897191677041,False,Left Foot,Open Play,0,0,1,Normal
-13.761540611428652,0.06174736218561569,False,Left Foot,Open Play,1,1,2,Normal
-35.41708627202412,0.07659134049274299,False,Right Foot,Open Play,0,0,0,Normal
-14.33492239253495,0.06094322709340938,False,Left Foot,Open Play,0,1,4,Normal
-7.930952023559338,0.05665538457465379,False,Head,Open Play,0,0,6,Normal
-14.393401265857909,0.05461170207137294,False,Head,Open Play,0,1,1,Normal
-10.547511554864487,0.05994528577184253,False,Right Foot,Open Play,1,0,0,Volley
-12.491997438360292,0.06087463305351731,True,Right Foot,Open Play,0,0,3,Normal
-16.205246064160825,0.06295426726327236,False,Left Foot,Open Play,0,0,1,Normal
-21.467417171145676,0.06449411269708401,False,Left Foot,Free Kick,0,0,0,Normal
-13.192801067248755,0.06152645312127961,True,Right Foot,Open Play,1,0,3,Normal
-16.762159765376296,0.06331530397996969,False,Right Foot,Open Play,1,0,1,Normal
-32.31872522238463,0.07368546850973037,False,Right Foot,Free Kick,0,0,0,Normal
-7.267048919609667,0.0558443899675716,False,Head,Open Play,0,0,3,Normal
-24.035390573069535,0.06730992340439336,False,Right Foot,Open Play,0,0,1,Normal
-8.64002314811714,0.058856354748581974,False,Head,Open Play,0,0,2,Normal
-22.86591349585666,0.05655890375916602,False,Left Foot,Open Play,0,0,3,Normal
-13.499999999999998,0.06122992432282578,False,Left Foot,Open Play,1,0,2,Volley
-32.8609190376654,0.06812976476850614,False,Left Foot,Open Play,0,0,2,Normal
-18.58520917288799,0.06470021822387864,False,Right Foot,Open Play,0,0,3,Normal
-15.624659996300718,0.06299179561890948,False,Right Foot,Open Play,0,0,2,Lob
-12.050726119201281,0.058646492565576504,False,Left Foot,Open Play,1,0,3,Normal
-24.436448187083162,0.05716225240051527,False,Right Foot,Open Play,0,0,2,Normal
-32.88038929209934,0.07238034489215993,False,Right Foot,Open Play,0,0,1,Normal
-15.761027885261798,0.06303493962830174,False,Left Foot,Open Play,0,0,1,Normal
-16.0822883943797,0.06301346667345262,False,Left Foot,Open Play,0,0,2,Normal
-23.40021367423811,0.06462712776903697,False,Right Foot,Open Play,0,0,2,Normal
-15.255163060419903,0.061944523207437464,True,Left Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3837683,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,9.055385138137416,0.05932199183334175,False,Right Foot,Open Play,0,0,4,Normal
+3837683,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,25.495097567963924,0.06782847153348155,False,Left Foot,Free Kick,0,0,0,Normal
+3837683,Thijs Dallinga,Toulouse,18.662529303392937,0.05182718049895658,False,Right Foot,Open Play,0,0,1,Normal
+3837683,Rafael Rogério da Silva,Toulouse,32.53997541486472,0.06235883603582827,False,Right Foot,Open Play,0,0,1,Normal
+3837683,Thijs Dallinga,Toulouse,11.322543883774525,0.060101488716840686,False,Left Foot,Open Play,0,0,1,Half Volley
+3837683,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,15.689486925964156,0.0621858522212967,False,Left Foot,Open Play,0,0,4,Normal
+3837683,Kylian Mbappé Lottin,Paris Saint-Germain,12.209013064126026,0.060036783184754076,False,Right Foot,Open Play,0,1,2,Normal
+3837683,Zakaria Aboukhlal,Toulouse,22.486440358580545,0.0666897191677041,False,Left Foot,Open Play,0,0,1,Normal
+3837683,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,13.761540611428652,0.06174736218561569,False,Left Foot,Open Play,1,1,2,Normal
+3837683,Branco van den Boomen,Toulouse,35.41708627202412,0.07659134049274299,False,Right Foot,Open Play,0,0,0,Normal
+3837683,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,14.33492239253495,0.06094322709340938,False,Left Foot,Open Play,0,1,4,Normal
+3837683,Thijs Dallinga,Toulouse,7.930952023559338,0.05665538457465379,False,Head,Open Play,0,0,6,Normal
+3837683,Nordi Mukiele Mulere,Paris Saint-Germain,14.393401265857909,0.05461170207137294,False,Head,Open Play,0,1,1,Normal
+3837683,Kylian Mbappé Lottin,Paris Saint-Germain,10.547511554864487,0.05994528577184253,False,Right Foot,Open Play,1,0,0,Volley
+3837683,Neymar da Silva Santos Junior,Paris Saint-Germain,12.491997438360292,0.06087463305351731,True,Right Foot,Open Play,0,0,3,Normal
+3837683,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,16.205246064160825,0.06295426726327236,False,Left Foot,Open Play,0,0,1,Normal
+3837683,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,21.467417171145676,0.06449411269708401,False,Left Foot,Free Kick,0,0,0,Normal
+3837683,Kylian Mbappé Lottin,Paris Saint-Germain,13.192801067248755,0.06152645312127961,True,Right Foot,Open Play,1,0,3,Normal
+3837683,Neymar da Silva Santos Junior,Paris Saint-Germain,16.762159765376296,0.06331530397996969,False,Right Foot,Open Play,1,0,1,Normal
+3837683,Branco van den Boomen,Toulouse,32.31872522238463,0.07368546850973037,False,Right Foot,Free Kick,0,0,0,Normal
+3837683,Marcos Aoás Corrêa,Paris Saint-Germain,7.267048919609667,0.0558443899675716,False,Head,Open Play,0,0,3,Normal
+3837683,Vitor Machado Ferreira,Paris Saint-Germain,24.035390573069535,0.06730992340439336,False,Right Foot,Open Play,0,0,1,Normal
+3837683,Marcos Aoás Corrêa,Paris Saint-Germain,8.64002314811714,0.058856354748581974,False,Head,Open Play,0,0,2,Normal
+3837683,Thijs Dallinga,Toulouse,22.86591349585666,0.05655890375916602,False,Left Foot,Open Play,0,0,3,Normal
+3837683,Nuno Mendes,Paris Saint-Germain,13.499999999999998,0.06122992432282578,False,Left Foot,Open Play,1,0,2,Volley
+3837683,Branco van den Boomen,Toulouse,32.8609190376654,0.06812976476850614,False,Left Foot,Open Play,0,0,2,Normal
+3837683,Fares Chaïbi,Toulouse,18.58520917288799,0.06470021822387864,False,Right Foot,Open Play,0,0,3,Normal
+3837683,Kylian Mbappé Lottin,Paris Saint-Germain,15.624659996300718,0.06299179561890948,False,Right Foot,Open Play,0,0,2,Lob
+3837683,Issiaga Sylla,Toulouse,12.050726119201281,0.058646492565576504,False,Left Foot,Open Play,1,0,3,Normal
+3837683,Ado Onaiwu,Toulouse,24.436448187083162,0.05716225240051527,False,Right Foot,Open Play,0,0,2,Normal
+3837683,Stijn Spierings,Toulouse,32.88038929209934,0.07238034489215993,False,Right Foot,Open Play,0,0,1,Normal
+3837683,Hugo Ekitike,Paris Saint-Germain,15.761027885261798,0.06303493962830174,False,Left Foot,Open Play,0,0,1,Normal
+3837683,Ado Onaiwu,Toulouse,16.0822883943797,0.06301346667345262,False,Left Foot,Open Play,0,0,2,Normal
+3837683,Kylian Mbappé Lottin,Paris Saint-Germain,23.40021367423811,0.06462712776903697,False,Right Foot,Open Play,0,0,2,Normal
+3837683,Juan Bernat Velasco,Paris Saint-Germain,15.255163060419903,0.061944523207437464,True,Left Foot,Open Play,1,1,1,Normal

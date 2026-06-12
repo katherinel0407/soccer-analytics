@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.200000000000003,0.05884548763787881,False,Head,Open Play,0,0,2,Normal
-26.91337957224993,0.05739532497289512,False,Left Foot,Open Play,0,0,2,Normal
-27.650135623537185,0.07055602578262977,False,Right Foot,Open Play,0,0,0,Normal
-25.93260495977988,0.06962445987486808,False,Right Foot,Open Play,0,0,2,Normal
-19.100261778310784,0.06460451560646321,False,Left Foot,Open Play,0,0,0,Half Volley
-27.253073221198377,0.07061736534087971,False,Right Foot,Free Kick,0,0,0,Normal
-11.515641536623134,0.05959482867704985,False,Right Foot,Open Play,1,0,2,Half Volley
-10.604244433244638,0.0591140172760833,False,Head,Open Play,0,0,3,Normal
-14.780054127099802,0.056172363181899096,False,Right Foot,Open Play,1,1,2,Normal
-14.799999999999999,0.058582992065022425,False,Left Foot,Open Play,0,0,3,Normal
-19.743606560099394,0.060503728448920636,False,Right Foot,Open Play,1,0,0,Normal
-27.131162894354524,0.07023252759522129,False,Right Foot,Free Kick,0,0,0,Normal
-25.767033201360224,0.06380623162639307,False,Right Foot,Open Play,1,0,1,Half Volley
-26.462237244798484,0.07005032272932495,True,Right Foot,Open Play,0,1,3,Normal
-33.63406011768428,0.06543941326793232,False,Left Foot,Open Play,0,0,1,Normal
-24.922680433693326,0.0549648758404496,False,Left Foot,Open Play,0,0,2,Normal
-10.868302535354815,0.0581633670961511,False,Right Foot,Open Play,1,0,5,Volley
-14.921461054467825,0.055223414291603184,False,Right Foot,Open Play,0,0,2,Normal
-11.62497311824849,0.06071556836822792,False,Head,Open Play,0,0,3,Normal
-10.475208828467334,0.059910664667904276,False,Head,Open Play,0,1,2,Normal
-18.752333188166215,0.06308706342804445,False,Right Foot,Open Play,1,0,2,Half Volley
-30.034147232774902,0.05993104257499116,False,Right Foot,Open Play,0,0,1,Normal
-17.626400653565096,0.05896706350508191,False,Right Foot,Open Play,1,0,1,Normal
-19.44865033877673,0.056616279960411145,False,Right Foot,Open Play,0,0,2,Normal
-23.574774654278247,0.05223684171129434,False,Left Foot,Open Play,0,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9948,Willian José da Silva,Real Sociedad,10.200000000000003,0.05884548763787881,False,Head,Open Play,0,0,2,Normal
+9948,Adnan Januzaj,Real Sociedad,26.91337957224993,0.05739532497289512,False,Left Foot,Open Play,0,0,2,Normal
+9948,Willian José da Silva,Real Sociedad,27.650135623537185,0.07055602578262977,False,Right Foot,Open Play,0,0,0,Normal
+9948,Andrés Iniesta Luján,Barcelona,25.93260495977988,0.06962445987486808,False,Right Foot,Open Play,0,0,2,Normal
+9948,Jordi Alba Ramos,Barcelona,19.100261778310784,0.06460451560646321,False,Left Foot,Open Play,0,0,0,Half Volley
+9948,Luis Alberto Suárez Díaz,Barcelona,27.253073221198377,0.07061736534087971,False,Right Foot,Free Kick,0,0,0,Normal
+9948,Gerard Piqué Bernabéu,Barcelona,11.515641536623134,0.05959482867704985,False,Right Foot,Open Play,1,0,2,Half Volley
+9948,Ivan Rakitić,Barcelona,10.604244433244638,0.0591140172760833,False,Head,Open Play,0,0,3,Normal
+9948,Luis Alberto Suárez Díaz,Barcelona,14.780054127099802,0.056172363181899096,False,Right Foot,Open Play,1,1,2,Normal
+9948,Mikel Oyarzabal Ugarte,Real Sociedad,14.799999999999999,0.058582992065022425,False,Left Foot,Open Play,0,0,3,Normal
+9948,Willian José da Silva,Real Sociedad,19.743606560099394,0.060503728448920636,False,Right Foot,Open Play,1,0,0,Normal
+9948,Willian José da Silva,Real Sociedad,27.131162894354524,0.07023252759522129,False,Right Foot,Free Kick,0,0,0,Normal
+9948,Mikel Oyarzabal Ugarte,Real Sociedad,25.767033201360224,0.06380623162639307,False,Right Foot,Open Play,1,0,1,Half Volley
+9948,Philippe Coutinho Correia,Barcelona,26.462237244798484,0.07005032272932495,True,Right Foot,Open Play,0,1,3,Normal
+9948,Sergio Canales Madrazo,Real Sociedad,33.63406011768428,0.06543941326793232,False,Left Foot,Open Play,0,0,1,Normal
+9948,Ivan Rakitić,Barcelona,24.922680433693326,0.0549648758404496,False,Left Foot,Open Play,0,0,2,Normal
+9948,Gerard Piqué Bernabéu,Barcelona,10.868302535354815,0.0581633670961511,False,Right Foot,Open Play,1,0,5,Volley
+9948,Denis Suárez Fernández,Barcelona,14.921461054467825,0.055223414291603184,False,Right Foot,Open Play,0,0,2,Normal
+9948,Raúl Rodríguez Navas,Real Sociedad,11.62497311824849,0.06071556836822792,False,Head,Open Play,0,0,3,Normal
+9948,Lionel Andrés Messi Cuccittini,Barcelona,10.475208828467334,0.059910664667904276,False,Head,Open Play,0,1,2,Normal
+9948,Juan Miguel Jiménez López,Real Sociedad,18.752333188166215,0.06308706342804445,False,Right Foot,Open Play,1,0,2,Half Volley
+9948,Asier Illarramendi Andonegi,Real Sociedad,30.034147232774902,0.05993104257499116,False,Right Foot,Open Play,0,0,1,Normal
+9948,Juan Miguel Jiménez López,Real Sociedad,17.626400653565096,0.05896706350508191,False,Right Foot,Open Play,1,0,1,Normal
+9948,Francisco Alcácer García,Barcelona,19.44865033877673,0.056616279960411145,False,Right Foot,Open Play,0,0,2,Normal
+9948,Raúl Rodríguez Navas,Real Sociedad,23.574774654278247,0.05223684171129434,False,Left Foot,Open Play,0,0,0,Half Volley

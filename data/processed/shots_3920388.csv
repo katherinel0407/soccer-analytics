@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.144981119905022,0.062319238806013096,False,Left Foot,Open Play,0,1,1,Normal
-14.805404418657394,0.06062841657051049,True,Left Foot,Open Play,1,0,0,Normal
-8.527602242131133,0.0556257877338881,False,Right Foot,Open Play,1,1,4,Normal
-26.706740722147284,0.05577323230094049,False,Right Foot,Free Kick,0,0,0,Normal
-8.381527307120106,0.058757612858761715,False,Head,Open Play,0,0,5,Normal
-36.479035074957785,0.06963864817255949,False,Left Foot,Open Play,0,1,2,Normal
-11.423221962301183,0.060404941167571655,False,Right Foot,Open Play,1,0,1,Normal
-29.621107339193113,0.06916701243900568,False,Right Foot,Free Kick,0,0,0,Normal
-23.700843866833097,0.05484893637728233,False,Left Foot,Open Play,0,0,2,Normal
-26.51490147068248,0.05690057755031029,False,Right Foot,Open Play,0,0,2,Normal
-10.42353107157071,0.060027146861956655,False,Left Foot,Open Play,1,0,1,Half Volley
-19.720294115453754,0.05699009181518557,True,Right Foot,Open Play,0,0,2,Normal
-7.021395872616778,0.05780094363652131,False,Right Foot,Open Play,0,1,3,Normal
-24.20433845408711,0.06030391869386066,False,Right Foot,Open Play,0,0,1,Normal
-10.973149046650198,0.057690657831841644,False,Head,Open Play,0,0,2,Normal
-25.29604712203075,0.057692164055824675,False,Left Foot,Open Play,0,0,0,Normal
-24.09169981549662,0.06394178730175279,False,Left Foot,Open Play,0,1,2,Half Volley
-9.33434518324665,0.058746349955370376,False,Head,Open Play,0,1,1,Normal
-19.723082923316017,0.061952399170381575,False,Left Foot,Open Play,1,0,1,Half Volley
-19.00736699282675,0.061348384278586916,False,Right Foot,Open Play,0,1,1,Half Volley
-12.9634100452003,0.061374775329928556,False,Left Foot,Open Play,0,0,2,Half Volley
-13.225732493892348,0.059984582172625686,False,Left Foot,Open Play,1,0,1,Normal
-24.010206163213176,0.06529402759387526,True,Right Foot,Open Play,1,0,0,Normal
-21.24735277628721,0.0664352625106869,False,Right Foot,Open Play,0,1,2,Normal
-7.602631123499282,0.05636906669048486,False,Head,Open Play,0,1,3,Normal
-12.875169901791581,0.06116778894656291,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3920388,Alasana Manneh,Gambia,27.144981119905022,0.062319238806013096,False,Left Foot,Open Play,0,1,1,Normal
+3920388,Pape Gueye,Senegal,14.805404418657394,0.06062841657051049,True,Left Foot,Open Play,1,0,0,Normal
+3920388,Habibou Mouhamadou Diallo,Senegal,8.527602242131133,0.0556257877338881,False,Right Foot,Open Play,1,1,4,Normal
+3920388,Musa Barrow,Gambia,26.706740722147284,0.05577323230094049,False,Right Foot,Free Kick,0,0,0,Normal
+3920388,Ali Sowe,Gambia,8.381527307120106,0.058757612858761715,False,Head,Open Play,0,0,5,Normal
+3920388,Kalidou Koulibaly,Senegal,36.479035074957785,0.06963864817255949,False,Left Foot,Open Play,0,1,2,Normal
+3920388,Ismaïla Sarr,Senegal,11.423221962301183,0.060404941167571655,False,Right Foot,Open Play,1,0,1,Normal
+3920388,Musa Barrow,Gambia,29.621107339193113,0.06916701243900568,False,Right Foot,Free Kick,0,0,0,Normal
+3920388,Yankuba Minteh,Gambia,23.700843866833097,0.05484893637728233,False,Left Foot,Open Play,0,0,2,Normal
+3920388,Musa Barrow,Gambia,26.51490147068248,0.05690057755031029,False,Right Foot,Open Play,0,0,2,Normal
+3920388,Ali Sowe,Gambia,10.42353107157071,0.060027146861956655,False,Left Foot,Open Play,1,0,1,Half Volley
+3920388,Lamine Camara,Senegal,19.720294115453754,0.05699009181518557,True,Right Foot,Open Play,0,0,2,Normal
+3920388,Habibou Mouhamadou Diallo,Senegal,7.021395872616778,0.05780094363652131,False,Right Foot,Open Play,0,1,3,Normal
+3920388,Ismaïla Sarr,Senegal,24.20433845408711,0.06030391869386066,False,Right Foot,Open Play,0,0,1,Normal
+3920388,Omar Colley,Gambia,10.973149046650198,0.057690657831841644,False,Head,Open Play,0,0,2,Normal
+3920388,Krépin Diatta,Senegal,25.29604712203075,0.057692164055824675,False,Left Foot,Open Play,0,0,0,Normal
+3920388,Pape Gueye,Senegal,24.09169981549662,0.06394178730175279,False,Left Foot,Open Play,0,1,2,Half Volley
+3920388,Omar Colley,Gambia,9.33434518324665,0.058746349955370376,False,Head,Open Play,0,1,1,Normal
+3920388,Muhammed Badamosi,Gambia,19.723082923316017,0.061952399170381575,False,Left Foot,Open Play,1,0,1,Half Volley
+3920388,Muhammed Badamosi,Gambia,19.00736699282675,0.061348384278586916,False,Right Foot,Open Play,0,1,1,Half Volley
+3920388,Nicolas Jackson,Senegal,12.9634100452003,0.061374775329928556,False,Left Foot,Open Play,0,0,2,Half Volley
+3920388,Ismail Jakobs,Senegal,13.225732493892348,0.059984582172625686,False,Left Foot,Open Play,1,0,1,Normal
+3920388,Lamine Camara,Senegal,24.010206163213176,0.06529402759387526,True,Right Foot,Open Play,1,0,0,Normal
+3920388,Nampalys Mendy,Senegal,21.24735277628721,0.0664352625106869,False,Right Foot,Open Play,0,1,2,Normal
+3920388,Abdoulaye Seck,Senegal,7.602631123499282,0.05636906669048486,False,Head,Open Play,0,1,3,Normal
+3920388,Muhammed Badamosi,Gambia,12.875169901791581,0.06116778894656291,False,Head,Open Play,0,1,2,Normal

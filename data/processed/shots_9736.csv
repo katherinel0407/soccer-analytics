@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.280109889280518,0.05690698529986257,False,Head,Open Play,0,0,5,Normal
-36.124783736376884,0.06904295690567004,False,Right Foot,Open Play,0,0,1,Normal
-15.56534612528742,0.06155557019944294,False,Right Foot,Open Play,0,0,1,Normal
-14.354441821262155,0.055102685975794465,False,Right Foot,Open Play,1,0,1,Half Volley
-12.210241602851275,0.059855082017638804,False,Head,Open Play,0,0,2,Normal
-16.347782724271816,0.06149262517599039,False,Left Foot,Open Play,0,0,2,Normal
-9.80051019080129,0.05864758756544275,False,Head,Open Play,0,1,6,Normal
-9.338094023943004,0.05508033885698924,False,Right Foot,Open Play,1,0,2,Normal
-11.650321883965262,0.06073056946267373,False,Head,Open Play,0,0,1,Normal
-28.040149785619906,0.057664448455059955,False,Right Foot,Open Play,0,0,1,Normal
-11.661903789690594,0.05984777537537227,False,Head,Open Play,0,0,1,Normal
-34.284836298282066,0.06073003047425744,False,Left Foot,Free Kick,0,0,0,Normal
-28.43835438276976,0.07021955172862673,False,Right Foot,Open Play,0,0,2,Normal
-17.0,0.06377392421668256,False,Right Foot,Open Play,1,0,1,Normal
-12.50319959050482,0.061190320810420015,True,Right Foot,Open Play,1,0,1,Normal
-15.472879499304584,0.05208902536960002,False,Right Foot,Open Play,1,0,1,Normal
-22.94907405539492,0.06373283047330973,False,Right Foot,Open Play,0,0,0,Normal
-15.160804727981951,0.06264500895329139,False,Right Foot,Open Play,0,0,1,Normal
-11.454256850621087,0.06053057652293335,False,Right Foot,Open Play,1,0,2,Normal
-7.523961722390677,0.056539107399668755,False,Head,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-17.678235206037964,0.06398890686690585,False,Left Foot,Open Play,0,0,3,Normal
-8.900561780022658,0.05828247918156625,False,Right Foot,Open Play,1,0,3,Normal
-31.704416096184453,0.05455070379670018,False,Left Foot,Open Play,0,0,2,Normal
-15.658863304850707,0.052922410667036526,False,Right Foot,Open Play,0,0,2,Normal
-8.764131445842194,0.05808319148238562,False,Left Foot,Open Play,0,0,2,Normal
-17.274258305351342,0.06351050466216424,False,Left Foot,Open Play,0,0,1,Normal
-22.360679774997898,0.06215499018723289,False,Left Foot,Open Play,1,0,1,Volley
-13.100381673829196,0.06001802582900867,False,Head,Open Play,0,0,5,Normal
-16.205246064160825,0.06295426726327236,False,Left Foot,Open Play,0,0,1,Normal
-15.595512174981616,0.059372653673756264,True,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9736,Raphaël Varane,Real Madrid,7.280109889280518,0.05690698529986257,False,Head,Open Play,0,0,5,Normal
+9736,Daniel Carvajal Ramos,Real Madrid,36.124783736376884,0.06904295690567004,False,Right Foot,Open Play,0,0,1,Normal
+9736,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,15.56534612528742,0.06155557019944294,False,Right Foot,Open Play,0,0,1,Normal
+9736,José Paulo Bezzera Maciel Júnior,Barcelona,14.354441821262155,0.055102685975794465,False,Right Foot,Open Play,1,0,1,Half Volley
+9736,Gerard Piqué Bernabéu,Barcelona,12.210241602851275,0.059855082017638804,False,Head,Open Play,0,0,2,Normal
+9736,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16.347782724271816,0.06149262517599039,False,Left Foot,Open Play,0,0,2,Normal
+9736,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9.80051019080129,0.05864758756544275,False,Head,Open Play,0,1,6,Normal
+9736,Karim Benzema,Real Madrid,9.338094023943004,0.05508033885698924,False,Right Foot,Open Play,1,0,2,Normal
+9736,José Paulo Bezzera Maciel Júnior,Barcelona,11.650321883965262,0.06073056946267373,False,Head,Open Play,0,0,1,Normal
+9736,Luka Modrić,Real Madrid,28.040149785619906,0.057664448455059955,False,Right Foot,Open Play,0,0,1,Normal
+9736,Karim Benzema,Real Madrid,11.661903789690594,0.05984777537537227,False,Head,Open Play,0,0,1,Normal
+9736,Lionel Andrés Messi Cuccittini,Barcelona,34.284836298282066,0.06073003047425744,False,Left Foot,Free Kick,0,0,0,Normal
+9736,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28.43835438276976,0.07021955172862673,False,Right Foot,Open Play,0,0,2,Normal
+9736,Luis Alberto Suárez Díaz,Barcelona,17.0,0.06377392421668256,False,Right Foot,Open Play,1,0,1,Normal
+9736,Luis Alberto Suárez Díaz,Barcelona,12.50319959050482,0.061190320810420015,True,Right Foot,Open Play,1,0,1,Normal
+9736,Luis Alberto Suárez Díaz,Barcelona,15.472879499304584,0.05208902536960002,False,Right Foot,Open Play,1,0,1,Normal
+9736,José Paulo Bezzera Maciel Júnior,Barcelona,22.94907405539492,0.06373283047330973,False,Right Foot,Open Play,0,0,0,Normal
+9736,Luis Alberto Suárez Díaz,Barcelona,15.160804727981951,0.06264500895329139,False,Right Foot,Open Play,0,0,1,Normal
+9736,Luis Alberto Suárez Díaz,Barcelona,11.454256850621087,0.06053057652293335,False,Right Foot,Open Play,1,0,2,Normal
+9736,José Paulo Bezzera Maciel Júnior,Barcelona,7.523961722390677,0.056539107399668755,False,Head,Open Play,0,0,1,Normal
+9736,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+9736,Lionel Andrés Messi Cuccittini,Barcelona,17.678235206037964,0.06398890686690585,False,Left Foot,Open Play,0,0,3,Normal
+9736,Gareth Frank Bale,Real Madrid,8.900561780022658,0.05828247918156625,False,Right Foot,Open Play,1,0,3,Normal
+9736,Gareth Frank Bale,Real Madrid,31.704416096184453,0.05455070379670018,False,Left Foot,Open Play,0,0,2,Normal
+9736,Nélson Cabral Semedo,Barcelona,15.658863304850707,0.052922410667036526,False,Right Foot,Open Play,0,0,2,Normal
+9736,Sergio Ramos García,Real Madrid,8.764131445842194,0.05808319148238562,False,Left Foot,Open Play,0,0,2,Normal
+9736,André Filipe Tavares Gomes,Barcelona,17.274258305351342,0.06351050466216424,False,Left Foot,Open Play,0,0,1,Normal
+9736,Lionel Andrés Messi Cuccittini,Barcelona,22.360679774997898,0.06215499018723289,False,Left Foot,Open Play,1,0,1,Volley
+9736,Raphaël Varane,Real Madrid,13.100381673829196,0.06001802582900867,False,Head,Open Play,0,0,5,Normal
+9736,André Filipe Tavares Gomes,Barcelona,16.205246064160825,0.06295426726327236,False,Left Foot,Open Play,0,0,1,Normal
+9736,Aleix Vidal Parreu,Barcelona,15.595512174981616,0.059372653673756264,True,Right Foot,Open Play,1,0,0,Normal

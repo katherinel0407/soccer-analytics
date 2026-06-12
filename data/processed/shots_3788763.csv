@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.22154172315008,0.06016138064099853,False,Right Foot,Open Play,1,0,2,Normal
-33.92889623904675,0.07077786263450188,False,Right Foot,Open Play,0,0,1,Normal
-9.330058949438635,0.05928617386797565,False,Head,Open Play,0,0,2,Normal
-8.657944328765339,0.05852437726973807,False,Head,Open Play,0,0,1,Normal
-29.276953393411684,0.06346269419965139,False,Right Foot,Free Kick,0,0,0,Normal
-14.106027080648895,0.0583531445044617,False,Right Foot,Open Play,1,0,1,Half Volley
-14.566399692442875,0.05513038156023588,False,Right Foot,Open Play,0,0,4,Normal
-20.208166665979377,0.05076052594917432,False,Right Foot,Open Play,0,0,2,Normal
-27.93510336476312,0.07025946753044734,False,Right Foot,Open Play,0,0,1,Normal
-13.12440474840669,0.06154775039206312,True,Right Foot,Open Play,0,0,3,Normal
-22.42431715794262,0.06572051583921357,False,Left Foot,Open Play,1,0,1,Half Volley
-38.1241393345476,0.052302499670739966,False,Left Foot,Open Play,0,0,0,Normal
-28.10160137785745,0.06711403300568834,False,Right Foot,Open Play,0,0,2,Normal
-27.122868579853424,0.06995263959228479,False,Right Foot,Open Play,0,0,1,Normal
-21.875328568960974,0.055190646206523114,False,Right Foot,Open Play,0,0,2,Normal
-9.213576938409972,0.058605098275380775,True,Left Foot,Open Play,1,0,2,Normal
-11.844407963254223,0.05475166341506391,False,Right Foot,Open Play,1,0,1,Volley
-26.75761573832765,0.06471054592989064,False,Right Foot,Open Play,1,0,0,Normal
-20.593688353473738,0.05928955094500376,False,Left Foot,Open Play,0,0,2,Normal
-13.85929291125633,0.06176932490688409,False,Left Foot,Open Play,0,0,2,Normal
-27.76256472302225,0.06511021103432768,False,Right Foot,Open Play,0,0,0,Normal
-6.879680225126745,0.055902843426579245,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788763,Karim Benzema,France,23.22154172315008,0.06016138064099853,False,Right Foot,Open Play,1,0,2,Normal
+3788763,László Kleinheisler,Hungary,33.92889623904675,0.07077786263450188,False,Right Foot,Open Play,0,0,1,Normal
+3788763,Kylian Mbappé Lottin,France,9.330058949438635,0.05928617386797565,False,Head,Open Play,0,0,2,Normal
+3788763,Kylian Mbappé Lottin,France,8.657944328765339,0.05852437726973807,False,Head,Open Play,0,0,1,Normal
+3788763,Kylian Mbappé Lottin,France,29.276953393411684,0.06346269419965139,False,Right Foot,Free Kick,0,0,0,Normal
+3788763,Karim Benzema,France,14.106027080648895,0.0583531445044617,False,Right Foot,Open Play,1,0,1,Half Volley
+3788763,Kylian Mbappé Lottin,France,14.566399692442875,0.05513038156023588,False,Right Foot,Open Play,0,0,4,Normal
+3788763,Paul Pogba,France,20.208166665979377,0.05076052594917432,False,Right Foot,Open Play,0,0,2,Normal
+3788763,Roland Sallai,Hungary,27.93510336476312,0.07025946753044734,False,Right Foot,Open Play,0,0,1,Normal
+3788763,Attila Fiola,Hungary,13.12440474840669,0.06154775039206312,True,Right Foot,Open Play,0,0,3,Normal
+3788763,Lucas Digne,France,22.42431715794262,0.06572051583921357,False,Left Foot,Open Play,1,0,1,Half Volley
+3788763,Antoine Griezmann,France,38.1241393345476,0.052302499670739966,False,Left Foot,Open Play,0,0,0,Normal
+3788763,Paul Pogba,France,28.10160137785745,0.06711403300568834,False,Right Foot,Open Play,0,0,2,Normal
+3788763,Roland Sallai,Hungary,27.122868579853424,0.06995263959228479,False,Right Foot,Open Play,0,0,1,Normal
+3788763,Ousmane Dembélé,France,21.875328568960974,0.055190646206523114,False,Right Foot,Open Play,0,0,2,Normal
+3788763,Antoine Griezmann,France,9.213576938409972,0.058605098275380775,True,Left Foot,Open Play,1,0,2,Normal
+3788763,Kylian Mbappé Lottin,France,11.844407963254223,0.05475166341506391,False,Right Foot,Open Play,1,0,1,Volley
+3788763,N'Golo Kanté,France,26.75761573832765,0.06471054592989064,False,Right Foot,Open Play,1,0,0,Normal
+3788763,Roland Sallai,Hungary,20.593688353473738,0.05928955094500376,False,Left Foot,Open Play,0,0,2,Normal
+3788763,Kylian Mbappé Lottin,France,13.85929291125633,0.06176932490688409,False,Left Foot,Open Play,0,0,2,Normal
+3788763,Corentin Tolisso,France,27.76256472302225,0.06511021103432768,False,Right Foot,Open Play,0,0,0,Normal
+3788763,Raphaël Varane,France,6.879680225126745,0.055902843426579245,False,Head,Open Play,0,1,2,Normal

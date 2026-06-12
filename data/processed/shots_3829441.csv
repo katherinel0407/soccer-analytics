@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.57614423385235,0.0549970217917873,False,Left Foot,Open Play,0,1,2,Normal
-12.568611697399195,0.06082809098195558,False,Right Foot,Open Play,1,1,1,Volley
-16.601204775557708,0.057126103160532675,False,Left Foot,Open Play,0,0,1,Normal
-9.052071586106683,0.059255578072087485,False,Head,Open Play,0,1,4,Normal
-30.26301372963373,0.06414202206396159,False,Right Foot,Open Play,0,1,1,Normal
-8.910667763978182,0.05873771220390438,False,Head,Open Play,0,1,1,Normal
-8.544003745317534,0.059063234364707416,False,Head,Open Play,0,0,1,Normal
-2.607680962081054,0.05591412938673689,True,Head,Open Play,0,0,2,Normal
-16.101242188104614,0.061268352257285906,False,Left Foot,Open Play,1,0,0,Volley
-22.905457864884525,0.06420426149388041,False,Left Foot,Open Play,0,1,1,Normal
-19.260841103129426,0.06513590580644765,False,Left Foot,Open Play,1,1,2,Half Volley
-7.810889834071409,0.05689361745683244,False,Right Foot,Open Play,1,0,1,Half Volley
-31.849646779831016,0.07209079326788899,False,Left Foot,Open Play,0,0,2,Normal
-26.70674072214728,0.06226597675350936,True,Right Foot,Open Play,1,0,0,Normal
-7.640026177965628,0.05709296923967806,False,Head,Open Play,0,0,6,Normal
-16.55566368346494,0.06346017697084479,True,Right Foot,Open Play,0,0,1,Normal
-9.775479527879956,0.059705200399101974,True,Right Foot,Open Play,1,1,2,Overhead Kick
-28.204432275796655,0.06727047413255904,False,Right Foot,Open Play,1,0,0,Normal
-15.174320413118995,0.06148548551184938,False,Right Foot,Open Play,0,0,0,Normal
-27.521809533531766,0.053473618756332934,False,Right Foot,Open Play,0,0,0,Normal
-9.571311299921238,0.05956464609621979,True,Left Foot,Open Play,1,0,2,Normal
-7.782030583337487,0.05644320892557337,True,Other,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829441,Stéphane Darbion,Troyes,21.57614423385235,0.0549970217917873,False,Left Foot,Open Play,0,1,2,Normal
+3829441,Abdelaziz Barrada,Olympique de Marseille,12.568611697399195,0.06082809098195558,False,Right Foot,Open Play,1,1,1,Volley
+3829441,Romain Alessandrini,Olympique de Marseille,16.601204775557708,0.057126103160532675,False,Left Foot,Open Play,0,0,1,Normal
+3829441,Mario Lemina,Olympique de Marseille,9.052071586106683,0.059255578072087485,False,Head,Open Play,0,1,4,Normal
+3829441,Mario Lemina,Olympique de Marseille,30.26301372963373,0.06414202206396159,False,Right Foot,Open Play,0,1,1,Normal
+3829441,Michy Batshuayi Tunga,Olympique de Marseille,8.910667763978182,0.05873771220390438,False,Head,Open Play,0,1,1,Normal
+3829441,Michy Batshuayi Tunga,Olympique de Marseille,8.544003745317534,0.059063234364707416,False,Head,Open Play,0,0,1,Normal
+3829441,Abdelaziz Barrada,Olympique de Marseille,2.607680962081054,0.05591412938673689,True,Head,Open Play,0,0,2,Normal
+3829441,Stéphane Darbion,Troyes,16.101242188104614,0.061268352257285906,False,Left Foot,Open Play,1,0,0,Volley
+3829441,Abdelaziz Barrada,Olympique de Marseille,22.905457864884525,0.06420426149388041,False,Left Foot,Open Play,0,1,1,Normal
+3829441,Abdelaziz Barrada,Olympique de Marseille,19.260841103129426,0.06513590580644765,False,Left Foot,Open Play,1,1,2,Half Volley
+3829441,Abdelaziz Barrada,Olympique de Marseille,7.810889834071409,0.05689361745683244,False,Right Foot,Open Play,1,0,1,Half Volley
+3829441,Fabien Camus,Troyes,31.849646779831016,0.07209079326788899,False,Left Foot,Open Play,0,0,2,Normal
+3829441,Lassana Diarra,Olympique de Marseille,26.70674072214728,0.06226597675350936,True,Right Foot,Open Play,1,0,0,Normal
+3829441,Mario Lemina,Olympique de Marseille,7.640026177965628,0.05709296923967806,False,Head,Open Play,0,0,6,Normal
+3829441,Michy Batshuayi Tunga,Olympique de Marseille,16.55566368346494,0.06346017697084479,True,Right Foot,Open Play,0,0,1,Normal
+3829441,Lucas Ariel Ocampos,Olympique de Marseille,9.775479527879956,0.059705200399101974,True,Right Foot,Open Play,1,1,2,Overhead Kick
+3829441,Corentin Jean,Troyes,28.204432275796655,0.06727047413255904,False,Right Foot,Open Play,1,0,0,Normal
+3829441,Corentin Jean,Troyes,15.174320413118995,0.06148548551184938,False,Right Foot,Open Play,0,0,0,Normal
+3829441,Fabien Camus,Troyes,27.521809533531766,0.053473618756332934,False,Right Foot,Open Play,0,0,0,Normal
+3829441,Romain Alessandrini,Olympique de Marseille,9.571311299921238,0.05956464609621979,True,Left Foot,Open Play,1,0,2,Normal
+3829441,Michy Batshuayi Tunga,Olympique de Marseille,7.782030583337487,0.05644320892557337,True,Other,Open Play,0,0,1,Normal

@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.319334740205438,0.0586795521143041,False,Head,Open Play,0,0,4,Normal
-23.443762496664224,0.06018822621451563,False,Right Foot,Open Play,1,0,0,Half Volley
-24.55381844031596,0.05387615759977818,False,Right Foot,Open Play,0,0,3,Normal
-7.011419257183241,0.05768332625188689,False,Right Foot,Open Play,1,0,3,Volley
-30.338918899657585,0.06636004578116333,False,Left Foot,Open Play,0,0,2,Normal
-34.750827328280984,0.058954116638440246,False,Right Foot,Open Play,0,0,0,Normal
-18.185983613761454,0.05861623470431664,False,Right Foot,Open Play,1,0,0,Volley
-24.266849816158665,0.06471488953770894,False,Right Foot,Open Play,1,0,0,Normal
-10.456098698845569,0.058237831643783974,False,Right Foot,Open Play,1,0,2,Volley
-38.641946120763635,0.07368479271959888,False,Right Foot,Open Play,1,0,0,Normal
-11.236102527122114,0.057989413786065265,False,Right Foot,Open Play,1,0,2,Half Volley
-28.425340807103797,0.06645666468509001,False,Right Foot,Open Play,0,1,2,Normal
-26.82088738278433,0.06160825868640959,True,Left Foot,Open Play,0,0,3,Normal
-12.175795661885921,0.05792915841638685,False,Head,Open Play,0,1,2,Normal
-13.200000000000003,0.06009727920844993,False,Right Foot,Open Play,1,0,4,Normal
-21.933763926877667,0.06657670410832153,False,Left Foot,Open Play,0,1,2,Normal
-22.394865482962828,0.05964430161415273,False,Right Foot,Open Play,1,0,3,Half Volley
-23.883467084994166,0.0682301851562961,False,Right Foot,Open Play,0,0,3,Normal
-16.646921637347845,0.06358857772667516,False,Left Foot,Open Play,0,1,1,Normal
-26.03171143048417,0.053126292000793725,False,Right Foot,Open Play,1,0,2,Normal
-21.567568244936655,0.05118677877950607,False,Right Foot,Open Play,0,0,1,Normal
-23.349732332512932,0.05894361993400066,False,Right Foot,Open Play,1,1,1,Volley
-18.034688796871432,0.06403467113279253,True,Right Foot,Open Play,0,1,2,Normal
-13.238202294873727,0.06091573221667754,False,Head,Open Play,0,0,1,Normal
-18.168654325513494,0.06439164224667149,False,Left Foot,Open Play,0,1,2,Normal
-12.955693729013516,0.06040663154292115,False,Right Foot,Open Play,1,0,3,Overhead Kick
-25.866000850537375,0.05078551173698426,False,Right Foot,Free Kick,0,0,0,Normal
-21.890865674979597,0.05906926850899895,False,Right Foot,Open Play,1,0,1,Normal
-23.108656386730928,0.05209793871703297,False,Left Foot,Open Play,0,0,1,Normal
-20.46191584383046,0.0561515672731897,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900573,Romain Thomas,Angers,9.319334740205438,0.0586795521143041,False,Head,Open Play,0,0,4,Normal
+3900573,Nicolas Seube,Stade Malherbe Caen,23.443762496664224,0.06018822621451563,False,Right Foot,Open Play,1,0,0,Half Volley
+3900573,Andy Delort,Stade Malherbe Caen,24.55381844031596,0.05387615759977818,False,Right Foot,Open Play,0,0,3,Normal
+3900573,Alaeddine Yahia,Stade Malherbe Caen,7.011419257183241,0.05768332625188689,False,Right Foot,Open Play,1,0,3,Volley
+3900573,Romain Saïss,Angers,30.338918899657585,0.06636004578116333,False,Left Foot,Open Play,0,0,2,Normal
+3900573,Ronny Rodelin,Stade Malherbe Caen,34.750827328280984,0.058954116638440246,False,Right Foot,Open Play,0,0,0,Normal
+3900573,Chaker Alhadhur,Stade Malherbe Caen,18.185983613761454,0.05861623470431664,False,Right Foot,Open Play,1,0,0,Volley
+3900573,Julien Féret,Stade Malherbe Caen,24.266849816158665,0.06471488953770894,False,Right Foot,Open Play,1,0,0,Normal
+3900573,Vincent Bessat,Stade Malherbe Caen,10.456098698845569,0.058237831643783974,False,Right Foot,Open Play,1,0,2,Volley
+3900573,Damien Da Silva,Stade Malherbe Caen,38.641946120763635,0.07368479271959888,False,Right Foot,Open Play,1,0,0,Normal
+3900573,Cheikh N'Doye,Angers,11.236102527122114,0.057989413786065265,False,Right Foot,Open Play,1,0,2,Half Volley
+3900573,Cheikh N'Doye,Angers,28.425340807103797,0.06645666468509001,False,Right Foot,Open Play,0,1,2,Normal
+3900573,Pierrick Capelle,Angers,26.82088738278433,0.06160825868640959,True,Left Foot,Open Play,0,0,3,Normal
+3900573,Ronny Rodelin,Stade Malherbe Caen,12.175795661885921,0.05792915841638685,False,Head,Open Play,0,1,2,Normal
+3900573,Cheikh N'Doye,Angers,13.200000000000003,0.06009727920844993,False,Right Foot,Open Play,1,0,4,Normal
+3900573,Gilles Sunu,Angers,21.933763926877667,0.06657670410832153,False,Left Foot,Open Play,0,1,2,Normal
+3900573,Ronny Rodelin,Stade Malherbe Caen,22.394865482962828,0.05964430161415273,False,Right Foot,Open Play,1,0,3,Half Volley
+3900573,Vincent Bessat,Stade Malherbe Caen,23.883467084994166,0.0682301851562961,False,Right Foot,Open Play,0,0,3,Normal
+3900573,Charles Diers,Angers,16.646921637347845,0.06358857772667516,False,Left Foot,Open Play,0,1,1,Normal
+3900573,Billy Ketkeophomphone,Angers,26.03171143048417,0.053126292000793725,False,Right Foot,Open Play,1,0,2,Normal
+3900573,Andy Delort,Stade Malherbe Caen,21.567568244936655,0.05118677877950607,False,Right Foot,Open Play,0,0,1,Normal
+3900573,Jonathan Delaplace,Stade Malherbe Caen,23.349732332512932,0.05894361993400066,False,Right Foot,Open Play,1,1,1,Volley
+3900573,Billy Ketkeophomphone,Angers,18.034688796871432,0.06403467113279253,True,Right Foot,Open Play,0,1,2,Normal
+3900573,Andy Delort,Stade Malherbe Caen,13.238202294873727,0.06091573221667754,False,Head,Open Play,0,0,1,Normal
+3900573,Billy Ketkeophomphone,Angers,18.168654325513494,0.06439164224667149,False,Left Foot,Open Play,0,1,2,Normal
+3900573,Andy Delort,Stade Malherbe Caen,12.955693729013516,0.06040663154292115,False,Right Foot,Open Play,1,0,3,Overhead Kick
+3900573,Andy Delort,Stade Malherbe Caen,25.866000850537375,0.05078551173698426,False,Right Foot,Free Kick,0,0,0,Normal
+3900573,Billy Ketkeophomphone,Angers,21.890865674979597,0.05906926850899895,False,Right Foot,Open Play,1,0,1,Normal
+3900573,Thomas Mangani,Angers,23.108656386730928,0.05209793871703297,False,Left Foot,Open Play,0,0,1,Normal
+3900573,Andy Delort,Stade Malherbe Caen,20.46191584383046,0.0561515672731897,False,Left Foot,Open Play,0,1,2,Normal

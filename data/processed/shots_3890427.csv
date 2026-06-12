@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.332935319836487,0.06676925738636809,False,Left Foot,Open Play,1,1,2,Volley
-25.904632790294485,0.06078890397423495,False,Right Foot,Open Play,0,0,1,Half Volley
-19.320973060381817,0.062387573646833505,False,Right Foot,Open Play,1,1,2,Volley
-5.544366510251643,0.05752938765785914,False,Head,Open Play,0,1,5,Normal
-24.413520843991343,0.06684155129960315,False,Right Foot,Open Play,0,1,2,Normal
-28.90570877871705,0.06144161711698931,False,Right Foot,Open Play,1,0,2,Volley
-21.932852071721083,0.06593586670697646,False,Left Foot,Open Play,1,0,1,Normal
-23.434376458527765,0.05858627673742587,False,Left Foot,Open Play,1,1,1,Half Volley
-39.500506325868784,0.04236771631899878,False,Left Foot,Corner,0,0,0,Normal
-35.992360300485984,0.06732924039266873,False,Right Foot,Free Kick,0,0,0,Normal
-35.016853085335924,0.07325121763841681,False,Right Foot,Free Kick,0,0,0,Normal
-26.870429843975323,0.06948319062296665,False,Right Foot,Open Play,1,1,0,Normal
-6.200806399170996,0.05771592842013617,True,Head,Open Play,0,1,5,Normal
-20.372530525194946,0.055068361650416044,False,Left Foot,Open Play,0,0,2,Normal
-19.581624038878903,0.06539645062571149,False,Left Foot,Open Play,1,1,1,Half Volley
-22.401785643113364,0.05995566734123347,False,Right Foot,Open Play,1,0,0,Half Volley
-13.160927019021116,0.06060601849429859,False,Left Foot,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-28.511225859299703,0.06758227055776606,False,Right Foot,Open Play,1,0,0,Normal
-21.749712641779894,0.0659737592226085,False,Left Foot,Open Play,0,0,1,Normal
-13.294359706281458,0.061482561569219135,True,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890427,Kevin Kampl,Bayer Leverkusen,22.332935319836487,0.06676925738636809,False,Left Foot,Open Play,1,1,2,Volley
+3890427,Karim Bellarabi,Bayer Leverkusen,25.904632790294485,0.06078890397423495,False,Right Foot,Open Play,0,0,1,Half Volley
+3890427,Manuel Schmiedebach,Hannover 96,19.320973060381817,0.062387573646833505,False,Right Foot,Open Play,1,1,2,Volley
+3890427,Stefan Kießling,Bayer Leverkusen,5.544366510251643,0.05752938765785914,False,Head,Open Play,0,1,5,Normal
+3890427,Hakan Çalhanoğlu,Bayer Leverkusen,24.413520843991343,0.06684155129960315,False,Right Foot,Open Play,0,1,2,Normal
+3890427,Roberto Hilbert,Bayer Leverkusen,28.90570877871705,0.06144161711698931,False,Right Foot,Open Play,1,0,2,Volley
+3890427,Hugo Miguel Pereira de Almeida,Hannover 96,21.932852071721083,0.06593586670697646,False,Left Foot,Open Play,1,0,1,Normal
+3890427,Hugo Miguel Pereira de Almeida,Hannover 96,23.434376458527765,0.05858627673742587,False,Left Foot,Open Play,1,1,1,Half Volley
+3890427,Edgar Prib,Hannover 96,39.500506325868784,0.04236771631899878,False,Left Foot,Corner,0,0,0,Normal
+3890427,Hakan Çalhanoğlu,Bayer Leverkusen,35.992360300485984,0.06732924039266873,False,Right Foot,Free Kick,0,0,0,Normal
+3890427,Hakan Çalhanoğlu,Bayer Leverkusen,35.016853085335924,0.07325121763841681,False,Right Foot,Free Kick,0,0,0,Normal
+3890427,Ceyhun Gülselam,Hannover 96,26.870429843975323,0.06948319062296665,False,Right Foot,Open Play,1,1,0,Normal
+3890427,Stefan Kießling,Bayer Leverkusen,6.200806399170996,0.05771592842013617,True,Head,Open Play,0,1,5,Normal
+3890427,Kevin Kampl,Bayer Leverkusen,20.372530525194946,0.055068361650416044,False,Left Foot,Open Play,0,0,2,Normal
+3890427,Karim Bellarabi,Bayer Leverkusen,19.581624038878903,0.06539645062571149,False,Left Foot,Open Play,1,1,1,Half Volley
+3890427,Karim Bellarabi,Bayer Leverkusen,22.401785643113364,0.05995566734123347,False,Right Foot,Open Play,1,0,0,Half Volley
+3890427,Hakan Çalhanoğlu,Bayer Leverkusen,13.160927019021116,0.06060601849429859,False,Left Foot,Open Play,0,1,1,Normal
+3890427,Javier Hernández Balcázar,Bayer Leverkusen,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3890427,Edgar Prib,Hannover 96,28.511225859299703,0.06758227055776606,False,Right Foot,Open Play,1,0,0,Normal
+3890427,Hugo Miguel Pereira de Almeida,Hannover 96,21.749712641779894,0.0659737592226085,False,Left Foot,Open Play,0,0,1,Normal
+3890427,Javier Hernández Balcázar,Bayer Leverkusen,13.294359706281458,0.061482561569219135,True,Left Foot,Open Play,0,1,1,Normal

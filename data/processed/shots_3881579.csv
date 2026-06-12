@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.974508337503405,0.06614951450647466,False,Left Foot,Open Play,0,0,1,Normal
-16.854969593564977,0.06331986772038335,False,Left Foot,Open Play,0,0,3,Normal
-20.94110789810319,0.0568167704608508,False,Right Foot,Open Play,1,0,1,Normal
-15.430165261590686,0.06281638157855472,False,Right Foot,Open Play,0,0,2,Normal
-14.577379737113251,0.0600766743790624,True,Right Foot,Open Play,0,0,3,Half Volley
-38.83117304434673,0.06688075980756421,False,Right Foot,Open Play,0,0,1,Normal
-17.998055450520205,0.0575722118420881,False,Right Foot,Open Play,0,0,2,Normal
-14.849915824677257,0.06107142636240882,False,Left Foot,Open Play,0,1,1,Normal
-25.61444904736387,0.06882200051919309,False,Right Foot,Open Play,0,0,2,Normal
-28.929051142407,0.07016098179051138,False,Left Foot,Open Play,1,0,1,Normal
-27.234169713798877,0.057651830452707054,False,Left Foot,Free Kick,0,0,0,Normal
-15.7165517846632,0.062081988388527,False,Right Foot,Open Play,0,1,3,Normal
-28.233490751233717,0.07016040416539669,False,Left Foot,Open Play,0,0,0,Normal
-5.5009090157900316,0.05748320416182839,True,Head,Open Play,0,0,2,Normal
-19.580091930325555,0.06415490895677467,False,Left Foot,Open Play,1,0,1,Normal
-23.825406607233383,0.06816451399986023,False,Right Foot,Open Play,0,0,1,Normal
-28.23047998175022,0.06878146847733164,False,Right Foot,Open Play,1,0,1,Normal
-9.616652224137045,0.05840932627139299,False,Left Foot,Open Play,1,0,3,Volley
-21.90935873091679,0.06613457767780906,False,Left Foot,Open Play,0,1,1,Normal
-14.047063750122307,0.06203675194585262,False,Head,Open Play,0,1,3,Normal
-27.548139683107465,0.05804481792531667,False,Right Foot,Open Play,0,0,0,Normal
-7.267048919609667,0.0558443899675716,True,Head,Open Play,0,1,5,Normal
-19.739554199626696,0.059125419584574075,False,Left Foot,Open Play,0,0,2,Normal
-7.993122043357024,0.058681390746786716,False,Head,Open Play,0,1,5,Normal
-8.860022573334673,0.058315595777932126,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881579,Julie Doyle,Orlando Pride,20.974508337503405,0.06614951450647466,False,Left Foot,Open Play,0,0,1,Normal
+3881579,Meggie Dougherty Howard,San Diego Wave,16.854969593564977,0.06331986772038335,False,Left Foot,Open Play,0,0,3,Normal
+3881579,Rachel Hill,San Diego Wave,20.94110789810319,0.0568167704608508,False,Right Foot,Open Play,1,0,1,Normal
+3881579,Alexandra Morgan Carrasco,San Diego Wave,15.430165261590686,0.06281638157855472,False,Right Foot,Open Play,0,0,2,Normal
+3881579,Abby Dahlkemper,San Diego Wave,14.577379737113251,0.0600766743790624,True,Right Foot,Open Play,0,0,3,Half Volley
+3881579,Adriana Leal da Silva,Orlando Pride,38.83117304434673,0.06688075980756421,False,Right Foot,Open Play,0,0,1,Normal
+3881579,Marta Vieira da Silva Veiga,Orlando Pride,17.998055450520205,0.0575722118420881,False,Right Foot,Open Play,0,0,2,Normal
+3881579,Kerry Abello,Orlando Pride,14.849915824677257,0.06107142636240882,False,Left Foot,Open Play,0,1,1,Normal
+3881579,Adriana Leal da Silva,Orlando Pride,25.61444904736387,0.06882200051919309,False,Right Foot,Open Play,0,0,2,Normal
+3881579,Meggie Dougherty Howard,San Diego Wave,28.929051142407,0.07016098179051138,False,Left Foot,Open Play,1,0,1,Normal
+3881579,Alexandra Morgan Carrasco,San Diego Wave,27.234169713798877,0.057651830452707054,False,Left Foot,Free Kick,0,0,0,Normal
+3881579,Messiah Bright,Orlando Pride,15.7165517846632,0.062081988388527,False,Right Foot,Open Play,0,1,3,Normal
+3881579,Viviana Villacorta,Orlando Pride,28.233490751233717,0.07016040416539669,False,Left Foot,Open Play,0,0,0,Normal
+3881579,Adriana Leal da Silva,Orlando Pride,5.5009090157900316,0.05748320416182839,True,Head,Open Play,0,0,2,Normal
+3881579,Mikayla Cluff,Orlando Pride,19.580091930325555,0.06415490895677467,False,Left Foot,Open Play,1,0,1,Normal
+3881579,Adriana Leal da Silva,Orlando Pride,23.825406607233383,0.06816451399986023,False,Right Foot,Open Play,0,0,1,Normal
+3881579,Mikayla Cluff,Orlando Pride,28.23047998175022,0.06878146847733164,False,Right Foot,Open Play,1,0,1,Normal
+3881579,Adriana Leal da Silva,Orlando Pride,9.616652224137045,0.05840932627139299,False,Left Foot,Open Play,1,0,3,Volley
+3881579,Alexandra Morgan Carrasco,San Diego Wave,21.90935873091679,0.06613457767780906,False,Left Foot,Open Play,0,1,1,Normal
+3881579,Rafaelle Leone Carvalho Souza,Orlando Pride,14.047063750122307,0.06203675194585262,False,Head,Open Play,0,1,3,Normal
+3881579,Haley Jean McCutcheon,Orlando Pride,27.548139683107465,0.05804481792531667,False,Right Foot,Open Play,0,0,0,Normal
+3881579,Kyra Carusa,San Diego Wave,7.267048919609667,0.0558443899675716,True,Head,Open Play,0,1,5,Normal
+3881579,Haley Jean McCutcheon,Orlando Pride,19.739554199626696,0.059125419584574075,False,Left Foot,Open Play,0,0,2,Normal
+3881579,Mikayla Cluff,Orlando Pride,7.993122043357024,0.058681390746786716,False,Head,Open Play,0,1,5,Normal
+3881579,Rafaelle Leone Carvalho Souza,Orlando Pride,8.860022573334673,0.058315595777932126,False,Head,Open Play,0,0,3,Normal

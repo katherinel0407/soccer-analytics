@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.605918747922571,0.056265624200656957,True,Right Foot,Open Play,1,0,2,Volley
-14.302796929272255,0.05956309467860209,False,Head,Open Play,0,0,1,Normal
-34.11231449198369,0.06753341755970699,False,Right Foot,Open Play,0,0,1,Normal
-28.20868660537034,0.06069654566969438,False,Right Foot,Open Play,0,1,1,Half Volley
-7.125307010929418,0.05740203168551189,True,Right Foot,Open Play,1,0,1,Volley
-18.928285712129345,0.053838526615878006,False,Right Foot,Open Play,0,1,2,Normal
-7.602631123499279,0.057858792355910384,False,Head,Open Play,0,0,4,Normal
-34.73326935374786,0.05475806336601639,False,Right Foot,Open Play,0,0,0,Normal
-19.402319448973106,0.06417080542151538,True,Left Foot,Open Play,0,1,1,Half Volley
-22.182200071228284,0.06174608233615137,False,Right Foot,Open Play,1,0,0,Normal
-15.87954659302337,0.054512005674145624,True,Right Foot,Open Play,0,0,3,Normal
-9.230926280715279,0.05693494901794837,False,Head,Open Play,0,0,1,Normal
-19.455076458343715,0.06421990904890934,True,Left Foot,Open Play,0,1,3,Normal
-8.761849119906143,0.05917019250853967,False,Right Foot,Open Play,1,0,3,Volley
-6.281719509815758,0.05766652068851974,False,Head,Open Play,0,1,5,Normal
-29.410542327539627,0.058295410558736584,False,Left Foot,Open Play,0,1,1,Normal
-16.502424064360973,0.05670719173696237,False,Left Foot,Open Play,0,1,4,Normal
-26.320524310887127,0.0689212841583935,False,Left Foot,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-17.117242768623687,0.06387389772866478,False,Right Foot,Open Play,1,0,2,Normal
-28.97619712798766,0.06848321387512446,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829490,Vincent Koziello,OGC Nice,7.605918747922571,0.056265624200656957,True,Right Foot,Open Play,1,0,2,Volley
+3829490,Loïc Perrin,Saint-Étienne,14.302796929272255,0.05956309467860209,False,Head,Open Play,0,0,1,Normal
+3829490,Nampalys Mendy,OGC Nice,34.11231449198369,0.06753341755970699,False,Right Foot,Open Play,0,0,1,Normal
+3829490,Fabien Lemoine,Saint-Étienne,28.20868660537034,0.06069654566969438,False,Right Foot,Open Play,0,1,1,Half Volley
+3829490,Loïc Perrin,Saint-Étienne,7.125307010929418,0.05740203168551189,True,Right Foot,Open Play,1,0,1,Volley
+3829490,Robert Berič,Saint-Étienne,18.928285712129345,0.053838526615878006,False,Right Foot,Open Play,0,1,2,Normal
+3829490,Robert Berič,Saint-Étienne,7.602631123499279,0.057858792355910384,False,Head,Open Play,0,0,4,Normal
+3829490,Jérémy Pied,OGC Nice,34.73326935374786,0.05475806336601639,False,Right Foot,Open Play,0,0,0,Normal
+3829490,Hatem Ben Arfa,OGC Nice,19.402319448973106,0.06417080542151538,True,Left Foot,Open Play,0,1,1,Half Volley
+3829490,Robert Berič,Saint-Étienne,22.182200071228284,0.06174608233615137,False,Right Foot,Open Play,1,0,0,Normal
+3829490,Hatem Ben Arfa,OGC Nice,15.87954659302337,0.054512005674145624,True,Right Foot,Open Play,0,0,3,Normal
+3829490,Vincent Pajot,Saint-Étienne,9.230926280715279,0.05693494901794837,False,Head,Open Play,0,0,1,Normal
+3829490,Jean Michaël Seri,OGC Nice,19.455076458343715,0.06421990904890934,True,Left Foot,Open Play,0,1,3,Normal
+3829490,Romain Hamouma,Saint-Étienne,8.761849119906143,0.05917019250853967,False,Right Foot,Open Play,1,0,3,Volley
+3829490,Jean-Christophe Bahebeck,Saint-Étienne,6.281719509815758,0.05766652068851974,False,Head,Open Play,0,1,5,Normal
+3829490,Hatem Ben Arfa,OGC Nice,29.410542327539627,0.058295410558736584,False,Left Foot,Open Play,0,1,1,Normal
+3829490,Hatem Ben Arfa,OGC Nice,16.502424064360973,0.05670719173696237,False,Left Foot,Open Play,0,1,4,Normal
+3829490,Jean-Christophe Bahebeck,Saint-Étienne,26.320524310887127,0.0689212841583935,False,Left Foot,Open Play,0,1,2,Normal
+3829490,Jean-Christophe Bahebeck,Saint-Étienne,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3829490,Jean-Christophe Bahebeck,Saint-Étienne,17.117242768623687,0.06387389772866478,False,Right Foot,Open Play,1,0,2,Normal
+3829490,Fabien Lemoine,Saint-Étienne,28.97619712798766,0.06848321387512446,False,Right Foot,Open Play,0,0,0,Normal

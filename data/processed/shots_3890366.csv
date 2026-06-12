@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.628533544541146,0.07129917505469684,False,Right Foot,Free Kick,0,0,0,Normal
-24.323239915767797,0.057933415657755144,False,Right Foot,Open Play,0,1,3,Normal
-70.51496295113542,0.12051505576528013,False,Left Foot,Open Play,0,0,1,Normal
-26.68276597356428,0.06727946638452863,False,Right Foot,Open Play,1,1,2,Half Volley
-14.290206436577465,0.05440901944965134,False,Right Foot,Open Play,0,1,2,Volley
-32.16457678875939,0.06515693329867638,False,Right Foot,Open Play,0,0,1,Normal
-14.283556979968264,0.062213194525210104,False,Right Foot,Open Play,1,0,1,Lob
-19.191925385432278,0.05433805368652401,False,Right Foot,Open Play,0,1,1,Normal
-19.9804904844701,0.05622829369096824,False,Left Foot,Open Play,0,1,2,Half Volley
-26.04323328621084,0.06937564553779217,False,Left Foot,Open Play,0,1,1,Normal
-31.487457820535464,0.052088604874182966,False,Left Foot,Free Kick,0,0,0,Normal
-11.800423721205945,0.06047197280883495,False,Head,Open Play,0,1,3,Normal
-24.763279265880765,0.053885853220164204,False,Right Foot,Open Play,0,0,2,Normal
-17.756407294269863,0.05814558855717186,False,Right Foot,Open Play,0,1,2,Volley
-13.981773850266636,0.06203935272208447,False,Right Foot,Open Play,1,1,2,Overhead Kick
-15.700318468107582,0.05404044771484496,False,Right Foot,Open Play,0,0,1,Normal
-15.123822268196621,0.06196518015133045,False,Left Foot,Open Play,0,1,2,Normal
-28.512453419514774,0.05677467633013168,False,Left Foot,Open Play,0,1,2,Normal
-31.754684693758186,0.07372675863747258,False,Right Foot,Open Play,1,0,0,Normal
-21.967248348393575,0.057088641503144355,False,Right Foot,Open Play,1,0,0,Normal
-15.401298646542767,0.056113225693156396,False,Right Foot,Open Play,0,0,1,Half Volley
-33.51089375113711,0.07547836141949256,False,Right Foot,Open Play,0,0,2,Normal
-26.96701689100966,0.06537294809209623,False,Right Foot,Open Play,0,1,1,Normal
-15.148927354766737,0.05861893545855326,True,Right Foot,Open Play,1,0,1,Volley
-10.427847332982967,0.059971005810048925,False,Head,Open Play,0,1,2,Normal
-14.509651959988565,0.0554532909878821,True,Right Foot,Open Play,0,1,1,Half Volley
-19.241881404893853,0.06423324384893148,False,Right Foot,Open Play,1,1,2,Half Volley
-24.410038918445014,0.06548843004228086,False,Right Foot,Open Play,1,0,0,Volley
-10.791200118615162,0.057468287604622914,False,Right Foot,Open Play,0,0,3,Volley
-32.45689449100144,0.07175151197142773,False,Right Foot,Free Kick,0,0,0,Normal
-31.053663229963707,0.07350475304722219,False,Right Foot,Open Play,1,1,1,Normal
-34.71743078051715,0.07651335493942707,False,Right Foot,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-22.717834403833482,0.0674143917473417,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890366,Zlatko Junuzović,Werder Bremen,29.628533544541146,0.07129917505469684,False,Right Foot,Free Kick,0,0,0,Normal
+3890366,Raúl Marcelo Bobadilla,Augsburg,24.323239915767797,0.057933415657755144,False,Right Foot,Open Play,0,1,3,Normal
+3890366,Philipp Max,Augsburg,70.51496295113542,0.12051505576528013,False,Left Foot,Open Play,0,0,1,Normal
+3890366,Daniel Baier,Augsburg,26.68276597356428,0.06727946638452863,False,Right Foot,Open Play,1,1,2,Half Volley
+3890366,Fin Bartels,Werder Bremen,14.290206436577465,0.05440901944965134,False,Right Foot,Open Play,0,1,2,Volley
+3890366,Philipp Bargfrede,Werder Bremen,32.16457678875939,0.06515693329867638,False,Right Foot,Open Play,0,0,1,Normal
+3890366,Raúl Marcelo Bobadilla,Augsburg,14.283556979968264,0.062213194525210104,False,Right Foot,Open Play,1,0,1,Lob
+3890366,Levin Mete Öztunali,Werder Bremen,19.191925385432278,0.05433805368652401,False,Right Foot,Open Play,0,1,1,Normal
+3890366,Dong-Won Ji,Augsburg,19.9804904844701,0.05622829369096824,False,Left Foot,Open Play,0,1,2,Half Volley
+3890366,Ulisses Alexandre Garcia Lopes,Werder Bremen,26.04323328621084,0.06937564553779217,False,Left Foot,Open Play,0,1,1,Normal
+3890366,Philipp Max,Augsburg,31.487457820535464,0.052088604874182966,False,Left Foot,Free Kick,0,0,0,Normal
+3890366,Santiago García,Werder Bremen,11.800423721205945,0.06047197280883495,False,Head,Open Play,0,1,3,Normal
+3890366,Caiuby Francisco da Silva,Augsburg,24.763279265880765,0.053885853220164204,False,Right Foot,Open Play,0,0,2,Normal
+3890366,Caiuby Francisco da Silva,Augsburg,17.756407294269863,0.05814558855717186,False,Right Foot,Open Play,0,1,2,Volley
+3890366,Dong-Won Ji,Augsburg,13.981773850266636,0.06203935272208447,False,Right Foot,Open Play,1,1,2,Overhead Kick
+3890366,Caiuby Francisco da Silva,Augsburg,15.700318468107582,0.05404044771484496,False,Right Foot,Open Play,0,0,1,Normal
+3890366,Levin Mete Öztunali,Werder Bremen,15.123822268196621,0.06196518015133045,False,Left Foot,Open Play,0,1,2,Normal
+3890366,Caiuby Francisco da Silva,Augsburg,28.512453419514774,0.05677467633013168,False,Left Foot,Open Play,0,1,2,Normal
+3890366,Jan-Ingwer Callsen-Bracker,Augsburg,31.754684693758186,0.07372675863747258,False,Right Foot,Open Play,1,0,0,Normal
+3890366,Zlatko Junuzović,Werder Bremen,21.967248348393575,0.057088641503144355,False,Right Foot,Open Play,1,0,0,Normal
+3890366,Zlatko Junuzović,Werder Bremen,15.401298646542767,0.056113225693156396,False,Right Foot,Open Play,0,0,1,Half Volley
+3890366,Daniel Baier,Augsburg,33.51089375113711,0.07547836141949256,False,Right Foot,Open Play,0,0,2,Normal
+3890366,Levin Mete Öztunali,Werder Bremen,26.96701689100966,0.06537294809209623,False,Right Foot,Open Play,0,1,1,Normal
+3890366,Claudio Miguel Pizarro Bossio,Werder Bremen,15.148927354766737,0.05861893545855326,True,Right Foot,Open Play,1,0,1,Volley
+3890366,Jannik Vestergaard,Werder Bremen,10.427847332982967,0.059971005810048925,False,Head,Open Play,0,1,2,Normal
+3890366,Fin Bartels,Werder Bremen,14.509651959988565,0.0554532909878821,True,Right Foot,Open Play,0,1,1,Half Volley
+3890366,Raúl Marcelo Bobadilla,Augsburg,19.241881404893853,0.06423324384893148,False,Right Foot,Open Play,1,1,2,Half Volley
+3890366,Felix Kroos,Werder Bremen,24.410038918445014,0.06548843004228086,False,Right Foot,Open Play,1,0,0,Volley
+3890366,Theodor Gebre Selassie,Werder Bremen,10.791200118615162,0.057468287604622914,False,Right Foot,Open Play,0,0,3,Volley
+3890366,Alexander Esswein,Augsburg,32.45689449100144,0.07175151197142773,False,Right Foot,Free Kick,0,0,0,Normal
+3890366,Jan-Ingwer Callsen-Bracker,Augsburg,31.053663229963707,0.07350475304722219,False,Right Foot,Open Play,1,1,1,Normal
+3890366,Raúl Marcelo Bobadilla,Augsburg,34.71743078051715,0.07651335493942707,False,Right Foot,Open Play,0,1,2,Normal
+3890366,Paul Verhaegh,Augsburg,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3890366,Ulisses Alexandre Garcia Lopes,Werder Bremen,22.717834403833482,0.0674143917473417,False,Left Foot,Open Play,0,0,2,Normal

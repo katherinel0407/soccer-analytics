@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.5873445734994,0.06219454048783485,False,Left Foot,Open Play,0,0,4,Normal
-16.44688420339853,0.06348042510376116,False,Right Foot,Open Play,1,0,1,Half Volley
-28.05583718230486,0.061908834517436284,False,Left Foot,Open Play,0,1,3,Normal
-27.217090219198674,0.057784762815872706,False,Right Foot,Open Play,1,0,1,Normal
-27.188416651213807,0.06271906646216974,False,Right Foot,Open Play,0,0,0,Normal
-4.459820624195549,0.056984838540346625,True,Head,Open Play,0,0,3,Normal
-9.126335518706291,0.05601555391266709,False,Head,Open Play,0,1,3,Normal
-12.987686476043372,0.060720701305491655,False,Head,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-16.226521500309303,0.056004283669270655,False,Left Foot,Open Play,0,0,2,Normal
-22.144299492194367,0.0634176919308037,False,Right Foot,Open Play,0,0,2,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-12.445882853377665,0.05526128282162566,False,Right Foot,Open Play,0,1,2,Normal
-12.684636376341265,0.05766862588177247,False,Right Foot,Open Play,1,0,3,Normal
-9.479451460923256,0.05535612337478856,True,Right Foot,Open Play,1,0,4,Normal
-6.152235366108807,0.05778380571801692,False,Other,Open Play,0,0,3,Normal
-6.484597134749386,0.05650092473046136,True,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775634,Freya Gregory,Aston Villa,16.5873445734994,0.06219454048783485,False,Left Foot,Open Play,0,0,4,Normal
+3775634,Hayley Emma Raso,Everton LFC,16.44688420339853,0.06348042510376116,False,Right Foot,Open Play,1,0,1,Half Volley
+3775634,Claire Emslie,Everton LFC,28.05583718230486,0.061908834517436284,False,Left Foot,Open Play,0,1,3,Normal
+3775634,Nadine Hanssen,Aston Villa,27.217090219198674,0.057784762815872706,False,Right Foot,Open Play,1,0,1,Normal
+3775634,Jill Scott,Everton LFC,27.188416651213807,0.06271906646216974,False,Right Foot,Open Play,0,0,0,Normal
+3775634,Lucy Hope,Everton LFC,4.459820624195549,0.056984838540346625,True,Head,Open Play,0,0,3,Normal
+3775634,Rikke Læntver Sevecke,Everton LFC,9.126335518706291,0.05601555391266709,False,Head,Open Play,0,1,3,Normal
+3775634,Shania Hayles,Aston Villa,12.987686476043372,0.060720701305491655,False,Head,Open Play,0,0,2,Normal
+3775634,Lucy Hope,Everton LFC,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3775634,Freya Gregory,Aston Villa,16.226521500309303,0.056004283669270655,False,Left Foot,Open Play,0,0,2,Normal
+3775634,Hayley Emma Raso,Everton LFC,22.144299492194367,0.0634176919308037,False,Right Foot,Open Play,0,0,2,Normal
+3775634,Isobel Mary Christiansen,Everton LFC,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+3775634,Simone Magill,Everton LFC,12.445882853377665,0.05526128282162566,False,Right Foot,Open Play,0,1,2,Normal
+3775634,Jill Scott,Everton LFC,12.684636376341265,0.05766862588177247,False,Right Foot,Open Play,1,0,3,Normal
+3775634,Simone Magill,Everton LFC,9.479451460923256,0.05535612337478856,True,Right Foot,Open Play,1,0,4,Normal
+3775634,Stine Larsen,Aston Villa,6.152235366108807,0.05778380571801692,False,Other,Open Play,0,0,3,Normal
+3775634,Chloe Arthur,Aston Villa,6.484597134749386,0.05650092473046136,True,Head,Open Play,0,0,4,Normal

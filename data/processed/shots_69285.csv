@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.923595599399427,0.06986427670720712,False,Right Foot,Free Kick,0,0,0,Normal
-29.047719359701897,0.0637573167216367,False,Right Foot,Open Play,1,0,1,Half Volley
-26.669270706189167,0.06003593921223678,False,Left Foot,Open Play,0,0,1,Normal
-15.425303886795875,0.05481292908935004,False,Right Foot,Open Play,0,0,2,Normal
-15.658863304850703,0.05747033706756043,False,Right Foot,Open Play,0,1,1,Normal
-28.740389698123437,0.07172448352243907,False,Right Foot,Open Play,0,1,2,Normal
-43.30288673980061,0.06803289388210981,False,Right Foot,Free Kick,0,0,0,Normal
-16.04150865723047,0.06319644255088333,False,Left Foot,Open Play,1,0,0,Volley
-22.34502181695063,0.06252837474751281,False,Right Foot,Open Play,0,0,2,Normal
-10.111874208078342,0.058244460108836375,False,Head,Open Play,0,0,4,Normal
-19.821705274773915,0.06547724687960427,False,Right Foot,Open Play,1,0,0,Normal
-27.72724292099739,0.0590106876413029,False,Left Foot,Open Play,0,0,1,Normal
-28.711670101197523,0.07075056636251059,False,Right Foot,Open Play,0,0,1,Normal
-7.011419257183241,0.05768332625188689,False,Head,Open Play,0,1,1,Normal
-19.325889371514055,0.05439809071818681,False,Left Foot,Open Play,0,1,2,Normal
-14.31782106327635,0.06213726263763609,True,Left Foot,Open Play,0,0,1,Normal
-9.219544457292892,0.05933511918786388,False,Left Foot,Open Play,1,0,3,Normal
-7.432361670424815,0.05788957183054677,False,Head,Open Play,0,1,2,Normal
-17.464535493393466,0.06252726705628896,False,Right Foot,Open Play,0,0,3,Normal
-27.460699189933237,0.062384862907798475,False,Right Foot,Open Play,0,0,1,Normal
-21.21909517392295,0.06404506804871067,False,Right Foot,Open Play,0,0,1,Normal
-10.324727599312247,0.055147923828660884,False,Right Foot,Open Play,0,0,4,Normal
-23.461670869739866,0.0669168629666147,False,Right Foot,Open Play,0,0,2,Normal
-12.794530081249565,0.05375247976132062,False,Right Foot,Open Play,1,0,1,Volley
-3.3015148038438413,0.056348998545702404,True,Left Foot,Open Play,0,0,1,Half Volley
-41.59927883990298,0.06042706897034287,False,Right Foot,Free Kick,0,0,0,Normal
-13.28344834747363,0.06053986728710014,False,Left Foot,Open Play,0,1,2,Normal
-7.710382610480488,0.05821187655378091,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69285,Roberto Luis Gaspar de Deus Severo,Recreativo Huelva,26.923595599399427,0.06986427670720712,False,Right Foot,Free Kick,0,0,0,Normal
+69285,Mogammat Nasief Morris,Recreativo Huelva,29.047719359701897,0.0637573167216367,False,Right Foot,Open Play,1,0,1,Half Volley
+69285,Lionel Andrés Messi Cuccittini,Barcelona,26.669270706189167,0.06003593921223678,False,Left Foot,Open Play,0,0,1,Normal
+69285,Lionel Andrés Messi Cuccittini,Barcelona,15.425303886795875,0.05481292908935004,False,Right Foot,Open Play,0,0,2,Normal
+69285,Samuel Eto''o Fils,Barcelona,15.658863304850703,0.05747033706756043,False,Right Foot,Open Play,0,1,1,Normal
+69285,Carles Puyol i Saforcada,Barcelona,28.740389698123437,0.07172448352243907,False,Right Foot,Open Play,0,1,2,Normal
+69285,Daniel Alves da Silva,Barcelona,43.30288673980061,0.06803289388210981,False,Right Foot,Free Kick,0,0,0,Normal
+69285,Sergio Busquets i Burgos,Barcelona,16.04150865723047,0.06319644255088333,False,Left Foot,Open Play,1,0,0,Volley
+69285,Samuel Eto''o Fils,Barcelona,22.34502181695063,0.06252837474751281,False,Right Foot,Open Play,0,0,2,Normal
+69285,Roberto Luis Gaspar de Deus Severo,Recreativo Huelva,10.111874208078342,0.058244460108836375,False,Head,Open Play,0,0,4,Normal
+69285,Thierry Henry,Barcelona,19.821705274773915,0.06547724687960427,False,Right Foot,Open Play,1,0,0,Normal
+69285,Lionel Andrés Messi Cuccittini,Barcelona,27.72724292099739,0.0590106876413029,False,Left Foot,Open Play,0,0,1,Normal
+69285,Samuel Eto''o Fils,Barcelona,28.711670101197523,0.07075056636251059,False,Right Foot,Open Play,0,0,1,Normal
+69285,Samuel Eto''o Fils,Barcelona,7.011419257183241,0.05768332625188689,False,Head,Open Play,0,1,1,Normal
+69285,Lionel Andrés Messi Cuccittini,Barcelona,19.325889371514055,0.05439809071818681,False,Left Foot,Open Play,0,1,2,Normal
+69285,Lionel Andrés Messi Cuccittini,Barcelona,14.31782106327635,0.06213726263763609,True,Left Foot,Open Play,0,0,1,Normal
+69285,Kanga Gauthier Akalé,Recreativo Huelva,9.219544457292892,0.05933511918786388,False,Left Foot,Open Play,1,0,3,Normal
+69285,César Arzo Amposta,Recreativo Huelva,7.432361670424815,0.05788957183054677,False,Head,Open Play,0,1,2,Normal
+69285,Samuel Eto''o Fils,Barcelona,17.464535493393466,0.06252726705628896,False,Right Foot,Open Play,0,0,3,Normal
+69285,Adrián Colunga Pérez,Recreativo Huelva,27.460699189933237,0.062384862907798475,False,Right Foot,Open Play,0,0,1,Normal
+69285,Thierry Henry,Barcelona,21.21909517392295,0.06404506804871067,False,Right Foot,Open Play,0,0,1,Normal
+69285,Samuel Eto''o Fils,Barcelona,10.324727599312247,0.055147923828660884,False,Right Foot,Open Play,0,0,4,Normal
+69285,Thierry Henry,Barcelona,23.461670869739866,0.0669168629666147,False,Right Foot,Open Play,0,0,2,Normal
+69285,Samuel Eto''o Fils,Barcelona,12.794530081249565,0.05375247976132062,False,Right Foot,Open Play,1,0,1,Volley
+69285,Seydou Kéita,Barcelona,3.3015148038438413,0.056348998545702404,True,Left Foot,Open Play,0,0,1,Half Volley
+69285,Daniel Alves da Silva,Barcelona,41.59927883990298,0.06042706897034287,False,Right Foot,Free Kick,0,0,0,Normal
+69285,Antonio Jesús Vázquez Muñoz,Recreativo Huelva,13.28344834747363,0.06053986728710014,False,Left Foot,Open Play,0,1,2,Normal
+69285,Bojan Krkíc Pérez,Barcelona,7.710382610480488,0.05821187655378091,False,Head,Open Play,0,0,2,Normal

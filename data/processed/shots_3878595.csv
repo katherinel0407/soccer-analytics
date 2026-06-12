@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.399563950724726,0.07195495571426572,False,Right Foot,Free Kick,0,0,0,Normal
-33.98411393577888,0.05468085977922008,False,Right Foot,Free Kick,0,0,0,Normal
-34.099266854288814,0.0631008055980128,False,Right Foot,Open Play,0,0,0,Normal
-28.12205540141047,0.0688403672453089,False,Right Foot,Open Play,0,0,1,Normal
-28.0178514522438,0.06743337326264422,False,Right Foot,Open Play,1,0,0,Half Volley
-15.352198539622915,0.052527033896689744,False,Right Foot,Open Play,0,1,1,Normal
-21.76809592040609,0.06681014611666748,False,Right Foot,Open Play,0,1,3,Normal
-29.519485090360234,0.05882857076331174,False,Right Foot,Open Play,1,1,1,Normal
-29.50830391601659,0.07231058524654933,False,Right Foot,Open Play,0,0,0,Normal
-11.0,0.05917522113845567,False,Right Foot,Open Play,0,0,2,Normal
-10.62167595062098,0.06010693458688495,False,Right Foot,Open Play,1,0,2,Normal
-14.214429288578561,0.06199147346497141,False,Right Foot,Open Play,0,0,1,Normal
-14.21724305201258,0.062167365187601825,False,Head,Open Play,0,1,2,Normal
-4.527692569068707,0.05701291385859441,True,Right Foot,Open Play,1,1,2,Normal
-21.242410409367388,0.06494981187713361,False,Left Foot,Open Play,0,0,3,Normal
-24.19132075766017,0.06600563406394543,False,Right Foot,Open Play,0,0,1,Normal
-10.621205204683694,0.059840144716861055,False,Head,Open Play,0,1,3,Normal
-12.573384588089242,0.05579132298367127,False,Head,Open Play,0,0,2,Normal
-23.153617427952806,0.06684351300927788,False,Right Foot,Open Play,0,1,2,Normal
-11.207140580897523,0.06001020897257942,True,Left Foot,Open Play,0,1,2,Half Volley
-28.72107240337658,0.055350243655115636,False,Right Foot,Free Kick,0,0,0,Normal
-33.082019285406396,0.058260815537025695,False,Left Foot,Open Play,0,0,1,Half Volley
-18.374166647769364,0.06417061324894728,False,Left Foot,Open Play,1,1,3,Lob
-29.000172413280588,0.0712927418621397,False,Left Foot,Open Play,0,0,1,Normal
-14.641379716406504,0.06027336936557181,False,Head,Open Play,0,0,2,Normal
-15.837297749300546,0.053630562265080714,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878595,Bruno Miguel Borges Fernandes,Udinese,34.399563950724726,0.07195495571426572,False,Right Foot,Free Kick,0,0,0,Normal
+3878595,Antonio Candreva,Lazio,33.98411393577888,0.05468085977922008,False,Right Foot,Free Kick,0,0,0,Normal
+3878595,Antonio Candreva,Lazio,34.099266854288814,0.0631008055980128,False,Right Foot,Open Play,0,0,0,Normal
+3878595,Antonio Candreva,Lazio,28.12205540141047,0.0688403672453089,False,Right Foot,Open Play,0,0,1,Normal
+3878595,Danilo Cataldi,Lazio,28.0178514522438,0.06743337326264422,False,Right Foot,Open Play,1,0,0,Half Volley
+3878595,Antonio Candreva,Lazio,15.352198539622915,0.052527033896689744,False,Right Foot,Open Play,0,1,1,Normal
+3878595,Keita Baldé Diao,Lazio,21.76809592040609,0.06681014611666748,False,Right Foot,Open Play,0,1,3,Normal
+3878595,Danilo Cataldi,Lazio,29.519485090360234,0.05882857076331174,False,Right Foot,Open Play,1,1,1,Normal
+3878595,Marco Parolo,Lazio,29.50830391601659,0.07231058524654933,False,Right Foot,Open Play,0,0,0,Normal
+3878595,Duván Esteban Zapata Banguera,Udinese,11.0,0.05917522113845567,False,Right Foot,Open Play,0,0,2,Normal
+3878595,Cyril Théréau,Udinese,10.62167595062098,0.06010693458688495,False,Right Foot,Open Play,1,0,2,Normal
+3878595,Ali Adnan Kadhim Al Tameemi,Udinese,14.214429288578561,0.06199147346497141,False,Right Foot,Open Play,0,0,1,Normal
+3878595,Duván Esteban Zapata Banguera,Udinese,14.21724305201258,0.062167365187601825,False,Head,Open Play,0,1,2,Normal
+3878595,Alessandro Matri,Lazio,4.527692569068707,0.05701291385859441,True,Right Foot,Open Play,1,1,2,Normal
+3878595,Panagiotis Giorgios Kone,Udinese,21.242410409367388,0.06494981187713361,False,Left Foot,Open Play,0,0,3,Normal
+3878595,Panagiotis Giorgios Kone,Udinese,24.19132075766017,0.06600563406394543,False,Right Foot,Open Play,0,0,1,Normal
+3878595,Marco Parolo,Lazio,10.621205204683694,0.059840144716861055,False,Head,Open Play,0,1,3,Normal
+3878595,Alessandro Matri,Lazio,12.573384588089242,0.05579132298367127,False,Head,Open Play,0,0,2,Normal
+3878595,Keita Baldé Diao,Lazio,23.153617427952806,0.06684351300927788,False,Right Foot,Open Play,0,1,2,Normal
+3878595,Alessandro Matri,Lazio,11.207140580897523,0.06001020897257942,True,Left Foot,Open Play,0,1,2,Half Volley
+3878595,Antonio Di Natale,Udinese,28.72107240337658,0.055350243655115636,False,Right Foot,Free Kick,0,0,0,Normal
+3878595,Ali Adnan Kadhim Al Tameemi,Udinese,33.082019285406396,0.058260815537025695,False,Left Foot,Open Play,0,0,1,Half Volley
+3878595,Rodrigo Sebastián Aguirre Soto,Udinese,18.374166647769364,0.06417061324894728,False,Left Foot,Open Play,1,1,3,Lob
+3878595,Danilo Cataldi,Lazio,29.000172413280588,0.0712927418621397,False,Left Foot,Open Play,0,0,1,Normal
+3878595,Emmanuel Agyemang-Badu,Udinese,14.641379716406504,0.06027336936557181,False,Head,Open Play,0,0,2,Normal
+3878595,Wesley Hoedt,Lazio,15.837297749300546,0.053630562265080714,False,Right Foot,Open Play,1,0,1,Volley

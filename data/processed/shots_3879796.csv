@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.08566650733884,0.056036354992065836,False,Right Foot,Open Play,1,0,1,Volley
-23.708437316702252,0.061277223560790794,False,Right Foot,Open Play,1,1,2,Normal
-6.87677249878168,0.05542593180557731,False,Right Foot,Open Play,1,0,2,Volley
-23.78949347926517,0.06643784925583505,True,Right Foot,Open Play,0,1,1,Normal
-28.748043411682826,0.07092455674523573,False,Left Foot,Open Play,1,1,1,Volley
-13.124404748406684,0.058848750154280066,False,Head,Open Play,0,0,3,Normal
-21.49604614807105,0.05467565604593409,False,Right Foot,Open Play,0,0,0,Normal
-23.162469643800936,0.0637283713796582,False,Right Foot,Open Play,1,1,2,Normal
-23.90690276886573,0.05763943187841876,False,Right Foot,Open Play,0,0,3,Half Volley
-23.40021367423811,0.06472164055047774,False,Left Foot,Open Play,1,1,2,Volley
-28.89429009337312,0.0714988389272576,False,Right Foot,Free Kick,0,0,0,Normal
-21.774526401279086,0.06681829344241687,False,Right Foot,Open Play,0,0,2,Normal
-12.093386622447824,0.053671948194859743,False,Head,Open Play,0,0,1,Normal
-8.448076704197229,0.05876787192956211,False,Head,Open Play,0,0,2,Diving Header
-35.206959539272916,0.07104811304479744,False,Left Foot,Open Play,1,0,0,Half Volley
-12.291867230002119,0.05579598799136611,True,Right Foot,Open Play,0,0,0,Half Volley
-9.74166310236604,0.057481878256257134,False,Right Foot,Open Play,1,0,1,Normal
-27.627884464793905,0.06302975742566105,False,Right Foot,Open Play,0,1,2,Normal
-28.293638861058508,0.0713891260560336,False,Right Foot,Open Play,0,0,2,Normal
-32.254147020189514,0.07435118954961675,False,Right Foot,Open Play,0,0,1,Normal
-18.21235844145398,0.05772106887407974,False,Left Foot,Open Play,0,1,1,Normal
-28.07294070809113,0.053748463669896905,False,Left Foot,Open Play,0,0,2,Normal
-7.1700767080973415,0.05550036143237477,False,Head,Open Play,0,0,4,Normal
-15.357408635573904,0.0623107117772098,False,Left Foot,Open Play,1,0,2,Half Volley
-17.173234989366453,0.06383886616743104,False,Right Foot,Open Play,0,0,2,Normal
-17.584083712266608,0.05917469609624931,False,Left Foot,Open Play,0,0,1,Normal
-19.726631744927975,0.06550061122955905,True,Right Foot,Open Play,0,0,4,Normal
-28.931816396486408,0.05770145695726675,False,Left Foot,Open Play,0,1,1,Normal
-31.055112300553677,0.07011319169539511,False,Left Foot,Open Play,0,0,1,Normal
-10.655045753069293,0.05666821645163004,False,Left Foot,Open Play,1,0,1,Volley
-18.185983613761454,0.05861623470431664,False,Left Foot,Open Play,0,1,1,Normal
-11.543396380615196,0.060372664245169266,True,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879796,José María Callejón Bueno,Napoli,17.08566650733884,0.056036354992065836,False,Right Foot,Open Play,1,0,1,Volley
+3879796,Gonzalo Gerardo Higuaín,Napoli,23.708437316702252,0.061277223560790794,False,Right Foot,Open Play,1,1,2,Normal
+3879796,Marek Hamšík,Napoli,6.87677249878168,0.05542593180557731,False,Right Foot,Open Play,1,0,2,Volley
+3879796,Tomás Eduardo Rincón Hernández,Genoa,23.78949347926517,0.06643784925583505,True,Right Foot,Open Play,0,1,1,Normal
+3879796,Marek Hamšík,Napoli,28.748043411682826,0.07092455674523573,False,Left Foot,Open Play,1,1,1,Volley
+3879796,Gonzalo Gerardo Higuaín,Napoli,13.124404748406684,0.058848750154280066,False,Head,Open Play,0,0,3,Normal
+3879796,Marek Hamšík,Napoli,21.49604614807105,0.05467565604593409,False,Right Foot,Open Play,0,0,0,Normal
+3879796,Blerim Džemaili,Genoa,23.162469643800936,0.0637283713796582,False,Right Foot,Open Play,1,1,2,Normal
+3879796,Gonzalo Gerardo Higuaín,Napoli,23.90690276886573,0.05763943187841876,False,Right Foot,Open Play,0,0,3,Half Volley
+3879796,Goran Pandev,Genoa,23.40021367423811,0.06472164055047774,False,Left Foot,Open Play,1,1,2,Volley
+3879796,Blerim Džemaili,Genoa,28.89429009337312,0.0714988389272576,False,Right Foot,Free Kick,0,0,0,Normal
+3879796,Lorenzo Insigne,Napoli,21.774526401279086,0.06681829344241687,False,Right Foot,Open Play,0,0,2,Normal
+3879796,Marek Hamšík,Napoli,12.093386622447824,0.053671948194859743,False,Head,Open Play,0,0,1,Normal
+3879796,Lorenzo Insigne,Napoli,8.448076704197229,0.05876787192956211,False,Head,Open Play,0,0,2,Diving Header
+3879796,Faouzi Ghoulam,Napoli,35.206959539272916,0.07104811304479744,False,Left Foot,Open Play,1,0,0,Half Volley
+3879796,Gonzalo Gerardo Higuaín,Napoli,12.291867230002119,0.05579598799136611,True,Right Foot,Open Play,0,0,0,Half Volley
+3879796,Gonzalo Gerardo Higuaín,Napoli,9.74166310236604,0.057481878256257134,False,Right Foot,Open Play,1,0,1,Normal
+3879796,Allan Marques Loureiro,Napoli,27.627884464793905,0.06302975742566105,False,Right Foot,Open Play,0,1,2,Normal
+3879796,Lorenzo Insigne,Napoli,28.293638861058508,0.0713891260560336,False,Right Foot,Open Play,0,0,2,Normal
+3879796,Dries Mertens,Napoli,32.254147020189514,0.07435118954961675,False,Right Foot,Open Play,0,0,1,Normal
+3879796,Alessio Cerci,Genoa,18.21235844145398,0.05772106887407974,False,Left Foot,Open Play,0,1,1,Normal
+3879796,Alessio Cerci,Genoa,28.07294070809113,0.053748463669896905,False,Left Foot,Open Play,0,0,2,Normal
+3879796,Gonzalo Gerardo Higuaín,Napoli,7.1700767080973415,0.05550036143237477,False,Head,Open Play,0,0,4,Normal
+3879796,Gonzalo Gerardo Higuaín,Napoli,15.357408635573904,0.0623107117772098,False,Left Foot,Open Play,1,0,2,Half Volley
+3879796,Dries Mertens,Napoli,17.173234989366453,0.06383886616743104,False,Right Foot,Open Play,0,0,2,Normal
+3879796,Alessio Cerci,Genoa,17.584083712266608,0.05917469609624931,False,Left Foot,Open Play,0,0,1,Normal
+3879796,Gonzalo Gerardo Higuaín,Napoli,19.726631744927975,0.06550061122955905,True,Right Foot,Open Play,0,0,4,Normal
+3879796,Diego Sebastián Laxalt Suárez,Genoa,28.931816396486408,0.05770145695726675,False,Left Foot,Open Play,0,1,1,Normal
+3879796,Panagiotis Tachtsidis,Genoa,31.055112300553677,0.07011319169539511,False,Left Foot,Open Play,0,0,1,Normal
+3879796,Manolo Gabbiadini,Napoli,10.655045753069293,0.05666821645163004,False,Left Foot,Open Play,1,0,1,Volley
+3879796,Allan Marques Loureiro,Napoli,18.185983613761454,0.05861623470431664,False,Left Foot,Open Play,0,1,1,Normal
+3879796,Omar El Kaddouri,Napoli,11.543396380615196,0.060372664245169266,True,Right Foot,Open Play,1,0,1,Normal

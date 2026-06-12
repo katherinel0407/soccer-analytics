@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.0701586799882,0.057031366456823614,False,Right Foot,Open Play,1,0,1,Normal
-16.037767924496226,0.06173466141938824,False,Left Foot,Open Play,1,0,2,Normal
-17.831432920547922,0.058589958269224335,False,Right Foot,Open Play,1,0,1,Normal
-17.279178221200226,0.05273279410108316,False,Left Foot,Open Play,0,0,2,Normal
-7.184705978674429,0.058363673925387806,True,Head,Open Play,0,0,4,Normal
-10.101980003939817,0.05637783546825428,False,Head,Open Play,0,1,4,Normal
-25.7846853771769,0.0687459744452963,False,Right Foot,Open Play,0,0,1,Normal
-14.948244044034073,0.06128292587892337,False,Right Foot,Open Play,0,1,4,Normal
-26.983328186122634,0.07041235228908786,False,Right Foot,Free Kick,0,0,0,Normal
-22.24072840533781,0.05576008969563377,False,Right Foot,Open Play,0,1,1,Normal
-13.152946437965907,0.05334914512585554,False,Right Foot,Open Play,0,1,2,Normal
-7.605918747922562,0.057891120897579314,False,Head,Open Play,0,1,4,Normal
-31.453139747885274,0.07381303543133251,False,Right Foot,Free Kick,0,0,0,Normal
-11.299999999999997,0.05929963165563577,False,Head,Open Play,0,1,1,Normal
-34.22426040106638,0.06307514749673199,False,Right Foot,Free Kick,0,0,0,Normal
-10.375451797391763,0.05997753430079393,False,Head,Open Play,0,1,2,Normal
-22.655021518418383,0.05962353706512683,False,Right Foot,Open Play,0,0,1,Normal
-8.60348766489497,0.05892559383037461,False,Head,Open Play,0,1,4,Normal
-23.070543990118658,0.06746969002291742,False,Right Foot,Open Play,0,0,1,Normal
-23.221541723150082,0.06296494507456409,False,Right Foot,Open Play,0,0,1,Normal
-11.834272263219226,0.05482060709739146,False,Head,Open Play,0,0,1,Diving Header
-13.823168956501975,0.060650656507329426,False,Head,Open Play,0,0,1,Normal
-14.425324953012325,0.05333479185652728,True,Right Foot,Open Play,1,1,1,Normal
-24.32118418169642,0.05257135538932528,False,Left Foot,Open Play,0,0,3,Normal
-18.031361568112377,0.05491747067330025,True,Other,Open Play,0,0,4,Normal
-27.166155414412245,0.05356152091663651,False,Right Foot,Open Play,0,0,0,Half Volley
-21.5027905165818,0.06467000468493096,False,Right Foot,Open Play,0,0,1,Overhead Kick
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754328,Wayne Routledge,Swansea City,16.0701586799882,0.057031366456823614,False,Right Foot,Open Play,1,0,1,Normal
+3754328,Wilfried Guemiand Bony,Manchester City,16.037767924496226,0.06173466141938824,False,Left Foot,Open Play,1,0,2,Normal
+3754328,Gylfi Þór Sigurðsson,Swansea City,17.831432920547922,0.058589958269224335,False,Right Foot,Open Play,1,0,1,Normal
+3754328,Jesús Navas González,Manchester City,17.279178221200226,0.05273279410108316,False,Left Foot,Open Play,0,0,2,Normal
+3754328,Wilfried Guemiand Bony,Manchester City,7.184705978674429,0.058363673925387806,True,Head,Open Play,0,0,4,Normal
+3754328,André Ayew Pelé,Swansea City,10.101980003939817,0.05637783546825428,False,Head,Open Play,0,1,4,Normal
+3754328,Gnégnéri Yaya Touré,Manchester City,25.7846853771769,0.0687459744452963,False,Right Foot,Open Play,0,0,1,Normal
+3754328,Gylfi Þór Sigurðsson,Swansea City,14.948244044034073,0.06128292587892337,False,Right Foot,Open Play,0,1,4,Normal
+3754328,Gnégnéri Yaya Touré,Manchester City,26.983328186122634,0.07041235228908786,False,Right Foot,Free Kick,0,0,0,Normal
+3754328,Gnégnéri Yaya Touré,Manchester City,22.24072840533781,0.05576008969563377,False,Right Foot,Open Play,0,1,1,Normal
+3754328,Gylfi Þór Sigurðsson,Swansea City,13.152946437965907,0.05334914512585554,False,Right Foot,Open Play,0,1,2,Normal
+3754328,Federico Fernández,Swansea City,7.605918747922562,0.057891120897579314,False,Head,Open Play,0,1,4,Normal
+3754328,Gylfi Þór Sigurðsson,Swansea City,31.453139747885274,0.07381303543133251,False,Right Foot,Free Kick,0,0,0,Normal
+3754328,Wilfried Guemiand Bony,Manchester City,11.299999999999997,0.05929963165563577,False,Head,Open Play,0,1,1,Normal
+3754328,Gnégnéri Yaya Touré,Manchester City,34.22426040106638,0.06307514749673199,False,Right Foot,Free Kick,0,0,0,Normal
+3754328,Nicolás Hernán Otamendi,Manchester City,10.375451797391763,0.05997753430079393,False,Head,Open Play,0,1,2,Normal
+3754328,Jack Frank Porteous Cork,Swansea City,22.655021518418383,0.05962353706512683,False,Right Foot,Open Play,0,0,1,Normal
+3754328,Sung-Yeung Ki,Swansea City,8.60348766489497,0.05892559383037461,False,Head,Open Play,0,1,4,Normal
+3754328,Fabian Delph,Manchester City,23.070543990118658,0.06746969002291742,False,Right Foot,Open Play,0,0,1,Normal
+3754328,Wilfried Guemiand Bony,Manchester City,23.221541723150082,0.06296494507456409,False,Right Foot,Open Play,0,0,1,Normal
+3754328,Nicolás Hernán Otamendi,Manchester City,11.834272263219226,0.05482060709739146,False,Head,Open Play,0,0,1,Diving Header
+3754328,Bafétimbi Gomis,Swansea City,13.823168956501975,0.060650656507329426,False,Head,Open Play,0,0,1,Normal
+3754328,Bafétimbi Gomis,Swansea City,14.425324953012325,0.05333479185652728,True,Right Foot,Open Play,1,1,1,Normal
+3754328,Gnégnéri Yaya Touré,Manchester City,24.32118418169642,0.05257135538932528,False,Left Foot,Open Play,0,0,3,Normal
+3754328,Kelechi Promise Iheanacho,Manchester City,18.031361568112377,0.05491747067330025,True,Other,Open Play,0,0,4,Normal
+3754328,Àngel Rangel Zaragoza,Swansea City,27.166155414412245,0.05356152091663651,False,Right Foot,Open Play,0,0,0,Half Volley
+3754328,Gylfi Þór Sigurðsson,Swansea City,21.5027905165818,0.06467000468493096,False,Right Foot,Open Play,0,0,1,Overhead Kick

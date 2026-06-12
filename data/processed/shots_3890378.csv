@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.89238654040195,0.06936842205419062,False,Left Foot,Open Play,1,0,0,Normal
-12.354756169184398,0.053567344747171196,False,Right Foot,Open Play,1,0,2,Normal
-9.902019995940226,0.05932094023542641,False,Head,Open Play,0,1,2,Normal
-23.438856627403993,0.06792693679446032,False,Right Foot,Open Play,0,1,4,Normal
-9.207062506576127,0.058862300711388954,False,Head,Open Play,0,1,1,Normal
-18.738729946290388,0.06481659671889896,False,Right Foot,Open Play,1,0,1,Volley
-32.44225639501667,0.0646547489356199,False,Right Foot,Open Play,0,0,1,Normal
-10.83374358197572,0.05717720259703244,False,Right Foot,Open Play,1,1,1,Volley
-11.22942563090384,0.0604647693673902,False,Head,Open Play,0,0,3,Normal
-9.525754563287887,0.058321131380799036,False,Head,Open Play,0,0,6,Normal
-6.003332407921457,0.057467416467097125,True,Head,Open Play,0,0,2,Normal
-33.71201566207514,0.06273329746867455,False,Left Foot,Open Play,0,0,1,Normal
-10.269371937952194,0.0572057344244238,False,Head,Open Play,0,0,5,Normal
-16.191355718407273,0.05792398196715452,False,Right Foot,Open Play,1,0,3,Normal
-6.981403870282823,0.05825423637793051,False,Left Foot,Open Play,1,0,1,Normal
-8.586617494683223,0.057338428445065315,False,Head,Open Play,0,1,6,Normal
-17.620726432244503,0.06336734482111095,False,Right Foot,Open Play,0,0,1,Normal
-6.466065264130886,0.055483835801129665,False,Right Foot,Open Play,1,0,3,Volley
-5.608029957123985,0.05619548680052277,False,Left Foot,Open Play,1,0,4,Volley
-9.34772699644143,0.056617982649746615,True,Right Foot,Open Play,1,0,1,Half Volley
-10.244998779892557,0.05994756870062114,False,Head,Open Play,0,0,3,Normal
-14.36836803537549,0.06194665452014908,False,Right Foot,Open Play,1,0,2,Normal
-16.52755275290326,0.06327910098525458,False,Left Foot,Open Play,0,0,3,Normal
-10.24207010325549,0.059381587550077226,False,Head,Open Play,0,1,2,Normal
-19.64713719603953,0.06387998454101079,False,Right Foot,Open Play,1,1,2,Normal
-16.105899540230585,0.06316620140600576,False,Left Foot,Open Play,1,0,0,Normal
-20.525106577068,0.0570496390817201,False,Left Foot,Open Play,0,0,2,Normal
-14.812157169028422,0.06174310459471014,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890378,Marvin Plattenhardt,Hertha Berlin,28.89238654040195,0.06936842205419062,False,Left Foot,Open Play,1,0,0,Normal
+3890378,Robert Lewandowski,Bayern Munich,12.354756169184398,0.053567344747171196,False,Right Foot,Open Play,1,0,2,Normal
+3890378,Robert Lewandowski,Bayern Munich,9.902019995940226,0.05932094023542641,False,Head,Open Play,0,1,2,Normal
+3890378,Márcio Rafael Ferreira de Souza,Bayern Munich,23.438856627403993,0.06792693679446032,False,Right Foot,Open Play,0,1,4,Normal
+3890378,Robert Lewandowski,Bayern Munich,9.207062506576127,0.058862300711388954,False,Head,Open Play,0,1,1,Normal
+3890378,Robert Lewandowski,Bayern Munich,18.738729946290388,0.06481659671889896,False,Right Foot,Open Play,1,0,1,Volley
+3890378,Arturo Erasmo Vidal Pardo,Bayern Munich,32.44225639501667,0.0646547489356199,False,Right Foot,Open Play,0,0,1,Normal
+3890378,Genki Haraguchi,Hertha Berlin,10.83374358197572,0.05717720259703244,False,Right Foot,Open Play,1,1,1,Volley
+3890378,Robert Lewandowski,Bayern Munich,11.22942563090384,0.0604647693673902,False,Head,Open Play,0,0,3,Normal
+3890378,Medhi Amine El Mouttaqi Benatia,Bayern Munich,9.525754563287887,0.058321131380799036,False,Head,Open Play,0,0,6,Normal
+3890378,Thomas Müller,Bayern Munich,6.003332407921457,0.057467416467097125,True,Head,Open Play,0,0,2,Normal
+3890378,Jérôme Boateng,Bayern Munich,33.71201566207514,0.06273329746867455,False,Left Foot,Open Play,0,0,1,Normal
+3890378,Javier Martínez Aginaga,Bayern Munich,10.269371937952194,0.0572057344244238,False,Head,Open Play,0,0,5,Normal
+3890378,Robert Lewandowski,Bayern Munich,16.191355718407273,0.05792398196715452,False,Right Foot,Open Play,1,0,3,Normal
+3890378,Arturo Erasmo Vidal Pardo,Bayern Munich,6.981403870282823,0.05825423637793051,False,Left Foot,Open Play,1,0,1,Normal
+3890378,Medhi Amine El Mouttaqi Benatia,Bayern Munich,8.586617494683223,0.057338428445065315,False,Head,Open Play,0,1,6,Normal
+3890378,Robert Lewandowski,Bayern Munich,17.620726432244503,0.06336734482111095,False,Right Foot,Open Play,0,0,1,Normal
+3890378,Javier Martínez Aginaga,Bayern Munich,6.466065264130886,0.055483835801129665,False,Right Foot,Open Play,1,0,3,Volley
+3890378,Medhi Amine El Mouttaqi Benatia,Bayern Munich,5.608029957123985,0.05619548680052277,False,Left Foot,Open Play,1,0,4,Volley
+3890378,Kingsley Coman,Bayern Munich,9.34772699644143,0.056617982649746615,True,Right Foot,Open Play,1,0,1,Half Volley
+3890378,Medhi Amine El Mouttaqi Benatia,Bayern Munich,10.244998779892557,0.05994756870062114,False,Head,Open Play,0,0,3,Normal
+3890378,Robert Lewandowski,Bayern Munich,14.36836803537549,0.06194665452014908,False,Right Foot,Open Play,1,0,2,Normal
+3890378,Thomas Müller,Bayern Munich,16.52755275290326,0.06327910098525458,False,Left Foot,Open Play,0,0,3,Normal
+3890378,Sebastian Rode,Bayern Munich,10.24207010325549,0.059381587550077226,False,Head,Open Play,0,1,2,Normal
+3890378,Arturo Erasmo Vidal Pardo,Bayern Munich,19.64713719603953,0.06387998454101079,False,Right Foot,Open Play,1,1,2,Normal
+3890378,Arturo Erasmo Vidal Pardo,Bayern Munich,16.105899540230585,0.06316620140600576,False,Left Foot,Open Play,1,0,0,Normal
+3890378,Genki Haraguchi,Hertha Berlin,20.525106577068,0.0570496390817201,False,Left Foot,Open Play,0,0,2,Normal
+3890378,Salomon Armand Magloire Kalou,Hertha Berlin,14.812157169028422,0.06174310459471014,False,Right Foot,Open Play,0,0,2,Normal

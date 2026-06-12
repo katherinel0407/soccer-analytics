@@ -1,14 +1,14 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.325119372053212,0.06414643417678725,False,Right Foot,Open Play,1,1,2,Lob
-14.006427096158392,0.05325427793995293,False,Head,Open Play,0,1,3,Normal
-31.181084009379784,0.05589625109439061,False,Right Foot,Open Play,1,0,0,Half Volley
-4.601086828130931,0.05502424300919,True,Head,Open Play,0,0,3,Normal
-14.880860190190617,0.06188655718871999,False,Right Foot,Open Play,0,0,2,Normal
-29.024816967553818,0.06805365057477354,False,Right Foot,Open Play,0,0,2,Normal
-14.199295757184585,0.05928832755511948,False,Head,Open Play,0,0,4,Normal
-14.969635934116766,0.05838463268237655,False,Right Foot,Open Play,0,1,5,Normal
-11.078808600206072,0.05656127224594765,False,Right Foot,Open Play,1,0,6,Normal
-15.047258886587954,0.060008345084415195,False,Right Foot,Open Play,1,0,1,Normal
-22.865038814749475,0.05600630504248491,False,Left Foot,Open Play,0,0,3,Normal
-19.649173010587496,0.05779896325723338,False,Right Foot,Open Play,0,0,3,Normal
-32.82072515956952,0.0714740579798335,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788772,Raheem Sterling,England,18.325119372053212,0.06414643417678725,False,Right Foot,Open Play,1,1,2,Lob
+3788772,John Stones,England,14.006427096158392,0.05325427793995293,False,Head,Open Play,0,1,3,Normal
+3788772,Harry Kane,England,31.181084009379784,0.05589625109439061,False,Right Foot,Open Play,1,0,0,Half Volley
+3788772,Raheem Sterling,England,4.601086828130931,0.05502424300919,True,Head,Open Play,0,0,3,Normal
+3788772,Harry Kane,England,14.880860190190617,0.06188655718871999,False,Right Foot,Open Play,0,0,2,Normal
+3788772,Tomáš Holeš,Czech Republic,29.024816967553818,0.06805365057477354,False,Right Foot,Open Play,0,0,2,Normal
+3788772,Tomáš Holeš,Czech Republic,14.199295757184585,0.05928832755511948,False,Head,Open Play,0,0,4,Normal
+3788772,Tomáš Kalas,Czech Republic,14.969635934116766,0.05838463268237655,False,Right Foot,Open Play,0,1,5,Normal
+3788772,Tomáš Souček,Czech Republic,11.078808600206072,0.05656127224594765,False,Right Foot,Open Play,1,0,6,Normal
+3788772,Tomáš Souček,Czech Republic,15.047258886587954,0.060008345084415195,False,Right Foot,Open Play,1,0,1,Normal
+3788772,Harry Kane,England,22.865038814749475,0.05600630504248491,False,Left Foot,Open Play,0,0,3,Normal
+3788772,Tomáš Pekhart,Czech Republic,19.649173010587496,0.05779896325723338,False,Right Foot,Open Play,0,0,3,Normal
+3788772,Alex Král,Czech Republic,32.82072515956952,0.0714740579798335,False,Right Foot,Open Play,0,0,2,Normal

@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.08006646963777,0.057804058294967556,False,Right Foot,Open Play,0,0,1,Normal
-27.430275244699963,0.058417716503980484,False,Left Foot,Open Play,0,0,2,Normal
-25.53605294480727,0.06854422113245358,False,Left Foot,Open Play,0,1,1,Normal
-21.81306947680679,0.06608195964174483,False,Right Foot,Open Play,1,1,1,Normal
-10.11335750381643,0.05698701723253252,False,Head,Open Play,0,1,2,Normal
-11.884864324004713,0.0590456289394571,False,Right Foot,Open Play,1,1,2,Backheel
-18.413310403075265,0.0539790163667034,False,Left Foot,Open Play,0,0,3,Normal
-23.208619088605854,0.06732885456769702,False,Right Foot,Open Play,0,0,3,Normal
-26.840268254993276,0.06937791126060086,False,Left Foot,Open Play,0,1,3,Normal
-8.949860334105782,0.058923344591759165,True,Head,Open Play,0,0,3,Normal
-28.988273491189506,0.055227861988878274,False,Left Foot,Free Kick,0,0,0,Normal
-11.064357188738988,0.059790021420293014,False,Head,Open Play,0,1,2,Normal
-24.36739624990737,0.06324684666047053,False,Right Foot,Open Play,0,0,3,Normal
-16.737084572887838,0.05882979550489602,False,Right Foot,Open Play,1,0,2,Half Volley
-11.77454882362802,0.06060446453817664,True,Left Foot,Open Play,1,1,4,Half Volley
-7.940403012442132,0.058173615635422796,False,Head,Open Play,0,0,5,Normal
-27.44886154287642,0.04867960079640521,False,Left Foot,Free Kick,0,0,0,Normal
-14.223923509355636,0.06097401234347467,False,Left Foot,Open Play,0,0,1,Normal
-15.263354808167177,0.0627692328092089,False,Left Foot,Open Play,0,0,2,Normal
-24.69514122251581,0.05480554074182449,False,Left Foot,Open Play,1,0,0,Normal
-9.152595260361945,0.05436901458645166,True,Right Foot,Open Play,1,0,3,Half Volley
-13.647344063956186,0.05762604200367784,False,Right Foot,Open Play,1,0,1,Normal
-13.602940858505564,0.05558901354781994,False,Right Foot,Open Play,1,1,3,Half Volley
-18.33712082089225,0.06360506008626504,False,Left Foot,Open Play,1,0,1,Normal
-24.489997958350262,0.06865780364934544,False,Right Foot,Open Play,0,0,3,Normal
-23.385465571589545,0.06191205785962209,False,Right Foot,Open Play,0,0,1,Normal
-21.25323504786977,0.0663441492930887,False,Right Foot,Open Play,0,0,2,Normal
-16.003124694883816,0.055500650214070295,False,Right Foot,Open Play,1,1,2,Volley
-20.415925156602626,0.06127384833812699,True,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900609,Cheick Tidiane Diabaté,Bordeaux,27.08006646963777,0.057804058294967556,False,Right Foot,Open Play,0,0,1,Normal
+3900609,Adam Ounas,Bordeaux,27.430275244699963,0.058417716503980484,False,Left Foot,Open Play,0,0,2,Normal
+3900609,Adam Ounas,Bordeaux,25.53605294480727,0.06854422113245358,False,Left Foot,Open Play,0,1,1,Normal
+3900609,Paul-Georges Ntep de Madiba,Rennes,21.81306947680679,0.06608195964174483,False,Right Foot,Open Play,1,1,1,Normal
+3900609,Cheick Tidiane Diabaté,Bordeaux,10.11335750381643,0.05698701723253252,False,Head,Open Play,0,1,2,Normal
+3900609,Yacouba Sylla,Rennes,11.884864324004713,0.0590456289394571,False,Right Foot,Open Play,1,1,2,Backheel
+3900609,Giovanni-Guy Yann Sio,Rennes,18.413310403075265,0.0539790163667034,False,Left Foot,Open Play,0,0,3,Normal
+3900609,Diego Alejandro Rolan Silva,Bordeaux,23.208619088605854,0.06732885456769702,False,Right Foot,Open Play,0,0,3,Normal
+3900609,Jaroslav Plašil,Bordeaux,26.840268254993276,0.06937791126060086,False,Left Foot,Open Play,0,1,3,Normal
+3900609,Cheick Tidiane Diabaté,Bordeaux,8.949860334105782,0.058923344591759165,True,Head,Open Play,0,0,3,Normal
+3900609,Adam Ounas,Bordeaux,28.988273491189506,0.055227861988878274,False,Left Foot,Free Kick,0,0,0,Normal
+3900609,Cédric Yambéré,Bordeaux,11.064357188738988,0.059790021420293014,False,Head,Open Play,0,1,2,Normal
+3900609,Diego Alejandro Rolan Silva,Bordeaux,24.36739624990737,0.06324684666047053,False,Right Foot,Open Play,0,0,3,Normal
+3900609,Benjamin André,Rennes,16.737084572887838,0.05882979550489602,False,Right Foot,Open Play,1,0,2,Half Volley
+3900609,Cheick Tidiane Diabaté,Bordeaux,11.77454882362802,0.06060446453817664,True,Left Foot,Open Play,1,1,4,Half Volley
+3900609,Cédric Yambéré,Bordeaux,7.940403012442132,0.058173615635422796,False,Head,Open Play,0,0,5,Normal
+3900609,Juan Fernando Quintero Paniagua,Rennes,27.44886154287642,0.04867960079640521,False,Left Foot,Free Kick,0,0,0,Normal
+3900609,Ousmane Dembélé,Rennes,14.223923509355636,0.06097401234347467,False,Left Foot,Open Play,0,0,1,Normal
+3900609,Valentín Vada,Bordeaux,15.263354808167177,0.0627692328092089,False,Left Foot,Open Play,0,0,2,Normal
+3900609,Adam Ounas,Bordeaux,24.69514122251581,0.05480554074182449,False,Left Foot,Open Play,1,0,0,Normal
+3900609,Diego Alejandro Rolan Silva,Bordeaux,9.152595260361945,0.05436901458645166,True,Right Foot,Open Play,1,0,3,Half Volley
+3900609,Kamil Grosicki,Rennes,13.647344063956186,0.05762604200367784,False,Right Foot,Open Play,1,0,1,Normal
+3900609,Giovanni-Guy Yann Sio,Rennes,13.602940858505564,0.05558901354781994,False,Right Foot,Open Play,1,1,3,Half Volley
+3900609,Diego Armando Valentin Contento,Bordeaux,18.33712082089225,0.06360506008626504,False,Left Foot,Open Play,1,0,1,Normal
+3900609,Valentín Vada,Bordeaux,24.489997958350262,0.06865780364934544,False,Right Foot,Open Play,0,0,3,Normal
+3900609,Thomas Touré,Bordeaux,23.385465571589545,0.06191205785962209,False,Right Foot,Open Play,0,0,1,Normal
+3900609,Thomas Touré,Bordeaux,21.25323504786977,0.0663441492930887,False,Right Foot,Open Play,0,0,2,Normal
+3900609,Thomas Touré,Bordeaux,16.003124694883816,0.055500650214070295,False,Right Foot,Open Play,1,1,2,Volley
+3900609,Thomas Touré,Bordeaux,20.415925156602626,0.06127384833812699,True,Left Foot,Open Play,0,0,3,Normal

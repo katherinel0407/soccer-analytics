@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.78003364169193,0.05622225531899331,False,Left Foot,Open Play,1,0,1,Normal
-12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
-5.280151512977633,0.05735471590111622,False,Left Foot,Open Play,1,0,2,Half Volley
-16.45509039780699,0.05997736727141091,False,Head,Open Play,0,0,3,Normal
-17.17352613763405,0.06385714315417328,False,Right Foot,Open Play,0,1,1,Volley
-24.700000000000003,0.06529424589001713,False,Right Foot,Open Play,1,0,1,Normal
-25.22419473442116,0.05593148535338976,False,Left Foot,Open Play,1,0,1,Half Volley
-16.181779877380603,0.05940860308482787,False,Right Foot,Open Play,0,1,2,Half Volley
-29.98799759903952,0.07211556947746207,False,Right Foot,Open Play,0,1,2,Normal
-17.734147850968196,0.06363289391819262,False,Left Foot,Open Play,0,0,1,Normal
-25.687740266516244,0.06719860480930617,False,Left Foot,Open Play,0,0,1,Normal
-24.9505510961181,0.06835085172910728,False,Right Foot,Open Play,0,0,1,Normal
-14.481022063376598,0.05577921836995971,True,Right Foot,Open Play,0,0,2,Normal
-10.00199980003999,0.05883195964264437,False,Right Foot,Open Play,1,0,1,Half Volley
-7.077428911688197,0.05822624522469544,True,Left Foot,Open Play,1,0,4,Normal
-8.077747210701755,0.05429794199808469,False,Right Foot,Open Play,0,0,3,Normal
-28.5,0.07132317529790319,False,Left Foot,Open Play,0,0,3,Half Volley
-6.303173803727766,0.05734255721495488,False,Head,Open Play,0,0,4,Normal
-14.681961721786363,0.06087938585125641,False,Right Foot,Open Play,0,0,0,Half Volley
-16.29355700883021,0.06324544598548441,False,Right Foot,Open Play,1,0,1,Half Volley
-9.80866963456309,0.058839809393886416,False,Left Foot,Open Play,1,0,2,Normal
-23.183614903633988,0.06629858401608574,False,Right Foot,Open Play,0,1,2,Half Volley
-43.475050316244605,0.059238212635213935,False,Right Foot,Free Kick,0,0,0,Normal
-13.951702405083042,0.06169702454785181,False,Left Foot,Open Play,1,0,1,Half Volley
-26.307793522072508,0.05433524130155657,False,Right Foot,Open Play,1,0,1,Normal
-20.76848574162305,0.06616619108917686,False,Right Foot,Open Play,0,0,1,Normal
-35.12620104708166,0.07624284224457313,False,Right Foot,Open Play,0,0,1,Normal
-14.978985279383913,0.061699217434911066,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912201,Sophie Weidauer,SV Werder Bremen,23.78003364169193,0.05622225531899331,False,Left Foot,Open Play,1,0,1,Normal
+3912201,Jana Feldkamp,Hoffenheim W,12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
+3912201,Jana Feldkamp,Hoffenheim W,5.280151512977633,0.05735471590111622,False,Left Foot,Open Play,1,0,2,Half Volley
+3912201,Michaela Specht,Hoffenheim W,16.45509039780699,0.05997736727141091,False,Head,Open Play,0,0,3,Normal
+3912201,Tuana Shahnis Cindy Mahmoud,SV Werder Bremen,17.17352613763405,0.06385714315417328,False,Right Foot,Open Play,0,1,1,Volley
+3912201,Jana Feldkamp,Hoffenheim W,24.700000000000003,0.06529424589001713,False,Right Foot,Open Play,1,0,1,Normal
+3912201,Ereleta Memeti,Hoffenheim W,25.22419473442116,0.05593148535338976,False,Left Foot,Open Play,1,0,1,Half Volley
+3912201,Jill Janssens,Hoffenheim W,16.181779877380603,0.05940860308482787,False,Right Foot,Open Play,0,1,2,Half Volley
+3912201,Juliane Wirtz,SV Werder Bremen,29.98799759903952,0.07211556947746207,False,Right Foot,Open Play,0,1,2,Normal
+3912201,Paulina Käte Krumbiegel,Hoffenheim W,17.734147850968196,0.06363289391819262,False,Left Foot,Open Play,0,0,1,Normal
+3912201,Ereleta Memeti,Hoffenheim W,25.687740266516244,0.06719860480930617,False,Left Foot,Open Play,0,0,1,Normal
+3912201,Gia Corley,Hoffenheim W,24.9505510961181,0.06835085172910728,False,Right Foot,Open Play,0,0,1,Normal
+3912201,Rieke Dieckmann,SV Werder Bremen,14.481022063376598,0.05577921836995971,True,Right Foot,Open Play,0,0,2,Normal
+3912201,Jill Janssens,Hoffenheim W,10.00199980003999,0.05883195964264437,False,Right Foot,Open Play,1,0,1,Half Volley
+3912201,Jill Janssens,Hoffenheim W,7.077428911688197,0.05822624522469544,True,Left Foot,Open Play,1,0,4,Normal
+3912201,Sarai Linder,Hoffenheim W,8.077747210701755,0.05429794199808469,False,Right Foot,Open Play,0,0,3,Normal
+3912201,Lisann Kaut,Hoffenheim W,28.5,0.07132317529790319,False,Left Foot,Open Play,0,0,3,Half Volley
+3912201,Juliane Wirtz,SV Werder Bremen,6.303173803727766,0.05734255721495488,False,Head,Open Play,0,0,4,Normal
+3912201,Sophie Weidauer,SV Werder Bremen,14.681961721786363,0.06087938585125641,False,Right Foot,Open Play,0,0,0,Half Volley
+3912201,Sophie Weidauer,SV Werder Bremen,16.29355700883021,0.06324544598548441,False,Right Foot,Open Play,1,0,1,Half Volley
+3912201,Lina Hausicke,SV Werder Bremen,9.80866963456309,0.058839809393886416,False,Left Foot,Open Play,1,0,2,Normal
+3912201,Rieke Dieckmann,SV Werder Bremen,23.183614903633988,0.06629858401608574,False,Right Foot,Open Play,0,1,2,Half Volley
+3912201,Mara Alber,Hoffenheim W,43.475050316244605,0.059238212635213935,False,Right Foot,Free Kick,0,0,0,Normal
+3912201,Maja Sternad,SV Werder Bremen,13.951702405083042,0.06169702454785181,False,Left Foot,Open Play,1,0,1,Half Volley
+3912201,Lisann Kaut,Hoffenheim W,26.307793522072508,0.05433524130155657,False,Right Foot,Open Play,1,0,1,Normal
+3912201,Franziska Harsch,Hoffenheim W,20.76848574162305,0.06616619108917686,False,Right Foot,Open Play,0,0,1,Normal
+3912201,Michaela Specht,Hoffenheim W,35.12620104708166,0.07624284224457313,False,Right Foot,Open Play,0,0,1,Normal
+3912201,Maja Sternad,SV Werder Bremen,14.978985279383913,0.061699217434911066,False,Left Foot,Open Play,0,0,2,Normal

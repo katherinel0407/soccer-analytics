@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.102668912400475,0.06816421561003723,False,Right Foot,Free Kick,0,0,0,Normal
-30.555195957479963,0.05381269184795539,False,Right Foot,Open Play,0,1,2,Half Volley
-13.648809471891681,0.061646153797233504,False,Right Foot,Open Play,0,1,2,Half Volley
-23.762154784446636,0.056423411983809166,False,Right Foot,Open Play,0,0,2,Normal
-14.042791745233565,0.05936408298755903,False,Head,Open Play,0,0,2,Normal
-13.640014662748717,0.05422779048434602,False,Right Foot,Open Play,0,0,3,Normal
-23.426907606425562,0.0663207788631416,False,Left Foot,Open Play,0,0,2,Normal
-25.084058682757057,0.06059108413033267,False,Left Foot,Open Play,0,1,2,Normal
-16.929264603047585,0.06310516924108284,False,Left Foot,Open Play,0,1,1,Normal
-14.92179613853507,0.06256949741894896,False,Right Foot,Open Play,1,1,1,Backheel
-23.79243577274088,0.0611300475503468,False,Left Foot,Open Play,0,1,2,Normal
-17.972478960900197,0.06370310612808248,False,Right Foot,Open Play,0,0,3,Normal
-28.76282322721467,0.057075616098702875,False,Right Foot,Open Play,0,1,1,Normal
-16.38078142214223,0.06264808861252909,True,Left Foot,Open Play,0,0,2,Normal
-8.544588931013594,0.05875348830172376,False,Head,Open Play,0,0,4,Normal
-10.017983829094554,0.056841988083062706,False,Right Foot,Open Play,1,0,2,Overhead Kick
-19.948182874637975,0.053929162096863145,False,Right Foot,Open Play,1,1,1,Lob
-31.778766495885268,0.06619329157190025,False,Left Foot,Open Play,0,0,1,Normal
-26.815294143454775,0.0701162909875792,False,Right Foot,Open Play,0,0,1,Half Volley
-9.538343671728336,0.054002679545914346,False,Head,Open Play,0,0,3,Normal
-12.913945950018537,0.060189293919101015,False,Right Foot,Open Play,1,0,2,Normal
-18.474306482247176,0.05831564420377758,False,Right Foot,Open Play,0,1,2,Normal
-14.45060552364502,0.0527885799095541,False,Right Foot,Open Play,0,1,1,Normal
-26.04995201531089,0.06398936150180543,False,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879609,Lorenzo Insigne,Napoli,28.102668912400475,0.06816421561003723,False,Right Foot,Free Kick,0,0,0,Normal
+3879609,Bruno Miguel Borges Fernandes,Udinese,30.555195957479963,0.05381269184795539,False,Right Foot,Open Play,0,1,2,Half Volley
+3879609,Gonzalo Gerardo Higuaín,Napoli,13.648809471891681,0.061646153797233504,False,Right Foot,Open Play,0,1,2,Half Volley
+3879609,Silvan Widmer,Udinese,23.762154784446636,0.056423411983809166,False,Right Foot,Open Play,0,0,2,Normal
+3879609,Bruno Miguel Borges Fernandes,Udinese,14.042791745233565,0.05936408298755903,False,Head,Open Play,0,0,2,Normal
+3879609,Gonzalo Gerardo Higuaín,Napoli,13.640014662748717,0.05422779048434602,False,Right Foot,Open Play,0,0,3,Normal
+3879609,Marek Hamšík,Napoli,23.426907606425562,0.0663207788631416,False,Left Foot,Open Play,0,0,2,Normal
+3879609,Gonzalo Gerardo Higuaín,Napoli,25.084058682757057,0.06059108413033267,False,Left Foot,Open Play,0,1,2,Normal
+3879609,Gonzalo Gerardo Higuaín,Napoli,16.929264603047585,0.06310516924108284,False,Left Foot,Open Play,0,1,1,Normal
+3879609,José María Callejón Bueno,Napoli,14.92179613853507,0.06256949741894896,False,Right Foot,Open Play,1,1,1,Backheel
+3879609,Gonzalo Gerardo Higuaín,Napoli,23.79243577274088,0.0611300475503468,False,Left Foot,Open Play,0,1,2,Normal
+3879609,Marek Hamšík,Napoli,17.972478960900197,0.06370310612808248,False,Right Foot,Open Play,0,0,3,Normal
+3879609,Elseid Hysaj,Napoli,28.76282322721467,0.057075616098702875,False,Right Foot,Open Play,0,1,1,Normal
+3879609,Gonzalo Gerardo Higuaín,Napoli,16.38078142214223,0.06264808861252909,True,Left Foot,Open Play,0,0,2,Normal
+3879609,Silvan Widmer,Udinese,8.544588931013594,0.05875348830172376,False,Head,Open Play,0,0,4,Normal
+3879609,Lorenzo Insigne,Napoli,10.017983829094554,0.056841988083062706,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3879609,Gonzalo Gerardo Higuaín,Napoli,19.948182874637975,0.053929162096863145,False,Right Foot,Open Play,1,1,1,Lob
+3879609,Rodrigo Sebastián Aguirre Soto,Udinese,31.778766495885268,0.06619329157190025,False,Left Foot,Open Play,0,0,1,Normal
+3879609,Lorenzo Insigne,Napoli,26.815294143454775,0.0701162909875792,False,Right Foot,Open Play,0,0,1,Half Volley
+3879609,Silvan Widmer,Udinese,9.538343671728336,0.054002679545914346,False,Head,Open Play,0,0,3,Normal
+3879609,Gonzalo Gerardo Higuaín,Napoli,12.913945950018537,0.060189293919101015,False,Right Foot,Open Play,1,0,2,Normal
+3879609,Cyril Théréau,Udinese,18.474306482247176,0.05831564420377758,False,Right Foot,Open Play,0,1,2,Normal
+3879609,Elseid Hysaj,Napoli,14.45060552364502,0.0527885799095541,False,Right Foot,Open Play,0,1,1,Normal
+3879609,Francesco Lodi,Udinese,26.04995201531089,0.06398936150180543,False,Left Foot,Open Play,1,0,1,Volley

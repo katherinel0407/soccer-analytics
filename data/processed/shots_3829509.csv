@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.47017864091259,0.06926142429909536,False,Right Foot,Free Kick,0,0,0,Normal
-27.511815643464892,0.0701405570651404,False,Right Foot,Open Play,0,1,2,Normal
-22.802192877001985,0.06250974747279842,False,Left Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-26.6120273560659,0.06840955017288947,False,Right Foot,Open Play,1,0,2,Normal
-18.516209115258984,0.0590997004192562,False,Left Foot,Open Play,1,1,1,Normal
-25.401771591761076,0.06922779612282838,False,Right Foot,Open Play,0,0,2,Normal
-21.36632865047245,0.06617672892792342,False,Right Foot,Open Play,1,0,2,Normal
-14.64854941623914,0.057113726253035485,False,Right Foot,Open Play,1,1,1,Half Volley
-22.19234102117215,0.06595108091089522,False,Right Foot,Open Play,0,1,2,Normal
-13.465882815471108,0.057551720810196993,True,Right Foot,Open Play,0,0,1,Half Volley
-24.84069242191127,0.0631696623072476,False,Left Foot,Open Play,0,1,1,Half Volley
-16.368261972488092,0.06337076087107366,False,Right Foot,Open Play,0,1,3,Half Volley
-13.685393673548454,0.06061557249821706,False,Left Foot,Open Play,0,1,2,Normal
-6.18465843842649,0.056687806390508175,False,Head,Open Play,0,0,2,Normal
-13.790576492663389,0.06188088376366823,False,Right Foot,Open Play,1,0,1,Half Volley
-21.27204738618265,0.0611954841399488,False,Left Foot,Open Play,1,0,0,Normal
-27.80017985553331,0.07024003482290517,False,Right Foot,Open Play,0,0,1,Normal
-20.56428943581567,0.0647439566907444,False,Right Foot,Open Play,1,1,1,Normal
-13.509256086106292,0.0563909759991864,False,Head,Open Play,0,0,1,Normal
-4.951767361255974,0.05721753642719646,False,Head,Open Play,0,0,4,Normal
-15.51934276958918,0.061990270448294624,False,Head,Open Play,0,0,1,Normal
-22.70352395554488,0.0548104078523546,False,Left Foot,Open Play,0,0,1,Normal
-22.999347816840377,0.05906369442234956,False,Left Foot,Open Play,0,0,2,Normal
-13.823168956501975,0.060650656507329426,False,Left Foot,Open Play,1,0,3,Half Volley
-13.069812546475184,0.05919049913329778,False,Head,Open Play,0,0,2,Normal
-8.746427842267945,0.05688787199620422,False,Head,Open Play,0,0,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829509,Michy Batshuayi Tunga,Olympique de Marseille,25.47017864091259,0.06926142429909536,False,Right Foot,Free Kick,0,0,0,Normal
+3829509,Benjamin Mendy,Olympique de Marseille,27.511815643464892,0.0701405570651404,False,Right Foot,Open Play,0,1,2,Normal
+3829509,Rémy Cabella,Olympique de Marseille,22.802192877001985,0.06250974747279842,False,Left Foot,Open Play,0,0,2,Normal
+3829509,Michy Batshuayi Tunga,Olympique de Marseille,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3829509,Lucas Ariel Ocampos,Olympique de Marseille,26.6120273560659,0.06840955017288947,False,Right Foot,Open Play,1,0,2,Normal
+3829509,Michy Batshuayi Tunga,Olympique de Marseille,18.516209115258984,0.0590997004192562,False,Left Foot,Open Play,1,1,1,Normal
+3829509,Benjamin Moukandjo Bilé,Lorient,25.401771591761076,0.06922779612282838,False,Right Foot,Open Play,0,0,2,Normal
+3829509,Lucas Ariel Ocampos,Olympique de Marseille,21.36632865047245,0.06617672892792342,False,Right Foot,Open Play,1,0,2,Normal
+3829509,Javier Manquillo Gaitán,Olympique de Marseille,14.64854941623914,0.057113726253035485,False,Right Foot,Open Play,1,1,1,Half Volley
+3829509,Lucas Ariel Ocampos,Olympique de Marseille,22.19234102117215,0.06595108091089522,False,Right Foot,Open Play,0,1,2,Normal
+3829509,Benjamin Moukandjo Bilé,Lorient,13.465882815471108,0.057551720810196993,True,Right Foot,Open Play,0,0,1,Half Volley
+3829509,Romain Alessandrini,Olympique de Marseille,24.84069242191127,0.0631696623072476,False,Left Foot,Open Play,0,1,1,Half Volley
+3829509,Rémy Cabella,Olympique de Marseille,16.368261972488092,0.06337076087107366,False,Right Foot,Open Play,0,1,3,Half Volley
+3829509,Yann Jouffre,Lorient,13.685393673548454,0.06061557249821706,False,Left Foot,Open Play,0,1,2,Normal
+3829509,Lamine Koné,Lorient,6.18465843842649,0.056687806390508175,False,Head,Open Play,0,0,2,Normal
+3829509,Rémy Cabella,Olympique de Marseille,13.790576492663389,0.06188088376366823,False,Right Foot,Open Play,1,0,1,Half Volley
+3829509,Romain Alessandrini,Olympique de Marseille,21.27204738618265,0.0611954841399488,False,Left Foot,Open Play,1,0,0,Normal
+3829509,Lucas Ariel Ocampos,Olympique de Marseille,27.80017985553331,0.07024003482290517,False,Right Foot,Open Play,0,0,1,Normal
+3829509,Romain Philippoteaux,Lorient,20.56428943581567,0.0647439566907444,False,Right Foot,Open Play,1,1,1,Normal
+3829509,Michy Batshuayi Tunga,Olympique de Marseille,13.509256086106292,0.0563909759991864,False,Head,Open Play,0,0,1,Normal
+3829509,Rémy Cabella,Olympique de Marseille,4.951767361255974,0.05721753642719646,False,Head,Open Play,0,0,4,Normal
+3829509,Didier Ndong Ibrahim,Lorient,15.51934276958918,0.061990270448294624,False,Head,Open Play,0,0,1,Normal
+3829509,Romain Alessandrini,Olympique de Marseille,22.70352395554488,0.0548104078523546,False,Left Foot,Open Play,0,0,1,Normal
+3829509,Romain Alessandrini,Olympique de Marseille,22.999347816840377,0.05906369442234956,False,Left Foot,Open Play,0,0,2,Normal
+3829509,Nicolas Alexis Julio N'Koulou Ndoubena,Olympique de Marseille,13.823168956501975,0.060650656507329426,False,Left Foot,Open Play,1,0,3,Half Volley
+3829509,Jacques-Alaixys Romao,Olympique de Marseille,13.069812546475184,0.05919049913329778,False,Head,Open Play,0,0,2,Normal
+3829509,Nicolas Alexis Julio N'Koulou Ndoubena,Olympique de Marseille,8.746427842267945,0.05688787199620422,False,Head,Open Play,0,0,6,Normal

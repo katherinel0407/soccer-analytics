@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-11.3251931550857,0.05372046384030179,False,Head,Open Play,0,1,1,Normal
-11.272089424769483,0.05751152047518541,False,Head,Open Play,0,0,3,Normal
-17.593180496999402,0.06357086285662507,False,Right Foot,Open Play,0,0,1,Normal
-29.917386249470393,0.06573058113213175,False,Left Foot,Open Play,0,0,1,Half Volley
-20.22770377477384,0.05500732501249919,False,Right Foot,Open Play,1,0,2,Normal
-17.18400418994362,0.06098658308931956,False,Right Foot,Open Play,0,0,0,Normal
-25.295849461917662,0.05714293407323673,False,Right Foot,Open Play,1,0,2,Half Volley
-24.545875417267155,0.06648084523775276,False,Right Foot,Open Play,0,0,2,Normal
-25.717892604177344,0.06148157644941011,False,Right Foot,Open Play,1,1,1,Normal
-11.739250401963492,0.05770130278140308,False,Left Foot,Open Play,0,0,3,Normal
-26.400189393260046,0.06616827361441582,False,Right Foot,Open Play,1,0,0,Half Volley
-26.506225683789832,0.06771707655594618,False,Left Foot,Open Play,0,0,2,Half Volley
-26.672082783314845,0.06414885078887245,False,Right Foot,Free Kick,0,0,0,Normal
-21.109239683134017,0.06502036653102257,False,Left Foot,Open Play,0,0,3,Normal
-26.744158240632665,0.06983297062705542,False,Right Foot,Open Play,0,0,1,Normal
-13.860014430006915,0.058663446401784454,False,Right Foot,Open Play,1,0,1,Volley
-10.245974819410794,0.05973779059447471,True,Right Foot,Open Play,1,0,2,Half Volley
-19.331321734428823,0.05902008550804495,False,Left Foot,Open Play,0,0,3,Normal
-11.115754585272203,0.05860836877742922,True,Right Foot,Open Play,0,0,2,Normal
-23.333452380648694,0.0593871053068419,False,Left Foot,Open Play,0,1,3,Normal
-30.012830589599513,0.05485886549651664,False,Left Foot,Open Play,0,0,1,Normal
-17.36692258288728,0.06005192066968993,False,Left Foot,Open Play,0,0,2,Normal
-25.3600078864341,0.06785762510872465,False,Right Foot,Open Play,0,0,1,Normal
-31.67648970451113,0.06999248788701541,False,Right Foot,Open Play,1,0,0,Normal
-31.5824318253044,0.0712775647279271,False,Left Foot,Open Play,0,0,2,Normal
-25.926241532470527,0.06773007967180579,False,Left Foot,Open Play,1,1,1,Volley
-12.66214831693264,0.05536254393498947,False,Left Foot,Open Play,1,1,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879573,Domenico Berardi,Sassuolo,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3879573,Sergej Milinković-Savić,Lazio,11.3251931550857,0.05372046384030179,False,Head,Open Play,0,1,1,Normal
+3879573,Maurício dos Santos Nascimento,Lazio,11.272089424769483,0.05751152047518541,False,Head,Open Play,0,0,3,Normal
+3879573,Nicola Sansone,Sassuolo,17.593180496999402,0.06357086285662507,False,Right Foot,Open Play,0,0,1,Normal
+3879573,Sergej Milinković-Savić,Lazio,29.917386249470393,0.06573058113213175,False,Left Foot,Open Play,0,0,1,Half Volley
+3879573,Davide Biondini,Sassuolo,20.22770377477384,0.05500732501249919,False,Right Foot,Open Play,1,0,2,Normal
+3879573,Sergej Milinković-Savić,Lazio,17.18400418994362,0.06098658308931956,False,Right Foot,Open Play,0,0,0,Normal
+3879573,Antonio Candreva,Lazio,25.295849461917662,0.05714293407323673,False,Right Foot,Open Play,1,0,2,Half Volley
+3879573,Felipe Anderson Pereira Gomes,Lazio,24.545875417267155,0.06648084523775276,False,Right Foot,Open Play,0,0,2,Normal
+3879573,Francesco Magnanelli,Sassuolo,25.717892604177344,0.06148157644941011,False,Right Foot,Open Play,1,1,1,Normal
+3879573,Diego Falcinelli,Sassuolo,11.739250401963492,0.05770130278140308,False,Left Foot,Open Play,0,0,3,Normal
+3879573,Francesco Magnanelli,Sassuolo,26.400189393260046,0.06616827361441582,False,Right Foot,Open Play,1,0,0,Half Volley
+3879573,Domenico Berardi,Sassuolo,26.506225683789832,0.06771707655594618,False,Left Foot,Open Play,0,0,2,Half Volley
+3879573,Antonio Candreva,Lazio,26.672082783314845,0.06414885078887245,False,Right Foot,Free Kick,0,0,0,Normal
+3879573,Domenico Berardi,Sassuolo,21.109239683134017,0.06502036653102257,False,Left Foot,Open Play,0,0,3,Normal
+3879573,Nicola Sansone,Sassuolo,26.744158240632665,0.06983297062705542,False,Right Foot,Open Play,0,0,1,Normal
+3879573,Nicola Sansone,Sassuolo,13.860014430006915,0.058663446401784454,False,Right Foot,Open Play,1,0,1,Volley
+3879573,Simone Missiroli,Sassuolo,10.245974819410794,0.05973779059447471,True,Right Foot,Open Play,1,0,2,Half Volley
+3879573,Diego Falcinelli,Sassuolo,19.331321734428823,0.05902008550804495,False,Left Foot,Open Play,0,0,3,Normal
+3879573,Felipe Anderson Pereira Gomes,Lazio,11.115754585272203,0.05860836877742922,True,Right Foot,Open Play,0,0,2,Normal
+3879573,Keita Baldé Diao,Lazio,23.333452380648694,0.0593871053068419,False,Left Foot,Open Play,0,1,3,Normal
+3879573,Domenico Berardi,Sassuolo,30.012830589599513,0.05485886549651664,False,Left Foot,Open Play,0,0,1,Normal
+3879573,Domenico Berardi,Sassuolo,17.36692258288728,0.06005192066968993,False,Left Foot,Open Play,0,0,2,Normal
+3879573,Senad Lulić,Lazio,25.3600078864341,0.06785762510872465,False,Right Foot,Open Play,0,0,1,Normal
+3879573,Nicola Sansone,Sassuolo,31.67648970451113,0.06999248788701541,False,Right Foot,Open Play,1,0,0,Normal
+3879573,Gregoire Defrel,Sassuolo,31.5824318253044,0.0712775647279271,False,Left Foot,Open Play,0,0,2,Normal
+3879573,Danilo Cataldi,Lazio,25.926241532470527,0.06773007967180579,False,Left Foot,Open Play,1,1,1,Volley
+3879573,Sergej Milinković-Savić,Lazio,12.66214831693264,0.05536254393498947,False,Left Foot,Open Play,1,1,2,Volley

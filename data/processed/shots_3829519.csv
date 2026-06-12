@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.035871324805669,0.05658837637285801,False,Head,Open Play,0,1,6,Normal
-21.073680267100947,0.05486045335152995,False,Right Foot,Open Play,0,0,1,Normal
-26.37460900184114,0.06136406118032944,False,Right Foot,Open Play,0,0,1,Half Volley
-13.678084661238207,0.05562284628892739,False,Head,Open Play,0,1,2,Normal
-13.148383931114877,0.061493867330763397,False,Right Foot,Open Play,1,1,3,Half Volley
-16.393291310777098,0.06252385663919362,True,Left Foot,Open Play,0,0,1,Normal
-32.100623046912965,0.06909754819049853,False,Right Foot,Open Play,1,0,0,Volley
-38.176039606014655,0.07744414702603464,False,Right Foot,Free Kick,0,0,0,Normal
-13.485177047410236,0.058853733009854685,False,Right Foot,Open Play,1,0,2,Overhead Kick
-25.20039682227246,0.062259445306718605,False,Left Foot,Open Play,0,1,3,Normal
-33.09531688925187,0.06618015986858301,False,Right Foot,Open Play,0,0,0,Normal
-7.874642849044014,0.057815835449217874,False,Head,Open Play,0,0,3,Normal
-12.264175471673578,0.05890490767133746,False,Right Foot,Open Play,1,0,2,Normal
-20.520477577288496,0.06594678728054527,False,Left Foot,Open Play,1,0,0,Half Volley
-6.95701085237043,0.05808434465116962,False,Head,Open Play,0,0,2,Normal
-35.38361202590826,0.07433364772786998,False,Left Foot,Open Play,1,0,1,Half Volley
-18.509727172489605,0.06266310552816391,False,Left Foot,Open Play,0,0,1,Normal
-10.25524256173398,0.05988217023316823,True,Left Foot,Open Play,1,1,1,Normal
-20.9861859326558,0.06434045289911568,False,Right Foot,Open Play,0,1,2,Half Volley
-7.8746428490440135,0.05869615417986057,False,Left Foot,Open Play,1,0,1,Normal
-29.07593506664919,0.0685362444670881,False,Right Foot,Open Play,0,1,2,Normal
-18.5324040534411,0.064502026790278,False,Right Foot,Open Play,1,1,2,Half Volley
-36.36069306270166,0.05947079346845978,False,Right Foot,Open Play,0,1,1,Normal
-24.35775030662725,0.06782770149421698,False,Right Foot,Open Play,0,1,2,Normal
-12.845621822239671,0.05189298442484101,False,Right Foot,Open Play,1,1,1,Normal
-28.900692033236847,0.07079076914753914,False,Right Foot,Open Play,0,0,0,Normal
-6.596969000988262,0.05680824912230693,True,Right Foot,Open Play,1,0,3,Normal
-20.827865949251745,0.06139383938948032,False,Right Foot,Open Play,0,1,1,Normal
-5.437830449729003,0.05747871248576442,False,Left Foot,Open Play,1,0,5,Half Volley
-9.962429422585638,0.05955419306646181,False,Left Foot,Open Play,1,0,3,Normal
-19.210674116230283,0.06430322236513362,False,Right Foot,Open Play,1,1,1,Normal
-27.15529414313165,0.06489149088516953,False,Right Foot,Open Play,0,1,2,Normal
-14.640013661195809,0.06180728953542822,False,Head,Open Play,0,1,1,Normal
-13.090836489697674,0.061282273522103504,True,Head,Open Play,0,0,2,Normal
-32.66818023704411,0.07389950809774506,False,Left Foot,Open Play,1,1,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829519,Thiago Motta,Paris Saint-Germain,5.035871324805669,0.05658837637285801,False,Head,Open Play,0,1,6,Normal
+3829519,Zlatan Ibrahimović,Paris Saint-Germain,21.073680267100947,0.05486045335152995,False,Right Foot,Open Play,0,0,1,Normal
+3829519,Valentin Eysseric,Saint-Étienne,26.37460900184114,0.06136406118032944,False,Right Foot,Open Play,0,0,1,Half Volley
+3829519,Thiago Emiliano da Silva,Paris Saint-Germain,13.678084661238207,0.05562284628892739,False,Head,Open Play,0,1,2,Normal
+3829519,Edinson Roberto Cavani Gómez,Paris Saint-Germain,13.148383931114877,0.061493867330763397,False,Right Foot,Open Play,1,1,3,Half Volley
+3829519,Layvin Kurzawa,Paris Saint-Germain,16.393291310777098,0.06252385663919362,True,Left Foot,Open Play,0,0,1,Normal
+3829519,Fabien Lemoine,Saint-Étienne,32.100623046912965,0.06909754819049853,False,Right Foot,Open Play,1,0,0,Volley
+3829519,Zlatan Ibrahimović,Paris Saint-Germain,38.176039606014655,0.07744414702603464,False,Right Foot,Free Kick,0,0,0,Normal
+3829519,Valentin Eysseric,Saint-Étienne,13.485177047410236,0.058853733009854685,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3829519,Ángel Fabián Di María Hernández,Paris Saint-Germain,25.20039682227246,0.062259445306718605,False,Left Foot,Open Play,0,1,3,Normal
+3829519,Valentin Eysseric,Saint-Étienne,33.09531688925187,0.06618015986858301,False,Right Foot,Open Play,0,0,0,Normal
+3829519,Layvin Kurzawa,Paris Saint-Germain,7.874642849044014,0.057815835449217874,False,Head,Open Play,0,0,3,Normal
+3829519,Edinson Roberto Cavani Gómez,Paris Saint-Germain,12.264175471673578,0.05890490767133746,False,Right Foot,Open Play,1,0,2,Normal
+3829519,Ángel Fabián Di María Hernández,Paris Saint-Germain,20.520477577288496,0.06594678728054527,False,Left Foot,Open Play,1,0,0,Half Volley
+3829519,Zlatan Ibrahimović,Paris Saint-Germain,6.95701085237043,0.05808434465116962,False,Head,Open Play,0,0,2,Normal
+3829519,Benoît Assou-Ekotto,Saint-Étienne,35.38361202590826,0.07433364772786998,False,Left Foot,Open Play,1,0,1,Half Volley
+3829519,Ángel Fabián Di María Hernández,Paris Saint-Germain,18.509727172489605,0.06266310552816391,False,Left Foot,Open Play,0,0,1,Normal
+3829519,Edinson Roberto Cavani Gómez,Paris Saint-Germain,10.25524256173398,0.05988217023316823,True,Left Foot,Open Play,1,1,1,Normal
+3829519,Fabien Lemoine,Saint-Étienne,20.9861859326558,0.06434045289911568,False,Right Foot,Open Play,0,1,2,Half Volley
+3829519,Edinson Roberto Cavani Gómez,Paris Saint-Germain,7.8746428490440135,0.05869615417986057,False,Left Foot,Open Play,1,0,1,Normal
+3829519,Ismaël Tiémoko Diomandé,Saint-Étienne,29.07593506664919,0.0685362444670881,False,Right Foot,Open Play,0,1,2,Normal
+3829519,Romain Hamouma,Saint-Étienne,18.5324040534411,0.064502026790278,False,Right Foot,Open Play,1,1,2,Half Volley
+3829519,Romain Hamouma,Saint-Étienne,36.36069306270166,0.05947079346845978,False,Right Foot,Open Play,0,1,1,Normal
+3829519,Kévin Monnet-Paquet,Saint-Étienne,24.35775030662725,0.06782770149421698,False,Right Foot,Open Play,0,1,2,Normal
+3829519,Zlatan Ibrahimović,Paris Saint-Germain,12.845621822239671,0.05189298442484101,False,Right Foot,Open Play,1,1,1,Normal
+3829519,Fabien Lemoine,Saint-Étienne,28.900692033236847,0.07079076914753914,False,Right Foot,Open Play,0,0,0,Normal
+3829519,Zlatan Ibrahimović,Paris Saint-Germain,6.596969000988262,0.05680824912230693,True,Right Foot,Open Play,1,0,3,Normal
+3829519,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,20.827865949251745,0.06139383938948032,False,Right Foot,Open Play,0,1,1,Normal
+3829519,Blaise Matuidi,Paris Saint-Germain,5.437830449729003,0.05747871248576442,False,Left Foot,Open Play,1,0,5,Half Volley
+3829519,Robert Berič,Saint-Étienne,9.962429422585638,0.05955419306646181,False,Left Foot,Open Play,1,0,3,Normal
+3829519,Edinson Roberto Cavani Gómez,Paris Saint-Germain,19.210674116230283,0.06430322236513362,False,Right Foot,Open Play,1,1,1,Normal
+3829519,Jean-Christophe Bahebeck,Saint-Étienne,27.15529414313165,0.06489149088516953,False,Right Foot,Open Play,0,1,2,Normal
+3829519,Layvin Kurzawa,Paris Saint-Germain,14.640013661195809,0.06180728953542822,False,Head,Open Play,0,1,1,Normal
+3829519,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,13.090836489697674,0.061282273522103504,True,Head,Open Play,0,0,2,Normal
+3829519,Erin Jorge Gomes Pinheiro,Saint-Étienne,32.66818023704411,0.07389950809774506,False,Left Foot,Open Play,1,1,0,Normal

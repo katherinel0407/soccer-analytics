@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.541929676090511,0.060793814232850206,False,Right Foot,Open Play,0,1,2,Half Volley
-17.761193653580825,0.058266862939141593,True,Right Foot,Open Play,0,0,1,Normal
-21.349004660639334,0.06640446005093373,False,Left Foot,Open Play,0,0,1,Normal
-37.748642359692894,0.07754680398236222,False,Left Foot,Free Kick,0,0,0,Normal
-20.71834935510066,0.0547108187169104,False,Right Foot,Open Play,0,0,2,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-22.41093483101497,0.04817574745435646,False,Right Foot,Open Play,0,0,1,Normal
-17.426990560621764,0.052819087225855224,False,Right Foot,Open Play,1,0,2,Normal
-15.332318807016765,0.0628131447991903,False,Left Foot,Open Play,0,0,3,Normal
-17.461385970191483,0.06318675925742571,False,Left Foot,Open Play,0,0,1,Half Volley
-36.840874039577294,0.07738891374370514,False,Left Foot,Free Kick,0,0,0,Normal
-23.262201099638013,0.05643778994699207,False,Left Foot,Open Play,0,0,2,Normal
-15.393829932801003,0.056750315402018546,False,Right Foot,Open Play,1,0,1,Half Volley
-23.44802763560296,0.06110991391438433,False,Right Foot,Open Play,0,0,2,Normal
-13.274034804836097,0.06060935632244755,True,Right Foot,Open Play,1,1,1,Normal
-19.91808223700264,0.06491037962249771,False,Right Foot,Open Play,1,0,1,Normal
-12.137956994486341,0.06095227068720357,True,Right Foot,Open Play,0,1,3,Normal
-26.692508312258703,0.06777401188424921,False,Right Foot,Open Play,0,0,4,Normal
-20.044450603596,0.06451533676453007,False,Right Foot,Open Play,0,0,5,Normal
-22.886240407720965,0.06552440675550919,False,Right Foot,Open Play,0,0,1,Normal
-20.474862636901857,0.061405702928150015,False,Left Foot,Open Play,0,0,3,Normal
-9.794896630388703,0.05480689907907577,True,Head,Open Play,0,1,4,Normal
-23.45804765959861,0.066695251724461,False,Left Foot,Open Play,0,0,1,Normal
-15.626259949200893,0.06284819617735823,False,Right Foot,Open Play,1,1,2,Volley
-12.140016474453402,0.05437074643331825,False,Right Foot,Open Play,0,0,1,Normal
-21.780725424099167,0.06634953174602677,True,Left Foot,Open Play,0,1,2,Normal
-14.301048912579802,0.055496275279893474,False,Right Foot,Open Play,0,0,2,Normal
-16.57739424638263,0.060878476119395085,False,Right Foot,Open Play,0,1,2,Volley
-51.24392646938757,0.07065313495228552,False,Right Foot,Open Play,0,0,2,Lob
-17.27946758439044,0.06397749986402886,False,Right Foot,Open Play,0,1,3,Normal
-16.317475294910054,0.06300503901029178,False,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879699,Gonzalo Gerardo Higuaín,Napoli,12.541929676090511,0.060793814232850206,False,Right Foot,Open Play,0,1,2,Half Volley
+3879699,Gonzalo Gerardo Higuaín,Napoli,17.761193653580825,0.058266862939141593,True,Right Foot,Open Play,0,0,1,Normal
+3879699,Eder Citadin Martins,Sampdoria,21.349004660639334,0.06640446005093373,False,Left Foot,Open Play,0,0,1,Normal
+3879699,Faouzi Ghoulam,Napoli,37.748642359692894,0.07754680398236222,False,Left Foot,Free Kick,0,0,0,Normal
+3879699,Gonzalo Gerardo Higuaín,Napoli,20.71834935510066,0.0547108187169104,False,Right Foot,Open Play,0,0,2,Half Volley
+3879699,Lorenzo Insigne,Napoli,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3879699,Lorenzo Insigne,Napoli,22.41093483101497,0.04817574745435646,False,Right Foot,Open Play,0,0,1,Normal
+3879699,José María Callejón Bueno,Napoli,17.426990560621764,0.052819087225855224,False,Right Foot,Open Play,1,0,2,Normal
+3879699,Carlos Joaquín Correa,Sampdoria,15.332318807016765,0.0628131447991903,False,Left Foot,Open Play,0,0,3,Normal
+3879699,Vasco Regini,Sampdoria,17.461385970191483,0.06318675925742571,False,Left Foot,Open Play,0,0,1,Half Volley
+3879699,Faouzi Ghoulam,Napoli,36.840874039577294,0.07738891374370514,False,Left Foot,Free Kick,0,0,0,Normal
+3879699,José María Callejón Bueno,Napoli,23.262201099638013,0.05643778994699207,False,Left Foot,Open Play,0,0,2,Normal
+3879699,Gonzalo Gerardo Higuaín,Napoli,15.393829932801003,0.056750315402018546,False,Right Foot,Open Play,1,0,1,Half Volley
+3879699,Antonio Cassano,Sampdoria,23.44802763560296,0.06110991391438433,False,Right Foot,Open Play,0,0,2,Normal
+3879699,Carlos Joaquín Correa,Sampdoria,13.274034804836097,0.06060935632244755,True,Right Foot,Open Play,1,1,1,Normal
+3879699,Lorenzo Insigne,Napoli,19.91808223700264,0.06491037962249771,False,Right Foot,Open Play,1,0,1,Normal
+3879699,Marek Hamšík,Napoli,12.137956994486341,0.06095227068720357,True,Right Foot,Open Play,0,1,3,Normal
+3879699,Carlos Joaquín Correa,Sampdoria,26.692508312258703,0.06777401188424921,False,Right Foot,Open Play,0,0,4,Normal
+3879699,Gonzalo Gerardo Higuaín,Napoli,20.044450603596,0.06451533676453007,False,Right Foot,Open Play,0,0,5,Normal
+3879699,Marek Hamšík,Napoli,22.886240407720965,0.06552440675550919,False,Right Foot,Open Play,0,0,1,Normal
+3879699,Gonzalo Gerardo Higuaín,Napoli,20.474862636901857,0.061405702928150015,False,Left Foot,Open Play,0,0,3,Normal
+3879699,Eder Citadin Martins,Sampdoria,9.794896630388703,0.05480689907907577,True,Head,Open Play,0,1,4,Normal
+3879699,Ivan Strinić,Napoli,23.45804765959861,0.066695251724461,False,Left Foot,Open Play,0,0,1,Normal
+3879699,Marek Hamšík,Napoli,15.626259949200893,0.06284819617735823,False,Right Foot,Open Play,1,1,2,Volley
+3879699,Gonzalo Gerardo Higuaín,Napoli,12.140016474453402,0.05437074643331825,False,Right Foot,Open Play,0,0,1,Normal
+3879699,Dries Mertens,Napoli,21.780725424099167,0.06634953174602677,True,Left Foot,Open Play,0,1,2,Normal
+3879699,Omar El Kaddouri,Napoli,14.301048912579802,0.055496275279893474,False,Right Foot,Open Play,0,0,2,Normal
+3879699,Gonzalo Gerardo Higuaín,Napoli,16.57739424638263,0.060878476119395085,False,Right Foot,Open Play,0,1,2,Volley
+3879699,Eder Citadin Martins,Sampdoria,51.24392646938757,0.07065313495228552,False,Right Foot,Open Play,0,0,2,Lob
+3879699,Gonzalo Gerardo Higuaín,Napoli,17.27946758439044,0.06397749986402886,False,Right Foot,Open Play,0,1,3,Normal
+3879699,Omar El Kaddouri,Napoli,16.317475294910054,0.06300503901029178,False,Right Foot,Open Play,0,0,1,Half Volley

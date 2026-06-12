@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.87292593180702,0.06248950398676073,False,Right Foot,Open Play,1,0,1,Normal
-6.4140470843298285,0.054440789249708625,False,Head,Open Play,0,1,2,Normal
-33.24154027718932,0.05330059934759898,False,Right Foot,Free Kick,0,0,0,Normal
-22.920078533896863,0.05296375090225652,True,Left Foot,Open Play,1,0,1,Normal
-56.555282688710875,0.08547071903329471,False,Right Foot,Open Play,0,0,1,Normal
-22.940139493908923,0.0668627275995127,False,Right Foot,Open Play,0,0,3,Normal
-25.61269216618979,0.0668603919758563,False,Left Foot,Open Play,0,0,1,Normal
-29.39931972002074,0.056800483767839596,False,Left Foot,Open Play,0,0,3,Half Volley
-21.561539833694628,0.06109102968205843,False,Left Foot,Open Play,1,0,2,Half Volley
-16.999999999999996,0.06377639995058179,False,Left Foot,Open Play,1,1,5,Normal
-25.379716310471238,0.06926037198565577,False,Right Foot,Free Kick,0,0,0,Normal
-27.045332314467878,0.06778682622922802,False,Right Foot,Open Play,0,0,1,Normal
-20.125854019146608,0.05842841798467509,False,Right Foot,Open Play,1,0,2,Normal
-21.741205118392127,0.06661549893404231,False,Right Foot,Open Play,0,0,1,Normal
-23.4367233204644,0.06788726432047255,False,Right Foot,Free Kick,0,0,0,Normal
-12.106196760337244,0.05901146519185539,False,Left Foot,Open Play,1,0,0,Normal
-5.636488268416775,0.057534462113647926,False,Right Foot,Open Play,1,0,3,Volley
-9.714422267947791,0.0572307835065637,False,Right Foot,Open Play,1,0,2,Normal
-10.733592129385206,0.05317929232880841,False,Head,Open Play,0,0,1,Normal
-20.9057408383439,0.06437594457575006,False,Right Foot,Open Play,1,0,0,Normal
-7.529276193632425,0.056125712170298866,False,Head,Open Play,0,0,5,Normal
-20.98880654063018,0.06558298202196107,False,Left Foot,Open Play,0,0,4,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754331,Mark Noble,West Ham United,27.87292593180702,0.06248950398676073,False,Right Foot,Open Play,1,0,1,Normal
+3754331,Emmanuel Emenike,West Ham United,6.4140470843298285,0.054440789249708625,False,Head,Open Play,0,1,2,Normal
+3754331,Wahbi Khazri,Sunderland,33.24154027718932,0.05330059934759898,False,Right Foot,Free Kick,0,0,0,Normal
+3754331,Michail Antonio,West Ham United,22.920078533896863,0.05296375090225652,True,Left Foot,Open Play,1,0,1,Normal
+3754331,Wahbi Khazri,Sunderland,56.555282688710875,0.08547071903329471,False,Right Foot,Open Play,0,0,1,Normal
+3754331,Jermain Defoe,Sunderland,22.940139493908923,0.0668627275995127,False,Right Foot,Open Play,0,0,3,Normal
+3754331,Manuel Lanzini,West Ham United,25.61269216618979,0.0668603919758563,False,Left Foot,Open Play,0,0,1,Normal
+3754331,Michail Antonio,West Ham United,29.39931972002074,0.056800483767839596,False,Left Foot,Open Play,0,0,3,Half Volley
+3754331,Jermain Defoe,Sunderland,21.561539833694628,0.06109102968205843,False,Left Foot,Open Play,1,0,2,Half Volley
+3754331,Patrick van Aanholt,Sunderland,16.999999999999996,0.06377639995058179,False,Left Foot,Open Play,1,1,5,Normal
+3754331,Dame N''Doye,Sunderland,25.379716310471238,0.06926037198565577,False,Right Foot,Free Kick,0,0,0,Normal
+3754331,Yann Gérard M''Vila,Sunderland,27.045332314467878,0.06778682622922802,False,Right Foot,Open Play,0,0,1,Normal
+3754331,Dimitri Payet,West Ham United,20.125854019146608,0.05842841798467509,False,Right Foot,Open Play,1,0,2,Normal
+3754331,Victor Moses,West Ham United,21.741205118392127,0.06661549893404231,False,Right Foot,Open Play,0,0,1,Normal
+3754331,Wahbi Khazri,Sunderland,23.4367233204644,0.06788726432047255,False,Right Foot,Free Kick,0,0,0,Normal
+3754331,Jack Rodwell,Sunderland,12.106196760337244,0.05901146519185539,False,Left Foot,Open Play,1,0,0,Normal
+3754331,Andy Carroll,West Ham United,5.636488268416775,0.057534462113647926,False,Right Foot,Open Play,1,0,3,Volley
+3754331,Jack Rodwell,Sunderland,9.714422267947791,0.0572307835065637,False,Right Foot,Open Play,1,0,2,Normal
+3754331,John O''Shea,Sunderland,10.733592129385206,0.05317929232880841,False,Head,Open Play,0,0,1,Normal
+3754331,Dame N''Doye,Sunderland,20.9057408383439,0.06437594457575006,False,Right Foot,Open Play,1,0,0,Normal
+3754331,Jack Rodwell,Sunderland,7.529276193632425,0.056125712170298866,False,Head,Open Play,0,0,5,Normal
+3754331,Dimitri Payet,West Ham United,20.98880654063018,0.06558298202196107,False,Left Foot,Open Play,0,0,4,Volley

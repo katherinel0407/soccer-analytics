@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.632018423735298,0.06151736337265488,False,Head,Open Play,0,1,2,Normal
-25.941665328193558,0.06021684452199674,False,Right Foot,Open Play,0,0,2,Normal
-16.58010856418015,0.05385814620306974,False,Right Foot,Open Play,0,0,1,Normal
-7.375635565834313,0.057114999839422906,False,Right Foot,Open Play,1,0,1,Normal
-7.60065786626394,0.05776153669592096,False,Right Foot,Open Play,1,1,4,Overhead Kick
-27.465796911795593,0.06560636747249793,False,Right Foot,Open Play,0,0,2,Normal
-5.9615434243155505,0.05766651117676502,True,Head,Open Play,0,0,6,Normal
-33.860005906674026,0.07537278001700896,False,Right Foot,Open Play,1,0,1,Half Volley
-23.820999139414784,0.06533903691233026,False,Left Foot,Open Play,0,0,3,Normal
-10.465658125507442,0.060040208013261646,False,Left Foot,Open Play,1,0,3,Half Volley
-30.064098190366533,0.07272804324227672,False,Left Foot,Open Play,0,1,2,Normal
-18.478365728602736,0.05539601510282635,False,Left Foot,Open Play,0,0,3,Normal
-20.72800038595136,0.06234122317709066,False,Left Foot,Open Play,0,0,2,Normal
-16.638810053606594,0.05964811134809059,False,Left Foot,Open Play,0,0,2,Half Volley
-11.910079764636334,0.0584482054553161,True,Head,Open Play,0,1,3,Normal
-11.115754585272203,0.059730256943194816,False,Right Foot,Open Play,1,0,2,Half Volley
-20.894257584322055,0.06597108281777593,True,Right Foot,Open Play,0,1,2,Normal
-8.845903006477066,0.05504424271320135,False,Head,Open Play,0,1,1,Normal
-6.824954212300618,0.05552669252838064,False,Head,Open Play,0,1,3,Normal
-23.306007809146546,0.06728994157179473,False,Left Foot,Open Play,0,0,2,Normal
-12.000416659433121,0.059627414004283334,True,Right Foot,Penalty,0,0,0,Normal
-26.60169167553071,0.0660611910164057,False,Right Foot,Open Play,0,0,3,Normal
-9.860020283954798,0.05975543780668567,False,Head,Open Play,0,1,2,Normal
-4.257933771208758,0.0562530156164999,False,Head,Open Play,0,0,2,Normal
-6.586349520030045,0.05804535586780978,False,Head,Open Play,0,1,3,Normal
-19.681463360228065,0.06539166652245475,True,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754243,Papiss Demba Cissé,Newcastle United,15.632018423735298,0.06151736337265488,False,Head,Open Play,0,1,2,Normal
+3754243,Steven Naismith,Norwich City,25.941665328193558,0.06021684452199674,False,Right Foot,Open Play,0,0,2,Normal
+3754243,Robert Brady,Norwich City,16.58010856418015,0.05385814620306974,False,Right Foot,Open Play,0,0,1,Normal
+3754243,Dieumerci Mbokani Bezua,Norwich City,7.375635565834313,0.057114999839422906,False,Right Foot,Open Play,1,0,1,Normal
+3754243,Dieumerci Mbokani Bezua,Norwich City,7.60065786626394,0.05776153669592096,False,Right Foot,Open Play,1,1,4,Overhead Kick
+3754243,Jonjo Shelvey,Newcastle United,27.465796911795593,0.06560636747249793,False,Right Foot,Open Play,0,0,2,Normal
+3754243,Timm Klose,Norwich City,5.9615434243155505,0.05766651117676502,True,Head,Open Play,0,0,6,Normal
+3754243,Papiss Demba Cissé,Newcastle United,33.860005906674026,0.07537278001700896,False,Right Foot,Open Play,1,0,1,Half Volley
+3754243,Andros Townsend,Newcastle United,23.820999139414784,0.06533903691233026,False,Left Foot,Open Play,0,0,3,Normal
+3754243,Timm Klose,Norwich City,10.465658125507442,0.060040208013261646,False,Left Foot,Open Play,1,0,3,Half Volley
+3754243,Robert Brady,Norwich City,30.064098190366533,0.07272804324227672,False,Left Foot,Open Play,0,1,2,Normal
+3754243,Andros Townsend,Newcastle United,18.478365728602736,0.05539601510282635,False,Left Foot,Open Play,0,0,3,Normal
+3754243,Andre Wisdom,Norwich City,20.72800038595136,0.06234122317709066,False,Left Foot,Open Play,0,0,2,Normal
+3754243,Aleksandar Mitrović,Newcastle United,16.638810053606594,0.05964811134809059,False,Left Foot,Open Play,0,0,2,Half Volley
+3754243,Aleksandar Mitrović,Newcastle United,11.910079764636334,0.0584482054553161,True,Head,Open Play,0,1,3,Normal
+3754243,Ryan Bennett,Norwich City,11.115754585272203,0.059730256943194816,False,Right Foot,Open Play,1,0,2,Half Volley
+3754243,Dieumerci Mbokani Bezua,Norwich City,20.894257584322055,0.06597108281777593,True,Right Foot,Open Play,0,1,2,Normal
+3754243,Aleksandar Mitrović,Newcastle United,8.845903006477066,0.05504424271320135,False,Head,Open Play,0,1,1,Normal
+3754243,Aleksandar Mitrović,Newcastle United,6.824954212300618,0.05552669252838064,False,Head,Open Play,0,1,3,Normal
+3754243,Steven Naismith,Norwich City,23.306007809146546,0.06728994157179473,False,Left Foot,Open Play,0,0,2,Normal
+3754243,Aleksandar Mitrović,Newcastle United,12.000416659433121,0.059627414004283334,True,Right Foot,Penalty,0,0,0,Normal
+3754243,Nathan Redmond,Norwich City,26.60169167553071,0.0660611910164057,False,Right Foot,Open Play,0,0,3,Normal
+3754243,Aleksandar Mitrović,Newcastle United,9.860020283954798,0.05975543780668567,False,Head,Open Play,0,1,2,Normal
+3754243,Papiss Demba Cissé,Newcastle United,4.257933771208758,0.0562530156164999,False,Head,Open Play,0,0,2,Normal
+3754243,Chancel Mbemba Mangulu,Newcastle United,6.586349520030045,0.05804535586780978,False,Head,Open Play,0,1,3,Normal
+3754243,Martin Olsson,Norwich City,19.681463360228065,0.06539166652245475,True,Left Foot,Open Play,1,0,1,Normal

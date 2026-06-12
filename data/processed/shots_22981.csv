@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-20.803124765284668,0.05755339396299364,False,Right Foot,Open Play,0,0,3,Normal
-3.3286633954186438,0.05474204143058469,False,Head,Open Play,0,1,6,Normal
-11.271202242884298,0.06047823448903311,False,Head,Open Play,0,1,2,Normal
-29.917386249470386,0.07149440890611675,False,Right Foot,Free Kick,0,0,0,Normal
-30.166372005927396,0.059909013149432484,False,Left Foot,Open Play,0,0,1,Normal
-10.004498987955369,0.058660501473092985,False,Head,Open Play,0,0,2,Normal
-20.402205763103165,0.06588288006103744,False,Right Foot,Open Play,0,0,2,Normal
-17.691806012954128,0.06273961311307587,False,Left Foot,Open Play,1,0,1,Normal
-17.99694418505542,0.060209172807072345,False,Right Foot,Open Play,0,0,2,Normal
-15.572411502397436,0.061664682093888534,False,Right Foot,Open Play,1,0,1,Half Volley
-16.37101096450674,0.06338865952827052,False,Right Foot,Open Play,1,0,1,Half Volley
-22.89737976275888,0.06756662484005652,False,Right Foot,Open Play,0,0,1,Normal
-19.287560758167427,0.06433817072079463,False,Right Foot,Open Play,1,0,1,Half Volley
-31.126194756185665,0.0700015512168229,False,Right Foot,Free Kick,0,0,0,Normal
-20.813937638034766,0.0655873566655617,False,Left Foot,Open Play,0,1,4,Normal
-9.640020746865641,0.05963749104219251,False,Left Foot,Open Play,1,1,1,Half Volley
-24.72913261721891,0.0658764642541032,False,Right Foot,Open Play,1,0,1,Normal
-13.967104209534629,0.0609706943504796,False,Left Foot,Open Play,0,0,3,Normal
-12.100413216084807,0.05959743192834747,True,Right Foot,Penalty,0,0,0,Normal
-21.66887168266959,0.05663439064856736,False,Right Foot,Open Play,1,0,1,Normal
-31.12715855968867,0.0677143231966416,False,Left Foot,Open Play,0,1,1,Normal
-9.360555539069255,0.05732872267104267,False,Right Foot,Open Play,1,1,1,Normal
-14.094325099131206,0.058858547586960235,False,Right Foot,Open Play,1,0,3,Normal
-19.300259065618782,0.056355494015750726,False,Right Foot,Open Play,0,0,1,Normal
-7.125307010929418,0.057786927177859805,False,Head,Open Play,0,1,2,Normal
-6.818357573492311,0.0576353206531825,True,Right Foot,Open Play,1,0,2,Normal
-23.455702931270256,0.06389024794216557,False,Right Foot,Open Play,0,0,0,Normal
-26.5,0.0661661877592936,False,Right Foot,Open Play,1,0,2,Normal
-7.280109889280515,0.05828932322759642,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+22981,Caroline Graham Hansen,Norway Women's,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+22981,So-Yun Ji,Korea Republic Women's,20.803124765284668,0.05755339396299364,False,Right Foot,Open Play,0,0,3,Normal
+22981,Maren Nævdal Mjelde,Norway Women's,3.3286633954186438,0.05474204143058469,False,Head,Open Play,0,1,6,Normal
+22981,Min-Ji Yeo,Korea Republic Women's,11.271202242884298,0.06047823448903311,False,Head,Open Play,0,1,2,Normal
+22981,So-Yun Ji,Korea Republic Women's,29.917386249470386,0.07149440890611675,False,Right Foot,Free Kick,0,0,0,Normal
+22981,Mi-Ra Moon,Korea Republic Women's,30.166372005927396,0.059909013149432484,False,Left Foot,Open Play,0,0,1,Normal
+22981,Mi-Ra Moon,Korea Republic Women's,10.004498987955369,0.058660501473092985,False,Head,Open Play,0,0,2,Normal
+22981,Geum-Min Lee,Korea Republic Women's,20.402205763103165,0.06588288006103744,False,Right Foot,Open Play,0,0,2,Normal
+22981,Chae-Rim Kang,Korea Republic Women's,17.691806012954128,0.06273961311307587,False,Left Foot,Open Play,1,0,1,Normal
+22981,Mi-Ra Moon,Korea Republic Women's,17.99694418505542,0.060209172807072345,False,Right Foot,Open Play,0,0,2,Normal
+22981,Min-Ji Yeo,Korea Republic Women's,15.572411502397436,0.061664682093888534,False,Right Foot,Open Play,1,0,1,Half Volley
+22981,Geum-Min Lee,Korea Republic Women's,16.37101096450674,0.06338865952827052,False,Right Foot,Open Play,1,0,1,Half Volley
+22981,So-Yun Ji,Korea Republic Women's,22.89737976275888,0.06756662484005652,False,Right Foot,Open Play,0,0,1,Normal
+22981,Min-Ji Yeo,Korea Republic Women's,19.287560758167427,0.06433817072079463,False,Right Foot,Open Play,1,0,1,Half Volley
+22981,So-Yun Ji,Korea Republic Women's,31.126194756185665,0.0700015512168229,False,Right Foot,Free Kick,0,0,0,Normal
+22981,Guro Reiten,Norway Women's,20.813937638034766,0.0655873566655617,False,Left Foot,Open Play,0,1,4,Normal
+22981,Lisa-Marie Utland,Norway Women's,9.640020746865641,0.05963749104219251,False,Left Foot,Open Play,1,1,1,Half Volley
+22981,Chae-Rim Kang,Korea Republic Women's,24.72913261721891,0.0658764642541032,False,Right Foot,Open Play,1,0,1,Normal
+22981,Min-Ji Yeo,Korea Republic Women's,13.967104209534629,0.0609706943504796,False,Left Foot,Open Play,0,0,3,Normal
+22981,Isabell Herlovsen,Norway Women's,12.100413216084807,0.05959743192834747,True,Right Foot,Penalty,0,0,0,Normal
+22981,Mi-Ra Moon,Korea Republic Women's,21.66887168266959,0.05663439064856736,False,Right Foot,Open Play,1,0,1,Normal
+22981,Isabell Herlovsen,Norway Women's,31.12715855968867,0.0677143231966416,False,Left Foot,Open Play,0,1,1,Normal
+22981,Karina Sævik,Norway Women's,9.360555539069255,0.05732872267104267,False,Right Foot,Open Play,1,1,1,Normal
+22981,Geum-Min Lee,Korea Republic Women's,14.094325099131206,0.058858547586960235,False,Right Foot,Open Play,1,0,3,Normal
+22981,So-Yun Ji,Korea Republic Women's,19.300259065618782,0.056355494015750726,False,Right Foot,Open Play,0,0,1,Normal
+22981,Geum-Min Lee,Korea Republic Women's,7.125307010929418,0.057786927177859805,False,Head,Open Play,0,1,2,Normal
+22981,Min-Ji Yeo,Korea Republic Women's,6.818357573492311,0.0576353206531825,True,Right Foot,Open Play,1,0,2,Normal
+22981,Geum-Min Lee,Korea Republic Women's,23.455702931270256,0.06389024794216557,False,Right Foot,Open Play,0,0,0,Normal
+22981,Frida Maanum,Norway Women's,26.5,0.0661661877592936,False,Right Foot,Open Play,1,0,2,Normal
+22981,Min-Ji Yeo,Korea Republic Women's,7.280109889280515,0.05828932322759642,False,Head,Open Play,0,0,2,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.75419156425836,0.06866224658602298,False,Right Foot,Free Kick,0,0,0,Normal
-27.12673957555534,0.0645283406645751,False,Right Foot,Open Play,1,0,1,Volley
-23.63493177481162,0.06623207196135865,False,Right Foot,Open Play,0,1,4,Normal
-24.34789518623735,0.055880885735147164,False,Left Foot,Open Play,0,0,1,Normal
-18.645374761586318,0.06417950350368674,False,Right Foot,Open Play,0,0,2,Normal
-25.93318337574467,0.059751739648355964,False,Left Foot,Open Play,1,0,1,Volley
-13.167383946707105,0.052648405704958344,False,Right Foot,Open Play,0,0,3,Normal
-17.431580536486067,0.06391399585212867,True,Right Foot,Open Play,0,0,4,Normal
-16.385664466233887,0.06342282781190459,False,Right Foot,Open Play,0,0,1,Normal
-13.329666162361304,0.06162384312924319,False,Right Foot,Open Play,0,0,2,Normal
-23.499999999999996,0.06786460034596221,False,Right Foot,Open Play,0,0,1,Normal
-19.04337155022712,0.05535649024536074,False,Left Foot,Open Play,1,0,0,Normal
-7.294518489934759,0.058395487673787334,True,Head,Open Play,0,1,4,Normal
-16.21881623300541,0.05552676178637429,False,Left Foot,Open Play,0,0,4,Normal
-16.824089871371942,0.05195258167202594,False,Right Foot,Open Play,0,0,0,Normal
-21.892921230388605,0.06516808625257617,False,Left Foot,Free Kick,0,0,0,Normal
-27.46434051638597,0.07034435737445578,False,Right Foot,Open Play,0,0,1,Normal
-34.95611534481484,0.0724550211825871,False,Left Foot,Open Play,1,0,0,Volley
-40.52085882604168,0.07250131408581646,False,Left Foot,Open Play,0,0,1,Normal
-12.748725426488724,0.05831128188838816,False,Left Foot,Open Play,0,0,3,Normal
-11.980818002123225,0.054441863919822274,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69234,José María Callejón Bueno,Espanyol,24.75419156425836,0.06866224658602298,False,Right Foot,Free Kick,0,0,0,Normal
+69234,Pedro Eliezer Rodríguez Ledesma,Barcelona,27.12673957555534,0.0645283406645751,False,Right Foot,Open Play,1,0,1,Volley
+69234,David Villa Sánchez,Barcelona,23.63493177481162,0.06623207196135865,False,Right Foot,Open Play,0,1,4,Normal
+69234,Pedro Eliezer Rodríguez Ledesma,Barcelona,24.34789518623735,0.055880885735147164,False,Left Foot,Open Play,0,0,1,Normal
+69234,Andrés Iniesta Luján,Barcelona,18.645374761586318,0.06417950350368674,False,Right Foot,Open Play,0,0,2,Normal
+69234,Daniel Alves da Silva,Barcelona,25.93318337574467,0.059751739648355964,False,Left Foot,Open Play,1,0,1,Volley
+69234,Lionel Andrés Messi Cuccittini,Barcelona,13.167383946707105,0.052648405704958344,False,Right Foot,Open Play,0,0,3,Normal
+69234,Andrés Iniesta Luján,Barcelona,17.431580536486067,0.06391399585212867,True,Right Foot,Open Play,0,0,4,Normal
+69234,David Villa Sánchez,Barcelona,16.385664466233887,0.06342282781190459,False,Right Foot,Open Play,0,0,1,Normal
+69234,David Villa Sánchez,Barcelona,13.329666162361304,0.06162384312924319,False,Right Foot,Open Play,0,0,2,Normal
+69234,Pablo Daniel Osvaldo,Espanyol,23.499999999999996,0.06786460034596221,False,Right Foot,Open Play,0,0,1,Normal
+69234,Pedro Eliezer Rodríguez Ledesma,Barcelona,19.04337155022712,0.05535649024536074,False,Left Foot,Open Play,1,0,0,Normal
+69234,Gerard Piqué Bernabéu,Barcelona,7.294518489934759,0.058395487673787334,True,Head,Open Play,0,1,4,Normal
+69234,Pablo Daniel Osvaldo,Espanyol,16.21881623300541,0.05552676178637429,False,Left Foot,Open Play,0,0,4,Normal
+69234,Pablo Daniel Osvaldo,Espanyol,16.824089871371942,0.05195258167202594,False,Right Foot,Open Play,0,0,0,Normal
+69234,Lionel Andrés Messi Cuccittini,Barcelona,21.892921230388605,0.06516808625257617,False,Left Foot,Free Kick,0,0,0,Normal
+69234,David Villa Sánchez,Barcelona,27.46434051638597,0.07034435737445578,False,Right Foot,Open Play,0,0,1,Normal
+69234,Javier Márquez Moreno,Espanyol,34.95611534481484,0.0724550211825871,False,Left Foot,Open Play,1,0,0,Volley
+69234,Javier Márquez Moreno,Espanyol,40.52085882604168,0.07250131408581646,False,Left Foot,Open Play,0,0,1,Normal
+69234,Pedro Eliezer Rodríguez Ledesma,Barcelona,12.748725426488724,0.05831128188838816,False,Left Foot,Open Play,0,0,3,Normal
+69234,Pablo Daniel Osvaldo,Espanyol,11.980818002123225,0.054441863919822274,False,Right Foot,Open Play,1,0,2,Normal

@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.788400922514542,0.05773914227934359,False,Right Foot,Open Play,1,0,1,Normal
-14.808443537387712,0.06097319686834541,False,Right Foot,Open Play,1,0,1,Normal
-22.085742007005337,0.059889764186103575,False,Left Foot,Free Kick,0,0,0,Normal
-26.23833073958784,0.06916295465829111,False,Left Foot,Open Play,0,0,1,Half Volley
-28.827764394763605,0.07178953340181293,False,Left Foot,Open Play,0,0,0,Normal
-23.742156599601476,0.05606842483733194,False,Right Foot,Open Play,0,0,2,Normal
-14.705441169852746,0.05854448777239472,True,Left Foot,Open Play,1,0,2,Volley
-14.873466307488643,0.062431228320767224,False,Left Foot,Open Play,1,0,1,Volley
-19.949185447030167,0.062435476138317486,False,Left Foot,Open Play,0,0,2,Normal
-14.549914089093443,0.06123876052558167,False,Right Foot,Open Play,0,0,2,Normal
-20.44137960119131,0.06384182820987289,False,Left Foot,Open Play,0,0,1,Normal
-7.416872656315469,0.05755235313460945,True,Left Foot,Open Play,1,0,1,Half Volley
-5.738466694161425,0.05755022589801548,False,Head,Open Play,0,1,3,Normal
-9.596353474106714,0.05616094372000087,False,Head,Open Play,0,0,3,Normal
-18.830825791770256,0.0633414950346385,False,Left Foot,Open Play,0,0,1,Normal
-13.157507362718826,0.05812358549021152,False,Head,Open Play,0,1,1,Normal
-12.103718436910208,0.05834010943783947,False,Head,Open Play,0,0,3,Normal
-21.203773249117717,0.06382296854444235,False,Left Foot,Open Play,1,0,1,Lob
-5.907622195096777,0.05702902332380052,True,Head,Open Play,0,1,3,Normal
-14.599315052426261,0.05999909996099064,False,Left Foot,Open Play,1,1,3,Normal
-21.21744565210431,0.05448559027241223,False,Left Foot,Open Play,0,1,1,Normal
-15.781318069160125,0.06291382597237187,False,Right Foot,Open Play,0,0,3,Normal
-19.24266093865399,0.06511339265595878,True,Left Foot,Open Play,1,0,2,Volley
-24.15139747509448,0.06623551531925488,False,Right Foot,Open Play,1,0,1,Normal
-16.086018774078312,0.0560106481387671,True,Right Foot,Open Play,0,0,1,Normal
-11.331813623599716,0.05732828415955811,False,Head,Open Play,0,1,4,Normal
-27.511633902769205,0.06707521479849646,False,Left Foot,Open Play,1,0,0,Normal
-26.400000000000006,0.06611732979063606,False,Right Foot,Open Play,0,0,2,Normal
-9.767292357659821,0.05955366793055443,True,Right Foot,Open Play,1,1,2,Normal
-7.002856560004639,0.05761958799077313,False,Head,Open Play,0,1,3,Normal
-19.50230755577401,0.06299324149354614,False,Left Foot,Open Play,0,0,2,Normal
-28.887713651308573,0.07038981826699536,False,Right Foot,Open Play,0,0,0,Normal
-21.73683509621398,0.0667473197013659,False,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773387,Pedro González López,Barcelona,13.788400922514542,0.05773914227934359,False,Right Foot,Open Play,1,0,1,Normal
+3773387,Pedro González López,Barcelona,14.808443537387712,0.06097319686834541,False,Right Foot,Open Play,1,0,1,Normal
+3773387,Lionel Andrés Messi Cuccittini,Barcelona,22.085742007005337,0.059889764186103575,False,Left Foot,Free Kick,0,0,0,Normal
+3773387,José Luis Morales Nogales,Levante UD,26.23833073958784,0.06916295465829111,False,Left Foot,Open Play,0,0,1,Half Volley
+3773387,Clément Lenglet,Barcelona,28.827764394763605,0.07178953340181293,False,Left Foot,Open Play,0,0,0,Normal
+3773387,José Luis Morales Nogales,Levante UD,23.742156599601476,0.05606842483733194,False,Right Foot,Open Play,0,0,2,Normal
+3773387,Lionel Andrés Messi Cuccittini,Barcelona,14.705441169852746,0.05854448777239472,True,Left Foot,Open Play,1,0,2,Volley
+3773387,Jordi Alba Ramos,Barcelona,14.873466307488643,0.062431228320767224,False,Left Foot,Open Play,1,0,1,Volley
+3773387,Lionel Andrés Messi Cuccittini,Barcelona,19.949185447030167,0.062435476138317486,False,Left Foot,Open Play,0,0,2,Normal
+3773387,Enis Bardhi,Levante UD,14.549914089093443,0.06123876052558167,False,Right Foot,Open Play,0,0,2,Normal
+3773387,Lionel Andrés Messi Cuccittini,Barcelona,20.44137960119131,0.06384182820987289,False,Left Foot,Open Play,0,0,1,Normal
+3773387,Pedro González López,Barcelona,7.416872656315469,0.05755235313460945,True,Left Foot,Open Play,1,0,1,Half Volley
+3773387,Ronald Federico Araújo da Silva,Barcelona,5.738466694161425,0.05755022589801548,False,Head,Open Play,0,1,3,Normal
+3773387,Sergio Busquets i Burgos,Barcelona,9.596353474106714,0.05616094372000087,False,Head,Open Play,0,0,3,Normal
+3773387,Lionel Andrés Messi Cuccittini,Barcelona,18.830825791770256,0.0633414950346385,False,Left Foot,Open Play,0,0,1,Normal
+3773387,Roger Martí Salvador,Levante UD,13.157507362718826,0.05812358549021152,False,Head,Open Play,0,1,1,Normal
+3773387,Gonzalo Julián Melero Manzanares,Levante UD,12.103718436910208,0.05834010943783947,False,Head,Open Play,0,0,3,Normal
+3773387,Frenkie de Jong,Barcelona,21.203773249117717,0.06382296854444235,False,Left Foot,Open Play,1,0,1,Lob
+3773387,Gonzalo Julián Melero Manzanares,Levante UD,5.907622195096777,0.05702902332380052,True,Head,Open Play,0,1,3,Normal
+3773387,Lionel Andrés Messi Cuccittini,Barcelona,14.599315052426261,0.05999909996099064,False,Left Foot,Open Play,1,1,3,Normal
+3773387,Pedro González López,Barcelona,21.21744565210431,0.05448559027241223,False,Left Foot,Open Play,0,1,1,Normal
+3773387,José Luis Morales Nogales,Levante UD,15.781318069160125,0.06291382597237187,False,Right Foot,Open Play,0,0,3,Normal
+3773387,José Luis Morales Nogales,Levante UD,19.24266093865399,0.06511339265595878,True,Left Foot,Open Play,1,0,2,Volley
+3773387,Mickaël Malsa,Levante UD,24.15139747509448,0.06623551531925488,False,Right Foot,Open Play,1,0,1,Normal
+3773387,Ousmane Dembélé,Barcelona,16.086018774078312,0.0560106481387671,True,Right Foot,Open Play,0,0,1,Normal
+3773387,Roberto Suárez Pier,Levante UD,11.331813623599716,0.05732828415955811,False,Head,Open Play,0,1,4,Normal
+3773387,Jorge De Frutos Sebastián,Levante UD,27.511633902769205,0.06707521479849646,False,Left Foot,Open Play,1,0,0,Normal
+3773387,Daniel Gómez Alcón,Levante UD,26.400000000000006,0.06611732979063606,False,Right Foot,Open Play,0,0,2,Normal
+3773387,Sergio León Limones,Levante UD,9.767292357659821,0.05955366793055443,True,Right Foot,Open Play,1,1,2,Normal
+3773387,Gerard Piqué Bernabéu,Barcelona,7.002856560004639,0.05761958799077313,False,Head,Open Play,0,1,3,Normal
+3773387,Jorge Andújar Moreno,Levante UD,19.50230755577401,0.06299324149354614,False,Left Foot,Open Play,0,0,2,Normal
+3773387,Sergio León Limones,Levante UD,28.887713651308573,0.07038981826699536,False,Right Foot,Open Play,0,0,0,Normal
+3773387,Jorge Andújar Moreno,Levante UD,21.73683509621398,0.0667473197013659,False,Right Foot,Open Play,0,0,1,Half Volley

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.066280345788108,0.05788553330043248,True,Left Foot,Open Play,0,0,1,Normal
-25.51960031034969,0.06517924435903223,False,Right Foot,Open Play,0,1,2,Normal
-18.993156662334986,0.055545023070847736,True,Left Foot,Open Play,0,0,2,Normal
-34.98942697444473,0.07201673029801682,False,Right Foot,Open Play,0,0,0,Normal
-7.826237921249264,0.05640979438516044,True,Head,Open Play,0,1,5,Normal
-14.404513181638592,0.0618624219580656,True,Right Foot,Open Play,0,0,1,Normal
-22.52842648744026,0.06560067960536109,False,Right Foot,Open Play,1,0,2,Normal
-20.357062656483617,0.06047877286278707,False,Right Foot,Open Play,0,0,1,Half Volley
-21.969296757065297,0.05941233919963526,False,Left Foot,Open Play,0,0,2,Normal
-21.668410186259635,0.06218200329668771,False,Left Foot,Open Play,0,0,3,Normal
-19.59209024070684,0.0610329520130451,False,Left Foot,Open Play,1,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-28.595978738277168,0.07021374222964916,False,Right Foot,Open Play,0,0,0,Normal
-30.434519874642344,0.06987110306803333,False,Right Foot,Free Kick,0,0,0,Normal
-12.614673994994874,0.06071020210463541,False,Left Foot,Open Play,1,0,0,Normal
-17.43473544393491,0.062366720769520045,False,Right Foot,Open Play,0,0,1,Normal
-10.507616285342742,0.05882976303956097,False,Head,Open Play,0,1,2,Normal
-6.37808748764079,0.05538005329499824,False,Head,Open Play,0,1,2,Normal
-22.31434516180119,0.0661575092913654,False,Right Foot,Open Play,1,0,2,Volley
-24.269528219559604,0.06830091901415504,False,Right Foot,Open Play,0,1,2,Normal
-7.03846574190711,0.05648842604621141,False,Head,Open Play,0,0,4,Normal
-11.71750826754562,0.05818385557282699,False,Head,Open Play,0,1,2,Normal
-21.662179022434465,0.06031989572374366,False,Left Foot,Open Play,0,0,1,Normal
-7.0936591403872855,0.05829860337348083,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913105,Bethany Mead,Arsenal WFC,10.066280345788108,0.05788553330043248,True,Left Foot,Open Play,0,0,1,Normal
+3913105,Jessie Alexandra Fleming,Chelsea FCW,25.51960031034969,0.06517924435903223,False,Right Foot,Open Play,0,1,2,Normal
+3913105,Johanna Rytting-Kaneryd,Chelsea FCW,18.993156662334986,0.055545023070847736,True,Left Foot,Open Play,0,0,2,Normal
+3913105,Carlotte Wubben-Moy,Arsenal WFC,34.98942697444473,0.07201673029801682,False,Right Foot,Open Play,0,0,0,Normal
+3913105,Amanda Ilestedt,Arsenal WFC,7.826237921249264,0.05640979438516044,True,Head,Open Play,0,1,5,Normal
+3913105,Alessia Russo,Arsenal WFC,14.404513181638592,0.0618624219580656,True,Right Foot,Open Play,0,0,1,Normal
+3913105,Erin Cuthbert,Chelsea FCW,22.52842648744026,0.06560067960536109,False,Right Foot,Open Play,1,0,2,Normal
+3913105,Alessia Russo,Arsenal WFC,20.357062656483617,0.06047877286278707,False,Right Foot,Open Play,0,0,1,Half Volley
+3913105,Victoria Pelova,Arsenal WFC,21.969296757065297,0.05941233919963526,False,Left Foot,Open Play,0,0,2,Normal
+3913105,Lauren James,Chelsea FCW,21.668410186259635,0.06218200329668771,False,Left Foot,Open Play,0,0,3,Normal
+3913105,Bethany Mead,Arsenal WFC,19.59209024070684,0.0610329520130451,False,Left Foot,Open Play,1,0,2,Normal
+3913105,Alessia Russo,Arsenal WFC,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3913105,Francesca Kirby,Chelsea FCW,28.595978738277168,0.07021374222964916,False,Right Foot,Open Play,0,0,0,Normal
+3913105,Erin Cuthbert,Chelsea FCW,30.434519874642344,0.06987110306803333,False,Right Foot,Free Kick,0,0,0,Normal
+3913105,Cloé Zoé Eyja Lacasse,Arsenal WFC,12.614673994994874,0.06071020210463541,False,Left Foot,Open Play,1,0,0,Normal
+3913105,Emma Stina Blackstenius,Arsenal WFC,17.43473544393491,0.062366720769520045,False,Right Foot,Open Play,0,0,1,Normal
+3913105,Samantha May Kerr,Chelsea FCW,10.507616285342742,0.05882976303956097,False,Head,Open Play,0,1,2,Normal
+3913105,Samantha May Kerr,Chelsea FCW,6.37808748764079,0.05538005329499824,False,Head,Open Play,0,1,2,Normal
+3913105,Mia Renee Fishel,Chelsea FCW,22.31434516180119,0.0661575092913654,False,Right Foot,Open Play,1,0,2,Volley
+3913105,Jessie Alexandra Fleming,Chelsea FCW,24.269528219559604,0.06830091901415504,False,Right Foot,Open Play,0,1,2,Normal
+3913105,Emma Stina Blackstenius,Arsenal WFC,7.03846574190711,0.05648842604621141,False,Head,Open Play,0,0,4,Normal
+3913105,Mia Renee Fishel,Chelsea FCW,11.71750826754562,0.05818385557282699,False,Head,Open Play,0,1,2,Normal
+3913105,Cloé Zoé Eyja Lacasse,Arsenal WFC,21.662179022434465,0.06031989572374366,False,Left Foot,Open Play,0,0,1,Normal
+3913105,Samantha May Kerr,Chelsea FCW,7.0936591403872855,0.05829860337348083,False,Head,Open Play,0,1,2,Normal

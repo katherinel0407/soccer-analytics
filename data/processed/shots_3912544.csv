@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.390722335683261,0.0548787713118664,False,Head,Open Play,0,0,3,Normal
-21.204952251773634,0.05555361976251149,False,Right Foot,Open Play,0,1,4,Normal
-6.118823416311343,0.05357556921077096,False,Right Foot,Open Play,1,0,3,Volley
-20.006249023742555,0.0656450055763597,False,Left Foot,Open Play,0,1,2,Normal
-18.531055015837605,0.0551365730720535,False,Right Foot,Open Play,0,1,3,Normal
-23.96539171388609,0.06688762137809948,False,Right Foot,Open Play,1,0,1,Half Volley
-16.700299398513792,0.061651289123669725,False,Right Foot,Open Play,0,1,3,Normal
-29.338882050957558,0.0721404899265559,False,Left Foot,Open Play,0,0,2,Normal
-26.04995201531089,0.05824827749591393,False,Left Foot,Open Play,0,0,2,Normal
-13.020752666416794,0.05618077569642362,False,Right Foot,Open Play,1,1,2,Volley
-35.527594908746636,0.07428166259403417,False,Left Foot,Open Play,0,1,1,Normal
-24.66171121394458,0.0684991059368316,False,Left Foot,Open Play,0,0,1,Normal
-7.516648189186452,0.058531803953026894,False,Head,Open Play,0,1,5,Normal
-6.527633568147036,0.05754734885453566,False,Head,Open Play,0,1,7,Normal
-11.7630778285277,0.05977851331667632,False,Left Foot,Open Play,0,1,2,Normal
-26.675082005497185,0.06518128422178222,False,Left Foot,Open Play,0,0,1,Normal
-17.84432682955566,0.052348133948901386,False,Right Foot,Open Play,0,0,1,Normal
-23.88828164602887,0.06298138439898518,False,Right Foot,Open Play,1,0,2,Normal
-8.296987405076617,0.05722308185749087,False,Head,Open Play,0,1,6,Normal
-21.42825237857722,0.06647279528258376,False,Left Foot,Open Play,1,0,2,Normal
-13.57645019878171,0.0551631227112711,True,Right Foot,Open Play,1,1,2,Normal
-7.823042886243176,0.05767747034851155,False,Right Foot,Open Play,1,0,1,Volley
-31.86863661972379,0.07348161915328273,False,Right Foot,Open Play,0,1,2,Normal
-17.191858538273284,0.05749165391255257,False,Right Foot,Open Play,0,0,3,Normal
-16.747537132366652,0.0543270194382668,True,Right Foot,Open Play,1,1,1,Normal
-24.785883078881817,0.05284652810591436,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912544,Pauline Louise Hammarlund,Fiorentina W,12.390722335683261,0.0548787713118664,False,Head,Open Play,0,0,3,Normal
+3912544,Miriam Chiara Longo,Fiorentina W,21.204952251773634,0.05555361976251149,False,Right Foot,Open Play,0,1,4,Normal
+3912544,Pauline Louise Hammarlund,Fiorentina W,6.118823416311343,0.05357556921077096,False,Right Foot,Open Play,1,0,3,Volley
+3912544,Elisabetta Oliviero,Sampdoria W,20.006249023742555,0.0656450055763597,False,Left Foot,Open Play,0,1,2,Normal
+3912544,Miriam Chiara Longo,Fiorentina W,18.531055015837605,0.0551365730720535,False,Right Foot,Open Play,0,1,3,Normal
+3912544,Michela Giordano,Sampdoria W,23.96539171388609,0.06688762137809948,False,Right Foot,Open Play,1,0,1,Half Volley
+3912544,Michela Giordano,Sampdoria W,16.700299398513792,0.061651289123669725,False,Right Foot,Open Play,0,1,3,Normal
+3912544,Eva Schatzer,Sampdoria W,29.338882050957558,0.0721404899265559,False,Left Foot,Open Play,0,0,2,Normal
+3912544,Eva Schatzer,Sampdoria W,26.04995201531089,0.05824827749591393,False,Left Foot,Open Play,0,0,2,Normal
+3912544,Rachel Cuschieri,Sampdoria W,13.020752666416794,0.05618077569642362,False,Right Foot,Open Play,1,1,2,Volley
+3912544,Eva Schatzer,Sampdoria W,35.527594908746636,0.07428166259403417,False,Left Foot,Open Play,0,1,1,Normal
+3912544,Michela Giordano,Sampdoria W,24.66171121394458,0.0684991059368316,False,Left Foot,Open Play,0,0,1,Normal
+3912544,Pauline Louise Hammarlund,Fiorentina W,7.516648189186452,0.058531803953026894,False,Head,Open Play,0,1,5,Normal
+3912544,Michela Catena,Fiorentina W,6.527633568147036,0.05754734885453566,False,Head,Open Play,0,1,7,Normal
+3912544,Pauline Louise Hammarlund,Fiorentina W,11.7630778285277,0.05977851331667632,False,Left Foot,Open Play,0,1,2,Normal
+3912544,Alice Benoit,Sampdoria W,26.675082005497185,0.06518128422178222,False,Left Foot,Open Play,0,0,1,Normal
+3912544,Sara Baldi,Sampdoria W,17.84432682955566,0.052348133948901386,False,Right Foot,Open Play,0,0,1,Normal
+3912544,Alice Benoit,Sampdoria W,23.88828164602887,0.06298138439898518,False,Right Foot,Open Play,1,0,2,Normal
+3912544,Tatiely Cristina Sena das Neves,Sampdoria W,8.296987405076617,0.05722308185749087,False,Head,Open Play,0,1,6,Normal
+3912544,Eva Schatzer,Sampdoria W,21.42825237857722,0.06647279528258376,False,Left Foot,Open Play,1,0,2,Normal
+3912544,Alexandra Jóhannsdóttir,Fiorentina W,13.57645019878171,0.0551631227112711,True,Right Foot,Open Play,1,1,2,Normal
+3912544,Victoria Dellaperuta,Sampdoria W,7.823042886243176,0.05767747034851155,False,Right Foot,Open Play,1,0,1,Volley
+3912544,Elisabetta Oliviero,Sampdoria W,31.86863661972379,0.07348161915328273,False,Right Foot,Open Play,0,1,2,Normal
+3912544,Elisabetta Oliviero,Sampdoria W,17.191858538273284,0.05749165391255257,False,Right Foot,Open Play,0,0,3,Normal
+3912544,Victoria Dellaperuta,Sampdoria W,16.747537132366652,0.0543270194382668,True,Right Foot,Open Play,1,1,1,Normal
+3912544,Victoria Dellaperuta,Sampdoria W,24.785883078881817,0.05284652810591436,False,Right Foot,Open Play,1,0,0,Normal

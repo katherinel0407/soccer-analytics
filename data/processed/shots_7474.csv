@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.152946437965905,0.05926864524510461,False,Left Foot,Open Play,0,0,2,Normal
-10.198039027185569,0.05825438839734427,False,Left Foot,Open Play,0,0,1,Normal
-21.400934559032695,0.06536981962479908,False,Left Foot,Open Play,0,0,1,Normal
-14.7648230602334,0.05309371146959412,False,Head,Open Play,0,1,0,Normal
-21.095023109728988,0.06443219138286846,False,Right Foot,Open Play,0,0,1,Lob
-25.553864678361276,0.05778904231489197,False,Right Foot,Open Play,0,0,0,Normal
-24.08318915758459,0.06590854278722184,False,Right Foot,Open Play,0,0,2,Normal
-22.20360331117452,0.05650511766052872,False,Right Foot,Open Play,0,0,1,Normal
-19.4164878389476,0.06528888985423507,False,Right Foot,Open Play,0,0,2,Normal
-30.23243291566195,0.056657544938809014,False,Right Foot,Open Play,0,0,1,Normal
-10.816653826391969,0.06027626139884341,True,Head,Open Play,0,1,3,Normal
-4.242640687119285,0.05686534725156365,False,Head,Open Play,0,1,2,Normal
-8.246211251235321,0.058599252830825864,False,Head,Open Play,0,0,4,Normal
-29.832867780352597,0.0710725815057085,False,Right Foot,Open Play,0,1,0,Normal
-7.0710678118654755,0.05710805448883479,False,Head,Open Play,0,0,4,Normal
-24.020824298928627,0.06543664632917669,False,Right Foot,Open Play,1,0,1,Normal
-8.06225774829855,0.05827886915945493,False,Head,Open Play,0,1,4,Normal
-12.806248474865697,0.06133888858289386,False,Right Foot,Open Play,1,0,0,Half Volley
-28.319604517012593,0.0707301897529564,False,Left Foot,Open Play,1,0,1,Normal
-7.615773105863909,0.0565764903339905,False,Right Foot,Open Play,1,0,1,Normal
-14.212670403551895,0.06171667333254851,False,Right Foot,Open Play,0,0,1,Normal
-14.422205101855956,0.053762469761102494,False,Right Foot,Open Play,0,1,1,Normal
-9.486832980505138,0.057332220024372375,True,Head,Open Play,0,0,1,Diving Header
-16.55294535724685,0.05807115995296915,False,Right Foot,Open Play,0,0,2,Normal
-21.93171219946131,0.06623248097786057,False,Right Foot,Open Play,0,1,2,Normal
-11.40175425099138,0.05810344098499332,False,Left Foot,Open Play,1,0,1,Half Volley
-14.212670403551895,0.06211537532525958,False,Head,Open Play,0,0,2,Normal
-4.47213595499958,0.056977461643308205,False,Right Foot,Open Play,0,0,6,Volley
-32.202484376209235,0.0594919068515935,False,Right Foot,Open Play,0,0,0,Normal
-7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,0,4,Diving Header
-22.02271554554524,0.06447006417146679,False,Right Foot,Open Play,1,0,2,Volley
-14.866068747318506,0.05850375134067572,False,Right Foot,Open Play,0,1,2,Volley
-27.892651361962706,0.06269181297722,False,Right Foot,Open Play,1,0,0,Half Volley
-12.649110640673518,0.05812118955557693,False,Head,Open Play,0,0,1,Normal
-28.0178514522438,0.05659942750677214,False,Right Foot,Free Kick,0,0,0,Normal
-16.1245154965971,0.06327339620956124,False,Left Foot,Open Play,1,0,2,Volley
-11.180339887498949,0.056997619089979114,False,Right Foot,Open Play,0,1,3,Half Volley
-17.46424919657298,0.05844114956533377,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7474,Samantha May Kerr,Chicago Red Stars,13.152946437965905,0.05926864524510461,False,Left Foot,Open Play,0,0,2,Normal
+7474,Ashley Hatch,Washington Spirit,10.198039027185569,0.05825438839734427,False,Left Foot,Open Play,0,0,1,Normal
+7474,Samantha May Kerr,Chicago Red Stars,21.400934559032695,0.06536981962479908,False,Left Foot,Open Play,0,0,1,Normal
+7474,Ashley Hatch,Washington Spirit,14.7648230602334,0.05309371146959412,False,Head,Open Play,0,1,0,Normal
+7474,Samantha May Kerr,Chicago Red Stars,21.095023109728988,0.06443219138286846,False,Right Foot,Open Play,0,0,1,Lob
+7474,Michele Vasconcelos,Chicago Red Stars,25.553864678361276,0.05778904231489197,False,Right Foot,Open Play,0,0,0,Normal
+7474,Yuki Nagasato,Chicago Red Stars,24.08318915758459,0.06590854278722184,False,Right Foot,Open Play,0,0,2,Normal
+7474,Samantha May Kerr,Chicago Red Stars,22.20360331117452,0.05650511766052872,False,Right Foot,Open Play,0,0,1,Normal
+7474,Michele Vasconcelos,Chicago Red Stars,19.4164878389476,0.06528888985423507,False,Right Foot,Open Play,0,0,2,Normal
+7474,Alyssa Mautz,Chicago Red Stars,30.23243291566195,0.056657544938809014,False,Right Foot,Open Play,0,0,1,Normal
+7474,Casey Marie Krueger,Chicago Red Stars,10.816653826391969,0.06027626139884341,True,Head,Open Play,0,1,3,Normal
+7474,Yuki Nagasato,Chicago Red Stars,4.242640687119285,0.05686534725156365,False,Head,Open Play,0,1,2,Normal
+7474,Ashley Hatch,Washington Spirit,8.246211251235321,0.058599252830825864,False,Head,Open Play,0,0,4,Normal
+7474,Ashley Hatch,Washington Spirit,29.832867780352597,0.0710725815057085,False,Right Foot,Open Play,0,1,0,Normal
+7474,Ashley Hatch,Washington Spirit,7.0710678118654755,0.05710805448883479,False,Head,Open Play,0,0,4,Normal
+7474,Andi Sullivan,Washington Spirit,24.020824298928627,0.06543664632917669,False,Right Foot,Open Play,1,0,1,Normal
+7474,Ashley Hatch,Washington Spirit,8.06225774829855,0.05827886915945493,False,Head,Open Play,0,1,4,Normal
+7474,Francisca Ordega,Washington Spirit,12.806248474865697,0.06133888858289386,False,Right Foot,Open Play,1,0,0,Half Volley
+7474,Caprice Dydasco,Washington Spirit,28.319604517012593,0.0707301897529564,False,Left Foot,Open Play,1,0,1,Normal
+7474,Ashley Hatch,Washington Spirit,7.615773105863909,0.0565764903339905,False,Right Foot,Open Play,1,0,1,Normal
+7474,Samantha May Kerr,Chicago Red Stars,14.212670403551895,0.06171667333254851,False,Right Foot,Open Play,0,0,1,Normal
+7474,Alyssa Mautz,Chicago Red Stars,14.422205101855956,0.053762469761102494,False,Right Foot,Open Play,0,1,1,Normal
+7474,Yuki Nagasato,Chicago Red Stars,9.486832980505138,0.057332220024372375,True,Head,Open Play,0,0,1,Diving Header
+7474,Michele Vasconcelos,Chicago Red Stars,16.55294535724685,0.05807115995296915,False,Right Foot,Open Play,0,0,2,Normal
+7474,Andi Sullivan,Washington Spirit,21.93171219946131,0.06623248097786057,False,Right Foot,Open Play,0,1,2,Normal
+7474,Tori Huster,Washington Spirit,11.40175425099138,0.05810344098499332,False,Left Foot,Open Play,1,0,1,Half Volley
+7474,Ashley Hatch,Washington Spirit,14.212670403551895,0.06211537532525958,False,Head,Open Play,0,0,2,Normal
+7474,Francisca Ordega,Washington Spirit,4.47213595499958,0.056977461643308205,False,Right Foot,Open Play,0,0,6,Volley
+7474,Taylor Smith,Washington Spirit,32.202484376209235,0.0594919068515935,False,Right Foot,Open Play,0,0,0,Normal
+7474,Samantha May Kerr,Chicago Red Stars,7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,0,4,Diving Header
+7474,Francisca Ordega,Washington Spirit,22.02271554554524,0.06447006417146679,False,Right Foot,Open Play,1,0,2,Volley
+7474,Samantha May Kerr,Chicago Red Stars,14.866068747318506,0.05850375134067572,False,Right Foot,Open Play,0,1,2,Volley
+7474,Caprice Dydasco,Washington Spirit,27.892651361962706,0.06269181297722,False,Right Foot,Open Play,1,0,0,Half Volley
+7474,Samantha May Kerr,Chicago Red Stars,12.649110640673518,0.05812118955557693,False,Head,Open Play,0,0,1,Normal
+7474,Yuki Nagasato,Chicago Red Stars,28.0178514522438,0.05659942750677214,False,Right Foot,Free Kick,0,0,0,Normal
+7474,Estelle Johnson,Washington Spirit,16.1245154965971,0.06327339620956124,False,Left Foot,Open Play,1,0,2,Volley
+7474,Joanna Lohman,Washington Spirit,11.180339887498949,0.056997619089979114,False,Right Foot,Open Play,0,1,3,Half Volley
+7474,Brooke Elby,Chicago Red Stars,17.46424919657298,0.05844114956533377,False,Right Foot,Open Play,0,1,1,Normal

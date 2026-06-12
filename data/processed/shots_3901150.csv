@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.50471656139714,0.06931259917448132,False,Left Foot,Open Play,0,1,2,Normal
-13.02497600765544,0.061017761618659246,False,Right Foot,Open Play,1,0,1,Half Volley
-32.25414702018952,0.05972733922072903,False,Left Foot,Free Kick,0,0,0,Normal
-23.54909764725604,0.06004255996645039,False,Left Foot,Open Play,0,0,2,Normal
-9.33434518324665,0.058206825667204434,False,Head,Open Play,0,0,3,Normal
-31.68627463113958,0.06224465264831596,False,Left Foot,Open Play,0,0,1,Normal
-35.066365651432996,0.07379070412319381,False,Left Foot,Open Play,0,1,1,Normal
-27.03849108215915,0.06522593502262579,False,Right Foot,Free Kick,0,0,0,Normal
-7.106335201775954,0.05696702410338964,False,Right Foot,Open Play,0,0,5,Overhead Kick
-18.309560344257317,0.0614369957802078,False,Right Foot,Open Play,1,0,1,Volley
-33.374391380218455,0.0747963091537689,False,Right Foot,Open Play,0,0,0,Normal
-20.53728316988398,0.06574520328318638,False,Left Foot,Open Play,0,0,2,Normal
-20.032473636573197,0.0640301436335455,False,Right Foot,Open Play,1,0,1,Normal
-21.800917411888886,0.06383201357531264,False,Right Foot,Open Play,1,0,0,Volley
-19.887936041731432,0.06560053724648526,False,Left Foot,Open Play,1,1,1,Normal
-30.14962686336267,0.057630792636845105,False,Right Foot,Open Play,0,0,1,Normal
-25.672553437474814,0.06944104689072711,False,Left Foot,Open Play,1,0,0,Normal
-32.12366728753117,0.06568198104638637,False,Right Foot,Open Play,1,0,1,Half Volley
-17.866449003649265,0.05394828060903252,False,Right Foot,Open Play,0,0,2,Normal
-30.19155511065967,0.07065205962789184,False,Right Foot,Open Play,0,0,2,Normal
-26.320524310887127,0.056968760332570964,False,Right Foot,Open Play,1,0,0,Half Volley
-8.9,0.05919424612114163,True,Left Foot,Open Play,1,0,1,Normal
-12.349089035228467,0.059316984523379905,True,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901150,Oussama Tannane,Saint-Étienne,26.50471656139714,0.06931259917448132,False,Left Foot,Open Play,0,1,2,Normal
+3901150,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,13.02497600765544,0.061017761618659246,False,Right Foot,Open Play,1,0,1,Half Volley
+3901150,Oussama Tannane,Saint-Étienne,32.25414702018952,0.05972733922072903,False,Left Foot,Free Kick,0,0,0,Normal
+3901150,Florentin Pogba,Saint-Étienne,23.54909764725604,0.06004255996645039,False,Left Foot,Open Play,0,0,2,Normal
+3901150,Steven Fletcher,Olympique de Marseille,9.33434518324665,0.058206825667204434,False,Head,Open Play,0,0,3,Normal
+3901150,Florian Thauvin,Olympique de Marseille,31.68627463113958,0.06224465264831596,False,Left Foot,Open Play,0,0,1,Normal
+3901150,Jean-Christophe Bahebeck,Saint-Étienne,35.066365651432996,0.07379070412319381,False,Left Foot,Open Play,0,1,1,Normal
+3901150,Jean-Christophe Bahebeck,Saint-Étienne,27.03849108215915,0.06522593502262579,False,Right Foot,Free Kick,0,0,0,Normal
+3901150,Rolando Jorge Pires da Fonseca,Olympique de Marseille,7.106335201775954,0.05696702410338964,False,Right Foot,Open Play,0,0,5,Overhead Kick
+3901150,Lassana Diarra,Olympique de Marseille,18.309560344257317,0.0614369957802078,False,Right Foot,Open Play,1,0,1,Volley
+3901150,Vincent Pajot,Saint-Étienne,33.374391380218455,0.0747963091537689,False,Right Foot,Open Play,0,0,0,Normal
+3901150,Rémy Cabella,Olympique de Marseille,20.53728316988398,0.06574520328318638,False,Left Foot,Open Play,0,0,2,Normal
+3901150,Kévin Monnet-Paquet,Saint-Étienne,20.032473636573197,0.0640301436335455,False,Right Foot,Open Play,1,0,1,Normal
+3901150,Fabien Lemoine,Saint-Étienne,21.800917411888886,0.06383201357531264,False,Right Foot,Open Play,1,0,0,Volley
+3901150,Benoît Assou-Ekotto,Saint-Étienne,19.887936041731432,0.06560053724648526,False,Left Foot,Open Play,1,1,1,Normal
+3901150,Fabien Lemoine,Saint-Étienne,30.14962686336267,0.057630792636845105,False,Right Foot,Open Play,0,0,1,Normal
+3901150,Benoît Assou-Ekotto,Saint-Étienne,25.672553437474814,0.06944104689072711,False,Left Foot,Open Play,1,0,0,Normal
+3901150,Kévin Théophile-Catherine,Saint-Étienne,32.12366728753117,0.06568198104638637,False,Right Foot,Open Play,1,0,1,Half Volley
+3901150,Kévin Monnet-Paquet,Saint-Étienne,17.866449003649265,0.05394828060903252,False,Right Foot,Open Play,0,0,2,Normal
+3901150,Renaud Cohade,Saint-Étienne,30.19155511065967,0.07065205962789184,False,Right Foot,Open Play,0,0,2,Normal
+3901150,Mauricio Aníbal Isla Isla,Olympique de Marseille,26.320524310887127,0.056968760332570964,False,Right Foot,Open Play,1,0,0,Half Volley
+3901150,Kévin Monnet-Paquet,Saint-Étienne,8.9,0.05919424612114163,True,Left Foot,Open Play,1,0,1,Normal
+3901150,Michy Batshuayi Tunga,Olympique de Marseille,12.349089035228467,0.059316984523379905,True,Head,Open Play,0,0,4,Normal

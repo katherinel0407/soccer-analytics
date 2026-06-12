@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.034147232774902,0.05993104257499116,False,Left Foot,Open Play,0,1,2,Normal
-13.39589489358587,0.06137387732241043,False,Left Foot,Open Play,0,1,2,Half Volley
-15.981239000778382,0.06291446342570373,False,Left Foot,Open Play,0,0,2,Normal
-15.179591562357665,0.051242766600301,False,Right Foot,Open Play,1,0,2,Normal
-6.140032573203507,0.05658594302271268,False,Head,Open Play,0,0,5,Normal
-7.799999999999997,0.05787380062661553,False,Left Foot,Open Play,0,1,4,Normal
-20.480478510034864,0.05622725962967063,False,Right Foot,Open Play,0,1,3,Normal
-22.00477220968215,0.05196320451377564,False,Right Foot,Open Play,0,0,2,Normal
-15.96652748721525,0.05319639949508354,True,Right Foot,Open Play,1,0,1,Half Volley
-19.632880583347923,0.06427742399107814,False,Right Foot,Open Play,0,0,1,Volley
-31.533632838605836,0.07027956881930034,False,Right Foot,Open Play,0,0,1,Normal
-16.144968256394932,0.06321945897450579,False,Left Foot,Open Play,0,0,2,Normal
-6.670832032063167,0.05687875500469204,True,Right Foot,Open Play,1,0,2,Half Volley
-14.085808461000738,0.06179372093193291,False,Left Foot,Open Play,0,1,2,Normal
-18.300273222004087,0.062281124701982785,False,Right Foot,Open Play,1,0,3,Normal
-26.1725046566048,0.05377317501842974,False,Left Foot,Open Play,1,0,0,Half Volley
-28.1852798460473,0.0610928067133861,False,Left Foot,Open Play,1,0,0,Normal
-13.792751719653332,0.06191165131589462,False,Head,Open Play,0,0,3,Normal
-14.812157169028424,0.053812677822715246,False,Right Foot,Open Play,1,0,0,Normal
-6.887670143089028,0.05627849678788653,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890520,Waldemar Anton,Hannover 96,30.034147232774902,0.05993104257499116,False,Left Foot,Open Play,0,1,2,Normal
+3890520,Hiroshi Kiyotake,Hannover 96,13.39589489358587,0.06137387732241043,False,Left Foot,Open Play,0,1,2,Half Volley
+3890520,Fabian Johnson,Borussia Mönchengladbach,15.981239000778382,0.06291446342570373,False,Left Foot,Open Play,0,0,2,Normal
+3890520,Thorgan Hazard,Borussia Mönchengladbach,15.179591562357665,0.051242766600301,False,Right Foot,Open Play,1,0,2,Normal
+3890520,Andreas Christensen,Borussia Mönchengladbach,6.140032573203507,0.05658594302271268,False,Head,Open Play,0,0,5,Normal
+3890520,Noah-Joel Sarenren-Bazee,Hannover 96,7.799999999999997,0.05787380062661553,False,Left Foot,Open Play,0,1,4,Normal
+3890520,Noah-Joel Sarenren-Bazee,Hannover 96,20.480478510034864,0.05622725962967063,False,Right Foot,Open Play,0,1,3,Normal
+3890520,Noah-Joel Sarenren-Bazee,Hannover 96,22.00477220968215,0.05196320451377564,False,Right Foot,Open Play,0,0,2,Normal
+3890520,Waldemar Anton,Hannover 96,15.96652748721525,0.05319639949508354,True,Right Foot,Open Play,1,0,1,Half Volley
+3890520,Kenan Karaman,Hannover 96,19.632880583347923,0.06427742399107814,False,Right Foot,Open Play,0,0,1,Volley
+3890520,Artur Sobiech,Hannover 96,31.533632838605836,0.07027956881930034,False,Right Foot,Open Play,0,0,1,Normal
+3890520,Kenan Karaman,Hannover 96,16.144968256394932,0.06321945897450579,False,Left Foot,Open Play,0,0,2,Normal
+3890520,Artur Sobiech,Hannover 96,6.670832032063167,0.05687875500469204,True,Right Foot,Open Play,1,0,2,Half Volley
+3890520,Lars Edi Stindl,Borussia Mönchengladbach,14.085808461000738,0.06179372093193291,False,Left Foot,Open Play,0,1,2,Normal
+3890520,Raffael Caetano de Araújo,Borussia Mönchengladbach,18.300273222004087,0.062281124701982785,False,Right Foot,Open Play,1,0,3,Normal
+3890520,Fabian Johnson,Borussia Mönchengladbach,26.1725046566048,0.05377317501842974,False,Left Foot,Open Play,1,0,0,Half Volley
+3890520,Miiko Martín Albornoz Inola,Hannover 96,28.1852798460473,0.0610928067133861,False,Left Foot,Open Play,1,0,0,Normal
+3890520,Raffael Caetano de Araújo,Borussia Mönchengladbach,13.792751719653332,0.06191165131589462,False,Head,Open Play,0,0,3,Normal
+3890520,Kenan Karaman,Hannover 96,14.812157169028424,0.053812677822715246,False,Right Foot,Open Play,1,0,0,Normal
+3890520,Patrick Herrmann,Borussia Mönchengladbach,6.887670143089028,0.05627849678788653,False,Head,Open Play,0,0,4,Normal

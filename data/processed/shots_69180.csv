@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.346365056704284,0.06008249507523703,False,Left Foot,Open Play,0,0,1,Half Volley
-16.31103920662322,0.06338912201727949,False,Left Foot,Open Play,1,0,1,Half Volley
-33.15674893592554,0.04956686324613634,False,Right Foot,Open Play,1,0,0,Normal
-30.18029158242179,0.06671348464311094,False,Right Foot,Open Play,0,0,1,Normal
-28.32101693089427,0.07122459956940394,False,Left Foot,Open Play,1,0,0,Normal
-14.623952953972466,0.0529079589465331,False,Right Foot,Open Play,1,1,1,Normal
-13.483693855913526,0.059620754236104086,False,Head,Open Play,0,0,1,Normal
-35.59283635789651,0.07603794321851645,False,Right Foot,Open Play,0,0,1,Normal
-36.28567210346254,0.07750967019228774,False,Right Foot,Free Kick,0,0,0,Normal
-11.81905241548577,0.060608294131942964,False,Left Foot,Open Play,1,0,0,Volley
-26.62705391138869,0.06559694863891058,False,Right Foot,Open Play,0,0,1,Normal
-13.679546776117984,0.06129826998467808,False,Right Foot,Open Play,0,0,1,Lob
-23.741314201197874,0.0521537775294377,False,Left Foot,Open Play,0,0,1,Normal
-30.560431934120306,0.07257427465035227,False,Right Foot,Open Play,0,0,1,Normal
-19.483326204732094,0.0620410210623248,False,Right Foot,Open Play,1,0,1,Normal
-31.316609011832686,0.06694402347863716,False,Right Foot,Open Play,0,0,1,Normal
-26.882894189428338,0.05862796856040721,False,Left Foot,Open Play,0,0,1,Normal
-31.1353496848839,0.07005739042937598,False,Right Foot,Free Kick,0,0,0,Normal
-16.12978611141511,0.059490271528542735,False,Right Foot,Open Play,0,0,2,Normal
-29.925240182828936,0.06523011601231515,False,Right Foot,Open Play,1,0,0,Normal
-19.831288409984865,0.054252231132714906,False,Right Foot,Open Play,0,0,2,Normal
-24.960969532452054,0.05632336387140309,False,Right Foot,Open Play,1,0,1,Normal
-29.662771279838303,0.07165039237646598,False,Right Foot,Open Play,0,0,3,Normal
-22.826738707051422,0.05708794671013806,False,Right Foot,Open Play,0,1,2,Normal
-20.972362766269327,0.06626959415289008,False,Right Foot,Open Play,0,0,2,Normal
-15.164761785138602,0.056011348834787957,False,Left Foot,Open Play,1,0,3,Normal
-22.105429197371397,0.05896547032578093,False,Left Foot,Open Play,0,0,0,Half Volley
-17.031735084835013,0.06276114175097272,False,Left Foot,Open Play,0,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69180,Óscar Serrano Rodriguez,Racing Santander,11.346365056704284,0.06008249507523703,False,Left Foot,Open Play,0,0,1,Half Volley
+69180,Pedro Manuel Munitis Álvarez,Racing Santander,16.31103920662322,0.06338912201727949,False,Left Foot,Open Play,1,0,1,Half Volley
+69180,Samuel Eto''o Fils,Barcelona,33.15674893592554,0.04956686324613634,False,Right Foot,Open Play,1,0,0,Normal
+69180,Aldo Pedro Duscher,Racing Santander,30.18029158242179,0.06671348464311094,False,Right Foot,Open Play,0,0,1,Normal
+69180,Óscar Serrano Rodriguez,Racing Santander,28.32101693089427,0.07122459956940394,False,Left Foot,Open Play,1,0,0,Normal
+69180,Gonzalo Colsa Albendea,Racing Santander,14.623952953972466,0.0529079589465331,False,Right Foot,Open Play,1,1,1,Normal
+69180,Pedro Manuel Munitis Álvarez,Racing Santander,13.483693855913526,0.059620754236104086,False,Head,Open Play,0,0,1,Normal
+69180,Aldo Pedro Duscher,Racing Santander,35.59283635789651,0.07603794321851645,False,Right Foot,Open Play,0,0,1,Normal
+69180,Ronaldo de Assis Moreira,Barcelona,36.28567210346254,0.07750967019228774,False,Right Foot,Free Kick,0,0,0,Normal
+69180,Oleguer Presas Renom,Barcelona,11.81905241548577,0.060608294131942964,False,Left Foot,Open Play,1,0,0,Volley
+69180,Iván Bolado Palacios,Racing Santander,26.62705391138869,0.06559694863891058,False,Right Foot,Open Play,0,0,1,Normal
+69180,Xavier Hernández Creus,Barcelona,13.679546776117984,0.06129826998467808,False,Right Foot,Open Play,0,0,1,Lob
+69180,Lionel Andrés Messi Cuccittini,Barcelona,23.741314201197874,0.0521537775294377,False,Left Foot,Open Play,0,0,1,Normal
+69180,Andrés Iniesta Luján,Barcelona,30.560431934120306,0.07257427465035227,False,Right Foot,Open Play,0,0,1,Normal
+69180,Andrés Iniesta Luján,Barcelona,19.483326204732094,0.0620410210623248,False,Right Foot,Open Play,1,0,1,Normal
+69180,Xavier Hernández Creus,Barcelona,31.316609011832686,0.06694402347863716,False,Right Foot,Open Play,0,0,1,Normal
+69180,Óscar Serrano Rodriguez,Racing Santander,26.882894189428338,0.05862796856040721,False,Left Foot,Open Play,0,0,1,Normal
+69180,Ronaldo de Assis Moreira,Barcelona,31.1353496848839,0.07005739042937598,False,Right Foot,Free Kick,0,0,0,Normal
+69180,Ebi Smolarek,Racing Santander,16.12978611141511,0.059490271528542735,False,Right Foot,Open Play,0,0,2,Normal
+69180,Gonzalo Colsa Albendea,Racing Santander,29.925240182828936,0.06523011601231515,False,Right Foot,Open Play,1,0,0,Normal
+69180,Xavier Hernández Creus,Barcelona,19.831288409984865,0.054252231132714906,False,Right Foot,Open Play,0,0,2,Normal
+69180,Oleguer Presas Renom,Barcelona,24.960969532452054,0.05632336387140309,False,Right Foot,Open Play,1,0,1,Normal
+69180,Jorge López Montaña,Racing Santander,29.662771279838303,0.07165039237646598,False,Right Foot,Open Play,0,0,3,Normal
+69180,Anderson Luís de Souza,Barcelona,22.826738707051422,0.05708794671013806,False,Right Foot,Open Play,0,1,2,Normal
+69180,Thierry Henry,Barcelona,20.972362766269327,0.06626959415289008,False,Right Foot,Open Play,0,0,2,Normal
+69180,Pedro Manuel Munitis Álvarez,Racing Santander,15.164761785138602,0.056011348834787957,False,Left Foot,Open Play,1,0,3,Normal
+69180,Ezequiel Marcelo Garay,Racing Santander,22.105429197371397,0.05896547032578093,False,Left Foot,Open Play,0,0,0,Half Volley
+69180,Anderson Luís de Souza,Barcelona,17.031735084835013,0.06276114175097272,False,Left Foot,Open Play,0,0,1,Volley

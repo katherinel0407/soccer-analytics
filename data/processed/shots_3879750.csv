@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.439449619801348,0.06623305072478752,False,Left Foot,Open Play,0,1,2,Normal
-22.07374005464412,0.055623550565903145,False,Right Foot,Open Play,1,1,1,Half Volley
-30.67572330035594,0.056663919389971895,False,Left Foot,Free Kick,0,0,0,Normal
-28.402288640178273,0.07143225762315805,False,Right Foot,Open Play,0,1,1,Half Volley
-9.042676594902641,0.05877575483849348,False,Head,Open Play,0,0,1,Normal
-10.09752444909147,0.0592386910676838,False,Head,Open Play,0,1,4,Normal
-28.08789774974268,0.04967678407446883,False,Left Foot,Free Kick,0,0,0,Normal
-19.57268504830137,0.06539039921647781,False,Left Foot,Open Play,1,0,2,Half Volley
-20.25487595617411,0.054216732024797584,False,Left Foot,Open Play,0,0,2,Normal
-7.871467461661771,0.05637634257542386,False,Right Foot,Open Play,1,1,2,Normal
-26.630809225406576,0.062423886790820546,False,Left Foot,Open Play,0,1,1,Volley
-18.71095935541521,0.05426899653233753,False,Left Foot,Open Play,0,1,1,Normal
-17.875681805178786,0.06365433126699738,False,Right Foot,Open Play,1,0,1,Half Volley
-26.015572259706296,0.06968628697569762,False,Right Foot,Open Play,0,1,2,Normal
-33.26048706799105,0.05540289263498251,False,Right Foot,Open Play,0,0,1,Normal
-29.674399741191053,0.06653304766920075,False,Right Foot,Open Play,1,0,1,Normal
-22.674214429611443,0.06741688724578652,False,Left Foot,Open Play,1,1,0,Normal
-19.23798326228609,0.06364735595637482,False,Right Foot,Open Play,1,0,1,Volley
-27.241512439657242,0.06853107523327095,False,Left Foot,Open Play,0,1,2,Half Volley
-13.094273557551789,0.058352109579305825,True,Head,Open Play,0,0,2,Normal
-17.79241411388573,0.05863244551603424,False,Right Foot,Open Play,0,0,2,Normal
-11.882760622010355,0.0590032975146466,True,Left Foot,Open Play,1,1,2,Normal
-5.651548460377916,0.05736530019905184,True,Right Foot,Open Play,1,0,5,Half Volley
-32.3736003558455,0.07141284322075193,False,Right Foot,Open Play,0,0,2,Half Volley
-6.640030120413609,0.05808416979038177,True,Right Foot,Open Play,1,0,2,Normal
-35.46674498738219,0.06046213909618143,False,Left Foot,Open Play,0,0,2,Normal
-11.967038062946068,0.05488719589676806,True,Right Foot,Open Play,0,0,2,Half Volley
-19.175505208468426,0.06195396662973546,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879750,Alejandro Darío Gómez,Atalanta,21.439449619801348,0.06623305072478752,False,Left Foot,Open Play,0,1,2,Normal
+3879750,Jasmin Kurtič,Atalanta,22.07374005464412,0.055623550565903145,False,Right Foot,Open Play,1,1,1,Half Volley
+3879750,Manuel Pasqual,Fiorentina,30.67572330035594,0.056663919389971895,False,Left Foot,Free Kick,0,0,0,Normal
+3879750,Matías Vecino Falero,Fiorentina,28.402288640178273,0.07143225762315805,False,Right Foot,Open Play,0,1,1,Half Volley
+3879750,Boukary Dramé,Atalanta,9.042676594902641,0.05877575483849348,False,Head,Open Play,0,0,1,Normal
+3879750,Gonzalo Javier Rodríguez,Fiorentina,10.09752444909147,0.0592386910676838,False,Head,Open Play,0,1,4,Normal
+3879750,Manuel Pasqual,Fiorentina,28.08789774974268,0.04967678407446883,False,Left Foot,Free Kick,0,0,0,Normal
+3879750,Luca Cigarini,Atalanta,19.57268504830137,0.06539039921647781,False,Left Foot,Open Play,1,0,2,Half Volley
+3879750,Cristian Tello Herrera,Fiorentina,20.25487595617411,0.054216732024797584,False,Left Foot,Open Play,0,0,2,Normal
+3879750,Alejandro Darío Gómez,Atalanta,7.871467461661771,0.05637634257542386,False,Right Foot,Open Play,1,1,2,Normal
+3879750,Federico Bernardeschi,Fiorentina,26.630809225406576,0.062423886790820546,False,Left Foot,Open Play,0,1,1,Volley
+3879750,Matías Ariel Fernández Fernández,Fiorentina,18.71095935541521,0.05426899653233753,False,Left Foot,Open Play,0,1,1,Normal
+3879750,Alejandro Darío Gómez,Atalanta,17.875681805178786,0.06365433126699738,False,Right Foot,Open Play,1,0,1,Half Volley
+3879750,Luca Cigarini,Atalanta,26.015572259706296,0.06968628697569762,False,Right Foot,Open Play,0,1,2,Normal
+3879750,Jasmin Kurtič,Atalanta,33.26048706799105,0.05540289263498251,False,Right Foot,Open Play,0,0,1,Normal
+3879750,Matías Ariel Fernández Fernández,Fiorentina,29.674399741191053,0.06653304766920075,False,Right Foot,Open Play,1,0,1,Normal
+3879750,Milan Badelj,Fiorentina,22.674214429611443,0.06741688724578652,False,Left Foot,Open Play,1,1,0,Normal
+3879750,Luca Cigarini,Atalanta,19.23798326228609,0.06364735595637482,False,Right Foot,Open Play,1,0,1,Volley
+3879750,Milan Badelj,Fiorentina,27.241512439657242,0.06853107523327095,False,Left Foot,Open Play,0,1,2,Half Volley
+3879750,Matías Ariel Fernández Fernández,Fiorentina,13.094273557551789,0.058352109579305825,True,Head,Open Play,0,0,2,Normal
+3879750,Cristian Tello Herrera,Fiorentina,17.79241411388573,0.05863244551603424,False,Right Foot,Open Play,0,0,2,Normal
+3879750,Cristian Tello Herrera,Fiorentina,11.882760622010355,0.0590032975146466,True,Left Foot,Open Play,1,1,2,Normal
+3879750,Andrea Conti,Atalanta,5.651548460377916,0.05736530019905184,True,Right Foot,Open Play,1,0,5,Half Volley
+3879750,Luca Cigarini,Atalanta,32.3736003558455,0.07141284322075193,False,Right Foot,Open Play,0,0,2,Half Volley
+3879750,Nikola Kalinić,Fiorentina,6.640030120413609,0.05808416979038177,True,Right Foot,Open Play,1,0,2,Normal
+3879750,Serge Gakpé,Atalanta,35.46674498738219,0.06046213909618143,False,Left Foot,Open Play,0,0,2,Normal
+3879750,Mauricio Ricardo Pinilla Ferreira,Atalanta,11.967038062946068,0.05488719589676806,True,Right Foot,Open Play,0,0,2,Half Volley
+3879750,Borja Valero Iglesias,Fiorentina,19.175505208468426,0.06195396662973546,False,Right Foot,Open Play,0,0,2,Normal

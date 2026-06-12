@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.11720873706519,0.05675936700082472,False,Right Foot,Open Play,1,0,2,Normal
-14.733974345029923,0.05351787692945164,True,Right Foot,Open Play,1,0,1,Normal
-8.22982381342395,0.05641993721710933,True,Head,Open Play,0,1,4,Normal
-5.5901699437494745,0.05599468466563477,True,Head,Open Play,0,1,4,Normal
-18.32184488527288,0.06375803833282438,False,Left Foot,Open Play,0,0,1,Half Volley
-15.435349040433126,0.05743814432715495,False,Left Foot,Open Play,1,1,1,Overhead Kick
-23.91756676587315,0.06709110724033081,False,Right Foot,Open Play,1,0,1,Half Volley
-31.710093030453255,0.05765935482506974,False,Left Foot,Free Kick,0,0,0,Normal
-10.17103731189695,0.059213290103438364,False,Head,Open Play,0,0,3,Normal
-5.2611785751863644,0.05709471180478421,True,Head,Open Play,0,0,3,Normal
-26.65426795093049,0.05901989166703097,False,Left Foot,Open Play,0,0,1,Normal
-25.781582573612503,0.06753379932075532,False,Right Foot,Open Play,1,1,1,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-18.439631232755165,0.05889464129130459,False,Left Foot,Open Play,0,0,1,Normal
-14.603081866510227,0.06081010230291212,False,Right Foot,Open Play,1,1,2,Half Volley
-20.19504889818294,0.06185806612423569,False,Left Foot,Open Play,1,0,0,Normal
-16.611140839809885,0.06268034894372201,True,Left Foot,Open Play,0,0,1,Normal
-14.918780110987631,0.05909541923476611,False,Left Foot,Open Play,0,1,2,Volley
-7.766595135579041,0.05452862511540103,False,Left Foot,Open Play,1,0,1,Half Volley
-13.418271125595872,0.061333415631595375,True,Right Foot,Open Play,0,0,0,Normal
-14.566399692442875,0.05513038156023588,False,Right Foot,Open Play,0,0,2,Normal
-33.3600059952033,0.055506226604334505,False,Right Foot,Open Play,1,0,0,Normal
-9.100000000000005,0.05693194810440424,True,Head,Open Play,0,0,2,Normal
-18.350476833041697,0.06386327120477342,False,Left Foot,Open Play,1,0,0,Normal
-7.851751396981437,0.057578714624074684,True,Left Foot,Open Play,1,1,1,Normal
-18.32511937205322,0.06436539264820104,False,Left Foot,Open Play,1,0,0,Half Volley
-9.235799911215056,0.05335128943556128,False,Head,Open Play,0,0,1,Normal
-11.047624178980744,0.056887631240960614,False,Head,Open Play,0,0,4,Normal
-9.617692030835672,0.05387055078690992,True,Right Foot,Open Play,1,0,2,Normal
-33.56724594005293,0.06434297772186058,False,Right Foot,Open Play,0,0,1,Half Volley
-17.618172436436186,0.06408348544016837,False,Left Foot,Open Play,0,1,3,Normal
-25.056935167733503,0.05780646410192886,False,Right Foot,Open Play,0,0,1,Normal
-19.897989848223364,0.05095896724582673,False,Right Foot,Open Play,0,1,1,Normal
-13.336416310238663,0.059120170915981915,True,Right Foot,Open Play,0,0,3,Normal
-15.469324484281785,0.06271023267190659,False,Right Foot,Open Play,0,0,1,Normal
-27.71894658893083,0.057408429687245195,False,Right Foot,Open Play,0,0,1,Normal
-16.74514855114758,0.06067570966536403,False,Right Foot,Open Play,1,0,1,Volley
-16.758579892103036,0.05321673921908153,False,Right Foot,Open Play,0,0,1,Normal
-16.159517319524117,0.06294475950149664,True,Left Foot,Open Play,1,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825700,Jozabed Sánchez Ruiz,Rayo Vallecano,15.11720873706519,0.05675936700082472,False,Right Foot,Open Play,1,0,2,Normal
+3825700,Danilo Luiz da Silva,Real Madrid,14.733974345029923,0.05351787692945164,True,Right Foot,Open Play,1,0,1,Normal
+3825700,Antonio Amaya Carazo,Rayo Vallecano,8.22982381342395,0.05641993721710933,True,Head,Open Play,0,1,4,Normal
+3825700,Jozabed Sánchez Ruiz,Rayo Vallecano,5.5901699437494745,0.05599468466563477,True,Head,Open Play,0,1,4,Normal
+3825700,Jozabed Sánchez Ruiz,Rayo Vallecano,18.32184488527288,0.06375803833282438,False,Left Foot,Open Play,0,0,1,Half Volley
+3825700,Gareth Frank Bale,Real Madrid,15.435349040433126,0.05743814432715495,False,Left Foot,Open Play,1,1,1,Overhead Kick
+3825700,Luka Modrić,Real Madrid,23.91756676587315,0.06709110724033081,False,Right Foot,Open Play,1,0,1,Half Volley
+3825700,Gareth Frank Bale,Real Madrid,31.710093030453255,0.05765935482506974,False,Left Foot,Free Kick,0,0,0,Normal
+3825700,Sergio Ramos García,Real Madrid,10.17103731189695,0.059213290103438364,False,Head,Open Play,0,0,3,Normal
+3825700,Gareth Frank Bale,Real Madrid,5.2611785751863644,0.05709471180478421,True,Head,Open Play,0,0,3,Normal
+3825700,Roberto Trashorras Gayoso,Rayo Vallecano,26.65426795093049,0.05901989166703097,False,Left Foot,Open Play,0,0,1,Normal
+3825700,Jozabed Sánchez Ruiz,Rayo Vallecano,25.781582573612503,0.06753379932075532,False,Right Foot,Open Play,1,1,1,Half Volley
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3825700,Karim Benzema,Real Madrid,18.439631232755165,0.05889464129130459,False,Left Foot,Open Play,0,0,1,Normal
+3825700,Karim Benzema,Real Madrid,14.603081866510227,0.06081010230291212,False,Right Foot,Open Play,1,1,2,Half Volley
+3825700,Luka Modrić,Real Madrid,20.19504889818294,0.06185806612423569,False,Left Foot,Open Play,1,0,0,Normal
+3825700,Gareth Frank Bale,Real Madrid,16.611140839809885,0.06268034894372201,True,Left Foot,Open Play,0,0,1,Normal
+3825700,Gareth Frank Bale,Real Madrid,14.918780110987631,0.05909541923476611,False,Left Foot,Open Play,0,1,2,Volley
+3825700,Gareth Frank Bale,Real Madrid,7.766595135579041,0.05452862511540103,False,Left Foot,Open Play,1,0,1,Half Volley
+3825700,Karim Benzema,Real Madrid,13.418271125595872,0.061333415631595375,True,Right Foot,Open Play,0,0,0,Normal
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,14.566399692442875,0.05513038156023588,False,Right Foot,Open Play,0,0,2,Normal
+3825700,Alhassane Bangoura,Rayo Vallecano,33.3600059952033,0.055506226604334505,False,Right Foot,Open Play,1,0,0,Normal
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9.100000000000005,0.05693194810440424,True,Head,Open Play,0,0,2,Normal
+3825700,José Ignacio Martínez García,Rayo Vallecano,18.350476833041697,0.06386327120477342,False,Left Foot,Open Play,1,0,0,Normal
+3825700,Gareth Frank Bale,Real Madrid,7.851751396981437,0.057578714624074684,True,Left Foot,Open Play,1,1,1,Normal
+3825700,José Ignacio Martínez García,Rayo Vallecano,18.32511937205322,0.06436539264820104,False,Left Foot,Open Play,1,0,0,Half Volley
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9.235799911215056,0.05335128943556128,False,Head,Open Play,0,0,1,Normal
+3825700,Sergio Ramos García,Real Madrid,11.047624178980744,0.056887631240960614,False,Head,Open Play,0,0,4,Normal
+3825700,Gareth Frank Bale,Real Madrid,9.617692030835672,0.05387055078690992,True,Right Foot,Open Play,1,0,2,Normal
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,33.56724594005293,0.06434297772186058,False,Right Foot,Open Play,0,0,1,Half Volley
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,17.618172436436186,0.06408348544016837,False,Left Foot,Open Play,0,1,3,Normal
+3825700,Toni Kroos,Real Madrid,25.056935167733503,0.05780646410192886,False,Right Foot,Open Play,0,0,1,Normal
+3825700,Lucas Vázquez Iglesias,Real Madrid,19.897989848223364,0.05095896724582673,False,Right Foot,Open Play,0,1,1,Normal
+3825700,Karim Benzema,Real Madrid,13.336416310238663,0.059120170915981915,True,Right Foot,Open Play,0,0,3,Normal
+3825700,Karim Benzema,Real Madrid,15.469324484281785,0.06271023267190659,False,Right Foot,Open Play,0,0,1,Normal
+3825700,Sergio Ramos García,Real Madrid,27.71894658893083,0.057408429687245195,False,Right Foot,Open Play,0,0,1,Normal
+3825700,Mateo Kovačić,Real Madrid,16.74514855114758,0.06067570966536403,False,Right Foot,Open Play,1,0,1,Volley
+3825700,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16.758579892103036,0.05321673921908153,False,Right Foot,Open Play,0,0,1,Normal
+3825700,Karim Benzema,Real Madrid,16.159517319524117,0.06294475950149664,True,Left Foot,Open Play,1,1,3,Half Volley

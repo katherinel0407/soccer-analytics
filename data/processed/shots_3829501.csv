@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.89903473104741,0.05468810622901082,False,Left Foot,Free Kick,0,0,0,Normal
-21.42195135836135,0.0665281424980614,False,Right Foot,Open Play,1,1,1,Half Volley
-21.400233643584368,0.06549158696347607,False,Left Foot,Open Play,1,0,2,Normal
-14.179562757715763,0.06104111149402276,False,Right Foot,Open Play,1,0,1,Normal
-13.822083779228077,0.05993722834788109,False,Right Foot,Open Play,0,0,1,Normal
-6.762396025078685,0.057992201708179085,False,Right Foot,Open Play,1,0,3,Half Volley
-33.986026540329775,0.06386076181895596,False,Right Foot,Open Play,0,0,2,Normal
-16.34870025414865,0.06050832994833489,False,Right Foot,Open Play,1,0,2,Half Volley
-16.337074401495517,0.06237352159828218,False,Left Foot,Open Play,1,0,1,Normal
-23.568198912941988,0.06794784235798891,False,Left Foot,Open Play,1,0,0,Half Volley
-12.369316876852976,0.05583058454073274,True,Head,Open Play,0,0,2,Normal
-40.50876448375092,0.07776118427000273,False,Right Foot,Free Kick,0,0,0,Normal
-18.882796403075474,0.06312175907640734,False,Left Foot,Open Play,0,0,0,Normal
-24.89196657558418,0.06301867115372382,False,Right Foot,Open Play,1,1,1,Normal
-11.696580696938737,0.058885967053951674,True,Head,Open Play,0,0,2,Normal
-20.61892334725555,0.0656145703093851,False,Left Foot,Open Play,1,0,0,Volley
-11.900000000000006,0.05954970314276759,False,Right Foot,Penalty,0,0,0,Normal
-36.41785276481852,0.05649120460652732,False,Left Foot,Free Kick,0,0,0,Normal
-22.299103120977758,0.06672941483035326,False,Right Foot,Open Play,0,0,1,Volley
-26.21545345783666,0.056650681152877254,False,Left Foot,Free Kick,0,0,0,Normal
-16.3783393541592,0.06224777523583291,False,Left Foot,Open Play,0,0,1,Half Volley
-10.816653826391969,0.06027626139884341,False,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829501,Thomas Lemar,AS Monaco,25.89903473104741,0.05468810622901082,False,Left Foot,Free Kick,0,0,0,Normal
+3829501,Stephan El Shaarawy,AS Monaco,21.42195135836135,0.0665281424980614,False,Right Foot,Open Play,1,1,1,Half Volley
+3829501,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,21.400233643584368,0.06549158696347607,False,Left Foot,Open Play,1,0,2,Normal
+3829501,Abdoulaye Doucouré,Rennes,14.179562757715763,0.06104111149402276,False,Right Foot,Open Play,1,0,1,Normal
+3829501,Stephan El Shaarawy,AS Monaco,13.822083779228077,0.05993722834788109,False,Right Foot,Open Play,0,0,1,Normal
+3829501,Stephan El Shaarawy,AS Monaco,6.762396025078685,0.057992201708179085,False,Right Foot,Open Play,1,0,3,Half Volley
+3829501,Adama Traoré,AS Monaco,33.986026540329775,0.06386076181895596,False,Right Foot,Open Play,0,0,2,Normal
+3829501,Adama Traoré,AS Monaco,16.34870025414865,0.06050832994833489,False,Right Foot,Open Play,1,0,2,Half Volley
+3829501,Paul-Georges Ntep de Madiba,Rennes,16.337074401495517,0.06237352159828218,False,Left Foot,Open Play,1,0,1,Normal
+3829501,Adama Traoré,AS Monaco,23.568198912941988,0.06794784235798891,False,Left Foot,Open Play,1,0,0,Half Volley
+3829501,Abdoulaye Doucouré,Rennes,12.369316876852976,0.05583058454073274,True,Head,Open Play,0,0,2,Normal
+3829501,Paul-Georges Ntep de Madiba,Rennes,40.50876448375092,0.07776118427000273,False,Right Foot,Free Kick,0,0,0,Normal
+3829501,Ludovic Baal,Rennes,18.882796403075474,0.06312175907640734,False,Left Foot,Open Play,0,0,0,Normal
+3829501,Pedro Filipe Teodósio Mendes,Rennes,24.89196657558418,0.06301867115372382,False,Right Foot,Open Play,1,1,1,Normal
+3829501,Wallace Fortuna dos Santos,AS Monaco,11.696580696938737,0.058885967053951674,True,Head,Open Play,0,0,2,Normal
+3829501,Thomas Lemar,AS Monaco,20.61892334725555,0.0656145703093851,False,Left Foot,Open Play,1,0,0,Volley
+3829501,Pedro Henrique Konzen Medina da Silva,Rennes,11.900000000000006,0.05954970314276759,False,Right Foot,Penalty,0,0,0,Normal
+3829501,Thomas Lemar,AS Monaco,36.41785276481852,0.05649120460652732,False,Left Foot,Free Kick,0,0,0,Normal
+3829501,Andrea Raggi,AS Monaco,22.299103120977758,0.06672941483035326,False,Right Foot,Open Play,0,0,1,Volley
+3829501,Thomas Lemar,AS Monaco,26.21545345783666,0.056650681152877254,False,Left Foot,Free Kick,0,0,0,Normal
+3829501,Cheikh M''Bengue,Rennes,16.3783393541592,0.06224777523583291,False,Left Foot,Open Play,0,0,1,Half Volley
+3829501,Guido Marcelo Carrillo,AS Monaco,10.816653826391969,0.06027626139884341,False,Right Foot,Open Play,0,0,2,Half Volley

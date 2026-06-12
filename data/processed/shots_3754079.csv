@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.37103883636515,0.07237675048423235,False,Right Foot,Free Kick,0,0,0,Normal
-4.569463863518346,0.05699833277563845,False,Left Foot,Open Play,1,0,4,Normal
-4.272001872658759,0.05690555420666962,False,Right Foot,Open Play,1,0,4,Normal
-20.23190549602286,0.05784136253997741,False,Left Foot,Open Play,1,0,1,Volley
-10.688779163215974,0.05965261287123212,False,Head,Open Play,0,0,1,Normal
-10.700467279516346,0.059866998810948105,False,Right Foot,Open Play,1,0,1,Half Volley
-9.646242791885342,0.05944663193788906,True,Head,Open Play,0,0,0,Diving Header
-37.12155707941142,0.06047664313434836,False,Right Foot,Open Play,0,0,0,Normal
-12.889142717807111,0.06067661678520055,False,Head,Open Play,0,0,2,Normal
-10.195096860746347,0.05727662742606018,False,Right Foot,Open Play,1,0,1,Normal
-17.528548142958105,0.061554223209812554,False,Right Foot,Open Play,0,0,3,Normal
-20.599271831790556,0.06570269762523051,False,Left Foot,Open Play,0,1,2,Normal
-8.102468759581864,0.058494220878410594,False,Head,Open Play,0,1,4,Normal
-22.193918085818023,0.06230143430190219,False,Right Foot,Open Play,1,0,1,Volley
-22.76356738299162,0.06354781523468532,False,Right Foot,Open Play,1,0,0,Normal
-5.724508712544679,0.055999976941371356,True,Head,Open Play,0,0,4,Normal
-25.580656754665238,0.06934760295015217,False,Right Foot,Open Play,0,1,2,Normal
-24.357750306627246,0.05503397752436661,False,Left Foot,Open Play,0,0,1,Normal
-25.851885811290433,0.06749130251652011,False,Right Foot,Open Play,0,0,4,Normal
-17.46568063374571,0.060886785015903916,True,Left Foot,Open Play,0,0,2,Normal
-20.785812469085737,0.060992307495282706,True,Right Foot,Open Play,1,0,2,Lob
-12.384667940643387,0.054501113061353725,True,Right Foot,Open Play,1,0,2,Volley
-9.121951545584968,0.05928400083291491,False,Right Foot,Open Play,1,0,3,Normal
-20.98118204487059,0.06618131501611224,True,Right Foot,Open Play,0,0,1,Normal
-5.936328831862333,0.055772362051420776,True,Right Foot,Open Play,1,1,3,Normal
-15.847397262642215,0.062024235959489055,False,Right Foot,Open Play,1,0,1,Normal
-9.454099639838791,0.05904457506190225,False,Left Foot,Open Play,1,0,2,Volley
-19.659603251337497,0.054980547213048125,False,Left Foot,Open Play,0,0,3,Normal
-29.0,0.07062336150997246,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754079,Kevin De Bruyne,Manchester City,30.37103883636515,0.07237675048423235,False,Right Foot,Free Kick,0,0,0,Normal
+3754079,Fernando Francisco Reges,Manchester City,4.569463863518346,0.05699833277563845,False,Left Foot,Open Play,1,0,4,Normal
+3754079,Fernando Francisco Reges,Manchester City,4.272001872658759,0.05690555420666962,False,Right Foot,Open Play,1,0,4,Normal
+3754079,David Josué Jiménez Silva,Manchester City,20.23190549602286,0.05784136253997741,False,Left Foot,Open Play,1,0,1,Volley
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,10.688779163215974,0.05965261287123212,False,Head,Open Play,0,0,1,Normal
+3754079,Aleksandar Mitrović,Newcastle United,10.700467279516346,0.059866998810948105,False,Right Foot,Open Play,1,0,1,Half Volley
+3754079,Aleksandar Mitrović,Newcastle United,9.646242791885342,0.05944663193788906,True,Head,Open Play,0,0,0,Diving Header
+3754079,Nicolás Hernán Otamendi,Manchester City,37.12155707941142,0.06047664313434836,False,Right Foot,Open Play,0,0,0,Normal
+3754079,Aleksandar Mitrović,Newcastle United,12.889142717807111,0.06067661678520055,False,Head,Open Play,0,0,2,Normal
+3754079,Aleksandar Mitrović,Newcastle United,10.195096860746347,0.05727662742606018,False,Right Foot,Open Play,1,0,1,Normal
+3754079,Raheem Sterling,Manchester City,17.528548142958105,0.061554223209812554,False,Right Foot,Open Play,0,0,3,Normal
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,20.599271831790556,0.06570269762523051,False,Left Foot,Open Play,0,1,2,Normal
+3754079,Fernando Francisco Reges,Manchester City,8.102468759581864,0.058494220878410594,False,Head,Open Play,0,1,4,Normal
+3754079,Fernando Luiz Rosa,Manchester City,22.193918085818023,0.06230143430190219,False,Right Foot,Open Play,1,0,1,Volley
+3754079,Georginio Wijnaldum,Newcastle United,22.76356738299162,0.06354781523468532,False,Right Foot,Open Play,1,0,0,Normal
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,5.724508712544679,0.055999976941371356,True,Head,Open Play,0,0,4,Normal
+3754079,Georginio Wijnaldum,Newcastle United,25.580656754665238,0.06934760295015217,False,Right Foot,Open Play,0,1,2,Normal
+3754079,Kevin De Bruyne,Manchester City,24.357750306627246,0.05503397752436661,False,Left Foot,Open Play,0,0,1,Normal
+3754079,Fernando Francisco Reges,Manchester City,25.851885811290433,0.06749130251652011,False,Right Foot,Open Play,0,0,4,Normal
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,17.46568063374571,0.060886785015903916,True,Left Foot,Open Play,0,0,2,Normal
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,20.785812469085737,0.060992307495282706,True,Right Foot,Open Play,1,0,2,Lob
+3754079,Kevin De Bruyne,Manchester City,12.384667940643387,0.054501113061353725,True,Right Foot,Open Play,1,0,2,Volley
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,9.121951545584968,0.05928400083291491,False,Right Foot,Open Play,1,0,3,Normal
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,20.98118204487059,0.06618131501611224,True,Right Foot,Open Play,0,0,1,Normal
+3754079,Sergio Leonel Agüero del Castillo,Manchester City,5.936328831862333,0.055772362051420776,True,Right Foot,Open Play,1,1,3,Normal
+3754079,Kevin De Bruyne,Manchester City,15.847397262642215,0.062024235959489055,False,Right Foot,Open Play,1,0,1,Normal
+3754079,Wilfried Guemiand Bony,Manchester City,9.454099639838791,0.05904457506190225,False,Left Foot,Open Play,1,0,2,Volley
+3754079,Kelechi Promise Iheanacho,Manchester City,19.659603251337497,0.054980547213048125,False,Left Foot,Open Play,0,0,3,Normal
+3754079,Wilfried Guemiand Bony,Manchester City,29.0,0.07062336150997246,False,Right Foot,Open Play,0,0,3,Normal

@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.78002300171753,0.06439630038016707,False,Right Foot,Open Play,0,0,0,Normal
-13.741906709041505,0.05804611506721247,True,Right Foot,Open Play,1,0,2,Normal
-20.579844508644857,0.06448402525634106,False,Right Foot,Open Play,0,0,1,Normal
-7.023531875061152,0.05825240631755774,False,Head,Open Play,0,1,3,Normal
-12.272326592785905,0.05845558505511618,False,Head,Open Play,0,0,2,Normal
-19.360010330575754,0.05677878114671943,False,Left Foot,Open Play,0,0,1,Half Volley
-12.756566936288152,0.05944462742508917,False,Right Foot,Open Play,0,0,4,Half Volley
-10.406248123122957,0.05998802138754299,False,Right Foot,Open Play,1,0,2,Volley
-17.91758912354003,0.05690708380912422,True,Right Foot,Open Play,0,0,1,Normal
-34.354621232084625,0.07585603195523277,False,Right Foot,Open Play,0,0,1,Normal
-28.46752535785294,0.0620075757782436,False,Right Foot,Free Kick,0,0,0,Normal
-10.623088063270488,0.05976752825247994,False,Left Foot,Open Play,0,0,1,Half Volley
-16.104968177553157,0.06299110737843423,False,Right Foot,Open Play,1,0,1,Normal
-9.457801012920504,0.05954654695743353,False,Head,Open Play,0,1,3,Normal
-21.779348015953094,0.05457594719208325,False,Left Foot,Open Play,0,0,1,Normal
-18.944656238633623,0.06430112294203498,False,Right Foot,Open Play,0,0,1,Normal
-32.5677754843649,0.06567365109944534,False,Right Foot,Open Play,0,0,1,Normal
-19.588772294352697,0.057198051819511174,False,Right Foot,Open Play,0,0,0,Lob
-24.22498710009977,0.053219564734586174,False,Left Foot,Open Play,1,0,0,Normal
-10.965856099730662,0.05955031161610437,False,Head,Open Play,0,0,2,Normal
-15.572411502397436,0.061664682093888534,False,Right Foot,Open Play,1,0,0,Normal
-15.379206741571561,0.06258408923794248,False,Left Foot,Open Play,0,1,2,Normal
-18.121810064118872,0.054520626795503443,False,Right Foot,Open Play,0,0,1,Normal
-9.654014708917737,0.05480719665826167,False,Right Foot,Open Play,1,0,3,Volley
-23.501702066020663,0.06695362364452605,False,Right Foot,Open Play,0,0,3,Normal
-24.299176940793693,0.053625232250900226,False,Right Foot,Open Play,0,0,1,Lob
-11.691449867317566,0.06033713622448941,False,Right Foot,Open Play,0,1,2,Normal
-25.675864152935535,0.06948799264960853,True,Right Foot,Open Play,0,0,3,Normal
-15.190786681406594,0.05993112163811844,False,Left Foot,Open Play,0,0,2,Normal
-21.57266789249767,0.06627285064995664,False,Right Foot,Open Play,0,1,1,Lob
-11.62497311824849,0.06022745125281908,True,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825635,Danilo Luiz da Silva,Real Madrid,34.78002300171753,0.06439630038016707,False,Right Foot,Open Play,0,0,0,Normal
+3825635,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,13.741906709041505,0.05804611506721247,True,Right Foot,Open Play,1,0,2,Normal
+3825635,Manuel Agudo Durán,Celta Vigo,20.579844508644857,0.06448402525634106,False,Right Foot,Open Play,0,0,1,Normal
+3825635,Iago Aspas Juncal,Celta Vigo,7.023531875061152,0.05825240631755774,False,Head,Open Play,0,1,3,Normal
+3825635,Fabián Ariel Orellana Valenzuela,Celta Vigo,12.272326592785905,0.05845558505511618,False,Head,Open Play,0,0,2,Normal
+3825635,Fabián Ariel Orellana Valenzuela,Celta Vigo,19.360010330575754,0.05677878114671943,False,Left Foot,Open Play,0,0,1,Half Volley
+3825635,Fabián Ariel Orellana Valenzuela,Celta Vigo,12.756566936288152,0.05944462742508917,False,Right Foot,Open Play,0,0,4,Half Volley
+3825635,Gustavo Daniel Cabral Cáceres,Celta Vigo,10.406248123122957,0.05998802138754299,False,Right Foot,Open Play,1,0,2,Volley
+3825635,Danilo Luiz da Silva,Real Madrid,17.91758912354003,0.05690708380912422,True,Right Foot,Open Play,0,0,1,Normal
+3825635,Jonathan Castro Otto,Celta Vigo,34.354621232084625,0.07585603195523277,False,Right Foot,Open Play,0,0,1,Normal
+3825635,Daniel Wass,Celta Vigo,28.46752535785294,0.0620075757782436,False,Right Foot,Free Kick,0,0,0,Normal
+3825635,Iago Aspas Juncal,Celta Vigo,10.623088063270488,0.05976752825247994,False,Left Foot,Open Play,0,0,1,Half Volley
+3825635,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16.104968177553157,0.06299110737843423,False,Right Foot,Open Play,1,0,1,Normal
+3825635,Pedro Pablo Hernández,Celta Vigo,9.457801012920504,0.05954654695743353,False,Head,Open Play,0,1,3,Normal
+3825635,Augusto Matías Fernández,Celta Vigo,21.779348015953094,0.05457594719208325,False,Left Foot,Open Play,0,0,1,Normal
+3825635,Fabián Ariel Orellana Valenzuela,Celta Vigo,18.944656238633623,0.06430112294203498,False,Right Foot,Open Play,0,0,1,Normal
+3825635,Daniel Wass,Celta Vigo,32.5677754843649,0.06567365109944534,False,Right Foot,Open Play,0,0,1,Normal
+3825635,Lucas Vázquez Iglesias,Real Madrid,19.588772294352697,0.057198051819511174,False,Right Foot,Open Play,0,0,0,Lob
+3825635,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,24.22498710009977,0.053219564734586174,False,Left Foot,Open Play,1,0,0,Normal
+3825635,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10.965856099730662,0.05955031161610437,False,Head,Open Play,0,0,2,Normal
+3825635,Fabián Ariel Orellana Valenzuela,Celta Vigo,15.572411502397436,0.061664682093888534,False,Right Foot,Open Play,1,0,0,Normal
+3825635,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,15.379206741571561,0.06258408923794248,False,Left Foot,Open Play,0,1,2,Normal
+3825635,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18.121810064118872,0.054520626795503443,False,Right Foot,Open Play,0,0,1,Normal
+3825635,Carlos Henrique Casimiro,Real Madrid,9.654014708917737,0.05480719665826167,False,Right Foot,Open Play,1,0,3,Volley
+3825635,Francisco Román Alarcón Suárez,Real Madrid,23.501702066020663,0.06695362364452605,False,Right Foot,Open Play,0,0,3,Normal
+3825635,Francisco Román Alarcón Suárez,Real Madrid,24.299176940793693,0.053625232250900226,False,Right Foot,Open Play,0,0,1,Lob
+3825635,Manuel Agudo Durán,Celta Vigo,11.691449867317566,0.06033713622448941,False,Right Foot,Open Play,0,1,2,Normal
+3825635,Manuel Agudo Durán,Celta Vigo,25.675864152935535,0.06948799264960853,True,Right Foot,Open Play,0,0,3,Normal
+3825635,John Guidetti,Celta Vigo,15.190786681406594,0.05993112163811844,False,Left Foot,Open Play,0,0,2,Normal
+3825635,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,21.57266789249767,0.06627285064995664,False,Right Foot,Open Play,0,1,1,Lob
+3825635,Marcelo Vieira da Silva Júnior,Real Madrid,11.62497311824849,0.06022745125281908,True,Left Foot,Open Play,0,0,1,Normal

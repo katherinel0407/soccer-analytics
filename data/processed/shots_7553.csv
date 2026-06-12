@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.06225774829855,0.057624201777450715,False,Head,Open Play,0,0,5,Normal
-13.92838827718412,0.058122043033188894,False,Head,Open Play,0,0,3,Normal
-12.727922061357855,0.05518504660009867,False,Head,Open Play,0,1,3,Normal
-15.556349186104045,0.055089810737483536,False,Left Foot,Open Play,0,0,1,Normal
-12.727922061357855,0.05518504660009867,False,Right Foot,Open Play,1,0,3,Half Volley
-23.769728648009426,0.05975064562258513,False,Left Foot,Open Play,0,0,1,Normal
-11.704699910719626,0.057738048242450914,False,Head,Open Play,0,1,4,Normal
-11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
-15.132745950421556,0.06008911136715584,False,Right Foot,Open Play,1,0,2,Normal
-33.015148038438355,0.06883847307773917,False,Right Foot,Free Kick,0,0,0,Normal
-10.198039027185569,0.05825438839734427,False,Right Foot,Open Play,0,0,2,Normal
-18.439088914585774,0.06404673369992225,False,Right Foot,Open Play,0,1,2,Normal
-27.202941017470888,0.061762316676990885,False,Left Foot,Open Play,0,0,2,Normal
-22.47220505424423,0.06692786941452042,False,Left Foot,Open Play,0,0,2,Normal
-23.323807579381203,0.06785841029995378,False,Right Foot,Open Play,0,1,1,Normal
-30.59411708155671,0.06448222762494216,False,Right Foot,Open Play,0,0,0,Normal
-12.206555615733702,0.056265555060219824,False,Right Foot,Open Play,0,0,2,Normal
-31.76476034853718,0.04911750073874668,False,Left Foot,Open Play,1,0,1,Normal
-27.80287754891569,0.06893704586058222,False,Right Foot,Open Play,1,0,2,Normal
-24.73863375370596,0.06200580540578194,False,Right Foot,Open Play,1,0,3,Normal
-16.492422502470642,0.0628401130594311,False,Left Foot,Open Play,0,1,3,Normal
-20.024984394500787,0.06352452521524009,False,Left Foot,Open Play,0,1,2,Normal
-16.1245154965971,0.06208265310178142,False,Left Foot,Open Play,1,0,1,Normal
-26.1725046566048,0.054501872581307176,False,Left Foot,Open Play,0,1,2,Normal
-12.041594578792296,0.060871607794059486,True,Right Foot,Open Play,0,0,3,Normal
-21.0,0.0635519190906132,False,Right Foot,Open Play,0,0,1,Normal
-34.17601498127012,0.061654812187742644,False,Right Foot,Open Play,0,0,1,Normal
-26.570660511172846,0.06085738750959254,False,Left Foot,Open Play,0,0,1,Normal
-26.0,0.06592238762509454,False,Right Foot,Open Play,0,0,2,Normal
-25.0,0.061501761444683875,False,Right Foot,Open Play,1,0,1,Half Volley
-26.92582403567252,0.057608604131764996,True,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7553,Edson Omar Álvarez Velázquez,Mexico,8.06225774829855,0.057624201777450715,False,Head,Open Play,0,0,5,Normal
+7553,Javier Hernández Balcázar,Mexico,13.92838827718412,0.058122043033188894,False,Head,Open Play,0,0,3,Normal
+7553,Carlos Joel Salcedo Hernández,Mexico,12.727922061357855,0.05518504660009867,False,Head,Open Play,0,1,3,Normal
+7553,Heung-Min Son,South Korea,15.556349186104045,0.055089810737483536,False,Left Foot,Open Play,0,0,1,Normal
+7553,Heung-Min Son,South Korea,12.727922061357855,0.05518504660009867,False,Right Foot,Open Play,1,0,3,Half Volley
+7553,Heung-Min Son,South Korea,23.769728648009426,0.05975064562258513,False,Left Foot,Open Play,0,0,1,Normal
+7553,Sung-Yeung Ki,South Korea,11.704699910719626,0.057738048242450914,False,Head,Open Play,0,1,4,Normal
+7553,Carlos Alberto Vela Garrido,Mexico,11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
+7553,Miguel Arturo Layún Prado,Mexico,15.132745950421556,0.06008911136715584,False,Right Foot,Open Play,1,0,2,Normal
+7553,Heung-Min Son,South Korea,33.015148038438355,0.06883847307773917,False,Right Foot,Free Kick,0,0,0,Normal
+7553,Heung-Min Son,South Korea,10.198039027185569,0.05825438839734427,False,Right Foot,Open Play,0,0,2,Normal
+7553,Hirving Rodrigo Lozano Bahena,Mexico,18.439088914585774,0.06404673369992225,False,Right Foot,Open Play,0,1,2,Normal
+7553,Seon-Min Moon,South Korea,27.202941017470888,0.061762316676990885,False,Left Foot,Open Play,0,0,2,Normal
+7553,Heung-Min Son,South Korea,22.47220505424423,0.06692786941452042,False,Left Foot,Open Play,0,0,2,Normal
+7553,Hirving Rodrigo Lozano Bahena,Mexico,23.323807579381203,0.06785841029995378,False,Right Foot,Open Play,0,1,1,Normal
+7553,Javier Hernández Balcázar,Mexico,30.59411708155671,0.06448222762494216,False,Right Foot,Open Play,0,0,0,Normal
+7553,Seon-Min Moon,South Korea,12.206555615733702,0.056265555060219824,False,Right Foot,Open Play,0,0,2,Normal
+7553,Jae-Sung Lee,South Korea,31.76476034853718,0.04911750073874668,False,Left Foot,Open Play,1,0,1,Normal
+7553,Sung-Yeung Ki,South Korea,27.80287754891569,0.06893704586058222,False,Right Foot,Open Play,1,0,2,Normal
+7553,José Andrés Guardado Hernández,Mexico,24.73863375370596,0.06200580540578194,False,Right Foot,Open Play,1,0,3,Normal
+7553,José Andrés Guardado Hernández,Mexico,16.492422502470642,0.0628401130594311,False,Left Foot,Open Play,0,1,3,Normal
+7553,Hirving Rodrigo Lozano Bahena,Mexico,20.024984394500787,0.06352452521524009,False,Left Foot,Open Play,0,1,2,Normal
+7553,Jae-Sung Lee,South Korea,16.1245154965971,0.06208265310178142,False,Left Foot,Open Play,1,0,1,Normal
+7553,Carlos Alberto Vela Garrido,Mexico,26.1725046566048,0.054501872581307176,False,Left Foot,Open Play,0,1,2,Normal
+7553,Javier Hernández Balcázar,Mexico,12.041594578792296,0.060871607794059486,True,Right Foot,Open Play,0,0,3,Normal
+7553,Hee-Chan Hwang,South Korea,21.0,0.0635519190906132,False,Right Foot,Open Play,0,0,1,Normal
+7553,Sung-Yeung Ki,South Korea,34.17601498127012,0.061654812187742644,False,Right Foot,Open Play,0,0,1,Normal
+7553,Jae-Sung Lee,South Korea,26.570660511172846,0.06085738750959254,False,Left Foot,Open Play,0,0,1,Normal
+7553,Heung-Min Son,South Korea,26.0,0.06592238762509454,False,Right Foot,Open Play,0,0,2,Normal
+7553,Héctor Miguel Herrera López,Mexico,25.0,0.061501761444683875,False,Right Foot,Open Play,1,0,1,Half Volley
+7553,Heung-Min Son,South Korea,26.92582403567252,0.057608604131764996,True,Left Foot,Open Play,0,0,1,Normal

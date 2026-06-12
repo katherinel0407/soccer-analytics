@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.683225107874076,0.05264277636179251,False,Right Foot,Open Play,1,0,2,Volley
-18.092263539977527,0.06383511439283016,False,Right Foot,Open Play,0,0,2,Normal
-25.17300141024109,0.06857786211901962,False,Left Foot,Open Play,0,0,1,Normal
-25.775181861628056,0.06919819240593318,False,Right Foot,Open Play,0,0,1,Normal
-20.67123605399541,0.06580427714007432,False,Left Foot,Open Play,0,0,2,Normal
-14.86472334084963,0.06240883776268317,True,Right Foot,Open Play,1,1,2,Half Volley
-18.46131089603336,0.05353460415552468,False,Head,Open Play,0,1,2,Normal
-10.720074626605923,0.058013562627002344,False,Right Foot,Open Play,1,0,1,Half Volley
-24.914654322305978,0.06238017245381151,False,Left Foot,Open Play,1,0,0,Normal
-11.428473213863702,0.060609206477843916,False,Head,Open Play,0,0,1,Normal
-16.602710622064095,0.05609822754037707,False,Right Foot,Open Play,0,0,2,Half Volley
-39.654760117796705,0.06080885476127826,False,Right Foot,Open Play,0,0,0,Normal
-25.033777182039472,0.06867032302731196,False,Right Foot,Open Play,0,0,1,Normal
-22.20923231451281,0.05751658350875872,False,Left Foot,Open Play,0,0,3,Normal
-27.56320010448714,0.06526045312109362,False,Right Foot,Free Kick,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-28.642101878179258,0.07072303591675004,False,Right Foot,Open Play,0,0,2,Normal
-27.87292593180702,0.06248950398676073,False,Left Foot,Open Play,0,0,2,Normal
-17.768792868397114,0.052013285686646926,False,Right Foot,Open Play,1,0,1,Normal
-11.907980517283361,0.060848799397198595,False,Head,Open Play,0,1,2,Normal
-22.522211259110417,0.06470973062960983,False,Left Foot,Open Play,0,0,3,Normal
-18.632498490540655,0.06291652875145717,False,Right Foot,Open Play,1,0,0,Normal
-10.288342918079666,0.053767347866826444,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3920390,Fares Chaïbi,Algeria,16.683225107874076,0.05264277636179251,False,Right Foot,Open Play,1,0,2,Volley
+3920390,Mohamed Youcef Belaïli,Algeria,18.092263539977527,0.06383511439283016,False,Right Foot,Open Play,0,0,2,Normal
+3920390,Rayan Aït Nouri,Algeria,25.17300141024109,0.06857786211901962,False,Left Foot,Open Play,0,0,1,Normal
+3920390,Mohamed Youcef Belaïli,Algeria,25.775181861628056,0.06919819240593318,False,Right Foot,Open Play,0,0,1,Normal
+3920390,Jacinto Muondo Dala,Angola,20.67123605399541,0.06580427714007432,False,Left Foot,Open Play,0,0,2,Normal
+3920390,Baghdad Bounedjah,Algeria,14.86472334084963,0.06240883776268317,True,Right Foot,Open Play,1,1,2,Half Volley
+3920390,Kialonda Gaspar,Angola,18.46131089603336,0.05353460415552468,False,Head,Open Play,0,1,2,Normal
+3920390,Alfredo Kulembe Ribeiro,Angola,10.720074626605923,0.058013562627002344,False,Right Foot,Open Play,1,0,1,Half Volley
+3920390,Ismael Bennacer,Algeria,24.914654322305978,0.06238017245381151,False,Left Foot,Open Play,1,0,0,Normal
+3920390,Baghdad Bounedjah,Algeria,11.428473213863702,0.060609206477843916,False,Head,Open Play,0,0,1,Normal
+3920390,Jacinto Muondo Dala,Angola,16.602710622064095,0.05609822754037707,False,Right Foot,Open Play,0,0,2,Half Volley
+3920390,Youcef Atal,Algeria,39.654760117796705,0.06080885476127826,False,Right Foot,Open Play,0,0,0,Normal
+3920390,Mohamed Youcef Belaïli,Algeria,25.033777182039472,0.06867032302731196,False,Right Foot,Open Play,0,0,1,Normal
+3920390,Loide António Augusto,Angola,22.20923231451281,0.05751658350875872,False,Left Foot,Open Play,0,0,3,Normal
+3920390,Mohamed Youcef Belaïli,Algeria,27.56320010448714,0.06526045312109362,False,Right Foot,Free Kick,0,0,0,Normal
+3920390,Cristóvão Paciência Mabululo,Angola,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3920390,Rayan Aït Nouri,Algeria,28.642101878179258,0.07072303591675004,False,Right Foot,Open Play,0,0,2,Normal
+3920390,Cristóvão Paciência Mabululo,Angola,27.87292593180702,0.06248950398676073,False,Left Foot,Open Play,0,0,2,Normal
+3920390,Kévin Daniel Van Den Kerkhof,Algeria,17.768792868397114,0.052013285686646926,False,Right Foot,Open Play,1,0,1,Normal
+3920390,Islam Slimani,Algeria,11.907980517283361,0.060848799397198595,False,Head,Open Play,0,1,2,Normal
+3920390,Riyad Mahrez,Algeria,22.522211259110417,0.06470973062960983,False,Left Foot,Open Play,0,0,3,Normal
+3920390,Fares Chaïbi,Algeria,18.632498490540655,0.06291652875145717,False,Right Foot,Open Play,1,0,0,Normal
+3920390,Kévin Daniel Van Den Kerkhof,Algeria,10.288342918079666,0.053767347866826444,False,Right Foot,Open Play,1,0,1,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.35476677260377,0.07575566128913627,False,Right Foot,Free Kick,0,0,0,Normal
-19.99699977496625,0.057491120649622765,False,Right Foot,Open Play,1,1,3,Normal
-13.16434578701122,0.0614622670619222,False,Left Foot,Open Play,0,1,2,Normal
-8.542833253669421,0.05842068919430796,False,Left Foot,Open Play,0,0,4,Normal
-9.245539465060975,0.059417799473387385,False,Head,Open Play,0,1,3,Normal
-8.3868945385047,0.055624023502472815,False,Right Foot,Open Play,1,1,3,Volley
-35.058379882704216,0.07659449903284242,False,Right Foot,Open Play,0,0,0,Normal
-16.823792675850473,0.05919443185453113,False,Head,Open Play,0,0,1,Normal
-6.1057350089895035,0.05781035327700232,True,Head,Open Play,0,0,4,Normal
-29.780026863654772,0.05585849867413489,False,Left Foot,Open Play,0,0,1,Normal
-15.85212919452778,0.06056751597730514,False,Left Foot,Open Play,1,1,1,Normal
-18.690371852908648,0.06070650414894367,False,Right Foot,Open Play,1,1,1,Normal
-10.846197490365,0.05728667955837597,False,Head,Open Play,0,0,3,Normal
-16.072958657322552,0.06142410833561977,False,Left Foot,Open Play,1,1,2,Normal
-34.14395993437199,0.06558554915473129,False,Right Foot,Free Kick,0,0,0,Normal
-38.13790765104976,0.07332746692578086,False,Right Foot,Open Play,0,1,1,Normal
-35.32095695192869,0.05507442276632953,False,Right Foot,Open Play,0,0,0,Normal
-24.923884127479003,0.06823603235140402,False,Right Foot,Free Kick,0,0,0,Normal
-30.197350877187887,0.0723901071115631,False,Right Foot,Open Play,0,1,2,Normal
-14.142135623730953,0.057200684742156956,False,Head,Open Play,0,1,2,Normal
-31.51967639427791,0.07159398549532843,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900515,João Filipe Iria Santos Moutinho,AS Monaco,34.35476677260377,0.07575566128913627,False,Right Foot,Free Kick,0,0,0,Normal
+3900515,Jules Iloki,Nantes,19.99699977496625,0.057491120649622765,False,Right Foot,Open Play,1,1,3,Normal
+3900515,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,13.16434578701122,0.0614622670619222,False,Left Foot,Open Play,0,1,2,Normal
+3900515,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,8.542833253669421,0.05842068919430796,False,Left Foot,Open Play,0,0,4,Normal
+3900515,Guido Marcelo Carrillo,AS Monaco,9.245539465060975,0.059417799473387385,False,Head,Open Play,0,1,3,Normal
+3900515,Guido Marcelo Carrillo,AS Monaco,8.3868945385047,0.055624023502472815,False,Right Foot,Open Play,1,1,3,Volley
+3900515,Abdoulaye Touré,Nantes,35.058379882704216,0.07659449903284242,False,Right Foot,Open Play,0,0,0,Normal
+3900515,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,16.823792675850473,0.05919443185453113,False,Head,Open Play,0,0,1,Normal
+3900515,Mario Pašalić,AS Monaco,6.1057350089895035,0.05781035327700232,True,Head,Open Play,0,0,4,Normal
+3900515,Wilfried Moimbé,Nantes,29.780026863654772,0.05585849867413489,False,Left Foot,Open Play,0,0,1,Normal
+3900515,Yacine Bammou,Nantes,15.85212919452778,0.06056751597730514,False,Left Foot,Open Play,1,1,1,Normal
+3900515,Yacine Bammou,Nantes,18.690371852908648,0.06070650414894367,False,Right Foot,Open Play,1,1,1,Normal
+3900515,Kolbeinn Sigþórsson,Nantes,10.846197490365,0.05728667955837597,False,Head,Open Play,0,0,3,Normal
+3900515,Fábio Alexandre da Silva Coentrão,AS Monaco,16.072958657322552,0.06142410833561977,False,Left Foot,Open Play,1,1,2,Normal
+3900515,Kolbeinn Sigþórsson,Nantes,34.14395993437199,0.06558554915473129,False,Right Foot,Free Kick,0,0,0,Normal
+3900515,Léo Dubois,Nantes,38.13790765104976,0.07332746692578086,False,Right Foot,Open Play,0,1,1,Normal
+3900515,Almamy Touré,AS Monaco,35.32095695192869,0.05507442276632953,False,Right Foot,Open Play,0,0,0,Normal
+3900515,Jules Iloki,Nantes,24.923884127479003,0.06823603235140402,False,Right Foot,Free Kick,0,0,0,Normal
+3900515,Emiliano Sala,Nantes,30.197350877187887,0.0723901071115631,False,Right Foot,Open Play,0,1,2,Normal
+3900515,Emiliano Sala,Nantes,14.142135623730953,0.057200684742156956,False,Head,Open Play,0,1,2,Normal
+3900515,Alexis Alégué Elandi,Nantes,31.51967639427791,0.07159398549532843,False,Left Foot,Open Play,0,0,0,Normal

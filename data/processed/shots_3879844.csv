@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.218032973047429,0.05717460981300341,False,Head,Open Play,0,0,5,Normal
-22.716733920174352,0.05503107346884669,False,Right Foot,Open Play,1,1,2,Normal
-23.348233337878053,0.06654614398855922,False,Right Foot,Open Play,0,1,2,Normal
-24.520399670478458,0.06789604459648314,False,Left Foot,Open Play,0,1,2,Normal
-31.946204782415077,0.059835866219706255,False,Right Foot,Open Play,0,0,0,Normal
-20.115665537088255,0.0505705197511897,False,Left Foot,Open Play,0,1,1,Half Volley
-13.730622709840949,0.05732120260964719,False,Head,Open Play,0,0,2,Normal
-13.918692467326093,0.0571668910227676,False,Right Foot,Open Play,1,0,0,Volley
-16.475739740600414,0.06320208566855391,False,Right Foot,Open Play,0,0,2,Normal
-17.240939649566666,0.057450058974477226,False,Left Foot,Open Play,0,1,1,Normal
-23.436083290515924,0.06745386500166324,False,Right Foot,Open Play,0,0,3,Normal
-25.941665328193558,0.06934033226854426,False,Right Foot,Open Play,0,1,3,Normal
-19.780040444852478,0.06398816232932242,False,Right Foot,Open Play,0,0,1,Normal
-21.020466217474816,0.0650678153185358,False,Right Foot,Open Play,0,0,2,Normal
-8.96771988857815,0.05868069758074918,False,Head,Open Play,0,1,6,Normal
-9.300537618869136,0.05844429710950682,False,Head,Open Play,0,0,2,Diving Header
-28.4787640181241,0.05817302548019674,False,Right Foot,Open Play,0,1,1,Normal
-9.198369420718,0.0589842897823666,False,Head,Open Play,0,1,6,Normal
-22.56102834535696,0.06708868159275751,False,Right Foot,Open Play,0,1,2,Normal
-25.92604867695809,0.06943777706850172,False,Right Foot,Open Play,0,0,3,Normal
-16.06019925156596,0.06321592826398618,False,Right Foot,Open Play,0,1,2,Normal
-20.0591624949797,0.06057923694805477,False,Right Foot,Open Play,1,1,1,Normal
-17.241809649801848,0.061341741860536335,False,Left Foot,Open Play,0,0,2,Volley
-8.039900496896712,0.05821422092666049,False,Head,Open Play,0,0,6,Normal
-5.556977595779919,0.055826148085646184,True,Left Foot,Open Play,1,0,3,Volley
-16.0464949443796,0.05860414970065375,False,Right Foot,Open Play,1,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879844,Jerry Uche Mbakogu,Carpi,7.218032973047429,0.05717460981300341,False,Head,Open Play,0,0,5,Normal
+3879844,Jerry Uche Mbakogu,Carpi,22.716733920174352,0.05503107346884669,False,Right Foot,Open Play,1,1,2,Normal
+3879844,Manuel Pucciarelli,Empoli,23.348233337878053,0.06654614398855922,False,Right Foot,Open Play,0,1,2,Normal
+3879844,Marcel Büchel,Empoli,24.520399670478458,0.06789604459648314,False,Left Foot,Open Play,0,1,2,Normal
+3879844,Leandro Daniel Paredes,Empoli,31.946204782415077,0.059835866219706255,False,Right Foot,Open Play,0,0,0,Normal
+3879844,Gaetano Letizia,Carpi,20.115665537088255,0.0505705197511897,False,Left Foot,Open Play,0,1,1,Half Volley
+3879844,Raffaele Bianco,Carpi,13.730622709840949,0.05732120260964719,False,Head,Open Play,0,0,2,Normal
+3879844,Lorenzo Lollo,Carpi,13.918692467326093,0.0571668910227676,False,Right Foot,Open Play,1,0,0,Volley
+3879844,Antonio Di Gaudio,Carpi,16.475739740600414,0.06320208566855391,False,Right Foot,Open Play,0,0,2,Normal
+3879844,Marcel Büchel,Empoli,17.240939649566666,0.057450058974477226,False,Left Foot,Open Play,0,1,1,Normal
+3879844,Antonio Di Gaudio,Carpi,23.436083290515924,0.06745386500166324,False,Right Foot,Open Play,0,0,3,Normal
+3879844,Mário Rui Silva Duarte,Empoli,25.941665328193558,0.06934033226854426,False,Right Foot,Open Play,0,1,3,Normal
+3879844,Riccardo Saponara,Empoli,19.780040444852478,0.06398816232932242,False,Right Foot,Open Play,0,0,1,Normal
+3879844,Antonio Di Gaudio,Carpi,21.020466217474816,0.0650678153185358,False,Right Foot,Open Play,0,0,2,Normal
+3879844,Simone Romagnoli,Carpi,8.96771988857815,0.05868069758074918,False,Head,Open Play,0,1,6,Normal
+3879844,Jerry Uche Mbakogu,Carpi,9.300537618869136,0.05844429710950682,False,Head,Open Play,0,0,2,Diving Header
+3879844,Jerry Uche Mbakogu,Carpi,28.4787640181241,0.05817302548019674,False,Right Foot,Open Play,0,1,1,Normal
+3879844,Simone Romagnoli,Carpi,9.198369420718,0.0589842897823666,False,Head,Open Play,0,1,6,Normal
+3879844,Manuel Pucciarelli,Empoli,22.56102834535696,0.06708868159275751,False,Right Foot,Open Play,0,1,2,Normal
+3879844,Jonathan de Guzmán,Carpi,25.92604867695809,0.06943777706850172,False,Right Foot,Open Play,0,0,3,Normal
+3879844,Mário Rui Silva Duarte,Empoli,16.06019925156596,0.06321592826398618,False,Right Foot,Open Play,0,1,2,Normal
+3879844,Riccardo Saponara,Empoli,20.0591624949797,0.06057923694805477,False,Right Foot,Open Play,1,1,1,Normal
+3879844,Kevin Lasagna,Carpi,17.241809649801848,0.061341741860536335,False,Left Foot,Open Play,0,0,2,Volley
+3879844,Simone Romagnoli,Carpi,8.039900496896712,0.05821422092666049,False,Head,Open Play,0,0,6,Normal
+3879844,Kevin Lasagna,Carpi,5.556977595779919,0.055826148085646184,True,Left Foot,Open Play,1,0,3,Volley
+3879844,Massimo Maccarone,Empoli,16.0464949443796,0.05860414970065375,False,Right Foot,Open Play,1,1,5,Normal

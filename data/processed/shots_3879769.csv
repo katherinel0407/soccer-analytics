@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.010414407085943,0.06379898805948023,True,Right Foot,Open Play,0,1,2,Normal
-10.139033484509259,0.05955252267946942,True,Right Foot,Open Play,1,0,2,Normal
-26.732938484199597,0.06939751406564973,False,Right Foot,Free Kick,0,0,0,Normal
-25.009798079952585,0.06509293402759651,False,Right Foot,Open Play,1,0,2,Normal
-15.701273833673499,0.06293634432749805,False,Left Foot,Open Play,1,0,1,Normal
-29.62043213729333,0.07239737121666331,False,Right Foot,Open Play,0,1,2,Normal
-14.176741515595184,0.055644194033653754,False,Head,Open Play,0,0,1,Normal
-9.243916918709296,0.05416898798412558,False,Right Foot,Open Play,1,0,1,Normal
-13.609188072769067,0.0600804602570977,False,Left Foot,Open Play,1,1,2,Normal
-20.459960899278375,0.05242533087985059,False,Right Foot,Open Play,0,1,1,Normal
-16.995587662684684,0.058015732021547084,False,Right Foot,Open Play,0,1,3,Normal
-12.90038759107648,0.0538155578937831,False,Right Foot,Open Play,1,0,1,Volley
-9.20489000477464,0.05833630316744352,False,Head,Open Play,0,1,2,Normal
-6.0745370193949695,0.055776902346515896,True,Head,Open Play,0,0,3,Normal
-14.934523762075573,0.060006307162432,False,Right Foot,Open Play,0,0,1,Normal
-26.067988031299997,0.06927681014406953,False,Left Foot,Open Play,0,0,2,Normal
-10.610372283760832,0.057138265339301116,False,Head,Open Play,0,0,4,Normal
-36.334694164118126,0.07697322855160836,False,Left Foot,Open Play,0,0,0,Normal
-11.884864324004717,0.06085146780932472,False,Head,Open Play,0,0,3,Normal
-22.380571931923456,0.06714261764141209,False,Right Foot,Open Play,0,1,2,Normal
-21.6453228204155,0.05228234121101568,False,Right Foot,Open Play,0,1,2,Normal
-24.335365211970828,0.06851661567340246,False,Right Foot,Open Play,0,0,3,Normal
-29.65535364820322,0.06395009180919949,False,Right Foot,Open Play,0,1,1,Half Volley
-24.01041440708594,0.06832651435827451,False,Left Foot,Open Play,1,0,1,Normal
-12.366486970841798,0.058156274691576595,False,Head,Open Play,0,1,1,Normal
-19.02761151589972,0.05463332050421629,False,Right Foot,Open Play,0,0,2,Normal
-17.020575783445167,0.05634063204531563,False,Right Foot,Open Play,1,1,2,Normal
-30.15725451694832,0.07236677100939198,False,Left Foot,Open Play,0,0,1,Normal
-7.03846574190711,0.05648842604621141,True,Left Foot,Open Play,1,0,2,Normal
-13.06024502067247,0.061027804963684644,False,Left Foot,Open Play,1,1,1,Volley
-16.79196236298784,0.0590726091960573,False,Right Foot,Open Play,0,0,2,Normal
-23.60720229082641,0.06765702399474877,False,Right Foot,Open Play,0,1,2,Normal
-20.135789033459798,0.06428022255869115,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879769,Nicola Rigoni,Chievo,24.010414407085943,0.06379898805948023,True,Right Foot,Open Play,0,1,2,Normal
+3879769,Gonzalo Gerardo Higuaín,Napoli,10.139033484509259,0.05955252267946942,True,Right Foot,Open Play,1,0,2,Normal
+3879769,Lorenzo Insigne,Napoli,26.732938484199597,0.06939751406564973,False,Right Foot,Free Kick,0,0,0,Normal
+3879769,David López Silva,Napoli,25.009798079952585,0.06509293402759651,False,Right Foot,Open Play,1,0,2,Normal
+3879769,Gonzalo Gerardo Higuaín,Napoli,15.701273833673499,0.06293634432749805,False,Left Foot,Open Play,1,0,1,Normal
+3879769,Paul-José M''Poku Ebunge,Chievo,29.62043213729333,0.07239737121666331,False,Right Foot,Open Play,0,1,2,Normal
+3879769,José María Callejón Bueno,Napoli,14.176741515595184,0.055644194033653754,False,Head,Open Play,0,0,1,Normal
+3879769,José María Callejón Bueno,Napoli,9.243916918709296,0.05416898798412558,False,Right Foot,Open Play,1,0,1,Normal
+3879769,José María Callejón Bueno,Napoli,13.609188072769067,0.0600804602570977,False,Left Foot,Open Play,1,1,2,Normal
+3879769,Lucas Nahuel Castro,Chievo,20.459960899278375,0.05242533087985059,False,Right Foot,Open Play,0,1,1,Normal
+3879769,Gonzalo Gerardo Higuaín,Napoli,16.995587662684684,0.058015732021547084,False,Right Foot,Open Play,0,1,3,Normal
+3879769,Gonzalo Gerardo Higuaín,Napoli,12.90038759107648,0.0538155578937831,False,Right Foot,Open Play,1,0,1,Volley
+3879769,José María Callejón Bueno,Napoli,9.20489000477464,0.05833630316744352,False,Head,Open Play,0,1,2,Normal
+3879769,Vlad Iulian Chiricheș,Napoli,6.0745370193949695,0.055776902346515896,True,Head,Open Play,0,0,3,Normal
+3879769,Lorenzo Insigne,Napoli,14.934523762075573,0.060006307162432,False,Right Foot,Open Play,0,0,1,Normal
+3879769,Marek Hamšík,Napoli,26.067988031299997,0.06927681014406953,False,Left Foot,Open Play,0,0,2,Normal
+3879769,Gonzalo Gerardo Higuaín,Napoli,10.610372283760832,0.057138265339301116,False,Head,Open Play,0,0,4,Normal
+3879769,Faouzi Ghoulam,Napoli,36.334694164118126,0.07697322855160836,False,Left Foot,Open Play,0,0,0,Normal
+3879769,Sergio Pellissier,Chievo,11.884864324004717,0.06085146780932472,False,Head,Open Play,0,0,3,Normal
+3879769,Paul-José M''Poku Ebunge,Chievo,22.380571931923456,0.06714261764141209,False,Right Foot,Open Play,0,1,2,Normal
+3879769,Lucas Nahuel Castro,Chievo,21.6453228204155,0.05228234121101568,False,Right Foot,Open Play,0,1,2,Normal
+3879769,Lorenzo Insigne,Napoli,24.335365211970828,0.06851661567340246,False,Right Foot,Open Play,0,0,3,Normal
+3879769,Nicola Rigoni,Chievo,29.65535364820322,0.06395009180919949,False,Right Foot,Open Play,0,1,1,Half Volley
+3879769,Marek Hamšík,Napoli,24.01041440708594,0.06832651435827451,False,Left Foot,Open Play,1,0,1,Normal
+3879769,José María Callejón Bueno,Napoli,12.366486970841798,0.058156274691576595,False,Head,Open Play,0,1,1,Normal
+3879769,Gonzalo Gerardo Higuaín,Napoli,19.02761151589972,0.05463332050421629,False,Right Foot,Open Play,0,0,2,Normal
+3879769,José María Callejón Bueno,Napoli,17.020575783445167,0.05634063204531563,False,Right Foot,Open Play,1,1,2,Normal
+3879769,Faouzi Ghoulam,Napoli,30.15725451694832,0.07236677100939198,False,Left Foot,Open Play,0,0,1,Normal
+3879769,José María Callejón Bueno,Napoli,7.03846574190711,0.05648842604621141,True,Left Foot,Open Play,1,0,2,Normal
+3879769,Riccardo Meggiorini,Chievo,13.06024502067247,0.061027804963684644,False,Left Foot,Open Play,1,1,1,Volley
+3879769,Gonzalo Gerardo Higuaín,Napoli,16.79196236298784,0.0590726091960573,False,Right Foot,Open Play,0,0,2,Normal
+3879769,Allan Marques Loureiro,Napoli,23.60720229082641,0.06765702399474877,False,Right Foot,Open Play,0,1,2,Normal
+3879769,Dries Mertens,Napoli,20.135789033459798,0.06428022255869115,False,Left Foot,Open Play,0,0,2,Normal

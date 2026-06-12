@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.021221852062192,0.058793182205197636,False,Right Foot,Open Play,1,0,2,Volley
-19.436306233438497,0.057650209983693294,False,Left Foot,Open Play,0,1,5,Normal
-15.728000508646995,0.06185108941132455,False,Left Foot,Open Play,0,0,1,Normal
-21.5002325568818,0.06603819017417795,False,Left Foot,Open Play,0,1,1,Normal
-32.57192042235152,0.07472810730832678,False,Right Foot,Open Play,0,0,0,Normal
-11.503912377969506,0.059489027845778024,False,Left Foot,Open Play,0,0,3,Lob
-18.754466134763742,0.061927211014889294,False,Left Foot,Open Play,0,0,1,Normal
-22.38928315065045,0.06671750997700024,False,Right Foot,Open Play,0,0,3,Normal
-25.973062969160946,0.05808287955557352,False,Right Foot,Open Play,1,1,2,Half Volley
-29.48932010067374,0.0722871719681684,False,Right Foot,Open Play,1,0,1,Half Volley
-20.840345486579626,0.06614637705126099,False,Left Foot,Open Play,0,1,3,Half Volley
-21.332135383031858,0.0584693112940393,False,Left Foot,Open Play,0,0,1,Normal
-11.676472069936194,0.059885625069269456,False,Left Foot,Open Play,1,0,1,Half Volley
-19.601020381602584,0.05641117857326131,False,Right Foot,Open Play,1,0,1,Half Volley
-11.819052415485768,0.05394191787669985,False,Left Foot,Open Play,1,0,1,Backheel
-25.154323684011064,0.061873928037878306,False,Left Foot,Open Play,0,0,0,Normal
-21.134095674998722,0.06305906005084028,True,Right Foot,Open Play,1,0,0,Normal
-15.20690632574555,0.05492809218125236,False,Right Foot,Open Play,0,0,2,Normal
-11.107204868912785,0.05907567627258311,False,Right Foot,Open Play,1,0,3,Normal
-12.065239326262862,0.06096059194572508,False,Left Foot,Open Play,1,0,0,Normal
-27.60163038662753,0.055883369342728,False,Right Foot,Open Play,0,0,0,Normal
-24.734793308212627,0.060067840634121926,False,Left Foot,Open Play,0,0,1,Normal
-26.618038996139447,0.06781925250594394,False,Right Foot,Open Play,0,0,0,Normal
-17.901117283566407,0.06422405719274234,False,Right Foot,Open Play,1,0,1,Normal
-28.611186623417066,0.06763326230389255,False,Right Foot,Open Play,0,0,1,Normal
-25.855947091530023,0.06496508452156814,False,Left Foot,Open Play,0,0,1,Normal
-11.806777714516356,0.05982416223459556,False,Left Foot,Open Play,1,0,1,Normal
-13.18938967503804,0.05567113522951753,False,Left Foot,Open Play,1,0,3,Normal
-27.189152248645044,0.06530779344186453,False,Right Foot,Open Play,1,0,0,Normal
-18.94016895383988,0.06495675643925883,False,Left Foot,Open Play,1,0,2,Volley
-17.18400418994362,0.05955692672667829,False,Right Foot,Open Play,0,0,3,Half Volley
-3.3060550509633053,0.05617980611527658,True,Head,Open Play,0,0,4,Normal
-32.80320106331088,0.06771541582246907,False,Right Foot,Open Play,0,0,0,Normal
-14.983324063771693,0.05748856938905816,False,Left Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3802690,Mauro Emanuel Icardi Rivero,Paris Saint-Germain,8.021221852062192,0.058793182205197636,False,Right Foot,Open Play,1,0,2,Volley
+3802690,Ángel Fabián Di María Hernández,Paris Saint-Germain,19.436306233438497,0.057650209983693294,False,Left Foot,Open Play,0,1,5,Normal
+3802690,Terem Igobor Moffi,Lorient,15.728000508646995,0.06185108941132455,False,Left Foot,Open Play,0,0,1,Normal
+3802690,Dango Aboubacar Faissal Ouattara,Lorient,21.5002325568818,0.06603819017417795,False,Left Foot,Open Play,0,1,1,Normal
+3802690,Enzo Le Fée,Lorient,32.57192042235152,0.07472810730832678,False,Right Foot,Open Play,0,0,0,Normal
+3802690,Terem Igobor Moffi,Lorient,11.503912377969506,0.059489027845778024,False,Left Foot,Open Play,0,0,3,Lob
+3802690,Armand Lauriente,Lorient,18.754466134763742,0.061927211014889294,False,Left Foot,Open Play,0,0,1,Normal
+3802690,Dango Aboubacar Faissal Ouattara,Lorient,22.38928315065045,0.06671750997700024,False,Right Foot,Open Play,0,0,3,Normal
+3802690,Thomas Monconduit,Lorient,25.973062969160946,0.05808287955557352,False,Right Foot,Open Play,1,1,2,Half Volley
+3802690,Idrissa Gana Gueye,Paris Saint-Germain,29.48932010067374,0.0722871719681684,False,Right Foot,Open Play,1,0,1,Half Volley
+3802690,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,20.840345486579626,0.06614637705126099,False,Left Foot,Open Play,0,1,3,Half Volley
+3802690,Dango Aboubacar Faissal Ouattara,Lorient,21.332135383031858,0.0584693112940393,False,Left Foot,Open Play,0,0,1,Normal
+3802690,Ángel Fabián Di María Hernández,Paris Saint-Germain,11.676472069936194,0.059885625069269456,False,Left Foot,Open Play,1,0,1,Half Volley
+3802690,Georginio Wijnaldum,Paris Saint-Germain,19.601020381602584,0.05641117857326131,False,Right Foot,Open Play,1,0,1,Half Volley
+3802690,Terem Igobor Moffi,Lorient,11.819052415485768,0.05394191787669985,False,Left Foot,Open Play,1,0,1,Backheel
+3802690,Terem Igobor Moffi,Lorient,25.154323684011064,0.061873928037878306,False,Left Foot,Open Play,0,0,0,Normal
+3802690,Thomas Monconduit,Lorient,21.134095674998722,0.06305906005084028,True,Right Foot,Open Play,1,0,0,Normal
+3802690,Dango Aboubacar Faissal Ouattara,Lorient,15.20690632574555,0.05492809218125236,False,Right Foot,Open Play,0,0,2,Normal
+3802690,Georginio Wijnaldum,Paris Saint-Germain,11.107204868912785,0.05907567627258311,False,Right Foot,Open Play,1,0,3,Normal
+3802690,Ángel Fabián Di María Hernández,Paris Saint-Germain,12.065239326262862,0.06096059194572508,False,Left Foot,Open Play,1,0,0,Normal
+3802690,Armand Lauriente,Lorient,27.60163038662753,0.055883369342728,False,Right Foot,Open Play,0,0,0,Normal
+3802690,Dango Aboubacar Faissal Ouattara,Lorient,24.734793308212627,0.060067840634121926,False,Left Foot,Open Play,0,0,1,Normal
+3802690,Georginio Wijnaldum,Paris Saint-Germain,26.618038996139447,0.06781925250594394,False,Right Foot,Open Play,0,0,0,Normal
+3802690,Ángel Fabián Di María Hernández,Paris Saint-Germain,17.901117283566407,0.06422405719274234,False,Right Foot,Open Play,1,0,1,Normal
+3802690,Laurent Abergel,Lorient,28.611186623417066,0.06763326230389255,False,Right Foot,Open Play,0,0,1,Normal
+3802690,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,25.855947091530023,0.06496508452156814,False,Left Foot,Open Play,0,0,1,Normal
+3802690,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,11.806777714516356,0.05982416223459556,False,Left Foot,Open Play,1,0,1,Normal
+3802690,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,13.18938967503804,0.05567113522951753,False,Left Foot,Open Play,1,0,3,Normal
+3802690,Idrissa Gana Gueye,Paris Saint-Germain,27.189152248645044,0.06530779344186453,False,Right Foot,Open Play,1,0,0,Normal
+3802690,Terem Igobor Moffi,Lorient,18.94016895383988,0.06495675643925883,False,Left Foot,Open Play,1,0,2,Volley
+3802690,Mauro Emanuel Icardi Rivero,Paris Saint-Germain,17.18400418994362,0.05955692672667829,False,Right Foot,Open Play,0,0,3,Half Volley
+3802690,Mauro Emanuel Icardi Rivero,Paris Saint-Germain,3.3060550509633053,0.05617980611527658,True,Head,Open Play,0,0,4,Normal
+3802690,Thomas Monconduit,Lorient,32.80320106331088,0.06771541582246907,False,Right Foot,Open Play,0,0,0,Normal
+3802690,Ángel Fabián Di María Hernández,Paris Saint-Germain,14.983324063771693,0.05748856938905816,False,Left Foot,Open Play,0,0,4,Normal

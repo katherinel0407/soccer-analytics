@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.79127106221368,0.060115223912275376,False,Left Foot,Open Play,0,0,1,Normal
-21.99386278033033,0.054809504884015696,False,Left Foot,Open Play,0,1,2,Normal
-9.962429422585638,0.05443397941774392,False,Head,Open Play,0,1,6,Normal
-6.161168720299746,0.055644493803090125,True,Left Foot,Open Play,1,0,3,Normal
-27.097232330996462,0.05690296448487457,True,Left Foot,Open Play,1,0,1,Normal
-18.95283619936605,0.057519071330403126,False,Right Foot,Open Play,1,0,0,Normal
-26.84771871127974,0.07028940699983334,False,Left Foot,Open Play,1,0,0,Normal
-8.453401682163221,0.056459927788699266,False,Right Foot,Open Play,1,0,1,Overhead Kick
-11.884864324004713,0.05829868480358008,False,Head,Open Play,0,1,2,Normal
-10.031948963187562,0.05903618200497149,True,Left Foot,Open Play,1,0,1,Normal
-19.795201438732565,0.06041455639071946,False,Right Foot,Open Play,0,0,4,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-15.728954192825414,0.06226039172049275,False,Head,Open Play,0,0,6,Normal
-30.511800995680346,0.058613426680944256,False,Right Foot,Open Play,0,1,2,Normal
-27.46088126772336,0.07060669156895118,False,Left Foot,Open Play,0,0,2,Normal
-8.285529554590946,0.058913174268682346,False,Head,Open Play,0,1,5,Normal
-20.90023923308057,0.0635501545132495,False,Right Foot,Open Play,0,0,2,Normal
-17.28843544106869,0.05405392331899496,True,Left Foot,Open Play,0,0,0,Normal
-29.705891671518636,0.07244595153246418,False,Left Foot,Open Play,0,1,1,Normal
-19.123022773609826,0.06357496666117533,False,Right Foot,Open Play,0,0,1,Normal
-20.35706265648362,0.06589960530332295,False,Left Foot,Open Play,0,1,1,Normal
-23.64571842850202,0.06790594420644117,False,Left Foot,Open Play,0,1,3,Normal
-13.29812016790343,0.06102195664673527,False,Head,Open Play,0,1,1,Normal
-30.126400382388873,0.07274628224555853,False,Left Foot,Open Play,0,0,1,Normal
-26.92582403567252,0.06763405395238235,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879767,Josip Iličić,Fiorentina,33.79127106221368,0.060115223912275376,False,Left Foot,Open Play,0,0,1,Normal
+3879767,Josip Iličić,Fiorentina,21.99386278033033,0.054809504884015696,False,Left Foot,Open Play,0,1,2,Normal
+3879767,Konstantinos Manolas,AS Roma,9.962429422585638,0.05443397941774392,False,Head,Open Play,0,1,6,Normal
+3879767,Stephan El Shaarawy,AS Roma,6.161168720299746,0.055644493803090125,True,Left Foot,Open Play,1,0,3,Normal
+3879767,Mohamed Salah,AS Roma,27.097232330996462,0.05690296448487457,True,Left Foot,Open Play,1,0,1,Normal
+3879767,Diego Perotti,AS Roma,18.95283619936605,0.057519071330403126,False,Right Foot,Open Play,1,0,0,Normal
+3879767,Alberto Facundo Costa,Fiorentina,26.84771871127974,0.07028940699983334,False,Left Foot,Open Play,1,0,0,Normal
+3879767,Nikola Kalinić,Fiorentina,8.453401682163221,0.056459927788699266,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3879767,Seydou Kéita,AS Roma,11.884864324004713,0.05829868480358008,False,Head,Open Play,0,1,2,Normal
+3879767,Diego Perotti,AS Roma,10.031948963187562,0.05903618200497149,True,Left Foot,Open Play,1,0,1,Normal
+3879767,Radja Nainggolan,AS Roma,19.795201438732565,0.06041455639071946,False,Right Foot,Open Play,0,0,4,Normal
+3879767,Josip Iličić,Fiorentina,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3879767,Antonio Rüdiger,AS Roma,15.728954192825414,0.06226039172049275,False,Head,Open Play,0,0,6,Normal
+3879767,Facundo Sebastián Roncaglia,Fiorentina,30.511800995680346,0.058613426680944256,False,Right Foot,Open Play,0,1,2,Normal
+3879767,Marcos Alonso Mendoza,Fiorentina,27.46088126772336,0.07060669156895118,False,Left Foot,Open Play,0,0,2,Normal
+3879767,Antonio Rüdiger,AS Roma,8.285529554590946,0.058913174268682346,False,Head,Open Play,0,1,5,Normal
+3879767,Diego Perotti,AS Roma,20.90023923308057,0.0635501545132495,False,Right Foot,Open Play,0,0,2,Normal
+3879767,Mohamed Salah,AS Roma,17.28843544106869,0.05405392331899496,True,Left Foot,Open Play,0,0,0,Normal
+3879767,Federico Bernardeschi,Fiorentina,29.705891671518636,0.07244595153246418,False,Left Foot,Open Play,0,1,1,Normal
+3879767,Stephan El Shaarawy,AS Roma,19.123022773609826,0.06357496666117533,False,Right Foot,Open Play,0,0,1,Normal
+3879767,Milan Badelj,Fiorentina,20.35706265648362,0.06589960530332295,False,Left Foot,Open Play,0,1,1,Normal
+3879767,Marcos Alonso Mendoza,Fiorentina,23.64571842850202,0.06790594420644117,False,Left Foot,Open Play,0,1,3,Normal
+3879767,Miralem Pjanić,AS Roma,13.29812016790343,0.06102195664673527,False,Head,Open Play,0,1,1,Normal
+3879767,Federico Bernardeschi,Fiorentina,30.126400382388873,0.07274628224555853,False,Left Foot,Open Play,0,0,1,Normal
+3879767,Francesco Totti,AS Roma,26.92582403567252,0.06763405395238235,False,Right Foot,Free Kick,0,0,0,Normal

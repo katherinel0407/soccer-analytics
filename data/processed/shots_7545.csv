@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.029386365926403,0.06325637343712076,False,Left Foot,Open Play,0,1,1,Normal
-16.0312195418814,0.06090696083941079,False,Right Foot,Open Play,1,0,1,Normal
-33.37663853655727,0.07240126332217794,False,Right Foot,Open Play,0,0,1,Normal
-15.652475842498529,0.06294022363571763,False,Left Foot,Open Play,1,0,2,Normal
-7.810249675906654,0.05852323815906913,False,Head,Open Play,0,0,1,Diving Header
-21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,0,0,0,Normal
-26.832815729997478,0.07025046622473598,False,Left Foot,Open Play,0,0,1,Normal
-14.212670403551895,0.06171667333254851,False,Left Foot,Open Play,0,0,1,Normal
-15.620499351813308,0.06290668439967836,True,Right Foot,Open Play,1,0,0,Volley
-9.219544457292887,0.0593883558980146,False,Left Foot,Open Play,1,0,4,Normal
-5.0,0.057142015113999835,False,Left Foot,Open Play,0,1,4,Normal
-11.40175425099138,0.05810344098499332,False,Head,Open Play,0,1,4,Normal
-10.295630140987,0.053865815894109215,False,Right Foot,Open Play,1,0,1,Normal
-23.021728866442675,0.05245975212039065,False,Left Foot,Open Play,0,0,3,Normal
-23.345235059857504,0.06738677712556854,False,Right Foot,Open Play,0,0,2,Normal
-27.459060435491963,0.06377095526263883,True,Right Foot,Open Play,0,1,1,Normal
-23.853720883753127,0.06820563083154639,False,Right Foot,Open Play,0,0,3,Normal
-31.25699921617557,0.07066744049176532,False,Right Foot,Free Kick,0,0,0,Normal
-18.027756377319946,0.06407023454813196,False,Head,Open Play,0,0,4,Normal
-23.259406699226016,0.05890827248836751,False,Left Foot,Open Play,1,0,1,Normal
-35.84689665786984,0.060741084205167266,False,Right Foot,Open Play,1,0,0,Normal
-15.0,0.06260321267490356,False,Left Foot,Open Play,0,0,1,Normal
-22.090722034374522,0.06491868082005219,False,Right Foot,Open Play,0,1,1,Normal
-8.0,0.05795378045521751,True,Right Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7545,Ivan Perišić,Croatia,17.029386365926403,0.06325637343712076,False,Left Foot,Open Play,0,1,1,Normal
+7545,Maximiliano Eduardo Meza,Argentina,16.0312195418814,0.06090696083941079,False,Right Foot,Open Play,1,0,1,Normal
+7545,Marcelo Brozović,Croatia,33.37663853655727,0.07240126332217794,False,Right Foot,Open Play,0,0,1,Normal
+7545,Enzo Nicolás Pérez,Argentina,15.652475842498529,0.06294022363571763,False,Left Foot,Open Play,1,0,2,Normal
+7545,Mario Mandžukić,Croatia,7.810249675906654,0.05852323815906913,False,Head,Open Play,0,0,1,Diving Header
+7545,Ante Rebić,Croatia,21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,0,0,0,Normal
+7545,Marcos Javier Acuña,Argentina,26.832815729997478,0.07025046622473598,False,Left Foot,Open Play,0,0,1,Normal
+7545,Sergio Leonel Agüero del Castillo,Argentina,14.212670403551895,0.06171667333254851,False,Left Foot,Open Play,0,0,1,Normal
+7545,Ante Rebić,Croatia,15.620499351813308,0.06290668439967836,True,Right Foot,Open Play,1,0,0,Volley
+7545,Maximiliano Eduardo Meza,Argentina,9.219544457292887,0.0593883558980146,False,Left Foot,Open Play,1,0,4,Normal
+7545,Lionel Andrés Messi Cuccittini,Argentina,5.0,0.057142015113999835,False,Left Foot,Open Play,0,1,4,Normal
+7545,Nicolás Hernán Otamendi,Argentina,11.40175425099138,0.05810344098499332,False,Head,Open Play,0,1,4,Normal
+7545,Mario Mandžukić,Croatia,10.295630140987,0.053865815894109215,False,Right Foot,Open Play,1,0,1,Normal
+7545,Paulo Bruno Exequiel Dybala,Argentina,23.021728866442675,0.05245975212039065,False,Left Foot,Open Play,0,0,3,Normal
+7545,Ivan Rakitić,Croatia,23.345235059857504,0.06738677712556854,False,Right Foot,Open Play,0,0,2,Normal
+7545,Luka Modrić,Croatia,27.459060435491963,0.06377095526263883,True,Right Foot,Open Play,0,1,1,Normal
+7545,Gonzalo Gerardo Higuaín,Argentina,23.853720883753127,0.06820563083154639,False,Right Foot,Open Play,0,0,3,Normal
+7545,Ivan Rakitić,Croatia,31.25699921617557,0.07066744049176532,False,Right Foot,Free Kick,0,0,0,Normal
+7545,Mateo Kovačić,Croatia,18.027756377319946,0.06407023454813196,False,Head,Open Play,0,0,4,Normal
+7545,Mario Mandžukić,Croatia,23.259406699226016,0.05890827248836751,False,Left Foot,Open Play,1,0,1,Normal
+7545,Luka Modrić,Croatia,35.84689665786984,0.060741084205167266,False,Right Foot,Open Play,1,0,0,Normal
+7545,Maximiliano Eduardo Meza,Argentina,15.0,0.06260321267490356,False,Left Foot,Open Play,0,0,1,Normal
+7545,Ivan Rakitić,Croatia,22.090722034374522,0.06491868082005219,False,Right Foot,Open Play,0,1,1,Normal
+7545,Ivan Rakitić,Croatia,8.0,0.05795378045521751,True,Right Foot,Open Play,0,0,4,Normal

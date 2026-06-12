@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.448650338776723,0.06497586669311627,False,Left Foot,Open Play,0,1,3,Normal
-17.54536975956905,0.06371763676635081,False,Left Foot,Open Play,0,0,2,Normal
-19.369305614812323,0.06504552493106203,False,Right Foot,Open Play,0,0,4,Normal
-18.21565260977492,0.058450720249220156,True,Right Foot,Open Play,0,0,1,Normal
-26.431988196123278,0.07002782534016398,False,Right Foot,Open Play,0,1,2,Normal
-4.4777226354476225,0.054353930625851817,False,Right Foot,Open Play,1,0,2,Half Volley
-29.32047066470796,0.07129138008882657,False,Right Foot,Open Play,0,1,1,Normal
-22.394865482962828,0.0636324484737172,False,Right Foot,Open Play,1,0,0,Normal
-23.89476930208785,0.05823700083191753,False,Left Foot,Open Play,0,0,1,Normal
-25.179356624028344,0.06850538947514245,False,Left Foot,Open Play,0,0,2,Normal
-9.121403400793108,0.055770835255565344,False,Right Foot,Open Play,1,0,2,Half Volley
-26.101532522057013,0.056748490199592855,False,Right Foot,Open Play,0,0,1,Normal
-24.57335955867655,0.06064093209642653,False,Left Foot,Open Play,0,0,1,Normal
-18.92115218479044,0.05712264915388387,False,Right Foot,Open Play,0,0,2,Normal
-22.625870149013057,0.05549193752322869,False,Right Foot,Open Play,0,0,2,Normal
-21.897945109073586,0.06217389048957935,False,Right Foot,Open Play,1,0,1,Normal
-27.642177917088947,0.058703215847113605,False,Left Foot,Open Play,0,0,1,Normal
-17.613914953808536,0.06393439098921044,True,Left Foot,Open Play,1,0,2,Normal
-17.78819833485111,0.05975140413744031,False,Right Foot,Open Play,1,0,1,Normal
-30.07607022202202,0.06319457807868242,False,Left Foot,Open Play,0,0,2,Normal
-7.340980860893184,0.0583698594123115,False,Right Foot,Open Play,1,1,3,Normal
-16.200000000000003,0.0613913500523535,False,Right Foot,Open Play,1,0,2,Overhead Kick
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-20.87007426915391,0.05381401076331714,False,Right Foot,Open Play,1,0,0,Normal
-28.199645387841322,0.06464796313530344,False,Left Foot,Open Play,0,0,2,Normal
-25.223996511258882,0.06498811322313941,False,Right Foot,Open Play,0,0,2,Lob
-7.083078426785908,0.05830005814384238,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901259,Romain Alessandrini,Olympique de Marseille,19.448650338776723,0.06497586669311627,False,Left Foot,Open Play,0,1,3,Normal
+3901259,Steven Fletcher,Olympique de Marseille,17.54536975956905,0.06371763676635081,False,Left Foot,Open Play,0,0,2,Normal
+3901259,Rémy Cabella,Olympique de Marseille,19.369305614812323,0.06504552493106203,False,Right Foot,Open Play,0,0,4,Normal
+3901259,Fabien Camus,Troyes,18.21565260977492,0.058450720249220156,True,Right Foot,Open Play,0,0,1,Normal
+3901259,Romain Alessandrini,Olympique de Marseille,26.431988196123278,0.07002782534016398,False,Right Foot,Open Play,0,1,2,Normal
+3901259,Florian Thauvin,Olympique de Marseille,4.4777226354476225,0.054353930625851817,False,Right Foot,Open Play,1,0,2,Half Volley
+3901259,Rémy Cabella,Olympique de Marseille,29.32047066470796,0.07129138008882657,False,Right Foot,Open Play,0,1,1,Normal
+3901259,Fabien Camus,Troyes,22.394865482962828,0.0636324484737172,False,Right Foot,Open Play,1,0,0,Normal
+3901259,Chaouki Ben Saada,Troyes,23.89476930208785,0.05823700083191753,False,Left Foot,Open Play,0,0,1,Normal
+3901259,Romain Alessandrini,Olympique de Marseille,25.179356624028344,0.06850538947514245,False,Left Foot,Open Play,0,0,2,Normal
+3901259,Fabien Camus,Troyes,9.121403400793108,0.055770835255565344,False,Right Foot,Open Play,1,0,2,Half Volley
+3901259,Jessy Pi,Troyes,26.101532522057013,0.056748490199592855,False,Right Foot,Open Play,0,0,1,Normal
+3901259,Florian Thauvin,Olympique de Marseille,24.57335955867655,0.06064093209642653,False,Left Foot,Open Play,0,0,1,Normal
+3901259,Rémy Cabella,Olympique de Marseille,18.92115218479044,0.05712264915388387,False,Right Foot,Open Play,0,0,2,Normal
+3901259,Brice Dja Djédjé,Olympique de Marseille,22.625870149013057,0.05549193752322869,False,Right Foot,Open Play,0,0,2,Normal
+3901259,Romain Alessandrini,Olympique de Marseille,21.897945109073586,0.06217389048957935,False,Right Foot,Open Play,1,0,1,Normal
+3901259,Fabien Camus,Troyes,27.642177917088947,0.058703215847113605,False,Left Foot,Open Play,0,0,1,Normal
+3901259,Steven Fletcher,Olympique de Marseille,17.613914953808536,0.06393439098921044,True,Left Foot,Open Play,1,0,2,Normal
+3901259,Chaouki Ben Saada,Troyes,17.78819833485111,0.05975140413744031,False,Right Foot,Open Play,1,0,1,Normal
+3901259,Fabien Camus,Troyes,30.07607022202202,0.06319457807868242,False,Left Foot,Open Play,0,0,2,Normal
+3901259,Abdelaziz Barrada,Olympique de Marseille,7.340980860893184,0.0583698594123115,False,Right Foot,Open Play,1,1,3,Normal
+3901259,André-Frank Zambo Anguissa,Olympique de Marseille,16.200000000000003,0.0613913500523535,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3901259,Steven Fletcher,Olympique de Marseille,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3901259,Abdelaziz Barrada,Olympique de Marseille,20.87007426915391,0.05381401076331714,False,Right Foot,Open Play,1,0,0,Normal
+3901259,Florian Thauvin,Olympique de Marseille,28.199645387841322,0.06464796313530344,False,Left Foot,Open Play,0,0,2,Normal
+3901259,Benjamin Nivet,Troyes,25.223996511258882,0.06498811322313941,False,Right Foot,Open Play,0,0,2,Lob
+3901259,Javier Manquillo Gaitán,Olympique de Marseille,7.083078426785908,0.05830005814384238,False,Head,Open Play,0,1,2,Normal

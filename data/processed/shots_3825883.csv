@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.84806071780261,0.0558995391630162,False,Right Foot,Open Play,0,1,1,Normal
-18.740864441108364,0.06484043404923362,False,Right Foot,Open Play,0,0,2,Normal
-20.977368757782752,0.06630250868597534,False,Left Foot,Open Play,1,0,1,Volley
-13.224598292575848,0.05527869025353326,False,Right Foot,Open Play,0,1,2,Normal
-8.809086218218095,0.05562887819218117,False,Head,Open Play,0,0,1,Normal
-9.208691546577073,0.05830250008128198,True,Head,Open Play,0,0,2,Normal
-19.13661412058048,0.06130348165168856,False,Right Foot,Open Play,0,0,3,Normal
-26.310834270315343,0.06934303816152416,False,Right Foot,Open Play,0,0,1,Normal
-4.58802789878179,0.056145196021876405,True,Right Foot,Open Play,1,0,4,Half Volley
-25.548581173912574,0.06833929453645748,False,Right Foot,Open Play,0,0,1,Normal
-13.82316895650198,0.061060923342934594,False,Right Foot,Open Play,0,0,1,Normal
-23.475945135393374,0.054470126995851985,False,Right Foot,Open Play,0,0,1,Normal
-11.95700631429121,0.056522378265660284,False,Right Foot,Open Play,1,0,1,Volley
-22.250617968946393,0.06341630597156867,False,Left Foot,Open Play,1,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-14.749237268414934,0.0616623021488769,False,Left Foot,Open Play,1,0,2,Normal
-19.70025380547165,0.05350609419452504,False,Left Foot,Open Play,0,0,1,Normal
-13.701094846763155,0.06114915940213888,False,Left Foot,Open Play,0,0,3,Normal
-30.147802573321993,0.06329140632782193,False,Right Foot,Open Play,1,0,1,Volley
-28.45487655921213,0.06899319459796684,False,Right Foot,Open Play,0,0,3,Normal
-10.100000000000007,0.058029951788052495,False,Head,Open Play,0,1,3,Normal
-7.891767862779541,0.05826157542233596,False,Head,Open Play,0,1,3,Normal
-55.70080789360241,0.08174275476992003,False,Right Foot,Open Play,0,0,1,Lob
-17.186331778480252,0.055185418073752456,False,Left Foot,Open Play,0,0,1,Normal
-13.277424449041316,0.05458030212080474,True,Left Foot,Open Play,0,0,1,Normal
-9.204890004774635,0.059158438734618055,True,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825883,Charles Días Barbosa de Oliveira,Málaga,23.84806071780261,0.0558995391630162,False,Right Foot,Open Play,0,1,1,Normal
+3825883,Duje Čop,Málaga,18.740864441108364,0.06484043404923362,False,Right Foot,Open Play,0,0,2,Normal
+3825883,Charles Días Barbosa de Oliveira,Málaga,20.977368757782752,0.06630250868597534,False,Left Foot,Open Play,1,0,1,Volley
+3825883,Ignacio Camacho Barnola,Málaga,13.224598292575848,0.05527869025353326,False,Right Foot,Open Play,0,1,2,Normal
+3825883,Willian José da Silva,Las Palmas,8.809086218218095,0.05562887819218117,False,Head,Open Play,0,0,1,Normal
+3825883,Duje Čop,Málaga,9.208691546577073,0.05830250008128198,True,Head,Open Play,0,0,2,Normal
+3825883,Willian José da Silva,Las Palmas,19.13661412058048,0.06130348165168856,False,Right Foot,Open Play,0,0,3,Normal
+3825883,Pedro Taunausú Domínguez Placeres,Las Palmas,26.310834270315343,0.06934303816152416,False,Right Foot,Open Play,0,0,1,Normal
+3825883,Willian José da Silva,Las Palmas,4.58802789878179,0.056145196021876405,True,Right Foot,Open Play,1,0,4,Half Volley
+3825883,Duje Čop,Málaga,25.548581173912574,0.06833929453645748,False,Right Foot,Open Play,0,0,1,Normal
+3825883,Willian José da Silva,Las Palmas,13.82316895650198,0.061060923342934594,False,Right Foot,Open Play,0,0,1,Normal
+3825883,Nabil El Zhar,Las Palmas,23.475945135393374,0.054470126995851985,False,Right Foot,Open Play,0,0,1,Normal
+3825883,Pedro Taunausú Domínguez Placeres,Las Palmas,11.95700631429121,0.056522378265660284,False,Right Foot,Open Play,1,0,1,Volley
+3825883,Juan Pablo Añor Acosta,Málaga,22.250617968946393,0.06341630597156867,False,Left Foot,Open Play,1,0,1,Normal
+3825883,Charles Días Barbosa de Oliveira,Málaga,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3825883,Pedro Bigas Rigo,Las Palmas,14.749237268414934,0.0616623021488769,False,Left Foot,Open Play,1,0,2,Normal
+3825883,Juan Pablo Añor Acosta,Málaga,19.70025380547165,0.05350609419452504,False,Left Foot,Open Play,0,0,1,Normal
+3825883,Nabil El Zhar,Las Palmas,13.701094846763155,0.06114915940213888,False,Left Foot,Open Play,0,0,3,Normal
+3825883,Nabil El Zhar,Las Palmas,30.147802573321993,0.06329140632782193,False,Right Foot,Open Play,1,0,1,Volley
+3825883,Willian José da Silva,Las Palmas,28.45487655921213,0.06899319459796684,False,Right Foot,Open Play,0,0,3,Normal
+3825883,Duje Čop,Málaga,10.100000000000007,0.058029951788052495,False,Head,Open Play,0,1,3,Normal
+3825883,Nabil El Zhar,Las Palmas,7.891767862779541,0.05826157542233596,False,Head,Open Play,0,1,3,Normal
+3825883,Pablo Fornals Malla,Málaga,55.70080789360241,0.08174275476992003,False,Right Foot,Open Play,0,0,1,Lob
+3825883,Christian Atsu Twasam,Málaga,17.186331778480252,0.055185418073752456,False,Left Foot,Open Play,0,0,1,Normal
+3825883,Christian Atsu Twasam,Málaga,13.277424449041316,0.05458030212080474,True,Left Foot,Open Play,0,0,1,Normal
+3825883,Charles Días Barbosa de Oliveira,Málaga,9.204890004774635,0.059158438734618055,True,Right Foot,Open Play,1,0,1,Half Volley

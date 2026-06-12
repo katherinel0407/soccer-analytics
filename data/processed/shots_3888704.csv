@@ -1,57 +1,57 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.613167382259263,0.06455357168182747,False,Left Foot,Open Play,1,1,2,Normal
-9.712878049270467,0.05847016192955136,True,Right Foot,Open Play,0,0,2,Half Volley
-25.387004549572207,0.06927715606035058,False,Left Foot,Open Play,0,0,0,Normal
-9.567131231461184,0.05942074578080337,True,Left Foot,Open Play,0,0,1,Normal
-18.33084831643096,0.06101098829537976,False,Right Foot,Open Play,0,1,3,Normal
-19.602295783912652,0.0630390282292388,False,Right Foot,Open Play,1,0,0,Volley
-18.321571984958055,0.056420029806142344,False,Right Foot,Open Play,1,0,0,Normal
-16.86683135624472,0.06366415174513866,False,Left Foot,Open Play,1,0,1,Normal
-12.940247292845688,0.06143682076552449,False,Left Foot,Open Play,1,0,1,Half Volley
-6.911584478250985,0.05441672661841845,False,Right Foot,Open Play,0,0,2,Normal
-7.752418977325724,0.05616570587553072,False,Right Foot,Open Play,1,1,2,Volley
-14.512063946937385,0.062327299329162,False,Left Foot,Open Play,1,1,2,Normal
-12.45230902282785,0.06106335755025603,False,Left Foot,Open Play,0,0,2,Half Volley
-28.162386262531086,0.06956076482587603,False,Left Foot,Open Play,0,0,1,Normal
-17.219175357722563,0.05780745124793177,False,Right Foot,Open Play,1,0,0,Half Volley
-22.4877744563574,0.06699094693951844,False,Right Foot,Open Play,0,0,1,Normal
-29.148756405719958,0.07203579385917329,False,Right Foot,Open Play,0,0,0,Normal
-10.089598604503546,0.059858336438926615,False,Right Foot,Open Play,1,1,3,Normal
-26.448629454094593,0.07002652855245081,False,Right Foot,Free Kick,0,0,0,Normal
-16.860901518009054,0.062087725929328715,False,Left Foot,Open Play,1,0,1,Normal
-12.99576854210631,0.055783136941407775,False,Head,Open Play,0,1,1,Normal
-20.02598312193436,0.06427488016021411,False,Right Foot,Open Play,0,0,2,Normal
-13.384319183283099,0.05957956667316144,False,Right Foot,Open Play,0,1,3,Normal
-17.561605849124383,0.060132606652105965,False,Right Foot,Open Play,1,0,2,Normal
-25.87450482617977,0.06725493549598391,False,Right Foot,Open Play,0,0,1,Normal
-21.868013169924698,0.060757102011867174,False,Left Foot,Open Play,0,1,2,Normal
-34.85398112124352,0.06759971322721817,True,Left Foot,Open Play,0,0,0,Half Volley
-24.04163056034261,0.06036497990322559,False,Right Foot,Open Play,0,1,1,Normal
-19.51332877804298,0.06190990463128375,False,Right Foot,Open Play,0,0,1,Normal
-16.422241016377757,0.0627279519016438,False,Right Foot,Open Play,1,0,2,Normal
-21.91643219139466,0.06644788491202239,False,Right Foot,Open Play,0,1,3,Normal
-24.35898191632811,0.06856077985469648,False,Right Foot,Open Play,0,0,0,Normal
-4.2059481689626175,0.055995238113736225,True,Left Foot,Open Play,1,0,2,Normal
-23.97331850203471,0.06819808900953922,False,Right Foot,Open Play,1,0,0,Normal
-27.411676344215074,0.07072523977168721,False,Right Foot,Free Kick,0,0,0,Normal
-24.68400291686905,0.06030419937291665,False,Right Foot,Open Play,0,0,1,Normal
-8.02309167341369,0.0566928467383419,False,Right Foot,Open Play,0,1,3,Normal
-8.570297544426325,0.0560081836591987,False,Right Foot,Open Play,1,0,4,Volley
-13.319534526401439,0.06105725690936373,False,Head,Open Play,0,0,2,Normal
-14.425324953012325,0.05333479185652728,False,Right Foot,Open Play,0,0,1,Half Volley
-14.313629868066313,0.06119624502738632,False,Head,Open Play,0,0,1,Normal
-9.23471710449216,0.0581668447485102,False,Right Foot,Open Play,1,1,1,Volley
-10.855873986004074,0.056524799015475906,True,Right Foot,Open Play,1,1,2,Normal
-15.615697230671447,0.05367509963417857,False,Right Foot,Open Play,0,0,1,Normal
-19.42472651030124,0.06003891086091831,False,Left Foot,Open Play,0,0,0,Normal
-24.20123963767146,0.059080586292244636,False,Right Foot,Free Kick,0,0,0,Normal
-12.614673994994876,0.059138670429866674,False,Left Foot,Open Play,1,1,1,Normal
-16.67693017314637,0.060920960263986884,True,Right Foot,Open Play,0,1,1,Half Volley
-29.664962497869436,0.054379976337771946,False,Left Foot,Open Play,0,0,1,Normal
-23.809661904361427,0.06687055294098972,True,Left Foot,Open Play,0,0,2,Normal
-24.060133000463647,0.06735347381500278,False,Right Foot,Free Kick,0,0,0,Normal
-15.147607071745682,0.053499180644384914,False,Right Foot,Open Play,0,0,2,Normal
-28.676994263695065,0.0660611242931058,False,Left Foot,Open Play,0,1,1,Normal
-20.44749373395185,0.055732687248068964,False,Right Foot,Open Play,0,0,0,Half Volley
-24.74772716836841,0.06883660049245649,False,Left Foot,Open Play,1,0,0,Normal
-26.645262243033006,0.06854714606023814,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3888704,Édson Arantes do Nascimento,Brazil,18.613167382259263,0.06455357168182747,False,Left Foot,Open Play,1,1,2,Normal
+3888704,Edvaldo Izidio Neto,Brazil,9.712878049270467,0.05847016192955136,True,Right Foot,Open Play,0,0,2,Half Volley
+3888704,Roger Piantoni,France,25.387004549572207,0.06927715606035058,False,Left Foot,Open Play,0,0,0,Normal
+3888704,Just Louis Fontaine,France,9.567131231461184,0.05942074578080337,True,Left Foot,Open Play,0,0,1,Normal
+3888704,Édson Arantes do Nascimento,Brazil,18.33084831643096,0.06101098829537976,False,Right Foot,Open Play,0,1,3,Normal
+3888704,Roger Piantoni,France,19.602295783912652,0.0630390282292388,False,Right Foot,Open Play,1,0,0,Volley
+3888704,Just Louis Fontaine,France,18.321571984958055,0.056420029806142344,False,Right Foot,Open Play,1,0,0,Normal
+3888704,Mário Jorge Lobo Zagallo,Brazil,16.86683135624472,0.06366415174513866,False,Left Foot,Open Play,1,0,1,Normal
+3888704,Just Louis Fontaine,France,12.940247292845688,0.06143682076552449,False,Left Foot,Open Play,1,0,1,Half Volley
+3888704,Manoel Francisco dos Santos,Brazil,6.911584478250985,0.05441672661841845,False,Right Foot,Open Play,0,0,2,Normal
+3888704,Édson Arantes do Nascimento,Brazil,7.752418977325724,0.05616570587553072,False,Right Foot,Open Play,1,1,2,Volley
+3888704,Édson Arantes do Nascimento,Brazil,14.512063946937385,0.062327299329162,False,Left Foot,Open Play,1,1,2,Normal
+3888704,Édson Arantes do Nascimento,Brazil,12.45230902282785,0.06106335755025603,False,Left Foot,Open Play,0,0,2,Half Volley
+3888704,Just Louis Fontaine,France,28.162386262531086,0.06956076482587603,False,Left Foot,Open Play,0,0,1,Normal
+3888704,José Ely de Miranda,Brazil,17.219175357722563,0.05780745124793177,False,Right Foot,Open Play,1,0,0,Half Volley
+3888704,Edvaldo Izidio Neto,Brazil,22.4877744563574,0.06699094693951844,False,Right Foot,Open Play,0,0,1,Normal
+3888704,Edvaldo Izidio Neto,Brazil,29.148756405719958,0.07203579385917329,False,Right Foot,Open Play,0,0,0,Normal
+3888704,Edvaldo Izidio Neto,Brazil,10.089598604503546,0.059858336438926615,False,Right Foot,Open Play,1,1,3,Normal
+3888704,Raymond Kopaszewski Wlodarczyck,France,26.448629454094593,0.07002652855245081,False,Right Foot,Free Kick,0,0,0,Normal
+3888704,Mário Jorge Lobo Zagallo,Brazil,16.860901518009054,0.062087725929328715,False,Left Foot,Open Play,1,0,1,Normal
+3888704,Édson Arantes do Nascimento,Brazil,12.99576854210631,0.055783136941407775,False,Head,Open Play,0,1,1,Normal
+3888704,Edvaldo Izidio Neto,Brazil,20.02598312193436,0.06427488016021411,False,Right Foot,Open Play,0,0,2,Normal
+3888704,Edvaldo Izidio Neto,Brazil,13.384319183283099,0.05957956667316144,False,Right Foot,Open Play,0,1,3,Normal
+3888704,Édson Arantes do Nascimento,Brazil,17.561605849124383,0.060132606652105965,False,Right Foot,Open Play,1,0,2,Normal
+3888704,Manoel Francisco dos Santos,Brazil,25.87450482617977,0.06725493549598391,False,Right Foot,Open Play,0,0,1,Normal
+3888704,Roger Piantoni,France,21.868013169924698,0.060757102011867174,False,Left Foot,Open Play,0,1,2,Normal
+3888704,Waldyr Pereira,Brazil,34.85398112124352,0.06759971322721817,True,Left Foot,Open Play,0,0,0,Half Volley
+3888704,José Ely de Miranda,Brazil,24.04163056034261,0.06036497990322559,False,Right Foot,Open Play,0,1,1,Normal
+3888704,Édson Arantes do Nascimento,Brazil,19.51332877804298,0.06190990463128375,False,Right Foot,Open Play,0,0,1,Normal
+3888704,Waldyr Pereira,Brazil,16.422241016377757,0.0627279519016438,False,Right Foot,Open Play,1,0,2,Normal
+3888704,Jean Vincent,France,21.91643219139466,0.06644788491202239,False,Right Foot,Open Play,0,1,3,Normal
+3888704,José Ely de Miranda,Brazil,24.35898191632811,0.06856077985469648,False,Right Foot,Open Play,0,0,0,Normal
+3888704,Édson Arantes do Nascimento,Brazil,4.2059481689626175,0.055995238113736225,True,Left Foot,Open Play,1,0,2,Normal
+3888704,Mário Jorge Lobo Zagallo,Brazil,23.97331850203471,0.06819808900953922,False,Right Foot,Open Play,1,0,0,Normal
+3888704,Just Louis Fontaine,France,27.411676344215074,0.07072523977168721,False,Right Foot,Free Kick,0,0,0,Normal
+3888704,José Ely de Miranda,Brazil,24.68400291686905,0.06030419937291665,False,Right Foot,Open Play,0,0,1,Normal
+3888704,Edvaldo Izidio Neto,Brazil,8.02309167341369,0.0566928467383419,False,Right Foot,Open Play,0,1,3,Normal
+3888704,Édson Arantes do Nascimento,Brazil,8.570297544426325,0.0560081836591987,False,Right Foot,Open Play,1,0,4,Volley
+3888704,Just Louis Fontaine,France,13.319534526401439,0.06105725690936373,False,Head,Open Play,0,0,2,Normal
+3888704,Maryan Wisnieski,France,14.425324953012325,0.05333479185652728,False,Right Foot,Open Play,0,0,1,Half Volley
+3888704,Edvaldo Izidio Neto,Brazil,14.313629868066313,0.06119624502738632,False,Head,Open Play,0,0,1,Normal
+3888704,Edvaldo Izidio Neto,Brazil,9.23471710449216,0.0581668447485102,False,Right Foot,Open Play,1,1,1,Volley
+3888704,Édson Arantes do Nascimento,Brazil,10.855873986004074,0.056524799015475906,True,Right Foot,Open Play,1,1,2,Normal
+3888704,Edvaldo Izidio Neto,Brazil,15.615697230671447,0.05367509963417857,False,Right Foot,Open Play,0,0,1,Normal
+3888704,José Ely de Miranda,Brazil,19.42472651030124,0.06003891086091831,False,Left Foot,Open Play,0,0,0,Normal
+3888704,Waldyr Pereira,Brazil,24.20123963767146,0.059080586292244636,False,Right Foot,Free Kick,0,0,0,Normal
+3888704,Mário Jorge Lobo Zagallo,Brazil,12.614673994994876,0.059138670429866674,False,Left Foot,Open Play,1,1,1,Normal
+3888704,Édson Arantes do Nascimento,Brazil,16.67693017314637,0.060920960263986884,True,Right Foot,Open Play,0,1,1,Half Volley
+3888704,Roger Piantoni,France,29.664962497869436,0.054379976337771946,False,Left Foot,Open Play,0,0,1,Normal
+3888704,Roger Piantoni,France,23.809661904361427,0.06687055294098972,True,Left Foot,Open Play,0,0,2,Normal
+3888704,Waldyr Pereira,Brazil,24.060133000463647,0.06735347381500278,False,Right Foot,Free Kick,0,0,0,Normal
+3888704,Manoel Francisco dos Santos,Brazil,15.147607071745682,0.053499180644384914,False,Right Foot,Open Play,0,0,2,Normal
+3888704,Mário Jorge Lobo Zagallo,Brazil,28.676994263695065,0.0660611242931058,False,Left Foot,Open Play,0,1,1,Normal
+3888704,José Ely de Miranda,Brazil,20.44749373395185,0.055732687248068964,False,Right Foot,Open Play,0,0,0,Half Volley
+3888704,Roger Piantoni,France,24.74772716836841,0.06883660049245649,False,Left Foot,Open Play,1,0,0,Normal
+3888704,Mário Jorge Lobo Zagallo,Brazil,26.645262243033006,0.06854714606023814,False,Left Foot,Open Play,0,1,1,Normal

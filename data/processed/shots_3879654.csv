@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.45095203235028,0.06947402335797061,False,Right Foot,Open Play,0,0,2,Normal
-24.21611034001952,0.06301185744197842,False,Left Foot,Open Play,0,0,1,Normal
-24.126748641290234,0.06557101715514736,False,Left Foot,Open Play,1,1,1,Half Volley
-33.7013352851189,0.06999523798990033,False,Right Foot,Open Play,0,1,1,Normal
-23.157288269570767,0.06773896948927158,False,Left Foot,Open Play,0,1,3,Normal
-33.55428437621641,0.06216222220290367,False,Left Foot,Open Play,0,1,1,Normal
-12.519584657647396,0.06120686081079887,False,Head,Open Play,0,1,3,Normal
-25.468608128439218,0.060551293590067196,False,Left Foot,Open Play,0,0,2,Normal
-8.827797007181347,0.05804102929202995,False,Head,Open Play,0,1,2,Normal
-37.09366522736733,0.07846357464037694,False,Right Foot,Open Play,0,0,0,Normal
-14.424978336205568,0.05874182506727532,False,Head,Open Play,0,0,1,Normal
-9.219544457292887,0.05801597881724695,False,Right Foot,Open Play,0,1,4,Normal
-30.948344059093046,0.0593387048126068,False,Left Foot,Open Play,0,1,2,Normal
-22.334278586961346,0.06719190971501783,False,Right Foot,Open Play,0,0,2,Normal
-31.866283121820153,0.057856339362959336,False,Left Foot,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-19.631097778779463,0.06455146716173303,False,Left Foot,Open Play,0,0,2,Normal
-31.94276130831522,0.07167397615947937,False,Right Foot,Open Play,1,1,0,Normal
-24.001874926763534,0.06510314569781268,False,Right Foot,Open Play,0,1,1,Half Volley
-14.871785366928886,0.061601599332144305,True,Left Foot,Open Play,1,0,1,Normal
-9.32952303175248,0.0563346107312628,False,Right Foot,Open Play,1,1,1,Volley
-21.109239683134014,0.05165037640297733,False,Right Foot,Open Play,0,1,2,Normal
-28.918160384090825,0.06446848911947314,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879654,Lucas Nahuel Castro,Chievo,35.45095203235028,0.06947402335797061,False,Right Foot,Open Play,0,0,2,Normal
+3879654,Marten de Roon,Atalanta,24.21611034001952,0.06301185744197842,False,Left Foot,Open Play,0,0,1,Normal
+3879654,Riccardo Meggiorini,Chievo,24.126748641290234,0.06557101715514736,False,Left Foot,Open Play,1,1,1,Half Volley
+3879654,Perparim Hetemaj,Chievo,33.7013352851189,0.06999523798990033,False,Right Foot,Open Play,0,1,1,Normal
+3879654,Valter Birsa,Chievo,23.157288269570767,0.06773896948927158,False,Left Foot,Open Play,0,1,3,Normal
+3879654,Alejandro Darío Gómez,Atalanta,33.55428437621641,0.06216222220290367,False,Left Foot,Open Play,0,1,1,Normal
+3879654,Gabriel Alejandro Paletta,Atalanta,12.519584657647396,0.06120686081079887,False,Head,Open Play,0,1,3,Normal
+3879654,Alejandro Darío Gómez,Atalanta,25.468608128439218,0.060551293590067196,False,Left Foot,Open Play,0,0,2,Normal
+3879654,Germán Gustavo Denis,Atalanta,8.827797007181347,0.05804102929202995,False,Head,Open Play,0,1,2,Normal
+3879654,Ivan Radovanović,Chievo,37.09366522736733,0.07846357464037694,False,Right Foot,Open Play,0,0,0,Normal
+3879654,Germán Gustavo Denis,Atalanta,14.424978336205568,0.05874182506727532,False,Head,Open Play,0,0,1,Normal
+3879654,Massimo Gobbi,Chievo,9.219544457292887,0.05801597881724695,False,Right Foot,Open Play,0,1,4,Normal
+3879654,Riccardo Meggiorini,Chievo,30.948344059093046,0.0593387048126068,False,Left Foot,Open Play,0,1,2,Normal
+3879654,Alberto Paloschi,Chievo,22.334278586961346,0.06719190971501783,False,Right Foot,Open Play,0,0,2,Normal
+3879654,Valter Birsa,Chievo,31.866283121820153,0.057856339362959336,False,Left Foot,Open Play,0,1,1,Normal
+3879654,Alberto Paloschi,Chievo,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3879654,Perparim Hetemaj,Chievo,19.631097778779463,0.06455146716173303,False,Left Foot,Open Play,0,0,2,Normal
+3879654,Ivan Radovanović,Chievo,31.94276130831522,0.07167397615947937,False,Right Foot,Open Play,1,1,0,Normal
+3879654,Ivan Radovanović,Chievo,24.001874926763534,0.06510314569781268,False,Right Foot,Open Play,0,1,1,Half Volley
+3879654,Valter Birsa,Chievo,14.871785366928886,0.061601599332144305,True,Left Foot,Open Play,1,0,1,Normal
+3879654,Roberto Inglese,Chievo,9.32952303175248,0.0563346107312628,False,Right Foot,Open Play,1,1,1,Volley
+3879654,Nicola Rigoni,Chievo,21.109239683134014,0.05165037640297733,False,Right Foot,Open Play,0,1,2,Normal
+3879654,Alejandro Darío Gómez,Atalanta,28.918160384090825,0.06446848911947314,False,Right Foot,Open Play,1,0,2,Half Volley

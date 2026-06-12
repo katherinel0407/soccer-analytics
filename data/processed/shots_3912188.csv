@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.840560735419619,0.05435367425896942,True,Right Foot,Open Play,0,1,2,Normal
-12.745587471748808,0.0572557516217472,True,Right Foot,Open Play,1,0,2,Normal
-19.070920271449932,0.05270124897808877,False,Right Foot,Open Play,0,0,1,Normal
-9.625487000666512,0.05396931951986055,False,Right Foot,Open Play,0,1,4,Normal
-26.931394319641164,0.06568704951835466,False,Left Foot,Open Play,0,1,2,Normal
-30.9276575252637,0.07259759416796505,False,Right Foot,Open Play,1,1,2,Half Volley
-27.95711000801049,0.056860585997482456,False,Left Foot,Open Play,0,0,1,Normal
-6.933974329343882,0.05796095059428024,False,Head,Open Play,0,1,4,Normal
-36.177340974704045,0.07679341048966278,False,Right Foot,Open Play,0,1,1,Normal
-20.931316251014884,0.0662182657267843,False,Right Foot,Open Play,1,0,1,Half Volley
-10.09752444909147,0.0592386910676838,False,Head,Open Play,0,1,1,Normal
-12.89961239727768,0.06140773620129822,True,Left Foot,Open Play,0,0,1,Normal
-34.30014577228499,0.07228893097389716,False,Right Foot,Open Play,0,0,1,Normal
-22.55038802326914,0.06298923312672207,False,Left Foot,Open Play,0,0,1,Normal
-6.81542368455549,0.05685227171541006,False,Head,Open Play,0,1,4,Normal
-31.72664495341416,0.06800997042025285,False,Left Foot,Open Play,0,0,0,Normal
-33.36360292294584,0.06752107917250523,False,Left Foot,Open Play,1,0,1,Volley
-32.910180795614,0.06492143353773816,False,Left Foot,Open Play,0,0,1,Normal
-20.980228788075696,0.0653602889745147,False,Left Foot,Open Play,1,0,1,Volley
-8.095060222135476,0.058792168120287605,False,Head,Open Play,0,1,5,Normal
-14.957606760441328,0.05869985271444922,False,Right Foot,Open Play,1,0,1,Volley
-22.157842855296185,0.05407380269214983,False,Right Foot,Open Play,0,0,2,Half Volley
-18.592471594707362,0.06066550085911749,False,Right Foot,Open Play,1,0,0,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912188,Medina Desic,Nürnberg W,12.840560735419619,0.05435367425896942,True,Right Foot,Open Play,0,1,2,Normal
+3912188,Vanessa Haim,Nürnberg W,12.745587471748808,0.0572557516217472,True,Right Foot,Open Play,1,0,2,Normal
+3912188,Antonia-Johanna Halverkamps,Duisburg WFC,19.070920271449932,0.05270124897808877,False,Right Foot,Open Play,0,0,1,Normal
+3912188,Franziska Mai,Nürnberg W,9.625487000666512,0.05396931951986055,False,Right Foot,Open Play,0,1,4,Normal
+3912188,Lisa Josten,Duisburg WFC,26.931394319641164,0.06568704951835466,False,Left Foot,Open Play,0,1,2,Normal
+3912188,Lisa Josten,Duisburg WFC,30.9276575252637,0.07259759416796505,False,Right Foot,Open Play,1,1,2,Half Volley
+3912188,Antonia-Johanna Halverkamps,Duisburg WFC,27.95711000801049,0.056860585997482456,False,Left Foot,Open Play,0,0,1,Normal
+3912188,Taryn Ries,Duisburg WFC,6.933974329343882,0.05796095059428024,False,Head,Open Play,0,1,4,Normal
+3912188,Amélie Thöle,Nürnberg W,36.177340974704045,0.07679341048966278,False,Right Foot,Open Play,0,1,1,Normal
+3912188,Paula Flach,Duisburg WFC,20.931316251014884,0.0662182657267843,False,Right Foot,Open Play,1,0,1,Half Volley
+3912188,Vanessa Haim,Nürnberg W,10.09752444909147,0.0592386910676838,False,Head,Open Play,0,1,1,Normal
+3912188,Alexandra Emmerling,Duisburg WFC,12.89961239727768,0.06140773620129822,True,Left Foot,Open Play,0,0,1,Normal
+3912188,Jana Radosavljević,Duisburg WFC,34.30014577228499,0.07228893097389716,False,Right Foot,Open Play,0,0,1,Normal
+3912188,Jana Radosavljević,Duisburg WFC,22.55038802326914,0.06298923312672207,False,Left Foot,Open Play,0,0,1,Normal
+3912188,Medina Desic,Nürnberg W,6.81542368455549,0.05685227171541006,False,Head,Open Play,0,1,4,Normal
+3912188,Meret Günster,Duisburg WFC,31.72664495341416,0.06800997042025285,False,Left Foot,Open Play,0,0,0,Normal
+3912188,Madeleine Steck,Nürnberg W,33.36360292294584,0.06752107917250523,False,Left Foot,Open Play,1,0,1,Volley
+3912188,Antonia-Johanna Halverkamps,Duisburg WFC,32.910180795614,0.06492143353773816,False,Left Foot,Open Play,0,0,1,Normal
+3912188,Lisa Josten,Duisburg WFC,20.980228788075696,0.0653602889745147,False,Left Foot,Open Play,1,0,1,Volley
+3912188,Alexandra Emmerling,Duisburg WFC,8.095060222135476,0.058792168120287605,False,Head,Open Play,0,1,5,Normal
+3912188,Amélie Thöle,Nürnberg W,14.957606760441328,0.05869985271444922,False,Right Foot,Open Play,1,0,1,Volley
+3912188,Amélie Thöle,Nürnberg W,22.157842855296185,0.05407380269214983,False,Right Foot,Open Play,0,0,2,Half Volley
+3912188,Franziska Mai,Nürnberg W,18.592471594707362,0.06066550085911749,False,Right Foot,Open Play,1,0,0,Volley

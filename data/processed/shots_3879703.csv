@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.030566605165541,0.058181826774302156,True,Head,Open Play,0,0,5,Normal
-24.659480935331953,0.06382028963921559,False,Right Foot,Open Play,0,1,2,Normal
-19.594131774590064,0.05212231685235028,False,Left Foot,Open Play,0,1,1,Normal
-17.5775424903483,0.0641118908611735,False,Right Foot,Open Play,1,1,1,Volley
-23.299999999999997,0.06462707320337621,False,Right Foot,Open Play,1,0,0,Normal
-25.101593574910737,0.05929812097628123,False,Right Foot,Open Play,0,1,1,Normal
-17.135343591536174,0.057652144878463124,False,Right Foot,Open Play,1,1,2,Half Volley
-26.26194966105906,0.06775215854128798,False,Right Foot,Open Play,1,0,1,Normal
-18.917980864775185,0.06479054874072769,False,Right Foot,Open Play,1,0,2,Volley
-28.588284313683467,0.071595439366939,False,Left Foot,Open Play,0,0,1,Normal
-7.057619995437555,0.057841875728428103,False,Head,Open Play,0,1,3,Normal
-21.208488866489283,0.05597237044127694,False,Right Foot,Open Play,1,0,1,Normal
-8.81192374002408,0.0565024399669779,False,Right Foot,Open Play,0,0,1,Backheel
-27.45651106750456,0.0691156441310665,False,Right Foot,Open Play,1,1,1,Normal
-30.283989169196314,0.07112740186367522,False,Left Foot,Open Play,1,0,0,Normal
-6.313477647065839,0.05598756651323315,False,Head,Open Play,0,1,4,Normal
-34.04849482723136,0.07581750139489889,False,Right Foot,Open Play,0,1,0,Normal
-22.459073890078365,0.06584990665811173,False,Right Foot,Open Play,1,1,0,Normal
-5.852349955359813,0.057576646317008706,False,Head,Open Play,0,1,4,Normal
-21.418916872708568,0.05980296685043804,False,Right Foot,Open Play,1,0,0,Normal
-24.734793308212627,0.06849284438963033,False,Left Foot,Open Play,0,0,2,Normal
-13.484806264830057,0.05631792300138813,False,Right Foot,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-25.10318704865978,0.06221871265291868,True,Right Foot,Open Play,1,0,1,Volley
-22.544178849538966,0.059766018272777055,False,Right Foot,Open Play,1,0,2,Half Volley
-13.241223508422475,0.05417298074229618,True,Right Foot,Open Play,1,1,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-10.509519494249018,0.05688369581171942,False,Head,Open Play,0,0,2,Normal
-17.41522322567242,0.05752107939873783,False,Right Foot,Open Play,1,1,1,Normal
-7.529276193632425,0.058526970938063326,False,Head,Open Play,0,1,3,Normal
-8.324061508662705,0.055657711962653955,True,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879703,Boštjan Cesar,Chievo,8.030566605165541,0.058181826774302156,True,Head,Open Play,0,0,5,Normal
+3879703,Alberto Paloschi,Chievo,24.659480935331953,0.06382028963921559,False,Right Foot,Open Play,0,1,2,Normal
+3879703,Keita Baldé Diao,Lazio,19.594131774590064,0.05212231685235028,False,Left Foot,Open Play,0,1,1,Normal
+3879703,Marco Parolo,Lazio,17.5775424903483,0.0641118908611735,False,Right Foot,Open Play,1,1,1,Volley
+3879703,Giampiero Pinzi,Chievo,23.299999999999997,0.06462707320337621,False,Right Foot,Open Play,1,0,0,Normal
+3879703,Sergej Milinković-Savić,Lazio,25.101593574910737,0.05929812097628123,False,Right Foot,Open Play,0,1,1,Normal
+3879703,Roberto Inglese,Chievo,17.135343591536174,0.057652144878463124,False,Right Foot,Open Play,1,1,2,Half Volley
+3879703,Sergej Milinković-Savić,Lazio,26.26194966105906,0.06775215854128798,False,Right Foot,Open Play,1,0,1,Normal
+3879703,Antonio Candreva,Lazio,18.917980864775185,0.06479054874072769,False,Right Foot,Open Play,1,0,2,Volley
+3879703,Marco Parolo,Lazio,28.588284313683467,0.071595439366939,False,Left Foot,Open Play,0,0,1,Normal
+3879703,Keita Baldé Diao,Lazio,7.057619995437555,0.057841875728428103,False,Head,Open Play,0,1,3,Normal
+3879703,Keita Baldé Diao,Lazio,21.208488866489283,0.05597237044127694,False,Right Foot,Open Play,1,0,1,Normal
+3879703,Marco Parolo,Lazio,8.81192374002408,0.0565024399669779,False,Right Foot,Open Play,0,0,1,Backheel
+3879703,Senad Lulić,Lazio,27.45651106750456,0.0691156441310665,False,Right Foot,Open Play,1,1,1,Normal
+3879703,Ştefan Daniel Radu,Lazio,30.283989169196314,0.07112740186367522,False,Left Foot,Open Play,1,0,0,Normal
+3879703,Filip Đorđević,Lazio,6.313477647065839,0.05598756651323315,False,Head,Open Play,0,1,4,Normal
+3879703,Marco Parolo,Lazio,34.04849482723136,0.07581750139489889,False,Right Foot,Open Play,0,1,0,Normal
+3879703,Marco Parolo,Lazio,22.459073890078365,0.06584990665811173,False,Right Foot,Open Play,1,1,0,Normal
+3879703,Alessandro Matri,Lazio,5.852349955359813,0.057576646317008706,False,Head,Open Play,0,1,4,Normal
+3879703,Antonio Candreva,Lazio,21.418916872708568,0.05980296685043804,False,Right Foot,Open Play,1,0,0,Normal
+3879703,Danilo Cataldi,Lazio,24.734793308212627,0.06849284438963033,False,Left Foot,Open Play,0,0,2,Normal
+3879703,Miroslav Klose,Lazio,13.484806264830057,0.05631792300138813,False,Right Foot,Open Play,0,1,2,Normal
+3879703,Antonio Candreva,Lazio,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879703,Danilo Cataldi,Lazio,25.10318704865978,0.06221871265291868,True,Right Foot,Open Play,1,0,1,Volley
+3879703,Senad Lulić,Lazio,22.544178849538966,0.059766018272777055,False,Right Foot,Open Play,1,0,2,Half Volley
+3879703,Antonio Candreva,Lazio,13.241223508422475,0.05417298074229618,True,Right Foot,Open Play,1,1,2,Normal
+3879703,Alberto Paloschi,Chievo,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3879703,Alberto Paloschi,Chievo,10.509519494249018,0.05688369581171942,False,Head,Open Play,0,0,2,Normal
+3879703,Felipe Anderson Pereira Gomes,Lazio,17.41522322567242,0.05752107939873783,False,Right Foot,Open Play,1,1,1,Normal
+3879703,Dario Dainelli,Chievo,7.529276193632425,0.058526970938063326,False,Head,Open Play,0,1,3,Normal
+3879703,Keita Baldé Diao,Lazio,8.324061508662705,0.055657711962653955,True,Head,Open Play,0,0,1,Normal

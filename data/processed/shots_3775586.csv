@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.87448491929029,0.06723659557351183,False,Left Foot,Open Play,1,1,1,Normal
-28.22941728056036,0.05072181340683191,True,Left Foot,Free Kick,0,0,0,Normal
-30.184101775603658,0.06508902841694408,False,Left Foot,Free Kick,0,0,0,Normal
-13.823530663329104,0.06082785883878131,True,Left Foot,Open Play,0,1,1,Normal
-26.132355423880174,0.06662431740522945,False,Left Foot,Open Play,0,0,1,Normal
-12.403628501370072,0.05688627288934682,True,Right Foot,Open Play,1,0,1,Normal
-9.669022701390249,0.05794242152987994,False,Right Foot,Open Play,1,0,1,Half Volley
-24.988197213884806,0.06879779560156803,False,Right Foot,Open Play,0,0,1,Normal
-15.094369811290564,0.05346878224412672,True,Right Foot,Open Play,1,0,1,Normal
-19.67866865415443,0.06541287583035349,False,Right Foot,Open Play,0,0,2,Normal
-4.808326112068526,0.05713702865594796,True,Left Foot,Open Play,1,0,2,Normal
-26.430664009820113,0.0699486187369948,False,Right Foot,Open Play,0,1,1,Normal
-12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
-7.424284477308229,0.056295074169697694,False,Right Foot,Open Play,1,0,3,Volley
-23.600847442411894,0.05272183147123836,False,Right Foot,Open Play,1,0,0,Normal
-16.33707440149552,0.0581575040023716,False,Right Foot,Open Play,0,0,2,Normal
-6.627216610312351,0.057587164642568855,True,Right Foot,Open Play,1,0,1,Normal
-29.85029313088902,0.07253866353369103,False,Right Foot,Open Play,0,0,1,Half Volley
-28.433958570695005,0.06125727463569325,False,Left Foot,Free Kick,0,0,0,Normal
-4.341658669218482,0.05488187422218637,True,Head,Open Play,0,1,3,Normal
-7.844743462982074,0.056998321663657675,False,Head,Open Play,0,0,3,Normal
-14.026403673073151,0.06196242758527474,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775586,Katie McCabe,Arsenal WFC,24.87448491929029,0.06723659557351183,False,Left Foot,Open Play,1,1,1,Normal
+3775586,Katie McCabe,Arsenal WFC,28.22941728056036,0.05072181340683191,True,Left Foot,Free Kick,0,0,0,Normal
+3775586,Katie McCabe,Arsenal WFC,30.184101775603658,0.06508902841694408,False,Left Foot,Free Kick,0,0,0,Normal
+3775586,Vivianne Miedema,Arsenal WFC,13.823530663329104,0.06082785883878131,True,Left Foot,Open Play,0,1,1,Normal
+3775586,Rianna Dean,Tottenham Hotspur Women,26.132355423880174,0.06662431740522945,False,Left Foot,Open Play,0,0,1,Normal
+3775586,Caitlin Jade Foord,Arsenal WFC,12.403628501370072,0.05688627288934682,True,Right Foot,Open Play,1,0,1,Normal
+3775586,Vivianne Miedema,Arsenal WFC,9.669022701390249,0.05794242152987994,False,Right Foot,Open Play,1,0,1,Half Volley
+3775586,Bethany Mead,Arsenal WFC,24.988197213884806,0.06879779560156803,False,Right Foot,Open Play,0,0,1,Normal
+3775586,Vivianne Miedema,Arsenal WFC,15.094369811290564,0.05346878224412672,True,Right Foot,Open Play,1,0,1,Normal
+3775586,Caitlin Jade Foord,Arsenal WFC,19.67866865415443,0.06541287583035349,False,Right Foot,Open Play,0,0,2,Normal
+3775586,Vivianne Miedema,Arsenal WFC,4.808326112068526,0.05713702865594796,True,Left Foot,Open Play,1,0,2,Normal
+3775586,Caitlin Jade Foord,Arsenal WFC,26.430664009820113,0.0699486187369948,False,Right Foot,Open Play,0,1,1,Normal
+3775586,Rianna Dean,Tottenham Hotspur Women,12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
+3775586,Ashleigh Neville,Tottenham Hotspur Women,7.424284477308229,0.056295074169697694,False,Right Foot,Open Play,1,0,3,Volley
+3775586,Rosella Ayane,Tottenham Hotspur Women,23.600847442411894,0.05272183147123836,False,Right Foot,Open Play,1,0,0,Normal
+3775586,Caitlin Jade Foord,Arsenal WFC,16.33707440149552,0.0581575040023716,False,Right Foot,Open Play,0,0,2,Normal
+3775586,Caitlin Jade Foord,Arsenal WFC,6.627216610312351,0.057587164642568855,True,Right Foot,Open Play,1,0,1,Normal
+3775586,Lucia Leon,Tottenham Hotspur Women,29.85029313088902,0.07253866353369103,False,Right Foot,Open Play,0,0,1,Half Volley
+3775586,Siri Worm,Tottenham Hotspur Women,28.433958570695005,0.06125727463569325,False,Left Foot,Free Kick,0,0,0,Normal
+3775586,Lucia Leon,Tottenham Hotspur Women,4.341658669218482,0.05488187422218637,True,Head,Open Play,0,1,3,Normal
+3775586,Angela Addison,Tottenham Hotspur Women,7.844743462982074,0.056998321663657675,False,Head,Open Play,0,0,3,Normal
+3775586,Alanna Stephanie Kennedy,Tottenham Hotspur Women,14.026403673073151,0.06196242758527474,False,Head,Open Play,0,0,2,Normal

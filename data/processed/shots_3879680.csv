@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.789920511703787,0.06937128866118746,False,Right Foot,Open Play,1,0,2,Half Volley
-47.41444927445641,0.08402370583671566,False,Right Foot,Open Play,0,0,2,Half Volley
-25.276471272707358,0.059233263375233075,False,Left Foot,Open Play,0,0,3,Normal
-26.960155785900056,0.06542540345803372,False,Right Foot,Open Play,0,0,1,Normal
-31.643166718898406,0.05785360874582878,False,Right Foot,Open Play,0,0,0,Normal
-25.86058777367599,0.05503312800846283,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-30.70651396690937,0.062144876373904194,False,Right Foot,Open Play,1,0,0,Normal
-31.84540783221342,0.07327533578737731,False,Right Foot,Open Play,1,0,1,Half Volley
-31.15461442547476,0.06661564297400518,False,Left Foot,Free Kick,0,0,0,Normal
-30.056613249000627,0.07220747040282313,False,Right Foot,Free Kick,0,0,0,Normal
-19.916073910286638,0.05673909049265969,False,Right Foot,Open Play,0,0,1,Normal
-24.6732648832699,0.05952548959228283,False,Left Foot,Open Play,0,0,1,Normal
-15.231546211727816,0.06005554724134418,False,Right Foot,Open Play,0,0,3,Normal
-18.584133017173546,0.06345888327830458,False,Right Foot,Open Play,0,0,2,Normal
-6.888396039717806,0.057824305258423976,False,Head,Open Play,0,1,6,Normal
-36.54832417498783,0.07769558788269205,False,Left Foot,Open Play,0,0,1,Normal
-20.338387350033436,0.05410443416270181,False,Right Foot,Open Play,1,0,3,Volley
-23.78003364169193,0.06796500339497805,False,Right Foot,Open Play,1,0,1,Normal
-20.81946204876581,0.055815090729698695,True,Right Foot,Open Play,0,0,0,Normal
-23.108872754853284,0.06296956974907819,False,Right Foot,Open Play,0,0,2,Normal
-10.381233067415456,0.060037363530834845,False,Head,Open Play,0,0,3,Normal
-17.70875489694292,0.06382275595047236,False,Right Foot,Open Play,0,1,1,Half Volley
-21.863439802556233,0.054245054393785255,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879680,Mattia Destro,Bologna,25.789920511703787,0.06937128866118746,False,Right Foot,Open Play,1,0,2,Half Volley
+3879680,Mattia Destro,Bologna,47.41444927445641,0.08402370583671566,False,Right Foot,Open Play,0,0,2,Half Volley
+3879680,Valter Birsa,Chievo,25.276471272707358,0.059233263375233075,False,Left Foot,Open Play,0,0,3,Normal
+3879680,Nicola Rigoni,Chievo,26.960155785900056,0.06542540345803372,False,Right Foot,Open Play,0,0,1,Normal
+3879680,Luca Rossettini,Bologna,31.643166718898406,0.05785360874582878,False,Right Foot,Open Play,0,0,0,Normal
+3879680,Alberto Paloschi,Chievo,25.86058777367599,0.05503312800846283,False,Right Foot,Open Play,0,0,1,Normal
+3879680,Mattia Destro,Bologna,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3879680,Erick Antonio Pulgar Farfán,Bologna,30.70651396690937,0.062144876373904194,False,Right Foot,Open Play,1,0,0,Normal
+3879680,Ibrahima Mbaye,Bologna,31.84540783221342,0.07327533578737731,False,Right Foot,Open Play,1,0,1,Half Volley
+3879680,Valter Birsa,Chievo,31.15461442547476,0.06661564297400518,False,Left Foot,Free Kick,0,0,0,Normal
+3879680,Simone Pepe,Chievo,30.056613249000627,0.07220747040282313,False,Right Foot,Free Kick,0,0,0,Normal
+3879680,Alberto Paloschi,Chievo,19.916073910286638,0.05673909049265969,False,Right Foot,Open Play,0,0,1,Normal
+3879680,Filippo Falco,Bologna,24.6732648832699,0.05952548959228283,False,Left Foot,Open Play,0,0,1,Normal
+3879680,Fabrizio Cacciatore,Chievo,15.231546211727816,0.06005554724134418,False,Right Foot,Open Play,0,0,3,Normal
+3879680,Emanuele Giaccherini,Bologna,18.584133017173546,0.06345888327830458,False,Right Foot,Open Play,0,0,2,Normal
+3879680,Daniele Gastaldello,Bologna,6.888396039717806,0.057824305258423976,False,Head,Open Play,0,1,6,Normal
+3879680,Adam Masina,Bologna,36.54832417498783,0.07769558788269205,False,Left Foot,Open Play,0,0,1,Normal
+3879680,Luca Rossettini,Bologna,20.338387350033436,0.05410443416270181,False,Right Foot,Open Play,1,0,3,Volley
+3879680,Matteo Brighi,Bologna,23.78003364169193,0.06796500339497805,False,Right Foot,Open Play,1,0,1,Normal
+3879680,Simone Pepe,Chievo,20.81946204876581,0.055815090729698695,True,Right Foot,Open Play,0,0,0,Normal
+3879680,Saphir Sliti Taïder,Bologna,23.108872754853284,0.06296956974907819,False,Right Foot,Open Play,0,0,2,Normal
+3879680,Emanuele Giaccherini,Bologna,10.381233067415456,0.060037363530834845,False,Head,Open Play,0,0,3,Normal
+3879680,Emanuele Giaccherini,Bologna,17.70875489694292,0.06382275595047236,False,Right Foot,Open Play,0,1,1,Half Volley
+3879680,Filippo Falco,Bologna,21.863439802556233,0.054245054393785255,False,Right Foot,Open Play,0,0,2,Normal

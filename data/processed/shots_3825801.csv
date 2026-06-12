@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.480478510034864,0.05622725962967063,False,Left Foot,Open Play,1,0,1,Half Volley
-7.731752712031085,0.058060371774390836,True,Right Foot,Open Play,0,0,4,Normal
-18.63571839237758,0.06420544617172984,False,Left Foot,Open Play,0,1,2,Normal
-30.548649724660507,0.07242150323772771,False,Right Foot,Open Play,0,0,2,Normal
-7.833900688673549,0.05716978951182794,False,Head,Open Play,0,1,1,Normal
-14.800337833982038,0.0623199626032936,False,Head,Open Play,0,0,1,Normal
-13.579396157414362,0.055304452186089696,False,Left Foot,Open Play,0,0,3,Normal
-14.243595051811885,0.056005351462376236,False,Right Foot,Open Play,1,1,3,Volley
-34.72477501726973,0.05842590710327953,False,Right Foot,Open Play,0,0,0,Normal
-20.251419703319566,0.06580872275148111,False,Left Foot,Open Play,0,0,4,Normal
-9.078546139112806,0.059161470311202446,False,Head,Open Play,0,1,2,Normal
-13.534031180694095,0.051456004769144505,False,Right Foot,Open Play,0,1,1,Normal
-19.063315556324405,0.060439340985180265,False,Right Foot,Open Play,1,0,2,Normal
-9.257429448826489,0.057819848760519654,False,Head,Open Play,0,1,3,Normal
-13.366375724181935,0.05866035345566807,False,Right Foot,Open Play,1,0,5,Half Volley
-10.940292500660115,0.06033681304926016,False,Right Foot,Open Play,1,0,1,Normal
-13.291350570954023,0.05759101873029667,False,Head,Open Play,0,0,1,Diving Header
-12.050726119201286,0.060673341399342696,False,Head,Open Play,0,0,0,Diving Header
-15.989058759038949,0.06296500713156135,False,Left Foot,Open Play,0,0,2,Normal
-28.74595623735624,0.07107811764067677,False,Right Foot,Open Play,0,0,0,Normal
-23.632604596192948,0.06352300682699007,False,Right Foot,Open Play,1,0,0,Volley
-13.94022955334667,0.06143227229516715,False,Left Foot,Open Play,0,0,1,Normal
-16.724233913695418,0.06262539177066395,False,Right Foot,Open Play,1,0,2,Half Volley
-32.60245389537419,0.06899818909520804,False,Right Foot,Open Play,0,0,1,Normal
-22.47153755309147,0.06724188603077708,False,Right Foot,Open Play,1,0,3,Normal
-15.608010763707208,0.06145653865427348,False,Left Foot,Open Play,1,0,1,Normal
-26.755560169803957,0.06702094753868287,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825801,José Antonio Reyes Calderón,Sevilla,20.480478510034864,0.05622725962967063,False,Left Foot,Open Play,1,0,1,Half Volley
+3825801,Fernando Llorente Torres,Sevilla,7.731752712031085,0.058060371774390836,True,Right Foot,Open Play,0,0,4,Normal
+3825801,José Antonio Reyes Calderón,Sevilla,18.63571839237758,0.06420544617172984,False,Left Foot,Open Play,0,1,2,Normal
+3825801,Fernando Llorente Torres,Sevilla,30.548649724660507,0.07242150323772771,False,Right Foot,Open Play,0,0,2,Normal
+3825801,Fernando Llorente Torres,Sevilla,7.833900688673549,0.05716978951182794,False,Head,Open Play,0,1,1,Normal
+3825801,Borja González Tomás,Eibar,14.800337833982038,0.0623199626032936,False,Head,Open Play,0,0,1,Normal
+3825801,Gonzalo Escalante,Eibar,13.579396157414362,0.055304452186089696,False,Left Foot,Open Play,0,0,3,Normal
+3825801,Gonzalo Escalante,Eibar,14.243595051811885,0.056005351462376236,False,Right Foot,Open Play,1,1,3,Volley
+3825801,Manuel Castellano Castro,Eibar,34.72477501726973,0.05842590710327953,False,Right Foot,Open Play,0,0,0,Normal
+3825801,Michael Krohn-Dehli,Sevilla,20.251419703319566,0.06580872275148111,False,Left Foot,Open Play,0,0,4,Normal
+3825801,Daniel Filipe Martins Carriço,Sevilla,9.078546139112806,0.059161470311202446,False,Head,Open Play,0,1,2,Normal
+3825801,Borja González Tomás,Eibar,13.534031180694095,0.051456004769144505,False,Right Foot,Open Play,0,1,1,Normal
+3825801,Borja González Tomás,Eibar,19.063315556324405,0.060439340985180265,False,Right Foot,Open Play,1,0,2,Normal
+3825801,Fernando Llorente Torres,Sevilla,9.257429448826489,0.057819848760519654,False,Head,Open Play,0,1,3,Normal
+3825801,Borja González Tomás,Eibar,13.366375724181935,0.05866035345566807,False,Right Foot,Open Play,1,0,5,Half Volley
+3825801,Michael Krohn-Dehli,Sevilla,10.940292500660115,0.06033681304926016,False,Right Foot,Open Play,1,0,1,Normal
+3825801,Borja González Tomás,Eibar,13.291350570954023,0.05759101873029667,False,Head,Open Play,0,0,1,Diving Header
+3825801,Daniel Filipe Martins Carriço,Sevilla,12.050726119201286,0.060673341399342696,False,Head,Open Play,0,0,0,Diving Header
+3825801,Éver Maximiliano David Banega,Sevilla,15.989058759038949,0.06296500713156135,False,Left Foot,Open Play,0,0,2,Normal
+3825801,Éver Maximiliano David Banega,Sevilla,28.74595623735624,0.07107811764067677,False,Right Foot,Open Play,0,0,0,Normal
+3825801,Víctor Machín Pérez,Sevilla,23.632604596192948,0.06352300682699007,False,Right Foot,Open Play,1,0,0,Volley
+3825801,Sergio Enrich Ametller,Eibar,13.94022955334667,0.06143227229516715,False,Left Foot,Open Play,0,0,1,Normal
+3825801,Sergio Enrich Ametller,Eibar,16.724233913695418,0.06262539177066395,False,Right Foot,Open Play,1,0,2,Half Volley
+3825801,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,32.60245389537419,0.06899818909520804,False,Right Foot,Open Play,0,0,1,Normal
+3825801,Borja González Tomás,Eibar,22.47153755309147,0.06724188603077708,False,Right Foot,Open Play,1,0,3,Normal
+3825801,Vicente Iborra De La Fuente,Sevilla,15.608010763707208,0.06145653865427348,False,Left Foot,Open Play,1,0,1,Normal
+3825801,Saúl Berjón Pérez,Eibar,26.755560169803957,0.06702094753868287,False,Right Foot,Free Kick,0,0,0,Normal

@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.47145129523913,0.055664240365185996,True,Left Foot,Open Play,0,1,1,Half Volley
-12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
-11.868024266911485,0.060649257973520866,False,Head,Open Play,0,0,4,Normal
-32.540590037674484,0.07394948275146028,False,Left Foot,Open Play,0,0,0,Normal
-8.657944328765339,0.05852437726973807,True,Left Foot,Open Play,0,0,2,Normal
-11.046266337545914,0.05951201881749674,False,Head,Open Play,0,0,2,Normal
-5.536244214266562,0.057376196753715546,True,Left Foot,Open Play,1,0,3,Normal
-31.15846594426625,0.0615480803185308,False,Right Foot,Open Play,0,0,1,Normal
-9.235799911215057,0.05942919007394203,False,Left Foot,Open Play,1,0,1,Half Volley
-13.020752666416794,0.06148393650988749,False,Right Foot,Open Play,0,0,3,Normal
-19.252012881774203,0.053208323046245884,False,Right Foot,Open Play,0,0,1,Normal
-18.117670931993445,0.06327964193438343,False,Left Foot,Open Play,1,0,2,Normal
-26.720029940102993,0.05613221127268823,False,Right Foot,Open Play,1,0,1,Normal
-9.503683496413384,0.058041130636352786,True,Right Foot,Open Play,1,0,3,Volley
-36.23975717357941,0.07690139466949726,False,Right Foot,Open Play,0,1,1,Normal
-22.779815626997507,0.05418635051663065,False,Right Foot,Open Play,0,0,2,Normal
-11.941942890501524,0.05703580877343952,False,Head,Open Play,0,1,1,Normal
-3.982461550347978,0.0545689625416025,True,Right Foot,Open Play,1,0,3,Normal
-33.25672864248678,0.06457249398436023,False,Left Foot,Open Play,0,0,1,Normal
-22.27487373701588,0.058778378876209146,False,Left Foot,Open Play,0,0,2,Half Volley
-29.21814504721339,0.06963937814259767,False,Right Foot,Open Play,0,0,1,Normal
-31.250759990758628,0.054403769239934716,False,Left Foot,Open Play,0,0,1,Normal
-10.49571341072154,0.05648750212454543,False,Head,Open Play,0,1,3,Normal
-15.164761785138602,0.06267604590783271,False,Right Foot,Open Play,0,0,2,Normal
-25.902316498722655,0.06928309405022415,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754234,Matt Ritchie,AFC Bournemouth,13.47145129523913,0.055664240365185996,True,Left Foot,Open Play,0,1,1,Half Volley
+3754234,Harry Kane,Tottenham Hotspur,12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
+3754234,Joshua King,AFC Bournemouth,11.868024266911485,0.060649257973520866,False,Head,Open Play,0,0,4,Normal
+3754234,Danny Rose,Tottenham Hotspur,32.540590037674484,0.07394948275146028,False,Left Foot,Open Play,0,0,0,Normal
+3754234,Mousa Sidi Yaya Dembélé,Tottenham Hotspur,8.657944328765339,0.05852437726973807,True,Left Foot,Open Play,0,0,2,Normal
+3754234,Toby Alderweireld,Tottenham Hotspur,11.046266337545914,0.05951201881749674,False,Head,Open Play,0,0,2,Normal
+3754234,Erik Lamela,Tottenham Hotspur,5.536244214266562,0.057376196753715546,True,Left Foot,Open Play,1,0,3,Normal
+3754234,Bamidele Alli,Tottenham Hotspur,31.15846594426625,0.0615480803185308,False,Right Foot,Open Play,0,0,1,Normal
+3754234,Marc Pugh,AFC Bournemouth,9.235799911215057,0.05942919007394203,False,Left Foot,Open Play,1,0,1,Half Volley
+3754234,Joshua King,AFC Bournemouth,13.020752666416794,0.06148393650988749,False,Right Foot,Open Play,0,0,3,Normal
+3754234,Matt Ritchie,AFC Bournemouth,19.252012881774203,0.053208323046245884,False,Right Foot,Open Play,0,0,1,Normal
+3754234,Matt Ritchie,AFC Bournemouth,18.117670931993445,0.06327964193438343,False,Left Foot,Open Play,1,0,2,Normal
+3754234,Simon Francis,AFC Bournemouth,26.720029940102993,0.05613221127268823,False,Right Foot,Open Play,1,0,1,Normal
+3754234,Harry Kane,Tottenham Hotspur,9.503683496413384,0.058041130636352786,True,Right Foot,Open Play,1,0,3,Volley
+3754234,Bamidele Alli,Tottenham Hotspur,36.23975717357941,0.07690139466949726,False,Right Foot,Open Play,0,1,1,Normal
+3754234,Harry Kane,Tottenham Hotspur,22.779815626997507,0.05418635051663065,False,Right Foot,Open Play,0,0,2,Normal
+3754234,Toby Alderweireld,Tottenham Hotspur,11.941942890501524,0.05703580877343952,False,Head,Open Play,0,1,1,Normal
+3754234,Harry Kane,Tottenham Hotspur,3.982461550347978,0.0545689625416025,True,Right Foot,Open Play,1,0,3,Normal
+3754234,Matt Ritchie,AFC Bournemouth,33.25672864248678,0.06457249398436023,False,Left Foot,Open Play,0,0,1,Normal
+3754234,Simon Francis,AFC Bournemouth,22.27487373701588,0.058778378876209146,False,Left Foot,Open Play,0,0,2,Half Volley
+3754234,Christian Dannemann Eriksen,Tottenham Hotspur,29.21814504721339,0.06963937814259767,False,Right Foot,Open Play,0,0,1,Normal
+3754234,Matt Ritchie,AFC Bournemouth,31.250759990758628,0.054403769239934716,False,Left Foot,Open Play,0,0,1,Normal
+3754234,Yann Kermorgant,AFC Bournemouth,10.49571341072154,0.05648750212454543,False,Head,Open Play,0,1,3,Normal
+3754234,Clinton Mua N''Jie,Tottenham Hotspur,15.164761785138602,0.06267604590783271,False,Right Foot,Open Play,0,0,2,Normal
+3754234,Danny Rose,Tottenham Hotspur,25.902316498722655,0.06928309405022415,False,Left Foot,Open Play,1,0,1,Normal

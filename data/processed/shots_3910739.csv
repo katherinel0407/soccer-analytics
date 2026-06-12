@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.256031973468697,0.057343820072855864,False,Head,Open Play,0,0,2,Normal
-14.003570973148245,0.06194814279606424,False,Head,Open Play,0,1,1,Normal
-28.071693928225997,0.0651923239788103,False,Right Foot,Open Play,0,0,2,Normal
-13.536986370680888,0.0566492862721245,True,Right Foot,Open Play,0,1,3,Half Volley
-34.331326802207926,0.07192326255283231,False,Right Foot,Open Play,0,0,1,Normal
-23.58495283014151,0.06706613446202538,False,Right Foot,Open Play,1,1,1,Half Volley
-22.58782858089728,0.05773063536050104,False,Left Foot,Open Play,0,0,3,Normal
-17.88435070110179,0.061818102381853035,False,Left Foot,Open Play,0,0,2,Normal
-33.63406011768428,0.07325548353261026,False,Left Foot,Open Play,1,1,1,Half Volley
-11.709824934643551,0.05884971646075503,False,Right Foot,Open Play,0,1,3,Half Volley
-16.226521500309303,0.056004283669270655,False,Right Foot,Open Play,1,0,1,Volley
-16.984993376507393,0.051641886698826904,False,Left Foot,Open Play,0,0,0,Normal
-15.66045976336583,0.0520185448533433,False,Right Foot,Open Play,1,1,1,Half Volley
-17.0,0.057657772942289,False,Right Foot,Open Play,1,1,2,Half Volley
-21.08885961829136,0.05428366974708279,False,Left Foot,Open Play,1,0,1,Half Volley
-48.613681201900356,0.08461386425110294,False,Right Foot,Open Play,0,0,2,Normal
-35.29787529016443,0.07592249718120023,False,Left Foot,Open Play,1,0,0,Normal
-9.308598175880196,0.05477336393063356,False,Right Foot,Open Play,1,0,1,Half Volley
-31.240998703626623,0.06394640911298706,False,Right Foot,Open Play,0,0,1,Normal
-14.28880680812782,0.05360234406740113,False,Right Foot,Open Play,0,0,0,Normal
-35.143278162402545,0.0757456417816942,False,Right Foot,Open Play,0,0,1,Normal
-20.05617112013158,0.062435535356785456,False,Right Foot,Open Play,1,0,0,Normal
-21.156795598577776,0.06595597406541835,False,Left Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3910739,Jone Amezaga,Athletic Club Bilbao,7.256031973468697,0.057343820072855864,False,Head,Open Play,0,0,2,Normal
+3910739,Mariana Cerro,Athletic Club Bilbao,14.003570973148245,0.06194814279606424,False,Head,Open Play,0,1,1,Normal
+3910739,Laura Requena Sánchez,Granada W,28.071693928225997,0.0651923239788103,False,Right Foot,Open Play,0,0,2,Normal
+3910739,Ane Azkona Fuente,Athletic Club Bilbao,13.536986370680888,0.0566492862721245,True,Right Foot,Open Play,0,1,3,Half Volley
+3910739,Laura Requena Sánchez,Granada W,34.331326802207926,0.07192326255283231,False,Right Foot,Open Play,0,0,1,Normal
+3910739,Marta San Adrián Rocandio,Athletic Club Bilbao,23.58495283014151,0.06706613446202538,False,Right Foot,Open Play,1,1,1,Half Volley
+3910739,Naima García Aguilar,Granada W,22.58782858089728,0.05773063536050104,False,Left Foot,Open Play,0,0,3,Normal
+3910739,Nerea Vicente Fernández,Granada W,17.88435070110179,0.061818102381853035,False,Left Foot,Open Play,0,0,2,Normal
+3910739,Lucía Martínez González,Granada W,33.63406011768428,0.07325548353261026,False,Left Foot,Open Play,1,1,1,Half Volley
+3910739,Marta San Adrián Rocandio,Athletic Club Bilbao,11.709824934643551,0.05884971646075503,False,Right Foot,Open Play,0,1,3,Half Volley
+3910739,Ane Azkona Fuente,Athletic Club Bilbao,16.226521500309303,0.056004283669270655,False,Right Foot,Open Play,1,0,1,Volley
+3910739,Nerea Nevado Gómez,Athletic Club Bilbao,16.984993376507393,0.051641886698826904,False,Left Foot,Open Play,0,0,0,Normal
+3910739,Nerea Nevado Gómez,Athletic Club Bilbao,15.66045976336583,0.0520185448533433,False,Right Foot,Open Play,1,1,1,Half Volley
+3910739,Marta San Adrián Rocandio,Athletic Club Bilbao,17.0,0.057657772942289,False,Right Foot,Open Play,1,1,2,Half Volley
+3910739,Mariana Cerro,Athletic Club Bilbao,21.08885961829136,0.05428366974708279,False,Left Foot,Open Play,1,0,1,Half Volley
+3910739,Marta San Adrián Rocandio,Athletic Club Bilbao,48.613681201900356,0.08461386425110294,False,Right Foot,Open Play,0,0,2,Normal
+3910739,Nerea Vicente Fernández,Granada W,35.29787529016443,0.07592249718120023,False,Left Foot,Open Play,1,0,0,Normal
+3910739,Nahikari García Pérez,Athletic Club Bilbao,9.308598175880196,0.05477336393063356,False,Right Foot,Open Play,1,0,1,Half Volley
+3910739,Alicia Redondo González,Granada W,31.240998703626623,0.06394640911298706,False,Right Foot,Open Play,0,0,1,Normal
+3910739,Nahikari García Pérez,Athletic Club Bilbao,14.28880680812782,0.05360234406740113,False,Right Foot,Open Play,0,0,0,Normal
+3910739,Itxaso Uriarte Santamaría,Athletic Club Bilbao,35.143278162402545,0.0757456417816942,False,Right Foot,Open Play,0,0,1,Normal
+3910739,Clara Pinedo Castresana,Athletic Club Bilbao,20.05617112013158,0.062435535356785456,False,Right Foot,Open Play,1,0,0,Normal
+3910739,Noelia Salas Mullens,Granada W,21.156795598577776,0.06595597406541835,False,Left Foot,Open Play,0,0,2,Half Volley

@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.356879883874486,0.05850757470547454,False,Right Foot,Open Play,1,0,2,Normal
-12.539936203984455,0.05557767615507184,False,Right Foot,Open Play,1,0,1,Normal
-17.968861956172965,0.06387093194986698,True,Head,Open Play,0,1,1,Normal
-24.063457773146396,0.06248899344633717,False,Right Foot,Open Play,1,1,1,Normal
-25.76295790471273,0.06666963439063672,False,Left Foot,Open Play,0,0,2,Normal
-8.005623023850173,0.05683112972492685,False,Head,Open Play,0,1,5,Normal
-22.86941188574817,0.06264817545065395,False,Left Foot,Open Play,1,1,2,Normal
-33.23431961090823,0.05301002406184979,False,Left Foot,Open Play,0,0,2,Normal
-24.523050381222966,0.06348309220603394,False,Right Foot,Open Play,1,1,1,Half Volley
-27.750315313523917,0.06250390526032214,False,Right Foot,Open Play,0,0,1,Normal
-25.08904143246609,0.05889547405975103,False,Right Foot,Open Play,0,0,1,Normal
-14.615402833996743,0.058076586520145704,False,Head,Open Play,0,0,3,Normal
-19.63695495742657,0.05249601564269198,False,Right Foot,Open Play,1,1,1,Half Volley
-12.209013064126028,0.06079565093133727,False,Right Foot,Open Play,1,0,1,Half Volley
-25.05114767830009,0.06464535515075287,False,Left Foot,Open Play,0,0,3,Normal
-8.769264507357505,0.05859823707328377,False,Head,Open Play,0,1,5,Diving Header
-13.461797799699706,0.061172700698119746,False,Right Foot,Open Play,0,0,3,Half Volley
-26.630058204968314,0.06941523865762539,False,Left Foot,Open Play,1,0,1,Half Volley
-10.282509421342633,0.05976539103826625,False,Left Foot,Open Play,0,0,3,Half Volley
-24.380525014855603,0.0684686217413088,False,Right Foot,Open Play,0,0,2,Half Volley
-17.91758912354003,0.05690708380912422,False,Right Foot,Open Play,1,0,1,Normal
-16.710774967068406,0.0597293333960888,False,Right Foot,Open Play,0,1,3,Half Volley
-24.20433845408711,0.06030391869386066,False,Left Foot,Open Play,1,0,1,Half Volley
-20.179197209007093,0.05583038869646144,False,Right Foot,Open Play,1,0,1,Volley
-11.433722053644644,0.054689963546810945,False,Head,Open Play,0,0,4,Normal
-3.9824615503479763,0.05669472982750194,True,Left Foot,Open Play,1,0,3,Half Volley
-26.820328111341222,0.054598027696064554,False,Left Foot,Open Play,0,1,2,Normal
-28.69233347080714,0.06379908152677535,False,Left Foot,Open Play,0,0,1,Normal
-18.009997223764362,0.052715701518903604,False,Left Foot,Open Play,0,1,2,Half Volley
-16.29294325774198,0.05321104886469858,False,Right Foot,Open Play,1,0,1,Volley
-11.629703349613008,0.059708003396982665,False,Left Foot,Open Play,1,1,1,Half Volley
-7.685050422736341,0.05602601117477281,False,Head,Open Play,0,1,4,Normal
-13.46291201783626,0.05869963613162085,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890455,Christian Gentner,VfB Stuttgart,14.356879883874486,0.05850757470547454,False,Right Foot,Open Play,1,0,2,Normal
+3890455,Alessandro Schöpf,Schalke 04,12.539936203984455,0.05557767615507184,False,Right Foot,Open Play,1,0,1,Normal
+3890455,Younès Belhanda,Schalke 04,17.968861956172965,0.06387093194986698,True,Head,Open Play,0,1,1,Normal
+3890455,Alessandro Schöpf,Schalke 04,24.063457773146396,0.06248899344633717,False,Right Foot,Open Play,1,1,1,Normal
+3890455,Klaas-Jan Huntelaar,Schalke 04,25.76295790471273,0.06666963439063672,False,Left Foot,Open Play,0,0,2,Normal
+3890455,Joël Andre Job Matip,Schalke 04,8.005623023850173,0.05683112972492685,False,Head,Open Play,0,1,5,Normal
+3890455,Timo Werner,VfB Stuttgart,22.86941188574817,0.06264817545065395,False,Left Foot,Open Play,1,1,2,Normal
+3890455,Filip Kostić,VfB Stuttgart,33.23431961090823,0.05301002406184979,False,Left Foot,Open Play,0,0,2,Normal
+3890455,Leon Goretzka,Schalke 04,24.523050381222966,0.06348309220603394,False,Right Foot,Open Play,1,1,1,Half Volley
+3890455,Sereso Geoffroy Gonzaroua Dié,VfB Stuttgart,27.750315313523917,0.06250390526032214,False,Right Foot,Open Play,0,0,1,Normal
+3890455,Timo Werner,VfB Stuttgart,25.08904143246609,0.05889547405975103,False,Right Foot,Open Play,0,0,1,Normal
+3890455,Leon Goretzka,Schalke 04,14.615402833996743,0.058076586520145704,False,Head,Open Play,0,0,3,Normal
+3890455,Klaas-Jan Huntelaar,Schalke 04,19.63695495742657,0.05249601564269198,False,Right Foot,Open Play,1,1,1,Half Volley
+3890455,Timo Werner,VfB Stuttgart,12.209013064126028,0.06079565093133727,False,Right Foot,Open Play,1,0,1,Half Volley
+3890455,Daniel Didavi,VfB Stuttgart,25.05114767830009,0.06464535515075287,False,Left Foot,Open Play,0,0,3,Normal
+3890455,Joël Andre Job Matip,Schalke 04,8.769264507357505,0.05859823707328377,False,Head,Open Play,0,1,5,Diving Header
+3890455,Klaas-Jan Huntelaar,Schalke 04,13.461797799699706,0.061172700698119746,False,Right Foot,Open Play,0,0,3,Half Volley
+3890455,Christian Gentner,VfB Stuttgart,26.630058204968314,0.06941523865762539,False,Left Foot,Open Play,1,0,1,Half Volley
+3890455,Timo Werner,VfB Stuttgart,10.282509421342633,0.05976539103826625,False,Left Foot,Open Play,0,0,3,Half Volley
+3890455,Alessandro Schöpf,Schalke 04,24.380525014855603,0.0684686217413088,False,Right Foot,Open Play,0,0,2,Half Volley
+3890455,Leon Goretzka,Schalke 04,17.91758912354003,0.05690708380912422,False,Right Foot,Open Play,1,0,1,Normal
+3890455,Timo Werner,VfB Stuttgart,16.710774967068406,0.0597293333960888,False,Right Foot,Open Play,0,1,3,Half Volley
+3890455,Christian Gentner,VfB Stuttgart,24.20433845408711,0.06030391869386066,False,Left Foot,Open Play,1,0,1,Half Volley
+3890455,Alexandru Iulian Maxim,VfB Stuttgart,20.179197209007093,0.05583038869646144,False,Right Foot,Open Play,1,0,1,Volley
+3890455,Christian Gentner,VfB Stuttgart,11.433722053644644,0.054689963546810945,False,Head,Open Play,0,0,4,Normal
+3890455,Martin Harnik,VfB Stuttgart,3.9824615503479763,0.05669472982750194,True,Left Foot,Open Play,1,0,3,Half Volley
+3890455,Leroy Sané,Schalke 04,26.820328111341222,0.054598027696064554,False,Left Foot,Open Play,0,1,2,Normal
+3890455,Martin Harnik,VfB Stuttgart,28.69233347080714,0.06379908152677535,False,Left Foot,Open Play,0,0,1,Normal
+3890455,Franco Matías Di Santo,Schalke 04,18.009997223764362,0.052715701518903604,False,Left Foot,Open Play,0,1,2,Half Volley
+3890455,Martin Harnik,VfB Stuttgart,16.29294325774198,0.05321104886469858,False,Right Foot,Open Play,1,0,1,Volley
+3890455,Artem Kravets,VfB Stuttgart,11.629703349613008,0.059708003396982665,False,Left Foot,Open Play,1,1,1,Half Volley
+3890455,Joël Andre Job Matip,Schalke 04,7.685050422736341,0.05602601117477281,False,Head,Open Play,0,1,4,Normal
+3890455,Lukas Rupp,VfB Stuttgart,13.46291201783626,0.05869963613162085,False,Left Foot,Open Play,0,0,2,Normal

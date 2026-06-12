@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.999999999999999,0.055572117728900125,True,Right Foot,Open Play,1,0,4,Half Volley
-8.547514258543242,0.05904125184081578,False,Head,Open Play,0,0,4,Normal
-7.244998274671979,0.05666677092395682,False,Head,Open Play,0,1,5,Normal
-16.53602128687551,0.06353499892537534,False,Left Foot,Open Play,1,0,1,Normal
-19.543285291884782,0.062302746110587476,False,Left Foot,Open Play,1,0,1,Volley
-15.198026187633713,0.05582655163844086,False,Right Foot,Open Play,1,0,0,Normal
-22.963013739489863,0.06363800706376385,False,Left Foot,Open Play,0,1,2,Normal
-33.812571626541505,0.07470008961589515,False,Left Foot,Open Play,0,0,0,Normal
-26.583077323741136,0.05782880338145938,False,Left Foot,Open Play,0,0,2,Normal
-18.7211110781385,0.0647008751601988,False,Right Foot,Open Play,0,1,1,Normal
-35.138582783032106,0.060801472353846295,False,Right Foot,Open Play,0,0,1,Normal
-9.192388155425117,0.058906673417166704,False,Left Foot,Open Play,1,0,3,Half Volley
-23.3111561274854,0.053739918693097445,False,Right Foot,Open Play,1,0,1,Half Volley
-20.08083663595718,0.06386636486102584,False,Right Foot,Open Play,1,1,1,Normal
-23.650158561836328,0.06808021835564795,False,Right Foot,Open Play,1,0,0,Volley
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-7.3239333694402236,0.055811444449490384,True,Right Foot,Open Play,1,0,1,Normal
-12.389108119634765,0.0534037451182784,False,Right Foot,Open Play,1,0,1,Half Volley
-23.200215516240362,0.06453274119206244,False,Right Foot,Open Play,1,1,2,Volley
-8.228000972289689,0.05715109548660043,True,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829449,Martin Braithwaite Christensen,Toulouse,5.999999999999999,0.055572117728900125,True,Right Foot,Open Play,1,0,4,Half Volley
+3829449,Sylvain Armand,Rennes,8.547514258543242,0.05904125184081578,False,Head,Open Play,0,0,4,Normal
+3829449,Fallou Diagne,Rennes,7.244998274671979,0.05666677092395682,False,Head,Open Play,0,1,5,Normal
+3829449,Giovanni-Guy Yann Sio,Rennes,16.53602128687551,0.06353499892537534,False,Left Foot,Open Play,1,0,1,Normal
+3829449,Wergiton do Rosário Calmon,Toulouse,19.543285291884782,0.062302746110587476,False,Left Foot,Open Play,1,0,1,Volley
+3829449,Martin Braithwaite Christensen,Toulouse,15.198026187633713,0.05582655163844086,False,Right Foot,Open Play,1,0,0,Normal
+3829449,Giovanni-Guy Yann Sio,Rennes,22.963013739489863,0.06363800706376385,False,Left Foot,Open Play,0,1,2,Normal
+3829449,Sylvain Armand,Rennes,33.812571626541505,0.07470008961589515,False,Left Foot,Open Play,0,0,0,Normal
+3829449,Pedro Henrique Konzen Medina da Silva,Rennes,26.583077323741136,0.05782880338145938,False,Left Foot,Open Play,0,0,2,Normal
+3829449,Kamil Grosicki,Rennes,18.7211110781385,0.0647008751601988,False,Right Foot,Open Play,0,1,1,Normal
+3829449,Fallou Diagne,Rennes,35.138582783032106,0.060801472353846295,False,Right Foot,Open Play,0,0,1,Normal
+3829449,Wergiton do Rosário Calmon,Toulouse,9.192388155425117,0.058906673417166704,False,Left Foot,Open Play,1,0,3,Half Volley
+3829449,Giovanni-Guy Yann Sio,Rennes,23.3111561274854,0.053739918693097445,False,Right Foot,Open Play,1,0,1,Half Volley
+3829449,Óscar Guido Trejo,Toulouse,20.08083663595718,0.06386636486102584,False,Right Foot,Open Play,1,1,1,Normal
+3829449,Étienne Didot,Toulouse,23.650158561836328,0.06808021835564795,False,Right Foot,Open Play,1,0,0,Volley
+3829449,Sylvain Armand,Rennes,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3829449,Sylvain Armand,Rennes,7.3239333694402236,0.055811444449490384,True,Right Foot,Open Play,1,0,1,Normal
+3829449,Martin Braithwaite Christensen,Toulouse,12.389108119634765,0.0534037451182784,False,Right Foot,Open Play,1,0,1,Half Volley
+3829449,Jean-Daniel Akpa Akpro,Toulouse,23.200215516240362,0.06453274119206244,False,Right Foot,Open Play,1,1,2,Volley
+3829449,Giovanni-Guy Yann Sio,Rennes,8.228000972289689,0.05715109548660043,True,Right Foot,Open Play,1,0,1,Normal

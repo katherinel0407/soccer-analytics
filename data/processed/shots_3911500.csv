@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.132202914036192,0.06613001986366197,False,Right Foot,Open Play,0,0,1,Normal
-30.771740282278472,0.07326011017615283,False,Right Foot,Free Kick,0,0,0,Normal
-17.334935823359714,0.06401578119579217,False,Left Foot,Open Play,0,0,1,Normal
-16.292636373527763,0.06308799136958232,False,Head,Open Play,0,1,2,Normal
-22.703523955544878,0.06695092250635598,False,Left Foot,Open Play,0,0,1,Normal
-21.66679487141557,0.057237357394557015,True,Left Foot,Open Play,0,1,2,Normal
-26.79888057363591,0.06743153248676113,False,Left Foot,Open Play,0,1,2,Normal
-24.048284762119724,0.05411530141077144,False,Left Foot,Open Play,0,0,2,Normal
-8.268010643437755,0.05891783256359246,False,Right Foot,Open Play,1,0,2,Half Volley
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-5.032891812864643,0.057269993501653516,False,Left Foot,Open Play,1,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-15.825612152457165,0.06156766026991423,False,Right Foot,Open Play,1,1,1,Normal
-32.1278695216474,0.065277441687309,False,Left Foot,Open Play,0,0,2,Normal
-19.262658175859322,0.06409230054355933,True,Left Foot,Open Play,0,1,2,Normal
-9.334880824091973,0.0593689242648034,False,Head,Open Play,0,0,1,Normal
-26.70748958625651,0.06970825278881111,False,Right Foot,Open Play,0,0,2,Normal
-16.228986413205234,0.05690999165584261,False,Right Foot,Open Play,0,0,2,Normal
-18.867962264113206,0.06186663776220924,False,Right Foot,Free Kick,0,0,0,Normal
-12.519584657647394,0.05954611900277006,False,Head,Open Play,0,1,4,Normal
-14.905032707109362,0.059531123217318106,False,Left Foot,Open Play,0,0,2,Half Volley
-50.35871324805669,0.055453753707514014,False,Right Foot,Free Kick,0,0,0,Normal
-36.08462276372028,0.06393559660052839,True,Right Foot,Open Play,0,0,1,Normal
-35.80013966453203,0.07085378022094943,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911500,Macarena Portales Nieto,Valencia CF,21.132202914036192,0.06613001986366197,False,Right Foot,Open Play,0,0,1,Normal
+3911500,Fiamma Iannuzzi,Valencia CF,30.771740282278472,0.07326011017615283,False,Right Foot,Free Kick,0,0,0,Normal
+3911500,Julia Aguado,Real Betis Balompié,17.334935823359714,0.06401578119579217,False,Left Foot,Open Play,0,0,1,Normal
+3911500,Claudia Florentino Vivó,Valencia CF,16.292636373527763,0.06308799136958232,False,Head,Open Play,0,1,2,Normal
+3911500,Violeta García Quiles,Real Betis Balompié,22.703523955544878,0.06695092250635598,False,Left Foot,Open Play,0,0,1,Normal
+3911500,Marina Martí Serna,Valencia CF,21.66679487141557,0.057237357394557015,True,Left Foot,Open Play,0,1,2,Normal
+3911500,Paula Perea Ramírez,Real Betis Balompié,26.79888057363591,0.06743153248676113,False,Left Foot,Open Play,0,1,2,Normal
+3911500,Julia Aguado,Real Betis Balompié,24.048284762119724,0.05411530141077144,False,Left Foot,Open Play,0,0,2,Normal
+3911500,Julia Aguado,Real Betis Balompié,8.268010643437755,0.05891783256359246,False,Right Foot,Open Play,1,0,2,Half Volley
+3911500,Julia Aguado,Real Betis Balompié,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3911500,Julia Aguado,Real Betis Balompié,5.032891812864643,0.057269993501653516,False,Left Foot,Open Play,1,1,2,Normal
+3911500,Ana Marcos Moral,Valencia CF,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3911500,Estela Fernández Pablos,Valencia CF,15.825612152457165,0.06156766026991423,False,Right Foot,Open Play,1,1,1,Normal
+3911500,Paula Sancho González,Valencia CF,32.1278695216474,0.065277441687309,False,Left Foot,Open Play,0,0,2,Normal
+3911500,Violeta García Quiles,Real Betis Balompié,19.262658175859322,0.06409230054355933,True,Left Foot,Open Play,0,1,2,Normal
+3911500,Carolina Férez Méndez,Real Betis Balompié,9.334880824091973,0.0593689242648034,False,Head,Open Play,0,0,1,Normal
+3911500,Estela Fernández Pablos,Valencia CF,26.70748958625651,0.06970825278881111,False,Right Foot,Open Play,0,0,2,Normal
+3911500,Rosa Márquez Baena,Real Betis Balompié,16.228986413205234,0.05690999165584261,False,Right Foot,Open Play,0,0,2,Normal
+3911500,Rosa Márquez Baena,Real Betis Balompié,18.867962264113206,0.06186663776220924,False,Right Foot,Free Kick,0,0,0,Normal
+3911500,Violeta García Quiles,Real Betis Balompié,12.519584657647394,0.05954611900277006,False,Head,Open Play,0,1,4,Normal
+3911500,Macarena Portales Nieto,Valencia CF,14.905032707109362,0.059531123217318106,False,Left Foot,Open Play,0,0,2,Half Volley
+3911500,Fiamma Iannuzzi,Valencia CF,50.35871324805669,0.055453753707514014,False,Right Foot,Free Kick,0,0,0,Normal
+3911500,Natalia Montilla Martínez,Real Betis Balompié,36.08462276372028,0.06393559660052839,True,Right Foot,Open Play,0,0,1,Normal
+3911500,Rosa Márquez Baena,Real Betis Balompié,35.80013966453203,0.07085378022094943,False,Right Foot,Open Play,1,0,1,Normal

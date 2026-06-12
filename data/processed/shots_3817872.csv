@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.063315556324405,0.0642830863883717,False,Right Foot,Open Play,1,0,0,Normal
-10.204410811016968,0.057024348320232815,False,Right Foot,Open Play,0,0,2,Normal
-12.98075498574717,0.06104202103920315,True,Right Foot,Open Play,1,0,1,Half Volley
-25.440322325002096,0.06931232940508114,False,Right Foot,Free Kick,0,0,0,Normal
-25.515681452785063,0.06908696128164087,False,Left Foot,Open Play,1,0,0,Half Volley
-22.934035841953335,0.05786533473001143,False,Right Foot,Open Play,1,0,0,Half Volley
-14.624978632463025,0.05745809817920887,False,Left Foot,Open Play,1,0,3,Volley
-26.359059163786558,0.053254336574038816,False,Right Foot,Open Play,0,0,1,Normal
-4.6173585522460785,0.05660762223638113,True,Head,Open Play,0,0,4,Normal
-38.51298482330343,0.06876488634294528,False,Right Foot,Open Play,0,0,1,Normal
-22.4082574065901,0.06713813754061704,False,Right Foot,Open Play,0,0,1,Normal
-11.136426715962347,0.059602284848755675,False,Left Foot,Open Play,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-15.181897114655992,0.05608448530888868,False,Left Foot,Open Play,0,0,3,Normal
-9.464142856064669,0.059253681779684306,False,Right Foot,Open Play,1,0,2,Half Volley
-29.600675667964072,0.07237740191630912,False,Right Foot,Open Play,0,0,1,Normal
-25.776927667974704,0.06928678633714828,False,Right Foot,Open Play,0,0,1,Normal
-10.837435120913069,0.05490303532834249,False,Head,Open Play,0,1,5,Normal
-20.107958623390893,0.06573264879463224,False,Left Foot,Open Play,1,0,0,Half Volley
-40.16590594023742,0.06144388837520211,False,Left Foot,Free Kick,0,0,0,Normal
-17.448495637160242,0.06408600456720973,False,Right Foot,Open Play,1,0,1,Half Volley
-17.74964788383139,0.054864072479907815,False,Left Foot,Open Play,1,0,2,Normal
-8.823264701911652,0.05720658095262172,False,Head,Open Play,0,0,1,Normal
-22.019309707617992,0.06457765888977446,False,Left Foot,Open Play,0,1,2,Normal
-9.953893710503445,0.05712815609493082,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817872,Bruno Edgar Silva Almeida,Bengaluru,19.063315556324405,0.0642830863883717,False,Right Foot,Open Play,1,0,0,Normal
+3817872,Jonathas Cristian de Jesus,Odisha,10.204410811016968,0.057024348320232815,False,Right Foot,Open Play,0,0,2,Normal
+3817872,Nandhakumar Sekar,Odisha,12.98075498574717,0.06104202103920315,True,Right Foot,Open Play,1,0,1,Half Volley
+3817872,Víctor Mongil Adeva,Odisha,25.440322325002096,0.06931232940508114,False,Right Foot,Free Kick,0,0,0,Normal
+3817872,Francisco Javier Hernández González,Odisha,25.515681452785063,0.06908696128164087,False,Left Foot,Open Play,1,0,0,Half Volley
+3817872,Prince Vinny Ibara Doniama,Bengaluru,22.934035841953335,0.05786533473001143,False,Right Foot,Open Play,1,0,0,Half Volley
+3817872,Bruno Edgar Silva Almeida,Bengaluru,14.624978632463025,0.05745809817920887,False,Left Foot,Open Play,1,0,3,Volley
+3817872,Prince Vinny Ibara Doniama,Bengaluru,26.359059163786558,0.053254336574038816,False,Right Foot,Open Play,0,0,1,Normal
+3817872,Danish Farooq Bhat,Bengaluru,4.6173585522460785,0.05660762223638113,True,Head,Open Play,0,0,4,Normal
+3817872,Ajay Chhetri,Bengaluru,38.51298482330343,0.06876488634294528,False,Right Foot,Open Play,0,0,1,Normal
+3817872,Jonathas Cristian de Jesus,Odisha,22.4082574065901,0.06713813754061704,False,Right Foot,Open Play,0,0,1,Normal
+3817872,Nandhakumar Sekar,Odisha,11.136426715962347,0.059602284848755675,False,Left Foot,Open Play,0,0,0,Normal
+3817872,Cleiton Augusto Oliveira Silva,Bengaluru,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3817872,Prince Vinny Ibara Doniama,Bengaluru,15.181897114655992,0.05608448530888868,False,Left Foot,Open Play,0,0,3,Normal
+3817872,Bruno Edgar Silva Almeida,Bengaluru,9.464142856064669,0.059253681779684306,False,Right Foot,Open Play,1,0,2,Half Volley
+3817872,Cleiton Augusto Oliveira Silva,Bengaluru,29.600675667964072,0.07237740191630912,False,Right Foot,Open Play,0,0,1,Normal
+3817872,Namgyal Bhutia,Bengaluru,25.776927667974704,0.06928678633714828,False,Right Foot,Open Play,0,0,1,Normal
+3817872,Lalruatthara Lalruatthara,Odisha,10.837435120913069,0.05490303532834249,False,Head,Open Play,0,1,5,Normal
+3817872,Nandhakumar Sekar,Odisha,20.107958623390893,0.06573264879463224,False,Left Foot,Open Play,1,0,0,Half Volley
+3817872,Francisco Javier Hernández González,Odisha,40.16590594023742,0.06144388837520211,False,Left Foot,Free Kick,0,0,0,Normal
+3817872,Isaac Vanmalsawma Chhakchhuak,Odisha,17.448495637160242,0.06408600456720973,False,Right Foot,Open Play,1,0,1,Half Volley
+3817872,Francisco Javier Hernández González,Odisha,17.74964788383139,0.054864072479907815,False,Left Foot,Open Play,1,0,2,Normal
+3817872,Francisco Javier Hernández González,Odisha,8.823264701911652,0.05720658095262172,False,Head,Open Play,0,0,1,Normal
+3817872,Daniel Lalhlimpuia,Odisha,22.019309707617992,0.06457765888977446,False,Left Foot,Open Play,0,1,2,Normal
+3817872,Francisco Javier Hernández González,Odisha,9.953893710503445,0.05712815609493082,False,Head,Open Play,0,1,2,Normal

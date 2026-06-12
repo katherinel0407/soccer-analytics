@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.37133784196357,0.06090743942277708,False,Right Foot,Open Play,1,1,3,Half Volley
-17.12921480979207,0.063303781546749,False,Right Foot,Open Play,0,0,2,Normal
-23.2038789860661,0.05486741812751592,False,Right Foot,Open Play,0,0,1,Half Volley
-19.377564346429093,0.06525250852852997,False,Left Foot,Open Play,0,0,2,Normal
-11.751595636338072,0.055484095655777346,False,Right Foot,Open Play,1,0,2,Normal
-48.59681059493513,0.059996771389020334,False,Right Foot,Open Play,0,0,1,Half Volley
-16.326665305566845,0.05314410699599275,True,Right Foot,Open Play,0,0,0,Normal
-23.703375287076735,0.06641653875331355,False,Left Foot,Open Play,0,0,0,Normal
-23.85036687348855,0.0610317989830035,False,Right Foot,Open Play,1,0,0,Normal
-21.48976500569516,0.06123054704983482,False,Left Foot,Open Play,0,1,2,Normal
-18.760063965775814,0.06312841789757373,False,Left Foot,Open Play,0,1,2,Normal
-10.331021246711282,0.05860904242739205,False,Head,Open Play,0,1,1,Normal
-18.474035834110534,0.05330048202962826,False,Right Foot,Open Play,1,0,1,Normal
-11.771151175649724,0.06012606734112701,False,Head,Open Play,0,1,2,Normal
-27.139823138701555,0.06818555308645856,False,Left Foot,Open Play,0,0,4,Normal
-27.30293024567143,0.07041649663927904,False,Left Foot,Open Play,1,0,1,Normal
-30.741665537182598,0.06734531058874293,False,Right Foot,Free Kick,0,0,0,Normal
-30.580549373744084,0.06216507704414384,False,Left Foot,Open Play,1,0,1,Normal
-10.480935072788112,0.060081857718371434,False,Head,Open Play,0,1,2,Normal
-10.465180361560906,0.05996767846755142,True,Left Foot,Open Play,1,1,4,Half Volley
-18.027756377319946,0.05682319886912188,False,Left Foot,Open Play,0,0,3,Half Volley
-22.61725005388586,0.06529923758378894,False,Left Foot,Open Play,1,0,1,Volley
-19.464840096954305,0.061341927715525275,False,Left Foot,Open Play,0,1,1,Half Volley
-24.57030728338578,0.06211566194248597,False,Left Foot,Free Kick,0,0,0,Normal
-15.081445554057472,0.061872704917666964,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901195,Mohamed Amine Chermiti,Gazélec Ajaccio,12.37133784196357,0.06090743942277708,False,Right Foot,Open Play,1,1,3,Half Volley
+3901195,Nolan Roux,Saint-Étienne,17.12921480979207,0.063303781546749,False,Right Foot,Open Play,0,0,2,Normal
+3901195,Khalid Boutaïb,Gazélec Ajaccio,23.2038789860661,0.05486741812751592,False,Right Foot,Open Play,0,0,1,Half Volley
+3901195,Jacques Zoua Daogari,Gazélec Ajaccio,19.377564346429093,0.06525250852852997,False,Left Foot,Open Play,0,0,2,Normal
+3901195,Khalid Boutaïb,Gazélec Ajaccio,11.751595636338072,0.055484095655777346,False,Right Foot,Open Play,1,0,2,Normal
+3901195,Abdou Kader Mangane,Gazélec Ajaccio,48.59681059493513,0.059996771389020334,False,Right Foot,Open Play,0,0,1,Half Volley
+3901195,Nolan Roux,Saint-Étienne,16.326665305566845,0.05314410699599275,True,Right Foot,Open Play,0,0,0,Normal
+3901195,Damjan Đoković,Gazélec Ajaccio,23.703375287076735,0.06641653875331355,False,Left Foot,Open Play,0,0,0,Normal
+3901195,David Ducourtioux,Gazélec Ajaccio,23.85036687348855,0.0610317989830035,False,Right Foot,Open Play,1,0,0,Normal
+3901195,Mohamed Amine Chermiti,Gazélec Ajaccio,21.48976500569516,0.06123054704983482,False,Left Foot,Open Play,0,1,2,Normal
+3901195,Jean-Christophe Bahebeck,Saint-Étienne,18.760063965775814,0.06312841789757373,False,Left Foot,Open Play,0,1,2,Normal
+3901195,Jacques Zoua Daogari,Gazélec Ajaccio,10.331021246711282,0.05860904242739205,False,Head,Open Play,0,1,1,Normal
+3901195,Nolan Roux,Saint-Étienne,18.474035834110534,0.05330048202962826,False,Right Foot,Open Play,1,0,1,Normal
+3901195,Loïc Perrin,Saint-Étienne,11.771151175649724,0.06012606734112701,False,Head,Open Play,0,1,2,Normal
+3901195,Damjan Đoković,Gazélec Ajaccio,27.139823138701555,0.06818555308645856,False,Left Foot,Open Play,0,0,4,Normal
+3901195,Pablo Jean Antoine Martínez,Gazélec Ajaccio,27.30293024567143,0.07041649663927904,False,Left Foot,Open Play,1,0,1,Normal
+3901195,Jean-Christophe Bahebeck,Saint-Étienne,30.741665537182598,0.06734531058874293,False,Right Foot,Free Kick,0,0,0,Normal
+3901195,Damjan Đoković,Gazélec Ajaccio,30.580549373744084,0.06216507704414384,False,Left Foot,Open Play,1,0,1,Normal
+3901195,Nolan Roux,Saint-Étienne,10.480935072788112,0.060081857718371434,False,Head,Open Play,0,1,2,Normal
+3901195,Kévin Théophile-Catherine,Saint-Étienne,10.465180361560906,0.05996767846755142,True,Left Foot,Open Play,1,1,4,Half Volley
+3901195,Khalid Boutaïb,Gazélec Ajaccio,18.027756377319946,0.05682319886912188,False,Left Foot,Open Play,0,0,3,Half Volley
+3901195,Abdou Kader Mangane,Gazélec Ajaccio,22.61725005388586,0.06529923758378894,False,Left Foot,Open Play,1,0,1,Volley
+3901195,Mohamed Larbi,Gazélec Ajaccio,19.464840096954305,0.061341927715525275,False,Left Foot,Open Play,0,1,1,Half Volley
+3901195,Damjan Đoković,Gazélec Ajaccio,24.57030728338578,0.06211566194248597,False,Left Foot,Free Kick,0,0,0,Normal
+3901195,Grégory Pujol,Gazélec Ajaccio,15.081445554057472,0.061872704917666964,False,Head,Open Play,0,0,2,Normal

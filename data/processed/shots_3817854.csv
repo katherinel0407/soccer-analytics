@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.615972648017205,0.0699108215385193,False,Left Foot,Open Play,0,0,0,Normal
-28.188650198262415,0.07116748694042381,False,Right Foot,Free Kick,0,0,0,Normal
-10.789810007595124,0.054258896684457096,False,Head,Open Play,0,0,1,Normal
-22.97324530840169,0.06648222083130392,False,Left Foot,Open Play,0,0,4,Normal
-29.249444439168418,0.06842741842560876,False,Left Foot,Open Play,1,0,1,Half Volley
-28.178005607210746,0.059315937585140734,False,Left Foot,Open Play,0,0,1,Half Volley
-8.78464569575803,0.05364275739364202,False,Head,Open Play,0,1,2,Normal
-32.8,0.06934165522532894,False,Right Foot,Open Play,0,0,1,Normal
-28.28161947272469,0.07138468203979834,False,Right Foot,Open Play,1,1,1,Normal
-24.20020661068827,0.06845567992580465,False,Right Foot,Open Play,0,0,2,Normal
-30.018827425467506,0.06235670029967645,True,Right Foot,Free Kick,0,0,0,Normal
-32.70015290484129,0.07411480495445133,False,Right Foot,Free Kick,0,0,0,Normal
-17.462244987400673,0.06403422961406591,False,Right Foot,Open Play,0,0,1,Normal
-28.797569341873277,0.07019330207802131,False,Right Foot,Open Play,1,0,0,Half Volley
-13.822083779228084,0.06193884777819737,False,Right Foot,Open Play,0,0,1,Normal
-15.261061562027727,0.05953303420351187,False,Right Foot,Open Play,1,0,1,Normal
-39.23187479588504,0.05973886028706646,False,Right Foot,Open Play,1,0,1,Half Volley
-13.606616037795732,0.06084972918818854,False,Right Foot,Open Play,0,0,3,Half Volley
-26.316724720223064,0.06260492354454489,False,Left Foot,Open Play,0,0,2,Normal
-22.60619384151167,0.061584559884614684,True,Right Foot,Open Play,0,0,3,Normal
-30.406742673295337,0.07299860862514539,False,Right Foot,Open Play,1,0,0,Normal
-14.541664278891876,0.05606953547177871,False,Left Foot,Open Play,1,0,3,Half Volley
-12.666885963013955,0.0554331860711175,False,Right Foot,Open Play,0,0,4,Half Volley
-38.13790765104976,0.07864405514915884,False,Right Foot,Open Play,0,0,2,Normal
-17.395401691251624,0.05942808034589598,False,Right Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817854,Muhammad Ashique Kuruniyan,Bengaluru,26.615972648017205,0.0699108215385193,False,Left Foot,Open Play,0,0,0,Normal
+3817854,Liston Colaco,Mohun Bagan Super Giant,28.188650198262415,0.07116748694042381,False,Right Foot,Free Kick,0,0,0,Normal
+3817854,Prince Vinny Ibara Doniama,Bengaluru,10.789810007595124,0.054258896684457096,False,Head,Open Play,0,0,1,Normal
+3817854,Muhammad Ashique Kuruniyan,Bengaluru,22.97324530840169,0.06648222083130392,False,Left Foot,Open Play,0,0,4,Normal
+3817854,Bruno Edgar Silva Almeida,Bengaluru,29.249444439168418,0.06842741842560876,False,Left Foot,Open Play,1,0,1,Half Volley
+3817854,Cleiton Augusto Oliveira Silva,Bengaluru,28.178005607210746,0.059315937585140734,False,Left Foot,Open Play,0,0,1,Half Volley
+3817854,Sunil Chhetri,Bengaluru,8.78464569575803,0.05364275739364202,False,Head,Open Play,0,1,2,Normal
+3817854,Liston Colaco,Mohun Bagan Super Giant,32.8,0.06934165522532894,False,Right Foot,Open Play,0,0,1,Normal
+3817854,Cleiton Augusto Oliveira Silva,Bengaluru,28.28161947272469,0.07138468203979834,False,Right Foot,Open Play,1,1,1,Normal
+3817854,Udanta Kumam Singh,Bengaluru,24.20020661068827,0.06845567992580465,False,Right Foot,Open Play,0,0,2,Normal
+3817854,Liston Colaco,Mohun Bagan Super Giant,30.018827425467506,0.06235670029967645,True,Right Foot,Free Kick,0,0,0,Normal
+3817854,Liston Colaco,Mohun Bagan Super Giant,32.70015290484129,0.07411480495445133,False,Right Foot,Free Kick,0,0,0,Normal
+3817854,Manvir Singh,Mohun Bagan Super Giant,17.462244987400673,0.06403422961406591,False,Right Foot,Open Play,0,0,1,Normal
+3817854,Carl Gerard McHugh,Mohun Bagan Super Giant,28.797569341873277,0.07019330207802131,False,Right Foot,Open Play,1,0,0,Half Volley
+3817854,Liston Colaco,Mohun Bagan Super Giant,13.822083779228084,0.06193884777819737,False,Right Foot,Open Play,0,0,1,Normal
+3817854,Sunil Chhetri,Bengaluru,15.261061562027727,0.05953303420351187,False,Right Foot,Open Play,1,0,1,Normal
+3817854,Parag Satish Shrivas,Bengaluru,39.23187479588504,0.05973886028706646,False,Right Foot,Open Play,1,0,1,Half Volley
+3817854,Cleiton Augusto Oliveira Silva,Bengaluru,13.606616037795732,0.06084972918818854,False,Right Foot,Open Play,0,0,3,Half Volley
+3817854,Joni Ensio Kauko,Mohun Bagan Super Giant,26.316724720223064,0.06260492354454489,False,Left Foot,Open Play,0,0,2,Normal
+3817854,Manvir Singh,Mohun Bagan Super Giant,22.60619384151167,0.061584559884614684,True,Right Foot,Open Play,0,0,3,Normal
+3817854,Prabir Das,Mohun Bagan Super Giant,30.406742673295337,0.07299860862514539,False,Right Foot,Open Play,1,0,0,Normal
+3817854,Sunil Chhetri,Bengaluru,14.541664278891876,0.05606953547177871,False,Left Foot,Open Play,1,0,3,Half Volley
+3817854,Rohit Kumar,Bengaluru,12.666885963013955,0.0554331860711175,False,Right Foot,Open Play,0,0,4,Half Volley
+3817854,Khangembam Bidyashagar Singh,Bengaluru,38.13790765104976,0.07864405514915884,False,Right Foot,Open Play,0,0,2,Normal
+3817854,Khangembam Bidyashagar Singh,Bengaluru,17.395401691251624,0.05942808034589598,False,Right Foot,Open Play,1,0,0,Half Volley

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.942921376924233,0.057380050667654704,False,Right Foot,Open Play,1,0,1,Overhead Kick
-35.809775201751826,0.06768208131450555,False,Right Foot,Open Play,1,0,0,Normal
-17.38993962036671,0.06292866110935227,False,Left Foot,Open Play,0,0,1,Normal
-14.785127662620969,0.058035175928697905,False,Right Foot,Open Play,1,0,2,Normal
-17.400287353949068,0.05253480379378896,False,Left Foot,Open Play,0,0,1,Normal
-30.191555110659667,0.07232340653172667,False,Right Foot,Open Play,0,0,4,Normal
-23.139792566053828,0.06559152875373261,False,Right Foot,Open Play,0,0,2,Normal
-8.045495634204268,0.0560683306450441,True,Right Foot,Open Play,1,0,3,Normal
-26.219077024182216,0.059394790444190895,False,Left Foot,Open Play,1,0,2,Half Volley
-12.500399993600205,0.05759342809850279,False,Right Foot,Open Play,1,0,1,Normal
-21.672332592501437,0.06560309512587946,False,Left Foot,Open Play,1,0,1,Normal
-26.73200329193456,0.06393841836482002,False,Right Foot,Open Play,0,0,3,Normal
-17.39683879329805,0.05799985752612188,False,Left Foot,Open Play,0,0,3,Normal
-9.154780172128655,0.055597128457368424,False,Head,Open Play,0,1,1,Normal
-26.65801943130809,0.06128355987060878,False,Right Foot,Open Play,1,1,2,Half Volley
-30.200165562460086,0.06795190303895489,False,Left Foot,Open Play,0,0,3,Normal
-19.08952592391964,0.05751073147974976,False,Right Foot,Open Play,1,0,1,Normal
-14.326548781894402,0.05269924694008321,False,Right Foot,Open Play,0,0,2,Half Volley
-11.315917991926236,0.05843257767721226,False,Right Foot,Open Play,0,0,1,Normal
-18.61719635176038,0.05586977297353558,False,Right Foot,Open Play,0,0,1,Normal
-16.925720073308547,0.05363632431478475,True,Right Foot,Open Play,1,0,2,Normal
-8.459905436823753,0.05899850603654778,False,Head,Open Play,0,1,3,Normal
-15.902201105507372,0.061914907808695255,False,Head,Open Play,0,0,2,Normal
-10.568348972285126,0.06014159485169737,False,Head,Open Play,0,0,2,Normal
-20.052431274037573,0.05692635832498297,False,Right Foot,Open Play,0,0,3,Normal
-10.983624174196787,0.060366332730341976,False,Head,Open Play,0,1,4,Normal
-17.987773625437917,0.06388361781536962,False,Left Foot,Open Play,0,1,2,Normal
-23.81365154695936,0.06052358893560588,True,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825764,Karim Benzema,Real Madrid,7.942921376924233,0.057380050667654704,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3825764,David Barral Torres,Granada,35.809775201751826,0.06768208131450555,False,Right Foot,Open Play,1,0,0,Normal
+3825764,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,17.38993962036671,0.06292866110935227,False,Left Foot,Open Play,0,0,1,Normal
+3825764,David Barral Torres,Granada,14.785127662620969,0.058035175928697905,False,Right Foot,Open Play,1,0,2,Normal
+3825764,Isaac Ajayi Success,Granada,17.400287353949068,0.05253480379378896,False,Left Foot,Open Play,0,0,1,Normal
+3825764,Adalberto Peñaranda Maestre,Granada,30.191555110659667,0.07232340653172667,False,Right Foot,Open Play,0,0,4,Normal
+3825764,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23.139792566053828,0.06559152875373261,False,Right Foot,Open Play,0,0,2,Normal
+3825764,Karim Benzema,Real Madrid,8.045495634204268,0.0560683306450441,True,Right Foot,Open Play,1,0,3,Normal
+3825764,Rubén Rochina Naixes,Granada,26.219077024182216,0.059394790444190895,False,Left Foot,Open Play,1,0,2,Half Volley
+3825764,David Barral Torres,Granada,12.500399993600205,0.05759342809850279,False,Right Foot,Open Play,1,0,1,Normal
+3825764,Rubén Rochina Naixes,Granada,21.672332592501437,0.06560309512587946,False,Left Foot,Open Play,1,0,1,Normal
+3825764,Francisco Román Alarcón Suárez,Real Madrid,26.73200329193456,0.06393841836482002,False,Right Foot,Open Play,0,0,3,Normal
+3825764,Isaac Ajayi Success,Granada,17.39683879329805,0.05799985752612188,False,Left Foot,Open Play,0,0,3,Normal
+3825764,David Barral Torres,Granada,9.154780172128655,0.055597128457368424,False,Head,Open Play,0,1,1,Normal
+3825764,Luka Modrić,Real Madrid,26.65801943130809,0.06128355987060878,False,Right Foot,Open Play,1,1,2,Half Volley
+3825764,Rubén Rochina Naixes,Granada,30.200165562460086,0.06795190303895489,False,Left Foot,Open Play,0,0,3,Normal
+3825764,Luka Modrić,Real Madrid,19.08952592391964,0.05751073147974976,False,Right Foot,Open Play,1,0,1,Normal
+3825764,Karim Benzema,Real Madrid,14.326548781894402,0.05269924694008321,False,Right Foot,Open Play,0,0,2,Half Volley
+3825764,Karim Benzema,Real Madrid,11.315917991926236,0.05843257767721226,False,Right Foot,Open Play,0,0,1,Normal
+3825764,Daniel Carvajal Ramos,Real Madrid,18.61719635176038,0.05586977297353558,False,Right Foot,Open Play,0,0,1,Normal
+3825764,Youssef El-Arabi,Granada,16.925720073308547,0.05363632431478475,True,Right Foot,Open Play,1,0,2,Normal
+3825764,Sergio Ramos García,Real Madrid,8.459905436823753,0.05899850603654778,False,Head,Open Play,0,1,3,Normal
+3825764,Youssef El-Arabi,Granada,15.902201105507372,0.061914907808695255,False,Head,Open Play,0,0,2,Normal
+3825764,David Rodríguez Lombán,Granada,10.568348972285126,0.06014159485169737,False,Head,Open Play,0,0,2,Normal
+3825764,Jesé Rodríguez Ruiz,Real Madrid,20.052431274037573,0.05692635832498297,False,Right Foot,Open Play,0,0,3,Normal
+3825764,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10.983624174196787,0.060366332730341976,False,Head,Open Play,0,1,4,Normal
+3825764,Isaac Ajayi Success,Granada,17.987773625437917,0.06388361781536962,False,Left Foot,Open Play,0,1,2,Normal
+3825764,Luka Modrić,Real Madrid,23.81365154695936,0.06052358893560588,True,Right Foot,Open Play,0,0,2,Normal

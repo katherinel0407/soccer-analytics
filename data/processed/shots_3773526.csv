@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.827797007181347,0.05804102929202995,False,Left Foot,Open Play,0,0,4,Normal
-9.5524865872714,0.05821836186998188,False,Head,Open Play,0,1,4,Normal
-21.020466217474816,0.05318897798853817,False,Left Foot,Open Play,0,1,2,Normal
-24.014162487998618,0.06147011610668233,False,Left Foot,Open Play,1,0,0,Half Volley
-16.523922052587878,0.06347050676646632,False,Right Foot,Open Play,1,0,1,Half Volley
-20.13082213919739,0.05910332666902671,False,Right Foot,Open Play,1,0,0,Volley
-12.66688596301395,0.060312714238495026,True,Left Foot,Open Play,1,0,2,Normal
-17.801685313475236,0.06286828212773053,False,Left Foot,Open Play,1,0,2,Volley
-27.940114530903415,0.05543338590528924,False,Left Foot,Open Play,0,1,1,Normal
-26.65520587052368,0.05989684795844727,True,Left Foot,Open Play,0,0,1,Normal
-12.04200979903272,0.05978622956680604,False,Left Foot,Open Play,0,1,1,Normal
-7.605918747922574,0.05647268895223518,False,Head,Open Play,0,1,3,Normal
-24.520399670478458,0.05629631637620674,False,Left Foot,Open Play,0,0,2,Normal
-15.601602481796537,0.0627149045590073,True,Left Foot,Open Play,0,0,1,Normal
-23.717082451262847,0.06438625365967411,False,Left Foot,Free Kick,0,0,0,Normal
-13.624243098242188,0.05631488698034288,False,Left Foot,Open Play,0,0,2,Normal
-18.306829326784037,0.06446344336090058,False,Left Foot,Open Play,0,0,3,Normal
-11.389907813498752,0.06049083236976795,False,Right Foot,Open Play,1,0,1,Volley
-20.73861133248801,0.06613778422728174,False,Right Foot,Open Play,0,0,2,Normal
-16.4502279619463,0.056557228369535466,True,Left Foot,Open Play,1,0,2,Normal
-24.851559307214504,0.06455311391045342,True,Left Foot,Open Play,0,0,2,Normal
-4.810405388322275,0.0571247288347103,True,Left Foot,Open Play,1,1,1,Normal
-16.584932921178794,0.0630692706573793,False,Left Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773526,Antoine Griezmann,Barcelona,8.827797007181347,0.05804102929202995,False,Left Foot,Open Play,0,0,4,Normal
+3773526,Moriba Kourouma Kourouma,Barcelona,9.5524865872714,0.05821836186998188,False,Head,Open Play,0,1,4,Normal
+3773526,Francisco António Machado Mota de Castro Trincão,Barcelona,21.020466217474816,0.05318897798853817,False,Left Foot,Open Play,0,1,2,Normal
+3773526,Lionel Andrés Messi Cuccittini,Barcelona,24.014162487998618,0.06147011610668233,False,Left Foot,Open Play,1,0,0,Half Volley
+3773526,Lucas Pérez Martínez,Deportivo Alavés,16.523922052587878,0.06347050676646632,False,Right Foot,Open Play,1,0,1,Half Volley
+3773526,Rodrigo Andrés Battaglia,Deportivo Alavés,20.13082213919739,0.05910332666902671,False,Right Foot,Open Play,1,0,0,Volley
+3773526,Francisco António Machado Mota de Castro Trincão,Barcelona,12.66688596301395,0.060312714238495026,True,Left Foot,Open Play,1,0,2,Normal
+3773526,Lucas Pérez Martínez,Deportivo Alavés,17.801685313475236,0.06286828212773053,False,Left Foot,Open Play,1,0,2,Volley
+3773526,Lionel Andrés Messi Cuccittini,Barcelona,27.940114530903415,0.05543338590528924,False,Left Foot,Open Play,0,1,1,Normal
+3773526,Lionel Andrés Messi Cuccittini,Barcelona,26.65520587052368,0.05989684795844727,True,Left Foot,Open Play,0,0,1,Normal
+3773526,Lucas Pérez Martínez,Deportivo Alavés,12.04200979903272,0.05978622956680604,False,Left Foot,Open Play,0,1,1,Normal
+3773526,Clément Lenglet,Barcelona,7.605918747922574,0.05647268895223518,False,Head,Open Play,0,1,3,Normal
+3773526,Lucas Pérez Martínez,Deportivo Alavés,24.520399670478458,0.05629631637620674,False,Left Foot,Open Play,0,0,2,Normal
+3773526,Luis Jesús Rioja González,Deportivo Alavés,15.601602481796537,0.0627149045590073,True,Left Foot,Open Play,0,0,1,Normal
+3773526,Lionel Andrés Messi Cuccittini,Barcelona,23.717082451262847,0.06438625365967411,False,Left Foot,Free Kick,0,0,0,Normal
+3773526,Francisco António Machado Mota de Castro Trincão,Barcelona,13.624243098242188,0.05631488698034288,False,Left Foot,Open Play,0,0,2,Normal
+3773526,Lionel Andrés Messi Cuccittini,Barcelona,18.306829326784037,0.06446344336090058,False,Left Foot,Open Play,0,0,3,Normal
+3773526,Antoine Griezmann,Barcelona,11.389907813498752,0.06049083236976795,False,Right Foot,Open Play,1,0,1,Volley
+3773526,Ricard Puig Martí,Barcelona,20.73861133248801,0.06613778422728174,False,Right Foot,Open Play,0,0,2,Normal
+3773526,Francisco António Machado Mota de Castro Trincão,Barcelona,16.4502279619463,0.056557228369535466,True,Left Foot,Open Play,1,0,2,Normal
+3773526,Lionel Andrés Messi Cuccittini,Barcelona,24.851559307214504,0.06455311391045342,True,Left Foot,Open Play,0,0,2,Normal
+3773526,Héctor Junior Firpo Adames,Barcelona,4.810405388322275,0.0571247288347103,True,Left Foot,Open Play,1,1,1,Normal
+3773526,Lionel Andrés Messi Cuccittini,Barcelona,16.584932921178794,0.0630692706573793,False,Left Foot,Open Play,0,0,1,Half Volley

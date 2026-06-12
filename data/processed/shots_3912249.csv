@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.132015883513898,0.06393185223205666,False,Right Foot,Open Play,1,0,1,Volley
-18.96364943780601,0.06474802520815524,False,Left Foot,Open Play,1,0,1,Normal
-8.12157620169878,0.054733684299241324,True,Right Foot,Open Play,1,1,3,Half Volley
-19.054133409840507,0.05691700807441951,False,Right Foot,Open Play,1,0,1,Normal
-26.780029873022915,0.06777760725786901,False,Right Foot,Open Play,0,0,2,Normal
-23.22455596992115,0.06643048588887171,False,Right Foot,Open Play,0,1,2,Normal
-11.111255554616674,0.059040320364849484,True,Head,Open Play,0,1,7,Normal
-29.67305174733465,0.0724316608221971,False,Right Foot,Open Play,0,0,1,Normal
-27.459060435491956,0.06951313957751903,False,Right Foot,Free Kick,0,0,0,Normal
-22.85804016095868,0.054071270410957745,False,Right Foot,Open Play,0,1,2,Normal
-38.461539230769226,0.07952126271267511,False,Right Foot,Open Play,0,0,1,Normal
-29.343653487594217,0.06906979497711295,False,Right Foot,Free Kick,0,0,0,Normal
-26.711046404062873,0.06858077383615298,False,Left Foot,Open Play,0,0,1,Normal
-3.1890437438204002,0.05516524721247935,True,Right Foot,Open Play,1,1,2,Half Volley
-9.374433316206375,0.052777807156480123,False,Head,Open Play,0,0,1,Normal
-21.88058500132023,0.05637776764832524,False,Right Foot,Open Play,0,0,1,Normal
-37.34300469967568,0.07587302897563905,False,Right Foot,Open Play,0,0,1,Normal
-13.577186748365806,0.05509269418119976,False,Left Foot,Open Play,0,0,3,Normal
-10.560303025955271,0.0545307088808571,False,Right Foot,Open Play,1,1,2,Volley
-18.59946235782099,0.05930578204666227,False,Left Foot,Open Play,1,1,3,Volley
-33.36240399012038,0.059306721330467695,False,Right Foot,Open Play,1,0,1,Half Volley
-28.78002779706788,0.07152017850008396,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912249,Katharina Piljić,SGS Essen 19/68,18.132015883513898,0.06393185223205666,False,Right Foot,Open Play,1,0,1,Volley
+3912249,Beke Sterner,SGS Essen 19/68,18.96364943780601,0.06474802520815524,False,Left Foot,Open Play,1,0,1,Normal
+3912249,Lilli Purtscheller,SGS Essen 19/68,8.12157620169878,0.054733684299241324,True,Right Foot,Open Play,1,1,3,Half Volley
+3912249,Natasha Kowalski,SGS Essen 19/68,19.054133409840507,0.05691700807441951,False,Right Foot,Open Play,1,0,1,Normal
+3912249,Laureta Elmazi,SGS Essen 19/68,26.780029873022915,0.06777760725786901,False,Right Foot,Open Play,0,0,2,Normal
+3912249,Lena Ostermeier,SGS Essen 19/68,23.22455596992115,0.06643048588887171,False,Right Foot,Open Play,0,1,2,Normal
+3912249,Annalena Rieke,SGS Essen 19/68,11.111255554616674,0.059040320364849484,True,Head,Open Play,0,1,7,Normal
+3912249,Laureta Elmazi,SGS Essen 19/68,29.67305174733465,0.0724316608221971,False,Right Foot,Open Play,0,0,1,Normal
+3912249,Natasha Kowalski,SGS Essen 19/68,27.459060435491956,0.06951313957751903,False,Right Foot,Free Kick,0,0,0,Normal
+3912249,Jacqueline Meißner,SGS Essen 19/68,22.85804016095868,0.054071270410957745,False,Right Foot,Open Play,0,1,2,Normal
+3912249,Alena Bienz,Köln,38.461539230769226,0.07952126271267511,False,Right Foot,Open Play,0,0,1,Normal
+3912249,Natasha Kowalski,SGS Essen 19/68,29.343653487594217,0.06906979497711295,False,Right Foot,Free Kick,0,0,0,Normal
+3912249,Martyna Wiankowska,Köln,26.711046404062873,0.06858077383615298,False,Left Foot,Open Play,0,0,1,Normal
+3912249,Natalia Padilla-Bidas,Köln,3.1890437438204002,0.05516524721247935,True,Right Foot,Open Play,1,1,2,Half Volley
+3912249,Martyna Wiankowska,Köln,9.374433316206375,0.052777807156480123,False,Head,Open Play,0,0,1,Normal
+3912249,Lilli Purtscheller,SGS Essen 19/68,21.88058500132023,0.05637776764832524,False,Right Foot,Open Play,0,0,1,Normal
+3912249,Natalia Padilla-Bidas,Köln,37.34300469967568,0.07587302897563905,False,Right Foot,Open Play,0,0,1,Normal
+3912249,Carlotta Wamser,Köln,13.577186748365806,0.05509269418119976,False,Left Foot,Open Play,0,0,3,Normal
+3912249,Jacqueline Meißner,SGS Essen 19/68,10.560303025955271,0.0545307088808571,False,Right Foot,Open Play,1,1,2,Volley
+3912249,Laura Donhauser,Köln,18.59946235782099,0.05930578204666227,False,Left Foot,Open Play,1,1,3,Volley
+3912249,Laura Vogt,Köln,33.36240399012038,0.059306721330467695,False,Right Foot,Open Play,1,0,1,Half Volley
+3912249,Anja Pfluger,SGS Essen 19/68,28.78002779706788,0.07152017850008396,False,Right Foot,Free Kick,0,0,0,Normal

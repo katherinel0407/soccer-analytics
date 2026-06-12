@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.565530915362352,0.062171966626316306,False,Left Foot,Open Play,1,0,0,Normal
-13.819189556555049,0.06185540189019485,False,Right Foot,Open Play,1,0,1,Volley
-6.103277807866851,0.05567651628153004,True,Right Foot,Open Play,1,0,0,Normal
-31.326825565320217,0.07247788984594274,False,Right Foot,Free Kick,0,0,0,Normal
-21.716583525039102,0.05699006193407906,False,Right Foot,Open Play,0,0,0,Half Volley
-34.958546880555545,0.06512995677320653,False,Right Foot,Open Play,0,0,1,Normal
-17.84656829757475,0.0638038983125779,False,Left Foot,Open Play,0,0,2,Normal
-19.424983912477245,0.053294049214036104,False,Right Foot,Open Play,1,1,1,Normal
-27.144981119905026,0.05579027027135099,False,Right Foot,Open Play,0,0,2,Normal
-22.226560687609773,0.06704471525534846,False,Left Foot,Open Play,1,0,1,Half Volley
-26.239092972128436,0.057147580039605995,False,Right Foot,Free Kick,0,0,0,Normal
-8.376156636548771,0.058977416368769575,True,Right Foot,Open Play,1,0,2,Normal
-39.176140698134105,0.08047962950694604,False,Right Foot,Open Play,0,0,3,Normal
-6.835934464285037,0.057698499322142736,False,Head,Open Play,0,1,4,Normal
-19.009471323527123,0.062382808581113725,False,Left Foot,Open Play,0,0,2,Half Volley
-39.40774035643252,0.06104849794441914,False,Right Foot,Open Play,0,0,2,Normal
-31.435648553831363,0.06022837815235975,False,Left Foot,Open Play,0,0,2,Normal
-9.080198235721506,0.05587512786557783,False,Right Foot,Open Play,1,0,1,Backheel
-21.343383049554255,0.05302540790135883,True,Right Foot,Open Play,0,1,1,Normal
-25.61640099623677,0.06125042896325188,False,Right Foot,Open Play,0,0,3,Normal
-21.052315787105233,0.0662053362952234,False,Left Foot,Open Play,0,0,1,Normal
-17.655594014362695,0.06257891469922326,False,Left Foot,Open Play,1,0,2,Normal
-12.103718436910208,0.0605475790845461,True,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900528,Jonathan Delaplace,Stade Malherbe Caen,19.565530915362352,0.062171966626316306,False,Left Foot,Open Play,1,0,0,Normal
+3900528,Ronny Rodelin,Stade Malherbe Caen,13.819189556555049,0.06185540189019485,False,Right Foot,Open Play,1,0,1,Volley
+3900528,Syam Ben Youssef,Stade Malherbe Caen,6.103277807866851,0.05567651628153004,True,Right Foot,Open Play,1,0,0,Normal
+3900528,Wahbi Khazri,Bordeaux,31.326825565320217,0.07247788984594274,False,Right Foot,Free Kick,0,0,0,Normal
+3900528,Ronny Rodelin,Stade Malherbe Caen,21.716583525039102,0.05699006193407906,False,Right Foot,Open Play,0,0,0,Half Volley
+3900528,Henri Saivet,Bordeaux,34.958546880555545,0.06512995677320653,False,Right Foot,Open Play,0,0,1,Normal
+3900528,Andy Delort,Stade Malherbe Caen,17.84656829757475,0.0638038983125779,False,Left Foot,Open Play,0,0,2,Normal
+3900528,Ronny Rodelin,Stade Malherbe Caen,19.424983912477245,0.053294049214036104,False,Right Foot,Open Play,1,1,1,Normal
+3900528,Wahbi Khazri,Bordeaux,27.144981119905026,0.05579027027135099,False,Right Foot,Open Play,0,0,2,Normal
+3900528,Nicolas Maurice-Belay,Bordeaux,22.226560687609773,0.06704471525534846,False,Left Foot,Open Play,1,0,1,Half Volley
+3900528,Andy Delort,Stade Malherbe Caen,26.239092972128436,0.057147580039605995,False,Right Foot,Free Kick,0,0,0,Normal
+3900528,Damien Da Silva,Stade Malherbe Caen,8.376156636548771,0.058977416368769575,True,Right Foot,Open Play,1,0,2,Normal
+3900528,Andy Delort,Stade Malherbe Caen,39.176140698134105,0.08047962950694604,False,Right Foot,Open Play,0,0,3,Normal
+3900528,Damien Da Silva,Stade Malherbe Caen,6.835934464285037,0.057698499322142736,False,Head,Open Play,0,1,4,Normal
+3900528,Cheick Tidiane Diabaté,Bordeaux,19.009471323527123,0.062382808581113725,False,Left Foot,Open Play,0,0,2,Half Volley
+3900528,Cédric Yambéré,Bordeaux,39.40774035643252,0.06104849794441914,False,Right Foot,Open Play,0,0,2,Normal
+3900528,Jaroslav Plašil,Bordeaux,31.435648553831363,0.06022837815235975,False,Left Foot,Open Play,0,0,2,Normal
+3900528,Cédric Yambéré,Bordeaux,9.080198235721506,0.05587512786557783,False,Right Foot,Open Play,1,0,1,Backheel
+3900528,Andy Delort,Stade Malherbe Caen,21.343383049554255,0.05302540790135883,True,Right Foot,Open Play,0,1,1,Normal
+3900528,Diego Alejandro Rolan Silva,Bordeaux,25.61640099623677,0.06125042896325188,False,Right Foot,Open Play,0,0,3,Normal
+3900528,Hervé Bazile,Stade Malherbe Caen,21.052315787105233,0.0662053362952234,False,Left Foot,Open Play,0,0,1,Normal
+3900528,Jaroslav Plašil,Bordeaux,17.655594014362695,0.06257891469922326,False,Left Foot,Open Play,1,0,2,Normal
+3900528,Enzo Crivelli,Bordeaux,12.103718436910208,0.0605475790845461,True,Right Foot,Open Play,1,0,1,Normal

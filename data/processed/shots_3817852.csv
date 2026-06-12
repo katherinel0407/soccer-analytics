@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.30615670184784,0.057550079299844,False,Left Foot,Open Play,0,1,3,Normal
-17.803651310896868,0.05822448985862943,False,Left Foot,Open Play,0,0,3,Half Volley
-10.163660757817535,0.05949641618723517,False,Head,Open Play,0,1,2,Normal
-8.002499609497024,0.058019164262686294,False,Head,Open Play,0,1,3,Normal
-12.26417547167359,0.05659307273415021,False,Left Foot,Open Play,1,1,3,Normal
-24.63331078032346,0.053760180859347986,False,Left Foot,Open Play,0,0,1,Normal
-34.10058650522011,0.06441523987088942,False,Right Foot,Open Play,0,0,0,Normal
-11.690166808048549,0.05862791495698545,False,Left Foot,Open Play,1,0,2,Overhead Kick
-18.41331040307528,0.06207404202979349,False,Right Foot,Open Play,1,0,0,Volley
-15.86600138661282,0.0625823595647136,False,Right Foot,Open Play,1,0,5,Half Volley
-25.012197024651798,0.06773042588702209,False,Left Foot,Open Play,0,1,1,Normal
-26.93566409056959,0.058441685929097265,False,Left Foot,Open Play,0,1,2,Half Volley
-26.027677575995906,0.06531353655032332,False,Left Foot,Open Play,0,1,2,Normal
-10.448444860360798,0.054701334807003885,False,Head,Open Play,0,1,4,Normal
-15.875137794677556,0.06274104115491581,False,Right Foot,Open Play,1,0,1,Normal
-25.01459573928789,0.06107050340638569,False,Left Foot,Open Play,0,0,1,Normal
-27.765446151646838,0.061594474686785534,False,Right Foot,Open Play,1,0,0,Normal
-21.16908122711045,0.06611575551874314,False,Right Foot,Open Play,0,0,2,Normal
-20.711832367031175,0.06372176952468661,False,Left Foot,Open Play,1,0,1,Half Volley
-7.874642849044009,0.05856596373762267,True,Left Foot,Open Play,0,0,2,Normal
-34.400145348530145,0.07011507029045201,False,Right Foot,Open Play,0,1,1,Normal
-14.040655255364685,0.0522454207416562,False,Right Foot,Open Play,1,0,2,Half Volley
-5.25547333738837,0.05614635612249952,False,Right Foot,Open Play,1,0,6,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817852,Syed Suhail Pasha,Chennaiyin,20.30615670184784,0.057550079299844,False,Left Foot,Open Play,0,1,3,Normal
+3817852,Igor Angulo Albóniga,Mumbai City,17.803651310896868,0.05822448985862943,False,Left Foot,Open Play,0,0,3,Half Volley
+3817852,Igor Angulo Albóniga,Mumbai City,10.163660757817535,0.05949641618723517,False,Head,Open Play,0,1,2,Normal
+3817852,Rahul Bheke,Mumbai City,8.002499609497024,0.058019164262686294,False,Head,Open Play,0,1,3,Normal
+3817852,Igor Angulo Albóniga,Mumbai City,12.26417547167359,0.05659307273415021,False,Left Foot,Open Play,1,1,3,Normal
+3817852,Lallianzuala Chhangte,Mumbai City,24.63331078032346,0.053760180859347986,False,Left Foot,Open Play,0,0,1,Normal
+3817852,Ariel Borysiuk,Chennaiyin,34.10058650522011,0.06441523987088942,False,Right Foot,Open Play,0,0,0,Normal
+3817852,Igor Angulo Albóniga,Mumbai City,11.690166808048549,0.05862791495698545,False,Left Foot,Open Play,1,0,2,Overhead Kick
+3817852,Ariel Borysiuk,Chennaiyin,18.41331040307528,0.06207404202979349,False,Right Foot,Open Play,1,0,0,Volley
+3817852,Narayan Das,Chennaiyin,15.86600138661282,0.0625823595647136,False,Right Foot,Open Play,1,0,5,Half Volley
+3817852,Lalengmawia Ralte,Mumbai City,25.012197024651798,0.06773042588702209,False,Left Foot,Open Play,0,1,1,Normal
+3817852,Lallianzuala Chhangte,Mumbai City,26.93566409056959,0.058441685929097265,False,Left Foot,Open Play,0,1,2,Half Volley
+3817852,Cássio Gabriel Vilela Ferreira,Mumbai City,26.027677575995906,0.06531353655032332,False,Left Foot,Open Play,0,1,2,Normal
+3817852,Igor Angulo Albóniga,Mumbai City,10.448444860360798,0.054701334807003885,False,Head,Open Play,0,1,4,Normal
+3817852,Bipin Singh Thounajam,Mumbai City,15.875137794677556,0.06274104115491581,False,Right Foot,Open Play,1,0,1,Normal
+3817852,Nerijus Valskis,Chennaiyin,25.01459573928789,0.06107050340638569,False,Left Foot,Open Play,0,0,1,Normal
+3817852,Ariel Borysiuk,Chennaiyin,27.765446151646838,0.061594474686785534,False,Right Foot,Open Play,1,0,0,Normal
+3817852,Vikram Pratap Singh,Mumbai City,21.16908122711045,0.06611575551874314,False,Right Foot,Open Play,0,0,2,Normal
+3817852,Igor Angulo Albóniga,Mumbai City,20.711832367031175,0.06372176952468661,False,Left Foot,Open Play,1,0,1,Half Volley
+3817852,Vikram Pratap Singh,Mumbai City,7.874642849044009,0.05856596373762267,True,Left Foot,Open Play,0,0,2,Normal
+3817852,Anirudh Thapa,Chennaiyin,34.400145348530145,0.07011507029045201,False,Right Foot,Open Play,0,1,1,Normal
+3817852,Ariel Borysiuk,Chennaiyin,14.040655255364685,0.0522454207416562,False,Right Foot,Open Play,1,0,2,Half Volley
+3817852,Łukasz Gikiewicz,Chennaiyin,5.25547333738837,0.05614635612249952,False,Right Foot,Open Play,1,0,6,Half Volley

@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.388410539158453,0.062103416893863256,False,Head,Open Play,0,0,2,Normal
-10.971326264403958,0.054970494080684176,False,Head,Open Play,0,1,4,Normal
-12.790621564255579,0.05903191381683073,False,Right Foot,Open Play,1,0,2,Normal
-8.746427842267945,0.059050850692816986,False,Left Foot,Open Play,1,0,1,Normal
-10.410091258005382,0.056451211696819104,False,Right Foot,Open Play,1,1,4,Volley
-8.420213774008348,0.05873617627777634,True,Head,Open Play,0,0,1,Normal
-13.408206442324792,0.05827694476628402,False,Left Foot,Open Play,1,0,4,Half Volley
-20.63055985667863,0.057936254921903636,False,Left Foot,Open Play,1,0,1,Volley
-34.294751785076386,0.052754054449879295,False,Right Foot,Open Play,0,0,2,Normal
-31.586864358463945,0.07356807168515953,False,Right Foot,Free Kick,0,0,0,Normal
-31.182366812030164,0.05863261156771699,False,Right Foot,Open Play,0,0,2,Normal
-27.597463651574945,0.07076920466219525,False,Right Foot,Open Play,1,0,2,Normal
-13.984634424968002,0.0579290395574668,False,Right Foot,Open Play,0,0,2,Normal
-30.547667668743554,0.0697808540075948,False,Left Foot,Open Play,1,1,1,Half Volley
-17.61845623203123,0.05530483359654329,False,Head,Open Play,0,0,2,Normal
-19.319679086361656,0.05822911251269879,False,Right Foot,Open Play,1,0,1,Half Volley
-11.926860441876567,0.057777471629343144,False,Head,Open Play,0,0,2,Normal
-30.634131291747117,0.07160578403872565,False,Right Foot,Open Play,0,0,1,Normal
-22.337636401374258,0.06702343032697552,False,Right Foot,Free Kick,0,0,0,Normal
-29.598986469134378,0.05651254133978016,False,Right Foot,Open Play,0,0,0,Normal
-14.822280526288797,0.05606033415580219,False,Right Foot,Open Play,1,0,1,Volley
-30.358689036254518,0.06624518664389815,False,Left Foot,Open Play,1,1,1,Volley
-32.80243893371345,0.06346304081111011,False,Right Foot,Free Kick,0,0,0,Normal
-9.386160024205854,0.05816892459045043,False,Right Foot,Open Play,1,0,3,Volley
-3.1953090617340894,0.05443550082836184,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825751,Mikel San José Domínguez,Athletic Club,16.388410539158453,0.062103416893863256,False,Head,Open Play,0,0,2,Normal
+3825751,Juan Antonio Rodríguez Villamuela,Getafe,10.971326264403958,0.054970494080684176,False,Head,Open Play,0,1,4,Normal
+3825751,Sabin Merino Zuloaga,Athletic Club,12.790621564255579,0.05903191381683073,False,Right Foot,Open Play,1,0,2,Normal
+3825751,Sabin Merino Zuloaga,Athletic Club,8.746427842267945,0.059050850692816986,False,Left Foot,Open Play,1,0,1,Normal
+3825751,Aritz Aduriz Zubeldia,Athletic Club,10.410091258005382,0.056451211696819104,False,Right Foot,Open Play,1,1,4,Volley
+3825751,Iñaki Williams Arthuer,Athletic Club,8.420213774008348,0.05873617627777634,True,Head,Open Play,0,0,1,Normal
+3825751,Aritz Aduriz Zubeldia,Athletic Club,13.408206442324792,0.05827694476628402,False,Left Foot,Open Play,1,0,4,Half Volley
+3825751,Moisés Gómez Bordonado,Getafe,20.63055985667863,0.057936254921903636,False,Left Foot,Open Play,1,0,1,Volley
+3825751,Iñaki Williams Arthuer,Athletic Club,34.294751785076386,0.052754054449879295,False,Right Foot,Open Play,0,0,2,Normal
+3825751,Beñat Etxebarria Urkiaga,Athletic Club,31.586864358463945,0.07356807168515953,False,Right Foot,Free Kick,0,0,0,Normal
+3825751,Pedro León Sánchez Gil,Getafe,31.182366812030164,0.05863261156771699,False,Right Foot,Open Play,0,0,2,Normal
+3825751,Sabin Merino Zuloaga,Athletic Club,27.597463651574945,0.07076920466219525,False,Right Foot,Open Play,1,0,2,Normal
+3825751,Stefan Šćepović,Getafe,13.984634424968002,0.0579290395574668,False,Right Foot,Open Play,0,0,2,Normal
+3825751,Mehdi Lacen,Getafe,30.547667668743554,0.0697808540075948,False,Left Foot,Open Play,1,1,1,Half Volley
+3825751,Íñigo Lekue Martínez,Athletic Club,17.61845623203123,0.05530483359654329,False,Head,Open Play,0,0,2,Normal
+3825751,Álvaro Vázquez García,Getafe,19.319679086361656,0.05822911251269879,False,Right Foot,Open Play,1,0,1,Half Volley
+3825751,Stefan Šćepović,Getafe,11.926860441876567,0.057777471629343144,False,Head,Open Play,0,0,2,Normal
+3825751,Wanderson Maciel Sousa Campos,Getafe,30.634131291747117,0.07160578403872565,False,Right Foot,Open Play,0,0,1,Normal
+3825751,Beñat Etxebarria Urkiaga,Athletic Club,22.337636401374258,0.06702343032697552,False,Right Foot,Free Kick,0,0,0,Normal
+3825751,Mikel San José Domínguez,Athletic Club,29.598986469134378,0.05651254133978016,False,Right Foot,Open Play,0,0,0,Normal
+3825751,Borja Viguera Manzanares,Athletic Club,14.822280526288797,0.05606033415580219,False,Right Foot,Open Play,1,0,1,Volley
+3825751,Mikel Balenziaga Oruesagasti,Athletic Club,30.358689036254518,0.06624518664389815,False,Left Foot,Open Play,1,1,1,Volley
+3825751,Pedro León Sánchez Gil,Getafe,32.80243893371345,0.06346304081111011,False,Right Foot,Free Kick,0,0,0,Normal
+3825751,Stefan Šćepović,Getafe,9.386160024205854,0.05816892459045043,False,Right Foot,Open Play,1,0,3,Volley
+3825751,Álvaro Vázquez García,Getafe,3.1953090617340894,0.05443550082836184,False,Head,Open Play,0,1,3,Normal

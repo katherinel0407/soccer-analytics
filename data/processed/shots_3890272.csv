@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.600520819205586,0.058634046191821755,False,Head,Open Play,0,1,2,Normal
-19.00236827345476,0.06276505333237266,False,Right Foot,Open Play,0,0,3,Normal
-16.83151805393679,0.06336647350782411,False,Left Foot,Open Play,1,1,1,Normal
-31.783328963467625,0.07382806448175032,False,Left Foot,Open Play,0,0,0,Normal
-41.29176673381753,0.07003411583892694,False,Right Foot,Free Kick,0,0,0,Normal
-17.017637908946114,0.05742055434425393,False,Head,Open Play,0,1,3,Normal
-24.190080611688757,0.05727336760834425,True,Right Foot,Open Play,0,0,1,Normal
-19.257466084612485,0.06507548742361008,False,Right Foot,Open Play,0,0,1,Normal
-28.652748559256924,0.07086372693861905,False,Left Foot,Open Play,0,1,1,Normal
-14.455448799674121,0.059055432516477754,False,Right Foot,Open Play,1,1,1,Volley
-16.928378540191027,0.0625475764618588,False,Left Foot,Open Play,0,0,1,Volley
-16.995587662684684,0.058015732021547084,False,Other,Open Play,0,1,1,Normal
-34.896991274320484,0.056853270733587466,False,Left Foot,Open Play,0,0,0,Normal
-30.660234832760164,0.05586775165362114,False,Right Foot,Open Play,1,0,0,Half Volley
-25.53918557824427,0.05979714989219976,False,Right Foot,Open Play,1,0,0,Normal
-21.68132837258824,0.05777015797687429,False,Left Foot,Open Play,0,0,1,Normal
-8.200609733428363,0.05888095708844709,False,Head,Open Play,0,1,4,Normal
-19.49897433200013,0.05188344894819459,False,Right Foot,Open Play,0,0,1,Normal
-25.031979546172536,0.06802294409280452,False,Right Foot,Open Play,0,0,1,Normal
-25.133642792082483,0.053141401425675666,False,Left Foot,Open Play,0,1,1,Normal
-17.118703221914917,0.054201665713096585,False,Right Foot,Open Play,0,1,1,Normal
-15.915401345866215,0.06315727963990819,False,Right Foot,Open Play,1,0,2,Normal
-29.029984498790213,0.07126292807730852,False,Right Foot,Open Play,0,1,1,Normal
-15.264337522473747,0.0627797409042985,False,Left Foot,Open Play,1,0,1,Half Volley
-8.02309167341369,0.058366551362075525,True,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890272,Joel Gerezgiher,Eintracht Frankfurt,9.600520819205586,0.058634046191821755,False,Head,Open Play,0,1,2,Normal
+3890272,Tobias Werner,Augsburg,19.00236827345476,0.06276505333237266,False,Right Foot,Open Play,0,0,3,Normal
+3890272,Halil Altıntop,Augsburg,16.83151805393679,0.06336647350782411,False,Left Foot,Open Play,1,1,1,Normal
+3890272,Tobias Werner,Augsburg,31.783328963467625,0.07382806448175032,False,Left Foot,Open Play,0,0,0,Normal
+3890272,Jeong-Ho Hong,Augsburg,41.29176673381753,0.07003411583892694,False,Right Foot,Free Kick,0,0,0,Normal
+3890272,Stefan Reinartz,Eintracht Frankfurt,17.017637908946114,0.05742055434425393,False,Head,Open Play,0,1,3,Normal
+3890272,Caiuby Francisco da Silva,Augsburg,24.190080611688757,0.05727336760834425,True,Right Foot,Open Play,0,0,1,Normal
+3890272,Marco Russ,Eintracht Frankfurt,19.257466084612485,0.06507548742361008,False,Right Foot,Open Play,0,0,1,Normal
+3890272,Haris Seferović,Eintracht Frankfurt,28.652748559256924,0.07086372693861905,False,Left Foot,Open Play,0,1,1,Normal
+3890272,Marco Russ,Eintracht Frankfurt,14.455448799674121,0.059055432516477754,False,Right Foot,Open Play,1,1,1,Volley
+3890272,Haris Seferović,Eintracht Frankfurt,16.928378540191027,0.0625475764618588,False,Left Foot,Open Play,0,0,1,Volley
+3890272,Halil Altıntop,Augsburg,16.995587662684684,0.058015732021547084,False,Other,Open Play,0,1,1,Normal
+3890272,Timothy Chandler,Eintracht Frankfurt,34.896991274320484,0.056853270733587466,False,Left Foot,Open Play,0,0,0,Normal
+3890272,Timothy Chandler,Eintracht Frankfurt,30.660234832760164,0.05586775165362114,False,Right Foot,Open Play,1,0,0,Half Volley
+3890272,Daniel Baier,Augsburg,25.53918557824427,0.05979714989219976,False,Right Foot,Open Play,1,0,0,Normal
+3890272,Alexander Esswein,Augsburg,21.68132837258824,0.05777015797687429,False,Left Foot,Open Play,0,0,1,Normal
+3890272,Luc Castaignos,Eintracht Frankfurt,8.200609733428363,0.05888095708844709,False,Head,Open Play,0,1,4,Normal
+3890272,Alexander Esswein,Augsburg,19.49897433200013,0.05188344894819459,False,Right Foot,Open Play,0,0,1,Normal
+3890272,Dong-Won Ji,Augsburg,25.031979546172536,0.06802294409280452,False,Right Foot,Open Play,0,0,1,Normal
+3890272,Tobias Werner,Augsburg,25.133642792082483,0.053141401425675666,False,Left Foot,Open Play,0,1,1,Normal
+3890272,Stefan Aigner,Eintracht Frankfurt,17.118703221914917,0.054201665713096585,False,Right Foot,Open Play,0,1,1,Normal
+3890272,Dong-Won Ji,Augsburg,15.915401345866215,0.06315727963990819,False,Right Foot,Open Play,1,0,2,Normal
+3890272,Konstantinos Stafylidis,Augsburg,29.029984498790213,0.07126292807730852,False,Right Foot,Open Play,0,1,1,Normal
+3890272,Tobias Werner,Augsburg,15.264337522473747,0.0627797409042985,False,Left Foot,Open Play,1,0,1,Half Volley
+3890272,Marco Russ,Eintracht Frankfurt,8.02309167341369,0.058366551362075525,True,Right Foot,Open Play,1,0,1,Normal

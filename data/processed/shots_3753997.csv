@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.140604606890427,0.06846439260099607,False,Right Foot,Open Play,0,1,3,Normal
-33.301651610693426,0.06795464453705262,False,Right Foot,Open Play,0,0,1,Normal
-9.806120537705006,0.05926980312423304,False,Head,Open Play,0,0,2,Normal
-19.420092687729376,0.06524350792895349,False,Right Foot,Open Play,0,0,3,Normal
-5.907622195096777,0.05721634504505411,False,Head,Open Play,0,1,5,Normal
-16.681726529349415,0.053987844382644555,False,Right Foot,Open Play,1,0,1,Half Volley
-3.4234485537247434,0.05627673328320723,False,Head,Open Play,0,0,2,Normal
-31.208332220738743,0.07044651007288028,False,Right Foot,Open Play,1,0,1,Half Volley
-25.61444904736387,0.06882200051919309,False,Left Foot,Open Play,0,0,2,Normal
-38.25310444918164,0.05837224157851134,False,Right Foot,Open Play,0,0,1,Normal
-17.833956375409247,0.05687278950362593,False,Left Foot,Open Play,0,0,1,Half Volley
-34.417727990092544,0.07467289769252058,False,Right Foot,Free Kick,0,0,0,Normal
-9.021086409075131,0.05930893155025547,False,Head,Open Play,0,1,2,Normal
-13.471822445385774,0.05337101068016936,False,Right Foot,Open Play,1,0,0,Volley
-21.423818520515894,0.05863222600680416,False,Right Foot,Open Play,1,0,0,Volley
-26.215453457836656,0.06428015485786952,False,Right Foot,Free Kick,0,0,0,Normal
-12.258874336577565,0.05641044103252973,True,Head,Open Play,0,0,1,Normal
-33.66897681843035,0.07286720709486347,False,Right Foot,Open Play,1,0,2,Half Volley
-25.811818998280607,0.06405569191013445,False,Right Foot,Open Play,0,0,2,Normal
-3.5355339059327378,0.05634443334458566,False,Right Foot,Open Play,1,0,5,Overhead Kick
-21.083642948978245,0.06600634517638074,False,Right Foot,Open Play,0,1,1,Half Volley
-24.60731598529186,0.06802112397978446,False,Right Foot,Open Play,0,0,2,Normal
-17.44161689752415,0.06013432358417157,False,Right Foot,Open Play,1,0,3,Normal
-30.99322506613341,0.06070792071265236,False,Right Foot,Open Play,0,0,1,Normal
-24.517748673155133,0.06629835539755972,False,Left Foot,Open Play,1,0,1,Normal
-27.72002886001384,0.07076939765438996,False,Right Foot,Open Play,0,0,2,Normal
-12.925169244539894,0.061386992290714516,True,Right Foot,Open Play,0,0,2,Normal
-26.205342966654715,0.06843633333059579,False,Right Foot,Open Play,0,0,2,Normal
-17.223530416264833,0.05338534369044188,False,Right Foot,Open Play,1,0,1,Normal
-26.692320993124596,0.07021392215491672,False,Right Foot,Open Play,0,0,1,Normal
-34.23171044514136,0.07583231610681203,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753997,Carles Gil de Pareja Vicent,Aston Villa,25.140604606890427,0.06846439260099607,False,Right Foot,Open Play,0,1,3,Normal
+3753997,Idrissa Gana Gueye,Aston Villa,33.301651610693426,0.06795464453705262,False,Right Foot,Open Play,0,0,1,Normal
+3753997,Michail Antonio,West Ham United,9.806120537705006,0.05926980312423304,False,Head,Open Play,0,0,2,Normal
+3753997,Cheikhou Kouyaté,West Ham United,19.420092687729376,0.06524350792895349,False,Right Foot,Open Play,0,0,3,Normal
+3753997,Michail Antonio,West Ham United,5.907622195096777,0.05721634504505411,False,Head,Open Play,0,1,5,Normal
+3753997,James Tomkins,West Ham United,16.681726529349415,0.053987844382644555,False,Right Foot,Open Play,1,0,1,Half Volley
+3753997,Enner Remberto Valencia Lastra,West Ham United,3.4234485537247434,0.05627673328320723,False,Head,Open Play,0,0,2,Normal
+3753997,Cheikhou Kouyaté,West Ham United,31.208332220738743,0.07044651007288028,False,Right Foot,Open Play,1,0,1,Half Volley
+3753997,Michail Antonio,West Ham United,25.61444904736387,0.06882200051919309,False,Left Foot,Open Play,0,0,2,Normal
+3753997,James Collins,West Ham United,38.25310444918164,0.05837224157851134,False,Right Foot,Open Play,0,0,1,Normal
+3753997,James Tomkins,West Ham United,17.833956375409247,0.05687278950362593,False,Left Foot,Open Play,0,0,1,Half Volley
+3753997,Enner Remberto Valencia Lastra,West Ham United,34.417727990092544,0.07467289769252058,False,Right Foot,Free Kick,0,0,0,Normal
+3753997,Cheikhou Kouyaté,West Ham United,9.021086409075131,0.05930893155025547,False,Head,Open Play,0,1,2,Normal
+3753997,Michail Antonio,West Ham United,13.471822445385774,0.05337101068016936,False,Right Foot,Open Play,1,0,0,Volley
+3753997,Mark Noble,West Ham United,21.423818520515894,0.05863222600680416,False,Right Foot,Open Play,1,0,0,Volley
+3753997,Dimitri Payet,West Ham United,26.215453457836656,0.06428015485786952,False,Right Foot,Free Kick,0,0,0,Normal
+3753997,Michail Antonio,West Ham United,12.258874336577565,0.05641044103252973,True,Head,Open Play,0,0,1,Normal
+3753997,James Tomkins,West Ham United,33.66897681843035,0.07286720709486347,False,Right Foot,Open Play,1,0,2,Half Volley
+3753997,Alexandre Dimitri Song-Billong,West Ham United,25.811818998280607,0.06405569191013445,False,Right Foot,Open Play,0,0,2,Normal
+3753997,Cheikhou Kouyaté,West Ham United,3.5355339059327378,0.05634443334458566,False,Right Foot,Open Play,1,0,5,Overhead Kick
+3753997,Aaron Cresswell,West Ham United,21.083642948978245,0.06600634517638074,False,Right Foot,Open Play,0,1,1,Half Volley
+3753997,Enner Remberto Valencia Lastra,West Ham United,24.60731598529186,0.06802112397978446,False,Right Foot,Open Play,0,0,2,Normal
+3753997,Mark Noble,West Ham United,17.44161689752415,0.06013432358417157,False,Right Foot,Open Play,1,0,3,Normal
+3753997,Idrissa Gana Gueye,Aston Villa,30.99322506613341,0.06070792071265236,False,Right Foot,Open Play,0,0,1,Normal
+3753997,Kieran Richardson,Aston Villa,24.517748673155133,0.06629835539755972,False,Left Foot,Open Play,1,0,1,Normal
+3753997,Dimitri Payet,West Ham United,27.72002886001384,0.07076939765438996,False,Right Foot,Open Play,0,0,2,Normal
+3753997,Cheikhou Kouyaté,West Ham United,12.925169244539894,0.061386992290714516,True,Right Foot,Open Play,0,0,2,Normal
+3753997,Jordan Veretout,Aston Villa,26.205342966654715,0.06843633333059579,False,Right Foot,Open Play,0,0,2,Normal
+3753997,Victor Moses,West Ham United,17.223530416264833,0.05338534369044188,False,Right Foot,Open Play,1,0,1,Normal
+3753997,Cheikhou Kouyaté,West Ham United,26.692320993124596,0.07021392215491672,False,Right Foot,Open Play,0,0,1,Normal
+3753997,Nikica Jelavić,West Ham United,34.23171044514136,0.07583231610681203,False,Right Foot,Open Play,0,0,1,Normal

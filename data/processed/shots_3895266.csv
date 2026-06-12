@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.459905436823746,0.0586506989139257,False,Head,Open Play,0,1,2,Normal
-25.860007733950894,0.056168645749229536,False,Right Foot,Open Play,0,0,2,Normal
-10.444615837837214,0.05946061022291587,False,Right Foot,Open Play,1,0,3,Half Volley
-26.375936002348805,0.06707495941601078,False,Left Foot,Open Play,1,0,0,Half Volley
-25.157503850740035,0.066317607952414,False,Left Foot,Open Play,1,0,1,Half Volley
-15.380832227158578,0.05395454110975918,False,Right Foot,Open Play,0,0,2,Normal
-3.3241540277189343,0.05581670447813288,True,Head,Open Play,0,0,4,Normal
-7.3824115301166975,0.05731754883887078,False,Head,Open Play,0,0,0,Normal
-30.768815381811493,0.06293056064198052,False,Right Foot,Open Play,0,0,1,Normal
-31.58354001691388,0.0705608674922908,False,Right Foot,Open Play,0,0,0,Normal
-32.28761372415125,0.07363583788473738,False,Right Foot,Free Kick,0,0,0,Normal
-11.374093370462543,0.05997907632373767,False,Head,Open Play,0,1,1,Normal
-23.345235059857504,0.0548518347809503,False,Right Foot,Open Play,1,0,0,Normal
-28.734648075102644,0.05979947304201601,False,Left Foot,Open Play,0,0,2,Normal
-31.45345767956203,0.055191690206230735,False,Left Foot,Open Play,0,0,2,Normal
-22.7705950734714,0.06260525172143609,False,Left Foot,Open Play,1,0,0,Normal
-14.56021977856103,0.056142527639554844,False,Head,Open Play,0,0,2,Normal
-17.034377006512454,0.06383495909001219,False,Right Foot,Open Play,0,0,4,Normal
-34.33904483237704,0.0603034128032991,False,Right Foot,Open Play,0,0,1,Normal
-12.22865487287952,0.055832730671257276,False,Head,Open Play,0,1,2,Normal
-21.298356744124657,0.0616472927373446,False,Right Foot,Open Play,0,1,2,Normal
-10.735455276791944,0.060191602354115734,True,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895266,Jonas Older Wind,Wolfsburg,8.459905436823746,0.0586506989139257,False,Head,Open Play,0,1,2,Normal
+3895266,Josip Stanišić,Bayer Leverkusen,25.860007733950894,0.056168645749229536,False,Right Foot,Open Play,0,0,2,Normal
+3895266,Florian Wirtz,Bayer Leverkusen,10.444615837837214,0.05946061022291587,False,Right Foot,Open Play,1,0,3,Half Volley
+3895266,Granit Xhaka,Bayer Leverkusen,26.375936002348805,0.06707495941601078,False,Left Foot,Open Play,1,0,0,Half Volley
+3895266,Cédric Zesiger,Wolfsburg,25.157503850740035,0.066317607952414,False,Left Foot,Open Play,1,0,1,Half Volley
+3895266,Ridle Bote Baku,Wolfsburg,15.380832227158578,0.05395454110975918,False,Right Foot,Open Play,0,0,2,Normal
+3895266,Nathan Tella,Bayer Leverkusen,3.3241540277189343,0.05581670447813288,True,Head,Open Play,0,0,4,Normal
+3895266,Piero Martín Hincapié Reyna,Bayer Leverkusen,7.3824115301166975,0.05731754883887078,False,Head,Open Play,0,0,0,Normal
+3895266,Exequiel Alejandro Palacios,Bayer Leverkusen,30.768815381811493,0.06293056064198052,False,Right Foot,Open Play,0,0,1,Normal
+3895266,Jonathan Tah,Bayer Leverkusen,31.58354001691388,0.0705608674922908,False,Right Foot,Open Play,0,0,0,Normal
+3895266,Florian Wirtz,Bayer Leverkusen,32.28761372415125,0.07363583788473738,False,Right Foot,Free Kick,0,0,0,Normal
+3895266,Amine Adli,Bayer Leverkusen,11.374093370462543,0.05997907632373767,False,Head,Open Play,0,1,1,Normal
+3895266,Edmond Fayçal Tapsoba,Bayer Leverkusen,23.345235059857504,0.0548518347809503,False,Right Foot,Open Play,1,0,0,Normal
+3895266,Granit Xhaka,Bayer Leverkusen,28.734648075102644,0.05979947304201601,False,Left Foot,Open Play,0,0,2,Normal
+3895266,Alejandro Grimaldo García,Bayer Leverkusen,31.45345767956203,0.055191690206230735,False,Left Foot,Open Play,0,0,2,Normal
+3895266,Alejandro Grimaldo García,Bayer Leverkusen,22.7705950734714,0.06260525172143609,False,Left Foot,Open Play,1,0,0,Normal
+3895266,Jonathan Tah,Bayer Leverkusen,14.56021977856103,0.056142527639554844,False,Head,Open Play,0,0,2,Normal
+3895266,Borja Iglesias Quintas,Bayer Leverkusen,17.034377006512454,0.06383495909001219,False,Right Foot,Open Play,0,0,4,Normal
+3895266,Jonas Hofmann,Bayer Leverkusen,34.33904483237704,0.0603034128032991,False,Right Foot,Open Play,0,0,1,Normal
+3895266,Amine Adli,Bayer Leverkusen,12.22865487287952,0.055832730671257276,False,Head,Open Play,0,1,2,Normal
+3895266,Exequiel Alejandro Palacios,Bayer Leverkusen,21.298356744124657,0.0616472927373446,False,Right Foot,Open Play,0,1,2,Normal
+3895266,Florian Wirtz,Bayer Leverkusen,10.735455276791944,0.060191602354115734,True,Right Foot,Open Play,1,0,2,Volley

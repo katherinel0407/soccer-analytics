@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.637307474468344,0.06257429150887026,False,Left Foot,Open Play,1,0,1,Half Volley
-28.000178570859152,0.06685179852022108,False,Left Foot,Open Play,0,0,1,Normal
-36.11661667432319,0.06910951013526044,False,Left Foot,Free Kick,0,0,0,Normal
-33.358806933102386,0.054853324709483856,False,Right Foot,Open Play,0,0,1,Normal
-8.486459803710856,0.05688073063081677,False,Head,Open Play,0,1,4,Normal
-13.788400922514542,0.05773914227934359,False,Right Foot,Open Play,1,0,0,Volley
-18.363278574372284,0.055625260092633425,False,Left Foot,Open Play,0,0,3,Normal
-14.818906842274163,0.05348128501751105,False,Right Foot,Open Play,1,0,2,Half Volley
-20.64654934849889,0.05356013466013537,False,Left Foot,Open Play,0,0,2,Normal
-19.43733520830466,0.060862321515752535,False,Right Foot,Open Play,1,0,2,Volley
-19.134262462922376,0.05553487771288041,False,Left Foot,Open Play,0,0,1,Normal
-32.895592409926294,0.057834400503458,False,Left Foot,Open Play,0,0,1,Normal
-12.801562404644205,0.05985471912801908,False,Left Foot,Open Play,1,0,2,Half Volley
-18.300273222004094,0.05244137375686907,False,Right Foot,Open Play,0,0,0,Half Volley
-14.276203977248295,0.05276431601717103,False,Left Foot,Open Play,0,1,2,Normal
-18.260339536821323,0.057678477041078854,False,Left Foot,Open Play,1,0,1,Normal
-31.23475628206502,0.07317482091398624,False,Left Foot,Open Play,1,1,1,Lob
-31.227071588607213,0.07351917022623035,False,Right Foot,Open Play,0,0,0,Normal
-19.568597292601222,0.06529133599378287,False,Right Foot,Open Play,0,0,2,Normal
-11.20044641967453,0.0532361183705364,False,Right Foot,Open Play,1,0,0,Volley
-35.08646462669044,0.052053682825749265,False,Left Foot,Open Play,0,0,1,Normal
-21.019038988498018,0.05840841352609358,False,Right Foot,Open Play,1,0,1,Half Volley
-17.617321022221287,0.06154789897323096,False,Left Foot,Open Play,0,1,1,Normal
-21.639316070523122,0.06652058590547594,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825712,Pablo Sarabia García,Getafe,16.637307474468344,0.06257429150887026,False,Left Foot,Open Play,1,0,1,Half Volley
+3825712,Pedro Mosquera Parada,RC Deportivo La Coruña,28.000178570859152,0.06685179852022108,False,Left Foot,Open Play,0,0,1,Normal
+3825712,Pablo Sarabia García,Getafe,36.11661667432319,0.06910951013526044,False,Left Foot,Free Kick,0,0,0,Normal
+3825712,Luis Alberto Romero Alconchel,RC Deportivo La Coruña,33.358806933102386,0.054853324709483856,False,Right Foot,Open Play,0,0,1,Normal
+3825712,Santiago Vergini,Getafe,8.486459803710856,0.05688073063081677,False,Head,Open Play,0,1,4,Normal
+3825712,Víctor Rodríguez Romero,Getafe,13.788400922514542,0.05773914227934359,False,Right Foot,Open Play,1,0,0,Volley
+3825712,Pablo Sarabia García,Getafe,18.363278574372284,0.055625260092633425,False,Left Foot,Open Play,0,0,3,Normal
+3825712,Damián Nicolás Suárez Suárez,Getafe,14.818906842274163,0.05348128501751105,False,Right Foot,Open Play,1,0,2,Half Volley
+3825712,Federico Nicolás Cartabia,RC Deportivo La Coruña,20.64654934849889,0.05356013466013537,False,Left Foot,Open Play,0,0,2,Normal
+3825712,Ángel Lafita Castillo,Getafe,19.43733520830466,0.060862321515752535,False,Right Foot,Open Play,1,0,2,Volley
+3825712,Lucas Pérez Martínez,RC Deportivo La Coruña,19.134262462922376,0.05553487771288041,False,Left Foot,Open Play,0,0,1,Normal
+3825712,Pedro Mosquera Parada,RC Deportivo La Coruña,32.895592409926294,0.057834400503458,False,Left Foot,Open Play,0,0,1,Normal
+3825712,Santiago Vergini,Getafe,12.801562404644205,0.05985471912801908,False,Left Foot,Open Play,1,0,2,Half Volley
+3825712,Víctor Rodríguez Romero,Getafe,18.300273222004094,0.05244137375686907,False,Right Foot,Open Play,0,0,0,Half Volley
+3825712,Víctor Rodríguez Romero,Getafe,14.276203977248295,0.05276431601717103,False,Left Foot,Open Play,0,1,2,Normal
+3825712,Juan Antonio Rodríguez Villamuela,Getafe,18.260339536821323,0.057678477041078854,False,Left Foot,Open Play,1,0,1,Normal
+3825712,Álvaro Vázquez García,Getafe,31.23475628206502,0.07317482091398624,False,Left Foot,Open Play,1,1,1,Lob
+3825712,Fayçal Fajr,RC Deportivo La Coruña,31.227071588607213,0.07351917022623035,False,Right Foot,Open Play,0,0,0,Normal
+3825712,Víctor Rodríguez Romero,Getafe,19.568597292601222,0.06529133599378287,False,Right Foot,Open Play,0,0,2,Normal
+3825712,Pablo Sarabia García,Getafe,11.20044641967453,0.0532361183705364,False,Right Foot,Open Play,1,0,0,Volley
+3825712,Federico Nicolás Cartabia,RC Deportivo La Coruña,35.08646462669044,0.052053682825749265,False,Left Foot,Open Play,0,0,1,Normal
+3825712,Luis Alberto Romero Alconchel,RC Deportivo La Coruña,21.019038988498018,0.05840841352609358,False,Right Foot,Open Play,1,0,1,Half Volley
+3825712,Lucas Pérez Martínez,RC Deportivo La Coruña,17.617321022221287,0.06154789897323096,False,Left Foot,Open Play,0,1,1,Normal
+3825712,Lucas Pérez Martínez,RC Deportivo La Coruña,21.639316070523122,0.06652058590547594,False,Left Foot,Open Play,0,0,2,Normal

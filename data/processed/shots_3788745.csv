@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.419577750301375,0.05712990365472645,False,Left Foot,Open Play,0,0,1,Normal
-34.92678055590008,0.07506104569214458,False,Right Foot,Open Play,0,1,1,Normal
-22.6503863101714,0.05801880390636905,False,Right Foot,Open Play,1,0,0,Volley
-26.644323973409417,0.07005772257529187,False,Right Foot,Open Play,1,0,3,Half Volley
-17.309246084101982,0.06390501687404171,False,Right Foot,Open Play,1,0,1,Half Volley
-24.103319273494268,0.0680684383042996,False,Right Foot,Free Kick,0,0,0,Normal
-33.51477286212753,0.057889745595181584,False,Right Foot,Open Play,0,0,1,Normal
-10.64800450788785,0.0579389023111308,True,Right Foot,Open Play,1,0,2,Normal
-6.506919393998978,0.05511301001381115,False,Right Foot,Open Play,1,0,2,Half Volley
-24.05202694161139,0.06282746042584154,False,Right Foot,Open Play,1,0,0,Half Volley
-15.163442880823599,0.06201961856661597,False,Left Foot,Open Play,0,0,3,Half Volley
-26.392802049043603,0.06059056810789172,False,Right Foot,Free Kick,0,0,0,Normal
-21.54553317975678,0.06259840460191138,False,Right Foot,Open Play,1,0,1,Volley
-11.107204868912795,0.05754615016134177,False,Head,Open Play,0,1,2,Normal
-15.788920165736476,0.0630408810474421,False,Left Foot,Open Play,1,0,0,Half Volley
-16.67213243709395,0.060264140044847696,False,Left Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788745,Philip Foden,England,19.419577750301375,0.05712990365472645,False,Left Foot,Open Play,0,0,1,Normal
+3788745,Ante Rebić,Croatia,34.92678055590008,0.07506104569214458,False,Right Foot,Open Play,0,1,1,Normal
+3788745,Kalvin Phillips,England,22.6503863101714,0.05801880390636905,False,Right Foot,Open Play,1,0,0,Volley
+3788745,Raheem Sterling,England,26.644323973409417,0.07005772257529187,False,Right Foot,Open Play,1,0,3,Half Volley
+3788745,Ivan Perišić,Croatia,17.309246084101982,0.06390501687404171,False,Right Foot,Open Play,1,0,1,Half Volley
+3788745,Kieran Trippier,England,24.103319273494268,0.0680684383042996,False,Right Foot,Free Kick,0,0,0,Normal
+3788745,Luka Modrić,Croatia,33.51477286212753,0.057889745595181584,False,Right Foot,Open Play,0,0,1,Normal
+3788745,Raheem Sterling,England,10.64800450788785,0.0579389023111308,True,Right Foot,Open Play,1,0,2,Normal
+3788745,Harry Kane,England,6.506919393998978,0.05511301001381115,False,Right Foot,Open Play,1,0,2,Half Volley
+3788745,Mateo Kovačić,Croatia,24.05202694161139,0.06282746042584154,False,Right Foot,Open Play,1,0,0,Half Volley
+3788745,Ante Rebić,Croatia,15.163442880823599,0.06201961856661597,False,Left Foot,Open Play,0,0,3,Half Volley
+3788745,Mason Mount,England,26.392802049043603,0.06059056810789172,False,Right Foot,Free Kick,0,0,0,Normal
+3788745,Marcelo Brozović,Croatia,21.54553317975678,0.06259840460191138,False,Right Foot,Open Play,1,0,1,Volley
+3788745,Ante Rebić,Croatia,11.107204868912795,0.05754615016134177,False,Head,Open Play,0,1,2,Normal
+3788745,Raheem Sterling,England,15.788920165736476,0.0630408810474421,False,Left Foot,Open Play,1,0,0,Half Volley
+3788745,Mario Pašalić,Croatia,16.67213243709395,0.060264140044847696,False,Left Foot,Open Play,1,0,2,Half Volley

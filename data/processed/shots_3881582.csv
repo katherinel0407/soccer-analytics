@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.846658471621579,0.06029179078247903,True,Right Foot,Open Play,1,0,2,Lob
-8.140024569987489,0.05575857378249044,False,Right Foot,Open Play,1,0,1,Volley
-14.4003472180361,0.05294940002243145,False,Right Foot,Open Play,1,1,1,Normal
-11.301769772916096,0.05937016635186466,False,Left Foot,Open Play,1,1,3,Volley
-18.66815470259447,0.06448568296459789,False,Right Foot,Open Play,0,0,2,Normal
-24.93030284613486,0.055039451765591274,False,Right Foot,Open Play,1,0,1,Normal
-19.170028690641026,0.05663553946551091,False,Right Foot,Open Play,0,0,3,Normal
-9.436630754670869,0.059490275825873185,False,Left Foot,Open Play,1,0,3,Half Volley
-9.12852671574116,0.05538917743414019,False,Head,Open Play,0,0,3,Normal
-35.26953359487477,0.05571640541928316,False,Right Foot,Open Play,1,0,1,Half Volley
-16.313491349187025,0.06340211598807886,False,Right Foot,Open Play,1,0,1,Half Volley
-6.500000000000002,0.05801378743497112,True,Head,Open Play,0,0,5,Normal
-8.505292469985967,0.05805497942067805,False,Left Foot,Open Play,0,0,4,Half Volley
-10.707474025184467,0.058911553639289696,False,Right Foot,Open Play,1,0,5,Normal
-23.22606294661237,0.05565804919138283,False,Right Foot,Open Play,1,1,2,Normal
-14.389232085139218,0.05995480431149433,False,Right Foot,Open Play,1,0,1,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-22.051077071199945,0.06332626544820125,False,Right Foot,Open Play,1,1,2,Normal
-12.030378215168467,0.05845083276182874,False,Right Foot,Open Play,0,0,7,Normal
-28.30635970943632,0.0705898604043231,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881582,Tess Boade,North Carolina Courage,10.846658471621579,0.06029179078247903,True,Right Foot,Open Play,1,0,2,Lob
+3881582,Tatumn Milazzo,Chicago Red Stars,8.140024569987489,0.05575857378249044,False,Right Foot,Open Play,1,0,1,Volley
+3881582,Tyler Lussi,North Carolina Courage,14.4003472180361,0.05294940002243145,False,Right Foot,Open Play,1,1,1,Normal
+3881582,Manaka Matsukubo,North Carolina Courage,11.301769772916096,0.05937016635186466,False,Left Foot,Open Play,1,1,3,Volley
+3881582,Kerolin Nicoli Israel Ferraz,North Carolina Courage,18.66815470259447,0.06448568296459789,False,Right Foot,Open Play,0,0,2,Normal
+3881582,Manaka Matsukubo,North Carolina Courage,24.93030284613486,0.055039451765591274,False,Right Foot,Open Play,1,0,1,Normal
+3881582,Ella Stevens,Chicago Red Stars,19.170028690641026,0.05663553946551091,False,Right Foot,Open Play,0,0,3,Normal
+3881582,Narumi Miura,North Carolina Courage,9.436630754670869,0.059490275825873185,False,Left Foot,Open Play,1,0,3,Half Volley
+3881582,Ella Stevens,Chicago Red Stars,9.12852671574116,0.05538917743414019,False,Head,Open Play,0,0,3,Normal
+3881582,Yuki Nagasato,Chicago Red Stars,35.26953359487477,0.05571640541928316,False,Right Foot,Open Play,1,0,1,Half Volley
+3881582,Ella Stevens,Chicago Red Stars,16.313491349187025,0.06340211598807886,False,Right Foot,Open Play,1,0,1,Half Volley
+3881582,Tatumn Milazzo,Chicago Red Stars,6.500000000000002,0.05801378743497112,True,Head,Open Play,0,0,5,Normal
+3881582,Cari Roccaro,Chicago Red Stars,8.505292469985967,0.05805497942067805,False,Left Foot,Open Play,0,0,4,Half Volley
+3881582,Cari Roccaro,Chicago Red Stars,10.707474025184467,0.058911553639289696,False,Right Foot,Open Play,1,0,5,Normal
+3881582,Bianca St Georges,Chicago Red Stars,23.22606294661237,0.05565804919138283,False,Right Foot,Open Play,1,1,2,Normal
+3881582,Penelope Hocking,Chicago Red Stars,14.389232085139218,0.05995480431149433,False,Right Foot,Open Play,1,0,1,Normal
+3881582,Kerolin Nicoli Israel Ferraz,North Carolina Courage,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3881582,Allyson Schlegel,Chicago Red Stars,22.051077071199945,0.06332626544820125,False,Right Foot,Open Play,1,1,2,Normal
+3881582,Kerolin Nicoli Israel Ferraz,North Carolina Courage,12.030378215168467,0.05845083276182874,False,Right Foot,Open Play,0,0,7,Normal
+3881582,Kerolin Nicoli Israel Ferraz,North Carolina Courage,28.30635970943632,0.0705898604043231,False,Right Foot,Free Kick,0,0,0,Normal

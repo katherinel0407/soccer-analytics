@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.17746604100658,0.06527354653582444,False,Left Foot,Open Play,1,1,4,Normal
-24.20123963767146,0.06243179323841337,False,Left Foot,Open Play,0,0,4,Normal
-10.176934705499491,0.05337830958416121,False,Right Foot,Open Play,0,0,1,Normal
-10.92016483392078,0.05747024375573006,False,Head,Open Play,0,1,2,Normal
-8.005623023850175,0.058731350316346145,False,Head,Open Play,0,0,3,Normal
-33.26334318735866,0.061470236720366445,False,Right Foot,Open Play,0,0,1,Normal
-9.529428104561154,0.05390379997900035,True,Right Foot,Open Play,1,0,2,Overhead Kick
-8.713208364316792,0.056185004407431245,True,Right Foot,Open Play,1,0,1,Normal
-16.367040050051813,0.05599774909746436,True,Left Foot,Open Play,1,0,2,Volley
-10.96220780682432,0.060352031204067826,False,Left Foot,Open Play,0,0,2,Normal
-19.024457942343588,0.06472795839976138,False,Left Foot,Open Play,1,1,1,Normal
-20.80096151623766,0.06556399606333384,False,Left Foot,Open Play,0,0,1,Lob
-17.607100840286,0.055016245204198455,False,Right Foot,Open Play,0,0,1,Normal
-15.984054554461453,0.05378985083017961,False,Right Foot,Open Play,1,0,0,Normal
-21.523243250030884,0.050869564359209606,False,Right Foot,Open Play,0,0,2,Normal
-26.923595599399427,0.0702948603250877,False,Left Foot,Open Play,0,0,1,Normal
-18.061284561182244,0.06410717393916587,False,Left Foot,Open Play,0,1,2,Normal
-19.132433196015604,0.06469984036759914,False,Left Foot,Open Play,1,0,2,Half Volley
-17.840403582878945,0.06258977014046906,False,Left Foot,Open Play,0,0,2,Normal
-24.10995644956664,0.06384386018113503,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266280,Lionel Andrés Messi Cuccittini,Barcelona,22.17746604100658,0.06527354653582444,False,Left Foot,Open Play,1,1,4,Normal
+266280,Andrés Iniesta Luján,Barcelona,24.20123963767146,0.06243179323841337,False,Left Foot,Open Play,0,0,4,Normal
+266280,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,10.176934705499491,0.05337830958416121,False,Right Foot,Open Play,0,0,1,Normal
+266280,Ivan Rakitić,Barcelona,10.92016483392078,0.05747024375573006,False,Head,Open Play,0,1,2,Normal
+266280,Víctor Machín Pérez,Sevilla,8.005623023850175,0.058731350316346145,False,Head,Open Play,0,0,3,Normal
+266280,Neymar da Silva Santos Junior,Barcelona,33.26334318735866,0.061470236720366445,False,Right Foot,Open Play,0,0,1,Normal
+266280,Luis Alberto Suárez Díaz,Barcelona,9.529428104561154,0.05390379997900035,True,Right Foot,Open Play,1,0,2,Overhead Kick
+266280,Lionel Andrés Messi Cuccittini,Barcelona,8.713208364316792,0.056185004407431245,True,Right Foot,Open Play,1,0,1,Normal
+266280,Lionel Andrés Messi Cuccittini,Barcelona,16.367040050051813,0.05599774909746436,True,Left Foot,Open Play,1,0,2,Volley
+266280,Lionel Andrés Messi Cuccittini,Barcelona,10.96220780682432,0.060352031204067826,False,Left Foot,Open Play,0,0,2,Normal
+266280,Lionel Andrés Messi Cuccittini,Barcelona,19.024457942343588,0.06472795839976138,False,Left Foot,Open Play,1,1,1,Normal
+266280,Lionel Andrés Messi Cuccittini,Barcelona,20.80096151623766,0.06556399606333384,False,Left Foot,Open Play,0,0,1,Lob
+266280,Pablo Sarabia García,Sevilla,17.607100840286,0.055016245204198455,False,Right Foot,Open Play,0,0,1,Normal
+266280,Pablo Sarabia García,Sevilla,15.984054554461453,0.05378985083017961,False,Right Foot,Open Play,1,0,0,Normal
+266280,Carlos Joaquín Correa,Sevilla,21.523243250030884,0.050869564359209606,False,Right Foot,Open Play,0,0,2,Normal
+266280,Pablo Sarabia García,Sevilla,26.923595599399427,0.0702948603250877,False,Left Foot,Open Play,0,0,1,Normal
+266280,Francisco Alcácer García,Barcelona,18.061284561182244,0.06410717393916587,False,Left Foot,Open Play,0,1,2,Normal
+266280,Ivan Rakitić,Barcelona,19.132433196015604,0.06469984036759914,False,Left Foot,Open Play,1,0,2,Half Volley
+266280,Stevan Jovetić,Sevilla,17.840403582878945,0.06258977014046906,False,Left Foot,Open Play,0,0,2,Normal
+266280,Neymar da Silva Santos Junior,Barcelona,24.10995644956664,0.06384386018113503,False,Right Foot,Open Play,0,0,1,Normal

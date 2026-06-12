@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.22185367931698,0.05901037219611014,False,Left Foot,Open Play,1,0,3,Normal
-4.178516483155241,0.055896964923563316,True,Right Foot,Open Play,1,0,3,Half Volley
-8.102468759581857,0.05383578487869565,False,Head,Open Play,0,1,3,Normal
-7.2532751223154355,0.05693981636322198,False,Right Foot,Open Play,1,0,1,Normal
-25.53624874565565,0.0677434367721251,True,Right Foot,Open Play,1,0,1,Normal
-8.514693182963201,0.0590261562267875,False,Left Foot,Open Play,0,0,4,Normal
-6.338769596696189,0.05749906480965128,False,Head,Open Play,0,1,7,Normal
-20.690335908341364,0.05691683511955717,False,Left Foot,Open Play,0,1,2,Half Volley
-8.905054744357278,0.05852370591294182,False,Right Foot,Open Play,0,0,3,Normal
-7.539230729988304,0.05664290213950566,True,Head,Open Play,0,0,2,Normal
-11.1,0.06018517084242998,False,Head,Open Play,0,0,4,Normal
-12.131364309095664,0.060145508604484935,False,Right Foot,Open Play,1,0,1,Volley
-18.002499826412997,0.062312395132919585,False,Right Foot,Open Play,0,0,3,Normal
-8.780091115700339,0.058871667228155324,False,Head,Open Play,0,1,5,Normal
-12.812884140582863,0.05688269773246142,False,Right Foot,Open Play,1,0,2,Normal
-22.1686715885278,0.06046681612790405,False,Left Foot,Open Play,0,1,2,Normal
-20.188362984650336,0.055416279638392844,False,Right Foot,Open Play,0,0,2,Normal
-14.28040615668896,0.061994120645560785,False,Right Foot,Open Play,1,0,1,Normal
-25.73091525772063,0.06803010367607458,False,Right Foot,Open Play,0,0,3,Normal
-15.487091398968365,0.06191524666936318,False,Head,Open Play,0,0,4,Normal
-25.505489605181083,0.055542097694423524,False,Right Foot,Open Play,0,1,2,Normal
-28.38045101826255,0.07125757039512433,False,Right Foot,Open Play,0,0,1,Normal
-21.799541279577426,0.0590329895116789,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913117,Bethany Mead,Arsenal WFC,11.22185367931698,0.05901037219611014,False,Left Foot,Open Play,1,0,3,Normal
+3913117,Caitlin Jade Foord,Arsenal WFC,4.178516483155241,0.055896964923563316,True,Right Foot,Open Play,1,0,3,Half Volley
+3913117,Amanda Ilestedt,Arsenal WFC,8.102468759581857,0.05383578487869565,False,Head,Open Play,0,1,3,Normal
+3913117,Alessia Russo,Arsenal WFC,7.2532751223154355,0.05693981636322198,False,Right Foot,Open Play,1,0,1,Normal
+3913117,Katja Snoeijs,Everton LFC,25.53624874565565,0.0677434367721251,True,Right Foot,Open Play,1,0,1,Normal
+3913117,Bethany Mead,Arsenal WFC,8.514693182963201,0.0590261562267875,False,Left Foot,Open Play,0,0,4,Normal
+3913117,Carlotte Wubben-Moy,Arsenal WFC,6.338769596696189,0.05749906480965128,False,Head,Open Play,0,1,7,Normal
+3913117,Bethany Mead,Arsenal WFC,20.690335908341364,0.05691683511955717,False,Left Foot,Open Play,0,1,2,Half Volley
+3913117,Vivianne Miedema,Arsenal WFC,8.905054744357278,0.05852370591294182,False,Right Foot,Open Play,0,0,3,Normal
+3913117,Bethany Mead,Arsenal WFC,7.539230729988304,0.05664290213950566,True,Head,Open Play,0,0,2,Normal
+3913117,Carlotte Wubben-Moy,Arsenal WFC,11.1,0.06018517084242998,False,Head,Open Play,0,0,4,Normal
+3913117,Caitlin Jade Foord,Arsenal WFC,12.131364309095664,0.060145508604484935,False,Right Foot,Open Play,1,0,1,Volley
+3913117,Victoria Pelova,Arsenal WFC,18.002499826412997,0.062312395132919585,False,Right Foot,Open Play,0,0,3,Normal
+3913117,Carlotte Wubben-Moy,Arsenal WFC,8.780091115700339,0.058871667228155324,False,Head,Open Play,0,1,5,Normal
+3913117,Caitlin Jade Foord,Arsenal WFC,12.812884140582863,0.05688269773246142,False,Right Foot,Open Play,1,0,2,Normal
+3913117,Vivianne Miedema,Arsenal WFC,22.1686715885278,0.06046681612790405,False,Left Foot,Open Play,0,1,2,Normal
+3913117,Alessia Russo,Arsenal WFC,20.188362984650336,0.055416279638392844,False,Right Foot,Open Play,0,0,2,Normal
+3913117,Emily Ann Fox,Arsenal WFC,14.28040615668896,0.061994120645560785,False,Right Foot,Open Play,1,0,1,Normal
+3913117,Alessia Russo,Arsenal WFC,25.73091525772063,0.06803010367607458,False,Right Foot,Open Play,0,0,3,Normal
+3913117,Toni Duggan,Everton LFC,15.487091398968365,0.06191524666936318,False,Head,Open Play,0,0,4,Normal
+3913117,Lucy Hope,Everton LFC,25.505489605181083,0.055542097694423524,False,Right Foot,Open Play,0,1,2,Normal
+3913117,Caitlin Jade Foord,Arsenal WFC,28.38045101826255,0.07125757039512433,False,Right Foot,Open Play,0,0,1,Normal
+3913117,Megan Campbell,Everton LFC,21.799541279577426,0.0590329895116789,False,Right Foot,Open Play,1,0,1,Half Volley

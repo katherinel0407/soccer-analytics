@@ -1,42 +1,42 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.832652057962953,0.05729233326187518,False,Right Foot,Open Play,0,0,1,Normal
-12.605157674539416,0.06125326198440929,False,Left Foot,Open Play,0,0,2,Normal
-30.38157336281319,0.065176348444338,False,Right Foot,Open Play,0,0,1,Normal
-3.8948684188300846,0.05667901404287488,False,Left Foot,Open Play,1,0,3,Normal
-14.020698984002184,0.056231680410466736,False,Head,Open Play,0,1,1,Normal
-25.045957757690164,0.06899873740318678,False,Right Foot,Open Play,0,0,1,Normal
-14.564683312726023,0.062374862735428735,False,Right Foot,Open Play,1,0,1,Volley
-26.16447973876033,0.06023808640616528,False,Left Foot,Open Play,0,0,1,Normal
-39.08004605933826,0.07980130410445736,False,Right Foot,Open Play,0,0,0,Normal
-5.636488268416775,0.05606336833552235,False,Right Foot,Open Play,1,0,0,Volley
-28.46225570821821,0.06518932415321292,False,Right Foot,Free Kick,0,0,0,Normal
-35.15366268257121,0.06521023064155933,False,Right Foot,Open Play,0,0,1,Normal
-28.257388414359884,0.06795660168766066,False,Right Foot,Open Play,0,0,1,Normal
-24.39057194901341,0.06610622068613937,False,Right Foot,Open Play,0,0,0,Normal
-17.140595088852663,0.05154296761431111,False,Left Foot,Open Play,0,0,1,Normal
-12.816005617976295,0.060986386757504674,False,Left Foot,Open Play,0,0,1,Volley
-29.267900505502606,0.06986387498627718,False,Right Foot,Free Kick,0,0,0,Normal
-15.97779709471866,0.06184978601049618,False,Left Foot,Open Play,0,1,1,Normal
-27.79154547699714,0.06994505874323115,False,Right Foot,Open Play,0,0,1,Normal
-25.373411280314677,0.06190292543681262,False,Left Foot,Open Play,0,0,2,Normal
-14.70544116985274,0.05212570129828884,False,Right Foot,Open Play,1,1,1,Normal
-35.18692939146581,0.06544453708776823,False,Right Foot,Open Play,0,0,1,Normal
-25.70311265197271,0.0668631576694982,False,Right Foot,Open Play,1,0,0,Normal
-20.974508337503412,0.06591415089942702,False,Right Foot,Open Play,0,0,2,Normal
-32.089873792210525,0.07032721294392916,False,Right Foot,Open Play,0,0,1,Normal
-23.380761322078456,0.06787837179012748,False,Right Foot,Open Play,0,0,1,Normal
-33.11510229487446,0.07010162637205296,False,Left Foot,Open Play,0,1,1,Normal
-16.114899937635357,0.06328405018938969,False,Right Foot,Open Play,1,0,0,Volley
-18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,1,0,0,Normal
-20.692993983471805,0.05962956335312167,False,Left Foot,Open Play,0,0,1,Normal
-34.7519783609509,0.07646857199162452,False,Right Foot,Open Play,0,0,0,Normal
-22.624102192131296,0.06089127271223675,False,Right Foot,Open Play,0,0,3,Half Volley
-12.11032617232087,0.059452970928113434,False,Head,Open Play,0,1,1,Normal
-8.41189633792524,0.05638912771679439,True,Right Foot,Open Play,0,0,3,Normal
-14.512063946937394,0.061285343523857214,False,Right Foot,Open Play,0,0,2,Half Volley
-12.280065146406997,0.06069413561547436,False,Head,Open Play,0,1,4,Normal
-27.007036120240965,0.0697246183311037,False,Right Foot,Open Play,0,0,0,Normal
-30.103986446980738,0.06928847306681656,False,Left Foot,Open Play,1,0,1,Volley
-20.974508337503412,0.059743388464991276,False,Right Foot,Open Play,1,0,0,Normal
-26.484712571594958,0.05936161663584113,False,Left Foot,Open Play,0,0,1,Normal
-12.539936203984453,0.060162212014997114,False,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3750180,Heinz Flohe,Germany,22.832652057962953,0.05729233326187518,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Gerhard Müller,Germany,12.605157674539416,0.06125326198440929,False,Left Foot,Open Play,0,0,2,Normal
+3750180,Franz Beckenbauer,Germany,30.38157336281319,0.065176348444338,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Jürgen Grabowski,Germany,3.8948684188300846,0.05667901404287488,False,Left Foot,Open Play,1,0,3,Normal
+3750180,Georg Schwarzenbeck,Germany,14.020698984002184,0.056231680410466736,False,Head,Open Play,0,1,1,Normal
+3750180,Paul Breitner,Germany,25.045957757690164,0.06899873740318678,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Franz Beckenbauer,Germany,14.564683312726023,0.062374862735428735,False,Right Foot,Open Play,1,0,1,Volley
+3750180,Wolfgang Overath,Germany,26.16447973876033,0.06023808640616528,False,Left Foot,Open Play,0,0,1,Normal
+3750180,Lothar Kurbjuweit,German DR,39.08004605933826,0.07980130410445736,False,Right Foot,Open Play,0,0,0,Normal
+3750180,Hans-Jürgen Kreische,German DR,5.636488268416775,0.05606336833552235,False,Right Foot,Open Play,1,0,0,Volley
+3750180,Jürgen Sparwasser,German DR,28.46225570821821,0.06518932415321292,False,Right Foot,Free Kick,0,0,0,Normal
+3750180,Georg Schwarzenbeck,Germany,35.15366268257121,0.06521023064155933,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Reinhard Lauck,German DR,28.257388414359884,0.06795660168766066,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Lothar Kurbjuweit,German DR,24.39057194901341,0.06610622068613937,False,Right Foot,Open Play,0,0,0,Normal
+3750180,Gerhard Müller,Germany,17.140595088852663,0.05154296761431111,False,Left Foot,Open Play,0,0,1,Normal
+3750180,Gerhard Müller,Germany,12.816005617976295,0.060986386757504674,False,Left Foot,Open Play,0,0,1,Volley
+3750180,Reinhard Lauck,German DR,29.267900505502606,0.06986387498627718,False,Right Foot,Free Kick,0,0,0,Normal
+3750180,Reinhard Lauck,German DR,15.97779709471866,0.06184978601049618,False,Left Foot,Open Play,0,1,1,Normal
+3750180,Paul Breitner,Germany,27.79154547699714,0.06994505874323115,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Georg Schwarzenbeck,Germany,25.373411280314677,0.06190292543681262,False,Left Foot,Open Play,0,0,2,Normal
+3750180,Gerd Kische,German DR,14.70544116985274,0.05212570129828884,False,Right Foot,Open Play,1,1,1,Normal
+3750180,Reinhard Lauck,German DR,35.18692939146581,0.06544453708776823,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Lothar Kurbjuweit,German DR,25.70311265197271,0.0668631576694982,False,Right Foot,Open Play,1,0,0,Normal
+3750180,Jürgen Grabowski,Germany,20.974508337503412,0.06591415089942702,False,Right Foot,Open Play,0,0,2,Normal
+3750180,Harald Irmscher,German DR,32.089873792210525,0.07032721294392916,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Paul Breitner,Germany,23.380761322078456,0.06787837179012748,False,Right Foot,Open Play,0,0,1,Normal
+3750180,Heinz Flohe,Germany,33.11510229487446,0.07010162637205296,False,Left Foot,Open Play,0,1,1,Normal
+3750180,Paul Breitner,Germany,16.114899937635357,0.06328405018938969,False,Right Foot,Open Play,1,0,0,Volley
+3750180,Paul Breitner,Germany,18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,1,0,0,Normal
+3750180,Ulrich Hoeneß,Germany,20.692993983471805,0.05962956335312167,False,Left Foot,Open Play,0,0,1,Normal
+3750180,Reinhard Lauck,German DR,34.7519783609509,0.07646857199162452,False,Right Foot,Open Play,0,0,0,Normal
+3750180,Günter Netzer,Germany,22.624102192131296,0.06089127271223675,False,Right Foot,Open Play,0,0,3,Half Volley
+3750180,Bernhard Cullmann,Germany,12.11032617232087,0.059452970928113434,False,Head,Open Play,0,1,1,Normal
+3750180,Jürgen Sparwasser,German DR,8.41189633792524,0.05638912771679439,True,Right Foot,Open Play,0,0,3,Normal
+3750180,Gerhard Müller,Germany,14.512063946937394,0.061285343523857214,False,Right Foot,Open Play,0,0,2,Half Volley
+3750180,Bernhard Cullmann,Germany,12.280065146406997,0.06069413561547436,False,Head,Open Play,0,1,4,Normal
+3750180,Franz Beckenbauer,Germany,27.007036120240965,0.0697246183311037,False,Right Foot,Open Play,0,0,0,Normal
+3750180,Heinz Flohe,Germany,30.103986446980738,0.06928847306681656,False,Left Foot,Open Play,1,0,1,Volley
+3750180,Ulrich Hoeneß,Germany,20.974508337503412,0.059743388464991276,False,Right Foot,Open Play,1,0,0,Normal
+3750180,Berti Vogts,Germany,26.484712571594958,0.05936161663584113,False,Left Foot,Open Play,0,0,1,Normal
+3750180,Bernhard Cullmann,Germany,12.539936203984453,0.060162212014997114,False,Head,Open Play,0,1,5,Normal

@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.836526592605725,0.05867690824271989,True,Right Foot,Open Play,1,1,2,Lob
-24.577225229874916,0.056734214185127085,True,Left Foot,Open Play,0,1,1,Lob
-20.090047287151915,0.06390885182647127,False,Right Foot,Open Play,0,1,2,Half Volley
-20.718349355100663,0.0645621801390711,False,Left Foot,Open Play,1,0,1,Normal
-16.055528642807122,0.057692088500351985,False,Right Foot,Open Play,0,0,2,Lob
-11.272976536833564,0.05714441152832424,False,Right Foot,Open Play,1,0,2,Half Volley
-11.421471008587297,0.059587816499237056,True,Left Foot,Open Play,0,0,1,Half Volley
-6.73572564761957,0.05664646928337522,True,Head,Open Play,0,1,4,Normal
-26.56990779058144,0.06762249511399836,False,Left Foot,Open Play,1,0,2,Half Volley
-20.934660255184465,0.06570310416128587,False,Right Foot,Open Play,0,0,1,Normal
-22.900873345791855,0.06597439387374858,False,Left Foot,Open Play,0,0,0,Normal
-9.631718434422806,0.05779920031643252,False,Head,Open Play,0,1,3,Normal
-26.904646438858855,0.06661959768943079,False,Right Foot,Open Play,0,0,0,Normal
-12.175795661885921,0.05949677323924499,False,Right Foot,Open Play,0,1,3,Normal
-9.060905032059438,0.055423307223758184,False,Head,Open Play,0,1,2,Normal
-18.738729946290388,0.06481659671889896,False,Right Foot,Open Play,1,0,1,Normal
-8.207313811473277,0.055346549282795525,True,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825767,Jonathas Cristian de Jesus,Real Sociedad,23.836526592605725,0.05867690824271989,True,Right Foot,Open Play,1,1,2,Lob
+3825767,Carlos Alberto Vela Garrido,Real Sociedad,24.577225229874916,0.056734214185127085,True,Left Foot,Open Play,0,1,1,Lob
+3825767,Mikel Oyarzabal Ugarte,Real Sociedad,20.090047287151915,0.06390885182647127,False,Right Foot,Open Play,0,1,2,Half Volley
+3825767,Héctor Hernández Ortega,Real Sociedad,20.718349355100663,0.0645621801390711,False,Left Foot,Open Play,1,0,1,Normal
+3825767,Jonathas Cristian de Jesus,Real Sociedad,16.055528642807122,0.057692088500351985,False,Right Foot,Open Play,0,0,2,Lob
+3825767,Rubén Pardo Gutiérrez,Real Sociedad,11.272976536833564,0.05714441152832424,False,Right Foot,Open Play,1,0,2,Half Volley
+3825767,Mikel Oyarzabal Ugarte,Real Sociedad,11.421471008587297,0.059587816499237056,True,Left Foot,Open Play,0,0,1,Half Volley
+3825767,Diego Antonio Reyes Rosales,Real Sociedad,6.73572564761957,0.05664646928337522,True,Head,Open Play,0,1,4,Normal
+3825767,Asier Illarramendi Andonegi,Real Sociedad,26.56990779058144,0.06762249511399836,False,Left Foot,Open Play,1,0,2,Half Volley
+3825767,Jorge Franco Alviz,Espanyol,20.934660255184465,0.06570310416128587,False,Right Foot,Open Play,0,0,1,Normal
+3825767,Marco Asensio Willemsen,Espanyol,22.900873345791855,0.06597439387374858,False,Left Foot,Open Play,0,0,0,Normal
+3825767,Salvador Sevilla López,Espanyol,9.631718434422806,0.05779920031643252,False,Head,Open Play,0,1,3,Normal
+3825767,Rubén Pardo Gutiérrez,Real Sociedad,26.904646438858855,0.06661959768943079,False,Right Foot,Open Play,0,0,0,Normal
+3825767,Jorge Franco Alviz,Espanyol,12.175795661885921,0.05949677323924499,False,Right Foot,Open Play,0,1,3,Normal
+3825767,Álvaro González Soberón,Espanyol,9.060905032059438,0.055423307223758184,False,Head,Open Play,0,1,2,Normal
+3825767,Rubén Pardo Gutiérrez,Real Sociedad,18.738729946290388,0.06481659671889896,False,Right Foot,Open Play,1,0,1,Normal
+3825767,Jonathas Cristian de Jesus,Real Sociedad,8.207313811473277,0.055346549282795525,True,Right Foot,Open Play,1,0,2,Half Volley

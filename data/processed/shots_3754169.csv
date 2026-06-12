@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.19587865424476,0.0554147427693968,True,Right Foot,Open Play,1,1,2,Normal
-26.581948762270983,0.06891959251128285,True,Left Foot,Open Play,0,0,1,Half Volley
-12.85029182548007,0.060483477556276845,False,Head,Open Play,0,1,1,Normal
-35.02913073429028,0.04457261555052846,False,Left Foot,Free Kick,0,0,0,Normal
-19.370596273734062,0.05217165170982534,False,Right Foot,Open Play,0,0,1,Half Volley
-30.815742729974886,0.06562851866166047,False,Right Foot,Open Play,0,0,1,Normal
-13.01422298871507,0.05725384697247766,False,Head,Open Play,0,1,2,Normal
-32.401388859121454,0.07427995147833494,False,Right Foot,Open Play,1,1,1,Normal
-16.264070831129583,0.06307219677187265,False,Right Foot,Open Play,0,1,1,Normal
-25.926241532470527,0.06364374471836941,False,Right Foot,Open Play,0,0,3,Normal
-28.70992859621911,0.053612278082288745,False,Left Foot,Open Play,1,0,1,Normal
-18.089223311131956,0.06408313934757102,False,Right Foot,Open Play,1,0,1,Normal
-25.209720347516754,0.06518758401860769,False,Right Foot,Open Play,1,0,0,Half Volley
-30.934285186504635,0.0660683582859894,False,Right Foot,Open Play,0,0,1,Half Volley
-4.951767361255974,0.0552030257390275,False,Head,Open Play,0,1,2,Normal
-30.072745135753742,0.0727099112885115,False,Right Foot,Open Play,0,1,1,Normal
-31.87177434659074,0.07397451364644128,False,Left Foot,Open Play,1,0,0,Normal
-28.24553061990516,0.06994739184204496,False,Right Foot,Open Play,0,0,1,Normal
-21.8680131699247,0.06688032146392664,False,Left Foot,Open Play,0,0,0,Normal
-17.98054504179448,0.06419563189299984,False,Right Foot,Open Play,1,0,0,Volley
-29.83035366870463,0.06971548328018436,False,Right Foot,Open Play,1,0,1,Normal
-19.817164277464116,0.0652724576412655,False,Right Foot,Open Play,0,0,2,Normal
-24.181397809059753,0.06672014708764747,False,Right Foot,Open Play,0,0,3,Normal
-26.43577122007225,0.058597515844838306,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754169,Callum Wilson,AFC Bournemouth,18.19587865424476,0.0554147427693968,True,Right Foot,Open Play,1,1,2,Normal
+3754169,Matt Ritchie,AFC Bournemouth,26.581948762270983,0.06891959251128285,True,Left Foot,Open Play,0,0,1,Half Volley
+3754169,Ola Toivonen,Sunderland,12.85029182548007,0.060483477556276845,False,Head,Open Play,0,1,1,Normal
+3754169,Jordi Gómez García-Penche,Sunderland,35.02913073429028,0.04457261555052846,False,Left Foot,Free Kick,0,0,0,Normal
+3754169,Callum Wilson,AFC Bournemouth,19.370596273734062,0.05217165170982534,False,Right Foot,Open Play,0,0,1,Half Volley
+3754169,Fabio Borini,Sunderland,30.815742729974886,0.06562851866166047,False,Right Foot,Open Play,0,0,1,Normal
+3754169,Marc Pugh,AFC Bournemouth,13.01422298871507,0.05725384697247766,False,Head,Open Play,0,1,2,Normal
+3754169,Younes Kaboul,Sunderland,32.401388859121454,0.07427995147833494,False,Right Foot,Open Play,1,1,1,Normal
+3754169,Jermain Defoe,Sunderland,16.264070831129583,0.06307219677187265,False,Right Foot,Open Play,0,1,1,Normal
+3754169,Lee Tomlin,AFC Bournemouth,25.926241532470527,0.06364374471836941,False,Right Foot,Open Play,0,0,3,Normal
+3754169,Matt Ritchie,AFC Bournemouth,28.70992859621911,0.053612278082288745,False,Left Foot,Open Play,1,0,1,Normal
+3754169,Fabio Borini,Sunderland,18.089223311131956,0.06408313934757102,False,Right Foot,Open Play,1,0,1,Normal
+3754169,Jack Rodwell,Sunderland,25.209720347516754,0.06518758401860769,False,Right Foot,Open Play,1,0,0,Half Volley
+3754169,Fabio Borini,Sunderland,30.934285186504635,0.0660683582859894,False,Right Foot,Open Play,0,0,1,Half Volley
+3754169,Sylvain Distin,AFC Bournemouth,4.951767361255974,0.0552030257390275,False,Head,Open Play,0,1,2,Normal
+3754169,Marc Pugh,AFC Bournemouth,30.072745135753742,0.0727099112885115,False,Right Foot,Open Play,0,1,1,Normal
+3754169,Matt Ritchie,AFC Bournemouth,31.87177434659074,0.07397451364644128,False,Left Foot,Open Play,1,0,0,Normal
+3754169,Marc Pugh,AFC Bournemouth,28.24553061990516,0.06994739184204496,False,Right Foot,Open Play,0,0,1,Normal
+3754169,Andrew Surman,AFC Bournemouth,21.8680131699247,0.06688032146392664,False,Left Foot,Open Play,0,0,0,Normal
+3754169,Marc Pugh,AFC Bournemouth,17.98054504179448,0.06419563189299984,False,Right Foot,Open Play,1,0,0,Volley
+3754169,Jeremain Lens,Sunderland,29.83035366870463,0.06971548328018436,False,Right Foot,Open Play,1,0,1,Normal
+3754169,Marc Pugh,AFC Bournemouth,19.817164277464116,0.0652724576412655,False,Right Foot,Open Play,0,0,2,Normal
+3754169,Glenn Murray,AFC Bournemouth,24.181397809059753,0.06672014708764747,False,Right Foot,Open Play,0,0,3,Normal
+3754169,Adam Smith,AFC Bournemouth,26.43577122007225,0.058597515844838306,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.447062790051515,0.06404427401472744,False,Left Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-22.102036105300343,0.06624002245214984,False,Right Foot,Open Play,0,1,1,Normal
-10.656922632730335,0.05298929655164983,False,Right Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Open Play,1,0,3,Half Volley
-11.236102527122116,0.0599072953058393,False,Right Foot,Open Play,0,1,4,Normal
-13.588230201170425,0.06153740929045665,False,Left Foot,Open Play,0,0,1,Normal
-24.26066775667974,0.05612771008807363,False,Right Foot,Open Play,1,0,1,Half Volley
-17.578680269007677,0.05727674778534324,False,Right Foot,Open Play,1,0,1,Volley
-10.417773274553443,0.05897063004678855,False,Left Foot,Open Play,1,0,0,Half Volley
-22.605530296810116,0.05534250123844967,False,Right Foot,Open Play,0,1,3,Normal
-16.681726529349415,0.06357217677141969,True,Left Foot,Open Play,0,1,1,Lob
-11.795761950802502,0.05892642362805568,False,Left Foot,Open Play,0,0,2,Half Volley
-19.131387822110558,0.05594749252486703,False,Left Foot,Open Play,1,0,3,Normal
-28.411265371327627,0.06753133078814014,False,Left Foot,Free Kick,0,0,0,Normal
-26.456001209555467,0.06914700406917557,False,Right Foot,Open Play,0,1,2,Normal
-21.511392330576836,0.05854032062833648,False,Right Foot,Open Play,0,0,1,Half Volley
-11.715374513859985,0.05967917581817051,True,Right Foot,Open Play,1,0,1,Normal
-34.4622982402509,0.06600792907416742,False,Right Foot,Open Play,0,0,2,Normal
-9.767292357659821,0.05955366793055443,False,Left Foot,Open Play,0,0,2,Normal
-8.919641248391104,0.059121703788013916,True,Right Foot,Open Play,1,0,2,Normal
-8.324061508662705,0.05874686871194146,True,Right Foot,Open Play,0,1,2,Half Volley
-25.05034929896188,0.06751354993919746,False,Right Foot,Open Play,0,0,3,Normal
-23.0,0.06448536161976014,False,Left Foot,Free Kick,0,0,0,Normal
-22.398660674245676,0.05745775242106556,False,Right Foot,Open Play,1,0,0,Half Volley
-24.159884105682288,0.06581727903878873,False,Right Foot,Free Kick,0,0,0,Normal
-7.641989269817114,0.057533058775747825,True,Head,Open Play,0,0,2,Normal
-6.799999999999997,0.05747658310495127,False,Right Foot,Open Play,1,0,2,Volley
-31.997812425226826,0.06739418515819703,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266149,Javier Eraso Goñi,Athletic Club,17.447062790051515,0.06404427401472744,False,Left Foot,Open Play,0,0,1,Normal
+266149,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+266149,Luis Alberto Suárez Díaz,Barcelona,22.102036105300343,0.06624002245214984,False,Right Foot,Open Play,0,1,1,Normal
+266149,Óscar de Marcos Arana,Athletic Club,10.656922632730335,0.05298929655164983,False,Right Foot,Open Play,0,0,2,Normal
+266149,Neymar da Silva Santos Junior,Barcelona,11.900420160649796,0.05951387036924867,False,Right Foot,Open Play,1,0,3,Half Volley
+266149,Neymar da Silva Santos Junior,Barcelona,11.236102527122116,0.0599072953058393,False,Right Foot,Open Play,0,1,4,Normal
+266149,Luis Alberto Suárez Díaz,Barcelona,13.588230201170425,0.06153740929045665,False,Left Foot,Open Play,0,0,1,Normal
+266149,Luis Alberto Suárez Díaz,Barcelona,24.26066775667974,0.05612771008807363,False,Right Foot,Open Play,1,0,1,Half Volley
+266149,Ivan Rakitić,Barcelona,17.578680269007677,0.05727674778534324,False,Right Foot,Open Play,1,0,1,Volley
+266149,Neymar da Silva Santos Junior,Barcelona,10.417773274553443,0.05897063004678855,False,Left Foot,Open Play,1,0,0,Half Volley
+266149,Aleix Vidal Parreu,Barcelona,22.605530296810116,0.05534250123844967,False,Right Foot,Open Play,0,1,3,Normal
+266149,Neymar da Silva Santos Junior,Barcelona,16.681726529349415,0.06357217677141969,True,Left Foot,Open Play,0,1,1,Lob
+266149,Lionel Andrés Messi Cuccittini,Barcelona,11.795761950802502,0.05892642362805568,False,Left Foot,Open Play,0,0,2,Half Volley
+266149,Luis Alberto Suárez Díaz,Barcelona,19.131387822110558,0.05594749252486703,False,Left Foot,Open Play,1,0,3,Normal
+266149,Lionel Andrés Messi Cuccittini,Barcelona,28.411265371327627,0.06753133078814014,False,Left Foot,Free Kick,0,0,0,Normal
+266149,Beñat Etxebarria Urkiaga,Athletic Club,26.456001209555467,0.06914700406917557,False,Right Foot,Open Play,0,1,2,Normal
+266149,Iñaki Williams Arthuer,Athletic Club,21.511392330576836,0.05854032062833648,False,Right Foot,Open Play,0,0,1,Half Volley
+266149,Luis Alberto Suárez Díaz,Barcelona,11.715374513859985,0.05967917581817051,True,Right Foot,Open Play,1,0,1,Normal
+266149,Ivan Rakitić,Barcelona,34.4622982402509,0.06600792907416742,False,Right Foot,Open Play,0,0,2,Normal
+266149,Javier Eraso Goñi,Athletic Club,9.767292357659821,0.05955366793055443,False,Left Foot,Open Play,0,0,2,Normal
+266149,Ivan Rakitić,Barcelona,8.919641248391104,0.059121703788013916,True,Right Foot,Open Play,1,0,2,Normal
+266149,Luis Alberto Suárez Díaz,Barcelona,8.324061508662705,0.05874686871194146,True,Right Foot,Open Play,0,1,2,Half Volley
+266149,Neymar da Silva Santos Junior,Barcelona,25.05034929896188,0.06751354993919746,False,Right Foot,Open Play,0,0,3,Normal
+266149,Aymeric Laporte,Athletic Club,23.0,0.06448536161976014,False,Left Foot,Free Kick,0,0,0,Normal
+266149,Óscar de Marcos Arana,Athletic Club,22.398660674245676,0.05745775242106556,False,Right Foot,Open Play,1,0,0,Half Volley
+266149,Neymar da Silva Santos Junior,Barcelona,24.159884105682288,0.06581727903878873,False,Right Foot,Free Kick,0,0,0,Normal
+266149,Luis Alberto Suárez Díaz,Barcelona,7.641989269817114,0.057533058775747825,True,Head,Open Play,0,0,2,Normal
+266149,Sabin Merino Zuloaga,Athletic Club,6.799999999999997,0.05747658310495127,False,Right Foot,Open Play,1,0,2,Volley
+266149,Ander Iturraspe Derteano,Athletic Club,31.997812425226826,0.06739418515819703,False,Right Foot,Free Kick,0,0,0,Normal

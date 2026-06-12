@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.485393438863042,0.05938517631351909,False,Left Foot,Open Play,1,0,3,Half Volley
-30.87555667514353,0.06345401214458318,False,Left Foot,Open Play,1,0,0,Volley
-31.862831010442246,0.07399458673697604,False,Left Foot,Open Play,1,0,1,Half Volley
-21.904565734111234,0.06690129913650808,False,Left Foot,Open Play,1,0,3,Normal
-23.084626919229176,0.0577244935166008,False,Left Foot,Open Play,0,0,1,Normal
-20.706762180505187,0.0660379557618489,False,Right Foot,Open Play,0,0,3,Normal
-18.890473789717404,0.05704559090378995,False,Right Foot,Open Play,1,0,0,Volley
-24.824383174612816,0.06480098199878974,False,Right Foot,Open Play,0,1,1,Normal
-12.649505919204913,0.060649865561889005,False,Head,Open Play,0,0,1,Normal
-15.0,0.0608685876884121,False,Left Foot,Open Play,0,0,3,Normal
-17.90027932742951,0.06398338453400422,False,Right Foot,Open Play,0,0,2,Normal
-23.099134182908237,0.06650368126411307,False,Right Foot,Open Play,0,0,3,Normal
-22.318154045529845,0.06587711365478048,False,Right Foot,Free Kick,0,0,0,Normal
-19.070395905696344,0.061174325550495144,False,Right Foot,Free Kick,0,0,0,Normal
-24.677520134729907,0.06298376084413625,False,Right Foot,Open Play,0,0,1,Half Volley
-18.94755920956576,0.05874631825145996,True,Left Foot,Open Play,0,0,3,Normal
-12.237646832622683,0.06043900309318998,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857295,Ritsu Doan,Japan,31.485393438863042,0.05938517631351909,False,Left Foot,Open Play,1,0,3,Half Volley
+3857295,Gerson Torres Barrantes,Costa Rica,30.87555667514353,0.06345401214458318,False,Left Foot,Open Play,1,0,0,Volley
+3857295,Francisco Javier Calvo Quesada,Costa Rica,31.862831010442246,0.07399458673697604,False,Left Foot,Open Play,1,0,1,Half Volley
+3857295,Joel Nathaniel Campbell Samuels,Costa Rica,21.904565734111234,0.06690129913650808,False,Left Foot,Open Play,1,0,3,Normal
+3857295,Wataru Endo,Japan,23.084626919229176,0.0577244935166008,False,Left Foot,Open Play,0,0,1,Normal
+3857295,Hidemasa Morita,Japan,20.706762180505187,0.0660379557618489,False,Right Foot,Open Play,0,0,3,Normal
+3857295,Takuma Asano,Japan,18.890473789717404,0.05704559090378995,False,Right Foot,Open Play,1,0,0,Volley
+3857295,Wataru Endo,Japan,24.824383174612816,0.06480098199878974,False,Right Foot,Open Play,0,1,1,Normal
+3857295,Takuma Asano,Japan,12.649505919204913,0.060649865561889005,False,Head,Open Play,0,0,1,Normal
+3857295,Ko Itakura,Japan,15.0,0.0608685876884121,False,Left Foot,Open Play,0,0,3,Normal
+3857295,Wataru Endo,Japan,17.90027932742951,0.06398338453400422,False,Right Foot,Open Play,0,0,2,Normal
+3857295,Yuki Soma,Japan,23.099134182908237,0.06650368126411307,False,Right Foot,Open Play,0,0,3,Normal
+3857295,Yuki Soma,Japan,22.318154045529845,0.06587711365478048,False,Right Foot,Free Kick,0,0,0,Normal
+3857295,Daichi Kamada,Japan,19.070395905696344,0.061174325550495144,False,Right Foot,Free Kick,0,0,0,Normal
+3857295,Yuki Soma,Japan,24.677520134729907,0.06298376084413625,False,Right Foot,Open Play,0,0,1,Half Volley
+3857295,Keysher Fuller Spence,Costa Rica,18.94755920956576,0.05874631825145996,True,Left Foot,Open Play,0,0,3,Normal
+3857295,Daichi Kamada,Japan,12.237646832622683,0.06043900309318998,False,Right Foot,Open Play,1,0,1,Normal

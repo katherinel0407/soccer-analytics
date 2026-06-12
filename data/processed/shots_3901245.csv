@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.73212459828649,0.05748354986462601,True,Left Foot,Open Play,1,0,1,Normal
-32.99848481370016,0.061155039567912926,False,Right Foot,Open Play,1,0,0,Normal
-7.156814934033149,0.057882135687972736,True,Left Foot,Open Play,0,1,4,Normal
-14.103191128251787,0.0620865423901001,False,Right Foot,Open Play,1,0,0,Half Volley
-30.02815345638156,0.06256515485444285,False,Left Foot,Free Kick,0,0,0,Normal
-8.840814442120136,0.05576806712511636,False,Head,Open Play,0,1,4,Normal
-28.111385593741193,0.0709286857378217,False,Right Foot,Free Kick,0,0,0,Normal
-26.496980960101848,0.07007599741705162,False,Left Foot,Open Play,0,0,0,Normal
-27.316295502867877,0.060285330316285364,False,Left Foot,Open Play,0,1,3,Normal
-16.618363336983574,0.05493050737417602,True,Right Foot,Open Play,0,0,2,Normal
-33.254323027239636,0.05663709997245899,False,Left Foot,Open Play,0,0,0,Normal
-10.904127658827182,0.05432458040697098,False,Left Foot,Open Play,1,1,2,Half Volley
-19.04337155022713,0.06449906435307655,False,Left Foot,Open Play,0,0,1,Normal
-26.896096371034965,0.06990966886449348,False,Left Foot,Open Play,0,0,1,Normal
-9.9569071503153,0.05619907698872068,False,Head,Open Play,0,0,3,Normal
-14.40138882191575,0.0610228997962112,False,Left Foot,Open Play,0,0,3,Normal
-21.305398376937237,0.06555105787642522,False,Left Foot,Open Play,0,0,2,Normal
-26.931208662070855,0.0606697112486817,False,Left Foot,Open Play,0,1,1,Normal
-47.58623750623703,0.08643209590934037,False,Right Foot,Open Play,1,0,3,Half Volley
-8.902246907382429,0.05901419545109741,False,Head,Open Play,0,0,2,Normal
-6.1008196170678515,0.05723251240463935,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901245,Malcom Filipe Silva de Oliveira,Bordeaux,8.73212459828649,0.05748354986462601,True,Left Foot,Open Play,1,0,1,Normal
+3901245,Valentín Vada,Bordeaux,32.99848481370016,0.061155039567912926,False,Right Foot,Open Play,1,0,0,Normal
+3901245,Cheick Tidiane Diabaté,Bordeaux,7.156814934033149,0.057882135687972736,True,Left Foot,Open Play,0,1,4,Normal
+3901245,Benjamin Moukandjo Bilé,Lorient,14.103191128251787,0.0620865423901001,False,Right Foot,Open Play,1,0,0,Half Volley
+3901245,Malcom Filipe Silva de Oliveira,Bordeaux,30.02815345638156,0.06256515485444285,False,Left Foot,Free Kick,0,0,0,Normal
+3901245,Cheick Tidiane Diabaté,Bordeaux,8.840814442120136,0.05576806712511636,False,Head,Open Play,0,1,4,Normal
+3901245,Jaroslav Plašil,Bordeaux,28.111385593741193,0.0709286857378217,False,Right Foot,Free Kick,0,0,0,Normal
+3901245,Maxime Barthelmé,Lorient,26.496980960101848,0.07007599741705162,False,Left Foot,Open Play,0,0,0,Normal
+3901245,Jimmy Cabot,Lorient,27.316295502867877,0.060285330316285364,False,Left Foot,Open Play,0,1,3,Normal
+3901245,Cheick Tidiane Diabaté,Bordeaux,16.618363336983574,0.05493050737417602,True,Right Foot,Open Play,0,0,2,Normal
+3901245,Adam Ounas,Bordeaux,33.254323027239636,0.05663709997245899,False,Left Foot,Open Play,0,0,0,Normal
+3901245,Benjamin Moukandjo Bilé,Lorient,10.904127658827182,0.05432458040697098,False,Left Foot,Open Play,1,1,2,Half Volley
+3901245,Malcom Filipe Silva de Oliveira,Bordeaux,19.04337155022713,0.06449906435307655,False,Left Foot,Open Play,0,0,1,Normal
+3901245,Malcom Filipe Silva de Oliveira,Bordeaux,26.896096371034965,0.06990966886449348,False,Left Foot,Open Play,0,0,1,Normal
+3901245,Wesley Lautoa,Lorient,9.9569071503153,0.05619907698872068,False,Head,Open Play,0,0,3,Normal
+3901245,Raphaël Adelino José Guerreiro,Lorient,14.40138882191575,0.0610228997962112,False,Left Foot,Open Play,0,0,3,Normal
+3901245,Benjamin Jeannot,Lorient,21.305398376937237,0.06555105787642522,False,Left Foot,Open Play,0,0,2,Normal
+3901245,Benjamin Jeannot,Lorient,26.931208662070855,0.0606697112486817,False,Left Foot,Open Play,0,1,1,Normal
+3901245,Benjamin Jeannot,Lorient,47.58623750623703,0.08643209590934037,False,Right Foot,Open Play,1,0,3,Half Volley
+3901245,Mathieu Debuchy,Bordeaux,8.902246907382429,0.05901419545109741,False,Head,Open Play,0,0,2,Normal
+3901245,Benjamin Moukandjo Bilé,Lorient,6.1008196170678515,0.05723251240463935,False,Head,Open Play,0,0,3,Normal

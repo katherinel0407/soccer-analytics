@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.44573317058064,0.0695392157260028,False,Left Foot,Open Play,0,0,1,Half Volley
-27.92937521678564,0.05699179141533846,False,Left Foot,Open Play,0,0,0,Normal
-20.57692882818036,0.05916170327915236,False,Left Foot,Open Play,0,1,1,Normal
-28.43114489428802,0.06037317591088341,False,Right Foot,Open Play,0,0,0,Normal
-9.873702446397706,0.05976861905132091,False,Head,Open Play,0,0,2,Normal
-12.64001582277491,0.06126820834352773,False,Head,Open Play,0,0,2,Normal
-21.073680267100947,0.05486045335152995,False,Left Foot,Open Play,0,0,3,Normal
-39.07249672083933,0.06539150821475918,False,Right Foot,Open Play,0,0,0,Normal
-22.85475880424031,0.0674909071622461,False,Left Foot,Open Play,0,0,4,Normal
-20.489997559785113,0.055957350034964236,False,Left Foot,Open Play,0,0,2,Normal
-34.50985366529392,0.07246693293497222,False,Right Foot,Free Kick,0,0,0,Normal
-19.0538709977789,0.061217899267428814,False,Left Foot,Open Play,0,0,1,Normal
-16.341664541900258,0.06321066010355476,False,Right Foot,Open Play,0,0,1,Normal
-22.13345883498555,0.0545046661052565,False,Right Foot,Open Play,1,0,0,Normal
-24.911242441917672,0.05896006510858867,False,Right Foot,Open Play,0,0,2,Normal
-18.409236811991967,0.06449403537505986,False,Left Foot,Open Play,0,0,2,Normal
-29.123358322830835,0.07196864439725094,False,Left Foot,Open Play,0,1,3,Normal
-25.667489164310563,0.06938947163299591,False,Right Foot,Free Kick,0,0,0,Normal
-6.184658438426488,0.05784846969015001,False,Head,Open Play,0,1,3,Normal
-22.756317804073664,0.06717928416290078,False,Right Foot,Open Play,0,0,1,Normal
-13.018832512940625,0.053063889192881436,False,Right Foot,Open Play,0,1,1,Normal
-10.104454463255298,0.05870122862285778,False,Left Foot,Open Play,1,0,3,Volley
-12.7283148923964,0.06065895023907078,False,Head,Open Play,0,0,3,Normal
-21.9184853491294,0.05766675050199642,False,Right Foot,Open Play,0,1,3,Half Volley
-9.047651629014018,0.059158213200807226,False,Left Foot,Open Play,1,0,5,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879788,Mário Rui Silva Duarte,Empoli,35.44573317058064,0.0695392157260028,False,Left Foot,Open Play,0,0,1,Half Volley
+3879788,Franco Damián Vázquez,Palermo,27.92937521678564,0.05699179141533846,False,Left Foot,Open Play,0,0,0,Normal
+3879788,Franco Damián Vázquez,Palermo,20.57692882818036,0.05916170327915236,False,Left Foot,Open Play,0,1,1,Normal
+3879788,Leandro Daniel Paredes,Empoli,28.43114489428802,0.06037317591088341,False,Right Foot,Open Play,0,0,0,Normal
+3879788,Robin Quaison,Palermo,9.873702446397706,0.05976861905132091,False,Head,Open Play,0,0,2,Normal
+3879788,Manuel Pucciarelli,Empoli,12.64001582277491,0.06126820834352773,False,Head,Open Play,0,0,2,Normal
+3879788,Franco Damián Vázquez,Palermo,21.073680267100947,0.05486045335152995,False,Left Foot,Open Play,0,0,3,Normal
+3879788,Leandro Daniel Paredes,Empoli,39.07249672083933,0.06539150821475918,False,Right Foot,Open Play,0,0,0,Normal
+3879788,Franco Damián Vázquez,Palermo,22.85475880424031,0.0674909071622461,False,Left Foot,Open Play,0,0,4,Normal
+3879788,Manuel Pucciarelli,Empoli,20.489997559785113,0.055957350034964236,False,Left Foot,Open Play,0,0,2,Normal
+3879788,Aleksandar Trajkovski,Palermo,34.50985366529392,0.07246693293497222,False,Right Foot,Free Kick,0,0,0,Normal
+3879788,Manuel Pucciarelli,Empoli,19.0538709977789,0.061217899267428814,False,Left Foot,Open Play,0,0,1,Normal
+3879788,Gastón Brugman,Palermo,16.341664541900258,0.06321066010355476,False,Right Foot,Open Play,0,0,1,Normal
+3879788,Oscar Hiljemark,Palermo,22.13345883498555,0.0545046661052565,False,Right Foot,Open Play,1,0,0,Normal
+3879788,Massimo Maccarone,Empoli,24.911242441917672,0.05896006510858867,False,Right Foot,Open Play,0,0,2,Normal
+3879788,Piotr Zieliński,Empoli,18.409236811991967,0.06449403537505986,False,Left Foot,Open Play,0,0,2,Normal
+3879788,Franco Damián Vázquez,Palermo,29.123358322830835,0.07196864439725094,False,Left Foot,Open Play,0,1,3,Normal
+3879788,Aleksandar Trajkovski,Palermo,25.667489164310563,0.06938947163299591,False,Right Foot,Free Kick,0,0,0,Normal
+3879788,Massimo Maccarone,Empoli,6.184658438426488,0.05784846969015001,False,Head,Open Play,0,1,3,Normal
+3879788,Riccardo Saponara,Empoli,22.756317804073664,0.06717928416290078,False,Right Foot,Open Play,0,0,1,Normal
+3879788,Franco Damián Vázquez,Palermo,13.018832512940625,0.053063889192881436,False,Right Foot,Open Play,0,1,1,Normal
+3879788,Aljaž Struna,Palermo,10.104454463255298,0.05870122862285778,False,Left Foot,Open Play,1,0,3,Volley
+3879788,Lorenzo Tonelli,Empoli,12.7283148923964,0.06065895023907078,False,Head,Open Play,0,0,3,Normal
+3879788,Mato Jajalo,Palermo,21.9184853491294,0.05766675050199642,False,Right Foot,Open Play,0,1,3,Half Volley
+3879788,Levan Mchedlidze,Empoli,9.047651629014018,0.059158213200807226,False,Left Foot,Open Play,1,0,5,Volley

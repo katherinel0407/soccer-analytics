@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.581243128511176,0.06331732519803333,False,Right Foot,Open Play,0,0,1,Normal
-7.034912934784623,0.05733056858802027,False,Head,Open Play,0,1,4,Normal
-12.40403160266855,0.0582696229710818,False,Right Foot,Open Play,1,0,2,Half Volley
-9.972963451251587,0.059078797314545274,False,Head,Open Play,0,1,5,Normal
-8.682165628459295,0.05433471571856531,False,Right Foot,Open Play,1,0,1,Half Volley
-19.918082237002636,0.057135057872210286,False,Left Foot,Open Play,0,1,1,Normal
-20.041955992367615,0.0656546621856662,False,Left Foot,Open Play,1,0,0,Volley
-35.31713465161069,0.07672932315050675,False,Right Foot,Open Play,0,0,0,Normal
-14.725827650763813,0.06225124811747744,False,Right Foot,Open Play,0,0,3,Normal
-6.640030120413609,0.054745934605680835,False,Right Foot,Open Play,1,0,1,Half Volley
-10.196568050084297,0.05831922344819651,True,Left Foot,Open Play,1,0,3,Volley
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-6.652818951391958,0.0580066894531317,False,Left Foot,Open Play,1,0,5,Volley
-8.508818954473057,0.05895450971068743,False,Head,Open Play,0,1,5,Normal
-26.300570336021238,0.05555330365246384,False,Left Foot,Open Play,0,1,1,Normal
-30.60408469469395,0.07206141295804493,False,Right Foot,Free Kick,0,0,0,Normal
-21.3283848427395,0.06651523630468184,False,Right Foot,Open Play,0,0,2,Normal
-16.160754932861277,0.06288459246979992,False,Left Foot,Open Play,0,0,2,Normal
-12.801562404644205,0.0600009978035432,False,Right Foot,Open Play,1,0,1,Half Volley
-7.083078426785911,0.054352917782174735,False,Right Foot,Open Play,1,0,2,Half Volley
-27.680498550423547,0.0694611837843681,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825795,Saúl Ñíguez Esclapez,Atlético Madrid,25.581243128511176,0.06331732519803333,False,Right Foot,Open Play,0,0,1,Normal
+3825795,Diego Roberto Godín Leal,Atlético Madrid,7.034912934784623,0.05733056858802027,False,Head,Open Play,0,1,4,Normal
+3825795,Luciano Vietto,Atlético Madrid,12.40403160266855,0.0582696229710818,False,Right Foot,Open Play,1,0,2,Half Volley
+3825795,José María Giménez de Vargas,Atlético Madrid,9.972963451251587,0.059078797314545274,False,Head,Open Play,0,1,5,Normal
+3825795,Diego Roberto Godín Leal,Atlético Madrid,8.682165628459295,0.05433471571856531,False,Right Foot,Open Play,1,0,1,Half Volley
+3825795,Antoine Griezmann,Atlético Madrid,19.918082237002636,0.057135057872210286,False,Left Foot,Open Play,0,1,1,Normal
+3825795,Antoine Griezmann,Atlético Madrid,20.041955992367615,0.0656546621856662,False,Left Foot,Open Play,1,0,0,Volley
+3825795,Asier Illarramendi Andonegi,Real Sociedad,35.31713465161069,0.07672932315050675,False,Right Foot,Open Play,0,0,0,Normal
+3825795,Luciano Vietto,Atlético Madrid,14.725827650763813,0.06225124811747744,False,Right Foot,Open Play,0,0,3,Normal
+3825795,Diego Roberto Godín Leal,Atlético Madrid,6.640030120413609,0.054745934605680835,False,Right Foot,Open Play,1,0,1,Half Volley
+3825795,Saúl Ñíguez Esclapez,Atlético Madrid,10.196568050084297,0.05831922344819651,True,Left Foot,Open Play,1,0,3,Volley
+3825795,Antoine Griezmann,Atlético Madrid,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3825795,Carlos Alberto Vela Garrido,Real Sociedad,6.652818951391958,0.0580066894531317,False,Left Foot,Open Play,1,0,5,Volley
+3825795,Diego Antonio Reyes Rosales,Real Sociedad,8.508818954473057,0.05895450971068743,False,Head,Open Play,0,1,5,Normal
+3825795,Carlos Alberto Vela Garrido,Real Sociedad,26.300570336021238,0.05555330365246384,False,Left Foot,Open Play,0,1,1,Normal
+3825795,Jorge Resurrección Merodio,Atlético Madrid,30.60408469469395,0.07206141295804493,False,Right Foot,Free Kick,0,0,0,Normal
+3825795,Luciano Vietto,Atlético Madrid,21.3283848427395,0.06651523630468184,False,Right Foot,Open Play,0,0,2,Normal
+3825795,Luciano Vietto,Atlético Madrid,16.160754932861277,0.06288459246979992,False,Left Foot,Open Play,0,0,2,Normal
+3825795,Jonathas Cristian de Jesus,Real Sociedad,12.801562404644205,0.0600009978035432,False,Right Foot,Open Play,1,0,1,Half Volley
+3825795,Jonathas Cristian de Jesus,Real Sociedad,7.083078426785911,0.054352917782174735,False,Right Foot,Open Play,1,0,2,Half Volley
+3825795,Eneko Capilla González,Real Sociedad,27.680498550423547,0.0694611837843681,False,Left Foot,Open Play,0,0,1,Normal

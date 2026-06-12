@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.605881787656433,0.0685510822533164,False,Right Foot,Open Play,0,0,1,Normal
-18.285786830213237,0.06354639732361081,False,Left Foot,Open Play,0,0,2,Normal
-5.502726596879044,0.05739621553202283,True,Right Foot,Open Play,1,1,2,Normal
-19.829523443592894,0.05997853715875413,False,Left Foot,Open Play,1,1,3,Half Volley
-10.557461816175326,0.05858473655125505,False,Right Foot,Open Play,1,0,1,Normal
-9.541488353501252,0.059590346432295695,False,Head,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-7.829431652425347,0.056513786818831166,False,Head,Open Play,0,1,4,Normal
-26.58006772000403,0.06066412212457967,False,Left Foot,Open Play,0,0,1,Normal
-16.781537474260215,0.06257441705592494,True,Left Foot,Open Play,0,0,2,Normal
-22.614154859291112,0.06719690776471782,False,Right Foot,Open Play,0,0,2,Normal
-24.980392310770466,0.06884350379680171,False,Right Foot,Open Play,0,0,3,Normal
-9.241753080449618,0.0529359624729737,False,Right Foot,Open Play,0,0,2,Normal
-21.14000946073582,0.05559723117878762,True,Right Foot,Open Play,1,0,0,Normal
-26.690822392725178,0.06732954707233071,False,Left Foot,Open Play,0,0,2,Normal
-20.424005483743876,0.06573620075602658,False,Left Foot,Open Play,0,0,1,Normal
-4.346262762420147,0.056890175000574215,True,Right Foot,Open Play,1,0,2,Normal
-27.79100573926751,0.05965235533469133,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754071,Sung-Yeung Ki,Swansea City,30.605881787656433,0.0685510822533164,False,Right Foot,Open Play,0,0,1,Normal
+3754071,Fabio Borini,Sunderland,18.285786830213237,0.06354639732361081,False,Left Foot,Open Play,0,0,2,Normal
+3754071,Jermain Defoe,Sunderland,5.502726596879044,0.05739621553202283,True,Right Foot,Open Play,1,1,2,Normal
+3754071,André Ayew Pelé,Swansea City,19.829523443592894,0.05997853715875413,False,Left Foot,Open Play,1,1,3,Half Volley
+3754071,Adam Johnson,Sunderland,10.557461816175326,0.05858473655125505,False,Right Foot,Open Play,1,0,1,Normal
+3754071,André Ayew Pelé,Swansea City,9.541488353501252,0.059590346432295695,False,Head,Open Play,0,0,2,Normal
+3754071,Gylfi Þór Sigurðsson,Swansea City,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3754071,André Ayew Pelé,Swansea City,7.829431652425347,0.056513786818831166,False,Head,Open Play,0,1,4,Normal
+3754071,Modou Barrow,Swansea City,26.58006772000403,0.06066412212457967,False,Left Foot,Open Play,0,0,1,Normal
+3754071,André Ayew Pelé,Swansea City,16.781537474260215,0.06257441705592494,True,Left Foot,Open Play,0,0,2,Normal
+3754071,Patrick van Aanholt,Sunderland,22.614154859291112,0.06719690776471782,False,Right Foot,Open Play,0,0,2,Normal
+3754071,Gylfi Þór Sigurðsson,Swansea City,24.980392310770466,0.06884350379680171,False,Right Foot,Open Play,0,0,3,Normal
+3754071,Jeremain Lens,Sunderland,9.241753080449618,0.0529359624729737,False,Right Foot,Open Play,0,0,2,Normal
+3754071,Jermain Defoe,Sunderland,21.14000946073582,0.05559723117878762,True,Right Foot,Open Play,1,0,0,Normal
+3754071,Gylfi Þór Sigurðsson,Swansea City,26.690822392725178,0.06732954707233071,False,Left Foot,Open Play,0,0,2,Normal
+3754071,Neil Taylor,Swansea City,20.424005483743876,0.06573620075602658,False,Left Foot,Open Play,0,0,1,Normal
+3754071,Jermain Defoe,Sunderland,4.346262762420147,0.056890175000574215,True,Right Foot,Open Play,1,0,2,Normal
+3754071,Bafétimbi Gomis,Swansea City,27.79100573926751,0.05965235533469133,False,Right Foot,Open Play,0,0,1,Normal

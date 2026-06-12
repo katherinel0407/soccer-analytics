@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.435025105259792,0.05701522757449097,True,Left Foot,Open Play,0,0,1,Normal
-20.03921156133644,0.05427014160201094,False,Right Foot,Open Play,0,0,3,Normal
-15.599999999999998,0.05229713700046603,False,Right Foot,Open Play,0,1,1,Normal
-8.660831368869854,0.05911922444013415,False,Right Foot,Open Play,1,0,3,Volley
-20.611889772653065,0.0541505185862005,False,Right Foot,Open Play,1,1,3,Normal
-7.3824115301167,0.05843729009875824,True,Head,Open Play,0,1,6,Normal
-7.611832893594025,0.058171092509220375,False,Head,Open Play,0,0,2,Normal
-20.976653689280372,0.06368033185245907,False,Right Foot,Open Play,0,0,1,Normal
-37.03457843691488,0.07846657977678385,False,Right Foot,Free Kick,0,0,0,Normal
-32.09189928938454,0.07162687085128612,False,Left Foot,Open Play,1,0,1,Normal
-12.24418229201117,0.06103239053925622,False,Head,Open Play,0,0,1,Normal
-23.758787847867996,0.06749626679658191,False,Right Foot,Open Play,0,0,2,Normal
-3.9824615503479763,0.054901607840937235,True,Right Foot,Open Play,1,1,2,Normal
-27.32105415242977,0.05620847683351914,False,Left Foot,Free Kick,0,0,0,Normal
-28.38203657245195,0.07119140524998777,False,Left Foot,Open Play,0,0,1,Normal
-24.207436873820416,0.06749494400886245,False,Left Foot,Open Play,0,0,1,Normal
-16.906803364326443,0.06370614432394472,False,Left Foot,Open Play,0,0,1,Normal
-20.335437049643165,0.06375144006225907,False,Right Foot,Open Play,0,0,1,Normal
-20.082330542046154,0.05847302512655547,False,Right Foot,Open Play,1,0,1,Normal
-5.0635955604688645,0.05374171914787296,False,Head,Open Play,0,0,4,Normal
-24.239018131929353,0.06824363161398496,False,Left Foot,Open Play,0,1,2,Normal
-20.047942537826664,0.0656770359590896,False,Right Foot,Open Play,0,0,1,Normal
-17.846568297574745,0.06413667178117137,False,Right Foot,Open Play,0,0,1,Normal
-7.378346698278689,0.05815289879317731,False,Head,Open Play,0,0,1,Normal
-13.439121995130487,0.051873933968865645,False,Right Foot,Open Play,1,0,2,Half Volley
-7.454528824815159,0.058003194042621845,True,Left Foot,Open Play,1,0,1,Normal
-24.23489220112192,0.0656773331723137,False,Right Foot,Open Play,0,0,3,Half Volley
-20.498048687619022,0.0645749598875481,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754228,Riyad Mahrez,Leicester City,15.435025105259792,0.05701522757449097,True,Left Foot,Open Play,0,0,1,Normal
+3754228,Gylfi Þór Sigurðsson,Swansea City,20.03921156133644,0.05427014160201094,False,Right Foot,Open Play,0,0,3,Normal
+3754228,Riyad Mahrez,Leicester City,15.599999999999998,0.05229713700046603,False,Right Foot,Open Play,0,1,1,Normal
+3754228,Christian Fuchs,Leicester City,8.660831368869854,0.05911922444013415,False,Right Foot,Open Play,1,0,3,Volley
+3754228,Shinji Okazaki,Leicester City,20.611889772653065,0.0541505185862005,False,Right Foot,Open Play,1,1,3,Normal
+3754228,José Leonardo Ulloa,Leicester City,7.3824115301167,0.05843729009875824,True,Head,Open Play,0,1,6,Normal
+3754228,Federico Fernández,Swansea City,7.611832893594025,0.058171092509220375,False,Head,Open Play,0,0,2,Normal
+3754228,Christian Fuchs,Leicester City,20.976653689280372,0.06368033185245907,False,Right Foot,Open Play,0,0,1,Normal
+3754228,Gylfi Þór Sigurðsson,Swansea City,37.03457843691488,0.07846657977678385,False,Right Foot,Free Kick,0,0,0,Normal
+3754228,Neil Taylor,Swansea City,32.09189928938454,0.07162687085128612,False,Left Foot,Open Play,1,0,1,Normal
+3754228,André Ayew Pelé,Swansea City,12.24418229201117,0.06103239053925622,False,Head,Open Play,0,0,1,Normal
+3754228,Jefferson Antonio Montero Vite,Swansea City,23.758787847867996,0.06749626679658191,False,Right Foot,Open Play,0,0,2,Normal
+3754228,José Leonardo Ulloa,Leicester City,3.9824615503479763,0.054901607840937235,True,Right Foot,Open Play,1,1,2,Normal
+3754228,Christian Fuchs,Leicester City,27.32105415242977,0.05620847683351914,False,Left Foot,Free Kick,0,0,0,Normal
+3754228,Christian Fuchs,Leicester City,28.38203657245195,0.07119140524998777,False,Left Foot,Open Play,0,0,1,Normal
+3754228,Jeffrey Schlupp,Leicester City,24.207436873820416,0.06749494400886245,False,Left Foot,Open Play,0,0,1,Normal
+3754228,Shinji Okazaki,Leicester City,16.906803364326443,0.06370614432394472,False,Left Foot,Open Play,0,0,1,Normal
+3754228,Jeffrey Schlupp,Leicester City,20.335437049643165,0.06375144006225907,False,Right Foot,Open Play,0,0,1,Normal
+3754228,Danny Drinkwater,Leicester City,20.082330542046154,0.05847302512655547,False,Right Foot,Open Play,1,0,1,Normal
+3754228,André Ayew Pelé,Swansea City,5.0635955604688645,0.05374171914787296,False,Head,Open Play,0,0,4,Normal
+3754228,Jeffrey Schlupp,Leicester City,24.239018131929353,0.06824363161398496,False,Left Foot,Open Play,0,1,2,Normal
+3754228,Andrew Philip King,Leicester City,20.047942537826664,0.0656770359590896,False,Right Foot,Open Play,0,0,1,Normal
+3754228,Andrew Philip King,Leicester City,17.846568297574745,0.06413667178117137,False,Right Foot,Open Play,0,0,1,Normal
+3754228,Andrew Philip King,Leicester City,7.378346698278689,0.05815289879317731,False,Head,Open Play,0,0,1,Normal
+3754228,Demarai Gray,Leicester City,13.439121995130487,0.051873933968865645,False,Right Foot,Open Play,1,0,2,Half Volley
+3754228,Marc Albrighton,Leicester City,7.454528824815159,0.058003194042621845,True,Left Foot,Open Play,1,0,1,Normal
+3754228,Ashley Williams,Swansea City,24.23489220112192,0.0656773331723137,False,Right Foot,Open Play,0,0,3,Half Volley
+3754228,André Ayew Pelé,Swansea City,20.498048687619022,0.0645749598875481,False,Left Foot,Open Play,0,0,2,Normal

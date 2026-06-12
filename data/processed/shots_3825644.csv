@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.850988645343527,0.05922242888662804,False,Head,Open Play,0,0,1,Normal
-19.6084165602427,0.06482392504650726,False,Right Foot,Open Play,1,1,3,Normal
-10.94166349327195,0.0565610666414153,True,Head,Open Play,0,0,1,Normal
-19.00026315607234,0.06268044930995696,False,Left Foot,Open Play,1,1,3,Half Volley
-33.35416016031583,0.058203903729987384,False,Right Foot,Open Play,0,0,1,Normal
-18.516209115258984,0.0590997004192562,True,Right Foot,Open Play,0,0,1,Normal
-14.491721774861679,0.05692807419901783,False,Left Foot,Open Play,1,0,1,Overhead Kick
-26.22918222133507,0.0672684071153657,False,Left Foot,Open Play,1,0,1,Normal
-21.56687274502263,0.06617972699141707,False,Right Foot,Open Play,0,0,1,Normal
-31.02660148968946,0.07346655938368181,False,Left Foot,Open Play,1,1,1,Half Volley
-26.071632093139083,0.0697410003351218,False,Left Foot,Open Play,1,1,1,Half Volley
-30.259709185648163,0.05695343273132643,False,Right Foot,Open Play,0,1,1,Normal
-10.600471687618429,0.05904470968817054,True,Left Foot,Open Play,1,0,1,Normal
-14.01855912710005,0.06194340392073627,False,Left Foot,Open Play,1,1,1,Half Volley
-12.884486796143642,0.06138596845419337,False,Left Foot,Open Play,0,0,1,Normal
-26.80914023239089,0.06336798111940908,False,Left Foot,Free Kick,0,0,0,Normal
-10.72800074571213,0.05819542953256643,True,Head,Open Play,0,0,1,Normal
-26.441255643406954,0.06839951903718221,False,Left Foot,Open Play,0,0,2,Normal
-9.708243919473798,0.05687308303077176,False,Head,Open Play,0,0,4,Normal
-10.331021246711286,0.059244396007294545,False,Left Foot,Open Play,1,0,1,Volley
-22.107012462112564,0.06701917873343521,False,Right Foot,Open Play,1,0,1,Normal
-22.871160880025307,0.06667436516739507,False,Right Foot,Open Play,0,0,1,Normal
-16.754700832900603,0.06349101479411882,False,Right Foot,Open Play,1,1,3,Normal
-24.529370150902775,0.06461198784680487,False,Right Foot,Open Play,1,0,0,Half Volley
-11.981652640600128,0.060914544694421584,False,Right Foot,Open Play,1,0,1,Half Volley
-28.14125086061385,0.07126059654578284,False,Right Foot,Open Play,0,0,3,Normal
-20.577900767571023,0.05486813189715863,False,Left Foot,Open Play,0,0,3,Normal
-31.51586901863885,0.06924991438558005,False,Right Foot,Open Play,0,0,0,Normal
-15.00833101980364,0.061509005085395196,False,Right Foot,Open Play,1,1,2,Half Volley
-26.93566409056959,0.058441685929097265,False,Left Foot,Open Play,0,0,2,Normal
-19.880643852752854,0.0644610198850516,False,Right Foot,Open Play,1,0,3,Half Volley
-25.47783350287068,0.06003548233250296,False,Right Foot,Open Play,0,0,2,Normal
-10.606601717798211,0.05670398628842829,False,Right Foot,Open Play,1,0,2,Half Volley
-26.51886121235224,0.06667465449540282,False,Right Foot,Open Play,1,0,1,Half Volley
-8.203657720797475,0.058795363604754985,False,Head,Open Play,0,1,5,Normal
-27.690431560378403,0.06865594284422516,True,Left Foot,Open Play,0,0,1,Half Volley
-54.100831786581615,0.08084926952471962,False,Left Foot,Open Play,0,0,1,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825644,Carlos Alberto Vela Garrido,Real Sociedad,8.850988645343527,0.05922242888662804,False,Head,Open Play,0,0,1,Normal
+3825644,Manuel Agudo Durán,Celta Vigo,19.6084165602427,0.06482392504650726,False,Right Foot,Open Play,1,1,3,Normal
+3825644,Imanol Agirretxe Arruti,Real Sociedad,10.94166349327195,0.0565610666414153,True,Head,Open Play,0,0,1,Normal
+3825644,Carlos Alberto Vela Garrido,Real Sociedad,19.00026315607234,0.06268044930995696,False,Left Foot,Open Play,1,1,3,Half Volley
+3825644,Nemanja Radoja,Celta Vigo,33.35416016031583,0.058203903729987384,False,Right Foot,Open Play,0,0,1,Normal
+3825644,Iago Aspas Juncal,Celta Vigo,18.516209115258984,0.0590997004192562,True,Right Foot,Open Play,0,0,1,Normal
+3825644,Iago Aspas Juncal,Celta Vigo,14.491721774861679,0.05692807419901783,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3825644,Markel Bergara Larrañaga,Real Sociedad,26.22918222133507,0.0672684071153657,False,Left Foot,Open Play,1,0,1,Normal
+3825644,Manuel Agudo Durán,Celta Vigo,21.56687274502263,0.06617972699141707,False,Right Foot,Open Play,0,0,1,Normal
+3825644,Yuri Berchiche Izeta,Real Sociedad,31.02660148968946,0.07346655938368181,False,Left Foot,Open Play,1,1,1,Half Volley
+3825644,Yuri Berchiche Izeta,Real Sociedad,26.071632093139083,0.0697410003351218,False,Left Foot,Open Play,1,1,1,Half Volley
+3825644,Daniel Wass,Celta Vigo,30.259709185648163,0.05695343273132643,False,Right Foot,Open Play,0,1,1,Normal
+3825644,Imanol Agirretxe Arruti,Real Sociedad,10.600471687618429,0.05904470968817054,True,Left Foot,Open Play,1,0,1,Normal
+3825644,Íñigo Martínez Berridi,Real Sociedad,14.01855912710005,0.06194340392073627,False,Left Foot,Open Play,1,1,1,Half Volley
+3825644,Imanol Agirretxe Arruti,Real Sociedad,12.884486796143642,0.06138596845419337,False,Left Foot,Open Play,0,0,1,Normal
+3825644,Íñigo Martínez Berridi,Real Sociedad,26.80914023239089,0.06336798111940908,False,Left Foot,Free Kick,0,0,0,Normal
+3825644,Iago Aspas Juncal,Celta Vigo,10.72800074571213,0.05819542953256643,True,Head,Open Play,0,0,1,Normal
+3825644,Yuri Berchiche Izeta,Real Sociedad,26.441255643406954,0.06839951903718221,False,Left Foot,Open Play,0,0,2,Normal
+3825644,Markel Bergara Larrañaga,Real Sociedad,9.708243919473798,0.05687308303077176,False,Head,Open Play,0,0,4,Normal
+3825644,Mikel González de Martín Martínez,Real Sociedad,10.331021246711286,0.059244396007294545,False,Left Foot,Open Play,1,0,1,Volley
+3825644,Asier Illarramendi Andonegi,Real Sociedad,22.107012462112564,0.06701917873343521,False,Right Foot,Open Play,1,0,1,Normal
+3825644,Armindo Tué Na Bangna,Real Sociedad,22.871160880025307,0.06667436516739507,False,Right Foot,Open Play,0,0,1,Normal
+3825644,Iago Aspas Juncal,Celta Vigo,16.754700832900603,0.06349101479411882,False,Right Foot,Open Play,1,1,3,Normal
+3825644,Joseba Zaldúa Bengoetxea,Real Sociedad,24.529370150902775,0.06461198784680487,False,Right Foot,Open Play,1,0,0,Half Volley
+3825644,Xabier Prieto Argarate,Real Sociedad,11.981652640600128,0.060914544694421584,False,Right Foot,Open Play,1,0,1,Half Volley
+3825644,Armindo Tué Na Bangna,Real Sociedad,28.14125086061385,0.07126059654578284,False,Right Foot,Open Play,0,0,3,Normal
+3825644,Fabián Ariel Orellana Valenzuela,Celta Vigo,20.577900767571023,0.05486813189715863,False,Left Foot,Open Play,0,0,3,Normal
+3825644,Daniel Wass,Celta Vigo,31.51586901863885,0.06924991438558005,False,Right Foot,Open Play,0,0,0,Normal
+3825644,Iago Aspas Juncal,Celta Vigo,15.00833101980364,0.061509005085395196,False,Right Foot,Open Play,1,1,2,Half Volley
+3825644,Iago Aspas Juncal,Celta Vigo,26.93566409056959,0.058441685929097265,False,Left Foot,Open Play,0,0,2,Normal
+3825644,Armindo Tué Na Bangna,Real Sociedad,19.880643852752854,0.0644610198850516,False,Right Foot,Open Play,1,0,3,Half Volley
+3825644,Fabián Ariel Orellana Valenzuela,Celta Vigo,25.47783350287068,0.06003548233250296,False,Right Foot,Open Play,0,0,2,Normal
+3825644,John Guidetti,Celta Vigo,10.606601717798211,0.05670398628842829,False,Right Foot,Open Play,1,0,2,Half Volley
+3825644,Asier Illarramendi Andonegi,Real Sociedad,26.51886121235224,0.06667465449540282,False,Right Foot,Open Play,1,0,1,Half Volley
+3825644,Markel Bergara Larrañaga,Real Sociedad,8.203657720797475,0.058795363604754985,False,Head,Open Play,0,1,5,Normal
+3825644,Pedro Pablo Hernández,Celta Vigo,27.690431560378403,0.06865594284422516,True,Left Foot,Open Play,0,0,1,Half Volley
+3825644,Pedro Pablo Hernández,Celta Vigo,54.100831786581615,0.08084926952471962,False,Left Foot,Open Play,0,0,1,Lob

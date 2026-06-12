@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.312581877495058,0.060793246744217405,False,Head,Open Play,0,0,5,Normal
-27.898745491509114,0.0690598706758969,False,Right Foot,Open Play,0,0,1,Normal
-26.348624252510795,0.05704879435003095,False,Left Foot,Open Play,0,0,3,Normal
-12.690941651429972,0.06129972474532427,False,Right Foot,Open Play,0,0,4,Half Volley
-12.986531484580482,0.06134313486884726,False,Right Foot,Open Play,1,0,5,Half Volley
-30.3295235702772,0.06641742359096471,False,Left Foot,Open Play,0,1,3,Normal
-21.213203435596423,0.05797475684755295,False,Right Foot,Open Play,0,1,2,Normal
-28.668100739323492,0.07117216492662053,False,Right Foot,Open Play,0,0,1,Normal
-5.830951894845301,0.05767021280254906,False,Head,Open Play,0,1,7,Normal
-22.68501708176566,0.06728676098978482,True,Right Foot,Open Play,0,1,2,Normal
-5.68242905807015,0.05729092411753658,False,Right Foot,Open Play,1,0,3,Normal
-13.281566172707196,0.059846152362407624,False,Right Foot,Open Play,0,0,0,Normal
-11.186599125739688,0.05493359479996742,True,Right Foot,Open Play,0,0,1,Normal
-33.36540124140574,0.07199761689033536,False,Right Foot,Open Play,0,0,1,Normal
-7.025667228100119,0.05774688336144016,False,Head,Open Play,0,0,3,Normal
-17.44133022449835,0.05795789664048706,False,Right Foot,Open Play,0,0,2,Half Volley
-28.031767693101337,0.06096569827844259,False,Right Foot,Open Play,1,0,1,Normal
-29.621951319924896,0.07076254465288129,False,Left Foot,Open Play,0,0,1,Normal
-23.400000000000006,0.0646744087490433,False,Right Foot,Open Play,1,0,1,Volley
-21.64486082191337,0.054373399775038016,False,Left Foot,Open Play,0,0,2,Normal
-26.649202614712504,0.06384245090325563,False,Left Foot,Open Play,0,0,1,Normal
-26.639069052802878,0.06875287030527964,False,Right Foot,Free Kick,0,0,0,Normal
-10.640018796975877,0.060171678563392283,False,Head,Open Play,0,0,1,Normal
-6.847627326307995,0.05428267646888301,False,Right Foot,Open Play,1,0,0,Half Volley
-8.906739021662188,0.054036470929093326,False,Right Foot,Open Play,1,0,1,Half Volley
-12.740486646906383,0.05490547728668604,True,Left Foot,Open Play,0,0,1,Normal
-14.7648230602334,0.057339985149763,True,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3794689,Chris Mepham,Wales,14.312581877495058,0.060793246744217405,False,Head,Open Play,0,0,5,Normal
+3794689,Kasper Dolberg,Denmark,27.898745491509114,0.0690598706758969,False,Right Foot,Open Play,0,0,1,Normal
+3794689,Gareth Frank Bale,Wales,26.348624252510795,0.05704879435003095,False,Left Foot,Open Play,0,0,3,Normal
+3794689,Aaron Ramsey,Wales,12.690941651429972,0.06129972474532427,False,Right Foot,Open Play,0,0,4,Half Volley
+3794689,Aaron Ramsey,Wales,12.986531484580482,0.06134313486884726,False,Right Foot,Open Play,1,0,5,Half Volley
+3794689,Gareth Frank Bale,Wales,30.3295235702772,0.06641742359096471,False,Left Foot,Open Play,0,1,3,Normal
+3794689,Aaron Ramsey,Wales,21.213203435596423,0.05797475684755295,False,Right Foot,Open Play,0,1,2,Normal
+3794689,Daniel James,Wales,28.668100739323492,0.07117216492662053,False,Right Foot,Open Play,0,0,1,Normal
+3794689,Jannik Vestergaard,Denmark,5.830951894845301,0.05767021280254906,False,Head,Open Play,0,1,7,Normal
+3794689,Kasper Dolberg,Denmark,22.68501708176566,0.06728676098978482,True,Right Foot,Open Play,0,1,2,Normal
+3794689,Kasper Dolberg,Denmark,5.68242905807015,0.05729092411753658,False,Right Foot,Open Play,1,0,3,Normal
+3794689,Joakim Mæhle,Denmark,13.281566172707196,0.059846152362407624,False,Right Foot,Open Play,0,0,0,Normal
+3794689,Kasper Dolberg,Denmark,11.186599125739688,0.05493359479996742,True,Right Foot,Open Play,0,0,1,Normal
+3794689,Mikkel Damsgaard,Denmark,33.36540124140574,0.07199761689033536,False,Right Foot,Open Play,0,0,1,Normal
+3794689,Gareth Frank Bale,Wales,7.025667228100119,0.05774688336144016,False,Head,Open Play,0,0,3,Normal
+3794689,Daniel James,Wales,17.44133022449835,0.05795789664048706,False,Right Foot,Open Play,0,0,2,Half Volley
+3794689,Pierre-Emile Højbjerg,Denmark,28.031767693101337,0.06096569827844259,False,Right Foot,Open Play,1,0,1,Normal
+3794689,Jannik Vestergaard,Denmark,29.621951319924896,0.07076254465288129,False,Left Foot,Open Play,0,0,1,Normal
+3794689,Joe Allen,Wales,23.400000000000006,0.0646744087490433,False,Right Foot,Open Play,1,0,1,Volley
+3794689,Joe Allen,Wales,21.64486082191337,0.054373399775038016,False,Left Foot,Open Play,0,0,2,Normal
+3794689,Andreas Evald Cornelius,Denmark,26.649202614712504,0.06384245090325563,False,Left Foot,Open Play,0,0,1,Normal
+3794689,Martin Braithwaite Christensen,Denmark,26.639069052802878,0.06875287030527964,False,Right Foot,Free Kick,0,0,0,Normal
+3794689,Andreas Evald Cornelius,Denmark,10.640018796975877,0.060171678563392283,False,Head,Open Play,0,0,1,Normal
+3794689,Martin Braithwaite Christensen,Denmark,6.847627326307995,0.05428267646888301,False,Right Foot,Open Play,1,0,0,Half Volley
+3794689,Joachim Andersen,Denmark,8.906739021662188,0.054036470929093326,False,Right Foot,Open Play,1,0,1,Half Volley
+3794689,Joakim Mæhle,Denmark,12.740486646906383,0.05490547728668604,True,Left Foot,Open Play,0,0,1,Normal
+3794689,Martin Braithwaite Christensen,Denmark,14.7648230602334,0.057339985149763,True,Left Foot,Open Play,0,0,2,Normal

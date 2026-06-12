@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.33712082089225,0.06409618327861863,False,Right Foot,Open Play,0,0,1,Normal
-13.23064624271997,0.06088119264451613,False,Left Foot,Open Play,0,0,2,Normal
-10.80740486888504,0.060245077062603826,False,Head,Open Play,0,0,2,Normal
-29.95363083167047,0.07118262826204903,False,Right Foot,Open Play,0,0,2,Normal
-15.528361149844498,0.051784278792906424,False,Left Foot,Open Play,1,0,1,Volley
-29.98833106393219,0.06912531921714372,False,Left Foot,Free Kick,0,0,0,Normal
-8.005623023850175,0.058205298107809,True,Head,Open Play,0,0,3,Normal
-25.350345165302976,0.06745637031606867,False,Right Foot,Open Play,1,0,0,Half Volley
-20.552615405344408,0.06435642629523218,False,Right Foot,Open Play,1,0,0,Half Volley
-10.182828683622246,0.05991811799878729,False,Head,Open Play,0,0,1,Normal
-31.346132137793337,0.07332125280027178,False,Left Foot,Open Play,0,1,2,Normal
-11.732433677630574,0.06077676888052702,False,Right Foot,Open Play,0,0,1,Normal
-7.669419795525608,0.05554419347336066,True,Left Foot,Open Play,1,0,2,Volley
-10.52093151769367,0.060112011639433874,False,Left Foot,Open Play,1,0,2,Backheel
-6.341135544995075,0.05793102628826723,True,Left Foot,Open Play,1,0,1,Volley
-4.188078318274383,0.054709911298141484,False,Head,Open Play,0,1,4,Normal
-13.78296049475583,0.057169167096938964,True,Right Foot,Open Play,0,0,3,Normal
-32.261587065735,0.07417505928485559,False,Left Foot,Open Play,0,0,1,Normal
-9.082400563727633,0.05707302978001677,False,Head,Open Play,0,1,3,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.095040305844378,0.05652135850068092,False,Right Foot,Open Play,0,0,3,Normal
-16.807736313971613,0.06236426860585408,False,Right Foot,Open Play,0,0,4,Normal
-19.479733057719248,0.05977855103060397,False,Right Foot,Open Play,1,0,1,Volley
-18.984203960134852,0.0644194566491213,False,Left Foot,Open Play,0,0,3,Normal
-7.169379331573968,0.05432096560003375,False,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754006,Marc Albrighton,Leicester City,18.33712082089225,0.06409618327861863,False,Right Foot,Open Play,0,0,1,Normal
+3754006,Jamie Vardy,Leicester City,13.23064624271997,0.06088119264451613,False,Left Foot,Open Play,0,0,2,Normal
+3754006,José Leonardo Ulloa,Leicester City,10.80740486888504,0.060245077062603826,False,Head,Open Play,0,0,2,Normal
+3754006,Marc Albrighton,Leicester City,29.95363083167047,0.07118262826204903,False,Right Foot,Open Play,0,0,2,Normal
+3754006,Riyad Mahrez,Leicester City,15.528361149844498,0.051784278792906424,False,Left Foot,Open Play,1,0,1,Volley
+3754006,Chris Brunt,West Bromwich Albion,29.98833106393219,0.06912531921714372,False,Left Foot,Free Kick,0,0,0,Normal
+3754006,José Salomón Rondón Giménez,West Bromwich Albion,8.005623023850175,0.058205298107809,True,Head,Open Play,0,0,3,Normal
+3754006,Danny Drinkwater,Leicester City,25.350345165302976,0.06745637031606867,False,Right Foot,Open Play,1,0,0,Half Volley
+3754006,Jamie Vardy,Leicester City,20.552615405344408,0.06435642629523218,False,Right Foot,Open Play,1,0,0,Half Volley
+3754006,José Leonardo Ulloa,Leicester City,10.182828683622246,0.05991811799878729,False,Head,Open Play,0,0,1,Normal
+3754006,James McClean,West Bromwich Albion,31.346132137793337,0.07332125280027178,False,Left Foot,Open Play,0,1,2,Normal
+3754006,James McClean,West Bromwich Albion,11.732433677630574,0.06077676888052702,False,Right Foot,Open Play,0,0,1,Normal
+3754006,Riyad Mahrez,Leicester City,7.669419795525608,0.05554419347336066,True,Left Foot,Open Play,1,0,2,Volley
+3754006,Jamie Vardy,Leicester City,10.52093151769367,0.060112011639433874,False,Left Foot,Open Play,1,0,2,Backheel
+3754006,Riyad Mahrez,Leicester City,6.341135544995075,0.05793102628826723,True,Left Foot,Open Play,1,0,1,Volley
+3754006,José Salomón Rondón Giménez,West Bromwich Albion,4.188078318274383,0.054709911298141484,False,Head,Open Play,0,1,4,Normal
+3754006,Jamie Vardy,Leicester City,13.78296049475583,0.057169167096938964,True,Right Foot,Open Play,0,0,3,Normal
+3754006,James McClean,West Bromwich Albion,32.261587065735,0.07417505928485559,False,Left Foot,Open Play,0,0,1,Normal
+3754006,José Salomón Rondón Giménez,West Bromwich Albion,9.082400563727633,0.05707302978001677,False,Head,Open Play,0,1,3,Normal
+3754006,Rickie Lambert,West Bromwich Albion,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3754006,José Salomón Rondón Giménez,West Bromwich Albion,12.095040305844378,0.05652135850068092,False,Right Foot,Open Play,0,0,3,Normal
+3754006,Callum McManaman,West Bromwich Albion,16.807736313971613,0.06236426860585408,False,Right Foot,Open Play,0,0,4,Normal
+3754006,Callum McManaman,West Bromwich Albion,19.479733057719248,0.05977855103060397,False,Right Foot,Open Play,1,0,1,Volley
+3754006,Riyad Mahrez,Leicester City,18.984203960134852,0.0644194566491213,False,Left Foot,Open Play,0,0,3,Normal
+3754006,Rickie Lambert,West Bromwich Albion,7.169379331573968,0.05432096560003375,False,Right Foot,Open Play,0,0,2,Half Volley

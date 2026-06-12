@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.14238535674315,0.06387123980381502,True,Left Foot,Open Play,0,0,2,Normal
-20.390684147423794,0.06589595679824463,False,Left Foot,Open Play,0,1,2,Normal
-22.19391808581801,0.06606304000765548,False,Right Foot,Open Play,0,0,3,Normal
-11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
-26.45996976566678,0.06985270001461591,False,Left Foot,Open Play,1,0,1,Volley
-25.031979546172536,0.06188459145473378,False,Left Foot,Open Play,0,0,2,Normal
-16.954350474140853,0.06314327403139842,False,Left Foot,Open Play,1,0,1,Half Volley
-10.089598604503552,0.05963110436292146,False,Head,Open Play,0,1,3,Normal
-29.870721450945915,0.07251603717601551,False,Right Foot,Open Play,0,1,1,Half Volley
-23.641488954801467,0.06542914366695368,False,Right Foot,Open Play,0,0,3,Normal
-15.41492782986673,0.05969351929216738,False,Left Foot,Open Play,0,0,3,Normal
-23.505318547086315,0.056531693300687164,False,Right Foot,Open Play,0,0,2,Normal
-19.921094347449895,0.06545980422765732,False,Left Foot,Open Play,1,0,1,Half Volley
-6.484597134749387,0.05616277473243824,False,Right Foot,Open Play,1,0,0,Half Volley
-6.403124237432851,0.05773750917650461,False,Right Foot,Open Play,1,0,2,Half Volley
-4.66476151587624,0.057093187159593994,True,Right Foot,Open Play,1,0,3,Volley
-28.25544195371928,0.05816241650411852,False,Left Foot,Open Play,0,0,1,Normal
-17.54137964927503,0.06388237657769635,False,Right Foot,Open Play,0,0,2,Normal
-14.222517358048822,0.060831706827984736,False,Left Foot,Open Play,1,0,2,Normal
-9.12414379544733,0.05885353397039615,False,Head,Open Play,0,0,3,Normal
-22.24634801489898,0.059084441801039736,False,Left Foot,Open Play,0,0,0,Normal
-37.38836717483126,0.07884578582199218,False,Right Foot,Open Play,1,0,3,Half Volley
-30.212911147388624,0.06083962457760633,False,Left Foot,Open Play,0,0,1,Normal
-16.65713060523931,0.06336362918361536,True,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825615,Alen Halilović,Sporting Gijón,23.14238535674315,0.06387123980381502,True,Left Foot,Open Play,0,0,2,Normal
+3825615,Alejandro Menéndez Díez,Sporting Gijón,20.390684147423794,0.06589595679824463,False,Left Foot,Open Play,0,1,2,Normal
+3825615,Sergio Álvarez Díaz,Sporting Gijón,22.19391808581801,0.06606304000765548,False,Right Foot,Open Play,0,0,3,Normal
+3825615,Felipe Salvador Caicedo Corozo,Espanyol,11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
+3825615,Alejandro Menéndez Díez,Sporting Gijón,26.45996976566678,0.06985270001461591,False,Left Foot,Open Play,1,0,1,Volley
+3825615,Anaitz Arbilla Zabala,Espanyol,25.031979546172536,0.06188459145473378,False,Left Foot,Open Play,0,0,2,Normal
+3825615,Alen Halilović,Sporting Gijón,16.954350474140853,0.06314327403139842,False,Left Foot,Open Play,1,0,1,Half Volley
+3825615,Álvaro González Soberón,Espanyol,10.089598604503552,0.05963110436292146,False,Head,Open Play,0,1,3,Normal
+3825615,Luis Hernández Rodríguez,Sporting Gijón,29.870721450945915,0.07251603717601551,False,Right Foot,Open Play,0,1,1,Half Volley
+3825615,Víctor Sánchez Mata,Espanyol,23.641488954801467,0.06542914366695368,False,Right Foot,Open Play,0,0,3,Normal
+3825615,Marco Asensio Willemsen,Espanyol,15.41492782986673,0.05969351929216738,False,Left Foot,Open Play,0,0,3,Normal
+3825615,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,23.505318547086315,0.056531693300687164,False,Right Foot,Open Play,0,0,2,Normal
+3825615,Alejandro Menéndez Díez,Sporting Gijón,19.921094347449895,0.06545980422765732,False,Left Foot,Open Play,1,0,1,Half Volley
+3825615,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,6.484597134749387,0.05616277473243824,False,Right Foot,Open Play,1,0,0,Half Volley
+3825615,Luis Hernández Rodríguez,Sporting Gijón,6.403124237432851,0.05773750917650461,False,Right Foot,Open Play,1,0,2,Half Volley
+3825615,Felipe Salvador Caicedo Corozo,Espanyol,4.66476151587624,0.057093187159593994,True,Right Foot,Open Play,1,0,3,Volley
+3825615,Marco Asensio Willemsen,Espanyol,28.25544195371928,0.05816241650411852,False,Left Foot,Open Play,0,0,1,Normal
+3825615,Jorge Franco Alviz,Espanyol,17.54137964927503,0.06388237657769635,False,Right Foot,Open Play,0,0,2,Normal
+3825615,Rubén Duarte Sánchez,Espanyol,14.222517358048822,0.060831706827984736,False,Left Foot,Open Play,1,0,2,Normal
+3825615,Gerard Moreno Balaguero,Espanyol,9.12414379544733,0.05885353397039615,False,Head,Open Play,0,0,3,Normal
+3825615,Anaitz Arbilla Zabala,Espanyol,22.24634801489898,0.059084441801039736,False,Left Foot,Open Play,0,0,0,Normal
+3825615,Pablo Pérez Rodríguez,Sporting Gijón,37.38836717483126,0.07884578582199218,False,Right Foot,Open Play,1,0,3,Half Volley
+3825615,Hernán Arsenio Pérez González,Espanyol,30.212911147388624,0.06083962457760633,False,Left Foot,Open Play,0,0,1,Normal
+3825615,Alejandro Menéndez Díez,Sporting Gijón,16.65713060523931,0.06336362918361536,True,Left Foot,Open Play,0,1,1,Normal

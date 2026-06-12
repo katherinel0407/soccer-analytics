@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.904747973652125,0.052915731652537816,False,Right Foot,Open Play,1,1,1,Normal
-31.16472364709817,0.07022453609431717,False,Right Foot,Open Play,0,0,2,Normal
-21.99681795169474,0.06696497433148708,False,Right Foot,Open Play,0,0,1,Half Volley
-26.911150105486016,0.061254189084283345,False,Right Foot,Open Play,1,0,0,Normal
-32.695565448543626,0.0731059817238197,False,Left Foot,Open Play,0,0,1,Normal
-14.003213916812097,0.06032513306625064,False,Right Foot,Open Play,1,0,3,Normal
-24.23241630543682,0.06678249744342649,False,Right Foot,Free Kick,0,0,0,Normal
-10.538500842150178,0.05865496456663646,True,Other,Open Play,0,0,3,Normal
-10.96357605893259,0.06033558390618286,False,Head,Open Play,0,1,2,Normal
-30.202648890453304,0.07262454128563188,False,Right Foot,Free Kick,0,0,0,Normal
-15.08011936292283,0.06201110789444692,False,Right Foot,Open Play,0,0,2,Normal
-28.239157211220025,0.07062863628136473,False,Left Foot,Open Play,0,0,1,Normal
-30.594117081556707,0.05949742380276285,False,Right Foot,Open Play,0,0,1,Normal
-22.770595073471405,0.0674629685917258,False,Right Foot,Open Play,1,0,0,Half Volley
-14.410065926289162,0.05244596208105137,True,Right Foot,Open Play,0,0,1,Normal
-29.520331976453114,0.07208468484932677,False,Left Foot,Open Play,1,0,1,Normal
-27.26059427085184,0.06337647020115982,False,Right Foot,Open Play,0,1,2,Normal
-12.15113163454335,0.06096916691970129,False,Head,Open Play,0,0,3,Normal
-5.300943312279423,0.05474666050626099,True,Head,Open Play,0,0,2,Normal
-33.354160160315836,0.06025790367594661,False,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3750200,Jermaine Pennant,Liverpool,17.904747973652125,0.052915731652537816,False,Right Foot,Open Play,1,1,1,Normal
+3750200,Ricardo Izecson dos Santos Leite,AC Milan,31.16472364709817,0.07022453609431717,False,Right Foot,Open Play,0,0,2,Normal
+3750200,Steven Gerrard,Liverpool,21.99681795169474,0.06696497433148708,False,Right Foot,Open Play,0,0,1,Half Volley
+3750200,Xabier Alonso Olano,Liverpool,26.911150105486016,0.061254189084283345,False,Right Foot,Open Play,1,0,0,Normal
+3750200,John Arne Semundseth Riise,Liverpool,32.695565448543626,0.0731059817238197,False,Left Foot,Open Play,0,0,1,Normal
+3750200,Dirk Kuijt,Liverpool,14.003213916812097,0.06032513306625064,False,Right Foot,Open Play,1,0,3,Normal
+3750200,Andrea Pirlo,AC Milan,24.23241630543682,0.06678249744342649,False,Right Foot,Free Kick,0,0,0,Normal
+3750200,Filippo Inzaghi,AC Milan,10.538500842150178,0.05865496456663646,True,Other,Open Play,0,0,3,Normal
+3750200,Daniel Munthe Agger,Liverpool,10.96357605893259,0.06033558390618286,False,Head,Open Play,0,1,2,Normal
+3750200,Andrea Pirlo,AC Milan,30.202648890453304,0.07262454128563188,False,Right Foot,Free Kick,0,0,0,Normal
+3750200,Steven Gerrard,Liverpool,15.08011936292283,0.06201110789444692,False,Right Foot,Open Play,0,0,2,Normal
+3750200,John Arne Semundseth Riise,Liverpool,28.239157211220025,0.07062863628136473,False,Left Foot,Open Play,0,0,1,Normal
+3750200,Steven Gerrard,Liverpool,30.594117081556707,0.05949742380276285,False,Right Foot,Open Play,0,0,1,Normal
+3750200,Clarence Seedorf,AC Milan,22.770595073471405,0.0674629685917258,False,Right Foot,Open Play,1,0,0,Half Volley
+3750200,Filippo Inzaghi,AC Milan,14.410065926289162,0.05244596208105137,True,Right Foot,Open Play,0,0,1,Normal
+3750200,John Arne Semundseth Riise,Liverpool,29.520331976453114,0.07208468484932677,False,Left Foot,Open Play,1,0,1,Normal
+3750200,Peter Crouch,Liverpool,27.26059427085184,0.06337647020115982,False,Right Foot,Open Play,0,1,2,Normal
+3750200,Daniel Munthe Agger,Liverpool,12.15113163454335,0.06096916691970129,False,Head,Open Play,0,0,3,Normal
+3750200,Dirk Kuijt,Liverpool,5.300943312279423,0.05474666050626099,True,Head,Open Play,0,0,2,Normal
+3750200,Steven Gerrard,Liverpool,33.354160160315836,0.06025790367594661,False,Right Foot,Open Play,0,0,1,Half Volley

@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.43908891458578,0.06186287153444684,False,Right Foot,Open Play,1,0,1,Half Volley
-22.172054483064933,0.05961719328220262,False,Right Foot,Open Play,0,0,2,Normal
-20.702173798903342,0.06354597055401524,False,Right Foot,Open Play,0,0,2,Normal
-19.58290070444111,0.06362904158863064,False,Right Foot,Open Play,0,0,2,Normal
-29.308360581922692,0.06793712682125977,False,Right Foot,Open Play,1,0,1,Volley
-35.62372804746858,0.06996639445105184,False,Right Foot,Open Play,0,0,1,Normal
-21.500232556881798,0.06373833575172626,False,Right Foot,Open Play,0,0,2,Normal
-27.67254957534632,0.0634901134953237,False,Right Foot,Open Play,1,0,1,Normal
-7.496665925596531,0.057323693121272876,False,Right Foot,Open Play,0,0,4,Normal
-12.89961239727768,0.05871086457657359,False,Left Foot,Open Play,0,0,2,Normal
-27.240594707164526,0.06895510631585076,False,Right Foot,Open Play,0,1,2,Normal
-17.968861956172965,0.059662936348051455,False,Right Foot,Open Play,1,0,1,Normal
-16.635203635663736,0.05543308198473967,False,Right Foot,Open Play,0,0,3,Normal
-12.70039369468522,0.0599221985173594,True,Right Foot,Open Play,1,0,1,Half Volley
-20.142740627829177,0.0611051291293359,False,Right Foot,Open Play,1,0,0,Half Volley
-18.993156662334986,0.05424810255848738,False,Right Foot,Open Play,0,0,2,Normal
-33.15810609790613,0.06165048096603957,False,Right Foot,Open Play,0,0,0,Normal
-25.622255950637914,0.052276859988006165,False,Right Foot,Open Play,0,0,3,Normal
-19.45096398639409,0.06378098890372762,False,Left Foot,Open Play,1,0,2,Normal
-26.379727064547122,0.053852106798461266,False,Right Foot,Open Play,1,0,1,Half Volley
-32.18462365788981,0.06385042309631847,False,Right Foot,Open Play,0,0,2,Normal
-13.473678042761744,0.057665613965375645,False,Left Foot,Open Play,1,0,1,Normal
-17.253405460951765,0.05500170777107547,False,Left Foot,Open Play,1,0,1,Volley
-20.79639391817726,0.060546549884786326,False,Right Foot,Open Play,1,0,1,Normal
-11.666190466471907,0.054583792012412355,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754213,Sebastian Prödl,Watford,18.43908891458578,0.06186287153444684,False,Right Foot,Open Play,1,0,1,Half Volley
+3754213,Troy Deeney,Watford,22.172054483064933,0.05961719328220262,False,Right Foot,Open Play,0,0,2,Normal
+3754213,Almen Abdi,Watford,20.702173798903342,0.06354597055401524,False,Right Foot,Open Play,0,0,2,Normal
+3754213,Bafétimbi Gomis,Swansea City,19.58290070444111,0.06362904158863064,False,Right Foot,Open Play,0,0,2,Normal
+3754213,Almen Abdi,Watford,29.308360581922692,0.06793712682125977,False,Right Foot,Open Play,1,0,1,Volley
+3754213,Etienne Capoue,Watford,35.62372804746858,0.06996639445105184,False,Right Foot,Open Play,0,0,1,Normal
+3754213,Troy Deeney,Watford,21.500232556881798,0.06373833575172626,False,Right Foot,Open Play,0,0,2,Normal
+3754213,Jonjo Shelvey,Swansea City,27.67254957534632,0.0634901134953237,False,Right Foot,Open Play,1,0,1,Normal
+3754213,Bafétimbi Gomis,Swansea City,7.496665925596531,0.057323693121272876,False,Right Foot,Open Play,0,0,4,Normal
+3754213,Odion Jude Ighalo,Watford,12.89961239727768,0.05871086457657359,False,Left Foot,Open Play,0,0,2,Normal
+3754213,Almen Abdi,Watford,27.240594707164526,0.06895510631585076,False,Right Foot,Open Play,0,1,2,Normal
+3754213,Troy Deeney,Watford,17.968861956172965,0.059662936348051455,False,Right Foot,Open Play,1,0,1,Normal
+3754213,Odion Jude Ighalo,Watford,16.635203635663736,0.05543308198473967,False,Right Foot,Open Play,0,0,3,Normal
+3754213,Odion Jude Ighalo,Watford,12.70039369468522,0.0599221985173594,True,Right Foot,Open Play,1,0,1,Half Volley
+3754213,José Manuel Jurado Marín,Watford,20.142740627829177,0.0611051291293359,False,Right Foot,Open Play,1,0,0,Half Volley
+3754213,Etienne Capoue,Watford,18.993156662334986,0.05424810255848738,False,Right Foot,Open Play,0,0,2,Normal
+3754213,Federico Fernández,Swansea City,33.15810609790613,0.06165048096603957,False,Right Foot,Open Play,0,0,0,Normal
+3754213,Etienne Capoue,Watford,25.622255950637914,0.052276859988006165,False,Right Foot,Open Play,0,0,3,Normal
+3754213,Jefferson Antonio Montero Vite,Swansea City,19.45096398639409,0.06378098890372762,False,Left Foot,Open Play,1,0,2,Normal
+3754213,José Manuel Jurado Marín,Watford,26.379727064547122,0.053852106798461266,False,Right Foot,Open Play,1,0,1,Half Volley
+3754213,Jonjo Shelvey,Swansea City,32.18462365788981,0.06385042309631847,False,Right Foot,Open Play,0,0,2,Normal
+3754213,Steven Berghuis,Watford,13.473678042761744,0.057665613965375645,False,Left Foot,Open Play,1,0,1,Normal
+3754213,Steven Berghuis,Watford,17.253405460951765,0.05500170777107547,False,Left Foot,Open Play,1,0,1,Volley
+3754213,Jonjo Shelvey,Swansea City,20.79639391817726,0.060546549884786326,False,Right Foot,Open Play,1,0,1,Normal
+3754213,Federico Fernández,Swansea City,11.666190466471907,0.054583792012412355,False,Head,Open Play,0,0,2,Normal

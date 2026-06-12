@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.452291998864414,0.06759253914060923,False,Right Foot,Open Play,1,0,0,Half Volley
-7.930952023559346,0.057684042867418156,False,Right Foot,Open Play,1,0,2,Normal
-10.57591603597532,0.05970095442719788,True,Head,Open Play,0,1,4,Normal
-25.079872407968907,0.06497191126090332,False,Left Foot,Open Play,1,0,1,Volley
-24.83404920668395,0.06597426633787605,False,Right Foot,Open Play,0,0,2,Normal
-27.892651361962706,0.06988985867582403,False,Right Foot,Open Play,0,0,2,Normal
-19.675873551128547,0.05527206969425918,False,Right Foot,Open Play,1,0,1,Normal
-22.190313201935652,0.06496763815306121,False,Right Foot,Open Play,0,0,2,Normal
-31.828446396266344,0.07282868946856774,False,Right Foot,Open Play,1,0,1,Normal
-12.90310040261642,0.06093819993394543,False,Head,Open Play,0,1,3,Normal
-27.986603938313056,0.061616272358505454,False,Left Foot,Free Kick,0,0,0,Normal
-23.97018981985749,0.06144543198102078,False,Left Foot,Open Play,1,1,1,Half Volley
-17.431580536486067,0.05557205309704893,True,Right Foot,Open Play,0,0,1,Normal
-11.69273278579478,0.06024512261485374,True,Head,Open Play,0,1,3,Normal
-32.395678724175546,0.05650853346241724,False,Right Foot,Open Play,0,0,1,Normal
-12.570600622086435,0.05707043656834303,True,Left Foot,Open Play,0,0,1,Normal
-30.22482423439382,0.05615286196819739,False,Right Foot,Open Play,0,0,2,Normal
-5.5217750769114105,0.05752481384871035,False,Head,Open Play,0,0,7,Normal
-16.9118301789014,0.05762184638895694,True,Right Foot,Open Play,0,0,1,Normal
-19.642046736529267,0.059556714392524766,False,Left Foot,Open Play,0,1,2,Normal
-5.953990258641681,0.0559413688568196,False,Right Foot,Open Play,1,1,4,Half Volley
-10.43886967061089,0.05717221257070321,False,Head,Open Play,0,1,2,Normal
-30.267639485100258,0.06008713770062504,False,Right Foot,Open Play,1,0,1,Half Volley
-15.16443206981389,0.06231573887322963,False,Right Foot,Open Play,0,0,2,Normal
-18.544271352630705,0.06105178673949124,False,Right Foot,Open Play,1,0,0,Half Volley
-12.714165328483025,0.05459568413169047,False,Other,Open Play,0,0,1,Normal
-18.096684779262752,0.057487512368116535,True,Right Foot,Open Play,0,0,2,Normal
-20.862646045025066,0.054553929804611274,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879847,Marco Benassi,Torino,23.452291998864414,0.06759253914060923,False,Right Foot,Open Play,1,0,0,Half Volley
+3879847,Ryder Matos Santos,Udinese,7.930952023559346,0.057684042867418156,False,Right Foot,Open Play,1,0,2,Normal
+3879847,Pontus Jansson,Torino,10.57591603597532,0.05970095442719788,True,Head,Open Play,0,1,4,Normal
+3879847,Ali Adnan Kadhim Al Tameemi,Udinese,25.079872407968907,0.06497191126090332,False,Left Foot,Open Play,1,0,1,Volley
+3879847,Bruno Miguel Borges Fernandes,Udinese,24.83404920668395,0.06597426633787605,False,Right Foot,Open Play,0,0,2,Normal
+3879847,Bruno da Silva Peres,Torino,27.892651361962706,0.06988985867582403,False,Right Foot,Open Play,0,0,2,Normal
+3879847,Josef Alexander Martínez Mencia,Torino,19.675873551128547,0.05527206969425918,False,Right Foot,Open Play,1,0,1,Normal
+3879847,Marco Benassi,Torino,22.190313201935652,0.06496763815306121,False,Right Foot,Open Play,0,0,2,Normal
+3879847,Bruno Miguel Borges Fernandes,Udinese,31.828446396266344,0.07282868946856774,False,Right Foot,Open Play,1,0,1,Normal
+3879847,Pontus Jansson,Torino,12.90310040261642,0.06093819993394543,False,Head,Open Play,0,1,3,Normal
+3879847,Gastón Alexis Silva Perdomo,Torino,27.986603938313056,0.061616272358505454,False,Left Foot,Free Kick,0,0,0,Normal
+3879847,Gastón Alexis Silva Perdomo,Torino,23.97018981985749,0.06144543198102078,False,Left Foot,Open Play,1,1,1,Half Volley
+3879847,Afriyie Acquah,Torino,17.431580536486067,0.05557205309704893,True,Right Foot,Open Play,0,0,1,Normal
+3879847,Felipe Dias da Silva dal Belo,Udinese,11.69273278579478,0.06024512261485374,True,Head,Open Play,0,1,3,Normal
+3879847,Cesare Bovo,Torino,32.395678724175546,0.05650853346241724,False,Right Foot,Open Play,0,0,1,Normal
+3879847,Josef Alexander Martínez Mencia,Torino,12.570600622086435,0.05707043656834303,True,Left Foot,Open Play,0,0,1,Normal
+3879847,Thomas Heurtaux,Udinese,30.22482423439382,0.05615286196819739,False,Right Foot,Open Play,0,0,2,Normal
+3879847,Cyril Théréau,Udinese,5.5217750769114105,0.05752481384871035,False,Head,Open Play,0,0,7,Normal
+3879847,Andrea Belotti,Torino,16.9118301789014,0.05762184638895694,True,Right Foot,Open Play,0,0,1,Normal
+3879847,Bruno Miguel Borges Fernandes,Udinese,19.642046736529267,0.059556714392524766,False,Left Foot,Open Play,0,1,2,Normal
+3879847,Felipe Dias da Silva dal Belo,Udinese,5.953990258641681,0.0559413688568196,False,Right Foot,Open Play,1,1,4,Half Volley
+3879847,Stipe Perica,Udinese,10.43886967061089,0.05717221257070321,False,Head,Open Play,0,1,2,Normal
+3879847,Bruno Miguel Borges Fernandes,Udinese,30.267639485100258,0.06008713770062504,False,Right Foot,Open Play,1,0,1,Half Volley
+3879847,Josef Alexander Martínez Mencia,Torino,15.16443206981389,0.06231573887322963,False,Right Foot,Open Play,0,0,2,Normal
+3879847,Cyril Théréau,Udinese,18.544271352630705,0.06105178673949124,False,Right Foot,Open Play,1,0,0,Half Volley
+3879847,Cesare Bovo,Torino,12.714165328483025,0.05459568413169047,False,Other,Open Play,0,0,1,Normal
+3879847,Josef Alexander Martínez Mencia,Torino,18.096684779262752,0.057487512368116535,True,Right Foot,Open Play,0,0,2,Normal
+3879847,Cyril Théréau,Udinese,20.862646045025066,0.054553929804611274,False,Right Foot,Open Play,1,0,1,Half Volley

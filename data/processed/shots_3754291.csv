@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.236679654819888,0.060201099300584135,False,Right Foot,Open Play,0,0,1,Half Volley
-32.52952505032928,0.06739040081210067,False,Left Foot,Open Play,1,0,1,Normal
-20.10198995124612,0.06463836281364056,True,Left Foot,Open Play,0,1,2,Normal
-17.93348822733603,0.06431609370542522,False,Left Foot,Open Play,0,0,2,Volley
-10.492378186092992,0.059963298571188296,False,Left Foot,Open Play,1,0,2,Volley
-31.698738145232216,0.07360932734817846,False,Right Foot,Open Play,0,0,2,Normal
-31.310221973023445,0.07327122479915564,False,Right Foot,Open Play,0,1,2,Normal
-33.163986491373436,0.06634779984836976,False,Right Foot,Open Play,0,0,2,Normal
-29.282759432813027,0.0686961009207785,False,Right Foot,Open Play,0,0,1,Normal
-6.363961030678924,0.05756135032796203,True,Right Foot,Open Play,0,0,3,Normal
-29.200684923473972,0.06761320701793766,False,Right Foot,Open Play,0,0,1,Half Volley
-16.042443704124384,0.05382033997359445,False,Right Foot,Open Play,1,0,2,Half Volley
-7.9479557120054505,0.05675992521151676,False,Head,Open Play,0,1,2,Normal
-32.812497619047534,0.0568604535998791,False,Left Foot,Open Play,0,0,1,Normal
-16.352675622050363,0.06310072583627017,False,Right Foot,Open Play,1,0,2,Volley
-12.298373876248837,0.05883110597878144,False,Right Foot,Open Play,1,0,4,Normal
-8.919641248391102,0.05341593919592001,True,Right Foot,Open Play,0,0,3,Backheel
-12.231925441237783,0.060478992569467004,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754291,Etienne Capoue,Watford,25.236679654819888,0.060201099300584135,False,Right Foot,Open Play,0,0,1,Half Volley
+3754291,Etienne Capoue,Watford,32.52952505032928,0.06739040081210067,False,Left Foot,Open Play,1,0,1,Normal
+3754291,Erik Lamela,Tottenham Hotspur,20.10198995124612,0.06463836281364056,True,Left Foot,Open Play,0,1,2,Normal
+3754291,Erik Lamela,Tottenham Hotspur,17.93348822733603,0.06431609370542522,False,Left Foot,Open Play,0,0,2,Volley
+3754291,Odion Jude Ighalo,Watford,10.492378186092992,0.059963298571188296,False,Left Foot,Open Play,1,0,2,Volley
+3754291,Bamidele Alli,Tottenham Hotspur,31.698738145232216,0.07360932734817846,False,Right Foot,Open Play,0,0,2,Normal
+3754291,Harry Kane,Tottenham Hotspur,31.310221973023445,0.07327122479915564,False,Right Foot,Open Play,0,1,2,Normal
+3754291,José Manuel Jurado Marín,Watford,33.163986491373436,0.06634779984836976,False,Right Foot,Open Play,0,0,2,Normal
+3754291,Almen Abdi,Watford,29.282759432813027,0.0686961009207785,False,Right Foot,Open Play,0,0,1,Normal
+3754291,Odion Jude Ighalo,Watford,6.363961030678924,0.05756135032796203,True,Right Foot,Open Play,0,0,3,Normal
+3754291,Kieran Trippier,Tottenham Hotspur,29.200684923473972,0.06761320701793766,False,Right Foot,Open Play,0,0,1,Half Volley
+3754291,Harry Kane,Tottenham Hotspur,16.042443704124384,0.05382033997359445,False,Right Foot,Open Play,1,0,2,Half Volley
+3754291,Harry Kane,Tottenham Hotspur,7.9479557120054505,0.05675992521151676,False,Head,Open Play,0,1,2,Normal
+3754291,Toby Alderweireld,Tottenham Hotspur,32.812497619047534,0.0568604535998791,False,Left Foot,Open Play,0,0,1,Normal
+3754291,Troy Deeney,Watford,16.352675622050363,0.06310072583627017,False,Right Foot,Open Play,1,0,2,Volley
+3754291,Troy Deeney,Watford,12.298373876248837,0.05883110597878144,False,Right Foot,Open Play,1,0,4,Normal
+3754291,Heung-Min Son,Tottenham Hotspur,8.919641248391102,0.05341593919592001,True,Right Foot,Open Play,0,0,3,Backheel
+3754291,Troy Deeney,Watford,12.231925441237783,0.060478992569467004,False,Right Foot,Open Play,1,0,2,Normal

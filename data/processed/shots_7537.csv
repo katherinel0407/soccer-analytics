@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.0710678118654755,0.05787344747263225,False,Right Foot,Open Play,0,0,2,Normal
-12.041594578792296,0.05923032748333684,False,Head,Open Play,0,0,3,Normal
-23.345235059857504,0.06631361104475335,False,Right Foot,Open Play,0,0,2,Normal
-10.63014581273465,0.05556432052775868,False,Head,Open Play,0,0,2,Normal
-7.211102550927978,0.05452150131035393,True,Right Foot,Open Play,0,0,4,Volley
-27.202941017470888,0.061762316676990885,False,Right Foot,Open Play,1,0,1,Volley
-34.66987164671943,0.07634121627735525,False,Right Foot,Open Play,0,0,1,Normal
-10.770329614269007,0.053210782349370274,False,Right Foot,Open Play,0,0,2,Half Volley
-22.80350850198276,0.06120170224849951,False,Right Foot,Open Play,0,0,2,Normal
-12.649110640673518,0.06098738942947037,False,Head,Open Play,0,0,1,Normal
-20.12461179749811,0.05180025690508718,False,Head,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-7.280109889280518,0.05353324420336946,False,Head,Open Play,0,0,5,Normal
-4.242640687119285,0.05686534725156365,False,Right Foot,Open Play,1,0,4,Overhead Kick
-6.082762530298219,0.057472679332615344,False,Left Foot,Open Play,1,0,2,Normal
-14.035668847618199,0.060059716124531,False,Left Foot,Open Play,1,0,1,Half Volley
-18.439088914585774,0.05421889410487359,False,Right Foot,Open Play,1,0,1,Half Volley
-8.0,0.05795378045521751,False,Head,Open Play,0,1,6,Normal
-14.0,0.060438191179105843,False,Head,Open Play,0,0,3,Normal
-29.966648127543394,0.07256735956053746,False,Right Foot,Free Kick,0,0,0,Normal
-24.413111231467404,0.05229934041854009,False,Right Foot,Open Play,0,0,3,Normal
-27.16615541441225,0.06483847445321567,False,Left Foot,Open Play,0,0,2,Normal
-24.73863375370596,0.06773547177450513,False,Right Foot,Free Kick,0,0,0,Normal
-5.656854249492381,0.057548353589171,True,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7537,Jesse Lingard,England,7.0710678118654755,0.05787344747263225,False,Right Foot,Open Play,0,0,2,Normal
+7537,Harry Maguire,England,12.041594578792296,0.05923032748333684,False,Head,Open Play,0,0,3,Normal
+7537,Harry Kane,England,23.345235059857504,0.06631361104475335,False,Right Foot,Open Play,0,0,2,Normal
+7537,John Stones,England,10.63014581273465,0.05556432052775868,False,Head,Open Play,0,0,2,Normal
+7537,Harry Kane,England,7.211102550927978,0.05452150131035393,True,Right Foot,Open Play,0,0,4,Volley
+7537,Jordan Brian Henderson,England,27.202941017470888,0.061762316676990885,False,Right Foot,Open Play,1,0,1,Volley
+7537,Naïm Sliti,Tunisia,34.66987164671943,0.07634121627735525,False,Right Foot,Open Play,0,0,1,Normal
+7537,Jesse Lingard,England,10.770329614269007,0.053210782349370274,False,Right Foot,Open Play,0,0,2,Half Volley
+7537,Ferjani Sassi,Tunisia,22.80350850198276,0.06120170224849951,False,Right Foot,Open Play,0,0,2,Normal
+7537,Fakhreddine Ben Youssef,Tunisia,12.649110640673518,0.06098738942947037,False,Head,Open Play,0,0,1,Normal
+7537,Harry Maguire,England,20.12461179749811,0.05180025690508718,False,Head,Open Play,0,0,1,Normal
+7537,Ferjani Sassi,Tunisia,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+7537,Bamidele Alli,England,7.280109889280518,0.05353324420336946,False,Head,Open Play,0,0,5,Normal
+7537,Raheem Sterling,England,4.242640687119285,0.05686534725156365,False,Right Foot,Open Play,1,0,4,Overhead Kick
+7537,John Stones,England,6.082762530298219,0.057472679332615344,False,Left Foot,Open Play,1,0,2,Normal
+7537,Jesse Lingard,England,14.035668847618199,0.060059716124531,False,Left Foot,Open Play,1,0,1,Half Volley
+7537,Jesse Lingard,England,18.439088914585774,0.05421889410487359,False,Right Foot,Open Play,1,0,1,Half Volley
+7537,Bamidele Alli,England,8.0,0.05795378045521751,False,Head,Open Play,0,1,6,Normal
+7537,John Stones,England,14.0,0.060438191179105843,False,Head,Open Play,0,0,3,Normal
+7537,Kieran Trippier,England,29.966648127543394,0.07256735956053746,False,Right Foot,Free Kick,0,0,0,Normal
+7537,Wahbi Khazri,Tunisia,24.413111231467404,0.05229934041854009,False,Right Foot,Open Play,0,0,3,Normal
+7537,Naïm Sliti,Tunisia,27.16615541441225,0.06483847445321567,False,Left Foot,Open Play,0,0,2,Normal
+7537,Ashley Young,England,24.73863375370596,0.06773547177450513,False,Right Foot,Free Kick,0,0,0,Normal
+7537,Harry Kane,England,5.656854249492381,0.057548353589171,True,Head,Open Play,0,0,3,Normal

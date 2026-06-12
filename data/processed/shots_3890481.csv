@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.760966559241147,0.06304738606194374,False,Right Foot,Open Play,0,1,5,Normal
-16.800297616411434,0.05939963666773008,False,Right Foot,Open Play,1,0,0,Half Volley
-25.864454372748718,0.06940603246599862,False,Right Foot,Open Play,0,0,2,Normal
-16.493938280471404,0.05465465664044407,False,Right Foot,Open Play,0,1,1,Normal
-8.2565125809872,0.05746324836749711,False,Left Foot,Open Play,1,0,2,Volley
-15.532224567009061,0.05449413193653218,False,Left Foot,Open Play,0,0,2,Normal
-18.02942040111107,0.06440248769710097,False,Left Foot,Open Play,0,0,0,Normal
-17.216561793807724,0.06258784568077182,False,Right Foot,Open Play,0,1,3,Normal
-11.217842929904128,0.059935149559259646,False,Head,Open Play,0,1,3,Normal
-54.7,0.08151797175926441,False,Right Foot,Open Play,0,0,0,Normal
-25.91466766138436,0.05541046749862645,False,Left Foot,Open Play,0,0,1,Normal
-20.554318281081475,0.06149260648891558,False,Left Foot,Open Play,0,0,2,Normal
-16.900887550658396,0.0636528599503296,False,Left Foot,Open Play,0,1,2,Half Volley
-26.184346468835148,0.06489865419929222,False,Right Foot,Open Play,1,0,0,Normal
-25.73285837212804,0.06512177417571663,False,Left Foot,Open Play,0,1,2,Normal
-8.070935509592431,0.058500295395056835,False,Head,Open Play,0,1,3,Normal
-18.102486017119308,0.06411149809897018,False,Left Foot,Open Play,0,0,1,Normal
-24.608941464435237,0.05448305032069403,False,Right Foot,Open Play,0,0,1,Half Volley
-10.04041831797859,0.05845326717488585,False,Right Foot,Open Play,1,1,4,Half Volley
-19.66367208839692,0.0560988588279651,False,Right Foot,Open Play,0,1,2,Half Volley
-15.673225577397902,0.05925170848430182,False,Left Foot,Open Play,1,0,2,Normal
-7.516648189186452,0.058531803953026894,False,Head,Open Play,0,0,2,Normal
-26.407006645964252,0.06766405897391758,False,Right Foot,Open Play,0,1,1,Normal
-62.31733306231903,0.09287989095135066,False,Right Foot,Open Play,0,0,0,Lob
-25.100199202396784,0.05700051944119182,False,Right Foot,Open Play,0,0,2,Normal
-20.32978111047927,0.06274552347718214,False,Left Foot,Open Play,0,0,1,Normal
-14.046351839534701,0.0616832065688557,False,Head,Open Play,0,0,0,Diving Header
-20.796634343085422,0.06612797803933498,False,Right Foot,Open Play,1,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890481,Marco Reus,Borussia Dortmund,16.760966559241147,0.06304738606194374,False,Right Foot,Open Play,0,1,5,Normal
+3890481,Thomas Müller,Bayern Munich,16.800297616411434,0.05939963666773008,False,Right Foot,Open Play,1,0,0,Half Volley
+3890481,Douglas Costa de Souza,Bayern Munich,25.864454372748718,0.06940603246599862,False,Right Foot,Open Play,0,0,2,Normal
+3890481,Pierre-Emerick Aubameyang,Borussia Dortmund,16.493938280471404,0.05465465664044407,False,Right Foot,Open Play,0,1,1,Normal
+3890481,Arturo Erasmo Vidal Pardo,Bayern Munich,8.2565125809872,0.05746324836749711,False,Left Foot,Open Play,1,0,2,Volley
+3890481,Erik Durm,Borussia Dortmund,15.532224567009061,0.05449413193653218,False,Left Foot,Open Play,0,0,2,Normal
+3890481,Douglas Costa de Souza,Bayern Munich,18.02942040111107,0.06440248769710097,False,Left Foot,Open Play,0,0,0,Normal
+3890481,Robert Lewandowski,Bayern Munich,17.216561793807724,0.06258784568077182,False,Right Foot,Open Play,0,1,3,Normal
+3890481,Thomas Müller,Bayern Munich,11.217842929904128,0.059935149559259646,False,Head,Open Play,0,1,3,Normal
+3890481,Marco Reus,Borussia Dortmund,54.7,0.08151797175926441,False,Right Foot,Open Play,0,0,0,Normal
+3890481,Arjen Robben,Bayern Munich,25.91466766138436,0.05541046749862645,False,Left Foot,Open Play,0,0,1,Normal
+3890481,Arjen Robben,Bayern Munich,20.554318281081475,0.06149260648891558,False,Left Foot,Open Play,0,0,2,Normal
+3890481,Pierre-Emerick Aubameyang,Borussia Dortmund,16.900887550658396,0.0636528599503296,False,Left Foot,Open Play,0,1,2,Half Volley
+3890481,Henrikh Mkhitaryan,Borussia Dortmund,26.184346468835148,0.06489865419929222,False,Right Foot,Open Play,1,0,0,Normal
+3890481,Arjen Robben,Bayern Munich,25.73285837212804,0.06512177417571663,False,Left Foot,Open Play,0,1,2,Normal
+3890481,Arturo Erasmo Vidal Pardo,Bayern Munich,8.070935509592431,0.058500295395056835,False,Head,Open Play,0,1,3,Normal
+3890481,Arjen Robben,Bayern Munich,18.102486017119308,0.06411149809897018,False,Left Foot,Open Play,0,0,1,Normal
+3890481,Marco Reus,Borussia Dortmund,24.608941464435237,0.05448305032069403,False,Right Foot,Open Play,0,0,1,Half Volley
+3890481,Arturo Erasmo Vidal Pardo,Bayern Munich,10.04041831797859,0.05845326717488585,False,Right Foot,Open Play,1,1,4,Half Volley
+3890481,Pierre-Emerick Aubameyang,Borussia Dortmund,19.66367208839692,0.0560988588279651,False,Right Foot,Open Play,0,1,2,Half Volley
+3890481,Arjen Robben,Bayern Munich,15.673225577397902,0.05925170848430182,False,Left Foot,Open Play,1,0,2,Normal
+3890481,Pierre-Emerick Aubameyang,Borussia Dortmund,7.516648189186452,0.058531803953026894,False,Head,Open Play,0,0,2,Normal
+3890481,Arturo Erasmo Vidal Pardo,Bayern Munich,26.407006645964252,0.06766405897391758,False,Right Foot,Open Play,0,1,1,Normal
+3890481,Xabier Alonso Olano,Bayern Munich,62.31733306231903,0.09287989095135066,False,Right Foot,Open Play,0,0,0,Lob
+3890481,Henrikh Mkhitaryan,Borussia Dortmund,25.100199202396784,0.05700051944119182,False,Right Foot,Open Play,0,0,2,Normal
+3890481,Thomas Müller,Bayern Munich,20.32978111047927,0.06274552347718214,False,Left Foot,Open Play,0,0,1,Normal
+3890481,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,14.046351839534701,0.0616832065688557,False,Head,Open Play,0,0,0,Diving Header
+3890481,Thomas Müller,Bayern Munich,20.796634343085422,0.06612797803933498,False,Right Foot,Open Play,1,1,2,Half Volley

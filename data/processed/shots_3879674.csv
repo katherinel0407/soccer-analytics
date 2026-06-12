@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.66810073932349,0.06228769214801569,False,Left Foot,Open Play,0,1,1,Normal
-12.790621564255582,0.053295563492701294,False,Right Foot,Open Play,0,0,0,Normal
-8.78464569575802,0.056853675004755834,False,Head,Open Play,0,1,4,Normal
-12.488794977899195,0.05748105283798596,False,Head,Open Play,0,1,1,Normal
-27.43665431498528,0.06906731877329786,False,Left Foot,Open Play,1,0,1,Volley
-31.06187373614155,0.058375485748888324,False,Left Foot,Open Play,0,0,1,Normal
-14.638647478507021,0.06222400536648789,False,Right Foot,Open Play,1,0,0,Normal
-12.106196760337244,0.05901146519185539,False,Right Foot,Open Play,0,1,2,Half Volley
-22.881652038259823,0.057041659012675855,False,Right Foot,Open Play,1,0,0,Half Volley
-14.008925726121905,0.06200709348066755,False,Left Foot,Open Play,1,1,2,Normal
-25.188290930509762,0.06721590348500832,False,Right Foot,Open Play,0,0,2,Normal
-21.176638071233114,0.06439330222960424,False,Right Foot,Open Play,0,1,3,Normal
-6.530696746902282,0.05797909266377403,False,Right Foot,Open Play,1,0,3,Normal
-7.161005515987261,0.05573918999551707,False,Left Foot,Open Play,1,1,2,Volley
-9.433981132056601,0.05938142871573872,False,Right Foot,Open Play,0,1,3,Half Volley
-8.500588214941365,0.058187605609831806,False,Right Foot,Open Play,1,1,5,Half Volley
-30.449466333582926,0.06294778263418216,False,Right Foot,Free Kick,0,0,0,Normal
-9.745255255764208,0.055739824540058394,False,Head,Open Play,0,0,2,Normal
-19.423954283306994,0.06516057451481796,False,Right Foot,Open Play,0,1,2,Normal
-10.456098698845572,0.059624719970120886,False,Head,Open Play,0,0,2,Normal
-23.769728648009426,0.06160232611903666,False,Right Foot,Open Play,0,1,3,Normal
-22.749505489130964,0.06204284009528063,False,Right Foot,Open Play,0,0,1,Normal
-13.669308687713508,0.053494458771887125,False,Left Foot,Open Play,0,1,1,Normal
-13.103434664239748,0.05994418354418515,False,Right Foot,Open Play,0,1,2,Normal
-8.57962703152066,0.05905503036299102,True,Right Foot,Open Play,0,0,2,Half Volley
-32.818439938546746,0.07441772213721821,False,Right Foot,Open Play,0,1,2,Normal
-17.397126199461795,0.06377858029920505,False,Right Foot,Open Play,0,0,1,Normal
-11.469088891450795,0.060553664916118806,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879674,Amadou Diawara,Bologna,28.66810073932349,0.06228769214801569,False,Left Foot,Open Play,0,1,1,Normal
+3879674,M''Baye Babacar Niang,AC Milan,12.790621564255582,0.053295563492701294,False,Right Foot,Open Play,0,0,0,Normal
+3879674,Alex Rodrigo Dias da Costa,AC Milan,8.78464569575802,0.056853675004755834,False,Head,Open Play,0,1,4,Normal
+3879674,Carlos Arturo Bacca Ahumada,AC Milan,12.488794977899195,0.05748105283798596,False,Head,Open Play,0,1,1,Normal
+3879674,Riccardo Montolivo,AC Milan,27.43665431498528,0.06906731877329786,False,Left Foot,Open Play,1,0,1,Volley
+3879674,Keisuke Honda,AC Milan,31.06187373614155,0.058375485748888324,False,Left Foot,Open Play,0,0,1,Normal
+3879674,Giacomo Bonaventura,AC Milan,14.638647478507021,0.06222400536648789,False,Right Foot,Open Play,1,0,0,Normal
+3879674,Carlos Arturo Bacca Ahumada,AC Milan,12.106196760337244,0.05901146519185539,False,Right Foot,Open Play,0,1,2,Half Volley
+3879674,M''Baye Babacar Niang,AC Milan,22.881652038259823,0.057041659012675855,False,Right Foot,Open Play,1,0,0,Half Volley
+3879674,Emanuele Giaccherini,Bologna,14.008925726121905,0.06200709348066755,False,Left Foot,Open Play,1,1,2,Normal
+3879674,Amadou Diawara,Bologna,25.188290930509762,0.06721590348500832,False,Right Foot,Open Play,0,0,2,Normal
+3879674,M''Baye Babacar Niang,AC Milan,21.176638071233114,0.06439330222960424,False,Right Foot,Open Play,0,1,3,Normal
+3879674,M''Baye Babacar Niang,AC Milan,6.530696746902282,0.05797909266377403,False,Right Foot,Open Play,1,0,3,Normal
+3879674,Keisuke Honda,AC Milan,7.161005515987261,0.05573918999551707,False,Left Foot,Open Play,1,1,2,Volley
+3879674,Carlos Arturo Bacca Ahumada,AC Milan,9.433981132056601,0.05938142871573872,False,Right Foot,Open Play,0,1,3,Half Volley
+3879674,Carlos Arturo Bacca Ahumada,AC Milan,8.500588214941365,0.058187605609831806,False,Right Foot,Open Play,1,1,5,Half Volley
+3879674,Giacomo Bonaventura,AC Milan,30.449466333582926,0.06294778263418216,False,Right Foot,Free Kick,0,0,0,Normal
+3879674,Alex Rodrigo Dias da Costa,AC Milan,9.745255255764208,0.055739824540058394,False,Head,Open Play,0,0,2,Normal
+3879674,Giacomo Bonaventura,AC Milan,19.423954283306994,0.06516057451481796,False,Right Foot,Open Play,0,1,2,Normal
+3879674,Alex Rodrigo Dias da Costa,AC Milan,10.456098698845572,0.059624719970120886,False,Head,Open Play,0,0,2,Normal
+3879674,Matteo Brighi,Bologna,23.769728648009426,0.06160232611903666,False,Right Foot,Open Play,0,1,3,Normal
+3879674,Emanuele Giaccherini,Bologna,22.749505489130964,0.06204284009528063,False,Right Foot,Open Play,0,0,1,Normal
+3879674,Alessio Cerci,AC Milan,13.669308687713508,0.053494458771887125,False,Left Foot,Open Play,0,1,1,Normal
+3879674,Mattia Destro,Bologna,13.103434664239748,0.05994418354418515,False,Right Foot,Open Play,0,1,2,Normal
+3879674,Emanuele Giaccherini,Bologna,8.57962703152066,0.05905503036299102,True,Right Foot,Open Play,0,0,2,Half Volley
+3879674,Mattia De Sciglio,AC Milan,32.818439938546746,0.07441772213721821,False,Right Foot,Open Play,0,1,2,Normal
+3879674,Mattia Destro,Bologna,17.397126199461795,0.06377858029920505,False,Right Foot,Open Play,0,0,1,Normal
+3879674,Mattia Destro,Bologna,11.469088891450795,0.060553664916118806,False,Right Foot,Open Play,1,0,2,Normal

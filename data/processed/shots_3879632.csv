@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.980445855350613,0.06685693787658442,False,Right Foot,Open Play,1,0,0,Half Volley
-25.94706149065825,0.06818623379505181,False,Left Foot,Open Play,0,1,2,Normal
-34.53708152117083,0.06444566987579492,False,Right Foot,Open Play,1,0,0,Half Volley
-16.728717822953435,0.05361463407891872,False,Right Foot,Open Play,0,1,2,Normal
-12.461540835707275,0.057630873561534596,False,Head,Open Play,0,1,2,Normal
-15.814550262337525,0.06266903799494956,False,Right Foot,Open Play,1,0,3,Half Volley
-28.04728150819612,0.06439681362348647,False,Left Foot,Open Play,1,0,0,Normal
-12.366486970841798,0.060795900331473626,False,Right Foot,Open Play,1,1,2,Overhead Kick
-22.35799633240868,0.06689685010311518,True,Right Foot,Open Play,0,0,1,Normal
-26.128337107439503,0.05263841666950483,False,Right Foot,Open Play,0,0,1,Half Volley
-37.375125417849766,0.06520117804466802,False,Right Foot,Open Play,0,0,1,Half Volley
-20.603883129157957,0.06354355257625896,False,Right Foot,Open Play,1,0,1,Half Volley
-9.48103369891701,0.059549443538907065,False,Head,Open Play,0,0,3,Normal
-11.469088891450795,0.060414049158873544,False,Right Foot,Open Play,1,0,1,Half Volley
-28.0,0.06690491840941816,False,Right Foot,Open Play,0,1,1,Normal
-20.181674856165923,0.060179800564915745,False,Right Foot,Open Play,1,1,2,Normal
-14.358969322343436,0.06105518776670355,False,Right Foot,Open Play,0,0,2,Normal
-25.468608128439218,0.068531503913884,False,Right Foot,Free Kick,0,0,0,Normal
-27.08966592632697,0.06468743167440612,False,Right Foot,Open Play,0,1,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-7.433034373659248,0.058289810024805766,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879632,Jasmin Kurtič,Atalanta,21.980445855350613,0.06685693787658442,False,Right Foot,Open Play,1,0,0,Half Volley
+3879632,Edin Džeko,AS Roma,25.94706149065825,0.06818623379505181,False,Left Foot,Open Play,0,1,2,Normal
+3879632,Alessandro Florenzi,AS Roma,34.53708152117083,0.06444566987579492,False,Right Foot,Open Play,1,0,0,Half Volley
+3879632,Miralem Pjanić,AS Roma,16.728717822953435,0.05361463407891872,False,Right Foot,Open Play,0,1,2,Normal
+3879632,Konstantinos Manolas,AS Roma,12.461540835707275,0.057630873561534596,False,Head,Open Play,0,1,2,Normal
+3879632,Edin Džeko,AS Roma,15.814550262337525,0.06266903799494956,False,Right Foot,Open Play,1,0,3,Half Volley
+3879632,Juan Manuel Iturbe Arévalo,AS Roma,28.04728150819612,0.06439681362348647,False,Left Foot,Open Play,1,0,0,Normal
+3879632,Konstantinos Manolas,AS Roma,12.366486970841798,0.060795900331473626,False,Right Foot,Open Play,1,1,2,Overhead Kick
+3879632,Alejandro Darío Gómez,Atalanta,22.35799633240868,0.06689685010311518,True,Right Foot,Open Play,0,0,1,Normal
+3879632,Alessandro Florenzi,AS Roma,26.128337107439503,0.05263841666950483,False,Right Foot,Open Play,0,0,1,Half Volley
+3879632,Konstantinos Manolas,AS Roma,37.375125417849766,0.06520117804466802,False,Right Foot,Open Play,0,0,1,Half Volley
+3879632,Daniele De Rossi,AS Roma,20.603883129157957,0.06354355257625896,False,Right Foot,Open Play,1,0,1,Half Volley
+3879632,Miralem Pjanić,AS Roma,9.48103369891701,0.059549443538907065,False,Head,Open Play,0,0,3,Normal
+3879632,Miralem Pjanić,AS Roma,11.469088891450795,0.060414049158873544,False,Right Foot,Open Play,1,0,1,Half Volley
+3879632,Juan Manuel Iturbe Arévalo,AS Roma,28.0,0.06690491840941816,False,Right Foot,Open Play,0,1,1,Normal
+3879632,Radja Nainggolan,AS Roma,20.181674856165923,0.060179800564915745,False,Right Foot,Open Play,1,1,2,Normal
+3879632,Maximiliano Nicol Moralez,Atalanta,14.358969322343436,0.06105518776670355,False,Right Foot,Open Play,0,0,2,Normal
+3879632,Miralem Pjanić,AS Roma,25.468608128439218,0.068531503913884,False,Right Foot,Free Kick,0,0,0,Normal
+3879632,Konstantinos Manolas,AS Roma,27.08966592632697,0.06468743167440612,False,Right Foot,Open Play,0,1,3,Normal
+3879632,Germán Gustavo Denis,Atalanta,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879632,Edin Džeko,AS Roma,7.433034373659248,0.058289810024805766,False,Head,Open Play,0,1,4,Normal

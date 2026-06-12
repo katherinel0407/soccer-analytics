@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.76953774296162,0.06809375026804715,False,Left Foot,Open Play,1,0,0,Normal
-8.637129152675676,0.059069238158704185,False,Left Foot,Open Play,1,0,1,Normal
-23.59067612426571,0.06068095478302708,False,Left Foot,Open Play,0,0,2,Normal
-12.840560735419615,0.0609268355445289,False,Right Foot,Open Play,1,0,2,Normal
-9.687620966986678,0.05903759959678153,True,Head,Open Play,0,0,4,Normal
-24.020824298928627,0.06447734515930043,False,Right Foot,Open Play,0,0,1,Normal
-8.376156636548771,0.058977416368769575,False,Head,Open Play,0,0,2,Normal
-12.461942063739503,0.06066540386512017,False,Left Foot,Open Play,1,0,2,Normal
-22.886240407720965,0.05724588796959761,False,Left Foot,Open Play,0,0,1,Normal
-14.900335566691112,0.060786885990060165,False,Left Foot,Open Play,0,0,4,Normal
-13.360014970051493,0.06115556828905923,False,Right Foot,Open Play,1,0,2,Volley
-7.6557168181692825,0.058525383200734325,False,Head,Open Play,0,1,5,Normal
-17.007351351694943,0.06301226713015606,False,Right Foot,Open Play,0,0,4,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-4.66690475583121,0.05706891897307681,True,Left Foot,Open Play,1,0,2,Normal
-11.792370414806346,0.059579467894436536,False,Left Foot,Open Play,0,0,2,Normal
-21.120606051910535,0.06520862396780351,False,Left Foot,Open Play,0,1,2,Normal
-22.983689869122408,0.05434357660843591,False,Left Foot,Open Play,0,0,4,Normal
-19.51614716074871,0.0649534750089245,False,Right Foot,Open Play,0,0,1,Normal
-16.080111939908882,0.0603024801419506,True,Right Foot,Open Play,1,0,3,Normal
-5.597320787662609,0.05743626225032923,False,Right Foot,Open Play,1,1,2,Volley
-14.873466307488643,0.062431228320767224,False,Right Foot,Open Play,1,0,2,Normal
-10.965856099730654,0.057178547706650255,False,Right Foot,Open Play,1,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275117,Inessa Kaagman,Everton LFC,24.76953774296162,0.06809375026804715,False,Left Foot,Open Play,1,0,0,Normal
+2275117,Lia Wälti,Arsenal WFC,8.637129152675676,0.059069238158704185,False,Left Foot,Open Play,1,0,1,Normal
+2275117,Chloe Kelly,Everton LFC,23.59067612426571,0.06068095478302708,False,Left Foot,Open Play,0,0,2,Normal
+2275117,Vivianne Miedema,Arsenal WFC,12.840560735419615,0.0609268355445289,False,Right Foot,Open Play,1,0,2,Normal
+2275117,Vivianne Miedema,Arsenal WFC,9.687620966986678,0.05903759959678153,True,Head,Open Play,0,0,4,Normal
+2275117,Jill Roord,Arsenal WFC,24.020824298928627,0.06447734515930043,False,Right Foot,Open Play,0,0,1,Normal
+2275117,Vivianne Miedema,Arsenal WFC,8.376156636548771,0.058977416368769575,False,Head,Open Play,0,0,2,Normal
+2275117,Danielle van de Donk,Arsenal WFC,12.461942063739503,0.06066540386512017,False,Left Foot,Open Play,1,0,2,Normal
+2275117,Jill Roord,Arsenal WFC,22.886240407720965,0.05724588796959761,False,Left Foot,Open Play,0,0,1,Normal
+2275117,Jill Roord,Arsenal WFC,14.900335566691112,0.060786885990060165,False,Left Foot,Open Play,0,0,4,Normal
+2275117,Megan Finnigan,Everton LFC,13.360014970051493,0.06115556828905923,False,Right Foot,Open Play,1,0,2,Volley
+2275117,Megan Finnigan,Everton LFC,7.6557168181692825,0.058525383200734325,False,Head,Open Play,0,1,5,Normal
+2275117,Danielle van de Donk,Arsenal WFC,17.007351351694943,0.06301226713015606,False,Right Foot,Open Play,0,0,4,Normal
+2275117,Kim Little,Arsenal WFC,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+2275117,Vivianne Miedema,Arsenal WFC,4.66690475583121,0.05706891897307681,True,Left Foot,Open Play,1,0,2,Normal
+2275117,Jill Roord,Arsenal WFC,11.792370414806346,0.059579467894436536,False,Left Foot,Open Play,0,0,2,Normal
+2275117,Inessa Kaagman,Everton LFC,21.120606051910535,0.06520862396780351,False,Left Foot,Open Play,0,1,2,Normal
+2275117,Inessa Kaagman,Everton LFC,22.983689869122408,0.05434357660843591,False,Left Foot,Open Play,0,0,4,Normal
+2275117,Lisa Evans,Arsenal WFC,19.51614716074871,0.0649534750089245,False,Right Foot,Open Play,0,0,1,Normal
+2275117,Chloe Kelly,Everton LFC,16.080111939908882,0.0603024801419506,True,Right Foot,Open Play,1,0,3,Normal
+2275117,Lisa Evans,Arsenal WFC,5.597320787662609,0.05743626225032923,False,Right Foot,Open Play,1,1,2,Volley
+2275117,Danielle van de Donk,Arsenal WFC,14.873466307488643,0.062431228320767224,False,Right Foot,Open Play,1,0,2,Normal
+2275117,Gabrielle George,Everton LFC,10.965856099730654,0.057178547706650255,False,Right Foot,Open Play,1,1,3,Normal

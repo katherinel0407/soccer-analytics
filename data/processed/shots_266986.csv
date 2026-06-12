@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.721720005092372,0.06361606805995959,False,Right Foot,Open Play,0,0,1,Normal
-12.781236246936365,0.06112226645055778,False,Head,Open Play,0,0,4,Normal
-22.910477952238363,0.06756850021194136,False,Right Foot,Open Play,1,0,1,Normal
-21.96474447836806,0.058206616374703424,False,Right Foot,Open Play,1,0,1,Half Volley
-10.818964830333819,0.05960239895735268,False,Head,Open Play,0,1,2,Normal
-18.965231345807513,0.0649734884690067,False,Right Foot,Open Play,1,1,2,Normal
-15.109268678529745,0.062244343303484106,False,Left Foot,Open Play,1,0,1,Normal
-6.706713054842882,0.05799210926299192,True,Right Foot,Open Play,0,0,2,Half Volley
-16.440194646049665,0.06248120351075978,False,Right Foot,Open Play,0,0,2,Volley
-16.633700730745396,0.059116818083427294,False,Left Foot,Open Play,0,0,2,Normal
-19.90602923739439,0.055439063145408196,False,Left Foot,Open Play,1,0,1,Normal
-11.673045875006233,0.0571461732391056,False,Left Foot,Open Play,1,0,1,Normal
-11.985407794480754,0.05933716242270608,False,Left Foot,Open Play,0,0,2,Normal
-14.621901381147385,0.06038914330621046,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266986,Rubén Castro Martín,Real Betis,23.721720005092372,0.06361606805995959,False,Right Foot,Open Play,0,0,1,Normal
+266986,Bruno González Cabrera,Real Betis,12.781236246936365,0.06112226645055778,False,Head,Open Play,0,0,4,Normal
+266986,Andrés Iniesta Luján,Barcelona,22.910477952238363,0.06756850021194136,False,Right Foot,Open Play,1,0,1,Normal
+266986,Ivan Rakitić,Barcelona,21.96474447836806,0.058206616374703424,False,Right Foot,Open Play,1,0,1,Half Volley
+266986,Neymar da Silva Santos Junior,Barcelona,10.818964830333819,0.05960239895735268,False,Head,Open Play,0,1,2,Normal
+266986,Neymar da Silva Santos Junior,Barcelona,18.965231345807513,0.0649734884690067,False,Right Foot,Open Play,1,1,2,Normal
+266986,Luis Alberto Suárez Díaz,Barcelona,15.109268678529745,0.062244343303484106,False,Left Foot,Open Play,1,0,1,Normal
+266986,Ivan Rakitić,Barcelona,6.706713054842882,0.05799210926299192,True,Right Foot,Open Play,0,0,2,Half Volley
+266986,Lionel Andrés Messi Cuccittini,Barcelona,16.440194646049665,0.06248120351075978,False,Right Foot,Open Play,0,0,2,Volley
+266986,Lionel Andrés Messi Cuccittini,Barcelona,16.633700730745396,0.059116818083427294,False,Left Foot,Open Play,0,0,2,Normal
+266986,Luis Alberto Suárez Díaz,Barcelona,19.90602923739439,0.055439063145408196,False,Left Foot,Open Play,1,0,1,Normal
+266986,Luis Alberto Suárez Díaz,Barcelona,11.673045875006233,0.0571461732391056,False,Left Foot,Open Play,1,0,1,Normal
+266986,Neymar da Silva Santos Junior,Barcelona,11.985407794480754,0.05933716242270608,False,Left Foot,Open Play,0,0,2,Normal
+266986,Luis Alberto Suárez Díaz,Barcelona,14.621901381147385,0.06038914330621046,True,Right Foot,Open Play,1,0,2,Normal

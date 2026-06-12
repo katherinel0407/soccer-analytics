@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.438698819699873,0.05770757247893881,False,Right Foot,Open Play,0,0,2,Half Volley
-12.000416659433121,0.059555627998902204,True,Left Foot,Penalty,0,0,0,Normal
-23.323807579381203,0.06343794855709338,False,Right Foot,Open Play,0,0,1,Half Volley
-25.84879107424562,0.06018053907762605,True,Right Foot,Free Kick,0,0,0,Normal
-16.21634977422478,0.058280416152062024,False,Head,Open Play,0,1,1,Normal
-17.45623097922343,0.06365010021500728,False,Head,Open Play,0,0,2,Normal
-16.41950060141904,0.061796165149058564,False,Right Foot,Open Play,0,0,3,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-13.44693273575799,0.06146156283783575,True,Head,Open Play,0,1,3,Normal
-22.986952821111366,0.0675500392669165,False,Right Foot,Open Play,0,0,3,Normal
-22.720035211240326,0.06735421208447318,False,Right Foot,Open Play,0,0,4,Normal
-31.192627334035198,0.0614904083178664,False,Right Foot,Open Play,0,0,1,Half Volley
-17.23078640109034,0.06392576121973606,False,Left Foot,Open Play,1,0,1,Half Volley
-31.105787242890987,0.06881048540998705,False,Right Foot,Free Kick,0,0,0,Normal
-8.720665112249183,0.05899100973025202,False,Head,Open Play,0,1,6,Normal
-28.884944175123483,0.06962013410429796,False,Right Foot,Open Play,1,0,0,Volley
-13.68941196691808,0.052945512067870334,False,Right Foot,Open Play,0,0,2,Normal
-11.300000000000002,0.05978125888575748,False,Head,Open Play,0,0,2,Normal
-12.34827923234651,0.05317914736624829,True,Right Foot,Open Play,1,0,1,Half Volley
-21.539034333042878,0.062232000893645396,False,Left Foot,Open Play,0,0,2,Normal
-19.076687343456676,0.05244599131825733,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813274,Cleiton Augusto Oliveira Silva,Bengaluru,24.438698819699873,0.05770757247893881,False,Right Foot,Open Play,0,0,2,Half Volley
+3813274,Igor Angulo Albóniga,Mumbai City,12.000416659433121,0.059555627998902204,True,Left Foot,Penalty,0,0,0,Normal
+3813274,Jayesh Dilip Rane,Bengaluru,23.323807579381203,0.06343794855709338,False,Right Foot,Open Play,0,0,1,Half Volley
+3813274,Cleiton Augusto Oliveira Silva,Bengaluru,25.84879107424562,0.06018053907762605,True,Right Foot,Free Kick,0,0,0,Normal
+3813274,Prince Vinny Ibara Doniama,Bengaluru,16.21634977422478,0.058280416152062024,False,Head,Open Play,0,1,1,Normal
+3813274,Igor Angulo Albóniga,Mumbai City,17.45623097922343,0.06365010021500728,False,Head,Open Play,0,0,2,Normal
+3813274,Jayesh Dilip Rane,Bengaluru,16.41950060141904,0.061796165149058564,False,Right Foot,Open Play,0,0,3,Normal
+3813274,Sunil Chhetri,Bengaluru,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3813274,Serigne Mourtada Fall,Mumbai City,13.44693273575799,0.06146156283783575,True,Head,Open Play,0,1,3,Normal
+3813274,Jayesh Dilip Rane,Bengaluru,22.986952821111366,0.0675500392669165,False,Right Foot,Open Play,0,0,3,Normal
+3813274,Raynier Fernandes,Mumbai City,22.720035211240326,0.06735421208447318,False,Right Foot,Open Play,0,0,4,Normal
+3813274,Jayesh Dilip Rane,Bengaluru,31.192627334035198,0.0614904083178664,False,Right Foot,Open Play,0,0,1,Half Volley
+3813274,Jayesh Dilip Rane,Bengaluru,17.23078640109034,0.06392576121973606,False,Left Foot,Open Play,1,0,1,Half Volley
+3813274,Ahmed Jahouh,Mumbai City,31.105787242890987,0.06881048540998705,False,Right Foot,Free Kick,0,0,0,Normal
+3813274,Alan Henrique Costa,Bengaluru,8.720665112249183,0.05899100973025202,False,Head,Open Play,0,1,6,Normal
+3813274,Naorem Roshan Singh,Bengaluru,28.884944175123483,0.06962013410429796,False,Right Foot,Open Play,1,0,0,Volley
+3813274,Cleiton Augusto Oliveira Silva,Bengaluru,13.68941196691808,0.052945512067870334,False,Right Foot,Open Play,0,0,2,Normal
+3813274,Igor Angulo Albóniga,Mumbai City,11.300000000000002,0.05978125888575748,False,Head,Open Play,0,0,2,Normal
+3813274,Ygor de Oliveira Ferreira,Mumbai City,12.34827923234651,0.05317914736624829,True,Right Foot,Open Play,1,0,1,Half Volley
+3813274,Ygor de Oliveira Ferreira,Mumbai City,21.539034333042878,0.062232000893645396,False,Left Foot,Open Play,0,0,2,Normal
+3813274,Raynier Fernandes,Mumbai City,19.076687343456676,0.05244599131825733,False,Right Foot,Open Play,0,0,2,Normal

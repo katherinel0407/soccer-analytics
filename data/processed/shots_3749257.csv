@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.02346457519043,0.07017030335313672,False,Right Foot,Open Play,0,0,1,Normal
-33.85852920609517,0.07418005002931197,False,Right Foot,Open Play,0,0,0,Normal
-18.813824704190264,0.05511675093864074,False,Right Foot,Open Play,0,1,1,Normal
-38.53336216838598,0.0797576608891753,False,Right Foot,Free Kick,0,0,0,Normal
-8.602325267042625,0.05807621847832584,True,Head,Open Play,0,0,2,Normal
-18.560711193270585,0.057985184686970226,False,Right Foot,Open Play,0,0,3,Normal
-20.494145505485214,0.06136046901517932,False,Right Foot,Open Play,1,0,2,Normal
-29.38315844152906,0.07219240328417136,False,Right Foot,Open Play,1,0,0,Normal
-24.389546941261546,0.05822709655501942,False,Right Foot,Open Play,0,0,1,Normal
-19.81539805302937,0.06475156164614126,False,Right Foot,Open Play,1,1,1,Normal
-24.348305895893457,0.0683904999569153,False,Right Foot,Open Play,0,0,2,Normal
-24.909837414162308,0.06573259941060736,False,Right Foot,Open Play,0,0,2,Normal
-17.075128110793194,0.062383713443128735,False,Right Foot,Open Play,1,0,1,Volley
-33.20391543176798,0.07441775954439021,False,Right Foot,Open Play,1,0,0,Normal
-11.700427342623007,0.05943049385923767,True,Right Foot,Penalty,0,0,0,Normal
-36.91679834438518,0.06117667881444696,False,Right Foot,Free Kick,0,0,0,Normal
-32.68057527033452,0.06461508191280085,False,Right Foot,Open Play,0,0,1,Normal
-13.345411196362589,0.060543837270893915,False,Head,Open Play,0,0,2,Normal
-23.995416228938396,0.0523491552344032,False,Right Foot,Open Play,1,0,1,Normal
-9.500526301210897,0.0585254773044544,True,Right Foot,Open Play,0,0,2,Normal
-22.655021518418387,0.06651598662090923,False,Right Foot,Open Play,0,0,2,Normal
-31.863615614051085,0.055396504766263274,False,Right Foot,Open Play,0,0,1,Normal
-17.92930561957155,0.06352039032392576,False,Left Foot,Open Play,1,1,3,Normal
-8.13203541556479,0.05876719008263549,False,Right Foot,Open Play,0,0,3,Half Volley
-12.220065466273086,0.0599266350383127,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749257,Gilberto Aparecido da Silva,Arsenal,36.02346457519043,0.07017030335313672,False,Right Foot,Open Play,0,0,1,Normal
+3749257,Thierry Henry,Arsenal,33.85852920609517,0.07418005002931197,False,Right Foot,Open Play,0,0,0,Normal
+3749257,Fredrik Ljungberg,Arsenal,18.813824704190264,0.05511675093864074,False,Right Foot,Open Play,0,1,1,Normal
+3749257,Thierry Henry,Arsenal,38.53336216838598,0.0797576608891753,False,Right Foot,Free Kick,0,0,0,Normal
+3749257,Paul Dickov,Leicester City,8.602325267042625,0.05807621847832584,True,Head,Open Play,0,0,2,Normal
+3749257,Dennis Bergkamp,Arsenal,18.560711193270585,0.057985184686970226,False,Right Foot,Open Play,0,0,3,Normal
+3749257,Dennis Bergkamp,Arsenal,20.494145505485214,0.06136046901517932,False,Right Foot,Open Play,1,0,2,Normal
+3749257,Robert Pirès,Arsenal,29.38315844152906,0.07219240328417136,False,Right Foot,Open Play,1,0,0,Normal
+3749257,Thierry Henry,Arsenal,24.389546941261546,0.05822709655501942,False,Right Foot,Open Play,0,0,1,Normal
+3749257,Fredrik Ljungberg,Arsenal,19.81539805302937,0.06475156164614126,False,Right Foot,Open Play,1,1,1,Normal
+3749257,Thierry Henry,Arsenal,24.348305895893457,0.0683904999569153,False,Right Foot,Open Play,0,0,2,Normal
+3749257,Robert Pirès,Arsenal,24.909837414162308,0.06573259941060736,False,Right Foot,Open Play,0,0,2,Normal
+3749257,Ashley Cole,Arsenal,17.075128110793194,0.062383713443128735,False,Right Foot,Open Play,1,0,1,Volley
+3749257,Gilberto Aparecido da Silva,Arsenal,33.20391543176798,0.07441775954439021,False,Right Foot,Open Play,1,0,0,Normal
+3749257,Thierry Henry,Arsenal,11.700427342623007,0.05943049385923767,True,Right Foot,Penalty,0,0,0,Normal
+3749257,Marcus Bent,Leicester City,36.91679834438518,0.06117667881444696,False,Right Foot,Free Kick,0,0,0,Normal
+3749257,Gilberto Aparecido da Silva,Arsenal,32.68057527033452,0.06461508191280085,False,Right Foot,Open Play,0,0,1,Normal
+3749257,Kolo Habib Touré,Arsenal,13.345411196362589,0.060543837270893915,False,Head,Open Play,0,0,2,Normal
+3749257,Fredrik Ljungberg,Arsenal,23.995416228938396,0.0523491552344032,False,Right Foot,Open Play,1,0,1,Normal
+3749257,Patrick Vieira,Arsenal,9.500526301210897,0.0585254773044544,True,Right Foot,Open Play,0,0,2,Normal
+3749257,Thierry Henry,Arsenal,22.655021518418387,0.06651598662090923,False,Right Foot,Open Play,0,0,2,Normal
+3749257,Patrick Vieira,Arsenal,31.863615614051085,0.055396504766263274,False,Right Foot,Open Play,0,0,1,Normal
+3749257,Fredrik Ljungberg,Arsenal,17.92930561957155,0.06352039032392576,False,Left Foot,Open Play,1,1,3,Normal
+3749257,Kolo Habib Touré,Arsenal,8.13203541556479,0.05876719008263549,False,Right Foot,Open Play,0,0,3,Half Volley
+3749257,Eduardo César Daude Gaspar,Arsenal,12.220065466273086,0.0599266350383127,False,Left Foot,Open Play,0,0,2,Normal

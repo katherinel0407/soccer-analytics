@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.002499826412997,0.0642544970053114,True,Right Foot,Open Play,0,1,3,Normal
-17.1058469536004,0.054271454633597546,True,Right Foot,Open Play,1,1,1,Half Volley
-37.44449225186529,0.07841112163995473,False,Right Foot,Open Play,0,0,2,Normal
-16.653227915332216,0.05315778135088582,False,Right Foot,Open Play,0,1,1,Normal
-22.490220096744274,0.06071741840129442,False,Left Foot,Open Play,0,1,2,Normal
-23.8757198844349,0.0634898697506496,True,Right Foot,Open Play,0,0,1,Lob
-32.47660696562989,0.062262886691095996,False,Right Foot,Open Play,0,0,0,Normal
-11.788553770501276,0.06016062567899025,False,Head,Open Play,0,1,3,Normal
-33.60238086802779,0.07000375235113966,False,Left Foot,Open Play,1,0,0,Normal
-31.940100187695087,0.05571023665915546,False,Right Foot,Open Play,1,0,2,Normal
-20.67123605399541,0.06580427714007432,False,Right Foot,Open Play,0,1,2,Normal
-25.74975728040945,0.05968083267754943,False,Right Foot,Open Play,0,0,1,Normal
-14.417003849621466,0.06034282723113255,False,Right Foot,Open Play,1,0,1,Volley
-14.50137924474772,0.06119056585253107,False,Right Foot,Open Play,1,0,1,Normal
-24.11078596810979,0.06744035872084565,False,Left Foot,Open Play,1,1,1,Normal
-18.923530326025322,0.06370163955092618,False,Left Foot,Open Play,1,0,2,Half Volley
-19.59719367664666,0.05516793686427264,False,Right Foot,Open Play,0,1,2,Normal
-13.55322839769182,0.05724802911563608,False,Right Foot,Open Play,1,0,2,Normal
-12.780062597655773,0.06087973901289547,False,Head,Open Play,0,1,2,Normal
-9.219544457292887,0.05901685537769923,False,Head,Open Play,0,0,3,Normal
-29.22464713217253,0.07209450150944624,False,Right Foot,Open Play,0,0,1,Normal
-9.313431161500038,0.058308865613796536,False,Other,Open Play,0,0,3,Normal
-10.27277956543408,0.055530390378308384,False,Head,Open Play,0,1,2,Normal
-3.6069377593742877,0.05655638276098802,True,Left Foot,Open Play,1,0,1,Normal
-19.40927613281856,0.05826508997300654,False,Right Foot,Open Play,0,1,2,Normal
-24.010414407085943,0.06379898805948023,False,Left Foot,Open Play,0,0,1,Normal
-17.304623659588785,0.061713465641211496,False,Right Foot,Open Play,0,1,3,Normal
-15.602884348735007,0.061011687422446274,False,Right Foot,Open Play,1,1,1,Normal
-19.190883252211194,0.06376409631688636,False,Left Foot,Open Play,1,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900582,Khalid Boutaïb,Gazélec Ajaccio,18.002499826412997,0.0642544970053114,True,Right Foot,Open Play,0,1,3,Normal
+3900582,Nicolas de Roussel de Préville,Stade de Reims,17.1058469536004,0.054271454633597546,True,Right Foot,Open Play,1,1,1,Half Volley
+3900582,Jaba Kankava,Stade de Reims,37.44449225186529,0.07841112163995473,False,Right Foot,Open Play,0,0,2,Normal
+3900582,Khalid Boutaïb,Gazélec Ajaccio,16.653227915332216,0.05315778135088582,False,Right Foot,Open Play,0,1,1,Normal
+3900582,John Tshibumbu,Gazélec Ajaccio,22.490220096744274,0.06071741840129442,False,Left Foot,Open Play,0,1,2,Normal
+3900582,Nicolas de Roussel de Préville,Stade de Reims,23.8757198844349,0.0634898697506496,True,Right Foot,Open Play,0,0,1,Lob
+3900582,Amos Youga,Gazélec Ajaccio,32.47660696562989,0.062262886691095996,False,Right Foot,Open Play,0,0,0,Normal
+3900582,Issiaga Sylla,Gazélec Ajaccio,11.788553770501276,0.06016062567899025,False,Head,Open Play,0,1,3,Normal
+3900582,Amos Youga,Gazélec Ajaccio,33.60238086802779,0.07000375235113966,False,Left Foot,Open Play,1,0,0,Normal
+3900582,Theoson Jordan Siebatcheu,Stade de Reims,31.940100187695087,0.05571023665915546,False,Right Foot,Open Play,1,0,2,Normal
+3900582,Gaëtan Charbonnier,Stade de Reims,20.67123605399541,0.06580427714007432,False,Right Foot,Open Play,0,1,2,Normal
+3900582,Jaba Kankava,Stade de Reims,25.74975728040945,0.05968083267754943,False,Right Foot,Open Play,0,0,1,Normal
+3900582,Damjan Đoković,Gazélec Ajaccio,14.417003849621466,0.06034282723113255,False,Right Foot,Open Play,1,0,1,Volley
+3900582,Nicolas de Roussel de Préville,Stade de Reims,14.50137924474772,0.06119056585253107,False,Right Foot,Open Play,1,0,1,Normal
+3900582,Damjan Đoković,Gazélec Ajaccio,24.11078596810979,0.06744035872084565,False,Left Foot,Open Play,1,1,1,Normal
+3900582,Damjan Đoković,Gazélec Ajaccio,18.923530326025322,0.06370163955092618,False,Left Foot,Open Play,1,0,2,Half Volley
+3900582,Hamari Traoré,Stade de Reims,19.59719367664666,0.05516793686427264,False,Right Foot,Open Play,0,1,2,Normal
+3900582,Mohamed Larbi,Gazélec Ajaccio,13.55322839769182,0.05724802911563608,False,Right Foot,Open Play,1,0,2,Normal
+3900582,Issiaga Sylla,Gazélec Ajaccio,12.780062597655773,0.06087973901289547,False,Head,Open Play,0,1,2,Normal
+3900582,Abdou Kader Mangane,Gazélec Ajaccio,9.219544457292887,0.05901685537769923,False,Head,Open Play,0,0,3,Normal
+3900582,Kévin Mayi,Gazélec Ajaccio,29.22464713217253,0.07209450150944624,False,Right Foot,Open Play,0,0,1,Normal
+3900582,John Tshibumbu,Gazélec Ajaccio,9.313431161500038,0.058308865613796536,False,Other,Open Play,0,0,3,Normal
+3900582,Mohamed Larbi,Gazélec Ajaccio,10.27277956543408,0.055530390378308384,False,Head,Open Play,0,1,2,Normal
+3900582,Damjan Đoković,Gazélec Ajaccio,3.6069377593742877,0.05655638276098802,True,Left Foot,Open Play,1,0,1,Normal
+3900582,Prince Oniangué,Stade de Reims,19.40927613281856,0.05826508997300654,False,Right Foot,Open Play,0,1,2,Normal
+3900582,John Tshibumbu,Gazélec Ajaccio,24.010414407085943,0.06379898805948023,False,Left Foot,Open Play,0,0,1,Normal
+3900582,Prince Oniangué,Stade de Reims,17.304623659588785,0.061713465641211496,False,Right Foot,Open Play,0,1,3,Normal
+3900582,Mohamed Larbi,Gazélec Ajaccio,15.602884348735007,0.061011687422446274,False,Right Foot,Open Play,1,1,1,Normal
+3900582,Grégory Pujol,Gazélec Ajaccio,19.190883252211194,0.06376409631688636,False,Left Foot,Open Play,1,1,3,Normal

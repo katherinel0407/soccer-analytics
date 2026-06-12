@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.714165328483025,0.06045539037723839,False,Head,Open Play,0,1,3,Normal
-29.11631844859511,0.06597195940657294,False,Right Foot,Open Play,0,0,1,Normal
-15.400324671902206,0.05877460739047034,False,Right Foot,Open Play,0,1,3,Half Volley
-17.994721448246985,0.06403322902689328,False,Right Foot,Open Play,1,0,1,Half Volley
-31.129407318482627,0.07255951756418974,False,Right Foot,Open Play,0,0,1,Normal
-8.86848352312841,0.05410255676060576,False,Right Foot,Open Play,1,1,1,Volley
-26.462237244798484,0.07005032272932495,False,Right Foot,Open Play,0,0,2,Normal
-21.784857125994655,0.05654451002870967,False,Right Foot,Open Play,1,1,1,Half Volley
-8.374365647617738,0.05746855065037494,False,Left Foot,Open Play,1,0,2,Half Volley
-12.609916732476858,0.06002497566068467,False,Head,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-14.727525250360296,0.06039289255691767,False,Left Foot,Open Play,1,1,2,Normal
-8.558621384311849,0.05628722677808112,False,Head,Open Play,0,1,5,Normal
-27.435196372543064,0.07058707510837309,False,Right Foot,Open Play,0,0,1,Normal
-9.716995420396168,0.05958248005915127,False,Right Foot,Open Play,1,0,2,Normal
-5.000999900019995,0.05674212191845396,False,Right Foot,Open Play,1,1,3,Normal
-4.997999599839924,0.05716708327040725,True,Right Foot,Open Play,1,1,5,Normal
-10.538026380684382,0.05997927053555296,False,Head,Open Play,0,0,1,Normal
-14.847558721890946,0.061143887242632325,False,Left Foot,Open Play,0,0,2,Half Volley
-28.868321738542402,0.07001128446724063,False,Right Foot,Open Play,0,0,1,Normal
-20.37449385874407,0.052464758655400665,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3893789,Jessika Rebecca Macayan Cowart,Philippines Women's,12.714165328483025,0.06045539037723839,False,Head,Open Play,0,1,3,Normal
+3893789,Géraldine Reuteler,Switzerland Women's,29.11631844859511,0.06597195940657294,False,Right Foot,Open Play,0,0,1,Normal
+3893789,Géraldine Reuteler,Switzerland Women's,15.400324671902206,0.05877460739047034,False,Right Foot,Open Play,0,1,3,Half Volley
+3893789,Hali Moriah Candido Long,Philippines Women's,17.994721448246985,0.06403322902689328,False,Right Foot,Open Play,1,0,1,Half Volley
+3893789,Coumba Sow,Switzerland Women's,31.129407318482627,0.07255951756418974,False,Right Foot,Open Play,0,0,1,Normal
+3893789,Seraina Piubel,Switzerland Women's,8.86848352312841,0.05410255676060576,False,Right Foot,Open Play,1,1,1,Volley
+3893789,Ramona Bachmann,Switzerland Women's,26.462237244798484,0.07005032272932495,False,Right Foot,Open Play,0,0,2,Normal
+3893789,Seraina Piubel,Switzerland Women's,21.784857125994655,0.05654451002870967,False,Right Foot,Open Play,1,1,1,Half Volley
+3893789,Ana-Maria Crnogorčević,Switzerland Women's,8.374365647617738,0.05746855065037494,False,Left Foot,Open Play,1,0,2,Half Volley
+3893789,Ana-Maria Crnogorčević,Switzerland Women's,12.609916732476858,0.06002497566068467,False,Head,Open Play,0,1,2,Normal
+3893789,Ramona Bachmann,Switzerland Women's,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3893789,Coumba Sow,Switzerland Women's,14.727525250360296,0.06039289255691767,False,Left Foot,Open Play,1,1,2,Normal
+3893789,Ana-Maria Crnogorčević,Switzerland Women's,8.558621384311849,0.05628722677808112,False,Head,Open Play,0,1,5,Normal
+3893789,Ramona Bachmann,Switzerland Women's,27.435196372543064,0.07058707510837309,False,Right Foot,Open Play,0,0,1,Normal
+3893789,Ana-Maria Crnogorčević,Switzerland Women's,9.716995420396168,0.05958248005915127,False,Right Foot,Open Play,1,0,2,Normal
+3893789,Coumba Sow,Switzerland Women's,5.000999900019995,0.05674212191845396,False,Right Foot,Open Play,1,1,3,Normal
+3893789,Seraina Piubel,Switzerland Women's,4.997999599839924,0.05716708327040725,True,Right Foot,Open Play,1,1,5,Normal
+3893789,Alisha Lehmann,Switzerland Women's,10.538026380684382,0.05997927053555296,False,Head,Open Play,0,0,1,Normal
+3893789,Sofia Nicole Dador Harrison,Philippines Women's,14.847558721890946,0.061143887242632325,False,Left Foot,Open Play,0,0,2,Half Volley
+3893789,Noelle Maritz,Switzerland Women's,28.868321738542402,0.07001128446724063,False,Right Foot,Open Play,0,0,1,Normal
+3893789,Meriame Terchoun,Switzerland Women's,20.37449385874407,0.052464758655400665,False,Right Foot,Open Play,1,0,0,Normal

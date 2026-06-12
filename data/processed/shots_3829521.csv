@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.320455141702602,0.06315918199267558,False,Right Foot,Open Play,0,0,0,Normal
-34.42237644323819,0.06181803701807927,False,Right Foot,Open Play,0,0,0,Normal
-18.909521411183306,0.06476677532194405,False,Left Foot,Open Play,1,0,0,Volley
-11.527792503337313,0.06054827864151413,False,Head,Open Play,0,0,2,Normal
-19.50230755577401,0.06273572751151145,False,Right Foot,Open Play,1,0,3,Half Volley
-32.36603157633014,0.0726588221664215,False,Right Foot,Free Kick,0,0,0,Normal
-21.052315787105233,0.0662053362952234,False,Left Foot,Open Play,0,0,1,Normal
-36.19972375585206,0.07766236579025798,False,Right Foot,Open Play,0,0,1,Normal
-30.36461756716195,0.0720935632332978,False,Right Foot,Open Play,0,0,1,Normal
-27.101291482141583,0.06645260298165047,False,Right Foot,Free Kick,0,0,0,Normal
-10.807867504739312,0.053242297323339294,False,Head,Open Play,0,0,2,Normal
-9.323089616645328,0.05935856862093273,False,Head,Open Play,0,0,4,Normal
-40.144239935512545,0.07564975788515961,False,Right Foot,Open Play,0,0,1,Normal
-9.90858213873206,0.055011690381919595,False,Head,Open Play,0,0,4,Normal
-9.972462083156804,0.05830908625565708,False,Right Foot,Open Play,0,1,1,Normal
-16.2265215003093,0.05414949094967897,False,Right Foot,Open Play,1,0,1,Normal
-15.92262541165872,0.05539573880529139,False,Right Foot,Open Play,1,0,2,Normal
-11.3758516164725,0.06017184782542223,False,Head,Open Play,0,1,2,Normal
-30.12308085173228,0.06045572191176848,False,Right Foot,Open Play,0,1,2,Half Volley
-18.06792738528689,0.05796968477493594,True,Left Foot,Open Play,0,0,0,Half Volley
-18.754466134763742,0.054511577022341905,False,Left Foot,Open Play,0,1,1,Normal
-31.86487093964135,0.07106711465278234,False,Right Foot,Open Play,1,0,0,Volley
-16.240997506311,0.057101892651562056,False,Right Foot,Open Play,1,0,1,Normal
-10.377379245262262,0.05637947328196343,False,Head,Open Play,0,0,2,Normal
-28.452240685049745,0.07150511864497386,False,Right Foot,Open Play,0,0,1,Normal
-20.197277044195832,0.054116554008060806,False,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829521,Benjamin Nivet,Troyes,30.320455141702602,0.06315918199267558,False,Right Foot,Open Play,0,0,0,Normal
+3829521,Jaroslav Plašil,Bordeaux,34.42237644323819,0.06181803701807927,False,Right Foot,Open Play,0,0,0,Normal
+3829521,Henri Saivet,Bordeaux,18.909521411183306,0.06476677532194405,False,Left Foot,Open Play,1,0,0,Volley
+3829521,Ludovic Lamine Sané,Bordeaux,11.527792503337313,0.06054827864151413,False,Head,Open Play,0,0,2,Normal
+3829521,Diego Alejandro Rolan Silva,Bordeaux,19.50230755577401,0.06273572751151145,False,Right Foot,Open Play,1,0,3,Half Volley
+3829521,Henri Saivet,Bordeaux,32.36603157633014,0.0726588221664215,False,Right Foot,Free Kick,0,0,0,Normal
+3829521,Fabien Camus,Troyes,21.052315787105233,0.0662053362952234,False,Left Foot,Open Play,0,0,1,Normal
+3829521,Mouhamadou Dabo,Troyes,36.19972375585206,0.07766236579025798,False,Right Foot,Open Play,0,0,1,Normal
+3829521,Wahbi Khazri,Bordeaux,30.36461756716195,0.0720935632332978,False,Right Foot,Open Play,0,0,1,Normal
+3829521,Wahbi Khazri,Bordeaux,27.101291482141583,0.06645260298165047,False,Right Foot,Free Kick,0,0,0,Normal
+3829521,Clément Chantôme,Bordeaux,10.807867504739312,0.053242297323339294,False,Head,Open Play,0,0,2,Normal
+3829521,Pablo Nascimento Castro,Bordeaux,9.323089616645328,0.05935856862093273,False,Head,Open Play,0,0,4,Normal
+3829521,Jessy Pi,Troyes,40.144239935512545,0.07564975788515961,False,Right Foot,Open Play,0,0,1,Normal
+3829521,Benjamin Nivet,Troyes,9.90858213873206,0.055011690381919595,False,Head,Open Play,0,0,4,Normal
+3829521,Fabien Camus,Troyes,9.972462083156804,0.05830908625565708,False,Right Foot,Open Play,0,1,1,Normal
+3829521,Diego Alejandro Rolan Silva,Bordeaux,16.2265215003093,0.05414949094967897,False,Right Foot,Open Play,1,0,1,Normal
+3829521,Corentin Jean,Troyes,15.92262541165872,0.05539573880529139,False,Right Foot,Open Play,1,0,2,Normal
+3829521,Pablo Nascimento Castro,Bordeaux,11.3758516164725,0.06017184782542223,False,Head,Open Play,0,1,2,Normal
+3829521,Enzo Crivelli,Bordeaux,30.12308085173228,0.06045572191176848,False,Right Foot,Open Play,0,1,2,Half Volley
+3829521,Adam Ounas,Bordeaux,18.06792738528689,0.05796968477493594,True,Left Foot,Open Play,0,0,0,Half Volley
+3829521,Adam Ounas,Bordeaux,18.754466134763742,0.054511577022341905,False,Left Foot,Open Play,0,1,1,Normal
+3829521,Jessy Pi,Troyes,31.86487093964135,0.07106711465278234,False,Right Foot,Open Play,1,0,0,Volley
+3829521,Brayan Andrés Perea Vargas,Troyes,16.240997506311,0.057101892651562056,False,Right Foot,Open Play,1,0,1,Normal
+3829521,Benjamin Nivet,Troyes,10.377379245262262,0.05637947328196343,False,Head,Open Play,0,0,2,Normal
+3829521,Thomas Touré,Bordeaux,28.452240685049745,0.07150511864497386,False,Right Foot,Open Play,0,0,1,Normal
+3829521,Jonathan Martins-Pereira,Troyes,20.197277044195832,0.054116554008060806,False,Right Foot,Open Play,0,0,2,Half Volley

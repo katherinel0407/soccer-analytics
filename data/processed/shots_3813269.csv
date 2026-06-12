@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.798717843338101,0.05865352683571651,True,Head,Open Play,0,1,3,Normal
-24.449539872971023,0.06638847831865179,True,Right Foot,Open Play,0,0,2,Normal
-26.513581425375182,0.048429064004742,False,Left Foot,Free Kick,0,0,0,Normal
-29.24824781076638,0.06486579819826885,False,Right Foot,Open Play,0,0,1,Normal
-28.172681803477634,0.07027812447387577,True,Left Foot,Free Kick,0,0,0,Normal
-32.633724886993825,0.07258014670136864,False,Right Foot,Open Play,0,0,0,Normal
-20.426698215815502,0.06594728534482402,False,Left Foot,Open Play,0,0,2,Normal
-23.916939603552965,0.06752134570891527,False,Right Foot,Open Play,0,0,1,Normal
-17.720045146669353,0.05630301659076866,True,Right Foot,Open Play,0,0,2,Normal
-22.299103120977758,0.06672941483035326,False,Left Foot,Open Play,0,0,2,Normal
-25.776927667974704,0.06928678633714828,False,Left Foot,Open Play,0,0,3,Normal
-8.036168241145777,0.0585694428687233,False,Right Foot,Open Play,0,0,3,Normal
-12.664912159190049,0.05781926130239903,False,Right Foot,Open Play,1,0,1,Half Volley
-26.658206991468873,0.06762577548530119,False,Right Foot,Open Play,1,0,1,Volley
-20.591503102007877,0.06515633888568968,False,Right Foot,Open Play,1,0,0,Volley
-6.906518659932808,0.05797582063545591,False,Head,Open Play,0,0,1,Normal
-33.743147452482845,0.05840447891576771,False,Right Foot,Open Play,1,0,2,Volley
-13.68941196691808,0.052945512067870334,False,Right Foot,Open Play,0,0,1,Normal
-17.135343591536174,0.057652144878463124,False,Right Foot,Open Play,1,0,1,Half Volley
-15.66684397062791,0.06299311594483038,False,Right Foot,Open Play,0,0,1,Normal
-30.729952814802694,0.05876139493477635,False,Right Foot,Open Play,0,0,1,Normal
-9.392017887546857,0.05929700082233015,False,Head,Open Play,0,0,2,Normal
-31.722704802711895,0.06806896792481003,False,Right Foot,Free Kick,0,0,0,Normal
-33.11857484856497,0.06773576553860326,False,Left Foot,Open Play,1,0,0,Half Volley
-24.11327435252209,0.06462085905480044,False,Right Foot,Open Play,1,0,0,Normal
-32.56148031032987,0.07037005134999713,False,Right Foot,Open Play,0,0,1,Normal
-22.01454064930722,0.0510835215157609,False,Left Foot,Open Play,0,1,1,Normal
-7.516648189186452,0.058531803953026894,False,Head,Open Play,0,0,3,Normal
-6.918092222571197,0.05767520138009622,False,Head,Open Play,0,0,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813269,Peter Hartley,Jamshedpur,7.798717843338101,0.05865352683571651,True,Head,Open Play,0,1,3,Normal
+3813269,Greg Stewart,Jamshedpur,24.449539872971023,0.06638847831865179,True,Right Foot,Open Play,0,0,2,Normal
+3813269,Greg Stewart,Jamshedpur,26.513581425375182,0.048429064004742,False,Left Foot,Free Kick,0,0,0,Normal
+3813269,Jitendra Singh,Jamshedpur,29.24824781076638,0.06486579819826885,False,Right Foot,Open Play,0,0,1,Normal
+3813269,Greg Stewart,Jamshedpur,28.172681803477634,0.07027812447387577,True,Left Foot,Free Kick,0,0,0,Normal
+3813269,Ariday Cabrera Suárez,Odisha,32.633724886993825,0.07258014670136864,False,Right Foot,Open Play,0,0,0,Normal
+3813269,Jerry Mawihmingthanga,Odisha,20.426698215815502,0.06594728534482402,False,Left Foot,Open Play,0,0,2,Normal
+3813269,Nerijus Valskis,Jamshedpur,23.916939603552965,0.06752134570891527,False,Right Foot,Open Play,0,0,1,Normal
+3813269,Greg Stewart,Jamshedpur,17.720045146669353,0.05630301659076866,True,Right Foot,Open Play,0,0,2,Normal
+3813269,Alexandre Monteiro de Lima,Jamshedpur,22.299103120977758,0.06672941483035326,False,Left Foot,Open Play,0,0,2,Normal
+3813269,Ariday Cabrera Suárez,Odisha,25.776927667974704,0.06928678633714828,False,Left Foot,Open Play,0,0,3,Normal
+3813269,Nerijus Valskis,Jamshedpur,8.036168241145777,0.0585694428687233,False,Right Foot,Open Play,0,0,3,Normal
+3813269,Jitendra Singh,Jamshedpur,12.664912159190049,0.05781926130239903,False,Right Foot,Open Play,1,0,1,Half Volley
+3813269,Paul Ramfangzauva,Odisha,26.658206991468873,0.06762577548530119,False,Right Foot,Open Play,1,0,1,Volley
+3813269,Jitendra Singh,Jamshedpur,20.591503102007877,0.06515633888568968,False,Right Foot,Open Play,1,0,0,Volley
+3813269,Gaurav Bora,Odisha,6.906518659932808,0.05797582063545591,False,Head,Open Play,0,0,1,Normal
+3813269,Lalhrezuala Sailung,Odisha,33.743147452482845,0.05840447891576771,False,Right Foot,Open Play,1,0,2,Volley
+3813269,Boris Singh Thangjam,Jamshedpur,13.68941196691808,0.052945512067870334,False,Right Foot,Open Play,0,0,1,Normal
+3813269,Jordan Murray,Jamshedpur,17.135343591536174,0.057652144878463124,False,Right Foot,Open Play,1,0,1,Half Volley
+3813269,Komal Thatal,Jamshedpur,15.66684397062791,0.06299311594483038,False,Right Foot,Open Play,0,0,1,Normal
+3813269,Jordan Murray,Jamshedpur,30.729952814802694,0.05876139493477635,False,Right Foot,Open Play,0,0,1,Normal
+3813269,Nerijus Valskis,Jamshedpur,9.392017887546857,0.05929700082233015,False,Head,Open Play,0,0,2,Normal
+3813269,Nerijus Valskis,Jamshedpur,31.722704802711895,0.06806896792481003,False,Right Foot,Free Kick,0,0,0,Normal
+3813269,Greg Stewart,Jamshedpur,33.11857484856497,0.06773576553860326,False,Left Foot,Open Play,1,0,0,Half Volley
+3813269,Vinit Rai Chamling,Odisha,24.11327435252209,0.06462085905480044,False,Right Foot,Open Play,1,0,0,Normal
+3813269,Nikhil Raj Murugesh Kumar,Odisha,32.56148031032987,0.07037005134999713,False,Right Foot,Open Play,0,0,1,Normal
+3813269,Francisco Javier Hernández González,Odisha,22.01454064930722,0.0510835215157609,False,Left Foot,Open Play,0,1,1,Normal
+3813269,Jonathas Cristian de Jesus,Odisha,7.516648189186452,0.058531803953026894,False,Head,Open Play,0,0,3,Normal
+3813269,Nerijus Valskis,Jamshedpur,6.918092222571197,0.05767520138009622,False,Head,Open Play,0,0,6,Normal

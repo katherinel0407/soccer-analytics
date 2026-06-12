@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.952697318307476,0.05546161711545406,False,Head,Open Play,0,1,4,Normal
-25.53624874565565,0.0677434367721251,False,Right Foot,Free Kick,0,0,0,Normal
-10.041912168506556,0.05528721521410964,False,Head,Open Play,0,1,2,Normal
-25.22419473442115,0.06670319006726902,False,Left Foot,Open Play,0,0,2,Normal
-26.880476186258303,0.05619059177790697,False,Left Foot,Open Play,0,0,0,Normal
-9.6130120149722,0.05876931633283125,False,Head,Open Play,0,1,3,Normal
-12.041594578792296,0.060692049275192485,False,Head,Open Play,0,0,2,Normal
-28.3734030387615,0.06116617752895976,False,Right Foot,Open Play,0,0,0,Normal
-12.578155667664477,0.05928858471561438,True,Left Foot,Open Play,1,1,2,Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-23.03258561256204,0.06760463005753223,False,Left Foot,Open Play,1,0,0,Half Volley
-17.397126199461795,0.06377858029920505,False,Left Foot,Open Play,0,0,1,Normal
-25.5049014897137,0.06543011756577849,False,Left Foot,Open Play,0,0,2,Normal
-19.51127878945919,0.06490397384478733,False,Left Foot,Open Play,0,0,2,Normal
-22.495555116511344,0.06210220878431526,False,Right Foot,Open Play,1,0,1,Half Volley
-26.086394921491163,0.06287627327399885,False,Right Foot,Open Play,1,0,0,Volley
-15.34438007871286,0.060132465341398225,False,Right Foot,Open Play,0,0,2,Normal
-19.40309253701584,0.06451126092919424,False,Left Foot,Open Play,1,0,1,Normal
-10.285912696499036,0.0568452996961297,False,Left Foot,Open Play,1,0,2,Half Volley
-5.916924876994807,0.05446301952981281,False,Head,Open Play,0,1,3,Normal
-11.588356225108027,0.06036837726587975,False,Left Foot,Open Play,0,0,1,Normal
-6.762396025078685,0.05555917729382464,True,Head,Open Play,0,1,1,Normal
-18.69598887462228,0.06126497311498877,False,Left Foot,Open Play,0,0,1,Normal
-8.163332652783422,0.056174860399619185,False,Left Foot,Open Play,1,0,5,Volley
-6.463745044476924,0.05799724123786557,False,Right Foot,Open Play,1,0,1,Normal
-22.487552112224222,0.05178915640677113,False,Right Foot,Open Play,1,0,1,Normal
-21.224985276791127,0.0560479478751022,True,Right Foot,Open Play,0,0,2,Normal
-14.712239802287076,0.055880749653308165,False,Left Foot,Open Play,1,1,1,Normal
-30.63200940193118,0.07211061248637005,False,Right Foot,Open Play,0,0,0,Normal
-28.45803928593816,0.06451636843447,False,Right Foot,Open Play,0,0,1,Normal
-9.148223871331526,0.05909426288852561,True,Right Foot,Open Play,1,0,2,Normal
-34.21637035104688,0.07528439746484322,False,Left Foot,Open Play,0,0,1,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895340,Philipp Hofmann,Bochum,6.952697318307476,0.05546161711545406,False,Head,Open Play,0,1,4,Normal
+3895340,Robert Andrich,Bayer Leverkusen,25.53624874565565,0.0677434367721251,False,Right Foot,Free Kick,0,0,0,Normal
+3895340,Patrik Schick,Bayer Leverkusen,10.041912168506556,0.05528721521410964,False,Head,Open Play,0,1,2,Normal
+3895340,Edmond Fayçal Tapsoba,Bayer Leverkusen,25.22419473442115,0.06670319006726902,False,Left Foot,Open Play,0,0,2,Normal
+3895340,Granit Xhaka,Bayer Leverkusen,26.880476186258303,0.05619059177790697,False,Left Foot,Open Play,0,0,0,Normal
+3895340,Victor Okoh Boniface,Bayer Leverkusen,9.6130120149722,0.05876931633283125,False,Head,Open Play,0,1,3,Normal
+3895340,Victor Okoh Boniface,Bayer Leverkusen,12.041594578792296,0.060692049275192485,False,Head,Open Play,0,0,2,Normal
+3895340,Odilon Kossonou,Bayer Leverkusen,28.3734030387615,0.06116617752895976,False,Right Foot,Open Play,0,0,0,Normal
+3895340,Patrik Schick,Bayer Leverkusen,12.578155667664477,0.05928858471561438,True,Left Foot,Open Play,1,1,2,Volley
+3895340,Victor Okoh Boniface,Bayer Leverkusen,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3895340,Granit Xhaka,Bayer Leverkusen,23.03258561256204,0.06760463005753223,False,Left Foot,Open Play,1,0,0,Half Volley
+3895340,Patrik Schick,Bayer Leverkusen,17.397126199461795,0.06377858029920505,False,Left Foot,Open Play,0,0,1,Normal
+3895340,Patrik Schick,Bayer Leverkusen,25.5049014897137,0.06543011756577849,False,Left Foot,Open Play,0,0,2,Normal
+3895340,Victor Okoh Boniface,Bayer Leverkusen,19.51127878945919,0.06490397384478733,False,Left Foot,Open Play,0,0,2,Normal
+3895340,Kevin Stöger,Bochum,22.495555116511344,0.06210220878431526,False,Right Foot,Open Play,1,0,1,Half Volley
+3895340,Robert Andrich,Bayer Leverkusen,26.086394921491163,0.06287627327399885,False,Right Foot,Open Play,1,0,0,Volley
+3895340,Patrik Schick,Bayer Leverkusen,15.34438007871286,0.060132465341398225,False,Right Foot,Open Play,0,0,2,Normal
+3895340,Granit Xhaka,Bayer Leverkusen,19.40309253701584,0.06451126092919424,False,Left Foot,Open Play,1,0,1,Normal
+3895340,Amine Adli,Bayer Leverkusen,10.285912696499036,0.0568452996961297,False,Left Foot,Open Play,1,0,2,Half Volley
+3895340,Matúš Bero,Bochum,5.916924876994807,0.05446301952981281,False,Head,Open Play,0,1,3,Normal
+3895340,Amine Adli,Bayer Leverkusen,11.588356225108027,0.06036837726587975,False,Left Foot,Open Play,0,0,1,Normal
+3895340,Amine Adli,Bayer Leverkusen,6.762396025078685,0.05555917729382464,True,Head,Open Play,0,1,1,Normal
+3895340,Jonas Hofmann,Bayer Leverkusen,18.69598887462228,0.06126497311498877,False,Left Foot,Open Play,0,0,1,Normal
+3895340,Edmond Fayçal Tapsoba,Bayer Leverkusen,8.163332652783422,0.056174860399619185,False,Left Foot,Open Play,1,0,5,Volley
+3895340,Jonas Hofmann,Bayer Leverkusen,6.463745044476924,0.05799724123786557,False,Right Foot,Open Play,1,0,1,Normal
+3895340,Arthur Augusto de Matos Soares,Bayer Leverkusen,22.487552112224222,0.05178915640677113,False,Right Foot,Open Play,1,0,1,Normal
+3895340,Josip Stanišić,Bayer Leverkusen,21.224985276791127,0.0560479478751022,True,Right Foot,Open Play,0,0,2,Normal
+3895340,Amine Adli,Bayer Leverkusen,14.712239802287076,0.055880749653308165,False,Left Foot,Open Play,1,1,1,Normal
+3895340,Gustavo Adolfo Puerta Molano,Bayer Leverkusen,30.63200940193118,0.07211061248637005,False,Right Foot,Open Play,0,0,0,Normal
+3895340,Jonathan Tah,Bayer Leverkusen,28.45803928593816,0.06451636843447,False,Right Foot,Open Play,0,0,1,Normal
+3895340,Alejandro Grimaldo García,Bayer Leverkusen,9.148223871331526,0.05909426288852561,True,Right Foot,Open Play,1,0,2,Normal
+3895340,Amine Adli,Bayer Leverkusen,34.21637035104688,0.07528439746484322,False,Left Foot,Open Play,0,0,1,Lob

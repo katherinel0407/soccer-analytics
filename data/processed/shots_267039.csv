@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.241323457861906,0.05615646779818233,False,Head,Open Play,0,0,3,Normal
-27.63059898011623,0.07050660487085766,False,Right Foot,Free Kick,0,0,0,Normal
-18.2002747232013,0.062236385644380575,False,Left Foot,Open Play,1,0,1,Normal
-7.741446893184761,0.05626915095517935,True,Right Foot,Open Play,1,0,1,Normal
-17.023806859806655,0.06376658423442284,True,Right Foot,Open Play,1,0,2,Lob
-25.903088618927285,0.06567208552956288,False,Right Foot,Open Play,0,0,3,Normal
-22.22791038311969,0.0671193254291958,False,Right Foot,Open Play,1,0,1,Normal
-9.563472172804184,0.05341475694475581,False,Head,Open Play,0,0,1,Normal
-28.1852798460473,0.0610928067133861,False,Left Foot,Free Kick,0,0,0,Normal
-14.043147795277244,0.061136151743368436,False,Left Foot,Open Play,0,0,2,Normal
-14.395138068111752,0.05651789011396164,False,Right Foot,Open Play,0,1,1,Normal
-7.117583859709697,0.058256546037753286,False,Head,Open Play,0,0,4,Normal
-10.866922287382016,0.05798097715786888,True,Right Foot,Open Play,1,0,2,Normal
-7.789736837660178,0.05855310592216366,True,Head,Open Play,0,0,2,Normal
-16.479381056338244,0.058272943426954445,False,Left Foot,Open Play,1,0,1,Overhead Kick
-10.697663296253065,0.05904459622301177,True,Right Foot,Open Play,1,0,3,Normal
-16.618363336983585,0.06332624837659166,False,Left Foot,Open Play,1,0,2,Normal
-30.017661467875875,0.058652597215840825,False,Left Foot,Free Kick,0,0,0,Normal
-8.770974860299171,0.05863653710846601,False,Right Foot,Open Play,1,1,3,Normal
-32.34331461059612,0.07447144458441686,False,Left Foot,Open Play,0,0,2,Normal
-18.90211628363343,0.06441820460699943,False,Left Foot,Open Play,0,0,3,Normal
-25.54407954888961,0.06252523445345341,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267039,Lionel Andrés Messi Cuccittini,Barcelona,12.241323457861906,0.05615646779818233,False,Head,Open Play,0,0,3,Normal
+267039,Mauricio Lemos Merladet,Las Palmas,27.63059898011623,0.07050660487085766,False,Right Foot,Free Kick,0,0,0,Normal
+267039,Lionel Andrés Messi Cuccittini,Barcelona,18.2002747232013,0.062236385644380575,False,Left Foot,Open Play,1,0,1,Normal
+267039,Neymar da Silva Santos Junior,Barcelona,7.741446893184761,0.05626915095517935,True,Right Foot,Open Play,1,0,1,Normal
+267039,Luis Alberto Suárez Díaz,Barcelona,17.023806859806655,0.06376658423442284,True,Right Foot,Open Play,1,0,2,Lob
+267039,Roque Mesa Quevedo,Las Palmas,25.903088618927285,0.06567208552956288,False,Right Foot,Open Play,0,0,3,Normal
+267039,Kevin-Prince Boateng,Las Palmas,22.22791038311969,0.0671193254291958,False,Right Foot,Open Play,1,0,1,Normal
+267039,Kevin-Prince Boateng,Las Palmas,9.563472172804184,0.05341475694475581,False,Head,Open Play,0,0,1,Normal
+267039,Jerónimo Figueroa Cabrera,Las Palmas,28.1852798460473,0.0610928067133861,False,Left Foot,Free Kick,0,0,0,Normal
+267039,Lionel Andrés Messi Cuccittini,Barcelona,14.043147795277244,0.061136151743368436,False,Left Foot,Open Play,0,0,2,Normal
+267039,Jesé Rodríguez Ruiz,Las Palmas,14.395138068111752,0.05651789011396164,False,Right Foot,Open Play,0,1,1,Normal
+267039,Pedro Bigas Rigo,Las Palmas,7.117583859709697,0.058256546037753286,False,Head,Open Play,0,0,4,Normal
+267039,Pedro Bigas Rigo,Las Palmas,10.866922287382016,0.05798097715786888,True,Right Foot,Open Play,1,0,2,Normal
+267039,Neymar da Silva Santos Junior,Barcelona,7.789736837660178,0.05855310592216366,True,Head,Open Play,0,0,2,Normal
+267039,Jerónimo Figueroa Cabrera,Las Palmas,16.479381056338244,0.058272943426954445,False,Left Foot,Open Play,1,0,1,Overhead Kick
+267039,Neymar da Silva Santos Junior,Barcelona,10.697663296253065,0.05904459622301177,True,Right Foot,Open Play,1,0,3,Normal
+267039,Lionel Andrés Messi Cuccittini,Barcelona,16.618363336983585,0.06332624837659166,False,Left Foot,Open Play,1,0,2,Normal
+267039,Lionel Andrés Messi Cuccittini,Barcelona,30.017661467875875,0.058652597215840825,False,Left Foot,Free Kick,0,0,0,Normal
+267039,Francisco Alcácer García,Barcelona,8.770974860299171,0.05863653710846601,False,Right Foot,Open Play,1,1,3,Normal
+267039,Hélder Filipe Oliveira Lopes,Las Palmas,32.34331461059612,0.07447144458441686,False,Left Foot,Open Play,0,0,2,Normal
+267039,Lionel Andrés Messi Cuccittini,Barcelona,18.90211628363343,0.06441820460699943,False,Left Foot,Open Play,0,0,3,Normal
+267039,Jesé Rodríguez Ruiz,Las Palmas,25.54407954888961,0.06252523445345341,False,Right Foot,Open Play,0,0,1,Normal

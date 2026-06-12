@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.374433316206371,0.05612356705198443,False,Head,Open Play,0,1,2,Normal
-21.374049686477285,0.060784946394090406,False,Right Foot,Open Play,1,0,1,Volley
-10.720074626605923,0.058013562627002344,False,Left Foot,Open Play,1,0,2,Half Volley
-24.351591323771846,0.05692428072113629,False,Left Foot,Open Play,1,0,1,Volley
-25.582024939398366,0.06932996776830863,False,Left Foot,Open Play,0,0,0,Normal
-15.226949793047849,0.06220449527114255,False,Left Foot,Open Play,1,0,1,Volley
-7.305477397131557,0.05673743797214428,False,Head,Open Play,0,1,6,Normal
-33.95909303853683,0.07587358681624694,False,Left Foot,Open Play,0,0,1,Normal
-29.221909588526202,0.06149698548498992,False,Left Foot,Open Play,0,0,0,Normal
-28.888232898535005,0.047908099885132636,False,Left Foot,Free Kick,0,0,0,Normal
-15.984054554461453,0.062395239906377756,True,Right Foot,Open Play,1,0,0,Half Volley
-17.640861656959956,0.05692195184467749,True,Left Foot,Open Play,0,0,2,Normal
-25.566579747787937,0.0681408734862005,False,Right Foot,Open Play,0,0,0,Half Volley
-16.70269439342048,0.05539319988664809,True,Right Foot,Open Play,0,0,2,Normal
-25.7419890451379,0.06436313491760037,False,Right Foot,Open Play,1,0,1,Normal
-14.228492541376268,0.06018186498663312,False,Right Foot,Open Play,1,0,0,Normal
-12.925942905645217,0.05926235100260321,True,Right Foot,Open Play,0,0,2,Half Volley
-5.235456045083365,0.055847042222206676,False,Left Foot,Open Play,1,0,3,Half Volley
-12.1037184369102,0.059525293116391154,False,Head,Open Play,0,1,4,Normal
-4.964876634922569,0.056976886156116104,False,Left Foot,Open Play,0,0,4,Volley
-17.27078457974623,0.052638003238606915,False,Right Foot,Open Play,0,0,2,Half Volley
-9.990495483208024,0.05963738677189036,False,Right Foot,Open Play,0,0,3,Normal
-6.835934464285037,0.057698499322142736,True,Head,Open Play,0,1,5,Normal
-30.212083675244905,0.07191767816555736,False,Right Foot,Open Play,0,0,2,Normal
-23.436083290515924,0.05884771200189954,False,Right Foot,Open Play,0,0,1,Lob
-17.7124250174842,0.05245110594993051,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753988,Joshua King,AFC Bournemouth,9.374433316206371,0.05612356705198443,False,Head,Open Play,0,1,2,Normal
+3753988,Wayne Routledge,Swansea City,21.374049686477285,0.060784946394090406,False,Right Foot,Open Play,1,0,1,Volley
+3753988,Joshua King,AFC Bournemouth,10.720074626605923,0.058013562627002344,False,Left Foot,Open Play,1,0,2,Half Volley
+3753988,Matt Ritchie,AFC Bournemouth,24.351591323771846,0.05692428072113629,False,Left Foot,Open Play,1,0,1,Volley
+3753988,Andrew Surman,AFC Bournemouth,25.582024939398366,0.06932996776830863,False,Left Foot,Open Play,0,0,0,Normal
+3753988,Max-Alain Gradel,AFC Bournemouth,15.226949793047849,0.06220449527114255,False,Left Foot,Open Play,1,0,1,Volley
+3753988,Federico Fernández,Swansea City,7.305477397131557,0.05673743797214428,False,Head,Open Play,0,1,6,Normal
+3753988,Neil Taylor,Swansea City,33.95909303853683,0.07587358681624694,False,Left Foot,Open Play,0,0,1,Normal
+3753988,Gylfi Þór Sigurðsson,Swansea City,29.221909588526202,0.06149698548498992,False,Left Foot,Open Play,0,0,0,Normal
+3753988,Matt Ritchie,AFC Bournemouth,28.888232898535005,0.047908099885132636,False,Left Foot,Free Kick,0,0,0,Normal
+3753988,Max-Alain Gradel,AFC Bournemouth,15.984054554461453,0.062395239906377756,True,Right Foot,Open Play,1,0,0,Half Volley
+3753988,Modou Barrow,Swansea City,17.640861656959956,0.05692195184467749,True,Left Foot,Open Play,0,0,2,Normal
+3753988,Wayne Routledge,Swansea City,25.566579747787937,0.0681408734862005,False,Right Foot,Open Play,0,0,0,Half Volley
+3753988,Joshua King,AFC Bournemouth,16.70269439342048,0.05539319988664809,True,Right Foot,Open Play,0,0,2,Normal
+3753988,Àngel Rangel Zaragoza,Swansea City,25.7419890451379,0.06436313491760037,False,Right Foot,Open Play,1,0,1,Normal
+3753988,Joshua King,AFC Bournemouth,14.228492541376268,0.06018186498663312,False,Right Foot,Open Play,1,0,0,Normal
+3753988,Gylfi Þór Sigurðsson,Swansea City,12.925942905645217,0.05926235100260321,True,Right Foot,Open Play,0,0,2,Half Volley
+3753988,Alberto Paloschi,Swansea City,5.235456045083365,0.055847042222206676,False,Left Foot,Open Play,1,0,3,Half Volley
+3753988,Leroy Fer,Swansea City,12.1037184369102,0.059525293116391154,False,Head,Open Play,0,1,4,Normal
+3753988,Bafétimbi Gomis,Swansea City,4.964876634922569,0.056976886156116104,False,Left Foot,Open Play,0,0,4,Volley
+3753988,Alberto Paloschi,Swansea City,17.27078457974623,0.052638003238606915,False,Right Foot,Open Play,0,0,2,Half Volley
+3753988,Joshua King,AFC Bournemouth,9.990495483208024,0.05963738677189036,False,Right Foot,Open Play,0,0,3,Normal
+3753988,Steve Cook,AFC Bournemouth,6.835934464285037,0.057698499322142736,True,Head,Open Play,0,1,5,Normal
+3753988,Joshua King,AFC Bournemouth,30.212083675244905,0.07191767816555736,False,Right Foot,Open Play,0,0,2,Normal
+3753988,Lewis Grabban,AFC Bournemouth,23.436083290515924,0.05884771200189954,False,Right Foot,Open Play,0,0,1,Lob
+3753988,Marvin Emnes,Swansea City,17.7124250174842,0.05245110594993051,False,Right Foot,Open Play,1,0,2,Half Volley

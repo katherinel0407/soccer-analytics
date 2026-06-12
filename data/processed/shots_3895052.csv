@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.647185841443907,0.07305503649446995,False,Left Foot,Open Play,0,0,1,Normal
-21.242410409367388,0.06531951833169419,False,Left Foot,Open Play,0,1,2,Normal
-24.279209212822394,0.0625231949574523,False,Left Foot,Open Play,1,0,0,Normal
-22.055384830013736,0.0670064637335168,False,Right Foot,Open Play,0,1,1,Half Volley
-24.158849310345893,0.06829470802237424,False,Right Foot,Open Play,0,0,3,Normal
-7.0178344238090995,0.05739510148734901,False,Head,Open Play,0,0,5,Normal
-29.56653513687392,0.059478878779968054,False,Right Foot,Open Play,1,0,0,Half Volley
-7.443117626371361,0.0560890987847079,True,Right Foot,Open Play,1,0,2,Normal
-18.727519857151396,0.06452087271405083,False,Right Foot,Open Play,1,1,1,Normal
-7.111258679024404,0.05746662318181736,True,Head,Open Play,0,0,4,Normal
-8.79317917479225,0.05895734952924639,False,Head,Open Play,0,1,3,Normal
-9.929753269845122,0.0538031078291156,True,Head,Open Play,0,0,2,Normal
-10.647065323364938,0.06014710099576607,False,Left Foot,Open Play,1,0,2,Normal
-18.681006396872736,0.055272072501853474,False,Right Foot,Open Play,0,0,3,Normal
-26.389770745499092,0.06396503117700636,False,Right Foot,Open Play,0,0,2,Normal
-16.13071604114337,0.058803092325988446,True,Right Foot,Open Play,1,0,2,Normal
-4.827007354458871,0.056988479922913324,True,Head,Open Play,0,0,4,Normal
-7.387827826905555,0.05485971893510686,False,Right Foot,Open Play,1,0,2,Normal
-29.88260363489099,0.06311534759876071,False,Left Foot,Open Play,0,0,1,Normal
-10.198039027185569,0.05806928832192944,False,Head,Open Play,0,0,2,Normal
-6.965629906907203,0.05824119311893695,False,Head,Open Play,0,0,3,Normal
-12.615070352558481,0.060971042596070134,False,Head,Open Play,0,1,2,Normal
-22.989562849258363,0.06730675299706775,False,Right Foot,Open Play,0,1,3,Normal
-28.72559834015647,0.054271451131957145,False,Right Foot,Open Play,0,0,2,Normal
-29.44775033852332,0.057883807685912655,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895052,Granit Xhaka,Bayer Leverkusen,30.647185841443907,0.07305503649446995,False,Left Foot,Open Play,0,0,1,Normal
+3895052,Timo Werner,RB Leipzig,21.242410409367388,0.06531951833169419,False,Left Foot,Open Play,0,1,2,Normal
+3895052,Jonas Hofmann,Bayer Leverkusen,24.279209212822394,0.0625231949574523,False,Left Foot,Open Play,1,0,0,Normal
+3895052,Ikoma Loïs Openda,RB Leipzig,22.055384830013736,0.0670064637335168,False,Right Foot,Open Play,0,1,1,Half Volley
+3895052,Benjamin Henrichs,RB Leipzig,24.158849310345893,0.06829470802237424,False,Right Foot,Open Play,0,0,3,Normal
+3895052,Ikoma Loïs Openda,RB Leipzig,7.0178344238090995,0.05739510148734901,False,Head,Open Play,0,0,5,Normal
+3895052,Benjamin Henrichs,RB Leipzig,29.56653513687392,0.059478878779968054,False,Right Foot,Open Play,1,0,0,Half Volley
+3895052,Jeremie Frimpong,Bayer Leverkusen,7.443117626371361,0.0560890987847079,True,Right Foot,Open Play,1,0,2,Normal
+3895052,Alejandro Grimaldo García,Bayer Leverkusen,18.727519857151396,0.06452087271405083,False,Right Foot,Open Play,1,1,1,Normal
+3895052,Jonathan Tah,Bayer Leverkusen,7.111258679024404,0.05746662318181736,True,Head,Open Play,0,0,4,Normal
+3895052,Victor Okoh Boniface,Bayer Leverkusen,8.79317917479225,0.05895734952924639,False,Head,Open Play,0,1,3,Normal
+3895052,Daniel Olmo Carvajal,RB Leipzig,9.929753269845122,0.0538031078291156,True,Head,Open Play,0,0,2,Normal
+3895052,Florian Wirtz,Bayer Leverkusen,10.647065323364938,0.06014710099576607,False,Left Foot,Open Play,1,0,2,Normal
+3895052,Benjamin Henrichs,RB Leipzig,18.681006396872736,0.055272072501853474,False,Right Foot,Open Play,0,0,3,Normal
+3895052,Victor Okoh Boniface,Bayer Leverkusen,26.389770745499092,0.06396503117700636,False,Right Foot,Open Play,0,0,2,Normal
+3895052,Florian Wirtz,Bayer Leverkusen,16.13071604114337,0.058803092325988446,True,Right Foot,Open Play,1,0,2,Normal
+3895052,Ikoma Loïs Openda,RB Leipzig,4.827007354458871,0.056988479922913324,True,Head,Open Play,0,0,4,Normal
+3895052,Ikoma Loïs Openda,RB Leipzig,7.387827826905555,0.05485971893510686,False,Right Foot,Open Play,1,0,2,Normal
+3895052,Xaver Schlager,RB Leipzig,29.88260363489099,0.06311534759876071,False,Left Foot,Open Play,0,0,1,Normal
+3895052,Yussuf Yurary Poulsen,RB Leipzig,10.198039027185569,0.05806928832192944,False,Head,Open Play,0,0,2,Normal
+3895052,Yussuf Yurary Poulsen,RB Leipzig,6.965629906907203,0.05824119311893695,False,Head,Open Play,0,0,3,Normal
+3895052,Benjamin Henrichs,RB Leipzig,12.615070352558481,0.060971042596070134,False,Head,Open Play,0,1,2,Normal
+3895052,Victor Okoh Boniface,Bayer Leverkusen,22.989562849258363,0.06730675299706775,False,Right Foot,Open Play,0,1,3,Normal
+3895052,Benjamin Henrichs,RB Leipzig,28.72559834015647,0.054271451131957145,False,Right Foot,Open Play,0,0,2,Normal
+3895052,Arthur Augusto de Matos Soares,Bayer Leverkusen,29.44775033852332,0.057883807685912655,False,Right Foot,Open Play,0,0,0,Normal

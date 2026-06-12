@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.030174797722744,0.06454990502038747,False,Right Foot,Open Play,0,0,1,Normal
-27.472895733795525,0.06555321087510353,False,Right Foot,Open Play,1,0,1,Normal
-33.78061574335198,0.07506744595497548,False,Right Foot,Open Play,0,1,0,Normal
-16.056151469141042,0.05429565041013127,False,Right Foot,Open Play,1,0,1,Volley
-13.624243098242188,0.06182961017179591,False,Head,Open Play,0,1,2,Normal
-8.205485969764378,0.05793507983557479,False,Head,Open Play,0,0,3,Normal
-33.15493930020081,0.07493972472561211,False,Right Foot,Open Play,0,0,1,Normal
-15.0,0.05407336265679737,False,Right Foot,Open Play,1,0,1,Half Volley
-15.174320413119,0.05568156159767152,False,Right Foot,Open Play,0,0,2,Normal
-36.45229759562489,0.06140247192523087,False,Right Foot,Open Play,0,0,1,Normal
-29.300682585905736,0.06766370980945452,False,Right Foot,Open Play,0,0,2,Normal
-32.62207841324645,0.07476736225903549,False,Right Foot,Open Play,0,0,1,Normal
-13.930183056945085,0.06179782314431925,False,Right Foot,Open Play,1,0,4,Volley
-25.625963396524234,0.06912218970603361,False,Left Foot,Open Play,0,0,1,Normal
-7.874642849044009,0.054899967644510286,False,Left Foot,Open Play,0,0,2,Normal
-30.85984445845442,0.07336039219698288,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266462,Andrés Iniesta Luján,Barcelona,26.030174797722744,0.06454990502038747,False,Right Foot,Open Play,0,0,1,Normal
+266462,Andrés Iniesta Luján,Barcelona,27.472895733795525,0.06555321087510353,False,Right Foot,Open Play,1,0,1,Normal
+266462,Manuel Onwu Villafranca,Osasuna,33.78061574335198,0.07506744595497548,False,Right Foot,Open Play,0,1,0,Normal
+266462,Pedro Eliezer Rodríguez Ledesma,Barcelona,16.056151469141042,0.05429565041013127,False,Right Foot,Open Play,1,0,1,Volley
+266462,Manuel Jesús Ortiz Toribio,Osasuna,13.624243098242188,0.06182961017179591,False,Head,Open Play,0,1,2,Normal
+266462,Marc Bartra Aregall,Barcelona,8.205485969764378,0.05793507983557479,False,Head,Open Play,0,0,3,Normal
+266462,Roberto Torres Morales,Osasuna,33.15493930020081,0.07493972472561211,False,Right Foot,Open Play,0,0,1,Normal
+266462,Francesc Fàbregas i Soler,Barcelona,15.0,0.05407336265679737,False,Right Foot,Open Play,1,0,1,Half Volley
+266462,Francesc Fàbregas i Soler,Barcelona,15.174320413119,0.05568156159767152,False,Right Foot,Open Play,0,0,2,Normal
+266462,Francisco Andrés Silva Gajardo,Osasuna,36.45229759562489,0.06140247192523087,False,Right Foot,Open Play,0,0,1,Normal
+266462,Francesc Fàbregas i Soler,Barcelona,29.300682585905736,0.06766370980945452,False,Right Foot,Open Play,0,0,2,Normal
+266462,Adriano Correia Claro,Barcelona,32.62207841324645,0.07476736225903549,False,Right Foot,Open Play,0,0,1,Normal
+266462,Francesc Fàbregas i Soler,Barcelona,13.930183056945085,0.06179782314431925,False,Right Foot,Open Play,1,0,4,Volley
+266462,Lionel Andrés Messi Cuccittini,Barcelona,25.625963396524234,0.06912218970603361,False,Left Foot,Open Play,0,0,1,Normal
+266462,Lionel Andrés Messi Cuccittini,Barcelona,7.874642849044009,0.054899967644510286,False,Left Foot,Open Play,0,0,2,Normal
+266462,Adriano Correia Claro,Barcelona,30.85984445845442,0.07336039219698288,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.44518454254806,0.07435620663526561,False,Right Foot,Free Kick,0,0,0,Normal
-14.220056258679152,0.0561894594539544,False,Left Foot,Open Play,0,1,2,Normal
-46.17033679755867,0.06322289752897679,False,Left Foot,Free Kick,0,0,0,Normal
-12.001666550941998,0.05966323694216356,False,Right Foot,Penalty,0,0,0,Normal
-10.34794665622122,0.05487269554756937,False,Head,Open Play,0,0,3,Normal
-14.408677940741123,0.062170742012571084,False,Right Foot,Open Play,1,0,4,Volley
-11.303096920755834,0.06007071950237576,False,Head,Open Play,0,1,3,Normal
-14.150971698084906,0.05360779287587785,False,Right Foot,Open Play,0,0,2,Normal
-12.937542270462343,0.053485850678500306,True,Head,Open Play,0,0,2,Normal
-11.086027241532467,0.057435863294886,False,Right Foot,Open Play,0,0,2,Half Volley
-9.960923651951164,0.05834378707622869,False,Right Foot,Open Play,0,0,2,Normal
-9.0249653738948,0.059178627748908544,True,Left Foot,Open Play,1,0,3,Volley
-21.105923339195556,0.06337433905876927,False,Left Foot,Open Play,1,0,3,Normal
-14.35862110371327,0.06208871138994289,True,Left Foot,Open Play,0,1,2,Normal
-27.87292593180701,0.053456305054121245,False,Right Foot,Open Play,0,0,2,Normal
-14.310835055998657,0.060927163543701306,False,Left Foot,Open Play,0,0,1,Normal
-10.358571330062848,0.05979306384233252,False,Head,Open Play,0,1,3,Normal
-13.688316185711086,0.06075568012404225,False,Left Foot,Open Play,1,1,3,Half Volley
-3.8832975677895236,0.05671914378674791,False,Head,Open Play,0,1,7,Normal
-29.481010837486554,0.07060308546230974,False,Left Foot,Free Kick,0,0,0,Normal
-13.911865439257236,0.05319331973812727,False,Right Foot,Open Play,0,0,2,Normal
-5.990826320300062,0.0557404505960712,False,Left Foot,Open Play,1,0,2,Normal
-8.980534505250795,0.05791173528044502,False,Left Foot,Open Play,0,0,3,Lob
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-13.63561513097227,0.061590584948151145,False,Left Foot,Open Play,0,0,1,Normal
-9.732420048477147,0.0580511459504597,True,Right Foot,Open Play,0,0,2,Normal
-32.74828239770751,0.06582124059863606,False,Right Foot,Open Play,0,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70219,Daniel Alves da Silva,Barcelona,32.44518454254806,0.07435620663526561,False,Right Foot,Free Kick,0,0,0,Normal
+70219,Lionel Andrés Messi Cuccittini,Barcelona,14.220056258679152,0.0561894594539544,False,Left Foot,Open Play,0,1,2,Normal
+70219,Lionel Andrés Messi Cuccittini,Barcelona,46.17033679755867,0.06322289752897679,False,Left Foot,Free Kick,0,0,0,Normal
+70219,Ángel Lafita Castillo,Real Zaragoza,12.001666550941998,0.05966323694216356,False,Right Foot,Penalty,0,0,0,Normal
+70219,Javier Paredes Arango,Real Zaragoza,10.34794665622122,0.05487269554756937,False,Head,Open Play,0,0,3,Normal
+70219,Ádám Pintér,Real Zaragoza,14.408677940741123,0.062170742012571084,False,Right Foot,Open Play,1,0,4,Volley
+70219,Carles Puyol i Saforcada,Barcelona,11.303096920755834,0.06007071950237576,False,Head,Open Play,0,1,3,Normal
+70219,Carlos Reina Aranda,Real Zaragoza,14.150971698084906,0.05360779287587785,False,Right Foot,Open Play,0,0,2,Normal
+70219,Carlos Reina Aranda,Real Zaragoza,12.937542270462343,0.053485850678500306,True,Head,Open Play,0,0,2,Normal
+70219,Alexis Alejandro Sánchez Sánchez,Barcelona,11.086027241532467,0.057435863294886,False,Right Foot,Open Play,0,0,2,Half Volley
+70219,Francesc Fàbregas i Soler,Barcelona,9.960923651951164,0.05834378707622869,False,Right Foot,Open Play,0,0,2,Normal
+70219,Carles Puyol i Saforcada,Barcelona,9.0249653738948,0.059178627748908544,True,Left Foot,Open Play,1,0,3,Volley
+70219,Rúben Micael Freitas da Ressurreição,Real Zaragoza,21.105923339195556,0.06337433905876927,False,Left Foot,Open Play,1,0,3,Normal
+70219,Lionel Andrés Messi Cuccittini,Barcelona,14.35862110371327,0.06208871138994289,True,Left Foot,Open Play,0,1,2,Normal
+70219,Ángel Lafita Castillo,Real Zaragoza,27.87292593180701,0.053456305054121245,False,Right Foot,Open Play,0,0,2,Normal
+70219,Ivan Obradović,Real Zaragoza,14.310835055998657,0.060927163543701306,False,Left Foot,Open Play,0,0,1,Normal
+70219,Ángel Lafita Castillo,Real Zaragoza,10.358571330062848,0.05979306384233252,False,Head,Open Play,0,1,3,Normal
+70219,Paulo César Da Silva Barrios,Real Zaragoza,13.688316185711086,0.06075568012404225,False,Left Foot,Open Play,1,1,3,Half Volley
+70219,Carlos Reina Aranda,Real Zaragoza,3.8832975677895236,0.05671914378674791,False,Head,Open Play,0,1,7,Normal
+70219,Lionel Andrés Messi Cuccittini,Barcelona,29.481010837486554,0.07060308546230974,False,Left Foot,Free Kick,0,0,0,Normal
+70219,Alexis Alejandro Sánchez Sánchez,Barcelona,13.911865439257236,0.05319331973812727,False,Right Foot,Open Play,0,0,2,Normal
+70219,Thiago Alcântara do Nascimento,Barcelona,5.990826320300062,0.0557404505960712,False,Left Foot,Open Play,1,0,2,Normal
+70219,Lionel Andrés Messi Cuccittini,Barcelona,8.980534505250795,0.05791173528044502,False,Left Foot,Open Play,0,0,3,Lob
+70219,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+70219,Lionel Andrés Messi Cuccittini,Barcelona,13.63561513097227,0.061590584948151145,False,Left Foot,Open Play,0,0,1,Normal
+70219,Pedro Eliezer Rodríguez Ledesma,Barcelona,9.732420048477147,0.0580511459504597,True,Right Foot,Open Play,0,0,2,Normal
+70219,Ádám Pintér,Real Zaragoza,32.74828239770751,0.06582124059863606,False,Right Foot,Open Play,0,0,1,Volley

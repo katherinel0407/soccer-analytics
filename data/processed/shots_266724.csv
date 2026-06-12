@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.204959829366913,0.0630957083373262,False,Right Foot,Open Play,1,0,0,Half Volley
-28.18102198288771,0.05799554701750187,False,Right Foot,Open Play,0,0,0,Normal
-12.252754792290586,0.058305091861133494,False,Right Foot,Open Play,1,0,2,Half Volley
-22.751703232945,0.061297597990230275,False,Right Foot,Open Play,1,0,3,Normal
-12.928263611173776,0.060972862127691194,False,Head,Open Play,0,0,2,Normal
-26.631747971171556,0.06888343652225845,True,Right Foot,Free Kick,0,0,0,Normal
-22.400892839349066,0.06411097964739824,False,Left Foot,Open Play,1,0,1,Half Volley
-8.910667763978182,0.05780441786117405,False,Head,Open Play,0,1,4,Normal
-31.923189063751135,0.06069207036877016,False,Right Foot,Open Play,0,0,1,Normal
-23.60190670263739,0.0649114841657412,True,Left Foot,Open Play,0,0,2,Normal
-22.811400658442704,0.06751219024752245,True,Right Foot,Open Play,0,0,1,Normal
-6.122091146005583,0.05550824055794848,False,Right Foot,Open Play,1,0,2,Volley
-13.624243098242188,0.06182961017179591,True,Left Foot,Open Play,1,0,0,Half Volley
-26.40927867246662,0.06092421843598878,False,Left Foot,Free Kick,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-17.36260349141222,0.06380305698396534,True,Left Foot,Open Play,0,0,4,Normal
-26.076809620810597,0.06692110582139651,False,Right Foot,Open Play,1,0,1,Half Volley
-15.815182578775376,0.0624087881099146,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266724,Xavier Hernández Creus,Barcelona,25.204959829366913,0.0630957083373262,False,Right Foot,Open Play,1,0,0,Half Volley
+266724,Daniel Alves da Silva,Barcelona,28.18102198288771,0.05799554701750187,False,Right Foot,Open Play,0,0,0,Normal
+266724,Tomer Hemed,Mallorca,12.252754792290586,0.058305091861133494,False,Right Foot,Open Play,1,0,2,Half Volley
+266724,Xavier Hernández Creus,Barcelona,22.751703232945,0.061297597990230275,False,Right Foot,Open Play,1,0,3,Normal
+266724,Tomer Hemed,Mallorca,12.928263611173776,0.060972862127691194,False,Head,Open Play,0,0,2,Normal
+266724,Xavier Hernández Creus,Barcelona,26.631747971171556,0.06888343652225845,True,Right Foot,Free Kick,0,0,0,Normal
+266724,Francesc Fàbregas i Soler,Barcelona,22.400892839349066,0.06411097964739824,False,Left Foot,Open Play,1,0,1,Half Volley
+266724,Tomer Hemed,Mallorca,8.910667763978182,0.05780441786117405,False,Head,Open Play,0,1,4,Normal
+266724,Francesc Fàbregas i Soler,Barcelona,31.923189063751135,0.06069207036877016,False,Right Foot,Open Play,0,0,1,Normal
+266724,Lionel Andrés Messi Cuccittini,Barcelona,23.60190670263739,0.0649114841657412,True,Left Foot,Open Play,0,0,2,Normal
+266724,Cristian Tello Herrera,Barcelona,22.811400658442704,0.06751219024752245,True,Right Foot,Open Play,0,0,1,Normal
+266724,Alejandro Alfaro Ligero,Mallorca,6.122091146005583,0.05550824055794848,False,Right Foot,Open Play,1,0,2,Volley
+266724,Michaël Pereira,Mallorca,13.624243098242188,0.06182961017179591,True,Left Foot,Open Play,1,0,0,Half Volley
+266724,Lionel Andrés Messi Cuccittini,Barcelona,26.40927867246662,0.06092421843598878,False,Left Foot,Free Kick,0,0,0,Normal
+266724,Víctor Casadesús Castaño,Mallorca,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+266724,Lionel Andrés Messi Cuccittini,Barcelona,17.36260349141222,0.06380305698396534,True,Left Foot,Open Play,0,0,4,Normal
+266724,Xavier Hernández Creus,Barcelona,26.076809620810597,0.06692110582139651,False,Right Foot,Open Play,1,0,1,Half Volley
+266724,Lionel Andrés Messi Cuccittini,Barcelona,15.815182578775376,0.0624087881099146,False,Left Foot,Open Play,0,0,3,Normal

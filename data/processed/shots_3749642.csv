@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.323532661682469,0.0574025997479926,True,Right Foot,Open Play,1,0,3,Normal
-6.746851117373194,0.057837263476733534,True,Left Foot,Open Play,0,1,2,Normal
-24.284357104934855,0.0651436835391555,False,Left Foot,Open Play,0,1,1,Normal
-15.28168838839479,0.06278065232413611,False,Left Foot,Open Play,0,0,3,Normal
-19.22836446502926,0.05718230338393418,False,Right Foot,Open Play,0,0,2,Normal
-36.522458843840184,0.0779183798166,False,Left Foot,Open Play,0,0,1,Normal
-23.52870587176439,0.06793679412153088,False,Right Foot,Open Play,0,1,2,Normal
-19.799999999999997,0.0630012672625078,False,Right Foot,Open Play,1,0,1,Volley
-23.312228550698453,0.06696378402483447,False,Right Foot,Open Play,0,0,0,Half Volley
-26.61879035568671,0.06672486451516621,False,Left Foot,Open Play,0,0,1,Normal
-17.066048165876015,0.05548281472096629,False,Left Foot,Open Play,0,0,2,Normal
-25.555625603768732,0.0627716545512871,False,Right Foot,Open Play,0,0,2,Normal
-22.96366695456107,0.067614944966317,False,Right Foot,Open Play,0,1,1,Normal
-37.60904146611556,0.056010836239604615,False,Right Foot,Open Play,0,0,1,Normal
-12.414910390333072,0.0588341376832682,False,Right Foot,Open Play,0,0,1,Half Volley
-26.1275716437636,0.06536066147424889,False,Right Foot,Open Play,0,0,2,Normal
-35.79455265819089,0.07404773965366193,False,Right Foot,Open Play,1,0,2,Volley
-19.39123513343078,0.06526753476809036,False,Right Foot,Open Play,0,0,1,Half Volley
-29.638657189555676,0.07209942883428674,False,Right Foot,Open Play,0,0,1,Normal
-31.81006130141845,0.06835472371062551,False,Left Foot,Free Kick,0,0,0,Normal
-14.801351289662708,0.060858700421662366,False,Left Foot,Open Play,0,0,3,Half Volley
-18.804786624686805,0.06427907994749353,False,Right Foot,Open Play,1,0,1,Half Volley
-19.44453650771856,0.05369613589100989,False,Left Foot,Open Play,0,0,1,Half Volley
-28.093059641128455,0.07034531316707893,True,Right Foot,Free Kick,0,0,0,Normal
-16.595180023127195,0.054404888110654866,False,Right Foot,Open Play,0,0,1,Normal
-2.8017851452243785,0.055276890847073414,False,Head,Open Play,0,1,4,Normal
-32.987573417879645,0.06502413968106993,False,Right Foot,Free Kick,0,0,0,Normal
-30.402138082707275,0.07286413249714105,False,Right Foot,Open Play,0,0,1,Normal
-5.032891812864643,0.05720807431753768,False,Head,Open Play,0,0,4,Normal
-30.07607022202203,0.06162255613683631,False,Left Foot,Open Play,0,1,2,Normal
-18.84887264533346,0.06454745228444513,False,Right Foot,Open Play,1,0,2,Half Volley
-18.87988347421668,0.06357972939392889,False,Right Foot,Open Play,1,0,2,Overhead Kick
-13.600367642089678,0.05362811186426573,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749642,Robert Pirès,Arsenal,5.323532661682469,0.0574025997479926,True,Right Foot,Open Play,1,0,3,Normal
+3749642,Thierry Henry,Arsenal,6.746851117373194,0.057837263476733534,True,Left Foot,Open Play,0,1,2,Normal
+3749642,Ashley Cole,Arsenal,24.284357104934855,0.0651436835391555,False,Left Foot,Open Play,0,1,1,Normal
+3749642,Ashley Cole,Arsenal,15.28168838839479,0.06278065232413611,False,Left Foot,Open Play,0,0,3,Normal
+3749642,Dennis Bergkamp,Arsenal,19.22836446502926,0.05718230338393418,False,Right Foot,Open Play,0,0,2,Normal
+3749642,Eduardo César Daude Gaspar,Arsenal,36.522458843840184,0.0779183798166,False,Left Foot,Open Play,0,0,1,Normal
+3749642,Dennis Bergkamp,Arsenal,23.52870587176439,0.06793679412153088,False,Right Foot,Open Play,0,1,2,Normal
+3749642,Dennis Bergkamp,Arsenal,19.799999999999997,0.0630012672625078,False,Right Foot,Open Play,1,0,1,Volley
+3749642,Paolo Di Canio,Charlton Athletic,23.312228550698453,0.06696378402483447,False,Right Foot,Open Play,0,0,0,Half Volley
+3749642,Eduardo César Daude Gaspar,Arsenal,26.61879035568671,0.06672486451516621,False,Left Foot,Open Play,0,0,1,Normal
+3749642,Fredrik Ljungberg,Arsenal,17.066048165876015,0.05548281472096629,False,Left Foot,Open Play,0,0,2,Normal
+3749642,Patrick Vieira,Arsenal,25.555625603768732,0.0627716545512871,False,Right Foot,Open Play,0,0,2,Normal
+3749642,Robert Pirès,Arsenal,22.96366695456107,0.067614944966317,False,Right Foot,Open Play,0,1,1,Normal
+3749642,Claus Jensen,Charlton Athletic,37.60904146611556,0.056010836239604615,False,Right Foot,Open Play,0,0,1,Normal
+3749642,Thierry Henry,Arsenal,12.414910390333072,0.0588341376832682,False,Right Foot,Open Play,0,0,1,Half Volley
+3749642,Dennis Bergkamp,Arsenal,26.1275716437636,0.06536066147424889,False,Right Foot,Open Play,0,0,2,Normal
+3749642,Matt Holland,Charlton Athletic,35.79455265819089,0.07404773965366193,False,Right Foot,Open Play,1,0,2,Volley
+3749642,Graham Stuart,Charlton Athletic,19.39123513343078,0.06526753476809036,False,Right Foot,Open Play,0,0,1,Half Volley
+3749642,Thierry Henry,Arsenal,29.638657189555676,0.07209942883428674,False,Right Foot,Open Play,0,0,1,Normal
+3749642,Eduardo César Daude Gaspar,Arsenal,31.81006130141845,0.06835472371062551,False,Left Foot,Free Kick,0,0,0,Normal
+3749642,Hermann Hreidarsson,Charlton Athletic,14.801351289662708,0.060858700421662366,False,Left Foot,Open Play,0,0,3,Half Volley
+3749642,Graham Stuart,Charlton Athletic,18.804786624686805,0.06427907994749353,False,Right Foot,Open Play,1,0,1,Half Volley
+3749642,Paolo Di Canio,Charlton Athletic,19.44453650771856,0.05369613589100989,False,Left Foot,Open Play,0,0,1,Half Volley
+3749642,Claus Jensen,Charlton Athletic,28.093059641128455,0.07034531316707893,True,Right Foot,Free Kick,0,0,0,Normal
+3749642,Thierry Henry,Arsenal,16.595180023127195,0.054404888110654866,False,Right Foot,Open Play,0,0,1,Normal
+3749642,Patrick Vieira,Arsenal,2.8017851452243785,0.055276890847073414,False,Head,Open Play,0,1,4,Normal
+3749642,Thierry Henry,Arsenal,32.987573417879645,0.06502413968106993,False,Right Foot,Free Kick,0,0,0,Normal
+3749642,Radostin Kishishev,Charlton Athletic,30.402138082707275,0.07286413249714105,False,Right Foot,Open Play,0,0,1,Normal
+3749642,Graham Stuart,Charlton Athletic,5.032891812864643,0.05720807431753768,False,Head,Open Play,0,0,4,Normal
+3749642,José Antonio Reyes Calderón,Arsenal,30.07607022202203,0.06162255613683631,False,Left Foot,Open Play,0,1,2,Normal
+3749642,Claus Jensen,Charlton Athletic,18.84887264533346,0.06454745228444513,False,Right Foot,Open Play,1,0,2,Half Volley
+3749642,Jonatan Lillebror Johansson,Charlton Athletic,18.87988347421668,0.06357972939392889,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3749642,Gilberto Aparecido da Silva,Arsenal,13.600367642089678,0.05362811186426573,False,Head,Open Play,0,0,1,Normal

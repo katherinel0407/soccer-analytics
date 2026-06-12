@@ -1,29 +1,13 @@
 from pathlib import Path
 import pandas as pd
 
-def load_all_shots():
-
-    processed_dir = Path("../data/processed")
-
-    csv_files = processed_dir.glob("shots_*.csv")
-
+def load_raw_data():
     dfs = []
-
-    for file in csv_files:
+    for file in Path("../data/processed").glob("shots_*.csv"):
         dfs.append(pd.read_csv(file))
+    return pd.concat(dfs, ignore_index=True)
 
-    all_shots = pd.concat(dfs, ignore_index=True)
-
-    all_shots = pd.get_dummies(
-        all_shots,
-        columns=[
-            "body_part",
-            "shot_type",
-            "technique"
-        ],
-        dtype=int
-    )
-
-    all_shots["goal"] = all_shots["goal"].astype(int)
-
-    return all_shots
+def load_model_data():
+    df = load_raw_data()
+    df = pd.get_dummies(df, columns=["body_part", "shot_type", "technique"], dtype=int)
+    return df

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.710382610480488,0.05858289756245421,False,Head,Open Play,0,0,3,Normal
-20.61188977265306,0.05299432996561735,False,Left Foot,Open Play,0,0,1,Normal
-20.59732992404598,0.06419104216482903,False,Right Foot,Open Play,0,0,2,Normal
-25.701750913118744,0.06592668560064263,False,Right Foot,Open Play,0,0,3,Normal
-23.930106560565083,0.06822980533639678,False,Right Foot,Open Play,0,1,2,Normal
-9.454099639838798,0.059433058031198444,True,Head,Open Play,0,0,3,Normal
-33.97793401606402,0.06180445456019323,False,Right Foot,Open Play,0,0,0,Half Volley
-16.6739317498903,0.056968338087248965,True,Left Foot,Open Play,0,0,0,Normal
-15.901257811883942,0.06190011056282352,False,Right Foot,Open Play,0,0,3,Normal
-14.807092894960848,0.0546647875098824,False,Right Foot,Open Play,1,0,1,Half Volley
-13.678084661238211,0.05939597105019615,False,Head,Open Play,0,0,2,Normal
-22.14610575247938,0.06620977798876344,False,Right Foot,Open Play,1,0,1,Half Volley
-14.882204137828511,0.06245093337185928,False,Left Foot,Open Play,1,0,1,Normal
-33.82454729926182,0.07157621115747582,False,Right Foot,Open Play,0,0,0,Normal
-34.12989891576007,0.06643036206214033,False,Left Foot,Open Play,1,0,0,Normal
-26.172504656604797,0.05788316511341059,False,Left Foot,Open Play,0,0,1,Half Volley
-10.206860437960346,0.05990118062822243,False,Head,Open Play,0,1,2,Normal
-21.50581316760657,0.06659999869097398,False,Right Foot,Open Play,1,0,2,Overhead Kick
-12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
-25.219833464953734,0.06602675310303602,False,Left Foot,Open Play,1,0,0,Volley
-21.467417171145666,0.06634068153801306,False,Right Foot,Open Play,0,0,2,Normal
-35.261877431583244,0.074441959920933,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754278,Glenn Murray,AFC Bournemouth,7.710382610480488,0.05858289756245421,False,Head,Open Play,0,0,3,Normal
+3754278,Allan Romeo Nyom,Watford,20.61188977265306,0.05299432996561735,False,Left Foot,Open Play,0,0,1,Normal
+3754278,Joshua King,AFC Bournemouth,20.59732992404598,0.06419104216482903,False,Right Foot,Open Play,0,0,2,Normal
+3754278,Etienne Capoue,Watford,25.701750913118744,0.06592668560064263,False,Right Foot,Open Play,0,0,3,Normal
+3754278,Marc Pugh,AFC Bournemouth,23.930106560565083,0.06822980533639678,False,Right Foot,Open Play,0,1,2,Normal
+3754278,Glenn Murray,AFC Bournemouth,9.454099639838798,0.059433058031198444,True,Head,Open Play,0,0,3,Normal
+3754278,Etienne Capoue,Watford,33.97793401606402,0.06180445456019323,False,Right Foot,Open Play,0,0,0,Half Volley
+3754278,Odion Jude Ighalo,Watford,16.6739317498903,0.056968338087248965,True,Left Foot,Open Play,0,0,0,Normal
+3754278,Odion Jude Ighalo,Watford,15.901257811883942,0.06190011056282352,False,Right Foot,Open Play,0,0,3,Normal
+3754278,Ben Watson,Watford,14.807092894960848,0.0546647875098824,False,Right Foot,Open Play,1,0,1,Half Volley
+3754278,Ikechi Anya,Watford,13.678084661238211,0.05939597105019615,False,Head,Open Play,0,0,2,Normal
+3754278,Ben Watson,Watford,22.14610575247938,0.06620977798876344,False,Right Foot,Open Play,1,0,1,Half Volley
+3754278,Ikechi Anya,Watford,14.882204137828511,0.06245093337185928,False,Left Foot,Open Play,1,0,1,Normal
+3754278,Glenn Murray,AFC Bournemouth,33.82454729926182,0.07157621115747582,False,Right Foot,Open Play,0,0,0,Normal
+3754278,Matt Ritchie,AFC Bournemouth,34.12989891576007,0.06643036206214033,False,Left Foot,Open Play,1,0,0,Normal
+3754278,Odion Jude Ighalo,Watford,26.172504656604797,0.05788316511341059,False,Left Foot,Open Play,0,0,1,Half Volley
+3754278,Glenn Murray,AFC Bournemouth,10.206860437960346,0.05990118062822243,False,Head,Open Play,0,1,2,Normal
+3754278,Steve Cook,AFC Bournemouth,21.50581316760657,0.06659999869097398,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3754278,Glenn Murray,AFC Bournemouth,12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
+3754278,Dan Gosling,AFC Bournemouth,25.219833464953734,0.06602675310303602,False,Left Foot,Open Play,1,0,0,Volley
+3754278,Eunan O''Kane,AFC Bournemouth,21.467417171145666,0.06634068153801306,False,Right Foot,Open Play,0,0,2,Normal
+3754278,Almen Abdi,Watford,35.261877431583244,0.074441959920933,False,Right Foot,Free Kick,0,0,0,Normal

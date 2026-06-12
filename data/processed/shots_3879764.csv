@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.397278785629116,0.07073447343846512,False,Right Foot,Free Kick,0,0,0,Normal
-22.557482128996583,0.06223937526980343,False,Left Foot,Open Play,0,0,2,Normal
-26.02921435618064,0.05905371924336905,False,Left Foot,Open Play,0,1,2,Normal
-31.594461539959816,0.04628415905471083,False,Right Foot,Open Play,0,0,0,Half Volley
-33.344414824674914,0.07140994999888559,False,Right Foot,Open Play,0,0,1,Normal
-25.109759058979446,0.06110896470794484,False,Left Foot,Open Play,0,1,1,Normal
-35.96109008358896,0.07310597607103182,False,Right Foot,Open Play,1,0,1,Normal
-25.240047543536832,0.0684486627128052,False,Left Foot,Open Play,0,0,1,Normal
-32.76171546180084,0.058373606692367526,False,Left Foot,Open Play,0,0,1,Normal
-22.34032228952841,0.05621580836857832,False,Left Foot,Open Play,0,1,2,Normal
-27.706497432912734,0.055707222651352015,False,Left Foot,Open Play,0,0,1,Normal
-17.60823670899503,0.06399599909641338,False,Right Foot,Open Play,0,0,3,Normal
-8.36301381082203,0.058919396719665146,False,Head,Open Play,0,0,5,Normal
-13.756816492197606,0.053887663642625545,False,Right Foot,Open Play,0,1,1,Half Volley
-25.70700293694308,0.06547540182780719,False,Right Foot,Open Play,1,0,0,Normal
-5.800862004909276,0.05749640153424652,True,Head,Open Play,0,0,1,Normal
-22.35799633240868,0.06689685010311518,False,Left Foot,Open Play,1,0,2,Normal
-6.013318551349163,0.05703649278680505,False,Right Foot,Open Play,1,0,3,Half Volley
-7.424957912338629,0.058427191382143834,False,Head,Open Play,0,1,4,Normal
-23.803361107205006,0.06672749498855124,False,Right Foot,Open Play,0,0,2,Normal
-32.02577087284552,0.060369193573134125,False,Left Foot,Open Play,0,0,1,Normal
-19.442736432920128,0.06531007603159589,False,Right Foot,Open Play,0,0,2,Normal
-22.600221237855166,0.06425075287377512,False,Left Foot,Open Play,1,0,0,Normal
-26.707489586256514,0.05324038951600262,False,Left Foot,Open Play,0,0,2,Normal
-9.176055797563567,0.05912637631603643,False,Head,Open Play,0,1,2,Normal
-21.434784813475506,0.06595325423686743,False,Left Foot,Open Play,0,0,1,Half Volley
-17.645962711056605,0.059255586535878924,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879764,Blerim Džemaili,Genoa,29.397278785629116,0.07073447343846512,False,Right Foot,Free Kick,0,0,0,Normal
+3879764,Valter Birsa,Chievo,22.557482128996583,0.06223937526980343,False,Left Foot,Open Play,0,0,2,Normal
+3879764,Jesús Joaquín Fernández Sáez de la Torre,Genoa,26.02921435618064,0.05905371924336905,False,Left Foot,Open Play,0,1,2,Normal
+3879764,Sergio Pellissier,Chievo,31.594461539959816,0.04628415905471083,False,Right Foot,Open Play,0,0,0,Half Volley
+3879764,Blerim Džemaili,Genoa,33.344414824674914,0.07140994999888559,False,Right Foot,Open Play,0,0,1,Normal
+3879764,Alessio Cerci,Genoa,25.109759058979446,0.06110896470794484,False,Left Foot,Open Play,0,1,1,Normal
+3879764,Ivan Radovanović,Chievo,35.96109008358896,0.07310597607103182,False,Right Foot,Open Play,1,0,1,Normal
+3879764,Valter Birsa,Chievo,25.240047543536832,0.0684486627128052,False,Left Foot,Open Play,0,0,1,Normal
+3879764,Alessio Cerci,Genoa,32.76171546180084,0.058373606692367526,False,Left Foot,Open Play,0,0,1,Normal
+3879764,Tomás Eduardo Rincón Hernández,Genoa,22.34032228952841,0.05621580836857832,False,Left Foot,Open Play,0,1,2,Normal
+3879764,Alessio Cerci,Genoa,27.706497432912734,0.055707222651352015,False,Left Foot,Open Play,0,0,1,Normal
+3879764,Nicola Rigoni,Chievo,17.60823670899503,0.06399599909641338,False,Right Foot,Open Play,0,0,3,Normal
+3879764,Lucas Nahuel Castro,Chievo,8.36301381082203,0.058919396719665146,False,Head,Open Play,0,0,5,Normal
+3879764,Luca Rigoni,Genoa,13.756816492197606,0.053887663642625545,False,Right Foot,Open Play,0,1,1,Half Volley
+3879764,Ivan Radovanović,Chievo,25.70700293694308,0.06547540182780719,False,Right Foot,Open Play,1,0,0,Normal
+3879764,Lucas Nahuel Castro,Chievo,5.800862004909276,0.05749640153424652,True,Head,Open Play,0,0,1,Normal
+3879764,Valter Birsa,Chievo,22.35799633240868,0.06689685010311518,False,Left Foot,Open Play,1,0,2,Normal
+3879764,Nicola Rigoni,Chievo,6.013318551349163,0.05703649278680505,False,Right Foot,Open Play,1,0,3,Half Volley
+3879764,Lucas Nahuel Castro,Chievo,7.424957912338629,0.058427191382143834,False,Head,Open Play,0,1,4,Normal
+3879764,Paul-José M''Poku Ebunge,Chievo,23.803361107205006,0.06672749498855124,False,Right Foot,Open Play,0,0,2,Normal
+3879764,Alessio Cerci,Genoa,32.02577087284552,0.060369193573134125,False,Left Foot,Open Play,0,0,1,Normal
+3879764,Massimo Gobbi,Chievo,19.442736432920128,0.06531007603159589,False,Right Foot,Open Play,0,0,2,Normal
+3879764,Valter Birsa,Chievo,22.600221237855166,0.06425075287377512,False,Left Foot,Open Play,1,0,0,Normal
+3879764,Riccardo Meggiorini,Chievo,26.707489586256514,0.05324038951600262,False,Left Foot,Open Play,0,0,2,Normal
+3879764,Luca Rigoni,Genoa,9.176055797563567,0.05912637631603643,False,Head,Open Play,0,1,2,Normal
+3879764,Diego Ángel Capel Trinidad,Genoa,21.434784813475506,0.06595325423686743,False,Left Foot,Open Play,0,0,1,Half Volley
+3879764,Riccardo Meggiorini,Chievo,17.645962711056605,0.059255586535878924,False,Left Foot,Open Play,1,0,1,Normal

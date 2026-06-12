@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.965856099730654,0.05336860655770157,False,Head,Open Play,0,0,1,Normal
-18.66038584810078,0.0638342403265421,False,Right Foot,Open Play,0,1,1,Normal
-22.726636354727027,0.06485186927339062,False,Right Foot,Open Play,1,0,1,Volley
-7.805767098754609,0.0577758342634374,False,Head,Open Play,0,1,4,Normal
-28.117787964205146,0.06641987826805598,False,Right Foot,Open Play,0,0,0,Normal
-7.397972695272675,0.05708214470393857,True,Right Foot,Open Play,1,1,5,Volley
-10.151354589413184,0.056164642519269004,False,Head,Open Play,0,1,4,Normal
-17.601136326953444,0.06326404049830497,False,Right Foot,Open Play,0,0,1,Normal
-16.95936319559199,0.06348853996012203,False,Right Foot,Open Play,0,0,2,Half Volley
-20.3,0.06531537240891189,False,Right Foot,Open Play,0,0,2,Normal
-14.190489773083938,0.06107805066205976,False,Left Foot,Open Play,1,0,1,Normal
-16.2692962355475,0.060791626589533874,False,Left Foot,Open Play,1,0,2,Normal
-32.160379350996465,0.07360318367273318,False,Right Foot,Open Play,0,0,0,Normal
-17.585505395068974,0.05396674863396353,False,Right Foot,Open Play,1,0,0,Normal
-18.978935691971767,0.061435174504436134,False,Right Foot,Open Play,1,0,3,Half Volley
-25.93260495977988,0.06092925799058272,False,Left Foot,Open Play,0,0,2,Normal
-13.881282361511126,0.05978593685477568,False,Right Foot,Open Play,1,0,3,Half Volley
-18.739530410338457,0.06446446914715845,False,Left Foot,Open Play,1,0,0,Volley
-25.01459573928789,0.06107050340638569,False,Right Foot,Open Play,0,1,2,Normal
-28.524024961425056,0.06949597122026867,False,Left Foot,Open Play,1,0,0,Volley
-12.287391912037313,0.061083808575070724,False,Head,Open Play,0,0,3,Normal
-21.439449619801348,0.0665937831169946,False,Left Foot,Open Play,0,0,2,Normal
-19.142622599842475,0.052127701628069276,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788767,Marcel Sabitzer,Austria,10.965856099730654,0.05336860655770157,False,Head,Open Play,0,0,1,Normal
+3788767,Marcel Sabitzer,Austria,18.66038584810078,0.0638342403265421,False,Right Foot,Open Play,0,1,1,Normal
+3788767,Marcel Sabitzer,Austria,22.726636354727027,0.06485186927339062,False,Right Foot,Open Play,1,0,1,Volley
+3788767,Aleksandar Dragović,Austria,7.805767098754609,0.0577758342634374,False,Head,Open Play,0,1,4,Normal
+3788767,Marko Arnautović,Austria,28.117787964205146,0.06641987826805598,False,Right Foot,Open Play,0,0,0,Normal
+3788767,Christoph Baumgartner,Austria,7.397972695272675,0.05708214470393857,True,Right Foot,Open Play,1,1,5,Volley
+3788767,Martin Hinteregger,Austria,10.151354589413184,0.056164642519269004,False,Head,Open Play,0,1,4,Normal
+3788767,Mykola Shaparenko,Ukraine,17.601136326953444,0.06326404049830497,False,Right Foot,Open Play,0,0,1,Normal
+3788767,Konrad Laimer,Austria,16.95936319559199,0.06348853996012203,False,Right Foot,Open Play,0,0,2,Half Volley
+3788767,Konrad Laimer,Austria,20.3,0.06531537240891189,False,Right Foot,Open Play,0,0,2,Normal
+3788767,Marko Arnautović,Austria,14.190489773083938,0.06107805066205976,False,Left Foot,Open Play,1,0,1,Normal
+3788767,Marko Arnautović,Austria,16.2692962355475,0.060791626589533874,False,Left Foot,Open Play,1,0,2,Normal
+3788767,Florian Grillitsch,Austria,32.160379350996465,0.07360318367273318,False,Right Foot,Open Play,0,0,0,Normal
+3788767,Stefan Lainer,Austria,17.585505395068974,0.05396674863396353,False,Right Foot,Open Play,1,0,0,Normal
+3788767,Serhii Sydorchuk,Ukraine,18.978935691971767,0.061435174504436134,False,Right Foot,Open Play,1,0,3,Half Volley
+3788767,Xaver Schlager,Austria,25.93260495977988,0.06092925799058272,False,Left Foot,Open Play,0,0,2,Normal
+3788767,Roman Yaremchuk,Ukraine,13.881282361511126,0.05978593685477568,False,Right Foot,Open Play,1,0,3,Half Volley
+3788767,Marko Arnautović,Austria,18.739530410338457,0.06446446914715845,False,Left Foot,Open Play,1,0,0,Volley
+3788767,Alessandro Schöpf,Austria,25.01459573928789,0.06107050340638569,False,Right Foot,Open Play,0,1,2,Normal
+3788767,Xaver Schlager,Austria,28.524024961425056,0.06949597122026867,False,Left Foot,Open Play,1,0,0,Volley
+3788767,Oleksandr Karavaev,Ukraine,12.287391912037313,0.061083808575070724,False,Head,Open Play,0,0,3,Normal
+3788767,Marcel Sabitzer,Austria,21.439449619801348,0.0665937831169946,False,Left Foot,Open Play,0,0,2,Normal
+3788767,Roman Yaremchuk,Ukraine,19.142622599842475,0.052127701628069276,False,Right Foot,Open Play,0,0,1,Normal

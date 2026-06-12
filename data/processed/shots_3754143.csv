@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.624257562394817,0.06292428762394671,False,Right Foot,Open Play,0,0,2,Normal
-3.401470270338984,0.055630312833935214,False,Right Foot,Open Play,1,0,3,Half Volley
-33.5393798392278,0.05811772463538201,False,Right Foot,Open Play,0,0,1,Normal
-4.780167361086842,0.05700876798749732,False,Head,Open Play,0,1,7,Normal
-33.2054212441282,0.06217752696382565,False,Right Foot,Free Kick,0,0,0,Normal
-27.479810770818638,0.07020284071683171,False,Right Foot,Open Play,0,0,0,Normal
-25.556212551941268,0.0679958377451478,False,Right Foot,Open Play,0,0,3,Normal
-10.462313319720451,0.054062487127290684,False,Right Foot,Open Play,1,0,2,Normal
-21.803669415949233,0.06410419855051067,False,Right Foot,Open Play,1,0,1,Normal
-24.30185178129436,0.06495742087414168,False,Right Foot,Open Play,0,1,2,Normal
-15.04559736268388,0.05317767361340125,False,Right Foot,Open Play,0,0,1,Normal
-32.515380975778214,0.06978068719148031,False,Left Foot,Open Play,0,0,1,Normal
-15.711460785044789,0.054278683200344756,False,Right Foot,Open Play,1,0,0,Normal
-5.70087712549569,0.05549550512932805,False,Head,Open Play,0,0,6,Normal
-11.827087553578018,0.06056134919853438,False,Head,Open Play,0,0,3,Normal
-14.937201879870278,0.06251503641996665,True,Right Foot,Open Play,1,0,1,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754143,Martin Škrtel,Liverpool,20.624257562394817,0.06292428762394671,False,Right Foot,Open Play,0,0,2,Normal
+3754143,Christian Benteke Liolo,Liverpool,3.401470270338984,0.055630312833935214,False,Right Foot,Open Play,1,0,3,Half Volley
+3754143,Nathaniel Edwin Clyne,Liverpool,33.5393798392278,0.05811772463538201,False,Right Foot,Open Play,0,0,1,Normal
+3754143,Chancel Mbemba Mangulu,Newcastle United,4.780167361086842,0.05700876798749732,False,Head,Open Play,0,1,7,Normal
+3754143,Georginio Wijnaldum,Newcastle United,33.2054212441282,0.06217752696382565,False,Right Foot,Free Kick,0,0,0,Normal
+3754143,Jordon Ibe,Liverpool,27.479810770818638,0.07020284071683171,False,Right Foot,Open Play,0,0,0,Normal
+3754143,Roberto Firmino Barbosa de Oliveira,Liverpool,25.556212551941268,0.0679958377451478,False,Right Foot,Open Play,0,0,3,Normal
+3754143,Georginio Wijnaldum,Newcastle United,10.462313319720451,0.054062487127290684,False,Right Foot,Open Play,1,0,2,Normal
+3754143,Joe Allen,Liverpool,21.803669415949233,0.06410419855051067,False,Right Foot,Open Play,1,0,1,Normal
+3754143,Georginio Wijnaldum,Newcastle United,24.30185178129436,0.06495742087414168,False,Right Foot,Open Play,0,1,2,Normal
+3754143,Georginio Wijnaldum,Newcastle United,15.04559736268388,0.05317767361340125,False,Right Foot,Open Play,0,0,1,Normal
+3754143,Daniel Andre Sturridge,Liverpool,32.515380975778214,0.06978068719148031,False,Left Foot,Open Play,0,0,1,Normal
+3754143,Daniel Andre Sturridge,Liverpool,15.711460785044789,0.054278683200344756,False,Right Foot,Open Play,1,0,0,Normal
+3754143,Dejan Lovren,Liverpool,5.70087712549569,0.05549550512932805,False,Head,Open Play,0,0,6,Normal
+3754143,Dejan Lovren,Liverpool,11.827087553578018,0.06056134919853438,False,Head,Open Play,0,0,3,Normal
+3754143,Georginio Wijnaldum,Newcastle United,14.937201879870278,0.06251503641996665,True,Right Foot,Open Play,1,0,1,Lob

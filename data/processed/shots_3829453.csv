@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.12985702402731,0.054873632224230744,False,Left Foot,Open Play,0,0,2,Normal
-24.97779013443743,0.054770391756943745,False,Left Foot,Open Play,0,0,1,Normal
-27.43574311003805,0.065871529280591,False,Left Foot,Open Play,1,0,0,Normal
-28.558011135231393,0.06547455689492716,False,Left Foot,Open Play,0,0,2,Normal
-15.05257453062432,0.05873855173545004,True,Right Foot,Open Play,0,0,1,Half Volley
-10.221545871344512,0.05936371940637344,False,Head,Open Play,0,1,2,Normal
-11.044002897500524,0.058878831562089666,True,Head,Open Play,0,1,2,Normal
-25.93260495977988,0.06962445987486808,True,Right Foot,Free Kick,0,0,0,Normal
-7.902531240052141,0.05872362504704362,False,Left Foot,Open Play,0,0,2,Half Volley
-9.457801012920498,0.05331852385151535,False,Head,Open Play,0,1,1,Normal
-22.790348834539586,0.055060572412508946,False,Right Foot,Open Play,0,0,2,Normal
-13.000000000000004,0.06147116885093969,False,Left Foot,Open Play,0,0,2,Normal
-24.210121850168374,0.06539112517126303,False,Right Foot,Open Play,1,0,2,Volley
-19.448907424325927,0.05573593088795015,False,Right Foot,Open Play,0,0,2,Normal
-27.145902084845147,0.06871370821504068,False,Left Foot,Open Play,0,1,2,Normal
-7.473285756613347,0.05396116440589561,False,Head,Open Play,0,1,4,Normal
-19.11570035337445,0.06351725482023603,False,Right Foot,Open Play,0,0,2,Normal
-27.37151804339687,0.060373799939244736,False,Right Foot,Free Kick,0,0,0,Normal
-16.18919392681427,0.052608264543006725,False,Left Foot,Open Play,0,0,1,Normal
-9.196738552334734,0.05934316727090252,False,Head,Open Play,0,1,4,Normal
-12.477980605851256,0.05336899817850468,False,Head,Open Play,0,1,2,Normal
-19.83859874083852,0.06522209068287577,False,Right Foot,Open Play,1,0,2,Half Volley
-48.90092023673993,0.07791865379056048,False,Right Foot,Open Play,0,0,0,Normal
-9.513148795220227,0.05957655837290129,False,Head,Open Play,0,1,4,Normal
-6.7601775124622305,0.05714924839717474,True,Right Foot,Open Play,1,0,0,Normal
-25.23885892824793,0.0648380378280815,False,Left Foot,Open Play,0,1,2,Normal
-31.052214091751978,0.07336556322670817,False,Left Foot,Open Play,0,0,1,Normal
-24.583734460004244,0.06658027829907366,False,Left Foot,Open Play,1,1,0,Normal
-15.084097586531321,0.05729366855756249,False,Left Foot,Open Play,0,1,2,Half Volley
-19.640010183296745,0.05854196207121019,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,24.12985702402731,0.054873632224230744,False,Left Foot,Open Play,0,0,2,Normal
+3829453,Serge Aurier,Paris Saint-Germain,24.97779013443743,0.054770391756943745,False,Left Foot,Open Play,0,0,1,Normal
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,27.43574311003805,0.065871529280591,False,Left Foot,Open Play,1,0,0,Normal
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,28.558011135231393,0.06547455689492716,False,Left Foot,Open Play,0,0,2,Normal
+3829453,Edinson Roberto Cavani Gómez,Paris Saint-Germain,15.05257453062432,0.05873855173545004,True,Right Foot,Open Play,0,0,1,Half Volley
+3829453,Henri Saivet,Bordeaux,10.221545871344512,0.05936371940637344,False,Head,Open Play,0,1,2,Normal
+3829453,Henri Saivet,Bordeaux,11.044002897500524,0.058878831562089666,True,Head,Open Play,0,1,2,Normal
+3829453,Edinson Roberto Cavani Gómez,Paris Saint-Germain,25.93260495977988,0.06962445987486808,True,Right Foot,Free Kick,0,0,0,Normal
+3829453,Edinson Roberto Cavani Gómez,Paris Saint-Germain,7.902531240052141,0.05872362504704362,False,Left Foot,Open Play,0,0,2,Half Volley
+3829453,Thiago Motta,Paris Saint-Germain,9.457801012920498,0.05331852385151535,False,Head,Open Play,0,1,1,Normal
+3829453,Serge Aurier,Paris Saint-Germain,22.790348834539586,0.055060572412508946,False,Right Foot,Open Play,0,0,2,Normal
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,13.000000000000004,0.06147116885093969,False,Left Foot,Open Play,0,0,2,Normal
+3829453,Blaise Matuidi,Paris Saint-Germain,24.210121850168374,0.06539112517126303,False,Right Foot,Open Play,1,0,2,Volley
+3829453,Frédéric Guilbert,Bordeaux,19.448907424325927,0.05573593088795015,False,Right Foot,Open Play,0,0,2,Normal
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,27.145902084845147,0.06871370821504068,False,Left Foot,Open Play,0,1,2,Normal
+3829453,Nicolas Pallois,Bordeaux,7.473285756613347,0.05396116440589561,False,Head,Open Play,0,1,4,Normal
+3829453,Nicolas Maurice-Belay,Bordeaux,19.11570035337445,0.06351725482023603,False,Right Foot,Open Play,0,0,2,Normal
+3829453,Wahbi Khazri,Bordeaux,27.37151804339687,0.060373799939244736,False,Right Foot,Free Kick,0,0,0,Normal
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,16.18919392681427,0.052608264543006725,False,Left Foot,Open Play,0,0,1,Normal
+3829453,Enzo Crivelli,Bordeaux,9.196738552334734,0.05934316727090252,False,Head,Open Play,0,1,4,Normal
+3829453,Henri Saivet,Bordeaux,12.477980605851256,0.05336899817850468,False,Head,Open Play,0,1,2,Normal
+3829453,Henri Saivet,Bordeaux,19.83859874083852,0.06522209068287577,False,Right Foot,Open Play,1,0,2,Half Volley
+3829453,Enzo Crivelli,Bordeaux,48.90092023673993,0.07791865379056048,False,Right Foot,Open Play,0,0,0,Normal
+3829453,Thiago Emiliano da Silva,Paris Saint-Germain,9.513148795220227,0.05957655837290129,False,Head,Open Play,0,1,4,Normal
+3829453,Wahbi Khazri,Bordeaux,6.7601775124622305,0.05714924839717474,True,Right Foot,Open Play,1,0,0,Normal
+3829453,Ezequiel Iván Lavezzi,Paris Saint-Germain,25.23885892824793,0.0648380378280815,False,Left Foot,Open Play,0,1,2,Normal
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,31.052214091751978,0.07336556322670817,False,Left Foot,Open Play,0,0,1,Normal
+3829453,Ángel Fabián Di María Hernández,Paris Saint-Germain,24.583734460004244,0.06658027829907366,False,Left Foot,Open Play,1,1,0,Normal
+3829453,Edinson Roberto Cavani Gómez,Paris Saint-Germain,15.084097586531321,0.05729366855756249,False,Left Foot,Open Play,0,1,2,Half Volley
+3829453,Serge Aurier,Paris Saint-Germain,19.640010183296745,0.05854196207121019,False,Right Foot,Open Play,1,0,1,Half Volley

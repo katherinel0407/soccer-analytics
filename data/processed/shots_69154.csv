@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.14342043683284,0.07675693744745593,False,Left Foot,Open Play,0,0,2,Normal
-29.210956848415634,0.06794030308730532,False,Right Foot,Free Kick,0,0,0,Normal
-17.827226368675525,0.06332577334009827,False,Head,Open Play,0,1,3,Normal
-12.201639234135717,0.05974739413666362,False,Right Foot,Penalty,0,0,0,Normal
-31.31549137407874,0.06404572278545494,False,Right Foot,Open Play,0,0,1,Half Volley
-13.54843164355196,0.053597028940550864,False,Right Foot,Open Play,1,0,1,Half Volley
-10.63014581273465,0.05556432052775868,False,Left Foot,Open Play,0,1,1,Half Volley
-10.96220780682432,0.060352031204067826,False,Left Foot,Open Play,0,0,4,Normal
-12.761269529321913,0.058463066199040715,False,Head,Open Play,0,0,2,Normal
-36.359317925395686,0.05714227514691944,False,Right Foot,Open Play,0,0,0,Normal
-14.165097952361641,0.05434529663572253,False,Right Foot,Open Play,0,0,1,Normal
-31.24163888146715,0.07084249728014136,False,Right Foot,Open Play,0,0,1,Normal
-27.914512354687474,0.07067103324990398,True,Right Foot,Free Kick,0,0,0,Normal
-11.046266337545918,0.06033853257790996,False,Left Foot,Open Play,0,1,2,Normal
-26.15358484032352,0.06912476785021855,False,Left Foot,Free Kick,0,0,0,Normal
-4.1048751503547525,0.0563660602902944,True,Head,Open Play,0,0,3,Normal
-16.22004932174992,0.05391191639688224,False,Right Foot,Open Play,0,0,1,Normal
-13.566502865514016,0.06116625399812297,False,Right Foot,Open Play,0,0,2,Half Volley
-36.431442463893745,0.07379042948506484,False,Right Foot,Open Play,0,0,1,Normal
-11.594826432508595,0.05897581591116709,False,Right Foot,Open Play,0,0,2,Normal
-34.24864960841523,0.0753355122923378,False,Right Foot,Free Kick,0,0,0,Normal
-3.3015148038438324,0.0561504057444792,False,Head,Open Play,0,0,2,Diving Header
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69154,Óscar Serrano Rodriguez,Racing Santander,35.14342043683284,0.07675693744745593,False,Left Foot,Open Play,0,0,2,Normal
+69154,Ronaldo de Assis Moreira,Barcelona,29.210956848415634,0.06794030308730532,False,Right Foot,Free Kick,0,0,0,Normal
+69154,Rubén González Rocha,Racing Santander,17.827226368675525,0.06332577334009827,False,Head,Open Play,0,1,3,Normal
+69154,Ezequiel Marcelo Garay,Racing Santander,12.201639234135717,0.05974739413666362,False,Right Foot,Penalty,0,0,0,Normal
+69154,Anderson Luís de Souza,Barcelona,31.31549137407874,0.06404572278545494,False,Right Foot,Open Play,0,0,1,Half Volley
+69154,Andrés Iniesta Luján,Barcelona,13.54843164355196,0.053597028940550864,False,Right Foot,Open Play,1,0,1,Half Volley
+69154,Juliano Haus Belletti,Barcelona,10.63014581273465,0.05556432052775868,False,Left Foot,Open Play,0,1,1,Half Volley
+69154,Javier Pedro Saviola Fernández,Barcelona,10.96220780682432,0.060352031204067826,False,Left Foot,Open Play,0,0,4,Normal
+69154,Javier Pedro Saviola Fernández,Barcelona,12.761269529321913,0.058463066199040715,False,Head,Open Play,0,0,2,Normal
+69154,Juliano Haus Belletti,Barcelona,36.359317925395686,0.05714227514691944,False,Right Foot,Open Play,0,0,0,Normal
+69154,Andrés Iniesta Luján,Barcelona,14.165097952361641,0.05434529663572253,False,Right Foot,Open Play,0,0,1,Normal
+69154,Ronaldo de Assis Moreira,Barcelona,31.24163888146715,0.07084249728014136,False,Right Foot,Open Play,0,0,1,Normal
+69154,Ronaldo de Assis Moreira,Barcelona,27.914512354687474,0.07067103324990398,True,Right Foot,Free Kick,0,0,0,Normal
+69154,Andrés Iniesta Luján,Barcelona,11.046266337545918,0.06033853257790996,False,Left Foot,Open Play,0,1,2,Normal
+69154,Óscar Serrano Rodriguez,Racing Santander,26.15358484032352,0.06912476785021855,False,Left Foot,Free Kick,0,0,0,Normal
+69154,Ronaldo de Assis Moreira,Barcelona,4.1048751503547525,0.0563660602902944,True,Head,Open Play,0,0,3,Normal
+69154,Ludovic Giuly,Barcelona,16.22004932174992,0.05391191639688224,False,Right Foot,Open Play,0,0,1,Normal
+69154,Ronaldo de Assis Moreira,Barcelona,13.566502865514016,0.06116625399812297,False,Right Foot,Open Play,0,0,2,Half Volley
+69154,Cristian Osvaldo Álvarez,Racing Santander,36.431442463893745,0.07379042948506484,False,Right Foot,Open Play,0,0,1,Normal
+69154,Ronaldo de Assis Moreira,Barcelona,11.594826432508595,0.05897581591116709,False,Right Foot,Open Play,0,0,2,Normal
+69154,Cristian Osvaldo Álvarez,Racing Santander,34.24864960841523,0.0753355122923378,False,Right Foot,Free Kick,0,0,0,Normal
+69154,Ludovic Giuly,Barcelona,3.3015148038438324,0.0561504057444792,False,Head,Open Play,0,0,2,Diving Header

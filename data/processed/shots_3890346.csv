@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.787675656179326,0.05398686832135451,False,Left Foot,Open Play,1,0,0,Volley
-19.535864454894238,0.0653712724440732,False,Right Foot,Open Play,0,0,2,Normal
-11.543396380615201,0.05616310886676759,False,Head,Open Play,0,0,1,Normal
-8.44807670419724,0.05840975408252773,False,Head,Open Play,0,0,1,Normal
-29.410882339705484,0.07208496989573418,False,Right Foot,Open Play,0,0,1,Normal
-30.347652297994976,0.06900947710045544,False,Left Foot,Free Kick,0,0,0,Normal
-6.835202996254029,0.056548920481058515,False,Head,Open Play,0,0,3,Normal
-19.216659439142905,0.06238619277662728,False,Right Foot,Open Play,0,0,1,Normal
-7.900632886041477,0.05794640829452211,False,Left Foot,Open Play,1,0,1,Normal
-10.473776778220927,0.05822290232058249,False,Right Foot,Open Play,1,1,4,Half Volley
-6.824954212300618,0.05817063438552022,True,Left Foot,Open Play,0,0,3,Normal
-20.616740770548578,0.06162506065117348,True,Left Foot,Open Play,0,1,3,Normal
-9.904544411531504,0.059784403452163924,False,Head,Open Play,0,1,1,Normal
-15.97623234683322,0.053623292742494166,True,Right Foot,Open Play,0,1,1,Normal
-5.166236541235794,0.05728898921019934,True,Right Foot,Open Play,1,0,4,Normal
-28.0494206713793,0.07108264261857467,False,Right Foot,Open Play,0,0,2,Normal
-9.152595260361943,0.05938562890741288,False,Left Foot,Open Play,1,0,3,Normal
-11.536463929644992,0.05545159295739583,False,Left Foot,Open Play,1,0,0,Half Volley
-17.31040149736568,0.05659214706843358,False,Right Foot,Open Play,0,1,1,Normal
-20.793508602446103,0.05566553509675471,False,Right Foot,Open Play,0,1,1,Normal
-14.541320435228704,0.05730674722343503,False,Right Foot,Open Play,0,1,3,Normal
-25.910615585122628,0.063695358944343,False,Right Foot,Open Play,1,0,0,Normal
-8.868483523128406,0.05636289396496178,True,Right Foot,Open Play,1,1,4,Half Volley
-14.35687988387449,0.06026154062960487,False,Right Foot,Open Play,1,0,2,Half Volley
-3.8275318418009268,0.05472939927299746,True,Right Foot,Open Play,1,0,2,Half Volley
-19.45096398639409,0.06378098890372762,False,Left Foot,Open Play,1,0,1,Normal
-13.86794865868777,0.061975171394540896,False,Left Foot,Open Play,0,1,1,Normal
-23.425840433162698,0.06415169344479318,False,Right Foot,Free Kick,0,0,0,Normal
-12.955693729013516,0.06040663154292115,False,Head,Open Play,0,0,1,Normal
-26.8218194759416,0.0702824486638816,False,Left Foot,Open Play,1,1,1,Half Volley
-15.230561381643165,0.06263816264959086,True,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890346,Daniel Didavi,VfB Stuttgart,13.787675656179326,0.05398686832135451,False,Left Foot,Open Play,1,0,0,Volley
+3890346,Admir Mehmedi,Bayer Leverkusen,19.535864454894238,0.0653712724440732,False,Right Foot,Open Play,0,0,2,Normal
+3890346,Javier Hernández Balcázar,Bayer Leverkusen,11.543396380615201,0.05616310886676759,False,Head,Open Play,0,0,1,Normal
+3890346,Timo Werner,VfB Stuttgart,8.44807670419724,0.05840975408252773,False,Head,Open Play,0,0,1,Normal
+3890346,Admir Mehmedi,Bayer Leverkusen,29.410882339705484,0.07208496989573418,False,Right Foot,Open Play,0,0,1,Normal
+3890346,Daniel Didavi,VfB Stuttgart,30.347652297994976,0.06900947710045544,False,Left Foot,Free Kick,0,0,0,Normal
+3890346,Jonathan Tah,Bayer Leverkusen,6.835202996254029,0.056548920481058515,False,Head,Open Play,0,0,3,Normal
+3890346,Hakan Çalhanoğlu,Bayer Leverkusen,19.216659439142905,0.06238619277662728,False,Right Foot,Open Play,0,0,1,Normal
+3890346,Javier Hernández Balcázar,Bayer Leverkusen,7.900632886041477,0.05794640829452211,False,Left Foot,Open Play,1,0,1,Normal
+3890346,Timo Baumgartl,VfB Stuttgart,10.473776778220927,0.05822290232058249,False,Right Foot,Open Play,1,1,4,Half Volley
+3890346,Martin Harnik,VfB Stuttgart,6.824954212300618,0.05817063438552022,True,Left Foot,Open Play,0,0,3,Normal
+3890346,Daniel Didavi,VfB Stuttgart,20.616740770548578,0.06162506065117348,True,Left Foot,Open Play,0,1,3,Normal
+3890346,Timo Werner,VfB Stuttgart,9.904544411531504,0.059784403452163924,False,Head,Open Play,0,1,1,Normal
+3890346,Karim Bellarabi,Bayer Leverkusen,15.97623234683322,0.053623292742494166,True,Right Foot,Open Play,0,1,1,Normal
+3890346,Lukas Rupp,VfB Stuttgart,5.166236541235794,0.05728898921019934,True,Right Foot,Open Play,1,0,4,Normal
+3890346,Karim Bellarabi,Bayer Leverkusen,28.0494206713793,0.07108264261857467,False,Right Foot,Open Play,0,0,2,Normal
+3890346,Stefan Kießling,Bayer Leverkusen,9.152595260361943,0.05938562890741288,False,Left Foot,Open Play,1,0,3,Normal
+3890346,Karim Bellarabi,Bayer Leverkusen,11.536463929644992,0.05545159295739583,False,Left Foot,Open Play,1,0,0,Half Volley
+3890346,Martin Harnik,VfB Stuttgart,17.31040149736568,0.05659214706843358,False,Right Foot,Open Play,0,1,1,Normal
+3890346,Arianit Ferati,VfB Stuttgart,20.793508602446103,0.05566553509675471,False,Right Foot,Open Play,0,1,1,Normal
+3890346,Javier Hernández Balcázar,Bayer Leverkusen,14.541320435228704,0.05730674722343503,False,Right Foot,Open Play,0,1,3,Normal
+3890346,Hakan Çalhanoğlu,Bayer Leverkusen,25.910615585122628,0.063695358944343,False,Right Foot,Open Play,1,0,0,Normal
+3890346,Sebastian Boenisch,Bayer Leverkusen,8.868483523128406,0.05636289396496178,True,Right Foot,Open Play,1,1,4,Half Volley
+3890346,Admir Mehmedi,Bayer Leverkusen,14.35687988387449,0.06026154062960487,False,Right Foot,Open Play,1,0,2,Half Volley
+3890346,Javier Hernández Balcázar,Bayer Leverkusen,3.8275318418009268,0.05472939927299746,True,Right Foot,Open Play,1,0,2,Half Volley
+3890346,Wendell Nascimento Borges,Bayer Leverkusen,19.45096398639409,0.06378098890372762,False,Left Foot,Open Play,1,0,1,Normal
+3890346,Javier Hernández Balcázar,Bayer Leverkusen,13.86794865868777,0.061975171394540896,False,Left Foot,Open Play,0,1,1,Normal
+3890346,Hakan Çalhanoğlu,Bayer Leverkusen,23.425840433162698,0.06415169344479318,False,Right Foot,Free Kick,0,0,0,Normal
+3890346,Lukas Rupp,VfB Stuttgart,12.955693729013516,0.06040663154292115,False,Head,Open Play,0,0,1,Normal
+3890346,Daniel Didavi,VfB Stuttgart,26.8218194759416,0.0702824486638816,False,Left Foot,Open Play,1,1,1,Half Volley
+3890346,Admir Mehmedi,Bayer Leverkusen,15.230561381643165,0.06263816264959086,True,Right Foot,Open Play,0,1,1,Normal

@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.65638322133499,0.06487240956357368,False,Left Foot,Free Kick,0,0,0,Normal
-13.738267721950976,0.052880228490466114,False,Right Foot,Open Play,0,0,1,Normal
-9.170605214488294,0.059360316209122896,True,Left Foot,Open Play,1,0,2,Volley
-16.600301202086662,0.06353936624554272,False,Right Foot,Open Play,0,0,2,Normal
-6.236184731067547,0.05714375214414952,True,Left Foot,Open Play,1,0,3,Normal
-14.926486525636234,0.05642748178391137,False,Right Foot,Open Play,0,0,2,Normal
-4.026164427839477,0.054136168965067254,True,Left Foot,Open Play,1,0,2,Normal
-16.0312195418814,0.05571821353845074,False,Right Foot,Open Play,0,0,1,Normal
-12.24499897917513,0.05376697887768165,False,Right Foot,Open Play,0,0,1,Normal
-11.899999999999997,0.05998211476378802,False,Left Foot,Open Play,0,0,2,Normal
-14.276203977248295,0.05276431601717103,False,Right Foot,Open Play,0,0,1,Normal
-9.972462083156804,0.05830908625565708,False,Right Foot,Open Play,1,0,1,Volley
-13.124404748406688,0.054653472210209185,False,Right Foot,Open Play,0,0,2,Half Volley
-14.12090648648308,0.061576955834678704,False,Right Foot,Open Play,0,0,3,Normal
-24.824383174612823,0.06826645174738166,False,Right Foot,Open Play,0,0,0,Normal
-8.008120878208574,0.05710809713416136,False,Head,Open Play,0,0,2,Normal
-28.59265639985204,0.0619909999514222,False,Left Foot,Free Kick,0,0,0,Normal
-16.440194646049665,0.053866043967148454,False,Right Foot,Open Play,0,0,1,Normal
-11.353413583587976,0.05968523030547216,False,Right Foot,Open Play,1,0,1,Normal
-33.77691519366444,0.07473642687264345,False,Right Foot,Open Play,1,0,2,Normal
-21.15206845677274,0.05503655002499092,False,Right Foot,Open Play,1,0,2,Volley
-29.323199006929645,0.07186367764675657,False,Right Foot,Open Play,1,0,1,Normal
-16.72602762164406,0.0619379351091773,False,Left Foot,Open Play,0,0,2,Normal
-12.387897319561535,0.061073389886461306,True,Left Foot,Open Play,1,0,1,Normal
-18.15709227822561,0.06388755708615829,False,Right Foot,Open Play,0,0,1,Normal
-15.219066988485194,0.06163651584752801,False,Head,Open Play,0,1,3,Normal
-17.215400082484294,0.05857190432376248,False,Right Foot,Open Play,0,0,2,Normal
-22.67377339570985,0.05861424428158305,False,Right Foot,Open Play,1,0,1,Normal
-13.845215780189198,0.061314535183697866,False,Right Foot,Open Play,0,0,1,Normal
-14.326548781894404,0.06123311700194458,True,Left Foot,Open Play,0,0,2,Lob
-21.48883430993874,0.06663549535363178,False,Right Foot,Open Play,1,0,1,Normal
-16.400304875214967,0.0632730973154733,False,Right Foot,Open Play,0,0,4,Normal
-14.25552524462006,0.06126196765927151,True,Right Foot,Open Play,1,0,2,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69328,Lionel Andrés Messi Cuccittini,Barcelona,25.65638322133499,0.06487240956357368,False,Left Foot,Free Kick,0,0,0,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,13.738267721950976,0.052880228490466114,False,Right Foot,Open Play,0,0,1,Normal
+69328,Pablo Daniel Piatti,Valencia,9.170605214488294,0.059360316209122896,True,Left Foot,Open Play,1,0,2,Volley
+69328,Pedro Eliezer Rodríguez Ledesma,Barcelona,16.600301202086662,0.06353936624554272,False,Right Foot,Open Play,0,0,2,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,6.236184731067547,0.05714375214414952,True,Left Foot,Open Play,1,0,3,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,14.926486525636234,0.05642748178391137,False,Right Foot,Open Play,0,0,2,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,4.026164427839477,0.054136168965067254,True,Left Foot,Open Play,1,0,2,Normal
+69328,Alexis Alejandro Sánchez Sánchez,Barcelona,16.0312195418814,0.05571821353845074,False,Right Foot,Open Play,0,0,1,Normal
+69328,Francesc Fàbregas i Soler,Barcelona,12.24499897917513,0.05376697887768165,False,Right Foot,Open Play,0,0,1,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,11.899999999999997,0.05998211476378802,False,Left Foot,Open Play,0,0,2,Normal
+69328,Alexis Alejandro Sánchez Sánchez,Barcelona,14.276203977248295,0.05276431601717103,False,Right Foot,Open Play,0,0,1,Normal
+69328,Francesc Fàbregas i Soler,Barcelona,9.972462083156804,0.05830908625565708,False,Right Foot,Open Play,1,0,1,Volley
+69328,Alexis Alejandro Sánchez Sánchez,Barcelona,13.124404748406688,0.054653472210209185,False,Right Foot,Open Play,0,0,2,Half Volley
+69328,Francesc Fàbregas i Soler,Barcelona,14.12090648648308,0.061576955834678704,False,Right Foot,Open Play,0,0,3,Normal
+69328,Andrés Iniesta Luján,Barcelona,24.824383174612823,0.06826645174738166,False,Right Foot,Open Play,0,0,0,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,8.008120878208574,0.05710809713416136,False,Head,Open Play,0,0,2,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,28.59265639985204,0.0619909999514222,False,Left Foot,Free Kick,0,0,0,Normal
+69328,Martín Montoya Torralbo,Barcelona,16.440194646049665,0.053866043967148454,False,Right Foot,Open Play,0,0,1,Normal
+69328,Francesc Fàbregas i Soler,Barcelona,11.353413583587976,0.05968523030547216,False,Right Foot,Open Play,1,0,1,Normal
+69328,Sofiane Feghouli,Valencia,33.77691519366444,0.07473642687264345,False,Right Foot,Open Play,1,0,2,Normal
+69328,Sofiane Feghouli,Valencia,21.15206845677274,0.05503655002499092,False,Right Foot,Open Play,1,0,2,Volley
+69328,Sergio Busquets i Burgos,Barcelona,29.323199006929645,0.07186367764675657,False,Right Foot,Open Play,1,0,1,Normal
+69328,Cristian Tello Herrera,Barcelona,16.72602762164406,0.0619379351091773,False,Left Foot,Open Play,0,0,2,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,12.387897319561535,0.061073389886461306,True,Left Foot,Open Play,1,0,1,Normal
+69328,Cristian Tello Herrera,Barcelona,18.15709227822561,0.06388755708615829,False,Right Foot,Open Play,0,0,1,Normal
+69328,Gerard Piqué Bernabéu,Barcelona,15.219066988485194,0.06163651584752801,False,Head,Open Play,0,1,3,Normal
+69328,Gerard Piqué Bernabéu,Barcelona,17.215400082484294,0.05857190432376248,False,Right Foot,Open Play,0,0,2,Normal
+69328,Thiago Alcântara do Nascimento,Barcelona,22.67377339570985,0.05861424428158305,False,Right Foot,Open Play,1,0,1,Normal
+69328,Cristian Tello Herrera,Barcelona,13.845215780189198,0.061314535183697866,False,Right Foot,Open Play,0,0,1,Normal
+69328,Lionel Andrés Messi Cuccittini,Barcelona,14.326548781894404,0.06123311700194458,True,Left Foot,Open Play,0,0,2,Lob
+69328,Xavier Hernández Creus,Barcelona,21.48883430993874,0.06663549535363178,False,Right Foot,Open Play,1,0,1,Normal
+69328,Alexis Alejandro Sánchez Sánchez,Barcelona,16.400304875214967,0.0632730973154733,False,Right Foot,Open Play,0,0,4,Normal
+69328,Xavier Hernández Creus,Barcelona,14.25552524462006,0.06126196765927151,True,Right Foot,Open Play,1,0,2,Lob

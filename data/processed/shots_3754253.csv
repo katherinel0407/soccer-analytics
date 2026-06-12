@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.59029926086968,0.07416936417910758,False,Right Foot,Open Play,0,0,0,Normal
-33.771585689748115,0.06764591353155618,False,Left Foot,Open Play,0,0,0,Normal
-15.294770348063416,0.06133648245231411,False,Left Foot,Open Play,1,0,0,Half Volley
-20.494877408757535,0.0579461378666807,False,Left Foot,Open Play,0,0,3,Half Volley
-29.155616954542392,0.06842854797549232,False,Left Foot,Open Play,0,0,1,Normal
-30.852066381362523,0.06275693554420993,False,Right Foot,Open Play,0,0,0,Normal
-11.822859214251013,0.06006518784026881,True,Right Foot,Open Play,1,0,0,Half Volley
-13.8538803228554,0.054493298848087464,True,Right Foot,Open Play,0,1,1,Normal
-26.810632219326724,0.0692045543020043,False,Left Foot,Open Play,0,0,3,Normal
-33.23988567970714,0.07491493394457993,False,Right Foot,Open Play,0,1,0,Normal
-21.37709054104417,0.05923761150532367,False,Left Foot,Open Play,1,0,1,Normal
-29.42668856667362,0.05254837738592184,False,Left Foot,Open Play,0,1,3,Half Volley
-27.782368509542163,0.05854719839801145,False,Left Foot,Open Play,0,0,1,Normal
-13.418271125595869,0.05457607581319494,False,Right Foot,Open Play,0,0,4,Half Volley
-19.02761151589973,0.06475265453950758,False,Right Foot,Open Play,0,0,3,Normal
-20.886598574205422,0.06594495717221348,False,Right Foot,Open Play,0,1,2,Normal
-8.780091115700337,0.05580215530215163,False,Head,Open Play,0,1,3,Normal
-27.52816739269071,0.07035745958933047,False,Left Foot,Open Play,0,0,3,Normal
-26.848649872945202,0.06116392263372474,False,Left Foot,Open Play,0,0,1,Normal
-31.296804948748363,0.06590984178955987,False,Right Foot,Open Play,0,0,0,Normal
-27.88906595782655,0.05455298720346292,False,Right Foot,Open Play,0,1,3,Normal
-22.443930137121708,0.05321585818216106,False,Right Foot,Open Play,0,0,2,Normal
-26.529417634015267,0.07007397165378872,False,Left Foot,Open Play,0,0,3,Normal
-11.52475596270915,0.056633566104951794,False,Right Foot,Open Play,1,1,1,Volley
-12.433824833895644,0.06006528365812757,False,Right Foot,Open Play,0,0,2,Normal
-21.56038033059714,0.06479550415324137,False,Right Foot,Open Play,0,1,3,Normal
-10.846658471621566,0.05979650850941819,False,Right Foot,Open Play,1,1,2,Half Volley
-22.882526084329058,0.0560826273311293,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754253,Aaron Ramsey,Arsenal,36.59029926086968,0.07416936417910758,False,Right Foot,Open Play,0,0,0,Normal
+3754253,Harry Arter,AFC Bournemouth,33.771585689748115,0.06764591353155618,False,Left Foot,Open Play,0,0,0,Normal
+3754253,Alexis Alejandro Sánchez Sánchez,Arsenal,15.294770348063416,0.06133648245231411,False,Left Foot,Open Play,1,0,0,Half Volley
+3754253,Matt Ritchie,AFC Bournemouth,20.494877408757535,0.0579461378666807,False,Left Foot,Open Play,0,0,3,Half Volley
+3754253,Andrew Surman,AFC Bournemouth,29.155616954542392,0.06842854797549232,False,Left Foot,Open Play,0,0,1,Normal
+3754253,Alex Oxlade-Chamberlain,Arsenal,30.852066381362523,0.06275693554420993,False,Right Foot,Open Play,0,0,0,Normal
+3754253,Mesut Özil,Arsenal,11.822859214251013,0.06006518784026881,True,Right Foot,Open Play,1,0,0,Half Volley
+3754253,Alex Oxlade-Chamberlain,Arsenal,13.8538803228554,0.054493298848087464,True,Right Foot,Open Play,0,1,1,Normal
+3754253,Harry Arter,AFC Bournemouth,26.810632219326724,0.0692045543020043,False,Left Foot,Open Play,0,0,3,Normal
+3754253,Mathieu Flamini,Arsenal,33.23988567970714,0.07491493394457993,False,Right Foot,Open Play,0,1,0,Normal
+3754253,Matt Ritchie,AFC Bournemouth,21.37709054104417,0.05923761150532367,False,Left Foot,Open Play,1,0,1,Normal
+3754253,Matt Ritchie,AFC Bournemouth,29.42668856667362,0.05254837738592184,False,Left Foot,Open Play,0,1,3,Half Volley
+3754253,Matt Ritchie,AFC Bournemouth,27.782368509542163,0.05854719839801145,False,Left Foot,Open Play,0,0,1,Normal
+3754253,Adam Smith,AFC Bournemouth,13.418271125595869,0.05457607581319494,False,Right Foot,Open Play,0,0,4,Half Volley
+3754253,Marc Pugh,AFC Bournemouth,19.02761151589973,0.06475265453950758,False,Right Foot,Open Play,0,0,3,Normal
+3754253,Alexis Alejandro Sánchez Sánchez,Arsenal,20.886598574205422,0.06594495717221348,False,Right Foot,Open Play,0,1,2,Normal
+3754253,Olivier Giroud,Arsenal,8.780091115700337,0.05580215530215163,False,Head,Open Play,0,1,3,Normal
+3754253,Dan Gosling,AFC Bournemouth,27.52816739269071,0.07035745958933047,False,Left Foot,Open Play,0,0,3,Normal
+3754253,Matt Ritchie,AFC Bournemouth,26.848649872945202,0.06116392263372474,False,Left Foot,Open Play,0,0,1,Normal
+3754253,Junior Stanislas,AFC Bournemouth,31.296804948748363,0.06590984178955987,False,Right Foot,Open Play,0,0,0,Normal
+3754253,Aaron Ramsey,Arsenal,27.88906595782655,0.05455298720346292,False,Right Foot,Open Play,0,1,3,Normal
+3754253,Junior Stanislas,AFC Bournemouth,22.443930137121708,0.05321585818216106,False,Right Foot,Open Play,0,0,2,Normal
+3754253,Harry Arter,AFC Bournemouth,26.529417634015267,0.07007397165378872,False,Left Foot,Open Play,0,0,3,Normal
+3754253,Joshua King,AFC Bournemouth,11.52475596270915,0.056633566104951794,False,Right Foot,Open Play,1,1,1,Volley
+3754253,Aaron Ramsey,Arsenal,12.433824833895644,0.06006528365812757,False,Right Foot,Open Play,0,0,2,Normal
+3754253,Joshua King,AFC Bournemouth,21.56038033059714,0.06479550415324137,False,Right Foot,Open Play,0,1,3,Normal
+3754253,Steve Cook,AFC Bournemouth,10.846658471621566,0.05979650850941819,False,Right Foot,Open Play,1,1,2,Half Volley
+3754253,Harry Arter,AFC Bournemouth,22.882526084329058,0.0560826273311293,False,Left Foot,Open Play,0,0,0,Normal

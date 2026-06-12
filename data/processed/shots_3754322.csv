@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.534149149242424,0.05690564911984782,False,Right Foot,Open Play,1,0,3,Normal
-20.155644370746373,0.06576210540739114,False,Left Foot,Open Play,1,0,0,Normal
-22.01658465793457,0.05517682117328628,False,Right Foot,Open Play,1,0,2,Normal
-24.807257002740148,0.05654401227903194,False,Right Foot,Open Play,0,0,2,Normal
-19.327959023135374,0.06359309403346779,False,Left Foot,Open Play,0,0,1,Normal
-12.145781160551175,0.05811609027790548,False,Right Foot,Open Play,1,1,1,Half Volley
-18.37307813078691,0.06423326619233759,False,Left Foot,Open Play,0,1,2,Normal
-15.953056133543823,0.05856612178808805,False,Right Foot,Open Play,1,0,1,Normal
-14.866068747318506,0.062204964252760786,False,Left Foot,Open Play,0,1,2,Half Volley
-21.302112571292074,0.06355589482412154,True,Right Foot,Open Play,0,0,1,Normal
-11.666190466471907,0.060395701204833965,False,Left Foot,Open Play,1,0,2,Half Volley
-26.683328128252672,0.05970648907177158,False,Right Foot,Free Kick,0,0,0,Normal
-6.525335240430178,0.057808637360616526,False,Right Foot,Open Play,1,0,3,Volley
-22.707047364199518,0.06116179932547148,False,Right Foot,Open Play,0,0,2,Normal
-17.066048165876015,0.05548281472096629,True,Right Foot,Open Play,1,0,1,Normal
-15.49354704385022,0.06258578709900785,False,Right Foot,Open Play,0,0,2,Normal
-27.682666056577713,0.07085462109857349,False,Right Foot,Free Kick,0,0,0,Normal
-14.220056258679147,0.06158188620598523,False,Right Foot,Open Play,0,0,0,Normal
-20.349447166937978,0.060699612626905465,False,Right Foot,Open Play,1,0,2,Normal
-11.700427342623007,0.05950178043674226,True,Right Foot,Penalty,0,0,0,Normal
-27.49636339591111,0.0653934999399948,False,Left Foot,Open Play,0,1,2,Normal
-28.276492003075628,0.06193106704227821,False,Right Foot,Open Play,0,0,0,Normal
-24.161539686038218,0.05971332790341828,False,Right Foot,Open Play,1,1,3,Normal
-22.574321695235934,0.06734607298963684,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754322,Sergio Leonel Agüero del Castillo,Manchester City,9.534149149242424,0.05690564911984782,False,Right Foot,Open Play,1,0,3,Normal
+3754322,Pedro Eliezer Rodríguez Ledesma,Chelsea,20.155644370746373,0.06576210540739114,False,Left Foot,Open Play,1,0,0,Normal
+3754322,Kevin De Bruyne,Manchester City,22.01658465793457,0.05517682117328628,False,Right Foot,Open Play,1,0,2,Normal
+3754322,Diego da Silva Costa,Chelsea,24.807257002740148,0.05654401227903194,False,Right Foot,Open Play,0,0,2,Normal
+3754322,Ruben Loftus-Cheek,Chelsea,19.327959023135374,0.06359309403346779,False,Left Foot,Open Play,0,0,1,Normal
+3754322,Gary Cahill,Chelsea,12.145781160551175,0.05811609027790548,False,Right Foot,Open Play,1,1,1,Half Volley
+3754322,Kevin De Bruyne,Manchester City,18.37307813078691,0.06423326619233759,False,Left Foot,Open Play,0,1,2,Normal
+3754322,Samir Nasri,Manchester City,15.953056133543823,0.05856612178808805,False,Right Foot,Open Play,1,0,1,Normal
+3754322,Pedro Eliezer Rodríguez Ledesma,Chelsea,14.866068747318506,0.062204964252760786,False,Left Foot,Open Play,0,1,2,Half Volley
+3754322,Sergio Leonel Agüero del Castillo,Manchester City,21.302112571292074,0.06355589482412154,True,Right Foot,Open Play,0,0,1,Normal
+3754322,Aleksandar Kolarov,Manchester City,11.666190466471907,0.060395701204833965,False,Left Foot,Open Play,1,0,2,Half Volley
+3754322,Willian Borges da Silva,Chelsea,26.683328128252672,0.05970648907177158,False,Right Foot,Free Kick,0,0,0,Normal
+3754322,Ruben Loftus-Cheek,Chelsea,6.525335240430178,0.057808637360616526,False,Right Foot,Open Play,1,0,3,Volley
+3754322,Ruben Loftus-Cheek,Chelsea,22.707047364199518,0.06116179932547148,False,Right Foot,Open Play,0,0,2,Normal
+3754322,Sergio Leonel Agüero del Castillo,Manchester City,17.066048165876015,0.05548281472096629,True,Right Foot,Open Play,1,0,1,Normal
+3754322,Samir Nasri,Manchester City,15.49354704385022,0.06258578709900785,False,Right Foot,Open Play,0,0,2,Normal
+3754322,Gnégnéri Yaya Touré,Manchester City,27.682666056577713,0.07085462109857349,False,Right Foot,Free Kick,0,0,0,Normal
+3754322,Samir Nasri,Manchester City,14.220056258679147,0.06158188620598523,False,Right Foot,Open Play,0,0,0,Normal
+3754322,Robert Kenedy Nunes do Nascimento,Chelsea,20.349447166937978,0.060699612626905465,False,Right Foot,Open Play,1,0,2,Normal
+3754322,Sergio Leonel Agüero del Castillo,Manchester City,11.700427342623007,0.05950178043674226,True,Right Foot,Penalty,0,0,0,Normal
+3754322,Bertrand Isidore Traoré,Chelsea,27.49636339591111,0.0653934999399948,False,Left Foot,Open Play,0,1,2,Normal
+3754322,Francesc Fàbregas i Soler,Chelsea,28.276492003075628,0.06193106704227821,False,Right Foot,Open Play,0,0,0,Normal
+3754322,Kevin De Bruyne,Manchester City,24.161539686038218,0.05971332790341828,False,Right Foot,Open Play,1,1,3,Normal
+3754322,Diego da Silva Costa,Chelsea,22.574321695235934,0.06734607298963684,False,Right Foot,Open Play,0,0,2,Normal

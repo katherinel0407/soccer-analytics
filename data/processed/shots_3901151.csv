@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.96419413859206,0.05655387790595624,False,Head,Open Play,0,0,3,Normal
-33.10135948869774,0.06967928226460711,False,Right Foot,Open Play,0,0,0,Normal
-42.06019495912971,0.0737394561159221,True,Right Foot,Free Kick,0,0,0,Normal
-16.98528775146303,0.06337593034328022,False,Left Foot,Open Play,0,1,2,Half Volley
-23.325736858671796,0.0658533879277474,False,Left Foot,Open Play,1,0,0,Normal
-12.317467272130264,0.05655596996016339,False,Right Foot,Open Play,1,0,1,Normal
-28.52718002186687,0.06189810226415748,False,Right Foot,Open Play,1,1,1,Normal
-15.515798400340216,0.060811581274996,False,Right Foot,Open Play,0,0,1,Normal
-20.601456259206536,0.06589651841464463,False,Right Foot,Open Play,1,0,1,Normal
-21.063950246807934,0.06550190207804125,False,Left Foot,Open Play,0,0,1,Normal
-31.729481558953974,0.057882682271154035,False,Right Foot,Open Play,0,0,1,Normal
-27.068062361388193,0.06933303582957318,False,Left Foot,Open Play,1,0,0,Normal
-33.11268639056638,0.07517036350117018,False,Left Foot,Open Play,0,0,1,Normal
-33.655460181076116,0.05837583998981076,False,Right Foot,Open Play,0,0,0,Normal
-14.322360140703065,0.06220054110419097,False,Left Foot,Open Play,0,0,2,Normal
-18.05436235373601,0.06373149101661152,False,Left Foot,Open Play,0,0,1,Normal
-14.534441853748634,0.0610310028654174,False,Left Foot,Open Play,0,0,4,Normal
-17.87512237720346,0.06372893382513793,False,Left Foot,Open Play,0,1,1,Normal
-18.741664813991314,0.06456343417231468,False,Left Foot,Open Play,0,0,2,Normal
-29.02688409044278,0.07021903488086313,False,Right Foot,Open Play,1,0,1,Volley
-14.071602609511114,0.06189451105047587,False,Left Foot,Open Play,1,0,1,Normal
-17.10263137648707,0.06313338538068981,False,Left Foot,Open Play,0,1,2,Normal
-7.338937252763515,0.058299967755695584,False,Head,Open Play,0,0,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901151,Yassine Benzia,Lille,6.96419413859206,0.05655387790595624,False,Head,Open Play,0,0,3,Normal
+3901151,Rio Antonio Zoba Mavuba,Lille,33.10135948869774,0.06967928226460711,False,Right Foot,Open Play,0,0,0,Normal
+3901151,Sofiane Boufal,Lille,42.06019495912971,0.0737394561159221,True,Right Foot,Free Kick,0,0,0,Normal
+3901151,Gnaly Maxwell Cornet,Lyon,16.98528775146303,0.06337593034328022,False,Left Foot,Open Play,0,1,2,Half Volley
+3901151,Éric Bauthéac,Lille,23.325736858671796,0.0658533879277474,False,Left Foot,Open Play,1,0,0,Normal
+3901151,Renato Civelli,Lille,12.317467272130264,0.05655596996016339,False,Right Foot,Open Play,1,0,1,Normal
+3901151,Jordan Ferri,Lyon,28.52718002186687,0.06189810226415748,False,Right Foot,Open Play,1,1,1,Normal
+3901151,Alexandre Lacazette,Lyon,15.515798400340216,0.060811581274996,False,Right Foot,Open Play,0,0,1,Normal
+3901151,Djibril Sidibé,Lille,20.601456259206536,0.06589651841464463,False,Right Foot,Open Play,1,0,1,Normal
+3901151,Yassine Benzia,Lille,21.063950246807934,0.06550190207804125,False,Left Foot,Open Play,0,0,1,Normal
+3901151,Alexandre Lacazette,Lyon,31.729481558953974,0.057882682271154035,False,Right Foot,Open Play,0,0,1,Normal
+3901151,Rachid Ghezzal,Lyon,27.068062361388193,0.06933303582957318,False,Left Foot,Open Play,1,0,0,Normal
+3901151,Samuel Yves Umtiti,Lyon,33.11268639056638,0.07517036350117018,False,Left Foot,Open Play,0,0,1,Normal
+3901151,Florent Balmont,Lille,33.655460181076116,0.05837583998981076,False,Right Foot,Open Play,0,0,0,Normal
+3901151,Gaëtan Perrin,Lyon,14.322360140703065,0.06220054110419097,False,Left Foot,Open Play,0,0,2,Normal
+3901151,Jérémy Morel,Lyon,18.05436235373601,0.06373149101661152,False,Left Foot,Open Play,0,0,1,Normal
+3901151,Samuel Yves Umtiti,Lyon,14.534441853748634,0.0610310028654174,False,Left Foot,Open Play,0,0,4,Normal
+3901151,Alexandre Lacazette,Lyon,17.87512237720346,0.06372893382513793,False,Left Foot,Open Play,0,1,1,Normal
+3901151,Ibrahim Amadou,Lille,18.741664813991314,0.06456343417231468,False,Left Foot,Open Play,0,0,2,Normal
+3901151,Éric Bauthéac,Lille,29.02688409044278,0.07021903488086313,False,Right Foot,Open Play,1,0,1,Volley
+3901151,Zakarie Labidi,Lyon,14.071602609511114,0.06189451105047587,False,Left Foot,Open Play,1,0,1,Normal
+3901151,Gadji Celi Carmen Junior Tallo,Lille,17.10263137648707,0.06313338538068981,False,Left Foot,Open Play,0,1,2,Normal
+3901151,Jérémy Morel,Lyon,7.338937252763515,0.058299967755695584,False,Head,Open Play,0,0,6,Normal

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.3617977810372,0.058427254421475956,False,Right Foot,Open Play,0,1,1,Normal
-24.610973162392423,0.06811741176213118,False,Right Foot,Open Play,0,1,2,Normal
-12.238055401083942,0.060773627856650844,False,Right Foot,Open Play,1,0,3,Normal
-19.304144632694815,0.06514447901248407,True,Right Foot,Open Play,0,0,2,Normal
-16.728717822953442,0.06276540495516882,False,Left Foot,Open Play,1,0,2,Normal
-20.124860247961976,0.06432366004517184,False,Left Foot,Open Play,0,0,4,Normal
-19.339596686590966,0.0642825523610425,False,Right Foot,Open Play,1,1,2,Normal
-11.388590782006354,0.06026191468417482,False,Head,Open Play,0,1,4,Normal
-34.73859525081576,0.07221547138092212,False,Right Foot,Open Play,0,0,0,Normal
-30.34336830346954,0.05841171068226211,False,Left Foot,Free Kick,0,0,0,Normal
-29.13176959952828,0.05973869138673229,False,Right Foot,Open Play,1,0,0,Half Volley
-13.64880947189168,0.061625015477607514,True,Right Foot,Open Play,0,0,1,Normal
-17.00470523119998,0.06158171286556099,False,Left Foot,Open Play,0,0,2,Normal
-35.34756002894683,0.059971367644546955,False,Left Foot,Open Play,1,0,1,Volley
-26.886799735186038,0.06169951983194091,False,Left Foot,Open Play,0,1,2,Normal
-17.646529403823294,0.06418840936613984,False,Right Foot,Open Play,0,0,3,Normal
-24.029981273400946,0.06438036585288574,True,Left Foot,Open Play,1,0,3,Normal
-24.020824298928627,0.06447734515930043,True,Left Foot,Free Kick,0,0,0,Normal
-12.394353553130555,0.06022152564213451,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266827,Ignacio Camacho Barnola,Málaga,22.3617977810372,0.058427254421475956,False,Right Foot,Open Play,0,1,1,Normal
+266827,Francesc Fàbregas i Soler,Barcelona,24.610973162392423,0.06811741176213118,False,Right Foot,Open Play,0,1,2,Normal
+266827,Andrés Iniesta Luján,Barcelona,12.238055401083942,0.060773627856650844,False,Right Foot,Open Play,1,0,3,Normal
+266827,Lionel Andrés Messi Cuccittini,Barcelona,19.304144632694815,0.06514447901248407,True,Right Foot,Open Play,0,0,2,Normal
+266827,Francesc Fàbregas i Soler,Barcelona,16.728717822953442,0.06276540495516882,False,Left Foot,Open Play,1,0,2,Normal
+266827,Lionel Andrés Messi Cuccittini,Barcelona,20.124860247961976,0.06432366004517184,False,Left Foot,Open Play,0,0,4,Normal
+266827,Francisco Román Alarcón Suárez,Málaga,19.339596686590966,0.0642825523610425,False,Right Foot,Open Play,1,1,2,Normal
+266827,Roque Luis Santa Cruz Cantero,Málaga,11.388590782006354,0.06026191468417482,False,Head,Open Play,0,1,4,Normal
+266827,Francesc Fàbregas i Soler,Barcelona,34.73859525081576,0.07221547138092212,False,Right Foot,Open Play,0,0,0,Normal
+266827,Eliseu Pereira dos Santos,Málaga,30.34336830346954,0.05841171068226211,False,Left Foot,Free Kick,0,0,0,Normal
+266827,Joaquín Sánchez Rodríguez,Málaga,29.13176959952828,0.05973869138673229,False,Right Foot,Open Play,1,0,0,Half Volley
+266827,Francesc Fàbregas i Soler,Barcelona,13.64880947189168,0.061625015477607514,True,Right Foot,Open Play,0,0,1,Normal
+266827,Lionel Andrés Messi Cuccittini,Barcelona,17.00470523119998,0.06158171286556099,False,Left Foot,Open Play,0,0,2,Normal
+266827,Daniel Alves da Silva,Barcelona,35.34756002894683,0.059971367644546955,False,Left Foot,Open Play,1,0,1,Volley
+266827,Diego Mario Buonanotte Rende,Málaga,26.886799735186038,0.06169951983194091,False,Left Foot,Open Play,0,1,2,Normal
+266827,Andrés Iniesta Luján,Barcelona,17.646529403823294,0.06418840936613984,False,Right Foot,Open Play,0,0,3,Normal
+266827,Thiago Alcântara do Nascimento,Barcelona,24.029981273400946,0.06438036585288574,True,Left Foot,Open Play,1,0,3,Normal
+266827,Diego Mario Buonanotte Rende,Málaga,24.020824298928627,0.06447734515930043,True,Left Foot,Free Kick,0,0,0,Normal
+266827,Alexis Alejandro Sánchez Sánchez,Barcelona,12.394353553130555,0.06022152564213451,False,Right Foot,Open Play,0,0,2,Normal

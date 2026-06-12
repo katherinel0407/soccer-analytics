@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.29489123685045,0.0744861314409994,False,Right Foot,Open Play,0,0,1,Normal
-23.488294957276057,0.059062508297906914,False,Right Foot,Open Play,1,0,0,Half Volley
-8.099382692526628,0.05686889159812922,False,Right Foot,Open Play,1,0,2,Normal
-19.16507239746304,0.059535894785577616,False,Right Foot,Open Play,1,1,1,Half Volley
-17.728226081590904,0.06424024724042326,False,Right Foot,Open Play,0,1,2,Normal
-33.90722636843068,0.06948060199694737,False,Right Foot,Open Play,0,1,2,Normal
-22.498222151983484,0.06322499361892173,False,Right Foot,Open Play,1,0,1,Normal
-21.261467494037195,0.05894377281928806,False,Left Foot,Open Play,0,1,4,Normal
-24.65319451916932,0.0510274581772046,False,Right Foot,Open Play,1,0,1,Volley
-21.863439802556233,0.0661757397262151,False,Left Foot,Open Play,1,0,1,Normal
-28.8600069300061,0.07082538918531009,False,Right Foot,Open Play,1,0,0,Volley
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-19.14157778240864,0.05828049705443657,True,Right Foot,Open Play,0,0,2,Normal
-15.20032894380908,0.06099391251545794,False,Left Foot,Open Play,1,1,1,Half Volley
-15.684705926474997,0.054417681667881565,False,Right Foot,Open Play,1,0,2,Normal
-6.826419266350399,0.05444858291611607,False,Head,Open Play,0,1,4,Normal
-7.826237921249266,0.058284598999534164,False,Head,Open Play,0,0,3,Normal
-23.469554746522135,0.06749465317229375,False,Right Foot,Open Play,0,0,1,Half Volley
-20.353132437047616,0.06172130124085823,False,Left Foot,Open Play,1,0,0,Normal
-33.0647848926921,0.0562860808483827,False,Right Foot,Open Play,0,0,0,Normal
-7.416872656315469,0.05755235313460945,False,Head,Open Play,0,0,2,Normal
-22.817756243767697,0.06748685768268019,False,Right Foot,Open Play,0,0,2,Normal
-25.437374078312406,0.05204236753725414,False,Right Foot,Open Play,0,0,1,Half Volley
-8.852683209061528,0.05888143548242887,False,Head,Open Play,0,0,4,Normal
-16.942549985170473,0.05563615386428706,False,Right Foot,Open Play,0,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829495,"David N""Gog",Stade de Reims,32.29489123685045,0.0744861314409994,False,Right Foot,Open Play,0,0,1,Normal
+3829495,Sergi Darder Moll,Lyon,23.488294957276057,0.059062508297906914,False,Right Foot,Open Play,1,0,0,Half Volley
+3829495,Alexandre Lacazette,Lyon,8.099382692526628,0.05686889159812922,False,Right Foot,Open Play,1,0,2,Normal
+3829495,Sergi Darder Moll,Lyon,19.16507239746304,0.059535894785577616,False,Right Foot,Open Play,1,1,1,Half Volley
+3829495,Mathieu Valbuena,Lyon,17.728226081590904,0.06424024724042326,False,Right Foot,Open Play,0,1,2,Normal
+3829495,Corentin Tolisso,Lyon,33.90722636843068,0.06948060199694737,False,Right Foot,Open Play,0,1,2,Normal
+3829495,Claudio Beauvue,Lyon,22.498222151983484,0.06322499361892173,False,Right Foot,Open Play,1,0,1,Normal
+3829495,Alexandre Lacazette,Lyon,21.261467494037195,0.05894377281928806,False,Left Foot,Open Play,0,1,4,Normal
+3829495,Claudio Beauvue,Lyon,24.65319451916932,0.0510274581772046,False,Right Foot,Open Play,1,0,1,Volley
+3829495,Nicolas de Roussel de Préville,Stade de Reims,21.863439802556233,0.0661757397262151,False,Left Foot,Open Play,1,0,1,Normal
+3829495,Sergi Darder Moll,Lyon,28.8600069300061,0.07082538918531009,False,Right Foot,Open Play,1,0,0,Volley
+3829495,Alexandre Lacazette,Lyon,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3829495,Alexandre Lacazette,Lyon,19.14157778240864,0.05828049705443657,True,Right Foot,Open Play,0,0,2,Normal
+3829495,Claudio Beauvue,Lyon,15.20032894380908,0.06099391251545794,False,Left Foot,Open Play,1,1,1,Half Volley
+3829495,Claudio Beauvue,Lyon,15.684705926474997,0.054417681667881565,False,Right Foot,Open Play,1,0,2,Normal
+3829495,Grejohn Kyei,Stade de Reims,6.826419266350399,0.05444858291611607,False,Head,Open Play,0,1,4,Normal
+3829495,Claudio Beauvue,Lyon,7.826237921249266,0.058284598999534164,False,Head,Open Play,0,0,3,Normal
+3829495,Jordan Ferri,Lyon,23.469554746522135,0.06749465317229375,False,Right Foot,Open Play,0,0,1,Half Volley
+3829495,Steed Malbranque,Lyon,20.353132437047616,0.06172130124085823,False,Left Foot,Open Play,1,0,0,Normal
+3829495,Hamari Traoré,Stade de Reims,33.0647848926921,0.0562860808483827,False,Right Foot,Open Play,0,0,0,Normal
+3829495,Grejohn Kyei,Stade de Reims,7.416872656315469,0.05755235313460945,False,Head,Open Play,0,0,2,Normal
+3829495,Alexandre Lacazette,Lyon,22.817756243767697,0.06748685768268019,False,Right Foot,Open Play,0,0,2,Normal
+3829495,Frédéric Bulot,Stade de Reims,25.437374078312406,0.05204236753725414,False,Right Foot,Open Play,0,0,1,Half Volley
+3829495,Mickaël Tacalfred,Stade de Reims,8.852683209061528,0.05888143548242887,False,Head,Open Play,0,0,4,Normal
+3829495,Prince Oniangué,Stade de Reims,16.942549985170473,0.05563615386428706,False,Right Foot,Open Play,0,1,2,Half Volley

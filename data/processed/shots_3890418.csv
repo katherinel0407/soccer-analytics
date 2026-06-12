@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.00656115472652,0.06217333821166033,False,Left Foot,Open Play,0,1,1,Normal
-21.85634919193962,0.06098445802975289,False,Right Foot,Open Play,0,1,4,Half Volley
-30.624336727511345,0.07016325591205468,False,Right Foot,Open Play,1,0,1,Normal
-24.600203251192863,0.053449329478814686,False,Right Foot,Open Play,0,1,3,Normal
-15.201315732527894,0.06103253986622065,True,Left Foot,Open Play,1,0,1,Normal
-31.580056998048622,0.0728277446626629,False,Right Foot,Open Play,0,1,1,Normal
-11.744360348695025,0.05814720239246356,False,Head,Open Play,0,0,1,Normal
-13.066751700403586,0.06091845656252339,False,Right Foot,Open Play,1,0,2,Normal
-26.911150105486016,0.06973958686161275,False,Right Foot,Open Play,1,0,0,Volley
-6.103277807866848,0.05766750934784753,True,Left Foot,Open Play,0,1,4,Volley
-32.869438693108215,0.06668952611817719,False,Right Foot,Open Play,0,1,1,Half Volley
-22.022715545545246,0.06134026641387359,False,Right Foot,Open Play,1,1,1,Volley
-29.18938163099725,0.06263183307614106,False,Right Foot,Open Play,1,0,0,Volley
-11.122050170719424,0.05634478253573508,False,Right Foot,Open Play,0,1,4,Half Volley
-20.18539075668341,0.06480152899310136,False,Right Foot,Open Play,1,0,2,Half Volley
-27.218376145538148,0.0670272386984495,False,Right Foot,Open Play,0,1,1,Lob
-14.71767644704829,0.06242191806283044,False,Left Foot,Open Play,1,0,1,Half Volley
-10.807404868885033,0.05997579250985411,False,Head,Open Play,0,0,1,Diving Header
-2.308679276123043,0.055503478461239854,True,Left Foot,Open Play,1,0,1,Half Volley
-22.240728405337805,0.06644593464633022,False,Right Foot,Open Play,1,0,1,Volley
-14.18238343861849,0.062116940274868075,False,Right Foot,Open Play,1,0,2,Normal
-5.186520991955976,0.05407791576644658,False,Head,Open Play,0,0,3,Normal
-32.812497619047534,0.0735155408196418,False,Left Foot,Open Play,1,1,2,Half Volley
-34.012350697945,0.06379835833428533,False,Right Foot,Open Play,0,0,1,Normal
-19.23148460207895,0.05806998790688585,False,Left Foot,Open Play,1,1,2,Half Volley
-17.97776404339539,0.057059897606748,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890418,Hugo Miguel Pereira de Almeida,Hannover 96,16.00656115472652,0.06217333821166033,False,Left Foot,Open Play,0,1,1,Normal
+3890418,Konstantin Rausch,Darmstadt 98,21.85634919193962,0.06098445802975289,False,Right Foot,Open Play,0,1,4,Half Volley
+3890418,Andre Hoffmann,Hannover 96,30.624336727511345,0.07016325591205468,False,Right Foot,Open Play,1,0,1,Normal
+3890418,Ádám Szalai,Hannover 96,24.600203251192863,0.053449329478814686,False,Right Foot,Open Play,0,1,3,Normal
+3890418,Hugo Miguel Pereira de Almeida,Hannover 96,15.201315732527894,0.06103253986622065,True,Left Foot,Open Play,1,0,1,Normal
+3890418,Marcel Heller,Darmstadt 98,31.580056998048622,0.0728277446626629,False,Right Foot,Open Play,0,1,1,Normal
+3890418,Ádám Szalai,Hannover 96,11.744360348695025,0.05814720239246356,False,Head,Open Play,0,0,1,Normal
+3890418,Aytac Sulu,Darmstadt 98,13.066751700403586,0.06091845656252339,False,Right Foot,Open Play,1,0,2,Normal
+3890418,Peter Niemeyer,Darmstadt 98,26.911150105486016,0.06973958686161275,False,Right Foot,Open Play,1,0,0,Volley
+3890418,Sandro Wagner,Darmstadt 98,6.103277807866848,0.05766750934784753,True,Left Foot,Open Play,0,1,4,Volley
+3890418,Salif Sané,Hannover 96,32.869438693108215,0.06668952611817719,False,Right Foot,Open Play,0,1,1,Half Volley
+3890418,Manuel Schmiedebach,Hannover 96,22.022715545545246,0.06134026641387359,False,Right Foot,Open Play,1,1,1,Volley
+3890418,Andre Hoffmann,Hannover 96,29.18938163099725,0.06263183307614106,False,Right Foot,Open Play,1,0,0,Volley
+3890418,Manuel Schmiedebach,Hannover 96,11.122050170719424,0.05634478253573508,False,Right Foot,Open Play,0,1,4,Half Volley
+3890418,Jérôme Gondorf,Darmstadt 98,20.18539075668341,0.06480152899310136,False,Right Foot,Open Play,1,0,2,Half Volley
+3890418,Peter Niemeyer,Darmstadt 98,27.218376145538148,0.0670272386984495,False,Right Foot,Open Play,0,1,1,Lob
+3890418,Konstantin Rausch,Darmstadt 98,14.71767644704829,0.06242191806283044,False,Left Foot,Open Play,1,0,1,Half Volley
+3890418,Jan Rosenthal,Darmstadt 98,10.807404868885033,0.05997579250985411,False,Head,Open Play,0,0,1,Diving Header
+3890418,Sandro Wagner,Darmstadt 98,2.308679276123043,0.055503478461239854,True,Left Foot,Open Play,1,0,1,Half Volley
+3890418,Andre Hoffmann,Hannover 96,22.240728405337805,0.06644593464633022,False,Right Foot,Open Play,1,0,1,Volley
+3890418,Jan Rosenthal,Darmstadt 98,14.18238343861849,0.062116940274868075,False,Right Foot,Open Play,1,0,2,Normal
+3890418,Ádám Szalai,Hannover 96,5.186520991955976,0.05407791576644658,False,Head,Open Play,0,0,3,Normal
+3890418,Konstantin Rausch,Darmstadt 98,32.812497619047534,0.0735155408196418,False,Left Foot,Open Play,1,1,2,Half Volley
+3890418,Salif Sané,Hannover 96,34.012350697945,0.06379835833428533,False,Right Foot,Open Play,0,0,1,Normal
+3890418,Edgar Prib,Hannover 96,19.23148460207895,0.05806998790688585,False,Left Foot,Open Play,1,1,2,Half Volley
+3890418,Marcel Heller,Darmstadt 98,17.97776404339539,0.057059897606748,False,Right Foot,Open Play,0,1,1,Normal

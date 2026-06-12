@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.3017697729161,0.05388545167322465,False,Head,Open Play,0,0,3,Normal
-16.70748335327616,0.06226954696517413,False,Right Foot,Open Play,0,0,2,Normal
-32.9734741875951,0.07070866267722459,False,Left Foot,Open Play,1,0,1,Half Volley
-25.358430550805,0.06298541113037105,False,Right Foot,Open Play,0,0,2,Normal
-28.201595699534455,0.06684391969616903,False,Right Foot,Free Kick,0,0,0,Normal
-12.291867230002122,0.05912934898775972,False,Head,Open Play,0,1,1,Normal
-24.67164364204379,0.0678455310059923,False,Left Foot,Open Play,0,0,1,Normal
-23.20538730553748,0.06481427013124633,False,Right Foot,Open Play,0,0,1,Normal
-20.7624661348309,0.05647646225548725,False,Right Foot,Open Play,0,0,2,Normal
-8.374365647617738,0.05746855065037494,False,Head,Open Play,0,1,4,Normal
-26.947541631844647,0.06718151599365446,False,Left Foot,Open Play,0,1,1,Half Volley
-23.055585006674626,0.054735989890988504,False,Left Foot,Open Play,1,0,2,Normal
-11.947384651043924,0.05583655056843006,False,Head,Open Play,0,1,2,Normal
-21.973848092675983,0.057291530069369455,False,Left Foot,Free Kick,0,0,0,Normal
-24.9110417285187,0.05727336313040765,False,Left Foot,Open Play,0,0,2,Normal
-23.76552124402071,0.06607839654637201,False,Right Foot,Open Play,0,0,1,Normal
-6.074537019394976,0.054566689961649845,False,Head,Open Play,0,1,2,Normal
-20.604125800431326,0.06537623503660647,False,Right Foot,Open Play,1,0,0,Normal
-19.7327139542436,0.0597670914818168,False,Left Foot,Open Play,0,0,4,Normal
-21.941968918034675,0.06674389169844014,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754313,Vincent Kompany,Manchester City,11.3017697729161,0.05388545167322465,False,Head,Open Play,0,0,3,Normal
+3754313,Sergio Leonel Agüero del Castillo,Manchester City,16.70748335327616,0.06226954696517413,False,Right Foot,Open Play,0,0,2,Normal
+3754313,Martin Olsson,Norwich City,32.9734741875951,0.07070866267722459,False,Left Foot,Open Play,1,0,1,Half Volley
+3754313,Wilfried Guemiand Bony,Manchester City,25.358430550805,0.06298541113037105,False,Right Foot,Open Play,0,0,2,Normal
+3754313,Sergio Leonel Agüero del Castillo,Manchester City,28.201595699534455,0.06684391969616903,False,Right Foot,Free Kick,0,0,0,Normal
+3754313,Vincent Kompany,Manchester City,12.291867230002122,0.05912934898775972,False,Head,Open Play,0,1,1,Normal
+3754313,Sergio Leonel Agüero del Castillo,Manchester City,24.67164364204379,0.0678455310059923,False,Left Foot,Open Play,0,0,1,Normal
+3754313,Fernando Luiz Rosa,Manchester City,23.20538730553748,0.06481427013124633,False,Right Foot,Open Play,0,0,1,Normal
+3754313,Sergio Leonel Agüero del Castillo,Manchester City,20.7624661348309,0.05647646225548725,False,Right Foot,Open Play,0,0,2,Normal
+3754313,Ryan Bennett,Norwich City,8.374365647617738,0.05746855065037494,False,Head,Open Play,0,1,4,Normal
+3754313,Patrick Bamford,Norwich City,26.947541631844647,0.06718151599365446,False,Left Foot,Open Play,0,1,1,Half Volley
+3754313,Matt Jarvis,Norwich City,23.055585006674626,0.054735989890988504,False,Left Foot,Open Play,1,0,2,Normal
+3754313,Nicolás Hernán Otamendi,Manchester City,11.947384651043924,0.05583655056843006,False,Head,Open Play,0,1,2,Normal
+3754313,David Josué Jiménez Silva,Manchester City,21.973848092675983,0.057291530069369455,False,Left Foot,Free Kick,0,0,0,Normal
+3754313,David Josué Jiménez Silva,Manchester City,24.9110417285187,0.05727336313040765,False,Left Foot,Open Play,0,0,2,Normal
+3754313,Vincent Kompany,Manchester City,23.76552124402071,0.06607839654637201,False,Right Foot,Open Play,0,0,1,Normal
+3754313,David Josué Jiménez Silva,Manchester City,6.074537019394976,0.054566689961649845,False,Head,Open Play,0,1,2,Normal
+3754313,Graham Dorrans,Norwich City,20.604125800431326,0.06537623503660647,False,Right Foot,Open Play,1,0,0,Normal
+3754313,Kelechi Promise Iheanacho,Manchester City,19.7327139542436,0.0597670914818168,False,Left Foot,Open Play,0,0,4,Normal
+3754313,Sergio Leonel Agüero del Castillo,Manchester City,21.941968918034675,0.06674389169844014,False,Right Foot,Open Play,0,0,3,Normal

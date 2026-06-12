@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.730861387730807,0.06287608004721497,False,Right Foot,Open Play,0,0,1,Half Volley
-17.95132307101624,0.062205263710618,False,Right Foot,Open Play,0,0,1,Half Volley
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-13.697079980784226,0.05770181376820384,False,Head,Open Play,0,1,4,Normal
-22.94558781116753,0.06212630178783404,False,Left Foot,Open Play,0,0,2,Normal
-18.1121506177483,0.05223596809584485,False,Right Foot,Open Play,0,0,2,Normal
-12.231925441237772,0.056337917900907225,False,Head,Open Play,0,1,1,Normal
-17.51713446885648,0.060216921172879426,False,Left Foot,Open Play,0,0,2,Normal
-7.558438992278765,0.058362143318381736,True,Head,Open Play,0,1,5,Normal
-29.584624384974035,0.06576417219125481,False,Right Foot,Free Kick,0,0,0,Normal
-18.01887898843876,0.060928054477373574,False,Left Foot,Open Play,0,0,4,Normal
-13.720058308914,0.06133107064898164,True,Right Foot,Open Play,0,0,0,Normal
-9.794386147176347,0.059664318529679954,True,Right Foot,Open Play,1,0,2,Volley
-18.356470248934027,0.06364453152285474,True,Left Foot,Open Play,0,0,3,Normal
-15.305227865013967,0.062231309156198435,False,Left Foot,Open Play,0,0,1,Normal
-12.897286536322284,0.05560611879217165,True,Left Foot,Open Play,0,0,3,Normal
-12.398790263570074,0.06086868500830177,False,Left Foot,Open Play,0,0,2,Normal
-30.286960890785995,0.0729005839068373,False,Left Foot,Free Kick,0,0,0,Normal
-32.467984230623244,0.07458400531873108,False,Right Foot,Open Play,1,0,1,Normal
-15.065855435387663,0.05386831164174423,False,Right Foot,Open Play,0,0,2,Normal
-27.50454507895013,0.05634522649939639,False,Right Foot,Open Play,1,0,0,Volley
-10.420172743289813,0.05591711705535179,True,Left Foot,Open Play,1,0,3,Normal
-14.368368035375484,0.061092406637215484,False,Head,Open Play,0,1,2,Normal
-23.801890681204295,0.06500721433877865,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9609,Sergio Enrich Ametller,Eibar,15.730861387730807,0.06287608004721497,False,Right Foot,Open Play,0,0,1,Half Volley
+9609,Takashi Inui,Eibar,17.95132307101624,0.062205263710618,False,Right Foot,Open Play,0,0,1,Half Volley
+9609,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+9609,Gonzalo Escalante,Eibar,13.697079980784226,0.05770181376820384,False,Head,Open Play,0,1,4,Normal
+9609,Lionel Andrés Messi Cuccittini,Barcelona,22.94558781116753,0.06212630178783404,False,Left Foot,Open Play,0,0,2,Normal
+9609,Takashi Inui,Eibar,18.1121506177483,0.05223596809584485,False,Right Foot,Open Play,0,0,2,Normal
+9609,Sergio Enrich Ametller,Eibar,12.231925441237772,0.056337917900907225,False,Head,Open Play,0,1,1,Normal
+9609,Lionel Andrés Messi Cuccittini,Barcelona,17.51713446885648,0.060216921172879426,False,Left Foot,Open Play,0,0,2,Normal
+9609,José Paulo Bezzera Maciel Júnior,Barcelona,7.558438992278765,0.058362143318381736,True,Head,Open Play,0,1,5,Normal
+9609,Anaitz Arbilla Zabala,Eibar,29.584624384974035,0.06576417219125481,False,Right Foot,Free Kick,0,0,0,Normal
+9609,Lionel Andrés Messi Cuccittini,Barcelona,18.01887898843876,0.060928054477373574,False,Left Foot,Open Play,0,0,4,Normal
+9609,Denis Suárez Fernández,Barcelona,13.720058308914,0.06133107064898164,True,Right Foot,Open Play,0,0,0,Normal
+9609,Sergio Enrich Ametller,Eibar,9.794386147176347,0.059664318529679954,True,Right Foot,Open Play,1,0,2,Volley
+9609,Lionel Andrés Messi Cuccittini,Barcelona,18.356470248934027,0.06364453152285474,True,Left Foot,Open Play,0,0,3,Normal
+9609,Takashi Inui,Eibar,15.305227865013967,0.062231309156198435,False,Left Foot,Open Play,0,0,1,Normal
+9609,Lionel Andrés Messi Cuccittini,Barcelona,12.897286536322284,0.05560611879217165,True,Left Foot,Open Play,0,0,3,Normal
+9609,Lucas Digne,Barcelona,12.398790263570074,0.06086868500830177,False,Left Foot,Open Play,0,0,2,Normal
+9609,Lionel Andrés Messi Cuccittini,Barcelona,30.286960890785995,0.0729005839068373,False,Left Foot,Free Kick,0,0,0,Normal
+9609,Gonzalo Escalante,Eibar,32.467984230623244,0.07458400531873108,False,Right Foot,Open Play,1,0,1,Normal
+9609,Rubén Peña Jiménez,Eibar,15.065855435387663,0.05386831164174423,False,Right Foot,Open Play,0,0,2,Normal
+9609,Rubén Peña Jiménez,Eibar,27.50454507895013,0.05634522649939639,False,Right Foot,Open Play,1,0,0,Volley
+9609,Lionel Andrés Messi Cuccittini,Barcelona,10.420172743289813,0.05591711705535179,True,Left Foot,Open Play,1,0,3,Normal
+9609,Charles Días Barbosa de Oliveira,Eibar,14.368368035375484,0.061092406637215484,False,Head,Open Play,0,1,2,Normal
+9609,Takashi Inui,Eibar,23.801890681204295,0.06500721433877865,False,Right Foot,Open Play,0,0,2,Normal

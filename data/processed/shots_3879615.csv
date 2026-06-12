@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.161494961096277,0.05831966925670405,False,Head,Open Play,0,1,2,Normal
-26.067988031299997,0.053363831155754486,False,Left Foot,Open Play,0,0,2,Normal
-24.225812679866902,0.06335183853133054,False,Left Foot,Open Play,0,0,1,Volley
-6.449806198638836,0.05797461519066483,True,Right Foot,Open Play,1,0,4,Normal
-12.433824833895644,0.057294393033155706,False,Left Foot,Open Play,1,1,2,Normal
-24.753585598858198,0.05298521656843939,False,Right Foot,Open Play,0,0,2,Normal
-14.368368035375484,0.05545815075206069,False,Right Foot,Open Play,1,0,2,Backheel
-32.0,0.06892796015856448,False,Left Foot,Free Kick,0,0,0,Normal
-23.84806071780261,0.06681978206484136,False,Left Foot,Open Play,0,1,2,Normal
-32.06321880285883,0.07118252716841424,False,Right Foot,Open Play,0,1,2,Half Volley
-13.602940858505564,0.06172998988849477,False,Left Foot,Open Play,1,1,2,Normal
-18.186808406094787,0.060219392960705685,False,Left Foot,Open Play,1,1,1,Normal
-28.999999999999996,0.06911530523399718,False,Left Foot,Open Play,0,0,0,Normal
-31.780025173054856,0.05565857881701844,False,Right Foot,Open Play,0,0,0,Normal
-15.024313628249377,0.062079014264032915,False,Right Foot,Open Play,0,1,3,Half Volley
-8.254089895318561,0.05873665675957767,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879615,Cristian Zaccardo,Carpi,8.161494961096277,0.05831966925670405,False,Head,Open Play,0,1,2,Normal
+3879615,Gaetano Letizia,Carpi,26.067988031299997,0.053363831155754486,False,Left Foot,Open Play,0,0,2,Normal
+3879615,Kevin Lasagna,Carpi,24.225812679866902,0.06335183853133054,False,Left Foot,Open Play,0,0,1,Volley
+3879615,Nicola Sansone,Sassuolo,6.449806198638836,0.05797461519066483,True,Right Foot,Open Play,1,0,4,Normal
+3879615,Domenico Berardi,Sassuolo,12.433824833895644,0.057294393033155706,False,Left Foot,Open Play,1,1,2,Normal
+3879615,Gaetano Letizia,Carpi,24.753585598858198,0.05298521656843939,False,Right Foot,Open Play,0,0,2,Normal
+3879615,Diego Falcinelli,Sassuolo,14.368368035375484,0.05545815075206069,False,Right Foot,Open Play,1,0,2,Backheel
+3879615,Domenico Berardi,Sassuolo,32.0,0.06892796015856448,False,Left Foot,Free Kick,0,0,0,Normal
+3879615,Kevin Lasagna,Carpi,23.84806071780261,0.06681978206484136,False,Left Foot,Open Play,0,1,2,Normal
+3879615,Francesco Magnanelli,Sassuolo,32.06321880285883,0.07118252716841424,False,Right Foot,Open Play,0,1,2,Half Volley
+3879615,Domenico Berardi,Sassuolo,13.602940858505564,0.06172998988849477,False,Left Foot,Open Play,1,1,2,Normal
+3879615,Domenico Berardi,Sassuolo,18.186808406094787,0.060219392960705685,False,Left Foot,Open Play,1,1,1,Normal
+3879615,Domenico Berardi,Sassuolo,28.999999999999996,0.06911530523399718,False,Left Foot,Open Play,0,0,0,Normal
+3879615,Gaetano Letizia,Carpi,31.780025173054856,0.05565857881701844,False,Right Foot,Open Play,0,0,0,Normal
+3879615,Antonio Di Gaudio,Carpi,15.024313628249377,0.062079014264032915,False,Right Foot,Open Play,0,1,3,Half Volley
+3879615,Gregoire Defrel,Sassuolo,8.254089895318561,0.05873665675957767,False,Head,Open Play,0,0,1,Normal

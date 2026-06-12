@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.805795884337849,0.06146940323642135,True,Left Foot,Open Play,0,1,2,Normal
-25.878562556679995,0.06805773456365262,False,Right Foot,Open Play,0,0,1,Normal
-32.94389169481955,0.06836179445649786,False,Right Foot,Free Kick,0,0,0,Normal
-10.454664030948097,0.059714423849608275,False,Head,Open Play,0,1,4,Normal
-15.340469353966975,0.05775125321099174,False,Head,Open Play,0,1,2,Normal
-5.263078946776308,0.056749951712891766,False,Head,Open Play,0,0,4,Normal
-31.084562084739105,0.07344470499011667,False,Right Foot,Open Play,0,1,1,Normal
-19.592345444075857,0.06367100375533212,False,Right Foot,Open Play,0,0,1,Volley
-15.572411502397436,0.05473604791924816,False,Left Foot,Open Play,1,0,1,Half Volley
-25.00499950009997,0.05912865518133051,False,Left Foot,Open Play,0,0,1,Normal
-19.366207682455546,0.05207887635696932,False,Right Foot,Open Play,0,0,2,Normal
-13.591173606425608,0.06105375765504796,False,Left Foot,Open Play,0,0,2,Half Volley
-24.481829996958975,0.06417203195236543,False,Right Foot,Open Play,1,0,1,Normal
-23.84156035162128,0.06169175485736535,False,Left Foot,Open Play,0,0,4,Normal
-18.262803727796015,0.05646197356783043,False,Left Foot,Open Play,0,0,1,Normal
-6.854195795277516,0.05641364795835119,False,Left Foot,Open Play,1,0,4,Normal
-5.099019513592786,0.05724850686323272,False,Left Foot,Open Play,1,0,6,Half Volley
-13.761177275218856,0.05947484536331458,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-18.65743819499344,0.059556336677747485,False,Left Foot,Open Play,0,0,2,Half Volley
-21.27087210247854,0.05592836862393398,False,Right Foot,Open Play,0,1,1,Normal
-27.12231553536681,0.06588675673693047,False,Right Foot,Open Play,0,0,0,Half Volley
-7.623647421018362,0.0579878335202527,False,Head,Open Play,0,0,3,Normal
-14.177799547179388,0.0609262287742071,False,Left Foot,Open Play,0,1,1,Normal
-7.161005515987261,0.05465458449682746,False,Right Foot,Open Play,1,0,2,Volley
-23.186634080866504,0.05763052645014836,False,Left Foot,Open Play,0,1,2,Normal
-6.96419413859206,0.058135043800361726,False,Left Foot,Open Play,1,0,3,Normal
-29.17344683097971,0.05968442110309748,False,Right Foot,Open Play,0,0,2,Normal
-8.052949770115296,0.05409877510406502,False,Left Foot,Open Play,1,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3938644,Khvicha Kvaratskhelia,Georgia,13.805795884337849,0.06146940323642135,True,Left Foot,Open Play,0,1,2,Normal
+3938644,Giorgi Chakvetadze,Georgia,25.878562556679995,0.06805773456365262,False,Right Foot,Open Play,0,0,1,Normal
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,32.94389169481955,0.06836179445649786,False,Right Foot,Free Kick,0,0,0,Normal
+3938644,Gonçalo Bernardo Inácio,Portugal,10.454664030948097,0.059714423849608275,False,Head,Open Play,0,1,4,Normal
+3938644,José Diogo Dalot Teixeira,Portugal,15.340469353966975,0.05775125321099174,False,Head,Open Play,0,1,2,Normal
+3938644,António João Pereira Albuquerque Tavares Silva,Portugal,5.263078946776308,0.056749951712891766,False,Head,Open Play,0,0,4,Normal
+3938644,João Maria Lobo Alves Palhinha Gonçalves,Portugal,31.084562084739105,0.07344470499011667,False,Right Foot,Open Play,0,1,1,Normal
+3938644,João Neves,Portugal,19.592345444075857,0.06367100375533212,False,Right Foot,Open Play,0,0,1,Volley
+3938644,Francisco Fernandes Conceição,Portugal,15.572411502397436,0.05473604791924816,False,Left Foot,Open Play,1,0,1,Half Volley
+3938644,João Félix Sequeira,Portugal,25.00499950009997,0.05912865518133051,False,Left Foot,Open Play,0,0,1,Normal
+3938644,Khvicha Kvaratskhelia,Georgia,19.366207682455546,0.05207887635696932,False,Right Foot,Open Play,0,0,2,Normal
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,13.591173606425608,0.06105375765504796,False,Left Foot,Open Play,0,0,2,Half Volley
+3938644,João Maria Lobo Alves Palhinha Gonçalves,Portugal,24.481829996958975,0.06417203195236543,False,Right Foot,Open Play,1,0,1,Normal
+3938644,João Félix Sequeira,Portugal,23.84156035162128,0.06169175485736535,False,Left Foot,Open Play,0,0,4,Normal
+3938644,Francisco Fernandes Conceição,Portugal,18.262803727796015,0.05646197356783043,False,Left Foot,Open Play,0,0,1,Normal
+3938644,Cristiano Ronaldo dos Santos Aveiro,Portugal,6.854195795277516,0.05641364795835119,False,Left Foot,Open Play,1,0,4,Normal
+3938644,Danilo Luís Hélio Pereira,Portugal,5.099019513592786,0.05724850686323272,False,Left Foot,Open Play,1,0,6,Half Volley
+3938644,Khvicha Kvaratskhelia,Georgia,13.761177275218856,0.05947484536331458,False,Right Foot,Open Play,1,0,1,Normal
+3938644,Georges Mikautadze,Georgia,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3938644,Francisco Fernandes Conceição,Portugal,18.65743819499344,0.059556336677747485,False,Left Foot,Open Play,0,0,2,Half Volley
+3938644,Giorgi Chakvetadze,Georgia,21.27087210247854,0.05592836862393398,False,Right Foot,Open Play,0,1,1,Normal
+3938644,Nélson Cabral Semedo,Portugal,27.12231553536681,0.06588675673693047,False,Right Foot,Open Play,0,0,0,Half Volley
+3938644,Matheus Luiz Nunes,Portugal,7.623647421018362,0.0579878335202527,False,Head,Open Play,0,0,3,Normal
+3938644,Zuriko Davitashvili,Georgia,14.177799547179388,0.0609262287742071,False,Left Foot,Open Play,0,1,1,Normal
+3938644,Nélson Cabral Semedo,Portugal,7.161005515987261,0.05465458449682746,False,Right Foot,Open Play,1,0,2,Volley
+3938644,João Félix Sequeira,Portugal,23.186634080866504,0.05763052645014836,False,Left Foot,Open Play,0,1,2,Normal
+3938644,Diogo José Teixeira da Silva,Portugal,6.96419413859206,0.058135043800361726,False,Left Foot,Open Play,1,0,3,Normal
+3938644,José Diogo Dalot Teixeira,Portugal,29.17344683097971,0.05968442110309748,False,Right Foot,Open Play,0,0,2,Normal
+3938644,Gonçalo Matias Ramos,Portugal,8.052949770115296,0.05409877510406502,False,Left Foot,Open Play,1,0,3,Half Volley

@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.653149868051777,0.05228991752441419,False,Right Foot,Open Play,1,0,1,Lob
-30.73711111994749,0.069836198540542,False,Right Foot,Free Kick,0,0,0,Normal
-28.16025568065745,0.060948301031540496,False,Right Foot,Open Play,0,0,2,Normal
-30.82742285693048,0.06756705357790022,False,Right Foot,Open Play,1,1,1,Normal
-35.87087955431257,0.06792594398644354,False,Right Foot,Free Kick,0,0,0,Normal
-15.155856953666454,0.0546848999749901,False,Right Foot,Open Play,0,1,2,Normal
-19.72054765973805,0.06415906732357836,False,Left Foot,Open Play,0,0,1,Normal
-28.02320467041555,0.07119143252509429,False,Left Foot,Open Play,0,1,2,Normal
-19.803535037967336,0.05504196727383353,True,Right Foot,Open Play,0,0,1,Normal
-10.735455276791944,0.05945527658903656,False,Head,Open Play,0,0,2,Normal
-10.707474025184464,0.05616589058881506,True,Right Foot,Open Play,1,1,2,Normal
-34.65385981387932,0.06033663185006793,False,Right Foot,Open Play,1,0,0,Half Volley
-22.92116925464319,0.05489804292540525,False,Right Foot,Open Play,0,0,2,Normal
-22.461077445216205,0.05029315694644196,False,Left Foot,Open Play,1,0,2,Half Volley
-7.017834423809103,0.05590657961796195,True,Right Foot,Open Play,1,0,1,Half Volley
-20.91530540059122,0.06385950039550171,True,Left Foot,Open Play,1,0,1,Volley
-19.602295783912663,0.06513442212213255,False,Left Foot,Open Play,1,0,2,Normal
-26.046112953759522,0.0680615928665703,True,Left Foot,Open Play,1,0,1,Volley
-22.687441459979578,0.06251474534773796,False,Right Foot,Open Play,0,1,1,Normal
-17.140595088852663,0.0638942477825422,True,Left Foot,Open Play,0,0,2,Lob
-29.21044333795706,0.06927750966951471,False,Left Foot,Free Kick,0,0,0,Normal
-19.666468925559563,0.06466088636729501,False,Left Foot,Open Play,0,1,3,Normal
-28.900000000000002,0.07177472818180926,False,Right Foot,Open Play,0,1,2,Normal
-6.060528029800704,0.05764717534972314,False,Right Foot,Open Play,1,0,2,Normal
-37.05266522127659,0.06795210649584656,False,Right Foot,Open Play,0,0,0,Normal
-22.787935404507362,0.0652625636603826,False,Right Foot,Free Kick,0,0,0,Normal
-22.355759884199863,0.054230888062143226,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900591,Zlatan Ibrahimović,Paris Saint-Germain,18.653149868051777,0.05228991752441419,False,Right Foot,Open Play,1,0,1,Lob
+3900591,Zlatan Ibrahimović,Paris Saint-Germain,30.73711111994749,0.069836198540542,False,Right Foot,Free Kick,0,0,0,Normal
+3900591,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,28.16025568065745,0.060948301031540496,False,Right Foot,Open Play,0,0,2,Normal
+3900591,Cheikh N''Doye,Angers,30.82742285693048,0.06756705357790022,False,Right Foot,Open Play,1,1,1,Normal
+3900591,Billy Ketkeophomphone,Angers,35.87087955431257,0.06792594398644354,False,Right Foot,Free Kick,0,0,0,Normal
+3900591,Gregory van der Wiel,Paris Saint-Germain,15.155856953666454,0.0546848999749901,False,Right Foot,Open Play,0,1,2,Normal
+3900591,Blaise Matuidi,Paris Saint-Germain,19.72054765973805,0.06415906732357836,False,Left Foot,Open Play,0,0,1,Normal
+3900591,Gilles Sunu,Angers,28.02320467041555,0.07119143252509429,False,Left Foot,Open Play,0,1,2,Normal
+3900591,Zlatan Ibrahimović,Paris Saint-Germain,19.803535037967336,0.05504196727383353,True,Right Foot,Open Play,0,0,1,Normal
+3900591,Romain Thomas,Angers,10.735455276791944,0.05945527658903656,False,Head,Open Play,0,0,2,Normal
+3900591,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,10.707474025184464,0.05616589058881506,True,Right Foot,Open Play,1,1,2,Normal
+3900591,Romain Saïss,Angers,34.65385981387932,0.06033663185006793,False,Right Foot,Open Play,1,0,0,Half Volley
+3900591,Adrien Rabiot,Paris Saint-Germain,22.92116925464319,0.05489804292540525,False,Right Foot,Open Play,0,0,2,Normal
+3900591,Ángel Fabián Di María Hernández,Paris Saint-Germain,22.461077445216205,0.05029315694644196,False,Left Foot,Open Play,1,0,2,Half Volley
+3900591,Gregory van der Wiel,Paris Saint-Germain,7.017834423809103,0.05590657961796195,True,Right Foot,Open Play,1,0,1,Half Volley
+3900591,Pierrick Capelle,Angers,20.91530540059122,0.06385950039550171,True,Left Foot,Open Play,1,0,1,Volley
+3900591,David Luiz Moreira Marinho,Paris Saint-Germain,19.602295783912663,0.06513442212213255,False,Left Foot,Open Play,1,0,2,Normal
+3900591,Ángel Fabián Di María Hernández,Paris Saint-Germain,26.046112953759522,0.0680615928665703,True,Left Foot,Open Play,1,0,1,Volley
+3900591,Gilles Sunu,Angers,22.687441459979578,0.06251474534773796,False,Right Foot,Open Play,0,1,1,Normal
+3900591,Ángel Fabián Di María Hernández,Paris Saint-Germain,17.140595088852663,0.0638942477825422,True,Left Foot,Open Play,0,0,2,Lob
+3900591,Pierrick Capelle,Angers,29.21044333795706,0.06927750966951471,False,Left Foot,Free Kick,0,0,0,Normal
+3900591,Billy Ketkeophomphone,Angers,19.666468925559563,0.06466088636729501,False,Left Foot,Open Play,0,1,3,Normal
+3900591,Mohamed Saïd Benrahma,Angers,28.900000000000002,0.07177472818180926,False,Right Foot,Open Play,0,1,2,Normal
+3900591,Edinson Roberto Cavani Gómez,Paris Saint-Germain,6.060528029800704,0.05764717534972314,False,Right Foot,Open Play,1,0,2,Normal
+3900591,Serge Aurier,Paris Saint-Germain,37.05266522127659,0.06795210649584656,False,Right Foot,Open Play,0,0,0,Normal
+3900591,Zlatan Ibrahimović,Paris Saint-Germain,22.787935404507362,0.0652625636603826,False,Right Foot,Free Kick,0,0,0,Normal
+3900591,Charles Diers,Angers,22.355759884199863,0.054230888062143226,False,Right Foot,Open Play,1,0,1,Normal

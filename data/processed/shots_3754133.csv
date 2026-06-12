@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.495142182903233,0.0631049440697657,False,Right Foot,Open Play,1,1,1,Half Volley
-18.380696395947567,0.06461869903023647,False,Left Foot,Open Play,1,0,1,Normal
-29.873399538720058,0.07177637932976044,False,Left Foot,Open Play,0,0,0,Normal
-26.299239532731736,0.06950999645820356,False,Right Foot,Open Play,0,0,0,Normal
-25.1745903640953,0.061198134104713565,False,Right Foot,Open Play,1,0,1,Normal
-17.69773996870787,0.051655176410542236,False,Right Foot,Open Play,0,1,1,Half Volley
-21.852459815773603,0.06626331990568017,False,Right Foot,Open Play,0,0,3,Normal
-10.295630140987,0.056629711407834134,False,Right Foot,Open Play,1,0,2,Half Volley
-34.179087173299415,0.07580784881270385,False,Left Foot,Open Play,0,0,1,Normal
-5.403702434442525,0.054883212503398615,False,Head,Open Play,0,1,5,Normal
-25.514897609044016,0.06787467725132833,False,Right Foot,Open Play,1,0,1,Half Volley
-9.96393496566492,0.05812079685754821,False,Left Foot,Open Play,1,0,2,Normal
-9.560334722173689,0.05584402052581746,False,Head,Open Play,0,0,1,Normal
-5.246903848937966,0.05663404134977074,True,Head,Open Play,0,1,3,Normal
-18.049930747789585,0.06418994381054645,False,Left Foot,Open Play,1,0,2,Normal
-29.8564900817226,0.06343937008615687,False,Right Foot,Open Play,0,0,1,Normal
-25.355867171130242,0.06925146861426017,False,Right Foot,Open Play,0,0,2,Normal
-26.080069018313587,0.05617965291769346,False,Right Foot,Open Play,1,0,2,Normal
-10.413932974625865,0.05553005874856292,False,Head,Open Play,0,1,3,Normal
-4.215447781671604,0.05586646175159054,False,Head,Open Play,0,1,6,Normal
-23.516164653276263,0.062140710993646736,False,Right Foot,Open Play,1,0,0,Volley
-30.94802093834111,0.0644330115104708,False,Right Foot,Open Play,0,0,1,Normal
-16.886681142249355,0.0591112443432188,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754133,Saido Berahino,West Bromwich Albion,17.495142182903233,0.0631049440697657,False,Right Foot,Open Play,1,1,1,Half Volley
+3754133,Wes Hoolahan,Norwich City,18.380696395947567,0.06461869903023647,False,Left Foot,Open Play,1,0,1,Normal
+3754133,Chris Brunt,West Bromwich Albion,29.873399538720058,0.07177637932976044,False,Left Foot,Open Play,0,0,0,Normal
+3754133,Jonathan Howson,Norwich City,26.299239532731736,0.06950999645820356,False,Right Foot,Open Play,0,0,0,Normal
+3754133,Alexander Banor Tettey,Norwich City,25.1745903640953,0.061198134104713565,False,Right Foot,Open Play,1,0,1,Normal
+3754133,Nathan Redmond,Norwich City,17.69773996870787,0.051655176410542236,False,Right Foot,Open Play,0,1,1,Half Volley
+3754133,Matt Jarvis,Norwich City,21.852459815773603,0.06626331990568017,False,Right Foot,Open Play,0,0,3,Normal
+3754133,Nathan Redmond,Norwich City,10.295630140987,0.056629711407834134,False,Right Foot,Open Play,1,0,2,Half Volley
+3754133,Chris Brunt,West Bromwich Albion,34.179087173299415,0.07580784881270385,False,Left Foot,Open Play,0,0,1,Normal
+3754133,Craig Dawson,West Bromwich Albion,5.403702434442525,0.054883212503398615,False,Head,Open Play,0,1,5,Normal
+3754133,Jonathan Howson,Norwich City,25.514897609044016,0.06787467725132833,False,Right Foot,Open Play,1,0,1,Half Volley
+3754133,Dieumerci Mbokani Bezua,Norwich City,9.96393496566492,0.05812079685754821,False,Left Foot,Open Play,1,0,2,Normal
+3754133,José Salomón Rondón Giménez,West Bromwich Albion,9.560334722173689,0.05584402052581746,False,Head,Open Play,0,0,1,Normal
+3754133,José Salomón Rondón Giménez,West Bromwich Albion,5.246903848937966,0.05663404134977074,True,Head,Open Play,0,1,3,Normal
+3754133,Wes Hoolahan,Norwich City,18.049930747789585,0.06418994381054645,False,Left Foot,Open Play,1,0,2,Normal
+3754133,Russell Martin,Norwich City,29.8564900817226,0.06343937008615687,False,Right Foot,Open Play,0,0,1,Normal
+3754133,Chris Brunt,West Bromwich Albion,25.355867171130242,0.06925146861426017,False,Right Foot,Open Play,0,0,2,Normal
+3754133,Russell Martin,Norwich City,26.080069018313587,0.05617965291769346,False,Right Foot,Open Play,1,0,2,Normal
+3754133,Ryan Bennett,Norwich City,10.413932974625865,0.05553005874856292,False,Head,Open Play,0,1,3,Normal
+3754133,Russell Martin,Norwich City,4.215447781671604,0.05586646175159054,False,Head,Open Play,0,1,6,Normal
+3754133,Nathan Redmond,Norwich City,23.516164653276263,0.062140710993646736,False,Right Foot,Open Play,1,0,0,Volley
+3754133,Alexander Banor Tettey,Norwich City,30.94802093834111,0.0644330115104708,False,Right Foot,Open Play,0,0,1,Normal
+3754133,Dieumerci Mbokani Bezua,Norwich City,16.886681142249355,0.0591112443432188,False,Head,Open Play,0,1,3,Normal

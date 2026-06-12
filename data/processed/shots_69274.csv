@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.57804893241407,0.060814760871350716,False,Left Foot,Open Play,1,0,0,Volley
-34.70403434760863,0.05931072911346545,False,Right Foot,Open Play,0,0,0,Normal
-11.900420160649796,0.05951387036924867,False,Left Foot,Open Play,0,0,2,Normal
-9.128526715741152,0.056791024131120055,False,Left Foot,Open Play,1,0,3,Normal
-8.481155581640987,0.05470274957723889,False,Left Foot,Open Play,0,0,2,Normal
-28.626211764744568,0.07003196572164787,False,Left Foot,Open Play,0,0,1,Normal
-19.283671849520772,0.06285537234542855,False,Left Foot,Open Play,0,0,1,Normal
-22.357325421436254,0.05230570115724798,False,Right Foot,Open Play,0,0,1,Normal
-19.42498391247725,0.06527807387007538,False,Left Foot,Open Play,0,0,2,Normal
-12.165525060596439,0.05707229664214171,False,Left Foot,Open Play,0,0,1,Lob
-19.932385707686876,0.06248641002738638,False,Left Foot,Open Play,1,0,0,Normal
-8.099999999999994,0.05799383769595793,False,Right Foot,Open Play,1,0,1,Half Volley
-23.559286916203554,0.0677377590484997,False,Right Foot,Open Play,0,0,2,Normal
-28.10551547294587,0.07108475200033505,False,Left Foot,Open Play,0,0,1,Half Volley
-16.205246064160832,0.06315241982863155,False,Left Foot,Open Play,1,0,1,Half Volley
-31.49857139617605,0.05462872069504272,False,Left Foot,Free Kick,0,0,1,Normal
-22.58871399615303,0.05395867524162543,False,Right Foot,Open Play,0,0,1,Normal
-17.77245059073172,0.05941794517222198,False,Left Foot,Open Play,0,0,3,Normal
-16.368261972488092,0.06337076087107366,False,Left Foot,Open Play,1,0,2,Half Volley
-11.894956914591996,0.058966922999918486,False,Head,Open Play,0,1,2,Normal
-19.235384061671343,0.06321278187941945,False,Right Foot,Open Play,0,0,1,Normal
-19.499999999999996,0.06535196805283121,False,Left Foot,Open Play,0,0,2,Normal
-32.522146300636436,0.06989898872476148,False,Right Foot,Open Play,0,0,0,Normal
-11.943617542436632,0.06030766518896327,True,Left Foot,Open Play,1,0,4,Normal
-19.299999999999997,0.057658838939911757,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69274,Juan Manuel Mata García,Valencia,19.57804893241407,0.060814760871350716,False,Left Foot,Open Play,1,0,0,Volley
+69274,Marius Stankevičius,Valencia,34.70403434760863,0.05931072911346545,False,Right Foot,Open Play,0,0,0,Normal
+69274,Lionel Andrés Messi Cuccittini,Barcelona,11.900420160649796,0.05951387036924867,False,Left Foot,Open Play,0,0,2,Normal
+69274,Lionel Andrés Messi Cuccittini,Barcelona,9.128526715741152,0.056791024131120055,False,Left Foot,Open Play,1,0,3,Normal
+69274,Lionel Andrés Messi Cuccittini,Barcelona,8.481155581640987,0.05470274957723889,False,Left Foot,Open Play,0,0,2,Normal
+69274,Jérémy Mathieu,Valencia,28.626211764744568,0.07003196572164787,False,Left Foot,Open Play,0,0,1,Normal
+69274,Adriano Correia Claro,Barcelona,19.283671849520772,0.06285537234542855,False,Left Foot,Open Play,0,0,1,Normal
+69274,Daniel Alves da Silva,Barcelona,22.357325421436254,0.05230570115724798,False,Right Foot,Open Play,0,0,1,Normal
+69274,Adriano Correia Claro,Barcelona,19.42498391247725,0.06527807387007538,False,Left Foot,Open Play,0,0,2,Normal
+69274,Lionel Andrés Messi Cuccittini,Barcelona,12.165525060596439,0.05707229664214171,False,Left Foot,Open Play,0,0,1,Lob
+69274,David Villa Sánchez,Barcelona,19.932385707686876,0.06248641002738638,False,Left Foot,Open Play,1,0,0,Normal
+69274,David Villa Sánchez,Barcelona,8.099999999999994,0.05799383769595793,False,Right Foot,Open Play,1,0,1,Half Volley
+69274,Adriano Correia Claro,Barcelona,23.559286916203554,0.0677377590484997,False,Right Foot,Open Play,0,0,2,Normal
+69274,Alberto Facundo Costa,Valencia,28.10551547294587,0.07108475200033505,False,Left Foot,Open Play,0,0,1,Half Volley
+69274,David Villa Sánchez,Barcelona,16.205246064160832,0.06315241982863155,False,Left Foot,Open Play,1,0,1,Half Volley
+69274,Lionel Andrés Messi Cuccittini,Barcelona,31.49857139617605,0.05462872069504272,False,Left Foot,Free Kick,0,0,1,Normal
+69274,Roberto Soldado Rillo,Valencia,22.58871399615303,0.05395867524162543,False,Right Foot,Open Play,0,0,1,Normal
+69274,Lionel Andrés Messi Cuccittini,Barcelona,17.77245059073172,0.05941794517222198,False,Left Foot,Open Play,0,0,3,Normal
+69274,Pablo Hernández Domínguez,Valencia,16.368261972488092,0.06337076087107366,False,Left Foot,Open Play,1,0,2,Half Volley
+69274,Sergio Busquets i Burgos,Barcelona,11.894956914591996,0.058966922999918486,False,Head,Open Play,0,1,2,Normal
+69274,Pablo Hernández Domínguez,Valencia,19.235384061671343,0.06321278187941945,False,Right Foot,Open Play,0,0,1,Normal
+69274,Lionel Andrés Messi Cuccittini,Barcelona,19.499999999999996,0.06535196805283121,False,Left Foot,Open Play,0,0,2,Normal
+69274,Xavier Hernández Creus,Barcelona,32.522146300636436,0.06989898872476148,False,Right Foot,Open Play,0,0,0,Normal
+69274,Lionel Andrés Messi Cuccittini,Barcelona,11.943617542436632,0.06030766518896327,True,Left Foot,Open Play,1,0,4,Normal
+69274,Andrés Iniesta Luján,Barcelona,19.299999999999997,0.057658838939911757,False,Right Foot,Open Play,0,0,2,Normal

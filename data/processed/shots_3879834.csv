@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.591274643497314,0.05559195943225204,True,Head,Open Play,0,1,5,Normal
-24.660291969074493,0.06303385047950567,False,Right Foot,Free Kick,0,0,0,Normal
-31.24099870362662,0.0694338870686773,False,Right Foot,Open Play,0,1,2,Normal
-9.135097153287418,0.059221295264435814,False,Head,Open Play,0,0,1,Normal
-4.884669896727927,0.05683392186558454,True,Right Foot,Open Play,1,0,2,Half Volley
-31.48412298286233,0.07379433281475255,False,Right Foot,Open Play,0,0,2,Normal
-27.166155414412245,0.05356152091663651,False,Right Foot,Open Play,0,0,1,Normal
-29.34706118165838,0.06979933293250411,False,Right Foot,Open Play,0,0,2,Normal
-20.707728026029315,0.06378711522826337,False,Right Foot,Open Play,0,0,2,Normal
-15.250573759698359,0.06269340218983374,False,Head,Open Play,0,0,1,Normal
-6.9202601107183845,0.05822533371255864,False,Right Foot,Open Play,0,0,5,Half Volley
-20.006249023742555,0.06330917051516433,False,Right Foot,Open Play,1,0,1,Normal
-11.225417586887358,0.05696132902046899,True,Right Foot,Open Play,1,1,2,Normal
-29.231831964486933,0.0705265031261401,False,Left Foot,Open Play,0,0,0,Half Volley
-26.92842364491468,0.06443942722064312,False,Left Foot,Open Play,0,0,1,Normal
-19.146017862730616,0.05655946274333732,False,Right Foot,Open Play,0,0,1,Normal
-16.201234520862908,0.05289328127370501,False,Right Foot,Open Play,1,0,1,Normal
-26.82088738278433,0.06953200070420991,False,Right Foot,Open Play,1,0,2,Normal
-28.155638866841578,0.059789496421243156,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879834,Duván Esteban Zapata Banguera,Udinese,8.591274643497314,0.05559195943225204,True,Head,Open Play,0,1,5,Normal
+3879834,Cyril Théréau,Udinese,24.660291969074493,0.06303385047950567,False,Right Foot,Free Kick,0,0,0,Normal
+3879834,Matías Vecino Falero,Fiorentina,31.24099870362662,0.0694338870686773,False,Right Foot,Open Play,0,1,2,Normal
+3879834,Mauro Matías Zárate,Fiorentina,9.135097153287418,0.059221295264435814,False,Head,Open Play,0,0,1,Normal
+3879834,Mauro Matías Zárate,Fiorentina,4.884669896727927,0.05683392186558454,True,Right Foot,Open Play,1,0,2,Half Volley
+3879834,Mauro Matías Zárate,Fiorentina,31.48412298286233,0.07379433281475255,False,Right Foot,Open Play,0,0,2,Normal
+3879834,Emmanuel Agyemang-Badu,Udinese,27.166155414412245,0.05356152091663651,False,Right Foot,Open Play,0,0,1,Normal
+3879834,Marcos Alonso Mendoza,Fiorentina,29.34706118165838,0.06979933293250411,False,Right Foot,Open Play,0,0,2,Normal
+3879834,Ali Adnan Kadhim Al Tameemi,Udinese,20.707728026029315,0.06378711522826337,False,Right Foot,Open Play,0,0,2,Normal
+3879834,Danilo Larangeira,Udinese,15.250573759698359,0.06269340218983374,False,Head,Open Play,0,0,1,Normal
+3879834,Cyril Théréau,Udinese,6.9202601107183845,0.05822533371255864,False,Right Foot,Open Play,0,0,5,Half Volley
+3879834,Bruno Miguel Borges Fernandes,Udinese,20.006249023742555,0.06330917051516433,False,Right Foot,Open Play,1,0,1,Normal
+3879834,Cyril Théréau,Udinese,11.225417586887358,0.05696132902046899,True,Right Foot,Open Play,1,1,2,Normal
+3879834,Milan Badelj,Fiorentina,29.231831964486933,0.0705265031261401,False,Left Foot,Open Play,0,0,0,Half Volley
+3879834,Mauro Matías Zárate,Fiorentina,26.92842364491468,0.06443942722064312,False,Left Foot,Open Play,0,0,1,Normal
+3879834,Duván Esteban Zapata Banguera,Udinese,19.146017862730616,0.05655946274333732,False,Right Foot,Open Play,0,0,1,Normal
+3879834,Borja Valero Iglesias,Fiorentina,16.201234520862908,0.05289328127370501,False,Right Foot,Open Play,1,0,1,Normal
+3879834,Bruno Miguel Borges Fernandes,Udinese,26.82088738278433,0.06953200070420991,False,Right Foot,Open Play,1,0,2,Normal
+3879834,Josip Iličić,Fiorentina,28.155638866841578,0.059789496421243156,False,Left Foot,Free Kick,0,0,0,Normal

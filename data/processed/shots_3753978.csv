@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.72707636278806,0.05895655435207012,False,Left Foot,Open Play,0,0,2,Normal
-25.869866640553056,0.06486305130650061,False,Right Foot,Open Play,0,1,2,Normal
-15.821820375671058,0.056357519351110864,False,Left Foot,Open Play,1,0,1,Half Volley
-11.704699910719622,0.06076131787307405,False,Left Foot,Open Play,1,1,4,Normal
-5.021951811795892,0.057128990213463716,True,Head,Open Play,0,1,4,Normal
-18.2428068015862,0.06391607432107062,False,Right Foot,Open Play,0,0,1,Volley
-28.338842601630713,0.06383845773831313,False,Right Foot,Open Play,0,0,1,Normal
-29.401530572403882,0.05608710692495253,False,Right Foot,Open Play,0,0,1,Normal
-24.42826232051719,0.06387990847612501,False,Right Foot,Free Kick,0,0,0,Normal
-14.204224723651764,0.062166823189665384,False,Head,Open Play,0,1,2,Normal
-31.144823004794873,0.0701131679844571,False,Right Foot,Open Play,0,0,1,Normal
-23.13114783144148,0.06616579094099244,False,Right Foot,Open Play,0,0,1,Normal
-6.676076692189812,0.056711302449466074,False,Head,Open Play,0,1,4,Normal
-35.545604510262585,0.06958920994230325,False,Right Foot,Open Play,1,0,0,Half Volley
-19.54942454396037,0.06526895466976693,False,Right Foot,Open Play,1,0,1,Normal
-15.882380174268594,0.06021966776157911,True,Right Foot,Open Play,0,0,1,Normal
-24.16650574659067,0.06109944630973741,False,Right Foot,Open Play,0,1,2,Normal
-28.57918823199848,0.07156668076959265,False,Right Foot,Free Kick,0,0,0,Normal
-9.217917335276992,0.05397045527232046,False,Head,Open Play,0,1,4,Normal
-29.482198018465315,0.054678372242978446,False,Left Foot,Open Play,0,0,3,Normal
-17.72935419015594,0.06352925400074692,False,Right Foot,Open Play,1,0,2,Normal
-15.241062955056647,0.06189026326226403,False,Right Foot,Open Play,1,0,2,Normal
-18.401086924418358,0.06245119987513079,False,Head,Open Play,0,0,1,Normal
-21.922134932528813,0.05478000815935053,False,Left Foot,Open Play,0,0,2,Normal
-11.901680553602509,0.059477991333385986,True,Right Foot,Penalty,0,0,0,Normal
-10.448444860360798,0.054701334807003885,False,Head,Open Play,0,1,1,Normal
-13.446932735758,0.06161568453798666,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753978,Sadio Mané,Southampton,22.72707636278806,0.05895655435207012,False,Left Foot,Open Play,0,0,2,Normal
+3753978,Jonjo Shelvey,Swansea City,25.869866640553056,0.06486305130650061,False,Right Foot,Open Play,0,1,2,Normal
+3753978,Sung-Yeung Ki,Swansea City,15.821820375671058,0.056357519351110864,False,Left Foot,Open Play,1,0,1,Half Volley
+3753978,Sadio Mané,Southampton,11.704699910719622,0.06076131787307405,False,Left Foot,Open Play,1,1,4,Normal
+3753978,Virgil van Dijk,Southampton,5.021951811795892,0.057128990213463716,True,Head,Open Play,0,1,4,Normal
+3753978,Victor Wanyama,Southampton,18.2428068015862,0.06391607432107062,False,Right Foot,Open Play,0,0,1,Volley
+3753978,Jonjo Shelvey,Swansea City,28.338842601630713,0.06383845773831313,False,Right Foot,Open Play,0,0,1,Normal
+3753978,Sung-Yeung Ki,Swansea City,29.401530572403882,0.05608710692495253,False,Right Foot,Open Play,0,0,1,Normal
+3753978,Gylfi Þór Sigurðsson,Swansea City,24.42826232051719,0.06387990847612501,False,Right Foot,Free Kick,0,0,0,Normal
+3753978,Graziano Pellè,Southampton,14.204224723651764,0.062166823189665384,False,Head,Open Play,0,1,2,Normal
+3753978,Sadio Mané,Southampton,31.144823004794873,0.0701131679844571,False,Right Foot,Open Play,0,0,1,Normal
+3753978,Sadio Mané,Southampton,23.13114783144148,0.06616579094099244,False,Right Foot,Open Play,0,0,1,Normal
+3753978,James Ward-Prowse,Southampton,6.676076692189812,0.056711302449466074,False,Head,Open Play,0,1,4,Normal
+3753978,Éderzito António Macedo Lopes,Swansea City,35.545604510262585,0.06958920994230325,False,Right Foot,Open Play,1,0,0,Half Volley
+3753978,Graziano Pellè,Southampton,19.54942454396037,0.06526895466976693,False,Right Foot,Open Play,1,0,1,Normal
+3753978,Sadio Mané,Southampton,15.882380174268594,0.06021966776157911,True,Right Foot,Open Play,0,0,1,Normal
+3753978,Gylfi Þór Sigurðsson,Swansea City,24.16650574659067,0.06109944630973741,False,Right Foot,Open Play,0,1,2,Normal
+3753978,Virgil van Dijk,Southampton,28.57918823199848,0.07156668076959265,False,Right Foot,Free Kick,0,0,0,Normal
+3753978,Graziano Pellè,Southampton,9.217917335276992,0.05397045527232046,False,Head,Open Play,0,1,4,Normal
+3753978,André Ayew Pelé,Swansea City,29.482198018465315,0.054678372242978446,False,Left Foot,Open Play,0,0,3,Normal
+3753978,Sadio Mané,Southampton,17.72935419015594,0.06352925400074692,False,Right Foot,Open Play,1,0,2,Normal
+3753978,Jonjo Shelvey,Swansea City,15.241062955056647,0.06189026326226403,False,Right Foot,Open Play,1,0,2,Normal
+3753978,Oriol Romeu Vidal,Southampton,18.401086924418358,0.06245119987513079,False,Head,Open Play,0,0,1,Normal
+3753978,Sadio Mané,Southampton,21.922134932528813,0.05478000815935053,False,Left Foot,Open Play,0,0,2,Normal
+3753978,Gylfi Þór Sigurðsson,Swansea City,11.901680553602509,0.059477991333385986,True,Right Foot,Penalty,0,0,0,Normal
+3753978,André Ayew Pelé,Swansea City,10.448444860360798,0.054701334807003885,False,Head,Open Play,0,1,1,Normal
+3753978,Graziano Pellè,Southampton,13.446932735758,0.06161568453798666,False,Left Foot,Open Play,1,0,2,Normal

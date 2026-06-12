@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.70962319235746,0.06275434643016242,False,Right Foot,Open Play,1,0,2,Half Volley
-10.434557968596469,0.05258350883397876,False,Head,Open Play,0,0,1,Normal
-19.791412279066904,0.057344221063145795,False,Right Foot,Open Play,0,1,2,Normal
-15.49322432549145,0.06284655352606656,False,Right Foot,Open Play,1,1,2,Volley
-11.667476162392619,0.055239524449913584,False,Head,Open Play,0,1,1,Normal
-12.615070352558483,0.060411830975419474,False,Right Foot,Open Play,1,0,1,Half Volley
-24.42007370996247,0.05618845222708951,False,Right Foot,Open Play,1,0,1,Normal
-14.268847185389577,0.06219932260031226,False,Right Foot,Open Play,1,0,2,Normal
-9.848857801796104,0.05913396856843482,False,Head,Open Play,0,1,2,Normal
-6.2625873247404735,0.057889722456787716,False,Right Foot,Open Play,1,1,2,Half Volley
-22.306277143441033,0.05522267200366156,False,Left Foot,Open Play,0,0,2,Normal
-27.405291459862276,0.07013878430297461,False,Left Foot,Open Play,1,0,1,Half Volley
-26.18167297939534,0.06923597547301763,False,Right Foot,Open Play,0,1,1,Normal
-15.373353570382745,0.06157498007451488,False,Head,Open Play,0,0,1,Diving Header
-10.124228365658293,0.05941849650446353,False,Head,Open Play,0,1,1,Normal
-22.27038392125291,0.05591124825956889,False,Right Foot,Open Play,0,0,1,Half Volley
-12.816005617976296,0.061155842606419084,True,Right Foot,Open Play,0,1,2,Normal
-11.035397591387458,0.059973991059827696,False,Head,Open Play,0,1,4,Normal
-22.914187744713978,0.06688623004979055,False,Left Foot,Open Play,0,1,1,Half Volley
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-31.715768948584554,0.06818683913339271,False,Right Foot,Open Play,1,0,0,Normal
-25.5884739677848,0.0671463384751519,False,Right Foot,Open Play,1,0,1,Normal
-15.033296378372912,0.061748134244317646,False,Left Foot,Open Play,1,1,2,Half Volley
-15.230561381643156,0.062365233266637676,False,Head,Open Play,0,1,3,Normal
-15.929846201391902,0.0574618090105001,False,Left Foot,Open Play,1,0,1,Volley
-13.741906709041508,0.06026477502158497,False,Left Foot,Open Play,1,0,0,Normal
-14.965627283879556,0.061358491962008974,False,Head,Open Play,0,1,2,Diving Header
-28.01446055165082,0.06642514165452652,False,Right Foot,Open Play,0,0,0,Normal
-16.28895331198417,0.06331855070928655,False,Left Foot,Open Play,1,1,5,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879652,Artur Ioniţă,Hellas Verona,18.70962319235746,0.06275434643016242,False,Right Foot,Open Play,1,0,2,Half Volley
+3879652,Eros Pisano,Hellas Verona,10.434557968596469,0.05258350883397876,False,Head,Open Play,0,0,1,Normal
+3879652,M''Baye Babacar Niang,AC Milan,19.791412279066904,0.057344221063145795,False,Right Foot,Open Play,0,1,2,Normal
+3879652,Giacomo Bonaventura,AC Milan,15.49322432549145,0.06284655352606656,False,Right Foot,Open Play,1,1,2,Volley
+3879652,Nigel de Jong,AC Milan,11.667476162392619,0.055239524449913584,False,Head,Open Play,0,1,1,Normal
+3879652,Luiz Adriano de Souza da Silva,AC Milan,12.615070352558483,0.060411830975419474,False,Right Foot,Open Play,1,0,1,Half Volley
+3879652,Federico Viviani,Hellas Verona,24.42007370996247,0.05618845222708951,False,Right Foot,Open Play,1,0,1,Normal
+3879652,Giacomo Bonaventura,AC Milan,14.268847185389577,0.06219932260031226,False,Right Foot,Open Play,1,0,2,Normal
+3879652,Eros Pisano,Hellas Verona,9.848857801796104,0.05913396856843482,False,Head,Open Play,0,1,2,Normal
+3879652,Luca Toni,Hellas Verona,6.2625873247404735,0.057889722456787716,False,Right Foot,Open Play,1,1,2,Half Volley
+3879652,Luca Toni,Hellas Verona,22.306277143441033,0.05522267200366156,False,Left Foot,Open Play,0,0,2,Normal
+3879652,Luca Siligardi,Hellas Verona,27.405291459862276,0.07013878430297461,False,Left Foot,Open Play,1,0,1,Half Volley
+3879652,Mattia De Sciglio,AC Milan,26.18167297939534,0.06923597547301763,False,Right Foot,Open Play,0,1,1,Normal
+3879652,Artur Ioniţă,Hellas Verona,15.373353570382745,0.06157498007451488,False,Head,Open Play,0,0,1,Diving Header
+3879652,Giacomo Bonaventura,AC Milan,10.124228365658293,0.05941849650446353,False,Head,Open Play,0,1,1,Normal
+3879652,M''Baye Babacar Niang,AC Milan,22.27038392125291,0.05591124825956889,False,Right Foot,Open Play,0,0,1,Half Volley
+3879652,Carlos Arturo Bacca Ahumada,AC Milan,12.816005617976296,0.061155842606419084,True,Right Foot,Open Play,0,1,2,Normal
+3879652,Alex Rodrigo Dias da Costa,AC Milan,11.035397591387458,0.059973991059827696,False,Head,Open Play,0,1,4,Normal
+3879652,Luca Toni,Hellas Verona,22.914187744713978,0.06688623004979055,False,Left Foot,Open Play,0,1,1,Half Volley
+3879652,Luca Toni,Hellas Verona,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879652,Giacomo Bonaventura,AC Milan,31.715768948584554,0.06818683913339271,False,Right Foot,Open Play,1,0,0,Normal
+3879652,Federico Viviani,Hellas Verona,25.5884739677848,0.0671463384751519,False,Right Foot,Open Play,1,0,1,Normal
+3879652,Giacomo Bonaventura,AC Milan,15.033296378372912,0.061748134244317646,False,Left Foot,Open Play,1,1,2,Half Volley
+3879652,Alex Rodrigo Dias da Costa,AC Milan,15.230561381643156,0.062365233266637676,False,Head,Open Play,0,1,3,Normal
+3879652,Andrea Bertolacci,AC Milan,15.929846201391902,0.0574618090105001,False,Left Foot,Open Play,1,0,1,Volley
+3879652,Giacomo Bonaventura,AC Milan,13.741906709041508,0.06026477502158497,False,Left Foot,Open Play,1,0,0,Normal
+3879652,Alex Rodrigo Dias da Costa,AC Milan,14.965627283879556,0.061358491962008974,False,Head,Open Play,0,1,2,Diving Header
+3879652,Federico Viviani,Hellas Verona,28.01446055165082,0.06642514165452652,False,Right Foot,Open Play,0,0,0,Normal
+3879652,Giacomo Bonaventura,AC Milan,16.28895331198417,0.06331855070928655,False,Left Foot,Open Play,1,1,5,Half Volley

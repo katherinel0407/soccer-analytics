@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.785119575093495,0.06263294520872083,False,Head,Open Play,0,1,2,Normal
-10.904127658827182,0.058461518041815916,False,Left Foot,Open Play,0,1,1,Normal
-16.688319268278637,0.06330987191874775,False,Right Foot,Open Play,0,0,2,Normal
-13.223085872821066,0.05778105541257671,False,Right Foot,Open Play,1,0,1,Half Volley
-28.908822182856227,0.06414746523864931,False,Left Foot,Free Kick,0,0,0,Normal
-11.180339887498949,0.05846492305304546,False,Head,Open Play,0,1,2,Normal
-6.2936475910238245,0.055209111533639346,False,Head,Open Play,0,0,5,Normal
-14.052757736472934,0.05773622596361529,False,Head,Open Play,0,0,2,Normal
-15.279397893896208,0.05531614432971272,False,Left Foot,Open Play,1,1,1,Half Volley
-22.835498680782077,0.06601137439579309,False,Right Foot,Free Kick,0,0,1,Normal
-9.527329111561116,0.05679866421581012,True,Left Foot,Open Play,1,0,0,Normal
-20.56501884268527,0.06522986635915634,False,Right Foot,Open Play,0,0,3,Half Volley
-15.31698403733581,0.06203834111810092,False,Right Foot,Open Play,1,0,2,Volley
-14.930840565755163,0.05814996681047285,False,Head,Open Play,0,0,3,Normal
-27.543601797876754,0.06137408497575939,False,Right Foot,Open Play,1,0,1,Half Volley
-9.00222194794152,0.05842327328245874,True,Head,Open Play,0,0,2,Normal
-16.829141392239826,0.05935810119823993,False,Left Foot,Open Play,0,1,2,Normal
-32.363096267199154,0.04965579404587349,False,Left Foot,Free Kick,0,0,0,Normal
-27.67959537276512,0.059951140853791655,False,Right Foot,Open Play,0,0,0,Normal
-13.840881474819437,0.055762447972285384,False,Left Foot,Open Play,1,0,0,Normal
-15.16047492659778,0.06170392939232363,False,Left Foot,Open Play,0,0,2,Normal
-27.805934618350804,0.07016667829787712,False,Right Foot,Open Play,1,0,1,Normal
-9.93680028983173,0.053283784861577484,True,Right Foot,Open Play,1,0,1,Volley
-16.966437457521835,0.0582974330543208,False,Right Foot,Open Play,1,0,4,Normal
-28.64349838968696,0.059765488921400066,False,Left Foot,Open Play,0,0,1,Normal
-15.658863304850707,0.05254271742261656,False,Left Foot,Open Play,0,0,0,Normal
-9.047098982546835,0.05896530353895931,True,Right Foot,Open Play,1,0,0,Half Volley
-21.250882334623192,0.05290222226417766,False,Left Foot,Open Play,0,0,2,Normal
-26.96405014088203,0.06948136099162289,False,Right Foot,Open Play,0,0,2,Normal
-19.514353691577906,0.0649670588798445,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901181,Jordan Ferri,Lyon,15.785119575093495,0.06263294520872083,False,Head,Open Play,0,1,2,Normal
+3901181,Alexandre Lacazette,Lyon,10.904127658827182,0.058461518041815916,False,Left Foot,Open Play,0,1,1,Normal
+3901181,Alexandre Lacazette,Lyon,16.688319268278637,0.06330987191874775,False,Right Foot,Open Play,0,0,2,Normal
+3901181,Pedro Henrique Konzen Medina da Silva,Rennes,13.223085872821066,0.05778105541257671,False,Right Foot,Open Play,1,0,1,Half Volley
+3901181,Rachid Ghezzal,Lyon,28.908822182856227,0.06414746523864931,False,Left Foot,Free Kick,0,0,0,Normal
+3901181,Bakary Koné,Lyon,11.180339887498949,0.05846492305304546,False,Head,Open Play,0,1,2,Normal
+3901181,Samuel Yves Umtiti,Lyon,6.2936475910238245,0.055209111533639346,False,Head,Open Play,0,0,5,Normal
+3901181,Jordan Ferri,Lyon,14.052757736472934,0.05773622596361529,False,Head,Open Play,0,0,2,Normal
+3901181,Ousmane Dembélé,Rennes,15.279397893896208,0.05531614432971272,False,Left Foot,Open Play,1,1,1,Half Volley
+3901181,Ousmane Dembélé,Rennes,22.835498680782077,0.06601137439579309,False,Right Foot,Free Kick,0,0,1,Normal
+3901181,Rachid Ghezzal,Lyon,9.527329111561116,0.05679866421581012,True,Left Foot,Open Play,1,0,0,Normal
+3901181,Kamil Grosicki,Rennes,20.56501884268527,0.06522986635915634,False,Right Foot,Open Play,0,0,3,Half Volley
+3901181,Sergi Darder Moll,Lyon,15.31698403733581,0.06203834111810092,False,Right Foot,Open Play,1,0,2,Volley
+3901181,Pedro Henrique Konzen Medina da Silva,Rennes,14.930840565755163,0.05814996681047285,False,Head,Open Play,0,0,3,Normal
+3901181,Pedro Henrique Konzen Medina da Silva,Rennes,27.543601797876754,0.06137408497575939,False,Right Foot,Open Play,1,0,1,Half Volley
+3901181,Alexandre Lacazette,Lyon,9.00222194794152,0.05842327328245874,True,Head,Open Play,0,0,2,Normal
+3901181,Pedro Henrique Konzen Medina da Silva,Rennes,16.829141392239826,0.05935810119823993,False,Left Foot,Open Play,0,1,2,Normal
+3901181,Rachid Ghezzal,Lyon,32.363096267199154,0.04965579404587349,False,Left Foot,Free Kick,0,0,0,Normal
+3901181,Kamil Grosicki,Rennes,27.67959537276512,0.059951140853791655,False,Right Foot,Open Play,0,0,0,Normal
+3901181,Rachid Ghezzal,Lyon,13.840881474819437,0.055762447972285384,False,Left Foot,Open Play,1,0,0,Normal
+3901181,Alexandre Lacazette,Lyon,15.16047492659778,0.06170392939232363,False,Left Foot,Open Play,0,0,2,Normal
+3901181,Pedro Henrique Konzen Medina da Silva,Rennes,27.805934618350804,0.07016667829787712,False,Right Foot,Open Play,1,0,1,Normal
+3901181,Fallou Diagne,Rennes,9.93680028983173,0.053283784861577484,True,Right Foot,Open Play,1,0,1,Volley
+3901181,Alexandre Lacazette,Lyon,16.966437457521835,0.0582974330543208,False,Right Foot,Open Play,1,0,4,Normal
+3901181,Pedro Henrique Konzen Medina da Silva,Rennes,28.64349838968696,0.059765488921400066,False,Left Foot,Open Play,0,0,1,Normal
+3901181,Ousmane Dembélé,Rennes,15.658863304850707,0.05254271742261656,False,Left Foot,Open Play,0,0,0,Normal
+3901181,Jeremie Boga,Rennes,9.047098982546835,0.05896530353895931,True,Right Foot,Open Play,1,0,0,Half Volley
+3901181,Rachid Ghezzal,Lyon,21.250882334623192,0.05290222226417766,False,Left Foot,Open Play,0,0,2,Normal
+3901181,Corentin Tolisso,Lyon,26.96405014088203,0.06948136099162289,False,Right Foot,Open Play,0,0,2,Normal
+3901181,Rachid Ghezzal,Lyon,19.514353691577906,0.0649670588798445,False,Left Foot,Open Play,0,0,2,Normal

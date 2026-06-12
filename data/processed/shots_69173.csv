@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.287339742040261,0.058767932111550486,False,Head,Open Play,0,1,4,Normal
-22.539742678211745,0.06638660140877503,False,Right Foot,Open Play,1,0,0,Volley
-13.55175265417725,0.053046087766120506,False,Left Foot,Open Play,0,0,2,Normal
-24.30185178129436,0.06850989280259369,False,Right Foot,Open Play,1,0,0,Normal
-5.724508712544686,0.05707037676325361,False,Head,Open Play,0,0,3,Normal
-8.393449827097314,0.05726149047559737,False,Head,Open Play,0,0,5,Normal
-3.041381265149108,0.056289142793240356,True,Head,Open Play,0,0,4,Normal
-18.380696395947567,0.06271453604014272,False,Left Foot,Open Play,0,0,1,Normal
-27.18234721285121,0.05714414165700161,False,Left Foot,Open Play,0,0,2,Normal
-22.280035906613797,0.05890776847735347,False,Right Foot,Open Play,0,0,3,Normal
-21.82475658512598,0.0667674140165191,False,Left Foot,Open Play,0,0,1,Normal
-24.403483357914297,0.05469234156756379,False,Right Foot,Open Play,0,0,1,Normal
-31.931958912663028,0.07050273342265015,False,Right Foot,Open Play,0,0,1,Normal
-15.33883959105121,0.06262756663907437,False,Left Foot,Open Play,0,0,2,Normal
-21.733154395991395,0.06332933335716504,False,Left Foot,Open Play,0,0,1,Normal
-23.86797016924564,0.06571507966863988,False,Left Foot,Open Play,0,0,2,Normal
-12.844454056128662,0.05303734428349115,False,Head,Open Play,0,1,1,Normal
-24.86845391253747,0.05753088863971963,False,Left Foot,Open Play,0,0,1,Normal
-30.508031729365957,0.06776272671154351,False,Right Foot,Free Kick,0,0,0,Normal
-36.334694164118126,0.06288825599836134,False,Right Foot,Open Play,0,0,1,Normal
-12.918978287774934,0.060225639366674105,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69173,Oriol Lozano Farrán,Racing Santander,8.287339742040261,0.058767932111550486,False,Head,Open Play,0,1,4,Normal
+69173,Thierry Henry,Barcelona,22.539742678211745,0.06638660140877503,False,Right Foot,Open Play,1,0,0,Volley
+69173,Giovani dos Santos Ramírez,Barcelona,13.55175265417725,0.053046087766120506,False,Left Foot,Open Play,0,0,2,Normal
+69173,Mohamed Gasana Tchité,Racing Santander,24.30185178129436,0.06850989280259369,False,Right Foot,Open Play,1,0,0,Normal
+69173,Thierry Henry,Barcelona,5.724508712544686,0.05707037676325361,False,Head,Open Play,0,0,3,Normal
+69173,Bojan Krkíc Pérez,Barcelona,8.393449827097314,0.05726149047559737,False,Head,Open Play,0,0,5,Normal
+69173,Thierry Henry,Barcelona,3.041381265149108,0.056289142793240356,True,Head,Open Play,0,0,4,Normal
+69173,Óscar Serrano Rodriguez,Racing Santander,18.380696395947567,0.06271453604014272,False,Left Foot,Open Play,0,0,1,Normal
+69173,Giovani dos Santos Ramírez,Barcelona,27.18234721285121,0.05714414165700161,False,Left Foot,Open Play,0,0,2,Normal
+69173,Mohamed Gasana Tchité,Racing Santander,22.280035906613797,0.05890776847735347,False,Right Foot,Open Play,0,0,3,Normal
+69173,Óscar Serrano Rodriguez,Racing Santander,21.82475658512598,0.0667674140165191,False,Left Foot,Open Play,0,0,1,Normal
+69173,Jorge López Montaña,Racing Santander,24.403483357914297,0.05469234156756379,False,Right Foot,Open Play,0,0,1,Normal
+69173,Anderson Luís de Souza,Barcelona,31.931958912663028,0.07050273342265015,False,Right Foot,Open Play,0,0,1,Normal
+69173,Eiður Smári Guðjohnsen,Barcelona,15.33883959105121,0.06262756663907437,False,Left Foot,Open Play,0,0,2,Normal
+69173,Óscar Serrano Rodriguez,Racing Santander,21.733154395991395,0.06332933335716504,False,Left Foot,Open Play,0,0,1,Normal
+69173,Andrés Iniesta Luján,Barcelona,23.86797016924564,0.06571507966863988,False,Left Foot,Open Play,0,0,2,Normal
+69173,Rafael Márquez Álvarez,Barcelona,12.844454056128662,0.05303734428349115,False,Head,Open Play,0,1,1,Normal
+69173,Giovani dos Santos Ramírez,Barcelona,24.86845391253747,0.05753088863971963,False,Left Foot,Open Play,0,0,1,Normal
+69173,Anderson Luís de Souza,Barcelona,30.508031729365957,0.06776272671154351,False,Right Foot,Free Kick,0,0,0,Normal
+69173,Oriol Lozano Farrán,Racing Santander,36.334694164118126,0.06288825599836134,False,Right Foot,Open Play,0,0,1,Normal
+69173,César González Navas,Racing Santander,12.918978287774934,0.060225639366674105,False,Head,Open Play,0,1,4,Normal

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.883885781003052,0.06580853841600777,False,Left Foot,Open Play,1,0,0,Normal
-22.337636401374258,0.06702343032697552,False,Left Foot,Open Play,1,0,1,Normal
-12.734991166074671,0.06088322830034035,True,Left Foot,Open Play,1,0,0,Normal
-30.286960890785995,0.05760678066437396,False,Left Foot,Open Play,0,1,1,Normal
-16.506059493410287,0.06245106700919299,True,Right Foot,Open Play,0,0,0,Normal
-27.27343029396926,0.06753961154522406,False,Right Foot,Open Play,1,0,0,Normal
-6.400000000000006,0.05731894089044362,False,Head,Open Play,0,1,5,Normal
-29.865029717045314,0.06243186105365816,False,Right Foot,Open Play,0,0,1,Normal
-22.06195820864503,0.0555486398930134,False,Right Foot,Open Play,0,1,2,Normal
-53.72978689702761,0.06259760607104972,False,Right Foot,Open Play,0,0,0,Normal
-6.212889826803629,0.05736575681092605,False,Head,Open Play,0,1,4,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-13.4892549831338,0.05866138779984488,False,Left Foot,Open Play,1,0,2,Half Volley
-9.761659694949419,0.059687862108287096,False,Head,Open Play,0,1,2,Normal
-21.511392330576836,0.05854032062833648,False,Left Foot,Open Play,0,0,2,Normal
-18.47620090819539,0.05297232775223384,False,Left Foot,Open Play,0,0,0,Normal
-28.160255680657446,0.06214880144436016,False,Right Foot,Open Play,1,0,0,Normal
-30.056613249000627,0.07220747040282313,False,Left Foot,Open Play,0,0,1,Normal
-15.026975743641833,0.061213269174202896,True,Left Foot,Open Play,0,0,1,Normal
-12.998846102635424,0.05937789623422224,False,Head,Open Play,0,1,4,Normal
-23.817010727629107,0.055747205324897166,False,Left Foot,Free Kick,0,0,0,Normal
-24.932909978580522,0.06692325302638842,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754146,Riyad Mahrez,Leicester City,23.883885781003052,0.06580853841600777,False,Left Foot,Open Play,1,0,0,Normal
+3754146,Marco van Ginkel,Stoke City,22.337636401374258,0.06702343032697552,False,Left Foot,Open Play,1,0,1,Normal
+3754146,Bojan Krkíc Pérez,Stoke City,12.734991166074671,0.06088322830034035,True,Left Foot,Open Play,1,0,0,Normal
+3754146,Glen Johnson,Stoke City,30.286960890785995,0.05760678066437396,False,Left Foot,Open Play,0,1,1,Normal
+3754146,Jonathan Walters,Stoke City,16.506059493410287,0.06245106700919299,True,Right Foot,Open Play,0,0,0,Normal
+3754146,Danny Drinkwater,Leicester City,27.27343029396926,0.06753961154522406,False,Right Foot,Open Play,1,0,0,Normal
+3754146,Robert Huth,Leicester City,6.400000000000006,0.05731894089044362,False,Head,Open Play,0,1,5,Normal
+3754146,N''Golo Kanté,Leicester City,29.865029717045314,0.06243186105365816,False,Right Foot,Open Play,0,0,1,Normal
+3754146,Ritchie De Laet,Leicester City,22.06195820864503,0.0555486398930134,False,Right Foot,Open Play,0,1,2,Normal
+3754146,Bojan Krkíc Pérez,Stoke City,53.72978689702761,0.06259760607104972,False,Right Foot,Open Play,0,0,0,Normal
+3754146,Shinji Okazaki,Leicester City,6.212889826803629,0.05736575681092605,False,Head,Open Play,0,1,4,Normal
+3754146,Riyad Mahrez,Leicester City,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3754146,Jamie Vardy,Leicester City,13.4892549831338,0.05866138779984488,False,Left Foot,Open Play,1,0,2,Half Volley
+3754146,Jonathan Walters,Stoke City,9.761659694949419,0.059687862108287096,False,Head,Open Play,0,1,2,Normal
+3754146,Marco van Ginkel,Stoke City,21.511392330576836,0.05854032062833648,False,Left Foot,Open Play,0,0,2,Normal
+3754146,Jamie Vardy,Leicester City,18.47620090819539,0.05297232775223384,False,Left Foot,Open Play,0,0,0,Normal
+3754146,Danny Drinkwater,Leicester City,28.160255680657446,0.06214880144436016,False,Right Foot,Open Play,1,0,0,Normal
+3754146,Xherdan Shaqiri,Stoke City,30.056613249000627,0.07220747040282313,False,Left Foot,Open Play,0,0,1,Normal
+3754146,Jamie Vardy,Leicester City,15.026975743641833,0.061213269174202896,True,Left Foot,Open Play,0,0,1,Normal
+3754146,Geoff Cameron,Stoke City,12.998846102635424,0.05937789623422224,False,Head,Open Play,0,1,4,Normal
+3754146,Xherdan Shaqiri,Stoke City,23.817010727629107,0.055747205324897166,False,Left Foot,Free Kick,0,0,0,Normal
+3754146,Jamie Vardy,Leicester City,24.932909978580522,0.06692325302638842,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.08464178838297,0.05648474209745943,False,Right Foot,Open Play,1,1,2,Half Volley
-5.818075283115539,0.05761531912038945,False,Head,Open Play,0,0,6,Normal
-24.6223475728859,0.06864876698048222,False,Right Foot,Free Kick,0,0,0,Normal
-16.238842323269235,0.0599370797740492,False,Right Foot,Open Play,1,0,1,Normal
-6.545991139621263,0.05803861657751925,False,Head,Open Play,0,1,4,Normal
-11.1,0.05769283841253949,False,Head,Open Play,0,0,4,Normal
-10.837435120913064,0.055528157806009636,False,Right Foot,Open Play,1,1,2,Half Volley
-26.842503609015306,0.0680243812059465,False,Left Foot,Open Play,1,0,0,Normal
-23.10021644920237,0.0645794289885231,False,Right Foot,Open Play,0,0,2,Normal
-9.1214034007931,0.05906209867460593,False,Right Foot,Open Play,1,0,1,Normal
-18.417383093154143,0.05672273671641346,False,Right Foot,Open Play,0,0,4,Normal
-20.56015564143424,0.053364996108143395,False,Right Foot,Open Play,0,0,2,Normal
-15.140013210033862,0.061333626824819916,False,Left Foot,Open Play,0,0,1,Normal
-8.400595217006954,0.05814729297865137,False,Right Foot,Open Play,0,0,2,Normal
-20.862646045025066,0.05491597779195382,False,Right Foot,Open Play,0,0,3,Normal
-19.61631973638277,0.05942972958190993,False,Right Foot,Open Play,0,0,2,Normal
-16.36001222493431,0.0539042699321072,False,Right Foot,Open Play,0,1,1,Normal
-22.44749429223672,0.05397348690758009,False,Right Foot,Open Play,0,1,1,Normal
-15.601281998605108,0.06120715083239518,False,Left Foot,Open Play,0,0,1,Volley
-8.973850901368936,0.058955584888138964,False,Head,Open Play,0,1,2,Normal
-17.32195139122611,0.06013584584229328,False,Right Foot,Open Play,1,0,0,Normal
-12.272326592785905,0.06060195313855474,False,Right Foot,Open Play,0,0,2,Normal
-23.71539584320701,0.06786441983442144,False,Right Foot,Open Play,0,0,1,Half Volley
-17.913681921927726,0.06243155555984534,False,Right Foot,Open Play,1,0,2,Normal
-16.26068879229905,0.06014087492948001,False,Right Foot,Open Play,1,0,1,Normal
-9.53414914924242,0.05917584790234087,False,Head,Open Play,0,1,4,Normal
-25.143587651725436,0.06897647796956517,False,Right Foot,Open Play,0,0,1,Normal
-25.07927431167019,0.06837854368221674,False,Right Foot,Open Play,0,0,1,Normal
-22.20360331117452,0.06060020532298222,False,Right Foot,Open Play,1,0,1,Normal
-7.158910531638177,0.05638995802751059,False,Head,Open Play,0,1,3,Normal
-13.010764773832475,0.06131142560389317,False,Right Foot,Open Play,0,0,1,Normal
-18.236227680087786,0.05898611002852838,False,Left Foot,Open Play,1,0,1,Normal
-16.994116628998402,0.05246643850438942,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775544,Martha Thomas,West Ham United LFC,10.08464178838297,0.05648474209745943,False,Right Foot,Open Play,1,1,2,Half Volley
+3775544,Grace Fisk,West Ham United LFC,5.818075283115539,0.05761531912038945,False,Head,Open Play,0,0,6,Normal
+3775544,Kenza Dali,West Ham United LFC,24.6223475728859,0.06864876698048222,False,Right Foot,Free Kick,0,0,0,Normal
+3775544,Emily Louise van Egmond,West Ham United LFC,16.238842323269235,0.0599370797740492,False,Right Foot,Open Play,1,0,1,Normal
+3775544,Dagný Brynjarsdóttir,West Ham United LFC,6.545991139621263,0.05803861657751925,False,Head,Open Play,0,1,4,Normal
+3775544,Martha Thomas,West Ham United LFC,11.1,0.05769283841253949,False,Head,Open Play,0,0,4,Normal
+3775544,Martha Thomas,West Ham United LFC,10.837435120913064,0.055528157806009636,False,Right Foot,Open Play,1,1,2,Half Volley
+3775544,Kate Longhurst,West Ham United LFC,26.842503609015306,0.0680243812059465,False,Left Foot,Open Play,1,0,0,Normal
+3775544,Emily Louise van Egmond,West Ham United LFC,23.10021644920237,0.0645794289885231,False,Right Foot,Open Play,0,0,2,Normal
+3775544,Dagný Brynjarsdóttir,West Ham United LFC,9.1214034007931,0.05906209867460593,False,Right Foot,Open Play,1,0,1,Normal
+3775544,Stine Larsen,Aston Villa,18.417383093154143,0.05672273671641346,False,Right Foot,Open Play,0,0,4,Normal
+3775544,Martha Thomas,West Ham United LFC,20.56015564143424,0.053364996108143395,False,Right Foot,Open Play,0,0,2,Normal
+3775544,Shania Hayles,Aston Villa,15.140013210033862,0.061333626824819916,False,Left Foot,Open Play,0,0,1,Normal
+3775544,Shania Hayles,Aston Villa,8.400595217006954,0.05814729297865137,False,Right Foot,Open Play,0,0,2,Normal
+3775544,Kenza Dali,West Ham United LFC,20.862646045025066,0.05491597779195382,False,Right Foot,Open Play,0,0,3,Normal
+3775544,Kenza Dali,West Ham United LFC,19.61631973638277,0.05942972958190993,False,Right Foot,Open Play,0,0,2,Normal
+3775544,Martha Thomas,West Ham United LFC,16.36001222493431,0.0539042699321072,False,Right Foot,Open Play,0,1,1,Normal
+3775544,Cecilie Redisch Kvamme,West Ham United LFC,22.44749429223672,0.05397348690758009,False,Right Foot,Open Play,0,1,1,Normal
+3775544,Shania Hayles,Aston Villa,15.601281998605108,0.06120715083239518,False,Left Foot,Open Play,0,0,1,Volley
+3775544,Martha Thomas,West Ham United LFC,8.973850901368936,0.058955584888138964,False,Head,Open Play,0,1,2,Normal
+3775544,Emily Louise van Egmond,West Ham United LFC,17.32195139122611,0.06013584584229328,False,Right Foot,Open Play,1,0,0,Normal
+3775544,Mayumi Pacheco,West Ham United LFC,12.272326592785905,0.06060195313855474,False,Right Foot,Open Play,0,0,2,Normal
+3775544,Olivia McLoughlin,Aston Villa,23.71539584320701,0.06786441983442144,False,Right Foot,Open Play,0,0,1,Half Volley
+3775544,Kenza Dali,West Ham United LFC,17.913681921927726,0.06243155555984534,False,Right Foot,Open Play,1,0,2,Normal
+3775544,Martha Thomas,West Ham United LFC,16.26068879229905,0.06014087492948001,False,Right Foot,Open Play,1,0,1,Normal
+3775544,Stine Larsen,Aston Villa,9.53414914924242,0.05917584790234087,False,Head,Open Play,0,1,4,Normal
+3775544,Emily Syme,Aston Villa,25.143587651725436,0.06897647796956517,False,Right Foot,Open Play,0,0,1,Normal
+3775544,Kenza Dali,West Ham United LFC,25.07927431167019,0.06837854368221674,False,Right Foot,Open Play,0,0,1,Normal
+3775544,Kenza Dali,West Ham United LFC,22.20360331117452,0.06060020532298222,False,Right Foot,Open Play,1,0,1,Normal
+3775544,Dagný Brynjarsdóttir,West Ham United LFC,7.158910531638177,0.05638995802751059,False,Head,Open Play,0,1,3,Normal
+3775544,Gilly Louise Scarlett Flaherty,West Ham United LFC,13.010764773832475,0.06131142560389317,False,Right Foot,Open Play,0,0,1,Normal
+3775544,Martha Thomas,West Ham United LFC,18.236227680087786,0.05898611002852838,False,Left Foot,Open Play,1,0,1,Normal
+3775544,Emily Louise van Egmond,West Ham United LFC,16.994116628998402,0.05246643850438942,False,Right Foot,Open Play,1,0,1,Normal

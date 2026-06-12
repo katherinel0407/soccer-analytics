@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.68149025086315,0.052856621115661195,False,Left Foot,Open Play,0,0,2,Normal
-25.48038461248181,0.0689562145857474,False,Right Foot,Open Play,1,0,1,Half Volley
-23.977489443225707,0.0574638366224905,False,Left Foot,Open Play,1,0,1,Normal
-10.96357605893259,0.055845001997809854,False,Head,Open Play,0,1,3,Normal
-13.862178760930766,0.061808388172358016,False,Right Foot,Open Play,1,0,0,Half Volley
-10.217631819555836,0.054805135647808936,False,Head,Open Play,0,1,4,Normal
-25.04096643502402,0.06164233739053749,False,Left Foot,Open Play,1,0,1,Volley
-7.244308110509936,0.057376339656849594,True,Left Foot,Open Play,1,0,1,Normal
-9.000555538409838,0.0583898496530074,False,Head,Open Play,0,1,2,Normal
-36.09667574722083,0.06204115530981066,False,Right Foot,Open Play,0,0,1,Normal
-10.511898020814316,0.06007146051700388,False,Head,Open Play,0,1,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-9.289241088485108,0.05757452606362336,True,Right Foot,Open Play,1,0,4,Half Volley
-16.080111939908875,0.05076934142474975,False,Right Foot,Open Play,0,0,0,Normal
-17.116366436834664,0.06336710766330526,False,Left Foot,Open Play,1,0,2,Normal
-9.808159868191385,0.0547388371289262,False,Head,Open Play,0,0,2,Normal
-6.296824596572469,0.05758342064972856,False,Head,Open Play,0,1,3,Normal
-19.881649830937068,0.06377127151177514,False,Right Foot,Open Play,1,0,1,Half Volley
-36.76139279189513,0.07778475043745332,False,Left Foot,Open Play,1,0,1,Half Volley
-23.193102422918763,0.05450161111868636,False,Right Foot,Open Play,0,0,1,Normal
-16.91449082887215,0.06312961350710013,True,Left Foot,Open Play,0,0,1,Half Volley
-15.402921800749366,0.06237566577133708,False,Head,Open Play,0,0,1,Normal
-32.92187722472702,0.0742983719723,False,Right Foot,Open Play,0,0,1,Normal
-20.450183373260984,0.06329901192390698,False,Left Foot,Open Play,1,0,0,Half Volley
-22.67156809750927,0.05384463717649032,False,Right Foot,Open Play,0,0,1,Lob
-18.79201958279099,0.061005725782852016,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825641,Alen Halilović,Sporting Gijón,22.68149025086315,0.052856621115661195,False,Left Foot,Open Play,0,0,2,Normal
+3825641,Mikel San José Domínguez,Athletic Club,25.48038461248181,0.0689562145857474,False,Right Foot,Open Play,1,0,1,Half Volley
+3825641,Alen Halilović,Sporting Gijón,23.977489443225707,0.0574638366224905,False,Left Foot,Open Play,1,0,1,Normal
+3825641,Aritz Aduriz Zubeldia,Athletic Club,10.96357605893259,0.055845001997809854,False,Head,Open Play,0,1,3,Normal
+3825641,Aymeric Laporte,Athletic Club,13.862178760930766,0.061808388172358016,False,Right Foot,Open Play,1,0,0,Half Volley
+3825641,Xabier Etxeita Gorritxategi,Athletic Club,10.217631819555836,0.054805135647808936,False,Head,Open Play,0,1,4,Normal
+3825641,Alen Halilović,Sporting Gijón,25.04096643502402,0.06164233739053749,False,Left Foot,Open Play,1,0,1,Volley
+3825641,Markel Susaeta Laskurain,Athletic Club,7.244308110509936,0.057376339656849594,True,Left Foot,Open Play,1,0,1,Normal
+3825641,Raúl García Escudero,Athletic Club,9.000555538409838,0.0583898496530074,False,Head,Open Play,0,1,2,Normal
+3825641,Raúl García Escudero,Athletic Club,36.09667574722083,0.06204115530981066,False,Right Foot,Open Play,0,0,1,Normal
+3825641,Aritz Aduriz Zubeldia,Athletic Club,10.511898020814316,0.06007146051700388,False,Head,Open Play,0,1,2,Normal
+3825641,Aritz Aduriz Zubeldia,Athletic Club,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3825641,Aritz Aduriz Zubeldia,Athletic Club,9.289241088485108,0.05757452606362336,True,Right Foot,Open Play,1,0,4,Half Volley
+3825641,Aritz Aduriz Zubeldia,Athletic Club,16.080111939908875,0.05076934142474975,False,Right Foot,Open Play,0,0,0,Normal
+3825641,Beñat Etxebarria Urkiaga,Athletic Club,17.116366436834664,0.06336710766330526,False,Left Foot,Open Play,1,0,2,Normal
+3825641,Xabier Etxeita Gorritxategi,Athletic Club,9.808159868191385,0.0547388371289262,False,Head,Open Play,0,0,2,Normal
+3825641,Raúl García Escudero,Athletic Club,6.296824596572469,0.05758342064972856,False,Head,Open Play,0,1,3,Normal
+3825641,Alen Halilović,Sporting Gijón,19.881649830937068,0.06377127151177514,False,Right Foot,Open Play,1,0,1,Half Volley
+3825641,Mikel Balenziaga Oruesagasti,Athletic Club,36.76139279189513,0.07778475043745332,False,Left Foot,Open Play,1,0,1,Half Volley
+3825641,Iñaki Williams Arthuer,Athletic Club,23.193102422918763,0.05450161111868636,False,Right Foot,Open Play,0,0,1,Normal
+3825641,Aritz Aduriz Zubeldia,Athletic Club,16.91449082887215,0.06312961350710013,True,Left Foot,Open Play,0,0,1,Half Volley
+3825641,Sergio Mendigutxia Iglesias,Sporting Gijón,15.402921800749366,0.06237566577133708,False,Head,Open Play,0,0,1,Normal
+3825641,Ibai Gómez Pérez,Athletic Club,32.92187722472702,0.0742983719723,False,Right Foot,Open Play,0,0,1,Normal
+3825641,Jonathan Rodríguez Menéndez,Sporting Gijón,20.450183373260984,0.06329901192390698,False,Left Foot,Open Play,1,0,0,Half Volley
+3825641,Raúl García Escudero,Athletic Club,22.67156809750927,0.05384463717649032,False,Right Foot,Open Play,0,0,1,Lob
+3825641,Aritz Aduriz Zubeldia,Athletic Club,18.79201958279099,0.061005725782852016,False,Right Foot,Open Play,0,0,3,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.416923934694939,0.06114407223237823,False,Head,Open Play,0,1,2,Normal
-5.166236541235794,0.05504312114322356,False,Right Foot,Open Play,1,0,3,Backheel
-7.169379331573971,0.05834177528758995,False,Head,Open Play,0,0,4,Normal
-23.323807579381203,0.065693285938013,False,Right Foot,Open Play,1,0,1,Normal
-37.55542570654738,0.07639778519986971,False,Right Foot,Open Play,0,0,1,Normal
-15.615697230671447,0.05367509963417857,False,Left Foot,Open Play,0,0,3,Normal
-21.062288574606516,0.06590308947249437,False,Right Foot,Open Play,1,0,1,Normal
-28.54067273208535,0.07153298035937772,False,Right Foot,Open Play,1,0,1,Half Volley
-23.259406699226016,0.0677020245781753,False,Left Foot,Open Play,0,0,3,Normal
-5.315072906367325,0.054980867611109284,False,Head,Open Play,0,0,5,Normal
-20.30615670184784,0.05234379852101778,False,Right Foot,Open Play,0,0,2,Normal
-19.37524193397337,0.06381896060116012,False,Right Foot,Open Play,1,0,2,Normal
-34.39098719141397,0.07167502513053697,False,Left Foot,Free Kick,0,0,0,Normal
-12.767536959022285,0.06072908446257211,False,Head,Open Play,0,1,2,Normal
-26.12316979235101,0.06908086764908578,False,Right Foot,Open Play,1,0,0,Normal
-23.454210709380096,0.061530587020073677,False,Right Foot,Open Play,1,0,0,Normal
-25.412595302329905,0.06922799985640318,False,Right Foot,Open Play,0,0,1,Normal
-10.262553288533997,0.05419746128908892,False,Head,Open Play,0,1,2,Normal
-11.815244390193541,0.06082263325788907,False,Head,Open Play,0,1,1,Normal
-29.966814979239953,0.0726643971007273,False,Right Foot,Open Play,0,1,2,Normal
-7.144928271158502,0.05529564370886096,False,Left Foot,Open Play,1,0,3,Normal
-6.236986451805073,0.05786427525611665,True,Left Foot,Open Play,0,0,2,Normal
-17.060187572239652,0.05955933850848328,False,Left Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754049,Robert Huth,Leicester City,12.416923934694939,0.06114407223237823,False,Head,Open Play,0,1,2,Normal
+3754049,Shinji Okazaki,Leicester City,5.166236541235794,0.05504312114322356,False,Right Foot,Open Play,1,0,3,Backheel
+3754049,Ryan Bennett,Norwich City,7.169379331573971,0.05834177528758995,False,Head,Open Play,0,0,4,Normal
+3754049,Marc Albrighton,Leicester City,23.323807579381203,0.065693285938013,False,Right Foot,Open Play,1,0,1,Normal
+3754049,Alexander Banor Tettey,Norwich City,37.55542570654738,0.07639778519986971,False,Right Foot,Open Play,0,0,1,Normal
+3754049,Riyad Mahrez,Leicester City,15.615697230671447,0.05367509963417857,False,Left Foot,Open Play,0,0,3,Normal
+3754049,Marc Albrighton,Leicester City,21.062288574606516,0.06590308947249437,False,Right Foot,Open Play,1,0,1,Normal
+3754049,Marc Albrighton,Leicester City,28.54067273208535,0.07153298035937772,False,Right Foot,Open Play,1,0,1,Half Volley
+3754049,Riyad Mahrez,Leicester City,23.259406699226016,0.0677020245781753,False,Left Foot,Open Play,0,0,3,Normal
+3754049,Cameron Jerome,Norwich City,5.315072906367325,0.054980867611109284,False,Head,Open Play,0,0,5,Normal
+3754049,Nathan Redmond,Norwich City,20.30615670184784,0.05234379852101778,False,Right Foot,Open Play,0,0,2,Normal
+3754049,Cameron Jerome,Norwich City,19.37524193397337,0.06381896060116012,False,Right Foot,Open Play,1,0,2,Normal
+3754049,Christian Fuchs,Leicester City,34.39098719141397,0.07167502513053697,False,Left Foot,Free Kick,0,0,0,Normal
+3754049,Cameron Jerome,Norwich City,12.767536959022285,0.06072908446257211,False,Head,Open Play,0,1,2,Normal
+3754049,Jamie Vardy,Leicester City,26.12316979235101,0.06908086764908578,False,Right Foot,Open Play,1,0,0,Normal
+3754049,Marc Albrighton,Leicester City,23.454210709380096,0.061530587020073677,False,Right Foot,Open Play,1,0,0,Normal
+3754049,Robert Brady,Norwich City,25.412595302329905,0.06922799985640318,False,Right Foot,Open Play,0,0,1,Normal
+3754049,Robert Huth,Leicester City,10.262553288533997,0.05419746128908892,False,Head,Open Play,0,1,2,Normal
+3754049,Jamie Vardy,Leicester City,11.815244390193541,0.06082263325788907,False,Head,Open Play,0,1,1,Normal
+3754049,Nathan Redmond,Norwich City,29.966814979239953,0.0726643971007273,False,Right Foot,Open Play,0,1,2,Normal
+3754049,Jamie Vardy,Leicester City,7.144928271158502,0.05529564370886096,False,Left Foot,Open Play,1,0,3,Normal
+3754049,José Leonardo Ulloa,Leicester City,6.236986451805073,0.05786427525611665,True,Left Foot,Open Play,0,0,2,Normal
+3754049,Patrick Bamford,Norwich City,17.060187572239652,0.05955933850848328,False,Left Foot,Open Play,1,0,1,Half Volley

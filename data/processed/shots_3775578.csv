@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.720068259186885,0.06068489267355491,False,Right Foot,Open Play,0,0,1,Normal
-19.535864454894238,0.0653712724440732,False,Right Foot,Open Play,1,0,3,Normal
-20.15564437074638,0.06440699844916097,False,Right Foot,Open Play,0,0,2,Normal
-4.788527957525153,0.05449767366402365,False,Right Foot,Open Play,1,0,4,Volley
-4.341658669218482,0.05488187422218637,False,Head,Open Play,0,1,5,Normal
-16.371316379570708,0.06275542003721105,False,Head,Open Play,0,1,2,Normal
-10.225947388873067,0.059348026585074334,False,Head,Open Play,0,1,2,Normal
-20.30024630392449,0.05635799447825661,False,Right Foot,Open Play,0,0,2,Normal
-7.924645102463582,0.05507008860808737,True,Right Foot,Open Play,1,0,1,Volley
-10.526157893552616,0.05577571340474144,False,Right Foot,Open Play,1,0,2,Normal
-27.720028860013834,0.07006631294992419,False,Right Foot,Open Play,0,0,2,Normal
-31.886831137634235,0.05605453529744546,False,Left Foot,Open Play,0,0,2,Normal
-26.320524310887127,0.06210670623839163,False,Right Foot,Open Play,0,0,2,Normal
-25.18729838628986,0.06744274645444404,False,Right Foot,Open Play,1,0,0,Normal
-20.252654147049462,0.06065945437416146,False,Right Foot,Open Play,1,0,0,Normal
-22.07826985975124,0.05786067328402862,False,Left Foot,Open Play,1,0,2,Normal
-10.61037228376083,0.06000746440203116,True,Head,Open Play,0,0,1,Normal
-7.863841300534997,0.05754570997161667,False,Head,Open Play,0,1,2,Normal
-20.897128989409048,0.06610756956060229,False,Right Foot,Open Play,1,0,0,Volley
-15.564061166674975,0.05778462564214465,False,Left Foot,Open Play,0,1,2,Normal
-25.072694310743707,0.05692110809666046,False,Left Foot,Open Play,0,0,1,Normal
-11.086027241532472,0.06004088092945037,False,Left Foot,Open Play,0,0,2,Half Volley
-6.676076692189812,0.057910626574215154,False,Left Foot,Open Play,1,0,4,Volley
-28.206382256503584,0.07102735102581893,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775578,Amalie Vevle Eikeland,Reading WFC,11.720068259186885,0.06068489267355491,False,Right Foot,Open Play,0,0,1,Normal
+3775578,Angharad James,Reading WFC,19.535864454894238,0.0653712724440732,False,Right Foot,Open Play,1,0,3,Normal
+3775578,Amalie Vevle Eikeland,Reading WFC,20.15564437074638,0.06440699844916097,False,Right Foot,Open Play,0,0,2,Normal
+3775578,Amalie Vevle Eikeland,Reading WFC,4.788527957525153,0.05449767366402365,False,Right Foot,Open Play,1,0,4,Volley
+3775578,Natasha Harding,Reading WFC,4.341658669218482,0.05488187422218637,False,Head,Open Play,0,1,5,Normal
+3775578,Isobel Mary Christiansen,Everton LFC,16.371316379570708,0.06275542003721105,False,Head,Open Play,0,1,2,Normal
+3775578,Valérie Gauvin,Everton LFC,10.225947388873067,0.059348026585074334,False,Head,Open Play,0,1,2,Normal
+3775578,Isobel Mary Christiansen,Everton LFC,20.30024630392449,0.05635799447825661,False,Right Foot,Open Play,0,0,2,Normal
+3775578,Rachel Rowe,Reading WFC,7.924645102463582,0.05507008860808737,True,Right Foot,Open Play,1,0,1,Volley
+3775578,Natasha Harding,Reading WFC,10.526157893552616,0.05577571340474144,False,Right Foot,Open Play,1,0,2,Normal
+3775578,Claire Emslie,Everton LFC,27.720028860013834,0.07006631294992419,False,Right Foot,Open Play,0,0,2,Normal
+3775578,Emma Mukandi,Reading WFC,31.886831137634235,0.05605453529744546,False,Left Foot,Open Play,0,0,2,Normal
+3775578,Isobel Mary Christiansen,Everton LFC,26.320524310887127,0.06210670623839163,False,Right Foot,Open Play,0,0,2,Normal
+3775578,Abbey-Leigh Stringer,Everton LFC,25.18729838628986,0.06744274645444404,False,Right Foot,Open Play,1,0,0,Normal
+3775578,Isobel Mary Christiansen,Everton LFC,20.252654147049462,0.06065945437416146,False,Right Foot,Open Play,1,0,0,Normal
+3775578,Hayley Emma Raso,Everton LFC,22.07826985975124,0.05786067328402862,False,Left Foot,Open Play,1,0,2,Normal
+3775578,Nicoline Sørensen,Everton LFC,10.61037228376083,0.06000746440203116,True,Head,Open Play,0,0,1,Normal
+3775578,Lucy Hope,Everton LFC,7.863841300534997,0.05754570997161667,False,Head,Open Play,0,1,2,Normal
+3775578,Simone Magill,Everton LFC,20.897128989409048,0.06610756956060229,False,Right Foot,Open Play,1,0,0,Volley
+3775578,Hayley Emma Raso,Everton LFC,15.564061166674975,0.05778462564214465,False,Left Foot,Open Play,0,1,2,Normal
+3775578,Rachel Rowe,Reading WFC,25.072694310743707,0.05692110809666046,False,Left Foot,Open Play,0,0,1,Normal
+3775578,Lucy Hope,Everton LFC,11.086027241532472,0.06004088092945037,False,Left Foot,Open Play,0,0,2,Half Volley
+3775578,Deanna Cooper,Reading WFC,6.676076692189812,0.057910626574215154,False,Left Foot,Open Play,1,0,4,Volley
+3775578,Rachel Rowe,Reading WFC,28.206382256503584,0.07102735102581893,False,Right Foot,Open Play,0,0,2,Normal

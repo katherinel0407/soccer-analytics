@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.26396505107935,0.053386445370588204,False,Right Foot,Open Play,0,0,1,Normal
-23.35487101227493,0.05715699150540973,False,Left Foot,Open Play,0,0,2,Normal
-27.448861542876415,0.06958832954778542,False,Right Foot,Open Play,0,0,1,Normal
-17.23861943428186,0.06030324597846101,False,Head,Open Play,0,1,4,Normal
-17.623847480048166,0.05248851378887601,False,Right Foot,Open Play,0,0,1,Normal
-11.046266337545914,0.05951201881749674,True,Left Foot,Open Play,1,0,1,Volley
-13.994284547628721,0.056901664775887366,True,Left Foot,Open Play,1,0,3,Normal
-10.508092119885507,0.05978037390966964,False,Right Foot,Open Play,1,0,2,Volley
-29.492032822442063,0.07167783718505595,False,Left Foot,Open Play,0,0,2,Normal
-11.440279716860074,0.05605612290214827,True,Right Foot,Open Play,0,0,0,Normal
-20.3179723397784,0.06477904328130792,True,Right Foot,Open Play,0,0,2,Normal
-16.02529250903084,0.05066040152720187,False,Right Foot,Open Play,1,0,1,Half Volley
-11.704699910719626,0.057738048242450914,True,Right Foot,Open Play,1,0,1,Half Volley
-4.318564576337834,0.05662300219066322,True,Right Foot,Open Play,1,0,2,Half Volley
-43.088977708922265,0.05284241679501146,False,Right Foot,Free Kick,0,0,0,Normal
-31.32921958810975,0.07328304609250358,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825740,Sergio Gontán Gallardo,Eibar,24.26396505107935,0.053386445370588204,False,Right Foot,Open Play,0,0,1,Normal
+3825740,Ander Capa Rodríguez,Eibar,23.35487101227493,0.05715699150540973,False,Left Foot,Open Play,0,0,2,Normal
+3825740,Takashi Inui,Eibar,27.448861542876415,0.06958832954778542,False,Right Foot,Open Play,0,0,1,Normal
+3825740,Rene Krhin,Granada,17.23861943428186,0.06030324597846101,False,Head,Open Play,0,1,4,Normal
+3825740,Borja González Tomás,Eibar,17.623847480048166,0.05248851378887601,False,Right Foot,Open Play,0,0,1,Normal
+3825740,Takashi Inui,Eibar,11.046266337545914,0.05951201881749674,True,Left Foot,Open Play,1,0,1,Volley
+3825740,Sergio Enrich Ametller,Eibar,13.994284547628721,0.056901664775887366,True,Left Foot,Open Play,1,0,3,Normal
+3825740,Sergio Enrich Ametller,Eibar,10.508092119885507,0.05978037390966964,False,Right Foot,Open Play,1,0,2,Volley
+3825740,Cristiano Biraghi,Granada,29.492032822442063,0.07167783718505595,False,Left Foot,Open Play,0,0,2,Normal
+3825740,Youssef El-Arabi,Granada,11.440279716860074,0.05605612290214827,True,Right Foot,Open Play,0,0,0,Normal
+3825740,Sergio Enrich Ametller,Eibar,20.3179723397784,0.06477904328130792,True,Right Foot,Open Play,0,0,2,Normal
+3825740,Sergio Gontán Gallardo,Eibar,16.02529250903084,0.05066040152720187,False,Right Foot,Open Play,1,0,1,Half Volley
+3825740,Borja González Tomás,Eibar,11.704699910719626,0.057738048242450914,True,Right Foot,Open Play,1,0,1,Half Volley
+3825740,Borja González Tomás,Eibar,4.318564576337834,0.05662300219066322,True,Right Foot,Open Play,1,0,2,Half Volley
+3825740,Saúl Berjón Pérez,Eibar,43.088977708922265,0.05284241679501146,False,Right Foot,Free Kick,0,0,0,Normal
+3825740,Isaac Ajayi Success,Granada,31.32921958810975,0.07328304609250358,False,Right Foot,Open Play,0,0,2,Normal

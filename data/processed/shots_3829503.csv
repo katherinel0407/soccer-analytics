@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.543718509140877,0.060126874895096084,False,Left Foot,Open Play,1,0,3,Half Volley
-27.61756687327832,0.07047289120957656,False,Right Foot,Open Play,0,0,2,Normal
-22.414281161795046,0.06383296971139125,False,Right Foot,Open Play,0,0,3,Normal
-33.44084329080234,0.06500382287707822,False,Right Foot,Open Play,0,0,0,Half Volley
-10.606601717798213,0.05948348375874415,False,Head,Open Play,0,1,2,Normal
-30.884624006129652,0.06052604061225651,False,Left Foot,Open Play,0,0,2,Normal
-5.941380311005185,0.05690327227161164,False,Head,Open Play,0,0,2,Normal
-17.31040149736568,0.06280013008766115,False,Right Foot,Open Play,1,0,2,Normal
-30.364452901377952,0.06235646076826336,False,Right Foot,Open Play,1,0,1,Normal
-25.972485441328093,0.054715702399317244,False,Left Foot,Open Play,1,0,2,Half Volley
-29.62043213729333,0.0670934696581482,True,Right Foot,Open Play,1,0,2,Normal
-22.77410810547802,0.06649511134059523,False,Right Foot,Open Play,1,0,1,Volley
-33.39970059746045,0.06448906325032618,False,Right Foot,Open Play,0,0,0,Normal
-21.692625475031836,0.05588970930703476,True,Left Foot,Open Play,0,0,0,Normal
-17.813758727455582,0.06180965570050691,False,Right Foot,Open Play,0,1,3,Half Volley
-5.46717477313466,0.05491847194122296,True,Right Foot,Open Play,0,0,1,Normal
-21.600231480241135,0.054058763810687124,False,Right Foot,Open Play,0,0,1,Normal
-25.492155656201387,0.05898311286464682,False,Right Foot,Open Play,0,0,3,Normal
-28.67542501864619,0.060876268483935965,False,Right Foot,Open Play,0,0,0,Normal
-19.74968354176846,0.05706739337644816,False,Right Foot,Open Play,1,1,2,Half Volley
-19.23798326228609,0.06169348128159455,False,Left Foot,Open Play,1,0,4,Normal
-15.697452022541743,0.06295660580701266,False,Right Foot,Open Play,1,0,2,Normal
-17.821896644296874,0.06349714633984195,False,Right Foot,Open Play,0,1,1,Lob
-12.822636234409838,0.054422120274334365,False,Head,Open Play,0,0,2,Diving Header
-31.93195891266303,0.05404572355422695,False,Right Foot,Open Play,0,0,0,Normal
-15.623699945915506,0.06257399843912348,False,Right Foot,Open Play,0,1,3,Normal
-38.12833591962807,0.06494996605364835,False,Right Foot,Open Play,0,0,1,Lob
-16.2825059496381,0.05760613530227402,False,Right Foot,Open Play,0,0,2,Normal
-11.315917991926238,0.05951067276143273,False,Right Foot,Open Play,1,1,3,Half Volley
-19.285486771144768,0.06431299039320544,False,Left Foot,Open Play,0,0,1,Half Volley
-17.586642658563342,0.05696363445036221,False,Left Foot,Open Play,0,1,2,Normal
-20.781963333621775,0.06596265509425725,False,Left Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829503,Benjamin Nivet,Troyes,10.543718509140877,0.060126874895096084,False,Left Foot,Open Play,1,0,3,Half Volley
+3829503,Emiliano Sala,Nantes,27.61756687327832,0.07047289120957656,False,Right Foot,Open Play,0,0,2,Normal
+3829503,Adrien Thomasson,Nantes,22.414281161795046,0.06383296971139125,False,Right Foot,Open Play,0,0,3,Normal
+3829503,Valentin Rongier,Nantes,33.44084329080234,0.06500382287707822,False,Right Foot,Open Play,0,0,0,Half Volley
+3829503,Chris Mavinga,Troyes,10.606601717798213,0.05948348375874415,False,Head,Open Play,0,1,2,Normal
+3829503,Corentin Jean,Troyes,30.884624006129652,0.06052604061225651,False,Left Foot,Open Play,0,0,2,Normal
+3829503,Emiliano Sala,Nantes,5.941380311005185,0.05690327227161164,False,Head,Open Play,0,0,2,Normal
+3829503,Fabien Camus,Troyes,17.31040149736568,0.06280013008766115,False,Right Foot,Open Play,1,0,2,Normal
+3829503,Jessy Pi,Troyes,30.364452901377952,0.06235646076826336,False,Right Foot,Open Play,1,0,1,Normal
+3829503,Fabien Camus,Troyes,25.972485441328093,0.054715702399317244,False,Left Foot,Open Play,1,0,2,Half Volley
+3829503,Valentin Rongier,Nantes,29.62043213729333,0.0670934696581482,True,Right Foot,Open Play,1,0,2,Normal
+3829503,Birama Touré,Nantes,22.77410810547802,0.06649511134059523,False,Right Foot,Open Play,1,0,1,Volley
+3829503,Yacine Bammou,Nantes,33.39970059746045,0.06448906325032618,False,Right Foot,Open Play,0,0,0,Normal
+3829503,Youssouf Sabaly,Nantes,21.692625475031836,0.05588970930703476,True,Left Foot,Open Play,0,0,0,Normal
+3829503,Emiliano Sala,Nantes,17.813758727455582,0.06180965570050691,False,Right Foot,Open Play,0,1,3,Half Volley
+3829503,Yacine Bammou,Nantes,5.46717477313466,0.05491847194122296,True,Right Foot,Open Play,0,0,1,Normal
+3829503,Corentin Jean,Troyes,21.600231480241135,0.054058763810687124,False,Right Foot,Open Play,0,0,1,Normal
+3829503,Emiliano Sala,Nantes,25.492155656201387,0.05898311286464682,False,Right Foot,Open Play,0,0,3,Normal
+3829503,Valentin Rongier,Nantes,28.67542501864619,0.060876268483935965,False,Right Foot,Open Play,0,0,0,Normal
+3829503,Benjamin Nivet,Troyes,19.74968354176846,0.05706739337644816,False,Right Foot,Open Play,1,1,2,Half Volley
+3829503,Kolbeinn Sigþórsson,Nantes,19.23798326228609,0.06169348128159455,False,Left Foot,Open Play,1,0,4,Normal
+3829503,Chaouki Ben Saada,Troyes,15.697452022541743,0.06295660580701266,False,Right Foot,Open Play,1,0,2,Normal
+3829503,Corentin Jean,Troyes,17.821896644296874,0.06349714633984195,False,Right Foot,Open Play,0,1,1,Lob
+3829503,Henri Bienvenu Ntsama,Troyes,12.822636234409838,0.054422120274334365,False,Head,Open Play,0,0,2,Diving Header
+3829503,Lossémy Karaboué,Troyes,31.93195891266303,0.05404572355422695,False,Right Foot,Open Play,0,0,0,Normal
+3829503,Kolbeinn Sigþórsson,Nantes,15.623699945915506,0.06257399843912348,False,Right Foot,Open Play,0,1,3,Normal
+3829503,Henri Bienvenu Ntsama,Troyes,38.12833591962807,0.06494996605364835,False,Right Foot,Open Play,0,0,1,Lob
+3829503,Adrien Thomasson,Nantes,16.2825059496381,0.05760613530227402,False,Right Foot,Open Play,0,0,2,Normal
+3829503,Lévy Koffi Djidji,Nantes,11.315917991926238,0.05951067276143273,False,Right Foot,Open Play,1,1,3,Half Volley
+3829503,Kolbeinn Sigþórsson,Nantes,19.285486771144768,0.06431299039320544,False,Left Foot,Open Play,0,0,1,Half Volley
+3829503,Johan Audel,Nantes,17.586642658563342,0.05696363445036221,False,Left Foot,Open Play,0,1,2,Normal
+3829503,Chaouki Ben Saada,Troyes,20.781963333621775,0.06596265509425725,False,Left Foot,Open Play,1,0,0,Normal

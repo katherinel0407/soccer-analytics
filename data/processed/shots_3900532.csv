@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.259382875847049,0.061011108243321566,False,Left Foot,Open Play,1,1,2,Volley
-10.685036265731622,0.05402681696080304,False,Head,Open Play,0,1,1,Normal
-18.51512894905137,0.05417876630638559,False,Right Foot,Open Play,0,1,2,Normal
-15.66684397062791,0.057353859034373886,False,Left Foot,Open Play,0,1,3,Normal
-18.68073874342233,0.06471664003942175,False,Right Foot,Open Play,1,1,1,Half Volley
-27.253073221198377,0.06738648195662753,False,Right Foot,Open Play,1,0,0,Half Volley
-34.954255821001254,0.05775699781351961,False,Right Foot,Open Play,1,0,1,Normal
-16.002812252851058,0.061421858255082375,False,Right Foot,Open Play,0,1,2,Half Volley
-11.094142598686929,0.05365884324360062,False,Head,Open Play,0,1,2,Normal
-31.442805218364338,0.07257582759954641,False,Left Foot,Open Play,0,0,1,Normal
-7.70064932327138,0.05862299618911229,False,Head,Open Play,0,0,3,Normal
-14.969635934116766,0.05838463268237655,False,Right Foot,Open Play,1,0,1,Volley
-28.70418088014357,0.06443763304120137,False,Left Foot,Open Play,0,0,1,Normal
-18.885444130334875,0.058957977468422906,False,Left Foot,Open Play,1,0,2,Volley
-18.504323819042938,0.06409955663935836,False,Left Foot,Open Play,0,1,3,Normal
-20.0810856280232,0.06571099427272695,False,Right Foot,Open Play,1,0,1,Normal
-25.24143419063188,0.06269783345481302,False,Right Foot,Free Kick,0,0,0,Normal
-22.01454064930722,0.0643796980399176,False,Right Foot,Open Play,1,0,0,Normal
-11.006361796706484,0.058943735741739355,False,Right Foot,Open Play,1,0,2,Backheel
-26.478104161740884,0.0700205113694431,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900532,Ángel Fabián Di María Hernández,Paris Saint-Germain,14.259382875847049,0.061011108243321566,False,Left Foot,Open Play,1,1,2,Volley
+3900532,Edinson Roberto Cavani Gómez,Paris Saint-Germain,10.685036265731622,0.05402681696080304,False,Head,Open Play,0,1,1,Normal
+3900532,Serge Aurier,Paris Saint-Germain,18.51512894905137,0.05417876630638559,False,Right Foot,Open Play,0,1,2,Normal
+3900532,Ángel Fabián Di María Hernández,Paris Saint-Germain,15.66684397062791,0.057353859034373886,False,Left Foot,Open Play,0,1,3,Normal
+3900532,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,18.68073874342233,0.06471664003942175,False,Right Foot,Open Play,1,1,1,Half Volley
+3900532,Romain Saïss,Angers,27.253073221198377,0.06738648195662753,False,Right Foot,Open Play,1,0,0,Half Volley
+3900532,Cheikh N''Doye,Angers,34.954255821001254,0.05775699781351961,False,Right Foot,Open Play,1,0,1,Normal
+3900532,Gilles Sunu,Angers,16.002812252851058,0.061421858255082375,False,Right Foot,Open Play,0,1,2,Half Volley
+3900532,Romain Saïss,Angers,11.094142598686929,0.05365884324360062,False,Head,Open Play,0,1,2,Normal
+3900532,Romain Saïss,Angers,31.442805218364338,0.07257582759954641,False,Left Foot,Open Play,0,0,1,Normal
+3900532,Cheikh N''Doye,Angers,7.70064932327138,0.05862299618911229,False,Head,Open Play,0,0,3,Normal
+3900532,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,14.969635934116766,0.05838463268237655,False,Right Foot,Open Play,1,0,1,Volley
+3900532,Abdoul Razzagui Camara,Angers,28.70418088014357,0.06443763304120137,False,Left Foot,Open Play,0,0,1,Normal
+3900532,Ezequiel Iván Lavezzi,Paris Saint-Germain,18.885444130334875,0.058957977468422906,False,Left Foot,Open Play,1,0,2,Volley
+3900532,Maxwell Scherrer Cabelino Andrade,Paris Saint-Germain,18.504323819042938,0.06409955663935836,False,Left Foot,Open Play,0,1,3,Normal
+3900532,Edinson Roberto Cavani Gómez,Paris Saint-Germain,20.0810856280232,0.06571099427272695,False,Right Foot,Open Play,1,0,1,Normal
+3900532,Zlatan Ibrahimović,Paris Saint-Germain,25.24143419063188,0.06269783345481302,False,Right Foot,Free Kick,0,0,0,Normal
+3900532,Adrien Rabiot,Paris Saint-Germain,22.01454064930722,0.0643796980399176,False,Right Foot,Open Play,1,0,0,Normal
+3900532,Edinson Roberto Cavani Gómez,Paris Saint-Germain,11.006361796706484,0.058943735741739355,False,Right Foot,Open Play,1,0,2,Backheel
+3900532,Arnold Bouka Moutou,Angers,26.478104161740884,0.0700205113694431,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.053179299053802,0.05876885824154017,False,Right Foot,Open Play,1,0,1,Lob
-32.005312059094194,0.06250978686555034,False,Right Foot,Open Play,0,0,1,Normal
-18.298907071188708,0.06305900927872034,False,Left Foot,Open Play,1,0,3,Normal
-26.322993750711557,0.06992711286143584,False,Left Foot,Open Play,1,0,0,Half Volley
-23.963513932643515,0.06717884498271535,False,Right Foot,Open Play,1,0,2,Half Volley
-32.84661321963042,0.07112522869078947,False,Right Foot,Open Play,0,0,2,Normal
-30.782624969290715,0.07279662580933992,False,Right Foot,Open Play,0,1,3,Half Volley
-11.00727032465361,0.059315125948000105,False,Left Foot,Open Play,1,0,1,Normal
-25.825762331439517,0.06899223083659445,False,Right Foot,Open Play,1,0,0,Volley
-15.608010763707208,0.06145653865427348,False,Right Foot,Open Play,0,0,1,Normal
-31.62672920173694,0.06383076958245537,False,Right Foot,Open Play,0,0,2,Normal
-10.656922632730327,0.05761168034179666,False,Left Foot,Open Play,1,0,2,Normal
-23.366856870362348,0.05564272556195641,False,Right Foot,Open Play,0,0,2,Normal
-9.929753269845126,0.05813024364779639,False,Right Foot,Open Play,1,0,4,Volley
-14.07586587034702,0.0618344555374776,True,Left Foot,Open Play,0,0,1,Half Volley
-16.362457028209423,0.06315922793240275,False,Right Foot,Open Play,1,0,1,Volley
-19.812369873389702,0.06546544329865084,False,Left Foot,Open Play,0,0,4,Normal
-28.908303305451877,0.07169500548937865,False,Right Foot,Open Play,0,0,2,Normal
-11.353413583587976,0.05968523030547216,True,Right Foot,Open Play,1,0,1,Normal
-19.40231944897311,0.06269061762740391,False,Right Foot,Open Play,1,0,2,Volley
-25.927784324928346,0.05548650951781032,False,Right Foot,Open Play,0,0,2,Half Volley
-24.153674668671016,0.06831383528726437,False,Left Foot,Open Play,1,0,2,Normal
-22.600884938426642,0.052898326695842296,False,Left Foot,Open Play,0,0,1,Normal
-20.282997806044353,0.06506685572209146,False,Right Foot,Open Play,0,0,3,Volley
-15.16047492659778,0.060010199833762774,False,Right Foot,Open Play,0,0,2,Normal
-20.44162420161373,0.06594042916658287,False,Left Foot,Open Play,1,0,1,Half Volley
-10.638138934982944,0.05791766625476715,False,Right Foot,Open Play,0,0,2,Normal
-6.2241465278381725,0.05781181901874107,False,Left Foot,Open Play,1,0,4,Half Volley
-9.377099764852668,0.05807016210901418,False,Head,Open Play,0,1,5,Normal
-6.276941930590087,0.057603526672331255,False,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754053,Harry Kane,Tottenham Hotspur,20.053179299053802,0.05876885824154017,False,Right Foot,Open Play,1,0,1,Lob
+3754053,Christian Dannemann Eriksen,Tottenham Hotspur,32.005312059094194,0.06250978686555034,False,Right Foot,Open Play,0,0,1,Normal
+3754053,Erik Lamela,Tottenham Hotspur,18.298907071188708,0.06305900927872034,False,Left Foot,Open Play,1,0,3,Normal
+3754053,Danny Rose,Tottenham Hotspur,26.322993750711557,0.06992711286143584,False,Left Foot,Open Play,1,0,0,Half Volley
+3754053,Bamidele Alli,Tottenham Hotspur,23.963513932643515,0.06717884498271535,False,Right Foot,Open Play,1,0,2,Half Volley
+3754053,Christian Dannemann Eriksen,Tottenham Hotspur,32.84661321963042,0.07112522869078947,False,Right Foot,Open Play,0,0,2,Normal
+3754053,Jordan Ayew,Aston Villa,30.782624969290715,0.07279662580933992,False,Right Foot,Open Play,0,1,3,Half Volley
+3754053,Harry Kane,Tottenham Hotspur,11.00727032465361,0.059315125948000105,False,Left Foot,Open Play,1,0,1,Normal
+3754053,Jordan Veretout,Aston Villa,25.825762331439517,0.06899223083659445,False,Right Foot,Open Play,1,0,0,Volley
+3754053,Harry Kane,Tottenham Hotspur,15.608010763707208,0.06145653865427348,False,Right Foot,Open Play,0,0,1,Normal
+3754053,Harry Kane,Tottenham Hotspur,31.62672920173694,0.06383076958245537,False,Right Foot,Open Play,0,0,2,Normal
+3754053,Erik Lamela,Tottenham Hotspur,10.656922632730327,0.05761168034179666,False,Left Foot,Open Play,1,0,2,Normal
+3754053,Kyle Walker,Tottenham Hotspur,23.366856870362348,0.05564272556195641,False,Right Foot,Open Play,0,0,2,Normal
+3754053,Rudy Gestede,Aston Villa,9.929753269845126,0.05813024364779639,False,Right Foot,Open Play,1,0,4,Volley
+3754053,Harry Kane,Tottenham Hotspur,14.07586587034702,0.0618344555374776,True,Left Foot,Open Play,0,0,1,Half Volley
+3754053,Jordan Ayew,Aston Villa,16.362457028209423,0.06315922793240275,False,Right Foot,Open Play,1,0,1,Volley
+3754053,Idrissa Gana Gueye,Aston Villa,19.812369873389702,0.06546544329865084,False,Left Foot,Open Play,0,0,4,Normal
+3754053,Jordan Veretout,Aston Villa,28.908303305451877,0.07169500548937865,False,Right Foot,Open Play,0,0,2,Normal
+3754053,Harry Kane,Tottenham Hotspur,11.353413583587976,0.05968523030547216,True,Right Foot,Open Play,1,0,1,Normal
+3754053,Ashley Westwood,Aston Villa,19.40231944897311,0.06269061762740391,False,Right Foot,Open Play,1,0,2,Volley
+3754053,Kyle Walker,Tottenham Hotspur,25.927784324928346,0.05548650951781032,False,Right Foot,Open Play,0,0,2,Half Volley
+3754053,Erik Lamela,Tottenham Hotspur,24.153674668671016,0.06831383528726437,False,Left Foot,Open Play,1,0,2,Normal
+3754053,Kyle Walker,Tottenham Hotspur,22.600884938426642,0.052898326695842296,False,Left Foot,Open Play,0,0,1,Normal
+3754053,Rudy Gestede,Aston Villa,20.282997806044353,0.06506685572209146,False,Right Foot,Open Play,0,0,3,Volley
+3754053,Erik Lamela,Tottenham Hotspur,15.16047492659778,0.060010199833762774,False,Right Foot,Open Play,0,0,2,Normal
+3754053,Christian Dannemann Eriksen,Tottenham Hotspur,20.44162420161373,0.06594042916658287,False,Left Foot,Open Play,1,0,1,Half Volley
+3754053,Jordan Ayew,Aston Villa,10.638138934982944,0.05791766625476715,False,Right Foot,Open Play,0,0,2,Normal
+3754053,Rudy Gestede,Aston Villa,6.2241465278381725,0.05781181901874107,False,Left Foot,Open Play,1,0,4,Half Volley
+3754053,Rudy Gestede,Aston Villa,9.377099764852668,0.05807016210901418,False,Head,Open Play,0,1,5,Normal
+3754053,Joleon Lescott,Aston Villa,6.276941930590087,0.057603526672331255,False,Left Foot,Open Play,1,0,1,Volley

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.686316168611704,0.07297261251475388,False,Right Foot,Open Play,0,0,0,Normal
-4.8259714048054585,0.05654256434776786,True,Right Foot,Open Play,0,0,4,Normal
-16.94992625352689,0.06275296445322834,True,Left Foot,Open Play,1,0,1,Normal
-22.611943746613207,0.05793804979334414,False,Left Foot,Open Play,0,0,2,Normal
-13.894603268895446,0.06190354672864164,False,Left Foot,Open Play,0,0,3,Normal
-14.469968901141424,0.05796211303109392,False,Right Foot,Open Play,0,0,2,Normal
-32.32150986572255,0.06256107984515,False,Left Foot,Open Play,0,0,1,Normal
-6.198386886924694,0.05384048349155089,False,Head,Open Play,0,0,3,Normal
-3.623534186398684,0.05653316913849778,True,Other,Open Play,0,0,5,Normal
-19.817668884104403,0.06464167463600123,False,Left Foot,Open Play,0,0,4,Normal
-14.263590010933425,0.05633584360322386,False,Right Foot,Open Play,0,0,3,Normal
-32.52598960831169,0.06995806093345103,False,Left Foot,Open Play,0,0,2,Normal
-12.500000000000002,0.05785633674204551,True,Left Foot,Open Play,1,0,1,Normal
-27.707760645710792,0.07066528286635565,True,Right Foot,Free Kick,0,0,0,Normal
-10.208329931972223,0.059444972937847104,False,Left Foot,Open Play,0,1,1,Normal
-10.358571330062855,0.05999071272611564,False,Right Foot,Open Play,1,1,1,Normal
-19.81539805302937,0.06475156164614126,False,Left Foot,Open Play,1,0,3,Normal
-22.226560687609762,0.056582356939248506,True,Right Foot,Open Play,0,0,1,Normal
-15.13968295572929,0.060996498070631754,True,Right Foot,Open Play,0,0,2,Normal
-4.396589587396124,0.05607013561143013,True,Left Foot,Open Play,1,0,3,Half Volley
-8.256512580987206,0.05791623608115051,False,Left Foot,Open Play,1,0,1,Half Volley
-6.040695324215583,0.05694190375963592,False,Right Foot,Open Play,1,0,1,Normal
-31.62182790415507,0.07368702595305203,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775629,Keira Walsh,Manchester City WFC,30.686316168611704,0.07297261251475388,False,Right Foot,Open Play,0,0,0,Normal
+3775629,Caroline Weir,Manchester City WFC,4.8259714048054585,0.05654256434776786,True,Right Foot,Open Play,0,0,4,Normal
+3775629,Caroline Weir,Manchester City WFC,16.94992625352689,0.06275296445322834,True,Left Foot,Open Play,1,0,1,Normal
+3775629,Chloe Kelly,Manchester City WFC,22.611943746613207,0.05793804979334414,False,Left Foot,Open Play,0,0,2,Normal
+3775629,Georgia Stanway,Manchester City WFC,13.894603268895446,0.06190354672864164,False,Left Foot,Open Play,0,0,3,Normal
+3775629,Caroline Weir,Manchester City WFC,14.469968901141424,0.05796211303109392,False,Right Foot,Open Play,0,0,2,Normal
+3775629,Kayleigh Green,Brighton & Hove Albion WFC,32.32150986572255,0.06256107984515,False,Left Foot,Open Play,0,0,1,Normal
+3775629,Ellen White,Manchester City WFC,6.198386886924694,0.05384048349155089,False,Head,Open Play,0,0,3,Normal
+3775629,Stephanie Houghton,Manchester City WFC,3.623534186398684,0.05653316913849778,True,Other,Open Play,0,0,5,Normal
+3775629,Nora Heroum,Brighton & Hove Albion WFC,19.817668884104403,0.06464167463600123,False,Left Foot,Open Play,0,0,4,Normal
+3775629,Georgia Stanway,Manchester City WFC,14.263590010933425,0.05633584360322386,False,Right Foot,Open Play,0,0,3,Normal
+3775629,Inessa Kaagman,Brighton & Hove Albion WFC,32.52598960831169,0.06995806093345103,False,Left Foot,Open Play,0,0,2,Normal
+3775629,Ellen White,Manchester City WFC,12.500000000000002,0.05785633674204551,True,Left Foot,Open Play,1,0,1,Normal
+3775629,Stephanie Houghton,Manchester City WFC,27.707760645710792,0.07066528286635565,True,Right Foot,Free Kick,0,0,0,Normal
+3775629,Janine Elizabeth Beckie,Manchester City WFC,10.208329931972223,0.059444972937847104,False,Left Foot,Open Play,0,1,1,Normal
+3775629,Janine Elizabeth Beckie,Manchester City WFC,10.358571330062855,0.05999071272611564,False,Right Foot,Open Play,1,1,1,Normal
+3775629,Ellen White,Manchester City WFC,19.81539805302937,0.06475156164614126,False,Left Foot,Open Play,1,0,3,Normal
+3775629,Rianna Jarrett,Brighton & Hove Albion WFC,22.226560687609762,0.056582356939248506,True,Right Foot,Open Play,0,0,1,Normal
+3775629,Chloe Kelly,Manchester City WFC,15.13968295572929,0.060996498070631754,True,Right Foot,Open Play,0,0,2,Normal
+3775629,Janine Elizabeth Beckie,Manchester City WFC,4.396589587396124,0.05607013561143013,True,Left Foot,Open Play,1,0,3,Half Volley
+3775629,Janine Elizabeth Beckie,Manchester City WFC,8.256512580987206,0.05791623608115051,False,Left Foot,Open Play,1,0,1,Half Volley
+3775629,Laura Coombs,Manchester City WFC,6.040695324215583,0.05694190375963592,False,Right Foot,Open Play,1,0,1,Normal
+3775629,Janine Elizabeth Beckie,Manchester City WFC,31.62182790415507,0.07368702595305203,False,Right Foot,Open Play,0,1,2,Normal

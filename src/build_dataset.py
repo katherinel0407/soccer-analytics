@@ -9,7 +9,8 @@ for file_path in raw_dir.glob("*.json"):
 
     event = pd.read_json(file_path)
 
-    shots = build_shot_dataset(event)
+    match_id = file_path.stem
+    shots = build_shot_dataset(event, match_id)
 
     shots.to_csv(
         output_dir /

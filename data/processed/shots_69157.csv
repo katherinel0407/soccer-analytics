@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.484597134749386,0.05788009919582501,True,Right Foot,Open Play,0,0,1,Normal
-10.863240768757723,0.05739636741123153,False,Right Foot,Open Play,0,0,2,Normal
-34.97384737200069,0.056435233128709045,False,Right Foot,Free Kick,0,0,0,Normal
-32.400308640505266,0.07255886199339238,False,Left Foot,Open Play,0,0,1,Normal
-5.2611785751863644,0.05660298449950707,False,Head,Open Play,0,1,4,Normal
-27.77210831031739,0.07089231505017692,False,Right Foot,Open Play,1,1,1,Normal
-4.651881339845206,0.05705673959864977,False,Right Foot,Open Play,1,0,4,Half Volley
-10.062305898749054,0.05981423069401519,False,Head,Open Play,0,0,2,Normal
-9.119758768739446,0.05243297323470308,False,Head,Open Play,0,0,1,Normal
-15.042606157179016,0.056349070928549454,False,Left Foot,Open Play,1,0,1,Volley
-10.462313319720451,0.054062487127290684,False,Left Foot,Open Play,1,0,1,Normal
-16.111176245079072,0.06022156151238337,False,Left Foot,Open Play,1,0,2,Half Volley
-27.278746305503113,0.0703118919971927,False,Left Foot,Open Play,0,1,1,Normal
-19.98124120268808,0.059282496831795456,False,Right Foot,Open Play,1,0,2,Normal
-25.3331798240963,0.06423339644337794,False,Right Foot,Free Kick,0,0,0,Normal
-32.94798931649699,0.07484340903703211,False,Right Foot,Free Kick,0,0,0,Normal
-8.06225774829855,0.05527629689559117,False,Left Foot,Open Play,1,0,1,Volley
-34.79080338250326,0.07336855952678537,False,Right Foot,Open Play,0,0,1,Normal
-30.295214143491375,0.07212088427800525,False,Left Foot,Open Play,1,0,1,Half Volley
-35.90891254271006,0.06197481729283924,False,Right Foot,Open Play,0,0,1,Normal
-6.800000000000002,0.05613926172260118,False,Head,Open Play,0,1,4,Normal
-31.832373458477772,0.07044684983810114,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69157,Ronaldo de Assis Moreira,Barcelona,6.484597134749386,0.05788009919582501,True,Right Foot,Open Play,0,0,1,Normal
+69157,Maris Verpakovskis,Getafe,10.863240768757723,0.05739636741123153,False,Right Foot,Open Play,0,0,2,Normal
+69157,Ronaldo de Assis Moreira,Barcelona,34.97384737200069,0.056435233128709045,False,Right Foot,Free Kick,0,0,0,Normal
+69157,Francisco Javier Casquero Paredes,Getafe,32.400308640505266,0.07255886199339238,False,Left Foot,Open Play,0,0,1,Normal
+69157,Carles Puyol i Saforcada,Barcelona,5.2611785751863644,0.05660298449950707,False,Head,Open Play,0,1,4,Normal
+69157,Samuel Eto''o Fils,Barcelona,27.77210831031739,0.07089231505017692,False,Right Foot,Open Play,1,1,1,Normal
+69157,Samuel Eto''o Fils,Barcelona,4.651881339845206,0.05705673959864977,False,Right Foot,Open Play,1,0,4,Half Volley
+69157,Samuel Eto''o Fils,Barcelona,10.062305898749054,0.05981423069401519,False,Head,Open Play,0,0,2,Normal
+69157,Lionel Andrés Messi Cuccittini,Barcelona,9.119758768739446,0.05243297323470308,False,Head,Open Play,0,0,1,Normal
+69157,José Edmílson Gomes de Moraes,Barcelona,15.042606157179016,0.056349070928549454,False,Left Foot,Open Play,1,0,1,Volley
+69157,Lionel Andrés Messi Cuccittini,Barcelona,10.462313319720451,0.054062487127290684,False,Left Foot,Open Play,1,0,1,Normal
+69157,Lionel Andrés Messi Cuccittini,Barcelona,16.111176245079072,0.06022156151238337,False,Left Foot,Open Play,1,0,2,Half Volley
+69157,Francisco Javier Casquero Paredes,Getafe,27.278746305503113,0.0703118919971927,False,Left Foot,Open Play,0,1,1,Normal
+69157,Valentín Sergio Pachón Mosquero,Getafe,19.98124120268808,0.059282496831795456,False,Right Foot,Open Play,1,0,2,Normal
+69157,Anderson Luís de Souza,Barcelona,25.3331798240963,0.06423339644337794,False,Right Foot,Free Kick,0,0,0,Normal
+69157,Anderson Luís de Souza,Barcelona,32.94798931649699,0.07484340903703211,False,Right Foot,Free Kick,0,0,0,Normal
+69157,Fabio Celestini,Getafe,8.06225774829855,0.05527629689559117,False,Left Foot,Open Play,1,0,1,Volley
+69157,Manuel del Moral Fernández,Getafe,34.79080338250326,0.07336855952678537,False,Right Foot,Open Play,0,0,1,Normal
+69157,Javier Paredes Arango,Getafe,30.295214143491375,0.07212088427800525,False,Left Foot,Open Play,1,0,1,Half Volley
+69157,Fabio Celestini,Getafe,35.90891254271006,0.06197481729283924,False,Right Foot,Open Play,0,0,1,Normal
+69157,Valentín Sergio Pachón Mosquero,Getafe,6.800000000000002,0.05613926172260118,False,Head,Open Play,0,1,4,Normal
+69157,Juan Ángel Albín Leites,Getafe,31.832373458477772,0.07044684983810114,False,Left Foot,Free Kick,0,0,0,Normal

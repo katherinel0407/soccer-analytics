@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.120732639190873,0.07109346543462139,False,Right Foot,Open Play,1,0,3,Half Volley
-12.701574705523726,0.05466463362257436,False,Right Foot,Open Play,1,0,2,Normal
-18.2989070711887,0.05836499993335021,False,Right Foot,Open Play,1,0,2,Normal
-23.28454423002521,0.0565153029890207,False,Right Foot,Open Play,1,1,2,Normal
-31.100643080167966,0.06835096110581845,False,Right Foot,Open Play,0,1,1,Normal
-19.494101672044284,0.06430075424064748,False,Right Foot,Open Play,1,0,1,Half Volley
-23.703586226560738,0.06811368004066685,True,Right Foot,Open Play,1,0,2,Half Volley
-27.65230550966772,0.06580674591230458,False,Right Foot,Open Play,0,1,2,Normal
-20.496341136895627,0.06446018464218212,False,Left Foot,Open Play,0,1,1,Half Volley
-8.354639429682168,0.05500664088493244,False,Head,Open Play,0,0,2,Normal
-19.505896544378576,0.052160663539636026,False,Right Foot,Open Play,1,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-28.966359798911558,0.054572400807648025,False,Right Foot,Open Play,0,0,1,Normal
-35.20127838587684,0.05880114880736072,False,Left Foot,Open Play,1,0,1,Volley
-17.00735135169495,0.056531093144475186,False,Right Foot,Open Play,0,0,2,Normal
-12.525174649480942,0.059659023581340134,True,Left Foot,Open Play,1,0,1,Normal
-30.286630713897512,0.05681931409058763,False,Right Foot,Open Play,0,0,1,Normal
-35.087462148180514,0.07355311807033203,False,Right Foot,Free Kick,0,0,0,Normal
-5.522680508593633,0.05502044599898332,False,Head,Open Play,0,0,3,Normal
-12.747548783981962,0.06106516392343722,False,Head,Open Play,0,1,2,Normal
-24.980392310770466,0.056120805029175526,False,Left Foot,Open Play,0,0,3,Normal
-19.90602923739438,0.058525923411606985,False,Right Foot,Open Play,1,1,2,Half Volley
-24.742069436488126,0.05275166815596746,False,Left Foot,Open Play,0,1,2,Normal
-19.817164277464123,0.05439429368168681,False,Right Foot,Open Play,0,0,1,Normal
-8.881441324469812,0.05453623776753831,False,Right Foot,Open Play,1,1,2,Backheel
-30.359512512555277,0.07213621108881833,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879669,Gonzalo Gerardo Higuaín,Napoli,31.120732639190873,0.07109346543462139,False,Right Foot,Open Play,1,0,3,Half Volley
+3879669,José María Callejón Bueno,Napoli,12.701574705523726,0.05466463362257436,False,Right Foot,Open Play,1,0,2,Normal
+3879669,Gonzalo Gerardo Higuaín,Napoli,18.2989070711887,0.05836499993335021,False,Right Foot,Open Play,1,0,2,Normal
+3879669,Andrea Belotti,Torino,23.28454423002521,0.0565153029890207,False,Right Foot,Open Play,1,1,2,Normal
+3879669,José María Callejón Bueno,Napoli,31.100643080167966,0.06835096110581845,False,Right Foot,Open Play,0,1,1,Normal
+3879669,Marek Hamšík,Napoli,19.494101672044284,0.06430075424064748,False,Right Foot,Open Play,1,0,1,Half Volley
+3879669,Lorenzo Insigne,Napoli,23.703586226560738,0.06811368004066685,True,Right Foot,Open Play,1,0,2,Half Volley
+3879669,Daniele Baselli,Torino,27.65230550966772,0.06580674591230458,False,Right Foot,Open Play,0,1,2,Normal
+3879669,Lorenzo Insigne,Napoli,20.496341136895627,0.06446018464218212,False,Left Foot,Open Play,0,1,1,Half Volley
+3879669,Fabio Quagliarella,Torino,8.354639429682168,0.05500664088493244,False,Head,Open Play,0,0,2,Normal
+3879669,Gonzalo Gerardo Higuaín,Napoli,19.505896544378576,0.052160663539636026,False,Right Foot,Open Play,1,0,2,Normal
+3879669,Fabio Quagliarella,Torino,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879669,Bruno da Silva Peres,Torino,28.966359798911558,0.054572400807648025,False,Right Foot,Open Play,0,0,1,Normal
+3879669,Cristian Molinaro,Torino,35.20127838587684,0.05880114880736072,False,Left Foot,Open Play,1,0,1,Volley
+3879669,Gonzalo Gerardo Higuaín,Napoli,17.00735135169495,0.056531093144475186,False,Right Foot,Open Play,0,0,2,Normal
+3879669,Marek Hamšík,Napoli,12.525174649480942,0.059659023581340134,True,Left Foot,Open Play,1,0,1,Normal
+3879669,Afriyie Acquah,Torino,30.286630713897512,0.05681931409058763,False,Right Foot,Open Play,0,0,1,Normal
+3879669,Lorenzo Insigne,Napoli,35.087462148180514,0.07355311807033203,False,Right Foot,Free Kick,0,0,0,Normal
+3879669,Kalidou Koulibaly,Napoli,5.522680508593633,0.05502044599898332,False,Head,Open Play,0,0,3,Normal
+3879669,Emiliano Moretti,Torino,12.747548783981962,0.06106516392343722,False,Head,Open Play,0,1,2,Normal
+3879669,Gonzalo Gerardo Higuaín,Napoli,24.980392310770466,0.056120805029175526,False,Left Foot,Open Play,0,0,3,Normal
+3879669,Gonzalo Gerardo Higuaín,Napoli,19.90602923739438,0.058525923411606985,False,Right Foot,Open Play,1,1,2,Half Volley
+3879669,Elseid Hysaj,Napoli,24.742069436488126,0.05275166815596746,False,Left Foot,Open Play,0,1,2,Normal
+3879669,Dries Mertens,Napoli,19.817164277464123,0.05439429368168681,False,Right Foot,Open Play,0,0,1,Normal
+3879669,Maximiliano Gastón López,Torino,8.881441324469812,0.05453623776753831,False,Right Foot,Open Play,1,1,2,Backheel
+3879669,Dries Mertens,Napoli,30.359512512555277,0.07213621108881833,False,Right Foot,Open Play,0,0,0,Normal

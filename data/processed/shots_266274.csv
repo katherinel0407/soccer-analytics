@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.160396471443022,0.058249043853071794,False,Left Foot,Open Play,0,0,2,Normal
-3.805259518088087,0.05625169867915962,True,Right Foot,Open Play,1,0,1,Half Volley
-32.58481241314733,0.05591640852739884,False,Left Foot,Open Play,0,1,1,Normal
-7.169379331573968,0.05798423628675837,False,Left Foot,Open Play,1,0,1,Normal
-12.955307792561314,0.05918752210492834,False,Left Foot,Open Play,0,0,2,Normal
-24.95696295625732,0.06872963356952426,False,Right Foot,Free Kick,0,0,0,Normal
-10.206860437960346,0.054873517329697905,True,Right Foot,Open Play,0,1,2,Normal
-23.547823678633236,0.06595568163294745,False,Right Foot,Open Play,0,1,2,Normal
-22.2103579439864,0.054898052683772125,False,Right Foot,Open Play,0,0,1,Normal
-23.840302011509834,0.05781554114682345,False,Right Foot,Open Play,0,0,2,Normal
-26.518861212352242,0.06842355819653378,False,Right Foot,Open Play,1,0,2,Normal
-8.452810183601661,0.05859555325309395,False,Right Foot,Open Play,1,0,2,Half Volley
-13.017296186228537,0.0606925061629415,False,Left Foot,Open Play,1,0,1,Volley
-14.222517358048819,0.06209510849368584,False,Head,Open Play,0,0,1,Normal
-13.901438774457844,0.06147515264099403,True,Left Foot,Open Play,0,1,2,Normal
-17.07922714879101,0.0633925079390817,False,Right Foot,Open Play,1,1,2,Normal
-26.096743091811284,0.06841218878712364,False,Right Foot,Open Play,0,0,1,Normal
-27.06011825546961,0.07005565286263839,False,Right Foot,Open Play,0,1,2,Normal
-29.46133058773823,0.06864095836078322,False,Left Foot,Open Play,0,0,2,Normal
-18.42851052038661,0.06388959006381534,False,Right Foot,Open Play,0,0,5,Normal
-12.701181047445948,0.05729338546241659,False,Head,Open Play,0,0,2,Normal
-18.560711193270585,0.057985184686970226,False,Right Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266274,Lionel Andrés Messi Cuccittini,Barcelona,18.160396471443022,0.058249043853071794,False,Left Foot,Open Play,0,0,2,Normal
+266274,Neymar da Silva Santos Junior,Barcelona,3.805259518088087,0.05625169867915962,True,Right Foot,Open Play,1,0,1,Half Volley
+266274,Adriano Correia Claro,Barcelona,32.58481241314733,0.05591640852739884,False,Left Foot,Open Play,0,1,1,Normal
+266274,Neymar da Silva Santos Junior,Barcelona,7.169379331573968,0.05798423628675837,False,Left Foot,Open Play,1,0,1,Normal
+266274,Lionel Andrés Messi Cuccittini,Barcelona,12.955307792561314,0.05918752210492834,False,Left Foot,Open Play,0,0,2,Normal
+266274,Fabián Ariel Orellana Valenzuela,Celta Vigo,24.95696295625732,0.06872963356952426,False,Right Foot,Free Kick,0,0,0,Normal
+266274,Lionel Andrés Messi Cuccittini,Barcelona,10.206860437960346,0.054873517329697905,True,Right Foot,Open Play,0,1,2,Normal
+266274,Fabián Ariel Orellana Valenzuela,Celta Vigo,23.547823678633236,0.06595568163294745,False,Right Foot,Open Play,0,1,2,Normal
+266274,Alexis Alejandro Sánchez Sánchez,Barcelona,22.2103579439864,0.054898052683772125,False,Right Foot,Open Play,0,0,1,Normal
+266274,Alexis Alejandro Sánchez Sánchez,Barcelona,23.840302011509834,0.05781554114682345,False,Right Foot,Open Play,0,0,2,Normal
+266274,Neymar da Silva Santos Junior,Barcelona,26.518861212352242,0.06842355819653378,False,Right Foot,Open Play,1,0,2,Normal
+266274,Augusto Matías Fernández,Celta Vigo,8.452810183601661,0.05859555325309395,False,Right Foot,Open Play,1,0,2,Half Volley
+266274,Santiago Mina Lorenzo,Celta Vigo,13.017296186228537,0.0606925061629415,False,Left Foot,Open Play,1,0,1,Volley
+266274,Augusto Matías Fernández,Celta Vigo,14.222517358048819,0.06209510849368584,False,Head,Open Play,0,0,1,Normal
+266274,Neymar da Silva Santos Junior,Barcelona,13.901438774457844,0.06147515264099403,True,Left Foot,Open Play,0,1,2,Normal
+266274,Alexis Alejandro Sánchez Sánchez,Barcelona,17.07922714879101,0.0633925079390817,False,Right Foot,Open Play,1,1,2,Normal
+266274,Francesc Fàbregas i Soler,Barcelona,26.096743091811284,0.06841218878712364,False,Right Foot,Open Play,0,0,1,Normal
+266274,Jordi Alba Ramos,Barcelona,27.06011825546961,0.07005565286263839,False,Right Foot,Open Play,0,1,2,Normal
+266274,Augusto Matías Fernández,Celta Vigo,29.46133058773823,0.06864095836078322,False,Left Foot,Open Play,0,0,2,Normal
+266274,Jonathan Castro Otto,Celta Vigo,18.42851052038661,0.06388959006381534,False,Right Foot,Open Play,0,0,5,Normal
+266274,Mario Bermejo Castanedo,Celta Vigo,12.701181047445948,0.05729338546241659,False,Head,Open Play,0,0,2,Normal
+266274,Sergi Roberto Carnicer,Barcelona,18.560711193270585,0.057985184686970226,False,Right Foot,Open Play,1,0,0,Half Volley

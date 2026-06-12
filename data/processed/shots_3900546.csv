@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.73456432936477,0.05914351951332738,False,Head,Open Play,0,1,2,Normal
-12.912009913255185,0.058426780456021135,False,Head,Open Play,0,1,3,Normal
-24.8927700346908,0.06857935798861077,False,Right Foot,Open Play,0,1,2,Normal
-12.944883158993745,0.05793318238002051,False,Head,Open Play,0,0,1,Normal
-36.00902664610639,0.07752431795280407,False,Right Foot,Open Play,1,0,2,Normal
-20.5275424734672,0.06594796724144349,False,Left Foot,Open Play,0,1,3,Half Volley
-15.672268502038884,0.06301672877929927,False,Left Foot,Open Play,0,1,2,Normal
-12.643575443678897,0.05910332919826008,False,Head,Open Play,0,1,4,Normal
-9.34772699644143,0.05944690156535026,False,Right Foot,Open Play,1,1,4,Volley
-11.261438629233828,0.05987589204423727,False,Head,Open Play,0,0,2,Normal
-10.630145812734655,0.05967701761424853,False,Head,Open Play,0,1,3,Normal
-9.217917335276994,0.05750141275825652,False,Head,Open Play,0,1,2,Normal
-12.175795661885914,0.061022108677440214,False,Right Foot,Open Play,0,0,2,Half Volley
-7.632168761236867,0.0566804701693511,False,Head,Open Play,0,1,2,Normal
-33.61800113034681,0.07043143026755558,False,Left Foot,Free Kick,0,0,0,Normal
-12.500399993600206,0.052983611380180845,False,Right Foot,Open Play,1,0,1,Volley
-28.87663415289255,0.07143000702177082,False,Right Foot,Open Play,0,0,2,Normal
-13.167383946707108,0.06000737817056274,False,Right Foot,Open Play,1,1,3,Normal
-29.96681497923996,0.06673203360531421,False,Right Foot,Open Play,1,0,0,Normal
-20.28915966717203,0.06234603962340114,False,Left Foot,Open Play,0,1,2,Normal
-18.03468879687144,0.06303977147289835,False,Right Foot,Open Play,1,0,1,Volley
-7.093659140387275,0.058206720701381665,True,Head,Open Play,0,0,1,Normal
-6.2649820430708365,0.056222415827178164,False,Head,Open Play,0,1,2,Normal
-17.42555594522022,0.06361307812872939,False,Left Foot,Open Play,1,0,0,Half Volley
-7.3082145562373855,0.056874113906999445,False,Left Foot,Open Play,1,0,2,Backheel
-13.813037319865604,0.06012720809365043,False,Right Foot,Open Play,0,0,3,Half Volley
-19.804039991880444,0.06317381306069754,False,Right Foot,Open Play,1,0,0,Half Volley
-11.62110149684616,0.060326897698764134,False,Head,Open Play,0,0,4,Normal
-8.860022573334673,0.05907316580939603,False,Head,Open Play,0,1,3,Normal
-7.517978451684999,0.058090379367153035,False,Right Foot,Open Play,0,0,3,Normal
-30.602287496198713,0.06673062364469555,False,Right Foot,Open Play,0,0,1,Normal
-25.317977802344327,0.06343551940653962,False,Right Foot,Open Play,1,0,1,Normal
-11.337107214805723,0.0566701359886325,True,Right Foot,Open Play,1,0,3,Volley
-20.52315765178448,0.0652561785764594,False,Right Foot,Open Play,0,1,2,Normal
-25.71244834705556,0.06617565850438774,False,Right Foot,Open Play,0,0,3,Normal
-33.22228167961977,0.0729505403464864,False,Right Foot,Open Play,0,0,1,Normal
-11.943617542436627,0.06080760749237316,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900546,Emiliano Sala,Nantes,11.73456432936477,0.05914351951332738,False,Head,Open Play,0,1,2,Normal
+3900546,John Tshibumbu,Gazélec Ajaccio,12.912009913255185,0.058426780456021135,False,Head,Open Play,0,1,3,Normal
+3900546,Kévin Mayi,Gazélec Ajaccio,24.8927700346908,0.06857935798861077,False,Right Foot,Open Play,0,1,2,Normal
+3900546,Khalid Boutaïb,Gazélec Ajaccio,12.944883158993745,0.05793318238002051,False,Head,Open Play,0,0,1,Normal
+3900546,Kévin Mayi,Gazélec Ajaccio,36.00902664610639,0.07752431795280407,False,Right Foot,Open Play,1,0,2,Normal
+3900546,Khalid Boutaïb,Gazélec Ajaccio,20.5275424734672,0.06594796724144349,False,Left Foot,Open Play,0,1,3,Half Volley
+3900546,Ermir Lenjani,Nantes,15.672268502038884,0.06301672877929927,False,Left Foot,Open Play,0,1,2,Normal
+3900546,John Tshibumbu,Gazélec Ajaccio,12.643575443678897,0.05910332919826008,False,Head,Open Play,0,1,4,Normal
+3900546,Abdou Kader Mangane,Gazélec Ajaccio,9.34772699644143,0.05944690156535026,False,Right Foot,Open Play,1,1,4,Volley
+3900546,John Tshibumbu,Gazélec Ajaccio,11.261438629233828,0.05987589204423727,False,Head,Open Play,0,0,2,Normal
+3900546,Kévin Mayi,Gazélec Ajaccio,10.630145812734655,0.05967701761424853,False,Head,Open Play,0,1,3,Normal
+3900546,John Tshibumbu,Gazélec Ajaccio,9.217917335276994,0.05750141275825652,False,Head,Open Play,0,1,2,Normal
+3900546,Kévin Mayi,Gazélec Ajaccio,12.175795661885914,0.061022108677440214,False,Right Foot,Open Play,0,0,2,Half Volley
+3900546,John Tshibumbu,Gazélec Ajaccio,7.632168761236867,0.0566804701693511,False,Head,Open Play,0,1,2,Normal
+3900546,Damjan Đoković,Gazélec Ajaccio,33.61800113034681,0.07043143026755558,False,Left Foot,Free Kick,0,0,0,Normal
+3900546,Alejandro Bedoya,Nantes,12.500399993600206,0.052983611380180845,False,Right Foot,Open Play,1,0,1,Volley
+3900546,Youssouf Sabaly,Nantes,28.87663415289255,0.07143000702177082,False,Right Foot,Open Play,0,0,2,Normal
+3900546,Lorik Agim Cana,Nantes,13.167383946707108,0.06000737817056274,False,Right Foot,Open Play,1,1,3,Normal
+3900546,Adrien Thomasson,Nantes,29.96681497923996,0.06673203360531421,False,Right Foot,Open Play,1,0,0,Normal
+3900546,Alejandro Bedoya,Nantes,20.28915966717203,0.06234603962340114,False,Left Foot,Open Play,0,1,2,Normal
+3900546,Abdou Kader Mangane,Gazélec Ajaccio,18.03468879687144,0.06303977147289835,False,Right Foot,Open Play,1,0,1,Volley
+3900546,Emiliano Sala,Nantes,7.093659140387275,0.058206720701381665,True,Head,Open Play,0,0,1,Normal
+3900546,Kolbeinn Sigþórsson,Nantes,6.2649820430708365,0.056222415827178164,False,Head,Open Play,0,1,2,Normal
+3900546,Abdou Kader Mangane,Gazélec Ajaccio,17.42555594522022,0.06361307812872939,False,Left Foot,Open Play,1,0,0,Half Volley
+3900546,John Tshibumbu,Gazélec Ajaccio,7.3082145562373855,0.056874113906999445,False,Left Foot,Open Play,1,0,2,Backheel
+3900546,Jacques Zoua Daogari,Gazélec Ajaccio,13.813037319865604,0.06012720809365043,False,Right Foot,Open Play,0,0,3,Half Volley
+3900546,Mohamed Larbi,Gazélec Ajaccio,19.804039991880444,0.06317381306069754,False,Right Foot,Open Play,1,0,0,Half Volley
+3900546,Jacques Zoua Daogari,Gazélec Ajaccio,11.62110149684616,0.060326897698764134,False,Head,Open Play,0,0,4,Normal
+3900546,Jacques Zoua Daogari,Gazélec Ajaccio,8.860022573334673,0.05907316580939603,False,Head,Open Play,0,1,3,Normal
+3900546,Adrien Thomasson,Nantes,7.517978451684999,0.058090379367153035,False,Right Foot,Open Play,0,0,3,Normal
+3900546,David Ducourtioux,Gazélec Ajaccio,30.602287496198713,0.06673062364469555,False,Right Foot,Open Play,0,0,1,Normal
+3900546,Mohamed Larbi,Gazélec Ajaccio,25.317977802344327,0.06343551940653962,False,Right Foot,Open Play,1,0,1,Normal
+3900546,John Tshibumbu,Gazélec Ajaccio,11.337107214805723,0.0566701359886325,True,Right Foot,Open Play,1,0,3,Volley
+3900546,Yacine Bammou,Nantes,20.52315765178448,0.0652561785764594,False,Right Foot,Open Play,0,1,2,Normal
+3900546,Jacques Zoua Daogari,Gazélec Ajaccio,25.71244834705556,0.06617565850438774,False,Right Foot,Open Play,0,0,3,Normal
+3900546,Mohamed Larbi,Gazélec Ajaccio,33.22228167961977,0.0729505403464864,False,Right Foot,Open Play,0,0,1,Normal
+3900546,Jacques Zoua Daogari,Gazélec Ajaccio,11.943617542436627,0.06080760749237316,False,Head,Open Play,0,1,2,Normal

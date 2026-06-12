@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.107876816009153,0.05616041887348285,False,Left Foot,Free Kick,0,0,0,Normal
-29.420061182805178,0.06312580094843111,False,Left Foot,Open Play,0,1,2,Normal
-16.954350474140853,0.05972613172708646,False,Left Foot,Open Play,1,0,1,Volley
-32.14358411876311,0.06487394446818223,False,Right Foot,Open Play,1,0,1,Volley
-31.933054974430497,0.07418062451584022,False,Right Foot,Open Play,1,0,1,Half Volley
-30.61061907247222,0.06961559810615789,False,Right Foot,Open Play,0,0,2,Normal
-16.727522231340775,0.06365026199066334,False,Left Foot,Open Play,1,1,1,Normal
-29.97081914129141,0.06505893322411258,False,Left Foot,Open Play,0,0,1,Normal
-9.192388155425125,0.05633275649309143,False,Head,Open Play,0,0,1,Normal
-25.61444904736387,0.06882200051919309,False,Right Foot,Open Play,0,1,1,Normal
-25.381883302859933,0.06928123564251393,False,Left Foot,Open Play,0,0,2,Normal
-35.217183305880674,0.07130296410772904,False,Right Foot,Free Kick,0,0,0,Normal
-26.4578910724192,0.058195395366268506,False,Right Foot,Open Play,1,0,0,Normal
-26.953663943887115,0.06723227443034137,False,Right Foot,Open Play,0,0,2,Normal
-5.728001396647874,0.05745615915260397,False,Head,Open Play,0,1,3,Normal
-19.309324172533845,0.06521386949488163,False,Right Foot,Open Play,0,1,2,Normal
-40.08104290060327,0.07769408433381568,False,Right Foot,Open Play,0,0,1,Normal
-36.119939091864474,0.07186403822621154,False,Right Foot,Open Play,1,0,0,Normal
-10.823123393919152,0.059957821258671544,True,Left Foot,Open Play,0,1,2,Half Volley
-25.70311265197272,0.0655760240352865,False,Left Foot,Open Play,0,1,2,Normal
-11.531695452100703,0.05307017073727685,False,Right Foot,Open Play,1,0,1,Half Volley
-14.189080308462557,0.05909305886592708,False,Right Foot,Open Play,0,0,2,Half Volley
-32.879933089956246,0.07427559668689797,False,Left Foot,Open Play,0,0,1,Normal
-21.73660507070964,0.06144622577513031,False,Left Foot,Open Play,0,1,2,Normal
-8.692525524840292,0.05681617181416337,False,Left Foot,Open Play,1,0,1,Normal
-33.203162499978816,0.05379376541099412,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879618,Paulo Bruno Exequiel Dybala,Juventus,31.107876816009153,0.05616041887348285,False,Left Foot,Free Kick,0,0,0,Normal
+3879618,Anderson Hernanes de Carvalho Andrade,Juventus,29.420061182805178,0.06312580094843111,False,Left Foot,Open Play,0,1,2,Normal
+3879618,Juraj Kucka,AC Milan,16.954350474140853,0.05972613172708646,False,Left Foot,Open Play,1,0,1,Volley
+3879618,Claudio Marchisio,Juventus,32.14358411876311,0.06487394446818223,False,Right Foot,Open Play,1,0,1,Volley
+3879618,M''Baye Babacar Niang,AC Milan,31.933054974430497,0.07418062451584022,False,Right Foot,Open Play,1,0,1,Half Volley
+3879618,Giacomo Bonaventura,AC Milan,30.61061907247222,0.06961559810615789,False,Right Foot,Open Play,0,0,2,Normal
+3879618,Anderson Hernanes de Carvalho Andrade,Juventus,16.727522231340775,0.06365026199066334,False,Left Foot,Open Play,1,1,1,Normal
+3879618,Claudio Marchisio,Juventus,29.97081914129141,0.06505893322411258,False,Left Foot,Open Play,0,0,1,Normal
+3879618,Alessio Cerci,AC Milan,9.192388155425125,0.05633275649309143,False,Head,Open Play,0,0,1,Normal
+3879618,Paul Pogba,Juventus,25.61444904736387,0.06882200051919309,False,Right Foot,Open Play,0,1,1,Normal
+3879618,Anderson Hernanes de Carvalho Andrade,Juventus,25.381883302859933,0.06928123564251393,False,Left Foot,Open Play,0,0,2,Normal
+3879618,Anderson Hernanes de Carvalho Andrade,Juventus,35.217183305880674,0.07130296410772904,False,Right Foot,Free Kick,0,0,0,Normal
+3879618,Juraj Kucka,AC Milan,26.4578910724192,0.058195395366268506,False,Right Foot,Open Play,1,0,0,Normal
+3879618,Giacomo Bonaventura,AC Milan,26.953663943887115,0.06723227443034137,False,Right Foot,Open Play,0,0,2,Normal
+3879618,Juraj Kucka,AC Milan,5.728001396647874,0.05745615915260397,False,Head,Open Play,0,1,3,Normal
+3879618,Alex Sandro Lobo Silva,Juventus,19.309324172533845,0.06521386949488163,False,Right Foot,Open Play,0,1,2,Normal
+3879618,Paul Pogba,Juventus,40.08104290060327,0.07769408433381568,False,Right Foot,Open Play,0,0,1,Normal
+3879618,Leonardo Bonucci,Juventus,36.119939091864474,0.07186403822621154,False,Right Foot,Open Play,1,0,0,Normal
+3879618,Paulo Bruno Exequiel Dybala,Juventus,10.823123393919152,0.059957821258671544,True,Left Foot,Open Play,0,1,2,Half Volley
+3879618,Paulo Bruno Exequiel Dybala,Juventus,25.70311265197272,0.0655760240352865,False,Left Foot,Open Play,0,1,2,Normal
+3879618,Stefano Sturaro,Juventus,11.531695452100703,0.05307017073727685,False,Right Foot,Open Play,1,0,1,Half Volley
+3879618,Juraj Kucka,AC Milan,14.189080308462557,0.05909305886592708,False,Right Foot,Open Play,0,0,2,Half Volley
+3879618,Alex Sandro Lobo Silva,Juventus,32.879933089956246,0.07427559668689797,False,Left Foot,Open Play,0,0,1,Normal
+3879618,Andrea Barzagli,Juventus,21.73660507070964,0.06144622577513031,False,Left Foot,Open Play,0,1,2,Normal
+3879618,Mario Mandžukić,Juventus,8.692525524840292,0.05681617181416337,False,Left Foot,Open Play,1,0,1,Normal
+3879618,Alessio Cerci,AC Milan,33.203162499978816,0.05379376541099412,False,Left Foot,Open Play,0,0,1,Normal

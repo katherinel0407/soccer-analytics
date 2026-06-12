@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.61732102222128,0.06383424510550115,False,Right Foot,Open Play,1,0,2,Volley
-16.62077013859466,0.06302585668430442,False,Left Foot,Open Play,1,0,4,Normal
-34.695388742598055,0.06596459521673301,False,Right Foot,Open Play,0,0,0,Normal
-8.765842800324451,0.059182307971520826,False,Head,Open Play,0,0,1,Normal
-23.007824755939012,0.06476518694653981,False,Right Foot,Open Play,1,0,1,Normal
-32.70061161507534,0.07231515226247022,False,Left Foot,Free Kick,0,0,0,Normal
-31.849803767056404,0.07319165508946035,True,Right Foot,Free Kick,0,0,0,Normal
-29.543527209864436,0.05720675980451547,False,Right Foot,Free Kick,0,0,0,Normal
-27.78362827277964,0.0595126868752866,False,Left Foot,Open Play,0,1,1,Normal
-14.028898745090435,0.06009776886987173,True,Right Foot,Open Play,0,0,4,Normal
-26.43671689147501,0.0631473733763731,False,Right Foot,Open Play,0,1,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-25.10239032442927,0.06903256223944433,False,Right Foot,Open Play,1,0,3,Normal
-20.400000000000006,0.06327571257555778,False,Right Foot,Open Play,0,1,5,Normal
-12.791403363196713,0.06132163587515116,True,Left Foot,Open Play,0,0,2,Half Volley
-19.293781381574743,0.06352895405345156,False,Right Foot,Open Play,1,0,2,Half Volley
-26.217742084321443,0.05844758443119594,False,Left Foot,Open Play,0,0,2,Normal
-6.664082832618454,0.05805011528969844,False,Left Foot,Open Play,0,1,3,Normal
-20.59053180469121,0.06563974222315992,False,Right Foot,Free Kick,0,0,0,Normal
-19.41391253714717,0.06529862756292706,False,Left Foot,Open Play,0,0,1,Half Volley
-8.329465769183518,0.05830369940538864,True,Right Foot,Open Play,1,0,1,Half Volley
-23.726145915424187,0.05254315628067772,False,Left Foot,Open Play,0,0,2,Normal
-27.22811047428742,0.05373118109557018,False,Right Foot,Open Play,0,0,0,Normal
-20.223748416156685,0.06578465505267238,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879790,Mario Mandžukić,Juventus,17.61732102222128,0.06383424510550115,False,Right Foot,Open Play,1,0,2,Volley
+3879790,Paulo Bruno Exequiel Dybala,Juventus,16.62077013859466,0.06302585668430442,False,Left Foot,Open Play,1,0,4,Normal
+3879790,Sami Khedira,Juventus,34.695388742598055,0.06596459521673301,False,Right Foot,Open Play,0,0,0,Normal
+3879790,Marco Benassi,Torino,8.765842800324451,0.059182307971520826,False,Head,Open Play,0,0,1,Normal
+3879790,Marco Benassi,Torino,23.007824755939012,0.06476518694653981,False,Right Foot,Open Play,1,0,1,Normal
+3879790,Paulo Bruno Exequiel Dybala,Juventus,32.70061161507534,0.07231515226247022,False,Left Foot,Free Kick,0,0,0,Normal
+3879790,Paul Pogba,Juventus,31.849803767056404,0.07319165508946035,True,Right Foot,Free Kick,0,0,0,Normal
+3879790,Paul Pogba,Juventus,29.543527209864436,0.05720675980451547,False,Right Foot,Free Kick,0,0,0,Normal
+3879790,Stephan Lichtsteiner,Juventus,27.78362827277964,0.0595126868752866,False,Left Foot,Open Play,0,1,1,Normal
+3879790,Sami Khedira,Juventus,14.028898745090435,0.06009776886987173,True,Right Foot,Open Play,0,0,4,Normal
+3879790,Marco Benassi,Torino,26.43671689147501,0.0631473733763731,False,Right Foot,Open Play,0,1,3,Normal
+3879790,Andrea Belotti,Torino,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879790,Paul Pogba,Juventus,25.10239032442927,0.06903256223944433,False,Right Foot,Open Play,1,0,3,Normal
+3879790,Bruno da Silva Peres,Torino,20.400000000000006,0.06327571257555778,False,Right Foot,Open Play,0,1,5,Normal
+3879790,Álvaro Borja Morata Martín,Juventus,12.791403363196713,0.06132163587515116,True,Left Foot,Open Play,0,0,2,Half Volley
+3879790,Marco Benassi,Torino,19.293781381574743,0.06352895405345156,False,Right Foot,Open Play,1,0,2,Half Volley
+3879790,Bruno da Silva Peres,Torino,26.217742084321443,0.05844758443119594,False,Left Foot,Open Play,0,0,2,Normal
+3879790,Maximiliano Gastón López,Torino,6.664082832618454,0.05805011528969844,False,Left Foot,Open Play,0,1,3,Normal
+3879790,Paul Pogba,Juventus,20.59053180469121,0.06563974222315992,False,Right Foot,Free Kick,0,0,0,Normal
+3879790,Paul Pogba,Juventus,19.41391253714717,0.06529862756292706,False,Left Foot,Open Play,0,0,1,Half Volley
+3879790,Álvaro Borja Morata Martín,Juventus,8.329465769183518,0.05830369940538864,True,Right Foot,Open Play,1,0,1,Half Volley
+3879790,Andrea Belotti,Torino,23.726145915424187,0.05254315628067772,False,Left Foot,Open Play,0,0,2,Normal
+3879790,Davide Zappacosta,Torino,27.22811047428742,0.05373118109557018,False,Right Foot,Open Play,0,0,0,Normal
+3879790,Álvaro Borja Morata Martín,Juventus,20.223748416156685,0.06578465505267238,False,Right Foot,Open Play,0,0,1,Normal

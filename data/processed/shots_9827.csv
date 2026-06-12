@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.002272492535353,0.060306830236884566,False,Right Foot,Open Play,1,0,1,Normal
-10.020977996183811,0.054467300093503014,False,Right Foot,Open Play,1,0,1,Volley
-25.200992043965257,0.06279952184014838,False,Left Foot,Free Kick,0,0,0,Normal
-26.84026825499328,0.052241718746779,False,Left Foot,Open Play,1,0,0,Normal
-28.22941728056036,0.05759200426049595,False,Left Foot,Free Kick,0,0,0,Normal
-6.390618123468184,0.05391053904157735,False,Right Foot,Open Play,1,0,2,Overhead Kick
-20.695168518279818,0.06117472342228558,True,Left Foot,Free Kick,0,0,0,Normal
-25.710892633279,0.05497698894999286,False,Left Foot,Free Kick,0,0,0,Normal
-11.046266337545918,0.06033853257790996,False,Head,Open Play,0,1,2,Normal
-29.20992981847097,0.07173223072621851,False,Right Foot,Open Play,0,0,1,Half Volley
-9.296235797353683,0.057997251368028704,False,Left Foot,Open Play,0,0,2,Half Volley
-33.83784863137726,0.056381876494238335,False,Right Foot,Open Play,0,0,1,Half Volley
-13.576818478568535,0.061578383254220055,False,Left Foot,Open Play,1,0,2,Normal
-30.51769978225751,0.07305472919101809,False,Right Foot,Open Play,1,0,1,Half Volley
-17.669465187152664,0.0640918875355237,False,Right Foot,Open Play,0,0,2,Normal
-9.52102935611481,0.05450288479574638,False,Head,Open Play,0,1,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-29.45674795356745,0.07152715933125592,False,Right Foot,Free Kick,0,0,0,Normal
-15.205262246998569,0.0619912435574946,False,Right Foot,Open Play,0,0,1,Half Volley
-13.375350462698167,0.060425697068249844,False,Left Foot,Open Play,1,0,1,Volley
-24.41311123146741,0.06476128543057523,False,Left Foot,Free Kick,0,0,0,Normal
-28.400352110493277,0.05765321258254766,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9827,Luis Alberto Suárez Díaz,Barcelona,11.002272492535353,0.060306830236884566,False,Right Foot,Open Play,1,0,1,Normal
+9827,Luis Alberto Suárez Díaz,Barcelona,10.020977996183811,0.054467300093503014,False,Right Foot,Open Play,1,0,1,Volley
+9827,Lionel Andrés Messi Cuccittini,Barcelona,25.200992043965257,0.06279952184014838,False,Left Foot,Free Kick,0,0,0,Normal
+9827,Alen Halilović,Las Palmas,26.84026825499328,0.052241718746779,False,Left Foot,Open Play,1,0,0,Normal
+9827,Alen Halilović,Las Palmas,28.22941728056036,0.05759200426049595,False,Left Foot,Free Kick,0,0,0,Normal
+9827,Matías Aguirregaray Guruceaga,Las Palmas,6.390618123468184,0.05391053904157735,False,Right Foot,Open Play,1,0,2,Overhead Kick
+9827,Lionel Andrés Messi Cuccittini,Barcelona,20.695168518279818,0.06117472342228558,True,Left Foot,Free Kick,0,0,0,Normal
+9827,Alen Halilović,Las Palmas,25.710892633279,0.05497698894999286,False,Left Foot,Free Kick,0,0,0,Normal
+9827,Jonathan Calleri,Las Palmas,11.046266337545918,0.06033853257790996,False,Head,Open Play,0,1,2,Normal
+9827,Oghenekaro Etebo,Las Palmas,29.20992981847097,0.07173223072621851,False,Right Foot,Open Play,0,0,1,Half Volley
+9827,Jonathan Calleri,Las Palmas,9.296235797353683,0.057997251368028704,False,Left Foot,Open Play,0,0,2,Half Volley
+9827,Oghenekaro Etebo,Las Palmas,33.83784863137726,0.056381876494238335,False,Right Foot,Open Play,0,0,1,Half Volley
+9827,Lionel Andrés Messi Cuccittini,Barcelona,13.576818478568535,0.061578383254220055,False,Left Foot,Open Play,1,0,2,Normal
+9827,José Vicente Gómez Umpiérrez,Las Palmas,30.51769978225751,0.07305472919101809,False,Right Foot,Open Play,1,0,1,Half Volley
+9827,Andrés Iniesta Luján,Barcelona,17.669465187152664,0.0640918875355237,False,Right Foot,Open Play,0,0,2,Normal
+9827,Matías Aguirregaray Guruceaga,Las Palmas,9.52102935611481,0.05450288479574638,False,Head,Open Play,0,1,3,Normal
+9827,Jonathan Calleri,Las Palmas,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+9827,Alejandro Gálvez Jimena,Las Palmas,29.45674795356745,0.07152715933125592,False,Right Foot,Free Kick,0,0,0,Normal
+9827,Luis Alberto Suárez Díaz,Barcelona,15.205262246998569,0.0619912435574946,False,Right Foot,Open Play,0,0,1,Half Volley
+9827,Luis Alberto Suárez Díaz,Barcelona,13.375350462698167,0.060425697068249844,False,Left Foot,Open Play,1,0,1,Volley
+9827,Lionel Andrés Messi Cuccittini,Barcelona,24.41311123146741,0.06476128543057523,False,Left Foot,Free Kick,0,0,0,Normal
+9827,Ousmane Dembélé,Barcelona,28.400352110493277,0.05765321258254766,False,Left Foot,Open Play,0,0,2,Normal

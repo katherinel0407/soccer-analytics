@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.0,0.06841505094823175,False,Right Foot,Open Play,0,0,2,Normal
-21.840329667841555,0.06080399497245784,False,Right Foot,Open Play,1,0,0,Normal
-34.36568055487916,0.07300535338652209,False,Right Foot,Open Play,0,0,1,Normal
-21.95449840010015,0.051937129414315136,False,Right Foot,Open Play,0,0,2,Normal
-27.018512172212592,0.06589130279848567,False,Right Foot,Open Play,0,0,0,Half Volley
-25.495097567963924,0.06887913452042413,False,Right Foot,Open Play,1,0,0,Normal
-7.0710678118654755,0.05723344719965163,False,Head,Open Play,0,0,2,Diving Header
-15.652475842498529,0.06294022363571763,False,Left Foot,Open Play,0,0,2,Normal
-13.341664064126334,0.061092502800491146,False,Head,Open Play,0,0,2,Normal
-24.839484696748443,0.053247091485699546,False,Right Foot,Open Play,1,0,1,Normal
-18.35755975068582,0.06462474310610325,False,Right Foot,Open Play,1,0,2,Half Volley
-29.832867780352597,0.06349619784366002,False,Right Foot,Open Play,0,0,2,Normal
-20.808652046684813,0.053009418856979185,False,Left Foot,Open Play,0,0,1,Normal
-32.01562118716424,0.06833659189421724,False,Right Foot,Open Play,0,0,2,Normal
-20.615528128088304,0.06311871266174329,False,Right Foot,Open Play,0,0,4,Normal
-13.416407864998739,0.06165241593599438,False,Head,Open Play,0,0,2,Normal
-8.94427190999916,0.05661065938655103,False,Head,Open Play,0,0,3,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-13.416407864998739,0.057362925007345696,False,Head,Open Play,0,0,2,Normal
-16.97056274847714,0.055018037838245354,False,Left Foot,Open Play,0,0,4,Normal
-14.0,0.060438191179105843,False,Head,Open Play,0,0,2,Normal
-35.73513677041127,0.0764013710866167,False,Right Foot,Open Play,0,0,1,Normal
-15.0,0.056201941967494215,False,Right Foot,Open Play,0,0,1,Normal
-15.0,0.05407336265679737,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7529,Alex Iwobi,Nigeria,31.0,0.06841505094823175,False,Right Foot,Open Play,0,0,2,Normal
+7529,Ivan Perišić,Croatia,21.840329667841555,0.06080399497245784,False,Right Foot,Open Play,1,0,0,Normal
+7529,Andrej Kramarić,Croatia,34.36568055487916,0.07300535338652209,False,Right Foot,Open Play,0,0,1,Normal
+7529,Odion Jude Ighalo,Nigeria,21.95449840010015,0.051937129414315136,False,Right Foot,Open Play,0,0,2,Normal
+7529,Oghenekaro Etebo,Nigeria,27.018512172212592,0.06589130279848567,False,Right Foot,Open Play,0,0,0,Half Volley
+7529,Ante Rebić,Croatia,25.495097567963924,0.06887913452042413,False,Right Foot,Open Play,1,0,0,Normal
+7529,Mario Mandžukić,Croatia,7.0710678118654755,0.05723344719965163,False,Head,Open Play,0,0,2,Diving Header
+7529,Odion Jude Ighalo,Nigeria,15.652475842498529,0.06294022363571763,False,Left Foot,Open Play,0,0,2,Normal
+7529,Andrej Kramarić,Croatia,13.341664064126334,0.061092502800491146,False,Head,Open Play,0,0,2,Normal
+7529,Šime Vrsaljko,Croatia,24.839484696748443,0.053247091485699546,False,Right Foot,Open Play,1,0,1,Normal
+7529,Alex Iwobi,Nigeria,18.35755975068582,0.06462474310610325,False,Right Foot,Open Play,1,0,2,Half Volley
+7529,Victor Moses,Nigeria,29.832867780352597,0.06349619784366002,False,Right Foot,Open Play,0,0,2,Normal
+7529,Victor Moses,Nigeria,20.808652046684813,0.053009418856979185,False,Left Foot,Open Play,0,0,1,Normal
+7529,Ivan Rakitić,Croatia,32.01562118716424,0.06833659189421724,False,Right Foot,Open Play,0,0,2,Normal
+7529,Alex Iwobi,Nigeria,20.615528128088304,0.06311871266174329,False,Right Foot,Open Play,0,0,4,Normal
+7529,Odion Jude Ighalo,Nigeria,13.416407864998739,0.06165241593599438,False,Head,Open Play,0,0,2,Normal
+7529,Mario Mandžukić,Croatia,8.94427190999916,0.05661065938655103,False,Head,Open Play,0,0,3,Normal
+7529,Luka Modrić,Croatia,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7529,Dejan Lovren,Croatia,13.416407864998739,0.057362925007345696,False,Head,Open Play,0,0,2,Normal
+7529,Kelechi Promise Iheanacho,Nigeria,16.97056274847714,0.055018037838245354,False,Left Foot,Open Play,0,0,4,Normal
+7529,Leon Aderemi Balogun,Nigeria,14.0,0.060438191179105843,False,Head,Open Play,0,0,2,Normal
+7529,Oghenekaro Etebo,Nigeria,35.73513677041127,0.0764013710866167,False,Right Foot,Open Play,0,0,1,Normal
+7529,Victor Moses,Nigeria,15.0,0.056201941967494215,False,Right Foot,Open Play,0,0,1,Normal
+7529,Mateo Kovačić,Croatia,15.0,0.05407336265679737,False,Right Foot,Open Play,0,0,1,Normal

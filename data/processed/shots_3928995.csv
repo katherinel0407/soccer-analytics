@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.370739817896055,0.06718790574370104,False,Left Foot,Open Play,0,0,2,Normal
-11.580155439371266,0.05605509768820732,False,Right Foot,Open Play,1,1,4,Normal
-6.7911707385398525,0.057899320788286315,False,Right Foot,Open Play,1,1,2,Normal
-19.52075818199693,0.05463121559967355,False,Left Foot,Open Play,0,0,2,Normal
-11.837651794169316,0.060099981204331035,False,Right Foot,Open Play,0,1,3,Normal
-14.749237268414934,0.06143224732110059,False,Left Foot,Open Play,0,0,2,Normal
-26.791789787171737,0.06455294717448423,False,Right Foot,Open Play,1,1,1,Normal
-34.1621135177553,0.07553530982130491,False,Right Foot,Open Play,0,0,1,Normal
-38.16346420334506,0.07062031843855299,False,Right Foot,Free Kick,0,0,0,Normal
-26.331919793285113,0.06017121097982592,False,Right Foot,Open Play,0,0,1,Normal
-37.5479693192588,0.0681754963687788,False,Right Foot,Free Kick,0,0,0,Normal
-21.284031572989168,0.054731893175299556,False,Right Foot,Open Play,0,0,1,Normal
-18.14662503056698,0.06434646683973373,False,Left Foot,Open Play,1,0,1,Normal
-29.56518222504303,0.05521079032239731,False,Left Foot,Free Kick,0,0,0,Normal
-28.20283673675398,0.052915289433964036,False,Right Foot,Open Play,0,1,1,Normal
-33.976756761056514,0.07467683312411107,False,Right Foot,Open Play,0,0,0,Normal
-17.34416328336423,0.06400182703780015,False,Left Foot,Open Play,0,0,2,Normal
-9.183681179135084,0.05940163837348506,False,Right Foot,Open Play,1,1,3,Volley
-9.716995420396163,0.058814551140994646,False,Left Foot,Open Play,1,0,1,Half Volley
-30.72100258780628,0.07235546776254533,False,Right Foot,Open Play,0,0,2,Normal
-15.268922686293225,0.057250156671307555,True,Right Foot,Open Play,0,0,2,Normal
-10.53612832116238,0.060012715930654915,False,Left Foot,Open Play,1,0,2,Volley
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-21.05825253908785,0.05947641962767179,False,Right Foot,Open Play,1,0,2,Volley
-25.71225388798111,0.06691183805157566,False,Right Foot,Open Play,1,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3928995,Eva Schatzer,Sampdoria W,22.370739817896055,0.06718790574370104,False,Left Foot,Open Play,0,0,2,Normal
+3928995,Michela Giordano,Sampdoria W,11.580155439371266,0.05605509768820732,False,Right Foot,Open Play,1,1,4,Normal
+3928995,Elisabetta Oliviero,Sampdoria W,6.7911707385398525,0.057899320788286315,False,Right Foot,Open Play,1,1,2,Normal
+3928995,Sara Baldi,Sampdoria W,19.52075818199693,0.05463121559967355,False,Left Foot,Open Play,0,0,2,Normal
+3928995,Elisa del Estal Mateu,Napoli W,11.837651794169316,0.060099981204331035,False,Right Foot,Open Play,0,1,3,Normal
+3928995,Alice Giai,Napoli W,14.749237268414934,0.06143224732110059,False,Left Foot,Open Play,0,0,2,Normal
+3928995,Valentina Gallazzi,Napoli W,26.791789787171737,0.06455294717448423,False,Right Foot,Open Play,1,1,1,Normal
+3928995,Veronica Battelani,Sampdoria W,34.1621135177553,0.07553530982130491,False,Right Foot,Open Play,0,0,1,Normal
+3928995,Veronica Battelani,Sampdoria W,38.16346420334506,0.07062031843855299,False,Right Foot,Free Kick,0,0,0,Normal
+3928995,Sara Baldi,Sampdoria W,26.331919793285113,0.06017121097982592,False,Right Foot,Open Play,0,0,1,Normal
+3928995,Marija Banušić,Napoli W,37.5479693192588,0.0681754963687788,False,Right Foot,Free Kick,0,0,0,Normal
+3928995,Alice Corelli,Napoli W,21.284031572989168,0.054731893175299556,False,Right Foot,Open Play,0,0,1,Normal
+3928995,Gina-Maria Chmielinski,Napoli W,18.14662503056698,0.06434646683973373,False,Left Foot,Open Play,1,0,1,Normal
+3928995,Eva Schatzer,Sampdoria W,29.56518222504303,0.05521079032239731,False,Left Foot,Free Kick,0,0,0,Normal
+3928995,Sara Baldi,Sampdoria W,28.20283673675398,0.052915289433964036,False,Right Foot,Open Play,0,1,1,Normal
+3928995,Elisabetta Oliviero,Sampdoria W,33.976756761056514,0.07467683312411107,False,Right Foot,Open Play,0,0,0,Normal
+3928995,Alice Corelli,Napoli W,17.34416328336423,0.06400182703780015,False,Left Foot,Open Play,0,0,2,Normal
+3928995,Gina-Maria Chmielinski,Napoli W,9.183681179135084,0.05940163837348506,False,Right Foot,Open Play,1,1,3,Volley
+3928995,Marija Banušić,Napoli W,9.716995420396163,0.058814551140994646,False,Left Foot,Open Play,1,0,1,Half Volley
+3928995,Sara Baldi,Sampdoria W,30.72100258780628,0.07235546776254533,False,Right Foot,Open Play,0,0,2,Normal
+3928995,Paloma Lázaro Torres del Molino,Napoli W,15.268922686293225,0.057250156671307555,True,Right Foot,Open Play,0,0,2,Normal
+3928995,Giada Lopez,Sampdoria W,10.53612832116238,0.060012715930654915,False,Left Foot,Open Play,1,0,2,Volley
+3928995,Elisa del Estal Mateu,Napoli W,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3928995,Cecilia Re,Sampdoria W,21.05825253908785,0.05947641962767179,False,Right Foot,Open Play,1,0,2,Volley
+3928995,Nora Heroum,Sampdoria W,25.71225388798111,0.06691183805157566,False,Right Foot,Open Play,1,1,1,Half Volley

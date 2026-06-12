@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-53.87884557040917,0.05536824204709355,False,Right Foot,Open Play,1,0,0,Normal
-26.878430013674535,0.07011463497435387,False,Left Foot,Open Play,1,0,1,Volley
-10.307764064044152,0.055740750725747044,False,Right Foot,Open Play,1,0,1,Normal
-7.684399781375252,0.05834955216441129,False,Head,Open Play,0,1,5,Normal
-6.815423684555492,0.05644624931928616,False,Head,Open Play,0,1,5,Normal
-30.81833869630224,0.05764583217656738,False,Left Foot,Free Kick,0,0,0,Normal
-16.08011193990887,0.06251947604280376,False,Left Foot,Open Play,1,0,1,Normal
-8.015609770940705,0.05845745913411468,False,Head,Open Play,0,0,2,Normal
-7.924645102463576,0.05741326662814975,True,Left Foot,Open Play,1,0,2,Overhead Kick
-8.489994110716454,0.058746165138055834,True,Right Foot,Open Play,1,0,1,Volley
-27.783808234293588,0.057572008377803234,False,Left Foot,Free Kick,0,0,0,Normal
-14.5,0.0620648977705442,True,Right Foot,Open Play,0,0,2,Normal
-12.656223765404908,0.06122987801733691,False,Head,Open Play,0,0,1,Normal
-12.731849826321392,0.06021217041821739,False,Head,Open Play,0,1,1,Normal
-24.563590942694027,0.05244360661911122,False,Right Foot,Open Play,0,0,1,Half Volley
-17.3219513912261,0.05832496819749618,False,Right Foot,Open Play,0,0,0,Normal
-25.52645686341918,0.06937806631090422,False,Left Foot,Open Play,0,0,1,Normal
-9.196738552334734,0.05934316727090252,False,Head,Open Play,0,0,1,Normal
-18.958902921846505,0.055179224860250085,False,Right Foot,Open Play,0,0,1,Normal
-18.140011025354973,0.06446102465831856,False,Left Foot,Open Play,0,0,2,Normal
-13.200378782444087,0.06006034147833397,False,Head,Open Play,0,1,3,Normal
-12.841339493993605,0.057068373143224764,False,Right Foot,Open Play,0,0,2,Half Volley
-22.989780338228545,0.06688305375535371,False,Right Foot,Open Play,0,0,0,Normal
-23.363646975590086,0.06286334860533853,False,Left Foot,Open Play,1,0,0,Half Volley
-26.534694269955324,0.06318926520153127,False,Right Foot,Open Play,0,0,1,Half Volley
-24.999599996799944,0.05872788773269404,True,Left Foot,Free Kick,0,0,0,Normal
-7.782673062643714,0.05863523839467181,False,Right Foot,Open Play,1,0,1,Normal
-25.465466812921377,0.06917365131567377,False,Left Foot,Open Play,0,0,0,Lob
-29.464045886469833,0.0625417668271419,False,Left Foot,Open Play,0,0,2,Normal
-14.983324063771693,0.06256661974851735,False,Right Foot,Open Play,0,0,2,Half Volley
-24.700809703327543,0.06539179175441079,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303473,Luis Alberto Suárez Díaz,Barcelona,53.87884557040917,0.05536824204709355,False,Right Foot,Open Play,1,0,0,Normal
+303473,Éver Maximiliano David Banega,Sevilla,26.878430013674535,0.07011463497435387,False,Left Foot,Open Play,1,0,1,Volley
+303473,Luuk de Jong,Sevilla,10.307764064044152,0.055740750725747044,False,Right Foot,Open Play,1,0,1,Normal
+303473,Fernando Francisco Reges,Sevilla,7.684399781375252,0.05834955216441129,False,Head,Open Play,0,1,5,Normal
+303473,Lucas Ariel Ocampos,Sevilla,6.815423684555492,0.05644624931928616,False,Head,Open Play,0,1,5,Normal
+303473,Lionel Andrés Messi Cuccittini,Barcelona,30.81833869630224,0.05764583217656738,False,Left Foot,Free Kick,0,0,0,Normal
+303473,Lionel Andrés Messi Cuccittini,Barcelona,16.08011193990887,0.06251947604280376,False,Left Foot,Open Play,1,0,1,Normal
+303473,Luuk de Jong,Sevilla,8.015609770940705,0.05845745913411468,False,Head,Open Play,0,0,2,Normal
+303473,Luis Alberto Suárez Díaz,Barcelona,7.924645102463576,0.05741326662814975,True,Left Foot,Open Play,1,0,2,Overhead Kick
+303473,Arturo Erasmo Vidal Pardo,Barcelona,8.489994110716454,0.058746165138055834,True,Right Foot,Open Play,1,0,1,Volley
+303473,Lionel Andrés Messi Cuccittini,Barcelona,27.783808234293588,0.057572008377803234,False,Left Foot,Free Kick,0,0,0,Normal
+303473,Ousmane Dembélé,Barcelona,14.5,0.0620648977705442,True,Right Foot,Open Play,0,0,2,Normal
+303473,Manuel Agudo Durán,Sevilla,12.656223765404908,0.06122987801733691,False,Head,Open Play,0,0,1,Normal
+303473,Luuk de Jong,Sevilla,12.731849826321392,0.06021217041821739,False,Head,Open Play,0,1,1,Normal
+303473,Lucas Ariel Ocampos,Sevilla,24.563590942694027,0.05244360661911122,False,Right Foot,Open Play,0,0,1,Half Volley
+303473,Luuk de Jong,Sevilla,17.3219513912261,0.05832496819749618,False,Right Foot,Open Play,0,0,0,Normal
+303473,Sergio Reguilón Rodríguez,Sevilla,25.52645686341918,0.06937806631090422,False,Left Foot,Open Play,0,0,1,Normal
+303473,Daniel Filipe Martins Carriço,Sevilla,9.196738552334734,0.05934316727090252,False,Head,Open Play,0,0,1,Normal
+303473,Lucas Ariel Ocampos,Sevilla,18.958902921846505,0.055179224860250085,False,Right Foot,Open Play,0,0,1,Normal
+303473,Lionel Andrés Messi Cuccittini,Barcelona,18.140011025354973,0.06446102465831856,False,Left Foot,Open Play,0,0,2,Normal
+303473,Gerard Piqué Bernabéu,Barcelona,13.200378782444087,0.06006034147833397,False,Head,Open Play,0,1,3,Normal
+303473,Ousmane Dembélé,Barcelona,12.841339493993605,0.057068373143224764,False,Right Foot,Open Play,0,0,2,Half Volley
+303473,Éver Maximiliano David Banega,Sevilla,22.989780338228545,0.06688305375535371,False,Right Foot,Open Play,0,0,0,Normal
+303473,Munir El Haddadi Mohamed,Sevilla,23.363646975590086,0.06286334860533853,False,Left Foot,Open Play,1,0,0,Half Volley
+303473,Ivan Rakitić,Barcelona,26.534694269955324,0.06318926520153127,False,Right Foot,Open Play,0,0,1,Half Volley
+303473,Lionel Andrés Messi Cuccittini,Barcelona,24.999599996799944,0.05872788773269404,True,Left Foot,Free Kick,0,0,0,Normal
+303473,Javier Hernández Balcázar,Sevilla,7.782673062643714,0.05863523839467181,False,Right Foot,Open Play,1,0,1,Normal
+303473,Ivan Rakitić,Barcelona,25.465466812921377,0.06917365131567377,False,Left Foot,Open Play,0,0,0,Lob
+303473,Lionel Andrés Messi Cuccittini,Barcelona,29.464045886469833,0.0625417668271419,False,Left Foot,Open Play,0,0,2,Normal
+303473,Luis Alberto Suárez Díaz,Barcelona,14.983324063771693,0.06256661974851735,False,Right Foot,Open Play,0,0,2,Half Volley
+303473,Joan Jordán Moreno,Sevilla,24.700809703327543,0.06539179175441079,False,Right Foot,Free Kick,0,0,0,Normal

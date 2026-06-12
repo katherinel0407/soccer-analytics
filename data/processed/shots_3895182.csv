@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.848076824970764,0.05900155444231037,False,Right Foot,Open Play,0,1,2,Normal
-14.480676779764128,0.06229767026112578,False,Right Foot,Open Play,0,0,3,Normal
-13.138112497615472,0.06042076444652639,False,Left Foot,Open Play,0,1,4,Half Volley
-23.916939603552965,0.06447921657465053,False,Left Foot,Open Play,0,0,1,Half Volley
-10.840664186294118,0.06027625024391413,False,Head,Open Play,0,1,6,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-15.081445554057472,0.0596515560114887,True,Left Foot,Open Play,1,0,1,Normal
-19.321490625725538,0.056431171862385776,False,Right Foot,Open Play,1,0,3,Normal
-4.775981574503822,0.057058215756728786,False,Head,Open Play,0,1,5,Normal
-14.80033783398203,0.06082043840868102,False,Left Foot,Open Play,0,0,3,Normal
-20.415925156602626,0.06127384833812699,False,Right Foot,Open Play,0,0,2,Normal
-9.166242414424785,0.058763348999850945,False,Right Foot,Open Play,1,0,3,Normal
-6.053924347066128,0.05587745535323206,True,Head,Open Play,0,1,6,Normal
-9.982484660644369,0.05546090724568792,False,Head,Open Play,0,1,2,Normal
-16.710774967068406,0.0597293333960888,False,Right Foot,Open Play,1,1,2,Normal
-14.873466307488652,0.054696856642339566,True,Right Foot,Open Play,0,0,0,Normal
-14.771932845772085,0.0584654254748483,False,Right Foot,Open Play,0,0,2,Normal
-3.9924929555354285,0.05671416415925436,False,Head,Open Play,0,0,6,Normal
-10.316006979447033,0.059515331817666044,False,Left Foot,Open Play,1,0,4,Normal
-20.478281177872326,0.06113814252225804,False,Right Foot,Open Play,1,0,3,Half Volley
-17.887705274852898,0.06434758151438995,False,Left Foot,Open Play,0,0,1,Half Volley
-17.084495895401773,0.05781297182151949,False,Right Foot,Open Play,1,0,3,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895182,Christopher Antwi-Adjej,Bochum,18.848076824970764,0.05900155444231037,False,Right Foot,Open Play,0,1,2,Normal
+3895182,Florian Wirtz,Bayer Leverkusen,14.480676779764128,0.06229767026112578,False,Right Foot,Open Play,0,0,3,Normal
+3895182,Gonçalo Mendes Paciencia,Bochum,13.138112497615472,0.06042076444652639,False,Left Foot,Open Play,0,1,4,Half Volley
+3895182,Matúš Bero,Bochum,23.916939603552965,0.06447921657465053,False,Left Foot,Open Play,0,0,1,Half Volley
+3895182,Bernardo Fernandes da Silva Junior,Bochum,10.840664186294118,0.06027625024391413,False,Head,Open Play,0,1,6,Normal
+3895182,Patrik Schick,Bayer Leverkusen,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3895182,Patrik Schick,Bayer Leverkusen,15.081445554057472,0.0596515560114887,True,Left Foot,Open Play,1,0,1,Normal
+3895182,Jeremie Frimpong,Bayer Leverkusen,19.321490625725538,0.056431171862385776,False,Right Foot,Open Play,1,0,3,Normal
+3895182,Piero Martín Hincapié Reyna,Bayer Leverkusen,4.775981574503822,0.057058215756728786,False,Head,Open Play,0,1,5,Normal
+3895182,Patrik Schick,Bayer Leverkusen,14.80033783398203,0.06082043840868102,False,Left Foot,Open Play,0,0,3,Normal
+3895182,Jonas Hofmann,Bayer Leverkusen,20.415925156602626,0.06127384833812699,False,Right Foot,Open Play,0,0,2,Normal
+3895182,Alejandro Grimaldo García,Bayer Leverkusen,9.166242414424785,0.058763348999850945,False,Right Foot,Open Play,1,0,3,Normal
+3895182,Patrik Schick,Bayer Leverkusen,6.053924347066128,0.05587745535323206,True,Head,Open Play,0,1,6,Normal
+3895182,Anthony Losilla,Bochum,9.982484660644369,0.05546090724568792,False,Head,Open Play,0,1,2,Normal
+3895182,Jonas Hofmann,Bayer Leverkusen,16.710774967068406,0.0597293333960888,False,Right Foot,Open Play,1,1,2,Normal
+3895182,Victor Okoh Boniface,Bayer Leverkusen,14.873466307488652,0.054696856642339566,True,Right Foot,Open Play,0,0,0,Normal
+3895182,Adam Hložek,Bayer Leverkusen,14.771932845772085,0.0584654254748483,False,Right Foot,Open Play,0,0,2,Normal
+3895182,Adam Hložek,Bayer Leverkusen,3.9924929555354285,0.05671416415925436,False,Head,Open Play,0,0,6,Normal
+3895182,Edmond Fayçal Tapsoba,Bayer Leverkusen,10.316006979447033,0.059515331817666044,False,Left Foot,Open Play,1,0,4,Normal
+3895182,Gustavo Adolfo Puerta Molano,Bayer Leverkusen,20.478281177872326,0.06113814252225804,False,Right Foot,Open Play,1,0,3,Half Volley
+3895182,Patrick Osterhage,Bochum,17.887705274852898,0.06434758151438995,False,Left Foot,Open Play,0,0,1,Half Volley
+3895182,Jeremie Frimpong,Bayer Leverkusen,17.084495895401773,0.05781297182151949,False,Right Foot,Open Play,1,0,3,Lob

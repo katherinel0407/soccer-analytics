@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.628935030318273,0.05914046531812624,False,Head,Open Play,0,0,4,Normal
-8.24924238945614,0.0583280674021788,False,Head,Open Play,0,0,5,Normal
-3.9115214431215946,0.05643896047209886,False,Head,Open Play,0,1,5,Normal
-21.311499243366242,0.06400345884039205,False,Left Foot,Open Play,1,1,2,Normal
-39.924553848477764,0.07211358360097632,False,Left Foot,Free Kick,0,0,0,Normal
-20.623530250662714,0.06385038593588517,False,Left Foot,Open Play,0,0,3,Half Volley
-21.703916697223107,0.06653684842838213,False,Right Foot,Open Play,1,1,2,Half Volley
-19.915069670980323,0.06084801060086596,False,Right Foot,Open Play,0,0,3,Normal
-16.417673403987546,0.06342229613670404,False,Right Foot,Open Play,1,1,2,Normal
-36.39189470197999,0.07404602793735181,False,Right Foot,Open Play,0,0,2,Normal
-32.92795165205391,0.07106495575022952,False,Left Foot,Free Kick,0,0,0,Normal
-11.97747886660628,0.052996919211715544,True,Left Foot,Open Play,0,0,1,Normal
-16.285576440519378,0.0584784057890588,False,Head,Open Play,0,0,3,Normal
-14.509651959988565,0.0554532909878821,False,Head,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-36.81426354010087,0.07589746529322473,False,Left Foot,Free Kick,0,0,0,Normal
-21.010711553871758,0.061793261265498965,False,Right Foot,Open Play,0,0,2,Normal
-10.56787585089833,0.05386294485471026,False,Left Foot,Open Play,1,0,1,Volley
-25.49450921276972,0.06928922010091366,False,Left Foot,Open Play,0,1,1,Normal
-35.065224938676785,0.07257531059685837,False,Right Foot,Free Kick,0,0,0,Normal
-15.058552387264854,0.06265055177902981,False,Right Foot,Open Play,0,1,3,Normal
-10.744766167767455,0.057977840936814,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3922244,Amadou Haïdara,Mali,12.628935030318273,0.05914046531812624,False,Head,Open Play,0,0,4,Normal
+3922244,Edmond Fayçal Tapsoba,Burkina Faso,8.24924238945614,0.0583280674021788,False,Head,Open Play,0,0,5,Normal
+3922244,Issoufou Dayo,Burkina Faso,3.9115214431215946,0.05643896047209886,False,Head,Open Play,0,1,5,Normal
+3922244,Adama Traoré,Mali,21.311499243366242,0.06400345884039205,False,Left Foot,Open Play,1,1,2,Normal
+3922244,Bertrand Isidore Traoré,Burkina Faso,39.924553848477764,0.07211358360097632,False,Left Foot,Free Kick,0,0,0,Normal
+3922244,Lassine Sinayoko,Mali,20.623530250662714,0.06385038593588517,False,Left Foot,Open Play,0,0,3,Half Volley
+3922244,Amadou Haïdara,Mali,21.703916697223107,0.06653684842838213,False,Right Foot,Open Play,1,1,2,Half Volley
+3922244,Kamory Doumbia,Mali,19.915069670980323,0.06084801060086596,False,Right Foot,Open Play,0,0,3,Normal
+3922244,Lassine Sinayoko,Mali,16.417673403987546,0.06342229613670404,False,Right Foot,Open Play,1,1,2,Normal
+3922244,Amadou Haïdara,Mali,36.39189470197999,0.07404602793735181,False,Right Foot,Open Play,0,0,2,Normal
+3922244,Adama Traoré,Mali,32.92795165205391,0.07106495575022952,False,Left Foot,Free Kick,0,0,0,Normal
+3922244,Lassine Sinayoko,Mali,11.97747886660628,0.052996919211715544,True,Left Foot,Open Play,0,0,1,Normal
+3922244,Mohamed Konaté,Burkina Faso,16.285576440519378,0.0584784057890588,False,Head,Open Play,0,0,3,Normal
+3922244,Mohamed Konaté,Burkina Faso,14.509651959988565,0.0554532909878821,False,Head,Open Play,0,0,2,Normal
+3922244,Bertrand Isidore Traoré,Burkina Faso,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3922244,Adama Traoré,Mali,36.81426354010087,0.07589746529322473,False,Left Foot,Free Kick,0,0,0,Normal
+3922244,Kamory Doumbia,Mali,21.010711553871758,0.061793261265498965,False,Right Foot,Open Play,0,0,2,Normal
+3922244,Mohamed Konaté,Burkina Faso,10.56787585089833,0.05386294485471026,False,Left Foot,Open Play,1,0,1,Volley
+3922244,Mohamed Camara,Mali,25.49450921276972,0.06928922010091366,False,Left Foot,Open Play,0,1,1,Normal
+3922244,Kamory Doumbia,Mali,35.065224938676785,0.07257531059685837,False,Right Foot,Free Kick,0,0,0,Normal
+3922244,Sekou Koita,Mali,15.058552387264854,0.06265055177902981,False,Right Foot,Open Play,0,1,3,Normal
+3922244,Mohamed Konaté,Burkina Faso,10.744766167767455,0.057977840936814,False,Head,Open Play,0,1,3,Normal

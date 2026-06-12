@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.69181067831028,0.07168598733906859,False,Right Foot,Open Play,1,0,1,Half Volley
-24.63574638609515,0.06347702441889075,False,Left Foot,Open Play,0,0,1,Normal
-13.86001443000692,0.06108355313658045,False,Head,Open Play,0,1,4,Normal
-31.260358283295474,0.059234165168827756,False,Left Foot,Open Play,0,0,3,Normal
-12.983451005029446,0.06141053714922527,False,Left Foot,Open Play,0,1,2,Normal
-27.370056631289607,0.07065600404097624,False,Right Foot,Free Kick,0,0,0,Normal
-18.31747799234381,0.06198782043624396,False,Left Foot,Open Play,0,0,2,Half Volley
-17.839843048636943,0.05706733058953599,False,Right Foot,Open Play,1,0,2,Half Volley
-4.318564576337838,0.05691689968445325,False,Head,Open Play,0,1,6,Normal
-26.299239532731743,0.06983052866162584,False,Left Foot,Open Play,0,0,2,Normal
-17.80365131089687,0.05129323784858974,False,Right Foot,Open Play,1,0,1,Normal
-7.409453421137078,0.05601946919496622,False,Head,Open Play,0,1,5,Normal
-26.881220210399682,0.0697682725756679,False,Left Foot,Open Play,1,0,0,Volley
-19.093978108293726,0.05502374298997571,False,Right Foot,Open Play,0,0,0,Normal
-15.153877391611692,0.0625317233002928,True,Left Foot,Open Play,1,0,1,Normal
-11.846096403457132,0.05420835225302811,False,Left Foot,Open Play,0,1,2,Half Volley
-21.4347848134755,0.06620575331515839,False,Left Foot,Open Play,0,0,3,Normal
-8.956003573022965,0.057979535617611856,False,Head,Open Play,0,0,1,Normal
-12.258874336577561,0.06045884488137836,False,Left Foot,Open Play,1,0,2,Volley
-17.90670265570968,0.055359970938079664,False,Right Foot,Open Play,0,0,3,Half Volley
-33.95055227827671,0.04991070437562916,False,Left Foot,Open Play,0,1,3,Volley
-9.871676655968827,0.055670199782939356,False,Head,Open Play,0,1,3,Normal
-29.63798238747031,0.0532093684976425,False,Left Foot,Open Play,0,0,2,Normal
-20.577900767571023,0.0655358688932971,False,Left Foot,Open Play,1,0,2,Normal
-27.520356102347215,0.07045201750378481,False,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825787,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28.69181067831028,0.07168598733906859,False,Right Foot,Open Play,1,0,1,Half Volley
+3825787,Augusto Matías Fernández,Atlético Madrid,24.63574638609515,0.06347702441889075,False,Left Foot,Open Play,0,0,1,Normal
+3825787,Raphaël Varane,Real Madrid,13.86001443000692,0.06108355313658045,False,Head,Open Play,0,1,4,Normal
+3825787,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31.260358283295474,0.059234165168827756,False,Left Foot,Open Play,0,0,3,Normal
+3825787,Fernando José Torres Sanz,Atlético Madrid,12.983451005029446,0.06141053714922527,False,Left Foot,Open Play,0,1,2,Normal
+3825787,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,27.370056631289607,0.07065600404097624,False,Right Foot,Free Kick,0,0,0,Normal
+3825787,James David Rodríguez Rubio,Real Madrid,18.31747799234381,0.06198782043624396,False,Left Foot,Open Play,0,0,2,Half Volley
+3825787,Karim Benzema,Real Madrid,17.839843048636943,0.05706733058953599,False,Right Foot,Open Play,1,0,2,Half Volley
+3825787,José María Giménez de Vargas,Atlético Madrid,4.318564576337838,0.05691689968445325,False,Head,Open Play,0,1,6,Normal
+3825787,Antoine Griezmann,Atlético Madrid,26.299239532731743,0.06983052866162584,False,Left Foot,Open Play,0,0,2,Normal
+3825787,Jorge Resurrección Merodio,Atlético Madrid,17.80365131089687,0.05129323784858974,False,Right Foot,Open Play,1,0,1,Normal
+3825787,Diego Roberto Godín Leal,Atlético Madrid,7.409453421137078,0.05601946919496622,False,Head,Open Play,0,1,5,Normal
+3825787,Toni Kroos,Real Madrid,26.881220210399682,0.0697682725756679,False,Left Foot,Open Play,1,0,0,Volley
+3825787,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,19.093978108293726,0.05502374298997571,False,Right Foot,Open Play,0,0,0,Normal
+3825787,Antoine Griezmann,Atlético Madrid,15.153877391611692,0.0625317233002928,True,Left Foot,Open Play,1,0,1,Normal
+3825787,Saúl Ñíguez Esclapez,Atlético Madrid,11.846096403457132,0.05420835225302811,False,Left Foot,Open Play,0,1,2,Half Volley
+3825787,Borja Mayoral Moya,Real Madrid,21.4347848134755,0.06620575331515839,False,Left Foot,Open Play,0,0,3,Normal
+3825787,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8.956003573022965,0.057979535617611856,False,Head,Open Play,0,0,1,Normal
+3825787,Borja Mayoral Moya,Real Madrid,12.258874336577561,0.06045884488137836,False,Left Foot,Open Play,1,0,2,Volley
+3825787,Luka Modrić,Real Madrid,17.90670265570968,0.055359970938079664,False,Right Foot,Open Play,0,0,3,Half Volley
+3825787,Saúl Ñíguez Esclapez,Atlético Madrid,33.95055227827671,0.04991070437562916,False,Left Foot,Open Play,0,1,3,Volley
+3825787,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9.871676655968827,0.055670199782939356,False,Head,Open Play,0,1,3,Normal
+3825787,Antoine Griezmann,Atlético Madrid,29.63798238747031,0.0532093684976425,False,Left Foot,Open Play,0,0,2,Normal
+3825787,Danilo Luiz da Silva,Real Madrid,20.577900767571023,0.0655358688932971,False,Left Foot,Open Play,1,0,2,Normal
+3825787,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,27.520356102347215,0.07045201750378481,False,Right Foot,Open Play,0,0,1,Half Volley

@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.306502346320823,0.05992707014555663,False,Left Foot,Open Play,0,0,1,Normal
-14.165097952361641,0.061646843018361486,False,Right Foot,Open Play,1,1,3,Normal
-17.702259742756002,0.06277965402723436,False,Left Foot,Open Play,1,0,2,Half Volley
-8.697700845625812,0.059052871317692116,False,Head,Open Play,0,1,4,Normal
-8.005623023850172,0.05544673167746405,False,Head,Open Play,0,1,4,Normal
-33.05525676802406,0.0712975427299136,False,Right Foot,Open Play,1,0,1,Normal
-16.351758315239373,0.06281908354612396,False,Left Foot,Open Play,0,1,2,Normal
-18.831091311976586,0.06483160866945399,True,Right Foot,Open Play,0,1,4,Normal
-30.140504308985943,0.06570677462933715,False,Left Foot,Open Play,0,0,0,Normal
-24.416797496805348,0.061077904357873046,False,Right Foot,Open Play,1,1,1,Half Volley
-17.216561793807724,0.06258784568077182,False,Right Foot,Open Play,0,0,3,Normal
-20.160357139693733,0.05333296860647336,False,Left Foot,Open Play,0,0,1,Normal
-20.32461561752153,0.06504437371069151,True,Right Foot,Free Kick,0,0,0,Normal
-25.992498917957075,0.06343695727690717,False,Right Foot,Open Play,0,0,2,Normal
-25.500196077677526,0.06800389355374885,True,Right Foot,Open Play,0,1,1,Normal
-12.081390648431169,0.057890862734488756,False,Head,Open Play,0,1,4,Normal
-13.43018987207553,0.05672552379823502,False,Right Foot,Open Play,0,0,1,Normal
-7.696752561957544,0.05650992538677187,False,Head,Open Play,0,1,5,Normal
-10.560303025955273,0.05591705145545944,False,Right Foot,Open Play,1,1,2,Volley
-32.03513695928269,0.06202315873800902,False,Right Foot,Open Play,0,0,1,Normal
-41.82690521661864,0.07533407182302511,False,Right Foot,Free Kick,0,0,0,Normal
-22.939267643061314,0.05942203521501463,False,Right Foot,Open Play,0,0,3,Normal
-28.1966310044303,0.058350716785650424,False,Left Foot,Open Play,0,0,1,Normal
-13.69707998078422,0.058546903759628954,False,Right Foot,Open Play,1,1,4,Normal
-22.68082890901476,0.06712136147924593,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890315,Levin Mete Öztunali,Werder Bremen,12.306502346320823,0.05992707014555663,False,Left Foot,Open Play,0,0,1,Normal
+3890315,Admir Mehmedi,Bayer Leverkusen,14.165097952361641,0.061646843018361486,False,Right Foot,Open Play,1,1,3,Normal
+3890315,Felix Kroos,Werder Bremen,17.702259742756002,0.06277965402723436,False,Left Foot,Open Play,1,0,2,Half Volley
+3890315,Jonathan Tah,Bayer Leverkusen,8.697700845625812,0.059052871317692116,False,Head,Open Play,0,1,4,Normal
+3890315,Jonathan Tah,Bayer Leverkusen,8.005623023850172,0.05544673167746405,False,Head,Open Play,0,1,4,Normal
+3890315,Zlatko Junuzović,Werder Bremen,33.05525676802406,0.0712975427299136,False,Right Foot,Open Play,1,0,1,Normal
+3890315,Anthony Ujah,Werder Bremen,16.351758315239373,0.06281908354612396,False,Left Foot,Open Play,0,1,2,Normal
+3890315,Admir Mehmedi,Bayer Leverkusen,18.831091311976586,0.06483160866945399,True,Right Foot,Open Play,0,1,4,Normal
+3890315,Lars Bender,Bayer Leverkusen,30.140504308985943,0.06570677462933715,False,Left Foot,Open Play,0,0,0,Normal
+3890315,Giulio Donati,Bayer Leverkusen,24.416797496805348,0.061077904357873046,False,Right Foot,Open Play,1,1,1,Half Volley
+3890315,Clemens Fritz,Werder Bremen,17.216561793807724,0.06258784568077182,False,Right Foot,Open Play,0,0,3,Normal
+3890315,Karim Bellarabi,Bayer Leverkusen,20.160357139693733,0.05333296860647336,False,Left Foot,Open Play,0,0,1,Normal
+3890315,Julian Brandt,Bayer Leverkusen,20.32461561752153,0.06504437371069151,True,Right Foot,Free Kick,0,0,0,Normal
+3890315,Anthony Ujah,Werder Bremen,25.992498917957075,0.06343695727690717,False,Right Foot,Open Play,0,0,2,Normal
+3890315,Kevin Kampl,Bayer Leverkusen,25.500196077677526,0.06800389355374885,True,Right Foot,Open Play,0,1,1,Normal
+3890315,Jannik Vestergaard,Werder Bremen,12.081390648431169,0.057890862734488756,False,Head,Open Play,0,1,4,Normal
+3890315,Kevin Kampl,Bayer Leverkusen,13.43018987207553,0.05672552379823502,False,Right Foot,Open Play,0,0,1,Normal
+3890315,Jonathan Tah,Bayer Leverkusen,7.696752561957544,0.05650992538677187,False,Head,Open Play,0,1,5,Normal
+3890315,Stefan Kießling,Bayer Leverkusen,10.560303025955273,0.05591705145545944,False,Right Foot,Open Play,1,1,2,Volley
+3890315,Theodor Gebre Selassie,Werder Bremen,32.03513695928269,0.06202315873800902,False,Right Foot,Open Play,0,0,1,Normal
+3890315,Hakan Çalhanoğlu,Bayer Leverkusen,41.82690521661864,0.07533407182302511,False,Right Foot,Free Kick,0,0,0,Normal
+3890315,Zlatko Junuzović,Werder Bremen,22.939267643061314,0.05942203521501463,False,Right Foot,Open Play,0,0,3,Normal
+3890315,Javier Hernández Balcázar,Bayer Leverkusen,28.1966310044303,0.058350716785650424,False,Left Foot,Open Play,0,0,1,Normal
+3890315,Javier Hernández Balcázar,Bayer Leverkusen,13.69707998078422,0.058546903759628954,False,Right Foot,Open Play,1,1,4,Normal
+3890315,Hakan Çalhanoğlu,Bayer Leverkusen,22.68082890901476,0.06712136147924593,False,Right Foot,Open Play,0,0,2,Normal

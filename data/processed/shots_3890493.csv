@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.761743664731046,0.060814927110210394,False,Left Foot,Open Play,0,0,2,Normal
-12.943724348115579,0.05895965381672977,False,Head,Open Play,0,1,4,Normal
-29.079889958526323,0.06061974901969785,False,Right Foot,Open Play,0,1,1,Normal
-15.383432646844463,0.0570550887910138,False,Left Foot,Open Play,0,0,3,Normal
-16.840427548016713,0.05619890764098296,False,Left Foot,Open Play,0,0,3,Normal
-22.03837562072123,0.06699778600479749,False,Right Foot,Open Play,0,0,1,Normal
-20.704105872990507,0.062026887055972764,False,Right Foot,Open Play,0,0,3,Normal
-18.278402556022225,0.06401815100944279,False,Left Foot,Open Play,1,0,0,Normal
-16.00781059358212,0.06315700820346386,False,Right Foot,Open Play,0,0,5,Normal
-23.323807579381203,0.06343794855709338,False,Left Foot,Open Play,0,0,1,Normal
-22.539742678211745,0.055387054714156156,False,Right Foot,Open Play,0,1,1,Normal
-27.557213211789026,0.06975051997789578,False,Right Foot,Open Play,0,0,0,Normal
-20.408331631958557,0.05921498352893064,False,Right Foot,Open Play,0,0,2,Normal
-23.007824755939012,0.06476518694653981,False,Left Foot,Open Play,1,0,1,Volley
-5.825804665451805,0.054894836859647696,False,Right Foot,Open Play,1,0,2,Volley
-20.419843290289958,0.061541184480528165,False,Right Foot,Open Play,1,0,1,Normal
-15.311760186209817,0.061993801598166434,False,Left Foot,Open Play,0,0,1,Normal
-21.444113411377028,0.0664857472173887,False,Right Foot,Open Play,0,0,1,Normal
-25.684431081883048,0.06943958153530111,False,Right Foot,Open Play,0,0,1,Normal
-25.78565492672234,0.0668167475663852,False,Left Foot,Open Play,0,0,2,Normal
-16.0878836395593,0.05309256364252116,False,Left Foot,Open Play,0,0,1,Normal
-21.132202914036192,0.05938463907580226,False,Right Foot,Open Play,1,0,1,Normal
-16.06549096666517,0.06215181221100031,True,Right Foot,Open Play,0,0,2,Normal
-23.363646975590086,0.06286334860533853,False,Right Foot,Open Play,0,0,1,Normal
-24.108089928486663,0.059628002526241085,True,Left Foot,Open Play,0,0,0,Normal
-27.684833393033085,0.06889923460174947,False,Right Foot,Free Kick,0,0,0,Normal
-7.3109506905736925,0.05754539477977405,False,Head,Open Play,0,1,5,Normal
-5.636488268416785,0.0542565817957934,False,Right Foot,Open Play,1,0,3,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890493,Raffael Caetano de Araújo,Borussia Mönchengladbach,20.761743664731046,0.060814927110210394,False,Left Foot,Open Play,0,0,2,Normal
+3890493,Joël Andre Job Matip,Schalke 04,12.943724348115579,0.05895965381672977,False,Head,Open Play,0,1,4,Normal
+3890493,Alessandro Schöpf,Schalke 04,29.079889958526323,0.06061974901969785,False,Right Foot,Open Play,0,1,1,Normal
+3890493,Thorgan Hazard,Borussia Mönchengladbach,15.383432646844463,0.0570550887910138,False,Left Foot,Open Play,0,0,3,Normal
+3890493,Thorgan Hazard,Borussia Mönchengladbach,16.840427548016713,0.05619890764098296,False,Left Foot,Open Play,0,0,3,Normal
+3890493,Pierre-Emile Højbjerg,Schalke 04,22.03837562072123,0.06699778600479749,False,Right Foot,Open Play,0,0,1,Normal
+3890493,Lars Edi Stindl,Borussia Mönchengladbach,20.704105872990507,0.062026887055972764,False,Right Foot,Open Play,0,0,3,Normal
+3890493,Fabian Johnson,Borussia Mönchengladbach,18.278402556022225,0.06401815100944279,False,Left Foot,Open Play,1,0,0,Normal
+3890493,Raffael Caetano de Araújo,Borussia Mönchengladbach,16.00781059358212,0.06315700820346386,False,Right Foot,Open Play,0,0,5,Normal
+3890493,Max Meyer,Schalke 04,23.323807579381203,0.06343794855709338,False,Left Foot,Open Play,0,0,1,Normal
+3890493,Lars Edi Stindl,Borussia Mönchengladbach,22.539742678211745,0.055387054714156156,False,Right Foot,Open Play,0,1,1,Normal
+3890493,Franco Matías Di Santo,Schalke 04,27.557213211789026,0.06975051997789578,False,Right Foot,Open Play,0,0,0,Normal
+3890493,Raffael Caetano de Araújo,Borussia Mönchengladbach,20.408331631958557,0.05921498352893064,False,Right Foot,Open Play,0,0,2,Normal
+3890493,Mahmoud Dahoud,Borussia Mönchengladbach,23.007824755939012,0.06476518694653981,False,Left Foot,Open Play,1,0,1,Volley
+3890493,Lars Edi Stindl,Borussia Mönchengladbach,5.825804665451805,0.054894836859647696,False,Right Foot,Open Play,1,0,2,Volley
+3890493,Thorgan Hazard,Borussia Mönchengladbach,20.419843290289958,0.061541184480528165,False,Right Foot,Open Play,1,0,1,Normal
+3890493,Raffael Caetano de Araújo,Borussia Mönchengladbach,15.311760186209817,0.061993801598166434,False,Left Foot,Open Play,0,0,1,Normal
+3890493,Lars Edi Stindl,Borussia Mönchengladbach,21.444113411377028,0.0664857472173887,False,Right Foot,Open Play,0,0,1,Normal
+3890493,Mahmoud Dahoud,Borussia Mönchengladbach,25.684431081883048,0.06943958153530111,False,Right Foot,Open Play,0,0,1,Normal
+3890493,Granit Xhaka,Borussia Mönchengladbach,25.78565492672234,0.0668167475663852,False,Left Foot,Open Play,0,0,2,Normal
+3890493,Raffael Caetano de Araújo,Borussia Mönchengladbach,16.0878836395593,0.05309256364252116,False,Left Foot,Open Play,0,0,1,Normal
+3890493,Lars Edi Stindl,Borussia Mönchengladbach,21.132202914036192,0.05938463907580226,False,Right Foot,Open Play,1,0,1,Normal
+3890493,Andreas Christensen,Borussia Mönchengladbach,16.06549096666517,0.06215181221100031,True,Right Foot,Open Play,0,0,2,Normal
+3890493,Lars Edi Stindl,Borussia Mönchengladbach,23.363646975590086,0.06286334860533853,False,Right Foot,Open Play,0,0,1,Normal
+3890493,Leon Goretzka,Schalke 04,24.108089928486663,0.059628002526241085,True,Left Foot,Open Play,0,0,0,Normal
+3890493,Raffael Caetano de Araújo,Borussia Mönchengladbach,27.684833393033085,0.06889923460174947,False,Right Foot,Free Kick,0,0,0,Normal
+3890493,Andreas Christensen,Borussia Mönchengladbach,7.3109506905736925,0.05754539477977405,False,Head,Open Play,0,1,5,Normal
+3890493,Raffael Caetano de Araújo,Borussia Mönchengladbach,5.636488268416785,0.0542565817957934,False,Right Foot,Open Play,1,0,3,Volley

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.446189051177281,0.05691161881588742,False,Right Foot,Open Play,1,0,1,Half Volley
-23.855607307297795,0.05163808509347952,False,Right Foot,Open Play,0,0,1,Normal
-19.52050204272421,0.06531977650210988,False,Left Foot,Open Play,0,1,3,Normal
-19.307252523339514,0.06476572309418219,False,Left Foot,Open Play,1,0,1,Normal
-17.819371481620777,0.051948748325324874,False,Right Foot,Open Play,0,0,1,Normal
-24.329611587528476,0.06567899725094002,False,Left Foot,Open Play,0,0,4,Normal
-26.851629373280122,0.05723331891454699,False,Right Foot,Open Play,0,0,1,Half Volley
-28.217193340231418,0.05737654465351851,False,Right Foot,Open Play,0,0,1,Normal
-16.659531806146294,0.060592875050787094,False,Left Foot,Open Play,0,1,1,Normal
-36.76696887152923,0.06899370994387401,False,Right Foot,Open Play,0,0,1,Normal
-18.560711193270592,0.05293364016715578,False,Left Foot,Open Play,0,0,2,Normal
-27.35415873317986,0.06799585798016475,False,Left Foot,Open Play,1,0,1,Half Volley
-29.882436312991622,0.07257853850313314,False,Right Foot,Open Play,0,0,1,Normal
-21.024033866030564,0.0646877765011191,False,Left Foot,Open Play,1,0,1,Normal
-10.815729286552985,0.057724229923323975,False,Head,Open Play,0,1,4,Normal
-6.630987860040157,0.05800108163619261,False,Head,Open Play,0,1,5,Normal
-16.972919607421698,0.05870145785847457,False,Right Foot,Open Play,1,0,1,Normal
-25.255692427648857,0.06684682045578973,False,Right Foot,Open Play,1,0,1,Half Volley
-12.998846102635422,0.061134328616896744,False,Left Foot,Open Play,1,0,5,Volley
-19.34140636044856,0.0542563802022715,False,Right Foot,Open Play,0,0,2,Half Volley
-29.378393421016064,0.0647971234051955,False,Left Foot,Free Kick,0,0,0,Normal
-32.88677545762126,0.07135801761939134,False,Right Foot,Open Play,0,0,1,Normal
-22.578751072634635,0.056788217752564374,False,Right Foot,Open Play,1,0,1,Normal
-16.69730517179344,0.06113112435175959,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825735,Roberto Soldado Rillo,Villarreal,13.446189051177281,0.05691161881588742,False,Right Foot,Open Play,1,0,1,Half Volley
+3825735,Foued Kadir,Real Betis,23.855607307297795,0.05163808509347952,False,Right Foot,Open Play,0,0,1,Normal
+3825735,Foued Kadir,Real Betis,19.52050204272421,0.06531977650210988,False,Left Foot,Open Play,0,1,3,Normal
+3825735,Rubén Castro Martín,Real Betis,19.307252523339514,0.06476572309418219,False,Left Foot,Open Play,1,0,1,Normal
+3825735,Rubén Castro Martín,Real Betis,17.819371481620777,0.051948748325324874,False,Right Foot,Open Play,0,0,1,Normal
+3825735,Cédric Bakambu,Villarreal,24.329611587528476,0.06567899725094002,False,Left Foot,Open Play,0,0,4,Normal
+3825735,Manuel Trigueros Muñoz,Villarreal,26.851629373280122,0.05723331891454699,False,Right Foot,Open Play,0,0,1,Half Volley
+3825735,Mario Gaspar Pérez Martínez,Villarreal,28.217193340231418,0.05737654465351851,False,Right Foot,Open Play,0,0,1,Normal
+3825735,Cédric Bakambu,Villarreal,16.659531806146294,0.060592875050787094,False,Left Foot,Open Play,0,1,1,Normal
+3825735,Petros Matheus dos Santos Araújo,Real Betis,36.76696887152923,0.06899370994387401,False,Right Foot,Open Play,0,0,1,Normal
+3825735,Fabián Ruiz Peña,Real Betis,18.560711193270592,0.05293364016715578,False,Left Foot,Open Play,0,0,2,Normal
+3825735,Juan Manuel Vargas Risco,Real Betis,27.35415873317986,0.06799585798016475,False,Left Foot,Open Play,1,0,1,Half Volley
+3825735,Álvaro Cejudo Carmona,Real Betis,29.882436312991622,0.07257853850313314,False,Right Foot,Open Play,0,0,1,Normal
+3825735,Juan Manuel Vargas Risco,Real Betis,21.024033866030564,0.0646877765011191,False,Left Foot,Open Play,1,0,1,Normal
+3825735,Bruno González Cabrera,Real Betis,10.815729286552985,0.057724229923323975,False,Head,Open Play,0,1,4,Normal
+3825735,Alfred John Momar N''Diaye,Real Betis,6.630987860040157,0.05800108163619261,False,Head,Open Play,0,1,5,Normal
+3825735,Jonathan dos Santos Ramírez,Villarreal,16.972919607421698,0.05870145785847457,False,Right Foot,Open Play,1,0,1,Normal
+3825735,Manuel Trigueros Muñoz,Villarreal,25.255692427648857,0.06684682045578973,False,Right Foot,Open Play,1,0,1,Half Volley
+3825735,Alfred John Momar N''Diaye,Real Betis,12.998846102635422,0.061134328616896744,False,Left Foot,Open Play,1,0,5,Volley
+3825735,Foued Kadir,Real Betis,19.34140636044856,0.0542563802022715,False,Right Foot,Open Play,0,0,2,Half Volley
+3825735,Bruno Soriano Llido,Villarreal,29.378393421016064,0.0647971234051955,False,Left Foot,Free Kick,0,0,0,Normal
+3825735,Alfred John Momar N''Diaye,Real Betis,32.88677545762126,0.07135801761939134,False,Right Foot,Open Play,0,0,1,Normal
+3825735,Petros Matheus dos Santos Araújo,Real Betis,22.578751072634635,0.056788217752564374,False,Right Foot,Open Play,1,0,1,Normal
+3825735,Adrián Marín Gómez,Villarreal,16.69730517179344,0.06113112435175959,False,Left Foot,Open Play,0,0,0,Normal

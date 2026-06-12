@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.904039579888602,0.057593774447871136,False,Head,Open Play,0,1,2,Normal
-29.82113344593059,0.0722480469898353,False,Right Foot,Open Play,0,0,1,Normal
-23.078344827998393,0.05718548185316622,False,Left Foot,Open Play,0,0,1,Normal
-14.132586458253142,0.052960374799379,False,Right Foot,Open Play,0,0,1,Normal
-10.825894882179481,0.05823485195731492,False,Head,Open Play,0,1,3,Normal
-16.446884203398525,0.05887722537225277,False,Right Foot,Open Play,1,0,2,Half Volley
-18.545619428857048,0.06186411893638868,False,Right Foot,Open Play,1,0,1,Normal
-9.881295461628499,0.05446803032601134,False,Right Foot,Open Play,1,0,1,Volley
-16.159517319524117,0.06294475950149664,False,Left Foot,Open Play,1,0,1,Normal
-16.714065932620937,0.06337707986181348,False,Head,Open Play,0,1,4,Normal
-29.4268584799669,0.05688130814957502,False,Right Foot,Open Play,0,1,1,Normal
-12.11032617232087,0.05981272836879897,False,Left Foot,Open Play,1,0,3,Normal
-13.188252348207472,0.05364180976732661,True,Right Foot,Open Play,0,0,2,Normal
-15.261061562027717,0.06274437988886816,False,Left Foot,Open Play,0,1,2,Normal
-14.490341610879991,0.057460814445604726,True,Right Foot,Open Play,1,0,1,Half Volley
-30.644412214953647,0.06503166359062476,False,Right Foot,Open Play,0,1,2,Normal
-8.590692637965818,0.05870141906368355,False,Other,Open Play,0,0,2,Normal
-8.37257427557379,0.058433887155790745,True,Head,Open Play,0,0,3,Normal
-25.428330656966065,0.05815052467193847,False,Left Foot,Open Play,0,0,1,Normal
-30.55912302406599,0.06707608894181834,False,Left Foot,Open Play,0,0,1,Normal
-26.740605827093745,0.07009370161172779,False,Left Foot,Open Play,0,0,1,Half Volley
-20.224984548819805,0.06581753449105439,False,Right Foot,Open Play,0,0,2,Normal
-14.616771189288013,0.061619743094613606,True,Left Foot,Open Play,1,0,1,Volley
-14.822280526288791,0.05905596304999021,False,Right Foot,Open Play,0,0,1,Lob
-23.262201099638016,0.06537174029406602,False,Left Foot,Open Play,1,0,2,Normal
-16.88075827680735,0.06371408595442185,False,Right Foot,Open Play,0,0,2,Normal
-13.708391590555038,0.05275500264414887,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825871,Pedro Bigas Rigo,Las Palmas,9.904039579888602,0.057593774447871136,False,Head,Open Play,0,1,2,Normal
+3825871,Willian José da Silva,Las Palmas,29.82113344593059,0.0722480469898353,False,Right Foot,Open Play,0,0,1,Normal
+3825871,Nabil El Zhar,Las Palmas,23.078344827998393,0.05718548185316622,False,Left Foot,Open Play,0,0,1,Normal
+3825871,Jonathan Viera Ramos,Las Palmas,14.132586458253142,0.052960374799379,False,Right Foot,Open Play,0,0,1,Normal
+3825871,Mauricio Lemos Merladet,Las Palmas,10.825894882179481,0.05823485195731492,False,Head,Open Play,0,1,3,Normal
+3825871,Willian José da Silva,Las Palmas,16.446884203398525,0.05887722537225277,False,Right Foot,Open Play,1,0,2,Half Volley
+3825871,Jorge Franco Alviz,Espanyol,18.545619428857048,0.06186411893638868,False,Right Foot,Open Play,1,0,1,Normal
+3825871,Hernán Arsenio Pérez González,Espanyol,9.881295461628499,0.05446803032601134,False,Right Foot,Open Play,1,0,1,Volley
+3825871,Marco Asensio Willemsen,Espanyol,16.159517319524117,0.06294475950149664,False,Left Foot,Open Play,1,0,1,Normal
+3825871,Mauricio Lemos Merladet,Las Palmas,16.714065932620937,0.06337707986181348,False,Head,Open Play,0,1,4,Normal
+3825871,Joan Jordán Moreno,Espanyol,29.4268584799669,0.05688130814957502,False,Right Foot,Open Play,0,1,1,Normal
+3825871,Marco Asensio Willemsen,Espanyol,12.11032617232087,0.05981272836879897,False,Left Foot,Open Play,1,0,3,Normal
+3825871,Nabil El Zhar,Las Palmas,13.188252348207472,0.05364180976732661,True,Right Foot,Open Play,0,0,2,Normal
+3825871,Willian José da Silva,Las Palmas,15.261061562027717,0.06274437988886816,False,Left Foot,Open Play,0,1,2,Normal
+3825871,Jonathan Viera Ramos,Las Palmas,14.490341610879991,0.057460814445604726,True,Right Foot,Open Play,1,0,1,Half Volley
+3825871,Papa Kouly Diop,Espanyol,30.644412214953647,0.06503166359062476,False,Right Foot,Open Play,0,1,2,Normal
+3825871,Gerard Moreno Balaguero,Espanyol,8.590692637965818,0.05870141906368355,False,Other,Open Play,0,0,2,Normal
+3825871,Pedro Bigas Rigo,Las Palmas,8.37257427557379,0.058433887155790745,True,Head,Open Play,0,0,3,Normal
+3825871,Marco Asensio Willemsen,Espanyol,25.428330656966065,0.05815052467193847,False,Left Foot,Open Play,0,0,1,Normal
+3825871,Mubarak Wakaso,Las Palmas,30.55912302406599,0.06707608894181834,False,Left Foot,Open Play,0,0,1,Normal
+3825871,Mubarak Wakaso,Las Palmas,26.740605827093745,0.07009370161172779,False,Left Foot,Open Play,0,0,1,Half Volley
+3825871,Jorge Franco Alviz,Espanyol,20.224984548819805,0.06581753449105439,False,Right Foot,Open Play,0,0,2,Normal
+3825871,Mubarak Wakaso,Las Palmas,14.616771189288013,0.061619743094613606,True,Left Foot,Open Play,1,0,1,Volley
+3825871,Hernán Arsenio Pérez González,Espanyol,14.822280526288791,0.05905596304999021,False,Right Foot,Open Play,0,0,1,Lob
+3825871,Willian José da Silva,Las Palmas,23.262201099638016,0.06537174029406602,False,Left Foot,Open Play,1,0,2,Normal
+3825871,Jorge Franco Alviz,Espanyol,16.88075827680735,0.06371408595442185,False,Right Foot,Open Play,0,0,2,Normal
+3825871,Hernán Arsenio Pérez González,Espanyol,13.708391590555038,0.05275500264414887,False,Right Foot,Open Play,1,0,1,Normal

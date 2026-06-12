@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.651352498616877,0.061477329732208624,False,Right Foot,Open Play,0,1,3,Normal
-34.53129015834769,0.05799421979888044,False,Left Foot,Open Play,0,0,0,Normal
-32.42606975876046,0.07458490936867453,False,Right Foot,Open Play,0,0,1,Normal
-14.446106741956465,0.06179782295348523,False,Left Foot,Open Play,1,0,2,Normal
-15.007331541616582,0.0624898811567861,False,Right Foot,Open Play,0,1,2,Normal
-11.205802068571447,0.05820925720867128,False,Head,Open Play,0,1,5,Normal
-22.655683613610073,0.055149397615408116,False,Right Foot,Open Play,0,0,1,Normal
-22.556817151362463,0.06734027289657808,False,Left Foot,Open Play,1,0,1,Half Volley
-24.826195842295295,0.06649843701670825,False,Left Foot,Open Play,1,1,1,Volley
-27.711549938608634,0.06717620929878328,False,Left Foot,Open Play,0,0,2,Normal
-5.336665625650538,0.05647833823273911,False,Left Foot,Open Play,0,0,5,Volley
-31.521738530734623,0.07387612606824395,False,Right Foot,Open Play,0,0,0,Normal
-32.79893290947131,0.06604854149033317,False,Left Foot,Open Play,0,0,1,Normal
-12.918978287774934,0.06138096817968899,False,Head,Open Play,0,1,2,Normal
-15.922625411658721,0.0629932102228738,False,Right Foot,Open Play,0,0,1,Normal
-19.191925385432278,0.06455374653854441,False,Right Foot,Open Play,0,0,2,Normal
-8.832326986700616,0.05893569934052797,False,Head,Open Play,0,1,3,Normal
-18.56071119327059,0.05710520092232713,False,Left Foot,Open Play,0,1,2,Normal
-29.579722784366997,0.05528764384203145,False,Right Foot,Open Play,0,0,1,Normal
-30.298844862469597,0.07052209070323211,False,Right Foot,Open Play,0,0,2,Normal
-17.348775172904855,0.06240142176158318,False,Right Foot,Open Play,0,0,2,Normal
-12.22865487287952,0.05457282674620682,False,Head,Open Play,0,0,1,Normal
-13.251792331605557,0.060781699684756066,False,Head,Open Play,0,0,3,Normal
-27.523444551872497,0.06470658478371463,False,Left Foot,Open Play,1,0,0,Normal
-12.599206324209472,0.05490879320093677,False,Left Foot,Open Play,1,0,1,Half Volley
-30.84493475434824,0.06551187101197904,False,Right Foot,Open Play,0,0,0,Normal
-21.062288574606516,0.05732914891272374,False,Left Foot,Open Play,0,1,4,Normal
-28.125788877825272,0.07126531503215945,False,Right Foot,Open Play,0,0,3,Normal
-10.065783625729292,0.05966517397933809,True,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878544,Jules Olivier Ntcham,Genoa,28.651352498616877,0.061477329732208624,False,Right Foot,Open Play,0,1,3,Normal
+3878544,Alberto Facundo Costa,Genoa,34.53129015834769,0.05799421979888044,False,Left Foot,Open Play,0,0,0,Normal
+3878544,Mato Jajalo,Palermo,32.42606975876046,0.07458490936867453,False,Right Foot,Open Play,0,0,1,Normal
+3878544,Goran Pandev,Genoa,14.446106741956465,0.06179782295348523,False,Left Foot,Open Play,1,0,2,Normal
+3878544,Goran Pandev,Genoa,15.007331541616582,0.0624898811567861,False,Right Foot,Open Play,0,1,2,Normal
+3878544,Sebastian De Maio,Genoa,11.205802068571447,0.05820925720867128,False,Head,Open Play,0,1,5,Normal
+3878544,Robin Quaison,Palermo,22.655683613610073,0.055149397615408116,False,Right Foot,Open Play,0,0,1,Normal
+3878544,Ivaylo Chochev,Palermo,22.556817151362463,0.06734027289657808,False,Left Foot,Open Play,1,0,1,Half Volley
+3878544,Giovanni Marchese,Genoa,24.826195842295295,0.06649843701670825,False,Left Foot,Open Play,1,1,1,Volley
+3878544,Franco Damián Vázquez,Palermo,27.711549938608634,0.06717620929878328,False,Left Foot,Open Play,0,0,2,Normal
+3878544,Luca Rigoni,Palermo,5.336665625650538,0.05647833823273911,False,Left Foot,Open Play,0,0,5,Volley
+3878544,Jules Olivier Ntcham,Genoa,31.521738530734623,0.07387612606824395,False,Right Foot,Open Play,0,0,0,Normal
+3878544,Alberto Facundo Costa,Genoa,32.79893290947131,0.06604854149033317,False,Left Foot,Open Play,0,0,1,Normal
+3878544,Franco Damián Vázquez,Palermo,12.918978287774934,0.06138096817968899,False,Head,Open Play,0,1,2,Normal
+3878544,Robin Quaison,Palermo,15.922625411658721,0.0629932102228738,False,Right Foot,Open Play,0,0,1,Normal
+3878544,Achraf Lazaar,Palermo,19.191925385432278,0.06455374653854441,False,Right Foot,Open Play,0,0,2,Normal
+3878544,Roberto Vitiello,Palermo,8.832326986700616,0.05893569934052797,False,Head,Open Play,0,1,3,Normal
+3878544,Andrea Rispoli,Palermo,18.56071119327059,0.05710520092232713,False,Left Foot,Open Play,0,1,2,Normal
+3878544,Andrea Rispoli,Palermo,29.579722784366997,0.05528764384203145,False,Right Foot,Open Play,0,0,1,Normal
+3878544,Jules Olivier Ntcham,Genoa,30.298844862469597,0.07052209070323211,False,Right Foot,Open Play,0,0,2,Normal
+3878544,Jules Olivier Ntcham,Genoa,17.348775172904855,0.06240142176158318,False,Right Foot,Open Play,0,0,2,Normal
+3878544,Aleksandar Trajkovski,Palermo,12.22865487287952,0.05457282674620682,False,Head,Open Play,0,0,1,Normal
+3878544,Mato Jajalo,Palermo,13.251792331605557,0.060781699684756066,False,Head,Open Play,0,0,3,Normal
+3878544,Franco Damián Vázquez,Palermo,27.523444551872497,0.06470658478371463,False,Left Foot,Open Play,1,0,0,Normal
+3878544,Andrea Rispoli,Palermo,12.599206324209472,0.05490879320093677,False,Left Foot,Open Play,1,0,1,Half Volley
+3878544,Oscar Hiljemark,Palermo,30.84493475434824,0.06551187101197904,False,Right Foot,Open Play,0,0,0,Normal
+3878544,Franco Damián Vázquez,Palermo,21.062288574606516,0.05732914891272374,False,Left Foot,Open Play,0,1,4,Normal
+3878544,Aleksandar Trajkovski,Palermo,28.125788877825272,0.07126531503215945,False,Right Foot,Open Play,0,0,3,Normal
+3878544,Abdelhamid El Kaoutari,Palermo,10.065783625729292,0.05966517397933809,True,Left Foot,Open Play,0,1,3,Normal

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.177799547179388,0.0609262287742071,False,Left Foot,Open Play,1,0,1,Half Volley
-22.24679752234015,0.06686500244097052,False,Left Foot,Open Play,0,0,1,Normal
-30.91957308890276,0.07325534592491535,False,Right Foot,Open Play,0,0,0,Normal
-26.483579818445996,0.06951952978416237,False,Right Foot,Open Play,1,0,2,Normal
-17.101169550647693,0.061868848731350484,False,Left Foot,Open Play,0,1,2,Normal
-12.757742747053655,0.06082411623934814,True,Right Foot,Open Play,1,0,3,Normal
-24.08754865070334,0.06345581619066348,False,Right Foot,Free Kick,0,0,0,Normal
-28.66810073932349,0.07163103965955019,False,Right Foot,Open Play,0,0,1,Normal
-23.52806834400139,0.06766552537384656,False,Left Foot,Free Kick,0,0,0,Normal
-18.009997223764362,0.06193929218484387,False,Left Foot,Open Play,0,0,1,Normal
-26.721714016881474,0.061178764396099046,False,Right Foot,Open Play,0,0,1,Normal
-28.654144551879398,0.07162827936459654,False,Left Foot,Open Play,0,0,1,Normal
-12.587692401707313,0.05453040184578111,False,Right Foot,Open Play,0,0,1,Normal
-21.973848092675976,0.05586301328075814,False,Right Foot,Open Play,1,0,2,Normal
-13.717871555019025,0.061692657704223705,False,Left Foot,Open Play,1,0,1,Normal
-26.76751762864835,0.06527986780003756,False,Right Foot,Free Kick,0,0,0,Normal
-28.13698633471609,0.07071393816043865,False,Right Foot,Open Play,0,0,2,Normal
-25.204959829366913,0.06748911586109371,False,Left Foot,Free Kick,0,0,0,Normal
-10.632027088001614,0.05985663406629808,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266603,Javier Guerra Rodríguez,Real Valladolid,14.177799547179388,0.0609262287742071,False,Left Foot,Open Play,1,0,1,Half Volley
+266603,Lionel Andrés Messi Cuccittini,Barcelona,22.24679752234015,0.06686500244097052,False,Left Foot,Open Play,0,0,1,Normal
+266603,Adriano Correia Claro,Barcelona,30.91957308890276,0.07325534592491535,False,Right Foot,Open Play,0,0,0,Normal
+266603,Fausto Rossi,Real Valladolid,26.483579818445996,0.06951952978416237,False,Right Foot,Open Play,1,0,2,Normal
+266603,Javier Guerra Rodríguez,Real Valladolid,17.101169550647693,0.061868848731350484,False,Left Foot,Open Play,0,1,2,Normal
+266603,Fausto Rossi,Real Valladolid,12.757742747053655,0.06082411623934814,True,Right Foot,Open Play,1,0,3,Normal
+266603,Fausto Rossi,Real Valladolid,24.08754865070334,0.06345581619066348,False,Right Foot,Free Kick,0,0,0,Normal
+266603,Neymar da Silva Santos Junior,Barcelona,28.66810073932349,0.07163103965955019,False,Right Foot,Open Play,0,0,1,Normal
+266603,Lionel Andrés Messi Cuccittini,Barcelona,23.52806834400139,0.06766552537384656,False,Left Foot,Free Kick,0,0,0,Normal
+266603,Lionel Andrés Messi Cuccittini,Barcelona,18.009997223764362,0.06193929218484387,False,Left Foot,Open Play,0,0,1,Normal
+266603,Francesc Fàbregas i Soler,Barcelona,26.721714016881474,0.061178764396099046,False,Right Foot,Open Play,0,0,1,Normal
+266603,Adriano Correia Claro,Barcelona,28.654144551879398,0.07162827936459654,False,Left Foot,Open Play,0,0,1,Normal
+266603,Lionel Andrés Messi Cuccittini,Barcelona,12.587692401707313,0.05453040184578111,False,Right Foot,Open Play,0,0,1,Normal
+266603,Francesc Fàbregas i Soler,Barcelona,21.973848092675976,0.05586301328075814,False,Right Foot,Open Play,1,0,2,Normal
+266603,Neymar da Silva Santos Junior,Barcelona,13.717871555019025,0.061692657704223705,False,Left Foot,Open Play,1,0,1,Normal
+266603,Jesús Rueda Ambrosio,Real Valladolid,26.76751762864835,0.06527986780003756,False,Right Foot,Free Kick,0,0,0,Normal
+266603,Pedro Eliezer Rodríguez Ledesma,Barcelona,28.13698633471609,0.07071393816043865,False,Right Foot,Open Play,0,0,2,Normal
+266603,Lionel Andrés Messi Cuccittini,Barcelona,25.204959829366913,0.06748911586109371,False,Left Foot,Free Kick,0,0,0,Normal
+266603,Óscar Javier González Marcos,Real Valladolid,10.632027088001614,0.05985663406629808,False,Right Foot,Open Play,1,0,1,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.080198235721506,0.05587512786557783,False,Left Foot,Open Play,1,0,2,Normal
-11.52475596270915,0.056633566104951794,False,Head,Open Play,0,1,3,Normal
-12.79453008124957,0.0613625722595529,False,Left Foot,Open Play,1,0,0,Volley
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-13.440610105199836,0.0583920949410185,False,Right Foot,Open Play,1,0,1,Volley
-10.11385188738692,0.05980884243547346,False,Right Foot,Open Play,0,1,2,Normal
-10.012492197250399,0.059603568364522116,False,Left Foot,Open Play,1,0,3,Normal
-9.84784240328814,0.05626923769776544,True,Left Foot,Open Play,1,1,1,Volley
-4.465422712353224,0.055517102052691385,False,Head,Open Play,0,1,7,Normal
-27.374805935385186,0.056862937586245395,False,Left Foot,Open Play,0,0,3,Half Volley
-31.939004367700633,0.07421777842440744,False,Right Foot,Open Play,0,0,1,Normal
-27.365123789232165,0.06983877629148179,False,Right Foot,Open Play,1,0,1,Volley
-21.740745157422733,0.06672916943876313,False,Right Foot,Open Play,0,0,2,Normal
-11.90378091196239,0.05965692143722722,True,Left Foot,Penalty,0,0,0,Normal
-9.794386147176347,0.059664318529679954,False,Head,Open Play,0,0,3,Normal
-13.250283015845355,0.0612937189912397,True,Left Foot,Open Play,0,0,3,Normal
-14.894629904767696,0.05299159651656982,False,Right Foot,Open Play,0,1,1,Normal
-24.04163056034261,0.06036497990322559,False,Right Foot,Open Play,0,0,1,Normal
-27.373162038756135,0.06550657789387358,False,Left Foot,Free Kick,0,0,0,Normal
-9.567131231461184,0.05552980127998961,False,Left Foot,Open Play,0,0,2,Normal
-17.940178371465535,0.06423417031532803,True,Right Foot,Open Play,1,0,2,Normal
-18.365728953678918,0.06400370679609599,False,Left Foot,Open Play,1,1,1,Normal
-20.402450833171972,0.06158627057335924,False,Left Foot,Open Play,1,0,0,Normal
-13.717871555019025,0.06057027923333701,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754166,Shinji Okazaki,Leicester City,9.080198235721506,0.05587512786557783,False,Left Foot,Open Play,1,0,2,Normal
+3754166,Marcin Ryszard Wasilewski,Leicester City,11.52475596270915,0.056633566104951794,False,Head,Open Play,0,1,3,Normal
+3754166,Ross Barkley,Everton,12.79453008124957,0.0613625722595529,False,Left Foot,Open Play,1,0,0,Volley
+3754166,Riyad Mahrez,Leicester City,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3754166,Romelu Lukaku Menama,Everton,13.440610105199836,0.0583920949410185,False,Right Foot,Open Play,1,0,1,Volley
+3754166,Ross Barkley,Everton,10.11385188738692,0.05980884243547346,False,Right Foot,Open Play,0,1,2,Normal
+3754166,Ross Barkley,Everton,10.012492197250399,0.059603568364522116,False,Left Foot,Open Play,1,0,3,Normal
+3754166,Romelu Lukaku Menama,Everton,9.84784240328814,0.05626923769776544,True,Left Foot,Open Play,1,1,1,Volley
+3754166,Romelu Lukaku Menama,Everton,4.465422712353224,0.055517102052691385,False,Head,Open Play,0,1,7,Normal
+3754166,Shinji Okazaki,Leicester City,27.374805935385186,0.056862937586245395,False,Left Foot,Open Play,0,0,3,Half Volley
+3754166,Andrew Philip King,Leicester City,31.939004367700633,0.07421777842440744,False,Right Foot,Open Play,0,0,1,Normal
+3754166,Christian Fuchs,Leicester City,27.365123789232165,0.06983877629148179,False,Right Foot,Open Play,1,0,1,Volley
+3754166,Jamie Vardy,Leicester City,21.740745157422733,0.06672916943876313,False,Right Foot,Open Play,0,0,2,Normal
+3754166,Riyad Mahrez,Leicester City,11.90378091196239,0.05965692143722722,True,Left Foot,Penalty,0,0,0,Normal
+3754166,Romelu Lukaku Menama,Everton,9.794386147176347,0.059664318529679954,False,Head,Open Play,0,0,3,Normal
+3754166,Shinji Okazaki,Leicester City,13.250283015845355,0.0612937189912397,True,Left Foot,Open Play,0,0,3,Normal
+3754166,Romelu Lukaku Menama,Everton,14.894629904767696,0.05299159651656982,False,Right Foot,Open Play,0,1,1,Normal
+3754166,Ross Barkley,Everton,24.04163056034261,0.06036497990322559,False,Right Foot,Open Play,0,0,1,Normal
+3754166,Romelu Lukaku Menama,Everton,27.373162038756135,0.06550657789387358,False,Left Foot,Free Kick,0,0,0,Normal
+3754166,Romelu Lukaku Menama,Everton,9.567131231461184,0.05552980127998961,False,Left Foot,Open Play,0,0,2,Normal
+3754166,Kevin Mirallas,Everton,17.940178371465535,0.06423417031532803,True,Right Foot,Open Play,1,0,2,Normal
+3754166,Gareth Barry,Everton,18.365728953678918,0.06400370679609599,False,Left Foot,Open Play,1,1,1,Normal
+3754166,Ross Barkley,Everton,20.402450833171972,0.06158627057335924,False,Left Foot,Open Play,1,0,0,Normal
+3754166,José Leonardo Ulloa,Leicester City,13.717871555019025,0.06057027923333701,False,Right Foot,Open Play,0,0,2,Normal

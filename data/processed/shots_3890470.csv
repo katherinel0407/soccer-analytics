@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.1231425148554,0.06777241437084768,False,Left Foot,Free Kick,0,0,0,Normal
-32.30108357315587,0.0714675997920539,False,Right Foot,Open Play,1,0,1,Half Volley
-9.4762861923857,0.0551492400270336,False,Head,Open Play,0,0,2,Normal
-22.522211259110417,0.05573186560764864,False,Right Foot,Open Play,1,0,1,Normal
-43.21863024206111,0.07743963709288408,False,Right Foot,Open Play,0,1,2,Half Volley
-21.992044015961774,0.06646334556160448,False,Right Foot,Open Play,0,1,2,Half Volley
-28.281619472724678,0.06522858972928505,False,Left Foot,Free Kick,0,0,0,Normal
-30.61045573002793,0.0677554002403996,False,Right Foot,Open Play,0,0,2,Normal
-28.66653100743094,0.07161539078586952,False,Right Foot,Open Play,1,0,0,Half Volley
-30.702605752606736,0.06564227714370595,False,Right Foot,Open Play,0,0,1,Normal
-21.189620100417088,0.06642629358094793,False,Right Foot,Open Play,0,1,2,Normal
-10.176934705499496,0.05980005136859741,False,Head,Open Play,0,1,1,Normal
-10.677546534667972,0.06006955612083422,False,Right Foot,Open Play,1,0,1,Half Volley
-18.132015883513883,0.06440566936220637,False,Right Foot,Open Play,0,1,2,Normal
-11.101801655587265,0.05375699869759341,False,Right Foot,Open Play,1,1,3,Backheel
-9.159148432032316,0.057780649619945584,False,Head,Open Play,0,0,6,Normal
-6.463745044476924,0.05572106407065198,False,Head,Open Play,0,1,5,Normal
-18.66815470259447,0.059219007429034576,True,Left Foot,Open Play,1,0,1,Normal
-11.490865937778578,0.05656094049265305,False,Head,Open Play,0,0,2,Normal
-17.608236708995022,0.06388804290587027,True,Left Foot,Open Play,0,0,1,Normal
-23.28797973204202,0.06695994749481066,False,Left Foot,Open Play,0,0,1,Normal
-12.709445306542689,0.06131595680930815,False,Left Foot,Open Play,1,0,1,Normal
-29.565689574234522,0.07201051575136662,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890470,Szabolcs Huszti,Eintracht Frankfurt,31.1231425148554,0.06777241437084768,False,Left Foot,Free Kick,0,0,0,Normal
+3890470,Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,32.30108357315587,0.0714675997920539,False,Right Foot,Open Play,1,0,1,Half Volley
+3890470,Mitchell Weiser,Hertha Berlin,9.4762861923857,0.0551492400270336,False,Head,Open Play,0,0,2,Normal
+3890470,Vedad Ibišević,Hertha Berlin,22.522211259110417,0.05573186560764864,False,Right Foot,Open Play,1,0,1,Normal
+3890470,Marco Russ,Eintracht Frankfurt,43.21863024206111,0.07743963709288408,False,Right Foot,Open Play,0,1,2,Half Volley
+3890470,Marc Stendera,Eintracht Frankfurt,21.992044015961774,0.06646334556160448,False,Right Foot,Open Play,0,1,2,Half Volley
+3890470,Szabolcs Huszti,Eintracht Frankfurt,28.281619472724678,0.06522858972928505,False,Left Foot,Free Kick,0,0,0,Normal
+3890470,Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,30.61045573002793,0.0677554002403996,False,Right Foot,Open Play,0,0,2,Normal
+3890470,Bastian Oczipka,Eintracht Frankfurt,28.66653100743094,0.07161539078586952,False,Right Foot,Open Play,1,0,0,Half Volley
+3890470,Vladimír Darida,Hertha Berlin,30.702605752606736,0.06564227714370595,False,Right Foot,Open Play,0,0,1,Normal
+3890470,Vedad Ibišević,Hertha Berlin,21.189620100417088,0.06642629358094793,False,Right Foot,Open Play,0,1,2,Normal
+3890470,Mitchell Weiser,Hertha Berlin,10.176934705499496,0.05980005136859741,False,Head,Open Play,0,1,1,Normal
+3890470,Vedad Ibišević,Hertha Berlin,10.677546534667972,0.06006955612083422,False,Right Foot,Open Play,1,0,1,Half Volley
+3890470,Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,18.132015883513883,0.06440566936220637,False,Right Foot,Open Play,0,1,2,Normal
+3890470,Vedad Ibišević,Hertha Berlin,11.101801655587265,0.05375699869759341,False,Right Foot,Open Play,1,1,3,Backheel
+3890470,Niklas Stark,Hertha Berlin,9.159148432032316,0.057780649619945584,False,Head,Open Play,0,0,6,Normal
+3890470,Mitchell Weiser,Hertha Berlin,6.463745044476924,0.05572106407065198,False,Head,Open Play,0,1,5,Normal
+3890470,Mitchell Weiser,Hertha Berlin,18.66815470259447,0.059219007429034576,True,Left Foot,Open Play,1,0,1,Normal
+3890470,Sonny Kittel,Eintracht Frankfurt,11.490865937778578,0.05656094049265305,False,Head,Open Play,0,0,2,Normal
+3890470,Salomon Armand Magloire Kalou,Hertha Berlin,17.608236708995022,0.06388804290587027,True,Left Foot,Open Play,0,0,1,Normal
+3890470,Gian-Luca Waldschmidt,Eintracht Frankfurt,23.28797973204202,0.06695994749481066,False,Left Foot,Open Play,0,0,1,Normal
+3890470,Salomon Armand Magloire Kalou,Hertha Berlin,12.709445306542689,0.06131595680930815,False,Left Foot,Open Play,1,0,1,Normal
+3890470,Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,29.565689574234522,0.07201051575136662,False,Right Foot,Open Play,0,0,0,Normal

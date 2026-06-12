@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.953990258641683,0.05687172760009982,False,Right Foot,Open Play,1,0,2,Volley
-10.327632836231158,0.05992700344244298,False,Left Foot,Open Play,1,0,2,Half Volley
-16.020611723651502,0.06246934028315304,False,Right Foot,Open Play,0,1,2,Half Volley
-14.003570973148245,0.05766020468991891,True,Right Foot,Open Play,0,1,2,Normal
-23.170023737579548,0.06536850096259607,False,Right Foot,Open Play,1,0,1,Normal
-16.55173706896047,0.06318514362266128,True,Right Foot,Open Play,1,0,1,Normal
-26.254523419784263,0.0679870391622659,False,Right Foot,Open Play,1,0,0,Half Volley
-20.709901013766334,0.06139800768098393,False,Right Foot,Open Play,0,0,1,Volley
-22.318154045529838,0.06606464295535312,False,Right Foot,Open Play,0,0,1,Normal
-32.82499047981584,0.0740662889647452,False,Left Foot,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-13.80036231408437,0.05893422912923266,False,Right Foot,Open Play,0,0,2,Normal
-16.69640679906907,0.057473100318711105,False,Right Foot,Open Play,0,1,2,Normal
-34.30757933751666,0.06507934696998222,False,Right Foot,Free Kick,0,0,0,Normal
-18.458873205046938,0.055105222385385504,False,Right Foot,Open Play,0,1,1,Normal
-21.733154395991388,0.06613966993850813,False,Right Foot,Open Play,1,0,1,Normal
-10.004498987955369,0.058660501473092985,False,Left Foot,Open Play,0,0,2,Half Volley
-10.323759005323591,0.05912695262978918,False,Right Foot,Open Play,1,0,3,Half Volley
-14.599999999999994,0.060695859643681876,False,Left Foot,Open Play,1,0,1,Volley
-21.06015194627047,0.06627208145914631,False,Left Foot,Open Play,1,0,0,Normal
-8.640023148117145,0.05911162115809494,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879689,Antonio Cassano,Sampdoria,5.953990258641683,0.05687172760009982,False,Right Foot,Open Play,1,0,2,Volley
+3879689,Fernando Lucas Martins,Sampdoria,10.327632836231158,0.05992700344244298,False,Left Foot,Open Play,1,0,2,Half Volley
+3879689,Antonio Di Gaudio,Carpi,16.020611723651502,0.06246934028315304,False,Right Foot,Open Play,0,1,2,Half Volley
+3879689,Lorenzo Lollo,Carpi,14.003570973148245,0.05766020468991891,True,Right Foot,Open Play,0,1,2,Normal
+3879689,Carlos Joaquín Correa,Sampdoria,23.170023737579548,0.06536850096259607,False,Right Foot,Open Play,1,0,1,Normal
+3879689,Carlos Joaquín Correa,Sampdoria,16.55173706896047,0.06318514362266128,True,Right Foot,Open Play,1,0,1,Normal
+3879689,Isaac Cofie,Carpi,26.254523419784263,0.0679870391622659,False,Right Foot,Open Play,1,0,0,Half Volley
+3879689,Antonio Cassano,Sampdoria,20.709901013766334,0.06139800768098393,False,Right Foot,Open Play,0,0,1,Volley
+3879689,Antonio Di Gaudio,Carpi,22.318154045529838,0.06606464295535312,False,Right Foot,Open Play,0,0,1,Normal
+3879689,Ervin Zukanović,Sampdoria,32.82499047981584,0.0740662889647452,False,Left Foot,Open Play,0,1,1,Normal
+3879689,Jerry Uche Mbakogu,Carpi,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879689,Lorenzo Lollo,Carpi,13.80036231408437,0.05893422912923266,False,Right Foot,Open Play,0,0,2,Normal
+3879689,Jerry Uche Mbakogu,Carpi,16.69640679906907,0.057473100318711105,False,Right Foot,Open Play,0,1,2,Normal
+3879689,Fernando Lucas Martins,Sampdoria,34.30757933751666,0.06507934696998222,False,Right Foot,Free Kick,0,0,0,Normal
+3879689,Kevin Lasagna,Carpi,18.458873205046938,0.055105222385385504,False,Right Foot,Open Play,0,1,1,Normal
+3879689,Carlos Joaquín Correa,Sampdoria,21.733154395991388,0.06613966993850813,False,Right Foot,Open Play,1,0,1,Normal
+3879689,Luis Fernando Muriel Fruto,Sampdoria,10.004498987955369,0.058660501473092985,False,Left Foot,Open Play,0,0,2,Half Volley
+3879689,Luis Fernando Muriel Fruto,Sampdoria,10.323759005323591,0.05912695262978918,False,Right Foot,Open Play,1,0,3,Half Volley
+3879689,Roberto Soriano,Sampdoria,14.599999999999994,0.060695859643681876,False,Left Foot,Open Play,1,0,1,Volley
+3879689,Kevin Lasagna,Carpi,21.06015194627047,0.06627208145914631,False,Left Foot,Open Play,1,0,0,Normal
+3879689,Vasco Regini,Sampdoria,8.640023148117145,0.05911162115809494,False,Head,Open Play,0,1,4,Normal

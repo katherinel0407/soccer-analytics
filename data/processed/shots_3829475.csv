@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.032778923193572,0.0628607662115199,True,Right Foot,Open Play,1,1,1,Normal
-10.560303025955271,0.05921223632464821,False,Head,Open Play,0,0,0,Normal
-19.34140636044856,0.0542563802022715,False,Left Foot,Open Play,1,1,1,Half Volley
-21.47673159491453,0.05884203437715182,False,Right Foot,Open Play,0,0,1,Normal
-18.840912929048848,0.06152232823382237,False,Left Foot,Open Play,0,1,4,Half Volley
-12.637246535539303,0.05575433746102224,True,Head,Open Play,0,1,2,Normal
-14.06627171641441,0.056378067591438534,False,Right Foot,Open Play,0,1,2,Normal
-34.302332282222444,0.07610225768567047,False,Left Foot,Open Play,0,1,1,Normal
-9.761659694949419,0.05910792720085866,True,Left Foot,Open Play,1,0,0,Half Volley
-11.610770861575043,0.05999172391306912,False,Head,Open Play,0,0,1,Normal
-20.080836635957176,0.06572105674713608,False,Right Foot,Open Play,0,0,2,Normal
-8.417244204607588,0.056703888238237514,True,Left Foot,Open Play,0,0,0,Normal
-23.977072381756695,0.06805734838564825,False,Right Foot,Open Play,0,0,1,Normal
-27.884224930953344,0.07010052596364524,False,Left Foot,Open Play,0,0,1,Normal
-21.420084033448614,0.0532179903896139,False,Right Foot,Open Play,0,1,1,Half Volley
-15.499999999999996,0.06223844457384091,True,Left Foot,Open Play,0,0,1,Normal
-13.951702405083049,0.060842258484758084,False,Right Foot,Open Play,1,0,1,Normal
-9.63846460801719,0.056409152393931225,False,Head,Open Play,0,1,2,Normal
-14.060227594174998,0.05612042873909123,True,Right Foot,Open Play,1,0,0,Normal
-20.64654934849889,0.05356013466013537,False,Right Foot,Open Play,0,1,2,Normal
-26.156452358834905,0.05977152590399443,False,Right Foot,Open Play,1,0,2,Volley
-22.402008838494815,0.06716769663553128,False,Right Foot,Open Play,0,0,1,Normal
-21.69101196348386,0.06181419597064255,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829475,Jaroslav Plašil,Bordeaux,16.032778923193572,0.0628607662115199,True,Right Foot,Open Play,1,1,1,Normal
+3829475,Mickaël Le Bihan,OGC Nice,10.560303025955271,0.05921223632464821,False,Head,Open Play,0,0,0,Normal
+3829475,Jérémy Pied,OGC Nice,19.34140636044856,0.0542563802022715,False,Left Foot,Open Play,1,1,1,Half Volley
+3829475,Valère Germain,OGC Nice,21.47673159491453,0.05884203437715182,False,Right Foot,Open Play,0,0,1,Normal
+3829475,Vincent Koziello,OGC Nice,18.840912929048848,0.06152232823382237,False,Left Foot,Open Play,0,1,4,Half Volley
+3829475,Valère Germain,OGC Nice,12.637246535539303,0.05575433746102224,True,Head,Open Play,0,1,2,Normal
+3829475,Wahbi Khazri,Bordeaux,14.06627171641441,0.056378067591438534,False,Right Foot,Open Play,0,1,2,Normal
+3829475,Hatem Ben Arfa,OGC Nice,34.302332282222444,0.07610225768567047,False,Left Foot,Open Play,0,1,1,Normal
+3829475,Mickaël Le Bihan,OGC Nice,9.761659694949419,0.05910792720085866,True,Left Foot,Open Play,1,0,0,Half Volley
+3829475,Mickaël Le Bihan,OGC Nice,11.610770861575043,0.05999172391306912,False,Head,Open Play,0,0,1,Normal
+3829475,Jean Michaël Seri,OGC Nice,20.080836635957176,0.06572105674713608,False,Right Foot,Open Play,0,0,2,Normal
+3829475,Hatem Ben Arfa,OGC Nice,8.417244204607588,0.056703888238237514,True,Left Foot,Open Play,0,0,0,Normal
+3829475,Mickaël Le Bihan,OGC Nice,23.977072381756695,0.06805734838564825,False,Right Foot,Open Play,0,0,1,Normal
+3829475,Nicolas Maurice-Belay,Bordeaux,27.884224930953344,0.07010052596364524,False,Left Foot,Open Play,0,0,1,Normal
+3829475,Jérémy Pied,OGC Nice,21.420084033448614,0.0532179903896139,False,Right Foot,Open Play,0,1,1,Half Volley
+3829475,Hatem Ben Arfa,OGC Nice,15.499999999999996,0.06223844457384091,True,Left Foot,Open Play,0,0,1,Normal
+3829475,Jussiê Ferreira Vieira,Bordeaux,13.951702405083049,0.060842258484758084,False,Right Foot,Open Play,1,0,1,Normal
+3829475,Alexandre Mendy,OGC Nice,9.63846460801719,0.056409152393931225,False,Head,Open Play,0,1,2,Normal
+3829475,Alexandre Mendy,OGC Nice,14.060227594174998,0.05612042873909123,True,Right Foot,Open Play,1,0,0,Normal
+3829475,André Biyogo Poko,Bordeaux,20.64654934849889,0.05356013466013537,False,Right Foot,Open Play,0,1,2,Normal
+3829475,Diego Alejandro Rolan Silva,Bordeaux,26.156452358834905,0.05977152590399443,False,Right Foot,Open Play,1,0,2,Volley
+3829475,Valère Germain,OGC Nice,22.402008838494815,0.06716769663553128,False,Right Foot,Open Play,0,0,1,Normal
+3829475,Jean Michaël Seri,OGC Nice,21.69101196348386,0.06181419597064255,False,Right Foot,Open Play,0,0,0,Normal

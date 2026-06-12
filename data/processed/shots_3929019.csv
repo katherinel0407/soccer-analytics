@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.617159805454122,0.06282248884752321,True,Right Foot,Open Play,0,1,4,Normal
-20.75234926460135,0.06615229086382969,False,Right Foot,Open Play,1,0,1,Normal
-22.14158982548453,0.06695206302217063,False,Left Foot,Open Play,1,0,1,Half Volley
-7.920227269466447,0.05873715795741183,False,Right Foot,Open Play,1,0,2,Half Volley
-11.132385189167682,0.060017435405816194,True,Left Foot,Open Play,1,0,3,Half Volley
-23.169807940507404,0.063157352847352,False,Right Foot,Open Play,0,0,1,Normal
-8.507055894961542,0.05712617767143998,False,Right Foot,Open Play,0,0,4,Half Volley
-10.358571330062846,0.059263289387504046,False,Head,Open Play,0,1,4,Normal
-23.881792227552776,0.06819808311908292,False,Right Foot,Open Play,0,0,2,Half Volley
-9.415412895885133,0.05940159191185355,False,Right Foot,Open Play,1,0,2,Volley
-11.271202242884298,0.05967293781850528,False,Head,Open Play,0,1,2,Normal
-2.545584412271567,0.055036331822542604,False,Head,Open Play,0,1,3,Normal
-10.656922632730327,0.05862504648377266,False,Head,Open Play,0,1,2,Diving Header
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-18.93356807366219,0.06499958468188571,False,Right Foot,Open Play,0,0,3,Normal
-28.89429009337312,0.0714988389272576,False,Right Foot,Open Play,0,0,2,Normal
-8.602325267042627,0.05453517154336879,False,Head,Open Play,0,0,2,Normal
-14.312581877495058,0.06033867214721851,True,Right Foot,Open Play,1,1,1,Normal
-29.427877939124325,0.07220592864659332,False,Right Foot,Open Play,1,1,1,Half Volley
-11.197321108193695,0.05787828164779966,False,Other,Open Play,0,0,2,Normal
-31.363832673957432,0.06740284831608756,False,Right Foot,Open Play,0,0,0,Normal
-12.093386622447824,0.05904805024190931,True,Right Foot,Open Play,1,0,3,Normal
-25.96998267230843,0.056560097402629475,False,Right Foot,Open Play,1,1,2,Normal
-7.057619995437555,0.057841875728428103,True,Head,Open Play,0,1,2,Normal
-20.0591624949797,0.06493231299269599,False,Right Foot,Open Play,1,0,0,Volley
-25.46723385057749,0.06932761240837534,False,Right Foot,Open Play,0,0,1,Normal
-12.099999999999994,0.05963343195195743,False,Head,Open Play,0,0,5,Normal
-25.92778432492835,0.065266455870761,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3929019,Cecilia Prugna,Sassuolo W,16.617159805454122,0.06282248884752321,True,Right Foot,Open Play,0,1,4,Normal
+3929019,Ana Marija Milinković,FC Internazionale Milano W,20.75234926460135,0.06615229086382969,False,Right Foot,Open Play,1,0,1,Normal
+3929019,Chiara Robustellini,FC Internazionale Milano W,22.14158982548453,0.06695206302217063,False,Left Foot,Open Play,1,0,1,Half Volley
+3929019,Agnese Bonfantini,FC Internazionale Milano W,7.920227269466447,0.05873715795741183,False,Right Foot,Open Play,1,0,2,Half Volley
+3929019,Lana Clelland,Sassuolo W,11.132385189167682,0.060017435405816194,True,Left Foot,Open Play,1,0,3,Half Volley
+3929019,Frederikke Thøgersen,FC Internazionale Milano W,23.169807940507404,0.063157352847352,False,Right Foot,Open Play,0,0,1,Normal
+3929019,Elisa Polli,FC Internazionale Milano W,8.507055894961542,0.05712617767143998,False,Right Foot,Open Play,0,0,4,Half Volley
+3929019,Sofie Junge Pedersen,FC Internazionale Milano W,10.358571330062846,0.059263289387504046,False,Head,Open Play,0,1,4,Normal
+3929019,Loreta Kullashi,Sassuolo W,23.881792227552776,0.06819808311908292,False,Right Foot,Open Play,0,0,2,Half Volley
+3929019,Loreta Kullashi,Sassuolo W,9.415412895885133,0.05940159191185355,False,Right Foot,Open Play,1,0,2,Volley
+3929019,Agnese Bonfantini,FC Internazionale Milano W,11.271202242884298,0.05967293781850528,False,Head,Open Play,0,1,2,Normal
+3929019,Henrietta Csiszár,FC Internazionale Milano W,2.545584412271567,0.055036331822542604,False,Head,Open Play,0,1,3,Normal
+3929019,Maria Luisa Filangeri,Sassuolo W,10.656922632730327,0.05862504648377266,False,Head,Open Play,0,1,2,Diving Header
+3929019,Lana Clelland,Sassuolo W,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3929019,Flaminia Simonetti,FC Internazionale Milano W,18.93356807366219,0.06499958468188571,False,Right Foot,Open Play,0,0,3,Normal
+3929019,Lana Clelland,Sassuolo W,28.89429009337312,0.0714988389272576,False,Right Foot,Open Play,0,0,2,Normal
+3929019,Henrietta Csiszár,FC Internazionale Milano W,8.602325267042627,0.05453517154336879,False,Head,Open Play,0,0,2,Normal
+3929019,Lana Clelland,Sassuolo W,14.312581877495058,0.06033867214721851,True,Right Foot,Open Play,1,1,1,Normal
+3929019,Lina Magull,FC Internazionale Milano W,29.427877939124325,0.07220592864659332,False,Right Foot,Open Play,1,1,1,Half Volley
+3929019,Elisa Polli,FC Internazionale Milano W,11.197321108193695,0.05787828164779966,False,Other,Open Play,0,0,2,Normal
+3929019,Katie Bowen,FC Internazionale Milano W,31.363832673957432,0.06740284831608756,False,Right Foot,Open Play,0,0,0,Normal
+3929019,Haley Bugeja,FC Internazionale Milano W,12.093386622447824,0.05904805024190931,True,Right Foot,Open Play,1,0,3,Normal
+3929019,Benedetta Orsi,Sassuolo W,25.96998267230843,0.056560097402629475,False,Right Foot,Open Play,1,1,2,Normal
+3929019,Elisa Polli,FC Internazionale Milano W,7.057619995437555,0.057841875728428103,True,Head,Open Play,0,1,2,Normal
+3929019,Marta Pandini,FC Internazionale Milano W,20.0591624949797,0.06493231299269599,False,Right Foot,Open Play,1,0,0,Volley
+3929019,Valeria Monterubbiano,Sassuolo W,25.46723385057749,0.06932761240837534,False,Right Foot,Open Play,0,0,1,Normal
+3929019,Marta Pandini,FC Internazionale Milano W,12.099999999999994,0.05963343195195743,False,Head,Open Play,0,0,5,Normal
+3929019,Valeria Monterubbiano,Sassuolo W,25.92778432492835,0.065266455870761,False,Right Foot,Open Play,0,0,2,Normal

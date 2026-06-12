@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.277456905770443,0.060798187061980445,False,Right Foot,Open Play,1,0,1,Normal
-13.306013678032956,0.06161778648960101,False,Left Foot,Open Play,0,0,2,Normal
-18.828170383762732,0.0646894308429484,True,Left Foot,Open Play,0,0,0,Normal
-13.595587519485875,0.06174609999834905,False,Head,Open Play,0,1,3,Normal
-2.83019433961698,0.056111577126473536,True,Left Foot,Open Play,0,0,4,Normal
-18.775782273982617,0.06402702985990458,False,Right Foot,Open Play,1,0,2,Normal
-15.20032894380908,0.06099391251545794,False,Head,Open Play,0,1,1,Normal
-7.343023900274333,0.05842536384018415,False,Head,Open Play,0,0,2,Normal
-6.4412731660751685,0.05760080610523887,False,Head,Open Play,0,1,3,Normal
-12.578155667664477,0.05928858471561438,False,Head,Open Play,0,0,2,Normal
-16.421023110634728,0.06346662874024223,False,Right Foot,Open Play,0,0,0,Normal
-10.2,0.05923753233628795,False,Head,Open Play,0,0,1,Normal
-31.759250620882103,0.0596256044325591,False,Left Foot,Open Play,0,0,0,Normal
-4.7801673610868445,0.05543006696354931,True,Right Foot,Open Play,0,0,2,Half Volley
-13.732079230764722,0.060966545686331725,False,Head,Open Play,0,0,2,Normal
-29.260553651631405,0.07204359136131451,False,Left Foot,Open Play,1,0,1,Normal
-4.61410879802373,0.05568854592491052,True,Right Foot,Open Play,1,0,1,Normal
-12.265398485169571,0.05988112950041741,False,Left Foot,Open Play,1,0,1,Normal
-10.111874208078342,0.05927227250532752,False,Left Foot,Open Play,1,0,2,Half Volley
-14.115239990875112,0.05819810895634203,False,Right Foot,Open Play,0,0,2,Half Volley
-28.72716484444645,0.057558211905101735,False,Left Foot,Open Play,1,0,0,Normal
-64.1599563590874,0.06710219946995973,False,Right Foot,Open Play,0,0,1,Lob
-14.165097952361641,0.061646843018361486,False,Left Foot,Open Play,1,0,1,Normal
-22.246348014898988,0.06603038623320535,False,Right Foot,Open Play,1,0,3,Normal
-13.648809471891681,0.058008202829157585,False,Right Foot,Open Play,1,0,2,Half Volley
-10.358571330062842,0.05958190093982787,False,Head,Open Play,0,1,5,Normal
-20.101989951246118,0.05579868628713744,False,Left Foot,Open Play,1,1,3,Normal
-19.520758181996925,0.05506419564101399,False,Right Foot,Open Play,1,0,2,Normal
-8.37257427557379,0.05631847634494383,False,Right Foot,Open Play,1,0,1,Normal
-26.43671689147501,0.0592759652217673,False,Left Foot,Open Play,1,0,1,Normal
-25.670410982296335,0.06942469736503622,False,Left Foot,Open Play,0,0,2,Normal
-22.21576017155389,0.06709975734094459,False,Right Foot,Open Play,1,1,2,Lob
-8.37257427557379,0.05770883825436061,False,Head,Open Play,0,1,4,Normal
-8.542833253669418,0.059054477577135334,False,Head,Open Play,0,1,6,Normal
-24.713559031430496,0.06862272261886762,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913181,Drew Spence,Tottenham Hotspur Women,23.277456905770443,0.060798187061980445,False,Right Foot,Open Play,1,0,1,Normal
+3913181,Matilda Liv Vinberg,Tottenham Hotspur Women,13.306013678032956,0.06161778648960101,False,Left Foot,Open Play,0,0,2,Normal
+3913181,Sara Holmgaard,Everton LFC,18.828170383762732,0.0646894308429484,True,Left Foot,Open Play,0,0,0,Normal
+3913181,Karen Holmgaard,Everton LFC,13.595587519485875,0.06174609999834905,False,Head,Open Play,0,1,3,Normal
+3913181,Justine Vanhaevermaet,Everton LFC,2.83019433961698,0.056111577126473536,True,Left Foot,Open Play,0,0,4,Normal
+3913181,Grace Clinton,Tottenham Hotspur Women,18.775782273982617,0.06402702985990458,False,Right Foot,Open Play,1,0,2,Normal
+3913181,Bethany England,Tottenham Hotspur Women,15.20032894380908,0.06099391251545794,False,Head,Open Play,0,1,1,Normal
+3913181,Bethany England,Tottenham Hotspur Women,7.343023900274333,0.05842536384018415,False,Head,Open Play,0,0,2,Normal
+3913181,Luana Bühler,Tottenham Hotspur Women,6.4412731660751685,0.05760080610523887,False,Head,Open Play,0,1,3,Normal
+3913181,Matilda Liv Vinberg,Tottenham Hotspur Women,12.578155667664477,0.05928858471561438,False,Head,Open Play,0,0,2,Normal
+3913181,Drew Spence,Tottenham Hotspur Women,16.421023110634728,0.06346662874024223,False,Right Foot,Open Play,0,0,0,Normal
+3913181,Karen Holmgaard,Everton LFC,10.2,0.05923753233628795,False,Head,Open Play,0,0,1,Normal
+3913181,Matilda Liv Vinberg,Tottenham Hotspur Women,31.759250620882103,0.0596256044325591,False,Left Foot,Open Play,0,0,0,Normal
+3913181,Drew Spence,Tottenham Hotspur Women,4.7801673610868445,0.05543006696354931,True,Right Foot,Open Play,0,0,2,Half Volley
+3913181,Bethany England,Tottenham Hotspur Women,13.732079230764722,0.060966545686331725,False,Head,Open Play,0,0,2,Normal
+3913181,Amanda Nildén,Tottenham Hotspur Women,29.260553651631405,0.07204359136131451,False,Left Foot,Open Play,1,0,1,Normal
+3913181,Bethany England,Tottenham Hotspur Women,4.61410879802373,0.05568854592491052,True,Right Foot,Open Play,1,0,1,Normal
+3913181,Amanda Nildén,Tottenham Hotspur Women,12.265398485169571,0.05988112950041741,False,Left Foot,Open Play,1,0,1,Normal
+3913181,Amanda Nildén,Tottenham Hotspur Women,10.111874208078342,0.05927227250532752,False,Left Foot,Open Play,1,0,2,Half Volley
+3913181,Jessica Naz,Tottenham Hotspur Women,14.115239990875112,0.05819810895634203,False,Right Foot,Open Play,0,0,2,Half Volley
+3913181,Kit Graham,Tottenham Hotspur Women,28.72716484444645,0.057558211905101735,False,Left Foot,Open Play,1,0,0,Normal
+3913181,Martina Piemonte,Everton LFC,64.1599563590874,0.06710219946995973,False,Right Foot,Open Play,0,0,1,Lob
+3913181,Jessica Naz,Tottenham Hotspur Women,14.165097952361641,0.061646843018361486,False,Left Foot,Open Play,1,0,1,Normal
+3913181,Kathrine Møller Kühl,Everton LFC,22.246348014898988,0.06603038623320535,False,Right Foot,Open Play,1,0,3,Normal
+3913181,Katja Snoeijs,Everton LFC,13.648809471891681,0.058008202829157585,False,Right Foot,Open Play,1,0,2,Half Volley
+3913181,Justine Vanhaevermaet,Everton LFC,10.358571330062842,0.05958190093982787,False,Head,Open Play,0,1,5,Normal
+3913181,Shuang Wang,Tottenham Hotspur Women,20.101989951246118,0.05579868628713744,False,Left Foot,Open Play,1,1,3,Normal
+3913181,Bethany England,Tottenham Hotspur Women,19.520758181996925,0.05506419564101399,False,Right Foot,Open Play,1,0,2,Normal
+3913181,Martha Thomas,Tottenham Hotspur Women,8.37257427557379,0.05631847634494383,False,Right Foot,Open Play,1,0,1,Normal
+3913181,Shuang Wang,Tottenham Hotspur Women,26.43671689147501,0.0592759652217673,False,Left Foot,Open Play,1,0,1,Normal
+3913181,Kit Graham,Tottenham Hotspur Women,25.670410982296335,0.06942469736503622,False,Left Foot,Open Play,0,0,2,Normal
+3913181,Charlotte Layne Grant,Tottenham Hotspur Women,22.21576017155389,0.06709975734094459,False,Right Foot,Open Play,1,1,2,Lob
+3913181,Martha Thomas,Tottenham Hotspur Women,8.37257427557379,0.05770883825436061,False,Head,Open Play,0,1,4,Normal
+3913181,Megan Finnigan,Everton LFC,8.542833253669418,0.059054477577135334,False,Head,Open Play,0,1,6,Normal
+3913181,Bethany England,Tottenham Hotspur Women,24.713559031430496,0.06862272261886762,False,Left Foot,Open Play,0,0,2,Normal

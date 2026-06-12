@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.36000821017924,0.05623534889748347,False,Left Foot,Open Play,0,0,1,Normal
-14.801351289662708,0.06070536657694851,False,Left Foot,Open Play,0,1,3,Volley
-31.36941185295,0.0656145367826953,False,Right Foot,Open Play,0,0,2,Normal
-10.462313319720458,0.05641565261472311,False,Head,Open Play,0,1,2,Normal
-10.358571330062842,0.05958190093982787,False,Head,Open Play,0,1,4,Normal
-13.921566003866088,0.06145979735354755,False,Left Foot,Open Play,0,1,2,Half Volley
-33.400598797027584,0.06977603406734893,False,Left Foot,Free Kick,0,0,0,Normal
-24.070729112347216,0.06654778364275023,False,Left Foot,Open Play,0,0,2,Normal
-8.357032966310468,0.05814632515337234,False,Right Foot,Open Play,1,1,3,Volley
-17.8910592196214,0.05507041787799124,False,Right Foot,Open Play,0,0,0,Normal
-12.847178678604891,0.061393902892874275,False,Head,Open Play,0,0,3,Normal
-29.425329225006138,0.06286143574178898,False,Right Foot,Open Play,0,1,1,Normal
-32.954817553735595,0.062010968157755295,False,Left Foot,Free Kick,0,0,0,Normal
-14.840822079655828,0.060357642231141595,False,Head,Open Play,0,1,3,Normal
-17.847408775505755,0.057819387400674216,False,Right Foot,Open Play,0,0,3,Normal
-11.280514172678476,0.06042152836668493,False,Head,Open Play,0,0,4,Normal
-20.096019506359955,0.0657119347669266,False,Left Foot,Open Play,1,0,1,Normal
-20.74656598090392,0.06593792287637633,False,Right Foot,Open Play,0,1,3,Normal
-7.746612162745729,0.054830866873413,False,Left Foot,Open Play,1,0,5,Volley
-28.021598812344738,0.07118441950057804,False,Right Foot,Open Play,0,0,0,Normal
-23.55100847097636,0.06781935985569479,False,Right Foot,Open Play,0,0,2,Normal
-22.332263655975403,0.06360122579982427,False,Right Foot,Open Play,1,0,0,Normal
-28.287806560424578,0.06985426360354165,False,Right Foot,Open Play,0,0,2,Normal
-28.131477031965453,0.059229607695017936,False,Left Foot,Open Play,1,1,1,Normal
-20.8,0.06315930980696086,False,Right Foot,Open Play,0,0,1,Normal
-29.267900505502613,0.05553972785599757,False,Left Foot,Open Play,0,0,2,Normal
-39.72027190239262,0.06146368865466807,False,Right Foot,Open Play,0,0,0,Normal
-12.396773773849391,0.058871185069005204,False,Head,Open Play,0,0,2,Normal
-11.822859214251013,0.05885371337942791,False,Head,Open Play,0,1,3,Normal
-10.404326023342412,0.05882368082453312,False,Head,Open Play,0,1,4,Normal
-29.704208456042053,0.05683450635157716,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901248,Marcos Paulo Mesquita Lopes,Lille,24.36000821017924,0.05623534889748347,False,Left Foot,Open Play,0,0,1,Normal
+3901248,Marcos Paulo Mesquita Lopes,Lille,14.801351289662708,0.06070536657694851,False,Left Foot,Open Play,0,1,3,Volley
+3901248,Florent Balmont,Lille,31.36941185295,0.0656145367826953,False,Right Foot,Open Play,0,0,2,Normal
+3901248,Marko Baša,Lille,10.462313319720458,0.05641565261472311,False,Head,Open Play,0,1,2,Normal
+3901248,Éderzito António Macedo Lopes,Lille,10.358571330062842,0.05958190093982787,False,Head,Open Play,0,1,4,Normal
+3901248,Éderzito António Macedo Lopes,Lille,13.921566003866088,0.06145979735354755,False,Left Foot,Open Play,0,1,2,Half Volley
+3901248,Thibault Giresse,Guingamp,33.400598797027584,0.06977603406734893,False,Left Foot,Free Kick,0,0,0,Normal
+3901248,Marcos Paulo Mesquita Lopes,Lille,24.070729112347216,0.06654778364275023,False,Left Foot,Open Play,0,0,2,Normal
+3901248,Mounir Obbadi,Lille,8.357032966310468,0.05814632515337234,False,Right Foot,Open Play,1,1,3,Volley
+3901248,Marcus Coco,Guingamp,17.8910592196214,0.05507041787799124,False,Right Foot,Open Play,0,0,0,Normal
+3901248,Marko Baša,Lille,12.847178678604891,0.061393902892874275,False,Head,Open Play,0,0,3,Normal
+3901248,Florent Balmont,Lille,29.425329225006138,0.06286143574178898,False,Right Foot,Open Play,0,1,1,Normal
+3901248,Marcos Paulo Mesquita Lopes,Lille,32.954817553735595,0.062010968157755295,False,Left Foot,Free Kick,0,0,0,Normal
+3901248,Éderzito António Macedo Lopes,Lille,14.840822079655828,0.060357642231141595,False,Head,Open Play,0,1,3,Normal
+3901248,Morgan Amalfitano,Lille,17.847408775505755,0.057819387400674216,False,Right Foot,Open Play,0,0,3,Normal
+3901248,Éderzito António Macedo Lopes,Lille,11.280514172678476,0.06042152836668493,False,Head,Open Play,0,0,4,Normal
+3901248,Renato Civelli,Lille,20.096019506359955,0.0657119347669266,False,Left Foot,Open Play,1,0,1,Normal
+3901248,Djibril Sidibé,Lille,20.74656598090392,0.06593792287637633,False,Right Foot,Open Play,0,1,3,Normal
+3901248,Ibrahim Amadou,Lille,7.746612162745729,0.054830866873413,False,Left Foot,Open Play,1,0,5,Volley
+3901248,Marcos Paulo Mesquita Lopes,Lille,28.021598812344738,0.07118441950057804,False,Right Foot,Open Play,0,0,0,Normal
+3901248,Mounir Obbadi,Lille,23.55100847097636,0.06781935985569479,False,Right Foot,Open Play,0,0,2,Normal
+3901248,Florent Balmont,Lille,22.332263655975403,0.06360122579982427,False,Right Foot,Open Play,1,0,0,Normal
+3901248,Marcos Paulo Mesquita Lopes,Lille,28.287806560424578,0.06985426360354165,False,Right Foot,Open Play,0,0,2,Normal
+3901248,Marcos Paulo Mesquita Lopes,Lille,28.131477031965453,0.059229607695017936,False,Left Foot,Open Play,1,1,1,Normal
+3901248,Gadji Celi Carmen Junior Tallo,Lille,20.8,0.06315930980696086,False,Right Foot,Open Play,0,0,1,Normal
+3901248,Sébastien Corchia,Lille,29.267900505502613,0.05553972785599757,False,Left Foot,Open Play,0,0,2,Normal
+3901248,Ibrahim Amadou,Lille,39.72027190239262,0.06146368865466807,False,Right Foot,Open Play,0,0,0,Normal
+3901248,Éderzito António Macedo Lopes,Lille,12.396773773849391,0.058871185069005204,False,Head,Open Play,0,0,2,Normal
+3901248,Marko Baša,Lille,11.822859214251013,0.05885371337942791,False,Head,Open Play,0,1,3,Normal
+3901248,Éderzito António Macedo Lopes,Lille,10.404326023342412,0.05882368082453312,False,Head,Open Play,0,1,4,Normal
+3901248,Sébastien Corchia,Lille,29.704208456042053,0.05683450635157716,False,Right Foot,Open Play,0,0,3,Normal

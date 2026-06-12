@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.946427498927397,0.05761697161695206,False,Head,Open Play,0,0,2,Diving Header
-12.800390619039721,0.05929616777645774,False,Head,Open Play,0,1,2,Normal
-22.67156809750926,0.06345565418937055,False,Right Foot,Open Play,1,0,0,Normal
-26.328121847180814,0.06975168256933756,False,Right Foot,Open Play,1,0,1,Half Volley
-17.97998887652604,0.06431391269267099,True,Head,Open Play,0,1,2,Normal
-34.204093322291115,0.073574337988722,False,Right Foot,Open Play,1,0,1,Half Volley
-7.54254598925323,0.058011659666136604,False,Head,Open Play,0,1,3,Normal
-30.257561038523903,0.07270801977240639,False,Left Foot,Open Play,0,0,0,Normal
-28.359301824974466,0.07027105184088837,False,Right Foot,Open Play,1,0,1,Normal
-15.587174214718969,0.05357693963372778,True,Right Foot,Open Play,0,0,1,Normal
-28.926285623978753,0.06582379252458351,False,Left Foot,Free Kick,0,0,1,Normal
-16.21511640414586,0.06166758510716268,False,Left Foot,Open Play,0,0,2,Normal
-16.122654868228125,0.06328737646592232,False,Left Foot,Open Play,0,0,3,Normal
-31.912693399335637,0.06834581153258348,False,Left Foot,Open Play,0,1,1,Normal
-11.52475596270914,0.06028292282751856,False,Left Foot,Open Play,0,0,5,Normal
-26.91635190734435,0.0675839465400743,False,Right Foot,Open Play,1,0,0,Half Volley
-26.4304748349325,0.05030321832671246,False,Left Foot,Free Kick,0,0,0,Normal
-20.729930052945182,0.06502083340359723,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69272,Valmiro Lópes Rocha,Levante UD,5.946427498927397,0.05761697161695206,False,Head,Open Play,0,0,2,Diving Header
+69272,Valmiro Lópes Rocha,Levante UD,12.800390619039721,0.05929616777645774,False,Head,Open Play,0,1,2,Normal
+69272,Francisco Sebastián Nadal Martorell,Levante UD,22.67156809750926,0.06345565418937055,False,Right Foot,Open Play,1,0,0,Normal
+69272,Xavier Torres Buigues,Levante UD,26.328121847180814,0.06975168256933756,False,Right Foot,Open Play,1,0,1,Half Volley
+69272,Seydou Kéita,Barcelona,17.97998887652604,0.06431391269267099,True,Head,Open Play,0,1,2,Normal
+69272,Miguel Pallardó González,Levante UD,34.204093322291115,0.073574337988722,False,Right Foot,Open Play,1,0,1,Half Volley
+69272,Felipe Salvador Caicedo Corozo,Levante UD,7.54254598925323,0.058011659666136604,False,Head,Open Play,0,1,3,Normal
+69272,Eric-Sylvain Bilal Abidal,Barcelona,30.257561038523903,0.07270801977240639,False,Left Foot,Open Play,0,0,0,Normal
+69272,David Villa Sánchez,Barcelona,28.359301824974466,0.07027105184088837,False,Right Foot,Open Play,1,0,1,Normal
+69272,Felipe Salvador Caicedo Corozo,Levante UD,15.587174214718969,0.05357693963372778,True,Right Foot,Open Play,0,0,1,Normal
+69272,Lionel Andrés Messi Cuccittini,Barcelona,28.926285623978753,0.06582379252458351,False,Left Foot,Free Kick,0,0,1,Normal
+69272,Felipe Salvador Caicedo Corozo,Levante UD,16.21511640414586,0.06166758510716268,False,Left Foot,Open Play,0,0,2,Normal
+69272,Lionel Andrés Messi Cuccittini,Barcelona,16.122654868228125,0.06328737646592232,False,Left Foot,Open Play,0,0,3,Normal
+69272,Ibrahim Afellay,Barcelona,31.912693399335637,0.06834581153258348,False,Left Foot,Open Play,0,1,1,Normal
+69272,Lionel Andrés Messi Cuccittini,Barcelona,11.52475596270914,0.06028292282751856,False,Left Foot,Open Play,0,0,5,Normal
+69272,Sergio Busquets i Burgos,Barcelona,26.91635190734435,0.0675839465400743,False,Right Foot,Open Play,1,0,0,Half Volley
+69272,Lionel Andrés Messi Cuccittini,Barcelona,26.4304748349325,0.05030321832671246,False,Left Foot,Free Kick,0,0,0,Normal
+69272,Lionel Andrés Messi Cuccittini,Barcelona,20.729930052945182,0.06502083340359723,False,Left Foot,Open Play,0,0,3,Normal

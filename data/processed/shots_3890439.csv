@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.32161460673837,0.07406497760850397,False,Right Foot,Open Play,0,0,2,Normal
-23.703375287076735,0.06500676189599754,False,Left Foot,Open Play,0,0,2,Normal
-10.294173109094295,0.055670479588971006,False,Head,Open Play,0,1,2,Normal
-11.795338062132856,0.05271731872744547,False,Right Foot,Open Play,0,0,2,Half Volley
-18.95943037118996,0.0619531389307886,False,Left Foot,Open Play,1,1,2,Normal
-27.022398117117586,0.07031943864039211,False,Right Foot,Open Play,0,1,1,Normal
-25.328639916110774,0.06825992962730772,False,Left Foot,Open Play,0,0,1,Normal
-9.360555539069246,0.05946120477593178,False,Head,Open Play,0,1,4,Normal
-21.325102578885758,0.05976510082377229,True,Right Foot,Open Play,1,0,0,Half Volley
-9.734988443752766,0.05616209669649251,False,Head,Open Play,0,1,3,Normal
-25.893628559937287,0.06470969054271204,False,Left Foot,Open Play,0,1,2,Normal
-12.165936051122413,0.05586944462415998,False,Right Foot,Open Play,1,0,0,Normal
-10.235721762533414,0.05781886589078878,True,Right Foot,Open Play,1,0,2,Normal
-14.73634961583091,0.059923671644641456,False,Head,Open Play,0,0,1,Normal
-23.385465571589545,0.06673697082950687,False,Left Foot,Open Play,0,1,2,Half Volley
-21.850858106719745,0.06199140497712868,False,Right Foot,Open Play,0,0,4,Normal
-13.225732493892357,0.06137244874532502,False,Head,Open Play,0,1,4,Normal
-13.384319183283099,0.06124471980255462,False,Right Foot,Open Play,1,1,2,Half Volley
-8.005623023850175,0.056483939242003386,True,Head,Open Play,0,0,2,Normal
-27.860366113890176,0.06226611722503367,False,Right Foot,Free Kick,0,0,0,Normal
-9.504735661763561,0.05845754085315624,False,Head,Open Play,0,1,4,Normal
-22.900873345791855,0.06255244242969554,False,Left Foot,Open Play,0,0,1,Half Volley
-14.710540438746628,0.062273012510314085,False,Right Foot,Open Play,0,1,2,Normal
-12.403628501370072,0.05688627288934682,False,Head,Open Play,0,0,4,Diving Header
-25.949373788205378,0.06968318119066857,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890439,Danny Latza,FSV Mainz 05,33.32161460673837,0.07406497760850397,False,Right Foot,Open Play,0,0,2,Normal
+3890439,Max Meyer,Schalke 04,23.703375287076735,0.06500676189599754,False,Left Foot,Open Play,0,0,2,Normal
+3890439,Klaas-Jan Huntelaar,Schalke 04,10.294173109094295,0.055670479588971006,False,Head,Open Play,0,1,2,Normal
+3890439,Jhon Andrés Córdoba Copete,FSV Mainz 05,11.795338062132856,0.05271731872744547,False,Right Foot,Open Play,0,0,2,Half Volley
+3890439,Leon Goretzka,Schalke 04,18.95943037118996,0.0619531389307886,False,Left Foot,Open Play,1,1,2,Normal
+3890439,Danny Latza,FSV Mainz 05,27.022398117117586,0.07031943864039211,False,Right Foot,Open Play,0,1,1,Normal
+3890439,Sead Kolašinac,Schalke 04,25.328639916110774,0.06825992962730772,False,Left Foot,Open Play,0,0,1,Normal
+3890439,Sead Kolašinac,Schalke 04,9.360555539069246,0.05946120477593178,False,Head,Open Play,0,1,4,Normal
+3890439,Gaëtan Bussmann,FSV Mainz 05,21.325102578885758,0.05976510082377229,True,Right Foot,Open Play,1,0,0,Half Volley
+3890439,Roman Neustädter,Schalke 04,9.734988443752766,0.05616209669649251,False,Head,Open Play,0,1,3,Normal
+3890439,Leroy Sané,Schalke 04,25.893628559937287,0.06470969054271204,False,Left Foot,Open Play,0,1,2,Normal
+3890439,Max Meyer,Schalke 04,12.165936051122413,0.05586944462415998,False,Right Foot,Open Play,1,0,0,Normal
+3890439,Younès Belhanda,Schalke 04,10.235721762533414,0.05781886589078878,True,Right Foot,Open Play,1,0,2,Normal
+3890439,Christian Clemens,FSV Mainz 05,14.73634961583091,0.059923671644641456,False,Head,Open Play,0,0,1,Normal
+3890439,Gaëtan Bussmann,FSV Mainz 05,23.385465571589545,0.06673697082950687,False,Left Foot,Open Play,0,1,2,Half Volley
+3890439,Younès Belhanda,Schalke 04,21.850858106719745,0.06199140497712868,False,Right Foot,Open Play,0,0,4,Normal
+3890439,Stefan Bell,FSV Mainz 05,13.225732493892357,0.06137244874532502,False,Head,Open Play,0,1,4,Normal
+3890439,Jairo Samperio Bustara,FSV Mainz 05,13.384319183283099,0.06124471980255462,False,Right Foot,Open Play,1,1,2,Half Volley
+3890439,Julian Baumgartlinger,FSV Mainz 05,8.005623023850175,0.056483939242003386,True,Head,Open Play,0,0,2,Normal
+3890439,Danny Latza,FSV Mainz 05,27.860366113890176,0.06226611722503367,False,Right Foot,Free Kick,0,0,0,Normal
+3890439,Joël Andre Job Matip,Schalke 04,9.504735661763561,0.05845754085315624,False,Head,Open Play,0,1,4,Normal
+3890439,Klaas-Jan Huntelaar,Schalke 04,22.900873345791855,0.06255244242969554,False,Left Foot,Open Play,0,0,1,Half Volley
+3890439,Pablo Ezequiel De Blasis,FSV Mainz 05,14.710540438746628,0.062273012510314085,False,Right Foot,Open Play,0,1,2,Normal
+3890439,Franco Matías Di Santo,Schalke 04,12.403628501370072,0.05688627288934682,False,Head,Open Play,0,0,4,Diving Header
+3890439,Klaas-Jan Huntelaar,Schalke 04,25.949373788205378,0.06968318119066857,False,Right Foot,Free Kick,0,0,0,Normal

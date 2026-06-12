@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-3.9408120990476068,0.055395889193091595,True,Right Foot,Open Play,1,0,3,Normal
-24.457309745759037,0.05571155408138753,False,Right Foot,Open Play,0,0,3,Normal
-13.416407864998739,0.06165241593599438,False,Right Foot,Open Play,1,1,2,Half Volley
-5.948108943185224,0.05651021480472196,False,Head,Open Play,0,0,3,Normal
-14.58355237930731,0.05548660418858487,False,Right Foot,Open Play,1,1,3,Normal
-25.292291315734914,0.058166902431036234,False,Left Foot,Open Play,0,1,1,Normal
-23.07834482799839,0.0653650282758877,False,Right Foot,Open Play,1,0,0,Normal
-19.011838417154713,0.06500827335133383,False,Right Foot,Open Play,1,1,2,Normal
-33.66481843111588,0.07404960741847247,False,Left Foot,Open Play,1,0,0,Normal
-26.50452791505632,0.055485942527113565,False,Right Foot,Open Play,0,0,2,Normal
-30.39161068452938,0.0705640240214844,True,Right Foot,Open Play,0,0,1,Normal
-21.788299612406657,0.06031189455718034,False,Right Foot,Free Kick,0,0,0,Normal
-8.906739021662188,0.05643387161405817,False,Head,Open Play,0,1,3,Normal
-21.102843410308477,0.059735428837286754,False,Right Foot,Open Play,1,1,2,Normal
-9.90201999594022,0.05581051457143519,False,Right Foot,Open Play,1,0,2,Volley
-21.277687844312407,0.06573875648380141,False,Right Foot,Open Play,1,0,2,Normal
-11.535163631262455,0.059700199249549786,False,Head,Open Play,0,0,3,Normal
-22.198423367437613,0.06629284936764183,False,Left Foot,Open Play,1,1,2,Normal
-12.267436570041843,0.060217139983775134,False,Right Foot,Open Play,0,0,3,Normal
-28.50701668010877,0.06435125896661466,False,Right Foot,Open Play,0,0,2,Normal
-10.454664030948104,0.05728112404373309,False,Right Foot,Open Play,1,0,1,Normal
-26.907248094147427,0.06869175543017997,False,Left Foot,Open Play,0,0,1,Normal
-16.335544068074384,0.0549454704057674,False,Right Foot,Open Play,0,0,0,Normal
-7.211102550927981,0.057505987124957865,False,Head,Open Play,0,1,3,Normal
-23.892467432226415,0.06585518290624695,False,Left Foot,Open Play,0,1,3,Normal
-9.193475947648968,0.05929676494132369,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912517,Loreta Kullashi,Sassuolo W,3.9408120990476068,0.055395889193091595,True,Right Foot,Open Play,1,0,3,Normal
+3912517,Loreta Kullashi,Sassuolo W,24.457309745759037,0.05571155408138753,False,Right Foot,Open Play,0,0,3,Normal
+3912517,Laura Bourgouin,Pomigliano,13.416407864998739,0.06165241593599438,False,Right Foot,Open Play,1,1,2,Half Volley
+3912517,Zhanna Ferrario,Pomigliano,5.948108943185224,0.05651021480472196,False,Head,Open Play,0,0,3,Normal
+3912517,Virginia Di Giammarino,Pomigliano,14.58355237930731,0.05548660418858487,False,Right Foot,Open Play,1,1,3,Normal
+3912517,Lana Clelland,Sassuolo W,25.292291315734914,0.058166902431036234,False,Left Foot,Open Play,0,1,1,Normal
+3912517,Refiloe Jane,Sassuolo W,23.07834482799839,0.0653650282758877,False,Right Foot,Open Play,1,0,0,Normal
+3912517,Dalila Belén Ippolito,Pomigliano,19.011838417154713,0.06500827335133383,False,Right Foot,Open Play,1,1,2,Normal
+3912517,Virginia Di Giammarino,Pomigliano,33.66481843111588,0.07404960741847247,False,Left Foot,Open Play,1,0,0,Normal
+3912517,Loreta Kullashi,Sassuolo W,26.50452791505632,0.055485942527113565,False,Right Foot,Open Play,0,0,2,Normal
+3912517,Lana Clelland,Sassuolo W,30.39161068452938,0.0705640240214844,True,Right Foot,Open Play,0,0,1,Normal
+3912517,Iris Madeleine Rabot,Pomigliano,21.788299612406657,0.06031189455718034,False,Right Foot,Free Kick,0,0,0,Normal
+3912517,Chiara Beccari,Sassuolo W,8.906739021662188,0.05643387161405817,False,Head,Open Play,0,1,3,Normal
+3912517,Iris Madeleine Rabot,Pomigliano,21.102843410308477,0.059735428837286754,False,Right Foot,Open Play,1,1,2,Normal
+3912517,Aryana Lynn Harvey,Pomigliano,9.90201999594022,0.05581051457143519,False,Right Foot,Open Play,1,0,2,Volley
+3912517,Cecilia Prugna,Sassuolo W,21.277687844312407,0.06573875648380141,False,Right Foot,Open Play,1,0,2,Normal
+3912517,Chiara Beccari,Sassuolo W,11.535163631262455,0.059700199249549786,False,Head,Open Play,0,0,3,Normal
+3912517,Cecilia Prugna,Sassuolo W,22.198423367437613,0.06629284936764183,False,Left Foot,Open Play,1,1,2,Normal
+3912517,Chiara Beccari,Sassuolo W,12.267436570041843,0.060217139983775134,False,Right Foot,Open Play,0,0,3,Normal
+3912517,Chiara Beccari,Sassuolo W,28.50701668010877,0.06435125896661466,False,Right Foot,Open Play,0,0,2,Normal
+3912517,Cecilia Prugna,Sassuolo W,10.454664030948104,0.05728112404373309,False,Right Foot,Open Play,1,0,1,Normal
+3912517,Martina Fusini,Pomigliano,26.907248094147427,0.06869175543017997,False,Left Foot,Open Play,0,0,1,Normal
+3912517,Daniela Sabatino,Sassuolo W,16.335544068074384,0.0549454704057674,False,Right Foot,Open Play,0,0,0,Normal
+3912517,Chiara Manca,Pomigliano,7.211102550927981,0.057505987124957865,False,Head,Open Play,0,1,3,Normal
+3912517,Ana Lucía Martínez Maldonado,Pomigliano,23.892467432226415,0.06585518290624695,False,Left Foot,Open Play,0,1,3,Normal
+3912517,Daniela Sabatino,Sassuolo W,9.193475947648968,0.05929676494132369,False,Left Foot,Open Play,1,0,1,Normal

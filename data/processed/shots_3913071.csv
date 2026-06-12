@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.815729286552985,0.057724229923323975,False,Right Foot,Open Play,1,0,2,Normal
-10.834205093129817,0.058452713022108874,False,Right Foot,Open Play,0,0,5,Normal
-18.77711372921834,0.05879623180076096,False,Right Foot,Open Play,1,0,2,Normal
-7.305477397131557,0.05673743797214428,False,Right Foot,Open Play,1,1,2,Volley
-26.325083095785278,0.06995201215111863,False,Right Foot,Open Play,1,0,1,Normal
-9.924716620639604,0.059592822070488785,False,Right Foot,Open Play,1,0,3,Normal
-13.720058308913996,0.060965569768548375,False,Left Foot,Open Play,0,1,2,Normal
-15.787653403846948,0.055474271674993914,False,Right Foot,Open Play,0,0,1,Normal
-20.86935552430884,0.06420553300530107,False,Right Foot,Open Play,1,0,1,Normal
-23.093072554339756,0.061789010019589675,False,Left Foot,Open Play,1,0,1,Normal
-10.744766167767455,0.057977840936814,False,Right Foot,Open Play,1,0,2,Half Volley
-7.134423592694784,0.058329676831873144,False,Head,Open Play,0,0,2,Normal
-24.254690268069805,0.06791409053938705,False,Right Foot,Open Play,0,1,2,Normal
-10.599056561788885,0.06009739798078821,False,Head,Open Play,0,0,1,Normal
-13.931618714277244,0.057852685346248246,False,Right Foot,Open Play,0,0,2,Normal
-29.076622912573598,0.07186177820377176,False,Right Foot,Free Kick,0,0,0,Normal
-11.988327656516566,0.0600074009688131,True,Right Foot,Open Play,1,0,1,Half Volley
-7.600657866263951,0.05598961507008898,True,Head,Open Play,0,0,4,Normal
-17.042300314218146,0.05641529945931544,False,Right Foot,Open Play,1,0,3,Normal
-17.632356620712947,0.06348079327427353,False,Right Foot,Open Play,0,1,4,Normal
-20.39730374338726,0.05986372413910756,False,Left Foot,Open Play,0,1,1,Normal
-4.6010868281309305,0.05664856285965264,False,Head,Open Play,0,1,7,Normal
-10.473776778220927,0.05822290232058249,False,Head,Open Play,0,0,4,Normal
-7.071067811865476,0.05828224703394318,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913071,Lucía García Córdoba,Manchester United W,10.815729286552985,0.057724229923323975,False,Right Foot,Open Play,1,0,2,Normal
+3913071,Melvine Malard,Manchester United W,10.834205093129817,0.058452713022108874,False,Right Foot,Open Play,0,0,5,Normal
+3913071,Hinata Miyazawa,Manchester United W,18.77711372921834,0.05879623180076096,False,Right Foot,Open Play,1,0,2,Normal
+3913071,Janice Cayman,Leicester City WFC,7.305477397131557,0.05673743797214428,False,Right Foot,Open Play,1,1,2,Volley
+3913071,Aileen Whelan,Leicester City WFC,26.325083095785278,0.06995201215111863,False,Right Foot,Open Play,1,0,1,Normal
+3913071,Nikita Parris,Manchester United W,9.924716620639604,0.059592822070488785,False,Right Foot,Open Play,1,0,3,Normal
+3913071,Nikita Parris,Manchester United W,13.720058308913996,0.060965569768548375,False,Left Foot,Open Play,0,1,2,Normal
+3913071,Lucía García Córdoba,Manchester United W,15.787653403846948,0.055474271674993914,False,Right Foot,Open Play,0,0,1,Normal
+3913071,Katie Zelem,Manchester United W,20.86935552430884,0.06420553300530107,False,Right Foot,Open Play,1,0,1,Normal
+3913071,Katie Zelem,Manchester United W,23.093072554339756,0.061789010019589675,False,Left Foot,Open Play,1,0,1,Normal
+3913071,Hinata Miyazawa,Manchester United W,10.744766167767455,0.057977840936814,False,Right Foot,Open Play,1,0,2,Half Volley
+3913071,Melvine Malard,Manchester United W,7.134423592694784,0.058329676831873144,False,Head,Open Play,0,0,2,Normal
+3913071,Hinata Miyazawa,Manchester United W,24.254690268069805,0.06791409053938705,False,Right Foot,Open Play,0,1,2,Normal
+3913071,Nikita Parris,Manchester United W,10.599056561788885,0.06009739798078821,False,Head,Open Play,0,0,1,Normal
+3913071,Lucía García Córdoba,Manchester United W,13.931618714277244,0.057852685346248246,False,Right Foot,Open Play,0,0,2,Normal
+3913071,Katie Zelem,Manchester United W,29.076622912573598,0.07186177820377176,False,Right Foot,Free Kick,0,0,0,Normal
+3913071,Aileen Whelan,Leicester City WFC,11.988327656516566,0.0600074009688131,True,Right Foot,Open Play,1,0,1,Half Volley
+3913071,Maya Le Tissier,Manchester United W,7.600657866263951,0.05598961507008898,True,Head,Open Play,0,0,4,Normal
+3913071,Lena Petermann,Leicester City WFC,17.042300314218146,0.05641529945931544,False,Right Foot,Open Play,1,0,3,Normal
+3913071,Leah Galton,Manchester United W,17.632356620712947,0.06348079327427353,False,Right Foot,Open Play,0,1,4,Normal
+3913071,Hannah Jayne Blundell,Manchester United W,20.39730374338726,0.05986372413910756,False,Left Foot,Open Play,0,1,1,Normal
+3913071,Leah Galton,Manchester United W,4.6010868281309305,0.05664856285965264,False,Head,Open Play,0,1,7,Normal
+3913071,Nikita Parris,Manchester United W,10.473776778220927,0.05822290232058249,False,Head,Open Play,0,0,4,Normal
+3913071,Rachel Williams,Manchester United W,7.071067811865476,0.05828224703394318,False,Head,Open Play,0,1,2,Normal

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.826237921249266,0.05737438216829597,False,Head,Open Play,0,1,3,Normal
-26.82088738278433,0.06160825868640959,False,Right Foot,Free Kick,0,0,0,Normal
-19.48589233265955,0.06515577677576305,False,Right Foot,Open Play,1,0,2,Volley
-31.961226509631953,0.0712342204891594,False,Left Foot,Open Play,1,0,1,Normal
-22.225210910135363,0.06634116971201975,False,Right Foot,Open Play,0,0,2,Normal
-29.06819567843866,0.07187916656833399,False,Right Foot,Open Play,0,1,1,Normal
-22.516216378423792,0.06030695110714266,False,Right Foot,Open Play,1,0,2,Volley
-16.003124694883812,0.06227239992943476,False,Left Foot,Open Play,0,0,1,Normal
-29.920060160367328,0.05583435664939797,False,Left Foot,Open Play,0,0,2,Normal
-9.104943712072027,0.055701034631568946,False,Head,Open Play,0,0,1,Normal
-32.645520366506645,0.07314946454474497,False,Right Foot,Open Play,0,1,1,Normal
-39.31462832076631,0.0748772114240929,False,Left Foot,Open Play,0,0,0,Normal
-8.472307831990053,0.058627741814283076,False,Head,Open Play,0,1,2,Normal
-32.003906011610525,0.06007284671903425,False,Right Foot,Open Play,0,0,2,Normal
-27.11825953117198,0.05528150407757565,False,Left Foot,Open Play,0,0,2,Normal
-10.532331175955301,0.052551332029521995,False,Right Foot,Open Play,0,0,2,Normal
-10.885311203635846,0.0597382374172906,False,Right Foot,Open Play,0,1,3,Normal
-30.34023730955314,0.07295238896600963,False,Right Foot,Open Play,0,0,1,Normal
-17.252536045462993,0.06338961885010176,False,Right Foot,Open Play,0,0,2,Normal
-13.493702234746403,0.051782360124629785,False,Left Foot,Open Play,0,0,2,Normal
-12.445882853377665,0.05526128282162566,False,Left Foot,Open Play,1,0,1,Half Volley
-40.964862992569614,0.05890061668410823,False,Right Foot,Open Play,1,0,1,Normal
-25.632986560289844,0.06286465961690675,False,Left Foot,Open Play,0,0,3,Normal
-24.915858403835895,0.053725017495594156,False,Left Foot,Open Play,0,0,1,Normal
-24.762067765031254,0.06701361431834765,False,Right Foot,Open Play,0,0,2,Normal
-18.18928255869373,0.05103435940564289,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68359,Moisés Hurtado Pérez,Espanyol,7.826237921249266,0.05737438216829597,False,Head,Open Play,0,1,3,Normal
+68359,Xavier Hernández Creus,Barcelona,26.82088738278433,0.06160825868640959,False,Right Foot,Free Kick,0,0,0,Normal
+68359,Eiður Smári Guðjohnsen,Barcelona,19.48589233265955,0.06515577677576305,False,Right Foot,Open Play,1,0,2,Volley
+68359,Sylvio Mendes Campos Junior,Barcelona,31.961226509631953,0.0712342204891594,False,Left Foot,Open Play,1,0,1,Normal
+68359,Bojan Krkíc Pérez,Barcelona,22.225210910135363,0.06634116971201975,False,Right Foot,Open Play,0,0,2,Normal
+68359,Ángel Martínez Cervera,Espanyol,29.06819567843866,0.07187916656833399,False,Right Foot,Open Play,0,1,1,Normal
+68359,Moisés Hurtado Pérez,Espanyol,22.516216378423792,0.06030695110714266,False,Right Foot,Open Play,1,0,2,Volley
+68359,Eiður Smári Guðjohnsen,Barcelona,16.003124694883812,0.06227239992943476,False,Left Foot,Open Play,0,0,1,Normal
+68359,Gianluca Zambrotta,Barcelona,29.920060160367328,0.05583435664939797,False,Left Foot,Open Play,0,0,2,Normal
+68359,Xavier Hernández Creus,Barcelona,9.104943712072027,0.055701034631568946,False,Head,Open Play,0,0,1,Normal
+68359,Samuel Eto''o Fils,Barcelona,32.645520366506645,0.07314946454474497,False,Right Foot,Open Play,0,1,1,Normal
+68359,Sylvio Mendes Campos Junior,Barcelona,39.31462832076631,0.0748772114240929,False,Left Foot,Open Play,0,0,0,Normal
+68359,Giovani dos Santos Ramírez,Barcelona,8.472307831990053,0.058627741814283076,False,Head,Open Play,0,1,2,Normal
+68359,Luis García Fernández,Espanyol,32.003906011610525,0.06007284671903425,False,Right Foot,Open Play,0,0,2,Normal
+68359,Bojan Krkíc Pérez,Barcelona,27.11825953117198,0.05528150407757565,False,Left Foot,Open Play,0,0,2,Normal
+68359,Lionel Andrés Messi Cuccittini,Barcelona,10.532331175955301,0.052551332029521995,False,Right Foot,Open Play,0,0,2,Normal
+68359,Samuel Eto''o Fils,Barcelona,10.885311203635846,0.0597382374172906,False,Right Foot,Open Play,0,1,3,Normal
+68359,Bojan Krkíc Pérez,Barcelona,30.34023730955314,0.07295238896600963,False,Right Foot,Open Play,0,0,1,Normal
+68359,Samuel Eto''o Fils,Barcelona,17.252536045462993,0.06338961885010176,False,Right Foot,Open Play,0,0,2,Normal
+68359,Lionel Andrés Messi Cuccittini,Barcelona,13.493702234746403,0.051782360124629785,False,Left Foot,Open Play,0,0,2,Normal
+68359,Samuel Eto''o Fils,Barcelona,12.445882853377665,0.05526128282162566,False,Left Foot,Open Play,1,0,1,Half Volley
+68359,Moisés Hurtado Pérez,Espanyol,40.964862992569614,0.05890061668410823,False,Right Foot,Open Play,1,0,1,Normal
+68359,Lionel Andrés Messi Cuccittini,Barcelona,25.632986560289844,0.06286465961690675,False,Left Foot,Open Play,0,0,3,Normal
+68359,Pablo Javier Zabaleta Girod,Espanyol,24.915858403835895,0.053725017495594156,False,Left Foot,Open Play,0,0,1,Normal
+68359,Raúl Tamudo Montero,Espanyol,24.762067765031254,0.06701361431834765,False,Right Foot,Open Play,0,0,2,Normal
+68359,Samuel Eto''o Fils,Barcelona,18.18928255869373,0.05103435940564289,False,Right Foot,Open Play,0,0,1,Normal

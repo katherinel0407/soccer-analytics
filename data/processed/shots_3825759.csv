@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.07847682775013,0.06078004562273683,False,Left Foot,Open Play,0,1,2,Normal
-13.737903770226376,0.05679440952725136,True,Left Foot,Open Play,0,0,2,Normal
-11.10405331399305,0.055844259860222296,False,Right Foot,Open Play,1,0,3,Volley
-31.951369297731198,0.06333553979566398,False,Right Foot,Free Kick,0,0,0,Normal
-10.278618584226187,0.059716107467817296,True,Left Foot,Open Play,0,1,2,Normal
-20.44529285679225,0.06561217887379425,False,Right Foot,Open Play,0,1,2,Normal
-12.560254774486067,0.05604350546664287,False,Right Foot,Open Play,1,1,4,Normal
-11.200446419674533,0.060468536628943415,False,Right Foot,Open Play,0,1,5,Half Volley
-7.381734213584229,0.055778463250867404,True,Right Foot,Open Play,1,0,2,Volley
-16.4048773235279,0.055048714659288726,False,Right Foot,Open Play,0,1,1,Normal
-10.27715914054073,0.05944856006737045,False,Head,Open Play,0,0,2,Diving Header
-25.653069991718343,0.06311213232589695,False,Right Foot,Free Kick,0,0,0,Normal
-16.995587662684688,0.05237260519890271,False,Right Foot,Open Play,0,0,1,Normal
-13.02689525558565,0.052968080767291155,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825759,Juan Pablo Añor Acosta,Málaga,25.07847682775013,0.06078004562273683,False,Left Foot,Open Play,0,1,2,Normal
+3825759,Juan Pablo Añor Acosta,Málaga,13.737903770226376,0.05679440952725136,True,Left Foot,Open Play,0,0,2,Normal
+3825759,Egor Filipenko,Málaga,11.10405331399305,0.055844259860222296,False,Right Foot,Open Play,1,0,3,Volley
+3825759,Pedro León Sánchez Gil,Getafe,31.951369297731198,0.06333553979566398,False,Right Foot,Free Kick,0,0,0,Normal
+3825759,Christian Atsu Twasam,Málaga,10.278618584226187,0.059716107467817296,True,Left Foot,Open Play,0,1,2,Normal
+3825759,Moisés Gómez Bordonado,Getafe,20.44529285679225,0.06561217887379425,False,Right Foot,Open Play,0,1,2,Normal
+3825759,Víctor Rodríguez Romero,Getafe,12.560254774486067,0.05604350546664287,False,Right Foot,Open Play,1,1,4,Normal
+3825759,Stefan Šćepović,Getafe,11.200446419674533,0.060468536628943415,False,Right Foot,Open Play,0,1,5,Half Volley
+3825759,Charles Días Barbosa de Oliveira,Málaga,7.381734213584229,0.055778463250867404,True,Right Foot,Open Play,1,0,2,Volley
+3825759,Charles Días Barbosa de Oliveira,Málaga,16.4048773235279,0.055048714659288726,False,Right Foot,Open Play,0,1,1,Normal
+3825759,Duje Čop,Málaga,10.27715914054073,0.05944856006737045,False,Head,Open Play,0,0,2,Diving Header
+3825759,Pedro León Sánchez Gil,Getafe,25.653069991718343,0.06311213232589695,False,Right Foot,Free Kick,0,0,0,Normal
+3825759,Duje Čop,Málaga,16.995587662684688,0.05237260519890271,False,Right Foot,Open Play,0,0,1,Normal
+3825759,Roque Luis Santa Cruz Cantero,Málaga,13.02689525558565,0.052968080767291155,False,Head,Open Play,0,1,2,Normal

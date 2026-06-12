@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.186773244895647,0.06349985131451397,False,Left Foot,Open Play,1,1,2,Normal
-58.137767414994535,0.08829625571599657,False,Left Foot,Open Play,0,1,1,Normal
-15.231546211727817,0.0524395051352899,False,Right Foot,Open Play,0,0,1,Normal
-34.92849839314596,0.0604301306053174,False,Right Foot,Open Play,0,0,1,Normal
-7.810249675906654,0.05852323815906913,False,Head,Open Play,0,0,6,Normal
-21.095023109728988,0.057407813050238135,False,Right Foot,Open Play,1,0,3,Half Volley
-26.419689627245813,0.07001551335143366,False,Left Foot,Open Play,1,1,1,Normal
-12.206555615733702,0.06103703463512825,False,Left Foot,Open Play,0,0,2,Normal
-8.246211251235321,0.058599252830825864,False,Right Foot,Open Play,1,0,1,Backheel
-15.556349186104045,0.06270036604226387,False,Left Foot,Open Play,0,0,1,Normal
-1.4142135623730951,0.05497656082664133,True,Right Foot,Open Play,1,0,2,Volley
-17.029386365926403,0.06325637343712076,False,Left Foot,Open Play,0,0,1,Normal
-13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,1,Volley
-27.018512172212592,0.06692623513413617,False,Right Foot,Open Play,1,1,1,Normal
-21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,0,0,4,Normal
-26.1725046566048,0.06741209291206611,False,Right Foot,Open Play,0,0,1,Normal
-15.0,0.0608685876884121,False,Head,Open Play,0,0,2,Normal
-30.4138126514911,0.05383774596123744,False,Left Foot,Open Play,0,0,1,Normal
-11.704699910719626,0.05937729985753049,False,Left Foot,Open Play,1,0,2,Volley
-15.524174696260024,0.059292751046415224,False,Left Foot,Open Play,0,0,5,Half Volley
-33.13608305156178,0.06761254894204079,False,Right Foot,Free Kick,0,0,0,Normal
-23.0,0.06448536161976014,False,Left Foot,Open Play,1,0,1,Volley
-16.401219466856727,0.06340913375881178,False,Head,Open Play,0,1,4,Normal
-16.1245154965971,0.06327339620956124,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7546,Édison Michael Flores Peralta,Peru,24.186773244895647,0.06349985131451397,False,Left Foot,Open Play,1,1,2,Normal
+7546,Víctor Yoshimar Yotún Flores,Peru,58.137767414994535,0.08829625571599657,False,Left Foot,Open Play,0,1,1,Normal
+7546,Antoine Griezmann,France,15.231546211727817,0.0524395051352899,False,Right Foot,Open Play,0,0,1,Normal
+7546,Paul Pogba,France,34.92849839314596,0.0604301306053174,False,Right Foot,Open Play,0,0,1,Normal
+7546,Raphaël Varane,France,7.810249675906654,0.05852323815906913,False,Head,Open Play,0,0,6,Normal
+7546,Antoine Griezmann,France,21.095023109728988,0.057407813050238135,False,Right Foot,Open Play,1,0,3,Half Volley
+7546,Édison Michael Flores Peralta,Peru,26.419689627245813,0.07001551335143366,False,Left Foot,Open Play,1,1,1,Normal
+7546,José Paolo Guerrero Gonzáles,Peru,12.206555615733702,0.06103703463512825,False,Left Foot,Open Play,0,0,2,Normal
+7546,Kylian Mbappé Lottin,France,8.246211251235321,0.058599252830825864,False,Right Foot,Open Play,1,0,1,Backheel
+7546,Olivier Giroud,France,15.556349186104045,0.06270036604226387,False,Left Foot,Open Play,0,0,1,Normal
+7546,Kylian Mbappé Lottin,France,1.4142135623730951,0.05497656082664133,True,Right Foot,Open Play,1,0,2,Volley
+7546,Lucas Hernández Pi,France,17.029386365926403,0.06325637343712076,False,Left Foot,Open Play,0,0,1,Normal
+7546,Lucas Hernández Pi,France,13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,1,Volley
+7546,Pedro Jesús Aquino Sánchez,Peru,27.018512172212592,0.06692623513413617,False,Right Foot,Open Play,1,1,1,Normal
+7546,Christian Alberto Cueva Bravo,Peru,21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,0,0,4,Normal
+7546,André Martín Carrillo Díaz,Peru,26.1725046566048,0.06741209291206611,False,Right Foot,Open Play,0,0,1,Normal
+7546,José Paolo Guerrero Gonzáles,Peru,15.0,0.0608685876884121,False,Head,Open Play,0,0,2,Normal
+7546,Luis Jan Piers Advíncula Castrillón,Peru,30.4138126514911,0.05383774596123744,False,Left Foot,Open Play,0,0,1,Normal
+7546,Jefferson Agustín Farfán Guadalupe,Peru,11.704699910719626,0.05937729985753049,False,Left Foot,Open Play,1,0,2,Volley
+7546,Ousmane Dembélé,France,15.524174696260024,0.059292751046415224,False,Left Foot,Open Play,0,0,5,Half Volley
+7546,José Paolo Guerrero Gonzáles,Peru,33.13608305156178,0.06761254894204079,False,Right Foot,Free Kick,0,0,0,Normal
+7546,Blaise Matuidi,France,23.0,0.06448536161976014,False,Left Foot,Open Play,1,0,1,Volley
+7546,José Paolo Guerrero Gonzáles,Peru,16.401219466856727,0.06340913375881178,False,Head,Open Play,0,1,4,Normal
+7546,Olivier Giroud,France,16.1245154965971,0.06327339620956124,False,Left Foot,Open Play,0,0,3,Normal

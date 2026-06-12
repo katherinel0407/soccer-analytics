@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.328654929948623,0.062352672250460726,False,Right Foot,Open Play,0,0,1,Normal
-24.331050121192877,0.0630051913901663,False,Left Foot,Open Play,0,1,1,Normal
-28.935272592460578,0.07120123425054516,False,Left Foot,Open Play,1,0,3,Normal
-25.9532271596424,0.06894858667902519,False,Right Foot,Open Play,0,0,3,Normal
-13.926952286842946,0.06134078908064896,True,Right Foot,Open Play,0,1,3,Normal
-15.67322557739791,0.05448741739339699,False,Left Foot,Open Play,0,0,1,Normal
-27.40656855573131,0.06629353509710122,False,Left Foot,Open Play,0,1,3,Normal
-25.62674384310266,0.050581957481687374,False,Left Foot,Free Kick,0,0,0,Normal
-5.946427498927397,0.05761697161695206,False,Right Foot,Open Play,1,0,3,Half Volley
-22.586943130932973,0.06551788345058251,False,Left Foot,Open Play,1,0,0,Volley
-14.035668847618203,0.06170405341249439,False,Left Foot,Open Play,1,0,1,Half Volley
-18.343936327844144,0.06460806558083035,False,Left Foot,Open Play,0,1,1,Normal
-24.500204080782673,0.06524689811514181,False,Left Foot,Open Play,1,0,0,Half Volley
-7.0604532432415406,0.05475359847565484,False,Head,Open Play,0,1,3,Normal
-26.300760445279906,0.0671723034737102,False,Right Foot,Open Play,0,0,1,Normal
-14.799999999999999,0.058582992065022425,False,Head,Open Play,0,0,3,Normal
-21.815590755237405,0.06685070428429195,False,Left Foot,Open Play,0,0,3,Normal
-24.745504642257753,0.06868252746691571,False,Right Foot,Open Play,0,1,1,Normal
-22.6947130407062,0.059888232600843354,True,Right Foot,Open Play,0,0,2,Lob
-30.463092423455635,0.0603000829274776,False,Right Foot,Open Play,0,0,0,Half Volley
-12.356779515715248,0.05308297346085978,False,Right Foot,Open Play,0,0,2,Normal
-16.407315441594946,0.06321778925371101,False,Right Foot,Open Play,0,0,0,Normal
-19.608671551127582,0.059945069866721004,True,Right Foot,Open Play,0,0,1,Normal
-19.220041623263977,0.055640402465947834,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70293,Francesc Fàbregas i Soler,Barcelona,29.328654929948623,0.062352672250460726,False,Right Foot,Open Play,0,0,1,Normal
+70293,Lionel Andrés Messi Cuccittini,Barcelona,24.331050121192877,0.0630051913901663,False,Left Foot,Open Play,0,1,1,Normal
+70293,Gareth Frank Bale,Real Madrid,28.935272592460578,0.07120123425054516,False,Left Foot,Open Play,1,0,3,Normal
+70293,Neymar da Silva Santos Junior,Barcelona,25.9532271596424,0.06894858667902519,False,Right Foot,Open Play,0,0,3,Normal
+70293,Neymar da Silva Santos Junior,Barcelona,13.926952286842946,0.06134078908064896,True,Right Foot,Open Play,0,1,3,Normal
+70293,Lionel Andrés Messi Cuccittini,Barcelona,15.67322557739791,0.05448741739339699,False,Left Foot,Open Play,0,0,1,Normal
+70293,Gareth Frank Bale,Real Madrid,27.40656855573131,0.06629353509710122,False,Left Foot,Open Play,0,1,3,Normal
+70293,Lionel Andrés Messi Cuccittini,Barcelona,25.62674384310266,0.050581957481687374,False,Left Foot,Free Kick,0,0,0,Normal
+70293,Sami Khedira,Real Madrid,5.946427498927397,0.05761697161695206,False,Right Foot,Open Play,1,0,3,Half Volley
+70293,Andrés Iniesta Luján,Barcelona,22.586943130932973,0.06551788345058251,False,Left Foot,Open Play,1,0,0,Volley
+70293,Neymar da Silva Santos Junior,Barcelona,14.035668847618203,0.06170405341249439,False,Left Foot,Open Play,1,0,1,Half Volley
+70293,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18.343936327844144,0.06460806558083035,False,Left Foot,Open Play,0,1,1,Normal
+70293,Ángel Fabián Di María Hernández,Real Madrid,24.500204080782673,0.06524689811514181,False,Left Foot,Open Play,1,0,0,Half Volley
+70293,Karim Benzema,Real Madrid,7.0604532432415406,0.05475359847565484,False,Head,Open Play,0,1,3,Normal
+70293,Karim Benzema,Real Madrid,26.300760445279906,0.0671723034737102,False,Right Foot,Open Play,0,0,1,Normal
+70293,Sami Khedira,Real Madrid,14.799999999999999,0.058582992065022425,False,Head,Open Play,0,0,3,Normal
+70293,Andrés Iniesta Luján,Barcelona,21.815590755237405,0.06685070428429195,False,Left Foot,Open Play,0,0,3,Normal
+70293,Andrés Iniesta Luján,Barcelona,24.745504642257753,0.06868252746691571,False,Right Foot,Open Play,0,1,1,Normal
+70293,Alexis Alejandro Sánchez Sánchez,Barcelona,22.6947130407062,0.059888232600843354,True,Right Foot,Open Play,0,0,2,Lob
+70293,Kléper Laveran Lima Ferreira,Real Madrid,30.463092423455635,0.0603000829274776,False,Right Foot,Open Play,0,0,0,Half Volley
+70293,Daniel Alves da Silva,Barcelona,12.356779515715248,0.05308297346085978,False,Right Foot,Open Play,0,0,2,Normal
+70293,Sami Khedira,Real Madrid,16.407315441594946,0.06321778925371101,False,Right Foot,Open Play,0,0,0,Normal
+70293,Jesé Rodríguez Ruiz,Real Madrid,19.608671551127582,0.059945069866721004,True,Right Foot,Open Play,0,0,1,Normal
+70293,Daniel Alves da Silva,Barcelona,19.220041623263977,0.055640402465947834,False,Right Foot,Open Play,0,0,1,Normal

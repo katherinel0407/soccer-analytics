@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.778464170278447,0.06186412809433545,False,Left Foot,Open Play,1,0,0,Normal
-23.654175107156036,0.0675380609932834,False,Left Foot,Open Play,0,0,1,Normal
-11.947384651043924,0.06086351898919659,False,Head,Open Play,0,1,1,Normal
-20.799999999999997,0.06345965436670298,False,Right Foot,Open Play,0,1,2,Normal
-8.06535802057168,0.058652909536774184,False,Left Foot,Open Play,1,1,2,Normal
-22.48488381112964,0.0536902443220897,False,Right Foot,Open Play,1,0,0,Half Volley
-27.55231387742235,0.06267947373435905,False,Left Foot,Open Play,0,0,2,Normal
-5.780138406647366,0.05553163387142243,True,Right Foot,Open Play,1,0,2,Volley
-25.009798079952585,0.0657815888345765,False,Right Foot,Open Play,0,0,2,Normal
-30.348805577814762,0.06490225862078915,False,Head,Open Play,0,0,2,Normal
-12.41933975700802,0.058420470856372794,True,Left Foot,Open Play,0,0,3,Normal
-13.109538512091104,0.05987015649998202,False,Left Foot,Open Play,0,1,3,Normal
-16.715561611863365,0.06345586004221275,False,Right Foot,Open Play,1,0,1,Normal
-22.989562849258352,0.06480901506172707,False,Right Foot,Open Play,1,0,1,Half Volley
-18.80452073305778,0.053144005260347876,False,Right Foot,Open Play,1,0,1,Normal
-19.57268504830137,0.05764139078294179,False,Right Foot,Open Play,1,0,0,Half Volley
-23.53083083956026,0.06775123196457296,False,Right Foot,Open Play,0,0,2,Normal
-18.298087331740444,0.06396707615863574,True,Left Foot,Open Play,0,1,3,Normal
-27.080066469637774,0.07031854211047446,False,Right Foot,Open Play,0,0,0,Half Volley
-21.910727965998756,0.06291256145013387,False,Right Foot,Open Play,0,0,2,Normal
-20.303940504246953,0.056087448939442154,True,Right Foot,Open Play,0,0,1,Lob
-23.34309319691802,0.05646908061837996,False,Right Foot,Open Play,0,0,1,Normal
-5.166236541235794,0.0573264391727268,True,Head,Open Play,0,0,3,Normal
-18.040509970618906,0.055831983360465104,False,Right Foot,Open Play,0,0,1,Normal
-10.210778618695045,0.05931441612567904,False,Head,Open Play,0,1,1,Normal
-24.4468811916776,0.052392600105689434,False,Left Foot,Open Play,0,0,1,Normal
-16.977926846349643,0.06370412164582064,False,Left Foot,Open Play,1,0,0,Normal
-22.137072977247914,0.058532109891011534,False,Right Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3888713,Marcial Manuel Pina Morales,Barcelona,28.778464170278447,0.06186412809433545,False,Left Foot,Open Play,1,0,0,Normal
+3888713,Jesus Antonio de la Cruz Gallego,Barcelona,23.654175107156036,0.0675380609932834,False,Left Foot,Open Play,0,0,1,Normal
+3888713,José Martínez Sánchez,Real Madrid,11.947384651043924,0.06086351898919659,False,Head,Open Play,0,1,1,Normal
+3888713,José Martínez Sánchez,Real Madrid,20.799999999999997,0.06345965436670298,False,Right Foot,Open Play,0,1,2,Normal
+3888713,Manuel Velázquez Villaverde,Real Madrid,8.06535802057168,0.058652909536774184,False,Left Foot,Open Play,1,1,2,Normal
+3888713,Carles Rexach i Cerdà,Barcelona,22.48488381112964,0.0536902443220897,False,Right Foot,Open Play,1,0,0,Half Volley
+3888713,Marcial Manuel Pina Morales,Barcelona,27.55231387742235,0.06267947373435905,False,Left Foot,Open Play,0,0,2,Normal
+3888713,Juan Manuel Asensi Ripoll,Barcelona,5.780138406647366,0.05553163387142243,True,Right Foot,Open Play,1,0,2,Volley
+3888713,Carles Rexach i Cerdà,Barcelona,25.009798079952585,0.0657815888345765,False,Right Foot,Open Play,0,0,2,Normal
+3888713,Juan Carlos Pérez López,Barcelona,30.348805577814762,0.06490225862078915,False,Head,Open Play,0,0,2,Normal
+3888713,Johan Cruyff,Barcelona,12.41933975700802,0.058420470856372794,True,Left Foot,Open Play,0,0,3,Normal
+3888713,Manuel Velázquez Villaverde,Real Madrid,13.109538512091104,0.05987015649998202,False,Left Foot,Open Play,0,1,3,Normal
+3888713,José Martínez Sánchez,Real Madrid,16.715561611863365,0.06345586004221275,False,Right Foot,Open Play,1,0,1,Normal
+3888713,José Martínez Sánchez,Real Madrid,22.989562849258352,0.06480901506172707,False,Right Foot,Open Play,1,0,1,Half Volley
+3888713,Carlos Alonso González,Real Madrid,18.80452073305778,0.053144005260347876,False,Right Foot,Open Play,1,0,1,Normal
+3888713,Carles Rexach i Cerdà,Barcelona,19.57268504830137,0.05764139078294179,False,Right Foot,Open Play,1,0,0,Half Volley
+3888713,Johan Cruyff,Barcelona,23.53083083956026,0.06775123196457296,False,Right Foot,Open Play,0,0,2,Normal
+3888713,Juan Manuel Asensi Ripoll,Barcelona,18.298087331740444,0.06396707615863574,True,Left Foot,Open Play,0,1,3,Normal
+3888713,Johan Cruyff,Barcelona,27.080066469637774,0.07031854211047446,False,Right Foot,Open Play,0,0,0,Half Volley
+3888713,Johan Cruyff,Barcelona,21.910727965998756,0.06291256145013387,False,Right Foot,Open Play,0,0,2,Normal
+3888713,Juan Carlos Pérez López,Barcelona,20.303940504246953,0.056087448939442154,True,Right Foot,Open Play,0,0,1,Lob
+3888713,Marcial Manuel Pina Morales,Barcelona,23.34309319691802,0.05646908061837996,False,Right Foot,Open Play,0,0,1,Normal
+3888713,Hugo Alejandro Sotil Yerén,Barcelona,5.166236541235794,0.0573264391727268,True,Head,Open Play,0,0,3,Normal
+3888713,Carles Rexach i Cerdà,Barcelona,18.040509970618906,0.055831983360465104,False,Right Foot,Open Play,0,0,1,Normal
+3888713,Hugo Alejandro Sotil Yerén,Barcelona,10.210778618695045,0.05931441612567904,False,Head,Open Play,0,1,1,Normal
+3888713,Carles Rexach i Cerdà,Barcelona,24.4468811916776,0.052392600105689434,False,Left Foot,Open Play,0,0,1,Normal
+3888713,Juan Manuel Asensi Ripoll,Barcelona,16.977926846349643,0.06370412164582064,False,Left Foot,Open Play,1,0,0,Normal
+3888713,Johan Cruyff,Barcelona,22.137072977247914,0.058532109891011534,False,Right Foot,Open Play,0,0,3,Half Volley

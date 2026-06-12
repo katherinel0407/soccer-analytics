@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.756816492197611,0.0619108766694295,True,Left Foot,Open Play,1,0,2,Half Volley
-18.64886055500443,0.06474654305271174,False,Right Foot,Open Play,1,0,3,Normal
-25.131056483960233,0.054900972505526724,False,Left Foot,Open Play,1,0,1,Normal
-11.676043850551437,0.05807170966580063,False,Head,Open Play,0,1,4,Normal
-32.18648784816387,0.07422415639139555,False,Left Foot,Open Play,0,0,0,Normal
-24.260667756679744,0.06690716726783988,False,Right Foot,Open Play,0,0,1,Normal
-26.031711430484172,0.06837176002828727,True,Right Foot,Free Kick,0,0,0,Normal
-32.64659247149692,0.07329767428577094,True,Right Foot,Free Kick,0,0,0,Normal
-12.84133949399361,0.059184372744419296,False,Right Foot,Open Play,0,0,2,Normal
-25.23430205097815,0.06134420672386326,False,Right Foot,Free Kick,0,0,0,Normal
-21.54158768521949,0.0656264333340251,False,Left Foot,Open Play,0,0,4,Normal
-10.478549517943785,0.059983226720065716,False,Head,Open Play,0,0,3,Normal
-12.58769240170731,0.061215167158529274,False,Left Foot,Open Play,0,1,2,Normal
-28.008034561532522,0.0622185759290218,False,Left Foot,Open Play,0,0,2,Normal
-15.45639026422405,0.054532326812573896,False,Head,Open Play,0,1,2,Normal
-29.662434155004878,0.06592280885527156,False,Right Foot,Open Play,0,0,0,Normal
-24.55239295873215,0.06674211478377043,False,Right Foot,Open Play,0,0,2,Normal
-25.164459064323232,0.06774865169769825,False,Right Foot,Open Play,1,0,2,Normal
-20.099751242241783,0.057402978997581,False,Left Foot,Open Play,0,0,3,Normal
-10.581587782558906,0.056523826135515064,True,Right Foot,Open Play,0,0,3,Normal
-30.77742679302478,0.06631399542127031,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69233,Andrés Iniesta Luján,Barcelona,13.756816492197611,0.0619108766694295,True,Left Foot,Open Play,1,0,2,Half Volley
+69233,Bojan Krkíc Pérez,Barcelona,18.64886055500443,0.06474654305271174,False,Right Foot,Open Play,1,0,3,Normal
+69233,Lionel Andrés Messi Cuccittini,Barcelona,25.131056483960233,0.054900972505526724,False,Left Foot,Open Play,1,0,1,Normal
+69233,Rafael Márquez Álvarez,Barcelona,11.676043850551437,0.05807170966580063,False,Head,Open Play,0,1,4,Normal
+69233,Maxwell Scherrer Cabelino Andrade,Barcelona,32.18648784816387,0.07422415639139555,False,Left Foot,Open Play,0,0,0,Normal
+69233,Bojan Krkíc Pérez,Barcelona,24.260667756679744,0.06690716726783988,False,Right Foot,Open Play,0,0,1,Normal
+69233,Thierry Henry,Barcelona,26.031711430484172,0.06837176002828727,True,Right Foot,Free Kick,0,0,0,Normal
+69233,Rafael Márquez Álvarez,Barcelona,32.64659247149692,0.07329767428577094,True,Right Foot,Free Kick,0,0,0,Normal
+69233,Antonio Moral Segura,Racing Santander,12.84133949399361,0.059184372744419296,False,Right Foot,Open Play,0,0,2,Normal
+69233,Papa Kouly Diop,Racing Santander,25.23430205097815,0.06134420672386326,False,Right Foot,Free Kick,0,0,0,Normal
+69233,Lionel Andrés Messi Cuccittini,Barcelona,21.54158768521949,0.0656264333340251,False,Left Foot,Open Play,0,0,4,Normal
+69233,Marc Torrejón Moya,Racing Santander,10.478549517943785,0.059983226720065716,False,Head,Open Play,0,0,3,Normal
+69233,Bojan Krkíc Pérez,Barcelona,12.58769240170731,0.061215167158529274,False,Left Foot,Open Play,0,1,2,Normal
+69233,Mehdi Lacen,Racing Santander,28.008034561532522,0.0622185759290218,False,Left Foot,Open Play,0,0,2,Normal
+69233,Papa Kouly Diop,Racing Santander,15.45639026422405,0.054532326812573896,False,Head,Open Play,0,1,2,Normal
+69233,Gnégnéri Yaya Touré,Barcelona,29.662434155004878,0.06592280885527156,False,Right Foot,Open Play,0,0,0,Normal
+69233,Thierry Henry,Barcelona,24.55239295873215,0.06674211478377043,False,Right Foot,Open Play,0,0,2,Normal
+69233,Andrés Iniesta Luján,Barcelona,25.164459064323232,0.06774865169769825,False,Right Foot,Open Play,1,0,2,Normal
+69233,Lionel Andrés Messi Cuccittini,Barcelona,20.099751242241783,0.057402978997581,False,Left Foot,Open Play,0,0,3,Normal
+69233,Thiago Alcântara do Nascimento,Barcelona,10.581587782558906,0.056523826135515064,True,Right Foot,Open Play,0,0,3,Normal
+69233,Thiago Alcântara do Nascimento,Barcelona,30.77742679302478,0.06631399542127031,False,Right Foot,Open Play,0,0,1,Normal

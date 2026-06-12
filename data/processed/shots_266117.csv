@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.465180361560906,0.05996767846755142,False,Right Foot,Open Play,1,0,1,Volley
-9.924716620639604,0.059592822070488785,False,Right Foot,Open Play,0,0,1,Normal
-5.247856705360772,0.054545111637651175,False,Left Foot,Open Play,1,0,1,Volley
-8.275868534480235,0.05886787745795677,False,Head,Open Play,0,1,2,Normal
-15.11820095117141,0.06264816938980994,False,Right Foot,Open Play,1,0,1,Normal
-18.181584089402115,0.05616185341098735,False,Left Foot,Open Play,0,0,3,Half Volley
-27.796582523756406,0.05357484470319719,False,Right Foot,Open Play,0,0,1,Normal
-63.08597308435529,0.094565726949685,False,Left Foot,Open Play,0,0,2,Normal
-29.883942176359525,0.07103219464062191,False,Right Foot,Open Play,0,0,1,Normal
-17.454512310574586,0.06317367997772627,True,Right Foot,Open Play,0,0,1,Normal
-9.402127418834521,0.05942130005912466,False,Head,Open Play,0,1,4,Normal
-16.0701586799882,0.05546120711730778,False,Head,Open Play,0,0,1,Normal
-5.5443665102516455,0.056749171549743016,True,Head,Open Play,0,1,3,Normal
-12.78827588066507,0.061361711228969204,True,Right Foot,Open Play,1,0,3,Normal
-13.461797799699713,0.061161143090253466,False,Right Foot,Open Play,0,1,2,Normal
-28.1513765205185,0.061947171989245264,False,Right Foot,Free Kick,0,0,0,Normal
-13.946325680981355,0.05438736101509892,False,Right Foot,Open Play,1,0,1,Normal
-18.700267377767627,0.0647971701810735,False,Right Foot,Open Play,1,1,1,Normal
-6.5604877867426925,0.05804264589812098,True,Head,Open Play,0,0,0,Normal
-9.786214794290993,0.05957421743261462,True,Right Foot,Open Play,0,0,3,Normal
-24.04537377542715,0.06776451657158207,False,Right Foot,Open Play,0,0,2,Normal
-20.478769494283586,0.057618858442761454,False,Left Foot,Open Play,0,0,3,Normal
-27.24059470716452,0.06973453606548038,False,Right Foot,Open Play,0,0,0,Normal
-34.078732370791016,0.07591273332888167,False,Right Foot,Open Play,0,0,2,Normal
-11.253888216967509,0.0581369625062893,True,Right Foot,Open Play,0,0,2,Normal
-34.220023378133455,0.05540497784870867,False,Left Foot,Open Play,0,0,0,Normal
-20.408821622033944,0.0635380681468489,False,Right Foot,Open Play,1,0,1,Normal
-32.4154284253656,0.07457049102077755,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266117,Youssef El-Arabi,Granada,10.465180361560906,0.05996767846755142,False,Right Foot,Open Play,1,0,1,Volley
+266117,Youssef El-Arabi,Granada,9.924716620639604,0.059592822070488785,False,Right Foot,Open Play,0,0,1,Normal
+266117,Munir El Haddadi Mohamed,Barcelona,5.247856705360772,0.054545111637651175,False,Left Foot,Open Play,1,0,1,Volley
+266117,Neymar da Silva Santos Junior,Barcelona,8.275868534480235,0.05886787745795677,False,Head,Open Play,0,1,2,Normal
+266117,Neymar da Silva Santos Junior,Barcelona,15.11820095117141,0.06264816938980994,False,Right Foot,Open Play,1,0,1,Normal
+266117,Munir El Haddadi Mohamed,Barcelona,18.181584089402115,0.05616185341098735,False,Left Foot,Open Play,0,0,3,Half Volley
+266117,Youssef El-Arabi,Granada,27.796582523756406,0.05357484470319719,False,Right Foot,Open Play,0,0,1,Normal
+266117,Javier Márquez Moreno,Granada,63.08597308435529,0.094565726949685,False,Left Foot,Open Play,0,0,2,Normal
+266117,Xavier Hernández Creus,Barcelona,29.883942176359525,0.07103219464062191,False,Right Foot,Open Play,0,0,1,Normal
+266117,Neymar da Silva Santos Junior,Barcelona,17.454512310574586,0.06317367997772627,True,Right Foot,Open Play,0,0,1,Normal
+266117,Jean-Sylvain Claude Babin,Granada,9.402127418834521,0.05942130005912466,False,Head,Open Play,0,1,4,Normal
+266117,Isaac Ajayi Success,Granada,16.0701586799882,0.05546120711730778,False,Head,Open Play,0,0,1,Normal
+266117,Ivan Rakitić,Barcelona,5.5443665102516455,0.056749171549743016,True,Head,Open Play,0,1,3,Normal
+266117,Neymar da Silva Santos Junior,Barcelona,12.78827588066507,0.061361711228969204,True,Right Foot,Open Play,1,0,3,Normal
+266117,Neymar da Silva Santos Junior,Barcelona,13.461797799699713,0.061161143090253466,False,Right Foot,Open Play,0,1,2,Normal
+266117,Xavier Hernández Creus,Barcelona,28.1513765205185,0.061947171989245264,False,Right Foot,Free Kick,0,0,0,Normal
+266117,Munir El Haddadi Mohamed,Barcelona,13.946325680981355,0.05438736101509892,False,Right Foot,Open Play,1,0,1,Normal
+266117,Adriano Correia Claro,Barcelona,18.700267377767627,0.0647971701810735,False,Right Foot,Open Play,1,1,1,Normal
+266117,Lionel Andrés Messi Cuccittini,Barcelona,6.5604877867426925,0.05804264589812098,True,Head,Open Play,0,0,0,Normal
+266117,Neymar da Silva Santos Junior,Barcelona,9.786214794290993,0.05957421743261462,True,Right Foot,Open Play,0,0,3,Normal
+266117,Neymar da Silva Santos Junior,Barcelona,24.04537377542715,0.06776451657158207,False,Right Foot,Open Play,0,0,2,Normal
+266117,Lionel Andrés Messi Cuccittini,Barcelona,20.478769494283586,0.057618858442761454,False,Left Foot,Open Play,0,0,3,Normal
+266117,Xavier Hernández Creus,Barcelona,27.24059470716452,0.06973453606548038,False,Right Foot,Open Play,0,0,0,Normal
+266117,Dimitri Foulquier,Granada,34.078732370791016,0.07591273332888167,False,Right Foot,Open Play,0,0,2,Normal
+266117,Lionel Andrés Messi Cuccittini,Barcelona,11.253888216967509,0.0581369625062893,True,Right Foot,Open Play,0,0,2,Normal
+266117,Javier Márquez Moreno,Granada,34.220023378133455,0.05540497784870867,False,Left Foot,Open Play,0,0,0,Normal
+266117,Eddy Silvestre Pascual İsrafilov,Granada,20.408821622033944,0.0635380681468489,False,Right Foot,Open Play,1,0,1,Normal
+266117,Adriano Correia Claro,Barcelona,32.4154284253656,0.07457049102077755,False,Right Foot,Open Play,0,0,0,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.872451204024816,0.06127279023203031,False,Right Foot,Open Play,0,0,2,Half Volley
-15.255490814785341,0.06277752880125372,False,Right Foot,Open Play,1,0,2,Normal
-26.062233212063774,0.06682220895954157,False,Right Foot,Open Play,0,0,2,Normal
-13.81050324933889,0.055547355659553,False,Right Foot,Open Play,1,0,3,Normal
-8.376156636548771,0.058977416368769575,False,Head,Open Play,0,0,1,Normal
-16.702694393420487,0.06331852880354054,False,Right Foot,Open Play,0,0,2,Normal
-16.29294325774198,0.06222308266264752,True,Left Foot,Open Play,1,0,0,Half Volley
-40.83258502715693,0.059257422673601824,False,Right Foot,Free Kick,0,0,0,Normal
-12.571793825862722,0.056663531845165586,False,Right Foot,Open Play,1,0,6,Volley
-19.365949499056327,0.06436416841667182,False,Right Foot,Open Play,0,0,2,Half Volley
-27.024803422041757,0.0700126333313638,True,Left Foot,Open Play,0,0,2,Normal
-26.10076627227637,0.06586978961496276,False,Right Foot,Open Play,0,0,1,Half Volley
-29.751134432152334,0.07053275674191439,False,Right Foot,Open Play,0,1,1,Normal
-20.220039564748635,0.05632554458554753,False,Right Foot,Open Play,1,0,0,Normal
-17.17352613763405,0.06385714315417328,False,Right Foot,Open Play,0,0,1,Normal
-12.56702033100926,0.05718208845548288,False,Right Foot,Open Play,1,0,1,Volley
-20.60728026693479,0.05283087939882213,False,Left Foot,Open Play,0,1,2,Normal
-20.513897728125684,0.05505631810217487,False,Left Foot,Open Play,1,0,1,Normal
-21.84902743830947,0.06687241511489378,False,Right Foot,Open Play,0,0,2,Normal
-24.329611587528476,0.0645192050202665,False,Left Foot,Open Play,0,0,1,Normal
-13.823530663329107,0.05322889957903338,False,Right Foot,Open Play,0,0,1,Normal
-16.671532623007398,0.06001739064856011,False,Right Foot,Open Play,1,0,1,Half Volley
-9.093404203047394,0.05791723674645503,False,Right Foot,Open Play,0,1,3,Normal
-19.961963831246663,0.05615280516046145,False,Left Foot,Open Play,1,0,1,Normal
-38.840185375458745,0.07941481079155846,False,Left Foot,Free Kick,0,0,0,Normal
-21.115160430363776,0.06639176188081944,False,Left Foot,Open Play,1,0,2,Volley
-9.234717104492153,0.059190449921711956,True,Head,Open Play,0,0,2,Normal
-18.176083186429356,0.06423617462311866,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3794692,Emil Peter Forsberg,Sweden,12.872451204024816,0.06127279023203031,False,Right Foot,Open Play,0,0,2,Half Volley
+3794692,Dejan Kulusevski,Sweden,15.255490814785341,0.06277752880125372,False,Right Foot,Open Play,1,0,2,Normal
+3794692,Mykola Shaparenko,Ukraine,26.062233212063774,0.06682220895954157,False,Right Foot,Open Play,0,0,2,Normal
+3794692,Roman Yaremchuk,Ukraine,13.81050324933889,0.055547355659553,False,Right Foot,Open Play,1,0,3,Normal
+3794692,Emil Peter Forsberg,Sweden,8.376156636548771,0.058977416368769575,False,Head,Open Play,0,0,1,Normal
+3794692,Alexander Isak,Sweden,16.702694393420487,0.06331852880354054,False,Right Foot,Open Play,0,0,2,Normal
+3794692,Oleksandr Zinchenko,Ukraine,16.29294325774198,0.06222308266264752,True,Left Foot,Open Play,1,0,0,Half Volley
+3794692,Sebastian Larsson,Sweden,40.83258502715693,0.059257422673601824,False,Right Foot,Free Kick,0,0,0,Normal
+3794692,Roman Yaremchuk,Ukraine,12.571793825862722,0.056663531845165586,False,Right Foot,Open Play,1,0,6,Volley
+3794692,Andriy Yarmolenko,Ukraine,19.365949499056327,0.06436416841667182,False,Right Foot,Open Play,0,0,2,Half Volley
+3794692,Emil Peter Forsberg,Sweden,27.024803422041757,0.0700126333313638,True,Left Foot,Open Play,0,0,2,Normal
+3794692,Taras Stepanenko,Ukraine,26.10076627227637,0.06586978961496276,False,Right Foot,Open Play,0,0,1,Half Volley
+3794692,Sebastian Larsson,Sweden,29.751134432152334,0.07053275674191439,False,Right Foot,Open Play,0,1,1,Normal
+3794692,Serhii Sydorchuk,Ukraine,20.220039564748635,0.05632554458554753,False,Right Foot,Open Play,1,0,0,Normal
+3794692,Emil Peter Forsberg,Sweden,17.17352613763405,0.06385714315417328,False,Right Foot,Open Play,0,0,1,Normal
+3794692,Alexander Isak,Sweden,12.56702033100926,0.05718208845548288,False,Right Foot,Open Play,1,0,1,Volley
+3794692,Dejan Kulusevski,Sweden,20.60728026693479,0.05283087939882213,False,Left Foot,Open Play,0,1,2,Normal
+3794692,Andriy Yarmolenko,Ukraine,20.513897728125684,0.05505631810217487,False,Left Foot,Open Play,1,0,1,Normal
+3794692,Emil Peter Forsberg,Sweden,21.84902743830947,0.06687241511489378,False,Right Foot,Open Play,0,0,2,Normal
+3794692,Taras Stepanenko,Ukraine,24.329611587528476,0.0645192050202665,False,Left Foot,Open Play,0,0,1,Normal
+3794692,Dejan Kulusevski,Sweden,13.823530663329107,0.05322889957903338,False,Right Foot,Open Play,0,0,1,Normal
+3794692,Emil Peter Forsberg,Sweden,16.671532623007398,0.06001739064856011,False,Right Foot,Open Play,1,0,1,Half Volley
+3794692,Artem Dovbyk,Ukraine,9.093404203047394,0.05791723674645503,False,Right Foot,Open Play,0,1,3,Normal
+3794692,Oleksandr Karavaev,Ukraine,19.961963831246663,0.05615280516046145,False,Left Foot,Open Play,1,0,1,Normal
+3794692,Ruslan Malinovskiy,Ukraine,38.840185375458745,0.07941481079155846,False,Left Foot,Free Kick,0,0,0,Normal
+3794692,Ruslan Malinovskiy,Ukraine,21.115160430363776,0.06639176188081944,False,Left Foot,Open Play,1,0,2,Volley
+3794692,Artem Dovbyk,Ukraine,9.234717104492153,0.059190449921711956,True,Head,Open Play,0,0,2,Normal
+3794692,Ruslan Malinovskiy,Ukraine,18.176083186429356,0.06423617462311866,False,Left Foot,Open Play,1,0,1,Normal

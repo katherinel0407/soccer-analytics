@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-22.323530186778257,0.05821779601312612,False,Right Foot,Open Play,1,0,2,Normal
-6.935416353759886,0.057291509231921355,False,Head,Open Play,0,1,5,Normal
-13.157507362718826,0.06130470214656108,False,Head,Open Play,0,0,2,Normal
-16.920106382644292,0.05623251229405215,False,Left Foot,Open Play,1,0,0,Normal
-30.857738089497094,0.07330046009610697,False,Right Foot,Open Play,0,0,2,Normal
-24.321389762922678,0.06785718175636132,False,Right Foot,Open Play,0,1,2,Normal
-20.779076014106106,0.0657448663931521,False,Left Foot,Open Play,0,0,3,Normal
-19.1049731745428,0.054520996667156416,False,Right Foot,Open Play,0,0,1,Normal
-14.122676800097066,0.06171060267565135,False,Left Foot,Open Play,0,1,2,Normal
-20.665188119153434,0.05575227622363576,False,Right Foot,Open Play,1,1,3,Normal
-24.869660230891775,0.05130206688373595,False,Left Foot,Open Play,1,1,2,Half Volley
-25.349161721840037,0.06244309177804548,False,Left Foot,Open Play,1,0,0,Normal
-35.0224213897326,0.05963921948264489,False,Left Foot,Open Play,0,0,0,Normal
-27.861442891566114,0.07000926548822559,False,Right Foot,Open Play,0,0,1,Lob
-19.126160095534072,0.06510950817533452,False,Left Foot,Open Play,0,0,3,Normal
-18.166452598127137,0.06339881192879777,False,Left Foot,Open Play,1,1,3,Normal
-31.531730050855128,0.07354704181564657,False,Right Foot,Free Kick,0,0,0,Normal
-10.39422916814903,0.05814808497156513,True,Left Foot,Open Play,1,0,1,Normal
-14.534097839219333,0.05651402425512362,False,Left Foot,Open Play,0,0,3,Normal
-16.83448840921517,0.05481212529504231,False,Head,Open Play,0,0,1,Normal
-21.931712199461312,0.05799900885712121,False,Right Foot,Open Play,0,0,2,Normal
-19.560419218411457,0.06173449397961581,False,Left Foot,Open Play,1,0,1,Volley
-24.307406278745578,0.05656264437479533,False,Right Foot,Open Play,0,1,1,Normal
-26.12623202836567,0.06337592164137182,True,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829443,Sloan Privat,Guingamp,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+3829443,Jimmy Briand,Guingamp,22.323530186778257,0.05821779601312612,False,Right Foot,Open Play,1,0,2,Normal
+3829443,Moustapha Elhadji Diallo,Guingamp,6.935416353759886,0.057291509231921355,False,Head,Open Play,0,1,5,Normal
+3829443,Michy Batshuayi Tunga,Marseille,13.157507362718826,0.06130470214656108,False,Head,Open Play,0,0,2,Normal
+3829443,Romain Alessandrini,Marseille,16.920106382644292,0.05623251229405215,False,Left Foot,Open Play,1,0,0,Normal
+3829443,Rémy Cabella,Marseille,30.857738089497094,0.07330046009610697,False,Right Foot,Open Play,0,0,2,Normal
+3829443,Jimmy Briand,Guingamp,24.321389762922678,0.06785718175636132,False,Right Foot,Open Play,0,1,2,Normal
+3829443,Michy Batshuayi Tunga,Marseille,20.779076014106106,0.0657448663931521,False,Left Foot,Open Play,0,0,3,Normal
+3829443,Marcus Coco,Guingamp,19.1049731745428,0.054520996667156416,False,Right Foot,Open Play,0,0,1,Normal
+3829443,Michy Batshuayi Tunga,Marseille,14.122676800097066,0.06171060267565135,False,Left Foot,Open Play,0,1,2,Normal
+3829443,Romain Alessandrini,Marseille,20.665188119153434,0.05575227622363576,False,Right Foot,Open Play,1,1,3,Normal
+3829443,Romain Alessandrini,Marseille,24.869660230891775,0.05130206688373595,False,Left Foot,Open Play,1,1,2,Half Volley
+3829443,Jimmy Briand,Guingamp,25.349161721840037,0.06244309177804548,False,Left Foot,Open Play,1,0,0,Normal
+3829443,Romain Alessandrini,Marseille,35.0224213897326,0.05963921948264489,False,Left Foot,Open Play,0,0,0,Normal
+3829443,Nicolas Benezet,Guingamp,27.861442891566114,0.07000926548822559,False,Right Foot,Open Play,0,0,1,Lob
+3829443,Michy Batshuayi Tunga,Marseille,19.126160095534072,0.06510950817533452,False,Left Foot,Open Play,0,0,3,Normal
+3829443,Romain Alessandrini,Marseille,18.166452598127137,0.06339881192879777,False,Left Foot,Open Play,1,1,3,Normal
+3829443,Michy Batshuayi Tunga,Marseille,31.531730050855128,0.07354704181564657,False,Right Foot,Free Kick,0,0,0,Normal
+3829443,Sloan Privat,Guingamp,10.39422916814903,0.05814808497156513,True,Left Foot,Open Play,1,0,1,Normal
+3829443,Michy Batshuayi Tunga,Marseille,14.534097839219333,0.05651402425512362,False,Left Foot,Open Play,0,0,3,Normal
+3829443,Javier Manquillo Gaitán,Marseille,16.83448840921517,0.05481212529504231,False,Head,Open Play,0,0,1,Normal
+3829443,Younousse Sankharé,Guingamp,21.931712199461312,0.05799900885712121,False,Right Foot,Open Play,0,0,2,Normal
+3829443,Mario Lemina,Marseille,19.560419218411457,0.06173449397961581,False,Left Foot,Open Play,1,0,1,Volley
+3829443,Mana Dembélé,Guingamp,24.307406278745578,0.05656264437479533,False,Right Foot,Open Play,0,1,1,Normal
+3829443,Nicolas Benezet,Guingamp,26.12623202836567,0.06337592164137182,True,Left Foot,Open Play,0,1,1,Normal

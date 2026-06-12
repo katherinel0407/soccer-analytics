@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.164676439557033,0.05963505567511355,False,Right Foot,Open Play,0,0,2,Normal
-10.945775440780801,0.0594813788050129,True,Right Foot,Open Play,0,0,2,Normal
-32.2,0.06903110486999454,False,Right Foot,Open Play,0,0,1,Normal
-10.0,0.05453484322702866,False,Right Foot,Open Play,0,0,2,Normal
-8.228000972289689,0.05865270998155837,False,Right Foot,Open Play,1,1,1,Normal
-15.121177202850307,0.060601528466958314,False,Left Foot,Open Play,0,1,1,Normal
-9.702061636580138,0.05857273708184216,False,Right Foot,Open Play,1,0,3,Volley
-25.663982543634962,0.06819614604542451,False,Left Foot,Open Play,0,0,2,Half Volley
-36.72083877037669,0.059584878947845386,False,Right Foot,Open Play,0,1,1,Normal
-29.966147566879535,0.0726368218263669,False,Right Foot,Open Play,1,0,1,Normal
-13.148764200486678,0.05725264424102429,False,Right Foot,Open Play,0,0,3,Normal
-11.700427342623007,0.05943049385923767,True,Right Foot,Penalty,0,0,0,Normal
-32.794054339163374,0.06252795658319056,False,Right Foot,Open Play,1,0,0,Normal
-24.865236777477104,0.055584222475596336,False,Left Foot,Open Play,0,0,1,Normal
-5.500000000000003,0.055522520358074375,False,Right Foot,Open Play,1,0,3,Normal
-6.933974329343882,0.05796095059428024,False,Left Foot,Open Play,1,0,1,Normal
-23.96351393264351,0.0682890483736021,False,Right Foot,Open Play,0,0,1,Normal
-25.492155656201373,0.05546607558719068,False,Left Foot,Open Play,0,0,1,Normal
-6.9202601107183845,0.055631075594578805,False,Head,Open Play,0,1,3,Normal
-15.61697794069006,0.06103782931297976,False,Right Foot,Open Play,0,0,0,Normal
-5.9908263203000605,0.05754600900044949,False,Head,Open Play,0,1,4,Normal
-10.868762579061153,0.059396815903212406,False,Right Foot,Open Play,0,1,1,Normal
-16.285576440519378,0.06322430467551397,False,Left Foot,Open Play,0,0,2,Half Volley
-11.036756769993621,0.05898819287920328,False,Head,Open Play,0,1,2,Normal
-13.103434664239757,0.06147990523730993,False,Left Foot,Open Play,0,0,2,Normal
-8.453401682163221,0.0589804301888629,True,Head,Open Play,0,0,1,Normal
-33.10724996130001,0.07199444144451814,False,Right Foot,Open Play,1,0,2,Normal
-28.199645387841322,0.06898078075816688,False,Right Foot,Open Play,1,0,1,Normal
-13.039171752837683,0.06065791588497527,False,Head,Open Play,0,0,4,Normal
-24.802016047087783,0.06841787694182612,False,Right Foot,Open Play,0,0,2,Normal
-26.466015944981212,0.0627914751707875,False,Left Foot,Open Play,0,0,2,Normal
-27.946556138458284,0.06939809704659453,False,Right Foot,Free Kick,0,0,0,Normal
-17.217723426748385,0.057927155862276376,False,Left Foot,Open Play,0,0,1,Normal
-16.140012391568973,0.05196229308559544,False,Left Foot,Open Play,0,0,1,Normal
-6.661080993352349,0.0571104616518187,False,Head,Open Play,0,1,3,Normal
-33.256878987662084,0.058318451859823886,False,Left Foot,Open Play,0,0,0,Normal
-37.40975808529106,0.07653936554989425,False,Right Foot,Open Play,0,0,1,Normal
-15.160474926597784,0.053998544612829394,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19818,Olivia Fergusson,Yeovil Town LFC,11.164676439557033,0.05963505567511355,False,Right Foot,Open Play,0,0,2,Normal
+19818,Olivia Fergusson,Yeovil Town LFC,10.945775440780801,0.0594813788050129,True,Right Foot,Open Play,0,0,2,Normal
+19818,Rachel Mclauchlan,Yeovil Town LFC,32.2,0.06903110486999454,False,Right Foot,Open Play,0,0,1,Normal
+19818,Nikita Parris,Manchester City WFC,10.0,0.05453484322702866,False,Right Foot,Open Play,0,0,2,Normal
+19818,Nikita Parris,Manchester City WFC,8.228000972289689,0.05865270998155837,False,Right Foot,Open Play,1,1,1,Normal
+19818,Claire Emslie,Manchester City WFC,15.121177202850307,0.060601528466958314,False,Left Foot,Open Play,0,1,1,Normal
+19818,Pauline Bremer,Manchester City WFC,9.702061636580138,0.05857273708184216,False,Right Foot,Open Play,1,0,3,Volley
+19818,Georgia Stanway,Manchester City WFC,25.663982543634962,0.06819614604542451,False,Left Foot,Open Play,0,0,2,Half Volley
+19818,Charlotte Buxton,Yeovil Town LFC,36.72083877037669,0.059584878947845386,False,Right Foot,Open Play,0,1,1,Normal
+19818,Emily Syme,Yeovil Town LFC,29.966147566879535,0.0726368218263669,False,Right Foot,Open Play,1,0,1,Normal
+19818,Nikita Parris,Manchester City WFC,13.148764200486678,0.05725264424102429,False,Right Foot,Open Play,0,0,3,Normal
+19818,Nikita Parris,Manchester City WFC,11.700427342623007,0.05943049385923767,True,Right Foot,Penalty,0,0,0,Normal
+19818,Georgia Stanway,Manchester City WFC,32.794054339163374,0.06252795658319056,False,Right Foot,Open Play,1,0,0,Normal
+19818,Claire Emslie,Manchester City WFC,24.865236777477104,0.055584222475596336,False,Left Foot,Open Play,0,0,1,Normal
+19818,Pauline Bremer,Manchester City WFC,5.500000000000003,0.055522520358074375,False,Right Foot,Open Play,1,0,3,Normal
+19818,Lauren Hemp,Manchester City WFC,6.933974329343882,0.05796095059428024,False,Left Foot,Open Play,1,0,1,Normal
+19818,Nikita Parris,Manchester City WFC,23.96351393264351,0.0682890483736021,False,Right Foot,Open Play,0,0,1,Normal
+19818,Pauline Bremer,Manchester City WFC,25.492155656201373,0.05546607558719068,False,Left Foot,Open Play,0,0,1,Normal
+19818,Gemma Bonner,Manchester City WFC,6.9202601107183845,0.055631075594578805,False,Head,Open Play,0,1,3,Normal
+19818,Emily Syme,Yeovil Town LFC,15.61697794069006,0.06103782931297976,False,Right Foot,Open Play,0,0,0,Normal
+19818,Nikita Parris,Manchester City WFC,5.9908263203000605,0.05754600900044949,False,Head,Open Play,0,1,4,Normal
+19818,Pauline Bremer,Manchester City WFC,10.868762579061153,0.059396815903212406,False,Right Foot,Open Play,0,1,1,Normal
+19818,Lauren Hemp,Manchester City WFC,16.285576440519378,0.06322430467551397,False,Left Foot,Open Play,0,0,2,Half Volley
+19818,Gemma Bonner,Manchester City WFC,11.036756769993621,0.05898819287920328,False,Head,Open Play,0,1,2,Normal
+19818,Nikita Parris,Manchester City WFC,13.103434664239757,0.06147990523730993,False,Left Foot,Open Play,0,0,2,Normal
+19818,Lauren Hemp,Manchester City WFC,8.453401682163221,0.0589804301888629,True,Head,Open Play,0,0,1,Normal
+19818,Georgia Stanway,Manchester City WFC,33.10724996130001,0.07199444144451814,False,Right Foot,Open Play,1,0,2,Normal
+19818,Georgia Stanway,Manchester City WFC,28.199645387841322,0.06898078075816688,False,Right Foot,Open Play,1,0,1,Normal
+19818,Hannah Short,Yeovil Town LFC,13.039171752837683,0.06065791588497527,False,Head,Open Play,0,0,4,Normal
+19818,Olivia Fergusson,Yeovil Town LFC,24.802016047087783,0.06841787694182612,False,Right Foot,Open Play,0,0,2,Normal
+19818,Tessa Wullaert,Manchester City WFC,26.466015944981212,0.0627914751707875,False,Left Foot,Open Play,0,0,2,Normal
+19818,Stephanie Houghton,Manchester City WFC,27.946556138458284,0.06939809704659453,False,Right Foot,Free Kick,0,0,0,Normal
+19818,Lauren Hemp,Manchester City WFC,17.217723426748385,0.057927155862276376,False,Left Foot,Open Play,0,0,1,Normal
+19818,Caroline Weir,Manchester City WFC,16.140012391568973,0.05196229308559544,False,Left Foot,Open Play,0,0,1,Normal
+19818,Gemma Bonner,Manchester City WFC,6.661080993352349,0.0571104616518187,False,Head,Open Play,0,1,3,Normal
+19818,Megan Alexander,Yeovil Town LFC,33.256878987662084,0.058318451859823886,False,Left Foot,Open Play,0,0,0,Normal
+19818,Georgia Evans,Yeovil Town LFC,37.40975808529106,0.07653936554989425,False,Right Foot,Open Play,0,0,1,Normal
+19818,Esme Beth Morgan,Manchester City WFC,15.160474926597784,0.053998544612829394,False,Right Foot,Open Play,1,0,1,Normal

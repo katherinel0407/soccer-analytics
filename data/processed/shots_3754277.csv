@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.07032726252491,0.06363557483748522,False,Left Foot,Open Play,0,0,1,Half Volley
-12.900387591076482,0.05662268094457899,False,Left Foot,Open Play,1,0,2,Half Volley
-23.722773868163063,0.06279757554789195,False,Right Foot,Open Play,0,0,2,Normal
-14.951254127998762,0.061817923804617946,True,Left Foot,Open Play,0,0,2,Normal
-26.122786987609107,0.05922380773608631,False,Right Foot,Open Play,0,0,3,Normal
-13.509256086106289,0.06124308751735015,False,Head,Open Play,0,1,4,Normal
-23.45399752707414,0.06686717067537576,False,Right Foot,Open Play,1,0,0,Normal
-21.41891687270858,0.0641397148077943,False,Right Foot,Open Play,0,1,2,Normal
-24.903212644154976,0.06519367824109372,False,Left Foot,Open Play,1,0,1,Normal
-11.837651794169316,0.060099981204331035,False,Head,Open Play,0,1,2,Normal
-22.85804016095868,0.055016146834051184,False,Left Foot,Open Play,0,0,2,Half Volley
-22.818632737304835,0.06596732501926032,False,Right Foot,Open Play,1,0,1,Half Volley
-8.80227243386616,0.059062081316669096,False,Right Foot,Open Play,1,1,3,Volley
-24.42334948363962,0.05783688349788615,False,Left Foot,Open Play,0,0,3,Normal
-8.477027781009092,0.05879951744692171,False,Right Foot,Open Play,1,0,2,Volley
-22.210357943986402,0.05431720503551573,False,Right Foot,Open Play,1,1,2,Normal
-23.400213674238103,0.06788247100363383,False,Right Foot,Free Kick,0,0,0,Normal
-11.537764081484761,0.06066994488038733,False,Head,Open Play,0,0,1,Normal
-7.826237921249266,0.05737438216829597,False,Head,Open Play,0,1,3,Normal
-33.46879143321432,0.07532491529978387,False,Left Foot,Open Play,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Open Play,0,0,2,Half Volley
-23.603813251252436,0.05792516065103169,False,Left Foot,Open Play,0,0,2,Normal
-11.901680553602509,0.059477991333385986,False,Left Foot,Penalty,0,0,0,Normal
-16.814577009250037,0.06137271424133023,False,Left Foot,Open Play,0,0,2,Normal
-30.870212179380957,0.07310487223867783,False,Right Foot,Open Play,0,0,1,Normal
-21.35602959353634,0.06489966170669442,False,Right Foot,Open Play,1,0,1,Volley
-5.5785302723925465,0.05649150719742745,True,Head,Open Play,0,1,5,Normal
-32.56823605908063,0.06322768718869691,False,Right Foot,Free Kick,0,0,0,Normal
-6.2625873247404735,0.05551220945171405,True,Head,Open Play,0,1,4,Normal
-26.084861510078976,0.061883819022588285,False,Right Foot,Open Play,1,0,0,Normal
-17.010584939971935,0.06198521122688102,False,Left Foot,Open Play,1,0,2,Normal
-8.676981041814027,0.05649972985565484,True,Right Foot,Open Play,1,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754277,James McCarthy,Everton,23.07032726252491,0.06363557483748522,False,Left Foot,Open Play,0,0,1,Half Volley
+3754277,Kevin Mirallas,Everton,12.900387591076482,0.05662268094457899,False,Left Foot,Open Play,1,0,2,Half Volley
+3754277,Dimitri Payet,West Ham United,23.722773868163063,0.06279757554789195,False,Right Foot,Open Play,0,0,2,Normal
+3754277,Romelu Lukaku Menama,Everton,14.951254127998762,0.061817923804617946,True,Left Foot,Open Play,0,0,2,Normal
+3754277,Michail Antonio,West Ham United,26.122786987609107,0.05922380773608631,False,Right Foot,Open Play,0,0,3,Normal
+3754277,Cheikhou Kouyaté,West Ham United,13.509256086106289,0.06124308751735015,False,Head,Open Play,0,1,4,Normal
+3754277,Mark Noble,West Ham United,23.45399752707414,0.06686717067537576,False,Right Foot,Open Play,1,0,0,Normal
+3754277,Romelu Lukaku Menama,Everton,21.41891687270858,0.0641397148077943,False,Right Foot,Open Play,0,1,2,Normal
+3754277,Michail Antonio,West Ham United,24.903212644154976,0.06519367824109372,False,Left Foot,Open Play,1,0,1,Normal
+3754277,John Stones,Everton,11.837651794169316,0.060099981204331035,False,Head,Open Play,0,1,2,Normal
+3754277,Ross Barkley,Everton,22.85804016095868,0.055016146834051184,False,Left Foot,Open Play,0,0,2,Half Volley
+3754277,Kevin Mirallas,Everton,22.818632737304835,0.06596732501926032,False,Right Foot,Open Play,1,0,1,Half Volley
+3754277,Angelo Obinze Ogbonna,West Ham United,8.80227243386616,0.059062081316669096,False,Right Foot,Open Play,1,1,3,Volley
+3754277,Romelu Lukaku Menama,Everton,24.42334948363962,0.05783688349788615,False,Left Foot,Open Play,0,0,3,Normal
+3754277,Emmanuel Emenike,West Ham United,8.477027781009092,0.05879951744692171,False,Right Foot,Open Play,1,0,2,Volley
+3754277,Emmanuel Emenike,West Ham United,22.210357943986402,0.05431720503551573,False,Right Foot,Open Play,1,1,2,Normal
+3754277,Dimitri Payet,West Ham United,23.400213674238103,0.06788247100363383,False,Right Foot,Free Kick,0,0,0,Normal
+3754277,Romelu Lukaku Menama,Everton,11.537764081484761,0.06066994488038733,False,Head,Open Play,0,0,1,Normal
+3754277,Michail Antonio,West Ham United,7.826237921249266,0.05737438216829597,False,Head,Open Play,0,1,3,Normal
+3754277,Bryan Oviedo,Everton,33.46879143321432,0.07532491529978387,False,Left Foot,Open Play,0,0,0,Normal
+3754277,Aaron Lennon,Everton,12.0,0.05959154427448477,True,Right Foot,Open Play,0,0,2,Half Volley
+3754277,Michail Antonio,West Ham United,23.603813251252436,0.05792516065103169,False,Left Foot,Open Play,0,0,2,Normal
+3754277,Romelu Lukaku Menama,Everton,11.901680553602509,0.059477991333385986,False,Left Foot,Penalty,0,0,0,Normal
+3754277,Romelu Lukaku Menama,Everton,16.814577009250037,0.06137271424133023,False,Left Foot,Open Play,0,0,2,Normal
+3754277,Manuel Lanzini,West Ham United,30.870212179380957,0.07310487223867783,False,Right Foot,Open Play,0,0,1,Normal
+3754277,Dimitri Payet,West Ham United,21.35602959353634,0.06489966170669442,False,Right Foot,Open Play,1,0,1,Volley
+3754277,Michail Antonio,West Ham United,5.5785302723925465,0.05649150719742745,True,Head,Open Play,0,1,5,Normal
+3754277,Ross Barkley,Everton,32.56823605908063,0.06322768718869691,False,Right Foot,Free Kick,0,0,0,Normal
+3754277,Diafra Sakho,West Ham United,6.2625873247404735,0.05551220945171405,True,Head,Open Play,0,1,4,Normal
+3754277,Muhamed Bešić,Everton,26.084861510078976,0.061883819022588285,False,Right Foot,Open Play,1,0,0,Normal
+3754277,Andy Carroll,West Ham United,17.010584939971935,0.06198521122688102,False,Left Foot,Open Play,1,0,2,Normal
+3754277,Dimitri Payet,West Ham United,8.676981041814027,0.05649972985565484,True,Right Foot,Open Play,1,0,3,Half Volley

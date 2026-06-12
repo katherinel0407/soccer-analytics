@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.792856070678024,0.05956814689193043,False,Left Foot,Open Play,0,0,4,Normal
-20.831946620515325,0.061978888355015804,False,Left Foot,Open Play,0,1,3,Normal
-14.909393012460297,0.057221604516601327,False,Right Foot,Open Play,1,0,0,Volley
-6.044005294504631,0.05486685155090808,False,Head,Open Play,0,0,4,Normal
-10.616967551989593,0.059217627829598024,False,Head,Open Play,0,1,2,Normal
-17.933488227336035,0.05920494124215456,False,Right Foot,Open Play,0,0,0,Normal
-19.602550854416876,0.05579969846064121,False,Left Foot,Open Play,0,1,3,Normal
-22.11628359376864,0.057941007499216254,False,Right Foot,Open Play,0,0,2,Normal
-18.238695128764007,0.05869633018315638,False,Right Foot,Open Play,1,1,1,Normal
-29.24790590794493,0.06943475432520536,False,Right Foot,Free Kick,0,0,0,Normal
-7.000714249274855,0.05758765144772831,False,Head,Open Play,0,1,3,Normal
-18.720042734993957,0.056318105379122595,False,Left Foot,Open Play,0,1,3,Normal
-9.802040603874275,0.0587498540796691,False,Head,Open Play,0,0,3,Diving Header
-14.676852523616907,0.06123979417285091,False,Left Foot,Open Play,0,0,1,Normal
-25.678006153126447,0.06472005528349001,False,Right Foot,Open Play,0,0,1,Normal
-14.603081866510227,0.06058118969896365,False,Head,Open Play,0,0,1,Normal
-11.853269591129697,0.056999061862510234,True,Head,Open Play,0,0,2,Normal
-8.302409288875126,0.058008074998194825,False,Head,Open Play,0,1,3,Normal
-18.476471524617462,0.06467800645678765,False,Right Foot,Open Play,1,0,2,Normal
-10.56787585089833,0.06012034221045255,False,Head,Open Play,0,1,3,Normal
-2.061552812808828,0.05464755865696322,True,Right Foot,Open Play,1,0,2,Half Volley
-16.521501142450713,0.06067347281916284,False,Right Foot,Open Play,1,0,1,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-21.86892772862904,0.06194465075043478,False,Right Foot,Open Play,0,1,2,Normal
-25.51626931978889,0.06899783620951191,False,Left Foot,Open Play,0,0,3,Half Volley
-11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754167,Wilfried Guemiand Bony,Manchester City,23.792856070678024,0.05956814689193043,False,Left Foot,Open Play,0,0,4,Normal
+3754167,Gnégnéri Yaya Touré,Manchester City,20.831946620515325,0.061978888355015804,False,Left Foot,Open Play,0,1,3,Normal
+3754167,Alexander Banor Tettey,Norwich City,14.909393012460297,0.057221604516601327,False,Right Foot,Open Play,1,0,0,Volley
+3754167,Sébastien Aymar Bassong Nguena,Norwich City,6.044005294504631,0.05486685155090808,False,Head,Open Play,0,0,4,Normal
+3754167,Nicolás Hernán Otamendi,Manchester City,10.616967551989593,0.059217627829598024,False,Head,Open Play,0,1,2,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,17.933488227336035,0.05920494124215456,False,Right Foot,Open Play,0,0,0,Normal
+3754167,Gnégnéri Yaya Touré,Manchester City,19.602550854416876,0.05579969846064121,False,Left Foot,Open Play,0,1,3,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,22.11628359376864,0.057941007499216254,False,Right Foot,Open Play,0,0,2,Normal
+3754167,Matt Jarvis,Norwich City,18.238695128764007,0.05869633018315638,False,Right Foot,Open Play,1,1,1,Normal
+3754167,Gnégnéri Yaya Touré,Manchester City,29.24790590794493,0.06943475432520536,False,Right Foot,Free Kick,0,0,0,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,7.000714249274855,0.05758765144772831,False,Head,Open Play,0,1,3,Normal
+3754167,Kelechi Promise Iheanacho,Manchester City,18.720042734993957,0.056318105379122595,False,Left Foot,Open Play,0,1,3,Normal
+3754167,Vincent Kompany,Manchester City,9.802040603874275,0.0587498540796691,False,Head,Open Play,0,0,3,Diving Header
+3754167,Kevin De Bruyne,Manchester City,14.676852523616907,0.06123979417285091,False,Left Foot,Open Play,0,0,1,Normal
+3754167,Gnégnéri Yaya Touré,Manchester City,25.678006153126447,0.06472005528349001,False,Right Foot,Open Play,0,0,1,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,14.603081866510227,0.06058118969896365,False,Head,Open Play,0,0,1,Normal
+3754167,Nicolás Hernán Otamendi,Manchester City,11.853269591129697,0.056999061862510234,True,Head,Open Play,0,0,2,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,8.302409288875126,0.058008074998194825,False,Head,Open Play,0,1,3,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,18.476471524617462,0.06467800645678765,False,Right Foot,Open Play,1,0,2,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,10.56787585089833,0.06012034221045255,False,Head,Open Play,0,1,3,Normal
+3754167,Cameron Jerome,Norwich City,2.061552812808828,0.05464755865696322,True,Right Foot,Open Play,1,0,2,Half Volley
+3754167,Raheem Sterling,Manchester City,16.521501142450713,0.06067347281916284,False,Right Foot,Open Play,1,0,1,Normal
+3754167,Gnégnéri Yaya Touré,Manchester City,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+3754167,Wilfried Guemiand Bony,Manchester City,21.86892772862904,0.06194465075043478,False,Right Foot,Open Play,0,1,2,Normal
+3754167,Martin Olsson,Norwich City,25.51626931978889,0.06899783620951191,False,Left Foot,Open Play,0,0,3,Half Volley
+3754167,Aleksandar Kolarov,Manchester City,11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal

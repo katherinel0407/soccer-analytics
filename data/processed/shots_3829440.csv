@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.437691503361037,0.05700396731701529,False,Left Foot,Free Kick,0,0,0,Normal
-26.966646065093084,0.06999555827780361,False,Right Foot,Free Kick,0,0,0,Normal
-21.401401823245127,0.06575174152819083,False,Left Foot,Open Play,1,0,1,Normal
-12.18031198286809,0.06019167438193979,False,Right Foot,Open Play,1,0,2,Half Volley
-9.108786966440697,0.05853079806838223,False,Right Foot,Open Play,1,0,3,Normal
-16.98146047900474,0.05914991261935564,False,Right Foot,Open Play,1,0,1,Normal
-9.082400563727633,0.053448260935744375,False,Head,Open Play,0,1,1,Normal
-15.684705926475,0.062006599025375364,False,Right Foot,Open Play,0,0,4,Half Volley
-18.46943420898432,0.06169312542876482,False,Right Foot,Open Play,1,1,2,Half Volley
-7.025667228100119,0.05774688336144016,False,Head,Open Play,0,1,2,Normal
-35.0697875670783,0.0627256959293102,False,Right Foot,Open Play,0,0,1,Normal
-10.084641788382964,0.05975642871381162,False,Left Foot,Open Play,1,1,2,Half Volley
-22.225210910135363,0.06634116971201975,False,Left Foot,Open Play,0,0,1,Normal
-6.5375836514724615,0.05757870157615364,False,Right Foot,Open Play,1,0,2,Half Volley
-24.87810282155775,0.059277585603194086,False,Left Foot,Free Kick,0,0,0,Normal
-18.380696395947567,0.052216633507421895,False,Right Foot,Open Play,1,0,0,Half Volley
-14.64854941623914,0.062407871495307125,False,Left Foot,Open Play,1,0,1,Normal
-29.900668888839263,0.06796775538565228,False,Left Foot,Open Play,1,0,1,Normal
-12.406449935416664,0.059614085940460616,True,Right Foot,Open Play,1,1,3,Normal
-21.44014925321184,0.06504928281694462,False,Right Foot,Open Play,0,1,4,Half Volley
-35.62527192878674,0.07324424800319557,False,Left Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829440,Pierre-Yves Polomat,Saint-Étienne,22.437691503361037,0.05700396731701529,False,Left Foot,Free Kick,0,0,0,Normal
+3829440,Nolan Roux,Saint-Étienne,26.966646065093084,0.06999555827780361,False,Right Foot,Free Kick,0,0,0,Normal
+3829440,Raphaël Adelino José Guerreiro,Lorient,21.401401823245127,0.06575174152819083,False,Left Foot,Open Play,1,0,1,Normal
+3829440,Kévin Monnet-Paquet,Saint-Étienne,12.18031198286809,0.06019167438193979,False,Right Foot,Open Play,1,0,2,Half Volley
+3829440,Nolan Roux,Saint-Étienne,9.108786966440697,0.05853079806838223,False,Right Foot,Open Play,1,0,3,Normal
+3829440,Romain Hamouma,Saint-Étienne,16.98146047900474,0.05914991261935564,False,Right Foot,Open Play,1,0,1,Normal
+3829440,Lamine Koné,Lorient,9.082400563727633,0.053448260935744375,False,Head,Open Play,0,1,1,Normal
+3829440,Raphaël Adelino José Guerreiro,Lorient,15.684705926475,0.062006599025375364,False,Right Foot,Open Play,0,0,4,Half Volley
+3829440,Didier Ndong Ibrahim,Lorient,18.46943420898432,0.06169312542876482,False,Right Foot,Open Play,1,1,2,Half Volley
+3829440,Benjamin Moukandjo Bilé,Lorient,7.025667228100119,0.05774688336144016,False,Head,Open Play,0,1,2,Normal
+3829440,Kévin Théophile-Catherine,Saint-Étienne,35.0697875670783,0.0627256959293102,False,Right Foot,Open Play,0,0,1,Normal
+3829440,Didier Ndong Ibrahim,Lorient,10.084641788382964,0.05975642871381162,False,Left Foot,Open Play,1,1,2,Half Volley
+3829440,Vincent Le Goff,Lorient,22.225210910135363,0.06634116971201975,False,Left Foot,Open Play,0,0,1,Normal
+3829440,Nolan Roux,Saint-Étienne,6.5375836514724615,0.05757870157615364,False,Right Foot,Open Play,1,0,2,Half Volley
+3829440,Raphaël Adelino José Guerreiro,Lorient,24.87810282155775,0.059277585603194086,False,Left Foot,Free Kick,0,0,0,Normal
+3829440,Benjamin Corgnet,Saint-Étienne,18.380696395947567,0.052216633507421895,False,Right Foot,Open Play,1,0,0,Half Volley
+3829440,Benjamin Corgnet,Saint-Étienne,14.64854941623914,0.062407871495307125,False,Left Foot,Open Play,1,0,1,Normal
+3829440,Florentin Pogba,Saint-Étienne,29.900668888839263,0.06796775538565228,False,Left Foot,Open Play,1,0,1,Normal
+3829440,Romain Hamouma,Saint-Étienne,12.406449935416664,0.059614085940460616,True,Right Foot,Open Play,1,1,3,Normal
+3829440,Benjamin Jeannot,Lorient,21.44014925321184,0.06504928281694462,False,Right Foot,Open Play,0,1,4,Half Volley
+3829440,Vincent Le Goff,Lorient,35.62527192878674,0.07324424800319557,False,Left Foot,Open Play,1,0,0,Normal

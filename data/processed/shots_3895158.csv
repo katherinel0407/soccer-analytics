@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.625441167311598,0.0601717184565997,True,Left Foot,Open Play,0,1,2,Normal
-20.48828933805847,0.06410012185654718,False,Left Foot,Open Play,0,0,1,Normal
-27.642177917088947,0.058703215847113605,False,Left Foot,Open Play,0,0,1,Normal
-22.14610575247938,0.06620977798876344,False,Right Foot,Open Play,1,0,1,Half Volley
-25.55151658904027,0.060969559295290736,False,Left Foot,Open Play,0,0,1,Half Volley
-10.016985574512923,0.05413273555798218,False,Right Foot,Open Play,1,1,1,Volley
-27.989462302802455,0.0699482341417263,False,Left Foot,Free Kick,0,0,0,Normal
-17.45623097922343,0.06365010021500728,False,Right Foot,Open Play,0,1,3,Normal
-12.465151423067432,0.05789377209346912,False,Head,Open Play,0,1,2,Normal
-26.30589287593181,0.06789694499903698,False,Right Foot,Open Play,0,0,1,Normal
-17.20261608011991,0.06171026210741749,False,Left Foot,Open Play,1,0,1,Normal
-32.951176003293114,0.062443747730393316,False,Left Foot,Open Play,0,0,2,Normal
-25.20515820224106,0.06434013400277008,False,Right Foot,Open Play,1,0,0,Normal
-23.475306174787157,0.06662370732316522,False,Right Foot,Open Play,1,1,2,Normal
-34.64346980312452,0.07270764553203077,False,Left Foot,Open Play,0,0,1,Normal
-9.303762679690404,0.05374048633706656,False,Right Foot,Open Play,1,0,1,Volley
-15.302940893828216,0.06088204632030695,False,Right Foot,Open Play,0,1,2,Half Volley
-32.339449593337235,0.05678047880876617,False,Right Foot,Open Play,0,0,1,Normal
-22.322410264126948,0.05886088152632949,False,Right Foot,Open Play,0,0,1,Half Volley
-10.017983829094554,0.056841988083062706,False,Right Foot,Open Play,0,1,3,Normal
-24.052650581588715,0.056672759769029524,False,Left Foot,Open Play,1,0,2,Normal
-29.706901555025897,0.05797497791066031,False,Left Foot,Open Play,0,0,0,Normal
-14.31258187749506,0.060855808243118814,False,Left Foot,Open Play,0,0,1,Normal
-26.833002068348602,0.06998510554692768,False,Left Foot,Open Play,0,0,0,Normal
-20.993808611111994,0.06183899199119135,False,Left Foot,Open Play,1,0,0,Normal
-19.911052207254137,0.05745672553456623,False,Right Foot,Open Play,1,1,2,Half Volley
-3.5846896657869807,0.05652919462074551,True,Right Foot,Open Play,1,0,1,Normal
-16.191973320136118,0.06298066160308663,False,Left Foot,Open Play,1,0,2,Half Volley
-9.841239759298622,0.05383650830165391,False,Head,Open Play,0,0,2,Normal
-8.050465825031493,0.05765735558498245,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895158,Julian Ryerson,Borussia Dortmund,10.625441167311598,0.0601717184565997,True,Left Foot,Open Play,0,1,2,Normal
+3895158,Exequiel Alejandro Palacios,Bayer Leverkusen,20.48828933805847,0.06410012185654718,False,Left Foot,Open Play,0,0,1,Normal
+3895158,Granit Xhaka,Bayer Leverkusen,27.642177917088947,0.058703215847113605,False,Left Foot,Open Play,0,0,1,Normal
+3895158,Jonas Hofmann,Bayer Leverkusen,22.14610575247938,0.06620977798876344,False,Right Foot,Open Play,1,0,1,Half Volley
+3895158,Granit Xhaka,Bayer Leverkusen,25.55151658904027,0.060969559295290736,False,Left Foot,Open Play,0,0,1,Half Volley
+3895158,Jonathan Tah,Bayer Leverkusen,10.016985574512923,0.05413273555798218,False,Right Foot,Open Play,1,1,1,Volley
+3895158,Alejandro Grimaldo García,Bayer Leverkusen,27.989462302802455,0.0699482341417263,False,Left Foot,Free Kick,0,0,0,Normal
+3895158,Jamie Jermaine Bynoe-Gittens,Borussia Dortmund,17.45623097922343,0.06365010021500728,False,Right Foot,Open Play,0,1,3,Normal
+3895158,Victor Okoh Boniface,Bayer Leverkusen,12.465151423067432,0.05789377209346912,False,Head,Open Play,0,1,2,Normal
+3895158,Exequiel Alejandro Palacios,Bayer Leverkusen,26.30589287593181,0.06789694499903698,False,Right Foot,Open Play,0,0,1,Normal
+3895158,Granit Xhaka,Bayer Leverkusen,17.20261608011991,0.06171026210741749,False,Left Foot,Open Play,1,0,1,Normal
+3895158,Granit Xhaka,Bayer Leverkusen,32.951176003293114,0.062443747730393316,False,Left Foot,Open Play,0,0,2,Normal
+3895158,Jeremie Frimpong,Bayer Leverkusen,25.20515820224106,0.06434013400277008,False,Right Foot,Open Play,1,0,0,Normal
+3895158,Jeremie Frimpong,Bayer Leverkusen,23.475306174787157,0.06662370732316522,False,Right Foot,Open Play,1,1,2,Normal
+3895158,Alejandro Grimaldo García,Bayer Leverkusen,34.64346980312452,0.07270764553203077,False,Left Foot,Open Play,0,0,1,Normal
+3895158,Odilon Kossonou,Bayer Leverkusen,9.303762679690404,0.05374048633706656,False,Right Foot,Open Play,1,0,1,Volley
+3895158,Julian Brandt,Borussia Dortmund,15.302940893828216,0.06088204632030695,False,Right Foot,Open Play,0,1,2,Half Volley
+3895158,Julian Brandt,Borussia Dortmund,32.339449593337235,0.05678047880876617,False,Right Foot,Open Play,0,0,1,Normal
+3895158,Jonas Hofmann,Bayer Leverkusen,22.322410264126948,0.05886088152632949,False,Right Foot,Open Play,0,0,1,Half Volley
+3895158,Exequiel Alejandro Palacios,Bayer Leverkusen,10.017983829094554,0.056841988083062706,False,Right Foot,Open Play,0,1,3,Normal
+3895158,Florian Wirtz,Bayer Leverkusen,24.052650581588715,0.056672759769029524,False,Left Foot,Open Play,1,0,2,Normal
+3895158,Alejandro Grimaldo García,Bayer Leverkusen,29.706901555025897,0.05797497791066031,False,Left Foot,Open Play,0,0,0,Normal
+3895158,Niclas Füllkrug,Borussia Dortmund,14.31258187749506,0.060855808243118814,False,Left Foot,Open Play,0,0,1,Normal
+3895158,Alejandro Grimaldo García,Bayer Leverkusen,26.833002068348602,0.06998510554692768,False,Left Foot,Open Play,0,0,0,Normal
+3895158,Granit Xhaka,Bayer Leverkusen,20.993808611111994,0.06183899199119135,False,Left Foot,Open Play,1,0,0,Normal
+3895158,Florian Wirtz,Bayer Leverkusen,19.911052207254137,0.05745672553456623,False,Right Foot,Open Play,1,1,2,Half Volley
+3895158,Victor Okoh Boniface,Bayer Leverkusen,3.5846896657869807,0.05652919462074551,True,Right Foot,Open Play,1,0,1,Normal
+3895158,Victor Okoh Boniface,Bayer Leverkusen,16.191973320136118,0.06298066160308663,False,Left Foot,Open Play,1,0,2,Half Volley
+3895158,Patrik Schick,Bayer Leverkusen,9.841239759298622,0.05383650830165391,False,Head,Open Play,0,0,2,Normal
+3895158,Niclas Füllkrug,Borussia Dortmund,8.050465825031493,0.05765735558498245,False,Head,Open Play,0,1,2,Normal

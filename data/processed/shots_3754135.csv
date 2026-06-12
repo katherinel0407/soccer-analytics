@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.4230987451825055,0.05708173530777288,True,Right Foot,Open Play,1,0,3,Half Volley
-17.039366185395508,0.057974131237380336,False,Right Foot,Open Play,0,0,2,Normal
-13.106105447462257,0.05717801763454904,True,Right Foot,Open Play,1,1,2,Normal
-36.55379597251152,0.07397869036755428,False,Right Foot,Open Play,0,0,0,Normal
-5.636488268416785,0.05719513809365838,False,Head,Open Play,0,0,2,Normal
-25.203174403237387,0.05641436305866482,False,Right Foot,Open Play,0,0,2,Normal
-11.720068259186885,0.06068489267355491,False,Head,Open Play,0,0,3,Normal
-15.211837495845138,0.06116618375734819,False,Left Foot,Open Play,1,0,2,Normal
-18.278402556022233,0.055519801907230666,False,Right Foot,Open Play,0,1,1,Normal
-20.62062074720351,0.06531343010522496,False,Left Foot,Open Play,1,0,1,Normal
-17.51142484208524,0.05303932826417253,False,Right Foot,Open Play,0,0,2,Normal
-10.987720418721983,0.0548328109573665,False,Right Foot,Open Play,1,1,3,Volley
-37.37191458836434,0.06854386623381112,False,Left Foot,Open Play,1,0,1,Half Volley
-23.721087664776253,0.0643381908932752,False,Left Foot,Open Play,0,0,3,Normal
-31.168092658999846,0.0730852821909289,False,Left Foot,Open Play,0,0,3,Normal
-14.670037491431303,0.0606874050438716,False,Left Foot,Open Play,0,0,1,Normal
-32.05448486561592,0.07411105299519151,False,Right Foot,Open Play,0,0,2,Normal
-28.500701745746543,0.06704593387086155,False,Right Foot,Open Play,1,0,0,Normal
-19.940912717325652,0.06517539540443897,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754135,Marko Arnautović,Stoke City,5.4230987451825055,0.05708173530777288,True,Right Foot,Open Play,1,0,3,Half Volley
+3754135,Kevin De Bruyne,Manchester City,17.039366185395508,0.057974131237380336,False,Right Foot,Open Play,0,0,2,Normal
+3754135,Marko Arnautović,Stoke City,13.106105447462257,0.05717801763454904,True,Right Foot,Open Play,1,1,2,Normal
+3754135,Nicolás Hernán Otamendi,Manchester City,36.55379597251152,0.07397869036755428,False,Right Foot,Open Play,0,0,0,Normal
+3754135,Raheem Sterling,Manchester City,5.636488268416785,0.05719513809365838,False,Head,Open Play,0,0,2,Normal
+3754135,Wilfried Guemiand Bony,Manchester City,25.203174403237387,0.05641436305866482,False,Right Foot,Open Play,0,0,2,Normal
+3754135,Marko Arnautović,Stoke City,11.720068259186885,0.06068489267355491,False,Head,Open Play,0,0,3,Normal
+3754135,Aleksandar Kolarov,Manchester City,15.211837495845138,0.06116618375734819,False,Left Foot,Open Play,1,0,2,Normal
+3754135,Marko Arnautović,Stoke City,18.278402556022233,0.055519801907230666,False,Right Foot,Open Play,0,1,1,Normal
+3754135,Geoff Cameron,Stoke City,20.62062074720351,0.06531343010522496,False,Left Foot,Open Play,1,0,1,Normal
+3754135,Bojan Krkíc Pérez,Stoke City,17.51142484208524,0.05303932826417253,False,Right Foot,Open Play,0,0,2,Normal
+3754135,Marko Arnautović,Stoke City,10.987720418721983,0.0548328109573665,False,Right Foot,Open Play,1,1,3,Volley
+3754135,Aleksandar Kolarov,Manchester City,37.37191458836434,0.06854386623381112,False,Left Foot,Open Play,1,0,1,Half Volley
+3754135,Xherdan Shaqiri,Stoke City,23.721087664776253,0.0643381908932752,False,Left Foot,Open Play,0,0,3,Normal
+3754135,Fabian Delph,Manchester City,31.168092658999846,0.0730852821909289,False,Left Foot,Open Play,0,0,3,Normal
+3754135,Aleksandar Kolarov,Manchester City,14.670037491431303,0.0606874050438716,False,Left Foot,Open Play,0,0,1,Normal
+3754135,Nicolás Hernán Otamendi,Manchester City,32.05448486561592,0.07411105299519151,False,Right Foot,Open Play,0,0,2,Normal
+3754135,Fabian Delph,Manchester City,28.500701745746543,0.06704593387086155,False,Right Foot,Open Play,1,0,0,Normal
+3754135,Raheem Sterling,Manchester City,19.940912717325652,0.06517539540443897,False,Right Foot,Open Play,0,0,2,Normal

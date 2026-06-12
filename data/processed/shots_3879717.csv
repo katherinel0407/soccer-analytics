@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.03578579639962,0.07341308989167926,False,Right Foot,Open Play,0,0,0,Normal
-22.58782858089728,0.05773063536050104,True,Left Foot,Open Play,0,0,4,Normal
-19.090573590125576,0.0571911911576795,False,Right Foot,Open Play,0,0,2,Half Volley
-28.85307609250702,0.053953853470056316,False,Left Foot,Open Play,0,0,1,Normal
-7.623647421018362,0.0579878335202527,False,Right Foot,Open Play,1,0,3,Volley
-14.892279879185725,0.05569224940558155,False,Right Foot,Open Play,0,0,3,Normal
-5.517245689653486,0.05522129242850037,False,Right Foot,Open Play,1,1,1,Volley
-21.115160430363776,0.05586559885134022,False,Left Foot,Open Play,1,0,2,Normal
-33.092597359530416,0.06082426484562375,False,Left Foot,Open Play,0,0,2,Normal
-27.266279540854125,0.05717460393219819,False,Left Foot,Open Play,0,0,2,Normal
-27.296336750560503,0.07063375508895835,False,Right Foot,Open Play,0,1,1,Normal
-28.668623964187745,0.05928947370872857,False,Left Foot,Open Play,1,0,0,Volley
-25.566579747787934,0.06839067594153124,False,Right Foot,Open Play,0,0,0,Normal
-25.634547002043945,0.06779750050966543,False,Right Foot,Open Play,0,1,1,Half Volley
-22.50777643393501,0.054073035146377575,False,Left Foot,Open Play,0,0,2,Normal
-31.481423093627775,0.07089240474002549,False,Left Foot,Open Play,1,1,1,Normal
-13.49703671181197,0.053565967613036114,False,Left Foot,Open Play,0,0,2,Normal
-9.550916186418972,0.059350390282946495,False,Head,Open Play,0,0,5,Normal
-20.769689453624483,0.06265540847944004,False,Right Foot,Open Play,1,1,2,Half Volley
-9.932774033471214,0.059521757631828785,False,Head,Open Play,0,0,2,Normal
-16.368567438844487,0.06296369768184804,False,Right Foot,Open Play,0,1,3,Normal
-11.703418304068256,0.05475412440758805,False,Right Foot,Open Play,1,1,2,Normal
-20.378910667648555,0.06590497139046238,False,Right Foot,Open Play,0,1,2,Volley
-24.32817296880306,0.0545906167606036,False,Left Foot,Open Play,0,0,3,Normal
-16.949926253526893,0.061171584966462085,False,Left Foot,Open Play,0,1,3,Half Volley
-21.10094784600919,0.06509259330157877,False,Left Foot,Open Play,1,0,0,Normal
-40.300124069287925,0.0732831149528999,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-31.200320511174237,0.06988851640276064,False,Right Foot,Free Kick,0,0,0,Normal
-7.111961754677814,0.0582939685007429,False,Head,Open Play,0,1,7,Normal
-6.928924880528002,0.05658654518730198,True,Right Foot,Open Play,1,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879717,Nicola Sansone,Sassuolo,31.03578579639962,0.07341308989167926,False,Right Foot,Open Play,0,0,0,Normal
+3879717,Mohamed Salah,AS Roma,22.58782858089728,0.05773063536050104,True,Left Foot,Open Play,0,0,4,Normal
+3879717,Radja Nainggolan,AS Roma,19.090573590125576,0.0571911911576795,False,Right Foot,Open Play,0,0,2,Half Volley
+3879717,Domenico Berardi,Sassuolo,28.85307609250702,0.053953853470056316,False,Left Foot,Open Play,0,0,1,Normal
+3879717,Nicola Sansone,Sassuolo,7.623647421018362,0.0579878335202527,False,Right Foot,Open Play,1,0,3,Volley
+3879717,Maicon Douglas Sisenando,AS Roma,14.892279879185725,0.05569224940558155,False,Right Foot,Open Play,0,0,3,Normal
+3879717,Stephan El Shaarawy,AS Roma,5.517245689653486,0.05522129242850037,False,Right Foot,Open Play,1,1,1,Volley
+3879717,Mohamed Salah,AS Roma,21.115160430363776,0.05586559885134022,False,Left Foot,Open Play,1,0,2,Normal
+3879717,Domenico Berardi,Sassuolo,33.092597359530416,0.06082426484562375,False,Left Foot,Open Play,0,0,2,Normal
+3879717,Marcello Trotta,Sassuolo,27.266279540854125,0.05717460393219819,False,Left Foot,Open Play,0,0,2,Normal
+3879717,Stephan El Shaarawy,AS Roma,27.296336750560503,0.07063375508895835,False,Right Foot,Open Play,0,1,1,Normal
+3879717,Mohamed Salah,AS Roma,28.668623964187745,0.05928947370872857,False,Left Foot,Open Play,1,0,0,Volley
+3879717,Nicola Sansone,Sassuolo,25.566579747787934,0.06839067594153124,False,Right Foot,Open Play,0,0,0,Normal
+3879717,Diego Perotti,AS Roma,25.634547002043945,0.06779750050966543,False,Right Foot,Open Play,0,1,1,Half Volley
+3879717,Domenico Berardi,Sassuolo,22.50777643393501,0.054073035146377575,False,Left Foot,Open Play,0,0,2,Normal
+3879717,Joseph Alfred Duncan,Sassuolo,31.481423093627775,0.07089240474002549,False,Left Foot,Open Play,1,1,1,Normal
+3879717,Mohamed Salah,AS Roma,13.49703671181197,0.053565967613036114,False,Left Foot,Open Play,0,0,2,Normal
+3879717,Francesco Acerbi,Sassuolo,9.550916186418972,0.059350390282946495,False,Head,Open Play,0,0,5,Normal
+3879717,Davide Biondini,Sassuolo,20.769689453624483,0.06265540847944004,False,Right Foot,Open Play,1,1,2,Half Volley
+3879717,Domenico Berardi,Sassuolo,9.932774033471214,0.059521757631828785,False,Head,Open Play,0,0,2,Normal
+3879717,Nicola Sansone,Sassuolo,16.368567438844487,0.06296369768184804,False,Right Foot,Open Play,0,1,3,Normal
+3879717,Radja Nainggolan,AS Roma,11.703418304068256,0.05475412440758805,False,Right Foot,Open Play,1,1,2,Normal
+3879717,Stephan El Shaarawy,AS Roma,20.378910667648555,0.06590497139046238,False,Right Foot,Open Play,0,1,2,Volley
+3879717,William Vainqueur,AS Roma,24.32817296880306,0.0545906167606036,False,Left Foot,Open Play,0,0,3,Normal
+3879717,Francesco Acerbi,Sassuolo,16.949926253526893,0.061171584966462085,False,Left Foot,Open Play,0,1,3,Half Volley
+3879717,Matteo Politano,Sassuolo,21.10094784600919,0.06509259330157877,False,Left Foot,Open Play,1,0,0,Normal
+3879717,Paolo Cannavaro,Sassuolo,40.300124069287925,0.0732831149528999,False,Right Foot,Open Play,0,0,1,Normal
+3879717,Domenico Berardi,Sassuolo,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3879717,Nicola Sansone,Sassuolo,31.200320511174237,0.06988851640276064,False,Right Foot,Free Kick,0,0,0,Normal
+3879717,Federico Peluso,Sassuolo,7.111961754677814,0.0582939685007429,False,Head,Open Play,0,1,7,Normal
+3879717,Stephan El Shaarawy,AS Roma,6.928924880528002,0.05658654518730198,True,Right Foot,Open Play,1,1,2,Normal

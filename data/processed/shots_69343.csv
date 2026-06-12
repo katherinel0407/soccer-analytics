@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.448048185517477,0.05808545388469554,False,Head,Open Play,0,0,2,Normal
-26.15205536855564,0.06919777138697278,False,Right Foot,Open Play,0,0,3,Normal
-18.82153022471871,0.06292550505324437,True,Right Foot,Open Play,0,0,2,Normal
-18.03468879687144,0.06122431596271093,False,Right Foot,Open Play,1,0,1,Normal
-10.101980003939829,0.05973623610450059,False,Right Foot,Open Play,0,0,2,Lob
-6.129437168288776,0.05574488412274191,False,Head,Open Play,0,0,2,Normal
-12.714165328483025,0.059218230941132155,False,Left Foot,Open Play,0,0,3,Volley
-25.904632790294485,0.06078890397423495,False,Right Foot,Open Play,1,0,1,Half Volley
-7.939773296511685,0.058608744613611465,False,Right Foot,Open Play,1,0,2,Normal
-16.542369842317026,0.06281272951881904,True,Left Foot,Open Play,0,0,3,Normal
-21.30023474049054,0.05316258326570855,False,Right Foot,Open Play,1,0,0,Lob
-16.900000000000006,0.061699481672747546,False,Head,Open Play,0,0,3,Normal
-13.29812016790343,0.0589662925716191,False,Head,Open Play,0,1,3,Normal
-28.768906826641857,0.06091224703442211,False,Right Foot,Open Play,1,0,0,Half Volley
-8.868483523128406,0.059218161374909976,True,Head,Open Play,0,1,2,Normal
-7.707788269017249,0.056613911553669835,True,Head,Open Play,0,0,5,Normal
-11.313708498984765,0.05868864822876416,False,Left Foot,Open Play,1,0,1,Volley
-12.070211265756704,0.05296298800566999,False,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69343,Carles Puyol i Saforcada,Barcelona,13.448048185517477,0.05808545388469554,False,Head,Open Play,0,0,2,Normal
+69343,Andrés Iniesta Luján,Barcelona,26.15205536855564,0.06919777138697278,False,Right Foot,Open Play,0,0,3,Normal
+69343,Alexis Alejandro Sánchez Sánchez,Barcelona,18.82153022471871,0.06292550505324437,True,Right Foot,Open Play,0,0,2,Normal
+69343,Pedro Eliezer Rodríguez Ledesma,Barcelona,18.03468879687144,0.06122431596271093,False,Right Foot,Open Play,1,0,1,Normal
+69343,Xavier Hernández Creus,Barcelona,10.101980003939829,0.05973623610450059,False,Right Foot,Open Play,0,0,2,Lob
+69343,Lionel Andrés Messi Cuccittini,Barcelona,6.129437168288776,0.05574488412274191,False,Head,Open Play,0,0,2,Normal
+69343,Lionel Andrés Messi Cuccittini,Barcelona,12.714165328483025,0.059218230941132155,False,Left Foot,Open Play,0,0,3,Volley
+69343,Rubén Salvador Pérez Del Mármol,Getafe,25.904632790294485,0.06078890397423495,False,Right Foot,Open Play,1,0,1,Half Volley
+69343,Alexis Alejandro Sánchez Sánchez,Barcelona,7.939773296511685,0.058608744613611465,False,Right Foot,Open Play,1,0,2,Normal
+69343,Lionel Andrés Messi Cuccittini,Barcelona,16.542369842317026,0.06281272951881904,True,Left Foot,Open Play,0,0,3,Normal
+69343,Tsepo Peter Masilela,Getafe,21.30023474049054,0.05316258326570855,False,Right Foot,Open Play,1,0,0,Lob
+69343,Carles Puyol i Saforcada,Barcelona,16.900000000000006,0.061699481672747546,False,Head,Open Play,0,0,3,Normal
+69343,Carles Puyol i Saforcada,Barcelona,13.29812016790343,0.0589662925716191,False,Head,Open Play,0,1,3,Normal
+69343,Rubén Salvador Pérez Del Mármol,Getafe,28.768906826641857,0.06091224703442211,False,Right Foot,Open Play,1,0,0,Half Volley
+69343,Alexis Alejandro Sánchez Sánchez,Barcelona,8.868483523128406,0.059218161374909976,True,Head,Open Play,0,1,2,Normal
+69343,Pedro Eliezer Rodríguez Ledesma,Barcelona,7.707788269017249,0.056613911553669835,True,Head,Open Play,0,0,5,Normal
+69343,Lionel Andrés Messi Cuccittini,Barcelona,11.313708498984765,0.05868864822876416,False,Left Foot,Open Play,1,0,1,Volley
+69343,Lionel Andrés Messi Cuccittini,Barcelona,12.070211265756704,0.05296298800566999,False,Right Foot,Open Play,0,0,1,Half Volley

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.168178623456633,0.05924658168352729,False,Left Foot,Open Play,1,0,1,Volley
-16.607528413343143,0.061366473754987313,False,Right Foot,Open Play,1,1,2,Volley
-15.473848907107756,0.05280439114607033,False,Right Foot,Open Play,1,0,2,Normal
-33.55249618135736,0.07463661033969037,False,Right Foot,Open Play,0,0,2,Normal
-36.11993909186449,0.06530783180009828,False,Right Foot,Open Play,0,0,0,Normal
-25.524889813670104,0.057366492966930915,False,Right Foot,Open Play,0,0,1,Half Volley
-23.13201245028197,0.059051681039353446,False,Right Foot,Open Play,1,0,0,Volley
-8.514693182963198,0.0590500787816576,False,Head,Open Play,0,1,2,Normal
-24.964975465639856,0.06897430573991142,False,Left Foot,Open Play,1,0,1,Volley
-17.274258305351346,0.055434537589665836,False,Left Foot,Open Play,0,1,4,Normal
-16.13753388842298,0.05542174243110777,False,Right Foot,Open Play,0,0,3,Normal
-29.329336848964036,0.06361582630579316,False,Right Foot,Open Play,0,1,1,Normal
-29.959472625531973,0.05649296205417121,True,Left Foot,Free Kick,0,0,0,Normal
-21.200235847744707,0.05860653022402532,False,Left Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-25.0539418056321,0.06879422363824138,False,Right Foot,Open Play,0,0,1,Normal
-16.387800340497197,0.06329372134194614,False,Left Foot,Open Play,0,0,2,Half Volley
-28.392428568194017,0.062374627946928926,False,Right Foot,Open Play,1,0,1,Volley
-19.90602923739439,0.055439063145408196,False,Left Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754170,Jason Puncheon,Crystal Palace,16.168178623456633,0.05924658168352729,False,Left Foot,Open Play,1,0,1,Volley
+3754170,Georginio Wijnaldum,Newcastle United,16.607528413343143,0.061366473754987313,False,Right Foot,Open Play,1,1,2,Volley
+3754170,Yohan Cabaye,Crystal Palace,15.473848907107756,0.05280439114607033,False,Right Foot,Open Play,1,0,2,Normal
+3754170,Yannick Bolasie Yala,Crystal Palace,33.55249618135736,0.07463661033969037,False,Right Foot,Open Play,0,0,2,Normal
+3754170,Chancel Mbemba Mangulu,Newcastle United,36.11993909186449,0.06530783180009828,False,Right Foot,Open Play,0,0,0,Normal
+3754170,Andros Townsend,Newcastle United,25.524889813670104,0.057366492966930915,False,Right Foot,Open Play,0,0,1,Half Volley
+3754170,Yannick Bolasie Yala,Crystal Palace,23.13201245028197,0.059051681039353446,False,Right Foot,Open Play,1,0,0,Volley
+3754170,Connor Wickham,Crystal Palace,8.514693182963198,0.0590500787816576,False,Head,Open Play,0,1,2,Normal
+3754170,Damien Delaney,Crystal Palace,24.964975465639856,0.06897430573991142,False,Left Foot,Open Play,1,0,1,Volley
+3754170,Jack Colback,Newcastle United,17.274258305351346,0.055434537589665836,False,Left Foot,Open Play,0,1,4,Normal
+3754170,Georginio Wijnaldum,Newcastle United,16.13753388842298,0.05542174243110777,False,Right Foot,Open Play,0,0,3,Normal
+3754170,Andros Townsend,Newcastle United,29.329336848964036,0.06361582630579316,False,Right Foot,Open Play,0,1,1,Normal
+3754170,Andros Townsend,Newcastle United,29.959472625531973,0.05649296205417121,True,Left Foot,Free Kick,0,0,0,Normal
+3754170,Andros Townsend,Newcastle United,21.200235847744707,0.05860653022402532,False,Left Foot,Open Play,0,0,2,Normal
+3754170,Yohan Cabaye,Crystal Palace,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3754170,Yannick Bolasie Yala,Crystal Palace,25.0539418056321,0.06879422363824138,False,Right Foot,Open Play,0,0,1,Normal
+3754170,Ayoze Pérez Gutiérrez,Newcastle United,16.387800340497197,0.06329372134194614,False,Left Foot,Open Play,0,0,2,Half Volley
+3754170,Yohan Cabaye,Crystal Palace,28.392428568194017,0.062374627946928926,False,Right Foot,Open Play,1,0,1,Volley
+3754170,Vurnon Anita,Newcastle United,19.90602923739439,0.055439063145408196,False,Left Foot,Open Play,1,0,0,Normal

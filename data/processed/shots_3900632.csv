@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.891575789115965,0.07038022747799173,False,Left Foot,Open Play,0,0,1,Normal
-13.66199107011859,0.06156535422204789,False,Right Foot,Open Play,1,0,1,Volley
-16.252076790367443,0.06190241276451104,True,Right Foot,Open Play,1,0,1,Half Volley
-30.048128061494946,0.06885006329670879,False,Left Foot,Free Kick,0,0,0,Normal
-18.476471524617462,0.05782783503527698,False,Left Foot,Open Play,0,0,2,Normal
-14.771932845772085,0.0622071918123462,False,Head,Open Play,0,0,1,Normal
-9.664884893261792,0.059626364556322885,False,Left Foot,Open Play,1,1,4,Volley
-4.044749683231338,0.056207514985188674,True,Left Foot,Open Play,1,0,3,Half Volley
-22.999347816840366,0.06013416652133298,True,Left Foot,Free Kick,0,0,0,Normal
-38.616706229299254,0.07724697228393942,False,Right Foot,Open Play,1,0,1,Normal
-17.681628884240272,0.056153774460444256,False,Right Foot,Open Play,0,1,2,Normal
-32.0624390837628,0.07422344246289472,False,Left Foot,Open Play,0,0,1,Normal
-17.91340280348767,0.054499358128902026,True,Left Foot,Open Play,1,0,1,Half Volley
-25.304742638485777,0.06665822752510499,False,Right Foot,Open Play,1,1,2,Normal
-5.375872022286246,0.05739803889835408,True,Right Foot,Open Play,1,0,3,Volley
-18.186808406094787,0.06324718938113291,False,Right Foot,Open Play,0,0,1,Volley
-6.481512169239516,0.055552003777967165,False,Left Foot,Open Play,0,0,4,Normal
-5.818075283115539,0.05613763855688445,False,Head,Open Play,0,1,6,Normal
-7.076722405181654,0.05821615292108744,False,Head,Open Play,0,0,1,Diving Header
-8.670063436907478,0.05855707828364216,True,Head,Open Play,0,0,2,Normal
-19.85950653969025,0.05807220548683193,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900632,Adam Ounas,Bordeaux,27.891575789115965,0.07038022747799173,False,Left Foot,Open Play,0,0,1,Normal
+3900632,Mevlüt Erdinç,Guingamp,13.66199107011859,0.06156535422204789,False,Right Foot,Open Play,1,0,1,Volley
+3900632,Adam Ounas,Bordeaux,16.252076790367443,0.06190241276451104,True,Right Foot,Open Play,1,0,1,Half Volley
+3900632,Yannis Salibur,Guingamp,30.048128061494946,0.06885006329670879,False,Left Foot,Free Kick,0,0,0,Normal
+3900632,André Biyogo Poko,Bordeaux,18.476471524617462,0.05782783503527698,False,Left Foot,Open Play,0,0,2,Normal
+3900632,Diego Alejandro Rolan Silva,Bordeaux,14.771932845772085,0.0622071918123462,False,Head,Open Play,0,0,1,Normal
+3900632,Cédric Yambéré,Bordeaux,9.664884893261792,0.059626364556322885,False,Left Foot,Open Play,1,1,4,Volley
+3900632,Diego Alejandro Rolan Silva,Bordeaux,4.044749683231338,0.056207514985188674,True,Left Foot,Open Play,1,0,3,Half Volley
+3900632,Thibault Giresse,Guingamp,22.999347816840366,0.06013416652133298,True,Left Foot,Free Kick,0,0,0,Normal
+3900632,Marcus Coco,Guingamp,38.616706229299254,0.07724697228393942,False,Right Foot,Open Play,1,0,1,Normal
+3900632,Adam Ounas,Bordeaux,17.681628884240272,0.056153774460444256,False,Right Foot,Open Play,0,1,2,Normal
+3900632,Maxime Poundjé,Bordeaux,32.0624390837628,0.07422344246289472,False,Left Foot,Open Play,0,0,1,Normal
+3900632,Marcus Coco,Guingamp,17.91340280348767,0.054499358128902026,True,Left Foot,Open Play,1,0,1,Half Volley
+3900632,Adam Ounas,Bordeaux,25.304742638485777,0.06665822752510499,False,Right Foot,Open Play,1,1,2,Normal
+3900632,Clément Chantôme,Bordeaux,5.375872022286246,0.05739803889835408,True,Right Foot,Open Play,1,0,3,Volley
+3900632,Cheick Tidiane Diabaté,Bordeaux,18.186808406094787,0.06324718938113291,False,Right Foot,Open Play,0,0,1,Volley
+3900632,Sloan Privat,Guingamp,6.481512169239516,0.055552003777967165,False,Left Foot,Open Play,0,0,4,Normal
+3900632,Sloan Privat,Guingamp,5.818075283115539,0.05613763855688445,False,Head,Open Play,0,1,6,Normal
+3900632,Sloan Privat,Guingamp,7.076722405181654,0.05821615292108744,False,Head,Open Play,0,0,1,Diving Header
+3900632,Cheick Tidiane Diabaté,Bordeaux,8.670063436907478,0.05855707828364216,True,Head,Open Play,0,0,2,Normal
+3900632,Yannis Salibur,Guingamp,19.85950653969025,0.05807220548683193,False,Left Foot,Open Play,1,0,2,Normal

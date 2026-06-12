@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.500000000000002,0.06023888187958185,True,Left Foot,Open Play,1,0,1,Half Volley
-29.001551682625536,0.05786748540913829,False,Right Foot,Free Kick,0,0,0,Normal
-31.903918254659573,0.06916964622560498,False,Right Foot,Open Play,0,0,2,Normal
-25.04096643502402,0.06164233739053749,False,Left Foot,Open Play,0,0,3,Normal
-13.693794214898945,0.05966529673667221,False,Right Foot,Open Play,1,0,3,Half Volley
-19.309324172533845,0.06302928153769632,False,Left Foot,Open Play,0,1,3,Normal
-34.05950674921761,0.062276747064725434,False,Right Foot,Open Play,0,0,2,Normal
-22.429444932944733,0.06555025045006957,False,Right Foot,Free Kick,0,0,0,Normal
-21.542516101885592,0.0658344749459489,False,Right Foot,Open Play,0,0,2,Normal
-9.353608929178082,0.058138580329511455,False,Head,Open Play,0,1,6,Normal
-22.687661845152757,0.06563610472780416,False,Left Foot,Open Play,0,0,2,Normal
-10.413932974625867,0.05834486086630139,False,Left Foot,Open Play,0,0,3,Normal
-17.07922714879101,0.0633925079390817,False,Right Foot,Open Play,0,0,4,Normal
-7.256031973468697,0.05792244202626966,False,Head,Open Play,0,1,3,Normal
-7.887331614684399,0.0585508456073341,False,Head,Open Play,0,1,2,Normal
-2.343074902771994,0.055947152455305744,True,Left Foot,Open Play,1,1,5,Half Volley
-13.91294361377204,0.06061971404111665,False,Left Foot,Open Play,1,0,2,Volley
-27.320688131890094,0.07064087610740631,False,Left Foot,Open Play,1,0,1,Half Volley
-26.84771871127974,0.05949961192534148,False,Right Foot,Open Play,0,0,0,Half Volley
-29.05236651290218,0.05781486318905963,False,Right Foot,Open Play,0,0,2,Normal
-12.912397143830418,0.05929970208563224,False,Right Foot,Open Play,1,1,1,Half Volley
-19.6596032513375,0.06392161240410404,False,Left Foot,Open Play,0,0,3,Normal
-30.76507760432273,0.06711443786154349,False,Left Foot,Free Kick,0,0,0,Normal
-12.66964877176949,0.06068482267171105,False,Right Foot,Open Play,1,1,3,Half Volley
-9.323089616645335,0.059133529560330425,False,Head,Open Play,0,0,3,Normal
-12.201639234135717,0.05974739413666362,True,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.099999999999994,0.05963343195195743,False,Right Foot,Penalty,0,0,0,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-12.200000000000003,0.05967536621333517,True,Right Foot,Penalty,0,0,0,Normal
-12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
-12.10165277968261,0.05956138556761399,True,Left Foot,Penalty,0,0,0,Normal
-12.200000000000003,0.05967536621333517,False,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-11.900000000000006,0.05954970314276759,False,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3795506,Luke Shaw,England,11.500000000000002,0.06023888187958185,True,Left Foot,Open Play,1,0,1,Half Volley
+3795506,Lorenzo Insigne,Italy,29.001551682625536,0.05786748540913829,False,Right Foot,Free Kick,0,0,0,Normal
+3795506,Lorenzo Insigne,Italy,31.903918254659573,0.06916964622560498,False,Right Foot,Open Play,0,0,2,Normal
+3795506,Federico Chiesa,Italy,25.04096643502402,0.06164233739053749,False,Left Foot,Open Play,0,0,3,Normal
+3795506,Ciro Immobile,Italy,13.693794214898945,0.05966529673667221,False,Right Foot,Open Play,1,0,3,Half Volley
+3795506,Marco Verratti,Italy,19.309324172533845,0.06302928153769632,False,Left Foot,Open Play,0,1,3,Normal
+3795506,Leonardo Bonucci,Italy,34.05950674921761,0.062276747064725434,False,Right Foot,Open Play,0,0,2,Normal
+3795506,Lorenzo Insigne,Italy,22.429444932944733,0.06555025045006957,False,Right Foot,Free Kick,0,0,0,Normal
+3795506,Lorenzo Insigne,Italy,21.542516101885592,0.0658344749459489,False,Right Foot,Open Play,0,0,2,Normal
+3795506,Harry Maguire,England,9.353608929178082,0.058138580329511455,False,Head,Open Play,0,1,6,Normal
+3795506,Federico Chiesa,Italy,22.687661845152757,0.06563610472780416,False,Left Foot,Open Play,0,0,2,Normal
+3795506,Lorenzo Insigne,Italy,10.413932974625867,0.05834486086630139,False,Left Foot,Open Play,0,0,3,Normal
+3795506,Federico Chiesa,Italy,17.07922714879101,0.0633925079390817,False,Right Foot,Open Play,0,0,4,Normal
+3795506,John Stones,England,7.256031973468697,0.05792244202626966,False,Head,Open Play,0,1,3,Normal
+3795506,Marco Verratti,Italy,7.887331614684399,0.0585508456073341,False,Head,Open Play,0,1,2,Normal
+3795506,Leonardo Bonucci,Italy,2.343074902771994,0.055947152455305744,True,Left Foot,Open Play,1,1,5,Half Volley
+3795506,Domenico Berardi,Italy,13.91294361377204,0.06061971404111665,False,Left Foot,Open Play,1,0,2,Volley
+3795506,Luke Shaw,England,27.320688131890094,0.07064087610740631,False,Left Foot,Open Play,1,0,1,Half Volley
+3795506,Kalvin Phillips,England,26.84771871127974,0.05949961192534148,False,Right Foot,Open Play,0,0,0,Half Volley
+3795506,Andrea Belotti,Italy,29.05236651290218,0.05781486318905963,False,Right Foot,Open Play,0,0,2,Normal
+3795506,Andrea Belotti,Italy,12.912397143830418,0.05929970208563224,False,Right Foot,Open Play,1,1,1,Half Volley
+3795506,Manuel Locatelli,Italy,19.6596032513375,0.06392161240410404,False,Left Foot,Open Play,0,0,3,Normal
+3795506,Federico Bernardeschi,Italy,30.76507760432273,0.06711443786154349,False,Left Foot,Free Kick,0,0,0,Normal
+3795506,Jack Grealish,England,12.66964877176949,0.06068482267171105,False,Right Foot,Open Play,1,1,3,Half Volley
+3795506,Bryan Cristante,Italy,9.323089616645335,0.059133529560330425,False,Head,Open Play,0,0,3,Normal
+3795506,Domenico Berardi,Italy,12.201639234135717,0.05974739413666362,True,Left Foot,Penalty,0,0,0,Normal
+3795506,Harry Kane,England,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3795506,Andrea Belotti,Italy,12.099999999999994,0.05963343195195743,False,Right Foot,Penalty,0,0,0,Normal
+3795506,Harry Maguire,England,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+3795506,Leonardo Bonucci,Italy,12.200000000000003,0.05967536621333517,True,Right Foot,Penalty,0,0,0,Normal
+3795506,Marcus Rashford,England,12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
+3795506,Federico Bernardeschi,Italy,12.10165277968261,0.05956138556761399,True,Left Foot,Penalty,0,0,0,Normal
+3795506,Jadon Sancho,England,12.200000000000003,0.05967536621333517,False,Right Foot,Penalty,0,0,0,Normal
+3795506,Jorge Luiz Frello Filho,Italy,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3795506,Bukayo Saka,England,11.900000000000006,0.05954970314276759,False,Left Foot,Penalty,0,0,0,Normal

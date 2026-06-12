@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.934675744127155,0.06529901244974018,False,Left Foot,Open Play,1,1,2,Half Volley
-21.11539722572133,0.05925574620093459,False,Left Foot,Open Play,0,0,1,Normal
-15.190786681406594,0.05993112163811844,False,Head,Open Play,0,0,3,Normal
-33.93464306575215,0.07321994018412455,False,Right Foot,Open Play,0,0,0,Normal
-5.2239831546435935,0.056696028028171634,False,Right Foot,Open Play,0,0,3,Normal
-22.18220007122828,0.0661932912745854,False,Left Foot,Open Play,1,1,2,Half Volley
-19.817164277464123,0.05439429368168681,False,Left Foot,Open Play,0,0,2,Normal
-25.212695214911076,0.055003801526420676,False,Left Foot,Open Play,0,1,2,Normal
-12.8763348822559,0.05539324491176626,False,Right Foot,Open Play,0,1,1,Normal
-12.520782723136756,0.0561526985607142,True,Right Foot,Open Play,0,0,3,Normal
-9.501578816175764,0.05955665311678086,False,Head,Open Play,0,1,1,Normal
-29.068883707497267,0.06630480298387839,False,Right Foot,Open Play,1,0,0,Normal
-21.2438226315322,0.06638246016058295,False,Left Foot,Open Play,0,0,1,Normal
-14.016062214473797,0.05971252859361857,False,Head,Open Play,0,1,3,Normal
-11.317685275708985,0.06050978278465531,False,Head,Open Play,0,1,4,Normal
-15.560205654167946,0.056181266148082394,False,Left Foot,Open Play,0,0,1,Normal
-15.962455951387938,0.059370247568812894,False,Right Foot,Open Play,1,0,1,Half Volley
-24.809070921741505,0.06744985244030689,False,Left Foot,Open Play,1,0,0,Normal
-17.47340836814616,0.0625672724132908,False,Left Foot,Open Play,0,0,2,Normal
-25.962472917655596,0.06904955978394368,False,Left Foot,Open Play,0,1,1,Normal
-19.82977559126678,0.058740162570838736,False,Right Foot,Open Play,0,1,2,Normal
-29.26585040623286,0.05845562225565221,False,Left Foot,Open Play,0,0,2,Normal
-29.31433096626972,0.0714485533191159,False,Left Foot,Open Play,0,1,2,Normal
-9.10219753685889,0.05594526637281593,False,Left Foot,Open Play,1,0,1,Volley
-27.37918917718346,0.068442587846282,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879775,Tomás Eduardo Rincón Hernández,Genoa,21.934675744127155,0.06529901244974018,False,Left Foot,Open Play,1,1,2,Half Volley
+3879775,Goran Pandev,Genoa,21.11539722572133,0.05925574620093459,False,Left Foot,Open Play,0,0,1,Normal
+3879775,Goran Pandev,Genoa,15.190786681406594,0.05993112163811844,False,Head,Open Play,0,0,3,Normal
+3879775,Sebastian De Maio,Genoa,33.93464306575215,0.07321994018412455,False,Right Foot,Open Play,0,0,0,Normal
+3879775,Luca Rigoni,Genoa,5.2239831546435935,0.056696028028171634,False,Right Foot,Open Play,0,0,3,Normal
+3879775,Goran Pandev,Genoa,22.18220007122828,0.0661932912745854,False,Left Foot,Open Play,1,1,2,Half Volley
+3879775,Goran Pandev,Genoa,19.817164277464123,0.05439429368168681,False,Left Foot,Open Play,0,0,2,Normal
+3879775,Jesús Joaquín Fernández Sáez de la Torre,Genoa,25.212695214911076,0.055003801526420676,False,Left Foot,Open Play,0,1,2,Normal
+3879775,Piotr Zieliński,Empoli,12.8763348822559,0.05539324491176626,False,Right Foot,Open Play,0,1,1,Normal
+3879775,Luca Rigoni,Genoa,12.520782723136756,0.0561526985607142,True,Right Foot,Open Play,0,0,3,Normal
+3879775,Diego Sebastián Laxalt Suárez,Genoa,9.501578816175764,0.05955665311678086,False,Head,Open Play,0,1,1,Normal
+3879775,Tomás Eduardo Rincón Hernández,Genoa,29.068883707497267,0.06630480298387839,False,Right Foot,Open Play,1,0,0,Normal
+3879775,Goran Pandev,Genoa,21.2438226315322,0.06638246016058295,False,Left Foot,Open Play,0,0,1,Normal
+3879775,Levan Mchedlidze,Empoli,14.016062214473797,0.05971252859361857,False,Head,Open Play,0,1,3,Normal
+3879775,Luca Rigoni,Genoa,11.317685275708985,0.06050978278465531,False,Head,Open Play,0,1,4,Normal
+3879775,Levan Mchedlidze,Empoli,15.560205654167946,0.056181266148082394,False,Left Foot,Open Play,0,0,1,Normal
+3879775,Piotr Zieliński,Empoli,15.962455951387938,0.059370247568812894,False,Right Foot,Open Play,1,0,1,Half Volley
+3879775,Panagiotis Tachtsidis,Genoa,24.809070921741505,0.06744985244030689,False,Left Foot,Open Play,1,0,0,Normal
+3879775,Goran Pandev,Genoa,17.47340836814616,0.0625672724132908,False,Left Foot,Open Play,0,0,2,Normal
+3879775,Riccardo Saponara,Empoli,25.962472917655596,0.06904955978394368,False,Left Foot,Open Play,0,1,1,Normal
+3879775,Manuel Pucciarelli,Empoli,19.82977559126678,0.058740162570838736,False,Right Foot,Open Play,0,1,2,Normal
+3879775,Piotr Zieliński,Empoli,29.26585040623286,0.05845562225565221,False,Left Foot,Open Play,0,0,2,Normal
+3879775,Levan Mchedlidze,Empoli,29.31433096626972,0.0714485533191159,False,Left Foot,Open Play,0,1,2,Normal
+3879775,Riccardo Saponara,Empoli,9.10219753685889,0.05594526637281593,False,Left Foot,Open Play,1,0,1,Volley
+3879775,Piotr Zieliński,Empoli,27.37918917718346,0.068442587846282,False,Right Foot,Free Kick,0,0,0,Normal

@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.033296378372908,0.061251320416057825,False,Right Foot,Open Play,0,1,4,Normal
-14.7648230602334,0.062454776350060776,False,Right Foot,Open Play,1,1,1,Half Volley
-13.892443989449804,0.061975830228147226,False,Left Foot,Open Play,0,0,2,Normal
-27.459060435491963,0.06377095526263883,False,Right Foot,Open Play,1,0,0,Half Volley
-15.620499351813308,0.06290668439967836,False,Head,Open Play,0,1,1,Normal
-27.294688127912362,0.06843776786061911,False,Right Foot,Open Play,0,0,1,Normal
-18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,0,0,2,Normal
-10.63014581273465,0.05995590329582852,False,Head,Open Play,0,1,3,Normal
-27.459060435491963,0.06377095526263883,False,Left Foot,Open Play,0,0,1,Normal
-10.44030650891055,0.05771588406306943,False,Left Foot,Open Play,0,0,1,Normal
-10.770329614269007,0.057358586558931925,False,Head,Open Play,0,0,4,Normal
-16.1245154965971,0.06199847208100993,False,Right Foot,Open Play,0,0,1,Normal
-16.55294535724685,0.05807115995296915,False,Left Foot,Open Play,0,0,1,Normal
-22.0,0.06401618497136272,False,Left Foot,Open Play,0,0,2,Normal
-9.0,0.05835638047140873,False,Head,Open Play,0,0,3,Normal
-25.079872407968907,0.06444529667824357,False,Right Foot,Free Kick,0,0,0,Normal
-10.44030650891055,0.0597699592379618,False,Head,Open Play,0,1,4,Normal
-38.27531841800928,0.06233334264935824,False,Right Foot,Open Play,0,0,2,Normal
-25.709920264364882,0.06828734828432545,False,Right Foot,Free Kick,0,0,0,Normal
-22.135943621178654,0.06652908246992177,False,Right Foot,Open Play,0,0,3,Normal
-10.44030650891055,0.05771588406306943,False,Head,Open Play,0,0,3,Normal
-11.180339887498949,0.06041496471578293,False,Left Foot,Open Play,0,0,3,Normal
-27.018512172212592,0.055530944214790434,False,Left Foot,Open Play,0,0,2,Normal
-16.0,0.06130374464429979,False,Left Foot,Open Play,0,0,4,Normal
-23.259406699226016,0.0677020245781753,False,Right Foot,Open Play,0,0,2,Normal
-7.0,0.05755567023984417,False,Head,Open Play,0,1,4,Normal
-35.510561809129406,0.056890698981435894,False,Right Foot,Open Play,0,0,1,Normal
-7.0,0.05755567023984417,False,Right Foot,Open Play,0,0,2,Normal
-13.038404810405298,0.05964280276771261,True,Left Foot,Open Play,0,0,2,Normal
-20.518284528683193,0.06539832613154843,False,Right Foot,Open Play,0,1,1,Normal
-21.18962010041709,0.05053043941808934,True,Right Foot,Open Play,0,0,2,Lob
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,0,0,1,Half Volley
-21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,0,0,2,Normal
-29.966648127543394,0.07256735956053746,False,Left Foot,Open Play,0,0,1,Normal
-12.165525060596439,0.05886470108823898,False,Left Foot,Open Play,0,0,5,Normal
-20.0,0.06560915817967398,False,Right Foot,Open Play,0,0,2,Normal
-14.142135623730951,0.061180694078766557,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19797,Vivianne Miedema,Arsenal WFC,15.033296378372908,0.061251320416057825,False,Right Foot,Open Play,0,1,4,Normal
+19797,Bethany Mead,Arsenal WFC,14.7648230602334,0.062454776350060776,False,Right Foot,Open Play,1,1,1,Half Volley
+19797,Vivianne Miedema,Arsenal WFC,13.892443989449804,0.061975830228147226,False,Left Foot,Open Play,0,0,2,Normal
+19797,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,27.459060435491963,0.06377095526263883,False,Right Foot,Open Play,1,0,0,Half Volley
+19797,Ellie Mason,Yeovil Town LFC,15.620499351813308,0.06290668439967836,False,Head,Open Play,0,1,1,Normal
+19797,Kim Little,Arsenal WFC,27.294688127912362,0.06843776786061911,False,Right Foot,Open Play,0,0,1,Normal
+19797,Vivianne Miedema,Arsenal WFC,18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,0,0,2,Normal
+19797,Vivianne Miedema,Arsenal WFC,10.63014581273465,0.05995590329582852,False,Head,Open Play,0,1,3,Normal
+19797,Danielle van de Donk,Arsenal WFC,27.459060435491963,0.06377095526263883,False,Left Foot,Open Play,0,0,1,Normal
+19797,Kim Little,Arsenal WFC,10.44030650891055,0.05771588406306943,False,Left Foot,Open Play,0,0,1,Normal
+19797,Danielle van de Donk,Arsenal WFC,10.770329614269007,0.057358586558931925,False,Head,Open Play,0,0,4,Normal
+19797,Kim Little,Arsenal WFC,16.1245154965971,0.06199847208100993,False,Right Foot,Open Play,0,0,1,Normal
+19797,Danielle van de Donk,Arsenal WFC,16.55294535724685,0.05807115995296915,False,Left Foot,Open Play,0,0,1,Normal
+19797,Vivianne Miedema,Arsenal WFC,22.0,0.06401618497136272,False,Left Foot,Open Play,0,0,2,Normal
+19797,Vivianne Miedema,Arsenal WFC,9.0,0.05835638047140873,False,Head,Open Play,0,0,3,Normal
+19797,Vivianne Miedema,Arsenal WFC,25.079872407968907,0.06444529667824357,False,Right Foot,Free Kick,0,0,0,Normal
+19797,Vivianne Miedema,Arsenal WFC,10.44030650891055,0.0597699592379618,False,Head,Open Play,0,1,4,Normal
+19797,Danielle van de Donk,Arsenal WFC,38.27531841800928,0.06233334264935824,False,Right Foot,Open Play,0,0,2,Normal
+19797,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,25.709920264364882,0.06828734828432545,False,Right Foot,Free Kick,0,0,0,Normal
+19797,Lisa Evans,Arsenal WFC,22.135943621178654,0.06652908246992177,False,Right Foot,Open Play,0,0,3,Normal
+19797,Bethany Mead,Arsenal WFC,10.44030650891055,0.05771588406306943,False,Head,Open Play,0,0,3,Normal
+19797,Vivianne Miedema,Arsenal WFC,11.180339887498949,0.06041496471578293,False,Left Foot,Open Play,0,0,3,Normal
+19797,Lisa Evans,Arsenal WFC,27.018512172212592,0.055530944214790434,False,Left Foot,Open Play,0,0,2,Normal
+19797,Kim Little,Arsenal WFC,16.0,0.06130374464429979,False,Left Foot,Open Play,0,0,4,Normal
+19797,Vivianne Miedema,Arsenal WFC,23.259406699226016,0.0677020245781753,False,Right Foot,Open Play,0,0,2,Normal
+19797,Janni Arnth-Jensen,Arsenal WFC,7.0,0.05755567023984417,False,Head,Open Play,0,1,4,Normal
+19797,Leah Williamson,Arsenal WFC,35.510561809129406,0.056890698981435894,False,Right Foot,Open Play,0,0,1,Normal
+19797,Vivianne Miedema,Arsenal WFC,7.0,0.05755567023984417,False,Right Foot,Open Play,0,0,2,Normal
+19797,Kim Little,Arsenal WFC,13.038404810405298,0.05964280276771261,True,Left Foot,Open Play,0,0,2,Normal
+19797,Bethany Mead,Arsenal WFC,20.518284528683193,0.06539832613154843,False,Right Foot,Open Play,0,1,1,Normal
+19797,Bethany Mead,Arsenal WFC,21.18962010041709,0.05053043941808934,True,Right Foot,Open Play,0,0,2,Lob
+19797,Kim Little,Arsenal WFC,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+19797,Katie McCabe,Arsenal WFC,16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,0,0,1,Half Volley
+19797,Vivianne Miedema,Arsenal WFC,21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,0,0,2,Normal
+19797,Katie McCabe,Arsenal WFC,29.966648127543394,0.07256735956053746,False,Left Foot,Open Play,0,0,1,Normal
+19797,Bethany Mead,Arsenal WFC,12.165525060596439,0.05886470108823898,False,Left Foot,Open Play,0,0,5,Normal
+19797,Amelia Hazard,Arsenal WFC,20.0,0.06560915817967398,False,Right Foot,Open Play,0,0,2,Normal
+19797,Hannah Short,Yeovil Town LFC,14.142135623730951,0.061180694078766557,False,Right Foot,Open Play,0,0,3,Normal

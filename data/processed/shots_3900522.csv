@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.513133872576304,0.06442559198523196,False,Right Foot,Open Play,1,1,1,Normal
-13.314653581674595,0.05661624105634153,False,Right Foot,Open Play,1,0,1,Half Volley
-31.51539306434238,0.07357110862550581,False,Right Foot,Free Kick,0,0,0,Normal
-12.238055401083942,0.05800469662755038,False,Head,Open Play,0,1,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-43.929147499126366,0.07405508541696139,False,Left Foot,Free Kick,0,0,0,Normal
-34.893122531524746,0.07631099676450186,False,Left Foot,Open Play,1,0,1,Half Volley
-21.200235847744707,0.05860653022402532,False,Right Foot,Open Play,0,0,3,Normal
-18.278402556022225,0.05673107169591723,False,Right Foot,Open Play,0,0,1,Lob
-13.605881081355953,0.0601179325406249,False,Right Foot,Open Play,1,0,1,Normal
-13.28495389529072,0.060645562157339475,False,Head,Open Play,0,0,0,Diving Header
-29.710772457140862,0.06731004024199916,False,Right Foot,Open Play,0,0,0,Normal
-44.30812566561579,0.07045137413571843,False,Left Foot,Free Kick,0,0,0,Normal
-9.1214034007931,0.05906209867460593,False,Left Foot,Open Play,1,1,3,Volley
-15.264337522473747,0.056944377721215564,True,Right Foot,Open Play,1,0,3,Normal
-8.286132994346637,0.053413797289579006,False,Head,Open Play,0,0,2,Normal
-18.25212316416915,0.06411861342838195,False,Left Foot,Open Play,0,0,1,Normal
-27.33587386567329,0.055288642941251895,False,Right Foot,Open Play,0,1,2,Normal
-21.92715211786519,0.05337038116250705,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900522,Jean-Daniel Akpa Akpro,Toulouse,25.513133872576304,0.06442559198523196,False,Right Foot,Open Play,1,1,1,Normal
+3900522,Jérémy Pied,OGC Nice,13.314653581674595,0.05661624105634153,False,Right Foot,Open Play,1,0,1,Half Volley
+3900522,Jean Michaël Seri,OGC Nice,31.51539306434238,0.07357110862550581,False,Right Foot,Free Kick,0,0,0,Normal
+3900522,Valère Germain,OGC Nice,12.238055401083942,0.05800469662755038,False,Head,Open Play,0,1,2,Normal
+3900522,Martin Braithwaite Christensen,Toulouse,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3900522,Hatem Ben Arfa,OGC Nice,43.929147499126366,0.07405508541696139,False,Left Foot,Free Kick,0,0,0,Normal
+3900522,Maxime Le Marchand,OGC Nice,34.893122531524746,0.07631099676450186,False,Left Foot,Open Play,1,0,1,Half Volley
+3900522,Valère Germain,OGC Nice,21.200235847744707,0.05860653022402532,False,Right Foot,Open Play,0,0,3,Normal
+3900522,Wissam Ben Yedder,Toulouse,18.278402556022225,0.05673107169591723,False,Right Foot,Open Play,0,0,1,Lob
+3900522,Martin Braithwaite Christensen,Toulouse,13.605881081355953,0.0601179325406249,False,Right Foot,Open Play,1,0,1,Normal
+3900522,Martin Braithwaite Christensen,Toulouse,13.28495389529072,0.060645562157339475,False,Head,Open Play,0,0,0,Diving Header
+3900522,Zinédine Machach,Toulouse,29.710772457140862,0.06731004024199916,False,Right Foot,Open Play,0,0,0,Normal
+3900522,Hatem Ben Arfa,OGC Nice,44.30812566561579,0.07045137413571843,False,Left Foot,Free Kick,0,0,0,Normal
+3900522,Martin Braithwaite Christensen,Toulouse,9.1214034007931,0.05906209867460593,False,Left Foot,Open Play,1,1,3,Volley
+3900522,Wissam Ben Yedder,Toulouse,15.264337522473747,0.056944377721215564,True,Right Foot,Open Play,1,0,3,Normal
+3900522,Yann Bodiger,Toulouse,8.286132994346637,0.053413797289579006,False,Head,Open Play,0,0,2,Normal
+3900522,Hatem Ben Arfa,OGC Nice,18.25212316416915,0.06411861342838195,False,Left Foot,Open Play,0,0,1,Normal
+3900522,Wergiton do Rosário Calmon,Toulouse,27.33587386567329,0.055288642941251895,False,Right Foot,Open Play,0,1,2,Normal
+3900522,Wergiton do Rosário Calmon,Toulouse,21.92715211786519,0.05337038116250705,False,Right Foot,Open Play,1,0,2,Normal

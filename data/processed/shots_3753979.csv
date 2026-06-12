@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.394353553130559,0.06110970947662813,False,Left Foot,Open Play,1,0,1,Half Volley
-11.40175425099138,0.060576983983408474,False,Left Foot,Open Play,1,1,2,Volley
-19.804039991880448,0.0645752268277447,False,Right Foot,Open Play,1,0,1,Normal
-16.710774967068406,0.061850984717771174,False,Left Foot,Open Play,0,1,3,Normal
-26.96701689100966,0.06733362283794943,False,Right Foot,Open Play,0,0,3,Normal
-18.017769007288333,0.06251796098803931,False,Left Foot,Open Play,1,0,1,Normal
-22.343231637343784,0.05987072869465217,False,Left Foot,Open Play,0,0,4,Normal
-31.360006377550377,0.0596997665231322,False,Right Foot,Open Play,0,0,2,Normal
-21.98931558734833,0.05593863906768036,False,Right Foot,Open Play,0,0,2,Normal
-22.953213282675698,0.06273906212696796,False,Right Foot,Open Play,0,0,1,Normal
-23.213789005675057,0.06420207526979194,False,Left Foot,Open Play,0,0,2,Normal
-8.163332652783422,0.05885803422386011,False,Head,Open Play,0,0,3,Normal
-31.538706378036498,0.07388269224458294,False,Right Foot,Open Play,0,1,1,Normal
-33.98352542041511,0.0536690880498452,False,Left Foot,Open Play,0,0,1,Normal
-15.8549676757791,0.05543501617923629,False,Head,Open Play,0,1,2,Normal
-10.331021246711282,0.05860904242739205,False,Right Foot,Open Play,1,0,2,Normal
-11.835962149314266,0.05837212740473128,False,Right Foot,Open Play,1,0,3,Volley
-31.287857069476647,0.0735556977750912,False,Right Foot,Free Kick,0,0,0,Normal
-28.713933899763717,0.07167082579256087,False,Right Foot,Open Play,0,0,2,Normal
-28.29081122908992,0.07131172631350809,False,Right Foot,Open Play,0,1,1,Normal
-28.64000698323937,0.07119070195819896,False,Right Foot,Open Play,0,0,1,Normal
-14.204224723651764,0.05674694939558011,False,Right Foot,Open Play,1,0,2,Normal
-17.33666634621547,0.06308748233477865,False,Left Foot,Open Play,1,0,1,Normal
-20.667123650861527,0.06347862254329782,False,Left Foot,Open Play,1,0,1,Half Volley
-27.09778588741154,0.0693461691106783,False,Left Foot,Open Play,0,0,0,Normal
-23.491700662148755,0.059956819863947616,False,Right Foot,Open Play,0,0,2,Normal
-15.028306624500317,0.06219519614556392,True,Left Foot,Open Play,0,0,1,Normal
-23.50531854708632,0.05306619599678802,False,Right Foot,Open Play,0,0,2,Normal
-10.163660757817528,0.05271101980230663,False,Head,Open Play,0,1,2,Normal
-24.33043361717995,0.06844862145841225,False,Right Foot,Open Play,0,1,2,Normal
-21.567568244936663,0.0601030088942748,False,Right Foot,Open Play,1,0,0,Normal
-26.943273743181244,0.055859286987802986,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753979,Steven Fletcher,Sunderland,12.394353553130559,0.06110970947662813,False,Left Foot,Open Play,1,0,1,Half Volley
+3753979,Damien Delaney,Crystal Palace,11.40175425099138,0.060576983983408474,False,Left Foot,Open Play,1,1,2,Volley
+3753979,Patrick van Aanholt,Sunderland,19.804039991880448,0.0645752268277447,False,Right Foot,Open Play,1,0,1,Normal
+3753979,Jermain Defoe,Sunderland,16.710774967068406,0.061850984717771174,False,Left Foot,Open Play,0,1,3,Normal
+3753979,Yannick Bolasie Yala,Crystal Palace,26.96701689100966,0.06733362283794943,False,Right Foot,Open Play,0,0,3,Normal
+3753979,Billy Jones,Sunderland,18.017769007288333,0.06251796098803931,False,Left Foot,Open Play,1,0,1,Normal
+3753979,Jason Puncheon,Crystal Palace,22.343231637343784,0.05987072869465217,False,Left Foot,Open Play,0,0,4,Normal
+3753979,James McArthur,Crystal Palace,31.360006377550377,0.0596997665231322,False,Right Foot,Open Play,0,0,2,Normal
+3753979,Jason Puncheon,Crystal Palace,21.98931558734833,0.05593863906768036,False,Right Foot,Open Play,0,0,2,Normal
+3753979,Yohan Cabaye,Crystal Palace,22.953213282675698,0.06273906212696796,False,Right Foot,Open Play,0,0,1,Normal
+3753979,Joel Ward,Crystal Palace,23.213789005675057,0.06420207526979194,False,Left Foot,Open Play,0,0,2,Normal
+3753979,Sebastián Coates Nión,Sunderland,8.163332652783422,0.05885803422386011,False,Head,Open Play,0,0,3,Normal
+3753979,Yohan Cabaye,Crystal Palace,31.538706378036498,0.07388269224458294,False,Right Foot,Open Play,0,1,1,Normal
+3753979,Bakary Sako,Crystal Palace,33.98352542041511,0.0536690880498452,False,Left Foot,Open Play,0,0,1,Normal
+3753979,Sebastián Coates Nión,Sunderland,15.8549676757791,0.05543501617923629,False,Head,Open Play,0,1,2,Normal
+3753979,Connor Wickham,Crystal Palace,10.331021246711282,0.05860904242739205,False,Right Foot,Open Play,1,0,2,Normal
+3753979,Connor Wickham,Crystal Palace,11.835962149314266,0.05837212740473128,False,Right Foot,Open Play,1,0,3,Volley
+3753979,Yann Gérard M''Vila,Sunderland,31.287857069476647,0.0735556977750912,False,Right Foot,Free Kick,0,0,0,Normal
+3753979,Patrick van Aanholt,Sunderland,28.713933899763717,0.07167082579256087,False,Right Foot,Open Play,0,0,2,Normal
+3753979,Yannick Bolasie Yala,Crystal Palace,28.29081122908992,0.07131172631350809,False,Right Foot,Open Play,0,1,1,Normal
+3753979,Yohan Cabaye,Crystal Palace,28.64000698323937,0.07119070195819896,False,Right Foot,Open Play,0,0,1,Normal
+3753979,Billy Jones,Sunderland,14.204224723651764,0.05674694939558011,False,Right Foot,Open Play,1,0,2,Normal
+3753979,Jeremain Lens,Sunderland,17.33666634621547,0.06308748233477865,False,Left Foot,Open Play,1,0,1,Normal
+3753979,Connor Wickham,Crystal Palace,20.667123650861527,0.06347862254329782,False,Left Foot,Open Play,1,0,1,Half Volley
+3753979,Patrick van Aanholt,Sunderland,27.09778588741154,0.0693461691106783,False,Left Foot,Open Play,0,0,0,Normal
+3753979,Wilfried Zaha,Crystal Palace,23.491700662148755,0.059956819863947616,False,Right Foot,Open Play,0,0,2,Normal
+3753979,Jermain Defoe,Sunderland,15.028306624500317,0.06219519614556392,True,Left Foot,Open Play,0,0,1,Normal
+3753979,Yohan Cabaye,Crystal Palace,23.50531854708632,0.05306619599678802,False,Right Foot,Open Play,0,0,2,Normal
+3753979,Scott Dann,Crystal Palace,10.163660757817528,0.05271101980230663,False,Head,Open Play,0,1,2,Normal
+3753979,Wilfried Zaha,Crystal Palace,24.33043361717995,0.06844862145841225,False,Right Foot,Open Play,0,1,2,Normal
+3753979,James McArthur,Crystal Palace,21.567568244936663,0.0601030088942748,False,Right Foot,Open Play,1,0,0,Normal
+3753979,Yohan Cabaye,Crystal Palace,26.943273743181244,0.055859286987802986,False,Right Foot,Free Kick,0,0,0,Normal

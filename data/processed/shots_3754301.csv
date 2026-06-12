@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.452943608702416,0.07106666349358856,False,Right Foot,Free Kick,0,0,0,Normal
-30.643759560471686,0.0560780812153911,False,Right Foot,Open Play,0,0,2,Normal
-9.302150289046073,0.0585453965690193,True,Head,Open Play,0,0,5,Normal
-20.969024774652734,0.06425349262155323,False,Left Foot,Open Play,0,0,1,Normal
-26.690822392725188,0.06950399808982045,False,Right Foot,Free Kick,0,0,0,Normal
-12.39879026357007,0.0610697220785009,True,Right Foot,Open Play,1,0,3,Volley
-18.160396471443022,0.06441619141976045,False,Left Foot,Open Play,1,0,2,Normal
-13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,1,Normal
-17.358859409534947,0.06399345562720751,False,Right Foot,Open Play,1,0,4,Half Volley
-19.9804904844701,0.06558615704984509,False,Right Foot,Open Play,1,0,3,Half Volley
-15.784169284444463,0.062073356819113856,False,Left Foot,Open Play,1,1,1,Normal
-27.611591768675698,0.06628489888991992,False,Left Foot,Open Play,0,0,3,Normal
-9.350935782048769,0.05494355981646015,False,Left Foot,Open Play,1,0,1,Half Volley
-4.808326112068526,0.05513140289126267,False,Head,Open Play,0,1,5,Normal
-12.100413216084807,0.05959743192834747,False,Right Foot,Penalty,0,0,0,Normal
-7.963039620647378,0.054564123077316,False,Right Foot,Open Play,1,0,2,Volley
-19.751708786836648,0.05667269621607418,False,Left Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754301,Alexis Alejandro Sánchez Sánchez,Arsenal,28.452943608702416,0.07106666349358856,False,Right Foot,Free Kick,0,0,0,Normal
+3754301,Alexis Alejandro Sánchez Sánchez,Arsenal,30.643759560471686,0.0560780812153911,False,Right Foot,Open Play,0,0,2,Normal
+3754301,Olivier Giroud,Arsenal,9.302150289046073,0.0585453965690193,True,Head,Open Play,0,0,5,Normal
+3754301,Kieran Gibbs,Arsenal,20.969024774652734,0.06425349262155323,False,Left Foot,Open Play,0,0,1,Normal
+3754301,Stéphane Sessègnon,West Bromwich Albion,26.690822392725188,0.06950399808982045,False,Right Foot,Free Kick,0,0,0,Normal
+3754301,James Morrison,West Bromwich Albion,12.39879026357007,0.0610697220785009,True,Right Foot,Open Play,1,0,3,Volley
+3754301,Mesut Özil,Arsenal,18.160396471443022,0.06441619141976045,False,Left Foot,Open Play,1,0,2,Normal
+3754301,Kieran Gibbs,Arsenal,13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,1,Normal
+3754301,Kieran Gibbs,Arsenal,17.358859409534947,0.06399345562720751,False,Right Foot,Open Play,1,0,4,Half Volley
+3754301,José Salomón Rondón Giménez,West Bromwich Albion,19.9804904844701,0.06558615704984509,False,Right Foot,Open Play,1,0,3,Half Volley
+3754301,Mesut Özil,Arsenal,15.784169284444463,0.062073356819113856,False,Left Foot,Open Play,1,1,1,Normal
+3754301,Santiago Cazorla González,Arsenal,27.611591768675698,0.06628489888991992,False,Left Foot,Open Play,0,0,3,Normal
+3754301,Joel Nathaniel Campbell Samuels,Arsenal,9.350935782048769,0.05494355981646015,False,Left Foot,Open Play,1,0,1,Half Volley
+3754301,Jonas Olsson,West Bromwich Albion,4.808326112068526,0.05513140289126267,False,Head,Open Play,0,1,5,Normal
+3754301,Santiago Cazorla González,Arsenal,12.100413216084807,0.05959743192834747,False,Right Foot,Penalty,0,0,0,Normal
+3754301,Joel Nathaniel Campbell Samuels,Arsenal,7.963039620647378,0.054564123077316,False,Right Foot,Open Play,1,0,2,Volley
+3754301,Laurent Koscielny,Arsenal,19.751708786836648,0.05667269621607418,False,Left Foot,Open Play,1,0,1,Half Volley

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.92838827718412,0.058122043033188894,True,Left Foot,Open Play,0,0,1,Normal
-26.419689627245813,0.07001551335143366,False,Left Foot,Open Play,0,0,2,Normal
-6.324555320336759,0.05777875134233442,True,Right Foot,Open Play,0,0,3,Normal
-9.433981132056603,0.056265246776306774,False,Head,Open Play,0,1,3,Normal
-18.973665961010276,0.06457326578343017,False,Right Foot,Open Play,0,0,2,Normal
-8.48528137423857,0.05895299279142968,False,Left Foot,Open Play,0,0,3,Normal
-16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,1,0,0,Normal
-8.246211251235321,0.058599252830825864,False,Head,Open Play,0,0,4,Normal
-27.85677655436824,0.07065336086307102,False,Left Foot,Open Play,0,0,2,Normal
-5.0,0.057265343813584856,False,Right Foot,Open Play,0,0,2,Normal
-10.44030650891055,0.052897006511723375,False,Head,Open Play,0,1,1,Normal
-21.213203435596427,0.06219557784633253,False,Right Foot,Open Play,0,0,1,Normal
-30.479501308256342,0.054582665420967104,False,Right Foot,Open Play,0,0,2,Normal
-35.4682957019364,0.061366585581355916,False,Right Foot,Open Play,0,1,1,Normal
-15.620499351813308,0.05438627996731815,False,Right Foot,Open Play,1,0,5,Volley
-17.804493814764857,0.05607124213128397,False,Left Foot,Open Play,1,0,1,Volley
-5.830951894845301,0.05767021280254906,False,Head,Open Play,0,1,3,Normal
-9.0,0.05835638047140873,False,Head,Open Play,0,1,4,Normal
-15.620499351813308,0.05438627996731815,False,Left Foot,Open Play,0,0,3,Normal
-21.02379604162864,0.06621807171982491,False,Right Foot,Open Play,1,0,2,Normal
-34.539832078341085,0.07599874768991234,False,Right Foot,Open Play,0,0,1,Normal
-12.806248474865697,0.05449071668172145,False,Left Foot,Open Play,1,0,2,Normal
-10.0,0.05876351339338444,True,Head,Open Play,0,1,3,Normal
-7.0710678118654755,0.05723344719965163,False,Head,Open Play,0,0,3,Normal
-8.48528137423857,0.05895299279142968,False,Head,Open Play,0,0,2,Normal
-5.656854249492381,0.055158366096853914,True,Right Foot,Open Play,1,0,3,Backheel
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7560,Khalid Boutaïb,Morocco,13.92838827718412,0.058122043033188894,True,Left Foot,Open Play,0,0,1,Normal
+7560,Andrés Iniesta Luján,Spain,26.419689627245813,0.07001551335143366,False,Left Foot,Open Play,0,0,2,Normal
+7560,Francisco Román Alarcón Suárez,Spain,6.324555320336759,0.05777875134233442,True,Right Foot,Open Play,0,0,3,Normal
+7560,Gerard Piqué Bernabéu,Spain,9.433981132056603,0.056265246776306774,False,Head,Open Play,0,1,3,Normal
+7560,Andrés Iniesta Luján,Spain,18.973665961010276,0.06457326578343017,False,Right Foot,Open Play,0,0,2,Normal
+7560,Khalid Boutaïb,Morocco,8.48528137423857,0.05895299279142968,False,Left Foot,Open Play,0,0,3,Normal
+7560,Diego da Silva Costa,Spain,16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,1,0,0,Normal
+7560,Sergio Busquets i Burgos,Spain,8.246211251235321,0.058599252830825864,False,Head,Open Play,0,0,4,Normal
+7560,Hakim Ziyech,Morocco,27.85677655436824,0.07065336086307102,False,Left Foot,Open Play,0,0,2,Normal
+7560,Diego da Silva Costa,Spain,5.0,0.057265343813584856,False,Right Foot,Open Play,0,0,2,Normal
+7560,Mbark Boussoufa,Morocco,10.44030650891055,0.052897006511723375,False,Head,Open Play,0,1,1,Normal
+7560,Francisco Román Alarcón Suárez,Spain,21.213203435596427,0.06219557784633253,False,Right Foot,Open Play,0,0,1,Normal
+7560,Nordin Amrabat,Morocco,30.479501308256342,0.054582665420967104,False,Right Foot,Open Play,0,0,2,Normal
+7560,Gerard Piqué Bernabéu,Spain,35.4682957019364,0.061366585581355916,False,Right Foot,Open Play,0,1,1,Normal
+7560,Nabil Dirar,Morocco,15.620499351813308,0.05438627996731815,False,Right Foot,Open Play,1,0,5,Volley
+7560,Thiago Alcântara do Nascimento,Spain,17.804493814764857,0.05607124213128397,False,Left Foot,Open Play,1,0,1,Volley
+7560,Francisco Román Alarcón Suárez,Spain,5.830951894845301,0.05767021280254906,False,Head,Open Play,0,1,3,Normal
+7560,Gerard Piqué Bernabéu,Spain,9.0,0.05835638047140873,False,Head,Open Play,0,1,4,Normal
+7560,David Josué Jiménez Silva,Spain,15.620499351813308,0.05438627996731815,False,Left Foot,Open Play,0,0,3,Normal
+7560,Thiago Alcântara do Nascimento,Spain,21.02379604162864,0.06621807171982491,False,Right Foot,Open Play,1,0,2,Normal
+7560,Sergio Ramos García,Spain,34.539832078341085,0.07599874768991234,False,Right Foot,Open Play,0,0,1,Normal
+7560,Hakim Ziyech,Morocco,12.806248474865697,0.05449071668172145,False,Left Foot,Open Play,1,0,2,Normal
+7560,Youssef En-Nesyri,Morocco,10.0,0.05876351339338444,True,Head,Open Play,0,1,3,Normal
+7560,Rodrigo Moreno Machado,Spain,7.0710678118654755,0.05723344719965163,False,Head,Open Play,0,0,3,Normal
+7560,Marco Asensio Willemsen,Spain,8.48528137423857,0.05895299279142968,False,Head,Open Play,0,0,2,Normal
+7560,Iago Aspas Juncal,Spain,5.656854249492381,0.055158366096853914,True,Right Foot,Open Play,1,0,3,Backheel

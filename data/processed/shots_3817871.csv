@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.200446419674527,0.05448925684630543,False,Head,Open Play,0,1,3,Normal
-3.580502757993637,0.05534697673673464,True,Right Foot,Open Play,1,0,3,Volley
-18.50108104949546,0.06232878654764002,False,Left Foot,Open Play,0,0,0,Normal
-6.963476143421471,0.05343050475980827,False,Head,Open Play,0,1,5,Normal
-30.5196657910928,0.06656833648426347,False,Left Foot,Open Play,0,0,1,Normal
-21.59282288168919,0.06670424385409457,False,Right Foot,Open Play,0,1,1,Normal
-11.132834320154057,0.05912193611517412,False,Right Foot,Open Play,0,0,2,Volley
-26.024795868555824,0.06862653698591074,False,Right Foot,Open Play,0,0,1,Normal
-7.810249675906654,0.0586673424891239,False,Head,Open Play,0,1,2,Normal
-36.60054644400819,0.06752696185073581,False,Right Foot,Open Play,0,0,0,Normal
-15.789236840328924,0.06030316573441405,False,Right Foot,Open Play,0,0,1,Normal
-3.8600518131237593,0.05594365354906676,True,Head,Open Play,0,1,6,Normal
-24.7002024283203,0.05615501895996241,False,Right Foot,Open Play,1,0,1,Half Volley
-16.964079697997175,0.05951990320347461,False,Right Foot,Open Play,1,0,4,Normal
-7.424284477308229,0.056295074169697694,False,Head,Open Play,0,0,2,Normal
-3.769615364994152,0.055778548162955084,True,Right Foot,Open Play,1,0,4,Half Volley
-32.3112983335551,0.07440248961721178,False,Right Foot,Open Play,0,0,1,Normal
-8.796590248499703,0.05487374657794699,False,Right Foot,Open Play,0,0,3,Half Volley
-16.288953311984166,0.06335623426656481,False,Left Foot,Open Play,0,0,4,Normal
-9.929753269845126,0.05669758097686247,False,Left Foot,Open Play,1,0,1,Volley
-32.60076686214605,0.07333874820367259,False,Left Foot,Open Play,0,0,0,Normal
-22.532199182503252,0.06149612689184788,False,Right Foot,Open Play,1,0,0,Volley
-10.434557968596469,0.05258350883397876,False,Right Foot,Open Play,0,0,3,Normal
-38.229438918194965,0.079595070691352,False,Right Foot,Open Play,0,1,1,Normal
-19.38762491900439,0.06499694222721689,False,Left Foot,Open Play,0,0,3,Normal
-23.702320561497775,0.05869041977409485,True,Right Foot,Open Play,0,1,2,Normal
-27.87561658510893,0.05279350593288618,False,Left Foot,Open Play,0,0,3,Normal
-12.660568707605519,0.061282240812173094,True,Left Foot,Open Play,1,0,2,Normal
-32.34470590374876,0.07442042673088982,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817871,João Victor de Albuquerque Bruno,Hyderabad,11.200446419674527,0.05448925684630543,False,Head,Open Play,0,1,3,Normal
+3817871,Bartholomew Owogbalor Ogbeche,Hyderabad,3.580502757993637,0.05534697673673464,True,Right Foot,Open Play,1,0,3,Volley
+3817871,Marco Sahanek,NorthEast United,18.50108104949546,0.06232878654764002,False,Left Foot,Open Play,0,0,0,Normal
+3817871,Juan Antonio González Fernández,Hyderabad,6.963476143421471,0.05343050475980827,False,Head,Open Play,0,1,5,Normal
+3817871,Marco Sahanek,NorthEast United,30.5196657910928,0.06656833648426347,False,Left Foot,Open Play,0,0,1,Normal
+3817871,Aniket Anil Jadhav,Hyderabad,21.59282288168919,0.06670424385409457,False,Right Foot,Open Play,0,1,1,Normal
+3817871,Zakaria Diallo,NorthEast United,11.132834320154057,0.05912193611517412,False,Right Foot,Open Play,0,0,2,Volley
+3817871,Souvik Chakrabarti,Hyderabad,26.024795868555824,0.06862653698591074,False,Right Foot,Open Play,0,0,1,Normal
+3817871,Akash Mishra,Hyderabad,7.810249675906654,0.0586673424891239,False,Head,Open Play,0,1,2,Normal
+3817871,Souvik Chakrabarti,Hyderabad,36.60054644400819,0.06752696185073581,False,Right Foot,Open Play,0,0,0,Normal
+3817871,Aniket Anil Jadhav,Hyderabad,15.789236840328924,0.06030316573441405,False,Right Foot,Open Play,0,0,1,Normal
+3817871,Akash Mishra,Hyderabad,3.8600518131237593,0.05594365354906676,True,Head,Open Play,0,1,6,Normal
+3817871,Nikhil Poojary,Hyderabad,24.7002024283203,0.05615501895996241,False,Right Foot,Open Play,1,0,1,Half Volley
+3817871,Aniket Anil Jadhav,Hyderabad,16.964079697997175,0.05951990320347461,False,Right Foot,Open Play,1,0,4,Normal
+3817871,Bartholomew Owogbalor Ogbeche,Hyderabad,7.424284477308229,0.056295074169697694,False,Head,Open Play,0,0,2,Normal
+3817871,Bartholomew Owogbalor Ogbeche,Hyderabad,3.769615364994152,0.055778548162955084,True,Right Foot,Open Play,1,0,4,Half Volley
+3817871,Mohammed Irshad,NorthEast United,32.3112983335551,0.07440248961721178,False,Right Foot,Open Play,0,0,1,Normal
+3817871,Joel Joseph Chianese,Hyderabad,8.796590248499703,0.05487374657794699,False,Right Foot,Open Play,0,0,3,Half Volley
+3817871,Marcelo Leite Pereira,NorthEast United,16.288953311984166,0.06335623426656481,False,Left Foot,Open Play,0,0,4,Normal
+3817871,Joel Joseph Chianese,Hyderabad,9.929753269845126,0.05669758097686247,False,Left Foot,Open Play,1,0,1,Volley
+3817871,Pragyan Sundar Gogoi,NorthEast United,32.60076686214605,0.07333874820367259,False,Left Foot,Open Play,0,0,0,Normal
+3817871,Sahil Tavora,Hyderabad,22.532199182503252,0.06149612689184788,False,Right Foot,Open Play,1,0,0,Volley
+3817871,Suhair Vadakkepeedika,NorthEast United,10.434557968596469,0.05258350883397876,False,Right Foot,Open Play,0,0,3,Normal
+3817871,Seityasen Singh,Hyderabad,38.229438918194965,0.079595070691352,False,Right Foot,Open Play,0,1,1,Normal
+3817871,Marco Sahanek,NorthEast United,19.38762491900439,0.06499694222721689,False,Left Foot,Open Play,0,0,3,Normal
+3817871,Nikhil Poojary,Hyderabad,23.702320561497775,0.05869041977409485,True,Right Foot,Open Play,0,1,2,Normal
+3817871,Mohammad Yasir,Hyderabad,27.87561658510893,0.05279350593288618,False,Left Foot,Open Play,0,0,3,Normal
+3817871,Eduardo García Martín,Hyderabad,12.660568707605519,0.061282240812173094,True,Left Foot,Open Play,1,0,2,Normal
+3817871,Gani Ahmed Nigam,NorthEast United,32.34470590374876,0.07442042673088982,False,Right Foot,Open Play,0,0,1,Normal

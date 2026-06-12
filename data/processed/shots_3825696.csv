@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.008569680013917,0.06328389145949934,False,Right Foot,Open Play,0,0,3,Half Volley
-16.12079402510931,0.0632467129771511,True,Left Foot,Open Play,0,1,1,Normal
-17.11198410471445,0.06357191365993062,False,Right Foot,Open Play,0,0,1,Normal
-14.511374848717814,0.06234308903189942,False,Left Foot,Open Play,0,0,4,Normal
-31.94761336938958,0.0647905205333637,False,Right Foot,Open Play,1,0,1,Normal
-5.189412298131653,0.057314637438363875,False,Head,Open Play,0,1,5,Normal
-28.511050489240134,0.06472518608217347,False,Left Foot,Free Kick,0,0,0,Normal
-24.80987706539474,0.0656836618409417,False,Left Foot,Open Play,0,0,2,Normal
-11.943617542436627,0.057257491157020696,False,Head,Open Play,0,0,4,Normal
-19.744872752185564,0.06151233624123268,False,Left Foot,Open Play,0,0,2,Normal
-25.776927667974704,0.06882059194568589,False,Right Foot,Open Play,0,1,1,Normal
-33.86399267658792,0.07546197635019157,False,Right Foot,Open Play,0,0,1,Normal
-20.450183373260987,0.05437637365610136,False,Left Foot,Open Play,0,0,4,Overhead Kick
-23.935329536064458,0.0583190302150993,False,Right Foot,Open Play,1,0,2,Volley
-27.860545579726182,0.07033495336116015,False,Right Foot,Open Play,0,0,1,Normal
-13.58234147707972,0.05889335364518936,False,Right Foot,Open Play,1,0,2,Half Volley
-16.513025161974415,0.06263345882491843,True,Right Foot,Open Play,0,1,4,Normal
-63.491101738747616,0.10100482786655564,False,Left Foot,Open Play,0,0,0,Lob
-31.092442811718737,0.056587571936648866,False,Right Foot,Open Play,0,1,1,Normal
-23.385465571589545,0.06191205785962209,False,Right Foot,Open Play,0,0,1,Half Volley
-21.423818520515894,0.06649186966337896,False,Right Foot,Open Play,0,1,2,Half Volley
-12.839003076563223,0.06029126600294023,False,Head,Open Play,0,0,2,Normal
-15.923881436383525,0.0631235418882145,False,Right Foot,Open Play,1,1,2,Normal
-26.610148440021902,0.07010474482966476,False,Right Foot,Open Play,1,0,3,Volley
-12.6241831418908,0.06089647905919386,False,Head,Open Play,0,1,2,Normal
-9.042676594902646,0.05884461549484707,True,Right Foot,Open Play,0,1,2,Normal
-10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,1,0,2,Half Volley
-14.440221604947759,0.053432017064051165,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825696,Pablo Hernández Domínguez,Rayo Vallecano,21.008569680013917,0.06328389145949934,False,Right Foot,Open Play,0,0,3,Half Volley
+3825696,Javier Guerra Rodríguez,Rayo Vallecano,16.12079402510931,0.0632467129771511,True,Left Foot,Open Play,0,1,1,Normal
+3825696,Tiago Manuel Dias Correia,Rayo Vallecano,17.11198410471445,0.06357191365993062,False,Right Foot,Open Play,0,0,1,Normal
+3825696,Jozabed Sánchez Ruiz,Rayo Vallecano,14.511374848717814,0.06234308903189942,False,Left Foot,Open Play,0,0,4,Normal
+3825696,Egor Filipenko,Málaga,31.94761336938958,0.0647905205333637,False,Right Foot,Open Play,1,0,1,Normal
+3825696,Raúl Albentosa Redal,Málaga,5.189412298131653,0.057314637438363875,False,Head,Open Play,0,1,5,Normal
+3825696,Sérgio Paulo Barbosa Valente,Málaga,28.511050489240134,0.06472518608217347,False,Left Foot,Free Kick,0,0,0,Normal
+3825696,Jozabed Sánchez Ruiz,Rayo Vallecano,24.80987706539474,0.0656836618409417,False,Left Foot,Open Play,0,0,2,Normal
+3825696,Raúl Albentosa Redal,Málaga,11.943617542436627,0.057257491157020696,False,Head,Open Play,0,0,4,Normal
+3825696,Pablo Hernández Domínguez,Rayo Vallecano,19.744872752185564,0.06151233624123268,False,Left Foot,Open Play,0,0,2,Normal
+3825696,Pablo Fornals Malla,Málaga,25.776927667974704,0.06882059194568589,False,Right Foot,Open Play,0,1,1,Normal
+3825696,Tiago Manuel Dias Correia,Rayo Vallecano,33.86399267658792,0.07546197635019157,False,Right Foot,Open Play,0,0,1,Normal
+3825696,Duje Čop,Málaga,20.450183373260987,0.05437637365610136,False,Left Foot,Open Play,0,0,4,Overhead Kick
+3825696,Jozabed Sánchez Ruiz,Rayo Vallecano,23.935329536064458,0.0583190302150993,False,Right Foot,Open Play,1,0,2,Volley
+3825696,Egor Filipenko,Málaga,27.860545579726182,0.07033495336116015,False,Right Foot,Open Play,0,0,1,Normal
+3825696,Pablo Hernández Domínguez,Rayo Vallecano,13.58234147707972,0.05889335364518936,False,Right Foot,Open Play,1,0,2,Half Volley
+3825696,Charles Días Barbosa de Oliveira,Málaga,16.513025161974415,0.06263345882491843,True,Right Foot,Open Play,0,1,4,Normal
+3825696,Juan Carlos Pérez López,Málaga,63.491101738747616,0.10100482786655564,False,Left Foot,Open Play,0,0,0,Lob
+3825696,Charles Días Barbosa de Oliveira,Málaga,31.092442811718737,0.056587571936648866,False,Right Foot,Open Play,0,1,1,Normal
+3825696,Alhassane Bangoura,Rayo Vallecano,23.385465571589545,0.06191205785962209,False,Right Foot,Open Play,0,0,1,Half Volley
+3825696,Charles Días Barbosa de Oliveira,Málaga,21.423818520515894,0.06649186966337896,False,Right Foot,Open Play,0,1,2,Half Volley
+3825696,Javier Guerra Rodríguez,Rayo Vallecano,12.839003076563223,0.06029126600294023,False,Head,Open Play,0,0,2,Normal
+3825696,José Luis García del Pozo,Málaga,15.923881436383525,0.0631235418882145,False,Right Foot,Open Play,1,1,2,Normal
+3825696,Charles Días Barbosa de Oliveira,Málaga,26.610148440021902,0.07010474482966476,False,Right Foot,Open Play,1,0,3,Volley
+3825696,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,12.6241831418908,0.06089647905919386,False,Head,Open Play,0,1,2,Normal
+3825696,Duje Čop,Málaga,9.042676594902646,0.05884461549484707,True,Right Foot,Open Play,0,1,2,Normal
+3825696,Juan Pablo Añor Acosta,Málaga,10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,1,0,2,Half Volley
+3825696,Javier Guerra Rodríguez,Rayo Vallecano,14.440221604947759,0.053432017064051165,False,Right Foot,Open Play,0,1,1,Normal

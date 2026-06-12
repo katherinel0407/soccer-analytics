@@ -1,41 +1,41 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.5,0.058154516518124456,False,Left Foot,Open Play,1,0,2,Volley
-29.13846255381365,0.07173633296398234,False,Right Foot,Open Play,1,0,1,Half Volley
-8.302409288875126,0.05813991898085497,False,Head,Open Play,0,0,6,Normal
-5.894064811316553,0.05657372960217244,False,Head,Open Play,0,1,2,Normal
-15.02331521336087,0.05818763576918055,False,Head,Open Play,0,1,2,Normal
-16.42010962204577,0.06272293931412527,False,Left Foot,Open Play,1,0,1,Volley
-32.689141928169356,0.05479073391238051,False,Right Foot,Open Play,0,0,0,Normal
-10.427847332982967,0.05347268021606367,True,Head,Open Play,0,0,3,Normal
-12.242957159118053,0.06083172767186607,False,Head,Open Play,0,1,2,Normal
-7.9120161779409885,0.058496502866920645,False,Head,Open Play,0,1,5,Normal
-21.718655575334314,0.05785010525514137,False,Left Foot,Open Play,0,0,1,Normal
-7.300684899377589,0.057706833455877585,False,Head,Open Play,0,1,3,Normal
-3.7947331922020573,0.05429417485167988,True,Left Foot,Open Play,1,0,4,Volley
-29.924237667817035,0.0587612423516748,False,Right Foot,Open Play,0,0,1,Volley
-29.920227271864103,0.07254306560289592,False,Right Foot,Open Play,0,0,2,Normal
-12.525573839150047,0.05543603071929519,False,Right Foot,Open Play,0,0,2,Normal
-20.396078054371134,0.06523263853763125,False,Right Foot,Open Play,0,0,3,Normal
-11.094142598686929,0.06038841627075342,False,Right Foot,Open Play,1,0,2,Half Volley
-27.886197302608327,0.07109023301783365,False,Right Foot,Open Play,0,0,4,Normal
-19.823723161908816,0.06529753373893107,False,Right Foot,Open Play,0,0,2,Normal
-17.240939649566666,0.0537175937279785,False,Right Foot,Open Play,1,0,1,Half Volley
-18.655026132385878,0.061394055710619656,False,Right Foot,Open Play,1,0,1,Volley
-26.172504656604797,0.05788316511341059,False,Right Foot,Open Play,0,0,1,Normal
-29.528630174798153,0.06693320990790352,False,Right Foot,Open Play,1,0,0,Half Volley
-18.978145325610715,0.06478007880317965,False,Right Foot,Open Play,0,0,3,Normal
-22.947766775876033,0.057737959993582125,False,Left Foot,Open Play,0,0,2,Normal
-20.077101384413037,0.05564978084144491,False,Right Foot,Open Play,1,0,0,Normal
-29.11563154046294,0.07153357905145594,False,Right Foot,Free Kick,0,0,0,Normal
-9.183681179135084,0.05598112833351666,True,Head,Open Play,0,0,2,Normal
-20.36565736724449,0.0535850360540538,False,Right Foot,Open Play,1,0,1,Half Volley
-22.989780338228545,0.060498749975676135,False,Right Foot,Open Play,1,0,0,Half Volley
-32.2851358987383,0.07309482210417884,False,Right Foot,Open Play,0,0,2,Normal
-18.189282558693733,0.055341857573397914,False,Right Foot,Open Play,0,1,1,Normal
-12.237646832622683,0.06043900309318998,False,Left Foot,Open Play,1,0,2,Normal
-23.846593048064538,0.060474570011015395,False,Right Foot,Open Play,0,0,3,Normal
-51.75760813638899,0.06543815510122646,False,Right Foot,Open Play,0,0,2,Lob
-7.810249675906651,0.058003794089075224,False,Head,Open Play,0,1,2,Normal
-14.736349615830918,0.06211417921819009,False,Head,Open Play,0,0,4,Normal
-13.961733416735905,0.057699003762995665,True,Right Foot,Open Play,0,0,1,Normal
-17.92344832893492,0.06418296002066275,False,Right Foot,Open Play,1,1,4,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754302,Jamie Vardy,Leicester City,8.5,0.058154516518124456,False,Left Foot,Open Play,1,0,2,Volley
+3754302,N''Golo Kanté,Leicester City,29.13846255381365,0.07173633296398234,False,Right Foot,Open Play,1,0,1,Half Volley
+3754302,Jamie Vardy,Leicester City,8.302409288875126,0.05813991898085497,False,Head,Open Play,0,0,6,Normal
+3754302,Virgil van Dijk,Southampton,5.894064811316553,0.05657372960217244,False,Head,Open Play,0,1,2,Normal
+3754302,Virgil van Dijk,Southampton,15.02331521336087,0.05818763576918055,False,Head,Open Play,0,1,2,Normal
+3754302,Graziano Pellè,Southampton,16.42010962204577,0.06272293931412527,False,Left Foot,Open Play,1,0,1,Volley
+3754302,Cédric Ricardo Alves Soares,Southampton,32.689141928169356,0.05479073391238051,False,Right Foot,Open Play,0,0,0,Normal
+3754302,José Miguel da Rocha Fonte,Southampton,10.427847332982967,0.05347268021606367,True,Head,Open Play,0,0,3,Normal
+3754302,Shinji Okazaki,Leicester City,12.242957159118053,0.06083172767186607,False,Head,Open Play,0,1,2,Normal
+3754302,Wes Morgan,Leicester City,7.9120161779409885,0.058496502866920645,False,Head,Open Play,0,1,5,Normal
+3754302,Sadio Mané,Southampton,21.718655575334314,0.05785010525514137,False,Left Foot,Open Play,0,0,1,Normal
+3754302,Graziano Pellè,Southampton,7.300684899377589,0.057706833455877585,False,Head,Open Play,0,1,3,Normal
+3754302,Virgil van Dijk,Southampton,3.7947331922020573,0.05429417485167988,True,Left Foot,Open Play,1,0,4,Volley
+3754302,Danny Drinkwater,Leicester City,29.924237667817035,0.0587612423516748,False,Right Foot,Open Play,0,0,1,Volley
+3754302,Danny Drinkwater,Leicester City,29.920227271864103,0.07254306560289592,False,Right Foot,Open Play,0,0,2,Normal
+3754302,Robert Huth,Leicester City,12.525573839150047,0.05543603071929519,False,Right Foot,Open Play,0,0,2,Normal
+3754302,Dušan Tadić,Southampton,20.396078054371134,0.06523263853763125,False,Right Foot,Open Play,0,0,3,Normal
+3754302,Jamie Vardy,Leicester City,11.094142598686929,0.06038841627075342,False,Right Foot,Open Play,1,0,2,Half Volley
+3754302,Jamie Vardy,Leicester City,27.886197302608327,0.07109023301783365,False,Right Foot,Open Play,0,0,4,Normal
+3754302,Jamie Vardy,Leicester City,19.823723161908816,0.06529753373893107,False,Right Foot,Open Play,0,0,2,Normal
+3754302,Graziano Pellè,Southampton,17.240939649566666,0.0537175937279785,False,Right Foot,Open Play,1,0,1,Half Volley
+3754302,Nathan Dyer,Leicester City,18.655026132385878,0.061394055710619656,False,Right Foot,Open Play,1,0,1,Volley
+3754302,Riyad Mahrez,Leicester City,26.172504656604797,0.05788316511341059,False,Right Foot,Open Play,0,0,1,Normal
+3754302,Danny Drinkwater,Leicester City,29.528630174798153,0.06693320990790352,False,Right Foot,Open Play,1,0,0,Half Volley
+3754302,Nathan Dyer,Leicester City,18.978145325610715,0.06478007880317965,False,Right Foot,Open Play,0,0,3,Normal
+3754302,Riyad Mahrez,Leicester City,22.947766775876033,0.057737959993582125,False,Left Foot,Open Play,0,0,2,Normal
+3754302,Graziano Pellè,Southampton,20.077101384413037,0.05564978084144491,False,Right Foot,Open Play,1,0,0,Normal
+3754302,Marc Albrighton,Leicester City,29.11563154046294,0.07153357905145594,False,Right Foot,Free Kick,0,0,0,Normal
+3754302,Jamie Vardy,Leicester City,9.183681179135084,0.05598112833351666,True,Head,Open Play,0,0,2,Normal
+3754302,Jamie Vardy,Leicester City,20.36565736724449,0.0535850360540538,False,Right Foot,Open Play,1,0,1,Half Volley
+3754302,Danny Drinkwater,Leicester City,22.989780338228545,0.060498749975676135,False,Right Foot,Open Play,1,0,0,Half Volley
+3754302,Jay Rodriguez,Southampton,32.2851358987383,0.07309482210417884,False,Right Foot,Open Play,0,0,2,Normal
+3754302,Marc Albrighton,Leicester City,18.189282558693733,0.055341857573397914,False,Right Foot,Open Play,0,1,1,Normal
+3754302,Jamie Vardy,Leicester City,12.237646832622683,0.06043900309318998,False,Left Foot,Open Play,1,0,2,Normal
+3754302,Marc Albrighton,Leicester City,23.846593048064538,0.060474570011015395,False,Right Foot,Open Play,0,0,3,Normal
+3754302,Sadio Mané,Southampton,51.75760813638899,0.06543815510122646,False,Right Foot,Open Play,0,0,2,Lob
+3754302,Jamie Vardy,Leicester City,7.810249675906651,0.058003794089075224,False,Head,Open Play,0,1,2,Normal
+3754302,Robert Huth,Leicester City,14.736349615830918,0.06211417921819009,False,Head,Open Play,0,0,4,Normal
+3754302,Jamie Vardy,Leicester City,13.961733416735905,0.057699003762995665,True,Right Foot,Open Play,0,0,1,Normal
+3754302,Robert Huth,Leicester City,17.92344832893492,0.06418296002066275,False,Right Foot,Open Play,1,1,4,Half Volley

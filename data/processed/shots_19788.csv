@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.805843601498726,0.06390135239909993,False,Right Foot,Open Play,0,1,1,Normal
-28.0178514522438,0.05659942750677214,False,Right Foot,Free Kick,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-14.0,0.060438191179105843,False,Left Foot,Open Play,1,0,2,Half Volley
-15.620499351813308,0.062479736340700476,False,Left Foot,Open Play,0,0,1,Half Volley
-16.15549442140351,0.06308391821282133,False,Right Foot,Open Play,1,0,2,Normal
-15.652475842498529,0.05770409668412271,True,Right Foot,Open Play,1,0,1,Normal
-12.041594578792296,0.05485128092507768,False,Head,Open Play,0,0,5,Normal
-24.73863375370596,0.06200580540578194,False,Right Foot,Open Play,0,1,1,Normal
-8.06225774829855,0.056242166694479165,False,Right Foot,Open Play,0,0,4,Backheel
-19.6468827043885,0.06469061447640707,False,Left Foot,Open Play,0,0,1,Half Volley
-35.90264614203248,0.06529438407762389,False,Right Foot,Open Play,0,0,0,Normal
-8.0,0.05795378045521751,False,Head,Open Play,0,1,3,Normal
-18.601075237738275,0.05352441346771902,False,Right Foot,Open Play,0,0,2,Normal
-16.64331697709324,0.06249896144502649,False,Right Foot,Open Play,0,0,1,Normal
-11.704699910719626,0.057738048242450914,False,Head,Open Play,0,1,3,Normal
-37.05401462729781,0.0702070853719627,False,Right Foot,Open Play,0,0,0,Normal
-32.64965543462902,0.07476755538241092,False,Right Foot,Open Play,0,1,1,Normal
-28.42534080710379,0.05531840966441837,False,Left Foot,Open Play,0,0,2,Normal
-14.142135623730951,0.059676776021163,False,Right Foot,Open Play,0,0,3,Normal
-29.068883707497267,0.06630480298387839,False,Left Foot,Open Play,0,0,1,Normal
-21.095023109728988,0.057407813050238135,False,Right Foot,Open Play,1,1,1,Normal
-18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,0,0,2,Half Volley
-37.8549864614954,0.06608946806661287,False,Right Foot,Open Play,0,1,2,Normal
-7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,1,0,4,Overhead Kick
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19788,Christie Murray,Liverpool WFC,30.805843601498726,0.06390135239909993,False,Right Foot,Open Play,0,1,1,Normal
+19788,Christie Murray,Liverpool WFC,28.0178514522438,0.05659942750677214,False,Right Foot,Free Kick,0,0,0,Normal
+19788,Courtney Sweetman-Kirk,Liverpool WFC,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+19788,Courtney Sweetman-Kirk,Liverpool WFC,14.0,0.060438191179105843,False,Left Foot,Open Play,1,0,2,Half Volley
+19788,Nicola Cousins,Yeovil Town LFC,15.620499351813308,0.062479736340700476,False,Left Foot,Open Play,0,0,1,Half Volley
+19788,Jessica Anne Clarke,Liverpool WFC,16.15549442140351,0.06308391821282133,False,Right Foot,Open Play,1,0,2,Normal
+19788,Emily Donovan,Yeovil Town LFC,15.652475842498529,0.05770409668412271,True,Right Foot,Open Play,1,0,1,Normal
+19788,Anne-Marie Heatherson,Yeovil Town LFC,12.041594578792296,0.05485128092507768,False,Head,Open Play,0,0,5,Normal
+19788,Amy Rodgers,Liverpool WFC,24.73863375370596,0.06200580540578194,False,Right Foot,Open Play,0,1,1,Normal
+19788,Jessica Anne Clarke,Liverpool WFC,8.06225774829855,0.056242166694479165,False,Right Foot,Open Play,0,0,4,Backheel
+19788,Anne-Marie Heatherson,Yeovil Town LFC,19.6468827043885,0.06469061447640707,False,Left Foot,Open Play,0,0,1,Half Volley
+19788,Amy Rodgers,Liverpool WFC,35.90264614203248,0.06529438407762389,False,Right Foot,Open Play,0,0,0,Normal
+19788,Courtney Sweetman-Kirk,Liverpool WFC,8.0,0.05795378045521751,False,Head,Open Play,0,1,3,Normal
+19788,Jessica Anne Clarke,Liverpool WFC,18.601075237738275,0.05352441346771902,False,Right Foot,Open Play,0,0,2,Normal
+19788,Jessica Anne Clarke,Liverpool WFC,16.64331697709324,0.06249896144502649,False,Right Foot,Open Play,0,0,1,Normal
+19788,Courtney Sweetman-Kirk,Liverpool WFC,11.704699910719626,0.057738048242450914,False,Head,Open Play,0,1,3,Normal
+19788,Amy Rodgers,Liverpool WFC,37.05401462729781,0.0702070853719627,False,Right Foot,Open Play,0,0,0,Normal
+19788,Courtney Sweetman-Kirk,Liverpool WFC,32.64965543462902,0.07476755538241092,False,Right Foot,Open Play,0,1,1,Normal
+19788,Nicola Cousins,Yeovil Town LFC,28.42534080710379,0.05531840966441837,False,Left Foot,Open Play,0,0,2,Normal
+19788,Courtney Sweetman-Kirk,Liverpool WFC,14.142135623730951,0.059676776021163,False,Right Foot,Open Play,0,0,3,Normal
+19788,Laura Coombs,Liverpool WFC,29.068883707497267,0.06630480298387839,False,Left Foot,Open Play,0,0,1,Normal
+19788,Leandra Little,Liverpool WFC,21.095023109728988,0.057407813050238135,False,Right Foot,Open Play,1,1,1,Normal
+19788,Hannah Short,Yeovil Town LFC,18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,0,0,2,Half Volley
+19788,Laura Coombs,Liverpool WFC,37.8549864614954,0.06608946806661287,False,Right Foot,Open Play,0,1,2,Normal
+19788,Courtney Sweetman-Kirk,Liverpool WFC,7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,1,0,4,Overhead Kick

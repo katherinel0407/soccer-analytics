@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-40.02561679724623,0.08129724285121999,False,Right Foot,Open Play,0,0,0,Normal
-19.085072700935672,0.0633930827087529,False,Left Foot,Open Play,0,0,4,Normal
-21.693316943243143,0.05279364766285204,False,Left Foot,Open Play,0,0,2,Normal
-7.981227975693969,0.057141525396535976,False,Right Foot,Open Play,1,0,5,Half Volley
-26.60075186907318,0.06829390679875418,False,Right Foot,Open Play,1,0,0,Half Volley
-12.20040982918197,0.06101899056690996,False,Left Foot,Open Play,1,0,2,Volley
-24.025195108468935,0.06258774258049962,False,Right Foot,Open Play,0,1,3,Normal
-23.22154172315008,0.06736875171955213,False,Left Foot,Open Play,0,0,1,Normal
-19.360010330575754,0.05677878114671943,False,Right Foot,Open Play,0,0,1,Normal
-18.900264548413077,0.0625505723260543,False,Left Foot,Open Play,0,1,4,Normal
-37.995394457749754,0.06715303383845994,False,Right Foot,Open Play,0,0,1,Normal
-17.585505395068974,0.05396674863396353,False,Right Foot,Open Play,0,0,2,Normal
-17.112568480505782,0.05493843900898244,False,Left Foot,Open Play,0,1,1,Normal
-26.24880949681338,0.0652024060809274,False,Left Foot,Open Play,0,0,2,Normal
-22.514217730136664,0.06108208122268802,False,Left Foot,Open Play,1,0,1,Half Volley
-14.287407042567239,0.05893733099773588,False,Right Foot,Open Play,1,0,1,Normal
-16.46845469374708,0.062070918226526155,False,Right Foot,Open Play,1,0,1,Volley
-29.774149861918804,0.07077987084566147,False,Right Foot,Open Play,0,1,2,Normal
-20.505608988762077,0.059553814948280805,False,Left Foot,Open Play,0,0,3,Normal
-17.681911661356082,0.06372317583104505,False,Right Foot,Open Play,0,0,1,Normal
-30.010164944565034,0.07260900463411292,False,Left Foot,Open Play,0,0,1,Normal
-4.957822102496216,0.05718034197575065,False,Head,Open Play,0,0,2,Normal
-14.446106741956461,0.06226100962965449,False,Right Foot,Open Play,0,0,1,Normal
-5.457105459856898,0.056801538244734044,False,Head,Open Play,0,0,3,Normal
-3.000000000000003,0.05525428103282639,True,Head,Open Play,0,0,3,Normal
-35.24343910573995,0.06495186917239347,False,Right Foot,Open Play,0,0,1,Normal
-11.833004690272032,0.057739368916780213,False,Head,Open Play,0,1,6,Normal
-23.32659426491574,0.06001643998028774,False,Right Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3835329,Natalia Kuikka,WNT Finland,40.02561679724623,0.08129724285121999,False,Right Foot,Open Play,0,0,0,Normal
+3835329,Pernille Mosegaard Harder,Denmark Women's,19.085072700935672,0.0633930827087529,False,Left Foot,Open Play,0,0,4,Normal
+3835329,Nadia Nadim,Denmark Women's,21.693316943243143,0.05279364766285204,False,Left Foot,Open Play,0,0,2,Normal
+3835329,Nadia Nadim,Denmark Women's,7.981227975693969,0.057141525396535976,False,Right Foot,Open Play,1,0,5,Half Volley
+3835329,Emmi Alanen,WNT Finland,26.60075186907318,0.06829390679875418,False,Right Foot,Open Play,1,0,0,Half Volley
+3835329,Signe Kallesøe Bruun,Denmark Women's,12.20040982918197,0.06101899056690996,False,Left Foot,Open Play,1,0,2,Volley
+3835329,Eveliina Summanen,WNT Finland,24.025195108468935,0.06258774258049962,False,Right Foot,Open Play,0,1,3,Normal
+3835329,Signe Kallesøe Bruun,Denmark Women's,23.22154172315008,0.06736875171955213,False,Left Foot,Open Play,0,0,1,Normal
+3835329,Sara Gedsted Thrige Andersen,Denmark Women's,19.360010330575754,0.05677878114671943,False,Right Foot,Open Play,0,0,1,Normal
+3835329,Katrine Veje,Denmark Women's,18.900264548413077,0.0625505723260543,False,Left Foot,Open Play,0,1,4,Normal
+3835329,Linda Sällström,WNT Finland,37.995394457749754,0.06715303383845994,False,Right Foot,Open Play,0,0,1,Normal
+3835329,Janni Thomsen,Denmark Women's,17.585505395068974,0.05396674863396353,False,Right Foot,Open Play,0,0,2,Normal
+3835329,Emma Wilhelmina Koivisto,WNT Finland,17.112568480505782,0.05493843900898244,False,Left Foot,Open Play,0,1,1,Normal
+3835329,Sanne Troelsgaard-Nielsen,Denmark Women's,26.24880949681338,0.0652024060809274,False,Left Foot,Open Play,0,0,2,Normal
+3835329,Katrine Veje,Denmark Women's,22.514217730136664,0.06108208122268802,False,Left Foot,Open Play,1,0,1,Half Volley
+3835329,Nadia Nadim,Denmark Women's,14.287407042567239,0.05893733099773588,False,Right Foot,Open Play,1,0,1,Normal
+3835329,Janni Thomsen,Denmark Women's,16.46845469374708,0.062070918226526155,False,Right Foot,Open Play,1,0,1,Volley
+3835329,Ria Öling,WNT Finland,29.774149861918804,0.07077987084566147,False,Right Foot,Open Play,0,1,2,Normal
+3835329,Sanne Troelsgaard-Nielsen,Denmark Women's,20.505608988762077,0.059553814948280805,False,Left Foot,Open Play,0,0,3,Normal
+3835329,Sofie Junge Pedersen,Denmark Women's,17.681911661356082,0.06372317583104505,False,Right Foot,Open Play,0,0,1,Normal
+3835329,Katrine Veje,Denmark Women's,30.010164944565034,0.07260900463411292,False,Left Foot,Open Play,0,0,1,Normal
+3835329,Stine Larsen,Denmark Women's,4.957822102496216,0.05718034197575065,False,Head,Open Play,0,0,2,Normal
+3835329,Karen Holmgaard,Denmark Women's,14.446106741956461,0.06226100962965449,False,Right Foot,Open Play,0,0,1,Normal
+3835329,Karen Holmgaard,Denmark Women's,5.457105459856898,0.056801538244734044,False,Head,Open Play,0,0,3,Normal
+3835329,Pernille Mosegaard Harder,Denmark Women's,3.000000000000003,0.05525428103282639,True,Head,Open Play,0,0,3,Normal
+3835329,Olga Ahtinen,WNT Finland,35.24343910573995,0.06495186917239347,False,Right Foot,Open Play,0,0,1,Normal
+3835329,Natalia Kuikka,WNT Finland,11.833004690272032,0.057739368916780213,False,Head,Open Play,0,1,6,Normal
+3835329,Jenny Danielsson,WNT Finland,23.32659426491574,0.06001643998028774,False,Right Foot,Open Play,0,0,4,Normal

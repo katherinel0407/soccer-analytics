@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.986490875177328,0.05942760270946552,False,Right Foot,Open Play,1,0,3,Volley
-25.480384612481814,0.06169863166861025,False,Left Foot,Open Play,1,0,1,Normal
-11.327841806805031,0.05493179297740896,False,Right Foot,Open Play,1,0,2,Half Volley
-15.086749152816195,0.05885703521480904,False,Head,Open Play,0,1,2,Normal
-22.74313083108832,0.06745323410167346,False,Right Foot,Open Play,0,0,1,Normal
-22.257582977493314,0.06483695491822093,False,Right Foot,Open Play,0,0,2,Normal
-27.523081222857304,0.06523343578716004,False,Right Foot,Open Play,1,0,1,Normal
-18.883061192507952,0.0645207336626847,False,Right Foot,Open Play,0,0,2,Normal
-6.726812023536849,0.057806163992117125,False,Head,Open Play,0,1,1,Normal
-8.811923740024085,0.05776511351452403,False,Head,Open Play,0,0,5,Normal
-33.062970223499285,0.07487004564786952,False,Right Foot,Free Kick,0,0,0,Normal
-8.860022573334673,0.057031726772397186,False,Head,Open Play,0,1,3,Normal
-10.718675291284832,0.05960254966155204,False,Head,Open Play,0,1,3,Normal
-18.867167248953937,0.0638298750586067,False,Left Foot,Open Play,0,0,2,Normal
-25.144780770569472,0.06364555731531808,False,Right Foot,Open Play,0,0,1,Normal
-15.300326793895609,0.06211308687869894,False,Left Foot,Open Play,1,0,2,Normal
-8.407734534343957,0.05894993982510566,False,Left Foot,Open Play,1,0,4,Overhead Kick
-10.143470806385752,0.05817451676424752,True,Head,Open Play,0,0,1,Normal
-8.319855767980592,0.05860889666629836,False,Right Foot,Open Play,1,0,3,Volley
-7.7698133825723215,0.05865845233217558,True,Head,Open Play,0,1,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9783,Luis Alberto Suárez Díaz,Barcelona,9.986490875177328,0.05942760270946552,False,Right Foot,Open Play,1,0,3,Volley
+9783,Víctor Sánchez Mata,Espanyol,25.480384612481814,0.06169863166861025,False,Left Foot,Open Play,1,0,1,Normal
+9783,Luis Alberto Suárez Díaz,Barcelona,11.327841806805031,0.05493179297740896,False,Right Foot,Open Play,1,0,2,Half Volley
+9783,Francisco Alcácer García,Barcelona,15.086749152816195,0.05885703521480904,False,Head,Open Play,0,1,2,Normal
+9783,Philippe Coutinho Correia,Barcelona,22.74313083108832,0.06745323410167346,False,Right Foot,Open Play,0,0,1,Normal
+9783,Leonardo Carrilho Baptistão,Espanyol,22.257582977493314,0.06483695491822093,False,Right Foot,Open Play,0,0,2,Normal
+9783,Philippe Coutinho Correia,Barcelona,27.523081222857304,0.06523343578716004,False,Right Foot,Open Play,1,0,1,Normal
+9783,Leonardo Carrilho Baptistão,Espanyol,18.883061192507952,0.0645207336626847,False,Right Foot,Open Play,0,0,2,Normal
+9783,Leonardo Carrilho Baptistão,Espanyol,6.726812023536849,0.057806163992117125,False,Head,Open Play,0,1,1,Normal
+9783,Samuel Yves Umtiti,Barcelona,8.811923740024085,0.05776511351452403,False,Head,Open Play,0,0,5,Normal
+9783,Luis Alberto Suárez Díaz,Barcelona,33.062970223499285,0.07487004564786952,False,Right Foot,Free Kick,0,0,0,Normal
+9783,José Paulo Bezzera Maciel Júnior,Barcelona,8.860022573334673,0.057031726772397186,False,Head,Open Play,0,1,3,Normal
+9783,José Paulo Bezzera Maciel Júnior,Barcelona,10.718675291284832,0.05960254966155204,False,Head,Open Play,0,1,3,Normal
+9783,Andrés Iniesta Luján,Barcelona,18.867167248953937,0.0638298750586067,False,Left Foot,Open Play,0,0,2,Normal
+9783,Sergi Darder Moll,Espanyol,25.144780770569472,0.06364555731531808,False,Right Foot,Open Play,0,0,1,Normal
+9783,Luis Alberto Suárez Díaz,Barcelona,15.300326793895609,0.06211308687869894,False,Left Foot,Open Play,1,0,2,Normal
+9783,Gerard Moreno Balaguero,Espanyol,8.407734534343957,0.05894993982510566,False,Left Foot,Open Play,1,0,4,Overhead Kick
+9783,Gerard Moreno Balaguero,Espanyol,10.143470806385752,0.05817451676424752,True,Head,Open Play,0,0,1,Normal
+9783,Gerard Piqué Bernabéu,Barcelona,8.319855767980592,0.05860889666629836,False,Right Foot,Open Play,1,0,3,Volley
+9783,Gerard Piqué Bernabéu,Barcelona,7.7698133825723215,0.05865845233217558,True,Head,Open Play,0,1,6,Normal

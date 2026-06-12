@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.001956438529312,0.05735799193731016,False,Left Foot,Open Play,1,0,1,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-26.321094202179363,0.06912127547754869,False,Right Foot,Open Play,1,0,0,Normal
-8.105553651663776,0.05562005910090269,False,Other,Open Play,0,0,5,Normal
-27.754098796394018,0.06389881728534874,False,Left Foot,Open Play,0,0,3,Normal
-30.44749579193665,0.072445179079075,False,Left Foot,Open Play,0,0,2,Normal
-31.216181701162622,0.07225939816410855,False,Left Foot,Open Play,0,0,0,Normal
-28.41760018017003,0.07102251661023097,False,Right Foot,Open Play,0,0,2,Normal
-28.64716390849189,0.07017479185120327,False,Right Foot,Open Play,0,1,3,Normal
-25.162273347215667,0.059977125997694745,False,Right Foot,Open Play,0,0,2,Half Volley
-27.568822970885066,0.06803235537603891,False,Right Foot,Open Play,0,1,2,Normal
-21.55017401321855,0.05692441838160801,False,Left Foot,Open Play,1,0,1,Normal
-22.09456946853684,0.0669337233596789,False,Right Foot,Open Play,0,1,1,Normal
-18.78004259846074,0.06328928208616746,False,Left Foot,Open Play,0,0,1,Normal
-28.34801580357962,0.06954850431493313,False,Right Foot,Open Play,0,1,1,Normal
-19.693907687404245,0.05381255151755422,True,Right Foot,Open Play,0,1,1,Normal
-8.780091115700339,0.057415527576433596,True,Head,Open Play,0,1,3,Normal
-14.712239802287069,0.058858944168262324,False,Head,Open Play,0,0,2,Normal
-4.410215414239995,0.05663165655562298,True,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881561,Shuang Wang,Racing Louisville FC,23.001956438529312,0.05735799193731016,False,Left Foot,Open Play,1,0,1,Normal
+3881561,Shuang Wang,Racing Louisville FC,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3881561,Nikki Stanton,Seattle Reign,26.321094202179363,0.06912127547754869,False,Right Foot,Open Play,1,0,0,Normal
+3881561,Olivia Van der Jagt,Seattle Reign,8.105553651663776,0.05562005910090269,False,Other,Open Play,0,0,5,Normal
+3881561,Kayla Fischer,Racing Louisville FC,27.754098796394018,0.06389881728534874,False,Left Foot,Open Play,0,0,3,Normal
+3881561,Carson Pickett,Racing Louisville FC,30.44749579193665,0.072445179079075,False,Left Foot,Open Play,0,0,2,Normal
+3881561,Carson Pickett,Racing Louisville FC,31.216181701162622,0.07225939816410855,False,Left Foot,Open Play,0,0,0,Normal
+3881561,Jessica Fishlock,Seattle Reign,28.41760018017003,0.07102251661023097,False,Right Foot,Open Play,0,0,2,Normal
+3881561,Bethany Balcer,Seattle Reign,28.64716390849189,0.07017479185120327,False,Right Foot,Open Play,0,1,3,Normal
+3881561,Jessica Fishlock,Seattle Reign,25.162273347215667,0.059977125997694745,False,Right Foot,Open Play,0,0,2,Half Volley
+3881561,Jessica Fishlock,Seattle Reign,27.568822970885066,0.06803235537603891,False,Right Foot,Open Play,0,1,2,Normal
+3881561,Bethany Balcer,Seattle Reign,21.55017401321855,0.05692441838160801,False,Left Foot,Open Play,1,0,1,Normal
+3881561,Tziarra King,Seattle Reign,22.09456946853684,0.0669337233596789,False,Right Foot,Open Play,0,1,1,Normal
+3881561,McKenzie Weinert,Seattle Reign,18.78004259846074,0.06328928208616746,False,Left Foot,Open Play,0,0,1,Normal
+3881561,Kayla Fischer,Racing Louisville FC,28.34801580357962,0.06954850431493313,False,Right Foot,Open Play,0,1,1,Normal
+3881561,Paige Monaghan,Racing Louisville FC,19.693907687404245,0.05381255151755422,True,Right Foot,Open Play,0,1,1,Normal
+3881561,Veronica Latsko,Seattle Reign,8.780091115700339,0.057415527576433596,True,Head,Open Play,0,1,3,Normal
+3881561,Nikki Stanton,Seattle Reign,14.712239802287069,0.058858944168262324,False,Head,Open Play,0,0,2,Normal
+3881561,Elyse Bennett,Seattle Reign,4.410215414239995,0.05663165655562298,True,Head,Open Play,0,1,5,Normal

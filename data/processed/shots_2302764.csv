@@ -1,50 +1,50 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.576565508913797,0.058988643022043694,True,Right Foot,Open Play,1,0,4,Volley
-22.6152603345617,0.06672990662456359,False,Left Foot,Open Play,1,0,0,Volley
-13.819189556555038,0.0583925951298998,False,Head,Open Play,0,0,3,Normal
-36.1178626167164,0.06121213684061744,False,Right Foot,Open Play,0,0,1,Normal
-11.403946685248927,0.05349062102421184,False,Head,Open Play,0,0,1,Normal
-6.918092222571197,0.057355897231075495,False,Head,Open Play,0,1,3,Normal
-17.67766952966369,0.0576278012561914,False,Head,Open Play,0,0,1,Normal
-22.06558406206371,0.06478466945178597,False,Left Foot,Open Play,1,0,1,Volley
-25.271525478292755,0.06909384608219372,False,Left Foot,Open Play,1,0,1,Half Volley
-18.710959355415206,0.06390863072244533,False,Right Foot,Open Play,1,0,1,Volley
-6.826419266350403,0.058175214396545646,True,Right Foot,Open Play,1,0,1,Normal
-19.37627415165258,0.0642112347471961,True,Right Foot,Open Play,1,0,1,Lob
-25.512545933324645,0.06527973186050175,False,Right Foot,Open Play,1,0,2,Volley
-24.92087478400387,0.051572029121222884,False,Right Foot,Open Play,1,0,1,Normal
-23.119256043393786,0.06771974638548468,False,Left Foot,Open Play,1,0,0,Half Volley
-39.53353007258522,0.06364015420758765,False,Right Foot,Open Play,0,0,0,Normal
-26.184346468835162,0.069168586559212,False,Right Foot,Open Play,1,1,2,Normal
-11.833849753989615,0.06082024013070789,True,Head,Open Play,0,0,3,Normal
-26.511318337645903,0.059774653000805526,True,Right Foot,Open Play,0,1,1,Normal
-29.02705634403874,0.0608745344276515,False,Right Foot,Open Play,1,0,0,Volley
-12.100413216084807,0.05966938539163346,False,Right Foot,Penalty,0,0,0,Normal
-6.185466837676841,0.05785670220809407,True,Left Foot,Open Play,1,1,2,Normal
-15.6080107637072,0.06093317138993518,False,Head,Open Play,0,1,2,Normal
-27.455418408758582,0.0695634637843201,False,Right Foot,Open Play,1,0,1,Normal
-26.38825496314601,0.06989507383753896,False,Left Foot,Open Play,0,0,1,Normal
-11.228535078094563,0.05897480016970249,False,Left Foot,Open Play,1,0,1,Half Volley
-36.00138886209809,0.07271896632014503,False,Right Foot,Open Play,1,0,1,Half Volley
-29.60675598575433,0.05928267561333143,False,Right Foot,Open Play,0,1,1,Normal
-29.618406439239767,0.07117733748847192,False,Left Foot,Open Play,0,0,1,Normal
-9.10219753685889,0.05594526637281593,False,Right Foot,Open Play,1,0,1,Volley
-27.30311337558411,0.05781620990771371,False,Right Foot,Open Play,1,0,0,Volley
-9.415412895885133,0.05701006348988868,False,Head,Open Play,0,1,3,Normal
-4.429446918070026,0.05696682987986579,False,Head,Open Play,0,0,1,Normal
-39.63647310243432,0.0717390510793814,False,Right Foot,Open Play,0,0,2,Normal
-32.74706093682301,0.07106847207208998,False,Right Foot,Free Kick,0,0,0,Normal
-14.358969322343441,0.06104640444977385,False,Left Foot,Open Play,1,0,1,Volley
-25.292686690029594,0.05996305442630657,False,Right Foot,Open Play,0,0,1,Normal
-38.1316141803622,0.06080172628831223,False,Right Foot,Open Play,0,1,2,Normal
-8.614522621712704,0.058360166282675124,False,Head,Open Play,0,0,2,Normal
-4.186884283091668,0.05680163743895827,False,Right Foot,Open Play,1,0,1,Volley
-32.529678756483285,0.06441230828757699,False,Left Foot,Open Play,1,1,1,Normal
-11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
-12.100413216084807,0.05959743192834747,True,Right Foot,Penalty,0,0,0,Normal
-12.100413216084807,0.05959743192834747,False,Right Foot,Penalty,0,0,0,Normal
-12.200000000000003,0.05967536621333517,True,Right Foot,Penalty,0,0,0,Normal
-12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
-12.000416659433121,0.059555627998902204,False,Left Foot,Penalty,0,0,0,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2302764,Paolo Maldini,AC Milan,12.576565508913797,0.058988643022043694,True,Right Foot,Open Play,1,0,4,Volley
+2302764,John Arne Semundseth Riise,Liverpool,22.6152603345617,0.06672990662456359,False,Left Foot,Open Play,1,0,0,Volley
+2302764,Sami Hyypiä,Liverpool,13.819189556555038,0.0583925951298998,False,Head,Open Play,0,0,3,Normal
+2302764,Ivan Gennaro Gattuso,AC Milan,36.1178626167164,0.06121213684061744,False,Right Foot,Open Play,0,0,1,Normal
+2302764,Hernán Jorge Crespo,AC Milan,11.403946685248927,0.05349062102421184,False,Head,Open Play,0,0,1,Normal
+2302764,Jaap Stam,AC Milan,6.918092222571197,0.057355897231075495,False,Head,Open Play,0,1,3,Normal
+2302764,Ricardo Izecson dos Santos Leite,AC Milan,17.67766952966369,0.0576278012561914,False,Head,Open Play,0,0,1,Normal
+2302764,Milan Baroš,Liverpool,22.06558406206371,0.06478466945178597,False,Left Foot,Open Play,1,0,1,Volley
+2302764,Luis Javier García Sanz,Liverpool,25.271525478292755,0.06909384608219372,False,Left Foot,Open Play,1,0,1,Half Volley
+2302764,Luis Javier García Sanz,Liverpool,18.710959355415206,0.06390863072244533,False,Right Foot,Open Play,1,0,1,Volley
+2302764,Hernán Jorge Crespo,AC Milan,6.826419266350403,0.058175214396545646,True,Right Foot,Open Play,1,0,1,Normal
+2302764,Hernán Jorge Crespo,AC Milan,19.37627415165258,0.0642112347471961,True,Right Foot,Open Play,1,0,1,Lob
+2302764,Ricardo Izecson dos Santos Leite,AC Milan,25.512545933324645,0.06527973186050175,False,Right Foot,Open Play,1,0,2,Volley
+2302764,Marcos Evangelista de Moraes,AC Milan,24.92087478400387,0.051572029121222884,False,Right Foot,Open Play,1,0,1,Normal
+2302764,Paolo Maldini,AC Milan,23.119256043393786,0.06771974638548468,False,Left Foot,Open Play,1,0,0,Half Volley
+2302764,Xabier Alonso Olano,Liverpool,39.53353007258522,0.06364015420758765,False,Right Foot,Open Play,0,0,0,Normal
+2302764,Andriy Shevchenko,AC Milan,26.184346468835162,0.069168586559212,False,Right Foot,Open Play,1,1,2,Normal
+2302764,Steven Gerrard,Liverpool,11.833849753989615,0.06082024013070789,True,Head,Open Play,0,0,3,Normal
+2302764,Vladimir Smicer,Liverpool,26.511318337645903,0.059774653000805526,True,Right Foot,Open Play,0,1,1,Normal
+2302764,Xabier Alonso Olano,Liverpool,29.02705634403874,0.0608745344276515,False,Right Foot,Open Play,1,0,0,Volley
+2302764,Xabier Alonso Olano,Liverpool,12.100413216084807,0.05966938539163346,False,Right Foot,Penalty,0,0,0,Normal
+2302764,Xabier Alonso Olano,Liverpool,6.185466837676841,0.05785670220809407,True,Left Foot,Open Play,1,1,2,Normal
+2302764,Paolo Maldini,AC Milan,15.6080107637072,0.06093317138993518,False,Head,Open Play,0,1,2,Normal
+2302764,Clarence Seedorf,AC Milan,27.455418408758582,0.0695634637843201,False,Right Foot,Open Play,1,0,1,Normal
+2302764,John Arne Semundseth Riise,Liverpool,26.38825496314601,0.06989507383753896,False,Left Foot,Open Play,0,0,1,Normal
+2302764,Andriy Shevchenko,AC Milan,11.228535078094563,0.05897480016970249,False,Left Foot,Open Play,1,0,1,Half Volley
+2302764,Alessandro Nesta,AC Milan,36.00138886209809,0.07271896632014503,False,Right Foot,Open Play,1,0,1,Half Volley
+2302764,Steven Gerrard,Liverpool,29.60675598575433,0.05928267561333143,False,Right Foot,Open Play,0,1,1,Normal
+2302764,Vladimir Smicer,Liverpool,29.618406439239767,0.07117733748847192,False,Left Foot,Open Play,0,0,1,Normal
+2302764,Ricardo Izecson dos Santos Leite,AC Milan,9.10219753685889,0.05594526637281593,False,Right Foot,Open Play,1,0,1,Volley
+2302764,Andriy Shevchenko,AC Milan,27.30311337558411,0.05781620990771371,False,Right Foot,Open Play,1,0,0,Volley
+2302764,Jaap Stam,AC Milan,9.415412895885133,0.05701006348988868,False,Head,Open Play,0,1,3,Normal
+2302764,Ricardo Izecson dos Santos Leite,AC Milan,4.429446918070026,0.05696682987986579,False,Head,Open Play,0,0,1,Normal
+2302764,Andrea Pirlo,AC Milan,39.63647310243432,0.0717390510793814,False,Right Foot,Open Play,0,0,2,Normal
+2302764,Andrea Pirlo,AC Milan,32.74706093682301,0.07106847207208998,False,Right Foot,Free Kick,0,0,0,Normal
+2302764,Andriy Shevchenko,AC Milan,14.358969322343441,0.06104640444977385,False,Left Foot,Open Play,1,0,1,Volley
+2302764,Dietmar Hamann,Liverpool,25.292686690029594,0.05996305442630657,False,Right Foot,Open Play,0,0,1,Normal
+2302764,Djibril Cissé,Liverpool,38.1316141803622,0.06080172628831223,False,Right Foot,Open Play,0,1,2,Normal
+2302764,Andriy Shevchenko,AC Milan,8.614522621712704,0.058360166282675124,False,Head,Open Play,0,0,2,Normal
+2302764,Andriy Shevchenko,AC Milan,4.186884283091668,0.05680163743895827,False,Right Foot,Open Play,1,0,1,Volley
+2302764,John Arne Semundseth Riise,Liverpool,32.529678756483285,0.06441230828757699,False,Left Foot,Open Play,1,1,1,Normal
+2302764,Claudio Santos,AC Milan,11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
+2302764,Dietmar Hamann,Liverpool,12.100413216084807,0.05959743192834747,True,Right Foot,Penalty,0,0,0,Normal
+2302764,Andrea Pirlo,AC Milan,12.100413216084807,0.05959743192834747,False,Right Foot,Penalty,0,0,0,Normal
+2302764,Djibril Cissé,Liverpool,12.200000000000003,0.05967536621333517,True,Right Foot,Penalty,0,0,0,Normal
+2302764,Jon Dahl Tomasson,AC Milan,12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
+2302764,John Arne Semundseth Riise,Liverpool,12.000416659433121,0.059555627998902204,False,Left Foot,Penalty,0,0,0,Normal
+2302764,Ricardo Izecson dos Santos Leite,AC Milan,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+2302764,Vladimir Smicer,Liverpool,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal

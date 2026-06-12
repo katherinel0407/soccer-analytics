@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.889118861942148,0.06817967855121633,True,Right Foot,Free Kick,0,0,0,Normal
-25.544079548889602,0.055343248024981806,False,Right Foot,Open Play,1,1,1,Half Volley
-8.367795408588808,0.05867263543899316,False,Left Foot,Open Play,1,1,2,Volley
-43.10568407994473,0.0834800469981872,False,Right Foot,Open Play,0,0,0,Normal
-8.163332652783422,0.056174860399619185,False,Right Foot,Open Play,1,1,1,Normal
-11.386395390991835,0.060421543377012554,True,Left Foot,Open Play,0,0,1,Normal
-23.791805311913603,0.0626016910211435,False,Right Foot,Open Play,0,0,3,Normal
-11.194641575325226,0.06024875707258514,True,Left Foot,Open Play,0,1,2,Normal
-14.440221604947753,0.06228514423507296,True,Right Foot,Open Play,1,0,1,Normal
-24.865236777477104,0.05310704118583136,False,Right Foot,Open Play,1,0,0,Half Volley
-16.21634977422478,0.06317506365223474,False,Left Foot,Open Play,0,0,2,Normal
-7.354590403278761,0.05811203332180399,True,Head,Open Play,0,0,3,Normal
-25.806975801127873,0.06132740343409065,False,Right Foot,Open Play,0,0,1,Normal
-31.304951684997057,0.059178067079271104,False,Left Foot,Open Play,0,1,1,Normal
-13.160547101089675,0.056178115609533945,True,Right Foot,Open Play,0,1,2,Normal
-26.385602134497514,0.06992666578682563,False,Left Foot,Open Play,0,0,0,Normal
-15.592626462530298,0.06265698265547089,False,Right Foot,Open Play,0,1,2,Normal
-10.348429832588128,0.058539222333138075,False,Head,Open Play,0,0,3,Normal
-12.020399327809372,0.05984164112651279,False,Head,Open Play,0,1,3,Normal
-12.401612798341995,0.0611255217269034,False,Left Foot,Open Play,0,0,1,Normal
-18.254314558481784,0.05164615711247101,False,Right Foot,Open Play,0,1,1,Normal
-18.710959355415206,0.055564789913960556,False,Right Foot,Open Play,0,0,1,Normal
-12.420144926690675,0.06114210052832914,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275093,So-Yun Ji,Chelsea FCW,23.889118861942148,0.06817967855121633,True,Right Foot,Free Kick,0,0,0,Normal
+2275093,Rebecca Holloway,Birmingham City WFC,25.544079548889602,0.055343248024981806,False,Right Foot,Open Play,1,1,1,Half Volley
+2275093,Guro Reiten,Chelsea FCW,8.367795408588808,0.05867263543899316,False,Left Foot,Open Play,1,1,2,Volley
+2275093,Lucy Staniforth,Birmingham City WFC,43.10568407994473,0.0834800469981872,False,Right Foot,Open Play,0,0,0,Normal
+2275093,Bethany England,Chelsea FCW,8.163332652783422,0.056174860399619185,False,Right Foot,Open Play,1,1,1,Normal
+2275093,Millie Bright,Chelsea FCW,11.386395390991835,0.060421543377012554,True,Left Foot,Open Play,0,0,1,Normal
+2275093,Claudia Walker,Birmingham City WFC,23.791805311913603,0.0626016910211435,False,Right Foot,Open Play,0,0,3,Normal
+2275093,Bethany England,Chelsea FCW,11.194641575325226,0.06024875707258514,True,Left Foot,Open Play,0,1,2,Normal
+2275093,Drew Spence,Chelsea FCW,14.440221604947753,0.06228514423507296,True,Right Foot,Open Play,1,0,1,Normal
+2275093,Claudia Walker,Birmingham City WFC,24.865236777477104,0.05310704118583136,False,Right Foot,Open Play,1,0,0,Half Volley
+2275093,Bethany England,Chelsea FCW,16.21634977422478,0.06317506365223474,False,Left Foot,Open Play,0,0,2,Normal
+2275093,Drew Spence,Chelsea FCW,7.354590403278761,0.05811203332180399,True,Head,Open Play,0,0,3,Normal
+2275093,Lucy Staniforth,Birmingham City WFC,25.806975801127873,0.06132740343409065,False,Right Foot,Open Play,0,0,1,Normal
+2275093,Chloe Arthur,Birmingham City WFC,31.304951684997057,0.059178067079271104,False,Left Foot,Open Play,0,1,1,Normal
+2275093,Bethany England,Chelsea FCW,13.160547101089675,0.056178115609533945,True,Right Foot,Open Play,0,1,2,Normal
+2275093,Freya Gregory,Birmingham City WFC,26.385602134497514,0.06992666578682563,False,Left Foot,Open Play,0,0,0,Normal
+2275093,Guro Reiten,Chelsea FCW,15.592626462530298,0.06265698265547089,False,Right Foot,Open Play,0,1,2,Normal
+2275093,Bethany England,Chelsea FCW,10.348429832588128,0.058539222333138075,False,Head,Open Play,0,0,3,Normal
+2275093,Bethany England,Chelsea FCW,12.020399327809372,0.05984164112651279,False,Head,Open Play,0,1,3,Normal
+2275093,Maren Nævdal Mjelde,Chelsea FCW,12.401612798341995,0.0611255217269034,False,Left Foot,Open Play,0,0,1,Normal
+2275093,Claudia Walker,Birmingham City WFC,18.254314558481784,0.05164615711247101,False,Right Foot,Open Play,0,1,1,Normal
+2275093,Emily Murphy,Chelsea FCW,18.710959355415206,0.055564789913960556,False,Right Foot,Open Play,0,0,1,Normal
+2275093,Millie Bright,Chelsea FCW,12.420144926690675,0.06114210052832914,False,Head,Open Play,0,0,1,Normal

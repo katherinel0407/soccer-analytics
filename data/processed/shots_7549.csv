@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.0,0.06690491840941816,False,Right Foot,Free Kick,0,0,0,Normal
-21.02379604162864,0.06399467512373622,False,Right Foot,Open Play,0,1,1,Normal
-16.0312195418814,0.061695736670736176,False,Head,Open Play,0,1,4,Normal
-14.317821063276353,0.06078442695304074,False,Left Foot,Open Play,1,0,1,Volley
-19.4164878389476,0.06403202909768159,False,Right Foot,Open Play,1,0,1,Volley
-7.0,0.05755567023984417,False,Other,Open Play,1,0,4,Normal
-13.038404810405298,0.05381146958013594,False,Head,Open Play,0,0,2,Normal
-25.0,0.061501761444683875,False,Right Foot,Open Play,1,0,2,Normal
-10.0,0.05591639879787884,True,Right Foot,Open Play,0,0,2,Half Volley
-38.62641583165593,0.07949419518620993,False,Right Foot,Open Play,0,0,0,Normal
-25.238858928247925,0.051876629381583717,False,Right Foot,Open Play,0,0,2,Normal
-24.186773244895647,0.06844259943706751,False,Right Foot,Open Play,0,1,3,Normal
-24.20743687382041,0.05589736977586779,False,Left Foot,Open Play,0,0,2,Normal
-25.079872407968907,0.066411974585162,False,Right Foot,Open Play,0,0,0,Normal
-15.264337522473747,0.056944377721215564,False,Head,Open Play,0,0,1,Diving Header
-8.54400374531753,0.056952429299174226,False,Head,Open Play,0,0,5,Normal
-26.076809620810597,0.05729571531461371,False,Left Foot,Open Play,0,0,1,Normal
-23.021728866442675,0.06762109851611797,False,Right Foot,Open Play,0,0,0,Normal
-18.867962264113206,0.057165539497993224,False,Right Foot,Open Play,0,0,2,Normal
-7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,0,0,2,Normal
-28.0178514522438,0.06743337326264422,False,Left Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-23.40939982143925,0.06023673655200883,False,Left Foot,Open Play,0,0,1,Normal
-15.264337522473747,0.061751288581591984,False,Left Foot,Open Play,1,0,1,Normal
-29.068883707497267,0.06630480298387839,False,Right Foot,Open Play,0,0,1,Normal
-13.038404810405298,0.05964280276771261,False,Head,Open Play,0,0,3,Normal
-17.029386365926403,0.062145228145235654,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7549,Gylfi Þór Sigurðsson,Iceland,28.0,0.06690491840941816,False,Right Foot,Free Kick,0,0,0,Normal
+7549,Gylfi Þór Sigurðsson,Iceland,21.02379604162864,0.06399467512373622,False,Right Foot,Open Play,0,1,1,Normal
+7549,Kenneth Josiah Omeruo,Nigeria,16.0312195418814,0.061695736670736176,False,Head,Open Play,0,1,4,Normal
+7549,Birkir Bjarnason,Iceland,14.317821063276353,0.06078442695304074,False,Left Foot,Open Play,1,0,1,Volley
+7549,Birkir Bjarnason,Iceland,19.4164878389476,0.06403202909768159,False,Right Foot,Open Play,1,0,1,Volley
+7549,Alfreð Finnbogason,Iceland,7.0,0.05755567023984417,False,Other,Open Play,1,0,4,Normal
+7549,Jón Daði Böðvarsson,Iceland,13.038404810405298,0.05381146958013594,False,Head,Open Play,0,0,2,Normal
+7549,Oghenekaro Etebo,Nigeria,25.0,0.061501761444683875,False,Right Foot,Open Play,1,0,2,Normal
+7549,Ahmed Musa,Nigeria,10.0,0.05591639879787884,True,Right Foot,Open Play,0,0,2,Half Volley
+7549,Onyinye Wilfred Ndidi,Nigeria,38.62641583165593,0.07949419518620993,False,Right Foot,Open Play,0,0,0,Normal
+7549,Victor Moses,Nigeria,25.238858928247925,0.051876629381583717,False,Right Foot,Open Play,0,0,2,Normal
+7549,Rúrik Gíslason,Iceland,24.186773244895647,0.06844259943706751,False,Right Foot,Open Play,0,1,3,Normal
+7549,Victor Moses,Nigeria,24.20743687382041,0.05589736977586779,False,Left Foot,Open Play,0,0,2,Normal
+7549,Oghenekaro Etebo,Nigeria,25.079872407968907,0.066411974585162,False,Right Foot,Open Play,0,0,0,Normal
+7549,William Troost-Ekong,Nigeria,15.264337522473747,0.056944377721215564,False,Head,Open Play,0,0,1,Diving Header
+7549,Leon Aderemi Balogun,Nigeria,8.54400374531753,0.056952429299174226,False,Head,Open Play,0,0,5,Normal
+7549,Kelechi Promise Iheanacho,Nigeria,26.076809620810597,0.05729571531461371,False,Left Foot,Open Play,0,0,1,Normal
+7549,Ahmed Musa,Nigeria,23.021728866442675,0.06762109851611797,False,Right Foot,Open Play,0,0,0,Normal
+7549,Victor Moses,Nigeria,18.867962264113206,0.057165539497993224,False,Right Foot,Open Play,0,0,2,Normal
+7549,Ahmed Musa,Nigeria,7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,0,0,2,Normal
+7549,William Troost-Ekong,Nigeria,28.0178514522438,0.06743337326264422,False,Left Foot,Open Play,0,0,2,Normal
+7549,Gylfi Þór Sigurðsson,Iceland,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+7549,Kelechi Promise Iheanacho,Nigeria,23.40939982143925,0.06023673655200883,False,Left Foot,Open Play,0,0,1,Normal
+7549,Alfreð Finnbogason,Iceland,15.264337522473747,0.061751288581591984,False,Left Foot,Open Play,1,0,1,Normal
+7549,Onyinye Wilfred Ndidi,Nigeria,29.068883707497267,0.06630480298387839,False,Right Foot,Open Play,0,0,1,Normal
+7549,Sverrir Ingi Ingason,Iceland,13.038404810405298,0.05964280276771261,False,Head,Open Play,0,0,3,Normal
+7549,Alex Iwobi,Nigeria,17.029386365926403,0.062145228145235654,False,Left Foot,Open Play,0,0,2,Normal

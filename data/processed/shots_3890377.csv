@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.206569821112993,0.0650124752608968,False,Right Foot,Open Play,1,0,1,Normal
-17.636609651517496,0.06337579425378134,False,Left Foot,Open Play,1,0,2,Normal
-20.160357139693733,0.06571839831840315,False,Right Foot,Open Play,1,0,3,Normal
-24.760654272454108,0.06823762801164876,False,Right Foot,Open Play,0,0,2,Normal
-10.46231331972045,0.05439668112865458,True,Right Foot,Open Play,0,0,2,Normal
-29.358644382872992,0.07030024346147025,False,Left Foot,Open Play,0,0,1,Normal
-11.370136322841516,0.0605448432192786,False,Head,Open Play,0,1,1,Normal
-6.140032573203501,0.05476867294686052,True,Head,Open Play,0,0,5,Normal
-17.650495743746124,0.06289251257136433,False,Right Foot,Open Play,0,0,5,Normal
-27.809530740377483,0.06975576517283795,False,Right Foot,Open Play,0,0,3,Normal
-12.340583454602134,0.059353605743958794,False,Head,Open Play,0,0,3,Normal
-19.00789309734249,0.06499097542467294,False,Right Foot,Open Play,0,1,5,Normal
-26.795895208035134,0.060351470259821,False,Right Foot,Open Play,0,0,1,Normal
-17.36663467687393,0.06401026884248363,True,Right Foot,Open Play,1,0,1,Normal
-24.94674327442362,0.06355806387191992,False,Right Foot,Open Play,1,0,2,Normal
-30.592973049378507,0.06258481178815639,False,Left Foot,Open Play,0,0,2,Normal
-32.577599666028185,0.0737482808434401,False,Left Foot,Open Play,0,0,1,Half Volley
-24.816325271885034,0.055707068301840294,False,Left Foot,Open Play,0,0,3,Normal
-31.862831010442243,0.06764422756934395,False,Left Foot,Open Play,0,0,2,Normal
-11.761377470347595,0.05594595818608155,True,Left Foot,Open Play,0,0,3,Normal
-21.868927728629036,0.058554391373826516,False,Right Foot,Open Play,1,1,1,Half Volley
-15.524174696260024,0.059292751046415224,False,Right Foot,Open Play,0,0,4,Normal
-18.70240626229684,0.06237618590463866,False,Right Foot,Open Play,1,0,1,Normal
-7.211102550927975,0.05822795227220898,False,Head,Open Play,0,0,3,Normal
-6.191122676865642,0.054469348912170173,False,Left Foot,Open Play,1,0,4,Volley
-6.573431371817924,0.05684048305379074,True,Head,Open Play,0,0,1,Normal
-18.522418848519756,0.05839526136416889,False,Left Foot,Open Play,0,0,2,Normal
-19.556328898850108,0.05863031839565954,False,Right Foot,Open Play,1,0,2,Normal
-22.37856116911898,0.06720341650033279,False,Left Foot,Open Play,0,0,2,Normal
-19.33287355775131,0.06510828230846735,False,Left Foot,Open Play,0,1,3,Normal
-29.471681322924212,0.07223097809915585,False,Right Foot,Open Play,0,0,3,Normal
-30.528675044947494,0.05747511539175109,False,Left Foot,Open Play,1,0,0,Normal
-12.010828447696682,0.05648554820143538,True,Left Foot,Open Play,0,0,1,Normal
-26.61766330841233,0.06742727398890831,False,Right Foot,Open Play,0,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890377,Granit Xhaka,Borussia Mönchengladbach,31.206569821112993,0.0650124752608968,False,Right Foot,Open Play,1,0,1,Normal
+3890377,Fabian Johnson,Borussia Mönchengladbach,17.636609651517496,0.06337579425378134,False,Left Foot,Open Play,1,0,2,Normal
+3890377,Lars Edi Stindl,Borussia Mönchengladbach,20.160357139693733,0.06571839831840315,False,Right Foot,Open Play,1,0,3,Normal
+3890377,Mahmoud Dahoud,Borussia Mönchengladbach,24.760654272454108,0.06823762801164876,False,Right Foot,Open Play,0,0,2,Normal
+3890377,Fabian Johnson,Borussia Mönchengladbach,10.46231331972045,0.05439668112865458,True,Right Foot,Open Play,0,0,2,Normal
+3890377,Eugen Polanski,Hoffenheim,29.358644382872992,0.07030024346147025,False,Left Foot,Open Play,0,0,1,Normal
+3890377,Håvard Nordtveit,Borussia Mönchengladbach,11.370136322841516,0.0605448432192786,False,Head,Open Play,0,1,1,Normal
+3890377,Steven Zuber,Hoffenheim,6.140032573203501,0.05476867294686052,True,Head,Open Play,0,0,5,Normal
+3890377,Lars Edi Stindl,Borussia Mönchengladbach,17.650495743746124,0.06289251257136433,False,Right Foot,Open Play,0,0,5,Normal
+3890377,Steven Zuber,Hoffenheim,27.809530740377483,0.06975576517283795,False,Right Foot,Open Play,0,0,3,Normal
+3890377,Fabian Lukas Schär,Hoffenheim,12.340583454602134,0.059353605743958794,False,Head,Open Play,0,0,3,Normal
+3890377,Steven Zuber,Hoffenheim,19.00789309734249,0.06499097542467294,False,Right Foot,Open Play,0,1,5,Normal
+3890377,Lars Edi Stindl,Borussia Mönchengladbach,26.795895208035134,0.060351470259821,False,Right Foot,Open Play,0,0,1,Normal
+3890377,Eugen Polanski,Hoffenheim,17.36663467687393,0.06401026884248363,True,Right Foot,Open Play,1,0,1,Normal
+3890377,Mahmoud Dahoud,Borussia Mönchengladbach,24.94674327442362,0.06355806387191992,False,Right Foot,Open Play,1,0,2,Normal
+3890377,Granit Xhaka,Borussia Mönchengladbach,30.592973049378507,0.06258481178815639,False,Left Foot,Open Play,0,0,2,Normal
+3890377,Granit Xhaka,Borussia Mönchengladbach,32.577599666028185,0.0737482808434401,False,Left Foot,Open Play,0,0,1,Half Volley
+3890377,Kevin Volland,Hoffenheim,24.816325271885034,0.055707068301840294,False,Left Foot,Open Play,0,0,3,Normal
+3890377,Tarik Elyounoussi,Hoffenheim,31.862831010442243,0.06764422756934395,False,Left Foot,Open Play,0,0,2,Normal
+3890377,Nadiem Amiri,Hoffenheim,11.761377470347595,0.05594595818608155,True,Left Foot,Open Play,0,0,3,Normal
+3890377,Pirmin Schwegler,Hoffenheim,21.868927728629036,0.058554391373826516,False,Right Foot,Open Play,1,1,1,Half Volley
+3890377,Raffael Caetano de Araújo,Borussia Mönchengladbach,15.524174696260024,0.059292751046415224,False,Right Foot,Open Play,0,0,4,Normal
+3890377,Nadiem Amiri,Hoffenheim,18.70240626229684,0.06237618590463866,False,Right Foot,Open Play,1,0,1,Normal
+3890377,Steven Zuber,Hoffenheim,7.211102550927975,0.05822795227220898,False,Head,Open Play,0,0,3,Normal
+3890377,Niklas Süle,Hoffenheim,6.191122676865642,0.054469348912170173,False,Left Foot,Open Play,1,0,4,Volley
+3890377,Josip Drmic,Borussia Mönchengladbach,6.573431371817924,0.05684048305379074,True,Head,Open Play,0,0,1,Normal
+3890377,Kevin Volland,Hoffenheim,18.522418848519756,0.05839526136416889,False,Left Foot,Open Play,0,0,2,Normal
+3890377,Nadiem Amiri,Hoffenheim,19.556328898850108,0.05863031839565954,False,Right Foot,Open Play,1,0,2,Normal
+3890377,Eugen Polanski,Hoffenheim,22.37856116911898,0.06720341650033279,False,Left Foot,Open Play,0,0,2,Normal
+3890377,Nadiem Amiri,Hoffenheim,19.33287355775131,0.06510828230846735,False,Left Foot,Open Play,0,1,3,Normal
+3890377,Thorgan Hazard,Borussia Mönchengladbach,29.471681322924212,0.07223097809915585,False,Right Foot,Open Play,0,0,3,Normal
+3890377,Granit Xhaka,Borussia Mönchengladbach,30.528675044947494,0.05747511539175109,False,Left Foot,Open Play,1,0,0,Normal
+3890377,Fabian Johnson,Borussia Mönchengladbach,12.010828447696682,0.05648554820143538,True,Left Foot,Open Play,0,0,1,Normal
+3890377,Eugen Polanski,Hoffenheim,26.61766330841233,0.06742727398890831,False,Right Foot,Open Play,0,0,1,Volley

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.005525512334568,0.061737635703030064,True,Right Foot,Open Play,1,0,1,Normal
-14.356879883874486,0.06192732956695543,True,Right Foot,Open Play,0,0,3,Normal
-18.867962264113206,0.06186663776220924,False,Left Foot,Open Play,1,0,0,Normal
-9.620810776644554,0.057192902472372485,False,Head,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-38.2027485922152,0.06869962311880821,False,Right Foot,Open Play,0,0,0,Normal
-13.509256086106289,0.058815512888524046,False,Head,Open Play,0,1,1,Normal
-24.33043361717995,0.06844862145841225,False,Right Foot,Open Play,0,0,1,Normal
-30.016662039607265,0.05644082903556247,False,Right Foot,Open Play,0,0,0,Normal
-12.520782723136765,0.054260469533914626,False,Right Foot,Open Play,1,0,1,Half Volley
-10.235721762533414,0.05959542027571672,False,Left Foot,Open Play,1,0,4,Normal
-20.607280266934787,0.06605030847223589,False,Left Foot,Open Play,0,0,2,Normal
-31.22579062249665,0.07005685222584754,False,Right Foot,Open Play,0,0,0,Normal
-18.84303584882224,0.054329223144429145,False,Left Foot,Open Play,0,0,1,Normal
-23.623716896373438,0.06803460228449251,False,Left Foot,Open Play,1,0,0,Half Volley
-15.915401345866217,0.061534270874133934,True,Right Foot,Open Play,0,0,2,Half Volley
-22.432119828495924,0.06702781916872709,False,Left Foot,Open Play,1,0,1,Half Volley
-26.12221276997796,0.0563358579530462,False,Left Foot,Open Play,0,1,1,Normal
-27.598007174432002,0.06485864004553286,False,Left Foot,Open Play,0,0,3,Normal
-15.01465950329877,0.05554275237372859,False,Head,Open Play,0,1,2,Normal
-21.508370463612533,0.06405301423368605,True,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930158,Florian Wirtz,Germany,19.005525512334568,0.061737635703030064,True,Right Foot,Open Play,1,0,1,Normal
+3930158,Jamal Musiala,Germany,14.356879883874486,0.06192732956695543,True,Right Foot,Open Play,0,0,3,Normal
+3930158,Kai Havertz,Germany,18.867962264113206,0.06186663776220924,False,Left Foot,Open Play,1,0,0,Normal
+3930158,İlkay Gündoğan,Germany,9.620810776644554,0.057192902472372485,False,Head,Open Play,0,1,1,Normal
+3930158,Kai Havertz,Germany,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3930158,Antonio Rüdiger,Germany,38.2027485922152,0.06869962311880821,False,Right Foot,Open Play,0,0,0,Normal
+3930158,Antonio Rüdiger,Germany,13.509256086106289,0.058815512888524046,False,Head,Open Play,0,1,1,Normal
+3930158,Pascal Groß,Germany,24.33043361717995,0.06844862145841225,False,Right Foot,Open Play,0,0,1,Normal
+3930158,Joshua Kimmich,Germany,30.016662039607265,0.05644082903556247,False,Right Foot,Open Play,0,0,0,Normal
+3930158,Florian Wirtz,Germany,12.520782723136765,0.054260469533914626,False,Right Foot,Open Play,1,0,1,Half Volley
+3930158,İlkay Gündoğan,Germany,10.235721762533414,0.05959542027571672,False,Left Foot,Open Play,1,0,4,Normal
+3930158,Maximilian Mittelstädt,Germany,20.607280266934787,0.06605030847223589,False,Left Foot,Open Play,0,0,2,Normal
+3930158,Florian Wirtz,Germany,31.22579062249665,0.07005685222584754,False,Right Foot,Open Play,0,0,0,Normal
+3930158,Leroy Sané,Germany,18.84303584882224,0.054329223144429145,False,Left Foot,Open Play,0,0,1,Normal
+3930158,Maximilian Mittelstädt,Germany,23.623716896373438,0.06803460228449251,False,Left Foot,Open Play,1,0,0,Half Volley
+3930158,Niclas Füllkrug,Germany,15.915401345866217,0.061534270874133934,True,Right Foot,Open Play,0,0,2,Half Volley
+3930158,Maximilian Mittelstädt,Germany,22.432119828495924,0.06702781916872709,False,Left Foot,Open Play,1,0,1,Half Volley
+3930158,Leroy Sané,Germany,26.12221276997796,0.0563358579530462,False,Left Foot,Open Play,0,1,1,Normal
+3930158,Leroy Sané,Germany,27.598007174432002,0.06485864004553286,False,Left Foot,Open Play,0,0,3,Normal
+3930158,Scott McKenna,Scotland,15.01465950329877,0.05554275237372859,False,Head,Open Play,0,1,2,Normal
+3930158,Emre Can,Germany,21.508370463612533,0.06405301423368605,True,Right Foot,Open Play,0,1,1,Normal

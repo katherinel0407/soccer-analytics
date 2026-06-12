@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.397580409095958,0.061145500769131195,True,Right Foot,Open Play,1,0,1,Volley
-27.560116110060207,0.07064063493673708,False,Right Foot,Open Play,0,0,1,Normal
-5.288667128870935,0.05637795754506941,True,Right Foot,Open Play,0,1,2,Normal
-23.527430798963152,0.060593804578735956,False,Right Foot,Open Play,0,0,2,Normal
-17.63434149606953,0.0624578378811288,False,Left Foot,Open Play,1,0,2,Normal
-20.53533540023147,0.05802593374486526,False,Left Foot,Open Play,0,1,2,Normal
-19.520758181996925,0.06502997191965923,False,Left Foot,Open Play,0,0,1,Normal
-10.257680049601865,0.059956289761537884,False,Right Foot,Open Play,0,0,3,Normal
-21.58240023723034,0.05720410956200772,False,Left Foot,Open Play,0,0,2,Normal
-15.538983235720412,0.06065400252207184,False,Head,Open Play,0,1,1,Normal
-29.424479604574145,0.07014406480177236,False,Right Foot,Free Kick,0,0,0,Normal
-9.953893710503445,0.05712815609493082,True,Right Foot,Open Play,0,0,2,Lob
-12.001666550941996,0.06080096047848449,False,Head,Open Play,0,1,2,Normal
-26.730693967796647,0.06862833969072764,False,Right Foot,Open Play,0,0,3,Normal
-29.624989451474917,0.07017211734977098,False,Left Foot,Open Play,1,0,1,Volley
-28.00607077045975,0.06935650125237866,False,Left Foot,Open Play,0,0,3,Normal
-13.0,0.053614797132053235,False,Right Foot,Open Play,1,0,2,Normal
-29.090376415577712,0.07198532560858507,False,Left Foot,Open Play,0,0,1,Normal
-22.13255520720551,0.06351041515154249,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825892,Imanol Agirretxe Arruti,Real Sociedad,12.397580409095958,0.061145500769131195,True,Right Foot,Open Play,1,0,1,Volley
+3825892,Edgar Antonio Méndez Ortega,Granada,27.560116110060207,0.07064063493673708,False,Right Foot,Open Play,0,0,1,Normal
+3825892,Imanol Agirretxe Arruti,Real Sociedad,5.288667128870935,0.05637795754506941,True,Right Foot,Open Play,0,1,2,Normal
+3825892,Youssef El-Arabi,Granada,23.527430798963152,0.060593804578735956,False,Right Foot,Open Play,0,0,2,Normal
+3825892,Javier Márquez Moreno,Granada,17.63434149606953,0.0624578378811288,False,Left Foot,Open Play,1,0,2,Normal
+3825892,Isaac Ajayi Success,Granada,20.53533540023147,0.05802593374486526,False,Left Foot,Open Play,0,1,2,Normal
+3825892,Sergio Canales Madrazo,Real Sociedad,19.520758181996925,0.06502997191965923,False,Left Foot,Open Play,0,0,1,Normal
+3825892,Imanol Agirretxe Arruti,Real Sociedad,10.257680049601865,0.059956289761537884,False,Right Foot,Open Play,0,0,3,Normal
+3825892,Thievy Guivane Bifouma Koulossa,Granada,21.58240023723034,0.05720410956200772,False,Left Foot,Open Play,0,0,2,Normal
+3825892,Youssef El-Arabi,Granada,15.538983235720412,0.06065400252207184,False,Head,Open Play,0,1,1,Normal
+3825892,Rubén Pardo Gutiérrez,Real Sociedad,29.424479604574145,0.07014406480177236,False,Right Foot,Free Kick,0,0,0,Normal
+3825892,Imanol Agirretxe Arruti,Real Sociedad,9.953893710503445,0.05712815609493082,True,Right Foot,Open Play,0,0,2,Lob
+3825892,Asier Illarramendi Andonegi,Real Sociedad,12.001666550941996,0.06080096047848449,False,Head,Open Play,0,1,2,Normal
+3825892,Javier Márquez Moreno,Granada,26.730693967796647,0.06862833969072764,False,Right Foot,Open Play,0,0,3,Normal
+3825892,Javier Márquez Moreno,Granada,29.624989451474917,0.07017211734977098,False,Left Foot,Open Play,1,0,1,Volley
+3825892,Youssef El-Arabi,Granada,28.00607077045975,0.06935650125237866,False,Left Foot,Open Play,0,0,3,Normal
+3825892,Armindo Tué Na Bangna,Real Sociedad,13.0,0.053614797132053235,False,Right Foot,Open Play,1,0,2,Normal
+3825892,Javier Márquez Moreno,Granada,29.090376415577712,0.07198532560858507,False,Left Foot,Open Play,0,0,1,Normal
+3825892,Javier Márquez Moreno,Granada,22.13255520720551,0.06351041515154249,False,Left Foot,Free Kick,0,0,0,Normal

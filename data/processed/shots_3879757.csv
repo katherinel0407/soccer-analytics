@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.041262860908223,0.06932685471348055,True,Right Foot,Open Play,0,0,2,Normal
-28.34448800031499,0.06415531539396227,False,Right Foot,Open Play,0,0,2,Normal
-18.31993449769949,0.06301097513581595,False,Left Foot,Open Play,0,0,1,Normal
-13.464768843169939,0.05935273269586725,False,Right Foot,Open Play,1,0,3,Volley
-18.873261509341724,0.06109075756579276,False,Right Foot,Open Play,1,0,0,Half Volley
-15.620499351813312,0.05953329495070756,False,Head,Open Play,0,0,3,Normal
-22.18220007122828,0.06573961972942946,False,Right Foot,Free Kick,0,0,0,Normal
-20.20544481074347,0.06453155986240565,True,Right Foot,Open Play,1,0,2,Half Volley
-31.4607692213652,0.055843693072439186,False,Right Foot,Open Play,0,0,0,Normal
-14.803377992877165,0.06243355778310354,False,Right Foot,Open Play,1,0,2,Half Volley
-29.98432924045492,0.07159455697706876,False,Left Foot,Open Play,0,0,3,Normal
-19.283671849520776,0.06509207675823162,False,Right Foot,Open Play,0,1,3,Normal
-34.724343046341424,0.06950973963078945,False,Right Foot,Open Play,1,0,0,Normal
-10.421612159354238,0.05999018565272014,False,Right Foot,Open Play,1,0,1,Volley
-24.140629652103108,0.06432920205819309,False,Right Foot,Open Play,1,1,1,Half Volley
-38.3835902437487,0.06150733728120137,False,Right Foot,Open Play,0,0,1,Normal
-22.244325119005076,0.06710956806529209,False,Left Foot,Open Play,1,0,1,Normal
-9.761659694949419,0.056517175341175466,True,Right Foot,Open Play,1,0,1,Normal
-28.90570877871705,0.07123088165023667,False,Right Foot,Open Play,0,0,2,Normal
-30.813146544940842,0.06779737827268012,False,Left Foot,Open Play,1,0,0,Normal
-24.62214450449026,0.059440333470048186,False,Left Foot,Open Play,0,0,3,Normal
-11.926860441876567,0.06066100206044538,False,Left Foot,Open Play,1,1,1,Volley
-27.663152387246104,0.05780800756480674,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879757,Stephan El Shaarawy,AS Roma,31.041262860908223,0.06932685471348055,True,Right Foot,Open Play,0,0,2,Normal
+3879757,Manuel Pucciarelli,Empoli,28.34448800031499,0.06415531539396227,False,Right Foot,Open Play,0,0,2,Normal
+3879757,Massimo Maccarone,Empoli,18.31993449769949,0.06301097513581595,False,Left Foot,Open Play,0,0,1,Normal
+3879757,Lorenzo Ariaudo,Empoli,13.464768843169939,0.05935273269586725,False,Right Foot,Open Play,1,0,3,Volley
+3879757,Radja Nainggolan,AS Roma,18.873261509341724,0.06109075756579276,False,Right Foot,Open Play,1,0,0,Half Volley
+3879757,Antonio Rüdiger,AS Roma,15.620499351813312,0.05953329495070756,False,Head,Open Play,0,0,3,Normal
+3879757,Miralem Pjanić,AS Roma,22.18220007122828,0.06573961972942946,False,Right Foot,Free Kick,0,0,0,Normal
+3879757,Miralem Pjanić,AS Roma,20.20544481074347,0.06453155986240565,True,Right Foot,Open Play,1,0,2,Half Volley
+3879757,Maicon Douglas Sisenando,AS Roma,31.4607692213652,0.055843693072439186,False,Right Foot,Open Play,0,0,0,Normal
+3879757,Rade Krunić,Empoli,14.803377992877165,0.06243355778310354,False,Right Foot,Open Play,1,0,2,Half Volley
+3879757,Iago Falqué Silva,AS Roma,29.98432924045492,0.07159455697706876,False,Left Foot,Open Play,0,0,3,Normal
+3879757,Stephan El Shaarawy,AS Roma,19.283671849520776,0.06509207675823162,False,Right Foot,Open Play,0,1,3,Normal
+3879757,Miralem Pjanić,AS Roma,34.724343046341424,0.06950973963078945,False,Right Foot,Open Play,1,0,0,Normal
+3879757,Massimo Maccarone,Empoli,10.421612159354238,0.05999018565272014,False,Right Foot,Open Play,1,0,1,Volley
+3879757,Stephan El Shaarawy,AS Roma,24.140629652103108,0.06432920205819309,False,Right Foot,Open Play,1,1,1,Half Volley
+3879757,Leandro Daniel Paredes,Empoli,38.3835902437487,0.06150733728120137,False,Right Foot,Open Play,0,0,1,Normal
+3879757,Mohamed Salah,AS Roma,22.244325119005076,0.06710956806529209,False,Left Foot,Open Play,1,0,1,Normal
+3879757,Stephan El Shaarawy,AS Roma,9.761659694949419,0.056517175341175466,True,Right Foot,Open Play,1,0,1,Normal
+3879757,Marko Livaja,Empoli,28.90570877871705,0.07123088165023667,False,Right Foot,Open Play,0,0,2,Normal
+3879757,Levan Mchedlidze,Empoli,30.813146544940842,0.06779737827268012,False,Left Foot,Open Play,1,0,0,Normal
+3879757,Mohamed Salah,AS Roma,24.62214450449026,0.059440333470048186,False,Left Foot,Open Play,0,0,3,Normal
+3879757,Edin Džeko,AS Roma,11.926860441876567,0.06066100206044538,False,Left Foot,Open Play,1,1,1,Volley
+3879757,Mohamed Salah,AS Roma,27.663152387246104,0.05780800756480674,False,Left Foot,Open Play,0,0,0,Normal

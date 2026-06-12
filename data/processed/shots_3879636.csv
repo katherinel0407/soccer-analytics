@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.78464569575802,0.056853675004755834,False,Left Foot,Open Play,1,0,4,Normal
-7.531268153505097,0.057257979477737475,True,Right Foot,Open Play,0,0,4,Normal
-29.06888370749727,0.06370148427024852,False,Right Foot,Open Play,1,0,2,Normal
-14.805404418657394,0.06062841657051049,False,Left Foot,Open Play,1,0,2,Volley
-22.302017845925956,0.06429413919483089,False,Right Foot,Open Play,0,0,3,Normal
-21.561539833694628,0.05931134383426101,False,Left Foot,Open Play,0,0,4,Normal
-38.870297143191486,0.080071547083858,False,Right Foot,Open Play,0,1,1,Normal
-15.913830462839549,0.05525206715182735,False,Right Foot,Open Play,0,0,1,Normal
-33.39236439667009,0.06144416135978734,False,Right Foot,Open Play,1,0,0,Normal
-16.69760461862719,0.06363193797187808,False,Left Foot,Open Play,1,1,2,Normal
-24.67164364204379,0.0678455310059923,False,Right Foot,Open Play,0,0,1,Normal
-32.708561570328946,0.06054129507010501,False,Right Foot,Free Kick,0,0,0,Normal
-12.734991166074673,0.06121509512079033,False,Right Foot,Open Play,1,0,2,Volley
-5.824087911424409,0.057496210736139516,True,Head,Open Play,0,1,4,Normal
-32.005624505702116,0.0685736684497503,False,Right Foot,Open Play,0,0,1,Normal
-27.280945731407478,0.058844824641375464,False,Left Foot,Open Play,0,0,1,Normal
-33.402395123703336,0.06989801346283066,False,Right Foot,Open Play,0,0,1,Normal
-25.959969183340718,0.056974862973741276,False,Right Foot,Open Play,0,1,2,Normal
-23.678260071213003,0.06702732739028351,False,Right Foot,Open Play,0,1,2,Normal
-20.71545316907163,0.0659997863716265,False,Right Foot,Open Play,0,0,4,Normal
-21.30023474049054,0.05932979572081217,False,Right Foot,Open Play,1,0,2,Volley
-21.639085008382402,0.053775909667023024,False,Left Foot,Open Play,0,0,1,Normal
-27.305860176892427,0.06081625187965347,False,Right Foot,Open Play,1,0,0,Normal
-20.678733036624852,0.06398909667188857,False,Left Foot,Open Play,1,0,1,Half Volley
-20.83386665984018,0.06090089788676163,False,Left Foot,Open Play,0,0,1,Normal
-20.435263639111685,0.06511989575472286,False,Right Foot,Open Play,0,0,1,Normal
-5.948108943185224,0.05706667505134623,False,Left Foot,Open Play,0,0,2,Half Volley
-24.200206610688266,0.06510305146357964,False,Right Foot,Open Play,0,1,3,Normal
-25.964976410541947,0.05773713624267179,False,Left Foot,Free Kick,0,0,0,Normal
-7.83134726595622,0.057644595024788595,False,Head,Open Play,0,1,3,Normal
-26.633249895572263,0.07008313888239406,False,Right Foot,Open Play,0,0,1,Normal
-20.355343278854324,0.06256802257106113,False,Left Foot,Open Play,1,0,2,Half Volley
-32.33960420289649,0.07239603730093071,False,Right Foot,Open Play,1,0,2,Normal
-32.794054339163374,0.07346717133492628,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879636,Giuseppe Rossi,Fiorentina,8.78464569575802,0.056853675004755834,False,Left Foot,Open Play,1,0,4,Normal
+3879636,Borja Valero Iglesias,Fiorentina,7.531268153505097,0.057257979477737475,True,Right Foot,Open Play,0,0,4,Normal
+3879636,Karim Laribi,Sassuolo,29.06888370749727,0.06370148427024852,False,Right Foot,Open Play,1,0,2,Normal
+3879636,Federico Bernardeschi,Fiorentina,14.805404418657394,0.06062841657051049,False,Left Foot,Open Play,1,0,2,Volley
+3879636,Karim Laribi,Sassuolo,22.302017845925956,0.06429413919483089,False,Right Foot,Open Play,0,0,3,Normal
+3879636,Giuseppe Rossi,Fiorentina,21.561539833694628,0.05931134383426101,False,Left Foot,Open Play,0,0,4,Normal
+3879636,Borja Valero Iglesias,Fiorentina,38.870297143191486,0.080071547083858,False,Right Foot,Open Play,0,1,1,Normal
+3879636,Josip Iličić,Fiorentina,15.913830462839549,0.05525206715182735,False,Right Foot,Open Play,0,0,1,Normal
+3879636,Facundo Sebastián Roncaglia,Fiorentina,33.39236439667009,0.06144416135978734,False,Right Foot,Open Play,1,0,0,Normal
+3879636,Giuseppe Rossi,Fiorentina,16.69760461862719,0.06363193797187808,False,Left Foot,Open Play,1,1,2,Normal
+3879636,Milan Badelj,Fiorentina,24.67164364204379,0.0678455310059923,False,Right Foot,Open Play,0,0,1,Normal
+3879636,Nicola Sansone,Sassuolo,32.708561570328946,0.06054129507010501,False,Right Foot,Free Kick,0,0,0,Normal
+3879636,Sergio Floccari,Sassuolo,12.734991166074673,0.06121509512079033,False,Right Foot,Open Play,1,0,2,Volley
+3879636,Sergio Floccari,Sassuolo,5.824087911424409,0.057496210736139516,True,Head,Open Play,0,1,4,Normal
+3879636,Karim Laribi,Sassuolo,32.005624505702116,0.0685736684497503,False,Right Foot,Open Play,0,0,1,Normal
+3879636,Federico Bernardeschi,Fiorentina,27.280945731407478,0.058844824641375464,False,Left Foot,Open Play,0,0,1,Normal
+3879636,Francesco Magnanelli,Sassuolo,33.402395123703336,0.06989801346283066,False,Right Foot,Open Play,0,0,1,Normal
+3879636,Sergio Floccari,Sassuolo,25.959969183340718,0.056974862973741276,False,Right Foot,Open Play,0,1,2,Normal
+3879636,Nikola Kalinić,Fiorentina,23.678260071213003,0.06702732739028351,False,Right Foot,Open Play,0,1,2,Normal
+3879636,Sergio Floccari,Sassuolo,20.71545316907163,0.0659997863716265,False,Right Foot,Open Play,0,0,4,Normal
+3879636,Nicola Sansone,Sassuolo,21.30023474049054,0.05932979572081217,False,Right Foot,Open Play,1,0,2,Volley
+3879636,Gregoire Defrel,Sassuolo,21.639085008382402,0.053775909667023024,False,Left Foot,Open Play,0,0,1,Normal
+3879636,Matías Vecino Falero,Fiorentina,27.305860176892427,0.06081625187965347,False,Right Foot,Open Play,1,0,0,Normal
+3879636,Manuel Pasqual,Fiorentina,20.678733036624852,0.06398909667188857,False,Left Foot,Open Play,1,0,1,Half Volley
+3879636,Gregoire Defrel,Sassuolo,20.83386665984018,0.06090089788676163,False,Left Foot,Open Play,0,0,1,Normal
+3879636,Simone Missiroli,Sassuolo,20.435263639111685,0.06511989575472286,False,Right Foot,Open Play,0,0,1,Normal
+3879636,Sergio Floccari,Sassuolo,5.948108943185224,0.05706667505134623,False,Left Foot,Open Play,0,0,2,Half Volley
+3879636,Nikola Kalinić,Fiorentina,24.200206610688266,0.06510305146357964,False,Right Foot,Open Play,0,1,3,Normal
+3879636,Josip Iličić,Fiorentina,25.964976410541947,0.05773713624267179,False,Left Foot,Free Kick,0,0,0,Normal
+3879636,Simone Missiroli,Sassuolo,7.83134726595622,0.057644595024788595,False,Head,Open Play,0,1,3,Normal
+3879636,Marcos Alonso Mendoza,Fiorentina,26.633249895572263,0.07008313888239406,False,Right Foot,Open Play,0,0,1,Normal
+3879636,Joan Verdú Fernández,Fiorentina,20.355343278854324,0.06256802257106113,False,Left Foot,Open Play,1,0,2,Half Volley
+3879636,Antonio Floro Flores,Sassuolo,32.33960420289649,0.07239603730093071,False,Right Foot,Open Play,1,0,2,Normal
+3879636,Francesco Magnanelli,Sassuolo,32.794054339163374,0.07346717133492628,False,Right Foot,Open Play,0,0,1,Normal

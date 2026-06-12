@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.504284840006958,0.0588645886044573,False,Head,Open Play,0,0,4,Normal
-8.215229759416347,0.05888796010617996,False,Right Foot,Open Play,1,0,2,Normal
-8.761849119906143,0.05917019250853967,True,Left Foot,Open Play,0,0,1,Half Volley
-21.066086489901256,0.05823676170040058,False,Right Foot,Open Play,0,0,2,Normal
-9.693296652842108,0.05953098105745964,False,Head,Open Play,0,0,1,Normal
-21.371476317746513,0.0658682959792156,False,Left Foot,Open Play,0,0,2,Normal
-12.758134659894454,0.05785719953877708,False,Left Foot,Open Play,1,1,1,Half Volley
-32.301238366353694,0.07107170789096492,False,Left Foot,Open Play,0,0,0,Normal
-22.02725584361338,0.06663095478204051,False,Left Foot,Open Play,0,0,2,Normal
-16.429546554911365,0.06284584288320685,False,Left Foot,Open Play,0,0,2,Normal
-25.553864678361276,0.05778904231489197,False,Right Foot,Open Play,0,0,1,Normal
-14.32829368766567,0.06022398047494936,False,Head,Open Play,0,1,1,Normal
-10.200490184299971,0.05881103757271212,False,Head,Open Play,0,1,5,Normal
-8.996110270555826,0.058549315712704685,False,Head,Open Play,0,0,2,Normal
-32.31485726411305,0.07301836921657318,False,Right Foot,Open Play,0,1,1,Normal
-11.258774356030056,0.058320814367417616,False,Left Foot,Open Play,1,1,2,Volley
-14.67310464761974,0.06166841371502961,False,Left Foot,Open Play,0,0,1,Normal
-18.189282558693737,0.06430691208022113,False,Right Foot,Open Play,0,1,2,Normal
-22.051077071199945,0.057121531504388354,False,Left Foot,Open Play,0,0,2,Normal
-7.375635565834309,0.058327486885460716,False,Other,Open Play,0,1,3,Normal
-32.00140621910231,0.06910448173837454,False,Right Foot,Open Play,0,0,1,Normal
-32.60981447355996,0.06338646455168419,False,Right Foot,Open Play,0,0,1,Normal
-31.405731960901665,0.06896673000060562,False,Left Foot,Free Kick,0,0,0,Normal
-7.400000000000002,0.05366526665736254,False,Head,Open Play,0,1,1,Normal
-16.37467556930518,0.059487768888423095,False,Head,Open Play,0,1,2,Normal
-12.103718436910205,0.06095612876170731,False,Right Foot,Open Play,0,1,4,Normal
-12.169634341261032,0.06009710305533583,False,Right Foot,Open Play,1,0,4,Normal
-28.72507615307573,0.07155271238555518,False,Right Foot,Open Play,0,0,2,Normal
-21.260761980700508,0.06173951889742476,True,Right Foot,Open Play,1,0,2,Normal
-19.475625792256324,0.05588472964748694,False,Right Foot,Open Play,0,1,3,Normal
-16.633099530754937,0.05591062672873372,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900561,Renato Civelli,Lille,10.504284840006958,0.0588645886044573,False,Head,Open Play,0,0,4,Normal
+3900561,Martin Braithwaite Christensen,Toulouse,8.215229759416347,0.05888796010617996,False,Right Foot,Open Play,1,0,2,Normal
+3900561,Wissam Ben Yedder,Toulouse,8.761849119906143,0.05917019250853967,True,Left Foot,Open Play,0,0,1,Half Volley
+3900561,Martin Braithwaite Christensen,Toulouse,21.066086489901256,0.05823676170040058,False,Right Foot,Open Play,0,0,2,Normal
+3900561,Wissam Ben Yedder,Toulouse,9.693296652842108,0.05953098105745964,False,Head,Open Play,0,0,1,Normal
+3900561,Sofiane Boufal,Lille,21.371476317746513,0.0658682959792156,False,Left Foot,Open Play,0,0,2,Normal
+3900561,Yassine Benzia,Lille,12.758134659894454,0.05785719953877708,False,Left Foot,Open Play,1,1,1,Half Volley
+3900561,Éric Bauthéac,Lille,32.301238366353694,0.07107170789096492,False,Left Foot,Open Play,0,0,0,Normal
+3900561,Sofiane Boufal,Lille,22.02725584361338,0.06663095478204051,False,Left Foot,Open Play,0,0,2,Normal
+3900561,Yassine Benzia,Lille,16.429546554911365,0.06284584288320685,False,Left Foot,Open Play,0,0,2,Normal
+3900561,Óscar Guido Trejo,Toulouse,25.553864678361276,0.05778904231489197,False,Right Foot,Open Play,0,0,1,Normal
+3900561,Éric Bauthéac,Lille,14.32829368766567,0.06022398047494936,False,Head,Open Play,0,1,1,Normal
+3900561,Renato Civelli,Lille,10.200490184299971,0.05881103757271212,False,Head,Open Play,0,1,5,Normal
+3900561,Djibril Sidibé,Lille,8.996110270555826,0.058549315712704685,False,Head,Open Play,0,0,2,Normal
+3900561,Sofiane Boufal,Lille,32.31485726411305,0.07301836921657318,False,Right Foot,Open Play,0,1,1,Normal
+3900561,Tongo Hamed Doumbia,Toulouse,11.258774356030056,0.058320814367417616,False,Left Foot,Open Play,1,1,2,Volley
+3900561,Martin Braithwaite Christensen,Toulouse,14.67310464761974,0.06166841371502961,False,Left Foot,Open Play,0,0,1,Normal
+3900561,Djibril Sidibé,Lille,18.189282558693737,0.06430691208022113,False,Right Foot,Open Play,0,1,2,Normal
+3900561,Mounir Obbadi,Lille,22.051077071199945,0.057121531504388354,False,Left Foot,Open Play,0,0,2,Normal
+3900561,Yassine Benzia,Lille,7.375635565834309,0.058327486885460716,False,Other,Open Play,0,1,3,Normal
+3900561,Florent Balmont,Lille,32.00140621910231,0.06910448173837454,False,Right Foot,Open Play,0,0,1,Normal
+3900561,Florent Balmont,Lille,32.60981447355996,0.06338646455168419,False,Right Foot,Open Play,0,0,1,Normal
+3900561,Éric Bauthéac,Lille,31.405731960901665,0.06896673000060562,False,Left Foot,Free Kick,0,0,0,Normal
+3900561,Benjamin Pavard,Lille,7.400000000000002,0.05366526665736254,False,Head,Open Play,0,1,1,Normal
+3900561,Gadji Celi Carmen Junior Tallo,Lille,16.37467556930518,0.059487768888423095,False,Head,Open Play,0,1,2,Normal
+3900561,Mounir Obbadi,Lille,12.103718436910205,0.06095612876170731,False,Right Foot,Open Play,0,1,4,Normal
+3900561,Éric Bauthéac,Lille,12.169634341261032,0.06009710305533583,False,Right Foot,Open Play,1,0,4,Normal
+3900561,Djibril Sidibé,Lille,28.72507615307573,0.07155271238555518,False,Right Foot,Open Play,0,0,2,Normal
+3900561,Sofiane Boufal,Lille,21.260761980700508,0.06173951889742476,True,Right Foot,Open Play,1,0,2,Normal
+3900561,Éric Bauthéac,Lille,19.475625792256324,0.05588472964748694,False,Right Foot,Open Play,0,1,3,Normal
+3900561,Éric Bauthéac,Lille,16.633099530754937,0.05591062672873372,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.062008607367353,0.05354542519124654,False,Head,Open Play,0,0,1,Normal
-18.83666637173362,0.06494093371867742,False,Right Foot,Open Play,0,0,2,Normal
-20.924626639440906,0.06622344062154732,False,Right Foot,Open Play,0,0,2,Normal
-26.375936002348805,0.06707495941601078,False,Left Foot,Open Play,0,0,1,Normal
-24.824383174612816,0.06480098199878974,False,Right Foot,Open Play,1,0,0,Volley
-28.222685910451546,0.07081438193522138,False,Right Foot,Open Play,0,0,0,Normal
-19.804039991880444,0.06317381306069754,False,Left Foot,Open Play,0,0,1,Normal
-16.72423391369542,0.06197020609242093,False,Right Foot,Open Play,0,0,3,Volley
-10.580170130957253,0.05851433496499914,False,Right Foot,Open Play,0,0,1,Half Volley
-16.07762420259909,0.05553349995275311,False,Right Foot,Open Play,0,0,3,Normal
-30.71677066359679,0.06558413866395452,False,Right Foot,Open Play,0,0,1,Normal
-12.267436570041847,0.053602236069528096,False,Right Foot,Open Play,0,0,2,Normal
-14.241488686229406,0.06153473753702015,False,Right Foot,Open Play,1,0,1,Normal
-35.22044860588803,0.07136655275802364,False,Right Foot,Open Play,0,0,1,Normal
-8.723531395025756,0.05859325253054393,False,Head,Open Play,0,1,3,Normal
-7.4946647690206945,0.058164202450395254,False,Left Foot,Open Play,1,0,5,Volley
-21.220744567521663,0.054993467009735716,False,Left Foot,Open Play,0,0,0,Normal
-24.858197842965204,0.06450340960941446,False,Left Foot,Open Play,0,0,1,Normal
-23.098268333362135,0.06607694416654775,False,Right Foot,Free Kick,0,0,0,Normal
-25.9532271596424,0.06894858667902519,False,Right Foot,Open Play,0,0,2,Normal
-23.716871631815188,0.06318260807050352,False,Right Foot,Open Play,0,0,2,Normal
-23.076611536358627,0.06688678674460856,False,Left Foot,Open Play,1,0,1,Normal
-17.93014221917941,0.06380629590323803,False,Left Foot,Open Play,1,0,2,Normal
-20.39436196599442,0.057260302500123705,False,Right Foot,Open Play,0,0,3,Half Volley
-8.741853350405734,0.05886726970268116,False,Right Foot,Open Play,1,0,2,Half Volley
-5.2630789467763,0.055414055674984454,False,Head,Open Play,0,1,5,Normal
-24.539356144772828,0.06087853609760005,True,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754232,Anthony Martial,Manchester United,9.062008607367353,0.05354542519124654,False,Head,Open Play,0,0,1,Normal
+3754232,Odion Jude Ighalo,Watford,18.83666637173362,0.06494093371867742,False,Right Foot,Open Play,0,0,2,Normal
+3754232,Memphis Depay,Manchester United,20.924626639440906,0.06622344062154732,False,Right Foot,Open Play,0,0,2,Normal
+3754232,Odion Jude Ighalo,Watford,26.375936002348805,0.06707495941601078,False,Left Foot,Open Play,0,0,1,Normal
+3754232,Morgan Schneiderlin,Manchester United,24.824383174612816,0.06480098199878974,False,Right Foot,Open Play,1,0,0,Volley
+3754232,Memphis Depay,Manchester United,28.222685910451546,0.07081438193522138,False,Right Foot,Open Play,0,0,0,Normal
+3754232,José Holebas,Watford,19.804039991880444,0.06317381306069754,False,Left Foot,Open Play,0,0,1,Normal
+3754232,Sebastian Prödl,Watford,16.72423391369542,0.06197020609242093,False,Right Foot,Open Play,0,0,3,Volley
+3754232,Odion Jude Ighalo,Watford,10.580170130957253,0.05851433496499914,False,Right Foot,Open Play,0,0,1,Half Volley
+3754232,Anthony Martial,Manchester United,16.07762420259909,0.05553349995275311,False,Right Foot,Open Play,0,0,3,Normal
+3754232,Almen Abdi,Watford,30.71677066359679,0.06558413866395452,False,Right Foot,Open Play,0,0,1,Normal
+3754232,Odion Jude Ighalo,Watford,12.267436570041847,0.053602236069528096,False,Right Foot,Open Play,0,0,2,Normal
+3754232,Odion Jude Ighalo,Watford,14.241488686229406,0.06153473753702015,False,Right Foot,Open Play,1,0,1,Normal
+3754232,Etienne Capoue,Watford,35.22044860588803,0.07136655275802364,False,Right Foot,Open Play,0,0,1,Normal
+3754232,Sebastian Prödl,Watford,8.723531395025756,0.05859325253054393,False,Head,Open Play,0,1,3,Normal
+3754232,Miguel Ángel Britos Cabrera,Watford,7.4946647690206945,0.058164202450395254,False,Left Foot,Open Play,1,0,5,Volley
+3754232,Odion Jude Ighalo,Watford,21.220744567521663,0.054993467009735716,False,Left Foot,Open Play,0,0,0,Normal
+3754232,Juan Manuel Mata García,Manchester United,24.858197842965204,0.06450340960941446,False,Left Foot,Open Play,0,0,1,Normal
+3754232,Memphis Depay,Manchester United,23.098268333362135,0.06607694416654775,False,Right Foot,Free Kick,0,0,0,Normal
+3754232,Memphis Depay,Manchester United,25.9532271596424,0.06894858667902519,False,Right Foot,Open Play,0,0,2,Normal
+3754232,Ander Herrera Agüera,Manchester United,23.716871631815188,0.06318260807050352,False,Right Foot,Open Play,0,0,2,Normal
+3754232,Juan Manuel Mata García,Manchester United,23.076611536358627,0.06688678674460856,False,Left Foot,Open Play,1,0,1,Normal
+3754232,Juan Manuel Mata García,Manchester United,17.93014221917941,0.06380629590323803,False,Left Foot,Open Play,1,0,2,Normal
+3754232,Memphis Depay,Manchester United,20.39436196599442,0.057260302500123705,False,Right Foot,Open Play,0,0,3,Half Volley
+3754232,Nordin Amrabat,Watford,8.741853350405734,0.05886726970268116,False,Right Foot,Open Play,1,0,2,Half Volley
+3754232,Sebastian Prödl,Watford,5.2630789467763,0.055414055674984454,False,Head,Open Play,0,1,5,Normal
+3754232,Juan Manuel Mata García,Manchester United,24.539356144772828,0.06087853609760005,True,Left Foot,Free Kick,0,0,0,Normal

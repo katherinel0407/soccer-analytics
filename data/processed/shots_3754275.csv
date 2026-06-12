@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.760711763914586,0.06302959986279799,False,Left Foot,Open Play,0,0,0,Normal
-27.96515689210414,0.07113298260288234,False,Right Foot,Open Play,0,0,1,Normal
-4.5,0.05657974570702806,False,Head,Open Play,0,1,2,Normal
-23.68564966387876,0.060719428991713724,False,Left Foot,Open Play,0,0,1,Half Volley
-26.94086115921316,0.07006535633970849,False,Right Foot,Open Play,0,0,1,Normal
-30.89741089476593,0.07338972629195954,False,Left Foot,Open Play,0,0,1,Normal
-23.851624682608097,0.06216696265464394,False,Right Foot,Open Play,1,0,2,Half Volley
-32.67414880299102,0.06791094004188829,False,Left Foot,Free Kick,0,0,0,Normal
-7.829431652425347,0.058628302575077146,False,Head,Open Play,0,1,5,Normal
-26.800186566514796,0.0700317128339146,False,Left Foot,Free Kick,0,0,0,Normal
-8.810221336606707,0.056607915347768066,False,Head,Open Play,0,1,4,Normal
-31.36510800236466,0.05855199881829811,False,Left Foot,Open Play,1,0,1,Normal
-19.02761151589973,0.06327813235660168,False,Left Foot,Open Play,0,0,0,Normal
-23.686282950264694,0.06808799010039153,False,Right Foot,Open Play,0,0,2,Normal
-23.801890681204295,0.06500721433877865,False,Right Foot,Open Play,0,0,4,Half Volley
-16.465721970202214,0.06338868189765123,False,Right Foot,Open Play,1,1,3,Normal
-22.75016483456768,0.05665066614597636,False,Right Foot,Open Play,0,0,3,Normal
-26.587591090582084,0.06800992007417819,False,Right Foot,Open Play,1,0,0,Half Volley
-21.42825237857722,0.058759988708100494,False,Left Foot,Open Play,0,0,2,Normal
-30.489670381950667,0.05465822557141758,True,Right Foot,Open Play,1,0,0,Half Volley
-12.97998459167036,0.05394613271868274,False,Right Foot,Open Play,1,1,2,Volley
-26.71516423307182,0.05951671881426424,False,Right Foot,Open Play,0,0,1,Normal
-9.319334740205438,0.05947280690866333,True,Left Foot,Open Play,1,0,1,Normal
-29.681644159311656,0.07195294235673491,False,Right Foot,Open Play,0,0,2,Normal
-30.014829668015775,0.06152971793413466,False,Right Foot,Open Play,0,0,0,Normal
-21.99386278033033,0.054809504884015696,False,Right Foot,Open Play,0,0,2,Normal
-26.36967955815922,0.06011963139639437,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754275,Riyad Mahrez,Leicester City,22.760711763914586,0.06302959986279799,False,Left Foot,Open Play,0,0,0,Normal
+3754275,Emre Can,Liverpool,27.96515689210414,0.07113298260288234,False,Right Foot,Open Play,0,0,1,Normal
+3754275,Shinji Okazaki,Leicester City,4.5,0.05657974570702806,False,Head,Open Play,0,1,2,Normal
+3754275,Riyad Mahrez,Leicester City,23.68564966387876,0.060719428991713724,False,Left Foot,Open Play,0,0,1,Half Volley
+3754275,James Philip Milner,Liverpool,26.94086115921316,0.07006535633970849,False,Right Foot,Open Play,0,0,1,Normal
+3754275,Alberto Moreno Pérez,Liverpool,30.89741089476593,0.07338972629195954,False,Left Foot,Open Play,0,0,1,Normal
+3754275,Danny Simpson,Leicester City,23.851624682608097,0.06216696265464394,False,Right Foot,Open Play,1,0,2,Half Volley
+3754275,Christian Fuchs,Leicester City,32.67414880299102,0.06791094004188829,False,Left Foot,Free Kick,0,0,0,Normal
+3754275,Robert Huth,Leicester City,7.829431652425347,0.058628302575077146,False,Head,Open Play,0,1,5,Normal
+3754275,Riyad Mahrez,Leicester City,26.800186566514796,0.0700317128339146,False,Left Foot,Free Kick,0,0,0,Normal
+3754275,Dejan Lovren,Liverpool,8.810221336606707,0.056607915347768066,False,Head,Open Play,0,1,4,Normal
+3754275,Riyad Mahrez,Leicester City,31.36510800236466,0.05855199881829811,False,Left Foot,Open Play,1,0,1,Normal
+3754275,Alberto Moreno Pérez,Liverpool,19.02761151589973,0.06327813235660168,False,Left Foot,Open Play,0,0,0,Normal
+3754275,Emre Can,Liverpool,23.686282950264694,0.06808799010039153,False,Right Foot,Open Play,0,0,2,Normal
+3754275,Emre Can,Liverpool,23.801890681204295,0.06500721433877865,False,Right Foot,Open Play,0,0,4,Half Volley
+3754275,Emre Can,Liverpool,16.465721970202214,0.06338868189765123,False,Right Foot,Open Play,1,1,3,Normal
+3754275,Shinji Okazaki,Leicester City,22.75016483456768,0.05665066614597636,False,Right Foot,Open Play,0,0,3,Normal
+3754275,Lucas Pezzini Leiva,Liverpool,26.587591090582084,0.06800992007417819,False,Right Foot,Open Play,1,0,0,Half Volley
+3754275,Roberto Firmino Barbosa de Oliveira,Liverpool,21.42825237857722,0.058759988708100494,False,Left Foot,Open Play,0,0,2,Normal
+3754275,Jamie Vardy,Leicester City,30.489670381950667,0.05465822557141758,True,Right Foot,Open Play,1,0,0,Half Volley
+3754275,Emre Can,Liverpool,12.97998459167036,0.05394613271868274,False,Right Foot,Open Play,1,1,2,Volley
+3754275,Shinji Okazaki,Leicester City,26.71516423307182,0.05951671881426424,False,Right Foot,Open Play,0,0,1,Normal
+3754275,Jamie Vardy,Leicester City,9.319334740205438,0.05947280690866333,True,Left Foot,Open Play,1,0,1,Normal
+3754275,Adam David Lallana,Liverpool,29.681644159311656,0.07195294235673491,False,Right Foot,Open Play,0,0,2,Normal
+3754275,Roberto Firmino Barbosa de Oliveira,Liverpool,30.014829668015775,0.06152971793413466,False,Right Foot,Open Play,0,0,0,Normal
+3754275,Nathaniel Edwin Clyne,Liverpool,21.99386278033033,0.054809504884015696,False,Right Foot,Open Play,0,0,2,Normal
+3754275,Riyad Mahrez,Leicester City,26.36967955815922,0.06011963139639437,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.078546139112806,0.05487485358673729,False,Right Foot,Open Play,1,0,2,Volley
-30.72930197710322,0.06353041425430038,False,Right Foot,Free Kick,0,0,0,Normal
-26.994814316827586,0.06851306699064856,False,Right Foot,Free Kick,0,0,0,Normal
-22.242751628339512,0.06114461808375168,False,Right Foot,Open Play,1,0,0,Normal
-35.90055709874152,0.07084145777152205,True,Right Foot,Open Play,0,1,1,Normal
-28.328254446753334,0.06300176669571261,False,Right Foot,Open Play,1,0,1,Volley
-24.613004692641645,0.06563426240772,False,Right Foot,Open Play,0,0,3,Normal
-8.918520056601322,0.05924847255619087,False,Left Foot,Open Play,0,1,3,Normal
-16.236070953281775,0.057646945600486624,False,Left Foot,Open Play,0,1,3,Normal
-34.1422026237324,0.05662215559796508,False,Right Foot,Open Play,0,0,1,Normal
-16.18394265931513,0.06322741078195246,False,Left Foot,Open Play,0,0,2,Normal
-18.117670931993437,0.06438362692399105,False,Right Foot,Open Play,0,0,4,Normal
-9.430270409696634,0.056088916416616064,False,Right Foot,Open Play,1,0,3,Volley
-36.84901626909462,0.07271735766219534,False,Right Foot,Free Kick,0,0,0,Normal
-24.870866490735697,0.050882147389849794,False,Right Foot,Open Play,0,0,2,Normal
-26.26061690059851,0.05603464514035895,False,Right Foot,Open Play,0,0,2,Normal
-28.234730386529286,0.06774645666216957,False,Right Foot,Free Kick,0,0,0,Normal
-19.00736699282675,0.06370899527938964,False,Right Foot,Open Play,1,0,3,Normal
-13.510366390294525,0.054989449186488876,False,Right Foot,Open Play,1,0,1,Normal
-13.951702405083042,0.05476623770290069,False,Right Foot,Open Play,0,0,3,Normal
-22.14610575247938,0.06620977798876344,False,Left Foot,Open Play,0,0,3,Normal
-13.551752654177246,0.057475010436919764,False,Left Foot,Open Play,1,0,0,Lob
-11.621101496846158,0.056379130337806206,True,Left Foot,Open Play,0,0,3,Normal
-10.660675400742669,0.060186802425094534,False,Head,Open Play,0,1,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68340,Rubén González Rocha,Racing Santander,9.078546139112806,0.05487485358673729,False,Right Foot,Open Play,1,0,2,Volley
+68340,Víctor Javier Añino Bermúdez,Racing Santander,30.72930197710322,0.06353041425430038,False,Right Foot,Free Kick,0,0,0,Normal
+68340,Ronaldo de Assis Moreira,Barcelona,26.994814316827586,0.06851306699064856,False,Right Foot,Free Kick,0,0,0,Normal
+68340,Felipe Melo de Carvalho,Racing Santander,22.242751628339512,0.06114461808375168,False,Right Foot,Open Play,1,0,0,Normal
+68340,Samuel Eto''o Fils,Barcelona,35.90055709874152,0.07084145777152205,True,Right Foot,Open Play,0,1,1,Normal
+68340,Ronaldo de Assis Moreira,Barcelona,28.328254446753334,0.06300176669571261,False,Right Foot,Open Play,1,0,1,Volley
+68340,Anderson Luís de Souza,Barcelona,24.613004692641645,0.06563426240772,False,Right Foot,Open Play,0,0,3,Normal
+68340,Samuel Eto''o Fils,Barcelona,8.918520056601322,0.05924847255619087,False,Left Foot,Open Play,0,1,3,Normal
+68340,Lionel Andrés Messi Cuccittini,Barcelona,16.236070953281775,0.057646945600486624,False,Left Foot,Open Play,0,1,3,Normal
+68340,Xavier Hernández Creus,Barcelona,34.1422026237324,0.05662215559796508,False,Right Foot,Open Play,0,0,1,Normal
+68340,Ronaldo de Assis Moreira,Barcelona,16.18394265931513,0.06322741078195246,False,Left Foot,Open Play,0,0,2,Normal
+68340,Ronaldo de Assis Moreira,Barcelona,18.117670931993437,0.06438362692399105,False,Right Foot,Open Play,0,0,4,Normal
+68340,Lionel Andrés Messi Cuccittini,Barcelona,9.430270409696634,0.056088916416616064,False,Right Foot,Open Play,1,0,3,Volley
+68340,José Edmílson Gomes de Moraes,Barcelona,36.84901626909462,0.07271735766219534,False,Right Foot,Free Kick,0,0,0,Normal
+68340,Juan José Expósito Ruíz,Racing Santander,24.870866490735697,0.050882147389849794,False,Right Foot,Open Play,0,0,2,Normal
+68340,Nikola Žigić,Racing Santander,26.26061690059851,0.05603464514035895,False,Right Foot,Open Play,0,0,2,Normal
+68340,Ronaldo de Assis Moreira,Barcelona,28.234730386529286,0.06774645666216957,False,Right Foot,Free Kick,0,0,0,Normal
+68340,Sylvio Mendes Campos Junior,Barcelona,19.00736699282675,0.06370899527938964,False,Right Foot,Open Play,1,0,3,Normal
+68340,José Edmílson Gomes de Moraes,Barcelona,13.510366390294525,0.054989449186488876,False,Right Foot,Open Play,1,0,1,Normal
+68340,Anderson Luís de Souza,Barcelona,13.951702405083042,0.05476623770290069,False,Right Foot,Open Play,0,0,3,Normal
+68340,Felipe Melo de Carvalho,Racing Santander,22.14610575247938,0.06620977798876344,False,Left Foot,Open Play,0,0,3,Normal
+68340,David Aganzo Méndez,Racing Santander,13.551752654177246,0.057475010436919764,False,Left Foot,Open Play,1,0,0,Lob
+68340,Ludovic Giuly,Barcelona,11.621101496846158,0.056379130337806206,True,Left Foot,Open Play,0,0,3,Normal
+68340,David Aganzo Méndez,Racing Santander,10.660675400742669,0.060186802425094534,False,Head,Open Play,0,1,2,Normal
+68340,Ronaldo de Assis Moreira,Barcelona,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal

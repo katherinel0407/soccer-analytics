@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.174139616173248,0.056185245999738065,False,Head,Open Play,0,0,4,Normal
-25.5,0.058448438649175455,False,Left Foot,Open Play,1,0,2,Normal
-16.82408987137194,0.06129155075445668,False,Left Foot,Open Play,0,1,3,Normal
-27.96515689210414,0.07113298260288234,False,Left Foot,Open Play,1,0,0,Half Volley
-33.32641594891356,0.06572835001936461,False,Right Foot,Free Kick,0,0,0,Normal
-12.403628501370079,0.05965047728893995,False,Head,Open Play,0,1,1,Normal
-26.140007651108284,0.06893003751141538,False,Left Foot,Open Play,0,0,1,Normal
-29.362050337127346,0.058348815433937246,False,Right Foot,Open Play,0,0,1,Half Volley
-39.547060573448434,0.07914926168047048,False,Right Foot,Open Play,0,0,0,Normal
-9.360555539069255,0.059265018100596575,False,Left Foot,Open Play,1,1,1,Normal
-27.922929645723062,0.0648494917939622,False,Right Foot,Free Kick,0,0,0,Normal
-6.637017402418048,0.055963955735455796,True,Right Foot,Open Play,1,0,0,Normal
-23.617789905069436,0.05438145392004054,False,Right Foot,Open Play,0,0,1,Normal
-24.220652344641753,0.06457034200099472,False,Right Foot,Open Play,0,0,1,Half Volley
-10.912378292562996,0.054867937119149175,False,Right Foot,Open Play,1,0,1,Volley
-34.103665492143215,0.06970825965246548,False,Left Foot,Open Play,0,0,1,Normal
-24.807257002740144,0.06563504400233461,False,Right Foot,Open Play,0,1,1,Normal
-9.364827814754522,0.05884619173826519,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879587,Ivan Perišić,Inter Milan,6.174139616173248,0.056185245999738065,False,Head,Open Play,0,0,4,Normal
+3879587,Marcelo Brozović,Inter Milan,25.5,0.058448438649175455,False,Left Foot,Open Play,1,0,2,Normal
+3879587,Alex Ferrari,Bologna,16.82408987137194,0.06129155075445668,False,Left Foot,Open Play,0,1,3,Normal
+3879587,Geoffrey Kondogbia,Inter Milan,27.96515689210414,0.07113298260288234,False,Left Foot,Open Play,1,0,0,Half Volley
+3879587,Adem Ljajić,Inter Milan,33.32641594891356,0.06572835001936461,False,Right Foot,Free Kick,0,0,0,Normal
+3879587,Mauro Emanuel Icardi Rivero,Inter Milan,12.403628501370079,0.05965047728893995,False,Head,Open Play,0,1,1,Normal
+3879587,Luca Rizzo,Bologna,26.140007651108284,0.06893003751141538,False,Left Foot,Open Play,0,0,1,Normal
+3879587,Marcelo Brozović,Inter Milan,29.362050337127346,0.058348815433937246,False,Right Foot,Open Play,0,0,1,Half Volley
+3879587,Amadou Diawara,Bologna,39.547060573448434,0.07914926168047048,False,Right Foot,Open Play,0,0,0,Normal
+3879587,Ivan Perišić,Inter Milan,9.360555539069255,0.059265018100596575,False,Left Foot,Open Play,1,1,1,Normal
+3879587,Saphir Sliti Taïder,Bologna,27.922929645723062,0.0648494917939622,False,Right Foot,Free Kick,0,0,0,Normal
+3879587,Mauro Emanuel Icardi Rivero,Inter Milan,6.637017402418048,0.055963955735455796,True,Right Foot,Open Play,1,0,0,Normal
+3879587,Davide Santon,Inter Milan,23.617789905069436,0.05438145392004054,False,Right Foot,Open Play,0,0,1,Normal
+3879587,Mauro Emanuel Icardi Rivero,Inter Milan,24.220652344641753,0.06457034200099472,False,Right Foot,Open Play,0,0,1,Half Volley
+3879587,Mauro Emanuel Icardi Rivero,Inter Milan,10.912378292562996,0.054867937119149175,False,Right Foot,Open Play,1,0,1,Volley
+3879587,Saphir Sliti Taïder,Bologna,34.103665492143215,0.06970825965246548,False,Left Foot,Open Play,0,0,1,Normal
+3879587,Saphir Sliti Taïder,Bologna,24.807257002740144,0.06563504400233461,False,Right Foot,Open Play,0,1,1,Normal
+3879587,Mattia Destro,Bologna,9.364827814754522,0.05884619173826519,False,Right Foot,Open Play,1,0,1,Volley

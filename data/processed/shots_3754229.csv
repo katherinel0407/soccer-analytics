@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.722661669003205,0.0677164254178628,False,Right Foot,Open Play,0,0,1,Normal
-15.976545308670458,0.06219799602933111,False,Right Foot,Open Play,0,0,2,Normal
-26.320524310887127,0.06990694084680008,False,Right Foot,Free Kick,0,0,0,Normal
-25.723530084341068,0.06949451702107937,False,Left Foot,Open Play,0,0,0,Normal
-31.31932310890515,0.07355541367516664,False,Right Foot,Open Play,0,0,1,Normal
-15.851813776347484,0.06310835646905993,False,Right Foot,Open Play,1,0,1,Lob
-25.495097567963924,0.06887913452042413,False,Right Foot,Open Play,0,0,1,Half Volley
-23.603813251252433,0.05684421317601104,False,Right Foot,Open Play,0,0,1,Normal
-15.370100845472681,0.06284393091641483,False,Left Foot,Open Play,0,0,3,Normal
-9.078546139112808,0.05931564365270707,False,Left Foot,Open Play,1,0,3,Half Volley
-26.315394733881533,0.06003226060585452,False,Left Foot,Open Play,0,0,1,Normal
-12.015406776301832,0.05302779969225989,False,Right Foot,Open Play,1,0,2,Normal
-12.705904139414873,0.0603434839809489,False,Left Foot,Open Play,0,0,2,Normal
-19.281597444195338,0.06442188482615654,False,Right Foot,Open Play,1,0,1,Normal
-22.194819215303376,0.058102279154893736,False,Left Foot,Open Play,0,0,2,Normal
-23.574774654278247,0.05223684171129434,False,Right Foot,Open Play,0,0,0,Normal
-18.393477104669465,0.064199238017943,False,Right Foot,Open Play,1,0,1,Normal
-24.126748641290227,0.058126329977420475,False,Left Foot,Open Play,0,0,2,Normal
-25.963243248870125,0.06900915079230388,False,Right Foot,Open Play,1,0,1,Normal
-12.536347155371853,0.06060455802201462,False,Left Foot,Open Play,0,1,4,Normal
-23.974152748324595,0.060463354710103494,False,Right Foot,Open Play,0,0,1,Normal
-18.042449944505876,0.06420172302213471,False,Left Foot,Open Play,0,0,2,Normal
-19.649936386665473,0.06230320040757877,False,Left Foot,Open Play,0,0,2,Normal
-7.5584389922787585,0.05850254364413844,False,Left Foot,Open Play,1,0,2,Backheel
-8.57962703152066,0.05894598296614616,False,Head,Open Play,0,0,3,Normal
-11.244998888394782,0.05857668451642733,False,Right Foot,Open Play,1,1,2,Normal
-26.659519875646673,0.05554270663198953,False,Right Foot,Open Play,0,1,1,Normal
-10.601886624558853,0.05894040217365689,False,Right Foot,Open Play,0,1,2,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-4.879549159502345,0.05716497226564045,False,Head,Open Play,0,0,4,Normal
-20.53606583550024,0.061537873721181434,False,Left Foot,Open Play,1,0,2,Normal
-29.017236257093813,0.07154281582630573,False,Right Foot,Open Play,0,1,2,Normal
-33.27777035800325,0.061256266050196906,True,Right Foot,Open Play,0,0,0,Normal
-19.35691091057662,0.06034367914243684,False,Left Foot,Open Play,0,0,2,Normal
-11.493476410555681,0.05219804316414519,False,Right Foot,Open Play,0,0,3,Normal
-23.40085468524601,0.060604080117137395,False,Left Foot,Open Play,0,1,2,Normal
-22.380571931923456,0.06714261764141209,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754229,Pedro Eliezer Rodríguez Ledesma,Chelsea,24.722661669003205,0.0677164254178628,False,Right Foot,Open Play,0,0,1,Normal
+3754229,Pedro Eliezer Rodríguez Ledesma,Chelsea,15.976545308670458,0.06219799602933111,False,Right Foot,Open Play,0,0,2,Normal
+3754229,Francesc Fàbregas i Soler,Chelsea,26.320524310887127,0.06990694084680008,False,Right Foot,Free Kick,0,0,0,Normal
+3754229,Jamie Vardy,Leicester City,25.723530084341068,0.06949451702107937,False,Left Foot,Open Play,0,0,0,Normal
+3754229,Demarai Gray,Leicester City,31.31932310890515,0.07355541367516664,False,Right Foot,Open Play,0,0,1,Normal
+3754229,Jamie Vardy,Leicester City,15.851813776347484,0.06310835646905993,False,Right Foot,Open Play,1,0,1,Lob
+3754229,Demarai Gray,Leicester City,25.495097567963924,0.06887913452042413,False,Right Foot,Open Play,0,0,1,Half Volley
+3754229,Demarai Gray,Leicester City,23.603813251252433,0.05684421317601104,False,Right Foot,Open Play,0,0,1,Normal
+3754229,Bertrand Isidore Traoré,Chelsea,15.370100845472681,0.06284393091641483,False,Left Foot,Open Play,0,0,3,Normal
+3754229,Bertrand Isidore Traoré,Chelsea,9.078546139112808,0.05931564365270707,False,Left Foot,Open Play,1,0,3,Half Volley
+3754229,Bertrand Isidore Traoré,Chelsea,26.315394733881533,0.06003226060585452,False,Left Foot,Open Play,0,0,1,Normal
+3754229,Francesc Fàbregas i Soler,Chelsea,12.015406776301832,0.05302779969225989,False,Right Foot,Open Play,1,0,2,Normal
+3754229,Jamie Vardy,Leicester City,12.705904139414873,0.0603434839809489,False,Left Foot,Open Play,0,0,2,Normal
+3754229,Danny Drinkwater,Leicester City,19.281597444195338,0.06442188482615654,False,Right Foot,Open Play,1,0,1,Normal
+3754229,Eden Hazard,Chelsea,22.194819215303376,0.058102279154893736,False,Left Foot,Open Play,0,0,2,Normal
+3754229,Willian Borges da Silva,Chelsea,23.574774654278247,0.05223684171129434,False,Right Foot,Open Play,0,0,0,Normal
+3754229,Willian Borges da Silva,Chelsea,18.393477104669465,0.064199238017943,False,Right Foot,Open Play,1,0,1,Normal
+3754229,Nemanja Matić,Chelsea,24.126748641290227,0.058126329977420475,False,Left Foot,Open Play,0,0,2,Normal
+3754229,Francesc Fàbregas i Soler,Chelsea,25.963243248870125,0.06900915079230388,False,Right Foot,Open Play,1,0,1,Normal
+3754229,Abdul Rahman Baba,Chelsea,12.536347155371853,0.06060455802201462,False,Left Foot,Open Play,0,1,4,Normal
+3754229,Jamie Vardy,Leicester City,23.974152748324595,0.060463354710103494,False,Right Foot,Open Play,0,0,1,Normal
+3754229,Jeffrey Schlupp,Leicester City,18.042449944505876,0.06420172302213471,False,Left Foot,Open Play,0,0,2,Normal
+3754229,Christian Fuchs,Leicester City,19.649936386665473,0.06230320040757877,False,Left Foot,Open Play,0,0,2,Normal
+3754229,Shinji Okazaki,Leicester City,7.5584389922787585,0.05850254364413844,False,Left Foot,Open Play,1,0,2,Backheel
+3754229,Ruben Loftus-Cheek,Chelsea,8.57962703152066,0.05894598296614616,False,Head,Open Play,0,0,3,Normal
+3754229,Ruben Loftus-Cheek,Chelsea,11.244998888394782,0.05857668451642733,False,Right Foot,Open Play,1,1,2,Normal
+3754229,Danny Simpson,Leicester City,26.659519875646673,0.05554270663198953,False,Right Foot,Open Play,0,1,1,Normal
+3754229,Tammy Bakumo-Abraham,Chelsea,10.601886624558853,0.05894040217365689,False,Right Foot,Open Play,0,1,2,Normal
+3754229,Francesc Fàbregas i Soler,Chelsea,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+3754229,Shinji Okazaki,Leicester City,4.879549159502345,0.05716497226564045,False,Head,Open Play,0,0,4,Normal
+3754229,Riyad Mahrez,Leicester City,20.53606583550024,0.061537873721181434,False,Left Foot,Open Play,1,0,2,Normal
+3754229,N''Golo Kanté,Leicester City,29.017236257093813,0.07154281582630573,False,Right Foot,Open Play,0,1,2,Normal
+3754229,Danny Drinkwater,Leicester City,33.27777035800325,0.061256266050196906,True,Right Foot,Open Play,0,0,0,Normal
+3754229,Jeffrey Schlupp,Leicester City,19.35691091057662,0.06034367914243684,False,Left Foot,Open Play,0,0,2,Normal
+3754229,Jamie Vardy,Leicester City,11.493476410555681,0.05219804316414519,False,Right Foot,Open Play,0,0,3,Normal
+3754229,Jeffrey Schlupp,Leicester City,23.40085468524601,0.060604080117137395,False,Left Foot,Open Play,0,1,2,Normal
+3754229,Tammy Bakumo-Abraham,Chelsea,22.380571931923456,0.06714261764141209,False,Right Foot,Open Play,0,0,1,Normal

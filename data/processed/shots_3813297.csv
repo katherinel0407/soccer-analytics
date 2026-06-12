@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.237646832622683,0.058717270369305304,False,Right Foot,Open Play,1,0,2,Overhead Kick
-18.480530295421723,0.06466001333269343,False,Right Foot,Open Play,0,0,2,Normal
-42.79065318501226,0.061996141415024374,False,Right Foot,Open Play,0,0,1,Normal
-9.689685237405808,0.059589674321400506,True,Left Foot,Open Play,0,0,1,Normal
-18.400000000000006,0.06236772325593226,False,Right Foot,Open Play,0,0,3,Normal
-8.336066218546975,0.058522050101301896,True,Left Foot,Open Play,0,0,3,Half Volley
-20.300246303924485,0.053320839016442696,False,Right Foot,Open Play,1,0,1,Half Volley
-10.50047617967871,0.058934103740050786,True,Right Foot,Open Play,0,1,3,Normal
-10.822661410207749,0.059416423477016485,False,Head,Open Play,0,1,2,Normal
-25.02179050347916,0.05772514256582654,False,Right Foot,Open Play,0,0,1,Normal
-20.428656343479865,0.057663399775412655,True,Right Foot,Open Play,0,0,3,Normal
-37.06696642564644,0.06652997629183001,False,Right Foot,Free Kick,0,0,0,Normal
-15.930473941474563,0.06221172255178171,False,Right Foot,Open Play,0,0,3,Normal
-28.79201278132531,0.06599810204729424,False,Right Foot,Open Play,0,0,1,Normal
-18.506755523321747,0.05602773712961306,False,Right Foot,Open Play,0,0,1,Normal
-17.561605849124383,0.0633660755002353,False,Right Foot,Open Play,1,0,1,Normal
-13.118688958886091,0.060311506501954985,False,Head,Open Play,0,1,2,Normal
-18.817545004596113,0.06444197304866994,True,Right Foot,Open Play,0,0,1,Normal
-16.728717822953442,0.06276540495516882,False,Left Foot,Open Play,0,0,2,Normal
-18.8904737897174,0.06446975623754612,False,Left Foot,Open Play,1,0,1,Half Volley
-13.097327971765841,0.058047321028494574,False,Head,Open Play,0,0,1,Diving Header
-27.071202411418668,0.07047476374037608,False,Left Foot,Open Play,1,0,1,Half Volley
-41.901909264376016,0.0739339560383098,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813297,Deshorn Brown,NorthEast United,12.237646832622683,0.058717270369305304,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3813297,Deshorn Brown,NorthEast United,18.480530295421723,0.06466001333269343,False,Right Foot,Open Play,0,0,2,Normal
+3813297,Provat Lakra,NorthEast United,42.79065318501226,0.061996141415024374,False,Right Foot,Open Play,0,0,1,Normal
+3813297,Cleiton Augusto Oliveira Silva,Bengaluru,9.689685237405808,0.059589674321400506,True,Left Foot,Open Play,0,0,1,Normal
+3813297,Khassa Camara,NorthEast United,18.400000000000006,0.06236772325593226,False,Right Foot,Open Play,0,0,3,Normal
+3813297,Deshorn Brown,NorthEast United,8.336066218546975,0.058522050101301896,True,Left Foot,Open Play,0,0,3,Half Volley
+3813297,Udanta Kumam Singh,Bengaluru,20.300246303924485,0.053320839016442696,False,Right Foot,Open Play,1,0,1,Half Volley
+3813297,Mathias Coureur,NorthEast United,10.50047617967871,0.058934103740050786,True,Right Foot,Open Play,0,1,3,Normal
+3813297,Yroundu Musavu-King,Bengaluru,10.822661410207749,0.059416423477016485,False,Head,Open Play,0,1,2,Normal
+3813297,Mathias Coureur,NorthEast United,25.02179050347916,0.05772514256582654,False,Right Foot,Open Play,0,0,1,Normal
+3813297,Jayesh Dilip Rane,Bengaluru,20.428656343479865,0.057663399775412655,True,Right Foot,Open Play,0,0,3,Normal
+3813297,Cleiton Augusto Oliveira Silva,Bengaluru,37.06696642564644,0.06652997629183001,False,Right Foot,Free Kick,0,0,0,Normal
+3813297,Sunil Chhetri,Bengaluru,15.930473941474563,0.06221172255178171,False,Right Foot,Open Play,0,0,3,Normal
+3813297,Jayesh Dilip Rane,Bengaluru,28.79201278132531,0.06599810204729424,False,Right Foot,Open Play,0,0,1,Normal
+3813297,Jayesh Dilip Rane,Bengaluru,18.506755523321747,0.05602773712961306,False,Right Foot,Open Play,0,0,1,Normal
+3813297,Mathias Coureur,NorthEast United,17.561605849124383,0.0633660755002353,False,Right Foot,Open Play,1,0,1,Normal
+3813297,Sunil Chhetri,Bengaluru,13.118688958886091,0.060311506501954985,False,Head,Open Play,0,1,2,Normal
+3813297,Prince Vinny Ibara Doniama,Bengaluru,18.817545004596113,0.06444197304866994,True,Right Foot,Open Play,0,0,1,Normal
+3813297,Rochharzela Rochharzela,NorthEast United,16.728717822953442,0.06276540495516882,False,Left Foot,Open Play,0,0,2,Normal
+3813297,Deshorn Brown,NorthEast United,18.8904737897174,0.06446975623754612,False,Left Foot,Open Play,1,0,1,Half Volley
+3813297,Mathias Coureur,NorthEast United,13.097327971765841,0.058047321028494574,False,Head,Open Play,0,0,1,Diving Header
+3813297,Muhammad Ashique Kuruniyan,Bengaluru,27.071202411418668,0.07047476374037608,False,Left Foot,Open Play,1,0,1,Half Volley
+3813297,Mathias Coureur,NorthEast United,41.901909264376016,0.0739339560383098,False,Right Foot,Open Play,1,0,2,Half Volley

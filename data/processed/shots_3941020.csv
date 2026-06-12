@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.697079980784222,0.05285008592201436,False,Left Foot,Open Play,0,0,1,Half Volley
-8.452810183601661,0.05754109273338578,False,Head,Open Play,0,1,3,Normal
-23.515314159075142,0.06654350470937277,False,Right Foot,Free Kick,0,0,0,Normal
-33.094561486745825,0.06899748063583064,False,Right Foot,Free Kick,0,0,0,Normal
-31.42817207538485,0.07266382894720019,False,Right Foot,Open Play,0,0,1,Normal
-11.329607230614839,0.05928057746790262,False,Head,Open Play,0,1,2,Normal
-21.302112571292074,0.06355589482412154,False,Right Foot,Open Play,1,0,1,Normal
-16.757386431063765,0.0573140993609674,False,Left Foot,Open Play,1,0,1,Half Volley
-16.794344286098223,0.06229366331029816,False,Left Foot,Open Play,1,0,1,Volley
-33.15674893592554,0.07515590663297256,False,Right Foot,Open Play,0,0,1,Normal
-24.579056125083405,0.06294117395572434,False,Right Foot,Free Kick,0,0,0,Normal
-13.76735268670052,0.059204712376428166,False,Right Foot,Open Play,1,1,3,Normal
-19.266551326067674,0.06340383739490912,False,Left Foot,Open Play,1,0,2,Half Volley
-13.656500283747663,0.05774034255043991,False,Head,Open Play,0,0,2,Normal
-24.305760634055453,0.06852590197542027,False,Right Foot,Open Play,1,0,1,Half Volley
-18.317205026968495,0.06461778373315068,False,Left Foot,Open Play,0,0,1,Normal
-31.170819687650173,0.0696632361955022,False,Right Foot,Free Kick,0,0,0,Normal
-16.79196236298783,0.06319864465271162,False,Left Foot,Open Play,1,0,1,Normal
-36.90596157804319,0.07832638162381103,False,Right Foot,Open Play,0,0,1,Normal
-23.99708315608378,0.06746050139124914,False,Right Foot,Open Play,0,0,2,Normal
-21.408409562599456,0.05779295419117131,False,Left Foot,Open Play,0,0,1,Half Volley
-9.693812459502192,0.05539122371717495,False,Head,Open Play,0,1,4,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-14.475496537252184,0.05704195285247188,False,Head,Open Play,0,0,2,Normal
-10.135580891098451,0.05644943917569117,False,Head,Open Play,0,1,5,Normal
-27.46069918993324,0.07068460482198381,False,Left Foot,Free Kick,0,0,0,Normal
-22.57875107263465,0.06682587909004455,False,Right Foot,Open Play,0,0,1,Normal
-27.267746514884575,0.0695760559760997,False,Right Foot,Open Play,1,0,0,Volley
-13.697079980784226,0.06175437665992437,False,Head,Open Play,0,1,2,Normal
-33.45399826627604,0.06848475332940088,False,Right Foot,Open Play,1,0,0,Volley
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3941020,Rúben Santos Gato Alves Dias,Portugal,13.697079980784222,0.05285008592201436,False,Left Foot,Open Play,0,0,1,Half Volley
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,8.452810183601661,0.05754109273338578,False,Head,Open Play,0,1,3,Normal
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,23.515314159075142,0.06654350470937277,False,Right Foot,Free Kick,0,0,0,Normal
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,33.094561486745825,0.06899748063583064,False,Right Foot,Free Kick,0,0,0,Normal
+3941020,Benjamin Šeško,Slovenia,31.42817207538485,0.07266382894720019,False,Right Foot,Open Play,0,0,1,Normal
+3941020,Jaka Bijol,Slovenia,11.329607230614839,0.05928057746790262,False,Head,Open Play,0,1,2,Normal
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,21.302112571292074,0.06355589482412154,False,Right Foot,Open Play,1,0,1,Normal
+3941020,Bernardo Mota Veiga de Carvalho e Silva,Portugal,16.757386431063765,0.0573140993609674,False,Left Foot,Open Play,1,0,1,Half Volley
+3941020,Timi Elšnik,Slovenia,16.794344286098223,0.06229366331029816,False,Left Foot,Open Play,1,0,1,Volley
+3941020,Vitor Machado Ferreira,Portugal,33.15674893592554,0.07515590663297256,False,Right Foot,Open Play,0,0,1,Normal
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,24.579056125083405,0.06294117395572434,False,Right Foot,Free Kick,0,0,0,Normal
+3941020,Vitor Machado Ferreira,Portugal,13.76735268670052,0.059204712376428166,False,Right Foot,Open Play,1,1,3,Normal
+3941020,Vitor Machado Ferreira,Portugal,19.266551326067674,0.06340383739490912,False,Left Foot,Open Play,1,0,2,Half Volley
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,13.656500283747663,0.05774034255043991,False,Head,Open Play,0,0,2,Normal
+3941020,Adam Gnezda Čerin,Slovenia,24.305760634055453,0.06852590197542027,False,Right Foot,Open Play,1,0,1,Half Volley
+3941020,Benjamin Šeško,Slovenia,18.317205026968495,0.06461778373315068,False,Left Foot,Open Play,0,0,1,Normal
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,31.170819687650173,0.0696632361955022,False,Right Foot,Free Kick,0,0,0,Normal
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,16.79196236298783,0.06319864465271162,False,Left Foot,Open Play,1,0,1,Normal
+3941020,Bruno Miguel Borges Fernandes,Portugal,36.90596157804319,0.07832638162381103,False,Right Foot,Open Play,0,0,1,Normal
+3941020,Benjamin Verbič,Slovenia,23.99708315608378,0.06746050139124914,False,Right Foot,Open Play,0,0,2,Normal
+3941020,Jon Gorenc Stankovič,Slovenia,21.408409562599456,0.05779295419117131,False,Left Foot,Open Play,0,0,1,Half Volley
+3941020,Diogo José Teixeira da Silva,Portugal,9.693812459502192,0.05539122371717495,False,Head,Open Play,0,1,4,Normal
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3941020,João Maria Lobo Alves Palhinha Gonçalves,Portugal,14.475496537252184,0.05704195285247188,False,Head,Open Play,0,0,2,Normal
+3941020,Kléper Laveran Lima Ferreira,Portugal,10.135580891098451,0.05644943917569117,False,Head,Open Play,0,1,5,Normal
+3941020,Josip Iličić,Slovenia,27.46069918993324,0.07068460482198381,False,Left Foot,Free Kick,0,0,0,Normal
+3941020,Benjamin Šeško,Slovenia,22.57875107263465,0.06682587909004455,False,Right Foot,Open Play,0,0,1,Normal
+3941020,Žan Celar,Slovenia,27.267746514884575,0.0695760559760997,False,Right Foot,Open Play,1,0,0,Volley
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,13.697079980784226,0.06175437665992437,False,Head,Open Play,0,1,2,Normal
+3941020,Rúben Diogo Da Silva Neves,Portugal,33.45399826627604,0.06848475332940088,False,Right Foot,Open Play,1,0,0,Volley
+3941020,Josip Iličić,Slovenia,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3941020,Cristiano Ronaldo dos Santos Aveiro,Portugal,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3941020,Jure Balkovec,Slovenia,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3941020,Bruno Miguel Borges Fernandes,Portugal,11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
+3941020,Benjamin Verbič,Slovenia,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3941020,Bernardo Mota Veiga de Carvalho e Silva,Portugal,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal

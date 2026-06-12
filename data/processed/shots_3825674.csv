@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.50319959050482,0.056811637443258275,True,Left Foot,Open Play,1,1,2,Normal
-7.111258679024404,0.05746662318181736,False,Head,Open Play,0,1,3,Normal
-33.48611652610676,0.0749533235631055,False,Right Foot,Open Play,0,0,2,Normal
-23.399999999999995,0.05960439219797381,False,Right Foot,Open Play,1,1,1,Half Volley
-28.420063335608532,0.07131530375628134,False,Right Foot,Free Kick,0,0,0,Normal
-23.36921051298054,0.05803405190706007,False,Right Foot,Open Play,0,0,2,Normal
-17.5285481429581,0.06351901313242338,False,Left Foot,Open Play,0,1,3,Normal
-10.466135867644752,0.05514718751702477,False,Head,Open Play,0,1,1,Normal
-8.200609733428363,0.05572498729927704,False,Right Foot,Open Play,0,0,2,Half Volley
-9.035485598461216,0.05654186161505938,False,Right Foot,Open Play,1,0,4,Half Volley
-10.874741376235114,0.05340225037188339,False,Head,Open Play,0,1,4,Normal
-22.601991062736047,0.056111384780130065,False,Left Foot,Open Play,0,0,2,Normal
-25.292291315734914,0.058166902431036234,False,Right Foot,Open Play,0,0,2,Normal
-27.408940147331496,0.07041529599914516,False,Right Foot,Open Play,0,0,1,Normal
-35.43839725495497,0.060001446786984894,False,Right Foot,Open Play,1,0,0,Half Volley
-22.720035211240322,0.05843802729808242,False,Left Foot,Open Play,1,0,1,Normal
-11.42716062720744,0.05869280685657705,False,Head,Open Play,0,1,5,Normal
-3.9812058474788814,0.05658705445524153,False,Head,Open Play,0,1,4,Normal
-22.710790386950425,0.0660834027476928,False,Right Foot,Open Play,0,0,2,Normal
-22.986952821111366,0.06231247969089121,False,Left Foot,Open Play,1,0,2,Half Volley
-23.055585006674633,0.0669718482623911,False,Right Foot,Open Play,0,0,2,Normal
-15.647363995254917,0.056477009374176705,False,Right Foot,Open Play,1,0,0,Normal
-20.56817930688081,0.06503070485402393,False,Left Foot,Open Play,1,0,1,Normal
-22.63846284534354,0.06590874669908964,False,Right Foot,Open Play,0,1,1,Normal
-9.009439494219388,0.058779193293150976,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825674,Antoine Griezmann,Atlético Madrid,12.50319959050482,0.056811637443258275,True,Left Foot,Open Play,1,1,2,Normal
+3825674,Enzo Pablo Roco Roco,Espanyol,7.111258679024404,0.05746662318181736,False,Head,Open Play,0,1,3,Normal
+3825674,Jorge Resurrección Merodio,Atlético Madrid,33.48611652610676,0.0749533235631055,False,Right Foot,Open Play,0,0,2,Normal
+3825674,Juan Francisco Torres Belén,Atlético Madrid,23.399999999999995,0.05960439219797381,False,Right Foot,Open Play,1,1,1,Half Volley
+3825674,Jorge Resurrección Merodio,Atlético Madrid,28.420063335608532,0.07131530375628134,False,Right Foot,Free Kick,0,0,0,Normal
+3825674,Juan Francisco Torres Belén,Atlético Madrid,23.36921051298054,0.05803405190706007,False,Right Foot,Open Play,0,0,2,Normal
+3825674,Filipe Luís Kasmirski,Atlético Madrid,17.5285481429581,0.06351901313242338,False,Left Foot,Open Play,0,1,3,Normal
+3825674,Diego Roberto Godín Leal,Atlético Madrid,10.466135867644752,0.05514718751702477,False,Head,Open Play,0,1,1,Normal
+3825674,Antoine Griezmann,Atlético Madrid,8.200609733428363,0.05572498729927704,False,Right Foot,Open Play,0,0,2,Half Volley
+3825674,Luciano Vietto,Atlético Madrid,9.035485598461216,0.05654186161505938,False,Right Foot,Open Play,1,0,4,Half Volley
+3825674,Saúl Ñíguez Esclapez,Atlético Madrid,10.874741376235114,0.05340225037188339,False,Head,Open Play,0,1,4,Normal
+3825674,Luciano Vietto,Atlético Madrid,22.601991062736047,0.056111384780130065,False,Left Foot,Open Play,0,0,2,Normal
+3825674,Óliver Torres Muñoz,Atlético Madrid,25.292291315734914,0.058166902431036234,False,Right Foot,Open Play,0,0,2,Normal
+3825674,Yannick Ferreira Carrasco,Atlético Madrid,27.408940147331496,0.07041529599914516,False,Right Foot,Open Play,0,0,1,Normal
+3825674,Javier López Rodríguez,Espanyol,35.43839725495497,0.060001446786984894,False,Right Foot,Open Play,1,0,0,Half Volley
+3825674,Antoine Griezmann,Atlético Madrid,22.720035211240322,0.05843802729808242,False,Left Foot,Open Play,1,0,1,Normal
+3825674,Diego Roberto Godín Leal,Atlético Madrid,11.42716062720744,0.05869280685657705,False,Head,Open Play,0,1,5,Normal
+3825674,Diego Roberto Godín Leal,Atlético Madrid,3.9812058474788814,0.05658705445524153,False,Head,Open Play,0,1,4,Normal
+3825674,Mamadou Sylla Diallo,Espanyol,22.710790386950425,0.0660834027476928,False,Right Foot,Open Play,0,0,2,Normal
+3825674,Gerard Moreno Balaguero,Espanyol,22.986952821111366,0.06231247969089121,False,Left Foot,Open Play,1,0,2,Half Volley
+3825674,Fernando José Torres Sanz,Atlético Madrid,23.055585006674633,0.0669718482623911,False,Right Foot,Open Play,0,0,2,Normal
+3825674,Jorge Resurrección Merodio,Atlético Madrid,15.647363995254917,0.056477009374176705,False,Right Foot,Open Play,1,0,0,Normal
+3825674,Yannick Ferreira Carrasco,Atlético Madrid,20.56817930688081,0.06503070485402393,False,Left Foot,Open Play,1,0,1,Normal
+3825674,Thomas Teye Partey,Atlético Madrid,22.63846284534354,0.06590874669908964,False,Right Foot,Open Play,0,1,1,Normal
+3825674,Fernando José Torres Sanz,Atlético Madrid,9.009439494219388,0.058779193293150976,False,Head,Open Play,0,1,3,Normal

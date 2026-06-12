@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.772132091659746,0.06747688984051009,False,Left Foot,Open Play,0,0,2,Normal
-21.631689716709605,0.06167939233129612,False,Right Foot,Open Play,1,0,1,Normal
-12.020815280171307,0.05430571344769563,True,Right Foot,Open Play,1,0,1,Normal
-16.82973558912914,0.05509756053556532,False,Right Foot,Open Play,1,1,1,Volley
-18.238695128764007,0.05869633018315638,False,Right Foot,Open Play,1,0,1,Normal
-10.101980003939817,0.05988483774849869,False,Head,Open Play,0,1,4,Normal
-10.568348972285122,0.059695670143848134,False,Head,Open Play,0,0,3,Normal
-25.728777662376427,0.055126965163991286,False,Left Foot,Open Play,0,0,1,Normal
-26.47413832403238,0.06406105415057252,False,Right Foot,Open Play,1,0,1,Half Volley
-10.948972554536793,0.05845694581840572,False,Head,Open Play,0,1,5,Normal
-28.178005607210746,0.07120501182141498,False,Left Foot,Open Play,0,0,2,Normal
-14.727185746095554,0.05432324323473581,False,Left Foot,Open Play,1,1,2,Half Volley
-14.396180048887969,0.061425769263546065,True,Left Foot,Open Play,1,0,0,Normal
-7.397972695272669,0.05805801914693249,False,Left Foot,Open Play,1,0,1,Volley
-24.120530674095875,0.05279381639306493,False,Right Foot,Open Play,0,0,1,Normal
-10.478549517943794,0.05264540199054463,False,Head,Open Play,0,1,2,Normal
-21.878985351245152,0.06586501843040593,False,Right Foot,Open Play,0,0,3,Normal
-14.980320423809362,0.05444988297146744,False,Right Foot,Open Play,0,0,2,Normal
-22.710790386950432,0.0667838121919955,False,Right Foot,Open Play,0,0,2,Normal
-12.340583454602134,0.06007642233192333,False,Head,Open Play,0,1,2,Normal
-22.54994456755937,0.06732814530852003,False,Right Foot,Open Play,0,0,0,Half Volley
-18.31529415543195,0.05504257113097515,False,Right Foot,Open Play,0,0,2,Normal
-46.79797004144518,0.04830172505725186,True,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895232,Amine Adli,Bayer Leverkusen,22.772132091659746,0.06747688984051009,False,Left Foot,Open Play,0,0,2,Normal
+3895232,Leon Goretzka,Bayern Munich,21.631689716709605,0.06167939233129612,False,Right Foot,Open Play,1,0,1,Normal
+3895232,Josip Stanišić,Bayer Leverkusen,12.020815280171307,0.05430571344769563,True,Right Foot,Open Play,1,0,1,Normal
+3895232,Nathan Tella,Bayer Leverkusen,16.82973558912914,0.05509756053556532,False,Right Foot,Open Play,1,1,1,Volley
+3895232,Florian Wirtz,Bayer Leverkusen,18.238695128764007,0.05869633018315638,False,Right Foot,Open Play,1,0,1,Normal
+3895232,Jonathan Tah,Bayer Leverkusen,10.101980003939817,0.05988483774849869,False,Head,Open Play,0,1,4,Normal
+3895232,Robert Andrich,Bayer Leverkusen,10.568348972285122,0.059695670143848134,False,Head,Open Play,0,0,3,Normal
+3895232,Noussair Mazraoui,Bayern Munich,25.728777662376427,0.055126965163991286,False,Left Foot,Open Play,0,0,1,Normal
+3895232,Granit Xhaka,Bayer Leverkusen,26.47413832403238,0.06406105415057252,False,Right Foot,Open Play,1,0,1,Half Volley
+3895232,Amine Adli,Bayer Leverkusen,10.948972554536793,0.05845694581840572,False,Head,Open Play,0,1,5,Normal
+3895232,Piero Martín Hincapié Reyna,Bayer Leverkusen,28.178005607210746,0.07120501182141498,False,Left Foot,Open Play,0,0,2,Normal
+3895232,Leroy Sané,Bayern Munich,14.727185746095554,0.05432324323473581,False,Left Foot,Open Play,1,1,2,Half Volley
+3895232,Alejandro Grimaldo García,Bayer Leverkusen,14.396180048887969,0.061425769263546065,True,Left Foot,Open Play,1,0,0,Normal
+3895232,Sacha Boey,Bayern Munich,7.397972695272669,0.05805801914693249,False,Left Foot,Open Play,1,0,1,Volley
+3895232,Nathan Tella,Bayer Leverkusen,24.120530674095875,0.05279381639306493,False,Right Foot,Open Play,0,0,1,Normal
+3895232,Leon Goretzka,Bayern Munich,10.478549517943794,0.05264540199054463,False,Head,Open Play,0,1,2,Normal
+3895232,Jamal Musiala,Bayern Munich,21.878985351245152,0.06586501843040593,False,Right Foot,Open Play,0,0,3,Normal
+3895232,Jeremie Frimpong,Bayer Leverkusen,14.980320423809362,0.05444988297146744,False,Right Foot,Open Play,0,0,2,Normal
+3895232,Harry Kane,Bayern Munich,22.710790386950432,0.0667838121919955,False,Right Foot,Open Play,0,0,2,Normal
+3895232,Mathys Tel,Bayern Munich,12.340583454602134,0.06007642233192333,False,Head,Open Play,0,1,2,Normal
+3895232,Mathys Tel,Bayern Munich,22.54994456755937,0.06732814530852003,False,Right Foot,Open Play,0,0,0,Half Volley
+3895232,Jeremie Frimpong,Bayer Leverkusen,18.31529415543195,0.05504257113097515,False,Right Foot,Open Play,0,0,2,Normal
+3895232,Jeremie Frimpong,Bayer Leverkusen,46.79797004144518,0.04830172505725186,True,Right Foot,Open Play,0,0,2,Normal

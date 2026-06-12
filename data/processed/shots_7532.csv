@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-37.12142238654117,0.05887342348831042,False,Right Foot,Open Play,1,1,1,Half Volley
-39.395431207184416,0.0805331405634089,False,Left Foot,Open Play,0,0,1,Normal
-33.015148038438355,0.06883847307773917,False,Left Foot,Open Play,0,1,1,Normal
-24.758836806279895,0.05395770072692676,False,Left Foot,Open Play,0,1,1,Normal
-34.132096331752024,0.06808642397167043,False,Right Foot,Open Play,1,0,0,Normal
-13.341664064126334,0.061092502800491146,False,Head,Open Play,0,1,3,Normal
-15.652475842498529,0.06150543791049415,False,Left Foot,Open Play,0,0,4,Normal
-32.2490309931942,0.071241611986794,False,Left Foot,Open Play,0,1,1,Normal
-16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,0,0,1,Normal
-23.323807579381203,0.057616626975531555,False,Right Foot,Free Kick,0,0,0,Normal
-26.1725046566048,0.06438852227554745,False,Right Foot,Open Play,1,0,1,Half Volley
-24.08318915758459,0.06797815772504703,False,Left Foot,Open Play,1,0,0,Half Volley
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,1,6,Normal
-22.360679774997898,0.05128540962750393,False,Right Foot,Open Play,0,0,1,Normal
-30.265491900843113,0.07009999588663039,False,Right Foot,Open Play,0,1,1,Normal
-25.495097567963924,0.05351008164960896,False,Left Foot,Open Play,1,0,1,Half Volley
-11.661903789690601,0.05384580871934762,False,Left Foot,Open Play,0,0,1,Normal
-16.97056274847714,0.06349195998023038,True,Left Foot,Open Play,0,0,2,Normal
-16.278820596099706,0.06320301473971049,False,Left Foot,Open Play,0,0,1,Normal
-7.0710678118654755,0.05723344719965163,False,Head,Open Play,0,0,3,Normal
-12.206555615733702,0.05416703520238373,False,Head,Open Play,0,1,1,Normal
-21.95449840010015,0.051937129414315136,False,Left Foot,Open Play,0,0,1,Normal
-8.0,0.05795378045521751,False,Right Foot,Open Play,0,0,3,Backheel
-18.35755975068582,0.05759322031891119,False,Left Foot,Open Play,1,0,1,Normal
-12.36931687685298,0.05849490818523149,False,Right Foot,Open Play,1,0,0,Normal
-17.0,0.06377392421668256,False,Left Foot,Open Play,0,0,1,Normal
-8.06225774829855,0.057624201777450715,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7532,Luis Jan Piers Advíncula Castrillón,Peru,37.12142238654117,0.05887342348831042,False,Right Foot,Open Play,1,1,1,Half Volley
+7532,Víctor Yoshimar Yotún Flores,Peru,39.395431207184416,0.0805331405634089,False,Left Foot,Open Play,0,0,1,Normal
+7532,Édison Michael Flores Peralta,Peru,33.015148038438355,0.06883847307773917,False,Left Foot,Open Play,0,1,1,Normal
+7532,André Martín Carrillo Díaz,Peru,24.758836806279895,0.05395770072692676,False,Left Foot,Open Play,0,1,1,Normal
+7532,Renato Fabrizio Tapia Cortijo,Peru,34.132096331752024,0.06808642397167043,False,Right Foot,Open Play,1,0,0,Normal
+7532,Alberto Junior Rodríguez Valdelomar,Peru,13.341664064126334,0.061092502800491146,False,Head,Open Play,0,1,3,Normal
+7532,Pione Sisto Ifolo Emirmija,Denmark,15.652475842498529,0.06150543791049415,False,Left Foot,Open Play,0,0,4,Normal
+7532,Thomas Delaney,Denmark,32.2490309931942,0.071241611986794,False,Left Foot,Open Play,0,1,1,Normal
+7532,Jefferson Agustín Farfán Guadalupe,Peru,16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,0,0,1,Normal
+7532,Christian Dannemann Eriksen,Denmark,23.323807579381203,0.057616626975531555,False,Right Foot,Free Kick,0,0,0,Normal
+7532,Lasse Schöne,Denmark,26.1725046566048,0.06438852227554745,False,Right Foot,Open Play,1,0,1,Half Volley
+7532,Thomas Delaney,Denmark,24.08318915758459,0.06797815772504703,False,Left Foot,Open Play,1,0,0,Half Volley
+7532,Christian Alberto Cueva Bravo,Peru,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+7532,Yussuf Yurary Poulsen,Denmark,7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,1,6,Normal
+7532,Jefferson Agustín Farfán Guadalupe,Peru,22.360679774997898,0.05128540962750393,False,Right Foot,Open Play,0,0,1,Normal
+7532,Jens Stryger Larsen,Denmark,30.265491900843113,0.07009999588663039,False,Right Foot,Open Play,0,1,1,Normal
+7532,Christian Dannemann Eriksen,Denmark,25.495097567963924,0.05351008164960896,False,Left Foot,Open Play,1,0,1,Half Volley
+7532,Édison Michael Flores Peralta,Peru,11.661903789690601,0.05384580871934762,False,Left Foot,Open Play,0,0,1,Normal
+7532,Yussuf Yurary Poulsen,Denmark,16.97056274847714,0.06349195998023038,True,Left Foot,Open Play,0,0,2,Normal
+7532,Édison Michael Flores Peralta,Peru,16.278820596099706,0.06320301473971049,False,Left Foot,Open Play,0,0,1,Normal
+7532,José Paolo Guerrero Gonzáles,Peru,7.0710678118654755,0.05723344719965163,False,Head,Open Play,0,0,3,Normal
+7532,Alberto Junior Rodríguez Valdelomar,Peru,12.206555615733702,0.05416703520238373,False,Head,Open Play,0,1,1,Normal
+7532,Luis Jan Piers Advíncula Castrillón,Peru,21.95449840010015,0.051937129414315136,False,Left Foot,Open Play,0,0,1,Normal
+7532,José Paolo Guerrero Gonzáles,Peru,8.0,0.05795378045521751,False,Right Foot,Open Play,0,0,3,Backheel
+7532,Nicolai Jørgensen,Denmark,18.35755975068582,0.05759322031891119,False,Left Foot,Open Play,1,0,1,Normal
+7532,Jefferson Agustín Farfán Guadalupe,Peru,12.36931687685298,0.05849490818523149,False,Right Foot,Open Play,1,0,0,Normal
+7532,Christian Dannemann Eriksen,Denmark,17.0,0.06377392421668256,False,Left Foot,Open Play,0,0,1,Normal
+7532,José Paolo Guerrero Gonzáles,Peru,8.06225774829855,0.057624201777450715,False,Head,Open Play,0,1,3,Normal

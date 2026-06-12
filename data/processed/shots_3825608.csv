@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-3.383784863137729,0.05640378216458568,True,Other,Open Play,0,0,4,Normal
-21.8524598157736,0.06039746104137463,False,Left Foot,Open Play,0,0,0,Normal
-10.656922632730327,0.05761168034179666,False,Head,Open Play,0,0,2,Normal
-20.43183790068823,0.06537978762457265,False,Right Foot,Open Play,0,0,2,Normal
-12.238463955905578,0.05976799545245774,False,Right Foot,Open Play,1,1,1,Backheel
-31.852158482589523,0.07101113502645191,False,Left Foot,Open Play,1,0,0,Normal
-28.095907175245298,0.06917136672476441,False,Right Foot,Open Play,0,0,2,Normal
-20.953758612716722,0.0641663133224793,False,Right Foot,Open Play,0,0,2,Normal
-22.953866776645718,0.053814286438396086,False,Right Foot,Open Play,0,0,3,Normal
-8.81419309976812,0.058108242512496786,False,Left Foot,Open Play,1,0,2,Half Volley
-21.12557691519926,0.06637698153931229,False,Right Foot,Open Play,1,0,1,Half Volley
-18.88597363124284,0.06178068490847986,False,Right Foot,Open Play,1,0,1,Volley
-17.140011668607464,0.05625892235165194,False,Right Foot,Open Play,1,0,0,Half Volley
-16.90118339052032,0.06341771908982691,False,Right Foot,Open Play,1,0,4,Normal
-34.97384737200069,0.06701813748767455,False,Left Foot,Open Play,0,0,1,Normal
-19.925109786397666,0.06487771994778967,False,Left Foot,Open Play,0,0,3,Normal
-23.817010727629103,0.06443271218884483,False,Right Foot,Open Play,0,0,4,Normal
-13.630847369110992,0.060311329959202756,False,Left Foot,Open Play,0,1,2,Normal
-4.775981574503822,0.056090186210541404,True,Left Foot,Open Play,1,0,2,Volley
-25.180349481291955,0.0633163006201802,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825608,Borja González Tomás,Eibar,3.383784863137729,0.05640378216458568,True,Other,Open Play,0,0,4,Normal
+3825608,Théo Bongonda Mbul''Ofeko Batombo,Celta Vigo,21.8524598157736,0.06039746104137463,False,Left Foot,Open Play,0,0,0,Normal
+3825608,Pedro Pablo Hernández,Celta Vigo,10.656922632730327,0.05761168034179666,False,Head,Open Play,0,0,2,Normal
+3825608,Manuel Agudo Durán,Celta Vigo,20.43183790068823,0.06537978762457265,False,Right Foot,Open Play,0,0,2,Normal
+3825608,Aleksandar Pantić,Eibar,12.238463955905578,0.05976799545245774,False,Right Foot,Open Play,1,1,1,Backheel
+3825608,Adrián González Morales,Eibar,31.852158482589523,0.07101113502645191,False,Left Foot,Open Play,1,0,0,Normal
+3825608,Sergio Enrich Ametller,Eibar,28.095907175245298,0.06917136672476441,False,Right Foot,Open Play,0,0,2,Normal
+3825608,Fabián Ariel Orellana Valenzuela,Celta Vigo,20.953758612716722,0.0641663133224793,False,Right Foot,Open Play,0,0,2,Normal
+3825608,Borja González Tomás,Eibar,22.953866776645718,0.053814286438396086,False,Right Foot,Open Play,0,0,3,Normal
+3825608,Takashi Inui,Eibar,8.81419309976812,0.058108242512496786,False,Left Foot,Open Play,1,0,2,Half Volley
+3825608,Borja González Tomás,Eibar,21.12557691519926,0.06637698153931229,False,Right Foot,Open Play,1,0,1,Half Volley
+3825608,Daniel García Carrillo,Eibar,18.88597363124284,0.06178068490847986,False,Right Foot,Open Play,1,0,1,Volley
+3825608,Mauro Javier Dos Santos,Eibar,17.140011668607464,0.05625892235165194,False,Right Foot,Open Play,1,0,0,Half Volley
+3825608,Manuel Agudo Durán,Celta Vigo,16.90118339052032,0.06341771908982691,False,Right Foot,Open Play,1,0,4,Normal
+3825608,Adrián González Morales,Eibar,34.97384737200069,0.06701813748767455,False,Left Foot,Open Play,0,0,1,Normal
+3825608,Manuel Agudo Durán,Celta Vigo,19.925109786397666,0.06487771994778967,False,Left Foot,Open Play,0,0,3,Normal
+3825608,Adrián González Morales,Eibar,23.817010727629103,0.06443271218884483,False,Right Foot,Open Play,0,0,4,Normal
+3825608,Théo Bongonda Mbul''Ofeko Batombo,Celta Vigo,13.630847369110992,0.060311329959202756,False,Left Foot,Open Play,0,1,2,Normal
+3825608,Iago Aspas Juncal,Celta Vigo,4.775981574503822,0.056090186210541404,True,Left Foot,Open Play,1,0,2,Volley
+3825608,Manuel Agudo Durán,Celta Vigo,25.180349481291955,0.0633163006201802,False,Right Foot,Free Kick,0,0,0,Normal

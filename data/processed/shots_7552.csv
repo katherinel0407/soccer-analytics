@@ -1,41 +1,41 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.825424421026653,0.05808702835092108,False,Left Foot,Open Play,0,0,3,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-19.4164878389476,0.06403202909768159,False,Right Foot,Open Play,0,0,1,Normal
-10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,1,0,1,Normal
-26.870057685088806,0.06944759795696541,False,Right Foot,Open Play,0,1,2,Normal
-17.46424919657298,0.06393103316233788,True,Left Foot,Open Play,0,0,1,Normal
-8.06225774829855,0.057624201777450715,True,Head,Open Play,0,0,3,Normal
-14.7648230602334,0.062454776350060776,False,Right Foot,Open Play,1,0,1,Volley
-24.08318915758459,0.055141931548609004,False,Right Foot,Open Play,0,0,1,Normal
-20.8806130178211,0.06559953735901075,False,Left Foot,Open Play,1,0,0,Normal
-32.202484376209235,0.04850666545189334,False,Right Foot,Open Play,0,1,2,Normal
-19.6468827043885,0.06046366583877,False,Left Foot,Open Play,0,0,1,Normal
-34.92849839314596,0.07647602668356762,False,Right Foot,Open Play,0,0,0,Normal
-24.186773244895647,0.06637476208566208,False,Right Foot,Open Play,0,0,1,Normal
-13.341664064126334,0.05938607790624149,False,Left Foot,Open Play,0,0,1,Normal
-9.433981132056603,0.056265246776306774,True,Right Foot,Open Play,1,0,1,Normal
-9.433981132056603,0.054201915489028224,False,Right Foot,Open Play,1,0,4,Normal
-8.06225774829855,0.056242166694479165,False,Right Foot,Open Play,0,0,1,Volley
-26.40075756488817,0.06981184344585188,False,Left Foot,Open Play,0,0,2,Normal
-11.180339887498949,0.05986705512554456,True,Left Foot,Open Play,0,0,1,Normal
-8.54400374531753,0.0589147156547097,False,Head,Open Play,0,1,2,Normal
-30.01666203960727,0.05801239699167218,False,Right Foot,Open Play,0,1,2,Normal
-11.180339887498949,0.05846492305304546,False,Right Foot,Open Play,1,0,1,Normal
-21.095023109728988,0.0663790356225681,False,Right Foot,Open Play,0,0,0,Normal
-25.079872407968907,0.06885632663036952,False,Right Foot,Open Play,0,0,1,Normal
-30.610455730027933,0.07067374905927878,False,Right Foot,Open Play,0,0,1,Normal
-19.6468827043885,0.06046366583877,False,Right Foot,Open Play,0,0,1,Normal
-22.360679774997898,0.06713754122477203,False,Left Foot,Open Play,0,0,1,Normal
-27.018512172212592,0.06589130279848567,False,Left Foot,Open Play,1,0,0,Volley
-12.529964086141668,0.06029314395308708,False,Left Foot,Open Play,0,0,1,Normal
-23.345235059857504,0.0670812127394191,False,Right Foot,Open Play,0,0,1,Normal
-6.082762530298219,0.057472679332615344,False,Left Foot,Open Play,1,0,3,Normal
-21.633307652783937,0.0526041600878046,False,Right Foot,Open Play,0,0,1,Normal
-7.0710678118654755,0.05787344747263225,False,Left Foot,Open Play,1,0,1,Volley
-15.652475842498529,0.052731880896080954,False,Left Foot,Open Play,0,0,1,Normal
-30.528675044947494,0.05747511539175109,False,Right Foot,Open Play,0,0,0,Normal
-8.602325267042627,0.059095933698217445,True,Left Foot,Open Play,1,0,1,Half Volley
-57.0350769263968,0.08045391505835744,False,Right Foot,Open Play,0,0,0,Normal
-17.26267650163207,0.06293265987850491,False,Left Foot,Open Play,0,0,3,Normal
-9.848857801796104,0.05698279443696437,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7552,Thomas Meunier,Belgium,22.825424421026653,0.05808702835092108,False,Left Foot,Open Play,0,0,3,Normal
+7552,Eden Hazard,Belgium,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+7552,Axel Witsel,Belgium,19.4164878389476,0.06403202909768159,False,Right Foot,Open Play,0,0,1,Normal
+7552,Eden Hazard,Belgium,10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,1,0,1,Normal
+7552,Yannick Ferreira Carrasco,Belgium,26.870057685088806,0.06944759795696541,False,Right Foot,Open Play,0,1,2,Normal
+7552,Romelu Lukaku Menama,Belgium,17.46424919657298,0.06393103316233788,True,Left Foot,Open Play,0,0,1,Normal
+7552,Dylan Daniel Mahmoud Bronn,Tunisia,8.06225774829855,0.057624201777450715,True,Head,Open Play,0,0,3,Normal
+7552,Yannick Ferreira Carrasco,Belgium,14.7648230602334,0.062454776350060776,False,Right Foot,Open Play,1,0,1,Volley
+7552,Toby Alderweireld,Belgium,24.08318915758459,0.055141931548609004,False,Right Foot,Open Play,0,0,1,Normal
+7552,Axel Witsel,Belgium,20.8806130178211,0.06559953735901075,False,Left Foot,Open Play,1,0,0,Normal
+7552,Wahbi Khazri,Tunisia,32.202484376209235,0.04850666545189334,False,Right Foot,Open Play,0,1,2,Normal
+7552,Ferjani Sassi,Tunisia,19.6468827043885,0.06046366583877,False,Left Foot,Open Play,0,0,1,Normal
+7552,Wahbi Khazri,Tunisia,34.92849839314596,0.07647602668356762,False,Right Foot,Open Play,0,0,0,Normal
+7552,Fakhreddine Ben Youssef,Tunisia,24.186773244895647,0.06637476208566208,False,Right Foot,Open Play,0,0,1,Normal
+7552,Saîf-Eddine Khaoui,Tunisia,13.341664064126334,0.05938607790624149,False,Left Foot,Open Play,0,0,1,Normal
+7552,Romelu Lukaku Menama,Belgium,9.433981132056603,0.056265246776306774,True,Right Foot,Open Play,1,0,1,Normal
+7552,Toby Alderweireld,Belgium,9.433981132056603,0.054201915489028224,False,Right Foot,Open Play,1,0,4,Normal
+7552,Wahbi Khazri,Tunisia,8.06225774829855,0.056242166694479165,False,Right Foot,Open Play,0,0,1,Volley
+7552,Anice Badri,Tunisia,26.40075756488817,0.06981184344585188,False,Left Foot,Open Play,0,0,2,Normal
+7552,Eden Hazard,Belgium,11.180339887498949,0.05986705512554456,True,Left Foot,Open Play,0,0,1,Normal
+7552,Fakhreddine Ben Youssef,Tunisia,8.54400374531753,0.0589147156547097,False,Head,Open Play,0,1,2,Normal
+7552,Ferjani Sassi,Tunisia,30.01666203960727,0.05801239699167218,False,Right Foot,Open Play,0,1,2,Normal
+7552,Anice Badri,Tunisia,11.180339887498949,0.05846492305304546,False,Right Foot,Open Play,1,0,1,Normal
+7552,Yannick Ferreira Carrasco,Belgium,21.095023109728988,0.0663790356225681,False,Right Foot,Open Play,0,0,0,Normal
+7552,Eden Hazard,Belgium,25.079872407968907,0.06885632663036952,False,Right Foot,Open Play,0,0,1,Normal
+7552,Wahbi Khazri,Tunisia,30.610455730027933,0.07067374905927878,False,Right Foot,Open Play,0,0,1,Normal
+7552,Naïm Sliti,Tunisia,19.6468827043885,0.06046366583877,False,Right Foot,Open Play,0,0,1,Normal
+7552,Anice Badri,Tunisia,22.360679774997898,0.06713754122477203,False,Left Foot,Open Play,0,0,1,Normal
+7552,Saîf-Eddine Khaoui,Tunisia,27.018512172212592,0.06589130279848567,False,Left Foot,Open Play,1,0,0,Volley
+7552,Michy Batshuayi Tunga,Belgium,12.529964086141668,0.06029314395308708,False,Left Foot,Open Play,0,0,1,Normal
+7552,Yannick Ferreira Carrasco,Belgium,23.345235059857504,0.0670812127394191,False,Right Foot,Open Play,0,0,1,Normal
+7552,Michy Batshuayi Tunga,Belgium,6.082762530298219,0.057472679332615344,False,Left Foot,Open Play,1,0,3,Normal
+7552,Thomas Meunier,Belgium,21.633307652783937,0.0526041600878046,False,Right Foot,Open Play,0,0,1,Normal
+7552,Michy Batshuayi Tunga,Belgium,7.0710678118654755,0.05787344747263225,False,Left Foot,Open Play,1,0,1,Volley
+7552,Michy Batshuayi Tunga,Belgium,15.652475842498529,0.052731880896080954,False,Left Foot,Open Play,0,0,1,Normal
+7552,Axel Witsel,Belgium,30.528675044947494,0.05747511539175109,False,Right Foot,Open Play,0,0,0,Normal
+7552,Michy Batshuayi Tunga,Belgium,8.602325267042627,0.059095933698217445,True,Left Foot,Open Play,1,0,1,Half Volley
+7552,Wahbi Khazri,Tunisia,57.0350769263968,0.08045391505835744,False,Right Foot,Open Play,0,0,0,Normal
+7552,Michy Batshuayi Tunga,Belgium,17.26267650163207,0.06293265987850491,False,Left Foot,Open Play,0,0,3,Normal
+7552,Wahbi Khazri,Tunisia,9.848857801796104,0.05698279443696437,True,Right Foot,Open Play,1,0,2,Normal

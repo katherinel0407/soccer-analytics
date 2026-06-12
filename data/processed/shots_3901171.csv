@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.68322510787408,0.06304897876782506,False,Left Foot,Open Play,0,1,1,Normal
-8.74757109145161,0.057658171181911425,True,Other,Open Play,0,0,1,Normal
-26.268802789621006,0.06221102202988109,False,Right Foot,Open Play,0,1,2,Normal
-10.435037134576955,0.054769582929410025,True,Right Foot,Open Play,1,0,0,Normal
-9.625487000666507,0.05836132152456215,False,Right Foot,Open Play,0,1,4,Normal
-3.935733730830884,0.05652694040883165,True,Right Foot,Open Play,1,1,1,Half Volley
-21.545533179756774,0.06314768729645213,False,Left Foot,Open Play,1,1,3,Normal
-12.356779515715248,0.057481055337432904,False,Left Foot,Open Play,1,1,1,Half Volley
-16.46845469374708,0.062070918226526155,False,Right Foot,Open Play,0,1,4,Normal
-32.065245983775014,0.05531661718275025,False,Left Foot,Open Play,0,0,1,Half Volley
-18.216476058777122,0.059320188010096475,True,Left Foot,Open Play,0,0,1,Normal
-10.111874208078344,0.055252437315846066,False,Head,Open Play,0,1,3,Normal
-32.56823605908063,0.06322768718869691,False,Left Foot,Open Play,0,0,2,Normal
-18.966285877841244,0.0603990747090354,False,Right Foot,Open Play,1,1,2,Normal
-15.088074761214564,0.06253861414052093,False,Right Foot,Open Play,1,0,1,Normal
-8.766413177577242,0.05762426850567352,False,Left Foot,Open Play,1,0,2,Half Volley
-8.609297300012358,0.05625318809742758,False,Right Foot,Open Play,1,0,2,Normal
-12.924782396620847,0.06026193615046859,False,Left Foot,Open Play,1,0,2,Half Volley
-5.946427498927403,0.05716317836662179,True,Left Foot,Open Play,1,0,2,Volley
-22.71673392017436,0.054086398219987425,False,Right Foot,Open Play,0,0,3,Normal
-19.94617757867407,0.06555440309244641,False,Left Foot,Open Play,1,0,1,Lob
-25.36217656274792,0.05506048120739417,False,Left Foot,Open Play,0,0,1,Normal
-30.283493853913225,0.07269275500946412,False,Left Foot,Free Kick,0,0,0,Normal
-23.27767170487633,0.06782374661933213,False,Right Foot,Open Play,0,0,2,Normal
-24.269528219559604,0.05585092630952163,False,Left Foot,Open Play,0,0,2,Normal
-16.877203559831827,0.06320212979169862,False,Right Foot,Open Play,0,0,1,Normal
-13.55322839769182,0.053238689180987314,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901171,Gnaly Maxwell Cornet,Lyon,16.68322510787408,0.06304897876782506,False,Left Foot,Open Play,0,1,1,Normal
+3901171,Rachid Ghezzal,Lyon,8.74757109145161,0.057658171181911425,True,Other,Open Play,0,0,1,Normal
+3901171,Yannis Salibur,Guingamp,26.268802789621006,0.06221102202988109,False,Right Foot,Open Play,0,1,2,Normal
+3901171,Mevlüt Erdinç,Guingamp,10.435037134576955,0.054769582929410025,True,Right Foot,Open Play,1,0,0,Normal
+3901171,Alexandre Lacazette,Lyon,9.625487000666507,0.05836132152456215,False,Right Foot,Open Play,0,1,4,Normal
+3901171,Alexandre Lacazette,Lyon,3.935733730830884,0.05652694040883165,True,Right Foot,Open Play,1,1,1,Half Volley
+3901171,Rachid Ghezzal,Lyon,21.545533179756774,0.06314768729645213,False,Left Foot,Open Play,1,1,3,Normal
+3901171,Samuel Yves Umtiti,Lyon,12.356779515715248,0.057481055337432904,False,Left Foot,Open Play,1,1,1,Half Volley
+3901171,Gnaly Maxwell Cornet,Lyon,16.46845469374708,0.062070918226526155,False,Right Foot,Open Play,0,1,4,Normal
+3901171,Yannis Salibur,Guingamp,32.065245983775014,0.05531661718275025,False,Left Foot,Open Play,0,0,1,Half Volley
+3901171,Gnaly Maxwell Cornet,Lyon,18.216476058777122,0.059320188010096475,True,Left Foot,Open Play,0,0,1,Normal
+3901171,Mevlüt Erdinç,Guingamp,10.111874208078344,0.055252437315846066,False,Head,Open Play,0,1,3,Normal
+3901171,Yannis Salibur,Guingamp,32.56823605908063,0.06322768718869691,False,Left Foot,Open Play,0,0,2,Normal
+3901171,Alexandre Lacazette,Lyon,18.966285877841244,0.0603990747090354,False,Right Foot,Open Play,1,1,2,Normal
+3901171,Jimmy Briand,Guingamp,15.088074761214564,0.06253861414052093,False,Right Foot,Open Play,1,0,1,Normal
+3901171,Jonathan Martins-Pereira,Guingamp,8.766413177577242,0.05762426850567352,False,Left Foot,Open Play,1,0,2,Half Volley
+3901171,Alexandre Lacazette,Lyon,8.609297300012358,0.05625318809742758,False,Right Foot,Open Play,1,0,2,Normal
+3901171,Rachid Ghezzal,Lyon,12.924782396620847,0.06026193615046859,False,Left Foot,Open Play,1,0,2,Half Volley
+3901171,Alexandre Lacazette,Lyon,5.946427498927403,0.05716317836662179,True,Left Foot,Open Play,1,0,2,Volley
+3901171,Rafael Pereira da Silva,Lyon,22.71673392017436,0.054086398219987425,False,Right Foot,Open Play,0,0,3,Normal
+3901171,Jimmy Briand,Guingamp,19.94617757867407,0.06555440309244641,False,Left Foot,Open Play,1,0,1,Lob
+3901171,Rachid Ghezzal,Lyon,25.36217656274792,0.05506048120739417,False,Left Foot,Open Play,0,0,1,Normal
+3901171,Yannis Salibur,Guingamp,30.283493853913225,0.07269275500946412,False,Left Foot,Free Kick,0,0,0,Normal
+3901171,Zakarie Labidi,Lyon,23.27767170487633,0.06782374661933213,False,Right Foot,Open Play,0,0,2,Normal
+3901171,Rachid Ghezzal,Lyon,24.269528219559604,0.05585092630952163,False,Left Foot,Open Play,0,0,2,Normal
+3901171,Jimmy Briand,Guingamp,16.877203559831827,0.06320212979169862,False,Right Foot,Open Play,0,0,1,Normal
+3901171,Yannis Salibur,Guingamp,13.55322839769182,0.053238689180987314,False,Left Foot,Open Play,0,0,1,Normal

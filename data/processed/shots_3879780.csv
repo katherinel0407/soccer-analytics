@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.261176967986216,0.06553722602614598,False,Right Foot,Open Play,1,0,2,Volley
-10.262553288533995,0.056271854184305525,False,Right Foot,Open Play,1,1,3,Normal
-36.384886972478014,0.07796807500807386,False,Left Foot,Open Play,0,0,1,Normal
-15.839823231336897,0.05840905737126173,True,Right Foot,Open Play,1,0,0,Normal
-7.3999999999999995,0.0583104707804275,False,Head,Open Play,0,0,3,Normal
-25.330811277967385,0.06113512977207284,False,Left Foot,Free Kick,0,0,0,Normal
-22.45885126180767,0.06724431598200772,False,Right Foot,Free Kick,0,0,0,Normal
-10.553672346628918,0.058081226933957016,False,Head,Open Play,0,0,4,Normal
-29.180986960690685,0.06471007865104937,False,Left Foot,Open Play,0,0,1,Normal
-28.023561515267833,0.06116392745295047,False,Right Foot,Open Play,0,0,0,Normal
-12.932130528261766,0.060666809650097325,False,Right Foot,Open Play,0,0,2,Normal
-24.54587541726716,0.06746903971529344,False,Right Foot,Open Play,0,0,3,Normal
-16.357261384473873,0.06021121724453203,False,Right Foot,Open Play,0,0,1,Normal
-32.518456297924104,0.05880169331999264,False,Left Foot,Open Play,0,0,1,Normal
-20.199257412093143,0.062257859868844974,False,Left Foot,Open Play,0,1,2,Normal
-12.242957159118054,0.06082899557403567,False,Left Foot,Open Play,0,0,3,Volley
-23.214219780126154,0.06034410836858425,False,Left Foot,Open Play,1,1,1,Half Volley
-32.88677545762126,0.07135801761939134,False,Left Foot,Open Play,0,0,4,Normal
-9.633275663033837,0.059592041511836315,True,Head,Open Play,0,0,2,Normal
-23.05319934412576,0.05670008293020371,False,Left Foot,Open Play,0,0,1,Normal
-31.069760217935382,0.06380714051542213,False,Right Foot,Open Play,0,0,1,Normal
-16.089748288895013,0.06326085452315394,False,Left Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879780,Khouma El Hadji Babacar,Fiorentina,22.261176967986216,0.06553722602614598,False,Right Foot,Open Play,1,0,2,Volley
+3879780,Mauro Matías Zárate,Fiorentina,10.262553288533995,0.056271854184305525,False,Right Foot,Open Play,1,1,3,Normal
+3879780,Marcos Alonso Mendoza,Fiorentina,36.384886972478014,0.07796807500807386,False,Left Foot,Open Play,0,0,1,Normal
+3879780,Mauro Matías Zárate,Fiorentina,15.839823231336897,0.05840905737126173,True,Right Foot,Open Play,1,0,0,Normal
+3879780,Khouma El Hadji Babacar,Fiorentina,7.3999999999999995,0.0583104707804275,False,Head,Open Play,0,0,3,Normal
+3879780,Leandro Greco,Hellas Verona,25.330811277967385,0.06113512977207284,False,Left Foot,Free Kick,0,0,0,Normal
+3879780,Luca Marrone,Hellas Verona,22.45885126180767,0.06724431598200772,False,Right Foot,Free Kick,0,0,0,Normal
+3879780,Artur Ioniţă,Hellas Verona,10.553672346628918,0.058081226933957016,False,Head,Open Play,0,0,4,Normal
+3879780,Artur Ioniţă,Hellas Verona,29.180986960690685,0.06471007865104937,False,Left Foot,Open Play,0,0,1,Normal
+3879780,Mauro Matías Zárate,Fiorentina,28.023561515267833,0.06116392745295047,False,Right Foot,Open Play,0,0,0,Normal
+3879780,Ante Rebić,Hellas Verona,12.932130528261766,0.060666809650097325,False,Right Foot,Open Play,0,0,2,Normal
+3879780,Ante Rebić,Hellas Verona,24.54587541726716,0.06746903971529344,False,Right Foot,Open Play,0,0,3,Normal
+3879780,Khouma El Hadji Babacar,Fiorentina,16.357261384473873,0.06021121724453203,False,Right Foot,Open Play,0,0,1,Normal
+3879780,Luca Siligardi,Hellas Verona,32.518456297924104,0.05880169331999264,False,Left Foot,Open Play,0,0,1,Normal
+3879780,Mohamed Salim Fares,Hellas Verona,20.199257412093143,0.062257859868844974,False,Left Foot,Open Play,0,1,2,Normal
+3879780,Luca Toni,Hellas Verona,12.242957159118054,0.06082899557403567,False,Left Foot,Open Play,0,0,3,Volley
+3879780,Federico Bernardeschi,Fiorentina,23.214219780126154,0.06034410836858425,False,Left Foot,Open Play,1,1,1,Half Volley
+3879780,Urby Emanuelson,Hellas Verona,32.88677545762126,0.07135801761939134,False,Left Foot,Open Play,0,0,4,Normal
+3879780,Eros Pisano,Hellas Verona,9.633275663033837,0.059592041511836315,True,Head,Open Play,0,0,2,Normal
+3879780,Luca Siligardi,Hellas Verona,23.05319934412576,0.05670008293020371,False,Left Foot,Open Play,0,0,1,Normal
+3879780,Facundo Sebastián Roncaglia,Fiorentina,31.069760217935382,0.06380714051542213,False,Right Foot,Open Play,0,0,1,Normal
+3879780,Nikola Kalinić,Fiorentina,16.089748288895013,0.06326085452315394,False,Left Foot,Open Play,0,0,3,Half Volley

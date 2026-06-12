@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.808894952534724,0.0600303438847331,False,Head,Open Play,0,0,3,Normal
-24.86966023089178,0.06385927290556137,False,Left Foot,Open Play,0,0,1,Half Volley
-17.441330224498365,0.0624069354691001,False,Left Foot,Open Play,0,0,1,Normal
-12.902712893031453,0.06114571885570062,False,Head,Open Play,0,1,3,Normal
-27.60525312327347,0.07043900410847007,False,Right Foot,Open Play,0,0,1,Normal
-27.569729777420747,0.06879450797835565,False,Left Foot,Open Play,0,0,2,Normal
-33.13080137877742,0.060764866537537925,False,Left Foot,Free Kick,0,0,0,Normal
-5.420332093147057,0.055486328455307043,False,Right Foot,Open Play,1,0,2,Volley
-32.073041639358124,0.06175173460924782,False,Right Foot,Open Play,0,0,0,Normal
-31.617242131469983,0.06644575768720619,False,Left Foot,Open Play,1,0,0,Volley
-8.050465825031493,0.05765735558498245,False,Head,Open Play,0,1,3,Normal
-30.03081750469008,0.060421396197250135,False,Left Foot,Open Play,0,0,1,Normal
-21.34900466063933,0.06546104483144252,False,Right Foot,Open Play,1,0,2,Half Volley
-23.657979626333265,0.06760590063352857,False,Left Foot,Open Play,0,0,1,Normal
-22.655683613610073,0.055149397615408116,False,Left Foot,Open Play,1,0,0,Normal
-30.28283342093339,0.06513267497983818,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930181,Benjamin Šeško,Slovenia,11.808894952534724,0.0600303438847331,False,Head,Open Play,0,0,3,Normal
+3930181,Andraž Šporar,Slovenia,24.86966023089178,0.06385927290556137,False,Left Foot,Open Play,0,0,1,Half Volley
+3930181,Harry Kane,England,17.441330224498365,0.0624069354691001,False,Left Foot,Open Play,0,0,1,Normal
+3930181,Harry Kane,England,12.902712893031453,0.06114571885570062,False,Head,Open Play,0,1,3,Normal
+3930181,Harry Kane,England,27.60525312327347,0.07043900410847007,False,Right Foot,Open Play,0,0,1,Normal
+3930181,Andraž Šporar,Slovenia,27.569729777420747,0.06879450797835565,False,Left Foot,Open Play,0,0,2,Normal
+3930181,Phil Foden,England,33.13080137877742,0.060764866537537925,False,Left Foot,Free Kick,0,0,0,Normal
+3930181,Harry Kane,England,5.420332093147057,0.055486328455307043,False,Right Foot,Open Play,1,0,2,Volley
+3930181,Harry Kane,England,32.073041639358124,0.06175173460924782,False,Right Foot,Open Play,0,0,0,Normal
+3930181,Phil Foden,England,31.617242131469983,0.06644575768720619,False,Left Foot,Open Play,1,0,0,Volley
+3930181,John Stones,England,8.050465825031493,0.05765735558498245,False,Head,Open Play,0,1,3,Normal
+3930181,Adam Gnezda Čerin,Slovenia,30.03081750469008,0.060421396197250135,False,Left Foot,Open Play,0,0,1,Normal
+3930181,Declan Rice,England,21.34900466063933,0.06546104483144252,False,Right Foot,Open Play,1,0,2,Half Volley
+3930181,Phil Foden,England,23.657979626333265,0.06760590063352857,False,Left Foot,Open Play,0,0,1,Normal
+3930181,Cole Palmer,England,22.655683613610073,0.055149397615408116,False,Left Foot,Open Play,1,0,0,Normal
+3930181,Trent Alexander-Arnold,England,30.28283342093339,0.06513267497983818,False,Right Foot,Open Play,0,0,1,Normal

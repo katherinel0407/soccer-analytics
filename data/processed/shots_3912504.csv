@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.273451516749224,0.058853211116592856,True,Right Foot,Open Play,1,0,2,Half Volley
-29.669681494751504,0.07227288439706807,False,Right Foot,Open Play,0,0,1,Normal
-37.9938152861752,0.06122378024765254,False,Right Foot,Open Play,1,0,1,Half Volley
-34.77038970158373,0.07360382381465713,False,Left Foot,Open Play,0,0,0,Normal
-27.946556138458284,0.06367008594044031,False,Right Foot,Open Play,1,1,1,Normal
-27.011849251763568,0.06682364118940262,False,Right Foot,Open Play,1,0,1,Half Volley
-10.24207010325549,0.05821413326705839,False,Head,Open Play,0,1,3,Normal
-7.824321056807426,0.058508111070276946,False,Left Foot,Open Play,1,0,1,Half Volley
-21.426385602802913,0.06603876595025548,False,Right Foot,Open Play,0,0,3,Normal
-17.246738822165774,0.05576709263420871,False,Right Foot,Open Play,0,0,2,Normal
-22.763347732704,0.06739958196930627,False,Right Foot,Open Play,0,0,1,Normal
-29.88260363489098,0.06992790140124865,False,Left Foot,Open Play,0,0,1,Normal
-19.96997746618659,0.06563908456373492,False,Left Foot,Open Play,1,0,2,Half Volley
-7.467261881037788,0.05837212474256267,False,Head,Open Play,0,1,6,Normal
-15.384407690905748,0.051642638170045815,False,Left Foot,Open Play,0,0,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-14.561936684383703,0.05707782499505588,False,Right Foot,Open Play,1,0,1,Half Volley
-17.921216476567658,0.054428719892049136,False,Left Foot,Open Play,1,0,2,Normal
-27.314831136216085,0.06702615073381427,False,Right Foot,Open Play,1,0,1,Half Volley
-4.049691346263314,0.05589014738851366,False,Head,Open Play,0,0,3,Normal
-13.086252328302399,0.06151795627838396,False,Right Foot,Open Play,0,0,1,Half Volley
-6.830812543175225,0.053721938424343856,False,Right Foot,Open Play,1,0,2,Volley
-21.880585001320235,0.06551856168031513,False,Left Foot,Open Play,0,0,1,Normal
-14.469968901141424,0.05796211303109392,False,Right Foot,Open Play,0,0,2,Half Volley
-16.71466422037846,0.05993484535026845,False,Right Foot,Open Play,1,0,3,Volley
-19.359752064528102,0.056975497912531786,False,Right Foot,Open Play,0,0,1,Normal
-8.902246907382429,0.059242843880919036,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912504,Kosovare Asllani,AC Milan W,8.273451516749224,0.058853211116592856,True,Right Foot,Open Play,1,0,2,Half Volley
+3912504,Rachel Cuschieri,Sampdoria W,29.669681494751504,0.07227288439706807,False,Right Foot,Open Play,0,0,1,Normal
+3912504,Sarah Huchet,Sampdoria W,37.9938152861752,0.06122378024765254,False,Right Foot,Open Play,1,0,1,Half Volley
+3912504,Alice Benoit,Sampdoria W,34.77038970158373,0.07360382381465713,False,Left Foot,Open Play,0,0,0,Normal
+3912504,Michela Giordano,Sampdoria W,27.946556138458284,0.06367008594044031,False,Right Foot,Open Play,1,1,1,Normal
+3912504,Valentina Bergamaschi,AC Milan W,27.011849251763568,0.06682364118940262,False,Right Foot,Open Play,1,0,1,Half Volley
+3912504,Chanté-Mary Dompig,AC Milan W,10.24207010325549,0.05821413326705839,False,Head,Open Play,0,1,3,Normal
+3912504,Cecilia Re,Sampdoria W,7.824321056807426,0.058508111070276946,False,Left Foot,Open Play,1,0,1,Half Volley
+3912504,Tatiely Cristina Sena das Neves,Sampdoria W,21.426385602802913,0.06603876595025548,False,Right Foot,Open Play,0,0,3,Normal
+3912504,Rachel Cuschieri,Sampdoria W,17.246738822165774,0.05576709263420871,False,Right Foot,Open Play,0,0,2,Normal
+3912504,Rachel Cuschieri,Sampdoria W,22.763347732704,0.06739958196930627,False,Right Foot,Open Play,0,0,1,Normal
+3912504,Eva Schatzer,Sampdoria W,29.88260363489098,0.06992790140124865,False,Left Foot,Open Play,0,0,1,Normal
+3912504,Kosovare Asllani,AC Milan W,19.96997746618659,0.06563908456373492,False,Left Foot,Open Play,1,0,2,Half Volley
+3912504,Chanté-Mary Dompig,AC Milan W,7.467261881037788,0.05837212474256267,False,Head,Open Play,0,1,6,Normal
+3912504,Tatiely Cristina Sena das Neves,Sampdoria W,15.384407690905748,0.051642638170045815,False,Left Foot,Open Play,0,0,3,Normal
+3912504,Tatiely Cristina Sena das Neves,Sampdoria W,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3912504,Chanté-Mary Dompig,AC Milan W,14.561936684383703,0.05707782499505588,False,Right Foot,Open Play,1,0,1,Half Volley
+3912504,Guðný Árnadóttir,AC Milan W,17.921216476567658,0.054428719892049136,False,Left Foot,Open Play,1,0,2,Normal
+3912504,Valentina Bergamaschi,AC Milan W,27.314831136216085,0.06702615073381427,False,Right Foot,Open Play,1,0,1,Half Volley
+3912504,Chanté-Mary Dompig,AC Milan W,4.049691346263314,0.05589014738851366,False,Head,Open Play,0,0,3,Normal
+3912504,Kosovare Asllani,AC Milan W,13.086252328302399,0.06151795627838396,False,Right Foot,Open Play,0,0,1,Half Volley
+3912504,Christy Grimshaw,AC Milan W,6.830812543175225,0.053721938424343856,False,Right Foot,Open Play,1,0,2,Volley
+3912504,Nora Heroum,Sampdoria W,21.880585001320235,0.06551856168031513,False,Left Foot,Open Play,0,0,1,Normal
+3912504,Sarah Huchet,Sampdoria W,14.469968901141424,0.05796211303109392,False,Right Foot,Open Play,0,0,2,Half Volley
+3912504,Tatiely Cristina Sena das Neves,Sampdoria W,16.71466422037846,0.05993484535026845,False,Right Foot,Open Play,1,0,3,Volley
+3912504,Guðný Árnadóttir,AC Milan W,19.359752064528102,0.056975497912531786,False,Right Foot,Open Play,0,0,1,Normal
+3912504,Andrea Stašková,AC Milan W,8.902246907382429,0.059242843880919036,False,Head,Open Play,0,0,4,Normal

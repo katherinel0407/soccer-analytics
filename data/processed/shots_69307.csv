@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.686838598735154,0.0684582896534136,False,Right Foot,Open Play,0,0,2,Normal
-33.1602171283603,0.06317381720086848,False,Right Foot,Open Play,1,0,1,Volley
-24.734186867572586,0.06592464205750889,False,Left Foot,Open Play,0,0,1,Normal
-14.508618128546908,0.06046189725231225,True,Right Foot,Open Play,1,0,3,Normal
-10.0687635785135,0.05848729034337373,False,Left Foot,Open Play,1,0,1,Normal
-18.693849255838135,0.06428432699874706,False,Left Foot,Open Play,0,0,2,Normal
-16.635203635663736,0.054646939511001844,False,Right Foot,Open Play,1,0,0,Normal
-19.307252523339514,0.06489308077529532,False,Right Foot,Open Play,0,0,1,Normal
-28.099999999999994,0.06695455681651837,False,Left Foot,Open Play,0,0,1,Normal
-26.445793616376875,0.06922359171308579,False,Left Foot,Open Play,1,0,1,Half Volley
-32.065557846387144,0.07353742479123694,False,Right Foot,Open Play,0,0,0,Normal
-16.172198366332264,0.06320686631120889,True,Left Foot,Open Play,0,0,1,Normal
-17.71383639983163,0.061765753477773584,False,Right Foot,Open Play,0,1,1,Normal
-18.478365728602736,0.06417647623891956,False,Left Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-12.30690862889621,0.06089697520495661,False,Left Foot,Open Play,0,0,2,Normal
-18.627130750601395,0.06460093269207176,False,Left Foot,Open Play,1,0,0,Lob
-32.43223704896102,0.06303174805830133,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69307,Masoud Shojaei Soleimani,Osasuna,24.686838598735154,0.0684582896534136,False,Right Foot,Open Play,0,0,2,Normal
+69307,Javad Nekounam,Osasuna,33.1602171283603,0.06317381720086848,False,Right Foot,Open Play,1,0,1,Volley
+69307,Fernando Soriano Marco,Osasuna,24.734186867572586,0.06592464205750889,False,Left Foot,Open Play,0,0,1,Normal
+69307,Pedro Eliezer Rodríguez Ledesma,Barcelona,14.508618128546908,0.06046189725231225,True,Right Foot,Open Play,1,0,3,Normal
+69307,Lionel Andrés Messi Cuccittini,Barcelona,10.0687635785135,0.05848729034337373,False,Left Foot,Open Play,1,0,1,Normal
+69307,Lionel Andrés Messi Cuccittini,Barcelona,18.693849255838135,0.06428432699874706,False,Left Foot,Open Play,0,0,2,Normal
+69307,David Villa Sánchez,Barcelona,16.635203635663736,0.054646939511001844,False,Right Foot,Open Play,1,0,0,Normal
+69307,Masoud Shojaei Soleimani,Osasuna,19.307252523339514,0.06489308077529532,False,Right Foot,Open Play,0,0,1,Normal
+69307,Lionel Andrés Messi Cuccittini,Barcelona,28.099999999999994,0.06695455681651837,False,Left Foot,Open Play,0,0,1,Normal
+69307,Pedro Eliezer Rodríguez Ledesma,Barcelona,26.445793616376875,0.06922359171308579,False,Left Foot,Open Play,1,0,1,Half Volley
+69307,David Villa Sánchez,Barcelona,32.065557846387144,0.07353742479123694,False,Right Foot,Open Play,0,0,0,Normal
+69307,Lionel Andrés Messi Cuccittini,Barcelona,16.172198366332264,0.06320686631120889,True,Left Foot,Open Play,0,0,1,Normal
+69307,David Villa Sánchez,Barcelona,17.71383639983163,0.061765753477773584,False,Right Foot,Open Play,0,1,1,Normal
+69307,David Villa Sánchez,Barcelona,18.478365728602736,0.06417647623891956,False,Left Foot,Open Play,0,0,2,Normal
+69307,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+69307,David Villa Sánchez,Barcelona,12.30690862889621,0.06089697520495661,False,Left Foot,Open Play,0,0,2,Normal
+69307,Pedro Eliezer Rodríguez Ledesma,Barcelona,18.627130750601395,0.06460093269207176,False,Left Foot,Open Play,1,0,0,Lob
+69307,Bojan Krkíc Pérez,Barcelona,32.43223704896102,0.06303174805830133,False,Right Foot,Open Play,0,0,1,Normal

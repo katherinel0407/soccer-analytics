@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.548592987892507,0.053683570999785435,True,Head,Open Play,0,0,3,Normal
-28.524024961425056,0.06429616438221725,False,Right Foot,Open Play,0,0,1,Normal
-32.04075529696514,0.07332126596903206,False,Right Foot,Free Kick,0,0,0,Normal
-23.730571000294113,0.06669289039787535,False,Right Foot,Open Play,1,0,0,Normal
-13.36899397860587,0.053834273505792354,False,Left Foot,Open Play,0,0,2,Normal
-7.741446893184764,0.05757234604180939,False,Head,Open Play,0,1,6,Normal
-25.915632348063596,0.06632466743101409,False,Right Foot,Open Play,1,0,1,Half Volley
-24.82438317461282,0.0688439842429429,False,Right Foot,Open Play,0,0,2,Normal
-26.123169792351,0.06652438945008955,False,Left Foot,Open Play,1,0,2,Normal
-11.045361017187266,0.05493524722892601,False,Head,Open Play,0,0,1,Diving Header
-33.99779404608482,0.07492362944806641,False,Right Foot,Open Play,1,0,0,Normal
-9.847842403288148,0.059212685251165194,False,Head,Open Play,0,1,2,Normal
-22.39464221638739,0.06067831968645818,False,Right Foot,Open Play,1,0,2,Normal
-32.533828548143546,0.05749739659494014,False,Right Foot,Open Play,0,1,1,Normal
-4.130375285612671,0.05657554221456629,False,Left Foot,Open Play,1,1,3,Half Volley
-34.74046631811382,0.05541461611633634,False,Right Foot,Open Play,0,1,1,Normal
-18.221415971323417,0.0525734287725871,False,Right Foot,Open Play,0,1,1,Normal
-7.340980860893184,0.05646445628973127,False,Right Foot,Open Play,1,0,3,Volley
-6.7896980787071834,0.058090237018907885,False,Left Foot,Open Play,1,0,0,Half Volley
-27.029798371427038,0.055177833179591,False,Left Foot,Open Play,0,0,3,Normal
-22.45217138719549,0.06673119854073467,False,Left Foot,Open Play,1,0,3,Volley
-38.302088715891195,0.07672831870771932,False,Left Foot,Open Play,0,0,0,Normal
-26.947356085523488,0.059672597216361915,False,Right Foot,Open Play,1,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754349,Michail Antonio,West Ham United,11.548592987892507,0.053683570999785435,True,Head,Open Play,0,0,3,Normal
+3754349,Mark Noble,West Ham United,28.524024961425056,0.06429616438221725,False,Right Foot,Open Play,0,0,1,Normal
+3754349,Dimitri Payet,West Ham United,32.04075529696514,0.07332126596903206,False,Right Foot,Free Kick,0,0,0,Normal
+3754349,Mark Noble,West Ham United,23.730571000294113,0.06669289039787535,False,Right Foot,Open Play,1,0,0,Normal
+3754349,Michail Antonio,West Ham United,13.36899397860587,0.053834273505792354,False,Left Foot,Open Play,0,0,2,Normal
+3754349,James Collins,West Ham United,7.741446893184764,0.05757234604180939,False,Head,Open Play,0,1,6,Normal
+3754349,Michail Antonio,West Ham United,25.915632348063596,0.06632466743101409,False,Right Foot,Open Play,1,0,1,Half Volley
+3754349,Dimitri Payet,West Ham United,24.82438317461282,0.0688439842429429,False,Right Foot,Open Play,0,0,2,Normal
+3754349,Ben Davies,Tottenham Hotspur,26.123169792351,0.06652438945008955,False,Left Foot,Open Play,1,0,2,Normal
+3754349,Erik Lamela,Tottenham Hotspur,11.045361017187266,0.05493524722892601,False,Head,Open Play,0,0,1,Diving Header
+3754349,Ryan Mason,Tottenham Hotspur,33.99779404608482,0.07492362944806641,False,Right Foot,Open Play,1,0,0,Normal
+3754349,Aaron Cresswell,West Ham United,9.847842403288148,0.059212685251165194,False,Head,Open Play,0,1,2,Normal
+3754349,Pedro Mba Obiang Avomo,West Ham United,22.39464221638739,0.06067831968645818,False,Right Foot,Open Play,1,0,2,Normal
+3754349,Toby Alderweireld,Tottenham Hotspur,32.533828548143546,0.05749739659494014,False,Right Foot,Open Play,0,1,1,Normal
+3754349,Harry Kane,Tottenham Hotspur,4.130375285612671,0.05657554221456629,False,Left Foot,Open Play,1,1,3,Half Volley
+3754349,Toby Alderweireld,Tottenham Hotspur,34.74046631811382,0.05541461611633634,False,Right Foot,Open Play,0,1,1,Normal
+3754349,Christian Dannemann Eriksen,Tottenham Hotspur,18.221415971323417,0.0525734287725871,False,Right Foot,Open Play,0,1,1,Normal
+3754349,Michail Antonio,West Ham United,7.340980860893184,0.05646445628973127,False,Right Foot,Open Play,1,0,3,Volley
+3754349,Harry Kane,Tottenham Hotspur,6.7896980787071834,0.058090237018907885,False,Left Foot,Open Play,1,0,0,Half Volley
+3754349,Heung-Min Son,Tottenham Hotspur,27.029798371427038,0.055177833179591,False,Left Foot,Open Play,0,0,3,Normal
+3754349,Aaron Cresswell,West Ham United,22.45217138719549,0.06673119854073467,False,Left Foot,Open Play,1,0,3,Volley
+3754349,Aaron Cresswell,West Ham United,38.302088715891195,0.07672831870771932,False,Left Foot,Open Play,0,0,0,Normal
+3754349,Dimitri Payet,West Ham United,26.947356085523488,0.059672597216361915,False,Right Foot,Open Play,1,1,2,Half Volley

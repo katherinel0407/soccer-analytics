@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.349089035228474,0.05834412362132225,False,Left Foot,Open Play,1,0,1,Half Volley
-65.02499519415592,0.10687926377413219,False,Right Foot,Open Play,0,0,1,Lob
-24.300823031329614,0.06500587635189169,False,Right Foot,Open Play,0,0,1,Half Volley
-17.396838793298045,0.06305753640256036,False,Left Foot,Open Play,0,0,3,Half Volley
-20.459227746911665,0.06579875875817331,False,Left Foot,Open Play,1,0,1,Normal
-16.313491349187025,0.06340211598807886,False,Left Foot,Open Play,0,0,2,Normal
-11.03177229641729,0.05514275120890505,False,Right Foot,Open Play,1,0,0,Volley
-10.594810050208547,0.052926775203757194,False,Left Foot,Open Play,0,0,3,Half Volley
-5.872818744010408,0.05506370968882207,True,Right Foot,Open Play,1,0,3,Normal
-25.814724480420082,0.053189881285884526,False,Left Foot,Open Play,0,0,1,Normal
-15.084097586531316,0.06232565925254515,False,Left Foot,Open Play,1,0,1,Normal
-16.715561611863365,0.0584262582597742,False,Right Foot,Open Play,1,0,2,Volley
-20.080338642562786,0.06566154658308239,False,Left Foot,Open Play,0,0,3,Normal
-9.980981915623332,0.05895308856689942,True,Right Foot,Open Play,1,1,1,Half Volley
-8.028075734570518,0.058484650594386865,False,Left Foot,Open Play,1,0,4,Volley
-5.2554733373883655,0.05693952009066786,False,Right Foot,Open Play,1,0,1,Normal
-32.83321488980329,0.06182064488612576,False,Right Foot,Open Play,1,0,0,Normal
-9.548298277703735,0.05951688929158002,True,Left Foot,Open Play,1,0,1,Normal
-15.697770542341352,0.06277887834867223,False,Left Foot,Open Play,1,0,3,Normal
-21.32135080148536,0.06588860393028646,False,Left Foot,Open Play,1,0,0,Half Volley
-27.577527082753456,0.05385995291755711,False,Left Foot,Open Play,0,0,1,Normal
-33.955411939777726,0.06670238128837315,False,Right Foot,Open Play,0,0,0,Half Volley
-29.533032353620587,0.06604571146704064,False,Left Foot,Free Kick,0,0,0,Normal
-18.79627622695517,0.0616945076711611,False,Left Foot,Open Play,0,0,2,Normal
-11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
-11.119802156513401,0.06022092635158308,False,Left Foot,Open Play,1,0,2,Normal
-4.816637831516916,0.05657321983598972,True,Right Foot,Open Play,1,0,1,Normal
-13.946325680981353,0.06149519234169887,False,Left Foot,Open Play,0,0,1,Normal
-24.508161905781517,0.0686691908034882,False,Right Foot,Open Play,0,0,3,Normal
-17.309246084101982,0.05808369704886677,False,Right Foot,Open Play,0,0,1,Half Volley
-14.00142849854971,0.06186587174899774,False,Left Foot,Open Play,0,0,1,Normal
-29.004310024546356,0.062088390849295,False,Right Foot,Open Play,0,0,0,Normal
-17.58010238878034,0.06405647934851952,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9726,Lionel Andrés Messi Cuccittini,Barcelona,12.349089035228474,0.05834412362132225,False,Left Foot,Open Play,1,0,1,Half Volley
+9726,Guilherme dos Santos Torres,RC Deportivo La Coruña,65.02499519415592,0.10687926377413219,False,Right Foot,Open Play,0,0,1,Lob
+9726,José Paulo Bezzera Maciel Júnior,Barcelona,24.300823031329614,0.06500587635189169,False,Right Foot,Open Play,0,0,1,Half Volley
+9726,Celso Borges Mora,RC Deportivo La Coruña,17.396838793298045,0.06305753640256036,False,Left Foot,Open Play,0,0,3,Half Volley
+9726,Lionel Andrés Messi Cuccittini,Barcelona,20.459227746911665,0.06579875875817331,False,Left Foot,Open Play,1,0,1,Normal
+9726,Lionel Andrés Messi Cuccittini,Barcelona,16.313491349187025,0.06340211598807886,False,Left Foot,Open Play,0,0,2,Normal
+9726,Aleix Vidal Parreu,Barcelona,11.03177229641729,0.05514275120890505,False,Right Foot,Open Play,1,0,0,Volley
+9726,Lionel Andrés Messi Cuccittini,Barcelona,10.594810050208547,0.052926775203757194,False,Left Foot,Open Play,0,0,3,Half Volley
+9726,Luis Alberto Suárez Díaz,Barcelona,5.872818744010408,0.05506370968882207,True,Right Foot,Open Play,1,0,3,Normal
+9726,Carles Gil de Pareja Vicent,RC Deportivo La Coruña,25.814724480420082,0.053189881285884526,False,Left Foot,Open Play,0,0,1,Normal
+9726,Lionel Andrés Messi Cuccittini,Barcelona,15.084097586531316,0.06232565925254515,False,Left Foot,Open Play,1,0,1,Normal
+9726,Aleix Vidal Parreu,Barcelona,16.715561611863365,0.0584262582597742,False,Right Foot,Open Play,1,0,2,Volley
+9726,Lionel Andrés Messi Cuccittini,Barcelona,20.080338642562786,0.06566154658308239,False,Left Foot,Open Play,0,0,3,Normal
+9726,José Paulo Bezzera Maciel Júnior,Barcelona,9.980981915623332,0.05895308856689942,True,Right Foot,Open Play,1,1,1,Half Volley
+9726,Luis Alberto Suárez Díaz,Barcelona,8.028075734570518,0.058484650594386865,False,Left Foot,Open Play,1,0,4,Volley
+9726,Luis Alberto Suárez Díaz,Barcelona,5.2554733373883655,0.05693952009066786,False,Right Foot,Open Play,1,0,1,Normal
+9726,Guilherme dos Santos Torres,RC Deportivo La Coruña,32.83321488980329,0.06182064488612576,False,Right Foot,Open Play,1,0,0,Normal
+9726,Luis Alberto Suárez Díaz,Barcelona,9.548298277703735,0.05951688929158002,True,Left Foot,Open Play,1,0,1,Normal
+9726,Lionel Andrés Messi Cuccittini,Barcelona,15.697770542341352,0.06277887834867223,False,Left Foot,Open Play,1,0,3,Normal
+9726,Emre Çolak,RC Deportivo La Coruña,21.32135080148536,0.06588860393028646,False,Left Foot,Open Play,1,0,0,Half Volley
+9726,Carles Gil de Pareja Vicent,RC Deportivo La Coruña,27.577527082753456,0.05385995291755711,False,Left Foot,Open Play,0,0,1,Normal
+9726,Federico Santiago Valverde Dipetta,RC Deportivo La Coruña,33.955411939777726,0.06670238128837315,False,Right Foot,Open Play,0,0,0,Half Volley
+9726,Lionel Andrés Messi Cuccittini,Barcelona,29.533032353620587,0.06604571146704064,False,Left Foot,Free Kick,0,0,0,Normal
+9726,Lionel Andrés Messi Cuccittini,Barcelona,18.79627622695517,0.0616945076711611,False,Left Foot,Open Play,0,0,2,Normal
+9726,Lionel Andrés Messi Cuccittini,Barcelona,11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
+9726,Jordi Alba Ramos,Barcelona,11.119802156513401,0.06022092635158308,False,Left Foot,Open Play,1,0,2,Normal
+9726,José Paulo Bezzera Maciel Júnior,Barcelona,4.816637831516916,0.05657321983598972,True,Right Foot,Open Play,1,0,1,Normal
+9726,Lionel Andrés Messi Cuccittini,Barcelona,13.946325680981353,0.06149519234169887,False,Left Foot,Open Play,0,0,1,Normal
+9726,Zakaria Bakkali,RC Deportivo La Coruña,24.508161905781517,0.0686691908034882,False,Right Foot,Open Play,0,0,3,Normal
+9726,Aleix Vidal Parreu,Barcelona,17.309246084101982,0.05808369704886677,False,Right Foot,Open Play,0,0,1,Half Volley
+9726,Luis Alberto Suárez Díaz,Barcelona,14.00142849854971,0.06186587174899774,False,Left Foot,Open Play,0,0,1,Normal
+9726,Borja Valle Balonga,RC Deportivo La Coruña,29.004310024546356,0.062088390849295,False,Right Foot,Open Play,0,0,0,Normal
+9726,Borja Valle Balonga,RC Deportivo La Coruña,17.58010238878034,0.06405647934851952,False,Right Foot,Open Play,0,0,1,Normal

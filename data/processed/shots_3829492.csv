@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.512296062065975,0.057231355127113505,False,Head,Open Play,0,1,6,Diving Header
-9.74166310236604,0.057481878256257134,False,Left Foot,Open Play,1,1,2,Normal
-3.687817782917152,0.05661836159496084,True,Right Foot,Open Play,1,0,2,Normal
-25.409643838511396,0.05578943973419332,False,Right Foot,Open Play,0,1,2,Volley
-16.397560794215707,0.06343909880649706,False,Left Foot,Open Play,1,0,1,Normal
-14.806079832285109,0.05741575065754589,False,Left Foot,Open Play,1,1,5,Normal
-26.41685068285014,0.060731191133571276,False,Left Foot,Free Kick,0,0,0,Normal
-16.483021567661677,0.054796038428849864,False,Right Foot,Open Play,1,1,4,Half Volley
-23.675303588338636,0.06294411914402386,False,Right Foot,Open Play,1,0,2,Normal
-9.7082439194738,0.0543680240815179,False,Head,Open Play,0,1,2,Normal
-10.85034561661517,0.058417116657445735,False,Right Foot,Open Play,1,1,2,Normal
-26.027869678481174,0.06333337033248015,False,Left Foot,Open Play,1,0,1,Half Volley
-7.58023746329889,0.0573954672265941,False,Head,Open Play,0,1,2,Normal
-29.701515112869238,0.07140590465584257,False,Right Foot,Open Play,0,0,2,Normal
-17.267599717389785,0.060802817800336154,False,Head,Open Play,0,0,4,Normal
-15.753729717117787,0.0616776616060501,False,Head,Open Play,0,0,5,Normal
-22.030206535572926,0.06555922612905532,False,Right Foot,Open Play,0,0,3,Normal
-12.909686285886274,0.059786354979563895,False,Head,Open Play,0,1,1,Normal
-33.837848631377256,0.0688689721135595,False,Right Foot,Open Play,1,0,1,Half Volley
-21.978398485785995,0.06639493045941591,False,Left Foot,Open Play,1,1,1,Normal
-14.666969693839278,0.06015719465648752,False,Head,Open Play,0,0,2,Normal
-10.640488710580925,0.054802058313551706,False,Right Foot,Open Play,1,0,2,Volley
-21.203773249117717,0.0663994532276449,False,Right Foot,Open Play,0,1,3,Normal
-19.882907232092595,0.06460093669811946,False,Right Foot,Open Play,0,0,2,Normal
-10.269371937952194,0.0572057344244238,False,Right Foot,Open Play,1,1,2,Half Volley
-21.900913222968583,0.06680006915018565,False,Left Foot,Open Play,0,1,2,Normal
-26.165817395984405,0.06979843946294362,False,Right Foot,Free Kick,0,0,0,Normal
-15.210851389715167,0.06257733115925052,False,Head,Open Play,0,1,2,Normal
-14.40555448429529,0.06045751440737711,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829492,Gadji Celi Carmen Junior Tallo,Lille,6.512296062065975,0.057231355127113505,False,Head,Open Play,0,1,6,Diving Header
+3829492,Alejandro Bedoya,Nantes,9.74166310236604,0.057481878256257134,False,Left Foot,Open Play,1,1,2,Normal
+3829492,Jules Iloki,Nantes,3.687817782917152,0.05661836159496084,True,Right Foot,Open Play,1,0,2,Normal
+3829492,Sébastien Corchia,Lille,25.409643838511396,0.05578943973419332,False,Right Foot,Open Play,0,1,2,Volley
+3829492,Éric Bauthéac,Lille,16.397560794215707,0.06343909880649706,False,Left Foot,Open Play,1,0,1,Normal
+3829492,Rio Antonio Zoba Mavuba,Lille,14.806079832285109,0.05741575065754589,False,Left Foot,Open Play,1,1,5,Normal
+3829492,Éric Bauthéac,Lille,26.41685068285014,0.060731191133571276,False,Left Foot,Free Kick,0,0,0,Normal
+3829492,Gadji Celi Carmen Junior Tallo,Lille,16.483021567661677,0.054796038428849864,False,Right Foot,Open Play,1,1,4,Half Volley
+3829492,Yassine Benzia,Lille,23.675303588338636,0.06294411914402386,False,Right Foot,Open Play,1,0,2,Normal
+3829492,Gadji Celi Carmen Junior Tallo,Lille,9.7082439194738,0.0543680240815179,False,Head,Open Play,0,1,2,Normal
+3829492,Gadji Celi Carmen Junior Tallo,Lille,10.85034561661517,0.058417116657445735,False,Right Foot,Open Play,1,1,2,Normal
+3829492,Sofiane Boufal,Lille,26.027869678481174,0.06333337033248015,False,Left Foot,Open Play,1,0,1,Half Volley
+3829492,Alejandro Bedoya,Nantes,7.58023746329889,0.0573954672265941,False,Head,Open Play,0,1,2,Normal
+3829492,Jules Iloki,Nantes,29.701515112869238,0.07140590465584257,False,Right Foot,Open Play,0,0,2,Normal
+3829492,Oswaldo Augusto Vizcarrondo Araújo,Nantes,17.267599717389785,0.060802817800336154,False,Head,Open Play,0,0,4,Normal
+3829492,Marko Baša,Lille,15.753729717117787,0.0616776616060501,False,Head,Open Play,0,0,5,Normal
+3829492,Adrien Thomasson,Nantes,22.030206535572926,0.06555922612905532,False,Right Foot,Open Play,0,0,3,Normal
+3829492,Baptiste Guillaume,Lille,12.909686285886274,0.059786354979563895,False,Head,Open Play,0,1,1,Normal
+3829492,Alejandro Bedoya,Nantes,33.837848631377256,0.0688689721135595,False,Right Foot,Open Play,1,0,1,Half Volley
+3829492,Éric Bauthéac,Lille,21.978398485785995,0.06639493045941591,False,Left Foot,Open Play,1,1,1,Normal
+3829492,Kolbeinn Sigþórsson,Nantes,14.666969693839278,0.06015719465648752,False,Head,Open Play,0,0,2,Normal
+3829492,Alejandro Bedoya,Nantes,10.640488710580925,0.054802058313551706,False,Right Foot,Open Play,1,0,2,Volley
+3829492,Lenny Nangis,Lille,21.203773249117717,0.0663994532276449,False,Right Foot,Open Play,0,1,3,Normal
+3829492,Sofiane Boufal,Lille,19.882907232092595,0.06460093669811946,False,Right Foot,Open Play,0,0,2,Normal
+3829492,Renato Civelli,Lille,10.269371937952194,0.0572057344244238,False,Right Foot,Open Play,1,1,2,Half Volley
+3829492,Sofiane Boufal,Lille,21.900913222968583,0.06680006915018565,False,Left Foot,Open Play,0,1,2,Normal
+3829492,Sébastien Corchia,Lille,26.165817395984405,0.06979843946294362,False,Right Foot,Free Kick,0,0,0,Normal
+3829492,Djibril Sidibé,Lille,15.210851389715167,0.06257733115925052,False,Head,Open Play,0,1,2,Normal
+3829492,Lenny Nangis,Lille,14.40555448429529,0.06045751440737711,False,Head,Open Play,0,0,2,Normal

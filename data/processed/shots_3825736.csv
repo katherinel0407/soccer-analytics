@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.542516101885596,0.06639713458385986,False,Left Foot,Open Play,1,0,0,Volley
-8.221921916437788,0.055484042949019874,False,Head,Open Play,0,0,1,Normal
-30.83018001893599,0.06557020856531741,False,Right Foot,Open Play,0,0,2,Half Volley
-13.433167906342865,0.05770393857262164,True,Left Foot,Open Play,1,0,2,Volley
-16.843990026119112,0.06352379834110919,False,Right Foot,Open Play,0,1,2,Half Volley
-26.134460009726627,0.06858245561292425,False,Left Foot,Open Play,0,0,1,Normal
-19.041270965983333,0.06499745954056854,False,Right Foot,Open Play,0,1,4,Half Volley
-19.487944991712183,0.06499130767294434,False,Right Foot,Open Play,1,0,2,Normal
-16.696406799069077,0.06354133835952398,False,Left Foot,Open Play,1,0,1,Volley
-35.327751131369794,0.06974899776595177,False,Left Foot,Open Play,0,0,0,Normal
-21.85886547833625,0.05496978248293254,False,Right Foot,Open Play,0,1,1,Normal
-27.51363298439521,0.07021429368012815,False,Right Foot,Open Play,0,1,1,Normal
-10.515227054134405,0.060109657960403885,False,Right Foot,Open Play,1,0,3,Normal
-28.504911857432568,0.0621555156578903,False,Right Foot,Open Play,0,0,1,Normal
-10.707474025184464,0.06021662072544077,False,Left Foot,Open Play,1,0,2,Normal
-14.07195793057953,0.061641107501133975,False,Left Foot,Open Play,0,0,4,Normal
-50.24151669685142,0.0703949102578729,True,Left Foot,Open Play,1,0,1,Lob
-20.365166338628317,0.05485008872276825,False,Right Foot,Open Play,0,0,1,Normal
-24.691699009991197,0.05663912918491144,False,Right Foot,Open Play,0,0,1,Normal
-24.140008285002722,0.06678980828090611,False,Right Foot,Open Play,1,0,2,Normal
-27.139823138701555,0.06447524018000363,False,Left Foot,Open Play,0,0,2,Normal
-20.738611332488006,0.06583368443065261,False,Right Foot,Open Play,1,0,1,Half Volley
-22.21936092690336,0.06299828566385358,False,Left Foot,Open Play,0,0,2,Normal
-25.178760890877847,0.06905265502377766,False,Right Foot,Open Play,0,0,1,Normal
-10.456098698845565,0.0582582180112295,True,Right Foot,Open Play,1,0,2,Half Volley
-14.819244245237345,0.059253601585626134,False,Head,Open Play,0,1,2,Normal
-29.619588113273966,0.06955121264997363,False,Left Foot,Open Play,0,1,1,Normal
-61.64170666034483,0.10886249913088869,False,Left Foot,Open Play,1,0,1,Normal
-16.757386431063768,0.062319787524754075,False,Left Foot,Open Play,1,0,1,Normal
-6.746851117373194,0.056949404624955284,True,Right Foot,Open Play,1,0,2,Half Volley
-18.000555546982437,0.0613509591687652,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825736,José Ignacio Martínez García,Rayo Vallecano,21.542516101885596,0.06639713458385986,False,Left Foot,Open Play,1,0,0,Volley
+3825736,Nicolás Ladislao Fedor Flores,Rayo Vallecano,8.221921916437788,0.055484042949019874,False,Head,Open Play,0,0,1,Normal
+3825736,Adrián Embarba Blázquez,Rayo Vallecano,30.83018001893599,0.06557020856531741,False,Right Foot,Open Play,0,0,2,Half Volley
+3825736,Jozabed Sánchez Ruiz,Rayo Vallecano,13.433167906342865,0.05770393857262164,True,Left Foot,Open Play,1,0,2,Volley
+3825736,Pablo Hernández Domínguez,Rayo Vallecano,16.843990026119112,0.06352379834110919,False,Right Foot,Open Play,0,1,2,Half Volley
+3825736,Rodrigo Moreno Machado,Valencia,26.134460009726627,0.06858245561292425,False,Left Foot,Open Play,0,0,1,Normal
+3825736,Nicolás Ladislao Fedor Flores,Rayo Vallecano,19.041270965983333,0.06499745954056854,False,Right Foot,Open Play,0,1,4,Half Volley
+3825736,Pablo Hernández Domínguez,Rayo Vallecano,19.487944991712183,0.06499130767294434,False,Right Foot,Open Play,1,0,2,Normal
+3825736,Rodrigo Moreno Machado,Valencia,16.696406799069077,0.06354133835952398,False,Left Foot,Open Play,1,0,1,Volley
+3825736,André Filipe Tavares Gomes,Valencia,35.327751131369794,0.06974899776595177,False,Left Foot,Open Play,0,0,0,Normal
+3825736,Alhassane Bangoura,Rayo Vallecano,21.85886547833625,0.05496978248293254,False,Right Foot,Open Play,0,1,1,Normal
+3825736,Santiago Mina Lorenzo,Valencia,27.51363298439521,0.07021429368012815,False,Right Foot,Open Play,0,1,1,Normal
+3825736,Nicolás Ladislao Fedor Flores,Rayo Vallecano,10.515227054134405,0.060109657960403885,False,Right Foot,Open Play,1,0,3,Normal
+3825736,Roberto Trashorras Gayoso,Rayo Vallecano,28.504911857432568,0.0621555156578903,False,Right Foot,Open Play,0,0,1,Normal
+3825736,Jozabed Sánchez Ruiz,Rayo Vallecano,10.707474025184464,0.06021662072544077,False,Left Foot,Open Play,1,0,2,Normal
+3825736,Pablo Hernández Domínguez,Rayo Vallecano,14.07195793057953,0.061641107501133975,False,Left Foot,Open Play,0,0,4,Normal
+3825736,Álvaro Negredo Sánchez,Valencia,50.24151669685142,0.0703949102578729,True,Left Foot,Open Play,1,0,1,Lob
+3825736,Rodrigo Moreno Machado,Valencia,20.365166338628317,0.05485008872276825,False,Right Foot,Open Play,0,0,1,Normal
+3825736,Nicolás Ladislao Fedor Flores,Rayo Vallecano,24.691699009991197,0.05663912918491144,False,Right Foot,Open Play,0,0,1,Normal
+3825736,Jozabed Sánchez Ruiz,Rayo Vallecano,24.140008285002722,0.06678980828090611,False,Right Foot,Open Play,1,0,2,Normal
+3825736,Rodrigo Moreno Machado,Valencia,27.139823138701555,0.06447524018000363,False,Left Foot,Open Play,0,0,2,Normal
+3825736,João Pedro Cavaco Cancelo,Valencia,20.738611332488006,0.06583368443065261,False,Right Foot,Open Play,1,0,1,Half Volley
+3825736,Rodrigo Moreno Machado,Valencia,22.21936092690336,0.06299828566385358,False,Left Foot,Open Play,0,0,2,Normal
+3825736,Roberto Román Triguero,Rayo Vallecano,25.178760890877847,0.06905265502377766,False,Right Foot,Open Play,0,0,1,Normal
+3825736,Diego Javier Llorente Ríos,Rayo Vallecano,10.456098698845565,0.0582582180112295,True,Right Foot,Open Play,1,0,2,Half Volley
+3825736,Rodrigo Moreno Machado,Valencia,14.819244245237345,0.059253601585626134,False,Head,Open Play,0,1,2,Normal
+3825736,Danilo Barbosa da Silva,Valencia,29.619588113273966,0.06955121264997363,False,Left Foot,Open Play,0,1,1,Normal
+3825736,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,61.64170666034483,0.10886249913088869,False,Left Foot,Open Play,1,0,1,Normal
+3825736,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,16.757386431063768,0.062319787524754075,False,Left Foot,Open Play,1,0,1,Normal
+3825736,Francisco Alcácer García,Valencia,6.746851117373194,0.056949404624955284,True,Right Foot,Open Play,1,0,2,Half Volley
+3825736,André Filipe Tavares Gomes,Valencia,18.000555546982437,0.0613509591687652,False,Right Foot,Open Play,1,0,2,Normal

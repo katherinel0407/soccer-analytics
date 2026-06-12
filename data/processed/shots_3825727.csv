@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.82401661042895,0.06281482326521057,False,Right Foot,Open Play,1,0,0,Normal
-13.124404748406688,0.05570849618397846,False,Left Foot,Open Play,1,0,3,Volley
-6.369458375717676,0.057859053787624,False,Head,Open Play,0,1,5,Normal
-14.523085071705673,0.05803896059087137,False,Right Foot,Open Play,1,0,2,Backheel
-9.859513172565874,0.05972492681957278,False,Left Foot,Open Play,1,0,4,Normal
-22.503555274667157,0.06443459735117359,False,Left Foot,Open Play,1,0,2,Normal
-24.46752950340512,0.06799721315495431,True,Right Foot,Open Play,0,0,2,Normal
-13.70328427786565,0.05889461838886222,False,Right Foot,Open Play,1,0,2,Normal
-10.846658471621572,0.05248532822220831,False,Head,Open Play,0,1,1,Normal
-21.941968918034675,0.06674389169844014,True,Left Foot,Open Play,0,0,2,Normal
-20.647518010647186,0.0656183716777787,False,Left Foot,Open Play,1,0,1,Half Volley
-27.215069355046662,0.07008468211231839,False,Right Foot,Open Play,1,0,0,Normal
-10.064790112068913,0.05669917321215077,False,Head,Open Play,0,1,5,Normal
-10.283968105745952,0.059572263249997315,False,Right Foot,Open Play,1,0,2,Half Volley
-17.593180496999402,0.06403986096152028,False,Left Foot,Open Play,1,0,3,Half Volley
-7.636753236814717,0.055202154542027995,False,Head,Open Play,0,1,3,Normal
-25.08904143246609,0.05889547405975103,False,Left Foot,Open Play,0,0,1,Normal
-20.424739900424676,0.06590571044468431,False,Right Foot,Open Play,0,0,3,Normal
-7.502666192761077,0.05768934263973709,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-60.59249128398666,0.1066853030087433,False,Left Foot,Open Play,0,0,0,Lob
-27.441574298862665,0.06995529461952293,False,Right Foot,Open Play,0,0,1,Normal
-23.53083083956026,0.06551737301024921,False,Right Foot,Open Play,0,0,1,Normal
-13.61910422898657,0.061816947681021694,False,Right Foot,Open Play,0,0,3,Lob
-29.89648808806814,0.05839677379070133,False,Right Foot,Open Play,0,0,1,Normal
-23.46912865872953,0.05202606627970893,False,Left Foot,Open Play,0,0,2,Normal
-12.325988804148734,0.06000499252294679,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825727,Gonzalo Escalante,Eibar,30.82401661042895,0.06281482326521057,False,Right Foot,Open Play,1,0,0,Normal
+3825727,Iván Ramis Barrios,Eibar,13.124404748406688,0.05570849618397846,False,Left Foot,Open Play,1,0,3,Volley
+3825727,Felipe Salvador Caicedo Corozo,Espanyol,6.369458375717676,0.057859053787624,False,Head,Open Play,0,1,5,Normal
+3825727,Borja González Tomás,Eibar,14.523085071705673,0.05803896059087137,False,Right Foot,Open Play,1,0,2,Backheel
+3825727,Borja González Tomás,Eibar,9.859513172565874,0.05972492681957278,False,Left Foot,Open Play,1,0,4,Normal
+3825727,Daniel García Carrillo,Eibar,22.503555274667157,0.06443459735117359,False,Left Foot,Open Play,1,0,2,Normal
+3825727,Takashi Inui,Eibar,24.46752950340512,0.06799721315495431,True,Right Foot,Open Play,0,0,2,Normal
+3825727,Takashi Inui,Eibar,13.70328427786565,0.05889461838886222,False,Right Foot,Open Play,1,0,2,Normal
+3825727,Iván Ramis Barrios,Eibar,10.846658471621572,0.05248532822220831,False,Head,Open Play,0,1,1,Normal
+3825727,Joan Jordán Moreno,Espanyol,21.941968918034675,0.06674389169844014,True,Left Foot,Open Play,0,0,2,Normal
+3825727,Antonio Manuel Luna Rodríguez,Eibar,20.647518010647186,0.0656183716777787,False,Left Foot,Open Play,1,0,1,Half Volley
+3825727,Hernán Arsenio Pérez González,Espanyol,27.215069355046662,0.07008468211231839,False,Right Foot,Open Play,1,0,0,Normal
+3825727,Sergio Enrich Ametller,Eibar,10.064790112068913,0.05669917321215077,False,Head,Open Play,0,1,5,Normal
+3825727,Borja González Tomás,Eibar,10.283968105745952,0.059572263249997315,False,Right Foot,Open Play,1,0,2,Half Volley
+3825727,Marco Asensio Willemsen,Espanyol,17.593180496999402,0.06403986096152028,False,Left Foot,Open Play,1,0,3,Half Volley
+3825727,Aleksandar Pantić,Eibar,7.636753236814717,0.055202154542027995,False,Head,Open Play,0,1,3,Normal
+3825727,Hernán Arsenio Pérez González,Espanyol,25.08904143246609,0.05889547405975103,False,Left Foot,Open Play,0,0,1,Normal
+3825727,Marco Asensio Willemsen,Espanyol,20.424739900424676,0.06590571044468431,False,Right Foot,Open Play,0,0,3,Normal
+3825727,Sergio Enrich Ametller,Eibar,7.502666192761077,0.05768934263973709,False,Right Foot,Open Play,0,0,2,Normal
+3825727,Borja González Tomás,Eibar,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3825727,Takashi Inui,Eibar,60.59249128398666,0.1066853030087433,False,Left Foot,Open Play,0,0,0,Lob
+3825727,Borja González Tomás,Eibar,27.441574298862665,0.06995529461952293,False,Right Foot,Open Play,0,0,1,Normal
+3825727,Takashi Inui,Eibar,23.53083083956026,0.06551737301024921,False,Right Foot,Open Play,0,0,1,Normal
+3825727,Borja González Tomás,Eibar,13.61910422898657,0.061816947681021694,False,Right Foot,Open Play,0,0,3,Lob
+3825727,Joan Jordán Moreno,Espanyol,29.89648808806814,0.05839677379070133,False,Right Foot,Open Play,0,0,1,Normal
+3825727,Simone Verdi,Eibar,23.46912865872953,0.05202606627970893,False,Left Foot,Open Play,0,0,2,Normal
+3825727,Takashi Inui,Eibar,12.325988804148734,0.06000499252294679,False,Head,Open Play,0,1,1,Normal

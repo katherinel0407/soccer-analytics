@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.507035203922436,0.05728635955944936,False,Right Foot,Open Play,0,0,1,Normal
-8.072174428244224,0.055413370832525045,True,Right Foot,Open Play,0,0,1,Normal
-26.16906570743403,0.06500161731665935,False,Right Foot,Free Kick,0,0,0,Normal
-12.07849328351844,0.060513465823620466,False,Left Foot,Open Play,0,0,1,Normal
-9.464142856064674,0.05829829100526913,False,Left Foot,Open Play,1,1,2,Normal
-21.760974242896385,0.060001408520890115,False,Right Foot,Open Play,0,1,2,Normal
-12.758134659894443,0.05986632958330781,False,Head,Open Play,0,0,1,Normal
-25.64527246881967,0.05266958699427383,False,Right Foot,Open Play,0,0,1,Normal
-29.323369519889763,0.07052115509643651,False,Right Foot,Open Play,0,0,1,Normal
-24.422940035957993,0.05749811747392453,False,Left Foot,Open Play,0,0,2,Normal
-29.32984827782101,0.05548930078907136,False,Left Foot,Free Kick,0,0,0,Normal
-11.61034021896,0.06010826507741353,False,Right Foot,Open Play,0,0,1,Volley
-30.046630426721723,0.06056734937513542,False,Right Foot,Open Play,1,0,1,Normal
-13.861096637712325,0.059862084670173274,False,Right Foot,Open Play,0,0,2,Normal
-22.7547797176769,0.05582362087342072,False,Left Foot,Open Play,0,0,1,Normal
-30.97256850827842,0.07055111739235129,False,Right Foot,Open Play,0,1,1,Normal
-21.346896729969913,0.06251127953536015,False,Right Foot,Open Play,1,0,1,Half Volley
-16.776471619503308,0.052700522105588274,False,Right Foot,Open Play,0,0,2,Normal
-27.851211822827388,0.059879996771550814,False,Right Foot,Open Play,0,0,0,Normal
-25.8909250510676,0.06279330166785393,False,Right Foot,Open Play,0,1,2,Normal
-24.891765706755315,0.06826244658989179,False,Head,Open Play,0,1,2,Normal
-20.582759776084444,0.0660173075423526,False,Left Foot,Open Play,0,1,2,Normal
-21.222865028077617,0.0578494172709178,False,Right Foot,Free Kick,0,0,0,Normal
-17.511424842085244,0.05712335457108792,False,Right Foot,Open Play,0,0,3,Normal
-28.058866691297418,0.07084497750767621,False,Right Foot,Free Kick,0,0,0,Normal
-72.56231804456084,0.045193405028087684,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749603,José Antonio Reyes Calderón,Arsenal,13.507035203922436,0.05728635955944936,False,Right Foot,Open Play,0,0,1,Normal
+3749603,José Antonio Reyes Calderón,Arsenal,8.072174428244224,0.055413370832525045,True,Right Foot,Open Play,0,0,1,Normal
+3749603,Steed Malbranque,Fulham,26.16906570743403,0.06500161731665935,False,Right Foot,Free Kick,0,0,0,Normal
+3749603,Luís Boa Morte Pereira,Fulham,12.07849328351844,0.060513465823620466,False,Left Foot,Open Play,0,0,1,Normal
+3749603,Steed Malbranque,Fulham,9.464142856064674,0.05829829100526913,False,Left Foot,Open Play,1,1,2,Normal
+3749603,Steed Malbranque,Fulham,21.760974242896385,0.060001408520890115,False,Right Foot,Open Play,0,1,2,Normal
+3749603,Ashley Cole,Arsenal,12.758134659894443,0.05986632958330781,False,Head,Open Play,0,0,1,Normal
+3749603,Junichi Inamoto,Fulham,25.64527246881967,0.05266958699427383,False,Right Foot,Open Play,0,0,1,Normal
+3749603,Thierry Henry,Arsenal,29.323369519889763,0.07052115509643651,False,Right Foot,Open Play,0,0,1,Normal
+3749603,Fredrik Ljungberg,Arsenal,24.422940035957993,0.05749811747392453,False,Left Foot,Open Play,0,0,2,Normal
+3749603,Luís Boa Morte Pereira,Fulham,29.32984827782101,0.05548930078907136,False,Left Foot,Free Kick,0,0,0,Normal
+3749603,Steed Malbranque,Fulham,11.61034021896,0.06010826507741353,False,Right Foot,Open Play,0,0,1,Volley
+3749603,Sylvain Legwinski,Fulham,30.046630426721723,0.06056734937513542,False,Right Foot,Open Play,1,0,1,Normal
+3749603,Collins John,Fulham,13.861096637712325,0.059862084670173274,False,Right Foot,Open Play,0,0,2,Normal
+3749603,José Antonio Reyes Calderón,Arsenal,22.7547797176769,0.05582362087342072,False,Left Foot,Open Play,0,0,1,Normal
+3749603,Brian McBride,Fulham,30.97256850827842,0.07055111739235129,False,Right Foot,Open Play,0,1,1,Normal
+3749603,Sylvain Legwinski,Fulham,21.346896729969913,0.06251127953536015,False,Right Foot,Open Play,1,0,1,Half Volley
+3749603,Moritz Volz,Fulham,16.776471619503308,0.052700522105588274,False,Right Foot,Open Play,0,0,2,Normal
+3749603,Sylvain Legwinski,Fulham,27.851211822827388,0.059879996771550814,False,Right Foot,Open Play,0,0,0,Normal
+3749603,Collins John,Fulham,25.8909250510676,0.06279330166785393,False,Right Foot,Open Play,0,1,2,Normal
+3749603,Carlos Manuel Bocanegra,Fulham,24.891765706755315,0.06826244658989179,False,Head,Open Play,0,1,2,Normal
+3749603,Gaël Clichy,Arsenal,20.582759776084444,0.0660173075423526,False,Left Foot,Open Play,0,1,2,Normal
+3749603,Steed Malbranque,Fulham,21.222865028077617,0.0578494172709178,False,Right Foot,Free Kick,0,0,0,Normal
+3749603,Steed Malbranque,Fulham,17.511424842085244,0.05712335457108792,False,Right Foot,Open Play,0,0,3,Normal
+3749603,Thierry Henry,Arsenal,28.058866691297418,0.07084497750767621,False,Right Foot,Free Kick,0,0,0,Normal
+3749603,Thierry Henry,Arsenal,72.56231804456084,0.045193405028087684,False,Right Foot,Open Play,0,0,0,Normal

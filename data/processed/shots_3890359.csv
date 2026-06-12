@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.317122615944864,0.06030048701823942,False,Right Foot,Open Play,1,1,1,Half Volley
-11.696580696938737,0.0599525114506854,False,Left Foot,Open Play,1,0,1,Normal
-11.527792503337315,0.05966512393664235,False,Head,Open Play,0,1,6,Normal
-24.25283488584375,0.06006933808771921,False,Right Foot,Open Play,1,0,2,Normal
-23.15016198647431,0.06754720737794669,False,Right Foot,Open Play,0,0,2,Normal
-21.08767412494797,0.05375944039208155,False,Right Foot,Open Play,0,0,2,Half Volley
-7.343023900274333,0.05615523886893601,True,Right Foot,Open Play,1,0,3,Volley
-12.918978287774934,0.060225639366674105,False,Left Foot,Open Play,1,0,1,Half Volley
-12.210241602851271,0.05327907023566728,False,Right Foot,Open Play,0,1,2,Normal
-31.092764431616562,0.06977758789862659,False,Right Foot,Open Play,0,0,0,Normal
-20.478769494283586,0.057618858442761454,False,Right Foot,Open Play,0,0,2,Normal
-14.166156853571822,0.0615251103304593,False,Right Foot,Open Play,1,1,2,Overhead Kick
-8.367795408588808,0.057295218619205356,False,Head,Open Play,0,1,4,Normal
-7.792945527847609,0.05822076962670331,True,Head,Open Play,0,1,2,Normal
-14.425671561490644,0.05983879067613682,False,Right Foot,Open Play,1,0,1,Backheel
-26.791789787171737,0.06455294717448423,False,Right Foot,Open Play,0,0,1,Normal
-26.373471519691904,0.06935795801937215,False,Right Foot,Free Kick,0,0,0,Normal
-12.539936203984453,0.0603607709121941,False,Left Foot,Open Play,0,1,2,Normal
-14.855638660118249,0.052364353496992026,False,Head,Open Play,0,0,3,Normal
-10.507616285342747,0.05840381653488687,False,Head,Open Play,0,1,4,Normal
-10.239628899525611,0.05853381483062232,True,Head,Open Play,0,0,5,Normal
-21.145448682872633,0.0565619545667463,False,Left Foot,Open Play,0,0,2,Normal
-8.902246907382422,0.05741998949300543,False,Head,Open Play,0,0,5,Normal
-23.35487101227493,0.05715699150540973,False,Left Foot,Open Play,0,1,2,Normal
-19.088216260300484,0.06507472298708783,False,Right Foot,Open Play,0,0,2,Normal
-30.03081750469008,0.07271199317268205,False,Right Foot,Free Kick,0,0,0,Normal
-29.476261635424525,0.07218058613784456,False,Right Foot,Open Play,0,1,1,Normal
-31.465059987230287,0.07301594289318351,False,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890359,Anthony Modeste,FC Köln,14.317122615944864,0.06030048701823942,False,Right Foot,Open Play,1,1,1,Half Volley
+3890359,Anthony Modeste,FC Köln,11.696580696938737,0.0599525114506854,False,Left Foot,Open Play,1,0,1,Normal
+3890359,Dominique Heintz,FC Köln,11.527792503337315,0.05966512393664235,False,Head,Open Play,0,1,6,Normal
+3890359,Hakan Çalhanoğlu,Bayer Leverkusen,24.25283488584375,0.06006933808771921,False,Right Foot,Open Play,1,0,2,Normal
+3890359,Javier Hernández Balcázar,Bayer Leverkusen,23.15016198647431,0.06754720737794669,False,Right Foot,Open Play,0,0,2,Normal
+3890359,Karim Bellarabi,Bayer Leverkusen,21.08767412494797,0.05375944039208155,False,Right Foot,Open Play,0,0,2,Half Volley
+3890359,Dominik Maroh,FC Köln,7.343023900274333,0.05615523886893601,True,Right Foot,Open Play,1,0,3,Volley
+3890359,Dominique Heintz,FC Köln,12.918978287774934,0.060225639366674105,False,Left Foot,Open Play,1,0,1,Half Volley
+3890359,Karim Bellarabi,Bayer Leverkusen,12.210241602851271,0.05327907023566728,False,Right Foot,Open Play,0,1,2,Normal
+3890359,Karim Bellarabi,Bayer Leverkusen,31.092764431616562,0.06977758789862659,False,Right Foot,Open Play,0,0,0,Normal
+3890359,Kevin Kampl,Bayer Leverkusen,20.478769494283586,0.057618858442761454,False,Right Foot,Open Play,0,0,2,Normal
+3890359,Anthony Modeste,FC Köln,14.166156853571822,0.0615251103304593,False,Right Foot,Open Play,1,1,2,Overhead Kick
+3890359,Anthony Modeste,FC Köln,8.367795408588808,0.057295218619205356,False,Head,Open Play,0,1,4,Normal
+3890359,Javier Hernández Balcázar,Bayer Leverkusen,7.792945527847609,0.05822076962670331,True,Head,Open Play,0,1,2,Normal
+3890359,Anthony Modeste,FC Köln,14.425671561490644,0.05983879067613682,False,Right Foot,Open Play,1,0,1,Backheel
+3890359,Hakan Çalhanoğlu,Bayer Leverkusen,26.791789787171737,0.06455294717448423,False,Right Foot,Open Play,0,0,1,Normal
+3890359,Marcel Risse,FC Köln,26.373471519691904,0.06935795801937215,False,Right Foot,Free Kick,0,0,0,Normal
+3890359,Philipp Hosiner,FC Köln,12.539936203984453,0.0603607709121941,False,Left Foot,Open Play,0,1,2,Normal
+3890359,Yūya Ōsako,FC Köln,14.855638660118249,0.052364353496992026,False,Head,Open Play,0,0,3,Normal
+3890359,Dominik Maroh,FC Köln,10.507616285342747,0.05840381653488687,False,Head,Open Play,0,1,4,Normal
+3890359,Dominik Maroh,FC Köln,10.239628899525611,0.05853381483062232,True,Head,Open Play,0,0,5,Normal
+3890359,Leonardo Bittencourt,FC Köln,21.145448682872633,0.0565619545667463,False,Left Foot,Open Play,0,0,2,Normal
+3890359,Sebastian Boenisch,Bayer Leverkusen,8.902246907382422,0.05741998949300543,False,Head,Open Play,0,0,5,Normal
+3890359,Miloš Jojić,FC Köln,23.35487101227493,0.05715699150540973,False,Left Foot,Open Play,0,1,2,Normal
+3890359,Yūya Ōsako,FC Köln,19.088216260300484,0.06507472298708783,False,Right Foot,Open Play,0,0,2,Normal
+3890359,Hakan Çalhanoğlu,Bayer Leverkusen,30.03081750469008,0.07271199317268205,False,Right Foot,Free Kick,0,0,0,Normal
+3890359,Sebastian Boenisch,Bayer Leverkusen,29.476261635424525,0.07218058613784456,False,Right Foot,Open Play,0,1,1,Normal
+3890359,Sebastian Boenisch,Bayer Leverkusen,31.465059987230287,0.07301594289318351,False,Left Foot,Open Play,1,0,1,Volley

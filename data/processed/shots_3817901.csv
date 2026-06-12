@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.5785302723925465,0.05649150719742745,False,Head,Open Play,0,0,4,Normal
-13.764083696345356,0.05862439922800367,True,Left Foot,Open Play,1,0,2,Normal
-24.404917537250558,0.06827715947299826,False,Right Foot,Open Play,0,0,3,Normal
-35.357036074874834,0.07629357407225347,False,Right Foot,Open Play,0,0,1,Normal
-25.955538907909425,0.05442020421358649,False,Left Foot,Open Play,0,0,2,Normal
-20.023236501624805,0.06468077620780109,False,Left Foot,Open Play,0,0,2,Normal
-32.22436966024316,0.07370137408143278,False,Right Foot,Open Play,0,0,1,Normal
-2.1213203435596366,0.05558205647418723,True,Left Foot,Open Play,1,0,2,Normal
-20.27042180123542,0.059870386177464686,False,Right Foot,Open Play,1,0,1,Volley
-17.014405661086137,0.06145973296860093,False,Right Foot,Open Play,1,0,1,Normal
-9.929753269845131,0.059798673837894084,False,Head,Open Play,0,0,1,Normal
-29.372095601097303,0.07220593078573298,False,Right Foot,Open Play,0,0,3,Normal
-7.5133215025047395,0.05813035589416288,False,Head,Open Play,0,1,5,Normal
-14.480676779764126,0.06175408909038093,False,Left Foot,Open Play,1,0,3,Normal
-9.078546139112808,0.05556187667647828,True,Right Foot,Open Play,1,0,1,Half Volley
-11.512167476196653,0.06005098301203748,False,Head,Open Play,0,1,5,Normal
-33.70370899470858,0.06111612904841409,False,Right Foot,Open Play,0,0,2,Normal
-12.099999999999994,0.05963343195195743,False,Left Foot,Penalty,0,0,0,Normal
-11.761802582937701,0.053451043950756796,False,Right Foot,Open Play,1,0,0,Normal
-19.498974332000127,0.06534263033670246,False,Left Foot,Open Play,1,1,2,Normal
-10.163660757817528,0.05900354275571331,False,Head,Open Play,0,1,3,Normal
-28.899826989101506,0.06598966518748095,False,Right Foot,Open Play,1,0,0,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-9.823441352194246,0.0571256637381928,False,Head,Open Play,0,1,4,Normal
-28.199645387841322,0.06464796313530344,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-22.291253890259288,0.06693981691703918,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817901,Boris Singh Thangjam,Jamshedpur,5.5785302723925465,0.05649150719742745,False,Head,Open Play,0,0,4,Normal
+3817901,Greg Stewart,Jamshedpur,13.764083696345356,0.05862439922800367,True,Left Foot,Open Play,1,0,2,Normal
+3817901,Ritwik Kumar Das,Jamshedpur,24.404917537250558,0.06827715947299826,False,Right Foot,Open Play,0,0,3,Normal
+3817901,Ahmed Jahouh,Mumbai City,35.357036074874834,0.07629357407225347,False,Right Foot,Open Play,0,0,1,Normal
+3817901,Greg Stewart,Jamshedpur,25.955538907909425,0.05442020421358649,False,Left Foot,Open Play,0,0,2,Normal
+3817901,Bipin Singh Thounajam,Mumbai City,20.023236501624805,0.06468077620780109,False,Left Foot,Open Play,0,0,2,Normal
+3817901,Cássio Gabriel Vilela Ferreira,Mumbai City,32.22436966024316,0.07370137408143278,False,Right Foot,Open Play,0,0,1,Normal
+3817901,Ritwik Kumar Das,Jamshedpur,2.1213203435596366,0.05558205647418723,True,Left Foot,Open Play,1,0,2,Normal
+3817901,Vinit Rai Chamling,Mumbai City,20.27042180123542,0.059870386177464686,False,Right Foot,Open Play,1,0,1,Volley
+3817901,Daniel Chima Chukwu,Jamshedpur,17.014405661086137,0.06145973296860093,False,Right Foot,Open Play,1,0,1,Normal
+3817901,Igor Angulo Albóniga,Mumbai City,9.929753269845131,0.059798673837894084,False,Head,Open Play,0,0,1,Normal
+3817901,Bipin Singh Thounajam,Mumbai City,29.372095601097303,0.07220593078573298,False,Right Foot,Open Play,0,0,3,Normal
+3817901,Daniel Chima Chukwu,Jamshedpur,7.5133215025047395,0.05813035589416288,False,Head,Open Play,0,1,5,Normal
+3817901,Igor Angulo Albóniga,Mumbai City,14.480676779764126,0.06175408909038093,False,Left Foot,Open Play,1,0,3,Normal
+3817901,Rahul Bheke,Mumbai City,9.078546139112808,0.05556187667647828,True,Right Foot,Open Play,1,0,1,Half Volley
+3817901,Igor Angulo Albóniga,Mumbai City,11.512167476196653,0.06005098301203748,False,Head,Open Play,0,1,5,Normal
+3817901,Bipin Singh Thounajam,Mumbai City,33.70370899470858,0.06111612904841409,False,Right Foot,Open Play,0,0,2,Normal
+3817901,Igor Angulo Albóniga,Mumbai City,12.099999999999994,0.05963343195195743,False,Left Foot,Penalty,0,0,0,Normal
+3817901,Lallianzuala Chhangte,Mumbai City,11.761802582937701,0.053451043950756796,False,Right Foot,Open Play,1,0,0,Normal
+3817901,Igor Angulo Albóniga,Mumbai City,19.498974332000127,0.06534263033670246,False,Left Foot,Open Play,1,1,2,Normal
+3817901,Serigne Mourtada Fall,Mumbai City,10.163660757817528,0.05900354275571331,False,Head,Open Play,0,1,3,Normal
+3817901,Lalengmawia Ralte,Mumbai City,28.899826989101506,0.06598966518748095,False,Right Foot,Open Play,1,0,0,Half Volley
+3817901,Diego Maurício Machado de Brito,Mumbai City,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3817901,Eli Sabia Filho,Jamshedpur,9.823441352194246,0.0571256637381928,False,Head,Open Play,0,1,4,Normal
+3817901,Cássio Gabriel Vilela Ferreira,Mumbai City,28.199645387841322,0.06464796313530344,False,Right Foot,Open Play,0,0,1,Normal
+3817901,Greg Stewart,Jamshedpur,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3817901,Greg Stewart,Jamshedpur,22.291253890259288,0.06693981691703918,False,Left Foot,Open Play,1,0,1,Normal

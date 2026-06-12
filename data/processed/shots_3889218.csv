@@ -1,50 +1,50 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.845215780189202,0.05955389607353818,False,Right Foot,Open Play,0,0,3,Half Volley
-8.987213138676523,0.05924219291151311,False,Left Foot,Open Play,1,1,2,Normal
-19.714461696937096,0.061600817519493895,False,Left Foot,Free Kick,0,0,0,Normal
-7.244998274671984,0.05834714661793203,False,Head,Open Play,0,1,2,Normal
-28.6574597618142,0.06552026170046929,False,Left Foot,Open Play,0,0,3,Normal
-28.058510295452255,0.07121853742702797,False,Left Foot,Open Play,0,0,1,Half Volley
-24.682990094394967,0.06817766124577618,True,Left Foot,Open Play,1,0,0,Normal
-39.07172890978847,0.08037892299186171,False,Right Foot,Open Play,0,0,1,Normal
-19.137920472193418,0.0644007715334521,False,Right Foot,Free Kick,0,0,0,Normal
-18.429595763336753,0.06040031063660705,True,Left Foot,Open Play,0,0,1,Normal
-16.49848477891228,0.06218788995321888,False,Right Foot,Open Play,0,0,2,Normal
-29.999999999999996,0.07164031621238862,False,Right Foot,Open Play,0,0,1,Normal
-20.00249984376953,0.0656754717804988,False,Right Foot,Open Play,1,0,1,Normal
-20.49780476051033,0.060351540443926384,True,Left Foot,Open Play,0,0,1,Normal
-56.92846388231462,0.08063932482663778,False,Right Foot,Open Play,1,0,0,Lob
-34.97785013404912,0.0579866850048159,False,Left Foot,Open Play,0,1,1,Normal
-33.53937983922779,0.07529612058315792,False,Right Foot,Open Play,0,0,0,Normal
-14.601369798755188,0.057960243199358635,False,Left Foot,Open Play,0,1,1,Normal
-25.000199999200007,0.0653892478103118,False,Left Foot,Open Play,0,1,2,Normal
-33.2243886324489,0.06498353861550528,False,Right Foot,Open Play,0,1,1,Normal
-26.66083269517289,0.06712887990525529,False,Right Foot,Open Play,0,0,2,Half Volley
-14.912075643584972,0.06105501590938023,False,Right Foot,Open Play,1,0,1,Normal
-21.284971223847126,0.06595457908618359,False,Left Foot,Open Play,0,1,2,Normal
-27.806474066303334,0.06648798407560932,False,Right Foot,Open Play,0,0,1,Normal
-24.07862122298534,0.057705200541263234,False,Left Foot,Free Kick,0,0,0,Normal
-13.314653581674595,0.05661624105634153,False,Right Foot,Open Play,1,0,1,Half Volley
-22.009543384632035,0.053635515148048436,False,Right Foot,Open Play,1,1,1,Normal
-14.089002803605371,0.05293027357805769,False,Right Foot,Open Play,1,1,2,Normal
-4.310452412450458,0.056412282808521494,True,Left Foot,Open Play,1,1,2,Half Volley
-30.945435850864985,0.07320631147871096,False,Right Foot,Free Kick,0,0,0,Normal
-28.268179990936808,0.059349404099265674,False,Left Foot,Open Play,0,1,2,Normal
-31.951369297731205,0.07106865317025042,False,Left Foot,Open Play,0,0,1,Half Volley
-34.87377237982722,0.0732122830505636,False,Right Foot,Open Play,0,0,0,Normal
-14.962620091414472,0.05421083034199949,False,Right Foot,Open Play,1,0,1,Normal
-17.269916039170546,0.05980386632674458,False,Right Foot,Open Play,1,0,1,Half Volley
-27.316295502867877,0.07035428156514183,False,Right Foot,Free Kick,0,0,0,Normal
-17.901117283566407,0.06369251637979802,True,Right Foot,Open Play,1,0,2,Volley
-23.804621400055915,0.06818498742904501,False,Right Foot,Free Kick,0,0,0,Normal
-7.3164198895361405,0.05728126863520276,True,Right Foot,Open Play,0,1,1,Normal
-37.471188932298375,0.0685896175913531,False,Right Foot,Open Play,0,0,0,Normal
-25.30138336138955,0.052983627869366494,False,Right Foot,Open Play,0,0,0,Normal
-19.76183189889035,0.058954815656951626,False,Left Foot,Open Play,1,0,2,Normal
-10.793516572461451,0.058088384083449046,False,Right Foot,Open Play,0,1,2,Normal
-28.550656735003486,0.06806054177166006,False,Right Foot,Open Play,1,0,1,Normal
-25.219833464953734,0.06602675310303602,False,Right Foot,Open Play,1,0,1,Normal
-17.98471573308847,0.06429467730746305,False,Left Foot,Open Play,0,1,2,Normal
-21.992044015961774,0.04992867319815453,False,Right Foot,Open Play,0,0,1,Normal
-13.641847382227962,0.05751198450107897,False,Right Foot,Open Play,1,0,1,Half Volley
-22.980426453832393,0.06109723813114649,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3889218,Édson Arantes do Nascimento,Brazil,13.845215780189202,0.05955389607353818,False,Right Foot,Open Play,0,0,3,Half Volley
+3889218,Eduardo Gonçalves de Andrade,Brazil,8.987213138676523,0.05924219291151311,False,Left Foot,Open Play,1,1,2,Normal
+3889218,Roberto Rivelino,Brazil,19.714461696937096,0.061600817519493895,False,Left Foot,Free Kick,0,0,0,Normal
+3889218,Carlos Alberto Torres,Brazil,7.244998274671984,0.05834714661793203,False,Head,Open Play,0,1,2,Normal
+3889218,Ramón Antonio Mifflin Páez,Peru,28.6574597618142,0.06552026170046929,False,Left Foot,Open Play,0,0,3,Normal
+3889218,Roberto Rivelino,Brazil,28.058510295452255,0.07121853742702797,False,Left Foot,Open Play,0,0,1,Half Volley
+3889218,Roberto Rivelino,Brazil,24.682990094394967,0.06817766124577618,True,Left Foot,Open Play,1,0,0,Normal
+3889218,Roberto Chale Olarte,Peru,39.07172890978847,0.08037892299186171,False,Right Foot,Open Play,0,0,1,Normal
+3889218,Édson Arantes do Nascimento,Brazil,19.137920472193418,0.0644007715334521,False,Right Foot,Free Kick,0,0,0,Normal
+3889218,Eduardo Gonçalves de Andrade,Brazil,18.429595763336753,0.06040031063660705,True,Left Foot,Open Play,0,0,1,Normal
+3889218,Teófilo Juan Cubillas Arizaga,Peru,16.49848477891228,0.06218788995321888,False,Right Foot,Open Play,0,0,2,Normal
+3889218,Alberto Gallardo,Peru,29.999999999999996,0.07164031621238862,False,Right Foot,Open Play,0,0,1,Normal
+3889218,Édson Arantes do Nascimento,Brazil,20.00249984376953,0.0656754717804988,False,Right Foot,Open Play,1,0,1,Normal
+3889218,Alberto Gallardo,Peru,20.49780476051033,0.060351540443926384,True,Left Foot,Open Play,0,0,1,Normal
+3889218,Édson Arantes do Nascimento,Brazil,56.92846388231462,0.08063932482663778,False,Right Foot,Open Play,1,0,0,Lob
+3889218,Clodoaldo Tavares de Santana,Brazil,34.97785013404912,0.0579866850048159,False,Left Foot,Open Play,0,1,1,Normal
+3889218,Alberto Gallardo,Peru,33.53937983922779,0.07529612058315792,False,Right Foot,Open Play,0,0,0,Normal
+3889218,Eduardo Gonçalves de Andrade,Brazil,14.601369798755188,0.057960243199358635,False,Left Foot,Open Play,0,1,1,Normal
+3889218,Édson Arantes do Nascimento,Brazil,25.000199999200007,0.0653892478103118,False,Left Foot,Open Play,0,1,2,Normal
+3889218,Julio Alberto Temistocles Baylón Aragones,Peru,33.2243886324489,0.06498353861550528,False,Right Foot,Open Play,0,1,1,Normal
+3889218,Ramón Antonio Mifflin Páez,Peru,26.66083269517289,0.06712887990525529,False,Right Foot,Open Play,0,0,2,Half Volley
+3889218,Teófilo Juan Cubillas Arizaga,Peru,14.912075643584972,0.06105501590938023,False,Right Foot,Open Play,1,0,1,Normal
+3889218,Roberto Rivelino,Brazil,21.284971223847126,0.06595457908618359,False,Left Foot,Open Play,0,1,2,Normal
+3889218,Édson Arantes do Nascimento,Brazil,27.806474066303334,0.06648798407560932,False,Right Foot,Open Play,0,0,1,Normal
+3889218,Roberto Rivelino,Brazil,24.07862122298534,0.057705200541263234,False,Left Foot,Free Kick,0,0,0,Normal
+3889218,Jair Ventura Filho,Brazil,13.314653581674595,0.05661624105634153,False,Right Foot,Open Play,1,0,1,Half Volley
+3889218,Carlos Alberto Torres,Brazil,22.009543384632035,0.053635515148048436,False,Right Foot,Open Play,1,1,1,Normal
+3889218,Carlos Alberto Torres,Brazil,14.089002803605371,0.05293027357805769,False,Right Foot,Open Play,1,1,2,Normal
+3889218,Eduardo Gonçalves de Andrade,Brazil,4.310452412450458,0.056412282808521494,True,Left Foot,Open Play,1,1,2,Half Volley
+3889218,Alberto Gallardo,Peru,30.945435850864985,0.07320631147871096,False,Right Foot,Free Kick,0,0,0,Normal
+3889218,Ramón Antonio Mifflin Páez,Peru,28.268179990936808,0.059349404099265674,False,Left Foot,Open Play,0,1,2,Normal
+3889218,Gérson de Oliveira Nunes,Brazil,31.951369297731205,0.07106865317025042,False,Left Foot,Open Play,0,0,1,Half Volley
+3889218,Alberto Gallardo,Peru,34.87377237982722,0.0732122830505636,False,Right Foot,Open Play,0,0,0,Normal
+3889218,Carlos Alberto Torres,Brazil,14.962620091414472,0.05421083034199949,False,Right Foot,Open Play,1,0,1,Normal
+3889218,Édson Arantes do Nascimento,Brazil,17.269916039170546,0.05980386632674458,False,Right Foot,Open Play,1,0,1,Half Volley
+3889218,Alberto Gallardo,Peru,27.316295502867877,0.07035428156514183,False,Right Foot,Free Kick,0,0,0,Normal
+3889218,Teófilo Juan Cubillas Arizaga,Peru,17.901117283566407,0.06369251637979802,True,Right Foot,Open Play,1,0,2,Volley
+3889218,Paulo Cézar Lima,Brazil,23.804621400055915,0.06818498742904501,False,Right Foot,Free Kick,0,0,0,Normal
+3889218,Jair Ventura Filho,Brazil,7.3164198895361405,0.05728126863520276,True,Right Foot,Open Play,0,1,1,Normal
+3889218,Roberto Chale Olarte,Peru,37.471188932298375,0.0685896175913531,False,Right Foot,Open Play,0,0,0,Normal
+3889218,Eloy Campos,Peru,25.30138336138955,0.052983627869366494,False,Right Foot,Open Play,0,0,0,Normal
+3889218,Édson Arantes do Nascimento,Brazil,19.76183189889035,0.058954815656951626,False,Left Foot,Open Play,1,0,2,Normal
+3889218,Eduardo Gonçalves de Andrade,Brazil,10.793516572461451,0.058088384083449046,False,Right Foot,Open Play,0,1,2,Normal
+3889218,Teófilo Juan Cubillas Arizaga,Peru,28.550656735003486,0.06806054177166006,False,Right Foot,Open Play,1,0,1,Normal
+3889218,Roberto Chale Olarte,Peru,25.219833464953734,0.06602675310303602,False,Right Foot,Open Play,1,0,1,Normal
+3889218,Teófilo Juan Cubillas Arizaga,Peru,17.98471573308847,0.06429467730746305,False,Left Foot,Open Play,0,1,2,Normal
+3889218,Roberto Lopes de Miranda,Brazil,21.992044015961774,0.04992867319815453,False,Right Foot,Open Play,0,0,1,Normal
+3889218,Roberto Rivelino,Brazil,13.641847382227962,0.05751198450107897,False,Right Foot,Open Play,1,0,1,Half Volley
+3889218,Eduardo Gonçalves de Andrade,Brazil,22.980426453832393,0.06109723813114649,False,Left Foot,Open Play,0,1,2,Normal

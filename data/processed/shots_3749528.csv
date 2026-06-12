@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.956532978406784,0.06998381615499355,False,Left Foot,Open Play,0,0,1,Normal
-6.407027391856533,0.05460737605692402,False,Right Foot,Open Play,1,0,3,Normal
-29.485250550063164,0.05661620048858349,False,Right Foot,Open Play,0,0,2,Normal
-17.189822570346678,0.05832984709959815,False,Right Foot,Open Play,0,0,2,Volley
-25.576551761330144,0.06935054002857652,False,Right Foot,Open Play,0,0,3,Normal
-8.841379982785497,0.05531837847769697,False,Right Foot,Open Play,1,0,1,Normal
-17.010584939971935,0.06198521122688102,False,Left Foot,Open Play,0,0,0,Normal
-5.280151512977633,0.05703437798575377,True,Left Foot,Open Play,1,0,0,Half Volley
-4.301162633521313,0.05544420437704628,True,Right Foot,Open Play,1,0,3,Normal
-18.983413813115916,0.0650000032850097,False,Right Foot,Open Play,0,1,2,Normal
-26.15587888028234,0.06793300370950234,False,Right Foot,Open Play,0,1,2,Normal
-18.811166896287954,0.0644926422301591,False,Left Foot,Open Play,1,0,2,Lob
-22.019309707617992,0.06696310378690894,False,Right Foot,Open Play,0,0,2,Normal
-32.065557846387144,0.0564018418010493,False,Left Foot,Free Kick,0,0,0,Normal
-28.68762799535716,0.06950752397852153,False,Left Foot,Open Play,0,0,2,Normal
-5.714017850864663,0.05692009418458574,True,Head,Open Play,0,0,4,Normal
-6.8007352543677255,0.05803302806588406,False,Head,Open Play,0,1,4,Normal
-38.19384767210551,0.056992226193181394,False,Right Foot,Open Play,1,0,0,Volley
-16.020611723651506,0.06275741622133434,True,Left Foot,Open Play,1,0,1,Normal
-27.33093485411723,0.07056404245164782,False,Right Foot,Open Play,0,0,1,Normal
-28.736040089058896,0.05222221445602245,False,Left Foot,Free Kick,0,0,0,Normal
-11.90378091196239,0.05944206628012642,True,Right Foot,Penalty,0,0,0,Lob
-14.53409783921933,0.06235545865598868,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749528,Thierry Henry,Arsenal,31.956532978406784,0.06998381615499355,False,Left Foot,Open Play,0,0,1,Normal
+3749528,Thierry Henry,Arsenal,6.407027391856533,0.05460737605692402,False,Right Foot,Open Play,1,0,3,Normal
+3749528,Ray Parlour,Arsenal,29.485250550063164,0.05661620048858349,False,Right Foot,Open Play,0,0,2,Normal
+3749528,Thierry Henry,Arsenal,17.189822570346678,0.05832984709959815,False,Right Foot,Open Play,0,0,2,Volley
+3749528,Thierry Henry,Arsenal,25.576551761330144,0.06935054002857652,False,Right Foot,Open Play,0,0,3,Normal
+3749528,Sylvain Wiltord,Arsenal,8.841379982785497,0.05531837847769697,False,Right Foot,Open Play,1,0,1,Normal
+3749528,Fredrik Ljungberg,Arsenal,17.010584939971935,0.06198521122688102,False,Left Foot,Open Play,0,0,0,Normal
+3749528,Thierry Henry,Arsenal,5.280151512977633,0.05703437798575377,True,Left Foot,Open Play,1,0,0,Half Volley
+3749528,Laurent Robert,Newcastle United,4.301162633521313,0.05544420437704628,True,Right Foot,Open Play,1,0,3,Normal
+3749528,Olivier Bernard,Newcastle United,18.983413813115916,0.0650000032850097,False,Right Foot,Open Play,0,1,2,Normal
+3749528,Thierry Henry,Arsenal,26.15587888028234,0.06793300370950234,False,Right Foot,Open Play,0,1,2,Normal
+3749528,Fredrik Ljungberg,Arsenal,18.811166896287954,0.0644926422301591,False,Left Foot,Open Play,1,0,2,Lob
+3749528,Craig Bellamy,Newcastle United,22.019309707617992,0.06696310378690894,False,Right Foot,Open Play,0,0,2,Normal
+3749528,Eduardo César Daude Gaspar,Arsenal,32.065557846387144,0.0564018418010493,False,Left Foot,Free Kick,0,0,0,Normal
+3749528,Thierry Henry,Arsenal,28.68762799535716,0.06950752397852153,False,Left Foot,Open Play,0,0,2,Normal
+3749528,Gilberto Aparecido da Silva,Arsenal,5.714017850864663,0.05692009418458574,True,Head,Open Play,0,0,4,Normal
+3749528,Thierry Henry,Arsenal,6.8007352543677255,0.05803302806588406,False,Head,Open Play,0,1,4,Normal
+3749528,Sylvain Wiltord,Arsenal,38.19384767210551,0.056992226193181394,False,Right Foot,Open Play,1,0,0,Volley
+3749528,Olivier Bernard,Newcastle United,16.020611723651506,0.06275741622133434,True,Left Foot,Open Play,1,0,1,Normal
+3749528,Laurent Robert,Newcastle United,27.33093485411723,0.07056404245164782,False,Right Foot,Open Play,0,0,1,Normal
+3749528,Laurent Robert,Newcastle United,28.736040089058896,0.05222221445602245,False,Left Foot,Free Kick,0,0,0,Normal
+3749528,Thierry Henry,Arsenal,11.90378091196239,0.05944206628012642,True,Right Foot,Penalty,0,0,0,Lob
+3749528,Alan Shearer,Newcastle United,14.53409783921933,0.06235545865598868,False,Head,Open Play,0,1,2,Normal

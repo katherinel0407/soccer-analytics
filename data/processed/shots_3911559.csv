@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.955307792561314,0.060649641312346944,False,Head,Open Play,0,0,1,Normal
-31.890437438203946,0.0702168155844126,False,Right Foot,Open Play,0,0,0,Normal
-20.91530540059121,0.05713896282844515,False,Left Foot,Open Play,0,0,1,Normal
-12.050726119201286,0.060673341399342696,False,Left Foot,Open Play,1,0,2,Normal
-16.072958657322555,0.05233366650590977,False,Right Foot,Open Play,1,0,3,Normal
-21.711057090800526,0.05447448534343243,False,Right Foot,Open Play,1,0,1,Normal
-12.362847568420475,0.058945155939160734,False,Right Foot,Open Play,1,0,0,Normal
-22.571885167172017,0.059276523668199126,False,Head,Open Play,0,0,3,Normal
-22.584286572747875,0.06116966588954628,False,Right Foot,Open Play,1,0,0,Volley
-5.234500931320963,0.05703386233655576,False,Right Foot,Open Play,1,0,2,Half Volley
-7.269112738154502,0.05731125781822181,True,Right Foot,Open Play,1,1,4,Half Volley
-18.964440408301,0.06491912903711024,False,Right Foot,Open Play,1,0,1,Normal
-45.17576784073514,0.06742617620865979,False,Right Foot,Open Play,0,0,0,Lob
-19.686543627564497,0.059340875954465196,False,Head,Open Play,0,0,1,Normal
-33.15086725864046,0.06295378029820643,False,Right Foot,Open Play,0,0,1,Normal
-26.4592138961081,0.07000383089698654,False,Left Foot,Open Play,1,0,2,Half Volley
-12.298373876248837,0.05883110597878144,False,Right Foot,Open Play,1,0,2,Half Volley
-17.45623097922344,0.0613010225542372,False,Right Foot,Open Play,0,0,2,Normal
-32.35753389861471,0.07281050362718272,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-13.035720156554447,0.05397784852598588,False,Right Foot,Open Play,0,1,2,Half Volley
-23.66769950797923,0.06809100561006703,False,Right Foot,Open Play,0,0,1,Normal
-7.0936591403872855,0.05829860337348083,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911559,Gabriela Nunes da Silva,Levante UD Femenino,12.955307792561314,0.060649641312346944,False,Head,Open Play,0,0,1,Normal
+3911559,Laura Martínez González,FC Levante Badalona,31.890437438203946,0.0702168155844126,False,Right Foot,Open Play,0,0,0,Normal
+3911559,Leire Baños Indakoetxea,Levante UD Femenino,20.91530540059121,0.05713896282844515,False,Left Foot,Open Play,0,0,1,Normal
+3911559,Gabriela Nunes da Silva,Levante UD Femenino,12.050726119201286,0.060673341399342696,False,Left Foot,Open Play,1,0,2,Normal
+3911559,Laura Martínez González,FC Levante Badalona,16.072958657322555,0.05233366650590977,False,Right Foot,Open Play,1,0,3,Normal
+3911559,Anissa Lahmari,FC Levante Badalona,21.711057090800526,0.05447448534343243,False,Right Foot,Open Play,1,0,1,Normal
+3911559,Jessica Dahiana Martínez Villagra,FC Levante Badalona,12.362847568420475,0.058945155939160734,False,Right Foot,Open Play,1,0,0,Normal
+3911559,Berta Bou Salas,FC Levante Badalona,22.571885167172017,0.059276523668199126,False,Head,Open Play,0,0,3,Normal
+3911559,Ghizlane Chebbak,FC Levante Badalona,22.584286572747875,0.06116966588954628,False,Right Foot,Open Play,1,0,0,Volley
+3911559,Berta Bou Salas,FC Levante Badalona,5.234500931320963,0.05703386233655576,False,Right Foot,Open Play,1,0,2,Half Volley
+3911559,Jessica Dahiana Martínez Villagra,FC Levante Badalona,7.269112738154502,0.05731125781822181,True,Right Foot,Open Play,1,1,4,Half Volley
+3911559,Jessica Dahiana Martínez Villagra,FC Levante Badalona,18.964440408301,0.06491912903711024,False,Right Foot,Open Play,1,0,1,Normal
+3911559,Irina Priscilla Uribe García,FC Levante Badalona,45.17576784073514,0.06742617620865979,False,Right Foot,Open Play,0,0,0,Lob
+3911559,Alba María Redondo Ferrer,Levante UD Femenino,19.686543627564497,0.059340875954465196,False,Head,Open Play,0,0,1,Normal
+3911559,Laura Martínez González,FC Levante Badalona,33.15086725864046,0.06295378029820643,False,Right Foot,Open Play,0,0,1,Normal
+3911559,Leire Baños Indakoetxea,Levante UD Femenino,26.4592138961081,0.07000383089698654,False,Left Foot,Open Play,1,0,2,Half Volley
+3911559,Érika González Lombídez,Levante UD Femenino,12.298373876248837,0.05883110597878144,False,Right Foot,Open Play,1,0,2,Half Volley
+3911559,Ghizlane Chebbak,FC Levante Badalona,17.45623097922344,0.0613010225542372,False,Right Foot,Open Play,0,0,2,Normal
+3911559,Érika González Lombídez,Levante UD Femenino,32.35753389861471,0.07281050362718272,False,Right Foot,Open Play,0,0,1,Normal
+3911559,Érika González Lombídez,Levante UD Femenino,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3911559,Dominika Čonč,FC Levante Badalona,13.035720156554447,0.05397784852598588,False,Right Foot,Open Play,0,1,2,Half Volley
+3911559,Silvia Lloris,Levante UD Femenino,23.66769950797923,0.06809100561006703,False,Right Foot,Open Play,0,0,1,Normal
+3911559,Jessica Dahiana Martínez Villagra,FC Levante Badalona,7.0936591403872855,0.05829860337348083,False,Head,Open Play,0,1,4,Normal

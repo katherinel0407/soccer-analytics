@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.5147856533022,0.07312211423800184,False,Right Foot,Open Play,0,0,0,Normal
-20.945882650296692,0.06454736267877047,False,Left Foot,Open Play,1,0,0,Volley
-28.317662332897466,0.07134215904245139,True,Left Foot,Open Play,0,0,1,Normal
-8.827797007181347,0.058507752091916214,True,Head,Open Play,0,0,3,Normal
-26.997962886114205,0.06417487992465273,False,Left Foot,Open Play,0,0,1,Normal
-3.9698866482558377,0.054967492002043615,True,Head,Open Play,0,0,3,Normal
-9.767292357659827,0.05964966057724271,False,Head,Open Play,0,1,2,Normal
-36.91679834438518,0.06217598286034716,False,Left Foot,Free Kick,0,0,0,Normal
-29.696632805757627,0.07237022164610914,False,Left Foot,Open Play,0,0,1,Normal
-40.742729412743074,0.05923254761374892,False,Right Foot,Open Play,0,0,1,Normal
-17.819371481620784,0.06431073481967375,False,Left Foot,Open Play,0,0,1,Normal
-21.783020910791965,0.057349454466053815,False,Right Foot,Open Play,0,0,2,Normal
-20.974508337503412,0.06591415089942702,False,Left Foot,Open Play,1,0,2,Normal
-4.904079934095697,0.056672909094784875,True,Head,Open Play,0,0,4,Normal
-9.577055915050309,0.05655042651090177,False,Head,Open Play,0,0,2,Normal
-15.147607071745682,0.06044524872974503,False,Right Foot,Open Play,0,0,4,Half Volley
-19.722575896672325,0.051834421169437594,False,Right Foot,Open Play,0,0,1,Normal
-9.377632963600146,0.059370072627504926,False,Head,Open Play,0,0,2,Normal
-7.35391052434009,0.0565678821330351,False,Head,Open Play,0,0,2,Normal
-26.922852746319435,0.06641708240248527,True,Right Foot,Open Play,0,0,2,Normal
-28.73830196793123,0.06965940611780191,False,Left Foot,Open Play,0,0,2,Normal
-31.888869531546586,0.0594547391310403,False,Left Foot,Open Play,1,0,3,Half Volley
-23.492339176846563,0.06601744155499237,False,Left Foot,Open Play,0,0,1,Normal
-19.636700333813717,0.06342286259736755,False,Right Foot,Open Play,1,0,2,Volley
-19.197135202941084,0.06464891659187888,False,Right Foot,Open Play,0,0,3,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753986,Bojan Krkíc Pérez,Stoke City,35.5147856533022,0.07312211423800184,False,Right Foot,Open Play,0,0,0,Normal
+3753986,Ibrahim Afellay,Stoke City,20.945882650296692,0.06454736267877047,False,Left Foot,Open Play,1,0,0,Volley
+3753986,Alberto Moreno Pérez,Liverpool,28.317662332897466,0.07134215904245139,True,Left Foot,Open Play,0,0,1,Normal
+3753986,Bojan Krkíc Pérez,Stoke City,8.827797007181347,0.058507752091916214,True,Head,Open Play,0,0,3,Normal
+3753986,Daniel Andre Sturridge,Liverpool,26.997962886114205,0.06417487992465273,False,Left Foot,Open Play,0,0,1,Normal
+3753986,Daniel Andre Sturridge,Liverpool,3.9698866482558377,0.054967492002043615,True,Head,Open Play,0,0,3,Normal
+3753986,Ryan Shawcross,Stoke City,9.767292357659827,0.05964966057724271,False,Head,Open Play,0,1,2,Normal
+3753986,Xherdan Shaqiri,Stoke City,36.91679834438518,0.06217598286034716,False,Left Foot,Free Kick,0,0,0,Normal
+3753986,Gilbert Gianelli Imbula Wanga,Stoke City,29.696632805757627,0.07237022164610914,False,Left Foot,Open Play,0,0,1,Normal
+3753986,Phil Bardsley,Stoke City,40.742729412743074,0.05923254761374892,False,Right Foot,Open Play,0,0,1,Normal
+3753986,Oluwaseyi Babajide Ojo,Liverpool,17.819371481620784,0.06431073481967375,False,Left Foot,Open Play,0,0,1,Normal
+3753986,Nathaniel Edwin Clyne,Liverpool,21.783020910791965,0.057349454466053815,False,Right Foot,Open Play,0,0,2,Normal
+3753986,Alberto Moreno Pérez,Liverpool,20.974508337503412,0.06591415089942702,False,Left Foot,Open Play,1,0,2,Normal
+3753986,Divock Okoth Origi,Liverpool,4.904079934095697,0.056672909094784875,True,Head,Open Play,0,0,4,Normal
+3753986,Geoff Cameron,Stoke City,9.577055915050309,0.05655042651090177,False,Head,Open Play,0,0,2,Normal
+3753986,Peter Crouch,Stoke City,15.147607071745682,0.06044524872974503,False,Right Foot,Open Play,0,0,4,Half Volley
+3753986,Roberto Firmino Barbosa de Oliveira,Liverpool,19.722575896672325,0.051834421169437594,False,Right Foot,Open Play,0,0,1,Normal
+3753986,Kevin Linford Stewart,Liverpool,9.377632963600146,0.059370072627504926,False,Head,Open Play,0,0,2,Normal
+3753986,Divock Okoth Origi,Liverpool,7.35391052434009,0.0565678821330351,False,Head,Open Play,0,0,2,Normal
+3753986,Divock Okoth Origi,Liverpool,26.922852746319435,0.06641708240248527,True,Right Foot,Open Play,0,0,2,Normal
+3753986,Kevin Linford Stewart,Liverpool,28.73830196793123,0.06965940611780191,False,Left Foot,Open Play,0,0,2,Normal
+3753986,Xherdan Shaqiri,Stoke City,31.888869531546586,0.0594547391310403,False,Left Foot,Open Play,1,0,3,Half Volley
+3753986,Adam David Lallana,Liverpool,23.492339176846563,0.06601744155499237,False,Left Foot,Open Play,0,0,1,Normal
+3753986,Peter Crouch,Stoke City,19.636700333813717,0.06342286259736755,False,Right Foot,Open Play,1,0,2,Volley
+3753986,Nathaniel Edwin Clyne,Liverpool,19.197135202941084,0.06464891659187888,False,Right Foot,Open Play,0,0,3,Volley

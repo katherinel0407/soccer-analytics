@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.284934033152847,0.055528524396329985,False,Head,Open Play,0,1,3,Normal
-22.72707636278806,0.05895655435207012,False,Right Foot,Open Play,1,0,1,Normal
-10.751744044572487,0.06014819090357983,True,Right Foot,Open Play,0,0,2,Normal
-10.499523798725347,0.05480323070234117,False,Left Foot,Open Play,0,0,2,Normal
-13.393281898026336,0.05774222960763501,False,Left Foot,Open Play,1,0,3,Normal
-13.066751700403588,0.05407733405221564,True,Left Foot,Open Play,0,0,1,Normal
-33.01227044600235,0.06889937252427727,False,Right Foot,Open Play,1,0,0,Half Volley
-35.07035785389137,0.06250148068970658,False,Right Foot,Open Play,0,0,1,Lob
-22.282728737746638,0.058136738069456205,False,Left Foot,Open Play,0,0,1,Normal
-28.017851452243793,0.061562245795836766,False,Right Foot,Open Play,0,0,1,Normal
-10.837435120913064,0.06022630490388441,False,Left Foot,Open Play,0,0,2,Normal
-15.860012610335469,0.05396466353178202,False,Left Foot,Open Play,1,0,1,Half Volley
-9.052071586106683,0.05528532322014898,False,Head,Open Play,0,0,2,Normal
-12.238055401083942,0.05800469662755038,False,Right Foot,Open Play,1,0,1,Normal
-22.611943746613207,0.06719017423335483,False,Left Foot,Free Kick,0,0,0,Normal
-22.99847821052515,0.06529688181637944,False,Right Foot,Open Play,0,0,2,Normal
-17.912007146045916,0.06291273931072983,False,Left Foot,Open Play,1,0,1,Half Volley
-14.713938969562165,0.06229315873583079,True,Left Foot,Open Play,0,1,2,Normal
-18.867962264113203,0.05912640820829006,False,Right Foot,Open Play,1,0,2,Normal
-37.42325480232846,0.06088245510122112,False,Right Foot,Open Play,0,0,1,Half Volley
-14.601369798755178,0.06061946004160542,False,Right Foot,Open Play,1,0,1,Volley
-24.22663823150047,0.05948088677723743,False,Left Foot,Free Kick,0,0,0,Normal
-12.133424908079338,0.059810774114156404,True,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69297,Sergio Busquets i Burgos,Barcelona,9.284934033152847,0.055528524396329985,False,Head,Open Play,0,1,3,Normal
+69297,Tiago Cardoso Mendes,Atlético Madrid,22.72707636278806,0.05895655435207012,False,Right Foot,Open Play,1,0,1,Normal
+69297,David Villa Sánchez,Barcelona,10.751744044572487,0.06014819090357983,True,Right Foot,Open Play,0,0,2,Normal
+69297,Pedro Eliezer Rodríguez Ledesma,Barcelona,10.499523798725347,0.05480323070234117,False,Left Foot,Open Play,0,0,2,Normal
+69297,Lionel Andrés Messi Cuccittini,Barcelona,13.393281898026336,0.05774222960763501,False,Left Foot,Open Play,1,0,3,Normal
+69297,Lionel Andrés Messi Cuccittini,Barcelona,13.066751700403588,0.05407733405221564,True,Left Foot,Open Play,0,0,1,Normal
+69297,Gabriel Fernández Arenas,Atlético Madrid,33.01227044600235,0.06889937252427727,False,Right Foot,Open Play,1,0,0,Half Volley
+69297,Francesc Fàbregas i Soler,Barcelona,35.07035785389137,0.06250148068970658,False,Right Foot,Open Play,0,0,1,Lob
+69297,Pedro Eliezer Rodríguez Ledesma,Barcelona,22.282728737746638,0.058136738069456205,False,Left Foot,Open Play,0,0,1,Normal
+69297,Thiago Alcântara do Nascimento,Barcelona,28.017851452243793,0.061562245795836766,False,Right Foot,Open Play,0,0,1,Normal
+69297,Lionel Andrés Messi Cuccittini,Barcelona,10.837435120913064,0.06022630490388441,False,Left Foot,Open Play,0,0,2,Normal
+69297,Eric-Sylvain Bilal Abidal,Barcelona,15.860012610335469,0.05396466353178202,False,Left Foot,Open Play,1,0,1,Half Volley
+69297,Radamel Falcao García Zárate,Atlético Madrid,9.052071586106683,0.05528532322014898,False,Head,Open Play,0,0,2,Normal
+69297,David Villa Sánchez,Barcelona,12.238055401083942,0.05800469662755038,False,Right Foot,Open Play,1,0,1,Normal
+69297,Lionel Andrés Messi Cuccittini,Barcelona,22.611943746613207,0.06719017423335483,False,Left Foot,Free Kick,0,0,0,Normal
+69297,Thiago Alcântara do Nascimento,Barcelona,22.99847821052515,0.06529688181637944,False,Right Foot,Open Play,0,0,2,Normal
+69297,Lionel Andrés Messi Cuccittini,Barcelona,17.912007146045916,0.06291273931072983,False,Left Foot,Open Play,1,0,1,Half Volley
+69297,Lionel Andrés Messi Cuccittini,Barcelona,14.713938969562165,0.06229315873583079,True,Left Foot,Open Play,0,1,2,Normal
+69297,Adrián López Álvarez,Atlético Madrid,18.867962264113203,0.05912640820829006,False,Right Foot,Open Play,1,0,2,Normal
+69297,Gabriel Fernández Arenas,Atlético Madrid,37.42325480232846,0.06088245510122112,False,Right Foot,Open Play,0,0,1,Half Volley
+69297,Xavier Hernández Creus,Barcelona,14.601369798755178,0.06061946004160542,False,Right Foot,Open Play,1,0,1,Volley
+69297,Antonio López Guerrero,Atlético Madrid,24.22663823150047,0.05948088677723743,False,Left Foot,Free Kick,0,0,0,Normal
+69297,Lionel Andrés Messi Cuccittini,Barcelona,12.133424908079338,0.059810774114156404,True,Left Foot,Open Play,0,1,1,Normal

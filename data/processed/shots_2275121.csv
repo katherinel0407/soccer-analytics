@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.153324578678648,0.05988758880786037,True,Right Foot,Open Play,0,0,1,Normal
-9.302150289046073,0.0585453965690193,False,Head,Open Play,0,0,6,Normal
-11.328283188550678,0.05958064062191491,False,Right Foot,Open Play,1,0,2,Normal
-25.994230129011324,0.06121120155538628,False,Right Foot,Open Play,0,0,1,Normal
-13.017296186228537,0.0606925061629415,True,Left Foot,Open Play,0,0,1,Normal
-21.18537231204587,0.06443697313913657,False,Right Foot,Open Play,0,0,2,Half Volley
-42.21670285562339,0.08242140636995247,False,Right Foot,Open Play,0,0,1,Normal
-11.727744881263405,0.06018604657279563,True,Right Foot,Open Play,0,1,4,Normal
-15.28168838839479,0.06278065232413611,False,Right Foot,Open Play,1,1,1,Normal
-15.454772725601634,0.06154342902860405,True,Right Foot,Open Play,1,0,2,Volley
-16.286497474902333,0.05370659195030406,False,Right Foot,Open Play,1,0,1,Normal
-18.462935844550834,0.055805010772299594,False,Right Foot,Open Play,1,0,1,Normal
-19.703045449879063,0.06226140355257828,False,Left Foot,Open Play,1,0,1,Normal
-18.480530295421723,0.06466001333269343,False,Right Foot,Open Play,1,1,2,Normal
-18.40923681199196,0.06231483815287382,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275121,Kim Little,Arsenal WFC,10.153324578678648,0.05988758880786037,True,Right Foot,Open Play,0,0,1,Normal
+2275121,Leah Williamson,Arsenal WFC,9.302150289046073,0.0585453965690193,False,Head,Open Play,0,0,6,Normal
+2275121,Leonie Maier,Arsenal WFC,11.328283188550678,0.05958064062191491,False,Right Foot,Open Play,1,0,2,Normal
+2275121,Kayleigh Green,Brighton & Hove Albion WFC,25.994230129011324,0.06121120155538628,False,Right Foot,Open Play,0,0,1,Normal
+2275121,Vivianne Miedema,Arsenal WFC,13.017296186228537,0.0606925061629415,True,Left Foot,Open Play,0,0,1,Normal
+2275121,Leah Williamson,Arsenal WFC,21.18537231204587,0.06443697313913657,False,Right Foot,Open Play,0,0,2,Half Volley
+2275121,Léa Le Garrec,Brighton & Hove Albion WFC,42.21670285562339,0.08242140636995247,False,Right Foot,Open Play,0,0,1,Normal
+2275121,Danielle van de Donk,Arsenal WFC,11.727744881263405,0.06018604657279563,True,Right Foot,Open Play,0,1,4,Normal
+2275121,Jordan Nobbs,Arsenal WFC,15.28168838839479,0.06278065232413611,False,Right Foot,Open Play,1,1,1,Normal
+2275121,Jordan Nobbs,Arsenal WFC,15.454772725601634,0.06154342902860405,True,Right Foot,Open Play,1,0,2,Volley
+2275121,Matilde Lundorf Skovsen,Brighton & Hove Albion WFC,16.286497474902333,0.05370659195030406,False,Right Foot,Open Play,1,0,1,Normal
+2275121,Bethany Mead,Arsenal WFC,18.462935844550834,0.055805010772299594,False,Right Foot,Open Play,1,0,1,Normal
+2275121,Emma Mukandi,Arsenal WFC,19.703045449879063,0.06226140355257828,False,Left Foot,Open Play,1,0,1,Normal
+2275121,Jordan Nobbs,Arsenal WFC,18.480530295421723,0.06466001333269343,False,Right Foot,Open Play,1,1,2,Normal
+2275121,Katie McCabe,Arsenal WFC,18.40923681199196,0.06231483815287382,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.642961138188326,0.06109363718859157,False,Right Foot,Open Play,1,0,1,Normal
-15.148927354766737,0.05204423983740844,False,Right Foot,Open Play,1,0,2,Normal
-10.044899203078149,0.055080041667020234,False,Right Foot,Open Play,1,0,3,Normal
-8.009993757800315,0.05808436675683745,False,Head,Open Play,0,0,5,Normal
-14.511374848717814,0.053560289156214316,False,Head,Open Play,0,0,1,Normal
-21.47859399495228,0.06621933836204057,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-7.961155694998058,0.054396896494469126,False,Head,Open Play,0,1,2,Normal
-14.422205101855956,0.061496850175109356,False,Head,Open Play,0,0,1,Normal
-11.597413504743201,0.055275449897014765,False,Head,Open Play,0,0,1,Normal
-27.34684625327023,0.056993388551673074,False,Right Foot,Open Play,1,0,0,Half Volley
-7.874642849044009,0.05856596373762267,False,Right Foot,Open Play,1,0,3,Volley
-7.211102550927981,0.05776317053855786,False,Head,Open Play,0,1,5,Normal
-15.591343752223537,0.0629604462821856,False,Right Foot,Open Play,1,0,2,Volley
-28.810588331375673,0.07005331703340084,False,Right Foot,Open Play,0,0,1,Half Volley
-15.489673979784083,0.06260750014886181,True,Left Foot,Open Play,0,0,1,Volley
-16.9198108736475,0.0533052972547014,True,Right Foot,Open Play,0,0,0,Normal
-21.17829077144801,0.05364782740163619,False,Right Foot,Open Play,1,0,1,Half Volley
-24.95596121170251,0.05864441896657423,False,Right Foot,Open Play,0,0,3,Normal
-29.31279584072458,0.07108020581722024,False,Right Foot,Open Play,0,0,2,Normal
-20.08208156541547,0.06486269450858681,True,Right Foot,Open Play,1,0,1,Half Volley
-15.550241155686301,0.062404565295373624,False,Right Foot,Open Play,1,0,0,Volley
-26.666083326952982,0.06036741859826005,False,Left Foot,Open Play,0,0,1,Normal
-17.06722004311188,0.05737914089883083,False,Right Foot,Open Play,0,0,2,Half Volley
-33.02196238868914,0.0719927401419551,False,Left Foot,Open Play,0,0,1,Normal
-18.411409506064434,0.059229320017554356,False,Head,Open Play,0,0,3,Normal
-22.939267643061324,0.0675631470228036,False,Left Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825719,Sergio Ezequiel Araújo,Las Palmas,18.642961138188326,0.06109363718859157,False,Right Foot,Open Play,1,0,1,Normal
+3825719,Jonathan Viera Ramos,Las Palmas,15.148927354766737,0.05204423983740844,False,Right Foot,Open Play,1,0,2,Normal
+3825719,Aritz Aduriz Zubeldia,Athletic Club,10.044899203078149,0.055080041667020234,False,Right Foot,Open Play,1,0,3,Normal
+3825719,Aritz Aduriz Zubeldia,Athletic Club,8.009993757800315,0.05808436675683745,False,Head,Open Play,0,0,5,Normal
+3825719,David García Santana,Las Palmas,14.511374848717814,0.053560289156214316,False,Head,Open Play,0,0,1,Normal
+3825719,Markel Susaeta Laskurain,Athletic Club,21.47859399495228,0.06621933836204057,False,Right Foot,Open Play,0,0,2,Normal
+3825719,Aritz Aduriz Zubeldia,Athletic Club,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3825719,Xabier Etxeita Gorritxategi,Athletic Club,7.961155694998058,0.054396896494469126,False,Head,Open Play,0,1,2,Normal
+3825719,Mikel San José Domínguez,Athletic Club,14.422205101855956,0.061496850175109356,False,Head,Open Play,0,0,1,Normal
+3825719,Carlos Gurpegi Nausia,Athletic Club,11.597413504743201,0.055275449897014765,False,Head,Open Play,0,0,1,Normal
+3825719,Óscar de Marcos Arana,Athletic Club,27.34684625327023,0.056993388551673074,False,Right Foot,Open Play,1,0,0,Half Volley
+3825719,Sergio Ezequiel Araújo,Las Palmas,7.874642849044009,0.05856596373762267,False,Right Foot,Open Play,1,0,3,Volley
+3825719,David García Santana,Las Palmas,7.211102550927981,0.05776317053855786,False,Head,Open Play,0,1,5,Normal
+3825719,Carlos Gurpegi Nausia,Athletic Club,15.591343752223537,0.0629604462821856,False,Right Foot,Open Play,1,0,2,Volley
+3825719,Sergio Ezequiel Araújo,Las Palmas,28.810588331375673,0.07005331703340084,False,Right Foot,Open Play,0,0,1,Half Volley
+3825719,José Vicente Gómez Umpiérrez,Las Palmas,15.489673979784083,0.06260750014886181,True,Left Foot,Open Play,0,0,1,Volley
+3825719,Iñaki Williams Arthuer,Athletic Club,16.9198108736475,0.0533052972547014,True,Right Foot,Open Play,0,0,0,Normal
+3825719,Iñaki Williams Arthuer,Athletic Club,21.17829077144801,0.05364782740163619,False,Right Foot,Open Play,1,0,1,Half Volley
+3825719,Jonathan Viera Ramos,Las Palmas,24.95596121170251,0.05864441896657423,False,Right Foot,Open Play,0,0,3,Normal
+3825719,Pedro Taunausú Domínguez Placeres,Las Palmas,29.31279584072458,0.07108020581722024,False,Right Foot,Open Play,0,0,2,Normal
+3825719,Pedro Taunausú Domínguez Placeres,Las Palmas,20.08208156541547,0.06486269450858681,True,Right Foot,Open Play,1,0,1,Half Volley
+3825719,Javier Eraso Goñi,Athletic Club,15.550241155686301,0.062404565295373624,False,Right Foot,Open Play,1,0,0,Volley
+3825719,Jerónimo Figueroa Cabrera,Las Palmas,26.666083326952982,0.06036741859826005,False,Left Foot,Open Play,0,0,1,Normal
+3825719,Iker Muniain Goñi,Athletic Club,17.06722004311188,0.05737914089883083,False,Right Foot,Open Play,0,0,2,Half Volley
+3825719,Mikel Balenziaga Oruesagasti,Athletic Club,33.02196238868914,0.0719927401419551,False,Left Foot,Open Play,0,0,1,Normal
+3825719,Iker Muniain Goñi,Athletic Club,18.411409506064434,0.059229320017554356,False,Head,Open Play,0,0,3,Normal
+3825719,Sergio Ezequiel Araújo,Las Palmas,22.939267643061324,0.0675631470228036,False,Left Foot,Open Play,1,0,1,Half Volley

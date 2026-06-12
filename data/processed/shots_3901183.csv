@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.75518641310503,0.0702573401297987,False,Right Foot,Open Play,0,0,1,Normal
-13.756816492197604,0.06161449041152632,False,Right Foot,Open Play,1,0,1,Normal
-11.73413822996815,0.0579983761412284,False,Right Foot,Open Play,1,0,2,Volley
-24.8652367774771,0.06814978881198386,False,Right Foot,Open Play,1,0,1,Half Volley
-14.937201879870278,0.06251503641996665,False,Right Foot,Open Play,0,0,0,Normal
-9.333809511662425,0.05938464107070548,True,Right Foot,Open Play,1,0,1,Normal
-11.901680553602509,0.059477991333385986,False,Left Foot,Open Play,0,0,3,Volley
-21.80481598179632,0.05722514974833814,False,Right Foot,Open Play,1,0,0,Half Volley
-10.553672346628918,0.059667590182658006,True,Right Foot,Open Play,0,1,3,Lob
-10.547511554864492,0.060061861858948955,False,Right Foot,Open Play,0,0,3,Half Volley
-11.87013058057914,0.06006890629625849,True,Left Foot,Open Play,1,0,1,Half Volley
-22.291029585911907,0.06714698257696897,False,Left Foot,Open Play,0,0,2,Normal
-36.52629190049272,0.06127488001782807,False,Left Foot,Open Play,0,0,1,Normal
-8.080841540334776,0.057352196335067024,False,Right Foot,Open Play,0,0,2,Normal
-12.264175471673584,0.05386563214339557,False,Right Foot,Open Play,1,0,1,Volley
-14.241137595009747,0.05626256858423467,False,Left Foot,Open Play,1,0,2,Normal
-15.46932448428179,0.0617770061521894,False,Left Foot,Open Play,1,0,1,Normal
-25.84956479324169,0.06795273869690859,False,Right Foot,Open Play,0,0,2,Normal
-19.20026041490063,0.0626859484568438,True,Left Foot,Open Play,0,0,3,Normal
-8.381527307120106,0.054567490100609656,False,Head,Open Play,0,1,4,Normal
-16.313184851524248,0.055704955654616306,False,Left Foot,Open Play,1,0,3,Volley
-9.677293009927936,0.05701544602159446,True,Right Foot,Open Play,1,0,0,Volley
-19.82523644247402,0.06343112165892348,True,Right Foot,Open Play,1,0,1,Half Volley
-31.67601616365291,0.07289154600909759,False,Right Foot,Open Play,0,0,1,Normal
-14.01320805525987,0.06205556347333086,False,Right Foot,Open Play,0,0,2,Normal
-22.218235753542626,0.06546264356594839,False,Right Foot,Open Play,0,0,2,Normal
-24.303291958086664,0.06490891736119293,False,Right Foot,Open Play,0,0,1,Normal
-7.600657866263951,0.05857396749308583,False,Head,Open Play,0,0,4,Normal
-11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
-4.70956473572665,0.056565437093275335,True,Right Foot,Open Play,1,0,3,Volley
-34.546345682285995,0.07432206238163042,False,Right Foot,Open Play,0,1,1,Normal
-32.949203328760476,0.07490530800213105,False,Right Foot,Open Play,0,0,0,Normal
-17.353962083628055,0.06397608527694422,False,Right Foot,Open Play,0,0,4,Normal
-29.30187707297947,0.0643174202773955,False,Left Foot,Open Play,0,0,1,Normal
-21.21508896988179,0.05455762188094418,False,Right Foot,Open Play,0,1,1,Normal
-16.086329600005097,0.06326596959385265,True,Left Foot,Open Play,1,1,2,Normal
-15.026975743641833,0.061213269174202896,False,Right Foot,Open Play,0,0,2,Normal
-17.199127884866716,0.059722164924481035,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901183,Corentin Jean,Troyes,26.75518641310503,0.0702573401297987,False,Right Foot,Open Play,0,0,1,Normal
+3901183,Fabien Camus,Troyes,13.756816492197604,0.06161449041152632,False,Right Foot,Open Play,1,0,1,Normal
+3901183,Thiago Emiliano da Silva,Paris Saint-Germain,11.73413822996815,0.0579983761412284,False,Right Foot,Open Play,1,0,2,Volley
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,24.8652367774771,0.06814978881198386,False,Right Foot,Open Play,1,0,1,Half Volley
+3901183,Edinson Roberto Cavani Gómez,Paris Saint-Germain,14.937201879870278,0.06251503641996665,False,Right Foot,Open Play,0,0,0,Normal
+3901183,Edinson Roberto Cavani Gómez,Paris Saint-Germain,9.333809511662425,0.05938464107070548,True,Right Foot,Open Play,1,0,1,Normal
+3901183,Benjamin Nivet,Troyes,11.901680553602509,0.059477991333385986,False,Left Foot,Open Play,0,0,3,Volley
+3901183,Calvin Anele Ngcongca,Troyes,21.80481598179632,0.05722514974833814,False,Right Foot,Open Play,1,0,0,Half Volley
+3901183,Javier Matías Pastore,Paris Saint-Germain,10.553672346628918,0.059667590182658006,True,Right Foot,Open Play,0,1,3,Lob
+3901183,Edinson Roberto Cavani Gómez,Paris Saint-Germain,10.547511554864492,0.060061861858948955,False,Right Foot,Open Play,0,0,3,Half Volley
+3901183,Adrien Rabiot,Paris Saint-Germain,11.87013058057914,0.06006890629625849,True,Left Foot,Open Play,1,0,1,Half Volley
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,22.291029585911907,0.06714698257696897,False,Left Foot,Open Play,0,0,2,Normal
+3901183,Corentin Jean,Troyes,36.52629190049272,0.06127488001782807,False,Left Foot,Open Play,0,0,1,Normal
+3901183,Babacar Gueye,Troyes,8.080841540334776,0.057352196335067024,False,Right Foot,Open Play,0,0,2,Normal
+3901183,Corentin Jean,Troyes,12.264175471673584,0.05386563214339557,False,Right Foot,Open Play,1,0,1,Volley
+3901183,Matthieu Saunier,Troyes,14.241137595009747,0.05626256858423467,False,Left Foot,Open Play,1,0,2,Normal
+3901183,Javier Matías Pastore,Paris Saint-Germain,15.46932448428179,0.0617770061521894,False,Left Foot,Open Play,1,0,1,Normal
+3901183,Fabien Camus,Troyes,25.84956479324169,0.06795273869690859,False,Right Foot,Open Play,0,0,2,Normal
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,19.20026041490063,0.0626859484568438,True,Left Foot,Open Play,0,0,3,Normal
+3901183,Layvin Kurzawa,Paris Saint-Germain,8.381527307120106,0.054567490100609656,False,Head,Open Play,0,1,4,Normal
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,16.313184851524248,0.055704955654616306,False,Left Foot,Open Play,1,0,3,Volley
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,9.677293009927936,0.05701544602159446,True,Right Foot,Open Play,1,0,0,Volley
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,19.82523644247402,0.06343112165892348,True,Right Foot,Open Play,1,0,1,Half Volley
+3901183,Thiago Xavier Rodrigues Corrêa,Troyes,31.67601616365291,0.07289154600909759,False,Right Foot,Open Play,0,0,1,Normal
+3901183,Edinson Roberto Cavani Gómez,Paris Saint-Germain,14.01320805525987,0.06205556347333086,False,Right Foot,Open Play,0,0,2,Normal
+3901183,Jessy Pi,Troyes,22.218235753542626,0.06546264356594839,False,Right Foot,Open Play,0,0,2,Normal
+3901183,Jessy Pi,Troyes,24.303291958086664,0.06490891736119293,False,Right Foot,Open Play,0,0,1,Normal
+3901183,Thiago Xavier Rodrigues Corrêa,Troyes,7.600657866263951,0.05857396749308583,False,Head,Open Play,0,0,4,Normal
+3901183,Edinson Roberto Cavani Gómez,Paris Saint-Germain,11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
+3901183,Edinson Roberto Cavani Gómez,Paris Saint-Germain,4.70956473572665,0.056565437093275335,True,Right Foot,Open Play,1,0,3,Volley
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,34.546345682285995,0.07432206238163042,False,Right Foot,Open Play,0,1,1,Normal
+3901183,David Luiz Moreira Marinho,Paris Saint-Germain,32.949203328760476,0.07490530800213105,False,Right Foot,Open Play,0,0,0,Normal
+3901183,Babacar Gueye,Troyes,17.353962083628055,0.06397608527694422,False,Right Foot,Open Play,0,0,4,Normal
+3901183,Fabien Camus,Troyes,29.30187707297947,0.0643174202773955,False,Left Foot,Open Play,0,0,1,Normal
+3901183,Babacar Gueye,Troyes,21.21508896988179,0.05455762188094418,False,Right Foot,Open Play,0,1,1,Normal
+3901183,Zlatan Ibrahimović,Paris Saint-Germain,16.086329600005097,0.06326596959385265,True,Left Foot,Open Play,1,1,2,Normal
+3901183,Javier Matías Pastore,Paris Saint-Germain,15.026975743641833,0.061213269174202896,False,Right Foot,Open Play,0,0,2,Normal
+3901183,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,17.199127884866716,0.059722164924481035,False,Right Foot,Open Play,1,0,0,Normal

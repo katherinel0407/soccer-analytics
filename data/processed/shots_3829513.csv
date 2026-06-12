@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.42195135836135,0.06191585429661723,False,Left Foot,Open Play,0,1,2,Normal
-9.831073186585474,0.05966259470480575,False,Head,Open Play,0,1,4,Normal
-13.446189051177281,0.06172249722072765,False,Head,Open Play,0,0,2,Normal
-38.53323241047914,0.07124545254052908,False,Left Foot,Open Play,0,1,1,Normal
-32.655321159039296,0.06809302226863317,False,Right Foot,Open Play,1,0,1,Half Volley
-30.372685096974873,0.07197217328711829,False,Right Foot,Open Play,1,0,1,Normal
-23.55949914577982,0.05486496600405224,False,Right Foot,Open Play,0,1,2,Normal
-16.53239244634606,0.0625997933491271,False,Left Foot,Open Play,1,1,1,Half Volley
-11.315917991926243,0.05229304572636084,False,Right Foot,Open Play,0,0,2,Half Volley
-24.894376875109767,0.06893043126773277,True,Right Foot,Open Play,0,1,1,Normal
-10.404806581575647,0.05793206613078392,False,Head,Open Play,0,0,1,Normal
-13.717871555019025,0.06004740062009926,False,Right Foot,Open Play,1,0,2,Volley
-5.968249324550705,0.05584082693270973,False,Head,Open Play,0,0,3,Normal
-12.624579200908048,0.0612694034236816,False,Head,Open Play,0,0,3,Normal
-17.786792853125597,0.0642920573588735,False,Left Foot,Open Play,1,0,1,Backheel
-5.323532661682469,0.0574025997479926,True,Right Foot,Open Play,1,0,3,Volley
-18.183509012289125,0.06452092465783021,False,Right Foot,Open Play,1,0,2,Volley
-27.73337339740696,0.06994867212445383,False,Right Foot,Free Kick,0,0,0,Normal
-25.27449307107859,0.062351148439048557,False,Right Foot,Open Play,1,0,1,Volley
-31.852315457435736,0.05799634106274097,False,Left Foot,Open Play,0,1,1,Normal
-9.533624704172071,0.05882892211307446,False,Head,Open Play,0,1,4,Normal
-9.848857801796104,0.059657413278702213,False,Head,Open Play,0,0,1,Normal
-28.469281690973514,0.07122815339415497,False,Right Foot,Open Play,0,0,2,Normal
-19.054658223122235,0.06477180112532346,False,Right Foot,Open Play,0,0,1,Normal
-12.192620719107104,0.06016770362826207,False,Right Foot,Open Play,1,0,2,Normal
-12.369316876852984,0.060982369021117984,False,Left Foot,Open Play,1,0,1,Volley
-20.60097085090894,0.056411602454256644,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829513,Yacine Bammou,Nantes,21.42195135836135,0.06191585429661723,False,Left Foot,Open Play,0,1,2,Normal
+3829513,Emiliano Sala,Nantes,9.831073186585474,0.05966259470480575,False,Head,Open Play,0,1,4,Normal
+3829513,Andy Delort,Stade Malherbe Caen,13.446189051177281,0.06172249722072765,False,Head,Open Play,0,0,2,Normal
+3829513,Jeff Louis,Stade Malherbe Caen,38.53323241047914,0.07124545254052908,False,Left Foot,Open Play,0,1,1,Normal
+3829513,Julien Féret,Stade Malherbe Caen,32.655321159039296,0.06809302226863317,False,Right Foot,Open Play,1,0,1,Half Volley
+3829513,Andy Delort,Stade Malherbe Caen,30.372685096974873,0.07197217328711829,False,Right Foot,Open Play,1,0,1,Normal
+3829513,Emiliano Sala,Nantes,23.55949914577982,0.05486496600405224,False,Right Foot,Open Play,0,1,2,Normal
+3829513,Vincent Bessat,Stade Malherbe Caen,16.53239244634606,0.0625997933491271,False,Left Foot,Open Play,1,1,1,Half Volley
+3829513,Andy Delort,Stade Malherbe Caen,11.315917991926243,0.05229304572636084,False,Right Foot,Open Play,0,0,2,Half Volley
+3829513,Yacine Bammou,Nantes,24.894376875109767,0.06893043126773277,True,Right Foot,Open Play,0,1,1,Normal
+3829513,Oswaldo Augusto Vizcarrondo Araújo,Nantes,10.404806581575647,0.05793206613078392,False,Head,Open Play,0,0,1,Normal
+3829513,Andy Delort,Stade Malherbe Caen,13.717871555019025,0.06004740062009926,False,Right Foot,Open Play,1,0,2,Volley
+3829513,Jeff Louis,Stade Malherbe Caen,5.968249324550705,0.05584082693270973,False,Head,Open Play,0,0,3,Normal
+3829513,Ronny Rodelin,Stade Malherbe Caen,12.624579200908048,0.0612694034236816,False,Head,Open Play,0,0,3,Normal
+3829513,Vincent Bessat,Stade Malherbe Caen,17.786792853125597,0.0642920573588735,False,Left Foot,Open Play,1,0,1,Backheel
+3829513,Adrien Thomasson,Nantes,5.323532661682469,0.0574025997479926,True,Right Foot,Open Play,1,0,3,Volley
+3829513,Andy Delort,Stade Malherbe Caen,18.183509012289125,0.06452092465783021,False,Right Foot,Open Play,1,0,2,Volley
+3829513,Andy Delort,Stade Malherbe Caen,27.73337339740696,0.06994867212445383,False,Right Foot,Free Kick,0,0,0,Normal
+3829513,Yacine Bammou,Nantes,25.27449307107859,0.062351148439048557,False,Right Foot,Open Play,1,0,1,Volley
+3829513,Ronny Rodelin,Stade Malherbe Caen,31.852315457435736,0.05799634106274097,False,Left Foot,Open Play,0,1,1,Normal
+3829513,Damien Da Silva,Stade Malherbe Caen,9.533624704172071,0.05882892211307446,False,Head,Open Play,0,1,4,Normal
+3829513,Andy Delort,Stade Malherbe Caen,9.848857801796104,0.059657413278702213,False,Head,Open Play,0,0,1,Normal
+3829513,Andy Delort,Stade Malherbe Caen,28.469281690973514,0.07122815339415497,False,Right Foot,Open Play,0,0,2,Normal
+3829513,Lorik Agim Cana,Nantes,19.054658223122235,0.06477180112532346,False,Right Foot,Open Play,0,0,1,Normal
+3829513,Jules Iloki,Nantes,12.192620719107104,0.06016770362826207,False,Right Foot,Open Play,1,0,2,Normal
+3829513,Ermir Lenjani,Nantes,12.369316876852984,0.060982369021117984,False,Left Foot,Open Play,1,0,1,Volley
+3829513,Michaël Jordan Nkololo,Stade Malherbe Caen,20.60097085090894,0.056411602454256644,False,Right Foot,Open Play,0,0,2,Normal

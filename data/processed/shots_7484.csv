@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.88854381999832,0.05228273060563955,False,Right Foot,Open Play,0,0,1,Normal
-24.020824298928627,0.06543664632917669,False,Right Foot,Open Play,0,0,0,Volley
-8.54400374531753,0.056952429299174226,False,Left Foot,Open Play,0,0,1,Volley
-17.029386365926403,0.06371304896807634,False,Right Foot,Open Play,0,0,2,Normal
-5.656854249492381,0.057548353589171,False,Left Foot,Open Play,0,0,2,Half Volley
-14.212670403551895,0.05444620732147563,False,Left Foot,Open Play,0,0,0,Normal
-16.55294535724685,0.06343227478370944,False,Right Foot,Open Play,0,0,1,Normal
-14.212670403551895,0.06211537532525958,False,Right Foot,Open Play,0,0,3,Normal
-6.708203932499369,0.05768020589547797,True,Head,Open Play,0,0,1,Normal
-12.649110640673518,0.06098738942947037,False,Right Foot,Open Play,0,0,0,Normal
-7.0710678118654755,0.05824415901038379,False,Left Foot,Open Play,0,0,2,Half Volley
-25.553864678361276,0.06940264630128123,False,Right Foot,Open Play,0,0,2,Normal
-27.294688127912362,0.06843776786061911,False,Left Foot,Open Play,0,0,2,Normal
-8.94427190999916,0.05661065938655103,False,Head,Open Play,0,0,1,Normal
-13.45362404707371,0.06144167220578054,False,Left Foot,Open Play,0,0,0,Normal
-17.26267650163207,0.06051132784463308,False,Right Foot,Open Play,0,0,2,Normal
-13.892443989449804,0.061975830228147226,False,Head,Open Play,0,1,3,Normal
-22.02271554554524,0.06447006417146679,False,Left Foot,Open Play,0,0,2,Normal
-24.0,0.06495945478602037,False,Right Foot,Open Play,0,0,2,Normal
-25.942243542145693,0.06963844743583315,False,Left Foot,Open Play,0,1,1,Normal
-15.652475842498529,0.052731880896080954,False,Left Foot,Open Play,0,0,1,Normal
-17.4928556845359,0.05294343156064052,False,Left Foot,Open Play,0,0,1,Normal
-9.219544457292887,0.0593883558980146,False,Head,Open Play,0,0,3,Normal
-4.123105625617661,0.056086461557813196,True,Right Foot,Open Play,0,0,3,Normal
-48.33218389437829,0.09002949120669612,False,Right Foot,Open Play,0,0,2,Normal
-9.486832980505138,0.05933973589891108,False,Right Foot,Open Play,0,0,2,Normal
-20.248456731316587,0.0654685928804106,False,Right Foot,Open Play,0,0,1,Normal
-31.622776601683793,0.06214944281933339,False,Right Foot,Open Play,0,0,2,Normal
-28.653097563788805,0.07165954036182329,False,Right Foot,Open Play,0,0,1,Normal
-12.806248474865697,0.06133888858289386,True,Right Foot,Open Play,0,0,0,Normal
-31.38470965295043,0.07345895413910354,False,Right Foot,Open Play,0,0,1,Normal
-7.810249675906654,0.055546612174908284,False,Right Foot,Open Play,0,0,2,Normal
-34.0147027033899,0.060118138943559656,False,Right Foot,Open Play,0,0,1,Normal
-18.24828759089466,0.06340682075610765,False,Right Foot,Open Play,0,0,3,Normal
-6.324555320336759,0.05726675648381213,True,Right Foot,Open Play,0,0,0,Normal
-17.804493814764857,0.053918289101815335,False,Right Foot,Open Play,0,0,1,Normal
-11.180339887498949,0.06041496471578293,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7484,Carli Anne Hollins,NJ/NY Gotham FC,17.88854381999832,0.05228273060563955,False,Right Foot,Open Play,0,0,1,Normal
+7484,Denise O'Sullivan,North Carolina Courage,24.020824298928627,0.06543664632917669,False,Right Foot,Open Play,0,0,0,Volley
+7484,Lynn Raenie Williams,North Carolina Courage,8.54400374531753,0.056952429299174226,False,Left Foot,Open Play,0,0,1,Volley
+7484,Débora Cristiane de Oliveira,North Carolina Courage,17.029386365926403,0.06371304896807634,False,Right Foot,Open Play,0,0,2,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,5.656854249492381,0.057548353589171,False,Left Foot,Open Play,0,0,2,Half Volley
+7484,Lynn Raenie Williams,North Carolina Courage,14.212670403551895,0.05444620732147563,False,Left Foot,Open Play,0,0,0,Normal
+7484,Débora Cristiane de Oliveira,North Carolina Courage,16.55294535724685,0.06343227478370944,False,Right Foot,Open Play,0,0,1,Normal
+7484,Thaysa de Moraes Rosa Moreno,NJ/NY Gotham FC,14.212670403551895,0.06211537532525958,False,Right Foot,Open Play,0,0,3,Normal
+7484,Abby Erceg,North Carolina Courage,6.708203932499369,0.05768020589547797,True,Head,Open Play,0,0,1,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,12.649110640673518,0.06098738942947037,False,Right Foot,Open Play,0,0,0,Normal
+7484,Savannah McCaskill,NJ/NY Gotham FC,7.0710678118654755,0.05824415901038379,False,Left Foot,Open Play,0,0,2,Half Volley
+7484,Savannah McCaskill,NJ/NY Gotham FC,25.553864678361276,0.06940264630128123,False,Right Foot,Open Play,0,0,2,Normal
+7484,Shea Groom,NJ/NY Gotham FC,27.294688127912362,0.06843776786061911,False,Left Foot,Open Play,0,0,2,Normal
+7484,Sarah Killion,NJ/NY Gotham FC,8.94427190999916,0.05661065938655103,False,Head,Open Play,0,0,1,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,13.45362404707371,0.06144167220578054,False,Left Foot,Open Play,0,0,0,Normal
+7484,Crystal Alyssia Dunn Soubrier,North Carolina Courage,17.26267650163207,0.06051132784463308,False,Right Foot,Open Play,0,0,2,Normal
+7484,Abby Erceg,North Carolina Courage,13.892443989449804,0.061975830228147226,False,Head,Open Play,0,1,3,Normal
+7484,Kristen Hamilton,North Carolina Courage,22.02271554554524,0.06447006417146679,False,Left Foot,Open Play,0,0,2,Normal
+7484,Débora Cristiane de Oliveira,North Carolina Courage,24.0,0.06495945478602037,False,Right Foot,Open Play,0,0,2,Normal
+7484,Imani Dorsey,NJ/NY Gotham FC,25.942243542145693,0.06963844743583315,False,Left Foot,Open Play,0,1,1,Normal
+7484,Kristen Hamilton,North Carolina Courage,15.652475842498529,0.052731880896080954,False,Left Foot,Open Play,0,0,1,Normal
+7484,Kristen Hamilton,North Carolina Courage,17.4928556845359,0.05294343156064052,False,Left Foot,Open Play,0,0,1,Normal
+7484,Savannah McCaskill,NJ/NY Gotham FC,9.219544457292887,0.0593883558980146,False,Head,Open Play,0,0,3,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,4.123105625617661,0.056086461557813196,True,Right Foot,Open Play,0,0,3,Normal
+7484,Kristen Hamilton,North Carolina Courage,48.33218389437829,0.09002949120669612,False,Right Foot,Open Play,0,0,2,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,9.486832980505138,0.05933973589891108,False,Right Foot,Open Play,0,0,2,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,20.248456731316587,0.0654685928804106,False,Right Foot,Open Play,0,0,1,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,31.622776601683793,0.06214944281933339,False,Right Foot,Open Play,0,0,2,Normal
+7484,Imani Dorsey,NJ/NY Gotham FC,28.653097563788805,0.07165954036182329,False,Right Foot,Open Play,0,0,1,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,12.806248474865697,0.06133888858289386,True,Right Foot,Open Play,0,0,0,Normal
+7484,Imani Dorsey,NJ/NY Gotham FC,31.38470965295043,0.07345895413910354,False,Right Foot,Open Play,0,0,1,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,7.810249675906654,0.055546612174908284,False,Right Foot,Open Play,0,0,2,Normal
+7484,Janine Elizabeth Beckie,NJ/NY Gotham FC,34.0147027033899,0.060118138943559656,False,Right Foot,Open Play,0,0,1,Normal
+7484,Heather O''Reilly,North Carolina Courage,18.24828759089466,0.06340682075610765,False,Right Foot,Open Play,0,0,3,Normal
+7484,Lynn Raenie Williams,North Carolina Courage,6.324555320336759,0.05726675648381213,True,Right Foot,Open Play,0,0,0,Normal
+7484,Crystal Alyssia Dunn Soubrier,North Carolina Courage,17.804493814764857,0.053918289101815335,False,Right Foot,Open Play,0,0,1,Normal
+7484,Carli Anne Hollins,NJ/NY Gotham FC,11.180339887498949,0.06041496471578293,False,Head,Open Play,0,0,2,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.767292357659821,0.055011955660544794,False,Head,Open Play,0,0,1,Normal
-15.245327152934431,0.06009104998149741,False,Left Foot,Open Play,0,1,2,Normal
-28.61485628130954,0.0699378611798942,False,Left Foot,Open Play,0,0,1,Normal
-23.110170921046866,0.059362726074161036,False,Right Foot,Open Play,1,0,1,Half Volley
-10.394710193170372,0.055251439791562475,False,Head,Open Play,0,0,3,Normal
-16.924833824885837,0.055490559754267796,False,Head,Open Play,0,1,2,Normal
-1.9235384061671397,0.05550758845360795,False,Left Foot,Open Play,1,0,8,Half Volley
-16.98146047900474,0.05914991261935564,False,Right Foot,Open Play,1,0,3,Volley
-22.681490250863142,0.06734751056554011,False,Left Foot,Open Play,0,0,2,Normal
-16.434415109762803,0.058595069769440254,False,Left Foot,Open Play,1,0,1,Normal
-15.633937443907088,0.062456914652578396,False,Left Foot,Open Play,0,0,1,Normal
-13.138112497615472,0.05968429393351665,False,Right Foot,Open Play,0,1,4,Normal
-12.026637102698325,0.05987717813488336,False,Head,Open Play,0,0,2,Normal
-17.70028248362155,0.058595105092681246,True,Right Foot,Open Play,0,0,1,Lob
-20.65187642806338,0.05218691422950871,False,Right Foot,Open Play,0,1,2,Normal
-13.881282361511126,0.05978593685477568,False,Right Foot,Open Play,1,0,0,Volley
-24.253865671269804,0.0677858352466804,False,Right Foot,Open Play,0,0,1,Normal
-22.343902971504328,0.061645388761358375,False,Left Foot,Open Play,1,0,1,Normal
-14.02640367307315,0.06172476420378331,False,Left Foot,Open Play,1,0,3,Half Volley
-8.345058418010023,0.05514283263302976,True,Left Foot,Open Play,1,0,1,Half Volley
-22.214409737825576,0.059880353164567184,False,Left Foot,Open Play,0,0,3,Normal
-17.47226373427324,0.05967525805574444,False,Left Foot,Open Play,1,0,0,Volley
-26.307793522072497,0.06427756556777971,False,Right Foot,Open Play,0,0,1,Normal
-30.600653587791218,0.07289452677336365,False,Right Foot,Open Play,0,0,2,Normal
-4.060788100849392,0.05659623997467676,False,Right Foot,Open Play,1,0,6,Half Volley
-3.785498646149542,0.05650962417784193,True,Right Foot,Open Play,1,0,6,Half Volley
-11.498260738042074,0.06024929290374996,False,Head,Open Play,0,1,5,Normal
-20.640009689920205,0.05629165494466551,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3847567,Ellen White,England Women's,9.767292357659821,0.055011955660544794,False,Head,Open Play,0,0,1,Normal
+3847567,Sara Däbritz,Germany Women's,15.245327152934431,0.06009104998149741,False,Left Foot,Open Play,0,1,2,Normal
+3847567,Sara Däbritz,Germany Women's,28.61485628130954,0.0699378611798942,False,Left Foot,Open Play,0,0,1,Normal
+3847567,Georgia Stanway,England Women's,23.110170921046866,0.059362726074161036,False,Right Foot,Open Play,1,0,1,Half Volley
+3847567,Lucy Bronze,England Women's,10.394710193170372,0.055251439791562475,False,Head,Open Play,0,0,3,Normal
+3847567,Lucy Bronze,England Women's,16.924833824885837,0.055490559754267796,False,Head,Open Play,0,1,2,Normal
+3847567,Marina Hegering,Germany Women's,1.9235384061671397,0.05550758845360795,False,Left Foot,Open Play,1,0,8,Half Volley
+3847567,Georgia Stanway,England Women's,16.98146047900474,0.05914991261935564,False,Right Foot,Open Play,1,0,3,Volley
+3847567,Lina Magull,Germany Women's,22.681490250863142,0.06734751056554011,False,Left Foot,Open Play,0,0,2,Normal
+3847567,Ellen White,England Women's,16.434415109762803,0.058595069769440254,False,Left Foot,Open Play,1,0,1,Normal
+3847567,Tabea Waßmuth,Germany Women's,15.633937443907088,0.062456914652578396,False,Left Foot,Open Play,0,0,1,Normal
+3847567,Lina Magull,Germany Women's,13.138112497615472,0.05968429393351665,False,Right Foot,Open Play,0,1,4,Normal
+3847567,Tabea Waßmuth,Germany Women's,12.026637102698325,0.05987717813488336,False,Head,Open Play,0,0,2,Normal
+3847567,Ella Toone,England Women's,17.70028248362155,0.058595105092681246,True,Right Foot,Open Play,0,0,1,Lob
+3847567,Lina Magull,Germany Women's,20.65187642806338,0.05218691422950871,False,Right Foot,Open Play,0,1,2,Normal
+3847567,Lea Schüller,Germany Women's,13.881282361511126,0.05978593685477568,False,Right Foot,Open Play,1,0,0,Volley
+3847567,Chloe Kelly,England Women's,24.253865671269804,0.0677858352466804,False,Right Foot,Open Play,0,0,1,Normal
+3847567,Lina Magull,Germany Women's,22.343902971504328,0.061645388761358375,False,Left Foot,Open Play,1,0,1,Normal
+3847567,Lina Magull,Germany Women's,14.02640367307315,0.06172476420378331,False,Left Foot,Open Play,1,0,3,Half Volley
+3847567,Lina Magull,Germany Women's,8.345058418010023,0.05514283263302976,True,Left Foot,Open Play,1,0,1,Half Volley
+3847567,Tabea Waßmuth,Germany Women's,22.214409737825576,0.059880353164567184,False,Left Foot,Open Play,0,0,3,Normal
+3847567,Millie Bright,England Women's,17.47226373427324,0.05967525805574444,False,Left Foot,Open Play,1,0,0,Volley
+3847567,Svenja Huth,Germany Women's,26.307793522072497,0.06427756556777971,False,Right Foot,Open Play,0,0,1,Normal
+3847567,Ella Toone,England Women's,30.600653587791218,0.07289452677336365,False,Right Foot,Open Play,0,0,2,Normal
+3847567,Chloe Kelly,England Women's,4.060788100849392,0.05659623997467676,False,Right Foot,Open Play,1,0,6,Half Volley
+3847567,Chloe Kelly,England Women's,3.785498646149542,0.05650962417784193,True,Right Foot,Open Play,1,0,6,Half Volley
+3847567,Lena Oberdorf,Germany Women's,11.498260738042074,0.06024929290374996,False,Head,Open Play,0,1,5,Normal
+3847567,Alessia Russo,England Women's,20.640009689920205,0.05629165494466551,False,Right Foot,Open Play,1,0,0,Normal

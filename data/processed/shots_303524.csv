@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.542433836454215,0.0746488419744628,False,Right Foot,Open Play,0,0,2,Normal
-12.80351514233494,0.053006723796054214,False,Right Foot,Open Play,0,0,1,Half Volley
-6.449806198638836,0.05797461519066483,False,Head,Open Play,0,1,4,Normal
-27.497272592022654,0.05491653753588695,False,Right Foot,Open Play,0,1,1,Normal
-7.851751396981446,0.055103154351604226,False,Right Foot,Open Play,1,0,1,Volley
-7.924645102463576,0.05741326662814975,False,Right Foot,Open Play,1,0,6,Volley
-9.546203433826454,0.05948537558036945,False,Head,Open Play,0,1,2,Normal
-17.647662734764626,0.06403159884256303,False,Right Foot,Open Play,0,0,3,Normal
-15.700318468107586,0.05754680465337144,False,Right Foot,Open Play,1,0,0,Normal
-23.041701326073998,0.06661127059579357,False,Right Foot,Open Play,0,0,3,Normal
-22.912005586591498,0.061009563206908826,False,Right Foot,Open Play,0,0,2,Normal
-9.46414285606468,0.058144184087181014,False,Head,Open Play,0,0,4,Normal
-27.118259531171987,0.06916670882787311,False,Right Foot,Open Play,0,1,1,Normal
-27.266096163550806,0.06833871690791894,False,Right Foot,Open Play,1,0,1,Half Volley
-10.845275469069465,0.05634492076463707,False,Head,Open Play,0,0,6,Normal
-19.31967908636166,0.06496770362585086,False,Left Foot,Open Play,1,0,1,Half Volley
-27.02239811711759,0.07022494816045208,False,Right Foot,Open Play,0,0,2,Normal
-20.044949488586894,0.05864307172194488,False,Right Foot,Open Play,0,0,0,Normal
-27.35415873317986,0.06498218615089825,False,Left Foot,Open Play,0,0,2,Normal
-20.308126452235808,0.06548259072487829,False,Right Foot,Open Play,1,0,1,Half Volley
-18.748866632412753,0.06083429645990549,False,Left Foot,Open Play,0,0,2,Normal
-25.312447530809813,0.06916803044809962,False,Left Foot,Open Play,0,0,2,Normal
-17.088007490635068,0.056949530200247,False,Left Foot,Open Play,1,0,0,Volley
-9.021086409075131,0.05420224755387871,False,Right Foot,Open Play,1,1,3,Normal
-16.30490723677998,0.05138728939748973,False,Right Foot,Open Play,1,0,1,Half Volley
-19.092406867652915,0.05152325054848402,False,Right Foot,Open Play,1,1,1,Half Volley
-19.366207682455535,0.0640167420539646,True,Left Foot,Open Play,1,1,3,Normal
-23.742788378789882,0.06810555656952123,False,Right Foot,Open Play,1,1,0,Half Volley
-15.47287949930458,0.06263188556305639,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303524,Álvaro Borja Morata Martín,Atlético Madrid,32.542433836454215,0.0746488419744628,False,Right Foot,Open Play,0,0,2,Normal
+303524,Álvaro Borja Morata Martín,Atlético Madrid,12.80351514233494,0.053006723796054214,False,Right Foot,Open Play,0,0,1,Half Volley
+303524,Felipe Augusto de Almeida Monteiro,Atlético Madrid,6.449806198638836,0.05797461519066483,False,Head,Open Play,0,1,4,Normal
+303524,Ángel Martín Correa,Atlético Madrid,27.497272592022654,0.05491653753588695,False,Right Foot,Open Play,0,1,1,Normal
+303524,Mario Hermoso Canseco,Atlético Madrid,7.851751396981446,0.055103154351604226,False,Right Foot,Open Play,1,0,1,Volley
+303524,João Félix Sequeira,Atlético Madrid,7.924645102463576,0.05741326662814975,False,Right Foot,Open Play,1,0,6,Volley
+303524,Felipe Augusto de Almeida Monteiro,Atlético Madrid,9.546203433826454,0.05948537558036945,False,Head,Open Play,0,1,2,Normal
+303524,Héctor Miguel Herrera López,Atlético Madrid,17.647662734764626,0.06403159884256303,False,Right Foot,Open Play,0,0,3,Normal
+303524,Ivan Rakitić,Barcelona,15.700318468107586,0.05754680465337144,False,Right Foot,Open Play,1,0,0,Normal
+303524,João Félix Sequeira,Atlético Madrid,23.041701326073998,0.06661127059579357,False,Right Foot,Open Play,0,0,3,Normal
+303524,Luis Alberto Suárez Díaz,Barcelona,22.912005586591498,0.061009563206908826,False,Right Foot,Open Play,0,0,2,Normal
+303524,Álvaro Borja Morata Martín,Atlético Madrid,9.46414285606468,0.058144184087181014,False,Head,Open Play,0,0,4,Normal
+303524,Arthur Henrique Ramos de Oliveira Melo,Barcelona,27.118259531171987,0.06916670882787311,False,Right Foot,Open Play,0,1,1,Normal
+303524,Luis Alberto Suárez Díaz,Barcelona,27.266096163550806,0.06833871690791894,False,Right Foot,Open Play,1,0,1,Half Volley
+303524,Gerard Piqué Bernabéu,Barcelona,10.845275469069465,0.05634492076463707,False,Head,Open Play,0,0,6,Normal
+303524,Héctor Junior Firpo Adames,Barcelona,19.31967908636166,0.06496770362585086,False,Left Foot,Open Play,1,0,1,Half Volley
+303524,Antoine Griezmann,Barcelona,27.02239811711759,0.07022494816045208,False,Right Foot,Open Play,0,0,2,Normal
+303524,Ángel Martín Correa,Atlético Madrid,20.044949488586894,0.05864307172194488,False,Right Foot,Open Play,0,0,0,Normal
+303524,Lionel Andrés Messi Cuccittini,Barcelona,27.35415873317986,0.06498218615089825,False,Left Foot,Open Play,0,0,2,Normal
+303524,Luis Alberto Suárez Díaz,Barcelona,20.308126452235808,0.06548259072487829,False,Right Foot,Open Play,1,0,1,Half Volley
+303524,Lionel Andrés Messi Cuccittini,Barcelona,18.748866632412753,0.06083429645990549,False,Left Foot,Open Play,0,0,2,Normal
+303524,Héctor Junior Firpo Adames,Barcelona,25.312447530809813,0.06916803044809962,False,Left Foot,Open Play,0,0,2,Normal
+303524,Antoine Griezmann,Barcelona,17.088007490635068,0.056949530200247,False,Left Foot,Open Play,1,0,0,Volley
+303524,Álvaro Borja Morata Martín,Atlético Madrid,9.021086409075131,0.05420224755387871,False,Right Foot,Open Play,1,1,3,Normal
+303524,Kieran Trippier,Atlético Madrid,16.30490723677998,0.05138728939748973,False,Right Foot,Open Play,1,0,1,Half Volley
+303524,Álvaro Borja Morata Martín,Atlético Madrid,19.092406867652915,0.05152325054848402,False,Right Foot,Open Play,1,1,1,Half Volley
+303524,Lionel Andrés Messi Cuccittini,Barcelona,19.366207682455535,0.0640167420539646,True,Left Foot,Open Play,1,1,3,Normal
+303524,Jorge Resurrección Merodio,Atlético Madrid,23.742788378789882,0.06810555656952123,False,Right Foot,Open Play,1,1,0,Half Volley
+303524,Saúl Ñíguez Esclapez,Atlético Madrid,15.47287949930458,0.06263188556305639,False,Left Foot,Open Play,0,0,2,Normal

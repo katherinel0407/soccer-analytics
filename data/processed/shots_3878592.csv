@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.20452542070188,0.06555188944448072,False,Right Foot,Open Play,1,0,0,Normal
-19.19505144562004,0.05317977182349244,False,Right Foot,Open Play,0,0,1,Normal
-10.12719112093773,0.0593058047340553,False,Head,Open Play,0,1,4,Normal
-12.390722335683261,0.0548787713118664,False,Head,Open Play,0,1,2,Normal
-25.34501923455573,0.06811073019367167,False,Right Foot,Open Play,1,0,2,Normal
-22.71849466844139,0.058567118918569444,False,Right Foot,Open Play,0,0,3,Normal
-18.002499826412997,0.062312395132919585,False,Right Foot,Open Play,1,1,1,Half Volley
-18.409236811991967,0.05864754971595989,False,Right Foot,Open Play,1,0,5,Volley
-22.58428657274788,0.05857914732941686,False,Right Foot,Open Play,0,0,3,Normal
-17.5641680702503,0.05448680026910526,False,Left Foot,Open Play,1,1,3,Half Volley
-16.0,0.06130374464429979,False,Left Foot,Open Play,0,0,3,Lob
-22.811619846034603,0.0657077346889859,False,Left Foot,Open Play,1,1,1,Normal
-3.863935817272329,0.05651885232678491,True,Head,Open Play,0,1,5,Normal
-32.87369769283644,0.07065322548356731,False,Right Foot,Open Play,0,0,1,Half Volley
-6.664833081180658,0.058068601946744396,False,Other,Open Play,0,0,2,Normal
-4.964876634922567,0.05713743162374643,False,Head,Open Play,0,1,5,Normal
-24.77034517321064,0.06381484913886844,False,Right Foot,Open Play,1,0,0,Normal
-22.97324530840169,0.06648222083130392,False,Left Foot,Open Play,0,0,1,Normal
-24.55056007507772,0.055817560570195594,False,Right Foot,Open Play,1,0,0,Normal
-21.355093069335943,0.05476159217919755,False,Right Foot,Open Play,1,0,1,Normal
-20.048940121612414,0.06369587261461307,False,Left Foot,Open Play,1,0,1,Half Volley
-21.533462331914947,0.05790724338065829,False,Right Foot,Open Play,0,1,2,Normal
-26.60545056938521,0.07015179065016953,False,Right Foot,Open Play,0,0,1,Normal
-18.528356645962962,0.05506419987145235,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878592,Jules Olivier Ntcham,Genoa,23.20452542070188,0.06555188944448072,False,Right Foot,Open Play,1,0,0,Normal
+3878592,Khouma El Hadji Babacar,Fiorentina,19.19505144562004,0.05317977182349244,False,Right Foot,Open Play,0,0,1,Normal
+3878592,Khouma El Hadji Babacar,Fiorentina,10.12719112093773,0.0593058047340553,False,Head,Open Play,0,1,4,Normal
+3878592,Armando Izzo,Genoa,12.390722335683261,0.0548787713118664,False,Head,Open Play,0,1,2,Normal
+3878592,Tomás Eduardo Rincón Hernández,Genoa,25.34501923455573,0.06811073019367167,False,Right Foot,Open Play,1,0,2,Normal
+3878592,Borja Valero Iglesias,Fiorentina,22.71849466844139,0.058567118918569444,False,Right Foot,Open Play,0,0,3,Normal
+3878592,Borja Valero Iglesias,Fiorentina,18.002499826412997,0.062312395132919585,False,Right Foot,Open Play,1,1,1,Half Volley
+3878592,Khouma El Hadji Babacar,Fiorentina,18.409236811991967,0.05864754971595989,False,Right Foot,Open Play,1,0,5,Volley
+3878592,Khouma El Hadji Babacar,Fiorentina,22.58428657274788,0.05857914732941686,False,Right Foot,Open Play,0,0,3,Normal
+3878592,Davide Astori,Fiorentina,17.5641680702503,0.05448680026910526,False,Left Foot,Open Play,1,1,3,Half Volley
+3878592,Goran Pandev,Genoa,16.0,0.06130374464429979,False,Left Foot,Open Play,0,0,3,Lob
+3878592,Manuel Pasqual,Fiorentina,22.811619846034603,0.0657077346889859,False,Left Foot,Open Play,1,1,1,Normal
+3878592,Khouma El Hadji Babacar,Fiorentina,3.863935817272329,0.05651885232678491,True,Head,Open Play,0,1,5,Normal
+3878592,Matías Vecino Falero,Fiorentina,32.87369769283644,0.07065322548356731,False,Right Foot,Open Play,0,0,1,Half Volley
+3878592,Goran Pandev,Genoa,6.664833081180658,0.058068601946744396,False,Other,Open Play,0,0,2,Normal
+3878592,Marcos Alonso Mendoza,Fiorentina,4.964876634922567,0.05713743162374643,False,Head,Open Play,0,1,5,Normal
+3878592,Blerim Džemaili,Genoa,24.77034517321064,0.06381484913886844,False,Right Foot,Open Play,1,0,0,Normal
+3878592,Blerim Džemaili,Genoa,22.97324530840169,0.06648222083130392,False,Left Foot,Open Play,0,0,1,Normal
+3878592,Blerim Džemaili,Genoa,24.55056007507772,0.055817560570195594,False,Right Foot,Open Play,1,0,0,Normal
+3878592,Diego Perotti,Genoa,21.355093069335943,0.05476159217919755,False,Right Foot,Open Play,1,0,1,Normal
+3878592,Nicolás Andrés Burdisso,Genoa,20.048940121612414,0.06369587261461307,False,Left Foot,Open Play,1,0,1,Half Volley
+3878592,Darko Lazović,Genoa,21.533462331914947,0.05790724338065829,False,Right Foot,Open Play,0,1,2,Normal
+3878592,Jules Olivier Ntcham,Genoa,26.60545056938521,0.07015179065016953,False,Right Foot,Open Play,0,0,1,Normal
+3878592,Darko Lazović,Genoa,18.528356645962962,0.05506419987145235,False,Left Foot,Open Play,0,0,3,Normal

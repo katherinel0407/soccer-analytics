@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.436306233438497,0.06530281295987998,False,Left Foot,Open Play,0,0,3,Normal
-8.996110270555826,0.058549315712704685,False,Head,Open Play,0,1,3,Normal
-10.095543571299176,0.05988723930601345,False,Head,Open Play,0,0,2,Normal
-12.211470017979003,0.061036889519999214,False,Right Foot,Open Play,1,0,5,Volley
-10.530906893520617,0.05999529666896598,False,Head,Open Play,0,1,5,Normal
-11.452947218947624,0.059727692678952844,False,Left Foot,Open Play,1,0,0,Normal
-28.183860629800176,0.06942007568103488,False,Left Foot,Open Play,1,0,2,Normal
-9.264987857520376,0.05908183697287731,True,Right Foot,Open Play,1,0,1,Half Volley
-13.76444695583517,0.06153192469478076,False,Left Foot,Open Play,1,0,0,Half Volley
-21.005237442123814,0.06256271980942142,False,Right Foot,Open Play,1,0,1,Normal
-16.456001944579366,0.05936443371896592,True,Right Foot,Open Play,1,1,1,Half Volley
-8.285529554590946,0.058913174268682346,False,Head,Open Play,0,1,1,Normal
-17.269916039170543,0.06375325794386578,False,Right Foot,Open Play,1,0,0,Half Volley
-15.861904047118685,0.05953254493805416,False,Left Foot,Open Play,0,1,2,Normal
-23.332380932943806,0.06153897570025912,False,Right Foot,Open Play,1,0,0,Half Volley
-19.103141102970476,0.06496805140115924,False,Left Foot,Open Play,1,0,0,Volley
-7.22495674727538,0.057827016746713804,False,Head,Open Play,0,1,5,Normal
-19.910047714659044,0.06438383178832911,False,Right Foot,Open Play,0,1,3,Normal
-18.553975315279473,0.0639950540126866,False,Left Foot,Open Play,1,0,1,Half Volley
-24.041630560342615,0.0611098744664127,False,Right Foot,Open Play,1,0,0,Normal
-9.94585340732508,0.059466882328506734,False,Right Foot,Open Play,1,0,2,Half Volley
-9.14002188181188,0.05937352691674789,False,Right Foot,Open Play,1,0,1,Half Volley
-7.410802925459567,0.05784319635547775,False,Right Foot,Open Play,1,0,1,Normal
-10.901834707974624,0.05906377525743983,False,Head,Open Play,0,1,4,Normal
-15.763248396190427,0.06229342289979035,False,Left Foot,Open Play,0,0,2,Normal
-19.971980372511883,0.05275660389769839,False,Left Foot,Open Play,1,0,1,Normal
-17.229045243425418,0.06285490491075149,False,Right Foot,Open Play,0,0,2,Normal
-15.310127367203716,0.06251392937166705,False,Head,Open Play,0,0,5,Normal
-10.507616285342742,0.05910708738031738,False,Head,Open Play,0,0,5,Normal
-22.41093483101497,0.06605854328822156,False,Right Foot,Open Play,0,0,0,Normal
-17.477413996355413,0.06400124626122385,False,Left Foot,Open Play,1,0,1,Normal
-13.83618444514238,0.059975977098177286,False,Head,Open Play,0,0,2,Normal
-11.423659658795863,0.05987459278345448,True,Left Foot,Open Play,1,0,0,Normal
-22.17769149393147,0.05930852033067106,False,Left Foot,Open Play,0,0,1,Normal
-18.517289218457435,0.062076024695036515,True,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825855,Gonzalo Castro Irizábal,Málaga,19.436306233438497,0.06530281295987998,False,Left Foot,Open Play,0,0,3,Normal
+3825855,Charles Días Barbosa de Oliveira,Málaga,8.996110270555826,0.058549315712704685,False,Head,Open Play,0,1,3,Normal
+3825855,Duje Čop,Málaga,10.095543571299176,0.05988723930601345,False,Head,Open Play,0,0,2,Normal
+3825855,Charles Días Barbosa de Oliveira,Málaga,12.211470017979003,0.061036889519999214,False,Right Foot,Open Play,1,0,5,Volley
+3825855,Ignacio Camacho Barnola,Málaga,10.530906893520617,0.05999529666896598,False,Head,Open Play,0,1,5,Normal
+3825855,Giuseppe Rossi,Levante UD,11.452947218947624,0.059727692678952844,False,Left Foot,Open Play,1,0,0,Normal
+3825855,Ignacio Camacho Barnola,Málaga,28.183860629800176,0.06942007568103488,False,Left Foot,Open Play,1,0,2,Normal
+3825855,Duje Čop,Málaga,9.264987857520376,0.05908183697287731,True,Right Foot,Open Play,1,0,1,Half Volley
+3825855,Giuseppe Rossi,Levante UD,13.76444695583517,0.06153192469478076,False,Left Foot,Open Play,1,0,0,Half Volley
+3825855,Pablo Fornals Malla,Málaga,21.005237442123814,0.06256271980942142,False,Right Foot,Open Play,1,0,1,Normal
+3825855,José Luis Morales Nogales,Levante UD,16.456001944579366,0.05936443371896592,True,Right Foot,Open Play,1,1,1,Half Volley
+3825855,Duje Čop,Málaga,8.285529554590946,0.058913174268682346,False,Head,Open Play,0,1,1,Normal
+3825855,Duje Čop,Málaga,17.269916039170543,0.06375325794386578,False,Right Foot,Open Play,1,0,0,Half Volley
+3825855,Giuseppe Rossi,Levante UD,15.861904047118685,0.05953254493805416,False,Left Foot,Open Play,0,1,2,Normal
+3825855,José María Martín-Bejarano Serrano,Levante UD,23.332380932943806,0.06153897570025912,False,Right Foot,Open Play,1,0,0,Half Volley
+3825855,Gonzalo Castro Irizábal,Málaga,19.103141102970476,0.06496805140115924,False,Left Foot,Open Play,1,0,0,Volley
+3825855,Egor Filipenko,Málaga,7.22495674727538,0.057827016746713804,False,Head,Open Play,0,1,5,Normal
+3825855,Charles Días Barbosa de Oliveira,Málaga,19.910047714659044,0.06438383178832911,False,Right Foot,Open Play,0,1,3,Normal
+3825855,José Luis Morales Nogales,Levante UD,18.553975315279473,0.0639950540126866,False,Left Foot,Open Play,1,0,1,Half Volley
+3825855,Ignacio Camacho Barnola,Málaga,24.041630560342615,0.0611098744664127,False,Right Foot,Open Play,1,0,0,Normal
+3825855,Duje Čop,Málaga,9.94585340732508,0.059466882328506734,False,Right Foot,Open Play,1,0,2,Half Volley
+3825855,Charles Días Barbosa de Oliveira,Málaga,9.14002188181188,0.05937352691674789,False,Right Foot,Open Play,1,0,1,Half Volley
+3825855,Deyverson Brum Silva Acosta,Levante UD,7.410802925459567,0.05784319635547775,False,Right Foot,Open Play,1,0,1,Normal
+3825855,Zouhair Feddal,Levante UD,10.901834707974624,0.05906377525743983,False,Head,Open Play,0,1,4,Normal
+3825855,José Luis Morales Nogales,Levante UD,15.763248396190427,0.06229342289979035,False,Left Foot,Open Play,0,0,2,Normal
+3825855,José María Martín-Bejarano Serrano,Levante UD,19.971980372511883,0.05275660389769839,False,Left Foot,Open Play,1,0,1,Normal
+3825855,José Luis Morales Nogales,Levante UD,17.229045243425418,0.06285490491075149,False,Right Foot,Open Play,0,0,2,Normal
+3825855,Egor Filipenko,Málaga,15.310127367203716,0.06251392937166705,False,Head,Open Play,0,0,5,Normal
+3825855,Raúl Albentosa Redal,Málaga,10.507616285342742,0.05910708738031738,False,Head,Open Play,0,0,5,Normal
+3825855,Gonzalo Castro Irizábal,Málaga,22.41093483101497,0.06605854328822156,False,Right Foot,Open Play,0,0,0,Normal
+3825855,Sérgio Paulo Barbosa Valente,Málaga,17.477413996355413,0.06400124626122385,False,Left Foot,Open Play,1,0,1,Normal
+3825855,Charles Días Barbosa de Oliveira,Málaga,13.83618444514238,0.059975977098177286,False,Head,Open Play,0,0,2,Normal
+3825855,Duje Čop,Málaga,11.423659658795863,0.05987459278345448,True,Left Foot,Open Play,1,0,0,Normal
+3825855,Christian Atsu Twasam,Málaga,22.17769149393147,0.05930852033067106,False,Left Foot,Open Play,0,0,1,Normal
+3825855,Gonzalo Castro Irizábal,Málaga,18.517289218457435,0.062076024695036515,True,Left Foot,Open Play,0,0,2,Normal

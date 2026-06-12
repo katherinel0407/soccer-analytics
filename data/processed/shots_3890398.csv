@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.85180061570826,0.059864146637245326,False,Left Foot,Open Play,0,0,3,Normal
-14.541664278891876,0.05606953547177871,False,Right Foot,Open Play,1,1,2,Half Volley
-6.449806198638845,0.05706495708605959,True,Left Foot,Open Play,1,0,2,Normal
-31.263077263762757,0.07221939099946945,False,Left Foot,Open Play,1,1,1,Half Volley
-31.016124838541646,0.061211891326173516,True,Left Foot,Free Kick,0,0,0,Normal
-13.705838172107537,0.06186426780189488,False,Head,Open Play,0,1,5,Normal
-23.410467744152395,0.06271796371692828,False,Left Foot,Open Play,1,1,1,Volley
-5.758472019555192,0.05753636875104579,False,Head,Open Play,0,1,5,Normal
-34.860436027106715,0.07331014660641781,False,Right Foot,Open Play,0,1,2,Volley
-34.22426040106638,0.06100546141123185,False,Left Foot,Free Kick,0,0,0,Normal
-25.588278566562458,0.06939629810123743,False,Right Foot,Open Play,0,0,2,Normal
-5.470831746635976,0.05736627416244668,True,Right Foot,Open Play,1,0,5,Volley
-32.47845439672276,0.07393212264459638,False,Left Foot,Open Play,0,0,2,Normal
-22.243425995111448,0.06713272418823417,False,Right Foot,Open Play,0,1,1,Normal
-10.822661410207754,0.054025089560274,True,Right Foot,Open Play,0,0,1,Normal
-19.202343606966313,0.06332415802793219,False,Left Foot,Open Play,0,0,1,Normal
-20.900956915892635,0.06359449746500918,False,Right Foot,Open Play,1,0,0,Half Volley
-40.0019999500025,0.04217857770670306,False,Left Foot,Corner,0,0,0,Normal
-5.3814496188294845,0.057435746401765304,False,Head,Open Play,0,1,7,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890398,Jan Rosenthal,Darmstadt 98,29.85180061570826,0.059864146637245326,False,Left Foot,Open Play,0,0,3,Normal
+3890398,Vedad Ibišević,Hertha Berlin,14.541664278891876,0.05606953547177871,False,Right Foot,Open Play,1,1,2,Half Volley
+3890398,Vedad Ibišević,Hertha Berlin,6.449806198638845,0.05706495708605959,True,Left Foot,Open Play,1,0,2,Normal
+3890398,Fabian Holland,Darmstadt 98,31.263077263762757,0.07221939099946945,False,Left Foot,Open Play,1,1,1,Half Volley
+3890398,Marvin Plattenhardt,Hertha Berlin,31.016124838541646,0.061211891326173516,True,Left Foot,Free Kick,0,0,0,Normal
+3890398,Florian Jungwirth,Darmstadt 98,13.705838172107537,0.06186426780189488,False,Head,Open Play,0,1,5,Normal
+3890398,Jérôme Gondorf,Darmstadt 98,23.410467744152395,0.06271796371692828,False,Left Foot,Open Play,1,1,1,Volley
+3890398,Sandro Wagner,Darmstadt 98,5.758472019555192,0.05753636875104579,False,Head,Open Play,0,1,5,Normal
+3890398,Vladimír Darida,Hertha Berlin,34.860436027106715,0.07331014660641781,False,Right Foot,Open Play,0,1,2,Volley
+3890398,Konstantin Rausch,Darmstadt 98,34.22426040106638,0.06100546141123185,False,Left Foot,Free Kick,0,0,0,Normal
+3890398,Salomon Armand Magloire Kalou,Hertha Berlin,25.588278566562458,0.06939629810123743,False,Right Foot,Open Play,0,0,2,Normal
+3890398,Vedad Ibišević,Hertha Berlin,5.470831746635976,0.05736627416244668,True,Right Foot,Open Play,1,0,5,Volley
+3890398,Mario Vrančić,Darmstadt 98,32.47845439672276,0.07393212264459638,False,Left Foot,Open Play,0,0,2,Normal
+3890398,Konstantin Rausch,Darmstadt 98,22.243425995111448,0.06713272418823417,False,Right Foot,Open Play,0,1,1,Normal
+3890398,Salomon Armand Magloire Kalou,Hertha Berlin,10.822661410207754,0.054025089560274,True,Right Foot,Open Play,0,0,1,Normal
+3890398,Valentin Stocker,Hertha Berlin,19.202343606966313,0.06332415802793219,False,Left Foot,Open Play,0,0,1,Normal
+3890398,Jens Hegeler,Hertha Berlin,20.900956915892635,0.06359449746500918,False,Right Foot,Open Play,1,0,0,Half Volley
+3890398,Konstantin Rausch,Darmstadt 98,40.0019999500025,0.04217857770670306,False,Left Foot,Corner,0,0,0,Normal
+3890398,Luca Caldirola,Darmstadt 98,5.3814496188294845,0.057435746401765304,False,Head,Open Play,0,1,7,Normal

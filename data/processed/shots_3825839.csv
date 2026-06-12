@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.040418317978594,0.05985704156257413,True,Right Foot,Open Play,1,0,1,Volley
-29.161961525247243,0.06520171870647078,False,Left Foot,Open Play,0,0,2,Normal
-18.94465623863363,0.06492166683463786,False,Left Foot,Open Play,1,0,0,Volley
-7.505997601918082,0.057851067564455495,False,Head,Open Play,0,1,4,Normal
-27.405291459862276,0.07013878430297461,False,Left Foot,Open Play,0,0,2,Normal
-15.322206107476827,0.06220851681323172,False,Right Foot,Open Play,1,0,0,Volley
-12.035364556173612,0.053542501441597966,False,Right Foot,Open Play,1,0,1,Normal
-11.587924749496779,0.05758866204674438,False,Right Foot,Open Play,0,0,3,Normal
-17.300289014926886,0.06313516095468502,False,Right Foot,Open Play,0,0,2,Normal
-17.242969581832472,0.06390013727969888,False,Right Foot,Open Play,1,0,0,Half Volley
-31.73546911580165,0.06964476970114579,False,Right Foot,Open Play,0,0,1,Normal
-24.49836729253604,0.06707015656242517,False,Right Foot,Open Play,0,0,2,Normal
-20.756203891848823,0.06550772526964735,False,Right Foot,Open Play,0,0,3,Normal
-21.807338214463492,0.06245363821070878,False,Right Foot,Open Play,1,0,1,Volley
-32.76049450176233,0.07447758226556772,False,Left Foot,Open Play,0,0,1,Normal
-25.388580109962827,0.05655350758931297,False,Left Foot,Open Play,0,0,1,Normal
-20.929644048573778,0.06170549533598816,False,Left Foot,Open Play,0,0,1,Lob
-15.047258886587954,0.060008345084415195,False,Right Foot,Open Play,1,0,0,Normal
-17.23861943428186,0.06030324597846101,False,Left Foot,Open Play,1,0,2,Normal
-17.135343591536174,0.061339637317096816,False,Right Foot,Open Play,1,0,2,Normal
-7.324616030891992,0.05748051157110879,False,Head,Open Play,0,0,2,Normal
-33.93081195609678,0.061492377774606546,False,Left Foot,Open Play,0,0,1,Normal
-16.0312195418814,0.05571821353845074,False,Right Foot,Open Play,0,0,1,Lob
-11.113955191559839,0.06042347305964839,False,Head,Open Play,0,0,3,Normal
-24.992798962901297,0.06870073692204233,False,Right Foot,Open Play,0,1,1,Normal
-10.429285689825544,0.060066712899224224,False,Head,Open Play,0,1,2,Normal
-23.77603835797713,0.06816109882913647,False,Right Foot,Open Play,0,1,1,Normal
-17.196802028284214,0.06290448862454673,False,Left Foot,Open Play,1,0,1,Normal
-17.88994130789702,0.06097080980840205,False,Left Foot,Open Play,1,1,1,Half Volley
-22.09072203437452,0.05740383623496316,False,Right Foot,Open Play,0,0,2,Normal
-23.34373577643476,0.05782476305779592,False,Right Foot,Open Play,0,0,0,Normal
-9.602083107326239,0.05853211178770576,True,Left Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825839,Vicente Iborra De La Fuente,Sevilla,10.040418317978594,0.05985704156257413,True,Right Foot,Open Play,1,0,1,Volley
+3825839,Alen Halilović,Sporting Gijón,29.161961525247243,0.06520171870647078,False,Left Foot,Open Play,0,0,2,Normal
+3825839,Jonathan Rodríguez Menéndez,Sporting Gijón,18.94465623863363,0.06492166683463786,False,Left Foot,Open Play,1,0,0,Volley
+3825839,Daniel Filipe Martins Carriço,Sevilla,7.505997601918082,0.057851067564455495,False,Head,Open Play,0,1,4,Normal
+3825839,Alen Halilović,Sporting Gijón,27.405291459862276,0.07013878430297461,False,Left Foot,Open Play,0,0,2,Normal
+3825839,Fernando Llorente Torres,Sevilla,15.322206107476827,0.06220851681323172,False,Right Foot,Open Play,1,0,0,Volley
+3825839,Ignacio Cases Mora,Sporting Gijón,12.035364556173612,0.053542501441597966,False,Right Foot,Open Play,1,0,1,Normal
+3825839,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,11.587924749496779,0.05758866204674438,False,Right Foot,Open Play,0,0,3,Normal
+3825839,Yevhen Konoplyanka,Sevilla,17.300289014926886,0.06313516095468502,False,Right Foot,Open Play,0,0,2,Normal
+3825839,Yevhen Konoplyanka,Sevilla,17.242969581832472,0.06390013727969888,False,Right Foot,Open Play,1,0,0,Half Volley
+3825839,Grzegorz Krychowiak,Sevilla,31.73546911580165,0.06964476970114579,False,Right Foot,Open Play,0,0,1,Normal
+3825839,Sebastián Carlos Cristóforo Pepe,Sevilla,24.49836729253604,0.06707015656242517,False,Right Foot,Open Play,0,0,2,Normal
+3825839,Yevhen Konoplyanka,Sevilla,20.756203891848823,0.06550772526964735,False,Right Foot,Open Play,0,0,3,Normal
+3825839,Jorge Andújar Moreno,Sevilla,21.807338214463492,0.06245363821070878,False,Right Foot,Open Play,1,0,1,Volley
+3825839,Jonathan Rodríguez Menéndez,Sporting Gijón,32.76049450176233,0.07447758226556772,False,Left Foot,Open Play,0,0,1,Normal
+3825839,Alen Halilović,Sporting Gijón,25.388580109962827,0.05655350758931297,False,Left Foot,Open Play,0,0,1,Normal
+3825839,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,20.929644048573778,0.06170549533598816,False,Left Foot,Open Play,0,0,1,Lob
+3825839,Jorge Andújar Moreno,Sevilla,15.047258886587954,0.060008345084415195,False,Right Foot,Open Play,1,0,0,Normal
+3825839,Sebastián Carlos Cristóforo Pepe,Sevilla,17.23861943428186,0.06030324597846101,False,Left Foot,Open Play,1,0,2,Normal
+3825839,Vicente Iborra De La Fuente,Sevilla,17.135343591536174,0.061339637317096816,False,Right Foot,Open Play,1,0,2,Normal
+3825839,Jorge Andújar Moreno,Sevilla,7.324616030891992,0.05748051157110879,False,Head,Open Play,0,0,2,Normal
+3825839,Alberto Lora Ramos,Sporting Gijón,33.93081195609678,0.061492377774606546,False,Left Foot,Open Play,0,0,1,Normal
+3825839,Fernando Llorente Torres,Sevilla,16.0312195418814,0.05571821353845074,False,Right Foot,Open Play,0,0,1,Lob
+3825839,Grzegorz Krychowiak,Sevilla,11.113955191559839,0.06042347305964839,False,Head,Open Play,0,0,3,Normal
+3825839,Yevhen Konoplyanka,Sevilla,24.992798962901297,0.06870073692204233,False,Right Foot,Open Play,0,1,1,Normal
+3825839,Fernando Llorente Torres,Sevilla,10.429285689825544,0.060066712899224224,False,Head,Open Play,0,1,2,Normal
+3825839,Ismael López Blanco,Sporting Gijón,23.77603835797713,0.06816109882913647,False,Right Foot,Open Play,0,1,1,Normal
+3825839,Daniel Arnaud N''Di	,Sporting Gijón,17.196802028284214,0.06290448862454673,False,Left Foot,Open Play,1,0,1,Normal
+3825839,Yevhen Konoplyanka,Sevilla,17.88994130789702,0.06097080980840205,False,Left Foot,Open Play,1,1,1,Half Volley
+3825839,Carlos Castro García,Sporting Gijón,22.09072203437452,0.05740383623496316,False,Right Foot,Open Play,0,0,2,Normal
+3825839,Rachid Aït-Atmane,Sporting Gijón,23.34373577643476,0.05782476305779592,False,Right Foot,Open Play,0,0,0,Normal
+3825839,Ismael López Blanco,Sporting Gijón,9.602083107326239,0.05853211178770576,True,Left Foot,Open Play,0,0,1,Half Volley

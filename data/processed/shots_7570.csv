@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.546573405388315,0.059961873998743885,False,Right Foot,Open Play,0,0,0,Normal
-3.0,0.056007231776386834,False,Right Foot,Open Play,0,0,4,Normal
-35.22782990761707,0.07670091856163325,False,Right Foot,Open Play,0,0,2,Normal
-8.246211251235321,0.05729034715112584,False,Head,Open Play,0,0,2,Normal
-18.601075237738275,0.05352441346771902,False,Right Foot,Open Play,0,0,1,Normal
-14.7648230602334,0.062454776350060776,False,Right Foot,Open Play,0,0,2,Normal
-30.364452901377952,0.06235646076826336,False,Right Foot,Open Play,0,0,2,Normal
-7.0,0.05755567023984417,False,Head,Open Play,0,0,5,Normal
-30.01666203960727,0.06734545092168714,False,Left Foot,Open Play,0,0,1,Normal
-9.486832980505138,0.057332220024372375,False,Head,Open Play,0,0,4,Diving Header
-12.083045973594572,0.060866000238953805,False,Head,Open Play,0,1,1,Normal
-21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,1,1,1,Normal
-17.69180601295413,0.06377327899593536,False,Right Foot,Open Play,1,0,1,Volley
-18.384776310850235,0.06429804944839616,False,Right Foot,Open Play,0,0,2,Normal
-19.849433241279208,0.05555539243659419,True,Left Foot,Open Play,0,0,2,Normal
-27.073972741361768,0.06536692223447464,False,Right Foot,Free Kick,0,0,0,Normal
-19.1049731745428,0.054520996667156416,False,Left Foot,Open Play,0,0,2,Normal
-17.46424919657298,0.06393103316233788,False,Right Foot,Open Play,0,0,1,Normal
-35.4400902933387,0.0636138593635136,False,Left Foot,Open Play,0,0,0,Normal
-22.135943621178654,0.06652908246992177,False,Left Foot,Open Play,1,0,0,Half Volley
-31.76476034853718,0.05861726234637145,False,Right Foot,Free Kick,0,0,0,Normal
-16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,0,0,1,Normal
-10.770329614269007,0.05913361448862013,False,Right Foot,Open Play,1,0,2,Normal
-22.847319317591726,0.05938562592521287,False,Right Foot,Open Play,1,0,0,Normal
-17.204650534085253,0.06300706143286973,False,Right Foot,Open Play,0,0,2,Normal
-13.038404810405298,0.06076089281083453,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7570,Youri Tielemans,Belgium,29.546573405388315,0.059961873998743885,False,Right Foot,Open Play,0,0,0,Normal
+7570,Michy Batshuayi Tunga,Belgium,3.0,0.056007231776386834,False,Right Foot,Open Play,0,0,4,Normal
+7570,Marcus Rashford,England,35.22782990761707,0.07670091856163325,False,Right Foot,Open Play,0,0,2,Normal
+7570,Jamie Vardy,England,8.246211251235321,0.05729034715112584,False,Head,Open Play,0,0,2,Normal
+7570,Michy Batshuayi Tunga,Belgium,18.601075237738275,0.05352441346771902,False,Right Foot,Open Play,0,0,1,Normal
+7570,Marouane Fellaini-Bakkioui,Belgium,14.7648230602334,0.062454776350060776,False,Right Foot,Open Play,0,0,2,Normal
+7570,Youri Tielemans,Belgium,30.364452901377952,0.06235646076826336,False,Right Foot,Open Play,0,0,2,Normal
+7570,Ruben Loftus-Cheek,England,7.0,0.05755567023984417,False,Head,Open Play,0,0,5,Normal
+7570,Adnan Januzaj,Belgium,30.01666203960727,0.06734545092168714,False,Left Foot,Open Play,0,0,1,Normal
+7570,Anga Dedryck Boyata,Belgium,9.486832980505138,0.057332220024372375,False,Head,Open Play,0,0,4,Diving Header
+7570,Jamie Vardy,England,12.083045973594572,0.060866000238953805,False,Head,Open Play,0,1,1,Normal
+7570,Thorgan Hazard,Belgium,21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,1,1,1,Normal
+7570,Thorgan Hazard,Belgium,17.69180601295413,0.06377327899593536,False,Right Foot,Open Play,1,0,1,Volley
+7570,Marcus Rashford,England,18.384776310850235,0.06429804944839616,False,Right Foot,Open Play,0,0,2,Normal
+7570,Adnan Januzaj,Belgium,19.849433241279208,0.05555539243659419,True,Left Foot,Open Play,0,0,2,Normal
+7570,Trent Alexander-Arnold,England,27.073972741361768,0.06536692223447464,False,Right Foot,Free Kick,0,0,0,Normal
+7570,Adnan Januzaj,Belgium,19.1049731745428,0.054520996667156416,False,Left Foot,Open Play,0,0,2,Normal
+7570,Marcus Rashford,England,17.46424919657298,0.06393103316233788,False,Right Foot,Open Play,0,0,1,Normal
+7570,Fabian Delph,England,35.4400902933387,0.0636138593635136,False,Left Foot,Open Play,0,0,0,Normal
+7570,Fabian Delph,England,22.135943621178654,0.06652908246992177,False,Left Foot,Open Play,1,0,0,Half Volley
+7570,Marcus Rashford,England,31.76476034853718,0.05861726234637145,False,Right Foot,Free Kick,0,0,0,Normal
+7570,Daniel Nii Tackie Mensah Welbeck,England,16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,0,0,1,Normal
+7570,Daniel Nii Tackie Mensah Welbeck,England,10.770329614269007,0.05913361448862013,False,Right Foot,Open Play,1,0,2,Normal
+7570,Dries Mertens,Belgium,22.847319317591726,0.05938562592521287,False,Right Foot,Open Play,1,0,0,Normal
+7570,Thorgan Hazard,Belgium,17.204650534085253,0.06300706143286973,False,Right Foot,Open Play,0,0,2,Normal
+7570,Marouane Fellaini-Bakkioui,Belgium,13.038404810405298,0.06076089281083453,False,Left Foot,Open Play,0,0,2,Normal

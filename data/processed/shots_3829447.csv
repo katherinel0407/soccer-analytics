@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.090094152187083,0.0573826866677976,False,Head,Open Play,0,1,5,Normal
-13.944532978913275,0.05547176320449309,False,Head,Open Play,0,1,2,Normal
-27.12065633424088,0.07036118085886334,False,Right Foot,Open Play,1,0,1,Volley
-12.30650234632083,0.05740639510672574,False,Head,Open Play,0,0,5,Normal
-30.47950130825634,0.071246716326124,False,Right Foot,Open Play,0,1,3,Normal
-11.26099462747408,0.06044985241104322,True,Left Foot,Open Play,0,1,2,Lob
-32.8,0.06934165522532894,False,Right Foot,Open Play,0,0,1,Normal
-31.501269815675684,0.05405167543198229,False,Right Foot,Open Play,0,0,2,Normal
-12.601983970788092,0.060376322143546726,False,Head,Open Play,0,1,3,Normal
-24.943536236869065,0.05275987880351596,False,Right Foot,Open Play,0,0,1,Half Volley
-27.464158461529454,0.07066651022529902,False,Right Foot,Open Play,0,1,3,Normal
-33.416762260877405,0.07182229431579472,False,Left Foot,Open Play,0,1,2,Normal
-31.961539387207242,0.06063409111068875,False,Right Foot,Open Play,0,0,1,Normal
-33.83371099953418,0.06629950843592952,False,Left Foot,Open Play,1,0,1,Normal
-8.902246907382434,0.058382657127583115,False,Head,Open Play,0,1,4,Normal
-14.358969322343441,0.0586637354864411,False,Left Foot,Open Play,1,1,1,Half Volley
-24.9110417285187,0.06893951886965469,False,Left Foot,Open Play,1,0,0,Half Volley
-12.924782396620838,0.05732954648210719,False,Head,Open Play,0,1,2,Normal
-20.256603861457133,0.06415980687243618,False,Left Foot,Open Play,0,1,1,Normal
-25.912352266824414,0.06546963750143531,False,Right Foot,Open Play,0,0,1,Normal
-38.83722441163889,0.07373075406761308,False,Right Foot,Open Play,0,0,0,Normal
-38.01315561749643,0.07832549391308878,False,Left Foot,Open Play,0,0,0,Normal
-24.70080970332754,0.06062881230273506,False,Right Foot,Open Play,0,0,2,Normal
-19.160375779195984,0.05348206418092227,False,Left Foot,Open Play,1,1,2,Normal
-18.174707700538136,0.051893372366891344,False,Left Foot,Open Play,0,0,2,Half Volley
-23.78003364169193,0.05622225531899331,False,Right Foot,Open Play,0,0,0,Half Volley
-26.10785322465254,0.05526830124830011,False,Right Foot,Open Play,0,0,2,Normal
-8.354639429682173,0.058925482372542345,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829447,Marko Baša,Lille,10.090094152187083,0.0573826866677976,False,Head,Open Play,0,1,5,Normal
+3829447,Baptiste Guillaume,Lille,13.944532978913275,0.05547176320449309,False,Head,Open Play,0,1,2,Normal
+3829447,Ronny Rodelin,Lille,27.12065633424088,0.07036118085886334,False,Right Foot,Open Play,1,0,1,Volley
+3829447,Ronny Rodelin,Lille,12.30650234632083,0.05740639510672574,False,Head,Open Play,0,0,5,Normal
+3829447,Djibril Sidibé,Lille,30.47950130825634,0.071246716326124,False,Right Foot,Open Play,0,1,3,Normal
+3829447,Sofiane Boufal,Lille,11.26099462747408,0.06044985241104322,True,Left Foot,Open Play,0,1,2,Lob
+3829447,Ronny Rodelin,Lille,32.8,0.06934165522532894,False,Right Foot,Open Play,0,0,1,Normal
+3829447,David Ducourtioux,Gazélec Ajaccio,31.501269815675684,0.05405167543198229,False,Right Foot,Open Play,0,0,2,Normal
+3829447,Roderic Filippi,Gazélec Ajaccio,12.601983970788092,0.060376322143546726,False,Head,Open Play,0,1,3,Normal
+3829447,Jacques Zoua Daogari,Gazélec Ajaccio,24.943536236869065,0.05275987880351596,False,Right Foot,Open Play,0,0,1,Half Volley
+3829447,Ronny Rodelin,Lille,27.464158461529454,0.07066651022529902,False,Right Foot,Open Play,0,1,3,Normal
+3829447,David Ducourtioux,Gazélec Ajaccio,33.416762260877405,0.07182229431579472,False,Left Foot,Open Play,0,1,2,Normal
+3829447,Jacques Zoua Daogari,Gazélec Ajaccio,31.961539387207242,0.06063409111068875,False,Right Foot,Open Play,0,0,1,Normal
+3829447,Damjan Đoković,Gazélec Ajaccio,33.83371099953418,0.06629950843592952,False,Left Foot,Open Play,1,0,1,Normal
+3829447,Marko Baša,Lille,8.902246907382434,0.058382657127583115,False,Head,Open Play,0,1,4,Normal
+3829447,Éric Bauthéac,Lille,14.358969322343441,0.0586637354864411,False,Left Foot,Open Play,1,1,1,Half Volley
+3829447,Éric Bauthéac,Lille,24.9110417285187,0.06893951886965469,False,Left Foot,Open Play,1,0,0,Half Volley
+3829447,Abdou Kader Mangane,Gazélec Ajaccio,12.924782396620838,0.05732954648210719,False,Head,Open Play,0,1,2,Normal
+3829447,Sofiane Boufal,Lille,20.256603861457133,0.06415980687243618,False,Left Foot,Open Play,0,1,1,Normal
+3829447,Grégory Pujol,Gazélec Ajaccio,25.912352266824414,0.06546963750143531,False,Right Foot,Open Play,0,0,1,Normal
+3829447,Ronny Rodelin,Lille,38.83722441163889,0.07373075406761308,False,Right Foot,Open Play,0,0,0,Normal
+3829447,Damjan Đoković,Gazélec Ajaccio,38.01315561749643,0.07832549391308878,False,Left Foot,Open Play,0,0,0,Normal
+3829447,Jacques Zoua Daogari,Gazélec Ajaccio,24.70080970332754,0.06062881230273506,False,Right Foot,Open Play,0,0,2,Normal
+3829447,Issiaga Sylla,Gazélec Ajaccio,19.160375779195984,0.05348206418092227,False,Left Foot,Open Play,1,1,2,Normal
+3829447,Khalid Boutaïb,Gazélec Ajaccio,18.174707700538136,0.051893372366891344,False,Left Foot,Open Play,0,0,2,Half Volley
+3829447,Florent Balmont,Lille,23.78003364169193,0.05622225531899331,False,Right Foot,Open Play,0,0,0,Half Volley
+3829447,Khalid Boutaïb,Gazélec Ajaccio,26.10785322465254,0.05526830124830011,False,Right Foot,Open Play,0,0,2,Normal
+3829447,Pablo Jean Antoine Martínez,Gazélec Ajaccio,8.354639429682173,0.058925482372542345,False,Head,Open Play,0,1,3,Normal

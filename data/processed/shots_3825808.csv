@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.09048201522607,0.05636692354157719,False,Right Foot,Open Play,0,0,2,Normal
-19.287560758167427,0.053776707755559795,False,Right Foot,Open Play,1,0,1,Half Volley
-29.76927946726289,0.07131240762039359,True,Right Foot,Free Kick,0,0,0,Normal
-25.893628559937287,0.06470969054271204,False,Left Foot,Open Play,1,0,2,Half Volley
-18.386136081297774,0.0645273067844868,False,Right Foot,Open Play,0,1,1,Normal
-21.965882636488796,0.05391752605720769,False,Left Foot,Open Play,1,0,0,Half Volley
-16.42010962204577,0.06334831769778364,False,Head,Open Play,0,0,4,Normal
-22.00545386943882,0.06526169225990744,False,Right Foot,Open Play,0,1,1,Normal
-31.087618113969423,0.05478365776798707,False,Right Foot,Open Play,0,0,1,Normal
-28.536467896360264,0.05875350274579683,False,Left Foot,Free Kick,0,0,0,Normal
-30.818338696302234,0.05440629843842034,False,Left Foot,Open Play,0,0,2,Normal
-23.700210969525138,0.05549041963449327,True,Right Foot,Open Play,1,0,1,Normal
-18.67243958351452,0.06453455981714919,False,Right Foot,Open Play,0,0,3,Normal
-6.762396025078688,0.0563763169927584,False,Right Foot,Open Play,1,0,2,Normal
-8.658521813797094,0.0574109131347898,False,Head,Open Play,0,1,5,Normal
-19.94216638181519,0.06562394205295466,False,Right Foot,Open Play,1,0,2,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825808,Raúl García Escudero,Athletic Club,33.09048201522607,0.05636692354157719,False,Right Foot,Open Play,0,0,2,Normal
+3825808,Iker Muniain Goñi,Athletic Club,19.287560758167427,0.053776707755559795,False,Right Foot,Open Play,1,0,1,Half Volley
+3825808,Beñat Etxebarria Urkiaga,Athletic Club,29.76927946726289,0.07131240762039359,True,Right Foot,Free Kick,0,0,0,Normal
+3825808,Raúl García Escudero,Athletic Club,25.893628559937287,0.06470969054271204,False,Left Foot,Open Play,1,0,2,Half Volley
+3825808,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,18.386136081297774,0.0645273067844868,False,Right Foot,Open Play,0,1,1,Normal
+3825808,Daniel Arnaud N''Di	,Sporting Gijón,21.965882636488796,0.05391752605720769,False,Left Foot,Open Play,1,0,0,Half Volley
+3825808,Raúl García Escudero,Athletic Club,16.42010962204577,0.06334831769778364,False,Head,Open Play,0,0,4,Normal
+3825808,Aritz Aduriz Zubeldia,Athletic Club,22.00545386943882,0.06526169225990744,False,Right Foot,Open Play,0,1,1,Normal
+3825808,Beñat Etxebarria Urkiaga,Athletic Club,31.087618113969423,0.05478365776798707,False,Right Foot,Open Play,0,0,1,Normal
+3825808,Jonathan Rodríguez Menéndez,Sporting Gijón,28.536467896360264,0.05875350274579683,False,Left Foot,Free Kick,0,0,0,Normal
+3825808,Alen Halilović,Sporting Gijón,30.818338696302234,0.05440629843842034,False,Left Foot,Open Play,0,0,2,Normal
+3825808,Óscar de Marcos Arana,Athletic Club,23.700210969525138,0.05549041963449327,True,Right Foot,Open Play,1,0,1,Normal
+3825808,Sabin Merino Zuloaga,Athletic Club,18.67243958351452,0.06453455981714919,False,Right Foot,Open Play,0,0,3,Normal
+3825808,Aritz Aduriz Zubeldia,Athletic Club,6.762396025078688,0.0563763169927584,False,Right Foot,Open Play,1,0,2,Normal
+3825808,Alejandro Barrera García,Sporting Gijón,8.658521813797094,0.0574109131347898,False,Head,Open Play,0,1,5,Normal
+3825808,Javier Eraso Goñi,Athletic Club,19.94216638181519,0.06562394205295466,False,Right Foot,Open Play,1,0,2,Lob

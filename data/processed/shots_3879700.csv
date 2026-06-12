@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.083078426785911,0.05795756413101858,False,Head,Open Play,0,1,4,Normal
-8.732124598286493,0.05914167408556351,False,Right Foot,Open Play,1,0,2,Volley
-13.835100288758305,0.06173906056006874,False,Right Foot,Open Play,1,1,4,Half Volley
-12.753430910935293,0.06123794839414937,False,Head,Open Play,0,1,1,Normal
-21.08885961829136,0.06603312240794003,False,Right Foot,Open Play,1,0,2,Half Volley
-32.1278695216474,0.065277441687309,False,Left Foot,Open Play,0,0,2,Normal
-18.38831150486634,0.06465767188156543,False,Left Foot,Open Play,0,1,1,Normal
-8.095677859203636,0.05652106762634944,False,Head,Open Play,0,1,3,Normal
-14.681961721786358,0.056065017824784284,False,Left Foot,Open Play,1,0,1,Volley
-22.99412968563933,0.05828399579004585,False,Left Foot,Open Play,0,0,1,Normal
-14.50413734077281,0.06204418276189714,True,Right Foot,Open Play,1,1,4,Normal
-19.22836446502926,0.06518633605330884,False,Left Foot,Open Play,1,0,1,Normal
-8.285529554590946,0.058913174268682346,False,Head,Open Play,0,0,1,Normal
-13.103434664239758,0.059115247348702084,False,Head,Open Play,0,0,3,Normal
-27.158792314828723,0.05428828482188282,False,Right Foot,Open Play,1,1,2,Half Volley
-33.5600953514736,0.07537586089053291,False,Left Foot,Open Play,0,0,0,Normal
-25.294465797877606,0.06918099576713285,False,Right Foot,Open Play,0,1,1,Normal
-18.531055015837598,0.05470487289882421,False,Right Foot,Open Play,0,0,1,Normal
-3.676955262170052,0.056568097808361785,True,Other,Open Play,0,0,3,Normal
-12.701574705523724,0.05995861237163705,False,Right Foot,Open Play,1,1,1,Normal
-32.79634125935391,0.07486412119511046,False,Right Foot,Open Play,0,1,2,Normal
-21.1123186789135,0.06567524006681547,False,Left Foot,Open Play,1,1,0,Normal
-50.82961735051721,0.09291814019674853,False,Right Foot,Free Kick,0,0,0,Normal
-37.259763821044274,0.07874260320046947,True,Left Foot,Open Play,0,0,0,Normal
-23.008042072284198,0.06104904929742702,False,Right Foot,Open Play,0,0,1,Half Volley
-4.701063709417257,0.05710413819111072,True,Head,Open Play,0,1,7,Normal
-18.83454273402994,0.0649249920998808,False,Left Foot,Open Play,1,0,1,Half Volley
-8.178630692236936,0.05739093982870913,False,Head,Open Play,0,1,3,Normal
-14.713599151805111,0.05761014267427729,False,Right Foot,Open Play,0,0,3,Normal
-21.920082116634507,0.066825128273314,True,Right Foot,Open Play,0,0,2,Normal
-28.79236009777593,0.06227121650805187,False,Right Foot,Open Play,0,1,1,Normal
-14.26674454807403,0.062146695624612114,False,Right Foot,Open Play,0,0,1,Normal
-17.663804799646083,0.06293218225319695,False,Left Foot,Open Play,1,0,3,Normal
-28.891694308226374,0.05888277005883889,False,Left Foot,Open Play,0,1,1,Normal
-24.532631330536077,0.06831295444451414,False,Right Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879700,Alberto Gilardino,Palermo,7.083078426785911,0.05795756413101858,False,Head,Open Play,0,1,4,Normal
+3879700,Cyril Théréau,Udinese,8.732124598286493,0.05914167408556351,False,Right Foot,Open Play,1,0,2,Volley
+3879700,Giancarlo González Castro,Palermo,13.835100288758305,0.06173906056006874,False,Right Foot,Open Play,1,1,4,Half Volley
+3879700,Cyril Théréau,Udinese,12.753430910935293,0.06123794839414937,False,Head,Open Play,0,1,1,Normal
+3879700,Alberto Gilardino,Palermo,21.08885961829136,0.06603312240794003,False,Right Foot,Open Play,1,0,2,Half Volley
+3879700,Francesco Lodi,Udinese,32.1278695216474,0.065277441687309,False,Left Foot,Open Play,0,0,2,Normal
+3879700,Ivaylo Chochev,Palermo,18.38831150486634,0.06465767188156543,False,Left Foot,Open Play,0,1,1,Normal
+3879700,Alberto Gilardino,Palermo,8.095677859203636,0.05652106762634944,False,Head,Open Play,0,1,3,Normal
+3879700,Franco Damián Vázquez,Palermo,14.681961721786358,0.056065017824784284,False,Left Foot,Open Play,1,0,1,Volley
+3879700,Franco Damián Vázquez,Palermo,22.99412968563933,0.05828399579004585,False,Left Foot,Open Play,0,0,1,Normal
+3879700,Robin Quaison,Palermo,14.50413734077281,0.06204418276189714,True,Right Foot,Open Play,1,1,4,Normal
+3879700,Ivaylo Chochev,Palermo,19.22836446502926,0.06518633605330884,False,Left Foot,Open Play,1,0,1,Normal
+3879700,Cyril Théréau,Udinese,8.285529554590946,0.058913174268682346,False,Head,Open Play,0,0,1,Normal
+3879700,Bruno Miguel Borges Fernandes,Udinese,13.103434664239758,0.059115247348702084,False,Head,Open Play,0,0,3,Normal
+3879700,Stipe Perica,Udinese,27.158792314828723,0.05428828482188282,False,Right Foot,Open Play,1,1,2,Half Volley
+3879700,Achraf Lazaar,Palermo,33.5600953514736,0.07537586089053291,False,Left Foot,Open Play,0,0,0,Normal
+3879700,Stipe Perica,Udinese,25.294465797877606,0.06918099576713285,False,Right Foot,Open Play,0,1,1,Normal
+3879700,Silvan Widmer,Udinese,18.531055015837598,0.05470487289882421,False,Right Foot,Open Play,0,0,1,Normal
+3879700,Oscar Hiljemark,Palermo,3.676955262170052,0.056568097808361785,True,Other,Open Play,0,0,3,Normal
+3879700,Cyril Théréau,Udinese,12.701574705523724,0.05995861237163705,False,Right Foot,Open Play,1,1,1,Normal
+3879700,Bruno Miguel Borges Fernandes,Udinese,32.79634125935391,0.07486412119511046,False,Right Foot,Open Play,0,1,2,Normal
+3879700,Francesco Lodi,Udinese,21.1123186789135,0.06567524006681547,False,Left Foot,Open Play,1,1,0,Normal
+3879700,Bruno Miguel Borges Fernandes,Udinese,50.82961735051721,0.09291814019674853,False,Right Foot,Free Kick,0,0,0,Normal
+3879700,Achraf Lazaar,Palermo,37.259763821044274,0.07874260320046947,True,Left Foot,Open Play,0,0,0,Normal
+3879700,Emmanuel Agyemang-Badu,Udinese,23.008042072284198,0.06104904929742702,False,Right Foot,Open Play,0,0,1,Half Volley
+3879700,Cyril Théréau,Udinese,4.701063709417257,0.05710413819111072,True,Head,Open Play,0,1,7,Normal
+3879700,Francesco Lodi,Udinese,18.83454273402994,0.0649249920998808,False,Left Foot,Open Play,1,0,1,Half Volley
+3879700,Felipe Dias da Silva dal Belo,Udinese,8.178630692236936,0.05739093982870913,False,Head,Open Play,0,1,3,Normal
+3879700,Uroš Đurđević,Palermo,14.713599151805111,0.05761014267427729,False,Right Foot,Open Play,0,0,3,Normal
+3879700,Aleksandar Trajkovski,Palermo,21.920082116634507,0.066825128273314,True,Right Foot,Open Play,0,0,2,Normal
+3879700,Panagiotis Giorgios Kone,Udinese,28.79236009777593,0.06227121650805187,False,Right Foot,Open Play,0,1,1,Normal
+3879700,Aleksandar Trajkovski,Palermo,14.26674454807403,0.062146695624612114,False,Right Foot,Open Play,0,0,1,Normal
+3879700,Franco Damián Vázquez,Palermo,17.663804799646083,0.06293218225319695,False,Left Foot,Open Play,1,0,3,Normal
+3879700,Panagiotis Giorgios Kone,Udinese,28.891694308226374,0.05888277005883889,False,Left Foot,Open Play,0,1,1,Normal
+3879700,Iván Rodrigo Piris Leguizamón,Udinese,24.532631330536077,0.06831295444451414,False,Right Foot,Open Play,1,1,1,Normal

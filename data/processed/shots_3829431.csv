@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-38.981662355523014,0.04759069559099982,False,Right Foot,Open Play,0,0,0,Normal
-9.762171889492622,0.05963399921290653,True,Right Foot,Open Play,0,0,1,Normal
-30.907927785602194,0.05953854053335348,False,Left Foot,Free Kick,0,0,0,Normal
-41.802990323659856,0.07457002651100553,False,Right Foot,Open Play,0,0,0,Normal
-37.92545319439176,0.07779502356247557,False,Left Foot,Open Play,0,0,1,Normal
-14.10390016981119,0.058508424113577935,False,Right Foot,Open Play,1,0,0,Half Volley
-22.39330257018825,0.06678373000198899,False,Right Foot,Open Play,1,0,2,Lob
-25.581243128511176,0.06765711860931989,False,Left Foot,Open Play,0,1,3,Normal
-36.94387635319283,0.07029261043897325,False,Right Foot,Open Play,1,0,0,Half Volley
-9.693296652842108,0.057123015625060045,False,Head,Open Play,0,0,1,Normal
-7.217340230306456,0.05747364030453542,False,Head,Open Play,0,1,3,Normal
-5.984145720150877,0.05743285646683931,False,Head,Open Play,0,0,1,Normal
-8.626702730475877,0.05902460148102784,False,Left Foot,Open Play,0,1,1,Half Volley
-25.035374972226805,0.06664838434888136,False,Right Foot,Open Play,0,1,2,Normal
-10.064790112068913,0.05983257400441902,False,Right Foot,Open Play,0,0,2,Half Volley
-28.445034716097634,0.05927643561484036,False,Right Foot,Open Play,0,1,2,Half Volley
-14.778700890132393,0.05515782710940044,False,Right Foot,Open Play,1,0,1,Half Volley
-22.3606797749979,0.06680634280269511,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829431,François Kamano,Bastia,38.981662355523014,0.04759069559099982,False,Right Foot,Open Play,0,0,0,Normal
+3829431,Floyd Ayité,Bastia,9.762171889492622,0.05963399921290653,True,Right Foot,Open Play,0,0,1,Normal
+3829431,Raphaël Adelino José Guerreiro,Lorient,30.907927785602194,0.05953854053335348,False,Left Foot,Free Kick,0,0,0,Normal
+3829431,Didier Ndong Ibrahim,Lorient,41.802990323659856,0.07457002651100553,False,Right Foot,Open Play,0,0,0,Normal
+3829431,Vincent Le Goff,Lorient,37.92545319439176,0.07779502356247557,False,Left Foot,Open Play,0,0,1,Normal
+3829431,Abdul Majeed Waris,Lorient,14.10390016981119,0.058508424113577935,False,Right Foot,Open Play,1,0,0,Half Volley
+3829431,François Kamano,Bastia,22.39330257018825,0.06678373000198899,False,Right Foot,Open Play,1,0,2,Lob
+3829431,Raphaël Adelino José Guerreiro,Lorient,25.581243128511176,0.06765711860931989,False,Left Foot,Open Play,0,1,3,Normal
+3829431,François Kamano,Bastia,36.94387635319283,0.07029261043897325,False,Right Foot,Open Play,1,0,0,Half Volley
+3829431,Abdul Majeed Waris,Lorient,9.693296652842108,0.057123015625060045,False,Head,Open Play,0,0,1,Normal
+3829431,Benjamin Moukandjo Bilé,Lorient,7.217340230306456,0.05747364030453542,False,Head,Open Play,0,1,3,Normal
+3829431,François Kamano,Bastia,5.984145720150877,0.05743285646683931,False,Head,Open Play,0,0,1,Normal
+3829431,Abdul Majeed Waris,Lorient,8.626702730475877,0.05902460148102784,False,Left Foot,Open Play,0,1,1,Half Volley
+3829431,Benjamin Moukandjo Bilé,Lorient,25.035374972226805,0.06664838434888136,False,Right Foot,Open Play,0,1,2,Normal
+3829431,François Kamano,Bastia,10.064790112068913,0.05983257400441902,False,Right Foot,Open Play,0,0,2,Half Volley
+3829431,Abdul Majeed Waris,Lorient,28.445034716097634,0.05927643561484036,False,Right Foot,Open Play,0,1,2,Half Volley
+3829431,Floyd Ayité,Bastia,14.778700890132393,0.05515782710940044,False,Right Foot,Open Play,1,0,1,Half Volley
+3829431,Abdul Majeed Waris,Lorient,22.3606797749979,0.06680634280269511,False,Right Foot,Open Play,0,0,1,Normal
+3829431,Benjamin Moukandjo Bilé,Lorient,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal

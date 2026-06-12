@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.849548729110278,0.05885714835734746,False,Right Foot,Open Play,0,0,2,Normal
-30.463748948545387,0.0702129476297736,False,Left Foot,Free Kick,0,0,0,Normal
-30.80162333384395,0.06568680087762364,False,Right Foot,Open Play,0,0,1,Normal
-23.33495232478524,0.05441331882485966,False,Left Foot,Open Play,0,0,3,Normal
-6.300793600809342,0.05791464337029422,False,Head,Open Play,0,0,3,Normal
-20.474862636901868,0.06583512045709873,False,Right Foot,Open Play,0,1,3,Normal
-30.823367758893575,0.06899453779863134,False,Right Foot,Open Play,0,0,1,Half Volley
-20.90287061625747,0.05405427916823074,False,Right Foot,Open Play,0,0,1,Normal
-14.142135623730951,0.061180694078766557,False,Head,Open Play,0,0,2,Normal
-8.96270048590267,0.05594371465348688,False,Head,Open Play,0,0,1,Normal
-26.574611944485657,0.06338894578342856,False,Left Foot,Open Play,0,0,1,Normal
-12.944883158993745,0.05793318238002051,True,Right Foot,Open Play,1,1,1,Normal
-9.11975876873944,0.058194668872053074,False,Right Foot,Open Play,1,0,4,Backheel
-14.18238343861849,0.062116940274868075,True,Right Foot,Open Play,1,0,1,Half Volley
-23.853720883753127,0.057144861082662805,False,Left Foot,Open Play,0,0,1,Normal
-28.1215220071745,0.06636615986332421,False,Right Foot,Open Play,0,0,1,Normal
-24.10186714758838,0.06627574264162579,False,Left Foot,Open Play,0,1,1,Half Volley
-16.63550420035413,0.05306146883489706,False,Right Foot,Open Play,0,1,2,Normal
-28.302826713952093,0.06167533514843217,False,Left Foot,Open Play,0,1,2,Normal
-10.530906893520612,0.05910372328856368,False,Left Foot,Open Play,1,0,2,Half Volley
-32.41049212832166,0.07267769056277032,False,Left Foot,Open Play,0,0,0,Normal
-19.022355269524322,0.054992770779107615,True,Left Foot,Open Play,0,1,1,Normal
-18.106904760339354,0.06406273166578007,False,Right Foot,Open Play,1,0,0,Volley
-6.9426219830839155,0.05821470879001949,True,Left Foot,Open Play,0,0,1,Normal
-17.884630272946655,0.06414708843128941,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901202,Alexandre Lacazette,Lyon,13.849548729110278,0.05885714835734746,False,Right Foot,Open Play,0,0,2,Normal
+3901202,Raphaël Adelino José Guerreiro,Lorient,30.463748948545387,0.0702129476297736,False,Left Foot,Free Kick,0,0,0,Normal
+3901202,Jordan Ferri,Lyon,30.80162333384395,0.06568680087762364,False,Right Foot,Open Play,0,0,1,Normal
+3901202,Rachid Ghezzal,Lyon,23.33495232478524,0.05441331882485966,False,Left Foot,Open Play,0,0,3,Normal
+3901202,Corentin Tolisso,Lyon,6.300793600809342,0.05791464337029422,False,Head,Open Play,0,0,3,Normal
+3901202,Sergi Darder Moll,Lyon,20.474862636901868,0.06583512045709873,False,Right Foot,Open Play,0,1,3,Normal
+3901202,Jordan Ferri,Lyon,30.823367758893575,0.06899453779863134,False,Right Foot,Open Play,0,0,1,Half Volley
+3901202,Abdul Majeed Waris,Lorient,20.90287061625747,0.05405427916823074,False,Right Foot,Open Play,0,0,1,Normal
+3901202,Abdul Majeed Waris,Lorient,14.142135623730951,0.061180694078766557,False,Head,Open Play,0,0,2,Normal
+3901202,Corentin Tolisso,Lyon,8.96270048590267,0.05594371465348688,False,Head,Open Play,0,0,1,Normal
+3901202,Rachid Ghezzal,Lyon,26.574611944485657,0.06338894578342856,False,Left Foot,Open Play,0,0,1,Normal
+3901202,Abdul Majeed Waris,Lorient,12.944883158993745,0.05793318238002051,True,Right Foot,Open Play,1,1,1,Normal
+3901202,Zargo Touré,Lorient,9.11975876873944,0.058194668872053074,False,Right Foot,Open Play,1,0,4,Backheel
+3901202,Alexandre Lacazette,Lyon,14.18238343861849,0.062116940274868075,True,Right Foot,Open Play,1,0,1,Half Volley
+3901202,Rachid Ghezzal,Lyon,23.853720883753127,0.057144861082662805,False,Left Foot,Open Play,0,0,1,Normal
+3901202,Corentin Tolisso,Lyon,28.1215220071745,0.06636615986332421,False,Right Foot,Open Play,0,0,1,Normal
+3901202,Maxime Barthelmé,Lorient,24.10186714758838,0.06627574264162579,False,Left Foot,Open Play,0,1,1,Half Volley
+3901202,Yann Jouffre,Lorient,16.63550420035413,0.05306146883489706,False,Right Foot,Open Play,0,1,2,Normal
+3901202,Rachid Ghezzal,Lyon,28.302826713952093,0.06167533514843217,False,Left Foot,Open Play,0,1,2,Normal
+3901202,Jimmy Cabot,Lorient,10.530906893520612,0.05910372328856368,False,Left Foot,Open Play,1,0,2,Half Volley
+3901202,Henri Bedimo Nsamè,Lyon,32.41049212832166,0.07267769056277032,False,Left Foot,Open Play,0,0,0,Normal
+3901202,Rachid Ghezzal,Lyon,19.022355269524322,0.054992770779107615,True,Left Foot,Open Play,0,1,1,Normal
+3901202,Sergi Darder Moll,Lyon,18.106904760339354,0.06406273166578007,False,Right Foot,Open Play,1,0,0,Volley
+3901202,Alexandre Lacazette,Lyon,6.9426219830839155,0.05821470879001949,True,Left Foot,Open Play,0,0,1,Normal
+3901202,Mathieu Valbuena,Lyon,17.884630272946655,0.06414708843128941,False,Left Foot,Open Play,0,0,1,Normal

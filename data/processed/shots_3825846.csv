@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.640014662748719,0.06177888213218878,False,Left Foot,Open Play,1,0,2,Normal
-9.752948272189283,0.056623933252811266,True,Left Foot,Open Play,1,0,0,Normal
-11.536463929644992,0.060460016020732,False,Head,Open Play,0,0,4,Normal
-26.20572456544562,0.06051708038255468,False,Right Foot,Open Play,1,0,1,Half Volley
-8.44037913840368,0.05736750613944177,True,Head,Open Play,0,1,4,Normal
-31.080057915003962,0.05579088081271579,False,Left Foot,Open Play,0,0,2,Normal
-13.008458786497341,0.060782082995031725,False,Right Foot,Open Play,0,0,1,Half Volley
-20.682843131445928,0.06556238006903282,False,Right Foot,Open Play,1,0,3,Normal
-21.270166901084714,0.06625083591546777,False,Left Foot,Open Play,0,0,2,Normal
-25.927784324928346,0.05293516503186904,False,Left Foot,Open Play,0,0,1,Normal
-32.25600719245951,0.06789803855432687,False,Right Foot,Free Kick,0,0,0,Normal
-26.847718711279736,0.0654832357858479,False,Right Foot,Open Play,1,0,4,Half Volley
-10.868302535354815,0.059830108891495995,False,Right Foot,Open Play,1,0,2,Lob
-26.951994360343726,0.06223986769107197,False,Left Foot,Open Play,0,0,3,Normal
-21.40490597970474,0.06196205824867803,False,Right Foot,Open Play,0,1,4,Normal
-17.03555106241063,0.0612964482533973,False,Left Foot,Open Play,1,0,1,Normal
-20.97736875778276,0.06188468512713559,False,Left Foot,Open Play,1,0,2,Half Volley
-28.931816396486408,0.05770145695726675,False,Right Foot,Open Play,1,0,1,Half Volley
-23.45399752707414,0.06176600089906607,False,Right Foot,Open Play,0,0,4,Half Volley
-4.148493702538309,0.05605609470530415,False,Head,Open Play,0,0,3,Normal
-30.82401661042895,0.06281482326521057,False,Left Foot,Open Play,0,0,2,Normal
-11.982069938036588,0.060046366865331297,False,Head,Open Play,0,0,1,Normal
-23.80756182392477,0.05657896910508093,False,Left Foot,Open Play,0,0,2,Normal
-15.527073130503378,0.060697697498764164,False,Left Foot,Open Play,1,0,2,Normal
-23.349732332512932,0.06775893224340464,False,Right Foot,Open Play,0,0,1,Normal
-21.661486560252502,0.05703528942134923,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825846,Karim Benzema,Real Madrid,13.640014662748719,0.06177888213218878,False,Left Foot,Open Play,1,0,2,Normal
+3825846,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9.752948272189283,0.056623933252811266,True,Left Foot,Open Play,1,0,0,Normal
+3825846,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,11.536463929644992,0.060460016020732,False,Head,Open Play,0,0,4,Normal
+3825846,Luka Modrić,Real Madrid,26.20572456544562,0.06051708038255468,False,Right Foot,Open Play,1,0,1,Half Volley
+3825846,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8.44037913840368,0.05736750613944177,True,Head,Open Play,0,1,4,Normal
+3825846,Federico Nicolás Cartabia,RC Deportivo La Coruña,31.080057915003962,0.05579088081271579,False,Left Foot,Open Play,0,0,2,Normal
+3825846,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,13.008458786497341,0.060782082995031725,False,Right Foot,Open Play,0,0,1,Half Volley
+3825846,Karim Benzema,Real Madrid,20.682843131445928,0.06556238006903282,False,Right Foot,Open Play,1,0,3,Normal
+3825846,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,21.270166901084714,0.06625083591546777,False,Left Foot,Open Play,0,0,2,Normal
+3825846,Federico Nicolás Cartabia,RC Deportivo La Coruña,25.927784324928346,0.05293516503186904,False,Left Foot,Open Play,0,0,1,Normal
+3825846,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32.25600719245951,0.06789803855432687,False,Right Foot,Free Kick,0,0,0,Normal
+3825846,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,26.847718711279736,0.0654832357858479,False,Right Foot,Open Play,1,0,4,Half Volley
+3825846,Carlos Henrique Casimiro,Real Madrid,10.868302535354815,0.059830108891495995,False,Right Foot,Open Play,1,0,2,Lob
+3825846,James David Rodríguez Rubio,Real Madrid,26.951994360343726,0.06223986769107197,False,Left Foot,Open Play,0,0,3,Normal
+3825846,Lucas Pérez Martínez,RC Deportivo La Coruña,21.40490597970474,0.06196205824867803,False,Right Foot,Open Play,0,1,4,Normal
+3825846,Manuel Pablo García Díaz,RC Deportivo La Coruña,17.03555106241063,0.0612964482533973,False,Left Foot,Open Play,1,0,1,Normal
+3825846,Sidnei Rechel da Silva Júnior,RC Deportivo La Coruña,20.97736875778276,0.06188468512713559,False,Left Foot,Open Play,1,0,2,Half Volley
+3825846,Daniel Carvajal Ramos,Real Madrid,28.931816396486408,0.05770145695726675,False,Right Foot,Open Play,1,0,1,Half Volley
+3825846,Alejandro Bergantiños García,RC Deportivo La Coruña,23.45399752707414,0.06176600089906607,False,Right Foot,Open Play,0,0,4,Half Volley
+3825846,Roberto Suárez Pier,RC Deportivo La Coruña,4.148493702538309,0.05605609470530415,False,Head,Open Play,0,0,3,Normal
+3825846,Pedro Mosquera Parada,RC Deportivo La Coruña,30.82401661042895,0.06281482326521057,False,Left Foot,Open Play,0,0,2,Normal
+3825846,Francisco Román Alarcón Suárez,Real Madrid,11.982069938036588,0.060046366865331297,False,Head,Open Play,0,0,1,Normal
+3825846,Federico Nicolás Cartabia,RC Deportivo La Coruña,23.80756182392477,0.05657896910508093,False,Left Foot,Open Play,0,0,2,Normal
+3825846,Marcelo Vieira da Silva Júnior,Real Madrid,15.527073130503378,0.060697697498764164,False,Left Foot,Open Play,1,0,2,Normal
+3825846,Luis Alberto Romero Alconchel,RC Deportivo La Coruña,23.349732332512932,0.06775893224340464,False,Right Foot,Open Play,0,0,1,Normal
+3825846,James David Rodríguez Rubio,Real Madrid,21.661486560252502,0.05703528942134923,False,Left Foot,Open Play,0,0,1,Normal

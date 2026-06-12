@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.21543679605381,0.05826942834638049,False,Right Foot,Open Play,0,0,1,Normal
-24.8501509049744,0.06754049832116292,False,Right Foot,Open Play,1,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-33.91666257166232,0.06640612243839429,False,Left Foot,Open Play,0,1,1,Normal
-24.03039741660549,0.05822270791864777,False,Right Foot,Open Play,1,0,0,Volley
-7.000714249274859,0.058202134993188395,True,Head,Open Play,0,0,3,Normal
-45.793121754254756,0.08325642626900265,False,Left Foot,Open Play,0,0,0,Normal
-31.90250773842081,0.07381516306955564,False,Right Foot,Open Play,1,0,2,Normal
-26.747897113605024,0.06648078420011991,True,Left Foot,Open Play,0,0,1,Normal
-25.052943938786917,0.06891747371884488,False,Right Foot,Open Play,0,0,1,Normal
-28.425340807103787,0.07014501598788223,True,Right Foot,Free Kick,0,0,0,Normal
-13.285330255586425,0.06127052213621259,False,Head,Open Play,0,1,3,Normal
-20.162589119455866,0.06544396502966784,False,Right Foot,Open Play,0,0,1,Normal
-15.29477034806342,0.057674549150015776,False,Head,Open Play,0,1,3,Normal
-17.617321022221287,0.05148221977254049,False,Right Foot,Open Play,0,0,1,Normal
-15.352198539622915,0.057985418715850875,False,Head,Open Play,0,0,2,Normal
-7.627581530209948,0.055886896908677854,False,Head,Open Play,0,1,1,Normal
-28.91401044476536,0.06686244376044405,False,Right Foot,Free Kick,0,0,0,Normal
-29.351831288694747,0.07087277648021588,False,Right Foot,Open Play,1,0,1,Normal
-25.088842141477958,0.058762047754841125,False,Left Foot,Open Play,0,0,3,Normal
-18.284966502567077,0.05712125562699438,False,Right Foot,Open Play,1,0,0,Half Volley
-25.04495957273638,0.06747413676944605,False,Right Foot,Open Play,1,0,0,Normal
-16.445364088398897,0.054103407949609134,False,Left Foot,Open Play,0,0,1,Normal
-24.777610861420843,0.06476800223975868,False,Right Foot,Free Kick,0,0,0,Normal
-28.014282071828998,0.06413582920050812,False,Right Foot,Open Play,0,0,1,Normal
-37.438616427426915,0.07292667903161919,False,Left Foot,Open Play,1,0,1,Normal
-35.141143976825795,0.06945408622121034,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3888754,Carles Rexach i Cerdà,Barcelona,27.21543679605381,0.05826942834638049,False,Right Foot,Open Play,0,0,1,Normal
+3888754,Jorge Fernández Armas,Las Palmas,24.8501509049744,0.06754049832116292,False,Right Foot,Open Play,1,0,0,Normal
+3888754,Carles Rexach i Cerdà,Barcelona,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3888754,Rafael Dalmacio Zuviría Rodríguez,Barcelona,33.91666257166232,0.06640612243839429,False,Left Foot,Open Play,0,1,1,Normal
+3888754,Félix Marrero Morán,Las Palmas,24.03039741660549,0.05822270791864777,False,Right Foot,Open Play,1,0,0,Volley
+3888754,Juan Manuel Asensi Ripoll,Barcelona,7.000714249274859,0.058202134993188395,True,Head,Open Play,0,0,3,Normal
+3888754,Juan Manuel Asensi Ripoll,Barcelona,45.793121754254756,0.08325642626900265,False,Left Foot,Open Play,0,0,0,Normal
+3888754,Crispín García Maciel,Las Palmas,31.90250773842081,0.07381516306955564,False,Right Foot,Open Play,1,0,2,Normal
+3888754,Miguel Ángel Brindisi de Marco,Las Palmas,26.747897113605024,0.06648078420011991,True,Left Foot,Open Play,0,0,1,Normal
+3888754,Johan Cruyff,Barcelona,25.052943938786917,0.06891747371884488,False,Right Foot,Open Play,0,0,1,Normal
+3888754,Carles Rexach i Cerdà,Barcelona,28.425340807103787,0.07014501598788223,True,Right Foot,Free Kick,0,0,0,Normal
+3888754,Juan Manuel Asensi Ripoll,Barcelona,13.285330255586425,0.06127052213621259,False,Head,Open Play,0,1,3,Normal
+3888754,Johan Cruyff,Barcelona,20.162589119455866,0.06544396502966784,False,Right Foot,Open Play,0,0,1,Normal
+3888754,Crispín García Maciel,Las Palmas,15.29477034806342,0.057674549150015776,False,Head,Open Play,0,1,3,Normal
+3888754,Esteban Vigo Benítez,Barcelona,17.617321022221287,0.05148221977254049,False,Right Foot,Open Play,0,0,1,Normal
+3888754,Crispín García Maciel,Las Palmas,15.352198539622915,0.057985418715850875,False,Head,Open Play,0,0,2,Normal
+3888754,Miguel Ángel Brindisi de Marco,Las Palmas,7.627581530209948,0.055886896908677854,False,Head,Open Play,0,1,1,Normal
+3888754,Miguel Ángel Brindisi de Marco,Las Palmas,28.91401044476536,0.06686244376044405,False,Right Foot,Free Kick,0,0,0,Normal
+3888754,Carles Rexach i Cerdà,Barcelona,29.351831288694747,0.07087277648021588,False,Right Foot,Open Play,1,0,1,Normal
+3888754,Carles Rexach i Cerdà,Barcelona,25.088842141477958,0.058762047754841125,False,Left Foot,Open Play,0,0,3,Normal
+3888754,Carlos Manuel Morete Markov,Las Palmas,18.284966502567077,0.05712125562699438,False,Right Foot,Open Play,1,0,0,Half Volley
+3888754,Crispín García Maciel,Las Palmas,25.04495957273638,0.06747413676944605,False,Right Foot,Open Play,1,0,0,Normal
+3888754,Carles Rexach i Cerdà,Barcelona,16.445364088398897,0.054103407949609134,False,Left Foot,Open Play,0,0,1,Normal
+3888754,Miguel Ángel Brindisi de Marco,Las Palmas,24.777610861420843,0.06476800223975868,False,Right Foot,Free Kick,0,0,0,Normal
+3888754,Carlos Manuel Morete Markov,Las Palmas,28.014282071828998,0.06413582920050812,False,Right Foot,Open Play,0,0,1,Normal
+3888754,Jorge Fernández Armas,Las Palmas,37.438616427426915,0.07292667903161919,False,Left Foot,Open Play,1,0,1,Normal
+3888754,José Ángel Rivero Gutiérrez,Las Palmas,35.141143976825795,0.06945408622121034,False,Right Foot,Open Play,0,0,2,Normal

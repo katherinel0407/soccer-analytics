@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.675669416784444,0.06937142383708816,False,Left Foot,Open Play,0,0,1,Normal
-24.331050121192874,0.05466405335697358,False,Right Foot,Open Play,0,0,2,Normal
-7.446475676452583,0.05382943652392476,False,Left Foot,Open Play,0,0,3,Normal
-12.238463955905576,0.05759289282497834,False,Right Foot,Open Play,1,0,2,Overhead Kick
-12.706297651164956,0.06131489344554638,False,Right Foot,Open Play,1,0,2,Volley
-4.623851208678755,0.056700883077796374,True,Head,Open Play,0,0,3,Normal
-25.640007800310833,0.06733775532020721,False,Right Foot,Open Play,0,0,1,Normal
-12.788275880665068,0.0609520559661997,True,Left Foot,Open Play,1,0,2,Normal
-7.576938695805849,0.05383097192565426,False,Head,Open Play,0,0,3,Normal
-21.651096969899694,0.05566408460034281,False,Left Foot,Open Play,0,0,2,Normal
-19.50640920313116,0.06264950359738826,False,Right Foot,Open Play,1,0,1,Normal
-14.51344204522139,0.06163518966796132,True,Right Foot,Open Play,0,0,2,Normal
-5.968249324550707,0.05449754284928788,False,Head,Open Play,0,0,4,Normal
-21.01166342772509,0.06631702355107769,False,Right Foot,Open Play,1,0,1,Normal
-30.338918899657585,0.06636004578116333,False,Left Foot,Free Kick,0,0,0,Normal
-29.58800432607783,0.07134619852361505,False,Left Foot,Open Play,0,0,0,Normal
-15.698407562552326,0.055154649019795596,False,Right Foot,Open Play,1,0,0,Volley
-17.72286658529032,0.05676260729065639,False,Right Foot,Open Play,0,1,1,Normal
-8.31504660239496,0.05823832536256074,False,Left Foot,Open Play,1,1,4,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754203,Mauro Matías Zárate,West Ham United,25.675669416784444,0.06937142383708816,False,Left Foot,Open Play,0,0,1,Normal
+3754203,Carl Jenkinson,West Ham United,24.331050121192874,0.05466405335697358,False,Right Foot,Open Play,0,0,2,Normal
+3754203,Riyad Mahrez,Leicester City,7.446475676452583,0.05382943652392476,False,Left Foot,Open Play,0,0,3,Normal
+3754203,Robert Huth,Leicester City,12.238463955905576,0.05759289282497834,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3754203,Shinji Okazaki,Leicester City,12.706297651164956,0.06131489344554638,False,Right Foot,Open Play,1,0,2,Volley
+3754203,Shinji Okazaki,Leicester City,4.623851208678755,0.056700883077796374,True,Head,Open Play,0,0,3,Normal
+3754203,Marc Albrighton,Leicester City,25.640007800310833,0.06733775532020721,False,Right Foot,Open Play,0,0,1,Normal
+3754203,Riyad Mahrez,Leicester City,12.788275880665068,0.0609520559661997,True,Left Foot,Open Play,1,0,2,Normal
+3754203,Cheikhou Kouyaté,West Ham United,7.576938695805849,0.05383097192565426,False,Head,Open Play,0,0,3,Normal
+3754203,Mark Noble,West Ham United,21.651096969899694,0.05566408460034281,False,Left Foot,Open Play,0,0,2,Normal
+3754203,Dimitri Payet,West Ham United,19.50640920313116,0.06264950359738826,False,Right Foot,Open Play,1,0,1,Normal
+3754203,Dimitri Payet,West Ham United,14.51344204522139,0.06163518966796132,True,Right Foot,Open Play,0,0,2,Normal
+3754203,Diafra Sakho,West Ham United,5.968249324550707,0.05449754284928788,False,Head,Open Play,0,0,4,Normal
+3754203,Dimitri Payet,West Ham United,21.01166342772509,0.06631702355107769,False,Right Foot,Open Play,1,0,1,Normal
+3754203,Riyad Mahrez,Leicester City,30.338918899657585,0.06636004578116333,False,Left Foot,Free Kick,0,0,0,Normal
+3754203,Jeffrey Schlupp,Leicester City,29.58800432607783,0.07134619852361505,False,Left Foot,Open Play,0,0,0,Normal
+3754203,Marc Albrighton,Leicester City,15.698407562552326,0.055154649019795596,False,Right Foot,Open Play,1,0,0,Volley
+3754203,Danny Drinkwater,Leicester City,17.72286658529032,0.05676260729065639,False,Right Foot,Open Play,0,1,1,Normal
+3754203,Diafra Sakho,West Ham United,8.31504660239496,0.05823832536256074,False,Left Foot,Open Play,1,1,4,Half Volley

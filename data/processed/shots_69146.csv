@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-51.73026193631732,0.08972447091109527,False,Right Foot,Free Kick,0,0,0,Normal
-17.246738822165774,0.06384608936789264,False,Left Foot,Open Play,0,0,3,Normal
-21.828879952943073,0.06645896341073954,False,Right Foot,Open Play,0,0,2,Half Volley
-29.381967258847734,0.06980023649857153,False,Right Foot,Free Kick,0,0,0,Normal
-10.705606008068852,0.060168155804607444,False,Right Foot,Open Play,1,0,1,Half Volley
-12.998846102635419,0.05237460352848003,False,Right Foot,Open Play,1,0,2,Half Volley
-22.443930137121708,0.056049223206432096,False,Left Foot,Open Play,0,0,3,Normal
-34.69697393145402,0.07527942414914225,False,Right Foot,Free Kick,0,0,0,Normal
-8.149233092751729,0.056278852519798146,False,Right Foot,Open Play,1,0,2,Normal
-11.783462988442746,0.05674234479415053,False,Right Foot,Open Play,1,0,1,Volley
-17.094151046483706,0.06374303070536692,False,Head,Open Play,0,0,1,Normal
-4.38634243989226,0.05666098687038124,True,Left Foot,Open Play,1,0,1,Normal
-26.322993750711568,0.06346111768344104,False,Right Foot,Open Play,1,0,1,Normal
-32.812497619047534,0.05642422637673532,False,Right Foot,Open Play,0,0,2,Normal
-10.728000745712126,0.05783174155161437,False,Head,Open Play,0,0,4,Normal
-36.864752813493816,0.05849258757049729,False,Right Foot,Open Play,0,0,1,Normal
-33.12416036671722,0.07288860627978251,False,Right Foot,Open Play,0,0,2,Normal
-25.865227623201005,0.06868216721282454,False,Right Foot,Open Play,0,0,1,Normal
-13.23064624271997,0.06088119264451613,False,Right Foot,Open Play,0,0,1,Normal
-21.213203435596427,0.06486412534269076,False,Right Foot,Open Play,1,0,0,Volley
-24.482646915723805,0.06116660824001082,False,Right Foot,Open Play,0,0,3,Normal
-34.44139950698868,0.07555781720246713,False,Right Foot,Free Kick,0,0,0,Normal
-18.83454273402994,0.0649249920998808,False,Right Foot,Open Play,1,0,2,Normal
-17.07629936490925,0.059188614004958714,True,Right Foot,Open Play,1,0,2,Normal
-27.70884335370208,0.07077306490117131,False,Left Foot,Open Play,0,0,1,Normal
-27.36073829413235,0.06372839252452848,False,Right Foot,Free Kick,0,0,0,Normal
-33.7675880098061,0.0595172209553398,False,Right Foot,Free Kick,0,0,0,Normal
-21.349004660639338,0.06652257925648315,False,Left Foot,Open Play,1,0,1,Half Volley
-34.43980255460243,0.05722805793543012,False,Right Foot,Free Kick,0,0,0,Normal
-5.277309920783509,0.05661517412382594,False,Left Foot,Open Play,1,0,3,Half Volley
-33.347263755816606,0.06649844803754983,False,Right Foot,Free Kick,0,0,0,Normal
-28.64000698323937,0.07068502654510384,False,Left Foot,Open Play,0,1,2,Normal
-32.121176815303635,0.07423847085137555,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69146,Daniel Alves da Silva,Sevilla,51.73026193631732,0.08972447091109527,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Lionel Andrés Messi Cuccittini,Barcelona,17.246738822165774,0.06384608936789264,False,Left Foot,Open Play,0,0,3,Normal
+69146,Frédéric Oumar Kanouté,Sevilla,21.828879952943073,0.06645896341073954,False,Right Foot,Open Play,0,0,2,Half Volley
+69146,Daniel Alves da Silva,Sevilla,29.381967258847734,0.06980023649857153,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Frédéric Oumar Kanouté,Sevilla,10.705606008068852,0.060168155804607444,False,Right Foot,Open Play,1,0,1,Half Volley
+69146,Giovani dos Santos Ramírez,Barcelona,12.998846102635419,0.05237460352848003,False,Right Foot,Open Play,1,0,2,Half Volley
+69146,Lionel Andrés Messi Cuccittini,Barcelona,22.443930137121708,0.056049223206432096,False,Left Foot,Open Play,0,0,3,Normal
+69146,Daniel Alves da Silva,Sevilla,34.69697393145402,0.07527942414914225,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Luís Fabiano Clemente,Sevilla,8.149233092751729,0.056278852519798146,False,Right Foot,Open Play,1,0,2,Normal
+69146,Frédéric Oumar Kanouté,Sevilla,11.783462988442746,0.05674234479415053,False,Right Foot,Open Play,1,0,1,Volley
+69146,Frédéric Oumar Kanouté,Sevilla,17.094151046483706,0.06374303070536692,False,Head,Open Play,0,0,1,Normal
+69146,Diego Ángel Capel Trinidad,Sevilla,4.38634243989226,0.05666098687038124,True,Left Foot,Open Play,1,0,1,Normal
+69146,Luís Fabiano Clemente,Sevilla,26.322993750711568,0.06346111768344104,False,Right Foot,Open Play,1,0,1,Normal
+69146,Luís Fabiano Clemente,Sevilla,32.812497619047534,0.05642422637673532,False,Right Foot,Open Play,0,0,2,Normal
+69146,Seydou Kéita,Sevilla,10.728000745712126,0.05783174155161437,False,Head,Open Play,0,0,4,Normal
+69146,Jesús Navas González,Sevilla,36.864752813493816,0.05849258757049729,False,Right Foot,Open Play,0,0,1,Normal
+69146,Andrés Iniesta Luján,Barcelona,33.12416036671722,0.07288860627978251,False,Right Foot,Open Play,0,0,2,Normal
+69146,Ronaldo de Assis Moreira,Barcelona,25.865227623201005,0.06868216721282454,False,Right Foot,Open Play,0,0,1,Normal
+69146,Andrés Iniesta Luján,Barcelona,13.23064624271997,0.06088119264451613,False,Right Foot,Open Play,0,0,1,Normal
+69146,Xavier Hernández Creus,Barcelona,21.213203435596427,0.06486412534269076,False,Right Foot,Open Play,1,0,0,Volley
+69146,Xavier Hernández Creus,Barcelona,24.482646915723805,0.06116660824001082,False,Right Foot,Open Play,0,0,3,Normal
+69146,Luís Fabiano Clemente,Sevilla,34.44139950698868,0.07555781720246713,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Diego Ángel Capel Trinidad,Sevilla,18.83454273402994,0.0649249920998808,False,Right Foot,Open Play,1,0,2,Normal
+69146,Xavier Hernández Creus,Barcelona,17.07629936490925,0.059188614004958714,True,Right Foot,Open Play,1,0,2,Normal
+69146,Seydou Kéita,Sevilla,27.70884335370208,0.07077306490117131,False,Left Foot,Open Play,0,0,1,Normal
+69146,Ronaldo de Assis Moreira,Barcelona,27.36073829413235,0.06372839252452848,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Ronaldo de Assis Moreira,Barcelona,33.7675880098061,0.0595172209553398,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Diego Ángel Capel Trinidad,Sevilla,21.349004660639338,0.06652257925648315,False,Left Foot,Open Play,1,0,1,Half Volley
+69146,Ronaldo de Assis Moreira,Barcelona,34.43980255460243,0.05722805793543012,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Lionel Andrés Messi Cuccittini,Barcelona,5.277309920783509,0.05661517412382594,False,Left Foot,Open Play,1,0,3,Half Volley
+69146,Ronaldo de Assis Moreira,Barcelona,33.347263755816606,0.06649844803754983,False,Right Foot,Free Kick,0,0,0,Normal
+69146,Diego Ángel Capel Trinidad,Sevilla,28.64000698323937,0.07068502654510384,False,Left Foot,Open Play,0,1,2,Normal
+69146,Ronaldo de Assis Moreira,Barcelona,32.121176815303635,0.07423847085137555,False,Right Foot,Free Kick,0,0,0,Normal

@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.00104164406204,0.06384785245778873,False,Left Foot,Open Play,1,0,1,Normal
-32.117907777437814,0.0587380321244253,True,Right Foot,Open Play,0,0,1,Normal
-31.449324317066022,0.0718440074377178,False,Right Foot,Free Kick,0,0,0,Normal
-22.50199991111901,0.06411131290654959,False,Left Foot,Open Play,1,0,0,Volley
-21.252999788265182,0.052415913255143,False,Left Foot,Open Play,0,0,2,Normal
-16.4939382804714,0.0630883537226133,False,Right Foot,Open Play,0,0,1,Normal
-25.76354012941545,0.05361531265754586,False,Right Foot,Open Play,0,0,2,Normal
-21.82475658512599,0.06657023867019819,False,Right Foot,Open Play,1,0,2,Normal
-11.907980517283354,0.06007341440986758,False,Head,Open Play,0,1,2,Normal
-39.73436799547717,0.06677268395030118,False,Right Foot,Open Play,0,0,0,Normal
-29.395407804621456,0.07087227079591649,False,Right Foot,Free Kick,0,0,0,Normal
-22.726416347501864,0.06652689732178566,False,Right Foot,Free Kick,0,0,0,Normal
-12.731064370271639,0.05504495340451875,False,Right Foot,Open Play,0,0,1,Lob
-23.293775992741068,0.05787202992042609,False,Right Foot,Open Play,1,0,0,Normal
-36.99080966943006,0.07805826441810042,False,Left Foot,Open Play,0,0,1,Normal
-11.67304587500623,0.059753528527288276,False,Left Foot,Open Play,0,0,1,Normal
-9.740636529508741,0.053220938158895954,False,Head,Open Play,0,1,1,Normal
-35.43839725495497,0.07699737159470285,False,Right Foot,Open Play,0,0,1,Normal
-16.4048773235279,0.06317359309980936,False,Right Foot,Open Play,0,0,1,Normal
-36.97566767483719,0.057172650026375296,False,Left Foot,Open Play,0,0,1,Half Volley
-29.75936827286494,0.06339909324260348,False,Left Foot,Free Kick,0,0,0,Normal
-17.511424842085233,0.06386682765744019,False,Left Foot,Open Play,0,0,3,Half Volley
-12.466354719804817,0.06069065615308232,False,Right Foot,Open Play,1,0,2,Volley
-4.4777226354476225,0.054553812446712036,False,Right Foot,Open Play,0,0,2,Normal
-12.791012469699183,0.05733034964789815,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68353,Raúl Tamudo Montero,Espanyol,24.00104164406204,0.06384785245778873,False,Left Foot,Open Play,1,0,1,Normal
+68353,Anderson Luís de Souza,Barcelona,32.117907777437814,0.0587380321244253,True,Right Foot,Open Play,0,0,1,Normal
+68353,Iván De la Peña López,Espanyol,31.449324317066022,0.0718440074377178,False,Right Foot,Free Kick,0,0,0,Normal
+68353,Antonio Álvarez Pérez,Espanyol,22.50199991111901,0.06411131290654959,False,Left Foot,Open Play,1,0,0,Volley
+68353,Juliano Haus Belletti,Barcelona,21.252999788265182,0.052415913255143,False,Left Foot,Open Play,0,0,2,Normal
+68353,Samuel Eto''o Fils,Barcelona,16.4939382804714,0.0630883537226133,False,Right Foot,Open Play,0,0,1,Normal
+68353,Juliano Haus Belletti,Barcelona,25.76354012941545,0.05361531265754586,False,Right Foot,Open Play,0,0,2,Normal
+68353,Iván De la Peña López,Espanyol,21.82475658512599,0.06657023867019819,False,Right Foot,Open Play,1,0,2,Normal
+68353,Ronaldo de Assis Moreira,Barcelona,11.907980517283354,0.06007341440986758,False,Head,Open Play,0,1,2,Normal
+68353,Rafael Márquez Álvarez,Barcelona,39.73436799547717,0.06677268395030118,False,Right Foot,Open Play,0,0,0,Normal
+68353,Ronaldo de Assis Moreira,Barcelona,29.395407804621456,0.07087227079591649,False,Right Foot,Free Kick,0,0,0,Normal
+68353,Ronaldo de Assis Moreira,Barcelona,22.726416347501864,0.06652689732178566,False,Right Foot,Free Kick,0,0,0,Normal
+68353,Samuel Eto''o Fils,Barcelona,12.731064370271639,0.05504495340451875,False,Right Foot,Open Play,0,0,1,Lob
+68353,Maximiliano Rubén Rodríguez,Espanyol,23.293775992741068,0.05787202992042609,False,Right Foot,Open Play,1,0,0,Normal
+68353,Giovanni van Bronckhorst,Barcelona,36.99080966943006,0.07805826441810042,False,Left Foot,Open Play,0,0,1,Normal
+68353,Anderson Luís de Souza,Barcelona,11.67304587500623,0.059753528527288276,False,Left Foot,Open Play,0,0,1,Normal
+68353,Henrik Larsson,Barcelona,9.740636529508741,0.053220938158895954,False,Head,Open Play,0,1,1,Normal
+68353,Ronaldo de Assis Moreira,Barcelona,35.43839725495497,0.07699737159470285,False,Right Foot,Open Play,0,0,1,Normal
+68353,Ronaldo de Assis Moreira,Barcelona,16.4048773235279,0.06317359309980936,False,Right Foot,Open Play,0,0,1,Normal
+68353,Óscar Serrano Rodriguez,Espanyol,36.97566767483719,0.057172650026375296,False,Left Foot,Open Play,0,0,1,Half Volley
+68353,Giovanni van Bronckhorst,Barcelona,29.75936827286494,0.06339909324260348,False,Left Foot,Free Kick,0,0,0,Normal
+68353,Ferrán Corominas Telechea,Espanyol,17.511424842085233,0.06386682765744019,False,Left Foot,Open Play,0,0,3,Half Volley
+68353,Mauricio Roberto Pochettino Trossero,Espanyol,12.466354719804817,0.06069065615308232,False,Right Foot,Open Play,1,0,2,Volley
+68353,Ferrán Corominas Telechea,Espanyol,4.4777226354476225,0.054553812446712036,False,Right Foot,Open Play,0,0,2,Normal
+68353,Mauricio Roberto Pochettino Trossero,Espanyol,12.791012469699183,0.05733034964789815,False,Head,Open Play,0,0,1,Normal

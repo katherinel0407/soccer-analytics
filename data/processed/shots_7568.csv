@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.727922061357855,0.05518504660009867,False,Right Foot,Open Play,1,0,1,Normal
-25.238858928247925,0.056983469734977796,False,Left Foot,Open Play,0,0,2,Normal
-9.0,0.05835638047140873,False,Head,Open Play,0,0,1,Normal
-24.166091947189145,0.059262546217889775,False,Left Foot,Open Play,0,0,2,Normal
-23.769728648009426,0.06788141371150642,False,Left Foot,Open Play,0,1,2,Normal
-27.80287754891569,0.06893704586058222,False,Right Foot,Open Play,0,0,1,Normal
-23.194827009486403,0.06586521020779876,False,Right Foot,Open Play,0,0,4,Normal
-27.202941017470888,0.06831333077527708,False,Left Foot,Open Play,0,0,1,Normal
-15.556349186104045,0.06270036604226387,False,Right Foot,Open Play,0,1,2,Normal
-7.615773105863909,0.0565764903339905,True,Right Foot,Open Play,1,0,1,Half Volley
-15.132745950421556,0.06008911136715584,False,Right Foot,Open Play,1,0,1,Normal
-31.016124838541646,0.061211891326173516,False,Left Foot,Open Play,0,0,2,Normal
-10.816653826391969,0.054191653402987545,False,Head,Open Play,0,1,3,Normal
-33.0,0.06944554217314562,False,Left Foot,Open Play,0,0,1,Normal
-12.649110640673518,0.06098738942947037,False,Left Foot,Open Play,1,0,1,Volley
-34.66987164671943,0.07634121627735525,False,Left Foot,Open Play,0,0,0,Half Volley
-9.055385138137417,0.05868899575295716,False,Head,Open Play,0,1,4,Normal
-13.038404810405298,0.05132601624391653,False,Right Foot,Open Play,0,0,1,Normal
-25.942243542145693,0.06963844743583315,False,Right Foot,Open Play,0,0,1,Normal
-15.556349186104045,0.06270036604226387,False,Left Foot,Open Play,0,0,2,Overhead Kick
-5.385164807134504,0.05615232855593911,True,Head,Open Play,0,0,7,Normal
-34.20526275297414,0.07463737594144902,False,Right Foot,Open Play,0,0,0,Volley
-25.298221281347036,0.06860704452329207,False,Left Foot,Open Play,0,0,3,Normal
-8.06225774829855,0.057624201777450715,False,Head,Open Play,0,0,2,Normal
-23.345235059857504,0.054124529283235516,False,Right Foot,Open Play,0,0,0,Normal
-15.231546211727817,0.06260044731151439,True,Right Foot,Open Play,1,0,1,Normal
-11.045361017187261,0.058822261465885754,False,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7568,Mario Gavranović,Switzerland,12.727922061357855,0.05518504660009867,False,Right Foot,Open Play,1,0,1,Normal
+7568,Joel Nathaniel Campbell Samuels,Costa Rica,25.238858928247925,0.056983469734977796,False,Left Foot,Open Play,0,0,2,Normal
+7568,Celso Borges Mora,Costa Rica,9.0,0.05835638047140873,False,Head,Open Play,0,0,1,Normal
+7568,Cristian Gamboa Luna,Costa Rica,24.166091947189145,0.059262546217889775,False,Left Foot,Open Play,0,0,2,Normal
+7568,Daniel Colindres Solera,Costa Rica,23.769728648009426,0.06788141371150642,False,Left Foot,Open Play,0,1,2,Normal
+7568,Daniel Colindres Solera,Costa Rica,27.80287754891569,0.06893704586058222,False,Right Foot,Open Play,0,0,1,Normal
+7568,Mario Gavranović,Switzerland,23.194827009486403,0.06586521020779876,False,Right Foot,Open Play,0,0,4,Normal
+7568,Bryan Oviedo,Costa Rica,27.202941017470888,0.06831333077527708,False,Left Foot,Open Play,0,0,1,Normal
+7568,Daniel Colindres Solera,Costa Rica,15.556349186104045,0.06270036604226387,False,Right Foot,Open Play,0,1,2,Normal
+7568,Blerim Džemaili,Switzerland,7.615773105863909,0.0565764903339905,True,Right Foot,Open Play,1,0,1,Half Volley
+7568,Blerim Džemaili,Switzerland,15.132745950421556,0.06008911136715584,False,Right Foot,Open Play,1,0,1,Normal
+7568,Stephan Lichtsteiner,Switzerland,31.016124838541646,0.061211891326173516,False,Left Foot,Open Play,0,0,2,Normal
+7568,Blerim Džemaili,Switzerland,10.816653826391969,0.054191653402987545,False,Head,Open Play,0,1,3,Normal
+7568,Valon Behrami,Switzerland,33.0,0.06944554217314562,False,Left Foot,Open Play,0,0,1,Normal
+7568,Joel Nathaniel Campbell Samuels,Costa Rica,12.649110640673518,0.06098738942947037,False,Left Foot,Open Play,1,0,1,Volley
+7568,Ricardo Iván Rodríguez Araya,Switzerland,34.66987164671943,0.07634121627735525,False,Left Foot,Open Play,0,0,0,Half Volley
+7568,Breel-Donald Embolo,Switzerland,9.055385138137417,0.05868899575295716,False,Head,Open Play,0,1,4,Normal
+7568,Breel-Donald Embolo,Switzerland,13.038404810405298,0.05132601624391653,False,Right Foot,Open Play,0,0,1,Normal
+7568,David Alberto Guzmán Pérez,Costa Rica,25.942243542145693,0.06963844743583315,False,Right Foot,Open Play,0,0,1,Normal
+7568,Bryan Oviedo,Costa Rica,15.556349186104045,0.06270036604226387,False,Left Foot,Open Play,0,0,2,Overhead Kick
+7568,Kendall Jamaal Waston Manley,Costa Rica,5.385164807134504,0.05615232855593911,True,Head,Open Play,0,0,7,Normal
+7568,Celso Borges Mora,Costa Rica,34.20526275297414,0.07463737594144902,False,Right Foot,Open Play,0,0,0,Volley
+7568,Josip Drmic,Switzerland,25.298221281347036,0.06860704452329207,False,Left Foot,Open Play,0,0,3,Normal
+7568,Josip Drmic,Switzerland,8.06225774829855,0.057624201777450715,False,Head,Open Play,0,0,2,Normal
+7568,Celso Borges Mora,Costa Rica,23.345235059857504,0.054124529283235516,False,Right Foot,Open Play,0,0,0,Normal
+7568,Josip Drmic,Switzerland,15.231546211727817,0.06260044731151439,True,Right Foot,Open Play,1,0,1,Normal
+7568,Bryan Ruiz González,Costa Rica,11.045361017187261,0.058822261465885754,False,Left Foot,Penalty,0,0,0,Normal

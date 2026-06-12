@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.802847844613327,0.061801302721547866,False,Left Foot,Open Play,0,1,1,Normal
-13.72770920437929,0.06144234250469261,True,Right Foot,Open Play,1,0,2,Normal
-14.98832879276405,0.0625104371325881,False,Left Foot,Open Play,0,0,2,Normal
-31.207851576165897,0.06811230963644796,False,Right Foot,Open Play,0,0,2,Normal
-20.681634364817498,0.05644402443665288,True,Left Foot,Open Play,1,0,2,Normal
-18.45480967119412,0.06327446691910639,False,Right Foot,Open Play,1,0,1,Normal
-4.780167361086842,0.05700876798749732,False,Right Foot,Open Play,1,1,2,Half Volley
-12.571793825862722,0.056663531845165586,False,Head,Open Play,0,1,4,Normal
-10.804165863221462,0.059197024975360536,False,Right Foot,Open Play,1,0,1,Normal
-11.761802582937701,0.05707268522932579,False,Left Foot,Open Play,1,0,3,Half Volley
-15.802847844613321,0.06109834957699269,False,Right Foot,Open Play,0,1,1,Normal
-12.88099375048369,0.060886123299794856,False,Left Foot,Open Play,0,0,1,Normal
-19.085072700935672,0.06186729128247684,False,Right Foot,Free Kick,0,0,0,Normal
-25.089440009693316,0.06716314584921933,False,Left Foot,Open Play,0,0,1,Normal
-11.81058846967415,0.060637355856119235,False,Head,Open Play,0,0,3,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-9.620810776644554,0.05946744378668661,True,Right Foot,Open Play,0,0,4,Normal
-6.586349520030045,0.05804535586780978,False,Head,Open Play,0,1,5,Normal
-18.456706098326435,0.05481715121655103,False,Right Foot,Open Play,0,0,2,Normal
-14.770578864756793,0.05194093577211818,False,Right Foot,Open Play,1,0,2,Volley
-9.213576938409966,0.053773364521244996,False,Head,Open Play,0,1,4,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-23.792856070678024,0.05510011831644843,False,Right Foot,Open Play,0,0,1,Normal
-8.44334057112468,0.05705421869641259,False,Right Foot,Open Play,1,0,5,Normal
-8.26196102629394,0.05569136662709328,False,Head,Open Play,0,1,4,Normal
-10.767079455451235,0.05863005931736352,False,Head,Open Play,0,0,1,Normal
-17.28178231549049,0.06076122706644999,False,Right Foot,Open Play,0,0,2,Normal
-10.560303025955271,0.05921223632464821,False,Left Foot,Open Play,1,0,2,Half Volley
-24.44994887520217,0.06744901526881282,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3802839,Juan Bernat Velasco,Paris Saint-Germain,15.802847844613327,0.061801302721547866,False,Left Foot,Open Play,0,1,1,Normal
+3802839,Randal Kolo Muani,Nantes,13.72770920437929,0.06144234250469261,True,Right Foot,Open Play,1,0,2,Normal
+3802839,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,14.98832879276405,0.0625104371325881,False,Left Foot,Open Play,0,0,2,Normal
+3802839,Andrei Girotto,Nantes,31.207851576165897,0.06811230963644796,False,Right Foot,Open Play,0,0,2,Normal
+3802839,Quentin Merlin,Nantes,20.681634364817498,0.05644402443665288,True,Left Foot,Open Play,1,0,2,Normal
+3802839,Kylian Mbappé Lottin,Paris Saint-Germain,18.45480967119412,0.06327446691910639,False,Right Foot,Open Play,1,0,1,Normal
+3802839,Randal Kolo Muani,Nantes,4.780167361086842,0.05700876798749732,False,Right Foot,Open Play,1,1,2,Half Volley
+3802839,Andrei Girotto,Nantes,12.571793825862722,0.056663531845165586,False,Head,Open Play,0,1,4,Normal
+3802839,Idrissa Gana Gueye,Paris Saint-Germain,10.804165863221462,0.059197024975360536,False,Right Foot,Open Play,1,0,1,Normal
+3802839,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,11.761802582937701,0.05707268522932579,False,Left Foot,Open Play,1,0,3,Half Volley
+3802839,Neymar da Silva Santos Junior,Paris Saint-Germain,15.802847844613321,0.06109834957699269,False,Right Foot,Open Play,0,1,1,Normal
+3802839,Moses Daddy-Ajala Simon,Nantes,12.88099375048369,0.060886123299794856,False,Left Foot,Open Play,0,0,1,Normal
+3802839,Neymar da Silva Santos Junior,Paris Saint-Germain,19.085072700935672,0.06186729128247684,False,Right Foot,Free Kick,0,0,0,Normal
+3802839,Ludovic Blas,Nantes,25.089440009693316,0.06716314584921933,False,Left Foot,Open Play,0,0,1,Normal
+3802839,Jean-Charles Castelletto,Nantes,11.81058846967415,0.060637355856119235,False,Head,Open Play,0,0,3,Normal
+3802839,Ludovic Blas,Nantes,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3802839,Neymar da Silva Santos Junior,Paris Saint-Germain,9.620810776644554,0.05946744378668661,True,Right Foot,Open Play,0,0,4,Normal
+3802839,Randal Kolo Muani,Nantes,6.586349520030045,0.05804535586780978,False,Head,Open Play,0,1,5,Normal
+3802839,Kylian Mbappé Lottin,Paris Saint-Germain,18.456706098326435,0.05481715121655103,False,Right Foot,Open Play,0,0,2,Normal
+3802839,Kylian Mbappé Lottin,Paris Saint-Germain,14.770578864756793,0.05194093577211818,False,Right Foot,Open Play,1,0,2,Volley
+3802839,Marcos Aoás Corrêa,Paris Saint-Germain,9.213576938409966,0.053773364521244996,False,Head,Open Play,0,1,4,Normal
+3802839,Neymar da Silva Santos Junior,Paris Saint-Germain,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3802839,Jean-Charles Castelletto,Nantes,23.792856070678024,0.05510011831644843,False,Right Foot,Open Play,0,0,1,Normal
+3802839,Kylian Mbappé Lottin,Paris Saint-Germain,8.44334057112468,0.05705421869641259,False,Right Foot,Open Play,1,0,5,Normal
+3802839,Marcos Aoás Corrêa,Paris Saint-Germain,8.26196102629394,0.05569136662709328,False,Head,Open Play,0,1,4,Normal
+3802839,Ludovic Blas,Nantes,10.767079455451235,0.05863005931736352,False,Head,Open Play,0,0,1,Normal
+3802839,Julian Draxler,Paris Saint-Germain,17.28178231549049,0.06076122706644999,False,Right Foot,Open Play,0,0,2,Normal
+3802839,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,10.560303025955271,0.05921223632464821,False,Left Foot,Open Play,1,0,2,Half Volley
+3802839,Ludovic Blas,Nantes,24.44994887520217,0.06744901526881282,False,Left Foot,Open Play,0,0,1,Normal

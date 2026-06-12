@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.612323566086259,0.06092391039994789,False,Left Foot,Open Play,0,0,4,Half Volley
-9.642613753542134,0.05960731338104747,True,Left Foot,Open Play,0,1,3,Normal
-28.663042406555522,0.05315672013309248,False,Left Foot,Free Kick,0,0,0,Normal
-18.652613757862458,0.06304060389419391,False,Right Foot,Open Play,0,1,3,Volley
-15.967780058605522,0.05789120651412906,False,Right Foot,Open Play,1,0,0,Normal
-29.82029510249689,0.05651697678419866,False,Left Foot,Free Kick,0,0,0,Normal
-27.493453766305898,0.05655330856212452,False,Left Foot,Open Play,0,0,3,Normal
-31.579265349276255,0.07368403831146478,False,Left Foot,Open Play,0,0,1,Normal
-21.004047229046115,0.061522489412051844,False,Right Foot,Open Play,1,0,3,Normal
-17.366634676873925,0.06396155645217413,False,Left Foot,Open Play,0,0,0,Half Volley
-10.141498903022184,0.05946331250995499,False,Head,Open Play,0,1,2,Normal
-13.741906709041508,0.06026477502158497,False,Left Foot,Open Play,1,0,1,Normal
-15.98311609167624,0.05953189120300908,False,Head,Open Play,0,1,2,Normal
-20.28299780604435,0.06105618339154519,False,Right Foot,Open Play,0,1,2,Normal
-19.621671692289624,0.06050809882745953,False,Left Foot,Open Play,1,1,1,Normal
-16.55294535724685,0.06173927095172158,False,Left Foot,Open Play,0,1,2,Normal
-28.71114766079545,0.06681940995977019,False,Right Foot,Open Play,1,0,2,Half Volley
-7.366138744281162,0.058342028391702536,False,Head,Open Play,0,0,2,Normal
-27.8632374285545,0.053672332532353983,False,Right Foot,Open Play,1,0,0,Normal
-21.788299612406657,0.06679987693262043,False,Right Foot,Open Play,1,0,1,Half Volley
-12.420144926690675,0.05604563743406368,False,Right Foot,Open Play,1,1,1,Normal
-26.200763347658405,0.06612108205224856,False,Right Foot,Open Play,0,1,1,Normal
-18.369812192834193,0.06465091965240112,False,Left Foot,Open Play,0,0,1,Normal
-13.788763541376724,0.05519207009943405,True,Right Foot,Open Play,1,1,0,Half Volley
-20.80024038322635,0.0661450285346623,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829434,Yannick Cahuzac,Bastia,14.612323566086259,0.06092391039994789,False,Left Foot,Open Play,0,0,4,Half Volley
+3829434,Julian Palmieri,Bastia,9.642613753542134,0.05960731338104747,True,Left Foot,Open Play,0,1,3,Normal
+3829434,Thibault Giresse,Guingamp,28.663042406555522,0.05315672013309248,False,Left Foot,Free Kick,0,0,0,Normal
+3829434,Moustapha Elhadji Diallo,Guingamp,18.652613757862458,0.06304060389419391,False,Right Foot,Open Play,0,1,3,Volley
+3829434,Mana Dembélé,Guingamp,15.967780058605522,0.05789120651412906,False,Right Foot,Open Play,1,0,0,Normal
+3829434,Yannis Salibur,Guingamp,29.82029510249689,0.05651697678419866,False,Left Foot,Free Kick,0,0,0,Normal
+3829434,Gaël Danic,Bastia,27.493453766305898,0.05655330856212452,False,Left Foot,Open Play,0,0,3,Normal
+3829434,Thibault Giresse,Guingamp,31.579265349276255,0.07368403831146478,False,Left Foot,Open Play,0,0,1,Normal
+3829434,Seko Fofana,Bastia,21.004047229046115,0.061522489412051844,False,Right Foot,Open Play,1,0,3,Normal
+3829434,Julian Palmieri,Bastia,17.366634676873925,0.06396155645217413,False,Left Foot,Open Play,0,0,0,Half Volley
+3829434,Moustapha Elhadji Diallo,Guingamp,10.141498903022184,0.05946331250995499,False,Head,Open Play,0,1,2,Normal
+3829434,Younousse Sankharé,Guingamp,13.741906709041508,0.06026477502158497,False,Left Foot,Open Play,1,0,1,Normal
+3829434,Moustapha Elhadji Diallo,Guingamp,15.98311609167624,0.05953189120300908,False,Head,Open Play,0,1,2,Normal
+3829434,Jimmy Briand,Guingamp,20.28299780604435,0.06105618339154519,False,Right Foot,Open Play,0,1,2,Normal
+3829434,Mana Dembélé,Guingamp,19.621671692289624,0.06050809882745953,False,Left Foot,Open Play,1,1,1,Normal
+3829434,Yannis Salibur,Guingamp,16.55294535724685,0.06173927095172158,False,Left Foot,Open Play,0,1,2,Normal
+3829434,Nill De Pauw,Guingamp,28.71114766079545,0.06681940995977019,False,Right Foot,Open Play,1,0,2,Half Volley
+3829434,Jimmy Briand,Guingamp,7.366138744281162,0.058342028391702536,False,Head,Open Play,0,0,2,Normal
+3829434,Floyd Ayité,Bastia,27.8632374285545,0.053672332532353983,False,Right Foot,Open Play,1,0,0,Normal
+3829434,Yannis Salibur,Guingamp,21.788299612406657,0.06679987693262043,False,Right Foot,Open Play,1,0,1,Half Volley
+3829434,Floyd Ayité,Bastia,12.420144926690675,0.05604563743406368,False,Right Foot,Open Play,1,1,1,Normal
+3829434,Seko Fofana,Bastia,26.200763347658405,0.06612108205224856,False,Right Foot,Open Play,0,1,1,Normal
+3829434,Christopher Maboulou,Bastia,18.369812192834193,0.06465091965240112,False,Left Foot,Open Play,0,0,1,Normal
+3829434,Lassana Coulibaly,Bastia,13.788763541376724,0.05519207009943405,True,Right Foot,Open Play,1,1,0,Half Volley
+3829434,Yannis Salibur,Guingamp,20.80024038322635,0.0661450285346623,False,Left Foot,Free Kick,0,0,0,Normal

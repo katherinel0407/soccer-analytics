@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.635981812836214,0.06178497808517821,False,Head,Open Play,0,0,1,Normal
-16.904733065032413,0.06186030323314161,False,Left Foot,Open Play,1,0,0,Normal
-14.119844191774916,0.05367500907236267,False,Right Foot,Open Play,1,0,2,Normal
-9.400531899844824,0.05848486456985425,False,Head,Open Play,0,1,3,Normal
-32.35428874198906,0.06055947750252033,False,Right Foot,Open Play,0,0,1,Normal
-7.1449282711585065,0.0582582532886599,True,Left Foot,Open Play,1,0,2,Half Volley
-11.043550153822817,0.05612965762846001,False,Head,Open Play,0,1,2,Normal
-21.044001520623404,0.06053397156335541,False,Right Foot,Open Play,1,0,2,Normal
-18.031361568112377,0.06336487249121014,False,Left Foot,Open Play,0,1,1,Normal
-7.294518489934759,0.05618825359787972,False,Right Foot,Open Play,1,0,2,Normal
-8.44334057112468,0.05705421869641259,False,Head,Open Play,0,1,2,Normal
-36.66196939609218,0.06415626155210565,False,Left Foot,Free Kick,0,0,0,Normal
-11.166467659918242,0.06014885535507236,False,Right Foot,Open Play,1,1,3,Volley
-15.657905351610738,0.0630088372377448,False,Head,Open Play,0,1,3,Normal
-10.41201229350024,0.059099997804834,False,Right Foot,Open Play,1,0,2,Volley
-11.328283188550685,0.059850181818837424,False,Head,Open Play,0,0,2,Normal
-10.875660899458016,0.059737875221108044,False,Right Foot,Open Play,1,0,1,Normal
-14.621901381147385,0.060999537439774355,True,Right Foot,Open Play,1,1,3,Half Volley
-12.403628501370079,0.05986785171302465,False,Right Foot,Open Play,1,1,3,Volley
-20.135789033459794,0.05283990800548272,False,Right Foot,Open Play,1,1,1,Normal
-20.26326725876161,0.05414587877904799,False,Right Foot,Open Play,0,0,2,Normal
-18.851259904844564,0.06061713896030186,True,Right Foot,Open Play,1,1,2,Normal
-27.29853475921372,0.06180087985592664,False,Right Foot,Open Play,1,0,2,Half Volley
-10.66067540074268,0.0577573652169335,True,Right Foot,Open Play,1,1,2,Normal
-30.69364755124421,0.0537140476025998,False,Right Foot,Open Play,0,0,1,Normal
-17.585505395068974,0.05396674863396353,False,Right Foot,Open Play,1,1,1,Normal
-29.144639301250578,0.07145494411225797,False,Right Foot,Open Play,1,0,0,Normal
-13.984276885130678,0.058663782784944475,False,Head,Open Play,0,1,2,Normal
-14.495861478366852,0.05516840833262805,False,Right Foot,Open Play,0,0,2,Lob
-9.831073186585474,0.05966259470480575,True,Left Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890420,Szabolcs Huszti,Eintracht Frankfurt,13.635981812836214,0.06178497808517821,False,Head,Open Play,0,0,1,Normal
+3890420,Max Kruse,Wolfsburg,16.904733065032413,0.06186030323314161,False,Left Foot,Open Play,1,0,0,Normal
+3890420,Daniel Caligiuri,Wolfsburg,14.119844191774916,0.05367500907236267,False,Right Foot,Open Play,1,0,2,Normal
+3890420,Ronaldo Aparecido Rodrigues,Wolfsburg,9.400531899844824,0.05848486456985425,False,Head,Open Play,0,1,3,Normal
+3890420,Adelino André Vieira Freitas,Wolfsburg,32.35428874198906,0.06055947750252033,False,Right Foot,Open Play,0,0,1,Normal
+3890420,Dante Bonfim da Costa Santos,Wolfsburg,7.1449282711585065,0.0582582532886599,True,Left Foot,Open Play,1,0,2,Half Volley
+3890420,Marco Russ,Eintracht Frankfurt,11.043550153822817,0.05612965762846001,False,Head,Open Play,0,1,2,Normal
+3890420,Max Kruse,Wolfsburg,21.044001520623404,0.06053397156335541,False,Right Foot,Open Play,1,0,2,Normal
+3890420,Max Kruse,Wolfsburg,18.031361568112377,0.06336487249121014,False,Left Foot,Open Play,0,1,1,Normal
+3890420,Daniel Caligiuri,Wolfsburg,7.294518489934759,0.05618825359787972,False,Right Foot,Open Play,1,0,2,Normal
+3890420,Stefan Aigner,Eintracht Frankfurt,8.44334057112468,0.05705421869641259,False,Head,Open Play,0,1,2,Normal
+3890420,Szabolcs Huszti,Eintracht Frankfurt,36.66196939609218,0.06415626155210565,False,Left Foot,Free Kick,0,0,0,Normal
+3890420,Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,11.166467659918242,0.06014885535507236,False,Right Foot,Open Play,1,1,3,Volley
+3890420,Julian Draxler,Wolfsburg,15.657905351610738,0.0630088372377448,False,Head,Open Play,0,1,3,Normal
+3890420,David Ángel Abraham,Eintracht Frankfurt,10.41201229350024,0.059099997804834,False,Right Foot,Open Play,1,0,2,Volley
+3890420,André Schürrle,Wolfsburg,11.328283188550685,0.059850181818837424,False,Head,Open Play,0,0,2,Normal
+3890420,Max Kruse,Wolfsburg,10.875660899458016,0.059737875221108044,False,Right Foot,Open Play,1,0,1,Normal
+3890420,Alexander Meier,Eintracht Frankfurt,14.621901381147385,0.060999537439774355,True,Right Foot,Open Play,1,1,3,Half Volley
+3890420,Marco Russ,Eintracht Frankfurt,12.403628501370079,0.05986785171302465,False,Right Foot,Open Play,1,1,3,Volley
+3890420,Max Kruse,Wolfsburg,20.135789033459794,0.05283990800548272,False,Right Foot,Open Play,1,1,1,Normal
+3890420,Marc Stendera,Eintracht Frankfurt,20.26326725876161,0.05414587877904799,False,Right Foot,Open Play,0,0,2,Normal
+3890420,Alexander Meier,Eintracht Frankfurt,18.851259904844564,0.06061713896030186,True,Right Foot,Open Play,1,1,2,Normal
+3890420,Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,27.29853475921372,0.06180087985592664,False,Right Foot,Open Play,1,0,2,Half Volley
+3890420,André Schürrle,Wolfsburg,10.66067540074268,0.0577573652169335,True,Right Foot,Open Play,1,1,2,Normal
+3890420,André Schürrle,Wolfsburg,30.69364755124421,0.0537140476025998,False,Right Foot,Open Play,0,0,1,Normal
+3890420,André Schürrle,Wolfsburg,17.585505395068974,0.05396674863396353,False,Right Foot,Open Play,1,1,1,Normal
+3890420,Ronaldo Aparecido Rodrigues,Wolfsburg,29.144639301250578,0.07145494411225797,False,Right Foot,Open Play,1,0,0,Normal
+3890420,Ronaldo Aparecido Rodrigues,Wolfsburg,13.984276885130678,0.058663782784944475,False,Head,Open Play,0,1,2,Normal
+3890420,Adelino André Vieira Freitas,Wolfsburg,14.495861478366852,0.05516840833262805,False,Right Foot,Open Play,0,0,2,Lob
+3890420,Alexander Meier,Eintracht Frankfurt,9.831073186585474,0.05966259470480575,True,Left Foot,Open Play,1,0,2,Half Volley

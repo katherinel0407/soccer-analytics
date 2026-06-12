@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.860014430006915,0.06195208294213055,False,Left Foot,Open Play,1,1,2,Normal
-31.14048811435043,0.05465660049733335,False,Left Foot,Open Play,0,0,1,Normal
-12.265398485169573,0.06095690268114091,False,Head,Open Play,0,0,3,Normal
-10.480935072788121,0.05937330164618331,False,Left Foot,Open Play,1,0,1,Normal
-15.561812233798483,0.058295908224946694,False,Left Foot,Open Play,1,1,5,Half Volley
-26.204770558049162,0.06576560722472787,False,Left Foot,Open Play,0,0,1,Normal
-28.72159466324946,0.07116652011911077,False,Right Foot,Open Play,1,0,0,Normal
-26.548069609672183,0.05102297418203686,False,Left Foot,Open Play,0,1,2,Normal
-18.24636950190366,0.06264059564986971,False,Right Foot,Open Play,0,0,2,Normal
-16.47938105633825,0.054866973005012205,False,Left Foot,Open Play,0,0,3,Normal
-13.10610544746226,0.06049020714539364,True,Left Foot,Open Play,0,0,3,Normal
-6.576473218982951,0.05802737880817335,False,Head,Open Play,0,1,6,Normal
-10.733126291998985,0.060173264640026064,False,Right Foot,Open Play,1,0,4,Overhead Kick
-5.20864665724217,0.056757844044932976,False,Head,Open Play,0,0,4,Normal
-15.311760186209808,0.06280542564057397,False,Head,Open Play,0,1,1,Normal
-11.747765745025728,0.06077458158815351,False,Head,Open Play,0,0,1,Normal
-7.206247289678591,0.057538290233687464,True,Head,Open Play,0,1,4,Normal
-27.497272592022657,0.06335276401355601,False,Right Foot,Open Play,0,0,1,Normal
-6.530696746902276,0.05757079832481104,False,Left Foot,Open Play,1,0,0,Half Volley
-15.965587994182991,0.06001800751527199,False,Left Foot,Open Play,0,0,3,Normal
-18.322117781522962,0.06194573306171068,False,Left Foot,Open Play,1,0,0,Normal
-12.814054783713075,0.061377802341251245,False,Right Foot,Open Play,0,1,2,Normal
-6.923149572268387,0.057886929217917514,False,Head,Open Play,0,0,3,Normal
-11.51216747619665,0.058511954732655545,False,Left Foot,Open Play,1,0,3,Half Volley
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-15.375955254877656,0.05977334817484605,True,Left Foot,Open Play,0,0,4,Normal
-18.60752535938081,0.06469255840187109,False,Left Foot,Open Play,1,0,3,Volley
-24.53120461779242,0.06840117118513368,True,Left Foot,Open Play,0,0,2,Normal
-16.676930173146378,0.06342063922464339,False,Right Foot,Open Play,1,0,3,Normal
-9.526804291051642,0.05934343644362135,True,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912523,Elisa del Estal Mateu,Napoli W,13.860014430006915,0.06195208294213055,False,Left Foot,Open Play,1,1,2,Normal
+3912523,Kaja Eržen,Fiorentina W,31.14048811435043,0.05465660049733335,False,Left Foot,Open Play,0,0,1,Normal
+3912523,Karin Lundin,Fiorentina W,12.265398485169573,0.06095690268114091,False,Head,Open Play,0,0,3,Normal
+3912523,Milica Mijatovic,Fiorentina W,10.480935072788121,0.05937330164618331,False,Left Foot,Open Play,1,0,1,Normal
+3912523,Milica Mijatovic,Fiorentina W,15.561812233798483,0.058295908224946694,False,Left Foot,Open Play,1,1,5,Half Volley
+3912523,Gina-Maria Chmielinski,Napoli W,26.204770558049162,0.06576560722472787,False,Left Foot,Open Play,0,0,1,Normal
+3912523,Alice Parisi,Fiorentina W,28.72159466324946,0.07116652011911077,False,Right Foot,Open Play,1,0,0,Normal
+3912523,Paloma Lázaro Torres del Molino,Napoli W,26.548069609672183,0.05102297418203686,False,Left Foot,Open Play,0,1,2,Normal
+3912523,Giulia Giacobbo,Napoli W,18.24636950190366,0.06264059564986971,False,Right Foot,Open Play,0,0,2,Normal
+3912523,Milica Mijatovic,Fiorentina W,16.47938105633825,0.054866973005012205,False,Left Foot,Open Play,0,0,3,Normal
+3912523,Verónica Boquete Giadáns,Fiorentina W,13.10610544746226,0.06049020714539364,True,Left Foot,Open Play,0,0,3,Normal
+3912523,Paloma Lázaro Torres del Molino,Napoli W,6.576473218982951,0.05802737880817335,False,Head,Open Play,0,1,6,Normal
+3912523,Paloma Lázaro Torres del Molino,Napoli W,10.733126291998985,0.060173264640026064,False,Right Foot,Open Play,1,0,4,Overhead Kick
+3912523,Elisa del Estal Mateu,Napoli W,5.20864665724217,0.056757844044932976,False,Head,Open Play,0,0,4,Normal
+3912523,Elisa del Estal Mateu,Napoli W,15.311760186209808,0.06280542564057397,False,Head,Open Play,0,1,1,Normal
+3912523,Karin Lundin,Fiorentina W,11.747765745025728,0.06077458158815351,False,Head,Open Play,0,0,1,Normal
+3912523,Michela Catena,Fiorentina W,7.206247289678591,0.057538290233687464,True,Head,Open Play,0,1,4,Normal
+3912523,Alice Corelli,Napoli W,27.497272592022657,0.06335276401355601,False,Right Foot,Open Play,0,0,1,Normal
+3912523,Marina Georgieva,Fiorentina W,6.530696746902276,0.05757079832481104,False,Left Foot,Open Play,1,0,0,Half Volley
+3912523,Verónica Boquete Giadáns,Fiorentina W,15.965587994182991,0.06001800751527199,False,Left Foot,Open Play,0,0,3,Normal
+3912523,Alice Corelli,Napoli W,18.322117781522962,0.06194573306171068,False,Left Foot,Open Play,1,0,0,Normal
+3912523,Gina-Maria Chmielinski,Napoli W,12.814054783713075,0.061377802341251245,False,Right Foot,Open Play,0,1,2,Normal
+3912523,Elisa del Estal Mateu,Napoli W,6.923149572268387,0.057886929217917514,False,Head,Open Play,0,0,3,Normal
+3912523,Giulia Giacobbo,Napoli W,11.51216747619665,0.058511954732655545,False,Left Foot,Open Play,1,0,3,Half Volley
+3912523,Elisa del Estal Mateu,Napoli W,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3912523,Miriam Chiara Longo,Fiorentina W,15.375955254877656,0.05977334817484605,True,Left Foot,Open Play,0,0,4,Normal
+3912523,Nina Kajzba,Napoli W,18.60752535938081,0.06469255840187109,False,Left Foot,Open Play,1,0,3,Volley
+3912523,Alice Corelli,Napoli W,24.53120461779242,0.06840117118513368,True,Left Foot,Open Play,0,0,2,Normal
+3912523,Alexandra Jóhannsdóttir,Fiorentina W,16.676930173146378,0.06342063922464339,False,Right Foot,Open Play,1,0,3,Normal
+3912523,Alexandra Jóhannsdóttir,Fiorentina W,9.526804291051642,0.05934343644362135,True,Head,Open Play,0,0,1,Normal

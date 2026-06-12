@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.357549060664056,0.061876322918914636,False,Left Foot,Open Play,0,1,1,Normal
-31.68343415730056,0.052952995796519846,False,Other,Open Play,0,0,1,Normal
-10.462313319720453,0.060082089950093655,False,Right Foot,Open Play,1,0,2,Volley
-23.664741705752892,0.06805574369835447,False,Right Foot,Open Play,0,0,2,Normal
-23.495744295510196,0.067929241980435,False,Right Foot,Open Play,0,0,1,Normal
-25.600781238079442,0.06719428605533986,False,Right Foot,Open Play,0,1,3,Normal
-27.24701818548224,0.05518497368041929,False,Left Foot,Open Play,0,0,2,Normal
-13.306013678032949,0.06028735349479889,True,Right Foot,Open Play,1,0,2,Normal
-19.20234360696631,0.06514666354643545,False,Right Foot,Open Play,1,0,1,Half Volley
-22.486440358580545,0.054504665236954665,False,Right Foot,Open Play,1,0,1,Normal
-30.748333288163774,0.07270335951044565,False,Right Foot,Open Play,0,0,1,Normal
-25.63298656028985,0.06912957084503107,False,Left Foot,Open Play,0,0,1,Normal
-23.509147155947616,0.0597744301860929,False,Right Foot,Free Kick,0,0,0,Normal
-24.620519897028977,0.06859776961436247,False,Left Foot,Open Play,0,0,3,Normal
-12.432618388738558,0.06080679359472443,False,Left Foot,Open Play,1,0,2,Volley
-6.8066144300966505,0.0575719603871204,False,Right Foot,Open Play,0,0,3,Normal
-8.556284240252888,0.05524740018133931,False,Head,Open Play,0,1,2,Normal
-22.351733713517618,0.06651547601463019,False,Right Foot,Open Play,0,0,2,Normal
-25.961509971494333,0.06949810298572372,False,Right Foot,Free Kick,0,0,0,Normal
-22.08393080952755,0.06625717690828373,False,Left Foot,Open Play,0,1,2,Normal
-33.379334924470854,0.06818839671239706,False,Left Foot,Open Play,0,0,0,Normal
-14.212670403551893,0.06159658477721871,False,Head,Open Play,0,1,5,Normal
-10.547511554864494,0.058619872371300195,False,Head,Open Play,0,0,2,Normal
-23.320591759215716,0.06683250847642538,False,Right Foot,Open Play,1,0,1,Normal
-19.331063085097,0.0643924877538218,False,Right Foot,Open Play,0,0,3,Normal
-21.366328650472454,0.05295706190308415,False,Right Foot,Open Play,1,0,1,Normal
-21.910043359153818,0.06579033322279434,True,Left Foot,Open Play,0,0,3,Half Volley
-12.887590930814026,0.05937427627428568,False,Left Foot,Open Play,1,0,1,Normal
-24.916259751415346,0.06494677941860827,False,Left Foot,Open Play,0,0,3,Normal
-49.681485485037584,0.07186746826215194,False,Right Foot,Open Play,0,0,0,Normal
-26.993702969396402,0.06802722700062187,True,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69171,Samuel Eto''o Fils,Barcelona,22.357549060664056,0.061876322918914636,False,Left Foot,Open Play,0,1,1,Normal
+69171,Daniel Alves da Silva,Barcelona,31.68343415730056,0.052952995796519846,False,Other,Open Play,0,0,1,Normal
+69171,Luís Fabiano Clemente,Sevilla,10.462313319720453,0.060082089950093655,False,Right Foot,Open Play,1,0,2,Volley
+69171,Xavier Hernández Creus,Barcelona,23.664741705752892,0.06805574369835447,False,Right Foot,Open Play,0,0,2,Normal
+69171,Thierry Henry,Barcelona,23.495744295510196,0.067929241980435,False,Right Foot,Open Play,0,0,1,Normal
+69171,Luís Fabiano Clemente,Sevilla,25.600781238079442,0.06719428605533986,False,Right Foot,Open Play,0,1,3,Normal
+69171,Lionel Andrés Messi Cuccittini,Barcelona,27.24701818548224,0.05518497368041929,False,Left Foot,Open Play,0,0,2,Normal
+69171,Samuel Eto''o Fils,Barcelona,13.306013678032949,0.06028735349479889,True,Right Foot,Open Play,1,0,2,Normal
+69171,Enzo Maresca,Sevilla,19.20234360696631,0.06514666354643545,False,Right Foot,Open Play,1,0,1,Half Volley
+69171,Luís Fabiano Clemente,Sevilla,22.486440358580545,0.054504665236954665,False,Right Foot,Open Play,1,0,1,Normal
+69171,Samuel Eto''o Fils,Barcelona,30.748333288163774,0.07270335951044565,False,Right Foot,Open Play,0,0,1,Normal
+69171,Thierry Henry,Barcelona,25.63298656028985,0.06912957084503107,False,Left Foot,Open Play,0,0,1,Normal
+69171,Xavier Hernández Creus,Barcelona,23.509147155947616,0.0597744301860929,False,Right Foot,Free Kick,0,0,0,Normal
+69171,Enzo Maresca,Sevilla,24.620519897028977,0.06859776961436247,False,Left Foot,Open Play,0,0,3,Normal
+69171,Frédéric Oumar Kanouté,Sevilla,12.432618388738558,0.06080679359472443,False,Left Foot,Open Play,1,0,2,Volley
+69171,Frédéric Oumar Kanouté,Sevilla,6.8066144300966505,0.0575719603871204,False,Right Foot,Open Play,0,0,3,Normal
+69171,Luís Fabiano Clemente,Sevilla,8.556284240252888,0.05524740018133931,False,Head,Open Play,0,1,2,Normal
+69171,Thierry Henry,Barcelona,22.351733713517618,0.06651547601463019,False,Right Foot,Open Play,0,0,2,Normal
+69171,Daniel Alves da Silva,Barcelona,25.961509971494333,0.06949810298572372,False,Right Foot,Free Kick,0,0,0,Normal
+69171,Lionel Andrés Messi Cuccittini,Barcelona,22.08393080952755,0.06625717690828373,False,Left Foot,Open Play,0,1,2,Normal
+69171,Seydou Kéita,Barcelona,33.379334924470854,0.06818839671239706,False,Left Foot,Open Play,0,0,0,Normal
+69171,Luís Fabiano Clemente,Sevilla,14.212670403551893,0.06159658477721871,False,Head,Open Play,0,1,5,Normal
+69171,Luís Fabiano Clemente,Sevilla,10.547511554864494,0.058619872371300195,False,Head,Open Play,0,0,2,Normal
+69171,Thierry Henry,Barcelona,23.320591759215716,0.06683250847642538,False,Right Foot,Open Play,1,0,1,Normal
+69171,Lionel Andrés Messi Cuccittini,Barcelona,19.331063085097,0.0643924877538218,False,Right Foot,Open Play,0,0,3,Normal
+69171,Daniel Alves da Silva,Barcelona,21.366328650472454,0.05295706190308415,False,Right Foot,Open Play,1,0,1,Normal
+69171,Lionel Andrés Messi Cuccittini,Barcelona,21.910043359153818,0.06579033322279434,True,Left Foot,Open Play,0,0,3,Half Volley
+69171,Samuel Eto''o Fils,Barcelona,12.887590930814026,0.05937427627428568,False,Left Foot,Open Play,1,0,1,Normal
+69171,Lionel Andrés Messi Cuccittini,Barcelona,24.916259751415346,0.06494677941860827,False,Left Foot,Open Play,0,0,3,Normal
+69171,Samuel Eto''o Fils,Barcelona,49.681485485037584,0.07186746826215194,False,Right Foot,Open Play,0,0,0,Normal
+69171,Lionel Andrés Messi Cuccittini,Barcelona,26.993702969396402,0.06802722700062187,True,Left Foot,Open Play,0,0,1,Normal

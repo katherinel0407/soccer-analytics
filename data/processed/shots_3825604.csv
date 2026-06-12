@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.841944787961992,0.06553543440340986,False,Left Foot,Open Play,0,0,1,Normal
-29.300170647967228,0.05867932667751415,False,Left Foot,Open Play,0,0,1,Normal
-31.442964236852735,0.06845735127525467,False,Left Foot,Open Play,1,0,0,Half Volley
-32.616713507035,0.07462882967055255,False,Left Foot,Open Play,0,0,2,Normal
-35.31713465161068,0.07135786515273676,False,Right Foot,Open Play,0,0,1,Normal
-15.851813776347484,0.05304071046247181,False,Left Foot,Open Play,1,0,1,Half Volley
-12.806248474865694,0.06007385404000382,False,Left Foot,Open Play,1,0,3,Half Volley
-10.625441167311596,0.058847369037575224,False,Left Foot,Open Play,1,0,2,Half Volley
-8.143709228600938,0.05878520474378833,True,Head,Open Play,0,0,2,Diving Header
-63.41616513161293,0.11113677212842045,False,Left Foot,Open Play,0,0,1,Normal
-12.200000000000003,0.05967536621333517,False,Right Foot,Open Play,1,0,2,Normal
-11.216059914247962,0.05313983921015909,False,Left Foot,Open Play,0,1,2,Normal
-7.003570517957257,0.05712979090368093,False,Head,Open Play,0,0,1,Normal
-26.71198233003309,0.06667332326373614,False,Left Foot,Free Kick,0,0,0,Normal
-6.365532185135825,0.05510974111161083,False,Head,Open Play,0,0,2,Normal
-8.527602242131133,0.0590403849099649,False,Left Foot,Open Play,1,0,4,Volley
-21.60208323287363,0.06527106677462359,False,Right Foot,Open Play,0,0,1,Normal
-17.22004645754476,0.056292506268227786,False,Left Foot,Open Play,1,0,3,Half Volley
-27.386493021195694,0.04873905389528143,False,Left Foot,Free Kick,0,0,0,Normal
-8.280096617793781,0.054667636887398556,False,Left Foot,Open Play,1,0,2,Half Volley
-7.178439941937241,0.05759626228734692,False,Head,Open Play,0,0,3,Normal
-32.95087252259036,0.07260417694168247,False,Right Foot,Open Play,0,0,1,Normal
-27.181243532995328,0.059829257326796885,False,Left Foot,Open Play,0,1,4,Normal
-26.20019083899963,0.06968475292420016,False,Left Foot,Open Play,0,0,0,Normal
-8.96939239859646,0.05692879450231263,False,Head,Open Play,0,1,4,Normal
-31.56342820417326,0.06749928759984794,False,Left Foot,Open Play,0,1,1,Normal
-25.50705784679997,0.06538003559029927,False,Left Foot,Open Play,0,1,2,Normal
-19.188017094009478,0.06505910967748967,False,Left Foot,Open Play,0,0,3,Normal
-15.642570121306795,0.05666580767721758,False,Left Foot,Open Play,0,0,2,Normal
-9.633275663033837,0.05764627018069121,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825604,Javier Márquez Moreno,Granada,26.841944787961992,0.06553543440340986,False,Left Foot,Open Play,0,0,1,Normal
+3825604,Isaac Ajayi Success,Granada,29.300170647967228,0.05867932667751415,False,Left Foot,Open Play,0,0,1,Normal
+3825604,Álvaro Negredo Sánchez,Valencia,31.442964236852735,0.06845735127525467,False,Left Foot,Open Play,1,0,0,Half Volley
+3825604,Rubén Rochina Naixes,Granada,32.616713507035,0.07462882967055255,False,Left Foot,Open Play,0,0,2,Normal
+3825604,Rene Krhin,Granada,35.31713465161068,0.07135786515273676,False,Right Foot,Open Play,0,0,1,Normal
+3825604,Matheus Dória Macedo,Granada,15.851813776347484,0.05304071046247181,False,Left Foot,Open Play,1,0,1,Half Volley
+3825604,Javier Márquez Moreno,Granada,12.806248474865694,0.06007385404000382,False,Left Foot,Open Play,1,0,3,Half Volley
+3825604,Álvaro Negredo Sánchez,Valencia,10.625441167311596,0.058847369037575224,False,Left Foot,Open Play,1,0,2,Half Volley
+3825604,Shkodran Mustafi,Valencia,8.143709228600938,0.05878520474378833,True,Head,Open Play,0,0,2,Diving Header
+3825604,Rubén Rochina Naixes,Granada,63.41616513161293,0.11113677212842045,False,Left Foot,Open Play,0,0,1,Normal
+3825604,Youssef El-Arabi,Granada,12.200000000000003,0.05967536621333517,False,Right Foot,Open Play,1,0,2,Normal
+3825604,Álvaro Negredo Sánchez,Valencia,11.216059914247962,0.05313983921015909,False,Left Foot,Open Play,0,1,2,Normal
+3825604,Youssef El-Arabi,Granada,7.003570517957257,0.05712979090368093,False,Head,Open Play,0,0,1,Normal
+3825604,Rubén Rochina Naixes,Granada,26.71198233003309,0.06667332326373614,False,Left Foot,Free Kick,0,0,0,Normal
+3825604,Francisco Alcácer García,Valencia,6.365532185135825,0.05510974111161083,False,Head,Open Play,0,0,2,Normal
+3825604,Matheus Dória Macedo,Granada,8.527602242131133,0.0590403849099649,False,Left Foot,Open Play,1,0,4,Volley
+3825604,Javier Márquez Moreno,Granada,21.60208323287363,0.06527106677462359,False,Right Foot,Open Play,0,0,1,Normal
+3825604,Rúben Miguel Nunes Vezo,Valencia,17.22004645754476,0.056292506268227786,False,Left Foot,Open Play,1,0,3,Half Volley
+3825604,Rubén Rochina Naixes,Granada,27.386493021195694,0.04873905389528143,False,Left Foot,Free Kick,0,0,0,Normal
+3825604,Francisco Alcácer García,Valencia,8.280096617793781,0.054667636887398556,False,Left Foot,Open Play,1,0,2,Half Volley
+3825604,Shkodran Mustafi,Valencia,7.178439941937241,0.05759626228734692,False,Head,Open Play,0,0,3,Normal
+3825604,Enzo Nicolás Pérez,Valencia,32.95087252259036,0.07260417694168247,False,Right Foot,Open Play,0,0,1,Normal
+3825604,Youssef El-Arabi,Granada,27.181243532995328,0.059829257326796885,False,Left Foot,Open Play,0,1,4,Normal
+3825604,Cristiano Biraghi,Granada,26.20019083899963,0.06968475292420016,False,Left Foot,Open Play,0,0,0,Normal
+3825604,Álvaro Negredo Sánchez,Valencia,8.96939239859646,0.05692879450231263,False,Head,Open Play,0,1,4,Normal
+3825604,Sofiane Feghouli,Valencia,31.56342820417326,0.06749928759984794,False,Left Foot,Open Play,0,1,1,Normal
+3825604,Nicolás Federico López Alonso,Granada,25.50705784679997,0.06538003559029927,False,Left Foot,Open Play,0,1,2,Normal
+3825604,Nicolás Federico López Alonso,Granada,19.188017094009478,0.06505910967748967,False,Left Foot,Open Play,0,0,3,Normal
+3825604,Rodrigo Moreno Machado,Valencia,15.642570121306795,0.05666580767721758,False,Left Foot,Open Play,0,0,2,Normal
+3825604,Nicolás Federico López Alonso,Granada,9.633275663033837,0.05764627018069121,False,Head,Open Play,0,0,1,Normal

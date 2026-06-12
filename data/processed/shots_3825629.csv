@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.00927956355002,0.058011610842969324,False,Head,Open Play,0,0,1,Diving Header
-29.760712357065643,0.07249802241716659,False,Right Foot,Free Kick,0,0,0,Normal
-18.38831150486634,0.06156492286921045,False,Left Foot,Open Play,1,0,2,Normal
-22.77213209165976,0.06227610222661932,False,Left Foot,Open Play,0,1,3,Normal
-18.891532494744833,0.06495719960499792,False,Left Foot,Open Play,1,0,0,Half Volley
-21.341274563624356,0.058089763970856696,False,Left Foot,Open Play,1,0,1,Half Volley
-8.881441324469812,0.05893787007458492,False,Head,Open Play,0,1,4,Normal
-29.940774873072336,0.06617447954299965,False,Right Foot,Open Play,0,0,1,Normal
-27.370056631289607,0.05887798205302103,False,Right Foot,Open Play,0,0,1,Normal
-25.401771591761083,0.06548214944869495,True,Right Foot,Open Play,0,0,3,Normal
-11.403946685248924,0.060128230565085296,False,Left Foot,Open Play,1,0,1,Lob
-17.837040113202644,0.06431417065862359,False,Right Foot,Open Play,0,0,4,Normal
-18.398369492974094,0.06310575845858317,False,Right Foot,Open Play,1,0,1,Normal
-19.1637678967368,0.05766727804020475,False,Left Foot,Open Play,0,0,3,Normal
-38.38853995660685,0.06954288520727608,False,Right Foot,Open Play,1,0,1,Half Volley
-8.395236744726146,0.058618393177097515,False,Right Foot,Open Play,1,0,1,Normal
-23.461670869739866,0.0669168629666147,False,Right Foot,Open Play,0,0,1,Normal
-22.989780338228545,0.06688305375535371,True,Right Foot,Open Play,0,0,2,Normal
-31.933054974430487,0.06599865002607484,False,Right Foot,Open Play,0,0,1,Normal
-28.70435507026765,0.06752309572282603,False,Right Foot,Open Play,0,0,2,Half Volley
-31.488410566429046,0.05952998662122251,False,Right Foot,Open Play,0,0,2,Normal
-24.649746449000247,0.063427094684342,False,Right Foot,Open Play,0,0,2,Normal
-19.736261044078226,0.0595949891330288,False,Right Foot,Open Play,1,0,1,Normal
-23.119256043393786,0.06771974638548468,False,Right Foot,Open Play,0,0,2,Normal
-13.294359706281456,0.055100727318456146,True,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825629,Leonardo Carrilho Baptistão,Villarreal,7.00927956355002,0.058011610842969324,False,Head,Open Play,0,0,1,Diving Header
+3825629,Manuel Trigueros Muñoz,Villarreal,29.760712357065643,0.07249802241716659,False,Right Foot,Free Kick,0,0,0,Normal
+3825629,Manuel Trigueros Muñoz,Villarreal,18.38831150486634,0.06156492286921045,False,Left Foot,Open Play,1,0,2,Normal
+3825629,Manuel Trigueros Muñoz,Villarreal,22.77213209165976,0.06227610222661932,False,Left Foot,Open Play,0,1,3,Normal
+3825629,Manuel Trigueros Muñoz,Villarreal,18.891532494744833,0.06495719960499792,False,Left Foot,Open Play,1,0,0,Half Volley
+3825629,Mario Gaspar Pérez Martínez,Villarreal,21.341274563624356,0.058089763970856696,False,Left Foot,Open Play,1,0,1,Half Volley
+3825629,Tomás Pina Isla,Villarreal,8.881441324469812,0.05893787007458492,False,Head,Open Play,0,1,4,Normal
+3825629,Daniel Wass,Celta Vigo,29.940774873072336,0.06617447954299965,False,Right Foot,Open Play,0,0,1,Normal
+3825629,Mario Gaspar Pérez Martínez,Villarreal,27.370056631289607,0.05887798205302103,False,Right Foot,Open Play,0,0,1,Normal
+3825629,Fabián Ariel Orellana Valenzuela,Celta Vigo,25.401771591761083,0.06548214944869495,True,Right Foot,Open Play,0,0,3,Normal
+3825629,Pedro Pablo Hernández,Celta Vigo,11.403946685248924,0.060128230565085296,False,Left Foot,Open Play,1,0,1,Lob
+3825629,Manuel Agudo Durán,Celta Vigo,17.837040113202644,0.06431417065862359,False,Right Foot,Open Play,0,0,4,Normal
+3825629,Matías Nahuel Leiva Esquivel,Villarreal,18.398369492974094,0.06310575845858317,False,Right Foot,Open Play,1,0,1,Normal
+3825629,Augusto Matías Fernández,Celta Vigo,19.1637678967368,0.05766727804020475,False,Left Foot,Open Play,0,0,3,Normal
+3825629,Jonathan Castro Otto,Celta Vigo,38.38853995660685,0.06954288520727608,False,Right Foot,Open Play,1,0,1,Half Volley
+3825629,Iago Aspas Juncal,Celta Vigo,8.395236744726146,0.058618393177097515,False,Right Foot,Open Play,1,0,1,Normal
+3825629,Manuel Agudo Durán,Celta Vigo,23.461670869739866,0.0669168629666147,False,Right Foot,Open Play,0,0,1,Normal
+3825629,Denis Suárez Fernández,Villarreal,22.989780338228545,0.06688305375535371,True,Right Foot,Open Play,0,0,2,Normal
+3825629,Augusto Matías Fernández,Celta Vigo,31.933054974430487,0.06599865002607484,False,Right Foot,Open Play,0,0,1,Normal
+3825629,Manuel Trigueros Muñoz,Villarreal,28.70435507026765,0.06752309572282603,False,Right Foot,Open Play,0,0,2,Half Volley
+3825629,Daniel Wass,Celta Vigo,31.488410566429046,0.05952998662122251,False,Right Foot,Open Play,0,0,2,Normal
+3825629,Roberto Soldado Rillo,Villarreal,24.649746449000247,0.063427094684342,False,Right Foot,Open Play,0,0,2,Normal
+3825629,Manuel Agudo Durán,Celta Vigo,19.736261044078226,0.0595949891330288,False,Right Foot,Open Play,1,0,1,Normal
+3825629,Fabián Ariel Orellana Valenzuela,Celta Vigo,23.119256043393786,0.06771974638548468,False,Right Foot,Open Play,0,0,2,Normal
+3825629,Manuel Agudo Durán,Celta Vigo,13.294359706281456,0.055100727318456146,True,Right Foot,Open Play,0,0,1,Half Volley

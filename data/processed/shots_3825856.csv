@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.524855953373898,0.06046796703339664,True,Left Foot,Free Kick,0,0,0,Normal
-11.412712210513334,0.060498435755406484,False,Head,Open Play,0,0,2,Normal
-38.900000000000006,0.07258971125822518,False,Right Foot,Open Play,0,0,0,Normal
-11.733712115098104,0.06075760547206394,True,Left Foot,Open Play,1,1,2,Normal
-31.64364075134212,0.073723941101443,False,Left Foot,Open Play,0,0,1,Normal
-10.358571330062855,0.05999071272611564,True,Right Foot,Open Play,0,0,1,Normal
-10.430723848324236,0.06006505902731023,False,Left Foot,Open Play,1,0,4,Volley
-28.921445330411817,0.05383263555011736,False,Left Foot,Free Kick,0,0,0,Normal
-9.219544457292887,0.0555628425569167,True,Right Foot,Open Play,1,0,0,Normal
-7.202777242147645,0.057570549422194243,False,Head,Open Play,0,1,4,Normal
-7.22772439983706,0.05697260689185484,False,Head,Open Play,0,1,3,Normal
-11.75457357797381,0.05953408980350991,False,Left Foot,Open Play,1,0,2,Normal
-19.060167890131506,0.05625697258743123,False,Right Foot,Open Play,0,0,1,Normal
-13.606616037795732,0.06084972918818854,False,Head,Open Play,0,0,1,Diving Header
-5.608029957123975,0.054922448871367144,False,Right Foot,Open Play,0,0,3,Backheel
-34.22104615583808,0.07081861768056215,False,Right Foot,Open Play,0,0,2,Normal
-22.706827167175952,0.06530369312618794,False,Left Foot,Open Play,1,0,1,Normal
-31.237317426437244,0.05074835508986143,False,Left Foot,Open Play,0,0,0,Normal
-6.519202405202649,0.05719951359258945,False,Left Foot,Open Play,1,0,2,Half Volley
-4.964876634922564,0.05708861986382964,False,Head,Open Play,0,0,1,Normal
-13.078226179417452,0.05766788040995777,False,Left Foot,Open Play,1,0,2,Half Volley
-29.920728600754362,0.06484421516687888,False,Right Foot,Open Play,0,0,1,Normal
-23.769728648009426,0.06160232611903666,False,Right Foot,Open Play,0,0,0,Normal
-28.445034716097634,0.07141331266033668,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825856,James David Rodríguez Rubio,Real Madrid,19.524855953373898,0.06046796703339664,True,Left Foot,Free Kick,0,0,0,Normal
+3825856,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,11.412712210513334,0.060498435755406484,False,Head,Open Play,0,0,2,Normal
+3825856,Sergio Gontán Gallardo,Eibar,38.900000000000006,0.07258971125822518,False,Right Foot,Open Play,0,0,0,Normal
+3825856,Lucas Vázquez Iglesias,Real Madrid,11.733712115098104,0.06075760547206394,True,Left Foot,Open Play,1,1,2,Normal
+3825856,José Ignacio Peleteiro Ramallo,Eibar,31.64364075134212,0.073723941101443,False,Left Foot,Open Play,0,0,1,Normal
+3825856,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10.358571330062855,0.05999071272611564,True,Right Foot,Open Play,0,0,1,Normal
+3825856,Kléper Laveran Lima Ferreira,Real Madrid,10.430723848324236,0.06006505902731023,False,Left Foot,Open Play,1,0,4,Volley
+3825856,James David Rodríguez Rubio,Real Madrid,28.921445330411817,0.05383263555011736,False,Left Foot,Free Kick,0,0,0,Normal
+3825856,Jesé Rodríguez Ruiz,Real Madrid,9.219544457292887,0.0555628425569167,True,Right Foot,Open Play,1,0,0,Normal
+3825856,Aleksandar Pantić,Eibar,7.202777242147645,0.057570549422194243,False,Head,Open Play,0,1,4,Normal
+3825856,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,7.22772439983706,0.05697260689185484,False,Head,Open Play,0,1,3,Normal
+3825856,Francisco Román Alarcón Suárez,Real Madrid,11.75457357797381,0.05953408980350991,False,Left Foot,Open Play,1,0,2,Normal
+3825856,Sergio Enrich Ametller,Eibar,19.060167890131506,0.05625697258743123,False,Right Foot,Open Play,0,0,1,Normal
+3825856,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,13.606616037795732,0.06084972918818854,False,Head,Open Play,0,0,1,Diving Header
+3825856,Borja González Tomás,Eibar,5.608029957123975,0.054922448871367144,False,Right Foot,Open Play,0,0,3,Backheel
+3825856,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,34.22104615583808,0.07081861768056215,False,Right Foot,Open Play,0,0,2,Normal
+3825856,David Juncà Reñé,Eibar,22.706827167175952,0.06530369312618794,False,Left Foot,Open Play,1,0,1,Normal
+3825856,David Juncà Reñé,Eibar,31.237317426437244,0.05074835508986143,False,Left Foot,Open Play,0,0,0,Normal
+3825856,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,6.519202405202649,0.05719951359258945,False,Left Foot,Open Play,1,0,2,Half Volley
+3825856,Borja González Tomás,Eibar,4.964876634922564,0.05708861986382964,False,Head,Open Play,0,0,1,Normal
+3825856,Gonzalo Escalante,Eibar,13.078226179417452,0.05766788040995777,False,Left Foot,Open Play,1,0,2,Half Volley
+3825856,Danilo Luiz da Silva,Real Madrid,29.920728600754362,0.06484421516687888,False,Right Foot,Open Play,0,0,1,Normal
+3825856,Mateo Kovačić,Real Madrid,23.769728648009426,0.06160232611903666,False,Right Foot,Open Play,0,0,0,Normal
+3825856,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28.445034716097634,0.07141331266033668,False,Right Foot,Open Play,0,0,1,Normal

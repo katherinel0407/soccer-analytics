@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.24207010325549,0.059381587550077226,False,Left Foot,Open Play,1,0,1,Normal
-12.473972903610147,0.05561448073562966,False,Head,Open Play,0,0,0,Diving Header
-25.240047543536832,0.0684486627128052,False,Right Foot,Free Kick,0,0,0,Normal
-29.873399538720058,0.07177637932976044,False,Right Foot,Open Play,0,0,1,Normal
-15.100993344810131,0.05961193673733104,False,Left Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-17.901117283566414,0.06222623856291164,False,Right Foot,Open Play,1,0,3,Normal
-27.631865662672862,0.07058025405545493,False,Right Foot,Open Play,0,0,1,Normal
-24.74126108346137,0.06764820064673335,False,Left Foot,Open Play,0,0,2,Normal
-9.888377015466192,0.05386907384701614,False,Right Foot,Open Play,1,0,2,Normal
-12.53195914452325,0.058836999888338376,True,Head,Open Play,0,0,0,Diving Header
-25.253910588263356,0.06918372324986698,False,Right Foot,Open Play,0,0,1,Normal
-22.2784649381415,0.06715439784399457,False,Right Foot,Open Play,0,0,2,Normal
-34.72463102755737,0.0757672999751812,False,Right Foot,Open Play,0,0,0,Half Volley
-16.818144963104576,0.06047018166579622,False,Right Foot,Open Play,1,1,1,Normal
-28.144093518889537,0.05756140289851544,False,Left Foot,Open Play,1,0,2,Normal
-37.8874649455463,0.07819478606556775,False,Right Foot,Open Play,0,0,0,Normal
-19.523319389898838,0.05365583119761927,False,Left Foot,Open Play,0,0,2,Normal
-28.14000710731964,0.07114562529907256,False,Right Foot,Open Play,0,0,2,Normal
-13.086252328302406,0.06076483827549465,False,Head,Open Play,0,1,1,Normal
-15.239750654128171,0.06234325308474967,False,Left Foot,Open Play,0,0,1,Normal
-10.176934705499496,0.05980005136859741,False,Right Foot,Open Play,0,0,4,Half Volley
-21.489532335534896,0.05594699250192465,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266967,Lionel Andrés Messi Cuccittini,Barcelona,10.24207010325549,0.059381587550077226,False,Left Foot,Open Play,1,0,1,Normal
+266967,Ivan Rakitić,Barcelona,12.473972903610147,0.05561448073562966,False,Head,Open Play,0,0,0,Diving Header
+266967,Neymar da Silva Santos Junior,Barcelona,25.240047543536832,0.0684486627128052,False,Right Foot,Free Kick,0,0,0,Normal
+266967,Saúl Berjón Pérez,Eibar,29.873399538720058,0.07177637932976044,False,Right Foot,Open Play,0,0,1,Normal
+266967,Lionel Andrés Messi Cuccittini,Barcelona,15.100993344810131,0.05961193673733104,False,Left Foot,Open Play,0,0,2,Normal
+266967,Lionel Andrés Messi Cuccittini,Barcelona,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+266967,Jon Errasti Zabalete,Eibar,17.901117283566414,0.06222623856291164,False,Right Foot,Open Play,1,0,3,Normal
+266967,Javier Lara Grande,Eibar,27.631865662672862,0.07058025405545493,False,Right Foot,Open Play,0,0,1,Normal
+266967,Saúl Berjón Pérez,Eibar,24.74126108346137,0.06764820064673335,False,Left Foot,Open Play,0,0,2,Normal
+266967,Neymar da Silva Santos Junior,Barcelona,9.888377015466192,0.05386907384701614,False,Right Foot,Open Play,1,0,2,Normal
+266967,Lionel Andrés Messi Cuccittini,Barcelona,12.53195914452325,0.058836999888338376,True,Head,Open Play,0,0,0,Diving Header
+266967,Javier Lara Grande,Eibar,25.253910588263356,0.06918372324986698,False,Right Foot,Open Play,0,0,1,Normal
+266967,Neymar da Silva Santos Junior,Barcelona,22.2784649381415,0.06715439784399457,False,Right Foot,Open Play,0,0,2,Normal
+266967,Manuel del Moral Fernández,Eibar,34.72463102755737,0.0757672999751812,False,Right Foot,Open Play,0,0,0,Half Volley
+266967,Saúl Berjón Pérez,Eibar,16.818144963104576,0.06047018166579622,False,Right Foot,Open Play,1,1,1,Normal
+266967,Ander Capa Rodríguez,Eibar,28.144093518889537,0.05756140289851544,False,Left Foot,Open Play,1,0,2,Normal
+266967,Raúl Rodríguez Navas,Eibar,37.8874649455463,0.07819478606556775,False,Right Foot,Open Play,0,0,0,Normal
+266967,Rafael Alcântara do Nascimento,Barcelona,19.523319389898838,0.05365583119761927,False,Left Foot,Open Play,0,0,2,Normal
+266967,Javier Lara Grande,Eibar,28.14000710731964,0.07114562529907256,False,Right Foot,Open Play,0,0,2,Normal
+266967,Saúl Berjón Pérez,Eibar,13.086252328302406,0.06076483827549465,False,Head,Open Play,0,1,1,Normal
+266967,Pedro Eliezer Rodríguez Ledesma,Barcelona,15.239750654128171,0.06234325308474967,False,Left Foot,Open Play,0,0,1,Normal
+266967,Federico Piovaccari,Eibar,10.176934705499496,0.05980005136859741,False,Right Foot,Open Play,0,0,4,Half Volley
+266967,Xavier Hernández Creus,Barcelona,21.489532335534896,0.05594699250192465,False,Right Foot,Open Play,1,0,1,Normal

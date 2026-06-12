@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-45.604385754003964,0.08207026342669434,False,Left Foot,Open Play,0,0,0,Half Volley
-13.514806694880992,0.06164472637231885,False,Head,Open Play,0,1,1,Normal
-4.8507731342539655,0.05396722213472451,True,Right Foot,Open Play,1,0,1,Volley
-11.172287142747454,0.05521079238618236,False,Right Foot,Open Play,1,0,2,Normal
-14.641379716406506,0.05206772957911645,False,Right Foot,Open Play,1,0,1,Half Volley
-27.340263349134002,0.06857891576399108,False,Right Foot,Open Play,0,0,1,Normal
-21.023796041628643,0.0537309385598183,False,Right Foot,Open Play,0,0,1,Normal
-21.22686976452251,0.06642295635188701,False,Right Foot,Open Play,0,0,2,Normal
-20.988091861815352,0.06616157630002664,False,Right Foot,Open Play,0,0,4,Normal
-33.021508142421354,0.061890809150215,False,Right Foot,Open Play,1,0,2,Half Volley
-25.139013504909055,0.06479156098488317,False,Left Foot,Open Play,0,0,1,Normal
-10.131633629380799,0.05553057165991954,False,Right Foot,Open Play,1,0,1,Half Volley
-23.40085468524601,0.06734498101678241,False,Left Foot,Open Play,1,0,0,Half Volley
-11.706835610018615,0.056234007864737874,True,Right Foot,Open Play,1,0,2,Normal
-18.591395859375382,0.05413862372630443,False,Right Foot,Open Play,1,1,1,Normal
-25.17538480341462,0.06888259584722498,False,Right Foot,Open Play,1,0,2,Normal
-6.576473218982951,0.05514831319819791,False,Left Foot,Open Play,1,1,2,Normal
-17.246738822165774,0.05576709263420871,False,Left Foot,Open Play,0,0,1,Normal
-17.358859409534947,0.06399345562720751,True,Left Foot,Open Play,1,0,1,Normal
-11.280514172678476,0.05476061096272062,False,Head,Open Play,0,0,1,Normal
-11.164676439557034,0.05659752720222653,False,Right Foot,Open Play,1,0,2,Normal
-27.014810752622353,0.06994275175592407,False,Right Foot,Free Kick,0,0,0,Normal
-19.2634368688456,0.06427314810781422,False,Right Foot,Open Play,0,0,2,Normal
-25.84279396659735,0.06948881695576338,False,Left Foot,Open Play,0,0,2,Normal
-10.322790320451157,0.05605872551443525,False,Right Foot,Open Play,1,0,1,Normal
-22.120578654275757,0.06115174128788219,False,Left Foot,Open Play,0,0,3,Half Volley
-17.853010950537165,0.05726284538905838,False,Left Foot,Open Play,1,0,3,Normal
-27.24591712532357,0.059446920764930064,False,Left Foot,Open Play,0,0,1,Normal
-19.00657780874822,0.06495259187418327,False,Right Foot,Open Play,0,0,5,Normal
-15.147607071745682,0.06044524872974503,False,Left Foot,Open Play,0,0,3,Half Volley
-11.629703349613012,0.06014255754473021,False,Right Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895113,Maximilian Arnold,Wolfsburg,45.604385754003964,0.08207026342669434,False,Left Foot,Open Play,0,0,0,Half Volley
+3895113,Jonathan Tah,Bayer Leverkusen,13.514806694880992,0.06164472637231885,False,Head,Open Play,0,1,1,Normal
+3895113,Jeremie Frimpong,Bayer Leverkusen,4.8507731342539655,0.05396722213472451,True,Right Foot,Open Play,1,0,1,Volley
+3895113,Tiago Barreiros de Melo Tomás,Wolfsburg,11.172287142747454,0.05521079238618236,False,Right Foot,Open Play,1,0,2,Normal
+3895113,Tiago Barreiros de Melo Tomás,Wolfsburg,14.641379716406506,0.05206772957911645,False,Right Foot,Open Play,1,0,1,Half Volley
+3895113,Mattias Svanberg,Wolfsburg,27.340263349134002,0.06857891576399108,False,Right Foot,Open Play,0,0,1,Normal
+3895113,Ridle Bote Baku,Wolfsburg,21.023796041628643,0.0537309385598183,False,Right Foot,Open Play,0,0,1,Normal
+3895113,Amine Adli,Bayer Leverkusen,21.22686976452251,0.06642295635188701,False,Right Foot,Open Play,0,0,2,Normal
+3895113,Victor Okoh Boniface,Bayer Leverkusen,20.988091861815352,0.06616157630002664,False,Right Foot,Open Play,0,0,4,Normal
+3895113,Jonas Older Wind,Wolfsburg,33.021508142421354,0.061890809150215,False,Right Foot,Open Play,1,0,2,Half Volley
+3895113,Yannick Gerhardt,Wolfsburg,25.139013504909055,0.06479156098488317,False,Left Foot,Open Play,0,0,1,Normal
+3895113,Jonas Older Wind,Wolfsburg,10.131633629380799,0.05553057165991954,False,Right Foot,Open Play,1,0,1,Half Volley
+3895113,Mattias Svanberg,Wolfsburg,23.40085468524601,0.06734498101678241,False,Left Foot,Open Play,1,0,0,Half Volley
+3895113,Maxence Lacroix,Wolfsburg,11.706835610018615,0.056234007864737874,True,Right Foot,Open Play,1,0,2,Normal
+3895113,Jeremie Frimpong,Bayer Leverkusen,18.591395859375382,0.05413862372630443,False,Right Foot,Open Play,1,1,1,Normal
+3895113,Jonas Older Wind,Wolfsburg,25.17538480341462,0.06888259584722498,False,Right Foot,Open Play,1,0,2,Normal
+3895113,Victor Okoh Boniface,Bayer Leverkusen,6.576473218982951,0.05514831319819791,False,Left Foot,Open Play,1,1,2,Normal
+3895113,Victor Okoh Boniface,Bayer Leverkusen,17.246738822165774,0.05576709263420871,False,Left Foot,Open Play,0,0,1,Normal
+3895113,Alejandro Grimaldo García,Bayer Leverkusen,17.358859409534947,0.06399345562720751,True,Left Foot,Open Play,1,0,1,Normal
+3895113,Yannick Gerhardt,Wolfsburg,11.280514172678476,0.05476061096272062,False,Head,Open Play,0,0,1,Normal
+3895113,Victor Okoh Boniface,Bayer Leverkusen,11.164676439557034,0.05659752720222653,False,Right Foot,Open Play,1,0,2,Normal
+3895113,Mattias Svanberg,Wolfsburg,27.014810752622353,0.06994275175592407,False,Right Foot,Free Kick,0,0,0,Normal
+3895113,Florian Wirtz,Bayer Leverkusen,19.2634368688456,0.06427314810781422,False,Right Foot,Open Play,0,0,2,Normal
+3895113,Lovro Majer,Wolfsburg,25.84279396659735,0.06948881695576338,False,Left Foot,Open Play,0,0,2,Normal
+3895113,Jeremie Frimpong,Bayer Leverkusen,10.322790320451157,0.05605872551443525,False,Right Foot,Open Play,1,0,1,Normal
+3895113,Edmond Fayçal Tapsoba,Bayer Leverkusen,22.120578654275757,0.06115174128788219,False,Left Foot,Open Play,0,0,3,Half Volley
+3895113,Kevin Paredes,Wolfsburg,17.853010950537165,0.05726284538905838,False,Left Foot,Open Play,1,0,3,Normal
+3895113,Kevin Paredes,Wolfsburg,27.24591712532357,0.059446920764930064,False,Left Foot,Open Play,0,0,1,Normal
+3895113,Florian Wirtz,Bayer Leverkusen,19.00657780874822,0.06495259187418327,False,Right Foot,Open Play,0,0,5,Normal
+3895113,Jonas Older Wind,Wolfsburg,15.147607071745682,0.06044524872974503,False,Left Foot,Open Play,0,0,3,Half Volley
+3895113,Jonas Older Wind,Wolfsburg,11.629703349613012,0.06014255754473021,False,Right Foot,Open Play,0,0,4,Normal

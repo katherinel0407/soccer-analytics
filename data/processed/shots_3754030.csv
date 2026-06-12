@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.100711734758605,0.06460394567196562,False,Left Foot,Open Play,0,0,1,Normal
-25.748398008419866,0.06889735482802926,False,Right Foot,Open Play,0,0,1,Normal
-36.00472191254919,0.06360225797618783,False,Left Foot,Open Play,0,1,1,Normal
-7.3082145562373855,0.056874113906999445,False,Head,Open Play,0,1,4,Normal
-25.767033201360224,0.06748610454832533,False,Right Foot,Open Play,1,0,0,Normal
-21.780036730914848,0.0665935779039963,False,Right Foot,Open Play,0,0,3,Normal
-11.690166808048549,0.06011724758903039,False,Head,Open Play,0,1,2,Normal
-28.349426801965503,0.07121040593287412,False,Right Foot,Free Kick,0,0,0,Normal
-23.021728866442675,0.06045062781371243,False,Right Foot,Open Play,1,1,1,Half Volley
-6.902897942168924,0.05481803446804098,False,Head,Open Play,0,1,3,Normal
-17.5823775411632,0.06373633504548135,True,Left Foot,Open Play,1,0,1,Normal
-7.741446893184764,0.05292658370735143,False,Head,Open Play,0,0,1,Normal
-10.492378186092992,0.05724546414166197,False,Head,Open Play,0,1,6,Normal
-7.839005038906401,0.05620235600710257,False,Right Foot,Open Play,1,1,3,Backheel
-16.620770138594665,0.06357239885694936,False,Right Foot,Open Play,0,1,3,Normal
-22.408034273447555,0.06447893396673746,False,Right Foot,Open Play,0,1,1,Normal
-29.274562336608895,0.06519030787104352,False,Left Foot,Open Play,0,0,0,Normal
-30.486882425069304,0.05508995006118819,False,Left Foot,Free Kick,0,0,0,Normal
-24.78083937238608,0.0643084771245935,False,Right Foot,Open Play,1,0,1,Normal
-25.897104085206124,0.05757426021494721,False,Right Foot,Free Kick,0,0,0,Normal
-7.7524189773257275,0.058244116185581826,False,Left Foot,Open Play,1,1,1,Normal
-8.702298546935749,0.058301561964240516,False,Head,Open Play,0,0,2,Normal
-26.802425263397335,0.06984989997111965,False,Right Foot,Open Play,0,0,1,Normal
-23.413671220037244,0.052481032647962465,False,Right Foot,Open Play,0,0,2,Normal
-22.11085706163377,0.0666210097088039,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754030,José Manuel Jurado Marín,Watford,28.100711734758605,0.06460394567196562,False,Left Foot,Open Play,0,0,1,Normal
+3754030,Gerard Deulofeu Lázaro,Everton,25.748398008419866,0.06889735482802926,False,Right Foot,Open Play,0,0,1,Normal
+3754030,Romelu Lukaku Menama,Everton,36.00472191254919,0.06360225797618783,False,Left Foot,Open Play,0,1,1,Normal
+3754030,Miguel Ángel Britos Cabrera,Watford,7.3082145562373855,0.056874113906999445,False,Head,Open Play,0,1,4,Normal
+3754030,Ben Watson,Watford,25.767033201360224,0.06748610454832533,False,Right Foot,Open Play,1,0,0,Normal
+3754030,Ross Barkley,Everton,21.780036730914848,0.0665935779039963,False,Right Foot,Open Play,0,0,3,Normal
+3754030,Odion Jude Ighalo,Watford,11.690166808048549,0.06011724758903039,False,Head,Open Play,0,1,2,Normal
+3754030,José Manuel Jurado Marín,Watford,28.349426801965503,0.07121040593287412,False,Right Foot,Free Kick,0,0,0,Normal
+3754030,Etienne Capoue,Watford,23.021728866442675,0.06045062781371243,False,Right Foot,Open Play,1,1,1,Half Volley
+3754030,José Holebas,Watford,6.902897942168924,0.05481803446804098,False,Head,Open Play,0,1,3,Normal
+3754030,James McCarthy,Everton,17.5823775411632,0.06373633504548135,True,Left Foot,Open Play,1,0,1,Normal
+3754030,José Holebas,Watford,7.741446893184764,0.05292658370735143,False,Head,Open Play,0,0,1,Normal
+3754030,Séamus Coleman,Everton,10.492378186092992,0.05724546414166197,False,Head,Open Play,0,1,6,Normal
+3754030,Romelu Lukaku Menama,Everton,7.839005038906401,0.05620235600710257,False,Right Foot,Open Play,1,1,3,Backheel
+3754030,Aaron Lennon,Everton,16.620770138594665,0.06357239885694936,False,Right Foot,Open Play,0,1,3,Normal
+3754030,Aaron Lennon,Everton,22.408034273447555,0.06447893396673746,False,Right Foot,Open Play,0,1,1,Normal
+3754030,José Holebas,Watford,29.274562336608895,0.06519030787104352,False,Left Foot,Open Play,0,0,0,Normal
+3754030,José Holebas,Watford,30.486882425069304,0.05508995006118819,False,Left Foot,Free Kick,0,0,0,Normal
+3754030,Aaron Lennon,Everton,24.78083937238608,0.0643084771245935,False,Right Foot,Open Play,1,0,1,Normal
+3754030,Kevin Mirallas,Everton,25.897104085206124,0.05757426021494721,False,Right Foot,Free Kick,0,0,0,Normal
+3754030,Romelu Lukaku Menama,Everton,7.7524189773257275,0.058244116185581826,False,Left Foot,Open Play,1,1,1,Normal
+3754030,Romelu Lukaku Menama,Everton,8.702298546935749,0.058301561964240516,False,Head,Open Play,0,0,2,Normal
+3754030,Ben Watson,Watford,26.802425263397335,0.06984989997111965,False,Right Foot,Open Play,0,0,1,Normal
+3754030,Adlène Guédioura,Watford,23.413671220037244,0.052481032647962465,False,Right Foot,Open Play,0,0,2,Normal
+3754030,Odion Jude Ighalo,Watford,22.11085706163377,0.0666210097088039,False,Right Foot,Open Play,0,0,1,Normal

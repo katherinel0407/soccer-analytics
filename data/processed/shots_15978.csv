@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.196913286178944,0.06324780378047333,True,Left Foot,Open Play,1,0,1,Half Volley
-23.306007809146546,0.058339661172988985,False,Right Foot,Open Play,1,0,0,Normal
-9.835141076771603,0.05539136636669377,False,Head,Open Play,0,1,2,Normal
-8.29276793356718,0.058934588486408555,False,Right Foot,Open Play,0,0,6,Half Volley
-7.8587530817553946,0.0584335929057832,False,Head,Open Play,0,1,5,Normal
-15.532224567009061,0.06264452128903265,False,Left Foot,Open Play,1,0,1,Half Volley
-12.379418403139947,0.06101656320653855,False,Head,Open Play,0,0,2,Normal
-17.1058469536004,0.054271454633597546,False,Right Foot,Open Play,0,0,1,Normal
-22.48999777678958,0.06242931042624194,False,Left Foot,Open Play,0,1,2,Normal
-16.16230181626368,0.06197308679356597,False,Left Foot,Open Play,0,0,0,Normal
-13.775340286178055,0.061840030774037005,False,Right Foot,Open Play,0,0,1,Normal
-7.021395872616782,0.054652332957819946,False,Head,Open Play,0,1,5,Normal
-4.569463863518346,0.05591661385290637,True,Right Foot,Open Play,1,0,7,Volley
-24.552392958732156,0.06863904215230647,False,Right Foot,Open Play,0,0,1,Normal
-15.211837495845138,0.06118656430943428,True,Left Foot,Open Play,1,0,1,Half Volley
-12.010412149464308,0.05461151039691637,False,Left Foot,Open Play,1,0,2,Overhead Kick
-23.68649404196409,0.06053444587825958,False,Left Foot,Open Play,0,0,4,Normal
-10.404326023342412,0.05903119637153196,False,Head,Open Play,0,0,0,Normal
-13.472935834479438,0.05965849763875623,False,Right Foot,Open Play,0,0,4,Normal
-32.838087642248595,0.06633791713156799,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+15978,Aritz Elustondo Irribaria,Real Sociedad,16.196913286178944,0.06324780378047333,True,Left Foot,Open Play,1,0,1,Half Volley
+15978,Juan Miguel Jiménez López,Real Sociedad,23.306007809146546,0.058339661172988985,False,Right Foot,Open Play,1,0,0,Normal
+15978,Gerard Piqué Bernabéu,Barcelona,9.835141076771603,0.05539136636669377,False,Head,Open Play,0,1,2,Normal
+15978,Gerard Piqué Bernabéu,Barcelona,8.29276793356718,0.058934588486408555,False,Right Foot,Open Play,0,0,6,Half Volley
+15978,Ivan Rakitić,Barcelona,7.8587530817553946,0.0584335929057832,False,Head,Open Play,0,1,5,Normal
+15978,Mikel Oyarzabal Ugarte,Real Sociedad,15.532224567009061,0.06264452128903265,False,Left Foot,Open Play,1,0,1,Half Volley
+15978,Ousmane Dembélé,Barcelona,12.379418403139947,0.06101656320653855,False,Head,Open Play,0,0,2,Normal
+15978,Mikel Oyarzabal Ugarte,Real Sociedad,17.1058469536004,0.054271454633597546,False,Right Foot,Open Play,0,0,1,Normal
+15978,Lionel Andrés Messi Cuccittini,Barcelona,22.48999777678958,0.06242931042624194,False,Left Foot,Open Play,0,1,2,Normal
+15978,Theo Bernard François Hernández,Real Sociedad,16.16230181626368,0.06197308679356597,False,Left Foot,Open Play,0,0,0,Normal
+15978,Juan Miguel Jiménez López,Real Sociedad,13.775340286178055,0.061840030774037005,False,Right Foot,Open Play,0,0,1,Normal
+15978,Gerard Piqué Bernabéu,Barcelona,7.021395872616782,0.054652332957819946,False,Head,Open Play,0,1,5,Normal
+15978,Luis Alberto Suárez Díaz,Barcelona,4.569463863518346,0.05591661385290637,True,Right Foot,Open Play,1,0,7,Volley
+15978,Philippe Coutinho Correia,Barcelona,24.552392958732156,0.06863904215230647,False,Right Foot,Open Play,0,0,1,Normal
+15978,Ousmane Dembélé,Barcelona,15.211837495845138,0.06118656430943428,True,Left Foot,Open Play,1,0,1,Half Volley
+15978,Luis Alberto Suárez Díaz,Barcelona,12.010412149464308,0.05461151039691637,False,Left Foot,Open Play,1,0,2,Overhead Kick
+15978,Lionel Andrés Messi Cuccittini,Barcelona,23.68649404196409,0.06053444587825958,False,Left Foot,Open Play,0,0,4,Normal
+15978,Juan Miguel Jiménez López,Real Sociedad,10.404326023342412,0.05903119637153196,False,Head,Open Play,0,0,0,Normal
+15978,Luis Alberto Suárez Díaz,Barcelona,13.472935834479438,0.05965849763875623,False,Right Foot,Open Play,0,0,4,Normal
+15978,Mikel Merino Zazón,Real Sociedad,32.838087642248595,0.06633791713156799,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.189282558693737,0.05969856389150255,False,Right Foot,Open Play,1,0,2,Normal
-11.045361017187261,0.05952356516638149,False,Head,Open Play,0,1,1,Normal
-6.800735254367722,0.05671681862630264,False,Right Foot,Open Play,1,1,2,Normal
-5.4918120870983875,0.05750767628982689,False,Head,Open Play,0,0,7,Normal
-8.955445270895241,0.05926128155971686,False,Head,Open Play,0,1,2,Normal
-13.423859355639872,0.05988403625524982,False,Head,Open Play,0,1,1,Normal
-9.35200513259055,0.05940939503851151,False,Head,Open Play,0,1,4,Normal
-22.04381999563596,0.06654151890065607,False,Right Foot,Open Play,1,1,2,Half Volley
-12.940247292845683,0.054249337813365696,False,Right Foot,Open Play,1,1,2,Normal
-19.349418595916518,0.057615307234203904,False,Right Foot,Open Play,0,0,1,Normal
-20.28521629167409,0.053155507514305075,False,Left Foot,Open Play,0,1,2,Normal
-20.587617637793837,0.05660849066646286,False,Right Foot,Open Play,0,0,2,Normal
-8.605230967266358,0.05809503481736467,False,Right Foot,Open Play,1,0,3,Half Volley
-25.4566297847928,0.06302762025505229,False,Right Foot,Open Play,0,1,1,Normal
-22.380571931923456,0.052954707467877,False,Left Foot,Open Play,0,1,1,Normal
-27.26554602424092,0.06799306646219154,False,Right Foot,Open Play,0,0,1,Normal
-8.515867542417514,0.05764745316828656,False,Left Foot,Open Play,1,0,3,Normal
-10.5,0.058968792843929814,False,Right Foot,Open Play,1,1,2,Normal
-8.778382538941896,0.059141317709536685,False,Left Foot,Open Play,0,0,3,Normal
-31.648064711763976,0.06300414192497031,False,Right Foot,Open Play,0,1,1,Normal
-10.262553288533995,0.056271854184305525,False,Head,Open Play,0,0,5,Normal
-11.166467659918242,0.06014885535507236,True,Left Foot,Open Play,0,0,2,Normal
-16.096272860510286,0.06315642385474353,False,Right Foot,Open Play,1,0,1,Backheel
-36.10235449385539,0.07760450707283718,False,Right Foot,Free Kick,0,0,0,Normal
-31.352352383832372,0.050789704634953824,False,Right Foot,Open Play,0,0,1,Normal
-23.86482767589156,0.06805583631361455,False,Right Foot,Open Play,0,0,1,Normal
-32.34084105276175,0.060409905855571995,False,Right Foot,Open Play,0,1,2,Normal
-24.614223530308646,0.0683037103349328,False,Right Foot,Open Play,0,0,2,Normal
-12.149074038789959,0.057816674298960105,True,Right Foot,Open Play,1,0,3,Normal
-18.06792738528689,0.060800604047616884,False,Left Foot,Open Play,0,0,2,Normal
-26.14287665885298,0.05331879662524463,False,Right Foot,Open Play,0,0,1,Normal
-14.246754016266296,0.06203606322978397,False,Right Foot,Open Play,1,0,4,Volley
-12.133424908079329,0.06087885311500114,False,Left Foot,Open Play,0,0,3,Half Volley
-10.235721762533405,0.05849170909057229,False,Left Foot,Open Play,1,0,1,Normal
-23.753947040439407,0.04794501393609293,False,Left Foot,Free Kick,0,0,0,Normal
-18.14662503056698,0.06434646683973373,False,Right Foot,Open Play,1,0,1,Volley
-15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,0,Normal
-21.384340064636085,0.05272582397461037,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901169,Étienne Didot,Toulouse,18.189282558693737,0.05969856389150255,False,Right Foot,Open Play,1,0,2,Normal
+3901169,Steven Fletcher,Olympique de Marseille,11.045361017187261,0.05952356516638149,False,Head,Open Play,0,1,1,Normal
+3901169,Michy Batshuayi Tunga,Olympique de Marseille,6.800735254367722,0.05671681862630264,False,Right Foot,Open Play,1,1,2,Normal
+3901169,Karim Rekik,Olympique de Marseille,5.4918120870983875,0.05750767628982689,False,Head,Open Play,0,0,7,Normal
+3901169,Rémy Cabella,Olympique de Marseille,8.955445270895241,0.05926128155971686,False,Head,Open Play,0,1,2,Normal
+3901169,Steven Fletcher,Olympique de Marseille,13.423859355639872,0.05988403625524982,False,Head,Open Play,0,1,1,Normal
+3901169,Steven Fletcher,Olympique de Marseille,9.35200513259055,0.05940939503851151,False,Head,Open Play,0,1,4,Normal
+3901169,Rémy Cabella,Olympique de Marseille,22.04381999563596,0.06654151890065607,False,Right Foot,Open Play,1,1,2,Half Volley
+3901169,Wissam Ben Yedder,Toulouse,12.940247292845683,0.054249337813365696,False,Right Foot,Open Play,1,1,2,Normal
+3901169,Michy Batshuayi Tunga,Olympique de Marseille,19.349418595916518,0.057615307234203904,False,Right Foot,Open Play,0,0,1,Normal
+3901169,Wissam Ben Yedder,Toulouse,20.28521629167409,0.053155507514305075,False,Left Foot,Open Play,0,1,2,Normal
+3901169,Tongo Hamed Doumbia,Toulouse,20.587617637793837,0.05660849066646286,False,Right Foot,Open Play,0,0,2,Normal
+3901169,Wissam Ben Yedder,Toulouse,8.605230967266358,0.05809503481736467,False,Right Foot,Open Play,1,0,3,Half Volley
+3901169,Rémy Cabella,Olympique de Marseille,25.4566297847928,0.06302762025505229,False,Right Foot,Open Play,0,1,1,Normal
+3901169,Rémy Cabella,Olympique de Marseille,22.380571931923456,0.052954707467877,False,Left Foot,Open Play,0,1,1,Normal
+3901169,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,27.26554602424092,0.06799306646219154,False,Right Foot,Open Play,0,0,1,Normal
+3901169,Mauricio Aníbal Isla Isla,Olympique de Marseille,8.515867542417514,0.05764745316828656,False,Left Foot,Open Play,1,0,3,Normal
+3901169,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,10.5,0.058968792843929814,False,Right Foot,Open Play,1,1,2,Normal
+3901169,Steven Fletcher,Olympique de Marseille,8.778382538941896,0.059141317709536685,False,Left Foot,Open Play,0,0,3,Normal
+3901169,Jean-Daniel Akpa Akpro,Toulouse,31.648064711763976,0.06300414192497031,False,Right Foot,Open Play,0,1,1,Normal
+3901169,Karim Rekik,Olympique de Marseille,10.262553288533995,0.056271854184305525,False,Head,Open Play,0,0,5,Normal
+3901169,Wissam Ben Yedder,Toulouse,11.166467659918242,0.06014885535507236,True,Left Foot,Open Play,0,0,2,Normal
+3901169,Alexis Blin,Toulouse,16.096272860510286,0.06315642385474353,False,Right Foot,Open Play,1,0,1,Backheel
+3901169,Martin Braithwaite Christensen,Toulouse,36.10235449385539,0.07760450707283718,False,Right Foot,Free Kick,0,0,0,Normal
+3901169,Jean-Daniel Akpa Akpro,Toulouse,31.352352383832372,0.050789704634953824,False,Right Foot,Open Play,0,0,1,Normal
+3901169,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,23.86482767589156,0.06805583631361455,False,Right Foot,Open Play,0,0,1,Normal
+3901169,Alexis Blin,Toulouse,32.34084105276175,0.060409905855571995,False,Right Foot,Open Play,0,1,2,Normal
+3901169,Martin Braithwaite Christensen,Toulouse,24.614223530308646,0.0683037103349328,False,Right Foot,Open Play,0,0,2,Normal
+3901169,Steven Fletcher,Olympique de Marseille,12.149074038789959,0.057816674298960105,True,Right Foot,Open Play,1,0,3,Normal
+3901169,Yann Bodiger,Toulouse,18.06792738528689,0.060800604047616884,False,Left Foot,Open Play,0,0,2,Normal
+3901169,Martin Braithwaite Christensen,Toulouse,26.14287665885298,0.05331879662524463,False,Right Foot,Open Play,0,0,1,Normal
+3901169,Marcel Tisserand,Toulouse,14.246754016266296,0.06203606322978397,False,Right Foot,Open Play,1,0,4,Volley
+3901169,Óscar Guido Trejo,Toulouse,12.133424908079329,0.06087885311500114,False,Left Foot,Open Play,0,0,3,Half Volley
+3901169,Wissam Ben Yedder,Toulouse,10.235721762533405,0.05849170909057229,False,Left Foot,Open Play,1,0,1,Normal
+3901169,Romain Alessandrini,Olympique de Marseille,23.753947040439407,0.04794501393609293,False,Left Foot,Free Kick,0,0,0,Normal
+3901169,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,18.14662503056698,0.06434646683973373,False,Right Foot,Open Play,1,0,1,Volley
+3901169,Martin Braithwaite Christensen,Toulouse,15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,0,Normal
+3901169,Michy Batshuayi Tunga,Olympique de Marseille,21.384340064636085,0.05272582397461037,False,Right Foot,Open Play,0,0,1,Normal

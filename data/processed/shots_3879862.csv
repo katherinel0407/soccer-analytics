@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.786818454285559,0.05537152868983313,False,Head,Open Play,0,0,2,Normal
-23.5732899697942,0.06227991206025244,False,Right Foot,Open Play,0,1,1,Half Volley
-18.64966487634563,0.058021061025261854,False,Right Foot,Open Play,0,1,3,Normal
-18.2822318112423,0.06348629167212683,False,Left Foot,Open Play,1,1,2,Volley
-15.352524222420238,0.06276675764451428,True,Right Foot,Open Play,0,1,2,Normal
-20.56428943581567,0.06603582336999725,False,Right Foot,Open Play,0,0,3,Normal
-17.434735443934898,0.06313502370489285,False,Right Foot,Open Play,0,0,4,Half Volley
-21.763501556505105,0.05951534400461609,False,Left Foot,Open Play,1,1,3,Normal
-4.554119014694278,0.05604622271871473,True,Left Foot,Open Play,1,1,2,Normal
-25.234302050978144,0.06675112642851737,False,Right Foot,Open Play,0,1,1,Normal
-15.508062419270823,0.06127984733073197,False,Right Foot,Open Play,1,1,2,Volley
-35.38361202590827,0.06826725524326806,False,Left Foot,Free Kick,0,0,0,Normal
-15.118200951171405,0.0529491982563835,False,Right Foot,Open Play,1,1,2,Half Volley
-28.352072234670963,0.06222632080948839,False,Right Foot,Open Play,0,1,2,Normal
-38.54983787255142,0.07989665201270801,False,Left Foot,Open Play,0,0,0,Normal
-27.057346507002485,0.05883004858004242,False,Right Foot,Open Play,0,0,0,Normal
-28.44802277839358,0.07053786510504877,False,Left Foot,Open Play,0,1,1,Normal
-25.770137756713673,0.054855641075012,False,Right Foot,Open Play,1,0,1,Half Volley
-30.054117854297438,0.05335298652812351,False,Right Foot,Open Play,0,0,2,Normal
-20.002499843769527,0.05268941101572206,False,Right Foot,Open Play,0,1,1,Normal
-21.571277199090456,0.06045971664177272,False,Left Foot,Open Play,0,1,1,Normal
-11.822436297142813,0.06082204025625367,True,Right Foot,Open Play,1,0,1,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879862,Gonzalo Gerardo Higuaín,Napoli,14.786818454285559,0.05537152868983313,False,Head,Open Play,0,0,2,Normal
+3879862,Marek Hamšík,Napoli,23.5732899697942,0.06227991206025244,False,Right Foot,Open Play,0,1,1,Half Volley
+3879862,Gonzalo Gerardo Higuaín,Napoli,18.64966487634563,0.058021061025261854,False,Right Foot,Open Play,0,1,3,Normal
+3879862,Gonzalo Gerardo Higuaín,Napoli,18.2822318112423,0.06348629167212683,False,Left Foot,Open Play,1,1,2,Volley
+3879862,Gonzalo Gerardo Higuaín,Napoli,15.352524222420238,0.06276675764451428,True,Right Foot,Open Play,0,1,2,Normal
+3879862,Marco Benassi,Torino,20.56428943581567,0.06603582336999725,False,Right Foot,Open Play,0,0,3,Normal
+3879862,Marco Benassi,Torino,17.434735443934898,0.06313502370489285,False,Right Foot,Open Play,0,0,4,Half Volley
+3879862,Josef Alexander Martínez Mencia,Torino,21.763501556505105,0.05951534400461609,False,Left Foot,Open Play,1,1,3,Normal
+3879862,José María Callejón Bueno,Napoli,4.554119014694278,0.05604622271871473,True,Left Foot,Open Play,1,1,2,Normal
+3879862,Gonzalo Gerardo Higuaín,Napoli,25.234302050978144,0.06675112642851737,False,Right Foot,Open Play,0,1,1,Normal
+3879862,Lorenzo Insigne,Napoli,15.508062419270823,0.06127984733073197,False,Right Foot,Open Play,1,1,2,Volley
+3879862,Faouzi Ghoulam,Napoli,35.38361202590827,0.06826725524326806,False,Left Foot,Free Kick,0,0,0,Normal
+3879862,José María Callejón Bueno,Napoli,15.118200951171405,0.0529491982563835,False,Right Foot,Open Play,1,1,2,Half Volley
+3879862,Marek Hamšík,Napoli,28.352072234670963,0.06222632080948839,False,Right Foot,Open Play,0,1,2,Normal
+3879862,Faouzi Ghoulam,Napoli,38.54983787255142,0.07989665201270801,False,Left Foot,Open Play,0,0,0,Normal
+3879862,Lorenzo Insigne,Napoli,27.057346507002485,0.05883004858004242,False,Right Foot,Open Play,0,0,0,Normal
+3879862,Josef Alexander Martínez Mencia,Torino,28.44802277839358,0.07053786510504877,False,Left Foot,Open Play,0,1,1,Normal
+3879862,Marco Benassi,Torino,25.770137756713673,0.054855641075012,False,Right Foot,Open Play,1,0,1,Half Volley
+3879862,Davide Zappacosta,Torino,30.054117854297438,0.05335298652812351,False,Right Foot,Open Play,0,0,2,Normal
+3879862,Gonzalo Gerardo Higuaín,Napoli,20.002499843769527,0.05268941101572206,False,Right Foot,Open Play,0,1,1,Normal
+3879862,Lorenzo Insigne,Napoli,21.571277199090456,0.06045971664177272,False,Left Foot,Open Play,0,1,1,Normal
+3879862,Bruno da Silva Peres,Torino,11.822436297142813,0.06082204025625367,True,Right Foot,Open Play,1,0,1,Lob

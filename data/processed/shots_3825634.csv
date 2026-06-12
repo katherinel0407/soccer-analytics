@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.282813024781685,0.0568694819126187,True,Right Foot,Open Play,0,0,1,Normal
-11.421471008587297,0.05909230276171899,False,Head,Open Play,0,0,4,Normal
-29.24055403031892,0.05603161937236098,False,Right Foot,Open Play,1,1,3,Normal
-19.309324172533845,0.06302928153769632,False,Right Foot,Open Play,1,0,2,Half Volley
-34.93823120880621,0.07509592233600956,False,Left Foot,Open Play,0,0,0,Normal
-18.584133017173546,0.05302950165848748,False,Right Foot,Open Play,0,0,1,Normal
-20.07710138441304,0.06550741224584164,False,Left Foot,Open Play,1,0,0,Normal
-32.44456811239749,0.06324981712109506,False,Right Foot,Open Play,1,0,1,Volley
-36.74833329553873,0.06319218683396617,False,Right Foot,Open Play,1,0,0,Volley
-27.41842446239389,0.06158762574950141,False,Left Foot,Open Play,0,0,1,Normal
-13.6033084211158,0.05598621740132231,False,Right Foot,Open Play,1,1,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-38.2027485922152,0.06183883810372486,False,Left Foot,Open Play,0,1,2,Half Volley
-24.517748673155133,0.06397424845342621,False,Left Foot,Open Play,0,1,3,Normal
-7.905694150420948,0.0558925738844232,False,Head,Open Play,0,1,2,Normal
-27.877230852435826,0.05844315810441419,False,Right Foot,Open Play,0,0,1,Normal
-13.923002549737616,0.060093707195315114,False,Right Foot,Open Play,0,0,3,Half Volley
-15.370751445521458,0.0625262929122322,False,Left Foot,Open Play,1,0,2,Normal
-18.915602025841,0.06366513228947228,False,Right Foot,Open Play,0,0,2,Normal
-30.18907087010132,0.0724401549361044,False,Right Foot,Open Play,0,0,0,Normal
-26.60169167553071,0.06993898147747442,False,Right Foot,Open Play,1,0,0,Half Volley
-9.990495483208027,0.05978295744720568,False,Head,Open Play,0,1,1,Normal
-12.299999999999997,0.05971734709659449,False,Head,Open Play,0,1,1,Diving Header
-34.57759390125345,0.07524188276261652,False,Right Foot,Open Play,0,0,1,Half Volley
-29.74155342277871,0.0637233116836625,False,Left Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825634,Dimitri Foulquier,Granada,16.282813024781685,0.0568694819126187,True,Right Foot,Open Play,0,0,1,Normal
+3825634,David Rodríguez Lombán,Granada,11.421471008587297,0.05909230276171899,False,Head,Open Play,0,0,4,Normal
+3825634,Rubén Salvador Pérez Del Mármol,Granada,29.24055403031892,0.05603161937236098,False,Right Foot,Open Play,1,1,3,Normal
+3825634,Youssef El-Arabi,Granada,19.309324172533845,0.06302928153769632,False,Right Foot,Open Play,1,0,2,Half Volley
+3825634,Cristiano Biraghi,Granada,34.93823120880621,0.07509592233600956,False,Left Foot,Open Play,0,0,0,Normal
+3825634,Isaac Ajayi Success,Granada,18.584133017173546,0.05302950165848748,False,Right Foot,Open Play,0,0,1,Normal
+3825634,Francisco Medina Luna,Granada,20.07710138441304,0.06550741224584164,False,Left Foot,Open Play,1,0,0,Normal
+3825634,Rubén Salvador Pérez Del Mármol,Granada,32.44456811239749,0.06324981712109506,False,Right Foot,Open Play,1,0,1,Volley
+3825634,Rubén Salvador Pérez Del Mármol,Granada,36.74833329553873,0.06319218683396617,False,Right Foot,Open Play,1,0,0,Volley
+3825634,Cristiano Piccini,Real Betis,27.41842446239389,0.06158762574950141,False,Left Foot,Open Play,0,0,1,Normal
+3825634,Bruno González Cabrera,Real Betis,13.6033084211158,0.05598621740132231,False,Right Foot,Open Play,1,1,1,Normal
+3825634,Rubén Castro Martín,Real Betis,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3825634,Youssef El-Arabi,Granada,38.2027485922152,0.06183883810372486,False,Left Foot,Open Play,0,1,2,Half Volley
+3825634,Isaac Ajayi Success,Granada,24.517748673155133,0.06397424845342621,False,Left Foot,Open Play,0,1,3,Normal
+3825634,Diego Mainz García,Granada,7.905694150420948,0.0558925738844232,False,Head,Open Play,0,1,2,Normal
+3825634,Joaquín Sánchez Rodríguez,Real Betis,27.877230852435826,0.05844315810441419,False,Right Foot,Open Play,0,0,1,Normal
+3825634,Rubén Castro Martín,Real Betis,13.923002549737616,0.060093707195315114,False,Right Foot,Open Play,0,0,3,Half Volley
+3825634,Rubén Castro Martín,Real Betis,15.370751445521458,0.0625262929122322,False,Left Foot,Open Play,1,0,2,Normal
+3825634,Isaac Ajayi Success,Granada,18.915602025841,0.06366513228947228,False,Right Foot,Open Play,0,0,2,Normal
+3825634,Isaac Ajayi Success,Granada,30.18907087010132,0.0724401549361044,False,Right Foot,Open Play,0,0,0,Normal
+3825634,Rene Krhin,Granada,26.60169167553071,0.06993898147747442,False,Right Foot,Open Play,1,0,0,Half Volley
+3825634,Rubén Castro Martín,Real Betis,9.990495483208027,0.05978295744720568,False,Head,Open Play,0,1,1,Normal
+3825634,Youssef El-Arabi,Granada,12.299999999999997,0.05971734709659449,False,Head,Open Play,0,1,1,Diving Header
+3825634,Rubén Salvador Pérez Del Mármol,Granada,34.57759390125345,0.07524188276261652,False,Right Foot,Open Play,0,0,1,Half Volley
+3825634,Alfred John Momar N''Diaye,Real Betis,29.74155342277871,0.0637233116836625,False,Left Foot,Open Play,0,0,3,Half Volley

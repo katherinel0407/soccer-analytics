@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-39.96623574969252,0.07480127665471711,False,Right Foot,Open Play,0,0,1,Normal
-24.698178070456937,0.06011767254505569,False,Right Foot,Open Play,0,1,4,Normal
-29.06217472936257,0.060475169864294846,False,Right Foot,Open Play,0,0,1,Normal
-26.215453457836666,0.06123573860276533,False,Left Foot,Open Play,1,1,2,Normal
-26.667208327832142,0.06793987365926644,False,Left Foot,Open Play,1,0,1,Normal
-35.592836357896516,0.061938460700265284,False,Right Foot,Free Kick,0,0,0,Normal
-12.200409829181964,0.052959776622466884,False,Right Foot,Open Play,1,0,0,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-29.35574901105403,0.06127530370522292,False,Left Foot,Open Play,0,0,1,Normal
-11.894956914591996,0.058966922999918486,False,Head,Open Play,0,1,2,Normal
-9.924716620639611,0.058482156101715706,True,Head,Open Play,0,0,2,Normal
-33.01348209444135,0.07255332209938449,True,Right Foot,Free Kick,0,0,0,Normal
-30.00416637735499,0.07269281198116409,False,Left Foot,Open Play,0,0,0,Normal
-14.800337833982038,0.058151937359757856,False,Head,Open Play,0,1,2,Normal
-33.19578286469533,0.06724216720925595,False,Right Foot,Free Kick,0,0,0,Normal
-19.542006038275595,0.06534195743288965,False,Left Foot,Open Play,1,1,1,Normal
-8.139410298049853,0.0553799766366716,False,Head,Open Play,0,1,1,Normal
-13.90898989862312,0.06192011272193897,False,Head,Open Play,0,1,2,Normal
-12.092973166264777,0.06097591269886755,False,Left Foot,Open Play,1,0,3,Normal
-27.115493725912497,0.06768869199387036,False,Right Foot,Open Play,0,1,2,Normal
-13.80326048439281,0.05484073673472527,True,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68329,Ronaldo de Assis Moreira,Barcelona,39.96623574969252,0.07480127665471711,False,Right Foot,Open Play,0,0,1,Normal
+68329,Frédéric Oumar Kanouté,Sevilla,24.698178070456937,0.06011767254505569,False,Right Foot,Open Play,0,1,4,Normal
+68329,Daniel Alves da Silva,Sevilla,29.06217472936257,0.060475169864294846,False,Right Foot,Open Play,0,0,1,Normal
+68329,Lionel Andrés Messi Cuccittini,Barcelona,26.215453457836666,0.06123573860276533,False,Left Foot,Open Play,1,1,2,Normal
+68329,Sylvio Mendes Campos Junior,Barcelona,26.667208327832142,0.06793987365926644,False,Left Foot,Open Play,1,0,1,Normal
+68329,Ronaldo de Assis Moreira,Barcelona,35.592836357896516,0.061938460700265284,False,Right Foot,Free Kick,0,0,0,Normal
+68329,Luís Fabiano Clemente,Sevilla,12.200409829181964,0.052959776622466884,False,Right Foot,Open Play,1,0,0,Normal
+68329,Ronaldo de Assis Moreira,Barcelona,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+68329,Jesús Navas González,Sevilla,29.35574901105403,0.06127530370522292,False,Left Foot,Open Play,0,0,1,Normal
+68329,Renato Dirnei Florencio,Sevilla,11.894956914591996,0.058966922999918486,False,Head,Open Play,0,1,2,Normal
+68329,Frédéric Oumar Kanouté,Sevilla,9.924716620639611,0.058482156101715706,True,Head,Open Play,0,0,2,Normal
+68329,Ronaldo de Assis Moreira,Barcelona,33.01348209444135,0.07255332209938449,True,Right Foot,Free Kick,0,0,0,Normal
+68329,Adriano Correia Claro,Sevilla,30.00416637735499,0.07269281198116409,False,Left Foot,Open Play,0,0,0,Normal
+68329,Rafael Márquez Álvarez,Barcelona,14.800337833982038,0.058151937359757856,False,Head,Open Play,0,1,2,Normal
+68329,Daniel Alves da Silva,Sevilla,33.19578286469533,0.06724216720925595,False,Right Foot,Free Kick,0,0,0,Normal
+68329,Christian Bjørnshøj Poulsen,Sevilla,19.542006038275595,0.06534195743288965,False,Left Foot,Open Play,1,1,1,Normal
+68329,Eiður Smári Guðjohnsen,Barcelona,8.139410298049853,0.0553799766366716,False,Head,Open Play,0,1,1,Normal
+68329,Eiður Smári Guðjohnsen,Barcelona,13.90898989862312,0.06192011272193897,False,Head,Open Play,0,1,2,Normal
+68329,Lionel Andrés Messi Cuccittini,Barcelona,12.092973166264777,0.06097591269886755,False,Left Foot,Open Play,1,0,3,Normal
+68329,Adriano Correia Claro,Sevilla,27.115493725912497,0.06768869199387036,False,Right Foot,Open Play,0,1,2,Normal
+68329,Lionel Andrés Messi Cuccittini,Barcelona,13.80326048439281,0.05484073673472527,True,Right Foot,Open Play,0,0,2,Normal

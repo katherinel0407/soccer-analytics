@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.88603895694872,0.061316767719288304,False,Left Foot,Open Play,1,0,3,Half Volley
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-34.10718399399164,0.06958318536786247,False,Left Foot,Free Kick,0,0,0,Normal
-13.416407864998739,0.06165241593599438,False,Right Foot,Open Play,0,0,3,Normal
-30.042137074449283,0.07272100217088277,False,Left Foot,Open Play,0,0,1,Normal
-9.687620966986685,0.059573868080783514,False,Head,Open Play,0,1,2,Normal
-10.11780608630151,0.05859757372779741,False,Head,Open Play,0,1,2,Normal
-29.805033132006415,0.06912607836956118,False,Right Foot,Open Play,0,1,1,Normal
-31.44550842330268,0.06271384911777533,False,Right Foot,Open Play,0,0,1,Normal
-24.98039231077046,0.06867049599787704,False,Right Foot,Open Play,0,0,1,Normal
-11.236102527122116,0.06031617076440564,True,Head,Open Play,0,0,1,Normal
-26.742101637679866,0.06956721275870453,False,Right Foot,Open Play,1,1,2,Half Volley
-33.873293314940604,0.07447915474040703,False,Left Foot,Open Play,0,1,2,Normal
-11.482595525402782,0.054081426144377706,False,Right Foot,Open Play,1,0,0,Half Volley
-8.886506625215564,0.05922854132116194,True,Left Foot,Open Play,0,0,1,Normal
-36.431442463893745,0.07379042948506484,False,Right Foot,Free Kick,0,0,1,Normal
-5.4230987451825,0.05612087838163136,True,Right Foot,Open Play,1,0,2,Normal
-6.519202405202649,0.05751595067448574,False,Head,Open Play,0,1,2,Normal
-12.972663566130125,0.05564021757849598,False,Head,Open Play,0,0,3,Normal
-19.642046736529267,0.052751943464718794,False,Right Foot,Open Play,0,1,1,Half Volley
-17.804493814764857,0.053918289101815335,False,Right Foot,Open Play,0,1,2,Normal
-30.09800657850948,0.059248339921357605,False,Left Foot,Open Play,0,0,1,Normal
-31.723808094237356,0.06707329334531031,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890316,Thomas Müller,Bayern Munich,12.88603895694872,0.061316767719288304,False,Left Foot,Open Play,1,0,3,Half Volley
+3890316,Thomas Müller,Bayern Munich,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3890316,David Olatukunbo Alaba,Bayern Munich,34.10718399399164,0.06958318536786247,False,Left Foot,Free Kick,0,0,0,Normal
+3890316,Yoshinori Muto,FSV Mainz 05,13.416407864998739,0.06165241593599438,False,Right Foot,Open Play,0,0,3,Normal
+3890316,Douglas Costa de Souza,Bayern Munich,30.042137074449283,0.07272100217088277,False,Left Foot,Open Play,0,0,1,Normal
+3890316,Kingsley Coman,Bayern Munich,9.687620966986685,0.059573868080783514,False,Head,Open Play,0,1,2,Normal
+3890316,Pablo Ezequiel De Blasis,FSV Mainz 05,10.11780608630151,0.05859757372779741,False,Head,Open Play,0,1,2,Normal
+3890316,Robert Lewandowski,Bayern Munich,29.805033132006415,0.06912607836956118,False,Right Foot,Open Play,0,1,1,Normal
+3890316,Thomas Müller,Bayern Munich,31.44550842330268,0.06271384911777533,False,Right Foot,Open Play,0,0,1,Normal
+3890316,Kingsley Coman,Bayern Munich,24.98039231077046,0.06867049599787704,False,Right Foot,Open Play,0,0,1,Normal
+3890316,Robert Lewandowski,Bayern Munich,11.236102527122116,0.06031617076440564,True,Head,Open Play,0,0,1,Normal
+3890316,Robert Lewandowski,Bayern Munich,26.742101637679866,0.06956721275870453,False,Right Foot,Open Play,1,1,2,Half Volley
+3890316,Douglas Costa de Souza,Bayern Munich,33.873293314940604,0.07447915474040703,False,Left Foot,Open Play,0,1,2,Normal
+3890316,Kingsley Coman,Bayern Munich,11.482595525402782,0.054081426144377706,False,Right Foot,Open Play,1,0,0,Half Volley
+3890316,Robert Lewandowski,Bayern Munich,8.886506625215564,0.05922854132116194,True,Left Foot,Open Play,0,0,1,Normal
+3890316,Thiago Alcântara do Nascimento,Bayern Munich,36.431442463893745,0.07379042948506484,False,Right Foot,Free Kick,0,0,1,Normal
+3890316,Kingsley Coman,Bayern Munich,5.4230987451825,0.05612087838163136,True,Right Foot,Open Play,1,0,2,Normal
+3890316,Yoshinori Muto,FSV Mainz 05,6.519202405202649,0.05751595067448574,False,Head,Open Play,0,1,2,Normal
+3890316,Pablo Ezequiel De Blasis,FSV Mainz 05,12.972663566130125,0.05564021757849598,False,Head,Open Play,0,0,3,Normal
+3890316,Christian Clemens,FSV Mainz 05,19.642046736529267,0.052751943464718794,False,Right Foot,Open Play,0,1,1,Half Volley
+3890316,Christian Clemens,FSV Mainz 05,17.804493814764857,0.053918289101815335,False,Right Foot,Open Play,0,1,2,Normal
+3890316,Jérôme Boateng,Bayern Munich,30.09800657850948,0.059248339921357605,False,Left Foot,Open Play,0,0,1,Normal
+3890316,David Olatukunbo Alaba,Bayern Munich,31.723808094237356,0.06707329334531031,False,Left Foot,Open Play,0,0,0,Normal

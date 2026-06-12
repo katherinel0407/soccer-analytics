@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.95078286820704,0.06722970199394053,False,Right Foot,Open Play,0,0,3,Normal
-18.984203960134856,0.06469729232060732,False,Left Foot,Open Play,0,0,4,Normal
-19.131649170941845,0.06314782247867605,False,Right Foot,Open Play,1,1,2,Normal
-24.29897117163605,0.06674339030695732,True,Left Foot,Free Kick,0,0,0,Normal
-11.985407794480759,0.06061709228588111,False,Right Foot,Open Play,0,0,3,Normal
-10.841586599755592,0.058016819248602414,True,Head,Open Play,0,0,6,Normal
-26.480181268261735,0.06029506678230558,False,Right Foot,Open Play,1,0,0,Normal
-28.052985580861083,0.07079291722980859,False,Right Foot,Open Play,0,0,1,Normal
-18.38831150486634,0.06465767188156543,False,Right Foot,Open Play,0,0,4,Normal
-24.162988225796905,0.06752695315888144,False,Left Foot,Open Play,0,1,1,Normal
-6.628725367670622,0.05808004294913429,True,Head,Open Play,0,0,1,Normal
-16.70029939851379,0.06359223806819206,False,Left Foot,Open Play,1,0,2,Volley
-4.036087214122115,0.05500325360137724,True,Right Foot,Open Play,1,0,2,Normal
-17.593464695732905,0.06329870359097829,True,Left Foot,Open Play,0,0,2,Normal
-29.13588852257642,0.07103048364878338,False,Left Foot,Open Play,0,1,2,Normal
-19.94818287463798,0.06547514604504587,False,Left Foot,Open Play,0,0,1,Half Volley
-17.146719802924405,0.06388726909897487,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+265835,Ivan Rakitić,Barcelona,23.95078286820704,0.06722970199394053,False,Right Foot,Open Play,0,0,3,Normal
+265835,Lionel Andrés Messi Cuccittini,Barcelona,18.984203960134856,0.06469729232060732,False,Left Foot,Open Play,0,0,4,Normal
+265835,Neymar da Silva Santos Junior,Barcelona,19.131649170941845,0.06314782247867605,False,Right Foot,Open Play,1,1,2,Normal
+265835,Lionel Andrés Messi Cuccittini,Barcelona,24.29897117163605,0.06674339030695732,True,Left Foot,Free Kick,0,0,0,Normal
+265835,Neymar da Silva Santos Junior,Barcelona,11.985407794480759,0.06061709228588111,False,Right Foot,Open Play,0,0,3,Normal
+265835,Neymar da Silva Santos Junior,Barcelona,10.841586599755592,0.058016819248602414,True,Head,Open Play,0,0,6,Normal
+265835,Sergio Busquets i Burgos,Barcelona,26.480181268261735,0.06029506678230558,False,Right Foot,Open Play,1,0,0,Normal
+265835,Ivan Rakitić,Barcelona,28.052985580861083,0.07079291722980859,False,Right Foot,Open Play,0,0,1,Normal
+265835,Víctor Machín Pérez,Sevilla,18.38831150486634,0.06465767188156543,False,Right Foot,Open Play,0,0,4,Normal
+265835,Grzegorz Krychowiak,Sevilla,24.162988225796905,0.06752695315888144,False,Left Foot,Open Play,0,1,1,Normal
+265835,Ivan Rakitić,Barcelona,6.628725367670622,0.05808004294913429,True,Head,Open Play,0,0,1,Normal
+265835,Jordi Alba Ramos,Barcelona,16.70029939851379,0.06359223806819206,False,Left Foot,Open Play,1,0,2,Volley
+265835,Lionel Andrés Messi Cuccittini,Barcelona,4.036087214122115,0.05500325360137724,True,Right Foot,Open Play,1,0,2,Normal
+265835,Lionel Andrés Messi Cuccittini,Barcelona,17.593464695732905,0.06329870359097829,True,Left Foot,Open Play,0,0,2,Normal
+265835,Adriano Correia Claro,Barcelona,29.13588852257642,0.07103048364878338,False,Left Foot,Open Play,0,1,2,Normal
+265835,Neymar da Silva Santos Junior,Barcelona,19.94818287463798,0.06547514604504587,False,Left Foot,Open Play,0,0,1,Half Volley
+265835,Lionel Andrés Messi Cuccittini,Barcelona,17.146719802924405,0.06388726909897487,False,Left Foot,Open Play,0,0,1,Normal

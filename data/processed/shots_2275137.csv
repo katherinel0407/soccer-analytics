@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.567131231461184,0.05956314490390403,False,Left Foot,Open Play,1,0,3,Volley
-29.471681322924212,0.07223097809915585,False,Left Foot,Open Play,0,0,1,Normal
-26.5452443951831,0.0678637862706649,False,Right Foot,Open Play,0,0,1,Half Volley
-21.36375435170513,0.05910870783650241,False,Right Foot,Open Play,1,0,4,Normal
-17.279178221200226,0.06311687134480354,False,Right Foot,Open Play,0,1,3,Normal
-10.621205204683694,0.0595174094717319,False,Right Foot,Open Play,0,0,3,Normal
-11.52475596270914,0.06028292282751856,False,Right Foot,Open Play,1,0,1,Half Volley
-11.860016863394419,0.060391188855391076,False,Head,Open Play,0,1,2,Normal
-12.841339493993605,0.06135852455343077,False,Head,Open Play,0,1,2,Normal
-10.778218776773826,0.05688597989319851,False,Right Foot,Open Play,1,0,1,Volley
-32.83245345690754,0.061240117343030136,False,Left Foot,Open Play,0,0,1,Normal
-32.100623046912965,0.06254675144141361,False,Right Foot,Open Play,0,0,2,Normal
-27.84600509947522,0.07100826800423901,False,Left Foot,Open Play,0,0,1,Normal
-7.764663547121668,0.05750652811486689,False,Right Foot,Open Play,1,0,2,Volley
-34.77944795421572,0.07294883088785988,False,Left Foot,Open Play,0,0,1,Normal
-13.935924798878622,0.06001782429990528,False,Left Foot,Open Play,1,0,4,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-25.70311265197272,0.06597658228730019,False,Right Foot,Open Play,1,0,1,Normal
-5.768882040742382,0.05764688991725916,True,Right Foot,Open Play,0,1,6,Normal
-22.770595073471405,0.06683093614742712,False,Left Foot,Open Play,1,1,2,Normal
-14.361058456812994,0.059211719940210426,False,Right Foot,Open Play,0,0,2,Half Volley
-14.980654191322882,0.06200732721538202,False,Left Foot,Open Play,0,1,1,Normal
-7.424284477308229,0.056295074169697694,False,Head,Open Play,0,0,2,Normal
-32.05760440207596,0.06138777438846625,False,Right Foot,Open Play,0,0,0,Normal
-25.04396134799765,0.058811572509354086,True,Right Foot,Free Kick,0,0,0,Normal
-13.884163640637492,0.05597899638617607,False,Right Foot,Open Play,0,0,1,Normal
-18.15736765062601,0.0581272439165511,False,Left Foot,Open Play,1,1,2,Volley
-19.30802941783547,0.060648495001002306,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275137,Jackie Groenen,Manchester United,9.567131231461184,0.05956314490390403,False,Left Foot,Open Play,1,0,3,Volley
+2275137,Hayley Ladd,Manchester United,29.471681322924212,0.07223097809915585,False,Left Foot,Open Play,0,0,1,Normal
+2275137,Jessica Sigsworth,Manchester United,26.5452443951831,0.0678637862706649,False,Right Foot,Open Play,0,0,1,Half Volley
+2275137,Hayley Ladd,Manchester United,21.36375435170513,0.05910870783650241,False,Right Foot,Open Play,1,0,4,Normal
+2275137,Jackie Groenen,Manchester United,17.279178221200226,0.06311687134480354,False,Right Foot,Open Play,0,1,3,Normal
+2275137,Jane Ross,Manchester United,10.621205204683694,0.0595174094717319,False,Right Foot,Open Play,0,0,3,Normal
+2275137,Jackie Groenen,Manchester United,11.52475596270914,0.06028292282751856,False,Right Foot,Open Play,1,0,1,Half Volley
+2275137,Jane Ross,Manchester United,11.860016863394419,0.060391188855391076,False,Head,Open Play,0,1,2,Normal
+2275137,Leah Galton,Manchester United,12.841339493993605,0.06135852455343077,False,Head,Open Play,0,1,2,Normal
+2275137,Rianna Dean,Tottenham Hotspur Women,10.778218776773826,0.05688597989319851,False,Right Foot,Open Play,1,0,1,Volley
+2275137,Josie Green,Tottenham Hotspur Women,32.83245345690754,0.061240117343030136,False,Left Foot,Open Play,0,0,1,Normal
+2275137,Gemma Suzanne Davison,Tottenham Hotspur Women,32.100623046912965,0.06254675144141361,False,Right Foot,Open Play,0,0,2,Normal
+2275137,Jane Ross,Manchester United,27.84600509947522,0.07100826800423901,False,Left Foot,Open Play,0,0,1,Normal
+2275137,Hayley Ladd,Manchester United,7.764663547121668,0.05750652811486689,False,Right Foot,Open Play,1,0,2,Volley
+2275137,Katie Zelem,Manchester United,34.77944795421572,0.07294883088785988,False,Left Foot,Open Play,0,0,1,Normal
+2275137,Rianna Dean,Tottenham Hotspur Women,13.935924798878622,0.06001782429990528,False,Left Foot,Open Play,1,0,4,Normal
+2275137,Katie Zelem,Manchester United,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+2275137,Hayley Ladd,Manchester United,25.70311265197272,0.06597658228730019,False,Right Foot,Open Play,1,0,1,Normal
+2275137,Jessica Sigsworth,Manchester United,5.768882040742382,0.05764688991725916,True,Right Foot,Open Play,0,1,6,Normal
+2275137,Emma Mukandi,Tottenham Hotspur Women,22.770595073471405,0.06683093614742712,False,Left Foot,Open Play,1,1,2,Normal
+2275137,Kit Graham,Tottenham Hotspur Women,14.361058456812994,0.059211719940210426,False,Right Foot,Open Play,0,0,2,Half Volley
+2275137,Rianna Dean,Tottenham Hotspur Women,14.980654191322882,0.06200732721538202,False,Left Foot,Open Play,0,1,1,Normal
+2275137,Jessica Sigsworth,Manchester United,7.424284477308229,0.056295074169697694,False,Head,Open Play,0,0,2,Normal
+2275137,Kirsty Smith,Manchester United,32.05760440207596,0.06138777438846625,False,Right Foot,Open Play,0,0,0,Normal
+2275137,Katie Zelem,Manchester United,25.04396134799765,0.058811572509354086,True,Right Foot,Free Kick,0,0,0,Normal
+2275137,Kirsty Hanson,Manchester United,13.884163640637492,0.05597899638617607,False,Right Foot,Open Play,0,0,1,Normal
+2275137,Kit Graham,Tottenham Hotspur Women,18.15736765062601,0.0581272439165511,False,Left Foot,Open Play,1,1,2,Volley
+2275137,Leah Galton,Manchester United,19.30802941783547,0.060648495001002306,False,Left Foot,Open Play,1,0,1,Normal

@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.94733099948663,0.052663298927102614,False,Left Foot,Open Play,0,0,3,Normal
-14.1718029904455,0.0612538226806132,False,Right Foot,Open Play,0,0,3,Normal
-32.31361941968123,0.0569171638511801,False,Left Foot,Open Play,1,0,1,Half Volley
-24.358366119261774,0.05946758810790666,False,Left Foot,Open Play,0,0,2,Normal
-22.939267643061314,0.06737484858441094,False,Right Foot,Open Play,1,0,2,Half Volley
-39.4974682732957,0.07986413633008549,False,Right Foot,Free Kick,0,0,0,Normal
-7.824321056807416,0.05561551621157739,True,Head,Open Play,0,0,4,Normal
-39.98049524455644,0.07867208473353765,False,Left Foot,Open Play,0,0,0,Normal
-18.383144453547654,0.05791350692517706,False,Right Foot,Open Play,1,0,1,Normal
-34.809768743845446,0.059941881573977056,False,Right Foot,Open Play,1,0,0,Normal
-12.18072247446759,0.06013242836978652,False,Head,Open Play,0,0,2,Normal
-25.401771591761083,0.06548214944869495,False,Left Foot,Open Play,0,0,2,Normal
-8.823831367382311,0.05898677389894002,False,Right Foot,Open Play,0,0,2,Normal
-15.829403020960706,0.061949948597435966,False,Left Foot,Open Play,1,1,1,Half Volley
-22.748406537601706,0.06285754306018287,False,Left Foot,Open Play,0,1,1,Normal
-16.42589419179364,0.05369883910285331,True,Right Foot,Open Play,0,0,1,Normal
-23.434163095788165,0.05871680926007182,False,Right Foot,Open Play,0,0,3,Normal
-9.98248466064436,0.059321341769541625,False,Right Foot,Open Play,1,0,3,Half Volley
-24.73701679669559,0.0664947164370915,False,Right Foot,Open Play,0,0,3,Normal
-13.591173606425608,0.06181726119345122,True,Left Foot,Open Play,0,1,2,Normal
-32.53013987058772,0.07332685564120806,False,Left Foot,Open Play,1,0,0,Normal
-12.106196760337244,0.06015970670620941,True,Left Foot,Open Play,1,0,5,Half Volley
-20.825465180878908,0.06601277737670655,False,Right Foot,Open Play,1,0,3,Normal
-28.885463472134212,0.07133451650441226,False,Left Foot,Open Play,0,0,1,Normal
-36.59904370335378,0.07694724423898708,False,Left Foot,Open Play,1,0,1,Normal
-21.874185699129463,0.06473209846748719,False,Right Foot,Open Play,0,0,2,Normal
-22.181523843054602,0.06318511518566573,False,Right Foot,Open Play,1,0,1,Normal
-19.030764566879594,0.0650425892023711,False,Left Foot,Open Play,0,0,2,Normal
-7.516648189186454,0.057591774906596345,False,Head,Open Play,0,1,3,Normal
-17.92930561957155,0.06352039032392576,False,Left Foot,Open Play,1,1,2,Half Volley
-30.04862725649875,0.07234042492130849,False,Right Foot,Open Play,0,0,1,Normal
-19.387624919004395,0.055220692484486036,False,Right Foot,Open Play,0,0,1,Normal
-22.840534144367112,0.06697851075446622,False,Right Foot,Open Play,0,0,2,Normal
-29.760712357065646,0.07233796041907059,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912493,Maëlle Antonia Garbino,Juventus W,22.94733099948663,0.052663298927102614,False,Left Foot,Open Play,0,0,3,Normal
+3912493,Evelyne Viens,AS Roma W,14.1718029904455,0.0612538226806132,False,Right Foot,Open Play,0,0,3,Normal
+3912493,Arianna Caruso,Juventus W,32.31361941968123,0.0569171638511801,False,Left Foot,Open Play,1,0,1,Half Volley
+3912493,Julia Angela Grosso,Juventus W,24.358366119261774,0.05946758810790666,False,Left Foot,Open Play,0,0,2,Normal
+3912493,Valentina Giacinti,AS Roma W,22.939267643061314,0.06737484858441094,False,Right Foot,Open Play,1,0,2,Half Volley
+3912493,Manuela Giugliano,AS Roma W,39.4974682732957,0.07986413633008549,False,Right Foot,Free Kick,0,0,0,Normal
+3912493,Manuela Giugliano,AS Roma W,7.824321056807416,0.05561551621157739,True,Head,Open Play,0,0,4,Normal
+3912493,Estelle Cascarino,Juventus W,39.98049524455644,0.07867208473353765,False,Left Foot,Open Play,0,0,0,Normal
+3912493,Cristiana Girelli,Juventus W,18.383144453547654,0.05791350692517706,False,Right Foot,Open Play,1,0,1,Normal
+3912493,Arianna Caruso,Juventus W,34.809768743845446,0.059941881573977056,False,Right Foot,Open Play,1,0,0,Normal
+3912493,Cristiana Girelli,Juventus W,12.18072247446759,0.06013242836978652,False,Head,Open Play,0,0,2,Normal
+3912493,Barbara Bonansea,Juventus W,25.401771591761083,0.06548214944869495,False,Left Foot,Open Play,0,0,2,Normal
+3912493,Lineth Beerensteyn,Juventus W,8.823831367382311,0.05898677389894002,False,Right Foot,Open Play,0,0,2,Normal
+3912493,Lineth Beerensteyn,Juventus W,15.829403020960706,0.061949948597435966,False,Left Foot,Open Play,1,1,1,Half Volley
+3912493,Julia Angela Grosso,Juventus W,22.748406537601706,0.06285754306018287,False,Left Foot,Open Play,0,1,1,Normal
+3912493,Emilie Haavi,AS Roma W,16.42589419179364,0.05369883910285331,True,Right Foot,Open Play,0,0,1,Normal
+3912493,Arianna Caruso,Juventus W,23.434163095788165,0.05871680926007182,False,Right Foot,Open Play,0,0,3,Normal
+3912493,Barbara Bonansea,Juventus W,9.98248466064436,0.059321341769541625,False,Right Foot,Open Play,1,0,3,Half Volley
+3912493,Lineth Beerensteyn,Juventus W,24.73701679669559,0.0664947164370915,False,Right Foot,Open Play,0,0,3,Normal
+3912493,Evelyne Viens,AS Roma W,13.591173606425608,0.06181726119345122,True,Left Foot,Open Play,0,1,2,Normal
+3912493,Lisa Boattin,Juventus W,32.53013987058772,0.07332685564120806,False,Left Foot,Open Play,1,0,0,Normal
+3912493,Julia Angela Grosso,Juventus W,12.106196760337244,0.06015970670620941,True,Left Foot,Open Play,1,0,5,Half Volley
+3912493,Cristiana Girelli,Juventus W,20.825465180878908,0.06601277737670655,False,Right Foot,Open Play,1,0,3,Normal
+3912493,Julia Angela Grosso,Juventus W,28.885463472134212,0.07133451650441226,False,Left Foot,Open Play,0,0,1,Normal
+3912493,Lisa Boattin,Juventus W,36.59904370335378,0.07694724423898708,False,Left Foot,Open Play,1,0,1,Normal
+3912493,Manuela Giugliano,AS Roma W,21.874185699129463,0.06473209846748719,False,Right Foot,Open Play,0,0,2,Normal
+3912493,Arianna Caruso,Juventus W,22.181523843054602,0.06318511518566573,False,Right Foot,Open Play,1,0,1,Normal
+3912493,Julia Angela Grosso,Juventus W,19.030764566879594,0.0650425892023711,False,Left Foot,Open Play,0,0,2,Normal
+3912493,Linda Brigitta Sembrant,Juventus W,7.516648189186454,0.057591774906596345,False,Head,Open Play,0,1,3,Normal
+3912493,Manuela Giugliano,AS Roma W,17.92930561957155,0.06352039032392576,False,Left Foot,Open Play,1,1,2,Half Volley
+3912493,Sofia Cantore,Juventus W,30.04862725649875,0.07234042492130849,False,Right Foot,Open Play,0,0,1,Normal
+3912493,Emilie Haavi,AS Roma W,19.387624919004395,0.055220692484486036,False,Right Foot,Open Play,0,0,1,Normal
+3912493,Sofia Cantore,Juventus W,22.840534144367112,0.06697851075446622,False,Right Foot,Open Play,0,0,2,Normal
+3912493,Estelle Cascarino,Juventus W,29.760712357065646,0.07233796041907059,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.930840565755163,0.062401844587721814,False,Right Foot,Open Play,1,0,1,Normal
-28.018922177699842,0.06136277750897311,False,Right Foot,Open Play,0,0,3,Normal
-31.730899766631268,0.06795093228660934,False,Left Foot,Open Play,1,0,0,Volley
-23.02433495239331,0.05723205308149559,False,Right Foot,Open Play,0,0,3,Normal
-31.62419959461425,0.06702622307957357,False,Right Foot,Free Kick,0,0,0,Normal
-30.98661001142268,0.07304855367114607,False,Right Foot,Open Play,1,1,1,Normal
-8.44037913840368,0.05736750613944177,False,Head,Open Play,0,0,4,Normal
-13.154847015454038,0.06156585061562701,False,Right Foot,Open Play,1,0,2,Normal
-22.90720410700529,0.062222372198987935,True,Right Foot,Free Kick,0,0,0,Normal
-20.88492279133442,0.056861201212633085,False,Right Foot,Open Play,1,1,2,Normal
-10.469001862641923,0.05993421866495654,False,Head,Open Play,0,0,2,Diving Header
-29.165219011692677,0.06569356974315438,False,Right Foot,Free Kick,0,0,0,Normal
-38.45204805988883,0.07370723291786102,False,Left Foot,Open Play,1,0,0,Half Volley
-19.431160541768982,0.05732852852455915,False,Left Foot,Open Play,1,1,4,Normal
-28.33513719747974,0.06989353379343942,False,Right Foot,Open Play,0,1,1,Normal
-34.4814442852964,0.053600072787197334,False,Right Foot,Open Play,0,0,1,Normal
-26.883452159274484,0.05447675035889361,False,Right Foot,Open Play,0,0,1,Half Volley
-14.308738588708652,0.0547188805659959,True,Right Foot,Open Play,1,0,2,Normal
-26.20019083899963,0.06596902639127597,False,Right Foot,Open Play,1,0,0,Normal
-9.902019995940229,0.058654123221258715,False,Head,Open Play,0,0,2,Normal
-27.639464538952268,0.06161021849231994,False,Right Foot,Open Play,1,0,1,Volley
-12.520782723136756,0.0561526985607142,False,Right Foot,Open Play,1,0,3,Normal
-21.416115427406528,0.06564815299726316,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68352,Ronaldo de Assis Moreira,Barcelona,14.930840565755163,0.062401844587721814,False,Right Foot,Open Play,1,0,1,Normal
+68352,Ronaldo de Assis Moreira,Barcelona,28.018922177699842,0.06136277750897311,False,Right Foot,Open Play,0,0,3,Normal
+68352,Giovanni van Bronckhorst,Barcelona,31.730899766631268,0.06795093228660934,False,Left Foot,Open Play,1,0,0,Volley
+68352,Anderson Luís de Souza,Barcelona,23.02433495239331,0.05723205308149559,False,Right Foot,Open Play,0,0,3,Normal
+68352,Ronaldo de Assis Moreira,Barcelona,31.62419959461425,0.06702622307957357,False,Right Foot,Free Kick,0,0,0,Normal
+68352,Mario Gutiérrez Cotelo,Getafe,30.98661001142268,0.07304855367114607,False,Right Foot,Open Play,1,1,1,Normal
+68352,Victoriano Rivas Álvaro,Getafe,8.44037913840368,0.05736750613944177,False,Head,Open Play,0,0,4,Normal
+68352,Jorge Gonzalez Diaz,Getafe,13.154847015454038,0.06156585061562701,False,Right Foot,Open Play,1,0,2,Normal
+68352,Ronaldo de Assis Moreira,Barcelona,22.90720410700529,0.062222372198987935,True,Right Foot,Free Kick,0,0,0,Normal
+68352,Andrés Iniesta Luján,Barcelona,20.88492279133442,0.056861201212633085,False,Right Foot,Open Play,1,1,2,Normal
+68352,Rafael Márquez Álvarez,Barcelona,10.469001862641923,0.05993421866495654,False,Head,Open Play,0,0,2,Diving Header
+68352,Ronaldo de Assis Moreira,Barcelona,29.165219011692677,0.06569356974315438,False,Right Foot,Free Kick,0,0,0,Normal
+68352,Giovanni van Bronckhorst,Barcelona,38.45204805988883,0.07370723291786102,False,Left Foot,Open Play,1,0,0,Half Volley
+68352,Ludovic Giuly,Barcelona,19.431160541768982,0.05732852852455915,False,Left Foot,Open Play,1,1,4,Normal
+68352,Xavier Hernández Creus,Barcelona,28.33513719747974,0.06989353379343942,False,Right Foot,Open Play,0,1,1,Normal
+68352,Mario Gutiérrez Cotelo,Getafe,34.4814442852964,0.053600072787197334,False,Right Foot,Open Play,0,0,1,Normal
+68352,Gabriel Fernández Arenas,Getafe,26.883452159274484,0.05447675035889361,False,Right Foot,Open Play,0,0,1,Half Volley
+68352,Ludovic Giuly,Barcelona,14.308738588708652,0.0547188805659959,True,Right Foot,Open Play,1,0,2,Normal
+68352,Xavier Hernández Creus,Barcelona,26.20019083899963,0.06596902639127597,False,Right Foot,Open Play,1,0,0,Normal
+68352,Maximiliano Gastón López,Barcelona,9.902019995940229,0.058654123221258715,False,Head,Open Play,0,0,2,Normal
+68352,Xavier Hernández Creus,Barcelona,27.639464538952268,0.06161021849231994,False,Right Foot,Open Play,1,0,1,Volley
+68352,Andrés Iniesta Luján,Barcelona,12.520782723136756,0.0561526985607142,False,Right Foot,Open Play,1,0,3,Normal
+68352,Maximiliano Gastón López,Barcelona,21.416115427406528,0.06564815299726316,False,Right Foot,Open Play,0,0,2,Normal

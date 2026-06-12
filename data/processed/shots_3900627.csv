@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-38.300522189651666,0.07240265997256967,False,Left Foot,Free Kick,0,0,0,Normal
-3.679673898594822,0.055022023399017295,True,Head,Open Play,0,0,5,Normal
-24.59776412603389,0.06864215714225573,False,Left Foot,Open Play,0,0,1,Normal
-18.189282558693733,0.055341857573397914,True,Right Foot,Open Play,0,0,1,Normal
-3.264965543462903,0.056416860143621954,True,Head,Open Play,0,0,9,Normal
-14.894629904767694,0.06164249301884836,False,Head,Open Play,0,0,2,Normal
-18.40027173712389,0.0624094859916282,False,Left Foot,Open Play,1,0,2,Normal
-14.66867410504439,0.057534033481695536,False,Left Foot,Open Play,0,0,2,Normal
-15.20690632574555,0.05272259438856335,False,Left Foot,Open Play,0,0,1,Normal
-7.705841939723396,0.05773613340519701,False,Head,Open Play,0,0,4,Normal
-28.67751732629587,0.057963455546950496,False,Right Foot,Open Play,0,0,0,Normal
-31.354744457577702,0.05003771292093009,False,Left Foot,Open Play,0,0,1,Normal
-10.715409464878146,0.06008333659328263,False,Head,Open Play,0,0,3,Normal
-16.34778272427182,0.059732710406731226,False,Left Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-14.618481453283714,0.05673635659722313,False,Right Foot,Open Play,0,1,2,Half Volley
-19.505896544378572,0.06466872891429847,False,Left Foot,Open Play,1,0,1,Normal
-19.637973418863773,0.056759305959791444,False,Right Foot,Open Play,0,0,3,Normal
-30.360665341853096,0.07065275721130035,False,Right Foot,Open Play,0,0,1,Normal
-10.378824596263302,0.05699061472671088,True,Head,Open Play,0,1,4,Normal
-19.379370474811612,0.05261270478577108,False,Right Foot,Open Play,1,0,1,Normal
-20.41200627082013,0.06580429406895826,True,Right Foot,Open Play,0,0,1,Normal
-5.685068161420763,0.057598662366728205,False,Head,Open Play,0,1,3,Normal
-29.844429966075747,0.07251221306565377,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900627,Oussama Tannane,Saint-Étienne,38.300522189651666,0.07240265997256967,False,Left Foot,Free Kick,0,0,0,Normal
+3900627,Vincent Pajot,Saint-Étienne,3.679673898594822,0.055022023399017295,True,Head,Open Play,0,0,5,Normal
+3900627,Diego Armando Valentin Contento,Bordeaux,24.59776412603389,0.06864215714225573,False,Left Foot,Open Play,0,0,1,Normal
+3900627,Oussama Tannane,Saint-Étienne,18.189282558693733,0.055341857573397914,True,Right Foot,Open Play,0,0,1,Normal
+3900627,Cédric Yambéré,Bordeaux,3.264965543462903,0.056416860143621954,True,Head,Open Play,0,0,9,Normal
+3900627,Vincent Pajot,Saint-Étienne,14.894629904767694,0.06164249301884836,False,Head,Open Play,0,0,2,Normal
+3900627,Benjamin Corgnet,Saint-Étienne,18.40027173712389,0.0624094859916282,False,Left Foot,Open Play,1,0,2,Normal
+3900627,Alexander Toft Søderlund,Saint-Étienne,14.66867410504439,0.057534033481695536,False,Left Foot,Open Play,0,0,2,Normal
+3900627,Alexander Toft Søderlund,Saint-Étienne,15.20690632574555,0.05272259438856335,False,Left Foot,Open Play,0,0,1,Normal
+3900627,Alexander Toft Søderlund,Saint-Étienne,7.705841939723396,0.05773613340519701,False,Head,Open Play,0,0,4,Normal
+3900627,Diego Alejandro Rolan Silva,Bordeaux,28.67751732629587,0.057963455546950496,False,Right Foot,Open Play,0,0,0,Normal
+3900627,Malcom Filipe Silva de Oliveira,Bordeaux,31.354744457577702,0.05003771292093009,False,Left Foot,Open Play,0,0,1,Normal
+3900627,Moustapha Bayal Sall,Saint-Étienne,10.715409464878146,0.06008333659328263,False,Head,Open Play,0,0,3,Normal
+3900627,Mathieu Debuchy,Bordeaux,16.34778272427182,0.059732710406731226,False,Left Foot,Open Play,0,0,2,Normal
+3900627,Alexander Toft Søderlund,Saint-Étienne,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3900627,Alexander Toft Søderlund,Saint-Étienne,14.618481453283714,0.05673635659722313,False,Right Foot,Open Play,0,1,2,Half Volley
+3900627,Jaroslav Plašil,Bordeaux,19.505896544378572,0.06466872891429847,False,Left Foot,Open Play,1,0,1,Normal
+3900627,Enzo Crivelli,Bordeaux,19.637973418863773,0.056759305959791444,False,Right Foot,Open Play,0,0,3,Normal
+3900627,Nolan Roux,Saint-Étienne,30.360665341853096,0.07065275721130035,False,Right Foot,Open Play,0,0,1,Normal
+3900627,Alexander Toft Søderlund,Saint-Étienne,10.378824596263302,0.05699061472671088,True,Head,Open Play,0,1,4,Normal
+3900627,Mathieu Debuchy,Bordeaux,19.379370474811612,0.05261270478577108,False,Right Foot,Open Play,1,0,1,Normal
+3900627,Nolan Roux,Saint-Étienne,20.41200627082013,0.06580429406895826,True,Right Foot,Open Play,0,0,1,Normal
+3900627,Diego Alejandro Rolan Silva,Bordeaux,5.685068161420763,0.057598662366728205,False,Head,Open Play,0,1,3,Normal
+3900627,Valentín Vada,Bordeaux,29.844429966075747,0.07251221306565377,False,Right Foot,Open Play,1,0,1,Normal

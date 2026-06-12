@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.105553651663776,0.05562005910090269,False,Right Foot,Open Play,1,0,3,Normal
-27.912183719659055,0.055280298253762655,False,Left Foot,Open Play,1,0,0,Normal
-13.237824594698328,0.05728937228550827,False,Left Foot,Open Play,1,0,1,Normal
-11.005907504608606,0.05959647176454289,False,Left Foot,Open Play,1,1,3,Normal
-17.75190130662065,0.06399228968018422,False,Right Foot,Open Play,0,1,4,Normal
-18.476471524617466,0.06415659733980217,False,Left Foot,Open Play,0,0,4,Normal
-12.806248474865697,0.06133888858289386,False,Left Foot,Open Play,1,0,3,Half Volley
-35.11409973215887,0.06334005666640444,False,Right Foot,Open Play,1,0,0,Normal
-10.69205312369893,0.052210134977085425,False,Right Foot,Open Play,1,0,1,Normal
-27.930270317345663,0.06753953589913671,False,Right Foot,Open Play,0,1,1,Normal
-29.301535795927144,0.06771849313922623,False,Right Foot,Open Play,0,0,0,Normal
-17.901117283566407,0.058382857265455675,False,Right Foot,Open Play,0,1,2,Normal
-16.44779620496314,0.06229709832709945,True,Left Foot,Open Play,1,0,1,Normal
-11.700427342623007,0.05943049385923767,True,Left Foot,Penalty,0,0,0,Normal
-20.194306128213462,0.06577622851400855,False,Right Foot,Open Play,0,1,2,Normal
-11.833004690272036,0.05287362745056463,False,Right Foot,Open Play,1,0,1,Normal
-8.3773504164503,0.05888121021020529,False,Head,Open Play,0,1,2,Normal
-23.131147831441485,0.056934824090177825,False,Left Foot,Open Play,0,0,3,Normal
-6.802940540677977,0.05754021267120113,True,Head,Open Play,0,1,5,Normal
-11.447707194019241,0.06018187307789244,False,Head,Open Play,0,1,3,Normal
-25.495097567963924,0.06782847153348155,False,Right Foot,Open Play,1,0,1,Volley
-21.772000367444416,0.056944819188003516,False,Right Foot,Open Play,1,0,2,Normal
-10.62308806327049,0.06003928908265163,True,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69305,Thiago Alcântara do Nascimento,Barcelona,8.105553651663776,0.05562005910090269,False,Right Foot,Open Play,1,0,3,Normal
+69305,Hernán Darío Bernardello,Almería,27.912183719659055,0.055280298253762655,False,Left Foot,Open Play,1,0,0,Normal
+69305,Juan Jesús Gutiérrez Robles,Almería,13.237824594698328,0.05728937228550827,False,Left Foot,Open Play,1,0,1,Normal
+69305,Lionel Andrés Messi Cuccittini,Barcelona,11.005907504608606,0.05959647176454289,False,Left Foot,Open Play,1,1,3,Normal
+69305,Andrés Iniesta Luján,Barcelona,17.75190130662065,0.06399228968018422,False,Right Foot,Open Play,0,1,4,Normal
+69305,Lionel Andrés Messi Cuccittini,Barcelona,18.476471524617466,0.06415659733980217,False,Left Foot,Open Play,0,0,4,Normal
+69305,Maxwell Scherrer Cabelino Andrade,Barcelona,12.806248474865697,0.06133888858289386,False,Left Foot,Open Play,1,0,3,Half Volley
+69305,Daniel Alves da Silva,Barcelona,35.11409973215887,0.06334005666640444,False,Right Foot,Open Play,1,0,0,Normal
+69305,Lionel Andrés Messi Cuccittini,Barcelona,10.69205312369893,0.052210134977085425,False,Right Foot,Open Play,1,0,1,Normal
+69305,Xavier Hernández Creus,Barcelona,27.930270317345663,0.06753953589913671,False,Right Foot,Open Play,0,1,1,Normal
+69305,Juan Jesús Gutiérrez Robles,Almería,29.301535795927144,0.06771849313922623,False,Right Foot,Open Play,0,0,0,Normal
+69305,David Villa Sánchez,Barcelona,17.901117283566407,0.058382857265455675,False,Right Foot,Open Play,0,1,2,Normal
+69305,Miguel Ángel García Pérez Roldán,Almería,16.44779620496314,0.06229709832709945,True,Left Foot,Open Play,1,0,1,Normal
+69305,Lionel Andrés Messi Cuccittini,Barcelona,11.700427342623007,0.05943049385923767,True,Left Foot,Penalty,0,0,0,Normal
+69305,David Villa Sánchez,Barcelona,20.194306128213462,0.06577622851400855,False,Right Foot,Open Play,0,1,2,Normal
+69305,Pedro Eliezer Rodríguez Ledesma,Barcelona,11.833004690272036,0.05287362745056463,False,Right Foot,Open Play,1,0,1,Normal
+69305,David Villa Sánchez,Barcelona,8.3773504164503,0.05888121021020529,False,Head,Open Play,0,1,2,Normal
+69305,Pedro Eliezer Rodríguez Ledesma,Barcelona,23.131147831441485,0.056934824090177825,False,Left Foot,Open Play,0,0,3,Normal
+69305,Thiago Alcântara do Nascimento,Barcelona,6.802940540677977,0.05754021267120113,True,Head,Open Play,0,1,5,Normal
+69305,Seydou Kéita,Barcelona,11.447707194019241,0.06018187307789244,False,Head,Open Play,0,1,3,Normal
+69305,Andrés Iniesta Luján,Barcelona,25.495097567963924,0.06782847153348155,False,Right Foot,Open Play,1,0,1,Volley
+69305,Daniel Alves da Silva,Barcelona,21.772000367444416,0.056944819188003516,False,Right Foot,Open Play,1,0,2,Normal
+69305,Lionel Andrés Messi Cuccittini,Barcelona,10.62308806327049,0.06003928908265163,True,Left Foot,Open Play,0,1,3,Normal

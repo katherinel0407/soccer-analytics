@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.738463117342363,0.06448943128800999,False,Right Foot,Open Play,0,0,1,Normal
-16.21110730332755,0.06326804454040956,False,Left Foot,Open Play,0,1,1,Normal
-26.61766330841232,0.05934469111634078,False,Left Foot,Open Play,0,1,2,Normal
-25.437177516383386,0.06278118661582797,False,Right Foot,Open Play,0,0,0,Normal
-19.296113598338916,0.05567222879750977,False,Right Foot,Open Play,1,0,1,Normal
-17.170323235163625,0.05573432724927062,False,Right Foot,Open Play,0,1,1,Half Volley
-22.784643951574054,0.0670668929052727,True,Left Foot,Open Play,0,0,1,Half Volley
-5.412023651093926,0.057306250716107905,True,Right Foot,Open Play,1,0,3,Volley
-11.67304587500623,0.05338814350083983,False,Right Foot,Open Play,1,0,2,Normal
-22.51443981093023,0.06694973206971337,False,Right Foot,Open Play,0,0,1,Normal
-30.634947364080777,0.05901349024965147,False,Right Foot,Open Play,0,0,1,Normal
-14.243595051811885,0.056005351462376236,False,Right Foot,Open Play,1,1,1,Volley
-30.2803566689694,0.07194557197015759,False,Right Foot,Open Play,0,0,1,Normal
-23.16398065963621,0.0668249722385708,False,Right Foot,Open Play,0,0,1,Normal
-18.880942773071478,0.0550030711782393,False,Right Foot,Open Play,0,1,2,Normal
-26.612027356065898,0.06580373653198435,False,Right Foot,Open Play,0,0,2,Normal
-39.1716734388512,0.0651102234363483,False,Left Foot,Open Play,0,0,0,Normal
-11.241441188744437,0.05435352859236867,True,Right Foot,Open Play,1,0,2,Half Volley
-20.86072865457963,0.05462599276879275,False,Left Foot,Open Play,0,1,1,Normal
-10.469479452198184,0.0576803258067221,False,Other,Open Play,1,0,2,Normal
-15.508062419270823,0.06266695916314302,False,Right Foot,Open Play,0,0,3,Normal
-18.507566020414465,0.06473639094709434,False,Left Foot,Open Play,1,0,0,Normal
-13.386933928274992,0.054784113346938175,False,Right Foot,Open Play,0,0,3,Normal
-28.900000000000002,0.05683996826518062,True,Left Foot,Open Play,1,1,2,Normal
-21.445745498816315,0.06436161582818543,False,Right Foot,Open Play,1,0,0,Half Volley
-29.692086487816912,0.06416186498931493,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829458,Tongo Hamed Doumbia,Toulouse,18.738463117342363,0.06448943128800999,False,Right Foot,Open Play,0,0,1,Normal
+3829458,Martin Braithwaite Christensen,Toulouse,16.21110730332755,0.06326804454040956,False,Left Foot,Open Play,0,1,1,Normal
+3829458,Nicolas de Roussel de Préville,Stade de Reims,26.61766330841232,0.05934469111634078,False,Left Foot,Open Play,0,1,2,Normal
+3829458,Jean-Daniel Akpa Akpro,Toulouse,25.437177516383386,0.06278118661582797,False,Right Foot,Open Play,0,0,0,Normal
+3829458,Tongo Hamed Doumbia,Toulouse,19.296113598338916,0.05567222879750977,False,Right Foot,Open Play,1,0,1,Normal
+3829458,Óscar Guido Trejo,Toulouse,17.170323235163625,0.05573432724927062,False,Right Foot,Open Play,0,1,1,Half Volley
+3829458,Jean-Armel Kana-Biyik,Toulouse,22.784643951574054,0.0670668929052727,True,Left Foot,Open Play,0,0,1,Half Volley
+3829458,Martin Braithwaite Christensen,Toulouse,5.412023651093926,0.057306250716107905,True,Right Foot,Open Play,1,0,3,Volley
+3829458,Grejohn Kyei,Stade de Reims,11.67304587500623,0.05338814350083983,False,Right Foot,Open Play,1,0,2,Normal
+3829458,Martin Braithwaite Christensen,Toulouse,22.51443981093023,0.06694973206971337,False,Right Foot,Open Play,0,0,1,Normal
+3829458,Nicolas de Roussel de Préville,Stade de Reims,30.634947364080777,0.05901349024965147,False,Right Foot,Open Play,0,0,1,Normal
+3829458,Nicolas de Roussel de Préville,Stade de Reims,14.243595051811885,0.056005351462376236,False,Right Foot,Open Play,1,1,1,Volley
+3829458,Tongo Hamed Doumbia,Toulouse,30.2803566689694,0.07194557197015759,False,Right Foot,Open Play,0,0,1,Normal
+3829458,Martin Braithwaite Christensen,Toulouse,23.16398065963621,0.0668249722385708,False,Right Foot,Open Play,0,0,1,Normal
+3829458,Prince Oniangué,Stade de Reims,18.880942773071478,0.0550030711782393,False,Right Foot,Open Play,0,1,2,Normal
+3829458,Grejohn Kyei,Stade de Reims,26.612027356065898,0.06580373653198435,False,Right Foot,Open Play,0,0,2,Normal
+3829458,Atila Turan,Stade de Reims,39.1716734388512,0.0651102234363483,False,Left Foot,Open Play,0,0,0,Normal
+3829458,Theoson Jordan Siebatcheu,Stade de Reims,11.241441188744437,0.05435352859236867,True,Right Foot,Open Play,1,0,2,Half Volley
+3829458,Marcel Tisserand,Toulouse,20.86072865457963,0.05462599276879275,False,Left Foot,Open Play,0,1,1,Normal
+3829458,Óscar Guido Trejo,Toulouse,10.469479452198184,0.0576803258067221,False,Other,Open Play,1,0,2,Normal
+3829458,Óscar Guido Trejo,Toulouse,15.508062419270823,0.06266695916314302,False,Right Foot,Open Play,0,0,3,Normal
+3829458,Atila Turan,Stade de Reims,18.507566020414465,0.06473639094709434,False,Left Foot,Open Play,1,0,0,Normal
+3829458,Óscar Guido Trejo,Toulouse,13.386933928274992,0.054784113346938175,False,Right Foot,Open Play,0,0,3,Normal
+3829458,Frédéric Bulot,Stade de Reims,28.900000000000002,0.05683996826518062,True,Left Foot,Open Play,1,1,2,Normal
+3829458,Tongo Hamed Doumbia,Toulouse,21.445745498816315,0.06436161582818543,False,Right Foot,Open Play,1,0,0,Half Volley
+3829458,Prince Oniangué,Stade de Reims,29.692086487816912,0.06416186498931493,False,Right Foot,Open Play,0,1,2,Normal

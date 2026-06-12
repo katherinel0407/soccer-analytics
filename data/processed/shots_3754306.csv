@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.877342346879093,0.06293820631402135,False,Left Foot,Open Play,1,0,5,Volley
-27.527804126010487,0.06957417707714933,False,Right Foot,Open Play,1,0,0,Half Volley
-12.099999999999994,0.05963343195195743,False,Right Foot,Open Play,1,0,2,Backheel
-27.930270317345656,0.0710479698003514,False,Right Foot,Open Play,0,0,2,Half Volley
-28.398943642325854,0.07139015650408469,False,Right Foot,Open Play,0,0,2,Normal
-11.264546151532251,0.060518168668900404,False,Head,Open Play,0,0,0,Normal
-31.045933711196376,0.05965926074213258,False,Left Foot,Free Kick,0,0,0,Normal
-29.997666575918867,0.0711842873258573,False,Right Foot,Open Play,0,1,1,Normal
-14.930505684671228,0.06252827412732166,True,Head,Open Play,0,1,2,Normal
-23.654175107156036,0.0675380609932834,False,Right Foot,Open Play,0,0,4,Normal
-25.65345980564805,0.06822461515331957,True,Left Foot,Open Play,1,1,1,Normal
-15.587174214718969,0.05357693963372778,False,Right Foot,Open Play,1,0,0,Volley
-17.172361514946047,0.06317397905983316,False,Left Foot,Open Play,0,0,4,Normal
-15.388307249337078,0.061869652093229435,False,Right Foot,Open Play,1,0,1,Normal
-15.804113388608679,0.05455047850248662,False,Right Foot,Open Play,0,0,1,Normal
-24.83163305141247,0.067971461910413,False,Left Foot,Open Play,0,0,2,Normal
-10.090094152187087,0.05318643984234968,False,Head,Open Play,0,0,3,Normal
-11.70469991071963,0.060168941675701984,False,Head,Open Play,0,1,2,Normal
-14.277254638059796,0.059367383924030535,False,Head,Open Play,0,1,2,Normal
-16.71705715728698,0.06307383371483312,False,Right Foot,Open Play,1,0,1,Normal
-7.088018058667737,0.05747137448563219,False,Left Foot,Open Play,1,0,2,Normal
-24.968980756130197,0.06252250110501056,False,Left Foot,Open Play,0,0,2,Normal
-4.47213595499958,0.056977461643308205,False,Right Foot,Open Play,1,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754306,Carles Gil de Pareja Vicent,Aston Villa,15.877342346879093,0.06293820631402135,False,Left Foot,Open Play,1,0,5,Volley
+3754306,Ashley Westwood,Aston Villa,27.527804126010487,0.06957417707714933,False,Right Foot,Open Play,1,0,0,Half Volley
+3754306,Gabriel Imuetinyan Agbonlahor,Aston Villa,12.099999999999994,0.05963343195195743,False,Right Foot,Open Play,1,0,2,Backheel
+3754306,Dieumerci Mbokani Bezua,Norwich City,27.930270317345656,0.0710479698003514,False,Right Foot,Open Play,0,0,2,Half Volley
+3754306,Steven Naismith,Norwich City,28.398943642325854,0.07139015650408469,False,Right Foot,Open Play,0,0,2,Normal
+3754306,Sébastien Aymar Bassong Nguena,Norwich City,11.264546151532251,0.060518168668900404,False,Head,Open Play,0,0,0,Normal
+3754306,Carles Gil de Pareja Vicent,Aston Villa,31.045933711196376,0.05965926074213258,False,Left Foot,Free Kick,0,0,0,Normal
+3754306,Robert Brady,Norwich City,29.997666575918867,0.0711842873258573,False,Right Foot,Open Play,0,1,1,Normal
+3754306,Joleon Lescott,Aston Villa,14.930505684671228,0.06252827412732166,True,Head,Open Play,0,1,2,Normal
+3754306,Gabriel Imuetinyan Agbonlahor,Aston Villa,23.654175107156036,0.0675380609932834,False,Right Foot,Open Play,0,0,4,Normal
+3754306,Gabriel Imuetinyan Agbonlahor,Aston Villa,25.65345980564805,0.06822461515331957,True,Left Foot,Open Play,1,1,1,Normal
+3754306,Leandro Bacuna,Aston Villa,15.587174214718969,0.05357693963372778,False,Right Foot,Open Play,1,0,0,Volley
+3754306,Gabriel Imuetinyan Agbonlahor,Aston Villa,17.172361514946047,0.06317397905983316,False,Left Foot,Open Play,0,0,4,Normal
+3754306,Gary O''Neil,Norwich City,15.388307249337078,0.061869652093229435,False,Right Foot,Open Play,1,0,1,Normal
+3754306,Leandro Bacuna,Aston Villa,15.804113388608679,0.05455047850248662,False,Right Foot,Open Play,0,0,1,Normal
+3754306,Robert Brady,Norwich City,24.83163305141247,0.067971461910413,False,Left Foot,Open Play,0,0,2,Normal
+3754306,Russell Martin,Norwich City,10.090094152187087,0.05318643984234968,False,Head,Open Play,0,0,3,Normal
+3754306,Dieumerci Mbokani Bezua,Norwich City,11.70469991071963,0.060168941675701984,False,Head,Open Play,0,1,2,Normal
+3754306,Dieumerci Mbokani Bezua,Norwich City,14.277254638059796,0.059367383924030535,False,Head,Open Play,0,1,2,Normal
+3754306,Dieumerci Mbokani Bezua,Norwich City,16.71705715728698,0.06307383371483312,False,Right Foot,Open Play,1,0,1,Normal
+3754306,Dieumerci Mbokani Bezua,Norwich City,7.088018058667737,0.05747137448563219,False,Left Foot,Open Play,1,0,2,Normal
+3754306,Nathan Redmond,Norwich City,24.968980756130197,0.06252250110501056,False,Left Foot,Open Play,0,0,2,Normal
+3754306,Patrick Bamford,Norwich City,4.47213595499958,0.056977461643308205,False,Right Foot,Open Play,1,0,3,Half Volley

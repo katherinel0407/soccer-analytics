@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.897104085206124,0.05757426021494721,False,Left Foot,Open Play,0,0,1,Normal
-4.9769468552517155,0.05718641508057444,False,Left Foot,Open Play,1,0,3,Backheel
-8.030566605165541,0.05772353407067196,False,Right Foot,Open Play,1,0,5,Half Volley
-7.0837842993699365,0.056694685330682185,True,Right Foot,Open Play,1,0,5,Volley
-31.86534167398806,0.07413631135565453,False,Left Foot,Open Play,0,0,0,Normal
-18.056854654119583,0.051275644508759724,False,Left Foot,Open Play,0,0,1,Normal
-28.44819853699,0.06858348181420766,False,Right Foot,Open Play,0,0,1,Normal
-10.469479452198184,0.05702786075096271,False,Head,Open Play,0,0,4,Normal
-6.506919393998976,0.05745301875664218,False,Head,Open Play,0,1,5,Normal
-17.288724649319857,0.053086240764235224,False,Right Foot,Open Play,1,0,1,Normal
-14.90134222142422,0.06074839032924988,False,Right Foot,Open Play,1,0,2,Half Volley
-19.870832896484238,0.05154955814326822,False,Right Foot,Open Play,0,1,2,Half Volley
-16.06549096666517,0.06034287777819384,True,Right Foot,Open Play,1,0,1,Normal
-33.918726391183974,0.05846172179568349,False,Right Foot,Open Play,0,0,0,Normal
-14.812494725737459,0.062487569626305244,False,Left Foot,Open Play,0,1,3,Normal
-21.838727069131114,0.05942211941762448,False,Left Foot,Open Play,0,0,2,Normal
-13.699999999999998,0.06148388654660299,False,Left Foot,Open Play,0,1,1,Normal
-6.212889826803629,0.05786872981124245,False,Left Foot,Open Play,1,0,4,Normal
-23.136551169091735,0.06662616355652978,False,Right Foot,Open Play,0,0,1,Normal
-26.031135203828512,0.06873427079458028,False,Left Foot,Open Play,0,0,1,Normal
-13.77679207943562,0.057282671363078984,False,Right Foot,Open Play,1,0,1,Volley
-22.539742678211745,0.05378873851510896,False,Left Foot,Open Play,0,0,2,Normal
-31.81336197260516,0.05754927461469228,False,Right Foot,Open Play,0,0,1,Normal
-15.966527487215249,0.0630967108187613,False,Left Foot,Open Play,0,0,1,Normal
-12.316655390161728,0.05751836932720249,False,Right Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69287,Lionel Andrés Messi Cuccittini,Barcelona,25.897104085206124,0.05757426021494721,False,Left Foot,Open Play,0,0,1,Normal
+69287,Bojan Krkíc Pérez,Barcelona,4.9769468552517155,0.05718641508057444,False,Left Foot,Open Play,1,0,3,Backheel
+69287,Abraham Paz Cruz,Hércules,8.030566605165541,0.05772353407067196,False,Right Foot,Open Play,1,0,5,Half Volley
+69287,Nelson Antonio Haedo Valdez,Hércules,7.0837842993699365,0.056694685330682185,True,Right Foot,Open Play,1,0,5,Volley
+69287,Maxwell Scherrer Cabelino Andrade,Barcelona,31.86534167398806,0.07413631135565453,False,Left Foot,Open Play,0,0,0,Normal
+69287,David Villa Sánchez,Barcelona,18.056854654119583,0.051275644508759724,False,Left Foot,Open Play,0,0,1,Normal
+69287,Andrés Iniesta Luján,Barcelona,28.44819853699,0.06858348181420766,False,Right Foot,Open Play,0,0,1,Normal
+69287,Gerard Piqué Bernabéu,Barcelona,10.469479452198184,0.05702786075096271,False,Head,Open Play,0,0,4,Normal
+69287,Gerard Piqué Bernabéu,Barcelona,6.506919393998976,0.05745301875664218,False,Head,Open Play,0,1,5,Normal
+69287,David Sergio Trézéguet,Hércules,17.288724649319857,0.053086240764235224,False,Right Foot,Open Play,1,0,1,Normal
+69287,Xavier Hernández Creus,Barcelona,14.90134222142422,0.06074839032924988,False,Right Foot,Open Play,1,0,2,Half Volley
+69287,Adriano Correia Claro,Barcelona,19.870832896484238,0.05154955814326822,False,Right Foot,Open Play,0,1,2,Half Volley
+69287,Nelson Antonio Haedo Valdez,Hércules,16.06549096666517,0.06034287777819384,True,Right Foot,Open Play,1,0,1,Normal
+69287,David Villa Sánchez,Barcelona,33.918726391183974,0.05846172179568349,False,Right Foot,Open Play,0,0,0,Normal
+69287,Lionel Andrés Messi Cuccittini,Barcelona,14.812494725737459,0.062487569626305244,False,Left Foot,Open Play,0,1,3,Normal
+69287,Francisco Femenía Far,Hércules,21.838727069131114,0.05942211941762448,False,Left Foot,Open Play,0,0,2,Normal
+69287,David Villa Sánchez,Barcelona,13.699999999999998,0.06148388654660299,False,Left Foot,Open Play,0,1,1,Normal
+69287,Lionel Andrés Messi Cuccittini,Barcelona,6.212889826803629,0.05786872981124245,False,Left Foot,Open Play,1,0,4,Normal
+69287,Pedro Eliezer Rodríguez Ledesma,Barcelona,23.136551169091735,0.06662616355652978,False,Right Foot,Open Play,0,0,1,Normal
+69287,Sendoa Aguirre Basterretxea,Hércules,26.031135203828512,0.06873427079458028,False,Left Foot,Open Play,0,0,1,Normal
+69287,Francisco Femenía Far,Hércules,13.77679207943562,0.057282671363078984,False,Right Foot,Open Play,1,0,1,Volley
+69287,Pedro Eliezer Rodríguez Ledesma,Barcelona,22.539742678211745,0.05378873851510896,False,Left Foot,Open Play,0,0,2,Normal
+69287,Daniel Alves da Silva,Barcelona,31.81336197260516,0.05754927461469228,False,Right Foot,Open Play,0,0,1,Normal
+69287,Sendoa Aguirre Basterretxea,Hércules,15.966527487215249,0.0630967108187613,False,Left Foot,Open Play,0,0,1,Normal
+69287,David Sergio Trézéguet,Hércules,12.316655390161728,0.05751836932720249,False,Right Foot,Open Play,1,0,0,Half Volley

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.111258679024416,0.05827547170590522,False,Head,Open Play,0,1,2,Normal
-6.865857557508751,0.05790881668186593,False,Head,Open Play,0,1,3,Normal
-16.954055562018194,0.06330701317603389,False,Right Foot,Open Play,1,0,2,Normal
-15.900000000000006,0.061260013828380935,False,Left Foot,Open Play,1,0,1,Normal
-19.81161275615895,0.05824052437737487,False,Right Foot,Open Play,1,0,1,Lob
-28.902768033529252,0.0671356664211343,False,Right Foot,Open Play,0,0,2,Normal
-26.960897611170147,0.07025301623119952,False,Right Foot,Open Play,0,0,2,Normal
-29.275416307885354,0.06568342503348663,False,Right Foot,Open Play,0,0,2,Normal
-11.515641536623134,0.05959482867704985,False,Head,Open Play,0,0,2,Normal
-23.660304309116572,0.06629561303502726,False,Right Foot,Open Play,0,1,4,Normal
-33.812571626541505,0.07470008961589515,False,Right Foot,Open Play,0,0,1,Normal
-8.343260753446456,0.05732890631515464,False,Right Foot,Open Play,1,0,1,Normal
-16.18394265931513,0.05578456902907897,True,Right Foot,Open Play,0,1,1,Normal
-17.182840277439585,0.052675339252158934,False,Right Foot,Open Play,0,1,1,Normal
-25.40078738937044,0.06553196311048323,False,Left Foot,Open Play,0,0,1,Normal
-27.65230550966772,0.06580674591230458,False,Right Foot,Open Play,1,0,1,Normal
-11.317685275708985,0.06050978278465531,False,Head,Open Play,0,1,2,Normal
-8.836288813749807,0.058007357015892734,False,Right Foot,Open Play,0,1,3,Normal
-6.177378084592205,0.05783353947564413,False,Right Foot,Open Play,1,0,4,Normal
-26.882150211618125,0.06214736317325074,False,Right Foot,Open Play,0,0,2,Normal
-15.60288434873501,0.056068251709194605,False,Left Foot,Open Play,0,0,1,Normal
-19.762590923257,0.05647687639115368,False,Right Foot,Open Play,1,1,1,Half Volley
-24.620519897028988,0.052700139466536226,False,Right Foot,Open Play,1,1,1,Normal
-18.797074240423694,0.0647541494674212,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19822,Kerys Harrop,Birmingham City WFC,7.111258679024416,0.05827547170590522,False,Head,Open Play,0,1,2,Normal
+19822,Ellen White,Birmingham City WFC,6.865857557508751,0.05790881668186593,False,Head,Open Play,0,1,3,Normal
+19822,Olivia Fergusson,Yeovil Town LFC,16.954055562018194,0.06330701317603389,False,Right Foot,Open Play,1,0,2,Normal
+19822,Ellen White,Birmingham City WFC,15.900000000000006,0.061260013828380935,False,Left Foot,Open Play,1,0,1,Normal
+19822,Ellen White,Birmingham City WFC,19.81161275615895,0.05824052437737487,False,Right Foot,Open Play,1,0,1,Lob
+19822,Lucy Staniforth,Birmingham City WFC,28.902768033529252,0.0671356664211343,False,Right Foot,Open Play,0,0,2,Normal
+19822,Lucy Staniforth,Birmingham City WFC,26.960897611170147,0.07025301623119952,False,Right Foot,Open Play,0,0,2,Normal
+19822,Charlie Wellings,Birmingham City WFC,29.275416307885354,0.06568342503348663,False,Right Foot,Open Play,0,0,2,Normal
+19822,Ellen White,Birmingham City WFC,11.515641536623134,0.05959482867704985,False,Head,Open Play,0,0,2,Normal
+19822,Claudia Walker,Birmingham City WFC,23.660304309116572,0.06629561303502726,False,Right Foot,Open Play,0,1,4,Normal
+19822,Claudia Walker,Birmingham City WFC,33.812571626541505,0.07470008961589515,False,Right Foot,Open Play,0,0,1,Normal
+19822,Claudia Walker,Birmingham City WFC,8.343260753446456,0.05732890631515464,False,Right Foot,Open Play,1,0,1,Normal
+19822,Charlie Wellings,Birmingham City WFC,16.18394265931513,0.05578456902907897,True,Right Foot,Open Play,0,1,1,Normal
+19822,Ellen White,Birmingham City WFC,17.182840277439585,0.052675339252158934,False,Right Foot,Open Play,0,1,1,Normal
+19822,Emily Donovan,Yeovil Town LFC,25.40078738937044,0.06553196311048323,False,Left Foot,Open Play,0,0,1,Normal
+19822,Chloe Arthur,Birmingham City WFC,27.65230550966772,0.06580674591230458,False,Right Foot,Open Play,1,0,1,Normal
+19822,Chloe Arthur,Birmingham City WFC,11.317685275708985,0.06050978278465531,False,Head,Open Play,0,1,2,Normal
+19822,Lucy Staniforth,Birmingham City WFC,8.836288813749807,0.058007357015892734,False,Right Foot,Open Play,0,1,3,Normal
+19822,Ellen White,Birmingham City WFC,6.177378084592205,0.05783353947564413,False,Right Foot,Open Play,1,0,4,Normal
+19822,Lucy Staniforth,Birmingham City WFC,26.882150211618125,0.06214736317325074,False,Right Foot,Open Play,0,0,2,Normal
+19822,Emma Follis,Birmingham City WFC,15.60288434873501,0.056068251709194605,False,Left Foot,Open Play,0,0,1,Normal
+19822,Olivia Fergusson,Yeovil Town LFC,19.762590923257,0.05647687639115368,False,Right Foot,Open Play,1,1,1,Half Volley
+19822,Olivia Fergusson,Yeovil Town LFC,24.620519897028988,0.052700139466536226,False,Right Foot,Open Play,1,1,1,Normal
+19822,Charlie Wellings,Birmingham City WFC,18.797074240423694,0.0647541494674212,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.339491516996254,0.06276046659167249,False,Head,Open Play,0,0,2,Normal
-33.70178036840191,0.06686449386649629,False,Right Foot,Open Play,0,1,2,Normal
-13.705838172107528,0.06188089977224304,True,Left Foot,Open Play,1,0,3,Half Volley
-24.8501509049744,0.06754049832116292,False,Right Foot,Open Play,0,0,2,Normal
-17.28380745090618,0.06251514450008196,False,Right Foot,Open Play,1,0,1,Normal
-14.23587018766327,0.05682122915680809,True,Right Foot,Open Play,1,1,1,Normal
-22.389283150650446,0.06691836282978449,False,Left Foot,Open Play,0,0,3,Normal
-16.970562748477136,0.06260572179268818,False,Right Foot,Open Play,1,1,3,Half Volley
-33.77632306809017,0.073647948470915,False,Left Foot,Open Play,0,1,1,Normal
-11.332254850646455,0.060195133964380775,False,Head,Open Play,0,0,3,Normal
-29.753151093623686,0.058558701908991054,False,Right Foot,Open Play,0,0,0,Normal
-35.0235634965947,0.06434572786029,False,Left Foot,Open Play,0,1,1,Normal
-26.520369529853838,0.06993507217285348,False,Left Foot,Open Play,1,1,3,Half Volley
-21.431052237349427,0.06598190520810424,False,Right Foot,Open Play,0,0,1,Half Volley
-18.721645226849056,0.06364401958020835,False,Left Foot,Open Play,0,0,2,Half Volley
-24.643457549621562,0.06703859200961407,False,Right Foot,Open Play,0,1,4,Volley
-27.236923467968992,0.055538669520850445,False,Right Foot,Open Play,0,0,2,Normal
-12.541929676090518,0.0522959625835538,False,Right Foot,Open Play,0,0,1,Normal
-19.623710148695125,0.06520866649844545,False,Right Foot,Open Play,0,0,3,Normal
-14.425671561490644,0.05983879067613682,False,Head,Open Play,0,1,2,Normal
-32.980297148449104,0.06331888239937386,False,Right Foot,Open Play,0,0,0,Normal
-14.103191128251796,0.05781241992126424,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879608,Giampaolo Pazzini,Hellas Verona,15.339491516996254,0.06276046659167249,False,Head,Open Play,0,0,2,Normal
+3879608,Mattia Destro,Bologna,33.70178036840191,0.06686449386649629,False,Right Foot,Open Play,0,1,2,Normal
+3879608,Emanuele Giaccherini,Bologna,13.705838172107528,0.06188089977224304,True,Left Foot,Open Play,1,0,3,Half Volley
+3879608,Giampaolo Pazzini,Hellas Verona,24.8501509049744,0.06754049832116292,False,Right Foot,Open Play,0,0,2,Normal
+3879608,Mattia Destro,Bologna,17.28380745090618,0.06251514450008196,False,Right Foot,Open Play,1,0,1,Normal
+3879608,Godfred Donsah,Bologna,14.23587018766327,0.05682122915680809,True,Right Foot,Open Play,1,1,1,Normal
+3879608,Emil Hallfreðsson,Hellas Verona,22.389283150650446,0.06691836282978449,False,Left Foot,Open Play,0,0,3,Normal
+3879608,Juan Ignacio Gómez Taleb,Hellas Verona,16.970562748477136,0.06260572179268818,False,Right Foot,Open Play,1,1,3,Half Volley
+3879608,Leandro Greco,Hellas Verona,33.77632306809017,0.073647948470915,False,Left Foot,Open Play,0,1,1,Normal
+3879608,Juan Ignacio Gómez Taleb,Hellas Verona,11.332254850646455,0.060195133964380775,False,Head,Open Play,0,0,3,Normal
+3879608,Godfred Donsah,Bologna,29.753151093623686,0.058558701908991054,False,Right Foot,Open Play,0,0,0,Normal
+3879608,Luca Siligardi,Hellas Verona,35.0235634965947,0.06434572786029,False,Left Foot,Open Play,0,1,1,Normal
+3879608,Emil Hallfreðsson,Hellas Verona,26.520369529853838,0.06993507217285348,False,Left Foot,Open Play,1,1,3,Half Volley
+3879608,Mattia Destro,Bologna,21.431052237349427,0.06598190520810424,False,Right Foot,Open Play,0,0,1,Half Volley
+3879608,Mattia Destro,Bologna,18.721645226849056,0.06364401958020835,False,Left Foot,Open Play,0,0,2,Half Volley
+3879608,Giampaolo Pazzini,Hellas Verona,24.643457549621562,0.06703859200961407,False,Right Foot,Open Play,0,1,4,Volley
+3879608,Saphir Sliti Taïder,Bologna,27.236923467968992,0.055538669520850445,False,Right Foot,Open Play,0,0,2,Normal
+3879608,Saphir Sliti Taïder,Bologna,12.541929676090518,0.0522959625835538,False,Right Foot,Open Play,0,0,1,Normal
+3879608,Saphir Sliti Taïder,Bologna,19.623710148695125,0.06520866649844545,False,Right Foot,Open Play,0,0,3,Normal
+3879608,Artur Ioniţă,Hellas Verona,14.425671561490644,0.05983879067613682,False,Head,Open Play,0,1,2,Normal
+3879608,Vangelis Moras,Hellas Verona,32.980297148449104,0.06331888239937386,False,Right Foot,Open Play,0,0,0,Normal
+3879608,Matteo Brighi,Bologna,14.103191128251796,0.05781241992126424,False,Right Foot,Open Play,1,0,0,Normal

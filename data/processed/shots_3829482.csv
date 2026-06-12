@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.984756372185974,0.06508846377293252,False,Left Foot,Open Play,1,0,0,Volley
-8.987213138676523,0.05443580746044272,False,Right Foot,Open Play,0,1,2,Half Volley
-12.94024729284568,0.055144972084905826,False,Right Foot,Open Play,1,0,3,Normal
-12.442266674525184,0.06026787496168504,False,Right Foot,Open Play,0,0,4,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-16.405486887014355,0.0631512782886882,False,Left Foot,Open Play,1,0,2,Half Volley
-24.67569654538652,0.06854621035914704,False,Left Foot,Open Play,1,1,1,Volley
-36.449691356717956,0.07333872502189223,False,Right Foot,Open Play,0,0,1,Normal
-13.333041663476497,0.057932912860495046,False,Left Foot,Open Play,1,0,0,Volley
-15.395129099815948,0.06204743297669581,False,Head,Open Play,0,0,1,Normal
-5.247856705360772,0.0557475861523414,True,Head,Open Play,0,0,3,Normal
-33.72491660478941,0.05883996066891173,False,Left Foot,Open Play,0,0,0,Normal
-33.75114812861927,0.07287081608623962,False,Left Foot,Free Kick,0,0,0,Normal
-18.645374761586325,0.06453044372029933,False,Right Foot,Open Play,1,1,2,Normal
-31.143699202246353,0.056028110547896054,False,Right Foot,Open Play,0,0,2,Normal
-18.87988347421668,0.061392756144247954,False,Right Foot,Open Play,0,1,4,Normal
-8.459905436823753,0.05899850603654778,False,Left Foot,Open Play,1,1,2,Half Volley
-19.160375779195984,0.05348206418092227,False,Right Foot,Open Play,0,0,1,Normal
-23.201939574095952,0.05939896274887967,False,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829482,Éric Bauthéac,Lille,20.984756372185974,0.06508846377293252,False,Left Foot,Open Play,1,0,0,Volley
+3829482,Gadji Celi Carmen Junior Tallo,Lille,8.987213138676523,0.05443580746044272,False,Right Foot,Open Play,0,1,2,Half Volley
+3829482,Gadji Celi Carmen Junior Tallo,Lille,12.94024729284568,0.055144972084905826,False,Right Foot,Open Play,1,0,3,Normal
+3829482,Yassine Benzia,Lille,12.442266674525184,0.06026787496168504,False,Right Foot,Open Play,0,0,4,Normal
+3829482,"David N""Gog",Stade de Reims,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3829482,Antoine Devaux,Stade de Reims,16.405486887014355,0.0631512782886882,False,Left Foot,Open Play,1,0,2,Half Volley
+3829482,Jaba Kankava,Stade de Reims,24.67569654538652,0.06854621035914704,False,Left Foot,Open Play,1,1,1,Volley
+3829482,Prince Oniangué,Stade de Reims,36.449691356717956,0.07333872502189223,False,Right Foot,Open Play,0,0,1,Normal
+3829482,"David N""Gog",Stade de Reims,13.333041663476497,0.057932912860495046,False,Left Foot,Open Play,1,0,0,Volley
+3829482,Prince Oniangué,Stade de Reims,15.395129099815948,0.06204743297669581,False,Head,Open Play,0,0,1,Normal
+3829482,"David N""Gog",Stade de Reims,5.247856705360772,0.0557475861523414,True,Head,Open Play,0,0,3,Normal
+3829482,Lenny Nangis,Lille,33.72491660478941,0.05883996066891173,False,Left Foot,Open Play,0,0,0,Normal
+3829482,Éric Bauthéac,Lille,33.75114812861927,0.07287081608623962,False,Left Foot,Free Kick,0,0,0,Normal
+3829482,Yassine Benzia,Lille,18.645374761586325,0.06453044372029933,False,Right Foot,Open Play,1,1,2,Normal
+3829482,Odaïr Junior Lopes Fortes,Stade de Reims,31.143699202246353,0.056028110547896054,False,Right Foot,Open Play,0,0,2,Normal
+3829482,Yassine Benzia,Lille,18.87988347421668,0.061392756144247954,False,Right Foot,Open Play,0,1,4,Normal
+3829482,Theoson Jordan Siebatcheu,Stade de Reims,8.459905436823753,0.05899850603654778,False,Left Foot,Open Play,1,1,2,Half Volley
+3829482,Frédéric Bulot,Stade de Reims,19.160375779195984,0.05348206418092227,False,Right Foot,Open Play,0,0,1,Normal
+3829482,Lenny Nangis,Lille,23.201939574095952,0.05939896274887967,False,Right Foot,Open Play,1,0,2,Volley

@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.17956275771577,0.05894116041571778,False,Left Foot,Open Play,0,0,1,Half Volley
-12.054044964243333,0.053058703156943984,False,Right Foot,Open Play,1,0,2,Volley
-8.683317338436963,0.05315829855308995,True,Head,Open Play,0,0,2,Normal
-24.147877753541817,0.055592930452876915,False,Left Foot,Open Play,0,0,1,Normal
-16.506059493410287,0.06347212957378098,False,Left Foot,Open Play,1,0,3,Normal
-31.207851576165897,0.0689198876165168,True,Right Foot,Open Play,0,0,0,Normal
-29.24739304621866,0.07177614425380756,False,Left Foot,Open Play,0,0,3,Normal
-33.41751038003879,0.060500234331087616,False,Right Foot,Open Play,0,0,2,Normal
-11.321660655575222,0.06045364922090126,False,Other,Open Play,1,0,2,Normal
-28.861739379323623,0.0704772024250504,True,Left Foot,Open Play,0,1,1,Normal
-9.881295461628499,0.059418265822467585,False,Left Foot,Open Play,1,0,0,Half Volley
-16.58493292117879,0.05871219874895311,False,Right Foot,Open Play,1,0,2,Normal
-13.336416310238663,0.059120170915981915,False,Right Foot,Open Play,1,0,3,Normal
-20.634437234875097,0.05954623780195477,False,Left Foot,Open Play,0,0,2,Normal
-13.661625086350453,0.05843111050382674,False,Left Foot,Open Play,0,0,3,Normal
-20.122127124138736,0.06551619080042795,False,Right Foot,Open Play,0,0,2,Normal
-24.482646915723794,0.056421168648791875,False,Right Foot,Open Play,0,0,2,Normal
-19.56450868281645,0.06536397211599054,False,Left Foot,Open Play,0,0,2,Normal
-26.051679408437373,0.06967006195676335,False,Right Foot,Free Kick,0,0,0,Normal
-16.664333169977123,0.059606788114590185,False,Left Foot,Open Play,0,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303430,Lionel Andrés Messi Cuccittini,Barcelona,14.17956275771577,0.05894116041571778,False,Left Foot,Open Play,0,0,1,Half Volley
+303430,Raúl Albiol i Tortajada,Villarreal,12.054044964243333,0.053058703156943984,False,Right Foot,Open Play,1,0,2,Volley
+303430,Antoine Griezmann,Barcelona,8.683317338436963,0.05315829855308995,True,Head,Open Play,0,0,2,Normal
+303430,Samuel Chimerenka Chukwueze,Villarreal,24.147877753541817,0.055592930452876915,False,Left Foot,Open Play,0,0,1,Normal
+303430,Antoine Griezmann,Barcelona,16.506059493410287,0.06347212957378098,False,Left Foot,Open Play,1,0,3,Normal
+303430,Arthur Henrique Ramos de Oliveira Melo,Barcelona,31.207851576165897,0.0689198876165168,True,Right Foot,Open Play,0,0,0,Normal
+303430,Gerard Moreno Balaguero,Villarreal,29.24739304621866,0.07177614425380756,False,Left Foot,Open Play,0,0,3,Normal
+303430,Javier Ontiveros Parra,Villarreal,33.41751038003879,0.060500234331087616,False,Right Foot,Open Play,0,0,2,Normal
+303430,Samuel Chimerenka Chukwueze,Villarreal,11.321660655575222,0.06045364922090126,False,Other,Open Play,1,0,2,Normal
+303430,Santiago Cazorla González,Villarreal,28.861739379323623,0.0704772024250504,True,Left Foot,Open Play,0,1,1,Normal
+303430,Antoine Griezmann,Barcelona,9.881295461628499,0.059418265822467585,False,Left Foot,Open Play,1,0,0,Half Volley
+303430,Santiago Cazorla González,Villarreal,16.58493292117879,0.05871219874895311,False,Right Foot,Open Play,1,0,2,Normal
+303430,Luis Alberto Suárez Díaz,Barcelona,13.336416310238663,0.059120170915981915,False,Right Foot,Open Play,1,0,3,Normal
+303430,Samuel Chimerenka Chukwueze,Villarreal,20.634437234875097,0.05954623780195477,False,Left Foot,Open Play,0,0,2,Normal
+303430,Samuel Chimerenka Chukwueze,Villarreal,13.661625086350453,0.05843111050382674,False,Left Foot,Open Play,0,0,3,Normal
+303430,Karl Brillant Toko Ekambi,Villarreal,20.122127124138736,0.06551619080042795,False,Right Foot,Open Play,0,0,2,Normal
+303430,Moisés Gómez Bordonado,Villarreal,24.482646915723794,0.056421168648791875,False,Right Foot,Open Play,0,0,2,Normal
+303430,Anssumane Fati,Barcelona,19.56450868281645,0.06536397211599054,False,Left Foot,Open Play,0,0,2,Normal
+303430,Gerard Piqué Bernabéu,Barcelona,26.051679408437373,0.06967006195676335,False,Right Foot,Free Kick,0,0,0,Normal
+303430,Antoine Griezmann,Barcelona,16.664333169977123,0.059606788114590185,False,Left Foot,Open Play,0,1,2,Half Volley

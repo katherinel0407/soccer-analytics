@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.473678042761748,0.060380299715364634,False,Left Foot,Open Play,1,0,0,Volley
-27.444853798116686,0.07056643743632686,False,Left Foot,Open Play,0,0,2,Normal
-22.604866732630835,0.05686627997228852,False,Right Foot,Open Play,0,0,4,Normal
-23.452291998864414,0.05525170822417661,False,Right Foot,Open Play,1,0,0,Normal
-17.327723451163457,0.06374973621014149,False,Left Foot,Open Play,0,1,1,Normal
-30.212911147388624,0.06083962457760633,False,Left Foot,Free Kick,0,0,0,Normal
-28.657459761814195,0.057745036920328126,False,Left Foot,Free Kick,0,0,0,Normal
-20.86552180032888,0.054988910176165945,False,Left Foot,Open Play,0,0,1,Normal
-5.0606323715520025,0.05728205464096855,False,Left Foot,Open Play,1,0,5,Volley
-17.886866690396058,0.06042201370192319,False,Right Foot,Open Play,0,0,3,Normal
-21.606711920141844,0.05708050140609949,False,Right Foot,Open Play,1,0,0,Half Volley
-32.065557846387144,0.07408982212164164,False,Right Foot,Open Play,1,0,0,Normal
-7.244308110509936,0.057376339656849594,False,Left Foot,Open Play,1,0,3,Volley
-22.810962276940447,0.051785732729937264,False,Right Foot,Open Play,1,0,1,Normal
-23.446321673132438,0.06779643404118396,False,Left Foot,Open Play,0,0,1,Normal
-19.725364381932213,0.06539975112245519,False,Left Foot,Open Play,0,0,1,Normal
-6.120457499239744,0.05668132905079883,True,Right Foot,Open Play,1,1,2,Volley
-15.17959156235767,0.0625866325291535,False,Left Foot,Open Play,0,0,2,Normal
-31.982807881735468,0.06751366487508006,False,Left Foot,Open Play,0,0,1,Normal
-6.324555320336762,0.05571701638577512,False,Left Foot,Open Play,1,0,3,Half Volley
-5.299999999999997,0.05688906156970773,False,Right Foot,Open Play,1,0,3,Normal
-20.666155907667008,0.06609754218954415,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69179,Andrés Nicolás D''Alessandro,Real Zaragoza,13.473678042761748,0.060380299715364634,False,Left Foot,Open Play,1,0,0,Volley
+69179,Sergio García De La Fuente,Real Zaragoza,27.444853798116686,0.07056643743632686,False,Left Foot,Open Play,0,0,2,Normal
+69179,Carlos Andrés Diogo Enseñat,Real Zaragoza,22.604866732630835,0.05686627997228852,False,Right Foot,Open Play,0,0,4,Normal
+69179,Carlos Andrés Diogo Enseñat,Real Zaragoza,23.452291998864414,0.05525170822417661,False,Right Foot,Open Play,1,0,0,Normal
+69179,Lionel Andrés Messi Cuccittini,Barcelona,17.327723451163457,0.06374973621014149,False,Left Foot,Open Play,0,1,1,Normal
+69179,Andrés Nicolás D''Alessandro,Real Zaragoza,30.212911147388624,0.06083962457760633,False,Left Foot,Free Kick,0,0,0,Normal
+69179,Andrés Nicolás D''Alessandro,Real Zaragoza,28.657459761814195,0.057745036920328126,False,Left Foot,Free Kick,0,0,0,Normal
+69179,Sergio García De La Fuente,Real Zaragoza,20.86552180032888,0.054988910176165945,False,Left Foot,Open Play,0,0,1,Normal
+69179,Gabriel Alejandro Milito,Real Zaragoza,5.0606323715520025,0.05728205464096855,False,Left Foot,Open Play,1,0,5,Volley
+69179,Sergio García De La Fuente,Real Zaragoza,17.886866690396058,0.06042201370192319,False,Right Foot,Open Play,0,0,3,Normal
+69179,Anderson Luís de Souza,Barcelona,21.606711920141844,0.05708050140609949,False,Right Foot,Open Play,1,0,0,Half Volley
+69179,Ronaldo de Assis Moreira,Barcelona,32.065557846387144,0.07408982212164164,False,Right Foot,Open Play,1,0,0,Normal
+69179,Gabriel Alejandro Milito,Real Zaragoza,7.244308110509936,0.057376339656849594,False,Left Foot,Open Play,1,0,3,Volley
+69179,Ludovic Giuly,Barcelona,22.810962276940447,0.051785732729937264,False,Right Foot,Open Play,1,0,1,Normal
+69179,Anderson Luís de Souza,Barcelona,23.446321673132438,0.06779643404118396,False,Left Foot,Open Play,0,0,1,Normal
+69179,Andrés Nicolás D''Alessandro,Real Zaragoza,19.725364381932213,0.06539975112245519,False,Left Foot,Open Play,0,0,1,Normal
+69179,Diego Alberto Milito,Real Zaragoza,6.120457499239744,0.05668132905079883,True,Right Foot,Open Play,1,1,2,Volley
+69179,Anderson Luís de Souza,Barcelona,15.17959156235767,0.0625866325291535,False,Left Foot,Open Play,0,0,2,Normal
+69179,Jose María Movilla Cubero,Real Zaragoza,31.982807881735468,0.06751366487508006,False,Left Foot,Open Play,0,0,1,Normal
+69179,Lionel Andrés Messi Cuccittini,Barcelona,6.324555320336762,0.05571701638577512,False,Left Foot,Open Play,1,0,3,Half Volley
+69179,Eiður Smári Guðjohnsen,Barcelona,5.299999999999997,0.05688906156970773,False,Right Foot,Open Play,1,0,3,Normal
+69179,Gustavo Nery De Sá Da Silva,Real Zaragoza,20.666155907667008,0.06609754218954415,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.07650263120391,0.062311912090602134,False,Left Foot,Open Play,0,0,1,Normal
-15.462535367784938,0.05415398021487961,False,Right Foot,Open Play,1,0,1,Normal
-9.767292357659818,0.057981750548980554,False,Head,Open Play,0,1,2,Normal
-6.96419413859206,0.05655387790595624,False,Head,Open Play,0,0,3,Normal
-25.51960031034969,0.06931682961926934,False,Left Foot,Open Play,1,0,0,Normal
-28.29310870159021,0.06868214769754787,False,Right Foot,Open Play,0,0,2,Normal
-25.524889813670104,0.057366492966930915,False,Right Foot,Open Play,1,0,0,Half Volley
-11.666190466471903,0.06030329262808805,False,Left Foot,Open Play,1,0,4,Half Volley
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-12.65898890117216,0.06114977094415343,False,Right Foot,Open Play,0,0,4,Overhead Kick
-27.56320010448714,0.05629547050000373,False,Left Foot,Open Play,1,0,1,Normal
-6.300793600809342,0.05791464337029422,False,Head,Open Play,0,0,2,Normal
-3.4234485537247434,0.05627673328320723,True,Right Foot,Open Play,1,0,2,Normal
-14.590750494748377,0.06238666492921767,True,Left Foot,Open Play,0,0,2,Normal
-22.337860237721962,0.06355465904835021,False,Right Foot,Open Play,1,0,0,Normal
-27.036271932350438,0.06568206437111006,False,Right Foot,Open Play,0,0,2,Normal
-34.736292260401086,0.05702511388009605,False,Right Foot,Open Play,0,0,2,Normal
-4.816637831516916,0.05657321983598972,False,Left Foot,Open Play,1,0,4,Half Volley
-16.46238135872207,0.06279775269819873,False,Right Foot,Open Play,0,0,1,Lob
-21.600462958001618,0.0665281366221315,False,Right Foot,Open Play,0,0,2,Normal
-12.816005617976295,0.060986386757504674,False,Head,Open Play,0,1,6,Normal
-25.597265478953016,0.05287740551839351,False,Right Foot,Open Play,0,0,1,Normal
-25.14617267100503,0.06797474362059468,False,Left Foot,Open Play,0,0,1,Normal
-24.700809703327547,0.05487964061758792,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825601,Alen Halilović,Sporting Gijón,28.07650263120391,0.062311912090602134,False,Left Foot,Open Play,0,0,1,Normal
+3825601,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,15.462535367784938,0.05415398021487961,False,Right Foot,Open Play,1,0,1,Normal
+3825601,Tiago Manuel Dias Correia,Rayo Vallecano,9.767292357659818,0.057981750548980554,False,Head,Open Play,0,1,2,Normal
+3825601,Jozabed Sánchez Ruiz,Rayo Vallecano,6.96419413859206,0.05655387790595624,False,Head,Open Play,0,0,3,Normal
+3825601,Jonathan Rodríguez Menéndez,Sporting Gijón,25.51960031034969,0.06931682961926934,False,Left Foot,Open Play,1,0,0,Normal
+3825601,Tiago Manuel Dias Correia,Rayo Vallecano,28.29310870159021,0.06868214769754787,False,Right Foot,Open Play,0,0,2,Normal
+3825601,José Ignacio Martínez García,Rayo Vallecano,25.524889813670104,0.057366492966930915,False,Right Foot,Open Play,1,0,0,Half Volley
+3825601,Javier Guerra Rodríguez,Rayo Vallecano,11.666190466471903,0.06030329262808805,False,Left Foot,Open Play,1,0,4,Half Volley
+3825601,Roberto Trashorras Gayoso,Rayo Vallecano,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+3825601,Javier Guerra Rodríguez,Rayo Vallecano,12.65898890117216,0.06114977094415343,False,Right Foot,Open Play,0,0,4,Overhead Kick
+3825601,Răzvan Dincă Raț,Rayo Vallecano,27.56320010448714,0.05629547050000373,False,Left Foot,Open Play,1,0,1,Normal
+3825601,Jozabed Sánchez Ruiz,Rayo Vallecano,6.300793600809342,0.05791464337029422,False,Head,Open Play,0,0,2,Normal
+3825601,Javier Guerra Rodríguez,Rayo Vallecano,3.4234485537247434,0.05627673328320723,True,Right Foot,Open Play,1,0,2,Normal
+3825601,Jonathan Rodríguez Menéndez,Sporting Gijón,14.590750494748377,0.06238666492921767,True,Left Foot,Open Play,0,0,2,Normal
+3825601,Omar Mascarell González,Sporting Gijón,22.337860237721962,0.06355465904835021,False,Right Foot,Open Play,1,0,0,Normal
+3825601,Adrián Embarba Blázquez,Rayo Vallecano,27.036271932350438,0.06568206437111006,False,Right Foot,Open Play,0,0,2,Normal
+3825601,Tiago Manuel Dias Correia,Rayo Vallecano,34.736292260401086,0.05702511388009605,False,Right Foot,Open Play,0,0,2,Normal
+3825601,José Raúl Baena Urdiales,Rayo Vallecano,4.816637831516916,0.05657321983598972,False,Left Foot,Open Play,1,0,4,Half Volley
+3825601,Adrián Embarba Blázquez,Rayo Vallecano,16.46238135872207,0.06279775269819873,False,Right Foot,Open Play,0,0,1,Lob
+3825601,Adrián Embarba Blázquez,Rayo Vallecano,21.600462958001618,0.0665281366221315,False,Right Foot,Open Play,0,0,2,Normal
+3825601,Carlos Castro García,Sporting Gijón,12.816005617976295,0.060986386757504674,False,Head,Open Play,0,1,6,Normal
+3825601,Alhassane Bangoura,Rayo Vallecano,25.597265478953016,0.05287740551839351,False,Right Foot,Open Play,0,0,1,Normal
+3825601,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,25.14617267100503,0.06797474362059468,False,Left Foot,Open Play,0,0,1,Normal
+3825601,Roberto Trashorras Gayoso,Rayo Vallecano,24.700809703327547,0.05487964061758792,False,Left Foot,Open Play,0,1,1,Normal

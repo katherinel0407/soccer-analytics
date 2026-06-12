@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.074020039758238,0.05998373696458982,False,Left Foot,Open Play,0,0,0,Half Volley
-26.261188091935217,0.06301153185105174,False,Right Foot,Open Play,1,0,0,Normal
-19.25019480420912,0.06164991983547051,False,Right Foot,Open Play,0,0,4,Normal
-10.63014581273465,0.05202776003604453,False,Head,Open Play,0,1,1,Normal
-24.763077353188557,0.063420627906265,False,Right Foot,Open Play,1,0,1,Normal
-22.07374005464412,0.059141892123297235,True,Left Foot,Open Play,0,0,3,Normal
-8.022468448052631,0.05814938621840974,False,Head,Open Play,0,1,2,Normal
-23.63937393418024,0.059762647018758025,False,Right Foot,Open Play,0,0,1,Half Volley
-28.5,0.06715359576637868,False,Left Foot,Open Play,0,0,2,Normal
-28.27030243913213,0.0689343591677517,False,Right Foot,Open Play,1,0,1,Half Volley
-23.64487259428564,0.06800256074483471,False,Left Foot,Open Play,0,0,2,Half Volley
-26.010190310722447,0.06745261505699121,False,Left Foot,Free Kick,0,0,0,Normal
-29.134343994674055,0.0714182051913858,False,Left Foot,Open Play,0,0,2,Normal
-23.35294413987239,0.05129870106745607,False,Left Foot,Open Play,0,0,2,Half Volley
-26.681079438433517,0.06910385199914075,False,Right Foot,Open Play,1,0,0,Normal
-10.0568384694197,0.05965118429573804,False,Head,Open Play,0,1,2,Normal
-9.689685237405802,0.05637422507961128,False,Head,Open Play,0,1,4,Normal
-10.800462953040489,0.05987620078351337,False,Left Foot,Open Play,1,0,1,Half Volley
-6.888396039717806,0.05819935189834687,False,Left Foot,Open Play,1,0,1,Half Volley
-18.64242473499625,0.06336261942793898,False,Left Foot,Open Play,0,0,2,Normal
-60.68055701787847,0.10228549558286609,False,Left Foot,Open Play,1,0,1,Half Volley
-25.570686341981517,0.06661704140507467,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825812,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,13.074020039758238,0.05998373696458982,False,Left Foot,Open Play,0,0,0,Half Volley
+3825812,José Luis García del Pozo,Málaga,26.261188091935217,0.06301153185105174,False,Right Foot,Open Play,1,0,0,Normal
+3825812,Charles Días Barbosa de Oliveira,Málaga,19.25019480420912,0.06164991983547051,False,Right Foot,Open Play,0,0,4,Normal
+3825812,Charles Días Barbosa de Oliveira,Málaga,10.63014581273465,0.05202776003604453,False,Head,Open Play,0,1,1,Normal
+3825812,Pablo Fornals Malla,Málaga,24.763077353188557,0.063420627906265,False,Right Foot,Open Play,1,0,1,Normal
+3825812,Juan Pablo Añor Acosta,Málaga,22.07374005464412,0.059141892123297235,True,Left Foot,Open Play,0,0,3,Normal
+3825812,Carlos Carmona Bonet,Sporting Gijón,8.022468448052631,0.05814938621840974,False,Head,Open Play,0,1,2,Normal
+3825812,Juan Pablo Añor Acosta,Málaga,23.63937393418024,0.059762647018758025,False,Right Foot,Open Play,0,0,1,Half Volley
+3825812,Jonathan Rodríguez Menéndez,Sporting Gijón,28.5,0.06715359576637868,False,Left Foot,Open Play,0,0,2,Normal
+3825812,Pablo Fornals Malla,Málaga,28.27030243913213,0.0689343591677517,False,Right Foot,Open Play,1,0,1,Half Volley
+3825812,Gonzalo Castro Irizábal,Málaga,23.64487259428564,0.06800256074483471,False,Left Foot,Open Play,0,0,2,Half Volley
+3825812,Juan Pablo Añor Acosta,Málaga,26.010190310722447,0.06745261505699121,False,Left Foot,Free Kick,0,0,0,Normal
+3825812,Jonathan Rodríguez Menéndez,Sporting Gijón,29.134343994674055,0.0714182051913858,False,Left Foot,Open Play,0,0,2,Normal
+3825812,Roberto José Rosales Altuve,Málaga,23.35294413987239,0.05129870106745607,False,Left Foot,Open Play,0,0,2,Half Volley
+3825812,José Luis García del Pozo,Málaga,26.681079438433517,0.06910385199914075,False,Right Foot,Open Play,1,0,0,Normal
+3825812,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,10.0568384694197,0.05965118429573804,False,Head,Open Play,0,1,2,Normal
+3825812,Weligton Róbson Pena de Oliveira,Málaga,9.689685237405802,0.05637422507961128,False,Head,Open Play,0,1,4,Normal
+3825812,Pablo Pérez Rodríguez,Sporting Gijón,10.800462953040489,0.05987620078351337,False,Left Foot,Open Play,1,0,1,Half Volley
+3825812,Carlos Castro García,Sporting Gijón,6.888396039717806,0.05819935189834687,False,Left Foot,Open Play,1,0,1,Half Volley
+3825812,Alen Halilović,Sporting Gijón,18.64242473499625,0.06336261942793898,False,Left Foot,Open Play,0,0,2,Normal
+3825812,Jonathan Rodríguez Menéndez,Sporting Gijón,60.68055701787847,0.10228549558286609,False,Left Foot,Open Play,1,0,1,Half Volley
+3825812,Sérgio Paulo Barbosa Valente,Málaga,25.570686341981517,0.06661704140507467,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.705170877128149,0.058334711368283054,True,Right Foot,Open Play,1,0,1,Normal
-21.401401823245127,0.06631082143359714,False,Right Foot,Open Play,0,0,1,Normal
-27.947450688747985,0.07080768185098836,False,Right Foot,Open Play,1,0,0,Normal
-31.261797773000833,0.07361844092194726,False,Right Foot,Open Play,0,0,0,Normal
-21.663333076883628,0.060904561294243716,False,Right Foot,Open Play,1,0,1,Overhead Kick
-12.509996003196802,0.06120694478267432,True,Left Foot,Open Play,1,0,1,Half Volley
-27.577164466275356,0.06966827644155309,False,Right Foot,Open Play,0,0,3,Normal
-23.6027540765903,0.06575147707934477,False,Right Foot,Open Play,0,0,2,Half Volley
-22.105429197371397,0.061657608584858255,False,Left Foot,Open Play,0,0,2,Normal
-29.76390431378249,0.06366656355814171,False,Left Foot,Free Kick,0,0,0,Normal
-28.438178563332777,0.06553835428498633,False,Right Foot,Open Play,1,0,0,Normal
-29.31637767528587,0.07207859296243672,False,Right Foot,Open Play,0,0,1,Normal
-27.059933481071234,0.06733445537260922,True,Right Foot,Open Play,1,0,1,Normal
-13.705838172107537,0.05701979078356288,False,Right Foot,Open Play,0,0,1,Normal
-29.560953976487298,0.07229651353493859,False,Right Foot,Free Kick,0,0,0,Normal
-15.478048972658023,0.060025081990442264,False,Right Foot,Open Play,0,0,1,Normal
-15.901257811883937,0.05613013290760682,False,Right Foot,Open Play,1,0,1,Normal
-28.853076092507013,0.07169183156234527,False,Right Foot,Open Play,0,0,1,Normal
-13.0862523283024,0.06130162288825818,False,Left Foot,Open Play,0,0,2,Half Volley
-13.471451295239131,0.06167114158207067,False,Right Foot,Open Play,1,0,1,Normal
-12.126417442921882,0.06070099992359044,False,Head,Open Play,0,1,2,Normal
-25.241434190631875,0.06912713106171173,False,Right Foot,Free Kick,0,0,0,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749068,Patrick Vieira,Arsenal,8.705170877128149,0.058334711368283054,True,Right Foot,Open Play,1,0,1,Normal
+3749068,Dennis Bergkamp,Arsenal,21.401401823245127,0.06631082143359714,False,Right Foot,Open Play,0,0,1,Normal
+3749068,Jamie Redknapp,Tottenham Hotspur,27.947450688747985,0.07080768185098836,False,Right Foot,Open Play,1,0,0,Normal
+3749068,Mauricio Taricco,Tottenham Hotspur,31.261797773000833,0.07361844092194726,False,Right Foot,Open Play,0,0,0,Normal
+3749068,Frédéric Oumar Kanouté,Tottenham Hotspur,21.663333076883628,0.060904561294243716,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3749068,Robert Pirès,Arsenal,12.509996003196802,0.06120694478267432,True,Left Foot,Open Play,1,0,1,Half Volley
+3749068,Frédéric Oumar Kanouté,Tottenham Hotspur,27.577164466275356,0.06966827644155309,False,Right Foot,Open Play,0,0,3,Normal
+3749068,Simon Davies,Tottenham Hotspur,23.6027540765903,0.06575147707934477,False,Right Foot,Open Play,0,0,2,Half Volley
+3749068,Thierry Henry,Arsenal,22.105429197371397,0.061657608584858255,False,Left Foot,Open Play,0,0,2,Normal
+3749068,Johnnie Jackson,Tottenham Hotspur,29.76390431378249,0.06366656355814171,False,Left Foot,Free Kick,0,0,0,Normal
+3749068,Frédéric Oumar Kanouté,Tottenham Hotspur,28.438178563332777,0.06553835428498633,False,Right Foot,Open Play,1,0,0,Normal
+3749068,Thierry Henry,Arsenal,29.31637767528587,0.07207859296243672,False,Right Foot,Open Play,0,0,1,Normal
+3749068,Jamie Redknapp,Tottenham Hotspur,27.059933481071234,0.06733445537260922,True,Right Foot,Open Play,1,0,1,Normal
+3749068,Thierry Henry,Arsenal,13.705838172107537,0.05701979078356288,False,Right Foot,Open Play,0,0,1,Normal
+3749068,Jamie Redknapp,Tottenham Hotspur,29.560953976487298,0.07229651353493859,False,Right Foot,Free Kick,0,0,0,Normal
+3749068,Frédéric Oumar Kanouté,Tottenham Hotspur,15.478048972658023,0.060025081990442264,False,Right Foot,Open Play,0,0,1,Normal
+3749068,Robert Pirès,Arsenal,15.901257811883937,0.05613013290760682,False,Right Foot,Open Play,1,0,1,Normal
+3749068,Thierry Henry,Arsenal,28.853076092507013,0.07169183156234527,False,Right Foot,Open Play,0,0,1,Normal
+3749068,Jermain Defoe,Tottenham Hotspur,13.0862523283024,0.06130162288825818,False,Left Foot,Open Play,0,0,2,Half Volley
+3749068,Thierry Henry,Arsenal,13.471451295239131,0.06167114158207067,False,Right Foot,Open Play,1,0,1,Normal
+3749068,Jermain Defoe,Tottenham Hotspur,12.126417442921882,0.06070099992359044,False,Head,Open Play,0,1,2,Normal
+3749068,Jermain Defoe,Tottenham Hotspur,25.241434190631875,0.06912713106171173,False,Right Foot,Free Kick,0,0,0,Normal
+3749068,Robbie Keane,Tottenham Hotspur,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal

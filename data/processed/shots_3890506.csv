@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.143310915891101,0.060728792791484874,False,Right Foot,Open Play,1,1,1,Normal
-17.578680269007677,0.05727674778534324,False,Right Foot,Open Play,0,1,1,Normal
-30.53686296920494,0.06730562841873126,False,Right Foot,Open Play,1,0,0,Volley
-17.9069818785858,0.06234957828360266,False,Right Foot,Open Play,1,0,2,Half Volley
-18.46212338816963,0.054674125561131805,False,Right Foot,Open Play,0,0,1,Half Volley
-10.510946674776728,0.0573545765108616,False,Head,Open Play,0,1,3,Normal
-35.64547657136877,0.0696392379633082,False,Left Foot,Free Kick,0,0,0,Normal
-18.650737250843463,0.06378968551273044,True,Left Foot,Open Play,0,0,1,Normal
-6.735725647619559,0.05542269655826537,False,Head,Open Play,0,1,4,Normal
-32.400308640505266,0.06477587606226667,False,Right Foot,Open Play,0,0,1,Normal
-14.01855912710005,0.06194340392073627,False,Left Foot,Open Play,0,1,2,Normal
-24.331872102244823,0.06833224468812066,False,Left Foot,Open Play,0,0,1,Normal
-15.493547043850219,0.05484498917739386,True,Right Foot,Open Play,1,0,0,Volley
-13.250283015845355,0.0612937189912397,False,Head,Open Play,0,1,2,Normal
-19.337269714207327,0.062257958881811896,True,Right Foot,Open Play,1,0,1,Volley
-9.176055797563567,0.05912637631603643,False,Right Foot,Open Play,1,0,1,Half Volley
-5.950630218724741,0.05768556239011727,True,Head,Open Play,0,0,5,Normal
-40.28548125565834,0.07816954481636651,False,Right Foot,Open Play,0,0,0,Normal
-15.706368135250111,0.061702789672208345,False,Left Foot,Open Play,0,0,2,Normal
-34.33278316711303,0.06918138189236402,False,Right Foot,Open Play,0,1,1,Normal
-22.249719099350443,0.06713504579618672,False,Left Foot,Open Play,0,1,2,Half Volley
-10.324727599312247,0.054063833146324555,False,Head,Open Play,0,0,3,Normal
-2.9832867780352657,0.056172794602246084,False,Left Foot,Open Play,1,0,5,Half Volley
-12.215563842901394,0.057369117680943604,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890506,Peter Niemeyer,Darmstadt 98,12.143310915891101,0.060728792791484874,False,Right Foot,Open Play,1,1,1,Normal
+3890506,Lukas Rupp,VfB Stuttgart,17.578680269007677,0.05727674778534324,False,Right Foot,Open Play,0,1,1,Normal
+3890506,Peter Niemeyer,Darmstadt 98,30.53686296920494,0.06730562841873126,False,Right Foot,Open Play,1,0,0,Volley
+3890506,Peter Niemeyer,Darmstadt 98,17.9069818785858,0.06234957828360266,False,Right Foot,Open Play,1,0,2,Half Volley
+3890506,Marcel Heller,Darmstadt 98,18.46212338816963,0.054674125561131805,False,Right Foot,Open Play,0,0,1,Half Volley
+3890506,Slobodan Rajković,Darmstadt 98,10.510946674776728,0.0573545765108616,False,Head,Open Play,0,1,3,Normal
+3890506,Filip Kostić,VfB Stuttgart,35.64547657136877,0.0696392379633082,False,Left Foot,Free Kick,0,0,0,Normal
+3890506,Sandro Wagner,Darmstadt 98,18.650737250843463,0.06378968551273044,True,Left Foot,Open Play,0,0,1,Normal
+3890506,Sandro Wagner,Darmstadt 98,6.735725647619559,0.05542269655826537,False,Head,Open Play,0,1,4,Normal
+3890506,Christian Gentner,VfB Stuttgart,32.400308640505266,0.06477587606226667,False,Right Foot,Open Play,0,0,1,Normal
+3890506,Filip Kostić,VfB Stuttgart,14.01855912710005,0.06194340392073627,False,Left Foot,Open Play,0,1,2,Normal
+3890506,Filip Kostić,VfB Stuttgart,24.331872102244823,0.06833224468812066,False,Left Foot,Open Play,0,0,1,Normal
+3890506,Christian Gentner,VfB Stuttgart,15.493547043850219,0.05484498917739386,True,Right Foot,Open Play,1,0,0,Volley
+3890506,Sandro Wagner,Darmstadt 98,13.250283015845355,0.0612937189912397,False,Head,Open Play,0,1,2,Normal
+3890506,Lukas Rupp,VfB Stuttgart,19.337269714207327,0.062257958881811896,True,Right Foot,Open Play,1,0,1,Volley
+3890506,Sandro Wagner,Darmstadt 98,9.176055797563567,0.05912637631603643,False,Right Foot,Open Play,1,0,1,Half Volley
+3890506,Peter Niemeyer,Darmstadt 98,5.950630218724741,0.05768556239011727,True,Head,Open Play,0,0,5,Normal
+3890506,Sereso Geoffroy Gonzaroua Dié,VfB Stuttgart,40.28548125565834,0.07816954481636651,False,Right Foot,Open Play,0,0,0,Normal
+3890506,Filip Kostić,VfB Stuttgart,15.706368135250111,0.061702789672208345,False,Left Foot,Open Play,0,0,2,Normal
+3890506,Sandro Wagner,Darmstadt 98,34.33278316711303,0.06918138189236402,False,Right Foot,Open Play,0,1,1,Normal
+3890506,Konstantin Rausch,Darmstadt 98,22.249719099350443,0.06713504579618672,False,Left Foot,Open Play,0,1,2,Half Volley
+3890506,Luca Caldirola,Darmstadt 98,10.324727599312247,0.054063833146324555,False,Head,Open Play,0,0,3,Normal
+3890506,Peter Niemeyer,Darmstadt 98,2.9832867780352657,0.056172794602246084,False,Left Foot,Open Play,1,0,5,Half Volley
+3890506,Peter Niemeyer,Darmstadt 98,12.215563842901394,0.057369117680943604,False,Head,Open Play,0,0,4,Normal

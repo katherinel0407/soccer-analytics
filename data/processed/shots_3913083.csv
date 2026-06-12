@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.300273222004094,0.06365240979844192,False,Left Foot,Open Play,0,0,1,Normal
-21.973848092675976,0.05586301328075814,False,Right Foot,Open Play,1,1,2,Normal
-19.28989372702711,0.050922566291332155,False,Right Foot,Open Play,0,0,1,Lob
-18.483506160899235,0.056486797264267634,False,Left Foot,Open Play,0,0,3,Normal
-14.301398533010676,0.06049095219533785,False,Left Foot,Open Play,0,1,4,Normal
-15.910059710761614,0.06290775978819371,True,Left Foot,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-13.376471881628575,0.05717498164813435,False,Right Foot,Open Play,1,0,2,Volley
-26.16906570743404,0.05442818030022969,False,Right Foot,Open Play,0,0,3,Half Volley
-27.933134446388216,0.06915902986599164,False,Right Foot,Open Play,0,1,2,Normal
-25.0,0.056198236913228616,False,Left Foot,Open Play,0,1,2,Normal
-24.070729112347216,0.0631168890798218,False,Right Foot,Open Play,0,0,1,Normal
-28.681178497404876,0.05612285865883184,False,Left Foot,Open Play,0,0,3,Normal
-23.399999999999995,0.06765546187753517,False,Left Foot,Open Play,1,1,1,Half Volley
-20.294334184693028,0.06567578472309527,False,Left Foot,Open Play,0,0,2,Normal
-14.964624953536257,0.05160369521692335,False,Right Foot,Open Play,0,1,2,Normal
-19.516659550240657,0.06151607934583834,False,Right Foot,Open Play,0,1,4,Normal
-8.935882720806038,0.0562235136931799,False,Head,Open Play,0,0,2,Diving Header
-31.60775221365796,0.07253954837124263,False,Right Foot,Open Play,0,0,2,Normal
-9.167878707749141,0.05934197127152632,False,Right Foot,Open Play,1,1,2,Normal
-15.393505123915086,0.06273713305710951,False,Right Foot,Open Play,1,0,2,Half Volley
-12.532358118087753,0.05947275898468951,True,Left Foot,Open Play,1,1,2,Normal
-32.96604313532335,0.0572739553176574,False,Right Foot,Open Play,0,0,1,Lob
-17.20377865470258,0.05737305742735178,True,Right Foot,Open Play,0,0,1,Normal
-23.749736840647312,0.06808752938052245,False,Right Foot,Open Play,0,0,1,Normal
-6.664082832618454,0.05805011528969844,False,Head,Open Play,0,1,5,Normal
-27.148664792214003,0.07020872427366136,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913083,Khadija Monifa Shaw,Manchester City WFC,18.300273222004094,0.06365240979844192,False,Left Foot,Open Play,0,0,1,Normal
+3913083,Khadija Monifa Shaw,Manchester City WFC,21.973848092675976,0.05586301328075814,False,Right Foot,Open Play,1,1,2,Normal
+3913083,Chloe Kelly,Manchester City WFC,19.28989372702711,0.050922566291332155,False,Right Foot,Open Play,0,0,1,Lob
+3913083,Khadija Monifa Shaw,Manchester City WFC,18.483506160899235,0.056486797264267634,False,Left Foot,Open Play,0,0,3,Normal
+3913083,Chloe Kelly,Manchester City WFC,14.301398533010676,0.06049095219533785,False,Left Foot,Open Play,0,1,4,Normal
+3913083,Stephanie-Elise Catley,Arsenal WFC,15.910059710761614,0.06290775978819371,True,Left Foot,Open Play,0,1,2,Normal
+3913083,Kim Little,Arsenal WFC,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3913083,Amanda Ilestedt,Arsenal WFC,13.376471881628575,0.05717498164813435,False,Right Foot,Open Play,1,0,2,Volley
+3913083,Alessia Russo,Arsenal WFC,26.16906570743404,0.05442818030022969,False,Right Foot,Open Play,0,0,3,Half Volley
+3913083,Caitlin Jade Foord,Arsenal WFC,27.933134446388216,0.06915902986599164,False,Right Foot,Open Play,0,1,2,Normal
+3913083,Cloé Zoé Eyja Lacasse,Arsenal WFC,25.0,0.056198236913228616,False,Left Foot,Open Play,0,1,2,Normal
+3913083,Jill Roord,Manchester City WFC,24.070729112347216,0.0631168890798218,False,Right Foot,Open Play,0,0,1,Normal
+3913083,Katie McCabe,Arsenal WFC,28.681178497404876,0.05612285865883184,False,Left Foot,Open Play,0,0,3,Normal
+3913083,Leila Ouahabi El Ouahabi,Manchester City WFC,23.399999999999995,0.06765546187753517,False,Left Foot,Open Play,1,1,1,Half Volley
+3913083,Chloe Kelly,Manchester City WFC,20.294334184693028,0.06567578472309527,False,Left Foot,Open Play,0,0,2,Normal
+3913083,Khadija Monifa Shaw,Manchester City WFC,14.964624953536257,0.05160369521692335,False,Right Foot,Open Play,0,1,2,Normal
+3913083,Khadija Monifa Shaw,Manchester City WFC,19.516659550240657,0.06151607934583834,False,Right Foot,Open Play,0,1,4,Normal
+3913083,Khadija Monifa Shaw,Manchester City WFC,8.935882720806038,0.0562235136931799,False,Head,Open Play,0,0,2,Diving Header
+3913083,Frida Maanum,Arsenal WFC,31.60775221365796,0.07253954837124263,False,Right Foot,Open Play,0,0,2,Normal
+3913083,Khadija Monifa Shaw,Manchester City WFC,9.167878707749141,0.05934197127152632,False,Right Foot,Open Play,1,1,2,Normal
+3913083,Julie Blakstad,Manchester City WFC,15.393505123915086,0.06273713305710951,False,Right Foot,Open Play,1,0,2,Half Volley
+3913083,Chloe Kelly,Manchester City WFC,12.532358118087753,0.05947275898468951,True,Left Foot,Open Play,1,1,2,Normal
+3913083,Chloe Kelly,Manchester City WFC,32.96604313532335,0.0572739553176574,False,Right Foot,Open Play,0,0,1,Lob
+3913083,Emma Stina Blackstenius,Arsenal WFC,17.20377865470258,0.05737305742735178,True,Right Foot,Open Play,0,0,1,Normal
+3913083,Mary Boio Fowler,Manchester City WFC,23.749736840647312,0.06808752938052245,False,Right Foot,Open Play,0,0,1,Normal
+3913083,Khadija Monifa Shaw,Manchester City WFC,6.664082832618454,0.05805011528969844,False,Head,Open Play,0,1,5,Normal
+3913083,Frida Maanum,Arsenal WFC,27.148664792214003,0.07020872427366136,False,Right Foot,Open Play,0,0,3,Normal

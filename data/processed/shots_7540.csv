@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.90724809414742,0.06979644433255193,False,Left Foot,Open Play,0,0,1,Normal
-10.198039027185569,0.05943943692925755,False,Head,Open Play,0,0,3,Normal
-24.186773244895647,0.06637476208566208,False,Right Foot,Open Play,0,0,1,Normal
-22.47220505424423,0.05986089032781617,False,Left Foot,Open Play,0,0,3,Normal
-8.06225774829855,0.05836627170711102,False,Head,Open Play,0,1,3,Normal
-21.93171219946131,0.06623248097786057,False,Right Foot,Open Play,0,0,2,Normal
-28.635642126552707,0.06998727756190204,False,Right Foot,Open Play,0,0,0,Normal
-32.01562118716424,0.07281203576850721,False,Right Foot,Open Play,0,0,0,Normal
-24.186773244895647,0.06844259943706751,False,Right Foot,Open Play,0,0,0,Normal
-15.297058540778355,0.05981693264234329,False,Head,Open Play,0,1,1,Normal
-9.219544457292887,0.0593883558980146,False,Head,Open Play,0,1,1,Normal
-30.01666203960727,0.06846351391294629,False,Left Foot,Open Play,0,0,1,Normal
-13.038404810405298,0.05964280276771261,False,Head,Open Play,0,1,2,Normal
-9.899494936611665,0.05521824177545141,False,Head,Open Play,0,1,2,Normal
-17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,0,2,Normal
-27.459060435491963,0.05710414914897013,False,Right Foot,Open Play,1,0,0,Normal
-14.7648230602334,0.062454776350060776,False,Left Foot,Open Play,0,1,3,Normal
-11.40175425099138,0.05591342651236463,True,Left Foot,Open Play,1,0,2,Normal
-12.649110640673518,0.05812118955557693,True,Right Foot,Open Play,0,0,3,Normal
-15.811388300841896,0.05654602879823344,False,Head,Open Play,0,0,2,Normal
-19.0,0.06263807366013797,False,Right Foot,Open Play,0,1,1,Normal
-30.59411708155671,0.07115826359483259,False,Right Foot,Open Play,0,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-6.708203932499369,0.05768020589547797,False,Head,Open Play,0,0,3,Diving Header
-18.110770276274835,0.06300605568183924,False,Left Foot,Open Play,0,0,2,Half Volley
-26.1725046566048,0.05377317501842974,False,Left Foot,Open Play,0,0,0,Normal
-28.792360097775937,0.06105764888995644,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7540,Roman Zobnin,Russia,26.90724809414742,0.06979644433255193,False,Left Foot,Open Play,0,0,1,Normal
+7540,Sergei Ignashevich,Russia,10.198039027185569,0.05943943692925755,False,Head,Open Play,0,0,3,Normal
+7540,Aleksandr Golovin,Russia,24.186773244895647,0.06637476208566208,False,Right Foot,Open Play,0,0,1,Normal
+7540,Denis Cheryshev,Russia,22.47220505424423,0.05986089032781617,False,Left Foot,Open Play,0,0,3,Normal
+7540,Marwan Mohsen,Egypt,8.06225774829855,0.05836627170711102,False,Head,Open Play,0,1,3,Normal
+7540,Mahmoud Ibrahim Hassan,Egypt,21.93171219946131,0.06623248097786057,False,Right Foot,Open Play,0,0,2,Normal
+7540,Denis Cheryshev,Russia,28.635642126552707,0.06998727756190204,False,Right Foot,Open Play,0,0,0,Normal
+7540,Yury Gazinskiy,Russia,32.01562118716424,0.07281203576850721,False,Right Foot,Open Play,0,0,0,Normal
+7540,Mahmoud Ibrahim Hassan,Egypt,24.186773244895647,0.06844259943706751,False,Right Foot,Open Play,0,0,0,Normal
+7540,Marwan Mohsen,Egypt,15.297058540778355,0.05981693264234329,False,Head,Open Play,0,1,1,Normal
+7540,Marwan Mohsen,Egypt,9.219544457292887,0.0593883558980146,False,Head,Open Play,0,1,1,Normal
+7540,Denis Cheryshev,Russia,30.01666203960727,0.06846351391294629,False,Left Foot,Open Play,0,0,1,Normal
+7540,Marwan Mohsen,Egypt,13.038404810405298,0.05964280276771261,False,Head,Open Play,0,1,2,Normal
+7540,Artem Dzyuba,Russia,9.899494936611665,0.05521824177545141,False,Head,Open Play,0,1,2,Normal
+7540,Mohamed Salah,Egypt,17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,0,2,Normal
+7540,Roman Zobnin,Russia,27.459060435491963,0.05710414914897013,False,Right Foot,Open Play,1,0,0,Normal
+7540,Mohamed Salah,Egypt,14.7648230602334,0.062454776350060776,False,Left Foot,Open Play,0,1,3,Normal
+7540,Denis Cheryshev,Russia,11.40175425099138,0.05591342651236463,True,Left Foot,Open Play,1,0,2,Normal
+7540,Artem Dzyuba,Russia,12.649110640673518,0.05812118955557693,True,Right Foot,Open Play,0,0,3,Normal
+7540,Ali Gabr,Egypt,15.811388300841896,0.05654602879823344,False,Head,Open Play,0,0,2,Normal
+7540,Mahmoud Ibrahim Hassan,Egypt,19.0,0.06263807366013797,False,Right Foot,Open Play,0,1,1,Normal
+7540,Abdalla Mahmoud El Said Bekhit,Egypt,30.59411708155671,0.07115826359483259,False,Right Foot,Open Play,0,0,0,Normal
+7540,Mohamed Salah,Egypt,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+7540,Sergei Ignashevich,Russia,6.708203932499369,0.05768020589547797,False,Head,Open Play,0,0,3,Diving Header
+7540,Mohamed Salah,Egypt,18.110770276274835,0.06300605568183924,False,Left Foot,Open Play,0,0,2,Half Volley
+7540,Amr Medhat Warda,Egypt,26.1725046566048,0.05377317501842974,False,Left Foot,Open Play,0,0,0,Normal
+7540,Tarek Hamed,Egypt,28.792360097775937,0.06105764888995644,False,Right Foot,Open Play,0,0,1,Normal

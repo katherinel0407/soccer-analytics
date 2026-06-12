@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.30931394012394,0.06571147154939184,False,Left Foot,Open Play,0,1,1,Normal
-19.68171740473884,0.06432820499161683,False,Left Foot,Open Play,0,0,2,Half Volley
-19.307252523339514,0.05504411862492397,False,Right Foot,Open Play,1,1,1,Normal
-11.002272492535353,0.060306830236884566,False,Head,Open Play,0,0,5,Normal
-14.23938200906205,0.05330990542641454,False,Left Foot,Open Play,1,0,1,Volley
-30.10398644698074,0.07265732388727322,False,Right Foot,Open Play,0,1,3,Half Volley
-21.10663402819123,0.06637063299085151,False,Right Foot,Open Play,0,1,3,Normal
-13.433167906342867,0.053437387851267164,True,Right Foot,Open Play,0,0,1,Normal
-18.16645259812713,0.05322351039527493,False,Right Foot,Open Play,1,1,1,Normal
-18.51485889765298,0.06465965783174454,False,Right Foot,Open Play,0,0,2,Normal
-20.673654732533382,0.06596299139866074,False,Left Foot,Open Play,0,1,2,Normal
-29.007929950273947,0.06869565280966806,False,Left Foot,Open Play,0,0,2,Normal
-26.279459659589655,0.06922663688125405,False,Left Foot,Open Play,0,1,1,Normal
-33.58719994283537,0.06210132148460361,False,Right Foot,Open Play,0,0,1,Normal
-6.356099432828279,0.05625962439407648,False,Head,Open Play,0,0,3,Normal
-28.652574055396833,0.06390972878536282,False,Left Foot,Open Play,0,1,2,Normal
-27.16265819097976,0.06333463412289805,False,Right Foot,Open Play,1,0,0,Half Volley
-31.292970456637708,0.05470637275997423,False,Right Foot,Open Play,0,0,2,Normal
-28.00285699709942,0.06669215160821913,False,Left Foot,Open Play,0,1,2,Normal
-12.68108828137396,0.061221963359246394,True,Head,Open Play,0,0,1,Normal
-30.71221255461742,0.07324317226682318,False,Right Foot,Open Play,0,0,2,Normal
-19.888187448835048,0.06532079149880787,False,Right Foot,Open Play,0,1,3,Normal
-7.596051605933173,0.056713691501813775,False,Head,Open Play,0,1,4,Normal
-9.013878188659973,0.05338370672592803,False,Right Foot,Open Play,1,0,0,Volley
-21.95928049823127,0.053537553535590365,False,Right Foot,Open Play,1,0,1,Normal
-10.270345661174218,0.0584291279977315,False,Head,Open Play,0,0,3,Normal
-19.243960091415694,0.06505217091908731,False,Left Foot,Open Play,0,0,0,Volley
-18.804254837669053,0.06404701294244376,False,Left Foot,Open Play,0,0,0,Normal
-21.48324928869001,0.06241670750642578,False,Right Foot,Open Play,0,1,1,Normal
-28.071337695236394,0.05718352463924919,False,Left Foot,Open Play,0,0,1,Normal
-32.96073421512331,0.07059017745919068,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890560,Peter Niemeyer,Darmstadt 98,26.30931394012394,0.06571147154939184,False,Left Foot,Open Play,0,1,1,Normal
+3890560,Felix Platte,Darmstadt 98,19.68171740473884,0.06432820499161683,False,Left Foot,Open Play,0,0,2,Half Volley
+3890560,André Hahn,Borussia Mönchengladbach,19.307252523339514,0.05504411862492397,False,Right Foot,Open Play,1,1,1,Normal
+3890560,Andreas Christensen,Borussia Mönchengladbach,11.002272492535353,0.060306830236884566,False,Head,Open Play,0,0,5,Normal
+3890560,Mario Vrančić,Darmstadt 98,14.23938200906205,0.05330990542641454,False,Left Foot,Open Play,1,0,1,Volley
+3890560,André Hahn,Borussia Mönchengladbach,30.10398644698074,0.07265732388727322,False,Right Foot,Open Play,0,1,3,Half Volley
+3890560,Patrick Herrmann,Borussia Mönchengladbach,21.10663402819123,0.06637063299085151,False,Right Foot,Open Play,0,1,3,Normal
+3890560,Thorgan Hazard,Borussia Mönchengladbach,13.433167906342867,0.053437387851267164,True,Right Foot,Open Play,0,0,1,Normal
+3890560,Jonas Hofmann,Borussia Mönchengladbach,18.16645259812713,0.05322351039527493,False,Right Foot,Open Play,1,1,1,Normal
+3890560,Thorgan Hazard,Borussia Mönchengladbach,18.51485889765298,0.06465965783174454,False,Right Foot,Open Play,0,0,2,Normal
+3890560,Ibrahima Traoré,Borussia Mönchengladbach,20.673654732533382,0.06596299139866074,False,Left Foot,Open Play,0,1,2,Normal
+3890560,Marvin Schulz,Borussia Mönchengladbach,29.007929950273947,0.06869565280966806,False,Left Foot,Open Play,0,0,2,Normal
+3890560,Jonas Hofmann,Borussia Mönchengladbach,26.279459659589655,0.06922663688125405,False,Left Foot,Open Play,0,1,1,Normal
+3890560,Thorgan Hazard,Borussia Mönchengladbach,33.58719994283537,0.06210132148460361,False,Right Foot,Open Play,0,0,1,Normal
+3890560,Peter Niemeyer,Darmstadt 98,6.356099432828279,0.05625962439407648,False,Head,Open Play,0,0,3,Normal
+3890560,Granit Xhaka,Borussia Mönchengladbach,28.652574055396833,0.06390972878536282,False,Left Foot,Open Play,0,1,2,Normal
+3890560,Jonas Hofmann,Borussia Mönchengladbach,27.16265819097976,0.06333463412289805,False,Right Foot,Open Play,1,0,0,Half Volley
+3890560,Patrick Herrmann,Borussia Mönchengladbach,31.292970456637708,0.05470637275997423,False,Right Foot,Open Play,0,0,2,Normal
+3890560,Granit Xhaka,Borussia Mönchengladbach,28.00285699709942,0.06669215160821913,False,Left Foot,Open Play,0,1,2,Normal
+3890560,André Hahn,Borussia Mönchengladbach,12.68108828137396,0.061221963359246394,True,Head,Open Play,0,0,1,Normal
+3890560,Håvard Nordtveit,Borussia Mönchengladbach,30.71221255461742,0.07324317226682318,False,Right Foot,Open Play,0,0,2,Normal
+3890560,André Hahn,Borussia Mönchengladbach,19.888187448835048,0.06532079149880787,False,Right Foot,Open Play,0,1,3,Normal
+3890560,Andreas Christensen,Borussia Mönchengladbach,7.596051605933173,0.056713691501813775,False,Head,Open Play,0,1,4,Normal
+3890560,Jonas Hofmann,Borussia Mönchengladbach,9.013878188659973,0.05338370672592803,False,Right Foot,Open Play,1,0,0,Volley
+3890560,Håvard Nordtveit,Borussia Mönchengladbach,21.95928049823127,0.053537553535590365,False,Right Foot,Open Play,1,0,1,Normal
+3890560,Felix Platte,Darmstadt 98,10.270345661174218,0.0584291279977315,False,Head,Open Play,0,0,3,Normal
+3890560,Jérôme Gondorf,Darmstadt 98,19.243960091415694,0.06505217091908731,False,Left Foot,Open Play,0,0,0,Volley
+3890560,Jérôme Gondorf,Darmstadt 98,18.804254837669053,0.06404701294244376,False,Left Foot,Open Play,0,0,0,Normal
+3890560,Jonas Hofmann,Borussia Mönchengladbach,21.48324928869001,0.06241670750642578,False,Right Foot,Open Play,0,1,1,Normal
+3890560,Tobias Kempe,Darmstadt 98,28.071337695236394,0.05718352463924919,False,Left Foot,Open Play,0,0,1,Normal
+3890560,Peter Niemeyer,Darmstadt 98,32.96073421512331,0.07059017745919068,False,Right Foot,Open Play,0,0,0,Normal

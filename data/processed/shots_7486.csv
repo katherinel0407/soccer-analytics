@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.0,0.05795378045521751,False,Head,Open Play,0,0,2,Normal
-13.892443989449804,0.056978846643416965,False,Head,Open Play,0,1,0,Normal
-11.40175425099138,0.06020545138587247,True,Head,Open Play,0,0,3,Normal
-30.0,0.06790687534121487,False,Right Foot,Open Play,0,1,1,Normal
-12.727922061357855,0.061159910748726246,False,Head,Open Play,0,0,1,Normal
-11.704699910719626,0.057738048242450914,False,Head,Open Play,0,0,3,Normal
-4.242640687119285,0.05686534725156365,True,Right Foot,Open Play,0,0,1,Half Volley
-23.600847442411894,0.05272183147123836,False,Left Foot,Open Play,0,0,1,Normal
-2.23606797749979,0.05469035855109797,True,Right Foot,Open Play,0,0,2,Normal
-11.40175425099138,0.054520145334636776,False,Right Foot,Open Play,0,0,1,Overhead Kick
-30.083217912982647,0.06292711152415441,False,Right Foot,Open Play,1,0,1,Normal
-20.8806130178211,0.06559953735901075,False,Right Foot,Open Play,0,0,1,Normal
-29.068883707497267,0.05908720978900898,False,Right Foot,Open Play,0,0,1,Normal
-20.808652046684813,0.06615868460179003,False,Right Foot,Open Play,0,0,2,Normal
-15.811388300841896,0.053698492967414406,True,Right Foot,Open Play,0,0,2,Normal
-27.313000567495326,0.0704634714141569,False,Right Foot,Free Kick,0,0,0,Normal
-18.788294228055936,0.05838188301936847,False,Right Foot,Open Play,0,1,2,Normal
-28.635642126552707,0.06364678565071621,False,Left Foot,Open Play,0,0,1,Normal
-12.649110640673518,0.05253974918823067,False,Right Foot,Open Play,0,0,0,Normal
-12.806248474865697,0.060967023380698634,False,Right Foot,Open Play,0,1,1,Normal
-27.018512172212592,0.06589130279848567,False,Right Foot,Open Play,0,1,2,Normal
-18.24828759089466,0.06092647242856885,False,Left Foot,Open Play,0,0,3,Normal
-10.04987562112089,0.05910387785405155,False,Head,Open Play,0,0,2,Normal
-19.1049731745428,0.06347591902523311,False,Right Foot,Open Play,0,0,1,Normal
-17.26267650163207,0.06293265987850491,False,Right Foot,Open Play,0,0,2,Normal
-9.219544457292887,0.054875192266184744,False,Right Foot,Open Play,1,0,2,Normal
-14.866068747318506,0.054766915969498,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7486,Lindsey Michelle Horan,Portland Thorns,8.0,0.05795378045521751,False,Head,Open Play,0,0,2,Normal
+7486,Hayley Emma Raso,Portland Thorns,13.892443989449804,0.056978846643416965,False,Head,Open Play,0,1,0,Normal
+7486,Lindsey Michelle Horan,Portland Thorns,11.40175425099138,0.06020545138587247,True,Head,Open Play,0,0,3,Normal
+7486,Lindsey Michelle Horan,Portland Thorns,30.0,0.06790687534121487,False,Right Foot,Open Play,0,1,1,Normal
+7486,Ana-Maria Crnogorčević,Portland Thorns,12.727922061357855,0.061159910748726246,False,Head,Open Play,0,0,1,Normal
+7486,Ana-Maria Crnogorčević,Portland Thorns,11.704699910719626,0.057738048242450914,False,Head,Open Play,0,0,3,Normal
+7486,Lindsey Michelle Horan,Portland Thorns,4.242640687119285,0.05686534725156365,True,Right Foot,Open Play,0,0,1,Half Volley
+7486,Taylor Comeau,Houston Dash,23.600847442411894,0.05272183147123836,False,Left Foot,Open Play,0,0,1,Normal
+7486,Kealia Ohai,Houston Dash,2.23606797749979,0.05469035855109797,True,Right Foot,Open Play,0,0,2,Normal
+7486,Rachel Daly,Houston Dash,11.40175425099138,0.054520145334636776,False,Right Foot,Open Play,0,0,1,Overhead Kick
+7486,Clare Elizabeth Polkinghorne,Houston Dash,30.083217912982647,0.06292711152415441,False,Right Foot,Open Play,1,0,1,Normal
+7486,Christine Margaret Sinclair,Portland Thorns,20.8806130178211,0.06559953735901075,False,Right Foot,Open Play,0,0,1,Normal
+7486,Tobin Powell Heath,Portland Thorns,29.068883707497267,0.05908720978900898,False,Right Foot,Open Play,0,0,1,Normal
+7486,Nichelle Patrice Prince,Houston Dash,20.808652046684813,0.06615868460179003,False,Right Foot,Open Play,0,0,2,Normal
+7486,Ana-Maria Crnogorčević,Portland Thorns,15.811388300841896,0.053698492967414406,True,Right Foot,Open Play,0,0,2,Normal
+7486,Lindsey Michelle Horan,Portland Thorns,27.313000567495326,0.0704634714141569,False,Right Foot,Free Kick,0,0,0,Normal
+7486,Lindsey Michelle Horan,Portland Thorns,18.788294228055936,0.05838188301936847,False,Right Foot,Open Play,0,1,2,Normal
+7486,Amber Brooks,Houston Dash,28.635642126552707,0.06364678565071621,False,Left Foot,Open Play,0,0,1,Normal
+7486,Hayley Emma Raso,Portland Thorns,12.649110640673518,0.05253974918823067,False,Right Foot,Open Play,0,0,0,Normal
+7486,Tobin Powell Heath,Portland Thorns,12.806248474865697,0.060967023380698634,False,Right Foot,Open Play,0,1,1,Normal
+7486,Tobin Powell Heath,Portland Thorns,27.018512172212592,0.06589130279848567,False,Right Foot,Open Play,0,1,2,Normal
+7486,Hayley Emma Raso,Portland Thorns,18.24828759089466,0.06092647242856885,False,Left Foot,Open Play,0,0,3,Normal
+7486,Rachel Daly,Houston Dash,10.04987562112089,0.05910387785405155,False,Head,Open Play,0,0,2,Normal
+7486,Christine Margaret Sinclair,Portland Thorns,19.1049731745428,0.06347591902523311,False,Right Foot,Open Play,0,0,1,Normal
+7486,Tyler Lussi,Portland Thorns,17.26267650163207,0.06293265987850491,False,Right Foot,Open Play,0,0,2,Normal
+7486,Nichelle Patrice Prince,Houston Dash,9.219544457292887,0.054875192266184744,False,Right Foot,Open Play,1,0,2,Normal
+7486,Tyler Lussi,Portland Thorns,14.866068747318506,0.054766915969498,False,Right Foot,Open Play,0,1,1,Normal

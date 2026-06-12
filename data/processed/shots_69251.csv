@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.80665700657966,0.059004473778986224,False,Right Foot,Free Kick,0,0,0,Normal
-13.324038426843416,0.06124682213883934,False,Head,Open Play,1,1,2,Normal
-33.23567360532955,0.07129388221580768,False,Right Foot,Free Kick,0,0,0,Normal
-14.355835050598762,0.06206884152332925,False,Right Foot,Open Play,1,1,1,Normal
-12.202458768625277,0.055690266395749866,False,Head,Open Play,0,1,2,Normal
-8.287339742040269,0.058425272887731104,True,Left Foot,Open Play,1,0,3,Normal
-21.243822631532215,0.0583072034262407,False,Left Foot,Open Play,0,1,1,Half Volley
-26.475649189396666,0.06508871016586994,False,Right Foot,Open Play,0,0,1,Normal
-18.925643978475343,0.062180036655933,False,Left Foot,Open Play,0,1,2,Normal
-9.558765610684263,0.05497785783896761,False,Head,Open Play,0,1,2,Normal
-12.416923934694935,0.06032486516052826,False,Head,Open Play,0,0,3,Normal
-12.461540835707273,0.06043058204258777,False,Head,Open Play,0,0,2,Normal
-6.551335741663685,0.05775654483468884,True,Other,Open Play,1,0,6,Normal
-15.726728839781016,0.06299607783802376,True,Right Foot,Open Play,0,0,1,Normal
-25.9433999313891,0.06946802893887587,False,Right Foot,Free Kick,0,0,0,Normal
-22.010224896624756,0.06295668462764502,False,Right Foot,Open Play,0,0,2,Half Volley
-25.364739304790813,0.06781420945138418,False,Right Foot,Open Play,0,1,2,Normal
-27.52816739269071,0.060836440253525075,False,Right Foot,Open Play,0,0,0,Normal
-22.308070288574942,0.06560762268659037,False,Right Foot,Open Play,1,0,0,Normal
-13.934489585198301,0.054976239703334616,False,Left Foot,Open Play,0,0,1,Half Volley
-16.53874239475299,0.06030508146470748,True,Left Foot,Open Play,1,1,4,Half Volley
-15.670673246545599,0.05985303017739632,False,Left Foot,Open Play,0,1,1,Half Volley
-41.81219917679529,0.06393073964199772,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69251,Daniel Alves da Silva,Barcelona,36.80665700657966,0.059004473778986224,False,Right Foot,Free Kick,0,0,0,Normal
+69251,Lionel Andrés Messi Cuccittini,Barcelona,13.324038426843416,0.06124682213883934,False,Head,Open Play,1,1,2,Normal
+69251,David Villa Sánchez,Valencia,33.23567360532955,0.07129388221580768,False,Right Foot,Free Kick,0,0,0,Normal
+69251,David Villa Sánchez,Valencia,14.355835050598762,0.06206884152332925,False,Right Foot,Open Play,1,1,1,Normal
+69251,Carles Puyol i Saforcada,Barcelona,12.202458768625277,0.055690266395749866,False,Head,Open Play,0,1,2,Normal
+69251,Lionel Andrés Messi Cuccittini,Barcelona,8.287339742040269,0.058425272887731104,True,Left Foot,Open Play,1,0,3,Normal
+69251,Lionel Andrés Messi Cuccittini,Barcelona,21.243822631532215,0.0583072034262407,False,Left Foot,Open Play,0,1,1,Half Volley
+69251,Samuel Eto''o Fils,Barcelona,26.475649189396666,0.06508871016586994,False,Right Foot,Open Play,0,0,1,Normal
+69251,David Villa Sánchez,Valencia,18.925643978475343,0.062180036655933,False,Left Foot,Open Play,0,1,2,Normal
+69251,Hedwiges Maduro,Valencia,9.558765610684263,0.05497785783896761,False,Head,Open Play,0,1,2,Normal
+69251,Seydou Kéita,Barcelona,12.416923934694935,0.06032486516052826,False,Head,Open Play,0,0,3,Normal
+69251,David Josué Jiménez Silva,Valencia,12.461540835707273,0.06043058204258777,False,Head,Open Play,0,0,2,Normal
+69251,Hedwiges Maduro,Valencia,6.551335741663685,0.05775654483468884,True,Other,Open Play,1,0,6,Normal
+69251,Pablo Hernández Domínguez,Valencia,15.726728839781016,0.06299607783802376,True,Right Foot,Open Play,0,0,1,Normal
+69251,Daniel Alves da Silva,Barcelona,25.9433999313891,0.06946802893887587,False,Right Foot,Free Kick,0,0,0,Normal
+69251,Samuel Eto''o Fils,Barcelona,22.010224896624756,0.06295668462764502,False,Right Foot,Open Play,0,0,2,Half Volley
+69251,Thierry Henry,Barcelona,25.364739304790813,0.06781420945138418,False,Right Foot,Open Play,0,1,2,Normal
+69251,Thierry Henry,Barcelona,27.52816739269071,0.060836440253525075,False,Right Foot,Open Play,0,0,0,Normal
+69251,Thierry Henry,Barcelona,22.308070288574942,0.06560762268659037,False,Right Foot,Open Play,1,0,0,Normal
+69251,Juan Manuel Mata García,Valencia,13.934489585198301,0.054976239703334616,False,Left Foot,Open Play,0,0,1,Half Volley
+69251,Thierry Henry,Barcelona,16.53874239475299,0.06030508146470748,True,Left Foot,Open Play,1,1,4,Half Volley
+69251,David Villa Sánchez,Valencia,15.670673246545599,0.05985303017739632,False,Left Foot,Open Play,0,1,1,Half Volley
+69251,Alexis Ruano Delgado,Valencia,41.81219917679529,0.06393073964199772,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.571311299921238,0.05956464609621979,False,Head,Open Play,0,1,3,Normal
-9.442986815621428,0.05882101751976545,False,Head,Open Play,0,1,2,Diving Header
-10.288342918079662,0.05982334232558274,False,Head,Open Play,0,0,2,Normal
-23.398504225697845,0.059919700891885405,False,Right Foot,Open Play,0,0,3,Normal
-26.746962444359916,0.06476300470500802,False,Left Foot,Open Play,0,0,1,Normal
-13.441726079637245,0.0614813160877616,False,Right Foot,Open Play,0,0,1,Normal
-30.40016447323929,0.06816604590501202,False,Right Foot,Open Play,0,1,1,Normal
-9.299999999999997,0.05847804246130194,False,Head,Open Play,0,1,4,Normal
-23.30772404161333,0.059567879660643384,False,Right Foot,Open Play,0,0,3,Normal
-12.854960132182443,0.06103408306845149,False,Head,Open Play,0,1,2,Normal
-7.05761999543755,0.05659146970839922,False,Right Foot,Open Play,1,0,2,Normal
-6.5604877867426925,0.05804264589812098,True,Head,Open Play,0,1,2,Normal
-30.901294471267704,0.07333792818928757,False,Left Foot,Open Play,1,0,1,Normal
-18.880942773071478,0.06462093941066266,False,Left Foot,Open Play,0,0,1,Normal
-21.172859986312663,0.05964343931533602,False,Right Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-23.42007685726074,0.06713334721984102,False,Right Foot,Free Kick,0,0,0,Normal
-11.014535850411495,0.0537911951541849,False,Right Foot,Open Play,1,0,0,Half Volley
-16.81338752304247,0.059563589052821136,False,Right Foot,Open Play,1,0,1,Normal
-23.593431289238108,0.06672050768984585,True,Left Foot,Open Play,0,0,1,Normal
-14.634206503941368,0.061074965933848285,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825876,Juan Antonio Rodríguez Villamuela,Getafe,9.571311299921238,0.05956464609621979,False,Head,Open Play,0,1,3,Normal
+3825876,Stefan Šćepović,Getafe,9.442986815621428,0.05882101751976545,False,Head,Open Play,0,1,2,Diving Header
+3825876,Pablo Sarabia García,Getafe,10.288342918079662,0.05982334232558274,False,Head,Open Play,0,0,2,Normal
+3825876,Daniel Ceballos Fernández,Real Betis,23.398504225697845,0.059919700891885405,False,Right Foot,Open Play,0,0,3,Normal
+3825876,Moisés Gómez Bordonado,Getafe,26.746962444359916,0.06476300470500802,False,Left Foot,Open Play,0,0,1,Normal
+3825876,Jorge Molina Vidal,Real Betis,13.441726079637245,0.0614813160877616,False,Right Foot,Open Play,0,0,1,Normal
+3825876,Pedro León Sánchez Gil,Getafe,30.40016447323929,0.06816604590501202,False,Right Foot,Open Play,0,1,1,Normal
+3825876,Stefan Šćepović,Getafe,9.299999999999997,0.05847804246130194,False,Head,Open Play,0,1,4,Normal
+3825876,Pedro León Sánchez Gil,Getafe,23.30772404161333,0.059567879660643384,False,Right Foot,Open Play,0,0,3,Normal
+3825876,Germán Alejandro Pezzella,Real Betis,12.854960132182443,0.06103408306845149,False,Head,Open Play,0,1,2,Normal
+3825876,Stefan Šćepović,Getafe,7.05761999543755,0.05659146970839922,False,Right Foot,Open Play,1,0,2,Normal
+3825876,Germán Alejandro Pezzella,Real Betis,6.5604877867426925,0.05804264589812098,True,Head,Open Play,0,1,2,Normal
+3825876,Álvaro Daniel Pereira Barragán,Getafe,30.901294471267704,0.07333792818928757,False,Left Foot,Open Play,1,0,1,Normal
+3825876,Abdoul Karim Yoda,Getafe,18.880942773071478,0.06462093941066266,False,Left Foot,Open Play,0,0,1,Normal
+3825876,Pablo Sarabia García,Getafe,21.172859986312663,0.05964343931533602,False,Right Foot,Open Play,0,0,2,Normal
+3825876,Rubén Castro Martín,Real Betis,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3825876,Pedro León Sánchez Gil,Getafe,23.42007685726074,0.06713334721984102,False,Right Foot,Free Kick,0,0,0,Normal
+3825876,Joaquín Sánchez Rodríguez,Real Betis,11.014535850411495,0.0537911951541849,False,Right Foot,Open Play,1,0,0,Half Volley
+3825876,Daniel Ceballos Fernández,Real Betis,16.81338752304247,0.059563589052821136,False,Right Foot,Open Play,1,0,1,Normal
+3825876,Álvaro Medrán Just,Getafe,23.593431289238108,0.06672050768984585,True,Left Foot,Open Play,0,0,1,Normal
+3825876,Álvaro Vázquez García,Getafe,14.634206503941368,0.061074965933848285,False,Head,Open Play,0,0,4,Normal

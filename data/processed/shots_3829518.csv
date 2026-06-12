@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.62437968767557,0.06321319248917674,False,Left Foot,Open Play,1,1,2,Normal
-28.62743439430086,0.058015851239161684,False,Right Foot,Free Kick,0,0,0,Normal
-34.25930530527435,0.07204748767852144,False,Right Foot,Free Kick,0,0,0,Normal
-19.00657780874821,0.06497309399863573,False,Left Foot,Open Play,0,0,2,Normal
-27.519084287090656,0.06998879868535537,False,Right Foot,Open Play,0,0,0,Normal
-15.280052355931247,0.06276316430679225,False,Left Foot,Open Play,1,0,1,Normal
-13.17345816405093,0.061132208443472134,False,Right Foot,Open Play,0,0,3,Half Volley
-20.576685836159328,0.060512824095216924,False,Right Foot,Free Kick,0,0,0,Normal
-10.907336980216579,0.05927342419303023,False,Left Foot,Open Play,1,0,2,Lob
-7.211102550927975,0.05669965562453776,True,Right Foot,Open Play,1,0,3,Half Volley
-18.70962319235746,0.06404771842878695,False,Left Foot,Open Play,0,0,1,Normal
-18.603763060198325,0.06396816069808024,False,Right Foot,Open Play,1,0,1,Normal
-28.999999999999993,0.06972765562698492,False,Right Foot,Open Play,0,0,1,Normal
-26.16906570743403,0.06500161731665935,False,Left Foot,Open Play,0,0,1,Normal
-21.249235280357734,0.057599751203949175,True,Left Foot,Open Play,1,0,0,Normal
-12.971121771072847,0.06141928031634198,False,Head,Open Play,0,1,3,Normal
-14.958609561052127,0.06145823530064891,False,Left Foot,Open Play,0,0,1,Normal
-12.828094168659657,0.05368560516880288,False,Right Foot,Open Play,1,0,4,Volley
-8.052949770115296,0.05390105386125166,True,Right Foot,Open Play,0,0,3,Half Volley
-25.02418829852429,0.06050330865769418,False,Left Foot,Free Kick,0,0,0,Normal
-25.67586415293553,0.06883571493393781,False,Right Foot,Open Play,0,0,2,Normal
-35.04425773218774,0.07337219684180311,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829518,Djibril Sidibé,Lille,16.62437968767557,0.06321319248917674,False,Left Foot,Open Play,1,1,2,Normal
+3829518,Sébastien Corchia,Lille,28.62743439430086,0.058015851239161684,False,Right Foot,Free Kick,0,0,0,Normal
+3829518,Lucas Silva Borges,Marseille,34.25930530527435,0.07204748767852144,False,Right Foot,Free Kick,0,0,0,Normal
+3829518,Romain Alessandrini,Marseille,19.00657780874821,0.06497309399863573,False,Left Foot,Open Play,0,0,2,Normal
+3829518,Florent Balmont,Lille,27.519084287090656,0.06998879868535537,False,Right Foot,Open Play,0,0,0,Normal
+3829518,Michy Batshuayi Tunga,Marseille,15.280052355931247,0.06276316430679225,False,Left Foot,Open Play,1,0,1,Normal
+3829518,Michy Batshuayi Tunga,Marseille,13.17345816405093,0.061132208443472134,False,Right Foot,Open Play,0,0,3,Half Volley
+3829518,Sofiane Boufal,Lille,20.576685836159328,0.060512824095216924,False,Right Foot,Free Kick,0,0,0,Normal
+3829518,Romain Alessandrini,Marseille,10.907336980216579,0.05927342419303023,False,Left Foot,Open Play,1,0,2,Lob
+3829518,Michy Batshuayi Tunga,Marseille,7.211102550927975,0.05669965562453776,True,Right Foot,Open Play,1,0,3,Half Volley
+3829518,Georges-Kévin Nkoudou Mbida,Marseille,18.70962319235746,0.06404771842878695,False,Left Foot,Open Play,0,0,1,Normal
+3829518,Marvin Martin,Lille,18.603763060198325,0.06396816069808024,False,Right Foot,Open Play,1,0,1,Normal
+3829518,Florent Balmont,Lille,28.999999999999993,0.06972765562698492,False,Right Foot,Open Play,0,0,1,Normal
+3829518,Romain Alessandrini,Marseille,26.16906570743403,0.06500161731665935,False,Left Foot,Open Play,0,0,1,Normal
+3829518,Romain Alessandrini,Marseille,21.249235280357734,0.057599751203949175,True,Left Foot,Open Play,1,0,0,Normal
+3829518,Bakary Adama Soumaoro,Lille,12.971121771072847,0.06141928031634198,False,Head,Open Play,0,1,3,Normal
+3829518,Georges-Kévin Nkoudou Mbida,Marseille,14.958609561052127,0.06145823530064891,False,Left Foot,Open Play,0,0,1,Normal
+3829518,Renato Civelli,Lille,12.828094168659657,0.05368560516880288,False,Right Foot,Open Play,1,0,4,Volley
+3829518,Sébastien Corchia,Lille,8.052949770115296,0.05390105386125166,True,Right Foot,Open Play,0,0,3,Half Volley
+3829518,Romain Alessandrini,Marseille,25.02418829852429,0.06050330865769418,False,Left Foot,Free Kick,0,0,0,Normal
+3829518,Rémy Cabella,Marseille,25.67586415293553,0.06883571493393781,False,Right Foot,Open Play,0,0,2,Normal
+3829518,Djibril Sidibé,Lille,35.04425773218774,0.07337219684180311,False,Right Foot,Free Kick,0,0,0,Normal

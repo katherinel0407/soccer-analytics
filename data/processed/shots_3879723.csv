@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.89741089476592,0.073276547043744,False,Left Foot,Open Play,0,0,1,Normal
-11.788553770501276,0.05866783031065108,False,Right Foot,Open Play,1,0,3,Normal
-15.621779668142805,0.05881159684624546,False,Right Foot,Open Play,1,0,1,Normal
-26.454678225221336,0.05518209110994072,False,Left Foot,Open Play,0,0,2,Normal
-18.440173534975205,0.06465017451067676,False,Left Foot,Open Play,1,1,1,Half Volley
-17.189822570346678,0.06369181722751982,False,Left Foot,Open Play,1,0,0,Normal
-18.18378398463862,0.05953068944321613,False,Left Foot,Open Play,1,0,1,Half Volley
-30.581203377238122,0.06174816544822257,False,Left Foot,Open Play,0,1,1,Normal
-28.502806879323302,0.07115040140433754,False,Right Foot,Open Play,0,0,0,Normal
-8.115417426109394,0.05673034707674253,False,Head,Open Play,0,1,5,Normal
-56.11354560175288,0.0744385095056193,False,Right Foot,Open Play,1,0,0,Lob
-11.40175425099138,0.06023061517477308,False,Right Foot,Open Play,1,0,1,Half Volley
-17.68191166135607,0.0626995184197087,False,Right Foot,Open Play,0,0,2,Normal
-23.851624682608097,0.06695898015284084,False,Right Foot,Open Play,0,0,2,Normal
-25.489213404889526,0.06931024837471039,False,Right Foot,Open Play,0,0,2,Normal
-21.938550544646294,0.06455710445178348,False,Right Foot,Open Play,1,0,3,Half Volley
-23.659670327373536,0.05886984417641689,False,Right Foot,Open Play,0,0,1,Normal
-11.923086848631105,0.0607356899880997,False,Head,Open Play,0,0,3,Normal
-5.2630789467763,0.057391227505147274,True,Right Foot,Open Play,0,0,3,Normal
-5.556977595779919,0.055826148085646184,False,Head,Open Play,0,0,3,Normal
-23.99270722532162,0.06710067984649873,False,Left Foot,Free Kick,0,0,0,Normal
-14.229898102235305,0.05723695450422954,False,Right Foot,Open Play,0,1,1,Normal
-22.279138223908035,0.06615807481004118,False,Right Foot,Open Play,0,0,1,Normal
-26.346346995361614,0.06985165250839975,False,Right Foot,Free Kick,0,0,0,Normal
-11.205802068571447,0.05820925720867128,False,Head,Open Play,0,1,4,Normal
-8.989994438263013,0.059237168973622266,False,Head,Open Play,0,1,5,Normal
-16.767229944149992,0.062207271136216706,False,Right Foot,Open Play,0,0,4,Normal
-29.200684923473972,0.06761320701793766,False,Right Foot,Open Play,0,0,2,Normal
-25.65170559631465,0.06946239791892916,False,Left Foot,Open Play,1,0,0,Volley
-11.56633044660233,0.05641560995767798,False,Left Foot,Open Play,0,0,1,Half Volley
-20.124860247961966,0.06357130517261178,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879723,Geoffrey Kondogbia,Inter Milan,30.89741089476592,0.073276547043744,False,Left Foot,Open Play,0,0,1,Normal
+3879723,Eder Citadin Martins,Inter Milan,11.788553770501276,0.05866783031065108,False,Right Foot,Open Play,1,0,3,Normal
+3879723,Mauro Emanuel Icardi Rivero,Inter Milan,15.621779668142805,0.05881159684624546,False,Right Foot,Open Play,1,0,1,Normal
+3879723,Yuto Nagatomo,Inter Milan,26.454678225221336,0.05518209110994072,False,Left Foot,Open Play,0,0,2,Normal
+3879723,Sergio Pellissier,Chievo,18.440173534975205,0.06465017451067676,False,Left Foot,Open Play,1,1,1,Half Volley
+3879723,Geoffrey Kondogbia,Inter Milan,17.189822570346678,0.06369181722751982,False,Left Foot,Open Play,1,0,0,Normal
+3879723,Yuto Nagatomo,Inter Milan,18.18378398463862,0.05953068944321613,False,Left Foot,Open Play,1,0,1,Half Volley
+3879723,Geoffrey Kondogbia,Inter Milan,30.581203377238122,0.06174816544822257,False,Left Foot,Open Play,0,1,1,Normal
+3879723,Marcelo Brozović,Inter Milan,28.502806879323302,0.07115040140433754,False,Right Foot,Open Play,0,0,0,Normal
+3879723,Mauro Emanuel Icardi Rivero,Inter Milan,8.115417426109394,0.05673034707674253,False,Head,Open Play,0,1,5,Normal
+3879723,Mauro Emanuel Icardi Rivero,Inter Milan,56.11354560175288,0.0744385095056193,False,Right Foot,Open Play,1,0,0,Lob
+3879723,Eder Citadin Martins,Inter Milan,11.40175425099138,0.06023061517477308,False,Right Foot,Open Play,1,0,1,Half Volley
+3879723,Marcelo Brozović,Inter Milan,17.68191166135607,0.0626995184197087,False,Right Foot,Open Play,0,0,2,Normal
+3879723,Eder Citadin Martins,Inter Milan,23.851624682608097,0.06695898015284084,False,Right Foot,Open Play,0,0,2,Normal
+3879723,Eder Citadin Martins,Inter Milan,25.489213404889526,0.06931024837471039,False,Right Foot,Open Play,0,0,2,Normal
+3879723,Eder Citadin Martins,Inter Milan,21.938550544646294,0.06455710445178348,False,Right Foot,Open Play,1,0,3,Half Volley
+3879723,Marcelo Brozović,Inter Milan,23.659670327373536,0.05886984417641689,False,Right Foot,Open Play,0,0,1,Normal
+3879723,Jeison Fabián Murillo Cerón,Inter Milan,11.923086848631105,0.0607356899880997,False,Head,Open Play,0,0,3,Normal
+3879723,Mauro Emanuel Icardi Rivero,Inter Milan,5.2630789467763,0.057391227505147274,True,Right Foot,Open Play,0,0,3,Normal
+3879723,Mauro Emanuel Icardi Rivero,Inter Milan,5.556977595779919,0.055826148085646184,False,Head,Open Play,0,0,3,Normal
+3879723,Valter Birsa,Chievo,23.99270722532162,0.06710067984649873,False,Left Foot,Free Kick,0,0,0,Normal
+3879723,Mauro Emanuel Icardi Rivero,Inter Milan,14.229898102235305,0.05723695450422954,False,Right Foot,Open Play,0,1,1,Normal
+3879723,Eder Citadin Martins,Inter Milan,22.279138223908035,0.06615807481004118,False,Right Foot,Open Play,0,0,1,Normal
+3879723,Marcelo Brozović,Inter Milan,26.346346995361614,0.06985165250839975,False,Right Foot,Free Kick,0,0,0,Normal
+3879723,João Miranda de Souza Filho,Inter Milan,11.205802068571447,0.05820925720867128,False,Head,Open Play,0,1,4,Normal
+3879723,Jeison Fabián Murillo Cerón,Inter Milan,8.989994438263013,0.059237168973622266,False,Head,Open Play,0,1,5,Normal
+3879723,Roberto Inglese,Chievo,16.767229944149992,0.062207271136216706,False,Right Foot,Open Play,0,0,4,Normal
+3879723,Nicola Rigoni,Chievo,29.200684923473972,0.06761320701793766,False,Right Foot,Open Play,0,0,2,Normal
+3879723,Boštjan Cesar,Chievo,25.65170559631465,0.06946239791892916,False,Left Foot,Open Play,1,0,0,Volley
+3879723,Sergio Pellissier,Chievo,11.56633044660233,0.05641560995767798,False,Left Foot,Open Play,0,0,1,Half Volley
+3879723,Paul-José M''Poku Ebunge,Chievo,20.124860247961966,0.06357130517261178,False,Right Foot,Open Play,1,0,1,Volley

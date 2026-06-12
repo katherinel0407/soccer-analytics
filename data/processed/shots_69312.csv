@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.7897368376601746,0.05419578098584797,False,Head,Open Play,0,0,2,Normal
-10.911003620199196,0.052859315217323385,False,Left Foot,Open Play,1,0,1,Volley
-16.500303027520435,0.061483176204666395,True,Head,Open Play,0,0,2,Normal
-27.01592123174778,0.06505736646313769,False,Right Foot,Open Play,0,0,3,Normal
-21.733154395991388,0.06613966993850813,False,Right Foot,Open Play,1,0,1,Normal
-14.980320423809362,0.062145721306077775,False,Left Foot,Open Play,0,0,1,Normal
-16.487874332369223,0.06331221893796239,False,Left Foot,Open Play,1,0,2,Normal
-23.742156599601476,0.06799247001543297,False,Right Foot,Open Play,0,1,2,Normal
-18.201648277010516,0.06446999415276096,False,Left Foot,Open Play,1,0,1,Normal
-28.08629559055448,0.07119199396830297,False,Right Foot,Open Play,0,0,1,Normal
-13.92838827718412,0.061785603505146204,False,Left Foot,Open Play,0,0,3,Normal
-24.75883680627989,0.06658917885910581,False,Right Foot,Open Play,0,0,3,Normal
-13.2608446186508,0.060859737180705815,False,Left Foot,Open Play,0,0,2,Normal
-10.492378186092989,0.059059297762926295,False,Right Foot,Open Play,0,0,3,Normal
-22.613491548188666,0.06275246961171704,False,Left Foot,Open Play,1,0,1,Normal
-20.550669088864232,0.05890699922940771,False,Left Foot,Open Play,1,0,2,Normal
-19.03943276465977,0.06048312597659093,False,Left Foot,Open Play,1,1,1,Normal
-24.781444671366526,0.06874099284763413,False,Right Foot,Free Kick,0,0,0,Normal
-11.360017605620165,0.05216994387241051,False,Right Foot,Open Play,1,0,1,Normal
-11.954078801814886,0.05410561357941567,False,Head,Open Play,0,0,2,Normal
-6.555150646628949,0.057940688213740085,True,Head,Open Play,0,0,2,Diving Header
-14.36697602141801,0.061448455598690145,False,Left Foot,Open Play,1,0,2,Normal
-7.134423592694782,0.057369670951553084,False,Left Foot,Open Play,1,0,0,Half Volley
-14.833745312630924,0.060396460154650077,False,Right Foot,Open Play,0,0,2,Normal
-6.425729530566937,0.05739023466530871,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69312,Joan Verdú Fernández,Espanyol,7.7897368376601746,0.05419578098584797,False,Head,Open Play,0,0,2,Normal
+69312,Joan Verdú Fernández,Espanyol,10.911003620199196,0.052859315217323385,False,Left Foot,Open Play,1,0,1,Volley
+69312,Francesc Fàbregas i Soler,Barcelona,16.500303027520435,0.061483176204666395,True,Head,Open Play,0,0,2,Normal
+69312,Sergio García De La Fuente,Espanyol,27.01592123174778,0.06505736646313769,False,Right Foot,Open Play,0,0,3,Normal
+69312,Joan Verdú Fernández,Espanyol,21.733154395991388,0.06613966993850813,False,Right Foot,Open Play,1,0,1,Normal
+69312,Thievy Guivane Bifouma Koulossa,Espanyol,14.980320423809362,0.062145721306077775,False,Left Foot,Open Play,0,0,1,Normal
+69312,Andrés Iniesta Luján,Barcelona,16.487874332369223,0.06331221893796239,False,Left Foot,Open Play,1,0,2,Normal
+69312,Alexis Alejandro Sánchez Sánchez,Barcelona,23.742156599601476,0.06799247001543297,False,Right Foot,Open Play,0,1,2,Normal
+69312,Thievy Guivane Bifouma Koulossa,Espanyol,18.201648277010516,0.06446999415276096,False,Left Foot,Open Play,1,0,1,Normal
+69312,Christian Koffi Romaric N''Dri,Espanyol,28.08629559055448,0.07119199396830297,False,Right Foot,Open Play,0,0,1,Normal
+69312,Joan Verdú Fernández,Espanyol,13.92838827718412,0.061785603505146204,False,Left Foot,Open Play,0,0,3,Normal
+69312,Sergio García De La Fuente,Espanyol,24.75883680627989,0.06658917885910581,False,Right Foot,Open Play,0,0,3,Normal
+69312,Sergio García De La Fuente,Espanyol,13.2608446186508,0.060859737180705815,False,Left Foot,Open Play,0,0,2,Normal
+69312,Francesc Fàbregas i Soler,Barcelona,10.492378186092989,0.059059297762926295,False,Right Foot,Open Play,0,0,3,Normal
+69312,Daniel Alves da Silva,Barcelona,22.613491548188666,0.06275246961171704,False,Left Foot,Open Play,1,0,1,Normal
+69312,Joan Verdú Fernández,Espanyol,20.550669088864232,0.05890699922940771,False,Left Foot,Open Play,1,0,2,Normal
+69312,Héctor Alfredo Moreno Herrera,Espanyol,19.03943276465977,0.06048312597659093,False,Left Foot,Open Play,1,1,1,Normal
+69312,Xavier Hernández Creus,Barcelona,24.781444671366526,0.06874099284763413,False,Right Foot,Free Kick,0,0,0,Normal
+69312,Lionel Andrés Messi Cuccittini,Barcelona,11.360017605620165,0.05216994387241051,False,Right Foot,Open Play,1,0,1,Normal
+69312,Thievy Guivane Bifouma Koulossa,Espanyol,11.954078801814886,0.05410561357941567,False,Head,Open Play,0,0,2,Normal
+69312,Álvaro Vázquez García,Espanyol,6.555150646628949,0.057940688213740085,True,Head,Open Play,0,0,2,Diving Header
+69312,Gerard Piqué Bernabéu,Barcelona,14.36697602141801,0.061448455598690145,False,Left Foot,Open Play,1,0,2,Normal
+69312,Pedro Eliezer Rodríguez Ledesma,Barcelona,7.134423592694782,0.057369670951553084,False,Left Foot,Open Play,1,0,0,Half Volley
+69312,Andrés Iniesta Luján,Barcelona,14.833745312630924,0.060396460154650077,False,Right Foot,Open Play,0,0,2,Normal
+69312,Raúl Rodríguez Navarro,Espanyol,6.425729530566937,0.05739023466530871,False,Head,Open Play,0,0,3,Normal

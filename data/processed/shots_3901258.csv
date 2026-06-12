@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-64.01320176338628,0.08848992093330674,False,Left Foot,Open Play,0,0,0,Normal
-21.663333076883617,0.06662999413428171,True,Right Foot,Open Play,0,0,2,Normal
-18.56071119327058,0.06359025314008404,False,Left Foot,Open Play,1,0,1,Half Volley
-11.13597772986279,0.057033874670661545,False,Right Foot,Open Play,1,0,1,Volley
-10.594810050208546,0.05993325909022095,True,Right Foot,Open Play,1,0,2,Normal
-16.683225107874076,0.06357200231206651,False,Left Foot,Open Play,0,0,1,Normal
-17.666352198459084,0.057867873163671854,False,Right Foot,Open Play,0,0,2,Normal
-13.601470508735444,0.05850801793153552,False,Right Foot,Open Play,0,1,2,Normal
-23.33345238064869,0.06677059394712392,True,Right Foot,Open Play,1,0,0,Volley
-16.504847772699996,0.06168240191628132,False,Left Foot,Open Play,1,0,1,Volley
-19.451735141112728,0.06500105783413848,False,Left Foot,Open Play,0,0,1,Normal
-24.3731409547477,0.06857381524953612,False,Left Foot,Open Play,0,0,1,Normal
-23.444615586526474,0.05773018690547538,False,Right Foot,Open Play,1,0,1,Normal
-13.130879635424272,0.0597215562822284,True,Right Foot,Open Play,1,0,0,Volley
-26.815107682051174,0.06916809322270144,False,Right Foot,Open Play,1,0,0,Normal
-48.286747664343686,0.0560872497343397,False,Right Foot,Open Play,0,0,0,Lob
-30.860978597575283,0.05945043077161877,False,Right Foot,Open Play,0,0,1,Normal
-18.20439507371778,0.06244394460600797,False,Right Foot,Open Play,1,0,1,Volley
-10.666770832824715,0.059903147169430356,False,Head,Open Play,0,0,2,Normal
-18.308741081789325,0.06293118033744166,False,Left Foot,Open Play,0,1,1,Half Volley
-6.800735254367718,0.057508420175080885,False,Head,Open Play,0,0,5,Normal
-8.500588214941365,0.05812138231056161,False,Left Foot,Open Play,1,0,5,Half Volley
-9.042676594902646,0.05884461549484707,False,Right Foot,Open Play,1,0,3,Normal
-14.499999999999996,0.06146173898183792,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901258,Younousse Sankharé,Guingamp,64.01320176338628,0.08848992093330674,False,Left Foot,Open Play,0,0,0,Normal
+3901258,Alassane Pléa,OGC Nice,21.663333076883617,0.06662999413428171,True,Right Foot,Open Play,0,0,2,Normal
+3901258,Thibault Giresse,Guingamp,18.56071119327058,0.06359025314008404,False,Left Foot,Open Play,1,0,1,Half Volley
+3901258,Hatem Ben Arfa,OGC Nice,11.13597772986279,0.057033874670661545,False,Right Foot,Open Play,1,0,1,Volley
+3901258,Mevlüt Erdinç,Guingamp,10.594810050208546,0.05993325909022095,True,Right Foot,Open Play,1,0,2,Normal
+3901258,Hatem Ben Arfa,OGC Nice,16.683225107874076,0.06357200231206651,False,Left Foot,Open Play,0,0,1,Normal
+3901258,Alassane Pléa,OGC Nice,17.666352198459084,0.057867873163671854,False,Right Foot,Open Play,0,0,2,Normal
+3901258,Valère Germain,OGC Nice,13.601470508735444,0.05850801793153552,False,Right Foot,Open Play,0,1,2,Normal
+3901258,Jean Michaël Seri,OGC Nice,23.33345238064869,0.06677059394712392,True,Right Foot,Open Play,1,0,0,Volley
+3901258,Jimmy Briand,Guingamp,16.504847772699996,0.06168240191628132,False,Left Foot,Open Play,1,0,1,Volley
+3901258,Thibault Giresse,Guingamp,19.451735141112728,0.06500105783413848,False,Left Foot,Open Play,0,0,1,Normal
+3901258,Thibault Giresse,Guingamp,24.3731409547477,0.06857381524953612,False,Left Foot,Open Play,0,0,1,Normal
+3901258,Jimmy Briand,Guingamp,23.444615586526474,0.05773018690547538,False,Right Foot,Open Play,1,0,1,Normal
+3901258,Alassane Pléa,OGC Nice,13.130879635424272,0.0597215562822284,True,Right Foot,Open Play,1,0,0,Volley
+3901258,Jean Michaël Seri,OGC Nice,26.815107682051174,0.06916809322270144,False,Right Foot,Open Play,1,0,0,Normal
+3901258,Jérémy Pied,OGC Nice,48.286747664343686,0.0560872497343397,False,Right Foot,Open Play,0,0,0,Lob
+3901258,Hatem Ben Arfa,OGC Nice,30.860978597575283,0.05945043077161877,False,Right Foot,Open Play,0,0,1,Normal
+3901258,Lionel Mathis,Guingamp,18.20439507371778,0.06244394460600797,False,Right Foot,Open Play,1,0,1,Volley
+3901258,Younousse Sankharé,Guingamp,10.666770832824715,0.059903147169430356,False,Head,Open Play,0,0,2,Normal
+3901258,Jimmy Briand,Guingamp,18.308741081789325,0.06293118033744166,False,Left Foot,Open Play,0,1,1,Half Volley
+3901258,Jimmy Briand,Guingamp,6.800735254367718,0.057508420175080885,False,Head,Open Play,0,0,5,Normal
+3901258,Jimmy Briand,Guingamp,8.500588214941365,0.05812138231056161,False,Left Foot,Open Play,1,0,5,Half Volley
+3901258,Julien Cardy,Guingamp,9.042676594902646,0.05884461549484707,False,Right Foot,Open Play,1,0,3,Normal
+3901258,Jonathan Martins-Pereira,Guingamp,14.499999999999996,0.06146173898183792,False,Head,Open Play,0,0,3,Normal

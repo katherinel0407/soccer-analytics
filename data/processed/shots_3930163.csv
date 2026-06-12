@@ -1,12 +1,12 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.618912297349159,0.05755569534875128,True,Head,Open Play,0,1,2,Normal
-26.58270114190806,0.05953359785902246,False,Right Foot,Open Play,0,0,0,Half Volley
-18.501081049495458,0.05868467852488359,False,Right Foot,Open Play,0,0,2,Normal
-22.108143296079835,0.06056118979141109,False,Left Foot,Open Play,0,0,3,Normal
-28.504911857432568,0.06339864576125456,False,Right Foot,Free Kick,0,0,0,Normal
-31.064449134018137,0.06151239990467438,False,Right Foot,Open Play,0,0,2,Normal
-6.440496875241848,0.05798487768999008,False,Head,Open Play,0,1,1,Normal
-24.413520843991343,0.06805402181281453,False,Left Foot,Open Play,0,0,1,Normal
-22.37789087470042,0.06600608693513622,False,Right Foot,Open Play,1,0,1,Half Volley
-32.608741159388536,0.07440772482153737,False,Right Foot,Open Play,0,0,0,Normal
-30.99193443462347,0.07261312174504121,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930163,Jude Bellingham,England,6.618912297349159,0.05755569534875128,True,Head,Open Play,0,1,2,Normal
+3930163,Trent Alexander-Arnold,England,26.58270114190806,0.05953359785902246,False,Right Foot,Open Play,0,0,0,Half Volley
+3930163,Aleksandar Mitrović,Serbia,18.501081049495458,0.05868467852488359,False,Right Foot,Open Play,0,0,2,Normal
+3930163,Dušan Vlahović,Serbia,22.108143296079835,0.06056118979141109,False,Left Foot,Open Play,0,0,3,Normal
+3930163,Trent Alexander-Arnold,England,28.504911857432568,0.06339864576125456,False,Right Foot,Free Kick,0,0,0,Normal
+3930163,Trent Alexander-Arnold,England,31.064449134018137,0.06151239990467438,False,Right Foot,Open Play,0,0,2,Normal
+3930163,Harry Kane,England,6.440496875241848,0.05798487768999008,False,Head,Open Play,0,1,1,Normal
+3930163,Dušan Vlahović,Serbia,24.413520843991343,0.06805402181281453,False,Left Foot,Open Play,0,0,1,Normal
+3930163,Veljko Birmančević,Serbia,22.37789087470042,0.06600608693513622,False,Right Foot,Open Play,1,0,1,Half Volley
+3930163,Sergej Milinković-Savić,Serbia,32.608741159388536,0.07440772482153737,False,Right Foot,Open Play,0,0,0,Normal
+3930163,Ivan Ilić,Serbia,30.99193443462347,0.07261312174504121,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,13 +1,13 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.182364302548173,0.05447159970566403,False,Right Foot,Open Play,0,0,1,Half Volley
-10.358571330062848,0.054804256356471084,False,Other,Open Play,0,0,2,Normal
-16.52392205258788,0.056064712265179416,False,Right Foot,Open Play,0,0,2,Normal
-14.089002803605371,0.05312209882298927,False,Right Foot,Open Play,1,0,0,Normal
-19.866806487203725,0.06445748087047193,True,Right Foot,Open Play,1,0,2,Lob
-11.936498649101415,0.06014321615633322,False,Head,Open Play,0,0,2,Diving Header
-37.66297917053297,0.07249991201567293,False,Right Foot,Free Kick,0,0,0,Normal
-20.359273071502333,0.06576559414132292,False,Left Foot,Open Play,0,0,2,Normal
-8.429116205154601,0.05886424447194444,False,Head,Open Play,0,1,3,Normal
-27.17425251961864,0.06875227095717758,False,Right Foot,Open Play,1,0,2,Normal
-25.004999500099974,0.05591938934716966,False,Left Foot,Open Play,0,1,2,Normal
-15.786703265723336,0.05376657647750208,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3827337,Daniel Chima Chukwu,Jamshedpur,12.182364302548173,0.05447159970566403,False,Right Foot,Open Play,0,0,1,Half Volley
+3827337,Peter Hartley,Jamshedpur,10.358571330062848,0.054804256356471084,False,Other,Open Play,0,0,2,Normal
+3827337,Daniel Chima Chukwu,Jamshedpur,16.52392205258788,0.056064712265179416,False,Right Foot,Open Play,0,0,2,Normal
+3827337,Mohammad Mobashir Rahman,Jamshedpur,14.089002803605371,0.05312209882298927,False,Right Foot,Open Play,1,0,0,Normal
+3827337,Sahal Abdul Samad,Kerala Blasters,19.866806487203725,0.06445748087047193,True,Right Foot,Open Play,1,0,2,Lob
+3827337,Jorge Rolando Pereyra Díaz,Kerala Blasters,11.936498649101415,0.06014321615633322,False,Head,Open Play,0,0,2,Diving Header
+3827337,Adrián Nicolás Luna Retamar,Kerala Blasters,37.66297917053297,0.07249991201567293,False,Right Foot,Free Kick,0,0,0,Normal
+3827337,Álvaro Vázquez García,Kerala Blasters,20.359273071502333,0.06576559414132292,False,Left Foot,Open Play,0,0,2,Normal
+3827337,Marko Lešković,Kerala Blasters,8.429116205154601,0.05886424447194444,False,Head,Open Play,0,1,3,Normal
+3827337,Adrián Nicolás Luna Retamar,Kerala Blasters,27.17425251961864,0.06875227095717758,False,Right Foot,Open Play,1,0,2,Normal
+3827337,Ritwik Kumar Das,Jamshedpur,25.004999500099974,0.05591938934716966,False,Left Foot,Open Play,0,1,2,Normal
+3827337,Ishan Pandita,Jamshedpur,15.786703265723336,0.05376657647750208,False,Right Foot,Open Play,1,0,1,Half Volley

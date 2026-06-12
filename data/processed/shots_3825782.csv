@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.497837711473206,0.06315256203383089,False,Right Foot,Open Play,1,0,1,Normal
-19.675873551128547,0.05527206969425918,False,Right Foot,Open Play,0,0,1,Normal
-24.787295132789296,0.06872168322701029,False,Right Foot,Open Play,0,0,1,Normal
-14.671059948074642,0.05741875729366967,False,Right Foot,Open Play,1,0,1,Normal
-21.484878403193253,0.05795290189559318,False,Right Foot,Open Play,1,0,3,Normal
-31.11735849971845,0.06994565085275341,False,Left Foot,Open Play,0,0,1,Normal
-28.72107240337659,0.06665590921850846,False,Left Foot,Open Play,0,0,0,Normal
-13.827870407260832,0.0611835189973934,False,Head,Open Play,0,1,3,Normal
-6.15873363606513,0.0578395665969722,False,Head,Open Play,0,0,3,Normal
-26.348624252510792,0.06524910475345277,False,Left Foot,Open Play,0,1,2,Normal
-24.760654272454108,0.06090512544325818,False,Left Foot,Free Kick,0,0,0,Normal
-13.928388277184123,0.05874124153715744,True,Right Foot,Open Play,1,0,3,Half Volley
-5.510898293381948,0.057264833276797926,False,Left Foot,Open Play,1,0,2,Half Volley
-12.684636376341262,0.058575659758827114,False,Left Foot,Open Play,1,1,2,Volley
-30.737924458232378,0.0731216981671972,False,Right Foot,Open Play,0,0,2,Normal
-19.88290723209259,0.052285727950960766,False,Right Foot,Open Play,1,0,1,Normal
-26.773867856549973,0.054869128617642406,False,Left Foot,Open Play,0,0,1,Normal
-7.402702209328704,0.05777887746625576,False,Head,Open Play,0,0,1,Normal
-29.658894112896384,0.07002120910048598,False,Right Foot,Open Play,0,0,1,Normal
-11.278741064498284,0.058504714014189996,False,Left Foot,Open Play,1,0,1,Half Volley
-16.051479682571326,0.05510222453900186,False,Right Foot,Open Play,1,0,2,Normal
-31.435330442036076,0.06186541465342611,False,Right Foot,Open Play,0,0,3,Normal
-19.89271223337833,0.06434268378321806,False,Right Foot,Open Play,0,1,2,Half Volley
-20.866480297357292,0.05658559762045675,False,Right Foot,Open Play,0,0,1,Lob
-17.984715733088468,0.06349084681014706,True,Right Foot,Open Play,1,0,1,Half Volley
-7.1400280111495364,0.05567034896031714,True,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825782,Francisco Manuel Rico Castro,Granada,18.497837711473206,0.06315256203383089,False,Right Foot,Open Play,1,0,1,Normal
+3825782,Francisco Alcácer García,Valencia,19.675873551128547,0.05527206969425918,False,Right Foot,Open Play,0,0,1,Normal
+3825782,Adalberto Peñaranda Maestre,Granada,24.787295132789296,0.06872168322701029,False,Right Foot,Open Play,0,0,1,Normal
+3825782,Francisco Alcácer García,Valencia,14.671059948074642,0.05741875729366967,False,Right Foot,Open Play,1,0,1,Normal
+3825782,Aderllan Leandro de Jesus Santos,Valencia,21.484878403193253,0.05795290189559318,False,Right Foot,Open Play,1,0,3,Normal
+3825782,Denis Cheryshev,Valencia,31.11735849971845,0.06994565085275341,False,Left Foot,Open Play,0,0,1,Normal
+3825782,André Filipe Tavares Gomes,Valencia,28.72107240337659,0.06665590921850846,False,Left Foot,Open Play,0,0,0,Normal
+3825782,Ricardo Miguel Moreira da Costa,Granada,13.827870407260832,0.0611835189973934,False,Head,Open Play,0,1,3,Normal
+3825782,André Filipe Tavares Gomes,Valencia,6.15873363606513,0.0578395665969722,False,Head,Open Play,0,0,3,Normal
+3825782,Rubén Rochina Naixes,Granada,26.348624252510792,0.06524910475345277,False,Left Foot,Open Play,0,1,2,Normal
+3825782,Rubén Rochina Naixes,Granada,24.760654272454108,0.06090512544325818,False,Left Foot,Free Kick,0,0,0,Normal
+3825782,Daniel Parejo Muñoz,Valencia,13.928388277184123,0.05874124153715744,True,Right Foot,Open Play,1,0,3,Half Volley
+3825782,David Barral Torres,Granada,5.510898293381948,0.057264833276797926,False,Left Foot,Open Play,1,0,2,Half Volley
+3825782,Rubén Rochina Naixes,Granada,12.684636376341262,0.058575659758827114,False,Left Foot,Open Play,1,1,2,Volley
+3825782,Dimitri Foulquier,Granada,30.737924458232378,0.0731216981671972,False,Right Foot,Open Play,0,0,2,Normal
+3825782,João Pedro Cavaco Cancelo,Valencia,19.88290723209259,0.052285727950960766,False,Right Foot,Open Play,1,0,1,Normal
+3825782,Hugo Miguel Almeida Costa Lopes,Granada,26.773867856549973,0.054869128617642406,False,Left Foot,Open Play,0,0,1,Normal
+3825782,Youssef El-Arabi,Granada,7.402702209328704,0.05777887746625576,False,Head,Open Play,0,0,1,Normal
+3825782,Francisco Alcácer García,Valencia,29.658894112896384,0.07002120910048598,False,Right Foot,Open Play,0,0,1,Normal
+3825782,Youssef El-Arabi,Granada,11.278741064498284,0.058504714014189996,False,Left Foot,Open Play,1,0,1,Half Volley
+3825782,Isaac Ajayi Success,Granada,16.051479682571326,0.05510222453900186,False,Right Foot,Open Play,1,0,2,Normal
+3825782,Youssef El-Arabi,Granada,31.435330442036076,0.06186541465342611,False,Right Foot,Open Play,0,0,3,Normal
+3825782,Dimitri Foulquier,Granada,19.89271223337833,0.06434268378321806,False,Right Foot,Open Play,0,1,2,Half Volley
+3825782,Francisco Alcácer García,Valencia,20.866480297357292,0.05658559762045675,False,Right Foot,Open Play,0,0,1,Lob
+3825782,Santiago Mina Lorenzo,Valencia,17.984715733088468,0.06349084681014706,True,Right Foot,Open Play,1,0,1,Half Volley
+3825782,Edgar Antonio Méndez Ortega,Granada,7.1400280111495364,0.05567034896031714,True,Head,Open Play,0,1,2,Normal

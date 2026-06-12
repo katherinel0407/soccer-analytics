@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.688971589533955,0.05929246180493788,False,Left Foot,Open Play,1,0,2,Half Volley
-5.913543776789002,0.05758685258966926,False,Right Foot,Open Play,0,1,4,Half Volley
-16.459647626847904,0.06343840822387554,False,Right Foot,Open Play,1,0,1,Normal
-11.700427342623007,0.05926598840882096,True,Right Foot,Open Play,1,0,0,Volley
-22.242302039132547,0.053203127535949524,False,Left Foot,Open Play,0,1,3,Normal
-32.076471127603796,0.07431728074073785,False,Right Foot,Open Play,0,0,0,Half Volley
-19.641283053812952,0.057922002035628604,False,Right Foot,Open Play,0,1,1,Half Volley
-20.255616505058544,0.06383325196314169,False,Right Foot,Open Play,0,0,2,Normal
-22.48021352211762,0.06709624920131628,False,Right Foot,Open Play,0,1,3,Normal
-7.518643494673753,0.05708763058042826,False,Head,Open Play,0,1,4,Normal
-16.322989922192566,0.06217402183953517,False,Right Foot,Open Play,1,0,1,Volley
-10.155294185792947,0.05357273895536163,False,Head,Open Play,0,0,2,Normal
-25.181143738917022,0.06896858376818768,False,Right Foot,Open Play,0,0,2,Normal
-40.20111938740015,0.07308122687850752,False,Right Foot,Open Play,0,0,1,Normal
-16.147135968957468,0.053714190735366915,False,Right Foot,Open Play,0,0,2,Normal
-21.453671014537342,0.059756645502756146,False,Right Foot,Open Play,0,1,3,Normal
-10.223991392797632,0.059085341840694416,False,Left Foot,Open Play,1,1,3,Volley
-10.56787585089833,0.05386294485471026,False,Right Foot,Open Play,1,0,2,Volley
-9.099999999999994,0.05839688908138976,False,Left Foot,Open Play,0,1,2,Half Volley
-23.43032223423314,0.05785821481594339,False,Right Foot,Open Play,1,0,0,Normal
-9.674709297958264,0.0564805928287734,False,Right Foot,Open Play,1,1,1,Backheel
-24.462420158275428,0.05963798244910446,False,Left Foot,Open Play,0,0,1,Normal
-21.953815158190622,0.06587475768161452,False,Right Foot,Open Play,0,0,1,Normal
-12.055289295574783,0.060739013850926546,False,Head,Open Play,0,1,3,Normal
-21.115160430363776,0.059559825778329786,False,Left Foot,Open Play,0,1,1,Half Volley
-16.011246047700343,0.0545749870372087,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930164,Kevin De Bruyne,Belgium,12.688971589533955,0.05929246180493788,False,Left Foot,Open Play,1,0,2,Half Volley
+3930164,Romelu Lukaku Menama,Belgium,5.913543776789002,0.05758685258966926,False,Right Foot,Open Play,0,1,4,Half Volley
+3930164,Juraj Kucka,Slovakia,16.459647626847904,0.06343840822387554,False,Right Foot,Open Play,1,0,1,Normal
+3930164,Ivan Schranz,Slovakia,11.700427342623007,0.05926598840882096,True,Right Foot,Open Play,1,0,0,Volley
+3930164,Jeremy Doku,Belgium,22.242302039132547,0.053203127535949524,False,Left Foot,Open Play,0,1,3,Normal
+3930164,Leandro Trossard,Belgium,32.076471127603796,0.07431728074073785,False,Right Foot,Open Play,0,0,0,Half Volley
+3930164,Róbert Boženík,Slovakia,19.641283053812952,0.057922002035628604,False,Right Foot,Open Play,0,1,1,Half Volley
+3930164,Róbert Boženík,Slovakia,20.255616505058544,0.06383325196314169,False,Right Foot,Open Play,0,0,2,Normal
+3930164,Leandro Trossard,Belgium,22.48021352211762,0.06709624920131628,False,Right Foot,Open Play,0,1,3,Normal
+3930164,Amadou Onana,Belgium,7.518643494673753,0.05708763058042826,False,Head,Open Play,0,1,4,Normal
+3930164,Lukáš Haraslín,Slovakia,16.322989922192566,0.06217402183953517,False,Right Foot,Open Play,1,0,1,Volley
+3930164,Juraj Kucka,Slovakia,10.155294185792947,0.05357273895536163,False,Head,Open Play,0,0,2,Normal
+3930164,Lukáš Haraslín,Slovakia,25.181143738917022,0.06896858376818768,False,Right Foot,Open Play,0,0,2,Normal
+3930164,Denis Vavro,Slovakia,40.20111938740015,0.07308122687850752,False,Right Foot,Open Play,0,0,1,Normal
+3930164,Romelu Lukaku Menama,Belgium,16.147135968957468,0.053714190735366915,False,Right Foot,Open Play,0,0,2,Normal
+3930164,Leandro Trossard,Belgium,21.453671014537342,0.059756645502756146,False,Right Foot,Open Play,0,1,3,Normal
+3930164,Yannick Ferreira Carrasco,Belgium,10.223991392797632,0.059085341840694416,False,Left Foot,Open Play,1,1,3,Volley
+3930164,Romelu Lukaku Menama,Belgium,10.56787585089833,0.05386294485471026,False,Right Foot,Open Play,1,0,2,Volley
+3930164,Johan Bakayoko,Belgium,9.099999999999994,0.05839688908138976,False,Left Foot,Open Play,0,1,2,Half Volley
+3930164,Kevin De Bruyne,Belgium,23.43032223423314,0.05785821481594339,False,Right Foot,Open Play,1,0,0,Normal
+3930164,David Strelec,Slovakia,9.674709297958264,0.0564805928287734,False,Right Foot,Open Play,1,1,1,Backheel
+3930164,Juraj Kucka,Slovakia,24.462420158275428,0.05963798244910446,False,Left Foot,Open Play,0,0,1,Normal
+3930164,Yannick Ferreira Carrasco,Belgium,21.953815158190622,0.06587475768161452,False,Right Foot,Open Play,0,0,1,Normal
+3930164,Amadou Onana,Belgium,12.055289295574783,0.060739013850926546,False,Head,Open Play,0,1,3,Normal
+3930164,Johan Bakayoko,Belgium,21.115160430363776,0.059559825778329786,False,Left Foot,Open Play,0,1,1,Half Volley
+3930164,Kevin De Bruyne,Belgium,16.011246047700343,0.0545749870372087,False,Right Foot,Open Play,0,1,2,Normal

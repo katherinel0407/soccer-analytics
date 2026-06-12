@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.466196829904256,0.051606913906744684,False,Head,Open Play,0,1,1,Normal
-13.228000604777733,0.06120147775606391,False,Left Foot,Open Play,1,1,2,Normal
-6.324555320336762,0.05571701638577512,True,Right Foot,Open Play,1,0,1,Half Volley
-26.432744844226825,0.06993088043520414,False,Right Foot,Open Play,0,0,2,Normal
-30.366428831853117,0.06331355070220766,False,Left Foot,Free Kick,0,0,0,Normal
-30.022158483360247,0.05165175247564176,False,Left Foot,Free Kick,0,0,0,Normal
-28.853076092507017,0.07178955683498656,False,Left Foot,Open Play,1,0,1,Normal
-10.11385188738692,0.05980884243547346,False,Head,Open Play,0,1,7,Normal
-50.17858108795026,0.09222710555611452,False,Left Foot,Open Play,0,0,1,Lob
-16.945205811674285,0.06371533078305439,False,Left Foot,Open Play,0,1,2,Normal
-25.10478042126639,0.06379706325270104,False,Right Foot,Open Play,1,1,1,Normal
-12.000416659433121,0.059555627998902204,True,Left Foot,Penalty,0,0,0,Normal
-31.12073263919087,0.06018576703692634,False,Right Foot,Open Play,1,0,0,Volley
-10.307764064044148,0.05874815252133123,False,Head,Open Play,0,0,2,Diving Header
-23.914012628582434,0.057303945048808765,False,Right Foot,Open Play,1,0,0,Normal
-13.58234147707972,0.05889335364518936,False,Left Foot,Open Play,0,0,3,Half Volley
-24.97218452598811,0.055766071257578584,False,Left Foot,Free Kick,0,0,0,Normal
-21.91278165820123,0.05713415959818044,False,Left Foot,Open Play,0,0,1,Normal
-23.041701326073998,0.061651626494482636,False,Left Foot,Open Play,1,0,0,Half Volley
-31.888869531546582,0.07198996451458177,False,Left Foot,Open Play,1,0,0,Half Volley
-10.737783756436896,0.0587359502855594,True,Head,Open Play,0,1,4,Normal
-15.02065244921139,0.06154650279344453,False,Right Foot,Open Play,1,0,3,Half Volley
-14.746185947559455,0.05994814055371611,False,Right Foot,Open Play,0,0,1,Normal
-7.810249675906651,0.057743090180456945,False,Left Foot,Open Play,1,0,2,Normal
-26.74789711360503,0.06825821920758275,False,Right Foot,Free Kick,0,0,0,Normal
-8.48528137423857,0.05895299279142968,False,Head,Open Play,0,1,4,Normal
-12.913945950018537,0.0597494454026934,True,Right Foot,Open Play,0,0,3,Half Volley
-9.79438614717635,0.05416731295507722,True,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825592,Aritz Elustondo Irribaria,Real Sociedad,22.466196829904256,0.051606913906744684,False,Head,Open Play,0,1,1,Normal
+3825592,Carlos Alberto Vela Garrido,Real Sociedad,13.228000604777733,0.06120147775606391,False,Left Foot,Open Play,1,1,2,Normal
+3825592,Imanol Agirretxe Arruti,Real Sociedad,6.324555320336762,0.05571701638577512,True,Right Foot,Open Play,1,0,1,Half Volley
+3825592,Víctor Guillermo Álvarez Delgado,Espanyol,26.432744844226825,0.06993088043520414,False,Right Foot,Open Play,0,0,2,Normal
+3825592,Víctor Guillermo Álvarez Delgado,Espanyol,30.366428831853117,0.06331355070220766,False,Left Foot,Free Kick,0,0,0,Normal
+3825592,Sergio Canales Madrazo,Real Sociedad,30.022158483360247,0.05165175247564176,False,Left Foot,Free Kick,0,0,0,Normal
+3825592,Víctor Guillermo Álvarez Delgado,Espanyol,28.853076092507017,0.07178955683498656,False,Left Foot,Open Play,1,0,1,Normal
+3825592,Enzo Pablo Roco Roco,Espanyol,10.11385188738692,0.05980884243547346,False,Head,Open Play,0,1,7,Normal
+3825592,Víctor Sánchez Mata,Espanyol,50.17858108795026,0.09222710555611452,False,Left Foot,Open Play,0,0,1,Lob
+3825592,Gerard Moreno Balaguero,Espanyol,16.945205811674285,0.06371533078305439,False,Left Foot,Open Play,0,1,2,Normal
+3825592,Papa Kouly Diop,Espanyol,25.10478042126639,0.06379706325270104,False,Right Foot,Open Play,1,1,1,Normal
+3825592,Gerard Moreno Balaguero,Espanyol,12.000416659433121,0.059555627998902204,True,Left Foot,Penalty,0,0,0,Normal
+3825592,Aritz Elustondo Irribaria,Real Sociedad,31.12073263919087,0.06018576703692634,False,Right Foot,Open Play,1,0,0,Volley
+3825592,Imanol Agirretxe Arruti,Real Sociedad,10.307764064044148,0.05874815252133123,False,Head,Open Play,0,0,2,Diving Header
+3825592,Hernán Arsenio Pérez González,Espanyol,23.914012628582434,0.057303945048808765,False,Right Foot,Open Play,1,0,0,Normal
+3825592,Víctor Guillermo Álvarez Delgado,Espanyol,13.58234147707972,0.05889335364518936,False,Left Foot,Open Play,0,0,3,Half Volley
+3825592,Marco Asensio Willemsen,Espanyol,24.97218452598811,0.055766071257578584,False,Left Foot,Free Kick,0,0,0,Normal
+3825592,Gerard Moreno Balaguero,Espanyol,21.91278165820123,0.05713415959818044,False,Left Foot,Open Play,0,0,1,Normal
+3825592,Asier Illarramendi Andonegi,Real Sociedad,23.041701326073998,0.061651626494482636,False,Left Foot,Open Play,1,0,0,Half Volley
+3825592,Alberto De La Bella Madureño,Real Sociedad,31.888869531546582,0.07198996451458177,False,Left Foot,Open Play,1,0,0,Half Volley
+3825592,Enzo Pablo Roco Roco,Espanyol,10.737783756436896,0.0587359502855594,True,Head,Open Play,0,1,4,Normal
+3825592,Víctor Sánchez Mata,Espanyol,15.02065244921139,0.06154650279344453,False,Right Foot,Open Play,1,0,3,Half Volley
+3825592,Jorge Franco Alviz,Espanyol,14.746185947559455,0.05994814055371611,False,Right Foot,Open Play,0,0,1,Normal
+3825592,Gerard Moreno Balaguero,Espanyol,7.810249675906651,0.057743090180456945,False,Left Foot,Open Play,1,0,2,Normal
+3825592,Víctor Sánchez Mata,Espanyol,26.74789711360503,0.06825821920758275,False,Right Foot,Free Kick,0,0,0,Normal
+3825592,Aritz Elustondo Irribaria,Real Sociedad,8.48528137423857,0.05895299279142968,False,Head,Open Play,0,1,4,Normal
+3825592,Jonathas Cristian de Jesus,Real Sociedad,12.913945950018537,0.0597494454026934,True,Right Foot,Open Play,0,0,3,Half Volley
+3825592,Hernán Arsenio Pérez González,Espanyol,9.79438614717635,0.05416731295507722,True,Head,Open Play,0,0,1,Normal

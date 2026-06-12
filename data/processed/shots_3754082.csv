@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.924833824885845,0.0633010036876286,False,Left Foot,Open Play,1,0,3,Normal
-26.54147697472769,0.059585083211043985,False,Left Foot,Open Play,1,0,2,Normal
-27.433191575170394,0.06513429975315829,False,Right Foot,Open Play,0,0,2,Normal
-18.772320048411697,0.055934608063400656,False,Right Foot,Open Play,0,0,1,Normal
-16.659531806146294,0.060592875050787094,False,Right Foot,Open Play,1,0,1,Normal
-11.95700631429122,0.06024744580245857,False,Left Foot,Open Play,0,0,3,Normal
-27.990176848315915,0.06121779921569196,False,Left Foot,Open Play,1,0,0,Normal
-11.992080720208655,0.05733168450177981,True,Left Foot,Open Play,0,0,2,Normal
-29.98166106138884,0.07204021666397836,False,Left Foot,Open Play,1,0,1,Normal
-18.30956034425731,0.05415865147419071,False,Right Foot,Open Play,0,0,1,Normal
-15.302940893828216,0.06088204632030695,False,Left Foot,Open Play,1,0,2,Volley
-24.961770770520268,0.0687359344785495,False,Left Foot,Open Play,1,0,1,Normal
-17.39683879329805,0.06397425442369947,True,Left Foot,Open Play,0,0,2,Normal
-24.00104164406204,0.06595198295937368,False,Right Foot,Open Play,0,0,2,Normal
-22.766861883008826,0.06715640730912353,False,Left Foot,Open Play,0,0,2,Normal
-18.890473789717397,0.05522069129039901,False,Left Foot,Open Play,0,0,2,Normal
-17.755280904564703,0.057903920143374164,True,Right Foot,Open Play,0,0,1,Half Volley
-5.124451190127588,0.056271321845986544,True,Head,Open Play,0,1,4,Normal
-20.43648697795196,0.06451236712303561,False,Left Foot,Open Play,0,1,2,Normal
-20.120636172845032,0.06212547063462366,False,Right Foot,Open Play,0,0,4,Normal
-13.285330255586423,0.06138443987527677,True,Left Foot,Open Play,0,0,1,Normal
-14.034600101178519,0.06134494938574037,True,Left Foot,Open Play,1,1,0,Normal
-19.453534383242545,0.06459012403470198,False,Right Foot,Open Play,0,0,4,Normal
-8.508818954473066,0.05632122974420812,False,Head,Open Play,0,1,4,Normal
-6.818357573492311,0.0576353206531825,True,Head,Open Play,0,0,3,Normal
-11.6661904664719,0.055839743279049496,False,Right Foot,Open Play,1,0,1,Normal
-23.604448733236715,0.06611388968360414,False,Left Foot,Open Play,0,0,1,Normal
-18.322117781522966,0.06391544742999514,False,Right Foot,Open Play,0,0,3,Normal
-16.351758315239373,0.05592429633383975,False,Right Foot,Open Play,0,0,1,Lob
-22.339650847763934,0.06718267878474969,False,Right Foot,Open Play,1,0,1,Normal
-23.35658365429328,0.06783744788071723,False,Right Foot,Open Play,0,0,2,Normal
-22.381465546295217,0.06702403325321554,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754082,Patrick van Aanholt,Sunderland,16.924833824885845,0.0633010036876286,False,Left Foot,Open Play,1,0,3,Normal
+3754082,Romelu Lukaku Menama,Everton,26.54147697472769,0.059585083211043985,False,Left Foot,Open Play,1,0,2,Normal
+3754082,Ross Barkley,Everton,27.433191575170394,0.06513429975315829,False,Right Foot,Open Play,0,0,2,Normal
+3754082,Jermain Defoe,Sunderland,18.772320048411697,0.055934608063400656,False,Right Foot,Open Play,0,0,1,Normal
+3754082,Adam Johnson,Sunderland,16.659531806146294,0.060592875050787094,False,Right Foot,Open Play,1,0,1,Normal
+3754082,Steven Fletcher,Sunderland,11.95700631429122,0.06024744580245857,False,Left Foot,Open Play,0,0,3,Normal
+3754082,Séamus Coleman,Everton,27.990176848315915,0.06121779921569196,False,Left Foot,Open Play,1,0,0,Normal
+3754082,Gerard Deulofeu Lázaro,Everton,11.992080720208655,0.05733168450177981,True,Left Foot,Open Play,0,0,2,Normal
+3754082,Gareth Barry,Everton,29.98166106138884,0.07204021666397836,False,Left Foot,Open Play,1,0,1,Normal
+3754082,Séamus Coleman,Everton,18.30956034425731,0.05415865147419071,False,Right Foot,Open Play,0,0,1,Normal
+3754082,Steven Fletcher,Sunderland,15.302940893828216,0.06088204632030695,False,Left Foot,Open Play,1,0,2,Volley
+3754082,Adam Johnson,Sunderland,24.961770770520268,0.0687359344785495,False,Left Foot,Open Play,1,0,1,Normal
+3754082,Arouna Koné,Everton,17.39683879329805,0.06397425442369947,True,Left Foot,Open Play,0,0,2,Normal
+3754082,Romelu Lukaku Menama,Everton,24.00104164406204,0.06595198295937368,False,Right Foot,Open Play,0,0,2,Normal
+3754082,Ross Barkley,Everton,22.766861883008826,0.06715640730912353,False,Left Foot,Open Play,0,0,2,Normal
+3754082,Steven Fletcher,Sunderland,18.890473789717397,0.05522069129039901,False,Left Foot,Open Play,0,0,2,Normal
+3754082,Jermain Defoe,Sunderland,17.755280904564703,0.057903920143374164,True,Right Foot,Open Play,0,0,1,Half Volley
+3754082,Steven Fletcher,Sunderland,5.124451190127588,0.056271321845986544,True,Head,Open Play,0,1,4,Normal
+3754082,Jermain Defoe,Sunderland,20.43648697795196,0.06451236712303561,False,Left Foot,Open Play,0,1,2,Normal
+3754082,Arouna Koné,Everton,20.120636172845032,0.06212547063462366,False,Right Foot,Open Play,0,0,4,Normal
+3754082,Romelu Lukaku Menama,Everton,13.285330255586423,0.06138443987527677,True,Left Foot,Open Play,0,0,1,Normal
+3754082,Arouna Koné,Everton,14.034600101178519,0.06134494938574037,True,Left Foot,Open Play,1,1,0,Normal
+3754082,Jermain Defoe,Sunderland,19.453534383242545,0.06459012403470198,False,Right Foot,Open Play,0,0,4,Normal
+3754082,José Ramiro Funes Mori,Everton,8.508818954473066,0.05632122974420812,False,Head,Open Play,0,1,4,Normal
+3754082,Arouna Koné,Everton,6.818357573492311,0.0576353206531825,True,Head,Open Play,0,0,3,Normal
+3754082,Sebastian Larsson,Sunderland,11.6661904664719,0.055839743279049496,False,Right Foot,Open Play,1,0,1,Normal
+3754082,Billy Jones,Sunderland,23.604448733236715,0.06611388968360414,False,Left Foot,Open Play,0,0,1,Normal
+3754082,Kevin Mirallas,Everton,18.322117781522966,0.06391544742999514,False,Right Foot,Open Play,0,0,3,Normal
+3754082,Duncan Watmore,Sunderland,16.351758315239373,0.05592429633383975,False,Right Foot,Open Play,0,0,1,Lob
+3754082,Yann Gérard M''Vila,Sunderland,22.339650847763934,0.06718267878474969,False,Right Foot,Open Play,1,0,1,Normal
+3754082,Jermain Defoe,Sunderland,23.35658365429328,0.06783744788071723,False,Right Foot,Open Play,0,0,2,Normal
+3754082,Patrick van Aanholt,Sunderland,22.381465546295217,0.06702403325321554,False,Right Foot,Open Play,0,0,2,Normal

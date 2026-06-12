@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.156208670678367,0.06744159537151315,False,Right Foot,Open Play,0,0,2,Normal
-13.764446955835167,0.06184439627427701,True,Left Foot,Open Play,1,0,1,Half Volley
-18.386136081297778,0.0639680965335677,False,Left Foot,Open Play,0,1,1,Half Volley
-13.341664064126336,0.06154812077065949,False,Head,Open Play,0,1,1,Normal
-7.151223671512452,0.05662910070504932,False,Head,Open Play,0,0,4,Normal
-15.234500319997373,0.06222777811193583,False,Right Foot,Open Play,0,1,1,Half Volley
-28.81961137836525,0.07024254802732005,False,Left Foot,Open Play,0,0,2,Normal
-12.753430910935297,0.06039008203343893,False,Head,Open Play,0,1,2,Normal
-34.470277051396025,0.07552523767820152,False,Right Foot,Open Play,0,1,1,Normal
-31.310221973023445,0.06110949512131507,False,Right Foot,Open Play,0,0,2,Normal
-30.589704150252906,0.07309847991785254,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-17.08361788380904,0.060138308485095195,False,Left Foot,Open Play,0,0,3,Normal
-24.62214450449026,0.06873809431676961,False,Right Foot,Open Play,0,0,2,Normal
-15.749285698088027,0.05573080063131338,False,Right Foot,Open Play,0,1,3,Half Volley
-15.93988707613702,0.06275277004160158,False,Right Foot,Open Play,1,0,1,Normal
-17.376133056580798,0.06346497692788226,True,Left Foot,Open Play,0,0,2,Normal
-19.17315832094441,0.06463227798807662,False,Left Foot,Open Play,0,0,1,Normal
-17.0,0.061743692939782886,False,Right Foot,Open Play,0,0,2,Volley
-34.27608495729932,0.07418396096666002,False,Right Foot,Open Play,0,0,1,Normal
-17.10584695360039,0.05577484525246601,True,Right Foot,Open Play,0,0,1,Normal
-24.7396442981705,0.06597276567613666,False,Right Foot,Open Play,1,0,0,Normal
-23.348875775934047,0.0629117370328025,True,Right Foot,Open Play,0,0,3,Normal
-14.723111084278354,0.06234717390335067,False,Right Foot,Open Play,0,0,2,Normal
-12.80351514233494,0.06125109284361394,True,Other,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879827,Marek Hamšík,Napoli,23.156208670678367,0.06744159537151315,False,Right Foot,Open Play,0,0,2,Normal
+3879827,Manolo Gabbiadini,Napoli,13.764446955835167,0.06184439627427701,True,Left Foot,Open Play,1,0,1,Half Volley
+3879827,Marek Hamšík,Napoli,18.386136081297778,0.0639680965335677,False,Left Foot,Open Play,0,1,1,Half Volley
+3879827,Raúl Albiol i Tortajada,Napoli,13.341664064126336,0.06154812077065949,False,Head,Open Play,0,1,1,Normal
+3879827,Manolo Gabbiadini,Napoli,7.151223671512452,0.05662910070504932,False,Head,Open Play,0,0,4,Normal
+3879827,Raúl Albiol i Tortajada,Napoli,15.234500319997373,0.06222777811193583,False,Right Foot,Open Play,0,1,1,Half Volley
+3879827,Manolo Gabbiadini,Napoli,28.81961137836525,0.07024254802732005,False,Left Foot,Open Play,0,0,2,Normal
+3879827,Dries Mertens,Napoli,12.753430910935297,0.06039008203343893,False,Head,Open Play,0,1,2,Normal
+3879827,Emanuele Giaccherini,Bologna,34.470277051396025,0.07552523767820152,False,Right Foot,Open Play,0,1,1,Normal
+3879827,Juan Camilo Zúñiga Mosquera,Bologna,31.310221973023445,0.06110949512131507,False,Right Foot,Open Play,0,0,2,Normal
+3879827,Dries Mertens,Napoli,30.589704150252906,0.07309847991785254,False,Right Foot,Open Play,0,0,1,Normal
+3879827,Manolo Gabbiadini,Napoli,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3879827,Manolo Gabbiadini,Napoli,17.08361788380904,0.060138308485095195,False,Left Foot,Open Play,0,0,3,Normal
+3879827,Dries Mertens,Napoli,24.62214450449026,0.06873809431676961,False,Right Foot,Open Play,0,0,2,Normal
+3879827,Robert Acquafresca,Bologna,15.749285698088027,0.05573080063131338,False,Right Foot,Open Play,0,1,3,Half Volley
+3879827,Matteo Brighi,Bologna,15.93988707613702,0.06275277004160158,False,Right Foot,Open Play,1,0,1,Normal
+3879827,Dries Mertens,Napoli,17.376133056580798,0.06346497692788226,True,Left Foot,Open Play,0,0,2,Normal
+3879827,Dries Mertens,Napoli,19.17315832094441,0.06463227798807662,False,Left Foot,Open Play,0,0,1,Normal
+3879827,Lorenzo Insigne,Napoli,17.0,0.061743692939782886,False,Right Foot,Open Play,0,0,2,Volley
+3879827,Juan Camilo Zúñiga Mosquera,Bologna,34.27608495729932,0.07418396096666002,False,Right Foot,Open Play,0,0,1,Normal
+3879827,Dries Mertens,Napoli,17.10584695360039,0.05577484525246601,True,Right Foot,Open Play,0,0,1,Normal
+3879827,Jorge Luiz Frello Filho,Napoli,24.7396442981705,0.06597276567613666,False,Right Foot,Open Play,1,0,0,Normal
+3879827,Dries Mertens,Napoli,23.348875775934047,0.0629117370328025,True,Right Foot,Open Play,0,0,3,Normal
+3879827,David López Silva,Napoli,14.723111084278354,0.06234717390335067,False,Right Foot,Open Play,0,0,2,Normal
+3879827,David López Silva,Napoli,12.80351514233494,0.06125109284361394,True,Other,Open Play,1,0,2,Normal

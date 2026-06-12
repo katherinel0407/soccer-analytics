@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.81937257177254,0.06056062972972131,False,Right Foot,Open Play,0,0,3,Normal
-6.407027391856544,0.05741346130007906,False,Head,Open Play,0,1,5,Normal
-25.967672209884356,0.06823272242982475,False,Right Foot,Open Play,1,0,0,Volley
-25.244801445050022,0.06679900335922613,False,Right Foot,Open Play,0,0,1,Normal
-11.086027241532472,0.0580228470821218,False,Right Foot,Open Play,1,1,1,Half Volley
-15.89370944745121,0.05658057622140803,False,Right Foot,Open Play,0,0,2,Normal
-18.752333188166215,0.0637243988359982,False,Right Foot,Open Play,1,0,1,Half Volley
-7.872102641607254,0.056480336240522004,False,Head,Open Play,0,1,3,Normal
-13.309019498069723,0.05946315546176496,False,Head,Open Play,0,0,2,Normal
-7.94040301244212,0.058527883853990915,False,Left Foot,Open Play,1,1,3,Half Volley
-9.042676594902634,0.05615482131640013,False,Right Foot,Open Play,1,1,2,Half Volley
-11.713667231059619,0.05387782041175783,False,Right Foot,Open Play,0,0,1,Normal
-19.34580057790321,0.06525946922890723,False,Right Foot,Open Play,1,1,1,Normal
-7.810889834071409,0.05689361745683244,False,Head,Open Play,0,0,2,Normal
-22.817756243767704,0.06738078898690675,False,Right Foot,Open Play,0,0,3,Normal
-21.1482859825566,0.06464887769356668,False,Left Foot,Open Play,1,0,1,Normal
-22.844255295369116,0.06753492611364767,False,Left Foot,Open Play,0,0,3,Normal
-26.294486114012578,0.060222775509363786,False,Right Foot,Open Play,0,0,1,Normal
-28.23915721122002,0.06842441922305709,False,Right Foot,Open Play,1,0,1,Half Volley
-17.1058469536004,0.06096773736276293,False,Left Foot,Open Play,0,1,3,Half Volley
-14.01320805525987,0.06205556347333086,True,Right Foot,Open Play,1,0,4,Normal
-17.42899882379937,0.05598023383510217,False,Right Foot,Open Play,1,1,2,Volley
-24.29176815301842,0.05911576805311272,False,Left Foot,Open Play,0,0,3,Normal
-13.461426373159718,0.05732465826672235,False,Right Foot,Open Play,0,0,1,Normal
-11.086027241532472,0.0580228470821218,True,Right Foot,Open Play,1,0,2,Volley
-8.598837130682265,0.05858107609467059,False,Head,Open Play,0,1,5,Normal
-14.81215716902842,0.05650578757131785,True,Right Foot,Open Play,0,1,1,Normal
-15.035956903370005,0.06261718954147309,False,Head,Open Play,0,0,3,Normal
-21.224985276791124,0.06565733030617005,False,Right Foot,Open Play,0,1,2,Half Volley
-22.48999777678958,0.054795929490116795,False,Left Foot,Open Play,0,0,2,Normal
-20.083824337013112,0.06533723185247525,False,Left Foot,Open Play,0,0,2,Normal
-7.206941098690898,0.058353736583587265,True,Right Foot,Open Play,0,0,2,Normal
-12.544720004846665,0.06043901914444239,False,Head,Open Play,0,1,3,Normal
-15.51676512679109,0.06177193216475358,False,Right Foot,Open Play,0,1,4,Normal
-24.9899979991996,0.06853236975846685,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890387,Raffael Caetano de Araújo,Borussia Mönchengladbach,25.81937257177254,0.06056062972972131,False,Right Foot,Open Play,0,0,3,Normal
+3890387,Javier Martínez Aginaga,Bayern Munich,6.407027391856544,0.05741346130007906,False,Head,Open Play,0,1,5,Normal
+3890387,Xabier Alonso Olano,Bayern Munich,25.967672209884356,0.06823272242982475,False,Right Foot,Open Play,1,0,0,Volley
+3890387,Márcio Rafael Ferreira de Souza,Bayern Munich,25.244801445050022,0.06679900335922613,False,Right Foot,Open Play,0,0,1,Normal
+3890387,Robert Lewandowski,Bayern Munich,11.086027241532472,0.0580228470821218,False,Right Foot,Open Play,1,1,1,Half Volley
+3890387,Thomas Müller,Bayern Munich,15.89370944745121,0.05658057622140803,False,Right Foot,Open Play,0,0,2,Normal
+3890387,Kingsley Coman,Bayern Munich,18.752333188166215,0.0637243988359982,False,Right Foot,Open Play,1,0,1,Half Volley
+3890387,Medhi Amine El Mouttaqi Benatia,Bayern Munich,7.872102641607254,0.056480336240522004,False,Head,Open Play,0,1,3,Normal
+3890387,Robert Lewandowski,Bayern Munich,13.309019498069723,0.05946315546176496,False,Head,Open Play,0,0,2,Normal
+3890387,Javier Martínez Aginaga,Bayern Munich,7.94040301244212,0.058527883853990915,False,Left Foot,Open Play,1,1,3,Half Volley
+3890387,Kingsley Coman,Bayern Munich,9.042676594902634,0.05615482131640013,False,Right Foot,Open Play,1,1,2,Half Volley
+3890387,Kingsley Coman,Bayern Munich,11.713667231059619,0.05387782041175783,False,Right Foot,Open Play,0,0,1,Normal
+3890387,Kingsley Coman,Bayern Munich,19.34580057790321,0.06525946922890723,False,Right Foot,Open Play,1,1,1,Normal
+3890387,Lars Edi Stindl,Borussia Mönchengladbach,7.810889834071409,0.05689361745683244,False,Head,Open Play,0,0,2,Normal
+3890387,Lars Edi Stindl,Borussia Mönchengladbach,22.817756243767704,0.06738078898690675,False,Right Foot,Open Play,0,0,3,Normal
+3890387,Håvard Nordtveit,Borussia Mönchengladbach,21.1482859825566,0.06464887769356668,False,Left Foot,Open Play,1,0,1,Normal
+3890387,Fabian Johnson,Borussia Mönchengladbach,22.844255295369116,0.06753492611364767,False,Left Foot,Open Play,0,0,3,Normal
+3890387,Nico Elvedi,Borussia Mönchengladbach,26.294486114012578,0.060222775509363786,False,Right Foot,Open Play,0,0,1,Normal
+3890387,Mahmoud Dahoud,Borussia Mönchengladbach,28.23915721122002,0.06842441922305709,False,Right Foot,Open Play,1,0,1,Half Volley
+3890387,Arturo Erasmo Vidal Pardo,Bayern Munich,17.1058469536004,0.06096773736276293,False,Left Foot,Open Play,0,1,3,Half Volley
+3890387,Oscar Wendt,Borussia Mönchengladbach,14.01320805525987,0.06205556347333086,True,Right Foot,Open Play,1,0,4,Normal
+3890387,Mahmoud Dahoud,Borussia Mönchengladbach,17.42899882379937,0.05598023383510217,False,Right Foot,Open Play,1,1,2,Volley
+3890387,Kingsley Coman,Bayern Munich,24.29176815301842,0.05911576805311272,False,Left Foot,Open Play,0,0,3,Normal
+3890387,Julian Korb,Borussia Mönchengladbach,13.461426373159718,0.05732465826672235,False,Right Foot,Open Play,0,0,1,Normal
+3890387,Lars Edi Stindl,Borussia Mönchengladbach,11.086027241532472,0.0580228470821218,True,Right Foot,Open Play,1,0,2,Volley
+3890387,Javier Martínez Aginaga,Bayern Munich,8.598837130682265,0.05858107609467059,False,Head,Open Play,0,1,5,Normal
+3890387,Fabian Johnson,Borussia Mönchengladbach,14.81215716902842,0.05650578757131785,True,Right Foot,Open Play,0,1,1,Normal
+3890387,Robert Lewandowski,Bayern Munich,15.035956903370005,0.06261718954147309,False,Head,Open Play,0,0,3,Normal
+3890387,Sebastian Rode,Bayern Munich,21.224985276791124,0.06565733030617005,False,Right Foot,Open Play,0,1,2,Half Volley
+3890387,Kingsley Coman,Bayern Munich,22.48999777678958,0.054795929490116795,False,Left Foot,Open Play,0,0,2,Normal
+3890387,Franck Bilal Ribéry,Bayern Munich,20.083824337013112,0.06533723185247525,False,Left Foot,Open Play,0,0,2,Normal
+3890387,Franck Bilal Ribéry,Bayern Munich,7.206941098690898,0.058353736583587265,True,Right Foot,Open Play,0,0,2,Normal
+3890387,Javier Martínez Aginaga,Bayern Munich,12.544720004846665,0.06043901914444239,False,Head,Open Play,0,1,3,Normal
+3890387,Josip Drmic,Borussia Mönchengladbach,15.51676512679109,0.06177193216475358,False,Right Foot,Open Play,0,1,4,Normal
+3890387,Márcio Rafael Ferreira de Souza,Bayern Munich,24.9899979991996,0.06853236975846685,False,Right Foot,Open Play,0,0,1,Normal

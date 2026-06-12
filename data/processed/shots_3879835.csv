@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.213629327327146,0.055814376554469955,True,Head,Open Play,0,1,1,Normal
-26.24271327435484,0.06817072191927881,False,Left Foot,Open Play,1,1,2,Half Volley
-21.50581316760657,0.056569821655459304,False,Right Foot,Open Play,1,0,1,Normal
-8.981091247727083,0.05909489411664734,False,Right Foot,Open Play,1,1,2,Backheel
-16.907099100673655,0.06241020725595521,False,Right Foot,Open Play,1,0,2,Half Volley
-24.067405344157894,0.06581460537319193,False,Left Foot,Open Play,1,0,1,Half Volley
-11.13597772986279,0.06038324370313121,False,Head,Open Play,0,0,4,Normal
-26.716661468080172,0.0636318814027693,False,Right Foot,Open Play,1,0,1,Normal
-9.501578816175765,0.05556433131742561,False,Right Foot,Open Play,0,0,3,Half Volley
-26.541476974727694,0.056278727417941564,False,Left Foot,Open Play,1,0,1,Normal
-14.144963768069534,0.0565988947351233,False,Head,Open Play,0,0,2,Diving Header
-27.209189624095753,0.07052561090290851,False,Left Foot,Open Play,0,0,1,Normal
-11.813974775662937,0.0604150086499102,False,Head,Open Play,0,1,4,Normal
-9.600520819205597,0.05708532750052373,True,Right Foot,Open Play,0,1,3,Half Volley
-18.710692130437078,0.06356536211773636,False,Right Foot,Open Play,1,0,3,Volley
-24.6641440151488,0.06686001269689507,False,Right Foot,Open Play,1,0,0,Normal
-33.19307156621695,0.06580939642144887,False,Right Foot,Open Play,0,0,1,Normal
-25.519012520080008,0.06937794487480052,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-26.62048083712989,0.06197640491836279,False,Right Foot,Open Play,1,0,1,Half Volley
-27.247018185482247,0.06567130335249055,False,Right Foot,Open Play,0,0,2,Normal
-35.42485003496839,0.07490923283506819,True,Right Foot,Open Play,1,0,0,Lob
-29.504236983863862,0.056193965040428215,True,Right Foot,Open Play,1,0,0,Normal
-34.71973502203034,0.07264580930637177,False,Left Foot,Open Play,1,0,0,Normal
-26.760605374318423,0.06827945213163596,False,Right Foot,Open Play,0,0,0,Normal
-24.621941434419828,0.05390333547125837,False,Right Foot,Open Play,0,0,1,Normal
-26.024987992312305,0.06880424585983086,False,Right Foot,Open Play,0,1,3,Normal
-8.872992730753248,0.05559483735138379,False,Head,Open Play,0,1,3,Normal
-4.5177427992306045,0.05448858841004269,True,Right Foot,Open Play,1,0,3,Half Volley
-62.032249677083286,0.048248019205124525,False,Right Foot,Open Play,0,0,0,Normal
-45.401762080342216,0.07654646428372587,False,Right Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879835,Daniel Ciofani,Frosinone,13.213629327327146,0.055814376554469955,True,Head,Open Play,0,1,1,Normal
+3879835,Massimo Gobbi,Chievo,26.24271327435484,0.06817072191927881,False,Left Foot,Open Play,1,1,2,Half Volley
+3879835,Lucas Nahuel Castro,Chievo,21.50581316760657,0.056569821655459304,False,Right Foot,Open Play,1,0,1,Normal
+3879835,Antonio Floro Flores,Chievo,8.981091247727083,0.05909489411664734,False,Right Foot,Open Play,1,1,2,Backheel
+3879835,Simone Pepe,Chievo,16.907099100673655,0.06241020725595521,False,Right Foot,Open Play,1,0,2,Half Volley
+3879835,Massimo Gobbi,Chievo,24.067405344157894,0.06581460537319193,False,Left Foot,Open Play,1,0,1,Half Volley
+3879835,Boštjan Cesar,Chievo,11.13597772986279,0.06038324370313121,False,Head,Open Play,0,0,4,Normal
+3879835,Nicola Rigoni,Chievo,26.716661468080172,0.0636318814027693,False,Right Foot,Open Play,1,0,1,Normal
+3879835,Daniel Ciofani,Frosinone,9.501578816175765,0.05556433131742561,False,Right Foot,Open Play,0,0,3,Half Volley
+3879835,Matteo Ciofani,Frosinone,26.541476974727694,0.056278727417941564,False,Left Foot,Open Play,1,0,1,Normal
+3879835,Sergio Pellissier,Chievo,14.144963768069534,0.0565988947351233,False,Head,Open Play,0,0,2,Diving Header
+3879835,Massimo Gobbi,Chievo,27.209189624095753,0.07052561090290851,False,Left Foot,Open Play,0,0,1,Normal
+3879835,Antonio Floro Flores,Chievo,11.813974775662937,0.0604150086499102,False,Head,Open Play,0,1,4,Normal
+3879835,Antonio Floro Flores,Chievo,9.600520819205597,0.05708532750052373,True,Right Foot,Open Play,0,1,3,Half Volley
+3879835,Antonio Floro Flores,Chievo,18.710692130437078,0.06356536211773636,False,Right Foot,Open Play,1,0,3,Volley
+3879835,Robert Gucher,Frosinone,24.6641440151488,0.06686001269689507,False,Right Foot,Open Play,1,0,0,Normal
+3879835,Luca Paganini,Frosinone,33.19307156621695,0.06580939642144887,False,Right Foot,Open Play,0,0,1,Normal
+3879835,Antonio Floro Flores,Chievo,25.519012520080008,0.06937794487480052,False,Right Foot,Open Play,0,0,1,Normal
+3879835,Sergio Pellissier,Chievo,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879835,Yussif Raman Chibsah,Frosinone,26.62048083712989,0.06197640491836279,False,Right Foot,Open Play,1,0,1,Half Volley
+3879835,Robert Gucher,Frosinone,27.247018185482247,0.06567130335249055,False,Right Foot,Open Play,0,0,2,Normal
+3879835,Nicola Rigoni,Chievo,35.42485003496839,0.07490923283506819,True,Right Foot,Open Play,1,0,0,Lob
+3879835,Gennaro Sardo,Chievo,29.504236983863862,0.056193965040428215,True,Right Foot,Open Play,1,0,0,Normal
+3879835,Daniel Pavlovic,Frosinone,34.71973502203034,0.07264580930637177,False,Left Foot,Open Play,1,0,0,Normal
+3879835,Antonio Floro Flores,Chievo,26.760605374318423,0.06827945213163596,False,Right Foot,Open Play,0,0,0,Normal
+3879835,Simone Pepe,Chievo,24.621941434419828,0.05390333547125837,False,Right Foot,Open Play,0,0,1,Normal
+3879835,Antonio Floro Flores,Chievo,26.024987992312305,0.06880424585983086,False,Right Foot,Open Play,0,1,3,Normal
+3879835,Nicolás Federico Spolli,Chievo,8.872992730753248,0.05559483735138379,False,Head,Open Play,0,1,3,Normal
+3879835,Sergio Pellissier,Chievo,4.5177427992306045,0.05448858841004269,True,Right Foot,Open Play,1,0,3,Half Volley
+3879835,Simone Pepe,Chievo,62.032249677083286,0.048248019205124525,False,Right Foot,Open Play,0,0,0,Normal
+3879835,Aleksandar Tonev,Frosinone,45.401762080342216,0.07654646428372587,False,Right Foot,Open Play,0,1,3,Normal

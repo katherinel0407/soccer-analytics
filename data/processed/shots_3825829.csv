@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.6027540765903,0.06575147707934477,False,Right Foot,Open Play,1,0,0,Normal
-15.761345120261783,0.0629866395812069,False,Right Foot,Open Play,1,0,1,Volley
-13.563554106501737,0.059393395222667233,False,Right Foot,Open Play,1,0,2,Normal
-10.030453628824576,0.057309417170629526,False,Right Foot,Open Play,0,1,1,Normal
-31.68406539571587,0.07400960831054476,False,Right Foot,Free Kick,0,0,0,Normal
-14.957606760441328,0.051992722144459505,False,Right Foot,Open Play,1,0,1,Volley
-8.200609733428363,0.05572498729927704,False,Head,Open Play,0,1,2,Normal
-10.890362712049582,0.05957658951909537,False,Head,Open Play,0,1,5,Normal
-31.219385003551878,0.07313627592330976,False,Right Foot,Open Play,1,0,0,Normal
-12.126417442921882,0.06070099992359044,False,Head,Open Play,0,0,1,Normal
-38.70051679241506,0.07750037789410774,False,Right Foot,Open Play,0,0,1,Normal
-28.77933286231632,0.07175092683841026,False,Right Foot,Open Play,0,0,1,Normal
-9.304837451562491,0.05857900487607075,False,Head,Open Play,0,1,2,Normal
-20.1791972090071,0.053806253220107576,False,Right Foot,Open Play,0,1,1,Normal
-25.351331325987598,0.0530792719779905,False,Right Foot,Open Play,0,0,1,Normal
-11.428035701729327,0.059056566382150774,False,Head,Open Play,0,1,2,Normal
-24.665765749313362,0.06818113479863774,False,Right Foot,Open Play,0,1,3,Normal
-15.268922686293225,0.057250156671307555,False,Right Foot,Open Play,0,0,3,Normal
-17.613914953808536,0.06277317323599647,True,Right Foot,Open Play,0,1,3,Normal
-21.102132593650342,0.06608621090259784,False,Right Foot,Open Play,0,0,1,Normal
-12.657408897558778,0.05515155212689532,False,Left Foot,Open Play,0,1,1,Normal
-5.866856057549056,0.057399545185191456,False,Head,Open Play,0,0,2,Normal
-20.26079958935481,0.053458716568764775,False,Left Foot,Open Play,0,0,3,Normal
-11.01135777277262,0.058999303412027936,False,Right Foot,Open Play,1,1,2,Half Volley
-14.143903280212294,0.062009055969657376,False,Right Foot,Open Play,0,1,6,Half Volley
-12.034118164618457,0.05492053005232513,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825829,Íñigo Lekue Martínez,Athletic Club,23.6027540765903,0.06575147707934477,False,Right Foot,Open Play,1,0,0,Normal
+3825829,Iker Muniain Goñi,Athletic Club,15.761345120261783,0.0629866395812069,False,Right Foot,Open Play,1,0,1,Volley
+3825829,Javier Guerra Rodríguez,Rayo Vallecano,13.563554106501737,0.059393395222667233,False,Right Foot,Open Play,1,0,2,Normal
+3825829,Javier Guerra Rodríguez,Rayo Vallecano,10.030453628824576,0.057309417170629526,False,Right Foot,Open Play,0,1,1,Normal
+3825829,Markel Susaeta Laskurain,Athletic Club,31.68406539571587,0.07400960831054476,False,Right Foot,Free Kick,0,0,0,Normal
+3825829,Mikel Rico Moreno,Athletic Club,14.957606760441328,0.051992722144459505,False,Right Foot,Open Play,1,0,1,Volley
+3825829,Raúl García Escudero,Athletic Club,8.200609733428363,0.05572498729927704,False,Head,Open Play,0,1,2,Normal
+3825829,Javier Guerra Rodríguez,Rayo Vallecano,10.890362712049582,0.05957658951909537,False,Head,Open Play,0,1,5,Normal
+3825829,Tiago Manuel Dias Correia,Rayo Vallecano,31.219385003551878,0.07313627592330976,False,Right Foot,Open Play,1,0,0,Normal
+3825829,Iker Muniain Goñi,Athletic Club,12.126417442921882,0.06070099992359044,False,Head,Open Play,0,0,1,Normal
+3825829,Raúl García Escudero,Athletic Club,38.70051679241506,0.07750037789410774,False,Right Foot,Open Play,0,0,1,Normal
+3825829,Iker Muniain Goñi,Athletic Club,28.77933286231632,0.07175092683841026,False,Right Foot,Open Play,0,0,1,Normal
+3825829,Raúl García Escudero,Athletic Club,9.304837451562491,0.05857900487607075,False,Head,Open Play,0,1,2,Normal
+3825829,Iñaki Williams Arthuer,Athletic Club,20.1791972090071,0.053806253220107576,False,Right Foot,Open Play,0,1,1,Normal
+3825829,Joaquín José Marín Ruiz,Rayo Vallecano,25.351331325987598,0.0530792719779905,False,Right Foot,Open Play,0,0,1,Normal
+3825829,Iñaki Williams Arthuer,Athletic Club,11.428035701729327,0.059056566382150774,False,Head,Open Play,0,1,2,Normal
+3825829,Raúl García Escudero,Athletic Club,24.665765749313362,0.06818113479863774,False,Right Foot,Open Play,0,1,3,Normal
+3825829,Pablo Hernández Domínguez,Rayo Vallecano,15.268922686293225,0.057250156671307555,False,Right Foot,Open Play,0,0,3,Normal
+3825829,Iñaki Williams Arthuer,Athletic Club,17.613914953808536,0.06277317323599647,True,Right Foot,Open Play,0,1,3,Normal
+3825829,Iker Muniain Goñi,Athletic Club,21.102132593650342,0.06608621090259784,False,Right Foot,Open Play,0,0,1,Normal
+3825829,Javier Guerra Rodríguez,Rayo Vallecano,12.657408897558778,0.05515155212689532,False,Left Foot,Open Play,0,1,1,Normal
+3825829,Nicolás Ladislao Fedor Flores,Rayo Vallecano,5.866856057549056,0.057399545185191456,False,Head,Open Play,0,0,2,Normal
+3825829,Javier Guerra Rodríguez,Rayo Vallecano,20.26079958935481,0.053458716568764775,False,Left Foot,Open Play,0,0,3,Normal
+3825829,Javier Guerra Rodríguez,Rayo Vallecano,11.01135777277262,0.058999303412027936,False,Right Foot,Open Play,1,1,2,Half Volley
+3825829,Javier Guerra Rodríguez,Rayo Vallecano,14.143903280212294,0.062009055969657376,False,Right Foot,Open Play,0,1,6,Half Volley
+3825829,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,12.034118164618457,0.05492053005232513,False,Head,Open Play,0,1,4,Normal

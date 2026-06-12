@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.80393057469469,0.06911741928819506,False,Right Foot,Free Kick,0,0,0,Normal
-16.846661390317074,0.06285064855933152,False,Left Foot,Open Play,0,0,2,Volley
-31.60775221365797,0.07375005881897036,False,Right Foot,Open Play,0,0,1,Normal
-16.317475294910054,0.059041724612314855,False,Right Foot,Open Play,0,1,4,Normal
-28.720027855139694,0.07158649306816821,False,Right Foot,Open Play,0,1,1,Normal
-30.765727685201924,0.06019876137308764,False,Left Foot,Open Play,1,0,1,Normal
-11.412712210513325,0.059858564715804696,False,Head,Open Play,0,1,2,Normal
-15.980300372646322,0.06188328322628673,False,Left Foot,Open Play,0,0,2,Normal
-28.52823163114041,0.06129411681615428,False,Right Foot,Open Play,1,0,1,Normal
-29.04617014341133,0.07167280815032243,False,Left Foot,Open Play,0,0,2,Normal
-14.675489770362006,0.05566377363505224,True,Right Foot,Open Play,1,0,2,Normal
-17.042593699317017,0.06356613973200081,False,Left Foot,Open Play,1,0,1,Volley
-24.614223530308646,0.06040391119054629,False,Left Foot,Open Play,1,0,1,Normal
-25.909457732650452,0.06552031927155999,False,Right Foot,Open Play,0,1,2,Normal
-34.07667824187093,0.0742114129872281,False,Left Foot,Open Play,0,0,2,Normal
-11.322543883774532,0.06054835656805507,True,Right Foot,Open Play,1,0,2,Normal
-22.823233776132597,0.0665799936377072,False,Left Foot,Open Play,0,1,3,Normal
-24.26623168108308,0.06797449012681465,False,Right Foot,Open Play,0,0,3,Normal
-28.21435804692355,0.071219245848716,False,Right Foot,Free Kick,0,0,0,Normal
-12.264175471673582,0.054199293166084454,False,Left Foot,Open Play,1,1,2,Half Volley
-7.851751396981442,0.05530761276118625,False,Head,Open Play,0,0,1,Normal
-34.828149534535996,0.06949633083989498,False,Right Foot,Open Play,0,0,1,Normal
-8.30060238777885,0.05810702563772967,False,Head,Open Play,0,1,4,Normal
-32.544277530773364,0.06192910000984058,True,Right Foot,Free Kick,0,0,0,Normal
-38.91966084127661,0.07628392889116399,False,Left Foot,Open Play,0,0,0,Normal
-9.849365461794987,0.052933761800461665,False,Right Foot,Open Play,1,0,1,Volley
-17.8331152634642,0.05461022862998604,False,Right Foot,Open Play,0,1,2,Normal
-18.456435192094926,0.05750786783417631,False,Right Foot,Open Play,0,1,1,Normal
-24.366575467225587,0.06422503411078019,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754026,Yohan Cabaye,Crystal Palace,31.80393057469469,0.06911741928819506,False,Right Foot,Free Kick,0,0,0,Normal
+3754026,Damien Delaney,Crystal Palace,16.846661390317074,0.06285064855933152,False,Left Foot,Open Play,0,0,2,Volley
+3754026,Yohan Cabaye,Crystal Palace,31.60775221365797,0.07375005881897036,False,Right Foot,Open Play,0,0,1,Normal
+3754026,Joel Ward,Crystal Palace,16.317475294910054,0.059041724612314855,False,Right Foot,Open Play,0,1,4,Normal
+3754026,Marko Arnautović,Stoke City,28.720027855139694,0.07158649306816821,False,Right Foot,Open Play,0,1,1,Normal
+3754026,Jason Puncheon,Crystal Palace,30.765727685201924,0.06019876137308764,False,Left Foot,Open Play,1,0,1,Normal
+3754026,Peter Crouch,Stoke City,11.412712210513325,0.059858564715804696,False,Head,Open Play,0,1,2,Normal
+3754026,Xherdan Shaqiri,Stoke City,15.980300372646322,0.06188328322628673,False,Left Foot,Open Play,0,0,2,Normal
+3754026,Dwight Gayle,Crystal Palace,28.52823163114041,0.06129411681615428,False,Right Foot,Open Play,1,0,1,Normal
+3754026,Xherdan Shaqiri,Stoke City,29.04617014341133,0.07167280815032243,False,Left Foot,Open Play,0,0,2,Normal
+3754026,Charlie Adam,Stoke City,14.675489770362006,0.05566377363505224,True,Right Foot,Open Play,1,0,2,Normal
+3754026,Pape N''Diaye Souaré,Crystal Palace,17.042593699317017,0.06356613973200081,False,Left Foot,Open Play,1,0,1,Volley
+3754026,Jason Puncheon,Crystal Palace,24.614223530308646,0.06040391119054629,False,Left Foot,Open Play,1,0,1,Normal
+3754026,Connor Wickham,Crystal Palace,25.909457732650452,0.06552031927155999,False,Right Foot,Open Play,0,1,2,Normal
+3754026,Charlie Adam,Stoke City,34.07667824187093,0.0742114129872281,False,Left Foot,Open Play,0,0,2,Normal
+3754026,Dwight Gayle,Crystal Palace,11.322543883774532,0.06054835656805507,True,Right Foot,Open Play,1,0,2,Normal
+3754026,Connor Wickham,Crystal Palace,22.823233776132597,0.0665799936377072,False,Left Foot,Open Play,0,1,3,Normal
+3754026,Yannick Bolasie Yala,Crystal Palace,24.26623168108308,0.06797449012681465,False,Right Foot,Open Play,0,0,3,Normal
+3754026,Marko Arnautović,Stoke City,28.21435804692355,0.071219245848716,False,Right Foot,Free Kick,0,0,0,Normal
+3754026,Jason Puncheon,Crystal Palace,12.264175471673582,0.054199293166084454,False,Left Foot,Open Play,1,1,2,Half Volley
+3754026,Connor Wickham,Crystal Palace,7.851751396981442,0.05530761276118625,False,Head,Open Play,0,0,1,Normal
+3754026,Phil Bardsley,Stoke City,34.828149534535996,0.06949633083989498,False,Right Foot,Open Play,0,0,1,Normal
+3754026,Ryan Shawcross,Stoke City,8.30060238777885,0.05810702563772967,False,Head,Open Play,0,1,4,Normal
+3754026,Dwight Gayle,Crystal Palace,32.544277530773364,0.06192910000984058,True,Right Foot,Free Kick,0,0,0,Normal
+3754026,Erik Pieters,Stoke City,38.91966084127661,0.07628392889116399,False,Left Foot,Open Play,0,0,0,Normal
+3754026,Dwight Gayle,Crystal Palace,9.849365461794987,0.052933761800461665,False,Right Foot,Open Play,1,0,1,Volley
+3754026,Jonathan Walters,Stoke City,17.8331152634642,0.05461022862998604,False,Right Foot,Open Play,0,1,2,Normal
+3754026,Marko Arnautović,Stoke City,18.456435192094926,0.05750786783417631,False,Right Foot,Open Play,0,1,1,Normal
+3754026,Jordon Mutch,Crystal Palace,24.366575467225587,0.06422503411078019,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.487552112224222,0.06017370730497086,False,Left Foot,Open Play,0,0,3,Half Volley
-16.740967713964448,0.056354453805519435,False,Left Foot,Open Play,0,1,2,Normal
-12.319902597017556,0.05996920451256873,False,Head,Open Play,0,1,1,Normal
-15.900314462299171,0.061299339320337404,True,Left Foot,Open Play,0,1,2,Normal
-17.24905794529081,0.062355797385270084,False,Left Foot,Open Play,0,1,3,Normal
-16.152399202595255,0.06185735931268485,True,Left Foot,Open Play,0,0,5,Normal
-18.201098867925534,0.062194728048919165,False,Right Foot,Open Play,1,0,2,Normal
-10.689246933250258,0.0530205944853783,False,Right Foot,Open Play,1,0,1,Normal
-7.280109889280515,0.05840908288957325,False,Head,Open Play,0,1,7,Normal
-13.865424623862047,0.06066416140830206,False,Left Foot,Open Play,1,0,0,Half Volley
-34.50289842897261,0.06516043159441497,False,Right Foot,Open Play,0,1,1,Normal
-30.54766766874355,0.07234275432190759,False,Right Foot,Open Play,0,1,2,Normal
-7.684399781375247,0.056888962461963094,True,Right Foot,Open Play,1,0,3,Volley
-24.686838598735154,0.0684582896534136,False,Left Foot,Open Play,1,0,1,Half Volley
-14.101418368376994,0.05626637435732981,False,Left Foot,Open Play,1,0,2,Normal
-6.08358446970205,0.057382799563329784,False,Other,Open Play,0,0,3,Normal
-11.244998888394782,0.05531463595845034,False,Right Foot,Open Play,1,0,0,Normal
-4.242640687119285,0.05686534725156365,False,Head,Open Play,0,1,4,Normal
-1.5999999999999943,0.05548153901209522,False,Head,Open Play,0,0,3,Normal
-7.44110206891426,0.05836984536309858,False,Head,Open Play,0,0,5,Normal
-29.203595669026786,0.06427489265671758,False,Left Foot,Free Kick,0,0,0,Normal
-26.119150062741316,0.06647434505081645,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-21.763501556505098,0.06681627348508583,False,Right Foot,Open Play,0,0,2,Normal
-36.10235449385539,0.07760450707283718,False,Left Foot,Open Play,0,0,0,Normal
-20.615528128088304,0.05225308786491342,False,Right Foot,Open Play,0,1,1,Normal
-17.46682569902156,0.06373719181431818,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930160,Álvaro Borja Morata Martín,Spain,22.487552112224222,0.06017370730497086,False,Left Foot,Open Play,0,0,3,Half Volley
+3930160,Lamine Yamal Nasraoui Ebana,Spain,16.740967713964448,0.056354453805519435,False,Left Foot,Open Play,0,1,2,Normal
+3930160,Ante Budimir,Croatia,12.319902597017556,0.05996920451256873,False,Head,Open Play,0,1,1,Normal
+3930160,Álvaro Borja Morata Martín,Spain,15.900314462299171,0.061299339320337404,True,Left Foot,Open Play,0,1,2,Normal
+3930160,Mateo Kovačić,Croatia,17.24905794529081,0.062355797385270084,False,Left Foot,Open Play,0,1,3,Normal
+3930160,Fabián Ruiz Peña,Spain,16.152399202595255,0.06185735931268485,True,Left Foot,Open Play,0,0,5,Normal
+3930160,Marcelo Brozović,Croatia,18.201098867925534,0.062194728048919165,False,Right Foot,Open Play,1,0,2,Normal
+3930160,Lovro Majer,Croatia,10.689246933250258,0.0530205944853783,False,Right Foot,Open Play,1,0,1,Normal
+3930160,Robin Aime Robert Le Normand,Spain,7.280109889280515,0.05840908288957325,False,Head,Open Play,0,1,7,Normal
+3930160,Joško Gvardiol,Croatia,13.865424623862047,0.06066416140830206,False,Left Foot,Open Play,1,0,0,Half Volley
+3930160,Andrej Kramarić,Croatia,34.50289842897261,0.06516043159441497,False,Right Foot,Open Play,0,1,1,Normal
+3930160,Mateo Kovačić,Croatia,30.54766766874355,0.07234275432190759,False,Right Foot,Open Play,0,1,2,Normal
+3930160,Daniel Carvajal Ramos,Spain,7.684399781375247,0.056888962461963094,True,Right Foot,Open Play,1,0,3,Volley
+3930160,Joško Gvardiol,Croatia,24.686838598735154,0.0684582896534136,False,Left Foot,Open Play,1,0,1,Half Volley
+3930160,Lamine Yamal Nasraoui Ebana,Spain,14.101418368376994,0.05626637435732981,False,Left Foot,Open Play,1,0,2,Normal
+3930160,Álvaro Borja Morata Martín,Spain,6.08358446970205,0.057382799563329784,False,Other,Open Play,0,0,3,Normal
+3930160,Josip Stanišić,Croatia,11.244998888394782,0.05531463595845034,False,Right Foot,Open Play,1,0,0,Normal
+3930160,Ante Budimir,Croatia,4.242640687119285,0.05686534725156365,False,Head,Open Play,0,1,4,Normal
+3930160,Andrej Kramarić,Croatia,1.5999999999999943,0.05548153901209522,False,Head,Open Play,0,0,3,Normal
+3930160,Mateo Kovačić,Croatia,7.44110206891426,0.05836984536309858,False,Head,Open Play,0,0,5,Normal
+3930160,Lamine Yamal Nasraoui Ebana,Spain,29.203595669026786,0.06427489265671758,False,Left Foot,Free Kick,0,0,0,Normal
+3930160,Daniel Olmo Carvajal,Spain,26.119150062741316,0.06647434505081645,False,Right Foot,Open Play,0,0,2,Normal
+3930160,Bruno Petković,Croatia,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3930160,Ivan Perišić,Croatia,21.763501556505098,0.06681627348508583,False,Right Foot,Open Play,0,0,2,Normal
+3930160,Ivan Perišić,Croatia,36.10235449385539,0.07760450707283718,False,Left Foot,Open Play,0,0,0,Normal
+3930160,Ferrán Torres García,Spain,20.615528128088304,0.05225308786491342,False,Right Foot,Open Play,0,1,1,Normal
+3930160,Ivan Perišić,Croatia,17.46682569902156,0.06373719181431818,False,Head,Open Play,0,1,1,Normal

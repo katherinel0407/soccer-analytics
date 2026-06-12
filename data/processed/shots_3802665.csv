@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.85852920609518,0.07514137742122516,False,Right Foot,Open Play,0,0,0,Normal
-17.997777640586637,0.06374138701673975,False,Left Foot,Open Play,1,1,1,Normal
-14.85294583575931,0.06250302683746711,True,Left Foot,Open Play,1,0,5,Normal
-14.508618128546905,0.06161643052390485,False,Right Foot,Open Play,0,0,1,Normal
-11.921828718783035,0.06060593721766491,False,Head,Open Play,0,0,3,Normal
-21.618973148602592,0.06531390340408395,False,Right Foot,Open Play,0,0,1,Normal
-21.564786110694445,0.05172876645261006,False,Right Foot,Open Play,1,0,1,Half Volley
-7.158910531638183,0.055431981274210416,True,Left Foot,Open Play,0,0,2,Normal
-33.854541792793476,0.05910397876209479,False,Right Foot,Open Play,0,0,1,Normal
-15.226621424334427,0.053627569847987736,True,Left Foot,Open Play,1,0,0,Volley
-38.327535793473594,0.07928808975718557,False,Right Foot,Free Kick,0,0,0,Normal
-22.46641938538493,0.06728112568940234,False,Right Foot,Open Play,0,0,2,Normal
-27.068062361388186,0.06823055088397566,False,Right Foot,Open Play,0,0,1,Normal
-11.672617529928745,0.058958339686501236,False,Head,Open Play,0,0,2,Normal
-15.02131818450032,0.061175167860273744,False,Right Foot,Open Play,1,0,3,Half Volley
-20.259565641938135,0.06465557782073582,False,Right Foot,Open Play,0,0,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-23.664741705752892,0.05834693125787066,False,Right Foot,Open Play,0,0,2,Normal
-9.43398113205661,0.05878761238239023,False,Left Foot,Open Play,1,1,1,Normal
-17.951323071016247,0.06423936749044322,False,Left Foot,Open Play,1,0,1,Normal
-27.86269907959385,0.06123451541937906,False,Left Foot,Open Play,0,0,2,Normal
-11.544695751729453,0.060225607914924234,False,Left Foot,Open Play,0,0,2,Volley
-23.63810483097154,0.05733371488944108,False,Right Foot,Open Play,0,0,2,Normal
-30.714328903624125,0.06151968323127933,False,Right Foot,Open Play,0,0,0,Normal
-31.787418894902434,0.07394119631930592,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3802665,Kylian Mbappé Lottin,Paris Saint-Germain,33.85852920609518,0.07514137742122516,False,Right Foot,Open Play,0,0,0,Normal
+3802665,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,17.997777640586637,0.06374138701673975,False,Left Foot,Open Play,1,1,1,Normal
+3802665,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,14.85294583575931,0.06250302683746711,True,Left Foot,Open Play,1,0,5,Normal
+3802665,Kylian Mbappé Lottin,Paris Saint-Germain,14.508618128546905,0.06161643052390485,False,Right Foot,Open Play,0,0,1,Normal
+3802665,Georginio Wijnaldum,Paris Saint-Germain,11.921828718783035,0.06060593721766491,False,Head,Open Play,0,0,3,Normal
+3802665,Stephy Alvaro Mavididi,Montpellier,21.618973148602592,0.06531390340408395,False,Right Foot,Open Play,0,0,1,Normal
+3802665,Stephy Alvaro Mavididi,Montpellier,21.564786110694445,0.05172876645261006,False,Right Foot,Open Play,1,0,1,Half Volley
+3802665,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,7.158910531638183,0.055431981274210416,True,Left Foot,Open Play,0,0,2,Normal
+3802665,Arnaud Souquet,Montpellier,33.854541792793476,0.05910397876209479,False,Right Foot,Open Play,0,0,1,Normal
+3802665,Ángel Fabián Di María Hernández,Paris Saint-Germain,15.226621424334427,0.053627569847987736,True,Left Foot,Open Play,1,0,0,Volley
+3802665,Florent Mollet,Montpellier,38.327535793473594,0.07928808975718557,False,Right Foot,Free Kick,0,0,0,Normal
+3802665,Kylian Mbappé Lottin,Paris Saint-Germain,22.46641938538493,0.06728112568940234,False,Right Foot,Open Play,0,0,2,Normal
+3802665,Sergio Ramos García,Paris Saint-Germain,27.068062361388186,0.06823055088397566,False,Right Foot,Open Play,0,0,1,Normal
+3802665,Sergio Ramos García,Paris Saint-Germain,11.672617529928745,0.058958339686501236,False,Head,Open Play,0,0,2,Normal
+3802665,Sergio Ramos García,Paris Saint-Germain,15.02131818450032,0.061175167860273744,False,Right Foot,Open Play,1,0,3,Half Volley
+3802665,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,20.259565641938135,0.06465557782073582,False,Right Foot,Open Play,0,0,3,Normal
+3802665,Kylian Mbappé Lottin,Paris Saint-Germain,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3802665,Nicholas Gioacchini,Montpellier,23.664741705752892,0.05834693125787066,False,Right Foot,Open Play,0,0,2,Normal
+3802665,Joris Chotard,Montpellier,9.43398113205661,0.05878761238239023,False,Left Foot,Open Play,1,1,1,Normal
+3802665,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,17.951323071016247,0.06423936749044322,False,Left Foot,Open Play,1,0,1,Normal
+3802665,Mihailo Ristić,Montpellier,27.86269907959385,0.06123451541937906,False,Left Foot,Open Play,0,0,2,Normal
+3802665,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,11.544695751729453,0.060225607914924234,False,Left Foot,Open Play,0,0,2,Volley
+3802665,Leo Leroy,Montpellier,23.63810483097154,0.05733371488944108,False,Right Foot,Open Play,0,0,2,Normal
+3802665,Salomon Junior Sambia,Montpellier,30.714328903624125,0.06151968323127933,False,Right Foot,Open Play,0,0,0,Normal
+3802665,Salomon Junior Sambia,Montpellier,31.787418894902434,0.07394119631930592,False,Right Foot,Free Kick,0,0,0,Normal

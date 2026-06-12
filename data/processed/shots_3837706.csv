@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.53612832116238,0.060012715930654915,False,Head,Open Play,0,0,3,Normal
-9.904544411531509,0.05940075846185577,False,Left Foot,Open Play,0,0,2,Half Volley
-12.30690862889621,0.06089697520495661,False,Left Foot,Open Play,1,0,3,Normal
-30.866324692130096,0.0664182661234421,False,Right Foot,Open Play,0,0,1,Normal
-10.922453936730525,0.05937761649708158,False,Left Foot,Open Play,0,0,3,Volley
-12.116517651536684,0.06071983939420413,True,Left Foot,Open Play,0,0,1,Half Volley
-16.33799253274404,0.06307809079877862,False,Right Foot,Open Play,0,0,3,Normal
-8.864536084872128,0.05766330152738154,False,Head,Open Play,0,0,2,Normal
-11.715374513859985,0.059251473399419934,False,Left Foot,Open Play,0,0,2,Normal
-16.22744588652201,0.06288565916302677,False,Left Foot,Open Play,0,0,2,Normal
-7.305477397131557,0.05673743797214428,False,Head,Open Play,0,0,1,Normal
-22.404017496868725,0.06651148067980234,False,Right Foot,Open Play,0,0,2,Normal
-14.751271131668622,0.06239171392383686,False,Left Foot,Open Play,0,1,3,Normal
-19.67358635328089,0.06546714367625084,False,Left Foot,Open Play,0,0,3,Half Volley
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-22.76839915321233,0.06693454610786963,False,Right Foot,Open Play,0,0,3,Normal
-30.004166377354995,0.07246968934185281,False,Left Foot,Open Play,0,1,1,Normal
-31.141130358418266,0.06938034333189314,False,Right Foot,Open Play,0,0,1,Normal
-21.756838005555856,0.06017982437438044,False,Right Foot,Open Play,1,0,1,Half Volley
-9.108786966440697,0.05826225413124853,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3837706,Danilo Luís Hélio Pereira,Paris Saint-Germain,10.53612832116238,0.060012715930654915,False,Head,Open Play,0,0,3,Normal
+3837706,Neymar da Silva Santos Junior,Paris Saint-Germain,9.904544411531509,0.05940075846185577,False,Left Foot,Open Play,0,0,2,Half Volley
+3837706,Kylian Mbappé Lottin,Paris Saint-Germain,12.30690862889621,0.06089697520495661,False,Left Foot,Open Play,1,0,3,Normal
+3837706,Franck Honorat,Stade Brestois,30.866324692130096,0.0664182661234421,False,Right Foot,Open Play,0,0,1,Normal
+3837706,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,10.922453936730525,0.05937761649708158,False,Left Foot,Open Play,0,0,3,Volley
+3837706,Neymar da Silva Santos Junior,Paris Saint-Germain,12.116517651536684,0.06071983939420413,True,Left Foot,Open Play,0,0,1,Half Volley
+3837706,Kylian Mbappé Lottin,Paris Saint-Germain,16.33799253274404,0.06307809079877862,False,Right Foot,Open Play,0,0,3,Normal
+3837706,Islam Slimani,Stade Brestois,8.864536084872128,0.05766330152738154,False,Head,Open Play,0,0,2,Normal
+3837706,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,11.715374513859985,0.059251473399419934,False,Left Foot,Open Play,0,0,2,Normal
+3837706,Kylian Mbappé Lottin,Paris Saint-Germain,16.22744588652201,0.06288565916302677,False,Left Foot,Open Play,0,0,2,Normal
+3837706,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,7.305477397131557,0.05673743797214428,False,Head,Open Play,0,0,1,Normal
+3837706,Pierre Lees Melou,Stade Brestois,22.404017496868725,0.06651148067980234,False,Right Foot,Open Play,0,0,2,Normal
+3837706,Kylian Mbappé Lottin,Paris Saint-Germain,14.751271131668622,0.06239171392383686,False,Left Foot,Open Play,0,1,3,Normal
+3837706,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,19.67358635328089,0.06546714367625084,False,Left Foot,Open Play,0,0,3,Half Volley
+3837706,Islam Slimani,Stade Brestois,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3837706,Mathias Pereira Lage,Stade Brestois,22.76839915321233,0.06693454610786963,False,Right Foot,Open Play,0,0,3,Normal
+3837706,Lilian Brassier,Stade Brestois,30.004166377354995,0.07246968934185281,False,Left Foot,Open Play,0,1,1,Normal
+3837706,Vitor Machado Ferreira,Paris Saint-Germain,31.141130358418266,0.06938034333189314,False,Right Foot,Open Play,0,0,1,Normal
+3837706,Vitor Machado Ferreira,Paris Saint-Germain,21.756838005555856,0.06017982437438044,False,Right Foot,Open Play,1,0,1,Half Volley
+3837706,Marcos Aoás Corrêa,Paris Saint-Germain,9.108786966440697,0.05826225413124853,False,Head,Open Play,0,1,4,Normal

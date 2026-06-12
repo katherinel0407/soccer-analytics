@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.31473530125202,0.07784985364640581,False,Left Foot,Open Play,0,1,1,Normal
-29.16864755178066,0.0685357951249854,False,Left Foot,Open Play,0,1,2,Normal
-17.97804216259379,0.06249305890944207,False,Right Foot,Open Play,0,1,2,Normal
-12.868954891520907,0.054523219147411345,True,Right Foot,Open Play,0,0,1,Normal
-36.9671475772746,0.0775164632927269,False,Left Foot,Open Play,0,1,1,Normal
-14.665946952038247,0.06232330190633702,True,Left Foot,Open Play,0,1,1,Normal
-21.044714300745447,0.06201853506408622,False,Right Foot,Open Play,1,1,2,Normal
-11.557248807566623,0.05866058904088418,False,Head,Open Play,0,1,2,Normal
-29.302730248220897,0.06287807417589004,False,Left Foot,Open Play,0,1,1,Normal
-23.27573844156185,0.06731687548809476,False,Right Foot,Open Play,1,1,3,Normal
-12.762444906835052,0.060615216045251843,False,Left Foot,Open Play,0,1,1,Normal
-17.135343591536174,0.061339637317096816,False,Right Foot,Open Play,1,0,0,Half Volley
-25.257276179350775,0.06468756908443724,False,Right Foot,Open Play,0,1,2,Normal
-30.283493853913225,0.052336011435655194,False,Left Foot,Free Kick,0,0,0,Normal
-23.20193957409596,0.0647206272551196,False,Right Foot,Open Play,0,1,1,Normal
-31.705204620061995,0.07227892153596413,False,Right Foot,Open Play,0,1,3,Normal
-13.340539719216755,0.05650489526402656,False,Right Foot,Open Play,1,1,1,Half Volley
-27.3221521846285,0.07059413984852665,False,Right Foot,Open Play,0,1,1,Normal
-6.087692502089775,0.05758613257764431,True,Head,Open Play,0,1,3,Normal
-12.376186811776876,0.0586830101345322,False,Right Foot,Open Play,1,0,3,Volley
-22.145202640752693,0.06701312720038782,False,Left Foot,Open Play,0,0,1,Normal
-20.933466029303418,0.06616385237560629,False,Right Foot,Open Play,0,1,3,Normal
-33.18342959972643,0.07305516516978837,False,Right Foot,Open Play,0,0,1,Normal
-22.100000000000005,0.06679387860138478,False,Left Foot,Open Play,1,1,1,Volley
-24.352617929085156,0.06729078044317519,False,Right Foot,Open Play,1,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878551,Riccardo Saponara,Empoli,36.31473530125202,0.07784985364640581,False,Left Foot,Open Play,0,1,1,Normal
+3878551,Jesús Joaquín Fernández Sáez de la Torre,AC Milan,29.16864755178066,0.0685357951249854,False,Left Foot,Open Play,0,1,2,Normal
+3878551,Massimo Maccarone,Empoli,17.97804216259379,0.06249305890944207,False,Right Foot,Open Play,0,1,2,Normal
+3878551,Carlos Arturo Bacca Ahumada,AC Milan,12.868954891520907,0.054523219147411345,True,Right Foot,Open Play,0,0,1,Normal
+3878551,Piotr Zieliński,Empoli,36.9671475772746,0.0775164632927269,False,Left Foot,Open Play,0,1,1,Normal
+3878551,Riccardo Saponara,Empoli,14.665946952038247,0.06232330190633702,True,Left Foot,Open Play,0,1,1,Normal
+3878551,Manuel Pucciarelli,Empoli,21.044714300745447,0.06201853506408622,False,Right Foot,Open Play,1,1,2,Normal
+3878551,Luiz Adriano de Souza da Silva,AC Milan,11.557248807566623,0.05866058904088418,False,Head,Open Play,0,1,2,Normal
+3878551,Jesús Joaquín Fernández Sáez de la Torre,AC Milan,29.302730248220897,0.06287807417589004,False,Left Foot,Open Play,0,1,1,Normal
+3878551,Riccardo Saponara,Empoli,23.27573844156185,0.06731687548809476,False,Right Foot,Open Play,1,1,3,Normal
+3878551,Manuel Pucciarelli,Empoli,12.762444906835052,0.060615216045251843,False,Left Foot,Open Play,0,1,1,Normal
+3878551,Manuel Pucciarelli,Empoli,17.135343591536174,0.061339637317096816,False,Right Foot,Open Play,1,0,0,Half Volley
+3878551,Daniele Croce,Empoli,25.257276179350775,0.06468756908443724,False,Right Foot,Open Play,0,1,2,Normal
+3878551,Mário Rui Silva Duarte,Empoli,30.283493853913225,0.052336011435655194,False,Left Foot,Free Kick,0,0,0,Normal
+3878551,Massimo Maccarone,Empoli,23.20193957409596,0.0647206272551196,False,Right Foot,Open Play,0,1,1,Normal
+3878551,Riccardo Saponara,Empoli,31.705204620061995,0.07227892153596413,False,Right Foot,Open Play,0,1,3,Normal
+3878551,Manuel Pucciarelli,Empoli,13.340539719216755,0.05650489526402656,False,Right Foot,Open Play,1,1,1,Half Volley
+3878551,Daniele Croce,Empoli,27.3221521846285,0.07059413984852665,False,Right Foot,Open Play,0,1,1,Normal
+3878551,Luiz Adriano de Souza da Silva,AC Milan,6.087692502089775,0.05758613257764431,True,Head,Open Play,0,1,3,Normal
+3878551,Federico Barba,Empoli,12.376186811776876,0.0586830101345322,False,Right Foot,Open Play,1,0,3,Volley
+3878551,Riccardo Saponara,Empoli,22.145202640752693,0.06701312720038782,False,Left Foot,Open Play,0,0,1,Normal
+3878551,Carlos Arturo Bacca Ahumada,AC Milan,20.933466029303418,0.06616385237560629,False,Right Foot,Open Play,0,1,3,Normal
+3878551,Piotr Zieliński,Empoli,33.18342959972643,0.07305516516978837,False,Right Foot,Open Play,0,0,1,Normal
+3878551,Riccardo Saponara,Empoli,22.100000000000005,0.06679387860138478,False,Left Foot,Open Play,1,1,1,Volley
+3878551,Daniele Croce,Empoli,24.352617929085156,0.06729078044317519,False,Right Foot,Open Play,1,1,1,Half Volley

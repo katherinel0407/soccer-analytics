@@ -1,14 +1,14 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.277465737320917,0.07211923493693309,False,Right Foot,Open Play,0,0,0,Normal
-14.035668847618197,0.055648525844395835,False,Left Foot,Open Play,1,1,1,Normal
-25.025187311986304,0.06414926140717599,False,Right Foot,Open Play,1,1,1,Half Volley
-12.192620719107104,0.06016770362826207,False,Head,Open Play,0,0,2,Normal
-25.893628559937287,0.06691698051677047,False,Right Foot,Open Play,0,1,1,Normal
-24.76953774296162,0.06128351891057813,False,Right Foot,Open Play,0,0,3,Normal
-22.87290974056428,0.060874088750818525,False,Right Foot,Open Play,0,1,2,Normal
-19.498717906570167,0.06414696769301095,False,Right Foot,Open Play,0,1,2,Normal
-26.001730711627637,0.06253448371570519,False,Left Foot,Open Play,0,1,3,Half Volley
-19.96121238802894,0.06479413526337305,False,Left Foot,Open Play,0,0,1,Normal
-18.800265955565624,0.06258993248925672,False,Left Foot,Open Play,1,0,0,Normal
-10.748953437428222,0.05815978826244695,False,Head,Open Play,0,1,3,Normal
-28.445913590531767,0.07135428159535771,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901172,Jules Iloki,Nantes,29.277465737320917,0.07211923493693309,False,Right Foot,Open Play,0,0,0,Normal
+3901172,Gaël Danic,Bastia,14.035668847618197,0.055648525844395835,False,Left Foot,Open Play,1,1,1,Normal
+3901172,Guillaume Gillet,Nantes,25.025187311986304,0.06414926140717599,False,Right Foot,Open Play,1,1,1,Half Volley
+3901172,Kolbeinn Sigþórsson,Nantes,12.192620719107104,0.06016770362826207,False,Head,Open Play,0,0,2,Normal
+3901172,Seko Fofana,Bastia,25.893628559937287,0.06691698051677047,False,Right Foot,Open Play,0,1,1,Normal
+3901172,Axel Ngando,Bastia,24.76953774296162,0.06128351891057813,False,Right Foot,Open Play,0,0,3,Normal
+3901172,Seko Fofana,Bastia,22.87290974056428,0.060874088750818525,False,Right Foot,Open Play,0,1,2,Normal
+3901172,Yacine Bammou,Nantes,19.498717906570167,0.06414696769301095,False,Right Foot,Open Play,0,1,2,Normal
+3901172,Yacine Bammou,Nantes,26.001730711627637,0.06253448371570519,False,Left Foot,Open Play,0,1,3,Half Volley
+3901172,Adrien Thomasson,Nantes,19.96121238802894,0.06479413526337305,False,Left Foot,Open Play,0,0,1,Normal
+3901172,Johan Audel,Nantes,18.800265955565624,0.06258993248925672,False,Left Foot,Open Play,1,0,0,Normal
+3901172,Yacine Bammou,Nantes,10.748953437428222,0.05815978826244695,False,Head,Open Play,0,1,3,Normal
+3901172,Gaël Danic,Bastia,28.445913590531767,0.07135428159535771,False,Left Foot,Open Play,0,0,2,Normal

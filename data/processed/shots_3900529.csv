@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.345193596093143,0.07137239266421887,False,Right Foot,Free Kick,0,0,0,Normal
-10.601886624558855,0.060156868078447084,False,Right Foot,Open Play,1,0,3,Normal
-16.35175831523937,0.06194751791139081,False,Left Foot,Open Play,1,1,2,Normal
-29.62330163908135,0.06614839439820419,False,Left Foot,Free Kick,0,0,0,Normal
-15.008331019803634,0.06106056623324028,False,Right Foot,Open Play,0,0,1,Normal
-14.736349615830914,0.060351672289786155,False,Left Foot,Open Play,1,0,1,Normal
-21.39369065869655,0.058934131104496586,False,Left Foot,Open Play,1,0,1,Volley
-10.704204781299733,0.058946539963214944,False,Right Foot,Open Play,1,0,1,Half Volley
-12.851459061133877,0.05789517323075218,False,Head,Open Play,0,0,3,Normal
-22.242751628339512,0.06711120196305619,False,Right Foot,Free Kick,0,0,0,Normal
-6.200806399171,0.05786101105307438,True,Right Foot,Open Play,0,0,2,Normal
-14.5,0.0553105280679529,False,Right Foot,Open Play,0,0,2,Normal
-14.707821048680188,0.060735071936732186,False,Right Foot,Open Play,0,0,1,Normal
-9.219544457292885,0.058643835924038476,False,Right Foot,Open Play,1,0,3,Normal
-24.041006634498476,0.0561135079050652,False,Left Foot,Open Play,0,0,2,Normal
-12.894960255851894,0.057592979716178154,False,Head,Open Play,0,0,2,Normal
-9.546203433826454,0.0570128319875546,False,Head,Open Play,0,1,3,Normal
-19.312690128513943,0.0630716687925025,False,Right Foot,Open Play,1,0,0,Normal
-9.771898484941396,0.057446911607636805,False,Head,Open Play,0,1,1,Normal
-14.832734070291963,0.062219387605320156,False,Right Foot,Open Play,1,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-25.576551761330137,0.06851244564620436,False,Right Foot,Free Kick,0,0,0,Normal
-15.620499351813308,0.05438627996731815,True,Right Foot,Open Play,1,0,2,Normal
-4.085339643163096,0.05675331436526447,False,Head,Open Play,0,0,5,Normal
-6.8308125431752265,0.056684310022464185,False,Right Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900529,Romain Hamouma,Saint-Étienne,28.345193596093143,0.07137239266421887,False,Right Foot,Free Kick,0,0,0,Normal
+3900529,Romain Hamouma,Saint-Étienne,10.601886624558855,0.060156868078447084,False,Right Foot,Open Play,1,0,3,Normal
+3900529,Mana Dembélé,Guingamp,16.35175831523937,0.06194751791139081,False,Left Foot,Open Play,1,1,2,Normal
+3900529,Yannis Salibur,Guingamp,29.62330163908135,0.06614839439820419,False,Left Foot,Free Kick,0,0,0,Normal
+3900529,Marcus Coco,Guingamp,15.008331019803634,0.06106056623324028,False,Right Foot,Open Play,0,0,1,Normal
+3900529,Mana Dembélé,Guingamp,14.736349615830914,0.060351672289786155,False,Left Foot,Open Play,1,0,1,Normal
+3900529,Fabien Lemoine,Saint-Étienne,21.39369065869655,0.058934131104496586,False,Left Foot,Open Play,1,0,1,Volley
+3900529,Jimmy Briand,Guingamp,10.704204781299733,0.058946539963214944,False,Right Foot,Open Play,1,0,1,Half Volley
+3900529,Mana Dembélé,Guingamp,12.851459061133877,0.05789517323075218,False,Head,Open Play,0,0,3,Normal
+3900529,Mana Dembélé,Guingamp,22.242751628339512,0.06711120196305619,False,Right Foot,Free Kick,0,0,0,Normal
+3900529,Romain Hamouma,Saint-Étienne,6.200806399171,0.05786101105307438,True,Right Foot,Open Play,0,0,2,Normal
+3900529,Jimmy Briand,Guingamp,14.5,0.0553105280679529,False,Right Foot,Open Play,0,0,2,Normal
+3900529,Kévin Monnet-Paquet,Saint-Étienne,14.707821048680188,0.060735071936732186,False,Right Foot,Open Play,0,0,1,Normal
+3900529,Kévin Monnet-Paquet,Saint-Étienne,9.219544457292885,0.058643835924038476,False,Right Foot,Open Play,1,0,3,Normal
+3900529,Yannis Salibur,Guingamp,24.041006634498476,0.0561135079050652,False,Left Foot,Open Play,0,0,2,Normal
+3900529,Nolan Roux,Saint-Étienne,12.894960255851894,0.057592979716178154,False,Head,Open Play,0,0,2,Normal
+3900529,Nolan Roux,Saint-Étienne,9.546203433826454,0.0570128319875546,False,Head,Open Play,0,1,3,Normal
+3900529,Valentin Eysseric,Saint-Étienne,19.312690128513943,0.0630716687925025,False,Right Foot,Open Play,1,0,0,Normal
+3900529,Jimmy Briand,Guingamp,9.771898484941396,0.057446911607636805,False,Head,Open Play,0,1,1,Normal
+3900529,Jimmy Briand,Guingamp,14.832734070291963,0.062219387605320156,False,Right Foot,Open Play,1,0,0,Normal
+3900529,Valentin Eysseric,Saint-Étienne,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3900529,Nill De Pauw,Guingamp,25.576551761330137,0.06851244564620436,False,Right Foot,Free Kick,0,0,0,Normal
+3900529,Nolan Roux,Saint-Étienne,15.620499351813308,0.05438627996731815,True,Right Foot,Open Play,1,0,2,Normal
+3900529,Sloan Privat,Guingamp,4.085339643163096,0.05675331436526447,False,Head,Open Play,0,0,5,Normal
+3900529,Moustapha Elhadji Diallo,Guingamp,6.8308125431752265,0.056684310022464185,False,Right Foot,Open Play,1,0,3,Normal

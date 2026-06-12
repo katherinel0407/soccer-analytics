@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.041150158677162,0.06518347187091891,False,Left Foot,Open Play,1,0,2,Volley
-13.803260484392807,0.060240153057765124,False,Right Foot,Open Play,1,0,0,Volley
-18.24856158714982,0.05108775026853269,False,Right Foot,Open Play,0,0,1,Normal
-34.23171044514136,0.0746914613921589,False,Right Foot,Open Play,1,0,0,Normal
-20.0322240402807,0.06541105199587265,False,Head,Open Play,0,1,1,Normal
-12.506398362438324,0.0596558210030815,True,Left Foot,Open Play,1,0,1,Normal
-6.800735254367722,0.057982057123794103,False,Head,Open Play,0,1,6,Normal
-13.509256086106289,0.06124308751735015,True,Left Foot,Open Play,1,0,0,Normal
-20.56501884268527,0.06522986635915634,False,Right Foot,Open Play,0,0,2,Normal
-10.590561835898987,0.059609876605627145,False,Head,Open Play,0,0,2,Normal
-9.588534820294496,0.0581152027518435,True,Left Foot,Open Play,1,0,4,Volley
-15.546703830716009,0.059453098371016845,False,Head,Open Play,0,0,5,Normal
-8.94035793466906,0.05927103591231056,False,Head,Open Play,0,1,2,Normal
-19.50640920313116,0.06526041269036754,False,Left Foot,Open Play,1,0,1,Volley
-8.490583018850945,0.058634229463813275,False,Left Foot,Open Play,1,0,4,Volley
-10.68316432523623,0.06020178335417756,False,Head,Open Play,0,0,1,Normal
-19.461757371830533,0.05393436697119389,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-28.15848007261756,0.07092625823768227,False,Right Foot,Open Play,0,0,2,Normal
-37.95787138394354,0.07938009192461401,False,Left Foot,Open Play,0,0,0,Normal
-36.289116825847394,0.07436033003950905,False,Right Foot,Open Play,0,0,1,Normal
-42.635431274938455,0.0824967009695496,False,Left Foot,Open Play,0,0,0,Normal
-14.431216164966836,0.05492386144697384,True,Right Foot,Open Play,1,0,2,Normal
-36.341849154934316,0.0767889807536686,False,Right Foot,Open Play,0,0,0,Volley
-17.54536975956905,0.05835684457921187,False,Head,Open Play,0,0,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901230,Grégory Pujol,Gazélec Ajaccio,21.041150158677162,0.06518347187091891,False,Left Foot,Open Play,1,0,2,Volley
+3901230,Yannick Cahuzac,Bastia,13.803260484392807,0.060240153057765124,False,Right Foot,Open Play,1,0,0,Volley
+3901230,Floyd Ayité,Bastia,18.24856158714982,0.05108775026853269,False,Right Foot,Open Play,0,0,1,Normal
+3901230,Mehdi Mostefa Sbaa,Bastia,34.23171044514136,0.0746914613921589,False,Right Foot,Open Play,1,0,0,Normal
+3901230,Louis Poggi,Gazélec Ajaccio,20.0322240402807,0.06541105199587265,False,Head,Open Play,0,1,1,Normal
+3901230,Axel Ngando,Bastia,12.506398362438324,0.0596558210030815,True,Left Foot,Open Play,1,0,1,Normal
+3901230,Abdou Kader Mangane,Gazélec Ajaccio,6.800735254367722,0.057982057123794103,False,Head,Open Play,0,1,6,Normal
+3901230,Khalid Boutaïb,Gazélec Ajaccio,13.509256086106289,0.06124308751735015,True,Left Foot,Open Play,1,0,0,Normal
+3901230,François Kamano,Bastia,20.56501884268527,0.06522986635915634,False,Right Foot,Open Play,0,0,2,Normal
+3901230,Julian Palmieri,Bastia,10.590561835898987,0.059609876605627145,False,Head,Open Play,0,0,2,Normal
+3901230,Grégory Pujol,Gazélec Ajaccio,9.588534820294496,0.0581152027518435,True,Left Foot,Open Play,1,0,4,Volley
+3901230,Alexander Djiku,Bastia,15.546703830716009,0.059453098371016845,False,Head,Open Play,0,0,5,Normal
+3901230,Sébastien Squillaci,Bastia,8.94035793466906,0.05927103591231056,False,Head,Open Play,0,1,2,Normal
+3901230,Gaël Danic,Bastia,19.50640920313116,0.06526041269036754,False,Left Foot,Open Play,1,0,1,Volley
+3901230,Evaeverson Lemos da Silva Brandão,Bastia,8.490583018850945,0.058634229463813275,False,Left Foot,Open Play,1,0,4,Volley
+3901230,Khalid Boutaïb,Gazélec Ajaccio,10.68316432523623,0.06020178335417756,False,Head,Open Play,0,0,1,Normal
+3901230,Floyd Ayité,Bastia,19.461757371830533,0.05393436697119389,False,Right Foot,Open Play,1,0,1,Normal
+3901230,Mohamed Larbi,Gazélec Ajaccio,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3901230,Grégory Pujol,Gazélec Ajaccio,28.15848007261756,0.07092625823768227,False,Right Foot,Open Play,0,0,2,Normal
+3901230,Julian Palmieri,Bastia,37.95787138394354,0.07938009192461401,False,Left Foot,Open Play,0,0,0,Normal
+3901230,Lassana Coulibaly,Bastia,36.289116825847394,0.07436033003950905,False,Right Foot,Open Play,0,0,1,Normal
+3901230,Gaël Danic,Bastia,42.635431274938455,0.0824967009695496,False,Left Foot,Open Play,0,0,0,Normal
+3901230,Yannick Cahuzac,Bastia,14.431216164966836,0.05492386144697384,True,Right Foot,Open Play,1,0,2,Normal
+3901230,Mehdi Mostefa Sbaa,Bastia,36.341849154934316,0.0767889807536686,False,Right Foot,Open Play,0,0,0,Volley
+3901230,Alexander Djiku,Bastia,17.54536975956905,0.05835684457921187,False,Head,Open Play,0,0,5,Normal

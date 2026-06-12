@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.44175650354765,0.05504018272276071,False,Right Foot,Open Play,0,0,2,Normal
-11.560276813294742,0.05598361061532008,False,Right Foot,Open Play,1,0,4,Normal
-23.220680437919988,0.05392552912855543,False,Right Foot,Open Play,0,0,2,Normal
-58.96185207403173,0.10012609308676435,False,Right Foot,Open Play,0,0,0,Normal
-30.103986446980738,0.06928847306681656,False,Right Foot,Free Kick,0,0,0,Normal
-29.26431273753067,0.0637842623106167,False,Right Foot,Open Play,0,0,2,Normal
-7.2138755187485755,0.05830040723725184,False,Right Foot,Open Play,1,0,1,Half Volley
-17.029973576021785,0.05878108250423984,False,Right Foot,Open Play,0,1,4,Normal
-24.629250902128547,0.06465844621528194,False,Right Foot,Open Play,1,0,1,Half Volley
-8.273451516749224,0.05524459659499718,False,Right Foot,Open Play,1,1,2,Normal
-20.424739900424676,0.0565430723748863,False,Right Foot,Open Play,0,0,2,Normal
-18.027756377319946,0.06407023454813196,False,Right Foot,Open Play,0,0,3,Normal
-21.31783291050008,0.061601126039931654,False,Right Foot,Open Play,0,0,1,Normal
-19.22004162326398,0.05351099414361423,False,Right Foot,Open Play,0,0,1,Normal
-10.840664186294127,0.060271611406578995,False,Left Foot,Open Play,0,0,1,Normal
-21.07937380474097,0.054426830716367336,False,Left Foot,Open Play,1,0,2,Normal
-25.58378392654222,0.06771782153112722,False,Left Foot,Open Play,0,0,1,Normal
-9.897979591815693,0.05858890897392536,False,Left Foot,Open Play,1,0,1,Half Volley
-18.522418848519756,0.0646216004612379,False,Left Foot,Open Play,1,0,0,Normal
-31.023217112349908,0.06910014868083157,False,Right Foot,Free Kick,0,0,0,Normal
-24.14787775354182,0.06842070971735778,False,Right Foot,Open Play,0,0,0,Half Volley
-20.622802913280243,0.06602511527313917,False,Left Foot,Open Play,1,0,1,Half Volley
-17.360011520733508,0.056285049431227314,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754205,Alex Oxlade-Chamberlain,Arsenal,27.44175650354765,0.05504018272276071,False,Right Foot,Open Play,0,0,2,Normal
+3754205,Theo Walcott,Arsenal,11.560276813294742,0.05598361061532008,False,Right Foot,Open Play,1,0,4,Normal
+3754205,Moussa Sissoko,Newcastle United,23.220680437919988,0.05392552912855543,False,Right Foot,Open Play,0,0,2,Normal
+3754205,Alexis Alejandro Sánchez Sánchez,Arsenal,58.96185207403173,0.10012609308676435,False,Right Foot,Open Play,0,0,0,Normal
+3754205,Alexis Alejandro Sánchez Sánchez,Arsenal,30.103986446980738,0.06928847306681656,False,Right Foot,Free Kick,0,0,0,Normal
+3754205,Alexis Alejandro Sánchez Sánchez,Arsenal,29.26431273753067,0.0637842623106167,False,Right Foot,Open Play,0,0,2,Normal
+3754205,Theo Walcott,Arsenal,7.2138755187485755,0.05830040723725184,False,Right Foot,Open Play,1,0,1,Half Volley
+3754205,Aaron Ramsey,Arsenal,17.029973576021785,0.05878108250423984,False,Right Foot,Open Play,0,1,4,Normal
+3754205,Francis Joseph Coquelin,Arsenal,24.629250902128547,0.06465844621528194,False,Right Foot,Open Play,1,0,1,Half Volley
+3754205,Theo Walcott,Arsenal,8.273451516749224,0.05524459659499718,False,Right Foot,Open Play,1,1,2,Normal
+3754205,Alexis Alejandro Sánchez Sánchez,Arsenal,20.424739900424676,0.0565430723748863,False,Right Foot,Open Play,0,0,2,Normal
+3754205,Santiago Cazorla González,Arsenal,18.027756377319946,0.06407023454813196,False,Right Foot,Open Play,0,0,3,Normal
+3754205,Aaron Ramsey,Arsenal,21.31783291050008,0.061601126039931654,False,Right Foot,Open Play,0,0,1,Normal
+3754205,Alex Oxlade-Chamberlain,Arsenal,19.22004162326398,0.05351099414361423,False,Right Foot,Open Play,0,0,1,Normal
+3754205,Alexis Alejandro Sánchez Sánchez,Arsenal,10.840664186294127,0.060271611406578995,False,Left Foot,Open Play,0,0,1,Normal
+3754205,Santiago Cazorla González,Arsenal,21.07937380474097,0.054426830716367336,False,Left Foot,Open Play,1,0,2,Normal
+3754205,Olivier Giroud,Arsenal,25.58378392654222,0.06771782153112722,False,Left Foot,Open Play,0,0,1,Normal
+3754205,Alexis Alejandro Sánchez Sánchez,Arsenal,9.897979591815693,0.05858890897392536,False,Left Foot,Open Play,1,0,1,Half Volley
+3754205,Olivier Giroud,Arsenal,18.522418848519756,0.0646216004612379,False,Left Foot,Open Play,1,0,0,Normal
+3754205,Santiago Cazorla González,Arsenal,31.023217112349908,0.06910014868083157,False,Right Foot,Free Kick,0,0,0,Normal
+3754205,Alexis Alejandro Sánchez Sánchez,Arsenal,24.14787775354182,0.06842070971735778,False,Right Foot,Open Play,0,0,0,Half Volley
+3754205,Ignacio Monreal Eraso,Arsenal,20.622802913280243,0.06602511527313917,False,Left Foot,Open Play,1,0,1,Half Volley
+3754205,Olivier Giroud,Arsenal,17.360011520733508,0.056285049431227314,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.18879881597595,0.05215509057994927,True,Right Foot,Open Play,1,0,1,Half Volley
-27.749234223668232,0.070989243974247,False,Right Foot,Open Play,0,0,2,Normal
-29.88193434167206,0.07228036424019482,False,Right Foot,Open Play,0,0,0,Normal
-16.20863967148384,0.06279789299297331,False,Right Foot,Open Play,1,0,1,Normal
-13.718600511714014,0.06171212420035268,False,Right Foot,Open Play,1,0,0,Half Volley
-39.54971554891387,0.060618763965540896,False,Right Foot,Open Play,1,1,1,Normal
-6.40078120232211,0.057350492152806555,False,Head,Open Play,0,1,4,Normal
-6.664833081180658,0.05613490945975095,True,Head,Open Play,0,1,6,Normal
-31.100643080167973,0.07054947710951585,False,Right Foot,Free Kick,0,0,0,Normal
-13.515176654413361,0.05366398029463281,False,Right Foot,Open Play,1,1,2,Normal
-27.778048887565877,0.06951838683230722,False,Left Foot,Open Play,0,0,1,Normal
-31.93524698511036,0.0697522628923691,False,Right Foot,Open Play,1,1,1,Half Volley
-27.452686571627197,0.07031051884313268,False,Right Foot,Open Play,0,1,3,Normal
-15.388307249337078,0.05293609607132853,False,Right Foot,Open Play,0,0,1,Volley
-11.37409337046254,0.06057796326610755,True,Left Foot,Open Play,1,0,1,Normal
-16.209873534361705,0.062312247752515426,False,Head,Open Play,0,1,1,Normal
-29.372095601097314,0.06802795465415586,False,Right Foot,Free Kick,0,0,0,Normal
-38.2817188746796,0.07393340221481454,False,Left Foot,Open Play,0,0,0,Normal
-20.427677303110112,0.06582845460580983,False,Left Foot,Open Play,0,0,2,Normal
-36.33730865102697,0.076865679806765,False,Left Foot,Open Play,0,0,1,Normal
-27.067508197098604,0.07012729898776202,False,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829517,Grégory Pujol,Gazélec Ajaccio,19.18879881597595,0.05215509057994927,True,Right Foot,Open Play,1,0,1,Half Volley
+3829517,Jean Michaël Seri,OGC Nice,27.749234223668232,0.070989243974247,False,Right Foot,Open Play,0,0,2,Normal
+3829517,Pablo Jean Antoine Martínez,Gazélec Ajaccio,29.88193434167206,0.07228036424019482,False,Right Foot,Open Play,0,0,0,Normal
+3829517,Wallyson Teixeira Mallmann,OGC Nice,16.20863967148384,0.06279789299297331,False,Right Foot,Open Play,1,0,1,Normal
+3829517,Jérémy Pied,OGC Nice,13.718600511714014,0.06171212420035268,False,Right Foot,Open Play,1,0,0,Half Volley
+3829517,Alexandre Coeff,Gazélec Ajaccio,39.54971554891387,0.060618763965540896,False,Right Foot,Open Play,1,1,1,Normal
+3829517,John Tshibumbu,Gazélec Ajaccio,6.40078120232211,0.057350492152806555,False,Head,Open Play,0,1,4,Normal
+3829517,Roderic Filippi,Gazélec Ajaccio,6.664833081180658,0.05613490945975095,True,Head,Open Play,0,1,6,Normal
+3829517,Jean Michaël Seri,OGC Nice,31.100643080167973,0.07054947710951585,False,Right Foot,Free Kick,0,0,0,Normal
+3829517,Grégory Pujol,Gazélec Ajaccio,13.515176654413361,0.05366398029463281,False,Right Foot,Open Play,1,1,2,Normal
+3829517,Damjan Đoković,Gazélec Ajaccio,27.778048887565877,0.06951838683230722,False,Left Foot,Open Play,0,0,1,Normal
+3829517,David Ducourtioux,Gazélec Ajaccio,31.93524698511036,0.0697522628923691,False,Right Foot,Open Play,1,1,1,Half Volley
+3829517,Ricardo Domingos Barbosa Pereira,OGC Nice,27.452686571627197,0.07031051884313268,False,Right Foot,Open Play,0,1,3,Normal
+3829517,Amos Youga,Gazélec Ajaccio,15.388307249337078,0.05293609607132853,False,Right Foot,Open Play,0,0,1,Volley
+3829517,Damjan Đoković,Gazélec Ajaccio,11.37409337046254,0.06057796326610755,True,Left Foot,Open Play,1,0,1,Normal
+3829517,Grégory Pujol,Gazélec Ajaccio,16.209873534361705,0.062312247752515426,False,Head,Open Play,0,1,1,Normal
+3829517,Mohamed Larbi,Gazélec Ajaccio,29.372095601097314,0.06802795465415586,False,Right Foot,Free Kick,0,0,0,Normal
+3829517,Hatem Ben Arfa,OGC Nice,38.2817188746796,0.07393340221481454,False,Left Foot,Open Play,0,0,0,Normal
+3829517,Hatem Ben Arfa,OGC Nice,20.427677303110112,0.06582845460580983,False,Left Foot,Open Play,0,0,2,Normal
+3829517,Wallyson Teixeira Mallmann,OGC Nice,36.33730865102697,0.076865679806765,False,Left Foot,Open Play,0,0,1,Normal
+3829517,Hatem Ben Arfa,OGC Nice,27.067508197098604,0.07012729898776202,False,Left Foot,Open Play,0,1,3,Normal

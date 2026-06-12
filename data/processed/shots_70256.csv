@@ -1,14 +1,14 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.234786471369247,0.055300448274961805,False,Right Foot,Open Play,1,0,1,Volley
-6.794115100585213,0.05532228582556609,False,Right Foot,Open Play,0,0,3,Half Volley
-34.875922926856,0.07183518863371897,False,Left Foot,Free Kick,0,0,0,Normal
-5.7939623747483955,0.056270253455658115,False,Head,Open Play,0,1,5,Normal
-7.6557168181692825,0.056543226901299086,True,Left Foot,Open Play,1,0,5,Normal
-24.536707195546835,0.06671506223684555,False,Left Foot,Free Kick,0,0,0,Normal
-18.667619023324857,0.06446102232995209,True,Right Foot,Open Play,0,0,2,Normal
-14.893287078412211,0.057683720452305014,False,Right Foot,Open Play,1,1,1,Normal
-17.273389939441536,0.05412342648361172,False,Right Foot,Open Play,1,0,2,Normal
-11.116204388189338,0.059426707717509915,True,Left Foot,Open Play,1,0,1,Half Volley
-23.204525420701884,0.057503512779155164,False,Right Foot,Open Play,1,0,0,Normal
-11.759251676871276,0.0607207695709037,True,Head,Open Play,0,0,1,Diving Header
-26.922295593058177,0.058984542322845473,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70256,Borja Oubiña Meléndez,Celta Vigo,12.234786471369247,0.055300448274961805,False,Right Foot,Open Play,1,0,1,Volley
+70256,Borja Oubiña Meléndez,Celta Vigo,6.794115100585213,0.05532228582556609,False,Right Foot,Open Play,0,0,3,Half Volley
+70256,Lionel Andrés Messi Cuccittini,Barcelona,34.875922926856,0.07183518863371897,False,Left Foot,Free Kick,0,0,0,Normal
+70256,Borja Oubiña Meléndez,Celta Vigo,5.7939623747483955,0.056270253455658115,False,Head,Open Play,0,1,5,Normal
+70256,Ignacio Insa Bohigues,Celta Vigo,7.6557168181692825,0.056543226901299086,True,Left Foot,Open Play,1,0,5,Normal
+70256,Lionel Andrés Messi Cuccittini,Barcelona,24.536707195546835,0.06671506223684555,False,Left Foot,Free Kick,0,0,0,Normal
+70256,Cristian Tello Herrera,Barcelona,18.667619023324857,0.06446102232995209,True,Right Foot,Open Play,0,0,2,Normal
+70256,Chu-Young Park,Celta Vigo,14.893287078412211,0.057683720452305014,False,Right Foot,Open Play,1,1,1,Normal
+70256,Lionel Andrés Messi Cuccittini,Barcelona,17.273389939441536,0.05412342648361172,False,Right Foot,Open Play,1,0,2,Normal
+70256,Lionel Andrés Messi Cuccittini,Barcelona,11.116204388189338,0.059426707717509915,True,Left Foot,Open Play,1,0,1,Half Volley
+70256,Francesc Fàbregas i Soler,Barcelona,23.204525420701884,0.057503512779155164,False,Right Foot,Open Play,1,0,0,Normal
+70256,Borja Oubiña Meléndez,Celta Vigo,11.759251676871276,0.0607207695709037,True,Head,Open Play,0,0,1,Diving Header
+70256,Augusto Matías Fernández,Celta Vigo,26.922295593058177,0.058984542322845473,False,Left Foot,Open Play,0,0,1,Normal

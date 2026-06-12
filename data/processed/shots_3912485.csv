@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.101801655587261,0.05674247566131652,False,Head,Open Play,0,1,2,Normal
-11.610770861575045,0.060493933694510074,False,Right Foot,Open Play,0,0,1,Half Volley
-7.414849964766647,0.05725206624407033,True,Left Foot,Open Play,1,0,2,Half Volley
-34.09178786746157,0.05689959007918557,False,Left Foot,Open Play,0,0,0,Normal
-35.409038394172754,0.07018918359016839,False,Right Foot,Free Kick,0,0,0,Normal
-18.46212338816963,0.06425212243303074,True,Left Foot,Open Play,0,0,2,Normal
-10.375451797391767,0.05949106647478152,False,Head,Open Play,0,1,4,Normal
-14.412841496387863,0.059877504595077236,False,Left Foot,Open Play,1,0,2,Volley
-28.428506819739933,0.06847953221360406,False,Right Foot,Free Kick,0,0,0,Normal
-37.378335971522326,0.07786444923836078,False,Right Foot,Free Kick,0,0,0,Normal
-16.344112089679264,0.060955123359378825,False,Head,Open Play,0,1,1,Normal
-22.510886255321,0.0671550147028492,False,Right Foot,Open Play,0,1,2,Normal
-35.5287207762959,0.07701315379303868,False,Left Foot,Open Play,1,0,0,Normal
-12.478781991845192,0.057743491188158656,False,Right Foot,Open Play,1,1,4,Half Volley
-26.9473560855235,0.06100618237798842,False,Right Foot,Open Play,0,0,1,Half Volley
-23.6763595174596,0.0656622974852778,False,Left Foot,Open Play,1,0,1,Half Volley
-32.24686031228467,0.07254313735372882,False,Right Foot,Open Play,0,0,2,Normal
-24.75237362355376,0.06820602382850079,False,Right Foot,Open Play,0,1,1,Normal
-28.03212442894759,0.0711965354245926,False,Left Foot,Open Play,0,1,1,Normal
-33.0732520324204,0.0707641575310475,False,Right Foot,Open Play,0,0,1,Normal
-30.35786553761644,0.07221589960647952,False,Right Foot,Free Kick,0,0,0,Normal
-34.4792691337853,0.07312545570926739,False,Right Foot,Open Play,0,0,0,Normal
-9.7082439194738,0.059680424341841336,False,Head,Open Play,0,1,4,Normal
-16.32482771731451,0.06286634850956484,False,Right Foot,Open Play,0,1,2,Normal
-26.977953962448666,0.06386639029904191,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912485,Aurora De Rita,Sampdoria W,11.101801655587261,0.05674247566131652,False,Head,Open Play,0,1,2,Normal
+3912485,Michela Giordano,Sampdoria W,11.610770861575045,0.060493933694510074,False,Right Foot,Open Play,0,0,1,Half Volley
+3912485,Aurora De Rita,Sampdoria W,7.414849964766647,0.05725206624407033,True,Left Foot,Open Play,1,0,2,Half Volley
+3912485,Alice Benoit,Sampdoria W,34.09178786746157,0.05689959007918557,False,Left Foot,Open Play,0,0,0,Normal
+3912485,Veronica Battelani,Sampdoria W,35.409038394172754,0.07018918359016839,False,Right Foot,Free Kick,0,0,0,Normal
+3912485,Michela Giordano,Sampdoria W,18.46212338816963,0.06425212243303074,True,Left Foot,Open Play,0,0,2,Normal
+3912485,Elena Pisani,Sampdoria W,10.375451797391767,0.05949106647478152,False,Head,Open Play,0,1,4,Normal
+3912485,Marija Banušić,Napoli W,14.412841496387863,0.059877504595077236,False,Left Foot,Open Play,1,0,2,Volley
+3912485,Marija Banušić,Napoli W,28.428506819739933,0.06847953221360406,False,Right Foot,Free Kick,0,0,0,Normal
+3912485,Veronica Battelani,Sampdoria W,37.378335971522326,0.07786444923836078,False,Right Foot,Free Kick,0,0,0,Normal
+3912485,Aurora De Rita,Sampdoria W,16.344112089679264,0.060955123359378825,False,Head,Open Play,0,1,1,Normal
+3912485,Rachel Cuschieri,Sampdoria W,22.510886255321,0.0671550147028492,False,Right Foot,Open Play,0,1,2,Normal
+3912485,Eva Schatzer,Sampdoria W,35.5287207762959,0.07701315379303868,False,Left Foot,Open Play,1,0,0,Normal
+3912485,Tatiely Cristina Sena das Neves,Sampdoria W,12.478781991845192,0.057743491188158656,False,Right Foot,Open Play,1,1,4,Half Volley
+3912485,Alice Benoit,Sampdoria W,26.9473560855235,0.06100618237798842,False,Right Foot,Open Play,0,0,1,Half Volley
+3912485,Marija Banušić,Napoli W,23.6763595174596,0.0656622974852778,False,Left Foot,Open Play,1,0,1,Half Volley
+3912485,Valentina Gallazzi,Napoli W,32.24686031228467,0.07254313735372882,False,Right Foot,Open Play,0,0,2,Normal
+3912485,Alice Corelli,Napoli W,24.75237362355376,0.06820602382850079,False,Right Foot,Open Play,0,1,1,Normal
+3912485,Miharu Kobayashi,Napoli W,28.03212442894759,0.0711965354245926,False,Left Foot,Open Play,0,1,1,Normal
+3912485,Alice Corelli,Napoli W,33.0732520324204,0.0707641575310475,False,Right Foot,Open Play,0,0,1,Normal
+3912485,Nora Heroum,Sampdoria W,30.35786553761644,0.07221589960647952,False,Right Foot,Free Kick,0,0,0,Normal
+3912485,Nina Kajzba,Napoli W,34.4792691337853,0.07312545570926739,False,Right Foot,Open Play,0,0,0,Normal
+3912485,Sarah Huchet,Sampdoria W,9.7082439194738,0.059680424341841336,False,Head,Open Play,0,1,4,Normal
+3912485,Michela Giordano,Sampdoria W,16.32482771731451,0.06286634850956484,False,Right Foot,Open Play,0,1,2,Normal
+3912485,Marija Banušić,Napoli W,26.977953962448666,0.06386639029904191,False,Right Foot,Open Play,1,0,2,Normal

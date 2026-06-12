@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.578587279336503,0.06622202847515797,False,Left Foot,Free Kick,0,0,0,Normal
-21.99113457737004,0.06304964798704167,True,Left Foot,Free Kick,0,0,0,Normal
-24.690889007891148,0.06210629029335331,False,Right Foot,Free Kick,0,0,0,Normal
-26.177280225416848,0.05836422744782533,False,Left Foot,Open Play,1,0,1,Normal
-20.796634343085422,0.05445251476132299,False,Left Foot,Open Play,0,0,2,Normal
-20.23561217260303,0.06523323483789129,False,Left Foot,Open Play,0,0,1,Normal
-5.307541803886244,0.05739514221614995,True,Right Foot,Open Play,0,0,3,Normal
-14.500000000000004,0.061732023895452987,False,Right Foot,Open Play,0,1,1,Half Volley
-22.088005795001056,0.06631070232427475,False,Right Foot,Open Play,0,0,2,Normal
-21.762352813976705,0.06053792503843065,False,Right Foot,Open Play,0,0,1,Half Volley
-22.398660674245686,0.061781471457284964,False,Right Foot,Open Play,1,0,0,Normal
-10.824047302187841,0.056850042434882606,False,Head,Open Play,0,1,4,Normal
-13.250283015845355,0.05762917342583945,True,Right Foot,Open Play,1,1,1,Normal
-7.368174807915457,0.058279569510817725,False,Head,Open Play,0,1,5,Normal
-7.151223671512452,0.05662910070504932,False,Head,Open Play,0,1,5,Normal
-22.458851261807673,0.06252405838695543,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3837727,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,30.578587279336503,0.06622202847515797,False,Left Foot,Free Kick,0,0,0,Normal
+3837727,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,21.99113457737004,0.06304964798704167,True,Left Foot,Free Kick,0,0,0,Normal
+3837727,Neymar da Silva Santos Junior,Paris Saint-Germain,24.690889007891148,0.06210629029335331,False,Right Foot,Free Kick,0,0,0,Normal
+3837727,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,26.177280225416848,0.05836422744782533,False,Left Foot,Open Play,1,0,1,Normal
+3837727,Youcef Atal,OGC Nice,20.796634343085422,0.05445251476132299,False,Left Foot,Open Play,0,0,2,Normal
+3837727,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,20.23561217260303,0.06523323483789129,False,Left Foot,Open Play,0,0,1,Normal
+3837727,Gaëtan Laborde,OGC Nice,5.307541803886244,0.05739514221614995,True,Right Foot,Open Play,0,0,3,Normal
+3837727,Melvin Bard,OGC Nice,14.500000000000004,0.061732023895452987,False,Right Foot,Open Play,0,1,1,Half Volley
+3837727,Vitor Machado Ferreira,Paris Saint-Germain,22.088005795001056,0.06631070232427475,False,Right Foot,Open Play,0,0,2,Normal
+3837727,Vitor Machado Ferreira,Paris Saint-Germain,21.762352813976705,0.06053792503843065,False,Right Foot,Open Play,0,0,1,Half Volley
+3837727,Neymar da Silva Santos Junior,Paris Saint-Germain,22.398660674245686,0.061781471457284964,False,Right Foot,Open Play,1,0,0,Normal
+3837727,Khéphren Thuram-Ulien,OGC Nice,10.824047302187841,0.056850042434882606,False,Head,Open Play,0,1,4,Normal
+3837727,Kylian Mbappé Lottin,Paris Saint-Germain,13.250283015845355,0.05762917342583945,True,Right Foot,Open Play,1,1,1,Normal
+3837727,Marcos Aoás Corrêa,Paris Saint-Germain,7.368174807915457,0.058279569510817725,False,Head,Open Play,0,1,5,Normal
+3837727,Nordi Mukiele Mulere,Paris Saint-Germain,7.151223671512452,0.05662910070504932,False,Head,Open Play,0,1,5,Normal
+3837727,Vitor Machado Ferreira,Paris Saint-Germain,22.458851261807673,0.06252405838695543,False,Right Foot,Open Play,1,0,1,Volley

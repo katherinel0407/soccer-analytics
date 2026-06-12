@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.07381321679203,0.07769385659344294,False,Right Foot,Open Play,0,0,0,Half Volley
-12.813274366843164,0.06049900084500523,False,Head,Open Play,0,0,3,Normal
-23.49489306211033,0.0555517405257651,False,Left Foot,Open Play,1,0,1,Normal
-20.17176244159147,0.06444857874664144,False,Right Foot,Open Play,0,0,2,Normal
-14.284257068535279,0.05506985995555283,False,Head,Open Play,0,1,1,Normal
-8.414867794564577,0.05827889282526585,True,Right Foot,Open Play,1,0,2,Volley
-28.24623868765539,0.05057032278027526,True,Right Foot,Open Play,0,0,1,Normal
-16.50757401921918,0.05911932297617109,False,Right Foot,Open Play,1,0,1,Half Volley
-20.13181561608391,0.0640782453590524,False,Right Foot,Free Kick,0,0,0,Normal
-17.459095051004223,0.05716503297772851,False,Right Foot,Open Play,0,0,3,Half Volley
-23.547823678633232,0.05709552853986309,False,Right Foot,Open Play,1,0,0,Half Volley
-11.941942890501533,0.05990543244162543,False,Left Foot,Open Play,1,0,2,Volley
-17.78819833485111,0.05975140413744031,False,Right Foot,Open Play,0,0,3,Normal
-17.307223925286223,0.061672559561812695,False,Right Foot,Open Play,1,0,2,Half Volley
-28.328254446753334,0.06300176669571261,False,Right Foot,Open Play,0,0,2,Normal
-10.332473082471592,0.05984429626155941,False,Right Foot,Open Play,1,0,1,Overhead Kick
-10.24158190906073,0.05688078257528322,True,Left Foot,Open Play,1,0,2,Normal
-9.5524865872714,0.05821836186998188,False,Head,Open Play,0,0,6,Normal
-26.273180241455357,0.06956273846119593,False,Right Foot,Open Play,0,1,2,Normal
-21.920994502987316,0.0659663434763805,False,Left Foot,Open Play,1,0,1,Normal
-19.88491890855982,0.06530175176365986,False,Left Foot,Open Play,0,0,1,Normal
-27.09778588741154,0.0693461691106783,False,Right Foot,Open Play,0,0,3,Normal
-16.757386431063768,0.052957383641500363,False,Right Foot,Open Play,0,0,0,Normal
-30.242354405700627,0.068900933169042,False,Right Foot,Free Kick,0,0,0,Normal
-35.35774314064742,0.07632237458378555,False,Left Foot,Open Play,0,1,1,Half Volley
-35.072068658691926,0.07582061123318162,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69210,Carlos Lázaro Vallejo,Real Valladolid,36.07381321679203,0.07769385659344294,False,Right Foot,Open Play,0,0,0,Half Volley
+69210,Seydou Kéita,Barcelona,12.813274366843164,0.06049900084500523,False,Head,Open Play,0,0,3,Normal
+69210,Lionel Andrés Messi Cuccittini,Barcelona,23.49489306211033,0.0555517405257651,False,Left Foot,Open Play,1,0,1,Normal
+69210,Diego da Silva Costa,Real Valladolid,20.17176244159147,0.06444857874664144,False,Right Foot,Open Play,0,0,2,Normal
+69210,Luis Prieto Zalbidegoitia,Real Valladolid,14.284257068535279,0.05506985995555283,False,Head,Open Play,0,1,1,Normal
+69210,Xavier Hernández Creus,Barcelona,8.414867794564577,0.05827889282526585,True,Right Foot,Open Play,1,0,2,Volley
+69210,Daniel Alves da Silva,Barcelona,28.24623868765539,0.05057032278027526,True,Right Foot,Open Play,0,0,1,Normal
+69210,Luis Prieto Zalbidegoitia,Real Valladolid,16.50757401921918,0.05911932297617109,False,Right Foot,Open Play,1,0,1,Half Volley
+69210,Borja Fernández Fernández,Real Valladolid,20.13181561608391,0.0640782453590524,False,Right Foot,Free Kick,0,0,0,Normal
+69210,Borja Fernández Fernández,Real Valladolid,17.459095051004223,0.05716503297772851,False,Right Foot,Open Play,0,0,3,Half Volley
+69210,Luis Prieto Zalbidegoitia,Real Valladolid,23.547823678633232,0.05709552853986309,False,Right Foot,Open Play,1,0,0,Half Volley
+69210,Carlos Lázaro Vallejo,Real Valladolid,11.941942890501533,0.05990543244162543,False,Left Foot,Open Play,1,0,2,Volley
+69210,Zlatan Ibrahimović,Barcelona,17.78819833485111,0.05975140413744031,False,Right Foot,Open Play,0,0,3,Normal
+69210,Andrés Iniesta Luján,Barcelona,17.307223925286223,0.061672559561812695,False,Right Foot,Open Play,1,0,2,Half Volley
+69210,Andrés Iniesta Luján,Barcelona,28.328254446753334,0.06300176669571261,False,Right Foot,Open Play,0,0,2,Normal
+69210,Thierry Henry,Barcelona,10.332473082471592,0.05984429626155941,False,Right Foot,Open Play,1,0,1,Overhead Kick
+69210,Lionel Andrés Messi Cuccittini,Barcelona,10.24158190906073,0.05688078257528322,True,Left Foot,Open Play,1,0,2,Normal
+69210,César Arzo Amposta,Real Valladolid,9.5524865872714,0.05821836186998188,False,Head,Open Play,0,0,6,Normal
+69210,Thierry Henry,Barcelona,26.273180241455357,0.06956273846119593,False,Right Foot,Open Play,0,1,2,Normal
+69210,Thierry Henry,Barcelona,21.920994502987316,0.0659663434763805,False,Left Foot,Open Play,1,0,1,Normal
+69210,Lionel Andrés Messi Cuccittini,Barcelona,19.88491890855982,0.06530175176365986,False,Left Foot,Open Play,0,0,1,Normal
+69210,Diego da Silva Costa,Real Valladolid,27.09778588741154,0.0693461691106783,False,Right Foot,Open Play,0,0,3,Normal
+69210,Zlatan Ibrahimović,Barcelona,16.757386431063768,0.052957383641500363,False,Right Foot,Open Play,0,0,0,Normal
+69210,Zlatan Ibrahimović,Barcelona,30.242354405700627,0.068900933169042,False,Right Foot,Free Kick,0,0,0,Normal
+69210,Vítor Hugo Gomes Passos,Real Valladolid,35.35774314064742,0.07632237458378555,False,Left Foot,Open Play,0,1,1,Half Volley
+69210,Vítor Hugo Gomes Passos,Real Valladolid,35.072068658691926,0.07582061123318162,False,Right Foot,Open Play,0,1,1,Normal

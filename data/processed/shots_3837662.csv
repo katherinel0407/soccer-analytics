@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.926436537288254,0.06389530909173222,True,Right Foot,Open Play,1,0,1,Lob
-15.641611170208778,0.06189310699016724,False,Left Foot,Open Play,0,0,1,Normal
-17.630938715791622,0.06369683579897018,False,Left Foot,Open Play,0,0,1,Normal
-14.644111444536337,0.06242118486690658,False,Left Foot,Open Play,0,1,1,Normal
-19.901004999748135,0.06296010719497927,False,Right Foot,Open Play,0,0,2,Normal
-13.287964479181898,0.061018488123331015,False,Left Foot,Open Play,0,0,0,Normal
-11.884864324004713,0.06070296882235285,True,Right Foot,Open Play,1,0,1,Normal
-9.002777349240619,0.055526657347568745,False,Head,Open Play,0,0,3,Normal
-13.705838172107537,0.056349855591073736,False,Left Foot,Open Play,1,1,1,Half Volley
-16.522106403240475,0.062489421136566456,False,Left Foot,Open Play,0,0,4,Normal
-16.476953601925324,0.06324657617360462,False,Left Foot,Open Play,0,0,2,Normal
-23.436083290515935,0.06405605283542537,False,Left Foot,Open Play,1,0,1,Half Volley
-19.20416621465249,0.06403906142168292,False,Left Foot,Open Play,0,0,2,Normal
-12.731457104353767,0.05405335160522909,True,Right Foot,Open Play,0,0,0,Normal
-24.830827614076828,0.06863753781701357,False,Right Foot,Open Play,0,0,2,Normal
-14.190489773083948,0.05716182944833026,True,Right Foot,Open Play,1,0,2,Half Volley
-6.484597134749386,0.05650092473046136,False,Head,Open Play,0,0,4,Normal
-24.385241438214223,0.06647739876611923,False,Left Foot,Open Play,0,0,1,Normal
-14.855638660118252,0.06242872212216269,True,Right Foot,Open Play,1,0,0,Normal
-10.151354589413172,0.0596944608884155,False,Right Foot,Open Play,1,0,3,Normal
-3.2015621187164243,0.05638881651974258,True,Left Foot,Open Play,1,0,4,Volley
-13.0862523283024,0.06139628743763092,False,Left Foot,Open Play,1,0,1,Normal
-6.481512169239516,0.055552003777967165,False,Head,Open Play,0,0,5,Normal
-4.313930922024594,0.0551466714173682,False,Right Foot,Open Play,1,0,5,Half Volley
-8.121576201698781,0.05840759930371647,False,Head,Open Play,0,1,4,Normal
-13.499999999999998,0.06174776261864427,True,Left Foot,Open Play,1,1,2,Normal
-19.246298345396184,0.0646599574966619,False,Left Foot,Open Play,0,0,2,Normal
-21.311499243366242,0.06400345884039205,False,Right Foot,Open Play,1,1,1,Normal
-23.055585006674626,0.054735989890988504,False,Left Foot,Open Play,0,0,2,Normal
-18.623103930333414,0.06477707180910204,True,Right Foot,Open Play,0,0,1,Normal
-30.151782700198677,0.06481611475949486,False,Left Foot,Open Play,0,0,1,Normal
-19.039432764659765,0.06428665159994132,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3837662,Kylian Mbappé Lottin,Paris Saint-Germain,18.926436537288254,0.06389530909173222,True,Right Foot,Open Play,1,0,1,Lob
+3837662,Jonathan Bamba,Lille,15.641611170208778,0.06189310699016724,False,Left Foot,Open Play,0,0,1,Normal
+3837662,Jonathan Bamba,Lille,17.630938715791622,0.06369683579897018,False,Left Foot,Open Play,0,0,1,Normal
+3837662,Neymar da Silva Santos Junior,Paris Saint-Germain,14.644111444536337,0.06242118486690658,False,Left Foot,Open Play,0,1,1,Normal
+3837662,Jonathan Bamba,Lille,19.901004999748135,0.06296010719497927,False,Right Foot,Open Play,0,0,2,Normal
+3837662,Kylian Mbappé Lottin,Paris Saint-Germain,13.287964479181898,0.061018488123331015,False,Left Foot,Open Play,0,0,0,Normal
+3837662,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,11.884864324004713,0.06070296882235285,True,Right Foot,Open Play,1,0,1,Normal
+3837662,Marcos Aoás Corrêa,Paris Saint-Germain,9.002777349240619,0.055526657347568745,False,Head,Open Play,0,0,3,Normal
+3837662,Kylian Mbappé Lottin,Paris Saint-Germain,13.705838172107537,0.056349855591073736,False,Left Foot,Open Play,1,1,1,Half Volley
+3837662,Jonathan David,Lille,16.522106403240475,0.062489421136566456,False,Left Foot,Open Play,0,0,4,Normal
+3837662,Jonathan David,Lille,16.476953601925324,0.06324657617360462,False,Left Foot,Open Play,0,0,2,Normal
+3837662,Gabriel Gudmundsson,Lille,23.436083290515935,0.06405605283542537,False,Left Foot,Open Play,1,0,1,Half Volley
+3837662,Ismaily Gonçalves dos Santos,Lille,19.20416621465249,0.06403906142168292,False,Left Foot,Open Play,0,0,2,Normal
+3837662,Achraf Hakimi Mouh,Paris Saint-Germain,12.731457104353767,0.05405335160522909,True,Right Foot,Open Play,0,0,0,Normal
+3837662,Angel Gomes,Lille,24.830827614076828,0.06863753781701357,False,Right Foot,Open Play,0,0,2,Normal
+3837662,Neymar da Silva Santos Junior,Paris Saint-Germain,14.190489773083948,0.05716182944833026,True,Right Foot,Open Play,1,0,2,Half Volley
+3837662,Bafodé Diakité,Lille,6.484597134749386,0.05650092473046136,False,Head,Open Play,0,0,4,Normal
+3837662,Yusuf Yazıcı,Lille,24.385241438214223,0.06647739876611923,False,Left Foot,Open Play,0,0,1,Normal
+3837662,Neymar da Silva Santos Junior,Paris Saint-Germain,14.855638660118252,0.06242872212216269,True,Right Foot,Open Play,1,0,0,Normal
+3837662,Jonathan Bamba,Lille,10.151354589413172,0.0596944608884155,False,Right Foot,Open Play,1,0,3,Normal
+3837662,Jonathan Bamba,Lille,3.2015621187164243,0.05638881651974258,True,Left Foot,Open Play,1,0,4,Volley
+3837662,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,13.0862523283024,0.06139628743763092,False,Left Foot,Open Play,1,0,1,Normal
+3837662,Marcos Aoás Corrêa,Paris Saint-Germain,6.481512169239516,0.055552003777967165,False,Head,Open Play,0,0,5,Normal
+3837662,Vitor Machado Ferreira,Paris Saint-Germain,4.313930922024594,0.0551466714173682,False,Right Foot,Open Play,1,0,5,Half Volley
+3837662,Kylian Mbappé Lottin,Paris Saint-Germain,8.121576201698781,0.05840759930371647,False,Head,Open Play,0,1,4,Normal
+3837662,Kylian Mbappé Lottin,Paris Saint-Germain,13.499999999999998,0.06174776261864427,True,Left Foot,Open Play,1,1,2,Normal
+3837662,Jonathan Bamba,Lille,19.246298345396184,0.0646599574966619,False,Left Foot,Open Play,0,0,2,Normal
+3837662,Vitor Machado Ferreira,Paris Saint-Germain,21.311499243366242,0.06400345884039205,False,Right Foot,Open Play,1,1,1,Normal
+3837662,Edon Zhegrova,Lille,23.055585006674626,0.054735989890988504,False,Left Foot,Open Play,0,0,2,Normal
+3837662,Kylian Mbappé Lottin,Paris Saint-Germain,18.623103930333414,0.06477707180910204,True,Right Foot,Open Play,0,0,1,Normal
+3837662,Jonathan David,Lille,30.151782700198677,0.06481611475949486,False,Left Foot,Open Play,0,0,1,Normal
+3837662,Alan Virginius,Lille,19.039432764659765,0.06428665159994132,False,Right Foot,Open Play,0,0,2,Normal

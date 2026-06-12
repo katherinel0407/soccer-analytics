@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.601204775557708,0.056361103771142174,True,Right Foot,Open Play,1,0,1,Lob
-20.215835377248204,0.058464390404471205,False,Right Foot,Open Play,1,1,1,Normal
-26.87452325158532,0.06733252669371327,False,Right Foot,Open Play,1,0,0,Normal
-17.141761869772896,0.06262029377906816,False,Right Foot,Open Play,0,0,2,Normal
-19.915069670980316,0.06540177225843426,False,Right Foot,Open Play,0,0,2,Normal
-23.138928237928393,0.06169235305146088,False,Left Foot,Open Play,0,0,2,Volley
-33.057828119826624,0.07345751962161214,False,Right Foot,Open Play,0,0,2,Normal
-30.244668951734283,0.07150366710510851,False,Right Foot,Open Play,0,0,1,Normal
-11.435471131527557,0.05902078561206653,True,Head,Open Play,0,0,1,Normal
-23.92070233082633,0.05391648163425385,False,Right Foot,Open Play,1,1,2,Volley
-16.9838158256618,0.06290467164989455,False,Right Foot,Open Play,0,0,2,Normal
-23.71181140275875,0.06798740541637495,False,Right Foot,Open Play,0,0,3,Normal
-11.92015100575492,0.06011488743798921,False,Left Foot,Open Play,1,0,1,Volley
-8.905054744357278,0.05759521908446237,False,Head,Open Play,0,1,2,Normal
-5.295280917949493,0.057155380454150695,False,Head,Open Play,0,0,5,Normal
-25.794766911139163,0.06954816962583961,False,Right Foot,Open Play,1,0,1,Half Volley
-14.294054708164504,0.061857577628868406,False,Head,Open Play,0,0,1,Normal
-22.779376637651872,0.06748926797943429,False,Right Foot,Free Kick,0,0,0,Normal
-15.542522317822158,0.06293034220492581,False,Left Foot,Open Play,1,0,1,Normal
-24.140629652103115,0.06650786868590458,False,Right Foot,Free Kick,0,0,0,Normal
-27.600724628168738,0.07062644906964433,False,Left Foot,Open Play,0,0,2,Normal
-21.284971223847123,0.05480454418563325,False,Right Foot,Open Play,1,0,1,Normal
-22.603539545832202,0.057604127558545486,False,Right Foot,Open Play,0,0,3,Normal
-20.72800038595137,0.05442300175010866,False,Left Foot,Open Play,0,1,2,Normal
-17.564168070250297,0.06257319156897856,False,Left Foot,Open Play,0,0,2,Normal
-29.4334843333235,0.06907079135026034,False,Left Foot,Open Play,0,0,1,Normal
-11.047624178980751,0.05849681683139933,False,Head,Open Play,0,0,1,Normal
-18.26170857285813,0.061648931801945285,True,Left Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825860,Fernando José Torres Sanz,Atlético Madrid,16.601204775557708,0.056361103771142174,True,Right Foot,Open Play,1,0,1,Lob
+3825860,José Antonio García Rabasco,Levante UD,20.215835377248204,0.058464390404471205,False,Right Foot,Open Play,1,1,1,Normal
+3825860,José Antonio García Rabasco,Levante UD,26.87452325158532,0.06733252669371327,False,Right Foot,Open Play,1,0,0,Normal
+3825860,Fernando José Torres Sanz,Atlético Madrid,17.141761869772896,0.06262029377906816,False,Right Foot,Open Play,0,0,2,Normal
+3825860,Fernando José Torres Sanz,Atlético Madrid,19.915069670980316,0.06540177225843426,False,Right Foot,Open Play,0,0,2,Normal
+3825860,Mauricio Andrés Cuero Castillo,Levante UD,23.138928237928393,0.06169235305146088,False,Left Foot,Open Play,0,0,2,Volley
+3825860,Jefferson Andrés Lerma Solís,Levante UD,33.057828119826624,0.07345751962161214,False,Right Foot,Open Play,0,0,2,Normal
+3825860,Gabriel Fernández Arenas,Atlético Madrid,30.244668951734283,0.07150366710510851,False,Right Foot,Open Play,0,0,1,Normal
+3825860,Víctor Casadesús Castaño,Levante UD,11.435471131527557,0.05902078561206653,True,Head,Open Play,0,0,1,Normal
+3825860,Jorge Resurrección Merodio,Atlético Madrid,23.92070233082633,0.05391648163425385,False,Right Foot,Open Play,1,1,2,Volley
+3825860,Ángel Martín Correa,Atlético Madrid,16.9838158256618,0.06290467164989455,False,Right Foot,Open Play,0,0,2,Normal
+3825860,Jorge Resurrección Merodio,Atlético Madrid,23.71181140275875,0.06798740541637495,False,Right Foot,Open Play,0,0,3,Normal
+3825860,Fernando José Torres Sanz,Atlético Madrid,11.92015100575492,0.06011488743798921,False,Left Foot,Open Play,1,0,1,Volley
+3825860,Saúl Ñíguez Esclapez,Atlético Madrid,8.905054744357278,0.05759521908446237,False,Head,Open Play,0,1,2,Normal
+3825860,Stefan Savić,Atlético Madrid,5.295280917949493,0.057155380454150695,False,Head,Open Play,0,0,5,Normal
+3825860,Yannick Ferreira Carrasco,Atlético Madrid,25.794766911139163,0.06954816962583961,False,Right Foot,Open Play,1,0,1,Half Volley
+3825860,José Luis Morales Nogales,Levante UD,14.294054708164504,0.061857577628868406,False,Head,Open Play,0,0,1,Normal
+3825860,José Luis Morales Nogales,Levante UD,22.779376637651872,0.06748926797943429,False,Right Foot,Free Kick,0,0,0,Normal
+3825860,Antoine Griezmann,Atlético Madrid,15.542522317822158,0.06293034220492581,False,Left Foot,Open Play,1,0,1,Normal
+3825860,Yannick Ferreira Carrasco,Atlético Madrid,24.140629652103115,0.06650786868590458,False,Right Foot,Free Kick,0,0,0,Normal
+3825860,Antoine Griezmann,Atlético Madrid,27.600724628168738,0.07062644906964433,False,Left Foot,Open Play,0,0,2,Normal
+3825860,Fernando José Torres Sanz,Atlético Madrid,21.284971223847123,0.05480454418563325,False,Right Foot,Open Play,1,0,1,Normal
+3825860,Yannick Ferreira Carrasco,Atlético Madrid,22.603539545832202,0.057604127558545486,False,Right Foot,Open Play,0,0,3,Normal
+3825860,Giuseppe Rossi,Levante UD,20.72800038595137,0.05442300175010866,False,Left Foot,Open Play,0,1,2,Normal
+3825860,Giuseppe Rossi,Levante UD,17.564168070250297,0.06257319156897856,False,Left Foot,Open Play,0,0,2,Normal
+3825860,Rubén García Santos,Levante UD,29.4334843333235,0.06907079135026034,False,Left Foot,Open Play,0,0,1,Normal
+3825860,José María Giménez de Vargas,Atlético Madrid,11.047624178980751,0.05849681683139933,False,Head,Open Play,0,0,1,Normal
+3825860,Giuseppe Rossi,Levante UD,18.26170857285813,0.061648931801945285,True,Left Foot,Open Play,1,0,0,Normal

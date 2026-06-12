@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.88854381999832,0.05228273060563955,False,Right Foot,Open Play,0,0,2,Normal
-34.132096331752024,0.07596756750657546,False,Left Foot,Open Play,0,1,0,Normal
-11.313708498984761,0.05520921458263703,False,Head,Open Play,0,1,3,Normal
-24.515301344262525,0.06250706114656637,False,Right Foot,Open Play,0,1,3,Normal
-13.601470508735444,0.061812598113754634,False,Head,Open Play,0,0,4,Normal
-9.433981132056603,0.054201915489028224,False,Head,Open Play,0,0,1,Lob
-36.345563690772494,0.06770698199327281,False,Right Foot,Open Play,0,1,1,Normal
-15.620499351813308,0.05580956258334116,False,Right Foot,Open Play,0,0,3,Half Volley
-11.704699910719626,0.057738048242450914,True,Head,Open Play,0,0,3,Normal
-32.57299494980466,0.07383344198374257,False,Left Foot,Open Play,0,0,1,Half Volley
-12.165525060596439,0.06029976687390507,False,Head,Open Play,0,1,4,Normal
-6.324555320336759,0.05726675648381213,False,Left Foot,Open Play,0,0,4,Half Volley
-35.73513677041127,0.06297201287198666,False,Right Foot,Open Play,1,1,1,Volley
-23.600847442411894,0.05636136207591756,False,Left Foot,Open Play,0,0,1,Normal
-27.202941017470888,0.05192982209036785,False,Right Foot,Open Play,0,0,0,Half Volley
-29.832867780352597,0.07205846682075857,True,Left Foot,Open Play,0,0,1,Normal
-24.73863375370596,0.06773547177450513,False,Left Foot,Open Play,0,1,1,Volley
-21.587033144922902,0.06570986017853818,False,Left Foot,Open Play,1,0,1,Normal
-22.47220505424423,0.06692786941452042,False,Right Foot,Open Play,0,0,1,Normal
-21.633307652783937,0.05695723248914713,False,Left Foot,Open Play,1,0,2,Half Volley
-30.265491900843113,0.06563699591837954,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+8649,Cristhian Ricardo Stuani Curbelo,Uruguay,17.88854381999832,0.05228273060563955,False,Right Foot,Open Play,0,0,2,Normal
+8649,Lucas Hernández Pi,France,34.132096331752024,0.07596756750657546,False,Left Foot,Open Play,0,1,0,Normal
+8649,Raphaël Varane,France,11.313708498984761,0.05520921458263703,False,Head,Open Play,0,1,3,Normal
+8649,N'Golo Kanté,France,24.515301344262525,0.06250706114656637,False,Right Foot,Open Play,0,1,3,Normal
+8649,José María Giménez de Vargas,Uruguay,13.601470508735444,0.061812598113754634,False,Head,Open Play,0,0,4,Normal
+8649,Kylian Mbappé Lottin,France,9.433981132056603,0.054201915489028224,False,Head,Open Play,0,0,1,Lob
+8649,Paul Pogba,France,36.345563690772494,0.06770698199327281,False,Right Foot,Open Play,0,1,1,Normal
+8649,Matías Vecino Falero,Uruguay,15.620499351813308,0.05580956258334116,False,Right Foot,Open Play,0,0,3,Half Volley
+8649,Raphaël Varane,France,11.704699910719626,0.057738048242450914,True,Head,Open Play,0,0,3,Normal
+8649,Nahitan Michel Nández Acosta,Uruguay,32.57299494980466,0.07383344198374257,False,Left Foot,Open Play,0,0,1,Half Volley
+8649,José Martín Cáceres Silva,Uruguay,12.165525060596439,0.06029976687390507,False,Head,Open Play,0,1,4,Normal
+8649,Diego Roberto Godín Leal,Uruguay,6.324555320336759,0.05726675648381213,False,Left Foot,Open Play,0,0,4,Half Volley
+8649,Benjamin Pavard,France,35.73513677041127,0.06297201287198666,False,Right Foot,Open Play,1,1,1,Volley
+8649,Rodrigo Bentancur Colmán,Uruguay,23.600847442411894,0.05636136207591756,False,Left Foot,Open Play,0,0,1,Normal
+8649,José Martín Cáceres Silva,Uruguay,27.202941017470888,0.05192982209036785,False,Right Foot,Open Play,0,0,0,Half Volley
+8649,Antoine Griezmann,France,29.832867780352597,0.07205846682075857,True,Left Foot,Open Play,0,0,1,Normal
+8649,Cristian Gabriel Rodríguez Barrotti,Uruguay,24.73863375370596,0.06773547177450513,False,Left Foot,Open Play,0,1,1,Volley
+8649,Cristian Gabriel Rodríguez Barrotti,Uruguay,21.587033144922902,0.06570986017853818,False,Left Foot,Open Play,1,0,1,Normal
+8649,Corentin Tolisso,France,22.47220505424423,0.06692786941452042,False,Right Foot,Open Play,0,0,1,Normal
+8649,Olivier Giroud,France,21.633307652783937,0.05695723248914713,False,Left Foot,Open Play,1,0,2,Half Volley
+8649,Antoine Griezmann,France,30.265491900843113,0.06563699591837954,False,Left Foot,Free Kick,0,0,0,Normal

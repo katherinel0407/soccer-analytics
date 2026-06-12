@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.090654541890807,0.054806945874684786,False,Left Foot,Open Play,1,0,3,Half Volley
-12.99576854210631,0.061108715495996474,False,Left Foot,Open Play,1,0,0,Volley
-6.946221994724902,0.05435075233176723,True,Right Foot,Open Play,0,0,0,Normal
-20.48316381812146,0.0658939178416691,False,Right Foot,Open Play,1,0,2,Normal
-16.256075787224916,0.06320984616717194,False,Right Foot,Open Play,0,0,4,Normal
-22.71387241313114,0.0663759952160909,False,Right Foot,Open Play,1,0,0,Half Volley
-25.128668886353687,0.06807842408516968,False,Right Foot,Open Play,0,0,2,Normal
-16.50757401921918,0.05911932297617109,False,Left Foot,Open Play,0,0,4,Normal
-28.65658737533134,0.06622547195622042,False,Left Foot,Open Play,1,0,0,Half Volley
-17.58550539506897,0.05604633509832464,True,Right Foot,Open Play,0,1,1,Normal
-22.302690420664494,0.06266976064696161,False,Left Foot,Open Play,1,0,1,Half Volley
-18.526197667087544,0.05491996287442075,False,Right Foot,Open Play,0,0,2,Normal
-15.380832227158578,0.05563693331325814,False,Left Foot,Open Play,1,0,2,Normal
-28.992757716367716,0.06360440743640709,False,Right Foot,Open Play,0,0,0,Half Volley
-5.9640590204993815,0.055672156770134026,False,Head,Open Play,0,1,4,Normal
-19.820443990990714,0.05582081230450549,False,Right Foot,Open Play,1,0,2,Normal
-30.580549373744084,0.07090231952619956,False,Left Foot,Open Play,0,0,1,Normal
-9.798469268207151,0.05773371702783622,False,Head,Open Play,0,1,1,Normal
-16.629191201017566,0.06339234006404781,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753980,Séamus Coleman,Everton,9.090654541890807,0.054806945874684786,False,Left Foot,Open Play,1,0,3,Half Volley
+3753980,Gabriel Armando de Abreu,Arsenal,12.99576854210631,0.061108715495996474,False,Left Foot,Open Play,1,0,0,Volley
+3753980,Daniel Nii Tackie Mensah Welbeck,Arsenal,6.946221994724902,0.05435075233176723,True,Right Foot,Open Play,0,0,0,Normal
+3753980,Alex Iwobi,Arsenal,20.48316381812146,0.0658939178416691,False,Right Foot,Open Play,1,0,2,Normal
+3753980,Mesut Özil,Arsenal,16.256075787224916,0.06320984616717194,False,Right Foot,Open Play,0,0,4,Normal
+3753980,Ross Barkley,Everton,22.71387241313114,0.0663759952160909,False,Right Foot,Open Play,1,0,0,Half Volley
+3753980,Muhamed Bešić,Everton,25.128668886353687,0.06807842408516968,False,Right Foot,Open Play,0,0,2,Normal
+3753980,Héctor Bellerín Moruno,Arsenal,16.50757401921918,0.05911932297617109,False,Left Foot,Open Play,0,0,4,Normal
+3753980,James McCarthy,Everton,28.65658737533134,0.06622547195622042,False,Left Foot,Open Play,1,0,0,Half Volley
+3753980,Alex Iwobi,Arsenal,17.58550539506897,0.05604633509832464,True,Right Foot,Open Play,0,1,1,Normal
+3753980,Aaron Lennon,Everton,22.302690420664494,0.06266976064696161,False,Left Foot,Open Play,1,0,1,Half Volley
+3753980,Alex Iwobi,Arsenal,18.526197667087544,0.05491996287442075,False,Right Foot,Open Play,0,0,2,Normal
+3753980,Mesut Özil,Arsenal,15.380832227158578,0.05563693331325814,False,Left Foot,Open Play,1,0,2,Normal
+3753980,Francis Joseph Coquelin,Arsenal,28.992757716367716,0.06360440743640709,False,Right Foot,Open Play,0,0,0,Half Volley
+3753980,Phil Jagielka,Everton,5.9640590204993815,0.055672156770134026,False,Head,Open Play,0,1,4,Normal
+3753980,Tom Cleverley,Everton,19.820443990990714,0.05582081230450549,False,Right Foot,Open Play,1,0,2,Normal
+3753980,Olivier Giroud,Arsenal,30.580549373744084,0.07090231952619956,False,Left Foot,Open Play,0,0,1,Normal
+3753980,Romelu Lukaku Menama,Everton,9.798469268207151,0.05773371702783622,False,Head,Open Play,0,1,1,Normal
+3753980,Olivier Giroud,Arsenal,16.629191201017566,0.06339234006404781,False,Left Foot,Open Play,0,1,2,Normal

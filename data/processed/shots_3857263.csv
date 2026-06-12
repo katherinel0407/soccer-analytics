@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.94702486740263,0.06821269051120961,False,Right Foot,Open Play,0,0,1,Normal
-28.748043411682826,0.07158501652203075,False,Right Foot,Open Play,0,0,2,Normal
-23.903974564912843,0.05464069813800792,False,Left Foot,Open Play,0,0,2,Normal
-18.35211159512714,0.05914805555392427,False,Left Foot,Open Play,0,0,1,Normal
-33.51074454559314,0.0753697549281868,False,Right Foot,Open Play,0,0,1,Normal
-17.810109488714552,0.0534465527574742,False,Right Foot,Open Play,0,0,1,Normal
-21.159631376751346,0.05028211685896193,False,Right Foot,Open Play,0,0,1,Half Volley
-14.212670403551899,0.06029628788770732,False,Right Foot,Open Play,1,0,3,Normal
-35.33907186104355,0.07538563411240977,False,Right Foot,Open Play,0,0,0,Normal
-8.872992730753248,0.05921410184672479,True,Right Foot,Open Play,1,0,1,Normal
-23.801890681204295,0.06500721433877865,False,Right Foot,Open Play,0,0,1,Normal
-19.08009433938941,0.06000895207004272,False,Left Foot,Open Play,1,0,0,Normal
-8.926925562588721,0.05777044579719194,False,Right Foot,Open Play,1,0,1,Normal
-14.142842712835357,0.05507474265954494,False,Right Foot,Open Play,1,0,1,Normal
-22.29282395749807,0.06639829282728238,False,Right Foot,Open Play,0,0,2,Volley
-9.139474820797968,0.05728684115513433,False,Head,Open Play,0,0,5,Normal
-25.489213404889526,0.06931024837471039,False,Right Foot,Free Kick,0,0,0,Normal
-15.041608956491324,0.05417331799594608,True,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857263,Daniel Olmo Carvajal,Spain,23.94702486740263,0.06821269051120961,False,Right Foot,Open Play,0,0,1,Normal
+3857263,Jordi Alba Ramos,Spain,28.748043411682826,0.07158501652203075,False,Right Foot,Open Play,0,0,2,Normal
+3857263,Serge Gnabry,Germany,23.903974564912843,0.05464069813800792,False,Left Foot,Open Play,0,0,2,Normal
+3857263,Ferrán Torres García,Spain,18.35211159512714,0.05914805555392427,False,Left Foot,Open Play,0,0,1,Normal
+3857263,Antonio Rüdiger,Germany,33.51074454559314,0.0753697549281868,False,Right Foot,Open Play,0,0,1,Normal
+3857263,Ferrán Torres García,Spain,17.810109488714552,0.0534465527574742,False,Right Foot,Open Play,0,0,1,Normal
+3857263,Antonio Rüdiger,Germany,21.159631376751346,0.05028211685896193,False,Right Foot,Open Play,0,0,1,Half Volley
+3857263,Joshua Kimmich,Germany,14.212670403551899,0.06029628788770732,False,Right Foot,Open Play,1,0,3,Normal
+3857263,Daniel Olmo Carvajal,Spain,35.33907186104355,0.07538563411240977,False,Right Foot,Open Play,0,0,0,Normal
+3857263,Álvaro Borja Morata Martín,Spain,8.872992730753248,0.05921410184672479,True,Right Foot,Open Play,1,0,1,Normal
+3857263,Leon Goretzka,Germany,23.801890681204295,0.06500721433877865,False,Right Foot,Open Play,0,0,1,Normal
+3857263,Marco Asensio Willemsen,Spain,19.08009433938941,0.06000895207004272,False,Left Foot,Open Play,1,0,0,Normal
+3857263,Niclas Füllkrug,Germany,8.926925562588721,0.05777044579719194,False,Right Foot,Open Play,1,0,1,Normal
+3857263,Jamal Musiala,Germany,14.142842712835357,0.05507474265954494,False,Right Foot,Open Play,1,0,1,Normal
+3857263,Serge Gnabry,Germany,22.29282395749807,0.06639829282728238,False,Right Foot,Open Play,0,0,2,Volley
+3857263,Niclas Füllkrug,Germany,9.139474820797968,0.05728684115513433,False,Head,Open Play,0,0,5,Normal
+3857263,Joshua Kimmich,Germany,25.489213404889526,0.06931024837471039,False,Right Foot,Free Kick,0,0,0,Normal
+3857263,Niclas Füllkrug,Germany,15.041608956491324,0.05417331799594608,True,Right Foot,Open Play,0,0,1,Normal

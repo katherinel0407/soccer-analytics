@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.70036495864253,0.05609317630399051,False,Right Foot,Open Play,0,0,3,Normal
-24.59430828464179,0.06771401312584285,False,Left Foot,Open Play,1,0,0,Normal
-17.828067758453244,0.05468126155191373,False,Left Foot,Open Play,0,0,1,Normal
-30.717421766808492,0.06413394016039528,False,Right Foot,Open Play,0,0,0,Normal
-27.930270317345656,0.06953613069199198,False,Right Foot,Open Play,1,0,0,Normal
-22.391292950609166,0.06567539017494149,False,Right Foot,Open Play,0,1,2,Half Volley
-20.048940121612414,0.05983821803051831,False,Left Foot,Open Play,1,0,1,Volley
-32.16022387981775,0.06596693410522872,False,Left Foot,Free Kick,0,0,0,Normal
-7.28354309385206,0.05798582708017651,False,Right Foot,Open Play,1,0,3,Half Volley
-12.88099375048369,0.060886123299794856,True,Left Foot,Open Play,1,1,2,Normal
-8.285529554590937,0.05883892979873946,False,Head,Open Play,0,0,3,Normal
-15.435349040433126,0.05743814432715495,False,Right Foot,Open Play,1,0,1,Normal
-14.12267680009707,0.05575426139004067,False,Left Foot,Open Play,1,0,4,Half Volley
-31.797169685366658,0.07248870552956159,False,Left Foot,Open Play,0,0,0,Normal
-16.181779877380606,0.05611788321138453,False,Right Foot,Open Play,1,1,1,Half Volley
-24.048284762119724,0.06754327981270172,False,Right Foot,Open Play,0,0,2,Normal
-16.363679292872977,0.0634300635713386,False,Left Foot,Open Play,1,0,0,Volley
-11.475626344561762,0.05999633125949835,False,Right Foot,Open Play,1,1,1,Volley
-12.660568707605519,0.05425690789999335,False,Left Foot,Open Play,0,0,3,Normal
-13.218547575282237,0.0586971444660528,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-24.19132075766018,0.06824112078076934,False,Right Foot,Open Play,1,1,2,Normal
-32.52598960831169,0.06840643850121722,False,Right Foot,Open Play,0,0,0,Normal
-11.574541027617471,0.060649624336304636,False,Right Foot,Open Play,0,0,3,Half Volley
-9.544108130150242,0.05959245674911262,False,Right Foot,Open Play,1,0,1,Half Volley
-33.02196238868913,0.06347869680039164,False,Right Foot,Free Kick,0,0,0,Normal
-6.506919393998976,0.0572631532437847,False,Head,Open Play,0,0,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879691,Radja Nainggolan,AS Roma,13.70036495864253,0.05609317630399051,False,Right Foot,Open Play,0,0,3,Normal
+3879691,Radja Nainggolan,AS Roma,24.59430828464179,0.06771401312584285,False,Left Foot,Open Play,1,0,0,Normal
+3879691,Paweł Wszołek,Hellas Verona,17.828067758453244,0.05468126155191373,False,Left Foot,Open Play,0,0,1,Normal
+3879691,Jacopo Sala,Hellas Verona,30.717421766808492,0.06413394016039528,False,Right Foot,Open Play,0,0,0,Normal
+3879691,Miralem Pjanić,AS Roma,27.930270317345656,0.06953613069199198,False,Right Foot,Open Play,1,0,0,Normal
+3879691,Giampaolo Pazzini,Hellas Verona,22.391292950609166,0.06567539017494149,False,Right Foot,Open Play,0,1,2,Half Volley
+3879691,Radja Nainggolan,AS Roma,20.048940121612414,0.05983821803051831,False,Left Foot,Open Play,1,0,1,Volley
+3879691,Lucas Digne,AS Roma,32.16022387981775,0.06596693410522872,False,Left Foot,Free Kick,0,0,0,Normal
+3879691,Edin Džeko,AS Roma,7.28354309385206,0.05798582708017651,False,Right Foot,Open Play,1,0,3,Half Volley
+3879691,Radja Nainggolan,AS Roma,12.88099375048369,0.060886123299794856,True,Left Foot,Open Play,1,1,2,Normal
+3879691,Mohamed Salah,AS Roma,8.285529554590937,0.05883892979873946,False,Head,Open Play,0,0,3,Normal
+3879691,Edin Džeko,AS Roma,15.435349040433126,0.05743814432715495,False,Right Foot,Open Play,1,0,1,Normal
+3879691,Paweł Wszołek,Hellas Verona,14.12267680009707,0.05575426139004067,False,Left Foot,Open Play,1,0,4,Half Volley
+3879691,Leandro Greco,Hellas Verona,31.797169685366658,0.07248870552956159,False,Left Foot,Open Play,0,0,0,Normal
+3879691,Giampaolo Pazzini,Hellas Verona,16.181779877380606,0.05611788321138453,False,Right Foot,Open Play,1,1,1,Half Volley
+3879691,Ante Rebić,Hellas Verona,24.048284762119724,0.06754327981270172,False,Right Foot,Open Play,0,0,2,Normal
+3879691,Mohamed Salah,AS Roma,16.363679292872977,0.0634300635713386,False,Left Foot,Open Play,1,0,0,Volley
+3879691,Giampaolo Pazzini,Hellas Verona,11.475626344561762,0.05999633125949835,False,Right Foot,Open Play,1,1,1,Volley
+3879691,Mohamed Salah,AS Roma,12.660568707605519,0.05425690789999335,False,Left Foot,Open Play,0,0,3,Normal
+3879691,Giampaolo Pazzini,Hellas Verona,13.218547575282237,0.0586971444660528,False,Right Foot,Open Play,1,0,1,Normal
+3879691,Giampaolo Pazzini,Hellas Verona,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879691,Alessandro Florenzi,AS Roma,24.19132075766018,0.06824112078076934,False,Right Foot,Open Play,1,1,2,Normal
+3879691,Daniele De Rossi,AS Roma,32.52598960831169,0.06840643850121722,False,Right Foot,Open Play,0,0,0,Normal
+3879691,Edin Džeko,AS Roma,11.574541027617471,0.060649624336304636,False,Right Foot,Open Play,0,0,3,Half Volley
+3879691,Edin Džeko,AS Roma,9.544108130150242,0.05959245674911262,False,Right Foot,Open Play,1,0,1,Half Volley
+3879691,Miralem Pjanić,AS Roma,33.02196238868913,0.06347869680039164,False,Right Foot,Free Kick,0,0,0,Normal
+3879691,Edin Džeko,AS Roma,6.506919393998976,0.0572631532437847,False,Head,Open Play,0,0,6,Normal

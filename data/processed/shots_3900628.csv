@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.54087870784083,0.07078077247910852,False,Right Foot,Open Play,0,1,2,Normal
-51.10303317808054,0.06310684958973985,False,Right Foot,Open Play,1,0,0,Half Volley
-27.906450867138236,0.06653671163775661,False,Right Foot,Open Play,1,0,0,Volley
-18.462123388169623,0.05614421610085755,False,Right Foot,Open Play,1,0,0,Volley
-17.112860660918145,0.06355074657789364,False,Right Foot,Open Play,1,0,1,Normal
-30.72783754187723,0.05263530745487213,False,Left Foot,Open Play,0,0,1,Normal
-22.23083444227859,0.06688732761888043,False,Left Foot,Open Play,1,1,1,Normal
-27.553584158871242,0.07081246498082558,False,Right Foot,Open Play,0,0,1,Normal
-13.731715115017503,0.06127251892770457,False,Head,Open Play,0,0,2,Normal
-9.042676594902643,0.058914514820650195,False,Right Foot,Open Play,1,0,3,Half Volley
-5.903388857258172,0.057329876696694454,True,Right Foot,Open Play,1,0,2,Half Volley
-20.04120754844877,0.05801898903669116,False,Left Foot,Open Play,0,0,2,Normal
-15.838244852255563,0.05346502388671962,False,Right Foot,Open Play,0,0,1,Normal
-20.35313243704762,0.06336224852117017,False,Right Foot,Open Play,0,0,4,Normal
-14.743473132203277,0.06192725240133881,False,Left Foot,Open Play,0,0,3,Normal
-15.002999700059986,0.0607528270962085,False,Head,Open Play,0,1,1,Normal
-25.725668115716648,0.0564695579642143,False,Right Foot,Open Play,1,0,1,Normal
-22.240728405337805,0.060733945768142276,False,Left Foot,Free Kick,0,0,0,Normal
-20.277327240048187,0.06021903031613937,False,Left Foot,Open Play,1,0,4,Half Volley
-31.10016077128862,0.06840856884585098,False,Left Foot,Open Play,0,0,0,Normal
-24.422940035957996,0.06860967748767138,False,Right Foot,Open Play,0,0,2,Normal
-29.548942451465162,0.06858549087554264,False,Right Foot,Open Play,1,1,1,Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-17.81039022593272,0.06417412835097983,False,Left Foot,Open Play,1,0,1,Normal
-8.045495634204268,0.05880277466459989,False,Head,Open Play,0,0,4,Normal
-9.618731725128834,0.058395568480773236,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900628,Paul-Georges Ntep de Madiba,Rennes,27.54087870784083,0.07078077247910852,False,Right Foot,Open Play,0,1,2,Normal
+3900628,Kamil Grosicki,Rennes,51.10303317808054,0.06310684958973985,False,Right Foot,Open Play,1,0,0,Half Volley
+3900628,Sofiane Boufal,Lille,27.906450867138236,0.06653671163775661,False,Right Foot,Open Play,1,0,0,Volley
+3900628,Ibrahim Amadou,Lille,18.462123388169623,0.05614421610085755,False,Right Foot,Open Play,1,0,0,Volley
+3900628,Mounir Obbadi,Lille,17.112860660918145,0.06355074657789364,False,Right Foot,Open Play,1,0,1,Normal
+3900628,Sébastien Corchia,Lille,30.72783754187723,0.05263530745487213,False,Left Foot,Open Play,0,0,1,Normal
+3900628,Rio Antonio Zoba Mavuba,Lille,22.23083444227859,0.06688732761888043,False,Left Foot,Open Play,1,1,1,Normal
+3900628,Mounir Obbadi,Lille,27.553584158871242,0.07081246498082558,False,Right Foot,Open Play,0,0,1,Normal
+3900628,Éric Bauthéac,Lille,13.731715115017503,0.06127251892770457,False,Head,Open Play,0,0,2,Normal
+3900628,Éderzito António Macedo Lopes,Lille,9.042676594902643,0.058914514820650195,False,Right Foot,Open Play,1,0,3,Half Volley
+3900628,Éderzito António Macedo Lopes,Lille,5.903388857258172,0.057329876696694454,True,Right Foot,Open Play,1,0,2,Half Volley
+3900628,Benjamin André,Rennes,20.04120754844877,0.05801898903669116,False,Left Foot,Open Play,0,0,2,Normal
+3900628,Giovanni-Guy Yann Sio,Rennes,15.838244852255563,0.05346502388671962,False,Right Foot,Open Play,0,0,1,Normal
+3900628,Kamil Grosicki,Rennes,20.35313243704762,0.06336224852117017,False,Right Foot,Open Play,0,0,4,Normal
+3900628,Yassine Benzia,Lille,14.743473132203277,0.06192725240133881,False,Left Foot,Open Play,0,0,3,Normal
+3900628,Éric Bauthéac,Lille,15.002999700059986,0.0607528270962085,False,Head,Open Play,0,1,1,Normal
+3900628,Paul-Georges Ntep de Madiba,Rennes,25.725668115716648,0.0564695579642143,False,Right Foot,Open Play,1,0,1,Normal
+3900628,Éric Bauthéac,Lille,22.240728405337805,0.060733945768142276,False,Left Foot,Free Kick,0,0,0,Normal
+3900628,Éric Bauthéac,Lille,20.277327240048187,0.06021903031613937,False,Left Foot,Open Play,1,0,4,Half Volley
+3900628,Mounir Obbadi,Lille,31.10016077128862,0.06840856884585098,False,Left Foot,Open Play,0,0,0,Normal
+3900628,Paul-Georges Ntep de Madiba,Rennes,24.422940035957996,0.06860967748767138,False,Right Foot,Open Play,0,0,2,Normal
+3900628,Mehdi Zeffane,Rennes,29.548942451465162,0.06858549087554264,False,Right Foot,Open Play,1,1,1,Volley
+3900628,Ousmane Dembélé,Rennes,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3900628,Djibril Sidibé,Lille,17.81039022593272,0.06417412835097983,False,Left Foot,Open Play,1,0,1,Normal
+3900628,Bakary Adama Soumaoro,Lille,8.045495634204268,0.05880277466459989,False,Head,Open Play,0,0,4,Normal
+3900628,Giovanni-Guy Yann Sio,Rennes,9.618731725128834,0.058395568480773236,False,Head,Open Play,0,1,3,Normal

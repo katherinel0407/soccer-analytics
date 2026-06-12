@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.05583718230486,0.061908834517436284,False,Right Foot,Free Kick,0,0,0,Normal
-28.81961137836526,0.0644253656801839,False,Left Foot,Free Kick,0,0,0,Normal
-25.802713035648015,0.0646128891459432,False,Left Foot,Open Play,1,0,2,Normal
-22.365151463828717,0.06635699474706983,True,Right Foot,Open Play,0,0,4,Normal
-7.543208866258443,0.05340689975444014,False,Left Foot,Open Play,0,1,2,Normal
-4.02243707222375,0.05678697024322324,False,Right Foot,Open Play,1,1,5,Backheel
-18.62605701698564,0.05959975181103889,False,Right Foot,Open Play,1,1,2,Volley
-7.340980860893184,0.05786359145329781,False,Head,Open Play,0,0,5,Normal
-17.28843544106869,0.06328749856655765,False,Left Foot,Open Play,0,0,1,Normal
-23.915267090291927,0.06776860410377192,False,Right Foot,Open Play,0,0,2,Normal
-13.756816492197599,0.06155705219979269,False,Head,Open Play,0,1,4,Normal
-8.884255736976511,0.05762928093944271,False,Head,Open Play,0,0,4,Normal
-20.717142660125692,0.05563432948830737,False,Right Foot,Open Play,1,1,1,Half Volley
-18.8353391262276,0.05394826928796148,False,Left Foot,Open Play,0,0,3,Normal
-17.47254989977136,0.05473911969303677,False,Left Foot,Open Play,1,0,4,Half Volley
-19.338303958723994,0.05773744120566102,False,Left Foot,Open Play,0,0,3,Normal
-7.200694410957879,0.05760276448184784,False,Right Foot,Open Play,1,0,2,Overhead Kick
-25.494313091354314,0.06886238810368447,False,Left Foot,Open Play,0,0,2,Normal
-11.207140580897523,0.05911681994432954,False,Head,Open Play,0,0,4,Normal
-25.1372233947984,0.06168192256766763,False,Left Foot,Open Play,0,0,2,Normal
-20.403921191770966,0.06309982597740744,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900539,Ousmane Dembélé,Rennes,28.05583718230486,0.061908834517436284,False,Right Foot,Free Kick,0,0,0,Normal
+3900539,Romain Alessandrini,Olympique de Marseille,28.81961137836526,0.0644253656801839,False,Left Foot,Free Kick,0,0,0,Normal
+3900539,Benjamin André,Rennes,25.802713035648015,0.0646128891459432,False,Left Foot,Open Play,1,0,2,Normal
+3900539,Rémy Cabella,Olympique de Marseille,22.365151463828717,0.06635699474706983,True,Right Foot,Open Play,0,0,4,Normal
+3900539,Ousmane Dembélé,Rennes,7.543208866258443,0.05340689975444014,False,Left Foot,Open Play,0,1,2,Normal
+3900539,Jeremie Boga,Rennes,4.02243707222375,0.05678697024322324,False,Right Foot,Open Play,1,1,5,Backheel
+3900539,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,18.62605701698564,0.05959975181103889,False,Right Foot,Open Play,1,1,2,Volley
+3900539,Nicolas Alexis Julio N'Koulou Ndoubena,Olympique de Marseille,7.340980860893184,0.05786359145329781,False,Head,Open Play,0,0,5,Normal
+3900539,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,17.28843544106869,0.06328749856655765,False,Left Foot,Open Play,0,0,1,Normal
+3900539,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,23.915267090291927,0.06776860410377192,False,Right Foot,Open Play,0,0,2,Normal
+3900539,Nicolas Alexis Julio N'Koulou Ndoubena,Olympique de Marseille,13.756816492197599,0.06155705219979269,False,Head,Open Play,0,1,4,Normal
+3900539,Michy Batshuayi Tunga,Olympique de Marseille,8.884255736976511,0.05762928093944271,False,Head,Open Play,0,0,4,Normal
+3900539,Kamil Grosicki,Rennes,20.717142660125692,0.05563432948830737,False,Right Foot,Open Play,1,1,1,Half Volley
+3900539,Gélson da Conceição Tavares Fernandes,Rennes,18.8353391262276,0.05394826928796148,False,Left Foot,Open Play,0,0,3,Normal
+3900539,Gélson da Conceição Tavares Fernandes,Rennes,17.47254989977136,0.05473911969303677,False,Left Foot,Open Play,1,0,4,Half Volley
+3900539,Benjamin André,Rennes,19.338303958723994,0.05773744120566102,False,Left Foot,Open Play,0,0,3,Normal
+3900539,Lucas Ariel Ocampos,Olympique de Marseille,7.200694410957879,0.05760276448184784,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3900539,Juan Fernando Quintero Paniagua,Rennes,25.494313091354314,0.06886238810368447,False,Left Foot,Open Play,0,0,2,Normal
+3900539,Benjamin André,Rennes,11.207140580897523,0.05911681994432954,False,Head,Open Play,0,0,4,Normal
+3900539,Rémy Cabella,Olympique de Marseille,25.1372233947984,0.06168192256766763,False,Left Foot,Open Play,0,0,2,Normal
+3900539,Michy Batshuayi Tunga,Olympique de Marseille,20.403921191770966,0.06309982597740744,False,Left Foot,Open Play,0,0,3,Normal

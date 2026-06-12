@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.882176467941094,0.05563584858044629,True,Right Foot,Open Play,1,0,3,Half Volley
-31.878833102859954,0.06189244716066549,False,Left Foot,Open Play,1,0,1,Normal
-25.860007733950894,0.06349739879337593,False,Right Foot,Open Play,0,0,2,Normal
-13.903237033151665,0.06136255089538719,False,Left Foot,Open Play,0,0,2,Normal
-10.204410811016972,0.05874200087223115,False,Head,Open Play,0,1,2,Normal
-27.472895733795525,0.06764349786796707,False,Right Foot,Open Play,0,0,1,Normal
-22.568340656769607,0.06268300246615444,False,Left Foot,Open Play,0,0,2,Normal
-30.3382596732245,0.06137607847882718,False,Right Foot,Open Play,0,0,1,Normal
-8.872992730753248,0.05484015101889147,False,Head,Open Play,0,0,3,Normal
-13.315404612703286,0.057818710020932924,False,Right Foot,Open Play,1,0,3,Half Volley
-24.49020212248156,0.06412264769942062,True,Right Foot,Open Play,0,0,1,Normal
-14.961617559608987,0.06191283675650312,False,Left Foot,Open Play,0,0,1,Normal
-6.407027391856544,0.057224022788274674,False,Left Foot,Open Play,1,0,3,Volley
-12.831601614763448,0.052195878552188525,False,Right Foot,Open Play,1,0,0,Volley
-24.351591323771842,0.06789957752670488,False,Right Foot,Open Play,0,0,1,Volley
-32.54796460610094,0.0736976757081145,False,Right Foot,Open Play,0,0,0,Normal
-34.5418586645247,0.06200995363336561,False,Right Foot,Open Play,0,0,0,Normal
-30.02615526503519,0.07085503356495629,False,Right Foot,Open Play,0,1,1,Normal
-36.01735692690401,0.06496589991678624,False,Left Foot,Open Play,0,0,0,Normal
-28.309892264012586,0.06990291574112602,False,Left Foot,Open Play,0,0,2,Normal
-9.526804291051647,0.055703877674371266,False,Right Foot,Open Play,1,0,1,Half Volley
-19.31553778697347,0.06503038047974218,False,Right Foot,Open Play,0,1,1,Normal
-15.78005069700348,0.05892944555175423,True,Left Foot,Open Play,0,0,1,Normal
-22.09275899474758,0.058450430908465245,False,Left Foot,Open Play,1,0,1,Volley
-21.464622055838763,0.06573075352839264,False,Left Foot,Open Play,0,0,4,Normal
-10.34069630150697,0.057532527034606845,False,Head,Open Play,0,0,5,Normal
-16.032778923193572,0.06137517154215608,False,Left Foot,Open Play,1,0,1,Normal
-14.749237268414934,0.06143224732110059,False,Left Foot,Open Play,0,1,1,Normal
-27.091327025452255,0.06267857372526882,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900629,Zlatan Ibrahimović,Paris Saint-Germain,5.882176467941094,0.05563584858044629,True,Right Foot,Open Play,1,0,3,Half Volley
+3900629,Abdelaziz Barrada,Olympique de Marseille,31.878833102859954,0.06189244716066549,False,Left Foot,Open Play,1,0,1,Normal
+3900629,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,25.860007733950894,0.06349739879337593,False,Right Foot,Open Play,0,0,2,Normal
+3900629,Ángel Fabián Di María Hernández,Paris Saint-Germain,13.903237033151665,0.06136255089538719,False,Left Foot,Open Play,0,0,2,Normal
+3900629,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,10.204410811016972,0.05874200087223115,False,Head,Open Play,0,1,2,Normal
+3900629,Rémy Cabella,Olympique de Marseille,27.472895733795525,0.06764349786796707,False,Right Foot,Open Play,0,0,1,Normal
+3900629,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,22.568340656769607,0.06268300246615444,False,Left Foot,Open Play,0,0,2,Normal
+3900629,Brice Dja Djédjé,Olympique de Marseille,30.3382596732245,0.06137607847882718,False,Right Foot,Open Play,0,0,1,Normal
+3900629,Nicolas Alexis Julio N'Koulou Ndoubena,Olympique de Marseille,8.872992730753248,0.05484015101889147,False,Head,Open Play,0,0,3,Normal
+3900629,Abdelaziz Barrada,Olympique de Marseille,13.315404612703286,0.057818710020932924,False,Right Foot,Open Play,1,0,3,Half Volley
+3900629,Rémy Cabella,Olympique de Marseille,24.49020212248156,0.06412264769942062,True,Right Foot,Open Play,0,0,1,Normal
+3900629,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,14.961617559608987,0.06191283675650312,False,Left Foot,Open Play,0,0,1,Normal
+3900629,Michy Batshuayi Tunga,Olympique de Marseille,6.407027391856544,0.057224022788274674,False,Left Foot,Open Play,1,0,3,Volley
+3900629,Rémy Cabella,Olympique de Marseille,12.831601614763448,0.052195878552188525,False,Right Foot,Open Play,1,0,0,Volley
+3900629,Ángel Fabián Di María Hernández,Paris Saint-Germain,24.351591323771842,0.06789957752670488,False,Right Foot,Open Play,0,0,1,Volley
+3900629,Lassana Diarra,Olympique de Marseille,32.54796460610094,0.0736976757081145,False,Right Foot,Open Play,0,0,0,Normal
+3900629,Brice Dja Djédjé,Olympique de Marseille,34.5418586645247,0.06200995363336561,False,Right Foot,Open Play,0,0,0,Normal
+3900629,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,30.02615526503519,0.07085503356495629,False,Right Foot,Open Play,0,1,1,Normal
+3900629,Thiago Motta,Paris Saint-Germain,36.01735692690401,0.06496589991678624,False,Left Foot,Open Play,0,0,0,Normal
+3900629,Ángel Fabián Di María Hernández,Paris Saint-Germain,28.309892264012586,0.06990291574112602,False,Left Foot,Open Play,0,0,2,Normal
+3900629,Zlatan Ibrahimović,Paris Saint-Germain,9.526804291051647,0.055703877674371266,False,Right Foot,Open Play,1,0,1,Half Volley
+3900629,Rémy Cabella,Olympique de Marseille,19.31553778697347,0.06503038047974218,False,Right Foot,Open Play,0,1,1,Normal
+3900629,Ángel Fabián Di María Hernández,Paris Saint-Germain,15.78005069700348,0.05892944555175423,True,Left Foot,Open Play,0,0,1,Normal
+3900629,Romain Alessandrini,Olympique de Marseille,22.09275899474758,0.058450430908465245,False,Left Foot,Open Play,1,0,1,Volley
+3900629,Romain Alessandrini,Olympique de Marseille,21.464622055838763,0.06573075352839264,False,Left Foot,Open Play,0,0,4,Normal
+3900629,Rémy Cabella,Olympique de Marseille,10.34069630150697,0.057532527034606845,False,Head,Open Play,0,0,5,Normal
+3900629,Maxwell Scherrer Cabelino Andrade,Paris Saint-Germain,16.032778923193572,0.06137517154215608,False,Left Foot,Open Play,1,0,1,Normal
+3900629,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,14.749237268414934,0.06143224732110059,False,Left Foot,Open Play,0,1,1,Normal
+3900629,Romain Alessandrini,Olympique de Marseille,27.091327025452255,0.06267857372526882,False,Right Foot,Open Play,0,1,2,Normal

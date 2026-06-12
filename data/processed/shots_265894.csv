@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.144397191723463,0.05296773956232307,False,Right Foot,Open Play,0,0,2,Normal
-2.0248456731316584,0.055669080575192015,True,Right Foot,Open Play,1,0,1,Normal
-13.497036711811962,0.06175430490351578,False,Left Foot,Open Play,1,0,1,Backheel
-11.182575731914367,0.06043329651951583,False,Head,Open Play,0,0,2,Normal
-7.273238618387277,0.056770356069493016,False,Head,Open Play,0,1,1,Normal
-24.364728605096346,0.05595748772623729,False,Right Foot,Open Play,1,0,1,Normal
-11.763077828527708,0.05829621567742433,False,Head,Open Play,0,0,1,Normal
-22.29910312097776,0.06506143618393938,False,Left Foot,Open Play,1,0,0,Half Volley
-13.014607178090321,0.05316004417988632,False,Right Foot,Open Play,1,0,1,Half Volley
-14.44991349455076,0.06015077459460032,True,Right Foot,Open Play,0,0,4,Normal
-15.570806016388495,0.06192321068595669,False,Head,Open Play,0,1,3,Normal
-24.922680433693326,0.05365369231458543,False,Right Foot,Open Play,0,0,1,Normal
-16.907099100673655,0.06337145865188511,False,Left Foot,Open Play,1,0,0,Normal
-6.3071388124885885,0.05737394864176416,False,Right Foot,Open Play,1,0,3,Normal
-27.85677655436824,0.06069582665801858,False,Left Foot,Free Kick,0,0,0,Normal
-22.945587811167535,0.06749417519283199,False,Left Foot,Open Play,1,0,1,Half Volley
-8.168843247363728,0.0555865494620639,True,Left Foot,Open Play,1,0,2,Volley
-32.06321880285883,0.06638844113723363,False,Right Foot,Open Play,0,0,2,Normal
-7.4672618810377935,0.05738923828766386,False,Head,Open Play,0,1,3,Normal
-13.0862523283024,0.05500125454126969,False,Right Foot,Open Play,0,0,3,Half Volley
-18.612361483702173,0.05998184152270344,False,Left Foot,Open Play,0,0,2,Normal
-12.756174975281585,0.05476661476458029,False,Left Foot,Open Play,0,0,3,Normal
-6.964194138592061,0.058032833242124625,False,Left Foot,Open Play,1,0,2,Volley
-33.40733452402332,0.07279772252715175,False,Left Foot,Free Kick,0,0,0,Normal
-13.895682782792646,0.06198979039813618,False,Left Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+265894,Luis Alberto Suárez Díaz,Barcelona,9.144397191723463,0.05296773956232307,False,Right Foot,Open Play,0,0,2,Normal
+265894,Munir El Haddadi Mohamed,Barcelona,2.0248456731316584,0.055669080575192015,True,Right Foot,Open Play,1,0,1,Normal
+265894,Charles Días Barbosa de Oliveira,Málaga,13.497036711811962,0.06175430490351578,False,Left Foot,Open Play,1,0,1,Backheel
+265894,Duje Čop,Málaga,11.182575731914367,0.06043329651951583,False,Head,Open Play,0,0,2,Normal
+265894,Charles Días Barbosa de Oliveira,Málaga,7.273238618387277,0.056770356069493016,False,Head,Open Play,0,1,1,Normal
+265894,Roberto José Rosales Altuve,Málaga,24.364728605096346,0.05595748772623729,False,Right Foot,Open Play,1,0,1,Normal
+265894,Charles Días Barbosa de Oliveira,Málaga,11.763077828527708,0.05829621567742433,False,Head,Open Play,0,0,1,Normal
+265894,Gonzalo Castro Irizábal,Málaga,22.29910312097776,0.06506143618393938,False,Left Foot,Open Play,1,0,0,Half Volley
+265894,Charles Días Barbosa de Oliveira,Málaga,13.014607178090321,0.05316004417988632,False,Right Foot,Open Play,1,0,1,Half Volley
+265894,Juan Pablo Añor Acosta,Málaga,14.44991349455076,0.06015077459460032,True,Right Foot,Open Play,0,0,4,Normal
+265894,Duje Čop,Málaga,15.570806016388495,0.06192321068595669,False,Head,Open Play,0,1,3,Normal
+265894,Duje Čop,Málaga,24.922680433693326,0.05365369231458543,False,Right Foot,Open Play,0,0,1,Normal
+265894,Munir El Haddadi Mohamed,Barcelona,16.907099100673655,0.06337145865188511,False,Left Foot,Open Play,1,0,0,Normal
+265894,Lionel Andrés Messi Cuccittini,Barcelona,6.3071388124885885,0.05737394864176416,False,Right Foot,Open Play,1,0,3,Normal
+265894,Lionel Andrés Messi Cuccittini,Barcelona,27.85677655436824,0.06069582665801858,False,Left Foot,Free Kick,0,0,0,Normal
+265894,Adriano Correia Claro,Barcelona,22.945587811167535,0.06749417519283199,False,Left Foot,Open Play,1,0,1,Half Volley
+265894,Lionel Andrés Messi Cuccittini,Barcelona,8.168843247363728,0.0555865494620639,True,Left Foot,Open Play,1,0,2,Volley
+265894,Ignacio Camacho Barnola,Málaga,32.06321880285883,0.06638844113723363,False,Right Foot,Open Play,0,0,2,Normal
+265894,Arda Turan,Barcelona,7.4672618810377935,0.05738923828766386,False,Head,Open Play,0,1,3,Normal
+265894,Ignacio Camacho Barnola,Málaga,13.0862523283024,0.05500125454126969,False,Right Foot,Open Play,0,0,3,Half Volley
+265894,Roberto José Rosales Altuve,Málaga,18.612361483702173,0.05998184152270344,False,Left Foot,Open Play,0,0,2,Normal
+265894,Lionel Andrés Messi Cuccittini,Barcelona,12.756174975281585,0.05476661476458029,False,Left Foot,Open Play,0,0,3,Normal
+265894,Charles Días Barbosa de Oliveira,Málaga,6.964194138592061,0.058032833242124625,False,Left Foot,Open Play,1,0,2,Volley
+265894,Lionel Andrés Messi Cuccittini,Barcelona,33.40733452402332,0.07279772252715175,False,Left Foot,Free Kick,0,0,0,Normal
+265894,Lionel Andrés Messi Cuccittini,Barcelona,13.895682782792646,0.06198979039813618,False,Left Foot,Open Play,0,0,2,Half Volley

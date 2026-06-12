@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.047624178980744,0.06035696100233542,False,Head,Open Play,0,1,1,Normal
-16.876018487783185,0.05311194527916652,False,Right Foot,Open Play,1,0,2,Normal
-35.8235955761004,0.0774097067979939,False,Right Foot,Open Play,0,0,1,Normal
-8.599999999999994,0.05819479890517531,True,Right Foot,Open Play,1,0,3,Normal
-14.045995870709918,0.06198139113892102,False,Right Foot,Open Play,0,1,2,Normal
-17.560182231400677,0.06410681412243416,False,Right Foot,Open Play,1,0,2,Normal
-27.808631753468195,0.06489461702106201,False,Left Foot,Open Play,0,0,2,Normal
-10.52235715037273,0.05947498932000914,False,Head,Open Play,0,0,3,Normal
-15.700318468107586,0.06299178989781712,False,Left Foot,Open Play,0,0,2,Normal
-7.42428447730824,0.057519816496470325,False,Head,Open Play,0,1,3,Normal
-12.673200069437874,0.05550398470920153,False,Right Foot,Open Play,1,0,1,Normal
-31.182687504447077,0.07361417895809484,False,Right Foot,Open Play,0,0,0,Normal
-22.252415599210803,0.06091539547527381,False,Right Foot,Open Play,1,0,0,Normal
-10.746627377926531,0.05939715150855657,False,Head,Open Play,0,0,2,Normal
-18.35755975068582,0.06298278912252754,False,Left Foot,Open Play,0,1,2,Normal
-18.369812192834203,0.06445800522483056,False,Left Foot,Open Play,1,1,2,Normal
-20.890667772955467,0.06612719201291954,False,Right Foot,Open Play,0,1,4,Normal
-32.28002478313795,0.07332742580721156,False,Right Foot,Open Play,0,0,1,Normal
-17.418381095842406,0.05876883963562795,False,Right Foot,Open Play,1,0,1,Normal
-30.16239380420593,0.05562898925123472,False,Right Foot,Open Play,0,0,1,Normal
-7.300684899377595,0.055742389692362664,True,Right Foot,Open Play,0,1,3,Half Volley
-21.037585412779666,0.055834234230061175,False,Right Foot,Open Play,1,0,1,Normal
-23.29484921608208,0.05511842400764291,False,Right Foot,Open Play,1,0,1,Normal
-12.149485585818029,0.05413480179109012,True,Right Foot,Open Play,1,1,3,Normal
-27.914512354687485,0.06637677565221126,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879783,Edin Džeko,AS Roma,11.047624178980744,0.06035696100233542,False,Head,Open Play,0,1,1,Normal
+3879783,Diego Perotti,AS Roma,16.876018487783185,0.05311194527916652,False,Right Foot,Open Play,1,0,2,Normal
+3879783,Bruno Miguel Borges Fernandes,Udinese,35.8235955761004,0.0774097067979939,False,Right Foot,Open Play,0,0,1,Normal
+3879783,Edin Džeko,AS Roma,8.599999999999994,0.05819479890517531,True,Right Foot,Open Play,1,0,3,Normal
+3879783,Stephan El Shaarawy,AS Roma,14.045995870709918,0.06198139113892102,False,Right Foot,Open Play,0,1,2,Normal
+3879783,Edin Džeko,AS Roma,17.560182231400677,0.06410681412243416,False,Right Foot,Open Play,1,0,2,Normal
+3879783,Francesco Lodi,Udinese,27.808631753468195,0.06489461702106201,False,Left Foot,Open Play,0,0,2,Normal
+3879783,Felipe Dias da Silva dal Belo,Udinese,10.52235715037273,0.05947498932000914,False,Head,Open Play,0,0,3,Normal
+3879783,Mohamed Salah,AS Roma,15.700318468107586,0.06299178989781712,False,Left Foot,Open Play,0,0,2,Normal
+3879783,Edin Džeko,AS Roma,7.42428447730824,0.057519816496470325,False,Head,Open Play,0,1,3,Normal
+3879783,Alessandro Florenzi,AS Roma,12.673200069437874,0.05550398470920153,False,Right Foot,Open Play,1,0,1,Normal
+3879783,Stephan El Shaarawy,AS Roma,31.182687504447077,0.07361417895809484,False,Right Foot,Open Play,0,0,0,Normal
+3879783,Cyril Théréau,Udinese,22.252415599210803,0.06091539547527381,False,Right Foot,Open Play,1,0,0,Normal
+3879783,Duván Esteban Zapata Banguera,Udinese,10.746627377926531,0.05939715150855657,False,Head,Open Play,0,0,2,Normal
+3879783,Cyril Théréau,Udinese,18.35755975068582,0.06298278912252754,False,Left Foot,Open Play,0,1,2,Normal
+3879783,Bruno Miguel Borges Fernandes,Udinese,18.369812192834203,0.06445800522483056,False,Left Foot,Open Play,1,1,2,Normal
+3879783,Stephan El Shaarawy,AS Roma,20.890667772955467,0.06612719201291954,False,Right Foot,Open Play,0,1,4,Normal
+3879783,Diego Perotti,AS Roma,32.28002478313795,0.07332742580721156,False,Right Foot,Open Play,0,0,1,Normal
+3879783,Edin Džeko,AS Roma,17.418381095842406,0.05876883963562795,False,Right Foot,Open Play,1,0,1,Normal
+3879783,Alessandro Florenzi,AS Roma,30.16239380420593,0.05562898925123472,False,Right Foot,Open Play,0,0,1,Normal
+3879783,Alessandro Florenzi,AS Roma,7.300684899377595,0.055742389692362664,True,Right Foot,Open Play,0,1,3,Half Volley
+3879783,Miralem Pjanić,AS Roma,21.037585412779666,0.055834234230061175,False,Right Foot,Open Play,1,0,1,Normal
+3879783,Ryder Matos Santos,Udinese,23.29484921608208,0.05511842400764291,False,Right Foot,Open Play,1,0,1,Normal
+3879783,Bruno Miguel Borges Fernandes,Udinese,12.149485585818029,0.05413480179109012,True,Right Foot,Open Play,1,1,3,Normal
+3879783,Ryder Matos Santos,Udinese,27.914512354687485,0.06637677565221126,False,Right Foot,Open Play,1,0,2,Normal

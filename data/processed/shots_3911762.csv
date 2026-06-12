@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.28157369150395,0.06513884535309872,False,Left Foot,Open Play,0,0,3,Normal
-27.62607463973121,0.07082033238340352,False,Right Foot,Open Play,1,0,2,Normal
-26.40681730159847,0.0664222441113434,False,Right Foot,Open Play,0,0,1,Normal
-22.030206535572926,0.06555922612905532,False,Left Foot,Open Play,0,1,3,Normal
-12.384264209067888,0.06103442393771662,True,Left Foot,Open Play,1,0,1,Normal
-14.325152704247165,0.06189248309175175,False,Right Foot,Open Play,1,0,0,Volley
-8.864536084872128,0.052903944634957255,False,Right Foot,Open Play,1,0,1,Volley
-7.200694410957871,0.05797692678881288,False,Left Foot,Open Play,0,0,5,Half Volley
-10.568348972285122,0.05854955733853516,False,Head,Open Play,0,0,5,Normal
-17.049633427144407,0.0633555737466209,False,Right Foot,Open Play,0,0,2,Normal
-22.47420743875076,0.06700354606078683,False,Left Foot,Open Play,0,0,1,Normal
-15.000000000000005,0.062159482388698145,False,Right Foot,Open Play,1,0,1,Volley
-12.879829191413993,0.06061986852170468,False,Right Foot,Open Play,0,0,1,Half Volley
-7.021395872616786,0.0567601114463881,True,Right Foot,Open Play,1,0,2,Volley
-20.188362984650336,0.06554595631722573,False,Left Foot,Open Play,0,1,3,Normal
-17.530829986056,0.058642301434325486,False,Right Foot,Open Play,1,0,2,Half Volley
-36.24982758579688,0.07637228748747636,False,Left Foot,Open Play,0,0,1,Normal
-18.653149868051777,0.05789913528034111,False,Right Foot,Open Play,1,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-8.207313811473277,0.055346549282795525,True,Right Foot,Open Play,0,0,1,Normal
-7.223572523343283,0.05656335919014083,False,Right Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911762,Tanja Pawollek,Eintracht Frankfurt W,32.28157369150395,0.06513884535309872,False,Left Foot,Open Play,0,0,3,Normal
+3911762,Jenny Hipp,RB Leipzig W,27.62607463973121,0.07082033238340352,False,Right Foot,Open Play,1,0,2,Normal
+3911762,Sandra Starke,RB Leipzig W,26.40681730159847,0.0664222441113434,False,Right Foot,Open Play,0,0,1,Normal
+3911762,Vanessa Fudalla,RB Leipzig W,22.030206535572926,0.06555922612905532,False,Left Foot,Open Play,0,1,3,Normal
+3911762,Lydia Andrade,RB Leipzig W,12.384264209067888,0.06103442393771662,True,Left Foot,Open Play,1,0,1,Normal
+3911762,Tanja Pawollek,Eintracht Frankfurt W,14.325152704247165,0.06189248309175175,False,Right Foot,Open Play,1,0,0,Volley
+3911762,Géraldine Reuteler,Eintracht Frankfurt W,8.864536084872128,0.052903944634957255,False,Right Foot,Open Play,1,0,1,Volley
+3911762,Laura Freigang,Eintracht Frankfurt W,7.200694410957871,0.05797692678881288,False,Left Foot,Open Play,0,0,5,Half Volley
+3911762,Virginia Kirchberger,Eintracht Frankfurt W,10.568348972285122,0.05854955733853516,False,Head,Open Play,0,0,5,Normal
+3911762,Laura Freigang,Eintracht Frankfurt W,17.049633427144407,0.0633555737466209,False,Right Foot,Open Play,0,0,2,Normal
+3911762,Géraldine Reuteler,Eintracht Frankfurt W,22.47420743875076,0.06700354606078683,False,Left Foot,Open Play,0,0,1,Normal
+3911762,Géraldine Reuteler,Eintracht Frankfurt W,15.000000000000005,0.062159482388698145,False,Right Foot,Open Play,1,0,1,Volley
+3911762,Marlene Müller,RB Leipzig W,12.879829191413993,0.06061986852170468,False,Right Foot,Open Play,0,0,1,Half Volley
+3911762,Barbara Dunst,Eintracht Frankfurt W,7.021395872616786,0.0567601114463881,True,Right Foot,Open Play,1,0,2,Volley
+3911762,Luca Maria Graf,RB Leipzig W,20.188362984650336,0.06554595631722573,False,Left Foot,Open Play,0,1,3,Normal
+3911762,Lydia Andrade,RB Leipzig W,17.530829986056,0.058642301434325486,False,Right Foot,Open Play,1,0,2,Half Volley
+3911762,Verena Hanshaw,Eintracht Frankfurt W,36.24982758579688,0.07637228748747636,False,Left Foot,Open Play,0,0,1,Normal
+3911762,Laura Freigang,Eintracht Frankfurt W,18.653149868051777,0.05789913528034111,False,Right Foot,Open Play,1,1,2,Normal
+3911762,Laura Freigang,Eintracht Frankfurt W,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3911762,Carlotta Wamser,Eintracht Frankfurt W,8.207313811473277,0.055346549282795525,True,Right Foot,Open Play,0,0,1,Normal
+3911762,Jenny Hipp,RB Leipzig W,7.223572523343283,0.05656335919014083,False,Right Foot,Open Play,1,0,3,Normal

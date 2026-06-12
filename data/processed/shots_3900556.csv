@@ -1,11 +1,11 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.909521411183306,0.06476677532194405,False,Right Foot,Open Play,0,0,3,Normal
-11.313708498984761,0.05520921458263703,False,Left Foot,Open Play,1,0,2,Normal
-12.264175471673578,0.060343320359551665,False,Right Foot,Open Play,1,1,3,Normal
-5.188448708429133,0.057333163381574466,True,Head,Open Play,0,0,3,Normal
-27.554491466909703,0.054793280973861734,False,Left Foot,Open Play,0,0,2,Normal
-9.80459076147495,0.058783850975920364,False,Head,Open Play,0,1,2,Normal
-9.080198235721506,0.05587512786557783,False,Head,Open Play,0,1,3,Normal
-4.545327270945403,0.05532146424058734,True,Head,Open Play,0,0,4,Normal
-7.05761999543755,0.05659146970839922,False,Head,Open Play,0,0,4,Diving Header
-9.052071586106688,0.05738999349821853,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900556,Wahbi Khazri,Bordeaux,18.909521411183306,0.06476677532194405,False,Right Foot,Open Play,0,0,3,Normal
+3900556,Billy Ketkeophomphone,Angers,11.313708498984761,0.05520921458263703,False,Left Foot,Open Play,1,0,2,Normal
+3900556,Gilles Sunu,Angers,12.264175471673578,0.060343320359551665,False,Right Foot,Open Play,1,1,3,Normal
+3900556,Diego Alejandro Rolan Silva,Bordeaux,5.188448708429133,0.057333163381574466,True,Head,Open Play,0,0,3,Normal
+3900556,Abdoul Razzagui Camara,Angers,27.554491466909703,0.054793280973861734,False,Left Foot,Open Play,0,0,2,Normal
+3900556,Goran Karanović,Angers,9.80459076147495,0.058783850975920364,False,Head,Open Play,0,1,2,Normal
+3900556,Romain Thomas,Angers,9.080198235721506,0.05587512786557783,False,Head,Open Play,0,1,3,Normal
+3900556,Romain Thomas,Angers,4.545327270945403,0.05532146424058734,True,Head,Open Play,0,0,4,Normal
+3900556,Goran Karanović,Angers,7.05761999543755,0.05659146970839922,False,Head,Open Play,0,0,4,Diving Header
+3900556,Gaëtan Laborde,Bordeaux,9.052071586106688,0.05738999349821853,False,Head,Open Play,0,1,1,Normal

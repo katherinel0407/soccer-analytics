@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.549914089093452,0.05222422126439797,False,Right Foot,Open Play,0,0,1,Half Volley
-12.901550294441364,0.056001434242233354,False,Right Foot,Open Play,1,1,2,Half Volley
-13.013838787997953,0.06023211740745426,True,Right Foot,Open Play,1,1,3,Normal
-26.833002068348602,0.06998510554692768,False,Right Foot,Open Play,0,0,1,Normal
-14.5041373407728,0.05538182889376759,False,Right Foot,Open Play,1,0,1,Volley
-7.937883848986452,0.053573339721551164,False,Head,Open Play,0,1,2,Normal
-29.8564900817226,0.07112250559948523,False,Left Foot,Open Play,1,0,0,Normal
-20.362956563328417,0.06252353646852261,False,Right Foot,Open Play,1,0,0,Normal
-7.034202158027586,0.056896128186493776,True,Head,Open Play,0,0,3,Normal
-15.352524222420238,0.06276675764451428,False,Left Foot,Open Play,0,0,2,Normal
-12.571793825862724,0.05740608716604985,False,Right Foot,Open Play,1,1,2,Normal
-8.514693182963201,0.055556545979922906,True,Head,Open Play,0,1,4,Normal
-30.33232599059954,0.07242231774259762,False,Right Foot,Open Play,0,1,1,Normal
-9.14111590562115,0.05781485931340221,False,Head,Open Play,0,1,3,Normal
-7.406078584514207,0.05847699327605504,True,Right Foot,Open Play,1,1,3,Half Volley
-16.043067038443738,0.05436524654228572,False,Right Foot,Open Play,0,0,2,Normal
-3.200000000000003,0.05608300952354443,True,Left Foot,Open Play,1,0,2,Normal
-18.514858897652992,0.06366184381987212,False,Right Foot,Open Play,1,1,1,Normal
-19.45584745005984,0.054529483693947646,False,Left Foot,Open Play,0,0,1,Normal
-11.806777714516347,0.06019513249784514,False,Left Foot,Open Play,1,0,1,Normal
-10.295630140987,0.053474082792750566,False,Right Foot,Open Play,1,0,1,Volley
-5.780138406647366,0.0576517546622226,True,Right Foot,Open Play,1,1,2,Half Volley
-10.30048542545447,0.058921027126874755,False,Left Foot,Open Play,1,0,4,Normal
-7.782673062643704,0.058169408728667306,False,Head,Open Play,0,0,3,Normal
-27.382658746001997,0.05846928251248381,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3910732,Lisa Josten,SV Werder Bremen,14.549914089093452,0.05222422126439797,False,Right Foot,Open Play,0,0,1,Half Volley
+3910732,Lisa Josten,SV Werder Bremen,12.901550294441364,0.056001434242233354,False,Right Foot,Open Play,1,1,2,Half Volley
+3910732,Franziska Mai,Nürnberg W,13.013838787997953,0.06023211740745426,True,Right Foot,Open Play,1,1,3,Normal
+3910732,Juliane Wirtz,SV Werder Bremen,26.833002068348602,0.06998510554692768,False,Right Foot,Open Play,0,0,1,Normal
+3910732,Lisa Josten,SV Werder Bremen,14.5041373407728,0.05538182889376759,False,Right Foot,Open Play,1,0,1,Volley
+3910732,Chiara Hahn,SV Werder Bremen,7.937883848986452,0.053573339721551164,False,Head,Open Play,0,1,2,Normal
+3910732,Nina Lührßen,SV Werder Bremen,29.8564900817226,0.07112250559948523,False,Left Foot,Open Play,1,0,0,Normal
+3910732,Ricarda Walkling,SV Werder Bremen,20.362956563328417,0.06252353646852261,False,Right Foot,Open Play,1,0,0,Normal
+3910732,Sophie Weidauer,SV Werder Bremen,7.034202158027586,0.056896128186493776,True,Head,Open Play,0,0,3,Normal
+3910732,Ricarda Walkling,SV Werder Bremen,15.352524222420238,0.06276675764451428,False,Left Foot,Open Play,0,0,2,Normal
+3910732,Sophie Weidauer,SV Werder Bremen,12.571793825862724,0.05740608716604985,False,Right Foot,Open Play,1,1,2,Normal
+3910732,Lina Hausicke,SV Werder Bremen,8.514693182963201,0.055556545979922906,True,Head,Open Play,0,1,4,Normal
+3910732,Elena Mühlemann,Nürnberg W,30.33232599059954,0.07242231774259762,False,Right Foot,Open Play,0,1,1,Normal
+3910732,Lina Hausicke,SV Werder Bremen,9.14111590562115,0.05781485931340221,False,Head,Open Play,0,1,3,Normal
+3910732,Lina Hausicke,SV Werder Bremen,7.406078584514207,0.05847699327605504,True,Right Foot,Open Play,1,1,3,Half Volley
+3910732,Chiara Hahn,SV Werder Bremen,16.043067038443738,0.05436524654228572,False,Right Foot,Open Play,0,0,2,Normal
+3910732,Maja Sternad,SV Werder Bremen,3.200000000000003,0.05608300952354443,True,Left Foot,Open Play,1,0,2,Normal
+3910732,Juliane Wirtz,SV Werder Bremen,18.514858897652992,0.06366184381987212,False,Right Foot,Open Play,1,1,1,Normal
+3910732,Maja Sternad,SV Werder Bremen,19.45584745005984,0.054529483693947646,False,Left Foot,Open Play,0,0,1,Normal
+3910732,Christin Martina Ingrid Meyer,SV Werder Bremen,11.806777714516347,0.06019513249784514,False,Left Foot,Open Play,1,0,1,Normal
+3910732,Christin Martina Ingrid Meyer,SV Werder Bremen,10.295630140987,0.053474082792750566,False,Right Foot,Open Play,1,0,1,Volley
+3910732,Amira Marlene Dahl,SV Werder Bremen,5.780138406647366,0.0576517546622226,True,Right Foot,Open Play,1,1,2,Half Volley
+3910732,Christin Martina Ingrid Meyer,SV Werder Bremen,10.30048542545447,0.058921027126874755,False,Left Foot,Open Play,1,0,4,Normal
+3910732,Lina Hausicke,SV Werder Bremen,7.782673062643704,0.058169408728667306,False,Head,Open Play,0,0,3,Normal
+3910732,Nadja Burkard,Nürnberg W,27.382658746001997,0.05846928251248381,False,Left Foot,Open Play,1,0,1,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.386395390991828,0.059789379662367415,False,Left Foot,Open Play,1,0,1,Normal
-22.11650967037973,0.06677122257738495,False,Left Foot,Open Play,0,0,1,Normal
-9.873702446397706,0.05976861905132091,False,Head,Open Play,0,0,1,Normal
-11.080162453682703,0.05442330624093949,False,Head,Open Play,0,0,2,Normal
-12.425779653607258,0.060047694567125595,False,Right Foot,Open Play,1,0,3,Half Volley
-26.139816372729168,0.06454359057171613,False,Right Foot,Free Kick,0,0,0,Normal
-25.639422770413532,0.06931259007266022,False,Right Foot,Free Kick,0,0,0,Normal
-18.938056922503957,0.055660592933737346,False,Left Foot,Open Play,0,0,1,Normal
-19.409533739891852,0.06025532705646263,False,Right Foot,Open Play,0,0,3,Normal
-15.774663229368798,0.055876498436082125,False,Right Foot,Open Play,1,1,1,Normal
-9.849365461794987,0.054909104806846375,False,Head,Open Play,0,0,0,Normal
-17.5,0.05376856555010663,False,Right Foot,Open Play,1,0,1,Normal
-8.90505474435727,0.05917527413240327,False,Right Foot,Open Play,1,0,4,Normal
-35.88983142897163,0.07681571680825869,False,Right Foot,Open Play,0,0,1,Normal
-18.102486017119304,0.06365358312067185,False,Right Foot,Open Play,0,0,1,Normal
-14.721752613055283,0.06104337048932034,False,Left Foot,Open Play,0,0,2,Half Volley
-22.055384830013736,0.057654623957067164,False,Left Foot,Open Play,0,0,1,Normal
-20.2427764894048,0.06416871739669115,False,Right Foot,Open Play,0,1,2,Normal
-27.569729777420747,0.06879450797835565,False,Right Foot,Open Play,0,0,1,Normal
-21.51882896442091,0.06631661544897784,False,Right Foot,Open Play,0,0,1,Normal
-13.700364958642528,0.06034732257221799,False,Right Foot,Open Play,1,0,3,Half Volley
-6.481512169239516,0.055552003777967165,False,Right Foot,Open Play,1,1,2,Normal
-17.3219513912261,0.05832496819749618,False,Left Foot,Open Play,0,1,2,Normal
-13.31840831330831,0.059879583692604724,True,Head,Open Play,0,0,2,Normal
-11.475626344561766,0.06012384125143704,False,Head,Open Play,0,0,2,Normal
-7.1028163428318996,0.05765934293614997,False,Head,Open Play,0,0,2,Normal
-6.325345840347392,0.05791838279566535,False,Head,Open Play,0,0,4,Normal
-7.54320886625845,0.05853822480548025,False,Right Foot,Open Play,1,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857280,Frederico Rodrigues Santos,Brazil,11.386395390991828,0.059789379662367415,False,Left Foot,Open Play,1,0,1,Normal
+3857280,Antony Matheus dos Santos,Brazil,22.11650967037973,0.06677122257738495,False,Left Foot,Open Play,0,0,1,Normal
+3857280,Gabriel Teodoro Martinelli Silva,Brazil,9.873702446397706,0.05976861905132091,False,Head,Open Play,0,0,1,Normal
+3857280,Gabriel Fernando de Jesus,Brazil,11.080162453682703,0.05442330624093949,False,Head,Open Play,0,0,2,Normal
+3857280,Frederico Rodrigues Santos,Brazil,12.425779653607258,0.060047694567125595,False,Right Foot,Open Play,1,0,3,Half Volley
+3857280,Rodrygo Silva de Goes,Brazil,26.139816372729168,0.06454359057171613,False,Right Foot,Free Kick,0,0,0,Normal
+3857280,Daniel Alves da Silva,Brazil,25.639422770413532,0.06931259007266022,False,Right Foot,Free Kick,0,0,0,Normal
+3857280,Antony Matheus dos Santos,Brazil,18.938056922503957,0.055660592933737346,False,Left Foot,Open Play,0,0,1,Normal
+3857280,Gabriel Teodoro Martinelli Silva,Brazil,19.409533739891852,0.06025532705646263,False,Right Foot,Open Play,0,0,3,Normal
+3857280,Rodrygo Silva de Goes,Brazil,15.774663229368798,0.055876498436082125,False,Right Foot,Open Play,1,1,1,Normal
+3857280,Bryan Mbeumo,Cameroon,9.849365461794987,0.054909104806846375,False,Head,Open Play,0,0,0,Normal
+3857280,Vincent Paté Aboubakar,Cameroon,17.5,0.05376856555010663,False,Right Foot,Open Play,1,0,1,Normal
+3857280,Gabriel Fernando de Jesus,Brazil,8.90505474435727,0.05917527413240327,False,Right Foot,Open Play,1,0,4,Normal
+3857280,Pierre Kunde Malong,Cameroon,35.88983142897163,0.07681571680825869,False,Right Foot,Open Play,0,0,1,Normal
+3857280,Gabriel Teodoro Martinelli Silva,Brazil,18.102486017119304,0.06365358312067185,False,Right Foot,Open Play,0,0,1,Normal
+3857280,Éder Gabriel Militão,Brazil,14.721752613055283,0.06104337048932034,False,Left Foot,Open Play,0,0,2,Half Volley
+3857280,Antony Matheus dos Santos,Brazil,22.055384830013736,0.057654623957067164,False,Left Foot,Open Play,0,0,1,Normal
+3857280,Bruno Guimarães Rodriguez Moura,Brazil,20.2427764894048,0.06416871739669115,False,Right Foot,Open Play,0,1,2,Normal
+3857280,Jules Olivier Ntcham,Cameroon,27.569729777420747,0.06879450797835565,False,Right Foot,Open Play,0,0,1,Normal
+3857280,Vincent Paté Aboubakar,Cameroon,21.51882896442091,0.06631661544897784,False,Right Foot,Open Play,0,0,1,Normal
+3857280,Christopher Wooh,Cameroon,13.700364958642528,0.06034732257221799,False,Right Foot,Open Play,1,0,3,Half Volley
+3857280,Bruno Guimarães Rodriguez Moura,Brazil,6.481512169239516,0.055552003777967165,False,Right Foot,Open Play,1,1,2,Normal
+3857280,Pedro Guilherme Abreu dos Santos,Brazil,17.3219513912261,0.05832496819749618,False,Left Foot,Open Play,0,1,2,Normal
+3857280,Vincent Paté Aboubakar,Cameroon,13.31840831330831,0.059879583692604724,True,Head,Open Play,0,0,2,Normal
+3857280,Pedro Guilherme Abreu dos Santos,Brazil,11.475626344561766,0.06012384125143704,False,Head,Open Play,0,0,2,Normal
+3857280,Bruno Guimarães Rodriguez Moura,Brazil,7.1028163428318996,0.05765934293614997,False,Head,Open Play,0,0,2,Normal
+3857280,Gabriel Teodoro Martinelli Silva,Brazil,6.325345840347392,0.05791838279566535,False,Head,Open Play,0,0,4,Normal
+3857280,Bruno Guimarães Rodriguez Moura,Brazil,7.54320886625845,0.05853822480548025,False,Right Foot,Open Play,1,0,3,Half Volley

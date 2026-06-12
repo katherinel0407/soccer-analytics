@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.985677155821236,0.06563743238699382,False,Right Foot,Open Play,0,0,3,Normal
-17.217723426748385,0.06387327544024454,False,Right Foot,Open Play,1,0,1,Half Volley
-20.060907257649138,0.05949241683769144,False,Left Foot,Open Play,1,0,3,Volley
-14.468241081762493,0.06138829445897597,False,Right Foot,Open Play,1,1,2,Half Volley
-19.365949499056327,0.06517548443456057,False,Right Foot,Open Play,0,0,2,Normal
-18.925115587493785,0.06496811449636115,False,Right Foot,Open Play,1,0,1,Normal
-12.628935030318273,0.05914046531812624,False,Left Foot,Open Play,1,0,3,Half Volley
-37.91384971220939,0.07906853280157214,True,Left Foot,Free Kick,0,0,0,Normal
-4.07185461430047,0.056772195350042236,False,Head,Open Play,0,0,7,Normal
-31.90611226708763,0.07371622329701717,False,Left Foot,Open Play,0,0,1,Normal
-19.24421991144354,0.06455678760137346,False,Left Foot,Open Play,0,1,1,Normal
-9.013878188659973,0.056084303176649426,True,Right Foot,Open Play,1,0,2,Half Volley
-30.004333020415572,0.06644839347895613,False,Left Foot,Free Kick,0,0,0,Normal
-13.994641831786913,0.061613915399391685,False,Head,Open Play,0,1,1,Normal
-22.67443494334534,0.05848508532309095,False,Right Foot,Open Play,1,0,0,Normal
-31.129567937894677,0.07176353573185257,False,Right Foot,Open Play,1,1,2,Normal
-21.56780007325736,0.05477788422217493,False,Left Foot,Open Play,0,1,3,Normal
-35.849825662058656,0.07690241463912997,False,Left Foot,Open Play,0,0,2,Half Volley
-14.207744367069674,0.05261008741129108,False,Right Foot,Open Play,0,0,1,Normal
-23.572229423624737,0.06017718529319597,False,Right Foot,Open Play,0,1,1,Half Volley
-27.12231553536681,0.06588675673693047,False,Right Foot,Open Play,0,1,2,Half Volley
-27.72002886001383,0.07002869807187696,False,Right Foot,Open Play,0,0,2,Normal
-27.324714088165678,0.06115524518270999,False,Left Foot,Open Play,0,1,4,Normal
-20.440156555173452,0.06589170892103911,False,Left Foot,Open Play,1,0,1,Normal
-6.691038783328036,0.0577438243930939,False,Head,Open Play,0,1,7,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813275,Greg Stewart,Jamshedpur,21.985677155821236,0.06563743238699382,False,Right Foot,Open Play,0,0,3,Normal
+3813275,Boris Singh Thangjam,Jamshedpur,17.217723426748385,0.06387327544024454,False,Right Foot,Open Play,1,0,1,Half Volley
+3813275,Greg Stewart,Jamshedpur,20.060907257649138,0.05949241683769144,False,Left Foot,Open Play,1,0,3,Volley
+3813275,Jordan Murray,Jamshedpur,14.468241081762493,0.06138829445897597,False,Right Foot,Open Play,1,1,2,Half Volley
+3813275,Ritwik Kumar Das,Jamshedpur,19.365949499056327,0.06517548443456057,False,Right Foot,Open Play,0,0,2,Normal
+3813275,Boris Singh Thangjam,Jamshedpur,18.925115587493785,0.06496811449636115,False,Right Foot,Open Play,1,0,1,Normal
+3813275,Peter Hartley,Jamshedpur,12.628935030318273,0.05914046531812624,False,Left Foot,Open Play,1,0,3,Half Volley
+3813275,Greg Stewart,Jamshedpur,37.91384971220939,0.07906853280157214,True,Left Foot,Free Kick,0,0,0,Normal
+3813275,Boris Singh Thangjam,Jamshedpur,4.07185461430047,0.056772195350042236,False,Head,Open Play,0,0,7,Normal
+3813275,Alexandre Monteiro de Lima,Jamshedpur,31.90611226708763,0.07371622329701717,False,Left Foot,Open Play,0,0,1,Normal
+3813275,Álvaro Vázquez García,Kerala Blasters,19.24421991144354,0.06455678760137346,False,Left Foot,Open Play,0,1,1,Normal
+3813275,Sahal Abdul Samad,Kerala Blasters,9.013878188659973,0.056084303176649426,True,Right Foot,Open Play,1,0,2,Half Volley
+3813275,Greg Stewart,Jamshedpur,30.004333020415572,0.06644839347895613,False,Left Foot,Free Kick,0,0,0,Normal
+3813275,Marko Lešković,Kerala Blasters,13.994641831786913,0.061613915399391685,False,Head,Open Play,0,1,1,Normal
+3813275,Álvaro Vázquez García,Kerala Blasters,22.67443494334534,0.05848508532309095,False,Right Foot,Open Play,1,0,0,Normal
+3813275,Álvaro Vázquez García,Kerala Blasters,31.129567937894677,0.07176353573185257,False,Right Foot,Open Play,1,1,2,Normal
+3813275,Ritwik Kumar Das,Jamshedpur,21.56780007325736,0.05477788422217493,False,Left Foot,Open Play,0,1,3,Normal
+3813275,Álvaro Vázquez García,Kerala Blasters,35.849825662058656,0.07690241463912997,False,Left Foot,Open Play,0,0,2,Half Volley
+3813275,Ritwik Kumar Das,Jamshedpur,14.207744367069674,0.05261008741129108,False,Right Foot,Open Play,0,0,1,Normal
+3813275,Jitendra Singh,Jamshedpur,23.572229423624737,0.06017718529319597,False,Right Foot,Open Play,0,1,1,Half Volley
+3813275,Jordan Murray,Jamshedpur,27.12231553536681,0.06588675673693047,False,Right Foot,Open Play,0,1,2,Half Volley
+3813275,Boris Singh Thangjam,Jamshedpur,27.72002886001383,0.07002869807187696,False,Right Foot,Open Play,0,0,2,Normal
+3813275,Vincy Barretto,Kerala Blasters,27.324714088165678,0.06115524518270999,False,Left Foot,Open Play,0,1,4,Normal
+3813275,Greg Stewart,Jamshedpur,20.440156555173452,0.06589170892103911,False,Left Foot,Open Play,1,0,1,Normal
+3813275,Peter Hartley,Jamshedpur,6.691038783328036,0.0577438243930939,False,Head,Open Play,0,1,7,Normal

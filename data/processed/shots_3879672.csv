@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.654392354863218,0.0628066264832533,False,Left Foot,Open Play,0,1,3,Volley
-13.76444695583517,0.06153192469478076,False,Left Foot,Open Play,0,0,2,Normal
-4.438468204234425,0.05591019860228796,True,Right Foot,Open Play,1,0,3,Normal
-18.041341413542394,0.056170406759189544,False,Right Foot,Open Play,1,1,2,Half Volley
-35.30509878190401,0.07294079910285665,False,Right Foot,Open Play,0,0,0,Normal
-15.443445211480494,0.06275137283202804,False,Left Foot,Open Play,1,0,1,Half Volley
-20.43624231604235,0.06487016965420553,False,Right Foot,Open Play,1,0,2,Normal
-29.333428030150174,0.06678081106344093,False,Right Foot,Open Play,0,0,1,Normal
-11.29291813483123,0.060499154843390614,False,Right Foot,Open Play,0,1,2,Normal
-14.718695594379277,0.055409910912503746,True,Right Foot,Open Play,0,0,1,Normal
-7.738862965578344,0.05864581614888076,False,Right Foot,Open Play,0,1,4,Normal
-3.1016124838541614,0.054464733505548577,True,Left Foot,Open Play,1,1,2,Normal
-17.64794605612789,0.06404764738093999,False,Right Foot,Open Play,0,0,1,Half Volley
-20.84922060893404,0.06608763649341719,False,Left Foot,Open Play,1,0,0,Half Volley
-18.067650649710938,0.06438379038279937,False,Right Foot,Open Play,0,0,3,Normal
-9.154780172128651,0.05873026913760759,False,Left Foot,Open Play,0,1,3,Half Volley
-5.220153254455279,0.057276358127666654,True,Left Foot,Open Play,1,0,3,Volley
-26.752569970004746,0.06352641086648764,False,Right Foot,Open Play,0,0,2,Normal
-31.662280397975127,0.06109789505338292,False,Right Foot,Open Play,0,0,0,Normal
-22.2800359066138,0.060868037486846854,False,Left Foot,Open Play,1,0,2,Half Volley
-18.320753259623366,0.06314011673614718,False,Right Foot,Open Play,0,0,2,Normal
-18.768324379123467,0.06387799761180664,True,Left Foot,Open Play,0,0,3,Normal
-8.497058314499194,0.05653087693603595,False,Head,Open Play,0,1,4,Normal
-33.948784956165966,0.07574643206123922,False,Right Foot,Open Play,0,0,2,Normal
-16.4283291907607,0.058194616606403474,False,Head,Open Play,0,1,1,Normal
-26.38370709358334,0.06998106788393287,True,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879672,Valter Birsa,Chievo,15.654392354863218,0.0628066264832533,False,Left Foot,Open Play,0,1,3,Volley
+3879672,Gervais Lombe Yao Kouassi,AS Roma,13.76444695583517,0.06153192469478076,False,Left Foot,Open Play,0,0,2,Normal
+3879672,Umar Sadiq Mesbah,AS Roma,4.438468204234425,0.05591019860228796,True,Right Foot,Open Play,1,0,3,Normal
+3879672,Lucas Nahuel Castro,Chievo,18.041341413542394,0.056170406759189544,False,Right Foot,Open Play,1,1,2,Half Volley
+3879672,Perparim Hetemaj,Chievo,35.30509878190401,0.07294079910285665,False,Right Foot,Open Play,0,0,0,Normal
+3879672,Mohamed Salah,AS Roma,15.443445211480494,0.06275137283202804,False,Left Foot,Open Play,1,0,1,Half Volley
+3879672,Nicolas Sebastian Frey,Chievo,20.43624231604235,0.06487016965420553,False,Right Foot,Open Play,1,0,2,Normal
+3879672,Maicon Douglas Sisenando,AS Roma,29.333428030150174,0.06678081106344093,False,Right Foot,Open Play,0,0,1,Normal
+3879672,Umar Sadiq Mesbah,AS Roma,11.29291813483123,0.060499154843390614,False,Right Foot,Open Play,0,1,2,Normal
+3879672,Alessandro Florenzi,AS Roma,14.718695594379277,0.055409910912503746,True,Right Foot,Open Play,0,0,1,Normal
+3879672,Roberto Inglese,Chievo,7.738862965578344,0.05864581614888076,False,Right Foot,Open Play,0,1,4,Normal
+3879672,Alberto Paloschi,Chievo,3.1016124838541614,0.054464733505548577,True,Left Foot,Open Play,1,1,2,Normal
+3879672,Gervais Lombe Yao Kouassi,AS Roma,17.64794605612789,0.06404764738093999,False,Right Foot,Open Play,0,0,1,Half Volley
+3879672,Mohamed Salah,AS Roma,20.84922060893404,0.06608763649341719,False,Left Foot,Open Play,1,0,0,Half Volley
+3879672,Alessandro Florenzi,AS Roma,18.067650649710938,0.06438379038279937,False,Right Foot,Open Play,0,0,3,Normal
+3879672,Mohamed Salah,AS Roma,9.154780172128651,0.05873026913760759,False,Left Foot,Open Play,0,1,3,Half Volley
+3879672,Dario Dainelli,Chievo,5.220153254455279,0.057276358127666654,True,Left Foot,Open Play,1,0,3,Volley
+3879672,Gervais Lombe Yao Kouassi,AS Roma,26.752569970004746,0.06352641086648764,False,Right Foot,Open Play,0,0,2,Normal
+3879672,Alessandro Florenzi,AS Roma,31.662280397975127,0.06109789505338292,False,Right Foot,Open Play,0,0,0,Normal
+3879672,Valter Birsa,Chievo,22.2800359066138,0.060868037486846854,False,Left Foot,Open Play,1,0,2,Half Volley
+3879672,Gervais Lombe Yao Kouassi,AS Roma,18.320753259623366,0.06314011673614718,False,Right Foot,Open Play,0,0,2,Normal
+3879672,Iago Falqué Silva,AS Roma,18.768324379123467,0.06387799761180664,True,Left Foot,Open Play,0,0,3,Normal
+3879672,Boštjan Cesar,Chievo,8.497058314499194,0.05653087693603595,False,Head,Open Play,0,1,4,Normal
+3879672,Roberto Inglese,Chievo,33.948784956165966,0.07574643206123922,False,Right Foot,Open Play,0,0,2,Normal
+3879672,Roberto Inglese,Chievo,16.4283291907607,0.058194616606403474,False,Head,Open Play,0,1,1,Normal
+3879672,Simone Pepe,Chievo,26.38370709358334,0.06998106788393287,True,Right Foot,Free Kick,0,0,0,Normal

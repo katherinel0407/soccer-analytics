@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.43034319530397,0.05619199700958259,False,Left Foot,Open Play,1,0,4,Normal
-11.727318534089541,0.05917954871043753,False,Head,Open Play,0,1,4,Normal
-22.89650628371062,0.05745123935594499,False,Left Foot,Open Play,1,0,2,Normal
-27.286077035733808,0.07064446484032404,False,Left Foot,Open Play,0,0,1,Normal
-30.528675044947494,0.07308048920531349,False,Left Foot,Open Play,0,0,0,Normal
-32.398765408576914,0.07234806690815729,False,Right Foot,Open Play,0,0,2,Normal
-9.848857801796104,0.059657413278702213,False,Head,Open Play,0,1,5,Normal
-25.78410362994999,0.06945580309595503,False,Left Foot,Open Play,0,0,0,Normal
-13.50740537631118,0.05505961808437412,False,Head,Open Play,0,1,4,Normal
-27.735897317375546,0.06807310230179518,False,Right Foot,Open Play,0,0,1,Normal
-17.112568480505782,0.06359484062788916,False,Right Foot,Open Play,0,0,1,Normal
-7.736924453553884,0.05637277787111258,False,Right Foot,Open Play,1,0,2,Overhead Kick
-22.34390297150433,0.05552065603626291,False,Right Foot,Open Play,0,1,1,Normal
-12.473972903610143,0.058722750638996464,False,Right Foot,Open Play,0,1,1,Normal
-13.970325694127533,0.06165574120790232,False,Left Foot,Open Play,0,1,1,Normal
-7.52861208988748,0.05838282902236498,False,Left Foot,Open Play,1,0,2,Normal
-26.407006645964252,0.06432204879694364,False,Left Foot,Open Play,0,0,3,Normal
-16.82438706164358,0.061201478741088174,False,Left Foot,Open Play,0,0,2,Normal
-9.626006440887105,0.05948134326306459,False,Head,Open Play,0,1,4,Normal
-8.810221336606707,0.05915137658804204,False,Head,Open Play,0,1,2,Normal
-6.140032573203499,0.057822013500345805,True,Left Foot,Open Play,1,0,1,Half Volley
-10.93846424321074,0.05993059914537945,False,Head,Open Play,0,0,3,Normal
-30.56681206799296,0.05841848058737771,False,Right Foot,Open Play,1,1,3,Normal
-13.727709204379291,0.06136888586312341,False,Head,Open Play,0,0,1,Normal
-19.535864454894238,0.0653712724440732,False,Left Foot,Open Play,0,0,1,Normal
-10.486181383134658,0.056130082725961414,False,Head,Open Play,0,0,2,Normal
-12.081390648431169,0.06071739067808443,False,Right Foot,Open Play,1,0,3,Half Volley
-4.237924020083418,0.055964748748145374,True,Right Foot,Open Play,1,0,3,Half Volley
-38.38880045013128,0.07535891297929331,False,Right Foot,Open Play,0,0,1,Normal
-10.22007827758672,0.057674200727001364,False,Head,Open Play,0,1,1,Diving Header
-21.10213259365033,0.0637318109571036,False,Right Foot,Open Play,0,1,3,Normal
-9.075791976461332,0.05721426482783518,False,Head,Open Play,0,1,4,Normal
-26.340083523026266,0.06871437250838808,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879565,Roberto Soriano,Sampdoria,7.43034319530397,0.05619199700958259,False,Left Foot,Open Play,1,0,4,Normal
+3879565,Ervin Zukanović,Sampdoria,11.727318534089541,0.05917954871043753,False,Head,Open Play,0,1,4,Normal
+3879565,Eder Citadin Martins,Sampdoria,22.89650628371062,0.05745123935594499,False,Left Foot,Open Play,1,0,2,Normal
+3879565,Geoffrey Kondogbia,Inter Milan,27.286077035733808,0.07064446484032404,False,Left Foot,Open Play,0,0,1,Normal
+3879565,Djamel Eddine Mesbah,Sampdoria,30.528675044947494,0.07308048920531349,False,Left Foot,Open Play,0,0,0,Normal
+3879565,Carlos Joaquín Correa,Sampdoria,32.398765408576914,0.07234806690815729,False,Right Foot,Open Play,0,0,2,Normal
+3879565,Roberto Soriano,Sampdoria,9.848857801796104,0.059657413278702213,False,Head,Open Play,0,1,5,Normal
+3879565,Alex Nicolao Telles,Inter Milan,25.78410362994999,0.06945580309595503,False,Left Foot,Open Play,0,0,0,Normal
+3879565,Niklas Moisander,Sampdoria,13.50740537631118,0.05505961808437412,False,Head,Open Play,0,1,4,Normal
+3879565,Fredy Alejandro Guarín Vásquez,Inter Milan,27.735897317375546,0.06807310230179518,False,Right Foot,Open Play,0,0,1,Normal
+3879565,Rodrigo Sebastián Palacio,Inter Milan,17.112568480505782,0.06359484062788916,False,Right Foot,Open Play,0,0,1,Normal
+3879565,Fredy Alejandro Guarín Vásquez,Inter Milan,7.736924453553884,0.05637277787111258,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3879565,Fernando Lucas Martins,Sampdoria,22.34390297150433,0.05552065603626291,False,Right Foot,Open Play,0,1,1,Normal
+3879565,Eder Citadin Martins,Sampdoria,12.473972903610143,0.058722750638996464,False,Right Foot,Open Play,0,1,1,Normal
+3879565,Carlos Joaquín Correa,Sampdoria,13.970325694127533,0.06165574120790232,False,Left Foot,Open Play,0,1,1,Normal
+3879565,Carlos Joaquín Correa,Sampdoria,7.52861208988748,0.05838282902236498,False,Left Foot,Open Play,1,0,2,Normal
+3879565,Ivan Perišić,Inter Milan,26.407006645964252,0.06432204879694364,False,Left Foot,Open Play,0,0,3,Normal
+3879565,Rodrigo Sebastián Palacio,Inter Milan,16.82438706164358,0.061201478741088174,False,Left Foot,Open Play,0,0,2,Normal
+3879565,Felipe Melo de Carvalho,Inter Milan,9.626006440887105,0.05948134326306459,False,Head,Open Play,0,1,4,Normal
+3879565,Luis Fernando Muriel Fruto,Sampdoria,8.810221336606707,0.05915137658804204,False,Head,Open Play,0,1,2,Normal
+3879565,Luis Fernando Muriel Fruto,Sampdoria,6.140032573203499,0.057822013500345805,True,Left Foot,Open Play,1,0,1,Half Volley
+3879565,Fredy Alejandro Guarín Vásquez,Inter Milan,10.93846424321074,0.05993059914537945,False,Head,Open Play,0,0,3,Normal
+3879565,Eder Citadin Martins,Sampdoria,30.56681206799296,0.05841848058737771,False,Right Foot,Open Play,1,1,3,Normal
+3879565,Ivan Perišić,Inter Milan,13.727709204379291,0.06136888586312341,False,Head,Open Play,0,0,1,Normal
+3879565,Luis Fernando Muriel Fruto,Sampdoria,19.535864454894238,0.0653712724440732,False,Left Foot,Open Play,0,0,1,Normal
+3879565,Jonathan Ludovic Biabiany,Inter Milan,10.486181383134658,0.056130082725961414,False,Head,Open Play,0,0,2,Normal
+3879565,Mauro Emanuel Icardi Rivero,Inter Milan,12.081390648431169,0.06071739067808443,False,Right Foot,Open Play,1,0,3,Half Volley
+3879565,Ivan Perišić,Inter Milan,4.237924020083418,0.055964748748145374,True,Right Foot,Open Play,1,0,3,Half Volley
+3879565,Fredy Alejandro Guarín Vásquez,Inter Milan,38.38880045013128,0.07535891297929331,False,Right Foot,Open Play,0,0,1,Normal
+3879565,Jonathan Ludovic Biabiany,Inter Milan,10.22007827758672,0.057674200727001364,False,Head,Open Play,0,1,1,Diving Header
+3879565,Rey Manaj,Inter Milan,21.10213259365033,0.0637318109571036,False,Right Foot,Open Play,0,1,3,Normal
+3879565,Ivan Perišić,Inter Milan,9.075791976461332,0.05721426482783518,False,Head,Open Play,0,1,4,Normal
+3879565,Felipe Melo de Carvalho,Inter Milan,26.340083523026266,0.06871437250838808,False,Right Foot,Open Play,1,0,0,Normal

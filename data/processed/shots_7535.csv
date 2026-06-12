@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.246211251235321,0.05729034715112584,False,Head,Open Play,0,0,4,Normal
-12.041594578792296,0.05164525489740996,False,Right Foot,Open Play,0,0,2,Normal
-9.433981132056603,0.056265246776306774,False,Head,Open Play,0,0,2,Normal
-33.60059523282288,0.07519987027185061,False,Left Foot,Open Play,0,0,1,Normal
-8.94427190999916,0.05387183091048422,False,Head,Open Play,0,0,2,Normal
-20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,0,0,2,Normal
-8.94427190999916,0.058627918422720963,False,Head,Open Play,0,0,2,Normal
-24.08318915758459,0.06399068887447368,False,Left Foot,Open Play,0,0,2,Normal
-21.95449840010015,0.06693643838392781,False,Right Foot,Open Play,0,0,1,Normal
-11.045361017187261,0.05952356516638149,False,Right Foot,Open Play,0,0,2,Normal
-6.082762530298219,0.05684693128876285,False,Head,Open Play,0,0,2,Normal
-32.202484376209235,0.05586688024550527,True,Left Foot,Free Kick,0,0,0,Normal
-12.083045973594572,0.05736897543158315,False,Head,Open Play,0,0,1,Normal
-26.1725046566048,0.06741209291206611,False,Right Foot,Open Play,0,0,2,Normal
-2.8284271247461903,0.05505001968421566,False,Right Foot,Open Play,1,0,3,Normal
-20.396078054371138,0.06478783676244906,False,Left Foot,Open Play,0,0,3,Normal
-24.758836806279895,0.0546860113505705,False,Left Foot,Open Play,0,0,3,Normal
-20.223748416156685,0.061768608541538206,False,Right Foot,Open Play,0,0,4,Normal
-21.470910553583888,0.06658130687966891,False,Left Foot,Open Play,0,1,2,Normal
-41.593268686170845,0.07887270235530039,False,Right Foot,Open Play,0,0,0,Normal
-12.041594578792296,0.060692049275192485,False,Head,Open Play,0,0,1,Normal
-14.142135623730951,0.059676776021163,False,Left Foot,Open Play,0,0,4,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7535,Aleksandar Mitrović,Serbia,8.246211251235321,0.05729034715112584,False,Head,Open Play,0,0,4,Normal
+7535,Marcos Danilo Ureña Porras,Costa Rica,12.041594578792296,0.05164525489740996,False,Right Foot,Open Play,0,0,2,Normal
+7535,Giancarlo González Castro,Costa Rica,9.433981132056603,0.056265246776306774,False,Head,Open Play,0,0,2,Normal
+7535,Aleksandar Kolarov,Serbia,33.60059523282288,0.07519987027185061,False,Left Foot,Open Play,0,0,1,Normal
+7535,Giancarlo González Castro,Costa Rica,8.94427190999916,0.05387183091048422,False,Head,Open Play,0,0,2,Normal
+7535,Aleksandar Mitrović,Serbia,20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,0,0,2,Normal
+7535,Aleksandar Mitrović,Serbia,8.94427190999916,0.058627918422720963,False,Head,Open Play,0,0,2,Normal
+7535,Marcos Danilo Ureña Porras,Costa Rica,24.08318915758459,0.06399068887447368,False,Left Foot,Open Play,0,0,2,Normal
+7535,Francisco Javier Calvo Quesada,Costa Rica,21.95449840010015,0.06693643838392781,False,Right Foot,Open Play,0,0,1,Normal
+7535,Aleksandar Mitrović,Serbia,11.045361017187261,0.05952356516638149,False,Right Foot,Open Play,0,0,2,Normal
+7535,Aleksandar Mitrović,Serbia,6.082762530298219,0.05684693128876285,False,Head,Open Play,0,0,2,Normal
+7535,Aleksandar Kolarov,Serbia,32.202484376209235,0.05586688024550527,True,Left Foot,Free Kick,0,0,0,Normal
+7535,Sergej Milinković-Savić,Serbia,12.083045973594572,0.05736897543158315,False,Head,Open Play,0,0,1,Normal
+7535,Sergej Milinković-Savić,Serbia,26.1725046566048,0.06741209291206611,False,Right Foot,Open Play,0,0,2,Normal
+7535,Filip Kostić,Serbia,2.8284271247461903,0.05505001968421566,False,Right Foot,Open Play,1,0,3,Normal
+7535,Nemanja Matić,Serbia,20.396078054371138,0.06478783676244906,False,Left Foot,Open Play,0,0,3,Normal
+7535,Joel Nathaniel Campbell Samuels,Costa Rica,24.758836806279895,0.0546860113505705,False,Left Foot,Open Play,0,0,3,Normal
+7535,Celso Borges Mora,Costa Rica,20.223748416156685,0.061768608541538206,False,Right Foot,Open Play,0,0,4,Normal
+7535,Filip Kostić,Serbia,21.470910553583888,0.06658130687966891,False,Left Foot,Open Play,0,1,2,Normal
+7535,Cristian Gamboa Luna,Costa Rica,41.593268686170845,0.07887270235530039,False,Right Foot,Open Play,0,0,0,Normal
+7535,Óscar Esau Duarte Gaitán,Costa Rica,12.041594578792296,0.060692049275192485,False,Head,Open Play,0,0,1,Normal
+7535,Bryan Ruiz González,Costa Rica,14.142135623730951,0.059676776021163,False,Left Foot,Open Play,0,0,4,Half Volley

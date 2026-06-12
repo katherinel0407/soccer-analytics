@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.496665925596524,0.0531478217816243,False,Right Foot,Open Play,1,0,2,Half Volley
-10.801851693112619,0.0590226053058204,False,Left Foot,Open Play,1,0,3,Volley
-9.94032192637643,0.05350957230353908,False,Head,Open Play,0,1,2,Normal
-20.447493733951852,0.06502428045629727,False,Right Foot,Open Play,1,0,0,Volley
-26.521689237301608,0.060575384907259146,False,Right Foot,Open Play,0,0,1,Normal
-19.14079413190581,0.06302682229703975,False,Right Foot,Open Play,0,0,2,Normal
-7.119691004531025,0.05713594432180708,False,Right Foot,Open Play,1,0,3,Backheel
-22.823233776132597,0.0672580364890111,False,Right Foot,Open Play,0,0,2,Normal
-8.485281374238577,0.057714660915776074,False,Head,Open Play,0,0,3,Normal
-18.943336559328724,0.06459818069004378,False,Left Foot,Open Play,1,0,0,Normal
-17.364331256918597,0.0532119154012327,False,Right Foot,Open Play,0,0,2,Normal
-24.135036772294335,0.06821517487399015,False,Right Foot,Open Play,1,0,0,Normal
-21.961101975993827,0.06408244768991393,False,Right Foot,Open Play,0,0,3,Normal
-7.045565981523414,0.0578102576564201,True,Left Foot,Open Play,1,0,2,Volley
-5.508175741568162,0.0564221996673286,False,Head,Open Play,0,0,4,Normal
-18.69679116854012,0.06165141441352648,False,Left Foot,Open Play,1,0,2,Normal
-13.81918955655504,0.06068721975703984,False,Left Foot,Open Play,0,0,1,Normal
-25.709531306501876,0.06542502050226584,False,Left Foot,Open Play,1,0,1,Half Volley
-21.693316943243143,0.05279364766285204,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+22948,Amandine Henry,France Women's,7.496665925596524,0.0531478217816243,False,Right Foot,Open Play,1,0,2,Half Volley
+22948,Karina Sævik,Norway Women's,10.801851693112619,0.0590226053058204,False,Left Foot,Open Play,1,0,3,Volley
+22948,Ingrid Syrstad Engen,Norway Women's,9.94032192637643,0.05350957230353908,False,Head,Open Play,0,1,2,Normal
+22948,Eugénie Le Sommer,France Women's,20.447493733951852,0.06502428045629727,False,Right Foot,Open Play,1,0,0,Volley
+22948,Kadidiatou Diani,France Women's,26.521689237301608,0.060575384907259146,False,Right Foot,Open Play,0,0,1,Normal
+22948,Eugénie Le Sommer,France Women's,19.14079413190581,0.06302682229703975,False,Right Foot,Open Play,0,0,2,Normal
+22948,Valérie Gauvin,France Women's,7.119691004531025,0.05713594432180708,False,Right Foot,Open Play,1,0,3,Backheel
+22948,Eugénie Le Sommer,France Women's,22.823233776132597,0.0672580364890111,False,Right Foot,Open Play,0,0,2,Normal
+22948,Valérie Gauvin,France Women's,8.485281374238577,0.057714660915776074,False,Head,Open Play,0,0,3,Normal
+22948,Karina Sævik,Norway Women's,18.943336559328724,0.06459818069004378,False,Left Foot,Open Play,1,0,0,Normal
+22948,Ingrid Moe Wold,Norway Women's,17.364331256918597,0.0532119154012327,False,Right Foot,Open Play,0,0,2,Normal
+22948,Elise Bussaglia,France Women's,24.135036772294335,0.06821517487399015,False,Right Foot,Open Play,1,0,0,Normal
+22948,Amel Majri,France Women's,21.961101975993827,0.06408244768991393,False,Right Foot,Open Play,0,0,3,Normal
+22948,Valérie Gauvin,France Women's,7.045565981523414,0.0578102576564201,True,Left Foot,Open Play,1,0,2,Volley
+22948,Valérie Gauvin,France Women's,5.508175741568162,0.0564221996673286,False,Head,Open Play,0,0,4,Normal
+22948,Valérie Gauvin,France Women's,18.69679116854012,0.06165141441352648,False,Left Foot,Open Play,1,0,2,Normal
+22948,Valérie Gauvin,France Women's,13.81918955655504,0.06068721975703984,False,Left Foot,Open Play,0,0,1,Normal
+22948,Amel Majri,France Women's,25.709531306501876,0.06542502050226584,False,Left Foot,Open Play,1,0,1,Half Volley
+22948,Marion Torrent,France Women's,21.693316943243143,0.05279364766285204,False,Right Foot,Open Play,0,0,1,Normal
+22948,Eugénie Le Sommer,France Women's,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal

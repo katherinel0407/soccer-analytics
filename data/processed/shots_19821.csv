@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.890362712049583,0.0521465932860861,False,Right Foot,Open Play,0,0,1,Normal
-22.343902971504324,0.06350804770310989,False,Left Foot,Open Play,0,0,1,Normal
-7.877182237323185,0.05871780231600314,False,Head,Open Play,0,0,4,Normal
-21.84902743830947,0.057507708485088474,False,Left Foot,Open Play,0,0,2,Normal
-29.133657511544953,0.06668437789994518,False,Right Foot,Open Play,0,0,1,Half Volley
-12.60872713639248,0.05774381611488071,False,Right Foot,Open Play,0,0,2,Normal
-19.33132173442882,0.06038780494363766,False,Head,Open Play,0,1,2,Normal
-15.322206107476815,0.06277490931238067,False,Left Foot,Open Play,0,1,1,Normal
-22.787935404507362,0.06340595193341937,False,Left Foot,Open Play,0,0,0,Normal
-27.557213211789026,0.062424522273010805,False,Right Foot,Free Kick,0,0,0,Normal
-32.52199255888237,0.07468872775745164,False,Left Foot,Open Play,0,0,1,Normal
-14.303146506975306,0.06221533613368962,False,Left Foot,Open Play,0,0,2,Normal
-16.546298679765215,0.05504129256046215,False,Right Foot,Open Play,0,0,2,Normal
-6.806614430096658,0.05705252384072687,False,Head,Open Play,0,1,4,Normal
-6.161168720299744,0.057595671603689974,False,Right Foot,Open Play,1,0,2,Volley
-15.532224567009067,0.0567455315905252,False,Right Foot,Open Play,0,0,4,Normal
-10.48093507278812,0.05976787917959275,False,Head,Open Play,0,1,4,Normal
-24.605080776132404,0.06008088197870737,False,Left Foot,Open Play,0,0,1,Normal
-10.63014581273465,0.054870611340051216,False,Head,Open Play,0,0,1,Normal
-22.532199182503252,0.06630471506312349,False,Right Foot,Open Play,0,0,1,Half Volley
-21.707602354935464,0.06126527434436644,False,Right Foot,Open Play,0,0,0,Normal
-28.00589223717038,0.05855973196146038,False,Left Foot,Open Play,0,0,0,Normal
-27.637112729082244,0.06988997462395591,False,Left Foot,Open Play,0,0,1,Normal
-20.426698215815502,0.06594728534482402,False,Right Foot,Open Play,0,0,1,Half Volley
-24.924285345822863,0.0659270423190834,True,Left Foot,Open Play,0,0,2,Normal
-11.321660655575224,0.05500092270237106,False,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19821,Bethany Mead,Arsenal WFC,10.890362712049583,0.0521465932860861,False,Right Foot,Open Play,0,0,1,Normal
+19821,Vivianne Miedema,Arsenal WFC,22.343902971504324,0.06350804770310989,False,Left Foot,Open Play,0,0,1,Normal
+19821,Leah Williamson,Arsenal WFC,7.877182237323185,0.05871780231600314,False,Head,Open Play,0,0,4,Normal
+19821,Tessa Wullaert,Manchester City WFC,21.84902743830947,0.057507708485088474,False,Left Foot,Open Play,0,0,2,Normal
+19821,Keira Walsh,Manchester City WFC,29.133657511544953,0.06668437789994518,False,Right Foot,Open Play,0,0,1,Half Volley
+19821,Kim Little,Arsenal WFC,12.60872713639248,0.05774381611488071,False,Right Foot,Open Play,0,0,2,Normal
+19821,Lauren Hemp,Manchester City WFC,19.33132173442882,0.06038780494363766,False,Head,Open Play,0,1,2,Normal
+19821,Vivianne Miedema,Arsenal WFC,15.322206107476815,0.06277490931238067,False,Left Foot,Open Play,0,1,1,Normal
+19821,Viktoria Schnaderbeck,Arsenal WFC,22.787935404507362,0.06340595193341937,False,Left Foot,Open Play,0,0,0,Normal
+19821,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,27.557213211789026,0.062424522273010805,False,Right Foot,Free Kick,0,0,0,Normal
+19821,Katie McCabe,Arsenal WFC,32.52199255888237,0.07468872775745164,False,Left Foot,Open Play,0,0,1,Normal
+19821,Viktoria Schnaderbeck,Arsenal WFC,14.303146506975306,0.06221533613368962,False,Left Foot,Open Play,0,0,2,Normal
+19821,Janine Elizabeth Beckie,Manchester City WFC,16.546298679765215,0.05504129256046215,False,Right Foot,Open Play,0,0,2,Normal
+19821,Jill Scott,Manchester City WFC,6.806614430096658,0.05705252384072687,False,Head,Open Play,0,1,4,Normal
+19821,Danielle van de Donk,Arsenal WFC,6.161168720299744,0.057595671603689974,False,Right Foot,Open Play,1,0,2,Volley
+19821,Tessa Wullaert,Manchester City WFC,15.532224567009067,0.0567455315905252,False,Right Foot,Open Play,0,0,4,Normal
+19821,Lauren Hemp,Manchester City WFC,10.48093507278812,0.05976787917959275,False,Head,Open Play,0,1,4,Normal
+19821,Georgia Stanway,Manchester City WFC,24.605080776132404,0.06008088197870737,False,Left Foot,Open Play,0,0,1,Normal
+19821,Pauline Bremer,Manchester City WFC,10.63014581273465,0.054870611340051216,False,Head,Open Play,0,0,1,Normal
+19821,Stephanie Houghton,Manchester City WFC,22.532199182503252,0.06630471506312349,False,Right Foot,Open Play,0,0,1,Half Volley
+19821,Danielle Carter,Arsenal WFC,21.707602354935464,0.06126527434436644,False,Right Foot,Open Play,0,0,0,Normal
+19821,Tessa Wullaert,Manchester City WFC,28.00589223717038,0.05855973196146038,False,Left Foot,Open Play,0,0,0,Normal
+19821,Lauren Hemp,Manchester City WFC,27.637112729082244,0.06988997462395591,False,Left Foot,Open Play,0,0,1,Normal
+19821,Keira Walsh,Manchester City WFC,20.426698215815502,0.06594728534482402,False,Right Foot,Open Play,0,0,1,Half Volley
+19821,Emma Mukandi,Arsenal WFC,24.924285345822863,0.0659270423190834,True,Left Foot,Open Play,0,0,2,Normal
+19821,Pauline Bremer,Manchester City WFC,11.321660655575224,0.05500092270237106,False,Left Foot,Open Play,1,0,1,Volley

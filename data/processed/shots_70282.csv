@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.51657158058516,0.06741567372127186,False,Left Foot,Open Play,0,0,1,Normal
-21.24335190124195,0.05528755401953371,False,Right Foot,Open Play,0,0,2,Normal
-9.916148445843278,0.059649345433024234,False,Head,Open Play,0,0,3,Normal
-21.602083232873625,0.06659852250603343,False,Left Foot,Open Play,1,0,0,Half Volley
-8.919641248391109,0.059084103599774236,False,Head,Open Play,0,1,4,Normal
-16.971151993898356,0.0634690408757447,False,Left Foot,Open Play,1,0,0,Volley
-24.429490375363958,0.06572828335032926,False,Left Foot,Free Kick,0,0,1,Normal
-9.716995420396168,0.056980449692336045,False,Head,Open Play,0,0,4,Normal
-15.072159765607585,0.06261498362087511,True,Right Foot,Open Play,0,1,1,Normal
-9.716480844420984,0.05808578079990548,False,Right Foot,Open Play,0,0,3,Overhead Kick
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-32.55917689377297,0.07472024215097572,False,Left Foot,Open Play,0,1,2,Normal
-15.181897114655994,0.0626949894459108,False,Right Foot,Open Play,0,0,3,Normal
-10.278618584226193,0.05977016740470145,False,Head,Open Play,0,1,1,Normal
-16.903549923019128,0.06339466033956279,False,Left Foot,Open Play,0,1,1,Normal
-32.40447499960461,0.057164479559017635,False,Left Foot,Free Kick,0,0,0,Normal
-29.408332152640014,0.06798839101512422,False,Left Foot,Open Play,0,0,0,Half Volley
-21.180415482232636,0.0511354812713946,False,Right Foot,Open Play,1,1,1,Half Volley
-19.72308292331602,0.052457097521229214,False,Right Foot,Open Play,0,1,1,Half Volley
-23.75415753084079,0.06682865803278855,False,Left Foot,Open Play,0,0,1,Normal
-7.992496481075233,0.056101890917409664,False,Head,Open Play,0,0,4,Normal
-19.41777536176583,0.06394239998527927,False,Left Foot,Open Play,1,0,0,Normal
-12.389108119634765,0.061091794541565415,False,Left Foot,Open Play,1,0,1,Half Volley
-38.00052631214468,0.07223884473744464,False,Left Foot,Free Kick,0,0,0,Normal
-17.647662734764623,0.05600523338096149,False,Left Foot,Open Play,0,0,3,Normal
-11.428473213863702,0.060609206477843916,False,Right Foot,Open Play,1,0,1,Normal
-23.544001359157278,0.06799172493636534,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70282,Alberto Facundo Costa,Valencia,36.51657158058516,0.06741567372127186,False,Left Foot,Open Play,0,0,1,Normal
+70282,Francesc Fàbregas i Soler,Barcelona,21.24335190124195,0.05528755401953371,False,Right Foot,Open Play,0,0,2,Normal
+70282,Gerard Piqué Bernabéu,Barcelona,9.916148445843278,0.059649345433024234,False,Head,Open Play,0,0,3,Normal
+70282,José Andrés Guardado Hernández,Valencia,21.602083232873625,0.06659852250603343,False,Left Foot,Open Play,1,0,0,Half Volley
+70282,Adil Rami,Valencia,8.919641248391109,0.059084103599774236,False,Head,Open Play,0,1,4,Normal
+70282,José Andrés Guardado Hernández,Valencia,16.971151993898356,0.0634690408757447,False,Left Foot,Open Play,1,0,0,Volley
+70282,Alberto Facundo Costa,Valencia,24.429490375363958,0.06572828335032926,False,Left Foot,Free Kick,0,0,1,Normal
+70282,Ricardo Miguel Moreira da Costa,Valencia,9.716995420396168,0.056980449692336045,False,Head,Open Play,0,0,4,Normal
+70282,Éver Maximiliano David Banega,Valencia,15.072159765607585,0.06261498362087511,True,Right Foot,Open Play,0,1,1,Normal
+70282,Roberto Soldado Rillo,Valencia,9.716480844420984,0.05808578079990548,False,Right Foot,Open Play,0,0,3,Overhead Kick
+70282,Lionel Andrés Messi Cuccittini,Barcelona,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+70282,José Andrés Guardado Hernández,Valencia,32.55917689377297,0.07472024215097572,False,Left Foot,Open Play,0,1,2,Normal
+70282,Lionel Andrés Messi Cuccittini,Barcelona,15.181897114655994,0.0626949894459108,False,Right Foot,Open Play,0,0,3,Normal
+70282,Roberto Soldado Rillo,Valencia,10.278618584226193,0.05977016740470145,False,Head,Open Play,0,1,1,Normal
+70282,Francesc Fàbregas i Soler,Barcelona,16.903549923019128,0.06339466033956279,False,Left Foot,Open Play,0,1,1,Normal
+70282,Alberto Facundo Costa,Valencia,32.40447499960461,0.057164479559017635,False,Left Foot,Free Kick,0,0,0,Normal
+70282,Lionel Andrés Messi Cuccittini,Barcelona,29.408332152640014,0.06798839101512422,False,Left Foot,Open Play,0,0,0,Half Volley
+70282,Roberto Soldado Rillo,Valencia,21.180415482232636,0.0511354812713946,False,Right Foot,Open Play,1,1,1,Half Volley
+70282,Roberto Soldado Rillo,Valencia,19.72308292331602,0.052457097521229214,False,Right Foot,Open Play,0,1,1,Half Volley
+70282,Sergio Canales Madrazo,Valencia,23.75415753084079,0.06682865803278855,False,Left Foot,Open Play,0,0,1,Normal
+70282,Adil Rami,Valencia,7.992496481075233,0.056101890917409664,False,Head,Open Play,0,0,4,Normal
+70282,Alberto Facundo Costa,Valencia,19.41777536176583,0.06394239998527927,False,Left Foot,Open Play,1,0,0,Normal
+70282,David Villa Sánchez,Barcelona,12.389108119634765,0.061091794541565415,False,Left Foot,Open Play,1,0,1,Half Volley
+70282,Lionel Andrés Messi Cuccittini,Barcelona,38.00052631214468,0.07223884473744464,False,Left Foot,Free Kick,0,0,0,Normal
+70282,Pedro Eliezer Rodríguez Ledesma,Barcelona,17.647662734764623,0.05600523338096149,False,Left Foot,Open Play,0,0,3,Normal
+70282,Roberto Soldado Rillo,Valencia,11.428473213863702,0.060609206477843916,False,Right Foot,Open Play,1,0,1,Normal
+70282,Lionel Andrés Messi Cuccittini,Barcelona,23.544001359157278,0.06799172493636534,False,Left Foot,Open Play,0,0,3,Normal

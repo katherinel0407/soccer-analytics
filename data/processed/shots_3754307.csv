@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.112185361118758,0.05992182073500119,False,Left Foot,Open Play,0,1,3,Normal
-35.905013577493605,0.05436873261985635,False,Right Foot,Free Kick,0,0,0,Normal
-12.07849328351844,0.060513465823620466,False,Right Foot,Open Play,1,0,1,Volley
-23.216588896735026,0.06777628168044078,False,Left Foot,Open Play,0,0,1,Normal
-25.898455552406983,0.0641514532505179,False,Left Foot,Open Play,0,0,0,Half Volley
-9.33434518324665,0.058206825667204434,False,Head,Open Play,0,0,2,Normal
-33.89999999999999,0.07246945527980823,False,Left Foot,Open Play,0,0,2,Normal
-7.881624198095207,0.05459685279892118,True,Head,Open Play,0,1,4,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-26.075467397536716,0.0621310419004124,False,Right Foot,Open Play,1,0,1,Half Volley
-40.80441152620633,0.07407992889361147,False,Right Foot,Open Play,1,0,1,Half Volley
-29.71363323459452,0.06725417175991322,False,Right Foot,Free Kick,0,0,0,Normal
-13.551752654177246,0.06171325618619424,False,Right Foot,Open Play,1,1,2,Normal
-29.150986261188493,0.06002398162979683,False,Left Foot,Open Play,0,0,1,Normal
-10.840664186294118,0.055916460265579365,False,Head,Open Play,0,0,4,Normal
-16.614752480852665,0.0618460372005503,False,Right Foot,Open Play,1,0,0,Normal
-16.555663683464942,0.06294725912283208,False,Right Foot,Open Play,0,0,2,Normal
-6.2201286160335965,0.05787342070037427,False,Left Foot,Open Play,1,0,2,Backheel
-10.124228365658288,0.0585629329697721,True,Left Foot,Open Play,1,0,1,Normal
-32.89772028575841,0.07413488485260097,False,Left Foot,Open Play,0,0,1,Normal
-12.76244490683505,0.05381949991384448,False,Head,Open Play,0,1,2,Normal
-13.368619973654726,0.061647719831968026,True,Left Foot,Open Play,0,0,1,Normal
-30.303300150313664,0.06939703471327482,False,Left Foot,Free Kick,0,0,0,Normal
-18.610212250267324,0.06479538418663798,False,Left Foot,Open Play,0,1,2,Overhead Kick
-11.73882447266335,0.052377057146130834,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754307,Kelechi Promise Iheanacho,Manchester City,20.112185361118758,0.05992182073500119,False,Left Foot,Open Play,0,1,3,Normal
+3754307,Glenn Whelan,Stoke City,35.905013577493605,0.05436873261985635,False,Right Foot,Free Kick,0,0,0,Normal
+3754307,Ryan Shawcross,Stoke City,12.07849328351844,0.060513465823620466,False,Right Foot,Open Play,1,0,1,Volley
+3754307,Aleksandar Kolarov,Manchester City,23.216588896735026,0.06777628168044078,False,Left Foot,Open Play,0,0,1,Normal
+3754307,Gilbert Gianelli Imbula Wanga,Stoke City,25.898455552406983,0.0641514532505179,False,Left Foot,Open Play,0,0,0,Half Volley
+3754307,José Luis Sanmartín Mato,Stoke City,9.33434518324665,0.058206825667204434,False,Head,Open Play,0,0,2,Normal
+3754307,Gilbert Gianelli Imbula Wanga,Stoke City,33.89999999999999,0.07246945527980823,False,Left Foot,Open Play,0,0,2,Normal
+3754307,Fernando Francisco Reges,Manchester City,7.881624198095207,0.05459685279892118,True,Head,Open Play,0,1,4,Normal
+3754307,Sergio Leonel Agüero del Castillo,Manchester City,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3754307,Glenn Whelan,Stoke City,26.075467397536716,0.0621310419004124,False,Right Foot,Open Play,1,0,1,Half Volley
+3754307,Nicolás Hernán Otamendi,Manchester City,40.80441152620633,0.07407992889361147,False,Right Foot,Open Play,1,0,1,Half Volley
+3754307,Phil Bardsley,Stoke City,29.71363323459452,0.06725417175991322,False,Right Foot,Free Kick,0,0,0,Normal
+3754307,José Luis Sanmartín Mato,Stoke City,13.551752654177246,0.06171325618619424,False,Right Foot,Open Play,1,1,2,Normal
+3754307,Kelechi Promise Iheanacho,Manchester City,29.150986261188493,0.06002398162979683,False,Left Foot,Open Play,0,0,1,Normal
+3754307,Mame Biram Diouf,Stoke City,10.840664186294118,0.055916460265579365,False,Head,Open Play,0,0,4,Normal
+3754307,Gnégnéri Yaya Touré,Manchester City,16.614752480852665,0.0618460372005503,False,Right Foot,Open Play,1,0,0,Normal
+3754307,Marko Arnautović,Stoke City,16.555663683464942,0.06294725912283208,False,Right Foot,Open Play,0,0,2,Normal
+3754307,Kelechi Promise Iheanacho,Manchester City,6.2201286160335965,0.05787342070037427,False,Left Foot,Open Play,1,0,2,Backheel
+3754307,Kelechi Promise Iheanacho,Manchester City,10.124228365658288,0.0585629329697721,True,Left Foot,Open Play,1,0,1,Normal
+3754307,Gilbert Gianelli Imbula Wanga,Stoke City,32.89772028575841,0.07413488485260097,False,Left Foot,Open Play,0,0,1,Normal
+3754307,Nicolás Hernán Otamendi,Manchester City,12.76244490683505,0.05381949991384448,False,Head,Open Play,0,1,2,Normal
+3754307,Kelechi Promise Iheanacho,Manchester City,13.368619973654726,0.061647719831968026,True,Left Foot,Open Play,0,0,1,Normal
+3754307,Gilbert Gianelli Imbula Wanga,Stoke City,30.303300150313664,0.06939703471327482,False,Left Foot,Free Kick,0,0,0,Normal
+3754307,Marc Muniesa Martínez,Stoke City,18.610212250267324,0.06479538418663798,False,Left Foot,Open Play,0,1,2,Overhead Kick
+3754307,Mame Biram Diouf,Stoke City,11.73882447266335,0.052377057146130834,False,Right Foot,Open Play,1,0,1,Half Volley

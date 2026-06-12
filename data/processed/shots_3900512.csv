@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.067249408344146,0.0643899171905763,False,Left Foot,Open Play,1,0,1,Normal
-6.428841264178176,0.05669983975450974,False,Right Foot,Open Play,1,0,3,Normal
-21.83575050232989,0.05809114339297163,False,Right Foot,Open Play,1,1,0,Volley
-14.01855912710004,0.05897486926708596,True,Head,Open Play,0,1,4,Normal
-2.9154759474226553,0.05605683204220449,True,Head,Open Play,0,0,5,Normal
-38.20837604505065,0.07276401506386,False,Right Foot,Open Play,1,0,0,Half Volley
-15.250573759698351,0.05849900958234895,False,Right Foot,Open Play,1,1,4,Volley
-17.861690849412884,0.06433196034640427,False,Right Foot,Open Play,1,1,1,Volley
-32.73545478529358,0.06477793107888893,False,Right Foot,Open Play,0,0,2,Normal
-28.443101096751036,0.07122353441489122,False,Right Foot,Open Play,1,1,4,Half Volley
-16.18950277185806,0.06066868389197191,False,Left Foot,Open Play,1,1,1,Half Volley
-8.077747210701762,0.058815484476926805,False,Head,Open Play,0,1,5,Normal
-35.784074670165786,0.0526798440582894,False,Left Foot,Open Play,1,0,0,Normal
-9.180958555619345,0.05615657763770705,False,Head,Open Play,0,0,4,Normal
-37.636418533117634,0.06343817274458967,False,Left Foot,Open Play,1,0,1,Normal
-12.234786471369247,0.05509040034983736,False,Head,Open Play,0,0,3,Normal
-13.720787149431336,0.06173144946801429,True,Left Foot,Open Play,0,0,1,Normal
-15.700318468107575,0.059211320295689,False,Head,Open Play,0,1,2,Normal
-14.040655255364685,0.05843093612296814,False,Head,Open Play,0,1,4,Normal
-29.798154305258578,0.052016521825656054,False,Left Foot,Free Kick,0,0,0,Normal
-30.900000000000006,0.0683640194624415,False,Left Foot,Open Play,0,1,1,Normal
-4.15932686861708,0.056635000369738,True,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900512,Ryad Boudebouz,Montpellier,19.067249408344146,0.0643899171905763,False,Left Foot,Open Play,1,0,1,Normal
+3900512,Mustapha Yatabaré,Montpellier,6.428841264178176,0.05669983975450974,False,Right Foot,Open Play,1,0,3,Normal
+3900512,Rodrigue Casimir Ninga,Montpellier,21.83575050232989,0.05809114339297163,False,Right Foot,Open Play,1,1,0,Volley
+3900512,Anthony Weber,Stade de Reims,14.01855912710004,0.05897486926708596,True,Head,Open Play,0,1,4,Normal
+3900512,Mustapha Yatabaré,Montpellier,2.9154759474226553,0.05605683204220449,True,Head,Open Play,0,0,5,Normal
+3900512,William Jean Rémy,Montpellier,38.20837604505065,0.07276401506386,False,Right Foot,Open Play,1,0,0,Half Volley
+3900512,"David N""Gog",Stade de Reims,15.250573759698351,0.05849900958234895,False,Right Foot,Open Play,1,1,4,Volley
+3900512,Diego Rigonato Rodrigues,Stade de Reims,17.861690849412884,0.06433196034640427,False,Right Foot,Open Play,1,1,1,Volley
+3900512,Theoson Jordan Siebatcheu,Stade de Reims,32.73545478529358,0.06477793107888893,False,Right Foot,Open Play,0,0,2,Normal
+3900512,"David N""Gog",Stade de Reims,28.443101096751036,0.07122353441489122,False,Right Foot,Open Play,1,1,4,Half Volley
+3900512,Theoson Jordan Siebatcheu,Stade de Reims,16.18950277185806,0.06066868389197191,False,Left Foot,Open Play,1,1,1,Half Volley
+3900512,Bryan Dabo,Montpellier,8.077747210701762,0.058815484476926805,False,Head,Open Play,0,1,5,Normal
+3900512,Diego Rigonato Rodrigues,Stade de Reims,35.784074670165786,0.0526798440582894,False,Left Foot,Open Play,1,0,0,Normal
+3900512,Jonas Martin,Montpellier,9.180958555619345,0.05615657763770705,False,Head,Open Play,0,0,4,Normal
+3900512,Diego Rigonato Rodrigues,Stade de Reims,37.636418533117634,0.06343817274458967,False,Left Foot,Open Play,1,0,1,Normal
+3900512,Daniel Congré,Montpellier,12.234786471369247,0.05509040034983736,False,Head,Open Play,0,0,3,Normal
+3900512,Souleymane Camara,Montpellier,13.720787149431336,0.06173144946801429,True,Left Foot,Open Play,0,0,1,Normal
+3900512,Diego Rigonato Rodrigues,Stade de Reims,15.700318468107575,0.059211320295689,False,Head,Open Play,0,1,2,Normal
+3900512,Vitorino Hilton da Silva,Montpellier,14.040655255364685,0.05843093612296814,False,Head,Open Play,0,1,4,Normal
+3900512,Diego Rigonato Rodrigues,Stade de Reims,29.798154305258578,0.052016521825656054,False,Left Foot,Free Kick,0,0,0,Normal
+3900512,Diego Rigonato Rodrigues,Stade de Reims,30.900000000000006,0.0683640194624415,False,Left Foot,Open Play,0,1,1,Normal
+3900512,Bryan Dabo,Montpellier,4.15932686861708,0.056635000369738,True,Head,Open Play,0,0,4,Normal

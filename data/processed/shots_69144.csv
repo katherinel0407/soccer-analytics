@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.88181299738144,0.07293088995536665,False,Right Foot,Open Play,0,0,2,Half Volley
-34.62730136756256,0.06248721762061958,False,Right Foot,Open Play,0,0,1,Normal
-37.03633351183672,0.07649683784231519,False,Right Foot,Open Play,0,0,1,Normal
-6.276941930590093,0.05591867182361511,True,Right Foot,Open Play,1,0,3,Normal
-18.257053431482312,0.05530083520524228,False,Right Foot,Open Play,1,0,1,Normal
-18.33712082089225,0.06409618327861863,True,Left Foot,Open Play,0,0,2,Normal
-36.5759483814159,0.07637623649341477,False,Right Foot,Open Play,0,0,1,Normal
-28.462255708218215,0.07089411824060327,False,Left Foot,Open Play,0,0,1,Normal
-14.787156589419075,0.06250365686534592,False,Right Foot,Open Play,1,0,1,Normal
-30.664637614033534,0.07320274735692324,False,Right Foot,Open Play,0,0,1,Normal
-33.80133133472704,0.07304336472455342,False,Right Foot,Open Play,1,0,0,Normal
-16.064868502418566,0.05888478587686408,False,Left Foot,Open Play,0,1,1,Normal
-20.525106577068,0.06600584110458209,False,Right Foot,Open Play,0,0,0,Normal
-19.10628168953865,0.057832740312559396,False,Left Foot,Open Play,1,0,3,Normal
-7.0710678118654755,0.05824415901038379,False,Left Foot,Open Play,1,0,3,Volley
-29.578539517697624,0.05485549472058474,False,Left Foot,Open Play,0,1,1,Normal
-39.24754769409166,0.060762114992756945,False,Right Foot,Open Play,0,0,1,Normal
-29.260553651631405,0.07212268789527755,False,Right Foot,Open Play,0,0,1,Normal
-12.07393887677091,0.06025321877518785,False,Left Foot,Open Play,0,0,2,Lob
-16.493938280471404,0.05465465664044407,False,Right Foot,Open Play,0,0,1,Normal
-12.218837915284745,0.056924292955559654,False,Right Foot,Open Play,0,1,2,Normal
-26.304562341920835,0.06899966830289951,False,Right Foot,Open Play,1,0,1,Volley
-11.882760622010355,0.060003411071379555,False,Left Foot,Open Play,0,0,2,Normal
-24.429490375363947,0.053229072410747195,False,Right Foot,Open Play,1,0,0,Normal
-8.052328855678955,0.05721335068642838,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69144,Anderson Luís de Souza,Barcelona,31.88181299738144,0.07293088995536665,False,Right Foot,Open Play,0,0,2,Half Volley
+69144,Raúl García Escudero,Atlético Madrid,34.62730136756256,0.06248721762061958,False,Right Foot,Open Play,0,0,1,Normal
+69144,Nuno Ricardo de Oliveira Ribeiro,Atlético Madrid,37.03633351183672,0.07649683784231519,False,Right Foot,Open Play,0,0,1,Normal
+69144,Anderson Luís de Souza,Barcelona,6.276941930590093,0.05591867182361511,True,Right Foot,Open Play,1,0,3,Normal
+69144,Thierry Henry,Barcelona,18.257053431482312,0.05530083520524228,False,Right Foot,Open Play,1,0,1,Normal
+69144,Lionel Andrés Messi Cuccittini,Barcelona,18.33712082089225,0.06409618327861863,True,Left Foot,Open Play,0,0,2,Normal
+69144,Anderson Luís de Souza,Barcelona,36.5759483814159,0.07637623649341477,False,Right Foot,Open Play,0,0,1,Normal
+69144,Andrés Iniesta Luján,Barcelona,28.462255708218215,0.07089411824060327,False,Left Foot,Open Play,0,0,1,Normal
+69144,Ronaldo de Assis Moreira,Barcelona,14.787156589419075,0.06250365686534592,False,Right Foot,Open Play,1,0,1,Normal
+69144,Mariano Andrés Pernía,Atlético Madrid,30.664637614033534,0.07320274735692324,False,Right Foot,Open Play,0,0,1,Normal
+69144,Nuno Ricardo de Oliveira Ribeiro,Atlético Madrid,33.80133133472704,0.07304336472455342,False,Right Foot,Open Play,1,0,0,Normal
+69144,Lionel Andrés Messi Cuccittini,Barcelona,16.064868502418566,0.05888478587686408,False,Left Foot,Open Play,0,1,1,Normal
+69144,Thierry Henry,Barcelona,20.525106577068,0.06600584110458209,False,Right Foot,Open Play,0,0,0,Normal
+69144,Anderson Luís de Souza,Barcelona,19.10628168953865,0.057832740312559396,False,Left Foot,Open Play,1,0,3,Normal
+69144,Gabriel Alejandro Milito,Barcelona,7.0710678118654755,0.05824415901038379,False,Left Foot,Open Play,1,0,3,Volley
+69144,José Antonio Reyes Calderón,Atlético Madrid,29.578539517697624,0.05485549472058474,False,Left Foot,Open Play,0,1,1,Normal
+69144,Giorgios Seitaridis,Atlético Madrid,39.24754769409166,0.060762114992756945,False,Right Foot,Open Play,0,0,1,Normal
+69144,Maximiliano Rubén Rodríguez,Atlético Madrid,29.260553651631405,0.07212268789527755,False,Right Foot,Open Play,0,0,1,Normal
+69144,Simão Pedro Fonseca Sabrosa,Atlético Madrid,12.07393887677091,0.06025321877518785,False,Left Foot,Open Play,0,0,2,Lob
+69144,Anderson Luís de Souza,Barcelona,16.493938280471404,0.05465465664044407,False,Right Foot,Open Play,0,0,1,Normal
+69144,Thierry Henry,Barcelona,12.218837915284745,0.056924292955559654,False,Right Foot,Open Play,0,1,2,Normal
+69144,Xavier Hernández Creus,Barcelona,26.304562341920835,0.06899966830289951,False,Right Foot,Open Play,1,0,1,Volley
+69144,Lionel Andrés Messi Cuccittini,Barcelona,11.882760622010355,0.060003411071379555,False,Left Foot,Open Play,0,0,2,Normal
+69144,Simão Pedro Fonseca Sabrosa,Atlético Madrid,24.429490375363947,0.053229072410747195,False,Right Foot,Open Play,1,0,0,Normal
+69144,Xavier Hernández Creus,Barcelona,8.052328855678955,0.05721335068642838,True,Right Foot,Open Play,1,0,2,Normal

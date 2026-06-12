@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.017296186228537,0.0600062954866607,False,Left Foot,Open Play,0,0,1,Normal
-8.481155581640987,0.05572900964587286,False,Head,Open Play,0,0,4,Normal
-12.800390619039717,0.05528895031035975,False,Left Foot,Open Play,0,1,2,Normal
-63.20126581010858,0.04688085974534515,False,Right Foot,Open Play,0,0,0,Lob
-19.708373854785687,0.06476990336892846,False,Right Foot,Open Play,0,1,1,Normal
-4.373785545725805,0.056742449830955576,True,Right Foot,Open Play,1,0,1,Normal
-13.630847369110992,0.061323513954157485,False,Left Foot,Open Play,0,0,3,Normal
-7.615773105863908,0.05817509359251708,True,Head,Open Play,0,0,3,Normal
-10.51189802081432,0.05699217784806144,False,Right Foot,Open Play,0,0,3,Lob
-24.92007223103496,0.06881947157617534,False,Right Foot,Open Play,0,0,2,Normal
-17.927074496414633,0.05991582603737106,False,Right Foot,Open Play,0,0,2,Normal
-14.508618128546903,0.05436631808358741,True,Left Foot,Open Play,0,0,1,Normal
-11.479111463872112,0.057846220139186916,False,Other,Open Play,0,0,2,Normal
-13.087398519186312,0.061493011584609056,False,Left Foot,Open Play,1,1,2,Normal
-22.537524265100636,0.06364542062431239,False,Right Foot,Free Kick,0,0,0,Normal
-31.2488399784696,0.07187653844432317,False,Right Foot,Free Kick,0,0,0,Normal
-67.57580928113255,0.08318622103477932,False,Left Foot,Open Play,0,0,2,Normal
-21.00380917833715,0.0498880945603115,True,Right Foot,Open Play,0,0,2,Normal
-8.723531395025761,0.05908977059233539,False,Head,Open Play,0,0,4,Normal
-12.16059209084821,0.06053866704279736,True,Left Foot,Open Play,1,1,2,Normal
-19.335201059208043,0.05709586000925705,False,Right Foot,Open Play,1,0,0,Half Volley
-18.560711193270585,0.06177904238733285,False,Left Foot,Open Play,0,0,2,Normal
-8.74642784226795,0.05916225288996153,False,Head,Open Play,0,1,2,Normal
-20.640009689920205,0.06606812575046228,False,Right Foot,Open Play,0,1,3,Normal
-17.652761823578775,0.06368574623730934,False,Right Foot,Open Play,1,1,1,Normal
-18.866372200293302,0.06331278175067573,False,Left Foot,Open Play,0,1,1,Normal
-12.90736224021004,0.055677392520162496,True,Right Foot,Open Play,0,0,0,Normal
-19.84363877921587,0.06155455504589534,True,Left Foot,Free Kick,0,0,0,Normal
-32.887687665751145,0.06788552336450325,False,Left Foot,Open Play,0,0,1,Normal
-11.987076374162298,0.06067258748158529,False,Left Foot,Open Play,0,1,3,Normal
-20.890428430264418,0.056662466905107414,True,Left Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16240,Luis Alberto Suárez Díaz,Barcelona,13.017296186228537,0.0600062954866607,False,Left Foot,Open Play,0,0,1,Normal
+16240,Vicente Iborra De La Fuente,Villarreal,8.481155581640987,0.05572900964587286,False,Head,Open Play,0,0,4,Normal
+16240,Samuel Chimerenka Chukwueze,Villarreal,12.800390619039717,0.05528895031035975,False,Left Foot,Open Play,0,1,2,Normal
+16240,Luis Alberto Suárez Díaz,Barcelona,63.20126581010858,0.04688085974534515,False,Right Foot,Open Play,0,0,0,Lob
+16240,Karl Brillant Toko Ekambi,Villarreal,19.708373854785687,0.06476990336892846,False,Right Foot,Open Play,0,1,1,Normal
+16240,Philippe Coutinho Correia,Barcelona,4.373785545725805,0.056742449830955576,True,Right Foot,Open Play,1,0,1,Normal
+16240,Arthur Henrique Ramos de Oliveira Melo,Barcelona,13.630847369110992,0.061323513954157485,False,Left Foot,Open Play,0,0,3,Normal
+16240,Malcom Filipe Silva de Oliveira,Barcelona,7.615773105863908,0.05817509359251708,True,Head,Open Play,0,0,3,Normal
+16240,Philippe Coutinho Correia,Barcelona,10.51189802081432,0.05699217784806144,False,Right Foot,Open Play,0,0,3,Lob
+16240,Philippe Coutinho Correia,Barcelona,24.92007223103496,0.06881947157617534,False,Right Foot,Open Play,0,0,2,Normal
+16240,Samuel Chimerenka Chukwueze,Villarreal,17.927074496414633,0.05991582603737106,False,Right Foot,Open Play,0,0,2,Normal
+16240,Samuel Chimerenka Chukwueze,Villarreal,14.508618128546903,0.05436631808358741,True,Left Foot,Open Play,0,0,1,Normal
+16240,Vicente Iborra De La Fuente,Villarreal,11.479111463872112,0.057846220139186916,False,Other,Open Play,0,0,2,Normal
+16240,Samuel Chimerenka Chukwueze,Villarreal,13.087398519186312,0.061493011584609056,False,Left Foot,Open Play,1,1,2,Normal
+16240,Santiago Cazorla González,Villarreal,22.537524265100636,0.06364542062431239,False,Right Foot,Free Kick,0,0,0,Normal
+16240,Luis Alberto Suárez Díaz,Barcelona,31.2488399784696,0.07187653844432317,False,Right Foot,Free Kick,0,0,0,Normal
+16240,José Ramiro Funes Mori,Villarreal,67.57580928113255,0.08318622103477932,False,Left Foot,Open Play,0,0,2,Normal
+16240,Karl Brillant Toko Ekambi,Villarreal,21.00380917833715,0.0498880945603115,True,Right Foot,Open Play,0,0,2,Normal
+16240,Álvaro González Soberón,Villarreal,8.723531395025761,0.05908977059233539,False,Head,Open Play,0,0,4,Normal
+16240,Vicente Iborra De La Fuente,Villarreal,12.16059209084821,0.06053866704279736,True,Left Foot,Open Play,1,1,2,Normal
+16240,Luis Alberto Suárez Díaz,Barcelona,19.335201059208043,0.05709586000925705,False,Right Foot,Open Play,1,0,0,Half Volley
+16240,Samuel Chimerenka Chukwueze,Villarreal,18.560711193270585,0.06177904238733285,False,Left Foot,Open Play,0,0,2,Normal
+16240,Álvaro González Soberón,Villarreal,8.74642784226795,0.05916225288996153,False,Head,Open Play,0,1,2,Normal
+16240,Karl Brillant Toko Ekambi,Villarreal,20.640009689920205,0.06606812575046228,False,Right Foot,Open Play,0,1,3,Normal
+16240,Arturo Erasmo Vidal Pardo,Barcelona,17.652761823578775,0.06368574623730934,False,Right Foot,Open Play,1,1,1,Normal
+16240,Malcom Filipe Silva de Oliveira,Barcelona,18.866372200293302,0.06331278175067573,False,Left Foot,Open Play,0,1,1,Normal
+16240,Carlos Arturo Bacca Ahumada,Villarreal,12.90736224021004,0.055677392520162496,True,Right Foot,Open Play,0,0,0,Normal
+16240,Lionel Andrés Messi Cuccittini,Barcelona,19.84363877921587,0.06155455504589534,True,Left Foot,Free Kick,0,0,0,Normal
+16240,Lionel Andrés Messi Cuccittini,Barcelona,32.887687665751145,0.06788552336450325,False,Left Foot,Open Play,0,0,1,Normal
+16240,Jordi Alba Ramos,Barcelona,11.987076374162298,0.06067258748158529,False,Left Foot,Open Play,0,1,3,Normal
+16240,Luis Alberto Suárez Díaz,Barcelona,20.890428430264418,0.056662466905107414,True,Left Foot,Open Play,1,0,0,Half Volley

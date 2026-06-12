@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.882641522448786,0.054031021035378275,False,Right Foot,Open Play,0,0,1,Normal
-28.676994263695065,0.06832446908979563,False,Left Foot,Open Play,0,0,1,Normal
-17.836199146679203,0.054087385469461104,False,Right Foot,Open Play,0,0,2,Half Volley
-23.200862052949674,0.06448564673798407,False,Left Foot,Open Play,1,0,1,Normal
-9.602083107326239,0.05853211178770576,False,Head,Open Play,0,0,2,Normal
-18.721645226849056,0.06486034316125926,False,Right Foot,Open Play,0,0,2,Normal
-25.573814733042855,0.06783643833777676,False,Left Foot,Open Play,1,0,1,Normal
-29.127478435319464,0.0716792861987396,False,Right Foot,Open Play,0,0,1,Normal
-22.760711763914596,0.06106600939204206,False,Right Foot,Open Play,0,0,4,Normal
-11.985407794480759,0.06061709228588111,True,Right Foot,Open Play,1,1,3,Half Volley
-22.14158982548453,0.06286075519251103,False,Right Foot,Open Play,1,0,1,Half Volley
-20.997380789041287,0.051211520836591876,False,Right Foot,Open Play,1,0,1,Normal
-21.81238180483736,0.06573880717769563,False,Right Foot,Open Play,0,0,1,Normal
-32.01890066819909,0.05769015491486786,False,Right Foot,Open Play,0,0,0,Normal
-29.86452745315084,0.05617405470619045,False,Right Foot,Open Play,0,0,0,Normal
-33.300150149811635,0.06954072725465944,False,Right Foot,Open Play,0,0,0,Normal
-11.00409014866745,0.0592802198111654,True,Head,Open Play,0,1,3,Normal
-12.88759093081403,0.052751273933997984,False,Right Foot,Open Play,1,0,1,Normal
-18.96760396043739,0.061910125066212005,False,Right Foot,Open Play,1,0,2,Normal
-23.04191832291747,0.06672895447549913,False,Right Foot,Free Kick,0,0,1,Normal
-14.023551618616453,0.06190826412781523,False,Right Foot,Open Play,1,0,1,Normal
-17.014111789923092,0.06111886238147667,True,Left Foot,Open Play,1,0,0,Normal
-21.90205469813278,0.0654869538654945,False,Left Foot,Open Play,1,0,1,Volley
-17.11724276862369,0.05522550273177522,False,Left Foot,Open Play,0,0,1,Normal
-27.50654467576762,0.0669710793233883,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-23.664741705752892,0.06805574369835447,False,Right Foot,Open Play,0,0,1,Normal
-25.628109567426154,0.06940558328456939,False,Left Foot,Open Play,0,0,2,Normal
-25.287546342023777,0.06891448607810378,False,Right Foot,Open Play,0,0,1,Normal
-16.101242188104617,0.05788726083924296,False,Left Foot,Open Play,0,0,2,Normal
-20.79639391817726,0.060546549884786326,False,Left Foot,Open Play,0,0,2,Normal
-17.9100530429142,0.061895197338178595,False,Right Foot,Open Play,0,1,1,Normal
-20.9954757031128,0.0647188614984241,False,Right Foot,Open Play,0,0,2,Normal
-10.151847122568386,0.059129972824032845,True,Left Foot,Open Play,0,0,2,Half Volley
-14.644111444536332,0.05372001495349309,True,Right Foot,Open Play,1,0,0,Normal
-20.16829194552677,0.06420469915619706,False,Left Foot,Open Play,0,0,3,Normal
-12.682665335015354,0.06076545821037635,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754333,Kyle Walker,Tottenham Hotspur,21.882641522448786,0.054031021035378275,False,Right Foot,Open Play,0,0,1,Normal
+3754333,Christian Dannemann Eriksen,Tottenham Hotspur,28.676994263695065,0.06832446908979563,False,Left Foot,Open Play,0,0,1,Normal
+3754333,Harry Kane,Tottenham Hotspur,17.836199146679203,0.054087385469461104,False,Right Foot,Open Play,0,0,2,Half Volley
+3754333,Jack Colback,Newcastle United,23.200862052949674,0.06448564673798407,False,Left Foot,Open Play,1,0,1,Normal
+3754333,Aleksandar Mitrović,Newcastle United,9.602083107326239,0.05853211178770576,False,Head,Open Play,0,0,2,Normal
+3754333,Aleksandar Mitrović,Newcastle United,18.721645226849056,0.06486034316125926,False,Right Foot,Open Play,0,0,2,Normal
+3754333,Andros Townsend,Newcastle United,25.573814733042855,0.06783643833777676,False,Left Foot,Open Play,1,0,1,Normal
+3754333,Moussa Sissoko,Newcastle United,29.127478435319464,0.0716792861987396,False,Right Foot,Open Play,0,0,1,Normal
+3754333,Aleksandar Mitrović,Newcastle United,22.760711763914596,0.06106600939204206,False,Right Foot,Open Play,0,0,4,Normal
+3754333,Georginio Wijnaldum,Newcastle United,11.985407794480759,0.06061709228588111,True,Right Foot,Open Play,1,1,3,Half Volley
+3754333,Jan Vertonghen,Tottenham Hotspur,22.14158982548453,0.06286075519251103,False,Right Foot,Open Play,1,0,1,Half Volley
+3754333,Jack Colback,Newcastle United,20.997380789041287,0.051211520836591876,False,Right Foot,Open Play,1,0,1,Normal
+3754333,Aleksandar Mitrović,Newcastle United,21.81238180483736,0.06573880717769563,False,Right Foot,Open Play,0,0,1,Normal
+3754333,Toby Alderweireld,Tottenham Hotspur,32.01890066819909,0.05769015491486786,False,Right Foot,Open Play,0,0,0,Normal
+3754333,Daryl Janmaat,Newcastle United,29.86452745315084,0.05617405470619045,False,Right Foot,Open Play,0,0,0,Normal
+3754333,Kyle Walker,Tottenham Hotspur,33.300150149811635,0.06954072725465944,False,Right Foot,Open Play,0,0,0,Normal
+3754333,Aleksandar Mitrović,Newcastle United,11.00409014866745,0.0592802198111654,True,Head,Open Play,0,1,3,Normal
+3754333,Christian Dannemann Eriksen,Tottenham Hotspur,12.88759093081403,0.052751273933997984,False,Right Foot,Open Play,1,0,1,Normal
+3754333,Eric Dier,Tottenham Hotspur,18.96760396043739,0.061910125066212005,False,Right Foot,Open Play,1,0,2,Normal
+3754333,Christian Dannemann Eriksen,Tottenham Hotspur,23.04191832291747,0.06672895447549913,False,Right Foot,Free Kick,0,0,1,Normal
+3754333,Erik Lamela,Tottenham Hotspur,14.023551618616453,0.06190826412781523,False,Right Foot,Open Play,1,0,1,Normal
+3754333,Erik Lamela,Tottenham Hotspur,17.014111789923092,0.06111886238147667,True,Left Foot,Open Play,1,0,0,Normal
+3754333,Aleksandar Mitrović,Newcastle United,21.90205469813278,0.0654869538654945,False,Left Foot,Open Play,1,0,1,Volley
+3754333,Josh Onomah,Tottenham Hotspur,17.11724276862369,0.05522550273177522,False,Left Foot,Open Play,0,0,1,Normal
+3754333,Christian Dannemann Eriksen,Tottenham Hotspur,27.50654467576762,0.0669710793233883,False,Right Foot,Open Play,0,0,1,Normal
+3754333,Georginio Wijnaldum,Newcastle United,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3754333,Harry Kane,Tottenham Hotspur,23.664741705752892,0.06805574369835447,False,Right Foot,Open Play,0,0,1,Normal
+3754333,Tom Carroll,Tottenham Hotspur,25.628109567426154,0.06940558328456939,False,Left Foot,Open Play,0,0,2,Normal
+3754333,Moussa Sissoko,Newcastle United,25.287546342023777,0.06891448607810378,False,Right Foot,Open Play,0,0,1,Normal
+3754333,Andros Townsend,Newcastle United,16.101242188104617,0.05788726083924296,False,Left Foot,Open Play,0,0,2,Normal
+3754333,Moussa Sissoko,Newcastle United,20.79639391817726,0.060546549884786326,False,Left Foot,Open Play,0,0,2,Normal
+3754333,Moussa Sissoko,Newcastle United,17.9100530429142,0.061895197338178595,False,Right Foot,Open Play,0,1,1,Normal
+3754333,Andros Townsend,Newcastle United,20.9954757031128,0.0647188614984241,False,Right Foot,Open Play,0,0,2,Normal
+3754333,Rolando Aarons,Newcastle United,10.151847122568386,0.059129972824032845,True,Left Foot,Open Play,0,0,2,Half Volley
+3754333,Daryl Janmaat,Newcastle United,14.644111444536332,0.05372001495349309,True,Right Foot,Open Play,1,0,0,Normal
+3754333,Harry Kane,Tottenham Hotspur,20.16829194552677,0.06420469915619706,False,Left Foot,Open Play,0,0,3,Normal
+3754333,Harry Kane,Tottenham Hotspur,12.682665335015354,0.06076545821037635,False,Right Foot,Open Play,0,0,2,Normal

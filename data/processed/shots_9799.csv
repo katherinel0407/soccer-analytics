@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.156479753612889,0.06061564323100536,False,Head,Open Play,0,0,3,Normal
-14.873466307488643,0.062431228320767224,False,Left Foot,Open Play,1,0,2,Normal
-21.865269264292177,0.05602784271754951,False,Right Foot,Open Play,0,0,1,Normal
-15.71782427691568,0.052383815316006825,False,Right Foot,Open Play,0,0,1,Normal
-18.27785545407338,0.051764742213653236,False,Right Foot,Open Play,0,0,2,Normal
-8.73212459828649,0.05748354986462601,False,Head,Open Play,0,1,5,Normal
-11.183022847155415,0.05432073891137868,True,Right Foot,Open Play,0,0,1,Normal
-28.006606363499316,0.05758221919080343,False,Right Foot,Open Play,0,0,0,Normal
-32.30247668523266,0.06931988259094644,False,Right Foot,Open Play,0,0,1,Normal
-20.03521899056759,0.06562590833343855,False,Right Foot,Open Play,0,0,1,Normal
-13.245754036671528,0.06050043625551019,False,Head,Open Play,0,0,1,Normal
-31.308145904859963,0.07301491474484977,False,Left Foot,Open Play,0,0,2,Normal
-17.728226081590908,0.06323729802752454,False,Left Foot,Open Play,1,0,1,Normal
-18.866372200293302,0.0649512339680279,False,Right Foot,Open Play,1,0,1,Normal
-16.904733065032413,0.06153788936426801,False,Right Foot,Open Play,1,0,0,Normal
-11.328283188550685,0.05865268582918011,False,Head,Open Play,0,1,4,Normal
-10.076705810928493,0.05984299103790408,False,Left Foot,Open Play,1,0,1,Lob
-18.027756377319946,0.06430893680236881,False,Right Foot,Open Play,0,0,2,Normal
-13.68941196691808,0.06054546982513599,False,Left Foot,Open Play,0,0,4,Normal
-18.97630100941698,0.059799049726730745,False,Right Foot,Open Play,0,0,3,Normal
-10.11780608630151,0.05859757372779741,False,Left Foot,Open Play,1,0,2,Normal
-15.380832227158587,0.06283124110323332,True,Right Foot,Open Play,1,0,0,Normal
-28.539446385660675,0.05685509512896658,False,Right Foot,Open Play,0,0,1,Normal
-18.585209172888,0.06414110336900312,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9799,José Ángel Valdés Díaz,Eibar,12.156479753612889,0.06061564323100536,False,Head,Open Play,0,0,3,Normal
+9799,Jordi Alba Ramos,Barcelona,14.873466307488643,0.062431228320767224,False,Left Foot,Open Play,1,0,2,Normal
+9799,Fabián Ariel Orellana Valenzuela,Eibar,21.865269264292177,0.05602784271754951,False,Right Foot,Open Play,0,0,1,Normal
+9799,Enrique García Martínez,Eibar,15.71782427691568,0.052383815316006825,False,Right Foot,Open Play,0,0,1,Normal
+9799,Fabián Ariel Orellana Valenzuela,Eibar,18.27785545407338,0.051764742213653236,False,Right Foot,Open Play,0,0,2,Normal
+9799,Iván Ramis Barrios,Eibar,8.73212459828649,0.05748354986462601,False,Head,Open Play,0,1,5,Normal
+9799,Luis Alberto Suárez Díaz,Barcelona,11.183022847155415,0.05432073891137868,True,Right Foot,Open Play,0,0,1,Normal
+9799,Fabián Ariel Orellana Valenzuela,Eibar,28.006606363499316,0.05758221919080343,False,Right Foot,Open Play,0,0,0,Normal
+9799,Daniel García Carrillo,Eibar,32.30247668523266,0.06931988259094644,False,Right Foot,Open Play,0,0,1,Normal
+9799,Joan Jordán Moreno,Eibar,20.03521899056759,0.06562590833343855,False,Right Foot,Open Play,0,0,1,Normal
+9799,José Paulo Bezzera Maciel Júnior,Barcelona,13.245754036671528,0.06050043625551019,False,Head,Open Play,0,0,1,Normal
+9799,Enrique García Martínez,Eibar,31.308145904859963,0.07301491474484977,False,Left Foot,Open Play,0,0,2,Normal
+9799,Lionel Andrés Messi Cuccittini,Barcelona,17.728226081590908,0.06323729802752454,False,Left Foot,Open Play,1,0,1,Normal
+9799,Luis Alberto Suárez Díaz,Barcelona,18.866372200293302,0.0649512339680279,False,Right Foot,Open Play,1,0,1,Normal
+9799,Takashi Inui,Eibar,16.904733065032413,0.06153788936426801,False,Right Foot,Open Play,1,0,0,Normal
+9799,Papa Kouly Diop,Eibar,11.328283188550685,0.05865268582918011,False,Head,Open Play,0,1,4,Normal
+9799,Lionel Andrés Messi Cuccittini,Barcelona,10.076705810928493,0.05984299103790408,False,Left Foot,Open Play,1,0,1,Lob
+9799,Takashi Inui,Eibar,18.027756377319946,0.06430893680236881,False,Right Foot,Open Play,0,0,2,Normal
+9799,Takashi Inui,Eibar,13.68941196691808,0.06054546982513599,False,Left Foot,Open Play,0,0,4,Normal
+9799,Aleix Vidal Parreu,Barcelona,18.97630100941698,0.059799049726730745,False,Right Foot,Open Play,0,0,3,Normal
+9799,Lionel Andrés Messi Cuccittini,Barcelona,10.11780608630151,0.05859757372779741,False,Left Foot,Open Play,1,0,2,Normal
+9799,Jordi Alba Ramos,Barcelona,15.380832227158587,0.06283124110323332,True,Right Foot,Open Play,1,0,0,Normal
+9799,Gonzalo Escalante,Eibar,28.539446385660675,0.05685509512896658,False,Right Foot,Open Play,0,0,1,Normal
+9799,Lionel Andrés Messi Cuccittini,Barcelona,18.585209172888,0.06414110336900312,False,Left Foot,Open Play,1,0,2,Normal

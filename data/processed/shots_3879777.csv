@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.399013141876825,0.0609095756959978,False,Left Foot,Open Play,1,0,1,Volley
-27.38065010185112,0.05728609968799565,False,Right Foot,Open Play,0,0,1,Normal
-12.478781991845192,0.057743491188158656,False,Left Foot,Open Play,1,0,1,Half Volley
-20.793508602446103,0.06598797414196873,False,Right Foot,Open Play,0,0,2,Normal
-30.517699782257505,0.057256365964510544,False,Right Foot,Open Play,0,1,1,Normal
-9.708243919473798,0.05887695648275195,False,Head,Open Play,0,0,1,Normal
-18.866372200293302,0.06392666126690674,False,Left Foot,Open Play,1,0,0,Half Volley
-3.6400549446402635,0.05577152000048197,False,Right Foot,Open Play,1,1,3,Volley
-25.045758123881978,0.06764881124578771,False,Left Foot,Open Play,1,0,1,Normal
-21.868013169924694,0.05738284824046297,True,Left Foot,Open Play,0,0,2,Normal
-24.436857408431223,0.06710793799899041,False,Left Foot,Open Play,0,1,2,Normal
-17.299999999999997,0.06187661603767245,False,Right Foot,Open Play,1,1,1,Half Volley
-7.602631123499287,0.0558175565374055,False,Head,Open Play,0,1,6,Normal
-26.350332066218826,0.06961936074655978,False,Left Foot,Open Play,1,0,1,Half Volley
-18.701871564097534,0.055491350790344826,False,Left Foot,Open Play,0,0,1,Normal
-12.50959631642844,0.05651733283238947,False,Left Foot,Open Play,1,0,2,Normal
-32.74706093682302,0.0746059864115005,False,Right Foot,Open Play,0,0,2,Normal
-25.341073379002708,0.05811756837241734,False,Left Foot,Open Play,0,0,2,Normal
-17.557049866079442,0.05688752290674793,False,Right Foot,Open Play,1,1,1,Normal
-32.09750769140807,0.06211827664378078,False,Right Foot,Open Play,0,0,1,Normal
-13.990353819685906,0.059241089472887976,False,Right Foot,Open Play,0,1,2,Normal
-26.918580943281544,0.06687581290729275,False,Right Foot,Open Play,0,1,3,Normal
-18.518099254513142,0.06469540811684524,False,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879777,Paulo Bruno Exequiel Dybala,Juventus,30.399013141876825,0.0609095756959978,False,Left Foot,Open Play,1,0,1,Volley
+3879777,Mario Mandžukić,Juventus,27.38065010185112,0.05728609968799565,False,Right Foot,Open Play,0,0,1,Normal
+3879777,Matteo Politano,Sassuolo,12.478781991845192,0.057743491188158656,False,Left Foot,Open Play,1,0,1,Half Volley
+3879777,Alex Sandro Lobo Silva,Juventus,20.793508602446103,0.06598797414196873,False,Right Foot,Open Play,0,0,2,Normal
+3879777,Juan Guillermo Cuadrado Bello,Juventus,30.517699782257505,0.057256365964510544,False,Right Foot,Open Play,0,1,1,Normal
+3879777,Alex Sandro Lobo Silva,Juventus,9.708243919473798,0.05887695648275195,False,Head,Open Play,0,0,1,Normal
+3879777,Joseph Alfred Duncan,Sassuolo,18.866372200293302,0.06392666126690674,False,Left Foot,Open Play,1,0,0,Half Volley
+3879777,Sami Khedira,Juventus,3.6400549446402635,0.05577152000048197,False,Right Foot,Open Play,1,1,3,Volley
+3879777,Paulo Bruno Exequiel Dybala,Juventus,25.045758123881978,0.06764881124578771,False,Left Foot,Open Play,1,0,1,Normal
+3879777,Paulo Bruno Exequiel Dybala,Juventus,21.868013169924694,0.05738284824046297,True,Left Foot,Open Play,0,0,2,Normal
+3879777,Diego Falcinelli,Sassuolo,24.436857408431223,0.06710793799899041,False,Left Foot,Open Play,0,1,2,Normal
+3879777,Alex Sandro Lobo Silva,Juventus,17.299999999999997,0.06187661603767245,False,Right Foot,Open Play,1,1,1,Half Volley
+3879777,Daniele Rugani,Juventus,7.602631123499287,0.0558175565374055,False,Head,Open Play,0,1,6,Normal
+3879777,Alex Sandro Lobo Silva,Juventus,26.350332066218826,0.06961936074655978,False,Left Foot,Open Play,1,0,1,Half Volley
+3879777,Matteo Politano,Sassuolo,18.701871564097534,0.055491350790344826,False,Left Foot,Open Play,0,0,1,Normal
+3879777,Juan Guillermo Cuadrado Bello,Juventus,12.50959631642844,0.05651733283238947,False,Left Foot,Open Play,1,0,2,Normal
+3879777,Nicola Sansone,Sassuolo,32.74706093682302,0.0746059864115005,False,Right Foot,Open Play,0,0,2,Normal
+3879777,Kwadwo Asamoah,Juventus,25.341073379002708,0.05811756837241734,False,Left Foot,Open Play,0,0,2,Normal
+3879777,Paul Pogba,Juventus,17.557049866079442,0.05688752290674793,False,Right Foot,Open Play,1,1,1,Normal
+3879777,Paul Pogba,Juventus,32.09750769140807,0.06211827664378078,False,Right Foot,Open Play,0,0,1,Normal
+3879777,Álvaro Borja Morata Martín,Juventus,13.990353819685906,0.059241089472887976,False,Right Foot,Open Play,0,1,2,Normal
+3879777,Nicola Sansone,Sassuolo,26.918580943281544,0.06687581290729275,False,Right Foot,Open Play,0,1,3,Normal
+3879777,Marcello Trotta,Sassuolo,18.518099254513142,0.06469540811684524,False,Left Foot,Open Play,0,1,3,Normal

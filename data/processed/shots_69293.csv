@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.321480569094163,0.058936890575789616,False,Head,Open Play,0,1,3,Normal
-8.286132994346637,0.053413797289579006,True,Right Foot,Open Play,0,0,2,Normal
-10.826818553942791,0.05743234597384031,False,Left Foot,Open Play,1,0,1,Normal
-33.672095271901334,0.06759914710848029,False,Right Foot,Free Kick,0,0,0,Normal
-28.052985580861083,0.07079291722980859,False,Right Foot,Open Play,0,0,2,Normal
-6.618912297349159,0.057238544576995225,True,Head,Open Play,0,0,3,Normal
-20.793268141396148,0.06578326325148441,False,Right Foot,Open Play,0,0,1,Normal
-29.55841673703109,0.06538045605755133,False,Right Foot,Open Play,0,0,2,Normal
-16.3783393541592,0.05317367875410608,False,Right Foot,Open Play,0,0,1,Normal
-9.794896630388703,0.05969582401501072,False,Right Foot,Open Play,1,0,3,Half Volley
-19.160375779195984,0.06409500783118999,False,Left Foot,Open Play,0,0,3,Half Volley
-24.278591392418132,0.059565938522768404,False,Right Foot,Open Play,0,0,2,Normal
-13.885243966167826,0.061648779705461905,False,Left Foot,Open Play,0,1,3,Volley
-32.999696968305635,0.0512750762665286,False,Left Foot,Free Kick,0,0,0,Normal
-17.9627392120467,0.06421876297751722,False,Right Foot,Open Play,0,0,3,Normal
-15.448624534242526,0.06289031349434959,False,Left Foot,Open Play,0,0,3,Half Volley
-13.908630414242811,0.058006618707484935,True,Right Foot,Open Play,1,0,0,Half Volley
-17.252536045462993,0.05963831388423361,False,Left Foot,Open Play,1,0,2,Normal
-8.860022573334675,0.058967639936615523,False,Left Foot,Open Play,0,0,3,Overhead Kick
-27.197426348829406,0.06999057276594656,False,Right Foot,Free Kick,0,0,0,Normal
-26.46204829562519,0.06765735778123923,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69293,Christian Fernández Salas,Racing Santander,9.321480569094163,0.058936890575789616,False,Head,Open Play,0,1,3,Normal
+69293,Lionel Andrés Messi Cuccittini,Barcelona,8.286132994346637,0.053413797289579006,True,Right Foot,Open Play,0,0,2,Normal
+69293,Lionel Andrés Messi Cuccittini,Barcelona,10.826818553942791,0.05743234597384031,False,Left Foot,Open Play,1,0,1,Normal
+69293,Daniel Alves da Silva,Barcelona,33.672095271901334,0.06759914710848029,False,Right Foot,Free Kick,0,0,0,Normal
+69293,Mamadou Koné,Racing Santander,28.052985580861083,0.07079291722980859,False,Right Foot,Open Play,0,0,2,Normal
+69293,Xavier Hernández Creus,Barcelona,6.618912297349159,0.057238544576995225,True,Head,Open Play,0,0,3,Normal
+69293,Pedro Eliezer Rodríguez Ledesma,Barcelona,20.793268141396148,0.06578326325148441,False,Right Foot,Open Play,0,0,1,Normal
+69293,David Villa Sánchez,Barcelona,29.55841673703109,0.06538045605755133,False,Right Foot,Open Play,0,0,2,Normal
+69293,David Villa Sánchez,Barcelona,16.3783393541592,0.05317367875410608,False,Right Foot,Open Play,0,0,1,Normal
+69293,Lionel Andrés Messi Cuccittini,Barcelona,9.794896630388703,0.05969582401501072,False,Right Foot,Open Play,1,0,3,Half Volley
+69293,Mamadou Koné,Racing Santander,19.160375779195984,0.06409500783118999,False,Left Foot,Open Play,0,0,3,Half Volley
+69293,Xavier Hernández Creus,Barcelona,24.278591392418132,0.059565938522768404,False,Right Foot,Open Play,0,0,2,Normal
+69293,Lionel Andrés Messi Cuccittini,Barcelona,13.885243966167826,0.061648779705461905,False,Left Foot,Open Play,0,1,3,Volley
+69293,Lionel Andrés Messi Cuccittini,Barcelona,32.999696968305635,0.0512750762665286,False,Left Foot,Free Kick,0,0,0,Normal
+69293,Pedro Eliezer Rodríguez Ledesma,Barcelona,17.9627392120467,0.06421876297751722,False,Right Foot,Open Play,0,0,3,Normal
+69293,Andrés Iniesta Luján,Barcelona,15.448624534242526,0.06289031349434959,False,Left Foot,Open Play,0,0,3,Half Volley
+69293,Lionel Andrés Messi Cuccittini,Barcelona,13.908630414242811,0.058006618707484935,True,Right Foot,Open Play,1,0,0,Half Volley
+69293,Lionel Andrés Messi Cuccittini,Barcelona,17.252536045462993,0.05963831388423361,False,Left Foot,Open Play,1,0,2,Normal
+69293,Eric-Sylvain Bilal Abidal,Barcelona,8.860022573334675,0.058967639936615523,False,Left Foot,Open Play,0,0,3,Overhead Kick
+69293,David Villa Sánchez,Barcelona,27.197426348829406,0.06999057276594656,False,Right Foot,Free Kick,0,0,0,Normal
+69293,Adriano Correia Claro,Barcelona,26.46204829562519,0.06765735778123923,False,Right Foot,Open Play,0,0,1,Normal

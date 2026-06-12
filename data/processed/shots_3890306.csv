@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.200142045167944,0.07066440946006745,False,Right Foot,Open Play,1,0,0,Normal
-17.45222048909536,0.06092853040610996,False,Left Foot,Open Play,0,0,3,Normal
-18.900264548413077,0.0625505723260543,False,Right Foot,Open Play,0,0,3,Half Volley
-9.178779875342917,0.05686291019488711,False,Head,Open Play,0,0,2,Normal
-3.805259518088087,0.05637086788375169,False,Right Foot,Open Play,1,0,3,Half Volley
-10.208329931972218,0.05630721470392094,False,Right Foot,Open Play,1,1,1,Normal
-32.688836014761975,0.056021934089070205,False,Right Foot,Open Play,0,1,1,Normal
-22.07826985975124,0.05786067328402862,False,Left Foot,Open Play,0,0,4,Normal
-23.97769797123986,0.06817920568972624,False,Right Foot,Open Play,0,0,2,Normal
-8.139410298049853,0.05503855471513342,False,Head,Open Play,0,1,5,Normal
-7.057619995437555,0.05726586365877589,False,Head,Open Play,0,1,6,Normal
-9.518928511129817,0.05902044230197367,False,Head,Open Play,0,0,2,Normal
-10.789810007595124,0.05979411653042599,True,Head,Open Play,0,0,2,Normal
-20.787015177749783,0.05600905810616872,False,Left Foot,Open Play,0,0,3,Normal
-12.860015552090129,0.061389769040704076,False,Right Foot,Open Play,0,0,2,Normal
-8.905054744357281,0.05821546818418471,False,Head,Open Play,0,1,2,Normal
-13.960659010233003,0.06113416719995991,False,Left Foot,Open Play,0,0,3,Normal
-15.7,0.062048142676036346,False,Left Foot,Open Play,1,0,1,Normal
-9.790812019439446,0.05972449326419663,False,Right Foot,Open Play,1,0,1,Half Volley
-22.010224896624756,0.05415944566042327,False,Left Foot,Open Play,0,0,2,Normal
-15.701273833673499,0.05257183782796292,False,Right Foot,Open Play,1,0,2,Normal
-11.229425630903842,0.06006093224598822,False,Head,Open Play,0,0,1,Normal
-11.18302284715542,0.059993515086491186,False,Head,Open Play,0,0,2,Normal
-22.458851261807666,0.06629447977475361,False,Right Foot,Open Play,0,0,3,Normal
-24.047661008921427,0.06805173555863386,False,Left Foot,Open Play,0,0,2,Normal
-15.705094714773296,0.061015667052380373,False,Head,Open Play,0,1,2,Normal
-17.698022488402476,0.06403224275670369,False,Left Foot,Open Play,1,0,0,Normal
-21.023796041628636,0.05279264400694856,False,Right Foot,Open Play,0,0,1,Half Volley
-18.55855597830823,0.06006851390051535,True,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890306,Matthias Lehmann,FC Köln,35.200142045167944,0.07066440946006745,False,Right Foot,Open Play,1,0,0,Normal
+3890306,Genki Haraguchi,Hertha Berlin,17.45222048909536,0.06092853040610996,False,Left Foot,Open Play,0,0,3,Normal
+3890306,Vladimír Darida,Hertha Berlin,18.900264548413077,0.0625505723260543,False,Right Foot,Open Play,0,0,3,Half Volley
+3890306,Kevin Vogt,FC Köln,9.178779875342917,0.05686291019488711,False,Head,Open Play,0,0,2,Normal
+3890306,Leonardo Bittencourt,FC Köln,3.805259518088087,0.05637086788375169,False,Right Foot,Open Play,1,0,3,Half Volley
+3890306,Salomon Armand Magloire Kalou,Hertha Berlin,10.208329931972218,0.05630721470392094,False,Right Foot,Open Play,1,1,1,Normal
+3890306,Paweł Olkowski,FC Köln,32.688836014761975,0.056021934089070205,False,Right Foot,Open Play,0,1,1,Normal
+3890306,Mitchell Weiser,Hertha Berlin,22.07826985975124,0.05786067328402862,False,Left Foot,Open Play,0,0,4,Normal
+3890306,Leonardo Bittencourt,FC Köln,23.97769797123986,0.06817920568972624,False,Right Foot,Open Play,0,0,2,Normal
+3890306,Vedad Ibišević,Hertha Berlin,8.139410298049853,0.05503855471513342,False,Head,Open Play,0,1,5,Normal
+3890306,Niklas Stark,Hertha Berlin,7.057619995437555,0.05726586365877589,False,Head,Open Play,0,1,6,Normal
+3890306,Anthony Modeste,FC Köln,9.518928511129817,0.05902044230197367,False,Head,Open Play,0,0,2,Normal
+3890306,Vedad Ibišević,Hertha Berlin,10.789810007595124,0.05979411653042599,True,Head,Open Play,0,0,2,Normal
+3890306,Salomon Armand Magloire Kalou,Hertha Berlin,20.787015177749783,0.05600905810616872,False,Left Foot,Open Play,0,0,3,Normal
+3890306,Vedad Ibišević,Hertha Berlin,12.860015552090129,0.061389769040704076,False,Right Foot,Open Play,0,0,2,Normal
+3890306,Anthony Modeste,FC Köln,8.905054744357281,0.05821546818418471,False,Head,Open Play,0,1,2,Normal
+3890306,Leonardo Bittencourt,FC Köln,13.960659010233003,0.06113416719995991,False,Left Foot,Open Play,0,0,3,Normal
+3890306,Salomon Armand Magloire Kalou,Hertha Berlin,15.7,0.062048142676036346,False,Left Foot,Open Play,1,0,1,Normal
+3890306,Valentin Stocker,Hertha Berlin,9.790812019439446,0.05972449326419663,False,Right Foot,Open Play,1,0,1,Half Volley
+3890306,Genki Haraguchi,Hertha Berlin,22.010224896624756,0.05415944566042327,False,Left Foot,Open Play,0,0,2,Normal
+3890306,Simon Zoller,FC Köln,15.701273833673499,0.05257183782796292,False,Right Foot,Open Play,1,0,2,Normal
+3890306,Yannick Gerhardt,FC Köln,11.229425630903842,0.06006093224598822,False,Head,Open Play,0,0,1,Normal
+3890306,Anthony Modeste,FC Köln,11.18302284715542,0.059993515086491186,False,Head,Open Play,0,0,2,Normal
+3890306,Yannick Gerhardt,FC Köln,22.458851261807666,0.06629447977475361,False,Right Foot,Open Play,0,0,3,Normal
+3890306,Vladimír Darida,Hertha Berlin,24.047661008921427,0.06805173555863386,False,Left Foot,Open Play,0,0,2,Normal
+3890306,Anthony Modeste,FC Köln,15.705094714773296,0.061015667052380373,False,Head,Open Play,0,1,2,Normal
+3890306,Johannes van den Bergh,Hertha Berlin,17.698022488402476,0.06403224275670369,False,Left Foot,Open Play,1,0,0,Normal
+3890306,Tolga Ciğerci,Hertha Berlin,21.023796041628636,0.05279264400694856,False,Right Foot,Open Play,0,0,1,Half Volley
+3890306,Vedad Ibišević,Hertha Berlin,18.55855597830823,0.06006851390051535,True,Right Foot,Open Play,0,0,0,Normal

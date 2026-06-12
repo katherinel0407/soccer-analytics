@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.57310670584077,0.0679612735084396,False,Right Foot,Open Play,1,0,3,Half Volley
-8.273451516749224,0.058853211116592856,False,Left Foot,Open Play,1,1,2,Volley
-21.931712199461312,0.05799900885712121,False,Left Foot,Open Play,0,0,3,Normal
-16.61715980545412,0.055001807927952305,False,Right Foot,Open Play,0,0,1,Normal
-32.09750769140806,0.05424296360649906,False,Left Foot,Free Kick,0,0,0,Normal
-16.69640679906907,0.06302496758272806,False,Left Foot,Open Play,0,0,2,Normal
-6.7601775124622305,0.05772137361238655,True,Left Foot,Open Play,1,0,2,Normal
-11.01135777277262,0.05469572075450708,False,Right Foot,Open Play,0,0,2,Normal
-17.58010238878033,0.056310890965055906,False,Head,Open Play,0,1,2,Normal
-10.965856099730654,0.057178547706650255,False,Head,Open Play,0,0,3,Diving Header
-3.4132096331752058,0.0554369812925973,True,Head,Open Play,0,1,3,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-18.027756377319946,0.05924332555020157,False,Head,Open Play,0,1,4,Normal
-26.119724347703215,0.06976008877917105,False,Left Foot,Open Play,0,0,1,Normal
-7.60065786626394,0.05782641866718528,False,Left Foot,Open Play,1,0,5,Half Volley
-6.356099432828279,0.057878290347860524,True,Right Foot,Open Play,1,0,3,Normal
-8.969392398596462,0.054168988311870635,False,Right Foot,Open Play,0,0,2,Half Volley
-16.886088949191286,0.052101278944253086,False,Left Foot,Open Play,0,1,3,Normal
-14.389232085139223,0.05700610984499093,False,Right Foot,Open Play,1,0,1,Normal
-24.662927644543743,0.06860137278538549,False,Right Foot,Free Kick,0,0,0,Normal
-31.292810675936416,0.07184151035224351,False,Right Foot,Open Play,0,0,2,Normal
-32.81234523773026,0.06988122115586905,False,Right Foot,Open Play,0,0,1,Normal
-17.68191166135607,0.06411377672910235,False,Left Foot,Open Play,0,0,1,Half Volley
-9.417536832951596,0.0593650345893003,False,Head,Open Play,0,1,4,Normal
-5.353503525729672,0.05461478028889972,True,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900598,João Filipe Iria Santos Moutinho,AS Monaco,26.57310670584077,0.0679612735084396,False,Right Foot,Open Play,1,0,3,Half Volley
+3900598,Wissam Ben Yedder,Toulouse,8.273451516749224,0.058853211116592856,False,Left Foot,Open Play,1,1,2,Volley
+3900598,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,21.931712199461312,0.05799900885712121,False,Left Foot,Open Play,0,0,3,Normal
+3900598,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,16.61715980545412,0.055001807927952305,False,Right Foot,Open Play,0,0,1,Normal
+3900598,Thomas Lemar,AS Monaco,32.09750769140806,0.05424296360649906,False,Left Foot,Free Kick,0,0,0,Normal
+3900598,Lacina Traoré,AS Monaco,16.69640679906907,0.06302496758272806,False,Left Foot,Open Play,0,0,2,Normal
+3900598,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,6.7601775124622305,0.05772137361238655,True,Left Foot,Open Play,1,0,2,Normal
+3900598,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,11.01135777277262,0.05469572075450708,False,Right Foot,Open Play,0,0,2,Normal
+3900598,Óscar Guido Trejo,Toulouse,17.58010238878033,0.056310890965055906,False,Head,Open Play,0,1,2,Normal
+3900598,Guido Marcelo Carrillo,AS Monaco,10.965856099730654,0.057178547706650255,False,Head,Open Play,0,0,3,Diving Header
+3900598,Fábio Alexandre da Silva Coentrão,AS Monaco,3.4132096331752058,0.0554369812925973,True,Head,Open Play,0,1,3,Normal
+3900598,Wissam Ben Yedder,Toulouse,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3900598,Wallace Fortuna dos Santos,AS Monaco,18.027756377319946,0.05924332555020157,False,Head,Open Play,0,1,4,Normal
+3900598,Thomas Lemar,AS Monaco,26.119724347703215,0.06976008877917105,False,Left Foot,Open Play,0,0,1,Normal
+3900598,Uroš Spajić,Toulouse,7.60065786626394,0.05782641866718528,False,Left Foot,Open Play,1,0,5,Half Volley
+3900598,Guido Marcelo Carrillo,AS Monaco,6.356099432828279,0.057878290347860524,True,Right Foot,Open Play,1,0,3,Normal
+3900598,Martin Braithwaite Christensen,Toulouse,8.969392398596462,0.054168988311870635,False,Right Foot,Open Play,0,0,2,Half Volley
+3900598,Zinédine Machach,Toulouse,16.886088949191286,0.052101278944253086,False,Left Foot,Open Play,0,1,3,Normal
+3900598,Guido Marcelo Carrillo,AS Monaco,14.389232085139223,0.05700610984499093,False,Right Foot,Open Play,1,0,1,Normal
+3900598,Adrien Regattin,Toulouse,24.662927644543743,0.06860137278538549,False,Right Foot,Free Kick,0,0,0,Normal
+3900598,Adrien Regattin,Toulouse,31.292810675936416,0.07184151035224351,False,Right Foot,Open Play,0,0,2,Normal
+3900598,Adrien Regattin,Toulouse,32.81234523773026,0.06988122115586905,False,Right Foot,Open Play,0,0,1,Normal
+3900598,Aleksandar Pešić,Toulouse,17.68191166135607,0.06411377672910235,False,Left Foot,Open Play,0,0,1,Half Volley
+3900598,Guido Marcelo Carrillo,AS Monaco,9.417536832951596,0.0593650345893003,False,Head,Open Play,0,1,4,Normal
+3900598,Hélder Wander Sousa Azevedo Costa,AS Monaco,5.353503525729672,0.05461478028889972,True,Right Foot,Open Play,1,0,1,Volley

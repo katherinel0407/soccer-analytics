@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.041697333315284,0.05838150280273246,False,Right Foot,Open Play,1,0,1,Normal
-29.58530040408581,0.07218631465861669,False,Left Foot,Open Play,0,1,1,Normal
-20.319448811422028,0.0638150820387627,False,Left Foot,Open Play,0,0,2,Normal
-26.128337107439503,0.05936011945832862,False,Right Foot,Open Play,0,1,2,Normal
-23.12941849679754,0.06769451380477934,False,Left Foot,Free Kick,0,0,0,Normal
-21.302582003128173,0.06636135958759375,False,Left Foot,Open Play,1,0,1,Half Volley
-12.790621564255588,0.05721808485742366,False,Head,Open Play,0,0,2,Normal
-21.129126815843573,0.0661646650554621,False,Left Foot,Open Play,0,0,2,Normal
-22.567454442182886,0.055959014677187904,False,Right Foot,Open Play,1,0,0,Half Volley
-31.548375552474965,0.0739001404909374,False,Right Foot,Open Play,0,0,2,Normal
-22.428776159211182,0.06524497214985084,True,Right Foot,Open Play,0,0,2,Normal
-21.170262161815565,0.06626982070375749,False,Right Foot,Open Play,0,0,2,Normal
-9.868130522039113,0.059564790177849616,True,Right Foot,Open Play,1,1,3,Volley
-14.354441821262153,0.062062407330895505,False,Left Foot,Open Play,1,1,2,Half Volley
-18.038015411901604,0.06417830176847582,False,Right Foot,Open Play,0,0,2,Normal
-12.034118164618457,0.05492053005232513,True,Right Foot,Open Play,1,0,0,Normal
-18.895766721676047,0.0617376437054351,True,Right Foot,Open Play,1,0,0,Normal
-26.405491853021783,0.061311970067616635,False,Left Foot,Free Kick,0,0,0,Normal
-22.85366491396949,0.06752064933734717,False,Right Foot,Open Play,0,0,3,Normal
-14.807092894960848,0.06177210337039459,False,Right Foot,Open Play,1,0,2,Half Volley
-6.4560049566275906,0.05779881464861719,False,Right Foot,Open Play,1,0,4,Volley
-30.56288598938261,0.06577159444049498,False,Right Foot,Free Kick,0,0,0,Normal
-13.708756325794113,0.052045000622952496,False,Right Foot,Open Play,1,0,1,Normal
-16.275441622272496,0.06337202004483036,False,Right Foot,Open Play,0,0,2,Normal
-6.198386886924699,0.05770790926510788,False,Left Foot,Open Play,1,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754244,Russell Martin,Norwich City,26.041697333315284,0.05838150280273246,False,Right Foot,Open Play,1,0,1,Normal
+3754244,Aaron Cresswell,West Ham United,29.58530040408581,0.07218631465861669,False,Left Foot,Open Play,0,1,1,Normal
+3754244,Enner Remberto Valencia Lastra,West Ham United,20.319448811422028,0.0638150820387627,False,Left Foot,Open Play,0,0,2,Normal
+3754244,Pedro Mba Obiang Avomo,West Ham United,26.128337107439503,0.05936011945832862,False,Right Foot,Open Play,0,1,2,Normal
+3754244,Robert Brady,Norwich City,23.12941849679754,0.06769451380477934,False,Left Foot,Free Kick,0,0,0,Normal
+3754244,Jonathan Howson,Norwich City,21.302582003128173,0.06636135958759375,False,Left Foot,Open Play,1,0,1,Half Volley
+3754244,James Collins,West Ham United,12.790621564255588,0.05721808485742366,False,Head,Open Play,0,0,2,Normal
+3754244,Steven Naismith,Norwich City,21.129126815843573,0.0661646650554621,False,Left Foot,Open Play,0,0,2,Normal
+3754244,Russell Martin,Norwich City,22.567454442182886,0.055959014677187904,False,Right Foot,Open Play,1,0,0,Half Volley
+3754244,Cameron Jerome,Norwich City,31.548375552474965,0.0739001404909374,False,Right Foot,Open Play,0,0,2,Normal
+3754244,Robert Brady,Norwich City,22.428776159211182,0.06524497214985084,True,Right Foot,Open Play,0,0,2,Normal
+3754244,Steven Naismith,Norwich City,21.170262161815565,0.06626982070375749,False,Right Foot,Open Play,0,0,2,Normal
+3754244,Wes Hoolahan,Norwich City,9.868130522039113,0.059564790177849616,True,Right Foot,Open Play,1,1,3,Volley
+3754244,Michail Antonio,West Ham United,14.354441821262153,0.062062407330895505,False,Left Foot,Open Play,1,1,2,Half Volley
+3754244,Victor Moses,West Ham United,18.038015411901604,0.06417830176847582,False,Right Foot,Open Play,0,0,2,Normal
+3754244,Dimitri Payet,West Ham United,12.034118164618457,0.05492053005232513,True,Right Foot,Open Play,1,0,0,Normal
+3754244,Mark Noble,West Ham United,18.895766721676047,0.0617376437054351,True,Right Foot,Open Play,1,0,0,Normal
+3754244,Robert Brady,Norwich City,26.405491853021783,0.061311970067616635,False,Left Foot,Free Kick,0,0,0,Normal
+3754244,Victor Moses,West Ham United,22.85366491396949,0.06752064933734717,False,Right Foot,Open Play,0,0,3,Normal
+3754244,Emmanuel Emenike,West Ham United,14.807092894960848,0.06177210337039459,False,Right Foot,Open Play,1,0,2,Half Volley
+3754244,Emmanuel Emenike,West Ham United,6.4560049566275906,0.05779881464861719,False,Right Foot,Open Play,1,0,4,Volley
+3754244,Dimitri Payet,West Ham United,30.56288598938261,0.06577159444049498,False,Right Foot,Free Kick,0,0,0,Normal
+3754244,Russell Martin,Norwich City,13.708756325794113,0.052045000622952496,False,Right Foot,Open Play,1,0,1,Normal
+3754244,Nathan Redmond,Norwich City,16.275441622272496,0.06337202004483036,False,Right Foot,Open Play,0,0,2,Normal
+3754244,Sébastien Aymar Bassong Nguena,Norwich City,6.198386886924699,0.05770790926510788,False,Left Foot,Open Play,1,1,2,Half Volley

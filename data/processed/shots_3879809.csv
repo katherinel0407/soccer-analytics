@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.24335495461293,0.06421678314722595,False,Left Foot,Open Play,1,0,1,Volley
-27.15326867984773,0.06557158801815352,False,Left Foot,Open Play,0,1,4,Normal
-13.678084661238207,0.05470589056169878,False,Left Foot,Open Play,0,0,2,Normal
-24.648935068274245,0.060354065440006925,False,Left Foot,Open Play,0,0,3,Normal
-31.97764844387404,0.0658186651037425,False,Right Foot,Open Play,0,0,1,Normal
-15.438264151127871,0.06259674980465245,False,Left Foot,Open Play,0,0,3,Normal
-28.3171326232018,0.06878479955424832,False,Left Foot,Open Play,1,0,1,Normal
-34.60057802985378,0.07364373293146077,False,Right Foot,Open Play,0,0,0,Normal
-34.87606629194296,0.06809768631961695,False,Left Foot,Open Play,0,0,1,Normal
-24.999599996799947,0.06895122975416018,False,Right Foot,Open Play,0,0,1,Normal
-16.336768346279506,0.05997769748683166,True,Right Foot,Open Play,1,0,1,Normal
-31.7039429724443,0.06848077254503852,False,Left Foot,Free Kick,0,0,0,Normal
-21.566872745022632,0.054705190682942724,False,Left Foot,Open Play,0,0,4,Normal
-12.615070352558481,0.060971042596070134,False,Right Foot,Open Play,1,1,1,Volley
-14.58903697986951,0.062389689113971955,False,Left Foot,Open Play,1,0,2,Normal
-22.536193112413642,0.06732846996589545,False,Right Foot,Free Kick,0,0,0,Normal
-17.560182231400674,0.05379847888952792,False,Right Foot,Open Play,0,0,2,Normal
-22.68126980572296,0.06730245907054008,False,Left Foot,Open Play,0,0,2,Normal
-11.462983904725682,0.060536695325878735,False,Left Foot,Open Play,1,0,1,Volley
-19.312690128513946,0.06523067673389167,False,Left Foot,Open Play,1,0,2,Normal
-29.62735222729159,0.05551941123907159,False,Left Foot,Open Play,0,0,1,Normal
-29.20719089539423,0.06607414252811612,False,Right Foot,Open Play,0,0,2,Normal
-23.099134182908248,0.06749502353275576,False,Right Foot,Open Play,0,0,2,Normal
-21.569654610123,0.06493214617816377,False,Left Foot,Open Play,0,0,1,Normal
-25.743737102448822,0.06652201439656008,False,Right Foot,Open Play,1,0,1,Volley
-11.402192771568103,0.05489631353787492,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879809,Blerim Džemaili,Genoa,18.24335495461293,0.06421678314722595,False,Left Foot,Open Play,1,0,1,Volley
+3879809,Domenico Berardi,Sassuolo,27.15326867984773,0.06557158801815352,False,Left Foot,Open Play,0,1,4,Normal
+3879809,Luca Rigoni,Genoa,13.678084661238207,0.05470589056169878,False,Left Foot,Open Play,0,0,2,Normal
+3879809,Tomás Eduardo Rincón Hernández,Genoa,24.648935068274245,0.060354065440006925,False,Left Foot,Open Play,0,0,3,Normal
+3879809,Davide Biondini,Sassuolo,31.97764844387404,0.0658186651037425,False,Right Foot,Open Play,0,0,1,Normal
+3879809,Nicola Sansone,Sassuolo,15.438264151127871,0.06259674980465245,False,Left Foot,Open Play,0,0,3,Normal
+3879809,Joseph Alfred Duncan,Sassuolo,28.3171326232018,0.06878479955424832,False,Left Foot,Open Play,1,0,1,Normal
+3879809,Nicola Sansone,Sassuolo,34.60057802985378,0.07364373293146077,False,Right Foot,Open Play,0,0,0,Normal
+3879809,Joseph Alfred Duncan,Sassuolo,34.87606629194296,0.06809768631961695,False,Left Foot,Open Play,0,0,1,Normal
+3879809,Tim Matavž,Genoa,24.999599996799947,0.06895122975416018,False,Right Foot,Open Play,0,0,1,Normal
+3879809,Blerim Džemaili,Genoa,16.336768346279506,0.05997769748683166,True,Right Foot,Open Play,1,0,1,Normal
+3879809,Jesús Joaquín Fernández Sáez de la Torre,Genoa,31.7039429724443,0.06848077254503852,False,Left Foot,Free Kick,0,0,0,Normal
+3879809,Joseph Alfred Duncan,Sassuolo,21.566872745022632,0.054705190682942724,False,Left Foot,Open Play,0,0,4,Normal
+3879809,Tim Matavž,Genoa,12.615070352558481,0.060971042596070134,False,Right Foot,Open Play,1,1,1,Volley
+3879809,Francesco Magnanelli,Sassuolo,14.58903697986951,0.062389689113971955,False,Left Foot,Open Play,1,0,2,Normal
+3879809,Nicola Sansone,Sassuolo,22.536193112413642,0.06732846996589545,False,Right Foot,Free Kick,0,0,0,Normal
+3879809,Jesús Joaquín Fernández Sáez de la Torre,Genoa,17.560182231400674,0.05379847888952792,False,Right Foot,Open Play,0,0,2,Normal
+3879809,Domenico Berardi,Sassuolo,22.68126980572296,0.06730245907054008,False,Left Foot,Open Play,0,0,2,Normal
+3879809,Francesco Acerbi,Sassuolo,11.462983904725682,0.060536695325878735,False,Left Foot,Open Play,1,0,1,Volley
+3879809,Joseph Alfred Duncan,Sassuolo,19.312690128513946,0.06523067673389167,False,Left Foot,Open Play,1,0,2,Normal
+3879809,Domenico Berardi,Sassuolo,29.62735222729159,0.05551941123907159,False,Left Foot,Open Play,0,0,1,Normal
+3879809,Blerim Džemaili,Genoa,29.20719089539423,0.06607414252811612,False,Right Foot,Open Play,0,0,2,Normal
+3879809,Nicola Sansone,Sassuolo,23.099134182908248,0.06749502353275576,False,Right Foot,Open Play,0,0,2,Normal
+3879809,Matteo Politano,Sassuolo,21.569654610123,0.06493214617816377,False,Left Foot,Open Play,0,0,1,Normal
+3879809,Lorenzo Pellegrini,Sassuolo,25.743737102448822,0.06652201439656008,False,Right Foot,Open Play,1,0,1,Volley
+3879809,Gregoire Defrel,Sassuolo,11.402192771568103,0.05489631353787492,False,Head,Open Play,0,1,2,Normal

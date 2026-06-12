@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.98569967862919,0.05770172558522577,False,Head,Open Play,0,0,3,Normal
-21.567800073257352,0.06612310138769344,False,Left Foot,Open Play,0,1,2,Normal
-14.637281168304447,0.05988241710702323,False,Right Foot,Open Play,1,1,2,Normal
-16.94992625352689,0.06275296445322834,False,Right Foot,Open Play,0,0,4,Normal
-26.58589851782331,0.0700244720706324,True,Right Foot,Open Play,0,0,1,Normal
-11.00590750460861,0.060343593658705515,False,Right Foot,Open Play,1,0,1,Normal
-37.52252656738349,0.07718062913484679,False,Right Foot,Open Play,0,0,1,Normal
-42.629801782321245,0.08291656915959732,False,Left Foot,Open Play,0,0,0,Normal
-21.692625475031836,0.05588970930703476,False,Left Foot,Open Play,0,0,2,Normal
-22.74071238989667,0.06574614136498702,False,Right Foot,Open Play,1,0,0,Volley
-9.879271228182779,0.05961750725556264,False,Right Foot,Open Play,1,0,2,Volley
-28.770297183032365,0.055223909948131894,False,Left Foot,Free Kick,0,0,0,Normal
-21.986359407596336,0.05749551582755276,True,Left Foot,Open Play,0,1,3,Normal
-18.278129007094787,0.06459258829366979,False,Right Foot,Open Play,0,0,3,Normal
-33.342165496560064,0.07427682750846495,False,Left Foot,Open Play,0,0,0,Normal
-21.102132593650342,0.06523880829109215,False,Left Foot,Open Play,0,1,1,Half Volley
-33.80369802255368,0.07017125379943345,False,Right Foot,Open Play,0,1,2,Normal
-3.705401462729784,0.05621366343804429,False,Head,Open Play,0,0,3,Normal
-14.451643505151939,0.05647908392921467,True,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911639,Cristina Postigo Martín,Granada W,6.98569967862919,0.05770172558522577,False,Head,Open Play,0,0,3,Normal
+3911639,Estela Carbonell,Levante UD Femenino,21.567800073257352,0.06612310138769344,False,Left Foot,Open Play,0,1,2,Normal
+3911639,Laura Pérez Martín,Granada W,14.637281168304447,0.05988241710702323,False,Right Foot,Open Play,1,1,2,Normal
+3911639,Érika González Lombídez,Levante UD Femenino,16.94992625352689,0.06275296445322834,False,Right Foot,Open Play,0,0,4,Normal
+3911639,Paula Fernández Jiménez,Levante UD Femenino,26.58589851782331,0.0700244720706324,True,Right Foot,Open Play,0,0,1,Normal
+3911639,Estela Carbonell,Levante UD Femenino,11.00590750460861,0.060343593658705515,False,Right Foot,Open Play,1,0,1,Normal
+3911639,Érika González Lombídez,Levante UD Femenino,37.52252656738349,0.07718062913484679,False,Right Foot,Open Play,0,0,1,Normal
+3911639,Natasa Andonova,Levante UD Femenino,42.629801782321245,0.08291656915959732,False,Left Foot,Open Play,0,0,0,Normal
+3911639,Natasa Andonova,Levante UD Femenino,21.692625475031836,0.05588970930703476,False,Left Foot,Open Play,0,0,2,Normal
+3911639,Alicia Redondo González,Granada W,22.74071238989667,0.06574614136498702,False,Right Foot,Open Play,1,0,0,Volley
+3911639,Alicia Redondo González,Granada W,9.879271228182779,0.05961750725556264,False,Right Foot,Open Play,1,0,2,Volley
+3911639,Naima García Aguilar,Granada W,28.770297183032365,0.055223909948131894,False,Left Foot,Free Kick,0,0,0,Normal
+3911639,Alba María Redondo Ferrer,Levante UD Femenino,21.986359407596336,0.05749551582755276,True,Left Foot,Open Play,0,1,3,Normal
+3911639,Ariadna Mingueza García,Granada W,18.278129007094787,0.06459258829366979,False,Right Foot,Open Play,0,0,3,Normal
+3911639,Isabel Álvarez Tenorio,Granada W,33.342165496560064,0.07427682750846495,False,Left Foot,Open Play,0,0,0,Normal
+3911639,Alba María Redondo Ferrer,Levante UD Femenino,21.102132593650342,0.06523880829109215,False,Left Foot,Open Play,0,1,1,Half Volley
+3911639,Silvia Lloris,Levante UD Femenino,33.80369802255368,0.07017125379943345,False,Right Foot,Open Play,0,1,2,Normal
+3911639,Edna Imade,Granada W,3.705401462729784,0.05621366343804429,False,Head,Open Play,0,0,3,Normal
+3911639,Alba María Redondo Ferrer,Levante UD Femenino,14.451643505151939,0.05647908392921467,True,Right Foot,Open Play,0,0,1,Normal

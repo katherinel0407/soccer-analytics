@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.602325267042627,0.059095933698217445,False,Left Foot,Open Play,0,0,1,Normal
-23.0,0.06448536161976014,False,Right Foot,Open Play,0,0,1,Normal
-6.324555320336759,0.05652765628085935,True,Left Foot,Open Play,1,0,2,Volley
-9.219544457292887,0.05290429924966308,True,Right Foot,Open Play,0,0,1,Volley
-17.69180601295413,0.06400943786694582,False,Right Foot,Open Play,0,0,1,Normal
-15.297058540778355,0.05969290837765946,False,Right Foot,Open Play,0,0,3,Volley
-10.0,0.059829415731508184,False,Head,Open Play,0,0,3,Normal
-16.64331697709324,0.06359969627011944,False,Right Foot,Open Play,0,0,3,Normal
-38.600518131237564,0.06402394830577118,False,Right Foot,Open Play,0,0,2,Normal
-15.811388300841896,0.053698492967414406,False,Right Foot,Open Play,0,0,0,Normal
-22.847319317591726,0.05064852075987948,True,Right Foot,Open Play,0,0,1,Lob
-6.708203932499369,0.05808002030195169,True,Head,Open Play,0,0,3,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-25.317977802344327,0.06343551940653962,False,Left Foot,Open Play,0,0,0,Normal
-16.278820596099706,0.06246420787043569,True,Right Foot,Open Play,0,0,3,Normal
-29.068883707497267,0.05908720978900898,False,Right Foot,Open Play,0,1,2,Normal
-13.0,0.06001252184484243,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19754,Kim Little,Arsenal WFC,8.602325267042627,0.059095933698217445,False,Left Foot,Open Play,0,0,1,Normal
+19754,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,23.0,0.06448536161976014,False,Right Foot,Open Play,0,0,1,Normal
+19754,Kim Little,Arsenal WFC,6.324555320336759,0.05652765628085935,True,Left Foot,Open Play,1,0,2,Volley
+19754,Bethany Mead,Arsenal WFC,9.219544457292887,0.05290429924966308,True,Right Foot,Open Play,0,0,1,Volley
+19754,Courtney Sweetman-Kirk,Liverpool WFC,17.69180601295413,0.06400943786694582,False,Right Foot,Open Play,0,0,1,Normal
+19754,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,15.297058540778355,0.05969290837765946,False,Right Foot,Open Play,0,0,3,Volley
+19754,Danielle van de Donk,Arsenal WFC,10.0,0.059829415731508184,False,Head,Open Play,0,0,3,Normal
+19754,Vivianne Miedema,Arsenal WFC,16.64331697709324,0.06359969627011944,False,Right Foot,Open Play,0,0,3,Normal
+19754,Laura Coombs,Liverpool WFC,38.600518131237564,0.06402394830577118,False,Right Foot,Open Play,0,0,2,Normal
+19754,Bethany Mead,Arsenal WFC,15.811388300841896,0.053698492967414406,False,Right Foot,Open Play,0,0,0,Normal
+19754,Bethany Mead,Arsenal WFC,22.847319317591726,0.05064852075987948,True,Right Foot,Open Play,0,0,1,Lob
+19754,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,6.708203932499369,0.05808002030195169,True,Head,Open Play,0,0,3,Normal
+19754,Courtney Sweetman-Kirk,Liverpool WFC,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+19754,Katie McCabe,Arsenal WFC,25.317977802344327,0.06343551940653962,False,Left Foot,Open Play,0,0,0,Normal
+19754,Vivianne Miedema,Arsenal WFC,16.278820596099706,0.06246420787043569,True,Right Foot,Open Play,0,0,3,Normal
+19754,Missy Bo Kearns,Liverpool WFC,29.068883707497267,0.05908720978900898,False,Right Foot,Open Play,0,1,2,Normal
+19754,Viktoria Schnaderbeck,Arsenal WFC,13.0,0.06001252184484243,False,Head,Open Play,0,1,2,Normal

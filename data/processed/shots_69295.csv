@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-1.941648783894756,0.05516681200606588,True,Other,Open Play,1,0,2,Normal
-33.772177898382566,0.06342214966867762,False,Right Foot,Free Kick,0,0,0,Normal
-14.892279879185722,0.06247049120771628,False,Left Foot,Open Play,1,0,1,Normal
-19.949185447030157,0.06403558077411449,False,Right Foot,Open Play,0,0,2,Normal
-28.708535316173826,0.05375746096342874,False,Left Foot,Open Play,0,1,2,Normal
-5.514526271584895,0.057090241932673105,False,Left Foot,Open Play,1,0,3,Normal
-11.763077828527697,0.05718324492481728,False,Left Foot,Open Play,0,0,3,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-7.922752047110908,0.05771699254808306,False,Head,Open Play,0,1,3,Normal
-31.601424018547007,0.06889690585835218,False,Left Foot,Free Kick,0,0,0,Normal
-20.397303743387262,0.06245048364578652,False,Left Foot,Open Play,0,0,2,Normal
-11.042191811411353,0.05988271106269109,False,Head,Open Play,0,0,2,Normal
-29.55841673703109,0.053764046856788775,False,Right Foot,Open Play,1,0,2,Normal
-11.596551211459381,0.06007715334022732,False,Head,Open Play,0,1,1,Normal
-24.216729754448682,0.06461900474024487,False,Left Foot,Open Play,0,1,2,Normal
-16.115210206509868,0.06162309710519918,True,Left Foot,Open Play,1,0,3,Normal
-17.980545041794475,0.06390848485226856,False,Left Foot,Open Play,1,1,2,Normal
-22.931419493786258,0.06387473602044867,False,Left Foot,Open Play,0,0,1,Normal
-18.51539899651098,0.06452389233047195,False,Right Foot,Open Play,0,0,2,Normal
-11.276967677527503,0.05973815485898928,False,Right Foot,Open Play,0,1,2,Normal
-33.588688572196446,0.07556727935788668,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69295,Pedro Eliezer Rodríguez Ledesma,Barcelona,1.941648783894756,0.05516681200606588,True,Other,Open Play,1,0,2,Normal
+69295,Kennedy Bakircioglu,Racing Santander,33.772177898382566,0.06342214966867762,False,Right Foot,Free Kick,0,0,0,Normal
+69295,David Villa Sánchez,Barcelona,14.892279879185722,0.06247049120771628,False,Left Foot,Open Play,1,0,1,Normal
+69295,Markus Rosenberg,Racing Santander,19.949185447030157,0.06403558077411449,False,Right Foot,Open Play,0,0,2,Normal
+69295,Adriano Correia Claro,Barcelona,28.708535316173826,0.05375746096342874,False,Left Foot,Open Play,0,1,2,Normal
+69295,Carles Puyol i Saforcada,Barcelona,5.514526271584895,0.057090241932673105,False,Left Foot,Open Play,1,0,3,Normal
+69295,Adriano Correia Claro,Barcelona,11.763077828527697,0.05718324492481728,False,Left Foot,Open Play,0,0,3,Normal
+69295,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+69295,Sergio Busquets i Burgos,Barcelona,7.922752047110908,0.05771699254808306,False,Head,Open Play,0,1,3,Normal
+69295,Lionel Andrés Messi Cuccittini,Barcelona,31.601424018547007,0.06889690585835218,False,Left Foot,Free Kick,0,0,0,Normal
+69295,David Villa Sánchez,Barcelona,20.397303743387262,0.06245048364578652,False,Left Foot,Open Play,0,0,2,Normal
+69295,Adrián González Morales,Racing Santander,11.042191811411353,0.05988271106269109,False,Head,Open Play,0,0,2,Normal
+69295,Kennedy Bakircioglu,Racing Santander,29.55841673703109,0.053764046856788775,False,Right Foot,Open Play,1,0,2,Normal
+69295,Markus Rosenberg,Racing Santander,11.596551211459381,0.06007715334022732,False,Head,Open Play,0,1,1,Normal
+69295,Adrián González Morales,Racing Santander,24.216729754448682,0.06461900474024487,False,Left Foot,Open Play,0,1,2,Normal
+69295,Andrés Iniesta Luján,Barcelona,16.115210206509868,0.06162309710519918,True,Left Foot,Open Play,1,0,3,Normal
+69295,David Villa Sánchez,Barcelona,17.980545041794475,0.06390848485226856,False,Left Foot,Open Play,1,1,2,Normal
+69295,Adrián González Morales,Racing Santander,22.931419493786258,0.06387473602044867,False,Left Foot,Open Play,0,0,1,Normal
+69295,Lionel Andrés Messi Cuccittini,Barcelona,18.51539899651098,0.06452389233047195,False,Right Foot,Open Play,0,0,2,Normal
+69295,Andrés Iniesta Luján,Barcelona,11.276967677527503,0.05973815485898928,False,Right Foot,Open Play,0,1,2,Normal
+69295,Adrián González Morales,Racing Santander,33.588688572196446,0.07556727935788668,False,Left Foot,Open Play,0,0,1,Normal

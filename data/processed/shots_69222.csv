@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-4.700000000000003,0.05665681384433284,True,Right Foot,Open Play,1,0,1,Normal
-9.689685237405808,0.055115008826854626,False,Left Foot,Open Play,1,0,2,Normal
-19.589793260777405,0.05399314005392559,False,Right Foot,Open Play,0,0,2,Normal
-18.10441934998192,0.054138256682525594,False,Right Foot,Open Play,0,0,1,Normal
-5.044799302251776,0.05719531139978324,False,Head,Open Play,0,0,5,Normal
-35.31925820285585,0.07694944537501792,False,Right Foot,Free Kick,0,0,0,Normal
-8.723531395025761,0.05908977059233539,False,Head,Open Play,0,0,3,Normal
-30.627601930285046,0.07265876996570879,False,Right Foot,Open Play,0,0,1,Normal
-14.453373308677802,0.059761236025448666,False,Right Foot,Open Play,1,0,1,Normal
-15.839823231336892,0.05937123487068955,False,Left Foot,Open Play,1,0,3,Normal
-28.143205219022228,0.07022947332435664,False,Right Foot,Open Play,0,0,1,Normal
-20.16977937410322,0.05838378747948064,False,Right Foot,Open Play,0,0,1,Lob
-18.285786830213237,0.05344690368191432,False,Right Foot,Open Play,1,0,1,Normal
-61.18373966994826,0.0808350449324946,False,Right Foot,Open Play,0,0,0,Normal
-23.80252087489894,0.06804473507733569,False,Right Foot,Open Play,0,0,2,Normal
-20.310588371585887,0.06330952099821253,False,Right Foot,Open Play,0,0,1,Normal
-27.932955446926847,0.06861817287530592,False,Right Foot,Open Play,1,0,0,Half Volley
-28.9968963856479,0.07097553412368202,False,Left Foot,Open Play,1,0,1,Normal
-18.08120571200936,0.06386054990907909,False,Left Foot,Open Play,1,1,1,Normal
-6.413267497929582,0.05765443332726794,False,Head,Open Play,0,0,2,Normal
-11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
-12.22497443760109,0.057480892068406265,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69222,Andrés Iniesta Luján,Barcelona,4.700000000000003,0.05665681384433284,True,Right Foot,Open Play,1,0,1,Normal
+69222,Sebastián Ricardo Nayar,Recreativo Huelva,9.689685237405808,0.055115008826854626,False,Left Foot,Open Play,1,0,2,Normal
+69222,Bojan Krkíc Pérez,Barcelona,19.589793260777405,0.05399314005392559,False,Right Foot,Open Play,0,0,2,Normal
+69222,Andrés Iniesta Luján,Barcelona,18.10441934998192,0.054138256682525594,False,Right Foot,Open Play,0,0,1,Normal
+69222,Andrés Lamas Bervejillo,Recreativo Huelva,5.044799302251776,0.05719531139978324,False,Head,Open Play,0,0,5,Normal
+69222,Daniel Alves da Silva,Barcelona,35.31925820285585,0.07694944537501792,False,Right Foot,Free Kick,0,0,0,Normal
+69222,Rafael Márquez Álvarez,Barcelona,8.723531395025761,0.05908977059233539,False,Head,Open Play,0,0,3,Normal
+69222,Bojan Krkíc Pérez,Barcelona,30.627601930285046,0.07265876996570879,False,Right Foot,Open Play,0,0,1,Normal
+69222,Bojan Krkíc Pérez,Barcelona,14.453373308677802,0.059761236025448666,False,Right Foot,Open Play,1,0,1,Normal
+69222,Lionel Andrés Messi Cuccittini,Barcelona,15.839823231336892,0.05937123487068955,False,Left Foot,Open Play,1,0,3,Normal
+69222,Bojan Krkíc Pérez,Barcelona,28.143205219022228,0.07022947332435664,False,Right Foot,Open Play,0,0,1,Normal
+69222,Sisinio González Martínez,Recreativo Huelva,20.16977937410322,0.05838378747948064,False,Right Foot,Open Play,0,0,1,Lob
+69222,Sisinio González Martínez,Recreativo Huelva,18.285786830213237,0.05344690368191432,False,Right Foot,Open Play,1,0,1,Normal
+69222,Sebastián Ricardo Nayar,Recreativo Huelva,61.18373966994826,0.0808350449324946,False,Right Foot,Open Play,0,0,0,Normal
+69222,Lionel Andrés Messi Cuccittini,Barcelona,23.80252087489894,0.06804473507733569,False,Right Foot,Open Play,0,0,2,Normal
+69222,Andrés Iniesta Luján,Barcelona,20.310588371585887,0.06330952099821253,False,Right Foot,Open Play,0,0,1,Normal
+69222,Andrés Iniesta Luján,Barcelona,27.932955446926847,0.06861817287530592,False,Right Foot,Open Play,1,0,0,Half Volley
+69222,Sylvio Mendes Campos Junior,Barcelona,28.9968963856479,0.07097553412368202,False,Left Foot,Open Play,1,0,1,Normal
+69222,Marco Gastón Ruben Rodríguez,Recreativo Huelva,18.08120571200936,0.06386054990907909,False,Left Foot,Open Play,1,1,1,Normal
+69222,Seydou Kéita,Barcelona,6.413267497929582,0.05765443332726794,False,Head,Open Play,0,0,2,Normal
+69222,Lionel Andrés Messi Cuccittini,Barcelona,11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
+69222,Rafael Márquez Álvarez,Barcelona,12.22497443760109,0.057480892068406265,False,Head,Open Play,0,1,2,Normal

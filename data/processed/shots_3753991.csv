@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.651291001564088,0.059710511637041615,False,Head,Open Play,0,0,5,Normal
-28.106404963993533,0.06502937228811297,False,Right Foot,Open Play,1,0,1,Normal
-23.70337528707673,0.06802511637073254,False,Right Foot,Open Play,1,0,4,Normal
-32.175922675193014,0.07376536325452135,False,Right Foot,Open Play,0,0,1,Normal
-28.136808632110363,0.0626629252153526,True,Left Foot,Open Play,0,0,2,Normal
-13.65613415282671,0.058778315926772184,True,Left Foot,Open Play,0,0,2,Normal
-7.54320886625845,0.05853822480548025,False,Head,Open Play,0,0,6,Normal
-17.88854381999832,0.05228273060563955,False,Right Foot,Open Play,1,0,1,Normal
-15.550241155686301,0.062404565295373624,True,Right Foot,Open Play,1,0,3,Normal
-22.188285197373855,0.05822967996255311,False,Right Foot,Open Play,1,0,1,Normal
-19.568597292601225,0.06449758794141103,False,Left Foot,Open Play,0,0,3,Normal
-26.569907790581436,0.07001316381669465,False,Right Foot,Free Kick,0,0,0,Normal
-34.31180554852804,0.07068685933549747,False,Right Foot,Open Play,0,0,2,Normal
-29.3,0.06340659589018546,False,Right Foot,Open Play,1,0,3,Half Volley
-35.11353015576759,0.07553933510650256,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753991,Fernando Luiz Rosa,Manchester City,10.651291001564088,0.059710511637041615,False,Head,Open Play,0,0,5,Normal
+3753991,James Philip Milner,Liverpool,28.106404963993533,0.06502937228811297,False,Right Foot,Open Play,1,0,1,Normal
+3753991,Roberto Firmino Barbosa de Oliveira,Liverpool,23.70337528707673,0.06802511637073254,False,Right Foot,Open Play,1,0,4,Normal
+3753991,Raheem Sterling,Manchester City,32.175922675193014,0.07376536325452135,False,Right Foot,Open Play,0,0,1,Normal
+3753991,Adam David Lallana,Liverpool,28.136808632110363,0.0626629252153526,True,Left Foot,Open Play,0,0,2,Normal
+3753991,James Philip Milner,Liverpool,13.65613415282671,0.058778315926772184,True,Left Foot,Open Play,0,0,2,Normal
+3753991,Sergio Leonel Agüero del Castillo,Manchester City,7.54320886625845,0.05853822480548025,False,Head,Open Play,0,0,6,Normal
+3753991,Divock Okoth Origi,Liverpool,17.88854381999832,0.05228273060563955,False,Right Foot,Open Play,1,0,1,Normal
+3753991,Roberto Firmino Barbosa de Oliveira,Liverpool,15.550241155686301,0.062404565295373624,True,Right Foot,Open Play,1,0,3,Normal
+3753991,James Philip Milner,Liverpool,22.188285197373855,0.05822967996255311,False,Right Foot,Open Play,1,0,1,Normal
+3753991,James Philip Milner,Liverpool,19.568597292601225,0.06449758794141103,False,Left Foot,Open Play,0,0,3,Normal
+3753991,Jordan Brian Henderson,Liverpool,26.569907790581436,0.07001316381669465,False,Right Foot,Free Kick,0,0,0,Normal
+3753991,Wilfried Guemiand Bony,Manchester City,34.31180554852804,0.07068685933549747,False,Right Foot,Open Play,0,0,2,Normal
+3753991,Joe Allen,Liverpool,29.3,0.06340659589018546,False,Right Foot,Open Play,1,0,3,Half Volley
+3753991,Nathaniel Edwin Clyne,Liverpool,35.11353015576759,0.07553933510650256,False,Right Foot,Open Play,0,0,1,Normal

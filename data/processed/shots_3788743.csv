@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.611502686040238,0.06057979265159109,True,Left Foot,Open Play,1,0,1,Normal
-8.190848551890088,0.05704563640073287,False,Head,Open Play,0,1,3,Normal
-21.52812114421507,0.0632846824958758,False,Right Foot,Open Play,1,1,2,Normal
-16.637307474468344,0.060346332084159356,False,Right Foot,Open Play,1,0,0,Half Volley
-9.775479527879948,0.059170136030216355,False,Left Foot,Open Play,1,0,2,Half Volley
-34.67059272640144,0.05982074709329703,False,Right Foot,Open Play,0,0,0,Normal
-12.211879462228572,0.05703515733715319,True,Left Foot,Open Play,1,0,0,Normal
-24.506529742091193,0.05558913130553036,False,Left Foot,Open Play,0,0,1,Normal
-15.768639763784323,0.06282895927907718,False,Right Foot,Open Play,0,0,4,Normal
-27.605253123273485,0.06308365482008924,False,Right Foot,Open Play,0,0,2,Normal
-24.056599926007827,0.06785702719053983,False,Right Foot,Open Play,0,0,3,Normal
-21.561539833694628,0.06644445223591088,False,Left Foot,Open Play,1,0,2,Normal
-19.77093826807418,0.05803676249705815,True,Right Foot,Open Play,1,0,1,Normal
-23.060138768012656,0.05622122024344499,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788743,Romelu Lukaku Menama,Belgium,12.611502686040238,0.06057979265159109,True,Left Foot,Open Play,1,0,1,Normal
+3788743,Mário Figueira Fernandes,Russia,8.190848551890088,0.05704563640073287,False,Head,Open Play,0,1,3,Normal
+3788743,Magomed Ozdoev,Russia,21.52812114421507,0.0632846824958758,False,Right Foot,Open Play,1,1,2,Normal
+3788743,Leander Dendoncker,Belgium,16.637307474468344,0.060346332084159356,False,Right Foot,Open Play,1,0,0,Half Volley
+3788743,Thorgan Hazard,Belgium,9.775479527879948,0.059170136030216355,False,Left Foot,Open Play,1,0,2,Half Volley
+3788743,Toby Alderweireld,Belgium,34.67059272640144,0.05982074709329703,False,Right Foot,Open Play,0,0,0,Normal
+3788743,Thomas Meunier,Belgium,12.211879462228572,0.05703515733715319,True,Left Foot,Open Play,1,0,0,Normal
+3788743,Youri Tielemans,Belgium,24.506529742091193,0.05558913130553036,False,Left Foot,Open Play,0,0,1,Normal
+3788743,Yannick Ferreira Carrasco,Belgium,15.768639763784323,0.06282895927907718,False,Right Foot,Open Play,0,0,4,Normal
+3788743,Roman Zobnin,Russia,27.605253123273485,0.06308365482008924,False,Right Foot,Open Play,0,0,2,Normal
+3788743,Aleksandr Golovin,Russia,24.056599926007827,0.06785702719053983,False,Right Foot,Open Play,0,0,3,Normal
+3788743,Romelu Lukaku Menama,Belgium,21.561539833694628,0.06644445223591088,False,Left Foot,Open Play,1,0,2,Normal
+3788743,Romelu Lukaku Menama,Belgium,19.77093826807418,0.05803676249705815,True,Right Foot,Open Play,1,0,1,Normal
+3788743,Aleksey Miranchuk,Russia,23.060138768012656,0.05622122024344499,False,Left Foot,Free Kick,0,0,0,Normal

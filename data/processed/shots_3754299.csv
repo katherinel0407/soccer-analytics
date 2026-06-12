@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.446189051177281,0.06172249722072765,False,Right Foot,Open Play,1,0,1,Volley
-20.920086041888073,0.05626813872096086,False,Right Foot,Open Play,0,0,2,Normal
-28.063143088399777,0.05626097088694839,False,Left Foot,Free Kick,0,0,0,Normal
-29.086938649503836,0.0705284911176088,False,Left Foot,Open Play,1,0,0,Volley
-6.9079664156682234,0.05812431665726692,False,Head,Open Play,0,1,3,Normal
-24.233241632105273,0.06847984427243603,False,Right Foot,Open Play,0,0,3,Normal
-18.821530224718714,0.05933879621936586,False,Head,Open Play,0,1,2,Normal
-25.9433999313891,0.055917575250784876,False,Left Foot,Open Play,0,0,2,Normal
-8.955445270895241,0.05926128155971686,False,Left Foot,Open Play,0,0,2,Normal
-19.76183189889035,0.06531267825524693,False,Left Foot,Open Play,1,0,2,Normal
-8.508818954473066,0.05902876612450763,True,Left Foot,Open Play,1,0,1,Normal
-8.401190391843286,0.0576418664940453,False,Head,Open Play,0,0,3,Diving Header
-21.474170531128788,0.05587154615195854,False,Right Foot,Open Play,0,0,1,Normal
-7.961155694998058,0.058760261891576314,False,Right Foot,Open Play,1,0,3,Half Volley
-17.280335644888382,0.06046959299997293,False,Right Foot,Open Play,1,0,0,Normal
-18.891532494744837,0.05768358823837523,False,Left Foot,Open Play,0,0,4,Normal
-25.366513359151277,0.06070363064093663,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754299,Marcus Rashford,Manchester United,13.446189051177281,0.06172249722072765,False,Right Foot,Open Play,1,0,1,Volley
+3754299,Anthony Martial,Manchester United,20.920086041888073,0.05626813872096086,False,Right Foot,Open Play,0,0,2,Normal
+3754299,Leighton Baines,Everton,28.063143088399777,0.05626097088694839,False,Left Foot,Free Kick,0,0,0,Normal
+3754299,Faustino Marcos Alberto Rojo,Manchester United,29.086938649503836,0.0705284911176088,False,Left Foot,Open Play,1,0,0,Volley
+3754299,Anthony Martial,Manchester United,6.9079664156682234,0.05812431665726692,False,Head,Open Play,0,1,3,Normal
+3754299,Anthony Martial,Manchester United,24.233241632105273,0.06847984427243603,False,Right Foot,Open Play,0,0,3,Normal
+3754299,Morgan Schneiderlin,Manchester United,18.821530224718714,0.05933879621936586,False,Head,Open Play,0,1,2,Normal
+3754299,Jesse Lingard,Manchester United,25.9433999313891,0.055917575250784876,False,Left Foot,Open Play,0,0,2,Normal
+3754299,Romelu Lukaku Menama,Everton,8.955445270895241,0.05926128155971686,False,Left Foot,Open Play,0,0,2,Normal
+3754299,Tom Cleverley,Everton,19.76183189889035,0.06531267825524693,False,Left Foot,Open Play,1,0,2,Normal
+3754299,Anthony Martial,Manchester United,8.508818954473066,0.05902876612450763,True,Left Foot,Open Play,1,0,1,Normal
+3754299,Phil Jagielka,Everton,8.401190391843286,0.0576418664940453,False,Head,Open Play,0,0,3,Diving Header
+3754299,Kevin Mirallas,Everton,21.474170531128788,0.05587154615195854,False,Right Foot,Open Play,0,0,1,Normal
+3754299,Phil Jagielka,Everton,7.961155694998058,0.058760261891576314,False,Right Foot,Open Play,1,0,3,Half Volley
+3754299,Tom Cleverley,Everton,17.280335644888382,0.06046959299997293,False,Right Foot,Open Play,1,0,0,Normal
+3754299,Marcus Rashford,Manchester United,18.891532494744837,0.05768358823837523,False,Left Foot,Open Play,0,0,4,Normal
+3754299,Juan Manuel Mata García,Manchester United,25.366513359151277,0.06070363064093663,False,Left Foot,Open Play,0,0,1,Normal

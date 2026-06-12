@@ -1,13 +1,13 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.024982662959758,0.06400874347648706,False,Right Foot,Open Play,0,0,1,Normal
-7.566372975210776,0.0551670683812182,True,Left Foot,Open Play,1,0,3,Volley
-25.97306296916095,0.059700788090705,False,Right Foot,Open Play,1,0,0,Normal
-10.881176406988352,0.06030685394191379,False,Head,Open Play,0,1,2,Normal
-15.360013020827815,0.05402306683771708,False,Right Foot,Open Play,1,0,1,Normal
-23.774145620820953,0.06639251859220018,True,Left Foot,Open Play,0,0,1,Half Volley
-24.103319273494257,0.06481437823102087,False,Left Foot,Open Play,0,0,2,Normal
-13.00961183125769,0.05636366594870499,False,Right Foot,Open Play,0,0,3,Normal
-21.1177650332605,0.05806554281492774,False,Left Foot,Open Play,1,0,3,Normal
-21.128653530218156,0.052268805460582546,False,Right Foot,Open Play,1,0,1,Half Volley
-12.845621822239671,0.060818480625595514,False,Head,Open Play,0,0,1,Normal
-24.793547547698783,0.06722943970853072,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825862,Abraham González Casanova,Espanyol,18.024982662959758,0.06400874347648706,False,Right Foot,Open Play,0,0,1,Normal
+3825862,Iago Aspas Juncal,Celta Vigo,7.566372975210776,0.0551670683812182,True,Left Foot,Open Play,1,0,3,Volley
+3825862,Papa Kouly Diop,Espanyol,25.97306296916095,0.059700788090705,False,Right Foot,Open Play,1,0,0,Normal
+3825862,Abraham González Casanova,Espanyol,10.881176406988352,0.06030685394191379,False,Head,Open Play,0,1,2,Normal
+3825862,Hernán Arsenio Pérez González,Espanyol,15.360013020827815,0.05402306683771708,False,Right Foot,Open Play,1,0,1,Normal
+3825862,Marco Asensio Willemsen,Espanyol,23.774145620820953,0.06639251859220018,True,Left Foot,Open Play,0,0,1,Half Volley
+3825862,Marco Asensio Willemsen,Espanyol,24.103319273494257,0.06481437823102087,False,Left Foot,Open Play,0,0,2,Normal
+3825862,Abraham González Casanova,Espanyol,13.00961183125769,0.05636366594870499,False,Right Foot,Open Play,0,0,3,Normal
+3825862,Marco Asensio Willemsen,Espanyol,21.1177650332605,0.05806554281492774,False,Left Foot,Open Play,1,0,3,Normal
+3825862,Abraham González Casanova,Espanyol,21.128653530218156,0.052268805460582546,False,Right Foot,Open Play,1,0,1,Half Volley
+3825862,Manuel Agudo Durán,Celta Vigo,12.845621822239671,0.060818480625595514,False,Head,Open Play,0,0,1,Normal
+3825862,Manuel Agudo Durán,Celta Vigo,24.793547547698783,0.06722943970853072,False,Right Foot,Open Play,0,0,2,Normal

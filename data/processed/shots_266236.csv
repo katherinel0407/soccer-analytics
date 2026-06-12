@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.141612032776976,0.07088097880845834,False,Right Foot,Open Play,1,0,0,Normal
-17.101169550647693,0.061868848731350484,False,Left Foot,Open Play,1,1,4,Normal
-10.823123393919152,0.054595794031197055,False,Head,Open Play,0,1,2,Normal
-12.100413216084807,0.05959743192834747,False,Left Foot,Penalty,0,0,0,Normal
-32.28157369150395,0.07294917451896715,False,Right Foot,Open Play,0,1,2,Normal
-11.088733020503291,0.054660659691704916,False,Right Foot,Open Play,1,0,1,Normal
-31.140006422606923,0.06287167077893333,False,Left Foot,Free Kick,0,0,0,Normal
-28.52718002186687,0.06189810226415748,False,Left Foot,Open Play,0,1,2,Half Volley
-10.49380769787593,0.059407246802206895,False,Left Foot,Open Play,1,0,4,Half Volley
-12.382245353731289,0.05376357130151031,False,Right Foot,Open Play,0,0,1,Normal
-7.1175838597096925,0.05743434916480776,True,Left Foot,Open Play,1,0,2,Volley
-18.24335495461293,0.0549393029611151,False,Right Foot,Open Play,0,1,1,Normal
-25.785654926722337,0.055859061640948185,False,Right Foot,Open Play,1,0,0,Normal
-14.458561477546787,0.06231124926828393,False,Right Foot,Open Play,1,0,2,Half Volley
-16.78689965419464,0.06308465921127301,False,Left Foot,Open Play,0,1,3,Normal
-35.721282171837004,0.0767786328114603,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266236,Sabin Merino Zuloaga,Athletic Club,31.141612032776976,0.07088097880845834,False,Right Foot,Open Play,1,0,0,Normal
+266236,Andrés Iniesta Luján,Barcelona,17.101169550647693,0.061868848731350484,False,Left Foot,Open Play,1,1,4,Normal
+266236,Aritz Aduriz Zubeldia,Athletic Club,10.823123393919152,0.054595794031197055,False,Head,Open Play,0,1,2,Normal
+266236,Lionel Andrés Messi Cuccittini,Barcelona,12.100413216084807,0.05959743192834747,False,Left Foot,Penalty,0,0,0,Normal
+266236,Andrés Iniesta Luján,Barcelona,32.28157369150395,0.07294917451896715,False,Right Foot,Open Play,0,1,2,Normal
+266236,Luis Alberto Suárez Díaz,Barcelona,11.088733020503291,0.054660659691704916,False,Right Foot,Open Play,1,0,1,Normal
+266236,Lionel Andrés Messi Cuccittini,Barcelona,31.140006422606923,0.06287167077893333,False,Left Foot,Free Kick,0,0,0,Normal
+266236,Lionel Andrés Messi Cuccittini,Barcelona,28.52718002186687,0.06189810226415748,False,Left Foot,Open Play,0,1,2,Half Volley
+266236,Aymeric Laporte,Athletic Club,10.49380769787593,0.059407246802206895,False,Left Foot,Open Play,1,0,4,Half Volley
+266236,Luis Alberto Suárez Díaz,Barcelona,12.382245353731289,0.05376357130151031,False,Right Foot,Open Play,0,0,1,Normal
+266236,Luis Alberto Suárez Díaz,Barcelona,7.1175838597096925,0.05743434916480776,True,Left Foot,Open Play,1,0,2,Volley
+266236,Sergi Roberto Carnicer,Barcelona,18.24335495461293,0.0549393029611151,False,Right Foot,Open Play,0,1,1,Normal
+266236,Markel Susaeta Laskurain,Athletic Club,25.785654926722337,0.055859061640948185,False,Right Foot,Open Play,1,0,0,Normal
+266236,Ibai Gómez Pérez,Athletic Club,14.458561477546787,0.06231124926828393,False,Right Foot,Open Play,1,0,2,Half Volley
+266236,Lionel Andrés Messi Cuccittini,Barcelona,16.78689965419464,0.06308465921127301,False,Left Foot,Open Play,0,1,3,Normal
+266236,Aymeric Laporte,Athletic Club,35.721282171837004,0.0767786328114603,False,Left Foot,Open Play,0,0,1,Normal

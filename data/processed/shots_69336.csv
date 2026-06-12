@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.144658559412143,0.06330196959948352,True,Left Foot,Open Play,1,0,1,Normal
-27.497272592022654,0.05491653753588695,False,Left Foot,Open Play,0,0,1,Normal
-26.941603515752362,0.0694389671856309,False,Right Foot,Open Play,0,0,1,Normal
-5.941380311005185,0.05690327227161164,True,Right Foot,Open Play,1,0,2,Half Volley
-12.288612614937458,0.05413158604985697,False,Left Foot,Open Play,0,0,3,Normal
-29.917386249470393,0.07124194703189529,False,Right Foot,Open Play,0,0,1,Normal
-30.13254055004324,0.05776762691394377,False,Right Foot,Open Play,1,0,2,Volley
-19.942417105255828,0.06360606970615089,False,Left Foot,Open Play,0,0,2,Normal
-22.986300267768186,0.05478027538979388,False,Right Foot,Open Play,1,0,2,Half Volley
-13.529966740535617,0.05988831403433484,False,Left Foot,Open Play,0,0,1,Normal
-21.09431202954957,0.06581110061283313,False,Left Foot,Open Play,0,0,3,Normal
-6.888396039717812,0.05793989245558989,True,Left Foot,Open Play,1,0,2,Normal
-6.989277502002618,0.05826330395731632,True,Left Foot,Open Play,1,1,2,Normal
-9.14111590562115,0.05888629649066448,False,Head,Open Play,0,0,2,Normal
-18.12760326132498,0.05724821178263039,False,Right Foot,Open Play,1,0,2,Normal
-22.858040160958684,0.06673636936408447,False,Right Foot,Open Play,0,0,1,Normal
-29.430766214966265,0.058796695737911235,False,Left Foot,Open Play,0,1,1,Normal
-19.407730418572907,0.06466192780703404,False,Right Foot,Open Play,1,0,0,Half Volley
-27.84690287985363,0.06254362866623442,False,Right Foot,Open Play,1,0,0,Normal
-12.445882853377665,0.05526128282162566,True,Left Foot,Open Play,0,0,5,Normal
-15.902201105507372,0.06050224645865063,False,Left Foot,Open Play,0,0,3,Normal
-14.458561477546791,0.06078432852792888,False,Left Foot,Open Play,0,1,2,Normal
-18.599999999999994,0.06245764564440511,False,Left Foot,Open Play,1,0,2,Half Volley
-17.367786272291585,0.06305811321933563,False,Right Foot,Open Play,1,0,0,Normal
-27.88619730260833,0.06761619941933673,False,Right Foot,Open Play,0,0,2,Lob
-7.647875521999555,0.05633579860532007,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69336,Dejan Lekić,Osasuna,16.144658559412143,0.06330196959948352,True,Left Foot,Open Play,1,0,1,Normal
+69336,Lionel Andrés Messi Cuccittini,Barcelona,27.497272592022654,0.05491653753588695,False,Left Foot,Open Play,0,0,1,Normal
+69336,Juan Francisco Martínez Modesto,Osasuna,26.941603515752362,0.0694389671856309,False,Right Foot,Open Play,0,0,1,Normal
+69336,Dejan Lekić,Osasuna,5.941380311005185,0.05690327227161164,True,Right Foot,Open Play,1,0,2,Half Volley
+69336,Lionel Andrés Messi Cuccittini,Barcelona,12.288612614937458,0.05413158604985697,False,Left Foot,Open Play,0,0,3,Normal
+69336,Pedro Eliezer Rodríguez Ledesma,Barcelona,29.917386249470393,0.07124194703189529,False,Right Foot,Open Play,0,0,1,Normal
+69336,Daniel Alves da Silva,Barcelona,30.13254055004324,0.05776762691394377,False,Right Foot,Open Play,1,0,2,Volley
+69336,Pedro Eliezer Rodríguez Ledesma,Barcelona,19.942417105255828,0.06360606970615089,False,Left Foot,Open Play,0,0,2,Normal
+69336,Álvaro Cejudo Carmona,Osasuna,22.986300267768186,0.05478027538979388,False,Right Foot,Open Play,1,0,2,Half Volley
+69336,Lionel Andrés Messi Cuccittini,Barcelona,13.529966740535617,0.05988831403433484,False,Left Foot,Open Play,0,0,1,Normal
+69336,Lionel Andrés Messi Cuccittini,Barcelona,21.09431202954957,0.06581110061283313,False,Left Foot,Open Play,0,0,3,Normal
+69336,Alexis Alejandro Sánchez Sánchez,Barcelona,6.888396039717812,0.05793989245558989,True,Left Foot,Open Play,1,0,2,Normal
+69336,Raúl García Escudero,Osasuna,6.989277502002618,0.05826330395731632,True,Left Foot,Open Play,1,1,2,Normal
+69336,Alexis Alejandro Sánchez Sánchez,Barcelona,9.14111590562115,0.05888629649066448,False,Head,Open Play,0,0,2,Normal
+69336,Sergi Roberto Carnicer,Barcelona,18.12760326132498,0.05724821178263039,False,Right Foot,Open Play,1,0,2,Normal
+69336,Cristian Tello Herrera,Barcelona,22.858040160958684,0.06673636936408447,False,Right Foot,Open Play,0,0,1,Normal
+69336,Juan Isaac Cuenca López,Barcelona,29.430766214966265,0.058796695737911235,False,Left Foot,Open Play,0,1,1,Normal
+69336,Cristian Tello Herrera,Barcelona,19.407730418572907,0.06466192780703404,False,Right Foot,Open Play,1,0,0,Half Volley
+69336,Daniel Alves da Silva,Barcelona,27.84690287985363,0.06254362866623442,False,Right Foot,Open Play,1,0,0,Normal
+69336,Cristian Tello Herrera,Barcelona,12.445882853377665,0.05526128282162566,True,Left Foot,Open Play,0,0,5,Normal
+69336,Juan Isaac Cuenca López,Barcelona,15.902201105507372,0.06050224645865063,False,Left Foot,Open Play,0,0,3,Normal
+69336,Raúl García Escudero,Osasuna,14.458561477546791,0.06078432852792888,False,Left Foot,Open Play,0,1,2,Normal
+69336,Francisco Puñal Martínez,Osasuna,18.599999999999994,0.06245764564440511,False,Left Foot,Open Play,1,0,2,Half Volley
+69336,Cristian Tello Herrera,Barcelona,17.367786272291585,0.06305811321933563,False,Right Foot,Open Play,1,0,0,Normal
+69336,Cristian Tello Herrera,Barcelona,27.88619730260833,0.06761619941933673,False,Right Foot,Open Play,0,0,2,Lob
+69336,Francesc Fàbregas i Soler,Barcelona,7.647875521999555,0.05633579860532007,False,Head,Open Play,0,0,2,Normal

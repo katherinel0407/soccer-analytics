@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.541488353501252,0.05915269081484967,False,Right Foot,Open Play,0,0,2,Normal
-29.0766229125736,0.0719590885697181,False,Right Foot,Open Play,0,0,1,Normal
-30.904530412222734,0.0733097844424866,False,Right Foot,Open Play,0,1,1,Normal
-9.219544457292892,0.05682833545285178,False,Right Foot,Open Play,0,0,2,Volley
-9.577577981932592,0.05484133222029355,True,Right Foot,Open Play,1,0,2,Half Volley
-28.50771825313278,0.07127108285942345,False,Right Foot,Free Kick,0,0,0,Normal
-21.69539121564762,0.0646658950664771,False,Left Foot,Open Play,0,0,2,Normal
-11.001818031580054,0.05910499085074831,False,Left Foot,Open Play,1,1,1,Half Volley
-27.97320146139873,0.07098062286157003,False,Left Foot,Open Play,0,1,1,Normal
-27.417512651588222,0.06972667290958173,False,Right Foot,Open Play,1,0,0,Normal
-31.891221362625792,0.06617840405458507,False,Right Foot,Open Play,1,1,1,Half Volley
-16.924833824885837,0.06285965997883591,False,Left Foot,Open Play,0,1,2,Normal
-6.0074953183502355,0.057255678983522754,True,Right Foot,Open Play,1,0,1,Normal
-16.524527224704492,0.06188039729247752,False,Left Foot,Open Play,1,0,1,Volley
-39.164907761923814,0.06168291440963616,False,Right Foot,Open Play,0,0,0,Normal
-29.00844704564517,0.06659200280780794,False,Right Foot,Open Play,1,0,0,Normal
-28.38045101826256,0.06905135469783659,False,Right Foot,Free Kick,0,0,0,Normal
-30.751422731314403,0.05747947056748426,False,Right Foot,Open Play,0,1,1,Half Volley
-24.253865671269807,0.06746225557623732,False,Left Foot,Open Play,0,0,4,Normal
-21.444113411377028,0.0664857472173887,False,Right Foot,Open Play,0,1,2,Normal
-35.354773369376865,0.07611952000844492,False,Right Foot,Open Play,0,0,1,Normal
-6.074537019394977,0.05723008081255666,True,Left Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879578,Ryder Matos Santos,Carpi,9.541488353501252,0.05915269081484967,False,Right Foot,Open Play,0,0,2,Normal
+3879578,Lorenzo Lollo,Carpi,29.0766229125736,0.0719590885697181,False,Right Foot,Open Play,0,0,1,Normal
+3879578,Ryder Matos Santos,Carpi,30.904530412222734,0.0733097844424866,False,Right Foot,Open Play,0,1,1,Normal
+3879578,Marco Borriello,Carpi,9.219544457292892,0.05682833545285178,False,Right Foot,Open Play,0,0,2,Volley
+3879578,Gaetano Letizia,Carpi,9.577577981932592,0.05484133222029355,True,Right Foot,Open Play,1,0,2,Half Volley
+3879578,Emanuele Giaccherini,Bologna,28.50771825313278,0.07127108285942345,False,Right Foot,Free Kick,0,0,0,Normal
+3879578,Isaac Cofie,Carpi,21.69539121564762,0.0646658950664771,False,Left Foot,Open Play,0,0,2,Normal
+3879578,Mattia Destro,Bologna,11.001818031580054,0.05910499085074831,False,Left Foot,Open Play,1,1,1,Half Volley
+3879578,Luca Rizzo,Bologna,27.97320146139873,0.07098062286157003,False,Left Foot,Open Play,0,1,1,Normal
+3879578,Cristian Zaccardo,Carpi,27.417512651588222,0.06972667290958173,False,Right Foot,Open Play,1,0,0,Normal
+3879578,Gaetano Letizia,Carpi,31.891221362625792,0.06617840405458507,False,Right Foot,Open Play,1,1,1,Half Volley
+3879578,Luca Rizzo,Bologna,16.924833824885837,0.06285965997883591,False,Left Foot,Open Play,0,1,2,Normal
+3879578,Daniele Gastaldello,Bologna,6.0074953183502355,0.057255678983522754,True,Right Foot,Open Play,1,0,1,Normal
+3879578,Luca Rizzo,Bologna,16.524527224704492,0.06188039729247752,False,Left Foot,Open Play,1,0,1,Volley
+3879578,Godfred Donsah,Bologna,39.164907761923814,0.06168291440963616,False,Right Foot,Open Play,0,0,0,Normal
+3879578,Emanuele Giaccherini,Bologna,29.00844704564517,0.06659200280780794,False,Right Foot,Open Play,1,0,0,Normal
+3879578,Emanuele Giaccherini,Bologna,28.38045101826256,0.06905135469783659,False,Right Foot,Free Kick,0,0,0,Normal
+3879578,Godfred Donsah,Bologna,30.751422731314403,0.05747947056748426,False,Right Foot,Open Play,0,1,1,Half Volley
+3879578,Amadou Diawara,Bologna,24.253865671269807,0.06746225557623732,False,Left Foot,Open Play,0,0,4,Normal
+3879578,Emanuele Giaccherini,Bologna,21.444113411377028,0.0664857472173887,False,Right Foot,Open Play,0,1,2,Normal
+3879578,Godfred Donsah,Bologna,35.354773369376865,0.07611952000844492,False,Right Foot,Open Play,0,0,1,Normal
+3879578,Adam Masina,Bologna,6.074537019394977,0.05723008081255666,True,Left Foot,Open Play,1,0,2,Half Volley

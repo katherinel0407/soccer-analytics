@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-39.30814165029937,0.06138799468884979,False,Right Foot,Corner,0,0,0,Normal
-30.384206423732714,0.07251899931733187,False,Right Foot,Open Play,0,0,1,Normal
-36.168079849502654,0.07454343476884535,False,Right Foot,Open Play,0,0,0,Normal
-17.341568556506072,0.057053752681322574,False,Left Foot,Open Play,0,1,1,Half Volley
-12.812884140582872,0.060504893661751005,False,Head,Open Play,0,1,1,Normal
-14.671059948074642,0.06116776267085866,False,Right Foot,Open Play,0,0,3,Half Volley
-15.877657257920633,0.05761938903103801,False,Left Foot,Open Play,0,0,2,Normal
-24.61320783644424,0.06873961633609818,False,Right Foot,Free Kick,0,0,0,Normal
-9.078546139112808,0.05931564365270707,False,Head,Open Play,0,0,4,Normal
-11.494781424629178,0.059394932704507075,False,Right Foot,Open Play,0,0,3,Half Volley
-27.972307734614958,0.057850142565909715,False,Right Foot,Open Play,1,0,0,Volley
-12.54830665866913,0.060198021623789164,False,Left Foot,Open Play,1,0,2,Half Volley
-32.984845004941285,0.07344721112952463,False,Left Foot,Open Play,0,0,0,Normal
-24.920072231034965,0.06722737149237604,False,Right Foot,Open Play,0,0,2,Normal
-16.48059464946578,0.0627735073898086,False,Right Foot,Open Play,1,0,2,Normal
-5.787054518492114,0.05640297068018732,True,Right Foot,Open Play,1,0,2,Volley
-16.063934760823706,0.06287592010401516,False,Left Foot,Open Play,0,0,1,Normal
-8.336066218546975,0.058522050101301896,False,Head,Open Play,0,1,5,Normal
-26.723959287500797,0.05965478757266857,False,Right Foot,Open Play,1,0,1,Half Volley
-12.906200060436074,0.060116458052290114,True,Right Foot,Open Play,0,0,3,Volley
-34.83001579098121,0.07499419481881038,False,Right Foot,Open Play,1,1,1,Normal
-22.41985726984006,0.06609174222190521,False,Right Foot,Open Play,1,0,0,Normal
-24.712952069714376,0.06881264739496519,False,Right Foot,Open Play,1,0,2,Normal
-24.649746449000247,0.063427094684342,False,Left Foot,Open Play,0,0,0,Normal
-28.50701668010878,0.054194376788353656,False,Right Foot,Open Play,0,0,2,Normal
-20.751144546747295,0.06609208865442268,False,Right Foot,Open Play,0,0,2,Normal
-28.092169727523714,0.05440884342678414,False,Left Foot,Open Play,0,0,2,Normal
-32.07319753314284,0.07411447349872645,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857258,Neymar da Silva Santos Junior,Brazil,39.30814165029937,0.06138799468884979,False,Right Foot,Corner,0,0,0,Normal
+3857258,Neymar da Silva Santos Junior,Brazil,30.384206423732714,0.07251899931733187,False,Right Foot,Open Play,0,0,1,Normal
+3857258,Carlos Henrique Casimiro,Brazil,36.168079849502654,0.07454343476884535,False,Right Foot,Open Play,0,0,0,Normal
+3857258,Raphael Dias Belloli,Brazil,17.341568556506072,0.057053752681322574,False,Left Foot,Open Play,0,1,1,Half Volley
+3857258,Filip Mladenović,Serbia,12.812884140582872,0.060504893661751005,False,Head,Open Play,0,1,1,Normal
+3857258,Vinícius José Paixão de Oliveira Júnior,Brazil,14.671059948074642,0.06116776267085866,False,Right Foot,Open Play,0,0,3,Half Volley
+3857258,Raphael Dias Belloli,Brazil,15.877657257920633,0.05761938903103801,False,Left Foot,Open Play,0,0,2,Normal
+3857258,Neymar da Silva Santos Junior,Brazil,24.61320783644424,0.06873961633609818,False,Right Foot,Free Kick,0,0,0,Normal
+3857258,Thiago Emiliano da Silva,Brazil,9.078546139112808,0.05931564365270707,False,Head,Open Play,0,0,4,Normal
+3857258,Richarlison de Andrade,Brazil,11.494781424629178,0.059394932704507075,False,Right Foot,Open Play,0,0,3,Half Volley
+3857258,Danilo Luiz da Silva,Brazil,27.972307734614958,0.057850142565909715,False,Right Foot,Open Play,1,0,0,Volley
+3857258,Neymar da Silva Santos Junior,Brazil,12.54830665866913,0.060198021623789164,False,Left Foot,Open Play,1,0,2,Half Volley
+3857258,Alex Sandro Lobo Silva,Brazil,32.984845004941285,0.07344721112952463,False,Left Foot,Open Play,0,0,0,Normal
+3857258,Vinícius José Paixão de Oliveira Júnior,Brazil,24.920072231034965,0.06722737149237604,False,Right Foot,Open Play,0,0,2,Normal
+3857258,Vinícius José Paixão de Oliveira Júnior,Brazil,16.48059464946578,0.0627735073898086,False,Right Foot,Open Play,1,0,2,Normal
+3857258,Richarlison de Andrade,Brazil,5.787054518492114,0.05640297068018732,True,Right Foot,Open Play,1,0,2,Volley
+3857258,Vinícius José Paixão de Oliveira Júnior,Brazil,16.063934760823706,0.06287592010401516,False,Left Foot,Open Play,0,0,1,Normal
+3857258,Strahinja Pavlović,Serbia,8.336066218546975,0.058522050101301896,False,Head,Open Play,0,1,5,Normal
+3857258,Darko Lazović,Serbia,26.723959287500797,0.05965478757266857,False,Right Foot,Open Play,1,0,1,Half Volley
+3857258,Richarlison de Andrade,Brazil,12.906200060436074,0.060116458052290114,True,Right Foot,Open Play,0,0,3,Volley
+3857258,Carlos Henrique Casimiro,Brazil,34.83001579098121,0.07499419481881038,False,Right Foot,Open Play,1,1,1,Normal
+3857258,Carlos Henrique Casimiro,Brazil,22.41985726984006,0.06609174222190521,False,Right Foot,Open Play,1,0,0,Normal
+3857258,Rodrygo Silva de Goes,Brazil,24.712952069714376,0.06881264739496519,False,Right Foot,Open Play,1,0,2,Normal
+3857258,Frederico Rodrigues Santos,Brazil,24.649746449000247,0.063427094684342,False,Left Foot,Open Play,0,0,0,Normal
+3857258,Nikola Milenković,Serbia,28.50701668010878,0.054194376788353656,False,Right Foot,Open Play,0,0,2,Normal
+3857258,Rodrygo Silva de Goes,Brazil,20.751144546747295,0.06609208865442268,False,Right Foot,Open Play,0,0,2,Normal
+3857258,Antony Matheus dos Santos,Brazil,28.092169727523714,0.05440884342678414,False,Left Foot,Open Play,0,0,2,Normal
+3857258,Nemanja Radonjić,Serbia,32.07319753314284,0.07411447349872645,False,Right Foot,Open Play,0,1,1,Normal

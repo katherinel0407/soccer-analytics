@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.013660446406794,0.059333350684507194,False,Head,Open Play,0,0,3,Normal
-29.6096268129134,0.07214521781199702,False,Right Foot,Open Play,0,0,1,Normal
-8.134494452638101,0.05805288163744076,False,Right Foot,Open Play,1,1,2,Half Volley
-17.95689282698986,0.06439552657362503,False,Left Foot,Open Play,1,1,1,Normal
-31.82153358969363,0.07395055448404571,False,Right Foot,Open Play,0,0,1,Normal
-32.192545721020565,0.07357016742620669,False,Right Foot,Open Play,0,0,0,Normal
-17.081569014584115,0.052969772225120004,False,Right Foot,Open Play,1,0,1,Volley
-31.407164787672247,0.073158264843257,False,Right Foot,Open Play,0,1,1,Normal
-26.470549673174524,0.0675698024383823,True,Left Foot,Open Play,0,0,0,Normal
-9.841239759298622,0.05383650830165391,False,Right Foot,Open Play,1,0,1,Half Volley
-15.147607071745682,0.06137166818525978,False,Right Foot,Open Play,1,0,0,Normal
-4.2059481689626175,0.05677314579463384,True,Right Foot,Open Play,1,1,3,Normal
-22.43234272206093,0.06081255279887508,False,Left Foot,Open Play,1,0,1,Normal
-11.031772296417296,0.060279459375379124,False,Right Foot,Open Play,1,1,2,Backheel
-18.63571839237758,0.05430937025155193,False,Right Foot,Open Play,1,0,1,Volley
-11.676043850551434,0.05910999229572488,False,Right Foot,Open Play,1,0,2,Backheel
-28.574814085134477,0.07043292236687843,False,Right Foot,Open Play,0,1,2,Normal
-18.52673743539321,0.06440396142869617,False,Left Foot,Open Play,0,1,2,Normal
-27.014810752622356,0.06090093793360532,False,Left Foot,Free Kick,0,0,0,Normal
-11.610770861575041,0.05994435381896779,False,Left Foot,Open Play,0,1,2,Half Volley
-17.14934401077778,0.06125752895191523,False,Right Foot,Open Play,1,1,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-25.761405241174256,0.06771752866745806,False,Left Foot,Open Play,1,0,2,Normal
-20.591503102007877,0.06171513449707645,False,Right Foot,Open Play,0,0,0,Lob
-34.40523216023982,0.07055369714882505,False,Right Foot,Open Play,0,0,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879580,Leonardo Bonucci,Juventus,15.013660446406794,0.059333350684507194,False,Head,Open Play,0,0,3,Normal
+3879580,Claudio Marchisio,Juventus,29.6096268129134,0.07214521781199702,False,Right Foot,Open Play,0,0,1,Normal
+3879580,Mario Mandžukić,Juventus,8.134494452638101,0.05805288163744076,False,Right Foot,Open Play,1,1,2,Half Volley
+3879580,Paulo Bruno Exequiel Dybala,Juventus,17.95689282698986,0.06439552657362503,False,Left Foot,Open Play,1,1,1,Normal
+3879580,Paul Pogba,Juventus,31.82153358969363,0.07395055448404571,False,Right Foot,Open Play,0,0,1,Normal
+3879580,Paul Pogba,Juventus,32.192545721020565,0.07357016742620669,False,Right Foot,Open Play,0,0,0,Normal
+3879580,Alberto Grassi,Atalanta,17.081569014584115,0.052969772225120004,False,Right Foot,Open Play,1,0,1,Volley
+3879580,Jasmin Kurtič,Atalanta,31.407164787672247,0.073158264843257,False,Right Foot,Open Play,0,1,1,Normal
+3879580,Paulo Bruno Exequiel Dybala,Juventus,26.470549673174524,0.0675698024383823,True,Left Foot,Open Play,0,0,0,Normal
+3879580,Paulo Bruno Exequiel Dybala,Juventus,9.841239759298622,0.05383650830165391,False,Right Foot,Open Play,1,0,1,Half Volley
+3879580,Paulo Bruno Exequiel Dybala,Juventus,15.147607071745682,0.06137166818525978,False,Right Foot,Open Play,1,0,0,Normal
+3879580,Mario Mandžukić,Juventus,4.2059481689626175,0.05677314579463384,True,Right Foot,Open Play,1,1,3,Normal
+3879580,Sami Khedira,Juventus,22.43234272206093,0.06081255279887508,False,Left Foot,Open Play,1,0,1,Normal
+3879580,Marco D''Alessandro,Atalanta,11.031772296417296,0.060279459375379124,False,Right Foot,Open Play,1,1,2,Backheel
+3879580,Sami Khedira,Juventus,18.63571839237758,0.05430937025155193,False,Right Foot,Open Play,1,0,1,Volley
+3879580,Mauricio Ricardo Pinilla Ferreira,Atalanta,11.676043850551434,0.05910999229572488,False,Right Foot,Open Play,1,0,2,Backheel
+3879580,Mauricio Ricardo Pinilla Ferreira,Atalanta,28.574814085134477,0.07043292236687843,False,Right Foot,Open Play,0,1,2,Normal
+3879580,Paulo Bruno Exequiel Dybala,Juventus,18.52673743539321,0.06440396142869617,False,Left Foot,Open Play,0,1,2,Normal
+3879580,Paulo Bruno Exequiel Dybala,Juventus,27.014810752622356,0.06090093793360532,False,Left Foot,Free Kick,0,0,0,Normal
+3879580,Paulo Bruno Exequiel Dybala,Juventus,11.610770861575041,0.05994435381896779,False,Left Foot,Open Play,0,1,2,Half Volley
+3879580,Paulo Bruno Exequiel Dybala,Juventus,17.14934401077778,0.06125752895191523,False,Right Foot,Open Play,1,1,2,Normal
+3879580,Paul Pogba,Juventus,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3879580,Paulo Bruno Exequiel Dybala,Juventus,25.761405241174256,0.06771752866745806,False,Left Foot,Open Play,1,0,2,Normal
+3879580,Álvaro Borja Morata Martín,Juventus,20.591503102007877,0.06171513449707645,False,Right Foot,Open Play,0,0,0,Lob
+3879580,Mauricio Ricardo Pinilla Ferreira,Atalanta,34.40523216023982,0.07055369714882505,False,Right Foot,Open Play,0,0,5,Normal

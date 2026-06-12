@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.401219466856727,0.06340913375881178,True,Right Foot,Open Play,0,0,2,Normal
-17.029386365926403,0.05574201488403172,True,Right Foot,Open Play,0,0,1,Normal
-13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,1,0,2,Normal
-10.770329614269007,0.060095212670544365,False,Head,Open Play,0,0,4,Normal
-12.083045973594572,0.05736897543158315,False,Head,Open Play,0,0,3,Normal
-7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,1,1,Normal
-15.811388300841896,0.06272913445707379,True,Right Foot,Open Play,1,0,1,Normal
-25.495097567963924,0.0692519249928429,False,Right Foot,Open Play,1,0,1,Normal
-28.460498941515414,0.07081895985316171,False,Right Foot,Open Play,0,0,3,Normal
-17.804493814764857,0.06423060993775254,False,Right Foot,Open Play,0,0,2,Normal
-11.704699910719626,0.0605385134389479,False,Right Foot,Open Play,0,0,3,Normal
-14.866068747318506,0.055476284459140046,False,Right Foot,Open Play,0,1,1,Normal
-20.615528128088304,0.06511475898866875,False,Left Foot,Open Play,1,0,0,Normal
-19.924858845171276,0.06001754119593364,False,Right Foot,Open Play,0,1,2,Normal
-29.5296461204668,0.07231380145195304,False,Right Foot,Open Play,0,0,0,Normal
-13.038404810405298,0.05662069864043803,False,Head,Open Play,0,0,3,Normal
-17.204650534085253,0.05648305914518772,False,Right Foot,Open Play,0,0,1,Volley
-7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,1,4,Normal
-29.410882339705484,0.061979539853386265,False,Right Foot,Open Play,1,0,1,Normal
-13.152946437965905,0.05926864524510461,False,Left Foot,Open Play,1,0,2,Volley
-17.029386365926403,0.06325637343712076,False,Right Foot,Open Play,0,0,1,Normal
-15.652475842498529,0.052731880896080954,False,Right Foot,Open Play,0,0,1,Normal
-28.792360097775937,0.06105764888995644,False,Right Foot,Open Play,0,0,0,Normal
-12.041594578792296,0.0599481063460977,False,Right Foot,Open Play,1,0,1,Normal
-13.601470508735444,0.05850801793153552,False,Left Foot,Open Play,1,0,1,Normal
-19.1049731745428,0.061780754155030204,False,Left Foot,Open Play,0,0,2,Normal
-9.486832980505138,0.05933973589891108,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7490,Hayley Emma Raso,Portland Thorns,16.401219466856727,0.06340913375881178,True,Right Foot,Open Play,0,0,2,Normal
+7490,Ana-Maria Crnogorčević,Portland Thorns,17.029386365926403,0.05574201488403172,True,Right Foot,Open Play,0,0,1,Normal
+7490,Christine Margaret Sinclair,Portland Thorns,13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,1,0,2,Normal
+7490,Hayley Emma Raso,Portland Thorns,10.770329614269007,0.060095212670544365,False,Head,Open Play,0,0,4,Normal
+7490,Christine Margaret Sinclair,Portland Thorns,12.083045973594572,0.05736897543158315,False,Head,Open Play,0,0,3,Normal
+7490,Shea Groom,NJ/NY Gotham FC,7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,1,1,Normal
+7490,Imani Dorsey,NJ/NY Gotham FC,15.811388300841896,0.06272913445707379,True,Right Foot,Open Play,1,0,1,Normal
+7490,Imani Dorsey,NJ/NY Gotham FC,25.495097567963924,0.0692519249928429,False,Right Foot,Open Play,1,0,1,Normal
+7490,Savannah McCaskill,NJ/NY Gotham FC,28.460498941515414,0.07081895985316171,False,Right Foot,Open Play,0,0,3,Normal
+7490,Hayley Emma Raso,Portland Thorns,17.804493814764857,0.06423060993775254,False,Right Foot,Open Play,0,0,2,Normal
+7490,Katherine Reynolds,Portland Thorns,11.704699910719626,0.0605385134389479,False,Right Foot,Open Play,0,0,3,Normal
+7490,Shea Groom,NJ/NY Gotham FC,14.866068747318506,0.055476284459140046,False,Right Foot,Open Play,0,1,1,Normal
+7490,Imani Dorsey,NJ/NY Gotham FC,20.615528128088304,0.06511475898866875,False,Left Foot,Open Play,1,0,0,Normal
+7490,Savannah McCaskill,NJ/NY Gotham FC,19.924858845171276,0.06001754119593364,False,Right Foot,Open Play,0,1,2,Normal
+7490,Tyler Lussi,Portland Thorns,29.5296461204668,0.07231380145195304,False,Right Foot,Open Play,0,0,0,Normal
+7490,Tyler Lussi,Portland Thorns,13.038404810405298,0.05662069864043803,False,Head,Open Play,0,0,3,Normal
+7490,Tyler Lussi,Portland Thorns,17.204650534085253,0.05648305914518772,False,Right Foot,Open Play,0,0,1,Volley
+7490,Raquel Rodriguez,NJ/NY Gotham FC,7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,1,4,Normal
+7490,Raquel Rodriguez,NJ/NY Gotham FC,29.410882339705484,0.061979539853386265,False,Right Foot,Open Play,1,0,1,Normal
+7490,Janine Elizabeth Beckie,NJ/NY Gotham FC,13.152946437965905,0.05926864524510461,False,Left Foot,Open Play,1,0,2,Volley
+7490,Amanda Frisbie,NJ/NY Gotham FC,17.029386365926403,0.06325637343712076,False,Right Foot,Open Play,0,0,1,Normal
+7490,Janine Elizabeth Beckie,NJ/NY Gotham FC,15.652475842498529,0.052731880896080954,False,Right Foot,Open Play,0,0,1,Normal
+7490,Dominique Richardson,NJ/NY Gotham FC,28.792360097775937,0.06105764888995644,False,Right Foot,Open Play,0,0,0,Normal
+7490,Imani Dorsey,NJ/NY Gotham FC,12.041594578792296,0.0599481063460977,False,Right Foot,Open Play,1,0,1,Normal
+7490,Janine Elizabeth Beckie,NJ/NY Gotham FC,13.601470508735444,0.05850801793153552,False,Left Foot,Open Play,1,0,1,Normal
+7490,Raquel Rodriguez,NJ/NY Gotham FC,19.1049731745428,0.061780754155030204,False,Left Foot,Open Play,0,0,2,Normal
+7490,Sarah Killion,NJ/NY Gotham FC,9.486832980505138,0.05933973589891108,False,Left Foot,Open Play,0,0,3,Normal

@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.483104767802864,0.06136032781333616,False,Left Foot,Open Play,1,1,2,Half Volley
-20.01449474755733,0.06044952636403043,False,Right Foot,Open Play,1,1,2,Normal
-9.170605214488301,0.0539375583079924,False,Head,Open Play,0,0,1,Normal
-15.700000000000003,0.05681551573822613,False,Right Foot,Open Play,1,1,1,Volley
-26.03247971285102,0.06077482746806461,False,Right Foot,Open Play,0,1,2,Normal
-26.70917445373406,0.06590336213925543,False,Right Foot,Open Play,1,0,0,Volley
-25.012197024651798,0.062421354490945116,False,Right Foot,Open Play,0,1,2,Normal
-27.22076413328619,0.07059006192010465,False,Right Foot,Open Play,0,0,0,Normal
-7.212489168102781,0.058314452349587514,False,Head,Open Play,0,1,1,Normal
-11.899999999999997,0.05998211476378802,False,Head,Open Play,0,0,1,Normal
-22.348601745970598,0.06642875460817166,False,Right Foot,Open Play,0,1,2,Half Volley
-12.515989773086261,0.06104034003697989,False,Right Foot,Open Play,0,1,3,Half Volley
-16.888457596832225,0.055749531861878865,False,Right Foot,Open Play,1,1,1,Normal
-11.065260954898443,0.058751136531770005,False,Head,Open Play,0,1,3,Diving Header
-18.27840255602223,0.06418315783872394,False,Left Foot,Open Play,0,1,2,Normal
-12.185236969382256,0.06089154906141658,False,Head,Open Play,0,1,3,Normal
-30.545867150892935,0.05898196049572157,False,Left Foot,Open Play,1,1,1,Half Volley
-22.927058250024142,0.06041232703166204,False,Right Foot,Open Play,1,1,1,Half Volley
-16.194134740701646,0.06302161033159841,False,Head,Open Play,0,0,1,Normal
-24.961570463414354,0.06672263200062903,False,Right Foot,Open Play,0,0,1,Normal
-8.183520025025912,0.05565569587383729,False,Head,Open Play,0,1,6,Normal
-21.791970998512276,0.055650756525130476,False,Right Foot,Open Play,1,0,0,Normal
-22.45395288139708,0.06703623359782211,False,Left Foot,Open Play,1,0,1,Normal
-5.90338885725818,0.05486334743866342,True,Right Foot,Open Play,1,1,3,Half Volley
-14.909057649630304,0.06146416796386744,False,Right Foot,Open Play,1,0,1,Volley
-30.686316168611697,0.058030728241122716,False,Right Foot,Open Play,0,0,2,Normal
-8.415461959987704,0.05884125126860307,False,Head,Open Play,0,1,4,Normal
-16.883423823383687,0.06313266559008042,False,Right Foot,Open Play,0,0,3,Normal
-20.715453169071633,0.05872601667119671,False,Left Foot,Open Play,0,0,2,Normal
-35.58440669731617,0.07685778901861387,False,Left Foot,Free Kick,0,0,0,Normal
-27.465796911795593,0.06759224436864268,False,Right Foot,Open Play,1,0,1,Normal
-17.568437608393072,0.06388055049591189,False,Right Foot,Open Play,1,0,1,Normal
-15.981239000778384,0.06295805897689295,False,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879830,Jesús Joaquín Fernández Sáez de la Torre,Genoa,22.483104767802864,0.06136032781333616,False,Left Foot,Open Play,1,1,2,Half Volley
+3879830,Felipe Melo de Carvalho,Inter Milan,20.01449474755733,0.06044952636403043,False,Right Foot,Open Play,1,1,2,Normal
+3879830,Ivan Perišić,Inter Milan,9.170605214488301,0.0539375583079924,False,Head,Open Play,0,0,1,Normal
+3879830,Marcelo Brozović,Inter Milan,15.700000000000003,0.05681551573822613,False,Right Foot,Open Play,1,1,1,Volley
+3879830,Leonardo Pavoletti,Genoa,26.03247971285102,0.06077482746806461,False,Right Foot,Open Play,0,1,2,Normal
+3879830,Blerim Džemaili,Genoa,26.70917445373406,0.06590336213925543,False,Right Foot,Open Play,1,0,0,Volley
+3879830,Blerim Džemaili,Genoa,25.012197024651798,0.062421354490945116,False,Right Foot,Open Play,0,1,2,Normal
+3879830,Blerim Džemaili,Genoa,27.22076413328619,0.07059006192010465,False,Right Foot,Open Play,0,0,0,Normal
+3879830,Mauro Emanuel Icardi Rivero,Inter Milan,7.212489168102781,0.058314452349587514,False,Head,Open Play,0,1,1,Normal
+3879830,Ivan Perišić,Inter Milan,11.899999999999997,0.05998211476378802,False,Head,Open Play,0,0,1,Normal
+3879830,Marcelo Brozović,Inter Milan,22.348601745970598,0.06642875460817166,False,Right Foot,Open Play,0,1,2,Half Volley
+3879830,Mauro Emanuel Icardi Rivero,Inter Milan,12.515989773086261,0.06104034003697989,False,Right Foot,Open Play,0,1,3,Half Volley
+3879830,Leonardo Pavoletti,Genoa,16.888457596832225,0.055749531861878865,False,Right Foot,Open Play,1,1,1,Normal
+3879830,Leonardo Pavoletti,Genoa,11.065260954898443,0.058751136531770005,False,Head,Open Play,0,1,3,Diving Header
+3879830,Gary Alexis Medel Soto,Inter Milan,18.27840255602223,0.06418315783872394,False,Left Foot,Open Play,0,1,2,Normal
+3879830,Leonardo Pavoletti,Genoa,12.185236969382256,0.06089154906141658,False,Head,Open Play,0,1,3,Normal
+3879830,Luca Rigoni,Genoa,30.545867150892935,0.05898196049572157,False,Left Foot,Open Play,1,1,1,Half Volley
+3879830,Felipe Melo de Carvalho,Inter Milan,22.927058250024142,0.06041232703166204,False,Right Foot,Open Play,1,1,1,Half Volley
+3879830,Rodrigo Sebastián Palacio,Inter Milan,16.194134740701646,0.06302161033159841,False,Head,Open Play,0,0,1,Normal
+3879830,Ivan Perišić,Inter Milan,24.961570463414354,0.06672263200062903,False,Right Foot,Open Play,0,0,1,Normal
+3879830,Giovanni Marchese,Genoa,8.183520025025912,0.05565569587383729,False,Head,Open Play,0,1,6,Normal
+3879830,Luca Rigoni,Genoa,21.791970998512276,0.055650756525130476,False,Right Foot,Open Play,1,0,0,Normal
+3879830,Panagiotis Tachtsidis,Genoa,22.45395288139708,0.06703623359782211,False,Left Foot,Open Play,1,0,1,Normal
+3879830,Sebastian De Maio,Genoa,5.90338885725818,0.05486334743866342,True,Right Foot,Open Play,1,1,3,Half Volley
+3879830,Stevan Jovetić,Inter Milan,14.909057649630304,0.06146416796386744,False,Right Foot,Open Play,1,0,1,Volley
+3879830,Felipe Melo de Carvalho,Inter Milan,30.686316168611697,0.058030728241122716,False,Right Foot,Open Play,0,0,2,Normal
+3879830,Mauro Emanuel Icardi Rivero,Inter Milan,8.415461959987704,0.05884125126860307,False,Head,Open Play,0,1,4,Normal
+3879830,Eder Citadin Martins,Inter Milan,16.883423823383687,0.06313266559008042,False,Right Foot,Open Play,0,0,3,Normal
+3879830,Cristian Daniel Ansaldi,Genoa,20.715453169071633,0.05872601667119671,False,Left Foot,Open Play,0,0,2,Normal
+3879830,Panagiotis Tachtsidis,Genoa,35.58440669731617,0.07685778901861387,False,Left Foot,Free Kick,0,0,0,Normal
+3879830,Ezequiel Muñoz,Genoa,27.465796911795593,0.06759224436864268,False,Right Foot,Open Play,1,0,1,Normal
+3879830,Stevan Jovetić,Inter Milan,17.568437608393072,0.06388055049591189,False,Right Foot,Open Play,1,0,1,Normal
+3879830,Eder Citadin Martins,Inter Milan,15.981239000778384,0.06295805897689295,False,Left Foot,Open Play,0,1,3,Normal

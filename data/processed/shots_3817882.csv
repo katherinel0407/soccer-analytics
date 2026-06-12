@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.000624975587838,0.058590496775034244,False,Head,Open Play,0,0,2,Normal
-22.80811259179505,0.06728021432012563,False,Left Foot,Open Play,0,1,1,Half Volley
-20.066389809828767,0.06571655734958316,False,Right Foot,Open Play,0,0,2,Normal
-20.04819193842677,0.05246136247946852,True,Right Foot,Open Play,0,0,1,Normal
-17.90111728356641,0.06430404476043804,False,Left Foot,Open Play,0,0,3,Normal
-15.384732691860464,0.05759455224615857,False,Left Foot,Open Play,0,1,3,Normal
-11.473883387938022,0.05887722341492454,False,Head,Open Play,0,1,2,Normal
-26.77984316608296,0.06054431373932345,False,Left Foot,Open Play,1,0,2,Half Volley
-23.527430798963156,0.05528118867985233,False,Left Foot,Open Play,0,0,2,Normal
-28.08789774974268,0.05928247803053752,False,Right Foot,Open Play,1,0,0,Volley
-10.469001862641923,0.05993421866495654,False,Head,Open Play,0,1,1,Normal
-26.557296549159513,0.06052341677885772,False,Left Foot,Open Play,0,0,0,Normal
-8.453401682163221,0.0589804301888629,False,Head,Open Play,0,0,2,Diving Header
-34.58106418258408,0.06733444806920615,False,Left Foot,Open Play,0,0,2,Normal
-17.78819833485111,0.05975140413744031,False,Head,Open Play,0,0,2,Normal
-25.466252178127824,0.06821120156875624,False,Left Foot,Open Play,0,1,1,Normal
-17.27946758439044,0.06397749986402886,False,Right Foot,Open Play,1,0,2,Normal
-11.098198051936174,0.06033227890833709,False,Head,Open Play,0,1,3,Normal
-32.87019926924691,0.0749232053994109,False,Left Foot,Free Kick,0,0,0,Normal
-8.850988645343527,0.056187169292616725,False,Head,Open Play,0,1,4,Normal
-24.465894629054546,0.06859680775959899,False,Right Foot,Open Play,1,0,1,Volley
-23.555254190944325,0.06593119402725237,True,Right Foot,Free Kick,0,0,0,Normal
-16.367040050051813,0.05414189330766489,False,Right Foot,Open Play,0,0,2,Normal
-32.231816579274586,0.07345126035221793,False,Left Foot,Open Play,0,0,2,Normal
-24.397745797511703,0.0541814100890442,False,Left Foot,Open Play,0,0,3,Normal
-32.7995426797387,0.07426212996302561,False,Left Foot,Open Play,1,0,1,Half Volley
-21.95859740511675,0.06685965203722291,False,Left Foot,Open Play,0,0,5,Normal
-8.2,0.05735744992072633,False,Head,Open Play,0,1,3,Normal
-13.556548233234004,0.05758886497225115,False,Head,Open Play,0,1,2,Normal
-13.83220878963298,0.05870206944583828,False,Left Foot,Open Play,1,0,1,Volley
-4.570557952810575,0.05682041575778641,True,Head,Open Play,0,0,7,Normal
-17.861970775925037,0.06302595588733749,False,Head,Open Play,0,1,2,Normal
-31.132137735786795,0.07354086492864094,False,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817882,Syed Suhail Pasha,Chennaiyin,8.000624975587838,0.058590496775034244,False,Head,Open Play,0,0,2,Normal
+3817882,Wahengbam Angousana Luwang,East Bengal,22.80811259179505,0.06728021432012563,False,Left Foot,Open Play,0,1,1,Half Volley
+3817882,Marcelo Ribeiro dos Santos,East Bengal,20.066389809828767,0.06571655734958316,False,Right Foot,Open Play,0,0,2,Normal
+3817882,Khumanthem Ninthoinganba Meetei,Chennaiyin,20.04819193842677,0.05246136247946852,True,Right Foot,Open Play,0,0,1,Normal
+3817882,Nerijus Valskis,Chennaiyin,17.90111728356641,0.06430404476043804,False,Left Foot,Open Play,0,0,3,Normal
+3817882,Antonio Perošević,East Bengal,15.384732691860464,0.05759455224615857,False,Left Foot,Open Play,0,1,3,Normal
+3817882,Marcelo Ribeiro dos Santos,East Bengal,11.473883387938022,0.05887722341492454,False,Head,Open Play,0,1,2,Normal
+3817882,Antonio Perošević,East Bengal,26.77984316608296,0.06054431373932345,False,Left Foot,Open Play,1,0,2,Half Volley
+3817882,Antonio Perošević,East Bengal,23.527430798963156,0.05528118867985233,False,Left Foot,Open Play,0,0,2,Normal
+3817882,Hira Mondal,East Bengal,28.08789774974268,0.05928247803053752,False,Right Foot,Open Play,1,0,0,Volley
+3817882,Adil Khan,East Bengal,10.469001862641923,0.05993421866495654,False,Head,Open Play,0,1,1,Normal
+3817882,Sourav Das,East Bengal,26.557296549159513,0.06052341677885772,False,Left Foot,Open Play,0,0,0,Normal
+3817882,Marcelo Ribeiro dos Santos,East Bengal,8.453401682163221,0.0589804301888629,False,Head,Open Play,0,0,2,Diving Header
+3817882,Germanpreet Singh,Chennaiyin,34.58106418258408,0.06733444806920615,False,Left Foot,Open Play,0,0,2,Normal
+3817882,Anirudh Thapa,Chennaiyin,17.78819833485111,0.05975140413744031,False,Head,Open Play,0,0,2,Normal
+3817882,Naorem Mahesh Singh,East Bengal,25.466252178127824,0.06821120156875624,False,Left Foot,Open Play,0,1,1,Normal
+3817882,Naorem Mahesh Singh,East Bengal,17.27946758439044,0.06397749986402886,False,Right Foot,Open Play,1,0,2,Normal
+3817882,Antonio Perošević,East Bengal,11.098198051936174,0.06033227890833709,False,Head,Open Play,0,1,3,Normal
+3817882,Antonio Perošević,East Bengal,32.87019926924691,0.0749232053994109,False,Left Foot,Free Kick,0,0,0,Normal
+3817882,Marcelo Ribeiro dos Santos,East Bengal,8.850988645343527,0.056187169292616725,False,Head,Open Play,0,1,4,Normal
+3817882,Hira Mondal,East Bengal,24.465894629054546,0.06859680775959899,False,Right Foot,Open Play,1,0,1,Volley
+3817882,Darren Sidoel,East Bengal,23.555254190944325,0.06593119402725237,True,Right Foot,Free Kick,0,0,0,Normal
+3817882,Marcelo Ribeiro dos Santos,East Bengal,16.367040050051813,0.05414189330766489,False,Right Foot,Open Play,0,0,2,Normal
+3817882,Antonio Perošević,East Bengal,32.231816579274586,0.07345126035221793,False,Left Foot,Open Play,0,0,2,Normal
+3817882,Antonio Perošević,East Bengal,24.397745797511703,0.0541814100890442,False,Left Foot,Open Play,0,0,3,Normal
+3817882,Sourav Das,East Bengal,32.7995426797387,0.07426212996302561,False,Left Foot,Open Play,1,0,1,Half Volley
+3817882,Naorem Mahesh Singh,East Bengal,21.95859740511675,0.06685965203722291,False,Left Foot,Open Play,0,0,5,Normal
+3817882,Łukasz Gikiewicz,Chennaiyin,8.2,0.05735744992072633,False,Head,Open Play,0,1,3,Normal
+3817882,Marcelo Ribeiro dos Santos,East Bengal,13.556548233234004,0.05758886497225115,False,Head,Open Play,0,1,2,Normal
+3817882,Naorem Mahesh Singh,East Bengal,13.83220878963298,0.05870206944583828,False,Left Foot,Open Play,1,0,1,Volley
+3817882,Lalrinliana Hnamte,East Bengal,4.570557952810575,0.05682041575778641,True,Head,Open Play,0,0,7,Normal
+3817882,Narayan Das,Chennaiyin,17.861970775925037,0.06302595588733749,False,Head,Open Play,0,1,2,Normal
+3817882,Francisco José Sota Bernard,East Bengal,31.132137735786795,0.07354086492864094,False,Right Foot,Open Play,1,0,2,Volley

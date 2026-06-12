@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.402921800749363,0.056373669278027616,False,Left Foot,Open Play,0,0,3,Half Volley
-11.151681487560518,0.05405362378719781,False,Right Foot,Open Play,1,1,2,Half Volley
-27.08357435790188,0.0558391229000289,False,Right Foot,Open Play,0,0,1,Lob
-10.217631819555836,0.054805135647808936,False,Head,Open Play,0,1,2,Normal
-27.72814454665151,0.06657369088977211,False,Right Foot,Open Play,0,0,2,Normal
-17.4794164662325,0.053106463826760444,False,Right Foot,Open Play,1,0,1,Normal
-28.503508555965524,0.07066762801877863,False,Right Foot,Open Play,0,1,1,Normal
-27.700000000000003,0.06675629485000568,False,Left Foot,Open Play,0,0,1,Normal
-18.27785545407338,0.05865340356874877,False,Right Foot,Open Play,1,0,1,Half Volley
-31.637003650788422,0.0627893531028106,False,Right Foot,Free Kick,0,0,0,Normal
-32.03825837963106,0.0665086299887718,False,Left Foot,Open Play,1,0,0,Normal
-23.389313799254566,0.05254890898907071,False,Left Foot,Open Play,0,1,1,Normal
-31.003548184038543,0.05971548914345562,False,Right Foot,Free Kick,0,0,0,Normal
-16.80773631397161,0.0636889009672503,False,Right Foot,Open Play,1,0,0,Volley
-15.420765220960984,0.0625577114921584,False,Left Foot,Open Play,0,0,2,Half Volley
-6.911584478250995,0.057643472064038595,False,Head,Open Play,0,0,5,Normal
-5.635601121442149,0.05596303894101564,False,Head,Open Play,0,1,5,Normal
-25.26064132202506,0.06167068398955724,False,Right Foot,Open Play,0,1,1,Normal
-8.2,0.05853556284971418,True,Right Foot,Open Play,1,0,1,Volley
-12.467958934805651,0.06117549714835095,False,Left Foot,Open Play,1,1,2,Normal
-15.838244852255565,0.06212300637296981,False,Left Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-6.652818951391962,0.05806091173419853,False,Right Foot,Open Play,1,0,1,Half Volley
-6.4621977685614045,0.057899846582251766,True,Right Foot,Open Play,1,0,2,Volley
-17.14205355259398,0.06227035438990651,False,Left Foot,Open Play,1,1,3,Half Volley
-23.964348520249825,0.06825722550770716,False,Right Foot,Open Play,0,0,0,Normal
-17.71327186038762,0.05217075316992615,False,Right Foot,Open Play,0,0,2,Normal
-26.46129248543994,0.06702643069802346,False,Right Foot,Open Play,0,0,3,Normal
-30.845745249547793,0.05506482705514678,False,Left Foot,Open Play,0,1,1,Normal
-22.04948979001555,0.0661571670659696,False,Right Foot,Open Play,0,0,1,Normal
-10.084641788382969,0.058915224790640756,False,Head,Open Play,0,1,1,Normal
-23.176712450216055,0.05330633734597384,False,Right Foot,Open Play,0,0,1,Normal
-30.164382970649342,0.06275606399580629,False,Left Foot,Open Play,1,0,0,Half Volley
-14.091131963046825,0.05645150997355816,False,Right Foot,Open Play,0,0,1,Normal
-19.363109254456013,0.06526469073735724,False,Right Foot,Open Play,0,1,2,Normal
-14.326548781894395,0.06210352659744012,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901217,Stéphane Darbion,Troyes,15.402921800749363,0.056373669278027616,False,Left Foot,Open Play,0,0,3,Half Volley
+3901217,Corentin Jean,Troyes,11.151681487560518,0.05405362378719781,False,Right Foot,Open Play,1,1,2,Half Volley
+3901217,Jessy Pi,Troyes,27.08357435790188,0.0558391229000289,False,Right Foot,Open Play,0,0,1,Lob
+3901217,Carlos Eduardo de Castro Lourenço,Troyes,10.217631819555836,0.054805135647808936,False,Head,Open Play,0,1,2,Normal
+3901217,Alhassane Bangoura,Stade de Reims,27.72814454665151,0.06657369088977211,False,Right Foot,Open Play,0,0,2,Normal
+3901217,Corentin Jean,Troyes,17.4794164662325,0.053106463826760444,False,Right Foot,Open Play,1,0,1,Normal
+3901217,Nicolas de Roussel de Préville,Stade de Reims,28.503508555965524,0.07066762801877863,False,Right Foot,Open Play,0,1,1,Normal
+3901217,Jessy Pi,Troyes,27.700000000000003,0.06675629485000568,False,Left Foot,Open Play,0,0,1,Normal
+3901217,Benjamin Nivet,Troyes,18.27785545407338,0.05865340356874877,False,Right Foot,Open Play,1,0,1,Half Volley
+3901217,Nicolas de Roussel de Préville,Stade de Reims,31.637003650788422,0.0627893531028106,False,Right Foot,Free Kick,0,0,0,Normal
+3901217,Thiago Xavier Rodrigues Corrêa,Troyes,32.03825837963106,0.0665086299887718,False,Left Foot,Open Play,1,0,0,Normal
+3901217,Stéphane Darbion,Troyes,23.389313799254566,0.05254890898907071,False,Left Foot,Open Play,0,1,1,Normal
+3901217,Nicolas de Roussel de Préville,Stade de Reims,31.003548184038543,0.05971548914345562,False,Right Foot,Free Kick,0,0,0,Normal
+3901217,Fabien Camus,Troyes,16.80773631397161,0.0636889009672503,False,Right Foot,Open Play,1,0,0,Volley
+3901217,Corentin Jean,Troyes,15.420765220960984,0.0625577114921584,False,Left Foot,Open Play,0,0,2,Half Volley
+3901217,Carlos Eduardo de Castro Lourenço,Troyes,6.911584478250995,0.057643472064038595,False,Head,Open Play,0,0,5,Normal
+3901217,Prince Oniangué,Stade de Reims,5.635601121442149,0.05596303894101564,False,Head,Open Play,0,1,5,Normal
+3901217,Aloïs Confais,Troyes,25.26064132202506,0.06167068398955724,False,Right Foot,Open Play,0,1,1,Normal
+3901217,Fabien Camus,Troyes,8.2,0.05853556284971418,True,Right Foot,Open Play,1,0,1,Volley
+3901217,Stéphane Darbion,Troyes,12.467958934805651,0.06117549714835095,False,Left Foot,Open Play,1,1,2,Normal
+3901217,Thievy Guivane Bifouma Koulossa,Stade de Reims,15.838244852255565,0.06212300637296981,False,Left Foot,Open Play,0,0,2,Normal
+3901217,Benjamin Nivet,Troyes,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3901217,Nicolas de Roussel de Préville,Stade de Reims,6.652818951391962,0.05806091173419853,False,Right Foot,Open Play,1,0,1,Half Volley
+3901217,Thievy Guivane Bifouma Koulossa,Stade de Reims,6.4621977685614045,0.057899846582251766,True,Right Foot,Open Play,1,0,2,Volley
+3901217,Gaëtan Charbonnier,Stade de Reims,17.14205355259398,0.06227035438990651,False,Left Foot,Open Play,1,1,3,Half Volley
+3901217,Mouhamadou Dabo,Troyes,23.964348520249825,0.06825722550770716,False,Right Foot,Open Play,0,0,0,Normal
+3901217,Antoine Conte,Stade de Reims,17.71327186038762,0.05217075316992615,False,Right Foot,Open Play,0,0,2,Normal
+3901217,Nicolas de Roussel de Préville,Stade de Reims,26.46129248543994,0.06702643069802346,False,Right Foot,Open Play,0,0,3,Normal
+3901217,Chaouki Ben Saada,Troyes,30.845745249547793,0.05506482705514678,False,Left Foot,Open Play,0,1,1,Normal
+3901217,Nicolas de Roussel de Préville,Stade de Reims,22.04948979001555,0.0661571670659696,False,Right Foot,Open Play,0,0,1,Normal
+3901217,Antoine Conte,Stade de Reims,10.084641788382969,0.058915224790640756,False,Head,Open Play,0,1,1,Normal
+3901217,Corentin Jean,Troyes,23.176712450216055,0.05330633734597384,False,Right Foot,Open Play,0,0,1,Normal
+3901217,Chaouki Ben Saada,Troyes,30.164382970649342,0.06275606399580629,False,Left Foot,Open Play,1,0,0,Half Volley
+3901217,Theoson Jordan Siebatcheu,Stade de Reims,14.091131963046825,0.05645150997355816,False,Right Foot,Open Play,0,0,1,Normal
+3901217,Fabien Camus,Troyes,19.363109254456013,0.06526469073735724,False,Right Foot,Open Play,0,1,2,Normal
+3901217,Theoson Jordan Siebatcheu,Stade de Reims,14.326548781894395,0.06210352659744012,False,Head,Open Play,0,0,4,Normal

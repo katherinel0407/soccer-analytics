@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.148144754701937,0.06213098633524055,False,Right Foot,Open Play,0,0,2,Normal
-19.455076458343715,0.061079978108469726,False,Right Foot,Open Play,1,0,2,Half Volley
-17.360011520733504,0.06318656401898126,False,Left Foot,Open Play,0,1,2,Normal
-19.0370691021491,0.06480159484142411,False,Left Foot,Open Play,0,0,1,Normal
-26.97128102259883,0.07012972641696169,False,Right Foot,Open Play,1,0,1,Normal
-25.87856255667999,0.06847955618096864,False,Right Foot,Open Play,1,0,0,Volley
-16.593974810153235,0.0606890004293603,False,Left Foot,Open Play,1,0,1,Volley
-19.142622599842475,0.052127701628069276,False,Right Foot,Open Play,0,0,3,Normal
-29.346550052774514,0.07184454126187706,False,Right Foot,Open Play,0,0,1,Normal
-15.211837495845135,0.05262789253041851,True,Right Foot,Open Play,0,1,1,Normal
-26.25890325204006,0.06990425561289777,False,Left Foot,Open Play,0,0,2,Normal
-29.413772284424866,0.06710694300433143,False,Right Foot,Open Play,0,1,0,Normal
-6.224146527838177,0.05625455106431498,True,Head,Open Play,0,0,3,Normal
-18.560172412992287,0.05625205445907432,False,Right Foot,Open Play,1,0,1,Volley
-29.06165858997039,0.058171149273686225,False,Right Foot,Open Play,0,0,0,Normal
-23.95266164750798,0.06355877220353573,False,Right Foot,Open Play,0,0,4,Normal
-11.321660655575222,0.059051315180585325,True,Left Foot,Open Play,1,0,2,Volley
-11.486513831445992,0.055628513622430514,False,Head,Open Play,0,0,3,Normal
-30.26763948510025,0.06480164591831547,False,Right Foot,Free Kick,0,0,0,Normal
-16.258536219475598,0.06305227782040954,False,Right Foot,Open Play,1,0,0,Half Volley
-17.82133552795637,0.05482382385970863,False,Right Foot,Open Play,1,1,1,Normal
-18.022763384120644,0.06436732239206325,False,Right Foot,Open Play,1,0,3,Normal
-6.262587324740476,0.05645786407415533,False,Head,Open Play,0,0,3,Normal
-21.805045287730998,0.061078189081902545,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69228,Thierry Henry,Barcelona,14.148144754701937,0.06213098633524055,False,Right Foot,Open Play,0,0,2,Normal
+69228,Daniel Alves da Silva,Barcelona,19.455076458343715,0.061079978108469726,False,Right Foot,Open Play,1,0,2,Half Volley
+69228,Thierry Henry,Barcelona,17.360011520733504,0.06318656401898126,False,Left Foot,Open Play,0,1,2,Normal
+69228,Giuseppe Rossi,Villarreal,19.0370691021491,0.06480159484142411,False,Left Foot,Open Play,0,0,1,Normal
+69228,Samuel Eto''o Fils,Barcelona,26.97128102259883,0.07012972641696169,False,Right Foot,Open Play,1,0,1,Normal
+69228,Sergio Busquets i Burgos,Barcelona,25.87856255667999,0.06847955618096864,False,Right Foot,Open Play,1,0,0,Volley
+69228,Lionel Andrés Messi Cuccittini,Barcelona,16.593974810153235,0.0606890004293603,False,Left Foot,Open Play,1,0,1,Volley
+69228,Robert Pirès,Villarreal,19.142622599842475,0.052127701628069276,False,Right Foot,Open Play,0,0,3,Normal
+69228,Thierry Henry,Barcelona,29.346550052774514,0.07184454126187706,False,Right Foot,Open Play,0,0,1,Normal
+69228,Rubén Gracia Calmache,Villarreal,15.211837495845135,0.05262789253041851,True,Right Foot,Open Play,0,1,1,Normal
+69228,Seydou Kéita,Barcelona,26.25890325204006,0.06990425561289777,False,Left Foot,Open Play,0,0,2,Normal
+69228,Xavier Hernández Creus,Barcelona,29.413772284424866,0.06710694300433143,False,Right Foot,Open Play,0,1,0,Normal
+69228,Seydou Kéita,Barcelona,6.224146527838177,0.05625455106431498,True,Head,Open Play,0,0,3,Normal
+69228,Samuel Eto''o Fils,Barcelona,18.560172412992287,0.05625205445907432,False,Right Foot,Open Play,1,0,1,Volley
+69228,Daniel Alves da Silva,Barcelona,29.06165858997039,0.058171149273686225,False,Right Foot,Open Play,0,0,0,Normal
+69228,Thierry Henry,Barcelona,23.95266164750798,0.06355877220353573,False,Right Foot,Open Play,0,0,4,Normal
+69228,Thierry Henry,Barcelona,11.321660655575222,0.059051315180585325,True,Left Foot,Open Play,1,0,2,Volley
+69228,Gerard Piqué Bernabéu,Barcelona,11.486513831445992,0.055628513622430514,False,Head,Open Play,0,0,3,Normal
+69228,Marcos Antonio Senna da Silva,Villarreal,30.26763948510025,0.06480164591831547,False,Right Foot,Free Kick,0,0,0,Normal
+69228,Joan Capdevila Méndez,Villarreal,16.258536219475598,0.06305227782040954,False,Right Foot,Open Play,1,0,0,Half Volley
+69228,Guillermo Luis Franco Farquarson,Villarreal,17.82133552795637,0.05482382385970863,False,Right Foot,Open Play,1,1,1,Normal
+69228,Nihat Kahveci,Villarreal,18.022763384120644,0.06436732239206325,False,Right Foot,Open Play,1,0,3,Normal
+69228,Guillermo Luis Franco Farquarson,Villarreal,6.262587324740476,0.05645786407415533,False,Head,Open Play,0,0,3,Normal
+69228,Lionel Andrés Messi Cuccittini,Barcelona,21.805045287730998,0.061078189081902545,False,Left Foot,Open Play,0,0,2,Normal

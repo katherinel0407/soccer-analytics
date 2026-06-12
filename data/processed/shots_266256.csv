@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.706344156134087,0.06273944656377854,False,Left Foot,Open Play,1,0,2,Half Volley
-13.188252348207476,0.060743697620941464,False,Head,Open Play,0,1,1,Normal
-29.98166106138884,0.07151371967048718,False,Right Foot,Open Play,0,0,2,Normal
-26.07719310048533,0.06973746508047694,False,Right Foot,Open Play,1,0,0,Volley
-9.503683496413384,0.058041130636352786,False,Head,Open Play,0,1,4,Normal
-18.700000000000003,0.0625026797111358,False,Right Foot,Open Play,1,0,3,Half Volley
-7.045565981523414,0.0578102576564201,False,Head,Open Play,0,1,5,Normal
-8.964373932405989,0.05927205897007989,False,Head,Open Play,0,0,2,Normal
-21.12060605191054,0.05128878870069762,True,Right Foot,Open Play,1,0,2,Half Volley
-32.70015290484128,0.05653368680303539,False,Right Foot,Open Play,0,0,1,Normal
-27.44011661782799,0.07076141642617985,False,Left Foot,Open Play,0,0,2,Normal
-17.810109488714552,0.06326259948171144,False,Left Foot,Open Play,0,0,1,Half Volley
-10.965856099730653,0.0597471620968275,True,Head,Open Play,0,0,4,Normal
-23.7065391822594,0.06284645920313442,False,Right Foot,Open Play,0,1,2,Normal
-24.20991532409809,0.06214236532014024,False,Right Foot,Open Play,1,0,1,Volley
-29.516944286290876,0.07098133100582164,False,Right Foot,Open Play,0,0,3,Normal
-26.819768828235635,0.0569421588579496,False,Left Foot,Free Kick,0,0,0,Normal
-10.369667304209907,0.05846922800267396,False,Head,Open Play,0,1,6,Normal
-31.203204963593087,0.06128219848275399,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266256,Andrés Iniesta Luján,Barcelona,19.706344156134087,0.06273944656377854,False,Left Foot,Open Play,1,0,2,Half Volley
+266256,João Miranda de Souza Filho,Atlético Madrid,13.188252348207476,0.060743697620941464,False,Head,Open Play,0,1,1,Normal
+266256,Adriano Correia Claro,Barcelona,29.98166106138884,0.07151371967048718,False,Right Foot,Open Play,0,0,2,Normal
+266256,Arda Turan,Atlético Madrid,26.07719310048533,0.06973746508047694,False,Right Foot,Open Play,1,0,0,Volley
+266256,Alexis Alejandro Sánchez Sánchez,Barcelona,9.503683496413384,0.058041130636352786,False,Head,Open Play,0,1,4,Normal
+266256,Jorge Resurrección Merodio,Atlético Madrid,18.700000000000003,0.0625026797111358,False,Right Foot,Open Play,1,0,3,Half Volley
+266256,Raúl García Escudero,Atlético Madrid,7.045565981523414,0.0578102576564201,False,Head,Open Play,0,1,5,Normal
+266256,Pedro Eliezer Rodríguez Ledesma,Barcelona,8.964373932405989,0.05927205897007989,False,Head,Open Play,0,0,2,Normal
+266256,Alexis Alejandro Sánchez Sánchez,Barcelona,21.12060605191054,0.05128878870069762,True,Right Foot,Open Play,1,0,2,Half Volley
+266256,Raúl García Escudero,Atlético Madrid,32.70015290484128,0.05653368680303539,False,Right Foot,Open Play,0,0,1,Normal
+266256,Raúl García Escudero,Atlético Madrid,27.44011661782799,0.07076141642617985,False,Left Foot,Open Play,0,0,2,Normal
+266256,David Villa Sánchez,Atlético Madrid,17.810109488714552,0.06326259948171144,False,Left Foot,Open Play,0,0,1,Half Volley
+266256,Diego Roberto Godín Leal,Atlético Madrid,10.965856099730653,0.0597471620968275,True,Head,Open Play,0,0,4,Normal
+266256,Raúl García Escudero,Atlético Madrid,23.7065391822594,0.06284645920313442,False,Right Foot,Open Play,0,1,2,Normal
+266256,Andrés Iniesta Luján,Barcelona,24.20991532409809,0.06214236532014024,False,Right Foot,Open Play,1,0,1,Volley
+266256,Andrés Iniesta Luján,Barcelona,29.516944286290876,0.07098133100582164,False,Right Foot,Open Play,0,0,3,Normal
+266256,Lionel Andrés Messi Cuccittini,Barcelona,26.819768828235635,0.0569421588579496,False,Left Foot,Free Kick,0,0,0,Normal
+266256,Gerard Piqué Bernabéu,Barcelona,10.369667304209907,0.05846922800267396,False,Head,Open Play,0,1,6,Normal
+266256,Daniel Alves da Silva,Barcelona,31.203204963593087,0.06128219848275399,False,Right Foot,Open Play,0,0,0,Normal

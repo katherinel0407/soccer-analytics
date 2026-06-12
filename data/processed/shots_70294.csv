@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.640013661195816,0.0623950709030064,False,Right Foot,Open Play,1,0,1,Volley
-18.976301009416986,0.06444559872764793,False,Right Foot,Open Play,0,1,2,Normal
-11.951987282456416,0.058820999112976516,False,Head,Open Play,0,0,3,Normal
-2.617250465660477,0.05500707503556458,True,Right Foot,Open Play,1,0,1,Normal
-23.072277737579356,0.06656831087344973,False,Left Foot,Open Play,1,0,1,Half Volley
-28.8294987816299,0.06991111309969801,False,Left Foot,Free Kick,0,0,0,Normal
-9.052071586106683,0.05528532322014898,False,Right Foot,Open Play,1,0,1,Volley
-7.9309520235593425,0.055411373989721575,False,Left Foot,Open Play,1,1,3,Normal
-20.75090359478353,0.05162291217586216,False,Right Foot,Open Play,0,0,1,Normal
-18.216476058777122,0.06417030878639672,False,Right Foot,Open Play,0,0,3,Normal
-31.01612483854165,0.07343943230775327,False,Right Foot,Open Play,0,0,1,Normal
-8.234682750416072,0.05882745307973871,True,Right Foot,Open Play,1,0,1,Normal
-23.50319127267614,0.06707173906103742,False,Right Foot,Open Play,0,0,2,Normal
-32.5161498335827,0.07466996233823509,False,Right Foot,Open Play,0,0,1,Volley
-26.841944787961992,0.06553543440340986,False,Right Foot,Open Play,0,1,1,Normal
-27.164130760987,0.06876212923000383,True,Left Foot,Free Kick,0,0,0,Normal
-12.491997438360285,0.06093080710245381,False,Head,Open Play,0,1,2,Normal
-10.692988356862644,0.053469462592958206,False,Left Foot,Open Play,0,0,2,Normal
-17.978042162593784,0.05805472603950937,False,Left Foot,Open Play,1,0,2,Volley
-14.173919711921611,0.05370599806998059,False,Right Foot,Open Play,0,0,2,Normal
-7.559100475585705,0.05852104923243921,False,Head,Open Play,0,0,2,Normal
-19.981241202688086,0.06400563395157459,False,Right Foot,Open Play,0,0,2,Normal
-12.006664815842907,0.06014054791599523,False,Right Foot,Open Play,0,0,2,Normal
-15.601281998605112,0.05632879715854903,False,Right Foot,Open Play,0,0,2,Normal
-12.731457104353767,0.06072449742798228,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70294,Manuel Agudo Durán,Granada,14.640013661195816,0.0623950709030064,False,Right Foot,Open Play,1,0,1,Volley
+70294,Alexis Alejandro Sánchez Sánchez,Barcelona,18.976301009416986,0.06444559872764793,False,Right Foot,Open Play,0,1,2,Normal
+70294,Thiago Alcântara do Nascimento,Barcelona,11.951987282456416,0.058820999112976516,False,Head,Open Play,0,0,3,Normal
+70294,Odion Jude Ighalo,Granada,2.617250465660477,0.05500707503556458,True,Right Foot,Open Play,1,0,1,Normal
+70294,Adriano Correia Claro,Barcelona,23.072277737579356,0.06656831087344973,False,Left Foot,Open Play,1,0,1,Half Volley
+70294,Lionel Andrés Messi Cuccittini,Barcelona,28.8294987816299,0.06991111309969801,False,Left Foot,Free Kick,0,0,0,Normal
+70294,Lionel Andrés Messi Cuccittini,Barcelona,9.052071586106683,0.05528532322014898,False,Right Foot,Open Play,1,0,1,Volley
+70294,Lionel Andrés Messi Cuccittini,Barcelona,7.9309520235593425,0.055411373989721575,False,Left Foot,Open Play,1,1,3,Normal
+70294,Daniel Alves da Silva,Barcelona,20.75090359478353,0.05162291217586216,False,Right Foot,Open Play,0,0,1,Normal
+70294,Carlos Reina Aranda,Granada,18.216476058777122,0.06417030878639672,False,Right Foot,Open Play,0,0,3,Normal
+70294,Francesc Fàbregas i Soler,Barcelona,31.01612483854165,0.07343943230775327,False,Right Foot,Open Play,0,0,1,Normal
+70294,Lionel Andrés Messi Cuccittini,Barcelona,8.234682750416072,0.05882745307973871,True,Right Foot,Open Play,1,0,1,Normal
+70294,Cristian Tello Herrera,Barcelona,23.50319127267614,0.06707173906103742,False,Right Foot,Open Play,0,0,2,Normal
+70294,Thiago Alcântara do Nascimento,Barcelona,32.5161498335827,0.07466996233823509,False,Right Foot,Open Play,0,0,1,Volley
+70294,Pedro Eliezer Rodríguez Ledesma,Barcelona,26.841944787961992,0.06553543440340986,False,Right Foot,Open Play,0,1,1,Normal
+70294,Lionel Andrés Messi Cuccittini,Barcelona,27.164130760987,0.06876212923000383,True,Left Foot,Free Kick,0,0,0,Normal
+70294,Youssef El-Arabi,Granada,12.491997438360285,0.06093080710245381,False,Head,Open Play,0,1,2,Normal
+70294,Cristian Tello Herrera,Barcelona,10.692988356862644,0.053469462592958206,False,Left Foot,Open Play,0,0,2,Normal
+70294,Lionel Andrés Messi Cuccittini,Barcelona,17.978042162593784,0.05805472603950937,False,Left Foot,Open Play,1,0,2,Volley
+70294,Cristian Tello Herrera,Barcelona,14.173919711921611,0.05370599806998059,False,Right Foot,Open Play,0,0,2,Normal
+70294,Íñigo López Montaña,Granada,7.559100475585705,0.05852104923243921,False,Head,Open Play,0,0,2,Normal
+70294,Yacine Brahimi,Granada,19.981241202688086,0.06400563395157459,False,Right Foot,Open Play,0,0,2,Normal
+70294,Yacine Brahimi,Granada,12.006664815842907,0.06014054791599523,False,Right Foot,Open Play,0,0,2,Normal
+70294,Lionel Andrés Messi Cuccittini,Barcelona,15.601281998605112,0.05632879715854903,False,Right Foot,Open Play,0,0,2,Normal
+70294,Andrés Iniesta Luján,Barcelona,12.731457104353767,0.06072449742798228,False,Left Foot,Open Play,1,0,1,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.480311307228202,0.07350485519714084,False,Left Foot,Open Play,0,0,1,Normal
-17.393389548906214,0.06260095934658655,False,Right Foot,Open Play,1,1,1,Half Volley
-14.755676873664587,0.06169429869954379,True,Left Foot,Open Play,1,0,0,Normal
-25.404330339530695,0.06670937263185252,False,Right Foot,Open Play,1,0,1,Normal
-24.254690268069805,0.060763630119842406,False,Left Foot,Open Play,1,0,0,Normal
-7.099999999999994,0.05759528047093247,True,Right Foot,Open Play,0,0,3,Backheel
-32.695718374123544,0.05886174947958962,False,Right Foot,Open Play,0,0,1,Half Volley
-16.822009392459627,0.06365393222458841,False,Right Foot,Open Play,0,0,2,Half Volley
-16.368261972488103,0.052629633963513306,True,Right Foot,Open Play,1,0,2,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-13.319534526401439,0.05892831643903692,True,Right Foot,Open Play,1,0,1,Half Volley
-11.130588483993108,0.059764532053051524,True,Right Foot,Open Play,0,0,2,Half Volley
-17.72004514666935,0.06369725336273913,False,Head,Open Play,0,0,5,Normal
-29.359325605333645,0.07079182988326499,False,Left Foot,Open Play,1,0,2,Normal
-14.58903697986951,0.056662076802955263,True,Right Foot,Open Play,0,0,1,Normal
-23.659670327373544,0.06771103105394906,False,Right Foot,Open Play,0,0,1,Normal
-24.112444919584576,0.06210130314949269,False,Right Foot,Open Play,0,0,0,Half Volley
-31.324910215354166,0.06432230407449215,False,Right Foot,Open Play,1,1,2,Half Volley
-23.820999139414784,0.06438453016296601,True,Left Foot,Open Play,1,1,4,Half Volley
-14.383671297690308,0.061652174536199846,False,Right Foot,Open Play,1,0,4,Half Volley
-14.52618325645109,0.062343668521965205,True,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754348,Wes Hoolahan,Norwich City,31.480311307228202,0.07350485519714084,False,Left Foot,Open Play,0,0,1,Normal
+3754348,Roberto Firmino Barbosa de Oliveira,Liverpool,17.393389548906214,0.06260095934658655,False,Right Foot,Open Play,1,1,1,Half Volley
+3754348,Roberto Firmino Barbosa de Oliveira,Liverpool,14.755676873664587,0.06169429869954379,True,Left Foot,Open Play,1,0,0,Normal
+3754348,Jordan Brian Henderson,Liverpool,25.404330339530695,0.06670937263185252,False,Right Foot,Open Play,1,0,1,Normal
+3754348,Alberto Moreno Pérez,Liverpool,24.254690268069805,0.060763630119842406,False,Left Foot,Open Play,1,0,0,Normal
+3754348,Dieumerci Mbokani Bezua,Norwich City,7.099999999999994,0.05759528047093247,True,Right Foot,Open Play,0,0,3,Backheel
+3754348,Nathaniel Edwin Clyne,Liverpool,32.695718374123544,0.05886174947958962,False,Right Foot,Open Play,0,0,1,Half Volley
+3754348,Jonathan Howson,Norwich City,16.822009392459627,0.06365393222458841,False,Right Foot,Open Play,0,0,2,Half Volley
+3754348,Steven Naismith,Norwich City,16.368261972488103,0.052629633963513306,True,Right Foot,Open Play,1,0,2,Normal
+3754348,Wes Hoolahan,Norwich City,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3754348,Jordan Brian Henderson,Liverpool,13.319534526401439,0.05892831643903692,True,Right Foot,Open Play,1,0,1,Half Volley
+3754348,Roberto Firmino Barbosa de Oliveira,Liverpool,11.130588483993108,0.059764532053051524,True,Right Foot,Open Play,0,0,2,Half Volley
+3754348,Sébastien Aymar Bassong Nguena,Norwich City,17.72004514666935,0.06369725336273913,False,Head,Open Play,0,0,5,Normal
+3754348,Alberto Moreno Pérez,Liverpool,29.359325605333645,0.07079182988326499,False,Left Foot,Open Play,1,0,2,Normal
+3754348,James Philip Milner,Liverpool,14.58903697986951,0.056662076802955263,True,Right Foot,Open Play,0,0,1,Normal
+3754348,Roberto Firmino Barbosa de Oliveira,Liverpool,23.659670327373544,0.06771103105394906,False,Right Foot,Open Play,0,0,1,Normal
+3754348,James Philip Milner,Liverpool,24.112444919584576,0.06210130314949269,False,Right Foot,Open Play,0,0,0,Half Volley
+3754348,Lucas Pezzini Leiva,Liverpool,31.324910215354166,0.06432230407449215,False,Right Foot,Open Play,1,1,2,Half Volley
+3754348,Sébastien Aymar Bassong Nguena,Norwich City,23.820999139414784,0.06438453016296601,True,Left Foot,Open Play,1,1,4,Half Volley
+3754348,Steven Caulker,Liverpool,14.383671297690308,0.061652174536199846,False,Right Foot,Open Play,1,0,4,Half Volley
+3754348,Adam David Lallana,Liverpool,14.52618325645109,0.062343668521965205,True,Left Foot,Open Play,1,0,1,Volley

@@ -1,54 +1,54 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.97056274847714,0.055018037838245354,False,Right Foot,Open Play,1,0,1,Volley
-5.0990195135927845,0.05646461582252842,False,Left Foot,Open Play,1,0,6,Volley
-25.298221281347036,0.06860704452329207,False,Left Foot,Open Play,1,0,0,Half Volley
-27.459060435491963,0.07073976803324834,False,Left Foot,Open Play,0,0,1,Normal
-3.0,0.056007231776386834,True,Left Foot,Open Play,1,0,3,Volley
-30.528675044947494,0.07308048920531349,False,Left Foot,Open Play,0,0,1,Normal
-26.1725046566048,0.054501872581307176,False,Right Foot,Open Play,1,0,0,Half Volley
-23.40939982143925,0.06747974823010745,False,Left Foot,Open Play,0,0,2,Normal
-33.13608305156178,0.06761254894204079,False,Left Foot,Open Play,0,0,1,Normal
-24.73863375370596,0.06773547177450513,False,Right Foot,Open Play,0,0,3,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,0,2,Normal
-7.0,0.05755567023984417,False,Left Foot,Open Play,0,0,3,Half Volley
-5.830951894845301,0.05767021280254906,False,Left Foot,Open Play,0,0,4,Half Volley
-31.016124838541646,0.0678388919552401,False,Left Foot,Open Play,0,0,1,Normal
-10.0,0.05453484322702866,False,Head,Open Play,0,0,5,Normal
-28.0178514522438,0.0514911621290048,False,Right Foot,Open Play,0,0,2,Half Volley
-15.0,0.0608685876884121,False,Left Foot,Open Play,1,0,2,Volley
-25.495097567963924,0.06292532539615285,False,Right Foot,Open Play,0,0,1,Normal
-21.93171219946131,0.06676456494118087,False,Left Foot,Open Play,1,0,1,Normal
-30.463092423455635,0.07279683522372006,False,Left Foot,Open Play,0,0,2,Normal
-31.827660925679098,0.05357867329923538,False,Left Foot,Free Kick,0,0,0,Normal
-15.620499351813308,0.05438627996731815,False,Right Foot,Open Play,0,0,1,Normal
-9.848857801796104,0.059657413278702213,False,Head,Open Play,0,1,2,Normal
-35.014282800023196,0.07113001819295907,False,Right Foot,Open Play,0,0,1,Normal
-24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,2,Normal
-9.0,0.05835638047140873,False,Right Foot,Open Play,1,0,2,Normal
-11.661903789690601,0.05384580871934762,False,Right Foot,Open Play,0,0,3,Normal
-5.385164807134504,0.057375734640212235,True,Right Foot,Open Play,1,0,3,Half Volley
-18.439088914585774,0.06089568735911852,False,Right Foot,Open Play,0,0,1,Normal
-4.47213595499958,0.055780969328069314,False,Head,Open Play,0,0,6,Normal
-34.0147027033899,0.07058648459998179,False,Right Foot,Open Play,0,0,0,Normal
-34.9857113690718,0.07671653273082207,False,Left Foot,Open Play,0,0,2,Normal
-8.602325267042627,0.059095933698217445,False,Head,Open Play,0,0,5,Normal
-18.110770276274835,0.061351480882246026,False,Left Foot,Open Play,1,0,2,Normal
-28.442925306655784,0.06419816434277001,False,Right Foot,Open Play,0,0,0,Normal
-31.38470965295043,0.05776634921137929,False,Left Foot,Open Play,0,0,0,Normal
-21.213203435596427,0.06595439570017494,False,Left Foot,Open Play,0,0,3,Normal
-14.422205101855956,0.053762469761102494,False,Left Foot,Open Play,1,0,2,Overhead Kick
-24.73863375370596,0.06200580540578194,False,Right Foot,Open Play,0,0,3,Normal
-32.7566787083184,0.07290783246468518,False,Right Foot,Free Kick,0,0,0,Normal
-18.384776310850235,0.058814035735414036,False,Left Foot,Open Play,0,0,5,Normal
-12.083045973594572,0.05736897543158315,False,Right Foot,Open Play,0,0,1,Normal
-21.93171219946131,0.05103310890147747,False,Right Foot,Open Play,0,1,1,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,False,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+18243,Jorge Resurrección Merodio,Atlético Madrid,16.97056274847714,0.055018037838245354,False,Right Foot,Open Play,1,0,1,Volley
+18243,Karim Benzema,Real Madrid,5.0990195135927845,0.05646461582252842,False,Left Foot,Open Play,1,0,6,Volley
+18243,Marcelo Vieira da Silva Júnior,Real Madrid,25.298221281347036,0.06860704452329207,False,Left Foot,Open Play,1,0,0,Half Volley
+18243,Toni Kroos,Real Madrid,27.459060435491963,0.07073976803324834,False,Left Foot,Open Play,0,0,1,Normal
+18243,Sergio Ramos García,Real Madrid,3.0,0.056007231776386834,True,Left Foot,Open Play,1,0,3,Volley
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,30.528675044947494,0.07308048920531349,False,Left Foot,Open Play,0,0,1,Normal
+18243,Juan Francisco Torres Belén,Atlético Madrid,26.1725046566048,0.054501872581307176,False,Right Foot,Open Play,1,0,0,Half Volley
+18243,Antoine Griezmann,Atlético Madrid,23.40939982143925,0.06747974823010745,False,Left Foot,Open Play,0,0,2,Normal
+18243,Antoine Griezmann,Atlético Madrid,33.13608305156178,0.06761254894204079,False,Left Foot,Open Play,0,0,1,Normal
+18243,Antoine Griezmann,Atlético Madrid,24.73863375370596,0.06773547177450513,False,Right Foot,Open Play,0,0,3,Normal
+18243,Antoine Griezmann,Atlético Madrid,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+18243,Diego Roberto Godín Leal,Atlético Madrid,7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,0,2,Normal
+18243,Antoine Griezmann,Atlético Madrid,7.0,0.05755567023984417,False,Left Foot,Open Play,0,0,3,Half Volley
+18243,Stefan Savić,Atlético Madrid,5.830951894845301,0.05767021280254906,False,Left Foot,Open Play,0,0,4,Half Volley
+18243,Gareth Frank Bale,Real Madrid,31.016124838541646,0.0678388919552401,False,Left Foot,Open Play,0,0,1,Normal
+18243,Gareth Frank Bale,Real Madrid,10.0,0.05453484322702866,False,Head,Open Play,0,0,5,Normal
+18243,Jorge Resurrección Merodio,Atlético Madrid,28.0178514522438,0.0514911621290048,False,Right Foot,Open Play,0,0,2,Half Volley
+18243,Saúl Ñíguez Esclapez,Atlético Madrid,15.0,0.0608685876884121,False,Left Foot,Open Play,1,0,2,Volley
+18243,Jorge Resurrección Merodio,Atlético Madrid,25.495097567963924,0.06292532539615285,False,Right Foot,Open Play,0,0,1,Normal
+18243,Gareth Frank Bale,Real Madrid,21.93171219946131,0.06676456494118087,False,Left Foot,Open Play,1,0,1,Normal
+18243,Saúl Ñíguez Esclapez,Atlético Madrid,30.463092423455635,0.07279683522372006,False,Left Foot,Open Play,0,0,2,Normal
+18243,Gareth Frank Bale,Real Madrid,31.827660925679098,0.05357867329923538,False,Left Foot,Free Kick,0,0,0,Normal
+18243,Karim Benzema,Real Madrid,15.620499351813308,0.05438627996731815,False,Right Foot,Open Play,0,0,1,Normal
+18243,Fernando José Torres Sanz,Atlético Madrid,9.848857801796104,0.059657413278702213,False,Head,Open Play,0,1,2,Normal
+18243,Gabriel Fernández Arenas,Atlético Madrid,35.014282800023196,0.07113001819295907,False,Right Foot,Open Play,0,0,1,Normal
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,2,Normal
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,9.0,0.05835638047140873,False,Right Foot,Open Play,1,0,2,Normal
+18243,Gareth Frank Bale,Real Madrid,11.661903789690601,0.05384580871934762,False,Right Foot,Open Play,0,0,3,Normal
+18243,Yannick Ferreira Carrasco,Atlético Madrid,5.385164807134504,0.057375734640212235,True,Right Foot,Open Play,1,0,3,Half Volley
+18243,Gareth Frank Bale,Real Madrid,18.439088914585774,0.06089568735911852,False,Right Foot,Open Play,0,0,1,Normal
+18243,Gareth Frank Bale,Real Madrid,4.47213595499958,0.055780969328069314,False,Head,Open Play,0,0,6,Normal
+18243,Carlos Henrique Casimiro,Real Madrid,34.0147027033899,0.07058648459998179,False,Right Foot,Open Play,0,0,0,Normal
+18243,Gareth Frank Bale,Real Madrid,34.9857113690718,0.07671653273082207,False,Left Foot,Open Play,0,0,2,Normal
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8.602325267042627,0.059095933698217445,False,Head,Open Play,0,0,5,Normal
+18243,Gareth Frank Bale,Real Madrid,18.110770276274835,0.061351480882246026,False,Left Foot,Open Play,1,0,2,Normal
+18243,Luka Modrić,Real Madrid,28.442925306655784,0.06419816434277001,False,Right Foot,Open Play,0,0,0,Normal
+18243,Danilo Luiz da Silva,Real Madrid,31.38470965295043,0.05776634921137929,False,Left Foot,Open Play,0,0,0,Normal
+18243,Yannick Ferreira Carrasco,Atlético Madrid,21.213203435596427,0.06595439570017494,False,Left Foot,Open Play,0,0,3,Normal
+18243,Antoine Griezmann,Atlético Madrid,14.422205101855956,0.053762469761102494,False,Left Foot,Open Play,1,0,2,Overhead Kick
+18243,Carlos Henrique Casimiro,Real Madrid,24.73863375370596,0.06200580540578194,False,Right Foot,Open Play,0,0,3,Normal
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32.7566787083184,0.07290783246468518,False,Right Foot,Free Kick,0,0,0,Normal
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18.384776310850235,0.058814035735414036,False,Left Foot,Open Play,0,0,5,Normal
+18243,Lucas Vázquez Iglesias,Real Madrid,12.083045973594572,0.05736897543158315,False,Right Foot,Open Play,0,0,1,Normal
+18243,Danilo Luiz da Silva,Real Madrid,21.93171219946131,0.05103310890147747,False,Right Foot,Open Play,0,1,1,Normal
+18243,Lucas Vázquez Iglesias,Real Madrid,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+18243,Antoine Griezmann,Atlético Madrid,11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
+18243,Marcelo Vieira da Silva Júnior,Real Madrid,11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
+18243,Gabriel Fernández Arenas,Atlético Madrid,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+18243,Gareth Frank Bale,Real Madrid,11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
+18243,Saúl Ñíguez Esclapez,Atlético Madrid,11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
+18243,Sergio Ramos García,Real Madrid,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+18243,Juan Francisco Torres Belén,Atlético Madrid,11.045361017187261,0.058822261465885754,False,Right Foot,Penalty,0,0,0,Normal
+18243,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal

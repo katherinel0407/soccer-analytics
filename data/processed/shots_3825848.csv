@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.788452991448302,0.057064920894334084,False,Head,Open Play,0,1,4,Normal
-29.10017182079858,0.0675082043066173,False,Right Foot,Open Play,0,0,1,Normal
-21.02046621747482,0.05637646589568081,False,Right Foot,Open Play,1,0,3,Half Volley
-3.676955262170052,0.056568097808361785,True,Head,Open Play,0,1,3,Normal
-8.68331733843696,0.05911445287519654,False,Head,Open Play,0,1,3,Normal
-17.402586014727817,0.06204317124995613,False,Right Foot,Open Play,1,0,2,Half Volley
-19.87259419401504,0.06556972810216072,False,Right Foot,Open Play,0,1,2,Normal
-12.40362850137007,0.061144400903533215,False,Right Foot,Open Play,1,0,3,Half Volley
-20.97736875778276,0.0642970003090868,False,Left Foot,Open Play,0,0,3,Normal
-17.913681921927722,0.06427031757027346,False,Right Foot,Open Play,1,0,1,Volley
-18.4200977196105,0.061437200104029956,False,Right Foot,Open Play,0,0,2,Half Volley
-8.964373932405989,0.05927205897007989,True,Right Foot,Open Play,1,0,2,Half Volley
-18.66788686488109,0.055753939491028255,True,Right Foot,Open Play,0,0,4,Half Volley
-28.911070543997496,0.07140584600003574,False,Left Foot,Open Play,0,1,2,Normal
-26.67376988728815,0.06953865378689943,False,Right Foot,Free Kick,0,0,0,Normal
-31.316609011832686,0.06694402347863716,False,Right Foot,Open Play,0,0,1,Normal
-21.19292334719304,0.06540980517667196,False,Right Foot,Open Play,0,0,1,Normal
-6.879680225126745,0.05448283564257905,False,Head,Open Play,0,0,2,Normal
-17.341568556506065,0.06333577721972192,False,Right Foot,Open Play,1,0,1,Half Volley
-40.03161250811663,0.06993166555629701,False,Right Foot,Open Play,1,1,1,Half Volley
-6.603029607687665,0.05746101647229638,False,Head,Open Play,0,1,5,Normal
-12.872451204024822,0.06064119736287503,True,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825848,Jefferson Andrés Lerma Solís,Levante UD,7.788452991448302,0.057064920894334084,False,Head,Open Play,0,1,4,Normal
+3825848,Sergio Gontán Gallardo,Eibar,29.10017182079858,0.0675082043066173,False,Right Foot,Open Play,0,0,1,Normal
+3825848,Adrián González Morales,Eibar,21.02046621747482,0.05637646589568081,False,Right Foot,Open Play,1,0,3,Half Volley
+3825848,Borja González Tomás,Eibar,3.676955262170052,0.056568097808361785,True,Head,Open Play,0,1,3,Normal
+3825848,Nabil Ghilas,Levante UD,8.68331733843696,0.05911445287519654,False,Head,Open Play,0,1,3,Normal
+3825848,Nabil Ghilas,Levante UD,17.402586014727817,0.06204317124995613,False,Right Foot,Open Play,1,0,2,Half Volley
+3825848,Takashi Inui,Eibar,19.87259419401504,0.06556972810216072,False,Right Foot,Open Play,0,1,2,Normal
+3825848,Adrián González Morales,Eibar,12.40362850137007,0.061144400903533215,False,Right Foot,Open Play,1,0,3,Half Volley
+3825848,Nabil Ghilas,Levante UD,20.97736875778276,0.0642970003090868,False,Left Foot,Open Play,0,0,3,Normal
+3825848,José Antonio García Rabasco,Levante UD,17.913681921927722,0.06427031757027346,False,Right Foot,Open Play,1,0,1,Volley
+3825848,José María Martín-Bejarano Serrano,Levante UD,18.4200977196105,0.061437200104029956,False,Right Foot,Open Play,0,0,2,Half Volley
+3825848,Borja González Tomás,Eibar,8.964373932405989,0.05927205897007989,True,Right Foot,Open Play,1,0,2,Half Volley
+3825848,José Luis Morales Nogales,Levante UD,18.66788686488109,0.055753939491028255,True,Right Foot,Open Play,0,0,4,Half Volley
+3825848,Adrián González Morales,Eibar,28.911070543997496,0.07140584600003574,False,Left Foot,Open Play,0,1,2,Normal
+3825848,Nabil Ghilas,Levante UD,26.67376988728815,0.06953865378689943,False,Right Foot,Free Kick,0,0,0,Normal
+3825848,Víctor Casadesús Castaño,Levante UD,31.316609011832686,0.06694402347863716,False,Right Foot,Open Play,0,0,1,Normal
+3825848,Saúl Berjón Pérez,Eibar,21.19292334719304,0.06540980517667196,False,Right Foot,Open Play,0,0,1,Normal
+3825848,Sergio Enrich Ametller,Eibar,6.879680225126745,0.05448283564257905,False,Head,Open Play,0,0,2,Normal
+3825848,Ander Capa Rodríguez,Eibar,17.341568556506065,0.06333577721972192,False,Right Foot,Open Play,1,0,1,Half Volley
+3825848,Ángel Trujillo Canorea,Levante UD,40.03161250811663,0.06993166555629701,False,Right Foot,Open Play,1,1,1,Half Volley
+3825848,José María Martín-Bejarano Serrano,Levante UD,6.603029607687665,0.05746101647229638,False,Head,Open Play,0,1,5,Normal
+3825848,Deyverson Brum Silva Acosta,Levante UD,12.872451204024822,0.06064119736287503,True,Head,Open Play,0,0,3,Normal

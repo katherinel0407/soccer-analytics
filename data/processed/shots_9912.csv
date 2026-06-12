@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.291528093628475,0.057999078626132176,True,Right Foot,Open Play,1,0,1,Normal
-8.215229759416347,0.05888796010617996,False,Head,Open Play,0,0,2,Normal
-24.312959507225777,0.061465467791618794,False,Left Foot,Open Play,0,0,2,Normal
-12.445079348883233,0.05519110952040817,False,Right Foot,Open Play,1,0,2,Half Volley
-20.43526363911169,0.06379859096867672,False,Right Foot,Open Play,0,0,2,Normal
-27.907884190672707,0.07101562213642727,False,Right Foot,Open Play,0,0,0,Normal
-16.639711535961197,0.06286012005555844,False,Head,Open Play,0,0,3,Normal
-28.1513765205185,0.061947171989245264,False,Left Foot,Free Kick,0,0,0,Normal
-22.580079716422617,0.06511884750072056,False,Right Foot,Open Play,1,0,1,Normal
-26.11991577321795,0.06980274304900823,False,Left Foot,Open Play,0,0,0,Normal
-7.2532751223154355,0.05815547404764581,False,Right Foot,Open Play,1,0,3,Volley
-5.4230987451825,0.05612087838163136,False,Head,Open Play,0,0,4,Normal
-11.315917991926243,0.0595875643117359,True,Left Foot,Open Play,1,0,1,Volley
-10.200490184299971,0.05881103757271212,True,Left Foot,Open Play,1,1,1,Normal
-25.01459573928789,0.06836481304818735,False,Right Foot,Open Play,0,0,1,Normal
-10.360019305001318,0.0544986703831855,False,Left Foot,Open Play,1,0,2,Normal
-11.822859214251006,0.05451287962106236,False,Right Foot,Open Play,1,0,1,Volley
-21.252999788265186,0.06648119462263058,False,Left Foot,Open Play,0,0,2,Normal
-7.839005038906401,0.058683309923899016,False,Head,Open Play,0,1,4,Normal
-21.245470105413062,0.06490735345995216,False,Right Foot,Open Play,0,0,1,Normal
-16.70269439342048,0.06321797961274812,False,Left Foot,Open Play,0,0,2,Normal
-8.561541917201595,0.05737230780131003,False,Head,Open Play,0,1,3,Normal
-9.207062506576127,0.058862300711388954,True,Left Foot,Open Play,1,0,1,Normal
-30.831801763763334,0.06750936787823915,False,Left Foot,Open Play,0,0,0,Normal
-9.794386147176347,0.059664318529679954,False,Head,Open Play,0,0,4,Normal
-6.152235366108812,0.05520553208793874,False,Head,Open Play,0,1,6,Normal
-11.135977729862791,0.05953726342543901,False,Left Foot,Open Play,0,0,2,Normal
-26.522443326360413,0.05591858709673319,False,Right Foot,Open Play,0,0,2,Normal
-33.35101197864916,0.06113638859976787,False,Right Foot,Open Play,0,0,0,Normal
-18.44559568027013,0.063502343119843,False,Left Foot,Open Play,0,0,2,Normal
-12.163058825805292,0.06084039298929604,False,Right Foot,Open Play,1,0,2,Normal
-5.866856057549046,0.05590460109507866,True,Right Foot,Open Play,0,0,2,Normal
-12.165525060596439,0.06029976687390507,True,Left Foot,Open Play,0,0,2,Normal
-9.730878685915267,0.05966666316496892,False,Right Foot,Open Play,1,0,1,Volley
-8.85663593019381,0.0591633975716021,False,Right Foot,Open Play,1,0,1,Half Volley
-7.102112361825882,0.05716848732485098,False,Right Foot,Open Play,1,0,2,Normal
-22.750164834567677,0.06645256659074036,False,Right Foot,Open Play,0,0,1,Normal
-17.8331152634642,0.05461022862998604,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9912,Philippe Coutinho Correia,Barcelona,18.291528093628475,0.057999078626132176,True,Right Foot,Open Play,1,0,1,Normal
+9912,Raúl Albentosa Redal,RC Deportivo La Coruña,8.215229759416347,0.05888796010617996,False,Head,Open Play,0,0,2,Normal
+9912,Ivan Rakitić,Barcelona,24.312959507225777,0.061465467791618794,False,Left Foot,Open Play,0,0,2,Normal
+9912,Luis Alberto Suárez Díaz,Barcelona,12.445079348883233,0.05519110952040817,False,Right Foot,Open Play,1,0,2,Half Volley
+9912,Philippe Coutinho Correia,Barcelona,20.43526363911169,0.06379859096867672,False,Right Foot,Open Play,0,0,2,Normal
+9912,Borja Valle Balonga,RC Deportivo La Coruña,27.907884190672707,0.07101562213642727,False,Right Foot,Open Play,0,0,0,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,16.639711535961197,0.06286012005555844,False,Head,Open Play,0,0,3,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,28.1513765205185,0.061947171989245264,False,Left Foot,Free Kick,0,0,0,Normal
+9912,Philippe Coutinho Correia,Barcelona,22.580079716422617,0.06511884750072056,False,Right Foot,Open Play,1,0,1,Normal
+9912,Emre Çolak,RC Deportivo La Coruña,26.11991577321795,0.06980274304900823,False,Left Foot,Open Play,0,0,0,Normal
+9912,Borja Valle Balonga,RC Deportivo La Coruña,7.2532751223154355,0.05815547404764581,False,Right Foot,Open Play,1,0,3,Volley
+9912,Fabian Lukas Schär,RC Deportivo La Coruña,5.4230987451825,0.05612087838163136,False,Head,Open Play,0,0,4,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,11.315917991926243,0.0595875643117359,True,Left Foot,Open Play,1,0,1,Volley
+9912,Lucas Pérez Martínez,RC Deportivo La Coruña,10.200490184299971,0.05881103757271212,True,Left Foot,Open Play,1,1,1,Normal
+9912,Philippe Coutinho Correia,Barcelona,25.01459573928789,0.06836481304818735,False,Right Foot,Open Play,0,0,1,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,10.360019305001318,0.0544986703831855,False,Left Foot,Open Play,1,0,2,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,11.822859214251006,0.05451287962106236,False,Right Foot,Open Play,1,0,1,Volley
+9912,Lucas Pérez Martínez,RC Deportivo La Coruña,21.252999788265186,0.06648119462263058,False,Left Foot,Open Play,0,0,2,Normal
+9912,Raúl Albentosa Redal,RC Deportivo La Coruña,7.839005038906401,0.058683309923899016,False,Head,Open Play,0,1,4,Normal
+9912,Luis Alberto Suárez Díaz,Barcelona,21.245470105413062,0.06490735345995216,False,Right Foot,Open Play,0,0,1,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,16.70269439342048,0.06321797961274812,False,Left Foot,Open Play,0,0,2,Normal
+9912,Samuel Yves Umtiti,Barcelona,8.561541917201595,0.05737230780131003,False,Head,Open Play,0,1,3,Normal
+9912,Emre Çolak,RC Deportivo La Coruña,9.207062506576127,0.058862300711388954,True,Left Foot,Open Play,1,0,1,Normal
+9912,Guilherme dos Santos Torres,RC Deportivo La Coruña,30.831801763763334,0.06750936787823915,False,Left Foot,Open Play,0,0,0,Normal
+9912,Fabian Lukas Schär,RC Deportivo La Coruña,9.794386147176347,0.059664318529679954,False,Head,Open Play,0,0,4,Normal
+9912,Lucas Pérez Martínez,RC Deportivo La Coruña,6.152235366108812,0.05520553208793874,False,Head,Open Play,0,1,6,Normal
+9912,Luis Alberto Suárez Díaz,Barcelona,11.135977729862791,0.05953726342543901,False,Left Foot,Open Play,0,0,2,Normal
+9912,Michael Krohn-Dehli,RC Deportivo La Coruña,26.522443326360413,0.05591858709673319,False,Right Foot,Open Play,0,0,2,Normal
+9912,Guilherme dos Santos Torres,RC Deportivo La Coruña,33.35101197864916,0.06113638859976787,False,Right Foot,Open Play,0,0,0,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,18.44559568027013,0.063502343119843,False,Left Foot,Open Play,0,0,2,Normal
+9912,Luis Alberto Suárez Díaz,Barcelona,12.163058825805292,0.06084039298929604,False,Right Foot,Open Play,1,0,2,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,5.866856057549046,0.05590460109507866,True,Right Foot,Open Play,0,0,2,Normal
+9912,Lionel Andrés Messi Cuccittini,Barcelona,12.165525060596439,0.06029976687390507,True,Left Foot,Open Play,0,0,2,Normal
+9912,Florin Andone,RC Deportivo La Coruña,9.730878685915267,0.05966666316496892,False,Right Foot,Open Play,1,0,1,Volley
+9912,Fabian Lukas Schär,RC Deportivo La Coruña,8.85663593019381,0.0591633975716021,False,Right Foot,Open Play,1,0,1,Half Volley
+9912,Gerard Piqué Bernabéu,Barcelona,7.102112361825882,0.05716848732485098,False,Right Foot,Open Play,1,0,2,Normal
+9912,Denis Suárez Fernández,Barcelona,22.750164834567677,0.06645256659074036,False,Right Foot,Open Play,0,0,1,Normal
+9912,Florin Andone,RC Deportivo La Coruña,17.8331152634642,0.05461022862998604,False,Right Foot,Open Play,1,0,1,Normal

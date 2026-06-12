@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.71277345171816,0.06824571187794928,False,Right Foot,Free Kick,0,0,0,Normal
-15.277761616153068,0.0597703259878939,False,Right Foot,Open Play,0,0,1,Half Volley
-42.96614946676046,0.08416006504728796,False,Left Foot,Open Play,0,0,2,Normal
-23.22283359110166,0.06764457410416692,False,Right Foot,Open Play,0,0,3,Normal
-30.649306680575986,0.05658317735776578,False,Left Foot,Open Play,0,0,0,Normal
-24.760654272454115,0.056107905808963,False,Left Foot,Open Play,0,0,4,Normal
-21.68985938174796,0.0664531941928668,False,Left Foot,Open Play,0,0,3,Normal
-31.931175988365975,0.059252768278183196,False,Right Foot,Open Play,0,0,2,Normal
-12.080562900792332,0.058040413780762204,False,Right Foot,Open Play,0,0,2,Normal
-23.15361742795281,0.06735797321518075,False,Right Foot,Open Play,0,0,2,Normal
-38.55308029198186,0.07971839912927456,False,Left Foot,Open Play,0,0,2,Normal
-16.347782724271813,0.06209685277934776,False,Right Foot,Open Play,0,0,1,Normal
-6.3953107821277895,0.057623451968959,True,Left Foot,Open Play,1,0,4,Normal
-22.6947130407062,0.059888232600843354,False,Left Foot,Open Play,0,0,2,Normal
-31.509363687640537,0.07373053538177714,False,Right Foot,Open Play,0,0,4,Normal
-62.21519107099165,0.10593487249307061,False,Left Foot,Open Play,0,0,1,Normal
-11.244998888394782,0.060399292452681004,True,Right Foot,Open Play,1,0,1,Normal
-16.468454693747073,0.06280278500878646,True,Left Foot,Open Play,0,0,3,Normal
-7.158910531638177,0.05638995802751059,True,Left Foot,Open Play,1,0,2,Normal
-18.08341781854304,0.06432575708776189,False,Left Foot,Open Play,1,0,2,Normal
-14.283556979968257,0.06200017174415917,False,Left Foot,Open Play,1,0,1,Half Volley
-12.963410045200302,0.05892205721354291,True,Right Foot,Open Play,1,0,3,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68326,Rafael Márquez Álvarez,Barcelona,31.71277345171816,0.06824571187794928,False,Right Foot,Free Kick,0,0,0,Normal
+68326,Samuel Eto''o Fils,Barcelona,15.277761616153068,0.0597703259878939,False,Right Foot,Open Play,0,0,1,Half Volley
+68326,Anderson Luis de Carvalho,Celta Vigo,42.96614946676046,0.08416006504728796,False,Left Foot,Open Play,0,0,2,Normal
+68326,Lionel Andrés Messi Cuccittini,Barcelona,23.22283359110166,0.06764457410416692,False,Right Foot,Open Play,0,0,3,Normal
+68326,George Lucas Coser,Celta Vigo,30.649306680575986,0.05658317735776578,False,Left Foot,Open Play,0,0,0,Normal
+68326,Gustavo Adrián López Pablo,Celta Vigo,24.760654272454115,0.056107905808963,False,Left Foot,Open Play,0,0,4,Normal
+68326,Anderson Luís de Souza,Barcelona,21.68985938174796,0.0664531941928668,False,Left Foot,Open Play,0,0,3,Normal
+68326,Iriney Santos Da Silva,Celta Vigo,31.931175988365975,0.059252768278183196,False,Right Foot,Open Play,0,0,2,Normal
+68326,João Fernando Nelo,Celta Vigo,12.080562900792332,0.058040413780762204,False,Right Foot,Open Play,0,0,2,Normal
+68326,Samuel Eto''o Fils,Barcelona,23.15361742795281,0.06735797321518075,False,Right Foot,Open Play,0,0,2,Normal
+68326,Anderson Luis de Carvalho,Celta Vigo,38.55308029198186,0.07971839912927456,False,Left Foot,Open Play,0,0,2,Normal
+68326,Anderson Luis de Carvalho,Celta Vigo,16.347782724271813,0.06209685277934776,False,Right Foot,Open Play,0,0,1,Normal
+68326,João Fernando Nelo,Celta Vigo,6.3953107821277895,0.057623451968959,True,Left Foot,Open Play,1,0,4,Normal
+68326,Lionel Andrés Messi Cuccittini,Barcelona,22.6947130407062,0.059888232600843354,False,Left Foot,Open Play,0,0,2,Normal
+68326,Samuel Eto''o Fils,Barcelona,31.509363687640537,0.07373053538177714,False,Right Foot,Open Play,0,0,4,Normal
+68326,Iriney Santos Da Silva,Celta Vigo,62.21519107099165,0.10593487249307061,False,Left Foot,Open Play,0,0,1,Normal
+68326,Samuel Eto''o Fils,Barcelona,11.244998888394782,0.060399292452681004,True,Right Foot,Open Play,1,0,1,Normal
+68326,Lionel Andrés Messi Cuccittini,Barcelona,16.468454693747073,0.06280278500878646,True,Left Foot,Open Play,0,0,3,Normal
+68326,Gustavo Adrián López Pablo,Celta Vigo,7.158910531638177,0.05638995802751059,True,Left Foot,Open Play,1,0,2,Normal
+68326,Jesús Perera López,Celta Vigo,18.08341781854304,0.06432575708776189,False,Left Foot,Open Play,1,0,2,Normal
+68326,Eiður Smári Guðjohnsen,Barcelona,14.283556979968257,0.06200017174415917,False,Left Foot,Open Play,1,0,1,Half Volley
+68326,Eiður Smári Guðjohnsen,Barcelona,12.963410045200302,0.05892205721354291,True,Right Foot,Open Play,1,0,3,Volley

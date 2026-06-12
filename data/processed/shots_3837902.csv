@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.18031198286809,0.06019167438193979,False,Left Foot,Open Play,1,1,1,Half Volley
-16.662832892398583,0.0598119872093273,False,Right Foot,Open Play,1,1,1,Normal
-13.148764200486678,0.05725264424102429,False,Left Foot,Open Play,1,0,4,Volley
-17.781451009408656,0.06274574547977842,False,Right Foot,Open Play,1,0,2,Normal
-7.805767098754609,0.05797136368699208,False,Head,Open Play,0,0,4,Normal
-13.952060779684128,0.061318898402889885,False,Left Foot,Open Play,0,1,2,Half Volley
-10.83374358197572,0.060179455249301364,False,Head,Open Play,0,0,4,Normal
-12.300406497347964,0.053438469092386975,False,Right Foot,Open Play,0,0,3,Half Volley
-21.423351745233525,0.06328496696814623,False,Left Foot,Free Kick,0,0,0,Normal
-29.66749062526185,0.06880139065798187,False,Right Foot,Open Play,0,0,1,Normal
-11.920570456148486,0.059297910785848944,True,Left Foot,Open Play,1,1,2,Half Volley
-13.393281898026336,0.061561282011852465,True,Left Foot,Open Play,0,1,1,Normal
-21.97839848578599,0.06646173135044925,False,Right Foot,Open Play,0,0,2,Normal
-19.869826370655588,0.06534325863172387,False,Left Foot,Open Play,0,1,3,Normal
-9.976472322419383,0.0538356040208278,False,Head,Open Play,0,1,3,Normal
-10.623088063270488,0.05965879952694211,False,Right Foot,Open Play,0,0,3,Normal
-22.13255520720552,0.06248942681146138,False,Left Foot,Open Play,0,1,2,Normal
-32.3736003558455,0.06646356297508609,False,Right Foot,Open Play,0,1,2,Normal
-28.87213189218975,0.06981726283246012,False,Left Foot,Open Play,1,0,0,Half Volley
-12.3664869708418,0.060309790300981575,False,Right Foot,Open Play,0,1,2,Normal
-20.984756372185974,0.06156829527375194,False,Left Foot,Open Play,0,0,2,Normal
-13.312400234367958,0.06136609790950269,False,Left Foot,Open Play,1,0,1,Half Volley
-22.496444163467256,0.06626703673619178,False,Right Foot,Open Play,1,1,1,Half Volley
-13.036103712382774,0.05354816755157242,True,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3837902,Kylian Mbappé Lottin,Paris Saint-Germain,12.18031198286809,0.06019167438193979,False,Left Foot,Open Play,1,1,1,Half Volley
+3837902,Carlos Soler Barragán,Paris Saint-Germain,16.662832892398583,0.0598119872093273,False,Right Foot,Open Play,1,1,1,Normal
+3837902,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,13.148764200486678,0.05725264424102429,False,Left Foot,Open Play,1,0,4,Volley
+3837902,Marco Verratti,Paris Saint-Germain,17.781451009408656,0.06274574547977842,False,Right Foot,Open Play,1,0,2,Normal
+3837902,Fabián Ruiz Peña,Paris Saint-Germain,7.805767098754609,0.05797136368699208,False,Head,Open Play,0,0,4,Normal
+3837902,Steve Michel Mounié,Stade Brestois,13.952060779684128,0.061318898402889885,False,Left Foot,Open Play,0,1,2,Half Volley
+3837902,Jean-Kevin Duverne,Stade Brestois,10.83374358197572,0.060179455249301364,False,Head,Open Play,0,0,4,Normal
+3837902,Kylian Mbappé Lottin,Paris Saint-Germain,12.300406497347964,0.053438469092386975,False,Right Foot,Open Play,0,0,3,Half Volley
+3837902,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,21.423351745233525,0.06328496696814623,False,Left Foot,Free Kick,0,0,0,Normal
+3837902,Kylian Mbappé Lottin,Paris Saint-Germain,29.66749062526185,0.06880139065798187,False,Right Foot,Open Play,0,0,1,Normal
+3837902,Carlos Soler Barragán,Paris Saint-Germain,11.920570456148486,0.059297910785848944,True,Left Foot,Open Play,1,1,2,Half Volley
+3837902,Franck Honorat,Stade Brestois,13.393281898026336,0.061561282011852465,True,Left Foot,Open Play,0,1,1,Normal
+3837902,Romain Del Castillo,Stade Brestois,21.97839848578599,0.06646173135044925,False,Right Foot,Open Play,0,0,2,Normal
+3837902,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,19.869826370655588,0.06534325863172387,False,Left Foot,Open Play,0,1,3,Normal
+3837902,Lilian Brassier,Stade Brestois,9.976472322419383,0.0538356040208278,False,Head,Open Play,0,1,3,Normal
+3837902,Kylian Mbappé Lottin,Paris Saint-Germain,10.623088063270488,0.05965879952694211,False,Right Foot,Open Play,0,0,3,Normal
+3837902,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,22.13255520720552,0.06248942681146138,False,Left Foot,Open Play,0,1,2,Normal
+3837902,Warren Zaire Emery,Paris Saint-Germain,32.3736003558455,0.06646356297508609,False,Right Foot,Open Play,0,1,2,Normal
+3837902,Hugo Magnetti,Stade Brestois,28.87213189218975,0.06981726283246012,False,Left Foot,Open Play,1,0,0,Half Volley
+3837902,Nuno Mendes,Paris Saint-Germain,12.3664869708418,0.060309790300981575,False,Right Foot,Open Play,0,1,2,Normal
+3837902,Kylian Mbappé Lottin,Paris Saint-Germain,20.984756372185974,0.06156829527375194,False,Left Foot,Open Play,0,0,2,Normal
+3837902,Nuno Mendes,Paris Saint-Germain,13.312400234367958,0.06136609790950269,False,Left Foot,Open Play,1,0,1,Half Volley
+3837902,Franck Honorat,Stade Brestois,22.496444163467256,0.06626703673619178,False,Right Foot,Open Play,1,1,1,Half Volley
+3837902,Kylian Mbappé Lottin,Paris Saint-Germain,13.036103712382774,0.05354816755157242,True,Right Foot,Open Play,0,0,0,Normal

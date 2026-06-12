@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.823042886243175,0.056029064718834454,True,Left Foot,Open Play,1,0,1,Normal
-35.83364340951112,0.06232699801057095,False,Right Foot,Open Play,0,0,1,Normal
-6.660330322138684,0.0553870113389792,True,Head,Open Play,0,0,3,Normal
-17.973869922751753,0.06439924555907693,False,Right Foot,Open Play,1,0,1,Volley
-22.458851261807673,0.06563835233290019,False,Left Foot,Open Play,1,0,1,Volley
-5.64358042380898,0.05678763302766094,False,Right Foot,Open Play,1,0,3,Half Volley
-10.245974819410788,0.053539412127558875,False,Right Foot,Open Play,1,0,4,Normal
-18.706683297688024,0.06271252635684553,False,Right Foot,Open Play,1,1,2,Normal
-15.164761785138602,0.056011348834787957,True,Right Foot,Open Play,0,1,1,Normal
-33.68990946856343,0.06403267820044412,False,Right Foot,Open Play,0,1,2,Normal
-18.196977771047592,0.05273448119765978,False,Left Foot,Open Play,0,0,3,Normal
-8.115417426109387,0.05782922309027655,False,Head,Open Play,0,0,4,Normal
-8.174350127074328,0.05858946221982379,False,Head,Open Play,0,1,4,Normal
-11.819052415485768,0.06017529005581085,False,Left Foot,Open Play,1,0,2,Normal
-9.701546268507922,0.05828462452909542,True,Right Foot,Open Play,1,1,2,Normal
-12.379418403139946,0.06021869009793095,False,Head,Open Play,0,1,4,Normal
-23.892467432226415,0.06385160565653879,False,Left Foot,Open Play,0,0,1,Normal
-11.638728452885214,0.05795977857840279,True,Left Foot,Open Play,1,0,1,Normal
-28.8334874755032,0.054670387880865506,False,Left Foot,Open Play,0,0,2,Normal
-18.102486017119308,0.06411149809897018,False,Left Foot,Open Play,0,1,1,Normal
-10.507616285342747,0.05840381653488687,True,Left Foot,Open Play,1,0,1,Volley
-22.756098083810418,0.06176209796543595,False,Right Foot,Open Play,1,1,2,Half Volley
-29.162475889402803,0.06406452659902145,False,Right Foot,Open Play,0,0,1,Normal
-6.93541635375988,0.057717358900336274,False,Left Foot,Open Play,1,0,3,Backheel
-14.855638660118252,0.06242872212216269,False,Left Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890335,Max Kruse,Wolfsburg,7.823042886243175,0.056029064718834454,True,Left Foot,Open Play,1,0,1,Normal
+3890335,Ronaldo Aparecido Rodrigues,Wolfsburg,35.83364340951112,0.06232699801057095,False,Right Foot,Open Play,0,0,1,Normal
+3890335,Bas Dost,Wolfsburg,6.660330322138684,0.0553870113389792,True,Head,Open Play,0,0,3,Normal
+3890335,Julian Draxler,Wolfsburg,17.973869922751753,0.06439924555907693,False,Right Foot,Open Play,1,0,1,Volley
+3890335,Ricardo Iván Rodríguez Araya,Wolfsburg,22.458851261807673,0.06563835233290019,False,Left Foot,Open Play,1,0,1,Volley
+3890335,Max Kruse,Wolfsburg,5.64358042380898,0.05678763302766094,False,Right Foot,Open Play,1,0,3,Half Volley
+3890335,Bas Dost,Wolfsburg,10.245974819410788,0.053539412127558875,False,Right Foot,Open Play,1,0,4,Normal
+3890335,Kevin Volland,Hoffenheim,18.706683297688024,0.06271252635684553,False,Right Foot,Open Play,1,1,2,Normal
+3890335,Jeremy Toljan,Hoffenheim,15.164761785138602,0.056011348834787957,True,Right Foot,Open Play,0,1,1,Normal
+3890335,Ronaldo Aparecido Rodrigues,Wolfsburg,33.68990946856343,0.06403267820044412,False,Right Foot,Open Play,0,1,2,Normal
+3890335,Daniel Caligiuri,Wolfsburg,18.196977771047592,0.05273448119765978,False,Left Foot,Open Play,0,0,3,Normal
+3890335,Ronaldo Aparecido Rodrigues,Wolfsburg,8.115417426109387,0.05782922309027655,False,Head,Open Play,0,0,4,Normal
+3890335,Bas Dost,Wolfsburg,8.174350127074328,0.05858946221982379,False,Head,Open Play,0,1,4,Normal
+3890335,Jonathan Schmid,Hoffenheim,11.819052415485768,0.06017529005581085,False,Left Foot,Open Play,1,0,2,Normal
+3890335,Jonathan Schmid,Hoffenheim,9.701546268507922,0.05828462452909542,True,Right Foot,Open Play,1,1,2,Normal
+3890335,Ronaldo Aparecido Rodrigues,Wolfsburg,12.379418403139946,0.06021869009793095,False,Head,Open Play,0,1,4,Normal
+3890335,Max Kruse,Wolfsburg,23.892467432226415,0.06385160565653879,False,Left Foot,Open Play,0,0,1,Normal
+3890335,Max Kruse,Wolfsburg,11.638728452885214,0.05795977857840279,True,Left Foot,Open Play,1,0,1,Normal
+3890335,Adelino André Vieira Freitas,Wolfsburg,28.8334874755032,0.054670387880865506,False,Left Foot,Open Play,0,0,2,Normal
+3890335,Jonathan Schmid,Hoffenheim,18.102486017119308,0.06411149809897018,False,Left Foot,Open Play,0,1,1,Normal
+3890335,Max Kruse,Wolfsburg,10.507616285342747,0.05840381653488687,True,Left Foot,Open Play,1,0,1,Volley
+3890335,Tobias Strobl,Hoffenheim,22.756098083810418,0.06176209796543595,False,Right Foot,Open Play,1,1,2,Half Volley
+3890335,Tobias Strobl,Hoffenheim,29.162475889402803,0.06406452659902145,False,Right Foot,Open Play,0,0,1,Normal
+3890335,Ádám Szalai,Hoffenheim,6.93541635375988,0.057717358900336274,False,Left Foot,Open Play,1,0,3,Backheel
+3890335,Max Kruse,Wolfsburg,14.855638660118252,0.06242872212216269,False,Left Foot,Open Play,0,0,2,Half Volley

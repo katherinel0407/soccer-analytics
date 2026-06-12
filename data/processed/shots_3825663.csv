@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.753544997563354,0.054668862025477334,False,Right Foot,Open Play,1,0,2,Half Volley
-16.244383644817063,0.06186340238281038,False,Left Foot,Open Play,0,0,3,Volley
-23.995416228938396,0.068264940248174,False,Left Foot,Free Kick,0,0,0,Normal
-13.35552320203143,0.06099577650404917,False,Right Foot,Open Play,1,0,2,Normal
-21.52440475367437,0.05179411032249372,False,Left Foot,Open Play,0,0,1,Normal
-16.822009392459627,0.0539797032136781,True,Left Foot,Open Play,0,0,2,Normal
-14.605478424207808,0.06054287268678867,False,Right Foot,Open Play,1,1,2,Normal
-13.482581355215329,0.05460849409184701,True,Right Foot,Open Play,1,0,1,Half Volley
-15.901257811883937,0.05613013290760682,False,Right Foot,Open Play,1,0,1,Normal
-11.405700329221352,0.060592544048532704,False,Head,Open Play,0,0,6,Normal
-20.120636172845032,0.05621740708613842,False,Right Foot,Open Play,1,0,0,Lob
-15.493224325491452,0.06209351669669077,False,Right Foot,Open Play,1,1,3,Half Volley
-8.246211251235318,0.058808054543908965,False,Right Foot,Open Play,1,0,4,Volley
-22.687441459979578,0.06251474534773796,False,Right Foot,Open Play,1,0,2,Volley
-29.89314302645341,0.0598090274531029,False,Right Foot,Open Play,0,0,2,Normal
-31.548375552474965,0.059910424488011295,False,Right Foot,Open Play,0,0,1,Normal
-9.338094023943004,0.05508033885698924,False,Head,Open Play,0,0,1,Diving Header
-31.779553174958263,0.07166442684140244,False,Right Foot,Open Play,0,0,3,Normal
-13.393281898026336,0.05774222960763501,False,Left Foot,Open Play,1,0,2,Half Volley
-7.142128534267634,0.058286236302021836,False,Head,Open Play,0,1,2,Normal
-23.520416662976018,0.05276406164025404,False,Left Foot,Open Play,0,0,1,Normal
-20.532169880458326,0.06431446506226887,False,Right Foot,Open Play,0,0,2,Normal
-19.86403785739445,0.06472193128578728,False,Left Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825663,Nordin Amrabat,Málaga,13.753544997563354,0.054668862025477334,False,Right Foot,Open Play,1,0,2,Half Volley
+3825663,Nordin Amrabat,Málaga,16.244383644817063,0.06186340238281038,False,Left Foot,Open Play,0,0,3,Volley
+3825663,Sérgio Paulo Barbosa Valente,Málaga,23.995416228938396,0.068264940248174,False,Left Foot,Free Kick,0,0,0,Normal
+3825663,Juan Carlos Pérez López,Málaga,13.35552320203143,0.06099577650404917,False,Right Foot,Open Play,1,0,2,Normal
+3825663,Javier López Rodríguez,Espanyol,21.52440475367437,0.05179411032249372,False,Left Foot,Open Play,0,0,1,Normal
+3825663,Hernán Arsenio Pérez González,Espanyol,16.822009392459627,0.0539797032136781,True,Left Foot,Open Play,0,0,2,Normal
+3825663,Nordin Amrabat,Málaga,14.605478424207808,0.06054287268678867,False,Right Foot,Open Play,1,1,2,Normal
+3825663,Hernán Arsenio Pérez González,Espanyol,13.482581355215329,0.05460849409184701,True,Right Foot,Open Play,1,0,1,Half Volley
+3825663,Charles Días Barbosa de Oliveira,Málaga,15.901257811883937,0.05613013290760682,False,Right Foot,Open Play,1,0,1,Normal
+3825663,Enzo Pablo Roco Roco,Espanyol,11.405700329221352,0.060592544048532704,False,Head,Open Play,0,0,6,Normal
+3825663,Víctor Sánchez Mata,Espanyol,20.120636172845032,0.05621740708613842,False,Right Foot,Open Play,1,0,0,Lob
+3825663,Charles Días Barbosa de Oliveira,Málaga,15.493224325491452,0.06209351669669077,False,Right Foot,Open Play,1,1,3,Half Volley
+3825663,Enzo Pablo Roco Roco,Espanyol,8.246211251235318,0.058808054543908965,False,Right Foot,Open Play,1,0,4,Volley
+3825663,Pablo Fornals Malla,Málaga,22.687441459979578,0.06251474534773796,False,Right Foot,Open Play,1,0,2,Volley
+3825663,Pablo Fornals Malla,Málaga,29.89314302645341,0.0598090274531029,False,Right Foot,Open Play,0,0,2,Normal
+3825663,Nordin Amrabat,Málaga,31.548375552474965,0.059910424488011295,False,Right Foot,Open Play,0,0,1,Normal
+3825663,Hernán Arsenio Pérez González,Espanyol,9.338094023943004,0.05508033885698924,False,Head,Open Play,0,0,1,Diving Header
+3825663,Javier Ontiveros Parra,Málaga,31.779553174958263,0.07166442684140244,False,Right Foot,Open Play,0,0,3,Normal
+3825663,Sérgio Paulo Barbosa Valente,Málaga,13.393281898026336,0.05774222960763501,False,Left Foot,Open Play,1,0,2,Half Volley
+3825663,Charles Días Barbosa de Oliveira,Málaga,7.142128534267634,0.058286236302021836,False,Head,Open Play,0,1,2,Normal
+3825663,Marco Asensio Willemsen,Espanyol,23.520416662976018,0.05276406164025404,False,Left Foot,Open Play,0,0,1,Normal
+3825663,Ricardo Jorge Luz Horta,Málaga,20.532169880458326,0.06431446506226887,False,Right Foot,Open Play,0,0,2,Normal
+3825663,Adnane Tighadouini,Málaga,19.86403785739445,0.06472193128578728,False,Left Foot,Open Play,0,0,4,Normal

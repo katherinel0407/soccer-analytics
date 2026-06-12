@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.755280904564696,0.058962661867416194,False,Left Foot,Open Play,0,1,2,Normal
-22.26858774148015,0.06155700477894489,False,Left Foot,Open Play,1,0,1,Normal
-13.013838787997953,0.06023211740745426,False,Left Foot,Open Play,0,1,2,Normal
-15.276125163142648,0.05524466999033423,False,Right Foot,Open Play,0,0,2,Normal
-13.623509092741115,0.05996776942058324,False,Right Foot,Open Play,0,1,1,Normal
-14.822280526288797,0.05606033415580219,True,Right Foot,Open Play,0,1,1,Normal
-17.40028735394908,0.06394945125118821,False,Left Foot,Open Play,1,1,1,Normal
-12.872451204024822,0.06119784962995253,False,Head,Open Play,0,1,5,Normal
-29.02585054739999,0.06587005480280402,False,Right Foot,Open Play,1,0,1,Normal
-10.375451797391761,0.05922539888838532,True,Right Foot,Open Play,0,1,3,Normal
-15.226949793047849,0.06220449527114255,False,Right Foot,Open Play,1,0,1,Volley
-3.3241540277189343,0.05634585520324758,False,Head,Open Play,0,1,2,Diving Header
-9.060353193998568,0.055805138005181915,False,Left Foot,Open Play,1,1,3,Half Volley
-29.7154841791279,0.06037377525354483,False,Right Foot,Open Play,0,1,1,Normal
-12.215563842901398,0.053182546524084925,True,Right Foot,Open Play,1,0,1,Normal
-9.455686120002081,0.059307678288302995,False,Head,Open Play,0,1,5,Normal
-30.278870520546178,0.06128369924496584,False,Right Foot,Open Play,0,0,0,Normal
-12.701574705523722,0.060979213765819634,False,Right Foot,Open Play,0,0,1,Half Volley
-31.141130358418266,0.06938034333189314,False,Right Foot,Open Play,0,0,0,Normal
-21.272752525237536,0.05694850751795836,False,Left Foot,Open Play,0,1,3,Normal
-8.514693182963201,0.0590261562267875,False,Head,Open Play,0,1,4,Normal
-2.6000000000000054,0.055489969557021956,False,Right Foot,Open Play,1,0,4,Normal
-7.071067811865476,0.05614753756074547,True,Right Foot,Open Play,1,1,3,Half Volley
-18.569060288555267,0.061308671082622536,False,Right Foot,Open Play,0,1,3,Normal
-11.7038455218787,0.05935902253406599,False,Right Foot,Open Play,1,1,1,Normal
-30.286960890785995,0.0729005839068373,False,Right Foot,Free Kick,0,0,0,Normal
-12.322337440599492,0.054231575664515516,False,Right Foot,Open Play,0,1,3,Normal
-10.656922632730327,0.0599443258649449,False,Right Foot,Open Play,1,0,3,Half Volley
-8.06225774829855,0.056242166694479165,False,Head,Open Play,0,1,2,Normal
-25.09362468835461,0.04963993472581967,False,Left Foot,Free Kick,0,0,0,Normal
-5.936328831862333,0.05772852204807905,False,Head,Open Play,0,0,4,Normal
-5.235456045083365,0.055847042222206676,False,Head,Open Play,0,1,6,Normal
-23.507658326596466,0.05337169826923858,False,Right Foot,Open Play,0,0,1,Normal
-35.32987404449667,0.05921603841566405,False,Left Foot,Open Play,0,0,2,Normal
-18.15323662601245,0.059573615229356176,False,Right Foot,Open Play,1,0,0,Volley
-32.225610932921036,0.07248941330920437,False,Right Foot,Free Kick,0,0,0,Normal
-7.44647567645259,0.05660537280260603,False,Left Foot,Open Play,1,0,1,Volley
-26.85553946581599,0.04835981164659083,False,Left Foot,Free Kick,0,0,0,Normal
-25.54310082977398,0.06427313862773425,False,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3910973,Macarena Portales Nieto,Valencia CF,17.755280904564696,0.058962661867416194,False,Left Foot,Open Play,0,1,2,Normal
+3910973,Marta Carro Nolasco,Valencia CF,22.26858774148015,0.06155700477894489,False,Left Foot,Open Play,1,0,1,Normal
+3910973,Angela Sosa Martín,Levante UD Femenino,13.013838787997953,0.06023211740745426,False,Left Foot,Open Play,0,1,2,Normal
+3910973,Ivonne Chacón,Valencia CF,15.276125163142648,0.05524466999033423,False,Right Foot,Open Play,0,0,2,Normal
+3910973,Alba María Redondo Ferrer,Levante UD Femenino,13.623509092741115,0.05996776942058324,False,Right Foot,Open Play,0,1,1,Normal
+3910973,Ivonne Chacón,Valencia CF,14.822280526288797,0.05606033415580219,True,Right Foot,Open Play,0,1,1,Normal
+3910973,Gabriela Nunes da Silva,Levante UD Femenino,17.40028735394908,0.06394945125118821,False,Left Foot,Open Play,1,1,1,Normal
+3910973,Gabriela Nunes da Silva,Levante UD Femenino,12.872451204024822,0.06119784962995253,False,Head,Open Play,0,1,5,Normal
+3910973,Fiamma Iannuzzi,Valencia CF,29.02585054739999,0.06587005480280402,False,Right Foot,Open Play,1,0,1,Normal
+3910973,Mayra Tatiana Ramírez Ramírez,Levante UD Femenino,10.375451797391761,0.05922539888838532,True,Right Foot,Open Play,0,1,3,Normal
+3910973,Núria Mendoza Miralles,Levante UD Femenino,15.226949793047849,0.06220449527114255,False,Right Foot,Open Play,1,0,1,Volley
+3910973,Gabriela Nunes da Silva,Levante UD Femenino,3.3241540277189343,0.05634585520324758,False,Head,Open Play,0,1,2,Diving Header
+3910973,Alba María Redondo Ferrer,Levante UD Femenino,9.060353193998568,0.055805138005181915,False,Left Foot,Open Play,1,1,3,Half Volley
+3910973,Angela Sosa Martín,Levante UD Femenino,29.7154841791279,0.06037377525354483,False,Right Foot,Open Play,0,1,1,Normal
+3910973,Mayra Tatiana Ramírez Ramírez,Levante UD Femenino,12.215563842901398,0.053182546524084925,True,Right Foot,Open Play,1,0,1,Normal
+3910973,Marta Carro Nolasco,Valencia CF,9.455686120002081,0.059307678288302995,False,Head,Open Play,0,1,5,Normal
+3910973,Angela Sosa Martín,Levante UD Femenino,30.278870520546178,0.06128369924496584,False,Right Foot,Open Play,0,0,0,Normal
+3910973,Marta Carro Nolasco,Valencia CF,12.701574705523722,0.060979213765819634,False,Right Foot,Open Play,0,0,1,Half Volley
+3910973,Leire Baños Indakoetxea,Levante UD Femenino,31.141130358418266,0.06938034333189314,False,Right Foot,Open Play,0,0,0,Normal
+3910973,Macarena Portales Nieto,Valencia CF,21.272752525237536,0.05694850751795836,False,Left Foot,Open Play,0,1,3,Normal
+3910973,Gabriela Nunes da Silva,Levante UD Femenino,8.514693182963201,0.0590261562267875,False,Head,Open Play,0,1,4,Normal
+3910973,Anna Torroda Ricart,Levante UD Femenino,2.6000000000000054,0.055489969557021956,False,Right Foot,Open Play,1,0,4,Normal
+3910973,María Méndez Fernández,Levante UD Femenino,7.071067811865476,0.05614753756074547,True,Right Foot,Open Play,1,1,3,Half Volley
+3910973,Angela Sosa Martín,Levante UD Femenino,18.569060288555267,0.061308671082622536,False,Right Foot,Open Play,0,1,3,Normal
+3910973,Mayra Tatiana Ramírez Ramírez,Levante UD Femenino,11.7038455218787,0.05935902253406599,False,Right Foot,Open Play,1,1,1,Normal
+3910973,Angela Sosa Martín,Levante UD Femenino,30.286960890785995,0.0729005839068373,False,Right Foot,Free Kick,0,0,0,Normal
+3910973,Mayra Tatiana Ramírez Ramírez,Levante UD Femenino,12.322337440599492,0.054231575664515516,False,Right Foot,Open Play,0,1,3,Normal
+3910973,Mayra Tatiana Ramírez Ramírez,Levante UD Femenino,10.656922632730327,0.0599443258649449,False,Right Foot,Open Play,1,0,3,Half Volley
+3910973,Alba María Redondo Ferrer,Levante UD Femenino,8.06225774829855,0.056242166694479165,False,Head,Open Play,0,1,2,Normal
+3910973,Natasa Andonova,Levante UD Femenino,25.09362468835461,0.04963993472581967,False,Left Foot,Free Kick,0,0,0,Normal
+3910973,Paula Tomás Serer,Levante UD Femenino,5.936328831862333,0.05772852204807905,False,Head,Open Play,0,0,4,Normal
+3910973,Anna Torroda Ricart,Levante UD Femenino,5.235456045083365,0.055847042222206676,False,Head,Open Play,0,1,6,Normal
+3910973,Antonia Ronnycleide da Costa Silva,Levante UD Femenino,23.507658326596466,0.05337169826923858,False,Right Foot,Open Play,0,0,1,Normal
+3910973,Natasa Andonova,Levante UD Femenino,35.32987404449667,0.05921603841566405,False,Left Foot,Open Play,0,0,2,Normal
+3910973,Daniela Arques Lázaro,Levante UD Femenino,18.15323662601245,0.059573615229356176,False,Right Foot,Open Play,1,0,0,Volley
+3910973,Liced Carolina Serna Flórez,Valencia CF,32.225610932921036,0.07248941330920437,False,Right Foot,Free Kick,0,0,0,Normal
+3910973,Ana Marcos Moral,Valencia CF,7.44647567645259,0.05660537280260603,False,Left Foot,Open Play,1,0,1,Volley
+3910973,Ascensión Martínez Salinas,Valencia CF,26.85553946581599,0.04835981164659083,False,Left Foot,Free Kick,0,0,0,Normal
+3910973,Estela Carbonell,Levante UD Femenino,25.54310082977398,0.06427313862773425,False,Left Foot,Open Play,0,1,3,Normal

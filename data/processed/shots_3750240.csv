@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.587617637793844,0.0647139777619726,False,Left Foot,Open Play,1,0,0,Volley
-20.883725721240452,0.06080935708096832,False,Right Foot,Open Play,1,0,0,Normal
-27.64868893817572,0.06464368675836572,False,Left Foot,Open Play,1,1,1,Half Volley
-21.6787914792315,0.059172269260380383,False,Right Foot,Open Play,0,1,1,Normal
-37.64306044943742,0.07064666273394839,False,Right Foot,Open Play,0,1,1,Normal
-31.70015772831422,0.0736782062569526,False,Left Foot,Open Play,0,0,1,Normal
-20.83962571640863,0.06010230316364855,True,Right Foot,Open Play,1,0,1,Normal
-22.031114361284594,0.06286355496107333,False,Right Foot,Open Play,1,0,1,Normal
-20.843464203437975,0.056508915838720544,False,Right Foot,Open Play,0,1,1,Normal
-12.935609765295176,0.06133003114132256,False,Right Foot,Open Play,0,0,1,Overhead Kick
-20.500243900988107,0.0633655825243376,False,Left Foot,Open Play,1,0,1,Half Volley
-25.854400012377006,0.05151444372004013,False,Right Foot,Open Play,0,0,2,Normal
-12.984991336154215,0.05411329585327443,False,Head,Open Play,0,1,1,Normal
-27.942798714516773,0.06309819842604468,False,Right Foot,Open Play,1,1,2,Normal
-16.929264603047585,0.06310516924108284,False,Left Foot,Open Play,1,0,1,Volley
-23.04886114323222,0.05544747761305576,False,Right Foot,Open Play,0,0,1,Normal
-24.19793379609094,0.05395472582582952,False,Left Foot,Open Play,0,0,1,Normal
-29.425329225006134,0.07191149766750426,False,Left Foot,Open Play,0,0,0,Normal
-20.734753434752964,0.06433000184274702,False,Left Foot,Open Play,0,1,1,Normal
-13.660527076214885,0.061843173967121426,True,Right Foot,Open Play,1,0,1,Normal
-51.27114198065029,0.08222109751168794,False,Right Foot,Open Play,0,1,1,Normal
-8.015609770940701,0.05490154444348298,False,Left Foot,Open Play,1,0,2,Half Volley
-14.957606760441323,0.06218951687295398,False,Right Foot,Open Play,0,0,1,Normal
-18.713097017864257,0.06279611602340511,False,Right Foot,Open Play,0,0,3,Normal
-17.656726763474598,0.06067691106980444,False,Right Foot,Open Play,0,0,4,Normal
-28.537869577107543,0.06360526110521979,False,Right Foot,Open Play,0,0,1,Normal
-19.334942461771124,0.06441918994384827,False,Right Foot,Open Play,1,0,0,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3750240,Ryan Giggs,Manchester United,20.587617637793844,0.0647139777619726,False,Left Foot,Open Play,1,0,0,Volley
+3750240,Paul Scholes,Manchester United,20.883725721240452,0.06080935708096832,False,Right Foot,Open Play,1,0,0,Normal
+3750240,Angelo Di Livio,Fiorentina,27.64868893817572,0.06464368675836572,False,Left Foot,Open Play,1,1,1,Half Volley
+3750240,Sandro Cois,Fiorentina,21.6787914792315,0.059172269260380383,False,Right Foot,Open Play,0,1,1,Normal
+3750240,Abel Eduardo Balbo,Fiorentina,37.64306044943742,0.07064666273394839,False,Right Foot,Open Play,0,1,1,Normal
+3750240,Ryan Giggs,Manchester United,31.70015772831422,0.0736782062569526,False,Left Foot,Open Play,0,0,1,Normal
+3750240,Gabriel Omar Batistuta,Fiorentina,20.83962571640863,0.06010230316364855,True,Right Foot,Open Play,1,0,1,Normal
+3750240,Paul Scholes,Manchester United,22.031114361284594,0.06286355496107333,False,Right Foot,Open Play,1,0,1,Normal
+3750240,Abel Eduardo Balbo,Fiorentina,20.843464203437975,0.056508915838720544,False,Right Foot,Open Play,0,1,1,Normal
+3750240,Gabriel Omar Batistuta,Fiorentina,12.935609765295176,0.06133003114132256,False,Right Foot,Open Play,0,0,1,Overhead Kick
+3750240,Paul Scholes,Manchester United,20.500243900988107,0.0633655825243376,False,Left Foot,Open Play,1,0,1,Half Volley
+3750240,Gabriel Omar Batistuta,Fiorentina,25.854400012377006,0.05151444372004013,False,Right Foot,Open Play,0,0,2,Normal
+3750240,Roy Keane,Manchester United,12.984991336154215,0.05411329585327443,False,Head,Open Play,0,1,1,Normal
+3750240,Roy Keane,Manchester United,27.942798714516773,0.06309819842604468,False,Right Foot,Open Play,1,1,2,Normal
+3750240,Jörg Heinrich,Fiorentina,16.929264603047585,0.06310516924108284,False,Left Foot,Open Play,1,0,1,Volley
+3750240,Angelo Di Livio,Fiorentina,23.04886114323222,0.05544747761305576,False,Right Foot,Open Play,0,0,1,Normal
+3750240,Moreno Torricelli,Fiorentina,24.19793379609094,0.05395472582582952,False,Left Foot,Open Play,0,0,1,Normal
+3750240,Ryan Giggs,Manchester United,29.425329225006134,0.07191149766750426,False,Left Foot,Open Play,0,0,0,Normal
+3750240,Rui Manuel César Costa,Fiorentina,20.734753434752964,0.06433000184274702,False,Left Foot,Open Play,0,1,1,Normal
+3750240,Abel Eduardo Balbo,Fiorentina,13.660527076214885,0.061843173967121426,True,Right Foot,Open Play,1,0,1,Normal
+3750240,Sandro Cois,Fiorentina,51.27114198065029,0.08222109751168794,False,Right Foot,Open Play,0,1,1,Normal
+3750240,Paul Scholes,Manchester United,8.015609770940701,0.05490154444348298,False,Left Foot,Open Play,1,0,2,Half Volley
+3750240,Rui Manuel César Costa,Fiorentina,14.957606760441323,0.06218951687295398,False,Right Foot,Open Play,0,0,1,Normal
+3750240,Teddy Sheringham,Manchester United,18.713097017864257,0.06279611602340511,False,Right Foot,Open Play,0,0,3,Normal
+3750240,Ole Gunnar Solskjær,Manchester United,17.656726763474598,0.06067691106980444,False,Right Foot,Open Play,0,0,4,Normal
+3750240,Ole Gunnar Solskjær,Manchester United,28.537869577107543,0.06360526110521979,False,Right Foot,Open Play,0,0,1,Normal
+3750240,Ryan Giggs,Manchester United,19.334942461771124,0.06441918994384827,False,Right Foot,Open Play,1,0,0,Volley

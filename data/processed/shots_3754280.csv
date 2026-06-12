@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.169160537231384,0.06764520086879017,True,Left Foot,Open Play,0,0,3,Normal
-22.970633426181347,0.06733010874232731,False,Right Foot,Open Play,0,0,2,Normal
-23.668122020980036,0.06113979345031324,False,Right Foot,Open Play,1,0,1,Normal
-13.961733416735905,0.057699003762995665,False,Head,Open Play,0,0,2,Normal
-19.884918908559825,0.054424134344803504,False,Left Foot,Open Play,0,0,2,Normal
-12.010412149464308,0.05461151039691637,False,Head,Open Play,0,0,1,Normal
-19.748924021323283,0.05882900948188943,False,Left Foot,Open Play,1,0,1,Normal
-15.172672803431833,0.05653161087637385,True,Right Foot,Open Play,1,0,2,Lob
-10.339245620450267,0.059959133901155745,False,Left Foot,Open Play,1,0,1,Volley
-6.082762530298223,0.05604705811726406,False,Left Foot,Open Play,1,0,2,Volley
-25.357050301641944,0.06473371544013949,False,Left Foot,Open Play,0,0,1,Normal
-14.610954794263105,0.060401115945818026,False,Left Foot,Open Play,1,0,2,Normal
-32.44518454254806,0.07435620663526561,False,Right Foot,Open Play,0,0,2,Normal
-8.338465086573185,0.05833631671123513,False,Head,Open Play,0,1,3,Normal
-14.577379737113251,0.05342624523229593,True,Right Foot,Open Play,1,0,1,Normal
-29.0077575831018,0.07162946189391045,False,Left Foot,Open Play,0,0,0,Half Volley
-16.69041641182149,0.06268913036692378,False,Right Foot,Open Play,0,0,2,Half Volley
-25.31797780234433,0.05851423230110783,False,Right Foot,Open Play,0,0,2,Normal
-8.22982381342395,0.05641993721710933,False,Left Foot,Open Play,1,0,2,Volley
-24.12985702402731,0.054873632224230744,False,Left Foot,Open Play,0,0,1,Normal
-14.785127662620969,0.058035175928697905,False,Right Foot,Open Play,1,0,2,Normal
-18.816216410320113,0.0595079474783803,False,Left Foot,Open Play,0,0,3,Normal
-21.91802910847597,0.058764679524460565,False,Left Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754280,Robert Kenedy Nunes do Nascimento,Chelsea,23.169160537231384,0.06764520086879017,True,Left Foot,Open Play,0,0,3,Normal
+3754280,Oscar dos Santos Emboaba Júnior,Chelsea,22.970633426181347,0.06733010874232731,False,Right Foot,Open Play,0,0,2,Normal
+3754280,Jonathan Howson,Norwich City,23.668122020980036,0.06113979345031324,False,Right Foot,Open Play,1,0,1,Normal
+3754280,Cameron Jerome,Norwich City,13.961733416735905,0.057699003762995665,False,Head,Open Play,0,0,2,Normal
+3754280,Bertrand Isidore Traoré,Chelsea,19.884918908559825,0.054424134344803504,False,Left Foot,Open Play,0,0,2,Normal
+3754280,Francesc Fàbregas i Soler,Chelsea,12.010412149464308,0.05461151039691637,False,Head,Open Play,0,0,1,Normal
+3754280,Bertrand Isidore Traoré,Chelsea,19.748924021323283,0.05882900948188943,False,Left Foot,Open Play,1,0,1,Normal
+3754280,Diego da Silva Costa,Chelsea,15.172672803431833,0.05653161087637385,True,Right Foot,Open Play,1,0,2,Lob
+3754280,Cameron Jerome,Norwich City,10.339245620450267,0.059959133901155745,False,Left Foot,Open Play,1,0,1,Volley
+3754280,Cameron Jerome,Norwich City,6.082762530298223,0.05604705811726406,False,Left Foot,Open Play,1,0,2,Volley
+3754280,Nemanja Matić,Chelsea,25.357050301641944,0.06473371544013949,False,Left Foot,Open Play,0,0,1,Normal
+3754280,Bertrand Isidore Traoré,Chelsea,14.610954794263105,0.060401115945818026,False,Left Foot,Open Play,1,0,2,Normal
+3754280,Jonathan Howson,Norwich City,32.44518454254806,0.07435620663526561,False,Right Foot,Open Play,0,0,2,Normal
+3754280,Cameron Jerome,Norwich City,8.338465086573185,0.05833631671123513,False,Head,Open Play,0,1,3,Normal
+3754280,Nathan Redmond,Norwich City,14.577379737113251,0.05342624523229593,True,Right Foot,Open Play,1,0,1,Normal
+3754280,Robert Brady,Norwich City,29.0077575831018,0.07162946189391045,False,Left Foot,Open Play,0,0,0,Half Volley
+3754280,Cameron Jerome,Norwich City,16.69041641182149,0.06268913036692378,False,Right Foot,Open Play,0,0,2,Half Volley
+3754280,Gary O''Neil,Norwich City,25.31797780234433,0.05851423230110783,False,Right Foot,Open Play,0,0,2,Normal
+3754280,Nemanja Matić,Chelsea,8.22982381342395,0.05641993721710933,False,Left Foot,Open Play,1,0,2,Volley
+3754280,Nathan Redmond,Norwich City,24.12985702402731,0.054873632224230744,False,Left Foot,Open Play,0,0,1,Normal
+3754280,Diego da Silva Costa,Chelsea,14.785127662620969,0.058035175928697905,False,Right Foot,Open Play,1,0,2,Normal
+3754280,Nathan Redmond,Norwich City,18.816216410320113,0.0595079474783803,False,Left Foot,Open Play,0,0,3,Normal
+3754280,Timm Klose,Norwich City,21.91802910847597,0.058764679524460565,False,Left Foot,Open Play,0,0,3,Half Volley

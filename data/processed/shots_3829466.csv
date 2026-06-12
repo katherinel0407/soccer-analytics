@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.400438588054413,0.059376566933276205,False,Head,Open Play,0,1,3,Normal
-34.74320077367656,0.07654107030256839,False,Right Foot,Open Play,0,0,1,Normal
-15.814550262337532,0.06042029810613243,False,Right Foot,Open Play,1,1,1,Half Volley
-27.624083695210597,0.062062828421154924,False,Right Foot,Open Play,0,0,3,Normal
-7.20069441095788,0.056254171435210436,False,Head,Open Play,0,1,5,Normal
-40.590762495917716,0.06809689507851029,False,Right Foot,Open Play,0,0,0,Half Volley
-8.53814968245462,0.057092250473235684,False,Head,Open Play,0,0,2,Normal
-29.85431292125143,0.06160572767586954,False,Right Foot,Open Play,0,0,1,Normal
-27.99017684831591,0.07036374428194325,False,Left Foot,Open Play,1,1,2,Half Volley
-9.289241088485108,0.05911425252497018,False,Right Foot,Open Play,1,0,0,Normal
-13.884163640637492,0.06194695206037321,False,Left Foot,Open Play,1,1,2,Volley
-16.68202625582396,0.0563950554491251,False,Right Foot,Open Play,0,0,1,Normal
-34.5418586645247,0.06915445618910498,False,Right Foot,Open Play,0,1,1,Normal
-42.290660907581,0.05997566698449536,False,Left Foot,Open Play,0,1,2,Normal
-11.257886124846,0.0578057678105848,False,Head,Open Play,0,0,5,Normal
-12.397580409095957,0.06058701158826979,False,Left Foot,Open Play,0,0,1,Overhead Kick
-31.39968152704737,0.06999839069959649,False,Left Foot,Open Play,0,0,2,Normal
-36.34680178502642,0.0756226801128014,False,Left Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-25.222410669878478,0.060389307975105624,False,Right Foot,Open Play,1,1,2,Half Volley
-20.660348496576717,0.05636774702030251,False,Right Foot,Open Play,1,0,0,Normal
-26.273180241455353,0.055400808642700645,False,Left Foot,Open Play,1,0,1,Normal
-8.709190547921207,0.05886175025423221,False,Right Foot,Open Play,1,1,3,Half Volley
-16.02529250903084,0.06165676116798872,False,Left Foot,Open Play,1,0,2,Normal
-34.91246195844687,0.06859670003974819,False,Right Foot,Open Play,1,0,0,Normal
-23.286262044390035,0.0669212134964328,False,Right Foot,Open Play,0,0,2,Normal
-12.48679302303037,0.06119174738305194,False,Left Foot,Open Play,1,1,1,Normal
-32.046996739164186,0.0737265616053348,False,Left Foot,Open Play,0,0,2,Normal
-26.57084868798887,0.07009737444121351,False,Right Foot,Open Play,1,1,1,Normal
-18.179658962697843,0.06201139337361151,False,Left Foot,Open Play,0,1,1,Normal
-15.402921800749368,0.060925213107693915,False,Left Foot,Open Play,0,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829466,Abdoul Razzagui Camara,Angers,11.400438588054413,0.059376566933276205,False,Head,Open Play,0,1,3,Normal
+3829466,Yoann Andreu,Angers,34.74320077367656,0.07654107030256839,False,Right Foot,Open Play,0,0,1,Normal
+3829466,Corentin Jean,Troyes,15.814550262337532,0.06042029810613243,False,Right Foot,Open Play,1,1,1,Half Volley
+3829466,Cheikh N''Doye,Angers,27.624083695210597,0.062062828421154924,False,Right Foot,Open Play,0,0,3,Normal
+3829466,Férébory Doré,Angers,7.20069441095788,0.056254171435210436,False,Head,Open Play,0,1,5,Normal
+3829466,Vincent Manceau,Angers,40.590762495917716,0.06809689507851029,False,Right Foot,Open Play,0,0,0,Half Volley
+3829466,Cheikh N''Doye,Angers,8.53814968245462,0.057092250473235684,False,Head,Open Play,0,0,2,Normal
+3829466,Lossémy Karaboué,Troyes,29.85431292125143,0.06160572767586954,False,Right Foot,Open Play,0,0,1,Normal
+3829466,Yoann Court,Troyes,27.99017684831591,0.07036374428194325,False,Left Foot,Open Play,1,1,2,Half Volley
+3829466,Henri Bienvenu Ntsama,Troyes,9.289241088485108,0.05911425252497018,False,Right Foot,Open Play,1,0,0,Normal
+3829466,Slimane Sissoko,Angers,13.884163640637492,0.06194695206037321,False,Left Foot,Open Play,1,1,2,Volley
+3829466,Férébory Doré,Angers,16.68202625582396,0.0563950554491251,False,Right Foot,Open Play,0,0,1,Normal
+3829466,Thomas Ayasse,Troyes,34.5418586645247,0.06915445618910498,False,Right Foot,Open Play,0,1,1,Normal
+3829466,Slimane Sissoko,Angers,42.290660907581,0.05997566698449536,False,Left Foot,Open Play,0,1,2,Normal
+3829466,Ismaël Traoré,Angers,11.257886124846,0.0578057678105848,False,Head,Open Play,0,0,5,Normal
+3829466,Slimane Sissoko,Angers,12.397580409095957,0.06058701158826979,False,Left Foot,Open Play,0,0,1,Overhead Kick
+3829466,Yoann Court,Troyes,31.39968152704737,0.06999839069959649,False,Left Foot,Open Play,0,0,2,Normal
+3829466,Romain Saïss,Angers,36.34680178502642,0.0756226801128014,False,Left Foot,Open Play,0,0,1,Normal
+3829466,Thomas Mangani,Angers,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3829466,Férébory Doré,Angers,25.222410669878478,0.060389307975105624,False,Right Foot,Open Play,1,1,2,Half Volley
+3829466,Benjamin Nivet,Troyes,20.660348496576717,0.05636774702030251,False,Right Foot,Open Play,1,0,0,Normal
+3829466,Corentin Jean,Troyes,26.273180241455353,0.055400808642700645,False,Left Foot,Open Play,1,0,1,Normal
+3829466,Yoann Court,Troyes,8.709190547921207,0.05886175025423221,False,Right Foot,Open Play,1,1,3,Half Volley
+3829466,Billy Ketkeophomphone,Angers,16.02529250903084,0.06165676116798872,False,Left Foot,Open Play,1,0,2,Normal
+3829466,Corentin Jean,Troyes,34.91246195844687,0.06859670003974819,False,Right Foot,Open Play,1,0,0,Normal
+3829466,Benjamin Nivet,Troyes,23.286262044390035,0.0669212134964328,False,Right Foot,Open Play,0,0,2,Normal
+3829466,Chris Mavinga,Troyes,12.48679302303037,0.06119174738305194,False,Left Foot,Open Play,1,1,1,Normal
+3829466,Abdoul Razzagui Camara,Angers,32.046996739164186,0.0737265616053348,False,Left Foot,Open Play,0,0,2,Normal
+3829466,Billy Ketkeophomphone,Angers,26.57084868798887,0.07009737444121351,False,Right Foot,Open Play,1,1,1,Normal
+3829466,Corentin Jean,Troyes,18.179658962697843,0.06201139337361151,False,Left Foot,Open Play,0,1,1,Normal
+3829466,Lossémy Karaboué,Troyes,15.402921800749368,0.060925213107693915,False,Left Foot,Open Play,0,1,3,Half Volley

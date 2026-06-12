@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.368261972488103,0.053668640437261536,False,Left Foot,Open Play,1,1,1,Normal
-7.151223671512452,0.05379266180869335,False,Right Foot,Open Play,1,0,2,Half Volley
-7.0,0.05755567023984417,False,Head,Open Play,0,1,4,Normal
-18.001388835309342,0.06442305877275041,False,Right Foot,Open Play,0,0,2,Normal
-26.69868910639622,0.05896864566820604,False,Right Foot,Open Play,0,0,1,Normal
-7.026378868236473,0.05821515980427483,False,Right Foot,Open Play,1,0,1,Half Volley
-11.035397591387458,0.05809489500934751,False,Right Foot,Open Play,1,0,4,Normal
-19.475625792256338,0.060556525876332416,False,Left Foot,Open Play,1,0,2,Normal
-32.83169200635265,0.07459161675192995,False,Right Foot,Open Play,0,0,2,Normal
-27.946019394539896,0.07099326435009023,False,Right Foot,Open Play,0,0,1,Normal
-19.093978108293726,0.05473544415664444,False,Left Foot,Open Play,0,0,4,Normal
-13.700364958642522,0.06135230409300874,False,Right Foot,Open Play,1,0,2,Volley
-29.98166106138884,0.07204021666397836,False,Left Foot,Open Play,0,0,1,Normal
-15.976545308670456,0.05916819018526056,False,Left Foot,Open Play,0,0,3,Normal
-30.81963659746818,0.06893802719023549,False,Left Foot,Open Play,0,0,0,Normal
-8.635392289873108,0.059084051024615496,False,Head,Open Play,0,0,4,Normal
-25.200992043965257,0.06766579256739097,False,Left Foot,Open Play,0,0,2,Normal
-11.921828718783035,0.057926479096020896,False,Right Foot,Open Play,1,0,2,Half Volley
-12.592458060283539,0.057631009613262285,True,Right Foot,Open Play,1,0,2,Normal
-12.088010589009256,0.06061641561272064,False,Left Foot,Open Play,1,0,1,Half Volley
-21.397429752192203,0.05791838818529149,False,Right Foot,Open Play,1,0,0,Normal
-29.82415128716993,0.07213350563099873,False,Right Foot,Open Play,0,0,1,Normal
-13.923002549737614,0.05381506145208687,False,Right Foot,Open Play,1,0,1,Half Volley
-16.378339354159202,0.06331379915226469,False,Right Foot,Open Play,1,0,1,Normal
-7.111258679024404,0.057723225727592295,False,Head,Open Play,0,0,3,Normal
-27.44485379811669,0.053591822122954484,False,Left Foot,Open Play,1,0,1,Normal
-23.186634080866504,0.06776536182364858,False,Right Foot,Open Play,0,1,1,Normal
-9.20054346220917,0.0591399589352022,True,Left Foot,Open Play,1,0,1,Volley
-20.49243762952568,0.06545832715949784,False,Right Foot,Open Play,0,1,4,Normal
-10.486181383134664,0.05966893841535888,False,Left Foot,Open Play,0,1,2,Half Volley
-28.070268969142422,0.05823501862836603,False,Right Foot,Open Play,0,0,2,Normal
-25.643907658545327,0.0664716487027791,False,Left Foot,Open Play,1,1,1,Half Volley
-19.52895286491316,0.0552098974036471,False,Right Foot,Open Play,0,0,2,Normal
-6.425729530566937,0.0564310844565175,True,Left Foot,Open Play,0,1,2,Half Volley
-10.911003620199196,0.057616373536100114,False,Left Foot,Open Play,0,0,2,Normal
-12.816005617976298,0.05385112350766195,False,Right Foot,Open Play,1,0,2,Half Volley
-38.50324661635691,0.0727219890332421,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911643,Ascensión Martínez Salinas,Valencia CF,16.368261972488103,0.053668640437261536,False,Left Foot,Open Play,1,1,1,Normal
+3911643,Patricia Guijarro Gutiérrez,Barcelona WFC,7.151223671512452,0.05379266180869335,False,Right Foot,Open Play,1,0,2,Half Volley
+3911643,Esmee Brugts,Barcelona WFC,7.0,0.05755567023984417,False,Head,Open Play,0,1,4,Normal
+3911643,Macarena Portales Nieto,Valencia CF,18.001388835309342,0.06442305877275041,False,Right Foot,Open Play,0,0,2,Normal
+3911643,Lucy Bronze,Barcelona WFC,26.69868910639622,0.05896864566820604,False,Right Foot,Open Play,0,0,1,Normal
+3911643,Victoria López,Barcelona WFC,7.026378868236473,0.05821515980427483,False,Right Foot,Open Play,1,0,1,Half Volley
+3911643,Jana Fernandez Velasco,Barcelona WFC,11.035397591387458,0.05809489500934751,False,Right Foot,Open Play,1,0,4,Normal
+3911643,Fridolina Rolfö,Barcelona WFC,19.475625792256338,0.060556525876332416,False,Left Foot,Open Play,1,0,2,Normal
+3911643,Claudia Pina Medina,Barcelona WFC,32.83169200635265,0.07459161675192995,False,Right Foot,Open Play,0,0,2,Normal
+3911643,Patricia Guijarro Gutiérrez,Barcelona WFC,27.946019394539896,0.07099326435009023,False,Right Foot,Open Play,0,0,1,Normal
+3911643,Caroline Graham Hansen,Barcelona WFC,19.093978108293726,0.05473544415664444,False,Left Foot,Open Play,0,0,4,Normal
+3911643,Esmee Brugts,Barcelona WFC,13.700364958642522,0.06135230409300874,False,Right Foot,Open Play,1,0,2,Volley
+3911643,María Pilar León Cebrián,Barcelona WFC,29.98166106138884,0.07204021666397836,False,Left Foot,Open Play,0,0,1,Normal
+3911643,Macarena Portales Nieto,Valencia CF,15.976545308670456,0.05916819018526056,False,Left Foot,Open Play,0,0,3,Normal
+3911643,María Pilar León Cebrián,Barcelona WFC,30.81963659746818,0.06893802719023549,False,Left Foot,Open Play,0,0,0,Normal
+3911643,Marta Carro Nolasco,Valencia CF,8.635392289873108,0.059084051024615496,False,Head,Open Play,0,0,4,Normal
+3911643,Paula Sancho González,Valencia CF,25.200992043965257,0.06766579256739097,False,Left Foot,Open Play,0,0,2,Normal
+3911643,Claudia Pina Medina,Barcelona WFC,11.921828718783035,0.057926479096020896,False,Right Foot,Open Play,1,0,2,Half Volley
+3911643,Victoria López,Barcelona WFC,12.592458060283539,0.057631009613262285,True,Right Foot,Open Play,1,0,2,Normal
+3911643,Claudia Pina Medina,Barcelona WFC,12.088010589009256,0.06061641561272064,False,Left Foot,Open Play,1,0,1,Half Volley
+3911643,Keira Walsh,Barcelona WFC,21.397429752192203,0.05791838818529149,False,Right Foot,Open Play,1,0,0,Normal
+3911643,Patricia Guijarro Gutiérrez,Barcelona WFC,29.82415128716993,0.07213350563099873,False,Right Foot,Open Play,0,0,1,Normal
+3911643,Caroline Graham Hansen,Barcelona WFC,13.923002549737614,0.05381506145208687,False,Right Foot,Open Play,1,0,1,Half Volley
+3911643,Patricia Guijarro Gutiérrez,Barcelona WFC,16.378339354159202,0.06331379915226469,False,Right Foot,Open Play,1,0,1,Normal
+3911643,Patricia Guijarro Gutiérrez,Barcelona WFC,7.111258679024404,0.057723225727592295,False,Head,Open Play,0,0,3,Normal
+3911643,Marina Martí Serna,Valencia CF,27.44485379811669,0.053591822122954484,False,Left Foot,Open Play,1,0,1,Normal
+3911643,Claudia Pina Medina,Barcelona WFC,23.186634080866504,0.06776536182364858,False,Right Foot,Open Play,0,1,1,Normal
+3911643,Patricia Guijarro Gutiérrez,Barcelona WFC,9.20054346220917,0.0591399589352022,True,Left Foot,Open Play,1,0,1,Volley
+3911643,Claudia Pina Medina,Barcelona WFC,20.49243762952568,0.06545832715949784,False,Right Foot,Open Play,0,1,4,Normal
+3911643,Bruna Vilamala Costa,Barcelona WFC,10.486181383134664,0.05966893841535888,False,Left Foot,Open Play,0,1,2,Half Volley
+3911643,Giulia Dragoni,Barcelona WFC,28.070268969142422,0.05823501862836603,False,Right Foot,Open Play,0,0,2,Normal
+3911643,Elish Sulola,Valencia CF,25.643907658545327,0.0664716487027791,False,Left Foot,Open Play,1,1,1,Half Volley
+3911643,Caroline Graham Hansen,Barcelona WFC,19.52895286491316,0.0552098974036471,False,Right Foot,Open Play,0,0,2,Normal
+3911643,Caroline Graham Hansen,Barcelona WFC,6.425729530566937,0.0564310844565175,True,Left Foot,Open Play,0,1,2,Half Volley
+3911643,Claudia Pina Medina,Barcelona WFC,10.911003620199196,0.057616373536100114,False,Left Foot,Open Play,0,0,2,Normal
+3911643,Bruna Vilamala Costa,Barcelona WFC,12.816005617976298,0.05385112350766195,False,Right Foot,Open Play,1,0,2,Half Volley
+3911643,Bruna Vilamala Costa,Barcelona WFC,38.50324661635691,0.0727219890332421,False,Left Foot,Open Play,0,0,1,Normal

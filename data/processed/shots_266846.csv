@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.8746428490440135,0.0555133525420402,True,Right Foot,Open Play,0,0,2,Half Volley
-19.787369708983555,0.06460344597102537,False,Right Foot,Open Play,0,0,2,Normal
-13.57645019878171,0.06161613103521309,False,Right Foot,Open Play,1,0,1,Volley
-37.119401934837256,0.07859854428153931,False,Left Foot,Open Play,1,0,0,Half Volley
-17.537673733993344,0.052151711223167016,False,Right Foot,Open Play,0,0,1,Normal
-19.230184606498195,0.06511316369656799,False,Left Foot,Open Play,1,0,0,Normal
-31.98890432634416,0.06938699956979939,False,Right Foot,Open Play,0,0,1,Normal
-24.617473469062585,0.06763643581534008,False,Right Foot,Open Play,0,0,2,Normal
-17.956892826989865,0.06413958320602535,False,Left Foot,Open Play,0,0,4,Normal
-19.037857022259622,0.06198837667018768,False,Left Foot,Open Play,1,0,0,Normal
-13.717871555019025,0.06057027923333701,False,Head,Open Play,0,1,2,Normal
-6.236986451805071,0.05700583567993526,False,Left Foot,Open Play,0,0,3,Normal
-22.38972978845435,0.05272283951980775,False,Right Foot,Open Play,1,0,0,Half Volley
-8.005623023850173,0.057855368538542444,False,Head,Open Play,0,1,1,Normal
-17.871765441612087,0.06434375495629271,False,Left Foot,Open Play,0,1,3,Normal
-6.7601775124622305,0.05772137361238655,True,Right Foot,Open Play,0,0,4,Normal
-31.21698255757593,0.061074725835958875,False,Right Foot,Open Play,0,0,1,Normal
-29.590876972472447,0.05435463556371838,False,Left Foot,Free Kick,0,0,0,Normal
-29.37158490786631,0.05693336832900467,False,Right Foot,Open Play,0,0,1,Normal
-5.818934610390461,0.057546595631581154,True,Head,Open Play,0,0,6,Normal
-14.44991349455076,0.06015077459460032,True,Right Foot,Open Play,1,0,2,Normal
-25.05034929896188,0.06751354993919746,False,Left Foot,Open Play,0,0,2,Normal
-11.745637488020815,0.0554137342238721,True,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266846,Pedro Eliezer Rodríguez Ledesma,Barcelona,7.8746428490440135,0.0555133525420402,True,Right Foot,Open Play,0,0,2,Half Volley
+266846,Andrés Iniesta Luján,Barcelona,19.787369708983555,0.06460344597102537,False,Right Foot,Open Play,0,0,2,Normal
+266846,Luis Alberto Suárez Díaz,Barcelona,13.57645019878171,0.06161613103521309,False,Right Foot,Open Play,1,0,1,Volley
+266846,Federico Nicolás Cartabia,Córdoba CF,37.119401934837256,0.07859854428153931,False,Left Foot,Open Play,1,0,0,Half Volley
+266846,Nabil Ghilas,Córdoba CF,17.537673733993344,0.052151711223167016,False,Right Foot,Open Play,0,0,1,Normal
+266846,Ivan Rakitić,Barcelona,19.230184606498195,0.06511316369656799,False,Left Foot,Open Play,1,0,0,Normal
+266846,Borja García Freire,Córdoba CF,31.98890432634416,0.06938699956979939,False,Right Foot,Open Play,0,0,1,Normal
+266846,Pedro Eliezer Rodríguez Ledesma,Barcelona,24.617473469062585,0.06763643581534008,False,Right Foot,Open Play,0,0,2,Normal
+266846,Lionel Andrés Messi Cuccittini,Barcelona,17.956892826989865,0.06413958320602535,False,Left Foot,Open Play,0,0,4,Normal
+266846,Federico Nicolás Cartabia,Córdoba CF,19.037857022259622,0.06198837667018768,False,Left Foot,Open Play,1,0,0,Normal
+266846,Luis Eduardo Delgado Pacheco,Córdoba CF,13.717871555019025,0.06057027923333701,False,Head,Open Play,0,1,2,Normal
+266846,Jordi Alba Ramos,Barcelona,6.236986451805071,0.05700583567993526,False,Left Foot,Open Play,0,0,3,Normal
+266846,Luis Alberto Suárez Díaz,Barcelona,22.38972978845435,0.05272283951980775,False,Right Foot,Open Play,1,0,0,Half Volley
+266846,Gerard Piqué Bernabéu,Barcelona,8.005623023850173,0.057855368538542444,False,Head,Open Play,0,1,1,Normal
+266846,Lionel Andrés Messi Cuccittini,Barcelona,17.871765441612087,0.06434375495629271,False,Left Foot,Open Play,0,1,3,Normal
+266846,Luis Alberto Suárez Díaz,Barcelona,6.7601775124622305,0.05772137361238655,True,Right Foot,Open Play,0,0,4,Normal
+266846,Ivan Rakitić,Barcelona,31.21698255757593,0.061074725835958875,False,Right Foot,Open Play,0,0,1,Normal
+266846,Federico Nicolás Cartabia,Córdoba CF,29.590876972472447,0.05435463556371838,False,Left Foot,Free Kick,0,0,0,Normal
+266846,Xavier Hernández Creus,Barcelona,29.37158490786631,0.05693336832900467,False,Right Foot,Open Play,0,0,1,Normal
+266846,Gerard Piqué Bernabéu,Barcelona,5.818934610390461,0.057546595631581154,True,Head,Open Play,0,0,6,Normal
+266846,Lionel Andrés Messi Cuccittini,Barcelona,14.44991349455076,0.06015077459460032,True,Right Foot,Open Play,1,0,2,Normal
+266846,Federico Nicolás Cartabia,Córdoba CF,25.05034929896188,0.06751354993919746,False,Left Foot,Open Play,0,0,2,Normal
+266846,Lionel Andrés Messi Cuccittini,Barcelona,11.745637488020815,0.0554137342238721,True,Right Foot,Open Play,0,0,2,Half Volley

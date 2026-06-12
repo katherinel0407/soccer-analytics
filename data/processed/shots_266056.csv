@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.58800653461194,0.0547333277666471,False,Right Foot,Open Play,1,0,1,Volley
-3.7336309405188928,0.056330096487686325,True,Left Foot,Open Play,1,0,1,Normal
-15.558920271021382,0.06274279834198093,False,Left Foot,Open Play,0,0,1,Normal
-9.802040603874275,0.05861340754633862,False,Head,Open Play,0,1,2,Normal
-24.4476992782552,0.06861962204013775,False,Right Foot,Open Play,1,0,0,Volley
-9.548298277703724,0.055114964475256004,False,Right Foot,Open Play,1,0,1,Volley
-17.502571239677902,0.06411853228491006,True,Left Foot,Open Play,0,1,2,Normal
-15.489673979784083,0.06271393317257323,False,Left Foot,Open Play,1,0,1,Half Volley
-27.482357977437093,0.07063778101358116,False,Left Foot,Open Play,1,0,0,Normal
-31.800157232315687,0.06888358148719202,False,Left Foot,Free Kick,0,0,0,Normal
-11.901680553602509,0.059477991333385986,True,Left Foot,Penalty,0,0,0,Normal
-17.170323235163625,0.0637945222060218,False,Left Foot,Open Play,1,0,2,Normal
-11.313708498984765,0.059815745393512004,False,Head,Open Play,0,0,4,Normal
-12.271104269787626,0.060751115101887805,False,Head,Open Play,0,0,3,Normal
-13.192801067248759,0.05318647988994371,True,Right Foot,Open Play,0,0,2,Normal
-21.44061566280222,0.06011104082643824,False,Right Foot,Open Play,1,0,1,Normal
-19.037331745809333,0.06458588322172332,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266056,Luis Alberto Suárez Díaz,Barcelona,19.58800653461194,0.0547333277666471,False,Right Foot,Open Play,1,0,1,Volley
+266056,Munir El Haddadi Mohamed,Barcelona,3.7336309405188928,0.056330096487686325,True,Left Foot,Open Play,1,0,1,Normal
+266056,Luis Alberto Suárez Díaz,Barcelona,15.558920271021382,0.06274279834198093,False,Left Foot,Open Play,0,0,1,Normal
+266056,Iván Ramis Barrios,Eibar,9.802040603874275,0.05861340754633862,False,Head,Open Play,0,1,2,Normal
+266056,David Juncà Reñé,Eibar,24.4476992782552,0.06861962204013775,False,Right Foot,Open Play,1,0,0,Volley
+266056,Gonzalo Escalante,Eibar,9.548298277703724,0.055114964475256004,False,Right Foot,Open Play,1,0,1,Volley
+266056,Lionel Andrés Messi Cuccittini,Barcelona,17.502571239677902,0.06411853228491006,True,Left Foot,Open Play,0,1,2,Normal
+266056,Lionel Andrés Messi Cuccittini,Barcelona,15.489673979784083,0.06271393317257323,False,Left Foot,Open Play,1,0,1,Half Volley
+266056,Adrián González Morales,Eibar,27.482357977437093,0.07063778101358116,False,Left Foot,Open Play,1,0,0,Normal
+266056,Lionel Andrés Messi Cuccittini,Barcelona,31.800157232315687,0.06888358148719202,False,Left Foot,Free Kick,0,0,0,Normal
+266056,Lionel Andrés Messi Cuccittini,Barcelona,11.901680553602509,0.059477991333385986,True,Left Foot,Penalty,0,0,0,Normal
+266056,Adrián González Morales,Eibar,17.170323235163625,0.0637945222060218,False,Left Foot,Open Play,1,0,2,Normal
+266056,Luis Alberto Suárez Díaz,Barcelona,11.313708498984765,0.059815745393512004,False,Head,Open Play,0,0,4,Normal
+266056,Aleksandar Pantić,Eibar,12.271104269787626,0.060751115101887805,False,Head,Open Play,0,0,3,Normal
+266056,Luis Alberto Suárez Díaz,Barcelona,13.192801067248759,0.05318647988994371,True,Right Foot,Open Play,0,0,2,Normal
+266056,Adrián González Morales,Eibar,21.44061566280222,0.06011104082643824,False,Right Foot,Open Play,1,0,1,Normal
+266056,Sergi Roberto Carnicer,Barcelona,19.037331745809333,0.06458588322172332,False,Right Foot,Open Play,1,0,2,Normal

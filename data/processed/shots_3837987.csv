@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.669419795525607,0.05486364645151928,False,Right Foot,Open Play,1,1,4,Backheel
-21.938550544646294,0.06337367108696956,False,Left Foot,Open Play,0,1,3,Normal
-14.807092894960851,0.062414509906825864,False,Left Foot,Open Play,1,1,3,Normal
-14.958609561052123,0.06258555679906144,False,Head,Open Play,0,0,1,Normal
-13.978912690191603,0.06202343519934875,True,Left Foot,Open Play,0,0,4,Normal
-20.909328061896204,0.06546168347604786,False,Left Foot,Open Play,0,1,3,Normal
-12.304470732217622,0.06024620101139409,False,Right Foot,Open Play,0,1,4,Normal
-10.867382389517731,0.0535970025718102,True,Right Foot,Open Play,1,0,1,Normal
-13.880922159568508,0.06138418316852072,False,Right Foot,Open Play,1,0,0,Volley
-23.90083680543424,0.06811093408141138,False,Left Foot,Free Kick,0,0,0,Normal
-14.261837188805657,0.062015350147155285,False,Right Foot,Open Play,0,0,4,Normal
-10.824509226750193,0.060193470423175015,True,Left Foot,Open Play,1,0,3,Normal
-16.0878836395593,0.05309256364252116,False,Left Foot,Open Play,1,0,3,Normal
-22.472205054244228,0.0665234452216427,False,Left Foot,Open Play,1,0,1,Volley
-17.724841325100765,0.06285957330232894,True,Right Foot,Open Play,1,1,2,Volley
-29.872562662081744,0.07236128343229188,False,Right Foot,Open Play,0,1,1,Normal
-26.513770007299982,0.05766496487888662,False,Right Foot,Open Play,1,0,2,Volley
-20.57595684287853,0.061179174586459086,False,Right Foot,Open Play,1,0,0,Normal
-20.203960007879648,0.06335828118311479,False,Right Foot,Open Play,1,0,2,Normal
-33.89985250705377,0.07145233600295632,False,Right Foot,Open Play,0,0,0,Normal
-19.037857022259626,0.0650665074336515,False,Right Foot,Open Play,0,0,2,Normal
-18.284966502567077,0.05712125562699438,False,Left Foot,Open Play,0,1,3,Normal
-12.233151678941939,0.05516026254248596,False,Right Foot,Open Play,1,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3837987,Kylian Mbappé Lottin,Paris Saint-Germain,7.669419795525607,0.05486364645151928,False,Right Foot,Open Play,1,1,4,Backheel
+3837987,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,21.938550544646294,0.06337367108696956,False,Left Foot,Open Play,0,1,3,Normal
+3837987,Fabián Ruiz Peña,Paris Saint-Germain,14.807092894960851,0.062414509906825864,False,Left Foot,Open Play,1,1,3,Normal
+3837987,Mickaël Barreto,AC Ajaccio,14.958609561052123,0.06258555679906144,False,Head,Open Play,0,0,1,Normal
+3837987,Fabián Ruiz Peña,Paris Saint-Germain,13.978912690191603,0.06202343519934875,True,Left Foot,Open Play,0,0,4,Normal
+3837987,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,20.909328061896204,0.06546168347604786,False,Left Foot,Open Play,0,1,3,Normal
+3837987,Kylian Mbappé Lottin,Paris Saint-Germain,12.304470732217622,0.06024620101139409,False,Right Foot,Open Play,0,1,4,Normal
+3837987,Achraf Hakimi Mouh,Paris Saint-Germain,10.867382389517731,0.0535970025718102,True,Right Foot,Open Play,1,0,1,Normal
+3837987,Kylian Mbappé Lottin,Paris Saint-Germain,13.880922159568508,0.06138418316852072,False,Right Foot,Open Play,1,0,0,Volley
+3837987,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,23.90083680543424,0.06811093408141138,False,Left Foot,Free Kick,0,0,0,Normal
+3837987,Kylian Mbappé Lottin,Paris Saint-Germain,14.261837188805657,0.062015350147155285,False,Right Foot,Open Play,0,0,4,Normal
+3837987,Kylian Mbappé Lottin,Paris Saint-Germain,10.824509226750193,0.060193470423175015,True,Left Foot,Open Play,1,0,3,Normal
+3837987,Vincent Marchetti,AC Ajaccio,16.0878836395593,0.05309256364252116,False,Left Foot,Open Play,1,0,3,Normal
+3837987,Thomas Mangani,AC Ajaccio,22.472205054244228,0.0665234452216427,False,Left Foot,Open Play,1,0,1,Volley
+3837987,Kylian Mbappé Lottin,Paris Saint-Germain,17.724841325100765,0.06285957330232894,True,Right Foot,Open Play,1,1,2,Volley
+3837987,Danilo Luís Hélio Pereira,Paris Saint-Germain,29.872562662081744,0.07236128343229188,False,Right Foot,Open Play,0,1,1,Normal
+3837987,Mickaël Barreto,AC Ajaccio,26.513770007299982,0.05766496487888662,False,Right Foot,Open Play,1,0,2,Volley
+3837987,Mickaël Barreto,AC Ajaccio,20.57595684287853,0.061179174586459086,False,Right Foot,Open Play,1,0,0,Normal
+3837987,Vitor Machado Ferreira,Paris Saint-Germain,20.203960007879648,0.06335828118311479,False,Right Foot,Open Play,1,0,2,Normal
+3837987,Mickaël Barreto,AC Ajaccio,33.89985250705377,0.07145233600295632,False,Right Foot,Open Play,0,0,0,Normal
+3837987,Moussa Soumano,AC Ajaccio,19.037857022259626,0.0650665074336515,False,Right Foot,Open Play,0,0,2,Normal
+3837987,Warren Zaire Emery,Paris Saint-Germain,18.284966502567077,0.05712125562699438,False,Left Foot,Open Play,0,1,3,Normal
+3837987,Warren Zaire Emery,Paris Saint-Germain,12.233151678941939,0.05516026254248596,False,Right Foot,Open Play,1,1,1,Half Volley

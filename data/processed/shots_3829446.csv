@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.609439001839934,0.05459196901448135,False,Right Foot,Open Play,1,0,2,Half Volley
-26.841944787961992,0.06707967471516754,False,Right Foot,Open Play,0,0,2,Normal
-30.64979608415038,0.07319437200917847,False,Right Foot,Free Kick,0,0,0,Normal
-10.404326023342414,0.05979202638476773,False,Head,Open Play,0,1,1,Normal
-26.829275055431516,0.06439502289032331,False,Right Foot,Open Play,0,0,1,Normal
-28.750304346215195,0.07063555683221642,False,Right Foot,Open Play,0,0,0,Normal
-25.688908112257327,0.0693323762330959,False,Right Foot,Open Play,0,1,1,Normal
-28.111385593741193,0.06556345200852584,False,Left Foot,Open Play,1,0,2,Volley
-19.60637651377734,0.06312468130242171,False,Right Foot,Open Play,1,1,1,Normal
-16.016241756417145,0.059288879609522394,False,Right Foot,Open Play,1,0,1,Volley
-20.64000968992021,0.053324244964846154,False,Right Foot,Open Play,0,0,1,Normal
-25.088044961694404,0.0643951773745998,False,Left Foot,Open Play,0,0,1,Normal
-13.080137613954983,0.056143234624240264,False,Right Foot,Open Play,1,0,2,Volley
-30.970469805929643,0.07287974154647263,False,Right Foot,Open Play,1,1,1,Normal
-26.273370548903692,0.06990340905409993,False,Right Foot,Open Play,0,0,4,Normal
-9.350935782048769,0.059320976409097934,False,Head,Open Play,0,1,2,Normal
-9.94635611668917,0.057881518821420216,False,Left Foot,Open Play,1,0,2,Normal
-12.211470017979003,0.061036889519999214,False,Head,Open Play,0,0,1,Normal
-17.300289014926886,0.06385441136290022,False,Left Foot,Open Play,0,0,1,Normal
-28.42551670594574,0.055676347933348753,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829446,Kévin Bérigaud,Montpellier,28.609439001839934,0.05459196901448135,False,Right Foot,Open Play,1,0,2,Half Volley
+3829446,Souleymane Camara,Montpellier,26.841944787961992,0.06707967471516754,False,Right Foot,Open Play,0,0,2,Normal
+3829446,Benjamin Nivet,Troyes,30.64979608415038,0.07319437200917847,False,Right Foot,Free Kick,0,0,0,Normal
+3829446,Kévin Bérigaud,Montpellier,10.404326023342414,0.05979202638476773,False,Head,Open Play,0,1,1,Normal
+3829446,Corentin Jean,Troyes,26.829275055431516,0.06439502289032331,False,Right Foot,Open Play,0,0,1,Normal
+3829446,Jonas Martin,Montpellier,28.750304346215195,0.07063555683221642,False,Right Foot,Open Play,0,0,0,Normal
+3829446,Kévin Bérigaud,Montpellier,25.688908112257327,0.0693323762330959,False,Right Foot,Open Play,0,1,1,Normal
+3829446,Souleymane Camara,Montpellier,28.111385593741193,0.06556345200852584,False,Left Foot,Open Play,1,0,2,Volley
+3829446,Kévin Bérigaud,Montpellier,19.60637651377734,0.06312468130242171,False,Right Foot,Open Play,1,1,1,Normal
+3829446,Lossémy Karaboué,Troyes,16.016241756417145,0.059288879609522394,False,Right Foot,Open Play,1,0,1,Volley
+3829446,Corentin Jean,Troyes,20.64000968992021,0.053324244964846154,False,Right Foot,Open Play,0,0,1,Normal
+3829446,Lossémy Karaboué,Troyes,25.088044961694404,0.0643951773745998,False,Left Foot,Open Play,0,0,1,Normal
+3829446,Jonathan Martins-Pereira,Troyes,13.080137613954983,0.056143234624240264,False,Right Foot,Open Play,1,0,2,Volley
+3829446,William Jean Rémy,Montpellier,30.970469805929643,0.07287974154647263,False,Right Foot,Open Play,1,1,1,Normal
+3829446,Djamel Bakar,Montpellier,26.273370548903692,0.06990340905409993,False,Right Foot,Open Play,0,0,4,Normal
+3829446,Vitorino Hilton da Silva,Montpellier,9.350935782048769,0.059320976409097934,False,Head,Open Play,0,1,2,Normal
+3829446,Lossémy Karaboué,Troyes,9.94635611668917,0.057881518821420216,False,Left Foot,Open Play,1,0,2,Normal
+3829446,Djamel Bakar,Montpellier,12.211470017979003,0.061036889519999214,False,Head,Open Play,0,0,1,Normal
+3829446,Jonas Martin,Montpellier,17.300289014926886,0.06385441136290022,False,Left Foot,Open Play,0,0,1,Normal
+3829446,Fabien Camus,Troyes,28.42551670594574,0.055676347933348753,False,Left Foot,Open Play,0,0,1,Normal

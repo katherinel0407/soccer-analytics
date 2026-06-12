@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.583641586509547,0.05244260762135136,False,Right Foot,Open Play,1,0,1,Half Volley
-30.329523570277193,0.0725400696446342,False,Right Foot,Open Play,1,0,0,Normal
-29.80956222422597,0.06355300625959164,False,Right Foot,Open Play,0,0,1,Normal
-26.57310670584077,0.0679612735084396,False,Right Foot,Open Play,0,0,1,Normal
-15.663013758533188,0.06257488654802819,False,Left Foot,Open Play,1,0,0,Half Volley
-8.450443775329203,0.0569146624452958,False,Head,Open Play,0,1,5,Normal
-8.59069263796581,0.05667322396236367,False,Head,Open Play,0,1,4,Normal
-15.033296378372913,0.0625494164359461,True,Right Foot,Open Play,0,0,4,Normal
-37.23680974519702,0.06560778277826622,False,Left Foot,Free Kick,0,0,0,Normal
-19.677398201998145,0.05824890745648894,False,Right Foot,Open Play,0,0,2,Normal
-19.55760721560794,0.059347401490828164,True,Left Foot,Open Play,0,0,2,Normal
-27.43082208028043,0.06728354363725164,False,Right Foot,Open Play,0,0,2,Half Volley
-27.5138147118861,0.06227760062708655,False,Left Foot,Open Play,1,0,1,Volley
-21.678099547700207,0.052215731919119046,False,Right Foot,Open Play,0,0,2,Normal
-25.58300216940928,0.06877889082450535,False,Left Foot,Open Play,0,0,2,Normal
-11.253888216967507,0.058867819093168315,False,Head,Open Play,0,0,4,Normal
-18.822327167489146,0.06466535621235171,False,Left Foot,Open Play,0,0,1,Normal
-18.72965562950905,0.057492266516055504,False,Left Foot,Open Play,0,0,0,Normal
-28.28992753613907,0.07133731338554676,False,Right Foot,Free Kick,0,0,0,Normal
-15.788920165736476,0.05758308244287133,False,Right Foot,Open Play,1,0,1,Normal
-9.14002188181188,0.05584078415661788,False,Head,Open Play,0,1,4,Normal
-33.75159255501879,0.05461085424405769,False,Left Foot,Free Kick,0,0,0,Normal
-26.090994615000785,0.06941682652024031,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890438,Anthony Modeste,FC Köln,26.583641586509547,0.05244260762135136,False,Right Foot,Open Play,1,0,1,Half Volley
+3890438,Pierre-Michel Lasogga,Hamburger SV,30.329523570277193,0.0725400696446342,False,Right Foot,Open Play,1,0,0,Normal
+3890438,Yannick Gerhardt,FC Köln,29.80956222422597,0.06355300625959164,False,Right Foot,Open Play,0,0,1,Normal
+3890438,Jonas Hector,FC Köln,26.57310670584077,0.0679612735084396,False,Right Foot,Open Play,0,0,1,Normal
+3890438,Filip Mladenović,FC Köln,15.663013758533188,0.06257488654802819,False,Left Foot,Open Play,1,0,0,Half Volley
+3890438,Gojko Kačar,Hamburger SV,8.450443775329203,0.0569146624452958,False,Head,Open Play,0,1,5,Normal
+3890438,Anthony Modeste,FC Köln,8.59069263796581,0.05667322396236367,False,Head,Open Play,0,1,4,Normal
+3890438,Simon Zoller,FC Köln,15.033296378372913,0.0625494164359461,True,Right Foot,Open Play,0,0,4,Normal
+3890438,Filip Mladenović,FC Köln,37.23680974519702,0.06560778277826622,False,Left Foot,Free Kick,0,0,0,Normal
+3890438,Leonardo Bittencourt,FC Köln,19.677398201998145,0.05824890745648894,False,Right Foot,Open Play,0,0,2,Normal
+3890438,Nicolai Müller,Hamburger SV,19.55760721560794,0.059347401490828164,True,Left Foot,Open Play,0,0,2,Normal
+3890438,Gojko Kačar,Hamburger SV,27.43082208028043,0.06728354363725164,False,Right Foot,Open Play,0,0,2,Half Volley
+3890438,Yannick Gerhardt,FC Köln,27.5138147118861,0.06227760062708655,False,Left Foot,Open Play,1,0,1,Volley
+3890438,Artoms Rudņevs,Hamburger SV,21.678099547700207,0.052215731919119046,False,Right Foot,Open Play,0,0,2,Normal
+3890438,Filip Mladenović,FC Köln,25.58300216940928,0.06877889082450535,False,Left Foot,Open Play,0,0,2,Normal
+3890438,Dominik Maroh,FC Köln,11.253888216967507,0.058867819093168315,False,Head,Open Play,0,0,4,Normal
+3890438,Anthony Modeste,FC Köln,18.822327167489146,0.06466535621235171,False,Left Foot,Open Play,0,0,1,Normal
+3890438,Yannick Gerhardt,FC Köln,18.72965562950905,0.057492266516055504,False,Left Foot,Open Play,0,0,0,Normal
+3890438,Marcel Risse,FC Köln,28.28992753613907,0.07133731338554676,False,Right Foot,Free Kick,0,0,0,Normal
+3890438,Anthony Modeste,FC Köln,15.788920165736476,0.05758308244287133,False,Right Foot,Open Play,1,0,1,Normal
+3890438,Anthony Modeste,FC Köln,9.14002188181188,0.05584078415661788,False,Head,Open Play,0,1,4,Normal
+3890438,Filip Mladenović,FC Köln,33.75159255501879,0.05461085424405769,False,Left Foot,Free Kick,0,0,0,Normal
+3890438,Simon Zoller,FC Köln,26.090994615000785,0.06941682652024031,False,Right Foot,Open Play,1,0,1,Half Volley

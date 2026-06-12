@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.890146894355187,0.06743326947562202,False,Right Foot,Open Play,0,0,2,Normal
-25.82130902955929,0.0645106187476739,False,Right Foot,Open Play,0,0,1,Normal
-19.030764566879604,0.053258713517559016,False,Left Foot,Open Play,0,0,2,Normal
-21.902054698132773,0.06590695631359497,False,Right Foot,Open Play,1,0,0,Half Volley
-20.5,0.06332162460131212,False,Left Foot,Open Play,0,0,2,Normal
-14.92816130673835,0.06227546032619488,False,Right Foot,Open Play,1,1,2,Normal
-38.96832046675864,0.06677947948221515,False,Right Foot,Open Play,0,0,2,Normal
-38.637417097937586,0.07122592369396871,False,Left Foot,Open Play,0,1,1,Normal
-16.031219541881395,0.06224785704444901,False,Right Foot,Open Play,0,1,1,Normal
-12.280065146407003,0.05436762988293441,False,Left Foot,Open Play,1,1,3,Normal
-24.65643932119964,0.06765654363662497,False,Right Foot,Open Play,0,0,3,Normal
-24.506733768497174,0.05363505760689211,False,Left Foot,Open Play,0,0,2,Normal
-22.2056299167576,0.06387969007811016,False,Left Foot,Open Play,0,1,1,Half Volley
-20.806249061279647,0.06605363962677142,False,Right Foot,Open Play,0,0,3,Normal
-24.597967395701616,0.055694660248568936,False,Right Foot,Open Play,0,1,2,Normal
-16.21634977422478,0.06317506365223474,False,Right Foot,Open Play,1,0,3,Normal
-28.398943642325854,0.07139015650408469,False,Left Foot,Open Play,1,1,1,Half Volley
-12.756566936288152,0.05944462742508917,False,Right Foot,Open Play,1,1,3,Normal
-16.32727778902533,0.05871842858516322,True,Left Foot,Open Play,0,1,2,Half Volley
-8.367795408588808,0.057295218619205356,False,Left Foot,Open Play,1,1,2,Normal
-18.075397644312012,0.058334438254577764,True,Left Foot,Open Play,1,0,2,Half Volley
-8.102468759581864,0.058494220878410594,False,Head,Open Play,0,1,2,Normal
-28.59545418418809,0.06291729685597183,False,Left Foot,Free Kick,0,0,0,Normal
-22.13255520720551,0.06460827385968085,False,Right Foot,Open Play,1,0,1,Normal
-23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,0,1,2,Normal
-32.48953677724568,0.06291173984102638,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911481,Iris Arnaiz Gil,Real Sociedad de Fútbol,26.890146894355187,0.06743326947562202,False,Right Foot,Open Play,0,0,2,Normal
+3911481,Laura Pérez Martín,Granada W,25.82130902955929,0.0645106187476739,False,Right Foot,Open Play,0,0,1,Normal
+3911481,Naima García Aguilar,Granada W,19.030764566879604,0.053258713517559016,False,Left Foot,Open Play,0,0,2,Normal
+3911481,Iris Arnaiz Gil,Real Sociedad de Fútbol,21.902054698132773,0.06590695631359497,False,Right Foot,Open Play,1,0,0,Half Volley
+3911481,Manuela Vanegas Cataño,Real Sociedad de Fútbol,20.5,0.06332162460131212,False,Left Foot,Open Play,0,0,2,Normal
+3911481,Itziar Gastearena Artola,Granada W,14.92816130673835,0.06227546032619488,False,Right Foot,Open Play,1,1,2,Normal
+3911481,Laura Requena Sánchez,Granada W,38.96832046675864,0.06677947948221515,False,Right Foot,Open Play,0,0,2,Normal
+3911481,Naima García Aguilar,Granada W,38.637417097937586,0.07122592369396871,False,Left Foot,Open Play,0,1,1,Normal
+3911481,Laura Pérez Martín,Granada W,16.031219541881395,0.06224785704444901,False,Right Foot,Open Play,0,1,1,Normal
+3911481,Andrea Gómez Oliver,Granada W,12.280065146407003,0.05436762988293441,False,Left Foot,Open Play,1,1,3,Normal
+3911481,Laura Pérez Martín,Granada W,24.65643932119964,0.06765654363662497,False,Right Foot,Open Play,0,0,3,Normal
+3911481,Cecilia Marcos Nabal,Real Sociedad de Fútbol,24.506733768497174,0.05363505760689211,False,Left Foot,Open Play,0,0,2,Normal
+3911481,Lorena Navarro Domínguez,Real Sociedad de Fútbol,22.2056299167576,0.06387969007811016,False,Left Foot,Open Play,0,1,1,Half Volley
+3911481,Nerea Eizaguirre Lasa,Real Sociedad de Fútbol,20.806249061279647,0.06605363962677142,False,Right Foot,Open Play,0,0,3,Normal
+3911481,Sanni Maija Franssi,Real Sociedad de Fútbol,24.597967395701616,0.055694660248568936,False,Right Foot,Open Play,0,1,2,Normal
+3911481,Nerea Eizaguirre Lasa,Real Sociedad de Fútbol,16.21634977422478,0.06317506365223474,False,Right Foot,Open Play,1,0,3,Normal
+3911481,Alejandra Bernabe De Santiago,Real Sociedad de Fútbol,28.398943642325854,0.07139015650408469,False,Left Foot,Open Play,1,1,1,Half Volley
+3911481,Ornella María Vignola Cabot,Granada W,12.756566936288152,0.05944462742508917,False,Right Foot,Open Play,1,1,3,Normal
+3911481,Carlota Suárez Crespo,Granada W,16.32727778902533,0.05871842858516322,True,Left Foot,Open Play,0,1,2,Half Volley
+3911481,Jacqueline Owusu,Real Sociedad de Fútbol,8.367795408588808,0.057295218619205356,False,Left Foot,Open Play,1,1,2,Normal
+3911481,Synne Jensen,Real Sociedad de Fútbol,18.075397644312012,0.058334438254577764,True,Left Foot,Open Play,1,0,2,Half Volley
+3911481,Laura Requena Sánchez,Granada W,8.102468759581864,0.058494220878410594,False,Head,Open Play,0,1,2,Normal
+3911481,Manuela Vanegas Cataño,Real Sociedad de Fútbol,28.59545418418809,0.06291729685597183,False,Left Foot,Free Kick,0,0,0,Normal
+3911481,Laura Requena Sánchez,Granada W,22.13255520720551,0.06460827385968085,False,Right Foot,Open Play,1,0,1,Normal
+3911481,Ornella María Vignola Cabot,Granada W,23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,0,1,2,Normal
+3911481,Alba Pérez Manrique,Granada W,32.48953677724568,0.06291173984102638,False,Right Foot,Open Play,1,0,0,Normal

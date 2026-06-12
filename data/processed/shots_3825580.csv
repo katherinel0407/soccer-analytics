@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.5299310869258,0.05799766054470635,False,Head,Open Play,0,1,2,Normal
-27.43574311003805,0.06733513203455692,True,Right Foot,Open Play,0,0,2,Normal
-31.445349417680198,0.059586578430703266,False,Left Foot,Open Play,0,0,0,Normal
-7.864477096412711,0.055444629641077645,False,Right Foot,Open Play,0,0,2,Normal
-17.0,0.06377392421668256,False,Right Foot,Open Play,0,1,3,Normal
-12.397580409095958,0.05958969295851909,False,Left Foot,Open Play,0,0,1,Half Volley
-37.8609297297359,0.05380967983306942,False,Left Foot,Open Play,0,0,1,Normal
-9.080198235721506,0.05587512786557783,False,Head,Open Play,0,1,1,Normal
-12.242957159118054,0.05958777056421877,False,Right Foot,Open Play,1,0,1,Volley
-2.0,0.054334524705518625,True,Head,Open Play,0,0,2,Normal
-27.183082974526645,0.05672330130621586,False,Left Foot,Open Play,0,0,0,Normal
-27.200735284179363,0.06640542849796283,False,Left Foot,Open Play,0,0,1,Half Volley
-31.580056998048622,0.0728277446626629,False,Right Foot,Open Play,0,0,1,Normal
-29.6096268129134,0.060194766804164745,False,Right Foot,Open Play,0,0,0,Half Volley
-24.00749882849107,0.0652463838908258,False,Right Foot,Open Play,1,0,2,Normal
-7.178439941937241,0.05673250087176407,False,Head,Open Play,0,0,2,Normal
-7.343704787094859,0.05709938525972884,False,Head,Open Play,0,0,2,Normal
-25.46723385057749,0.06932761240837534,False,Left Foot,Open Play,1,0,1,Half Volley
-7.2917761896536595,0.05536648669822029,False,Head,Open Play,0,0,6,Normal
-27.011479041326112,0.05401591568672168,False,Right Foot,Open Play,1,0,0,Half Volley
-27.014810752622356,0.06090093793360532,False,Right Foot,Open Play,0,1,1,Normal
-21.200235847744707,0.06634584151710275,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825580,Fernando Llorente Torres,Sevilla,6.5299310869258,0.05799766054470635,False,Head,Open Play,0,1,2,Normal
+3825580,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,27.43574311003805,0.06733513203455692,True,Right Foot,Open Play,0,0,2,Normal
+3825580,José María Martín-Bejarano Serrano,Levante UD,31.445349417680198,0.059586578430703266,False,Left Foot,Open Play,0,0,0,Normal
+3825580,Víctor Machín Pérez,Sevilla,7.864477096412711,0.055444629641077645,False,Right Foot,Open Play,0,0,2,Normal
+3825580,Nabil Ghilas,Levante UD,17.0,0.06377392421668256,False,Right Foot,Open Play,0,1,3,Normal
+3825580,Nabil Ghilas,Levante UD,12.397580409095958,0.05958969295851909,False,Left Foot,Open Play,0,0,1,Half Volley
+3825580,Deyverson Brum Silva Acosta,Levante UD,37.8609297297359,0.05380967983306942,False,Left Foot,Open Play,0,0,1,Normal
+3825580,Deyverson Brum Silva Acosta,Levante UD,9.080198235721506,0.05587512786557783,False,Head,Open Play,0,1,1,Normal
+3825580,José Antonio García Rabasco,Levante UD,12.242957159118054,0.05958777056421877,False,Right Foot,Open Play,1,0,1,Volley
+3825580,Víctor Camarasa Ferrando,Levante UD,2.0,0.054334524705518625,True,Head,Open Play,0,0,2,Normal
+3825580,José Luis Morales Nogales,Levante UD,27.183082974526645,0.05672330130621586,False,Left Foot,Open Play,0,0,0,Normal
+3825580,José María Martín-Bejarano Serrano,Levante UD,27.200735284179363,0.06640542849796283,False,Left Foot,Open Play,0,0,1,Half Volley
+3825580,José María Martín-Bejarano Serrano,Levante UD,31.580056998048622,0.0728277446626629,False,Right Foot,Open Play,0,0,1,Normal
+3825580,Iván López Mendoza,Levante UD,29.6096268129134,0.060194766804164745,False,Right Foot,Open Play,0,0,0,Half Volley
+3825580,Nabil Ghilas,Levante UD,24.00749882849107,0.0652463838908258,False,Right Foot,Open Play,1,0,2,Normal
+3825580,Ciro Immobile,Sevilla,7.178439941937241,0.05673250087176407,False,Head,Open Play,0,0,2,Normal
+3825580,Ciro Immobile,Sevilla,7.343704787094859,0.05709938525972884,False,Head,Open Play,0,0,2,Normal
+3825580,Antonio García Aranda,Levante UD,25.46723385057749,0.06932761240837534,False,Left Foot,Open Play,1,0,1,Half Volley
+3825580,Jorge Andújar Moreno,Sevilla,7.2917761896536595,0.05536648669822029,False,Head,Open Play,0,0,6,Normal
+3825580,Jorge Andújar Moreno,Sevilla,27.011479041326112,0.05401591568672168,False,Right Foot,Open Play,1,0,0,Half Volley
+3825580,Ángel Trujillo Canorea,Levante UD,27.014810752622356,0.06090093793360532,False,Right Foot,Open Play,0,1,1,Normal
+3825580,Ciro Immobile,Sevilla,21.200235847744707,0.06634584151710275,False,Right Foot,Open Play,0,0,1,Normal

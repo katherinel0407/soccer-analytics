@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.315445524372898,0.0601990470401561,False,Right Foot,Open Play,0,0,1,Half Volley
-9.170605214488297,0.059323174928938384,False,Left Foot,Open Play,1,1,2,Normal
-11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
-9.360021367496978,0.05949049095293825,False,Left Foot,Open Play,1,0,2,Half Volley
-35.016853085335924,0.06732177186268778,False,Right Foot,Open Play,0,0,0,Normal
-21.35064401838971,0.06042795966689223,False,Left Foot,Open Play,0,0,3,Normal
-15.70795976567294,0.05247765823438976,False,Right Foot,Open Play,1,0,1,Half Volley
-12.477980605851249,0.057145306268520255,False,Right Foot,Open Play,1,1,2,Normal
-16.79077127472112,0.053149606747440126,True,Right Foot,Open Play,0,1,1,Normal
-21.22686976452251,0.06642295635188701,False,Right Foot,Open Play,0,1,3,Normal
-28.809199919470174,0.071017137993396,False,Right Foot,Open Play,0,0,4,Half Volley
-13.46291201783626,0.053632824103810685,True,Right Foot,Open Play,1,0,1,Volley
-8.402380615040009,0.05818026142011562,False,Left Foot,Open Play,1,0,2,Half Volley
-41.808372367266344,0.06080948874003255,False,Left Foot,Open Play,0,0,0,Lob
-30.57384503133356,0.050956015806723584,False,Right Foot,Open Play,1,1,1,Half Volley
-16.783920876839236,0.052230558578485055,False,Right Foot,Open Play,1,0,2,Lob
-16.637307474468344,0.06257429150887026,False,Right Foot,Open Play,1,1,1,Normal
-7.783315488916017,0.05366961971383008,False,Head,Open Play,0,1,2,Normal
-13.251792331605557,0.060781699684756066,False,Left Foot,Open Play,0,0,1,Normal
-22.556817151362463,0.0608042356278558,False,Left Foot,Open Play,0,0,1,Normal
-21.385976713725288,0.06643572824920568,False,Left Foot,Open Play,0,0,2,Half Volley
-10.860018416190648,0.054459896239560684,False,Head,Open Play,0,0,2,Normal
-26.6580194313081,0.05667287863061467,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911502,Natalia Ramos Álvarez,Costa Adeje Tenerife,23.315445524372898,0.0601990470401561,False,Right Foot,Open Play,0,0,1,Half Volley
+3911502,Ange N'Guessan,Costa Adeje Tenerife,9.170605214488297,0.059323174928938384,False,Left Foot,Open Play,1,1,2,Normal
+3911502,Fatoumata Kanteh Cham,Villarreal,11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
+3911502,Jassina Blom,Costa Adeje Tenerife,9.360021367496978,0.05949049095293825,False,Left Foot,Open Play,1,0,2,Half Volley
+3911502,Paola Hernández Díaz,Costa Adeje Tenerife,35.016853085335924,0.06732177186268778,False,Right Foot,Open Play,0,0,0,Normal
+3911502,Ange N'Guessan,Costa Adeje Tenerife,21.35064401838971,0.06042795966689223,False,Left Foot,Open Play,0,0,3,Normal
+3911502,Fatoumata Kanteh Cham,Villarreal,15.70795976567294,0.05247765823438976,False,Right Foot,Open Play,1,0,1,Half Volley
+3911502,María Llompart Pons,Villarreal,12.477980605851249,0.057145306268520255,False,Right Foot,Open Play,1,1,2,Normal
+3911502,Fatoumata Kanteh Cham,Villarreal,16.79077127472112,0.053149606747440126,True,Right Foot,Open Play,0,1,1,Normal
+3911502,Rinsola Omowunmiajike Babajide,Costa Adeje Tenerife,21.22686976452251,0.06642295635188701,False,Right Foot,Open Play,0,1,3,Normal
+3911502,Beatriz Beltrán Sanz,Costa Adeje Tenerife,28.809199919470174,0.071017137993396,False,Right Foot,Open Play,0,0,4,Half Volley
+3911502,Claudia Roldán Blanco,Costa Adeje Tenerife,13.46291201783626,0.053632824103810685,True,Right Foot,Open Play,1,0,1,Volley
+3911502,Kayla McCoy,Villarreal,8.402380615040009,0.05818026142011562,False,Left Foot,Open Play,1,0,2,Half Volley
+3911502,Rinsola Omowunmiajike Babajide,Costa Adeje Tenerife,41.808372367266344,0.06080948874003255,False,Left Foot,Open Play,0,0,0,Lob
+3911502,Fatoumata Kanteh Cham,Villarreal,30.57384503133356,0.050956015806723584,False,Right Foot,Open Play,1,1,1,Half Volley
+3911502,Claudia Roldán Blanco,Costa Adeje Tenerife,16.783920876839236,0.052230558578485055,False,Right Foot,Open Play,1,0,2,Lob
+3911502,Claudia Iglesias de la Cruz,Villarreal,16.637307474468344,0.06257429150887026,False,Right Foot,Open Play,1,1,1,Normal
+3911502,Paola Soldevila de la Pisa,Villarreal,7.783315488916017,0.05366961971383008,False,Head,Open Play,0,1,2,Normal
+3911502,Beatriz Beltrán Sanz,Costa Adeje Tenerife,13.251792331605557,0.060781699684756066,False,Left Foot,Open Play,0,0,1,Normal
+3911502,Jassina Blom,Costa Adeje Tenerife,22.556817151362463,0.0608042356278558,False,Left Foot,Open Play,0,0,1,Normal
+3911502,Beatriz Beltrán Sanz,Costa Adeje Tenerife,21.385976713725288,0.06643572824920568,False,Left Foot,Open Play,0,0,2,Half Volley
+3911502,Agustina Barroso Basualdo,Costa Adeje Tenerife,10.860018416190648,0.054459896239560684,False,Head,Open Play,0,0,2,Normal
+3911502,Gift Nyakno Monday,Costa Adeje Tenerife,26.6580194313081,0.05667287863061467,False,Left Foot,Open Play,0,0,2,Normal

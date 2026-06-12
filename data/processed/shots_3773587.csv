@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.003570973148245,0.055009050268510815,False,Right Foot,Open Play,1,1,2,Half Volley
-19.72257589667232,0.0654124251615815,False,Left Foot,Open Play,1,0,2,Normal
-23.009780529157588,0.06763144107924489,False,Right Foot,Open Play,0,1,2,Normal
-15.340469353966975,0.06274186035688656,False,Left Foot,Open Play,1,0,2,Normal
-15.672268502038884,0.0565513722130936,False,Right Foot,Open Play,0,0,1,Normal
-21.467417171145666,0.06656436338964611,False,Right Foot,Open Play,0,0,1,Normal
-25.80174412709342,0.06567439811050108,False,Left Foot,Free Kick,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-8.904493247793496,0.0592524350093677,False,Head,Open Play,0,0,3,Normal
-28.287983314474722,0.07084429006240558,False,Right Foot,Open Play,0,0,2,Normal
-18.926436537288264,0.063013379758366,False,Left Foot,Open Play,0,0,3,Normal
-15.420765220960991,0.06268499596706488,False,Left Foot,Open Play,0,1,1,Normal
-18.33712082089225,0.058199867030156616,False,Right Foot,Open Play,0,0,1,Normal
-14.44991349455076,0.061061959284107896,False,Left Foot,Open Play,0,0,6,Normal
-19.068822721919677,0.06498343672285382,False,Right Foot,Open Play,0,0,4,Normal
-31.515869018638856,0.06474253499651399,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773587,Nemanja Maksimović,Getafe,14.003570973148245,0.055009050268510815,False,Right Foot,Open Play,1,1,2,Half Volley
+3773587,Lionel Andrés Messi Cuccittini,Barcelona,19.72257589667232,0.0654124251615815,False,Left Foot,Open Play,1,0,2,Normal
+3773587,Marc Cucurella Saseta,Getafe,23.009780529157588,0.06763144107924489,False,Right Foot,Open Play,0,1,2,Normal
+3773587,Mathías Olivera Miramontes,Getafe,15.340469353966975,0.06274186035688656,False,Left Foot,Open Play,1,0,2,Normal
+3773587,Antoine Griezmann,Barcelona,15.672268502038884,0.0565513722130936,False,Right Foot,Open Play,0,0,1,Normal
+3773587,Jaime Mata Arnaiz,Getafe,21.467417171145666,0.06656436338964611,False,Right Foot,Open Play,0,0,1,Normal
+3773587,Lionel Andrés Messi Cuccittini,Barcelona,25.80174412709342,0.06567439811050108,False,Left Foot,Free Kick,0,0,0,Normal
+3773587,Jaime Mata Arnaiz,Getafe,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3773587,Gerard Piqué Bernabéu,Barcelona,8.904493247793496,0.0592524350093677,False,Head,Open Play,0,0,3,Normal
+3773587,Anssumane Fati,Barcelona,28.287983314474722,0.07084429006240558,False,Right Foot,Open Play,0,0,2,Normal
+3773587,Marc Cucurella Saseta,Getafe,18.926436537288264,0.063013379758366,False,Left Foot,Open Play,0,0,3,Normal
+3773587,Juan Camilo Hernández Suárez,Getafe,15.420765220960991,0.06268499596706488,False,Left Foot,Open Play,0,1,1,Normal
+3773587,Juan Camilo Hernández Suárez,Getafe,18.33712082089225,0.058199867030156616,False,Right Foot,Open Play,0,0,1,Normal
+3773587,Lionel Andrés Messi Cuccittini,Barcelona,14.44991349455076,0.061061959284107896,False,Left Foot,Open Play,0,0,6,Normal
+3773587,Philippe Coutinho Correia,Barcelona,19.068822721919677,0.06498343672285382,False,Right Foot,Open Play,0,0,4,Normal
+3773587,David Timor Copoví,Getafe,31.515869018638856,0.06474253499651399,False,Left Foot,Free Kick,0,0,0,Normal

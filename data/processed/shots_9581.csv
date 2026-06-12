@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.819052415485771,0.060732661031734296,False,Head,Open Play,0,0,1,Normal
-24.800201612083725,0.06874657727605174,False,Right Foot,Open Play,0,0,1,Normal
-21.372178176311365,0.06508518134738062,False,Right Foot,Open Play,1,1,3,Normal
-22.524875138388676,0.0670300719643689,False,Left Foot,Open Play,0,0,3,Normal
-20.456050449683584,0.06531549539189822,False,Left Foot,Open Play,0,1,1,Normal
-24.351591323771842,0.06098942981728281,False,Left Foot,Open Play,1,0,2,Normal
-15.48709139896837,0.06291021737353839,False,Left Foot,Open Play,1,0,1,Normal
-14.866068747318506,0.06169699243869903,False,Right Foot,Open Play,0,0,2,Normal
-25.444842306447878,0.06891450839479982,False,Right Foot,Free Kick,0,0,0,Normal
-26.084861510078987,0.06740828645572475,False,Left Foot,Open Play,0,0,1,Half Volley
-26.22308143601739,0.06956356001630778,False,Left Foot,Open Play,1,0,1,Volley
-14.534441853748636,0.06149978721522904,False,Left Foot,Open Play,0,0,3,Normal
-11.638728452885225,0.05569774248335686,False,Left Foot,Open Play,0,1,3,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-19.066462702871764,0.06505945941343937,False,Left Foot,Open Play,1,0,0,Volley
-18.9274932307477,0.0542181469421532,False,Right Foot,Open Play,1,0,1,Half Volley
-25.32390175308694,0.06503500821804309,False,Left Foot,Open Play,0,0,1,Normal
-31.33592187889164,0.06769580346059878,False,Left Foot,Free Kick,0,0,0,Normal
-15.512897859523216,0.0625198083138242,True,Left Foot,Open Play,0,1,5,Normal
-14.425671561490644,0.062057108779614595,False,Left Foot,Open Play,1,0,1,Half Volley
-20.41372087592069,0.06517654759408292,False,Right Foot,Open Play,0,0,1,Normal
-12.671621837791715,0.06117231391450114,True,Left Foot,Open Play,1,1,2,Half Volley
-35.93883693165375,0.0529374652338885,False,Left Foot,Open Play,0,0,1,Normal
-34.85182922028627,0.0654511845386774,False,Left Foot,Free Kick,0,0,0,Normal
-12.379418403139946,0.06021869009793095,False,Left Foot,Open Play,0,0,3,Normal
-17.45623097922344,0.061345363144351336,False,Left Foot,Open Play,0,0,4,Normal
-17.129214809792064,0.06219045792995126,False,Left Foot,Open Play,0,0,2,Normal
-22.498444390668432,0.06719407934471228,False,Left Foot,Open Play,1,0,1,Volley
-10.845275469069465,0.05634492076463707,False,Head,Open Play,0,1,2,Normal
-21.064187617850344,0.060310717794258124,False,Right Foot,Open Play,0,0,2,Normal
-16.629191201017566,0.06339234006404781,False,Left Foot,Open Play,1,0,1,Volley
-23.810291892372923,0.06452893830354071,False,Left Foot,Open Play,0,0,2,Normal
-21.054453210663056,0.05288793002222941,False,Right Foot,Open Play,0,0,1,Normal
-8.99611027055583,0.05921810530358952,False,Right Foot,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9581,Gerard Deulofeu Lázaro,Barcelona,11.819052415485771,0.060732661031734296,False,Head,Open Play,0,0,1,Normal
+9581,Gerard Deulofeu Lázaro,Barcelona,24.800201612083725,0.06874657727605174,False,Right Foot,Open Play,0,0,1,Normal
+9581,Ivan Rakitić,Barcelona,21.372178176311365,0.06508518134738062,False,Right Foot,Open Play,1,1,3,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,22.524875138388676,0.0670300719643689,False,Left Foot,Open Play,0,0,3,Normal
+9581,Alfonso Pedraza Sag,Deportivo Alavés,20.456050449683584,0.06531549539189822,False,Left Foot,Open Play,0,1,1,Normal
+9581,Andrés Iniesta Luján,Barcelona,24.351591323771842,0.06098942981728281,False,Left Foot,Open Play,1,0,2,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,15.48709139896837,0.06291021737353839,False,Left Foot,Open Play,1,0,1,Normal
+9581,Rubén Sobrino Pozuelo,Deportivo Alavés,14.866068747318506,0.06169699243869903,False,Right Foot,Open Play,0,0,2,Normal
+9581,Ibai Gómez Pérez,Deportivo Alavés,25.444842306447878,0.06891450839479982,False,Right Foot,Free Kick,0,0,0,Normal
+9581,Óscar David Romero Villamayor,Deportivo Alavés,26.084861510078987,0.06740828645572475,False,Left Foot,Open Play,0,0,1,Half Volley
+9581,Ibai Gómez Pérez,Deportivo Alavés,26.22308143601739,0.06956356001630778,False,Left Foot,Open Play,1,0,1,Volley
+9581,Gerard Deulofeu Lázaro,Barcelona,14.534441853748636,0.06149978721522904,False,Left Foot,Open Play,0,0,3,Normal
+9581,Gerard Piqué Bernabéu,Barcelona,11.638728452885225,0.05569774248335686,False,Left Foot,Open Play,0,1,3,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,19.066462702871764,0.06505945941343937,False,Left Foot,Open Play,1,0,0,Volley
+9581,Gerard Deulofeu Lázaro,Barcelona,18.9274932307477,0.0542181469421532,False,Right Foot,Open Play,1,0,1,Half Volley
+9581,Lionel Andrés Messi Cuccittini,Barcelona,25.32390175308694,0.06503500821804309,False,Left Foot,Open Play,0,0,1,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,31.33592187889164,0.06769580346059878,False,Left Foot,Free Kick,0,0,0,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,15.512897859523216,0.0625198083138242,True,Left Foot,Open Play,0,1,5,Normal
+9581,Jordi Alba Ramos,Barcelona,14.425671561490644,0.062057108779614595,False,Left Foot,Open Play,1,0,1,Half Volley
+9581,Ibai Gómez Pérez,Deportivo Alavés,20.41372087592069,0.06517654759408292,False,Right Foot,Open Play,0,0,1,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,12.671621837791715,0.06117231391450114,True,Left Foot,Open Play,1,1,2,Half Volley
+9581,Óscar David Romero Villamayor,Deportivo Alavés,35.93883693165375,0.0529374652338885,False,Left Foot,Open Play,0,0,1,Normal
+9581,Óscar David Romero Villamayor,Deportivo Alavés,34.85182922028627,0.0654511845386774,False,Left Foot,Free Kick,0,0,0,Normal
+9581,Jorge Franco Alviz,Deportivo Alavés,12.379418403139946,0.06021869009793095,False,Left Foot,Open Play,0,0,3,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,17.45623097922344,0.061345363144351336,False,Left Foot,Open Play,0,0,4,Normal
+9581,Lionel Andrés Messi Cuccittini,Barcelona,17.129214809792064,0.06219045792995126,False,Left Foot,Open Play,0,0,2,Normal
+9581,Manuel Alejandro García Sánchez,Deportivo Alavés,22.498444390668432,0.06719407934471228,False,Left Foot,Open Play,1,0,1,Volley
+9581,Óscar David Romero Villamayor,Deportivo Alavés,10.845275469069465,0.05634492076463707,False,Head,Open Play,0,1,2,Normal
+9581,Denis Suárez Fernández,Barcelona,21.064187617850344,0.060310717794258124,False,Right Foot,Open Play,0,0,2,Normal
+9581,Francisco Alcácer García,Barcelona,16.629191201017566,0.06339234006404781,False,Left Foot,Open Play,1,0,1,Volley
+9581,Ivan Rakitić,Barcelona,23.810291892372923,0.06452893830354071,False,Left Foot,Open Play,0,0,2,Normal
+9581,Denis Suárez Fernández,Barcelona,21.054453210663056,0.05288793002222941,False,Right Foot,Open Play,0,0,1,Normal
+9581,Gerard Piqué Bernabéu,Barcelona,8.99611027055583,0.05921810530358952,False,Right Foot,Open Play,0,1,5,Normal

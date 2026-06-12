@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.77544488638522,0.06679274395070528,False,Right Foot,Open Play,0,0,1,Normal
-23.051681066681443,0.054517086533328284,False,Right Foot,Open Play,0,0,1,Normal
-5.456189146281501,0.05598925391004692,True,Head,Open Play,0,0,4,Normal
-21.933763926877667,0.05976756563431411,False,Left Foot,Open Play,0,1,4,Normal
-22.051077071199945,0.057121531504388354,False,Left Foot,Open Play,0,0,1,Normal
-22.55681715136247,0.0653105468305417,False,Right Foot,Open Play,0,0,2,Normal
-33.17303121513015,0.07081971001039186,False,Left Foot,Open Play,0,0,1,Normal
-31.605695689226643,0.0683716289387654,False,Left Foot,Free Kick,0,0,0,Normal
-32.389195729440395,0.061798877215193636,False,Right Foot,Open Play,0,0,0,Half Volley
-25.02338905903835,0.06863956297649076,False,Right Foot,Free Kick,0,0,0,Normal
-11.650321883965262,0.06073056946267373,False,Left Foot,Open Play,0,1,3,Normal
-10.860018416190647,0.05992148787586533,False,Head,Open Play,0,0,0,Lob
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-25.51568145278507,0.06490776489986096,False,Left Foot,Open Play,1,1,1,Half Volley
-28.46137733842127,0.055831803910759085,False,Left Foot,Open Play,0,0,1,Normal
-13.756816492197599,0.06155705219979269,False,Head,Open Play,0,0,2,Diving Header
-15.701273833673499,0.0578985582460516,False,Right Foot,Open Play,0,1,3,Normal
-9.36215787091843,0.056937796782481155,False,Head,Open Play,0,1,2,Normal
-15.44020725249503,0.06286214083884704,False,Right Foot,Open Play,1,0,1,Overhead Kick
-25.200992043965257,0.06279952184014838,False,Right Foot,Open Play,0,0,0,Normal
-24.68947144027186,0.06625752991370604,False,Right Foot,Open Play,0,0,1,Lob
-18.117670931993437,0.0520502619262865,False,Right Foot,Open Play,0,1,1,Normal
-24.328789530101982,0.055379266216230565,False,Right Foot,Open Play,0,1,3,Half Volley
-8.104936767180853,0.05837548809681434,True,Right Foot,Open Play,1,0,1,Volley
-24.62884487750085,0.06726162246922064,False,Left Foot,Open Play,0,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754004,Benik Afobe,AFC Bournemouth,21.77544488638522,0.06679274395070528,False,Right Foot,Open Play,0,0,1,Normal
+3754004,Junior Stanislas,AFC Bournemouth,23.051681066681443,0.054517086533328284,False,Right Foot,Open Play,0,0,1,Normal
+3754004,Dan Gosling,AFC Bournemouth,5.456189146281501,0.05598925391004692,True,Head,Open Play,0,0,4,Normal
+3754004,Wes Hoolahan,Norwich City,21.933763926877667,0.05976756563431411,False,Left Foot,Open Play,0,1,4,Normal
+3754004,Dan Gosling,AFC Bournemouth,22.051077071199945,0.057121531504388354,False,Left Foot,Open Play,0,0,1,Normal
+3754004,Matt Jarvis,Norwich City,22.55681715136247,0.0653105468305417,False,Right Foot,Open Play,0,0,2,Normal
+3754004,Harry Arter,AFC Bournemouth,33.17303121513015,0.07081971001039186,False,Left Foot,Open Play,0,0,1,Normal
+3754004,Robert Brady,Norwich City,31.605695689226643,0.0683716289387654,False,Left Foot,Free Kick,0,0,0,Normal
+3754004,Alexander Banor Tettey,Norwich City,32.389195729440395,0.061798877215193636,False,Right Foot,Open Play,0,0,0,Half Volley
+3754004,Junior Stanislas,AFC Bournemouth,25.02338905903835,0.06863956297649076,False,Right Foot,Free Kick,0,0,0,Normal
+3754004,Marc Pugh,AFC Bournemouth,11.650321883965262,0.06073056946267373,False,Left Foot,Open Play,0,1,3,Normal
+3754004,Marc Pugh,AFC Bournemouth,10.860018416190647,0.05992148787586533,False,Head,Open Play,0,0,0,Lob
+3754004,Charlie Daniels,AFC Bournemouth,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3754004,Harry Arter,AFC Bournemouth,25.51568145278507,0.06490776489986096,False,Left Foot,Open Play,1,1,1,Half Volley
+3754004,Junior Stanislas,AFC Bournemouth,28.46137733842127,0.055831803910759085,False,Left Foot,Open Play,0,0,1,Normal
+3754004,Wes Hoolahan,Norwich City,13.756816492197599,0.06155705219979269,False,Head,Open Play,0,0,2,Diving Header
+3754004,Cameron Jerome,Norwich City,15.701273833673499,0.0578985582460516,False,Right Foot,Open Play,0,1,3,Normal
+3754004,Steve Cook,AFC Bournemouth,9.36215787091843,0.056937796782481155,False,Head,Open Play,0,1,2,Normal
+3754004,Benik Afobe,AFC Bournemouth,15.44020725249503,0.06286214083884704,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3754004,Dan Gosling,AFC Bournemouth,25.200992043965257,0.06279952184014838,False,Right Foot,Open Play,0,0,0,Normal
+3754004,Dieumerci Mbokani Bezua,Norwich City,24.68947144027186,0.06625752991370604,False,Right Foot,Open Play,0,0,1,Lob
+3754004,Dieumerci Mbokani Bezua,Norwich City,18.117670931993437,0.0520502619262865,False,Right Foot,Open Play,0,1,1,Normal
+3754004,Russell Martin,Norwich City,24.328789530101982,0.055379266216230565,False,Right Foot,Open Play,0,1,3,Half Volley
+3754004,Benik Afobe,AFC Bournemouth,8.104936767180853,0.05837548809681434,True,Right Foot,Open Play,1,0,1,Volley
+3754004,Robert Brady,Norwich City,24.62884487750085,0.06726162246922064,False,Left Foot,Open Play,0,0,0,Half Volley

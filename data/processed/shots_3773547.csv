@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.515989773086261,0.05770603246946213,False,Right Foot,Open Play,1,0,0,Normal
-31.50015872975881,0.06861275081030696,False,Left Foot,Free Kick,0,0,0,Normal
-15.839823231336892,0.06283581122935711,False,Left Foot,Open Play,0,0,3,Normal
-29.349105608178245,0.07119054344076306,False,Left Foot,Open Play,0,0,1,Volley
-14.991330828181999,0.06236688899320928,False,Left Foot,Open Play,1,0,2,Half Volley
-8.600581375697804,0.05816158907623584,False,Left Foot,Open Play,1,0,2,Volley
-26.593984282164268,0.07013926057058782,False,Right Foot,Open Play,0,0,1,Normal
-15.51676512679109,0.06177193216475358,False,Right Foot,Open Play,1,0,1,Normal
-18.955210365490544,0.06378262479944607,False,Right Foot,Open Play,1,0,1,Normal
-6.657326790837291,0.05809224093015776,False,Right Foot,Open Play,1,0,3,Normal
-4.68721665810318,0.05688941692619594,False,Right Foot,Open Play,1,0,3,Normal
-3.5440090293338753,0.056452086235961214,True,Other,Open Play,1,0,3,Normal
-21.86343980255623,0.06649828532720027,True,Left Foot,Open Play,1,0,0,Volley
-40.197636746455636,0.07979069377041613,False,Right Foot,Open Play,0,0,0,Normal
-67.40363491682032,0.050806850325706206,False,Right Foot,Open Play,1,0,1,Volley
-25.961509971494333,0.06949810298572372,False,Right Foot,Open Play,0,1,1,Normal
-31.34405844813336,0.07352664203832382,False,Left Foot,Open Play,0,0,1,Normal
-32.337284981890484,0.07451473749803907,False,Right Foot,Open Play,0,0,2,Normal
-5.3160135440008,0.05634667938760199,False,Head,Open Play,0,0,6,Normal
-27.67236889028476,0.06774761354108325,False,Left Foot,Free Kick,0,0,0,Normal
-5.787054518492114,0.05751649741030208,True,Right Foot,Open Play,1,0,4,Volley
-9.459386872308379,0.05768664681970369,False,Head,Open Play,0,1,2,Normal
-13.0080744155313,0.058465786993921826,False,Right Foot,Open Play,0,0,1,Normal
-14.503103116229989,0.06053839709849767,False,Left Foot,Open Play,0,0,4,Normal
-20.145719148245867,0.06522483326433326,True,Left Foot,Open Play,0,0,2,Normal
-10.307764064044152,0.053964643665071095,False,Right Foot,Open Play,0,0,1,Normal
-26.73013280924732,0.058159057311338,False,Left Foot,Open Play,0,0,1,Normal
-17.81937148162078,0.06294687350608999,False,Right Foot,Open Play,0,0,2,Normal
-13.018832512940625,0.053063889192881436,False,Left Foot,Open Play,0,0,1,Normal
-22.280035906613797,0.06702576596692612,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773547,Philippe Coutinho Correia,Barcelona,12.515989773086261,0.05770603246946213,False,Right Foot,Open Play,1,0,0,Normal
+3773547,Lionel Andrés Messi Cuccittini,Barcelona,31.50015872975881,0.06861275081030696,False,Left Foot,Free Kick,0,0,0,Normal
+3773547,Lionel Andrés Messi Cuccittini,Barcelona,15.839823231336892,0.06283581122935711,False,Left Foot,Open Play,0,0,3,Normal
+3773547,Antoine Griezmann,Barcelona,29.349105608178245,0.07119054344076306,False,Left Foot,Open Play,0,0,1,Volley
+3773547,Antoine Griezmann,Barcelona,14.991330828181999,0.06236688899320928,False,Left Foot,Open Play,1,0,2,Half Volley
+3773547,Ante Budimir,Osasuna,8.600581375697804,0.05816158907623584,False,Left Foot,Open Play,1,0,2,Volley
+3773547,Philippe Coutinho Correia,Barcelona,26.593984282164268,0.07013926057058782,False,Right Foot,Open Play,0,0,1,Normal
+3773547,Antoine Griezmann,Barcelona,15.51676512679109,0.06177193216475358,False,Right Foot,Open Play,1,0,1,Normal
+3773547,Philippe Coutinho Correia,Barcelona,18.955210365490544,0.06378262479944607,False,Right Foot,Open Play,1,0,1,Normal
+3773547,Philippe Coutinho Correia,Barcelona,6.657326790837291,0.05809224093015776,False,Right Foot,Open Play,1,0,3,Normal
+3773547,Martin Braithwaite Christensen,Barcelona,4.68721665810318,0.05688941692619594,False,Right Foot,Open Play,1,0,3,Normal
+3773547,Martin Braithwaite Christensen,Barcelona,3.5440090293338753,0.056452086235961214,True,Other,Open Play,1,0,3,Normal
+3773547,Antoine Griezmann,Barcelona,21.86343980255623,0.06649828532720027,True,Left Foot,Open Play,1,0,0,Volley
+3773547,Philippe Coutinho Correia,Barcelona,40.197636746455636,0.07979069377041613,False,Right Foot,Open Play,0,0,0,Normal
+3773547,Jon Moncayola Tollar,Osasuna,67.40363491682032,0.050806850325706206,False,Right Foot,Open Play,1,0,1,Volley
+3773547,Facundo Sebastián Roncaglia,Osasuna,25.961509971494333,0.06949810298572372,False,Right Foot,Open Play,0,1,1,Normal
+3773547,Rubén García Santos,Osasuna,31.34405844813336,0.07352664203832382,False,Left Foot,Open Play,0,0,1,Normal
+3773547,Facundo Sebastián Roncaglia,Osasuna,32.337284981890484,0.07451473749803907,False,Right Foot,Open Play,0,0,2,Normal
+3773547,Frenkie de Jong,Barcelona,5.3160135440008,0.05634667938760199,False,Head,Open Play,0,0,6,Normal
+3773547,Lionel Andrés Messi Cuccittini,Barcelona,27.67236889028476,0.06774761354108325,False,Left Foot,Free Kick,0,0,0,Normal
+3773547,Philippe Coutinho Correia,Barcelona,5.787054518492114,0.05751649741030208,True,Right Foot,Open Play,1,0,4,Volley
+3773547,Ante Budimir,Osasuna,9.459386872308379,0.05768664681970369,False,Head,Open Play,0,1,2,Normal
+3773547,Roberto Torres Morales,Osasuna,13.0080744155313,0.058465786993921826,False,Right Foot,Open Play,0,0,1,Normal
+3773547,Roberto Torres Morales,Osasuna,14.503103116229989,0.06053839709849767,False,Left Foot,Open Play,0,0,4,Normal
+3773547,Lionel Andrés Messi Cuccittini,Barcelona,20.145719148245867,0.06522483326433326,True,Left Foot,Open Play,0,0,2,Normal
+3773547,Enrique Barja Afonso,Osasuna,10.307764064044152,0.053964643665071095,False,Right Foot,Open Play,0,0,1,Normal
+3773547,Enrique Barja Afonso,Osasuna,26.73013280924732,0.058159057311338,False,Left Foot,Open Play,0,0,1,Normal
+3773547,Ousmane Dembélé,Barcelona,17.81937148162078,0.06294687350608999,False,Right Foot,Open Play,0,0,2,Normal
+3773547,Francisco António Machado Mota de Castro Trincão,Barcelona,13.018832512940625,0.053063889192881436,False,Left Foot,Open Play,0,0,1,Normal
+3773547,Lionel Andrés Messi Cuccittini,Barcelona,22.280035906613797,0.06702576596692612,False,Left Foot,Free Kick,0,0,0,Normal

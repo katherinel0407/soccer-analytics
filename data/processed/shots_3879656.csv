@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.209156340629363,0.06181335713936383,False,Left Foot,Open Play,0,1,3,Normal
-27.73193105429191,0.07073021456380846,False,Right Foot,Open Play,0,0,2,Normal
-27.64814641164938,0.07040064593641307,False,Right Foot,Open Play,0,1,3,Normal
-21.204952251773644,0.06538946681321978,False,Left Foot,Open Play,1,0,2,Normal
-23.888281646028883,0.06747890988122775,False,Left Foot,Open Play,1,0,0,Volley
-26.81976882823563,0.06975267657563175,False,Left Foot,Open Play,0,0,3,Normal
-27.692056622793473,0.06998253890873396,False,Left Foot,Open Play,1,0,1,Half Volley
-14.632156368765335,0.06229947170502441,False,Left Foot,Open Play,1,0,1,Normal
-16.204937519163717,0.06319547072718759,True,Right Foot,Open Play,1,0,0,Normal
-8.095677859203636,0.05877356593518313,False,Head,Open Play,0,1,6,Normal
-15.838244852255567,0.054341152024603476,False,Right Foot,Open Play,0,0,3,Normal
-17.426416728633573,0.06294889403570966,False,Right Foot,Open Play,0,0,2,Half Volley
-32.575604368913865,0.07262794335669953,False,Left Foot,Open Play,0,1,1,Normal
-18.90238080242804,0.06271956464335827,True,Left Foot,Open Play,1,0,0,Normal
-12.316655390161728,0.06096971480200976,False,Head,Open Play,0,1,6,Normal
-10.965856099730654,0.06026760368493052,True,Right Foot,Open Play,1,0,3,Volley
-19.66977376585709,0.06063723476168468,True,Left Foot,Open Play,1,0,3,Normal
-4.60434577328853,0.056678824070562045,True,Head,Open Play,0,0,2,Normal
-15.057224179774966,0.05441212208481202,False,Right Foot,Open Play,1,0,3,Half Volley
-23.693247983339056,0.05419247922857816,False,Right Foot,Open Play,0,0,1,Normal
-18.10690476033935,0.06420727778459333,False,Left Foot,Open Play,1,0,1,Normal
-23.281967270830012,0.06781835506440212,False,Right Foot,Open Play,0,0,3,Normal
-24.223129442745417,0.0608131656029264,False,Right Foot,Open Play,1,0,2,Volley
-23.196982562393764,0.0626807452141703,False,Left Foot,Open Play,0,1,3,Half Volley
-26.206869328479506,0.06807583820481598,False,Left Foot,Open Play,0,0,1,Normal
-7.051950084905596,0.056727418303656914,False,Head,Open Play,0,0,4,Normal
-28.627609051403507,0.055604139373983646,False,Left Foot,Open Play,1,0,1,Normal
-26.992035862453953,0.06952680379644033,False,Left Foot,Open Play,0,0,1,Normal
-27.2214988566023,0.07040201113304558,False,Left Foot,Open Play,0,0,3,Normal
-17.710166571774536,0.06323899465844995,False,Right Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879656,Riccardo Saponara,Empoli,20.209156340629363,0.06181335713936383,False,Left Foot,Open Play,0,1,3,Normal
+3879656,Massimo Maccarone,Empoli,27.73193105429191,0.07073021456380846,False,Right Foot,Open Play,0,0,2,Normal
+3879656,Massimo Maccarone,Empoli,27.64814641164938,0.07040064593641307,False,Right Foot,Open Play,0,1,3,Normal
+3879656,Piotr Zieliński,Empoli,21.204952251773644,0.06538946681321978,False,Left Foot,Open Play,1,0,2,Normal
+3879656,Anthony Mounier,Bologna,23.888281646028883,0.06747890988122775,False,Left Foot,Open Play,1,0,0,Volley
+3879656,Marcel Büchel,Empoli,26.81976882823563,0.06975267657563175,False,Left Foot,Open Play,0,0,3,Normal
+3879656,Mário Rui Silva Duarte,Empoli,27.692056622793473,0.06998253890873396,False,Left Foot,Open Play,1,0,1,Half Volley
+3879656,Riccardo Saponara,Empoli,14.632156368765335,0.06229947170502441,False,Left Foot,Open Play,1,0,1,Normal
+3879656,Manuel Pucciarelli,Empoli,16.204937519163717,0.06319547072718759,True,Right Foot,Open Play,1,0,0,Normal
+3879656,Luca Rossettini,Bologna,8.095677859203636,0.05877356593518313,False,Head,Open Play,0,1,6,Normal
+3879656,Manuel Pucciarelli,Empoli,15.838244852255567,0.054341152024603476,False,Right Foot,Open Play,0,0,3,Normal
+3879656,Mattia Destro,Bologna,17.426416728633573,0.06294889403570966,False,Right Foot,Open Play,0,0,2,Half Volley
+3879656,Marcel Büchel,Empoli,32.575604368913865,0.07262794335669953,False,Left Foot,Open Play,0,1,1,Normal
+3879656,Franco Brienza,Bologna,18.90238080242804,0.06271956464335827,True,Left Foot,Open Play,1,0,0,Normal
+3879656,Luca Rossettini,Bologna,12.316655390161728,0.06096971480200976,False,Head,Open Play,0,1,6,Normal
+3879656,Massimo Maccarone,Empoli,10.965856099730654,0.06026760368493052,True,Right Foot,Open Play,1,0,3,Volley
+3879656,Mattia Destro,Bologna,19.66977376585709,0.06063723476168468,True,Left Foot,Open Play,1,0,3,Normal
+3879656,Massimo Maccarone,Empoli,4.60434577328853,0.056678824070562045,True,Head,Open Play,0,0,2,Normal
+3879656,Saphir Sliti Taïder,Bologna,15.057224179774966,0.05441212208481202,False,Right Foot,Open Play,1,0,3,Half Volley
+3879656,Massimo Maccarone,Empoli,23.693247983339056,0.05419247922857816,False,Right Foot,Open Play,0,0,1,Normal
+3879656,Riccardo Saponara,Empoli,18.10690476033935,0.06420727778459333,False,Left Foot,Open Play,1,0,1,Normal
+3879656,Mário Rui Silva Duarte,Empoli,23.281967270830012,0.06781835506440212,False,Right Foot,Open Play,0,0,3,Normal
+3879656,Saphir Sliti Taïder,Bologna,24.223129442745417,0.0608131656029264,False,Right Foot,Open Play,1,0,2,Volley
+3879656,Anthony Mounier,Bologna,23.196982562393764,0.0626807452141703,False,Left Foot,Open Play,0,1,3,Half Volley
+3879656,Riccardo Saponara,Empoli,26.206869328479506,0.06807583820481598,False,Left Foot,Open Play,0,0,1,Normal
+3879656,Mattia Destro,Bologna,7.051950084905596,0.056727418303656914,False,Head,Open Play,0,0,4,Normal
+3879656,Saphir Sliti Taïder,Bologna,28.627609051403507,0.055604139373983646,False,Left Foot,Open Play,1,0,1,Normal
+3879656,Adam Masina,Bologna,26.992035862453953,0.06952680379644033,False,Left Foot,Open Play,0,0,1,Normal
+3879656,Marcel Büchel,Empoli,27.2214988566023,0.07040201113304558,False,Left Foot,Open Play,0,0,3,Normal
+3879656,Saphir Sliti Taïder,Bologna,17.710166571774536,0.06323899465844995,False,Right Foot,Open Play,0,1,3,Normal

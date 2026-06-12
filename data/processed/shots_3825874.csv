@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.5,0.06867091740636169,False,Right Foot,Open Play,0,0,0,Normal
-24.397745797511703,0.06780885776216007,False,Right Foot,Open Play,1,0,2,Volley
-26.70018726526089,0.05605428087333229,False,Left Foot,Open Play,0,0,2,Normal
-16.25423021862309,0.06094743753428842,False,Right Foot,Open Play,0,0,1,Normal
-21.20778159072749,0.06620616257564056,False,Right Foot,Open Play,1,0,2,Normal
-29.904180309782785,0.06813454090022494,False,Left Foot,Open Play,1,0,0,Half Volley
-18.173882359033804,0.06413978298966483,False,Right Foot,Open Play,0,0,2,Normal
-6.802940540677981,0.05634374867528384,False,Left Foot,Open Play,1,0,3,Normal
-22.842942017174586,0.06726513724683025,False,Right Foot,Open Play,0,0,2,Normal
-33.1725790375123,0.06339465563427878,False,Right Foot,Free Kick,0,0,0,Normal
-34.08005281686049,0.07228820841288257,False,Right Foot,Open Play,0,0,2,Normal
-7.602631123499279,0.05772902883681806,True,Right Foot,Open Play,1,0,2,Volley
-7.049113419430845,0.054418955991644126,False,Head,Open Play,0,1,3,Normal
-33.36240399012037,0.07458584346461436,False,Right Foot,Free Kick,0,0,0,Normal
-15.352524222420234,0.060123861521442584,False,Right Foot,Open Play,0,0,0,Normal
-11.903780911962384,0.06020133090056058,True,Left Foot,Open Play,1,0,0,Normal
-17.762882648939616,0.05645296415819891,False,Right Foot,Open Play,1,0,0,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-21.266405432042347,0.059681148836636826,False,Left Foot,Open Play,0,0,2,Normal
-19.436306233438497,0.06530281295987998,False,Left Foot,Open Play,1,0,2,Half Volley
-12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
-21.489532335534896,0.06649184569566506,False,Left Foot,Open Play,1,0,1,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-17.620726432244503,0.05791000728668293,False,Right Foot,Open Play,1,0,1,Normal
-16.4453640883989,0.056031219437438454,False,Left Foot,Open Play,0,0,4,Normal
-17.910890541790483,0.06435001627199018,False,Right Foot,Open Play,1,0,0,Normal
-38.07807768257216,0.07834282005764263,False,Left Foot,Open Play,0,0,0,Normal
-14.894629904767692,0.06126467913211188,False,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825874,Éver Maximiliano David Banega,Sevilla,31.5,0.06867091740636169,False,Right Foot,Open Play,0,0,0,Normal
+3825874,Benoît Trémoulinas,Sevilla,24.397745797511703,0.06780885776216007,False,Right Foot,Open Play,1,0,2,Volley
+3825874,Pedro León Sánchez Gil,Getafe,26.70018726526089,0.05605428087333229,False,Left Foot,Open Play,0,0,2,Normal
+3825874,Yevhen Konoplyanka,Sevilla,16.25423021862309,0.06094743753428842,False,Right Foot,Open Play,0,0,1,Normal
+3825874,Víctor Rodríguez Romero,Getafe,21.20778159072749,0.06620616257564056,False,Right Foot,Open Play,1,0,2,Normal
+3825874,Pablo Sarabia García,Getafe,29.904180309782785,0.06813454090022494,False,Left Foot,Open Play,1,0,0,Half Volley
+3825874,Yevhen Konoplyanka,Sevilla,18.173882359033804,0.06413978298966483,False,Right Foot,Open Play,0,0,2,Normal
+3825874,Kevin Gameiro,Sevilla,6.802940540677981,0.05634374867528384,False,Left Foot,Open Play,1,0,3,Normal
+3825874,Yevhen Konoplyanka,Sevilla,22.842942017174586,0.06726513724683025,False,Right Foot,Open Play,0,0,2,Normal
+3825874,Yevhen Konoplyanka,Sevilla,33.1725790375123,0.06339465563427878,False,Right Foot,Free Kick,0,0,0,Normal
+3825874,Éver Maximiliano David Banega,Sevilla,34.08005281686049,0.07228820841288257,False,Right Foot,Open Play,0,0,2,Normal
+3825874,Kevin Gameiro,Sevilla,7.602631123499279,0.05772902883681806,True,Right Foot,Open Play,1,0,2,Volley
+3825874,Kevin Gameiro,Sevilla,7.049113419430845,0.054418955991644126,False,Head,Open Play,0,1,3,Normal
+3825874,Éver Maximiliano David Banega,Sevilla,33.36240399012037,0.07458584346461436,False,Right Foot,Free Kick,0,0,0,Normal
+3825874,Kevin Gameiro,Sevilla,15.352524222420234,0.060123861521442584,False,Right Foot,Open Play,0,0,0,Normal
+3825874,Kevin Gameiro,Sevilla,11.903780911962384,0.06020133090056058,True,Left Foot,Open Play,1,0,0,Normal
+3825874,Pedro León Sánchez Gil,Getafe,17.762882648939616,0.05645296415819891,False,Right Foot,Open Play,1,0,0,Normal
+3825874,Éver Maximiliano David Banega,Sevilla,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+3825874,Víctor Rodríguez Romero,Getafe,21.266405432042347,0.059681148836636826,False,Left Foot,Open Play,0,0,2,Normal
+3825874,Kevin Gameiro,Sevilla,19.436306233438497,0.06530281295987998,False,Left Foot,Open Play,1,0,2,Half Volley
+3825874,Kevin Gameiro,Sevilla,12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
+3825874,Fernando Llorente Torres,Sevilla,21.489532335534896,0.06649184569566506,False,Left Foot,Open Play,1,0,1,Half Volley
+3825874,Yevhen Konoplyanka,Sevilla,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3825874,Víctor Machín Pérez,Sevilla,17.620726432244503,0.05791000728668293,False,Right Foot,Open Play,1,0,1,Normal
+3825874,Víctor Machín Pérez,Sevilla,16.4453640883989,0.056031219437438454,False,Left Foot,Open Play,0,0,4,Normal
+3825874,Michael Krohn-Dehli,Sevilla,17.910890541790483,0.06435001627199018,False,Right Foot,Open Play,1,0,0,Normal
+3825874,Roberto Lago Soto,Getafe,38.07807768257216,0.07834282005764263,False,Left Foot,Open Play,0,0,0,Normal
+3825874,Benoît Trémoulinas,Sevilla,14.894629904767692,0.06126467913211188,False,Left Foot,Open Play,1,0,1,Volley

@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.650801000984774,0.07234588866442937,False,Right Foot,Free Kick,0,0,0,Normal
-18.866372200293302,0.06392666126690674,False,Right Foot,Open Play,1,0,1,Normal
-12.24499897917513,0.060304846923940864,False,Right Foot,Open Play,0,0,2,Normal
-11.700427342623,0.0604835672881681,False,Right Foot,Open Play,1,0,1,Normal
-8.800568163476717,0.05919816191521839,False,Left Foot,Open Play,1,0,2,Normal
-21.81948670340345,0.06654613580350272,False,Right Foot,Open Play,1,0,1,Volley
-12.001666550941998,0.05966323694216356,True,Right Foot,Penalty,0,0,0,Normal
-18.5310550158376,0.05332945255580987,False,Right Foot,Open Play,0,0,1,Normal
-5.8523499553598075,0.05752647195048154,False,Right Foot,Open Play,1,0,1,Normal
-3.757658845611193,0.05662583205438885,True,Right Foot,Open Play,1,0,2,Normal
-8.695401083331351,0.05416843436607279,True,Right Foot,Open Play,0,1,2,Normal
-30.125736505519658,0.07168911852663953,False,Right Foot,Open Play,0,0,1,Normal
-26.161230857893518,0.06736326336327651,False,Right Foot,Open Play,0,0,0,Normal
-26.177280225416848,0.05836422744782533,False,Left Foot,Open Play,0,0,0,Normal
-32.55641257878393,0.07337894647495517,False,Right Foot,Open Play,0,0,1,Normal
-23.591947778850308,0.06049633079467688,False,Left Foot,Open Play,0,0,2,Normal
-13.223085872821065,0.05357504090472431,False,Right Foot,Open Play,1,0,0,Normal
-30.536044275577023,0.07234908520281198,False,Left Foot,Open Play,0,0,1,Normal
-24.288680491125902,0.05557639091363372,False,Right Foot,Open Play,0,0,2,Normal
-14.135416513141728,0.06085565152151447,True,Right Foot,Open Play,1,0,1,Normal
-17.418668146560456,0.056894620025860945,False,Left Foot,Open Play,1,0,1,Overhead Kick
-17.140595088852667,0.06340740451192038,False,Right Foot,Open Play,1,0,0,Normal
-11.812705024675763,0.058911522545195126,False,Right Foot,Open Play,0,0,1,Half Volley
-22.84491190615538,0.05428667239096447,False,Right Foot,Open Play,0,0,1,Normal
-27.884224930953344,0.062233709284412735,False,Right Foot,Open Play,1,0,1,Half Volley
-23.659247663440183,0.06095382553871871,False,Right Foot,Open Play,0,0,3,Lob
-12.420144926690675,0.06114210052832914,False,Left Foot,Open Play,1,0,4,Normal
-15.29771224726102,0.06279652344773717,True,Left Foot,Open Play,1,1,1,Normal
-19.384787850270637,0.05577827684417454,False,Left Foot,Open Play,0,0,3,Normal
-15.395129099815954,0.06282909624799149,False,Left Foot,Open Play,0,0,3,Normal
-21.189620100417088,0.06642629358094793,False,Right Foot,Open Play,1,0,2,Normal
-12.87050892544657,0.05636593809104572,False,Head,Open Play,0,1,2,Normal
-24.987396823198686,0.06174348750803538,False,Right Foot,Open Play,0,0,1,Normal
-22.360008944542034,0.06018305087989186,False,Right Foot,Free Kick,0,0,0,Normal
-26.181863951980194,0.05698732631976831,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825585,Manuel Agudo Durán,Celta Vigo,29.650801000984774,0.07234588866442937,False,Right Foot,Free Kick,0,0,0,Normal
+3825585,Fabián Ariel Orellana Valenzuela,Celta Vigo,18.866372200293302,0.06392666126690674,False,Right Foot,Open Play,1,0,1,Normal
+3825585,Manuel Agudo Durán,Celta Vigo,12.24499897917513,0.060304846923940864,False,Right Foot,Open Play,0,0,2,Normal
+3825585,Roque Mesa Quevedo,Las Palmas,11.700427342623,0.0604835672881681,False,Right Foot,Open Play,1,0,1,Normal
+3825585,Manuel Agudo Durán,Celta Vigo,8.800568163476717,0.05919816191521839,False,Left Foot,Open Play,1,0,2,Normal
+3825585,Jonathan Castro Otto,Celta Vigo,21.81948670340345,0.06654613580350272,False,Right Foot,Open Play,1,0,1,Volley
+3825585,Fabián Ariel Orellana Valenzuela,Celta Vigo,12.001666550941998,0.05966323694216356,True,Right Foot,Penalty,0,0,0,Normal
+3825585,Fabián Ariel Orellana Valenzuela,Celta Vigo,18.5310550158376,0.05332945255580987,False,Right Foot,Open Play,0,0,1,Normal
+3825585,Daniel Wass,Celta Vigo,5.8523499553598075,0.05752647195048154,False,Right Foot,Open Play,1,0,1,Normal
+3825585,Daniel Wass,Celta Vigo,3.757658845611193,0.05662583205438885,True,Right Foot,Open Play,1,0,2,Normal
+3825585,Sergio Ezequiel Araújo,Las Palmas,8.695401083331351,0.05416843436607279,True,Right Foot,Open Play,0,1,2,Normal
+3825585,Manuel Agudo Durán,Celta Vigo,30.125736505519658,0.07168911852663953,False,Right Foot,Open Play,0,0,1,Normal
+3825585,Jonathan Viera Ramos,Las Palmas,26.161230857893518,0.06736326336327651,False,Right Foot,Open Play,0,0,0,Normal
+3825585,Pedro Pablo Hernández,Celta Vigo,26.177280225416848,0.05836422744782533,False,Left Foot,Open Play,0,0,0,Normal
+3825585,Jonathan Viera Ramos,Las Palmas,32.55641257878393,0.07337894647495517,False,Right Foot,Open Play,0,0,1,Normal
+3825585,Pedro Pablo Hernández,Celta Vigo,23.591947778850308,0.06049633079467688,False,Left Foot,Open Play,0,0,2,Normal
+3825585,Fabián Ariel Orellana Valenzuela,Celta Vigo,13.223085872821065,0.05357504090472431,False,Right Foot,Open Play,1,0,0,Normal
+3825585,Juan Emmanuel Culio,Las Palmas,30.536044275577023,0.07234908520281198,False,Left Foot,Open Play,0,0,1,Normal
+3825585,Daniel Wass,Celta Vigo,24.288680491125902,0.05557639091363372,False,Right Foot,Open Play,0,0,2,Normal
+3825585,Manuel Agudo Durán,Celta Vigo,14.135416513141728,0.06085565152151447,True,Right Foot,Open Play,1,0,1,Normal
+3825585,Iago Aspas Juncal,Celta Vigo,17.418668146560456,0.056894620025860945,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3825585,Manuel Agudo Durán,Celta Vigo,17.140595088852667,0.06340740451192038,False,Right Foot,Open Play,1,0,0,Normal
+3825585,Sergio Ezequiel Araújo,Las Palmas,11.812705024675763,0.058911522545195126,False,Right Foot,Open Play,0,0,1,Half Volley
+3825585,Sergio Ezequiel Araújo,Las Palmas,22.84491190615538,0.05428667239096447,False,Right Foot,Open Play,0,0,1,Normal
+3825585,Hernán Daniel Santana Trujillo,Las Palmas,27.884224930953344,0.062233709284412735,False,Right Foot,Open Play,1,0,1,Half Volley
+3825585,Fabián Ariel Orellana Valenzuela,Celta Vigo,23.659247663440183,0.06095382553871871,False,Right Foot,Open Play,0,0,3,Lob
+3825585,Iago Aspas Juncal,Celta Vigo,12.420144926690675,0.06114210052832914,False,Left Foot,Open Play,1,0,4,Normal
+3825585,David Simón Rodríguez Santana,Las Palmas,15.29771224726102,0.06279652344773717,True,Left Foot,Open Play,1,1,1,Normal
+3825585,Iago Aspas Juncal,Celta Vigo,19.384787850270637,0.05577827684417454,False,Left Foot,Open Play,0,0,3,Normal
+3825585,Iago Aspas Juncal,Celta Vigo,15.395129099815954,0.06282909624799149,False,Left Foot,Open Play,0,0,3,Normal
+3825585,Manuel Agudo Durán,Celta Vigo,21.189620100417088,0.06642629358094793,False,Right Foot,Open Play,1,0,2,Normal
+3825585,Gustavo Daniel Cabral Cáceres,Celta Vigo,12.87050892544657,0.05636593809104572,False,Head,Open Play,0,1,2,Normal
+3825585,Augusto Matías Fernández,Celta Vigo,24.987396823198686,0.06174348750803538,False,Right Foot,Open Play,0,0,1,Normal
+3825585,Manuel Agudo Durán,Celta Vigo,22.360008944542034,0.06018305087989186,False,Right Foot,Free Kick,0,0,0,Normal
+3825585,Daniel Wass,Celta Vigo,26.181863951980194,0.05698732631976831,False,Right Foot,Open Play,0,0,2,Normal

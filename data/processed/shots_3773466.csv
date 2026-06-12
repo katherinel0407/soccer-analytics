@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.468348795377814,0.05709257882258115,False,Left Foot,Open Play,1,0,2,Volley
-14.877163708180401,0.062388429095081986,True,Right Foot,Open Play,0,0,3,Normal
-27.15326867984773,0.0695924795002401,False,Left Foot,Open Play,1,0,0,Normal
-26.461481440010118,0.05596703431674596,False,Left Foot,Free Kick,0,0,0,Normal
-18.76192953829642,0.06455810840637098,False,Right Foot,Open Play,1,0,1,Normal
-20.2427764894048,0.062079659007625146,False,Right Foot,Open Play,0,0,1,Normal
-16.207714212682802,0.06158890638083415,False,Right Foot,Open Play,1,0,0,Normal
-29.323199006929645,0.07216731248096077,False,Left Foot,Free Kick,0,0,0,Normal
-25.823438965405053,0.06730729456813771,False,Right Foot,Open Play,0,0,2,Normal
-15.100331122197288,0.06094837782877004,False,Right Foot,Open Play,1,0,1,Normal
-9.808159868191387,0.059446426275491446,False,Left Foot,Open Play,1,0,3,Normal
-21.346896729969913,0.06474682138999213,False,Right Foot,Open Play,0,0,3,Normal
-25.40177159176108,0.06374879527735257,False,Right Foot,Free Kick,0,0,0,Normal
-17.921216476567658,0.06418900319049924,False,Left Foot,Open Play,0,0,3,Normal
-11.161541112229978,0.05934189319384067,False,Head,Open Play,0,0,1,Normal
-13.908630414242806,0.06108632461926332,False,Left Foot,Open Play,0,0,1,Normal
-13.165485179058157,0.05592375706060621,True,Right Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773466,Antoine Griezmann,Barcelona,21.468348795377814,0.05709257882258115,False,Left Foot,Open Play,1,0,2,Volley
+3773466,Anssumane Fati,Barcelona,14.877163708180401,0.062388429095081986,True,Right Foot,Open Play,0,0,3,Normal
+3773466,José Manuel Fontán Mondragón,Celta Vigo,27.15326867984773,0.0695924795002401,False,Left Foot,Open Play,1,0,0,Normal
+3773466,Iago Aspas Juncal,Celta Vigo,26.461481440010118,0.05596703431674596,False,Left Foot,Free Kick,0,0,0,Normal
+3773466,Lucas René Olaza Catrofe,Celta Vigo,18.76192953829642,0.06455810840637098,False,Right Foot,Open Play,1,0,1,Normal
+3773466,Philippe Coutinho Correia,Barcelona,20.2427764894048,0.062079659007625146,False,Right Foot,Open Play,0,0,1,Normal
+3773466,Philippe Coutinho Correia,Barcelona,16.207714212682802,0.06158890638083415,False,Right Foot,Open Play,1,0,0,Normal
+3773466,Lionel Andrés Messi Cuccittini,Barcelona,29.323199006929645,0.07216731248096077,False,Left Foot,Free Kick,0,0,0,Normal
+3773466,Manuel Agudo Durán,Celta Vigo,25.823438965405053,0.06730729456813771,False,Right Foot,Open Play,0,0,2,Normal
+3773466,Manuel Agudo Durán,Celta Vigo,15.100331122197288,0.06094837782877004,False,Right Foot,Open Play,1,0,1,Normal
+3773466,Miguel Baeza Pérez,Celta Vigo,9.808159868191387,0.059446426275491446,False,Left Foot,Open Play,1,0,3,Normal
+3773466,Manuel Agudo Durán,Celta Vigo,21.346896729969913,0.06474682138999213,False,Right Foot,Open Play,0,0,3,Normal
+3773466,Manuel Agudo Durán,Celta Vigo,25.40177159176108,0.06374879527735257,False,Right Foot,Free Kick,0,0,0,Normal
+3773466,Miguel Baeza Pérez,Celta Vigo,17.921216476567658,0.06418900319049924,False,Left Foot,Open Play,0,0,3,Normal
+3773466,Néstor Alejandro Araújo Razo,Celta Vigo,11.161541112229978,0.05934189319384067,False,Head,Open Play,0,0,1,Normal
+3773466,Lionel Andrés Messi Cuccittini,Barcelona,13.908630414242806,0.06108632461926332,False,Left Foot,Open Play,0,0,1,Normal
+3773466,Sergi Roberto Carnicer,Barcelona,13.165485179058157,0.05592375706060621,True,Right Foot,Open Play,1,0,0,Half Volley

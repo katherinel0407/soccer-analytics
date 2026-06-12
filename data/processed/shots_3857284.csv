@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.397887245356827,0.07072758230931894,False,Right Foot,Open Play,0,0,1,Normal
-14.23411395205195,0.05475636699985037,False,Head,Open Play,0,1,1,Normal
-23.10346294389652,0.06471976836471334,False,Right Foot,Open Play,1,1,2,Normal
-22.808989455914084,0.06745409632561097,False,Right Foot,Open Play,0,0,1,Normal
-25.75266976451179,0.0643119887782651,False,Right Foot,Open Play,1,0,0,Normal
-15.044268011438778,0.06193693559201064,False,Right Foot,Open Play,1,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-28.12205540141048,0.0620014887756609,False,Left Foot,Open Play,0,0,1,Normal
-16.405486887014355,0.0631512782886882,False,Right Foot,Open Play,0,0,4,Normal
-26.718720029222958,0.06677512759303814,False,Right Foot,Open Play,0,0,1,Normal
-23.104977818643324,0.06344477948939457,False,Right Foot,Open Play,1,0,1,Normal
-18.804786624686805,0.06006106047884459,False,Right Foot,Open Play,0,0,3,Normal
-19.706344156134087,0.06273944656377854,False,Left Foot,Open Play,1,0,0,Half Volley
-11.597413504743205,0.05992599268172647,False,Left Foot,Open Play,1,0,0,Normal
-10.653168542738824,0.060184888703069366,False,Head,Open Play,0,0,3,Normal
-21.384573879317774,0.052563762658496015,False,Right Foot,Open Play,0,0,0,Normal
-18.26608879864543,0.05853048886078395,False,Right Foot,Open Play,1,0,6,Normal
-12.839003076563223,0.05955995355596633,False,Right Foot,Open Play,0,0,4,Normal
-10.791200118615166,0.05382724977155074,False,Head,Open Play,0,1,1,Normal
-17.0,0.061743692939782886,False,Right Foot,Open Play,0,0,3,Normal
-19.662146373170955,0.06495773513262122,False,Left Foot,Open Play,0,0,1,Normal
-18.811166896287954,0.0644926422301591,False,Left Foot,Open Play,0,0,2,Normal
-13.507405376311175,0.0538296927356854,False,Head,Open Play,0,0,1,Normal
-13.396268137059666,0.05393325732580356,False,Right Foot,Open Play,0,1,2,Normal
-12.306908628896213,0.05533430315552523,False,Right Foot,Open Play,1,0,2,Half Volley
-24.48060456769808,0.05392064152589395,False,Left Foot,Open Play,0,0,1,Normal
-8.549268974596597,0.05670726992221886,False,Head,Open Play,0,0,2,Normal
-9.774456506629921,0.05283943462993275,False,Right Foot,Open Play,1,0,2,Normal
-11.416216536138405,0.06035053818965916,False,Right Foot,Open Play,0,0,3,Half Volley
-9.124143795447324,0.05532015368016343,False,Right Foot,Open Play,1,0,0,Half Volley
-17.18138527593163,0.061975851785058975,False,Left Foot,Open Play,1,0,1,Normal
-8.041144197189855,0.057418902318427084,True,Left Foot,Open Play,1,0,1,Normal
-4.539823785126467,0.05676051349059998,False,Head,Open Play,0,1,5,Normal
-10.456098698845572,0.0526144430354847,True,Right Foot,Open Play,0,0,1,Normal
-13.138112497615472,0.05968429393351665,False,Head,Open Play,0,1,2,Normal
-33.91577803913688,0.0715730551063162,False,Right Foot,Open Play,0,0,0,Normal
-19.720547659738056,0.06256559431380852,False,Right Foot,Open Play,1,0,0,Half Volley
-9.099999999999998,0.05851358583938805,False,Right Foot,Open Play,0,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857284,Joshua Kimmich,Germany,28.397887245356827,0.07072758230931894,False,Right Foot,Open Play,0,0,1,Normal
+3857284,Antonio Rüdiger,Germany,14.23411395205195,0.05475636699985037,False,Head,Open Play,0,1,1,Normal
+3857284,Joshua Kimmich,Germany,23.10346294389652,0.06471976836471334,False,Right Foot,Open Play,1,1,2,Normal
+3857284,İlkay Gündoğan,Germany,22.808989455914084,0.06745409632561097,False,Right Foot,Open Play,0,0,1,Normal
+3857284,İlkay Gündoğan,Germany,25.75266976451179,0.0643119887782651,False,Right Foot,Open Play,1,0,0,Normal
+3857284,İlkay Gündoğan,Germany,15.044268011438778,0.06193693559201064,False,Right Foot,Open Play,1,0,1,Normal
+3857284,İlkay Gündoğan,Germany,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3857284,Serge Gnabry,Germany,28.12205540141048,0.0620014887756609,False,Left Foot,Open Play,0,0,1,Normal
+3857284,Jamal Musiala,Germany,16.405486887014355,0.0631512782886882,False,Right Foot,Open Play,0,0,4,Normal
+3857284,İlkay Gündoğan,Germany,26.718720029222958,0.06677512759303814,False,Right Foot,Open Play,0,0,1,Normal
+3857284,Joshua Kimmich,Germany,23.104977818643324,0.06344477948939457,False,Right Foot,Open Play,1,0,1,Normal
+3857284,Jamal Musiala,Germany,18.804786624686805,0.06006106047884459,False,Right Foot,Open Play,0,0,3,Normal
+3857284,Joshua Kimmich,Germany,19.706344156134087,0.06273944656377854,False,Left Foot,Open Play,1,0,0,Half Volley
+3857284,Serge Gnabry,Germany,11.597413504743205,0.05992599268172647,False,Left Foot,Open Play,1,0,0,Normal
+3857284,Daizen Maeda,Japan,10.653168542738824,0.060184888703069366,False,Head,Open Play,0,0,3,Normal
+3857284,Serge Gnabry,Germany,21.384573879317774,0.052563762658496015,False,Right Foot,Open Play,0,0,0,Normal
+3857284,Daichi Kamada,Japan,18.26608879864543,0.05853048886078395,False,Right Foot,Open Play,1,0,6,Normal
+3857284,Jamal Musiala,Germany,12.839003076563223,0.05955995355596633,False,Right Foot,Open Play,0,0,4,Normal
+3857284,Takuma Asano,Japan,10.791200118615166,0.05382724977155074,False,Head,Open Play,0,1,1,Normal
+3857284,İlkay Gündoğan,Germany,17.0,0.061743692939782886,False,Right Foot,Open Play,0,0,3,Normal
+3857284,Takuma Asano,Japan,19.662146373170955,0.06495773513262122,False,Left Foot,Open Play,0,0,1,Normal
+3857284,Takuma Asano,Japan,18.811166896287954,0.0644926422301591,False,Left Foot,Open Play,0,0,2,Normal
+3857284,Ko Itakura,Japan,13.507405376311175,0.0538296927356854,False,Head,Open Play,0,0,1,Normal
+3857284,Takuma Asano,Japan,13.396268137059666,0.05393325732580356,False,Right Foot,Open Play,0,1,2,Normal
+3857284,Jonas Hofmann,Germany,12.306908628896213,0.05533430315552523,False,Right Foot,Open Play,1,0,2,Half Volley
+3857284,Serge Gnabry,Germany,24.48060456769808,0.05392064152589395,False,Left Foot,Open Play,0,0,1,Normal
+3857284,Serge Gnabry,Germany,8.549268974596597,0.05670726992221886,False,Head,Open Play,0,0,2,Normal
+3857284,Serge Gnabry,Germany,9.774456506629921,0.05283943462993275,False,Right Foot,Open Play,1,0,2,Normal
+3857284,Junya Ito,Japan,11.416216536138405,0.06035053818965916,False,Right Foot,Open Play,0,0,3,Half Volley
+3857284,Hiroki Sakai,Japan,9.124143795447324,0.05532015368016343,False,Right Foot,Open Play,1,0,0,Half Volley
+3857284,Takumi Minamino,Japan,17.18138527593163,0.061975851785058975,False,Left Foot,Open Play,1,0,1,Normal
+3857284,Ritsu Doan,Japan,8.041144197189855,0.057418902318427084,True,Left Foot,Open Play,1,0,1,Normal
+3857284,Antonio Rüdiger,Germany,4.539823785126467,0.05676051349059998,False,Head,Open Play,0,1,5,Normal
+3857284,Takuma Asano,Japan,10.456098698845572,0.0526144430354847,True,Right Foot,Open Play,0,0,1,Normal
+3857284,Niclas Füllkrug,Germany,13.138112497615472,0.05968429393351665,False,Head,Open Play,0,1,2,Normal
+3857284,Antonio Rüdiger,Germany,33.91577803913688,0.0715730551063162,False,Right Foot,Open Play,0,0,0,Normal
+3857284,Leon Goretzka,Germany,19.720547659738056,0.06256559431380852,False,Right Foot,Open Play,1,0,0,Half Volley
+3857284,Niklas Süle,Germany,9.099999999999998,0.05851358583938805,False,Right Foot,Open Play,0,0,1,Volley

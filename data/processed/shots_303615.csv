@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.932130528261766,0.053748491893858184,False,Right Foot,Open Play,0,0,2,Normal
-23.29377599274107,0.0676210702968677,False,Left Foot,Open Play,1,1,1,Normal
-28.42850681973994,0.05695752071162214,False,Left Foot,Free Kick,0,0,0,Normal
-14.308738588708652,0.06211811148328946,False,Left Foot,Open Play,0,0,1,Normal
-8.54400374531753,0.056952429299174226,False,Head,Open Play,0,1,5,Normal
-13.955644019535603,0.06193420900073559,False,Right Foot,Open Play,1,0,1,Normal
-14.339107364128354,0.05925069502169235,False,Head,Open Play,0,0,2,Normal
-12.856126943990555,0.05948581386922143,False,Head,Open Play,0,0,3,Normal
-12.390722335683257,0.06088764897870084,False,Left Foot,Open Play,1,1,1,Normal
-7.502666192761077,0.05781881236033611,True,Right Foot,Open Play,1,1,2,Normal
-29.002241292700123,0.057514189309911305,False,Right Foot,Free Kick,0,0,0,Normal
-22.394865482962828,0.05964430161415273,False,Left Foot,Open Play,1,0,0,Volley
-14.144963768069537,0.06134864515457797,False,Left Foot,Open Play,1,0,1,Volley
-26.5994360842481,0.05104617027957366,False,Left Foot,Free Kick,0,0,0,Normal
-13.493702234746399,0.05933907358928659,False,Left Foot,Open Play,0,0,1,Normal
-10.165136496870073,0.05286819569274274,False,Head,Open Play,0,0,1,Normal
-25.583783926542225,0.05592510632380733,False,Right Foot,Open Play,1,0,1,Volley
-30.88122406900348,0.0721116826447469,False,Right Foot,Open Play,0,0,1,Normal
-19.383756085960222,0.06353449458617322,False,Right Foot,Open Play,1,0,0,Normal
-11.723907198540935,0.06074014901713143,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303615,Adrián Embarba Blázquez,Espanyol,12.932130528261766,0.053748491893858184,False,Right Foot,Open Play,0,0,2,Normal
+303615,Marc Roca Junqué,Espanyol,23.29377599274107,0.0676210702968677,False,Left Foot,Open Play,1,1,1,Normal
+303615,Lionel Andrés Messi Cuccittini,Barcelona,28.42850681973994,0.05695752071162214,False,Left Foot,Free Kick,0,0,0,Normal
+303615,Luis Alberto Suárez Díaz,Barcelona,14.308738588708652,0.06211811148328946,False,Left Foot,Open Play,0,0,1,Normal
+303615,Gerard Piqué Bernabéu,Barcelona,8.54400374531753,0.056952429299174226,False,Head,Open Play,0,1,5,Normal
+303615,Dídac Vilá Rosselló,Espanyol,13.955644019535603,0.06193420900073559,False,Right Foot,Open Play,1,0,1,Normal
+303615,Luis Alberto Suárez Díaz,Barcelona,14.339107364128354,0.05925069502169235,False,Head,Open Play,0,0,2,Normal
+303615,Antoine Griezmann,Barcelona,12.856126943990555,0.05948581386922143,False,Head,Open Play,0,0,3,Normal
+303615,Lionel Andrés Messi Cuccittini,Barcelona,12.390722335683257,0.06088764897870084,False,Left Foot,Open Play,1,1,1,Normal
+303615,Luis Alberto Suárez Díaz,Barcelona,7.502666192761077,0.05781881236033611,True,Right Foot,Open Play,1,1,2,Normal
+303615,Adrián Embarba Blázquez,Espanyol,29.002241292700123,0.057514189309911305,False,Right Foot,Free Kick,0,0,0,Normal
+303615,Marc Roca Junqué,Espanyol,22.394865482962828,0.05964430161415273,False,Left Foot,Open Play,1,0,0,Volley
+303615,Lionel Andrés Messi Cuccittini,Barcelona,14.144963768069537,0.06134864515457797,False,Left Foot,Open Play,1,0,1,Volley
+303615,Lionel Andrés Messi Cuccittini,Barcelona,26.5994360842481,0.05104617027957366,False,Left Foot,Free Kick,0,0,0,Normal
+303615,Víctor Campuzano Bonilla,Espanyol,13.493702234746399,0.05933907358928659,False,Left Foot,Open Play,0,0,1,Normal
+303615,Raúl de Tomás Gómez,Espanyol,10.165136496870073,0.05286819569274274,False,Head,Open Play,0,0,1,Normal
+303615,Sergi Darder Moll,Espanyol,25.583783926542225,0.05592510632380733,False,Right Foot,Open Play,1,0,1,Volley
+303615,Raúl de Tomás Gómez,Espanyol,30.88122406900348,0.0721116826447469,False,Right Foot,Open Play,0,0,1,Normal
+303615,Sergi Darder Moll,Espanyol,19.383756085960222,0.06353449458617322,False,Right Foot,Open Play,1,0,0,Normal
+303615,Bernardo José Espinosa Zúñiga,Espanyol,11.723907198540935,0.06074014901713143,False,Head,Open Play,0,1,4,Normal

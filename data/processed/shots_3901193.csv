@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.363013810822027,0.058821045785060005,False,Left Foot,Open Play,1,0,2,Volley
-16.76573887426379,0.0632922545724927,False,Left Foot,Open Play,1,0,1,Normal
-27.986603938313063,0.06567920770410196,False,Left Foot,Open Play,0,1,1,Normal
-31.01548000595831,0.06050319378812184,False,Right Foot,Open Play,0,0,1,Half Volley
-15.262044423995103,0.055787502598575844,False,Right Foot,Open Play,0,0,2,Normal
-11.85116028074889,0.0538749897193548,False,Head,Open Play,0,0,3,Normal
-26.943273743181248,0.061201523705655646,False,Left Foot,Open Play,0,0,1,Normal
-12.56702033100926,0.06118379019094829,False,Right Foot,Open Play,1,0,2,Overhead Kick
-19.16585505527995,0.06481044473374203,False,Right Foot,Open Play,1,0,0,Normal
-21.8680131699247,0.057712615131966793,False,Left Foot,Open Play,0,1,2,Normal
-27.04163456597992,0.061632330830654704,False,Right Foot,Open Play,1,0,0,Normal
-13.756816492197604,0.05831547674229943,False,Head,Open Play,0,0,2,Normal
-16.877203559831827,0.06320212979169862,False,Left Foot,Open Play,0,0,2,Normal
-11.7038455218787,0.05935902253406599,False,Head,Open Play,0,0,2,Normal
-31.312936623702353,0.06167738663203135,False,Left Foot,Free Kick,0,0,0,Normal
-20.927493877672028,0.05599701238151637,False,Right Foot,Open Play,1,0,1,Normal
-26.38939180807318,0.05045281371837492,False,Left Foot,Open Play,1,0,1,Half Volley
-27.670381276737043,0.07021519594337718,False,Right Foot,Open Play,1,0,2,Half Volley
-22.986952821111373,0.05109997324763988,False,Right Foot,Open Play,1,0,1,Normal
-9.235799911215057,0.05942919007394203,False,Head,Open Play,0,0,2,Normal
-25.107170290576363,0.06021474257781145,False,Right Foot,Open Play,0,0,2,Normal
-31.0177368613508,0.06680287883116474,False,Left Foot,Open Play,0,0,0,Half Volley
-15.539626765144655,0.053381692178485006,False,Right Foot,Open Play,0,0,1,Normal
-5.008991914547279,0.05590390149506454,True,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Lob
-21.203773249117717,0.06382296854444235,False,Right Foot,Open Play,1,0,1,Half Volley
-9.849365461794992,0.0597095492805875,False,Head,Open Play,0,1,3,Normal
-7.244998274671979,0.05376125408985518,False,Head,Open Play,0,0,2,Normal
-15.415900881881674,0.06076873863831405,False,Right Foot,Open Play,0,0,2,Volley
-20.496341136895627,0.05972782550991424,False,Right Foot,Open Play,0,0,1,Half Volley
-10.05783276854412,0.05756195235091181,False,Right Foot,Open Play,1,0,0,Volley
-11.180339887498949,0.059582425355292595,False,Head,Open Play,0,1,4,Normal
-4.687216658103192,0.05555925765007899,False,Head,Open Play,0,1,6,Normal
-8.184130986244048,0.058316757181447965,False,Right Foot,Open Play,1,0,1,Volley
-18.183509012289125,0.05752272433397657,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901193,Edinson Roberto Cavani Gómez,Paris Saint-Germain,8.363013810822027,0.058821045785060005,False,Left Foot,Open Play,1,0,2,Volley
+3901193,Ángel Fabián Di María Hernández,Paris Saint-Germain,16.76573887426379,0.0632922545724927,False,Left Foot,Open Play,1,0,1,Normal
+3901193,Ángel Fabián Di María Hernández,Paris Saint-Germain,27.986603938313063,0.06567920770410196,False,Left Foot,Open Play,0,1,1,Normal
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,31.01548000595831,0.06050319378812184,False,Right Foot,Open Play,0,0,1,Half Volley
+3901193,Edinson Roberto Cavani Gómez,Paris Saint-Germain,15.262044423995103,0.055787502598575844,False,Right Foot,Open Play,0,0,2,Normal
+3901193,Edinson Roberto Cavani Gómez,Paris Saint-Germain,11.85116028074889,0.0538749897193548,False,Head,Open Play,0,0,3,Normal
+3901193,Tiemoué Bakayoko,AS Monaco,26.943273743181248,0.061201523705655646,False,Left Foot,Open Play,0,0,1,Normal
+3901193,Edinson Roberto Cavani Gómez,Paris Saint-Germain,12.56702033100926,0.06118379019094829,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3901193,Ángel Fabián Di María Hernández,Paris Saint-Germain,19.16585505527995,0.06481044473374203,False,Right Foot,Open Play,1,0,0,Normal
+3901193,Vágner Silva de Souza,AS Monaco,21.8680131699247,0.057712615131966793,False,Left Foot,Open Play,0,1,2,Normal
+3901193,Tiemoué Bakayoko,AS Monaco,27.04163456597992,0.061632330830654704,False,Right Foot,Open Play,1,0,0,Normal
+3901193,Edinson Roberto Cavani Gómez,Paris Saint-Germain,13.756816492197604,0.05831547674229943,False,Head,Open Play,0,0,2,Normal
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,16.877203559831827,0.06320212979169862,False,Left Foot,Open Play,0,0,2,Normal
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,11.7038455218787,0.05935902253406599,False,Head,Open Play,0,0,2,Normal
+3901193,Thomas Lemar,AS Monaco,31.312936623702353,0.06167738663203135,False,Left Foot,Free Kick,0,0,0,Normal
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,20.927493877672028,0.05599701238151637,False,Right Foot,Open Play,1,0,1,Normal
+3901193,Vágner Silva de Souza,AS Monaco,26.38939180807318,0.05045281371837492,False,Left Foot,Open Play,1,0,1,Half Volley
+3901193,Tiemoué Bakayoko,AS Monaco,27.670381276737043,0.07021519594337718,False,Right Foot,Open Play,1,0,2,Half Volley
+3901193,Fábio Henrique Tavares,AS Monaco,22.986952821111373,0.05109997324763988,False,Right Foot,Open Play,1,0,1,Normal
+3901193,Edinson Roberto Cavani Gómez,Paris Saint-Germain,9.235799911215057,0.05942919007394203,False,Head,Open Play,0,0,2,Normal
+3901193,Kylian Mbappé Lottin,AS Monaco,25.107170290576363,0.06021474257781145,False,Right Foot,Open Play,0,0,2,Normal
+3901193,Adrien Rabiot,Paris Saint-Germain,31.0177368613508,0.06680287883116474,False,Left Foot,Open Play,0,0,0,Half Volley
+3901193,Thomas Lemar,AS Monaco,15.539626765144655,0.053381692178485006,False,Right Foot,Open Play,0,0,1,Normal
+3901193,Vágner Silva de Souza,AS Monaco,5.008991914547279,0.05590390149506454,True,Right Foot,Open Play,1,0,1,Normal
+3901193,Fábio Henrique Tavares,AS Monaco,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Lob
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,21.203773249117717,0.06382296854444235,False,Right Foot,Open Play,1,0,1,Half Volley
+3901193,Edinson Roberto Cavani Gómez,Paris Saint-Germain,9.849365461794992,0.0597095492805875,False,Head,Open Play,0,1,3,Normal
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,7.244998274671979,0.05376125408985518,False,Head,Open Play,0,0,2,Normal
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,15.415900881881674,0.06076873863831405,False,Right Foot,Open Play,0,0,2,Volley
+3901193,Blaise Matuidi,Paris Saint-Germain,20.496341136895627,0.05972782550991424,False,Right Foot,Open Play,0,0,1,Half Volley
+3901193,Jean-Kévin Augustin,Paris Saint-Germain,10.05783276854412,0.05756195235091181,False,Right Foot,Open Play,1,0,0,Volley
+3901193,David Luiz Moreira Marinho,Paris Saint-Germain,11.180339887498949,0.059582425355292595,False,Head,Open Play,0,1,4,Normal
+3901193,Thiago Emiliano da Silva,Paris Saint-Germain,4.687216658103192,0.05555925765007899,False,Head,Open Play,0,1,6,Normal
+3901193,Zlatan Ibrahimović,Paris Saint-Germain,8.184130986244048,0.058316757181447965,False,Right Foot,Open Play,1,0,1,Volley
+3901193,Hélder Wander Sousa Azevedo Costa,AS Monaco,18.183509012289125,0.05752272433397657,False,Left Foot,Open Play,0,0,3,Normal

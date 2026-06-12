@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.34729587642724,0.05856433292340143,False,Right Foot,Open Play,1,0,0,Volley
-25.81414341015406,0.0686538943791228,False,Left Foot,Open Play,0,0,3,Normal
-19.004210059878837,0.06280728107589387,False,Left Foot,Open Play,0,0,3,Normal
-13.147243057006289,0.05785722853348424,False,Left Foot,Open Play,0,0,4,Normal
-29.209758643302756,0.06363086105383597,False,Right Foot,Open Play,0,0,2,Normal
-27.631865662672862,0.07058025405545493,False,Left Foot,Free Kick,0,0,0,Normal
-16.62077013859466,0.06334842563366565,False,Left Foot,Open Play,1,0,2,Normal
-15.559562975867928,0.06207092583428718,False,Left Foot,Open Play,0,0,3,Normal
-12.658988901172165,0.05710705369869626,False,Left Foot,Open Play,0,0,2,Normal
-7.502666192761077,0.05781881236033611,False,Head,Open Play,0,0,4,Normal
-22.28115795913669,0.06715763252765364,False,Left Foot,Open Play,0,0,4,Half Volley
-17.184004189943625,0.06357716733427604,False,Left Foot,Open Play,1,0,1,Normal
-20.549695861496343,0.06529626453667452,False,Right Foot,Open Play,0,0,2,Normal
-12.120231020900555,0.0603605227844874,False,Head,Open Play,0,0,3,Normal
-25.515485494107295,0.06233059896050673,False,Left Foot,Free Kick,0,0,0,Normal
-17.578680269007688,0.06088694547369762,False,Left Foot,Open Play,0,0,4,Normal
-7.280109889280515,0.05840908288957325,True,Right Foot,Open Play,0,0,3,Normal
-14.07195793057953,0.05445134660775584,False,Right Foot,Open Play,0,0,1,Normal
-6.280127387243031,0.0579022489656003,False,Right Foot,Open Play,1,0,4,Volley
-8.575546629807336,0.05866084589341675,True,Right Foot,Open Play,0,0,3,Normal
-34.55792239125495,0.05733837637309436,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-8.249242389456134,0.05621139891379257,True,Right Foot,Open Play,0,0,4,Normal
-8.374365647617738,0.05858632741833632,False,Head,Open Play,0,0,4,Normal
-33.616811270553306,0.06269709488245304,False,Right Foot,Open Play,0,0,1,Normal
-34.02116987994387,0.06921929479251492,False,Right Foot,Open Play,0,0,2,Normal
-11.700427342623007,0.05943049385923767,False,Left Foot,Penalty,0,0,0,Normal
-27.294688127912362,0.06843776786061911,False,Left Foot,Open Play,0,0,2,Normal
-16.44384383287558,0.06195347526629286,True,Left Foot,Open Play,0,0,4,Normal
-19.167159413955947,0.06499841440485711,False,Left Foot,Open Play,0,0,0,Half Volley
-26.878430013674535,0.05076764621769887,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266490,Ivan Rakitić,Barcelona,26.34729587642724,0.05856433292340143,False,Right Foot,Open Play,1,0,0,Volley
+266490,Lionel Andrés Messi Cuccittini,Barcelona,25.81414341015406,0.0686538943791228,False,Left Foot,Open Play,0,0,3,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,19.004210059878837,0.06280728107589387,False,Left Foot,Open Play,0,0,3,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,13.147243057006289,0.05785722853348424,False,Left Foot,Open Play,0,0,4,Normal
+266490,José Antonio García Rabasco,Levante UD,29.209758643302756,0.06363086105383597,False,Right Foot,Open Play,0,0,2,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,27.631865662672862,0.07058025405545493,False,Left Foot,Free Kick,0,0,0,Normal
+266490,Neymar da Silva Santos Junior,Barcelona,16.62077013859466,0.06334842563366565,False,Left Foot,Open Play,1,0,2,Normal
+266490,Nabil Ghilas,Levante UD,15.559562975867928,0.06207092583428718,False,Left Foot,Open Play,0,0,3,Normal
+266490,Munir El Haddadi Mohamed,Barcelona,12.658988901172165,0.05710705369869626,False,Left Foot,Open Play,0,0,2,Normal
+266490,Marc Bartra Aregall,Barcelona,7.502666192761077,0.05781881236033611,False,Head,Open Play,0,0,4,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,22.28115795913669,0.06715763252765364,False,Left Foot,Open Play,0,0,4,Half Volley
+266490,Sandro Ramírez Castillo,Barcelona,17.184004189943625,0.06357716733427604,False,Left Foot,Open Play,1,0,1,Normal
+266490,Neymar da Silva Santos Junior,Barcelona,20.549695861496343,0.06529626453667452,False,Right Foot,Open Play,0,0,2,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,12.120231020900555,0.0603605227844874,False,Head,Open Play,0,0,3,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,25.515485494107295,0.06233059896050673,False,Left Foot,Free Kick,0,0,0,Normal
+266490,Munir El Haddadi Mohamed,Barcelona,17.578680269007688,0.06088694547369762,False,Left Foot,Open Play,0,0,4,Normal
+266490,Marc Bartra Aregall,Barcelona,7.280109889280515,0.05840908288957325,True,Right Foot,Open Play,0,0,3,Normal
+266490,Víctor Camarasa Ferrando,Levante UD,14.07195793057953,0.05445134660775584,False,Right Foot,Open Play,0,0,1,Normal
+266490,Neymar da Silva Santos Junior,Barcelona,6.280127387243031,0.0579022489656003,False,Right Foot,Open Play,1,0,4,Volley
+266490,Neymar da Silva Santos Junior,Barcelona,8.575546629807336,0.05866084589341675,True,Right Foot,Open Play,0,0,3,Normal
+266490,Roger Martí Salvador,Levante UD,34.55792239125495,0.05733837637309436,False,Right Foot,Open Play,0,0,1,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+266490,Víctor Casadesús Castaño,Levante UD,8.249242389456134,0.05621139891379257,True,Right Foot,Open Play,0,0,4,Normal
+266490,Jefferson Andrés Lerma Solís,Levante UD,8.374365647617738,0.05858632741833632,False,Head,Open Play,0,0,4,Normal
+266490,Víctor Camarasa Ferrando,Levante UD,33.616811270553306,0.06269709488245304,False,Right Foot,Open Play,0,0,1,Normal
+266490,Jefferson Andrés Lerma Solís,Levante UD,34.02116987994387,0.06921929479251492,False,Right Foot,Open Play,0,0,2,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,11.700427342623007,0.05943049385923767,False,Left Foot,Penalty,0,0,0,Normal
+266490,Deyverson Brum Silva Acosta,Levante UD,27.294688127912362,0.06843776786061911,False,Left Foot,Open Play,0,0,2,Normal
+266490,Lionel Andrés Messi Cuccittini,Barcelona,16.44384383287558,0.06195347526629286,True,Left Foot,Open Play,0,0,4,Normal
+266490,Antonio García Aranda,Levante UD,19.167159413955947,0.06499841440485711,False,Left Foot,Open Play,0,0,0,Half Volley
+266490,Deyverson Brum Silva Acosta,Levante UD,26.878430013674535,0.05076764621769887,False,Left Foot,Open Play,0,0,1,Normal

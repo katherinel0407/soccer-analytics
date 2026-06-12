@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.621187519728398,0.06870088080002863,False,Right Foot,Open Play,0,0,2,Half Volley
-33.39236439667008,0.06340905245471129,False,Left Foot,Free Kick,0,0,0,Normal
-13.931618714277244,0.05271511497910558,False,Right Foot,Open Play,0,1,2,Normal
-13.124404748406684,0.058848750154280066,False,Right Foot,Open Play,1,1,1,Normal
-10.793516572461456,0.06014747125531314,False,Left Foot,Open Play,0,1,3,Normal
-31.000645154577025,0.06830018263621128,False,Right Foot,Open Play,1,1,1,Half Volley
-29.8,0.0613087069521441,False,Right Foot,Open Play,0,0,1,Half Volley
-13.464768843169939,0.05327406255982819,False,Right Foot,Open Play,1,0,1,Normal
-10.225947388873067,0.059348026585074334,False,Head,Open Play,0,0,3,Normal
-17.44276354251241,0.06402680106788591,False,Right Foot,Open Play,1,1,2,Half Volley
-17.440183485273312,0.0640444612605043,False,Left Foot,Open Play,1,1,2,Half Volley
-24.768124676688785,0.06881015157943499,False,Right Foot,Free Kick,0,0,0,Normal
-10.373041983911948,0.057497012492115876,False,Head,Open Play,0,1,2,Normal
-14.586637720873174,0.055958081165269735,False,Right Foot,Open Play,0,0,3,Normal
-22.641775548750594,0.06569547716659954,False,Right Foot,Open Play,0,0,0,Normal
-28.652574055396833,0.06984644649732397,False,Right Foot,Open Play,0,1,2,Half Volley
-16.196913286178944,0.06324780378047333,False,Left Foot,Open Play,1,1,2,Volley
-6.466065264130887,0.054475145731932226,False,Right Foot,Open Play,1,1,4,Volley
-11.941942890501533,0.059189322958095085,False,Head,Open Play,0,1,4,Normal
-29.029984498790213,0.058722609394971335,False,Right Foot,Open Play,0,0,1,Normal
-16.269296235547497,0.06139448688592772,False,Left Foot,Open Play,0,1,1,Normal
-17.241809649801848,0.061341741860536335,False,Left Foot,Open Play,0,1,2,Volley
-30.8084404019418,0.061555603242603445,False,Right Foot,Open Play,1,1,1,Volley
-9.047098982546835,0.05685998394674236,False,Right Foot,Open Play,0,1,2,Half Volley
-9.437160589923222,0.059471658058337415,False,Head,Open Play,0,0,3,Normal
-20.00924786192625,0.06066896364941115,False,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890482,Sandro Wagner,Darmstadt 98,27.621187519728398,0.06870088080002863,False,Right Foot,Open Play,0,0,2,Half Volley
+3890482,Konstantin Rausch,Darmstadt 98,33.39236439667008,0.06340905245471129,False,Left Foot,Free Kick,0,0,0,Normal
+3890482,Julian Baumgartlinger,FSV Mainz 05,13.931618714277244,0.05271511497910558,False,Right Foot,Open Play,0,1,2,Normal
+3890482,Jairo Samperio Bustara,FSV Mainz 05,13.124404748406684,0.058848750154280066,False,Right Foot,Open Play,1,1,1,Normal
+3890482,Tobias Kempe,Darmstadt 98,10.793516572461456,0.06014747125531314,False,Left Foot,Open Play,0,1,3,Normal
+3890482,Peter Niemeyer,Darmstadt 98,31.000645154577025,0.06830018263621128,False,Right Foot,Open Play,1,1,1,Half Volley
+3890482,Jérôme Gondorf,Darmstadt 98,29.8,0.0613087069521441,False,Right Foot,Open Play,0,0,1,Half Volley
+3890482,Pablo Ezequiel De Blasis,FSV Mainz 05,13.464768843169939,0.05327406255982819,False,Right Foot,Open Play,1,0,1,Normal
+3890482,Pablo Ezequiel De Blasis,FSV Mainz 05,10.225947388873067,0.059348026585074334,False,Head,Open Play,0,0,3,Normal
+3890482,Luca Caldirola,Darmstadt 98,17.44276354251241,0.06402680106788591,False,Right Foot,Open Play,1,1,2,Half Volley
+3890482,Luca Caldirola,Darmstadt 98,17.440183485273312,0.0640444612605043,False,Left Foot,Open Play,1,1,2,Half Volley
+3890482,Pablo Ezequiel De Blasis,FSV Mainz 05,24.768124676688785,0.06881015157943499,False,Right Foot,Free Kick,0,0,0,Normal
+3890482,Sandro Wagner,Darmstadt 98,10.373041983911948,0.057497012492115876,False,Head,Open Play,0,1,2,Normal
+3890482,Jhon Andrés Córdoba Copete,FSV Mainz 05,14.586637720873174,0.055958081165269735,False,Right Foot,Open Play,0,0,3,Normal
+3890482,Julian Baumgartlinger,FSV Mainz 05,22.641775548750594,0.06569547716659954,False,Right Foot,Open Play,0,0,0,Normal
+3890482,Sandro Wagner,Darmstadt 98,28.652574055396833,0.06984644649732397,False,Right Foot,Open Play,0,1,2,Half Volley
+3890482,Konstantin Rausch,Darmstadt 98,16.196913286178944,0.06324780378047333,False,Left Foot,Open Play,1,1,2,Volley
+3890482,Pablo Ezequiel De Blasis,FSV Mainz 05,6.466065264130887,0.054475145731932226,False,Right Foot,Open Play,1,1,4,Volley
+3890482,Peter Niemeyer,Darmstadt 98,11.941942890501533,0.059189322958095085,False,Head,Open Play,0,1,4,Normal
+3890482,Peter Niemeyer,Darmstadt 98,29.029984498790213,0.058722609394971335,False,Right Foot,Open Play,0,0,1,Normal
+3890482,Mario Vrančić,Darmstadt 98,16.269296235547497,0.06139448688592772,False,Left Foot,Open Play,0,1,1,Normal
+3890482,Sandro Wagner,Darmstadt 98,17.241809649801848,0.061341741860536335,False,Left Foot,Open Play,0,1,2,Volley
+3890482,Danny Latza,FSV Mainz 05,30.8084404019418,0.061555603242603445,False,Right Foot,Open Play,1,1,1,Volley
+3890482,Tobias Kempe,Darmstadt 98,9.047098982546835,0.05685998394674236,False,Right Foot,Open Play,0,1,2,Half Volley
+3890482,Alexander Hack,FSV Mainz 05,9.437160589923222,0.059471658058337415,False,Head,Open Play,0,0,3,Normal
+3890482,Danny Latza,FSV Mainz 05,20.00924786192625,0.06066896364941115,False,Left Foot,Open Play,1,0,1,Volley

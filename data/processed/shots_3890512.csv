@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.165136496870073,0.059585343828907414,False,Head,Open Play,0,0,4,Normal
-26.027869678481178,0.058918461570431326,False,Left Foot,Open Play,0,0,3,Normal
-26.061849512266015,0.06731094383476471,False,Right Foot,Free Kick,0,0,0,Normal
-20.181674856165923,0.05644506967741613,False,Left Foot,Open Play,0,0,1,Normal
-15.76959099025717,0.06253513637956153,False,Left Foot,Open Play,1,0,1,Normal
-15.814234094637655,0.06299634448153074,False,Right Foot,Open Play,1,0,1,Volley
-10.182828683622246,0.0596412236454836,False,Right Foot,Open Play,1,0,2,Normal
-28.111385593741193,0.06821598945371818,False,Left Foot,Open Play,0,0,1,Normal
-17.913681921927715,0.054047855516245843,False,Right Foot,Open Play,1,0,1,Normal
-15.749285698088027,0.06257961954919157,False,Left Foot,Open Play,0,1,1,Normal
-10.084145972763386,0.05236933631061983,False,Right Foot,Open Play,1,0,1,Volley
-8.71435597161374,0.05840087237108446,False,Head,Open Play,0,1,4,Normal
-14.138246001537816,0.05862503385421111,False,Left Foot,Open Play,1,1,3,Volley
-21.279332696304184,0.06169342379488826,True,Right Foot,Open Play,0,0,2,Normal
-11.101801655587256,0.06029085652538983,False,Head,Open Play,0,0,3,Normal
-16.843396332094073,0.051860578946712206,False,Right Foot,Open Play,0,0,2,Normal
-5.780138406647369,0.05586787132232452,True,Right Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890512,Luc Castaignos,Eintracht Frankfurt,10.165136496870073,0.059585343828907414,False,Head,Open Play,0,0,4,Normal
+3890512,Andrej Kramarić,Hoffenheim,26.027869678481178,0.058918461570431326,False,Left Foot,Open Play,0,0,3,Normal
+3890512,David Ángel Abraham,Eintracht Frankfurt,26.061849512266015,0.06731094383476471,False,Right Foot,Free Kick,0,0,0,Normal
+3890512,Sonny Kittel,Eintracht Frankfurt,20.181674856165923,0.05644506967741613,False,Left Foot,Open Play,0,0,1,Normal
+3890512,Sonny Kittel,Eintracht Frankfurt,15.76959099025717,0.06253513637956153,False,Left Foot,Open Play,1,0,1,Normal
+3890512,Andrej Kramarić,Hoffenheim,15.814234094637655,0.06299634448153074,False,Right Foot,Open Play,1,0,1,Volley
+3890512,Andrej Kramarić,Hoffenheim,10.182828683622246,0.0596412236454836,False,Right Foot,Open Play,1,0,2,Normal
+3890512,Marc Stendera,Eintracht Frankfurt,28.111385593741193,0.06821598945371818,False,Left Foot,Open Play,0,0,1,Normal
+3890512,Luc Castaignos,Eintracht Frankfurt,17.913681921927715,0.054047855516245843,False,Right Foot,Open Play,1,0,1,Normal
+3890512,Änis Ben-Hatira,Eintracht Frankfurt,15.749285698088027,0.06257961954919157,False,Left Foot,Open Play,0,1,1,Normal
+3890512,Stefan Aigner,Eintracht Frankfurt,10.084145972763386,0.05236933631061983,False,Right Foot,Open Play,1,0,1,Volley
+3890512,Carlos Augusto Zambrano Ochandarte,Eintracht Frankfurt,8.71435597161374,0.05840087237108446,False,Head,Open Play,0,1,4,Normal
+3890512,Andrej Kramarić,Hoffenheim,14.138246001537816,0.05862503385421111,False,Left Foot,Open Play,1,1,3,Volley
+3890512,Nadiem Amiri,Hoffenheim,21.279332696304184,0.06169342379488826,True,Right Foot,Open Play,0,0,2,Normal
+3890512,Sonny Kittel,Eintracht Frankfurt,11.101801655587256,0.06029085652538983,False,Head,Open Play,0,0,3,Normal
+3890512,Mark Uth,Hoffenheim,16.843396332094073,0.051860578946712206,False,Right Foot,Open Play,0,0,2,Normal
+3890512,Mark Uth,Hoffenheim,5.780138406647369,0.05586787132232452,True,Right Foot,Open Play,1,0,3,Normal

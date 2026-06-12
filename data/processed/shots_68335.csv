@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.64814641164938,0.07040064593641307,False,Right Foot,Open Play,0,0,0,Normal
-21.227576404290716,0.06490699842323328,True,Right Foot,Open Play,1,0,0,Normal
-29.213866570517506,0.07195018270933928,False,Left Foot,Free Kick,0,0,0,Normal
-21.56038033059714,0.052322462706060766,False,Right Foot,Open Play,1,0,0,Normal
-13.920129309744212,0.05612417721185051,True,Left Foot,Open Play,0,0,1,Normal
-11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
-9.84784240328814,0.05975237858695405,False,Head,Open Play,0,1,2,Normal
-11.307077429645556,0.06051530655609081,False,Right Foot,Open Play,0,0,0,Normal
-6.754257916307306,0.056273992726840125,False,Head,Open Play,0,1,2,Normal
-28.18102198288771,0.05799554701750187,False,Left Foot,Open Play,0,0,1,Normal
-14.358969322343436,0.06105518776670355,False,Right Foot,Open Play,0,0,4,Normal
-9.615092303249096,0.05891362416800801,False,Right Foot,Open Play,1,0,3,Half Volley
-9.241753080449618,0.05764339729140825,True,Left Foot,Open Play,1,0,0,Half Volley
-13.8538803228554,0.054493298848087464,False,Left Foot,Open Play,0,0,1,Normal
-25.589450951515165,0.06242265359302972,False,Left Foot,Open Play,0,0,2,Normal
-4.25205832509386,0.05684140036139826,False,Right Foot,Open Play,1,0,2,Normal
-46.68618639383602,0.08658858696640191,False,Right Foot,Open Play,0,0,2,Normal
-30.088037490005892,0.06660919680157998,False,Right Foot,Open Play,1,0,1,Normal
-16.75052237991401,0.06108581860565708,False,Left Foot,Open Play,1,0,2,Volley
-18.001111076819676,0.06210559519732751,False,Right Foot,Open Play,0,0,1,Lob
-22.308070288574946,0.06679416153481525,False,Right Foot,Open Play,0,0,1,Normal
-17.182840277439585,0.06362346495927174,False,Right Foot,Open Play,0,0,2,Normal
-20.40833163195855,0.06230045678440217,False,Right Foot,Open Play,0,0,1,Normal
-7.057619995437555,0.05726586365877589,True,Head,Open Play,0,1,2,Normal
-25.45918301909942,0.06931329776750873,False,Right Foot,Open Play,0,0,2,Normal
-14.901342221424215,0.06253560648238701,False,Left Foot,Open Play,0,0,3,Normal
-27.518175811634027,0.06613089671030196,False,Right Foot,Open Play,1,0,1,Volley
-15.008331019803633,0.056462165251043826,False,Right Foot,Open Play,0,0,2,Normal
-34.48187929913333,0.07517380214631035,False,Right Foot,Open Play,0,1,1,Normal
-23.249086003540004,0.0674974580880242,False,Right Foot,Open Play,0,0,1,Normal
-14.673104647619745,0.05858396664919411,False,Head,Open Play,0,0,4,Normal
-29.04961273407961,0.07148470342487784,False,Left Foot,Open Play,0,0,3,Normal
-18.104143172213373,0.06418355403662471,True,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68335,Ronaldo de Assis Moreira,Barcelona,27.64814641164938,0.07040064593641307,False,Right Foot,Open Play,0,0,0,Normal
+68335,Ruud van Nistelrooy,Real Madrid,21.227576404290716,0.06490699842323328,True,Right Foot,Open Play,1,0,0,Normal
+68335,José Maria Gutiérrez Hernández,Real Madrid,29.213866570517506,0.07195018270933928,False,Left Foot,Free Kick,0,0,0,Normal
+68335,Samuel Eto''o Fils,Barcelona,21.56038033059714,0.052322462706060766,False,Right Foot,Open Play,1,0,0,Normal
+68335,Lionel Andrés Messi Cuccittini,Barcelona,13.920129309744212,0.05612417721185051,True,Left Foot,Open Play,0,0,1,Normal
+68335,Ruud van Nistelrooy,Real Madrid,11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
+68335,Ruud van Nistelrooy,Real Madrid,9.84784240328814,0.05975237858695405,False,Head,Open Play,0,1,2,Normal
+68335,Samuel Eto''o Fils,Barcelona,11.307077429645556,0.06051530655609081,False,Right Foot,Open Play,0,0,0,Normal
+68335,Ronaldo de Assis Moreira,Barcelona,6.754257916307306,0.056273992726840125,False,Head,Open Play,0,1,2,Normal
+68335,Lionel Andrés Messi Cuccittini,Barcelona,28.18102198288771,0.05799554701750187,False,Left Foot,Open Play,0,0,1,Normal
+68335,Samuel Eto''o Fils,Barcelona,14.358969322343436,0.06105518776670355,False,Right Foot,Open Play,0,0,4,Normal
+68335,Ronaldo de Assis Moreira,Barcelona,9.615092303249096,0.05891362416800801,False,Right Foot,Open Play,1,0,3,Half Volley
+68335,Lionel Andrés Messi Cuccittini,Barcelona,9.241753080449618,0.05764339729140825,True,Left Foot,Open Play,1,0,0,Half Volley
+68335,Lionel Andrés Messi Cuccittini,Barcelona,13.8538803228554,0.054493298848087464,False,Left Foot,Open Play,0,0,1,Normal
+68335,Gonzalo Gerardo Higuaín,Real Madrid,25.589450951515165,0.06242265359302972,False,Left Foot,Open Play,0,0,2,Normal
+68335,Samuel Eto''o Fils,Barcelona,4.25205832509386,0.05684140036139826,False,Right Foot,Open Play,1,0,2,Normal
+68335,Ruud van Nistelrooy,Real Madrid,46.68618639383602,0.08658858696640191,False,Right Foot,Open Play,0,0,2,Normal
+68335,Andrés Iniesta Luján,Barcelona,30.088037490005892,0.06660919680157998,False,Right Foot,Open Play,1,0,1,Normal
+68335,Gonzalo Gerardo Higuaín,Real Madrid,16.75052237991401,0.06108581860565708,False,Left Foot,Open Play,1,0,2,Volley
+68335,Ruud van Nistelrooy,Real Madrid,18.001111076819676,0.06210559519732751,False,Right Foot,Open Play,0,0,1,Lob
+68335,Ruud van Nistelrooy,Real Madrid,22.308070288574946,0.06679416153481525,False,Right Foot,Open Play,0,0,1,Normal
+68335,Ruud van Nistelrooy,Real Madrid,17.182840277439585,0.06362346495927174,False,Right Foot,Open Play,0,0,2,Normal
+68335,Gonzalo Gerardo Higuaín,Real Madrid,20.40833163195855,0.06230045678440217,False,Right Foot,Open Play,0,0,1,Normal
+68335,Sergio Ramos García,Real Madrid,7.057619995437555,0.05726586365877589,True,Head,Open Play,0,1,2,Normal
+68335,Andrés Iniesta Luján,Barcelona,25.45918301909942,0.06931329776750873,False,Right Foot,Open Play,0,0,2,Normal
+68335,Andrés Iniesta Luján,Barcelona,14.901342221424215,0.06253560648238701,False,Left Foot,Open Play,0,0,3,Normal
+68335,Rafael Márquez Álvarez,Barcelona,27.518175811634027,0.06613089671030196,False,Right Foot,Open Play,1,0,1,Volley
+68335,Ruud van Nistelrooy,Real Madrid,15.008331019803633,0.056462165251043826,False,Right Foot,Open Play,0,0,2,Normal
+68335,Róbson de Souza,Real Madrid,34.48187929913333,0.07517380214631035,False,Right Foot,Open Play,0,1,1,Normal
+68335,Andrés Iniesta Luján,Barcelona,23.249086003540004,0.0674974580880242,False,Right Foot,Open Play,0,0,1,Normal
+68335,Eiður Smári Guðjohnsen,Barcelona,14.673104647619745,0.05858396664919411,False,Head,Open Play,0,0,4,Normal
+68335,Lionel Andrés Messi Cuccittini,Barcelona,29.04961273407961,0.07148470342487784,False,Left Foot,Open Play,0,0,3,Normal
+68335,Lionel Andrés Messi Cuccittini,Barcelona,18.104143172213373,0.06418355403662471,True,Left Foot,Open Play,0,0,1,Normal

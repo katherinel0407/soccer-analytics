@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.489992295835186,0.05578968566407932,False,Left Foot,Open Play,0,0,2,Normal
-32.34470590374877,0.0745276487833381,False,Right Foot,Open Play,0,0,2,Normal
-40.21803078222503,0.0813742902324739,False,Right Foot,Free Kick,0,0,0,Normal
-16.218816233005416,0.06290866783582191,False,Right Foot,Open Play,1,0,2,Half Volley
-26.60075186907318,0.0636417067534969,False,Left Foot,Free Kick,0,0,0,Normal
-10.0568384694197,0.05870099009808195,True,Left Foot,Open Play,0,0,2,Normal
-11.101801655587261,0.05968687041923784,True,Left Foot,Open Play,0,0,2,Normal
-11.053506231056277,0.06034613489410618,False,Right Foot,Open Play,1,1,1,Normal
-31.346451154795812,0.06426332617151387,False,Left Foot,Open Play,0,1,2,Normal
-3.9204591567825364,0.05665517313816082,True,Right Foot,Open Play,1,0,3,Normal
-20.306649157357306,0.060173863085194276,False,Right Foot,Open Play,0,0,3,Normal
-8.414867794564573,0.05890976639532018,True,Head,Open Play,0,0,2,Normal
-9.35200513259055,0.056830995522423045,False,Right Foot,Open Play,0,1,3,Half Volley
-47.69423445239477,0.0472867897236288,True,Right Foot,Open Play,0,0,0,Normal
-6.338769596696189,0.05749906480965128,False,Head,Open Play,0,1,6,Normal
-18.194504664870657,0.05689149248663479,False,Left Foot,Open Play,1,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275144,Inessa Kaagman,Everton LFC,6.489992295835186,0.05578968566407932,False,Left Foot,Open Play,0,0,2,Normal
+2275144,Jane Ross,Manchester United,32.34470590374877,0.0745276487833381,False,Right Foot,Open Play,0,0,2,Normal
+2275144,Ella Toone,Manchester United,40.21803078222503,0.0813742902324739,False,Right Foot,Free Kick,0,0,0,Normal
+2275144,Ella Toone,Manchester United,16.218816233005416,0.06290866783582191,False,Right Foot,Open Play,1,0,2,Half Volley
+2275144,Danielle Turner,Everton LFC,26.60075186907318,0.0636417067534969,False,Left Foot,Free Kick,0,0,0,Normal
+2275144,Leah Galton,Manchester United,10.0568384694197,0.05870099009808195,True,Left Foot,Open Play,0,0,2,Normal
+2275144,Leah Galton,Manchester United,11.101801655587261,0.05968687041923784,True,Left Foot,Open Play,0,0,2,Normal
+2275144,Danielle Turner,Everton LFC,11.053506231056277,0.06034613489410618,False,Right Foot,Open Play,1,1,1,Normal
+2275144,Chantelle Boye-Hlorkah,Everton LFC,31.346451154795812,0.06426332617151387,False,Left Foot,Open Play,0,1,2,Normal
+2275144,Ella Toone,Manchester United,3.9204591567825364,0.05665517313816082,True,Right Foot,Open Play,1,0,3,Normal
+2275144,Leah Galton,Manchester United,20.306649157357306,0.060173863085194276,False,Right Foot,Open Play,0,0,3,Normal
+2275144,Danielle Turner,Everton LFC,8.414867794564573,0.05890976639532018,True,Head,Open Play,0,0,2,Normal
+2275144,Hannah Cain,Everton LFC,9.35200513259055,0.056830995522423045,False,Right Foot,Open Play,0,1,3,Half Volley
+2275144,Lucy Hope,Everton LFC,47.69423445239477,0.0472867897236288,True,Right Foot,Open Play,0,0,0,Normal
+2275144,Lucy Hope,Everton LFC,6.338769596696189,0.05749906480965128,False,Head,Open Play,0,1,6,Normal
+2275144,Lucy Hope,Everton LFC,18.194504664870657,0.05689149248663479,False,Left Foot,Open Play,1,1,1,Half Volley

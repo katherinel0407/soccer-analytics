@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.504837954651448,0.06291127830184279,False,Left Foot,Open Play,1,0,1,Half Volley
-30.10415253748227,0.0658784176730424,False,Right Foot,Open Play,0,1,1,Normal
-5.503635162326804,0.05746458504166642,True,Right Foot,Open Play,1,0,2,Normal
-32.88920795641026,0.06213112008280061,False,Right Foot,Open Play,0,0,1,Half Volley
-31.424990055686568,0.07372721159436674,False,Left Foot,Open Play,0,0,1,Half Volley
-7.9404030124421245,0.05613541536878863,False,Head,Open Play,0,0,2,Diving Header
-10.61037228376083,0.05507715704005577,False,Right Foot,Open Play,1,0,2,Half Volley
-11.954078801814891,0.056340587508562814,False,Right Foot,Open Play,0,0,3,Normal
-14.897315194356327,0.060123807989970454,False,Right Foot,Open Play,0,1,2,Half Volley
-35.256772399072496,0.07684900086656776,False,Left Foot,Open Play,1,0,0,Half Volley
-15.34828980701107,0.06252956350730632,False,Right Foot,Open Play,0,0,2,Normal
-32.919295253695815,0.0710063172153046,False,Right Foot,Free Kick,0,0,0,Normal
-30.5196657910928,0.06656833648426347,False,Right Foot,Open Play,1,0,0,Normal
-6.403124237432854,0.05725570600496203,False,Head,Open Play,0,0,3,Normal
-7.156116265125937,0.058346889091763866,False,Right Foot,Open Play,0,0,3,Volley
-32.205123815939594,0.07436358553180823,True,Right Foot,Open Play,1,0,0,Normal
-34.391423349434085,0.056478941158631515,True,Right Foot,Free Kick,0,0,0,Normal
-24.318100254748515,0.060851558139895845,False,Right Foot,Open Play,1,0,0,Normal
-11.200892821556682,0.0602835032666208,False,Right Foot,Open Play,0,0,3,Normal
-31.120732639190866,0.0581802541901669,False,Right Foot,Open Play,0,0,1,Normal
-14.975313018431374,0.06139619803579336,False,Head,Open Play,0,1,2,Normal
-24.175400720567172,0.06825442122277074,False,Left Foot,Open Play,0,0,1,Normal
-32.921877224727034,0.06866649552691448,False,Right Foot,Open Play,1,0,0,Normal
-29.926075586351118,0.0725514205682079,False,Right Foot,Open Play,0,0,0,Normal
-14.508618128546908,0.062291141837837044,False,Left Foot,Open Play,0,0,2,Normal
-7.818567643756747,0.05793397546096609,True,Left Foot,Open Play,1,0,2,Normal
-25.419087316424243,0.05828257535194953,False,Right Foot,Open Play,0,0,2,Normal
-33.734255586866,0.059874461159927596,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69172,Diego Tardelli Martins,Real Betis,15.504837954651448,0.06291127830184279,False,Left Foot,Open Play,1,0,1,Half Volley
+69172,Andrés Iniesta Luján,Barcelona,30.10415253748227,0.0658784176730424,False,Right Foot,Open Play,0,1,1,Normal
+69172,Henrik Larsson,Barcelona,5.503635162326804,0.05746458504166642,True,Right Foot,Open Play,1,0,2,Normal
+69172,Juliano Haus Belletti,Barcelona,32.88920795641026,0.06213112008280061,False,Right Foot,Open Play,0,0,1,Half Volley
+69172,Samuel Eto''o Fils,Barcelona,31.424990055686568,0.07372721159436674,False,Left Foot,Open Play,0,0,1,Half Volley
+69172,Henrik Larsson,Barcelona,7.9404030124421245,0.05613541536878863,False,Head,Open Play,0,0,2,Diving Header
+69172,Samuel Eto''o Fils,Barcelona,10.61037228376083,0.05507715704005577,False,Right Foot,Open Play,1,0,2,Half Volley
+69172,Arturo García Muñoz,Real Betis,11.954078801814891,0.056340587508562814,False,Right Foot,Open Play,0,0,3,Normal
+69172,Daniel Martín Alexandre,Real Betis,14.897315194356327,0.060123807989970454,False,Right Foot,Open Play,0,1,2,Half Volley
+69172,Luis Fernández Gutiérrez,Real Betis,35.256772399072496,0.07684900086656776,False,Left Foot,Open Play,1,0,0,Half Volley
+69172,Samuel Eto''o Fils,Barcelona,15.34828980701107,0.06252956350730632,False,Right Foot,Open Play,0,0,2,Normal
+69172,Ronaldo de Assis Moreira,Barcelona,32.919295253695815,0.0710063172153046,False,Right Foot,Free Kick,0,0,0,Normal
+69172,Arturo García Muñoz,Real Betis,30.5196657910928,0.06656833648426347,False,Right Foot,Open Play,1,0,0,Normal
+69172,Henrik Larsson,Barcelona,6.403124237432854,0.05725570600496203,False,Head,Open Play,0,0,3,Normal
+69172,Samuel Eto''o Fils,Barcelona,7.156116265125937,0.058346889091763866,False,Right Foot,Open Play,0,0,3,Volley
+69172,Ronaldo de Assis Moreira,Barcelona,32.205123815939594,0.07436358553180823,True,Right Foot,Open Play,1,0,0,Normal
+69172,Joaquín Sánchez Rodríguez,Real Betis,34.391423349434085,0.056478941158631515,True,Right Foot,Free Kick,0,0,0,Normal
+69172,Alberto Rivera Pizarro,Real Betis,24.318100254748515,0.060851558139895845,False,Right Foot,Open Play,1,0,0,Normal
+69172,Luís Eduardo Schmidt,Real Betis,11.200892821556682,0.0602835032666208,False,Right Foot,Open Play,0,0,3,Normal
+69172,Fernando Varela Ramos,Real Betis,31.120732639190866,0.0581802541901669,False,Right Foot,Open Play,0,0,1,Normal
+69172,Luís Eduardo Schmidt,Real Betis,14.975313018431374,0.06139619803579336,False,Head,Open Play,0,1,2,Normal
+69172,Thiago Motta,Barcelona,24.175400720567172,0.06825442122277074,False,Left Foot,Open Play,0,0,1,Normal
+69172,Fernando Varela Ramos,Real Betis,32.921877224727034,0.06866649552691448,False,Right Foot,Open Play,1,0,0,Normal
+69172,Anderson Luís de Souza,Barcelona,29.926075586351118,0.0725514205682079,False,Right Foot,Open Play,0,0,0,Normal
+69172,Lionel Andrés Messi Cuccittini,Barcelona,14.508618128546908,0.062291141837837044,False,Left Foot,Open Play,0,0,2,Normal
+69172,Lionel Andrés Messi Cuccittini,Barcelona,7.818567643756747,0.05793397546096609,True,Left Foot,Open Play,1,0,2,Normal
+69172,Anderson Luís de Souza,Barcelona,25.419087316424243,0.05828257535194953,False,Right Foot,Open Play,0,0,2,Normal
+69172,Samuel Eto''o Fils,Barcelona,33.734255586866,0.059874461159927596,False,Right Foot,Free Kick,0,0,0,Normal

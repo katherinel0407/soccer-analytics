@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.33926868252208,0.06629065564172888,False,Right Foot,Open Play,0,1,1,Half Volley
-22.084383622822717,0.06689471008766155,False,Right Foot,Open Play,1,0,3,Normal
-9.570788891204325,0.0579031340100018,False,Head,Open Play,0,0,1,Normal
-28.58706000973168,0.05953689842902535,False,Left Foot,Open Play,0,0,0,Half Volley
-11.180339887498949,0.05846492305304546,True,Left Foot,Open Play,1,1,1,Normal
-16.32482771731451,0.0633079704911487,True,Right Foot,Open Play,1,0,0,Volley
-37.64359175211632,0.07833343019872183,False,Left Foot,Open Play,0,0,1,Normal
-9.563472172804186,0.05892922620226003,True,Left Foot,Open Play,1,0,2,Normal
-17.133009076049657,0.06378532935672186,False,Left Foot,Open Play,1,0,1,Volley
-14.152384958020324,0.06211883752306241,False,Left Foot,Open Play,0,1,3,Half Volley
-24.61300469264166,0.06858497188635236,False,Left Foot,Free Kick,0,0,0,Normal
-17.630087918101825,0.06282008431330804,False,Left Foot,Open Play,1,0,2,Normal
-28.18102198288771,0.07106157809045044,False,Left Foot,Open Play,1,1,1,Normal
-15.678010077812809,0.06120884951494446,False,Left Foot,Open Play,1,1,2,Half Volley
-21.855205329623416,0.06643382980377015,False,Right Foot,Open Play,1,0,0,Normal
-17.607100840285995,0.06180444080640334,False,Right Foot,Open Play,0,1,2,Normal
-12.808200498118385,0.058235971216641154,False,Head,Open Play,0,0,2,Normal
-11.562439189029273,0.06063308492449474,False,Right Foot,Open Play,0,0,3,Normal
-18.45562244954095,0.054960848745450784,False,Right Foot,Open Play,0,0,2,Normal
-16.154875425084533,0.06318092222208133,False,Right Foot,Open Play,0,0,1,Normal
-4.565084884205332,0.05682053920194165,False,Left Foot,Open Play,1,0,5,Volley
-6.506919393998978,0.05511301001381115,True,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266885,Rubén Pardo Gutiérrez,Real Sociedad,24.33926868252208,0.06629065564172888,False,Right Foot,Open Play,0,1,1,Half Volley
+266885,Luis Alberto Suárez Díaz,Barcelona,22.084383622822717,0.06689471008766155,False,Right Foot,Open Play,1,0,3,Normal
+266885,Andrés Iniesta Luján,Barcelona,9.570788891204325,0.0579031340100018,False,Head,Open Play,0,0,1,Normal
+266885,Sergio Canales Madrazo,Real Sociedad,28.58706000973168,0.05953689842902535,False,Left Foot,Open Play,0,0,0,Half Volley
+266885,Neymar da Silva Santos Junior,Barcelona,11.180339887498949,0.05846492305304546,True,Left Foot,Open Play,1,1,1,Normal
+266885,Luis Alberto Suárez Díaz,Barcelona,16.32482771731451,0.0633079704911487,True,Right Foot,Open Play,1,0,0,Volley
+266885,Yuri Berchiche Izeta,Real Sociedad,37.64359175211632,0.07833343019872183,False,Left Foot,Open Play,0,0,1,Normal
+266885,Neymar da Silva Santos Junior,Barcelona,9.563472172804186,0.05892922620226003,True,Left Foot,Open Play,1,0,2,Normal
+266885,Lionel Andrés Messi Cuccittini,Barcelona,17.133009076049657,0.06378532935672186,False,Left Foot,Open Play,1,0,1,Volley
+266885,Lionel Andrés Messi Cuccittini,Barcelona,14.152384958020324,0.06211883752306241,False,Left Foot,Open Play,0,1,3,Half Volley
+266885,Lionel Andrés Messi Cuccittini,Barcelona,24.61300469264166,0.06858497188635236,False,Left Foot,Free Kick,0,0,0,Normal
+266885,Yuri Berchiche Izeta,Real Sociedad,17.630087918101825,0.06282008431330804,False,Left Foot,Open Play,1,0,2,Normal
+266885,Mikel Oyarzabal Ugarte,Real Sociedad,28.18102198288771,0.07106157809045044,False,Left Foot,Open Play,1,1,1,Normal
+266885,Armindo Tué Na Bangna,Real Sociedad,15.678010077812809,0.06120884951494446,False,Left Foot,Open Play,1,1,2,Half Volley
+266885,Armindo Tué Na Bangna,Real Sociedad,21.855205329623416,0.06643382980377015,False,Right Foot,Open Play,1,0,0,Normal
+266885,Armindo Tué Na Bangna,Real Sociedad,17.607100840285995,0.06180444080640334,False,Right Foot,Open Play,0,1,2,Normal
+266885,Mikel Oyarzabal Ugarte,Real Sociedad,12.808200498118385,0.058235971216641154,False,Head,Open Play,0,0,2,Normal
+266885,Armindo Tué Na Bangna,Real Sociedad,11.562439189029273,0.06063308492449474,False,Right Foot,Open Play,0,0,3,Normal
+266885,Lionel Andrés Messi Cuccittini,Barcelona,18.45562244954095,0.054960848745450784,False,Right Foot,Open Play,0,0,2,Normal
+266885,Lionel Andrés Messi Cuccittini,Barcelona,16.154875425084533,0.06318092222208133,False,Right Foot,Open Play,0,0,1,Normal
+266885,Lionel Andrés Messi Cuccittini,Barcelona,4.565084884205332,0.05682053920194165,False,Left Foot,Open Play,1,0,5,Volley
+266885,Lionel Andrés Messi Cuccittini,Barcelona,6.506919393998978,0.05511301001381115,True,Left Foot,Open Play,1,0,1,Normal

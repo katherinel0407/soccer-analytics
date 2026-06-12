@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.202941017470888,0.056307376444433246,False,Right Foot,Open Play,0,0,1,Normal
-29.5296461204668,0.07231380145195304,False,Right Foot,Open Play,0,0,2,Normal
-24.758836806279895,0.06826984195956792,False,Left Foot,Open Play,0,1,1,Normal
-21.37755832643195,0.061735205252442873,False,Right Foot,Open Play,0,0,2,Normal
-20.615528128088304,0.05911638970057927,True,Left Foot,Open Play,0,0,3,Lob
-13.152946437965905,0.060737628198886846,False,Left Foot,Open Play,0,0,2,Lob
-34.23448553724738,0.0724101878320575,False,Left Foot,Open Play,0,0,1,Normal
-26.90724809414742,0.06979644433255193,False,Right Foot,Open Play,0,1,2,Normal
-32.01562118716424,0.05508391314879743,False,Right Foot,Open Play,0,0,1,Normal
-18.027756377319946,0.06443598513218433,False,Right Foot,Open Play,1,0,0,Half Volley
-21.95449840010015,0.06693643838392781,False,Right Foot,Open Play,0,1,1,Normal
-17.72004514666935,0.059669485865194064,False,Left Foot,Open Play,1,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-16.76305461424021,0.059277484737505846,False,Right Foot,Open Play,1,0,0,Volley
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-16.1245154965971,0.05302598799052913,False,Right Foot,Open Play,1,0,0,Volley
-12.0,0.05959154427448477,False,Head,Open Play,0,1,2,Normal
-29.0,0.05335034187259554,False,Right Foot,Open Play,0,0,2,Normal
-31.32091952673165,0.06273458495554032,False,Right Foot,Open Play,0,0,0,Normal
-24.020824298928627,0.06447734515930043,False,Right Foot,Open Play,1,0,1,Volley
-13.45362404707371,0.055521425776118946,False,Head,Open Play,0,0,2,Normal
-10.295630140987,0.053865815894109215,False,Head,Open Play,0,0,3,Normal
-24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,1,Normal
-32.14031735997639,0.06714178583848458,False,Left Foot,Free Kick,0,0,0,Normal
-25.45584412271571,0.06855146572356594,False,Right Foot,Open Play,0,0,0,Normal
-26.92582403567252,0.07004540394100207,False,Right Foot,Free Kick,0,0,0,Normal
-10.770329614269007,0.05913361448862013,False,Right Foot,Open Play,1,0,2,Volley
-26.1725046566048,0.054501872581307176,False,Right Foot,Open Play,0,1,2,Normal
-13.601470508735444,0.05220091341560011,True,Right Foot,Open Play,1,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7559,Hussain Al Mogahwi,Saudi Arabia,27.202941017470888,0.056307376444433246,False,Right Foot,Open Play,0,0,1,Normal
+7559,Salem Mohammed Al Dawsari,Saudi Arabia,29.5296461204668,0.07231380145195304,False,Right Foot,Open Play,0,0,2,Normal
+7559,Marwan Mohsen,Egypt,24.758836806279895,0.06826984195956792,False,Left Foot,Open Play,0,1,1,Normal
+7559,Salem Mohammed Al Dawsari,Saudi Arabia,21.37755832643195,0.061735205252442873,False,Right Foot,Open Play,0,0,2,Normal
+7559,Mohamed Salah,Egypt,20.615528128088304,0.05911638970057927,True,Left Foot,Open Play,0,0,3,Lob
+7559,Mohamed Salah,Egypt,13.152946437965905,0.060737628198886846,False,Left Foot,Open Play,0,0,2,Lob
+7559,Hattan Babhir,Saudi Arabia,34.23448553724738,0.0724101878320575,False,Left Foot,Open Play,0,0,1,Normal
+7559,Yasir Gharsan Al Shahrani,Saudi Arabia,26.90724809414742,0.06979644433255193,False,Right Foot,Open Play,0,1,2,Normal
+7559,Mohammed Al Burayk,Saudi Arabia,32.01562118716424,0.05508391314879743,False,Right Foot,Open Play,0,0,1,Normal
+7559,Mahmoud Ibrahim Hassan,Egypt,18.027756377319946,0.06443598513218433,False,Right Foot,Open Play,1,0,0,Half Volley
+7559,Mahmoud Ibrahim Hassan,Egypt,21.95449840010015,0.06693643838392781,False,Right Foot,Open Play,0,1,1,Normal
+7559,Salman Mohammed Al Faraj,Saudi Arabia,17.72004514666935,0.059669485865194064,False,Left Foot,Open Play,1,0,0,Normal
+7559,Fahad Mosaed Al Muwallad Al Harbi,Saudi Arabia,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+7559,Abdullah Ibrahim Otayf,Saudi Arabia,16.76305461424021,0.059277484737505846,False,Right Foot,Open Play,1,0,0,Volley
+7559,Salman Mohammed Al Faraj,Saudi Arabia,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+7559,Hattan Babhir,Saudi Arabia,16.1245154965971,0.05302598799052913,False,Right Foot,Open Play,1,0,0,Volley
+7559,Mahmoud Ibrahim Hassan,Egypt,12.0,0.05959154427448477,False,Head,Open Play,0,1,2,Normal
+7559,Hussain Al Mogahwi,Saudi Arabia,29.0,0.05335034187259554,False,Right Foot,Open Play,0,0,2,Normal
+7559,Hattan Babhir,Saudi Arabia,31.32091952673165,0.06273458495554032,False,Right Foot,Open Play,0,0,0,Normal
+7559,Hussain Al Mogahwi,Saudi Arabia,24.020824298928627,0.06447734515930043,False,Right Foot,Open Play,1,0,1,Volley
+7559,Hussain Al Mogahwi,Saudi Arabia,13.45362404707371,0.055521425776118946,False,Head,Open Play,0,0,2,Normal
+7559,Mohanad Aseri Abu Radiah,Saudi Arabia,10.295630140987,0.053865815894109215,False,Head,Open Play,0,0,3,Normal
+7559,Mohamed Naser Elsayed Elneny,Egypt,24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,1,Normal
+7559,Salman Mohammed Al Faraj,Saudi Arabia,32.14031735997639,0.06714178583848458,False,Left Foot,Free Kick,0,0,0,Normal
+7559,Amr Medhat Warda,Egypt,25.45584412271571,0.06855146572356594,False,Right Foot,Open Play,0,0,0,Normal
+7559,Mohammed Al Burayk,Saudi Arabia,26.92582403567252,0.07004540394100207,False,Right Foot,Free Kick,0,0,0,Normal
+7559,Salem Mohammed Al Dawsari,Saudi Arabia,10.770329614269007,0.05913361448862013,False,Right Foot,Open Play,1,0,2,Volley
+7559,Abdullah Ibrahim Otayf,Saudi Arabia,26.1725046566048,0.054501872581307176,False,Right Foot,Open Play,0,1,2,Normal
+7559,Salem Mohammed Al Dawsari,Saudi Arabia,13.601470508735444,0.05220091341560011,True,Right Foot,Open Play,1,0,3,Half Volley

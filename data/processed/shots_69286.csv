@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.638937737972093,0.056747967084577286,True,Right Foot,Open Play,0,0,1,Lob
-32.706115636070265,0.07483325955540324,False,Right Foot,Free Kick,0,0,0,Normal
-34.42440994410797,0.0750673151743497,False,Right Foot,Open Play,1,0,0,Half Volley
-32.449961479175904,0.07450978246150766,False,Right Foot,Open Play,0,0,1,Normal
-20.87510479015614,0.05771170345604022,False,Right Foot,Open Play,1,0,2,Volley
-21.70069123323034,0.06636580395631538,False,Left Foot,Open Play,1,0,5,Normal
-15.658863304850703,0.05747033706756043,False,Right Foot,Open Play,0,0,2,Normal
-32.920054677961886,0.06698064844978942,False,Right Foot,Open Play,0,0,3,Normal
-30.761014287568607,0.07157316395493148,True,Right Foot,Open Play,1,0,0,Volley
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-21.12060605191053,0.05331364966409901,False,Left Foot,Open Play,0,0,3,Normal
-21.252999788265182,0.057272814489448785,False,Left Foot,Open Play,0,0,2,Half Volley
-30.73906309567681,0.07299436961823509,False,Right Foot,Open Play,0,1,1,Normal
-12.601587201618694,0.06073884750105098,True,Head,Open Play,0,0,1,Normal
-19.20963300013824,0.055566583203579545,False,Left Foot,Open Play,0,0,2,Normal
-14.590750494748377,0.06238666492921767,False,Left Foot,Open Play,1,0,2,Normal
-18.860010604450885,0.06490348193247084,False,Left Foot,Open Play,1,0,2,Normal
-16.434415109762803,0.05197583085981211,False,Right Foot,Open Play,0,1,1,Normal
-30.124076749337892,0.05337689300719635,False,Right Foot,Open Play,0,0,0,Normal
-20.9117192023994,0.06524745186466932,False,Left Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69286,Lionel Andrés Messi Cuccittini,Barcelona,18.638937737972093,0.056747967084577286,True,Right Foot,Open Play,0,0,1,Lob
+69286,Kennedy Bakircioglu,Racing Santander,32.706115636070265,0.07483325955540324,False,Right Foot,Free Kick,0,0,0,Normal
+69286,Manuel Jesús Arana Rodríguez,Racing Santander,34.42440994410797,0.0750673151743497,False,Right Foot,Open Play,1,0,0,Half Volley
+69286,Manuel Jesús Arana Rodríguez,Racing Santander,32.449961479175904,0.07450978246150766,False,Right Foot,Open Play,0,0,1,Normal
+69286,Pedro Manuel Munitis Álvarez,Racing Santander,20.87510479015614,0.05771170345604022,False,Right Foot,Open Play,1,0,2,Volley
+69286,Eric-Sylvain Bilal Abidal,Barcelona,21.70069123323034,0.06636580395631538,False,Left Foot,Open Play,1,0,5,Normal
+69286,Lionel Andrés Messi Cuccittini,Barcelona,15.658863304850703,0.05747033706756043,False,Right Foot,Open Play,0,0,2,Normal
+69286,Mohamed Gasana Tchité,Racing Santander,32.920054677961886,0.06698064844978942,False,Right Foot,Open Play,0,0,3,Normal
+69286,Andrés Iniesta Luján,Barcelona,30.761014287568607,0.07157316395493148,True,Right Foot,Open Play,1,0,0,Volley
+69286,Mohamed Gasana Tchité,Racing Santander,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+69286,Lionel Andrés Messi Cuccittini,Barcelona,21.12060605191053,0.05331364966409901,False,Left Foot,Open Play,0,0,3,Normal
+69286,Pedro Manuel Munitis Álvarez,Racing Santander,21.252999788265182,0.057272814489448785,False,Left Foot,Open Play,0,0,2,Half Volley
+69286,Manuel Jesús Arana Rodríguez,Racing Santander,30.73906309567681,0.07299436961823509,False,Right Foot,Open Play,0,1,1,Normal
+69286,David Villa Sánchez,Barcelona,12.601587201618694,0.06073884750105098,True,Head,Open Play,0,0,1,Normal
+69286,Francisco Jesús Pérez Malia,Racing Santander,19.20963300013824,0.055566583203579545,False,Left Foot,Open Play,0,0,2,Normal
+69286,Lionel Andrés Messi Cuccittini,Barcelona,14.590750494748377,0.06238666492921767,False,Left Foot,Open Play,1,0,2,Normal
+69286,Ariel Gerardo Nahuelpán Osten,Racing Santander,18.860010604450885,0.06490348193247084,False,Left Foot,Open Play,1,0,2,Normal
+69286,Bojan Krkíc Pérez,Barcelona,16.434415109762803,0.05197583085981211,False,Right Foot,Open Play,0,1,1,Normal
+69286,Daniel Alves da Silva,Barcelona,30.124076749337892,0.05337689300719635,False,Right Foot,Open Play,0,0,0,Normal
+69286,Adrián González Morales,Racing Santander,20.9117192023994,0.06524745186466932,False,Left Foot,Open Play,1,1,1,Normal

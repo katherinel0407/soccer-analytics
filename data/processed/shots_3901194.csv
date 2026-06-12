@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.525798475317934,0.05526136263510706,False,Right Foot,Open Play,0,1,3,Normal
-12.254386969571353,0.06101388530661644,False,Head,Open Play,0,0,4,Normal
-32.76614106055213,0.07421312529046348,False,Right Foot,Open Play,1,0,0,Half Volley
-34.480284221566386,0.07627759122843931,False,Left Foot,Open Play,0,0,1,Normal
-7.130918594402823,0.05823719117749622,False,Head,Open Play,0,1,3,Normal
-20.89258241577618,0.05953046668136657,False,Left Foot,Open Play,1,0,0,Volley
-17.601136326953444,0.06326404049830497,False,Left Foot,Open Play,0,0,1,Normal
-21.709214633422373,0.054546674669113344,False,Right Foot,Open Play,0,0,2,Normal
-31.013706647222936,0.058430606572817255,False,Right Foot,Open Play,0,0,1,Normal
-20.37670238286853,0.06474657696108473,False,Left Foot,Open Play,0,0,2,Normal
-32.0777181233329,0.06282158970186813,False,Left Foot,Open Play,0,0,1,Normal
-34.921197001248395,0.056713415083662885,False,Right Foot,Open Play,0,0,1,Normal
-6.735725647619569,0.0580205749274212,True,Right Foot,Open Play,1,0,0,Half Volley
-24.575801105966004,0.05769199739383294,False,Right Foot,Open Play,0,0,2,Normal
-30.85984445845442,0.05809055042286904,False,Left Foot,Open Play,0,1,2,Normal
-6.224146527838177,0.05410502676305828,True,Left Foot,Open Play,1,0,2,Volley
-12.434226956268734,0.060423482984430885,False,Head,Open Play,0,0,3,Normal
-28.86173937932362,0.07154605269407571,False,Right Foot,Open Play,0,0,1,Normal
-11.253888216967507,0.059642816857073885,False,Head,Open Play,0,1,2,Normal
-27.970877712363624,0.0555872645702041,False,Right Foot,Open Play,0,0,3,Normal
-11.768602295939822,0.06069782515288855,False,Head,Open Play,0,0,1,Normal
-11.042191811411353,0.05827793498154351,False,Right Foot,Open Play,1,1,1,Half Volley
-19.731446981911894,0.06514188882476306,False,Left Foot,Open Play,0,0,1,Normal
-12.099999999999994,0.05963343195195743,False,Right Foot,Penalty,0,0,0,Normal
-12.816005617976295,0.05838781177489886,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901194,Thomas Touré,Bordeaux,21.525798475317934,0.05526136263510706,False,Right Foot,Open Play,0,1,3,Normal
+3901194,Enzo Crivelli,Bordeaux,12.254386969571353,0.06101388530661644,False,Head,Open Play,0,0,4,Normal
+3901194,Farès Bahlouli,AS Monaco,32.76614106055213,0.07421312529046348,False,Right Foot,Open Play,1,0,0,Half Volley
+3901194,Maxime Poundjé,Bordeaux,34.480284221566386,0.07627759122843931,False,Left Foot,Open Play,0,0,1,Normal
+3901194,Vágner Silva de Souza,AS Monaco,7.130918594402823,0.05823719117749622,False,Head,Open Play,0,1,3,Normal
+3901194,Adam Ounas,Bordeaux,20.89258241577618,0.05953046668136657,False,Left Foot,Open Play,1,0,0,Volley
+3901194,Thomas Lemar,AS Monaco,17.601136326953444,0.06326404049830497,False,Left Foot,Open Play,0,0,1,Normal
+3901194,Adam Ounas,Bordeaux,21.709214633422373,0.054546674669113344,False,Right Foot,Open Play,0,0,2,Normal
+3901194,Farès Bahlouli,AS Monaco,31.013706647222936,0.058430606572817255,False,Right Foot,Open Play,0,0,1,Normal
+3901194,Farès Bahlouli,AS Monaco,20.37670238286853,0.06474657696108473,False,Left Foot,Open Play,0,0,2,Normal
+3901194,Vágner Silva de Souza,AS Monaco,32.0777181233329,0.06282158970186813,False,Left Foot,Open Play,0,0,1,Normal
+3901194,Tiemoué Bakayoko,AS Monaco,34.921197001248395,0.056713415083662885,False,Right Foot,Open Play,0,0,1,Normal
+3901194,Thomas Touré,Bordeaux,6.735725647619569,0.0580205749274212,True,Right Foot,Open Play,1,0,0,Half Volley
+3901194,Enzo Crivelli,Bordeaux,24.575801105966004,0.05769199739383294,False,Right Foot,Open Play,0,0,2,Normal
+3901194,Adam Ounas,Bordeaux,30.85984445845442,0.05809055042286904,False,Left Foot,Open Play,0,1,2,Normal
+3901194,Adam Ounas,Bordeaux,6.224146527838177,0.05410502676305828,True,Left Foot,Open Play,1,0,2,Volley
+3901194,Fábio Alexandre da Silva Coentrão,AS Monaco,12.434226956268734,0.060423482984430885,False,Head,Open Play,0,0,3,Normal
+3901194,Isaac Kiese Thelin,Bordeaux,28.86173937932362,0.07154605269407571,False,Right Foot,Open Play,0,0,1,Normal
+3901194,Guido Marcelo Carrillo,AS Monaco,11.253888216967507,0.059642816857073885,False,Head,Open Play,0,1,2,Normal
+3901194,Kylian Mbappé Lottin,AS Monaco,27.970877712363624,0.0555872645702041,False,Right Foot,Open Play,0,0,3,Normal
+3901194,Guido Marcelo Carrillo,AS Monaco,11.768602295939822,0.06069782515288855,False,Head,Open Play,0,0,1,Normal
+3901194,Guido Marcelo Carrillo,AS Monaco,11.042191811411353,0.05827793498154351,False,Right Foot,Open Play,1,1,1,Half Volley
+3901194,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,19.731446981911894,0.06514188882476306,False,Left Foot,Open Play,0,0,1,Normal
+3901194,Vágner Silva de Souza,AS Monaco,12.099999999999994,0.05963343195195743,False,Right Foot,Penalty,0,0,0,Normal
+3901194,Guido Marcelo Carrillo,AS Monaco,12.816005617976295,0.05838781177489886,False,Head,Open Play,0,0,3,Normal

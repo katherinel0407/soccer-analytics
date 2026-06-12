@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.068883707497267,0.05264094898788417,False,Right Foot,Open Play,1,0,0,Half Volley
-28.653097563788805,0.07165954036182329,False,Left Foot,Open Play,0,0,0,Volley
-7.810249675906654,0.055546612174908284,False,Head,Open Play,0,0,4,Normal
-27.16615541441225,0.06793994293983761,False,Left Foot,Open Play,0,1,1,Normal
-24.351591323771842,0.06061488589249553,False,Left Foot,Open Play,0,0,1,Normal
-32.55764119219941,0.07236007239374133,False,Right Foot,Free Kick,0,0,0,Normal
-26.570660511172846,0.06085738750959254,False,Left Foot,Free Kick,0,0,0,Normal
-7.0,0.05755567023984417,False,Left Foot,Open Play,1,0,6,Normal
-30.4138126514911,0.05383774596123744,False,Right Foot,Open Play,0,1,2,Normal
-8.06225774829855,0.0587980230196196,False,Left Foot,Open Play,0,0,3,Normal
-26.40075756488817,0.06985307636404452,False,Right Foot,Open Play,0,1,1,Normal
-17.88854381999832,0.05801850666653371,False,Left Foot,Open Play,1,0,4,Normal
-6.082762530298219,0.05684693128876285,False,Right Foot,Open Play,1,0,7,Normal
-24.186773244895647,0.06349985131451397,False,Right Foot,Open Play,1,0,0,Normal
-11.40175425099138,0.06023061517477308,False,Left Foot,Open Play,1,0,2,Normal
-18.601075237738275,0.05640249070630328,False,Right Foot,Open Play,1,0,2,Normal
-20.0,0.06560915817967398,False,Right Foot,Open Play,1,0,2,Normal
-13.601470508735444,0.0614419142999389,True,Right Foot,Open Play,1,1,2,Normal
-8.06225774829855,0.05827886915945493,False,Head,Open Play,0,1,4,Normal
-12.529964086141668,0.05699645052876344,False,Right Foot,Open Play,1,0,3,Normal
-2.23606797749979,0.055915095325107404,False,Left Foot,Open Play,1,0,5,Normal
-26.40075756488817,0.05601547896388662,False,Right Foot,Free Kick,0,0,0,Normal
-7.615773105863909,0.05386420335801105,False,Head,Open Play,0,1,2,Normal
-11.40175425099138,0.06020545138587247,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7543,Daniel Carvajal Ramos,Spain,29.068883707497267,0.05264094898788417,False,Right Foot,Open Play,1,0,0,Half Volley
+7543,Vahid Amiri,Iran,28.653097563788805,0.07165954036182329,False,Left Foot,Open Play,0,0,0,Volley
+7543,Diego da Silva Costa,Spain,7.810249675906654,0.055546612174908284,False,Head,Open Play,0,0,4,Normal
+7543,Karim Ansarifard,Iran,27.16615541441225,0.06793994293983761,False,Left Foot,Open Play,0,1,1,Normal
+7543,David Josué Jiménez Silva,Spain,24.351591323771842,0.06061488589249553,False,Left Foot,Open Play,0,0,1,Normal
+7543,Sergio Ramos García,Spain,32.55764119219941,0.07236007239374133,False,Right Foot,Free Kick,0,0,0,Normal
+7543,David Josué Jiménez Silva,Spain,26.570660511172846,0.06085738750959254,False,Left Foot,Free Kick,0,0,0,Normal
+7543,David Josué Jiménez Silva,Spain,7.0,0.05755567023984417,False,Left Foot,Open Play,1,0,6,Normal
+7543,Francisco Román Alarcón Suárez,Spain,30.4138126514911,0.05383774596123744,False,Right Foot,Open Play,0,1,2,Normal
+7543,David Josué Jiménez Silva,Spain,8.06225774829855,0.0587980230196196,False,Left Foot,Open Play,0,0,3,Normal
+7543,Francisco Román Alarcón Suárez,Spain,26.40075756488817,0.06985307636404452,False,Right Foot,Open Play,0,1,1,Normal
+7543,David Josué Jiménez Silva,Spain,17.88854381999832,0.05801850666653371,False,Left Foot,Open Play,1,0,4,Normal
+7543,Gerard Piqué Bernabéu,Spain,6.082762530298219,0.05684693128876285,False,Right Foot,Open Play,1,0,7,Normal
+7543,Sergio Busquets i Burgos,Spain,24.186773244895647,0.06349985131451397,False,Right Foot,Open Play,1,0,0,Normal
+7543,Diego da Silva Costa,Spain,11.40175425099138,0.06023061517477308,False,Left Foot,Open Play,1,0,2,Normal
+7543,Francisco Román Alarcón Suárez,Spain,18.601075237738275,0.05640249070630328,False,Right Foot,Open Play,1,0,2,Normal
+7543,Karim Ansarifard,Iran,20.0,0.06560915817967398,False,Right Foot,Open Play,1,0,2,Normal
+7543,Diego da Silva Costa,Spain,13.601470508735444,0.0614419142999389,True,Right Foot,Open Play,1,1,2,Normal
+7543,Mehdi Taremi,Iran,8.06225774829855,0.05827886915945493,False,Head,Open Play,0,1,4,Normal
+7543,Sergio Ramos García,Spain,12.529964086141668,0.05699645052876344,False,Right Foot,Open Play,1,0,3,Normal
+7543,Gerard Piqué Bernabéu,Spain,2.23606797749979,0.055915095325107404,False,Left Foot,Open Play,1,0,5,Normal
+7543,Francisco Román Alarcón Suárez,Spain,26.40075756488817,0.05601547896388662,False,Right Foot,Free Kick,0,0,0,Normal
+7543,Mehdi Taremi,Iran,7.615773105863909,0.05386420335801105,False,Head,Open Play,0,1,2,Normal
+7543,Sardar Azmoun,Iran,11.40175425099138,0.06020545138587247,False,Head,Open Play,0,0,1,Normal

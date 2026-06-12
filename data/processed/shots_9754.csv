@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.246467660964782,0.06913805970825078,False,Left Foot,Open Play,0,0,2,Normal
-13.288340754210061,0.0616093192630049,True,Head,Open Play,0,0,1,Diving Header
-12.924782396620847,0.06026193615046859,False,Right Foot,Open Play,0,0,2,Normal
-16.147445618425223,0.057610732289075116,False,Left Foot,Open Play,0,0,1,Normal
-15.17959156235767,0.06191853138753691,False,Head,Open Play,0,0,1,Diving Header
-30.97821815405141,0.06961091302806634,False,Left Foot,Open Play,0,1,1,Normal
-22.740712389896668,0.06737982949148011,False,Left Foot,Open Play,0,1,2,Normal
-8.200609733428365,0.05800103122930764,False,Head,Open Play,0,1,3,Normal
-14.610270360263701,0.05456871062692412,True,Right Foot,Open Play,0,0,1,Normal
-7.0837842993699365,0.05815607800102932,True,Right Foot,Open Play,1,1,3,Normal
-24.083189157584584,0.06243956995309526,False,Left Foot,Open Play,0,0,2,Normal
-21.79036484320536,0.06614841123139174,True,Right Foot,Open Play,1,0,0,Normal
-11.388590782006352,0.06037211766606226,False,Head,Open Play,0,1,5,Normal
-30.34237960345233,0.07142393840691896,False,Left Foot,Free Kick,0,0,0,Normal
-13.274034804836097,0.061628299139963774,False,Left Foot,Open Play,1,0,1,Normal
-17.617321022221287,0.06418888370320427,True,Right Foot,Open Play,1,1,2,Normal
-22.769277546729498,0.06724138044399025,False,Left Foot,Open Play,1,0,1,Half Volley
-32.98378389451399,0.06216674860958016,False,Left Foot,Free Kick,0,0,0,Normal
-20.401225453388825,0.06580217770206415,False,Right Foot,Open Play,0,0,3,Volley
-31.591296269700614,0.07005166215567848,True,Left Foot,Free Kick,0,0,0,Normal
-18.727519857151396,0.05930058798309494,False,Left Foot,Open Play,0,0,1,Normal
-25.52371446322028,0.06512893266643026,False,Right Foot,Open Play,1,0,1,Volley
-12.714165328483032,0.05165825361285879,False,Right Foot,Open Play,0,0,1,Normal
-18.843831882077485,0.056502251714050315,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9754,Lionel Andrés Messi Cuccittini,Barcelona,27.246467660964782,0.06913805970825078,False,Left Foot,Open Play,0,0,2,Normal
+9754,Willian José da Silva,Real Sociedad,13.288340754210061,0.0616093192630049,True,Head,Open Play,0,0,1,Diving Header
+9754,José Paulo Bezzera Maciel Júnior,Barcelona,12.924782396620847,0.06026193615046859,False,Right Foot,Open Play,0,0,2,Normal
+9754,Sergio Canales Madrazo,Real Sociedad,16.147445618425223,0.057610732289075116,False,Left Foot,Open Play,0,0,1,Normal
+9754,Willian José da Silva,Real Sociedad,15.17959156235767,0.06191853138753691,False,Head,Open Play,0,0,1,Diving Header
+9754,Sergio Canales Madrazo,Real Sociedad,30.97821815405141,0.06961091302806634,False,Left Foot,Open Play,0,1,1,Normal
+9754,Sergio Canales Madrazo,Real Sociedad,22.740712389896668,0.06737982949148011,False,Left Foot,Open Play,0,1,2,Normal
+9754,Willian José da Silva,Real Sociedad,8.200609733428365,0.05800103122930764,False,Head,Open Play,0,1,3,Normal
+9754,Juan Miguel Jiménez López,Real Sociedad,14.610270360263701,0.05456871062692412,True,Right Foot,Open Play,0,0,1,Normal
+9754,José Paulo Bezzera Maciel Júnior,Barcelona,7.0837842993699365,0.05815607800102932,True,Right Foot,Open Play,1,1,3,Normal
+9754,Sergio Canales Madrazo,Real Sociedad,24.083189157584584,0.06243956995309526,False,Left Foot,Open Play,0,0,2,Normal
+9754,Luis Alberto Suárez Díaz,Barcelona,21.79036484320536,0.06614841123139174,True,Right Foot,Open Play,1,0,0,Normal
+9754,Willian José da Silva,Real Sociedad,11.388590782006352,0.06037211766606226,False,Head,Open Play,0,1,5,Normal
+9754,Lionel Andrés Messi Cuccittini,Barcelona,30.34237960345233,0.07142393840691896,False,Left Foot,Free Kick,0,0,0,Normal
+9754,Luis Alberto Suárez Díaz,Barcelona,13.274034804836097,0.061628299139963774,False,Left Foot,Open Play,1,0,1,Normal
+9754,Luis Alberto Suárez Díaz,Barcelona,17.617321022221287,0.06418888370320427,True,Right Foot,Open Play,1,1,2,Normal
+9754,Mikel Oyarzabal Ugarte,Real Sociedad,22.769277546729498,0.06724138044399025,False,Left Foot,Open Play,1,0,1,Half Volley
+9754,Lionel Andrés Messi Cuccittini,Barcelona,32.98378389451399,0.06216674860958016,False,Left Foot,Free Kick,0,0,0,Normal
+9754,Lionel Andrés Messi Cuccittini,Barcelona,20.401225453388825,0.06580217770206415,False,Right Foot,Open Play,0,0,3,Volley
+9754,Lionel Andrés Messi Cuccittini,Barcelona,31.591296269700614,0.07005166215567848,True,Left Foot,Free Kick,0,0,0,Normal
+9754,Sergio Canales Madrazo,Real Sociedad,18.727519857151396,0.05930058798309494,False,Left Foot,Open Play,0,0,1,Normal
+9754,Igor Zubeldia Elorza,Real Sociedad,25.52371446322028,0.06512893266643026,False,Right Foot,Open Play,1,0,1,Volley
+9754,Luis Alberto Suárez Díaz,Barcelona,12.714165328483032,0.05165825361285879,False,Right Foot,Open Play,0,0,1,Normal
+9754,Mikel Oyarzabal Ugarte,Real Sociedad,18.843831882077485,0.056502251714050315,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.68396764745072,0.052943815006710554,False,Right Foot,Open Play,0,0,3,Normal
-7.689603370785782,0.05848602017723928,True,Left Foot,Open Play,1,0,1,Normal
-7.627581530209948,0.05830702242645438,False,Head,Open Play,0,1,2,Normal
-18.344754018519847,0.06407084540528404,False,Right Foot,Open Play,0,1,3,Normal
-8.202438661763955,0.057968077809472884,False,Right Foot,Open Play,1,0,3,Half Volley
-15.318289721767243,0.057210320107185825,False,Right Foot,Open Play,0,0,2,Half Volley
-11.47257599669751,0.06021560957330748,False,Head,Open Play,0,0,2,Normal
-10.58489489791939,0.05728313493571799,False,Right Foot,Open Play,0,0,3,Normal
-7.521303078589511,0.05462621132454529,True,Right Foot,Open Play,1,0,2,Half Volley
-30.46473370965188,0.06527786934125639,False,Left Foot,Open Play,0,0,1,Normal
-30.807953518531544,0.07289675975623812,False,Left Foot,Open Play,1,0,0,Half Volley
-14.37532608325807,0.06151722189247759,False,Left Foot,Open Play,1,0,1,Normal
-9.884331034521251,0.05367256082386342,False,Right Foot,Open Play,1,1,2,Normal
-23.38931379925457,0.05863409735893429,False,Left Foot,Open Play,0,0,3,Normal
-25.352711886502398,0.057986135341730444,False,Right Foot,Open Play,0,1,3,Normal
-8.249242389456139,0.05847846798146909,False,Left Foot,Open Play,1,0,4,Normal
-16.608732642799687,0.058832999804921564,False,Left Foot,Open Play,1,0,2,Normal
-27.821754078418568,0.06537117519123975,False,Right Foot,Open Play,0,0,1,Normal
-7.354590403278761,0.05714781375680141,False,Head,Open Play,0,0,2,Normal
-10.282509421342635,0.052306215915714833,False,Right Foot,Open Play,0,1,2,Normal
-11.73456432936477,0.0597850402681917,False,Left Foot,Open Play,1,0,5,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879696,Ciro Immobile,Torino,28.68396764745072,0.052943815006710554,False,Right Foot,Open Play,0,0,3,Normal
+3879696,Andrea Belotti,Torino,7.689603370785782,0.05848602017723928,True,Left Foot,Open Play,1,0,1,Normal
+3879696,Federico Peluso,Sassuolo,7.627581530209948,0.05830702242645438,False,Head,Open Play,0,1,2,Normal
+3879696,Gregoire Defrel,Sassuolo,18.344754018519847,0.06407084540528404,False,Right Foot,Open Play,0,1,3,Normal
+3879696,Davide Biondini,Sassuolo,8.202438661763955,0.057968077809472884,False,Right Foot,Open Play,1,0,3,Half Volley
+3879696,Ciro Immobile,Torino,15.318289721767243,0.057210320107185825,False,Right Foot,Open Play,0,0,2,Half Volley
+3879696,Kamil Glik,Torino,11.47257599669751,0.06021560957330748,False,Head,Open Play,0,0,2,Normal
+3879696,Davide Biondini,Sassuolo,10.58489489791939,0.05728313493571799,False,Right Foot,Open Play,0,0,3,Normal
+3879696,Francesco Acerbi,Sassuolo,7.521303078589511,0.05462621132454529,True,Right Foot,Open Play,1,0,2,Half Volley
+3879696,Andrea Belotti,Torino,30.46473370965188,0.06527786934125639,False,Left Foot,Open Play,0,0,1,Normal
+3879696,Federico Peluso,Sassuolo,30.807953518531544,0.07289675975623812,False,Left Foot,Open Play,1,0,0,Half Volley
+3879696,Gregoire Defrel,Sassuolo,14.37532608325807,0.06151722189247759,False,Left Foot,Open Play,1,0,1,Normal
+3879696,Andrea Belotti,Torino,9.884331034521251,0.05367256082386342,False,Right Foot,Open Play,1,1,2,Normal
+3879696,Domenico Berardi,Sassuolo,23.38931379925457,0.05863409735893429,False,Left Foot,Open Play,0,0,3,Normal
+3879696,Andrea Belotti,Torino,25.352711886502398,0.057986135341730444,False,Right Foot,Open Play,0,1,3,Normal
+3879696,Joseph Alfred Duncan,Sassuolo,8.249242389456139,0.05847846798146909,False,Left Foot,Open Play,1,0,4,Normal
+3879696,Gregoire Defrel,Sassuolo,16.608732642799687,0.058832999804921564,False,Left Foot,Open Play,1,0,2,Normal
+3879696,Francesco Magnanelli,Sassuolo,27.821754078418568,0.06537117519123975,False,Right Foot,Open Play,0,0,1,Normal
+3879696,Nicola Sansone,Sassuolo,7.354590403278761,0.05714781375680141,False,Head,Open Play,0,0,2,Normal
+3879696,Ciro Immobile,Torino,10.282509421342635,0.052306215915714833,False,Right Foot,Open Play,0,1,2,Normal
+3879696,Šime Vrsaljko,Sassuolo,11.73456432936477,0.0597850402681917,False,Left Foot,Open Play,1,0,5,Half Volley

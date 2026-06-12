@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.883257734237176,0.05889160249978053,False,Left Foot,Free Kick,0,0,0,Normal
-15.608331108738046,0.061530563162176664,False,Left Foot,Open Play,0,0,1,Normal
-15.663013758533188,0.06289626674198026,False,Left Foot,Open Play,0,1,2,Normal
-16.051479682571326,0.05510222453900186,False,Right Foot,Open Play,0,0,0,Normal
-31.657068720903396,0.06187918786817733,False,Right Foot,Open Play,1,0,1,Half Volley
-31.06927742964101,0.07321427140097136,False,Right Foot,Open Play,0,0,2,Half Volley
-9.808159868191385,0.05955367057120219,False,Head,Open Play,0,1,4,Normal
-19.543285291884782,0.0631675243780676,False,Left Foot,Open Play,0,0,1,Half Volley
-14.499655168313488,0.06221823577343934,False,Head,Open Play,0,1,3,Normal
-25.869866640553056,0.06817765417083305,False,Left Foot,Open Play,1,0,2,Half Volley
-19.12537581330103,0.05430805599226597,False,Right Foot,Open Play,1,1,2,Normal
-33.785351855500934,0.05687718336708992,False,Right Foot,Open Play,0,0,1,Normal
-7.818567643756747,0.05675572240955016,False,Head,Open Play,0,1,2,Normal
-20.859769893265838,0.06575775654719303,False,Left Foot,Open Play,0,1,1,Normal
-8.273451516749228,0.05887693475276692,True,Head,Open Play,0,1,6,Normal
-7.518643494673753,0.05708763058042826,False,Head,Open Play,0,0,2,Normal
-24.23241630543682,0.06678249744342649,False,Right Foot,Open Play,1,0,0,Normal
-10.722872749408157,0.058806325036219895,False,Right Foot,Open Play,0,1,4,Normal
-17.90111728356641,0.0639054442508169,False,Right Foot,Open Play,0,0,1,Half Volley
-6.657326790837294,0.05451219837836411,False,Right Foot,Open Play,0,0,4,Backheel
-14.491721774861674,0.05346259511735414,False,Right Foot,Open Play,0,0,1,Normal
-22.380795338861404,0.05394527755303213,False,Left Foot,Open Play,0,1,2,Normal
-10.834205093129817,0.058452713022108874,True,Right Foot,Open Play,1,0,2,Normal
-11.10180165558726,0.05969593185694615,False,Head,Open Play,0,1,5,Normal
-6.860029154457,0.05819637895413296,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825703,Aymeric Laporte,Athletic Club,23.883257734237176,0.05889160249978053,False,Left Foot,Free Kick,0,0,0,Normal
+3825703,Nabil Ghilas,Levante UD,15.608331108738046,0.061530563162176664,False,Left Foot,Open Play,0,0,1,Normal
+3825703,Nabil Ghilas,Levante UD,15.663013758533188,0.06289626674198026,False,Left Foot,Open Play,0,1,2,Normal
+3825703,Markel Susaeta Laskurain,Athletic Club,16.051479682571326,0.05510222453900186,False,Right Foot,Open Play,0,0,0,Normal
+3825703,Beñat Etxebarria Urkiaga,Athletic Club,31.657068720903396,0.06187918786817733,False,Right Foot,Open Play,1,0,1,Half Volley
+3825703,Mikel San José Domínguez,Athletic Club,31.06927742964101,0.07321427140097136,False,Right Foot,Open Play,0,0,2,Half Volley
+3825703,Raúl García Escudero,Athletic Club,9.808159868191385,0.05955367057120219,False,Head,Open Play,0,1,4,Normal
+3825703,Iñaki Williams Arthuer,Athletic Club,19.543285291884782,0.0631675243780676,False,Left Foot,Open Play,0,0,1,Half Volley
+3825703,Aritz Aduriz Zubeldia,Athletic Club,14.499655168313488,0.06221823577343934,False,Head,Open Play,0,1,3,Normal
+3825703,Nabil Ghilas,Levante UD,25.869866640553056,0.06817765417083305,False,Left Foot,Open Play,1,0,2,Half Volley
+3825703,Markel Susaeta Laskurain,Athletic Club,19.12537581330103,0.05430805599226597,False,Right Foot,Open Play,1,1,2,Normal
+3825703,Jefferson Andrés Lerma Solís,Levante UD,33.785351855500934,0.05687718336708992,False,Right Foot,Open Play,0,0,1,Normal
+3825703,Aritz Aduriz Zubeldia,Athletic Club,7.818567643756747,0.05675572240955016,False,Head,Open Play,0,1,2,Normal
+3825703,Markel Susaeta Laskurain,Athletic Club,20.859769893265838,0.06575775654719303,False,Left Foot,Open Play,0,1,1,Normal
+3825703,Mikel San José Domínguez,Athletic Club,8.273451516749228,0.05887693475276692,True,Head,Open Play,0,1,6,Normal
+3825703,Aritz Aduriz Zubeldia,Athletic Club,7.518643494673753,0.05708763058042826,False,Head,Open Play,0,0,2,Normal
+3825703,Markel Susaeta Laskurain,Athletic Club,24.23241630543682,0.06678249744342649,False,Right Foot,Open Play,1,0,0,Normal
+3825703,Aritz Aduriz Zubeldia,Athletic Club,10.722872749408157,0.058806325036219895,False,Right Foot,Open Play,0,1,4,Normal
+3825703,Mikel San José Domínguez,Athletic Club,17.90111728356641,0.0639054442508169,False,Right Foot,Open Play,0,0,1,Half Volley
+3825703,Aymeric Laporte,Athletic Club,6.657326790837294,0.05451219837836411,False,Right Foot,Open Play,0,0,4,Backheel
+3825703,Aritz Aduriz Zubeldia,Athletic Club,14.491721774861674,0.05346259511735414,False,Right Foot,Open Play,0,0,1,Normal
+3825703,José Luis Morales Nogales,Levante UD,22.380795338861404,0.05394527755303213,False,Left Foot,Open Play,0,1,2,Normal
+3825703,Iñaki Williams Arthuer,Athletic Club,10.834205093129817,0.058452713022108874,True,Right Foot,Open Play,1,0,2,Normal
+3825703,Zouhair Feddal,Levante UD,11.10180165558726,0.05969593185694615,False,Head,Open Play,0,1,5,Normal
+3825703,Iker Muniain Goñi,Athletic Club,6.860029154457,0.05819637895413296,False,Head,Open Play,0,0,4,Normal

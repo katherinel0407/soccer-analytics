@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.270599146496963,0.06129859341458812,False,Right Foot,Open Play,1,0,2,Normal
-14.329340529138111,0.05870285822958128,False,Head,Open Play,0,0,1,Normal
-7.151223671512452,0.05662910070504932,False,Right Foot,Open Play,1,0,5,Volley
-18.813824704190264,0.06461675368184737,False,Left Foot,Open Play,0,0,1,Normal
-20.402205763103172,0.06340711497676296,False,Right Foot,Open Play,1,0,0,Normal
-27.140007369195757,0.05607234430145269,False,Left Foot,Free Kick,0,0,0,Normal
-9.730878685915267,0.059459485003348085,False,Right Foot,Open Play,0,0,1,Normal
-6.082762530298226,0.055237392297737685,True,Head,Open Play,0,0,4,Normal
-12.971121771072847,0.05332246406086217,False,Right Foot,Open Play,1,0,0,Half Volley
-19.431160541768982,0.06531282990130238,False,Left Foot,Open Play,0,0,3,Normal
-11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
-8.682165628459295,0.05874743851407976,False,Right Foot,Open Play,1,0,1,Volley
-3.0413812651491114,0.05629672534149385,True,Left Foot,Open Play,1,0,5,Half Volley
-9.430270409696634,0.056088916416616064,False,Head,Open Play,0,0,3,Normal
-5.186520991955977,0.057183506893586415,True,Left Foot,Open Play,1,0,2,Half Volley
-17.85497129653252,0.06415932999688201,False,Left Foot,Open Play,1,0,2,Normal
-25.179356624028344,0.06394229772763946,True,Left Foot,Free Kick,0,0,0,Normal
-16.567739737212193,0.05956707898248371,False,Left Foot,Open Play,1,0,3,Volley
-11.928118040998752,0.060883705195136854,False,Left Foot,Open Play,0,0,2,Normal
-23.312228550698453,0.06782488799764924,False,Left Foot,Open Play,1,0,1,Half Volley
-29.75936827286494,0.07106246470243767,True,Right Foot,Open Play,0,0,1,Normal
-19.10628168953866,0.06139063768312391,False,Right Foot,Open Play,0,0,3,Normal
-32.41388591329339,0.06628164150164823,False,Right Foot,Open Play,0,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773695,Pedro González López,Barcelona,14.270599146496963,0.06129859341458812,False,Right Foot,Open Play,1,0,2,Normal
+3773695,Antoine Griezmann,Barcelona,14.329340529138111,0.05870285822958128,False,Head,Open Play,0,0,1,Normal
+3773695,Ronald Federico Araújo da Silva,Barcelona,7.151223671512452,0.05662910070504932,False,Right Foot,Open Play,1,0,5,Volley
+3773695,José Luis Gayà Peña,Valencia,18.813824704190264,0.06461675368184737,False,Left Foot,Open Play,0,0,1,Normal
+3773695,Uroš Račić,Valencia,20.402205763103172,0.06340711497676296,False,Right Foot,Open Play,1,0,0,Normal
+3773695,Lionel Andrés Messi Cuccittini,Barcelona,27.140007369195757,0.05607234430145269,False,Left Foot,Free Kick,0,0,0,Normal
+3773695,Gonçalo Manuel Ganchinho Guedes,Valencia,9.730878685915267,0.059459485003348085,False,Right Foot,Open Play,0,0,1,Normal
+3773695,Gabriel Armando de Abreu,Valencia,6.082762530298226,0.055237392297737685,True,Head,Open Play,0,0,4,Normal
+3773695,Thierry Rendall Correia,Valencia,12.971121771072847,0.05332246406086217,False,Right Foot,Open Play,1,0,0,Half Volley
+3773695,Antoine Griezmann,Barcelona,19.431160541768982,0.06531282990130238,False,Left Foot,Open Play,0,0,3,Normal
+3773695,Lionel Andrés Messi Cuccittini,Barcelona,11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
+3773695,Pedro González López,Barcelona,8.682165628459295,0.05874743851407976,False,Right Foot,Open Play,1,0,1,Volley
+3773695,Lionel Andrés Messi Cuccittini,Barcelona,3.0413812651491114,0.05629672534149385,True,Left Foot,Open Play,1,0,5,Half Volley
+3773695,Frenkie de Jong,Barcelona,9.430270409696634,0.056088916416616064,False,Head,Open Play,0,0,3,Normal
+3773695,Antoine Griezmann,Barcelona,5.186520991955977,0.057183506893586415,True,Left Foot,Open Play,1,0,2,Half Volley
+3773695,Jordi Alba Ramos,Barcelona,17.85497129653252,0.06415932999688201,False,Left Foot,Open Play,1,0,2,Normal
+3773695,Lionel Andrés Messi Cuccittini,Barcelona,25.179356624028344,0.06394229772763946,True,Left Foot,Free Kick,0,0,0,Normal
+3773695,Uroš Račić,Valencia,16.567739737212193,0.05956707898248371,False,Left Foot,Open Play,1,0,3,Volley
+3773695,Lionel Andrés Messi Cuccittini,Barcelona,11.928118040998752,0.060883705195136854,False,Left Foot,Open Play,0,0,2,Normal
+3773695,Jordi Alba Ramos,Barcelona,23.312228550698453,0.06782488799764924,False,Left Foot,Open Play,1,0,1,Half Volley
+3773695,Carlos Soler Barragán,Valencia,29.75936827286494,0.07106246470243767,True,Right Foot,Open Play,0,0,1,Normal
+3773695,Kevin Gameiro,Valencia,19.10628168953866,0.06139063768312391,False,Right Foot,Open Play,0,0,3,Normal
+3773695,Christian Gabriel Oliva Giménez,Valencia,32.41388591329339,0.06628164150164823,False,Right Foot,Open Play,0,0,0,Half Volley

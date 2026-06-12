@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.74156379893911,0.05538615922375351,False,Left Foot,Open Play,0,0,0,Normal
-13.395894893585867,0.06162341479264146,True,Right Foot,Open Play,0,1,3,Half Volley
-28.293108701590217,0.07016766380951898,False,Right Foot,Open Play,1,0,1,Half Volley
-8.139410298049848,0.058254872836728346,False,Other,Open Play,0,0,3,Normal
-20.552615405344408,0.06216440856489141,False,Right Foot,Open Play,0,0,3,Normal
-25.27231687044146,0.0635879279505433,False,Left Foot,Open Play,0,1,3,Normal
-7.242237223399969,0.056803234481089905,False,Head,Open Play,0,1,6,Normal
-33.944955442598534,0.07579635851277824,False,Right Foot,Open Play,0,0,1,Normal
-28.62953020920882,0.07073834649307079,False,Right Foot,Free Kick,0,0,0,Normal
-29.203595669026786,0.07097942390826308,False,Right Foot,Open Play,0,0,2,Normal
-21.323461257497573,0.06516297256482204,False,Left Foot,Open Play,0,0,2,Normal
-37.30214471045867,0.06731240195077266,True,Left Foot,Open Play,0,0,0,Normal
-9.323089616645332,0.05860763645051858,False,Left Foot,Open Play,1,0,2,Normal
-19.691876497682994,0.06208427199335359,False,Right Foot,Open Play,1,0,4,Half Volley
-22.80350850198276,0.0666533657550635,False,Left Foot,Open Play,0,0,2,Half Volley
-22.327113561766105,0.06364774761137912,False,Left Foot,Open Play,1,0,0,Volley
-27.941546127585713,0.07111707067228934,False,Right Foot,Open Play,0,0,0,Normal
-25.75266976451179,0.06710596798301688,False,Right Foot,Open Play,0,0,3,Normal
-21.243822631532215,0.0583072034262407,False,Right Foot,Open Play,1,0,1,Volley
-4.785394445602158,0.05712564781195954,True,Other,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879742,Keisuke Honda,AC Milan,32.74156379893911,0.05538615922375351,False,Left Foot,Open Play,0,0,0,Normal
+3879742,Carlos Arturo Bacca Ahumada,AC Milan,13.395894893585867,0.06162341479264146,True,Right Foot,Open Play,0,1,3,Half Volley
+3879742,Giacomo Bonaventura,AC Milan,28.293108701590217,0.07016766380951898,False,Right Foot,Open Play,1,0,1,Half Volley
+3879742,Giacomo Bonaventura,AC Milan,8.139410298049848,0.058254872836728346,False,Other,Open Play,0,0,3,Normal
+3879742,Luca Rigoni,Genoa,20.552615405344408,0.06216440856489141,False,Right Foot,Open Play,0,0,3,Normal
+3879742,Jesús Joaquín Fernández Sáez de la Torre,Genoa,25.27231687044146,0.0635879279505433,False,Left Foot,Open Play,0,1,3,Normal
+3879742,Alessio Romagnoli,AC Milan,7.242237223399969,0.056803234481089905,False,Head,Open Play,0,1,6,Normal
+3879742,Giacomo Bonaventura,AC Milan,33.944955442598534,0.07579635851277824,False,Right Foot,Open Play,0,0,1,Normal
+3879742,Giacomo Bonaventura,AC Milan,28.62953020920882,0.07073834649307079,False,Right Foot,Free Kick,0,0,0,Normal
+3879742,Giacomo Bonaventura,AC Milan,29.203595669026786,0.07097942390826308,False,Right Foot,Open Play,0,0,2,Normal
+3879742,Giacomo Bonaventura,AC Milan,21.323461257497573,0.06516297256482204,False,Left Foot,Open Play,0,0,2,Normal
+3879742,Keisuke Honda,AC Milan,37.30214471045867,0.06731240195077266,True,Left Foot,Open Play,0,0,0,Normal
+3879742,Giacomo Bonaventura,AC Milan,9.323089616645332,0.05860763645051858,False,Left Foot,Open Play,1,0,2,Normal
+3879742,Luca Antonelli,AC Milan,19.691876497682994,0.06208427199335359,False,Right Foot,Open Play,1,0,4,Half Volley
+3879742,Andrea Bertolacci,AC Milan,22.80350850198276,0.0666533657550635,False,Left Foot,Open Play,0,0,2,Half Volley
+3879742,Riccardo Montolivo,AC Milan,22.327113561766105,0.06364774761137912,False,Left Foot,Open Play,1,0,0,Volley
+3879742,Blerim Džemaili,Genoa,27.941546127585713,0.07111707067228934,False,Right Foot,Open Play,0,0,0,Normal
+3879742,Jules Olivier Ntcham,Genoa,25.75266976451179,0.06710596798301688,False,Right Foot,Open Play,0,0,3,Normal
+3879742,Luca Rigoni,Genoa,21.243822631532215,0.0583072034262407,False,Right Foot,Open Play,1,0,1,Volley
+3879742,Alessio Cerci,Genoa,4.785394445602158,0.05712564781195954,True,Other,Open Play,0,0,3,Normal

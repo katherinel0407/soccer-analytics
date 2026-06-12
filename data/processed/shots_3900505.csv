@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.702523558858847,0.06900700893806581,False,Left Foot,Open Play,1,0,0,Normal
-10.0568384694197,0.05965118429573804,False,Right Foot,Open Play,1,1,1,Half Volley
-6.68505796534331,0.058011869248202695,False,Head,Open Play,0,1,1,Normal
-21.05825253908785,0.06071162876068838,False,Left Foot,Open Play,1,0,2,Half Volley
-24.9098374141623,0.06732867144855846,False,Right Foot,Open Play,0,0,2,Normal
-43.69450766400738,0.08458148278100822,False,Left Foot,Free Kick,0,0,0,Normal
-13.408206442324792,0.06140792788766096,False,Right Foot,Open Play,1,0,0,Normal
-8.63133825081603,0.059054493009279084,False,Right Foot,Open Play,1,0,2,Overhead Kick
-24.27447218787671,0.06850135528640383,False,Left Foot,Open Play,0,0,2,Normal
-19.88064385275286,0.0588213631826497,False,Left Foot,Open Play,0,0,4,Normal
-22.726636354727027,0.06485186927339062,False,Right Foot,Free Kick,0,0,0,Normal
-20.73861133248801,0.06613778422728174,False,Right Foot,Open Play,1,0,1,Normal
-8.500588214941365,0.05812138231056161,False,Head,Open Play,0,1,4,Normal
-24.924285345822863,0.05829718459701835,False,Right Foot,Open Play,0,0,2,Normal
-12.120231020900553,0.05403517920677249,False,Right Foot,Open Play,1,0,2,Half Volley
-11.433722053644644,0.054689963546810945,False,Right Foot,Open Play,1,0,1,Normal
-18.17965896269785,0.06427681570823081,True,Right Foot,Open Play,0,0,2,Normal
-20.86552180032889,0.0661121440668529,False,Right Foot,Open Play,1,0,1,Half Volley
-21.61781672602486,0.06637554095965909,True,Right Foot,Open Play,0,0,3,Normal
-22.62741699796953,0.0627050002727286,False,Left Foot,Open Play,0,1,2,Normal
-10.261578825892242,0.05966851379041451,False,Head,Open Play,0,1,2,Normal
-9.126883367283703,0.058160810074306936,False,Right Foot,Open Play,1,1,1,Volley
-13.354400023962137,0.06162994690064088,True,Left Foot,Open Play,1,0,2,Half Volley
-23.663051367057463,0.05298094005833988,False,Right Foot,Open Play,1,0,0,Normal
-23.94013366712893,0.05628372353876078,False,Right Foot,Open Play,0,0,1,Normal
-12.525174649480936,0.055899863144136475,False,Head,Open Play,0,0,2,Normal
-23.062523712724936,0.06691029552095076,False,Left Foot,Open Play,0,0,1,Normal
-11.500000000000002,0.06063855764076506,False,Other,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900505,Yannis Salibur,Guingamp,31.702523558858847,0.06900700893806581,False,Left Foot,Open Play,1,0,0,Normal
+3900505,Marcus Coco,Guingamp,10.0568384694197,0.05965118429573804,False,Right Foot,Open Play,1,1,1,Half Volley
+3900505,Moustapha Elhadji Diallo,Guingamp,6.68505796534331,0.058011869248202695,False,Head,Open Play,0,1,1,Normal
+3900505,Ronny Rodelin,Stade Malherbe Caen,21.05825253908785,0.06071162876068838,False,Left Foot,Open Play,1,0,2,Half Volley
+3900505,Andy Delort,Stade Malherbe Caen,24.9098374141623,0.06732867144855846,False,Right Foot,Open Play,0,0,2,Normal
+3900505,Yannis Salibur,Guingamp,43.69450766400738,0.08458148278100822,False,Left Foot,Free Kick,0,0,0,Normal
+3900505,Ronny Rodelin,Stade Malherbe Caen,13.408206442324792,0.06140792788766096,False,Right Foot,Open Play,1,0,0,Normal
+3900505,Ronny Rodelin,Stade Malherbe Caen,8.63133825081603,0.059054493009279084,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3900505,Vincent Bessat,Stade Malherbe Caen,24.27447218787671,0.06850135528640383,False,Left Foot,Open Play,0,0,2,Normal
+3900505,Vincent Bessat,Stade Malherbe Caen,19.88064385275286,0.0588213631826497,False,Left Foot,Open Play,0,0,4,Normal
+3900505,Andy Delort,Stade Malherbe Caen,22.726636354727027,0.06485186927339062,False,Right Foot,Free Kick,0,0,0,Normal
+3900505,Andy Delort,Stade Malherbe Caen,20.73861133248801,0.06613778422728174,False,Right Foot,Open Play,1,0,1,Normal
+3900505,Damien Da Silva,Stade Malherbe Caen,8.500588214941365,0.05812138231056161,False,Head,Open Play,0,1,4,Normal
+3900505,Moustapha Elhadji Diallo,Guingamp,24.924285345822863,0.05829718459701835,False,Right Foot,Open Play,0,0,2,Normal
+3900505,Yannis Salibur,Guingamp,12.120231020900553,0.05403517920677249,False,Right Foot,Open Play,1,0,2,Half Volley
+3900505,Yannis Salibur,Guingamp,11.433722053644644,0.054689963546810945,False,Right Foot,Open Play,1,0,1,Normal
+3900505,Julien Féret,Stade Malherbe Caen,18.17965896269785,0.06427681570823081,True,Right Foot,Open Play,0,0,2,Normal
+3900505,Andy Delort,Stade Malherbe Caen,20.86552180032889,0.0661121440668529,False,Right Foot,Open Play,1,0,1,Half Volley
+3900505,Andy Delort,Stade Malherbe Caen,21.61781672602486,0.06637554095965909,True,Right Foot,Open Play,0,0,3,Normal
+3900505,Lionel Mathis,Guingamp,22.62741699796953,0.0627050002727286,False,Left Foot,Open Play,0,1,2,Normal
+3900505,Jimmy Briand,Guingamp,10.261578825892242,0.05966851379041451,False,Head,Open Play,0,1,2,Normal
+3900505,Jimmy Briand,Guingamp,9.126883367283703,0.058160810074306936,False,Right Foot,Open Play,1,1,1,Volley
+3900505,Dorian Lévêque,Guingamp,13.354400023962137,0.06162994690064088,True,Left Foot,Open Play,1,0,2,Half Volley
+3900505,Jordan Leborgne,Stade Malherbe Caen,23.663051367057463,0.05298094005833988,False,Right Foot,Open Play,1,0,0,Normal
+3900505,Andy Delort,Stade Malherbe Caen,23.94013366712893,0.05628372353876078,False,Right Foot,Open Play,0,0,1,Normal
+3900505,Jeff Louis,Stade Malherbe Caen,12.525174649480936,0.055899863144136475,False,Head,Open Play,0,0,2,Normal
+3900505,Vincent Bessat,Stade Malherbe Caen,23.062523712724936,0.06691029552095076,False,Left Foot,Open Play,0,0,1,Normal
+3900505,Dorian Lévêque,Guingamp,11.500000000000002,0.06063855764076506,False,Other,Open Play,0,0,1,Normal

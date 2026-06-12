@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.43908891458577,0.06455035714181609,False,Left Foot,Open Play,1,0,0,Normal
-31.37036818400447,0.06734414236117557,False,Left Foot,Free Kick,0,0,0,Normal
-31.959505628216466,0.06547500635461473,False,Left Foot,Open Play,1,1,1,Normal
-24.691699009991193,0.06873028421058174,False,Left Foot,Open Play,0,0,2,Normal
-23.679949324270105,0.05808770888439455,False,Right Foot,Open Play,0,0,2,Normal
-24.96878050686497,0.06864008693877083,False,Right Foot,Open Play,0,0,2,Normal
-24.536707195546843,0.054382132132078764,False,Right Foot,Open Play,0,0,2,Normal
-17.215400082484294,0.05857190432376248,False,Left Foot,Open Play,0,1,2,Normal
-11.708543888972702,0.05859149592042521,False,Head,Open Play,0,0,5,Normal
-10.768936809174798,0.05966159514795239,False,Right Foot,Open Play,1,1,4,Volley
-22.717834403833475,0.06744286821406908,False,Left Foot,Open Play,1,0,0,Half Volley
-25.60956852428405,0.060347913597184104,True,Left Foot,Open Play,0,0,0,Normal
-8.782368700982673,0.05863096578800757,False,Head,Open Play,0,0,4,Normal
-18.38967101391431,0.06453464626535539,False,Right Foot,Open Play,0,1,2,Normal
-13.313526955694341,0.061362141594186084,False,Head,Open Play,0,0,2,Normal
-19.54891301325984,0.055429754403368024,False,Left Foot,Open Play,0,0,1,Normal
-13.688316185711077,0.06182966346573631,False,Left Foot,Open Play,1,1,2,Normal
-12.165525060596439,0.06029976687390507,False,Right Foot,Open Play,1,1,2,Volley
-26.636253490309034,0.062173563216007775,False,Left Foot,Open Play,0,1,1,Normal
-31.472051092993603,0.07381868723652701,False,Right Foot,Free Kick,0,0,0,Normal
-21.982265579325524,0.06678180886082861,False,Right Foot,Open Play,1,0,1,Volley
-6.407027391856544,0.057224022788274674,False,Head,Open Play,0,0,4,Normal
-4.701063709417265,0.05539382847660981,True,Left Foot,Open Play,1,0,3,Half Volley
-10.244998779892557,0.05994756870062114,True,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879619,Domenico Berardi,Sassuolo,18.43908891458577,0.06455035714181609,False,Left Foot,Open Play,1,0,0,Normal
+3879619,Domenico Berardi,Sassuolo,31.37036818400447,0.06734414236117557,False,Left Foot,Free Kick,0,0,0,Normal
+3879619,Alberto Facundo Costa,Genoa,31.959505628216466,0.06547500635461473,False,Left Foot,Open Play,1,1,1,Normal
+3879619,Diego Sebastián Laxalt Suárez,Genoa,24.691699009991193,0.06873028421058174,False,Left Foot,Open Play,0,0,2,Normal
+3879619,Leonardo Pavoletti,Genoa,23.679949324270105,0.05808770888439455,False,Right Foot,Open Play,0,0,2,Normal
+3879619,Nicola Sansone,Sassuolo,24.96878050686497,0.06864008693877083,False,Right Foot,Open Play,0,0,2,Normal
+3879619,Darko Lazović,Genoa,24.536707195546843,0.054382132132078764,False,Right Foot,Open Play,0,0,2,Normal
+3879619,Domenico Berardi,Sassuolo,17.215400082484294,0.05857190432376248,False,Left Foot,Open Play,0,1,2,Normal
+3879619,Leonardo Pavoletti,Genoa,11.708543888972702,0.05859149592042521,False,Head,Open Play,0,0,5,Normal
+3879619,Federico Peluso,Sassuolo,10.768936809174798,0.05966159514795239,False,Right Foot,Open Play,1,1,4,Volley
+3879619,Alberto Facundo Costa,Genoa,22.717834403833475,0.06744286821406908,False,Left Foot,Open Play,1,0,0,Half Volley
+3879619,Tomás Eduardo Rincón Hernández,Genoa,25.60956852428405,0.060347913597184104,True,Left Foot,Open Play,0,0,0,Normal
+3879619,Leonardo Pavoletti,Genoa,8.782368700982673,0.05863096578800757,False,Head,Open Play,0,0,4,Normal
+3879619,Leonardo Pavoletti,Genoa,18.38967101391431,0.06453464626535539,False,Right Foot,Open Play,0,1,2,Normal
+3879619,Nicolás Andrés Burdisso,Genoa,13.313526955694341,0.061362141594186084,False,Head,Open Play,0,0,2,Normal
+3879619,Matteo Politano,Sassuolo,19.54891301325984,0.055429754403368024,False,Left Foot,Open Play,0,0,1,Normal
+3879619,Serge Gakpé,Genoa,13.688316185711077,0.06182966346573631,False,Left Foot,Open Play,1,1,2,Normal
+3879619,Diego Sebastián Laxalt Suárez,Genoa,12.165525060596439,0.06029976687390507,False,Right Foot,Open Play,1,1,2,Volley
+3879619,Alberto Facundo Costa,Genoa,26.636253490309034,0.062173563216007775,False,Left Foot,Open Play,0,1,1,Normal
+3879619,Antonio Floro Flores,Sassuolo,31.472051092993603,0.07381868723652701,False,Right Foot,Free Kick,0,0,0,Normal
+3879619,Paolo Cannavaro,Sassuolo,21.982265579325524,0.06678180886082861,False,Right Foot,Open Play,1,0,1,Volley
+3879619,Šime Vrsaljko,Sassuolo,6.407027391856544,0.057224022788274674,False,Head,Open Play,0,0,4,Normal
+3879619,Francesco Acerbi,Sassuolo,4.701063709417265,0.05539382847660981,True,Left Foot,Open Play,1,0,3,Half Volley
+3879619,Leonardo Pavoletti,Genoa,10.244998779892557,0.05994756870062114,True,Head,Open Play,0,1,2,Normal

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.21881623300541,0.05552676178637429,False,Left Foot,Open Play,1,0,3,Normal
-13.645878498652996,0.06184853103497945,True,Left Foot,Open Play,0,0,1,Normal
-30.080724725312052,0.070040605415816,False,Right Foot,Open Play,0,0,0,Normal
-23.067076104266008,0.06598784643889294,False,Left Foot,Open Play,1,0,0,Normal
-13.865424623862044,0.06192411110971987,False,Left Foot,Open Play,0,0,1,Volley
-22.046541678911908,0.05931876545777289,False,Left Foot,Open Play,0,1,1,Normal
-66.54021340512818,0.04586514567774578,True,Right Foot,Free Kick,0,0,0,Normal
-9.052071586106683,0.059255578072087485,True,Left Foot,Open Play,0,0,2,Half Volley
-6.8066144300966505,0.05738080651113754,True,Head,Open Play,0,0,2,Normal
-26.16963889701194,0.06864787006979862,False,Right Foot,Open Play,0,0,1,Normal
-9.68813707582629,0.05790773989439806,False,Head,Open Play,0,1,4,Normal
-27.929196193231196,0.07074009039887932,False,Right Foot,Open Play,0,0,1,Normal
-8.091971329657568,0.054868490735975294,False,Left Foot,Open Play,1,0,3,Half Volley
-30.573517952633456,0.05410827411638842,False,Left Foot,Open Play,0,0,1,Normal
-31.10401903291599,0.06463379716472298,False,Left Foot,Open Play,0,0,0,Normal
-12.831601614763455,0.06107347292082944,False,Left Foot,Open Play,0,1,2,Normal
-19.148106956041378,0.05923993781442773,True,Left Foot,Open Play,0,0,1,Normal
-28.619049599873154,0.07097118937064331,False,Right Foot,Open Play,0,0,2,Normal
-17.755280904564707,0.061474715938059296,False,Right Foot,Open Play,0,0,2,Half Volley
-12.360016181219185,0.05608261027087241,False,Head,Open Play,0,0,0,Normal
-31.529351404683222,0.05932871276603322,False,Right Foot,Open Play,0,0,1,Normal
-13.151805959639152,0.06033016809456262,False,Left Foot,Open Play,0,1,1,Normal
-7.942921376924233,0.05312125569836824,False,Right Foot,Open Play,1,0,1,Half Volley
-18.33712082089225,0.06360506008626504,False,Right Foot,Open Play,0,0,1,Normal
-29.798154305258574,0.07210083509386966,False,Right Foot,Open Play,1,0,1,Half Volley
-23.06274051365102,0.06527334204891679,True,Right Foot,Open Play,1,0,1,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19810,Courtney Sweetman-Kirk,Liverpool WFC,16.21881623300541,0.05552676178637429,False,Left Foot,Open Play,1,0,3,Normal
+19810,Rinsola Babajide,Liverpool WFC,13.645878498652996,0.06184853103497945,True,Left Foot,Open Play,0,0,1,Normal
+19810,Courtney Sweetman-Kirk,Liverpool WFC,30.080724725312052,0.070040605415816,False,Right Foot,Open Play,0,0,0,Normal
+19810,Jemma Elizabeth Purfield,Liverpool WFC,23.067076104266008,0.06598784643889294,False,Left Foot,Open Play,1,0,0,Normal
+19810,Abigail Harrison,Bristol City WFC,13.865424623862044,0.06192411110971987,False,Left Foot,Open Play,0,0,1,Volley
+19810,Poppy Pattinson,Bristol City WFC,22.046541678911908,0.05931876545777289,False,Left Foot,Open Play,0,1,1,Normal
+19810,Danique Kerkdijk,Bristol City WFC,66.54021340512818,0.04586514567774578,True,Right Foot,Free Kick,0,0,0,Normal
+19810,Rinsola Babajide,Liverpool WFC,9.052071586106683,0.059255578072087485,True,Left Foot,Open Play,0,0,2,Half Volley
+19810,Yana Daniëls,Liverpool WFC,6.8066144300966505,0.05738080651113754,True,Head,Open Play,0,0,2,Normal
+19810,Abigail Harrison,Bristol City WFC,26.16963889701194,0.06864787006979862,False,Right Foot,Open Play,0,0,1,Normal
+19810,Lucy Hope,Bristol City WFC,9.68813707582629,0.05790773989439806,False,Head,Open Play,0,1,4,Normal
+19810,Frankie Brown,Bristol City WFC,27.929196193231196,0.07074009039887932,False,Right Foot,Open Play,0,0,1,Normal
+19810,Ella Rutherford,Bristol City WFC,8.091971329657568,0.054868490735975294,False,Left Foot,Open Play,1,0,3,Half Volley
+19810,Yana Daniëls,Liverpool WFC,30.573517952633456,0.05410827411638842,False,Left Foot,Open Play,0,0,1,Normal
+19810,Lucy Hope,Bristol City WFC,31.10401903291599,0.06463379716472298,False,Left Foot,Open Play,0,0,0,Normal
+19810,Rinsola Babajide,Liverpool WFC,12.831601614763455,0.06107347292082944,False,Left Foot,Open Play,0,1,2,Normal
+19810,Rinsola Babajide,Liverpool WFC,19.148106956041378,0.05923993781442773,True,Left Foot,Open Play,0,0,1,Normal
+19810,Lucy Hope,Bristol City WFC,28.619049599873154,0.07097118937064331,False,Right Foot,Open Play,0,0,2,Normal
+19810,Laura Coombs,Liverpool WFC,17.755280904564707,0.061474715938059296,False,Right Foot,Open Play,0,0,2,Half Volley
+19810,Niamh Charles,Liverpool WFC,12.360016181219185,0.05608261027087241,False,Head,Open Play,0,0,0,Normal
+19810,Laura Coombs,Liverpool WFC,31.529351404683222,0.05932871276603322,False,Right Foot,Open Play,0,0,1,Normal
+19810,Abigail Harrison,Bristol City WFC,13.151805959639152,0.06033016809456262,False,Left Foot,Open Play,0,1,1,Normal
+19810,Katie Robinson,Bristol City WFC,7.942921376924233,0.05312125569836824,False,Right Foot,Open Play,1,0,1,Half Volley
+19810,Laura Coombs,Liverpool WFC,18.33712082089225,0.06360506008626504,False,Right Foot,Open Play,0,0,1,Normal
+19810,Lucy Hope,Bristol City WFC,29.798154305258574,0.07210083509386966,False,Right Foot,Open Play,1,0,1,Half Volley
+19810,Ashley Hodson,Liverpool WFC,23.06274051365102,0.06527334204891679,True,Right Foot,Open Play,1,0,1,Lob

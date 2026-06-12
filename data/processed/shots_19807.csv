@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.472664701987377,0.06595086167755759,False,Right Foot,Open Play,0,1,2,Normal
-9.929753269845127,0.05315574888022526,False,Right Foot,Open Play,1,0,0,Half Volley
-7.125307010929418,0.05740203168551189,False,Head,Open Play,0,1,4,Normal
-20.39313610016861,0.05828533617651033,True,Left Foot,Open Play,0,0,3,Normal
-9.999999999999995,0.05953216575869893,False,Head,Open Play,0,0,2,Normal
-20.35386941099898,0.05913267863476178,False,Right Foot,Open Play,1,0,0,Normal
-8.489994110716454,0.057299939328869676,False,Right Foot,Open Play,1,0,5,Volley
-15.984054554461459,0.05997755486989432,False,Right Foot,Open Play,1,0,1,Volley
-28.014282071829005,0.05343472258229411,False,Left Foot,Open Play,1,0,2,Normal
-29.37158490786631,0.07214159093543873,False,Right Foot,Open Play,0,1,1,Normal
-8.30240928887513,0.05845757983425166,False,Right Foot,Open Play,0,0,4,Half Volley
-6.021627686929843,0.055640240513741564,False,Left Foot,Open Play,0,0,5,Half Volley
-11.901680553602509,0.059477991333385986,True,Right Foot,Penalty,0,0,0,Normal
-10.782393055347223,0.0567773415214989,False,Left Foot,Open Play,1,0,3,Normal
-25.687740266516244,0.06719860480930617,False,Right Foot,Open Play,0,0,2,Normal
-11.56633044660233,0.06068492681775848,False,Head,Open Play,0,1,3,Normal
-14.921796138535065,0.06148208564673353,False,Left Foot,Open Play,0,0,3,Normal
-22.67443494334534,0.05848508532309095,False,Right Foot,Open Play,1,0,1,Normal
-10.294173109094285,0.05974817554069021,False,Right Foot,Open Play,1,0,0,Normal
-15.307514494521966,0.06155651904903661,False,Left Foot,Open Play,0,0,2,Normal
-3.5171010790137998,0.055891477927208,False,Right Foot,Open Play,1,0,7,Volley
-2.906888370749732,0.05591091025055919,False,Right Foot,Open Play,0,0,8,Normal
-23.52806834400139,0.06687715465434382,False,Left Foot,Open Play,1,0,0,Normal
-33.811980125393426,0.07391651360265697,False,Right Foot,Open Play,0,0,1,Normal
-7.653757247260986,0.056232354829817005,True,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19807,Courtney Sweetman-Kirk,Liverpool WFC,20.472664701987377,0.06595086167755759,False,Right Foot,Open Play,0,1,2,Normal
+19807,Abbie McManus,Manchester City WFC,9.929753269845127,0.05315574888022526,False,Right Foot,Open Play,1,0,0,Half Volley
+19807,Jill Scott,Manchester City WFC,7.125307010929418,0.05740203168551189,False,Head,Open Play,0,1,4,Normal
+19807,Claire Emslie,Manchester City WFC,20.39313610016861,0.05828533617651033,True,Left Foot,Open Play,0,0,3,Normal
+19807,Stephanie Houghton,Manchester City WFC,9.999999999999995,0.05953216575869893,False,Head,Open Play,0,0,2,Normal
+19807,Stephanie Houghton,Manchester City WFC,20.35386941099898,0.05913267863476178,False,Right Foot,Open Play,1,0,0,Normal
+19807,Nikita Parris,Manchester City WFC,8.489994110716454,0.057299939328869676,False,Right Foot,Open Play,1,0,5,Volley
+19807,Claire Emslie,Manchester City WFC,15.984054554461459,0.05997755486989432,False,Right Foot,Open Play,1,0,1,Volley
+19807,Lauren Hemp,Manchester City WFC,28.014282071829005,0.05343472258229411,False,Left Foot,Open Play,1,0,2,Normal
+19807,Laura Coombs,Liverpool WFC,29.37158490786631,0.07214159093543873,False,Right Foot,Open Play,0,1,1,Normal
+19807,Yana Daniëls,Liverpool WFC,8.30240928887513,0.05845757983425166,False,Right Foot,Open Play,0,0,4,Half Volley
+19807,Niamh Fahey,Liverpool WFC,6.021627686929843,0.055640240513741564,False,Left Foot,Open Play,0,0,5,Half Volley
+19807,Courtney Sweetman-Kirk,Liverpool WFC,11.901680553602509,0.059477991333385986,True,Right Foot,Penalty,0,0,0,Normal
+19807,Caroline Weir,Manchester City WFC,10.782393055347223,0.0567773415214989,False,Left Foot,Open Play,1,0,3,Normal
+19807,Caroline Weir,Manchester City WFC,25.687740266516244,0.06719860480930617,False,Right Foot,Open Play,0,0,2,Normal
+19807,Stephanie Houghton,Manchester City WFC,11.56633044660233,0.06068492681775848,False,Head,Open Play,0,1,3,Normal
+19807,Caroline Weir,Manchester City WFC,14.921796138535065,0.06148208564673353,False,Left Foot,Open Play,0,0,3,Normal
+19807,Tessa Wullaert,Manchester City WFC,22.67443494334534,0.05848508532309095,False,Right Foot,Open Play,1,0,1,Normal
+19807,Nikita Parris,Manchester City WFC,10.294173109094285,0.05974817554069021,False,Right Foot,Open Play,1,0,0,Normal
+19807,Demi Stokes,Manchester City WFC,15.307514494521966,0.06155651904903661,False,Left Foot,Open Play,0,0,2,Normal
+19807,Nikita Parris,Manchester City WFC,3.5171010790137998,0.055891477927208,False,Right Foot,Open Play,1,0,7,Volley
+19807,Nikita Parris,Manchester City WFC,2.906888370749732,0.05591091025055919,False,Right Foot,Open Play,0,0,8,Normal
+19807,Keira Walsh,Manchester City WFC,23.52806834400139,0.06687715465434382,False,Left Foot,Open Play,1,0,0,Normal
+19807,Courtney Sweetman-Kirk,Liverpool WFC,33.811980125393426,0.07391651360265697,False,Right Foot,Open Play,0,0,1,Normal
+19807,Jennifer Patricia Beattie,Manchester City WFC,7.653757247260986,0.056232354829817005,True,Head,Open Play,0,1,3,Normal

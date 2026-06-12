@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.980545041794475,0.06435629447121677,False,Right Foot,Open Play,0,0,2,Normal
-38.94624500513497,0.06771553188756362,False,Right Foot,Open Play,0,0,1,Normal
-18.134221791960087,0.062884332746533,False,Left Foot,Open Play,1,0,1,Half Volley
-36.373616812189574,0.07436063695574174,False,Right Foot,Open Play,1,1,1,Normal
-13.63561513097227,0.0524765425515994,False,Right Foot,Open Play,0,0,2,Normal
-25.938388538997565,0.06073752534810619,False,Left Foot,Open Play,0,1,2,Normal
-17.70706073858674,0.06305085675509339,False,Left Foot,Open Play,0,0,3,Normal
-23.760471375795554,0.05429275754118293,False,Right Foot,Open Play,0,0,1,Normal
-20.100995000248123,0.05641243565000663,False,Left Foot,Open Play,1,0,2,Volley
-27.20183817318234,0.057918111993379325,False,Left Foot,Open Play,1,0,1,Normal
-8.102468759581857,0.05883586317744952,False,Right Foot,Open Play,1,1,1,Normal
-7.4732857566133495,0.058441876409982954,True,Right Foot,Open Play,1,0,3,Volley
-29.00362046365936,0.054873661658397244,False,Left Foot,Open Play,0,1,1,Normal
-11.112605455067683,0.06035860548226781,False,Head,Open Play,0,1,4,Normal
-19.816155025635016,0.06334555693733739,False,Left Foot,Open Play,1,0,4,Normal
-13.440610105199836,0.06138501733083017,False,Left Foot,Open Play,1,0,4,Normal
-18.05436235373601,0.06373149101661152,False,Right Foot,Open Play,1,0,0,Normal
-14.299999999999997,0.060566812221237006,False,Left Foot,Open Play,0,0,2,Normal
-13.001538370516005,0.06008591076245971,False,Head,Open Play,0,0,2,Normal
-13.219682295728594,0.05233669588605654,False,Left Foot,Open Play,0,0,1,Normal
-25.749757280409458,0.055277698908102704,False,Right Foot,Open Play,0,0,2,Normal
-20.831226560142827,0.05710554308969313,False,Right Foot,Open Play,0,0,1,Normal
-23.280034364235803,0.056237379107874366,False,Left Foot,Open Play,0,1,2,Normal
-7.605918747922571,0.05855113339024859,True,Head,Open Play,0,0,3,Normal
-26.57084868798887,0.056851162737810615,False,Right Foot,Free Kick,0,0,0,Normal
-30.81963659746818,0.06768230047476541,False,Right Foot,Open Play,0,0,0,Normal
-13.013838787997953,0.06023211740745426,False,Right Foot,Open Play,1,0,2,Normal
-19.743353311937668,0.06535980206670765,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825865,Pablo Sarabia García,Getafe,17.980545041794475,0.06435629447121677,False,Right Foot,Open Play,0,0,2,Normal
+3825865,Santiago Vergini,Getafe,38.94624500513497,0.06771553188756362,False,Right Foot,Open Play,0,0,1,Normal
+3825865,Jonathan Rodríguez Menéndez,Sporting Gijón,18.134221791960087,0.062884332746533,False,Left Foot,Open Play,1,0,1,Half Volley
+3825865,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,36.373616812189574,0.07436063695574174,False,Right Foot,Open Play,1,1,1,Normal
+3825865,Pedro León Sánchez Gil,Getafe,13.63561513097227,0.0524765425515994,False,Right Foot,Open Play,0,0,2,Normal
+3825865,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,25.938388538997565,0.06073752534810619,False,Left Foot,Open Play,0,1,2,Normal
+3825865,Pablo Sarabia García,Getafe,17.70706073858674,0.06305085675509339,False,Left Foot,Open Play,0,0,3,Normal
+3825865,Pedro León Sánchez Gil,Getafe,23.760471375795554,0.05429275754118293,False,Right Foot,Open Play,0,0,1,Normal
+3825865,Pedro León Sánchez Gil,Getafe,20.100995000248123,0.05641243565000663,False,Left Foot,Open Play,1,0,2,Volley
+3825865,Jonathan Rodríguez Menéndez,Sporting Gijón,27.20183817318234,0.057918111993379325,False,Left Foot,Open Play,1,0,1,Normal
+3825865,Álvaro Vázquez García,Getafe,8.102468759581857,0.05883586317744952,False,Right Foot,Open Play,1,1,1,Normal
+3825865,Sergio Álvarez Díaz,Sporting Gijón,7.4732857566133495,0.058441876409982954,True,Right Foot,Open Play,1,0,3,Volley
+3825865,Alen Halilović,Sporting Gijón,29.00362046365936,0.054873661658397244,False,Left Foot,Open Play,0,1,1,Normal
+3825865,Álvaro Medrán Just,Getafe,11.112605455067683,0.06035860548226781,False,Head,Open Play,0,1,4,Normal
+3825865,Pedro León Sánchez Gil,Getafe,19.816155025635016,0.06334555693733739,False,Left Foot,Open Play,1,0,4,Normal
+3825865,Emiliano Buendía,Getafe,13.440610105199836,0.06138501733083017,False,Left Foot,Open Play,1,0,4,Normal
+3825865,Stefan Šćepović,Getafe,18.05436235373601,0.06373149101661152,False,Right Foot,Open Play,1,0,0,Normal
+3825865,Pedro León Sánchez Gil,Getafe,14.299999999999997,0.060566812221237006,False,Left Foot,Open Play,0,0,2,Normal
+3825865,Álvaro Medrán Just,Getafe,13.001538370516005,0.06008591076245971,False,Head,Open Play,0,0,2,Normal
+3825865,Jonathan Rodríguez Menéndez,Sporting Gijón,13.219682295728594,0.05233669588605654,False,Left Foot,Open Play,0,0,1,Normal
+3825865,Pedro León Sánchez Gil,Getafe,25.749757280409458,0.055277698908102704,False,Right Foot,Open Play,0,0,2,Normal
+3825865,Ismael López Blanco,Sporting Gijón,20.831226560142827,0.05710554308969313,False,Right Foot,Open Play,0,0,1,Normal
+3825865,Pedro León Sánchez Gil,Getafe,23.280034364235803,0.056237379107874366,False,Left Foot,Open Play,0,1,2,Normal
+3825865,Stefan Šćepović,Getafe,7.605918747922571,0.05855113339024859,True,Head,Open Play,0,0,3,Normal
+3825865,Pedro León Sánchez Gil,Getafe,26.57084868798887,0.056851162737810615,False,Right Foot,Free Kick,0,0,0,Normal
+3825865,Álvaro Medrán Just,Getafe,30.81963659746818,0.06768230047476541,False,Right Foot,Open Play,0,0,0,Normal
+3825865,Pedro León Sánchez Gil,Getafe,13.013838787997953,0.06023211740745426,False,Right Foot,Open Play,1,0,2,Normal
+3825865,Ismael López Blanco,Sporting Gijón,19.743353311937668,0.06535980206670765,False,Right Foot,Open Play,0,0,3,Normal

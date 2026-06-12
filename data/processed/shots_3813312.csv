@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.647344063956181,0.05329999713872263,True,Right Foot,Open Play,1,0,0,Normal
-11.16288493177279,0.05983293138419562,False,Left Foot,Open Play,1,0,1,Overhead Kick
-30.212083675244905,0.06939740780942899,False,Right Foot,Open Play,0,0,2,Normal
-7.716216689544173,0.05799588734371482,False,Head,Open Play,0,1,4,Normal
-6.762396025078688,0.0563763169927584,False,Right Foot,Open Play,1,0,1,Normal
-3.2310988842807036,0.05565297225671757,True,Other,Open Play,0,0,2,Normal
-27.193013808697263,0.06917629728127485,False,Right Foot,Open Play,0,0,1,Normal
-30.346334210246873,0.06310181067077969,False,Right Foot,Open Play,0,0,0,Normal
-18.694651641579203,0.06473931277977944,False,Left Foot,Open Play,1,0,1,Normal
-21.337759957408835,0.05074355456300356,False,Right Foot,Open Play,1,0,2,Normal
-9.542536350467838,0.05467160507876339,False,Head,Open Play,0,1,2,Normal
-4.527692569068711,0.05702456262188981,True,Left Foot,Open Play,1,0,1,Volley
-19.32278447843375,0.06473800548342362,False,Left Foot,Open Play,0,0,4,Normal
-22.772790781983655,0.06298205728612585,False,Right Foot,Open Play,0,0,2,Normal
-23.67129062810053,0.06807121803374999,False,Right Foot,Open Play,0,0,3,Normal
-9.687620966986685,0.059573868080783514,True,Head,Open Play,0,0,3,Normal
-15.834456100542257,0.06301919861834697,True,Left Foot,Open Play,0,0,3,Normal
-16.97586522095413,0.05480409513966002,False,Right Foot,Open Play,0,1,1,Normal
-15.932670836994028,0.0532633305288235,False,Right Foot,Open Play,0,1,1,Half Volley
-30.280356668969404,0.059455588647025014,False,Right Foot,Open Play,0,0,0,Normal
-26.503018695990086,0.06596140779096761,True,Right Foot,Open Play,0,0,1,Normal
-17.423260314877933,0.06155199084992102,False,Right Foot,Open Play,1,0,1,Normal
-18.886238376129853,0.06396650898971021,False,Right Foot,Open Play,0,0,1,Normal
-38.30835418025682,0.07281980382331528,False,Right Foot,Free Kick,0,0,0,Normal
-13.320660644277368,0.05559633321339566,False,Right Foot,Open Play,1,1,2,Normal
-40.319350193176476,0.06310309834924295,False,Right Foot,Open Play,1,0,0,Half Volley
-23.04972884873052,0.0661584692267584,False,Right Foot,Open Play,0,0,3,Normal
-33.001363608190495,0.0696267887826618,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813312,Vikram Partap Singh,Mumbai City,13.647344063956181,0.05329999713872263,True,Right Foot,Open Play,1,0,0,Normal
+3813312,Igor Angulo Albóniga,Mumbai City,11.16288493177279,0.05983293138419562,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3813312,Joni Ensio Kauko,Mohun Bagan Super Giant,30.212083675244905,0.06939740780942899,False,Right Foot,Open Play,0,0,2,Normal
+3813312,Carl Gerard McHugh,Mohun Bagan Super Giant,7.716216689544173,0.05799588734371482,False,Head,Open Play,0,1,4,Normal
+3813312,Vikram Partap Singh,Mumbai City,6.762396025078688,0.0563763169927584,False,Right Foot,Open Play,1,0,1,Normal
+3813312,Vikram Partap Singh,Mumbai City,3.2310988842807036,0.05565297225671757,True,Other,Open Play,0,0,2,Normal
+3813312,Deepak Tangri,Mohun Bagan Super Giant,27.193013808697263,0.06917629728127485,False,Right Foot,Open Play,0,0,1,Normal
+3813312,Ahmed Jahouh,Mumbai City,30.346334210246873,0.06310181067077969,False,Right Foot,Open Play,0,0,0,Normal
+3813312,Igor Angulo Albóniga,Mumbai City,18.694651641579203,0.06473931277977944,False,Left Foot,Open Play,1,0,1,Normal
+3813312,Cássio Gabriel Vilela Ferreira,Mumbai City,21.337759957408835,0.05074355456300356,False,Right Foot,Open Play,1,0,2,Normal
+3813312,Serigne Mourtada Fall,Mumbai City,9.542536350467838,0.05467160507876339,False,Head,Open Play,0,1,2,Normal
+3813312,Igor Angulo Albóniga,Mumbai City,4.527692569068711,0.05702456262188981,True,Left Foot,Open Play,1,0,1,Volley
+3813312,Hugo Adnan Boumous,Mohun Bagan Super Giant,19.32278447843375,0.06473800548342362,False,Left Foot,Open Play,0,0,4,Normal
+3813312,Roy Krishna,Mohun Bagan Super Giant,22.772790781983655,0.06298205728612585,False,Right Foot,Open Play,0,0,2,Normal
+3813312,Joni Ensio Kauko,Mohun Bagan Super Giant,23.67129062810053,0.06807121803374999,False,Right Foot,Open Play,0,0,3,Normal
+3813312,Serigne Mourtada Fall,Mumbai City,9.687620966986685,0.059573868080783514,True,Head,Open Play,0,0,3,Normal
+3813312,Bipin Singh Thounajam,Mumbai City,15.834456100542257,0.06301919861834697,True,Left Foot,Open Play,0,0,3,Normal
+3813312,Manvir Singh,Mohun Bagan Super Giant,16.97586522095413,0.05480409513966002,False,Right Foot,Open Play,0,1,1,Normal
+3813312,Amey Ganesh Ranawade,Mumbai City,15.932670836994028,0.0532633305288235,False,Right Foot,Open Play,0,1,1,Half Volley
+3813312,Bipin Singh Thounajam,Mumbai City,30.280356668969404,0.059455588647025014,False,Right Foot,Open Play,0,0,0,Normal
+3813312,David Joel Williams,Mohun Bagan Super Giant,26.503018695990086,0.06596140779096761,True,Right Foot,Open Play,0,0,1,Normal
+3813312,Cássio Gabriel Vilela Ferreira,Mumbai City,17.423260314877933,0.06155199084992102,False,Right Foot,Open Play,1,0,1,Normal
+3813312,Cássio Gabriel Vilela Ferreira,Mumbai City,18.886238376129853,0.06396650898971021,False,Right Foot,Open Play,0,0,1,Normal
+3813312,Cássio Gabriel Vilela Ferreira,Mumbai City,38.30835418025682,0.07281980382331528,False,Right Foot,Free Kick,0,0,0,Normal
+3813312,Ygor de Oliveira Ferreira,Mumbai City,13.320660644277368,0.05559633321339566,False,Right Foot,Open Play,1,1,2,Normal
+3813312,Prabir Das,Mohun Bagan Super Giant,40.319350193176476,0.06310309834924295,False,Right Foot,Open Play,1,0,0,Half Volley
+3813312,Subhasish Bose,Mohun Bagan Super Giant,23.04972884873052,0.0661584692267584,False,Right Foot,Open Play,0,0,3,Normal
+3813312,Gurkirat Singh,Mumbai City,33.001363608190495,0.0696267887826618,False,Left Foot,Open Play,0,0,2,Normal

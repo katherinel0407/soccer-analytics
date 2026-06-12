@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.186793443532373,0.05835924398990621,False,Left Foot,Open Play,1,1,3,Normal
-7.072481884034773,0.05830507062987023,True,Head,Open Play,0,1,3,Normal
-5.108815909777918,0.05494112842896832,True,Head,Open Play,0,1,4,Normal
-14.524806367039798,0.05831133770591214,False,Left Foot,Open Play,1,0,2,Half Volley
-11.042191811411353,0.05988271106269109,False,Head,Open Play,0,0,2,Normal
-22.249719099350443,0.057266199819180075,False,Left Foot,Open Play,0,0,1,Normal
-13.555810562264428,0.06159978981396798,False,Head,Open Play,0,1,3,Normal
-15.07116452036803,0.0626076181807238,False,Left Foot,Open Play,0,1,1,Normal
-12.226201372462336,0.060626017795761974,False,Head,Open Play,0,0,1,Normal
-12.010412149464313,0.05941150235536282,False,Left Foot,Open Play,1,0,3,Half Volley
-25.411808278829746,0.050814521803792013,False,Left Foot,Open Play,1,0,2,Normal
-17.63008791810182,0.05723491207144549,False,Right Foot,Open Play,1,0,1,Half Volley
-8.296987405076617,0.05722308185749087,False,Other,Open Play,0,0,2,Normal
-21.284971223847116,0.06034261954863907,False,Left Foot,Open Play,1,0,3,Normal
-21.55411793602327,0.06664717388259471,False,Left Foot,Open Play,1,0,0,Normal
-7.559100475585705,0.0562988565665702,False,Head,Open Play,0,1,7,Normal
-17.00264685276972,0.06162227915888417,False,Right Foot,Open Play,1,0,2,Volley
-11.543396380615196,0.059735226027091456,False,Head,Open Play,0,1,3,Normal
-13.849548729110278,0.05885714835734746,False,Right Foot,Open Play,0,0,3,Volley
-25.107170290576352,0.06578164059722358,False,Right Foot,Open Play,1,0,2,Normal
-13.5988970140964,0.06052125914276702,False,Right Foot,Open Play,0,1,1,Normal
-15.654072952429978,0.061632865990228075,False,Left Foot,Open Play,0,0,2,Half Volley
-19.68882932020083,0.06544670508938041,False,Left Foot,Open Play,1,0,0,Normal
-23.313729860320503,0.06093418040811333,False,Right Foot,Open Play,1,0,0,Volley
-11.961605243444549,0.06069410771926329,False,Head,Open Play,0,1,3,Normal
-29.129023327259016,0.06326960666732587,False,Right Foot,Open Play,0,0,0,Normal
-23.08679276123039,0.0654107873923527,False,Left Foot,Open Play,1,0,1,Normal
-11.85622199522259,0.06080066231425951,False,Right Foot,Open Play,1,0,1,Volley
-17.82722636867552,0.06405305548169285,False,Right Foot,Open Play,1,0,2,Normal
-39.60012626242497,0.060929676800111174,True,Right Foot,Corner,0,0,0,Normal
-15.239750654128176,0.06202906942057021,False,Right Foot,Open Play,1,0,1,Half Volley
-13.510366390294527,0.06162581594290907,False,Head,Open Play,0,1,2,Normal
-13.35552320203143,0.06099577650404917,False,Right Foot,Open Play,0,1,2,Normal
-12.034118164618457,0.053251172311721405,False,Right Foot,Open Play,0,0,2,Normal
-26.377452492611948,0.06904444690427132,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775652,Samantha May Kerr,Chelsea FCW,7.186793443532373,0.05835924398990621,False,Left Foot,Open Play,1,1,3,Normal
+3775652,Samantha May Kerr,Chelsea FCW,7.072481884034773,0.05830507062987023,True,Head,Open Play,0,1,3,Normal
+3775652,Aileen Whelan,Brighton & Hove Albion WFC,5.108815909777918,0.05494112842896832,True,Head,Open Play,0,1,4,Normal
+3775652,Guro Reiten,Chelsea FCW,14.524806367039798,0.05831133770591214,False,Left Foot,Open Play,1,0,2,Half Volley
+3775652,Bethany England,Chelsea FCW,11.042191811411353,0.05988271106269109,False,Head,Open Play,0,0,2,Normal
+3775652,Guro Reiten,Chelsea FCW,22.249719099350443,0.057266199819180075,False,Left Foot,Open Play,0,0,1,Normal
+3775652,Aileen Whelan,Brighton & Hove Albion WFC,13.555810562264428,0.06159978981396798,False,Head,Open Play,0,1,3,Normal
+3775652,Samantha May Kerr,Chelsea FCW,15.07116452036803,0.0626076181807238,False,Left Foot,Open Play,0,1,1,Normal
+3775652,Guro Reiten,Chelsea FCW,12.226201372462336,0.060626017795761974,False,Head,Open Play,0,0,1,Normal
+3775652,Bethany England,Chelsea FCW,12.010412149464313,0.05941150235536282,False,Left Foot,Open Play,1,0,3,Half Volley
+3775652,Bethany England,Chelsea FCW,25.411808278829746,0.050814521803792013,False,Left Foot,Open Play,1,0,2,Normal
+3775652,Jessie Alexandra Fleming,Chelsea FCW,17.63008791810182,0.05723491207144549,False,Right Foot,Open Play,1,0,1,Half Volley
+3775652,Erin Cuthbert,Chelsea FCW,8.296987405076617,0.05722308185749087,False,Other,Open Play,0,0,2,Normal
+3775652,Guro Reiten,Chelsea FCW,21.284971223847116,0.06034261954863907,False,Left Foot,Open Play,1,0,3,Normal
+3775652,Jonna Ann-Charlotte Andersson,Chelsea FCW,21.55411793602327,0.06664717388259471,False,Left Foot,Open Play,1,0,0,Normal
+3775652,Sophie Louise Ingle,Chelsea FCW,7.559100475585705,0.0562988565665702,False,Head,Open Play,0,1,7,Normal
+3775652,Samantha May Kerr,Chelsea FCW,17.00264685276972,0.06162227915888417,False,Right Foot,Open Play,1,0,2,Volley
+3775652,Magdalena Lilly Eriksson,Chelsea FCW,11.543396380615196,0.059735226027091456,False,Head,Open Play,0,1,3,Normal
+3775652,Samantha May Kerr,Chelsea FCW,13.849548729110278,0.05885714835734746,False,Right Foot,Open Play,0,0,3,Volley
+3775652,Melanie Leupolz,Chelsea FCW,25.107170290576352,0.06578164059722358,False,Right Foot,Open Play,1,0,2,Normal
+3775652,Samantha May Kerr,Chelsea FCW,13.5988970140964,0.06052125914276702,False,Right Foot,Open Play,0,1,1,Normal
+3775652,Sophie Louise Ingle,Chelsea FCW,15.654072952429978,0.061632865990228075,False,Left Foot,Open Play,0,0,2,Half Volley
+3775652,Guro Reiten,Chelsea FCW,19.68882932020083,0.06544670508938041,False,Left Foot,Open Play,1,0,0,Normal
+3775652,Erin Cuthbert,Chelsea FCW,23.313729860320503,0.06093418040811333,False,Right Foot,Open Play,1,0,0,Volley
+3775652,Magdalena Lilly Eriksson,Chelsea FCW,11.961605243444549,0.06069410771926329,False,Head,Open Play,0,1,3,Normal
+3775652,Melanie Leupolz,Chelsea FCW,29.129023327259016,0.06326960666732587,False,Right Foot,Open Play,0,0,0,Normal
+3775652,Jonna Ann-Charlotte Andersson,Chelsea FCW,23.08679276123039,0.0654107873923527,False,Left Foot,Open Play,1,0,1,Normal
+3775652,Pernille Mosegaard Harder,Chelsea FCW,11.85622199522259,0.06080066231425951,False,Right Foot,Open Play,1,0,1,Volley
+3775652,Geum-Min Lee,Brighton & Hove Albion WFC,17.82722636867552,0.06405305548169285,False,Right Foot,Open Play,1,0,2,Normal
+3775652,Megan Connolly,Brighton & Hove Albion WFC,39.60012626242497,0.060929676800111174,True,Right Foot,Corner,0,0,0,Normal
+3775652,Pernille Mosegaard Harder,Chelsea FCW,15.239750654128176,0.06202906942057021,False,Right Foot,Open Play,1,0,1,Half Volley
+3775652,Samantha May Kerr,Chelsea FCW,13.510366390294527,0.06162581594290907,False,Head,Open Play,0,1,2,Normal
+3775652,So-Yun Ji,Chelsea FCW,13.35552320203143,0.06099577650404917,False,Right Foot,Open Play,0,1,2,Normal
+3775652,Pernille Mosegaard Harder,Chelsea FCW,12.034118164618457,0.053251172311721405,False,Right Foot,Open Play,0,0,2,Normal
+3775652,Erin Cuthbert,Chelsea FCW,26.377452492611948,0.06904444690427132,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.318154045529845,0.06587711365478048,False,Right Foot,Open Play,1,1,2,Normal
-26.12316979235101,0.06908086764908578,False,Left Foot,Open Play,0,0,2,Normal
-33.61443142461285,0.07435606167476463,True,Right Foot,Free Kick,0,0,0,Normal
-21.13007335529151,0.06578378069339264,False,Right Foot,Open Play,0,0,2,Normal
-20.78677464158401,0.06580827938297591,False,Left Foot,Open Play,0,1,3,Normal
-21.205895406702357,0.0638674905929425,False,Left Foot,Open Play,1,1,1,Normal
-11.800423721205947,0.06036561590647755,False,Head,Open Play,0,1,2,Normal
-8.634813257969167,0.05744482788526013,False,Right Foot,Open Play,1,0,2,Volley
-7.3824115301167,0.05843729009875824,True,Right Foot,Open Play,0,0,2,Half Volley
-23.53146829248018,0.04934333198501782,False,Left Foot,Free Kick,0,0,0,Normal
-9.953893710503445,0.05968112986602875,False,Head,Open Play,0,1,3,Normal
-20.34944716693797,0.05820503706834387,False,Right Foot,Open Play,0,0,2,Normal
-57.849805531220234,0.047791734450879454,False,Right Foot,Open Play,0,0,0,Lob
-25.33140343526193,0.06900488438680794,False,Left Foot,Open Play,0,0,2,Normal
-23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,0,1,2,Normal
-38.09002494092122,0.07463255742145786,False,Left Foot,Free Kick,0,0,0,Normal
-18.560711193270585,0.06177904238733285,False,Right Foot,Open Play,1,0,2,Half Volley
-25.100199202396784,0.05189421448520391,False,Left Foot,Open Play,0,0,1,Normal
-8.645229898620393,0.0563238343782778,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900578,Florent Balmont,Lille,22.318154045529845,0.06587711365478048,False,Right Foot,Open Play,1,1,2,Normal
+3900578,Niklas Hult,OGC Nice,26.12316979235101,0.06908086764908578,False,Left Foot,Open Play,0,0,2,Normal
+3900578,Yassine Benzia,Lille,33.61443142461285,0.07435606167476463,True,Right Foot,Free Kick,0,0,0,Normal
+3900578,Yassine Benzia,Lille,21.13007335529151,0.06578378069339264,False,Right Foot,Open Play,0,0,2,Normal
+3900578,Wallyson Teixeira Mallmann,OGC Nice,20.78677464158401,0.06580827938297591,False,Left Foot,Open Play,0,1,3,Normal
+3900578,Mounir Obbadi,Lille,21.205895406702357,0.0638674905929425,False,Left Foot,Open Play,1,1,1,Normal
+3900578,Gadji Celi Carmen Junior Tallo,Lille,11.800423721205947,0.06036561590647755,False,Head,Open Play,0,1,2,Normal
+3900578,Yassine Benzia,Lille,8.634813257969167,0.05744482788526013,False,Right Foot,Open Play,1,0,2,Volley
+3900578,Niklas Hult,OGC Nice,7.3824115301167,0.05843729009875824,True,Right Foot,Open Play,0,0,2,Half Volley
+3900578,Éric Bauthéac,Lille,23.53146829248018,0.04934333198501782,False,Left Foot,Free Kick,0,0,0,Normal
+3900578,Gadji Celi Carmen Junior Tallo,Lille,9.953893710503445,0.05968112986602875,False,Head,Open Play,0,1,3,Normal
+3900578,Éric Bauthéac,Lille,20.34944716693797,0.05820503706834387,False,Right Foot,Open Play,0,0,2,Normal
+3900578,Jérémy Pied,OGC Nice,57.849805531220234,0.047791734450879454,False,Right Foot,Open Play,0,0,0,Lob
+3900578,Hatem Ben Arfa,OGC Nice,25.33140343526193,0.06900488438680794,False,Left Foot,Open Play,0,0,2,Normal
+3900578,Franck Honorat,OGC Nice,23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,0,1,2,Normal
+3900578,Hatem Ben Arfa,OGC Nice,38.09002494092122,0.07463255742145786,False,Left Foot,Free Kick,0,0,0,Normal
+3900578,Jérémy Pied,OGC Nice,18.560711193270585,0.06177904238733285,False,Right Foot,Open Play,1,0,2,Half Volley
+3900578,Marcos Paulo Mesquita Lopes,Lille,25.100199202396784,0.05189421448520391,False,Left Foot,Open Play,0,0,1,Normal
+3900578,Paul Baysse,OGC Nice,8.645229898620393,0.0563238343782778,False,Head,Open Play,0,1,2,Normal

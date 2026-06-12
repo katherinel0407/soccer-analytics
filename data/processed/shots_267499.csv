@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.696580696938737,0.058885967053951674,False,Head,Open Play,0,0,2,Normal
-8.015609770940696,0.05551552205297828,False,Left Foot,Open Play,1,0,4,Half Volley
-10.400480758118825,0.05504404288678345,False,Left Foot,Open Play,0,0,3,Normal
-15.984054554461453,0.05378985083017961,False,Left Foot,Open Play,0,0,3,Normal
-12.845621822239663,0.06073827522121687,False,Head,Open Play,0,1,4,Normal
-35.645196029759745,0.07590070157215446,False,Left Foot,Open Play,1,0,0,Normal
-7.409453421137088,0.05836138059346031,False,Head,Open Play,0,1,2,Normal
-23.123364807051757,0.05949491613774092,False,Right Foot,Open Play,1,0,2,Half Volley
-15.7175061635108,0.06032942378477482,False,Right Foot,Open Play,0,1,2,Normal
-7.783315488916017,0.058527667041193256,False,Head,Open Play,0,1,1,Normal
-7.340980860893184,0.05786359145329781,False,Right Foot,Open Play,1,0,3,Volley
-5.503635162326805,0.05702862255292748,False,Head,Open Play,0,0,3,Normal
-25.719447894540817,0.06527360035545754,False,Right Foot,Open Play,0,0,2,Normal
-12.435433245367848,0.053434971299433406,False,Left Foot,Open Play,1,0,1,Half Volley
-15.651836952894696,0.062251108164643916,True,Left Foot,Open Play,0,0,1,Normal
-25.992498917957075,0.06791991971572023,False,Left Foot,Open Play,1,0,0,Normal
-8.280700453464064,0.058808419376414026,False,Right Foot,Open Play,1,1,1,Volley
-38.262383616288204,0.0768507306472652,False,Right Foot,Open Play,0,0,1,Normal
-12.093386622447824,0.06016614362836821,False,Head,Open Play,0,0,1,Normal
-6.61211010192661,0.05752418075242521,True,Right Foot,Open Play,1,0,2,Normal
-16.2265215003093,0.05414949094967897,False,Right Foot,Open Play,0,0,2,Normal
-13.15180595963916,0.05747853781532537,False,Head,Open Play,0,0,4,Normal
-6.390618123468184,0.05783939582938765,True,Left Foot,Open Play,1,0,3,Half Volley
-19.09659655540746,0.05466379335063903,False,Right Foot,Open Play,0,0,3,Half Volley
-13.267252918370108,0.058812615975412416,False,Right Foot,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267499,Lionel Andrés Messi Cuccittini,Barcelona,11.696580696938737,0.058885967053951674,False,Head,Open Play,0,0,2,Normal
+267499,Lionel Andrés Messi Cuccittini,Barcelona,8.015609770940696,0.05551552205297828,False,Left Foot,Open Play,1,0,4,Half Volley
+267499,Lionel Andrés Messi Cuccittini,Barcelona,10.400480758118825,0.05504404288678345,False,Left Foot,Open Play,0,0,3,Normal
+267499,Munir El Haddadi Mohamed,Barcelona,15.984054554461453,0.05378985083017961,False,Left Foot,Open Play,0,0,3,Normal
+267499,Munir El Haddadi Mohamed,Barcelona,12.845621822239663,0.06073827522121687,False,Head,Open Play,0,1,4,Normal
+267499,Jordi Alba Ramos,Barcelona,35.645196029759745,0.07590070157215446,False,Left Foot,Open Play,1,0,0,Normal
+267499,Francisco Manuel Vélez Jiménez,Almería,7.409453421137088,0.05836138059346031,False,Head,Open Play,0,1,2,Normal
+267499,José Antonio García Rabasco,Almería,23.123364807051757,0.05949491613774092,False,Right Foot,Open Play,1,0,2,Half Volley
+267499,Thievy Guivane Bifouma Koulossa,Almería,15.7175061635108,0.06032942378477482,False,Right Foot,Open Play,0,1,2,Normal
+267499,Ivan Rakitić,Barcelona,7.783315488916017,0.058527667041193256,False,Head,Open Play,0,1,1,Normal
+267499,Pedro Eliezer Rodríguez Ledesma,Barcelona,7.340980860893184,0.05786359145329781,False,Right Foot,Open Play,1,0,3,Volley
+267499,Lionel Andrés Messi Cuccittini,Barcelona,5.503635162326805,0.05702862255292748,False,Head,Open Play,0,0,3,Normal
+267499,Thievy Guivane Bifouma Koulossa,Almería,25.719447894540817,0.06527360035545754,False,Right Foot,Open Play,0,0,2,Normal
+267499,Munir El Haddadi Mohamed,Barcelona,12.435433245367848,0.053434971299433406,False,Left Foot,Open Play,1,0,1,Half Volley
+267499,Thievy Guivane Bifouma Koulossa,Almería,15.651836952894696,0.062251108164643916,True,Left Foot,Open Play,0,0,1,Normal
+267499,Sergio Busquets i Burgos,Barcelona,25.992498917957075,0.06791991971572023,False,Left Foot,Open Play,1,0,0,Normal
+267499,Luis Alberto Suárez Díaz,Barcelona,8.280700453464064,0.058808419376414026,False,Right Foot,Open Play,1,1,1,Volley
+267499,Thomas Teye Partey,Almería,38.262383616288204,0.0768507306472652,False,Right Foot,Open Play,0,0,1,Normal
+267499,Neymar da Silva Santos Junior,Barcelona,12.093386622447824,0.06016614362836821,False,Head,Open Play,0,0,1,Normal
+267499,Neymar da Silva Santos Junior,Barcelona,6.61211010192661,0.05752418075242521,True,Right Foot,Open Play,1,0,2,Normal
+267499,Luis Alberto Suárez Díaz,Barcelona,16.2265215003093,0.05414949094967897,False,Right Foot,Open Play,0,0,2,Normal
+267499,Lionel Andrés Messi Cuccittini,Barcelona,13.15180595963916,0.05747853781532537,False,Head,Open Play,0,0,4,Normal
+267499,Jordi Alba Ramos,Barcelona,6.390618123468184,0.05783939582938765,True,Left Foot,Open Play,1,0,3,Half Volley
+267499,Xavier Hernández Creus,Barcelona,19.09659655540746,0.05466379335063903,False,Right Foot,Open Play,0,0,3,Half Volley
+267499,Lionel Andrés Messi Cuccittini,Barcelona,13.267252918370108,0.058812615975412416,False,Right Foot,Open Play,0,1,4,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.900887550658396,0.0631539221943652,False,Left Foot,Open Play,1,0,1,Half Volley
-31.517931404202272,0.06640009525952786,False,Left Foot,Open Play,0,0,0,Normal
-24.14042253151341,0.05989722028723574,False,Right Foot,Open Play,1,0,0,Normal
-32.35135236740498,0.07381660553546923,False,Right Foot,Open Play,0,1,1,Normal
-18.36110018490178,0.06463757182708715,True,Right Foot,Open Play,0,0,3,Normal
-43.26950427263987,0.06105866710608675,False,Right Foot,Open Play,0,0,1,Lob
-15.987807854737303,0.062465247387859815,False,Right Foot,Open Play,0,0,2,Normal
-19.56731969381601,0.055577201841069776,True,Right Foot,Open Play,1,0,1,Normal
-16.2689889052762,0.05863930803818459,False,Right Foot,Open Play,0,1,2,Half Volley
-11.253888216967507,0.057401051027760955,False,Head,Open Play,0,1,1,Normal
-25.864454372748718,0.05588831656954926,False,Right Foot,Open Play,0,0,0,Normal
-19.026297590440443,0.06491445489352177,False,Left Foot,Open Play,1,0,1,Normal
-4.788527957525153,0.057143997147783114,False,Head,Open Play,0,0,5,Normal
-20.01924074484345,0.05769260637883414,False,Right Foot,Open Play,1,0,1,Normal
-16.843990026119112,0.054670391655232006,False,Right Foot,Open Play,1,0,1,Half Volley
-17.78819833485112,0.06420919013668686,False,Right Foot,Open Play,0,0,2,Normal
-5.303772242470448,0.0573701035921025,True,Head,Open Play,0,0,3,Normal
-10.264989040422796,0.05609406376858842,False,Head,Open Play,0,1,2,Normal
-17.805897899291686,0.06426558093370474,False,Right Foot,Open Play,1,1,1,Volley
-24.91947029934625,0.06381734014368518,False,Right Foot,Open Play,0,0,1,Normal
-15.698407562552326,0.055154649019795596,False,Right Foot,Open Play,1,0,1,Normal
-28.10160137785745,0.06711403300568834,False,Right Foot,Open Play,1,0,1,Volley
-18.494593804677084,0.06412533664596122,False,Left Foot,Open Play,0,1,1,Normal
-15.912573644762809,0.05123446347298555,False,Right Foot,Open Play,1,0,1,Normal
-9.7082439194738,0.059680424341841336,False,Head,Open Play,0,1,3,Normal
-30.046630426721723,0.0724014008229146,False,Right Foot,Free Kick,0,0,0,Normal
-7.951100552753693,0.05820588926562195,False,Right Foot,Open Play,1,1,6,Overhead Kick
-10.66067540074268,0.05988955524554734,False,Left Foot,Open Play,0,0,4,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825594,Manuel Agudo Durán,Celta Vigo,16.900887550658396,0.0631539221943652,False,Left Foot,Open Play,1,0,1,Half Volley
+3825594,Mariano Ferreira Filho,Sevilla,31.517931404202272,0.06640009525952786,False,Left Foot,Open Play,0,0,0,Normal
+3825594,Daniel Wass,Celta Vigo,24.14042253151341,0.05989722028723574,False,Right Foot,Open Play,1,0,0,Normal
+3825594,Daniel Wass,Celta Vigo,32.35135236740498,0.07381660553546923,False,Right Foot,Open Play,0,1,1,Normal
+3825594,Manuel Agudo Durán,Celta Vigo,18.36110018490178,0.06463757182708715,True,Right Foot,Open Play,0,0,3,Normal
+3825594,Fabián Ariel Orellana Valenzuela,Celta Vigo,43.26950427263987,0.06105866710608675,False,Right Foot,Open Play,0,0,1,Lob
+3825594,Manuel Agudo Durán,Celta Vigo,15.987807854737303,0.062465247387859815,False,Right Foot,Open Play,0,0,2,Normal
+3825594,Daniel Wass,Celta Vigo,19.56731969381601,0.055577201841069776,True,Right Foot,Open Play,1,0,1,Normal
+3825594,Fabián Ariel Orellana Valenzuela,Celta Vigo,16.2689889052762,0.05863930803818459,False,Right Foot,Open Play,0,1,2,Half Volley
+3825594,Iago Aspas Juncal,Celta Vigo,11.253888216967507,0.057401051027760955,False,Head,Open Play,0,1,1,Normal
+3825594,Gustavo Daniel Cabral Cáceres,Celta Vigo,25.864454372748718,0.05588831656954926,False,Right Foot,Open Play,0,0,0,Normal
+3825594,Éver Maximiliano David Banega,Sevilla,19.026297590440443,0.06491445489352177,False,Left Foot,Open Play,1,0,1,Normal
+3825594,Fernando Llorente Torres,Sevilla,4.788527957525153,0.057143997147783114,False,Head,Open Play,0,0,5,Normal
+3825594,José Antonio Reyes Calderón,Sevilla,20.01924074484345,0.05769260637883414,False,Right Foot,Open Play,1,0,1,Normal
+3825594,José Antonio Reyes Calderón,Sevilla,16.843990026119112,0.054670391655232006,False,Right Foot,Open Play,1,0,1,Half Volley
+3825594,Kevin Gameiro,Sevilla,17.78819833485112,0.06420919013668686,False,Right Foot,Open Play,0,0,2,Normal
+3825594,Fernando Llorente Torres,Sevilla,5.303772242470448,0.0573701035921025,True,Head,Open Play,0,0,3,Normal
+3825594,Kevin Gameiro,Sevilla,10.264989040422796,0.05609406376858842,False,Head,Open Play,0,1,2,Normal
+3825594,Michael Krohn-Dehli,Sevilla,17.805897899291686,0.06426558093370474,False,Right Foot,Open Play,1,1,1,Volley
+3825594,Michael Krohn-Dehli,Sevilla,24.91947029934625,0.06381734014368518,False,Right Foot,Open Play,0,0,1,Normal
+3825594,Fabián Ariel Orellana Valenzuela,Celta Vigo,15.698407562552326,0.055154649019795596,False,Right Foot,Open Play,1,0,1,Normal
+3825594,Augusto Matías Fernández,Celta Vigo,28.10160137785745,0.06711403300568834,False,Right Foot,Open Play,1,0,1,Volley
+3825594,Iago Aspas Juncal,Celta Vigo,18.494593804677084,0.06412533664596122,False,Left Foot,Open Play,0,1,1,Normal
+3825594,Michael Krohn-Dehli,Sevilla,15.912573644762809,0.05123446347298555,False,Right Foot,Open Play,1,0,1,Normal
+3825594,Fernando Llorente Torres,Sevilla,9.7082439194738,0.059680424341841336,False,Head,Open Play,0,1,3,Normal
+3825594,Daniel Wass,Celta Vigo,30.046630426721723,0.0724014008229146,False,Right Foot,Free Kick,0,0,0,Normal
+3825594,John Guidetti,Celta Vigo,7.951100552753693,0.05820588926562195,False,Right Foot,Open Play,1,1,6,Overhead Kick
+3825594,Kevin Gameiro,Sevilla,10.66067540074268,0.05988955524554734,False,Left Foot,Open Play,0,0,4,Half Volley

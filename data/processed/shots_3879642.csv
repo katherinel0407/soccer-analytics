@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.46212338816963,0.054674125561131805,False,Right Foot,Open Play,1,0,1,Half Volley
-20.10621794371084,0.06335541898557452,False,Right Foot,Open Play,1,0,0,Half Volley
-19.309324172533845,0.06403579868907838,False,Left Foot,Open Play,1,0,1,Half Volley
-28.003035549739966,0.06557127634492657,False,Right Foot,Open Play,0,1,2,Half Volley
-41.34585831736958,0.08081932041455923,False,Right Foot,Open Play,0,0,1,Normal
-33.44981315343929,0.07534222828439563,False,Right Foot,Open Play,0,0,1,Normal
-26.004807247891687,0.06949986217529429,False,Left Foot,Open Play,1,0,1,Normal
-34.659486435895154,0.062424782130509074,False,Right Foot,Open Play,0,0,0,Normal
-26.11551263138443,0.06551388220767972,False,Right Foot,Open Play,0,0,2,Normal
-23.363432966925043,0.06196068138276778,False,Right Foot,Open Play,0,1,1,Normal
-27.397992627198082,0.06362121008555746,False,Right Foot,Open Play,1,1,3,Normal
-29.695117443781893,0.05917382119165971,False,Left Foot,Open Play,0,0,2,Normal
-18.830825791770263,0.06493235596061472,False,Left Foot,Open Play,1,0,1,Normal
-28.50280687932331,0.06959510442260293,False,Right Foot,Open Play,0,0,1,Normal
-13.433167906342865,0.05770393857262164,False,Head,Open Play,0,0,4,Normal
-28.768037819774914,0.07055177145897189,False,Left Foot,Open Play,1,0,0,Volley
-32.63816784073517,0.07475114889499336,False,Right Foot,Open Play,1,0,0,Normal
-26.15205536855564,0.06919777138697278,False,Left Foot,Open Play,1,1,2,Half Volley
-22.420749318432694,0.05483982447632001,False,Left Foot,Open Play,0,0,2,Normal
-18.023595645708436,0.06436595414405251,False,Right Foot,Open Play,0,0,3,Half Volley
-34.353456885734225,0.07619835738601966,False,Right Foot,Free Kick,0,0,0,Normal
-28.77846417027844,0.07175673719665174,False,Right Foot,Free Kick,0,0,0,Normal
-9.080198235721511,0.056719290437610155,False,Right Foot,Open Play,1,1,3,Overhead Kick
-26.967387711827037,0.06474818849552212,False,Right Foot,Free Kick,0,0,0,Normal
-21.63007165961315,0.06562385081984223,False,Right Foot,Open Play,0,1,1,Half Volley
-14.286357128393504,0.055282347489122294,False,Right Foot,Open Play,0,0,3,Normal
-8.759566199304619,0.057134313679727225,False,Head,Open Play,0,1,8,Normal
-4.220189569201843,0.055407812944099556,False,Head,Open Play,0,1,5,Normal
-16.275441622272496,0.05311455199872454,False,Right Foot,Open Play,1,0,2,Normal
-16.32482771731451,0.054350432957099244,False,Right Foot,Open Play,0,0,0,Normal
-27.606520968785613,0.06702128139826387,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879642,Lorenzo Pasciuti,Carpi,18.46212338816963,0.054674125561131805,False,Right Foot,Open Play,1,0,1,Half Volley
+3879642,Isaac Cofie,Carpi,20.10621794371084,0.06335541898557452,False,Right Foot,Open Play,1,0,0,Half Volley
+3879642,Marco Borriello,Carpi,19.309324172533845,0.06403579868907838,False,Left Foot,Open Play,1,0,1,Half Volley
+3879642,Lorenzo Lollo,Carpi,28.003035549739966,0.06557127634492657,False,Right Foot,Open Play,0,1,2,Half Volley
+3879642,Mattia De Sciglio,AC Milan,41.34585831736958,0.08081932041455923,False,Right Foot,Open Play,0,0,1,Normal
+3879642,M''Baye Babacar Niang,AC Milan,33.44981315343929,0.07534222828439563,False,Right Foot,Open Play,0,0,1,Normal
+3879642,Kevin Lasagna,Carpi,26.004807247891687,0.06949986217529429,False,Left Foot,Open Play,1,0,1,Normal
+3879642,Juraj Kucka,AC Milan,34.659486435895154,0.062424782130509074,False,Right Foot,Open Play,0,0,0,Normal
+3879642,Marco Borriello,Carpi,26.11551263138443,0.06551388220767972,False,Right Foot,Open Play,0,0,2,Normal
+3879642,M''Baye Babacar Niang,AC Milan,23.363432966925043,0.06196068138276778,False,Right Foot,Open Play,0,1,1,Normal
+3879642,Riccardo Montolivo,AC Milan,27.397992627198082,0.06362121008555746,False,Right Foot,Open Play,1,1,3,Normal
+3879642,Juraj Kucka,AC Milan,29.695117443781893,0.05917382119165971,False,Left Foot,Open Play,0,0,2,Normal
+3879642,Riccardo Montolivo,AC Milan,18.830825791770263,0.06493235596061472,False,Left Foot,Open Play,1,0,1,Normal
+3879642,M''Baye Babacar Niang,AC Milan,28.50280687932331,0.06959510442260293,False,Right Foot,Open Play,0,0,1,Normal
+3879642,M''Baye Babacar Niang,AC Milan,13.433167906342865,0.05770393857262164,False,Head,Open Play,0,0,4,Normal
+3879642,Lorenzo Pasciuti,Carpi,28.768037819774914,0.07055177145897189,False,Left Foot,Open Play,1,0,0,Volley
+3879642,Gaetano Letizia,Carpi,32.63816784073517,0.07475114889499336,False,Right Foot,Open Play,1,0,0,Normal
+3879642,Kevin Lasagna,Carpi,26.15205536855564,0.06919777138697278,False,Left Foot,Open Play,1,1,2,Half Volley
+3879642,Alessio Cerci,AC Milan,22.420749318432694,0.05483982447632001,False,Left Foot,Open Play,0,0,2,Normal
+3879642,M''Baye Babacar Niang,AC Milan,18.023595645708436,0.06436595414405251,False,Right Foot,Open Play,0,0,3,Half Volley
+3879642,Giacomo Bonaventura,AC Milan,34.353456885734225,0.07619835738601966,False,Right Foot,Free Kick,0,0,0,Normal
+3879642,Giacomo Bonaventura,AC Milan,28.77846417027844,0.07175673719665174,False,Right Foot,Free Kick,0,0,0,Normal
+3879642,Jerry Uche Mbakogu,Carpi,9.080198235721511,0.056719290437610155,False,Right Foot,Open Play,1,1,3,Overhead Kick
+3879642,M''Baye Babacar Niang,AC Milan,26.967387711827037,0.06474818849552212,False,Right Foot,Free Kick,0,0,0,Normal
+3879642,Giacomo Bonaventura,AC Milan,21.63007165961315,0.06562385081984223,False,Right Foot,Open Play,0,1,1,Half Volley
+3879642,Luiz Adriano de Souza da Silva,AC Milan,14.286357128393504,0.055282347489122294,False,Right Foot,Open Play,0,0,3,Normal
+3879642,Juraj Kucka,AC Milan,8.759566199304619,0.057134313679727225,False,Head,Open Play,0,1,8,Normal
+3879642,Luiz Adriano de Souza da Silva,AC Milan,4.220189569201843,0.055407812944099556,False,Head,Open Play,0,1,5,Normal
+3879642,Juraj Kucka,AC Milan,16.275441622272496,0.05311455199872454,False,Right Foot,Open Play,1,0,2,Normal
+3879642,Giacomo Bonaventura,AC Milan,16.32482771731451,0.054350432957099244,False,Right Foot,Open Play,0,0,0,Normal
+3879642,Lorenzo Lollo,Carpi,27.606520968785613,0.06702128139826387,False,Left Foot,Open Play,0,0,1,Normal

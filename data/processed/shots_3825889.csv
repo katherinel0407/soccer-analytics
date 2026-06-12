@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.40915345447661,0.07057130036473827,False,Right Foot,Free Kick,0,0,0,Normal
-32.330326320654414,0.07410578950915914,False,Right Foot,Open Play,0,0,0,Normal
-5.798275605729695,0.05765861770216429,False,Right Foot,Open Play,1,1,3,Backheel
-54.27780393494195,0.0972797375376288,False,Right Foot,Open Play,0,0,0,Normal
-19.479476378999507,0.06507524392226324,False,Left Foot,Open Play,1,0,2,Half Volley
-2.1260291625469248,0.05587472941701922,True,Left Foot,Open Play,1,0,3,Normal
-25.92006944435142,0.06949567696560612,False,Right Foot,Open Play,0,1,2,Normal
-21.940145851839723,0.06685001704948106,False,Right Foot,Open Play,0,0,1,Normal
-24.92889889265068,0.06759483025818523,False,Left Foot,Open Play,1,0,0,Half Volley
-14.712239802287069,0.058858944168262324,False,Head,Open Play,0,0,1,Normal
-5.315072906367325,0.057407469504490646,False,Left Foot,Open Play,1,0,3,Half Volley
-17.260938560808334,0.05617712494632288,False,Left Foot,Open Play,1,0,2,Half Volley
-15.961516218705542,0.05385821984691573,False,Right Foot,Open Play,1,0,1,Volley
-20.100995000248115,0.0630510659524193,False,Right Foot,Open Play,1,1,1,Half Volley
-25.868320393871723,0.06925700551635153,False,Right Foot,Free Kick,0,0,0,Normal
-18.552627846210893,0.06454782481374188,False,Right Foot,Open Play,0,0,2,Lob
-16.519685227025366,0.0522463512042287,False,Right Foot,Open Play,0,0,0,Normal
-16.726326554267672,0.056017511996602154,False,Right Foot,Open Play,0,0,2,Half Volley
-22.051077071199945,0.05240124064131531,False,Right Foot,Open Play,0,0,1,Normal
-12.179490958164054,0.05655720001375605,False,Left Foot,Open Play,1,0,1,Volley
-15.601281998605108,0.061050875137504505,False,Right Foot,Open Play,0,1,5,Half Volley
-28.1513765205185,0.061947171989245264,False,Left Foot,Open Play,0,0,1,Normal
-39.31272058761642,0.06149109572119021,False,Right Foot,Corner,0,0,0,Normal
-17.98054504179448,0.0553919008920982,True,Right Foot,Open Play,0,0,1,Normal
-18.66011789887727,0.05972551680857934,False,Left Foot,Open Play,0,0,3,Half Volley
-12.137956994486341,0.06095227068720357,False,Right Foot,Open Play,0,0,3,Normal
-18.121810064118872,0.054520626795503443,False,Right Foot,Open Play,0,0,2,Lob
-7.043436661176132,0.05828308675235528,False,Left Foot,Open Play,1,0,4,Backheel
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825889,Joaquín Sánchez Rodríguez,Real Betis,28.40915345447661,0.07057130036473827,False,Right Foot,Free Kick,0,0,0,Normal
+3825889,Charly Musonda Junior,Real Betis,32.330326320654414,0.07410578950915914,False,Right Foot,Open Play,0,0,0,Normal
+3825889,John Guidetti,Celta Vigo,5.798275605729695,0.05765861770216429,False,Right Foot,Open Play,1,1,3,Backheel
+3825889,Rubén Castro Martín,Real Betis,54.27780393494195,0.0972797375376288,False,Right Foot,Open Play,0,0,0,Normal
+3825889,John Guidetti,Celta Vigo,19.479476378999507,0.06507524392226324,False,Left Foot,Open Play,1,0,2,Half Volley
+3825889,Alfred John Momar N''Diaye,Real Betis,2.1260291625469248,0.05587472941701922,True,Left Foot,Open Play,1,0,3,Normal
+3825889,Manuel Agudo Durán,Celta Vigo,25.92006944435142,0.06949567696560612,False,Right Foot,Open Play,0,1,2,Normal
+3825889,Joaquín Sánchez Rodríguez,Real Betis,21.940145851839723,0.06685001704948106,False,Right Foot,Open Play,0,0,1,Normal
+3825889,Fabián Ariel Orellana Valenzuela,Celta Vigo,24.92889889265068,0.06759483025818523,False,Left Foot,Open Play,1,0,0,Half Volley
+3825889,Manuel Agudo Durán,Celta Vigo,14.712239802287069,0.058858944168262324,False,Head,Open Play,0,0,1,Normal
+3825889,Fabián Ariel Orellana Valenzuela,Celta Vigo,5.315072906367325,0.057407469504490646,False,Left Foot,Open Play,1,0,3,Half Volley
+3825889,Gustavo Daniel Cabral Cáceres,Celta Vigo,17.260938560808334,0.05617712494632288,False,Left Foot,Open Play,1,0,2,Half Volley
+3825889,John Guidetti,Celta Vigo,15.961516218705542,0.05385821984691573,False,Right Foot,Open Play,1,0,1,Volley
+3825889,Marcelo Alfonso Díaz Rojas,Celta Vigo,20.100995000248115,0.0630510659524193,False,Right Foot,Open Play,1,1,1,Half Volley
+3825889,Manuel Agudo Durán,Celta Vigo,25.868320393871723,0.06925700551635153,False,Right Foot,Free Kick,0,0,0,Normal
+3825889,Rubén Castro Martín,Real Betis,18.552627846210893,0.06454782481374188,False,Right Foot,Open Play,0,0,2,Lob
+3825889,Rubén Castro Martín,Real Betis,16.519685227025366,0.0522463512042287,False,Right Foot,Open Play,0,0,0,Normal
+3825889,John Guidetti,Celta Vigo,16.726326554267672,0.056017511996602154,False,Right Foot,Open Play,0,0,2,Half Volley
+3825889,Fabián Ariel Orellana Valenzuela,Celta Vigo,22.051077071199945,0.05240124064131531,False,Right Foot,Open Play,0,0,1,Normal
+3825889,Iago Aspas Juncal,Celta Vigo,12.179490958164054,0.05655720001375605,False,Left Foot,Open Play,1,0,1,Volley
+3825889,Nemanja Radoja,Celta Vigo,15.601281998605108,0.061050875137504505,False,Right Foot,Open Play,0,1,5,Half Volley
+3825889,Álvaro Cejudo Carmona,Real Betis,28.1513765205185,0.061947171989245264,False,Left Foot,Open Play,0,0,1,Normal
+3825889,Joaquín Sánchez Rodríguez,Real Betis,39.31272058761642,0.06149109572119021,False,Right Foot,Corner,0,0,0,Normal
+3825889,Pedro Pablo Hernández,Celta Vigo,17.98054504179448,0.0553919008920982,True,Right Foot,Open Play,0,0,1,Normal
+3825889,Jonathan Castro Otto,Celta Vigo,18.66011789887727,0.05972551680857934,False,Left Foot,Open Play,0,0,3,Half Volley
+3825889,Manuel Agudo Durán,Celta Vigo,12.137956994486341,0.06095227068720357,False,Right Foot,Open Play,0,0,3,Normal
+3825889,Rubén Castro Martín,Real Betis,18.121810064118872,0.054520626795503443,False,Right Foot,Open Play,0,0,2,Lob
+3825889,Iago Aspas Juncal,Celta Vigo,7.043436661176132,0.05828308675235528,False,Left Foot,Open Play,1,0,4,Backheel

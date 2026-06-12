@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.02725584361338,0.059805136892770755,False,Left Foot,Open Play,0,0,1,Normal
-12.296747537458838,0.05666612916699293,False,Right Foot,Open Play,0,1,2,Normal
-22.301569451498256,0.05788255246836144,False,Left Foot,Open Play,0,0,1,Normal
-22.408926792686884,0.06697341529535582,False,Left Foot,Open Play,0,0,2,Normal
-12.722421153223946,0.061110296686013955,True,Right Foot,Open Play,0,1,2,Normal
-20.45922774691166,0.058870385248443804,False,Left Foot,Open Play,0,0,1,Normal
-13.723337786413337,0.061713686055511564,False,Left Foot,Open Play,1,0,2,Normal
-15.259423318068079,0.0617492343144568,False,Right Foot,Open Play,0,1,3,Half Volley
-46.24110725317896,0.08758665474399432,False,Left Foot,Open Play,0,0,1,Lob
-28.40070421662111,0.06721095477296903,False,Right Foot,Open Play,0,0,1,Normal
-18.47430648224718,0.051993747226534937,False,Right Foot,Open Play,0,0,2,Normal
-37.7190933082968,0.07275840756180532,False,Right Foot,Open Play,0,0,0,Normal
-26.031135203828505,0.061987501747962706,False,Right Foot,Open Play,1,1,2,Normal
-18.18185909086307,0.06354784076424665,False,Right Foot,Open Play,1,1,2,Normal
-24.932909978580515,0.058165778038238886,False,Right Foot,Open Play,0,0,3,Normal
-25.238858928247925,0.056983469734977796,False,Left Foot,Open Play,0,1,3,Normal
-8.405355435673142,0.055936025890555366,False,Right Foot,Open Play,1,1,1,Half Volley
-8.832326986700611,0.05629206636913615,False,Head,Open Play,0,0,2,Normal
-18.887562044901404,0.06496627269785958,False,Left Foot,Open Play,0,0,3,Normal
-15.8861574963866,0.0625194792052029,False,Right Foot,Open Play,1,1,2,Normal
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-18.432851108821993,0.06190519661190638,False,Left Foot,Open Play,0,1,1,Half Volley
-10.818964830333814,0.05517936734915163,False,Head,Open Play,0,1,1,Normal
-7.218032973047437,0.05505963936550919,False,Right Foot,Open Play,1,1,2,Volley
-11.520850663036992,0.054349011728014505,True,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3910936,Bruna Vilamala Costa,Barcelona WFC,22.02725584361338,0.059805136892770755,False,Left Foot,Open Play,0,0,1,Normal
+3910936,Victoria López,Barcelona WFC,12.296747537458838,0.05666612916699293,False,Right Foot,Open Play,0,1,2,Normal
+3910936,Victoria López,Barcelona WFC,22.301569451498256,0.05788255246836144,False,Left Foot,Open Play,0,0,1,Normal
+3910936,Victoria López,Barcelona WFC,22.408926792686884,0.06697341529535582,False,Left Foot,Open Play,0,0,2,Normal
+3910936,Claudia Pina Medina,Barcelona WFC,12.722421153223946,0.061110296686013955,True,Right Foot,Open Play,0,1,2,Normal
+3910936,Victoria López,Barcelona WFC,20.45922774691166,0.058870385248443804,False,Left Foot,Open Play,0,0,1,Normal
+3910936,Sandra Castelló Oliver,CD Sporting de Huelva,13.723337786413337,0.061713686055511564,False,Left Foot,Open Play,1,0,2,Normal
+3910936,Claudia Pina Medina,Barcelona WFC,15.259423318068079,0.0617492343144568,False,Right Foot,Open Play,0,1,3,Half Volley
+3910936,Raiderlin Nazareth Carrasco Vargas,CD Sporting de Huelva,46.24110725317896,0.08758665474399432,False,Left Foot,Open Play,0,0,1,Lob
+3910936,Jessica De Filippo,CD Sporting de Huelva,28.40070421662111,0.06721095477296903,False,Right Foot,Open Play,0,0,1,Normal
+3910936,Caroline Graham Hansen,Barcelona WFC,18.47430648224718,0.051993747226534937,False,Right Foot,Open Play,0,0,2,Normal
+3910936,Patricia Guijarro Gutiérrez,Barcelona WFC,37.7190933082968,0.07275840756180532,False,Right Foot,Open Play,0,0,0,Normal
+3910936,Bruna Vilamala Costa,Barcelona WFC,26.031135203828505,0.061987501747962706,False,Right Foot,Open Play,1,1,2,Normal
+3910936,Claudia Pina Medina,Barcelona WFC,18.18185909086307,0.06354784076424665,False,Right Foot,Open Play,1,1,2,Normal
+3910936,Caroline Graham Hansen,Barcelona WFC,24.932909978580515,0.058165778038238886,False,Right Foot,Open Play,0,0,3,Normal
+3910936,Caroline Graham Hansen,Barcelona WFC,25.238858928247925,0.056983469734977796,False,Left Foot,Open Play,0,1,3,Normal
+3910936,Alexia Putellas Segura,Barcelona WFC,8.405355435673142,0.055936025890555366,False,Right Foot,Open Play,1,1,1,Half Volley
+3910936,Caroline Graham Hansen,Barcelona WFC,8.832326986700611,0.05629206636913615,False,Head,Open Play,0,0,2,Normal
+3910936,Alexia Putellas Segura,Barcelona WFC,18.887562044901404,0.06496627269785958,False,Left Foot,Open Play,0,0,3,Normal
+3910936,Claudia Pina Medina,Barcelona WFC,15.8861574963866,0.0625194792052029,False,Right Foot,Open Play,1,1,2,Normal
+3910936,Alexia Putellas Segura,Barcelona WFC,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3910936,Alexia Putellas Segura,Barcelona WFC,18.432851108821993,0.06190519661190638,False,Left Foot,Open Play,0,1,1,Half Volley
+3910936,Irene Paredes Hernandez,Barcelona WFC,10.818964830333814,0.05517936734915163,False,Head,Open Play,0,1,1,Normal
+3910936,Esmee Brugts,Barcelona WFC,7.218032973047437,0.05505963936550919,False,Right Foot,Open Play,1,1,2,Volley
+3910936,Laia Balleste,CD Sporting de Huelva,11.520850663036992,0.054349011728014505,True,Right Foot,Open Play,1,0,1,Volley

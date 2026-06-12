@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.245273360517242,0.05578175381308891,False,Right Foot,Open Play,1,0,1,Volley
-15.033296378372903,0.06264773103331621,False,Left Foot,Open Play,1,0,3,Normal
-27.5530397597071,0.06507302928278577,False,Right Foot,Open Play,0,0,1,Normal
-14.833745312630924,0.060396460154650077,False,Right Foot,Open Play,0,0,2,Normal
-16.46147016520699,0.06050937658790072,False,Right Foot,Open Play,1,1,2,Normal
-28.572714256787016,0.06450480208286864,False,Left Foot,Open Play,1,0,0,Volley
-14.286357128393504,0.06204005792588063,False,Head,Open Play,0,1,2,Normal
-11.146299834474219,0.059798756946692413,False,Right Foot,Open Play,1,0,1,Volley
-30.678983033992505,0.07316406248231738,False,Right Foot,Open Play,0,0,1,Normal
-17.04142012861604,0.06354336209679542,False,Left Foot,Open Play,0,0,3,Normal
-15.371727293964074,0.05464047211665427,False,Right Foot,Open Play,1,0,0,Normal
-31.704258389055557,0.05498400649535171,False,Right Foot,Open Play,0,0,1,Normal
-28.992757716367716,0.07074212319020987,False,Right Foot,Open Play,0,0,2,Normal
-19.636954957426575,0.06543942211496251,False,Right Foot,Open Play,0,0,1,Normal
-23.04951192541829,0.06767250338264205,False,Left Foot,Open Play,1,0,2,Normal
-33.626477662699074,0.07559984387320007,False,Right Foot,Open Play,0,0,2,Normal
-18.46645607581487,0.0644474528276345,False,Left Foot,Open Play,0,0,2,Normal
-28.85428910924683,0.0697667115657764,False,Left Foot,Open Play,1,0,1,Volley
-11.261438629233828,0.05854072011211769,False,Head,Open Play,0,1,4,Normal
-16.41249523990792,0.06222232030538998,False,Left Foot,Open Play,0,0,3,Half Volley
-28.92334697091608,0.056207364570698595,False,Left Foot,Free Kick,0,0,0,Normal
-36.619120688514634,0.06856179234178218,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825699,Michael Krohn-Dehli,Sevilla,18.245273360517242,0.05578175381308891,False,Right Foot,Open Play,1,0,1,Volley
+3825699,Alfred John Momar N''Diaye,Real Betis,15.033296378372903,0.06264773103331621,False,Left Foot,Open Play,1,0,3,Normal
+3825699,Álvaro Cejudo Carmona,Real Betis,27.5530397597071,0.06507302928278577,False,Right Foot,Open Play,0,0,1,Normal
+3825699,Kevin Gameiro,Sevilla,14.833745312630924,0.060396460154650077,False,Right Foot,Open Play,0,0,2,Normal
+3825699,Michael Krohn-Dehli,Sevilla,16.46147016520699,0.06050937658790072,False,Right Foot,Open Play,1,1,2,Normal
+3825699,Juan Manuel Vargas Risco,Real Betis,28.572714256787016,0.06450480208286864,False,Left Foot,Open Play,1,0,0,Volley
+3825699,Alfred John Momar N''Diaye,Real Betis,14.286357128393504,0.06204005792588063,False,Head,Open Play,0,1,2,Normal
+3825699,Grzegorz Krychowiak,Sevilla,11.146299834474219,0.059798756946692413,False,Right Foot,Open Play,1,0,1,Volley
+3825699,Rubén Castro Martín,Real Betis,30.678983033992505,0.07316406248231738,False,Right Foot,Open Play,0,0,1,Normal
+3825699,Yevhen Konoplyanka,Sevilla,17.04142012861604,0.06354336209679542,False,Left Foot,Open Play,0,0,3,Normal
+3825699,Kevin Gameiro,Sevilla,15.371727293964074,0.05464047211665427,False,Right Foot,Open Play,1,0,0,Normal
+3825699,Francisco José Molinero Calderón,Real Betis,31.704258389055557,0.05498400649535171,False,Right Foot,Open Play,0,0,1,Normal
+3825699,Joaquín Sánchez Rodríguez,Real Betis,28.992757716367716,0.07074212319020987,False,Right Foot,Open Play,0,0,2,Normal
+3825699,Daniel Ceballos Fernández,Real Betis,19.636954957426575,0.06543942211496251,False,Right Foot,Open Play,0,0,1,Normal
+3825699,Álvaro Cejudo Carmona,Real Betis,23.04951192541829,0.06767250338264205,False,Left Foot,Open Play,1,0,2,Normal
+3825699,Daniel Ceballos Fernández,Real Betis,33.626477662699074,0.07559984387320007,False,Right Foot,Open Play,0,0,2,Normal
+3825699,Álvaro Cejudo Carmona,Real Betis,18.46645607581487,0.0644474528276345,False,Left Foot,Open Play,0,0,2,Normal
+3825699,Juan Manuel Vargas Risco,Real Betis,28.85428910924683,0.0697667115657764,False,Left Foot,Open Play,1,0,1,Volley
+3825699,Grzegorz Krychowiak,Sevilla,11.261438629233828,0.05854072011211769,False,Head,Open Play,0,1,4,Normal
+3825699,Timothée Kolodziejczak,Sevilla,16.41249523990792,0.06222232030538998,False,Left Foot,Open Play,0,0,3,Half Volley
+3825699,José Antonio Reyes Calderón,Sevilla,28.92334697091608,0.056207364570698595,False,Left Foot,Free Kick,0,0,0,Normal
+3825699,Didier Digard,Real Betis,36.619120688514634,0.06856179234178218,False,Right Foot,Open Play,0,0,2,Normal

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.437160589923222,0.05676150927101442,True,Right Foot,Open Play,1,0,2,Normal
-27.572631357924475,0.07083217131618308,False,Right Foot,Open Play,0,0,4,Normal
-28.804339950778246,0.06703178700065475,False,Left Foot,Open Play,0,0,2,Normal
-22.842942017174583,0.06373471128173422,False,Right Foot,Open Play,0,0,1,Normal
-32.80746866187637,0.0697616600462899,False,Right Foot,Open Play,0,0,2,Normal
-21.005951537599998,0.0662790247645278,False,Right Foot,Open Play,0,0,2,Normal
-17.11724276862369,0.06254164928940842,False,Right Foot,Open Play,1,1,2,Normal
-15.900314462299171,0.061299339320337404,True,Right Foot,Open Play,1,0,1,Normal
-23.005434140654675,0.06623879837195223,False,Right Foot,Open Play,1,0,0,Volley
-15.208221460775745,0.062092736952190426,False,Right Foot,Open Play,0,0,3,Normal
-35.800558654859,0.062390823525449474,False,Right Foot,Open Play,0,0,0,Normal
-28.81752938750995,0.05702397659342417,False,Right Foot,Open Play,0,0,2,Normal
-37.28391073908422,0.0778821550589608,False,Right Foot,Open Play,0,0,0,Normal
-19.18801709400948,0.060651838122299497,False,Right Foot,Open Play,0,0,3,Normal
-20.385534086699806,0.06163131893799137,False,Right Foot,Open Play,1,0,0,Volley
-27.51763071196356,0.052881338296299235,False,Right Foot,Open Play,1,0,0,Half Volley
-30.19884103736434,0.06371538544914179,False,Right Foot,Open Play,1,0,0,Normal
-16.296318602678333,0.06151898390827737,False,Left Foot,Open Play,0,0,1,Normal
-27.475443581496553,0.05787911841488223,False,Right Foot,Open Play,0,0,1,Normal
-7.602631123499279,0.05772902883681806,False,Head,Open Play,0,1,4,Normal
-9.475230867899741,0.055218054609973075,False,Right Foot,Open Play,1,0,1,Normal
-9.730878685915267,0.05956266973936365,False,Head,Open Play,0,1,3,Normal
-7.481310045707231,0.054760027652950766,False,Right Foot,Open Play,1,0,3,Half Volley
-17.576404638036756,0.05807266852026708,True,Left Foot,Open Play,0,0,3,Normal
-8.338465086573185,0.05833631671123513,False,Head,Open Play,0,1,2,Normal
-22.989562849258363,0.06730675299706775,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753984,Manuel Lanzini,West Ham United,9.437160589923222,0.05676150927101442,True,Right Foot,Open Play,1,0,2,Normal
+3753984,Philippe Coutinho Correia,Liverpool,27.572631357924475,0.07083217131618308,False,Right Foot,Open Play,0,0,4,Normal
+3753984,Roberto Firmino Barbosa de Oliveira,Liverpool,28.804339950778246,0.06703178700065475,False,Left Foot,Open Play,0,0,2,Normal
+3753984,Manuel Lanzini,West Ham United,22.842942017174583,0.06373471128173422,False,Right Foot,Open Play,0,0,1,Normal
+3753984,Joe Gomez,Liverpool,32.80746866187637,0.0697616600462899,False,Right Foot,Open Play,0,0,2,Normal
+3753984,Cheikhou Kouyaté,West Ham United,21.005951537599998,0.0662790247645278,False,Right Foot,Open Play,0,0,2,Normal
+3753984,Aaron Cresswell,West Ham United,17.11724276862369,0.06254164928940842,False,Right Foot,Open Play,1,1,2,Normal
+3753984,Mark Noble,West Ham United,15.900314462299171,0.061299339320337404,True,Right Foot,Open Play,1,0,1,Normal
+3753984,Mark Noble,West Ham United,23.005434140654675,0.06623879837195223,False,Right Foot,Open Play,1,0,0,Volley
+3753984,Philippe Coutinho Correia,Liverpool,15.208221460775745,0.062092736952190426,False,Right Foot,Open Play,0,0,3,Normal
+3753984,Philippe Coutinho Correia,Liverpool,35.800558654859,0.062390823525449474,False,Right Foot,Open Play,0,0,0,Normal
+3753984,Roberto Firmino Barbosa de Oliveira,Liverpool,28.81752938750995,0.05702397659342417,False,Right Foot,Open Play,0,0,2,Normal
+3753984,Dejan Lovren,Liverpool,37.28391073908422,0.0778821550589608,False,Right Foot,Open Play,0,0,0,Normal
+3753984,Christian Benteke Liolo,Liverpool,19.18801709400948,0.060651838122299497,False,Right Foot,Open Play,0,0,3,Normal
+3753984,James Philip Milner,Liverpool,20.385534086699806,0.06163131893799137,False,Right Foot,Open Play,1,0,0,Volley
+3753984,Cheikhou Kouyaté,West Ham United,27.51763071196356,0.052881338296299235,False,Right Foot,Open Play,1,0,0,Half Volley
+3753984,Cheikhou Kouyaté,West Ham United,30.19884103736434,0.06371538544914179,False,Right Foot,Open Play,1,0,0,Normal
+3753984,Aaron Cresswell,West Ham United,16.296318602678333,0.06151898390827737,False,Left Foot,Open Play,0,0,1,Normal
+3753984,Manuel Lanzini,West Ham United,27.475443581496553,0.05787911841488223,False,Right Foot,Open Play,0,0,1,Normal
+3753984,Winston Reid,West Ham United,7.602631123499279,0.05772902883681806,False,Head,Open Play,0,1,4,Normal
+3753984,James Philip Milner,Liverpool,9.475230867899741,0.055218054609973075,False,Right Foot,Open Play,1,0,1,Normal
+3753984,Christian Benteke Liolo,Liverpool,9.730878685915267,0.05956266973936365,False,Head,Open Play,0,1,3,Normal
+3753984,Dejan Lovren,Liverpool,7.481310045707231,0.054760027652950766,False,Right Foot,Open Play,1,0,3,Half Volley
+3753984,Diafra Sakho,West Ham United,17.576404638036756,0.05807266852026708,True,Left Foot,Open Play,0,0,3,Normal
+3753984,Christian Benteke Liolo,Liverpool,8.338465086573185,0.05833631671123513,False,Head,Open Play,0,1,2,Normal
+3753984,Daniel William John Ings,Liverpool,22.989562849258363,0.06730675299706775,False,Right Foot,Open Play,0,0,3,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-48.84362803887525,0.05409937793266872,True,Right Foot,Open Play,0,0,1,Lob
-10.171037311896953,0.05652119725735074,False,Right Foot,Open Play,1,0,2,Normal
-29.033084576048758,0.061423385018179254,False,Right Foot,Open Play,1,0,1,Normal
-3.6055512754639953,0.05651018204417318,False,Head,Open Play,0,0,4,Normal
-27.14479692316743,0.06186858334941073,False,Right Foot,Open Play,0,1,2,Normal
-10.111874208078342,0.05927227250532752,False,Head,Open Play,0,0,1,Normal
-23.730571000294113,0.06669289039787535,False,Left Foot,Open Play,0,0,3,Normal
-13.440610105199838,0.05984601219051982,True,Left Foot,Open Play,1,0,1,Normal
-47.48431319920295,0.0522319797155571,True,Left Foot,Free Kick,0,0,0,Normal
-26.88810145770802,0.06346308031583765,False,Right Foot,Open Play,0,0,3,Normal
-15.402921800749366,0.05893386388340564,False,Left Foot,Open Play,0,0,2,Normal
-12.599999999999994,0.0598435698547885,False,Head,Open Play,0,1,6,Normal
-17.50114281982751,0.062047152248660434,False,Left Foot,Open Play,1,0,2,Normal
-31.156540244385287,0.07093532983891507,False,Right Foot,Open Play,0,1,1,Half Volley
-38.01473398565351,0.06800549033742534,False,Right Foot,Open Play,1,0,0,Volley
-8.905054744357278,0.05885871470686882,False,Right Foot,Open Play,1,0,2,Normal
-10.000499987500627,0.05962054334746423,False,Head,Open Play,0,0,2,Normal
-23.256826954681497,0.06781243839365945,False,Right Foot,Open Play,1,1,1,Normal
-35.19573837838894,0.07688388252790271,False,Right Foot,Free Kick,0,0,0,Normal
-33.360005995203295,0.07081120894379161,False,Left Foot,Open Play,0,0,0,Normal
-10.217631819555839,0.05991678242938725,True,Left Foot,Open Play,1,0,1,Normal
-37.159790096285526,0.06256964905175383,False,Right Foot,Open Play,1,0,2,Normal
-5.522680508593628,0.05750469182486512,True,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911790,Saskia Matheis,SV Werder Bremen,48.84362803887525,0.05409937793266872,True,Right Foot,Open Play,0,0,1,Lob
+3911790,Sophie Weidauer,SV Werder Bremen,10.171037311896953,0.05652119725735074,False,Right Foot,Open Play,1,0,2,Normal
+3911790,Julia Landenberger,RB Leipzig W,29.033084576048758,0.061423385018179254,False,Right Foot,Open Play,1,0,1,Normal
+3911790,Marlene Müller,RB Leipzig W,3.6055512754639953,0.05651018204417318,False,Head,Open Play,0,0,4,Normal
+3911790,Saskia Matheis,SV Werder Bremen,27.14479692316743,0.06186858334941073,False,Right Foot,Open Play,0,1,2,Normal
+3911790,Juliane Wirtz,SV Werder Bremen,10.111874208078342,0.05927227250532752,False,Head,Open Play,0,0,1,Normal
+3911790,Marlene Müller,RB Leipzig W,23.730571000294113,0.06669289039787535,False,Left Foot,Open Play,0,0,3,Normal
+3911790,Sophie Weidauer,SV Werder Bremen,13.440610105199838,0.05984601219051982,True,Left Foot,Open Play,1,0,1,Normal
+3911790,Nina Lührßen,SV Werder Bremen,47.48431319920295,0.0522319797155571,True,Left Foot,Free Kick,0,0,0,Normal
+3911790,Saskia Matheis,SV Werder Bremen,26.88810145770802,0.06346308031583765,False,Right Foot,Open Play,0,0,3,Normal
+3911790,Sophie Weidauer,SV Werder Bremen,15.402921800749366,0.05893386388340564,False,Left Foot,Open Play,0,0,2,Normal
+3911790,Victoria Krug,RB Leipzig W,12.599999999999994,0.0598435698547885,False,Head,Open Play,0,1,6,Normal
+3911790,Lina Hausicke,SV Werder Bremen,17.50114281982751,0.062047152248660434,False,Left Foot,Open Play,1,0,2,Normal
+3911790,Korina Lara Janež,RB Leipzig W,31.156540244385287,0.07093532983891507,False,Right Foot,Open Play,0,1,1,Half Volley
+3911790,Frederike Kempe,RB Leipzig W,38.01473398565351,0.06800549033742534,False,Right Foot,Open Play,1,0,0,Volley
+3911790,Marlene Müller,RB Leipzig W,8.905054744357278,0.05885871470686882,False,Right Foot,Open Play,1,0,2,Normal
+3911790,Victoria Krug,RB Leipzig W,10.000499987500627,0.05962054334746423,False,Head,Open Play,0,0,2,Normal
+3911790,Maja Sternad,SV Werder Bremen,23.256826954681497,0.06781243839365945,False,Right Foot,Open Play,1,1,1,Normal
+3911790,Jenny Hipp,RB Leipzig W,35.19573837838894,0.07688388252790271,False,Right Foot,Free Kick,0,0,0,Normal
+3911790,Vanessa Fudalla,RB Leipzig W,33.360005995203295,0.07081120894379161,False,Left Foot,Open Play,0,0,0,Normal
+3911790,Sophie Weidauer,SV Werder Bremen,10.217631819555839,0.05991678242938725,True,Left Foot,Open Play,1,0,1,Normal
+3911790,Lisa Josten,SV Werder Bremen,37.159790096285526,0.06256964905175383,False,Right Foot,Open Play,1,0,2,Normal
+3911790,Sophie Weidauer,SV Werder Bremen,5.522680508593628,0.05750469182486512,True,Right Foot,Open Play,1,0,0,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.299999999999997,0.06143522470324113,False,Left Foot,Open Play,1,0,1,Normal
-29.710772457140862,0.06819759554602173,False,Right Foot,Open Play,1,0,1,Half Volley
-15.780050697003475,0.0562096712676262,False,Right Foot,Open Play,1,0,0,Normal
-17.047287174210446,0.06380770950330457,False,Right Foot,Open Play,0,0,3,Normal
-26.662520511009458,0.05432258895936245,False,Left Foot,Open Play,0,0,1,Normal
-11.660617479361893,0.06073017663306582,True,Left Foot,Open Play,1,0,0,Half Volley
-23.190515302597312,0.05926690619898611,False,Right Foot,Open Play,0,0,3,Normal
-31.503968004046733,0.05542466352339107,False,Right Foot,Open Play,1,0,0,Half Volley
-20.496341136895623,0.05697203897439326,False,Left Foot,Open Play,1,0,0,Normal
-31.48920449932009,0.05881085654340919,False,Right Foot,Open Play,0,0,0,Normal
-22.11108319372888,0.06438192562200144,False,Right Foot,Open Play,0,1,2,Normal
-29.793455657241246,0.0722744032797756,False,Right Foot,Open Play,0,0,3,Normal
-29.87607738643077,0.055316566510229044,False,Left Foot,Open Play,0,0,0,Half Volley
-20.31206537996567,0.06353500310884759,True,Right Foot,Open Play,0,0,2,Normal
-10.4388696706109,0.05923703384588952,False,Right Foot,Open Play,1,0,2,Volley
-16.86475615003075,0.052663452977883406,False,Right Foot,Open Play,0,0,2,Normal
-29.510167739272507,0.071725078895067,False,Right Foot,Open Play,0,0,1,Normal
-23.771621736852538,0.060068306230256475,False,Left Foot,Open Play,0,0,1,Normal
-15.430165261590684,0.06176454875944787,False,Right Foot,Open Play,0,0,3,Normal
-18.181584089402108,0.06367963355335043,False,Right Foot,Open Play,0,0,3,Normal
-10.893117092916977,0.052702584909094574,False,Right Foot,Open Play,0,0,0,Normal
-27.29175699730598,0.07061235531479568,False,Right Foot,Free Kick,0,0,0,Normal
-3.522782990761707,0.05631503279552523,True,Other,Open Play,0,0,5,Normal
-12.681088281373961,0.06102119404388273,False,Head,Open Play,0,0,4,Normal
-17.551353224181888,0.06412863570781552,False,Left Foot,Open Play,1,0,2,Normal
-9.002777349240619,0.05763414021062656,False,Head,Open Play,0,1,6,Normal
-10.86738238951773,0.05838147846670264,False,Head,Open Play,0,1,2,Normal
-69.19017271260421,0.05491946320151084,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753976,Olivier Giroud,Arsenal,16.299999999999997,0.06143522470324113,False,Left Foot,Open Play,1,0,1,Normal
+3753976,Francis Joseph Coquelin,Arsenal,29.710772457140862,0.06819759554602173,False,Right Foot,Open Play,1,0,1,Half Volley
+3753976,Olivier Giroud,Arsenal,15.780050697003475,0.0562096712676262,False,Right Foot,Open Play,1,0,0,Normal
+3753976,Alexis Alejandro Sánchez Sánchez,Arsenal,17.047287174210446,0.06380770950330457,False,Right Foot,Open Play,0,0,3,Normal
+3753976,Joel Nathaniel Campbell Samuels,Arsenal,26.662520511009458,0.05432258895936245,False,Left Foot,Open Play,0,0,1,Normal
+3753976,Joel Nathaniel Campbell Samuels,Arsenal,11.660617479361893,0.06073017663306582,True,Left Foot,Open Play,1,0,0,Half Volley
+3753976,Bafétimbi Gomis,Swansea City,23.190515302597312,0.05926690619898611,False,Right Foot,Open Play,0,0,3,Normal
+3753976,Kyle Naughton,Swansea City,31.503968004046733,0.05542466352339107,False,Right Foot,Open Play,1,0,0,Half Volley
+3753976,Mesut Özil,Arsenal,20.496341136895623,0.05697203897439326,False,Left Foot,Open Play,1,0,0,Normal
+3753976,Héctor Bellerín Moruno,Arsenal,31.48920449932009,0.05881085654340919,False,Right Foot,Open Play,0,0,0,Normal
+3753976,Leroy Fer,Swansea City,22.11108319372888,0.06438192562200144,False,Right Foot,Open Play,0,1,2,Normal
+3753976,Bafétimbi Gomis,Swansea City,29.793455657241246,0.0722744032797756,False,Right Foot,Open Play,0,0,3,Normal
+3753976,Joel Nathaniel Campbell Samuels,Arsenal,29.87607738643077,0.055316566510229044,False,Left Foot,Open Play,0,0,0,Half Volley
+3753976,Wayne Routledge,Swansea City,20.31206537996567,0.06353500310884759,True,Right Foot,Open Play,0,0,2,Normal
+3753976,Olivier Giroud,Arsenal,10.4388696706109,0.05923703384588952,False,Right Foot,Open Play,1,0,2,Volley
+3753976,Alexis Alejandro Sánchez Sánchez,Arsenal,16.86475615003075,0.052663452977883406,False,Right Foot,Open Play,0,0,2,Normal
+3753976,Gylfi Þór Sigurðsson,Swansea City,29.510167739272507,0.071725078895067,False,Right Foot,Open Play,0,0,1,Normal
+3753976,André Ayew Pelé,Swansea City,23.771621736852538,0.060068306230256475,False,Left Foot,Open Play,0,0,1,Normal
+3753976,Alexis Alejandro Sánchez Sánchez,Arsenal,15.430165261590684,0.06176454875944787,False,Right Foot,Open Play,0,0,3,Normal
+3753976,Bafétimbi Gomis,Swansea City,18.181584089402108,0.06367963355335043,False,Right Foot,Open Play,0,0,3,Normal
+3753976,Gylfi Þór Sigurðsson,Swansea City,10.893117092916977,0.052702584909094574,False,Right Foot,Open Play,0,0,0,Normal
+3753976,Alexis Alejandro Sánchez Sánchez,Arsenal,27.29175699730598,0.07061235531479568,False,Right Foot,Free Kick,0,0,0,Normal
+3753976,Ashley Williams,Swansea City,3.522782990761707,0.05631503279552523,True,Other,Open Play,0,0,5,Normal
+3753976,Olivier Giroud,Arsenal,12.681088281373961,0.06102119404388273,False,Head,Open Play,0,0,4,Normal
+3753976,Ignacio Monreal Eraso,Arsenal,17.551353224181888,0.06412863570781552,False,Left Foot,Open Play,1,0,2,Normal
+3753976,Theo Walcott,Arsenal,9.002777349240619,0.05763414021062656,False,Head,Open Play,0,1,6,Normal
+3753976,Daniel Nii Tackie Mensah Welbeck,Arsenal,10.86738238951773,0.05838147846670264,False,Head,Open Play,0,1,2,Normal
+3753976,Bafétimbi Gomis,Swansea City,69.19017271260421,0.05491946320151084,False,Right Foot,Open Play,0,1,1,Normal

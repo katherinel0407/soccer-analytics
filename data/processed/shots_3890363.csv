@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.151832071950643,0.06549887265644126,False,Right Foot,Open Play,1,0,0,Volley
-10.012492197250392,0.05984292794476738,False,Left Foot,Open Play,1,0,1,Normal
-9.400531899844824,0.05848486456985425,False,Head,Open Play,0,0,2,Normal
-20.829066229670495,0.06296937982201585,False,Right Foot,Open Play,0,0,3,Normal
-20.295073293782412,0.06536942027802488,False,Left Foot,Open Play,1,0,0,Volley
-33.08473968463406,0.07412913306009661,False,Right Foot,Open Play,0,0,1,Normal
-21.890865674979604,0.05533878683618733,False,Right Foot,Open Play,0,0,1,Normal
-24.482646915723805,0.06116660824001082,False,Right Foot,Open Play,0,0,1,Normal
-33.301651610693426,0.06795464453705262,False,Right Foot,Open Play,1,0,0,Normal
-18.629009635512027,0.06411345557105572,False,Right Foot,Open Play,0,1,2,Half Volley
-23.07661153635863,0.058707273209706645,False,Right Foot,Open Play,1,0,0,Normal
-29.98166106138884,0.07151371967048718,False,Left Foot,Open Play,0,0,2,Half Volley
-15.55892027102138,0.055232447868133444,False,Head,Open Play,0,0,1,Normal
-7.44647567645259,0.05839201208843337,False,Head,Open Play,0,1,4,Normal
-29.008274681545608,0.05320703136955977,False,Right Foot,Open Play,0,0,1,Normal
-7.200694410957871,0.057207225721010925,False,Head,Open Play,0,1,5,Normal
-11.543396380615201,0.06066981296566599,False,Left Foot,Open Play,1,0,2,Normal
-34.46055716322648,0.07623049841534778,False,Right Foot,Open Play,0,0,0,Normal
-26.63268668384772,0.06857282783051208,False,Left Foot,Open Play,0,0,1,Normal
-28.900000000000006,0.06735340970787337,False,Right Foot,Open Play,1,0,0,Half Volley
-17.235138525698023,0.06351508753283089,False,Right Foot,Open Play,0,0,1,Normal
-16.541463055002115,0.06349057736398002,False,Left Foot,Open Play,1,0,2,Normal
-23.380547470065792,0.06789016525858445,False,Right Foot,Open Play,0,1,2,Normal
-11.244998888394782,0.05857668451642733,False,Right Foot,Open Play,1,1,1,Half Volley
-7.516648189186449,0.05445887303546429,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890363,Moritz Hartmann,Ingolstadt,21.151832071950643,0.06549887265644126,False,Right Foot,Open Play,1,0,0,Volley
+3890363,Moritz Hartmann,Ingolstadt,10.012492197250392,0.05984292794476738,False,Left Foot,Open Play,1,0,1,Normal
+3890363,Marvin Matip,Ingolstadt,9.400531899844824,0.05848486456985425,False,Head,Open Play,0,0,2,Normal
+3890363,Raffael Caetano de Araújo,Borussia Mönchengladbach,20.829066229670495,0.06296937982201585,False,Right Foot,Open Play,0,0,3,Normal
+3890363,Fabian Johnson,Borussia Mönchengladbach,20.295073293782412,0.06536942027802488,False,Left Foot,Open Play,1,0,0,Volley
+3890363,Alfredo Morales,Ingolstadt,33.08473968463406,0.07412913306009661,False,Right Foot,Open Play,0,0,1,Normal
+3890363,Lukas Hinterseer,Ingolstadt,21.890865674979604,0.05533878683618733,False,Right Foot,Open Play,0,0,1,Normal
+3890363,Alfredo Morales,Ingolstadt,24.482646915723805,0.06116660824001082,False,Right Foot,Open Play,0,0,1,Normal
+3890363,Pascal Groß,Ingolstadt,33.301651610693426,0.06795464453705262,False,Right Foot,Open Play,1,0,0,Normal
+3890363,Lars Edi Stindl,Borussia Mönchengladbach,18.629009635512027,0.06411345557105572,False,Right Foot,Open Play,0,1,2,Half Volley
+3890363,Romain Brégerie,Ingolstadt,23.07661153635863,0.058707273209706645,False,Right Foot,Open Play,1,0,0,Normal
+3890363,Lars Edi Stindl,Borussia Mönchengladbach,29.98166106138884,0.07151371967048718,False,Left Foot,Open Play,0,0,2,Half Volley
+3890363,Alfredo Morales,Ingolstadt,15.55892027102138,0.055232447868133444,False,Head,Open Play,0,0,1,Normal
+3890363,Lars Edi Stindl,Borussia Mönchengladbach,7.44647567645259,0.05839201208843337,False,Head,Open Play,0,1,4,Normal
+3890363,Pascal Groß,Ingolstadt,29.008274681545608,0.05320703136955977,False,Right Foot,Open Play,0,0,1,Normal
+3890363,Romain Brégerie,Ingolstadt,7.200694410957871,0.057207225721010925,False,Head,Open Play,0,1,5,Normal
+3890363,Fabian Johnson,Borussia Mönchengladbach,11.543396380615201,0.06066981296566599,False,Left Foot,Open Play,1,0,2,Normal
+3890363,Oscar Wendt,Borussia Mönchengladbach,34.46055716322648,0.07623049841534778,False,Right Foot,Open Play,0,0,0,Normal
+3890363,Granit Xhaka,Borussia Mönchengladbach,26.63268668384772,0.06857282783051208,False,Left Foot,Open Play,0,0,1,Normal
+3890363,Tobias Levels,Ingolstadt,28.900000000000006,0.06735340970787337,False,Right Foot,Open Play,1,0,0,Half Volley
+3890363,Alfredo Morales,Ingolstadt,17.235138525698023,0.06351508753283089,False,Right Foot,Open Play,0,0,1,Normal
+3890363,Alfredo Morales,Ingolstadt,16.541463055002115,0.06349057736398002,False,Left Foot,Open Play,1,0,2,Normal
+3890363,Fabian Johnson,Borussia Mönchengladbach,23.380547470065792,0.06789016525858445,False,Right Foot,Open Play,0,1,2,Normal
+3890363,Thorgan Hazard,Borussia Mönchengladbach,11.244998888394782,0.05857668451642733,False,Right Foot,Open Play,1,1,1,Half Volley
+3890363,Thorgan Hazard,Borussia Mönchengladbach,7.516648189186449,0.05445887303546429,False,Right Foot,Open Play,1,0,2,Half Volley

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.369316876852979,0.05298714595657335,False,Left Foot,Open Play,1,0,1,Overhead Kick
-28.837649002649297,0.06946679701754224,False,Right Foot,Open Play,0,0,1,Normal
-14.132586458253142,0.057543614229316656,False,Right Foot,Open Play,1,0,1,Volley
-12.457929201917954,0.059321330777426705,False,Head,Open Play,0,1,5,Normal
-19.053870997778905,0.06246492359019375,False,Left Foot,Open Play,0,0,2,Normal
-8.400595217006954,0.05814729297865137,True,Right Foot,Open Play,1,0,2,Normal
-16.324827717314513,0.059773660168365744,False,Right Foot,Open Play,1,0,1,Normal
-8.168843247363728,0.05885332151415864,False,Left Foot,Open Play,0,1,1,Normal
-15.057224179774973,0.062230850841116875,True,Right Foot,Open Play,1,0,1,Normal
-12.2,0.06036948897255217,False,Right Foot,Open Play,1,0,3,Normal
-7.710382610480488,0.05821187655378091,False,Head,Open Play,0,0,2,Diving Header
-10.59481005020855,0.05967729816958232,False,Head,Open Play,0,0,0,Normal
-7.0837842993699365,0.056694685330682185,True,Head,Open Play,0,1,3,Normal
-12.529964086141668,0.053497492482266255,False,Right Foot,Open Play,0,0,2,Normal
-19.246298345396184,0.0646599574966619,False,Right Foot,Open Play,0,0,2,Normal
-18.54130523992311,0.06469117377312698,False,Left Foot,Open Play,1,0,1,Normal
-18.627130750601395,0.06423124883697343,False,Right Foot,Open Play,0,0,4,Normal
-35.2115038020247,0.07117563672870744,False,Right Foot,Open Play,1,0,0,Normal
-14.27795503564849,0.05324351764865415,False,Left Foot,Open Play,0,0,1,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69260,David Villa Sánchez,Barcelona,12.369316876852979,0.05298714595657335,False,Left Foot,Open Play,1,0,1,Overhead Kick
+69260,Xavier Hernández Creus,Barcelona,28.837649002649297,0.06946679701754224,False,Right Foot,Open Play,0,0,1,Normal
+69260,Roberto Soldado Rillo,Valencia,14.132586458253142,0.057543614229316656,False,Right Foot,Open Play,1,0,1,Volley
+69260,David Albelda Aliqués,Valencia,12.457929201917954,0.059321330777426705,False,Head,Open Play,0,1,5,Normal
+69260,David Villa Sánchez,Barcelona,19.053870997778905,0.06246492359019375,False,Left Foot,Open Play,0,0,2,Normal
+69260,Pablo Hernández Domínguez,Valencia,8.400595217006954,0.05814729297865137,True,Right Foot,Open Play,1,0,2,Normal
+69260,Pablo Hernández Domínguez,Valencia,16.324827717314513,0.059773660168365744,False,Right Foot,Open Play,1,0,1,Normal
+69260,Lionel Andrés Messi Cuccittini,Barcelona,8.168843247363728,0.05885332151415864,False,Left Foot,Open Play,0,1,1,Normal
+69260,Andrés Iniesta Luján,Barcelona,15.057224179774973,0.062230850841116875,True,Right Foot,Open Play,1,0,1,Normal
+69260,Seydou Kéita,Barcelona,12.2,0.06036948897255217,False,Right Foot,Open Play,1,0,3,Normal
+69260,David Villa Sánchez,Barcelona,7.710382610480488,0.05821187655378091,False,Head,Open Play,0,0,2,Diving Header
+69260,David Villa Sánchez,Barcelona,10.59481005020855,0.05967729816958232,False,Head,Open Play,0,0,0,Normal
+69260,Carles Puyol i Saforcada,Barcelona,7.0837842993699365,0.056694685330682185,True,Head,Open Play,0,1,3,Normal
+69260,Lionel Andrés Messi Cuccittini,Barcelona,12.529964086141668,0.053497492482266255,False,Right Foot,Open Play,0,0,2,Normal
+69260,David Villa Sánchez,Barcelona,19.246298345396184,0.0646599574966619,False,Right Foot,Open Play,0,0,2,Normal
+69260,David Villa Sánchez,Barcelona,18.54130523992311,0.06469117377312698,False,Left Foot,Open Play,1,0,1,Normal
+69260,Aritz Aduriz Zubeldia,Valencia,18.627130750601395,0.06423124883697343,False,Right Foot,Open Play,0,0,4,Normal
+69260,Manuel Henrique Tavares Fernandes,Valencia,35.2115038020247,0.07117563672870744,False,Right Foot,Open Play,1,0,0,Normal
+69260,Pedro Eliezer Rodríguez Ledesma,Barcelona,14.27795503564849,0.05324351764865415,False,Left Foot,Open Play,0,0,1,Lob

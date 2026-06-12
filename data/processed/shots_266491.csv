@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.214885632682712,0.07050072080870932,False,Right Foot,Open Play,0,1,1,Normal
-29.280027322391632,0.07188381521361846,False,Right Foot,Open Play,0,0,2,Normal
-21.203773249117717,0.06382296854444235,False,Left Foot,Open Play,0,0,3,Normal
-24.403483357914297,0.06803195713158833,False,Right Foot,Open Play,0,1,2,Normal
-19.00657780874821,0.06497309399863573,False,Left Foot,Open Play,1,1,3,Normal
-13.164345787011213,0.060529576707643196,True,Left Foot,Open Play,1,0,1,Normal
-10.295630140987,0.059326580534210166,False,Right Foot,Open Play,0,0,3,Normal
-24.82841114529885,0.06118300748918423,False,Left Foot,Free Kick,0,0,0,Normal
-16.483021567661677,0.054796038428849864,True,Right Foot,Open Play,0,0,3,Normal
-13.38805437694365,0.06116283043288206,False,Head,Open Play,0,0,1,Normal
-24.15305363716977,0.0642316273540074,False,Left Foot,Open Play,1,1,2,Normal
-10.793516572461451,0.058088384083449046,False,Head,Open Play,0,1,5,Normal
-30.98031633150314,0.07312790766895527,False,Right Foot,Open Play,0,0,0,Normal
-19.33287355775131,0.06510828230846735,False,Right Foot,Open Play,0,1,2,Normal
-24.5446531855718,0.06192488429368447,False,Left Foot,Open Play,0,0,1,Normal
-11.58360910942699,0.056998968146082823,False,Right Foot,Open Play,1,0,2,Normal
-10.44030650891055,0.05771588406306943,True,Left Foot,Open Play,1,0,3,Half Volley
-18.47620090819538,0.06471696502913674,False,Right Foot,Open Play,0,1,2,Half Volley
-16.07762420259909,0.05553349995275311,False,Right Foot,Open Play,0,1,2,Normal
-14.50413734077281,0.06204418276189714,False,Head,Open Play,0,1,3,Normal
-7.657675887630656,0.055475501087774166,False,Head,Open Play,0,0,1,Normal
-30.20016556246008,0.07213651844621934,False,Left Foot,Open Play,0,0,2,Normal
-15.073486657041224,0.06257785164294885,False,Left Foot,Open Play,0,0,2,Half Volley
-11.500434774390047,0.05685240817337002,False,Left Foot,Open Play,1,0,1,Volley
-18.317205026968495,0.05719820916128967,False,Left Foot,Open Play,0,0,2,Normal
-7.891767862779541,0.057479572822899234,True,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266491,Adriano Correia Claro,Barcelona,27.214885632682712,0.07050072080870932,False,Right Foot,Open Play,0,1,1,Normal
+266491,Andrés Iniesta Luján,Barcelona,29.280027322391632,0.07188381521361846,False,Right Foot,Open Play,0,0,2,Normal
+266491,Lionel Andrés Messi Cuccittini,Barcelona,21.203773249117717,0.06382296854444235,False,Left Foot,Open Play,0,0,3,Normal
+266491,Pedro Eliezer Rodríguez Ledesma,Barcelona,24.403483357914297,0.06803195713158833,False,Right Foot,Open Play,0,1,2,Normal
+266491,Andrés Iniesta Luján,Barcelona,19.00657780874821,0.06497309399863573,False,Left Foot,Open Play,1,1,3,Normal
+266491,Lionel Andrés Messi Cuccittini,Barcelona,13.164345787011213,0.060529576707643196,True,Left Foot,Open Play,1,0,1,Normal
+266491,Pedro Eliezer Rodríguez Ledesma,Barcelona,10.295630140987,0.059326580534210166,False,Right Foot,Open Play,0,0,3,Normal
+266491,Pablo Sarabia García,Getafe,24.82841114529885,0.06118300748918423,False,Left Foot,Free Kick,0,0,0,Normal
+266491,Ángel Lafita Castillo,Getafe,16.483021567661677,0.054796038428849864,True,Right Foot,Open Play,0,0,3,Normal
+266491,Andrés Iniesta Luján,Barcelona,13.38805437694365,0.06116283043288206,False,Head,Open Play,0,0,1,Normal
+266491,Lionel Andrés Messi Cuccittini,Barcelona,24.15305363716977,0.0642316273540074,False,Left Foot,Open Play,1,1,2,Normal
+266491,Alexis Alejandro Sánchez Sánchez,Barcelona,10.793516572461451,0.058088384083449046,False,Head,Open Play,0,1,5,Normal
+266491,Adriano Correia Claro,Barcelona,30.98031633150314,0.07312790766895527,False,Right Foot,Open Play,0,0,0,Normal
+266491,Pedro Eliezer Rodríguez Ledesma,Barcelona,19.33287355775131,0.06510828230846735,False,Right Foot,Open Play,0,1,2,Normal
+266491,Lionel Andrés Messi Cuccittini,Barcelona,24.5446531855718,0.06192488429368447,False,Left Foot,Open Play,0,0,1,Normal
+266491,Pedro Eliezer Rodríguez Ledesma,Barcelona,11.58360910942699,0.056998968146082823,False,Right Foot,Open Play,1,0,2,Normal
+266491,Alexis Alejandro Sánchez Sánchez,Barcelona,10.44030650891055,0.05771588406306943,True,Left Foot,Open Play,1,0,3,Half Volley
+266491,Pedro Eliezer Rodríguez Ledesma,Barcelona,18.47620090819538,0.06471696502913674,False,Right Foot,Open Play,0,1,2,Half Volley
+266491,Francesc Fàbregas i Soler,Barcelona,16.07762420259909,0.05553349995275311,False,Right Foot,Open Play,0,1,2,Normal
+266491,Juan Antonio Rodríguez Villamuela,Getafe,14.50413734077281,0.06204418276189714,False,Head,Open Play,0,1,3,Normal
+266491,Daniel Alves da Silva,Barcelona,7.657675887630656,0.055475501087774166,False,Head,Open Play,0,0,1,Normal
+266491,Pablo Sarabia García,Getafe,30.20016556246008,0.07213651844621934,False,Left Foot,Open Play,0,0,2,Normal
+266491,Lionel Andrés Messi Cuccittini,Barcelona,15.073486657041224,0.06257785164294885,False,Left Foot,Open Play,0,0,2,Half Volley
+266491,Pablo Sarabia García,Getafe,11.500434774390047,0.05685240817337002,False,Left Foot,Open Play,1,0,1,Volley
+266491,Pablo Sarabia García,Getafe,18.317205026968495,0.05719820916128967,False,Left Foot,Open Play,0,0,2,Normal
+266491,Ángel Lafita Castillo,Getafe,7.891767862779541,0.057479572822899234,True,Head,Open Play,0,0,2,Normal

@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.01060435678208,0.07410557612867963,False,Right Foot,Open Play,0,0,2,Normal
-22.544178849538966,0.059766018272777055,False,Left Foot,Open Play,0,0,2,Normal
-8.200000000000003,0.058033939879169535,False,Head,Open Play,0,1,4,Normal
-12.238463955905576,0.06090408743041244,False,Head,Open Play,0,0,4,Normal
-19.602550854416883,0.06460688995584815,True,Right Foot,Open Play,0,0,2,Normal
-32.6833290838005,0.07359716490696808,False,Right Foot,Open Play,0,0,0,Normal
-12.192620719107104,0.06016770362826207,False,Left Foot,Open Play,1,1,2,Normal
-18.83215335536539,0.062080749913747235,False,Right Foot,Open Play,0,0,3,Half Volley
-9.6260064408871,0.055425774102639956,False,Head,Open Play,0,0,2,Normal
-39.208162415497114,0.04260411080484925,False,Right Foot,Corner,0,0,0,Normal
-9.932270636667132,0.058994635034984706,False,Right Foot,Open Play,0,1,3,Normal
-20.57036703610317,0.06406198234732925,False,Right Foot,Open Play,0,0,1,Normal
-18.826576959181928,0.0621234378950351,False,Right Foot,Open Play,0,1,4,Normal
-7.3375745311376575,0.056841202389715136,False,Head,Open Play,0,1,3,Normal
-13.50740537631118,0.05505961808437412,False,Right Foot,Open Play,1,0,1,Normal
-6.236184731067547,0.057687424888417105,False,Right Foot,Open Play,0,0,3,Half Volley
-23.641488954801467,0.06542914366695368,False,Right Foot,Open Play,0,0,2,Normal
-10.40192289915668,0.05899672561907698,False,Head,Open Play,0,0,4,Normal
-14.235870187663275,0.061281029100676024,False,Right Foot,Open Play,1,0,1,Half Volley
-17.48971126119582,0.05815688014656454,False,Right Foot,Open Play,0,0,3,Normal
-24.03539057306954,0.060922920506810155,False,Right Foot,Open Play,0,0,2,Normal
-11.21605991424796,0.055701719177277,False,Head,Open Play,0,1,1,Normal
-26.610148440021902,0.06909249794225193,False,Right Foot,Free Kick,0,0,0,Normal
-13.058713566044702,0.060374570977072085,False,Right Foot,Open Play,0,0,2,Normal
-18.476471524617466,0.06396859958444202,False,Right Foot,Open Play,0,0,2,Normal
-18.168654325513497,0.0557493499931397,False,Right Foot,Open Play,0,1,2,Normal
-5.946427498927406,0.05771230182713473,True,Right Foot,Open Play,1,0,3,Normal
-14.818906842274163,0.06155289775386703,False,Right Foot,Open Play,0,0,2,Normal
-17.201162751395614,0.06376018953818281,True,Right Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3941021,Xavi Simons,Netherlands,33.01060435678208,0.07410557612867963,False,Right Foot,Open Play,0,0,2,Normal
+3941021,Dennis Man,Romania,22.544178849538966,0.059766018272777055,False,Left Foot,Open Play,0,0,2,Normal
+3941021,Stefan de Vrij,Netherlands,8.200000000000003,0.058033939879169535,False,Head,Open Play,0,1,4,Normal
+3941021,Nathan Aké,Netherlands,12.238463955905576,0.06090408743041244,False,Head,Open Play,0,0,4,Normal
+3941021,Cody Mathès Gakpo,Netherlands,19.602550854416883,0.06460688995584815,True,Right Foot,Open Play,0,0,2,Normal
+3941021,Ianis Hagi,Romania,32.6833290838005,0.07359716490696808,False,Right Foot,Open Play,0,0,0,Normal
+3941021,Dennis Man,Romania,12.192620719107104,0.06016770362826207,False,Left Foot,Open Play,1,1,2,Normal
+3941021,Tijjani Reijnders,Netherlands,18.83215335536539,0.062080749913747235,False,Right Foot,Open Play,0,0,3,Half Volley
+3941021,Stefan de Vrij,Netherlands,9.6260064408871,0.055425774102639956,False,Head,Open Play,0,0,2,Normal
+3941021,Memphis Depay,Netherlands,39.208162415497114,0.04260411080484925,False,Right Foot,Corner,0,0,0,Normal
+3941021,Xavi Simons,Netherlands,9.932270636667132,0.058994635034984706,False,Right Foot,Open Play,0,1,3,Normal
+3941021,Denis Mihai Drăguş,Romania,20.57036703610317,0.06406198234732925,False,Right Foot,Open Play,0,0,1,Normal
+3941021,Tijjani Reijnders,Netherlands,18.826576959181928,0.0621234378950351,False,Right Foot,Open Play,0,1,4,Normal
+3941021,Donyell Malen,Netherlands,7.3375745311376575,0.056841202389715136,False,Head,Open Play,0,1,3,Normal
+3941021,Donyell Malen,Netherlands,13.50740537631118,0.05505961808437412,False,Right Foot,Open Play,1,0,1,Normal
+3941021,Memphis Depay,Netherlands,6.236184731067547,0.057687424888417105,False,Right Foot,Open Play,0,0,3,Half Volley
+3941021,Tijjani Reijnders,Netherlands,23.641488954801467,0.06542914366695368,False,Right Foot,Open Play,0,0,2,Normal
+3941021,Virgil van Dijk,Netherlands,10.40192289915668,0.05899672561907698,False,Head,Open Play,0,0,4,Normal
+3941021,Cody Mathès Gakpo,Netherlands,14.235870187663275,0.061281029100676024,False,Right Foot,Open Play,1,0,1,Half Volley
+3941021,Denis Mihai Drăguş,Romania,17.48971126119582,0.05815688014656454,False,Right Foot,Open Play,0,0,3,Normal
+3941021,Cody Mathès Gakpo,Netherlands,24.03539057306954,0.060922920506810155,False,Right Foot,Open Play,0,0,2,Normal
+3941021,Nathan Aké,Netherlands,11.21605991424796,0.055701719177277,False,Head,Open Play,0,1,1,Normal
+3941021,Memphis Depay,Netherlands,26.610148440021902,0.06909249794225193,False,Right Foot,Free Kick,0,0,0,Normal
+3941021,Joey Veerman,Netherlands,13.058713566044702,0.060374570977072085,False,Right Foot,Open Play,0,0,2,Normal
+3941021,Memphis Depay,Netherlands,18.476471524617466,0.06396859958444202,False,Right Foot,Open Play,0,0,2,Normal
+3941021,Cody Mathès Gakpo,Netherlands,18.168654325513497,0.0557493499931397,False,Right Foot,Open Play,0,1,2,Normal
+3941021,Donyell Malen,Netherlands,5.946427498927406,0.05771230182713473,True,Right Foot,Open Play,1,0,3,Normal
+3941021,Memphis Depay,Netherlands,14.818906842274163,0.06155289775386703,False,Right Foot,Open Play,0,0,2,Normal
+3941021,Donyell Malen,Netherlands,17.201162751395614,0.06376018953818281,True,Right Foot,Open Play,0,1,3,Normal

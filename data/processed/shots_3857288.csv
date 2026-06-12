@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.124731758421394,0.06679480023714059,False,Right Foot,Open Play,1,1,1,Volley
-28.111385593741193,0.06556345200852584,False,Right Foot,Open Play,0,0,2,Normal
-12.420144926690675,0.06114210052832914,True,Head,Open Play,0,0,1,Normal
-10.907795377618704,0.06031942617233144,False,Head,Open Play,0,0,3,Normal
-9.98649087517733,0.05436667921373142,False,Right Foot,Open Play,1,0,2,Backheel
-22.690967365892536,0.055447210083186683,False,Right Foot,Open Play,0,0,3,Normal
-13.682105101189654,0.056020666820211146,False,Right Foot,Open Play,1,0,1,Normal
-15.111915828246259,0.06067939668916871,False,Head,Open Play,0,1,4,Normal
-20.173497465734588,0.054329330357271256,False,Left Foot,Open Play,1,0,3,Half Volley
-34.9954282728473,0.06180063868713523,False,Right Foot,Open Play,1,0,0,Volley
-10.547511554864494,0.056451865315332195,False,Right Foot,Open Play,1,0,1,Normal
-12.701574705523724,0.05995861237163705,False,Head,Open Play,0,0,1,Normal
-31.47586376892618,0.06017128444972475,False,Right Foot,Open Play,0,0,1,Normal
-19.961963831246667,0.06549640177372093,False,Right Foot,Open Play,1,0,3,Normal
-19.147062437878038,0.06425866431231952,False,Left Foot,Open Play,1,0,1,Normal
-24.498979570586204,0.06407322212128158,False,Right Foot,Open Play,0,0,2,Normal
-24.742069436488134,0.0631267672243255,False,Right Foot,Open Play,1,0,0,Half Volley
-10.100000000000007,0.059396953070879485,False,Head,Open Play,0,1,1,Normal
-30.82482765564149,0.07091823714474671,False,Right Foot,Open Play,1,0,0,Volley
-26.071440313108898,0.056876891354406794,False,Right Foot,Open Play,0,0,1,Normal
-12.601587201618694,0.056187786643777785,False,Left Foot,Open Play,0,0,3,Normal
-13.797463535012508,0.05540476350572604,False,Left Foot,Open Play,1,0,3,Normal
-19.68171740473884,0.06432820499161683,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857288,Fran Karačić,Australia,29.124731758421394,0.06679480023714059,False,Right Foot,Open Play,1,1,1,Volley
+3857288,Mohamed Dräger,Tunisia,28.111385593741193,0.06556345200852584,False,Right Foot,Open Play,0,0,2,Normal
+3857288,Mitchell Thomas Duke,Australia,12.420144926690675,0.06114210052832914,True,Head,Open Play,0,0,1,Normal
+3857288,Mitchell Thomas Duke,Australia,10.907795377618704,0.06031942617233144,False,Head,Open Play,0,0,3,Normal
+3857288,Jackson Irvine,Australia,9.98649087517733,0.05436667921373142,False,Right Foot,Open Play,1,0,2,Backheel
+3857288,Youssef Msakni,Tunisia,22.690967365892536,0.055447210083186683,False,Right Foot,Open Play,0,0,3,Normal
+3857288,Mohamed Dräger,Tunisia,13.682105101189654,0.056020666820211146,False,Right Foot,Open Play,1,0,1,Normal
+3857288,Mitchell Thomas Duke,Australia,15.111915828246259,0.06067939668916871,False,Head,Open Play,0,1,4,Normal
+3857288,Fran Karačić,Australia,20.173497465734588,0.054329330357271256,False,Left Foot,Open Play,1,0,3,Half Volley
+3857288,Fran Karačić,Australia,34.9954282728473,0.06180063868713523,False,Right Foot,Open Play,1,0,0,Volley
+3857288,Youssef Msakni,Tunisia,10.547511554864494,0.056451865315332195,False,Right Foot,Open Play,1,0,1,Normal
+3857288,Mitchell Thomas Duke,Australia,12.701574705523724,0.05995861237163705,False,Head,Open Play,0,0,1,Normal
+3857288,Ferjani Sassi,Tunisia,31.47586376892618,0.06017128444972475,False,Right Foot,Open Play,0,0,1,Normal
+3857288,Youssef Msakni,Tunisia,19.961963831246667,0.06549640177372093,False,Right Foot,Open Play,1,0,3,Normal
+3857288,Youssef Msakni,Tunisia,19.147062437878038,0.06425866431231952,False,Left Foot,Open Play,1,0,1,Normal
+3857288,Youssef Msakni,Tunisia,24.498979570586204,0.06407322212128158,False,Right Foot,Open Play,0,0,2,Normal
+3857288,Aaron Mooy,Australia,24.742069436488134,0.0631267672243255,False,Right Foot,Open Play,1,0,0,Half Volley
+3857288,Youssef Msakni,Tunisia,10.100000000000007,0.059396953070879485,False,Head,Open Play,0,1,1,Normal
+3857288,Montassar Omar Talbi,Tunisia,30.82482765564149,0.07091823714474671,False,Right Foot,Open Play,1,0,0,Volley
+3857288,Taha Yassine Khenissi,Tunisia,26.071440313108898,0.056876891354406794,False,Right Foot,Open Play,0,0,1,Normal
+3857288,Naïm Sliti,Tunisia,12.601587201618694,0.056187786643777785,False,Left Foot,Open Play,0,0,3,Normal
+3857288,Wahbi Khazri,Tunisia,13.797463535012508,0.05540476350572604,False,Left Foot,Open Play,1,0,3,Normal
+3857288,Wahbi Khazri,Tunisia,19.68171740473884,0.06432820499161683,False,Right Foot,Open Play,0,0,1,Normal

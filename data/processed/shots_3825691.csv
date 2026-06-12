@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.036906608396016,0.064419219083232,False,Head,Open Play,0,0,2,Normal
-32.973019273339226,0.07492721053035216,False,Left Foot,Open Play,0,0,2,Normal
-25.65170559631465,0.06946239791892916,False,Right Foot,Free Kick,0,0,0,Normal
-17.133009076049657,0.05813068998624754,False,Right Foot,Open Play,1,0,1,Half Volley
-18.284966502567073,0.06459866951795504,False,Right Foot,Open Play,1,0,1,Half Volley
-15.35252422242024,0.05589384693034465,True,Right Foot,Open Play,0,0,2,Normal
-17.029973576021785,0.05878108250423984,False,Left Foot,Open Play,1,0,1,Volley
-14.833745312630924,0.060396460154650077,False,Head,Open Play,0,0,4,Normal
-40.248354003611134,0.051820917976382115,False,Left Foot,Open Play,0,0,2,Normal
-8.141252974819048,0.056383030771116824,True,Head,Open Play,0,0,2,Normal
-31.326985172531362,0.06931617509892381,False,Right Foot,Open Play,0,0,1,Normal
-16.36856743884449,0.05787882767126146,False,Left Foot,Open Play,1,0,3,Volley
-13.257450735341244,0.06094986630482627,False,Left Foot,Open Play,1,0,1,Normal
-7.60065786626394,0.05776153669592096,False,Left Foot,Open Play,1,1,2,Normal
-25.124689052802225,0.05762762508685146,True,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825691,Isaac Ajayi Success,Granada,18.036906608396016,0.064419219083232,False,Head,Open Play,0,0,2,Normal
+3825691,Rubén Rochina Naixes,Granada,32.973019273339226,0.07492721053035216,False,Left Foot,Open Play,0,0,2,Normal
+3825691,Francisco Manuel Rico Castro,Granada,25.65170559631465,0.06946239791892916,False,Right Foot,Free Kick,0,0,0,Normal
+3825691,Víctor Camarasa Ferrando,Levante UD,17.133009076049657,0.05813068998624754,False,Right Foot,Open Play,1,0,1,Half Volley
+3825691,José Luis Morales Nogales,Levante UD,18.284966502567073,0.06459866951795504,False,Right Foot,Open Play,1,0,1,Half Volley
+3825691,Adalberto Peñaranda Maestre,Granada,15.35252422242024,0.05589384693034465,True,Right Foot,Open Play,0,0,2,Normal
+3825691,Víctor Camarasa Ferrando,Levante UD,17.029973576021785,0.05878108250423984,False,Left Foot,Open Play,1,0,1,Volley
+3825691,Simão Mate,Levante UD,14.833745312630924,0.060396460154650077,False,Head,Open Play,0,0,4,Normal
+3825691,Rubén Rochina Naixes,Granada,40.248354003611134,0.051820917976382115,False,Left Foot,Open Play,0,0,2,Normal
+3825691,Simão Mate,Levante UD,8.141252974819048,0.056383030771116824,True,Head,Open Play,0,0,2,Normal
+3825691,Víctor Camarasa Ferrando,Levante UD,31.326985172531362,0.06931617509892381,False,Right Foot,Open Play,0,0,1,Normal
+3825691,Roger Martí Salvador,Levante UD,16.36856743884449,0.05787882767126146,False,Left Foot,Open Play,1,0,3,Volley
+3825691,Javier Márquez Moreno,Granada,13.257450735341244,0.06094986630482627,False,Left Foot,Open Play,1,0,1,Normal
+3825691,Adalberto Peñaranda Maestre,Granada,7.60065786626394,0.05776153669592096,False,Left Foot,Open Play,1,1,2,Normal
+3825691,Adalberto Peñaranda Maestre,Granada,25.124689052802225,0.05762762508685146,True,Right Foot,Open Play,0,0,1,Normal

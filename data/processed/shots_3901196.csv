@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.287979732042025,0.06187101055713363,False,Right Foot,Open Play,0,0,2,Normal
-15.02963738750872,0.05744890733473709,False,Right Foot,Open Play,1,1,3,Normal
-11.531695452100703,0.05307017073727685,True,Right Foot,Open Play,0,0,1,Half Volley
-25.120509548972127,0.0633491787922374,True,Left Foot,Open Play,0,1,1,Normal
-16.683225107874076,0.06352050693410802,False,Right Foot,Open Play,1,0,1,Normal
-19.76689151080665,0.06067764074602934,True,Right Foot,Free Kick,0,0,0,Normal
-27.43902330623304,0.05373606087505807,False,Right Foot,Open Play,0,0,2,Normal
-11.356495938448615,0.05836027738281392,False,Head,Open Play,0,0,1,Normal
-29.686528931486755,0.05775466439879843,False,Left Foot,Open Play,0,0,2,Normal
-17.964409258308493,0.06050541095181154,False,Left Foot,Open Play,0,1,4,Half Volley
-5.656854249492381,0.057548353589171,True,Head,Open Play,0,1,4,Normal
-7.305477397131557,0.05673743797214428,False,Head,Open Play,0,1,3,Normal
-8.246211251235321,0.05871935582765274,False,Right Foot,Open Play,1,0,2,Volley
-20.87510479015614,0.05771170345604022,False,Right Foot,Open Play,0,0,2,Normal
-11.92015100575492,0.05440918678865951,False,Right Foot,Open Play,0,0,3,Normal
-26.101532522057013,0.06706902123316286,False,Left Foot,Free Kick,0,0,0,Normal
-19.568597292601222,0.06529133599378287,True,Left Foot,Open Play,1,0,1,Normal
-27.044038160008572,0.06915686500884136,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901196,Zlatan Ibrahimović,Paris Saint-Germain,23.287979732042025,0.06187101055713363,False,Right Foot,Open Play,0,0,2,Normal
+3901196,Blaise Matuidi,Paris Saint-Germain,15.02963738750872,0.05744890733473709,False,Right Foot,Open Play,1,1,3,Normal
+3901196,Zlatan Ibrahimović,Paris Saint-Germain,11.531695452100703,0.05307017073727685,True,Right Foot,Open Play,0,0,1,Half Volley
+3901196,Hatem Ben Arfa,OGC Nice,25.120509548972127,0.0633491787922374,True,Left Foot,Open Play,0,1,1,Normal
+3901196,Hervin Scicchitano Ongenda,Paris Saint-Germain,16.683225107874076,0.06352050693410802,False,Right Foot,Open Play,1,0,1,Normal
+3901196,Zlatan Ibrahimović,Paris Saint-Germain,19.76689151080665,0.06067764074602934,True,Right Foot,Free Kick,0,0,0,Normal
+3901196,Valère Germain,OGC Nice,27.43902330623304,0.05373606087505807,False,Right Foot,Open Play,0,0,2,Normal
+3901196,Thiago Emiliano da Silva,Paris Saint-Germain,11.356495938448615,0.05836027738281392,False,Head,Open Play,0,0,1,Normal
+3901196,Adrien Rabiot,Paris Saint-Germain,29.686528931486755,0.05775466439879843,False,Left Foot,Open Play,0,0,2,Normal
+3901196,Zlatan Ibrahimović,Paris Saint-Germain,17.964409258308493,0.06050541095181154,False,Left Foot,Open Play,0,1,4,Half Volley
+3901196,David Luiz Moreira Marinho,Paris Saint-Germain,5.656854249492381,0.057548353589171,True,Head,Open Play,0,1,4,Normal
+3901196,David Luiz Moreira Marinho,Paris Saint-Germain,7.305477397131557,0.05673743797214428,False,Head,Open Play,0,1,3,Normal
+3901196,Zlatan Ibrahimović,Paris Saint-Germain,8.246211251235321,0.05871935582765274,False,Right Foot,Open Play,1,0,2,Volley
+3901196,Valère Germain,OGC Nice,20.87510479015614,0.05771170345604022,False,Right Foot,Open Play,0,0,2,Normal
+3901196,Alassane Pléa,OGC Nice,11.92015100575492,0.05440918678865951,False,Right Foot,Open Play,0,0,3,Normal
+3901196,Hatem Ben Arfa,OGC Nice,26.101532522057013,0.06706902123316286,False,Left Foot,Free Kick,0,0,0,Normal
+3901196,Zlatan Ibrahimović,Paris Saint-Germain,19.568597292601222,0.06529133599378287,True,Left Foot,Open Play,1,0,1,Normal
+3901196,Hatem Ben Arfa,OGC Nice,27.044038160008572,0.06915686500884136,False,Left Foot,Open Play,0,1,2,Normal

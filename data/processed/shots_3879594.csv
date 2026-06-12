@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.726027621644057,0.06356975507716936,False,Head,Open Play,0,1,3,Normal
-22.681490250863153,0.06674255592625615,False,Left Foot,Open Play,1,0,3,Normal
-27.318308878845336,0.06062111353871652,False,Right Foot,Open Play,0,0,1,Normal
-10.435516278555657,0.05757079109592337,False,Head,Open Play,0,1,2,Normal
-26.90910626535189,0.06672223954521544,False,Right Foot,Open Play,0,1,2,Normal
-20.860728654579642,0.054843220428666684,False,Left Foot,Open Play,0,0,2,Normal
-20.09278477463987,0.059148158955271396,False,Right Foot,Open Play,0,0,2,Normal
-9.651942809610922,0.05612610829208573,False,Head,Open Play,0,1,4,Normal
-10.435516278555657,0.05757079109592337,False,Head,Open Play,0,0,3,Normal
-28.76282322721467,0.07169956098214578,False,Right Foot,Open Play,0,0,1,Normal
-23.546761985462034,0.05442579347349984,False,Right Foot,Open Play,0,1,1,Normal
-25.58534736914861,0.05915236158314735,False,Left Foot,Open Play,0,0,4,Normal
-8.401190391843286,0.0576418664940453,False,Head,Open Play,0,1,6,Normal
-15.861904047118678,0.06272507146559674,True,Right Foot,Open Play,1,0,3,Normal
-9.947864092356706,0.05979312968935068,False,Right Foot,Open Play,1,1,4,Half Volley
-15.942396306703708,0.060956501010138275,False,Right Foot,Open Play,1,1,2,Half Volley
-24.167126432408132,0.06586445221365111,False,Left Foot,Open Play,0,0,1,Normal
-22.710790386950425,0.0660834027476928,False,Right Foot,Open Play,1,0,0,Normal
-22.292599668948437,0.062344022796894924,False,Right Foot,Open Play,0,0,0,Normal
-13.109538512091108,0.0530291061016345,False,Right Foot,Open Play,0,0,1,Normal
-38.68656097406437,0.058804343904242586,False,Right Foot,Open Play,0,0,1,Normal
-17.344163283364228,0.06294087307305411,False,Right Foot,Open Play,1,0,1,Normal
-24.748737341529164,0.054319605325685166,False,Right Foot,Open Play,0,1,2,Half Volley
-22.80197359879184,0.06750036250930994,False,Right Foot,Open Play,0,0,1,Normal
-20.038463014912097,0.06547023339431082,False,Right Foot,Open Play,0,1,5,Normal
-22.585393509965677,0.058450213128436346,False,Right Foot,Open Play,0,0,1,Normal
-4.973932046178353,0.05573671584288023,False,Head,Open Play,0,1,3,Normal
-24.06823632923692,0.0549930873079636,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879594,Lucas Nahuel Castro,Chievo,16.726027621644057,0.06356975507716936,False,Head,Open Play,0,1,3,Normal
+3879594,Juraj Kucka,AC Milan,22.681490250863153,0.06674255592625615,False,Left Foot,Open Play,1,0,3,Normal
+3879594,Giampiero Pinzi,Chievo,27.318308878845336,0.06062111353871652,False,Right Foot,Open Play,0,0,1,Normal
+3879594,Andrea Bertolacci,AC Milan,10.435516278555657,0.05757079109592337,False,Head,Open Play,0,1,2,Normal
+3879594,Giacomo Bonaventura,AC Milan,26.90910626535189,0.06672223954521544,False,Right Foot,Open Play,0,1,2,Normal
+3879594,Alessio Cerci,AC Milan,20.860728654579642,0.054843220428666684,False,Left Foot,Open Play,0,0,2,Normal
+3879594,Andrea Bertolacci,AC Milan,20.09278477463987,0.059148158955271396,False,Right Foot,Open Play,0,0,2,Normal
+3879594,Alessio Cerci,AC Milan,9.651942809610922,0.05612610829208573,False,Head,Open Play,0,1,4,Normal
+3879594,Sergio Pellissier,Chievo,10.435516278555657,0.05757079109592337,False,Head,Open Play,0,0,3,Normal
+3879594,Riccardo Montolivo,AC Milan,28.76282322721467,0.07169956098214578,False,Right Foot,Open Play,0,0,1,Normal
+3879594,Giacomo Bonaventura,AC Milan,23.546761985462034,0.05442579347349984,False,Right Foot,Open Play,0,1,1,Normal
+3879594,Mattia De Sciglio,AC Milan,25.58534736914861,0.05915236158314735,False,Left Foot,Open Play,0,0,4,Normal
+3879594,Juraj Kucka,AC Milan,8.401190391843286,0.0576418664940453,False,Head,Open Play,0,1,6,Normal
+3879594,Luca Antonelli,AC Milan,15.861904047118678,0.06272507146559674,True,Right Foot,Open Play,1,0,3,Normal
+3879594,Alex Rodrigo Dias da Costa,AC Milan,9.947864092356706,0.05979312968935068,False,Right Foot,Open Play,1,1,4,Half Volley
+3879594,Carlos Arturo Bacca Ahumada,AC Milan,15.942396306703708,0.060956501010138275,False,Right Foot,Open Play,1,1,2,Half Volley
+3879594,Giacomo Bonaventura,AC Milan,24.167126432408132,0.06586445221365111,False,Left Foot,Open Play,0,0,1,Normal
+3879594,Juraj Kucka,AC Milan,22.710790386950425,0.0660834027476928,False,Right Foot,Open Play,1,0,0,Normal
+3879594,Juraj Kucka,AC Milan,22.292599668948437,0.062344022796894924,False,Right Foot,Open Play,0,0,0,Normal
+3879594,Alberto Paloschi,Chievo,13.109538512091108,0.0530291061016345,False,Right Foot,Open Play,0,0,1,Normal
+3879594,Mattia De Sciglio,AC Milan,38.68656097406437,0.058804343904242586,False,Right Foot,Open Play,0,0,1,Normal
+3879594,Giacomo Bonaventura,AC Milan,17.344163283364228,0.06294087307305411,False,Right Foot,Open Play,1,0,1,Normal
+3879594,Carlos Arturo Bacca Ahumada,AC Milan,24.748737341529164,0.054319605325685166,False,Right Foot,Open Play,0,1,2,Half Volley
+3879594,Carlos Arturo Bacca Ahumada,AC Milan,22.80197359879184,0.06750036250930994,False,Right Foot,Open Play,0,0,1,Normal
+3879594,Juraj Kucka,AC Milan,20.038463014912097,0.06547023339431082,False,Right Foot,Open Play,0,1,5,Normal
+3879594,Juraj Kucka,AC Milan,22.585393509965677,0.058450213128436346,False,Right Foot,Open Play,0,0,1,Normal
+3879594,Juraj Kucka,AC Milan,4.973932046178353,0.05573671584288023,False,Head,Open Play,0,1,3,Normal
+3879594,Luiz Adriano de Souza da Silva,AC Milan,24.06823632923692,0.0549930873079636,False,Right Foot,Open Play,0,0,2,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.442464769445433,0.05992754922796927,True,Right Foot,Open Play,1,1,2,Half Volley
-36.08060420780117,0.0612753825454682,False,Right Foot,Open Play,0,0,1,Normal
-9.617692030835672,0.056622102978583555,False,Head,Open Play,0,0,0,Diving Header
-10.606601717798211,0.06013379568609858,False,Head,Open Play,0,1,3,Normal
-18.46212338816963,0.06425212243303074,False,Left Foot,Open Play,0,0,2,Normal
-37.18400193631665,0.04522046187829211,False,Left Foot,Free Kick,0,0,0,Normal
-12.976902558006673,0.06143707282438405,False,Right Foot,Open Play,1,0,2,Normal
-2.41867732448957,0.05569407105754796,False,Head,Open Play,0,1,3,Normal
-15.198026187633712,0.06266772130760499,True,Left Foot,Open Play,0,1,2,Normal
-12.98075498574717,0.06104202103920315,False,Head,Open Play,0,0,3,Normal
-28.023561515267833,0.07063377974892038,False,Right Foot,Open Play,0,1,2,Normal
-16.600301202086662,0.06160712628422995,False,Right Foot,Open Play,1,0,1,Volley
-4.657252408878008,0.05693968063059602,False,Head,Open Play,0,0,2,Normal
-1.9416487838947651,0.05570743732259932,True,Head,Open Play,0,0,2,Normal
-15.882694985423607,0.06285911622208998,False,Right Foot,Open Play,0,1,2,Overhead Kick
-23.37733945512192,0.0675337550172417,False,Right Foot,Open Play,1,1,1,Volley
-6.789698078707188,0.055254429679259864,False,Right Foot,Open Play,1,0,3,Half Volley
-15.749285698088023,0.06265743109114144,False,Right Foot,Open Play,1,1,3,Half Volley
-24.0,0.06819760462039023,False,Right Foot,Open Play,0,0,1,Normal
-28.49859645666782,0.0628772780462285,False,Right Foot,Open Play,0,0,1,Normal
-17.62384748004816,0.06414612358242884,False,Left Foot,Open Play,0,0,2,Normal
-28.711147660795447,0.07001587627990244,False,Right Foot,Free Kick,0,0,0,Normal
-9.403190947758112,0.059516479493865564,False,Left Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829416,Valère Germain,OGC Nice,11.442464769445433,0.05992754922796927,True,Right Foot,Open Play,1,1,2,Half Volley
+3829416,Alassane Pléa,OGC Nice,36.08060420780117,0.0612753825454682,False,Right Foot,Open Play,0,0,1,Normal
+3829416,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,9.617692030835672,0.056622102978583555,False,Head,Open Play,0,0,0,Diving Header
+3829416,Layvin Kurzawa,AS Monaco,10.606601717798211,0.06013379568609858,False,Head,Open Play,0,1,3,Normal
+3829416,Ivan Ricardo Neves Abreu Cavaleiro,AS Monaco,18.46212338816963,0.06425212243303074,False,Left Foot,Open Play,0,0,2,Normal
+3829416,Hatem Ben Arfa,OGC Nice,37.18400193631665,0.04522046187829211,False,Left Foot,Free Kick,0,0,0,Normal
+3829416,Valère Germain,OGC Nice,12.976902558006673,0.06143707282438405,False,Right Foot,Open Play,1,0,2,Normal
+3829416,Anthony Martial,AS Monaco,2.41867732448957,0.05569407105754796,False,Head,Open Play,0,1,3,Normal
+3829416,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,15.198026187633712,0.06266772130760499,True,Left Foot,Open Play,0,1,2,Normal
+3829416,Layvin Kurzawa,AS Monaco,12.98075498574717,0.06104202103920315,False,Head,Open Play,0,0,3,Normal
+3829416,João Filipe Iria Santos Moutinho,AS Monaco,28.023561515267833,0.07063377974892038,False,Right Foot,Open Play,0,1,2,Normal
+3829416,Stephan El Shaarawy,AS Monaco,16.600301202086662,0.06160712628422995,False,Right Foot,Open Play,1,0,1,Volley
+3829416,Layvin Kurzawa,AS Monaco,4.657252408878008,0.05693968063059602,False,Head,Open Play,0,0,2,Normal
+3829416,Layvin Kurzawa,AS Monaco,1.9416487838947651,0.05570743732259932,True,Head,Open Play,0,0,2,Normal
+3829416,Stephan El Shaarawy,AS Monaco,15.882694985423607,0.06285911622208998,False,Right Foot,Open Play,0,1,2,Overhead Kick
+3829416,Stephan El Shaarawy,AS Monaco,23.37733945512192,0.0675337550172417,False,Right Foot,Open Play,1,1,1,Volley
+3829416,Guido Marcelo Carrillo,AS Monaco,6.789698078707188,0.055254429679259864,False,Right Foot,Open Play,1,0,3,Half Volley
+3829416,Nampalys Mendy,OGC Nice,15.749285698088023,0.06265743109114144,False,Right Foot,Open Play,1,1,3,Half Volley
+3829416,Stephan El Shaarawy,AS Monaco,24.0,0.06819760462039023,False,Right Foot,Open Play,0,0,1,Normal
+3829416,Ivan Ricardo Neves Abreu Cavaleiro,AS Monaco,28.49859645666782,0.0628772780462285,False,Right Foot,Open Play,0,0,1,Normal
+3829416,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,17.62384748004816,0.06414612358242884,False,Left Foot,Open Play,0,0,2,Normal
+3829416,João Filipe Iria Santos Moutinho,AS Monaco,28.711147660795447,0.07001587627990244,False,Right Foot,Free Kick,0,0,0,Normal
+3829416,Alassane Pléa,OGC Nice,9.403190947758112,0.059516479493865564,False,Left Foot,Open Play,1,0,1,Half Volley

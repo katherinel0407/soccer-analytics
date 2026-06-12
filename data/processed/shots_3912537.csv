@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.729530217745983,0.05997196145208506,False,Right Foot,Open Play,1,1,3,Volley
-11.834272263219233,0.06076694426086402,False,Left Foot,Open Play,0,0,1,Normal
-8.823264701911652,0.05720658095262172,False,Right Foot,Open Play,1,0,1,Normal
-12.619429464123968,0.06100963897260648,False,Right Foot,Open Play,0,0,2,Normal
-27.663152387246104,0.07092545903646727,False,Left Foot,Open Play,0,0,0,Normal
-31.598101208775184,0.060000003848365034,False,Right Foot,Open Play,1,0,0,Normal
-28.037118254200095,0.06288073962288186,False,Right Foot,Open Play,0,1,1,Half Volley
-24.501836665850174,0.06534385439390647,False,Right Foot,Open Play,0,1,1,Normal
-10.304368005850721,0.05898985585986925,False,Head,Open Play,0,0,3,Normal
-19.74664528470596,0.06362627651949067,False,Left Foot,Open Play,1,1,2,Normal
-28.656761854752535,0.07003661827573697,False,Right Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-16.734395716607157,0.061785144580116594,False,Right Foot,Open Play,0,0,3,Normal
-8.18596359630313,0.058815833517863084,False,Left Foot,Open Play,1,0,1,Volley
-32.481533215043896,0.056971707434500175,False,Left Foot,Free Kick,0,0,0,Normal
-18.539956850003723,0.06402138545269163,False,Left Foot,Open Play,0,0,2,Normal
-10.965856099730654,0.055039558999066374,False,Right Foot,Open Play,0,0,2,Normal
-5.755866572463266,0.057291992662633504,True,Head,Open Play,0,1,6,Normal
-15.507740002979155,0.06274481925359067,False,Right Foot,Open Play,1,0,1,Half Volley
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-12.578155667664477,0.060305152449928075,False,Head,Open Play,0,1,4,Normal
-14.905368160498423,0.06067125818693003,False,Right Foot,Open Play,0,1,2,Normal
-29.300682585905736,0.06766370980945452,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912537,Daniela Sabatino,Sassuolo W,13.729530217745983,0.05997196145208506,False,Right Foot,Open Play,1,1,3,Volley
+3912537,Lana Clelland,Sassuolo W,11.834272263219233,0.06076694426086402,False,Left Foot,Open Play,0,0,1,Normal
+3912537,Lana Clelland,Sassuolo W,8.823264701911652,0.05720658095262172,False,Right Foot,Open Play,1,0,1,Normal
+3912537,Loreta Kullashi,Sassuolo W,12.619429464123968,0.06100963897260648,False,Right Foot,Open Play,0,0,2,Normal
+3912537,Davina Philtjens,Sassuolo W,27.663152387246104,0.07092545903646727,False,Left Foot,Open Play,0,0,0,Normal
+3912537,Kassandra Ndoutou Eboa Missipo,Sassuolo W,31.598101208775184,0.060000003848365034,False,Right Foot,Open Play,1,0,0,Normal
+3912537,Lana Clelland,Sassuolo W,28.037118254200095,0.06288073962288186,False,Right Foot,Open Play,0,1,1,Half Volley
+3912537,Gina-Maria Chmielinski,Napoli W,24.501836665850174,0.06534385439390647,False,Right Foot,Open Play,0,1,1,Normal
+3912537,Lana Clelland,Sassuolo W,10.304368005850721,0.05898985585986925,False,Head,Open Play,0,0,3,Normal
+3912537,Davina Philtjens,Sassuolo W,19.74664528470596,0.06362627651949067,False,Left Foot,Open Play,1,1,2,Normal
+3912537,Lana Clelland,Sassuolo W,28.656761854752535,0.07003661827573697,False,Right Foot,Open Play,0,0,2,Normal
+3912537,Daniela Sabatino,Sassuolo W,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3912537,Loreta Kullashi,Sassuolo W,16.734395716607157,0.061785144580116594,False,Right Foot,Open Play,0,0,3,Normal
+3912537,Loreta Kullashi,Sassuolo W,8.18596359630313,0.058815833517863084,False,Left Foot,Open Play,1,0,1,Volley
+3912537,Caroline Pleidrup Gram,Sassuolo W,32.481533215043896,0.056971707434500175,False,Left Foot,Free Kick,0,0,0,Normal
+3912537,Loreta Kullashi,Sassuolo W,18.539956850003723,0.06402138545269163,False,Left Foot,Open Play,0,0,2,Normal
+3912537,Loreta Kullashi,Sassuolo W,10.965856099730654,0.055039558999066374,False,Right Foot,Open Play,0,0,2,Normal
+3912537,Caroline Pleidrup Gram,Sassuolo W,5.755866572463266,0.057291992662633504,True,Head,Open Play,0,1,6,Normal
+3912537,Maria Morena Gianfico,Napoli W,15.507740002979155,0.06274481925359067,False,Right Foot,Open Play,1,0,1,Half Volley
+3912537,Lana Clelland,Sassuolo W,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3912537,Maria Morena Gianfico,Napoli W,12.578155667664477,0.060305152449928075,False,Head,Open Play,0,1,4,Normal
+3912537,Cecilia Prugna,Sassuolo W,14.905368160498423,0.06067125818693003,False,Right Foot,Open Play,0,1,2,Normal
+3912537,Caroline Pleidrup Gram,Sassuolo W,29.300682585905736,0.06766370980945452,False,Left Foot,Free Kick,0,0,0,Normal

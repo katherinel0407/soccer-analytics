@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.682155464093578,0.06301113050787495,False,Left Foot,Open Play,0,1,2,Normal
-14.534097839219333,0.05651402425512362,False,Right Foot,Open Play,1,0,2,Normal
-6.400000000000006,0.05731894089044362,False,Head,Open Play,0,1,3,Normal
-8.285529554590937,0.05883892979873946,False,Right Foot,Open Play,0,0,3,Normal
-17.786792853125608,0.05302094839600049,False,Right Foot,Open Play,0,0,1,Normal
-20.03921156133644,0.06504173582450934,False,Right Foot,Open Play,0,0,2,Normal
-19.14001044931794,0.05355089678977837,False,Right Foot,Open Play,1,0,1,Normal
-10.811567878897119,0.05891740437578208,False,Head,Open Play,0,1,2,Normal
-11.253888216967509,0.060094562110471046,False,Head,Open Play,0,1,3,Normal
-10.154801819828888,0.05940036242766202,False,Right Foot,Open Play,1,1,2,Volley
-21.77544488638522,0.05674412676752558,False,Left Foot,Open Play,0,0,3,Normal
-11.42716062720744,0.059893082160717655,False,Head,Open Play,0,1,3,Normal
-10.430723848324243,0.05920284627313825,False,Head,Open Play,0,1,2,Normal
-6.1983868869246885,0.05685358065490727,False,Right Foot,Open Play,1,1,3,Normal
-17.217723426748382,0.052421014587537264,False,Right Foot,Open Play,0,0,2,Half Volley
-20.961154548354443,0.05642063117825953,False,Left Foot,Open Play,0,0,3,Normal
-12.379418403139946,0.059206858227899756,False,Head,Open Play,0,1,2,Normal
-20.940391591371924,0.06466416162000345,False,Right Foot,Open Play,0,0,3,Normal
-28.16025568065745,0.07081102139004013,False,Left Foot,Open Play,0,0,2,Normal
-10.860018416190648,0.055987484404823054,False,Right Foot,Open Play,1,0,2,Half Volley
-21.070595625183447,0.06632550406128282,False,Left Foot,Open Play,1,0,1,Volley
-9.338094023942999,0.059415672401498774,False,Left Foot,Open Play,0,0,2,Normal
-27.031278179176063,0.06707972719704137,False,Right Foot,Open Play,0,0,2,Normal
-31.045933711196387,0.07155407125108795,False,Left Foot,Open Play,1,1,2,Volley
-18.780042598460742,0.06489862758668628,False,Right Foot,Open Play,1,0,1,Normal
-19.24421991144354,0.06013188781173225,False,Right Foot,Open Play,1,0,2,Half Volley
-9.14439719172346,0.058697141669391044,False,Left Foot,Open Play,0,0,3,Normal
-23.12768903284546,0.06731337026922057,False,Left Foot,Open Play,0,0,3,Normal
-25.700583650960155,0.06949943557683551,False,Right Foot,Open Play,0,0,0,Normal
-28.65658737533134,0.06816579096930422,False,Left Foot,Open Play,1,0,1,Normal
-10.304368005850721,0.05898985585986925,False,Head,Open Play,0,1,5,Normal
-18.18185909086307,0.06354784076424665,False,Left Foot,Open Play,0,0,2,Normal
-29.63545174280291,0.0578078413045788,False,Right Foot,Open Play,0,0,1,Normal
-8.609297300012347,0.05806169082503128,False,Head,Open Play,0,1,4,Normal
-21.06015194627047,0.06197280944722877,False,Right Foot,Open Play,0,1,1,Normal
-21.358136622842355,0.06652536777956923,False,Right Foot,Open Play,0,0,3,Normal
-28.2177249260106,0.07045136269224303,False,Right Foot,Open Play,1,0,1,Normal
-28.708361151413705,0.062436727236607564,False,Left Foot,Open Play,0,0,1,Normal
-8.814193099768126,0.05671358233229381,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754129,Christian Benteke Liolo,Liverpool,15.682155464093578,0.06301113050787495,False,Left Foot,Open Play,0,1,2,Normal
+3754129,Philippe Coutinho Correia,Liverpool,14.534097839219333,0.05651402425512362,False,Right Foot,Open Play,1,0,2,Normal
+3754129,Alexis Alejandro Sánchez Sánchez,Arsenal,6.400000000000006,0.05731894089044362,False,Head,Open Play,0,1,3,Normal
+3754129,Alexis Alejandro Sánchez Sánchez,Arsenal,8.285529554590937,0.05883892979873946,False,Right Foot,Open Play,0,0,3,Normal
+3754129,Christian Benteke Liolo,Liverpool,17.786792853125608,0.05302094839600049,False,Right Foot,Open Play,0,0,1,Normal
+3754129,Alexis Alejandro Sánchez Sánchez,Arsenal,20.03921156133644,0.06504173582450934,False,Right Foot,Open Play,0,0,2,Normal
+3754129,James Philip Milner,Liverpool,19.14001044931794,0.05355089678977837,False,Right Foot,Open Play,1,0,1,Normal
+3754129,Dejan Lovren,Liverpool,10.811567878897119,0.05891740437578208,False,Head,Open Play,0,1,2,Normal
+3754129,Olivier Giroud,Arsenal,11.253888216967509,0.060094562110471046,False,Head,Open Play,0,1,3,Normal
+3754129,James Philip Milner,Liverpool,10.154801819828888,0.05940036242766202,False,Right Foot,Open Play,1,1,2,Volley
+3754129,Nathaniel Edwin Clyne,Liverpool,21.77544488638522,0.05674412676752558,False,Left Foot,Open Play,0,0,3,Normal
+3754129,Olivier Giroud,Arsenal,11.42716062720744,0.059893082160717655,False,Head,Open Play,0,1,3,Normal
+3754129,Christian Benteke Liolo,Liverpool,10.430723848324243,0.05920284627313825,False,Head,Open Play,0,1,2,Normal
+3754129,Christian Benteke Liolo,Liverpool,6.1983868869246885,0.05685358065490727,False,Right Foot,Open Play,1,1,3,Normal
+3754129,Roberto Firmino Barbosa de Oliveira,Liverpool,17.217723426748382,0.052421014587537264,False,Right Foot,Open Play,0,0,2,Half Volley
+3754129,Roberto Firmino Barbosa de Oliveira,Liverpool,20.961154548354443,0.05642063117825953,False,Left Foot,Open Play,0,0,3,Normal
+3754129,Christian Benteke Liolo,Liverpool,12.379418403139946,0.059206858227899756,False,Head,Open Play,0,1,2,Normal
+3754129,Philippe Coutinho Correia,Liverpool,20.940391591371924,0.06466416162000345,False,Right Foot,Open Play,0,0,3,Normal
+3754129,Santiago Cazorla González,Arsenal,28.16025568065745,0.07081102139004013,False,Left Foot,Open Play,0,0,2,Normal
+3754129,Olivier Giroud,Arsenal,10.860018416190648,0.055987484404823054,False,Right Foot,Open Play,1,0,2,Half Volley
+3754129,Olivier Giroud,Arsenal,21.070595625183447,0.06632550406128282,False,Left Foot,Open Play,1,0,1,Volley
+3754129,Alexis Alejandro Sánchez Sánchez,Arsenal,9.338094023942999,0.059415672401498774,False,Left Foot,Open Play,0,0,2,Normal
+3754129,Philippe Coutinho Correia,Liverpool,27.031278179176063,0.06707972719704137,False,Right Foot,Open Play,0,0,2,Normal
+3754129,Francis Joseph Coquelin,Arsenal,31.045933711196387,0.07155407125108795,False,Left Foot,Open Play,1,1,2,Volley
+3754129,Aaron Ramsey,Arsenal,18.780042598460742,0.06489862758668628,False,Right Foot,Open Play,1,0,1,Normal
+3754129,Héctor Bellerín Moruno,Arsenal,19.24421991144354,0.06013188781173225,False,Right Foot,Open Play,1,0,2,Half Volley
+3754129,Olivier Giroud,Arsenal,9.14439719172346,0.058697141669391044,False,Left Foot,Open Play,0,0,3,Normal
+3754129,James Philip Milner,Liverpool,23.12768903284546,0.06731337026922057,False,Left Foot,Open Play,0,0,3,Normal
+3754129,Aaron Ramsey,Arsenal,25.700583650960155,0.06949943557683551,False,Right Foot,Open Play,0,0,0,Normal
+3754129,Christian Benteke Liolo,Liverpool,28.65658737533134,0.06816579096930422,False,Left Foot,Open Play,1,0,1,Normal
+3754129,Martin Škrtel,Liverpool,10.304368005850721,0.05898985585986925,False,Head,Open Play,0,1,5,Normal
+3754129,Philippe Coutinho Correia,Liverpool,18.18185909086307,0.06354784076424665,False,Left Foot,Open Play,0,0,2,Normal
+3754129,Aaron Ramsey,Arsenal,29.63545174280291,0.0578078413045788,False,Right Foot,Open Play,0,0,1,Normal
+3754129,Gabriel Armando de Abreu,Arsenal,8.609297300012347,0.05806169082503128,False,Head,Open Play,0,1,4,Normal
+3754129,Alex Oxlade-Chamberlain,Arsenal,21.06015194627047,0.06197280944722877,False,Right Foot,Open Play,0,1,1,Normal
+3754129,Mesut Özil,Arsenal,21.358136622842355,0.06652536777956923,False,Right Foot,Open Play,0,0,3,Normal
+3754129,Santiago Cazorla González,Arsenal,28.2177249260106,0.07045136269224303,False,Right Foot,Open Play,1,0,1,Normal
+3754129,Alex Oxlade-Chamberlain,Arsenal,28.708361151413705,0.062436727236607564,False,Left Foot,Open Play,0,0,1,Normal
+3754129,Gabriel Armando de Abreu,Arsenal,8.814193099768126,0.05671358233229381,False,Head,Open Play,0,1,4,Normal

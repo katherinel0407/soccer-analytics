@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.278402556022225,0.06458512094613757,False,Right Foot,Open Play,0,0,3,Normal
-20.24746897762779,0.058968674656130454,True,Right Foot,Open Play,1,0,2,Volley
-15.97779709471866,0.05293757632109834,False,Right Foot,Open Play,0,0,2,Normal
-8.640023148117136,0.058851685120398844,False,Head,Open Play,0,0,2,Normal
-25.328639916110774,0.05381415845172405,False,Right Foot,Open Play,0,0,2,Normal
-16.40548688701436,0.06319576367609983,False,Left Foot,Open Play,1,0,2,Half Volley
-4.011234224026316,0.05647741229834074,False,Head,Open Play,0,0,3,Normal
-37.28230143110804,0.05658866758533247,False,Right Foot,Open Play,0,0,1,Normal
-42.91200298284852,0.06745041062557336,False,Right Foot,Open Play,0,0,2,Normal
-12.559060474414474,0.06099792193943636,False,Head,Open Play,0,1,3,Normal
-23.19180889883322,0.05585503812637449,False,Left Foot,Open Play,0,0,3,Normal
-28.643498389686965,0.0716473848459887,False,Left Foot,Open Play,0,0,3,Normal
-17.954665131937166,0.061561172182299215,False,Left Foot,Open Play,1,0,1,Half Volley
-8.63133825081603,0.059054493009279084,False,Right Foot,Open Play,1,0,1,Volley
-10.501904589168575,0.05851945668520276,False,Left Foot,Open Play,1,0,0,Volley
-10.215674231297713,0.057132671685852066,False,Left Foot,Open Play,1,0,3,Volley
-10.822661410207749,0.059416423477016485,False,Head,Open Play,0,0,1,Normal
-19.679684956827945,0.05388238546561712,False,Right Foot,Open Play,0,0,1,Half Volley
-3.6687872655688287,0.05586889736630644,True,Right Foot,Open Play,0,0,1,Normal
-26.359059163786554,0.05500352348798282,False,Left Foot,Open Play,0,0,1,Normal
-5.920304046246277,0.05753630931783924,False,Right Foot,Open Play,1,1,6,Normal
-10.604244433244638,0.0591140172760833,False,Right Foot,Open Play,1,0,3,Volley
-23.38632078801623,0.0668907703011326,False,Right Foot,Open Play,0,1,2,Normal
-4.661544808322665,0.05475991238643697,False,Right Foot,Open Play,1,0,3,Normal
-22.900218339570472,0.059469766974760564,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825746,Rubén Castro Martín,Real Betis,18.278402556022225,0.06458512094613757,False,Right Foot,Open Play,0,0,3,Normal
+3825746,Álvaro Cejudo Carmona,Real Betis,20.24746897762779,0.058968674656130454,True,Right Foot,Open Play,1,0,2,Volley
+3825746,Karim Benzema,Real Madrid,15.97779709471866,0.05293757632109834,False,Right Foot,Open Play,0,0,2,Normal
+3825746,Francisco Román Alarcón Suárez,Real Madrid,8.640023148117136,0.058851685120398844,False,Head,Open Play,0,0,2,Normal
+3825746,Karim Benzema,Real Madrid,25.328639916110774,0.05381415845172405,False,Right Foot,Open Play,0,0,2,Normal
+3825746,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,16.40548688701436,0.06319576367609983,False,Left Foot,Open Play,1,0,2,Half Volley
+3825746,Kléper Laveran Lima Ferreira,Real Madrid,4.011234224026316,0.05647741229834074,False,Head,Open Play,0,0,3,Normal
+3825746,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,37.28230143110804,0.05658866758533247,False,Right Foot,Open Play,0,0,1,Normal
+3825746,Fabián Ruiz Peña,Real Betis,42.91200298284852,0.06745041062557336,False,Right Foot,Open Play,0,0,2,Normal
+3825746,Bruno González Cabrera,Real Betis,12.559060474414474,0.06099792193943636,False,Head,Open Play,0,1,3,Normal
+3825746,James David Rodríguez Rubio,Real Madrid,23.19180889883322,0.05585503812637449,False,Left Foot,Open Play,0,0,3,Normal
+3825746,Toni Kroos,Real Madrid,28.643498389686965,0.0716473848459887,False,Left Foot,Open Play,0,0,3,Normal
+3825746,Luka Modrić,Real Madrid,17.954665131937166,0.061561172182299215,False,Left Foot,Open Play,1,0,1,Half Volley
+3825746,Karim Benzema,Real Madrid,8.63133825081603,0.059054493009279084,False,Right Foot,Open Play,1,0,1,Volley
+3825746,Karim Benzema,Real Madrid,10.501904589168575,0.05851945668520276,False,Left Foot,Open Play,1,0,0,Volley
+3825746,James David Rodríguez Rubio,Real Madrid,10.215674231297713,0.057132671685852066,False,Left Foot,Open Play,1,0,3,Volley
+3825746,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10.822661410207749,0.059416423477016485,False,Head,Open Play,0,0,1,Normal
+3825746,Daniel Carvajal Ramos,Real Madrid,19.679684956827945,0.05388238546561712,False,Right Foot,Open Play,0,0,1,Half Volley
+3825746,Karim Benzema,Real Madrid,3.6687872655688287,0.05586889736630644,True,Right Foot,Open Play,0,0,1,Normal
+3825746,James David Rodríguez Rubio,Real Madrid,26.359059163786554,0.05500352348798282,False,Left Foot,Open Play,0,0,1,Normal
+3825746,Karim Benzema,Real Madrid,5.920304046246277,0.05753630931783924,False,Right Foot,Open Play,1,1,6,Normal
+3825746,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10.604244433244638,0.0591140172760833,False,Right Foot,Open Play,1,0,3,Volley
+3825746,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23.38632078801623,0.0668907703011326,False,Right Foot,Open Play,0,1,2,Normal
+3825746,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,4.661544808322665,0.05475991238643697,False,Right Foot,Open Play,1,0,3,Normal
+3825746,Rubén Castro Martín,Real Betis,22.900218339570472,0.059469766974760564,False,Left Foot,Open Play,0,0,0,Normal

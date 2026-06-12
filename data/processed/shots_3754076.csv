@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.860860002546186,0.05993320811291078,True,Left Foot,Open Play,1,0,1,Normal
-20.447493733951845,0.05385185246132093,False,Right Foot,Open Play,0,0,2,Normal
-36.23285801589491,0.06772910737398449,False,Right Foot,Open Play,0,0,1,Normal
-24.67893838883675,0.059981423346547234,True,Right Foot,Open Play,1,0,1,Lob
-21.300234740490534,0.06643985301753677,False,Left Foot,Open Play,1,0,1,Normal
-9.48946784598588,0.05396983654634961,False,Head,Open Play,0,1,2,Normal
-32.09750769140807,0.06233213156769229,False,Right Foot,Open Play,0,0,2,Normal
-27.215620514697065,0.062412284406751076,False,Left Foot,Open Play,1,0,1,Volley
-11.002726934719417,0.05860396711947509,False,Right Foot,Open Play,1,1,1,Volley
-15.000000000000005,0.058976391113848864,False,Right Foot,Open Play,0,0,1,Normal
-25.977105304479178,0.0648579923685497,False,Right Foot,Open Play,0,0,1,Normal
-23.77603835797714,0.06571203919273813,False,Right Foot,Open Play,0,0,4,Normal
-17.71016657177453,0.052263870524788175,False,Right Foot,Open Play,0,0,1,Normal
-12.349089035228474,0.05834412362132225,True,Left Foot,Open Play,1,1,1,Normal
-23.564804263986584,0.05985977552137547,False,Right Foot,Open Play,1,0,3,Normal
-23.555254190944325,0.0633817489159182,False,Right Foot,Open Play,1,0,1,Volley
-27.515268488604647,0.06360975182908471,False,Right Foot,Free Kick,0,0,0,Normal
-23.330880823492286,0.05541691320497993,False,Left Foot,Open Play,0,0,1,Normal
-25.07987240796891,0.06786559484378844,False,Right Foot,Open Play,0,0,1,Normal
-37.749304629357084,0.07918378676087512,False,Right Foot,Open Play,0,0,1,Normal
-29.891804896994767,0.07049449474062813,False,Right Foot,Open Play,0,0,1,Normal
-9.962429422585643,0.05960796074827869,True,Right Foot,Open Play,1,0,3,Half Volley
-3.623534186398684,0.05659026902593192,False,Left Foot,Open Play,1,0,3,Half Volley
-13.147243057006289,0.06138148120537599,False,Head,Open Play,0,0,3,Normal
-33.4463749904231,0.07371382321362661,False,Left Foot,Open Play,0,0,1,Normal
-12.003332870498923,0.058711115825296506,False,Right Foot,Open Play,1,0,1,Volley
-25.44837912323691,0.06923127142567444,False,Right Foot,Open Play,0,0,2,Normal
-13.61910422898657,0.061816947681021694,False,Head,Open Play,0,0,2,Normal
-18.45047424864737,0.0557311196030984,False,Right Foot,Open Play,1,0,2,Normal
-22.398660674245683,0.053803501088878894,False,Right Foot,Open Play,0,0,1,Normal
-10.381233067415444,0.05961510893343896,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754076,Steven Fletcher,Sunderland,11.860860002546186,0.05993320811291078,True,Left Foot,Open Play,1,0,1,Normal
+3754076,Fabio Borini,Sunderland,20.447493733951845,0.05385185246132093,False,Right Foot,Open Play,0,0,2,Normal
+3754076,Manuel Lanzini,West Ham United,36.23285801589491,0.06772910737398449,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Jeremain Lens,Sunderland,24.67893838883675,0.059981423346547234,True,Right Foot,Open Play,1,0,1,Lob
+3754076,Steven Fletcher,Sunderland,21.300234740490534,0.06643985301753677,False,Left Foot,Open Play,1,0,1,Normal
+3754076,John O''Shea,Sunderland,9.48946784598588,0.05396983654634961,False,Head,Open Play,0,1,2,Normal
+3754076,Victor Moses,West Ham United,32.09750769140807,0.06233213156769229,False,Right Foot,Open Play,0,0,2,Normal
+3754076,Jeremain Lens,Sunderland,27.215620514697065,0.062412284406751076,False,Left Foot,Open Play,1,0,1,Volley
+3754076,Diafra Sakho,West Ham United,11.002726934719417,0.05860396711947509,False,Right Foot,Open Play,1,1,1,Volley
+3754076,Fabio Borini,Sunderland,15.000000000000005,0.058976391113848864,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Ola Toivonen,Sunderland,25.977105304479178,0.0648579923685497,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Fabio Borini,Sunderland,23.77603835797714,0.06571203919273813,False,Right Foot,Open Play,0,0,4,Normal
+3754076,Diafra Sakho,West Ham United,17.71016657177453,0.052263870524788175,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Carl Jenkinson,West Ham United,12.349089035228474,0.05834412362132225,True,Left Foot,Open Play,1,1,1,Normal
+3754076,Jeremain Lens,Sunderland,23.564804263986584,0.05985977552137547,False,Right Foot,Open Play,1,0,3,Normal
+3754076,Yann Gérard M''Vila,Sunderland,23.555254190944325,0.0633817489159182,False,Right Foot,Open Play,1,0,1,Volley
+3754076,Dimitri Payet,West Ham United,27.515268488604647,0.06360975182908471,False,Right Foot,Free Kick,0,0,0,Normal
+3754076,Steven Fletcher,Sunderland,23.330880823492286,0.05541691320497993,False,Left Foot,Open Play,0,0,1,Normal
+3754076,Manuel Lanzini,West Ham United,25.07987240796891,0.06786559484378844,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Diafra Sakho,West Ham United,37.749304629357084,0.07918378676087512,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Manuel Lanzini,West Ham United,29.891804896994767,0.07049449474062813,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Dimitri Payet,West Ham United,9.962429422585643,0.05960796074827869,True,Right Foot,Open Play,1,0,3,Half Volley
+3754076,Nikica Jelavić,West Ham United,3.623534186398684,0.05659026902593192,False,Left Foot,Open Play,1,0,3,Half Volley
+3754076,Nikica Jelavić,West Ham United,13.147243057006289,0.06138148120537599,False,Head,Open Play,0,0,3,Normal
+3754076,Aaron Cresswell,West Ham United,33.4463749904231,0.07371382321362661,False,Left Foot,Open Play,0,0,1,Normal
+3754076,Nikica Jelavić,West Ham United,12.003332870498923,0.058711115825296506,False,Right Foot,Open Play,1,0,1,Volley
+3754076,Mauro Matías Zárate,West Ham United,25.44837912323691,0.06923127142567444,False,Right Foot,Open Play,0,0,2,Normal
+3754076,Nikica Jelavić,West Ham United,13.61910422898657,0.061816947681021694,False,Head,Open Play,0,0,2,Normal
+3754076,Diafra Sakho,West Ham United,18.45047424864737,0.0557311196030984,False,Right Foot,Open Play,1,0,2,Normal
+3754076,Manuel Lanzini,West Ham United,22.398660674245683,0.053803501088878894,False,Right Foot,Open Play,0,0,1,Normal
+3754076,Nikica Jelavić,West Ham United,10.381233067415444,0.05961510893343896,False,Head,Open Play,0,0,2,Normal

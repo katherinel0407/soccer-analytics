@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.0,0.05591639879787884,False,Head,Open Play,0,0,2,Normal
-18.027756377319946,0.05924332555020157,False,Right Foot,Open Play,0,0,1,Normal
-22.847319317591726,0.0673189681267889,False,Right Foot,Free Kick,0,0,0,Normal
-26.019223662515376,0.06642440035610261,False,Left Foot,Free Kick,0,0,0,Normal
-7.0,0.05755567023984417,False,Left Foot,Open Play,1,0,2,Volley
-19.235384061671343,0.061345568921912494,False,Right Foot,Open Play,0,0,1,Lob
-15.652475842498529,0.06294022363571763,False,Right Foot,Open Play,0,0,1,Normal
-19.4164878389476,0.06403202909768159,False,Right Foot,Open Play,0,0,3,Normal
-3.0,0.056007231776386834,True,Left Foot,Open Play,1,0,3,Volley
-6.708203932499369,0.05418080207688325,False,Head,Open Play,0,0,1,Diving Header
-7.0710678118654755,0.05787344747263225,True,Right Foot,Open Play,0,0,1,Normal
-24.20743687382041,0.05589736977586779,False,Right Foot,Open Play,0,0,1,Normal
-8.246211251235321,0.05729034715112584,True,Head,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,False,Head,Open Play,0,1,3,Normal
-9.0,0.05835638047140873,False,Head,Open Play,0,0,4,Normal
-10.44030650891055,0.0597699592379618,False,Right Foot,Open Play,0,0,3,Normal
-12.083045973594572,0.05736897543158315,False,Head,Open Play,0,0,2,Normal
-5.830951894845301,0.05583607260534165,False,Head,Open Play,0,0,6,Normal
-4.47213595499958,0.055780969328069314,True,Left Foot,Open Play,0,0,2,Normal
-21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,0,0,2,Normal
-16.0312195418814,0.061695736670736176,False,Left Foot,Open Play,0,0,1,Normal
-5.830951894845301,0.05583607260534165,False,Head,Open Play,0,1,1,Normal
-9.486832980505138,0.05844692815252849,False,Left Foot,Open Play,1,0,2,Normal
-17.204650534085253,0.05648305914518772,False,Right Foot,Open Play,1,0,2,Half Volley
-16.76305461424021,0.059277484737505846,False,Left Foot,Open Play,1,0,0,Normal
-22.847319317591726,0.05938562592521287,False,Left Foot,Open Play,0,0,1,Normal
-28.0178514522438,0.07108621294287122,False,Right Foot,Open Play,0,0,2,Normal
-29.732137494637012,0.05433064326827998,False,Right Foot,Free Kick,0,0,0,Normal
-6.4031242374328485,0.054841624801478805,False,Head,Open Play,0,0,4,Normal
-5.0990195135927845,0.05707651274782877,False,Head,Open Play,0,0,6,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-26.570660511172846,0.06961834048820637,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7492,Dani Weatherholt,Orlando Pride,10.0,0.05591639879787884,False,Head,Open Play,0,0,2,Normal
+7492,Imani Dorsey,NJ/NY Gotham FC,18.027756377319946,0.05924332555020157,False,Right Foot,Open Play,0,0,1,Normal
+7492,Raquel Rodriguez,NJ/NY Gotham FC,22.847319317591726,0.0673189681267889,False,Right Foot,Free Kick,0,0,0,Normal
+7492,Marta Vieira da Silva,Orlando Pride,26.019223662515376,0.06642440035610261,False,Left Foot,Free Kick,0,0,0,Normal
+7492,Dani Weatherholt,Orlando Pride,7.0,0.05755567023984417,False,Left Foot,Open Play,1,0,2,Volley
+7492,Emily Louise van Egmond,Orlando Pride,19.235384061671343,0.061345568921912494,False,Right Foot,Open Play,0,0,1,Lob
+7492,Marta Vieira da Silva,Orlando Pride,15.652475842498529,0.06294022363571763,False,Right Foot,Open Play,0,0,1,Normal
+7492,Dani Weatherholt,Orlando Pride,19.4164878389476,0.06403202909768159,False,Right Foot,Open Play,0,0,3,Normal
+7492,Marta Vieira da Silva,Orlando Pride,3.0,0.056007231776386834,True,Left Foot,Open Play,1,0,3,Volley
+7492,Marta Vieira da Silva,Orlando Pride,6.708203932499369,0.05418080207688325,False,Head,Open Play,0,0,1,Diving Header
+7492,Imani Dorsey,NJ/NY Gotham FC,7.0710678118654755,0.05787344747263225,True,Right Foot,Open Play,0,0,1,Normal
+7492,Dani Weatherholt,Orlando Pride,24.20743687382041,0.05589736977586779,False,Right Foot,Open Play,0,0,1,Normal
+7492,Shea Groom,NJ/NY Gotham FC,8.246211251235321,0.05729034715112584,True,Head,Open Play,0,0,1,Normal
+7492,Alanna Stephanie Kennedy,Orlando Pride,12.0,0.05959154427448477,False,Head,Open Play,0,1,3,Normal
+7492,Alanna Stephanie Kennedy,Orlando Pride,9.0,0.05835638047140873,False,Head,Open Play,0,0,4,Normal
+7492,Carli Anne Hollins,NJ/NY Gotham FC,10.44030650891055,0.0597699592379618,False,Right Foot,Open Play,0,0,3,Normal
+7492,Raquel Rodriguez,NJ/NY Gotham FC,12.083045973594572,0.05736897543158315,False,Head,Open Play,0,0,2,Normal
+7492,Alanna Stephanie Kennedy,Orlando Pride,5.830951894845301,0.05583607260534165,False,Head,Open Play,0,0,6,Normal
+7492,Dani Weatherholt,Orlando Pride,4.47213595499958,0.055780969328069314,True,Left Foot,Open Play,0,0,2,Normal
+7492,Savannah McCaskill,NJ/NY Gotham FC,21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,0,0,2,Normal
+7492,Alexandra Morgan Carrasco,Orlando Pride,16.0312195418814,0.061695736670736176,False,Left Foot,Open Play,0,0,1,Normal
+7492,Carli Anne Hollins,NJ/NY Gotham FC,5.830951894845301,0.05583607260534165,False,Head,Open Play,0,1,1,Normal
+7492,Alexandra Morgan Carrasco,Orlando Pride,9.486832980505138,0.05844692815252849,False,Left Foot,Open Play,1,0,2,Normal
+7492,Dani Weatherholt,Orlando Pride,17.204650534085253,0.05648305914518772,False,Right Foot,Open Play,1,0,2,Half Volley
+7492,Camila Martins Pereira,Orlando Pride,16.76305461424021,0.059277484737505846,False,Left Foot,Open Play,1,0,0,Normal
+7492,Marta Vieira da Silva,Orlando Pride,22.847319317591726,0.05938562592521287,False,Left Foot,Open Play,0,0,1,Normal
+7492,Camila Martins Pereira,Orlando Pride,28.0178514522438,0.07108621294287122,False,Right Foot,Open Play,0,0,2,Normal
+7492,Carli Anne Hollins,NJ/NY Gotham FC,29.732137494637012,0.05433064326827998,False,Right Foot,Free Kick,0,0,0,Normal
+7492,Alexandra Morgan Carrasco,Orlando Pride,6.4031242374328485,0.054841624801478805,False,Head,Open Play,0,0,4,Normal
+7492,Emily Louise van Egmond,Orlando Pride,5.0990195135927845,0.05707651274782877,False,Head,Open Play,0,0,6,Normal
+7492,Marta Vieira da Silva,Orlando Pride,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+7492,Chioma Ubogagu,Orlando Pride,26.570660511172846,0.06961834048820637,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.75526592720029,0.058963993678093074,False,Right Foot,Open Play,0,0,1,Normal
-10.25524256173397,0.059028679142559645,False,Right Foot,Open Play,1,0,1,Backheel
-10.616967551989593,0.05880068921623812,False,Right Foot,Open Play,1,1,1,Normal
-8.324061508662705,0.05893920161716483,True,Right Foot,Open Play,1,0,0,Normal
-10.000499987500625,0.058797759507599905,False,Right Foot,Open Play,0,0,1,Half Volley
-16.617159805454122,0.06328145763509797,False,Right Foot,Open Play,0,1,1,Normal
-6.8066144300966505,0.0575719603871204,True,Head,Open Play,0,0,2,Normal
-15.860012610335469,0.06310410634975981,False,Right Foot,Open Play,1,0,1,Half Volley
-3.1016124838541588,0.05607441287968161,False,Head,Open Play,0,1,5,Normal
-4.382921400162226,0.05475026000535759,False,Right Foot,Open Play,1,1,2,Half Volley
-31.23475628206502,0.05519259815444046,False,Right Foot,Open Play,0,0,1,Normal
-15.673225577397915,0.05569753442387554,False,Right Foot,Open Play,0,0,1,Normal
-12.649110640673518,0.05812118955557693,True,Right Foot,Open Play,0,1,2,Normal
-21.244528707410762,0.059551345989155326,False,Right Foot,Open Play,0,0,2,Normal
-17.572990639046047,0.06130527688940197,False,Head,Open Play,0,1,1,Normal
-11.59655121145938,0.05648798158123753,False,Right Foot,Open Play,0,1,4,Normal
-21.43944961980135,0.06314844024326052,False,Right Foot,Open Play,0,1,1,Normal
-9.17877987534291,0.05643839541024785,False,Head,Open Play,0,1,3,Normal
-5.536244214266559,0.05692269299814598,True,Head,Open Play,0,1,5,Normal
-19.70913493789111,0.06365631564195232,False,Left Foot,Open Play,0,0,2,Normal
-44.79307982266904,0.06808536085211504,False,Left Foot,Open Play,0,1,3,Lob
-22.20495440211486,0.060059658476366705,False,Right Foot,Open Play,1,0,1,Volley
-24.8652367774771,0.06621494990759613,False,Left Foot,Open Play,0,0,0,Normal
-16.548413821270007,0.057952052925702255,False,Left Foot,Open Play,1,0,2,Volley
-29.97131962393381,0.06067895341207177,False,Right Foot,Open Play,0,0,2,Half Volley
-7.269112738154502,0.05795415787286488,False,Head,Open Play,0,1,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912539,Emelyne Laurent,AC Milan W,18.75526592720029,0.058963993678093074,False,Right Foot,Open Play,0,0,1,Normal
+3912539,Julie Piga,AC Milan W,10.25524256173397,0.059028679142559645,False,Right Foot,Open Play,1,0,1,Backheel
+3912539,Andrea Stašková,AC Milan W,10.616967551989593,0.05880068921623812,False,Right Foot,Open Play,1,1,1,Normal
+3912539,Kamila Dubcová,AC Milan W,8.324061508662705,0.05893920161716483,True,Right Foot,Open Play,1,0,0,Normal
+3912539,Emelyne Laurent,AC Milan W,10.000499987500625,0.058797759507599905,False,Right Foot,Open Play,0,0,1,Half Volley
+3912539,Emma Severini,Fiorentina W,16.617159805454122,0.06328145763509797,False,Right Foot,Open Play,0,1,1,Normal
+3912539,Madelen Fatimma Maria Janogy,Fiorentina W,6.8066144300966505,0.0575719603871204,True,Head,Open Play,0,0,2,Normal
+3912539,Nadia Nadim,AC Milan W,15.860012610335469,0.06310410634975981,False,Right Foot,Open Play,1,0,1,Half Volley
+3912539,Nadia Nadim,AC Milan W,3.1016124838541588,0.05607441287968161,False,Head,Open Play,0,1,5,Normal
+3912539,Nadia Nadim,AC Milan W,4.382921400162226,0.05475026000535759,False,Right Foot,Open Play,1,1,2,Half Volley
+3912539,Kaja Eržen,Fiorentina W,31.23475628206502,0.05519259815444046,False,Right Foot,Open Play,0,0,1,Normal
+3912539,Emma Severini,Fiorentina W,15.673225577397915,0.05569753442387554,False,Right Foot,Open Play,0,0,1,Normal
+3912539,Andrea Stašková,AC Milan W,12.649110640673518,0.05812118955557693,True,Right Foot,Open Play,0,1,2,Normal
+3912539,Marta Mascarello,AC Milan W,21.244528707410762,0.059551345989155326,False,Right Foot,Open Play,0,0,2,Normal
+3912539,Andrea Stašková,AC Milan W,17.572990639046047,0.06130527688940197,False,Head,Open Play,0,1,1,Normal
+3912539,Andrea Stašková,AC Milan W,11.59655121145938,0.05648798158123753,False,Right Foot,Open Play,0,1,4,Normal
+3912539,Pauline Louise Hammarlund,Fiorentina W,21.43944961980135,0.06314844024326052,False,Right Foot,Open Play,0,1,1,Normal
+3912539,Pauline Louise Hammarlund,Fiorentina W,9.17877987534291,0.05643839541024785,False,Head,Open Play,0,1,3,Normal
+3912539,Laura Agard,Fiorentina W,5.536244214266559,0.05692269299814598,True,Head,Open Play,0,1,5,Normal
+3912539,Evelyn Ijeh,AC Milan W,19.70913493789111,0.06365631564195232,False,Left Foot,Open Play,0,0,2,Normal
+3912539,Evelyn Ijeh,AC Milan W,44.79307982266904,0.06808536085211504,False,Left Foot,Open Play,0,1,3,Lob
+3912539,Kaja Eržen,Fiorentina W,22.20495440211486,0.060059658476366705,False,Right Foot,Open Play,1,0,1,Volley
+3912539,Verónica Boquete Giadáns,Fiorentina W,24.8652367774771,0.06621494990759613,False,Left Foot,Open Play,0,0,0,Normal
+3912539,Madelen Fatimma Maria Janogy,Fiorentina W,16.548413821270007,0.057952052925702255,False,Left Foot,Open Play,1,0,2,Volley
+3912539,Valery Vigilucci,AC Milan W,29.97131962393381,0.06067895341207177,False,Right Foot,Open Play,0,0,2,Half Volley
+3912539,Norma Cinotti,Fiorentina W,7.269112738154502,0.05795415787286488,False,Head,Open Play,0,1,6,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.664884893261792,0.05658716226436413,False,Right Foot,Open Play,1,0,3,Normal
-21.991361940543833,0.05782658581837232,False,Left Foot,Open Play,0,0,2,Normal
-18.062391868188442,0.06280360737072585,False,Left Foot,Open Play,0,1,3,Normal
-28.67228627089231,0.06989622264809882,False,Right Foot,Open Play,0,1,2,Normal
-27.594383486499563,0.07053760055508983,False,Left Foot,Open Play,0,0,1,Normal
-10.56787585089833,0.06012034221045255,False,Head,Open Play,0,0,2,Normal
-29.378223227417955,0.07035090695136934,False,Right Foot,Open Play,0,0,1,Normal
-8.13203541556479,0.05878187790327163,False,Left Foot,Open Play,0,1,3,Half Volley
-25.444252789186002,0.06199397874073637,False,Left Foot,Open Play,0,0,2,Normal
-7.808969202141857,0.057407481888649775,False,Head,Open Play,0,1,2,Normal
-13.174596768022925,0.061580567881253837,True,Left Foot,Open Play,0,1,1,Normal
-28.05316381444346,0.058507485114102094,False,Right Foot,Open Play,0,0,0,Normal
-7.955501241279523,0.0571749133266639,True,Right Foot,Open Play,1,0,6,Half Volley
-25.004999500099974,0.06271580667123026,False,Left Foot,Free Kick,0,0,0,Normal
-19.06856051200509,0.059667611506632745,False,Left Foot,Open Play,0,0,2,Normal
-7.220110802473883,0.05604892585957713,False,Head,Open Play,0,0,3,Normal
-20.711832367031167,0.06609061598484722,False,Right Foot,Open Play,1,0,2,Half Volley
-11.112605455067685,0.060074246621500765,False,Head,Open Play,0,0,4,Normal
-17.697739968707868,0.0639667113777991,False,Left Foot,Open Play,1,0,1,Normal
-7.011419257183241,0.057427302908673775,True,Right Foot,Open Play,1,0,2,Half Volley
-25.93935234349539,0.06962244816516756,False,Left Foot,Open Play,0,0,0,Normal
-25.566579747787937,0.0681408734862005,False,Right Foot,Open Play,1,0,0,Half Volley
-11.047624178980742,0.053626914173248386,False,Right Foot,Open Play,1,0,3,Lob
-6.191122676865642,0.05757667355118101,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879876,Blerim Džemaili,Genoa,9.664884893261792,0.05658716226436413,False,Right Foot,Open Play,1,0,3,Normal
+3879876,Marco Borriello,Atalanta,21.991361940543833,0.05782658581837232,False,Left Foot,Open Play,0,0,2,Normal
+3879876,Roberto Gagliardini,Atalanta,18.062391868188442,0.06280360737072585,False,Left Foot,Open Play,0,1,3,Normal
+3879876,Alejandro Darío Gómez,Atalanta,28.67228627089231,0.06989622264809882,False,Right Foot,Open Play,0,1,2,Normal
+3879876,Davide Brivio,Atalanta,27.594383486499563,0.07053760055508983,False,Left Foot,Open Play,0,0,1,Normal
+3879876,Luca Rigoni,Genoa,10.56787585089833,0.06012034221045255,False,Head,Open Play,0,0,2,Normal
+3879876,Alejandro Darío Gómez,Atalanta,29.378223227417955,0.07035090695136934,False,Right Foot,Open Play,0,0,1,Normal
+3879876,Diego Sebastián Laxalt Suárez,Genoa,8.13203541556479,0.05878187790327163,False,Left Foot,Open Play,0,1,3,Half Volley
+3879876,Jesús Joaquín Fernández Sáez de la Torre,Genoa,25.444252789186002,0.06199397874073637,False,Left Foot,Open Play,0,0,2,Normal
+3879876,Leonardo Pavoletti,Genoa,7.808969202141857,0.057407481888649775,False,Head,Open Play,0,1,2,Normal
+3879876,Marco D''Alessandro,Atalanta,13.174596768022925,0.061580567881253837,True,Left Foot,Open Play,0,1,1,Normal
+3879876,Roberto Gagliardini,Atalanta,28.05316381444346,0.058507485114102094,False,Right Foot,Open Play,0,0,0,Normal
+3879876,Leonardo Pavoletti,Genoa,7.955501241279523,0.0571749133266639,True,Right Foot,Open Play,1,0,6,Half Volley
+3879876,Marco Borriello,Atalanta,25.004999500099974,0.06271580667123026,False,Left Foot,Free Kick,0,0,0,Normal
+3879876,Tomás Eduardo Rincón Hernández,Genoa,19.06856051200509,0.059667611506632745,False,Left Foot,Open Play,0,0,2,Normal
+3879876,Ezequiel Muñoz,Genoa,7.220110802473883,0.05604892585957713,False,Head,Open Play,0,0,3,Normal
+3879876,Marco D''Alessandro,Atalanta,20.711832367031167,0.06609061598484722,False,Right Foot,Open Play,1,0,2,Half Volley
+3879876,Berat Djimsiti,Atalanta,11.112605455067685,0.060074246621500765,False,Head,Open Play,0,0,4,Normal
+3879876,Marco Borriello,Atalanta,17.697739968707868,0.0639667113777991,False,Left Foot,Open Play,1,0,1,Normal
+3879876,Jasmin Kurtič,Atalanta,7.011419257183241,0.057427302908673775,True,Right Foot,Open Play,1,0,2,Half Volley
+3879876,Panagiotis Tachtsidis,Genoa,25.93935234349539,0.06962244816516756,False,Left Foot,Open Play,0,0,0,Normal
+3879876,Luca Cigarini,Atalanta,25.566579747787937,0.0681408734862005,False,Right Foot,Open Play,1,0,0,Half Volley
+3879876,Armando Izzo,Genoa,11.047624178980742,0.053626914173248386,False,Right Foot,Open Play,1,0,3,Lob
+3879876,Goran Pandev,Genoa,6.191122676865642,0.05757667355118101,False,Head,Open Play,0,0,2,Normal

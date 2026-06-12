@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-61.01360504018755,0.07467965594103222,False,Right Foot,Open Play,0,0,1,Lob
-10.826818553942791,0.06010693564005279,False,Right Foot,Open Play,1,0,1,Half Volley
-14.733974345029928,0.060354210449516804,False,Left Foot,Open Play,1,0,2,Normal
-15.498709623707388,0.06256393362022433,True,Left Foot,Open Play,0,0,1,Normal
-30.030817504690074,0.07269785164115501,False,Left Foot,Open Play,0,1,2,Normal
-15.268922686293225,0.057250156671307555,False,Right Foot,Open Play,0,0,1,Normal
-10.625441167311589,0.059911641914888084,False,Head,Open Play,0,1,2,Normal
-29.098797226002315,0.07196329325635976,False,Right Foot,Open Play,0,0,1,Normal
-15.572411502397436,0.06049570816054127,False,Right Foot,Open Play,1,0,1,Normal
-10.264989040422796,0.059977487614886284,True,Left Foot,Open Play,0,1,2,Normal
-11.928118040998752,0.060883705195136854,True,Right Foot,Open Play,1,0,1,Normal
-11.264546151532251,0.05428588333878261,False,Right Foot,Open Play,1,0,2,Normal
-24.060133000463647,0.06735347381500278,False,Right Foot,Open Play,1,0,1,Normal
-25.715753926338618,0.06622529791948896,False,Left Foot,Free Kick,0,0,0,Normal
-18.606719216455115,0.0647473699088086,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303700,Luis Alberto Suárez Díaz,Barcelona,61.01360504018755,0.07467965594103222,False,Right Foot,Open Play,0,0,1,Lob
+303700,Sergio Álvarez Díaz,Eibar,10.826818553942791,0.06010693564005279,False,Right Foot,Open Play,1,0,1,Half Volley
+303700,Pedro León Sánchez Gil,Eibar,14.733974345029928,0.060354210449516804,False,Left Foot,Open Play,1,0,2,Normal
+303700,Antoine Griezmann,Barcelona,15.498709623707388,0.06256393362022433,True,Left Foot,Open Play,0,0,1,Normal
+303700,José Ángel Valdés Díaz,Eibar,30.030817504690074,0.07269785164115501,False,Left Foot,Open Play,0,1,2,Normal
+303700,Luis Alberto Suárez Díaz,Barcelona,15.268922686293225,0.057250156671307555,False,Right Foot,Open Play,0,0,1,Normal
+303700,Sergio Enrich Ametller,Eibar,10.625441167311589,0.059911641914888084,False,Head,Open Play,0,1,2,Normal
+303700,Papa Kouly Diop,Eibar,29.098797226002315,0.07196329325635976,False,Right Foot,Open Play,0,0,1,Normal
+303700,Luis Alberto Suárez Díaz,Barcelona,15.572411502397436,0.06049570816054127,False,Right Foot,Open Play,1,0,1,Normal
+303700,Lionel Andrés Messi Cuccittini,Barcelona,10.264989040422796,0.059977487614886284,True,Left Foot,Open Play,0,1,2,Normal
+303700,Luis Alberto Suárez Díaz,Barcelona,11.928118040998752,0.060883705195136854,True,Right Foot,Open Play,1,0,1,Normal
+303700,Lionel Andrés Messi Cuccittini,Barcelona,11.264546151532251,0.05428588333878261,False,Right Foot,Open Play,1,0,2,Normal
+303700,Papa Kouly Diop,Eibar,24.060133000463647,0.06735347381500278,False,Right Foot,Open Play,1,0,1,Normal
+303700,Lionel Andrés Messi Cuccittini,Barcelona,25.715753926338618,0.06622529791948896,False,Left Foot,Free Kick,0,0,0,Normal
+303700,Luis Alberto Suárez Díaz,Barcelona,18.606719216455115,0.0647473699088086,False,Right Foot,Open Play,1,0,1,Half Volley

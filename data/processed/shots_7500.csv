@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.038404810405298,0.05662069864043803,False,Right Foot,Open Play,1,0,2,Volley
-22.20360331117452,0.06262645835236953,False,Right Foot,Open Play,0,0,1,Normal
-22.02271554554524,0.06593103079838251,False,Left Foot,Open Play,0,0,3,Normal
-11.180339887498949,0.05848685069205587,False,Left Foot,Open Play,0,0,2,Normal
-24.351591323771842,0.049647631846794396,False,Left Foot,Free Kick,0,0,0,Normal
-29.0,0.054077893106718726,False,Right Foot,Open Play,0,0,1,Normal
-18.439088914585774,0.06453469358087563,False,Right Foot,Open Play,0,0,1,Normal
-21.02379604162864,0.058661923700194504,False,Right Foot,Open Play,0,0,3,Normal
-20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,0,0,1,Normal
-23.706539182259394,0.06807668557298861,False,Right Foot,Open Play,0,0,0,Normal
-8.0,0.05795378045521751,False,Head,Open Play,0,0,3,Normal
-13.92838827718412,0.058122043033188894,False,Left Foot,Open Play,1,0,1,Volley
-9.848857801796104,0.05698279443696437,False,Head,Open Play,0,0,2,Normal
-25.942243542145693,0.06963844743583315,False,Right Foot,Open Play,0,0,2,Normal
-14.7648230602334,0.05309371146959412,False,Right Foot,Open Play,0,0,2,Half Volley
-6.4031242374328485,0.05795975247380255,False,Right Foot,Open Play,0,0,4,Normal
-3.605551275463989,0.05541354467684584,True,Other,Open Play,0,0,4,Normal
-10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,0,0,2,Normal
-13.601470508735444,0.0614419142999389,True,Right Foot,Open Play,0,0,1,Normal
-30.083217912982647,0.07156808405023003,False,Left Foot,Open Play,0,0,2,Normal
-28.284271247461902,0.05382455789871018,False,Left Foot,Open Play,0,0,2,Normal
-7.615773105863909,0.0565764903339905,False,Head,Open Play,0,0,4,Normal
-24.351591323771842,0.06803943379041962,False,Right Foot,Open Play,0,0,1,Normal
-20.0,0.06309255355161694,False,Right Foot,Open Play,0,1,4,Normal
-19.313207915827967,0.05126894687292259,False,Right Foot,Open Play,0,0,1,Half Volley
-13.152946437965905,0.05161562286558477,False,Right Foot,Open Play,0,0,2,Normal
-49.24428900898052,0.09107530083325613,False,Left Foot,Open Play,0,0,0,Normal
-28.0178514522438,0.06743337326264422,False,Right Foot,Open Play,0,0,1,Normal
-11.180339887498949,0.056997619089979114,False,Left Foot,Open Play,0,0,2,Normal
-5.0990195135927845,0.05707651274782877,False,Right Foot,Open Play,0,0,1,Normal
-17.0,0.061743692939782886,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7500,Dani Weatherholt,Orlando Pride,13.038404810405298,0.05662069864043803,False,Right Foot,Open Play,1,0,2,Volley
+7500,Emily Louise van Egmond,Orlando Pride,22.20360331117452,0.06262645835236953,False,Right Foot,Open Play,0,0,1,Normal
+7500,Marta Vieira da Silva,Orlando Pride,22.02271554554524,0.06593103079838251,False,Left Foot,Open Play,0,0,3,Normal
+7500,Hayley Emma Raso,Portland Thorns,11.180339887498949,0.05848685069205587,False,Left Foot,Open Play,0,0,2,Normal
+7500,Marta Vieira da Silva,Orlando Pride,24.351591323771842,0.049647631846794396,False,Left Foot,Free Kick,0,0,0,Normal
+7500,Ellie Madison Carpenter,Portland Thorns,29.0,0.054077893106718726,False,Right Foot,Open Play,0,0,1,Normal
+7500,Marta Vieira da Silva,Orlando Pride,18.439088914585774,0.06453469358087563,False,Right Foot,Open Play,0,0,1,Normal
+7500,Emily Louise van Egmond,Orlando Pride,21.02379604162864,0.058661923700194504,False,Right Foot,Open Play,0,0,3,Normal
+7500,Dani Weatherholt,Orlando Pride,20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,0,0,1,Normal
+7500,Dani Weatherholt,Orlando Pride,23.706539182259394,0.06807668557298861,False,Right Foot,Open Play,0,0,0,Normal
+7500,Ana-Maria Crnogorčević,Portland Thorns,8.0,0.05795378045521751,False,Head,Open Play,0,0,3,Normal
+7500,Christine Margaret Sinclair,Portland Thorns,13.92838827718412,0.058122043033188894,False,Left Foot,Open Play,1,0,1,Volley
+7500,Ana-Maria Crnogorčević,Portland Thorns,9.848857801796104,0.05698279443696437,False,Head,Open Play,0,0,2,Normal
+7500,Alexandra Morgan Carrasco,Orlando Pride,25.942243542145693,0.06963844743583315,False,Right Foot,Open Play,0,0,2,Normal
+7500,Emily Louise van Egmond,Orlando Pride,14.7648230602334,0.05309371146959412,False,Right Foot,Open Play,0,0,2,Half Volley
+7500,Ana-Maria Crnogorčević,Portland Thorns,6.4031242374328485,0.05795975247380255,False,Right Foot,Open Play,0,0,4,Normal
+7500,Lindsey Michelle Horan,Portland Thorns,3.605551275463989,0.05541354467684584,True,Other,Open Play,0,0,4,Normal
+7500,Christine Margaret Sinclair,Portland Thorns,10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,0,0,2,Normal
+7500,Hayley Emma Raso,Portland Thorns,13.601470508735444,0.0614419142999389,True,Right Foot,Open Play,0,0,1,Normal
+7500,Christine Margaret Sinclair,Portland Thorns,30.083217912982647,0.07156808405023003,False,Left Foot,Open Play,0,0,2,Normal
+7500,Marta Vieira da Silva,Orlando Pride,28.284271247461902,0.05382455789871018,False,Left Foot,Open Play,0,0,2,Normal
+7500,Emily Louise van Egmond,Orlando Pride,7.615773105863909,0.0565764903339905,False,Head,Open Play,0,0,4,Normal
+7500,Camila Martins Pereira,Orlando Pride,24.351591323771842,0.06803943379041962,False,Right Foot,Open Play,0,0,1,Normal
+7500,Caitlin Jade Foord,Portland Thorns,20.0,0.06309255355161694,False,Right Foot,Open Play,0,1,4,Normal
+7500,Hayley Emma Raso,Portland Thorns,19.313207915827967,0.05126894687292259,False,Right Foot,Open Play,0,0,1,Half Volley
+7500,Hayley Emma Raso,Portland Thorns,13.152946437965905,0.05161562286558477,False,Right Foot,Open Play,0,0,2,Normal
+7500,Tobin Powell Heath,Portland Thorns,49.24428900898052,0.09107530083325613,False,Left Foot,Open Play,0,0,0,Normal
+7500,Margaret Purce,Portland Thorns,28.0178514522438,0.06743337326264422,False,Right Foot,Open Play,0,0,1,Normal
+7500,Tobin Powell Heath,Portland Thorns,11.180339887498949,0.056997619089979114,False,Left Foot,Open Play,0,0,2,Normal
+7500,Meghan Klingenberg,Portland Thorns,5.0990195135927845,0.05707651274782877,False,Right Foot,Open Play,0,0,1,Normal
+7500,Caitlin Jade Foord,Portland Thorns,17.0,0.061743692939782886,False,Left Foot,Open Play,0,0,2,Normal

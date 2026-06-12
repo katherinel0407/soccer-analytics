@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.85121661726597,0.07188175994160259,False,Right Foot,Open Play,1,1,2,Normal
-26.462237244798484,0.05771504842214781,False,Left Foot,Open Play,0,0,2,Normal
-8.207313811473272,0.05507328185319413,False,Head,Open Play,0,0,5,Normal
-9.775479527879948,0.059170136030216355,True,Left Foot,Open Play,1,0,0,Volley
-8.188406438373704,0.05838427727388303,False,Head,Open Play,0,1,2,Normal
-6.001666435249469,0.05746360441873404,True,Head,Open Play,0,0,2,Normal
-37.400534755535254,0.07191234332171716,False,Right Foot,Open Play,0,0,1,Normal
-37.1570989179726,0.07775383401843283,False,Left Foot,Open Play,1,0,1,Half Volley
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-15.474172029546528,0.05774790344528223,False,Left Foot,Open Play,1,0,2,Volley
-17.04494059831245,0.0634741596363615,False,Right Foot,Open Play,0,0,2,Normal
-7.051950084905596,0.058125339890579684,True,Head,Open Play,0,0,3,Normal
-25.18034948129196,0.06880611421757003,False,Right Foot,Open Play,0,0,2,Normal
-8.091971329657568,0.058664161767394564,False,Head,Open Play,0,1,2,Normal
-9.000000000000002,0.0593005008178706,True,Head,Open Play,0,0,1,Normal
-23.104977818643324,0.0655021357794843,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829498,Isaac Kiese Thelin,Bordeaux,31.85121661726597,0.07188175994160259,False,Right Foot,Open Play,1,1,2,Normal
+3829498,Jaroslav Plašil,Bordeaux,26.462237244798484,0.05771504842214781,False,Left Foot,Open Play,0,0,2,Normal
+3829498,Pablo Nascimento Castro,Bordeaux,8.207313811473272,0.05507328185319413,False,Head,Open Play,0,0,5,Normal
+3829498,Diego Alejandro Rolan Silva,Bordeaux,9.775479527879948,0.059170136030216355,True,Left Foot,Open Play,1,0,0,Volley
+3829498,Benjamin Moukandjo Bilé,Lorient,8.188406438373704,0.05838427727388303,False,Head,Open Play,0,1,2,Normal
+3829498,Benjamin Moukandjo Bilé,Lorient,6.001666435249469,0.05746360441873404,True,Head,Open Play,0,0,2,Normal
+3829498,André Biyogo Poko,Bordeaux,37.400534755535254,0.07191234332171716,False,Right Foot,Open Play,0,0,1,Normal
+3829498,Vincent Le Goff,Lorient,37.1570989179726,0.07775383401843283,False,Left Foot,Open Play,1,0,1,Half Volley
+3829498,Abdul Majeed Waris,Lorient,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3829498,Zargo Touré,Lorient,15.474172029546528,0.05774790344528223,False,Left Foot,Open Play,1,0,2,Volley
+3829498,Benjamin Moukandjo Bilé,Lorient,17.04494059831245,0.0634741596363615,False,Right Foot,Open Play,0,0,2,Normal
+3829498,Zargo Touré,Lorient,7.051950084905596,0.058125339890579684,True,Head,Open Play,0,0,3,Normal
+3829498,Wahbi Khazri,Bordeaux,25.18034948129196,0.06880611421757003,False,Right Foot,Open Play,0,0,2,Normal
+3829498,Pablo Nascimento Castro,Bordeaux,8.091971329657568,0.058664161767394564,False,Head,Open Play,0,1,2,Normal
+3829498,Adam Ounas,Bordeaux,9.000000000000002,0.0593005008178706,True,Head,Open Play,0,0,1,Normal
+3829498,Wahbi Khazri,Bordeaux,23.104977818643324,0.0655021357794843,False,Right Foot,Open Play,0,0,2,Normal

@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.61845623203123,0.05530483359654329,True,Right Foot,Open Play,1,0,1,Normal
-19.773972792537165,0.05746620067251172,False,Right Foot,Open Play,0,1,2,Normal
-16.18950277185807,0.057142474997486155,False,Right Foot,Open Play,1,0,0,Half Volley
-17.18138527593163,0.061975851785058975,False,Left Foot,Open Play,1,0,2,Normal
-11.22719911643149,0.06020717554465004,False,Head,Open Play,0,1,3,Normal
-18.7840357750937,0.05955152398664379,True,Right Foot,Open Play,0,1,4,Normal
-21.741435095227732,0.06648641851467652,False,Right Foot,Open Play,0,0,2,Normal
-8.994442728707549,0.05787777103997003,False,Head,Open Play,0,1,4,Normal
-16.697305171793445,0.06265068897417812,False,Left Foot,Open Play,0,0,1,Normal
-6.7896980787071834,0.058090237018907885,True,Left Foot,Open Play,1,0,3,Half Volley
-18.176083186429356,0.05512422631328736,False,Right Foot,Open Play,1,0,3,Normal
-32.40385779502188,0.06415030667504179,False,Right Foot,Open Play,0,0,0,Normal
-25.401771591761083,0.06578029898275803,False,Left Foot,Open Play,0,0,3,Normal
-15.799999999999997,0.06121633089825823,False,Right Foot,Open Play,0,0,3,Normal
-27.510906927980397,0.06830098429025681,False,Right Foot,Free Kick,0,0,0,Normal
-13.623509092741118,0.061456486356439306,False,Left Foot,Open Play,0,0,2,Normal
-25.031979546172536,0.06802294409280452,False,Right Foot,Free Kick,0,0,0,Normal
-24.512241839538053,0.06817922671345446,False,Right Foot,Open Play,1,0,3,Normal
-13.85929291125633,0.06176932490688409,False,Left Foot,Open Play,0,0,2,Normal
-23.274449510138798,0.06604741352165511,False,Left Foot,Open Play,1,0,0,Volley
-20.218061232472323,0.05563838850258595,False,Left Foot,Open Play,0,0,3,Half Volley
-10.912836478203092,0.053628951062354116,False,Right Foot,Open Play,1,1,3,Volley
-3.201562118716418,0.05580907033366319,True,Head,Open Play,0,1,6,Normal
-34.03307215048327,0.06596462658324218,False,Left Foot,Open Play,1,0,1,Normal
-39.56412516409279,0.07025599677268875,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825744,Felipe Salvador Caicedo Corozo,Espanyol,17.61845623203123,0.05530483359654329,True,Right Foot,Open Play,1,0,1,Normal
+3825744,Jonathan dos Santos Ramírez,Villarreal,19.773972792537165,0.05746620067251172,False,Right Foot,Open Play,0,1,2,Normal
+3825744,Jonathan dos Santos Ramírez,Villarreal,16.18950277185807,0.057142474997486155,False,Right Foot,Open Play,1,0,0,Half Volley
+3825744,Rubén Duarte Sánchez,Espanyol,17.18138527593163,0.061975851785058975,False,Left Foot,Open Play,1,0,2,Normal
+3825744,Enzo Pablo Roco Roco,Espanyol,11.22719911643149,0.06020717554465004,False,Head,Open Play,0,1,3,Normal
+3825744,Manuel Trigueros Muñoz,Villarreal,18.7840357750937,0.05955152398664379,True,Right Foot,Open Play,0,1,4,Normal
+3825744,Jorge Franco Alviz,Espanyol,21.741435095227732,0.06648641851467652,False,Right Foot,Open Play,0,0,2,Normal
+3825744,Bruno Soriano Llido,Villarreal,8.994442728707549,0.05787777103997003,False,Head,Open Play,0,1,4,Normal
+3825744,Cédric Bakambu,Villarreal,16.697305171793445,0.06265068897417812,False,Left Foot,Open Play,0,0,1,Normal
+3825744,Gerard Moreno Balaguero,Espanyol,6.7896980787071834,0.058090237018907885,True,Left Foot,Open Play,1,0,3,Half Volley
+3825744,Cédric Bakambu,Villarreal,18.176083186429356,0.05512422631328736,False,Right Foot,Open Play,1,0,3,Normal
+3825744,Manuel Trigueros Muñoz,Villarreal,32.40385779502188,0.06415030667504179,False,Right Foot,Open Play,0,0,0,Normal
+3825744,Gerard Moreno Balaguero,Espanyol,25.401771591761083,0.06578029898275803,False,Left Foot,Open Play,0,0,3,Normal
+3825744,Marco Asensio Willemsen,Espanyol,15.799999999999997,0.06121633089825823,False,Right Foot,Open Play,0,0,3,Normal
+3825744,Roberto Soldado Rillo,Villarreal,27.510906927980397,0.06830098429025681,False,Right Foot,Free Kick,0,0,0,Normal
+3825744,Jorge Franco Alviz,Espanyol,13.623509092741118,0.061456486356439306,False,Left Foot,Open Play,0,0,2,Normal
+3825744,Denis Suárez Fernández,Villarreal,25.031979546172536,0.06802294409280452,False,Right Foot,Free Kick,0,0,0,Normal
+3825744,Cédric Bakambu,Villarreal,24.512241839538053,0.06817922671345446,False,Right Foot,Open Play,1,0,3,Normal
+3825744,Víctor Guillermo Álvarez Delgado,Espanyol,13.85929291125633,0.06176932490688409,False,Left Foot,Open Play,0,0,2,Normal
+3825744,Gerard Moreno Balaguero,Espanyol,23.274449510138798,0.06604741352165511,False,Left Foot,Open Play,1,0,0,Volley
+3825744,Leonardo Carrilho Baptistão,Villarreal,20.218061232472323,0.05563838850258595,False,Left Foot,Open Play,0,0,3,Half Volley
+3825744,Mario Gaspar Pérez Martínez,Villarreal,10.912836478203092,0.053628951062354116,False,Right Foot,Open Play,1,1,3,Volley
+3825744,Mateo Pablo Musacchio,Villarreal,3.201562118716418,0.05580907033366319,True,Head,Open Play,0,1,6,Normal
+3825744,Rubén Duarte Sánchez,Espanyol,34.03307215048327,0.06596462658324218,False,Left Foot,Open Play,1,0,1,Normal
+3825744,Mario Gaspar Pérez Martínez,Villarreal,39.56412516409279,0.07025599677268875,False,Right Foot,Open Play,1,0,1,Half Volley

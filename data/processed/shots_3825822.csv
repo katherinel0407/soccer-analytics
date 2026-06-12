@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.768882040742382,0.055699431600398294,True,Left Foot,Open Play,0,0,1,Volley
-44.873265983210985,0.06328517441395319,False,Right Foot,Open Play,0,0,1,Normal
-25.64449258612851,0.05502372015370045,False,Right Foot,Open Play,0,0,2,Normal
-16.78868666691948,0.054118153873238095,False,Right Foot,Open Play,1,0,0,Normal
-20.930838492521026,0.06094125348395494,False,Left Foot,Open Play,1,0,1,Volley
-35.15693388223722,0.07181697893591348,False,Right Foot,Open Play,0,0,0,Normal
-29.80067113338221,0.06791695883604201,False,Right Foot,Open Play,1,1,1,Half Volley
-9.33434518324665,0.058206825667204434,False,Head,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-27.956573466717987,0.06980700485643439,False,Left Foot,Open Play,1,0,0,Normal
-17.40114938732497,0.06183934424924259,False,Right Foot,Open Play,0,0,3,Normal
-8.711486669908872,0.059112611308612596,False,Left Foot,Open Play,1,0,1,Volley
-13.409325113517092,0.06036707102108609,False,Right Foot,Open Play,1,1,1,Normal
-15.673225577397915,0.05569753442387554,False,Right Foot,Open Play,0,0,3,Half Volley
-23.146706029152394,0.06687496724454448,False,Left Foot,Open Play,0,0,1,Normal
-19.706344156134087,0.06317072795134258,False,Left Foot,Open Play,0,0,2,Normal
-12.709838708654017,0.05895436702971026,False,Right Foot,Open Play,1,0,0,Normal
-16.714065932620944,0.05186844398065871,False,Right Foot,Open Play,1,0,0,Half Volley
-26.92953768633988,0.07035982351996883,False,Left Foot,Open Play,1,0,0,Normal
-13.753544997563354,0.054668862025477334,False,Right Foot,Open Play,0,1,2,Normal
-44.182009913538344,0.06291036521147783,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825822,Rodrigo Moreno Machado,Valencia,5.768882040742382,0.055699431600398294,True,Left Foot,Open Play,0,0,1,Volley
+3825822,Mauricio Lemos Merladet,Las Palmas,44.873265983210985,0.06328517441395319,False,Right Foot,Open Play,0,0,1,Normal
+3825822,Willian José da Silva,Las Palmas,25.64449258612851,0.05502372015370045,False,Right Foot,Open Play,0,0,2,Normal
+3825822,Willian José da Silva,Las Palmas,16.78868666691948,0.054118153873238095,False,Right Foot,Open Play,1,0,0,Normal
+3825822,Aderllan Leandro de Jesus Santos,Valencia,20.930838492521026,0.06094125348395494,False,Left Foot,Open Play,1,0,1,Volley
+3825822,Roque Mesa Quevedo,Las Palmas,35.15693388223722,0.07181697893591348,False,Right Foot,Open Play,0,0,0,Normal
+3825822,Roque Mesa Quevedo,Las Palmas,29.80067113338221,0.06791695883604201,False,Right Foot,Open Play,1,1,1,Half Volley
+3825822,Shkodran Mustafi,Valencia,9.33434518324665,0.058206825667204434,False,Head,Open Play,0,1,2,Normal
+3825822,Jonathan Viera Ramos,Las Palmas,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3825822,Pablo Daniel Piatti,Valencia,27.956573466717987,0.06980700485643439,False,Left Foot,Open Play,1,0,0,Normal
+3825822,Willian José da Silva,Las Palmas,17.40114938732497,0.06183934424924259,False,Right Foot,Open Play,0,0,3,Normal
+3825822,Willian José da Silva,Las Palmas,8.711486669908872,0.059112611308612596,False,Left Foot,Open Play,1,0,1,Volley
+3825822,Pedro Taunausú Domínguez Placeres,Las Palmas,13.409325113517092,0.06036707102108609,False,Right Foot,Open Play,1,1,1,Normal
+3825822,Nabil El Zhar,Las Palmas,15.673225577397915,0.05569753442387554,False,Right Foot,Open Play,0,0,3,Half Volley
+3825822,Jerónimo Figueroa Cabrera,Las Palmas,23.146706029152394,0.06687496724454448,False,Left Foot,Open Play,0,0,1,Normal
+3825822,Daniel Parejo Muñoz,Valencia,19.706344156134087,0.06317072795134258,False,Left Foot,Open Play,0,0,2,Normal
+3825822,Sergio Ezequiel Araújo,Las Palmas,12.709838708654017,0.05895436702971026,False,Right Foot,Open Play,1,0,0,Normal
+3825822,André Filipe Tavares Gomes,Valencia,16.714065932620944,0.05186844398065871,False,Right Foot,Open Play,1,0,0,Half Volley
+3825822,André Filipe Tavares Gomes,Valencia,26.92953768633988,0.07035982351996883,False,Left Foot,Open Play,1,0,0,Normal
+3825822,Sergio Ezequiel Araújo,Las Palmas,13.753544997563354,0.054668862025477334,False,Right Foot,Open Play,0,1,2,Normal
+3825822,Álvaro Negredo Sánchez,Valencia,44.182009913538344,0.06291036521147783,False,Right Foot,Open Play,1,0,2,Normal

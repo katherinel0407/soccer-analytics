@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.64965543462902,0.05891900551937925,False,Left Foot,Open Play,0,0,1,Half Volley
-10.295630140987,0.059969663201570364,True,Right Foot,Open Play,0,0,1,Lob
-14.142135623730951,0.061923081724958313,False,Head,Open Play,0,1,3,Normal
-10.04987562112089,0.05841857388508137,False,Head,Open Play,0,0,2,Normal
-21.2602916254693,0.055435668583130766,True,Left Foot,Open Play,0,0,0,Normal
-16.492422502470642,0.05117310582971984,False,Right Foot,Open Play,0,0,0,Normal
-26.832815729997478,0.07025046622473598,False,Left Foot,Open Play,0,0,1,Normal
-22.80350850198276,0.05605170816423668,False,Right Foot,Open Play,0,0,2,Normal
-17.88854381999832,0.06247027929281284,False,Right Foot,Open Play,0,0,2,Normal
-28.635642126552707,0.06364678565071621,False,Left Foot,Open Play,0,0,1,Normal
-29.154759474226502,0.06901415376778673,False,Right Foot,Open Play,0,0,1,Normal
-25.709920264364882,0.062412071606448745,False,Right Foot,Open Play,0,0,0,Normal
-27.65863337187866,0.06941317046765531,False,Right Foot,Open Play,1,0,0,Volley
-22.20360331117452,0.06704563337608287,False,Right Foot,Open Play,0,0,0,Normal
-5.0,0.05677274173885964,False,Left Foot,Open Play,0,0,5,Normal
-17.46424919657298,0.05844114956533377,False,Right Foot,Open Play,0,0,2,Half Volley
-18.601075237738275,0.0647558414434647,False,Left Foot,Open Play,0,0,2,Normal
-29.154759474226502,0.06901415376778673,False,Right Foot,Open Play,0,0,1,Normal
-12.041594578792296,0.05485128092507768,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-9.848857801796104,0.05698279443696437,True,Head,Open Play,0,0,2,Normal
-27.313000567495326,0.05981178084829161,False,Right Foot,Open Play,0,0,0,Normal
-29.017236257093817,0.0679458051549259,False,Left Foot,Open Play,0,0,0,Normal
-21.2602916254693,0.06622466730991741,False,Right Foot,Open Play,0,0,3,Normal
-17.029386365926403,0.05574201488403172,False,Left Foot,Open Play,0,0,2,Normal
-10.816653826391969,0.05627318492021817,False,Head,Open Play,0,1,5,Normal
-8.94427190999916,0.058627918422720963,False,Left Foot,Open Play,0,0,1,Normal
-16.0,0.06130374464429979,False,Right Foot,Open Play,0,0,2,Normal
-13.45362404707371,0.06163431402119036,False,Left Foot,Open Play,0,0,1,Normal
-11.180339887498949,0.05986705512554456,False,Left Foot,Open Play,0,0,3,Normal
-28.635642126552707,0.0715036143149941,False,Right Foot,Open Play,0,0,1,Normal
-17.804493814764857,0.05607124213128397,False,Right Foot,Open Play,0,0,1,Normal
-27.459060435491963,0.06892899128146499,False,Right Foot,Open Play,0,0,3,Normal
-21.18962010041709,0.06599522290275901,False,Right Foot,Open Play,0,0,1,Normal
-9.848857801796104,0.05698279443696437,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19716,Fara Williams,Reading WFC,32.64965543462902,0.05891900551937925,False,Left Foot,Open Play,0,0,1,Half Volley
+19716,Gemma Suzanne Davison,Reading WFC,10.295630140987,0.059969663201570364,True,Right Foot,Open Play,0,0,1,Lob
+19716,Anne-Marie Heatherson,Yeovil Town LFC,14.142135623730951,0.061923081724958313,False,Head,Open Play,0,1,3,Normal
+19716,Brooke Chaplen,Reading WFC,10.04987562112089,0.05841857388508137,False,Head,Open Play,0,0,2,Normal
+19716,Fara Williams,Reading WFC,21.2602916254693,0.055435668583130766,True,Left Foot,Open Play,0,0,0,Normal
+19716,Brooke Chaplen,Reading WFC,16.492422502470642,0.05117310582971984,False,Right Foot,Open Play,0,0,0,Normal
+19716,Mayumi Pacheco,Reading WFC,26.832815729997478,0.07025046622473598,False,Left Foot,Open Play,0,0,1,Normal
+19716,Natasha Harding,Reading WFC,22.80350850198276,0.05605170816423668,False,Right Foot,Open Play,0,0,2,Normal
+19716,Olivia Fergusson,Yeovil Town LFC,17.88854381999832,0.06247027929281284,False,Right Foot,Open Play,0,0,2,Normal
+19716,Megan Alexander,Yeovil Town LFC,28.635642126552707,0.06364678565071621,False,Left Foot,Open Play,0,0,1,Normal
+19716,Brooke Chaplen,Reading WFC,29.154759474226502,0.06901415376778673,False,Right Foot,Open Play,0,0,1,Normal
+19716,Natasha Harding,Reading WFC,25.709920264364882,0.062412071606448745,False,Right Foot,Open Play,0,0,0,Normal
+19716,Sophie Howard,Reading WFC,27.65863337187866,0.06941317046765531,False,Right Foot,Open Play,1,0,0,Volley
+19716,Fara Williams,Reading WFC,22.20360331117452,0.06704563337608287,False,Right Foot,Open Play,0,0,0,Normal
+19716,Olivia Fergusson,Yeovil Town LFC,5.0,0.05677274173885964,False,Left Foot,Open Play,0,0,5,Normal
+19716,Lauren Bruton,Reading WFC,17.46424919657298,0.05844114956533377,False,Right Foot,Open Play,0,0,2,Half Volley
+19716,Brooke Chaplen,Reading WFC,18.601075237738275,0.0647558414434647,False,Left Foot,Open Play,0,0,2,Normal
+19716,Gemma Suzanne Davison,Reading WFC,29.154759474226502,0.06901415376778673,False,Right Foot,Open Play,0,0,1,Normal
+19716,Brooke Chaplen,Reading WFC,12.041594578792296,0.05485128092507768,False,Right Foot,Open Play,0,0,1,Normal
+19716,Lauren Bruton,Reading WFC,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+19716,Remi Allen,Reading WFC,9.848857801796104,0.05698279443696437,True,Head,Open Play,0,0,2,Normal
+19716,Lauren Bruton,Reading WFC,27.313000567495326,0.05981178084829161,False,Right Foot,Open Play,0,0,0,Normal
+19716,Rachel Furness,Reading WFC,29.017236257093817,0.0679458051549259,False,Left Foot,Open Play,0,0,0,Normal
+19716,Gemma Suzanne Davison,Reading WFC,21.2602916254693,0.06622466730991741,False,Right Foot,Open Play,0,0,3,Normal
+19716,Natasha Harding,Reading WFC,17.029386365926403,0.05574201488403172,False,Left Foot,Open Play,0,0,2,Normal
+19716,Rachel Furness,Reading WFC,10.816653826391969,0.05627318492021817,False,Head,Open Play,0,1,5,Normal
+19716,Brooke Chaplen,Reading WFC,8.94427190999916,0.058627918422720963,False,Left Foot,Open Play,0,0,1,Normal
+19716,Gemma Suzanne Davison,Reading WFC,16.0,0.06130374464429979,False,Right Foot,Open Play,0,0,2,Normal
+19716,Brooke Chaplen,Reading WFC,13.45362404707371,0.06163431402119036,False,Left Foot,Open Play,0,0,1,Normal
+19716,Charlotte Estcourt,Reading WFC,11.180339887498949,0.05986705512554456,False,Left Foot,Open Play,0,0,3,Normal
+19716,Gemma Suzanne Davison,Reading WFC,28.635642126552707,0.0715036143149941,False,Right Foot,Open Play,0,0,1,Normal
+19716,Brooke Chaplen,Reading WFC,17.804493814764857,0.05607124213128397,False,Right Foot,Open Play,0,0,1,Normal
+19716,Emily Syme,Yeovil Town LFC,27.459060435491963,0.06892899128146499,False,Right Foot,Open Play,0,0,3,Normal
+19716,Olivia Fergusson,Yeovil Town LFC,21.18962010041709,0.06599522290275901,False,Right Foot,Open Play,0,0,1,Normal
+19716,Brooke Chaplen,Reading WFC,9.848857801796104,0.05698279443696437,False,Head,Open Play,0,0,2,Normal

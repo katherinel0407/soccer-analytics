@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.0312195418814,0.06090696083941079,False,Head,Open Play,0,0,3,Normal
-15.0,0.05407336265679737,False,Right Foot,Open Play,0,0,1,Normal
-16.492422502470642,0.06049702436197538,False,Left Foot,Open Play,0,0,1,Normal
-17.804493814764857,0.06352293119939281,False,Left Foot,Open Play,0,1,1,Normal
-25.612496949731394,0.0678513097305586,False,Right Foot,Open Play,0,0,3,Normal
-23.259406699226016,0.0677020245781753,False,Left Foot,Open Play,0,0,1,Normal
-9.848857801796104,0.059657413278702213,False,Left Foot,Open Play,1,0,1,Normal
-28.0178514522438,0.07108621294287122,False,Right Foot,Open Play,0,0,2,Normal
-34.0,0.0699677252307171,False,Right Foot,Open Play,0,0,0,Normal
-26.627053911388696,0.07010689894742164,False,Right Foot,Open Play,0,0,1,Normal
-26.0,0.05997615402750954,False,Right Foot,Free Kick,0,0,0,Normal
-28.635642126552707,0.06364678565071621,False,Right Foot,Open Play,1,0,1,Normal
-15.0,0.05407336265679737,False,Right Foot,Open Play,0,0,2,Normal
-15.033296378372908,0.05889770700142941,False,Right Foot,Open Play,0,0,1,Normal
-17.804493814764857,0.06423060993775254,False,Left Foot,Open Play,0,0,2,Normal
-21.95449840010015,0.06693643838392781,False,Right Foot,Free Kick,0,0,0,Normal
-22.80350850198276,0.05314392371668994,False,Right Foot,Open Play,0,0,1,Half Volley
-12.041594578792296,0.060692049275192485,False,Head,Open Play,0,0,2,Normal
-23.021728866442675,0.05682438646829118,False,Right Foot,Open Play,0,0,2,Normal
-22.825424421026653,0.06750226877395246,False,Left Foot,Open Play,0,0,1,Normal
-27.730849247724095,0.05928717081665437,False,Right Foot,Open Play,0,0,1,Normal
-29.154759474226502,0.06901415376778673,False,Right Foot,Open Play,0,0,1,Normal
-8.602325267042627,0.055904217137125255,False,Left Foot,Open Play,0,0,2,Volley
-30.4138126514911,0.06506091040262699,False,Right Foot,Open Play,1,0,1,Normal
-8.602325267042627,0.055904217137125255,False,Head,Open Play,0,0,2,Normal
-16.0312195418814,0.061695736670736176,False,Right Foot,Open Play,0,0,2,Normal
-15.811388300841896,0.0588889019162605,False,Right Foot,Open Play,0,0,2,Normal
-20.0,0.06560915817967398,False,Left Foot,Open Play,1,0,0,Normal
-17.0,0.061743692939782886,False,Left Foot,Open Play,0,1,4,Normal
-8.06225774829855,0.05827886915945493,False,Head,Open Play,0,0,2,Normal
-8.246211251235321,0.058599252830825864,True,Right Foot,Open Play,0,0,3,Normal
-25.942243542145693,0.05057016517124409,False,Left Foot,Open Play,0,0,0,Normal
-3.605551275463989,0.05541354467684584,False,Right Foot,Open Play,1,0,6,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7485,Samantha May Kerr,Chicago Red Stars,16.0312195418814,0.06090696083941079,False,Head,Open Play,0,0,3,Normal
+7485,Samantha May Kerr,Chicago Red Stars,15.0,0.05407336265679737,False,Right Foot,Open Play,0,0,1,Normal
+7485,Megan Anna Rapinoe,OL Reign,16.492422502470642,0.06049702436197538,False,Left Foot,Open Play,0,0,1,Normal
+7485,Megan Anna Rapinoe,OL Reign,17.804493814764857,0.06352293119939281,False,Left Foot,Open Play,0,1,1,Normal
+7485,Samantha May Kerr,Chicago Red Stars,25.612496949731394,0.0678513097305586,False,Right Foot,Open Play,0,0,3,Normal
+7485,Vanessa DiBernardo,Chicago Red Stars,23.259406699226016,0.0677020245781753,False,Left Foot,Open Play,0,0,1,Normal
+7485,Jodie Taylor,OL Reign,9.848857801796104,0.059657413278702213,False,Left Foot,Open Play,1,0,1,Normal
+7485,Samantha May Kerr,Chicago Red Stars,28.0178514522438,0.07108621294287122,False,Right Foot,Open Play,0,0,2,Normal
+7485,Jessica Fishlock,OL Reign,34.0,0.0699677252307171,False,Right Foot,Open Play,0,0,0,Normal
+7485,Vanessa DiBernardo,Chicago Red Stars,26.627053911388696,0.07010689894742164,False,Right Foot,Open Play,0,0,1,Normal
+7485,Vanessa DiBernardo,Chicago Red Stars,26.0,0.05997615402750954,False,Right Foot,Free Kick,0,0,0,Normal
+7485,Morgan Paige Gautrat,Chicago Red Stars,28.635642126552707,0.06364678565071621,False,Right Foot,Open Play,1,0,1,Normal
+7485,Samantha May Kerr,Chicago Red Stars,15.0,0.05407336265679737,False,Right Foot,Open Play,0,0,2,Normal
+7485,Vanessa DiBernardo,Chicago Red Stars,15.033296378372908,0.05889770700142941,False,Right Foot,Open Play,0,0,1,Normal
+7485,Megan Anna Rapinoe,OL Reign,17.804493814764857,0.06423060993775254,False,Left Foot,Open Play,0,0,2,Normal
+7485,Danielle Colaprico,Chicago Red Stars,21.95449840010015,0.06693643838392781,False,Right Foot,Free Kick,0,0,0,Normal
+7485,Alyssa Mautz,Chicago Red Stars,22.80350850198276,0.05314392371668994,False,Right Foot,Open Play,0,0,1,Half Volley
+7485,Beverly Yanez,OL Reign,12.041594578792296,0.060692049275192485,False,Head,Open Play,0,0,2,Normal
+7485,Adriana Kristina Leon,OL Reign,23.021728866442675,0.05682438646829118,False,Right Foot,Open Play,0,0,2,Normal
+7485,Vanessa DiBernardo,Chicago Red Stars,22.825424421026653,0.06750226877395246,False,Left Foot,Open Play,0,0,1,Normal
+7485,Morgan Paige Gautrat,Chicago Red Stars,27.730849247724095,0.05928717081665437,False,Right Foot,Open Play,0,0,1,Normal
+7485,Vanessa DiBernardo,Chicago Red Stars,29.154759474226502,0.06901415376778673,False,Right Foot,Open Play,0,0,1,Normal
+7485,Allie Long,OL Reign,8.602325267042627,0.055904217137125255,False,Left Foot,Open Play,0,0,2,Volley
+7485,Beverly Yanez,OL Reign,30.4138126514911,0.06506091040262699,False,Right Foot,Open Play,1,0,1,Normal
+7485,Samantha May Kerr,Chicago Red Stars,8.602325267042627,0.055904217137125255,False,Head,Open Play,0,0,2,Normal
+7485,Morgan Paige Gautrat,Chicago Red Stars,16.0312195418814,0.061695736670736176,False,Right Foot,Open Play,0,0,2,Normal
+7485,Jasmyne Spencer,OL Reign,15.811388300841896,0.0588889019162605,False,Right Foot,Open Play,0,0,2,Normal
+7485,Jessica Fishlock,OL Reign,20.0,0.06560915817967398,False,Left Foot,Open Play,1,0,0,Normal
+7485,Megan Anna Rapinoe,OL Reign,17.0,0.061743692939782886,False,Left Foot,Open Play,0,1,4,Normal
+7485,Beverly Yanez,OL Reign,8.06225774829855,0.05827886915945493,False,Head,Open Play,0,0,2,Normal
+7485,Samantha May Kerr,Chicago Red Stars,8.246211251235321,0.058599252830825864,True,Right Foot,Open Play,0,0,3,Normal
+7485,Rosie White,Chicago Red Stars,25.942243542145693,0.05057016517124409,False,Left Foot,Open Play,0,0,0,Normal
+7485,Jasmyne Spencer,OL Reign,3.605551275463989,0.05541354467684584,False,Right Foot,Open Play,1,0,6,Half Volley

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.903827400741715,0.06570628434696076,False,Left Foot,Open Play,0,0,2,Normal
-5.805170109479994,0.05764296930185413,False,Head,Open Play,0,1,5,Normal
-19.5,0.06286470397453847,False,Right Foot,Open Play,0,1,3,Normal
-14.23587018766327,0.06218315138140905,False,Right Foot,Open Play,1,0,4,Normal
-10.61508360777248,0.055424379353043854,False,Right Foot,Open Play,1,0,3,Normal
-20.71834935510066,0.0655353609238766,False,Left Foot,Open Play,0,0,1,Half Volley
-17.389939620366714,0.05681873434893511,False,Right Foot,Open Play,1,0,2,Normal
-21.37849386650051,0.058296732864445894,False,Right Foot,Open Play,0,0,2,Normal
-28.139651739138493,0.06540074918606822,False,Left Foot,Open Play,0,0,2,Normal
-21.306337085477644,0.05722778053471583,False,Left Foot,Open Play,0,0,2,Normal
-20.554804791094465,0.057127428920848614,False,Right Foot,Open Play,0,1,2,Normal
-26.306843216167156,0.06637265827452833,False,Left Foot,Open Play,0,0,0,Normal
-18.15929514050587,0.06316703388824306,False,Right Foot,Open Play,1,1,2,Volley
-9.143850392476901,0.05490906369457795,False,Head,Open Play,0,0,1,Normal
-15.99062225180747,0.06192180406217846,True,Left Foot,Open Play,1,0,1,Normal
-18.527007313648905,0.0628290647603435,False,Left Foot,Open Play,0,1,3,Normal
-12.515989773086263,0.05515460985175537,True,Right Foot,Open Play,1,0,2,Half Volley
-23.287979732042025,0.06668395215028196,False,Right Foot,Open Play,0,1,2,Normal
-25.983263844251745,0.06049501142981443,True,Left Foot,Open Play,0,0,1,Normal
-30.80584360149873,0.0731045573569379,False,Left Foot,Open Play,0,0,0,Normal
-10.071742649611338,0.05834905715603863,True,Head,Open Play,0,0,4,Normal
-12.935609765295176,0.057555145562206,True,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788746,Memphis Depay,Netherlands,20.903827400741715,0.06570628434696076,False,Left Foot,Open Play,0,0,2,Normal
+3788746,Andriy Yarmolenko,Ukraine,5.805170109479994,0.05764296930185413,False,Head,Open Play,0,1,5,Normal
+3788746,Georginio Wijnaldum,Netherlands,19.5,0.06286470397453847,False,Right Foot,Open Play,0,1,3,Normal
+3788746,Memphis Depay,Netherlands,14.23587018766327,0.06218315138140905,False,Right Foot,Open Play,1,0,4,Normal
+3788746,Denzel Dumfries,Netherlands,10.61508360777248,0.055424379353043854,False,Right Foot,Open Play,1,0,3,Normal
+3788746,Patrick van Aanholt,Netherlands,20.71834935510066,0.0655353609238766,False,Left Foot,Open Play,0,0,1,Half Volley
+3788746,Georginio Wijnaldum,Netherlands,17.389939620366714,0.05681873434893511,False,Right Foot,Open Play,1,0,2,Normal
+3788746,Georginio Wijnaldum,Netherlands,21.37849386650051,0.058296732864445894,False,Right Foot,Open Play,0,0,2,Normal
+3788746,Ruslan Malinovskiy,Ukraine,28.139651739138493,0.06540074918606822,False,Left Foot,Open Play,0,0,2,Normal
+3788746,Roman Yaremchuk,Ukraine,21.306337085477644,0.05722778053471583,False,Left Foot,Open Play,0,0,2,Normal
+3788746,Andriy Yarmolenko,Ukraine,20.554804791094465,0.057127428920848614,False,Right Foot,Open Play,0,1,2,Normal
+3788746,Patrick van Aanholt,Netherlands,26.306843216167156,0.06637265827452833,False,Left Foot,Open Play,0,0,0,Normal
+3788746,Georginio Wijnaldum,Netherlands,18.15929514050587,0.06316703388824306,False,Right Foot,Open Play,1,1,2,Volley
+3788746,Denzel Dumfries,Netherlands,9.143850392476901,0.05490906369457795,False,Head,Open Play,0,0,1,Normal
+3788746,Georginio Wijnaldum,Netherlands,15.99062225180747,0.06192180406217846,True,Left Foot,Open Play,1,0,1,Normal
+3788746,Wout Weghorst,Netherlands,18.527007313648905,0.0628290647603435,False,Left Foot,Open Play,0,1,3,Normal
+3788746,Wout Weghorst,Netherlands,12.515989773086263,0.05515460985175537,True,Right Foot,Open Play,1,0,2,Half Volley
+3788746,Roman Yaremchuk,Ukraine,23.287979732042025,0.06668395215028196,False,Right Foot,Open Play,0,1,2,Normal
+3788746,Andriy Yarmolenko,Ukraine,25.983263844251745,0.06049501142981443,True,Left Foot,Open Play,0,0,1,Normal
+3788746,Nathan Aké,Netherlands,30.80584360149873,0.0731045573569379,False,Left Foot,Open Play,0,0,0,Normal
+3788746,Roman Yaremchuk,Ukraine,10.071742649611338,0.05834905715603863,True,Head,Open Play,0,0,4,Normal
+3788746,Denzel Dumfries,Netherlands,12.935609765295176,0.057555145562206,True,Head,Open Play,0,1,2,Normal

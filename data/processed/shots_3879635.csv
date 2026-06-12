@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.741982086128793,0.057740670568843404,True,Right Foot,Open Play,0,1,2,Normal
-13.805795884337853,0.05594468296010241,False,Right Foot,Open Play,1,0,1,Half Volley
-23.85309204275202,0.06776973635976181,False,Left Foot,Open Play,1,0,1,Normal
-25.499999999999996,0.06752392798173137,False,Right Foot,Open Play,1,0,1,Normal
-18.655294154743313,0.05191907160486023,False,Left Foot,Open Play,0,0,1,Normal
-25.178165143631897,0.0606285795897814,False,Left Foot,Open Play,0,0,1,Normal
-16.0031246948838,0.05880549420259096,False,Head,Open Play,0,1,2,Normal
-18.68689380287692,0.06169425086364053,False,Right Foot,Open Play,0,1,3,Normal
-11.806777714516347,0.058631328117801085,False,Right Foot,Open Play,1,0,2,Normal
-20.379646709401023,0.06243443346652679,False,Left Foot,Open Play,0,1,4,Normal
-38.40013020811258,0.07238748529496035,False,Left Foot,Free Kick,0,0,0,Normal
-10.55509355714103,0.06007796877419182,False,Head,Open Play,0,1,2,Normal
-27.718946588930827,0.07095262867794834,False,Left Foot,Open Play,0,0,1,Half Volley
-13.931618714277246,0.06183716404729739,False,Head,Open Play,0,0,1,Normal
-26.878243990260973,0.06290316169338936,False,Right Foot,Open Play,0,0,2,Normal
-17.08917786202718,0.056565160108452195,True,Right Foot,Open Play,0,0,2,Normal
-7.839005038906407,0.056617960562707,False,Head,Open Play,0,1,5,Normal
-18.83454273402994,0.056696643346107814,True,Left Foot,Open Play,0,1,3,Normal
-20.30024630392449,0.0646989382723514,False,Right Foot,Open Play,0,0,2,Normal
-24.56175889467202,0.06299114368342199,False,Right Foot,Open Play,0,1,2,Normal
-29.20975864330276,0.07196780980014365,False,Right Foot,Open Play,0,0,1,Normal
-19.027611515899725,0.06504112187638429,False,Left Foot,Open Play,0,1,1,Normal
-15.115885683611134,0.06249726695389623,False,Head,Open Play,0,0,1,Normal
-8.095677859203642,0.05700757244972267,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879635,Gonzalo Gerardo Higuaín,Napoli,15.741982086128793,0.057740670568843404,True,Right Foot,Open Play,0,1,2,Normal
+3879635,José María Callejón Bueno,Napoli,13.805795884337853,0.05594468296010241,False,Right Foot,Open Play,1,0,1,Half Volley
+3879635,Marek Hamšík,Napoli,23.85309204275202,0.06776973635976181,False,Left Foot,Open Play,1,0,1,Normal
+3879635,Lorenzo Insigne,Napoli,25.499999999999996,0.06752392798173137,False,Right Foot,Open Play,1,0,1,Normal
+3879635,Ivan Perišić,Inter Milan,18.655294154743313,0.05191907160486023,False,Left Foot,Open Play,0,0,1,Normal
+3879635,Fredy Alejandro Guarín Vásquez,Inter Milan,25.178165143631897,0.0606285795897814,False,Left Foot,Open Play,0,0,1,Normal
+3879635,Mauro Emanuel Icardi Rivero,Inter Milan,16.0031246948838,0.05880549420259096,False,Head,Open Play,0,1,2,Normal
+3879635,Gonzalo Gerardo Higuaín,Napoli,18.68689380287692,0.06169425086364053,False,Right Foot,Open Play,0,1,3,Normal
+3879635,Ivan Perišić,Inter Milan,11.806777714516347,0.058631328117801085,False,Right Foot,Open Play,1,0,2,Normal
+3879635,Marcelo Brozović,Inter Milan,20.379646709401023,0.06243443346652679,False,Left Foot,Open Play,0,1,4,Normal
+3879635,Faouzi Ghoulam,Napoli,38.40013020811258,0.07238748529496035,False,Left Foot,Free Kick,0,0,0,Normal
+3879635,Gonzalo Gerardo Higuaín,Napoli,10.55509355714103,0.06007796877419182,False,Head,Open Play,0,1,2,Normal
+3879635,Alex Nicolao Telles,Inter Milan,27.718946588930827,0.07095262867794834,False,Left Foot,Open Play,0,0,1,Half Volley
+3879635,Marek Hamšík,Napoli,13.931618714277246,0.06183716404729739,False,Head,Open Play,0,0,1,Normal
+3879635,Allan Marques Loureiro,Napoli,26.878243990260973,0.06290316169338936,False,Right Foot,Open Play,0,0,2,Normal
+3879635,Gonzalo Gerardo Higuaín,Napoli,17.08917786202718,0.056565160108452195,True,Right Foot,Open Play,0,0,2,Normal
+3879635,Ivan Perišić,Inter Milan,7.839005038906407,0.056617960562707,False,Head,Open Play,0,1,5,Normal
+3879635,Adem Ljajić,Inter Milan,18.83454273402994,0.056696643346107814,True,Left Foot,Open Play,0,1,3,Normal
+3879635,Lorenzo Insigne,Napoli,20.30024630392449,0.0646989382723514,False,Right Foot,Open Play,0,0,2,Normal
+3879635,Marcelo Brozović,Inter Milan,24.56175889467202,0.06299114368342199,False,Right Foot,Open Play,0,1,2,Normal
+3879635,Marcelo Brozović,Inter Milan,29.20975864330276,0.07196780980014365,False,Right Foot,Open Play,0,0,1,Normal
+3879635,Gonzalo Gerardo Higuaín,Napoli,19.027611515899725,0.06504112187638429,False,Left Foot,Open Play,0,1,1,Normal
+3879635,Stevan Jovetić,Inter Milan,15.115885683611134,0.06249726695389623,False,Head,Open Play,0,0,1,Normal
+3879635,João Miranda de Souza Filho,Inter Milan,8.095677859203642,0.05700757244972267,False,Head,Open Play,0,1,4,Normal

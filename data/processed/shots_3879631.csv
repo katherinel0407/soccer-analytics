@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.851160280748879,0.057109594529143576,False,Head,Open Play,0,1,1,Normal
-37.67718142324343,0.062207015023833974,False,Right Foot,Open Play,1,0,0,Half Volley
-20.523401277566055,0.06309828813168745,False,Left Foot,Open Play,0,0,1,Normal
-30.12938764727886,0.05826545893329309,False,Left Foot,Free Kick,0,0,0,Normal
-24.267055857684916,0.06850362904825165,False,Left Foot,Free Kick,0,0,0,Normal
-9.90858213873206,0.059626125352438254,False,Head,Open Play,0,1,4,Normal
-11.926860441876567,0.057777471629343144,False,Right Foot,Open Play,1,1,3,Half Volley
-6.38122245341753,0.05585425295491642,False,Head,Open Play,0,1,5,Normal
-4.2953463189829035,0.05663427492039882,True,Right Foot,Open Play,1,0,2,Volley
-8.692525524840292,0.05681617181416337,False,Head,Open Play,0,1,3,Normal
-23.799369739554027,0.06817131971090488,False,Left Foot,Free Kick,0,0,0,Normal
-13.446189051177294,0.06157428105105073,False,Head,Open Play,0,0,1,Normal
-14.016062214473797,0.05335118742775377,False,Right Foot,Open Play,1,0,1,Volley
-10.124228365658288,0.0585629329697721,False,Right Foot,Open Play,1,0,1,Normal
-6.435060217278468,0.05792273224748072,True,Right Foot,Open Play,1,0,1,Backheel
-21.80022935659164,0.06254237672775534,False,Left Foot,Open Play,1,0,1,Normal
-14.300349646075091,0.0541024388920496,False,Right Foot,Open Play,1,0,2,Normal
-9.9929975482835,0.05958657614086314,False,Head,Open Play,0,0,4,Normal
-18.741664813991314,0.06456343417231468,False,Left Foot,Open Play,0,0,2,Normal
-30.42170277943034,0.06182566498454615,False,Right Foot,Open Play,1,0,1,Half Volley
-28.257742301889586,0.05996512923841966,True,Right Foot,Open Play,0,1,2,Normal
-14.301048912579802,0.054788761945171516,False,Right Foot,Open Play,1,0,1,Half Volley
-31.50174598335781,0.06514074093314942,False,Right Foot,Open Play,0,0,1,Normal
-15.358385331798395,0.06179459295209643,False,Right Foot,Open Play,1,0,1,Half Volley
-8.134494452638103,0.05879643345051666,True,Right Foot,Open Play,0,1,1,Lob
-7.653757247260978,0.05692217400629003,False,Head,Open Play,0,1,1,Normal
-15.861904047118685,0.06248264047286765,False,Right Foot,Open Play,0,1,1,Normal
-25.531353273964935,0.06847719871736115,False,Left Foot,Open Play,0,0,2,Normal
-13.99178330306756,0.06098961685397308,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879631,Rodrigo Sebastián Aguirre Soto,Udinese,11.851160280748879,0.057109594529143576,False,Head,Open Play,0,1,1,Normal
+3879631,Lucas Nahuel Castro,Chievo,37.67718142324343,0.062207015023833974,False,Right Foot,Open Play,1,0,0,Half Volley
+3879631,Rodrigo Sebastián Aguirre Soto,Udinese,20.523401277566055,0.06309828813168745,False,Left Foot,Open Play,0,0,1,Normal
+3879631,Valter Birsa,Chievo,30.12938764727886,0.05826545893329309,False,Left Foot,Free Kick,0,0,0,Normal
+3879631,Valter Birsa,Chievo,24.267055857684916,0.06850362904825165,False,Left Foot,Free Kick,0,0,0,Normal
+3879631,Alessandro Gamberini,Chievo,9.90858213873206,0.059626125352438254,False,Head,Open Play,0,1,4,Normal
+3879631,Valter Birsa,Chievo,11.926860441876567,0.057777471629343144,False,Right Foot,Open Play,1,1,3,Half Volley
+3879631,Valter Birsa,Chievo,6.38122245341753,0.05585425295491642,False,Head,Open Play,0,1,5,Normal
+3879631,Alberto Paloschi,Chievo,4.2953463189829035,0.05663427492039882,True,Right Foot,Open Play,1,0,2,Volley
+3879631,Emmanuel Agyemang-Badu,Udinese,8.692525524840292,0.05681617181416337,False,Head,Open Play,0,1,3,Normal
+3879631,Francesco Lodi,Udinese,23.799369739554027,0.06817131971090488,False,Left Foot,Free Kick,0,0,0,Normal
+3879631,Alberto Paloschi,Chievo,13.446189051177294,0.06157428105105073,False,Head,Open Play,0,0,1,Normal
+3879631,Silvan Widmer,Udinese,14.016062214473797,0.05335118742775377,False,Right Foot,Open Play,1,0,1,Volley
+3879631,Manuel Rolando Iturra Urrutia,Udinese,10.124228365658288,0.0585629329697721,False,Right Foot,Open Play,1,0,1,Normal
+3879631,Cyril Théréau,Udinese,6.435060217278468,0.05792273224748072,True,Right Foot,Open Play,1,0,1,Backheel
+3879631,Rodrigo Sebastián Aguirre Soto,Udinese,21.80022935659164,0.06254237672775534,False,Left Foot,Open Play,1,0,1,Normal
+3879631,Cyril Théréau,Udinese,14.300349646075091,0.0541024388920496,False,Right Foot,Open Play,1,0,2,Normal
+3879631,Alessandro Gamberini,Chievo,9.9929975482835,0.05958657614086314,False,Head,Open Play,0,0,4,Normal
+3879631,Cyril Théréau,Udinese,18.741664813991314,0.06456343417231468,False,Left Foot,Open Play,0,0,2,Normal
+3879631,Emmanuel Agyemang-Badu,Udinese,30.42170277943034,0.06182566498454615,False,Right Foot,Open Play,1,0,1,Half Volley
+3879631,Roberto Inglese,Chievo,28.257742301889586,0.05996512923841966,True,Right Foot,Open Play,0,1,2,Normal
+3879631,Boštjan Cesar,Chievo,14.301048912579802,0.054788761945171516,False,Right Foot,Open Play,1,0,1,Half Volley
+3879631,Emmanuel Agyemang-Badu,Udinese,31.50174598335781,0.06514074093314942,False,Right Foot,Open Play,0,0,1,Normal
+3879631,Simone Pepe,Chievo,15.358385331798395,0.06179459295209643,False,Right Foot,Open Play,1,0,1,Half Volley
+3879631,Cyril Théréau,Udinese,8.134494452638103,0.05879643345051666,True,Right Foot,Open Play,0,1,1,Lob
+3879631,Sergio Pellissier,Chievo,7.653757247260978,0.05692217400629003,False,Head,Open Play,0,1,1,Normal
+3879631,Bruno Miguel Borges Fernandes,Udinese,15.861904047118685,0.06248264047286765,False,Right Foot,Open Play,0,1,1,Normal
+3879631,Ali Adnan Kadhim Al Tameemi,Udinese,25.531353273964935,0.06847719871736115,False,Left Foot,Open Play,0,0,2,Normal
+3879631,Antonio Di Natale,Udinese,13.99178330306756,0.06098961685397308,False,Left Foot,Open Play,0,0,1,Normal

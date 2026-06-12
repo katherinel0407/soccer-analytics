@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.960233851484233,0.06283716685281966,False,Right Foot,Open Play,0,0,2,Normal
-27.582965757873104,0.07004725345349906,False,Right Foot,Open Play,0,1,2,Normal
-18.166452598127126,0.06452052329658307,False,Right Foot,Open Play,1,0,0,Normal
-13.82931668593933,0.05463181013902939,True,Right Foot,Open Play,0,1,1,Half Volley
-30.62711217206088,0.07277760090042414,False,Right Foot,Open Play,0,0,0,Normal
-37.77949179118215,0.06759660334863873,False,Right Foot,Open Play,0,1,1,Normal
-22.257582977493307,0.05381809370566817,False,Right Foot,Open Play,1,0,2,Normal
-31.09099548100704,0.07344880014881966,False,Right Foot,Free Kick,0,0,0,Normal
-27.39069184960468,0.06968044198013137,True,Left Foot,Open Play,0,0,0,Normal
-16.788686666919478,0.05597712116741751,False,Right Foot,Open Play,1,0,1,Half Volley
-25.626548733686327,0.06391607648896161,False,Right Foot,Open Play,0,0,2,Normal
-20.258825237411966,0.05178857370752569,False,Right Foot,Open Play,1,0,2,Normal
-7.74661216274572,0.05730247221321549,True,Head,Open Play,0,0,2,Normal
-32.2671659740982,0.055236351120277874,False,Right Foot,Open Play,0,0,1,Normal
-17.753872816937722,0.05867490366569443,False,Left Foot,Open Play,1,0,4,Normal
-26.82088738278433,0.06160825868640959,False,Left Foot,Open Play,0,0,0,Normal
-4.254409477236533,0.05688770297787088,True,Right Foot,Open Play,1,0,3,Normal
-37.92004746832472,0.054769377498371484,False,Right Foot,Open Play,0,0,3,Normal
-20.441624201613728,0.06372162621130703,False,Right Foot,Open Play,0,1,2,Normal
-32.91883959072676,0.07501387511193203,False,Right Foot,Open Play,0,0,1,Normal
-21.292721761202817,0.055659192552500646,False,Right Foot,Open Play,1,0,1,Normal
-34.5059415173677,0.057395890362438154,False,Right Foot,Open Play,0,0,1,Normal
-13.241223508422479,0.05717658338864592,False,Right Foot,Open Play,1,0,2,Normal
-28.69233347080715,0.07169146507281084,False,Right Foot,Open Play,0,0,2,Normal
-16.032778923193572,0.06307729116927421,False,Left Foot,Open Play,1,0,3,Normal
-21.87692848642149,0.05937547182437263,False,Right Foot,Open Play,0,0,2,Normal
-30.99193443462347,0.07119031571081412,False,Right Foot,Open Play,1,0,0,Volley
-21.821548982599744,0.06674328907239702,False,Left Foot,Open Play,1,0,1,Volley
-20.408331631958557,0.05921498352893064,False,Left Foot,Open Play,0,1,4,Normal
-7.158910531638177,0.05792672684588007,False,Right Foot,Open Play,1,0,2,Volley
-26.867266329122504,0.06532638736549817,False,Right Foot,Open Play,0,0,2,Normal
-27.708843353702086,0.06638630664872988,False,Right Foot,Open Play,0,0,1,Normal
-35.4005649672431,0.07681954465375435,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879623,Massimo Maccarone,Empoli,17.960233851484233,0.06283716685281966,False,Right Foot,Open Play,0,0,2,Normal
+3879623,Riccardo Saponara,Empoli,27.582965757873104,0.07004725345349906,False,Right Foot,Open Play,0,1,2,Normal
+3879623,Massimo Maccarone,Empoli,18.166452598127126,0.06452052329658307,False,Right Foot,Open Play,1,0,0,Normal
+3879623,Marko Livaja,Empoli,13.82931668593933,0.05463181013902939,True,Right Foot,Open Play,0,1,1,Half Volley
+3879623,Piotr Zieliński,Empoli,30.62711217206088,0.07277760090042414,False,Right Foot,Open Play,0,0,0,Normal
+3879623,Leandro Daniel Paredes,Empoli,37.77949179118215,0.06759660334863873,False,Right Foot,Open Play,0,1,1,Normal
+3879623,Khouma El Hadji Babacar,Fiorentina,22.257582977493307,0.05381809370566817,False,Right Foot,Open Play,1,0,2,Normal
+3879623,Leandro Daniel Paredes,Empoli,31.09099548100704,0.07344880014881966,False,Right Foot,Free Kick,0,0,0,Normal
+3879623,Marcel Büchel,Empoli,27.39069184960468,0.06968044198013137,True,Left Foot,Open Play,0,0,0,Normal
+3879623,Riccardo Saponara,Empoli,16.788686666919478,0.05597712116741751,False,Right Foot,Open Play,1,0,1,Half Volley
+3879623,Borja Valero Iglesias,Fiorentina,25.626548733686327,0.06391607648896161,False,Right Foot,Open Play,0,0,2,Normal
+3879623,Piotr Zieliński,Empoli,20.258825237411966,0.05178857370752569,False,Right Foot,Open Play,1,0,2,Normal
+3879623,Nikola Kalinić,Fiorentina,7.74661216274572,0.05730247221321549,True,Head,Open Play,0,0,2,Normal
+3879623,Leandro Daniel Paredes,Empoli,32.2671659740982,0.055236351120277874,False,Right Foot,Open Play,0,0,1,Normal
+3879623,Marcel Büchel,Empoli,17.753872816937722,0.05867490366569443,False,Left Foot,Open Play,1,0,4,Normal
+3879623,Federico Bernardeschi,Fiorentina,26.82088738278433,0.06160825868640959,False,Left Foot,Open Play,0,0,0,Normal
+3879623,Nikola Kalinić,Fiorentina,4.254409477236533,0.05688770297787088,True,Right Foot,Open Play,1,0,3,Normal
+3879623,Marko Livaja,Empoli,37.92004746832472,0.054769377498371484,False,Right Foot,Open Play,0,0,3,Normal
+3879623,Massimo Maccarone,Empoli,20.441624201613728,0.06372162621130703,False,Right Foot,Open Play,0,1,2,Normal
+3879623,Matías Ariel Fernández Fernández,Fiorentina,32.91883959072676,0.07501387511193203,False,Right Foot,Open Play,0,0,1,Normal
+3879623,Khouma El Hadji Babacar,Fiorentina,21.292721761202817,0.055659192552500646,False,Right Foot,Open Play,1,0,1,Normal
+3879623,Nenad Tomović,Fiorentina,34.5059415173677,0.057395890362438154,False,Right Foot,Open Play,0,0,1,Normal
+3879623,Nikola Kalinić,Fiorentina,13.241223508422479,0.05717658338864592,False,Right Foot,Open Play,1,0,2,Normal
+3879623,Marcos Alonso Mendoza,Fiorentina,28.69233347080715,0.07169146507281084,False,Right Foot,Open Play,0,0,2,Normal
+3879623,Giuseppe Rossi,Fiorentina,16.032778923193572,0.06307729116927421,False,Left Foot,Open Play,1,0,3,Normal
+3879623,Federico Bernardeschi,Fiorentina,21.87692848642149,0.05937547182437263,False,Right Foot,Open Play,0,0,2,Normal
+3879623,Matías Vecino Falero,Fiorentina,30.99193443462347,0.07119031571081412,False,Right Foot,Open Play,1,0,0,Volley
+3879623,Marcos Alonso Mendoza,Fiorentina,21.821548982599744,0.06674328907239702,False,Left Foot,Open Play,1,0,1,Volley
+3879623,Marko Livaja,Empoli,20.408331631958557,0.05921498352893064,False,Left Foot,Open Play,0,1,4,Normal
+3879623,Nikola Kalinić,Fiorentina,7.158910531638177,0.05792672684588007,False,Right Foot,Open Play,1,0,2,Volley
+3879623,Matías Vecino Falero,Fiorentina,26.867266329122504,0.06532638736549817,False,Right Foot,Open Play,0,0,2,Normal
+3879623,Borja Valero Iglesias,Fiorentina,27.708843353702086,0.06638630664872988,False,Right Foot,Open Play,0,0,1,Normal
+3879623,Marcos Alonso Mendoza,Fiorentina,35.4005649672431,0.07681954465375435,False,Left Foot,Open Play,0,0,1,Normal

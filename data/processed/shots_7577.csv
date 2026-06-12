@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.72308292331602,0.06549300671934492,False,Right Foot,Open Play,1,0,1,Volley
-13.0,0.05284224919539496,False,Head,Open Play,0,0,2,Normal
-18.110770276274835,0.061351480882246026,False,Left Foot,Open Play,0,0,2,Normal
-15.811388300841896,0.0622455305632768,False,Left Foot,Open Play,0,1,0,Half Volley
-9.219544457292887,0.0555628425569167,False,Left Foot,Open Play,0,0,1,Normal
-10.770329614269007,0.057358586558931925,False,Left Foot,Open Play,0,0,1,Normal
-9.219544457292887,0.0593883558980146,False,Right Foot,Open Play,0,0,3,Half Volley
-23.345235059857504,0.0670812127394191,False,Right Foot,Open Play,0,0,1,Normal
-28.0178514522438,0.06637160373760356,False,Right Foot,Open Play,0,0,1,Normal
-18.867962264113206,0.06350331374493007,False,Right Foot,Open Play,0,0,3,Normal
-14.317821063276353,0.052794164583075114,False,Right Foot,Open Play,0,0,2,Normal
-36.6742416417845,0.0663643857832215,False,Right Foot,Free Kick,0,0,0,Normal
-25.059928172283335,0.05828146776796858,False,Right Foot,Open Play,1,1,1,Normal
-15.556349186104045,0.055089810737483536,False,Right Foot,Open Play,0,0,3,Normal
-16.97056274847714,0.055018037838245354,False,Right Foot,Open Play,1,0,1,Volley
-22.561028345356956,0.06622938553225047,False,Right Foot,Open Play,0,0,1,Normal
-38.05259518088089,0.07071000099388615,False,Left Foot,Free Kick,0,0,0,Normal
-12.806248474865697,0.060967023380698634,False,Right Foot,Open Play,1,0,2,Volley
-21.840329667841555,0.06612296148668041,False,Left Foot,Open Play,0,0,2,Half Volley
-6.082762530298219,0.05684693128876285,False,Head,Open Play,0,0,4,Normal
-25.079872407968907,0.05961853878235462,False,Left Foot,Open Play,0,0,0,Half Volley
-39.56008088970496,0.06437243803104592,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7577,Amine Harit,Morocco,19.72308292331602,0.06549300671934492,False,Right Foot,Open Play,1,0,1,Volley
+7577,Younès Belhanda,Morocco,13.0,0.05284224919539496,False,Head,Open Play,0,0,2,Normal
+7577,Ayoub El Kaabi,Morocco,18.110770276274835,0.061351480882246026,False,Left Foot,Open Play,0,0,2,Normal
+7577,Hakim Ziyech,Morocco,15.811388300841896,0.0622455305632768,False,Left Foot,Open Play,0,1,0,Half Volley
+7577,Younès Belhanda,Morocco,9.219544457292887,0.0555628425569167,False,Left Foot,Open Play,0,0,1,Normal
+7577,Medhi Amine El Mouttaqi Benatia,Morocco,10.770329614269007,0.057358586558931925,False,Left Foot,Open Play,0,0,1,Normal
+7577,Sardar Azmoun,Iran,9.219544457292887,0.0593883558980146,False,Right Foot,Open Play,0,0,3,Half Volley
+7577,Achraf Hakimi Mouh,Morocco,23.345235059857504,0.0670812127394191,False,Right Foot,Open Play,0,0,1,Normal
+7577,Younès Belhanda,Morocco,28.0178514522438,0.06637160373760356,False,Right Foot,Open Play,0,0,1,Normal
+7577,Amine Harit,Morocco,18.867962264113206,0.06350331374493007,False,Right Foot,Open Play,0,0,3,Normal
+7577,Roozbeh Cheshmi,Iran,14.317821063276353,0.052794164583075114,False,Right Foot,Open Play,0,0,2,Normal
+7577,Alireza Jahanbakhsh,Iran,36.6742416417845,0.0663643857832215,False,Right Foot,Free Kick,0,0,0,Normal
+7577,Omid Ebrahimi,Iran,25.059928172283335,0.05828146776796858,False,Right Foot,Open Play,1,1,1,Normal
+7577,Sardar Azmoun,Iran,15.556349186104045,0.055089810737483536,False,Right Foot,Open Play,0,0,3,Normal
+7577,Alireza Jahanbakhsh,Iran,16.97056274847714,0.055018037838245354,False,Right Foot,Open Play,1,0,1,Volley
+7577,Ehsan Hajsafi,Iran,22.561028345356956,0.06622938553225047,False,Right Foot,Open Play,0,0,1,Normal
+7577,Ehsan Hajsafi,Iran,38.05259518088089,0.07071000099388615,False,Left Foot,Free Kick,0,0,0,Normal
+7577,Amine Harit,Morocco,12.806248474865697,0.060967023380698634,False,Right Foot,Open Play,1,0,2,Volley
+7577,Hakim Ziyech,Morocco,21.840329667841555,0.06612296148668041,False,Left Foot,Open Play,0,0,2,Half Volley
+7577,Romain Saïss,Morocco,6.082762530298219,0.05684693128876285,False,Head,Open Play,0,0,4,Normal
+7577,Hakim Ziyech,Morocco,25.079872407968907,0.05961853878235462,False,Left Foot,Open Play,0,0,0,Half Volley
+7577,Manuel Marouan da Costa Trinidade,Morocco,39.56008088970496,0.06437243803104592,False,Right Foot,Open Play,0,0,0,Normal

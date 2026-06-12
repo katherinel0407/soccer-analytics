@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.85178838358728,0.07471644035835796,False,Left Foot,Open Play,0,1,2,Normal
-17.21046193453273,0.055954949427767894,False,Right Foot,Open Play,0,0,1,Normal
-14.013208055259867,0.06118207914699657,False,Right Foot,Open Play,0,1,1,Normal
-10.940292500660117,0.059948478550628896,False,Head,Open Play,0,1,2,Normal
-17.15400827795067,0.05741458712392907,False,Right Foot,Open Play,0,1,1,Normal
-12.824975633505113,0.059633915935765974,False,Right Foot,Open Play,1,0,1,Normal
-20.129580224137808,0.06571425772793896,False,Right Foot,Open Play,1,0,0,Normal
-11.331813623599716,0.060433983571456205,False,Left Foot,Open Play,1,0,2,Half Volley
-7.52861208988748,0.05486175223156426,False,Head,Open Play,0,1,6,Normal
-11.55205609404663,0.058069474053354254,False,Head,Open Play,0,1,2,Normal
-7.849203781276161,0.05592598646517015,False,Head,Open Play,0,1,6,Normal
-21.48883430993874,0.05749773406790695,False,Right Foot,Open Play,1,0,0,Normal
-17.974426277353054,0.06439621308870676,False,Left Foot,Open Play,1,1,1,Half Volley
-27.937966998334,0.06996022467978244,False,Right Foot,Open Play,0,1,2,Normal
-30.07607022202203,0.06162255613683631,False,Right Foot,Open Play,1,1,1,Half Volley
-20.380628057054576,0.05639046072111268,False,Right Foot,Open Play,0,0,1,Normal
-22.87116088002531,0.06654805518946014,False,Right Foot,Free Kick,0,0,0,Normal
-4.026164427839484,0.05664598162193786,False,Head,Open Play,0,1,4,Normal
-25.133642792082483,0.06484150592345855,False,Left Foot,Open Play,0,0,1,Normal
-13.176494222667875,0.061581548182017394,False,Right Foot,Open Play,1,1,2,Half Volley
-9.087353850269064,0.05682552259085263,False,Head,Open Play,0,1,2,Normal
-19.91607391028664,0.06339202145791598,False,Left Foot,Open Play,1,0,2,Volley
-11.389907813498752,0.05538305716414225,False,Left Foot,Open Play,1,1,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890352,Jin-Su Kim,Hoffenheim,32.85178838358728,0.07471644035835796,False,Left Foot,Open Play,0,1,2,Normal
+3890352,Philipp Hosiner,FC Köln,17.21046193453273,0.055954949427767894,False,Right Foot,Open Play,0,0,1,Normal
+3890352,Kazuki Nagasawa,FC Köln,14.013208055259867,0.06118207914699657,False,Right Foot,Open Play,0,1,1,Normal
+3890352,Mark Uth,Hoffenheim,10.940292500660117,0.059948478550628896,False,Head,Open Play,0,1,2,Normal
+3890352,Mark Uth,Hoffenheim,17.15400827795067,0.05741458712392907,False,Right Foot,Open Play,0,1,1,Normal
+3890352,Eduardo Jesús Vargas Rojas,Hoffenheim,12.824975633505113,0.059633915935765974,False,Right Foot,Open Play,1,0,1,Normal
+3890352,Anthony Modeste,FC Köln,20.129580224137808,0.06571425772793896,False,Right Foot,Open Play,1,0,0,Normal
+3890352,Philipp Hosiner,FC Köln,11.331813623599716,0.060433983571456205,False,Left Foot,Open Play,1,0,2,Half Volley
+3890352,Pavel Kadeřábek,Hoffenheim,7.52861208988748,0.05486175223156426,False,Head,Open Play,0,1,6,Normal
+3890352,Anthony Modeste,FC Köln,11.55205609404663,0.058069474053354254,False,Head,Open Play,0,1,2,Normal
+3890352,Anthony Modeste,FC Köln,7.849203781276161,0.05592598646517015,False,Head,Open Play,0,1,6,Normal
+3890352,Jeremy Toljan,Hoffenheim,21.48883430993874,0.05749773406790695,False,Right Foot,Open Play,1,0,0,Normal
+3890352,Anthony Modeste,FC Köln,17.974426277353054,0.06439621308870676,False,Left Foot,Open Play,1,1,1,Half Volley
+3890352,Anthony Modeste,FC Köln,27.937966998334,0.06996022467978244,False,Right Foot,Open Play,0,1,2,Normal
+3890352,Sebastian Rudy,Hoffenheim,30.07607022202203,0.06162255613683631,False,Right Foot,Open Play,1,1,1,Half Volley
+3890352,Sebastian Rudy,Hoffenheim,20.380628057054576,0.05639046072111268,False,Right Foot,Open Play,0,0,1,Normal
+3890352,Jonathan Schmid,Hoffenheim,22.87116088002531,0.06654805518946014,False,Right Foot,Free Kick,0,0,0,Normal
+3890352,Kevin Kuranyi,Hoffenheim,4.026164427839484,0.05664598162193786,False,Head,Open Play,0,1,4,Normal
+3890352,Yūya Ōsako,FC Köln,25.133642792082483,0.06484150592345855,False,Left Foot,Open Play,0,0,1,Normal
+3890352,Dominik Maroh,FC Köln,13.176494222667875,0.061581548182017394,False,Right Foot,Open Play,1,1,2,Half Volley
+3890352,Anthony Modeste,FC Köln,9.087353850269064,0.05682552259085263,False,Head,Open Play,0,1,2,Normal
+3890352,Anthony Modeste,FC Köln,19.91607391028664,0.06339202145791598,False,Left Foot,Open Play,1,0,2,Volley
+3890352,Leonardo Bittencourt,FC Köln,11.389907813498752,0.05538305716414225,False,Left Foot,Open Play,1,1,2,Volley

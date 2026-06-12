@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.375451797391761,0.05922539888838532,False,Head,Open Play,0,0,1,Normal
-15.008331019803636,0.06257746177617982,False,Left Foot,Open Play,1,1,0,Half Volley
-10.623088063270487,0.05925207018617657,False,Head,Open Play,0,1,6,Normal
-34.13414712571562,0.0740074559240324,False,Right Foot,Open Play,0,0,2,Normal
-13.155227098001767,0.05827613853132927,True,Head,Open Play,0,1,2,Normal
-10.846197490364997,0.05874117469468768,False,Head,Open Play,0,1,2,Normal
-19.1049731745428,0.06483084575520397,False,Left Foot,Open Play,0,0,1,Normal
-33.74403651017465,0.07520974616628429,False,Left Foot,Open Play,1,0,0,Half Volley
-41.36496101775027,0.08168340686986682,False,Left Foot,Open Play,0,0,0,Normal
-32.39645042284726,0.057524961675508135,False,Left Foot,Open Play,0,0,1,Normal
-9.339164844888435,0.052904158652695925,False,Right Foot,Open Play,1,0,0,Volley
-15.015325504297268,0.062098476426411996,False,Right Foot,Open Play,1,0,1,Normal
-16.530275254816537,0.0635308579315743,False,Right Foot,Open Play,0,1,2,Half Volley
-16.362457028209423,0.058677341120267325,False,Left Foot,Open Play,1,0,2,Normal
-13.315404612703283,0.05276891685769783,False,Right Foot,Open Play,0,0,2,Normal
-34.1275548494175,0.06406262718836846,False,Right Foot,Free Kick,0,0,0,Normal
-7.84091831356506,0.05813305691344305,True,Head,Open Play,0,1,3,Normal
-7.550496672405073,0.0572250599991926,False,Head,Open Play,0,1,6,Normal
-30.07607022202203,0.06162255613683631,False,Right Foot,Open Play,1,0,0,Normal
-20.580087463370997,0.06597861521221092,False,Left Foot,Open Play,0,1,3,Normal
-22.32151428554971,0.05316129638245047,False,Left Foot,Open Play,0,1,1,Normal
-16.051479682571323,0.06296483270266026,False,Right Foot,Open Play,0,1,2,Normal
-14.449913494550751,0.061953538905677806,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900545,Alexandre Lacazette,Lyon,10.375451797391761,0.05922539888838532,False,Head,Open Play,0,0,1,Normal
+3900545,Arnold Mvuemba,Lyon,15.008331019803636,0.06257746177617982,False,Left Foot,Open Play,1,1,0,Half Volley
+3900545,Bakary Koné,Lyon,10.623088063270487,0.05925207018617657,False,Head,Open Play,0,1,6,Normal
+3900545,Arnold Mvuemba,Lyon,34.13414712571562,0.0740074559240324,False,Right Foot,Open Play,0,0,2,Normal
+3900545,Cheikh N''Doye,Angers,13.155227098001767,0.05827613853132927,True,Head,Open Play,0,1,2,Normal
+3900545,Cheikh N''Doye,Angers,10.846197490364997,0.05874117469468768,False,Head,Open Play,0,1,2,Normal
+3900545,Gilles Sunu,Angers,19.1049731745428,0.06483084575520397,False,Left Foot,Open Play,0,0,1,Normal
+3900545,Romain Saïss,Angers,33.74403651017465,0.07520974616628429,False,Left Foot,Open Play,1,0,0,Half Volley
+3900545,Henri Bedimo Nsamè,Lyon,41.36496101775027,0.08168340686986682,False,Left Foot,Open Play,0,0,0,Normal
+3900545,Abdoul Razzagui Camara,Angers,32.39645042284726,0.057524961675508135,False,Left Foot,Open Play,0,0,1,Normal
+3900545,Steed Malbranque,Lyon,9.339164844888435,0.052904158652695925,False,Right Foot,Open Play,1,0,0,Volley
+3900545,Mathieu Valbuena,Lyon,15.015325504297268,0.062098476426411996,False,Right Foot,Open Play,1,0,1,Normal
+3900545,Mathieu Valbuena,Lyon,16.530275254816537,0.0635308579315743,False,Right Foot,Open Play,0,1,2,Half Volley
+3900545,Alexandre Lacazette,Lyon,16.362457028209423,0.058677341120267325,False,Left Foot,Open Play,1,0,2,Normal
+3900545,Alexandre Lacazette,Lyon,13.315404612703283,0.05276891685769783,False,Right Foot,Open Play,0,0,2,Normal
+3900545,Clément Grenier,Lyon,34.1275548494175,0.06406262718836846,False,Right Foot,Free Kick,0,0,0,Normal
+3900545,Cheikh N''Doye,Angers,7.84091831356506,0.05813305691344305,True,Head,Open Play,0,1,3,Normal
+3900545,Jérémy Morel,Lyon,7.550496672405073,0.0572250599991926,False,Head,Open Play,0,1,6,Normal
+3900545,Cheikh N''Doye,Angers,30.07607022202203,0.06162255613683631,False,Right Foot,Open Play,1,0,0,Normal
+3900545,Billy Ketkeophomphone,Angers,20.580087463370997,0.06597861521221092,False,Left Foot,Open Play,0,1,3,Normal
+3900545,Gnaly Maxwell Cornet,Lyon,22.32151428554971,0.05316129638245047,False,Left Foot,Open Play,0,1,1,Normal
+3900545,Sergi Darder Moll,Lyon,16.051479682571323,0.06296483270266026,False,Right Foot,Open Play,0,1,2,Normal
+3900545,Pierrick Capelle,Angers,14.449913494550751,0.061953538905677806,False,Left Foot,Open Play,1,0,2,Normal

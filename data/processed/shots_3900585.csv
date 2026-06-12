@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.2150568266863,0.06893934342860243,False,Right Foot,Open Play,0,0,1,Normal
-38.19803659875727,0.06816345038599653,False,Right Foot,Open Play,0,0,1,Half Volley
-10.621205204683694,0.059840144716861055,False,Left Foot,Open Play,1,0,2,Volley
-13.179529581893282,0.061498852583800556,False,Head,Open Play,0,0,1,Normal
-39.37207131965501,0.0764084802574367,False,Right Foot,Free Kick,0,0,0,Normal
-8.956003573022965,0.0586477699241216,False,Head,Open Play,0,0,2,Normal
-17.8011235600453,0.06424825765578901,False,Right Foot,Open Play,0,0,2,Normal
-19.504102132628407,0.0653598206711975,False,Left Foot,Open Play,1,1,2,Normal
-16.36001222493431,0.05551985666417895,False,Right Foot,Open Play,0,0,2,Normal
-22.60199106273604,0.05806555534555238,False,Right Foot,Free Kick,0,0,0,Normal
-7.375635565834309,0.058327486885460716,False,Head,Open Play,0,1,5,Normal
-27.530528509274934,0.06298889015780185,False,Right Foot,Open Play,0,1,2,Normal
-9.247702417357507,0.05929562480557675,False,Head,Open Play,0,1,4,Normal
-8.246211251235318,0.058808054543908965,False,Head,Open Play,0,0,2,Normal
-18.236227680087786,0.06429086835552114,False,Right Foot,Open Play,1,0,3,Normal
-9.464142856064669,0.057509419984610226,False,Head,Open Play,0,1,5,Normal
-6.981403870282823,0.05808907343650599,True,Head,Open Play,0,0,1,Normal
-29.025850547399983,0.0641341205016823,False,Right Foot,Open Play,0,0,3,Normal
-19.200260414900626,0.06510457704023755,False,Right Foot,Open Play,0,0,4,Normal
-37.50693269250365,0.05717510189570024,False,Right Foot,Open Play,0,0,2,Half Volley
-38.74183785005559,0.08004616027152728,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900585,Óscar Guido Trejo,Toulouse,33.2150568266863,0.06893934342860243,False,Right Foot,Open Play,0,0,1,Normal
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,38.19803659875727,0.06816345038599653,False,Right Foot,Open Play,0,0,1,Half Volley
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,10.621205204683694,0.059840144716861055,False,Left Foot,Open Play,1,0,2,Volley
+3900585,Wissam Ben Yedder,Toulouse,13.179529581893282,0.061498852583800556,False,Head,Open Play,0,0,1,Normal
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,39.37207131965501,0.0764084802574367,False,Right Foot,Free Kick,0,0,0,Normal
+3900585,Wissam Ben Yedder,Toulouse,8.956003573022965,0.0586477699241216,False,Head,Open Play,0,0,2,Normal
+3900585,Martin Braithwaite Christensen,Toulouse,17.8011235600453,0.06424825765578901,False,Right Foot,Open Play,0,0,2,Normal
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,19.504102132628407,0.0653598206711975,False,Left Foot,Open Play,1,1,2,Normal
+3900585,Wissam Ben Yedder,Toulouse,16.36001222493431,0.05551985666417895,False,Right Foot,Open Play,0,0,2,Normal
+3900585,Wissam Ben Yedder,Toulouse,22.60199106273604,0.05806555534555238,False,Right Foot,Free Kick,0,0,0,Normal
+3900585,Thiago Motta,Paris Saint-Germain,7.375635565834309,0.058327486885460716,False,Head,Open Play,0,1,5,Normal
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,27.530528509274934,0.06298889015780185,False,Right Foot,Open Play,0,1,2,Normal
+3900585,Martin Braithwaite Christensen,Toulouse,9.247702417357507,0.05929562480557675,False,Head,Open Play,0,1,4,Normal
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,8.246211251235318,0.058808054543908965,False,Head,Open Play,0,0,2,Normal
+3900585,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,18.236227680087786,0.06429086835552114,False,Right Foot,Open Play,1,0,3,Normal
+3900585,David Luiz Moreira Marinho,Paris Saint-Germain,9.464142856064669,0.057509419984610226,False,Head,Open Play,0,1,5,Normal
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,6.981403870282823,0.05808907343650599,True,Head,Open Play,0,0,1,Normal
+3900585,Jean-Daniel Akpa Akpro,Toulouse,29.025850547399983,0.0641341205016823,False,Right Foot,Open Play,0,0,3,Normal
+3900585,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,19.200260414900626,0.06510457704023755,False,Right Foot,Open Play,0,0,4,Normal
+3900585,Jean-Daniel Akpa Akpro,Toulouse,37.50693269250365,0.05717510189570024,False,Right Foot,Open Play,0,0,2,Half Volley
+3900585,Zlatan Ibrahimović,Paris Saint-Germain,38.74183785005559,0.08004616027152728,False,Right Foot,Free Kick,0,0,0,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-4.438468204234432,0.054319201813601725,False,Head,Open Play,0,0,5,Normal
-17.85077029150283,0.0636006146288075,False,Right Foot,Open Play,0,0,2,Normal
-28.456985082752528,0.05703836440097462,False,Left Foot,Open Play,0,0,1,Normal
-21.69101196348386,0.06181419597064255,False,Right Foot,Open Play,1,0,0,Normal
-25.230140705116963,0.06708005224693524,False,Left Foot,Open Play,0,0,2,Normal
-14.092906016858274,0.054761380377219886,False,Head,Open Play,0,0,1,Normal
-5.81377674149945,0.054961521893209804,True,Head,Open Play,0,0,4,Normal
-19.20052082626927,0.06501997643920454,False,Right Foot,Open Play,0,0,1,Normal
-12.97998459167036,0.05394613271868274,False,Right Foot,Open Play,1,0,1,Normal
-10.962207806824322,0.06025085751156161,False,Left Foot,Open Play,1,0,1,Normal
-22.900218339570472,0.059469766974760564,False,Right Foot,Open Play,0,0,1,Normal
-13.591541487263315,0.061156376187030397,False,Left Foot,Open Play,0,0,1,Normal
-13.440610105199836,0.0583920949410185,False,Right Foot,Open Play,1,0,4,Normal
-18.856563843924476,0.06113412665062475,False,Left Foot,Open Play,0,0,1,Normal
-23.41836885865453,0.06209925602411897,False,Right Foot,Open Play,1,0,1,Half Volley
-24.79697562203907,0.057161690051117216,False,Left Foot,Open Play,0,0,2,Normal
-7.206247289678591,0.057538290233687464,True,Left Foot,Open Play,1,0,1,Normal
-10.088111815399351,0.05305889860246367,False,Left Foot,Open Play,1,1,2,Half Volley
-20.603883129157957,0.06354355257625896,False,Left Foot,Open Play,0,0,2,Normal
-18.52700731364891,0.06474270330679686,False,Right Foot,Open Play,0,0,3,Normal
-21.041863035387337,0.06628785778488538,False,Left Foot,Open Play,0,0,3,Normal
-14.042791745233572,0.056304791230859255,True,Left Foot,Open Play,1,0,3,Normal
-21.793806459634347,0.06511835265261304,False,Left Foot,Open Play,0,0,3,Normal
-27.35909355223597,0.06285368876011727,False,Left Foot,Free Kick,0,0,0,Normal
-15.400324671902206,0.06250301332716081,False,Right Foot,Open Play,0,0,3,Normal
-22.536193112413642,0.06732846996589545,True,Left Foot,Free Kick,0,0,0,Normal
-30.55912302406599,0.06922744953926378,False,Right Foot,Open Play,1,0,1,Normal
-5.869412236331673,0.05764539331857032,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303516,Gerard Piqué Bernabéu,Barcelona,4.438468204234432,0.054319201813601725,False,Head,Open Play,0,0,5,Normal
+303516,Fyodor Smolov,Celta Vigo,17.85077029150283,0.0636006146288075,False,Right Foot,Open Play,0,0,2,Normal
+303516,Lionel Andrés Messi Cuccittini,Barcelona,28.456985082752528,0.05703836440097462,False,Left Foot,Open Play,0,0,1,Normal
+303516,Ricard Puig Martí,Barcelona,21.69101196348386,0.06181419597064255,False,Right Foot,Open Play,1,0,0,Normal
+303516,Lionel Andrés Messi Cuccittini,Barcelona,25.230140705116963,0.06708005224693524,False,Left Foot,Open Play,0,0,2,Normal
+303516,Iago Aspas Juncal,Celta Vigo,14.092906016858274,0.054761380377219886,False,Head,Open Play,0,0,1,Normal
+303516,Luis Alberto Suárez Díaz,Barcelona,5.81377674149945,0.054961521893209804,True,Head,Open Play,0,0,4,Normal
+303516,Fyodor Smolov,Celta Vigo,19.20052082626927,0.06501997643920454,False,Right Foot,Open Play,0,0,1,Normal
+303516,Iago Aspas Juncal,Celta Vigo,12.97998459167036,0.05394613271868274,False,Right Foot,Open Play,1,0,1,Normal
+303516,Brais Méndez Portela,Celta Vigo,10.962207806824322,0.06025085751156161,False,Left Foot,Open Play,1,0,1,Normal
+303516,Arturo Erasmo Vidal Pardo,Barcelona,22.900218339570472,0.059469766974760564,False,Right Foot,Open Play,0,0,1,Normal
+303516,Anssumane Fati,Barcelona,13.591541487263315,0.061156376187030397,False,Left Foot,Open Play,0,0,1,Normal
+303516,Luis Alberto Suárez Díaz,Barcelona,13.440610105199836,0.0583920949410185,False,Right Foot,Open Play,1,0,4,Normal
+303516,Lionel Andrés Messi Cuccittini,Barcelona,18.856563843924476,0.06113412665062475,False,Left Foot,Open Play,0,0,1,Normal
+303516,Ricard Puig Martí,Barcelona,23.41836885865453,0.06209925602411897,False,Right Foot,Open Play,1,0,1,Half Volley
+303516,Nélson Cabral Semedo,Barcelona,24.79697562203907,0.057161690051117216,False,Left Foot,Open Play,0,0,2,Normal
+303516,Fyodor Smolov,Celta Vigo,7.206247289678591,0.057538290233687464,True,Left Foot,Open Play,1,0,1,Normal
+303516,Lionel Andrés Messi Cuccittini,Barcelona,10.088111815399351,0.05305889860246367,False,Left Foot,Open Play,1,1,2,Half Volley
+303516,Lionel Andrés Messi Cuccittini,Barcelona,20.603883129157957,0.06354355257625896,False,Left Foot,Open Play,0,0,2,Normal
+303516,Anssumane Fati,Barcelona,18.52700731364891,0.06474270330679686,False,Right Foot,Open Play,0,0,3,Normal
+303516,Lionel Andrés Messi Cuccittini,Barcelona,21.041863035387337,0.06628785778488538,False,Left Foot,Open Play,0,0,3,Normal
+303516,Luis Alberto Suárez Díaz,Barcelona,14.042791745233572,0.056304791230859255,True,Left Foot,Open Play,1,0,3,Normal
+303516,Rafael Alcântara do Nascimento,Celta Vigo,21.793806459634347,0.06511835265261304,False,Left Foot,Open Play,0,0,3,Normal
+303516,Lionel Andrés Messi Cuccittini,Barcelona,27.35909355223597,0.06285368876011727,False,Left Foot,Free Kick,0,0,0,Normal
+303516,Manuel Agudo Durán,Celta Vigo,15.400324671902206,0.06250301332716081,False,Right Foot,Open Play,0,0,3,Normal
+303516,Iago Aspas Juncal,Celta Vigo,22.536193112413642,0.06732846996589545,True,Left Foot,Free Kick,0,0,0,Normal
+303516,Ivan Rakitić,Barcelona,30.55912302406599,0.06922744953926378,False,Right Foot,Open Play,1,0,1,Normal
+303516,Manuel Agudo Durán,Celta Vigo,5.869412236331673,0.05764539331857032,False,Right Foot,Open Play,1,0,1,Normal

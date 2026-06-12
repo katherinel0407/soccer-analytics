@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.386136081297785,0.06037077868324511,False,Left Foot,Open Play,0,1,2,Normal
-6.48845127900334,0.05794915681046949,True,Right Foot,Open Play,1,1,4,Normal
-11.180339887498949,0.05226465915229071,False,Right Foot,Open Play,1,0,1,Normal
-23.170886905770356,0.05775790231770654,False,Right Foot,Open Play,0,0,1,Normal
-35.091024493451314,0.05772534967416413,False,Left Foot,Open Play,0,0,1,Normal
-23.46103152037438,0.06785876223969696,False,Right Foot,Open Play,1,0,2,Normal
-10.783784122468328,0.05896018709959435,True,Left Foot,Open Play,0,0,0,Normal
-25.38109532703425,0.06801671798418261,False,Right Foot,Open Play,0,1,2,Normal
-22.5399645075142,0.05849715012194745,False,Left Foot,Open Play,0,0,2,Normal
-27.35415873317986,0.06999146547798292,False,Right Foot,Open Play,0,0,0,Normal
-26.66083269517289,0.06528545340917412,False,Right Foot,Open Play,0,0,1,Normal
-29.908025678737133,0.07074493962791667,False,Right Foot,Open Play,0,0,0,Normal
-12.872451204024822,0.06119784962995253,False,Right Foot,Open Play,0,0,2,Normal
-6.38122245341753,0.05795102863410062,False,Head,Open Play,0,0,2,Normal
-16.043067038443738,0.05436524654228572,False,Right Foot,Open Play,0,0,1,Normal
-32.37854227725517,0.0745290288974728,False,Right Foot,Free Kick,0,0,0,Normal
-5.080354318352216,0.05716941055198043,True,Left Foot,Open Play,1,0,2,Normal
-18.133946068079062,0.06308665516362555,False,Left Foot,Open Play,1,0,1,Half Volley
-11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
-9.417536832951596,0.05947498117323135,False,Head,Open Play,0,0,2,Normal
-7.077428911688197,0.05822624522469544,False,Head,Open Play,0,0,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275140,Leah Galton,Manchester United W,18.386136081297785,0.06037077868324511,False,Left Foot,Open Play,0,1,2,Normal
+2275140,Lauren James,Manchester United W,6.48845127900334,0.05794915681046949,True,Right Foot,Open Play,1,1,4,Normal
+2275140,Lauren James,Manchester United W,11.180339887498949,0.05226465915229071,False,Right Foot,Open Play,1,0,1,Normal
+2275140,Amy Turner,Manchester United W,23.170886905770356,0.05775790231770654,False,Right Foot,Open Play,0,0,1,Normal
+2275140,Kirsty Hanson,Manchester United W,35.091024493451314,0.05772534967416413,False,Left Foot,Open Play,0,0,1,Normal
+2275140,Katie Zelem,Manchester United W,23.46103152037438,0.06785876223969696,False,Right Foot,Open Play,1,0,2,Normal
+2275140,Leah Galton,Manchester United W,10.783784122468328,0.05896018709959435,True,Left Foot,Open Play,0,0,0,Normal
+2275140,Martha Harris,Manchester United W,25.38109532703425,0.06801671798418261,False,Right Foot,Open Play,0,1,2,Normal
+2275140,Kirsty Hanson,Manchester United W,22.5399645075142,0.05849715012194745,False,Left Foot,Open Play,0,0,2,Normal
+2275140,Hayley Ladd,Manchester United W,27.35415873317986,0.06999146547798292,False,Right Foot,Open Play,0,0,0,Normal
+2275140,Hayley Ladd,Manchester United W,26.66083269517289,0.06528545340917412,False,Right Foot,Open Play,0,0,1,Normal
+2275140,Aileen Whelan,Brighton & Hove Albion WFC,29.908025678737133,0.07074493962791667,False,Right Foot,Open Play,0,0,0,Normal
+2275140,Lauren James,Manchester United W,12.872451204024822,0.06119784962995253,False,Right Foot,Open Play,0,0,2,Normal
+2275140,Millie Turner,Manchester United W,6.38122245341753,0.05795102863410062,False,Head,Open Play,0,0,2,Normal
+2275140,Lauren James,Manchester United W,16.043067038443738,0.05436524654228572,False,Right Foot,Open Play,0,0,1,Normal
+2275140,Léa Le Garrec,Brighton & Hove Albion WFC,32.37854227725517,0.0745290288974728,False,Right Foot,Free Kick,0,0,0,Normal
+2275140,Leah Galton,Manchester United W,5.080354318352216,0.05716941055198043,True,Left Foot,Open Play,1,0,2,Normal
+2275140,Kirsty Hanson,Manchester United W,18.133946068079062,0.06308665516362555,False,Left Foot,Open Play,1,0,1,Half Volley
+2275140,Katie Zelem,Manchester United W,11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
+2275140,Jessica Sigsworth,Manchester United W,9.417536832951596,0.05947498117323135,False,Head,Open Play,0,0,2,Normal
+2275140,Millie Turner,Manchester United W,7.077428911688197,0.05822624522469544,False,Head,Open Play,0,0,5,Normal

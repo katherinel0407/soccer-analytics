@@ -1,13 +1,13 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.510423220350585,0.0643889868636672,False,Left Foot,Open Play,1,1,2,Normal
-36.444615514503646,0.06775169382387072,True,Left Foot,Open Play,1,0,0,Lob
-33.23853185686757,0.07051628553129947,False,Right Foot,Free Kick,0,0,0,Normal
-15.423683088030561,0.05682515044085576,False,Left Foot,Open Play,0,0,2,Half Volley
-8.420213774008356,0.05899606992601729,False,Right Foot,Open Play,1,0,2,Half Volley
-26.5,0.05745208683918683,False,Left Foot,Open Play,0,0,3,Normal
-18.110770276274838,0.05466265961053384,True,Right Foot,Open Play,0,0,2,Half Volley
-13.418271125595869,0.061633638507514986,False,Right Foot,Open Play,1,0,2,Normal
-14.803040228277437,0.057531204671462596,False,Right Foot,Open Play,1,0,2,Volley
-14.948244044034073,0.06036089172975396,False,Left Foot,Open Play,1,0,2,Volley
-8.132035415564786,0.05861105155762573,False,Head,Open Play,0,1,5,Normal
-2.0000000000000027,0.0548774288003382,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857276,Mark Anthony Kaye,Canada,23.510423220350585,0.0643889868636672,False,Left Foot,Open Play,1,1,2,Normal
+3857276,Hakim Ziyech,Morocco,36.444615514503646,0.06775169382387072,True,Left Foot,Open Play,1,0,0,Lob
+3857276,Abdelhamid Sabiri,Morocco,33.23853185686757,0.07051628553129947,False,Right Foot,Free Kick,0,0,0,Normal
+3857276,Sofiane Boufal,Morocco,15.423683088030561,0.05682515044085576,False,Left Foot,Open Play,0,0,2,Half Volley
+3857276,Tajon Buchanan,Canada,8.420213774008356,0.05899606992601729,False,Right Foot,Open Play,1,0,2,Half Volley
+3857276,Hakim Ziyech,Morocco,26.5,0.05745208683918683,False,Left Foot,Open Play,0,0,3,Normal
+3857276,Youssef En-Nesyri,Morocco,18.110770276274838,0.05466265961053384,True,Right Foot,Open Play,0,0,2,Half Volley
+3857276,Abdelhamid Sabiri,Morocco,13.418271125595869,0.061633638507514986,False,Right Foot,Open Play,1,0,2,Normal
+3857276,Youssef En-Nesyri,Morocco,14.803040228277437,0.057531204671462596,False,Right Foot,Open Play,1,0,2,Volley
+3857276,Alphonso Davies,Canada,14.948244044034073,0.06036089172975396,False,Left Foot,Open Play,1,0,2,Volley
+3857276,Atiba Hutchinson,Canada,8.132035415564786,0.05861105155762573,False,Head,Open Play,0,1,5,Normal
+3857276,Alistair Johnston,Canada,2.0000000000000027,0.0548774288003382,False,Head,Open Play,0,1,4,Normal

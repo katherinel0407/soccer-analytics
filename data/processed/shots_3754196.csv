@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.081458819698334,0.07377433097533044,False,Left Foot,Open Play,0,0,0,Normal
-13.370115930686616,0.05639379104633681,False,Right Foot,Open Play,1,0,1,Half Volley
-14.803377992877165,0.06243355778310354,False,Head,Open Play,0,1,2,Normal
-7.507329751649385,0.058412258193763264,True,Head,Open Play,0,1,4,Normal
-19.833809518093094,0.052768291747641916,False,Right Foot,Open Play,1,0,1,Normal
-13.283448347473627,0.0592337540387914,False,Head,Open Play,0,1,1,Normal
-20.865521800328892,0.06564746854751341,True,Right Foot,Open Play,1,1,1,Normal
-29.976657585528116,0.07265813643039173,False,Right Foot,Free Kick,0,0,0,Normal
-31.004031995854998,0.07222414858559238,False,Left Foot,Open Play,1,0,1,Normal
-33.275967303746405,0.07363950213238564,False,Left Foot,Open Play,0,0,0,Normal
-24.871268564349506,0.060378554288310446,False,Right Foot,Open Play,0,0,1,Normal
-7.707788269017253,0.058568670993043415,True,Right Foot,Open Play,1,1,2,Half Volley
-34.03307215048327,0.07089400127456731,False,Right Foot,Open Play,1,0,1,Half Volley
-33.13502678435616,0.07210940889915726,False,Left Foot,Open Play,0,0,1,Normal
-18.976037521042166,0.06490708281396597,False,Left Foot,Open Play,1,0,1,Normal
-32.04886893480018,0.0732352850443026,False,Right Foot,Open Play,0,0,1,Normal
-25.106572844575982,0.063053197739728,False,Right Foot,Open Play,0,0,1,Normal
-12.52836781069266,0.06085160858265397,False,Left Foot,Open Play,0,1,1,Normal
-9.518928511129806,0.056301538513539764,False,Head,Open Play,0,1,3,Normal
-21.25111761766896,0.060791369689975075,False,Right Foot,Open Play,0,0,1,Volley
-18.574444810007115,0.06445655510314097,False,Left Foot,Open Play,1,0,1,Half Volley
-18.89576672167605,0.05529357479129012,False,Left Foot,Open Play,0,0,1,Normal
-21.47673159491453,0.06150365190358611,False,Left Foot,Open Play,0,0,1,Normal
-31.2846607780874,0.06717890478978425,False,Right Foot,Free Kick,0,0,0,Normal
-26.690822392725188,0.06950399808982045,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754196,Gilbert Gianelli Imbula Wanga,Stoke City,32.081458819698334,0.07377433097533044,False,Left Foot,Open Play,0,0,0,Normal
+3754196,Ibrahim Afellay,Stoke City,13.370115930686616,0.05639379104633681,False,Right Foot,Open Play,1,0,1,Half Volley
+3754196,Graziano Pellè,Southampton,14.803377992877165,0.06243355778310354,False,Head,Open Play,0,1,2,Normal
+3754196,Graziano Pellè,Southampton,7.507329751649385,0.058412258193763264,True,Head,Open Play,0,1,4,Normal
+3754196,Shane Long,Southampton,19.833809518093094,0.052768291747641916,False,Right Foot,Open Play,1,0,1,Normal
+3754196,Mame Biram Diouf,Stoke City,13.283448347473627,0.0592337540387914,False,Head,Open Play,0,1,1,Normal
+3754196,Graziano Pellè,Southampton,20.865521800328892,0.06564746854751341,True,Right Foot,Open Play,1,1,1,Normal
+3754196,Marko Arnautović,Stoke City,29.976657585528116,0.07265813643039173,False,Right Foot,Free Kick,0,0,0,Normal
+3754196,Oriol Romeu Vidal,Southampton,31.004031995854998,0.07222414858559238,False,Left Foot,Open Play,1,0,1,Normal
+3754196,Philipp Wollscheid,Stoke City,33.275967303746405,0.07363950213238564,False,Left Foot,Open Play,0,0,0,Normal
+3754196,Bojan Krkíc Pérez,Stoke City,24.871268564349506,0.060378554288310446,False,Right Foot,Open Play,0,0,1,Normal
+3754196,Marko Arnautović,Stoke City,7.707788269017253,0.058568670993043415,True,Right Foot,Open Play,1,1,2,Half Volley
+3754196,Graziano Pellè,Southampton,34.03307215048327,0.07089400127456731,False,Right Foot,Open Play,1,0,1,Half Volley
+3754196,Gilbert Gianelli Imbula Wanga,Stoke City,33.13502678435616,0.07210940889915726,False,Left Foot,Open Play,0,0,1,Normal
+3754196,Marko Arnautović,Stoke City,18.976037521042166,0.06490708281396597,False,Left Foot,Open Play,1,0,1,Normal
+3754196,Ibrahim Afellay,Stoke City,32.04886893480018,0.0732352850443026,False,Right Foot,Open Play,0,0,1,Normal
+3754196,Ibrahim Afellay,Stoke City,25.106572844575982,0.063053197739728,False,Right Foot,Open Play,0,0,1,Normal
+3754196,Mame Biram Diouf,Stoke City,12.52836781069266,0.06085160858265397,False,Left Foot,Open Play,0,1,1,Normal
+3754196,Mame Biram Diouf,Stoke City,9.518928511129806,0.056301538513539764,False,Head,Open Play,0,1,3,Normal
+3754196,Geoff Cameron,Stoke City,21.25111761766896,0.060791369689975075,False,Right Foot,Open Play,0,0,1,Volley
+3754196,Jordy Clasie,Southampton,18.574444810007115,0.06445655510314097,False,Left Foot,Open Play,1,0,1,Half Volley
+3754196,Dušan Tadić,Southampton,18.89576672167605,0.05529357479129012,False,Left Foot,Open Play,0,0,1,Normal
+3754196,Dušan Tadić,Southampton,21.47673159491453,0.06150365190358611,False,Left Foot,Open Play,0,0,1,Normal
+3754196,James Ward-Prowse,Southampton,31.2846607780874,0.06717890478978425,False,Right Foot,Free Kick,0,0,0,Normal
+3754196,James Ward-Prowse,Southampton,26.690822392725188,0.06950399808982045,False,Right Foot,Free Kick,0,0,0,Normal

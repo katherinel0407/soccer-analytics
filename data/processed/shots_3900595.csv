@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.807753438292639,0.05699015369035792,False,Head,Open Play,0,1,3,Normal
-22.86328935214703,0.06359288957986874,False,Right Foot,Open Play,0,0,1,Normal
-8.000624975587838,0.05696954799309894,True,Right Foot,Open Play,1,0,1,Normal
-16.758579892103025,0.06063468656987583,False,Head,Open Play,0,0,1,Normal
-14.787156589419077,0.053880643441997944,True,Right Foot,Open Play,0,0,3,Normal
-10.973149046650198,0.06010837104255878,False,Head,Open Play,0,0,3,Normal
-22.294842452908252,0.06104988954869009,False,Right Foot,Open Play,1,1,3,Normal
-14.128694207179935,0.06013979446024375,True,Right Foot,Open Play,1,1,2,Volley
-10.154801819828878,0.059915293691534935,False,Head,Open Play,0,0,2,Normal
-9.741663102366049,0.059696039249969315,False,Head,Open Play,0,0,3,Normal
-13.324038426843414,0.05117253853586208,False,Left Foot,Open Play,0,1,2,Normal
-32.32104577516019,0.07412506004405299,False,Left Foot,Open Play,0,0,1,Normal
-27.929196193231196,0.07074009039887932,False,Right Foot,Free Kick,0,0,0,Normal
-24.30740627874558,0.06835131761542988,False,Left Foot,Open Play,1,0,0,Half Volley
-32.39753077010654,0.07450805265721402,False,Left Foot,Open Play,0,0,4,Normal
-26.403787607083952,0.05699939360368768,False,Right Foot,Open Play,0,0,2,Normal
-13.04185569618066,0.05899972219154136,False,Right Foot,Open Play,1,0,2,Half Volley
-15.289538907370614,0.06182411184479612,False,Left Foot,Open Play,1,0,5,Normal
-26.285547359718425,0.05583166014392765,False,Left Foot,Open Play,0,0,2,Normal
-17.380736463107656,0.06080309221458832,False,Right Foot,Open Play,0,1,3,Half Volley
-13.172699040060095,0.05691559268593628,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900595,Didier Ndong Ibrahim,Lorient,5.807753438292639,0.05699015369035792,False,Head,Open Play,0,1,3,Normal
+3900595,Vincent Koziello,OGC Nice,22.86328935214703,0.06359288957986874,False,Right Foot,Open Play,0,0,1,Normal
+3900595,Yann Jouffre,Lorient,8.000624975587838,0.05696954799309894,True,Right Foot,Open Play,1,0,1,Normal
+3900595,Vincent Koziello,OGC Nice,16.758579892103025,0.06063468656987583,False,Head,Open Play,0,0,1,Normal
+3900595,Hatem Ben Arfa,OGC Nice,14.787156589419077,0.053880643441997944,True,Right Foot,Open Play,0,0,3,Normal
+3900595,Benjamin Jeannot,Lorient,10.973149046650198,0.06010837104255878,False,Head,Open Play,0,0,3,Normal
+3900595,Benjamin Jeannot,Lorient,22.294842452908252,0.06104988954869009,False,Right Foot,Open Play,1,1,3,Normal
+3900595,Vincent Koziello,OGC Nice,14.128694207179935,0.06013979446024375,True,Right Foot,Open Play,1,1,2,Volley
+3900595,Zargo Touré,Lorient,10.154801819828878,0.059915293691534935,False,Head,Open Play,0,0,2,Normal
+3900595,Lamine Koné,Lorient,9.741663102366049,0.059696039249969315,False,Head,Open Play,0,0,3,Normal
+3900595,Hatem Ben Arfa,OGC Nice,13.324038426843414,0.05117253853586208,False,Left Foot,Open Play,0,1,2,Normal
+3900595,Raphaël Adelino José Guerreiro,Lorient,32.32104577516019,0.07412506004405299,False,Left Foot,Open Play,0,0,1,Normal
+3900595,Jean Michaël Seri,OGC Nice,27.929196193231196,0.07074009039887932,False,Right Foot,Free Kick,0,0,0,Normal
+3900595,Walid Mesloub,Lorient,24.30740627874558,0.06835131761542988,False,Left Foot,Open Play,1,0,0,Half Volley
+3900595,Raphaël Adelino José Guerreiro,Lorient,32.39753077010654,0.07450805265721402,False,Left Foot,Open Play,0,0,4,Normal
+3900595,Hatem Ben Arfa,OGC Nice,26.403787607083952,0.05699939360368768,False,Right Foot,Open Play,0,0,2,Normal
+3900595,Hatem Ben Arfa,OGC Nice,13.04185569618066,0.05899972219154136,False,Right Foot,Open Play,1,0,2,Half Volley
+3900595,Didier Ndong Ibrahim,Lorient,15.289538907370614,0.06182411184479612,False,Left Foot,Open Play,1,0,5,Normal
+3900595,Yann Jouffre,Lorient,26.285547359718425,0.05583166014392765,False,Left Foot,Open Play,0,0,2,Normal
+3900595,Maxime Barthelmé,Lorient,17.380736463107656,0.06080309221458832,False,Right Foot,Open Play,0,1,3,Half Volley
+3900595,Benjamin Jeannot,Lorient,13.172699040060095,0.05691559268593628,False,Head,Open Play,0,1,3,Normal

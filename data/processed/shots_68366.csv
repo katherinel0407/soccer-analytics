@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.98569967862919,0.057980511741036106,False,Head,Open Play,0,1,3,Normal
-14.51688671857709,0.06149838064196577,False,Left Foot,Open Play,0,0,2,Volley
-35.13303288929095,0.0625993975294807,False,Right Foot,Open Play,0,1,1,Normal
-19.337269714207327,0.06328283423441762,False,Left Foot,Open Play,0,0,2,Normal
-11.43547113152755,0.051805895824520914,False,Right Foot,Open Play,0,0,1,Normal
-33.70830758136635,0.07559816480385954,False,Right Foot,Open Play,0,0,1,Normal
-23.96038397021216,0.06794816087675347,True,Right Foot,Open Play,1,0,1,Normal
-35.9489916409348,0.07512703559598094,False,Right Foot,Free Kick,0,0,0,Normal
-12.998846102635419,0.05966184938448768,False,Right Foot,Open Play,0,0,1,Lob
-28.994482233694054,0.05393089872656574,False,Right Foot,Free Kick,0,0,0,Normal
-29.34706118165838,0.07095313052965266,False,Left Foot,Open Play,0,0,2,Normal
-27.89928314491253,0.07001952287109231,False,Left Foot,Open Play,1,1,2,Half Volley
-27.012959852633703,0.0694659733453333,False,Right Foot,Free Kick,0,0,0,Normal
-11.649892703368556,0.060730965269158825,False,Head,Open Play,0,0,2,Normal
-31.82153358969363,0.07395055448404571,False,Right Foot,Open Play,0,0,1,Normal
-16.21110730332756,0.054218809114191614,False,Right Foot,Open Play,1,0,3,Normal
-37.540511450964544,0.06068911043663668,False,Left Foot,Open Play,0,0,1,Normal
-31.87804887379401,0.06434909279352298,False,Right Foot,Open Play,0,0,2,Normal
-27.56755339162327,0.07069010230798295,False,Right Foot,Free Kick,0,0,0,Normal
-15.592947123619705,0.06041629811276795,False,Left Foot,Open Play,1,0,1,Volley
-5.346026561849461,0.05710360672303551,True,Right Foot,Open Play,1,0,2,Normal
-29.040833321376994,0.05970504416552779,False,Right Foot,Open Play,0,0,2,Normal
-25.46723385057749,0.06932761240837534,True,Right Foot,Open Play,0,0,0,Normal
-18.906083676954353,0.06338150763416646,False,Left Foot,Open Play,0,1,2,Normal
-24.328172968803067,0.05415378264810799,True,Right Foot,Open Play,1,0,1,Volley
-16.479381056338255,0.05522410254690324,False,Left Foot,Open Play,1,0,1,Normal
-22.165062598603235,0.0667462179158091,False,Right Foot,Open Play,1,1,1,Volley
-11.738824472663355,0.06031323661190151,False,Left Foot,Open Play,0,0,4,Normal
-25.102390324429262,0.06834632054140055,False,Right Foot,Free Kick,0,0,0,Normal
-27.94852411130147,0.06896592430027174,False,Left Foot,Open Play,1,0,1,Normal
-12.293087488503453,0.05766786286853147,True,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68366,Pierre Achille Webó Kouamo,Mallorca,6.98569967862919,0.057980511741036106,False,Head,Open Play,0,1,3,Normal
+68366,Pierre Achille Webó Kouamo,Mallorca,14.51688671857709,0.06149838064196577,False,Left Foot,Open Play,0,0,2,Volley
+68366,Gnégnéri Yaya Touré,Barcelona,35.13303288929095,0.0625993975294807,False,Right Foot,Open Play,0,1,1,Normal
+68366,Lionel Andrés Messi Cuccittini,Barcelona,19.337269714207327,0.06328283423441762,False,Left Foot,Open Play,0,0,2,Normal
+68366,Samuel Eto''o Fils,Barcelona,11.43547113152755,0.051805895824520914,False,Right Foot,Open Play,0,0,1,Normal
+68366,Fernando Varela Ramos,Mallorca,33.70830758136635,0.07559816480385954,False,Right Foot,Open Play,0,0,1,Normal
+68366,Thierry Henry,Barcelona,23.96038397021216,0.06794816087675347,True,Right Foot,Open Play,1,0,1,Normal
+68366,Gnégnéri Yaya Touré,Barcelona,35.9489916409348,0.07512703559598094,False,Right Foot,Free Kick,0,0,0,Normal
+68366,Thierry Henry,Barcelona,12.998846102635419,0.05966184938448768,False,Right Foot,Open Play,0,0,1,Lob
+68366,Anderson Luís de Souza,Barcelona,28.994482233694054,0.05393089872656574,False,Right Foot,Free Kick,0,0,0,Normal
+68366,Fernando Navarro i Corbacho,Mallorca,29.34706118165838,0.07095313052965266,False,Left Foot,Open Play,0,0,2,Normal
+68366,Fernando Varela Ramos,Mallorca,27.89928314491253,0.07001952287109231,False,Left Foot,Open Play,1,1,2,Half Volley
+68366,Borja Valero Iglesias,Mallorca,27.012959852633703,0.0694659733453333,False,Right Foot,Free Kick,0,0,0,Normal
+68366,José Carlos de Araújo Nunes,Mallorca,11.649892703368556,0.060730965269158825,False,Head,Open Play,0,0,2,Normal
+68366,Fernando Varela Ramos,Mallorca,31.82153358969363,0.07395055448404571,False,Right Foot,Open Play,0,0,1,Normal
+68366,Héctor Berenguel del Piño,Mallorca,16.21110730332756,0.054218809114191614,False,Right Foot,Open Play,1,0,3,Normal
+68366,Juan Fernando Arango Sáenz,Mallorca,37.540511450964544,0.06068911043663668,False,Left Foot,Open Play,0,0,1,Normal
+68366,Daniel González Güiza,Mallorca,31.87804887379401,0.06434909279352298,False,Right Foot,Open Play,0,0,2,Normal
+68366,Samuel Eto''o Fils,Barcelona,27.56755339162327,0.07069010230798295,False,Right Foot,Free Kick,0,0,0,Normal
+68366,Lionel Andrés Messi Cuccittini,Barcelona,15.592947123619705,0.06041629811276795,False,Left Foot,Open Play,1,0,1,Volley
+68366,Samuel Eto''o Fils,Barcelona,5.346026561849461,0.05710360672303551,True,Right Foot,Open Play,1,0,2,Normal
+68366,Pierre Achille Webó Kouamo,Mallorca,29.040833321376994,0.05970504416552779,False,Right Foot,Open Play,0,0,2,Normal
+68366,Angelos Basinas,Mallorca,25.46723385057749,0.06932761240837534,True,Right Foot,Open Play,0,0,0,Normal
+68366,Juan Fernando Arango Sáenz,Mallorca,18.906083676954353,0.06338150763416646,False,Left Foot,Open Play,0,1,2,Normal
+68366,Pierre Achille Webó Kouamo,Mallorca,24.328172968803067,0.05415378264810799,True,Right Foot,Open Play,1,0,1,Volley
+68366,Fernando Varela Ramos,Mallorca,16.479381056338255,0.05522410254690324,False,Left Foot,Open Play,1,0,1,Normal
+68366,Daniel González Güiza,Mallorca,22.165062598603235,0.0667462179158091,False,Right Foot,Open Play,1,1,1,Volley
+68366,Samuel Eto''o Fils,Barcelona,11.738824472663355,0.06031323661190151,False,Left Foot,Open Play,0,0,4,Normal
+68366,Ariel Miguel Santiago Ibagaza,Mallorca,25.102390324429262,0.06834632054140055,False,Right Foot,Free Kick,0,0,0,Normal
+68366,Samuel Eto''o Fils,Barcelona,27.94852411130147,0.06896592430027174,False,Left Foot,Open Play,1,0,1,Normal
+68366,Daniel González Güiza,Mallorca,12.293087488503453,0.05766786286853147,True,Right Foot,Open Play,0,0,3,Normal

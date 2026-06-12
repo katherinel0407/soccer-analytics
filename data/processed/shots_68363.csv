@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.242969581832472,0.06321102718848627,False,Left Foot,Open Play,0,1,2,Normal
-41.642526340269036,0.08290156220986551,False,Left Foot,Open Play,0,0,0,Normal
-27.486905973572213,0.06820036657062778,False,Right Foot,Open Play,0,0,2,Normal
-15.546703830716009,0.059453098371016845,False,Head,Open Play,0,1,2,Normal
-11.573245007343443,0.0584029491681986,False,Right Foot,Open Play,1,1,1,Normal
-8.832326986700616,0.05734734390714513,True,Right Foot,Open Play,1,0,2,Half Volley
-22.30022421411946,0.06576088437407615,False,Left Foot,Open Play,1,1,1,Normal
-28.56081231337792,0.07119854524273797,False,Right Foot,Open Play,0,0,2,Normal
-27.182531155137113,0.05770257797224199,False,Right Foot,Open Play,0,0,2,Normal
-32.64506088216103,0.07417622946366074,False,Left Foot,Open Play,0,0,2,Normal
-29.881432361919998,0.07256949008446958,False,Right Foot,Open Play,0,0,3,Normal
-24.9098374141623,0.06887485287004476,False,Right Foot,Open Play,0,0,2,Normal
-13.313526955694348,0.05643168208205089,True,Right Foot,Open Play,0,0,2,Normal
-23.259406699226016,0.0677020245781753,False,Right Foot,Open Play,1,1,3,Half Volley
-23.482759633399137,0.06719831651274419,False,Right Foot,Open Play,0,0,2,Normal
-18.15736765062601,0.06443507292366255,False,Right Foot,Open Play,0,0,3,Normal
-5.239274758971897,0.056709785010254934,False,Head,Open Play,0,0,2,Normal
-27.5530397597071,0.07033051574071436,False,Left Foot,Open Play,1,0,1,Normal
-34.48187929913333,0.06728910133907257,False,Right Foot,Open Play,0,1,1,Normal
-40.96449682346898,0.061368108773072895,False,Right Foot,Open Play,0,0,0,Normal
-33.46460817042387,0.07205647152305096,False,Right Foot,Free Kick,0,0,0,Normal
-11.034491379306978,0.060296335582484026,False,Head,Open Play,0,0,1,Normal
-24.38216561341506,0.06605897516421216,False,Right Foot,Open Play,1,0,1,Volley
-32.429924452579286,0.07078307525000858,False,Right Foot,Free Kick,0,0,0,Normal
-16.824387061643588,0.05903105987453091,False,Right Foot,Open Play,0,0,2,Normal
-15.474172029546526,0.062056344314315066,False,Left Foot,Open Play,0,1,3,Normal
-16.28895331198417,0.06205793446085084,False,Right Foot,Open Play,1,0,4,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68363,Jonathan Sesma González,Real Valladolid,17.242969581832472,0.06321102718848627,False,Left Foot,Open Play,0,1,2,Normal
+68363,Sylvio Mendes Campos Junior,Barcelona,41.642526340269036,0.08290156220986551,False,Left Foot,Open Play,0,0,0,Normal
+68363,Sisinio González Martínez,Real Valladolid,27.486905973572213,0.06820036657062778,False,Right Foot,Open Play,0,0,2,Normal
+68363,Rafael López Gómez,Real Valladolid,15.546703830716009,0.059453098371016845,False,Head,Open Play,0,1,2,Normal
+68363,Joseba Llorente Etxarri,Real Valladolid,11.573245007343443,0.0584029491681986,False,Right Foot,Open Play,1,1,1,Normal
+68363,Joseba Llorente Etxarri,Real Valladolid,8.832326986700616,0.05734734390714513,True,Right Foot,Open Play,1,0,2,Half Volley
+68363,Joseba Llorente Etxarri,Real Valladolid,22.30022421411946,0.06576088437407615,False,Left Foot,Open Play,1,1,1,Normal
+68363,Jonathan Sesma González,Real Valladolid,28.56081231337792,0.07119854524273797,False,Right Foot,Open Play,0,0,2,Normal
+68363,Xavier Hernández Creus,Barcelona,27.182531155137113,0.05770257797224199,False,Right Foot,Open Play,0,0,2,Normal
+68363,Sylvio Mendes Campos Junior,Barcelona,32.64506088216103,0.07417622946366074,False,Left Foot,Open Play,0,0,2,Normal
+68363,Ronaldo de Assis Moreira,Barcelona,29.881432361919998,0.07256949008446958,False,Right Foot,Open Play,0,0,3,Normal
+68363,Bojan Krkíc Pérez,Barcelona,24.9098374141623,0.06887485287004476,False,Right Foot,Open Play,0,0,2,Normal
+68363,Ronaldo de Assis Moreira,Barcelona,13.313526955694348,0.05643168208205089,True,Right Foot,Open Play,0,0,2,Normal
+68363,Joseba Llorente Etxarri,Real Valladolid,23.259406699226016,0.0677020245781753,False,Right Foot,Open Play,1,1,3,Half Volley
+68363,Bojan Krkíc Pérez,Barcelona,23.482759633399137,0.06719831651274419,False,Right Foot,Open Play,0,0,2,Normal
+68363,Bojan Krkíc Pérez,Barcelona,18.15736765062601,0.06443507292366255,False,Right Foot,Open Play,0,0,3,Normal
+68363,Jonathan Sesma González,Real Valladolid,5.239274758971897,0.056709785010254934,False,Head,Open Play,0,0,2,Normal
+68363,Andrés Iniesta Luján,Barcelona,27.5530397597071,0.07033051574071436,False,Left Foot,Open Play,1,0,1,Normal
+68363,Álvaro Rubio Robles,Real Valladolid,34.48187929913333,0.06728910133907257,False,Right Foot,Open Play,0,1,1,Normal
+68363,"Daniel Armand N""Gom Komé",Real Valladolid,40.96449682346898,0.061368108773072895,False,Right Foot,Open Play,0,0,0,Normal
+68363,Ronaldo de Assis Moreira,Barcelona,33.46460817042387,0.07205647152305096,False,Right Foot,Free Kick,0,0,0,Normal
+68363,Eiður Smári Guðjohnsen,Barcelona,11.034491379306978,0.060296335582484026,False,Head,Open Play,0,0,1,Normal
+68363,José Antonio García Calvo,Real Valladolid,24.38216561341506,0.06605897516421216,False,Right Foot,Open Play,1,0,1,Volley
+68363,Ronaldo de Assis Moreira,Barcelona,32.429924452579286,0.07078307525000858,False,Right Foot,Free Kick,0,0,0,Normal
+68363,Ángel Manuel Vivar Dorado,Real Valladolid,16.824387061643588,0.05903105987453091,False,Right Foot,Open Play,0,0,2,Normal
+68363,Bartholomew Owogbalor Ogbeche,Real Valladolid,15.474172029546526,0.062056344314315066,False,Left Foot,Open Play,0,1,3,Normal
+68363,Bartholomew Owogbalor Ogbeche,Real Valladolid,16.28895331198417,0.06205793446085084,False,Right Foot,Open Play,1,0,4,Volley

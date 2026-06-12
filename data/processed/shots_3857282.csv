@@ -1,14 +1,14 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.171709649683792,0.05774346070039374,False,Head,Open Play,0,0,3,Normal
-32.547964606100955,0.06726898651655172,False,Right Foot,Open Play,0,0,1,Half Volley
-33.501790996900446,0.05803216348393428,False,Right Foot,Open Play,0,0,0,Normal
-12.495199078045934,0.06050080206881594,True,Right Foot,Open Play,1,1,2,Normal
-5.860034129593442,0.057644993671248,False,Head,Open Play,0,1,6,Normal
-26.690822392725178,0.06507695160656013,False,Left Foot,Open Play,0,0,2,Half Volley
-10.932977636490435,0.0596790831519655,False,Head,Open Play,0,0,3,Diving Header
-5.024937810560446,0.05523889212121817,False,Head,Open Play,0,0,7,Normal
-15.072159765607585,0.057525023629898954,False,Head,Open Play,0,1,1,Normal
-7.653757247260986,0.05419437941930257,False,Head,Open Play,0,1,2,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-19.090573590125572,0.05279626346488358,False,Right Foot,Open Play,0,0,2,Normal
-27.569729777420747,0.06879450797835565,False,Right Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857282,Joshua Sargent,United States,6.171709649683792,0.05774346070039374,False,Head,Open Play,0,0,3,Normal
+3857282,Ethan Ampadu,Wales,32.547964606100955,0.06726898651655172,False,Right Foot,Open Play,0,0,1,Half Volley
+3857282,Sergino Dest,United States,33.501790996900446,0.05803216348393428,False,Right Foot,Open Play,0,0,0,Normal
+3857282,Timothy Weah,United States,12.495199078045934,0.06050080206881594,True,Right Foot,Open Play,1,1,2,Normal
+3857282,Ben Davies,Wales,5.860034129593442,0.057644993671248,False,Head,Open Play,0,1,6,Normal
+3857282,Kieffer Roberto Francisco Moore,Wales,26.690822392725178,0.06507695160656013,False,Left Foot,Open Play,0,0,2,Half Volley
+3857282,Ben Davies,Wales,10.932977636490435,0.0596790831519655,False,Head,Open Play,0,0,3,Diving Header
+3857282,Kieffer Roberto Francisco Moore,Wales,5.024937810560446,0.05523889212121817,False,Head,Open Play,0,0,7,Normal
+3857282,Haji Wright,United States,15.072159765607585,0.057525023629898954,False,Head,Open Play,0,1,1,Normal
+3857282,Brenden Aaronson,United States,7.653757247260986,0.05419437941930257,False,Head,Open Play,0,1,2,Normal
+3857282,Gareth Frank Bale,Wales,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3857282,Brennan Johnson,Wales,19.090573590125572,0.05279626346488358,False,Right Foot,Open Play,0,0,2,Normal
+3857282,Tyler Adams,United States,27.569729777420747,0.06879450797835565,False,Right Foot,Open Play,0,0,1,Half Volley

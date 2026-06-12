@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.8486498729452,0.0697244380347782,False,Left Foot,Open Play,1,0,1,Normal
-26.746962444359916,0.06476300470500802,False,Right Foot,Open Play,1,0,0,Normal
-19.656296701057403,0.06479768582013416,False,Left Foot,Open Play,0,0,2,Normal
-12.238055401083953,0.055370772677883956,False,Right Foot,Open Play,0,0,1,Half Volley
-24.200826432169627,0.06495834059411634,False,Right Foot,Open Play,0,0,2,Normal
-22.441479452121694,0.061686486590227116,False,Left Foot,Open Play,0,0,3,Normal
-26.527721349561855,0.05648480758465825,False,Right Foot,Open Play,0,0,1,Normal
-11.701709276853535,0.05939478116845306,True,Right Foot,Penalty,0,0,0,Normal
-5.220153254455275,0.05722670449042656,False,Right Foot,Open Play,0,0,9,Normal
-6.40078120232211,0.05728734544007612,False,Right Foot,Open Play,0,0,8,Normal
-9.968951800465286,0.05784651604616559,False,Right Foot,Open Play,0,0,7,Normal
-23.20861908860585,0.05494111923448789,False,Right Foot,Open Play,0,0,2,Normal
-7.300684899377594,0.058339469089160954,False,Head,Open Play,0,0,1,Normal
-24.298148077579903,0.06809198949494202,False,Right Foot,Open Play,1,0,1,Normal
-11.18302284715541,0.06047273990600915,False,Head,Open Play,0,0,1,Normal
-13.191285001848764,0.058085521886769555,False,Right Foot,Open Play,1,0,1,Normal
-21.11539722572133,0.05925574620093459,False,Right Foot,Open Play,0,1,2,Normal
-9.213576938409966,0.056721916743594517,True,Right Foot,Open Play,1,0,2,Normal
-12.70039369468522,0.05984922987712665,False,Right Foot,Open Play,0,0,4,Overhead Kick
-23.078994778802652,0.06455763177678764,False,Right Foot,Open Play,0,0,0,Normal
-12.100413216084807,0.05966938539163346,True,Right Foot,Penalty,0,0,0,Normal
-23.135470602518556,0.0672704023070631,True,Left Foot,Open Play,0,0,1,Normal
-18.969449122207,0.05446045914380541,False,Right Foot,Open Play,0,0,1,Normal
-25.749757280409455,0.06933093554926097,False,Right Foot,Open Play,0,0,1,Normal
-16.08632960000509,0.06280775895041724,False,Left Foot,Open Play,0,1,2,Normal
-9.91816515288993,0.05851663865569487,False,Right Foot,Open Play,1,0,3,Normal
-25.700778198334774,0.06587673866157442,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775611,Chloe Kelly,Manchester City WFC,26.8486498729452,0.0697244380347782,False,Left Foot,Open Play,1,0,1,Normal
+3775611,Melanie Leupolz,Chelsea FCW,26.746962444359916,0.06476300470500802,False,Right Foot,Open Play,1,0,0,Normal
+3775611,Pernille Mosegaard Harder,Chelsea FCW,19.656296701057403,0.06479768582013416,False,Left Foot,Open Play,0,0,2,Normal
+3775611,Samantha May Kerr,Chelsea FCW,12.238055401083953,0.055370772677883956,False,Right Foot,Open Play,0,0,1,Half Volley
+3775611,Pernille Mosegaard Harder,Chelsea FCW,24.200826432169627,0.06495834059411634,False,Right Foot,Open Play,0,0,2,Normal
+3775611,Samantha June Mewis,Manchester City WFC,22.441479452121694,0.061686486590227116,False,Left Foot,Open Play,0,0,3,Normal
+3775611,Erin Cuthbert,Chelsea FCW,26.527721349561855,0.05648480758465825,False,Right Foot,Open Play,0,0,1,Normal
+3775611,Maren Nævdal Mjelde,Chelsea FCW,11.701709276853535,0.05939478116845306,True,Right Foot,Penalty,0,0,0,Normal
+3775611,Magdalena Lilly Eriksson,Chelsea FCW,5.220153254455275,0.05722670449042656,False,Right Foot,Open Play,0,0,9,Normal
+3775611,Melanie Leupolz,Chelsea FCW,6.40078120232211,0.05728734544007612,False,Right Foot,Open Play,0,0,8,Normal
+3775611,Melanie Leupolz,Chelsea FCW,9.968951800465286,0.05784651604616559,False,Right Foot,Open Play,0,0,7,Normal
+3775611,Lucy Bronze,Manchester City WFC,23.20861908860585,0.05494111923448789,False,Right Foot,Open Play,0,0,2,Normal
+3775611,Samantha May Kerr,Chelsea FCW,7.300684899377594,0.058339469089160954,False,Head,Open Play,0,0,1,Normal
+3775611,Erin Cuthbert,Chelsea FCW,24.298148077579903,0.06809198949494202,False,Right Foot,Open Play,1,0,1,Normal
+3775611,Samantha May Kerr,Chelsea FCW,11.18302284715541,0.06047273990600915,False,Head,Open Play,0,0,1,Normal
+3775611,Samantha May Kerr,Chelsea FCW,13.191285001848764,0.058085521886769555,False,Right Foot,Open Play,1,0,1,Normal
+3775611,Erin Cuthbert,Chelsea FCW,21.11539722572133,0.05925574620093459,False,Right Foot,Open Play,0,1,2,Normal
+3775611,Samantha May Kerr,Chelsea FCW,9.213576938409966,0.056721916743594517,True,Right Foot,Open Play,1,0,2,Normal
+3775611,Ellen White,Manchester City WFC,12.70039369468522,0.05984922987712665,False,Right Foot,Open Play,0,0,4,Overhead Kick
+3775611,Stephanie Houghton,Manchester City WFC,23.078994778802652,0.06455763177678764,False,Right Foot,Open Play,0,0,0,Normal
+3775611,Chloe Kelly,Manchester City WFC,12.100413216084807,0.05966938539163346,True,Right Foot,Penalty,0,0,0,Normal
+3775611,Francesca Kirby,Chelsea FCW,23.135470602518556,0.0672704023070631,True,Left Foot,Open Play,0,0,1,Normal
+3775611,Francesca Kirby,Chelsea FCW,18.969449122207,0.05446045914380541,False,Right Foot,Open Play,0,0,1,Normal
+3775611,Erin Cuthbert,Chelsea FCW,25.749757280409455,0.06933093554926097,False,Right Foot,Open Play,0,0,1,Normal
+3775611,Georgia Stanway,Manchester City WFC,16.08632960000509,0.06280775895041724,False,Left Foot,Open Play,0,1,2,Normal
+3775611,Rosemary Kathleen Lavelle,Manchester City WFC,9.91816515288993,0.05851663865569487,False,Right Foot,Open Play,1,0,3,Normal
+3775611,Keira Walsh,Manchester City WFC,25.700778198334774,0.06587673866157442,False,Right Foot,Open Play,0,1,1,Normal

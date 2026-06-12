@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.809901006007795,0.06450799455927557,False,Right Foot,Open Play,0,0,1,Normal
-31.968109108922917,0.0719962629406864,False,Right Foot,Open Play,0,0,1,Normal
-13.572398461583715,0.06140722637164543,False,Head,Open Play,0,1,1,Normal
-23.038446128157172,0.055372612388287244,False,Left Foot,Open Play,0,0,0,Normal
-30.90711892105118,0.0722746345748936,False,Left Foot,Open Play,1,0,0,Volley
-27.572631357924475,0.06769552703225833,False,Right Foot,Open Play,1,0,0,Volley
-34.01543767173958,0.07403757394584905,False,Right Foot,Open Play,1,0,0,Normal
-6.351377803280165,0.05457281949134775,False,Head,Open Play,0,0,3,Normal
-23.399999999999995,0.05960439219797381,False,Left Foot,Open Play,0,0,1,Normal
-11.253888216967507,0.06036930542918182,False,Head,Open Play,0,1,2,Normal
-28.588109416329022,0.06178856507263537,False,Right Foot,Open Play,1,0,0,Normal
-26.096934685897494,0.06232694362822363,False,Left Foot,Open Play,0,1,2,Normal
-9.047098982546835,0.05756574007267768,False,Head,Open Play,0,1,4,Normal
-14.989329538041387,0.062278505313761896,False,Right Foot,Open Play,0,0,4,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-32.54658200180166,0.05366240565993514,False,Left Foot,Free Kick,0,0,0,Normal
-26.90074348414928,0.0687956124691917,False,Right Foot,Open Play,1,0,0,Normal
-5.547071299343464,0.05734641351866989,True,Right Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825803,Alberto Lora Ramos,Sporting Gijón,30.809901006007795,0.06450799455927557,False,Right Foot,Open Play,0,0,1,Normal
+3825803,Omar Mascarell González,Sporting Gijón,31.968109108922917,0.0719962629406864,False,Right Foot,Open Play,0,0,1,Normal
+3825803,Youssef El-Arabi,Granada,13.572398461583715,0.06140722637164543,False,Head,Open Play,0,1,1,Normal
+3825803,Hugo Miguel Almeida Costa Lopes,Granada,23.038446128157172,0.055372612388287244,False,Left Foot,Open Play,0,0,0,Normal
+3825803,Cristiano Biraghi,Granada,30.90711892105118,0.0722746345748936,False,Left Foot,Open Play,1,0,0,Volley
+3825803,Francisco Manuel Rico Castro,Granada,27.572631357924475,0.06769552703225833,False,Right Foot,Open Play,1,0,0,Volley
+3825803,Isaac Ajayi Success,Granada,34.01543767173958,0.07403757394584905,False,Right Foot,Open Play,1,0,0,Normal
+3825803,Ricardo Miguel Moreira da Costa,Granada,6.351377803280165,0.05457281949134775,False,Head,Open Play,0,0,3,Normal
+3825803,Rubén Rochina Naixes,Granada,23.399999999999995,0.05960439219797381,False,Left Foot,Open Play,0,0,1,Normal
+3825803,Luis Hernández Rodríguez,Sporting Gijón,11.253888216967507,0.06036930542918182,False,Head,Open Play,0,1,2,Normal
+3825803,Omar Mascarell González,Sporting Gijón,28.588109416329022,0.06178856507263537,False,Right Foot,Open Play,1,0,0,Normal
+3825803,Rubén Rochina Naixes,Granada,26.096934685897494,0.06232694362822363,False,Left Foot,Open Play,0,1,2,Normal
+3825803,Youssef El-Arabi,Granada,9.047098982546835,0.05756574007267768,False,Head,Open Play,0,1,4,Normal
+3825803,Isaac Ajayi Success,Granada,14.989329538041387,0.062278505313761896,False,Right Foot,Open Play,0,0,4,Normal
+3825803,Youssef El-Arabi,Granada,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3825803,Rubén Rochina Naixes,Granada,32.54658200180166,0.05366240565993514,False,Left Foot,Free Kick,0,0,0,Normal
+3825803,David Barral Torres,Granada,26.90074348414928,0.0687956124691917,False,Right Foot,Open Play,1,0,0,Normal
+3825803,Isaac Ajayi Success,Granada,5.547071299343464,0.05734641351866989,True,Right Foot,Open Play,0,0,3,Half Volley

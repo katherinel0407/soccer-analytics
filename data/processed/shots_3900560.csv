@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.58520917288799,0.06470021822387864,False,Right Foot,Open Play,1,0,1,Normal
-24.53487314008369,0.05342269481151967,False,Left Foot,Open Play,0,0,1,Normal
-19.95294464483877,0.06355782415166697,False,Left Foot,Open Play,1,1,1,Half Volley
-7.502666192761079,0.057814978622282694,False,Head,Open Play,0,1,5,Normal
-19.4982050455933,0.05696604277833404,False,Left Foot,Open Play,0,0,3,Normal
-13.176494222667875,0.061581548182017394,True,Left Foot,Open Play,1,1,1,Normal
-25.9532271596424,0.06861550309346412,False,Right Foot,Open Play,0,1,2,Normal
-22.70154179786034,0.06648460149408222,False,Left Foot,Open Play,0,1,1,Half Volley
-9.073588044428732,0.05889745954278536,False,Right Foot,Open Play,1,0,2,Half Volley
-30.20016556246008,0.05857501895138805,False,Left Foot,Open Play,0,0,3,Normal
-23.39850422569785,0.06644690087867484,False,Right Foot,Open Play,0,0,1,Half Volley
-11.417968295629487,0.0602952241690042,False,Head,Open Play,0,0,3,Normal
-30.103986446980738,0.06928847306681656,False,Right Foot,Free Kick,0,0,0,Normal
-16.894081803992783,0.06239434187759451,False,Left Foot,Open Play,0,0,1,Half Volley
-34.087241014784404,0.06577515653553552,False,Left Foot,Open Play,0,0,1,Normal
-31.695110032937254,0.06267156311804008,False,Right Foot,Open Play,0,1,2,Normal
-26.60244349679179,0.06400004121446526,False,Left Foot,Free Kick,0,0,0,Normal
-12.48519122801089,0.05626212416494544,False,Head,Open Play,0,0,2,Normal
-26.842689880114477,0.07018706535608636,False,Right Foot,Open Play,1,0,1,Normal
-15.262044423995103,0.054437473356249974,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900560,Rodrigue Casimir Ninga,Montpellier,18.58520917288799,0.06470021822387864,False,Right Foot,Open Play,1,0,1,Normal
+3900560,Hatem Ben Arfa,OGC Nice,24.53487314008369,0.05342269481151967,False,Left Foot,Open Play,0,0,1,Normal
+3900560,Olivier Boscagli,OGC Nice,19.95294464483877,0.06355782415166697,False,Left Foot,Open Play,1,1,1,Half Volley
+3900560,Ramy Bensebaini,Montpellier,7.502666192761079,0.057814978622282694,False,Head,Open Play,0,1,5,Normal
+3900560,Vincent Koziello,OGC Nice,19.4982050455933,0.05696604277833404,False,Left Foot,Open Play,0,0,3,Normal
+3900560,Olivier Boscagli,OGC Nice,13.176494222667875,0.061581548182017394,True,Left Foot,Open Play,1,1,1,Normal
+3900560,Hatem Ben Arfa,OGC Nice,25.9532271596424,0.06861550309346412,False,Right Foot,Open Play,0,1,2,Normal
+3900560,Jamel Saihi,Montpellier,22.70154179786034,0.06648460149408222,False,Left Foot,Open Play,0,1,1,Half Volley
+3900560,Vitorino Hilton da Silva,Montpellier,9.073588044428732,0.05889745954278536,False,Right Foot,Open Play,1,0,2,Half Volley
+3900560,Ryad Boudebouz,Montpellier,30.20016556246008,0.05857501895138805,False,Left Foot,Open Play,0,0,3,Normal
+3900560,Vincent Koziello,OGC Nice,23.39850422569785,0.06644690087867484,False,Right Foot,Open Play,0,0,1,Half Volley
+3900560,Paul Baysse,OGC Nice,11.417968295629487,0.0602952241690042,False,Head,Open Play,0,0,3,Normal
+3900560,William Jean Rémy,Montpellier,30.103986446980738,0.06928847306681656,False,Right Foot,Free Kick,0,0,0,Normal
+3900560,Jérôme Roussillon,Montpellier,16.894081803992783,0.06239434187759451,False,Left Foot,Open Play,0,0,1,Half Volley
+3900560,Hatem Ben Arfa,OGC Nice,34.087241014784404,0.06577515653553552,False,Left Foot,Open Play,0,0,1,Normal
+3900560,Rodrigue Casimir Ninga,Montpellier,31.695110032937254,0.06267156311804008,False,Right Foot,Open Play,0,1,2,Normal
+3900560,Hatem Ben Arfa,OGC Nice,26.60244349679179,0.06400004121446526,False,Left Foot,Free Kick,0,0,0,Normal
+3900560,Vitorino Hilton da Silva,Montpellier,12.48519122801089,0.05626212416494544,False,Head,Open Play,0,0,2,Normal
+3900560,Jean Michaël Seri,OGC Nice,26.842689880114477,0.07018706535608636,False,Right Foot,Open Play,1,0,1,Normal
+3900560,Vitorino Hilton da Silva,Montpellier,15.262044423995103,0.054437473356249974,False,Right Foot,Open Play,1,0,1,Volley

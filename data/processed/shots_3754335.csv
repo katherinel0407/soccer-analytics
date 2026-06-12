@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.435834670553973,0.06007194128597006,False,Right Foot,Open Play,1,1,3,Normal
-8.015609770940696,0.05551552205297828,False,Head,Open Play,0,0,3,Normal
-26.300760445279902,0.058614953065504766,False,Right Foot,Open Play,0,1,2,Normal
-33.08473968463405,0.06285601972978924,False,Right Foot,Open Play,1,1,1,Half Volley
-8.61452262171271,0.05728666667345022,False,Right Foot,Open Play,0,0,2,Normal
-17.414074767267998,0.063970879683569,False,Left Foot,Open Play,0,0,2,Normal
-8.570297544426332,0.0549743474097457,False,Right Foot,Open Play,1,0,3,Normal
-20.0322240402807,0.05434121052729468,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-4.186884283091668,0.05680163743895827,False,Left Foot,Open Play,1,0,1,Normal
-26.911893281595777,0.07027660456507885,False,Right Foot,Open Play,0,0,1,Normal
-12.200409829181972,0.0606048071147223,False,Head,Open Play,0,0,2,Normal
-9.055385138137419,0.059209119427141875,False,Head,Open Play,0,1,2,Normal
-17.972478960900194,0.05320417112189397,False,Right Foot,Open Play,0,0,1,Normal
-14.637281168304447,0.05988241710702323,False,Left Foot,Open Play,1,0,3,Normal
-13.368993978605872,0.061453168256143935,True,Left Foot,Open Play,0,0,1,Normal
-7.446475676452589,0.05701631160647944,False,Head,Open Play,0,0,4,Normal
-25.60312480928841,0.06592760983598599,False,Left Foot,Open Play,0,0,2,Half Volley
-7.1021123618258795,0.0559430104845262,False,Head,Open Play,0,1,3,Normal
-9.078546139112804,0.05869723684310464,False,Head,Open Play,0,0,2,Normal
-6.198386886924699,0.056521983907871894,True,Right Foot,Open Play,0,0,4,Backheel
-18.915602025840993,0.056925948466843686,False,Right Foot,Open Play,0,0,2,Normal
-27.20091910211859,0.0646792065336924,False,Left Foot,Open Play,0,1,2,Normal
-30.00883203325314,0.060623154480185834,False,Left Foot,Open Play,0,0,2,Normal
-18.560172412992287,0.05366202653820289,False,Right Foot,Open Play,0,0,1,Normal
-19.622436138257655,0.052402089608542896,False,Right Foot,Open Play,0,0,1,Normal
-9.208691546577068,0.05941548448907008,False,Head,Open Play,0,1,3,Normal
-7.416872656315469,0.057875287689899,False,Head,Open Play,0,1,2,Normal
-15.608331108738057,0.06288671775035659,False,Left Foot,Open Play,0,0,1,Normal
-17.95132307101624,0.05193960474052321,False,Right Foot,Open Play,0,0,1,Half Volley
-9.302150289046073,0.0585453965690193,False,Head,Open Play,0,1,2,Normal
-15.921055241409098,0.06310561010823834,False,Right Foot,Open Play,1,0,1,Normal
-21.023082552280478,0.05610429333346771,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754335,Cameron Jerome,Norwich City,18.435834670553973,0.06007194128597006,False,Right Foot,Open Play,1,1,3,Normal
+3754335,Shinji Okazaki,Leicester City,8.015609770940696,0.05551552205297828,False,Head,Open Play,0,0,3,Normal
+3754335,Graham Dorrans,Norwich City,26.300760445279902,0.058614953065504766,False,Right Foot,Open Play,0,1,2,Normal
+3754335,Graham Dorrans,Norwich City,33.08473968463405,0.06285601972978924,False,Right Foot,Open Play,1,1,1,Half Volley
+3754335,Jamie Vardy,Leicester City,8.61452262171271,0.05728666667345022,False,Right Foot,Open Play,0,0,2,Normal
+3754335,Jeffrey Schlupp,Leicester City,17.414074767267998,0.063970879683569,False,Left Foot,Open Play,0,0,2,Normal
+3754335,Danny Drinkwater,Leicester City,8.570297544426332,0.0549743474097457,False,Right Foot,Open Play,1,0,3,Normal
+3754335,Danny Simpson,Leicester City,20.0322240402807,0.05434121052729468,False,Right Foot,Open Play,1,0,1,Normal
+3754335,Jamie Vardy,Leicester City,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3754335,Jeffrey Schlupp,Leicester City,4.186884283091668,0.05680163743895827,False,Left Foot,Open Play,1,0,1,Normal
+3754335,Russell Martin,Norwich City,26.911893281595777,0.07027660456507885,False,Right Foot,Open Play,0,0,1,Normal
+3754335,Shinji Okazaki,Leicester City,12.200409829181972,0.0606048071147223,False,Head,Open Play,0,0,2,Normal
+3754335,Robert Huth,Leicester City,9.055385138137419,0.059209119427141875,False,Head,Open Play,0,1,2,Normal
+3754335,Shinji Okazaki,Leicester City,17.972478960900194,0.05320417112189397,False,Right Foot,Open Play,0,0,1,Normal
+3754335,Jonathan Howson,Norwich City,14.637281168304447,0.05988241710702323,False,Left Foot,Open Play,1,0,3,Normal
+3754335,Jeffrey Schlupp,Leicester City,13.368993978605872,0.061453168256143935,True,Left Foot,Open Play,0,0,1,Normal
+3754335,Dieumerci Mbokani Bezua,Norwich City,7.446475676452589,0.05701631160647944,False,Head,Open Play,0,0,4,Normal
+3754335,Cameron Jerome,Norwich City,25.60312480928841,0.06592760983598599,False,Left Foot,Open Play,0,0,2,Half Volley
+3754335,Dieumerci Mbokani Bezua,Norwich City,7.1021123618258795,0.0559430104845262,False,Head,Open Play,0,1,3,Normal
+3754335,Russell Martin,Norwich City,9.078546139112804,0.05869723684310464,False,Head,Open Play,0,0,2,Normal
+3754335,Dieumerci Mbokani Bezua,Norwich City,6.198386886924699,0.056521983907871894,True,Right Foot,Open Play,0,0,4,Backheel
+3754335,Wes Hoolahan,Norwich City,18.915602025840993,0.056925948466843686,False,Right Foot,Open Play,0,0,2,Normal
+3754335,Jeffrey Schlupp,Leicester City,27.20091910211859,0.0646792065336924,False,Left Foot,Open Play,0,1,2,Normal
+3754335,Wes Hoolahan,Norwich City,30.00883203325314,0.060623154480185834,False,Left Foot,Open Play,0,0,2,Normal
+3754335,Jamie Vardy,Leicester City,18.560172412992287,0.05366202653820289,False,Right Foot,Open Play,0,0,1,Normal
+3754335,Nathan Redmond,Norwich City,19.622436138257655,0.052402089608542896,False,Right Foot,Open Play,0,0,1,Normal
+3754335,Sébastien Aymar Bassong Nguena,Norwich City,9.208691546577068,0.05941548448907008,False,Head,Open Play,0,1,3,Normal
+3754335,Robert Huth,Leicester City,7.416872656315469,0.057875287689899,False,Head,Open Play,0,1,2,Normal
+3754335,Jamie Vardy,Leicester City,15.608331108738057,0.06288671775035659,False,Left Foot,Open Play,0,0,1,Normal
+3754335,Jonathan Howson,Norwich City,17.95132307101624,0.05193960474052321,False,Right Foot,Open Play,0,0,1,Half Volley
+3754335,Sébastien Aymar Bassong Nguena,Norwich City,9.302150289046073,0.0585453965690193,False,Head,Open Play,0,1,2,Normal
+3754335,Jamie Vardy,Leicester City,15.921055241409098,0.06310561010823834,False,Right Foot,Open Play,1,0,1,Normal
+3754335,Nathan Redmond,Norwich City,21.023082552280478,0.05610429333346771,False,Left Foot,Open Play,0,0,2,Normal

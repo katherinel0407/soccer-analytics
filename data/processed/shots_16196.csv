@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.08318915758459,0.06399068887447368,False,Left Foot,Free Kick,0,0,0,Normal
-19.02629759044045,0.06431348916918644,False,Left Foot,Open Play,0,0,2,Normal
-13.140015220691343,0.06087128810994204,False,Right Foot,Open Play,0,0,2,Half Volley
-23.96539171388609,0.062447111941428476,False,Left Foot,Open Play,1,0,1,Normal
-12.963024338479045,0.05441830530013967,False,Left Foot,Open Play,0,0,1,Lob
-15.915401345866213,0.058327822764517236,False,Right Foot,Open Play,0,0,1,Normal
-16.591865476793135,0.052585093174695625,True,Right Foot,Open Play,0,0,1,Lob
-11.237882362794155,0.06048243533286968,False,Head,Open Play,0,1,4,Normal
-20.220039564748635,0.06575014230175077,False,Right Foot,Open Play,1,0,1,Volley
-30.675723300355934,0.07253273691715288,False,Left Foot,Open Play,1,0,1,Half Volley
-26.148996156640504,0.06677380106138628,False,Left Foot,Free Kick,0,0,0,Normal
-20.130076999355957,0.06361432725627955,False,Left Foot,Open Play,0,0,1,Normal
-8.595929269136644,0.05635791183685639,False,Left Foot,Open Play,1,0,3,Normal
-32.45797282641047,0.05710929700917468,False,Left Foot,Free Kick,0,0,0,Normal
-19.94492416631359,0.06512235003807838,False,Right Foot,Open Play,0,1,3,Normal
-9.338094023943006,0.05789345402318783,False,Head,Open Play,0,0,2,Normal
-18.471870506258963,0.06447120055882512,False,Right Foot,Open Play,0,0,2,Normal
-23.078344827998393,0.06768412407534934,False,Right Foot,Open Play,0,0,1,Normal
-12.45351356043747,0.061176253915429094,False,Right Foot,Open Play,0,0,2,Normal
-9.66074531286277,0.05931986676042942,False,Head,Open Play,0,1,3,Normal
-10.554619841567014,0.05684798567331423,False,Left Foot,Open Play,1,0,2,Normal
-16.492422502470642,0.06049702436197538,False,Left Foot,Open Play,0,0,1,Normal
-17.980545041794482,0.06354922071529874,False,Left Foot,Open Play,1,0,1,Normal
-25.51626931978889,0.06899783620951191,False,Right Foot,Open Play,0,0,2,Normal
-28.61415733513744,0.06974667305378393,False,Right Foot,Open Play,0,1,2,Normal
-25.80426321366297,0.0689372031570576,False,Right Foot,Open Play,0,0,1,Normal
-21.927608168699116,0.06649134607102859,False,Right Foot,Open Play,0,0,1,Normal
-20.30098519776811,0.06331728570556348,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16196,Gareth Frank Bale,Real Madrid,24.08318915758459,0.06399068887447368,False,Left Foot,Free Kick,0,0,0,Normal
+16196,Karim Benzema,Real Madrid,19.02629759044045,0.06431348916918644,False,Left Foot,Open Play,0,0,2,Normal
+16196,Raphaël Varane,Real Madrid,13.140015220691343,0.06087128810994204,False,Right Foot,Open Play,0,0,2,Half Volley
+16196,Toni Kroos,Real Madrid,23.96539171388609,0.062447111941428476,False,Left Foot,Open Play,1,0,1,Normal
+16196,Lionel Andrés Messi Cuccittini,Barcelona,12.963024338479045,0.05441830530013967,False,Left Foot,Open Play,0,0,1,Lob
+16196,Luka Modrić,Real Madrid,15.915401345866213,0.058327822764517236,False,Right Foot,Open Play,0,0,1,Normal
+16196,Ivan Rakitić,Barcelona,16.591865476793135,0.052585093174695625,True,Right Foot,Open Play,0,0,1,Lob
+16196,Carlos Henrique Casimiro,Real Madrid,11.237882362794155,0.06048243533286968,False,Head,Open Play,0,1,4,Normal
+16196,Vinícius José Paixão de Oliveira Júnior,Real Madrid,20.220039564748635,0.06575014230175077,False,Right Foot,Open Play,1,0,1,Volley
+16196,Sergio Reguilón Rodríguez,Real Madrid,30.675723300355934,0.07253273691715288,False,Left Foot,Open Play,1,0,1,Half Volley
+16196,Lionel Andrés Messi Cuccittini,Barcelona,26.148996156640504,0.06677380106138628,False,Left Foot,Free Kick,0,0,0,Normal
+16196,Luis Alberto Suárez Díaz,Barcelona,20.130076999355957,0.06361432725627955,False,Left Foot,Open Play,0,0,1,Normal
+16196,Lionel Andrés Messi Cuccittini,Barcelona,8.595929269136644,0.05635791183685639,False,Left Foot,Open Play,1,0,3,Normal
+16196,Lionel Andrés Messi Cuccittini,Barcelona,32.45797282641047,0.05710929700917468,False,Left Foot,Free Kick,0,0,0,Normal
+16196,Vinícius José Paixão de Oliveira Júnior,Real Madrid,19.94492416631359,0.06512235003807838,False,Right Foot,Open Play,0,1,3,Normal
+16196,Luka Modrić,Real Madrid,9.338094023943006,0.05789345402318783,False,Head,Open Play,0,0,2,Normal
+16196,Vinícius José Paixão de Oliveira Júnior,Real Madrid,18.471870506258963,0.06447120055882512,False,Right Foot,Open Play,0,0,2,Normal
+16196,Ousmane Dembélé,Barcelona,23.078344827998393,0.06768412407534934,False,Right Foot,Open Play,0,0,1,Normal
+16196,Vinícius José Paixão de Oliveira Júnior,Real Madrid,12.45351356043747,0.061176253915429094,False,Right Foot,Open Play,0,0,2,Normal
+16196,Carlos Henrique Casimiro,Real Madrid,9.66074531286277,0.05931986676042942,False,Head,Open Play,0,1,3,Normal
+16196,Marco Asensio Willemsen,Real Madrid,10.554619841567014,0.05684798567331423,False,Left Foot,Open Play,1,0,2,Normal
+16196,Lionel Andrés Messi Cuccittini,Barcelona,16.492422502470642,0.06049702436197538,False,Left Foot,Open Play,0,0,1,Normal
+16196,Ousmane Dembélé,Barcelona,17.980545041794482,0.06354922071529874,False,Left Foot,Open Play,1,0,1,Normal
+16196,Vinícius José Paixão de Oliveira Júnior,Real Madrid,25.51626931978889,0.06899783620951191,False,Right Foot,Open Play,0,0,2,Normal
+16196,Carlos Henrique Casimiro,Real Madrid,28.61415733513744,0.06974667305378393,False,Right Foot,Open Play,0,1,2,Normal
+16196,Karim Benzema,Real Madrid,25.80426321366297,0.0689372031570576,False,Right Foot,Open Play,0,0,1,Normal
+16196,Vinícius José Paixão de Oliveira Júnior,Real Madrid,21.927608168699116,0.06649134607102859,False,Right Foot,Open Play,0,0,1,Normal
+16196,Lionel Andrés Messi Cuccittini,Barcelona,20.30098519776811,0.06331728570556348,False,Left Foot,Open Play,1,0,2,Normal

@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.09751533622503,0.06293245453929898,False,Left Foot,Open Play,1,0,2,Normal
-32.704892600343456,0.0700225951923181,False,Right Foot,Free Kick,0,0,0,Normal
-31.469667935966534,0.0733846951897604,False,Right Foot,Open Play,0,0,1,Normal
-28.0941275002446,0.07122169806134009,False,Right Foot,Open Play,1,1,2,Normal
-17.114321488157227,0.060594705178285795,False,Right Foot,Open Play,0,1,1,Normal
-13.82244551445221,0.052940574603315825,False,Right Foot,Open Play,0,0,0,Normal
-24.100829861230913,0.06491085325443695,False,Left Foot,Open Play,0,1,2,Volley
-16.14837453120282,0.06323770282048968,False,Left Foot,Open Play,0,0,1,Normal
-23.57710754100256,0.06801964855082716,False,Right Foot,Open Play,1,0,1,Normal
-7.9056941504209535,0.05801155323554293,False,Head,Open Play,0,1,4,Normal
-25.60488234692751,0.0694387982795236,False,Right Foot,Free Kick,0,0,0,Normal
-17.899720668211565,0.06358789328242478,False,Head,Open Play,0,0,1,Normal
-35.97624216062595,0.06002770647034326,False,Left Foot,Free Kick,0,0,0,Normal
-29.980326882807674,0.07238349680756201,False,Right Foot,Open Play,0,0,1,Normal
-24.96577657514382,0.0674662831498029,False,Right Foot,Open Play,0,0,0,Half Volley
-26.60864521166007,0.062727445341307,False,Right Foot,Open Play,0,0,1,Normal
-30.18907087010132,0.0724401549361044,False,Right Foot,Open Play,1,0,1,Normal
-15.321879780235848,0.05633927311618544,False,Left Foot,Open Play,1,0,2,Normal
-32.454891773044004,0.06431135627703254,True,Right Foot,Open Play,0,0,1,Normal
-7.406078584514215,0.05781105954406145,False,Head,Open Play,0,1,6,Normal
-12.81444497432487,0.054868976150438335,False,Right Foot,Open Play,1,0,1,Volley
-29.670524093787083,0.057535696940899536,False,Left Foot,Open Play,0,0,2,Normal
-31.978899293127643,0.07363071445651238,False,Right Foot,Open Play,0,0,1,Normal
-20.15589243868899,0.06061932913652956,False,Left Foot,Open Play,0,1,2,Normal
-6.2936475910238245,0.055209111533639346,False,Head,Open Play,0,0,4,Normal
-8.324061508662705,0.05874686871194146,True,Left Foot,Open Play,1,0,2,Normal
-18.623103930333414,0.06477707180910204,False,Left Foot,Open Play,0,1,2,Normal
-8.268010643437757,0.054332611875438766,False,Head,Open Play,0,0,4,Normal
-9.02441133814278,0.057599960572143484,False,Head,Open Play,0,0,2,Normal
-27.89587783167972,0.06970433160729222,False,Right Foot,Open Play,0,0,1,Normal
-15.181897114655992,0.05416702687551204,False,Right Foot,Open Play,1,0,1,Normal
-10.18331969448077,0.056058357138989774,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749246,Paul Scholes,Manchester United,16.09751533622503,0.06293245453929898,False,Left Foot,Open Play,1,0,2,Normal
+3749246,Thierry Henry,Arsenal,32.704892600343456,0.0700225951923181,False,Right Foot,Free Kick,0,0,0,Normal
+3749246,Roy Keane,Manchester United,31.469667935966534,0.0733846951897604,False,Right Foot,Open Play,0,0,1,Normal
+3749246,Roy Keane,Manchester United,28.0941275002446,0.07122169806134009,False,Right Foot,Open Play,1,1,2,Normal
+3749246,Fredrik Ljungberg,Arsenal,17.114321488157227,0.060594705178285795,False,Right Foot,Open Play,0,1,1,Normal
+3749246,Fredrik Ljungberg,Arsenal,13.82244551445221,0.052940574603315825,False,Right Foot,Open Play,0,0,0,Normal
+3749246,Eric Daniel Djemba-Djemba,Manchester United,24.100829861230913,0.06491085325443695,False,Left Foot,Open Play,0,1,2,Volley
+3749246,José Antonio Reyes Calderón,Arsenal,16.14837453120282,0.06323770282048968,False,Left Foot,Open Play,0,0,1,Normal
+3749246,Thierry Henry,Arsenal,23.57710754100256,0.06801964855082716,False,Right Foot,Open Play,1,0,1,Normal
+3749246,Sulzeer Jeremiah ''Sol' Campbell,Arsenal,7.9056941504209535,0.05801155323554293,False,Head,Open Play,0,1,4,Normal
+3749246,Thierry Henry,Arsenal,25.60488234692751,0.0694387982795236,False,Right Foot,Free Kick,0,0,0,Normal
+3749246,Thierry Henry,Arsenal,17.899720668211565,0.06358789328242478,False,Head,Open Play,0,0,1,Normal
+3749246,Eduardo César Daude Gaspar,Arsenal,35.97624216062595,0.06002770647034326,False,Left Foot,Free Kick,0,0,0,Normal
+3749246,Robert Pirès,Arsenal,29.980326882807674,0.07238349680756201,False,Right Foot,Open Play,0,0,1,Normal
+3749246,Robert Pirès,Arsenal,24.96577657514382,0.0674662831498029,False,Right Foot,Open Play,0,0,0,Half Volley
+3749246,Paul Scholes,Manchester United,26.60864521166007,0.062727445341307,False,Right Foot,Open Play,0,0,1,Normal
+3749246,Paul Scholes,Manchester United,30.18907087010132,0.0724401549361044,False,Right Foot,Open Play,1,0,1,Normal
+3749246,Roy Keane,Manchester United,15.321879780235848,0.05633927311618544,False,Left Foot,Open Play,1,0,2,Normal
+3749246,Thierry Henry,Arsenal,32.454891773044004,0.06431135627703254,True,Right Foot,Open Play,0,0,1,Normal
+3749246,Eduardo César Daude Gaspar,Arsenal,7.406078584514215,0.05781105954406145,False,Head,Open Play,0,1,6,Normal
+3749246,Roy Keane,Manchester United,12.81444497432487,0.054868976150438335,False,Right Foot,Open Play,1,0,1,Volley
+3749246,Louis Saha,Manchester United,29.670524093787083,0.057535696940899536,False,Left Foot,Open Play,0,0,2,Normal
+3749246,Thierry Henry,Arsenal,31.978899293127643,0.07363071445651238,False,Right Foot,Open Play,0,0,1,Normal
+3749246,Fredrik Ljungberg,Arsenal,20.15589243868899,0.06061932913652956,False,Left Foot,Open Play,0,1,2,Normal
+3749246,Wes Brown,Manchester United,6.2936475910238245,0.055209111533639346,False,Head,Open Play,0,0,4,Normal
+3749246,Louis Saha,Manchester United,8.324061508662705,0.05874686871194146,True,Left Foot,Open Play,1,0,2,Normal
+3749246,Thierry Henry,Arsenal,18.623103930333414,0.06477707180910204,False,Left Foot,Open Play,0,1,2,Normal
+3749246,Gilberto Aparecido da Silva,Arsenal,8.268010643437757,0.054332611875438766,False,Head,Open Play,0,0,4,Normal
+3749246,Ruud van Nistelrooy,Manchester United,9.02441133814278,0.057599960572143484,False,Head,Open Play,0,0,2,Normal
+3749246,Dennis Bergkamp,Arsenal,27.89587783167972,0.06970433160729222,False,Right Foot,Open Play,0,0,1,Normal
+3749246,Laureano Bisan-Etame Mayer,Arsenal,15.181897114655992,0.05416702687551204,False,Right Foot,Open Play,1,0,1,Normal
+3749246,Thierry Henry,Arsenal,10.18331969448077,0.056058357138989774,False,Head,Open Play,0,0,3,Normal

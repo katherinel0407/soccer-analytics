@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.294688127912362,0.05843681637388979,False,Right Foot,Open Play,0,0,1,Normal
-25.96150997149434,0.06873889561919842,False,Left Foot,Open Play,1,0,0,Normal
-13.416407864998739,0.06165241593599438,True,Right Foot,Open Play,1,0,2,Volley
-20.615528128088304,0.05115818734932804,False,Right Foot,Open Play,1,0,4,Normal
-10.63014581273465,0.06012303228523406,False,Left Foot,Open Play,0,0,3,Normal
-26.90724809414742,0.05331666607301297,False,Left Foot,Open Play,0,0,1,Normal
-21.470910553583888,0.06658130687966891,False,Left Foot,Open Play,0,0,0,Half Volley
-31.016124838541646,0.0678388919552401,False,Right Foot,Open Play,0,0,2,Normal
-26.570660511172846,0.06085738750959254,False,Left Foot,Open Play,0,0,1,Normal
-9.433981132056603,0.05953001347627859,False,Head,Open Play,0,1,3,Normal
-20.0,0.056303964608070044,False,Left Foot,Open Play,0,1,1,Normal
-7.810249675906654,0.05852323815906913,False,Head,Open Play,1,1,2,Normal
-15.0,0.056201941967494215,False,Right Foot,Open Play,1,0,3,Volley
-26.68332812825267,0.06282104837476644,False,Right Foot,Free Kick,0,0,0,Normal
-24.413111231467404,0.0666606492924764,False,Right Foot,Open Play,0,0,1,Half Volley
-36.05551275463989,0.05631263400827173,False,Right Foot,Open Play,0,0,1,Normal
-30.01666203960727,0.06734545092168714,False,Right Foot,Open Play,1,0,1,Normal
-16.97056274847714,0.055018037838245354,False,Right Foot,Open Play,1,0,2,Normal
-21.400934559032695,0.06536981962479908,False,Left Foot,Open Play,0,0,4,Normal
-24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,2,Normal
-21.02379604162864,0.06310426200516898,False,Left Foot,Open Play,0,0,4,Normal
-10.0,0.05950726864497867,False,Left Foot,Open Play,0,0,2,Volley
-33.61547262794322,0.07528983845942953,True,Right Foot,Free Kick,0,0,0,Normal
-2.23606797749979,0.055915095325107404,True,Head,Open Play,1,0,2,Normal
-34.0147027033899,0.07575294922846049,False,Left Foot,Open Play,0,0,1,Half Volley
-31.304951684997057,0.059178067079271104,False,Right Foot,Open Play,1,0,0,Normal
-27.65863337187866,0.07043507246770979,False,Left Foot,Open Play,0,0,2,Normal
-30.364452901377952,0.06235646076826336,True,Left Foot,Open Play,0,0,1,Normal
-10.04987562112089,0.05910387785405155,False,Head,Open Play,0,1,3,Normal
-38.63935817272331,0.07680635959320847,False,Right Foot,Open Play,0,0,2,Normal
-28.0,0.06690491840941816,False,Left Foot,Open Play,1,0,1,Volley
-20.024984394500787,0.06352452521524009,False,Right Foot,Open Play,0,0,2,Volley
-23.259406699226016,0.05890827248836751,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19775,Remi Allen,Reading WFC,27.294688127912362,0.05843681637388979,False,Right Foot,Open Play,0,0,1,Normal
+19775,Fara Williams,Reading WFC,25.96150997149434,0.06873889561919842,False,Left Foot,Open Play,1,0,0,Normal
+19775,Courtney Sweetman-Kirk,Liverpool WFC,13.416407864998739,0.06165241593599438,True,Right Foot,Open Play,1,0,2,Volley
+19775,Brooke Chaplen,Reading WFC,20.615528128088304,0.05115818734932804,False,Right Foot,Open Play,1,0,4,Normal
+19775,Rachel Furness,Reading WFC,10.63014581273465,0.06012303228523406,False,Left Foot,Open Play,0,0,3,Normal
+19775,Fara Williams,Reading WFC,26.90724809414742,0.05331666607301297,False,Left Foot,Open Play,0,0,1,Normal
+19775,Mayumi Pacheco,Reading WFC,21.470910553583888,0.06658130687966891,False,Left Foot,Open Play,0,0,0,Half Volley
+19775,Fara Williams,Reading WFC,31.016124838541646,0.0678388919552401,False,Right Foot,Open Play,0,0,2,Normal
+19775,Kirsty Linnett,Liverpool WFC,26.570660511172846,0.06085738750959254,False,Left Foot,Open Play,0,0,1,Normal
+19775,Jessica Anne Clarke,Liverpool WFC,9.433981132056603,0.05953001347627859,False,Head,Open Play,0,1,3,Normal
+19775,Jessica Anne Clarke,Liverpool WFC,20.0,0.056303964608070044,False,Left Foot,Open Play,0,1,1,Normal
+19775,Courtney Sweetman-Kirk,Liverpool WFC,7.810249675906654,0.05852323815906913,False,Head,Open Play,1,1,2,Normal
+19775,Fara Williams,Reading WFC,15.0,0.056201941967494215,False,Right Foot,Open Play,1,0,3,Volley
+19775,Fara Williams,Reading WFC,26.68332812825267,0.06282104837476644,False,Right Foot,Free Kick,0,0,0,Normal
+19775,Jessica Anne Clarke,Liverpool WFC,24.413111231467404,0.0666606492924764,False,Right Foot,Open Play,0,0,1,Half Volley
+19775,Charlotte Estcourt,Reading WFC,36.05551275463989,0.05631263400827173,False,Right Foot,Open Play,0,0,1,Normal
+19775,Remi Allen,Reading WFC,30.01666203960727,0.06734545092168714,False,Right Foot,Open Play,1,0,1,Normal
+19775,Brooke Chaplen,Reading WFC,16.97056274847714,0.055018037838245354,False,Right Foot,Open Play,1,0,2,Normal
+19775,Fara Williams,Reading WFC,21.400934559032695,0.06536981962479908,False,Left Foot,Open Play,0,0,4,Normal
+19775,Fara Williams,Reading WFC,24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,2,Normal
+19775,Fara Williams,Reading WFC,21.02379604162864,0.06310426200516898,False,Left Foot,Open Play,0,0,4,Normal
+19775,Brooke Chaplen,Reading WFC,10.0,0.05950726864497867,False,Left Foot,Open Play,0,0,2,Volley
+19775,Fara Williams,Reading WFC,33.61547262794322,0.07528983845942953,True,Right Foot,Free Kick,0,0,0,Normal
+19775,Courtney Sweetman-Kirk,Liverpool WFC,2.23606797749979,0.055915095325107404,True,Head,Open Play,1,0,2,Normal
+19775,Rachel Furness,Reading WFC,34.0147027033899,0.07575294922846049,False,Left Foot,Open Play,0,0,1,Half Volley
+19775,Kirstyn Pearce,Reading WFC,31.304951684997057,0.059178067079271104,False,Right Foot,Open Play,1,0,0,Normal
+19775,Rachel Furness,Reading WFC,27.65863337187866,0.07043507246770979,False,Left Foot,Open Play,0,0,2,Normal
+19775,Fara Williams,Reading WFC,30.364452901377952,0.06235646076826336,True,Left Foot,Open Play,0,0,1,Normal
+19775,Rachel Furness,Reading WFC,10.04987562112089,0.05910387785405155,False,Head,Open Play,0,1,3,Normal
+19775,Fara Williams,Reading WFC,38.63935817272331,0.07680635959320847,False,Right Foot,Open Play,0,0,2,Normal
+19775,Molly Bartrip,Reading WFC,28.0,0.06690491840941816,False,Left Foot,Open Play,1,0,1,Volley
+19775,Molly Bartrip,Reading WFC,20.024984394500787,0.06352452521524009,False,Right Foot,Open Play,0,0,2,Volley
+19775,Remi Allen,Reading WFC,23.259406699226016,0.05890827248836751,False,Right Foot,Open Play,1,0,1,Normal

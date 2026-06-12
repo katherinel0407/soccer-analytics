@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.431488599292537,0.05866704326642175,False,Head,Open Play,0,1,5,Normal
-14.900335566691112,0.06086373513281699,False,Head,Open Play,0,0,1,Normal
-13.2098448136229,0.06146860226415892,False,Left Foot,Open Play,1,0,3,Normal
-21.260761980700508,0.06519740438518952,True,Right Foot,Open Play,0,0,1,Normal
-6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,3,Normal
-25.709336825363664,0.062165725554708104,False,Left Foot,Open Play,0,0,1,Normal
-7.494664769020697,0.05605597382660522,True,Head,Open Play,0,0,3,Normal
-18.292348127017487,0.05877661771805646,False,Right Foot,Open Play,0,1,3,Half Volley
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-12.86934341759517,0.06124369853596291,False,Right Foot,Open Play,1,0,3,Normal
-24.794555854057958,0.06673042096027124,False,Right Foot,Open Play,1,1,1,Normal
-28.713759767748986,0.06156931052302611,False,Right Foot,Open Play,0,1,2,Normal
-16.177144370994533,0.06266086710971898,False,Left Foot,Open Play,1,0,1,Normal
-24.07592158153037,0.06793791404413213,False,Left Foot,Free Kick,0,0,0,Normal
-10.800462953040483,0.05905758139024959,False,Head,Open Play,0,1,4,Normal
-16.345335726133,0.05324071252410259,False,Right Foot,Open Play,0,0,2,Normal
-37.56181571756083,0.0765538469642258,False,Right Foot,Open Play,1,0,0,Normal
-7.026378868236473,0.05638555504971328,True,Right Foot,Open Play,1,0,3,Normal
-30.06027278652009,0.06610682019454797,False,Left Foot,Free Kick,0,0,0,Normal
-61.168701146910095,0.06982024173367378,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16205,Jordi Amat Maas,Rayo Vallecano,8.431488599292537,0.05866704326642175,False,Head,Open Play,0,1,5,Normal
+16205,Lionel Andrés Messi Cuccittini,Barcelona,14.900335566691112,0.06086373513281699,False,Head,Open Play,0,0,1,Normal
+16205,Philippe Coutinho Correia,Barcelona,13.2098448136229,0.06146860226415892,False,Left Foot,Open Play,1,0,3,Normal
+16205,Raúl de Tomás Gómez,Rayo Vallecano,21.260761980700508,0.06519740438518952,True,Right Foot,Open Play,0,0,1,Normal
+16205,Gerard Piqué Bernabéu,Barcelona,6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,3,Normal
+16205,Lionel Andrés Messi Cuccittini,Barcelona,25.709336825363664,0.062165725554708104,False,Left Foot,Open Play,0,0,1,Normal
+16205,Gerard Piqué Bernabéu,Barcelona,7.494664769020697,0.05605597382660522,True,Head,Open Play,0,0,3,Normal
+16205,Luis Alberto Suárez Díaz,Barcelona,18.292348127017487,0.05877661771805646,False,Right Foot,Open Play,0,1,3,Half Volley
+16205,Lionel Andrés Messi Cuccittini,Barcelona,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+16205,Lionel Andrés Messi Cuccittini,Barcelona,12.86934341759517,0.06124369853596291,False,Right Foot,Open Play,1,0,3,Normal
+16205,Philippe Coutinho Correia,Barcelona,24.794555854057958,0.06673042096027124,False,Right Foot,Open Play,1,1,1,Normal
+16205,Raúl de Tomás Gómez,Rayo Vallecano,28.713759767748986,0.06156931052302611,False,Right Foot,Open Play,0,1,2,Normal
+16205,José Ángel Pozo la Rosa,Rayo Vallecano,16.177144370994533,0.06266086710971898,False,Left Foot,Open Play,1,0,1,Normal
+16205,Lionel Andrés Messi Cuccittini,Barcelona,24.07592158153037,0.06793791404413213,False,Left Foot,Free Kick,0,0,0,Normal
+16205,Emiliano Daniel Velázquez Maldonado,Rayo Vallecano,10.800462953040483,0.05905758139024959,False,Head,Open Play,0,1,4,Normal
+16205,Raúl de Tomás Gómez,Rayo Vallecano,16.345335726133,0.05324071252410259,False,Right Foot,Open Play,0,0,2,Normal
+16205,Tiago Manuel Dias Correia,Rayo Vallecano,37.56181571756083,0.0765538469642258,False,Right Foot,Open Play,1,0,0,Normal
+16205,Luis Alberto Suárez Díaz,Barcelona,7.026378868236473,0.05638555504971328,True,Right Foot,Open Play,1,0,3,Normal
+16205,Lionel Andrés Messi Cuccittini,Barcelona,30.06027278652009,0.06610682019454797,False,Left Foot,Free Kick,0,0,0,Normal
+16205,Raúl de Tomás Gómez,Rayo Vallecano,61.168701146910095,0.06982024173367378,False,Right Foot,Open Play,0,0,0,Normal

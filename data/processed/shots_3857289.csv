@@ -1,10 +1,10 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.478781991845203,0.06026189617101857,False,Left Foot,Open Play,1,1,4,Volley
-7.317103251970684,0.05783517924433272,False,Head,Open Play,0,1,4,Normal
-27.917736297916413,0.06886581009071895,False,Right Foot,Free Kick,0,0,0,Normal
-32.07553584899245,0.07428650875850498,False,Right Foot,Open Play,0,0,1,Half Volley
-26.692508312258703,0.06777401188424921,False,Right Foot,Open Play,0,0,2,Normal
-25.271525478292762,0.06458704313593083,False,Left Foot,Free Kick,0,0,0,Normal
-25.234302050978144,0.06675112642851737,True,Left Foot,Open Play,0,0,2,Normal
-20.66131651178114,0.05839220277972258,False,Right Foot,Open Play,1,0,0,Half Volley
-21.865269264292174,0.06569989665060054,True,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857289,César Jasib Montes Castro,Mexico,12.478781991845203,0.06026189617101857,False,Left Foot,Open Play,1,1,4,Volley
+3857289,Lautaro Javier Martínez,Argentina,7.317103251970684,0.05783517924433272,False,Head,Open Play,0,1,4,Normal
+3857289,Ernesto Alexis Vega Rojas,Mexico,27.917736297916413,0.06886581009071895,False,Right Foot,Free Kick,0,0,0,Normal
+3857289,Ernesto Alexis Vega Rojas,Mexico,32.07553584899245,0.07428650875850498,False,Right Foot,Open Play,0,0,1,Half Volley
+3857289,Hirving Rodrigo Lozano Bahena,Mexico,26.692508312258703,0.06777401188424921,False,Right Foot,Open Play,0,0,2,Normal
+3857289,Lionel Andrés Messi Cuccittini,Argentina,25.271525478292762,0.06458704313593083,False,Left Foot,Free Kick,0,0,0,Normal
+3857289,Lionel Andrés Messi Cuccittini,Argentina,25.234302050978144,0.06675112642851737,True,Left Foot,Open Play,0,0,2,Normal
+3857289,Nahuel Molina Lucero,Argentina,20.66131651178114,0.05839220277972258,False,Right Foot,Open Play,1,0,0,Half Volley
+3857289,Enzo Fernandez,Argentina,21.865269264292174,0.06569989665060054,True,Right Foot,Open Play,0,0,3,Normal

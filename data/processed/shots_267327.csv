@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.442925306655784,0.06419816434277001,False,Right Foot,Open Play,1,0,3,Normal
-13.86001443000692,0.059515633011427066,False,Head,Open Play,0,1,4,Normal
-30.654363474063523,0.07131444323615452,False,Left Foot,Free Kick,0,0,0,Normal
-30.096013024983897,0.06266047702745046,False,Left Foot,Open Play,0,1,2,Normal
-23.138928237928393,0.06169235305146088,False,Left Foot,Open Play,1,0,1,Half Volley
-10.983624174196782,0.05978112581143321,False,Head,Open Play,0,0,1,Normal
-12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
-7.907591289387687,0.058411683035489236,True,Right Foot,Open Play,1,0,3,Half Volley
-15.543809056984712,0.052146449823835976,False,Right Foot,Open Play,0,0,2,Normal
-14.681961721786358,0.06240725698350408,True,Left Foot,Open Play,0,1,2,Normal
-26.554848898082632,0.05536181508952346,False,Right Foot,Open Play,0,0,1,Half Volley
-19.94216638181519,0.056815907419871504,False,Right Foot,Open Play,1,0,1,Half Volley
-12.660568707605513,0.0607795753828803,False,Left Foot,Open Play,1,0,2,Normal
-10.18331969448077,0.05993296201370552,False,Right Foot,Open Play,0,0,2,Normal
-14.144963768069543,0.061962692192349816,False,Left Foot,Open Play,1,0,1,Normal
-28.058866691297432,0.05753080359070617,False,Left Foot,Open Play,0,0,0,Normal
-12.753430910935293,0.06123794839414937,False,Head,Open Play,0,0,1,Normal
-11.469088891450795,0.060553664916118806,False,Right Foot,Open Play,0,0,2,Normal
-29.822307087145358,0.07172776917761396,False,Left Foot,Free Kick,0,0,0,Normal
-31.400636936215168,0.06873553684509102,False,Left Foot,Open Play,1,0,0,Normal
-18.027756377319946,0.05323321400889284,False,Right Foot,Open Play,0,0,1,Lob
-13.741178988718541,0.061309706459927886,False,Right Foot,Open Play,0,0,1,Normal
-23.889118861942148,0.06336786075255296,False,Left Foot,Free Kick,0,0,0,Normal
-19.231484602078964,0.05405606749961961,False,Right Foot,Open Play,1,0,1,Normal
-9.879271228182775,0.05925868527076379,False,Head,Open Play,0,0,3,Normal
-6.350590523722972,0.056158029330227455,False,Right Foot,Open Play,1,0,2,Half Volley
-8.236504112789602,0.058883001939945244,True,Right Foot,Open Play,1,0,3,Normal
-29.493219559756437,0.0647842651549959,False,Right Foot,Open Play,0,0,1,Normal
-21.925783908448974,0.06180417480175727,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267327,Ivan Rakitić,Barcelona,28.442925306655784,0.06419816434277001,False,Right Foot,Open Play,1,0,3,Normal
+267327,Germán Alejandro Pezzella,Real Betis,13.86001443000692,0.059515633011427066,False,Head,Open Play,0,1,4,Normal
+267327,Lionel Andrés Messi Cuccittini,Barcelona,30.654363474063523,0.07131444323615452,False,Left Foot,Free Kick,0,0,0,Normal
+267327,Álvaro Cejudo Carmona,Real Betis,30.096013024983897,0.06266047702745046,False,Left Foot,Open Play,0,1,2,Normal
+267327,Álvaro Cejudo Carmona,Real Betis,23.138928237928393,0.06169235305146088,False,Left Foot,Open Play,1,0,1,Half Volley
+267327,Neymar da Silva Santos Junior,Barcelona,10.983624174196782,0.05978112581143321,False,Head,Open Play,0,0,1,Normal
+267327,Neymar da Silva Santos Junior,Barcelona,12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
+267327,Lionel Andrés Messi Cuccittini,Barcelona,7.907591289387687,0.058411683035489236,True,Right Foot,Open Play,1,0,3,Half Volley
+267327,Luis Alberto Suárez Díaz,Barcelona,15.543809056984712,0.052146449823835976,False,Right Foot,Open Play,0,0,2,Normal
+267327,Luis Alberto Suárez Díaz,Barcelona,14.681961721786358,0.06240725698350408,True,Left Foot,Open Play,0,1,2,Normal
+267327,Francisco José Molinero Calderón,Real Betis,26.554848898082632,0.05536181508952346,False,Right Foot,Open Play,0,0,1,Half Volley
+267327,Álvaro Cejudo Carmona,Real Betis,19.94216638181519,0.056815907419871504,False,Right Foot,Open Play,1,0,1,Half Volley
+267327,Lionel Andrés Messi Cuccittini,Barcelona,12.660568707605513,0.0607795753828803,False,Left Foot,Open Play,1,0,2,Normal
+267327,Neymar da Silva Santos Junior,Barcelona,10.18331969448077,0.05993296201370552,False,Right Foot,Open Play,0,0,2,Normal
+267327,Lionel Andrés Messi Cuccittini,Barcelona,14.144963768069543,0.061962692192349816,False,Left Foot,Open Play,1,0,1,Normal
+267327,Álvaro Cejudo Carmona,Real Betis,28.058866691297432,0.05753080359070617,False,Left Foot,Open Play,0,0,0,Normal
+267327,Alfred John Momar N''Diaye,Real Betis,12.753430910935293,0.06123794839414937,False,Head,Open Play,0,0,1,Normal
+267327,Neymar da Silva Santos Junior,Barcelona,11.469088891450795,0.060553664916118806,False,Right Foot,Open Play,0,0,2,Normal
+267327,Lionel Andrés Messi Cuccittini,Barcelona,29.822307087145358,0.07172776917761396,False,Left Foot,Free Kick,0,0,0,Normal
+267327,Juan Manuel Vargas Risco,Real Betis,31.400636936215168,0.06873553684509102,False,Left Foot,Open Play,1,0,0,Normal
+267327,Daniel Alves da Silva,Barcelona,18.027756377319946,0.05323321400889284,False,Right Foot,Open Play,0,0,1,Lob
+267327,Luis Alberto Suárez Díaz,Barcelona,13.741178988718541,0.061309706459927886,False,Right Foot,Open Play,0,0,1,Normal
+267327,Lionel Andrés Messi Cuccittini,Barcelona,23.889118861942148,0.06336786075255296,False,Left Foot,Free Kick,0,0,0,Normal
+267327,Ricky van Wolfswinkel,Real Betis,19.231484602078964,0.05405606749961961,False,Right Foot,Open Play,1,0,1,Normal
+267327,Ricky van Wolfswinkel,Real Betis,9.879271228182775,0.05925868527076379,False,Head,Open Play,0,0,3,Normal
+267327,Germán Alejandro Pezzella,Real Betis,6.350590523722972,0.056158029330227455,False,Right Foot,Open Play,1,0,2,Half Volley
+267327,Luis Alberto Suárez Díaz,Barcelona,8.236504112789602,0.058883001939945244,True,Right Foot,Open Play,1,0,3,Normal
+267327,Rafael van der Vaart,Real Betis,29.493219559756437,0.0647842651549959,False,Right Foot,Open Play,0,0,1,Normal
+267327,Álvaro Cejudo Carmona,Real Betis,21.925783908448974,0.06180417480175727,False,Right Foot,Open Play,0,0,2,Normal

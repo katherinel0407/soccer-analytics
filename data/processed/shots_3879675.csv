@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-40.36557939631239,0.07165431972765343,False,Right Foot,Open Play,1,0,1,Volley
-22.105655384991415,0.06703253973239465,False,Right Foot,Open Play,0,1,2,Normal
-34.46882649583533,0.07478250483837912,False,Right Foot,Open Play,1,0,1,Normal
-31.82970310888872,0.0720371178757589,False,Left Foot,Open Play,0,0,1,Half Volley
-21.72763217656264,0.05513051251641795,False,Right Foot,Open Play,0,0,1,Normal
-28.745260478903297,0.061716488961303724,False,Right Foot,Open Play,0,1,2,Normal
-36.85919152667351,0.06734408042234574,False,Right Foot,Open Play,0,0,0,Half Volley
-9.392017887546857,0.05729406699343533,False,Head,Open Play,0,1,5,Normal
-31.781913095344027,0.055009000648865346,False,Right Foot,Open Play,0,0,1,Normal
-31.548375552474965,0.07374652377369986,False,Right Foot,Open Play,1,0,0,Normal
-22.065810658119954,0.05483901126899802,False,Right Foot,Open Play,0,0,1,Normal
-29.929249907072514,0.06326877451606529,False,Right Foot,Open Play,0,0,1,Normal
-27.943156586184028,0.07086655480303691,False,Right Foot,Open Play,0,0,1,Normal
-31.852158482589527,0.05618789361003611,False,Right Foot,Free Kick,0,0,0,Normal
-23.940133667128926,0.0676348737107879,False,Left Foot,Open Play,0,0,2,Normal
-32.68332908380051,0.06565576381747494,False,Right Foot,Open Play,0,1,1,Normal
-21.48976500569516,0.06565827341445679,False,Left Foot,Open Play,1,0,0,Normal
-21.301877851494694,0.06617558936608967,False,Right Foot,Open Play,0,0,3,Normal
-7.211102550927981,0.057505987124957865,False,Head,Open Play,0,0,2,Normal
-13.472935834479431,0.058749704925628754,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879675,Abdoulay Konko,Lazio,40.36557939631239,0.07165431972765343,False,Right Foot,Open Play,1,0,1,Volley
+3879675,Antonio Di Gaudio,Carpi,22.105655384991415,0.06703253973239465,False,Right Foot,Open Play,0,1,2,Normal
+3879675,Antonio Candreva,Lazio,34.46882649583533,0.07478250483837912,False,Right Foot,Open Play,1,0,1,Normal
+3879675,Ştefan Daniel Radu,Lazio,31.82970310888872,0.0720371178757589,False,Left Foot,Open Play,0,0,1,Half Volley
+3879675,Felipe Anderson Pereira Gomes,Lazio,21.72763217656264,0.05513051251641795,False,Right Foot,Open Play,0,0,1,Normal
+3879675,Lorenzo Lollo,Carpi,28.745260478903297,0.061716488961303724,False,Right Foot,Open Play,0,1,2,Normal
+3879675,Felipe Anderson Pereira Gomes,Lazio,36.85919152667351,0.06734408042234574,False,Right Foot,Open Play,0,0,0,Half Volley
+3879675,Wesley Hoedt,Lazio,9.392017887546857,0.05729406699343533,False,Head,Open Play,0,1,5,Normal
+3879675,Antonio Candreva,Lazio,31.781913095344027,0.055009000648865346,False,Right Foot,Open Play,0,0,1,Normal
+3879675,Gaetano Letizia,Carpi,31.548375552474965,0.07374652377369986,False,Right Foot,Open Play,1,0,0,Normal
+3879675,Cristian Zaccardo,Carpi,22.065810658119954,0.05483901126899802,False,Right Foot,Open Play,0,0,1,Normal
+3879675,Abdoulay Konko,Lazio,29.929249907072514,0.06326877451606529,False,Right Foot,Open Play,0,0,1,Normal
+3879675,Keita Baldé Diao,Lazio,27.943156586184028,0.07086655480303691,False,Right Foot,Open Play,0,0,1,Normal
+3879675,Antonio Candreva,Lazio,31.852158482589527,0.05618789361003611,False,Right Foot,Free Kick,0,0,0,Normal
+3879675,Marco Parolo,Lazio,23.940133667128926,0.0676348737107879,False,Left Foot,Open Play,0,0,2,Normal
+3879675,Abdoulay Konko,Lazio,32.68332908380051,0.06565576381747494,False,Right Foot,Open Play,0,1,1,Normal
+3879675,Ştefan Daniel Radu,Lazio,21.48976500569516,0.06565827341445679,False,Left Foot,Open Play,1,0,0,Normal
+3879675,Antonio Candreva,Lazio,21.301877851494694,0.06617558936608967,False,Right Foot,Open Play,0,0,3,Normal
+3879675,Miroslav Klose,Lazio,7.211102550927981,0.057505987124957865,False,Head,Open Play,0,0,2,Normal
+3879675,Kevin Lasagna,Carpi,13.472935834479431,0.058749704925628754,False,Left Foot,Open Play,1,0,2,Normal

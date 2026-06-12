@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.492256130079957,0.06289490547847768,True,Right Foot,Open Play,0,0,2,Normal
-14.520674915443838,0.061709827453352406,False,Left Foot,Open Play,1,0,1,Normal
-11.40613869808709,0.05692538640975803,False,Right Foot,Open Play,1,1,1,Normal
-13.118688958886095,0.060876442838889946,False,Left Foot,Open Play,0,0,3,Normal
-16.601204775557704,0.053128326798085726,False,Right Foot,Open Play,1,1,2,Normal
-26.126614782631137,0.057036515092433585,False,Right Foot,Open Play,0,0,1,Normal
-8.28794304999739,0.05889681034976929,True,Head,Open Play,0,0,1,Normal
-15.780050697003482,0.0607157182231137,False,Left Foot,Open Play,1,0,1,Normal
-22.901964981197573,0.05643564352327329,False,Left Foot,Open Play,0,0,2,Normal
-19.61147623204332,0.0654263288171336,True,Left Foot,Open Play,1,0,2,Normal
-20.85425616031414,0.06622112084543294,False,Left Foot,Open Play,0,0,1,Half Volley
-18.713097017864257,0.06279611602340511,False,Left Foot,Open Play,0,1,2,Normal
-22.64972406012929,0.06359691389482422,False,Left Foot,Open Play,1,0,0,Volley
-6.708203932499369,0.05768020589547797,False,Right Foot,Open Play,1,0,3,Volley
-23.413671220037244,0.06429481460241052,False,Left Foot,Open Play,0,0,1,Normal
-11.289818421923357,0.06053258805924161,True,Left Foot,Open Play,1,0,4,Normal
-15.94521871910198,0.061728678509424546,False,Left Foot,Open Play,1,0,1,Normal
-36.63945960300179,0.07792486547284706,False,Left Foot,Open Play,1,0,0,Normal
-14.512408483776909,0.060880306804874905,False,Left Foot,Open Play,1,0,2,Half Volley
-23.482972554597943,0.05547645352280182,False,Right Foot,Open Play,0,0,1,Normal
-19.777259668619408,0.06529093237748779,True,Right Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3764661,Iñaki Williams Arthuer,Athletic Club,15.492256130079957,0.06289490547847768,True,Right Foot,Open Play,0,0,2,Normal
+3764661,Yuri Berchiche Izeta,Athletic Club,14.520674915443838,0.061709827453352406,False,Left Foot,Open Play,1,0,1,Normal
+3764661,Sergino Dest,Barcelona,11.40613869808709,0.05692538640975803,False,Right Foot,Open Play,1,1,1,Normal
+3764661,Iker Muniain Goñi,Athletic Club,13.118688958886095,0.060876442838889946,False,Left Foot,Open Play,0,0,3,Normal
+3764661,Iñaki Williams Arthuer,Athletic Club,16.601204775557704,0.053128326798085726,False,Right Foot,Open Play,1,1,2,Normal
+3764661,Ousmane Dembélé,Barcelona,26.126614782631137,0.057036515092433585,False,Right Foot,Open Play,0,0,1,Normal
+3764661,Pedro González López,Barcelona,8.28794304999739,0.05889681034976929,True,Head,Open Play,0,0,1,Normal
+3764661,Jordi Alba Ramos,Barcelona,15.780050697003482,0.0607157182231137,False,Left Foot,Open Play,1,0,1,Normal
+3764661,Ousmane Dembélé,Barcelona,22.901964981197573,0.05643564352327329,False,Left Foot,Open Play,0,0,2,Normal
+3764661,Lionel Andrés Messi Cuccittini,Barcelona,19.61147623204332,0.0654263288171336,True,Left Foot,Open Play,1,0,2,Normal
+3764661,Antoine Griezmann,Barcelona,20.85425616031414,0.06622112084543294,False,Left Foot,Open Play,0,0,1,Half Volley
+3764661,Lionel Andrés Messi Cuccittini,Barcelona,18.713097017864257,0.06279611602340511,False,Left Foot,Open Play,0,1,2,Normal
+3764661,Unai Vencedor Paris,Athletic Club,22.64972406012929,0.06359691389482422,False,Left Foot,Open Play,1,0,0,Volley
+3764661,Raúl García Escudero,Athletic Club,6.708203932499369,0.05768020589547797,False,Right Foot,Open Play,1,0,3,Volley
+3764661,Lionel Andrés Messi Cuccittini,Barcelona,23.413671220037244,0.06429481460241052,False,Left Foot,Open Play,0,0,1,Normal
+3764661,Lionel Andrés Messi Cuccittini,Barcelona,11.289818421923357,0.06053258805924161,True,Left Foot,Open Play,1,0,4,Normal
+3764661,Lionel Andrés Messi Cuccittini,Barcelona,15.94521871910198,0.061728678509424546,False,Left Foot,Open Play,1,0,1,Normal
+3764661,Antoine Griezmann,Barcelona,36.63945960300179,0.07792486547284706,False,Left Foot,Open Play,1,0,0,Normal
+3764661,Antoine Griezmann,Barcelona,14.512408483776909,0.060880306804874905,False,Left Foot,Open Play,1,0,2,Half Volley
+3764661,Alejandro Berenguer Remiro,Athletic Club,23.482972554597943,0.05547645352280182,False,Right Foot,Open Play,0,0,1,Normal
+3764661,Iker Muniain Goñi,Athletic Club,19.777259668619408,0.06529093237748779,True,Right Foot,Open Play,1,0,3,Normal

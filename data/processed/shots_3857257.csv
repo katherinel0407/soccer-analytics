@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.24347537960627,0.06226314354044103,False,Left Foot,Open Play,0,0,3,Normal
-10.640488710580925,0.05735666119349739,False,Right Foot,Open Play,1,0,3,Normal
-17.86001119820477,0.05197645184289086,False,Right Foot,Open Play,0,0,1,Normal
-18.670297265978387,0.056629493461535056,False,Right Foot,Open Play,0,0,4,Normal
-26.658769664033635,0.05395734284799097,False,Left Foot,Open Play,0,0,3,Half Volley
-14.778700890132399,0.05508691498800059,False,Right Foot,Open Play,1,0,2,Normal
-22.355536227073593,0.06697030349100305,False,Right Foot,Open Play,0,0,1,Normal
-17.808424972467385,0.0632866729089081,False,Head,Open Play,0,0,2,Normal
-28.908476265621474,0.0712192481116372,False,Right Foot,Open Play,0,0,2,Normal
-20.66034849657672,0.06545593473081518,False,Right Foot,Open Play,1,0,1,Half Volley
-13.88524396616783,0.06188480348991023,False,Left Foot,Open Play,1,0,2,Half Volley
-18.172781845386243,0.05490812035232938,False,Left Foot,Open Play,0,0,2,Normal
-16.63550420035413,0.06358809825590132,True,Left Foot,Open Play,0,0,2,Normal
-19.289893727027117,0.05778102320600362,False,Left Foot,Open Play,0,1,1,Normal
-13.729530217745976,0.05307164919428562,False,Head,Open Play,0,1,2,Normal
-25.191466809219342,0.056619007097779527,False,Right Foot,Open Play,1,0,3,Half Volley
-14.805404418657394,0.06093507992322369,False,Left Foot,Open Play,1,0,1,Backheel
-22.571885167172013,0.06507360913461534,False,Right Foot,Open Play,0,0,3,Normal
-23.527430798963152,0.060593804578735956,False,Right Foot,Open Play,0,0,2,Normal
-20.46851240320117,0.052843309073870214,False,Right Foot,Open Play,1,0,1,Normal
-6.928924880528005,0.057560965526572416,False,Right Foot,Open Play,1,0,3,Backheel
-12.088010589009263,0.052492605702617746,False,Head,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857257,Riley McGree,Australia,26.24347537960627,0.06226314354044103,False,Left Foot,Open Play,0,0,3,Normal
+3857257,Jesper Lindstrøm,Denmark,10.640488710580925,0.05735666119349739,False,Right Foot,Open Play,1,0,3,Normal
+3857257,Mathias Jensen,Denmark,17.86001119820477,0.05197645184289086,False,Right Foot,Open Play,0,0,1,Normal
+3857257,Andreas Skov Olsen,Denmark,18.670297265978387,0.056629493461535056,False,Right Foot,Open Play,0,0,4,Normal
+3857257,Riley McGree,Australia,26.658769664033635,0.05395734284799097,False,Left Foot,Open Play,0,0,3,Half Volley
+3857257,Andreas Skov Olsen,Denmark,14.778700890132399,0.05508691498800059,False,Right Foot,Open Play,1,0,2,Normal
+3857257,Christian Dannemann Eriksen,Denmark,22.355536227073593,0.06697030349100305,False,Right Foot,Open Play,0,0,1,Normal
+3857257,Mitchell Thomas Duke,Australia,17.808424972467385,0.0632866729089081,False,Head,Open Play,0,0,2,Normal
+3857257,Mitchell Thomas Duke,Australia,28.908476265621474,0.0712192481116372,False,Right Foot,Open Play,0,0,2,Normal
+3857257,Aziz Eraltay Behich,Australia,20.66034849657672,0.06545593473081518,False,Right Foot,Open Play,1,0,1,Half Volley
+3857257,Jackson Irvine,Australia,13.88524396616783,0.06188480348991023,False,Left Foot,Open Play,1,0,2,Half Volley
+3857257,Andreas Skov Olsen,Denmark,18.172781845386243,0.05490812035232938,False,Left Foot,Open Play,0,0,2,Normal
+3857257,Mathew Leckie,Australia,16.63550420035413,0.06358809825590132,True,Left Foot,Open Play,0,0,2,Normal
+3857257,Andreas Skov Olsen,Denmark,19.289893727027117,0.05778102320600362,False,Left Foot,Open Play,0,1,1,Normal
+3857257,Joachim Andersen,Denmark,13.729530217745976,0.05307164919428562,False,Head,Open Play,0,1,2,Normal
+3857257,Alexander Hartmann Bah,Denmark,25.191466809219342,0.056619007097779527,False,Right Foot,Open Play,1,0,3,Half Volley
+3857257,Kasper Dolberg,Denmark,14.805404418657394,0.06093507992322369,False,Left Foot,Open Play,1,0,1,Backheel
+3857257,Jesper Lindstrøm,Denmark,22.571885167172013,0.06507360913461534,False,Right Foot,Open Play,0,0,3,Normal
+3857257,Keanu Baccus,Australia,23.527430798963152,0.060593804578735956,False,Right Foot,Open Play,0,0,2,Normal
+3857257,Alexander Hartmann Bah,Denmark,20.46851240320117,0.052843309073870214,False,Right Foot,Open Play,1,0,1,Normal
+3857257,Kasper Dolberg,Denmark,6.928924880528005,0.057560965526572416,False,Right Foot,Open Play,1,0,3,Backheel
+3857257,Andreas Evald Cornelius,Denmark,12.088010589009263,0.052492605702617746,False,Head,Open Play,0,0,0,Normal

@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.769728648009426,0.06279443406829102,False,Right Foot,Free Kick,0,0,0,Normal
-33.28663395418648,0.05693902596240584,False,Left Foot,Open Play,0,1,3,Normal
-8.94427190999916,0.059225041351301994,False,Head,Open Play,0,1,4,Normal
-5.656854249492381,0.057548353589171,False,Right Foot,Open Play,0,1,3,Overhead Kick
-28.844410203711913,0.05689149781104716,False,Right Foot,Open Play,1,0,0,Volley
-17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,0,2,Normal
-10.198039027185569,0.05943943692925755,False,Right Foot,Open Play,1,0,2,Volley
-31.144823004794873,0.05263004975403091,False,Left Foot,Open Play,0,0,0,Normal
-4.0,0.056387832593991966,False,Head,Open Play,0,1,5,Normal
-18.24828759089466,0.06041114294119031,False,Right Foot,Open Play,0,0,2,Normal
-27.65863337187866,0.06941317046765531,False,Left Foot,Open Play,0,0,0,Normal
-19.924858845171276,0.06508300265089756,False,Right Foot,Open Play,0,1,1,Normal
-5.385164807134504,0.05615232855593911,False,Right Foot,Open Play,1,0,3,Volley
-18.027756377319946,0.06443598513218433,False,Right Foot,Open Play,1,0,1,Volley
-24.186773244895647,0.06844259943706751,False,Right Foot,Open Play,0,0,2,Normal
-19.79898987322333,0.05482453715187391,False,Left Foot,Open Play,0,1,3,Normal
-20.0,0.06560915817967398,False,Right Foot,Open Play,0,0,1,Volley
-25.80697580112788,0.052122748550204524,False,Right Foot,Open Play,0,0,2,Normal
-16.278820596099706,0.06298210882459589,False,Left Foot,Open Play,0,1,1,Normal
-11.045361017187261,0.058822261465885754,False,Right Foot,Open Play,1,0,2,Normal
-8.94427190999916,0.058627918422720963,True,Left Foot,Open Play,0,0,1,Normal
-17.46424919657298,0.063317961320634,False,Left Foot,Open Play,1,0,0,Normal
-21.587033144922902,0.06194265063957452,False,Left Foot,Open Play,0,0,1,Normal
-20.518284528683193,0.06539832613154843,False,Right Foot,Open Play,0,0,1,Normal
-16.278820596099706,0.06320301473971049,False,Head,Open Play,0,1,1,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-42.37924020083418,0.06286715918504161,False,Right Foot,Open Play,0,0,0,Normal
-31.04834939252005,0.0633186778043385,False,Right Foot,Open Play,0,0,2,Normal
-12.727922061357855,0.061159910748726246,False,Head,Open Play,0,1,4,Normal
-14.0,0.060438191179105843,False,Head,Open Play,0,0,0,Diving Header
-9.219544457292887,0.0576777719680193,False,Head,Open Play,0,1,4,Normal
-27.784887978899608,0.05792201273990534,False,Left Foot,Free Kick,0,0,0,Normal
-11.704699910719626,0.05937729985753049,False,Right Foot,Open Play,0,1,2,Half Volley
-3.605551275463989,0.05541354467684584,False,Head,Open Play,0,0,3,Normal
-24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,1,Normal
-30.083217912982647,0.06292711152415441,False,Left Foot,Open Play,0,1,1,Normal
-26.1725046566048,0.06882274890470857,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7566,Emil Peter Forsberg,Sweden,23.769728648009426,0.06279443406829102,False,Right Foot,Free Kick,0,0,0,Normal
+7566,Miguel Arturo Layún Prado,Mexico,33.28663395418648,0.05693902596240584,False,Left Foot,Open Play,0,1,3,Normal
+7566,Andreas Granqvist,Sweden,8.94427190999916,0.059225041351301994,False,Head,Open Play,0,1,4,Normal
+7566,Marcus Berg,Sweden,5.656854249492381,0.057548353589171,False,Right Foot,Open Play,0,1,3,Overhead Kick
+7566,Emil Peter Forsberg,Sweden,28.844410203711913,0.05689149781104716,False,Right Foot,Open Play,1,0,0,Volley
+7566,Carlos Alberto Vela Garrido,Mexico,17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,0,2,Normal
+7566,Emil Peter Forsberg,Sweden,10.198039027185569,0.05943943692925755,False,Right Foot,Open Play,1,0,2,Volley
+7566,Carlos Alberto Vela Garrido,Mexico,31.144823004794873,0.05263004975403091,False,Left Foot,Open Play,0,0,0,Normal
+7566,José Andrés Guardado Hernández,Mexico,4.0,0.056387832593991966,False,Head,Open Play,0,1,5,Normal
+7566,Héctor Miguel Herrera López,Mexico,18.24828759089466,0.06041114294119031,False,Right Foot,Open Play,0,0,2,Normal
+7566,José Andrés Guardado Hernández,Mexico,27.65863337187866,0.06941317046765531,False,Left Foot,Open Play,0,0,0,Normal
+7566,Emil Peter Forsberg,Sweden,19.924858845171276,0.06508300265089756,False,Right Foot,Open Play,0,1,1,Normal
+7566,Marcus Berg,Sweden,5.385164807134504,0.05615232855593911,False,Right Foot,Open Play,1,0,3,Volley
+7566,Emil Peter Forsberg,Sweden,18.027756377319946,0.06443598513218433,False,Right Foot,Open Play,1,0,1,Volley
+7566,Hirving Rodrigo Lozano Bahena,Mexico,24.186773244895647,0.06844259943706751,False,Right Foot,Open Play,0,0,2,Normal
+7566,Carlos Alberto Vela Garrido,Mexico,19.79898987322333,0.05482453715187391,False,Left Foot,Open Play,0,1,3,Normal
+7566,Carlos Joel Salcedo Hernández,Mexico,20.0,0.06560915817967398,False,Right Foot,Open Play,0,0,1,Volley
+7566,Miguel Arturo Layún Prado,Mexico,25.80697580112788,0.052122748550204524,False,Right Foot,Open Play,0,0,2,Normal
+7566,Marcus Berg,Sweden,16.278820596099706,0.06298210882459589,False,Left Foot,Open Play,0,1,1,Normal
+7566,Viktor Claesson,Sweden,11.045361017187261,0.058822261465885754,False,Right Foot,Open Play,1,0,2,Normal
+7566,Ludwig Augustinsson,Sweden,8.94427190999916,0.058627918422720963,True,Left Foot,Open Play,0,0,1,Normal
+7566,Emil Peter Forsberg,Sweden,17.46424919657298,0.063317961320634,False,Left Foot,Open Play,1,0,0,Normal
+7566,José Andrés Guardado Hernández,Mexico,21.587033144922902,0.06194265063957452,False,Left Foot,Open Play,0,0,1,Normal
+7566,Ludwig Augustinsson,Sweden,20.518284528683193,0.06539832613154843,False,Right Foot,Open Play,0,0,1,Normal
+7566,Marcus Berg,Sweden,16.278820596099706,0.06320301473971049,False,Head,Open Play,0,1,1,Normal
+7566,Andreas Granqvist,Sweden,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7566,Carlos Joel Salcedo Hernández,Mexico,42.37924020083418,0.06286715918504161,False,Right Foot,Open Play,0,0,0,Normal
+7566,Marco Jhonfai Fabián De La Mora,Mexico,31.04834939252005,0.0633186778043385,False,Right Foot,Open Play,0,0,2,Normal
+7566,Carlos Joel Salcedo Hernández,Mexico,12.727922061357855,0.061159910748726246,False,Head,Open Play,0,1,4,Normal
+7566,Javier Hernández Balcázar,Mexico,14.0,0.060438191179105843,False,Head,Open Play,0,0,0,Diving Header
+7566,Héctor Alfredo Moreno Herrera,Mexico,9.219544457292887,0.0576777719680193,False,Head,Open Play,0,1,4,Normal
+7566,Carlos Alberto Vela Garrido,Mexico,27.784887978899608,0.05792201273990534,False,Left Foot,Free Kick,0,0,0,Normal
+7566,Javier Hernández Balcázar,Mexico,11.704699910719626,0.05937729985753049,False,Right Foot,Open Play,0,1,2,Half Volley
+7566,Carlos Alberto Vela Garrido,Mexico,3.605551275463989,0.05541354467684584,False,Head,Open Play,0,0,3,Normal
+7566,Hirving Rodrigo Lozano Bahena,Mexico,24.596747752497688,0.058772726700206404,False,Right Foot,Open Play,0,0,1,Normal
+7566,Héctor Miguel Herrera López,Mexico,30.083217912982647,0.06292711152415441,False,Left Foot,Open Play,0,1,1,Normal
+7566,Hirving Rodrigo Lozano Bahena,Mexico,26.1725046566048,0.06882274890470857,False,Right Foot,Open Play,0,1,2,Normal

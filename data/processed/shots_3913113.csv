@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.41561653208075,0.061589662626391865,False,Head,Open Play,0,1,2,Normal
-24.97218452598811,0.06875917761901658,False,Left Foot,Open Play,0,1,2,Normal
-22.53974267821175,0.06724977330322836,False,Right Foot,Open Play,0,0,2,Normal
-5.107837115648857,0.056040505618199184,False,Head,Open Play,0,1,6,Normal
-8.96939239859646,0.05916731365709978,False,Head,Open Play,0,1,5,Normal
-10.280077820717121,0.05997779442741658,False,Left Foot,Open Play,1,0,4,Volley
-21.654098919142307,0.06603534714816785,False,Right Foot,Open Play,0,0,2,Normal
-34.0001470585055,0.06990559192276616,False,Left Foot,Open Play,1,1,1,Half Volley
-16.653227915332213,0.06239742865622581,False,Left Foot,Open Play,1,0,1,Normal
-14.12303083619094,0.06131813640302395,False,Head,Open Play,0,1,2,Normal
-19.555561868685846,0.0653751048353095,False,Right Foot,Open Play,0,0,3,Normal
-21.300938946440837,0.06648714177835947,False,Right Foot,Open Play,0,0,1,Normal
-19.738540979515175,0.06495904862031426,False,Right Foot,Open Play,0,0,2,Normal
-22.999347816840377,0.0672122570378825,False,Right Foot,Open Play,0,0,3,Normal
-26.419689627245816,0.06771289677710507,False,Left Foot,Open Play,0,0,1,Normal
-8.486459803710856,0.05890369194937244,False,Head,Open Play,0,0,2,Normal
-25.309681941897253,0.06592886825106171,False,Right Foot,Open Play,0,0,1,Normal
-29.13863414781139,0.05833963345717333,False,Left Foot,Open Play,0,0,1,Normal
-21.137644144984556,0.057161013246946016,False,Right Foot,Open Play,0,0,2,Normal
-13.36899397860587,0.053834273505792354,False,Left Foot,Open Play,0,0,2,Normal
-25.143189932862537,0.0662695533000819,False,Right Foot,Open Play,0,0,1,Normal
-23.671924298628532,0.061798525074679825,False,Right Foot,Open Play,0,0,2,Volley
-13.64001466274871,0.058623837522876046,True,Left Foot,Open Play,1,1,1,Normal
-16.91685549976709,0.0626756687584703,False,Right Foot,Open Play,1,0,1,Volley
-21.42825237857721,0.060692173180074964,False,Right Foot,Open Play,0,0,1,Normal
-26.786563796052672,0.07005391391825246,False,Left Foot,Open Play,1,0,1,Volley
-21.79036484320536,0.0550133527468317,False,Right Foot,Open Play,0,0,1,Half Volley
-19.954197553397133,0.05979962298302213,False,Left Foot,Open Play,0,0,2,Normal
-3.9560080889704987,0.05668507987139003,False,Head,Open Play,0,0,9,Normal
-6.551335741663674,0.0580335292157387,False,Head,Open Play,0,1,4,Normal
-20.645580640902303,0.05309036547919282,False,Right Foot,Open Play,0,0,2,Normal
-9.459386872308379,0.05916625612144991,False,Head,Open Play,0,1,6,Normal
-8.06535802057168,0.05690248285051157,False,Head,Open Play,0,0,6,Normal
-8.421401308570927,0.05791525793844267,False,Right Foot,Open Play,1,0,3,Volley
-18.708554193202637,0.06002143425273415,False,Right Foot,Open Play,1,0,1,Half Volley
-20.22003956474863,0.05679502066113568,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913113,Alessia Russo,Arsenal WFC,14.41561653208075,0.061589662626391865,False,Head,Open Play,0,1,2,Normal
+3913113,Bethany England,Tottenham Hotspur Women,24.97218452598811,0.06875917761901658,False,Left Foot,Open Play,0,1,2,Normal
+3913113,Caitlin Jade Foord,Arsenal WFC,22.53974267821175,0.06724977330322836,False,Right Foot,Open Play,0,0,2,Normal
+3913113,Alessia Russo,Arsenal WFC,5.107837115648857,0.056040505618199184,False,Head,Open Play,0,1,6,Normal
+3913113,Carlotte Wubben-Moy,Arsenal WFC,8.96939239859646,0.05916731365709978,False,Head,Open Play,0,1,5,Normal
+3913113,Alessia Russo,Arsenal WFC,10.280077820717121,0.05997779442741658,False,Left Foot,Open Play,1,0,4,Volley
+3913113,Caitlin Jade Foord,Arsenal WFC,21.654098919142307,0.06603534714816785,False,Right Foot,Open Play,0,0,2,Normal
+3913113,Kit Graham,Tottenham Hotspur Women,34.0001470585055,0.06990559192276616,False,Left Foot,Open Play,1,1,1,Half Volley
+3913113,Caitlin Jade Foord,Arsenal WFC,16.653227915332213,0.06239742865622581,False,Left Foot,Open Play,1,0,1,Normal
+3913113,Frida Maanum,Arsenal WFC,14.12303083619094,0.06131813640302395,False,Head,Open Play,0,1,2,Normal
+3913113,Frida Maanum,Arsenal WFC,19.555561868685846,0.0653751048353095,False,Right Foot,Open Play,0,0,3,Normal
+3913113,Victoria Pelova,Arsenal WFC,21.300938946440837,0.06648714177835947,False,Right Foot,Open Play,0,0,1,Normal
+3913113,Caitlin Jade Foord,Arsenal WFC,19.738540979515175,0.06495904862031426,False,Right Foot,Open Play,0,0,2,Normal
+3913113,Frida Maanum,Arsenal WFC,22.999347816840377,0.0672122570378825,False,Right Foot,Open Play,0,0,3,Normal
+3913113,Katie McCabe,Arsenal WFC,26.419689627245816,0.06771289677710507,False,Left Foot,Open Play,0,0,1,Normal
+3913113,Alessia Russo,Arsenal WFC,8.486459803710856,0.05890369194937244,False,Head,Open Play,0,0,2,Normal
+3913113,Frida Maanum,Arsenal WFC,25.309681941897253,0.06592886825106171,False,Right Foot,Open Play,0,0,1,Normal
+3913113,Katie McCabe,Arsenal WFC,29.13863414781139,0.05833963345717333,False,Left Foot,Open Play,0,0,1,Normal
+3913113,Frida Maanum,Arsenal WFC,21.137644144984556,0.057161013246946016,False,Right Foot,Open Play,0,0,2,Normal
+3913113,Bethany Mead,Arsenal WFC,13.36899397860587,0.053834273505792354,False,Left Foot,Open Play,0,0,2,Normal
+3913113,Frida Maanum,Arsenal WFC,25.143189932862537,0.0662695533000819,False,Right Foot,Open Play,0,0,1,Normal
+3913113,Bethany Mead,Arsenal WFC,23.671924298628532,0.061798525074679825,False,Right Foot,Open Play,0,0,2,Volley
+3913113,Martha Thomas,Tottenham Hotspur Women,13.64001466274871,0.058623837522876046,True,Left Foot,Open Play,1,1,1,Normal
+3913113,Alessia Russo,Arsenal WFC,16.91685549976709,0.0626756687584703,False,Right Foot,Open Play,1,0,1,Volley
+3913113,Frida Maanum,Arsenal WFC,21.42825237857721,0.060692173180074964,False,Right Foot,Open Play,0,0,1,Normal
+3913113,Ashleigh Neville,Tottenham Hotspur Women,26.786563796052672,0.07005391391825246,False,Left Foot,Open Play,1,0,1,Volley
+3913113,Kyra Lillee Cooney-Cross,Arsenal WFC,21.79036484320536,0.0550133527468317,False,Right Foot,Open Play,0,0,1,Half Volley
+3913113,Stephanie-Elise Catley,Arsenal WFC,19.954197553397133,0.05979962298302213,False,Left Foot,Open Play,0,0,2,Normal
+3913113,Amanda Ilestedt,Arsenal WFC,3.9560080889704987,0.05668507987139003,False,Head,Open Play,0,0,9,Normal
+3913113,Alessia Russo,Arsenal WFC,6.551335741663674,0.0580335292157387,False,Head,Open Play,0,1,4,Normal
+3913113,Kyra Lillee Cooney-Cross,Arsenal WFC,20.645580640902303,0.05309036547919282,False,Right Foot,Open Play,0,0,2,Normal
+3913113,Emma Stina Blackstenius,Arsenal WFC,9.459386872308379,0.05916625612144991,False,Head,Open Play,0,1,6,Normal
+3913113,Amanda Ilestedt,Arsenal WFC,8.06535802057168,0.05690248285051157,False,Head,Open Play,0,0,6,Normal
+3913113,Vivianne Miedema,Arsenal WFC,8.421401308570927,0.05791525793844267,False,Right Foot,Open Play,1,0,3,Volley
+3913113,Kyra Lillee Cooney-Cross,Arsenal WFC,18.708554193202637,0.06002143425273415,False,Right Foot,Open Play,1,0,1,Half Volley
+3913113,Rosella Ayane,Tottenham Hotspur Women,20.22003956474863,0.05679502066113568,False,Right Foot,Open Play,0,0,1,Normal

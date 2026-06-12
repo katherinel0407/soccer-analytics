@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.693907687404245,0.05030028880335842,False,Right Foot,Open Play,1,0,2,Normal
-22.94275484766379,0.06508663078689314,False,Right Foot,Open Play,0,0,0,Normal
-23.0,0.06448536161976014,False,Right Foot,Open Play,1,0,1,Normal
-13.485177047410245,0.06160771184211043,False,Head,Open Play,0,0,3,Normal
-17.12921480979207,0.063303781546749,False,Left Foot,Open Play,0,0,2,Normal
-28.848743473503305,0.05879717870376175,False,Left Foot,Open Play,0,1,2,Normal
-11.764352935882194,0.054243555309956594,False,Right Foot,Open Play,1,0,5,Normal
-15.063200191194433,0.05353603509667172,False,Left Foot,Open Play,0,0,2,Normal
-11.940268003692378,0.06043867222016062,False,Right Foot,Open Play,0,0,3,Normal
-7.470609078247899,0.05626195173347833,False,Head,Open Play,0,1,1,Normal
-16.846661390317074,0.06285064855933152,False,Right Foot,Open Play,1,0,1,Volley
-3.4438350715445076,0.05648022134168713,True,Right Foot,Open Play,1,0,2,Volley
-25.76140524117425,0.05535335151916445,True,Left Foot,Open Play,0,0,2,Normal
-12.406449935416664,0.059614085940460616,False,Right Foot,Open Play,0,0,2,Half Volley
-22.27128195681605,0.0653973596837411,False,Right Foot,Open Play,0,0,0,Normal
-25.03197954617253,0.06831846428682098,False,Right Foot,Open Play,0,0,2,Normal
-15.060212481900775,0.062033875425249074,False,Right Foot,Open Play,0,0,2,Half Volley
-31.311499485013496,0.07217854592719798,False,Right Foot,Open Play,0,0,0,Normal
-29.904180309782777,0.06490124669192567,False,Left Foot,Open Play,0,0,1,Normal
-17.771043863543863,0.05879738685193933,False,Right Foot,Open Play,0,0,3,Normal
-16.896153408394472,0.05943890716524121,False,Left Foot,Open Play,1,1,4,Normal
-23.24069706355642,0.0527955680860907,False,Right Foot,Open Play,1,0,0,Half Volley
-39.10626548265635,0.04262312828826984,False,Left Foot,Corner,0,0,0,Normal
-24.506733768497178,0.06824674297033155,False,Left Foot,Open Play,0,0,1,Normal
-10.241581909060727,0.0560230953750805,False,Right Foot,Open Play,1,1,2,Volley
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3942227,Breel-Donald Embolo,Switzerland,19.693907687404245,0.05030028880335842,False,Right Foot,Open Play,1,0,2,Normal
+3942227,Declan Rice,England,22.94275484766379,0.06508663078689314,False,Right Foot,Open Play,0,0,0,Normal
+3942227,Kobbie Mainoo,England,23.0,0.06448536161976014,False,Right Foot,Open Play,1,0,1,Normal
+3942227,Harry Kane,England,13.485177047410245,0.06160771184211043,False,Head,Open Play,0,0,3,Normal
+3942227,Breel-Donald Embolo,Switzerland,17.12921480979207,0.063303781546749,False,Left Foot,Open Play,0,0,2,Normal
+3942227,Bukayo Saka,England,28.848743473503305,0.05879717870376175,False,Left Foot,Open Play,0,1,2,Normal
+3942227,Kobbie Mainoo,England,11.764352935882194,0.054243555309956594,False,Right Foot,Open Play,1,0,5,Normal
+3942227,Bukayo Saka,England,15.063200191194433,0.05353603509667172,False,Left Foot,Open Play,0,0,2,Normal
+3942227,Breel-Donald Embolo,Switzerland,11.940268003692378,0.06043867222016062,False,Right Foot,Open Play,0,0,3,Normal
+3942227,Breel-Donald Embolo,Switzerland,7.470609078247899,0.05626195173347833,False,Head,Open Play,0,1,1,Normal
+3942227,Michel Aebischer,Switzerland,16.846661390317074,0.06285064855933152,False,Right Foot,Open Play,1,0,1,Volley
+3942227,Breel-Donald Embolo,Switzerland,3.4438350715445076,0.05648022134168713,True,Right Foot,Open Play,1,0,2,Volley
+3942227,Bukayo Saka,England,25.76140524117425,0.05535335151916445,True,Left Foot,Open Play,0,0,2,Normal
+3942227,Harry Kane,England,12.406449935416664,0.059614085940460616,False,Right Foot,Open Play,0,0,2,Half Volley
+3942227,Eberechi Eze,England,22.27128195681605,0.0653973596837411,False,Right Foot,Open Play,0,0,0,Normal
+3942227,Dan Ndoye,Switzerland,25.03197954617253,0.06831846428682098,False,Right Foot,Open Play,0,0,2,Normal
+3942227,Steven Zuber,Switzerland,15.060212481900775,0.062033875425249074,False,Right Foot,Open Play,0,0,2,Half Volley
+3942227,Declan Rice,England,31.311499485013496,0.07217854592719798,False,Right Foot,Open Play,0,0,0,Normal
+3942227,Phil Foden,England,29.904180309782777,0.06490124669192567,False,Left Foot,Open Play,0,0,1,Normal
+3942227,Jude Bellingham,England,17.771043863543863,0.05879738685193933,False,Right Foot,Open Play,0,0,3,Normal
+3942227,Jude Bellingham,England,16.896153408394472,0.05943890716524121,False,Left Foot,Open Play,1,1,4,Normal
+3942227,Fabian Lukas Schär,Switzerland,23.24069706355642,0.0527955680860907,False,Right Foot,Open Play,1,0,0,Half Volley
+3942227,Xherdan Shaqiri,Switzerland,39.10626548265635,0.04262312828826984,False,Left Foot,Corner,0,0,0,Normal
+3942227,Mohamed Zeki Amdouni,Switzerland,24.506733768497178,0.06824674297033155,False,Left Foot,Open Play,0,0,1,Normal
+3942227,Silvan Widmer,Switzerland,10.241581909060727,0.0560230953750805,False,Right Foot,Open Play,1,1,2,Volley
+3942227,Cole Palmer,England,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3942227,Manuel Obafemi Akanji,Switzerland,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3942227,Jude Bellingham,England,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3942227,Fabian Lukas Schär,Switzerland,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3942227,Bukayo Saka,England,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3942227,Xherdan Shaqiri,Switzerland,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3942227,Ivan Toney,England,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3942227,Mohamed Zeki Amdouni,Switzerland,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3942227,Trent Alexander-Arnold,England,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal

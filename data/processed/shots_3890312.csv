@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.547511554864494,0.05211993570571426,False,Right Foot,Open Play,1,0,1,Half Volley
-31.057527267958733,0.07232440088361074,False,Left Foot,Open Play,0,0,1,Normal
-21.71658352503911,0.06508075771747457,False,Left Foot,Open Play,0,0,1,Normal
-17.477413996355413,0.06400124626122385,False,Left Foot,Open Play,1,0,1,Volley
-17.5328263551545,0.05892902692273418,False,Left Foot,Open Play,1,0,1,Volley
-14.04314779527724,0.06084904326956458,False,Head,Open Play,0,0,2,Normal
-17.681911661356075,0.05416639790235877,False,Right Foot,Open Play,0,0,2,Overhead Kick
-20.788458336298053,0.06617249281325639,False,Left Foot,Open Play,1,0,0,Half Volley
-41.80550203023521,0.08193004633226487,False,Right Foot,Free Kick,0,0,0,Normal
-17.474839055052833,0.06321227759658588,False,Left Foot,Open Play,1,1,2,Normal
-6.356099432828279,0.05625962439407648,False,Head,Open Play,0,1,5,Normal
-19.321749403198453,0.05363800248030296,False,Right Foot,Open Play,0,0,1,Normal
-26.053790511171304,0.06957143707337966,False,Left Foot,Open Play,1,1,1,Half Volley
-19.58187937865005,0.05288653236994155,False,Right Foot,Open Play,1,1,2,Normal
-9.613012014972208,0.0522474531430352,False,Left Foot,Open Play,1,0,1,Half Volley
-21.73890521622467,0.06446103866896992,False,Left Foot,Open Play,0,0,1,Normal
-17.613914953808536,0.05665285089320059,False,Right Foot,Open Play,1,0,1,Normal
-23.547823678633232,0.05709552853986309,True,Right Foot,Open Play,0,0,3,Normal
-7.080254232723572,0.0557031162432351,False,Right Foot,Open Play,1,0,2,Normal
-20.447493733951852,0.060961442057038635,False,Right Foot,Free Kick,0,0,0,Normal
-7.902531240052145,0.05476521159500115,False,Head,Open Play,0,0,3,Normal
-12.393950137062841,0.060680635903630376,False,Head,Open Play,0,1,2,Normal
-21.360009363293827,0.06619037584781354,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890312,Javier Hernández Balcázar,Bayer Leverkusen,10.547511554864494,0.05211993570571426,False,Right Foot,Open Play,1,0,1,Half Volley
+3890312,Wendell Nascimento Borges,Bayer Leverkusen,31.057527267958733,0.07232440088361074,False,Left Foot,Open Play,0,0,1,Normal
+3890312,Hakan Çalhanoğlu,Bayer Leverkusen,21.71658352503911,0.06508075771747457,False,Left Foot,Open Play,0,0,1,Normal
+3890312,Wendell Nascimento Borges,Bayer Leverkusen,17.477413996355413,0.06400124626122385,False,Left Foot,Open Play,1,0,1,Volley
+3890312,Kevin Kampl,Bayer Leverkusen,17.5328263551545,0.05892902692273418,False,Left Foot,Open Play,1,0,1,Volley
+3890312,Jonathan Tah,Bayer Leverkusen,14.04314779527724,0.06084904326956458,False,Head,Open Play,0,0,2,Normal
+3890312,André Ramalho Silva,Bayer Leverkusen,17.681911661356075,0.05416639790235877,False,Right Foot,Open Play,0,0,2,Overhead Kick
+3890312,Wendell Nascimento Borges,Bayer Leverkusen,20.788458336298053,0.06617249281325639,False,Left Foot,Open Play,1,0,0,Half Volley
+3890312,Hakan Çalhanoğlu,Bayer Leverkusen,41.80550203023521,0.08193004633226487,False,Right Foot,Free Kick,0,0,0,Normal
+3890312,Hakan Çalhanoğlu,Bayer Leverkusen,17.474839055052833,0.06321227759658588,False,Left Foot,Open Play,1,1,2,Normal
+3890312,Jonathan Tah,Bayer Leverkusen,6.356099432828279,0.05625962439407648,False,Head,Open Play,0,1,5,Normal
+3890312,Karim Bellarabi,Bayer Leverkusen,19.321749403198453,0.05363800248030296,False,Right Foot,Open Play,0,0,1,Normal
+3890312,Wendell Nascimento Borges,Bayer Leverkusen,26.053790511171304,0.06957143707337966,False,Left Foot,Open Play,1,1,1,Half Volley
+3890312,Christian Clemens,FSV Mainz 05,19.58187937865005,0.05288653236994155,False,Right Foot,Open Play,1,1,2,Normal
+3890312,Javier Hernández Balcázar,Bayer Leverkusen,9.613012014972208,0.0522474531430352,False,Left Foot,Open Play,1,0,1,Half Volley
+3890312,Hakan Çalhanoğlu,Bayer Leverkusen,21.73890521622467,0.06446103866896992,False,Left Foot,Open Play,0,0,1,Normal
+3890312,Yunus Mallı,FSV Mainz 05,17.613914953808536,0.05665285089320059,False,Right Foot,Open Play,1,0,1,Normal
+3890312,Javier Hernández Balcázar,Bayer Leverkusen,23.547823678633232,0.05709552853986309,True,Right Foot,Open Play,0,0,3,Normal
+3890312,Stefan Kießling,Bayer Leverkusen,7.080254232723572,0.0557031162432351,False,Right Foot,Open Play,1,0,2,Normal
+3890312,Christian Clemens,FSV Mainz 05,20.447493733951852,0.060961442057038635,False,Right Foot,Free Kick,0,0,0,Normal
+3890312,Stefan Kießling,Bayer Leverkusen,7.902531240052145,0.05476521159500115,False,Head,Open Play,0,0,3,Normal
+3890312,Hakan Çalhanoğlu,Bayer Leverkusen,12.393950137062841,0.060680635903630376,False,Head,Open Play,0,1,2,Normal
+3890312,Christoph Kramer,Bayer Leverkusen,21.360009363293827,0.06619037584781354,False,Right Foot,Open Play,0,0,1,Normal

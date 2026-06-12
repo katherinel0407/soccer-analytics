@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.56784175367848,0.07555063986783349,False,Right Foot,Free Kick,0,0,0,Normal
-9.550916186418972,0.059350390282946495,False,Head,Open Play,0,0,5,Normal
-10.955363982999376,0.05984727489465219,True,Left Foot,Open Play,0,0,3,Normal
-16.160445538412606,0.06254561951026048,False,Left Foot,Open Play,0,1,2,Normal
-29.425329225006134,0.07191149766750426,False,Right Foot,Open Play,0,0,2,Normal
-10.420172743289813,0.06005219570184202,False,Head,Open Play,0,1,2,Normal
-6.440496875241848,0.05798487768999008,True,Right Foot,Open Play,1,0,4,Volley
-14.838463532320324,0.06235422698178073,False,Left Foot,Open Play,1,1,1,Volley
-22.2,0.06660943791323744,False,Right Foot,Free Kick,0,0,0,Normal
-12.370933675353696,0.054096112531918976,False,Head,Open Play,0,1,1,Normal
-7.034202158027586,0.058042662063487425,False,Head,Open Play,0,0,1,Normal
-11.640017182117901,0.05873692323173989,False,Right Foot,Open Play,0,0,3,Normal
-11.063453348751462,0.058242009815934595,False,Head,Open Play,0,0,2,Normal
-12.742448744256334,0.059143829953257086,False,Right Foot,Open Play,1,0,1,Normal
-9.48103369891701,0.059549443538907065,False,Left Foot,Open Play,1,1,3,Half Volley
-14.782760229402362,0.055300133485392186,False,Right Foot,Open Play,0,0,2,Normal
-23.17002373757955,0.06678017568844248,False,Right Foot,Open Play,0,0,0,Normal
-26.82088738278433,0.06953200070420991,False,Left Foot,Open Play,0,0,1,Normal
-10.667708282475665,0.05942356266476253,False,Head,Open Play,0,1,4,Normal
-12.593649193144929,0.05789440735467621,False,Left Foot,Open Play,1,0,4,Normal
-22.192341021172144,0.05588031213170667,False,Left Foot,Open Play,0,0,2,Normal
-26.692320993124596,0.06103645033314177,False,Right Foot,Open Play,0,0,1,Normal
-13.815932831336433,0.05796884499757855,True,Right Foot,Open Play,1,0,1,Normal
-10.394229168149028,0.06003144215110895,False,Head,Open Play,0,0,4,Normal
-13.624243098242196,0.05405963825697622,False,Left Foot,Open Play,0,1,2,Normal
-10.16070863670443,0.05937272063882094,True,Left Foot,Open Play,1,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3943076,Federico Santiago Valverde Dipetta,Uruguay,33.56784175367848,0.07555063986783349,False,Right Foot,Free Kick,0,0,0,Normal
+3943076,Sebastián Enzo Cáceres Ramos,Uruguay,9.550916186418972,0.059350390282946495,False,Head,Open Play,0,0,5,Normal
+3943076,Rodrigo Bentancur Colmán,Uruguay,10.955363982999376,0.05984727489465219,True,Left Foot,Open Play,0,0,3,Normal
+3943076,Maximiliano Javier Araújo Vilches,Uruguay,16.160445538412606,0.06254561951026048,False,Left Foot,Open Play,0,1,2,Normal
+3943076,Richie Laryea,Canada,29.425329225006134,0.07191149766750426,False,Right Foot,Open Play,0,0,2,Normal
+3943076,Moise Bombito,Canada,10.420172743289813,0.06005219570184202,False,Head,Open Play,0,1,2,Normal
+3943076,Ismael Koné,Canada,6.440496875241848,0.05798487768999008,True,Right Foot,Open Play,1,0,4,Volley
+3943076,Tanitoluwa Oluwaseyi,Canada,14.838463532320324,0.06235422698178073,False,Left Foot,Open Play,1,1,1,Volley
+3943076,Darwin Gabriel Núñez Ribeiro,Uruguay,22.2,0.06660943791323744,False,Right Foot,Free Kick,0,0,0,Normal
+3943076,Moise Bombito,Canada,12.370933675353696,0.054096112531918976,False,Head,Open Play,0,1,1,Normal
+3943076,Tanitoluwa Oluwaseyi,Canada,7.034202158027586,0.058042662063487425,False,Head,Open Play,0,0,1,Normal
+3943076,Jonathan Osorio,Canada,11.640017182117901,0.05873692323173989,False,Right Foot,Open Play,0,0,3,Normal
+3943076,Jonathan Osorio,Canada,11.063453348751462,0.058242009815934595,False,Head,Open Play,0,0,2,Normal
+3943076,Tanitoluwa Oluwaseyi,Canada,12.742448744256334,0.059143829953257086,False,Right Foot,Open Play,1,0,1,Normal
+3943076,Luc Rollet De Fougerolles,Canada,9.48103369891701,0.059549443538907065,False,Left Foot,Open Play,1,1,3,Half Volley
+3943076,Paul Brian Rodríguez Bravo,Uruguay,14.782760229402362,0.055300133485392186,False,Right Foot,Open Play,0,0,2,Normal
+3943076,Luis Alberto Suárez Díaz,Uruguay,23.17002373757955,0.06678017568844248,False,Right Foot,Open Play,0,0,0,Normal
+3943076,Alphonso Davies,Canada,26.82088738278433,0.06953200070420991,False,Left Foot,Open Play,0,0,1,Normal
+3943076,Moise Bombito,Canada,10.667708282475665,0.05942356266476253,False,Head,Open Play,0,1,4,Normal
+3943076,José María Giménez de Vargas,Uruguay,12.593649193144929,0.05789440735467621,False,Left Foot,Open Play,1,0,4,Normal
+3943076,Federico Santiago Valverde Dipetta,Uruguay,22.192341021172144,0.05588031213170667,False,Left Foot,Open Play,0,0,2,Normal
+3943076,Ismael Koné,Canada,26.692320993124596,0.06103645033314177,False,Right Foot,Open Play,0,0,1,Normal
+3943076,Jonathan David,Canada,13.815932831336433,0.05796884499757855,True,Right Foot,Open Play,1,0,1,Normal
+3943076,José María Giménez de Vargas,Uruguay,10.394229168149028,0.06003144215110895,False,Head,Open Play,0,0,4,Normal
+3943076,Luis Alberto Suárez Díaz,Uruguay,13.624243098242196,0.05405963825697622,False,Left Foot,Open Play,0,1,2,Normal
+3943076,Luis Alberto Suárez Díaz,Uruguay,10.16070863670443,0.05937272063882094,True,Left Foot,Open Play,1,0,1,Normal
+3943076,Jonathan David,Canada,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3943076,Federico Santiago Valverde Dipetta,Uruguay,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3943076,Moise Bombito,Canada,12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
+3943076,Rodrigo Bentancur Colmán,Uruguay,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+3943076,Ismael Koné,Canada,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3943076,Giorgian Daniel De Arrascaeta Benedetti,Uruguay,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+3943076,Mathieu Choiniere,Canada,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3943076,Luis Alberto Suárez Díaz,Uruguay,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3943076,Alphonso Davies,Canada,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal

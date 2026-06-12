@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.004999038831185,0.05884674327038437,False,Head,Open Play,0,1,3,Normal
-15.368799562750501,0.0537872477667438,False,Right Foot,Open Play,1,1,2,Normal
-23.64487259428564,0.06800256074483471,False,Right Foot,Open Play,1,0,2,Normal
-12.267436570041847,0.06104943234318439,False,Right Foot,Open Play,1,0,2,Half Volley
-10.907336980216579,0.05927342419303023,False,Head,Open Play,0,1,4,Normal
-4.482186966202992,0.05700819081143794,False,Right Foot,Open Play,0,0,4,Half Volley
-9.97647232241938,0.059751556210759366,False,Left Foot,Open Play,1,1,3,Backheel
-20.258825237411962,0.05829445742887556,False,Right Foot,Open Play,1,0,2,Half Volley
-18.534832073693035,0.05520911678883155,False,Right Foot,Open Play,1,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-16.98499337650739,0.06264466031037715,False,Left Foot,Open Play,1,0,2,Normal
-35.251241112902676,0.06937447684588055,False,Right Foot,Free Kick,0,0,0,Normal
-23.207757323791547,0.06760803934312269,False,Right Foot,Open Play,1,0,3,Half Volley
-34.31763395107535,0.07591498232428891,False,Right Foot,Free Kick,0,0,0,Normal
-27.995713957675736,0.07007833578114414,False,Right Foot,Open Play,1,1,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890416,Benjamin Hübner,Ingolstadt,13.004999038831185,0.05884674327038437,False,Head,Open Play,0,1,3,Normal
+3890416,Elias Kachunga,Ingolstadt,15.368799562750501,0.0537872477667438,False,Right Foot,Open Play,1,1,2,Normal
+3890416,Alfredo Morales,Ingolstadt,23.64487259428564,0.06800256074483471,False,Right Foot,Open Play,1,0,2,Normal
+3890416,Yunus Mallı,FSV Mainz 05,12.267436570041847,0.06104943234318439,False,Right Foot,Open Play,1,0,2,Half Volley
+3890416,Mathew Leckie,Ingolstadt,10.907336980216579,0.05927342419303023,False,Head,Open Play,0,1,4,Normal
+3890416,Moritz Hartmann,Ingolstadt,4.482186966202992,0.05700819081143794,False,Right Foot,Open Play,0,0,4,Half Volley
+3890416,Mathew Leckie,Ingolstadt,9.97647232241938,0.059751556210759366,False,Left Foot,Open Play,1,1,3,Backheel
+3890416,Julian Baumgartlinger,FSV Mainz 05,20.258825237411962,0.05829445742887556,False,Right Foot,Open Play,1,0,2,Half Volley
+3890416,Pascal Groß,Ingolstadt,18.534832073693035,0.05520911678883155,False,Right Foot,Open Play,1,0,2,Normal
+3890416,Moritz Hartmann,Ingolstadt,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3890416,Christian Clemens,FSV Mainz 05,16.98499337650739,0.06264466031037715,False,Left Foot,Open Play,1,0,2,Normal
+3890416,Christian Clemens,FSV Mainz 05,35.251241112902676,0.06937447684588055,False,Right Foot,Free Kick,0,0,0,Normal
+3890416,Max Christiansen,Ingolstadt,23.207757323791547,0.06760803934312269,False,Right Foot,Open Play,1,0,3,Half Volley
+3890416,Danny Latza,FSV Mainz 05,34.31763395107535,0.07591498232428891,False,Right Foot,Free Kick,0,0,0,Normal
+3890416,Danny Latza,FSV Mainz 05,27.995713957675736,0.07007833578114414,False,Right Foot,Open Play,1,1,1,Volley

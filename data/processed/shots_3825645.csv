@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-4.964876634922567,0.05616508283706761,False,Left Foot,Open Play,1,0,3,Volley
-11.961605243444549,0.057740524816280246,False,Left Foot,Open Play,0,0,2,Half Volley
-31.136152620386476,0.06759801796417192,False,Right Foot,Open Play,0,0,1,Normal
-14.819244245237345,0.061907855332527156,False,Head,Open Play,0,0,3,Normal
-25.266776604861967,0.0610460104029463,False,Left Foot,Open Play,0,0,2,Normal
-74.86741614347326,0.04780292815987369,False,Right Foot,Open Play,0,0,0,Lob
-8.778382538941896,0.059141317709536685,True,Right Foot,Open Play,0,0,2,Normal
-33.424691472024094,0.05516337244656724,False,Left Foot,Free Kick,0,0,0,Normal
-25.90482580524331,0.06929871218458421,False,Right Foot,Open Play,0,0,1,Normal
-33.032408328791284,0.05663961365260283,False,Right Foot,Open Play,0,0,1,Normal
-19.226024029944416,0.06315215976210967,False,Left Foot,Open Play,0,1,2,Normal
-11.618089343777664,0.060645561853376606,True,Left Foot,Open Play,1,0,1,Volley
-19.518196638009364,0.0549916039631653,False,Right Foot,Open Play,1,0,1,Half Volley
-22.615260334561704,0.06641284238681155,False,Right Foot,Open Play,1,0,2,Normal
-32.76492026543023,0.07482952270289313,False,Right Foot,Open Play,0,0,0,Normal
-24.469572942738495,0.06802895510167818,False,Left Foot,Open Play,1,0,3,Volley
-12.206555615733706,0.05981923358880575,False,Left Foot,Open Play,0,0,2,Half Volley
-18.76192953829642,0.06455810840637098,False,Left Foot,Open Play,1,0,2,Half Volley
-27.501636314954062,0.0704764022764383,False,Right Foot,Open Play,0,0,2,Half Volley
-19.83053201505194,0.06252280010129506,False,Right Foot,Open Play,0,0,2,Half Volley
-13.515176654413361,0.05366398029463281,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825645,Munir El Haddadi Mohamed,Barcelona,4.964876634922567,0.05616508283706761,False,Left Foot,Open Play,1,0,3,Volley
+3825645,Stefan Šćepović,Getafe,11.961605243444549,0.057740524816280246,False,Left Foot,Open Play,0,0,2,Half Volley
+3825645,Ivan Rakitić,Barcelona,31.136152620386476,0.06759801796417192,False,Right Foot,Open Play,0,0,1,Normal
+3825645,Sergi Roberto Carnicer,Barcelona,14.819244245237345,0.061907855332527156,False,Head,Open Play,0,0,3,Normal
+3825645,Pablo Sarabia García,Getafe,25.266776604861967,0.0610460104029463,False,Left Foot,Open Play,0,0,2,Normal
+3825645,Damián Nicolás Suárez Suárez,Getafe,74.86741614347326,0.04780292815987369,False,Right Foot,Open Play,0,0,0,Lob
+3825645,Luis Alberto Suárez Díaz,Barcelona,8.778382538941896,0.059141317709536685,True,Right Foot,Open Play,0,0,2,Normal
+3825645,Jérémy Mathieu,Barcelona,33.424691472024094,0.05516337244656724,False,Left Foot,Free Kick,0,0,0,Normal
+3825645,Neymar da Silva Santos Junior,Barcelona,25.90482580524331,0.06929871218458421,False,Right Foot,Open Play,0,0,1,Normal
+3825645,Daniel Alves da Silva,Barcelona,33.032408328791284,0.05663961365260283,False,Right Foot,Open Play,0,0,1,Normal
+3825645,Víctor Rodríguez Romero,Getafe,19.226024029944416,0.06315215976210967,False,Left Foot,Open Play,0,1,2,Normal
+3825645,Neymar da Silva Santos Junior,Barcelona,11.618089343777664,0.060645561853376606,True,Left Foot,Open Play,1,0,1,Volley
+3825645,Daniel Alves da Silva,Barcelona,19.518196638009364,0.0549916039631653,False,Right Foot,Open Play,1,0,1,Half Volley
+3825645,Jordi Alba Ramos,Barcelona,22.615260334561704,0.06641284238681155,False,Right Foot,Open Play,1,0,2,Normal
+3825645,Daniel Alves da Silva,Barcelona,32.76492026543023,0.07482952270289313,False,Right Foot,Open Play,0,0,0,Normal
+3825645,Luis Alberto Suárez Díaz,Barcelona,24.469572942738495,0.06802895510167818,False,Left Foot,Open Play,1,0,3,Volley
+3825645,Jordi Alba Ramos,Barcelona,12.206555615733706,0.05981923358880575,False,Left Foot,Open Play,0,0,2,Half Volley
+3825645,Luis Alberto Suárez Díaz,Barcelona,18.76192953829642,0.06455810840637098,False,Left Foot,Open Play,1,0,2,Half Volley
+3825645,Ángel Lafita Castillo,Getafe,27.501636314954062,0.0704764022764383,False,Right Foot,Open Play,0,0,2,Half Volley
+3825645,Víctor Rodríguez Romero,Getafe,19.83053201505194,0.06252280010129506,False,Right Foot,Open Play,0,0,2,Half Volley
+3825645,Luis Alberto Suárez Díaz,Barcelona,13.515176654413361,0.05366398029463281,False,Left Foot,Open Play,0,0,3,Normal

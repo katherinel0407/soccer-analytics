@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.5507637355745,0.06338351074698159,False,Left Foot,Free Kick,0,0,0,Normal
-27.681221071332818,0.060963031183198006,False,Right Foot,Open Play,1,0,1,Volley
-31.60838496348714,0.07262659739925856,False,Right Foot,Open Play,0,0,1,Normal
-27.741665415039527,0.07096731999642342,False,Right Foot,Open Play,0,0,2,Normal
-8.345058418010023,0.058866595995437226,False,Left Foot,Open Play,1,0,1,Normal
-14.120906486483083,0.05988767872847794,False,Right Foot,Open Play,1,1,1,Normal
-14.080127840328718,0.054901318563260026,False,Right Foot,Open Play,1,0,1,Normal
-26.031135203828505,0.061987501747962706,False,Right Foot,Open Play,0,0,3,Normal
-25.927977167530823,0.0685702627735768,False,Left Foot,Open Play,1,1,1,Normal
-19.734234213670412,0.06498051439312859,False,Right Foot,Open Play,0,0,2,Normal
-24.216110340019508,0.06829358272306472,False,Right Foot,Open Play,0,0,3,Normal
-15.590060936378661,0.0629670904821469,False,Head,Open Play,0,0,2,Normal
-17.173526137634056,0.06356357994100356,False,Right Foot,Open Play,1,0,3,Volley
-34.20716299256633,0.06033231348881227,False,Right Foot,Open Play,0,1,1,Half Volley
-31.221787264665036,0.06461691112370274,False,Right Foot,Open Play,1,0,2,Normal
-19.498717906570167,0.06414696769301095,True,Left Foot,Open Play,1,1,2,Normal
-21.008569680013917,0.06328389145949934,False,Left Foot,Open Play,0,1,2,Normal
-13.840881474819447,0.054562477480331585,False,Right Foot,Open Play,0,0,1,Normal
-27.56700926832651,0.052602050185131755,False,Left Foot,Open Play,0,0,2,Normal
-10.580170130957253,0.05851433496499914,False,Head,Open Play,0,1,2,Normal
-14.86001345894411,0.0562066905491619,False,Left Foot,Open Play,1,0,0,Normal
-27.10737906917598,0.07040003620164786,False,Left Foot,Open Play,0,0,0,Normal
-20.06838309381202,0.055991388905157674,False,Left Foot,Open Play,0,1,1,Normal
-13.476646467129726,0.06136160142641642,False,Head,Open Play,0,1,3,Normal
-17.962739212046703,0.06151921685973677,False,Left Foot,Open Play,0,0,3,Half Volley
-19.925109786397666,0.059200275808283465,False,Right Foot,Open Play,1,0,1,Normal
-8.902246907382434,0.058382657127583115,True,Right Foot,Open Play,1,1,1,Normal
-20.66301042926707,0.0660016597402231,False,Right Foot,Open Play,0,1,3,Normal
-22.88864347225497,0.06614314115819134,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879771,Domenico Berardi,Sassuolo,24.5507637355745,0.06338351074698159,False,Left Foot,Free Kick,0,0,0,Normal
+3879771,Domenico Berardi,Sassuolo,27.681221071332818,0.060963031183198006,False,Right Foot,Open Play,1,0,1,Volley
+3879771,Mario Barwuah Balotelli,AC Milan,31.60838496348714,0.07262659739925856,False,Right Foot,Open Play,0,0,1,Normal
+3879771,Giacomo Bonaventura,AC Milan,27.741665415039527,0.07096731999642342,False,Right Foot,Open Play,0,0,2,Normal
+3879771,Keisuke Honda,AC Milan,8.345058418010023,0.058866595995437226,False,Left Foot,Open Play,1,0,1,Normal
+3879771,Carlos Arturo Bacca Ahumada,AC Milan,14.120906486483083,0.05988767872847794,False,Right Foot,Open Play,1,1,1,Normal
+3879771,Keisuke Honda,AC Milan,14.080127840328718,0.054901318563260026,False,Right Foot,Open Play,1,0,1,Normal
+3879771,Juraj Kucka,AC Milan,26.031135203828505,0.061987501747962706,False,Right Foot,Open Play,0,0,3,Normal
+3879771,Juraj Kucka,AC Milan,25.927977167530823,0.0685702627735768,False,Left Foot,Open Play,1,1,1,Normal
+3879771,Carlos Arturo Bacca Ahumada,AC Milan,19.734234213670412,0.06498051439312859,False,Right Foot,Open Play,0,0,2,Normal
+3879771,Nicola Sansone,Sassuolo,24.216110340019508,0.06829358272306472,False,Right Foot,Open Play,0,0,3,Normal
+3879771,Luca Antonelli,AC Milan,15.590060936378661,0.0629670904821469,False,Head,Open Play,0,0,2,Normal
+3879771,Carlos Arturo Bacca Ahumada,AC Milan,17.173526137634056,0.06356357994100356,False,Right Foot,Open Play,1,0,3,Volley
+3879771,Alex Rodrigo Dias da Costa,AC Milan,34.20716299256633,0.06033231348881227,False,Right Foot,Open Play,0,1,1,Half Volley
+3879771,Juraj Kucka,AC Milan,31.221787264665036,0.06461691112370274,False,Right Foot,Open Play,1,0,2,Normal
+3879771,Joseph Alfred Duncan,Sassuolo,19.498717906570167,0.06414696769301095,True,Left Foot,Open Play,1,1,2,Normal
+3879771,Gregoire Defrel,Sassuolo,21.008569680013917,0.06328389145949934,False,Left Foot,Open Play,0,1,2,Normal
+3879771,Nicola Sansone,Sassuolo,13.840881474819447,0.054562477480331585,False,Right Foot,Open Play,0,0,1,Normal
+3879771,Domenico Berardi,Sassuolo,27.56700926832651,0.052602050185131755,False,Left Foot,Open Play,0,0,2,Normal
+3879771,Nicola Sansone,Sassuolo,10.580170130957253,0.05851433496499914,False,Head,Open Play,0,1,2,Normal
+3879771,Domenico Berardi,Sassuolo,14.86001345894411,0.0562066905491619,False,Left Foot,Open Play,1,0,0,Normal
+3879771,Gregoire Defrel,Sassuolo,27.10737906917598,0.07040003620164786,False,Left Foot,Open Play,0,0,0,Normal
+3879771,Domenico Berardi,Sassuolo,20.06838309381202,0.055991388905157674,False,Left Foot,Open Play,0,1,1,Normal
+3879771,Juraj Kucka,AC Milan,13.476646467129726,0.06136160142641642,False,Head,Open Play,0,1,3,Normal
+3879771,Gregoire Defrel,Sassuolo,17.962739212046703,0.06151921685973677,False,Left Foot,Open Play,0,0,3,Half Volley
+3879771,Davide Biondini,Sassuolo,19.925109786397666,0.059200275808283465,False,Right Foot,Open Play,1,0,1,Normal
+3879771,Nicola Sansone,Sassuolo,8.902246907382434,0.058382657127583115,True,Right Foot,Open Play,1,1,1,Normal
+3879771,Carlos Arturo Bacca Ahumada,AC Milan,20.66301042926707,0.0660016597402231,False,Right Foot,Open Play,0,1,3,Normal
+3879771,Diego Falcinelli,Sassuolo,22.88864347225497,0.06614314115819134,False,Right Foot,Open Play,0,0,2,Normal

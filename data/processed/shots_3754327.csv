@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.083078426785911,0.054352917782174735,True,Head,Open Play,0,0,5,Normal
-26.129676614914313,0.0672164108283968,False,Right Foot,Open Play,0,0,1,Normal
-23.84365743756607,0.0631284166971792,False,Right Foot,Open Play,1,0,1,Volley
-25.204959829366913,0.0630957083373262,False,Right Foot,Open Play,0,0,0,Normal
-15.868522300453813,0.06238132084400683,False,Right Foot,Open Play,1,0,1,Overhead Kick
-27.452686571627197,0.07031051884313268,False,Right Foot,Open Play,0,0,2,Normal
-11.182575731914358,0.06008448356775978,True,Right Foot,Open Play,1,0,1,Normal
-24.05202694161139,0.06608892957418386,False,Right Foot,Open Play,0,1,1,Normal
-17.93599732381782,0.06260016937995797,False,Right Foot,Open Play,0,0,2,Normal
-11.764352935882192,0.059244735623393455,False,Left Foot,Open Play,1,0,2,Normal
-11.164676439557033,0.05879158219098758,False,Head,Open Play,0,0,1,Normal
-3.5355339059327378,0.05634443334458566,True,Right Foot,Open Play,1,0,4,Volley
-13.839797686382559,0.056531679654043404,False,Right Foot,Open Play,1,0,2,Half Volley
-15.80126577208294,0.06113772407255505,False,Right Foot,Open Play,1,1,1,Half Volley
-10.61508360777248,0.05999041117842926,False,Left Foot,Open Play,0,1,3,Half Volley
-25.75732905407702,0.06230908442841936,False,Left Foot,Open Play,1,0,1,Volley
-6.562011886609167,0.05764126982613554,True,Head,Open Play,0,1,2,Normal
-27.05124766069025,0.07037362194492866,False,Left Foot,Open Play,0,0,1,Normal
-22.004772209682148,0.0550293585561608,False,Right Foot,Open Play,0,0,1,Normal
-14.904026301640776,0.0625689868904749,False,Right Foot,Open Play,1,0,1,Volley
-20.2,0.061236207251709196,False,Right Foot,Open Play,1,0,2,Half Volley
-7.720103626247519,0.05699347351262801,False,Head,Open Play,0,1,5,Normal
-24.782453470146983,0.05844434069760758,False,Left Foot,Open Play,0,0,1,Normal
-6.964194138592066,0.05824626017704292,False,Left Foot,Open Play,1,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754327,José Ramiro Funes Mori,Everton,7.083078426785911,0.054352917782174735,True,Head,Open Play,0,0,5,Normal
+3754327,Jordan Ayew,Aston Villa,26.129676614914313,0.0672164108283968,False,Right Foot,Open Play,0,0,1,Normal
+3754327,Idrissa Gana Gueye,Aston Villa,23.84365743756607,0.0631284166971792,False,Right Foot,Open Play,1,0,1,Volley
+3754327,Ashley Westwood,Aston Villa,25.204959829366913,0.0630957083373262,False,Right Foot,Open Play,0,0,0,Normal
+3754327,Micah Richards,Aston Villa,15.868522300453813,0.06238132084400683,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3754327,Leandro Bacuna,Aston Villa,27.452686571627197,0.07031051884313268,False,Right Foot,Open Play,0,0,2,Normal
+3754327,Aaron Lennon,Everton,11.182575731914358,0.06008448356775978,True,Right Foot,Open Play,1,0,1,Normal
+3754327,Aly Cissokho,Aston Villa,24.05202694161139,0.06608892957418386,False,Right Foot,Open Play,0,1,1,Normal
+3754327,Kevin Mirallas,Everton,17.93599732381782,0.06260016937995797,False,Right Foot,Open Play,0,0,2,Normal
+3754327,Bryan Oviedo,Everton,11.764352935882192,0.059244735623393455,False,Left Foot,Open Play,1,0,2,Normal
+3754327,Romelu Lukaku Menama,Everton,11.164676439557033,0.05879158219098758,False,Head,Open Play,0,0,1,Normal
+3754327,Romelu Lukaku Menama,Everton,3.5355339059327378,0.05634443334458566,True,Right Foot,Open Play,1,0,4,Volley
+3754327,Ashley Westwood,Aston Villa,13.839797686382559,0.056531679654043404,False,Right Foot,Open Play,1,0,2,Half Volley
+3754327,Ashley Westwood,Aston Villa,15.80126577208294,0.06113772407255505,False,Right Foot,Open Play,1,1,1,Half Volley
+3754327,Romelu Lukaku Menama,Everton,10.61508360777248,0.05999041117842926,False,Left Foot,Open Play,0,1,3,Half Volley
+3754327,Idrissa Gana Gueye,Aston Villa,25.75732905407702,0.06230908442841936,False,Left Foot,Open Play,1,0,1,Volley
+3754327,Rudy Gestede,Aston Villa,6.562011886609167,0.05764126982613554,True,Head,Open Play,0,1,2,Normal
+3754327,Leandro Bacuna,Aston Villa,27.05124766069025,0.07037362194492866,False,Left Foot,Open Play,0,0,1,Normal
+3754327,Rudy Gestede,Aston Villa,22.004772209682148,0.0550293585561608,False,Right Foot,Open Play,0,0,1,Normal
+3754327,Kevin Mirallas,Everton,14.904026301640776,0.0625689868904749,False,Right Foot,Open Play,1,0,1,Volley
+3754327,Jordan Ayew,Aston Villa,20.2,0.061236207251709196,False,Right Foot,Open Play,1,0,2,Half Volley
+3754327,Alan Hutton,Aston Villa,7.720103626247519,0.05699347351262801,False,Head,Open Play,0,1,5,Normal
+3754327,James McCarthy,Everton,24.782453470146983,0.05844434069760758,False,Left Foot,Open Play,0,0,1,Normal
+3754327,José Ramiro Funes Mori,Everton,6.964194138592066,0.05824626017704292,False,Left Foot,Open Play,1,1,4,Normal

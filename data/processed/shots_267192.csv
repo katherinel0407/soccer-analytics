@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.508062419270825,0.062357336290933096,False,Right Foot,Open Play,0,0,1,Normal
-9.004998611882181,0.058255701834045714,True,Right Foot,Open Play,1,0,2,Normal
-6.3285069329186925,0.05677147035051249,False,Head,Open Play,0,0,2,Normal
-25.646247288833504,0.06886502902149823,False,Right Foot,Open Play,0,0,2,Normal
-19.773972792537162,0.0524846173737783,False,Left Foot,Open Play,0,1,2,Normal
-15.400324671902219,0.061080937108236755,False,Right Foot,Open Play,0,0,2,Half Volley
-23.689026995636606,0.05433710854097413,False,Right Foot,Open Play,0,0,0,Normal
-32.34841572627629,0.06321170034712113,False,Left Foot,Free Kick,0,0,0,Normal
-24.54648651029307,0.052122199052444806,False,Right Foot,Open Play,0,0,1,Normal
-13.364505228402582,0.05520436730682594,False,Left Foot,Open Play,0,0,4,Normal
-27.28259518447613,0.07021927795076703,False,Left Foot,Open Play,0,0,2,Normal
-17.114321488157227,0.06276912849483819,False,Left Foot,Open Play,1,0,1,Normal
-16.252076790367443,0.06277184758589636,False,Right Foot,Open Play,0,1,2,Normal
-21.866183937761065,0.05657662583825773,False,Right Foot,Open Play,1,1,2,Volley
-25.238264599611437,0.05565439192967967,False,Right Foot,Open Play,0,0,1,Normal
-12.621014222319854,0.05748088411176407,False,Left Foot,Open Play,1,0,2,Volley
-22.73719419805355,0.06373636049782297,False,Left Foot,Open Play,0,1,3,Normal
-23.702320561497764,0.06371312377830834,False,Right Foot,Open Play,1,0,2,Normal
-16.13846337170922,0.06310530301617091,False,Right Foot,Open Play,0,0,1,Half Volley
-15.493547043850223,0.06273478815931643,True,Left Foot,Open Play,0,1,1,Normal
-12.355565547557914,0.05463846051093589,False,Right Foot,Open Play,0,0,3,Normal
-10.50047617967871,0.058934103740050786,False,Head,Open Play,0,1,3,Normal
-25.826536740337442,0.06958394402367203,False,Right Foot,Free Kick,0,0,0,Normal
-22.337636401374258,0.061923697818138224,False,Left Foot,Open Play,0,1,1,Half Volley
-14.851935900750444,0.062268375391495316,False,Left Foot,Open Play,0,0,1,Normal
-18.439088914585774,0.06453469358087563,False,Left Foot,Open Play,0,0,3,Normal
-11.951987282456418,0.060719111409642326,False,Head,Open Play,0,1,1,Normal
-16.096272860510286,0.05567858595831116,False,Left Foot,Open Play,0,0,2,Normal
-12.841339493993605,0.06135852455343077,False,Right Foot,Open Play,1,0,4,Normal
-16.293557008830206,0.06293622023283754,False,Left Foot,Open Play,0,0,1,Normal
-20.70772802602931,0.0659003830146081,False,Left Foot,Open Play,0,0,3,Normal
-12.551493934986382,0.05199161217292008,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267192,Francesc Fàbregas i Soler,Barcelona,15.508062419270825,0.062357336290933096,False,Right Foot,Open Play,0,0,1,Normal
+267192,Alexis Alejandro Sánchez Sánchez,Barcelona,9.004998611882181,0.058255701834045714,True,Right Foot,Open Play,1,0,2,Normal
+267192,Alexis Alejandro Sánchez Sánchez,Barcelona,6.3285069329186925,0.05677147035051249,False,Head,Open Play,0,0,2,Normal
+267192,Alejandro López Sánchez,Celta Vigo,25.646247288833504,0.06886502902149823,False,Right Foot,Open Play,0,0,2,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,19.773972792537162,0.0524846173737783,False,Left Foot,Open Play,0,1,2,Normal
+267192,Augusto Matías Fernández,Celta Vigo,15.400324671902219,0.061080937108236755,False,Right Foot,Open Play,0,0,2,Half Volley
+267192,Daniel Alves da Silva,Barcelona,23.689026995636606,0.05433710854097413,False,Right Foot,Open Play,0,0,0,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,32.34841572627629,0.06321170034712113,False,Left Foot,Free Kick,0,0,0,Normal
+267192,Charles Días Barbosa de Oliveira,Celta Vigo,24.54648651029307,0.052122199052444806,False,Right Foot,Open Play,0,0,1,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,13.364505228402582,0.05520436730682594,False,Left Foot,Open Play,0,0,4,Normal
+267192,Rafael Alcântara do Nascimento,Celta Vigo,27.28259518447613,0.07021927795076703,False,Left Foot,Open Play,0,0,2,Normal
+267192,Rafael Alcântara do Nascimento,Celta Vigo,17.114321488157227,0.06276912849483819,False,Left Foot,Open Play,1,0,1,Normal
+267192,Francesc Fàbregas i Soler,Barcelona,16.252076790367443,0.06277184758589636,False,Right Foot,Open Play,0,1,2,Normal
+267192,Alexandre Dimitri Song-Billong,Barcelona,21.866183937761065,0.05657662583825773,False,Right Foot,Open Play,1,1,2,Volley
+267192,Alejandro López Sánchez,Celta Vigo,25.238264599611437,0.05565439192967967,False,Right Foot,Open Play,0,0,1,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,12.621014222319854,0.05748088411176407,False,Left Foot,Open Play,1,0,2,Volley
+267192,Lionel Andrés Messi Cuccittini,Barcelona,22.73719419805355,0.06373636049782297,False,Left Foot,Open Play,0,1,3,Normal
+267192,Francesc Fàbregas i Soler,Barcelona,23.702320561497764,0.06371312377830834,False,Right Foot,Open Play,1,0,2,Normal
+267192,Charles Días Barbosa de Oliveira,Celta Vigo,16.13846337170922,0.06310530301617091,False,Right Foot,Open Play,0,0,1,Half Volley
+267192,Francesc Fàbregas i Soler,Barcelona,15.493547043850223,0.06273478815931643,True,Left Foot,Open Play,0,1,1,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,12.355565547557914,0.05463846051093589,False,Right Foot,Open Play,0,0,3,Normal
+267192,Charles Días Barbosa de Oliveira,Celta Vigo,10.50047617967871,0.058934103740050786,False,Head,Open Play,0,1,3,Normal
+267192,Manuel Agudo Durán,Celta Vigo,25.826536740337442,0.06958394402367203,False,Right Foot,Free Kick,0,0,0,Normal
+267192,Rafael Alcântara do Nascimento,Celta Vigo,22.337636401374258,0.061923697818138224,False,Left Foot,Open Play,0,1,1,Half Volley
+267192,Pedro Eliezer Rodríguez Ledesma,Barcelona,14.851935900750444,0.062268375391495316,False,Left Foot,Open Play,0,0,1,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,18.439088914585774,0.06453469358087563,False,Left Foot,Open Play,0,0,3,Normal
+267192,Marc Bartra Aregall,Barcelona,11.951987282456418,0.060719111409642326,False,Head,Open Play,0,1,1,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,16.096272860510286,0.05567858595831116,False,Left Foot,Open Play,0,0,2,Normal
+267192,Santiago Mina Lorenzo,Celta Vigo,12.841339493993605,0.06135852455343077,False,Right Foot,Open Play,1,0,4,Normal
+267192,Cristian Tello Herrera,Barcelona,16.293557008830206,0.06293622023283754,False,Left Foot,Open Play,0,0,1,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,20.70772802602931,0.0659003830146081,False,Left Foot,Open Play,0,0,3,Normal
+267192,Lionel Andrés Messi Cuccittini,Barcelona,12.551493934986382,0.05199161217292008,False,Right Foot,Open Play,1,0,2,Normal

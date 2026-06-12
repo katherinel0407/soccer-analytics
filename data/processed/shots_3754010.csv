@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.264642223102697,0.056687052910847684,False,Right Foot,Open Play,0,1,3,Normal
-17.3761330565808,0.05963577966626482,False,Right Foot,Open Play,1,0,1,Half Volley
-9.950376877284604,0.05837844469859935,False,Left Foot,Open Play,1,0,4,Volley
-7.206247289678591,0.057538290233687464,False,Left Foot,Open Play,0,0,6,Volley
-14.89295135290517,0.06236749564320086,True,Right Foot,Open Play,0,0,2,Normal
-17.669465187152664,0.0640918875355237,False,Left Foot,Open Play,0,0,1,Normal
-19.55760721560794,0.06506663757764478,False,Right Foot,Open Play,1,0,0,Normal
-23.055585006674633,0.06522741567786422,False,Right Foot,Open Play,1,0,2,Normal
-30.807953518531544,0.07289675975623812,False,Right Foot,Open Play,0,0,2,Normal
-20.83698634639856,0.06542221594445226,False,Left Foot,Open Play,0,0,1,Normal
-13.309395177843358,0.05353948630327155,True,Right Foot,Open Play,0,1,1,Normal
-39.58092975158618,0.05875169886833806,False,Right Foot,Open Play,0,0,0,Normal
-24.80987706539474,0.06499846974568044,False,Right Foot,Open Play,0,0,1,Normal
-21.980218379260933,0.05795291457592606,False,Left Foot,Open Play,0,0,2,Normal
-33.505820389896435,0.06587614305335976,False,Right Foot,Open Play,0,0,1,Normal
-25.969597609512558,0.06682064342702328,False,Right Foot,Open Play,0,0,1,Normal
-22.740272645683028,0.06725879856456271,False,Left Foot,Open Play,0,0,1,Normal
-13.055267136294072,0.05956831825977903,False,Head,Open Play,0,1,4,Normal
-16.946090994680752,0.06272645952024186,False,Right Foot,Open Play,0,0,2,Normal
-11.761377470347595,0.05448005433068188,True,Right Foot,Open Play,1,0,2,Normal
-9.442986815621426,0.05873841956110787,False,Head,Open Play,0,1,2,Normal
-27.806474066303334,0.05638247022445753,False,Left Foot,Open Play,0,0,1,Normal
-30.55912302406599,0.06707608894181834,False,Left Foot,Open Play,1,1,1,Normal
-8.683317338436959,0.058589731723117044,False,Head,Open Play,0,0,3,Normal
-26.96701689100965,0.07035152042665771,False,Right Foot,Open Play,0,0,1,Normal
-26.300570336021238,0.0696260668885641,False,Left Foot,Open Play,0,1,2,Normal
-18.056854654119576,0.05936742635579526,False,Right Foot,Open Play,1,0,2,Normal
-16.760966559241147,0.05616532526969603,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754010,Odion Jude Ighalo,Watford,28.264642223102697,0.056687052910847684,False,Right Foot,Open Play,0,1,3,Normal
+3754010,Odion Jude Ighalo,Watford,17.3761330565808,0.05963577966626482,False,Right Foot,Open Play,1,0,1,Half Volley
+3754010,Florian Thauvin,Newcastle United,9.950376877284604,0.05837844469859935,False,Left Foot,Open Play,1,0,4,Volley
+3754010,Papiss Demba Cissé,Newcastle United,7.206247289678591,0.057538290233687464,False,Left Foot,Open Play,0,0,6,Volley
+3754010,Odion Jude Ighalo,Watford,14.89295135290517,0.06236749564320086,True,Right Foot,Open Play,0,0,2,Normal
+3754010,Papiss Demba Cissé,Newcastle United,17.669465187152664,0.0640918875355237,False,Left Foot,Open Play,0,0,1,Normal
+3754010,Moussa Sissoko,Newcastle United,19.55760721560794,0.06506663757764478,False,Right Foot,Open Play,1,0,0,Normal
+3754010,Troy Deeney,Watford,23.055585006674633,0.06522741567786422,False,Right Foot,Open Play,1,0,2,Normal
+3754010,José Manuel Jurado Marín,Watford,30.807953518531544,0.07289675975623812,False,Right Foot,Open Play,0,0,2,Normal
+3754010,Odion Jude Ighalo,Watford,20.83698634639856,0.06542221594445226,False,Left Foot,Open Play,0,0,1,Normal
+3754010,Odion Jude Ighalo,Watford,13.309395177843358,0.05353948630327155,True,Right Foot,Open Play,0,1,1,Normal
+3754010,Allan Romeo Nyom,Watford,39.58092975158618,0.05875169886833806,False,Right Foot,Open Play,0,0,0,Normal
+3754010,Ayoze Pérez Gutiérrez,Newcastle United,24.80987706539474,0.06499846974568044,False,Right Foot,Open Play,0,0,1,Normal
+3754010,Florian Thauvin,Newcastle United,21.980218379260933,0.05795291457592606,False,Left Foot,Open Play,0,0,2,Normal
+3754010,Chancel Mbemba Mangulu,Newcastle United,33.505820389896435,0.06587614305335976,False,Right Foot,Open Play,0,0,1,Normal
+3754010,Troy Deeney,Watford,25.969597609512558,0.06682064342702328,False,Right Foot,Open Play,0,0,1,Normal
+3754010,Florian Thauvin,Newcastle United,22.740272645683028,0.06725879856456271,False,Left Foot,Open Play,0,0,1,Normal
+3754010,Moussa Sissoko,Newcastle United,13.055267136294072,0.05956831825977903,False,Head,Open Play,0,1,4,Normal
+3754010,Ayoze Pérez Gutiérrez,Newcastle United,16.946090994680752,0.06272645952024186,False,Right Foot,Open Play,0,0,2,Normal
+3754010,Daryl Janmaat,Newcastle United,11.761377470347595,0.05448005433068188,True,Right Foot,Open Play,1,0,2,Normal
+3754010,Troy Deeney,Watford,9.442986815621426,0.05873841956110787,False,Head,Open Play,0,1,2,Normal
+3754010,Daryl Janmaat,Newcastle United,27.806474066303334,0.05638247022445753,False,Left Foot,Open Play,0,0,1,Normal
+3754010,Massadio Haïdara,Newcastle United,30.55912302406599,0.06707608894181834,False,Left Foot,Open Play,1,1,1,Normal
+3754010,Siem Stefan de Jong,Newcastle United,8.683317338436959,0.058589731723117044,False,Head,Open Play,0,0,3,Normal
+3754010,Troy Deeney,Watford,26.96701689100965,0.07035152042665771,False,Right Foot,Open Play,0,0,1,Normal
+3754010,Florian Thauvin,Newcastle United,26.300570336021238,0.0696260668885641,False,Left Foot,Open Play,0,1,2,Normal
+3754010,Siem Stefan de Jong,Newcastle United,18.056854654119576,0.05936742635579526,False,Right Foot,Open Play,1,0,2,Normal
+3754010,Allan Romeo Nyom,Watford,16.760966559241147,0.05616532526969603,False,Left Foot,Open Play,0,0,1,Normal

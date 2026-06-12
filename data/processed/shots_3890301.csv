@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.129580224137815,0.06564204667530484,False,Right Foot,Open Play,1,0,1,Volley
-20.50390206765532,0.05782186263632178,False,Right Foot,Open Play,0,0,0,Normal
-14.34050208326054,0.06177428265837628,False,Head,Open Play,0,0,3,Normal
-20.14795274959717,0.05923035944787268,False,Right Foot,Open Play,1,0,0,Normal
-16.584932921178794,0.05447495286378247,False,Right Foot,Open Play,1,0,2,Normal
-18.298087331740444,0.05422879645616478,False,Left Foot,Open Play,1,0,1,Normal
-14.586637720873165,0.05432898776275706,True,Right Foot,Open Play,1,0,1,Half Volley
-19.942417105255824,0.06563368605737227,False,Right Foot,Open Play,0,0,2,Normal
-18.603763060198325,0.06396816069808024,False,Right Foot,Open Play,1,0,2,Normal
-18.62525167615192,0.05896981458018341,False,Right Foot,Open Play,1,0,1,Normal
-37.60757902338303,0.0684278667635054,False,Right Foot,Open Play,0,0,2,Normal
-22.106333933965622,0.06489810524013581,False,Left Foot,Open Play,0,0,1,Half Volley
-17.06604816587602,0.05873930847140672,False,Right Foot,Open Play,0,0,1,Normal
-12.3,0.060542879955551236,False,Right Foot,Open Play,0,0,2,Lob
-28.366882098672743,0.07144017517509517,False,Right Foot,Free Kick,0,0,0,Normal
-14.144963768069534,0.0565988947351233,True,Right Foot,Open Play,0,0,3,Normal
-24.505101509685694,0.0564991332714613,False,Right Foot,Free Kick,0,0,0,Normal
-24.182018112638993,0.061713795842948796,False,Right Foot,Open Play,0,0,3,Normal
-15.380507143784303,0.05953330518545915,False,Head,Open Play,0,0,5,Normal
-26.517352809056934,0.06976290592904967,False,Right Foot,Open Play,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-12.397580409095966,0.057968534108929756,False,Left Foot,Open Play,1,0,1,Normal
-11.415778554264275,0.05955272683811368,False,Right Foot,Open Play,1,0,3,Normal
-24.010206163213176,0.06529402759387526,False,Right Foot,Open Play,0,0,1,Normal
-24.38237068047322,0.06823941995508133,False,Left Foot,Open Play,0,0,1,Normal
-19.56731969381601,0.055577201841069776,False,Left Foot,Open Play,0,0,2,Normal
-17.991386828146403,0.06367923149728492,False,Left Foot,Open Play,1,0,0,Normal
-25.057733337235433,0.06626732415206502,False,Left Foot,Open Play,0,0,0,Half Volley
-12.688971589533955,0.06038415342511352,False,Right Foot,Open Play,1,0,1,Half Volley
-21.567568244936652,0.05887812266499965,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890301,Henrikh Mkhitaryan,Borussia Dortmund,20.129580224137815,0.06564204667530484,False,Right Foot,Open Play,1,0,1,Volley
+3890301,Henrikh Mkhitaryan,Borussia Dortmund,20.50390206765532,0.05782186263632178,False,Right Foot,Open Play,0,0,0,Normal
+3890301,Matthias Ginter,Borussia Dortmund,14.34050208326054,0.06177428265837628,False,Head,Open Play,0,0,3,Normal
+3890301,İlkay Gündoğan,Borussia Dortmund,20.14795274959717,0.05923035944787268,False,Right Foot,Open Play,1,0,0,Normal
+3890301,Jonas Hofmann,Borussia Dortmund,16.584932921178794,0.05447495286378247,False,Right Foot,Open Play,1,0,2,Normal
+3890301,Jonas Hofmann,Borussia Dortmund,18.298087331740444,0.05422879645616478,False,Left Foot,Open Play,1,0,1,Normal
+3890301,Jonas Hofmann,Borussia Dortmund,14.586637720873165,0.05432898776275706,True,Right Foot,Open Play,1,0,1,Half Volley
+3890301,Javier Hernández Balcázar,Bayer Leverkusen,19.942417105255824,0.06563368605737227,False,Right Foot,Open Play,0,0,2,Normal
+3890301,Henrikh Mkhitaryan,Borussia Dortmund,18.603763060198325,0.06396816069808024,False,Right Foot,Open Play,1,0,2,Normal
+3890301,Kevin Kampl,Bayer Leverkusen,18.62525167615192,0.05896981458018341,False,Right Foot,Open Play,1,0,1,Normal
+3890301,Karim Bellarabi,Bayer Leverkusen,37.60757902338303,0.0684278667635054,False,Right Foot,Open Play,0,0,2,Normal
+3890301,Henrikh Mkhitaryan,Borussia Dortmund,22.106333933965622,0.06489810524013581,False,Left Foot,Open Play,0,0,1,Half Volley
+3890301,Pierre-Emerick Aubameyang,Borussia Dortmund,17.06604816587602,0.05873930847140672,False,Right Foot,Open Play,0,0,1,Normal
+3890301,Javier Hernández Balcázar,Bayer Leverkusen,12.3,0.060542879955551236,False,Right Foot,Open Play,0,0,2,Lob
+3890301,İlkay Gündoğan,Borussia Dortmund,28.366882098672743,0.07144017517509517,False,Right Foot,Free Kick,0,0,0,Normal
+3890301,Shinji Kagawa,Borussia Dortmund,14.144963768069534,0.0565988947351233,True,Right Foot,Open Play,0,0,3,Normal
+3890301,Hakan Çalhanoğlu,Bayer Leverkusen,24.505101509685694,0.0564991332714613,False,Right Foot,Free Kick,0,0,0,Normal
+3890301,Karim Bellarabi,Bayer Leverkusen,24.182018112638993,0.061713795842948796,False,Right Foot,Open Play,0,0,3,Normal
+3890301,Jonathan Tah,Bayer Leverkusen,15.380507143784303,0.05953330518545915,False,Head,Open Play,0,0,5,Normal
+3890301,İlkay Gündoğan,Borussia Dortmund,26.517352809056934,0.06976290592904967,False,Right Foot,Open Play,0,0,0,Normal
+3890301,Pierre-Emerick Aubameyang,Borussia Dortmund,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3890301,Adnan Januzaj,Borussia Dortmund,12.397580409095966,0.057968534108929756,False,Left Foot,Open Play,1,0,1,Normal
+3890301,Shinji Kagawa,Borussia Dortmund,11.415778554264275,0.05955272683811368,False,Right Foot,Open Play,1,0,3,Normal
+3890301,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,24.010206163213176,0.06529402759387526,False,Right Foot,Open Play,0,0,1,Normal
+3890301,Shinji Kagawa,Borussia Dortmund,24.38237068047322,0.06823941995508133,False,Left Foot,Open Play,0,0,1,Normal
+3890301,İlkay Gündoğan,Borussia Dortmund,19.56731969381601,0.055577201841069776,False,Left Foot,Open Play,0,0,2,Normal
+3890301,Marcel Schmelzer,Borussia Dortmund,17.991386828146403,0.06367923149728492,False,Left Foot,Open Play,1,0,0,Normal
+3890301,Marcel Schmelzer,Borussia Dortmund,25.057733337235433,0.06626732415206502,False,Left Foot,Open Play,0,0,0,Half Volley
+3890301,Gonzalo Castro Randon,Borussia Dortmund,12.688971589533955,0.06038415342511352,False,Right Foot,Open Play,1,0,1,Half Volley
+3890301,Giulio Donati,Bayer Leverkusen,21.567568244936652,0.05887812266499965,False,Right Foot,Open Play,1,0,1,Volley

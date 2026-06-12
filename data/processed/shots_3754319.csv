@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.98116603770189,0.05703196388588848,False,Right Foot,Open Play,0,1,2,Normal
-13.930183056945085,0.06179782314431925,False,Left Foot,Open Play,0,0,4,Half Volley
-27.200735284179363,0.070581199408154,False,Right Foot,Free Kick,0,0,0,Normal
-15.992810884894496,0.06263777992646684,False,Right Foot,Open Play,0,1,1,Normal
-20.946837470128987,0.06609933738448807,False,Right Foot,Open Play,1,0,2,Half Volley
-15.761027885261798,0.0561360026321177,False,Right Foot,Open Play,1,0,2,Half Volley
-13.09236418680751,0.05778145404977756,False,Right Foot,Open Play,0,0,1,Normal
-16.105899540230585,0.05800558812562188,False,Left Foot,Open Play,1,0,2,Normal
-24.758836806279895,0.067944612844323,False,Right Foot,Open Play,0,0,1,Normal
-9.196738552334734,0.05928103054635279,False,Head,Open Play,0,0,3,Normal
-15.697770542341352,0.05508336884008582,False,Left Foot,Open Play,0,1,1,Normal
-11.22719911643149,0.05784204379840055,False,Head,Open Play,0,1,4,Normal
-18.337120820892245,0.06457432672268817,False,Left Foot,Open Play,0,1,5,Normal
-9.299999999999997,0.05847804246130194,True,Head,Open Play,0,0,3,Normal
-18.416568627190024,0.0636136571347458,False,Right Foot,Open Play,0,1,4,Normal
-20.980467106334885,0.0651282241385307,False,Right Foot,Open Play,0,0,2,Normal
-18.298087331740444,0.05422879645616478,False,Left Foot,Open Play,0,1,1,Normal
-20.91530540059121,0.05713896282844515,False,Right Foot,Open Play,1,0,0,Normal
-11.747765745025731,0.058518534856289335,False,Head,Open Play,0,0,2,Normal
-22.68126980572296,0.05308983152927561,False,Left Foot,Open Play,0,1,1,Normal
-13.136970731489054,0.06069656978188463,False,Right Foot,Open Play,1,0,1,Half Volley
-9.70618359603814,0.05665895078218447,True,Head,Open Play,0,1,3,Normal
-15.97028490666337,0.058846232001484026,False,Left Foot,Open Play,0,0,1,Normal
-30.069585963228697,0.07030167737701416,False,Right Foot,Open Play,1,1,1,Normal
-6.438167441127955,0.05790920412237671,True,Left Foot,Open Play,1,0,3,Backheel
-21.542516101885596,0.053959219534630426,False,Left Foot,Open Play,0,1,2,Normal
-19.602295783912666,0.06471914194976248,False,Right Foot,Open Play,1,0,2,Normal
-8.229823813423959,0.05780264671356192,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754319,Ander Herrera Agüera,Manchester United,16.98116603770189,0.05703196388588848,False,Right Foot,Open Play,0,1,2,Normal
+3754319,Anthony Martial,Manchester United,13.930183056945085,0.06179782314431925,False,Left Foot,Open Play,0,0,4,Half Volley
+3754319,Wayne Mark Rooney,Manchester United,27.200735284179363,0.070581199408154,False,Right Foot,Free Kick,0,0,0,Normal
+3754319,Wayne Mark Rooney,Manchester United,15.992810884894496,0.06263777992646684,False,Right Foot,Open Play,0,1,1,Normal
+3754319,Wayne Routledge,Swansea City,20.946837470128987,0.06609933738448807,False,Right Foot,Open Play,1,0,2,Half Volley
+3754319,Gylfi Þór Sigurðsson,Swansea City,15.761027885261798,0.0561360026321177,False,Right Foot,Open Play,1,0,2,Half Volley
+3754319,Juan Manuel Mata García,Manchester United,13.09236418680751,0.05778145404977756,False,Right Foot,Open Play,0,0,1,Normal
+3754319,Juan Manuel Mata García,Manchester United,16.105899540230585,0.05800558812562188,False,Left Foot,Open Play,1,0,2,Normal
+3754319,Sung-Yeung Ki,Swansea City,24.758836806279895,0.067944612844323,False,Right Foot,Open Play,0,0,1,Normal
+3754319,Wayne Mark Rooney,Manchester United,9.196738552334734,0.05928103054635279,False,Head,Open Play,0,0,3,Normal
+3754319,Juan Manuel Mata García,Manchester United,15.697770542341352,0.05508336884008582,False,Left Foot,Open Play,0,1,1,Normal
+3754319,Wayne Mark Rooney,Manchester United,11.22719911643149,0.05784204379840055,False,Head,Open Play,0,1,4,Normal
+3754319,Wayne Mark Rooney,Manchester United,18.337120820892245,0.06457432672268817,False,Left Foot,Open Play,0,1,5,Normal
+3754319,Anthony Martial,Manchester United,9.299999999999997,0.05847804246130194,True,Head,Open Play,0,0,3,Normal
+3754319,Wayne Mark Rooney,Manchester United,18.416568627190024,0.0636136571347458,False,Right Foot,Open Play,0,1,4,Normal
+3754319,Anthony Martial,Manchester United,20.980467106334885,0.0651282241385307,False,Right Foot,Open Play,0,0,2,Normal
+3754319,Ashley Young,Manchester United,18.298087331740444,0.05422879645616478,False,Left Foot,Open Play,0,1,1,Normal
+3754319,Ander Herrera Agüera,Manchester United,20.91530540059121,0.05713896282844515,False,Right Foot,Open Play,1,0,0,Normal
+3754319,André Ayew Pelé,Swansea City,11.747765745025731,0.058518534856289335,False,Head,Open Play,0,0,2,Normal
+3754319,Juan Manuel Mata García,Manchester United,22.68126980572296,0.05308983152927561,False,Left Foot,Open Play,0,1,1,Normal
+3754319,Anthony Martial,Manchester United,13.136970731489054,0.06069656978188463,False,Right Foot,Open Play,1,0,1,Half Volley
+3754319,Gylfi Þór Sigurðsson,Swansea City,9.70618359603814,0.05665895078218447,True,Head,Open Play,0,1,3,Normal
+3754319,Gylfi Þór Sigurðsson,Swansea City,15.97028490666337,0.058846232001484026,False,Left Foot,Open Play,0,0,1,Normal
+3754319,Wayne Mark Rooney,Manchester United,30.069585963228697,0.07030167737701416,False,Right Foot,Open Play,1,1,1,Normal
+3754319,Wayne Mark Rooney,Manchester United,6.438167441127955,0.05790920412237671,True,Left Foot,Open Play,1,0,3,Backheel
+3754319,Modou Barrow,Swansea City,21.542516101885596,0.053959219534630426,False,Left Foot,Open Play,0,1,2,Normal
+3754319,Ashley Williams,Swansea City,19.602295783912666,0.06471914194976248,False,Right Foot,Open Play,1,0,2,Normal
+3754319,Łukasz Fabiański,Swansea City,8.229823813423959,0.05780264671356192,False,Head,Open Play,0,1,4,Normal

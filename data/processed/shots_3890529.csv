@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.326349594234305,0.05741966809116645,True,Left Foot,Open Play,1,0,1,Normal
-22.168671588527808,0.05277853618653537,False,Right Foot,Open Play,1,0,1,Half Volley
-37.34836007109282,0.06178448604184912,False,Left Foot,Free Kick,0,0,0,Normal
-15.29477034806342,0.05278157130147109,False,Right Foot,Open Play,0,0,1,Normal
-16.68682114724071,0.0622401817406648,False,Left Foot,Open Play,0,0,1,Normal
-16.693112352104986,0.0548199917890426,False,Right Foot,Open Play,0,0,1,Normal
-9.394147114027971,0.05906825423763571,False,Head,Open Play,0,0,3,Normal
-5.824087911424409,0.057496210736139516,True,Head,Open Play,0,1,3,Normal
-29.143266803843385,0.07154736333972178,False,Right Foot,Open Play,1,0,1,Half Volley
-27.28827587078377,0.06477726801253335,False,Right Foot,Open Play,0,0,1,Normal
-29.213866570517503,0.05730502561375248,False,Left Foot,Open Play,1,0,2,Volley
-17.307223925286227,0.06392373013885964,False,Right Foot,Open Play,0,0,4,Normal
-12.083873551142453,0.06029106928981348,False,Left Foot,Open Play,1,0,1,Normal
-10.381233067415453,0.058452039942075915,False,Right Foot,Open Play,1,1,2,Half Volley
-28.994654679785373,0.05849915486931299,False,Right Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-20.84922060893404,0.0559653733441024,False,Right Foot,Open Play,1,0,1,Normal
-27.290474528670263,0.06394240504464706,False,Right Foot,Open Play,0,0,1,Volley
-20.400980368599942,0.05344646796086303,False,Right Foot,Open Play,0,1,1,Normal
-8.115417426109387,0.05815732873416891,False,Right Foot,Open Play,0,0,4,Half Volley
-6.363961030678924,0.05756135032796203,True,Head,Open Play,0,1,4,Normal
-12.280065146407004,0.06017553418083913,False,Left Foot,Open Play,0,0,3,Normal
-25.007198963498492,0.06514243796923552,False,Right Foot,Open Play,0,1,3,Normal
-20.3066491573573,0.06582182008467041,False,Left Foot,Open Play,1,0,1,Half Volley
-22.811619846034613,0.06710773210435496,False,Right Foot,Open Play,0,0,2,Volley
-9.166242414424785,0.05802493893949877,False,Head,Open Play,0,1,3,Normal
-21.85634919193962,0.06605215213629718,False,Right Foot,Open Play,1,0,0,Volley
-25.947061490658243,0.059290815329512095,False,Right Foot,Open Play,0,0,2,Normal
-31.168092658999846,0.06133975697357402,False,Left Foot,Free Kick,0,0,0,Normal
-11.982069938036588,0.059043923418990917,False,Right Foot,Open Play,1,0,2,Volley
-26.360007587252323,0.05781519539078249,False,Right Foot,Open Play,0,0,2,Normal
-11.717081547894084,0.06070379309186593,False,Head,Open Play,0,1,7,Normal
-7.280109889280515,0.05840908288957325,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890529,Pierre-Michel Lasogga,Hamburger SV,5.326349594234305,0.05741966809116645,True,Left Foot,Open Play,1,0,1,Normal
+3890529,Fin Bartels,Werder Bremen,22.168671588527808,0.05277853618653537,False,Right Foot,Open Play,1,0,1,Half Volley
+3890529,Michael Gregoritsch,Hamburger SV,37.34836007109282,0.06178448604184912,False,Left Foot,Free Kick,0,0,0,Normal
+3890529,Nicolai Müller,Hamburger SV,15.29477034806342,0.05278157130147109,False,Right Foot,Open Play,0,0,1,Normal
+3890529,Nicolai Müller,Hamburger SV,16.68682114724071,0.0622401817406648,False,Left Foot,Open Play,0,0,1,Normal
+3890529,Florian Grillitsch,Werder Bremen,16.693112352104986,0.0548199917890426,False,Right Foot,Open Play,0,0,1,Normal
+3890529,Michael Gregoritsch,Hamburger SV,9.394147114027971,0.05906825423763571,False,Head,Open Play,0,0,3,Normal
+3890529,Pierre-Michel Lasogga,Hamburger SV,5.824087911424409,0.057496210736139516,True,Head,Open Play,0,1,3,Normal
+3890529,Michael Gregoritsch,Hamburger SV,29.143266803843385,0.07154736333972178,False,Right Foot,Open Play,1,0,1,Half Volley
+3890529,Clemens Fritz,Werder Bremen,27.28827587078377,0.06477726801253335,False,Right Foot,Open Play,0,0,1,Normal
+3890529,Claudio Miguel Pizarro Bossio,Werder Bremen,29.213866570517503,0.05730502561375248,False,Left Foot,Open Play,1,0,2,Volley
+3890529,Fin Bartels,Werder Bremen,17.307223925286227,0.06392373013885964,False,Right Foot,Open Play,0,0,4,Normal
+3890529,Sambou Yatabaré,Werder Bremen,12.083873551142453,0.06029106928981348,False,Left Foot,Open Play,1,0,1,Normal
+3890529,Fin Bartels,Werder Bremen,10.381233067415453,0.058452039942075915,False,Right Foot,Open Play,1,1,2,Half Volley
+3890529,Theodor Gebre Selassie,Werder Bremen,28.994654679785373,0.05849915486931299,False,Right Foot,Open Play,0,0,2,Normal
+3890529,Claudio Miguel Pizarro Bossio,Werder Bremen,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3890529,Gojko Kačar,Hamburger SV,20.84922060893404,0.0559653733441024,False,Right Foot,Open Play,1,0,1,Normal
+3890529,Florian Grillitsch,Werder Bremen,27.290474528670263,0.06394240504464706,False,Right Foot,Open Play,0,0,1,Volley
+3890529,Pierre-Michel Lasogga,Hamburger SV,20.400980368599942,0.05344646796086303,False,Right Foot,Open Play,0,1,1,Normal
+3890529,Anthony Ujah,Werder Bremen,8.115417426109387,0.05815732873416891,False,Right Foot,Open Play,0,0,4,Half Volley
+3890529,Anthony Ujah,Werder Bremen,6.363961030678924,0.05756135032796203,True,Head,Open Play,0,1,4,Normal
+3890529,Anthony Ujah,Werder Bremen,12.280065146407004,0.06017553418083913,False,Left Foot,Open Play,0,0,3,Normal
+3890529,Zlatko Junuzović,Werder Bremen,25.007198963498492,0.06514243796923552,False,Right Foot,Open Play,0,1,3,Normal
+3890529,Zlatko Junuzović,Werder Bremen,20.3066491573573,0.06582182008467041,False,Left Foot,Open Play,1,0,1,Half Volley
+3890529,Anthony Ujah,Werder Bremen,22.811619846034613,0.06710773210435496,False,Right Foot,Open Play,0,0,2,Volley
+3890529,Anthony Ujah,Werder Bremen,9.166242414424785,0.05802493893949877,False,Head,Open Play,0,1,3,Normal
+3890529,Ivo Iličević,Hamburger SV,21.85634919193962,0.06605215213629718,False,Right Foot,Open Play,1,0,0,Volley
+3890529,Gotoku Sakai,Hamburger SV,25.947061490658243,0.059290815329512095,False,Right Foot,Open Play,0,0,2,Normal
+3890529,Michael Gregoritsch,Hamburger SV,31.168092658999846,0.06133975697357402,False,Left Foot,Free Kick,0,0,0,Normal
+3890529,Florian Grillitsch,Werder Bremen,11.982069938036588,0.059043923418990917,False,Right Foot,Open Play,1,0,2,Volley
+3890529,Papiss Mison Djilobodji,Werder Bremen,26.360007587252323,0.05781519539078249,False,Right Foot,Open Play,0,0,2,Normal
+3890529,Jannik Vestergaard,Werder Bremen,11.717081547894084,0.06070379309186593,False,Head,Open Play,0,1,7,Normal
+3890529,Claudio Miguel Pizarro Bossio,Werder Bremen,7.280109889280515,0.05840908288957325,False,Head,Open Play,0,0,1,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.647518010647183,0.06274567169840603,False,Right Foot,Open Play,1,0,0,Normal
-25.863101128828305,0.0696219396735201,False,Right Foot,Open Play,0,1,1,Normal
-23.90690276886573,0.05471410323444995,False,Right Foot,Open Play,1,0,2,Normal
-29.83035366870464,0.07073719573812967,False,Left Foot,Open Play,0,0,0,Normal
-10.456098698845565,0.05950000502045735,True,Left Foot,Open Play,1,1,3,Normal
-8.121576201698781,0.05840759930371647,False,Head,Open Play,0,0,3,Normal
-9.885848471426211,0.05912123283910032,True,Left Foot,Open Play,0,0,3,Normal
-14.541664278891878,0.06023129973860641,False,Left Foot,Open Play,1,0,2,Half Volley
-19.25850461484484,0.06472547854687322,False,Left Foot,Open Play,0,0,2,Normal
-25.387004549572207,0.05738366849460643,False,Left Foot,Open Play,0,0,1,Normal
-16.36704005005181,0.06336912971397761,False,Right Foot,Open Play,0,0,1,Normal
-21.523243250030884,0.05757697300975859,True,Right Foot,Open Play,1,0,1,Lob
-15.610893632332518,0.06217686344900026,False,Left Foot,Open Play,0,0,2,Normal
-30.413977050034084,0.07232951559727191,False,Right Foot,Open Play,0,0,2,Normal
-19.77675403093238,0.05791324173541018,False,Right Foot,Open Play,1,0,0,Normal
-22.54883589012967,0.06025937514342648,False,Right Foot,Open Play,1,0,0,Normal
-9.436630754670862,0.05484138343940916,True,Right Foot,Open Play,0,1,2,Normal
-16.957889019568448,0.06113065860255248,False,Right Foot,Open Play,1,0,2,Normal
-4.404543109109054,0.05648080668898576,True,Right Foot,Open Play,1,0,2,Normal
-17.988885457415083,0.05769239569981621,False,Right Foot,Open Play,0,0,3,Normal
-14.256226709757387,0.05383568958804668,True,Right Foot,Open Play,1,0,1,Half Volley
-17.20029069521792,0.0538551101265537,False,Left Foot,Open Play,0,0,1,Half Volley
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754056,Marko Arnautović,Stoke City,20.647518010647183,0.06274567169840603,False,Right Foot,Open Play,1,0,0,Normal
+3754056,Ross Barkley,Everton,25.863101128828305,0.0696219396735201,False,Right Foot,Open Play,0,1,1,Normal
+3754056,Marko Arnautović,Stoke City,23.90690276886573,0.05471410323444995,False,Right Foot,Open Play,1,0,2,Normal
+3754056,Romelu Lukaku Menama,Everton,29.83035366870464,0.07073719573812967,False,Left Foot,Open Play,0,0,0,Normal
+3754056,Xherdan Shaqiri,Stoke City,10.456098698845565,0.05950000502045735,True,Left Foot,Open Play,1,1,3,Normal
+3754056,John Stones,Everton,8.121576201698781,0.05840759930371647,False,Head,Open Play,0,0,3,Normal
+3754056,Romelu Lukaku Menama,Everton,9.885848471426211,0.05912123283910032,True,Left Foot,Open Play,0,0,3,Normal
+3754056,Geoff Cameron,Stoke City,14.541664278891878,0.06023129973860641,False,Left Foot,Open Play,1,0,2,Half Volley
+3754056,Brendan Joel Zibusiso Galloway,Everton,19.25850461484484,0.06472547854687322,False,Left Foot,Open Play,0,0,2,Normal
+3754056,Arouna Koné,Everton,25.387004549572207,0.05738366849460643,False,Left Foot,Open Play,0,0,1,Normal
+3754056,Ross Barkley,Everton,16.36704005005181,0.06336912971397761,False,Right Foot,Open Play,0,0,1,Normal
+3754056,Xherdan Shaqiri,Stoke City,21.523243250030884,0.05757697300975859,True,Right Foot,Open Play,1,0,1,Lob
+3754056,Tom Cleverley,Everton,15.610893632332518,0.06217686344900026,False,Left Foot,Open Play,0,0,2,Normal
+3754056,Geoff Cameron,Stoke City,30.413977050034084,0.07232951559727191,False,Right Foot,Open Play,0,0,2,Normal
+3754056,Ross Barkley,Everton,19.77675403093238,0.05791324173541018,False,Right Foot,Open Play,1,0,0,Normal
+3754056,Arouna Koné,Everton,22.54883589012967,0.06025937514342648,False,Right Foot,Open Play,1,0,0,Normal
+3754056,Romelu Lukaku Menama,Everton,9.436630754670862,0.05484138343940916,True,Right Foot,Open Play,0,1,2,Normal
+3754056,Steven Naismith,Everton,16.957889019568448,0.06113065860255248,False,Right Foot,Open Play,1,0,2,Normal
+3754056,Gerard Deulofeu Lázaro,Everton,4.404543109109054,0.05648080668898576,True,Right Foot,Open Play,1,0,2,Normal
+3754056,Gerard Deulofeu Lázaro,Everton,17.988885457415083,0.05769239569981621,False,Right Foot,Open Play,0,0,3,Normal
+3754056,José Luis Sanmartín Mato,Stoke City,14.256226709757387,0.05383568958804668,True,Right Foot,Open Play,1,0,1,Half Volley
+3754056,Séamus Coleman,Everton,17.20029069521792,0.0538551101265537,False,Left Foot,Open Play,0,0,1,Half Volley
+3754056,Marko Arnautović,Stoke City,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal

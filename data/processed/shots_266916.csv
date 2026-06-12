@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.385534086699813,0.06446639601457689,True,Right Foot,Open Play,0,0,2,Normal
-29.633933252270115,0.04989094991993279,False,Left Foot,Open Play,0,0,1,Normal
-32.984845004941285,0.060639810304558145,False,Right Foot,Open Play,0,0,1,Normal
-16.769317219254933,0.058505198999420686,False,Left Foot,Open Play,1,0,1,Normal
-13.092364186807515,0.061534502192868705,False,Left Foot,Open Play,0,0,2,Normal
-23.908366736354033,0.06675337529899154,False,Left Foot,Open Play,0,0,3,Normal
-33.16941362158819,0.07522085588548276,False,Left Foot,Open Play,0,0,1,Normal
-25.94706149065825,0.06818623379505181,False,Right Foot,Free Kick,0,0,0,Normal
-13.6209397619988,0.05605861830266944,False,Left Foot,Open Play,1,0,1,Lob
-16.058953888718904,0.06267698437191756,False,Head,Open Play,0,0,1,Normal
-13.37535046269816,0.057514609524846015,False,Head,Open Play,0,0,1,Normal
-3.7121422386541156,0.05661553435486561,True,Right Foot,Open Play,0,0,4,Half Volley
-9.01387818865997,0.057282997470304416,False,Right Foot,Open Play,1,0,4,Half Volley
-16.595180023127195,0.06304567806546373,False,Left Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-13.528118864054974,0.0614694801263861,False,Left Foot,Open Play,0,1,2,Normal
-5.721887800367989,0.056888817917447654,True,Left Foot,Open Play,1,0,3,Normal
-21.08008538882137,0.056332285622714216,False,Left Foot,Open Play,0,0,2,Normal
-24.13648690261282,0.05732100157196006,False,Left Foot,Free Kick,0,0,0,Normal
-9.037698822156,0.05859267124793716,True,Left Foot,Open Play,0,0,2,Normal
-15.57080601638849,0.06240708883842205,False,Left Foot,Open Play,0,1,2,Normal
-35.51351855279902,0.05882577194658723,False,Right Foot,Open Play,0,1,1,Normal
-12.001666550941998,0.059519665423498846,True,Right Foot,Penalty,0,0,0,Normal
-17.608236708995022,0.060048145118157106,False,Left Foot,Open Play,1,0,1,Normal
-7.816009211867649,0.052799849610966225,False,Right Foot,Open Play,0,0,0,Normal
-10.387011119662866,0.053440772458626565,True,Right Foot,Open Play,0,0,2,Normal
-12.657408897558772,0.053202803823306735,False,Right Foot,Open Play,0,0,1,Normal
-27.900716836669268,0.055918884888557514,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266916,Luis Alberto Suárez Díaz,Barcelona,20.385534086699813,0.06446639601457689,True,Right Foot,Open Play,0,0,2,Normal
+266916,Gaël Kakuta,Rayo Vallecano,29.633933252270115,0.04989094991993279,False,Left Foot,Open Play,0,0,1,Normal
+266916,Roberto Trashorras Gayoso,Rayo Vallecano,32.984845004941285,0.060639810304558145,False,Right Foot,Open Play,0,0,1,Normal
+266916,Daniel Alves da Silva,Barcelona,16.769317219254933,0.058505198999420686,False,Left Foot,Open Play,1,0,1,Normal
+266916,Pedro Eliezer Rodríguez Ledesma,Barcelona,13.092364186807515,0.061534502192868705,False,Left Foot,Open Play,0,0,2,Normal
+266916,Andrés Iniesta Luján,Barcelona,23.908366736354033,0.06675337529899154,False,Left Foot,Open Play,0,0,3,Normal
+266916,Emiliano Adrián Insúa Zapata,Rayo Vallecano,33.16941362158819,0.07522085588548276,False,Left Foot,Open Play,0,0,1,Normal
+266916,Roberto Trashorras Gayoso,Rayo Vallecano,25.94706149065825,0.06818623379505181,False,Right Foot,Free Kick,0,0,0,Normal
+266916,Lionel Andrés Messi Cuccittini,Barcelona,13.6209397619988,0.05605861830266944,False,Left Foot,Open Play,1,0,1,Lob
+266916,Abdoulaye Ba,Rayo Vallecano,16.058953888718904,0.06267698437191756,False,Head,Open Play,0,0,1,Normal
+266916,Jordi Alba Ramos,Barcelona,13.37535046269816,0.057514609524846015,False,Head,Open Play,0,0,1,Normal
+266916,Gerard Piqué Bernabéu,Barcelona,3.7121422386541156,0.05661553435486561,True,Right Foot,Open Play,0,0,4,Half Volley
+266916,Leonardo Carrilho Baptistão,Rayo Vallecano,9.01387818865997,0.057282997470304416,False,Right Foot,Open Play,1,0,4,Half Volley
+266916,Andrés Iniesta Luján,Barcelona,16.595180023127195,0.06304567806546373,False,Left Foot,Open Play,0,0,2,Normal
+266916,Lionel Andrés Messi Cuccittini,Barcelona,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+266916,Luis Alberto Suárez Díaz,Barcelona,13.528118864054974,0.0614694801263861,False,Left Foot,Open Play,0,1,2,Normal
+266916,Lionel Andrés Messi Cuccittini,Barcelona,5.721887800367989,0.056888817917447654,True,Left Foot,Open Play,1,0,3,Normal
+266916,Gaël Kakuta,Rayo Vallecano,21.08008538882137,0.056332285622714216,False,Left Foot,Open Play,0,0,2,Normal
+266916,Lionel Andrés Messi Cuccittini,Barcelona,24.13648690261282,0.05732100157196006,False,Left Foot,Free Kick,0,0,0,Normal
+266916,Lionel Andrés Messi Cuccittini,Barcelona,9.037698822156,0.05859267124793716,True,Left Foot,Open Play,0,0,2,Normal
+266916,Adriano Correia Claro,Barcelona,15.57080601638849,0.06240708883842205,False,Left Foot,Open Play,0,1,2,Normal
+266916,Daniel Alves da Silva,Barcelona,35.51351855279902,0.05882577194658723,False,Right Foot,Open Play,0,1,1,Normal
+266916,Alberto Bueno Calvo,Rayo Vallecano,12.001666550941998,0.059519665423498846,True,Right Foot,Penalty,0,0,0,Normal
+266916,Luis Alberto Suárez Díaz,Barcelona,17.608236708995022,0.060048145118157106,False,Left Foot,Open Play,1,0,1,Normal
+266916,Lionel Andrés Messi Cuccittini,Barcelona,7.816009211867649,0.052799849610966225,False,Right Foot,Open Play,0,0,0,Normal
+266916,Luis Alberto Suárez Díaz,Barcelona,10.387011119662866,0.053440772458626565,True,Right Foot,Open Play,0,0,2,Normal
+266916,Luis Alberto Suárez Díaz,Barcelona,12.657408897558772,0.053202803823306735,False,Right Foot,Open Play,0,0,1,Normal
+266916,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,27.900716836669268,0.055918884888557514,False,Left Foot,Open Play,0,0,2,Normal

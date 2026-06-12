@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.664437897855244,0.07144183278304037,False,Right Foot,Open Play,0,0,2,Normal
-19.0633155563244,0.06128644813374947,False,Right Foot,Open Play,1,0,1,Half Volley
-28.90847626562147,0.07021068327898192,False,Left Foot,Free Kick,0,0,0,Normal
-24.010414407085943,0.06379898805948023,False,Left Foot,Open Play,0,0,2,Normal
-36.93561966449189,0.0775526635385394,False,Right Foot,Open Play,0,0,1,Normal
-22.24679752234015,0.05952307959207546,False,Left Foot,Open Play,1,0,1,Normal
-25.838343600161377,0.06190815175362475,True,Left Foot,Free Kick,0,0,0,Normal
-14.849915824677252,0.05519060925690096,False,Right Foot,Open Play,0,0,3,Normal
-21.63330765278394,0.0600099179299987,False,Left Foot,Open Play,1,0,3,Normal
-17.26788927460447,0.06353444542433694,False,Left Foot,Open Play,0,0,2,Normal
-10.429285689825544,0.05968137062130395,False,Head,Open Play,0,1,4,Normal
-21.540659228538015,0.06585414967009544,False,Left Foot,Open Play,0,0,1,Half Volley
-24.894376875109767,0.06893043126773277,False,Left Foot,Free Kick,0,0,0,Normal
-12.955693729013516,0.06040663154292115,False,Head,Open Play,0,0,2,Normal
-22.936869882353168,0.056995358365301084,False,Right Foot,Open Play,0,0,1,Normal
-6.0074953183502355,0.057067936319171585,False,Head,Open Play,0,1,5,Normal
-6.9202601107183845,0.05822533371255864,False,Head,Open Play,0,1,5,Normal
-24.31316515799619,0.06548770599465044,False,Left Foot,Open Play,1,0,0,Half Volley
-21.99386278033034,0.059235391228373485,False,Right Foot,Open Play,1,0,1,Normal
-20.729930052945182,0.06135248838475372,False,Left Foot,Open Play,0,0,1,Normal
-11.636150566231086,0.05964195048546305,False,Left Foot,Open Play,1,0,2,Volley
-19.00657780874822,0.06495259187418327,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9837,Andrés Iniesta Luján,Barcelona,28.664437897855244,0.07144183278304037,False,Right Foot,Open Play,0,0,2,Normal
+9837,Philippe Coutinho Correia,Barcelona,19.0633155563244,0.06128644813374947,False,Right Foot,Open Play,1,0,1,Half Volley
+9837,Lionel Andrés Messi Cuccittini,Barcelona,28.90847626562147,0.07021068327898192,False,Left Foot,Free Kick,0,0,0,Normal
+9837,Lionel Andrés Messi Cuccittini,Barcelona,24.010414407085943,0.06379898805948023,False,Left Foot,Open Play,0,0,2,Normal
+9837,Thomas Teye Partey,Atlético Madrid,36.93561966449189,0.0775526635385394,False,Right Foot,Open Play,0,0,1,Normal
+9837,Luis Alberto Suárez Díaz,Barcelona,22.24679752234015,0.05952307959207546,False,Left Foot,Open Play,1,0,1,Normal
+9837,Lionel Andrés Messi Cuccittini,Barcelona,25.838343600161377,0.06190815175362475,True,Left Foot,Free Kick,0,0,0,Normal
+9837,Luis Alberto Suárez Díaz,Barcelona,14.849915824677252,0.05519060925690096,False,Right Foot,Open Play,0,0,3,Normal
+9837,Philippe Coutinho Correia,Barcelona,21.63330765278394,0.0600099179299987,False,Left Foot,Open Play,1,0,3,Normal
+9837,Philippe Coutinho Correia,Barcelona,17.26788927460447,0.06353444542433694,False,Left Foot,Open Play,0,0,2,Normal
+9837,Gerard Piqué Bernabéu,Barcelona,10.429285689825544,0.05968137062130395,False,Head,Open Play,0,1,4,Normal
+9837,Saúl Ñíguez Esclapez,Atlético Madrid,21.540659228538015,0.06585414967009544,False,Left Foot,Open Play,0,0,1,Half Volley
+9837,Lionel Andrés Messi Cuccittini,Barcelona,24.894376875109767,0.06893043126773277,False,Left Foot,Free Kick,0,0,0,Normal
+9837,Saúl Ñíguez Esclapez,Atlético Madrid,12.955693729013516,0.06040663154292115,False,Head,Open Play,0,0,2,Normal
+9837,Diego da Silva Costa,Atlético Madrid,22.936869882353168,0.056995358365301084,False,Right Foot,Open Play,0,0,1,Normal
+9837,Gerard Piqué Bernabéu,Barcelona,6.0074953183502355,0.057067936319171585,False,Head,Open Play,0,1,5,Normal
+9837,Samuel Yves Umtiti,Barcelona,6.9202601107183845,0.05822533371255864,False,Head,Open Play,0,1,5,Normal
+9837,Antoine Griezmann,Atlético Madrid,24.31316515799619,0.06548770599465044,False,Left Foot,Open Play,1,0,0,Half Volley
+9837,Ivan Rakitić,Barcelona,21.99386278033034,0.059235391228373485,False,Right Foot,Open Play,1,0,1,Normal
+9837,Lionel Andrés Messi Cuccittini,Barcelona,20.729930052945182,0.06135248838475372,False,Left Foot,Open Play,0,0,1,Normal
+9837,Sergio Busquets i Burgos,Barcelona,11.636150566231086,0.05964195048546305,False,Left Foot,Open Play,1,0,2,Volley
+9837,Luis Alberto Suárez Díaz,Barcelona,19.00657780874822,0.06495259187418327,False,Right Foot,Open Play,0,0,1,Normal

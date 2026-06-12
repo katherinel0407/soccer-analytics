@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.926777104943795,0.06446509428141355,False,Right Foot,Open Play,1,1,1,Half Volley
-28.044607324760314,0.05933534126903692,False,Right Foot,Open Play,1,0,1,Half Volley
-14.242541907960112,0.060105357803182324,False,Left Foot,Open Play,1,0,1,Volley
-12.87982919141399,0.05725488261818604,False,Head,Open Play,0,0,2,Normal
-15.289538907370614,0.05997221903939206,False,Right Foot,Open Play,1,0,1,Volley
-18.270194306574844,0.06438290699694173,False,Right Foot,Open Play,0,0,3,Normal
-17.020575783445164,0.053764807213418774,False,Right Foot,Open Play,1,0,1,Half Volley
-37.06818042472546,0.07805391551414483,False,Right Foot,Free Kick,0,0,0,Normal
-8.26377637645163,0.058788214324003614,False,Other,Open Play,0,0,4,Normal
-29.14463930125058,0.07171401539902587,False,Right Foot,Open Play,0,0,2,Normal
-9.794386147176347,0.059664318529679954,True,Head,Open Play,0,0,2,Normal
-11.607756027760063,0.057440960474357296,False,Left Foot,Open Play,1,1,1,Half Volley
-26.221365334398588,0.06418124434598133,False,Right Foot,Open Play,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-19.736767719158067,0.06548148636582465,False,Right Foot,Open Play,0,0,2,Normal
-32.434703636691374,0.07002194633181814,False,Left Foot,Open Play,0,0,2,Half Volley
-13.585654198455074,0.059683403816498184,False,Right Foot,Open Play,0,0,1,Normal
-20.571825392998072,0.05835655842395412,False,Right Foot,Open Play,0,0,4,Normal
-20.83698634639856,0.06596715730333756,False,Right Foot,Open Play,0,0,4,Normal
-16.399085340347487,0.06071263383054572,False,Left Foot,Open Play,0,0,3,Normal
-22.157842855296185,0.06628413902717571,False,Right Foot,Open Play,0,0,2,Normal
-37.80542289143186,0.0621730937475734,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930183,Juraj Kucka,Slovakia,20.926777104943795,0.06446509428141355,False,Right Foot,Open Play,1,1,1,Half Volley
+3930183,Peter Pekarík,Slovakia,28.044607324760314,0.05933534126903692,False,Right Foot,Open Play,1,0,1,Half Volley
+3930183,David Strelec,Slovakia,14.242541907960112,0.060105357803182324,False,Left Foot,Open Play,1,0,1,Volley
+3930183,Juraj Kucka,Slovakia,12.87982919141399,0.05725488261818604,False,Head,Open Play,0,0,2,Normal
+3930183,Dávid Hancko,Slovakia,15.289538907370614,0.05997221903939206,False,Right Foot,Open Play,1,0,1,Volley
+3930183,Andrei Florin Ratiu,Romania,18.270194306574844,0.06438290699694173,False,Right Foot,Open Play,0,0,3,Normal
+3930183,Ianis Hagi,Romania,17.020575783445164,0.053764807213418774,False,Right Foot,Open Play,1,0,1,Half Volley
+3930183,Răzvan Gabriel Marin,Romania,37.06818042472546,0.07805391551414483,False,Right Foot,Free Kick,0,0,0,Normal
+3930183,Milan Škriniar,Slovakia,8.26377637645163,0.058788214324003614,False,Other,Open Play,0,0,4,Normal
+3930183,Nicolae Claudiu Stanciu,Romania,29.14463930125058,0.07171401539902587,False,Right Foot,Open Play,0,0,2,Normal
+3930183,Ondrej Duda,Slovakia,9.794386147176347,0.059664318529679954,True,Head,Open Play,0,0,2,Normal
+3930183,David Strelec,Slovakia,11.607756027760063,0.057440960474357296,False,Left Foot,Open Play,1,1,1,Half Volley
+3930183,Andrei Florin Ratiu,Romania,26.221365334398588,0.06418124434598133,False,Right Foot,Open Play,0,0,0,Normal
+3930183,Răzvan Gabriel Marin,Romania,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3930183,Denis Mihai Drăguş,Romania,19.736767719158067,0.06548148636582465,False,Right Foot,Open Play,0,0,2,Normal
+3930183,David Strelec,Slovakia,32.434703636691374,0.07002194633181814,False,Left Foot,Open Play,0,0,2,Half Volley
+3930183,Lukáš Haraslín,Slovakia,13.585654198455074,0.059683403816498184,False,Right Foot,Open Play,0,0,1,Normal
+3930183,Răzvan Gabriel Marin,Romania,20.571825392998072,0.05835655842395412,False,Right Foot,Open Play,0,0,4,Normal
+3930183,Denis Mihai Drăguş,Romania,20.83698634639856,0.06596715730333756,False,Right Foot,Open Play,0,0,4,Normal
+3930183,David Strelec,Slovakia,16.399085340347487,0.06071263383054572,False,Left Foot,Open Play,0,0,3,Normal
+3930183,Lukáš Haraslín,Slovakia,22.157842855296185,0.06628413902717571,False,Right Foot,Open Play,0,0,2,Normal
+3930183,Denis Vavro,Slovakia,37.80542289143186,0.0621730937475734,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.847319317591726,0.0673189681267889,False,Right Foot,Open Play,0,0,1,Normal
-21.02379604162864,0.06399467512373622,False,Left Foot,Open Play,0,0,3,Normal
-17.204650534085253,0.06300706143286973,False,Left Foot,Open Play,1,0,1,Normal
-8.94427190999916,0.05661065938655103,False,Left Foot,Open Play,1,0,2,Half Volley
-23.53720459187964,0.06209192113566976,False,Right Foot,Open Play,0,0,1,Normal
-21.213203435596427,0.054702205026093,False,Right Foot,Open Play,0,0,1,Normal
-16.55294535724685,0.05807115995296915,True,Right Foot,Open Play,0,0,1,Normal
-29.832867780352597,0.0710725815057085,False,Right Foot,Open Play,0,0,2,Normal
-15.297058540778355,0.05969290837765946,True,Right Foot,Open Play,1,0,2,Normal
-25.059928172283335,0.05828146776796858,False,Right Foot,Open Play,0,0,2,Normal
-32.14031735997639,0.06714178583848458,False,Right Foot,Open Play,0,0,0,Normal
-5.0990195135927845,0.05646461582252842,False,Left Foot,Open Play,1,0,3,Half Volley
-27.018512172212592,0.06589130279848567,False,Right Foot,Open Play,1,0,0,Normal
-21.37755832643195,0.061735205252442873,False,Right Foot,Open Play,0,1,1,Normal
-15.652475842498529,0.052731880896080954,False,Right Foot,Open Play,0,0,0,Normal
-17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,0,2,Half Volley
-26.1725046566048,0.06438852227554745,True,Left Foot,Open Play,0,0,1,Normal
-15.620499351813308,0.06290668439967836,False,Left Foot,Open Play,0,0,1,Normal
-6.4031242374328485,0.055516039516864096,False,Right Foot,Open Play,1,0,3,Backheel
-26.92582403567252,0.06229282135453244,False,Right Foot,Open Play,0,0,1,Normal
-28.0178514522438,0.06743337326264422,False,Right Foot,Open Play,1,0,0,Normal
-20.615528128088304,0.060865794357156396,True,Right Foot,Open Play,0,0,1,Normal
-22.47220505424423,0.06692786941452042,False,Right Foot,Open Play,0,0,1,Normal
-22.47220505424423,0.05986089032781617,False,Left Foot,Open Play,0,0,3,Normal
-37.57658845611187,0.059776941859353734,False,Right Foot,Open Play,1,0,1,Lob
-23.021728866442675,0.05245975212039065,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+18236,Javier Hernández Balcázar,Manchester United,22.847319317591726,0.0673189681267889,False,Right Foot,Open Play,0,0,1,Normal
+18236,David Villa Sánchez,Barcelona,21.02379604162864,0.06399467512373622,False,Left Foot,Open Play,0,0,3,Normal
+18236,David Villa Sánchez,Barcelona,17.204650534085253,0.06300706143286973,False,Left Foot,Open Play,1,0,1,Normal
+18236,Pedro Eliezer Rodríguez Ledesma,Barcelona,8.94427190999916,0.05661065938655103,False,Left Foot,Open Play,1,0,2,Half Volley
+18236,David Villa Sánchez,Barcelona,23.53720459187964,0.06209192113566976,False,Right Foot,Open Play,0,0,1,Normal
+18236,David Villa Sánchez,Barcelona,21.213203435596427,0.054702205026093,False,Right Foot,Open Play,0,0,1,Normal
+18236,Pedro Eliezer Rodríguez Ledesma,Barcelona,16.55294535724685,0.05807115995296915,True,Right Foot,Open Play,0,0,1,Normal
+18236,Andrés Iniesta Luján,Barcelona,29.832867780352597,0.0710725815057085,False,Right Foot,Open Play,0,0,2,Normal
+18236,Wayne Mark Rooney,Manchester United,15.297058540778355,0.05969290837765946,True,Right Foot,Open Play,1,0,2,Normal
+18236,Xavier Hernández Creus,Barcelona,25.059928172283335,0.05828146776796858,False,Right Foot,Open Play,0,0,2,Normal
+18236,Andrés Iniesta Luján,Barcelona,32.14031735997639,0.06714178583848458,False,Right Foot,Open Play,0,0,0,Normal
+18236,Lionel Andrés Messi Cuccittini,Barcelona,5.0990195135927845,0.05646461582252842,False,Left Foot,Open Play,1,0,3,Half Volley
+18236,Andrés Iniesta Luján,Barcelona,27.018512172212592,0.06589130279848567,False,Right Foot,Open Play,1,0,0,Normal
+18236,Xavier Hernández Creus,Barcelona,21.37755832643195,0.061735205252442873,False,Right Foot,Open Play,0,1,1,Normal
+18236,Daniel Alves da Silva,Barcelona,15.652475842498529,0.052731880896080954,False,Right Foot,Open Play,0,0,0,Normal
+18236,Lionel Andrés Messi Cuccittini,Barcelona,17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,0,2,Half Volley
+18236,Lionel Andrés Messi Cuccittini,Barcelona,26.1725046566048,0.06438852227554745,True,Left Foot,Open Play,0,0,1,Normal
+18236,Lionel Andrés Messi Cuccittini,Barcelona,15.620499351813308,0.06290668439967836,False,Left Foot,Open Play,0,0,1,Normal
+18236,Lionel Andrés Messi Cuccittini,Barcelona,6.4031242374328485,0.055516039516864096,False,Right Foot,Open Play,1,0,3,Backheel
+18236,Xavier Hernández Creus,Barcelona,26.92582403567252,0.06229282135453244,False,Right Foot,Open Play,0,0,1,Normal
+18236,Andrés Iniesta Luján,Barcelona,28.0178514522438,0.06743337326264422,False,Right Foot,Open Play,1,0,0,Normal
+18236,David Villa Sánchez,Barcelona,20.615528128088304,0.060865794357156396,True,Right Foot,Open Play,0,0,1,Normal
+18236,Wayne Mark Rooney,Manchester United,22.47220505424423,0.06692786941452042,False,Right Foot,Open Play,0,0,1,Normal
+18236,Luís Carlos Almeida da Cunha,Manchester United,22.47220505424423,0.05986089032781617,False,Left Foot,Open Play,0,0,3,Normal
+18236,Andrés Iniesta Luján,Barcelona,37.57658845611187,0.059776941859353734,False,Right Foot,Open Play,1,0,1,Lob
+18236,Ibrahim Afellay,Barcelona,23.021728866442675,0.05245975212039065,False,Right Foot,Open Play,0,0,1,Normal

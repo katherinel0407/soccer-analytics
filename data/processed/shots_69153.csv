@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.867948658687771,0.053783849507004856,True,Right Foot,Open Play,0,0,3,Normal
-19.90401969452402,0.05050445346523178,False,Right Foot,Open Play,0,0,2,Normal
-9.638464608017195,0.05909972862471685,False,Right Foot,Open Play,1,0,1,Volley
-26.600187969260663,0.06626629858918184,False,Right Foot,Open Play,1,0,1,Half Volley
-25.31027459353217,0.06010021464298443,False,Right Foot,Open Play,0,0,2,Normal
-20.106217943710845,0.06490286688619276,False,Right Foot,Open Play,0,0,2,Normal
-15.250245899656825,0.055714983875422015,False,Right Foot,Open Play,1,0,2,Normal
-19.954197553397123,0.06551633672137241,False,Left Foot,Open Play,0,0,4,Normal
-32.70244639166924,0.06455417325872034,False,Right Foot,Open Play,0,0,1,Normal
-35.723941551850075,0.07374013643402266,False,Left Foot,Open Play,1,0,1,Volley
-11.520850663036999,0.05829078027467096,False,Right Foot,Open Play,0,0,3,Half Volley
-5.7706152185013995,0.05762293606228704,True,Head,Open Play,0,1,6,Normal
-18.41331040307527,0.06391589489187714,False,Left Foot,Open Play,1,0,0,Normal
-6.013318551349163,0.057286814467256586,False,Right Foot,Open Play,0,0,3,Normal
-25.404920783186874,0.059083213729134144,True,Right Foot,Open Play,1,0,0,Volley
-17.921216476567658,0.06383129396420559,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69153,Andrés Iniesta Luján,Barcelona,13.867948658687771,0.053783849507004856,True,Right Foot,Open Play,0,0,3,Normal
+69153,Samuel Eto''o Fils,Barcelona,19.90401969452402,0.05050445346523178,False,Right Foot,Open Play,0,0,2,Normal
+69153,Rafael Márquez Álvarez,Barcelona,9.638464608017195,0.05909972862471685,False,Right Foot,Open Play,1,0,1,Volley
+69153,Xavier Hernández Creus,Barcelona,26.600187969260663,0.06626629858918184,False,Right Foot,Open Play,1,0,1,Half Volley
+69153,Anderson Luís de Souza,Barcelona,25.31027459353217,0.06010021464298443,False,Right Foot,Open Play,0,0,2,Normal
+69153,Ronaldo de Assis Moreira,Barcelona,20.106217943710845,0.06490286688619276,False,Right Foot,Open Play,0,0,2,Normal
+69153,"Antonio Pacheco D""Agosti",Albacete,15.250245899656825,0.055714983875422015,False,Right Foot,Open Play,1,0,2,Normal
+69153,Samuel Eto''o Fils,Barcelona,19.954197553397123,0.06551633672137241,False,Left Foot,Open Play,0,0,4,Normal
+69153,Rafael Márquez Álvarez,Barcelona,32.70244639166924,0.06455417325872034,False,Right Foot,Open Play,0,0,1,Normal
+69153,Gaspar Gálvez Burgos,Albacete,35.723941551850075,0.07374013643402266,False,Left Foot,Open Play,1,0,1,Volley
+69153,"Antonio Pacheco D""Agosti",Albacete,11.520850663036999,0.05829078027467096,False,Right Foot,Open Play,0,0,3,Half Volley
+69153,Mark Dennis González Hoffmann,Albacete,5.7706152185013995,0.05762293606228704,True,Head,Open Play,0,1,6,Normal
+69153,Mark Dennis González Hoffmann,Albacete,18.41331040307527,0.06391589489187714,False,Left Foot,Open Play,1,0,0,Normal
+69153,"Antonio Pacheco D""Agosti",Albacete,6.013318551349163,0.057286814467256586,False,Right Foot,Open Play,0,0,3,Normal
+69153,Xavier Hernández Creus,Barcelona,25.404920783186874,0.059083213729134144,True,Right Foot,Open Play,1,0,0,Volley
+69153,Sylvio Mendes Campos Junior,Barcelona,17.921216476567658,0.06383129396420559,False,Left Foot,Open Play,0,0,2,Normal

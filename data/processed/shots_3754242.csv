@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.850770291502833,0.05595578916428023,True,Left Foot,Open Play,0,0,2,Normal
-15.789236840328918,0.062472467352163136,False,Right Foot,Open Play,0,0,2,Normal
-25.757717290163743,0.0689634094994806,False,Right Foot,Open Play,0,0,1,Normal
-16.56804152578089,0.06211631677906638,False,Right Foot,Open Play,1,0,0,Normal
-30.818500936937216,0.0667089566019346,False,Right Foot,Free Kick,0,0,0,Normal
-18.66815470259447,0.06450729768690946,False,Right Foot,Open Play,1,1,1,Normal
-19.220041623263985,0.04985221599263004,False,Right Foot,Open Play,0,0,0,Normal
-10.965856099730654,0.057178547706650255,False,Head,Open Play,0,0,3,Normal
-12.37457069962429,0.05522758261457116,False,Head,Open Play,0,0,1,Normal
-26.041697333315284,0.06930729024975654,True,Right Foot,Open Play,0,0,0,Normal
-8.434453153583815,0.057574725849542756,True,Head,Open Play,0,1,3,Normal
-21.203773249117717,0.06508657537432122,False,Right Foot,Open Play,0,0,0,Half Volley
-18.183783984638627,0.06406596144000563,False,Right Foot,Open Play,0,0,2,Normal
-28.62463973572419,0.06338453490441809,False,Right Foot,Open Play,0,0,1,Normal
-23.686282950264694,0.057080674133728554,False,Right Foot,Open Play,0,0,1,Normal
-14.494136745594755,0.05585155087817496,False,Left Foot,Open Play,0,0,3,Normal
-31.084562084739105,0.07344470499011667,False,Left Foot,Open Play,0,1,1,Normal
-24.943536236869065,0.05803475989608609,False,Right Foot,Open Play,0,0,1,Normal
-27.100737997331358,0.06635649378481914,False,Right Foot,Open Play,1,0,1,Normal
-18.58009687811127,0.06473444775440367,False,Left Foot,Open Play,0,0,2,Half Volley
-18.127603261324982,0.052867916215684645,False,Right Foot,Open Play,0,0,1,Normal
-27.775168766363958,0.06458016002438971,False,Right Foot,Open Play,0,0,0,Normal
-25.27943828489866,0.05357313965898783,False,Right Foot,Open Play,0,0,2,Normal
-17.418668146560456,0.056894620025860945,True,Right Foot,Open Play,0,0,1,Lob
-13.953135848260061,0.06075898569642522,False,Right Foot,Open Play,0,0,2,Overhead Kick
-25.707780923292464,0.06951081168168839,False,Left Foot,Open Play,1,0,0,Volley
-8.158431221748456,0.05847167776476761,False,Head,Open Play,0,1,2,Normal
-27.24059470716452,0.06973453606548038,False,Right Foot,Open Play,0,1,2,Normal
-7.881624198095218,0.058721257108073806,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754242,Pedro Eliezer Rodríguez Ledesma,Chelsea,17.850770291502833,0.05595578916428023,True,Left Foot,Open Play,0,0,2,Normal
+3754242,Eden Hazard,Chelsea,15.789236840328918,0.062472467352163136,False,Right Foot,Open Play,0,0,2,Normal
+3754242,Willian Borges da Silva,Chelsea,25.757717290163743,0.0689634094994806,False,Right Foot,Open Play,0,0,1,Normal
+3754242,Joshua King,AFC Bournemouth,16.56804152578089,0.06211631677906638,False,Right Foot,Open Play,1,0,0,Normal
+3754242,Branislav Ivanović,Chelsea,30.818500936937216,0.0667089566019346,False,Right Foot,Free Kick,0,0,0,Normal
+3754242,Marc Pugh,AFC Bournemouth,18.66815470259447,0.06450729768690946,False,Right Foot,Open Play,1,1,1,Normal
+3754242,Lewis Grabban,AFC Bournemouth,19.220041623263985,0.04985221599263004,False,Right Foot,Open Play,0,0,0,Normal
+3754242,Joshua King,AFC Bournemouth,10.965856099730654,0.057178547706650255,False,Head,Open Play,0,0,3,Normal
+3754242,Lewis Grabban,AFC Bournemouth,12.37457069962429,0.05522758261457116,False,Head,Open Play,0,0,1,Normal
+3754242,Eden Hazard,Chelsea,26.041697333315284,0.06930729024975654,True,Right Foot,Open Play,0,0,0,Normal
+3754242,Tommy Elphick,AFC Bournemouth,8.434453153583815,0.057574725849542756,True,Head,Open Play,0,1,3,Normal
+3754242,Willian Borges da Silva,Chelsea,21.203773249117717,0.06508657537432122,False,Right Foot,Open Play,0,0,0,Half Volley
+3754242,Lewis Grabban,AFC Bournemouth,18.183783984638627,0.06406596144000563,False,Right Foot,Open Play,0,0,2,Normal
+3754242,Francesc Fàbregas i Soler,Chelsea,28.62463973572419,0.06338453490441809,False,Right Foot,Open Play,0,0,1,Normal
+3754242,Junior Stanislas,AFC Bournemouth,23.686282950264694,0.057080674133728554,False,Right Foot,Open Play,0,0,1,Normal
+3754242,Pedro Eliezer Rodríguez Ledesma,Chelsea,14.494136745594755,0.05585155087817496,False,Left Foot,Open Play,0,0,3,Normal
+3754242,Charlie Daniels,AFC Bournemouth,31.084562084739105,0.07344470499011667,False,Left Foot,Open Play,0,1,1,Normal
+3754242,Diego da Silva Costa,Chelsea,24.943536236869065,0.05803475989608609,False,Right Foot,Open Play,0,0,1,Normal
+3754242,Francesc Fàbregas i Soler,Chelsea,27.100737997331358,0.06635649378481914,False,Right Foot,Open Play,1,0,1,Normal
+3754242,Pedro Eliezer Rodríguez Ledesma,Chelsea,18.58009687811127,0.06473444775440367,False,Left Foot,Open Play,0,0,2,Half Volley
+3754242,Diego da Silva Costa,Chelsea,18.127603261324982,0.052867916215684645,False,Right Foot,Open Play,0,0,1,Normal
+3754242,Junior Stanislas,AFC Bournemouth,27.775168766363958,0.06458016002438971,False,Right Foot,Open Play,0,0,0,Normal
+3754242,Willian Borges da Silva,Chelsea,25.27943828489866,0.05357313965898783,False,Right Foot,Open Play,0,0,2,Normal
+3754242,Willian Borges da Silva,Chelsea,17.418668146560456,0.056894620025860945,True,Right Foot,Open Play,0,0,1,Lob
+3754242,Pedro Eliezer Rodríguez Ledesma,Chelsea,13.953135848260061,0.06075898569642522,False,Right Foot,Open Play,0,0,2,Overhead Kick
+3754242,Charlie Daniels,AFC Bournemouth,25.707780923292464,0.06951081168168839,False,Left Foot,Open Play,1,0,0,Volley
+3754242,Tommy Elphick,AFC Bournemouth,8.158431221748456,0.05847167776476761,False,Head,Open Play,0,1,2,Normal
+3754242,Dan Gosling,AFC Bournemouth,27.24059470716452,0.06973453606548038,False,Right Foot,Open Play,0,1,2,Normal
+3754242,Eden Hazard,Chelsea,7.881624198095218,0.058721257108073806,True,Right Foot,Open Play,1,0,2,Normal

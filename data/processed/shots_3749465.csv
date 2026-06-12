@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.9,0.06098069665141633,False,Left Foot,Open Play,0,0,3,Normal
-8.658521813797094,0.0574109131347898,False,Head,Open Play,0,1,3,Normal
-24.283739415501895,0.06281361477981591,False,Right Foot,Open Play,1,0,0,Half Volley
-42.71416626834709,0.0678000545759302,False,Right Foot,Free Kick,0,0,0,Normal
-18.580096878111263,0.0646177067904078,False,Left Foot,Open Play,1,0,1,Normal
-30.664800667866736,0.0727130807893847,False,Right Foot,Free Kick,0,0,0,Normal
-34.808332335807194,0.0746221795828471,False,Right Foot,Open Play,0,0,3,Normal
-25.59707014484275,0.06898894700745598,False,Right Foot,Open Play,0,1,1,Normal
-25.67508519946915,0.06791191395894766,False,Left Foot,Open Play,0,1,2,Normal
-23.30772404161333,0.06759917730780778,False,Left Foot,Open Play,1,0,0,Volley
-12.345849504995595,0.060572067225988,False,Head,Open Play,0,0,1,Normal
-8.700000000000003,0.05823512645113095,False,Head,Open Play,0,0,3,Normal
-19.10392629801529,0.05111036283958547,False,Right Foot,Open Play,1,0,2,Half Volley
-25.426167623139747,0.06836752312036573,False,Left Foot,Open Play,0,1,1,Normal
-21.498139454380695,0.05717087789003255,False,Right Foot,Open Play,0,0,3,Normal
-24.607722365143832,0.06115554169794324,False,Right Foot,Open Play,1,0,1,Volley
-29.206163733020468,0.07088737337124375,True,Right Foot,Free Kick,0,0,0,Normal
-25.100199202396784,0.06905182670456651,False,Right Foot,Open Play,0,1,2,Normal
-11.326517558367179,0.060104481642925596,False,Right Foot,Open Play,1,0,4,Overhead Kick
-17.140595088852663,0.05451279247157191,False,Right Foot,Open Play,1,1,1,Normal
-8.127115109311548,0.058663504389784675,True,Right Foot,Open Play,1,0,1,Half Volley
-24.957964660604844,0.06454938552439989,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749465,Matt Jansen,Blackburn Rovers,25.9,0.06098069665141633,False,Left Foot,Open Play,0,0,3,Normal
+3749465,Craig Short,Blackburn Rovers,8.658521813797094,0.0574109131347898,False,Head,Open Play,0,1,3,Normal
+3749465,Lucas Neill,Blackburn Rovers,24.283739415501895,0.06281361477981591,False,Right Foot,Open Play,1,0,0,Half Volley
+3749465,Thierry Henry,Arsenal,42.71416626834709,0.0678000545759302,False,Right Foot,Free Kick,0,0,0,Normal
+3749465,Thierry Henry,Arsenal,18.580096878111263,0.0646177067904078,False,Left Foot,Open Play,1,0,1,Normal
+3749465,Thierry Henry,Arsenal,30.664800667866736,0.0727130807893847,False,Right Foot,Free Kick,0,0,0,Normal
+3749465,Thierry Henry,Arsenal,34.808332335807194,0.0746221795828471,False,Right Foot,Open Play,0,0,3,Normal
+3749465,Robert Pirès,Arsenal,25.59707014484275,0.06898894700745598,False,Right Foot,Open Play,0,1,1,Normal
+3749465,José Antonio Reyes Calderón,Arsenal,25.67508519946915,0.06791191395894766,False,Left Foot,Open Play,0,1,2,Normal
+3749465,Jonathan Douglas,Blackburn Rovers,23.30772404161333,0.06759917730780778,False,Left Foot,Open Play,1,0,0,Volley
+3749465,Matt Jansen,Blackburn Rovers,12.345849504995595,0.060572067225988,False,Head,Open Play,0,0,1,Normal
+3749465,Thierry Henry,Arsenal,8.700000000000003,0.05823512645113095,False,Head,Open Play,0,0,3,Normal
+3749465,Andy Cole,Blackburn Rovers,19.10392629801529,0.05111036283958547,False,Right Foot,Open Play,1,0,2,Half Volley
+3749465,Thierry Henry,Arsenal,25.426167623139747,0.06836752312036573,False,Left Foot,Open Play,0,1,1,Normal
+3749465,Robert Pirès,Arsenal,21.498139454380695,0.05717087789003255,False,Right Foot,Open Play,0,0,3,Normal
+3749465,Tugay Kerimoğlu,Blackburn Rovers,24.607722365143832,0.06115554169794324,False,Right Foot,Open Play,1,0,1,Volley
+3749465,Thierry Henry,Arsenal,29.206163733020468,0.07088737337124375,True,Right Foot,Free Kick,0,0,0,Normal
+3749465,Robert Pirès,Arsenal,25.100199202396784,0.06905182670456651,False,Right Foot,Open Play,0,1,2,Normal
+3749465,Andy Cole,Blackburn Rovers,11.326517558367179,0.060104481642925596,False,Right Foot,Open Play,1,0,4,Overhead Kick
+3749465,Thierry Henry,Arsenal,17.140595088852663,0.05451279247157191,False,Right Foot,Open Play,1,1,1,Normal
+3749465,Robert Pirès,Arsenal,8.127115109311548,0.058663504389784675,True,Right Foot,Open Play,1,0,1,Half Volley
+3749465,Martin Andresen,Blackburn Rovers,24.957964660604844,0.06454938552439989,False,Left Foot,Open Play,0,0,1,Normal

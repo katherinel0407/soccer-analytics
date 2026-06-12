@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.621014222319856,0.056006394897901386,False,Right Foot,Open Play,1,0,2,Volley
-18.399184764548675,0.06454981963309937,False,Right Foot,Open Play,1,0,2,Normal
-9.682974749528164,0.05939828480720116,True,Right Foot,Open Play,1,0,2,Backheel
-14.187318280774562,0.06194723055852643,False,Right Foot,Open Play,0,0,2,Normal
-24.55789078890938,0.059087812818720706,False,Right Foot,Open Play,0,0,3,Normal
-9.65090669315583,0.059128531363410765,True,Right Foot,Open Play,1,1,3,Normal
-13.200378782444089,0.058543913671183216,False,Left Foot,Open Play,0,0,5,Normal
-33.36540124140574,0.07199761689033536,False,Right Foot,Free Kick,0,0,0,Normal
-23.50531854708632,0.06448431303302835,False,Right Foot,Open Play,0,0,1,Normal
-14.729901561110317,0.059411172509501835,False,Head,Open Play,0,1,1,Normal
-31.795911686882008,0.057688091359760114,False,Left Foot,Open Play,0,0,2,Normal
-16.58583733189253,0.06289913469388332,False,Right Foot,Open Play,0,0,4,Normal
-19.03785702225962,0.061261433827354925,False,Left Foot,Open Play,0,0,2,Half Volley
-11.584903970253702,0.051923454319695826,False,Right Foot,Open Play,0,0,1,Normal
-14.724808997063429,0.05477261383278832,False,Left Foot,Open Play,0,0,2,Normal
-15.900314462299171,0.06122064045058487,False,Left Foot,Open Play,0,0,2,Normal
-8.070935509592431,0.05596489171893808,False,Right Foot,Open Play,1,0,3,Volley
-13.806158046321212,0.05348951460138501,False,Right Foot,Open Play,1,0,1,Normal
-20.44358089963693,0.0658386854106808,False,Right Foot,Open Play,0,0,4,Normal
-22.042232191862965,0.0666937644420503,False,Right Foot,Open Play,1,0,4,Normal
-11.82708755357801,0.05922063175216744,False,Right Foot,Open Play,1,0,3,Normal
-11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
-17.870926109186403,0.05854744218491406,False,Left Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69188,Vivianne Miedema,Netherlands Women's,12.621014222319856,0.056006394897901386,False,Right Foot,Open Play,1,0,2,Volley
+69188,Danielle van de Donk,Netherlands Women's,18.399184764548675,0.06454981963309937,False,Right Foot,Open Play,1,0,2,Normal
+69188,Lieke Martens,Netherlands Women's,9.682974749528164,0.05939828480720116,True,Right Foot,Open Play,1,0,2,Backheel
+69188,Yuika Sugasawa,Japan Women's,14.187318280774562,0.06194723055852643,False,Right Foot,Open Play,0,0,2,Normal
+69188,Shanice van de Sanden,Netherlands Women's,24.55789078890938,0.059087812818720706,False,Right Foot,Open Play,0,0,3,Normal
+69188,Yui Hasegawa,Japan Women's,9.65090669315583,0.059128531363410765,True,Right Foot,Open Play,1,1,3,Normal
+69188,Vivianne Miedema,Netherlands Women's,13.200378782444089,0.058543913671183216,False,Left Foot,Open Play,0,0,5,Normal
+69188,Sherida Spitse,Netherlands Women's,33.36540124140574,0.07199761689033536,False,Right Foot,Free Kick,0,0,0,Normal
+69188,Yuika Sugasawa,Japan Women's,23.50531854708632,0.06448431303302835,False,Right Foot,Open Play,0,0,1,Normal
+69188,Shanice van de Sanden,Netherlands Women's,14.729901561110317,0.059411172509501835,False,Head,Open Play,0,1,1,Normal
+69188,Emi Nakajima,Japan Women's,31.795911686882008,0.057688091359760114,False,Left Foot,Open Play,0,0,2,Normal
+69188,Yui Hasegawa,Japan Women's,16.58583733189253,0.06289913469388332,False,Right Foot,Open Play,0,0,4,Normal
+69188,Desiree van Lunteren,Netherlands Women's,19.03785702225962,0.061261433827354925,False,Left Foot,Open Play,0,0,2,Half Volley
+69188,Mana Iwabuchi,Japan Women's,11.584903970253702,0.051923454319695826,False,Right Foot,Open Play,0,0,1,Normal
+69188,Hina Sugita,Japan Women's,14.724808997063429,0.05477261383278832,False,Left Foot,Open Play,0,0,2,Normal
+69188,Yuka Momiki,Japan Women's,15.900314462299171,0.06122064045058487,False,Left Foot,Open Play,0,0,2,Normal
+69188,Yuika Sugasawa,Japan Women's,8.070935509592431,0.05596489171893808,False,Right Foot,Open Play,1,0,3,Volley
+69188,Narumi Miura,Japan Women's,13.806158046321212,0.05348951460138501,False,Right Foot,Open Play,1,0,1,Normal
+69188,Vivianne Miedema,Netherlands Women's,20.44358089963693,0.0658386854106808,False,Right Foot,Open Play,0,0,4,Normal
+69188,Mana Iwabuchi,Japan Women's,22.042232191862965,0.0666937644420503,False,Right Foot,Open Play,1,0,4,Normal
+69188,Vivianne Miedema,Netherlands Women's,11.82708755357801,0.05922063175216744,False,Right Foot,Open Play,1,0,3,Normal
+69188,Lieke Martens,Netherlands Women's,11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
+69188,Hina Sugita,Japan Women's,17.870926109186403,0.05854744218491406,False,Left Foot,Open Play,0,0,1,Half Volley

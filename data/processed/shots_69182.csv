@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.34993540040896,0.053805955314319975,False,Right Foot,Open Play,0,0,1,Normal
-23.840302011509834,0.06820784203286193,False,Right Foot,Open Play,0,0,1,Normal
-14.81215716902842,0.05650578757131785,False,Right Foot,Open Play,1,0,1,Normal
-23.88493248891443,0.0644009028377003,False,Right Foot,Open Play,1,0,1,Normal
-10.322790320451151,0.059615291398241045,False,Right Foot,Open Play,1,0,1,Volley
-21.044001520623397,0.06608272159797175,False,Right Foot,Open Play,0,0,2,Normal
-12.78632081562167,0.060683025026430325,False,Left Foot,Open Play,0,0,2,Normal
-35.86112100869129,0.07652589014340601,False,Right Foot,Open Play,0,0,1,Normal
-39.49696190848101,0.08075358618616105,False,Right Foot,Open Play,0,0,1,Normal
-7.200694410957879,0.05760276448184784,False,Right Foot,Open Play,1,0,2,Volley
-7.736924453553879,0.05836084440976057,True,Right Foot,Open Play,0,0,1,Normal
-18.481612483763428,0.06398667482596224,False,Right Foot,Open Play,0,0,3,Normal
-39.13182847759608,0.08043254696206772,False,Right Foot,Open Play,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-8.402380615039998,0.05898222396197486,False,Left Foot,Open Play,1,0,2,Half Volley
-11.42803570172932,0.06060868363715912,False,Right Foot,Open Play,0,1,2,Normal
-12.570600622086443,0.053431331236420555,True,Right Foot,Open Play,0,0,1,Normal
-15.132745950421556,0.06008911136715584,False,Head,Open Play,0,1,2,Normal
-35.200142045167944,0.07066440946006745,False,Right Foot,Open Play,0,0,1,Normal
-23.941595602632667,0.06360767825302312,False,Right Foot,Open Play,1,0,0,Normal
-35.20298282816387,0.06574453870995915,False,Left Foot,Open Play,0,0,0,Normal
-31.933054974430487,0.06599865002607484,False,Right Foot,Open Play,0,0,2,Normal
-17.149344010777792,0.06375119940915065,False,Left Foot,Open Play,0,0,1,Half Volley
-12.001666550941998,0.059519665423498846,True,Right Foot,Penalty,0,0,0,Normal
-13.132021931142207,0.06115618960637693,False,Right Foot,Open Play,0,0,1,Normal
-26.001730711627637,0.06253448371570519,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69182,Ricardo de Oliveira,Real Zaragoza,19.34993540040896,0.053805955314319975,False,Right Foot,Open Play,0,0,1,Normal
+69182,Diego Alberto Milito,Real Zaragoza,23.840302011509834,0.06820784203286193,False,Right Foot,Open Play,0,0,1,Normal
+69182,Sergio García De La Fuente,Real Zaragoza,14.81215716902842,0.05650578757131785,False,Right Foot,Open Play,1,0,1,Normal
+69182,Anderson Luís de Souza,Barcelona,23.88493248891443,0.0644009028377003,False,Right Foot,Open Play,1,0,1,Normal
+69182,Rafael Márquez Álvarez,Barcelona,10.322790320451151,0.059615291398241045,False,Right Foot,Open Play,1,0,1,Volley
+69182,Ricardo de Oliveira,Real Zaragoza,21.044001520623397,0.06608272159797175,False,Right Foot,Open Play,0,0,2,Normal
+69182,Giovani dos Santos Ramírez,Barcelona,12.78632081562167,0.060683025026430325,False,Left Foot,Open Play,0,0,2,Normal
+69182,Gabriel Fernández Arenas,Real Zaragoza,35.86112100869129,0.07652589014340601,False,Right Foot,Open Play,0,0,1,Normal
+69182,Ricardo de Oliveira,Real Zaragoza,39.49696190848101,0.08075358618616105,False,Right Foot,Open Play,0,0,1,Normal
+69182,Diego Alberto Milito,Real Zaragoza,7.200694410957879,0.05760276448184784,False,Right Foot,Open Play,1,0,2,Volley
+69182,Thierry Henry,Barcelona,7.736924453553879,0.05836084440976057,True,Right Foot,Open Play,0,0,1,Normal
+69182,Anderson Luís de Souza,Barcelona,18.481612483763428,0.06398667482596224,False,Right Foot,Open Play,0,0,3,Normal
+69182,Diego Alberto Milito,Real Zaragoza,39.13182847759608,0.08043254696206772,False,Right Foot,Open Play,0,0,0,Normal
+69182,Diego Alberto Milito,Real Zaragoza,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+69182,Diego Alberto Milito,Real Zaragoza,8.402380615039998,0.05898222396197486,False,Left Foot,Open Play,1,0,2,Half Volley
+69182,Diego Alberto Milito,Real Zaragoza,11.42803570172932,0.06060868363715912,False,Right Foot,Open Play,0,1,2,Normal
+69182,Ricardo de Oliveira,Real Zaragoza,12.570600622086443,0.053431331236420555,True,Right Foot,Open Play,0,0,1,Normal
+69182,Diego Alberto Milito,Real Zaragoza,15.132745950421556,0.06008911136715584,False,Head,Open Play,0,1,2,Normal
+69182,Anderson Luís de Souza,Barcelona,35.200142045167944,0.07066440946006745,False,Right Foot,Open Play,0,0,1,Normal
+69182,Anderson Luís de Souza,Barcelona,23.941595602632667,0.06360767825302312,False,Right Foot,Open Play,1,0,0,Normal
+69182,Sergio García De La Fuente,Real Zaragoza,35.20298282816387,0.06574453870995915,False,Left Foot,Open Play,0,0,0,Normal
+69182,Thierry Henry,Barcelona,31.933054974430487,0.06599865002607484,False,Right Foot,Open Play,0,0,2,Normal
+69182,Thierry Henry,Barcelona,17.149344010777792,0.06375119940915065,False,Left Foot,Open Play,0,0,1,Half Volley
+69182,Ronaldo de Assis Moreira,Barcelona,12.001666550941998,0.059519665423498846,True,Right Foot,Penalty,0,0,0,Normal
+69182,Ronaldo de Assis Moreira,Barcelona,13.132021931142207,0.06115618960637693,False,Right Foot,Open Play,0,0,1,Normal
+69182,Sergio García De La Fuente,Real Zaragoza,26.001730711627637,0.06253448371570519,False,Right Foot,Open Play,1,0,1,Half Volley

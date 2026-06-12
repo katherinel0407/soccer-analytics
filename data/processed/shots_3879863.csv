@@ -1,14 +1,14 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.08240056372763,0.059317104961017955,True,Head,Open Play,0,1,1,Normal
-31.487457820535468,0.07312985091872216,False,Left Foot,Open Play,0,0,0,Normal
-9.773944955850737,0.058229273335474105,False,Head,Open Play,0,1,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-19.126160095534075,0.06338279021340557,False,Left Foot,Open Play,1,0,1,Half Volley
-22.137976420621644,0.054360350984649,False,Right Foot,Open Play,1,0,1,Normal
-23.85979882563975,0.06726889086083467,False,Left Foot,Open Play,0,0,1,Normal
-16.55203914930122,0.06301481625245034,False,Right Foot,Open Play,1,0,4,Normal
-18.91295852054882,0.062295639861049246,False,Right Foot,Open Play,1,1,2,Normal
-30.257561038523903,0.07270801977240639,False,Left Foot,Open Play,1,0,0,Half Volley
-6.726812023536858,0.05724559064621408,False,Head,Open Play,0,0,2,Normal
-18.886238376129853,0.054643773163110324,False,Right Foot,Open Play,0,0,1,Volley
-18.409780009549266,0.05973389791529815,False,Left Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879863,Duván Esteban Zapata Banguera,Udinese,9.08240056372763,0.059317104961017955,True,Head,Open Play,0,1,1,Normal
+3879863,Davide Brivio,Atalanta,31.487457820535468,0.07312985091872216,False,Left Foot,Open Play,0,0,0,Normal
+3879863,Marco Borriello,Atalanta,9.773944955850737,0.058229273335474105,False,Head,Open Play,0,1,3,Normal
+3879863,Gianpaolo Bellini,Atalanta,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879863,Duván Esteban Zapata Banguera,Udinese,19.126160095534075,0.06338279021340557,False,Left Foot,Open Play,1,0,1,Half Volley
+3879863,Luca Cigarini,Atalanta,22.137976420621644,0.054360350984649,False,Right Foot,Open Play,1,0,1,Normal
+3879863,Marco Borriello,Atalanta,23.85979882563975,0.06726889086083467,False,Left Foot,Open Play,0,0,1,Normal
+3879863,Luca Cigarini,Atalanta,16.55203914930122,0.06301481625245034,False,Right Foot,Open Play,1,0,4,Normal
+3879863,Duván Esteban Zapata Banguera,Udinese,18.91295852054882,0.062295639861049246,False,Right Foot,Open Play,1,1,2,Normal
+3879863,Davide Brivio,Atalanta,30.257561038523903,0.07270801977240639,False,Left Foot,Open Play,1,0,0,Half Volley
+3879863,Duván Esteban Zapata Banguera,Udinese,6.726812023536858,0.05724559064621408,False,Head,Open Play,0,0,2,Normal
+3879863,Marco D''Alessandro,Atalanta,18.886238376129853,0.054643773163110324,False,Right Foot,Open Play,0,0,1,Volley
+3879863,Luca Cigarini,Atalanta,18.409780009549266,0.05973389791529815,False,Left Foot,Open Play,1,0,0,Half Volley

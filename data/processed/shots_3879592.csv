@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.921828718783035,0.057926479096020896,True,Right Foot,Open Play,1,1,2,Normal
-21.50767304940263,0.05504039296518407,False,Left Foot,Open Play,0,0,2,Normal
-18.873261509341724,0.06377474889650092,False,Left Foot,Open Play,1,1,2,Normal
-14.9241415163486,0.054939903995756004,True,Left Foot,Open Play,0,0,1,Normal
-28.71793864468687,0.06858776986952633,False,Left Foot,Open Play,0,0,1,Normal
-17.920100446147057,0.06432514469588375,False,Left Foot,Open Play,1,1,1,Normal
-14.946571513226699,0.0594521309367799,False,Head,Open Play,0,1,2,Normal
-35.18465574650404,0.06817354096209755,False,Left Foot,Free Kick,0,0,0,Normal
-15.428869044748545,0.0628090917056226,False,Left Foot,Open Play,1,0,1,Half Volley
-11.884864324004713,0.06070296882235285,False,Head,Open Play,0,1,2,Normal
-7.517978451684996,0.058509158549960534,False,Head,Open Play,0,1,2,Normal
-8.67640478539354,0.05907785567006784,False,Right Foot,Open Play,1,1,4,Normal
-21.134095674998726,0.0569602649805579,False,Left Foot,Open Play,0,0,3,Normal
-31.488410566429046,0.07375870003591418,False,Right Foot,Open Play,0,0,2,Normal
-22.599557517792242,0.055762440352296265,False,Right Foot,Open Play,0,0,1,Normal
-31.391877930445634,0.0729787452016561,False,Left Foot,Open Play,0,0,3,Normal
-17.582377541163197,0.05563691927067294,True,Right Foot,Open Play,0,1,3,Normal
-44.30993116672604,0.06878142031286652,False,Right Foot,Open Play,0,0,1,Normal
-18.95257238477141,0.06354570107263044,False,Right Foot,Open Play,1,0,1,Half Volley
-19.329769786523585,0.0652178448767802,False,Left Foot,Open Play,0,1,1,Half Volley
-27.721832551258228,0.0696897580825885,False,Left Foot,Open Play,0,0,1,Normal
-11.907980517283354,0.058930505661095645,True,Right Foot,Open Play,0,1,1,Normal
-26.375936002348805,0.06707495941601078,False,Left Foot,Open Play,0,0,3,Normal
-35.35944004081512,0.07656945267007555,False,Right Foot,Free Kick,0,0,0,Normal
-26.931765630942213,0.07025799456643655,False,Right Foot,Open Play,0,0,1,Normal
-30.714817271147812,0.07231502085315165,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879592,Miralem Pjanić,AS Roma,11.921828718783035,0.057926479096020896,True,Right Foot,Open Play,1,1,2,Normal
+3879592,Edin Džeko,AS Roma,21.50767304940263,0.05504039296518407,False,Left Foot,Open Play,0,0,2,Normal
+3879592,Edin Džeko,AS Roma,18.873261509341724,0.06377474889650092,False,Left Foot,Open Play,1,1,2,Normal
+3879592,Maicon Douglas Sisenando,AS Roma,14.9241415163486,0.054939903995756004,True,Left Foot,Open Play,0,0,1,Normal
+3879592,Marco Antônio De Mattos Filho,Udinese,28.71793864468687,0.06858776986952633,False,Left Foot,Open Play,0,0,1,Normal
+3879592,Lucas Digne,AS Roma,17.920100446147057,0.06432514469588375,False,Left Foot,Open Play,1,1,1,Normal
+3879592,Edin Džeko,AS Roma,14.946571513226699,0.0594521309367799,False,Head,Open Play,0,1,2,Normal
+3879592,Marco Antônio De Mattos Filho,Udinese,35.18465574650404,0.06817354096209755,False,Left Foot,Free Kick,0,0,0,Normal
+3879592,Alessandro Florenzi,AS Roma,15.428869044748545,0.0628090917056226,False,Left Foot,Open Play,1,0,1,Half Volley
+3879592,Stipe Perica,Udinese,11.884864324004713,0.06070296882235285,False,Head,Open Play,0,1,2,Normal
+3879592,Iago Falqué Silva,AS Roma,7.517978451684996,0.058509158549960534,False,Head,Open Play,0,1,2,Normal
+3879592,Iago Falqué Silva,AS Roma,8.67640478539354,0.05907785567006784,False,Right Foot,Open Play,1,1,4,Normal
+3879592,Edin Džeko,AS Roma,21.134095674998726,0.0569602649805579,False,Left Foot,Open Play,0,0,3,Normal
+3879592,Alessandro Florenzi,AS Roma,31.488410566429046,0.07375870003591418,False,Right Foot,Open Play,0,0,2,Normal
+3879592,Alessandro Florenzi,AS Roma,22.599557517792242,0.055762440352296265,False,Right Foot,Open Play,0,0,1,Normal
+3879592,Marco Antônio De Mattos Filho,Udinese,31.391877930445634,0.0729787452016561,False,Left Foot,Open Play,0,0,3,Normal
+3879592,Gervais Lombe Yao Kouassi,AS Roma,17.582377541163197,0.05563691927067294,True,Right Foot,Open Play,0,1,3,Normal
+3879592,Konstantinos Manolas,AS Roma,44.30993116672604,0.06878142031286652,False,Right Foot,Open Play,0,0,1,Normal
+3879592,Edin Džeko,AS Roma,18.95257238477141,0.06354570107263044,False,Right Foot,Open Play,1,0,1,Half Volley
+3879592,Rodrigo Sebastián Aguirre Soto,Udinese,19.329769786523585,0.0652178448767802,False,Left Foot,Open Play,0,1,1,Half Volley
+3879592,Lucas Digne,AS Roma,27.721832551258228,0.0696897580825885,False,Left Foot,Open Play,0,0,1,Normal
+3879592,Cyril Théréau,Udinese,11.907980517283354,0.058930505661095645,True,Right Foot,Open Play,0,1,1,Normal
+3879592,Juan Manuel Iturbe Arévalo,AS Roma,26.375936002348805,0.06707495941601078,False,Left Foot,Open Play,0,0,3,Normal
+3879592,Bruno Miguel Borges Fernandes,Udinese,35.35944004081512,0.07656945267007555,False,Right Foot,Free Kick,0,0,0,Normal
+3879592,Radja Nainggolan,AS Roma,26.931765630942213,0.07025799456643655,False,Right Foot,Open Play,0,0,1,Normal
+3879592,Miralem Pjanić,AS Roma,30.714817271147812,0.07231502085315165,False,Right Foot,Free Kick,0,0,0,Normal

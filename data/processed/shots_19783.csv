@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.264337522473747,0.0627797409042985,False,Right Foot,Open Play,0,0,2,Normal
-42.720018726587654,0.08332530538409749,False,Left Foot,Open Play,0,0,0,Normal
-12.806248474865697,0.060967023380698634,True,Left Foot,Open Play,0,0,0,Normal
-22.47220505424423,0.05728620392676743,False,Left Foot,Open Play,0,0,3,Normal
-17.029386365926403,0.06325637343712076,False,Left Foot,Open Play,1,0,2,Normal
-10.770329614269007,0.053210782349370274,False,Right Foot,Open Play,0,0,1,Normal
-13.038404810405298,0.061503283343951824,False,Left Foot,Open Play,1,0,0,Normal
-11.40175425099138,0.05591342651236463,False,Head,Open Play,0,1,1,Normal
-5.0,0.05677274173885964,False,Right Foot,Open Play,0,0,5,Half Volley
-14.422205101855956,0.053762469761102494,False,Right Foot,Open Play,1,1,1,Normal
-27.313000567495326,0.05981178084829161,False,Right Foot,Open Play,1,0,3,Normal
-36.6742416417845,0.0663643857832215,False,Right Foot,Open Play,0,0,1,Normal
-43.08131845707603,0.061418436804854905,False,Left Foot,Open Play,0,0,0,Normal
-9.848857801796104,0.05698279443696437,False,Head,Open Play,0,1,4,Normal
-7.280109889280518,0.05690698529986257,False,Right Foot,Open Play,1,0,2,Volley
-24.515301344262525,0.06250706114656637,False,Right Foot,Open Play,0,0,1,Normal
-23.430749027719962,0.06767669939460985,False,Right Foot,Open Play,0,0,2,Normal
-29.732137494637012,0.07189687404352359,False,Right Foot,Open Play,0,0,2,Normal
-6.708203932499369,0.056204379769354176,False,Head,Open Play,0,1,2,Normal
-16.401219466856727,0.05614516653493011,False,Right Foot,Open Play,0,0,2,Normal
-28.071337695236398,0.06583385654653563,False,Right Foot,Open Play,1,0,1,Half Volley
-11.40175425099138,0.054520145334636776,False,Head,Open Play,0,1,1,Normal
-31.016124838541646,0.0678388919552401,False,Right Foot,Open Play,0,1,1,Normal
-3.605551275463989,0.05541354467684584,True,Left Foot,Open Play,1,0,6,Half Volley
-13.601470508735444,0.05412771597397587,False,Right Foot,Open Play,1,0,1,Normal
-23.53720459187964,0.06209192113566976,False,Right Foot,Open Play,0,0,0,Normal
-15.132745950421556,0.06162901826762125,True,Right Foot,Open Play,0,0,4,Normal
-15.132745950421556,0.06008911136715584,False,Left Foot,Open Play,0,1,2,Normal
-15.620499351813308,0.06290668439967836,False,Left Foot,Open Play,0,1,3,Half Volley
-29.154759474226502,0.06051017811921214,False,Right Foot,Open Play,0,0,1,Volley
-27.730849247724095,0.05928717081665437,False,Left Foot,Open Play,0,0,1,Half Volley
-8.94427190999916,0.05661065938655103,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19783,So-Yun Ji,Chelsea FCW,15.264337522473747,0.0627797409042985,False,Right Foot,Open Play,0,0,2,Normal
+19783,Millie Bright,Chelsea FCW,42.720018726587654,0.08332530538409749,False,Left Foot,Open Play,0,0,0,Normal
+19783,Bethany England,Chelsea FCW,12.806248474865697,0.060967023380698634,True,Left Foot,Open Play,0,0,0,Normal
+19783,Drew Spence,Chelsea FCW,22.47220505424423,0.05728620392676743,False,Left Foot,Open Play,0,0,3,Normal
+19783,Karen Julia Carney,Chelsea FCW,17.029386365926403,0.06325637343712076,False,Left Foot,Open Play,1,0,2,Normal
+19783,Hannah Jayne Blundell,Chelsea FCW,10.770329614269007,0.053210782349370274,False,Right Foot,Open Play,0,0,1,Normal
+19783,Bethany England,Chelsea FCW,13.038404810405298,0.061503283343951824,False,Left Foot,Open Play,1,0,0,Normal
+19783,Elise Hughes,Everton LFC,11.40175425099138,0.05591342651236463,False,Head,Open Play,0,1,1,Normal
+19783,Drew Spence,Chelsea FCW,5.0,0.05677274173885964,False,Right Foot,Open Play,0,0,5,Half Volley
+19783,Bethany England,Chelsea FCW,14.422205101855956,0.053762469761102494,False,Right Foot,Open Play,1,1,1,Normal
+19783,Angharad James,Everton LFC,27.313000567495326,0.05981178084829161,False,Right Foot,Open Play,1,0,3,Normal
+19783,Millie Bright,Chelsea FCW,36.6742416417845,0.0663643857832215,False,Right Foot,Open Play,0,0,1,Normal
+19783,Taylor Hinds,Everton LFC,43.08131845707603,0.061418436804854905,False,Left Foot,Open Play,0,0,0,Normal
+19783,Millie Bright,Chelsea FCW,9.848857801796104,0.05698279443696437,False,Head,Open Play,0,1,4,Normal
+19783,Chloe Kelly,Everton LFC,7.280109889280518,0.05690698529986257,False,Right Foot,Open Play,1,0,2,Volley
+19783,Erin Cuthbert,Chelsea FCW,24.515301344262525,0.06250706114656637,False,Right Foot,Open Play,0,0,1,Normal
+19783,So-Yun Ji,Chelsea FCW,23.430749027719962,0.06767669939460985,False,Right Foot,Open Play,0,0,2,Normal
+19783,So-Yun Ji,Chelsea FCW,29.732137494637012,0.07189687404352359,False,Right Foot,Open Play,0,0,2,Normal
+19783,Drew Spence,Chelsea FCW,6.708203932499369,0.056204379769354176,False,Head,Open Play,0,1,2,Normal
+19783,Bethany England,Chelsea FCW,16.401219466856727,0.05614516653493011,False,Right Foot,Open Play,0,0,2,Normal
+19783,Millie Bright,Chelsea FCW,28.071337695236398,0.06583385654653563,False,Right Foot,Open Play,1,0,1,Half Volley
+19783,Millie Bright,Chelsea FCW,11.40175425099138,0.054520145334636776,False,Head,Open Play,0,1,1,Normal
+19783,Erin Cuthbert,Chelsea FCW,31.016124838541646,0.0678388919552401,False,Right Foot,Open Play,0,1,1,Normal
+19783,Drew Spence,Chelsea FCW,3.605551275463989,0.05541354467684584,True,Left Foot,Open Play,1,0,6,Half Volley
+19783,Erin Cuthbert,Chelsea FCW,13.601470508735444,0.05412771597397587,False,Right Foot,Open Play,1,0,1,Normal
+19783,So-Yun Ji,Chelsea FCW,23.53720459187964,0.06209192113566976,False,Right Foot,Open Play,0,0,0,Normal
+19783,Hannah Jayne Blundell,Chelsea FCW,15.132745950421556,0.06162901826762125,True,Right Foot,Open Play,0,0,4,Normal
+19783,Taylor Hinds,Everton LFC,15.132745950421556,0.06008911136715584,False,Left Foot,Open Play,0,1,2,Normal
+19783,Inessa Kaagman,Everton LFC,15.620499351813308,0.06290668439967836,False,Left Foot,Open Play,0,1,3,Half Volley
+19783,Inessa Kaagman,Everton LFC,29.154759474226502,0.06051017811921214,False,Right Foot,Open Play,0,0,1,Volley
+19783,Inessa Kaagman,Everton LFC,27.730849247724095,0.05928717081665437,False,Left Foot,Open Play,0,0,1,Half Volley
+19783,Gabrielle George,Everton LFC,8.94427190999916,0.05661065938655103,False,Head,Open Play,0,0,4,Normal

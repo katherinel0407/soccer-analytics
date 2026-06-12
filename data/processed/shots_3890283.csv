@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.45655558687166,0.06793384699795177,False,Right Foot,Open Play,0,0,1,Normal
-24.368011818775866,0.06136594988968194,False,Left Foot,Open Play,0,0,1,Normal
-19.640010183296745,0.05854196207121019,False,Left Foot,Open Play,0,0,1,Normal
-22.181974664127626,0.06702563910139096,False,Left Foot,Open Play,1,1,1,Normal
-11.462111498323509,0.06062411826824899,False,Right Foot,Open Play,0,0,3,Normal
-20.44358089963693,0.0658386854106808,False,Left Foot,Free Kick,0,0,0,Normal
-19.902261178067185,0.058400953607372116,False,Left Foot,Open Play,0,0,3,Normal
-25.314422766478405,0.06846269384539101,False,Left Foot,Open Play,1,1,1,Half Volley
-27.613402542968153,0.06795159647561162,False,Right Foot,Free Kick,0,0,0,Normal
-10.645186705737009,0.05353494664211479,False,Right Foot,Open Play,1,0,0,Half Volley
-19.964969321288727,0.05431153820115959,False,Right Foot,Open Play,0,1,1,Normal
-15.170036255724634,0.057911115665047606,False,Left Foot,Open Play,0,0,3,Normal
-8.825531145489203,0.05344814392781118,False,Head,Open Play,0,0,3,Normal
-6.352952069707437,0.05757423336271822,False,Right Foot,Open Play,1,0,1,Normal
-18.94333655932872,0.06499880402888987,False,Right Foot,Open Play,0,0,3,Normal
-32.77819397099236,0.06465586564463843,False,Right Foot,Open Play,1,0,1,Normal
-23.19698256239376,0.05472055743981714,False,Left Foot,Open Play,0,1,2,Normal
-21.639085008382402,0.053775909667023024,False,Left Foot,Open Play,0,0,3,Normal
-25.738104048278306,0.06507107704028599,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890283,Steven Zuber,Hoffenheim,23.45655558687166,0.06793384699795177,False,Right Foot,Open Play,0,0,1,Normal
+3890283,Konstantin Rausch,Darmstadt 98,24.368011818775866,0.06136594988968194,False,Left Foot,Open Play,0,0,1,Normal
+3890283,Mark Uth,Hoffenheim,19.640010183296745,0.05854196207121019,False,Left Foot,Open Play,0,0,1,Normal
+3890283,Jin-Su Kim,Hoffenheim,22.181974664127626,0.06702563910139096,False,Left Foot,Open Play,1,1,1,Normal
+3890283,Marco Sailer,Darmstadt 98,11.462111498323509,0.06062411826824899,False,Right Foot,Open Play,0,0,3,Normal
+3890283,Konstantin Rausch,Darmstadt 98,20.44358089963693,0.0658386854106808,False,Left Foot,Free Kick,0,0,0,Normal
+3890283,Mark Uth,Hoffenheim,19.902261178067185,0.058400953607372116,False,Left Foot,Open Play,0,0,3,Normal
+3890283,Steven Zuber,Hoffenheim,25.314422766478405,0.06846269384539101,False,Left Foot,Open Play,1,1,1,Half Volley
+3890283,Steven Zuber,Hoffenheim,27.613402542968153,0.06795159647561162,False,Right Foot,Free Kick,0,0,0,Normal
+3890283,Kevin Kuranyi,Hoffenheim,10.645186705737009,0.05353494664211479,False,Right Foot,Open Play,1,0,0,Half Volley
+3890283,Pavel Kadeřábek,Hoffenheim,19.964969321288727,0.05431153820115959,False,Right Foot,Open Play,0,1,1,Normal
+3890283,Jonathan Schmid,Hoffenheim,15.170036255724634,0.057911115665047606,False,Left Foot,Open Play,0,0,3,Normal
+3890283,Niklas Süle,Hoffenheim,8.825531145489203,0.05344814392781118,False,Head,Open Play,0,0,3,Normal
+3890283,Kevin Kuranyi,Hoffenheim,6.352952069707437,0.05757423336271822,False,Right Foot,Open Play,1,0,1,Normal
+3890283,Jonathan Schmid,Hoffenheim,18.94333655932872,0.06499880402888987,False,Right Foot,Open Play,0,0,3,Normal
+3890283,Fabian Lukas Schär,Hoffenheim,32.77819397099236,0.06465586564463843,False,Right Foot,Open Play,1,0,1,Normal
+3890283,Kevin Volland,Hoffenheim,23.19698256239376,0.05472055743981714,False,Left Foot,Open Play,0,1,2,Normal
+3890283,Sandro Wagner,Darmstadt 98,21.639085008382402,0.053775909667023024,False,Left Foot,Open Play,0,0,3,Normal
+3890283,György Garics,Darmstadt 98,25.738104048278306,0.06507107704028599,False,Right Foot,Open Play,1,0,1,Half Volley

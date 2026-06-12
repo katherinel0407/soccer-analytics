@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.221921916437784,0.05701197414123097,False,Head,Open Play,0,1,6,Normal
-30.326556019436165,0.07250004779117195,False,Left Foot,Open Play,0,0,0,Normal
-28.616254122438875,0.0713103247817526,False,Right Foot,Open Play,0,0,2,Normal
-11.12205017071942,0.05412068467953374,False,Right Foot,Open Play,1,0,2,Half Volley
-16.035273617871322,0.060732844576728846,False,Left Foot,Open Play,0,0,1,Normal
-18.73018953454556,0.0634269086740108,False,Right Foot,Open Play,1,1,1,Half Volley
-19.622436138257655,0.0575976251584634,False,Right Foot,Open Play,1,0,1,Normal
-20.916261616264034,0.06471601720774403,False,Left Foot,Open Play,0,0,2,Normal
-36.75758425141673,0.06906142695876562,False,Right Foot,Free Kick,0,0,0,Normal
-23.836526592605725,0.06813830370228752,False,Left Foot,Open Play,0,0,3,Normal
-8.765842800324448,0.05913921175918804,True,Left Foot,Open Play,0,1,1,Normal
-18.983413813115906,0.05339535029955892,False,Right Foot,Open Play,0,1,1,Half Volley
-13.852075656738238,0.058508570545132726,False,Left Foot,Open Play,1,0,3,Normal
-8.149233092751729,0.058840486043707944,False,Left Foot,Open Play,0,0,2,Half Volley
-20.2249845488198,0.05719263587980799,False,Right Foot,Open Play,0,0,2,Normal
-15.476756766196203,0.05659627264055908,True,Right Foot,Open Play,0,1,2,Normal
-12.303251602726812,0.06084064652226454,False,Head,Open Play,0,0,3,Normal
-20.289159667172022,0.06412939765987262,False,Right Foot,Open Play,0,0,1,Normal
-25.809494377069843,0.06879107924015215,False,Right Foot,Open Play,0,0,1,Normal
-19.808079159777204,0.06492684484127856,False,Left Foot,Open Play,0,1,4,Normal
-9.377099764852668,0.05807016210901418,True,Left Foot,Open Play,0,1,4,Half Volley
-16.924833824885837,0.055490559754267796,False,Left Foot,Open Play,0,0,1,Normal
-26.43577122007225,0.058597515844838306,False,Right Foot,Open Play,0,0,2,Normal
-14.301398533010676,0.06049095219533785,False,Head,Open Play,0,0,5,Normal
-17.738658348364456,0.06076059158427603,False,Right Foot,Open Play,0,1,2,Normal
-15.305227865013967,0.062231309156198435,False,Left Foot,Open Play,1,0,1,Half Volley
-17.270784579746227,0.06394270801437121,True,Right Foot,Open Play,1,1,2,Normal
-22.724656213021134,0.05318610395846952,False,Right Foot,Open Play,1,0,0,Half Volley
-26.11225765804252,0.06939182448389435,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754092,Gary Cahill,Chelsea,8.221921916437784,0.05701197414123097,False,Head,Open Play,0,1,6,Normal
+3754092,Danny Rose,Tottenham Hotspur,30.326556019436165,0.07250004779117195,False,Left Foot,Open Play,0,0,0,Normal
+3754092,Christian Dannemann Eriksen,Tottenham Hotspur,28.616254122438875,0.0713103247817526,False,Right Foot,Open Play,0,0,2,Normal
+3754092,Francesc Fàbregas i Soler,Chelsea,11.12205017071942,0.05412068467953374,False,Right Foot,Open Play,1,0,2,Half Volley
+3754092,Heung-Min Son,Tottenham Hotspur,16.035273617871322,0.060732844576728846,False,Left Foot,Open Play,0,0,1,Normal
+3754092,Christian Dannemann Eriksen,Tottenham Hotspur,18.73018953454556,0.0634269086740108,False,Right Foot,Open Play,1,1,1,Half Volley
+3754092,Francesc Fàbregas i Soler,Chelsea,19.622436138257655,0.0575976251584634,False,Right Foot,Open Play,1,0,1,Normal
+3754092,Heung-Min Son,Tottenham Hotspur,20.916261616264034,0.06471601720774403,False,Left Foot,Open Play,0,0,2,Normal
+3754092,Harry Kane,Tottenham Hotspur,36.75758425141673,0.06906142695876562,False,Right Foot,Free Kick,0,0,0,Normal
+3754092,Diego da Silva Costa,Chelsea,23.836526592605725,0.06813830370228752,False,Left Foot,Open Play,0,0,3,Normal
+3754092,Harry Kane,Tottenham Hotspur,8.765842800324448,0.05913921175918804,True,Left Foot,Open Play,0,1,1,Normal
+3754092,Francesc Fàbregas i Soler,Chelsea,18.983413813115906,0.05339535029955892,False,Right Foot,Open Play,0,1,1,Half Volley
+3754092,Erik Lamela,Tottenham Hotspur,13.852075656738238,0.058508570545132726,False,Left Foot,Open Play,1,0,3,Normal
+3754092,Heung-Min Son,Tottenham Hotspur,8.149233092751729,0.058840486043707944,False,Left Foot,Open Play,0,0,2,Half Volley
+3754092,Willian Borges da Silva,Chelsea,20.2249845488198,0.05719263587980799,False,Right Foot,Open Play,0,0,2,Normal
+3754092,Heung-Min Son,Tottenham Hotspur,15.476756766196203,0.05659627264055908,True,Right Foot,Open Play,0,1,2,Normal
+3754092,Harry Kane,Tottenham Hotspur,12.303251602726812,0.06084064652226454,False,Head,Open Play,0,0,3,Normal
+3754092,Harry Kane,Tottenham Hotspur,20.289159667172022,0.06412939765987262,False,Right Foot,Open Play,0,0,1,Normal
+3754092,Eden Hazard,Chelsea,25.809494377069843,0.06879107924015215,False,Right Foot,Open Play,0,0,1,Normal
+3754092,Heung-Min Son,Tottenham Hotspur,19.808079159777204,0.06492684484127856,False,Left Foot,Open Play,0,1,4,Normal
+3754092,Gary Cahill,Chelsea,9.377099764852668,0.05807016210901418,True,Left Foot,Open Play,0,1,4,Half Volley
+3754092,Willian Borges da Silva,Chelsea,16.924833824885837,0.055490559754267796,False,Left Foot,Open Play,0,0,1,Normal
+3754092,Harry Kane,Tottenham Hotspur,26.43577122007225,0.058597515844838306,False,Right Foot,Open Play,0,0,2,Normal
+3754092,Branislav Ivanović,Chelsea,14.301398533010676,0.06049095219533785,False,Head,Open Play,0,0,5,Normal
+3754092,Ryan Mason,Tottenham Hotspur,17.738658348364456,0.06076059158427603,False,Right Foot,Open Play,0,1,2,Normal
+3754092,Christian Dannemann Eriksen,Tottenham Hotspur,15.305227865013967,0.062231309156198435,False,Left Foot,Open Play,1,0,1,Half Volley
+3754092,Eden Hazard,Chelsea,17.270784579746227,0.06394270801437121,True,Right Foot,Open Play,1,1,2,Normal
+3754092,Willian Borges da Silva,Chelsea,22.724656213021134,0.05318610395846952,False,Right Foot,Open Play,1,0,0,Half Volley
+3754092,Eden Hazard,Chelsea,26.11225765804252,0.06939182448389435,False,Right Foot,Open Play,0,0,1,Normal

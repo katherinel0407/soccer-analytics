@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.61444785057245,0.05928128166740478,False,Right Foot,Free Kick,0,0,0,Normal
-35.148968690418215,0.0752219994583739,False,Right Foot,Free Kick,0,0,0,Normal
-28.39383735953983,0.054588187660132986,False,Left Foot,Open Play,0,0,1,Normal
-14.54372717015827,0.053493193166317864,False,Left Foot,Open Play,1,1,1,Half Volley
-25.554842985234714,0.06733262300859515,False,Right Foot,Open Play,0,0,1,Normal
-25.17002185140092,0.06319719646549615,False,Right Foot,Open Play,0,1,1,Normal
-33.47730574583325,0.07324263808669383,False,Right Foot,Open Play,0,0,1,Normal
-24.4826469157238,0.06684911767072488,False,Left Foot,Open Play,0,0,2,Normal
-31.94276130831522,0.05121729992048776,False,Left Foot,Open Play,0,0,0,Normal
-16.371316379570708,0.05969172324044399,False,Head,Open Play,0,0,2,Normal
-12.288612614937458,0.060525497210063624,False,Left Foot,Open Play,1,0,2,Half Volley
-10.541821474489126,0.05538984629151409,False,Head,Open Play,0,1,3,Normal
-17.205231762461086,0.06101014668636996,False,Right Foot,Open Play,1,0,3,Normal
-19.374467734624346,0.06514438910645319,False,Left Foot,Open Play,0,0,3,Half Volley
-19.932385707686876,0.05949923308368073,False,Left Foot,Open Play,0,0,1,Normal
-8.709190547921203,0.05915262161616622,True,Head,Open Play,0,1,4,Normal
-33.344414824674914,0.06764510935999847,False,Left Foot,Open Play,0,0,0,Normal
-26.568590478231997,0.057961427986774075,False,Right Foot,Open Play,0,0,3,Normal
-15.561812233798474,0.06295722847022889,False,Left Foot,Open Play,1,1,1,Half Volley
-34.095894180971406,0.06140406725191431,False,Right Foot,Open Play,0,0,1,Normal
-27.610143063736565,0.0683548269745367,False,Left Foot,Open Play,0,0,1,Normal
-16.73349933516597,0.06317335821526446,False,Left Foot,Open Play,1,0,1,Normal
-26.754065111679758,0.0653842142648205,False,Left Foot,Open Play,0,0,2,Normal
-26.975729832573574,0.0629442575264256,False,Right Foot,Open Play,0,0,2,Normal
-18.006943105369107,0.056553969896140706,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879542,Adem Ljajić,Inter Milan,34.61444785057245,0.05928128166740478,False,Right Foot,Free Kick,0,0,0,Normal
+3879542,Federico Viviani,Hellas Verona,35.148968690418215,0.0752219994583739,False,Right Foot,Free Kick,0,0,0,Normal
+3879542,Fredy Alejandro Guarín Vásquez,Inter Milan,28.39383735953983,0.054588187660132986,False,Left Foot,Open Play,0,0,1,Normal
+3879542,Ivan Perišić,Inter Milan,14.54372717015827,0.053493193166317864,False,Left Foot,Open Play,1,1,1,Half Volley
+3879542,Adem Ljajić,Inter Milan,25.554842985234714,0.06733262300859515,False,Right Foot,Open Play,0,0,1,Normal
+3879542,Geoffrey Kondogbia,Inter Milan,25.17002185140092,0.06319719646549615,False,Right Foot,Open Play,0,1,1,Normal
+3879542,Fredy Alejandro Guarín Vásquez,Inter Milan,33.47730574583325,0.07324263808669383,False,Right Foot,Open Play,0,0,1,Normal
+3879542,Luca Siligardi,Hellas Verona,24.4826469157238,0.06684911767072488,False,Left Foot,Open Play,0,0,2,Normal
+3879542,Alex Nicolao Telles,Inter Milan,31.94276130831522,0.05121729992048776,False,Left Foot,Open Play,0,0,0,Normal
+3879542,Mauro Emanuel Icardi Rivero,Inter Milan,16.371316379570708,0.05969172324044399,False,Head,Open Play,0,0,2,Normal
+3879542,Geoffrey Kondogbia,Inter Milan,12.288612614937458,0.060525497210063624,False,Left Foot,Open Play,1,0,2,Half Volley
+3879542,Felipe Melo de Carvalho,Inter Milan,10.541821474489126,0.05538984629151409,False,Head,Open Play,0,1,3,Normal
+3879542,Gary Alexis Medel Soto,Inter Milan,17.205231762461086,0.06101014668636996,False,Right Foot,Open Play,1,0,3,Normal
+3879542,Felipe Melo de Carvalho,Inter Milan,19.374467734624346,0.06514438910645319,False,Left Foot,Open Play,0,0,3,Half Volley
+3879542,Jacopo Sala,Hellas Verona,19.932385707686876,0.05949923308368073,False,Left Foot,Open Play,0,0,1,Normal
+3879542,Felipe Melo de Carvalho,Inter Milan,8.709190547921203,0.05915262161616622,True,Head,Open Play,0,1,4,Normal
+3879542,Geoffrey Kondogbia,Inter Milan,33.344414824674914,0.06764510935999847,False,Left Foot,Open Play,0,0,0,Normal
+3879542,Ivan Perišić,Inter Milan,26.568590478231997,0.057961427986774075,False,Right Foot,Open Play,0,0,3,Normal
+3879542,Ivan Perišić,Inter Milan,15.561812233798474,0.06295722847022889,False,Left Foot,Open Play,1,1,1,Half Volley
+3879542,Jacopo Sala,Hellas Verona,34.095894180971406,0.06140406725191431,False,Right Foot,Open Play,0,0,1,Normal
+3879542,Luca Siligardi,Hellas Verona,27.610143063736565,0.0683548269745367,False,Left Foot,Open Play,0,0,1,Normal
+3879542,Luca Siligardi,Hellas Verona,16.73349933516597,0.06317335821526446,False,Left Foot,Open Play,1,0,1,Normal
+3879542,Luca Siligardi,Hellas Verona,26.754065111679758,0.0653842142648205,False,Left Foot,Open Play,0,0,2,Normal
+3879542,Mattia Zaccagni,Hellas Verona,26.975729832573574,0.0629442575264256,False,Right Foot,Open Play,0,0,2,Normal
+3879542,Stevan Jovetić,Inter Milan,18.006943105369107,0.056553969896140706,False,Right Foot,Open Play,0,1,2,Normal

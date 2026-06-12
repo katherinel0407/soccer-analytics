@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.321585306913747,0.05615541927084318,False,Right Foot,Open Play,0,0,2,Half Volley
-26.49169681239765,0.059498877716220464,False,Right Foot,Open Play,1,0,0,Normal
-15.844557425185464,0.05900884263483328,True,Right Foot,Open Play,0,1,3,Normal
-18.599999999999994,0.06245764564440511,False,Right Foot,Open Play,1,1,2,Normal
-7.184705978674417,0.05723979961776273,False,Head,Open Play,0,1,6,Normal
-24.95135266874324,0.06459921301466374,False,Right Foot,Open Play,1,0,1,Normal
-21.602083232873632,0.05330116388350098,False,Left Foot,Open Play,0,0,2,Normal
-18.67618804788601,0.061007345105877596,False,Right Foot,Open Play,0,0,3,Normal
-17.415510328439986,0.06309630907943725,False,Left Foot,Open Play,0,0,3,Normal
-23.63154671196958,0.06620487441983242,False,Right Foot,Open Play,0,1,2,Normal
-29.883942176359536,0.05495938180338928,False,Left Foot,Free Kick,0,0,0,Normal
-28.585485827601396,0.05630305910195456,False,Left Foot,Open Play,0,0,3,Normal
-16.96850022836432,0.062341667183086064,False,Left Foot,Open Play,0,1,1,Normal
-24.02269760039451,0.05290552915041243,False,Left Foot,Open Play,0,0,2,Normal
-28.91712295509358,0.0703009919413389,False,Right Foot,Open Play,0,0,1,Normal
-25.504901489713692,0.06915739180875778,False,Left Foot,Open Play,0,0,1,Normal
-14.205632685663804,0.06216195145590905,True,Right Foot,Open Play,1,0,0,Normal
-26.05379051117131,0.06267919703605472,False,Right Foot,Open Play,0,1,1,Normal
-23.99208202720223,0.06389667574224353,False,Left Foot,Open Play,0,0,2,Normal
-18.787761974221414,0.05600910009658393,False,Left Foot,Open Play,0,0,3,Normal
-21.36773268271578,0.06101039163558885,False,Left Foot,Open Play,1,1,2,Volley
-7.638062581571322,0.05854035440114982,False,Head,Open Play,0,1,4,Normal
-20.988091861815356,0.053941816823497586,False,Right Foot,Open Play,0,1,2,Normal
-13.723337786413332,0.05854441768107124,False,Left Foot,Open Play,1,0,0,Normal
-19.258764238652493,0.05436806528276569,False,Left Foot,Open Play,1,0,1,Half Volley
-9.946356116689165,0.058095409327186306,True,Right Foot,Open Play,1,0,0,Normal
-16.011246047700347,0.06153953298328174,True,Left Foot,Open Play,0,0,4,Normal
-20.751144546747295,0.05667397483486575,False,Left Foot,Open Play,0,0,1,Normal
-11.88486432400471,0.06013514612328508,False,Left Foot,Open Play,0,0,1,Normal
-21.557365330670635,0.0665835232173457,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890446,Philipp Lahm,Bayern Munich,21.321585306913747,0.05615541927084318,False,Right Foot,Open Play,0,0,2,Half Volley
+3890446,Thiago Alcântara do Nascimento,Bayern Munich,26.49169681239765,0.059498877716220464,False,Right Foot,Open Play,1,0,0,Normal
+3890446,Robert Lewandowski,Bayern Munich,15.844557425185464,0.05900884263483328,True,Right Foot,Open Play,0,1,3,Normal
+3890446,Robert Lewandowski,Bayern Munich,18.599999999999994,0.06245764564440511,False,Right Foot,Open Play,1,1,2,Normal
+3890446,Jeong-Ho Hong,Augsburg,7.184705978674417,0.05723979961776273,False,Head,Open Play,0,1,6,Normal
+3890446,Arturo Erasmo Vidal Pardo,Bayern Munich,24.95135266874324,0.06459921301466374,False,Right Foot,Open Play,1,0,1,Normal
+3890446,Arjen Robben,Bayern Munich,21.602083232873632,0.05330116388350098,False,Left Foot,Open Play,0,0,2,Normal
+3890446,Robert Lewandowski,Bayern Munich,18.67618804788601,0.061007345105877596,False,Right Foot,Open Play,0,0,3,Normal
+3890446,Thomas Müller,Bayern Munich,17.415510328439986,0.06309630907943725,False,Left Foot,Open Play,0,0,3,Normal
+3890446,Arturo Erasmo Vidal Pardo,Bayern Munich,23.63154671196958,0.06620487441983242,False,Right Foot,Open Play,0,1,2,Normal
+3890446,Douglas Costa de Souza,Bayern Munich,29.883942176359536,0.05495938180338928,False,Left Foot,Free Kick,0,0,0,Normal
+3890446,Arjen Robben,Bayern Munich,28.585485827601396,0.05630305910195456,False,Left Foot,Open Play,0,0,3,Normal
+3890446,Douglas Costa de Souza,Bayern Munich,16.96850022836432,0.062341667183086064,False,Left Foot,Open Play,0,1,1,Normal
+3890446,Arjen Robben,Bayern Munich,24.02269760039451,0.05290552915041243,False,Left Foot,Open Play,0,0,2,Normal
+3890446,Raúl Marcelo Bobadilla,Augsburg,28.91712295509358,0.0703009919413389,False,Right Foot,Open Play,0,0,1,Normal
+3890446,Douglas Costa de Souza,Bayern Munich,25.504901489713692,0.06915739180875778,False,Left Foot,Open Play,0,0,1,Normal
+3890446,Robert Lewandowski,Bayern Munich,14.205632685663804,0.06216195145590905,True,Right Foot,Open Play,1,0,0,Normal
+3890446,Márcio Rafael Ferreira de Souza,Bayern Munich,26.05379051117131,0.06267919703605472,False,Right Foot,Open Play,0,1,1,Normal
+3890446,Douglas Costa de Souza,Bayern Munich,23.99208202720223,0.06389667574224353,False,Left Foot,Open Play,0,0,2,Normal
+3890446,Arjen Robben,Bayern Munich,18.787761974221414,0.05600910009658393,False,Left Foot,Open Play,0,0,3,Normal
+3890446,Paul Verhaegh,Augsburg,21.36773268271578,0.06101039163558885,False,Left Foot,Open Play,1,1,2,Volley
+3890446,Caiuby Francisco da Silva,Augsburg,7.638062581571322,0.05854035440114982,False,Head,Open Play,0,1,4,Normal
+3890446,Thomas Müller,Bayern Munich,20.988091861815356,0.053941816823497586,False,Right Foot,Open Play,0,1,2,Normal
+3890446,Juan Bernat Velasco,Bayern Munich,13.723337786413332,0.05854441768107124,False,Left Foot,Open Play,1,0,0,Normal
+3890446,Arjen Robben,Bayern Munich,19.258764238652493,0.05436806528276569,False,Left Foot,Open Play,1,0,1,Half Volley
+3890446,Thomas Müller,Bayern Munich,9.946356116689165,0.058095409327186306,True,Right Foot,Open Play,1,0,0,Normal
+3890446,Raúl Marcelo Bobadilla,Augsburg,16.011246047700347,0.06153953298328174,True,Left Foot,Open Play,0,0,4,Normal
+3890446,Raúl Marcelo Bobadilla,Augsburg,20.751144546747295,0.05667397483486575,False,Left Foot,Open Play,0,0,1,Normal
+3890446,Arjen Robben,Bayern Munich,11.88486432400471,0.06013514612328508,False,Left Foot,Open Play,0,0,1,Normal
+3890446,Kingsley Coman,Bayern Munich,21.557365330670635,0.0665835232173457,False,Right Foot,Open Play,0,0,1,Normal

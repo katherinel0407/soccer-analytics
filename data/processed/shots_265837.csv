@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.951369297731205,0.06640321838976891,False,Left Foot,Free Kick,0,0,0,Normal
-17.270205557549104,0.06349000182942237,False,Left Foot,Open Play,1,0,4,Normal
-20.814658296498653,0.06617729466633399,False,Left Foot,Open Play,0,0,2,Half Volley
-19.04442175546425,0.06318504592358232,True,Left Foot,Open Play,0,0,3,Normal
-12.587295182047649,0.055258381866086656,False,Head,Open Play,0,0,3,Normal
-16.41493222648209,0.06119923002576808,False,Left Foot,Open Play,0,0,1,Normal
-14.993331851193046,0.05984905022215321,False,Left Foot,Open Play,1,0,3,Overhead Kick
-27.60615873315228,0.05848244563463729,False,Left Foot,Open Play,0,0,1,Normal
-12.46515142306743,0.05968104697431014,False,Head,Open Play,0,1,2,Normal
-8.731551981177232,0.058999306620629556,False,Head,Open Play,0,1,4,Normal
-4.002499219237905,0.056079132398989935,False,Head,Open Play,0,1,6,Normal
-14.869095466772686,0.056466647922417595,True,Right Foot,Open Play,1,0,0,Normal
-7.580237463298889,0.05855676078417013,False,Head,Open Play,0,1,2,Normal
-8.836288813749807,0.058007357015892734,False,Head,Open Play,0,1,4,Normal
-9.200000000000003,0.058437443063897435,True,Left Foot,Open Play,1,0,1,Half Volley
-14.499655168313488,0.06221823577343934,False,Left Foot,Open Play,0,0,3,Normal
-11.67647206993619,0.06070854856198051,False,Left Foot,Open Play,0,1,2,Normal
-10.16070863670443,0.05956140094837066,False,Right Foot,Open Play,0,0,4,Normal
-16.31103920662322,0.06338912201727949,False,Left Foot,Open Play,1,0,2,Normal
-16.62077013859467,0.06253589920119407,False,Right Foot,Open Play,0,0,3,Normal
-18.340392580312994,0.06457605513041993,False,Left Foot,Open Play,0,0,2,Normal
-31.402706889693444,0.07307988375971075,False,Right Foot,Open Play,0,0,1,Normal
-27.38558014722347,0.07056616576891227,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+265837,Antoine Griezmann,Real Sociedad,31.951369297731205,0.06640321838976891,False,Left Foot,Free Kick,0,0,0,Normal
+265837,Pedro Eliezer Rodríguez Ledesma,Barcelona,17.270205557549104,0.06349000182942237,False,Left Foot,Open Play,1,0,4,Normal
+265837,Carlos Alberto Vela Garrido,Real Sociedad,20.814658296498653,0.06617729466633399,False,Left Foot,Open Play,0,0,2,Half Volley
+265837,Lionel Andrés Messi Cuccittini,Barcelona,19.04442175546425,0.06318504592358232,True,Left Foot,Open Play,0,0,3,Normal
+265837,Mikel González de Martín Martínez,Real Sociedad,12.587295182047649,0.055258381866086656,False,Head,Open Play,0,0,3,Normal
+265837,Carlos Alberto Vela Garrido,Real Sociedad,16.41493222648209,0.06119923002576808,False,Left Foot,Open Play,0,0,1,Normal
+265837,Carlos Alberto Vela Garrido,Real Sociedad,14.993331851193046,0.05984905022215321,False,Left Foot,Open Play,1,0,3,Overhead Kick
+265837,Sergio Canales Madrazo,Real Sociedad,27.60615873315228,0.05848244563463729,False,Left Foot,Open Play,0,0,1,Normal
+265837,Antoine Griezmann,Real Sociedad,12.46515142306743,0.05968104697431014,False,Head,Open Play,0,1,2,Normal
+265837,Marc Bartra Aregall,Barcelona,8.731551981177232,0.058999306620629556,False,Head,Open Play,0,1,4,Normal
+265837,Mikel González de Martín Martínez,Real Sociedad,4.002499219237905,0.056079132398989935,False,Head,Open Play,0,1,6,Normal
+265837,Antoine Griezmann,Real Sociedad,14.869095466772686,0.056466647922417595,True,Right Foot,Open Play,1,0,0,Normal
+265837,Lionel Andrés Messi Cuccittini,Barcelona,7.580237463298889,0.05855676078417013,False,Head,Open Play,0,1,2,Normal
+265837,Alexandre Dimitri Song-Billong,Barcelona,8.836288813749807,0.058007357015892734,False,Head,Open Play,0,1,4,Normal
+265837,David Zurutuza Veillet,Real Sociedad,9.200000000000003,0.058437443063897435,True,Left Foot,Open Play,1,0,1,Half Volley
+265837,Lionel Andrés Messi Cuccittini,Barcelona,14.499655168313488,0.06221823577343934,False,Left Foot,Open Play,0,0,3,Normal
+265837,Carlos Alberto Vela Garrido,Real Sociedad,11.67647206993619,0.06070854856198051,False,Left Foot,Open Play,0,1,2,Normal
+265837,Carlos Alberto Vela Garrido,Real Sociedad,10.16070863670443,0.05956140094837066,False,Right Foot,Open Play,0,0,4,Normal
+265837,Sergio Canales Madrazo,Real Sociedad,16.31103920662322,0.06338912201727949,False,Left Foot,Open Play,1,0,2,Normal
+265837,Neymar da Silva Santos Junior,Barcelona,16.62077013859467,0.06253589920119407,False,Right Foot,Open Play,0,0,3,Normal
+265837,Lionel Andrés Messi Cuccittini,Barcelona,18.340392580312994,0.06457605513041993,False,Left Foot,Open Play,0,0,2,Normal
+265837,Neymar da Silva Santos Junior,Barcelona,31.402706889693444,0.07307988375971075,False,Right Foot,Open Play,0,0,1,Normal
+265837,Andrés Iniesta Luján,Barcelona,27.38558014722347,0.07056616576891227,False,Left Foot,Open Play,0,0,1,Normal

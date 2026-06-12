@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-2.954657340538835,0.05455848415517614,True,Right Foot,Open Play,1,0,4,Half Volley
-18.46645607581487,0.0644474528276345,False,Left Foot,Open Play,0,0,3,Normal
-23.407904647789383,0.06186340305353432,False,Left Foot,Open Play,0,0,1,Normal
-21.10213259365033,0.0637318109571036,False,Right Foot,Open Play,1,0,0,Normal
-57.309772290596314,0.04693772765425387,False,Right Foot,Open Play,0,0,0,Lob
-25.395472037353436,0.06122448272454968,False,Left Foot,Open Play,0,0,1,Normal
-23.203448019637083,0.06439131284739834,True,Left Foot,Open Play,1,0,3,Normal
-10.423531071570714,0.05916861091947878,False,Right Foot,Open Play,1,0,3,Normal
-19.33416664870767,0.0640073550022557,False,Left Foot,Open Play,1,0,0,Normal
-20.63492185592182,0.0660722777823621,False,Right Foot,Open Play,0,1,3,Normal
-21.668410186259635,0.06523531442240457,False,Left Foot,Open Play,0,0,2,Normal
-24.622144504490258,0.06842792036486342,False,Right Foot,Open Play,0,0,3,Normal
-14.207744367069674,0.06057066781695883,False,Left Foot,Open Play,0,0,2,Half Volley
-29.621951319924896,0.07218596567957297,False,Right Foot,Open Play,0,0,1,Half Volley
-22.232408776378687,0.06465638125729388,False,Left Foot,Open Play,1,0,1,Normal
-19.39123513343077,0.05319723979431687,False,Right Foot,Open Play,0,0,1,Normal
-31.81257612957492,0.062222498780929864,False,Left Foot,Free Kick,0,0,0,Normal
-25.74218327958994,0.06883066728696838,False,Right Foot,Open Play,0,1,1,Normal
-13.905394636614957,0.061607498040328126,False,Right Foot,Open Play,0,0,3,Normal
-22.940139493908923,0.06720284038585418,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16023,Ezequiel Marcelo Garay,Valencia,2.954657340538835,0.05455848415517614,True,Right Foot,Open Play,1,0,4,Half Volley
+16023,Michy Batshuayi Tunga,Valencia,18.46645607581487,0.0644474528276345,False,Left Foot,Open Play,0,0,3,Normal
+16023,Geoffrey Kondogbia,Valencia,23.407904647789383,0.06186340305353432,False,Left Foot,Open Play,0,0,1,Normal
+16023,Michy Batshuayi Tunga,Valencia,21.10213259365033,0.0637318109571036,False,Right Foot,Open Play,1,0,0,Normal
+16023,Luis Alberto Suárez Díaz,Barcelona,57.309772290596314,0.04693772765425387,False,Right Foot,Open Play,0,0,0,Lob
+16023,Lionel Andrés Messi Cuccittini,Barcelona,25.395472037353436,0.06122448272454968,False,Left Foot,Open Play,0,0,1,Normal
+16023,Lionel Andrés Messi Cuccittini,Barcelona,23.203448019637083,0.06439131284739834,True,Left Foot,Open Play,1,0,3,Normal
+16023,Denis Cheryshev,Valencia,10.423531071570714,0.05916861091947878,False,Right Foot,Open Play,1,0,3,Normal
+16023,José Luis Gayà Peña,Valencia,19.33416664870767,0.0640073550022557,False,Left Foot,Open Play,1,0,0,Normal
+16023,Jordi Alba Ramos,Barcelona,20.63492185592182,0.0660722777823621,False,Right Foot,Open Play,0,1,3,Normal
+16023,Denis Cheryshev,Valencia,21.668410186259635,0.06523531442240457,False,Left Foot,Open Play,0,0,2,Normal
+16023,Philippe Coutinho Correia,Barcelona,24.622144504490258,0.06842792036486342,False,Right Foot,Open Play,0,0,3,Normal
+16023,Lionel Andrés Messi Cuccittini,Barcelona,14.207744367069674,0.06057066781695883,False,Left Foot,Open Play,0,0,2,Half Volley
+16023,Daniel Parejo Muñoz,Valencia,29.621951319924896,0.07218596567957297,False,Right Foot,Open Play,0,0,1,Half Volley
+16023,Michy Batshuayi Tunga,Valencia,22.232408776378687,0.06465638125729388,False,Left Foot,Open Play,1,0,1,Normal
+16023,Kevin Gameiro,Valencia,19.39123513343077,0.05319723979431687,False,Right Foot,Open Play,0,0,1,Normal
+16023,Lionel Andrés Messi Cuccittini,Barcelona,31.81257612957492,0.062222498780929864,False,Left Foot,Free Kick,0,0,0,Normal
+16023,Luis Alberto Suárez Díaz,Barcelona,25.74218327958994,0.06883066728696838,False,Right Foot,Open Play,0,1,1,Normal
+16023,Lionel Andrés Messi Cuccittini,Barcelona,13.905394636614957,0.061607498040328126,False,Right Foot,Open Play,0,0,3,Normal
+16023,Lionel Andrés Messi Cuccittini,Barcelona,22.940139493908923,0.06720284038585418,False,Right Foot,Open Play,0,0,3,Normal

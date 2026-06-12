@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.60481857775025,0.06172680334607184,False,Left Foot,Open Play,1,0,0,Normal
-38.52531635171865,0.07964654712555279,False,Left Foot,Open Play,0,0,1,Normal
-23.239836488237174,0.062251747190814895,False,Left Foot,Open Play,0,0,0,Normal
-11.217842929904128,0.05839295064441027,False,Head,Open Play,0,1,3,Normal
-17.14701140140753,0.06358698738890772,False,Left Foot,Open Play,1,0,2,Half Volley
-33.73603414748094,0.07445239780331717,False,Left Foot,Open Play,0,0,1,Normal
-8.602325267042627,0.05453517154336879,False,Head,Open Play,0,0,3,Normal
-31.75106297433206,0.0677143829818455,False,Right Foot,Open Play,0,0,0,Normal
-38.118237105091836,0.07001012846721175,False,Right Foot,Free Kick,0,0,0,Normal
-10.21812115802117,0.05975900875063439,False,Head,Open Play,0,1,2,Normal
-20.67123605399541,0.06148893850021901,False,Right Foot,Open Play,0,0,2,Normal
-12.559060474414474,0.05793192661573691,False,Left Foot,Open Play,0,1,3,Normal
-7.217340230306456,0.05779511643856357,False,Other,Open Play,0,1,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-27.122868579853417,0.06885110022620806,False,Right Foot,Open Play,1,0,0,Normal
-30.64718584144391,0.06644173782068725,False,Right Foot,Open Play,0,0,0,Normal
-11.045361017187258,0.059790281633230344,False,Head,Open Play,0,0,2,Normal
-21.333776037073232,0.051417720309529354,False,Right Foot,Open Play,1,0,1,Half Volley
-12.439051410778877,0.0610677189822073,True,Right Foot,Open Play,0,1,2,Normal
-29.69713790923293,0.0690180486121062,False,Right Foot,Open Play,0,0,1,Normal
-18.033579788827293,0.06431030737114977,False,Right Foot,Open Play,0,0,1,Normal
-10.280077820717121,0.05997779442741658,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901208,Blaise Matuidi,Paris Saint-Germain,16.60481857775025,0.06172680334607184,False,Left Foot,Open Play,1,0,0,Normal
+3901208,Layvin Kurzawa,Paris Saint-Germain,38.52531635171865,0.07964654712555279,False,Left Foot,Open Play,0,0,1,Normal
+3901208,Gregory van der Wiel,Paris Saint-Germain,23.239836488237174,0.062251747190814895,False,Left Foot,Open Play,0,0,0,Normal
+3901208,Moustapha Elhadji Diallo,Guingamp,11.217842929904128,0.05839295064441027,False,Head,Open Play,0,1,3,Normal
+3901208,Jimmy Briand,Guingamp,17.14701140140753,0.06358698738890772,False,Left Foot,Open Play,1,0,2,Half Volley
+3901208,Layvin Kurzawa,Paris Saint-Germain,33.73603414748094,0.07445239780331717,False,Left Foot,Open Play,0,0,1,Normal
+3901208,Layvin Kurzawa,Paris Saint-Germain,8.602325267042627,0.05453517154336879,False,Head,Open Play,0,0,3,Normal
+3901208,Hervin Scicchitano Ongenda,Paris Saint-Germain,31.75106297433206,0.0677143829818455,False,Right Foot,Open Play,0,0,0,Normal
+3901208,Hervin Scicchitano Ongenda,Paris Saint-Germain,38.118237105091836,0.07001012846721175,False,Right Foot,Free Kick,0,0,0,Normal
+3901208,Layvin Kurzawa,Paris Saint-Germain,10.21812115802117,0.05975900875063439,False,Head,Open Play,0,1,2,Normal
+3901208,Jean-Kévin Augustin,Paris Saint-Germain,20.67123605399541,0.06148893850021901,False,Right Foot,Open Play,0,0,2,Normal
+3901208,Mevlüt Erdinç,Guingamp,12.559060474414474,0.05793192661573691,False,Left Foot,Open Play,0,1,3,Normal
+3901208,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,7.217340230306456,0.05779511643856357,False,Other,Open Play,0,1,3,Normal
+3901208,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3901208,Jimmy Briand,Guingamp,27.122868579853417,0.06885110022620806,False,Right Foot,Open Play,1,0,0,Normal
+3901208,Hervin Scicchitano Ongenda,Paris Saint-Germain,30.64718584144391,0.06644173782068725,False,Right Foot,Open Play,0,0,0,Normal
+3901208,Christophe Kerbrat,Guingamp,11.045361017187258,0.059790281633230344,False,Head,Open Play,0,0,2,Normal
+3901208,Mana Dembélé,Guingamp,21.333776037073232,0.051417720309529354,False,Right Foot,Open Play,1,0,1,Half Volley
+3901208,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,12.439051410778877,0.0610677189822073,True,Right Foot,Open Play,0,1,2,Normal
+3901208,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,29.69713790923293,0.0690180486121062,False,Right Foot,Open Play,0,0,1,Normal
+3901208,Jimmy Briand,Guingamp,18.033579788827293,0.06431030737114977,False,Right Foot,Open Play,0,0,1,Normal
+3901208,Jimmy Briand,Guingamp,10.280077820717121,0.05997779442741658,False,Head,Open Play,0,1,1,Normal

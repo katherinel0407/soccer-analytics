@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.956452590578323,0.062391461011288805,False,Right Foot,Open Play,0,0,4,Normal
-12.31097071720992,0.054984472443991995,False,Head,Open Play,0,0,2,Normal
-9.159148432032316,0.05891901011515545,False,Left Foot,Open Play,0,0,2,Half Volley
-11.240106761058811,0.05943188399947092,False,Head,Open Play,0,0,2,Normal
-22.615260334561704,0.06335108489150874,False,Right Foot,Open Play,0,0,1,Normal
-17.40402252354323,0.06382431562891633,False,Left Foot,Open Play,0,0,4,Half Volley
-14.199295757184576,0.05451542179764871,False,Right Foot,Open Play,0,0,1,Normal
-11.800423721205943,0.05954361156608743,True,Left Foot,Penalty,0,0,0,Normal
-5.885575587824862,0.05739307956473684,False,Left Foot,Open Play,0,1,2,Normal
-5.508175741568165,0.05687380452555137,False,Left Foot,Open Play,1,0,2,Normal
-14.705441169852746,0.06089155915592496,True,Right Foot,Open Play,1,0,2,Normal
-23.313729860320503,0.06500257709753515,True,Right Foot,Open Play,0,0,1,Normal
-18.79255171603899,0.05989087575029285,True,Left Foot,Open Play,1,0,0,Volley
-21.742354978244652,0.06667443657742154,False,Left Foot,Open Play,1,0,1,Normal
-26.257379914987716,0.05757013618690105,False,Left Foot,Open Play,0,0,1,Normal
-21.654098919142307,0.06603534714816785,False,Right Foot,Open Play,0,0,3,Normal
-8.021221852062192,0.058793182205197636,False,Head,Open Play,0,0,3,Normal
-16.70359242797788,0.06046984606391955,False,Right Foot,Open Play,0,0,2,Normal
-24.12343259156955,0.060081617769812946,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303504,Luis Alberto Suárez Díaz,Barcelona,19.956452590578323,0.062391461011288805,False,Right Foot,Open Play,0,0,4,Normal
+303504,Sergi Roberto Carnicer,Barcelona,12.31097071720992,0.054984472443991995,False,Head,Open Play,0,0,2,Normal
+303504,José Ángel Gómez Campaña,Levante UD,9.159148432032316,0.05891901011515545,False,Left Foot,Open Play,0,0,2,Half Volley
+303504,José Ángel Gómez Campaña,Levante UD,11.240106761058811,0.05943188399947092,False,Head,Open Play,0,0,2,Normal
+303504,José Ángel Gómez Campaña,Levante UD,22.615260334561704,0.06335108489150874,False,Right Foot,Open Play,0,0,1,Normal
+303504,Borja Mayoral Moya,Levante UD,17.40402252354323,0.06382431562891633,False,Left Foot,Open Play,0,0,4,Half Volley
+303504,Antoine Griezmann,Barcelona,14.199295757184576,0.05451542179764871,False,Right Foot,Open Play,0,0,1,Normal
+303504,Lionel Andrés Messi Cuccittini,Barcelona,11.800423721205943,0.05954361156608743,True,Left Foot,Penalty,0,0,0,Normal
+303504,Lionel Andrés Messi Cuccittini,Barcelona,5.885575587824862,0.05739307956473684,False,Left Foot,Open Play,0,1,2,Normal
+303504,Lionel Andrés Messi Cuccittini,Barcelona,5.508175741568165,0.05687380452555137,False,Left Foot,Open Play,1,0,2,Normal
+303504,José Ángel Gómez Campaña,Levante UD,14.705441169852746,0.06089155915592496,True,Right Foot,Open Play,1,0,2,Normal
+303504,Borja Mayoral Moya,Levante UD,23.313729860320503,0.06500257709753515,True,Right Foot,Open Play,0,0,1,Normal
+303504,Nemanja Radoja,Levante UD,18.79255171603899,0.05989087575029285,True,Left Foot,Open Play,1,0,0,Volley
+303504,Rubén Rochina Naixes,Levante UD,21.742354978244652,0.06667443657742154,False,Left Foot,Open Play,1,0,1,Normal
+303504,Lionel Andrés Messi Cuccittini,Barcelona,26.257379914987716,0.05757013618690105,False,Left Foot,Open Play,0,0,1,Normal
+303504,Anssumane Fati,Barcelona,21.654098919142307,0.06603534714816785,False,Right Foot,Open Play,0,0,3,Normal
+303504,Anssumane Fati,Barcelona,8.021221852062192,0.058793182205197636,False,Head,Open Play,0,0,3,Normal
+303504,Gonzalo Julián Melero Manzanares,Levante UD,16.70359242797788,0.06046984606391955,False,Right Foot,Open Play,0,0,2,Normal
+303504,Lionel Andrés Messi Cuccittini,Barcelona,24.12343259156955,0.060081617769812946,False,Left Foot,Open Play,0,0,3,Normal

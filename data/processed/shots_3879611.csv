@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.91230775173987,0.06547998244751899,False,Left Foot,Open Play,1,0,1,Half Volley
-13.029965464267352,0.06122512859126737,False,Left Foot,Open Play,1,1,1,Half Volley
-8.490583018850945,0.05903332991938252,False,Head,Open Play,0,1,5,Normal
-18.598118184375533,0.06445703820987583,False,Right Foot,Open Play,0,1,1,Normal
-25.238858928247925,0.056983469734977796,False,Left Foot,Open Play,0,0,1,Normal
-10.746627377926531,0.058700696908010025,False,Head,Open Play,0,0,2,Diving Header
-27.802877548915685,0.06659410741536641,False,Left Foot,Open Play,0,1,1,Normal
-34.474628351876405,0.0761520339880565,False,Left Foot,Open Play,0,0,0,Normal
-35.7169427583045,0.07157796978408042,False,Right Foot,Open Play,0,0,0,Normal
-23.126175645791506,0.05892065888471561,False,Right Foot,Open Play,1,0,1,Normal
-23.97081558896151,0.06823383964615386,False,Right Foot,Open Play,0,0,2,Half Volley
-16.906803364326443,0.057740672616239754,False,Left Foot,Open Play,0,1,3,Normal
-28.166114393007778,0.05993057732326173,False,Right Foot,Open Play,0,0,0,Normal
-9.689685237405802,0.05966131983385162,False,Head,Open Play,0,1,3,Normal
-13.917614738165451,0.06065692837061088,False,Right Foot,Open Play,0,1,2,Normal
-30.46850833237492,0.05623499091378466,False,Right Foot,Open Play,1,0,0,Normal
-14.68638825579659,0.06201478299710316,False,Left Foot,Open Play,1,1,2,Half Volley
-22.37878459613033,0.05982343522234367,False,Right Foot,Open Play,1,0,1,Normal
-19.77978766316767,0.06539077985120252,False,Left Foot,Open Play,1,0,0,Volley
-3.080584360149873,0.05621106944335938,True,Head,Open Play,0,0,4,Normal
-8.202438661763955,0.057968077809472884,False,Head,Open Play,0,1,4,Normal
-9.192388155425117,0.054135838874600356,False,Right Foot,Open Play,0,1,3,Normal
-15.062868252759829,0.06245782350316815,False,Right Foot,Open Play,1,0,2,Half Volley
-26.550517885721177,0.06814954642612402,False,Left Foot,Open Play,0,0,1,Normal
-9.932774033471215,0.05302832199662844,False,Right Foot,Open Play,1,0,1,Volley
-25.484897488512683,0.06737456182701484,False,Left Foot,Open Play,0,1,2,Normal
-16.745148551147587,0.052861792450255234,False,Right Foot,Open Play,0,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879611,Valter Birsa,Chievo,19.91230775173987,0.06547998244751899,False,Left Foot,Open Play,1,0,1,Half Volley
+3879611,Lucas Nahuel Castro,Chievo,13.029965464267352,0.06122512859126737,False,Left Foot,Open Play,1,1,1,Half Volley
+3879611,Lucas Nahuel Castro,Chievo,8.490583018850945,0.05903332991938252,False,Head,Open Play,0,1,5,Normal
+3879611,Perparim Hetemaj,Chievo,18.598118184375533,0.06445703820987583,False,Right Foot,Open Play,0,1,1,Normal
+3879611,Valter Birsa,Chievo,25.238858928247925,0.056983469734977796,False,Left Foot,Open Play,0,0,1,Normal
+3879611,Valter Birsa,Chievo,10.746627377926531,0.058700696908010025,False,Head,Open Play,0,0,2,Diving Header
+3879611,Franco Damián Vázquez,Palermo,27.802877548915685,0.06659410741536641,False,Left Foot,Open Play,0,1,1,Normal
+3879611,Achraf Lazaar,Palermo,34.474628351876405,0.0761520339880565,False,Left Foot,Open Play,0,0,0,Normal
+3879611,Ivan Radovanović,Chievo,35.7169427583045,0.07157796978408042,False,Right Foot,Open Play,0,0,0,Normal
+3879611,Robin Quaison,Palermo,23.126175645791506,0.05892065888471561,False,Right Foot,Open Play,1,0,1,Normal
+3879611,Perparim Hetemaj,Chievo,23.97081558896151,0.06823383964615386,False,Right Foot,Open Play,0,0,2,Half Volley
+3879611,Alberto Gilardino,Palermo,16.906803364326443,0.057740672616239754,False,Left Foot,Open Play,0,1,3,Normal
+3879611,Oscar Hiljemark,Palermo,28.166114393007778,0.05993057732326173,False,Right Foot,Open Play,0,0,0,Normal
+3879611,Alberto Gilardino,Palermo,9.689685237405802,0.05966131983385162,False,Head,Open Play,0,1,3,Normal
+3879611,Alberto Paloschi,Chievo,13.917614738165451,0.06065692837061088,False,Right Foot,Open Play,0,1,2,Normal
+3879611,Andrea Rispoli,Palermo,30.46850833237492,0.05623499091378466,False,Right Foot,Open Play,1,0,0,Normal
+3879611,Ivaylo Chochev,Palermo,14.68638825579659,0.06201478299710316,False,Left Foot,Open Play,1,1,2,Half Volley
+3879611,Robin Quaison,Palermo,22.37878459613033,0.05982343522234367,False,Right Foot,Open Play,1,0,1,Normal
+3879611,Franco Damián Vázquez,Palermo,19.77978766316767,0.06539077985120252,False,Left Foot,Open Play,1,0,0,Volley
+3879611,Alberto Gilardino,Palermo,3.080584360149873,0.05621106944335938,True,Head,Open Play,0,0,4,Normal
+3879611,Sergio Pellissier,Chievo,8.202438661763955,0.057968077809472884,False,Head,Open Play,0,1,4,Normal
+3879611,Alberto Paloschi,Chievo,9.192388155425117,0.054135838874600356,False,Right Foot,Open Play,0,1,3,Normal
+3879611,Sergio Pellissier,Chievo,15.062868252759829,0.06245782350316815,False,Right Foot,Open Play,1,0,2,Half Volley
+3879611,Franco Damián Vázquez,Palermo,26.550517885721177,0.06814954642612402,False,Left Foot,Open Play,0,0,1,Normal
+3879611,Alberto Gilardino,Palermo,9.932774033471215,0.05302832199662844,False,Right Foot,Open Play,1,0,1,Volley
+3879611,Franco Damián Vázquez,Palermo,25.484897488512683,0.06737456182701484,False,Left Foot,Open Play,0,1,2,Normal
+3879611,Simone Pepe,Chievo,16.745148551147587,0.052861792450255234,False,Right Foot,Open Play,0,1,1,Half Volley

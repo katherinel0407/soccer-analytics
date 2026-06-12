@@ -3,16 +3,17 @@
 from sklearn.model_selection import train_test_split
 from xgboost import XGBClassifier
 import joblib
-from load_data import load_all_shots
+from load_data import load_model_data
 
 from sklearn.metrics import roc_auc_score
 import pandas as pd
 import matplotlib.pyplot as plt
 
-all_shots = load_all_shots()
+all_shots = load_model_data()
 
 # x has all our features
-X = all_shots.drop(columns=["goal"])
+drop_cols = ["goal", "player", "team", "match_id"] # remove string items for now - this will be for the prediction tables
+X = all_shots.drop(columns=drop_cols, errors="ignore")
 # y is the result (goal: 0/1)
 y = all_shots["goal"]
 
@@ -45,6 +46,9 @@ joblib.dump(
     xgb,
     "../models/xgboost_xg_model.pkl"
 )
+
+# save feature list
+joblib.dump(X.columns.tolist(), "../models/features.pkl")
 
 # now we look at model accuracy and feature importance to get a sense of our results
 auc = roc_auc_score(

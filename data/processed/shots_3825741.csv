@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-4.925444142409906,0.05658086641986785,True,Left Foot,Open Play,1,0,2,Normal
-3.6891733491393444,0.0564974242081807,True,Head,Open Play,0,0,4,Normal
-26.554848898082625,0.06856462770204379,False,Right Foot,Open Play,1,0,1,Volley
-16.86001186239203,0.05247471870967979,False,Right Foot,Open Play,0,1,1,Half Volley
-22.263872080121196,0.06050561477256158,False,Left Foot,Open Play,0,0,3,Half Volley
-5.905929224093362,0.05738527310310392,False,Head,Open Play,0,0,3,Diving Header
-16.620770138594665,0.05617217551959851,True,Left Foot,Open Play,0,0,2,Half Volley
-9.305912099305475,0.05885403050897494,True,Left Foot,Open Play,0,0,0,Normal
-9.192388155425117,0.05696952576582227,False,Left Foot,Open Play,1,0,1,Normal
-6.789698078707185,0.05778404153240015,False,Right Foot,Open Play,1,1,2,Volley
-5.922837157984336,0.05363618053303861,False,Right Foot,Open Play,1,1,1,Half Volley
-15.692354826475215,0.058293172516542716,False,Right Foot,Open Play,0,0,2,Normal
-7.479304780526063,0.0584971290716488,True,Right Foot,Open Play,1,0,3,Normal
-14.234113952051947,0.06206954000796601,False,Left Foot,Open Play,1,0,0,Half Volley
-28.652748559256924,0.07086372693861905,False,Right Foot,Free Kick,0,0,0,Normal
-23.916939603552965,0.06534044804112434,False,Right Foot,Open Play,1,0,1,Half Volley
-26.80914023239089,0.06863622919519698,False,Right Foot,Open Play,0,0,2,Normal
-13.923002549737607,0.06200646547880761,False,Right Foot,Open Play,1,0,4,Half Volley
-14.340502083260548,0.06221866072235202,True,Right Foot,Open Play,0,0,2,Normal
-9.11975876873944,0.05859747586643581,False,Head,Open Play,0,1,4,Normal
-45.50000000000001,0.0531406859418646,False,Right Foot,Open Play,1,0,1,Volley
-10.282509421342635,0.05839414594732754,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825741,Carlos Carmona Bonet,Sporting Gijón,4.925444142409906,0.05658086641986785,True,Left Foot,Open Play,1,0,2,Normal
+3825741,Daniel Arnaud N''Di	,Sporting Gijón,3.6891733491393444,0.0564974242081807,True,Head,Open Play,0,0,4,Normal
+3825741,Rachid Aït-Atmane,Sporting Gijón,26.554848898082625,0.06856462770204379,False,Right Foot,Open Play,1,0,1,Volley
+3825741,Carlos Carmona Bonet,Sporting Gijón,16.86001186239203,0.05247471870967979,False,Right Foot,Open Play,0,1,1,Half Volley
+3825741,Carlos Alberto Vela Garrido,Real Sociedad,22.263872080121196,0.06050561477256158,False,Left Foot,Open Play,0,0,3,Half Volley
+3825741,Aritz Elustondo Irribaria,Real Sociedad,5.905929224093362,0.05738527310310392,False,Head,Open Play,0,0,3,Diving Header
+3825741,Carlos Alberto Vela Garrido,Real Sociedad,16.620770138594665,0.05617217551959851,True,Left Foot,Open Play,0,0,2,Half Volley
+3825741,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,9.305912099305475,0.05885403050897494,True,Left Foot,Open Play,0,0,0,Normal
+3825741,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,9.192388155425117,0.05696952576582227,False,Left Foot,Open Play,1,0,1,Normal
+3825741,Jonathas Cristian de Jesus,Real Sociedad,6.789698078707185,0.05778404153240015,False,Right Foot,Open Play,1,1,2,Volley
+3825741,Carlos Alberto Vela Garrido,Real Sociedad,5.922837157984336,0.05363618053303861,False,Right Foot,Open Play,1,1,1,Half Volley
+3825741,Carlos Carmona Bonet,Sporting Gijón,15.692354826475215,0.058293172516542716,False,Right Foot,Open Play,0,0,2,Normal
+3825741,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,7.479304780526063,0.0584971290716488,True,Right Foot,Open Play,1,0,3,Normal
+3825741,Héctor Hernández Ortega,Real Sociedad,14.234113952051947,0.06206954000796601,False,Left Foot,Open Play,1,0,0,Half Volley
+3825741,Asier Illarramendi Andonegi,Real Sociedad,28.652748559256924,0.07086372693861905,False,Right Foot,Free Kick,0,0,0,Normal
+3825741,Ismael López Blanco,Sporting Gijón,23.916939603552965,0.06534044804112434,False,Right Foot,Open Play,1,0,1,Half Volley
+3825741,Jonathas Cristian de Jesus,Real Sociedad,26.80914023239089,0.06863622919519698,False,Right Foot,Open Play,0,0,2,Normal
+3825741,Rachid Aït-Atmane,Sporting Gijón,13.923002549737607,0.06200646547880761,False,Right Foot,Open Play,1,0,4,Half Volley
+3825741,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,14.340502083260548,0.06221866072235202,True,Right Foot,Open Play,0,0,2,Normal
+3825741,Jonathas Cristian de Jesus,Real Sociedad,9.11975876873944,0.05859747586643581,False,Head,Open Play,0,1,4,Normal
+3825741,Carlos Carmona Bonet,Sporting Gijón,45.50000000000001,0.0531406859418646,False,Right Foot,Open Play,1,0,1,Volley
+3825741,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,10.282509421342635,0.05839414594732754,False,Right Foot,Open Play,1,0,1,Half Volley

@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.060318086422512,0.059551860107036475,False,Head,Open Play,0,1,3,Normal
-25.72333570904054,0.059868705115978416,False,Right Foot,Open Play,0,1,2,Normal
-25.7846853771769,0.06910551213449503,False,Right Foot,Open Play,1,0,3,Normal
-10.088111815399348,0.05962970057262728,False,Head,Open Play,0,1,3,Normal
-21.66956390885613,0.06673963687394999,False,Right Foot,Open Play,0,1,3,Normal
-10.431682510506151,0.05663076800456118,False,Head,Open Play,0,0,3,Normal
-10.336827366266695,0.05836485275535518,False,Right Foot,Open Play,0,0,4,Normal
-14.549914089093445,0.05198090914992153,False,Right Foot,Open Play,0,1,2,Half Volley
-29.042382822351204,0.056605193544562865,False,Right Foot,Open Play,0,0,1,Normal
-29.652993103563762,0.07232882949632366,False,Right Foot,Free Kick,0,0,0,Normal
-9.560334722173694,0.054603947963017756,False,Right Foot,Open Play,1,1,1,Half Volley
-17.076592165886026,0.05972424422718454,False,Head,Open Play,0,0,3,Normal
-12.589678312014168,0.06040731779132798,True,Right Foot,Open Play,0,1,2,Normal
-6.0415229867972835,0.057763203912603256,False,Head,Open Play,0,1,5,Normal
-14.827339613025659,0.06043523323472068,False,Right Foot,Open Play,1,0,3,Half Volley
-17.240939649566666,0.0634528825822595,False,Other,Open Play,0,0,1,Normal
-27.539244724574424,0.07019703584941744,True,Right Foot,Free Kick,0,0,0,Normal
-8.902246907382429,0.05901419545109741,False,Left Foot,Open Play,1,0,2,Volley
-12.001666550941998,0.05966323694216356,False,Head,Open Play,0,0,3,Normal
-24.460989350392186,0.06688453432947558,False,Right Foot,Open Play,0,0,2,Half Volley
-12.525174649480936,0.055899863144136475,False,Right Foot,Open Play,1,0,1,Half Volley
-6.726812023536858,0.05724559064621408,False,Head,Open Play,0,1,2,Normal
-23.81134183535233,0.06370936610937973,False,Right Foot,Open Play,0,0,2,Normal
-9.047098982546835,0.059229817031030925,False,Head,Open Play,0,0,3,Normal
-8.345058418010023,0.05889630498576744,False,Head,Open Play,0,0,1,Normal
-13.618002790424146,0.06000537843835441,False,Head,Open Play,0,1,2,Normal
-22.049263026232868,0.06695052477105423,False,Right Foot,Open Play,0,0,1,Normal
-12.949517365523706,0.060577139813756495,False,Right Foot,Open Play,1,0,3,Volley
-24.249536078036627,0.06490096871182335,False,Right Foot,Open Play,1,0,0,Normal
-29.524396691549857,0.06831326859590298,False,Right Foot,Open Play,0,1,1,Normal
-19.235384061671343,0.06483921646177475,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3929002,Debora Novellino,Pomigliano,10.060318086422512,0.059551860107036475,False,Head,Open Play,0,1,3,Normal
+3929002,Alice Giai,Napoli W,25.72333570904054,0.059868705115978416,False,Right Foot,Open Play,0,1,2,Normal
+3929002,Valentina Gallazzi,Napoli W,25.7846853771769,0.06910551213449503,False,Right Foot,Open Play,1,0,3,Normal
+3929002,Elisa del Estal Mateu,Napoli W,10.088111815399348,0.05962970057262728,False,Head,Open Play,0,1,3,Normal
+3929002,Nicole Arcangeli,Pomigliano,21.66956390885613,0.06673963687394999,False,Right Foot,Open Play,0,1,3,Normal
+3929002,Paola Di Marino,Napoli W,10.431682510506151,0.05663076800456118,False,Head,Open Play,0,0,3,Normal
+3929002,Marija Banušić,Napoli W,10.336827366266695,0.05836485275535518,False,Right Foot,Open Play,0,0,4,Normal
+3929002,Gina-Maria Chmielinski,Napoli W,14.549914089093445,0.05198090914992153,False,Right Foot,Open Play,0,1,2,Half Volley
+3929002,Giulia Giacobbo,Napoli W,29.042382822351204,0.056605193544562865,False,Right Foot,Open Play,0,0,1,Normal
+3929002,Marianela Szymanowski Alonso,Pomigliano,29.652993103563762,0.07232882949632366,False,Right Foot,Free Kick,0,0,0,Normal
+3929002,Sara Caiazzo,Pomigliano,9.560334722173694,0.054603947963017756,False,Right Foot,Open Play,1,1,1,Half Volley
+3929002,Elisa del Estal Mateu,Napoli W,17.076592165886026,0.05972424422718454,False,Head,Open Play,0,0,3,Normal
+3929002,Nicole Arcangeli,Pomigliano,12.589678312014168,0.06040731779132798,True,Right Foot,Open Play,0,1,2,Normal
+3929002,Paola Di Marino,Napoli W,6.0415229867972835,0.057763203912603256,False,Head,Open Play,0,1,5,Normal
+3929002,Gina-Maria Chmielinski,Napoli W,14.827339613025659,0.06043523323472068,False,Right Foot,Open Play,1,0,3,Half Volley
+3929002,Marija Banušić,Napoli W,17.240939649566666,0.0634528825822595,False,Other,Open Play,0,0,1,Normal
+3929002,Marija Banušić,Napoli W,27.539244724574424,0.07019703584941744,True,Right Foot,Free Kick,0,0,0,Normal
+3929002,Marija Banušić,Napoli W,8.902246907382429,0.05901419545109741,False,Left Foot,Open Play,1,0,2,Volley
+3929002,Elisa del Estal Mateu,Napoli W,12.001666550941998,0.05966323694216356,False,Head,Open Play,0,0,3,Normal
+3929002,Gina-Maria Chmielinski,Napoli W,24.460989350392186,0.06688453432947558,False,Right Foot,Open Play,0,0,2,Half Volley
+3929002,Gina-Maria Chmielinski,Napoli W,12.525174649480936,0.055899863144136475,False,Right Foot,Open Play,1,0,1,Half Volley
+3929002,Gina-Maria Chmielinski,Napoli W,6.726812023536858,0.05724559064621408,False,Head,Open Play,0,1,2,Normal
+3929002,Sofia Bertucci,Napoli W,23.81134183535233,0.06370936610937973,False,Right Foot,Open Play,0,0,2,Normal
+3929002,Paloma Lázaro Torres del Molino,Napoli W,9.047098982546835,0.059229817031030925,False,Head,Open Play,0,0,3,Normal
+3929002,Elisa del Estal Mateu,Napoli W,8.345058418010023,0.05889630498576744,False,Head,Open Play,0,0,1,Normal
+3929002,Nina Kajzba,Napoli W,13.618002790424146,0.06000537843835441,False,Head,Open Play,0,1,2,Normal
+3929002,Marianela Szymanowski Alonso,Pomigliano,22.049263026232868,0.06695052477105423,False,Right Foot,Open Play,0,0,1,Normal
+3929002,Sara Caiazzo,Pomigliano,12.949517365523706,0.060577139813756495,False,Right Foot,Open Play,1,0,3,Volley
+3929002,Nicole Arcangeli,Pomigliano,24.249536078036627,0.06490096871182335,False,Right Foot,Open Play,1,0,0,Normal
+3929002,Paloma Lázaro Torres del Molino,Napoli W,29.524396691549857,0.06831326859590298,False,Right Foot,Open Play,0,1,1,Normal
+3929002,Nicole Arcangeli,Pomigliano,19.235384061671343,0.06483921646177475,False,Right Foot,Open Play,0,0,2,Normal

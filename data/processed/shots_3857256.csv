@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.029981273400946,0.06553146138424007,False,Left Foot,Open Play,1,0,0,Half Volley
-6.935416353759886,0.057291509231921355,False,Left Foot,Open Play,1,0,4,Half Volley
-16.311039206623228,0.0606299990753228,False,Right Foot,Open Play,1,0,2,Half Volley
-8.430895563343196,0.05889252327948143,False,Head,Open Play,0,0,5,Normal
-25.00179993520467,0.05859508389093793,False,Left Foot,Open Play,0,0,2,Normal
-4.808326112068517,0.057038491594433006,False,Other,Open Play,0,0,3,Normal
-12.870508925446579,0.06111180794234401,False,Left Foot,Open Play,1,0,1,Half Volley
-16.38932579455299,0.05573799809460017,True,Left Foot,Open Play,1,0,0,Normal
-23.558013498595336,0.0671570202773814,False,Left Foot,Open Play,1,0,1,Normal
-11.371895180663605,0.060466238026239544,False,Head,Open Play,0,0,2,Normal
-11.783462988442746,0.0599605051823724,True,Head,Open Play,0,0,1,Normal
-15.360013020827815,0.056226117796426146,False,Left Foot,Open Play,0,1,2,Normal
-16.05241414865689,0.06323960745584833,True,Left Foot,Open Play,1,0,2,Normal
-20.354115063052973,0.05943304421131831,False,Right Foot,Open Play,1,0,0,Normal
-6.4007812023221,0.05794508280878796,True,Right Foot,Open Play,1,0,2,Normal
-19.35406933954717,0.06483981568005473,False,Right Foot,Open Play,1,0,1,Volley
-12.856126943990555,0.05948581386922143,True,Left Foot,Open Play,1,0,2,Half Volley
-13.294359706281456,0.061444295474149174,False,Right Foot,Open Play,1,0,1,Volley
-3.9623225512317957,0.056557523977426874,False,Right Foot,Open Play,1,0,3,Half Volley
-15.088074761214562,0.06267940628377638,False,Left Foot,Open Play,0,0,2,Half Volley
-19.80101007524616,0.06506639607673993,False,Right Foot,Open Play,0,0,2,Normal
-18.08535318980528,0.060758041694052585,False,Head,Open Play,0,1,3,Normal
-24.200206610688262,0.05748116425520051,False,Right Foot,Open Play,1,0,0,Normal
-18.420097719610506,0.06462877462705506,False,Right Foot,Open Play,0,0,1,Normal
-15.001333274079341,0.06094552383851653,False,Head,Open Play,0,1,4,Normal
-18.225805880673693,0.05604566707263845,False,Left Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857256,Granit Xhaka,Switzerland,24.029981273400946,0.06553146138424007,False,Left Foot,Open Play,1,0,0,Half Volley
+3857256,Breel-Donald Embolo,Switzerland,6.935416353759886,0.057291509231921355,False,Left Foot,Open Play,1,0,4,Half Volley
+3857256,Granit Xhaka,Switzerland,16.311039206623228,0.0606299990753228,False,Right Foot,Open Play,1,0,2,Half Volley
+3857256,Nikola Milenković,Serbia,8.430895563343196,0.05889252327948143,False,Head,Open Play,0,0,5,Normal
+3857256,Andrija Živković,Serbia,25.00179993520467,0.05859508389093793,False,Left Foot,Open Play,0,0,2,Normal
+3857256,Dušan Vlahović,Serbia,4.808326112068517,0.057038491594433006,False,Other,Open Play,0,0,3,Normal
+3857256,Remo Freuler,Switzerland,12.870508925446579,0.06111180794234401,False,Left Foot,Open Play,1,0,1,Half Volley
+3857256,Xherdan Shaqiri,Switzerland,16.38932579455299,0.05573799809460017,True,Left Foot,Open Play,1,0,0,Normal
+3857256,Granit Xhaka,Switzerland,23.558013498595336,0.0671570202773814,False,Left Foot,Open Play,1,0,1,Normal
+3857256,Dušan Vlahović,Serbia,11.371895180663605,0.060466238026239544,False,Head,Open Play,0,0,2,Normal
+3857256,Aleksandar Mitrović,Serbia,11.783462988442746,0.0599605051823724,True,Head,Open Play,0,0,1,Normal
+3857256,Xherdan Shaqiri,Switzerland,15.360013020827815,0.056226117796426146,False,Left Foot,Open Play,0,1,2,Normal
+3857256,Dušan Vlahović,Serbia,16.05241414865689,0.06323960745584833,True,Left Foot,Open Play,1,0,2,Normal
+3857256,Ruben Vargas,Switzerland,20.354115063052973,0.05943304421131831,False,Right Foot,Open Play,1,0,0,Normal
+3857256,Breel-Donald Embolo,Switzerland,6.4007812023221,0.05794508280878796,True,Right Foot,Open Play,1,0,2,Normal
+3857256,Aleksandar Mitrović,Serbia,19.35406933954717,0.06483981568005473,False,Right Foot,Open Play,1,0,1,Volley
+3857256,Remo Freuler,Switzerland,12.856126943990555,0.05948581386922143,True,Left Foot,Open Play,1,0,2,Half Volley
+3857256,Fabian Lukas Schär,Switzerland,13.294359706281456,0.061444295474149174,False,Right Foot,Open Play,1,0,1,Volley
+3857256,Breel-Donald Embolo,Switzerland,3.9623225512317957,0.056557523977426874,False,Right Foot,Open Play,1,0,3,Half Volley
+3857256,Dušan Tadić,Serbia,15.088074761214562,0.06267940628377638,False,Left Foot,Open Play,0,0,2,Half Volley
+3857256,Aleksandar Mitrović,Serbia,19.80101007524616,0.06506639607673993,False,Right Foot,Open Play,0,0,2,Normal
+3857256,Luka Jović,Serbia,18.08535318980528,0.060758041694052585,False,Head,Open Play,0,1,3,Normal
+3857256,Manuel Obafemi Akanji,Switzerland,24.200206610688262,0.05748116425520051,False,Right Foot,Open Play,1,0,0,Normal
+3857256,Christian Fassnacht,Switzerland,18.420097719610506,0.06462877462705506,False,Right Foot,Open Play,0,0,1,Normal
+3857256,Luka Jović,Serbia,15.001333274079341,0.06094552383851653,False,Head,Open Play,0,1,4,Normal
+3857256,Nemanja Radonjić,Serbia,18.225805880673693,0.05604566707263845,False,Left Foot,Open Play,1,0,0,Half Volley

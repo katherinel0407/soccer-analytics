@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.253073221198374,0.07046355908404893,False,Left Foot,Open Play,1,0,1,Volley
-6.356099432828279,0.05625962439407648,True,Other,Open Play,0,1,6,Normal
-29.986663702386092,0.07029701818021449,False,Right Foot,Open Play,0,0,2,Normal
-29.839738604753226,0.054656067161134754,False,Right Foot,Open Play,0,0,2,Normal
-24.84069242191127,0.0631696623072476,False,Right Foot,Open Play,0,0,1,Normal
-17.58550539506897,0.058722106292084145,False,Head,Open Play,0,1,2,Normal
-21.16341182323871,0.06529423359774153,False,Right Foot,Open Play,0,0,2,Normal
-17.14322023425004,0.06387506936234455,False,Right Foot,Open Play,0,1,3,Normal
-19.181501505356668,0.06508222563848035,False,Left Foot,Open Play,0,0,2,Normal
-25.09661331733826,0.06650812387788214,False,Left Foot,Open Play,0,0,1,Lob
-16.209873534361705,0.06026284058695176,False,Head,Open Play,0,0,1,Normal
-33.31606219228197,0.058118190017114164,False,Left Foot,Free Kick,0,0,0,Normal
-23.479565583715555,0.057475228874935815,True,Right Foot,Open Play,1,0,3,Normal
-27.404014304477364,0.0698061740604574,False,Right Foot,Open Play,0,0,0,Normal
-28.02802169258473,0.06345247376958761,False,Right Foot,Open Play,0,0,1,Normal
-21.986359407596336,0.06696325637180921,False,Right Foot,Open Play,1,0,2,Lob
-24.0634577731464,0.06836094002253727,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829505,Benoît Assou-Ekotto,Saint-Étienne,27.253073221198374,0.07046355908404893,False,Left Foot,Open Play,1,0,1,Volley
+3829505,Robert Berič,Saint-Étienne,6.356099432828279,0.05625962439407648,True,Other,Open Play,0,1,6,Normal
+3829505,Jacques Zoua Daogari,Gazélec Ajaccio,29.986663702386092,0.07029701818021449,False,Right Foot,Open Play,0,0,2,Normal
+3829505,Valentin Eysseric,Saint-Étienne,29.839738604753226,0.054656067161134754,False,Right Foot,Open Play,0,0,2,Normal
+3829505,Romain Hamouma,Saint-Étienne,24.84069242191127,0.0631696623072476,False,Right Foot,Open Play,0,0,1,Normal
+3829505,Kévin Mayi,Gazélec Ajaccio,17.58550539506897,0.058722106292084145,False,Head,Open Play,0,1,2,Normal
+3829505,Kévin Monnet-Paquet,Saint-Étienne,21.16341182323871,0.06529423359774153,False,Right Foot,Open Play,0,0,2,Normal
+3829505,Kévin Monnet-Paquet,Saint-Étienne,17.14322023425004,0.06387506936234455,False,Right Foot,Open Play,0,1,3,Normal
+3829505,Kévin Monnet-Paquet,Saint-Étienne,19.181501505356668,0.06508222563848035,False,Left Foot,Open Play,0,0,2,Normal
+3829505,Valentin Eysseric,Saint-Étienne,25.09661331733826,0.06650812387788214,False,Left Foot,Open Play,0,0,1,Lob
+3829505,Khalid Boutaïb,Gazélec Ajaccio,16.209873534361705,0.06026284058695176,False,Head,Open Play,0,0,1,Normal
+3829505,Damjan Đoković,Gazélec Ajaccio,33.31606219228197,0.058118190017114164,False,Left Foot,Free Kick,0,0,0,Normal
+3829505,Kévin Monnet-Paquet,Saint-Étienne,23.479565583715555,0.057475228874935815,True,Right Foot,Open Play,1,0,3,Normal
+3829505,Robert Berič,Saint-Étienne,27.404014304477364,0.0698061740604574,False,Right Foot,Open Play,0,0,0,Normal
+3829505,Valentin Eysseric,Saint-Étienne,28.02802169258473,0.06345247376958761,False,Right Foot,Open Play,0,0,1,Normal
+3829505,Nolan Roux,Saint-Étienne,21.986359407596336,0.06696325637180921,False,Right Foot,Open Play,1,0,2,Lob
+3829505,Nolan Roux,Saint-Étienne,24.0634577731464,0.06836094002253727,False,Right Foot,Open Play,0,0,1,Normal

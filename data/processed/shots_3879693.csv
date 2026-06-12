@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.000000000000005,0.05460383857261888,False,Head,Open Play,0,1,1,Normal
-11.741379816699572,0.06031949701329022,False,Head,Open Play,0,0,4,Normal
-4.8259714048054585,0.056847175256270394,False,Left Foot,Open Play,1,0,4,Volley
-25.72566811571664,0.06052361507275456,True,Left Foot,Free Kick,0,0,0,Normal
-15.743252522906445,0.06301558539053355,False,Right Foot,Open Play,1,0,0,Half Volley
-4.596737973824482,0.057040940730686836,True,Head,Open Play,0,0,4,Normal
-11.799999999999997,0.05950790851848517,True,Right Foot,Penalty,0,0,0,Normal
-15.080119362922824,0.056236236670202985,False,Head,Open Play,0,1,4,Normal
-18.93356807366219,0.06499958468188571,False,Left Foot,Open Play,0,0,2,Half Volley
-10.751744044572492,0.05764997903796855,False,Left Foot,Open Play,1,0,1,Half Volley
-21.70829334609241,0.06663599058537545,True,Right Foot,Open Play,0,0,2,Normal
-15.615697230671447,0.05367509963417857,False,Right Foot,Open Play,0,0,2,Normal
-20.08208156541547,0.06075418128982899,False,Left Foot,Open Play,1,0,0,Half Volley
-19.04337155022712,0.05535649024536074,False,Left Foot,Open Play,1,0,2,Half Volley
-22.1794950348289,0.06670020096351233,False,Left Foot,Open Play,1,1,0,Half Volley
-18.620687420178662,0.053691408847169435,False,Right Foot,Open Play,1,1,1,Volley
-8.228000972289689,0.058078302240743916,False,Left Foot,Open Play,0,1,2,Normal
-29.99083193244229,0.07203644021108348,False,Right Foot,Open Play,0,0,2,Normal
-18.32511937205322,0.06436539264820104,False,Right Foot,Open Play,0,0,1,Normal
-28.125788877825276,0.06965053629064728,False,Left Foot,Free Kick,0,0,0,Normal
-28.023204670415556,0.07089324071567238,False,Right Foot,Free Kick,0,0,0,Normal
-25.102987869972765,0.06275764882396855,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879693,Silvan Widmer,Udinese,9.000000000000005,0.05460383857261888,False,Head,Open Play,0,1,1,Normal
+3879693,Giorgio Chiellini,Juventus,11.741379816699572,0.06031949701329022,False,Head,Open Play,0,0,4,Normal
+3879693,Mario Mandžukić,Juventus,4.8259714048054585,0.056847175256270394,False,Left Foot,Open Play,1,0,4,Volley
+3879693,Paulo Bruno Exequiel Dybala,Juventus,25.72566811571664,0.06052361507275456,True,Left Foot,Free Kick,0,0,0,Normal
+3879693,Edenílson Andrade dos Santos,Udinese,15.743252522906445,0.06301558539053355,False,Right Foot,Open Play,1,0,0,Half Volley
+3879693,Sami Khedira,Juventus,4.596737973824482,0.057040940730686836,True,Head,Open Play,0,0,4,Normal
+3879693,Paulo Bruno Exequiel Dybala,Juventus,11.799999999999997,0.05950790851848517,True,Right Foot,Penalty,0,0,0,Normal
+3879693,Molla Wagué,Udinese,15.080119362922824,0.056236236670202985,False,Head,Open Play,0,1,4,Normal
+3879693,Paulo Bruno Exequiel Dybala,Juventus,18.93356807366219,0.06499958468188571,False,Left Foot,Open Play,0,0,2,Half Volley
+3879693,Silvan Widmer,Udinese,10.751744044572492,0.05764997903796855,False,Left Foot,Open Play,1,0,1,Half Volley
+3879693,Alex Sandro Lobo Silva,Juventus,21.70829334609241,0.06663599058537545,True,Right Foot,Open Play,0,0,2,Normal
+3879693,Sami Khedira,Juventus,15.615697230671447,0.05367509963417857,False,Right Foot,Open Play,0,0,2,Normal
+3879693,Kwadwo Asamoah,Juventus,20.08208156541547,0.06075418128982899,False,Left Foot,Open Play,1,0,0,Half Volley
+3879693,Antonio Di Natale,Udinese,19.04337155022712,0.05535649024536074,False,Left Foot,Open Play,1,0,2,Half Volley
+3879693,Kwadwo Asamoah,Juventus,22.1794950348289,0.06670020096351233,False,Left Foot,Open Play,1,1,0,Half Volley
+3879693,Mario Mandžukić,Juventus,18.620687420178662,0.053691408847169435,False,Right Foot,Open Play,1,1,1,Volley
+3879693,Paulo Bruno Exequiel Dybala,Juventus,8.228000972289689,0.058078302240743916,False,Left Foot,Open Play,0,1,2,Normal
+3879693,Cyril Théréau,Udinese,29.99083193244229,0.07203644021108348,False,Right Foot,Open Play,0,0,2,Normal
+3879693,Álvaro Borja Morata Martín,Juventus,18.32511937205322,0.06436539264820104,False,Right Foot,Open Play,0,0,1,Normal
+3879693,Francesco Lodi,Udinese,28.125788877825276,0.06965053629064728,False,Left Foot,Free Kick,0,0,0,Normal
+3879693,Leonardo Bonucci,Juventus,28.023204670415556,0.07089324071567238,False,Right Foot,Free Kick,0,0,0,Normal
+3879693,Emmanuel Agyemang-Badu,Udinese,25.102987869972765,0.06275764882396855,False,Right Foot,Open Play,1,0,1,Normal

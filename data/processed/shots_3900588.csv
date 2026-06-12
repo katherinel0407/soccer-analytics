@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.640783086353594,0.056608668484962335,False,Right Foot,Open Play,1,1,2,Half Volley
-12.384667940643387,0.055902110267368535,False,Right Foot,Open Play,1,0,1,Normal
-32.39660476037574,0.05267581878879763,False,Right Foot,Open Play,1,0,0,Volley
-19.803535037967336,0.0546086508841406,False,Left Foot,Open Play,1,0,2,Normal
-25.811818998280614,0.06696334287639104,False,Right Foot,Open Play,1,0,1,Volley
-24.13503677229434,0.05551729500094418,False,Left Foot,Open Play,0,0,1,Normal
-14.022838514366482,0.06073758007397058,False,Right Foot,Open Play,1,0,2,Volley
-25.912352266824403,0.06949180996875903,False,Right Foot,Open Play,1,0,0,Normal
-9.929753269845126,0.05975763684303884,True,Right Foot,Open Play,0,0,2,Half Volley
-24.989797918350597,0.06795696367584514,False,Right Foot,Open Play,0,0,1,Normal
-22.987170334775875,0.06756762108580651,True,Right Foot,Free Kick,0,0,0,Normal
-10.940292500660117,0.059948478550628896,False,Head,Open Play,0,0,2,Normal
-9.97446740432791,0.053639313479068806,False,Head,Open Play,0,0,2,Normal
-29.029984498790213,0.07191949580207693,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900588,Benjamin Jeannot,Lorient,6.640783086353594,0.056608668484962335,False,Right Foot,Open Play,1,1,2,Half Volley
+3900588,Benjamin Jeannot,Lorient,12.384667940643387,0.055902110267368535,False,Right Foot,Open Play,1,0,1,Normal
+3900588,Benjamin Jeannot,Lorient,32.39660476037574,0.05267581878879763,False,Right Foot,Open Play,1,0,0,Volley
+3900588,Yann Jouffre,Lorient,19.803535037967336,0.0546086508841406,False,Left Foot,Open Play,1,0,2,Normal
+3900588,Didier Ndong Ibrahim,Lorient,25.811818998280614,0.06696334287639104,False,Right Foot,Open Play,1,0,1,Volley
+3900588,Yann Jouffre,Lorient,24.13503677229434,0.05551729500094418,False,Left Foot,Open Play,0,0,1,Normal
+3900588,Benjamin Jeannot,Lorient,14.022838514366482,0.06073758007397058,False,Right Foot,Open Play,1,0,2,Volley
+3900588,Walid Mesloub,Lorient,25.912352266824403,0.06949180996875903,False,Right Foot,Open Play,1,0,0,Normal
+3900588,Thomas Lemar,AS Monaco,9.929753269845126,0.05975763684303884,True,Right Foot,Open Play,0,0,2,Half Volley
+3900588,Guido Marcelo Carrillo,AS Monaco,24.989797918350597,0.06795696367584514,False,Right Foot,Open Play,0,0,1,Normal
+3900588,João Filipe Iria Santos Moutinho,AS Monaco,22.987170334775875,0.06756762108580651,True,Right Foot,Free Kick,0,0,0,Normal
+3900588,Guido Marcelo Carrillo,AS Monaco,10.940292500660117,0.059948478550628896,False,Head,Open Play,0,0,2,Normal
+3900588,Fábio Alexandre da Silva Coentrão,AS Monaco,9.97446740432791,0.053639313479068806,False,Head,Open Play,0,0,2,Normal
+3900588,Mario Pašalić,AS Monaco,29.029984498790213,0.07191949580207693,False,Left Foot,Open Play,0,0,0,Normal

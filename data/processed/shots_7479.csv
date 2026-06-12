@@ -1,45 +1,45 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.212670403551895,0.06171667333254851,False,Left Foot,Open Play,0,0,1,Normal
-18.384776310850235,0.054929717222942785,False,Right Foot,Open Play,0,0,1,Normal
-37.36308338453881,0.0643462847715865,False,Right Foot,Open Play,0,1,2,Normal
-16.55294535724685,0.05807115995296915,False,Left Foot,Open Play,0,0,3,Normal
-7.280109889280518,0.05690698529986257,False,Right Foot,Open Play,0,0,1,Volley
-21.213203435596427,0.06595439570017494,False,Left Foot,Open Play,0,0,1,Normal
-9.055385138137417,0.05801923208647489,False,Head,Open Play,0,0,2,Normal
-22.47220505424423,0.05728620392676743,False,Left Foot,Open Play,0,0,3,Normal
-21.37755832643195,0.06529013115836287,False,Right Foot,Open Play,0,0,1,Normal
-25.019992006393608,0.06494414516926472,False,Right Foot,Open Play,0,0,1,Normal
-25.553864678361276,0.05778904231489197,False,Left Foot,Open Play,0,0,3,Normal
-10.0,0.05591639879787884,True,Head,Open Play,0,0,5,Normal
-16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,0,0,3,Normal
-4.47213595499958,0.056977461643308205,False,Right Foot,Open Play,0,0,7,Half Volley
-17.69180601295413,0.05461931533860276,False,Right Foot,Open Play,0,0,1,Normal
-7.211102550927978,0.05837628455796209,False,Head,Open Play,0,1,5,Normal
-15.297058540778355,0.05969290837765946,False,Head,Open Play,0,0,4,Normal
-28.0,0.06690491840941816,False,Left Foot,Open Play,0,0,0,Normal
-11.661903789690601,0.06003751934529125,True,Right Foot,Open Play,0,0,2,Normal
-21.18962010041709,0.059949703017297636,False,Right Foot,Open Play,0,0,1,Normal
-30.23243291566195,0.056657544938809014,False,Right Foot,Open Play,0,0,1,Normal
-28.42534080710379,0.05531840966441837,False,Left Foot,Open Play,0,0,1,Normal
-16.401219466856727,0.05614516653493011,False,Left Foot,Open Play,0,0,1,Normal
-34.132096331752024,0.06808642397167043,False,Left Foot,Free Kick,0,0,0,Normal
-28.284271247461902,0.06474673142257983,False,Left Foot,Open Play,0,0,1,Normal
-15.264337522473747,0.0627797409042985,False,Right Foot,Open Play,0,0,2,Normal
-13.45362404707371,0.06163431402119036,False,Left Foot,Open Play,0,0,2,Normal
-16.278820596099706,0.06246420787043569,False,Right Foot,Open Play,1,0,1,Normal
-17.4928556845359,0.06274478232372473,False,Right Foot,Open Play,0,0,0,Normal
-10.04987562112089,0.05841857388508137,False,Right Foot,Open Play,0,0,2,Normal
-10.04987562112089,0.05841857388508137,False,Left Foot,Open Play,0,0,1,Normal
-18.0,0.062188460831307246,False,Right Foot,Open Play,0,0,1,Normal
-16.1245154965971,0.05729971908326584,False,Left Foot,Open Play,0,0,2,Normal
-12.206555615733702,0.06103703463512825,False,Left Foot,Open Play,0,0,2,Normal
-12.36931687685298,0.05849490818523149,False,Head,Open Play,0,0,1,Normal
-23.0,0.06448536161976014,False,Right Foot,Open Play,0,0,1,Normal
-36.89173349139343,0.05655263320415277,False,Right Foot,Open Play,0,0,1,Normal
-14.317821063276353,0.057732618914407945,False,Head,Open Play,0,1,2,Normal
-13.038404810405298,0.06076089281083453,True,Left Foot,Open Play,0,0,1,Normal
-24.698178070456937,0.057466446940234,False,Left Foot,Open Play,0,0,2,Normal
-14.866068747318506,0.06225433667386876,False,Head,Open Play,0,0,2,Normal
-9.486832980505138,0.05933973589891108,False,Other,Open Play,0,0,5,Normal
-17.72004514666935,0.06369725336273913,False,Right Foot,Open Play,1,0,0,Half Volley
-16.55294535724685,0.06343227478370944,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7479,Sydney Rae Leroux,Orlando Pride,14.212670403551895,0.06171667333254851,False,Left Foot,Open Play,0,0,1,Normal
+7479,Sydney Rae Leroux,Orlando Pride,18.384776310850235,0.054929717222942785,False,Right Foot,Open Play,0,0,1,Normal
+7479,Andi Sullivan,Washington Spirit,37.36308338453881,0.0643462847715865,False,Right Foot,Open Play,0,1,2,Normal
+7479,Marta Vieira da Silva,Orlando Pride,16.55294535724685,0.05807115995296915,False,Left Foot,Open Play,0,0,3,Normal
+7479,Marta Vieira da Silva,Orlando Pride,7.280109889280518,0.05690698529986257,False,Right Foot,Open Play,0,0,1,Volley
+7479,Chioma Ubogagu,Orlando Pride,21.213203435596427,0.06595439570017494,False,Left Foot,Open Play,0,0,1,Normal
+7479,Marta Vieira da Silva,Orlando Pride,9.055385138137417,0.05801923208647489,False,Head,Open Play,0,0,2,Normal
+7479,Marta Vieira da Silva,Orlando Pride,22.47220505424423,0.05728620392676743,False,Left Foot,Open Play,0,0,3,Normal
+7479,Estefanía Romina Banini Ruiz,Washington Spirit,21.37755832643195,0.06529013115836287,False,Right Foot,Open Play,0,0,1,Normal
+7479,Ashley Hatch,Washington Spirit,25.019992006393608,0.06494414516926472,False,Right Foot,Open Play,0,0,1,Normal
+7479,Ashley Hatch,Washington Spirit,25.553864678361276,0.05778904231489197,False,Left Foot,Open Play,0,0,3,Normal
+7479,Ashley Hatch,Washington Spirit,10.0,0.05591639879787884,True,Head,Open Play,0,0,5,Normal
+7479,Chioma Ubogagu,Orlando Pride,16.64331697709324,0.06359969627011944,False,Left Foot,Open Play,0,0,3,Normal
+7479,Ali Krieger,Orlando Pride,4.47213595499958,0.056977461643308205,False,Right Foot,Open Play,0,0,7,Half Volley
+7479,Sydney Rae Leroux,Orlando Pride,17.69180601295413,0.05461931533860276,False,Right Foot,Open Play,0,0,1,Normal
+7479,Ali Krieger,Orlando Pride,7.211102550927978,0.05837628455796209,False,Head,Open Play,0,1,5,Normal
+7479,Tori Huster,Washington Spirit,15.297058540778355,0.05969290837765946,False,Head,Open Play,0,0,4,Normal
+7479,Meggie Dougherty Howard,Washington Spirit,28.0,0.06690491840941816,False,Left Foot,Open Play,0,0,0,Normal
+7479,Sydney Rae Leroux,Orlando Pride,11.661903789690601,0.06003751934529125,True,Right Foot,Open Play,0,0,2,Normal
+7479,Emily Louise van Egmond,Orlando Pride,21.18962010041709,0.059949703017297636,False,Right Foot,Open Play,0,0,1,Normal
+7479,Sydney Rae Leroux,Orlando Pride,30.23243291566195,0.056657544938809014,False,Right Foot,Open Play,0,0,1,Normal
+7479,Marta Vieira da Silva,Orlando Pride,28.42534080710379,0.05531840966441837,False,Left Foot,Open Play,0,0,1,Normal
+7479,Marta Vieira da Silva,Orlando Pride,16.401219466856727,0.05614516653493011,False,Left Foot,Open Play,0,0,1,Normal
+7479,Marta Vieira da Silva,Orlando Pride,34.132096331752024,0.06808642397167043,False,Left Foot,Free Kick,0,0,0,Normal
+7479,Marta Vieira da Silva,Orlando Pride,28.284271247461902,0.06474673142257983,False,Left Foot,Open Play,0,0,1,Normal
+7479,Sydney Rae Leroux,Orlando Pride,15.264337522473747,0.0627797409042985,False,Right Foot,Open Play,0,0,2,Normal
+7479,Monica Hickmann Alves,Orlando Pride,13.45362404707371,0.06163431402119036,False,Left Foot,Open Play,0,0,2,Normal
+7479,Ashley Hatch,Washington Spirit,16.278820596099706,0.06246420787043569,False,Right Foot,Open Play,1,0,1,Normal
+7479,Estefanía Romina Banini Ruiz,Washington Spirit,17.4928556845359,0.06274478232372473,False,Right Foot,Open Play,0,0,0,Normal
+7479,Meggie Dougherty Howard,Washington Spirit,10.04987562112089,0.05841857388508137,False,Right Foot,Open Play,0,0,2,Normal
+7479,Marta Vieira da Silva,Orlando Pride,10.04987562112089,0.05841857388508137,False,Left Foot,Open Play,0,0,1,Normal
+7479,Camila Martins Pereira,Orlando Pride,18.0,0.062188460831307246,False,Right Foot,Open Play,0,0,1,Normal
+7479,Sydney Rae Leroux,Orlando Pride,16.1245154965971,0.05729971908326584,False,Left Foot,Open Play,0,0,2,Normal
+7479,Sydney Rae Leroux,Orlando Pride,12.206555615733702,0.06103703463512825,False,Left Foot,Open Play,0,0,2,Normal
+7479,Alanna Stephanie Kennedy,Orlando Pride,12.36931687685298,0.05849490818523149,False,Head,Open Play,0,0,1,Normal
+7479,Camila Martins Pereira,Orlando Pride,23.0,0.06448536161976014,False,Right Foot,Open Play,0,0,1,Normal
+7479,Camila Martins Pereira,Orlando Pride,36.89173349139343,0.05655263320415277,False,Right Foot,Open Play,0,0,1,Normal
+7479,Alanna Stephanie Kennedy,Orlando Pride,14.317821063276353,0.057732618914407945,False,Head,Open Play,0,1,2,Normal
+7479,Marta Vieira da Silva,Orlando Pride,13.038404810405298,0.06076089281083453,True,Left Foot,Open Play,0,0,1,Normal
+7479,Ashley Hatch,Washington Spirit,24.698178070456937,0.057466446940234,False,Left Foot,Open Play,0,0,2,Normal
+7479,Ashley Hatch,Washington Spirit,14.866068747318506,0.06225433667386876,False,Head,Open Play,0,0,2,Normal
+7479,Aubrey Renee Kingsbury,Washington Spirit,9.486832980505138,0.05933973589891108,False,Other,Open Play,0,0,5,Normal
+7479,Whitney Church,Washington Spirit,17.72004514666935,0.06369725336273913,False,Right Foot,Open Play,1,0,0,Half Volley
+7479,Whitney Church,Washington Spirit,16.55294535724685,0.06343227478370944,False,Left Foot,Open Play,1,0,2,Normal

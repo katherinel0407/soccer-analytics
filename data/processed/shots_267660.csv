@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.2030532572065,0.05636564018574787,False,Right Foot,Open Play,1,1,1,Normal
-21.91460700081113,0.06433214814971472,False,Right Foot,Open Play,1,1,2,Normal
-15.212166183683374,0.06274754437333724,False,Right Foot,Open Play,1,0,1,Volley
-10.270345661174218,0.0584291279977315,False,Head,Open Play,0,0,3,Normal
-31.827660925679098,0.05357867329923538,False,Left Foot,Open Play,0,0,0,Normal
-15.212166183683372,0.06046277109392794,False,Right Foot,Open Play,0,0,2,Normal
-16.177144370994533,0.06314021584223999,False,Left Foot,Open Play,1,0,1,Half Volley
-5.571355310873651,0.054089051250112916,True,Left Foot,Open Play,1,0,3,Normal
-22.50155550178698,0.06504183546678487,False,Left Foot,Open Play,1,0,3,Normal
-11.236102527122112,0.05266582675830022,False,Right Foot,Open Play,0,1,1,Half Volley
-13.635981812836215,0.05580411363661803,True,Right Foot,Open Play,1,0,2,Normal
-14.284257068535279,0.06202018586006295,False,Right Foot,Open Play,0,0,2,Normal
-23.678260071212996,0.06003112261326247,False,Right Foot,Open Play,1,0,0,Half Volley
-20.76391099961662,0.06474439825011152,False,Left Foot,Open Play,1,0,1,Normal
-20.76078033215515,0.06607359284821918,False,Left Foot,Open Play,1,0,3,Half Volley
-23.6019067026374,0.06774532618944723,False,Left Foot,Open Play,1,0,1,Volley
-17.171196813268434,0.06293026077833841,False,Right Foot,Open Play,0,0,1,Normal
-22.817756243767697,0.05821526342006285,False,Left Foot,Open Play,0,1,2,Normal
-26.471494102146938,0.05262479110823014,False,Right Foot,Open Play,0,0,1,Normal
-11.45862120850497,0.059961965675086895,False,Head,Open Play,0,1,4,Normal
-9.027181176868005,0.055665602686255054,True,Head,Open Play,0,1,3,Normal
-8.316850365372705,0.05705000263971407,False,Right Foot,Open Play,1,0,1,Normal
-21.703916697223107,0.05554523160802107,False,Right Foot,Open Play,0,0,3,Normal
-22.949074055394917,0.05740462256516241,False,Left Foot,Open Play,0,0,1,Normal
-13.026895255585655,0.058809026422238286,False,Other,Open Play,0,0,3,Normal
-25.415152960389598,0.06387884734627192,False,Left Foot,Free Kick,0,0,0,Normal
-15.41752249876743,0.06172674042714754,False,Right Foot,Open Play,0,0,1,Normal
-13.870832707519765,0.06194185881129257,False,Right Foot,Open Play,1,0,0,Volley
-22.366045694310827,0.05737840107501359,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267660,José Luis Sanmartín Mato,RC Deportivo La Coruña,26.2030532572065,0.05636564018574787,False,Right Foot,Open Play,1,1,1,Normal
+267660,Luis Alberto Suárez Díaz,Barcelona,21.91460700081113,0.06433214814971472,False,Right Foot,Open Play,1,1,2,Normal
+267660,Lionel Andrés Messi Cuccittini,Barcelona,15.212166183683374,0.06274754437333724,False,Right Foot,Open Play,1,0,1,Volley
+267660,Luis Alberto Suárez Díaz,Barcelona,10.270345661174218,0.0584291279977315,False,Head,Open Play,0,0,3,Normal
+267660,Carles Gil de Pareja Vicent,RC Deportivo La Coruña,31.827660925679098,0.05357867329923538,False,Left Foot,Open Play,0,0,0,Normal
+267660,André Filipe Tavares Gomes,Barcelona,15.212166183683372,0.06046277109392794,False,Right Foot,Open Play,0,0,2,Normal
+267660,José Luis Sanmartín Mato,RC Deportivo La Coruña,16.177144370994533,0.06314021584223999,False,Left Foot,Open Play,1,0,1,Half Volley
+267660,José Luis Sanmartín Mato,RC Deportivo La Coruña,5.571355310873651,0.054089051250112916,True,Left Foot,Open Play,1,0,3,Normal
+267660,Luis Alberto Suárez Díaz,Barcelona,22.50155550178698,0.06504183546678487,False,Left Foot,Open Play,1,0,3,Normal
+267660,Gerard Piqué Bernabéu,Barcelona,11.236102527122112,0.05266582675830022,False,Right Foot,Open Play,0,1,1,Half Volley
+267660,Luis Alberto Suárez Díaz,Barcelona,13.635981812836215,0.05580411363661803,True,Right Foot,Open Play,1,0,2,Normal
+267660,Fayçal Fajr,RC Deportivo La Coruña,14.284257068535279,0.06202018586006295,False,Right Foot,Open Play,0,0,2,Normal
+267660,Celso Borges Mora,RC Deportivo La Coruña,23.678260071212996,0.06003112261326247,False,Right Foot,Open Play,1,0,0,Half Volley
+267660,Lionel Andrés Messi Cuccittini,Barcelona,20.76391099961662,0.06474439825011152,False,Left Foot,Open Play,1,0,1,Normal
+267660,Luis Alberto Suárez Díaz,Barcelona,20.76078033215515,0.06607359284821918,False,Left Foot,Open Play,1,0,3,Half Volley
+267660,José Luis Sanmartín Mato,RC Deportivo La Coruña,23.6019067026374,0.06774532618944723,False,Left Foot,Open Play,1,0,1,Volley
+267660,Denis Suárez Fernández,Barcelona,17.171196813268434,0.06293026077833841,False,Right Foot,Open Play,0,0,1,Normal
+267660,Emre Çolak,RC Deportivo La Coruña,22.817756243767697,0.05821526342006285,False,Left Foot,Open Play,0,1,2,Normal
+267660,Juan Francisco Moreno Fuertes,RC Deportivo La Coruña,26.471494102146938,0.05262479110823014,False,Right Foot,Open Play,0,0,1,Normal
+267660,Alejandro Arribas Garrido,RC Deportivo La Coruña,11.45862120850497,0.059961965675086895,False,Head,Open Play,0,1,4,Normal
+267660,Alejandro Bergantiños García,RC Deportivo La Coruña,9.027181176868005,0.055665602686255054,True,Head,Open Play,0,1,3,Normal
+267660,Luis Alberto Suárez Díaz,Barcelona,8.316850365372705,0.05705000263971407,False,Right Foot,Open Play,1,0,1,Normal
+267660,Lionel Andrés Messi Cuccittini,Barcelona,21.703916697223107,0.05554523160802107,False,Right Foot,Open Play,0,0,3,Normal
+267660,Juan Francisco Moreno Fuertes,RC Deportivo La Coruña,22.949074055394917,0.05740462256516241,False,Left Foot,Open Play,0,0,1,Normal
+267660,Sergi Roberto Carnicer,Barcelona,13.026895255585655,0.058809026422238286,False,Other,Open Play,0,0,3,Normal
+267660,Lionel Andrés Messi Cuccittini,Barcelona,25.415152960389598,0.06387884734627192,False,Left Foot,Free Kick,0,0,0,Normal
+267660,Fayçal Fajr,RC Deportivo La Coruña,15.41752249876743,0.06172674042714754,False,Right Foot,Open Play,0,0,1,Normal
+267660,Fayçal Fajr,RC Deportivo La Coruña,13.870832707519765,0.06194185881129257,False,Right Foot,Open Play,1,0,0,Volley
+267660,Lionel Andrés Messi Cuccittini,Barcelona,22.366045694310827,0.05737840107501359,False,Left Foot,Open Play,0,0,3,Normal

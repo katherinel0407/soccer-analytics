@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.81456453011623,0.06727917949287637,False,Left Foot,Open Play,1,0,0,Normal
-31.38693995916136,0.07374905014115593,True,Right Foot,Free Kick,0,0,0,Normal
-27.501636314954062,0.06649998050343973,False,Left Foot,Open Play,1,0,1,Normal
-5.092150822589605,0.057206827857651465,False,Head,Open Play,0,0,6,Normal
-15.615697230671454,0.06298522900825748,False,Right Foot,Open Play,0,0,3,Normal
-7.621679604916494,0.05842418132779252,False,Head,Open Play,0,1,5,Normal
-20.915305400591215,0.056739524311501914,False,Left Foot,Open Play,0,1,1,Normal
-26.593232221751453,0.06975606429729259,False,Right Foot,Free Kick,0,0,0,Normal
-30.777426793024784,0.06495835795444588,False,Right Foot,Free Kick,0,0,0,Normal
-26.100766272276374,0.06964939785513373,False,Right Foot,Open Play,0,0,1,Normal
-18.13973538947027,0.053126944953580106,False,Right Foot,Open Play,1,0,1,Normal
-22.961707253599418,0.053059545940059766,False,Left Foot,Open Play,0,0,0,Normal
-22.67156809750927,0.06616171102033855,False,Left Foot,Open Play,0,1,3,Normal
-26.983328186122634,0.07041235228908786,False,Right Foot,Free Kick,0,0,0,Normal
-15.947727110782903,0.06222252777770392,False,Left Foot,Open Play,0,0,2,Normal
-15.208221460775745,0.062092736952190426,False,Left Foot,Open Play,1,1,4,Half Volley
-32.701376117833334,0.06946959404394507,False,Right Foot,Open Play,0,0,0,Normal
-8.989994438263013,0.05668212876300199,False,Right Foot,Open Play,1,1,1,Normal
-22.763567382991617,0.05851997544244486,False,Left Foot,Open Play,0,0,1,Normal
-27.818878482066815,0.06441799829456164,False,Right Foot,Free Kick,0,0,0,Normal
-16.964963896218578,0.06013924994811841,False,Right Foot,Open Play,0,0,2,Normal
-23.50531854708632,0.055976919237882436,False,Left Foot,Open Play,1,0,0,Normal
-9.674709297958255,0.05900423168284652,False,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879549,Diego Ángel Capel Trinidad,Genoa,27.81456453011623,0.06727917949287637,False,Left Foot,Open Play,1,0,0,Normal
+3879549,Blerim Džemaili,Genoa,31.38693995916136,0.07374905014115593,True,Right Foot,Free Kick,0,0,0,Normal
+3879549,Giacomo Bonaventura,AC Milan,27.501636314954062,0.06649998050343973,False,Left Foot,Open Play,1,0,1,Normal
+3879549,Nicolás Andrés Burdisso,Genoa,5.092150822589605,0.057206827857651465,False,Head,Open Play,0,0,6,Normal
+3879549,Mario Barwuah Balotelli,AC Milan,15.615697230671454,0.06298522900825748,False,Right Foot,Open Play,0,0,3,Normal
+3879549,Mario Barwuah Balotelli,AC Milan,7.621679604916494,0.05842418132779252,False,Head,Open Play,0,1,5,Normal
+3879549,Diego Ángel Capel Trinidad,Genoa,20.915305400591215,0.056739524311501914,False,Left Foot,Open Play,0,1,1,Normal
+3879549,Blerim Džemaili,Genoa,26.593232221751453,0.06975606429729259,False,Right Foot,Free Kick,0,0,0,Normal
+3879549,Blerim Džemaili,Genoa,30.777426793024784,0.06495835795444588,False,Right Foot,Free Kick,0,0,0,Normal
+3879549,Blerim Džemaili,Genoa,26.100766272276374,0.06964939785513373,False,Right Foot,Open Play,0,0,1,Normal
+3879549,Luiz Adriano de Souza da Silva,AC Milan,18.13973538947027,0.053126944953580106,False,Right Foot,Open Play,1,0,1,Normal
+3879549,Giacomo Bonaventura,AC Milan,22.961707253599418,0.053059545940059766,False,Left Foot,Open Play,0,0,0,Normal
+3879549,Andrea Bertolacci,AC Milan,22.67156809750927,0.06616171102033855,False,Left Foot,Open Play,0,1,3,Normal
+3879549,Mario Barwuah Balotelli,AC Milan,26.983328186122634,0.07041235228908786,False,Right Foot,Free Kick,0,0,0,Normal
+3879549,Mario Barwuah Balotelli,AC Milan,15.947727110782903,0.06222252777770392,False,Left Foot,Open Play,0,0,2,Normal
+3879549,Andrea Bertolacci,AC Milan,15.208221460775745,0.062092736952190426,False,Left Foot,Open Play,1,1,4,Half Volley
+3879549,Jules Olivier Ntcham,Genoa,32.701376117833334,0.06946959404394507,False,Right Foot,Open Play,0,0,0,Normal
+3879549,Leonardo Pavoletti,Genoa,8.989994438263013,0.05668212876300199,False,Right Foot,Open Play,1,1,1,Normal
+3879549,Diego Ángel Capel Trinidad,Genoa,22.763567382991617,0.05851997544244486,False,Left Foot,Open Play,0,0,1,Normal
+3879549,Mario Barwuah Balotelli,AC Milan,27.818878482066815,0.06441799829456164,False,Right Foot,Free Kick,0,0,0,Normal
+3879549,Juraj Kucka,AC Milan,16.964963896218578,0.06013924994811841,False,Right Foot,Open Play,0,0,2,Normal
+3879549,Tomás Eduardo Rincón Hernández,Genoa,23.50531854708632,0.055976919237882436,False,Left Foot,Open Play,1,0,0,Normal
+3879549,Rodrigo Ely,AC Milan,9.674709297958255,0.05900423168284652,False,Head,Open Play,0,1,5,Normal

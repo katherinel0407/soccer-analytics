@@ -1,13 +1,13 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.9207664099593,0.057337197078565764,False,Left Foot,Open Play,0,0,1,Normal
-44.97654944523868,0.04675657183929686,False,Left Foot,Free Kick,0,0,0,Normal
-18.038015411901604,0.06417830176847582,True,Left Foot,Open Play,0,0,1,Normal
-20.415680248279752,0.05674037084888921,False,Left Foot,Open Play,0,0,2,Normal
-23.934076125892137,0.05377375272950049,False,Left Foot,Open Play,0,1,1,Normal
-11.16288493177279,0.058500847222139565,False,Right Foot,Open Play,1,0,1,Normal
-13.446189051177289,0.0535349279073339,False,Right Foot,Open Play,1,0,0,Normal
-17.042593699317017,0.0629452077082254,False,Left Foot,Open Play,1,0,1,Normal
-13.155227098001767,0.061248155636649676,False,Head,Open Play,0,1,2,Normal
-29.546573405388312,0.06364143213951468,False,Right Foot,Open Play,0,1,2,Normal
-10.01848291908511,0.05980150509325399,False,Left Foot,Open Play,0,0,2,Normal
-4.875448697299559,0.05688765486045917,True,Right Foot,Open Play,1,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773625,Ousmane Dembélé,Barcelona,21.9207664099593,0.057337197078565764,False,Left Foot,Open Play,0,0,1,Normal
+3773625,Lionel Andrés Messi Cuccittini,Barcelona,44.97654944523868,0.04675657183929686,False,Left Foot,Free Kick,0,0,0,Normal
+3773625,Ousmane Dembélé,Barcelona,18.038015411901604,0.06417830176847582,True,Left Foot,Open Play,0,0,1,Normal
+3773625,Sergino Dest,Barcelona,20.415680248279752,0.05674037084888921,False,Left Foot,Open Play,0,0,2,Normal
+3773625,Jesús Navas González,Sevilla,23.934076125892137,0.05377375272950049,False,Left Foot,Open Play,0,1,1,Normal
+3773625,Ousmane Dembélé,Barcelona,11.16288493177279,0.058500847222139565,False,Right Foot,Open Play,1,0,1,Normal
+3773625,Sergino Dest,Barcelona,13.446189051177289,0.0535349279073339,False,Right Foot,Open Play,1,0,0,Normal
+3773625,Lionel Andrés Messi Cuccittini,Barcelona,17.042593699317017,0.0629452077082254,False,Left Foot,Open Play,1,0,1,Normal
+3773625,Sergio Escudero Palomo,Sevilla,13.155227098001767,0.061248155636649676,False,Head,Open Play,0,1,2,Normal
+3773625,Jesús Navas González,Sevilla,29.546573405388312,0.06364143213951468,False,Right Foot,Open Play,0,1,2,Normal
+3773625,Lionel Andrés Messi Cuccittini,Barcelona,10.01848291908511,0.05980150509325399,False,Left Foot,Open Play,0,0,2,Normal
+3773625,Lionel Andrés Messi Cuccittini,Barcelona,4.875448697299559,0.05688765486045917,True,Right Foot,Open Play,1,1,2,Normal

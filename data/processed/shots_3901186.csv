@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.42340584799788,0.05624609576539831,False,Left Foot,Open Play,0,0,2,Normal
-6.706713054842889,0.05734154506230872,False,Head,Open Play,0,0,4,Normal
-20.79326814139615,0.054524308398338085,False,Left Foot,Open Play,0,1,1,Normal
-16.10279478848314,0.06122869548869754,False,Left Foot,Open Play,1,0,1,Normal
-34.831307756097814,0.06551540116920958,False,Right Foot,Open Play,1,0,0,Half Volley
-24.346046907044272,0.0601062931717613,False,Right Foot,Open Play,0,0,2,Normal
-19.112822920751398,0.06509592842092925,False,Right Foot,Open Play,1,0,1,Normal
-20.220039564748628,0.0647291145185407,False,Right Foot,Open Play,1,0,1,Normal
-24.73236745643247,0.0586254875903492,False,Right Foot,Open Play,1,0,3,Normal
-32.43763246601083,0.07249118251780147,False,Right Foot,Open Play,0,0,1,Normal
-20.026232796010333,0.06568790165570702,False,Left Foot,Open Play,0,0,1,Half Volley
-25.536248745655662,0.06930891738285377,False,Right Foot,Open Play,0,1,2,Normal
-13.724430771438207,0.06175063281171983,False,Left Foot,Open Play,0,1,2,Normal
-4.429446918070026,0.055713348787741174,True,Head,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901186,Rachid Ghezzal,Lyon,28.42340584799788,0.05624609576539831,False,Left Foot,Open Play,0,0,2,Normal
+3901186,Samuel Yves Umtiti,Lyon,6.706713054842889,0.05734154506230872,False,Head,Open Play,0,0,4,Normal
+3901186,Youssouf Sabaly,Nantes,20.79326814139615,0.054524308398338085,False,Left Foot,Open Play,0,1,1,Normal
+3901186,Corentin Tolisso,Lyon,16.10279478848314,0.06122869548869754,False,Left Foot,Open Play,1,0,1,Normal
+3901186,Guillaume Gillet,Nantes,34.831307756097814,0.06551540116920958,False,Right Foot,Open Play,1,0,0,Half Volley
+3901186,Sergi Darder Moll,Lyon,24.346046907044272,0.0601062931717613,False,Right Foot,Open Play,0,0,2,Normal
+3901186,Adrien Thomasson,Nantes,19.112822920751398,0.06509592842092925,False,Right Foot,Open Play,1,0,1,Normal
+3901186,Guillaume Gillet,Nantes,20.220039564748628,0.0647291145185407,False,Right Foot,Open Play,1,0,1,Normal
+3901186,Alejandro Bedoya,Nantes,24.73236745643247,0.0586254875903492,False,Right Foot,Open Play,1,0,3,Normal
+3901186,Léo Dubois,Nantes,32.43763246601083,0.07249118251780147,False,Right Foot,Open Play,0,0,1,Normal
+3901186,Adrien Thomasson,Nantes,20.026232796010333,0.06568790165570702,False,Left Foot,Open Play,0,0,1,Half Volley
+3901186,Jordan Ferri,Lyon,25.536248745655662,0.06930891738285377,False,Right Foot,Open Play,0,1,2,Normal
+3901186,Rachid Ghezzal,Lyon,13.724430771438207,0.06175063281171983,False,Left Foot,Open Play,0,1,2,Normal
+3901186,Gaëtan Perrin,Lyon,4.429446918070026,0.055713348787741174,True,Head,Open Play,0,0,2,Normal
+3901186,Alexandre Lacazette,Lyon,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal

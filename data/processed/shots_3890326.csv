@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.123734488813895,0.05978817984939102,False,Left Foot,Open Play,1,0,2,Half Volley
-28.084515306481613,0.0695528190769896,False,Right Foot,Open Play,0,0,1,Normal
-13.285330255586425,0.05842972084705846,False,Right Foot,Open Play,1,1,2,Half Volley
-47.128865889176666,0.06905698626782619,False,Right Foot,Open Play,0,0,0,Normal
-36.687463798959996,0.07748861839665176,False,Right Foot,Open Play,0,0,1,Normal
-31.849646779831016,0.07209079326788899,False,Left Foot,Open Play,1,0,0,Half Volley
-24.90642487391556,0.049716761059880814,False,Right Foot,Open Play,1,0,0,Half Volley
-7.624303246854756,0.05695534575001717,False,Head,Open Play,0,0,4,Normal
-15.36391877093862,0.05549262878297074,False,Right Foot,Open Play,1,0,2,Normal
-11.326517558367179,0.05247771423929526,False,Right Foot,Open Play,0,0,1,Half Volley
-14.945902448497383,0.06254723580169028,False,Right Foot,Open Play,0,0,6,Normal
-15.033296378372912,0.05360343763839017,False,Right Foot,Open Play,0,1,1,Normal
-25.034775812856804,0.05571910971279924,False,Right Foot,Open Play,1,0,2,Half Volley
-23.617789905069436,0.05438145392004054,False,Right Foot,Open Play,1,0,2,Half Volley
-26.015572259706303,0.06731256116135231,False,Right Foot,Open Play,0,0,4,Half Volley
-14.975313018431374,0.06139619803579336,False,Right Foot,Open Play,1,0,2,Volley
-23.294849216082085,0.06555582146013321,False,Right Foot,Open Play,1,0,1,Volley
-6.38905313798531,0.054908449179512285,False,Head,Open Play,0,1,2,Normal
-14.003570973148241,0.055291666943626264,False,Head,Open Play,0,0,1,Normal
-26.185874054535596,0.05823086638387157,True,Left Foot,Open Play,0,0,2,Normal
-23.36942446873692,0.06377096428710569,False,Right Foot,Open Play,1,0,2,Half Volley
-18.157092278225605,0.05567570683067373,True,Right Foot,Open Play,0,0,1,Normal
-17.711578134090704,0.05121210491736991,False,Right Foot,Open Play,1,0,1,Normal
-9.408506789071266,0.058383125585645505,False,Head,Open Play,0,0,2,Normal
-12.837834708392217,0.06130334527053293,False,Head,Open Play,0,0,2,Normal
-29.372095601097303,0.05821105172571788,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890326,Mathew Leckie,Ingolstadt,10.123734488813895,0.05978817984939102,False,Left Foot,Open Play,1,0,2,Half Volley
+3890326,Pascal Groß,Ingolstadt,28.084515306481613,0.0695528190769896,False,Right Foot,Open Play,0,0,1,Normal
+3890326,Alexander Meier,Eintracht Frankfurt,13.285330255586425,0.05842972084705846,False,Right Foot,Open Play,1,1,2,Half Volley
+3890326,Roger de Oliveira Bernardo,Ingolstadt,47.128865889176666,0.06905698626782619,False,Right Foot,Open Play,0,0,0,Normal
+3890326,Marc Stendera,Eintracht Frankfurt,36.687463798959996,0.07748861839665176,False,Right Foot,Open Play,0,0,1,Normal
+3890326,Markus Suttner,Ingolstadt,31.849646779831016,0.07209079326788899,False,Left Foot,Open Play,1,0,0,Half Volley
+3890326,Max Christiansen,Ingolstadt,24.90642487391556,0.049716761059880814,False,Right Foot,Open Play,1,0,0,Half Volley
+3890326,Benjamin Hübner,Ingolstadt,7.624303246854756,0.05695534575001717,False,Head,Open Play,0,0,4,Normal
+3890326,Max Christiansen,Ingolstadt,15.36391877093862,0.05549262878297074,False,Right Foot,Open Play,1,0,2,Normal
+3890326,Lukas Hinterseer,Ingolstadt,11.326517558367179,0.05247771423929526,False,Right Foot,Open Play,0,0,1,Half Volley
+3890326,Lukas Hinterseer,Ingolstadt,14.945902448497383,0.06254723580169028,False,Right Foot,Open Play,0,0,6,Normal
+3890326,Stefan Aigner,Eintracht Frankfurt,15.033296378372912,0.05360343763839017,False,Right Foot,Open Play,0,1,1,Normal
+3890326,Stefan Aigner,Eintracht Frankfurt,25.034775812856804,0.05571910971279924,False,Right Foot,Open Play,1,0,2,Half Volley
+3890326,Stefan Aigner,Eintracht Frankfurt,23.617789905069436,0.05438145392004054,False,Right Foot,Open Play,1,0,2,Half Volley
+3890326,Luc Castaignos,Eintracht Frankfurt,26.015572259706303,0.06731256116135231,False,Right Foot,Open Play,0,0,4,Half Volley
+3890326,Alexander Meier,Eintracht Frankfurt,14.975313018431374,0.06139619803579336,False,Right Foot,Open Play,1,0,2,Volley
+3890326,Alexander Meier,Eintracht Frankfurt,23.294849216082085,0.06555582146013321,False,Right Foot,Open Play,1,0,1,Volley
+3890326,Stefan Aigner,Eintracht Frankfurt,6.38905313798531,0.054908449179512285,False,Head,Open Play,0,1,2,Normal
+3890326,Pascal Groß,Ingolstadt,14.003570973148241,0.055291666943626264,False,Head,Open Play,0,0,1,Normal
+3890326,Pascal Groß,Ingolstadt,26.185874054535596,0.05823086638387157,True,Left Foot,Open Play,0,0,2,Normal
+3890326,Stefan Lex,Ingolstadt,23.36942446873692,0.06377096428710569,False,Right Foot,Open Play,1,0,2,Half Volley
+3890326,Stefan Lex,Ingolstadt,18.157092278225605,0.05567570683067373,True,Right Foot,Open Play,0,0,1,Normal
+3890326,Stefan Aigner,Eintracht Frankfurt,17.711578134090704,0.05121210491736991,False,Right Foot,Open Play,1,0,1,Normal
+3890326,Alexander Meier,Eintracht Frankfurt,9.408506789071266,0.058383125585645505,False,Head,Open Play,0,0,2,Normal
+3890326,Alfredo Morales,Ingolstadt,12.837834708392217,0.06130334527053293,False,Head,Open Play,0,0,2,Normal
+3890326,Aleksandar Ignjovski,Eintracht Frankfurt,29.372095601097303,0.05821105172571788,False,Left Foot,Open Play,0,0,2,Normal

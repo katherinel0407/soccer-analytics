@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.617196351760384,0.0646861923153663,False,Right Foot,Open Play,1,0,0,Volley
-15.789236840328924,0.0542405463340605,False,Right Foot,Open Play,0,0,3,Normal
-31.358890286488137,0.07373848093964622,False,Right Foot,Open Play,1,0,1,Half Volley
-14.6649241389105,0.061900418116086625,False,Left Foot,Open Play,0,0,1,Normal
-23.63937393418024,0.06778510544878394,False,Left Foot,Open Play,0,0,2,Normal
-9.835141076771603,0.05504615983685014,False,Head,Open Play,0,1,1,Normal
-24.724481794367303,0.06475431149484562,False,Right Foot,Open Play,1,1,2,Normal
-9.871676655968827,0.05780753922674419,False,Head,Open Play,0,1,2,Normal
-13.78985134075056,0.05827686043055616,False,Left Foot,Open Play,0,1,4,Normal
-19.968475154603066,0.06466087255596314,False,Right Foot,Open Play,1,0,4,Normal
-13.736447866897763,0.05993417449359149,False,Right Foot,Open Play,1,0,4,Normal
-6.008327554319923,0.05762715714222564,False,Head,Open Play,0,1,4,Normal
-10.606601717798208,0.0537967125028608,False,Left Foot,Open Play,1,0,1,Volley
-9.803060746521973,0.059500484976357154,False,Head,Open Play,0,1,2,Normal
-18.97076698502198,0.060614269262461024,False,Right Foot,Open Play,0,1,2,Normal
-30.01233079918985,0.07099984614489586,False,Right Foot,Open Play,1,0,1,Half Volley
-25.57049080483204,0.05130495512221647,False,Right Foot,Open Play,1,0,1,Half Volley
-22.480435938833576,0.06331900742926262,False,Left Foot,Open Play,1,0,1,Normal
-13.998928530426886,0.05754557800279946,False,Left Foot,Open Play,1,1,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890426,Alexander Esswein,Augsburg,18.617196351760384,0.0646861923153663,False,Right Foot,Open Play,1,0,0,Volley
+3890426,Dong-Won Ji,Augsburg,15.789236840328924,0.0542405463340605,False,Right Foot,Open Play,0,0,3,Normal
+3890426,Alexander Meier,Eintracht Frankfurt,31.358890286488137,0.07373848093964622,False,Right Foot,Open Play,1,0,1,Half Volley
+3890426,Daniel Baier,Augsburg,14.6649241389105,0.061900418116086625,False,Left Foot,Open Play,0,0,1,Normal
+3890426,Dong-Won Ji,Augsburg,23.63937393418024,0.06778510544878394,False,Left Foot,Open Play,0,0,2,Normal
+3890426,Stefan Aigner,Eintracht Frankfurt,9.835141076771603,0.05504615983685014,False,Head,Open Play,0,1,1,Normal
+3890426,Marc Stendera,Eintracht Frankfurt,24.724481794367303,0.06475431149484562,False,Right Foot,Open Play,1,1,2,Normal
+3890426,Alexander Meier,Eintracht Frankfurt,9.871676655968827,0.05780753922674419,False,Head,Open Play,0,1,2,Normal
+3890426,Raúl Marcelo Bobadilla,Augsburg,13.78985134075056,0.05827686043055616,False,Left Foot,Open Play,0,1,4,Normal
+3890426,Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,19.968475154603066,0.06466087255596314,False,Right Foot,Open Play,1,0,4,Normal
+3890426,Szabolcs Huszti,Eintracht Frankfurt,13.736447866897763,0.05993417449359149,False,Right Foot,Open Play,1,0,4,Normal
+3890426,Alexander Meier,Eintracht Frankfurt,6.008327554319923,0.05762715714222564,False,Head,Open Play,0,1,4,Normal
+3890426,Alexander Meier,Eintracht Frankfurt,10.606601717798208,0.0537967125028608,False,Left Foot,Open Play,1,0,1,Volley
+3890426,Alexander Meier,Eintracht Frankfurt,9.803060746521973,0.059500484976357154,False,Head,Open Play,0,1,2,Normal
+3890426,Stefan Aigner,Eintracht Frankfurt,18.97076698502198,0.060614269262461024,False,Right Foot,Open Play,0,1,2,Normal
+3890426,Jan Morávek,Augsburg,30.01233079918985,0.07099984614489586,False,Right Foot,Open Play,1,0,1,Half Volley
+3890426,Raúl Marcelo Bobadilla,Augsburg,25.57049080483204,0.05130495512221647,False,Right Foot,Open Play,1,0,1,Half Volley
+3890426,Marc Stendera,Eintracht Frankfurt,22.480435938833576,0.06331900742926262,False,Left Foot,Open Play,1,0,1,Normal
+3890426,Szabolcs Huszti,Eintracht Frankfurt,13.998928530426886,0.05754557800279946,False,Left Foot,Open Play,1,1,2,Volley

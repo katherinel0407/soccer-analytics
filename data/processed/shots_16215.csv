@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.1725046566048,0.06916866033713315,False,Right Foot,Open Play,0,0,2,Normal
-6.300793600809342,0.05731112123993607,False,Right Foot,Open Play,1,0,2,Volley
-24.793547547698783,0.06297613789625135,True,Left Foot,Free Kick,0,0,0,Normal
-26.705991837039118,0.06276833806149516,False,Left Foot,Free Kick,0,0,0,Normal
-23.867341703675343,0.06723632617462647,False,Right Foot,Open Play,0,0,3,Normal
-7.0,0.05755567023984417,False,Head,Open Play,0,0,2,Normal
-27.29432175380073,0.06962224056370304,False,Left Foot,Open Play,0,0,2,Normal
-21.038060747131613,0.05196413726207614,False,Right Foot,Open Play,0,1,1,Normal
-20.940152817016404,0.06504294879157704,False,Right Foot,Open Play,0,0,2,Normal
-15.231546211727817,0.058105521868089045,False,Left Foot,Open Play,1,0,0,Normal
-19.502820308868152,0.06445205434518722,False,Left Foot,Open Play,1,0,1,Normal
-14.805404418657401,0.05428579315460195,False,Right Foot,Open Play,0,0,2,Normal
-8.302409288875126,0.058008074998194825,False,Head,Open Play,0,1,4,Normal
-11.119802156513403,0.05989199936684482,True,Left Foot,Open Play,1,0,4,Half Volley
-13.600367642089678,0.06096232727806849,False,Left Foot,Open Play,0,0,3,Normal
-23.686494041964078,0.06807198573509507,False,Left Foot,Open Play,0,0,2,Normal
-28.018922177699835,0.05336308238519718,False,Left Foot,Free Kick,0,0,0,Normal
-9.656603957913982,0.058347000475973104,False,Left Foot,Open Play,0,0,1,Normal
-22.023850707812198,0.06611563569341736,False,Left Foot,Open Play,0,0,2,Half Volley
-15.608331108738057,0.06292491854746024,False,Left Foot,Open Play,0,0,1,Normal
-10.270345661174218,0.05925524728164896,True,Right Foot,Open Play,0,0,0,Normal
-15.720050890502863,0.056249404339458055,False,Right Foot,Open Play,0,0,3,Normal
-26.62048083712989,0.06921706614360465,False,Right Foot,Open Play,0,0,1,Half Volley
-11.703418304068267,0.05566152658741294,False,Head,Open Play,0,0,4,Normal
-17.404597093871498,0.06208379025384626,True,Right Foot,Open Play,1,1,1,Normal
-21.740745157422733,0.06672916943876313,False,Right Foot,Open Play,1,0,2,Normal
-20.900956915892625,0.06616066319922365,True,Left Foot,Open Play,1,0,1,Lob
-26.331919793285113,0.06017121097982592,False,Right Foot,Open Play,0,0,1,Normal
-7.22772439983706,0.058124328629421275,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16215,Cristian Tello Herrera,Real Betis,26.1725046566048,0.06916866033713315,False,Right Foot,Open Play,0,0,2,Normal
+16215,Jesé Rodríguez Ruiz,Real Betis,6.300793600809342,0.05731112123993607,False,Right Foot,Open Play,1,0,2,Volley
+16215,Lionel Andrés Messi Cuccittini,Barcelona,24.793547547698783,0.06297613789625135,True,Left Foot,Free Kick,0,0,0,Normal
+16215,Lionel Andrés Messi Cuccittini,Barcelona,26.705991837039118,0.06276833806149516,False,Left Foot,Free Kick,0,0,0,Normal
+16215,Cristian Tello Herrera,Real Betis,23.867341703675343,0.06723632617462647,False,Right Foot,Open Play,0,0,3,Normal
+16215,Sergio Canales Madrazo,Real Betis,7.0,0.05755567023984417,False,Head,Open Play,0,0,2,Normal
+16215,José Andrés Guardado Hernández,Real Betis,27.29432175380073,0.06962224056370304,False,Left Foot,Open Play,0,0,2,Normal
+16215,Sidnei Rechel da Silva Júnior,Real Betis,21.038060747131613,0.05196413726207614,False,Right Foot,Open Play,0,1,1,Normal
+16215,Jesé Rodríguez Ruiz,Real Betis,20.940152817016404,0.06504294879157704,False,Right Foot,Open Play,0,0,2,Normal
+16215,Luis Alberto Suárez Díaz,Barcelona,15.231546211727817,0.058105521868089045,False,Left Foot,Open Play,1,0,0,Normal
+16215,Giovani Lo Celso,Real Betis,19.502820308868152,0.06445205434518722,False,Left Foot,Open Play,1,0,1,Normal
+16215,Luis Alberto Suárez Díaz,Barcelona,14.805404418657401,0.05428579315460195,False,Right Foot,Open Play,0,0,2,Normal
+16215,Gerard Piqué Bernabéu,Barcelona,8.302409288875126,0.058008074998194825,False,Head,Open Play,0,1,4,Normal
+16215,Lionel Andrés Messi Cuccittini,Barcelona,11.119802156513403,0.05989199936684482,True,Left Foot,Open Play,1,0,4,Half Volley
+16215,Luis Alberto Suárez Díaz,Barcelona,13.600367642089678,0.06096232727806849,False,Left Foot,Open Play,0,0,3,Normal
+16215,Giovani Lo Celso,Real Betis,23.686494041964078,0.06807198573509507,False,Left Foot,Open Play,0,0,2,Normal
+16215,Sergio Canales Madrazo,Real Betis,28.018922177699835,0.05336308238519718,False,Left Foot,Free Kick,0,0,0,Normal
+16215,Luis Alberto Suárez Díaz,Barcelona,9.656603957913982,0.058347000475973104,False,Left Foot,Open Play,0,0,1,Normal
+16215,Giovani Lo Celso,Real Betis,22.023850707812198,0.06611563569341736,False,Left Foot,Open Play,0,0,2,Half Volley
+16215,Luis Alberto Suárez Díaz,Barcelona,15.608331108738057,0.06292491854746024,False,Left Foot,Open Play,0,0,1,Normal
+16215,Luis Alberto Suárez Díaz,Barcelona,10.270345661174218,0.05925524728164896,True,Right Foot,Open Play,0,0,0,Normal
+16215,Luis Alberto Suárez Díaz,Barcelona,15.720050890502863,0.056249404339458055,False,Right Foot,Open Play,0,0,3,Normal
+16215,Ivan Rakitić,Barcelona,26.62048083712989,0.06921706614360465,False,Right Foot,Open Play,0,0,1,Half Volley
+16215,Lorenzo Jesús Morón García,Real Betis,11.703418304068267,0.05566152658741294,False,Head,Open Play,0,0,4,Normal
+16215,Lorenzo Jesús Morón García,Real Betis,17.404597093871498,0.06208379025384626,True,Right Foot,Open Play,1,1,1,Normal
+16215,Arturo Erasmo Vidal Pardo,Barcelona,21.740745157422733,0.06672916943876313,False,Right Foot,Open Play,1,0,2,Normal
+16215,Lionel Andrés Messi Cuccittini,Barcelona,20.900956915892625,0.06616066319922365,True,Left Foot,Open Play,1,0,1,Lob
+16215,Arturo Erasmo Vidal Pardo,Barcelona,26.331919793285113,0.06017121097982592,False,Right Foot,Open Play,0,0,1,Normal
+16215,Lionel Andrés Messi Cuccittini,Barcelona,7.22772439983706,0.058124328629421275,False,Left Foot,Open Play,0,0,2,Normal

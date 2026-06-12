@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.278949641595936,0.06412072397041459,True,Left Foot,Open Play,1,0,1,Normal
-17.465680633745716,0.06378410774422709,False,Left Foot,Open Play,0,1,1,Normal
-20.711832367031175,0.06310302196974796,False,Left Foot,Open Play,0,1,2,Normal
-17.813758727455586,0.06171825576004786,False,Left Foot,Open Play,0,0,1,Normal
-8.134494452638101,0.05805288163744076,False,Head,Open Play,0,0,3,Normal
-14.368368035375484,0.06003193145116419,False,Head,Open Play,0,1,1,Normal
-21.45739965606271,0.04937264570673381,False,Right Foot,Open Play,0,0,1,Normal
-18.017769007288333,0.061855859633734835,False,Left Foot,Open Play,1,1,3,Normal
-21.286850401127925,0.06540535166789338,False,Left Foot,Open Play,0,0,1,Normal
-6.2936475910238245,0.05655976712556955,True,Other,Open Play,0,0,1,Normal
-16.858232410309217,0.05452930867572828,False,Right Foot,Open Play,0,0,1,Normal
-23.984161440417296,0.06815964907815397,False,Left Foot,Open Play,0,0,1,Normal
-18.1463494951464,0.06122441077227657,False,Left Foot,Open Play,0,0,2,Normal
-31.60284797292801,0.07236438560340398,False,Left Foot,Free Kick,0,0,0,Normal
-17.08917786202718,0.06290482500021038,False,Left Foot,Open Play,1,0,0,Normal
-22.218235753542633,0.06369488550171558,False,Right Foot,Open Play,1,1,1,Normal
-25.217850820401008,0.05732020299170231,False,Right Foot,Open Play,0,1,1,Normal
-13.315029102484157,0.05839158194736995,False,Right Foot,Open Play,1,0,2,Normal
-13.245754036671528,0.06050043625551019,False,Right Foot,Open Play,1,0,2,Normal
-24.60589360295618,0.06860471915307513,False,Right Foot,Free Kick,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-10.317460927960907,0.05867868643960442,False,Head,Open Play,0,1,4,Normal
-12.949517365523706,0.06133844099990181,False,Head,Open Play,0,1,5,Normal
-27.54087870784082,0.06222393801275387,False,Left Foot,Open Play,0,1,2,Normal
-19.802272596851097,0.06313075098085089,False,Right Foot,Open Play,0,0,1,Normal
-13.865424623862042,0.06125541673334466,False,Left Foot,Open Play,0,1,2,Normal
-9.765244492586959,0.059329502453579486,False,Head,Open Play,0,0,1,Normal
-5.685068161420753,0.05489109617610326,False,Head,Open Play,0,0,4,Normal
-9.46414285606468,0.05888768497922954,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890270,Kevin Volland,Hoffenheim,18.278949641595936,0.06412072397041459,True,Left Foot,Open Play,1,0,1,Normal
+3890270,Douglas Costa de Souza,Bayern Munich,17.465680633745716,0.06378410774422709,False,Left Foot,Open Play,0,1,1,Normal
+3890270,Arjen Robben,Bayern Munich,20.711832367031175,0.06310302196974796,False,Left Foot,Open Play,0,1,2,Normal
+3890270,Douglas Costa de Souza,Bayern Munich,17.813758727455586,0.06171825576004786,False,Left Foot,Open Play,0,0,1,Normal
+3890270,Fabian Lukas Schär,Hoffenheim,8.134494452638101,0.05805288163744076,False,Head,Open Play,0,0,3,Normal
+3890270,Thomas Müller,Bayern Munich,14.368368035375484,0.06003193145116419,False,Head,Open Play,0,1,1,Normal
+3890270,Thomas Müller,Bayern Munich,21.45739965606271,0.04937264570673381,False,Right Foot,Open Play,0,0,1,Normal
+3890270,Douglas Costa de Souza,Bayern Munich,18.017769007288333,0.061855859633734835,False,Left Foot,Open Play,1,1,3,Normal
+3890270,Douglas Costa de Souza,Bayern Munich,21.286850401127925,0.06540535166789338,False,Left Foot,Open Play,0,0,1,Normal
+3890270,Thomas Müller,Bayern Munich,6.2936475910238245,0.05655976712556955,True,Other,Open Play,0,0,1,Normal
+3890270,Arjen Robben,Bayern Munich,16.858232410309217,0.05452930867572828,False,Right Foot,Open Play,0,0,1,Normal
+3890270,Kevin Volland,Hoffenheim,23.984161440417296,0.06815964907815397,False,Left Foot,Open Play,0,0,1,Normal
+3890270,Steven Zuber,Hoffenheim,18.1463494951464,0.06122441077227657,False,Left Foot,Open Play,0,0,2,Normal
+3890270,David Olatukunbo Alaba,Bayern Munich,31.60284797292801,0.07236438560340398,False,Left Foot,Free Kick,0,0,0,Normal
+3890270,Douglas Costa de Souza,Bayern Munich,17.08917786202718,0.06290482500021038,False,Left Foot,Open Play,1,0,0,Normal
+3890270,Arturo Erasmo Vidal Pardo,Bayern Munich,22.218235753542633,0.06369488550171558,False,Right Foot,Open Play,1,1,1,Normal
+3890270,Thomas Müller,Bayern Munich,25.217850820401008,0.05732020299170231,False,Right Foot,Open Play,0,1,1,Normal
+3890270,Robert Lewandowski,Bayern Munich,13.315029102484157,0.05839158194736995,False,Right Foot,Open Play,1,0,2,Normal
+3890270,Thomas Müller,Bayern Munich,13.245754036671528,0.06050043625551019,False,Right Foot,Open Play,1,0,2,Normal
+3890270,Sebastian Rudy,Hoffenheim,24.60589360295618,0.06860471915307513,False,Right Foot,Free Kick,0,0,0,Normal
+3890270,Eugen Polanski,Hoffenheim,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3890270,Thomas Müller,Bayern Munich,10.317460927960907,0.05867868643960442,False,Head,Open Play,0,1,4,Normal
+3890270,Fabian Lukas Schär,Hoffenheim,12.949517365523706,0.06133844099990181,False,Head,Open Play,0,1,5,Normal
+3890270,Mark Uth,Hoffenheim,27.54087870784082,0.06222393801275387,False,Left Foot,Open Play,0,1,2,Normal
+3890270,Robert Lewandowski,Bayern Munich,19.802272596851097,0.06313075098085089,False,Right Foot,Open Play,0,0,1,Normal
+3890270,Robert Lewandowski,Bayern Munich,13.865424623862042,0.06125541673334466,False,Left Foot,Open Play,0,1,2,Normal
+3890270,Robert Lewandowski,Bayern Munich,9.765244492586959,0.059329502453579486,False,Head,Open Play,0,0,1,Normal
+3890270,Thomas Müller,Bayern Munich,5.685068161420753,0.05489109617610326,False,Head,Open Play,0,0,4,Normal
+3890270,Robert Lewandowski,Bayern Munich,9.46414285606468,0.05888768497922954,True,Right Foot,Open Play,1,0,2,Normal

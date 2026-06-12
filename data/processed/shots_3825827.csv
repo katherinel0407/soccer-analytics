@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.1044544632553,0.05961387312448459,False,Right Foot,Open Play,1,0,0,Half Volley
-46.32591067642383,0.08106806310313888,False,Right Foot,Open Play,0,0,2,Normal
-14.702720836634288,0.06155083566721837,False,Left Foot,Open Play,0,0,2,Normal
-12.701574705523717,0.06126213044017906,False,Head,Open Play,0,0,4,Normal
-7.217340230306456,0.05747364030453542,False,Head,Open Play,0,1,2,Normal
-28.293638861058508,0.0657647863152716,False,Right Foot,Free Kick,0,0,0,Normal
-14.657762448614038,0.06019596364546709,False,Head,Open Play,0,0,3,Normal
-27.166155414412255,0.057835608287264834,False,Right Foot,Open Play,0,0,3,Normal
-12.826534995859165,0.05895709616842667,False,Head,Open Play,0,1,1,Normal
-31.24307923364789,0.07146880477050988,False,Right Foot,Open Play,0,0,1,Normal
-22.93665189167765,0.06553869791720715,False,Left Foot,Open Play,1,0,3,Normal
-11.964113005150029,0.060342097521226344,False,Head,Open Play,0,1,3,Normal
-21.054453210663056,0.056727860149783836,False,Left Foot,Open Play,0,1,1,Normal
-26.29315500277591,0.06859705483872551,False,Right Foot,Open Play,0,0,1,Normal
-26.552965936030574,0.057402190715935796,False,Right Foot,Open Play,0,0,0,Normal
-18.27265716856747,0.053988942036681274,False,Right Foot,Open Play,0,0,1,Normal
-25.930676813380707,0.06450464523736503,False,Right Foot,Open Play,0,0,0,Normal
-8.134494452638092,0.05683526150247,True,Head,Open Play,0,0,2,Normal
-12.403628501370076,0.05419597913474281,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825827,Joan Verdú Fernández,Levante UD,10.1044544632553,0.05961387312448459,False,Right Foot,Open Play,1,0,0,Half Volley
+3825827,Daniel Ceballos Fernández,Real Betis,46.32591067642383,0.08106806310313888,False,Right Foot,Open Play,0,0,2,Normal
+3825827,Giuseppe Rossi,Levante UD,14.702720836634288,0.06155083566721837,False,Left Foot,Open Play,0,0,2,Normal
+3825827,Germán Alejandro Pezzella,Real Betis,12.701574705523717,0.06126213044017906,False,Head,Open Play,0,0,4,Normal
+3825827,Carl Medjani,Levante UD,7.217340230306456,0.05747364030453542,False,Head,Open Play,0,1,2,Normal
+3825827,Joan Verdú Fernández,Levante UD,28.293638861058508,0.0657647863152716,False,Right Foot,Free Kick,0,0,0,Normal
+3825827,Víctor Casadesús Castaño,Levante UD,14.657762448614038,0.06019596364546709,False,Head,Open Play,0,0,3,Normal
+3825827,Víctor Casadesús Castaño,Levante UD,27.166155414412255,0.057835608287264834,False,Right Foot,Open Play,0,0,3,Normal
+3825827,Jefferson Andrés Lerma Solís,Levante UD,12.826534995859165,0.05895709616842667,False,Head,Open Play,0,1,1,Normal
+3825827,Víctor Camarasa Ferrando,Levante UD,31.24307923364789,0.07146880477050988,False,Right Foot,Open Play,0,0,1,Normal
+3825827,Giuseppe Rossi,Levante UD,22.93665189167765,0.06553869791720715,False,Left Foot,Open Play,1,0,3,Normal
+3825827,Ricky van Wolfswinkel,Real Betis,11.964113005150029,0.060342097521226344,False,Head,Open Play,0,1,3,Normal
+3825827,Jefferson Andrés Lerma Solís,Levante UD,21.054453210663056,0.056727860149783836,False,Left Foot,Open Play,0,1,1,Normal
+3825827,Joaquín Sánchez Rodríguez,Real Betis,26.29315500277591,0.06859705483872551,False,Right Foot,Open Play,0,0,1,Normal
+3825827,Jefferson Andrés Lerma Solís,Levante UD,26.552965936030574,0.057402190715935796,False,Right Foot,Open Play,0,0,0,Normal
+3825827,Álvaro Cejudo Carmona,Real Betis,18.27265716856747,0.053988942036681274,False,Right Foot,Open Play,0,0,1,Normal
+3825827,Daniel Ceballos Fernández,Real Betis,25.930676813380707,0.06450464523736503,False,Right Foot,Open Play,0,0,0,Normal
+3825827,Rubén Castro Martín,Real Betis,8.134494452638092,0.05683526150247,True,Head,Open Play,0,0,2,Normal
+3825827,José Luis Morales Nogales,Levante UD,12.403628501370076,0.05419597913474281,False,Right Foot,Open Play,1,0,1,Half Volley

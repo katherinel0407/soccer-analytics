@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-37.55063248468659,0.07543934027835941,False,Right Foot,Open Play,0,0,1,Normal
-8.591274643497314,0.05559195943225204,False,Right Foot,Open Play,1,0,2,Half Volley
-29.60422267177437,0.06742768423259954,False,Right Foot,Open Play,0,0,2,Normal
-15.20526224699857,0.06131259459572139,False,Left Foot,Open Play,0,0,3,Normal
-23.572229423624737,0.06727225813653635,False,Left Foot,Open Play,0,0,2,Normal
-37.886673118657434,0.07847383984769464,False,Right Foot,Free Kick,0,0,0,Normal
-10.153324578678648,0.054771398834280165,False,Right Foot,Open Play,1,0,2,Half Volley
-3.966106403010387,0.055462716533454526,True,Right Foot,Open Play,1,0,3,Half Volley
-28.62114602876691,0.0677935868790093,False,Right Foot,Open Play,0,0,1,Normal
-7.930952023559344,0.05765539210609409,False,Right Foot,Open Play,1,0,3,Half Volley
-16.462381358722073,0.06343985675442813,False,Right Foot,Open Play,1,0,2,Lob
-16.823792675850473,0.051503567247019016,False,Right Foot,Open Play,0,0,1,Normal
-10.64706532336493,0.053730620392725886,False,Right Foot,Open Play,1,1,2,Half Volley
-9.761659694949422,0.055809992926806634,False,Right Foot,Open Play,1,0,3,Half Volley
-23.338380406532067,0.06732688425583025,False,Right Foot,Open Play,1,0,2,Normal
-7.710382610480488,0.05821187655378091,False,Head,Open Play,0,1,2,Diving Header
-13.200378782444087,0.0601341699468526,False,Right Foot,Open Play,0,0,3,Half Volley
-11.314592347937237,0.06049154839863646,True,Right Foot,Open Play,1,0,0,Half Volley
-21.21508896988179,0.05455762188094418,False,Right Foot,Open Play,0,0,1,Normal
-11.45862120850497,0.059961965675086895,False,Right Foot,Open Play,1,1,2,Volley
-7.249827584156738,0.05832830282282327,False,Right Foot,Open Play,1,1,4,Volley
-27.586228448267445,0.06407173653981314,False,Right Foot,Open Play,1,0,1,Volley
-12.714165328483034,0.0596659979287705,False,Head,Open Play,0,1,3,Normal
-17.92344832893492,0.061224021168309974,False,Left Foot,Open Play,1,1,1,Half Volley
-14.426711336961036,0.05677900461520463,False,Left Foot,Open Play,1,0,2,Normal
-22.343902971504324,0.06350804770310989,False,Right Foot,Open Play,1,0,1,Normal
-27.679776010654415,0.06559313433130809,False,Right Foot,Open Play,0,1,0,Normal
-31.5824318253044,0.06564305408263998,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912536,Manuela Giugliano,AS Roma W,37.55063248468659,0.07543934027835941,False,Right Foot,Open Play,0,0,1,Normal
+3912536,Anja Sønstevold,AS Roma W,8.591274643497314,0.05559195943225204,False,Right Foot,Open Play,1,0,2,Half Volley
+3912536,Benedetta Glionna,AS Roma W,29.60422267177437,0.06742768423259954,False,Right Foot,Open Play,0,0,2,Normal
+3912536,Valentina Giacinti,AS Roma W,15.20526224699857,0.06131259459572139,False,Left Foot,Open Play,0,0,3,Normal
+3912536,Manuela Giugliano,AS Roma W,23.572229423624737,0.06727225813653635,False,Left Foot,Open Play,0,0,2,Normal
+3912536,Benedetta Glionna,AS Roma W,37.886673118657434,0.07847383984769464,False,Right Foot,Free Kick,0,0,0,Normal
+3912536,Valentina Giacinti,AS Roma W,10.153324578678648,0.054771398834280165,False,Right Foot,Open Play,1,0,2,Half Volley
+3912536,Elena Linari,AS Roma W,3.966106403010387,0.055462716533454526,True,Right Foot,Open Play,1,0,3,Half Volley
+3912536,Laura Feiersinger,AS Roma W,28.62114602876691,0.0677935868790093,False,Right Foot,Open Play,0,0,1,Normal
+3912536,Valentina Giacinti,AS Roma W,7.930952023559344,0.05765539210609409,False,Right Foot,Open Play,1,0,3,Half Volley
+3912536,Valentina Giacinti,AS Roma W,16.462381358722073,0.06343985675442813,False,Right Foot,Open Play,1,0,2,Lob
+3912536,Tatiely Cristina Sena das Neves,Sampdoria W,16.823792675850473,0.051503567247019016,False,Right Foot,Open Play,0,0,1,Normal
+3912536,Nora Heroum,Sampdoria W,10.64706532336493,0.053730620392725886,False,Right Foot,Open Play,1,1,2,Half Volley
+3912536,Evelyne Viens,AS Roma W,9.761659694949422,0.055809992926806634,False,Right Foot,Open Play,1,0,3,Half Volley
+3912536,Michela Giordano,Sampdoria W,23.338380406532067,0.06732688425583025,False,Right Foot,Open Play,1,0,2,Normal
+3912536,Elena Pisani,Sampdoria W,7.710382610480488,0.05821187655378091,False,Head,Open Play,0,1,2,Diving Header
+3912536,Laura Feiersinger,AS Roma W,13.200378782444087,0.0601341699468526,False,Right Foot,Open Play,0,0,3,Half Volley
+3912536,Giada Greggi,AS Roma W,11.314592347937237,0.06049154839863646,True,Right Foot,Open Play,1,0,0,Half Volley
+3912536,Evelyne Viens,AS Roma W,21.21508896988179,0.05455762188094418,False,Right Foot,Open Play,0,0,1,Normal
+3912536,Saki Kumagai,AS Roma W,11.45862120850497,0.059961965675086895,False,Right Foot,Open Play,1,1,2,Volley
+3912536,Elena Linari,AS Roma W,7.249827584156738,0.05832830282282327,False,Right Foot,Open Play,1,1,4,Volley
+3912536,Manuela Giugliano,AS Roma W,27.586228448267445,0.06407173653981314,False,Right Foot,Open Play,1,0,1,Volley
+3912536,Elena Linari,AS Roma W,12.714165328483034,0.0596659979287705,False,Head,Open Play,0,1,3,Normal
+3912536,Emilie Haavi,AS Roma W,17.92344832893492,0.061224021168309974,False,Left Foot,Open Play,1,1,1,Half Volley
+3912536,Manuela Giugliano,AS Roma W,14.426711336961036,0.05677900461520463,False,Left Foot,Open Play,1,0,2,Normal
+3912536,Giada Greggi,AS Roma W,22.343902971504324,0.06350804770310989,False,Right Foot,Open Play,1,0,1,Normal
+3912536,Manuela Giugliano,AS Roma W,27.679776010654415,0.06559313433130809,False,Right Foot,Open Play,0,1,0,Normal
+3912536,Victoria Dellaperuta,Sampdoria W,31.5824318253044,0.06564305408263998,False,Left Foot,Open Play,0,0,0,Normal

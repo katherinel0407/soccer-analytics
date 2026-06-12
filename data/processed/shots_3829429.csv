@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.406138698087094,0.057145160172780624,False,Right Foot,Open Play,1,1,2,Normal
-27.548684179103727,0.0707644918401066,False,Right Foot,Free Kick,0,0,0,Normal
-19.209372712298546,0.053816974541706926,False,Right Foot,Open Play,0,1,1,Normal
-7.742092740338362,0.05582039675154634,False,Head,Open Play,0,1,4,Normal
-9.386160024205846,0.059156512502271164,False,Head,Open Play,0,1,3,Normal
-6.815423684555492,0.058083188907606775,False,Head,Open Play,0,1,2,Normal
-13.360014970051497,0.05423686059027717,False,Right Foot,Open Play,1,0,0,Volley
-25.157503850740035,0.06464146529236654,False,Left Foot,Open Play,0,1,1,Normal
-21.18537231204587,0.0627415760960495,False,Right Foot,Open Play,1,0,0,Normal
-24.995399576722118,0.066552888613828,False,Right Foot,Open Play,0,0,1,Normal
-13.83112432161608,0.061926834370463625,False,Head,Open Play,0,1,1,Normal
-29.91270633025371,0.07152724482539632,True,Right Foot,Open Play,0,0,1,Normal
-17.681911661356075,0.05416639790235877,False,Right Foot,Open Play,0,1,1,Normal
-23.151025895195232,0.06282532508908165,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829429,Kévin Bérigaud,Montpellier,11.406138698087094,0.057145160172780624,False,Right Foot,Open Play,1,1,2,Normal
+3829429,Pedro Henrique Konzen Medina da Silva,Rennes,27.548684179103727,0.0707644918401066,False,Right Foot,Free Kick,0,0,0,Normal
+3829429,Paul Lasne,Montpellier,19.209372712298546,0.053816974541706926,False,Right Foot,Open Play,0,1,1,Normal
+3829429,Edson André Sitoe,Rennes,7.742092740338362,0.05582039675154634,False,Head,Open Play,0,1,4,Normal
+3829429,Giovanni-Guy Yann Sio,Rennes,9.386160024205846,0.059156512502271164,False,Head,Open Play,0,1,3,Normal
+3829429,Giovanni-Guy Yann Sio,Rennes,6.815423684555492,0.058083188907606775,False,Head,Open Play,0,1,2,Normal
+3829429,Yacouba Sylla,Rennes,13.360014970051497,0.05423686059027717,False,Right Foot,Open Play,1,0,0,Volley
+3829429,Pedro Henrique Konzen Medina da Silva,Rennes,25.157503850740035,0.06464146529236654,False,Left Foot,Open Play,0,1,1,Normal
+3829429,Benjamin André,Rennes,21.18537231204587,0.0627415760960495,False,Right Foot,Open Play,1,0,0,Normal
+3829429,Bryan Dabo,Montpellier,24.995399576722118,0.066552888613828,False,Right Foot,Open Play,0,0,1,Normal
+3829429,Giovanni-Guy Yann Sio,Rennes,13.83112432161608,0.061926834370463625,False,Head,Open Play,0,1,1,Normal
+3829429,Kamil Grosicki,Rennes,29.91270633025371,0.07152724482539632,True,Right Foot,Open Play,0,0,1,Normal
+3829429,Kamil Grosicki,Rennes,17.681911661356075,0.05416639790235877,False,Right Foot,Open Play,0,1,1,Normal
+3829429,Djamel Bakar,Montpellier,23.151025895195232,0.06282532508908165,False,Right Foot,Open Play,1,0,2,Half Volley

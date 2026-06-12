@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.514911485552524,0.0698079669105546,False,Right Foot,Open Play,1,0,0,Volley
-11.473883387938022,0.05667004433311106,False,Right Foot,Open Play,1,0,2,Normal
-27.351416782316775,0.06834314217671107,False,Right Foot,Open Play,0,0,1,Half Volley
-9.326306878931229,0.05824088294737027,True,Right Foot,Open Play,1,0,1,Normal
-18.06792738528689,0.06335109657513302,False,Right Foot,Open Play,1,0,0,Normal
-28.61415733513744,0.06768675638201818,False,Right Foot,Open Play,0,1,2,Normal
-22.699118925632334,0.05466419325110023,False,Left Foot,Open Play,0,0,1,Normal
-15.859697348940804,0.06288146496674825,False,Right Foot,Open Play,1,0,2,Volley
-10.41729331448434,0.05871930950123271,True,Head,Open Play,0,0,4,Normal
-26.62423707827137,0.07001479563795462,False,Right Foot,Open Play,1,0,1,Normal
-25.64000780031082,0.05782135323550609,False,Left Foot,Open Play,0,1,1,Normal
-11.452947218947614,0.056888914098591106,False,Head,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-18.284966502567073,0.06459866951795504,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900636,Adryan Oliveira Tavares,Nantes,29.514911485552524,0.0698079669105546,False,Right Foot,Open Play,1,0,0,Volley
+3900636,Alejandro Bedoya,Nantes,11.473883387938022,0.05667004433311106,False,Right Foot,Open Play,1,0,2,Normal
+3900636,Lorik Agim Cana,Nantes,27.351416782316775,0.06834314217671107,False,Right Foot,Open Play,0,0,1,Half Volley
+3900636,Adryan Oliveira Tavares,Nantes,9.326306878931229,0.05824088294737027,True,Right Foot,Open Play,1,0,1,Normal
+3900636,Guillaume Gillet,Nantes,18.06792738528689,0.06335109657513302,False,Right Foot,Open Play,1,0,0,Normal
+3900636,Benjamin Jeannot,Lorient,28.61415733513744,0.06768675638201818,False,Right Foot,Open Play,0,1,2,Normal
+3900636,Youssouf Sabaly,Nantes,22.699118925632334,0.05466419325110023,False,Left Foot,Open Play,0,0,1,Normal
+3900636,Lindsay Rose,Lorient,15.859697348940804,0.06288146496674825,False,Right Foot,Open Play,1,0,2,Volley
+3900636,Emiliano Sala,Nantes,10.41729331448434,0.05871930950123271,True,Head,Open Play,0,0,4,Normal
+3900636,Benjamin Moukandjo Bilé,Lorient,26.62423707827137,0.07001479563795462,False,Right Foot,Open Play,1,0,1,Normal
+3900636,Adrien Thomasson,Nantes,25.64000780031082,0.05782135323550609,False,Left Foot,Open Play,0,1,1,Normal
+3900636,Alejandro Bedoya,Nantes,11.452947218947614,0.056888914098591106,False,Head,Open Play,0,1,2,Normal
+3900636,Benjamin Moukandjo Bilé,Lorient,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3900636,Rémi Gomis,Nantes,18.284966502567073,0.06459866951795504,False,Right Foot,Open Play,0,0,1,Normal

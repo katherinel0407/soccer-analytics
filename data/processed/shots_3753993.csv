@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.846233655877356,0.06710291449307715,False,Right Foot,Open Play,1,0,1,Normal
-25.68598839834667,0.06947851278934614,False,Left Foot,Open Play,0,0,1,Normal
-27.182531155137113,0.05523323871541019,False,Left Foot,Free Kick,0,0,0,Normal
-13.290974381135499,0.06111779429935596,False,Right Foot,Open Play,1,1,2,Volley
-24.134622433342518,0.06835764388986695,False,Right Foot,Open Play,1,0,0,Normal
-28.504736448527282,0.054915436477226735,False,Left Foot,Open Play,0,0,1,Normal
-7.156116265125937,0.058346889091763866,True,Left Foot,Open Play,1,0,4,Normal
-31.232034836046143,0.07055710777626958,False,Right Foot,Open Play,0,1,2,Normal
-29.695285821153497,0.07240288550513548,False,Right Foot,Free Kick,0,0,0,Normal
-14.263590010933433,0.05400278168880615,True,Right Foot,Open Play,0,0,2,Normal
-11.130588483993108,0.059764532053051524,False,Right Foot,Open Play,0,0,3,Normal
-8.300602387778856,0.05680546236870129,False,Head,Open Play,0,1,3,Normal
-18.69598887462228,0.06352492695342069,False,Left Foot,Open Play,1,0,1,Normal
-26.527155897306443,0.06677572435391005,False,Left Foot,Open Play,0,0,1,Normal
-5.846366392897388,0.05663708079423544,False,Head,Open Play,0,1,5,Normal
-14.080127840328718,0.054901318563260026,True,Right Foot,Open Play,1,0,2,Normal
-22.634486961272177,0.054854490152914624,False,Right Foot,Open Play,0,0,2,Normal
-20.099751242241776,0.0543708952904906,False,Right Foot,Open Play,0,0,1,Normal
-14.839474384222642,0.05445585329025666,False,Head,Open Play,0,0,1,Normal
-27.313000567495326,0.0704634714141569,False,Right Foot,Open Play,0,0,2,Normal
-26.30171097096156,0.06591578541190572,False,Left Foot,Open Play,1,0,0,Normal
-23.113848662652437,0.064906177046115,False,Right Foot,Open Play,0,0,1,Normal
-15.15684663774098,0.05846085028684141,True,Right Foot,Open Play,1,0,2,Volley
-10.18331969448077,0.05993296201370552,False,Head,Open Play,0,0,1,Normal
-16.299693248647355,0.062096683486481945,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753993,Jeremain Lens,Sunderland,34.846233655877356,0.06710291449307715,False,Right Foot,Open Play,1,0,1,Normal
+3753993,Robert Brady,Norwich City,25.68598839834667,0.06947851278934614,False,Left Foot,Open Play,0,0,1,Normal
+3753993,Robert Brady,Norwich City,27.182531155137113,0.05523323871541019,False,Left Foot,Free Kick,0,0,0,Normal
+3753993,Jonathan Howson,Norwich City,13.290974381135499,0.06111779429935596,False,Right Foot,Open Play,1,1,2,Volley
+3753993,Jonathan Howson,Norwich City,24.134622433342518,0.06835764388986695,False,Right Foot,Open Play,1,0,0,Normal
+3753993,Robert Brady,Norwich City,28.504736448527282,0.054915436477226735,False,Left Foot,Open Play,0,0,1,Normal
+3753993,Russell Martin,Norwich City,7.156116265125937,0.058346889091763866,True,Left Foot,Open Play,1,0,4,Normal
+3753993,Jeremain Lens,Sunderland,31.232034836046143,0.07055710777626958,False,Right Foot,Open Play,0,1,2,Normal
+3753993,Nathan Redmond,Norwich City,29.695285821153497,0.07240288550513548,False,Right Foot,Free Kick,0,0,0,Normal
+3753993,Steven Whittaker,Norwich City,14.263590010933433,0.05400278168880615,True,Right Foot,Open Play,0,0,2,Normal
+3753993,Cameron Jerome,Norwich City,11.130588483993108,0.059764532053051524,False,Right Foot,Open Play,0,0,3,Normal
+3753993,Steven Fletcher,Sunderland,8.300602387778856,0.05680546236870129,False,Head,Open Play,0,1,3,Normal
+3753993,Graham Dorrans,Norwich City,18.69598887462228,0.06352492695342069,False,Left Foot,Open Play,1,0,1,Normal
+3753993,Jeremain Lens,Sunderland,26.527155897306443,0.06677572435391005,False,Left Foot,Open Play,0,0,1,Normal
+3753993,Younes Kaboul,Sunderland,5.846366392897388,0.05663708079423544,False,Head,Open Play,0,1,5,Normal
+3753993,Nathan Redmond,Norwich City,14.080127840328718,0.054901318563260026,True,Right Foot,Open Play,1,0,2,Normal
+3753993,Nathan Redmond,Norwich City,22.634486961272177,0.054854490152914624,False,Right Foot,Open Play,0,0,2,Normal
+3753993,Cameron Jerome,Norwich City,20.099751242241776,0.0543708952904906,False,Right Foot,Open Play,0,0,1,Normal
+3753993,Sebastián Coates Nión,Sunderland,14.839474384222642,0.05445585329025666,False,Head,Open Play,0,0,1,Normal
+3753993,Lewis Grabban,Norwich City,27.313000567495326,0.0704634714141569,False,Right Foot,Open Play,0,0,2,Normal
+3753993,Bradley Johnson,Norwich City,26.30171097096156,0.06591578541190572,False,Left Foot,Open Play,1,0,0,Normal
+3753993,Bradley Johnson,Norwich City,23.113848662652437,0.064906177046115,False,Right Foot,Open Play,0,0,1,Normal
+3753993,Duncan Watmore,Sunderland,15.15684663774098,0.05846085028684141,True,Right Foot,Open Play,1,0,2,Volley
+3753993,Bradley Johnson,Norwich City,10.18331969448077,0.05993296201370552,False,Head,Open Play,0,0,1,Normal
+3753993,Bradley Johnson,Norwich City,16.299693248647355,0.062096683486481945,False,Right Foot,Open Play,1,0,1,Normal

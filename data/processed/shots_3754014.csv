@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.800591710797015,0.0697392713463761,False,Right Foot,Open Play,0,0,0,Normal
-16.754700832900603,0.05838482767023357,False,Head,Open Play,0,1,1,Normal
-30.316991935216798,0.06342844901411603,False,Right Foot,Open Play,0,1,1,Normal
-29.780866340655713,0.0725205628437159,False,Right Foot,Free Kick,0,0,0,Normal
-16.285576440519378,0.06316783452836028,False,Right Foot,Open Play,0,0,2,Normal
-8.009993757800315,0.05808436675683745,True,Right Foot,Open Play,0,0,1,Normal
-14.743473132203277,0.06192725240133881,False,Right Foot,Open Play,0,0,3,Half Volley
-22.847319317591722,0.06753115713558655,False,Right Foot,Free Kick,0,0,0,Normal
-24.10746772267879,0.06529478634094552,True,Right Foot,Open Play,0,0,1,Normal
-35.40522560300951,0.07651127024531841,False,Right Foot,Free Kick,0,0,0,Normal
-21.611339616044162,0.06351237725440706,False,Right Foot,Open Play,0,0,2,Normal
-11.387712676389404,0.06057592943627016,False,Left Foot,Open Play,0,0,2,Normal
-22.306277143441033,0.05522267200366156,False,Right Foot,Open Play,1,0,1,Volley
-9.618731725128834,0.058395568480773236,False,Right Foot,Open Play,1,0,1,Normal
-27.772108310317385,0.057357442103251326,False,Right Foot,Open Play,0,0,2,Half Volley
-21.59560140398966,0.06501906306083584,False,Right Foot,Open Play,1,0,1,Volley
-20.66034849657672,0.06545593473081518,False,Right Foot,Open Play,1,0,2,Normal
-32.64751139060985,0.06731589325398413,False,Right Foot,Open Play,0,0,1,Normal
-33.09924470437354,0.06155599078692468,False,Left Foot,Free Kick,0,0,0,Normal
-59.473775733511324,0.07695729196145851,False,Left Foot,Free Kick,0,0,0,Normal
-20.47071078394691,0.0640142414097063,False,Right Foot,Open Play,0,0,3,Normal
-27.21543679605381,0.07058880790221503,False,Right Foot,Open Play,1,0,0,Normal
-16.55566368346494,0.055877412231527854,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754014,Bojan Krkíc Pérez,Stoke City,33.800591710797015,0.0697392713463761,False,Right Foot,Open Play,0,0,0,Normal
+3754014,Memphis Depay,Manchester United,16.754700832900603,0.05838482767023357,False,Head,Open Play,0,1,1,Normal
+3754014,Ander Herrera Agüera,Manchester United,30.316991935216798,0.06342844901411603,False,Right Foot,Open Play,0,1,1,Normal
+3754014,Marko Arnautović,Stoke City,29.780866340655713,0.0725205628437159,False,Right Foot,Free Kick,0,0,0,Normal
+3754014,Bojan Krkíc Pérez,Stoke City,16.285576440519378,0.06316783452836028,False,Right Foot,Open Play,0,0,2,Normal
+3754014,Bojan Krkíc Pérez,Stoke City,8.009993757800315,0.05808436675683745,True,Right Foot,Open Play,0,0,1,Normal
+3754014,Erik Pieters,Stoke City,14.743473132203277,0.06192725240133881,False,Right Foot,Open Play,0,0,3,Half Volley
+3754014,Bojan Krkíc Pérez,Stoke City,22.847319317591722,0.06753115713558655,False,Right Foot,Free Kick,0,0,0,Normal
+3754014,Marko Arnautović,Stoke City,24.10746772267879,0.06529478634094552,True,Right Foot,Open Play,0,0,1,Normal
+3754014,Memphis Depay,Manchester United,35.40522560300951,0.07651127024531841,False,Right Foot,Free Kick,0,0,0,Normal
+3754014,Marko Arnautović,Stoke City,21.611339616044162,0.06351237725440706,False,Right Foot,Open Play,0,0,2,Normal
+3754014,Marouane Fellaini-Bakkioui,Manchester United,11.387712676389404,0.06057592943627016,False,Left Foot,Open Play,0,0,2,Normal
+3754014,Anthony Martial,Manchester United,22.306277143441033,0.05522267200366156,False,Right Foot,Open Play,1,0,1,Volley
+3754014,Marouane Fellaini-Bakkioui,Manchester United,9.618731725128834,0.058395568480773236,False,Right Foot,Open Play,1,0,1,Normal
+3754014,Ander Herrera Agüera,Manchester United,27.772108310317385,0.057357442103251326,False,Right Foot,Open Play,0,0,2,Half Volley
+3754014,Ibrahim Afellay,Stoke City,21.59560140398966,0.06501906306083584,False,Right Foot,Open Play,1,0,1,Volley
+3754014,Ander Herrera Agüera,Manchester United,20.66034849657672,0.06545593473081518,False,Right Foot,Open Play,1,0,2,Normal
+3754014,Ibrahim Afellay,Stoke City,32.64751139060985,0.06731589325398413,False,Right Foot,Open Play,0,0,1,Normal
+3754014,Charlie Adam,Stoke City,33.09924470437354,0.06155599078692468,False,Left Foot,Free Kick,0,0,0,Normal
+3754014,Charlie Adam,Stoke City,59.473775733511324,0.07695729196145851,False,Left Foot,Free Kick,0,0,0,Normal
+3754014,Anthony Martial,Manchester United,20.47071078394691,0.0640142414097063,False,Right Foot,Open Play,0,0,3,Normal
+3754014,Bojan Krkíc Pérez,Stoke City,27.21543679605381,0.07058880790221503,False,Right Foot,Open Play,1,0,0,Normal
+3754014,Juan Manuel Mata García,Manchester United,16.55566368346494,0.055877412231527854,False,Right Foot,Open Play,1,0,2,Normal

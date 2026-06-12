@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.64331697709324,0.06359969627011944,True,Left Foot,Open Play,0,0,2,Normal
-15.231546211727817,0.058105521868089045,False,Right Foot,Open Play,0,0,3,Normal
-13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,0,0,3,Volley
-20.396078054371138,0.06478783676244906,False,Right Foot,Open Play,1,0,0,Normal
-10.770329614269007,0.057358586558931925,True,Right Foot,Open Play,0,0,2,Normal
-33.734255586866,0.07353623554026871,False,Right Foot,Free Kick,0,0,0,Normal
-29.410882339705484,0.07143247318341915,False,Left Foot,Open Play,1,0,1,Normal
-9.0,0.05835638047140873,False,Right Foot,Open Play,1,0,2,Half Volley
-8.06225774829855,0.057624201777450715,False,Right Foot,Open Play,1,0,1,Volley
-10.198039027185569,0.05806928832192944,True,Right Foot,Open Play,0,0,1,Normal
-14.422205101855956,0.056591777183906566,True,Right Foot,Open Play,0,0,3,Normal
-22.847319317591726,0.0673189681267889,False,Right Foot,Open Play,0,0,1,Normal
-21.095023109728988,0.06443219138286846,False,Right Foot,Open Play,1,0,1,Half Volley
-13.416407864998739,0.05314688522799976,False,Right Foot,Open Play,0,0,2,Normal
-17.11724276862369,0.060926453357181005,False,Right Foot,Open Play,1,0,1,Volley
-10.770329614269007,0.060095212670544365,True,Left Foot,Open Play,0,0,4,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-15.811388300841896,0.06272913445707379,False,Left Foot,Open Play,1,0,3,Normal
-29.732137494637012,0.07168044405853234,False,Right Foot,Free Kick,0,0,0,Normal
-8.94427190999916,0.05661065938655103,False,Right Foot,Open Play,0,0,2,Normal
-23.021728866442675,0.06762109851611797,False,Right Foot,Open Play,0,0,1,Normal
-12.206555615733702,0.056265555060219824,False,Head,Open Play,0,1,1,Normal
-5.830951894845301,0.057413694988867656,True,Right Foot,Open Play,1,0,2,Normal
-10.295630140987,0.056629711407834134,False,Right Foot,Open Play,0,0,1,Normal
-29.546573405388315,0.07214512001071088,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19801,Brooke Chaplen,Reading WFC,16.64331697709324,0.06359969627011944,True,Left Foot,Open Play,0,0,2,Normal
+19801,Nikita Parris,Manchester City WFC,15.231546211727817,0.058105521868089045,False,Right Foot,Open Play,0,0,3,Normal
+19801,Georgia Stanway,Manchester City WFC,13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,0,0,3,Volley
+19801,Georgia Stanway,Manchester City WFC,20.396078054371138,0.06478783676244906,False,Right Foot,Open Play,1,0,0,Normal
+19801,Nikita Parris,Manchester City WFC,10.770329614269007,0.057358586558931925,True,Right Foot,Open Play,0,0,2,Normal
+19801,Stephanie Houghton,Manchester City WFC,33.734255586866,0.07353623554026871,False,Right Foot,Free Kick,0,0,0,Normal
+19801,Fara Williams,Reading WFC,29.410882339705484,0.07143247318341915,False,Left Foot,Open Play,1,0,1,Normal
+19801,Remi Allen,Reading WFC,9.0,0.05835638047140873,False,Right Foot,Open Play,1,0,2,Half Volley
+19801,Jill Scott,Manchester City WFC,8.06225774829855,0.057624201777450715,False,Right Foot,Open Play,1,0,1,Volley
+19801,Nikita Parris,Manchester City WFC,10.198039027185569,0.05806928832192944,True,Right Foot,Open Play,0,0,1,Normal
+19801,Nikita Parris,Manchester City WFC,14.422205101855956,0.056591777183906566,True,Right Foot,Open Play,0,0,3,Normal
+19801,Melissa Lawley,Manchester City WFC,22.847319317591726,0.0673189681267889,False,Right Foot,Open Play,0,0,1,Normal
+19801,Tessa Wullaert,Manchester City WFC,21.095023109728988,0.06443219138286846,False,Right Foot,Open Play,1,0,1,Half Volley
+19801,Kirstyn Pearce,Reading WFC,13.416407864998739,0.05314688522799976,False,Right Foot,Open Play,0,0,2,Normal
+19801,Georgia Stanway,Manchester City WFC,17.11724276862369,0.060926453357181005,False,Right Foot,Open Play,1,0,1,Volley
+19801,Demi Stokes,Manchester City WFC,10.770329614269007,0.060095212670544365,True,Left Foot,Open Play,0,0,4,Normal
+19801,Fara Williams,Reading WFC,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+19801,Georgia Stanway,Manchester City WFC,15.811388300841896,0.06272913445707379,False,Left Foot,Open Play,1,0,3,Normal
+19801,Fara Williams,Reading WFC,29.732137494637012,0.07168044405853234,False,Right Foot,Free Kick,0,0,0,Normal
+19801,Janine Elizabeth Beckie,Manchester City WFC,8.94427190999916,0.05661065938655103,False,Right Foot,Open Play,0,0,2,Normal
+19801,Janine Elizabeth Beckie,Manchester City WFC,23.021728866442675,0.06762109851611797,False,Right Foot,Open Play,0,0,1,Normal
+19801,Rachel Furness,Reading WFC,12.206555615733702,0.056265555060219824,False,Head,Open Play,0,1,1,Normal
+19801,Kirstyn Pearce,Reading WFC,5.830951894845301,0.057413694988867656,True,Right Foot,Open Play,1,0,2,Normal
+19801,Molly Bartrip,Reading WFC,10.295630140987,0.056629711407834134,False,Right Foot,Open Play,0,0,1,Normal
+19801,Fara Williams,Reading WFC,29.546573405388315,0.07214512001071088,False,Right Foot,Free Kick,0,0,0,Normal

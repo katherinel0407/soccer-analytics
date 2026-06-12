@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.52349858962934,0.06388923969697716,False,Left Foot,Open Play,0,0,1,Normal
-18.95098942008042,0.0646495697917662,False,Left Foot,Open Play,0,0,1,Normal
-21.038060747131617,0.05891678106721504,False,Left Foot,Open Play,0,0,2,Normal
-22.41628872048181,0.06201284100106634,False,Left Foot,Open Play,0,0,1,Normal
-68.88374263931948,0.07098460877940545,False,Right Foot,Open Play,0,0,0,Lob
-13.140015220691343,0.05903983115603719,True,Right Foot,Open Play,0,0,1,Normal
-27.012959852633696,0.054162002216904225,False,Left Foot,Open Play,1,1,1,Lob
-19.588006534611935,0.06503329460235895,False,Left Foot,Open Play,0,0,1,Normal
-14.003570973148245,0.055009050268510815,False,Head,Open Play,0,0,3,Normal
-14.71223980228707,0.062194824966745416,False,Right Foot,Open Play,0,0,3,Normal
-20.261539921733487,0.06481090534075788,False,Left Foot,Open Play,0,1,4,Normal
-7.021395872616784,0.05365973649181603,False,Left Foot,Open Play,1,0,3,Half Volley
-15.891192529196791,0.061876532740590025,False,Right Foot,Open Play,0,0,0,Normal
-5.748912940721918,0.056598996776933364,True,Left Foot,Open Play,0,0,2,Volley
-19.895728184713423,0.05757918102094764,False,Right Foot,Open Play,0,0,0,Normal
-27.093357119412133,0.06385633697948533,False,Left Foot,Open Play,0,0,0,Normal
-20.704105872990507,0.062026887055972764,False,Right Foot,Open Play,1,0,1,Normal
-26.121638539724106,0.06227499402741268,False,Right Foot,Open Play,0,0,1,Normal
-17.48885359307465,0.06345984932349477,False,Left Foot,Open Play,1,0,1,Normal
-11.36353818139403,0.05887260357196603,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3942785,Jacob Shaffelburg,Canada,18.52349858962934,0.06388923969697716,False,Left Foot,Open Play,0,0,1,Normal
+3942785,Jacob Shaffelburg,Canada,18.95098942008042,0.0646495697917662,False,Left Foot,Open Play,0,0,1,Normal
+3942785,Lionel Andrés Messi Cuccittini,Argentina,21.038060747131617,0.05891678106721504,False,Left Foot,Open Play,0,0,2,Normal
+3942785,Alphonso Davies,Canada,22.41628872048181,0.06201284100106634,False,Left Foot,Open Play,0,0,1,Normal
+3942785,Julián Álvarez,Argentina,68.88374263931948,0.07098460877940545,False,Right Foot,Open Play,0,0,0,Lob
+3942785,Julián Álvarez,Argentina,13.140015220691343,0.05903983115603719,True,Right Foot,Open Play,0,0,1,Normal
+3942785,Ángel Fabián Di María Hernández,Argentina,27.012959852633696,0.054162002216904225,False,Left Foot,Open Play,1,1,1,Lob
+3942785,Nicolás Alejandro Tagliafico,Argentina,19.588006534611935,0.06503329460235895,False,Left Foot,Open Play,0,0,1,Normal
+3942785,Lisandro Martínez,Argentina,14.003570973148245,0.055009050268510815,False,Head,Open Play,0,0,3,Normal
+3942785,Lionel Andrés Messi Cuccittini,Argentina,14.71223980228707,0.062194824966745416,False,Right Foot,Open Play,0,0,3,Normal
+3942785,Lionel Andrés Messi Cuccittini,Argentina,20.261539921733487,0.06481090534075788,False,Left Foot,Open Play,0,1,4,Normal
+3942785,Jonathan David,Canada,7.021395872616784,0.05365973649181603,False,Left Foot,Open Play,1,0,3,Half Volley
+3942785,Enzo Fernandez,Argentina,15.891192529196791,0.061876532740590025,False,Right Foot,Open Play,0,0,0,Normal
+3942785,Lionel Andrés Messi Cuccittini,Argentina,5.748912940721918,0.056598996776933364,True,Left Foot,Open Play,0,0,2,Volley
+3942785,Julián Álvarez,Argentina,19.895728184713423,0.05757918102094764,False,Right Foot,Open Play,0,0,0,Normal
+3942785,Ismael Koné,Canada,27.093357119412133,0.06385633697948533,False,Left Foot,Open Play,0,0,0,Normal
+3942785,Ismael Koné,Canada,20.704105872990507,0.062026887055972764,False,Right Foot,Open Play,1,0,1,Normal
+3942785,Liam Millar,Canada,26.121638539724106,0.06227499402741268,False,Right Foot,Open Play,0,0,1,Normal
+3942785,Tanitoluwa Oluwaseyi,Canada,17.48885359307465,0.06345984932349477,False,Left Foot,Open Play,1,0,1,Normal
+3942785,Tanitoluwa Oluwaseyi,Canada,11.36353818139403,0.05887260357196603,False,Head,Open Play,0,0,1,Normal

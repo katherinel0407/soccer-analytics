@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.083784299369935,0.05820195581653081,False,Right Foot,Open Play,1,0,3,Normal
-17.321951391226108,0.059719893301677186,False,Right Foot,Open Play,1,0,4,Normal
-9.682974749528164,0.05939828480720116,False,Head,Open Play,0,0,1,Normal
-6.762396025078688,0.0563763169927584,False,Head,Open Play,0,0,3,Normal
-8.640023148117136,0.05727054907464339,True,Left Foot,Open Play,1,0,1,Normal
-11.300442469213316,0.059264294776304405,False,Head,Open Play,0,0,4,Normal
-18.848076824970768,0.060187993084896085,False,Right Foot,Open Play,1,0,1,Normal
-12.2723265927859,0.0591378281177068,False,Head,Open Play,0,0,1,Normal
-9.451454914456297,0.059526148819531256,False,Left Foot,Open Play,1,0,2,Half Volley
-13.514806694880987,0.061660969564947425,False,Right Foot,Open Play,1,0,1,Normal
-22.768838354206828,0.0545475052175884,False,Left Foot,Open Play,0,0,1,Normal
-21.56409052104911,0.05652507806835504,True,Left Foot,Open Play,0,0,2,Normal
-26.206869328479506,0.05580268974772817,False,Left Foot,Open Play,0,0,3,Normal
-16.58583733189253,0.05409555590515444,False,Right Foot,Open Play,0,0,4,Normal
-6.809552114493289,0.05782042143413425,False,Head,Open Play,0,1,3,Normal
-4.390899680020029,0.05564586232478547,True,Head,Open Play,0,1,5,Normal
-24.796975622039074,0.05818142427410131,False,Left Foot,Free Kick,0,0,0,Normal
-9.848857801796104,0.05698279443696437,False,Head,Open Play,0,1,2,Normal
-23.672980378482137,0.061562134173066156,False,Left Foot,Open Play,0,0,3,Normal
-20.106217943710845,0.05772735096681296,True,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773631,Borja Iglesias Quintas,Real Betis,7.083784299369935,0.05820195581653081,False,Right Foot,Open Play,1,0,3,Normal
+3773631,Ousmane Dembélé,Barcelona,17.321951391226108,0.059719893301677186,False,Right Foot,Open Play,1,0,4,Normal
+3773631,Juan Miguel Jiménez López,Real Betis,9.682974749528164,0.05939828480720116,False,Head,Open Play,0,0,1,Normal
+3773631,Clément Lenglet,Barcelona,6.762396025078688,0.0563763169927584,False,Head,Open Play,0,0,3,Normal
+3773631,Borja Iglesias Quintas,Real Betis,8.640023148117136,0.05727054907464339,True,Left Foot,Open Play,1,0,1,Normal
+3773631,Martin Braithwaite Christensen,Barcelona,11.300442469213316,0.059264294776304405,False,Head,Open Play,0,0,4,Normal
+3773631,Óscar Mingueza García,Barcelona,18.848076824970768,0.060187993084896085,False,Right Foot,Open Play,1,0,1,Normal
+3773631,Antoine Griezmann,Barcelona,12.2723265927859,0.0591378281177068,False,Head,Open Play,0,0,1,Normal
+3773631,Antoine Griezmann,Barcelona,9.451454914456297,0.059526148819531256,False,Left Foot,Open Play,1,0,2,Half Volley
+3773631,Juan Miguel Jiménez López,Real Betis,13.514806694880987,0.061660969564947425,False,Right Foot,Open Play,1,0,1,Normal
+3773631,Ousmane Dembélé,Barcelona,22.768838354206828,0.0545475052175884,False,Left Foot,Open Play,0,0,1,Normal
+3773631,Lionel Andrés Messi Cuccittini,Barcelona,21.56409052104911,0.05652507806835504,True,Left Foot,Open Play,0,0,2,Normal
+3773631,Nabil Fekir,Real Betis,26.206869328479506,0.05580268974772817,False,Left Foot,Open Play,0,0,3,Normal
+3773631,Ousmane Dembélé,Barcelona,16.58583733189253,0.05409555590515444,False,Right Foot,Open Play,0,0,4,Normal
+3773631,Óscar Mingueza García,Barcelona,6.809552114493289,0.05782042143413425,False,Head,Open Play,0,1,3,Normal
+3773631,Víctor Ruíz Torre,Real Betis,4.390899680020029,0.05564586232478547,True,Head,Open Play,0,1,5,Normal
+3773631,Lionel Andrés Messi Cuccittini,Barcelona,24.796975622039074,0.05818142427410131,False,Left Foot,Free Kick,0,0,0,Normal
+3773631,Víctor Ruíz Torre,Real Betis,9.848857801796104,0.05698279443696437,False,Head,Open Play,0,1,2,Normal
+3773631,Sergio Canales Madrazo,Real Betis,23.672980378482137,0.061562134173066156,False,Left Foot,Open Play,0,0,3,Normal
+3773631,Francisco António Machado Mota de Castro Trincão,Barcelona,20.106217943710845,0.05772735096681296,True,Left Foot,Open Play,0,0,3,Normal

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-15.87954659302337,0.054512005674145624,True,Head,Open Play,0,0,1,Normal
-14.925146565444503,0.05680300715901054,False,Right Foot,Open Play,0,1,2,Normal
-37.94430128490969,0.0753063766926884,False,Left Foot,Open Play,0,0,1,Normal
-22.8127157524044,0.05382954739877136,False,Right Foot,Open Play,1,0,0,Normal
-32.87019926924691,0.0749232053994109,False,Right Foot,Open Play,0,0,1,Normal
-28.99137802864845,0.06500123708087309,False,Left Foot,Free Kick,0,0,0,Normal
-16.205246064160825,0.06295426726327236,False,Left Foot,Open Play,0,0,3,Normal
-35.33185531499867,0.07161260559163464,False,Right Foot,Open Play,1,1,1,Half Volley
-35.55980877338909,0.0772337035557768,False,Right Foot,Open Play,1,0,1,Normal
-32.00281237641467,0.06208213659512011,False,Right Foot,Open Play,1,0,1,Half Volley
-34.21257078911201,0.07602937415837088,False,Right Foot,Open Play,0,0,0,Normal
-12.662543188475212,0.061191996164531734,False,Left Foot,Open Play,1,0,1,Normal
-30.831477421622203,0.06478344342528904,False,Left Foot,Free Kick,0,0,0,Normal
-10.285912696499036,0.0568452996961297,False,Head,Open Play,0,0,4,Normal
-31.44598543534612,0.06762738995443499,False,Right Foot,Open Play,1,0,1,Volley
-13.524792050157364,0.055951795039221645,False,Left Foot,Open Play,0,0,2,Normal
-10.822661410207754,0.0564527051143482,True,Right Foot,Open Play,1,0,3,Normal
-10.94166349327195,0.06007550818390178,False,Head,Open Play,0,1,3,Normal
-17.896647730790257,0.06409684930471789,False,Left Foot,Open Play,0,0,2,Half Volley
-8.260750571225357,0.058360516454620245,True,Left Foot,Open Play,0,0,3,Normal
-25.39468448317482,0.06084287668339161,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879653,Josip Iličić,Fiorentina,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3879653,Juan Guillermo Cuadrado Bello,Juventus,15.87954659302337,0.054512005674145624,True,Head,Open Play,0,0,1,Normal
+3879653,Paulo Bruno Exequiel Dybala,Juventus,14.925146565444503,0.05680300715901054,False,Right Foot,Open Play,0,1,2,Normal
+3879653,Josip Iličić,Fiorentina,37.94430128490969,0.0753063766926884,False,Left Foot,Open Play,0,0,1,Normal
+3879653,Juan Guillermo Cuadrado Bello,Juventus,22.8127157524044,0.05382954739877136,False,Right Foot,Open Play,1,0,0,Normal
+3879653,Matías Vecino Falero,Fiorentina,32.87019926924691,0.0749232053994109,False,Right Foot,Open Play,0,0,1,Normal
+3879653,Josip Iličić,Fiorentina,28.99137802864845,0.06500123708087309,False,Left Foot,Free Kick,0,0,0,Normal
+3879653,Paulo Bruno Exequiel Dybala,Juventus,16.205246064160825,0.06295426726327236,False,Left Foot,Open Play,0,0,3,Normal
+3879653,Leonardo Bonucci,Juventus,35.33185531499867,0.07161260559163464,False,Right Foot,Open Play,1,1,1,Half Volley
+3879653,Paul Pogba,Juventus,35.55980877338909,0.0772337035557768,False,Right Foot,Open Play,1,0,1,Normal
+3879653,Leonardo Bonucci,Juventus,32.00281237641467,0.06208213659512011,False,Right Foot,Open Play,1,0,1,Half Volley
+3879653,Paul Pogba,Juventus,34.21257078911201,0.07602937415837088,False,Right Foot,Open Play,0,0,0,Normal
+3879653,Paulo Bruno Exequiel Dybala,Juventus,12.662543188475212,0.061191996164531734,False,Left Foot,Open Play,1,0,1,Normal
+3879653,Paulo Bruno Exequiel Dybala,Juventus,30.831477421622203,0.06478344342528904,False,Left Foot,Free Kick,0,0,0,Normal
+3879653,Mario Mandžukić,Juventus,10.285912696499036,0.0568452996961297,False,Head,Open Play,0,0,4,Normal
+3879653,Milan Badelj,Fiorentina,31.44598543534612,0.06762738995443499,False,Right Foot,Open Play,1,0,1,Volley
+3879653,Paulo Bruno Exequiel Dybala,Juventus,13.524792050157364,0.055951795039221645,False,Left Foot,Open Play,0,0,2,Normal
+3879653,Mario Mandžukić,Juventus,10.822661410207754,0.0564527051143482,True,Right Foot,Open Play,1,0,3,Normal
+3879653,Stefano Sturaro,Juventus,10.94166349327195,0.06007550818390178,False,Head,Open Play,0,1,3,Normal
+3879653,Mario Mandžukić,Juventus,17.896647730790257,0.06409684930471789,False,Left Foot,Open Play,0,0,2,Half Volley
+3879653,Paulo Bruno Exequiel Dybala,Juventus,8.260750571225357,0.058360516454620245,True,Left Foot,Open Play,0,0,3,Normal
+3879653,Milan Badelj,Fiorentina,25.39468448317482,0.06084287668339161,False,Right Foot,Open Play,0,0,2,Normal

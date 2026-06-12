@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.6656515010984,0.06362182362575172,False,Left Foot,Open Play,0,1,1,Normal
-9.838699100999076,0.05373819647546544,False,Right Foot,Open Play,1,1,2,Normal
-32.00281237641467,0.0735206260409577,False,Right Foot,Free Kick,0,0,0,Normal
-30.305940011819462,0.06839604498125208,False,Right Foot,Open Play,0,0,1,Normal
-30.39802625171575,0.06439827252444229,False,Left Foot,Free Kick,0,0,0,Normal
-31.12458835069148,0.07296271138315964,False,Right Foot,Open Play,0,1,2,Normal
-22.621449997734448,0.06738558992120487,False,Right Foot,Open Play,0,0,1,Volley
-20.623530250662714,0.06603628252088102,False,Left Foot,Open Play,0,0,1,Normal
-25.48038461248181,0.06918432456719632,False,Right Foot,Open Play,0,0,3,Normal
-27.014810752622353,0.06994275175592407,False,Left Foot,Open Play,0,0,1,Normal
-19.03943276465977,0.06123696621495073,False,Left Foot,Open Play,0,0,1,Volley
-15.326447729333761,0.06272754323955583,True,Left Foot,Open Play,0,0,3,Normal
-31.101446911679204,0.05989341613418858,False,Right Foot,Open Play,1,0,0,Half Volley
-10.478549517943785,0.057136558700036186,False,Head,Open Play,0,0,5,Normal
-30.21291114738862,0.04832293393936419,False,Right Foot,Open Play,0,0,1,Normal
-21.236054247434957,0.06576770674002522,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900610,Ryad Boudebouz,Montpellier,36.6656515010984,0.06362182362575172,False,Left Foot,Open Play,0,1,1,Normal
+3900610,Mustapha Yatabaré,Montpellier,9.838699100999076,0.05373819647546544,False,Right Foot,Open Play,1,1,2,Normal
+3900610,Bouna Sarr,Olympique de Marseille,32.00281237641467,0.0735206260409577,False,Right Foot,Free Kick,0,0,0,Normal
+3900610,Jonas Martin,Montpellier,30.305940011819462,0.06839604498125208,False,Right Foot,Open Play,0,0,1,Normal
+3900610,Ryad Boudebouz,Montpellier,30.39802625171575,0.06439827252444229,False,Left Foot,Free Kick,0,0,0,Normal
+3900610,Bouna Sarr,Olympique de Marseille,31.12458835069148,0.07296271138315964,False,Right Foot,Open Play,0,1,2,Normal
+3900610,Ramy Bensebaini,Montpellier,22.621449997734448,0.06738558992120487,False,Right Foot,Open Play,0,0,1,Volley
+3900610,Souleymane Camara,Montpellier,20.623530250662714,0.06603628252088102,False,Left Foot,Open Play,0,0,1,Normal
+3900610,Jacques-Alaixys Romao,Olympique de Marseille,25.48038461248181,0.06918432456719632,False,Right Foot,Open Play,0,0,3,Normal
+3900610,Bryan Dabo,Montpellier,27.014810752622353,0.06994275175592407,False,Left Foot,Open Play,0,0,1,Normal
+3900610,Ramy Bensebaini,Montpellier,19.03943276465977,0.06123696621495073,False,Left Foot,Open Play,0,0,1,Volley
+3900610,Georges-Kévin Nkoudou Mbida,Olympique de Marseille,15.326447729333761,0.06272754323955583,True,Left Foot,Open Play,0,0,3,Normal
+3900610,Vitorino Hilton da Silva,Montpellier,31.101446911679204,0.05989341613418858,False,Right Foot,Open Play,1,0,0,Half Volley
+3900610,Daniel Congré,Montpellier,10.478549517943785,0.057136558700036186,False,Head,Open Play,0,0,5,Normal
+3900610,Mustapha Yatabaré,Montpellier,30.21291114738862,0.04832293393936419,False,Right Foot,Open Play,0,0,1,Normal
+3900610,Jamel Saihi,Montpellier,21.236054247434957,0.06576770674002522,False,Left Foot,Open Play,1,0,1,Normal

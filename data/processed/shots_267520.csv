@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.09601562001426,0.06154108666022526,False,Left Foot,Open Play,0,0,1,Normal
-21.53415891090247,0.0648013335814647,False,Right Foot,Open Play,1,0,2,Normal
-2.2203603311174542,0.05561935294911686,True,Right Foot,Open Play,1,0,3,Normal
-8.481155581640987,0.05572900964587286,True,Head,Open Play,0,0,0,Diving Header
-6.646803743153551,0.05518365085889061,False,Right Foot,Open Play,1,0,3,Backheel
-4.999999999999999,0.05400555312162201,False,Left Foot,Open Play,1,0,2,Normal
-24.6641440151488,0.0633771286879419,True,Left Foot,Open Play,0,1,1,Half Volley
-19.795201438732562,0.05567203041404354,False,Left Foot,Open Play,0,0,3,Normal
-20.61843835017579,0.06554958589099891,False,Right Foot,Open Play,0,0,1,Normal
-8.542247947700881,0.05902308717470137,False,Left Foot,Open Play,1,0,2,Normal
-18.517289218457435,0.06274618723355518,False,Right Foot,Open Play,1,1,3,Normal
-16.617159805454115,0.06330392545368735,False,Left Foot,Open Play,0,1,1,Normal
-11.783462988442746,0.060788952607015286,False,Left Foot,Open Play,1,0,3,Normal
-28.410209432526187,0.06837534041776923,False,Right Foot,Open Play,0,0,1,Normal
-15.301307133705928,0.061076120193817404,False,Left Foot,Open Play,0,0,2,Half Volley
-18.886238376129853,0.06078862218824697,False,Left Foot,Open Play,0,0,3,Normal
-12.865457628860307,0.06077339954799995,False,Left Foot,Open Play,0,0,2,Normal
-12.745587471748802,0.06025380012539824,False,Left Foot,Open Play,0,0,1,Normal
-17.681911661356075,0.05416639790235877,False,Right Foot,Open Play,0,1,2,Normal
-15.261061562027727,0.05953303420351187,False,Head,Open Play,0,1,3,Normal
-3.687817782917152,0.05661836159496084,True,Left Foot,Open Play,1,0,1,Normal
-30.614049062481108,0.06169105713053005,False,Left Foot,Open Play,0,1,1,Normal
-15.97310239120754,0.05800935423150485,False,Right Foot,Open Play,0,0,3,Normal
-13.23064624271997,0.0604275733281704,False,Head,Open Play,0,1,3,Normal
-24.520399670478458,0.06842563530966222,False,Left Foot,Open Play,0,0,1,Normal
-17.697739968707868,0.0639667113777991,False,Head,Open Play,0,1,2,Normal
-4.981967482832455,0.05715491571251879,True,Right Foot,Open Play,1,0,2,Normal
-12.167168939404105,0.06093080733954236,False,Head,Open Play,0,1,1,Normal
-14.766516176810287,0.06248834500530346,False,Right Foot,Open Play,1,0,1,Normal
-17.147886167105266,0.06382784085848377,False,Right Foot,Open Play,0,0,1,Normal
-19.57268504830137,0.06539039921647781,False,Right Foot,Open Play,0,0,3,Normal
-14.96829983665479,0.05941257617019378,False,Right Foot,Open Play,1,0,2,Volley
-13.43726162579266,0.05873784631789523,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267520,Markel Bergara Larrañaga,Real Sociedad,25.09601562001426,0.06154108666022526,False,Left Foot,Open Play,0,0,1,Normal
+267520,Haris Seferović,Real Sociedad,21.53415891090247,0.0648013335814647,False,Right Foot,Open Play,1,0,2,Normal
+267520,Neymar da Silva Santos Junior,Barcelona,2.2203603311174542,0.05561935294911686,True,Right Foot,Open Play,1,0,3,Normal
+267520,Lionel Andrés Messi Cuccittini,Barcelona,8.481155581640987,0.05572900964587286,True,Head,Open Play,0,0,0,Diving Header
+267520,Lionel Andrés Messi Cuccittini,Barcelona,6.646803743153551,0.05518365085889061,False,Right Foot,Open Play,1,0,3,Backheel
+267520,Lionel Andrés Messi Cuccittini,Barcelona,4.999999999999999,0.05400555312162201,False,Left Foot,Open Play,1,0,2,Normal
+267520,Sergio Busquets i Burgos,Barcelona,24.6641440151488,0.0633771286879419,True,Left Foot,Open Play,0,1,1,Half Volley
+267520,Lionel Andrés Messi Cuccittini,Barcelona,19.795201438732562,0.05567203041404354,False,Left Foot,Open Play,0,0,3,Normal
+267520,Alexis Alejandro Sánchez Sánchez,Barcelona,20.61843835017579,0.06554958589099891,False,Right Foot,Open Play,0,0,1,Normal
+267520,Lionel Andrés Messi Cuccittini,Barcelona,8.542247947700881,0.05902308717470137,False,Left Foot,Open Play,1,0,2,Normal
+267520,Sergio Busquets i Burgos,Barcelona,18.517289218457435,0.06274618723355518,False,Right Foot,Open Play,1,1,3,Normal
+267520,Neymar da Silva Santos Junior,Barcelona,16.617159805454115,0.06330392545368735,False,Left Foot,Open Play,0,1,1,Normal
+267520,Lionel Andrés Messi Cuccittini,Barcelona,11.783462988442746,0.060788952607015286,False,Left Foot,Open Play,1,0,3,Normal
+267520,Antoine Griezmann,Real Sociedad,28.410209432526187,0.06837534041776923,False,Right Foot,Open Play,0,0,1,Normal
+267520,Lionel Andrés Messi Cuccittini,Barcelona,15.301307133705928,0.061076120193817404,False,Left Foot,Open Play,0,0,2,Half Volley
+267520,Lionel Andrés Messi Cuccittini,Barcelona,18.886238376129853,0.06078862218824697,False,Left Foot,Open Play,0,0,3,Normal
+267520,Lionel Andrés Messi Cuccittini,Barcelona,12.865457628860307,0.06077339954799995,False,Left Foot,Open Play,0,0,2,Normal
+267520,Neymar da Silva Santos Junior,Barcelona,12.745587471748802,0.06025380012539824,False,Left Foot,Open Play,0,0,1,Normal
+267520,Alexis Alejandro Sánchez Sánchez,Barcelona,17.681911661356075,0.05416639790235877,False,Right Foot,Open Play,0,1,2,Normal
+267520,Haris Seferović,Real Sociedad,15.261061562027727,0.05953303420351187,False,Head,Open Play,0,1,3,Normal
+267520,Alberto De La Bella Madureño,Real Sociedad,3.687817782917152,0.05661836159496084,True,Left Foot,Open Play,1,0,1,Normal
+267520,Antoine Griezmann,Real Sociedad,30.614049062481108,0.06169105713053005,False,Left Foot,Open Play,0,1,1,Normal
+267520,Alexis Alejandro Sánchez Sánchez,Barcelona,15.97310239120754,0.05800935423150485,False,Right Foot,Open Play,0,0,3,Normal
+267520,Alexis Alejandro Sánchez Sánchez,Barcelona,13.23064624271997,0.0604275733281704,False,Head,Open Play,0,1,3,Normal
+267520,Antoine Griezmann,Real Sociedad,24.520399670478458,0.06842563530966222,False,Left Foot,Open Play,0,0,1,Normal
+267520,Antoine Griezmann,Real Sociedad,17.697739968707868,0.0639667113777991,False,Head,Open Play,0,1,2,Normal
+267520,Marc Bartra Aregall,Barcelona,4.981967482832455,0.05715491571251879,True,Right Foot,Open Play,1,0,2,Normal
+267520,Imanol Agirretxe Arruti,Real Sociedad,12.167168939404105,0.06093080733954236,False,Head,Open Play,0,1,1,Normal
+267520,Pedro Eliezer Rodríguez Ledesma,Barcelona,14.766516176810287,0.06248834500530346,False,Right Foot,Open Play,1,0,1,Normal
+267520,Andrés Iniesta Luján,Barcelona,17.147886167105266,0.06382784085848377,False,Right Foot,Open Play,0,0,1,Normal
+267520,Gerard Piqué Bernabéu,Barcelona,19.57268504830137,0.06539039921647781,False,Right Foot,Open Play,0,0,3,Normal
+267520,Sergi Roberto Carnicer,Barcelona,14.96829983665479,0.05941257617019378,False,Right Foot,Open Play,1,0,2,Volley
+267520,Alexis Alejandro Sánchez Sánchez,Barcelona,13.43726162579266,0.05873784631789523,False,Head,Open Play,0,0,1,Normal

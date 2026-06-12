@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.839484696748443,0.06760464329946629,False,Right Foot,Open Play,0,0,1,Normal
-5.0990195135927845,0.05707651274782877,False,Head,Open Play,0,1,4,Normal
-27.730849247724095,0.05928717081665437,False,Right Foot,Open Play,1,0,2,Half Volley
-27.730849247724095,0.05928717081665437,False,Left Foot,Open Play,0,0,2,Normal
-39.293765408777,0.07870597847224736,False,Right Foot,Open Play,0,1,1,Normal
-4.47213595499958,0.056977461643308205,True,Head,Open Play,0,0,4,Normal
-21.213203435596427,0.054702205026093,False,Head,Open Play,0,1,1,Normal
-8.94427190999916,0.05661065938655103,False,Head,Open Play,0,1,3,Normal
-38.91015291668744,0.059410313965866976,False,Left Foot,Open Play,0,0,1,Normal
-21.095023109728988,0.057407813050238135,False,Right Foot,Open Play,0,0,0,Normal
-19.849433241279208,0.05555539243659419,False,Left Foot,Open Play,0,1,2,Normal
-22.561028345356956,0.06622938553225047,False,Left Foot,Open Play,0,0,3,Normal
-33.52610922848042,0.06288101302747119,False,Right Foot,Open Play,0,1,2,Normal
-14.866068747318506,0.062204964252760786,False,Left Foot,Open Play,0,0,2,Normal
-8.06225774829855,0.057624201777450715,False,Head,Open Play,0,1,4,Normal
-13.892443989449804,0.056978846643416965,True,Right Foot,Open Play,0,0,1,Normal
-27.85677655436824,0.06069582665801858,False,Right Foot,Open Play,1,0,1,Half Volley
-15.132745950421556,0.06162901826762125,True,Right Foot,Open Play,0,0,2,Normal
-12.529964086141668,0.061187670556394506,False,Head,Open Play,0,1,3,Normal
-8.06225774829855,0.05836627170711102,False,Right Foot,Open Play,0,0,3,Normal
-7.280109889280518,0.05353324420336946,False,Left Foot,Open Play,0,0,2,Backheel
-39.824615503479755,0.07993648266002701,False,Left Foot,Free Kick,0,0,0,Normal
-29.832867780352597,0.0710725815057085,False,Right Foot,Open Play,0,0,1,Normal
-29.732137494637012,0.06142062238549726,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7555,Dawid Kownacki,Poland,24.839484696748443,0.06760464329946629,False,Right Foot,Open Play,0,0,1,Normal
+7555,Robert Lewandowski,Poland,5.0990195135927845,0.05707651274782877,False,Head,Open Play,0,1,4,Normal
+7555,Santiago Arias Naranjo,Colombia,27.730849247724095,0.05928717081665437,False,Right Foot,Open Play,1,0,2,Half Volley
+7555,Piotr Zieliński,Poland,27.730849247724095,0.05928717081665437,False,Left Foot,Open Play,0,0,2,Normal
+7555,Juan Guillermo Cuadrado Bello,Colombia,39.293765408777,0.07870597847224736,False,Right Foot,Open Play,0,1,1,Normal
+7555,Yerry Fernando Mina González,Colombia,4.47213595499958,0.056977461643308205,True,Head,Open Play,0,0,4,Normal
+7555,Bartosz Bereszyński,Poland,21.213203435596427,0.054702205026093,False,Head,Open Play,0,1,1,Normal
+7555,Robert Lewandowski,Poland,8.94427190999916,0.05661065938655103,False,Head,Open Play,0,1,3,Normal
+7555,Juan Fernando Quintero Paniagua,Colombia,38.91015291668744,0.059410313965866976,False,Left Foot,Open Play,0,0,1,Normal
+7555,Radamel Falcao García Zárate,Colombia,21.095023109728988,0.057407813050238135,False,Right Foot,Open Play,0,0,0,Normal
+7555,James David Rodríguez Rubio,Colombia,19.849433241279208,0.05555539243659419,False,Left Foot,Open Play,0,1,2,Normal
+7555,Juan Fernando Quintero Paniagua,Colombia,22.561028345356956,0.06622938553225047,False,Left Foot,Open Play,0,0,3,Normal
+7555,Juan Guillermo Cuadrado Bello,Colombia,33.52610922848042,0.06288101302747119,False,Right Foot,Open Play,0,1,2,Normal
+7555,Robert Lewandowski,Poland,14.866068747318506,0.062204964252760786,False,Left Foot,Open Play,0,0,2,Normal
+7555,Robert Lewandowski,Poland,8.06225774829855,0.057624201777450715,False,Head,Open Play,0,1,4,Normal
+7555,Radamel Falcao García Zárate,Colombia,13.892443989449804,0.056978846643416965,True,Right Foot,Open Play,0,0,1,Normal
+7555,Piotr Zieliński,Poland,27.85677655436824,0.06069582665801858,False,Right Foot,Open Play,1,0,1,Half Volley
+7555,Juan Guillermo Cuadrado Bello,Colombia,15.132745950421556,0.06162901826762125,True,Right Foot,Open Play,0,0,2,Normal
+7555,Łukasz Teodorczyk,Poland,12.529964086141668,0.061187670556394506,False,Head,Open Play,0,1,3,Normal
+7555,Grzegorz Krychowiak,Poland,8.06225774829855,0.05836627170711102,False,Right Foot,Open Play,0,0,3,Normal
+7555,Andrés Mateus Uribe Villa,Colombia,7.280109889280518,0.05353324420336946,False,Left Foot,Open Play,0,0,2,Backheel
+7555,James David Rodríguez Rubio,Colombia,39.824615503479755,0.07993648266002701,False,Left Foot,Free Kick,0,0,0,Normal
+7555,Robert Lewandowski,Poland,29.832867780352597,0.0710725815057085,False,Right Foot,Open Play,0,0,1,Normal
+7555,Jefferson Andrés Lerma Solís,Colombia,29.732137494637012,0.06142062238549726,False,Left Foot,Open Play,0,0,1,Normal

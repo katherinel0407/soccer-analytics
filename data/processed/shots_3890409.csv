@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.29644774266305,0.05990631995861893,False,Right Foot,Open Play,1,0,1,Half Volley
-14.892279879185724,0.057567803530062876,False,Right Foot,Open Play,1,0,2,Volley
-33.31501163139524,0.07020901606922621,False,Right Foot,Open Play,0,0,1,Normal
-18.350476833041697,0.06317056648048408,False,Right Foot,Open Play,1,0,2,Backheel
-13.148764200486672,0.05404134911156858,False,Right Foot,Open Play,1,0,2,Backheel
-16.992056967889432,0.06328151804288694,False,Left Foot,Open Play,0,1,6,Normal
-22.063544592834578,0.06543634455380258,False,Right Foot,Open Play,1,0,0,Half Volley
-20.44529285679225,0.06561217887379425,False,Left Foot,Open Play,0,0,2,Normal
-19.170028690641026,0.05663553946551091,False,Right Foot,Open Play,1,1,3,Volley
-6.8425141578223965,0.058151198836310036,False,Head,Open Play,0,1,3,Normal
-5.162363799656124,0.05457590225817078,False,Head,Open Play,0,0,5,Normal
-23.38931379925456,0.05662451629625754,False,Right Foot,Free Kick,0,0,0,Normal
-29.21044333795706,0.05400626386652122,False,Right Foot,Open Play,0,0,2,Normal
-24.901807163336557,0.057611680330105094,False,Right Foot,Open Play,0,1,2,Half Volley
-16.0312195418814,0.05571821353845074,True,Right Foot,Open Play,1,1,2,Normal
-7.169379331573971,0.05834177528758995,False,Head,Open Play,0,1,3,Normal
-6.382005954243544,0.055684817804442836,False,Right Foot,Open Play,1,0,3,Half Volley
-20.700241544484452,0.06345776991813451,False,Right Foot,Free Kick,0,0,0,Normal
-12.520782723136758,0.06109222673644602,False,Head,Open Play,0,1,3,Normal
-27.986603938313056,0.061616272358505454,False,Right Foot,Open Play,1,0,2,Half Volley
-27.806474066303334,0.07089511749270518,False,Left Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890409,Marvin Matip,Ingolstadt,18.29644774266305,0.05990631995861893,False,Right Foot,Open Play,1,0,1,Half Volley
+3890409,Pascal Groß,Ingolstadt,14.892279879185724,0.057567803530062876,False,Right Foot,Open Play,1,0,2,Volley
+3890409,Hakan Çalhanoğlu,Bayer Leverkusen,33.31501163139524,0.07020901606922621,False,Right Foot,Open Play,0,0,1,Normal
+3890409,Alfredo Morales,Ingolstadt,18.350476833041697,0.06317056648048408,False,Right Foot,Open Play,1,0,2,Backheel
+3890409,Alfredo Morales,Ingolstadt,13.148764200486672,0.05404134911156858,False,Right Foot,Open Play,1,0,2,Backheel
+3890409,Jonathan Tah,Bayer Leverkusen,16.992056967889432,0.06328151804288694,False,Left Foot,Open Play,0,1,6,Normal
+3890409,Stefan Lex,Ingolstadt,22.063544592834578,0.06543634455380258,False,Right Foot,Open Play,1,0,0,Half Volley
+3890409,Stefan Lex,Ingolstadt,20.44529285679225,0.06561217887379425,False,Left Foot,Open Play,0,0,2,Normal
+3890409,Stefan Lex,Ingolstadt,19.170028690641026,0.05663553946551091,False,Right Foot,Open Play,1,1,3,Volley
+3890409,Stefan Kießling,Bayer Leverkusen,6.8425141578223965,0.058151198836310036,False,Head,Open Play,0,1,3,Normal
+3890409,Stefan Kießling,Bayer Leverkusen,5.162363799656124,0.05457590225817078,False,Head,Open Play,0,0,5,Normal
+3890409,Hakan Çalhanoğlu,Bayer Leverkusen,23.38931379925456,0.05662451629625754,False,Right Foot,Free Kick,0,0,0,Normal
+3890409,Kevin Kampl,Bayer Leverkusen,29.21044333795706,0.05400626386652122,False,Right Foot,Open Play,0,0,2,Normal
+3890409,Karim Bellarabi,Bayer Leverkusen,24.901807163336557,0.057611680330105094,False,Right Foot,Open Play,0,1,2,Half Volley
+3890409,Javier Hernández Balcázar,Bayer Leverkusen,16.0312195418814,0.05571821353845074,True,Right Foot,Open Play,1,1,2,Normal
+3890409,Moritz Hartmann,Ingolstadt,7.169379331573971,0.05834177528758995,False,Head,Open Play,0,1,3,Normal
+3890409,Romain Brégerie,Ingolstadt,6.382005954243544,0.055684817804442836,False,Right Foot,Open Play,1,0,3,Half Volley
+3890409,Admir Mehmedi,Bayer Leverkusen,20.700241544484452,0.06345776991813451,False,Right Foot,Free Kick,0,0,0,Normal
+3890409,Marvin Matip,Ingolstadt,12.520782723136758,0.06109222673644602,False,Head,Open Play,0,1,3,Normal
+3890409,Mathew Leckie,Ingolstadt,27.986603938313056,0.061616272358505454,False,Right Foot,Open Play,1,0,2,Half Volley
+3890409,Danilo Teodoro Soares,Ingolstadt,27.806474066303334,0.07089511749270518,False,Left Foot,Open Play,1,0,1,Half Volley

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.62611401766967,0.06658379985495419,False,Right Foot,Open Play,0,0,1,Normal
-10.517128885774863,0.059175954244828424,False,Head,Open Play,0,0,3,Normal
-20.813937638034766,0.06032423097445661,False,Right Foot,Open Play,0,0,2,Normal
-12.701181047445937,0.060419797307283474,False,Head,Open Play,0,1,4,Normal
-21.48534384179132,0.05940394251310517,False,Left Foot,Open Play,1,0,1,Normal
-25.021790503479167,0.06330605985504599,False,Right Foot,Open Play,0,0,1,Normal
-4.080441152620634,0.05480568489539325,True,Right Foot,Open Play,1,0,1,Normal
-26.761913235043558,0.06944242454345616,False,Right Foot,Open Play,0,0,1,Normal
-7.025667228100119,0.05736285664482185,False,Head,Open Play,0,0,2,Normal
-11.621101496846158,0.058053693297662606,False,Right Foot,Open Play,0,0,2,Normal
-23.11060362690685,0.0566539048536952,False,Right Foot,Free Kick,0,0,0,Normal
-6.911584478250985,0.057904057440976514,False,Head,Open Play,0,0,2,Normal
-24.851559307214504,0.06455311391045342,False,Left Foot,Open Play,0,0,3,Normal
-15.21183749584513,0.05433653806948783,False,Right Foot,Open Play,0,0,1,Normal
-13.951702405083049,0.060842258484758084,False,Right Foot,Open Play,0,0,2,Normal
-21.01071155387175,0.06595044311273784,False,Left Foot,Open Play,0,0,2,Normal
-18.15323662601245,0.059573615229356176,True,Left Foot,Open Play,0,0,3,Normal
-14.122322755127781,0.06145341320306449,False,Head,Open Play,0,0,1,Normal
-7.990619500389194,0.0587106769632862,True,Right Foot,Open Play,0,0,2,Normal
-18.698663053812158,0.05292336632907705,False,Right Foot,Open Play,0,0,1,Normal
-26.43822989536175,0.06742197538693222,False,Left Foot,Free Kick,0,0,0,Normal
-14.590750494748375,0.05647510686695307,True,Left Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267502,Daniel Alves da Silva,Barcelona,35.62611401766967,0.06658379985495419,False,Right Foot,Open Play,0,0,1,Normal
+267502,Gerard Piqué Bernabéu,Barcelona,10.517128885774863,0.059175954244828424,False,Head,Open Play,0,0,3,Normal
+267502,Alexis Alejandro Sánchez Sánchez,Barcelona,20.813937638034766,0.06032423097445661,False,Right Foot,Open Play,0,0,2,Normal
+267502,Mikel San José Domínguez,Athletic Club,12.701181047445937,0.060419797307283474,False,Head,Open Play,0,1,4,Normal
+267502,Alexandre Dimitri Song-Billong,Barcelona,21.48534384179132,0.05940394251310517,False,Left Foot,Open Play,1,0,1,Normal
+267502,Xavier Hernández Creus,Barcelona,25.021790503479167,0.06330605985504599,False,Right Foot,Open Play,0,0,1,Normal
+267502,Markel Susaeta Laskurain,Athletic Club,4.080441152620634,0.05480568489539325,True,Right Foot,Open Play,1,0,1,Normal
+267502,Aritz Aduriz Zubeldia,Athletic Club,26.761913235043558,0.06944242454345616,False,Right Foot,Open Play,0,0,1,Normal
+267502,Aritz Aduriz Zubeldia,Athletic Club,7.025667228100119,0.05736285664482185,False,Head,Open Play,0,0,2,Normal
+267502,Francesc Fàbregas i Soler,Barcelona,11.621101496846158,0.058053693297662606,False,Right Foot,Open Play,0,0,2,Normal
+267502,Markel Susaeta Laskurain,Athletic Club,23.11060362690685,0.0566539048536952,False,Right Foot,Free Kick,0,0,0,Normal
+267502,Aritz Aduriz Zubeldia,Athletic Club,6.911584478250985,0.057904057440976514,False,Head,Open Play,0,0,2,Normal
+267502,Lionel Andrés Messi Cuccittini,Barcelona,24.851559307214504,0.06455311391045342,False,Left Foot,Open Play,0,0,3,Normal
+267502,Pedro Eliezer Rodríguez Ledesma,Barcelona,15.21183749584513,0.05433653806948783,False,Right Foot,Open Play,0,0,1,Normal
+267502,Alexis Alejandro Sánchez Sánchez,Barcelona,13.951702405083049,0.060842258484758084,False,Right Foot,Open Play,0,0,2,Normal
+267502,Lionel Andrés Messi Cuccittini,Barcelona,21.01071155387175,0.06595044311273784,False,Left Foot,Open Play,0,0,2,Normal
+267502,Lionel Andrés Messi Cuccittini,Barcelona,18.15323662601245,0.059573615229356176,True,Left Foot,Open Play,0,0,3,Normal
+267502,Lionel Andrés Messi Cuccittini,Barcelona,14.122322755127781,0.06145341320306449,False,Head,Open Play,0,0,1,Normal
+267502,Alexis Alejandro Sánchez Sánchez,Barcelona,7.990619500389194,0.0587106769632862,True,Right Foot,Open Play,0,0,2,Normal
+267502,Daniel Alves da Silva,Barcelona,18.698663053812158,0.05292336632907705,False,Right Foot,Open Play,0,0,1,Normal
+267502,Lionel Andrés Messi Cuccittini,Barcelona,26.43822989536175,0.06742197538693222,False,Left Foot,Free Kick,0,0,0,Normal
+267502,Ander Herrera Agüera,Athletic Club,14.590750494748375,0.05647510686695307,True,Left Foot,Open Play,1,0,2,Half Volley

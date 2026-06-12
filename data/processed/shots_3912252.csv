@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.12641744292188,0.05565583369507952,True,Right Foot,Open Play,0,0,2,Normal
-2.41867732448957,0.05569407105754796,True,Right Foot,Open Play,1,0,2,Half Volley
-39.20114794237536,0.0612204004812509,False,Right Foot,Open Play,0,1,1,Normal
-9.508417323613852,0.05842350521825637,True,Head,Open Play,0,0,2,Normal
-24.565219315121123,0.06333366537501144,False,Left Foot,Open Play,0,0,2,Normal
-33.02877533303346,0.07304059516710773,False,Right Foot,Open Play,1,1,1,Normal
-10.332473082471592,0.055010014594011794,False,Head,Open Play,0,1,2,Normal
-13.483323032546545,0.06175452867840359,False,Left Foot,Open Play,0,0,3,Normal
-9.837174391053567,0.05752026463820075,False,Left Foot,Open Play,1,0,3,Volley
-23.007824755939012,0.06747317558357516,False,Left Foot,Open Play,0,0,2,Normal
-27.074896121684386,0.07012372698695175,False,Left Foot,Open Play,1,0,1,Half Volley
-9.090654541890807,0.0593303205357466,False,Head,Open Play,0,1,3,Normal
-18.12318956475377,0.06399573494753895,False,Right Foot,Open Play,1,0,1,Normal
-24.36739624990737,0.06670361457105498,False,Right Foot,Open Play,0,0,2,Normal
-5.787054518492114,0.05705568660840827,False,Head,Open Play,0,0,3,Normal
-23.246720198772135,0.06253583928740468,False,Right Foot,Open Play,1,0,1,Volley
-24.773574631045875,0.06879054523141592,False,Right Foot,Open Play,1,0,1,Half Volley
-19.924858845171272,0.05967162581117032,False,Left Foot,Open Play,0,0,4,Normal
-25.501568579207042,0.06397396303202482,False,Right Foot,Open Play,1,0,2,Normal
-8.780091115700337,0.05918424613048512,True,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912252,Pernille Mosegaard Harder,Bayern München W,12.12641744292188,0.05565583369507952,True,Right Foot,Open Play,0,0,2,Normal
+3912252,Pernille Mosegaard Harder,Bayern München W,2.41867732448957,0.05569407105754796,True,Right Foot,Open Play,1,0,2,Half Volley
+3912252,Selma Sól Magnúsdóttir,Nürnberg W,39.20114794237536,0.0612204004812509,False,Right Foot,Open Play,0,1,1,Normal
+3912252,Pernille Mosegaard Harder,Bayern München W,9.508417323613852,0.05842350521825637,True,Head,Open Play,0,0,2,Normal
+3912252,Jill Johanna Wilhelmina Baijings,Bayern München W,24.565219315121123,0.06333366537501144,False,Left Foot,Open Play,0,0,2,Normal
+3912252,Sarah Zadrazil,Bayern München W,33.02877533303346,0.07304059516710773,False,Right Foot,Open Play,1,1,1,Normal
+3912252,Glódís Perla Viggósdóttir,Bayern München W,10.332473082471592,0.055010014594011794,False,Head,Open Play,0,1,2,Normal
+3912252,Klara Bühl,Bayern München W,13.483323032546545,0.06175452867840359,False,Left Foot,Open Play,0,0,3,Normal
+3912252,Pernille Mosegaard Harder,Bayern München W,9.837174391053567,0.05752026463820075,False,Left Foot,Open Play,1,0,3,Volley
+3912252,Jill Johanna Wilhelmina Baijings,Bayern München W,23.007824755939012,0.06747317558357516,False,Left Foot,Open Play,0,0,2,Normal
+3912252,Carolin Simon,Bayern München W,27.074896121684386,0.07012372698695175,False,Left Foot,Open Play,1,0,1,Half Volley
+3912252,Linda Brigitta Sembrant,Bayern München W,9.090654541890807,0.0593303205357466,False,Head,Open Play,0,1,3,Normal
+3912252,Klara Bühl,Bayern München W,18.12318956475377,0.06399573494753895,False,Right Foot,Open Play,1,0,1,Normal
+3912252,Klara Bühl,Bayern München W,24.36739624990737,0.06670361457105498,False,Right Foot,Open Play,0,0,2,Normal
+3912252,Glódís Perla Viggósdóttir,Bayern München W,5.787054518492114,0.05705568660840827,False,Head,Open Play,0,0,3,Normal
+3912252,Pernille Mosegaard Harder,Bayern München W,23.246720198772135,0.06253583928740468,False,Right Foot,Open Play,1,0,1,Volley
+3912252,Inès Belloumou,Bayern München W,24.773574631045875,0.06879054523141592,False,Right Foot,Open Play,1,0,1,Half Volley
+3912252,Jill Johanna Wilhelmina Baijings,Bayern München W,19.924858845171272,0.05967162581117032,False,Left Foot,Open Play,0,0,4,Normal
+3912252,Alina Mailbeck,Nürnberg W,25.501568579207042,0.06397396303202482,False,Right Foot,Open Play,1,0,2,Normal
+3912252,Lea Schüller,Bayern München W,8.780091115700337,0.05918424613048512,True,Head,Open Play,0,0,2,Normal

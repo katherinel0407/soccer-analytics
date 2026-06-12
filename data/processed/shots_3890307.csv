@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.742657280190036,0.05982023148789582,False,Head,Open Play,0,1,5,Normal
-5.246903848937966,0.05706430957517776,False,Head,Open Play,0,1,4,Normal
-26.730132809247316,0.06942789269313841,False,Right Foot,Free Kick,0,0,0,Normal
-9.656603957913982,0.05758654323194521,False,Head,Open Play,0,0,4,Normal
-5.818075283115539,0.05761531912038945,True,Head,Open Play,0,1,2,Diving Header
-9.701546268507917,0.05812037344948714,False,Head,Open Play,0,0,4,Normal
-20.8710325571113,0.05050370293182991,False,Right Foot,Open Play,0,0,1,Normal
-8.459314393022646,0.05778169877993067,False,Head,Open Play,0,1,7,Normal
-39.08772185738125,0.059307494135345355,False,Right Foot,Free Kick,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-16.08632960000509,0.06313572666865265,False,Left Foot,Open Play,1,0,1,Half Volley
-20.80600874747485,0.0557402223385813,False,Right Foot,Open Play,0,0,1,Normal
-16.90739483184799,0.06149737304201451,False,Head,Open Play,0,1,2,Normal
-30.77287766849242,0.0642915696688742,False,Right Foot,Open Play,0,0,1,Half Volley
-10.705606008068852,0.05952587421977952,False,Head,Open Play,0,0,2,Normal
-38.279237191981764,0.06956616014749337,False,Right Foot,Open Play,0,0,0,Normal
-9.26984358012583,0.05927519800403304,False,Head,Open Play,0,1,5,Normal
-21.755459085020483,0.05584537936254348,False,Left Foot,Open Play,1,0,1,Half Volley
-10.965856099730654,0.055039558999066374,False,Right Foot,Open Play,1,1,2,Half Volley
-6.174139616173248,0.056185245999738065,True,Head,Open Play,0,0,3,Normal
-16.137224048763777,0.0621210545909377,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890307,Jan Rosenthal,Darmstadt 98,11.742657280190036,0.05982023148789582,False,Head,Open Play,0,1,5,Normal
+3890307,Sandro Wagner,Darmstadt 98,5.246903848937966,0.05706430957517776,False,Head,Open Play,0,1,4,Normal
+3890307,Jérôme Gondorf,Darmstadt 98,26.730132809247316,0.06942789269313841,False,Right Foot,Free Kick,0,0,0,Normal
+3890307,Peter Niemeyer,Darmstadt 98,9.656603957913982,0.05758654323194521,False,Head,Open Play,0,0,4,Normal
+3890307,Aron Jóhannsson,Werder Bremen,5.818075283115539,0.05761531912038945,True,Head,Open Play,0,1,2,Diving Header
+3890307,Peter Niemeyer,Darmstadt 98,9.701546268507917,0.05812037344948714,False,Head,Open Play,0,0,4,Normal
+3890307,Aron Jóhannsson,Werder Bremen,20.8710325571113,0.05050370293182991,False,Right Foot,Open Play,0,0,1,Normal
+3890307,Anthony Ujah,Werder Bremen,8.459314393022646,0.05778169877993067,False,Head,Open Play,0,1,7,Normal
+3890307,Alejandro Gálvez Jimena,Werder Bremen,39.08772185738125,0.059307494135345355,False,Right Foot,Free Kick,0,0,0,Normal
+3890307,Sandro Wagner,Darmstadt 98,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3890307,Aron Jóhannsson,Werder Bremen,16.08632960000509,0.06313572666865265,False,Left Foot,Open Play,1,0,1,Half Volley
+3890307,Jan Rosenthal,Darmstadt 98,20.80600874747485,0.0557402223385813,False,Right Foot,Open Play,0,0,1,Normal
+3890307,Anthony Ujah,Werder Bremen,16.90739483184799,0.06149737304201451,False,Head,Open Play,0,1,2,Normal
+3890307,Alejandro Gálvez Jimena,Werder Bremen,30.77287766849242,0.0642915696688742,False,Right Foot,Open Play,0,0,1,Half Volley
+3890307,Aron Jóhannsson,Werder Bremen,10.705606008068852,0.05952587421977952,False,Head,Open Play,0,0,2,Normal
+3890307,Aron Jóhannsson,Werder Bremen,38.279237191981764,0.06956616014749337,False,Right Foot,Open Play,0,0,0,Normal
+3890307,Anthony Ujah,Werder Bremen,9.26984358012583,0.05927519800403304,False,Head,Open Play,0,1,5,Normal
+3890307,Anthony Ujah,Werder Bremen,21.755459085020483,0.05584537936254348,False,Left Foot,Open Play,1,0,1,Half Volley
+3890307,Sandro Wagner,Darmstadt 98,10.965856099730654,0.055039558999066374,False,Right Foot,Open Play,1,1,2,Half Volley
+3890307,Sandro Wagner,Darmstadt 98,6.174139616173248,0.056185245999738065,True,Head,Open Play,0,0,3,Normal
+3890307,Jérôme Gondorf,Darmstadt 98,16.137224048763777,0.0621210545909377,False,Left Foot,Open Play,0,0,3,Normal

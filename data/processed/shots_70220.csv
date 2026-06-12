@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.808255317654368,0.05662166831889673,False,Right Foot,Open Play,1,0,1,Normal
-3.488552708502477,0.056508873127705236,True,Left Foot,Open Play,1,0,2,Half Volley
-28.64472028140613,0.07135325692217305,False,Right Foot,Open Play,0,0,1,Normal
-16.829141392239826,0.06322170237318715,False,Left Foot,Open Play,0,1,3,Normal
-13.313526955694341,0.061362141594186084,True,Left Foot,Open Play,1,1,1,Volley
-17.82806775845324,0.06250850138508261,False,Right Foot,Open Play,1,0,1,Lob
-27.874181602335874,0.06871513619684476,False,Left Foot,Open Play,1,0,1,Normal
-9.066973034039531,0.058721999400833294,False,Head,Open Play,0,0,2,Normal
-9.67729300992793,0.05877071929756464,True,Left Foot,Open Play,0,0,0,Normal
-16.383528313522707,0.0633892091284905,False,Right Foot,Open Play,0,0,2,Normal
-11.386395390991828,0.059789379662367415,True,Left Foot,Open Play,1,0,2,Normal
-16.475739740600424,0.05508075740362567,False,Left Foot,Open Play,0,1,2,Lob
-19.262658175859325,0.05758042653045299,True,Right Foot,Open Play,0,0,2,Lob
-24.123432591569554,0.06262989187890741,False,Right Foot,Open Play,1,0,0,Volley
-8.868483523128406,0.059218161374909976,False,Left Foot,Open Play,0,0,3,Half Volley
-11.576700738984316,0.059308153642714696,False,Right Foot,Open Play,0,0,1,Normal
-25.099003964301055,0.0687004582460515,False,Right Foot,Open Play,0,0,4,Normal
-18.591395859375382,0.06464069157446466,False,Left Foot,Open Play,0,0,1,Normal
-18.128982321134295,0.06396347790666715,False,Right Foot,Open Play,0,1,3,Normal
-10.215674231297713,0.057132671685852066,True,Left Foot,Open Play,0,0,2,Normal
-11.45862120850497,0.05862059099720956,True,Left Foot,Open Play,0,0,1,Normal
-25.495097567963924,0.05033944824087783,False,Left Foot,Free Kick,0,0,0,Normal
-23.409399821439244,0.06790274671910572,False,Right Foot,Open Play,0,0,2,Normal
-34.76665068711681,0.07239956929134958,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70220,Raúl García Escudero,Osasuna,21.808255317654368,0.05662166831889673,False,Right Foot,Open Play,1,0,1,Normal
+70220,Lionel Andrés Messi Cuccittini,Barcelona,3.488552708502477,0.056508873127705236,True,Left Foot,Open Play,1,0,2,Half Volley
+70220,David Villa Sánchez,Barcelona,28.64472028140613,0.07135325692217305,False,Right Foot,Open Play,0,0,1,Normal
+70220,Lionel Andrés Messi Cuccittini,Barcelona,16.829141392239826,0.06322170237318715,False,Left Foot,Open Play,0,1,3,Normal
+70220,Francesc Fàbregas i Soler,Barcelona,13.313526955694341,0.061362141594186084,True,Left Foot,Open Play,1,1,1,Volley
+70220,Francesc Fàbregas i Soler,Barcelona,17.82806775845324,0.06250850138508261,False,Right Foot,Open Play,1,0,1,Lob
+70220,Damià Abella Pérez,Osasuna,27.874181602335874,0.06871513619684476,False,Left Foot,Open Play,1,0,1,Normal
+70220,Lionel Andrés Messi Cuccittini,Barcelona,9.066973034039531,0.058721999400833294,False,Head,Open Play,0,0,2,Normal
+70220,David Villa Sánchez,Barcelona,9.67729300992793,0.05877071929756464,True,Left Foot,Open Play,0,0,0,Normal
+70220,David Villa Sánchez,Barcelona,16.383528313522707,0.0633892091284905,False,Right Foot,Open Play,0,0,2,Normal
+70220,Lionel Andrés Messi Cuccittini,Barcelona,11.386395390991828,0.059789379662367415,True,Left Foot,Open Play,1,0,2,Normal
+70220,Lionel Andrés Messi Cuccittini,Barcelona,16.475739740600424,0.05508075740362567,False,Left Foot,Open Play,0,1,2,Lob
+70220,Xavier Hernández Creus,Barcelona,19.262658175859325,0.05758042653045299,True,Right Foot,Open Play,0,0,2,Lob
+70220,Daniel Alves da Silva,Barcelona,24.123432591569554,0.06262989187890741,False,Right Foot,Open Play,1,0,0,Volley
+70220,Lionel Andrés Messi Cuccittini,Barcelona,8.868483523128406,0.059218161374909976,False,Left Foot,Open Play,0,0,3,Half Volley
+70220,Juan Francisco Martínez Modesto,Osasuna,11.576700738984316,0.059308153642714696,False,Right Foot,Open Play,0,0,1,Normal
+70220,Juan Francisco Martínez Modesto,Osasuna,25.099003964301055,0.0687004582460515,False,Right Foot,Open Play,0,0,4,Normal
+70220,Roland Conde Lamah,Osasuna,18.591395859375382,0.06464069157446466,False,Left Foot,Open Play,0,0,1,Normal
+70220,David Villa Sánchez,Barcelona,18.128982321134295,0.06396347790666715,False,Right Foot,Open Play,0,1,3,Normal
+70220,David Villa Sánchez,Barcelona,10.215674231297713,0.057132671685852066,True,Left Foot,Open Play,0,0,2,Normal
+70220,Lionel Andrés Messi Cuccittini,Barcelona,11.45862120850497,0.05862059099720956,True,Left Foot,Open Play,0,0,1,Normal
+70220,Lionel Andrés Messi Cuccittini,Barcelona,25.495097567963924,0.05033944824087783,False,Left Foot,Free Kick,0,0,0,Normal
+70220,Thiago Alcântara do Nascimento,Barcelona,23.409399821439244,0.06790274671910572,False,Right Foot,Open Play,0,0,2,Normal
+70220,Manuel Jesús Ortiz Toribio,Osasuna,34.76665068711681,0.07239956929134958,False,Right Foot,Open Play,1,0,1,Half Volley

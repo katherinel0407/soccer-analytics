@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.033971149025845,0.06405916280574521,False,Right Foot,Open Play,0,0,1,Normal
-24.56053745340277,0.05748238482747014,False,Left Foot,Free Kick,0,0,0,Normal
-38.0888435109285,0.07029038329226699,False,Left Foot,Open Play,0,0,1,Normal
-49.851980903470626,0.06589238227767731,False,Right Foot,Open Play,0,0,0,Lob
-21.115397225721328,0.06327237422350272,False,Left Foot,Open Play,1,0,1,Half Volley
-7.736924453553879,0.057131359030410375,False,Left Foot,Open Play,1,0,3,Volley
-13.6209397619988,0.05429626761743411,False,Right Foot,Open Play,0,0,1,Normal
-14.674126890551273,0.05776535299195007,False,Head,Open Play,0,0,3,Normal
-9.60468635614927,0.05765612187463487,False,Head,Open Play,0,1,5,Normal
-19.802272596851097,0.0628713441122606,False,Right Foot,Free Kick,0,0,0,Normal
-18.5024322725419,0.062286777657742196,False,Right Foot,Open Play,1,0,4,Volley
-21.46741717114567,0.0553790497817015,False,Left Foot,Open Play,1,0,1,Normal
-22.19234102117214,0.0670978308162422,False,Left Foot,Open Play,0,1,4,Normal
-11.384199576606164,0.057807818179069076,False,Right Foot,Open Play,1,0,1,Volley
-29.902675465583346,0.06807899532311286,False,Left Foot,Open Play,0,0,2,Normal
-10.300485425454466,0.0544654092986263,True,Right Foot,Open Play,1,0,1,Half Volley
-17.38332534355841,0.053945560733448875,False,Right Foot,Open Play,0,1,1,Half Volley
-6.648308055437866,0.057981578744087964,True,Right Foot,Open Play,0,0,2,Backheel
-7.2034713853808015,0.05809313500760379,True,Head,Open Play,0,0,1,Normal
-33.994411305389605,0.07585541999687394,False,Right Foot,Open Play,0,0,0,Normal
-4.609772228646438,0.05652708438234629,False,Head,Open Play,0,0,3,Normal
-32.89012009707474,0.06435045554872941,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901221,Marcus Coco,Guingamp,20.033971149025845,0.06405916280574521,False,Right Foot,Open Play,0,0,1,Normal
+3901221,Thibault Giresse,Guingamp,24.56053745340277,0.05748238482747014,False,Left Foot,Free Kick,0,0,0,Normal
+3901221,Younousse Sankharé,Guingamp,38.0888435109285,0.07029038329226699,False,Left Foot,Open Play,0,0,1,Normal
+3901221,Fallou Diagne,Rennes,49.851980903470626,0.06589238227767731,False,Right Foot,Open Play,0,0,0,Lob
+3901221,Thibault Giresse,Guingamp,21.115397225721328,0.06327237422350272,False,Left Foot,Open Play,1,0,1,Half Volley
+3901221,Romain Danzé,Rennes,7.736924453553879,0.057131359030410375,False,Left Foot,Open Play,1,0,3,Volley
+3901221,Jimmy Briand,Guingamp,13.6209397619988,0.05429626761743411,False,Right Foot,Open Play,0,0,1,Normal
+3901221,Benjamin André,Rennes,14.674126890551273,0.05776535299195007,False,Head,Open Play,0,0,3,Normal
+3901221,Edson André Sitoe,Rennes,9.60468635614927,0.05765612187463487,False,Head,Open Play,0,1,5,Normal
+3901221,Kamil Grosicki,Rennes,19.802272596851097,0.0628713441122606,False,Right Foot,Free Kick,0,0,0,Normal
+3901221,Kamil Grosicki,Rennes,18.5024322725419,0.062286777657742196,False,Right Foot,Open Play,1,0,4,Volley
+3901221,Ousmane Dembélé,Rennes,21.46741717114567,0.0553790497817015,False,Left Foot,Open Play,1,0,1,Normal
+3901221,Younousse Sankharé,Guingamp,22.19234102117214,0.0670978308162422,False,Left Foot,Open Play,0,1,4,Normal
+3901221,Giovanni-Guy Yann Sio,Rennes,11.384199576606164,0.057807818179069076,False,Right Foot,Open Play,1,0,1,Volley
+3901221,Ludovic Blas,Guingamp,29.902675465583346,0.06807899532311286,False,Left Foot,Open Play,0,0,2,Normal
+3901221,Moustapha Elhadji Diallo,Guingamp,10.300485425454466,0.0544654092986263,True,Right Foot,Open Play,1,0,1,Half Volley
+3901221,Kamil Grosicki,Rennes,17.38332534355841,0.053945560733448875,False,Right Foot,Open Play,0,1,1,Half Volley
+3901221,Jimmy Briand,Guingamp,6.648308055437866,0.057981578744087964,True,Right Foot,Open Play,0,0,2,Backheel
+3901221,Younousse Sankharé,Guingamp,7.2034713853808015,0.05809313500760379,True,Head,Open Play,0,0,1,Normal
+3901221,Benjamin André,Rennes,33.994411305389605,0.07585541999687394,False,Right Foot,Open Play,0,0,0,Normal
+3901221,Nill De Pauw,Guingamp,4.609772228646438,0.05652708438234629,False,Head,Open Play,0,0,3,Normal
+3901221,Thibault Giresse,Guingamp,32.89012009707474,0.06435045554872941,False,Left Foot,Free Kick,0,0,0,Normal

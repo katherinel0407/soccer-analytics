@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.881350656863926,0.06372341753540216,False,Right Foot,Open Play,1,0,0,Half Volley
-19.669773765857087,0.05663952647343866,False,Left Foot,Open Play,1,0,1,Half Volley
-24.42396364229197,0.06343930389960992,False,Right Foot,Free Kick,0,0,0,Normal
-19.780040444852485,0.06553399953856709,False,Right Foot,Open Play,0,0,2,Normal
-9.638464608017198,0.05951941233049594,False,Head,Open Play,0,1,4,Normal
-22.38057193192346,0.05198707119216734,False,Right Foot,Open Play,0,0,2,Normal
-7.083078426785918,0.05802117870075057,True,Head,Open Play,0,0,1,Normal
-27.95084971874737,0.054430617937282,False,Right Foot,Open Play,0,0,3,Normal
-9.5603347221737,0.05929621924482849,False,Head,Open Play,0,1,2,Normal
-13.031116606031887,0.059679978574009244,False,Head,Open Play,0,0,2,Normal
-25.682094930125935,0.060246116037658365,False,Left Foot,Open Play,0,0,4,Normal
-12.544720004846665,0.06043901914444239,False,Right Foot,Open Play,0,0,2,Volley
-15.46156525064652,0.0628807567473086,False,Right Foot,Open Play,0,0,1,Normal
-29.620432137293346,0.07225017213256661,False,Right Foot,Open Play,0,0,2,Normal
-9.773944955850737,0.05904594654064208,False,Right Foot,Open Play,1,0,2,Normal
-12.69212354178764,0.060588604867503004,True,Right Foot,Open Play,1,1,1,Normal
-6.896375859826666,0.058199137863326214,False,Head,Open Play,0,1,4,Normal
-13.594484175576504,0.06081336644780982,False,Right Foot,Open Play,1,0,2,Volley
-11.837651794169316,0.05881729465969081,True,Right Foot,Open Play,1,1,2,Half Volley
-5.393514624064718,0.05657887173229937,False,Right Foot,Open Play,1,0,4,Volley
-16.22621335986927,0.06289623670432215,False,Right Foot,Open Play,1,0,2,Normal
-25.045957757690157,0.06403587022210439,False,Right Foot,Free Kick,0,0,0,Normal
-25.52371446322028,0.06622475364084338,False,Right Foot,Open Play,0,0,3,Normal
-27.44175650354765,0.06320381904541564,False,Right Foot,Open Play,0,0,2,Normal
-9.656603957913983,0.05949923899844689,False,Head,Open Play,0,0,1,Normal
-19.22004162326398,0.061389269897150336,True,Left Foot,Open Play,0,0,3,Normal
-9.278469701410897,0.0541025915183851,False,Head,Open Play,0,0,1,Normal
-7.242237223399969,0.05820747700155283,False,Right Foot,Open Play,1,0,3,Half Volley
-16.992351220475644,0.05197256965617887,False,Right Foot,Open Play,0,0,1,Normal
-18.693581786270926,0.06478160639583634,True,Right Foot,Open Play,1,0,0,Normal
-14.312581877495054,0.053866836843832214,False,Right Foot,Open Play,1,0,1,Normal
-7.864477096412707,0.0573080575254873,True,Head,Open Play,0,0,1,Normal
-16.177144370994533,0.06266086710971898,False,Left Foot,Open Play,1,0,4,Normal
-9.72008230417829,0.05968160049452135,False,Head,Open Play,0,0,4,Normal
-25.18491612056709,0.05979034815006825,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754282,Shane Long,Southampton,16.881350656863926,0.06372341753540216,False,Right Foot,Open Play,1,0,0,Half Volley
+3754282,Dušan Tadić,Southampton,19.669773765857087,0.05663952647343866,False,Left Foot,Open Play,1,0,1,Half Volley
+3754282,Leandro Bacuna,Aston Villa,24.42396364229197,0.06343930389960992,False,Right Foot,Free Kick,0,0,0,Normal
+3754282,Jordan Ayew,Aston Villa,19.780040444852485,0.06553399953856709,False,Right Foot,Open Play,0,0,2,Normal
+3754282,Shane Long,Southampton,9.638464608017198,0.05951941233049594,False,Head,Open Play,0,1,4,Normal
+3754282,Jordan Ayew,Aston Villa,22.38057193192346,0.05198707119216734,False,Right Foot,Open Play,0,0,2,Normal
+3754282,Shane Long,Southampton,7.083078426785918,0.05802117870075057,True,Head,Open Play,0,0,1,Normal
+3754282,Jay Rodriguez,Southampton,27.95084971874737,0.054430617937282,False,Right Foot,Open Play,0,0,3,Normal
+3754282,Leandro Bacuna,Aston Villa,9.5603347221737,0.05929621924482849,False,Head,Open Play,0,1,2,Normal
+3754282,Shane Long,Southampton,13.031116606031887,0.059679978574009244,False,Head,Open Play,0,0,2,Normal
+3754282,Dušan Tadić,Southampton,25.682094930125935,0.060246116037658365,False,Left Foot,Open Play,0,0,4,Normal
+3754282,Victor Wanyama,Southampton,12.544720004846665,0.06043901914444239,False,Right Foot,Open Play,0,0,2,Volley
+3754282,Virgil van Dijk,Southampton,15.46156525064652,0.0628807567473086,False,Right Foot,Open Play,0,0,1,Normal
+3754282,Scott Sinclair,Aston Villa,29.620432137293346,0.07225017213256661,False,Right Foot,Open Play,0,0,2,Normal
+3754282,Ashley Westwood,Aston Villa,9.773944955850737,0.05904594654064208,False,Right Foot,Open Play,1,0,2,Normal
+3754282,Dušan Tadić,Southampton,12.69212354178764,0.060588604867503004,True,Right Foot,Open Play,1,1,1,Normal
+3754282,Jordan Ayew,Aston Villa,6.896375859826666,0.058199137863326214,False,Head,Open Play,0,1,4,Normal
+3754282,Idrissa Gana Gueye,Aston Villa,13.594484175576504,0.06081336644780982,False,Right Foot,Open Play,1,0,2,Volley
+3754282,Ashley Westwood,Aston Villa,11.837651794169316,0.05881729465969081,True,Right Foot,Open Play,1,1,2,Half Volley
+3754282,Jay Rodriguez,Southampton,5.393514624064718,0.05657887173229937,False,Right Foot,Open Play,1,0,4,Volley
+3754282,Shane Long,Southampton,16.22621335986927,0.06289623670432215,False,Right Foot,Open Play,1,0,2,Normal
+3754282,Steven Davis,Southampton,25.045957757690157,0.06403587022210439,False,Right Foot,Free Kick,0,0,0,Normal
+3754282,Idrissa Gana Gueye,Aston Villa,25.52371446322028,0.06622475364084338,False,Right Foot,Open Play,0,0,3,Normal
+3754282,Jay Rodriguez,Southampton,27.44175650354765,0.06320381904541564,False,Right Foot,Open Play,0,0,2,Normal
+3754282,Rudy Gestede,Aston Villa,9.656603957913983,0.05949923899844689,False,Head,Open Play,0,0,1,Normal
+3754282,Dušan Tadić,Southampton,19.22004162326398,0.061389269897150336,True,Left Foot,Open Play,0,0,3,Normal
+3754282,Oriol Romeu Vidal,Southampton,9.278469701410897,0.0541025915183851,False,Head,Open Play,0,0,1,Normal
+3754282,Shane Long,Southampton,7.242237223399969,0.05820747700155283,False,Right Foot,Open Play,1,0,3,Half Volley
+3754282,Alan Hutton,Aston Villa,16.992351220475644,0.05197256965617887,False,Right Foot,Open Play,0,0,1,Normal
+3754282,Ashley Westwood,Aston Villa,18.693581786270926,0.06478160639583634,True,Right Foot,Open Play,1,0,0,Normal
+3754282,Shane Long,Southampton,14.312581877495054,0.053866836843832214,False,Right Foot,Open Play,1,0,1,Normal
+3754282,Sadio Mané,Southampton,7.864477096412707,0.0573080575254873,True,Head,Open Play,0,0,1,Normal
+3754282,Scott Sinclair,Aston Villa,16.177144370994533,0.06266086710971898,False,Left Foot,Open Play,1,0,4,Normal
+3754282,Alan Hutton,Aston Villa,9.72008230417829,0.05968160049452135,False,Head,Open Play,0,0,4,Normal
+3754282,Ashley Westwood,Aston Villa,25.18491612056709,0.05979034815006825,False,Right Foot,Open Play,1,0,1,Half Volley

@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.147445618425223,0.0632558306995932,False,Right Foot,Open Play,0,0,2,Normal
-17.48284873812046,0.06389882891962183,False,Left Foot,Open Play,1,0,3,Volley
-32.72491405641886,0.07181550355676873,False,Right Foot,Free Kick,0,0,0,Normal
-28.668623964187745,0.07158178839853116,False,Right Foot,Open Play,0,0,2,Normal
-11.881077392223318,0.054308584413038916,False,Right Foot,Open Play,1,0,2,Half Volley
-14.877163708180401,0.062388429095081986,True,Right Foot,Open Play,1,0,1,Normal
-17.97470444819608,0.061055143866107275,False,Right Foot,Open Play,1,0,1,Normal
-18.50648534973618,0.057465156296048446,False,Right Foot,Open Play,1,0,1,Normal
-22.318154045529845,0.06587711365478048,False,Right Foot,Open Play,0,0,3,Normal
-5.3160135440008,0.05634667938760199,True,Right Foot,Open Play,1,0,2,Normal
-20.860009587725507,0.05327070934175815,False,Right Foot,Open Play,0,0,1,Normal
-28.935272592460574,0.0697728423022851,False,Right Foot,Free Kick,0,0,0,Normal
-26.82107380400718,0.05208128559941539,False,Left Foot,Open Play,0,0,2,Normal
-33.6524887638344,0.06614979943835653,False,Right Foot,Open Play,0,0,0,Normal
-24.698178070456937,0.061624179787237,False,Left Foot,Open Play,0,0,2,Normal
-5.0,0.057142015113999835,True,Left Foot,Open Play,1,0,2,Volley
-12.813274366843164,0.06049900084500523,False,Right Foot,Open Play,1,0,1,Half Volley
-13.997856978837866,0.061985973461963856,True,Right Foot,Open Play,0,0,3,Normal
-23.09328906847182,0.06727309110035741,False,Left Foot,Open Play,1,0,1,Normal
-13.971399357258383,0.06189494454014196,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16136,Philippe Coutinho Correia,Barcelona,16.147445618425223,0.0632558306995932,False,Right Foot,Open Play,0,0,2,Normal
+16136,Luis Alberto Suárez Díaz,Barcelona,17.48284873812046,0.06389882891962183,False,Left Foot,Open Play,1,0,3,Volley
+16136,Luis Alberto Suárez Díaz,Barcelona,32.72491405641886,0.07181550355676873,False,Right Foot,Free Kick,0,0,0,Normal
+16136,Óscar Rodríguez Arnaiz,Leganés,28.668623964187745,0.07158178839853116,False,Right Foot,Open Play,0,0,2,Normal
+16136,Luis Alberto Suárez Díaz,Barcelona,11.881077392223318,0.054308584413038916,False,Right Foot,Open Play,1,0,2,Half Volley
+16136,Ousmane Dembélé,Barcelona,14.877163708180401,0.062388429095081986,True,Right Foot,Open Play,1,0,1,Normal
+16136,Philippe Coutinho Correia,Barcelona,17.97470444819608,0.061055143866107275,False,Right Foot,Open Play,1,0,1,Normal
+16136,Philippe Coutinho Correia,Barcelona,18.50648534973618,0.057465156296048446,False,Right Foot,Open Play,1,0,1,Normal
+16136,Luis Alberto Suárez Díaz,Barcelona,22.318154045529845,0.06587711365478048,False,Right Foot,Open Play,0,0,3,Normal
+16136,Martin Braithwaite Christensen,Leganés,5.3160135440008,0.05634667938760199,True,Right Foot,Open Play,1,0,2,Normal
+16136,Ousmane Dembélé,Barcelona,20.860009587725507,0.05327070934175815,False,Right Foot,Open Play,0,0,1,Normal
+16136,Óscar Rodríguez Arnaiz,Leganés,28.935272592460574,0.0697728423022851,False,Right Foot,Free Kick,0,0,0,Normal
+16136,Youssef En-Nesyri,Leganés,26.82107380400718,0.05208128559941539,False,Left Foot,Open Play,0,0,2,Normal
+16136,Martin Braithwaite Christensen,Leganés,33.6524887638344,0.06614979943835653,False,Right Foot,Open Play,0,0,0,Normal
+16136,Lionel Andrés Messi Cuccittini,Barcelona,24.698178070456937,0.061624179787237,False,Left Foot,Open Play,0,0,2,Normal
+16136,Luis Alberto Suárez Díaz,Barcelona,5.0,0.057142015113999835,True,Left Foot,Open Play,1,0,2,Volley
+16136,Luis Alberto Suárez Díaz,Barcelona,12.813274366843164,0.06049900084500523,False,Right Foot,Open Play,1,0,1,Half Volley
+16136,Lionel Andrés Messi Cuccittini,Barcelona,13.997856978837866,0.061985973461963856,True,Right Foot,Open Play,0,0,3,Normal
+16136,Ivan Rakitić,Barcelona,23.09328906847182,0.06727309110035741,False,Left Foot,Open Play,1,0,1,Normal
+16136,Luis Alberto Suárez Díaz,Barcelona,13.971399357258383,0.06189494454014196,False,Right Foot,Open Play,1,0,2,Normal

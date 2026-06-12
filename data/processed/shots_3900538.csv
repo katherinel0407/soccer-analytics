@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.57037384361396,0.07548725970571055,False,Left Foot,Open Play,0,0,1,Normal
-25.821115390315732,0.06945986341589279,False,Left Foot,Open Play,0,0,2,Half Volley
-16.584631439980807,0.05843014853560975,False,Left Foot,Open Play,0,0,3,Normal
-9.121403400793108,0.05935926275826656,False,Right Foot,Open Play,0,1,3,Half Volley
-14.204224723651762,0.059522408099618326,False,Right Foot,Open Play,0,0,2,Normal
-14.650938536489733,0.05544826948163872,True,Right Foot,Open Play,1,0,0,Half Volley
-43.63542139134215,0.07928322154395022,True,Left Foot,Free Kick,0,0,0,Normal
-14.392359083902816,0.05804058928979798,False,Right Foot,Open Play,1,1,1,Half Volley
-25.43737407831241,0.05671100253826569,False,Left Foot,Open Play,0,0,2,Normal
-13.879841497654064,0.05709205733642641,True,Left Foot,Open Play,1,0,2,Half Volley
-10.60188662455886,0.05439532051149953,False,Right Foot,Open Play,1,1,1,Normal
-27.630598980116222,0.06738577767482914,False,Right Foot,Open Play,1,0,1,Normal
-22.786180022109892,0.06587903780342572,False,Right Foot,Free Kick,0,0,0,Normal
-6.332456079595021,0.05772778154407744,False,Head,Open Play,0,0,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900538,Yannis Salibur,Guingamp,33.57037384361396,0.07548725970571055,False,Left Foot,Open Play,0,0,1,Normal
+3900538,Yannis Salibur,Guingamp,25.821115390315732,0.06945986341589279,False,Left Foot,Open Play,0,0,2,Half Volley
+3900538,Christophe Kerbrat,Guingamp,16.584631439980807,0.05843014853560975,False,Left Foot,Open Play,0,0,3,Normal
+3900538,Moustapha Elhadji Diallo,Guingamp,9.121403400793108,0.05935926275826656,False,Right Foot,Open Play,0,1,3,Half Volley
+3900538,Antoine Devaux,Stade de Reims,14.204224723651762,0.059522408099618326,False,Right Foot,Open Play,0,0,2,Normal
+3900538,"David N""Gog",Stade de Reims,14.650938536489733,0.05544826948163872,True,Right Foot,Open Play,1,0,0,Half Volley
+3900538,Yannis Salibur,Guingamp,43.63542139134215,0.07928322154395022,True,Left Foot,Free Kick,0,0,0,Normal
+3900538,Nicolas de Roussel de Préville,Stade de Reims,14.392359083902816,0.05804058928979798,False,Right Foot,Open Play,1,1,1,Half Volley
+3900538,Younousse Sankharé,Guingamp,25.43737407831241,0.05671100253826569,False,Left Foot,Open Play,0,0,2,Normal
+3900538,"David N""Gog",Stade de Reims,13.879841497654064,0.05709205733642641,True,Left Foot,Open Play,1,0,2,Half Volley
+3900538,Antoine Devaux,Stade de Reims,10.60188662455886,0.05439532051149953,False,Right Foot,Open Play,1,1,1,Normal
+3900538,Prince Oniangué,Stade de Reims,27.630598980116222,0.06738577767482914,False,Right Foot,Open Play,1,0,1,Normal
+3900538,Mana Dembélé,Guingamp,22.786180022109892,0.06587903780342572,False,Right Foot,Free Kick,0,0,0,Normal
+3900538,Jérémy Sorbon,Guingamp,6.332456079595021,0.05772778154407744,False,Head,Open Play,0,0,6,Normal

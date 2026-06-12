@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.72460392504752,0.06544814509780882,True,Left Foot,Open Play,0,0,3,Normal
-8.547514258543242,0.05904125184081578,True,Right Foot,Open Play,0,0,1,Half Volley
-14.926486525636228,0.06184093099503918,False,Left Foot,Open Play,0,0,1,Normal
-25.167637950352034,0.06399277376054378,False,Left Foot,Open Play,0,1,1,Normal
-23.722773868163053,0.06698399220959891,False,Right Foot,Open Play,0,1,2,Normal
-25.404330339530695,0.06443089145218332,False,Left Foot,Open Play,0,0,1,Normal
-25.460754112948027,0.06860564822882873,False,Left Foot,Open Play,1,1,1,Normal
-10.160708636704433,0.055987497544080354,False,Head,Open Play,0,1,1,Normal
-16.34778272427182,0.059732710406731226,False,Right Foot,Open Play,0,0,4,Normal
-15.917600321656533,0.06289447634770781,False,Right Foot,Open Play,1,0,3,Normal
-11.002272492535353,0.060306830236884566,False,Right Foot,Open Play,1,0,4,Backheel
-19.11910039724673,0.051640950782312144,False,Right Foot,Open Play,1,0,1,Half Volley
-27.214885632682712,0.07050072080870932,False,Right Foot,Open Play,0,0,2,Normal
-25.32212471338059,0.0620049207232204,False,Right Foot,Open Play,0,0,0,Normal
-12.840560735419619,0.05435367425896942,False,Right Foot,Open Play,0,0,1,Normal
-23.719190542680842,0.06048556188806924,False,Left Foot,Free Kick,0,0,0,Normal
-12.764011908487083,0.060792002653238225,True,Left Foot,Open Play,1,0,1,Normal
-24.5246814454337,0.06466110539899757,False,Right Foot,Open Play,0,0,2,Normal
-18.483506160899235,0.053466062811411405,False,Right Foot,Open Play,1,1,2,Normal
-13.167383946707105,0.06136029375420101,False,Left Foot,Open Play,0,0,2,Normal
-18.993156662334986,0.06484405577266307,False,Right Foot,Open Play,0,0,3,Normal
-20.4296353369315,0.06375530082021866,False,Left Foot,Open Play,0,0,2,Normal
-20.93800372528384,0.06450815778823837,False,Right Foot,Open Play,1,0,1,Normal
-23.934076125892137,0.06729531246850975,False,Right Foot,Open Play,1,0,1,Normal
-6.987131027825375,0.05716221926925452,False,Head,Open Play,0,0,3,Normal
-21.869156362329115,0.06682195806315597,False,Right Foot,Open Play,0,0,3,Normal
-25.249158401816093,0.05740063702664266,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754037,Tom Cleverley,Everton,19.72460392504752,0.06544814509780882,True,Left Foot,Open Play,0,0,3,Normal
+3754037,Marc Pugh,AFC Bournemouth,8.547514258543242,0.05904125184081578,True,Right Foot,Open Play,0,0,1,Half Volley
+3754037,Ross Barkley,Everton,14.926486525636228,0.06184093099503918,False,Left Foot,Open Play,0,0,1,Normal
+3754037,Matt Ritchie,AFC Bournemouth,25.167637950352034,0.06399277376054378,False,Left Foot,Open Play,0,1,1,Normal
+3754037,Tom Cleverley,Everton,23.722773868163053,0.06698399220959891,False,Right Foot,Open Play,0,1,2,Normal
+3754037,Matt Ritchie,AFC Bournemouth,25.404330339530695,0.06443089145218332,False,Left Foot,Open Play,0,0,1,Normal
+3754037,Matt Ritchie,AFC Bournemouth,25.460754112948027,0.06860564822882873,False,Left Foot,Open Play,1,1,1,Normal
+3754037,Steve Cook,AFC Bournemouth,10.160708636704433,0.055987497544080354,False,Head,Open Play,0,1,1,Normal
+3754037,Ross Barkley,Everton,16.34778272427182,0.059732710406731226,False,Right Foot,Open Play,0,0,4,Normal
+3754037,Ross Barkley,Everton,15.917600321656533,0.06289447634770781,False,Right Foot,Open Play,1,0,3,Normal
+3754037,El-Hadji Baye Oumar Niasse,Everton,11.002272492535353,0.060306830236884566,False,Right Foot,Open Play,1,0,4,Backheel
+3754037,Joshua King,AFC Bournemouth,19.11910039724673,0.051640950782312144,False,Right Foot,Open Play,1,0,1,Half Volley
+3754037,Ross Barkley,Everton,27.214885632682712,0.07050072080870932,False,Right Foot,Open Play,0,0,2,Normal
+3754037,Joshua King,AFC Bournemouth,25.32212471338059,0.0620049207232204,False,Right Foot,Open Play,0,0,0,Normal
+3754037,Callum Wilson,AFC Bournemouth,12.840560735419619,0.05435367425896942,False,Right Foot,Open Play,0,0,1,Normal
+3754037,Matt Ritchie,AFC Bournemouth,23.719190542680842,0.06048556188806924,False,Left Foot,Free Kick,0,0,0,Normal
+3754037,Leighton Baines,Everton,12.764011908487083,0.060792002653238225,True,Left Foot,Open Play,1,0,1,Normal
+3754037,Aaron Lennon,Everton,24.5246814454337,0.06466110539899757,False,Right Foot,Open Play,0,0,2,Normal
+3754037,Tony Hibbert,Everton,18.483506160899235,0.053466062811411405,False,Right Foot,Open Play,1,1,2,Normal
+3754037,Benik Afobe,AFC Bournemouth,13.167383946707105,0.06136029375420101,False,Left Foot,Open Play,0,0,2,Normal
+3754037,Junior Stanislas,AFC Bournemouth,18.993156662334986,0.06484405577266307,False,Right Foot,Open Play,0,0,3,Normal
+3754037,Matt Ritchie,AFC Bournemouth,20.4296353369315,0.06375530082021866,False,Left Foot,Open Play,0,0,2,Normal
+3754037,Tom Cleverley,Everton,20.93800372528384,0.06450815778823837,False,Right Foot,Open Play,1,0,1,Normal
+3754037,Junior Stanislas,AFC Bournemouth,23.934076125892137,0.06729531246850975,False,Right Foot,Open Play,1,0,1,Normal
+3754037,Benik Afobe,AFC Bournemouth,6.987131027825375,0.05716221926925452,False,Head,Open Play,0,0,3,Normal
+3754037,Junior Stanislas,AFC Bournemouth,21.869156362329115,0.06682195806315597,False,Right Foot,Open Play,0,0,3,Normal
+3754037,Matt Ritchie,AFC Bournemouth,25.249158401816093,0.05740063702664266,False,Left Foot,Open Play,0,0,3,Normal

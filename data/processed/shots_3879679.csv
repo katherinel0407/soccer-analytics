@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.060905032059438,0.05928588129321377,False,Head,Open Play,0,1,5,Normal
-24.694128856876084,0.06327708933420506,False,Right Foot,Free Kick,0,0,0,Normal
-23.926972228010793,0.0673279035096681,False,Right Foot,Open Play,0,1,3,Normal
-18.9274932307477,0.06486403210180974,False,Left Foot,Open Play,0,1,3,Normal
-4.623851208678755,0.054259086435488234,True,Left Foot,Open Play,1,1,4,Volley
-27.730488636156416,0.06743697613301769,False,Right Foot,Open Play,0,1,2,Half Volley
-17.582377541163197,0.06412923803578544,False,Right Foot,Open Play,0,1,3,Normal
-26.92582403567252,0.057608604131764996,False,Left Foot,Open Play,0,0,1,Half Volley
-23.377339455121927,0.06657112466657827,False,Right Foot,Open Play,0,0,3,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-26.135416583632264,0.0640851766140106,False,Right Foot,Open Play,0,0,3,Normal
-24.956161563830282,0.068490506070614,False,Right Foot,Open Play,0,0,2,Normal
-13.242356285797479,0.057515667689440324,False,Right Foot,Open Play,0,0,3,Lob
-30.699185656951883,0.07321711205114942,False,Left Foot,Open Play,0,0,2,Normal
-19.03943276465977,0.057553979601730046,False,Left Foot,Open Play,0,1,2,Half Volley
-28.757086083259544,0.07169550240995641,False,Left Foot,Open Play,1,0,0,Half Volley
-25.459379411132552,0.06898093051226231,False,Left Foot,Open Play,0,0,1,Normal
-32.03513695928269,0.07356938723698533,False,Left Foot,Free Kick,0,0,0,Normal
-21.982947936980608,0.06632691660737598,True,Left Foot,Open Play,0,0,2,Normal
-11.772000679578644,0.05899896268529687,True,Left Foot,Open Play,0,0,4,Normal
-33.81626827430845,0.07530678343901771,False,Right Foot,Open Play,0,0,3,Normal
-16.513025161974415,0.06263345882491843,False,Right Foot,Open Play,1,0,1,Normal
-15.556991997169638,0.06267893486435526,False,Right Foot,Open Play,0,0,1,Lob
-35.817593442329425,0.07737091163364751,False,Right Foot,Open Play,0,0,2,Normal
-25.776927667974704,0.061378816323196576,True,Left Foot,Open Play,0,0,2,Normal
-19.20937271229855,0.06298333256841936,False,Right Foot,Open Play,0,0,2,Half Volley
-20.153411621856986,0.06559055790397371,False,Right Foot,Open Play,0,0,2,Normal
-29.698653168115218,0.07185085161524923,False,Right Foot,Open Play,0,0,0,Normal
-20.972362766269327,0.05669515555512378,False,Left Foot,Open Play,0,0,2,Normal
-14.426711336961036,0.05677900461520463,True,Right Foot,Open Play,1,1,3,Normal
-17.725969649077026,0.053957594422391515,False,Right Foot,Open Play,0,1,3,Normal
-25.60019531175494,0.06567826102425348,False,Left Foot,Open Play,1,0,2,Normal
-23.312228550698453,0.061353100376983265,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879679,Daniel Ciofani,Frosinone,9.060905032059438,0.05928588129321377,False,Head,Open Play,0,1,5,Normal
+3879679,Dries Mertens,Napoli,24.694128856876084,0.06327708933420506,False,Right Foot,Free Kick,0,0,0,Normal
+3879679,Dries Mertens,Napoli,23.926972228010793,0.0673279035096681,False,Right Foot,Open Play,0,1,3,Normal
+3879679,Allan Marques Loureiro,Napoli,18.9274932307477,0.06486403210180974,False,Left Foot,Open Play,0,1,3,Normal
+3879679,Raúl Albiol i Tortajada,Napoli,4.623851208678755,0.054259086435488234,True,Left Foot,Open Play,1,1,4,Volley
+3879679,Allan Marques Loureiro,Napoli,27.730488636156416,0.06743697613301769,False,Right Foot,Open Play,0,1,2,Half Volley
+3879679,Gonzalo Gerardo Higuaín,Napoli,17.582377541163197,0.06412923803578544,False,Right Foot,Open Play,0,1,3,Normal
+3879679,Elseid Hysaj,Napoli,26.92582403567252,0.057608604131764996,False,Left Foot,Open Play,0,0,1,Half Volley
+3879679,Gonzalo Gerardo Higuaín,Napoli,23.377339455121927,0.06657112466657827,False,Right Foot,Open Play,0,0,3,Normal
+3879679,Gonzalo Gerardo Higuaín,Napoli,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879679,Paolo Sammarco,Frosinone,26.135416583632264,0.0640851766140106,False,Right Foot,Open Play,0,0,3,Normal
+3879679,Dries Mertens,Napoli,24.956161563830282,0.068490506070614,False,Right Foot,Open Play,0,0,2,Normal
+3879679,Luca Paganini,Frosinone,13.242356285797479,0.057515667689440324,False,Right Foot,Open Play,0,0,3,Lob
+3879679,Oliver Kragl,Frosinone,30.699185656951883,0.07321711205114942,False,Left Foot,Open Play,0,0,2,Normal
+3879679,Gonzalo Gerardo Higuaín,Napoli,19.03943276465977,0.057553979601730046,False,Left Foot,Open Play,0,1,2,Half Volley
+3879679,Ivan Strinić,Napoli,28.757086083259544,0.07169550240995641,False,Left Foot,Open Play,1,0,0,Half Volley
+3879679,Gonzalo Gerardo Higuaín,Napoli,25.459379411132552,0.06898093051226231,False,Left Foot,Open Play,0,0,1,Normal
+3879679,Oliver Kragl,Frosinone,32.03513695928269,0.07356938723698533,False,Left Foot,Free Kick,0,0,0,Normal
+3879679,Marek Hamšík,Napoli,21.982947936980608,0.06632691660737598,True,Left Foot,Open Play,0,0,2,Normal
+3879679,Gonzalo Gerardo Higuaín,Napoli,11.772000679578644,0.05899896268529687,True,Left Foot,Open Play,0,0,4,Normal
+3879679,Federico Dionisi,Frosinone,33.81626827430845,0.07530678343901771,False,Right Foot,Open Play,0,0,3,Normal
+3879679,Gonzalo Gerardo Higuaín,Napoli,16.513025161974415,0.06263345882491843,False,Right Foot,Open Play,1,0,1,Normal
+3879679,Dries Mertens,Napoli,15.556991997169638,0.06267893486435526,False,Right Foot,Open Play,0,0,1,Lob
+3879679,Danilo Soddimo,Frosinone,35.817593442329425,0.07737091163364751,False,Right Foot,Open Play,0,0,2,Normal
+3879679,Manolo Gabbiadini,Napoli,25.776927667974704,0.061378816323196576,True,Left Foot,Open Play,0,0,2,Normal
+3879679,Daniel Ciofani,Frosinone,19.20937271229855,0.06298333256841936,False,Right Foot,Open Play,0,0,2,Half Volley
+3879679,Dries Mertens,Napoli,20.153411621856986,0.06559055790397371,False,Right Foot,Open Play,0,0,2,Normal
+3879679,Jorge Luiz Frello Filho,Napoli,29.698653168115218,0.07185085161524923,False,Right Foot,Open Play,0,0,0,Normal
+3879679,Elseid Hysaj,Napoli,20.972362766269327,0.05669515555512378,False,Left Foot,Open Play,0,0,2,Normal
+3879679,Paolo Sammarco,Frosinone,14.426711336961036,0.05677900461520463,True,Right Foot,Open Play,1,1,3,Normal
+3879679,Omar El Kaddouri,Napoli,17.725969649077026,0.053957594422391515,False,Right Foot,Open Play,0,1,3,Normal
+3879679,Manolo Gabbiadini,Napoli,25.60019531175494,0.06567826102425348,False,Left Foot,Open Play,1,0,2,Normal
+3879679,Manolo Gabbiadini,Napoli,23.312228550698453,0.061353100376983265,False,Left Foot,Open Play,0,0,3,Normal

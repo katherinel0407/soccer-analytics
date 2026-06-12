@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.221921916437784,0.058705330813369844,False,Head,Open Play,0,1,5,Normal
-10.25524256173398,0.0553213831717586,False,Head,Open Play,0,1,2,Normal
-25.262026838715848,0.057611012501675024,False,Left Foot,Open Play,0,1,2,Normal
-16.522106403240475,0.062489421136566456,False,Right Foot,Open Play,1,0,1,Backheel
-29.007757583101796,0.06302192527535014,False,Left Foot,Open Play,0,0,3,Normal
-10.217631819555836,0.059720568566529894,False,Head,Open Play,0,1,2,Normal
-2.863564212655268,0.05610570219261037,True,Left Foot,Open Play,0,0,3,Normal
-27.115493725912494,0.07051803724716503,False,Right Foot,Open Play,0,0,1,Normal
-18.88544413033487,0.06234161253369198,False,Left Foot,Open Play,0,0,3,Normal
-11.374093370462552,0.05674290234739858,False,Right Foot,Open Play,1,0,2,Normal
-30.423674991690266,0.07252835868709105,False,Right Foot,Open Play,0,1,1,Normal
-28.049242414011825,0.07017208885224227,False,Right Foot,Open Play,1,0,1,Normal
-21.577998053572994,0.06337136860412361,False,Left Foot,Open Play,0,0,1,Normal
-15.20690632574555,0.06245176784693003,False,Right Foot,Open Play,1,0,0,Normal
-22.083930809527548,0.06198166730840869,False,Left Foot,Open Play,0,0,2,Normal
-28.684490582891655,0.05726038270413542,False,Right Foot,Open Play,0,0,0,Normal
-28.001607096736432,0.06674541468984121,False,Right Foot,Open Play,0,0,2,Half Volley
-14.160508465447139,0.06153352740155812,False,Right Foot,Open Play,1,0,1,Normal
-22.945587811167528,0.0672405409278642,False,Left Foot,Open Play,1,0,0,Normal
-4.810405388322279,0.056059238340219225,False,Right Foot,Open Play,1,0,2,Half Volley
-2.4413111231467397,0.05522596790118164,True,Right Foot,Open Play,1,0,2,Half Volley
-20.0,0.05341375243479811,True,Right Foot,Open Play,0,0,2,Normal
-15.999999999999995,0.05395742371484372,False,Right Foot,Open Play,1,1,3,Normal
-24.043502240730238,0.06815773701998167,False,Right Foot,Open Play,0,0,3,Normal
-34.628312115955055,0.0711621469945423,False,Right Foot,Open Play,0,0,1,Normal
-16.24315240339756,0.054080330034192804,False,Head,Open Play,0,0,1,Normal
-32.50984466280945,0.05814401632423229,False,Right Foot,Free Kick,0,0,0,Normal
-5.508175741568165,0.05705945442807473,False,Right Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69324,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8.221921916437784,0.058705330813369844,False,Head,Open Play,0,1,5,Normal
+69324,Kléper Laveran Lima Ferreira,Real Madrid,10.25524256173398,0.0553213831717586,False,Head,Open Play,0,1,2,Normal
+69324,Karim Benzema,Real Madrid,25.262026838715848,0.057611012501675024,False,Left Foot,Open Play,0,1,2,Normal
+69324,Andrés Iniesta Luján,Barcelona,16.522106403240475,0.062489421136566456,False,Right Foot,Open Play,1,0,1,Backheel
+69324,Ángel Fabián Di María Hernández,Real Madrid,29.007757583101796,0.06302192527535014,False,Left Foot,Open Play,0,0,3,Normal
+69324,Kléper Laveran Lima Ferreira,Real Madrid,10.217631819555836,0.059720568566529894,False,Head,Open Play,0,1,2,Normal
+69324,Sami Khedira,Real Madrid,2.863564212655268,0.05610570219261037,True,Left Foot,Open Play,0,0,3,Normal
+69324,Cristian Tello Herrera,Barcelona,27.115493725912494,0.07051803724716503,False,Right Foot,Open Play,0,0,1,Normal
+69324,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18.88544413033487,0.06234161253369198,False,Left Foot,Open Play,0,0,3,Normal
+69324,Xavier Hernández Creus,Barcelona,11.374093370462552,0.05674290234739858,False,Right Foot,Open Play,1,0,2,Normal
+69324,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,30.423674991690266,0.07252835868709105,False,Right Foot,Open Play,0,1,1,Normal
+69324,Thiago Alcântara do Nascimento,Barcelona,28.049242414011825,0.07017208885224227,False,Right Foot,Open Play,1,0,1,Normal
+69324,Cristian Tello Herrera,Barcelona,21.577998053572994,0.06337136860412361,False,Left Foot,Open Play,0,0,1,Normal
+69324,Cristian Tello Herrera,Barcelona,15.20690632574555,0.06245176784693003,False,Right Foot,Open Play,1,0,0,Normal
+69324,Lionel Andrés Messi Cuccittini,Barcelona,22.083930809527548,0.06198166730840869,False,Left Foot,Open Play,0,0,2,Normal
+69324,Xavier Hernández Creus,Barcelona,28.684490582891655,0.05726038270413542,False,Right Foot,Open Play,0,0,0,Normal
+69324,Xabier Alonso Olano,Real Madrid,28.001607096736432,0.06674541468984121,False,Right Foot,Open Play,0,0,2,Half Volley
+69324,Cristian Tello Herrera,Barcelona,14.160508465447139,0.06153352740155812,False,Right Foot,Open Play,1,0,1,Normal
+69324,Adriano Correia Claro,Barcelona,22.945587811167528,0.0672405409278642,False,Left Foot,Open Play,1,0,0,Normal
+69324,Alexis Alejandro Sánchez Sánchez,Barcelona,4.810405388322279,0.056059238340219225,False,Right Foot,Open Play,1,0,2,Half Volley
+69324,Alexis Alejandro Sánchez Sánchez,Barcelona,2.4413111231467397,0.05522596790118164,True,Right Foot,Open Play,1,0,2,Half Volley
+69324,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,20.0,0.05341375243479811,True,Right Foot,Open Play,0,0,2,Normal
+69324,Sami Khedira,Real Madrid,15.999999999999995,0.05395742371484372,False,Right Foot,Open Play,1,1,3,Normal
+69324,Karim Benzema,Real Madrid,24.043502240730238,0.06815773701998167,False,Right Foot,Open Play,0,0,3,Normal
+69324,Javier Alejandro Mascherano,Barcelona,34.628312115955055,0.0711621469945423,False,Right Foot,Open Play,0,0,1,Normal
+69324,Francesc Fàbregas i Soler,Barcelona,16.24315240339756,0.054080330034192804,False,Head,Open Play,0,0,1,Normal
+69324,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32.50984466280945,0.05814401632423229,False,Right Foot,Free Kick,0,0,0,Normal
+69324,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,5.508175741568165,0.05705945442807473,False,Right Foot,Open Play,1,0,3,Normal

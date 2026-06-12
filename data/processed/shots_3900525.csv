@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.385566907973779,0.054667816670610436,False,Head,Open Play,0,0,3,Normal
-37.280826171103016,0.050817414412275407,False,Right Foot,Open Play,0,0,1,Lob
-15.065191668213187,0.06032482459426226,False,Head,Open Play,0,0,2,Normal
-35.20979977222251,0.07576082458648907,False,Left Foot,Open Play,0,0,2,Normal
-19.121192431435865,0.06379777011411121,False,Right Foot,Open Play,0,0,3,Normal
-16.705687654209267,0.06244778985649759,False,Left Foot,Open Play,0,1,1,Normal
-7.74661216274572,0.05827546469117367,False,Right Foot,Open Play,1,0,1,Half Volley
-13.329666162361304,0.05721314369282431,False,Right Foot,Open Play,1,1,2,Normal
-22.992390045404154,0.06715179096683284,False,Left Foot,Open Play,0,0,2,Half Volley
-17.55135322418189,0.05938261686147526,False,Head,Open Play,0,0,2,Normal
-18.531055015837605,0.05663823204096553,False,Right Foot,Open Play,0,1,2,Half Volley
-11.700427342623007,0.05943049385923767,False,Head,Open Play,0,0,3,Normal
-27.214885632682712,0.056593988067209305,False,Right Foot,Open Play,0,1,2,Normal
-27.390691849604675,0.0703482483657786,False,Left Foot,Open Play,1,0,0,Volley
-24.36144494893519,0.06232424202917252,False,Right Foot,Open Play,0,0,2,Normal
-9.198369420718,0.0589842897823666,False,Head,Open Play,0,1,5,Normal
-54.55501810099599,0.09681704881338243,False,Left Foot,Open Play,0,0,1,Lob
-28.961353559528256,0.06287085574134642,False,Left Foot,Free Kick,0,0,0,Normal
-18.51512894905137,0.0640736375685765,False,Right Foot,Open Play,1,0,2,Normal
-22.46641938538493,0.06728112568940234,False,Right Foot,Open Play,0,0,2,Normal
-24.256339377573028,0.06095078580290794,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900525,François Modesto,Bastia,10.385566907973779,0.054667816670610436,False,Head,Open Play,0,0,3,Normal
+3900525,Yannick Cahuzac,Bastia,37.280826171103016,0.050817414412275407,False,Right Foot,Open Play,0,0,1,Lob
+3900525,Lorik Agim Cana,Nantes,15.065191668213187,0.06032482459426226,False,Head,Open Play,0,0,2,Normal
+3900525,Ermir Lenjani,Nantes,35.20979977222251,0.07576082458648907,False,Left Foot,Open Play,0,0,2,Normal
+3900525,Yacine Bammou,Nantes,19.121192431435865,0.06379777011411121,False,Right Foot,Open Play,0,0,3,Normal
+3900525,Kolbeinn Sigþórsson,Nantes,16.705687654209267,0.06244778985649759,False,Left Foot,Open Play,0,1,1,Normal
+3900525,Jules Iloki,Nantes,7.74661216274572,0.05827546469117367,False,Right Foot,Open Play,1,0,1,Half Volley
+3900525,Lucas Deaux,Nantes,13.329666162361304,0.05721314369282431,False,Right Foot,Open Play,1,1,2,Normal
+3900525,Ermir Lenjani,Nantes,22.992390045404154,0.06715179096683284,False,Left Foot,Open Play,0,0,2,Half Volley
+3900525,Yacine Bammou,Nantes,17.55135322418189,0.05938261686147526,False,Head,Open Play,0,0,2,Normal
+3900525,Florian Raspentino,Bastia,18.531055015837605,0.05663823204096553,False,Right Foot,Open Play,0,1,2,Half Volley
+3900525,Ermir Lenjani,Nantes,11.700427342623007,0.05943049385923767,False,Head,Open Play,0,0,3,Normal
+3900525,Yacine Bammou,Nantes,27.214885632682712,0.056593988067209305,False,Right Foot,Open Play,0,1,2,Normal
+3900525,Julian Palmieri,Bastia,27.390691849604675,0.0703482483657786,False,Left Foot,Open Play,1,0,0,Volley
+3900525,Ermir Lenjani,Nantes,24.36144494893519,0.06232424202917252,False,Right Foot,Open Play,0,0,2,Normal
+3900525,Emiliano Sala,Nantes,9.198369420718,0.0589842897823666,False,Head,Open Play,0,1,5,Normal
+3900525,Gaël Danic,Bastia,54.55501810099599,0.09681704881338243,False,Left Foot,Open Play,0,0,1,Lob
+3900525,Ermir Lenjani,Nantes,28.961353559528256,0.06287085574134642,False,Left Foot,Free Kick,0,0,0,Normal
+3900525,Emiliano Sala,Nantes,18.51512894905137,0.0640736375685765,False,Right Foot,Open Play,1,0,2,Normal
+3900525,Adryan Oliveira Tavares,Nantes,22.46641938538493,0.06728112568940234,False,Right Foot,Open Play,0,0,2,Normal
+3900525,Gaël Danic,Bastia,24.256339377573028,0.06095078580290794,False,Left Foot,Free Kick,0,0,0,Normal

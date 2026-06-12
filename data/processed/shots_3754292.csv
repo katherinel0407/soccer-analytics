@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.87883310285996,0.06577472548408571,False,Right Foot,Open Play,0,1,1,Normal
-21.523243250030884,0.05684666512358018,False,Left Foot,Open Play,0,0,2,Normal
-21.856349191939625,0.06582301404277517,False,Right Foot,Open Play,0,1,2,Normal
-8.160882305241264,0.053412973788806016,False,Left Foot,Open Play,1,0,1,Volley
-21.24617612654098,0.05924678191089493,False,Right Foot,Free Kick,0,0,1,Normal
-32.16022387981776,0.07283360931808126,False,Right Foot,Open Play,0,0,1,Normal
-36.6477830161662,0.06476166472197678,False,Right Foot,Open Play,0,0,0,Normal
-32.809297462761975,0.07141631192933172,False,Right Foot,Open Play,1,0,0,Normal
-23.0540668863435,0.06716604865898049,True,Right Foot,Open Play,0,0,4,Normal
-28.160255680657446,0.06529209575339567,False,Right Foot,Open Play,0,0,0,Normal
-11.157060544785079,0.0580979068882031,False,Right Foot,Open Play,1,1,1,Normal
-27.754098796394018,0.06909648728122536,False,Right Foot,Open Play,0,1,2,Half Volley
-18.531055015837598,0.05470487289882421,False,Right Foot,Open Play,1,0,1,Normal
-6.972087205421349,0.057833162102335266,False,Head,Open Play,0,1,3,Normal
-30.901294471267704,0.06972415218928374,False,Right Foot,Open Play,0,0,1,Normal
-24.709917037497316,0.0649513072878314,False,Right Foot,Open Play,0,0,1,Normal
-23.169807940507404,0.063157352847352,False,Right Foot,Open Play,0,1,2,Normal
-15.288230767489091,0.06229990968517402,False,Right Foot,Open Play,1,0,2,Normal
-6.2649820430708365,0.056955738678803686,False,Head,Open Play,0,0,3,Normal
-13.462912017836265,0.06066029731863288,False,Head,Open Play,0,0,1,Normal
-17.00264685276972,0.061864672933230926,False,Right Foot,Open Play,0,0,3,Normal
-14.526183256451093,0.06133376921801377,False,Right Foot,Open Play,1,0,2,Normal
-27.849775582578758,0.06891061271326414,False,Right Foot,Open Play,0,0,2,Normal
-25.04096643502402,0.06164233739053749,False,Right Foot,Open Play,0,1,2,Normal
-28.11867706703145,0.06497498554402362,False,Right Foot,Free Kick,0,0,0,Normal
-17.47226373427324,0.06352432965098964,False,Right Foot,Open Play,0,0,2,Normal
-21.636312070221205,0.052766543590788646,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754292,Jonjo Shelvey,Newcastle United,31.87883310285996,0.06577472548408571,False,Right Foot,Open Play,0,1,1,Normal
+3754292,Daryl Janmaat,Newcastle United,21.523243250030884,0.05684666512358018,False,Left Foot,Open Play,0,0,2,Normal
+3754292,Andros Townsend,Newcastle United,21.856349191939625,0.06582301404277517,False,Right Foot,Open Play,0,1,2,Normal
+3754292,Aleksandar Mitrović,Newcastle United,8.160882305241264,0.053412973788806016,False,Left Foot,Open Play,1,0,1,Volley
+3754292,Craig Gardner,West Bromwich Albion,21.24617612654098,0.05924678191089493,False,Right Foot,Free Kick,0,0,1,Normal
+3754292,Jonjo Shelvey,Newcastle United,32.16022387981776,0.07283360931808126,False,Right Foot,Open Play,0,0,1,Normal
+3754292,Daryl Janmaat,Newcastle United,36.6477830161662,0.06476166472197678,False,Right Foot,Open Play,0,0,0,Normal
+3754292,Cheik Ismaël Tioté,Newcastle United,32.809297462761975,0.07141631192933172,False,Right Foot,Open Play,1,0,0,Normal
+3754292,Aleksandar Mitrović,Newcastle United,23.0540668863435,0.06716604865898049,True,Right Foot,Open Play,0,0,4,Normal
+3754292,Cheik Ismaël Tioté,Newcastle United,28.160255680657446,0.06529209575339567,False,Right Foot,Open Play,0,0,0,Normal
+3754292,James McClean,West Bromwich Albion,11.157060544785079,0.0580979068882031,False,Right Foot,Open Play,1,1,1,Normal
+3754292,Darren Fletcher,West Bromwich Albion,27.754098796394018,0.06909648728122536,False,Right Foot,Open Play,0,1,2,Half Volley
+3754292,Moussa Sissoko,Newcastle United,18.531055015837598,0.05470487289882421,False,Right Foot,Open Play,1,0,1,Normal
+3754292,Moussa Sissoko,Newcastle United,6.972087205421349,0.057833162102335266,False,Head,Open Play,0,1,3,Normal
+3754292,Jonjo Shelvey,Newcastle United,30.901294471267704,0.06972415218928374,False,Right Foot,Open Play,0,0,1,Normal
+3754292,Andros Townsend,Newcastle United,24.709917037497316,0.0649513072878314,False,Right Foot,Open Play,0,0,1,Normal
+3754292,Alex Pritchard,West Bromwich Albion,23.169807940507404,0.063157352847352,False,Right Foot,Open Play,0,1,2,Normal
+3754292,Saido Berahino,West Bromwich Albion,15.288230767489091,0.06229990968517402,False,Right Foot,Open Play,1,0,2,Normal
+3754292,Georginio Wijnaldum,Newcastle United,6.2649820430708365,0.056955738678803686,False,Head,Open Play,0,0,3,Normal
+3754292,Aleksandar Mitrović,Newcastle United,13.462912017836265,0.06066029731863288,False,Head,Open Play,0,0,1,Normal
+3754292,Andros Townsend,Newcastle United,17.00264685276972,0.061864672933230926,False,Right Foot,Open Play,0,0,3,Normal
+3754292,Moussa Sissoko,Newcastle United,14.526183256451093,0.06133376921801377,False,Right Foot,Open Play,1,0,2,Normal
+3754292,Moussa Sissoko,Newcastle United,27.849775582578758,0.06891061271326414,False,Right Foot,Open Play,0,0,2,Normal
+3754292,Jonjo Shelvey,Newcastle United,25.04096643502402,0.06164233739053749,False,Right Foot,Open Play,0,1,2,Normal
+3754292,Alex Pritchard,West Bromwich Albion,28.11867706703145,0.06497498554402362,False,Right Foot,Free Kick,0,0,0,Normal
+3754292,Georginio Wijnaldum,Newcastle United,17.47226373427324,0.06352432965098964,False,Right Foot,Open Play,0,0,2,Normal
+3754292,Craig Dawson,West Bromwich Albion,21.636312070221205,0.052766543590788646,False,Right Foot,Open Play,1,0,2,Normal

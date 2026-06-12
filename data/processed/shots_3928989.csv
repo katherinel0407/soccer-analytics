@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.594461539959823,0.0665645180042312,False,Right Foot,Open Play,0,0,0,Normal
-10.77868266533532,0.056994830572162467,False,Head,Open Play,0,1,2,Normal
-25.942243542145693,0.06963844743583315,False,Right Foot,Open Play,0,0,1,Normal
-21.985677155821236,0.06563743238699382,False,Right Foot,Open Play,0,0,3,Normal
-5.508175741568162,0.057346093664504355,False,Head,Open Play,0,1,5,Normal
-17.998055450520205,0.059620206880675555,False,Right Foot,Open Play,1,0,1,Half Volley
-14.12303083619094,0.06131813640302395,False,Right Foot,Open Play,1,0,2,Volley
-12.687395319765209,0.06107680144457801,False,Left Foot,Open Play,1,0,2,Volley
-17.130382365843445,0.06384083754267779,False,Left Foot,Open Play,1,0,1,Half Volley
-18.36191711123869,0.06464494082350737,True,Left Foot,Open Play,0,1,3,Half Volley
-19.70913493789111,0.06321358409869315,False,Left Foot,Open Play,0,0,1,Normal
-20.011246837716033,0.061728222353689265,False,Right Foot,Open Play,0,0,3,Normal
-6.360031446463132,0.05775834084886762,False,Head,Open Play,0,1,6,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-7.017834423809103,0.05590657961796195,False,Head,Open Play,0,1,2,Normal
-14.252368224263645,0.061187235426688365,True,Right Foot,Open Play,0,1,1,Normal
-5.80517010948,0.056700266802591846,False,Head,Open Play,0,1,6,Normal
-11.595257651298652,0.05836653301370795,False,Right Foot,Open Play,1,0,1,Normal
-17.880715869338115,0.053642372374054746,False,Right Foot,Open Play,1,0,2,Normal
-17.590054007876162,0.05759220186052319,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3928989,Valentina Giacinti,AS Roma W,31.594461539959823,0.0665645180042312,False,Right Foot,Open Play,0,0,0,Normal
+3928989,Manuela Giugliano,AS Roma W,10.77868266533532,0.056994830572162467,False,Head,Open Play,0,1,2,Normal
+3928989,Valentina Giacinti,AS Roma W,25.942243542145693,0.06963844743583315,False,Right Foot,Open Play,0,0,1,Normal
+3928989,Giada Greggi,AS Roma W,21.985677155821236,0.06563743238699382,False,Right Foot,Open Play,0,0,3,Normal
+3928989,Saki Kumagai,AS Roma W,5.508175741568162,0.057346093664504355,False,Head,Open Play,0,1,5,Normal
+3928989,Cecilia Prugna,Sassuolo W,17.998055450520205,0.059620206880675555,False,Right Foot,Open Play,1,0,1,Half Volley
+3928989,Giada Pondini,Sassuolo W,14.12303083619094,0.06131813640302395,False,Right Foot,Open Play,1,0,2,Volley
+3928989,Loreta Kullashi,Sassuolo W,12.687395319765209,0.06107680144457801,False,Left Foot,Open Play,1,0,2,Volley
+3928989,Kassandra Ndoutou Eboa Missipo,Sassuolo W,17.130382365843445,0.06384083754267779,False,Left Foot,Open Play,1,0,1,Half Volley
+3928989,Manuela Giugliano,AS Roma W,18.36191711123869,0.06464494082350737,True,Left Foot,Open Play,0,1,3,Half Volley
+3928989,Giada Greggi,AS Roma W,19.70913493789111,0.06321358409869315,False,Left Foot,Open Play,0,0,1,Normal
+3928989,Manuela Giugliano,AS Roma W,20.011246837716033,0.061728222353689265,False,Right Foot,Open Play,0,0,3,Normal
+3928989,Anja Sønstevold,AS Roma W,6.360031446463132,0.05775834084886762,False,Head,Open Play,0,1,6,Normal
+3928989,Manuela Giugliano,AS Roma W,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3928989,Manuela Sciabica,Sassuolo W,7.017834423809103,0.05590657961796195,False,Head,Open Play,0,1,2,Normal
+3928989,Valentina Giacinti,AS Roma W,14.252368224263645,0.061187235426688365,True,Right Foot,Open Play,0,1,1,Normal
+3928989,Saki Kumagai,AS Roma W,5.80517010948,0.056700266802591846,False,Head,Open Play,0,1,6,Normal
+3928989,Valentina Giacinti,AS Roma W,11.595257651298652,0.05836653301370795,False,Right Foot,Open Play,1,0,1,Normal
+3928989,Manuela Sciabica,Sassuolo W,17.880715869338115,0.053642372374054746,False,Right Foot,Open Play,1,0,2,Normal
+3928989,Loreta Kullashi,Sassuolo W,17.590054007876162,0.05759220186052319,False,Right Foot,Open Play,0,0,3,Normal

@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.456328960733263,0.07054505233273849,False,Right Foot,Open Play,0,0,4,Normal
-5.470831746635973,0.057490128052840685,False,Head,Open Play,0,1,5,Normal
-17.952437160452618,0.06326396958401025,False,Left Foot,Open Play,1,0,1,Normal
-11.248555462813883,0.060329952768003896,True,Left Foot,Open Play,1,0,2,Normal
-26.392802049043596,0.05992925913774019,False,Right Foot,Open Play,1,0,1,Half Volley
-19.250974001333027,0.06212745352067239,False,Right Foot,Open Play,0,0,3,Normal
-19.890952717253146,0.05988914023773553,False,Right Foot,Open Play,0,0,2,Normal
-18.670297265978387,0.053319180586993316,False,Right Foot,Open Play,1,0,1,Normal
-18.245547402037566,0.06317391051402534,True,Left Foot,Open Play,0,0,1,Normal
-11.182575731914367,0.05688821852577664,False,Left Foot,Open Play,0,1,3,Half Volley
-21.78623418583395,0.06089769144485393,False,Left Foot,Open Play,0,0,2,Normal
-16.017802595861887,0.06319034564510305,False,Left Foot,Open Play,0,0,2,Normal
-20.4611827615121,0.05323983077316775,False,Right Foot,Open Play,0,0,2,Normal
-28.398063314247334,0.07140695737276426,False,Left Foot,Open Play,0,0,1,Normal
-10.101980003939822,0.05935581253165284,False,Head,Open Play,0,0,1,Normal
-18.917980864775185,0.06436608536136433,False,Left Foot,Open Play,0,0,2,Normal
-18.65743819499344,0.059556336677747485,False,Left Foot,Open Play,1,0,4,Volley
-28.817529387509953,0.05299208465073066,False,Left Foot,Open Play,0,0,2,Normal
-30.647022693893124,0.07292842045898654,False,Right Foot,Open Play,0,0,1,Normal
-23.903347045968275,0.0682388756563063,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16109,Sofiane Boufal,Celta Vigo,27.456328960733263,0.07054505233273849,False,Right Foot,Open Play,0,0,4,Normal
+16109,Néstor Alejandro Araújo Razo,Celta Vigo,5.470831746635973,0.057490128052840685,False,Head,Open Play,0,1,5,Normal
+16109,Lionel Andrés Messi Cuccittini,Barcelona,17.952437160452618,0.06326396958401025,False,Left Foot,Open Play,1,0,1,Normal
+16109,Ousmane Dembélé,Barcelona,11.248555462813883,0.060329952768003896,True,Left Foot,Open Play,1,0,2,Normal
+16109,Jordi Alba Ramos,Barcelona,26.392802049043596,0.05992925913774019,False,Right Foot,Open Play,1,0,1,Half Volley
+16109,Maximiliano Gómez González,Celta Vigo,19.250974001333027,0.06212745352067239,False,Right Foot,Open Play,0,0,3,Normal
+16109,Luis Alberto Suárez Díaz,Barcelona,19.890952717253146,0.05988914023773553,False,Right Foot,Open Play,0,0,2,Normal
+16109,Hugo Mallo Novegil,Celta Vigo,18.670297265978387,0.053319180586993316,False,Right Foot,Open Play,1,0,1,Normal
+16109,Lionel Andrés Messi Cuccittini,Barcelona,18.245547402037566,0.06317391051402534,True,Left Foot,Open Play,0,0,1,Normal
+16109,Sofiane Boufal,Celta Vigo,11.182575731914367,0.05688821852577664,False,Left Foot,Open Play,0,1,3,Half Volley
+16109,Brais Méndez Portela,Celta Vigo,21.78623418583395,0.06089769144485393,False,Left Foot,Open Play,0,0,2,Normal
+16109,Luis Alberto Suárez Díaz,Barcelona,16.017802595861887,0.06319034564510305,False,Left Foot,Open Play,0,0,2,Normal
+16109,Nélson Cabral Semedo,Barcelona,20.4611827615121,0.05323983077316775,False,Right Foot,Open Play,0,0,2,Normal
+16109,Róbert Mazáň,Celta Vigo,28.398063314247334,0.07140695737276426,False,Left Foot,Open Play,0,0,1,Normal
+16109,Maximiliano Gómez González,Celta Vigo,10.101980003939822,0.05935581253165284,False,Head,Open Play,0,0,1,Normal
+16109,Francisco José Beltrán Peinado,Celta Vigo,18.917980864775185,0.06436608536136433,False,Left Foot,Open Play,0,0,2,Normal
+16109,Francisco José Beltrán Peinado,Celta Vigo,18.65743819499344,0.059556336677747485,False,Left Foot,Open Play,1,0,4,Volley
+16109,Brais Méndez Portela,Celta Vigo,28.817529387509953,0.05299208465073066,False,Left Foot,Open Play,0,0,2,Normal
+16109,Philippe Coutinho Correia,Barcelona,30.647022693893124,0.07292842045898654,False,Right Foot,Open Play,0,0,1,Normal
+16109,Lionel Andrés Messi Cuccittini,Barcelona,23.903347045968275,0.0682388756563063,False,Left Foot,Free Kick,0,0,0,Normal

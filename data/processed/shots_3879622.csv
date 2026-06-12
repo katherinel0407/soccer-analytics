@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.28526604689272,0.07367653019990819,False,Left Foot,Open Play,0,0,1,Normal
-7.602631123499279,0.057858792355910384,True,Head,Open Play,0,1,5,Normal
-22.011815009217212,0.05816037509642266,False,Left Foot,Free Kick,0,0,0,Normal
-17.273389939441536,0.06331239720134625,True,Left Foot,Open Play,0,0,0,Half Volley
-22.14610575247938,0.06692607839743524,False,Left Foot,Open Play,1,0,0,Half Volley
-21.537177159507234,0.06649734955053667,False,Other,Open Play,0,0,4,Normal
-11.851160280748882,0.059898032391918106,False,Right Foot,Open Play,1,1,3,Volley
-17.267889274604464,0.06361278333270656,False,Left Foot,Open Play,0,1,1,Normal
-8.20975030070952,0.05790203752341086,False,Head,Open Play,0,0,3,Normal
-44.70727010229992,0.08594573763454384,False,Right Foot,Open Play,0,0,1,Half Volley
-9.972963451251594,0.056769706977762395,False,Right Foot,Open Play,0,1,2,Normal
-8.614522621712704,0.058360166282675124,False,Left Foot,Open Play,1,1,1,Half Volley
-12.969194269498782,0.05804704905197721,False,Head,Open Play,0,0,3,Normal
-13.376471881628575,0.06165618318350611,False,Left Foot,Open Play,0,1,2,Half Volley
-24.82841114529885,0.060616464671317004,False,Right Foot,Open Play,0,0,1,Normal
-11.601724009818538,0.054313885235027067,False,Right Foot,Open Play,1,1,2,Volley
-19.859506539690255,0.06423713510199283,False,Right Foot,Open Play,0,1,3,Normal
-12.701574705523724,0.05981267559527892,False,Head,Open Play,0,1,4,Normal
-29.014651471282573,0.07035951355766307,False,Left Foot,Open Play,0,0,1,Normal
-23.622235287965452,0.06063214263175423,False,Right Foot,Open Play,1,1,1,Normal
-26.896282270975668,0.06845817440947814,False,Right Foot,Open Play,0,1,2,Normal
-9.600520819205586,0.05856613535453928,False,Head,Open Play,0,1,2,Normal
-15.840454538932908,0.05801293973199684,False,Head,Open Play,0,0,2,Normal
-19.32588937151406,0.06512801747062383,False,Left Foot,Open Play,1,0,2,Half Volley
-30.095846889562686,0.06923387573518573,False,Right Foot,Open Play,1,0,0,Normal
-11.957006314291217,0.05367506783061559,False,Right Foot,Open Play,1,0,0,Half Volley
-25.415939880319208,0.06607663860152592,False,Left Foot,Open Play,1,0,0,Volley
-26.906690617762706,0.07017726264903065,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879622,Valter Birsa,Chievo,35.28526604689272,0.07367653019990819,False,Left Foot,Open Play,0,0,1,Normal
+3879622,Roberto Inglese,Chievo,7.602631123499279,0.057858792355910384,True,Head,Open Play,0,1,5,Normal
+3879622,Gabriel Moisés Antunes da Silva,Carpi,22.011815009217212,0.05816037509642266,False,Left Foot,Free Kick,0,0,0,Normal
+3879622,Riccardo Meggiorini,Chievo,17.273389939441536,0.06331239720134625,True,Left Foot,Open Play,0,0,0,Half Volley
+3879622,Raffaele Bianco,Carpi,22.14610575247938,0.06692607839743524,False,Left Foot,Open Play,1,0,0,Half Volley
+3879622,Raffaele Bianco,Carpi,21.537177159507234,0.06649734955053667,False,Other,Open Play,0,0,4,Normal
+3879622,Lorenzo Pasciuti,Carpi,11.851160280748882,0.059898032391918106,False,Right Foot,Open Play,1,1,3,Volley
+3879622,Valter Birsa,Chievo,17.267889274604464,0.06361278333270656,False,Left Foot,Open Play,0,1,1,Normal
+3879622,Boštjan Cesar,Chievo,8.20975030070952,0.05790203752341086,False,Head,Open Play,0,0,3,Normal
+3879622,Nicola Rigoni,Chievo,44.70727010229992,0.08594573763454384,False,Right Foot,Open Play,0,0,1,Half Volley
+3879622,Jerry Uche Mbakogu,Carpi,9.972963451251594,0.056769706977762395,False,Right Foot,Open Play,0,1,2,Normal
+3879622,Boštjan Cesar,Chievo,8.614522621712704,0.058360166282675124,False,Left Foot,Open Play,1,1,1,Half Volley
+3879622,Igor Bubnjić,Carpi,12.969194269498782,0.05804704905197721,False,Head,Open Play,0,0,3,Normal
+3879622,Valter Birsa,Chievo,13.376471881628575,0.06165618318350611,False,Left Foot,Open Play,0,1,2,Half Volley
+3879622,Ryder Matos Santos,Carpi,24.82841114529885,0.060616464671317004,False,Right Foot,Open Play,0,0,1,Normal
+3879622,Lorenzo Lollo,Carpi,11.601724009818538,0.054313885235027067,False,Right Foot,Open Play,1,1,2,Volley
+3879622,Antonio Di Gaudio,Carpi,19.859506539690255,0.06423713510199283,False,Right Foot,Open Play,0,1,3,Normal
+3879622,Igor Bubnjić,Carpi,12.701574705523724,0.05981267559527892,False,Head,Open Play,0,1,4,Normal
+3879622,Ryder Matos Santos,Carpi,29.014651471282573,0.07035951355766307,False,Left Foot,Open Play,0,0,1,Normal
+3879622,Gaetano Letizia,Carpi,23.622235287965452,0.06063214263175423,False,Right Foot,Open Play,1,1,1,Normal
+3879622,Lorenzo Lollo,Carpi,26.896282270975668,0.06845817440947814,False,Right Foot,Open Play,0,1,2,Normal
+3879622,Jerry Uche Mbakogu,Carpi,9.600520819205586,0.05856613535453928,False,Head,Open Play,0,1,2,Normal
+3879622,Alberto Paloschi,Chievo,15.840454538932908,0.05801293973199684,False,Head,Open Play,0,0,2,Normal
+3879622,Riccardo Gagliolo,Carpi,19.32588937151406,0.06512801747062383,False,Left Foot,Open Play,1,0,2,Half Volley
+3879622,Cristian Zaccardo,Carpi,30.095846889562686,0.06923387573518573,False,Right Foot,Open Play,1,0,0,Normal
+3879622,Jerry Uche Mbakogu,Carpi,11.957006314291217,0.05367506783061559,False,Right Foot,Open Play,1,0,0,Half Volley
+3879622,Gabriel Moisés Antunes da Silva,Carpi,25.415939880319208,0.06607663860152592,False,Left Foot,Open Play,1,0,0,Volley
+3879622,Gaetano Letizia,Carpi,26.906690617762706,0.07017726264903065,False,Right Foot,Free Kick,0,0,0,Normal

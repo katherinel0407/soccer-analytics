@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.534229919647668,0.05992203848968395,True,Head,Open Play,0,1,2,Normal
-26.072590972130094,0.062378867741694495,False,Right Foot,Open Play,0,0,1,Normal
-10.012991560967187,0.059230178093877116,True,Right Foot,Open Play,0,0,5,Volley
-28.608565151017267,0.06682486508080028,False,Right Foot,Open Play,0,0,2,Normal
-19.657314160383155,0.05150753681802245,False,Right Foot,Open Play,0,0,0,Volley
-24.352823244954582,0.05767485221201293,False,Right Foot,Open Play,0,0,3,Half Volley
-9.827003612495515,0.0541006911962533,False,Head,Open Play,0,0,3,Normal
-30.560104711862483,0.07173706145976827,False,Right Foot,Open Play,0,1,2,Normal
-17.836199146679203,0.054087385469461104,False,Left Foot,Open Play,0,1,2,Normal
-23.305364189387813,0.06439077307856243,False,Right Foot,Free Kick,0,0,0,Normal
-17.173234989366442,0.06327704967405678,False,Right Foot,Open Play,0,0,1,Normal
-11.154371340420754,0.058827248143081476,False,Head,Open Play,0,0,2,Normal
-19.306216615380656,0.060431896865059384,False,Right Foot,Open Play,0,1,3,Normal
-6.609841147864297,0.05697542423979802,False,Right Foot,Open Play,1,0,1,Volley
-18.380696395947574,0.06367800585154774,False,Left Foot,Open Play,0,1,1,Normal
-7.962411694957758,0.058162715102210744,False,Right Foot,Open Play,1,1,2,Half Volley
-20.999999999999993,0.05325777292304932,False,Left Foot,Open Play,0,1,2,Normal
-36.29325006113397,0.05771943209293215,False,Left Foot,Open Play,0,0,1,Normal
-10.899999999999995,0.05630904125974237,False,Head,Open Play,0,0,3,Normal
-21.788299612406657,0.06628814153479987,False,Right Foot,Open Play,0,0,2,Normal
-15.379206741571561,0.05849706943551543,False,Left Foot,Open Play,1,1,3,Normal
-8.670063436907478,0.05855707828364216,False,Head,Open Play,0,1,3,Normal
-6.3285069329186925,0.057467853604484996,False,Right Foot,Open Play,1,0,3,Half Volley
-27.294688127912362,0.0706382153344959,False,Right Foot,Open Play,0,0,1,Normal
-24.11327435252209,0.06539026279015606,False,Left Foot,Open Play,1,0,2,Half Volley
-24.053274205396654,0.06572044395946809,False,Left Foot,Open Play,0,0,2,Normal
-15.34568343215772,0.06261441953108954,False,Left Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890443,Andrej Kramarić,Hoffenheim,10.534229919647668,0.05992203848968395,True,Head,Open Play,0,1,2,Normal
+3890443,Clemens Fritz,Werder Bremen,26.072590972130094,0.062378867741694495,False,Right Foot,Open Play,0,0,1,Normal
+3890443,Papiss Mison Djilobodji,Werder Bremen,10.012991560967187,0.059230178093877116,True,Right Foot,Open Play,0,0,5,Volley
+3890443,Claudio Miguel Pizarro Bossio,Werder Bremen,28.608565151017267,0.06682486508080028,False,Right Foot,Open Play,0,0,2,Normal
+3890443,Nadiem Amiri,Hoffenheim,19.657314160383155,0.05150753681802245,False,Right Foot,Open Play,0,0,0,Volley
+3890443,Fin Bartels,Werder Bremen,24.352823244954582,0.05767485221201293,False,Right Foot,Open Play,0,0,3,Half Volley
+3890443,Papiss Mison Djilobodji,Werder Bremen,9.827003612495515,0.0541006911962533,False,Head,Open Play,0,0,3,Normal
+3890443,Nadiem Amiri,Hoffenheim,30.560104711862483,0.07173706145976827,False,Right Foot,Open Play,0,1,2,Normal
+3890443,Kevin Volland,Hoffenheim,17.836199146679203,0.054087385469461104,False,Left Foot,Open Play,0,1,2,Normal
+3890443,Nadiem Amiri,Hoffenheim,23.305364189387813,0.06439077307856243,False,Right Foot,Free Kick,0,0,0,Normal
+3890443,Eduardo Jesús Vargas Rojas,Hoffenheim,17.173234989366442,0.06327704967405678,False,Right Foot,Open Play,0,0,1,Normal
+3890443,Andrej Kramarić,Hoffenheim,11.154371340420754,0.058827248143081476,False,Head,Open Play,0,0,2,Normal
+3890443,Claudio Miguel Pizarro Bossio,Werder Bremen,19.306216615380656,0.060431896865059384,False,Right Foot,Open Play,0,1,3,Normal
+3890443,Anthony Ujah,Werder Bremen,6.609841147864297,0.05697542423979802,False,Right Foot,Open Play,1,0,1,Volley
+3890443,Fin Bartels,Werder Bremen,18.380696395947574,0.06367800585154774,False,Left Foot,Open Play,0,1,1,Normal
+3890443,Claudio Miguel Pizarro Bossio,Werder Bremen,7.962411694957758,0.058162715102210744,False,Right Foot,Open Play,1,1,2,Half Volley
+3890443,Levin Mete Öztunali,Werder Bremen,20.999999999999993,0.05325777292304932,False,Left Foot,Open Play,0,1,2,Normal
+3890443,Kevin Volland,Hoffenheim,36.29325006113397,0.05771943209293215,False,Left Foot,Open Play,0,0,1,Normal
+3890443,Santiago García,Werder Bremen,10.899999999999995,0.05630904125974237,False,Head,Open Play,0,0,3,Normal
+3890443,Tobias Strobl,Hoffenheim,21.788299612406657,0.06628814153479987,False,Right Foot,Open Play,0,0,2,Normal
+3890443,Anthony Ujah,Werder Bremen,15.379206741571561,0.05849706943551543,False,Left Foot,Open Play,1,1,3,Normal
+3890443,Papiss Mison Djilobodji,Werder Bremen,8.670063436907478,0.05855707828364216,False,Head,Open Play,0,1,3,Normal
+3890443,Papiss Mison Djilobodji,Werder Bremen,6.3285069329186925,0.057467853604484996,False,Right Foot,Open Play,1,0,3,Half Volley
+3890443,Ermin Bičakčić,Hoffenheim,27.294688127912362,0.0706382153344959,False,Right Foot,Open Play,0,0,1,Normal
+3890443,Papiss Mison Djilobodji,Werder Bremen,24.11327435252209,0.06539026279015606,False,Left Foot,Open Play,1,0,2,Half Volley
+3890443,Fabian Lukas Schär,Hoffenheim,24.053274205396654,0.06572044395946809,False,Left Foot,Open Play,0,0,2,Normal
+3890443,Papiss Mison Djilobodji,Werder Bremen,15.34568343215772,0.06261441953108954,False,Left Foot,Open Play,1,0,0,Half Volley

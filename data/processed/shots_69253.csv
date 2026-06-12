@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.342460701175014,0.05613828599355361,False,Left Foot,Open Play,0,1,1,Normal
-12.202458768625283,0.05471037321027635,False,Left Foot,Open Play,1,0,1,Normal
-18.76832437912346,0.06468377732251968,False,Left Foot,Open Play,0,1,3,Half Volley
-19.27692921603438,0.06521151571971194,False,Left Foot,Open Play,1,0,2,Normal
-10.526157893552616,0.06009604163159053,False,Left Foot,Open Play,0,1,2,Half Volley
-16.9941166289984,0.06208428507888047,False,Left Foot,Open Play,0,1,1,Normal
-23.551008470976356,0.06668712200262361,False,Right Foot,Open Play,0,1,2,Half Volley
-7.805767098754609,0.05797136368699208,True,Head,Open Play,0,1,5,Diving Header
-36.066189152723084,0.07501902568237331,True,Right Foot,Free Kick,0,0,0,Normal
-29.0998281781869,0.058255278537069036,False,Right Foot,Free Kick,0,0,0,Normal
-3.5777087639996665,0.055607271786383465,True,Left Foot,Open Play,1,0,2,Normal
-20.252901026766516,0.06088018494199396,False,Right Foot,Open Play,0,0,4,Normal
-19.99049774267764,0.06509531041444216,False,Left Foot,Open Play,0,0,1,Lob
-7.920227269466447,0.05873715795741183,True,Right Foot,Open Play,1,0,2,Volley
-38.84044283990593,0.07478187522930314,False,Right Foot,Open Play,0,0,1,Normal
-17.090640713560155,0.06375055733258399,False,Left Foot,Open Play,1,0,2,Normal
-18.491078930121947,0.06394228142174473,False,Right Foot,Open Play,0,0,1,Normal
-13.644412775931395,0.059854673033555836,False,Left Foot,Open Play,0,0,2,Normal
-16.608732642799687,0.06326971111297974,False,Right Foot,Open Play,0,1,1,Normal
-25.513133872576304,0.06442559198523196,True,Right Foot,Open Play,1,0,1,Normal
-12.712985487288178,0.05819733268318145,True,Left Foot,Open Play,0,0,2,Lob
-13.263860674780931,0.06057309988802077,True,Head,Open Play,0,0,3,Normal
-41.007804135310636,0.0822543145124114,False,Right Foot,Open Play,0,0,1,Normal
-17.029973576021785,0.06253476032951225,False,Right Foot,Open Play,0,1,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69253,Lionel Andrés Messi Cuccittini,Barcelona,29.342460701175014,0.05613828599355361,False,Left Foot,Open Play,0,1,1,Normal
+69253,Lionel Andrés Messi Cuccittini,Barcelona,12.202458768625283,0.05471037321027635,False,Left Foot,Open Play,1,0,1,Normal
+69253,Zlatan Ibrahimović,Barcelona,18.76832437912346,0.06468377732251968,False,Left Foot,Open Play,0,1,3,Half Volley
+69253,Seydou Kéita,Barcelona,19.27692921603438,0.06521151571971194,False,Left Foot,Open Play,1,0,2,Normal
+69253,Lionel Andrés Messi Cuccittini,Barcelona,10.526157893552616,0.06009604163159053,False,Left Foot,Open Play,0,1,2,Half Volley
+69253,Ángel Javier Arizmendi de Lucas,Real Zaragoza,16.9941166289984,0.06208428507888047,False,Left Foot,Open Play,0,1,1,Normal
+69253,Zlatan Ibrahimović,Barcelona,23.551008470976356,0.06668712200262361,False,Right Foot,Open Play,0,1,2,Half Volley
+69253,Seydou Kéita,Barcelona,7.805767098754609,0.05797136368699208,True,Head,Open Play,0,1,5,Diving Header
+69253,Zlatan Ibrahimović,Barcelona,36.066189152723084,0.07501902568237331,True,Right Foot,Free Kick,0,0,0,Normal
+69253,Xavier Hernández Creus,Barcelona,29.0998281781869,0.058255278537069036,False,Right Foot,Free Kick,0,0,0,Normal
+69253,Seydou Kéita,Barcelona,3.5777087639996665,0.055607271786383465,True,Left Foot,Open Play,1,0,2,Normal
+69253,Lionel Andrés Messi Cuccittini,Barcelona,20.252901026766516,0.06088018494199396,False,Right Foot,Open Play,0,0,4,Normal
+69253,Lionel Andrés Messi Cuccittini,Barcelona,19.99049774267764,0.06509531041444216,False,Left Foot,Open Play,0,0,1,Lob
+69253,Zlatan Ibrahimović,Barcelona,7.920227269466447,0.05873715795741183,True,Right Foot,Open Play,1,0,2,Volley
+69253,Ángel Javier Arizmendi de Lucas,Real Zaragoza,38.84044283990593,0.07478187522930314,False,Right Foot,Open Play,0,0,1,Normal
+69253,Andrés Iniesta Luján,Barcelona,17.090640713560155,0.06375055733258399,False,Left Foot,Open Play,1,0,2,Normal
+69253,Ángel Javier Arizmendi de Lucas,Real Zaragoza,18.491078930121947,0.06394228142174473,False,Right Foot,Open Play,0,0,1,Normal
+69253,Lionel Andrés Messi Cuccittini,Barcelona,13.644412775931395,0.059854673033555836,False,Left Foot,Open Play,0,0,2,Normal
+69253,Ewerthon Henrique de Souza,Real Zaragoza,16.608732642799687,0.06326971111297974,False,Right Foot,Open Play,0,1,1,Normal
+69253,Jorge López Montaña,Real Zaragoza,25.513133872576304,0.06442559198523196,True,Right Foot,Open Play,1,0,1,Normal
+69253,Lionel Andrés Messi Cuccittini,Barcelona,12.712985487288178,0.05819733268318145,True,Left Foot,Open Play,0,0,2,Lob
+69253,Seydou Kéita,Barcelona,13.263860674780931,0.06057309988802077,True,Head,Open Play,0,0,3,Normal
+69253,Ángel Lafita Castillo,Real Zaragoza,41.007804135310636,0.0822543145124114,False,Right Foot,Open Play,0,0,1,Normal
+69253,Ewerthon Henrique de Souza,Real Zaragoza,17.029973576021785,0.06253476032951225,False,Right Foot,Open Play,0,1,0,Normal

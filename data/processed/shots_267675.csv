@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.44688420339853,0.05674780149944189,False,Right Foot,Open Play,1,0,2,Normal
-22.316137658654107,0.05860258436290173,False,Right Foot,Open Play,1,0,2,Normal
-19.69771560359221,0.06546273038979189,True,Left Foot,Open Play,1,0,1,Normal
-27.86323742855449,0.05410931551717848,False,Left Foot,Open Play,0,1,1,Normal
-9.403190947758112,0.056194331397456665,False,Head,Open Play,0,0,3,Normal
-23.769938998659637,0.05711276200018309,False,Right Foot,Open Play,0,0,2,Normal
-16.061133210331082,0.06074696870211576,False,Right Foot,Open Play,0,0,2,Normal
-6.226556030423244,0.05786298673361555,True,Head,Open Play,0,0,3,Normal
-15.669716015295235,0.060177042719693465,False,Left Foot,Open Play,1,0,1,Volley
-6.48459713474939,0.057585862785404306,False,Right Foot,Open Play,1,0,3,Volley
-20.3147729497526,0.06523320945783162,False,Right Foot,Open Play,1,0,3,Normal
-19.198176996787996,0.06477547342265812,True,Left Foot,Open Play,0,0,2,Half Volley
-13.660527076214885,0.05620390926825027,False,Right Foot,Open Play,0,0,1,Normal
-27.53470537340104,0.06912353320009867,False,Right Foot,Open Play,0,0,2,Normal
-12.480785231707173,0.05439681974549017,False,Right Foot,Open Play,1,0,1,Normal
-18.768324379123467,0.06387799761180664,True,Left Foot,Open Play,0,0,3,Normal
-21.005951537600005,0.05602866563304718,False,Right Foot,Open Play,1,0,2,Normal
-22.58871399615304,0.06725010304778678,False,Left Foot,Open Play,1,0,3,Normal
-10.824047302187845,0.05276624499639088,False,Right Foot,Open Play,0,0,1,Normal
-11.766052864066182,0.06012930229923299,False,Left Foot,Open Play,1,0,1,Normal
-9.7082439194738,0.057873016982691525,True,Right Foot,Open Play,0,0,2,Lob
-28.084515306481613,0.061254832252923164,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267675,Kevin Gameiro,Sevilla,16.44688420339853,0.05674780149944189,False,Right Foot,Open Play,1,0,2,Normal
+267675,Vicente Iborra De La Fuente,Sevilla,22.316137658654107,0.05860258436290173,False,Right Foot,Open Play,1,0,2,Normal
+267675,Alberto Moreno Pérez,Sevilla,19.69771560359221,0.06546273038979189,True,Left Foot,Open Play,1,0,1,Normal
+267675,Diogo José Rosário Gomes Figueiras,Sevilla,27.86323742855449,0.05410931551717848,False,Left Foot,Open Play,0,1,1,Normal
+267675,Carlos Arturo Bacca Ahumada,Sevilla,9.403190947758112,0.056194331397456665,False,Head,Open Play,0,0,3,Normal
+267675,Xavier Hernández Creus,Barcelona,23.769938998659637,0.05711276200018309,False,Right Foot,Open Play,0,0,2,Normal
+267675,Ivan Rakitić,Sevilla,16.061133210331082,0.06074696870211576,False,Right Foot,Open Play,0,0,2,Normal
+267675,Alexis Alejandro Sánchez Sánchez,Barcelona,6.226556030423244,0.05786298673361555,True,Head,Open Play,0,0,3,Normal
+267675,Andrés Iniesta Luján,Barcelona,15.669716015295235,0.060177042719693465,False,Left Foot,Open Play,1,0,1,Volley
+267675,Daniel Filipe Martins Carriço,Sevilla,6.48459713474939,0.057585862785404306,False,Right Foot,Open Play,1,0,3,Volley
+267675,Víctor Machín Pérez,Sevilla,20.3147729497526,0.06523320945783162,False,Right Foot,Open Play,1,0,3,Normal
+267675,Lionel Andrés Messi Cuccittini,Barcelona,19.198176996787996,0.06477547342265812,True,Left Foot,Open Play,0,0,2,Half Volley
+267675,Víctor Machín Pérez,Sevilla,13.660527076214885,0.05620390926825027,False,Right Foot,Open Play,0,0,1,Normal
+267675,Carlos Arturo Bacca Ahumada,Sevilla,27.53470537340104,0.06912353320009867,False,Right Foot,Open Play,0,0,2,Normal
+267675,Kevin Gameiro,Sevilla,12.480785231707173,0.05439681974549017,False,Right Foot,Open Play,1,0,1,Normal
+267675,Lionel Andrés Messi Cuccittini,Barcelona,18.768324379123467,0.06387799761180664,True,Left Foot,Open Play,0,0,3,Normal
+267675,Alexis Alejandro Sánchez Sánchez,Barcelona,21.005951537600005,0.05602866563304718,False,Right Foot,Open Play,1,0,2,Normal
+267675,Denis Cheryshev,Sevilla,22.58871399615304,0.06725010304778678,False,Left Foot,Open Play,1,0,3,Normal
+267675,Carlos Arturo Bacca Ahumada,Sevilla,10.824047302187845,0.05276624499639088,False,Right Foot,Open Play,0,0,1,Normal
+267675,Adriano Correia Claro,Barcelona,11.766052864066182,0.06012930229923299,False,Left Foot,Open Play,1,0,1,Normal
+267675,Francesc Fàbregas i Soler,Barcelona,9.7082439194738,0.057873016982691525,True,Right Foot,Open Play,0,0,2,Lob
+267675,Piotr Trochowski,Sevilla,28.084515306481613,0.061254832252923164,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.116876449926654,0.07280622567818393,False,Right Foot,Open Play,0,0,3,Normal
-11.020889256316847,0.060382062190610285,False,Left Foot,Open Play,1,0,2,Normal
-9.104943712072032,0.05912905068274147,False,Left Foot,Open Play,1,0,1,Volley
-19.27200041511,0.05593744557672583,False,Right Foot,Open Play,0,0,2,Normal
-22.59778750231978,0.06326948043923884,False,Left Foot,Open Play,1,0,0,Normal
-18.223611058184925,0.0645599326161644,True,Left Foot,Open Play,1,1,1,Normal
-20.931316251014884,0.0662182657267843,False,Right Foot,Open Play,0,0,3,Normal
-24.79233752593733,0.06859725927590953,False,Right Foot,Open Play,0,0,2,Normal
-10.83374358197572,0.060179455249301364,True,Right Foot,Open Play,0,0,4,Normal
-7.939773296511685,0.058724911592764155,False,Left Foot,Open Play,1,0,1,Half Volley
-3.1780497164141357,0.055838720086753314,False,Left Foot,Open Play,1,0,3,Half Volley
-26.853118999475644,0.06096895826070181,False,Left Foot,Free Kick,0,0,0,Normal
-30.098671067008922,0.0696368220538238,False,Right Foot,Open Play,1,0,0,Normal
-20.35313243704762,0.05193369554020909,False,Right Foot,Open Play,0,0,1,Half Volley
-6.946221994724908,0.0581546474728054,False,Left Foot,Open Play,0,0,5,Half Volley
-31.522848856028226,0.0693651057815505,False,Right Foot,Open Play,0,0,2,Normal
-6.68505796534331,0.05644133738118477,False,Head,Open Play,0,1,3,Normal
-26.196564660275587,0.06167617674524721,False,Left Foot,Open Play,0,0,1,Normal
-24.00187492676353,0.06771868766238451,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754038,Alexis Alejandro Sánchez Sánchez,Arsenal,31.116876449926654,0.07280622567818393,False,Right Foot,Open Play,0,0,3,Normal
+3754038,Mesut Özil,Arsenal,11.020889256316847,0.060382062190610285,False,Left Foot,Open Play,1,0,2,Normal
+3754038,Olivier Giroud,Arsenal,9.104943712072032,0.05912905068274147,False,Left Foot,Open Play,1,0,1,Volley
+3754038,Alexis Alejandro Sánchez Sánchez,Arsenal,19.27200041511,0.05593744557672583,False,Right Foot,Open Play,0,0,2,Normal
+3754038,Santiago Cazorla González,Arsenal,22.59778750231978,0.06326948043923884,False,Left Foot,Open Play,1,0,0,Normal
+3754038,Mesut Özil,Arsenal,18.223611058184925,0.0645599326161644,True,Left Foot,Open Play,1,1,1,Normal
+3754038,Aaron Ramsey,Arsenal,20.931316251014884,0.0662182657267843,False,Right Foot,Open Play,0,0,3,Normal
+3754038,Robert Brady,Norwich City,24.79233752593733,0.06859725927590953,False,Right Foot,Open Play,0,0,2,Normal
+3754038,Lewis Grabban,Norwich City,10.83374358197572,0.060179455249301364,True,Right Foot,Open Play,0,0,4,Normal
+3754038,Wes Hoolahan,Norwich City,7.939773296511685,0.058724911592764155,False,Left Foot,Open Play,1,0,1,Half Volley
+3754038,Mesut Özil,Arsenal,3.1780497164141357,0.055838720086753314,False,Left Foot,Open Play,1,0,3,Half Volley
+3754038,Mesut Özil,Arsenal,26.853118999475644,0.06096895826070181,False,Left Foot,Free Kick,0,0,0,Normal
+3754038,Gary O''Neil,Norwich City,30.098671067008922,0.0696368220538238,False,Right Foot,Open Play,1,0,0,Normal
+3754038,Héctor Bellerín Moruno,Arsenal,20.35313243704762,0.05193369554020909,False,Right Foot,Open Play,0,0,1,Half Volley
+3754038,Jonathan Howson,Norwich City,6.946221994724908,0.0581546474728054,False,Left Foot,Open Play,0,0,5,Half Volley
+3754038,Graham Dorrans,Norwich City,31.522848856028226,0.0693651057815505,False,Right Foot,Open Play,0,0,2,Normal
+3754038,Olivier Giroud,Arsenal,6.68505796534331,0.05644133738118477,False,Head,Open Play,0,1,3,Normal
+3754038,Mesut Özil,Arsenal,26.196564660275587,0.06167617674524721,False,Left Foot,Open Play,0,0,1,Normal
+3754038,Vadis Odjidja-Ofoe,Norwich City,24.00187492676353,0.06771868766238451,False,Right Foot,Open Play,0,0,2,Normal

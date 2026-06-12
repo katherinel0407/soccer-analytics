@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.75246820020222,0.06028560176827947,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-8.022468448052631,0.05814938621840974,False,Head,Open Play,0,1,2,Normal
-24.383601046605076,0.06821743466890298,False,Right Foot,Open Play,0,1,2,Normal
-8.969392398596462,0.058810253322620284,True,Head,Open Play,0,0,1,Normal
-28.85064990602465,0.06792267201860304,False,Right Foot,Free Kick,0,0,0,Normal
-23.773935307390744,0.06661121587428395,False,Right Foot,Open Play,0,1,2,Normal
-6.612866246946177,0.05650620144713731,False,Head,Open Play,0,0,2,Normal
-17.67766952966368,0.06408740059343886,False,Right Foot,Open Play,1,1,3,Normal
-13.37011593068661,0.06104475867958067,False,Left Foot,Open Play,0,0,1,Half Volley
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-16.890825912311097,0.06267570196680106,False,Left Foot,Open Play,1,0,3,Normal
-20.497804760510327,0.0653921018571821,False,Right Foot,Open Play,0,0,2,Normal
-20.884922791334425,0.06616458683770839,False,Right Foot,Open Play,1,0,3,Normal
-21.965882636488796,0.05391752605720769,False,Right Foot,Open Play,0,1,3,Normal
-26.430474834932493,0.06996563660454526,False,Left Foot,Open Play,0,1,1,Normal
-19.65400722499104,0.05735366272042139,False,Right Foot,Open Play,1,0,0,Volley
-33.83208536286228,0.07451894194840401,False,Left Foot,Open Play,0,0,0,Normal
-23.482972554597936,0.05840834912505714,False,Left Foot,Open Play,0,0,3,Normal
-25.316002844051027,0.06602719080981878,False,Left Foot,Open Play,1,0,2,Normal
-22.968674319603213,0.06091332490455772,False,Left Foot,Open Play,1,1,2,Normal
-5.5578772926361015,0.056651436364723536,False,Other,Open Play,0,1,3,Normal
-18.2258058806737,0.06439195911568223,False,Left Foot,Open Play,0,1,2,Normal
-9.546203433826454,0.05947620845160818,False,Head,Open Play,0,1,1,Normal
-34.727654686143154,0.07603955961377858,False,Right Foot,Open Play,0,1,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+4018357,Jule Brand,Germany Women's,19.75246820020222,0.06028560176827947,False,Right Foot,Open Play,1,0,1,Normal
+4018357,Onema Grace Geyoro,France Women's,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Marie-Antoinette Katoto,France Women's,8.022468448052631,0.05814938621840974,False,Head,Open Play,0,1,2,Normal
+4018357,Kadidiatou Diani,France Women's,24.383601046605076,0.06821743466890298,False,Right Foot,Open Play,0,1,2,Normal
+4018357,Sjoeke Nüsken,Germany Women's,8.969392398596462,0.058810253322620284,True,Head,Open Play,0,0,1,Normal
+4018357,Delphine Cascarino,France Women's,28.85064990602465,0.06792267201860304,False,Right Foot,Free Kick,0,0,0,Normal
+4018357,Delphine Cascarino,France Women's,23.773935307390744,0.06661121587428395,False,Right Foot,Open Play,0,1,2,Normal
+4018357,Marie-Antoinette Katoto,France Women's,6.612866246946177,0.05650620144713731,False,Head,Open Play,0,0,2,Normal
+4018357,Kadidiatou Diani,France Women's,17.67766952966368,0.06408740059343886,False,Right Foot,Open Play,1,1,3,Normal
+4018357,Kadidiatou Diani,France Women's,13.37011593068661,0.06104475867958067,False,Left Foot,Open Play,0,0,1,Half Volley
+4018357,Sjoeke Nüsken,Germany Women's,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+4018357,Klara Bühl,Germany Women's,16.890825912311097,0.06267570196680106,False,Left Foot,Open Play,1,0,3,Normal
+4018357,Jule Brand,Germany Women's,20.497804760510327,0.0653921018571821,False,Right Foot,Open Play,0,0,2,Normal
+4018357,Klara Bühl,Germany Women's,20.884922791334425,0.06616458683770839,False,Right Foot,Open Play,1,0,3,Normal
+4018357,Onema Grace Geyoro,France Women's,21.965882636488796,0.05391752605720769,False,Right Foot,Open Play,0,1,3,Normal
+4018357,Sakina Karchaoui,France Women's,26.430474834932493,0.06996563660454526,False,Left Foot,Open Play,0,1,1,Normal
+4018357,Elisa De Almeida,France Women's,19.65400722499104,0.05735366272042139,False,Right Foot,Open Play,1,0,0,Volley
+4018357,Selma Bacha,France Women's,33.83208536286228,0.07451894194840401,False,Left Foot,Open Play,0,0,0,Normal
+4018357,Jule Brand,Germany Women's,23.482972554597936,0.05840834912505714,False,Left Foot,Open Play,0,0,3,Normal
+4018357,Sandy Baltimore,France Women's,25.316002844051027,0.06602719080981878,False,Left Foot,Open Play,1,0,2,Normal
+4018357,Sandy Baltimore,France Women's,22.968674319603213,0.06091332490455772,False,Left Foot,Open Play,1,1,2,Normal
+4018357,Maëlle Lakrar,France Women's,5.5578772926361015,0.056651436364723536,False,Other,Open Play,0,1,3,Normal
+4018357,Melvine Malard,France Women's,18.2258058806737,0.06439195911568223,False,Left Foot,Open Play,0,1,2,Normal
+4018357,Melvine Malard,France Women's,9.546203433826454,0.05947620845160818,False,Head,Open Play,0,1,1,Normal
+4018357,Melvine Malard,France Women's,34.727654686143154,0.07603955961377858,False,Right Foot,Open Play,0,1,1,Normal
+4018357,Janina Minge,Germany Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Amel Majri,France Women's,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+4018357,Linda Dallmann,Germany Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Sakina Karchaoui,France Women's,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+4018357,Rebecca Knaak,Germany Women's,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+4018357,Melvine Malard,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Sara Däbritz,Germany Women's,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+4018357,Sandy Baltimore,France Women's,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+4018357,Ann-Katrin Berger,Germany Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Oriane Jean-François,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Klara Bühl,Germany Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Melween Ndongala,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Sjoeke Nüsken,Germany Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+4018357,Alice Sombath,France Women's,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal

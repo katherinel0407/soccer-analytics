@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.720045146669346,0.06336747614533395,True,Left Foot,Open Play,0,0,2,Normal
-19.412624758130978,0.06518324852517712,True,Left Foot,Open Play,0,0,2,Normal
-18.620687420178662,0.06474413263449216,False,Left Foot,Open Play,1,0,1,Half Volley
-34.135172476494105,0.06740677681139816,False,Left Foot,Open Play,0,0,2,Normal
-25.536836139193124,0.0693888033588695,False,Left Foot,Free Kick,0,0,0,Normal
-14.80607983228512,0.062241994615236995,False,Left Foot,Open Play,0,0,1,Lob
-7.905694150420948,0.0558925738844232,False,Right Foot,Open Play,1,0,3,Overhead Kick
-23.879907872519105,0.0675507543671289,False,Left Foot,Open Play,0,0,2,Half Volley
-16.658031096140988,0.05289903647991242,False,Right Foot,Open Play,0,0,1,Normal
-24.74267568392715,0.06881924425341097,False,Right Foot,Open Play,0,0,1,Normal
-21.855205329623423,0.0650366266672726,False,Left Foot,Open Play,0,0,2,Normal
-13.110682667199296,0.05938134353373852,True,Left Foot,Open Play,0,0,5,Normal
-23.194827009486403,0.06586521020779876,True,Left Foot,Free Kick,0,0,0,Normal
-12.918978287774934,0.05971249046235739,False,Head,Open Play,0,1,3,Normal
-26.84864987294519,0.0532203497784745,False,Left Foot,Open Play,0,0,1,Normal
-34.671746422699854,0.07354168553074698,False,Left Foot,Open Play,0,0,1,Normal
-7.810889834071409,0.0585072392215296,True,Right Foot,Open Play,1,0,2,Normal
-15.646405337968208,0.05469757620615997,False,Right Foot,Open Play,1,0,1,Normal
-19.47331507473754,0.06533948421823686,False,Right Foot,Open Play,1,0,0,Normal
-18.880677953929517,0.06492519022968546,False,Left Foot,Open Play,0,0,3,Normal
-12.92826361117378,0.05309865068530947,False,Left Foot,Open Play,0,0,1,Normal
-25.570490804832044,0.06910468799461361,False,Right Foot,Open Play,0,0,2,Normal
-28.24181297296617,0.07109384004246427,True,Right Foot,Open Play,0,0,1,Normal
-8.459905436823746,0.0586506989139257,False,Right Foot,Open Play,1,0,3,Normal
-22.0081802973349,0.0642891242421387,False,Left Foot,Free Kick,0,0,0,Normal
-10.977249200050075,0.05327187100167082,False,Right Foot,Open Play,1,0,2,Backheel
-14.505516192124976,0.0623412339745542,False,Right Foot,Open Play,0,0,3,Normal
-7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,1,0,3,Volley
-9.209777413162595,0.05494330428185327,False,Head,Open Play,0,0,2,Normal
-22.726636354727027,0.06383036720931923,False,Left Foot,Open Play,0,0,2,Normal
-8.275868534480235,0.05531308896358799,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9811,Cristian Portugués Manzanera,Girona,17.720045146669346,0.06336747614533395,True,Left Foot,Open Play,0,0,2,Normal
+9811,Luis Alberto Suárez Díaz,Barcelona,19.412624758130978,0.06518324852517712,True,Left Foot,Open Play,0,0,2,Normal
+9811,Anthony Rubén Lozano Colón,Girona,18.620687420178662,0.06474413263449216,False,Left Foot,Open Play,1,0,1,Half Volley
+9811,Alejandro Granell Nogué,Girona,34.135172476494105,0.06740677681139816,False,Left Foot,Open Play,0,0,2,Normal
+9811,Lionel Andrés Messi Cuccittini,Barcelona,25.536836139193124,0.0693888033588695,False,Left Foot,Free Kick,0,0,0,Normal
+9811,Lionel Andrés Messi Cuccittini,Barcelona,14.80607983228512,0.062241994615236995,False,Left Foot,Open Play,0,0,1,Lob
+9811,Luis Alberto Suárez Díaz,Barcelona,7.905694150420948,0.0558925738844232,False,Right Foot,Open Play,1,0,3,Overhead Kick
+9811,Ousmane Dembélé,Barcelona,23.879907872519105,0.0675507543671289,False,Left Foot,Open Play,0,0,2,Half Volley
+9811,Luis Alberto Suárez Díaz,Barcelona,16.658031096140988,0.05289903647991242,False,Right Foot,Open Play,0,0,1,Normal
+9811,Philippe Coutinho Correia,Barcelona,24.74267568392715,0.06881924425341097,False,Right Foot,Open Play,0,0,1,Normal
+9811,Lionel Andrés Messi Cuccittini,Barcelona,21.855205329623423,0.0650366266672726,False,Left Foot,Open Play,0,0,2,Normal
+9811,Lionel Andrés Messi Cuccittini,Barcelona,13.110682667199296,0.05938134353373852,True,Left Foot,Open Play,0,0,5,Normal
+9811,Lionel Andrés Messi Cuccittini,Barcelona,23.194827009486403,0.06586521020779876,True,Left Foot,Free Kick,0,0,0,Normal
+9811,Anthony Rubén Lozano Colón,Girona,12.918978287774934,0.05971249046235739,False,Head,Open Play,0,1,3,Normal
+9811,Alejandro Granell Nogué,Girona,26.84864987294519,0.0532203497784745,False,Left Foot,Open Play,0,0,1,Normal
+9811,Alejandro Granell Nogué,Girona,34.671746422699854,0.07354168553074698,False,Left Foot,Open Play,0,0,1,Normal
+9811,Luis Alberto Suárez Díaz,Barcelona,7.810889834071409,0.0585072392215296,True,Right Foot,Open Play,1,0,2,Normal
+9811,Anthony Rubén Lozano Colón,Girona,15.646405337968208,0.05469757620615997,False,Right Foot,Open Play,1,0,1,Normal
+9811,Luis Alberto Suárez Díaz,Barcelona,19.47331507473754,0.06533948421823686,False,Right Foot,Open Play,1,0,0,Normal
+9811,Lionel Andrés Messi Cuccittini,Barcelona,18.880677953929517,0.06492519022968546,False,Left Foot,Open Play,0,0,3,Normal
+9811,Ousmane Dembélé,Barcelona,12.92826361117378,0.05309865068530947,False,Left Foot,Open Play,0,0,1,Normal
+9811,Philippe Coutinho Correia,Barcelona,25.570490804832044,0.06910468799461361,False,Right Foot,Open Play,0,0,2,Normal
+9811,Philippe Coutinho Correia,Barcelona,28.24181297296617,0.07109384004246427,True,Right Foot,Open Play,0,0,1,Normal
+9811,Pere Pons Riera,Girona,8.459905436823746,0.0586506989139257,False,Right Foot,Open Play,1,0,3,Normal
+9811,Lionel Andrés Messi Cuccittini,Barcelona,22.0081802973349,0.0642891242421387,False,Left Foot,Free Kick,0,0,0,Normal
+9811,Ivan Rakitić,Barcelona,10.977249200050075,0.05327187100167082,False,Right Foot,Open Play,1,0,2,Backheel
+9811,Luis Alberto Suárez Díaz,Barcelona,14.505516192124976,0.0623412339745542,False,Right Foot,Open Play,0,0,3,Normal
+9811,Luis Alberto Suárez Díaz,Barcelona,7.0710678118654755,0.05723344719965163,True,Right Foot,Open Play,1,0,3,Volley
+9811,Thomas Vermaelen,Barcelona,9.209777413162595,0.05494330428185327,False,Head,Open Play,0,0,2,Normal
+9811,Aleix García Serrano,Girona,22.726636354727027,0.06383036720931923,False,Left Foot,Open Play,0,0,2,Normal
+9811,Bernardo José Espinosa Zúñiga,Girona,8.275868534480235,0.05531308896358799,False,Head,Open Play,0,1,4,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.770615218501406,0.05732269344818615,True,Right Foot,Open Play,0,0,3,Half Volley
-26.80671557651179,0.06662110149256043,False,Left Foot,Open Play,0,0,1,Normal
-20.366639388961552,0.06430170712693406,False,Right Foot,Open Play,1,1,2,Normal
-26.782456944798774,0.0673311678132586,False,Right Foot,Open Play,0,1,2,Normal
-40.352942891442254,0.08163658179429761,False,Right Foot,Free Kick,0,0,0,Normal
-16.527552752903254,0.06133703899631945,False,Left Foot,Open Play,1,0,1,Half Volley
-18.58843726621472,0.05335843655566575,False,Right Foot,Open Play,1,0,1,Volley
-3.2280024783137886,0.05630736372278306,False,Head,Open Play,0,0,5,Normal
-15.530936868070768,0.057358031275478526,False,Left Foot,Open Play,1,0,2,Normal
-39.40279177926356,0.07978657773637028,False,Right Foot,Open Play,0,0,1,Normal
-22.20923231451281,0.06711086406219555,False,Right Foot,Open Play,0,0,2,Normal
-8.634813257969167,0.05744482788526013,False,Head,Open Play,0,1,4,Normal
-3.7336309405188928,0.05580870508168313,True,Right Foot,Open Play,0,0,5,Half Volley
-11.454693361238443,0.06008986095138158,True,Head,Open Play,0,1,3,Normal
-19.719026345131752,0.06531170224891523,False,Left Foot,Open Play,1,0,1,Normal
-17.81347804332438,0.05762125544364343,False,Right Foot,Open Play,0,0,3,Normal
-28.24075069823747,0.06956844354027786,False,Right Foot,Free Kick,0,0,0,Normal
-9.323089616645335,0.054469525344849556,False,Left Foot,Open Play,0,0,3,Lob
-44.936065693382645,0.06885271519284505,False,Right Foot,Open Play,0,0,1,Normal
-24.57986981251121,0.06826229657979423,False,Left Foot,Open Play,0,0,4,Normal
-33.36540124140575,0.056526337811447204,False,Right Foot,Open Play,0,0,2,Half Volley
-15.895911424010892,0.061105607847397554,True,Right Foot,Open Play,0,0,0,Normal
-11.47257599669751,0.06021560957330748,False,Right Foot,Open Play,1,1,1,Normal
-18.9274932307477,0.06070151880913191,False,Right Foot,Open Play,1,1,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817883,Daniel Chima Chukwu,Jamshedpur,5.770615218501406,0.05732269344818615,True,Right Foot,Open Play,0,0,3,Half Volley
+3817883,Alexandre Monteiro de Lima,Jamshedpur,26.80671557651179,0.06662110149256043,False,Left Foot,Open Play,0,0,1,Normal
+3817883,Danish Farooq Bhat,Bengaluru,20.366639388961552,0.06430170712693406,False,Right Foot,Open Play,1,1,2,Normal
+3817883,Danish Farooq Bhat,Bengaluru,26.782456944798774,0.0673311678132586,False,Right Foot,Open Play,0,1,2,Normal
+3817883,Cleiton Augusto Oliveira Silva,Bengaluru,40.352942891442254,0.08163658179429761,False,Right Foot,Free Kick,0,0,0,Normal
+3817883,Boris Singh Thangjam,Jamshedpur,16.527552752903254,0.06133703899631945,False,Left Foot,Open Play,1,0,1,Half Volley
+3817883,Seminlen Doungel,Jamshedpur,18.58843726621472,0.05335843655566575,False,Right Foot,Open Play,1,0,1,Volley
+3817883,Sunil Chhetri,Bengaluru,3.2280024783137886,0.05630736372278306,False,Head,Open Play,0,0,5,Normal
+3817883,Parag Satish Shrivas,Bengaluru,15.530936868070768,0.057358031275478526,False,Left Foot,Open Play,1,0,2,Normal
+3817883,Bruno Edgar Silva Almeida,Bengaluru,39.40279177926356,0.07978657773637028,False,Right Foot,Open Play,0,0,1,Normal
+3817883,Greg Stewart,Jamshedpur,22.20923231451281,0.06711086406219555,False,Right Foot,Open Play,0,0,2,Normal
+3817883,Pratik Prabhakar Chaudhari,Bengaluru,8.634813257969167,0.05744482788526013,False,Head,Open Play,0,1,4,Normal
+3817883,Sunil Chhetri,Bengaluru,3.7336309405188928,0.05580870508168313,True,Right Foot,Open Play,0,0,5,Half Volley
+3817883,Cleiton Augusto Oliveira Silva,Bengaluru,11.454693361238443,0.06008986095138158,True,Head,Open Play,0,1,3,Normal
+3817883,Greg Stewart,Jamshedpur,19.719026345131752,0.06531170224891523,False,Left Foot,Open Play,1,0,1,Normal
+3817883,Narender Gahlot,Jamshedpur,17.81347804332438,0.05762125544364343,False,Right Foot,Open Play,0,0,3,Normal
+3817883,Cleiton Augusto Oliveira Silva,Bengaluru,28.24075069823747,0.06956844354027786,False,Right Foot,Free Kick,0,0,0,Normal
+3817883,Greg Stewart,Jamshedpur,9.323089616645335,0.054469525344849556,False,Left Foot,Open Play,0,0,3,Lob
+3817883,Narender Gahlot,Jamshedpur,44.936065693382645,0.06885271519284505,False,Right Foot,Open Play,0,0,1,Normal
+3817883,Greg Stewart,Jamshedpur,24.57986981251121,0.06826229657979423,False,Left Foot,Open Play,0,0,4,Normal
+3817883,Laldinliana Renthlei,Jamshedpur,33.36540124140575,0.056526337811447204,False,Right Foot,Open Play,0,0,2,Half Volley
+3817883,Cleiton Augusto Oliveira Silva,Bengaluru,15.895911424010892,0.061105607847397554,True,Right Foot,Open Play,0,0,0,Normal
+3817883,Daniel Chima Chukwu,Jamshedpur,11.47257599669751,0.06021560957330748,False,Right Foot,Open Play,1,1,1,Normal
+3817883,Mohammad Mobashir Rahman,Jamshedpur,18.9274932307477,0.06070151880913191,False,Right Foot,Open Play,1,1,2,Volley

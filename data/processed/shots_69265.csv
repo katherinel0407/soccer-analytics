@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.461670869739866,0.0669168629666147,False,Left Foot,Open Play,0,0,1,Normal
-26.768638366566197,0.06772806489175136,False,Right Foot,Open Play,0,0,3,Normal
-18.990787240133038,0.05595736148965361,True,Left Foot,Open Play,1,0,0,Normal
-17.140011668607467,0.06385876570242463,False,Right Foot,Open Play,1,0,3,Normal
-11.482595525402782,0.0529125444140437,False,Right Foot,Open Play,1,0,0,Normal
-13.58234147707972,0.06125306821005308,False,Head,Open Play,0,0,1,Normal
-40.36285421027606,0.06515142913186786,False,Right Foot,Open Play,0,0,0,Normal
-17.71919862747749,0.062188987636307674,False,Right Foot,Open Play,0,0,3,Normal
-25.403149411047444,0.06794595847942866,False,Left Foot,Open Play,1,0,0,Normal
-21.61573500947863,0.059394660782046776,False,Left Foot,Open Play,0,0,4,Normal
-23.604448733236715,0.06611388968360414,False,Right Foot,Open Play,0,0,4,Normal
-23.165923249462782,0.0627771685899645,False,Left Foot,Open Play,0,0,4,Normal
-24.704048251248217,0.059341407477721236,False,Left Foot,Open Play,0,0,1,Normal
-13.656500283747661,0.05897136906670227,False,Head,Open Play,0,0,0,Normal
-13.744089638822931,0.05473840317953486,False,Head,Open Play,0,0,1,Normal
-46.80940076523091,0.08552019625773284,False,Right Foot,Open Play,0,0,0,Normal
-24.108089928486667,0.061862459650916926,False,Left Foot,Open Play,0,0,1,Normal
-10.332473082471592,0.05785772553540774,False,Left Foot,Open Play,1,1,1,Half Volley
-27.74310725207254,0.06051711828116214,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69265,David Villa Sánchez,Barcelona,23.461670869739866,0.0669168629666147,False,Left Foot,Open Play,0,0,1,Normal
+69265,Xavier Hernández Creus,Barcelona,26.768638366566197,0.06772806489175136,False,Right Foot,Open Play,0,0,3,Normal
+69265,Adriano Correia Claro,Barcelona,18.990787240133038,0.05595736148965361,True,Left Foot,Open Play,1,0,0,Normal
+69265,David Villa Sánchez,Barcelona,17.140011668607467,0.06385876570242463,False,Right Foot,Open Play,1,0,3,Normal
+69265,David Villa Sánchez,Barcelona,11.482595525402782,0.0529125444140437,False,Right Foot,Open Play,1,0,0,Normal
+69265,Óscar Guido Trejo,Sporting Gijón,13.58234147707972,0.06125306821005308,False,Head,Open Play,0,0,1,Normal
+69265,Daniel Alves da Silva,Barcelona,40.36285421027606,0.06515142913186786,False,Right Foot,Open Play,0,0,0,Normal
+69265,Miguel Ángel De las Cuevas Barberá,Sporting Gijón,17.71919862747749,0.062188987636307674,False,Right Foot,Open Play,0,0,3,Normal
+69265,Ignacio Cases Mora,Sporting Gijón,25.403149411047444,0.06794595847942866,False,Left Foot,Open Play,1,0,0,Normal
+69265,Lionel Andrés Messi Cuccittini,Barcelona,21.61573500947863,0.059394660782046776,False,Left Foot,Open Play,0,0,4,Normal
+69265,David Barral Torres,Sporting Gijón,23.604448733236715,0.06611388968360414,False,Right Foot,Open Play,0,0,4,Normal
+69265,Xavier Hernández Creus,Barcelona,23.165923249462782,0.0627771685899645,False,Left Foot,Open Play,0,0,4,Normal
+69265,David Villa Sánchez,Barcelona,24.704048251248217,0.059341407477721236,False,Left Foot,Open Play,0,0,1,Normal
+69265,Lionel Andrés Messi Cuccittini,Barcelona,13.656500283747661,0.05897136906670227,False,Head,Open Play,0,0,0,Normal
+69265,David Barral Torres,Sporting Gijón,13.744089638822931,0.05473840317953486,False,Head,Open Play,0,0,1,Normal
+69265,Alberto Rivera Pizarro,Sporting Gijón,46.80940076523091,0.08552019625773284,False,Right Foot,Open Play,0,0,0,Normal
+69265,Lionel Andrés Messi Cuccittini,Barcelona,24.108089928486667,0.061862459650916926,False,Left Foot,Open Play,0,0,1,Normal
+69265,Lionel Andrés Messi Cuccittini,Barcelona,10.332473082471592,0.05785772553540774,False,Left Foot,Open Play,1,1,1,Half Volley
+69265,Lionel Andrés Messi Cuccittini,Barcelona,27.74310725207254,0.06051711828116214,False,Left Foot,Free Kick,0,0,0,Normal

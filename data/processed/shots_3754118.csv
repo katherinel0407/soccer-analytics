@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.746427842267945,0.05688787199620422,False,Head,Open Play,0,0,1,Normal
-6.868041933477104,0.05678731203926534,True,Left Foot,Open Play,1,0,3,Normal
-9.330058949438643,0.05923298363702354,False,Head,Open Play,0,1,2,Normal
-16.095340940781597,0.0622280492545415,False,Right Foot,Open Play,0,0,3,Normal
-23.456555586871662,0.06527708837109125,False,Right Foot,Open Play,0,0,2,Normal
-14.266394078392755,0.05754147833390554,False,Right Foot,Open Play,1,0,1,Normal
-12.10165277968261,0.05956138556761399,False,Head,Open Play,0,1,3,Normal
-22.726416347501864,0.06134550131772447,False,Right Foot,Open Play,1,0,1,Normal
-26.431988196123275,0.06545075272126483,False,Right Foot,Open Play,0,0,0,Normal
-31.338315206788003,0.07298354902289811,False,Right Foot,Free Kick,0,0,0,Normal
-13.843771162512038,0.05993805720685927,True,Right Foot,Open Play,1,0,1,Normal
-28.1113855937412,0.07124599084125587,False,Right Foot,Open Play,0,0,1,Normal
-19.58979326077741,0.05572535543370446,True,Left Foot,Open Play,1,0,2,Half Volley
-16.479381056338255,0.05522410254690324,False,Left Foot,Open Play,0,0,3,Normal
-12.952991932368365,0.06082408320633078,False,Left Foot,Open Play,1,0,1,Half Volley
-11.744360348695029,0.054548348825945496,False,Left Foot,Open Play,1,0,2,Normal
-27.627884464793897,0.0625180536525526,False,Right Foot,Open Play,0,0,2,Normal
-12.296747537458838,0.05666612916699293,False,Head,Open Play,0,0,2,Normal
-22.010906387516165,0.05028315617370852,False,Right Foot,Open Play,0,0,2,Normal
-9.390420650854782,0.05891251364528876,False,Head,Open Play,0,0,5,Normal
-16.280663377147754,0.06337977320988855,False,Left Foot,Open Play,1,0,1,Half Volley
-14.603081866510227,0.0618771909774723,False,Right Foot,Open Play,0,0,3,Normal
-8.336066218546975,0.05753570736190171,False,Head,Open Play,0,1,4,Normal
-37.80846466070792,0.07144076669254065,False,Right Foot,Open Play,1,0,0,Normal
-36.84155262743415,0.0774843619263087,False,Right Foot,Open Play,0,0,1,Normal
-5.5009090157900316,0.05748320416182839,True,Left Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754118,Alexis Alejandro Sánchez Sánchez,Arsenal,8.746427842267945,0.05688787199620422,False,Head,Open Play,0,0,1,Normal
+3754118,Alexis Alejandro Sánchez Sánchez,Arsenal,6.868041933477104,0.05678731203926534,True,Left Foot,Open Play,1,0,3,Normal
+3754118,Ignacio Monreal Eraso,Arsenal,9.330058949438643,0.05923298363702354,False,Head,Open Play,0,1,2,Normal
+3754118,Daniel Nii Tackie Mensah Welbeck,Arsenal,16.095340940781597,0.0622280492545415,False,Right Foot,Open Play,0,0,3,Normal
+3754118,Alex Iwobi,Arsenal,23.456555586871662,0.06527708837109125,False,Right Foot,Open Play,0,0,2,Normal
+3754118,Daniel Nii Tackie Mensah Welbeck,Arsenal,14.266394078392755,0.05754147833390554,False,Right Foot,Open Play,1,0,1,Normal
+3754118,Troy Deeney,Watford,12.10165277968261,0.05956138556761399,False,Head,Open Play,0,1,3,Normal
+3754118,Francis Joseph Coquelin,Arsenal,22.726416347501864,0.06134550131772447,False,Right Foot,Open Play,1,0,1,Normal
+3754118,Mohamed Naser Elsayed Elneny,Arsenal,26.431988196123275,0.06545075272126483,False,Right Foot,Open Play,0,0,0,Normal
+3754118,Alexis Alejandro Sánchez Sánchez,Arsenal,31.338315206788003,0.07298354902289811,False,Right Foot,Free Kick,0,0,0,Normal
+3754118,Alex Iwobi,Arsenal,13.843771162512038,0.05993805720685927,True,Right Foot,Open Play,1,0,1,Normal
+3754118,Alex Iwobi,Arsenal,28.1113855937412,0.07124599084125587,False,Right Foot,Open Play,0,0,1,Normal
+3754118,Héctor Bellerín Moruno,Arsenal,19.58979326077741,0.05572535543370446,True,Left Foot,Open Play,1,0,2,Half Volley
+3754118,Alex Iwobi,Arsenal,16.479381056338255,0.05522410254690324,False,Left Foot,Open Play,0,0,3,Normal
+3754118,Mesut Özil,Arsenal,12.952991932368365,0.06082408320633078,False,Left Foot,Open Play,1,0,1,Half Volley
+3754118,Mesut Özil,Arsenal,11.744360348695029,0.054548348825945496,False,Left Foot,Open Play,1,0,2,Normal
+3754118,Alexis Alejandro Sánchez Sánchez,Arsenal,27.627884464793897,0.0625180536525526,False,Right Foot,Open Play,0,0,2,Normal
+3754118,Daniel Nii Tackie Mensah Welbeck,Arsenal,12.296747537458838,0.05666612916699293,False,Head,Open Play,0,0,2,Normal
+3754118,Nordin Amrabat,Watford,22.010906387516165,0.05028315617370852,False,Right Foot,Open Play,0,0,2,Normal
+3754118,Sebastian Prödl,Watford,9.390420650854782,0.05891251364528876,False,Head,Open Play,0,0,5,Normal
+3754118,Nathan Aké,Watford,16.280663377147754,0.06337977320988855,False,Left Foot,Open Play,1,0,1,Half Volley
+3754118,Troy Deeney,Watford,14.603081866510227,0.0618771909774723,False,Right Foot,Open Play,0,0,3,Normal
+3754118,Olivier Giroud,Arsenal,8.336066218546975,0.05753570736190171,False,Head,Open Play,0,1,4,Normal
+3754118,Adlène Guédioura,Watford,37.80846466070792,0.07144076669254065,False,Right Foot,Open Play,1,0,0,Normal
+3754118,Adlène Guédioura,Watford,36.84155262743415,0.0774843619263087,False,Right Foot,Open Play,0,0,1,Normal
+3754118,Theo Walcott,Arsenal,5.5009090157900316,0.05748320416182839,True,Left Foot,Open Play,0,0,4,Normal

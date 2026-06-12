@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.352352383832372,0.050789704634953824,False,Right Foot,Open Play,1,1,1,Half Volley
-56.83915903670638,0.07273688389568857,False,Right Foot,Open Play,1,0,1,Normal
-21.092415698539604,0.06497801112001945,False,Left Foot,Open Play,1,0,1,Half Volley
-38.34070943527258,0.07685555658258764,False,Left Foot,Open Play,0,0,1,Normal
-30.93816413428567,0.07096250160677363,False,Right Foot,Open Play,0,0,2,Normal
-23.678048906107104,0.06689643743405067,False,Left Foot,Open Play,1,0,0,Volley
-15.910059710761615,0.05510905257613187,False,Right Foot,Open Play,0,0,1,Normal
-9.381364506296512,0.05629994603287991,False,Right Foot,Open Play,0,0,1,Overhead Kick
-9.277930803794565,0.0580304913224815,False,Head,Open Play,0,1,4,Normal
-35.76926054589332,0.07711401809706912,False,Left Foot,Open Play,0,0,1,Normal
-43.882684512231016,0.057978590933574055,False,Right Foot,Open Play,0,0,2,Normal
-32.779414271765134,0.07384551792325222,False,Right Foot,Open Play,0,0,1,Normal
-30.672626232522052,0.055295842463032804,False,Right Foot,Open Play,0,0,2,Normal
-14.023551618616453,0.06190826412781523,False,Head,Open Play,0,1,1,Normal
-12.059850745345068,0.0600188384999902,False,Right Foot,Open Play,0,0,1,Normal
-26.706740722147284,0.06595503041665025,False,Right Foot,Open Play,0,0,2,Normal
-37.73393697985939,0.073030291304437,False,Right Foot,Open Play,1,0,0,Normal
-31.08214921783885,0.07346147100705017,False,Right Foot,Free Kick,0,0,0,Normal
-22.4877744563574,0.06699094693951844,False,Right Foot,Free Kick,0,0,0,Normal
-17.901117283566407,0.06130820803187061,False,Right Foot,Open Play,1,0,1,Normal
-28.533839559372304,0.06210069379685897,False,Right Foot,Open Play,0,0,1,Volley
-11.903780911962377,0.06086785880281154,False,Head,Open Play,0,0,3,Normal
-5.860034129593448,0.057692643732242185,True,Right Foot,Open Play,1,0,3,Normal
-24.065951051225884,0.0677323933040876,False,Left Foot,Open Play,1,0,0,Half Volley
-26.316724720223064,0.06866821676307054,False,Right Foot,Open Play,0,0,1,Normal
-18.357559750685823,0.062343874795025976,False,Left Foot,Open Play,0,1,1,Normal
-15.098675438593938,0.05838286131785837,False,Left Foot,Open Play,1,0,2,Normal
-7.2615425358528345,0.05653043010501807,True,Head,Open Play,0,0,1,Normal
-35.4990140708161,0.061905111460151596,False,Right Foot,Open Play,0,0,0,Normal
-29.821636440678432,0.054505585760811,False,Left Foot,Open Play,0,0,1,Normal
-14.700340132119399,0.054154026237684554,False,Right Foot,Open Play,1,0,1,Normal
-24.164643593481777,0.06843246783297066,False,Left Foot,Open Play,0,0,2,Normal
-15.97623234683322,0.053623292742494166,False,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69229,Roberto Soldado Rillo,Getafe,31.352352383832372,0.050789704634953824,False,Right Foot,Open Play,1,1,1,Half Volley
+69229,Pedro León Sánchez Gil,Getafe,56.83915903670638,0.07273688389568857,False,Right Foot,Open Play,1,0,1,Normal
+69229,Juan Ángel Albín Leites,Getafe,21.092415698539604,0.06497801112001945,False,Left Foot,Open Play,1,0,1,Half Volley
+69229,Adrián González Morales,Getafe,38.34070943527258,0.07685555658258764,False,Left Foot,Open Play,0,0,1,Normal
+69229,Pedro León Sánchez Gil,Getafe,30.93816413428567,0.07096250160677363,False,Right Foot,Open Play,0,0,2,Normal
+69229,Juan Ángel Albín Leites,Getafe,23.678048906107104,0.06689643743405067,False,Left Foot,Open Play,1,0,0,Volley
+69229,Zlatan Ibrahimović,Barcelona,15.910059710761615,0.05510905257613187,False,Right Foot,Open Play,0,0,1,Normal
+69229,Roberto Soldado Rillo,Getafe,9.381364506296512,0.05629994603287991,False,Right Foot,Open Play,0,0,1,Overhead Kick
+69229,Adrián González Morales,Getafe,9.277930803794565,0.0580304913224815,False,Head,Open Play,0,1,4,Normal
+69229,Seydou Kéita,Barcelona,35.76926054589332,0.07711401809706912,False,Left Foot,Open Play,0,0,1,Normal
+69229,Pedro León Sánchez Gil,Getafe,43.882684512231016,0.057978590933574055,False,Right Foot,Open Play,0,0,2,Normal
+69229,Roberto Soldado Rillo,Getafe,32.779414271765134,0.07384551792325222,False,Right Foot,Open Play,0,0,1,Normal
+69229,Xavier Hernández Creus,Barcelona,30.672626232522052,0.055295842463032804,False,Right Foot,Open Play,0,0,2,Normal
+69229,Zlatan Ibrahimović,Barcelona,14.023551618616453,0.06190826412781523,False,Head,Open Play,0,1,1,Normal
+69229,Zlatan Ibrahimović,Barcelona,12.059850745345068,0.0600188384999902,False,Right Foot,Open Play,0,0,1,Normal
+69229,Daniel Parejo Muñoz,Getafe,26.706740722147284,0.06595503041665025,False,Right Foot,Open Play,0,0,2,Normal
+69229,Fabio Celestini,Getafe,37.73393697985939,0.073030291304437,False,Right Foot,Open Play,1,0,0,Normal
+69229,Pedro León Sánchez Gil,Getafe,31.08214921783885,0.07346147100705017,False,Right Foot,Free Kick,0,0,0,Normal
+69229,Pedro León Sánchez Gil,Getafe,22.4877744563574,0.06699094693951844,False,Right Foot,Free Kick,0,0,0,Normal
+69229,Daniel Alberto Díaz,Getafe,17.901117283566407,0.06130820803187061,False,Right Foot,Open Play,1,0,1,Normal
+69229,Xavier Hernández Creus,Barcelona,28.533839559372304,0.06210069379685897,False,Right Foot,Open Play,0,0,1,Volley
+69229,Gerard Piqué Bernabéu,Barcelona,11.903780911962377,0.06086785880281154,False,Head,Open Play,0,0,3,Normal
+69229,Zlatan Ibrahimović,Barcelona,5.860034129593448,0.057692643732242185,True,Right Foot,Open Play,1,0,3,Normal
+69229,Seydou Kéita,Barcelona,24.065951051225884,0.0677323933040876,False,Left Foot,Open Play,1,0,0,Half Volley
+69229,Manuel del Moral Fernández,Getafe,26.316724720223064,0.06866821676307054,False,Right Foot,Open Play,0,0,1,Normal
+69229,Juan Ángel Albín Leites,Getafe,18.357559750685823,0.062343874795025976,False,Left Foot,Open Play,0,1,1,Normal
+69229,Andrés Iniesta Luján,Barcelona,15.098675438593938,0.05838286131785837,False,Left Foot,Open Play,1,0,2,Normal
+69229,Lionel Andrés Messi Cuccittini,Barcelona,7.2615425358528345,0.05653043010501807,True,Head,Open Play,0,0,1,Normal
+69229,Manuel del Moral Fernández,Getafe,35.4990140708161,0.061905111460151596,False,Right Foot,Open Play,0,0,0,Normal
+69229,Lionel Andrés Messi Cuccittini,Barcelona,29.821636440678432,0.054505585760811,False,Left Foot,Open Play,0,0,1,Normal
+69229,Zlatan Ibrahimović,Barcelona,14.700340132119399,0.054154026237684554,False,Right Foot,Open Play,1,0,1,Normal
+69229,Seydou Kéita,Barcelona,24.164643593481777,0.06843246783297066,False,Left Foot,Open Play,0,0,2,Normal
+69229,Roberto Soldado Rillo,Getafe,15.97623234683322,0.053623292742494166,False,Right Foot,Open Play,1,0,2,Volley

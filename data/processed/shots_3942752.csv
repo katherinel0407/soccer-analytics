@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.161980201201555,0.05782299394098033,False,Head,Open Play,0,0,3,Normal
-6.300793600809342,0.05564860802095047,True,Head,Open Play,0,0,3,Normal
-31.811475916719118,0.06561128753048256,False,Right Foot,Free Kick,0,0,0,Normal
-19.709134937891104,0.06547816396457724,False,Right Foot,Open Play,0,1,4,Normal
-27.724537868105212,0.06255788213929804,True,Left Foot,Open Play,0,0,2,Normal
-13.682105101189658,0.05432823509502461,True,Right Foot,Open Play,0,1,2,Normal
-20.306156701847836,0.06344806748447808,False,Left Foot,Open Play,0,1,2,Half Volley
-24.39877046082445,0.059418386520969924,False,Left Foot,Open Play,0,1,1,Normal
-8.507055894961542,0.058831112612792745,False,Head,Open Play,0,0,5,Normal
-17.861970775925037,0.06273466395261541,False,Right Foot,Open Play,0,0,2,Normal
-7.881624198095207,0.05459685279892118,False,Head,Open Play,0,1,4,Normal
-17.77245059073172,0.06383508163783386,False,Right Foot,Open Play,1,0,0,Normal
-22.82651966463569,0.0576243544593123,False,Left Foot,Open Play,0,0,2,Normal
-18.999210509913304,0.06503973490646019,False,Right Foot,Open Play,0,0,1,Normal
-12.314625451064277,0.05637340712476508,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3942752,Fabián Ruiz Peña,Spain,6.161980201201555,0.05782299394098033,False,Head,Open Play,0,0,3,Normal
+3942752,Randal Kolo Muani,France,6.300793600809342,0.05564860802095047,True,Head,Open Play,0,0,3,Normal
+3942752,Kylian Mbappé Lottin,France,31.811475916719118,0.06561128753048256,False,Right Foot,Free Kick,0,0,0,Normal
+3942752,Kylian Mbappé Lottin,France,19.709134937891104,0.06547816396457724,False,Right Foot,Open Play,0,1,4,Normal
+3942752,Lamine Yamal Nasraoui Ebana,Spain,27.724537868105212,0.06255788213929804,True,Left Foot,Open Play,0,0,2,Normal
+3942752,Daniel Olmo Carvajal,Spain,13.682105101189658,0.05432823509502461,True,Right Foot,Open Play,0,1,2,Normal
+3942752,Fabián Ruiz Peña,Spain,20.306156701847836,0.06344806748447808,False,Left Foot,Open Play,0,1,2,Half Volley
+3942752,Lamine Yamal Nasraoui Ebana,Spain,24.39877046082445,0.059418386520969924,False,Left Foot,Open Play,0,1,1,Normal
+3942752,Aurélien Djani Tchouaméni,France,8.507055894961542,0.058831112612792745,False,Head,Open Play,0,0,5,Normal
+3942752,Kylian Mbappé Lottin,France,17.861970775925037,0.06273466395261541,False,Right Foot,Open Play,0,0,2,Normal
+3942752,Dayotchanculle Upamecano,France,7.881624198095207,0.05459685279892118,False,Head,Open Play,0,1,4,Normal
+3942752,Theo Bernard François Hernández,France,17.77245059073172,0.06383508163783386,False,Right Foot,Open Play,1,0,0,Normal
+3942752,Lamine Yamal Nasraoui Ebana,Spain,22.82651966463569,0.0576243544593123,False,Left Foot,Open Play,0,0,2,Normal
+3942752,Kylian Mbappé Lottin,France,18.999210509913304,0.06503973490646019,False,Right Foot,Open Play,0,0,1,Normal
+3942752,Antoine Griezmann,France,12.314625451064277,0.05637340712476508,False,Head,Open Play,0,1,1,Normal

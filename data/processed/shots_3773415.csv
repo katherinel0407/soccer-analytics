@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.52821967940577,0.060639416238083624,False,Left Foot,Open Play,0,0,0,Normal
-20.670026608594387,0.05723909796593014,False,Right Foot,Open Play,0,0,1,Normal
-21.651096969899694,0.05566408460034281,False,Right Foot,Open Play,0,0,2,Normal
-28.910897599348242,0.06298195583706379,False,Left Foot,Open Play,0,0,1,Normal
-16.664333169977127,0.06355195942877116,False,Left Foot,Open Play,0,0,1,Normal
-15.305554547287732,0.059453260973685904,False,Right Foot,Open Play,1,0,2,Normal
-22.1686715885278,0.0566277130580569,False,Left Foot,Open Play,0,0,2,Normal
-26.726952688250865,0.06687671970398643,False,Left Foot,Open Play,0,0,2,Normal
-11.901680553602509,0.059477991333385986,True,Left Foot,Penalty,0,0,0,Normal
-8.202438661763955,0.057968077809472884,False,Other,Open Play,1,0,1,Normal
-22.207206037680653,0.05482482855561039,False,Left Foot,Open Play,0,1,2,Normal
-11.321660655575224,0.05500092270237106,False,Right Foot,Open Play,1,0,1,Normal
-29.63545174280291,0.0578078413045788,False,Right Foot,Open Play,0,0,2,Normal
-21.709214633422373,0.06620758552245053,False,Right Foot,Open Play,0,0,2,Normal
-11.515641536623129,0.0574033660726655,False,Left Foot,Open Play,0,0,3,Normal
-9.518928511129811,0.05729744819594469,False,Head,Open Play,0,1,3,Normal
-16.058953888718907,0.05481798658409385,False,Right Foot,Open Play,0,0,1,Normal
-7.800640999302551,0.05843477750161126,False,Right Foot,Open Play,1,0,3,Volley
-25.20495982936692,0.06528704260803701,False,Right Foot,Open Play,1,0,1,Normal
-26.484901359076275,0.0698092585759728,False,Left Foot,Open Play,0,0,2,Normal
-18.46943420898432,0.06169312542876482,False,Right Foot,Open Play,0,0,4,Normal
-12.909686285886274,0.060152900062709444,True,Right Foot,Penalty,0,0,0,Normal
-11.447707194019241,0.05821519241348684,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773415,Jordi Alba Ramos,Barcelona,25.52821967940577,0.060639416238083624,False,Left Foot,Open Play,0,0,0,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,20.670026608594387,0.05723909796593014,False,Right Foot,Open Play,0,0,1,Normal
+3773415,Ousmane Dembélé,Barcelona,21.651096969899694,0.05566408460034281,False,Right Foot,Open Play,0,0,2,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,28.910897599348242,0.06298195583706379,False,Left Foot,Open Play,0,0,1,Normal
+3773415,Antoine Griezmann,Barcelona,16.664333169977127,0.06355195942877116,False,Left Foot,Open Play,0,0,1,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,15.305554547287732,0.059453260973685904,False,Right Foot,Open Play,1,0,2,Normal
+3773415,Ousmane Dembélé,Barcelona,22.1686715885278,0.0566277130580569,False,Left Foot,Open Play,0,0,2,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,26.726952688250865,0.06687671970398643,False,Left Foot,Open Play,0,0,2,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,11.901680553602509,0.059477991333385986,True,Left Foot,Penalty,0,0,0,Normal
+3773415,Rubén Sobrino Pozuelo,Cádiz,8.202438661763955,0.057968077809472884,False,Other,Open Play,1,0,1,Normal
+3773415,Ousmane Dembélé,Barcelona,22.207206037680653,0.05482482855561039,False,Left Foot,Open Play,0,1,2,Normal
+3773415,Frenkie de Jong,Barcelona,11.321660655575224,0.05500092270237106,False,Right Foot,Open Play,1,0,1,Normal
+3773415,Ousmane Dembélé,Barcelona,29.63545174280291,0.0578078413045788,False,Right Foot,Open Play,0,0,2,Normal
+3773415,Rubén Sobrino Pozuelo,Cádiz,21.709214633422373,0.06620758552245053,False,Right Foot,Open Play,0,0,2,Normal
+3773415,Ousmane Dembélé,Barcelona,11.515641536623129,0.0574033660726655,False,Left Foot,Open Play,0,0,3,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,9.518928511129811,0.05729744819594469,False,Head,Open Play,0,1,3,Normal
+3773415,Ousmane Dembélé,Barcelona,16.058953888718907,0.05481798658409385,False,Right Foot,Open Play,0,0,1,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,7.800640999302551,0.05843477750161126,False,Right Foot,Open Play,1,0,3,Volley
+3773415,Miralem Pjanić,Barcelona,25.20495982936692,0.06528704260803701,False,Right Foot,Open Play,1,0,1,Normal
+3773415,Lionel Andrés Messi Cuccittini,Barcelona,26.484901359076275,0.0698092585759728,False,Left Foot,Open Play,0,0,2,Normal
+3773415,Ricard Puig Martí,Barcelona,18.46943420898432,0.06169312542876482,False,Right Foot,Open Play,0,0,4,Normal
+3773415,Alejandro Fernández Iglesias,Cádiz,12.909686285886274,0.060152900062709444,True,Right Foot,Penalty,0,0,0,Normal
+3773415,Martin Braithwaite Christensen,Barcelona,11.447707194019241,0.05821519241348684,False,Head,Open Play,0,1,3,Normal

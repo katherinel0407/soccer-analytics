@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.72794404323299,0.06410259308299128,True,Left Foot,Open Play,1,0,1,Normal
-19.502820308868156,0.06366540233437479,False,Left Foot,Open Play,1,1,1,Volley
-23.148650068632517,0.06722096872392387,True,Left Foot,Open Play,1,0,1,Normal
-20.120636172845032,0.05621740708613842,False,Right Foot,Open Play,0,0,0,Normal
-11.500000000000002,0.06063855764076506,False,Right Foot,Open Play,1,0,3,Normal
-12.169634341261036,0.06080366999113046,False,Right Foot,Open Play,0,0,3,Normal
-12.349089035228467,0.06011206363039314,False,Head,Open Play,0,1,5,Normal
-8.06225774829855,0.0538027304820694,False,Right Foot,Open Play,1,0,2,Volley
-22.010224896624752,0.06660420501235265,False,Left Foot,Open Play,1,0,2,Normal
-23.055585006674633,0.0669718482623911,False,Right Foot,Open Play,0,0,1,Normal
-17.353097706173386,0.062752560153888,False,Right Foot,Open Play,0,1,3,Normal
-19.26655132606767,0.06458096313843606,False,Right Foot,Open Play,0,0,1,Normal
-30.929112499391245,0.06561447239931704,False,Right Foot,Open Play,0,0,1,Normal
-6.212889826803629,0.05786872981124245,False,Head,Open Play,0,1,6,Normal
-13.718600511714007,0.06093019955484758,False,Head,Open Play,0,1,4,Normal
-9.640020746865641,0.05963749104219251,False,Head,Open Play,0,1,4,Normal
-20.3088650593774,0.06455605610205817,False,Right Foot,Open Play,0,1,2,Normal
-11.162884931772785,0.057767359925735506,False,Head,Open Play,0,0,2,Normal
-13.576818478568535,0.058085162343744695,False,Right Foot,Open Play,1,1,2,Volley
-12.592855117089211,0.058725236624977244,False,Right Foot,Open Play,1,0,2,Half Volley
-29.77599704459953,0.05391136691207889,False,Left Foot,Open Play,0,1,1,Normal
-9.291393867445297,0.05945911606891503,False,Head,Open Play,0,0,2,Normal
-21.540659228538015,0.06638367885815623,False,Left Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930169,Scott McTominay,Scotland,17.72794404323299,0.06410259308299128,True,Left Foot,Open Play,1,0,1,Normal
+3930169,Ricardo Iván Rodríguez Araya,Switzerland,19.502820308868156,0.06366540233437479,False,Left Foot,Open Play,1,1,1,Volley
+3930169,Xherdan Shaqiri,Switzerland,23.148650068632517,0.06722096872392387,True,Left Foot,Open Play,1,0,1,Normal
+3930169,Silvan Widmer,Switzerland,20.120636172845032,0.05621740708613842,False,Right Foot,Open Play,0,0,0,Normal
+3930169,Dan Ndoye,Switzerland,11.500000000000002,0.06063855764076506,False,Right Foot,Open Play,1,0,3,Normal
+3930169,Dan Ndoye,Switzerland,12.169634341261036,0.06080366999113046,False,Right Foot,Open Play,0,0,3,Normal
+3930169,Jack Hendry,Scotland,12.349089035228467,0.06011206363039314,False,Head,Open Play,0,1,5,Normal
+3930169,Che Adams,Scotland,8.06225774829855,0.0538027304820694,False,Right Foot,Open Play,1,0,2,Volley
+3930169,Granit Xhaka,Switzerland,22.010224896624752,0.06660420501235265,False,Left Foot,Open Play,1,0,2,Normal
+3930169,Ruben Vargas,Switzerland,23.055585006674633,0.0669718482623911,False,Right Foot,Open Play,0,0,1,Normal
+3930169,Dan Ndoye,Switzerland,17.353097706173386,0.062752560153888,False,Right Foot,Open Play,0,1,3,Normal
+3930169,Ruben Vargas,Switzerland,19.26655132606767,0.06458096313843606,False,Right Foot,Open Play,0,0,1,Normal
+3930169,Billy Gilmour,Scotland,30.929112499391245,0.06561447239931704,False,Right Foot,Open Play,0,0,1,Normal
+3930169,Grant Campbell Hanley,Scotland,6.212889826803629,0.05786872981124245,False,Head,Open Play,0,1,6,Normal
+3930169,Scott McKenna,Scotland,13.718600511714007,0.06093019955484758,False,Head,Open Play,0,1,4,Normal
+3930169,Billy Gilmour,Scotland,9.640020746865641,0.05963749104219251,False,Head,Open Play,0,1,4,Normal
+3930169,Dan Ndoye,Switzerland,20.3088650593774,0.06455605610205817,False,Right Foot,Open Play,0,1,2,Normal
+3930169,Scott McTominay,Scotland,11.162884931772785,0.057767359925735506,False,Head,Open Play,0,0,2,Normal
+3930169,Scott McTominay,Scotland,13.576818478568535,0.058085162343744695,False,Right Foot,Open Play,1,1,2,Volley
+3930169,Scott McTominay,Scotland,12.592855117089211,0.058725236624977244,False,Right Foot,Open Play,1,0,2,Half Volley
+3930169,Kenneth McLean,Scotland,29.77599704459953,0.05391136691207889,False,Left Foot,Open Play,0,1,1,Normal
+3930169,Mohamed Zeki Amdouni,Switzerland,9.291393867445297,0.05945911606891503,False,Head,Open Play,0,0,2,Normal
+3930169,Callum McGregor,Scotland,21.540659228538015,0.06638367885815623,False,Left Foot,Open Play,1,0,1,Half Volley

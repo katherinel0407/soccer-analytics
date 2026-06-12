@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-63.545338145295915,0.08981102789104489,False,Right Foot,Open Play,1,0,0,Normal
-13.961733416735905,0.057699003762995665,True,Left Foot,Open Play,0,0,2,Lob
-25.225780463644725,0.06907808292135811,False,Left Foot,Open Play,1,0,0,Normal
-18.961276328348784,0.053463905893325975,False,Right Foot,Open Play,1,0,0,Half Volley
-21.645553815968764,0.06667473639921385,False,Left Foot,Open Play,0,0,3,Normal
-11.410959644131607,0.05916364139015441,True,Right Foot,Open Play,1,0,1,Half Volley
-9.060905032059443,0.05887725344571602,False,Head,Open Play,0,0,0,Diving Header
-11.511733144926533,0.0599014341733713,False,Head,Open Play,0,0,3,Normal
-27.02831848265815,0.06406882706195653,True,Right Foot,Free Kick,0,0,0,Normal
-7.818567643756747,0.05675572240955016,False,Head,Open Play,0,0,2,Normal
-20.18142710513803,0.06177486430809695,False,Left Foot,Open Play,1,0,1,Half Volley
-10.201960595885483,0.05891425004183907,False,Head,Open Play,0,0,3,Normal
-10.153324578678653,0.05760037694884433,False,Left Foot,Open Play,0,0,3,Half Volley
-11.236102527122119,0.05957330161962063,True,Right Foot,Open Play,1,0,1,Normal
-24.826195842295295,0.06649843701670825,False,Right Foot,Open Play,0,0,3,Normal
-20.357799488156868,0.06470525537187387,True,Left Foot,Open Play,0,0,2,Normal
-8.905054744357269,0.054469159694760266,True,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-21.890865674979604,0.05533878683618733,False,Left Foot,Open Play,1,0,1,Normal
-14.290206436577465,0.05440901944965134,True,Right Foot,Open Play,0,0,0,Normal
-26.80671557651179,0.07018376673949563,False,Right Foot,Open Play,0,0,1,Normal
-31.374671313019356,0.07359136774207613,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267101,Roberto Torres Morales,Osasuna,63.545338145295915,0.08981102789104489,False,Right Foot,Open Play,1,0,0,Normal
+267101,Lionel Andrés Messi Cuccittini,Barcelona,13.961733416735905,0.057699003762995665,True,Left Foot,Open Play,0,0,2,Lob
+267101,Lucas Digne,Barcelona,25.225780463644725,0.06907808292135811,False,Left Foot,Open Play,1,0,0,Normal
+267101,Lionel Andrés Messi Cuccittini,Barcelona,18.961276328348784,0.053463905893325975,False,Right Foot,Open Play,1,0,0,Half Volley
+267101,Lionel Andrés Messi Cuccittini,Barcelona,21.645553815968764,0.06667473639921385,False,Left Foot,Open Play,0,0,3,Normal
+267101,André Filipe Tavares Gomes,Barcelona,11.410959644131607,0.05916364139015441,True,Right Foot,Open Play,1,0,1,Half Volley
+267101,Arda Turan,Barcelona,9.060905032059443,0.05887725344571602,False,Head,Open Play,0,0,0,Diving Header
+267101,Francisco Alcácer García,Barcelona,11.511733144926533,0.0599014341733713,False,Head,Open Play,0,0,3,Normal
+267101,Roberto Torres Morales,Osasuna,27.02831848265815,0.06406882706195653,True,Right Foot,Free Kick,0,0,0,Normal
+267101,Javier Alejandro Mascherano,Barcelona,7.818567643756747,0.05675572240955016,False,Head,Open Play,0,0,2,Normal
+267101,Roberto Torres Morales,Osasuna,20.18142710513803,0.06177486430809695,False,Left Foot,Open Play,1,0,1,Half Volley
+267101,Gerard Piqué Bernabéu,Barcelona,10.201960595885483,0.05891425004183907,False,Head,Open Play,0,0,3,Normal
+267101,Gerard Piqué Bernabéu,Barcelona,10.153324578678653,0.05760037694884433,False,Left Foot,Open Play,0,0,3,Half Volley
+267101,André Filipe Tavares Gomes,Barcelona,11.236102527122119,0.05957330161962063,True,Right Foot,Open Play,1,0,1,Normal
+267101,Ivan Rakitić,Barcelona,24.826195842295295,0.06649843701670825,False,Right Foot,Open Play,0,0,3,Normal
+267101,Lionel Andrés Messi Cuccittini,Barcelona,20.357799488156868,0.06470525537187387,True,Left Foot,Open Play,0,0,2,Normal
+267101,Francisco Alcácer García,Barcelona,8.905054744357269,0.054469159694760266,True,Right Foot,Open Play,0,0,1,Normal
+267101,Javier Alejandro Mascherano,Barcelona,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+267101,Carles Aleña Castillo,Barcelona,21.890865674979604,0.05533878683618733,False,Left Foot,Open Play,1,0,1,Normal
+267101,Francisco Alcácer García,Barcelona,14.290206436577465,0.05440901944965134,True,Right Foot,Open Play,0,0,0,Normal
+267101,Denis Suárez Fernández,Barcelona,26.80671557651179,0.07018376673949563,False,Right Foot,Open Play,0,0,1,Normal
+267101,Ivan Rakitić,Barcelona,31.374671313019356,0.07359136774207613,False,Right Foot,Open Play,0,0,0,Normal

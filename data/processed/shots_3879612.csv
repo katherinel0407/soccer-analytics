@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.28257802514703,0.0654998936134974,False,Right Foot,Open Play,0,0,4,Normal
-32.33109957919773,0.07305404863602745,False,Left Foot,Open Play,0,0,2,Normal
-6.762396025078685,0.05555917729382464,True,Right Foot,Open Play,1,0,4,Normal
-29.10429521565502,0.06772610379065808,False,Left Foot,Open Play,0,0,0,Normal
-13.926952286842946,0.0539818763653503,False,Right Foot,Open Play,1,0,1,Overhead Kick
-12.303657992645931,0.05519390918299275,False,Right Foot,Open Play,0,1,3,Half Volley
-21.222865028077617,0.06603439944443106,False,Right Foot,Open Play,1,0,0,Half Volley
-22.202927734873168,0.053719473971546805,False,Left Foot,Open Play,0,0,1,Normal
-20.678491240900534,0.05533779223222427,False,Left Foot,Open Play,0,0,2,Normal
-28.69233347080714,0.06994592446160729,False,Right Foot,Open Play,1,1,2,Normal
-12.287391912037313,0.061083808575070724,False,Right Foot,Open Play,1,0,2,Overhead Kick
-13.063307391315567,0.06125900671740012,True,Right Foot,Open Play,1,0,5,Volley
-23.644872594285637,0.05651649061584567,False,Right Foot,Open Play,0,0,3,Normal
-18.206866836443883,0.06206946914316652,False,Left Foot,Open Play,1,0,0,Normal
-6.332456079595021,0.05772778154407744,True,Left Foot,Open Play,1,0,3,Volley
-16.851409436602026,0.060387685625427866,False,Right Foot,Open Play,1,0,3,Normal
-26.418554086096382,0.06732312247897985,False,Left Foot,Open Play,1,0,0,Half Volley
-20.640978658968674,0.053938542621707046,False,Right Foot,Open Play,1,0,1,Half Volley
-22.94013949390893,0.06750221781786897,False,Left Foot,Open Play,1,1,1,Half Volley
-28.223748865095857,0.05574816157260448,False,Left Foot,Open Play,0,0,1,Half Volley
-20.27140843651472,0.062435014656608986,False,Right Foot,Free Kick,0,0,0,Normal
-11.462983904725682,0.060536695325878735,False,Head,Open Play,0,0,2,Normal
-3.361547262794322,0.05632539575465779,True,Right Foot,Open Play,1,1,1,Normal
-30.989837043779364,0.05770430617633362,False,Right Foot,Open Play,0,0,1,Half Volley
-31.48205838251369,0.055922828730688406,False,Right Foot,Open Play,0,1,2,Half Volley
-10.099999999999994,0.05880447762035179,False,Head,Open Play,0,1,3,Normal
-32.73408010010362,0.05502181534066016,False,Right Foot,Open Play,1,0,1,Half Volley
-14.620875486782584,0.05610378561616801,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879612,Federico Dionisi,Frosinone,33.28257802514703,0.0654998936134974,False,Right Foot,Open Play,0,0,4,Normal
+3879612,Alberto Facundo Costa,Genoa,32.33109957919773,0.07305404863602745,False,Left Foot,Open Play,0,0,2,Normal
+3879612,Leonardo Pavoletti,Genoa,6.762396025078685,0.05555917729382464,True,Right Foot,Open Play,1,0,4,Normal
+3879612,Federico Dionisi,Frosinone,29.10429521565502,0.06772610379065808,False,Left Foot,Open Play,0,0,0,Normal
+3879612,Aleandro Rosi,Frosinone,13.926952286842946,0.0539818763653503,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3879612,Daniel Ciofani,Frosinone,12.303657992645931,0.05519390918299275,False,Right Foot,Open Play,0,1,3,Half Volley
+3879612,Danilo Soddimo,Frosinone,21.222865028077617,0.06603439944443106,False,Right Foot,Open Play,1,0,0,Half Volley
+3879612,Diogo José Rosário Gomes Figueiras,Genoa,22.202927734873168,0.053719473971546805,False,Left Foot,Open Play,0,0,1,Normal
+3879612,Darko Lazović,Genoa,20.678491240900534,0.05533779223222427,False,Left Foot,Open Play,0,0,2,Normal
+3879612,Mirko Gori,Frosinone,28.69233347080714,0.06994592446160729,False,Right Foot,Open Play,1,1,2,Normal
+3879612,Leonardo Blanchard,Frosinone,12.287391912037313,0.061083808575070724,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3879612,Leonardo Blanchard,Frosinone,13.063307391315567,0.06125900671740012,True,Right Foot,Open Play,1,0,5,Volley
+3879612,Aleandro Rosi,Frosinone,23.644872594285637,0.05651649061584567,False,Right Foot,Open Play,0,0,3,Normal
+3879612,Leonardo Blanchard,Frosinone,18.206866836443883,0.06206946914316652,False,Left Foot,Open Play,1,0,0,Normal
+3879612,Modibo Diakité,Frosinone,6.332456079595021,0.05772778154407744,True,Left Foot,Open Play,1,0,3,Volley
+3879612,Leonardo Pavoletti,Genoa,16.851409436602026,0.060387685625427866,False,Right Foot,Open Play,1,0,3,Normal
+3879612,Alberto Facundo Costa,Genoa,26.418554086096382,0.06732312247897985,False,Left Foot,Open Play,1,0,0,Half Volley
+3879612,Luca Paganini,Frosinone,20.640978658968674,0.053938542621707046,False,Right Foot,Open Play,1,0,1,Half Volley
+3879612,Danilo Soddimo,Frosinone,22.94013949390893,0.06750221781786897,False,Left Foot,Open Play,1,1,1,Half Volley
+3879612,Mirko Gori,Frosinone,28.223748865095857,0.05574816157260448,False,Left Foot,Open Play,0,0,1,Half Volley
+3879612,Darko Lazović,Genoa,20.27140843651472,0.062435014656608986,False,Right Foot,Free Kick,0,0,0,Normal
+3879612,Diego Sebastián Laxalt Suárez,Genoa,11.462983904725682,0.060536695325878735,False,Head,Open Play,0,0,2,Normal
+3879612,Serge Gakpé,Genoa,3.361547262794322,0.05632539575465779,True,Right Foot,Open Play,1,1,1,Normal
+3879612,Mirko Gori,Frosinone,30.989837043779364,0.05770430617633362,False,Right Foot,Open Play,0,0,1,Half Volley
+3879612,Darko Lazović,Genoa,31.48205838251369,0.055922828730688406,False,Right Foot,Open Play,0,1,2,Half Volley
+3879612,Federico Dionisi,Frosinone,10.099999999999994,0.05880447762035179,False,Head,Open Play,0,1,3,Normal
+3879612,Robert Gucher,Frosinone,32.73408010010362,0.05502181534066016,False,Right Foot,Open Play,1,0,1,Half Volley
+3879612,Daniel Ciofani,Frosinone,14.620875486782584,0.05610378561616801,False,Head,Open Play,0,0,1,Normal

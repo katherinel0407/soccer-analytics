@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.434680460612912,0.06098708993287566,False,Head,Open Play,0,1,4,Normal
-18.53105501583761,0.06327474229494613,False,Right Foot,Open Play,1,1,1,Volley
-30.589540696126843,0.0661641934238306,False,Right Foot,Open Play,0,0,1,Normal
-12.126417442921875,0.05659419086683963,True,Right Foot,Open Play,0,1,2,Half Volley
-25.904439773907487,0.06839860040391724,False,Left Foot,Open Play,1,0,0,Volley
-28.969811873741953,0.07080321580269612,False,Left Foot,Open Play,1,0,0,Half Volley
-6.894925670375279,0.05661917310141718,False,Head,Open Play,0,1,5,Normal
-9.265527507918799,0.05729053115479962,False,Head,Open Play,0,1,6,Normal
-17.172361514946047,0.053191403143181694,False,Left Foot,Open Play,0,1,1,Normal
-31.310701046127985,0.07088729449583497,False,Right Foot,Open Play,0,1,1,Normal
-17.617321022221287,0.06418888370320427,False,Left Foot,Open Play,1,0,0,Normal
-13.827870407260832,0.0611835189973934,False,Head,Open Play,0,1,4,Normal
-9.677293009927936,0.05701544602159446,False,Right Foot,Open Play,1,0,4,Volley
-3.6674241641784477,0.05564417924419367,False,Right Foot,Open Play,1,1,2,Normal
-21.423818520515894,0.05863222600680416,False,Right Foot,Open Play,1,0,1,Normal
-6.911584478250995,0.057643472064038595,False,Head,Open Play,0,0,2,Normal
-13.250283015845362,0.060285292690712984,False,Left Foot,Open Play,1,0,1,Half Volley
-6.573431371817919,0.05582607537191122,False,Head,Open Play,0,1,5,Normal
-6.067124524847005,0.057441815721714744,False,Right Foot,Open Play,1,1,5,Volley
-25.614253844295362,0.0635652863064972,False,Right Foot,Open Play,0,1,2,Half Volley
-27.970877712363624,0.07083217814147075,True,Left Foot,Open Play,1,0,0,Half Volley
-7.553806987208502,0.05746107481854214,False,Left Foot,Open Play,1,1,2,Half Volley
-8.90898422941696,0.05844921414266121,False,Left Foot,Open Play,1,1,2,Volley
-14.534441853748636,0.06149978721522904,False,Head,Open Play,0,1,1,Normal
-15.472879499304584,0.05208902536960002,False,Right Foot,Open Play,0,1,2,Normal
-24.71639132235934,0.06573160964002843,False,Left Foot,Open Play,1,1,1,Normal
-34.30801655590133,0.05799719954307786,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930162,Andreas Christensen,Denmark,14.434680460612912,0.06098708993287566,False,Head,Open Play,0,1,4,Normal
+3930162,Victor Bernth Kristansen,Denmark,18.53105501583761,0.06327474229494613,False,Right Foot,Open Play,1,1,1,Volley
+3930162,Benjamin Šeško,Slovenia,30.589540696126843,0.0661641934238306,False,Right Foot,Open Play,0,0,1,Normal
+3930162,Christian Dannemann Eriksen,Denmark,12.126417442921875,0.05659419086683963,True,Right Foot,Open Play,0,1,2,Half Volley
+3930162,Erik Janža,Slovenia,25.904439773907487,0.06839860040391724,False,Left Foot,Open Play,1,0,0,Volley
+3930162,Erik Janža,Slovenia,28.969811873741953,0.07080321580269612,False,Left Foot,Open Play,1,0,0,Half Volley
+3930162,Jannik Vestergaard,Denmark,6.894925670375279,0.05661917310141718,False,Head,Open Play,0,1,5,Normal
+3930162,Joachim Andersen,Denmark,9.265527507918799,0.05729053115479962,False,Head,Open Play,0,1,6,Normal
+3930162,Christian Dannemann Eriksen,Denmark,17.172361514946047,0.053191403143181694,False,Left Foot,Open Play,0,1,1,Normal
+3930162,Christian Dannemann Eriksen,Denmark,31.310701046127985,0.07088729449583497,False,Right Foot,Open Play,0,1,1,Normal
+3930162,Christian Dannemann Eriksen,Denmark,17.617321022221287,0.06418888370320427,False,Left Foot,Open Play,1,0,0,Normal
+3930162,Andreas Christensen,Denmark,13.827870407260832,0.0611835189973934,False,Head,Open Play,0,1,4,Normal
+3930162,Pierre-Emile Højbjerg,Denmark,9.677293009927936,0.05701544602159446,False,Right Foot,Open Play,1,0,4,Volley
+3930162,Rasmus Winther Højlund,Denmark,3.6674241641784477,0.05564417924419367,False,Right Foot,Open Play,1,1,2,Normal
+3930162,Alexander Hartmann Bah,Denmark,21.423818520515894,0.05863222600680416,False,Right Foot,Open Play,1,0,1,Normal
+3930162,Adam Gnezda Čerin,Slovenia,6.911584478250995,0.057643472064038595,False,Head,Open Play,0,0,2,Normal
+3930162,Christian Dannemann Eriksen,Denmark,13.250283015845362,0.060285292690712984,False,Left Foot,Open Play,1,0,1,Half Volley
+3930162,Jonas Older Wind,Denmark,6.573431371817919,0.05582607537191122,False,Head,Open Play,0,1,5,Normal
+3930162,Andraž Šporar,Slovenia,6.067124524847005,0.057441815721714744,False,Right Foot,Open Play,1,1,5,Volley
+3930162,Benjamin Šeško,Slovenia,25.614253844295362,0.0635652863064972,False,Right Foot,Open Play,0,1,2,Half Volley
+3930162,Erik Janža,Slovenia,27.970877712363624,0.07083217814147075,True,Left Foot,Open Play,1,0,0,Half Volley
+3930162,Andraž Šporar,Slovenia,7.553806987208502,0.05746107481854214,False,Left Foot,Open Play,1,1,2,Half Volley
+3930162,Andraž Šporar,Slovenia,8.90898422941696,0.05844921414266121,False,Left Foot,Open Play,1,1,2,Volley
+3930162,Jannik Vestergaard,Denmark,14.534441853748636,0.06149978721522904,False,Head,Open Play,0,1,1,Normal
+3930162,Andraž Šporar,Slovenia,15.472879499304584,0.05208902536960002,False,Right Foot,Open Play,0,1,2,Normal
+3930162,Morten Hjulmand,Denmark,24.71639132235934,0.06573160964002843,False,Left Foot,Open Play,1,1,1,Normal
+3930162,Žan Karničnik,Slovenia,34.30801655590133,0.05799719954307786,False,Right Foot,Open Play,1,0,0,Normal

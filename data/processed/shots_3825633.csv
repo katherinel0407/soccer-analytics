@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.363709207365673,0.06346740206308119,False,Left Foot,Open Play,0,0,1,Normal
-8.85889383614004,0.05920035429542866,False,Head,Open Play,0,0,2,Normal
-12.175795661885921,0.060762249921929426,False,Right Foot,Open Play,1,0,1,Volley
-11.800423721205947,0.06036561590647755,False,Head,Open Play,0,0,2,Normal
-14.469277798148736,0.06223460228329708,False,Head,Open Play,0,0,1,Normal
-8.146778504415108,0.05497069698017226,False,Head,Open Play,0,1,3,Normal
-12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
-22.410934831014973,0.06127242025467507,False,Right Foot,Open Play,0,0,2,Normal
-22.917678765529466,0.06485622520663693,False,Right Foot,Open Play,0,0,2,Half Volley
-29.04961273407961,0.07148470342487784,False,Right Foot,Open Play,0,0,2,Normal
-21.800229356591647,0.060670787813475874,False,Right Foot,Open Play,1,0,2,Volley
-14.135416513141733,0.06208429354150598,False,Left Foot,Open Play,1,0,1,Normal
-20.858091954922433,0.05388428323054825,False,Right Foot,Open Play,1,0,2,Normal
-33.145286241032835,0.06345576718896383,False,Right Foot,Free Kick,0,0,0,Normal
-37.67824305882641,0.0787463688653009,False,Right Foot,Open Play,0,0,1,Normal
-11.89831920903117,0.060868558497179655,False,Head,Open Play,0,1,3,Normal
-28.71410803072246,0.06524461342037556,False,Right Foot,Open Play,1,0,0,Volley
-4.981967482832466,0.055404211468611256,True,Left Foot,Open Play,1,0,1,Normal
-19.656296701057403,0.06479768582013416,True,Right Foot,Open Play,0,0,4,Normal
-8.32165848854662,0.05858082565486565,False,Right Foot,Open Play,1,0,4,Normal
-15.628499608087786,0.06277159123971023,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825633,Anaitz Arbilla Zabala,Espanyol,28.363709207365673,0.06346740206308119,False,Left Foot,Open Play,0,0,1,Normal
+3825633,Víctor Guillermo Álvarez Delgado,Espanyol,8.85889383614004,0.05920035429542866,False,Head,Open Play,0,0,2,Normal
+3825633,Javier Guerra Rodríguez,Rayo Vallecano,12.175795661885921,0.060762249921929426,False,Right Foot,Open Play,1,0,1,Volley
+3825633,Patrick Ebert,Rayo Vallecano,11.800423721205947,0.06036561590647755,False,Head,Open Play,0,0,2,Normal
+3825633,Roberto Trashorras Gayoso,Rayo Vallecano,14.469277798148736,0.06223460228329708,False,Head,Open Play,0,0,1,Normal
+3825633,Javier Guerra Rodríguez,Rayo Vallecano,8.146778504415108,0.05497069698017226,False,Head,Open Play,0,1,3,Normal
+3825633,Roberto Trashorras Gayoso,Rayo Vallecano,12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
+3825633,Javier Guerra Rodríguez,Rayo Vallecano,22.410934831014973,0.06127242025467507,False,Right Foot,Open Play,0,0,2,Normal
+3825633,José Eduardo Rosa Vale de Castro,Rayo Vallecano,22.917678765529466,0.06485622520663693,False,Right Foot,Open Play,0,0,2,Half Volley
+3825633,Jozabed Sánchez Ruiz,Rayo Vallecano,29.04961273407961,0.07148470342487784,False,Right Foot,Open Play,0,0,2,Normal
+3825633,Víctor Sánchez Mata,Espanyol,21.800229356591647,0.060670787813475874,False,Right Foot,Open Play,1,0,2,Volley
+3825633,Felipe Salvador Caicedo Corozo,Espanyol,14.135416513141733,0.06208429354150598,False,Left Foot,Open Play,1,0,1,Normal
+3825633,Roberto Román Triguero,Rayo Vallecano,20.858091954922433,0.05388428323054825,False,Right Foot,Open Play,1,0,2,Normal
+3825633,Tiago Manuel Dias Correia,Rayo Vallecano,33.145286241032835,0.06345576718896383,False,Right Foot,Free Kick,0,0,0,Normal
+3825633,Tiago Manuel Dias Correia,Rayo Vallecano,37.67824305882641,0.0787463688653009,False,Right Foot,Open Play,0,0,1,Normal
+3825633,Álvaro González Soberón,Espanyol,11.89831920903117,0.060868558497179655,False,Head,Open Play,0,1,3,Normal
+3825633,Anaitz Arbilla Zabala,Espanyol,28.71410803072246,0.06524461342037556,False,Right Foot,Open Play,1,0,0,Volley
+3825633,Javier Guerra Rodríguez,Rayo Vallecano,4.981967482832466,0.055404211468611256,True,Left Foot,Open Play,1,0,1,Normal
+3825633,Javier Guerra Rodríguez,Rayo Vallecano,19.656296701057403,0.06479768582013416,True,Right Foot,Open Play,0,0,4,Normal
+3825633,Mamadou Sylla Diallo,Espanyol,8.32165848854662,0.05858082565486565,False,Right Foot,Open Play,1,0,4,Normal
+3825633,Jorge Franco Alviz,Espanyol,15.628499608087786,0.06277159123971023,False,Right Foot,Open Play,0,0,2,Normal
+3825633,Jorge Franco Alviz,Espanyol,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal

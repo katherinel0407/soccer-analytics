@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.297311439335566,0.05925431771103058,False,Head,Open Play,0,1,5,Normal
-5.000999900019995,0.0568033180107307,False,Head,Open Play,0,1,4,Normal
-19.803535037967336,0.06519631190282885,False,Right Foot,Open Play,0,0,3,Normal
-8.981091247727084,0.0590415593952744,False,Head,Open Play,0,0,1,Normal
-26.321094202179363,0.06912127547754869,False,Right Foot,Free Kick,0,0,0,Normal
-30.27358584641073,0.06381349637419116,False,Right Foot,Free Kick,0,0,0,Normal
-12.252754792290586,0.0606601040077744,False,Right Foot,Open Play,1,0,3,Half Volley
-15.370100845472683,0.05686491989619303,False,Left Foot,Open Play,0,0,3,Normal
-14.566056432679371,0.0616650436061836,False,Left Foot,Open Play,0,1,1,Normal
-12.445079348883233,0.05519110952040817,False,Right Foot,Open Play,1,0,1,Volley
-18.042172818150263,0.05721343923879074,False,Right Foot,Open Play,0,1,3,Normal
-21.06015194627047,0.06627208145914631,False,Right Foot,Open Play,0,0,1,Normal
-10.636728820459794,0.05955128547516579,False,Head,Open Play,0,1,3,Normal
-29.331893904076495,0.05462674359645096,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788751,Mats Hummels,Germany,9.297311439335566,0.05925431771103058,False,Head,Open Play,0,1,5,Normal
+3788751,Paul Pogba,France,5.000999900019995,0.0568033180107307,False,Head,Open Play,0,1,4,Normal
+3788751,Kylian Mbappé Lottin,France,19.803535037967336,0.06519631190282885,False,Right Foot,Open Play,0,0,3,Normal
+3788751,Thomas Müller,Germany,8.981091247727084,0.0590415593952744,False,Head,Open Play,0,0,1,Normal
+3788751,Toni Kroos,Germany,26.321094202179363,0.06912127547754869,False,Right Foot,Free Kick,0,0,0,Normal
+3788751,Toni Kroos,Germany,30.27358584641073,0.06381349637419116,False,Right Foot,Free Kick,0,0,0,Normal
+3788751,İlkay Gündoğan,Germany,12.252754792290586,0.0606601040077744,False,Right Foot,Open Play,1,0,3,Half Volley
+3788751,Kai Havertz,Germany,15.370100845472683,0.05686491989619303,False,Left Foot,Open Play,0,0,3,Normal
+3788751,Adrien Rabiot,France,14.566056432679371,0.0616650436061836,False,Left Foot,Open Play,0,1,1,Normal
+3788751,Serge Gnabry,Germany,12.445079348883233,0.05519110952040817,False,Right Foot,Open Play,1,0,1,Volley
+3788751,Thomas Müller,Germany,18.042172818150263,0.05721343923879074,False,Right Foot,Open Play,0,1,3,Normal
+3788751,Karim Benzema,France,21.06015194627047,0.06627208145914631,False,Right Foot,Open Play,0,0,1,Normal
+3788751,Antonio Rüdiger,Germany,10.636728820459794,0.05955128547516579,False,Head,Open Play,0,1,3,Normal
+3788751,Leroy Sané,Germany,29.331893904076495,0.05462674359645096,False,Left Foot,Free Kick,0,0,0,Normal

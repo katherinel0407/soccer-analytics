@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.51430971043504,0.06392300373908134,False,Right Foot,Free Kick,0,0,0,Normal
-9.724710792614864,0.05912595118048997,False,Head,Open Play,0,0,4,Normal
-5.854912467321776,0.05683320895730615,False,Head,Open Play,0,0,2,Normal
-32.22436966024316,0.06209517484606879,False,Left Foot,Open Play,0,0,4,Normal
-26.8001865665148,0.06859516910275436,False,Left Foot,Open Play,0,0,2,Lob
-16.351758315239376,0.06334889628830433,True,Right Foot,Open Play,0,1,3,Normal
-14.42671133696103,0.062289623494879334,False,Left Foot,Open Play,1,0,2,Normal
-14.317821063276353,0.052794164583075114,False,Left Foot,Open Play,1,1,1,Half Volley
-22.22836026341125,0.05739121733538276,False,Right Foot,Open Play,0,0,2,Volley
-11.321660655575222,0.05721804873779584,False,Head,Open Play,0,1,4,Normal
-15.487091398968365,0.061850531727217176,False,Left Foot,Open Play,1,0,2,Normal
-18.788294228055936,0.05838188301936847,False,Left Foot,Open Play,0,0,3,Normal
-10.606601717798213,0.05844376166201814,False,Head,Open Play,0,1,5,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-19.278226059469272,0.06416216822485692,False,Right Foot,Open Play,1,0,4,Normal
-26.900743484149274,0.055273976298176784,False,Right Foot,Open Play,1,0,1,Volley
-11.788553770501286,0.056450691409041576,False,Head,Open Play,0,1,2,Normal
-27.018512172212596,0.05666366052780744,False,Right Foot,Open Play,0,0,2,Normal
-28.856195175386514,0.06827072441371822,False,Right Foot,Open Play,0,0,2,Normal
-17.750774630984417,0.06426266535808893,False,Right Foot,Open Play,0,0,4,Normal
-4.866210024238573,0.056937701109506675,False,Right Foot,Open Play,1,0,3,Normal
-16.279127740760558,0.0633211819867298,False,Right Foot,Open Play,0,0,5,Normal
-9.486832980505138,0.05844692815252849,True,Left Foot,Open Play,0,0,3,Normal
-34.40058139043583,0.07030332972367136,False,Left Foot,Open Play,0,0,2,Normal
-18.113530854032845,0.0644000803308784,False,Left Foot,Open Play,0,0,1,Volley
-27.845466417354192,0.07048977308540806,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825777,José Antonio García Rabasco,Levante UD,25.51430971043504,0.06392300373908134,False,Right Foot,Free Kick,0,0,0,Normal
+3825777,Deyverson Brum Silva Acosta,Levante UD,9.724710792614864,0.05912595118048997,False,Head,Open Play,0,0,4,Normal
+3825777,Deyverson Brum Silva Acosta,Levante UD,5.854912467321776,0.05683320895730615,False,Head,Open Play,0,0,2,Normal
+3825777,Pablo Sarabia García,Getafe,32.22436966024316,0.06209517484606879,False,Left Foot,Open Play,0,0,4,Normal
+3825777,José Luis Morales Nogales,Levante UD,26.8001865665148,0.06859516910275436,False,Left Foot,Open Play,0,0,2,Lob
+3825777,José Luis Morales Nogales,Levante UD,16.351758315239376,0.06334889628830433,True,Right Foot,Open Play,0,1,3,Normal
+3825777,Álvaro Vázquez García,Getafe,14.42671133696103,0.062289623494879334,False,Left Foot,Open Play,1,0,2,Normal
+3825777,Deyverson Brum Silva Acosta,Levante UD,14.317821063276353,0.052794164583075114,False,Left Foot,Open Play,1,1,1,Half Volley
+3825777,Pablo Sarabia García,Getafe,22.22836026341125,0.05739121733538276,False,Right Foot,Open Play,0,0,2,Volley
+3825777,David Navarro Pedrós,Levante UD,11.321660655575222,0.05721804873779584,False,Head,Open Play,0,1,4,Normal
+3825777,Giuseppe Rossi,Levante UD,15.487091398968365,0.061850531727217176,False,Left Foot,Open Play,1,0,2,Normal
+3825777,Giuseppe Rossi,Levante UD,18.788294228055936,0.05838188301936847,False,Left Foot,Open Play,0,0,3,Normal
+3825777,Juan Antonio Rodríguez Villamuela,Getafe,10.606601717798213,0.05844376166201814,False,Head,Open Play,0,1,5,Normal
+3825777,Giuseppe Rossi,Levante UD,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3825777,Moisés Gómez Bordonado,Getafe,19.278226059469272,0.06416216822485692,False,Right Foot,Open Play,1,0,4,Normal
+3825777,Pedro León Sánchez Gil,Getafe,26.900743484149274,0.055273976298176784,False,Right Foot,Open Play,1,0,1,Volley
+3825777,Álvaro Vázquez García,Getafe,11.788553770501286,0.056450691409041576,False,Head,Open Play,0,1,2,Normal
+3825777,Wanderson Maciel Sousa Campos,Getafe,27.018512172212596,0.05666366052780744,False,Right Foot,Open Play,0,0,2,Normal
+3825777,José Luis Morales Nogales,Levante UD,28.856195175386514,0.06827072441371822,False,Right Foot,Open Play,0,0,2,Normal
+3825777,Abdoul Karim Yoda,Getafe,17.750774630984417,0.06426266535808893,False,Right Foot,Open Play,0,0,4,Normal
+3825777,Álvaro Vázquez García,Getafe,4.866210024238573,0.056937701109506675,False,Right Foot,Open Play,1,0,3,Normal
+3825777,Wanderson Maciel Sousa Campos,Getafe,16.279127740760558,0.0633211819867298,False,Right Foot,Open Play,0,0,5,Normal
+3825777,Joan Verdú Fernández,Levante UD,9.486832980505138,0.05844692815252849,True,Left Foot,Open Play,0,0,3,Normal
+3825777,Álvaro Medrán Just,Getafe,34.40058139043583,0.07030332972367136,False,Left Foot,Open Play,0,0,2,Normal
+3825777,Víctor Rodríguez Romero,Getafe,18.113530854032845,0.0644000803308784,False,Left Foot,Open Play,0,0,1,Volley
+3825777,Víctor Rodríguez Romero,Getafe,27.845466417354192,0.07048977308540806,False,Right Foot,Free Kick,0,0,0,Normal

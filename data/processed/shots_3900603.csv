@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.826237921249266,0.05737438216829597,True,Left Foot,Open Play,1,0,2,Normal
-13.577186748365802,0.057817299904182363,False,Head,Open Play,0,1,3,Normal
-5.818075283115543,0.057248027222579156,False,Left Foot,Open Play,1,0,3,Volley
-8.905054744357281,0.05841595861101895,False,Head,Open Play,0,0,3,Normal
-35.48098082071576,0.05592477593640999,False,Left Foot,Open Play,0,1,1,Normal
-10.677546534667977,0.06005118638882232,False,Head,Open Play,0,1,3,Normal
-15.804113388608679,0.06265237280431064,False,Right Foot,Open Play,0,0,1,Normal
-34.90401123080269,0.07540715549140962,False,Left Foot,Open Play,1,0,1,Volley
-13.379461872586658,0.06158657601441653,False,Left Foot,Open Play,0,1,2,Normal
-28.43448610402517,0.05773577912691194,False,Right Foot,Free Kick,0,0,0,Normal
-28.114942646215734,0.06978729900892526,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-24.09024698918631,0.06715429501974345,False,Right Foot,Open Play,0,0,2,Normal
-30.178303464575336,0.05821137211942025,False,Right Foot,Open Play,0,0,1,Normal
-15.344705927452633,0.056413193169680194,True,Left Foot,Open Play,1,0,0,Normal
-22.74818674092509,0.06746616030386778,False,Right Foot,Free Kick,0,0,0,Normal
-23.961636004246458,0.06814283846710074,False,Right Foot,Open Play,1,1,2,Normal
-26.999999999999996,0.07025501609747706,False,Right Foot,Open Play,0,0,1,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-12.657408897558772,0.05522172740273901,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900603,Younousse Sankharé,Guingamp,7.826237921249266,0.05737438216829597,True,Left Foot,Open Play,1,0,2,Normal
+3900603,Wissam Ben Yedder,Toulouse,13.577186748365802,0.057817299904182363,False,Head,Open Play,0,1,3,Normal
+3900603,Jean-Daniel Akpa Akpro,Toulouse,5.818075283115543,0.057248027222579156,False,Left Foot,Open Play,1,0,3,Volley
+3900603,Sloan Privat,Guingamp,8.905054744357281,0.05841595861101895,False,Head,Open Play,0,0,3,Normal
+3900603,Yannis Salibur,Guingamp,35.48098082071576,0.05592477593640999,False,Left Foot,Open Play,0,1,1,Normal
+3900603,Issa Diop,Toulouse,10.677546534667977,0.06005118638882232,False,Head,Open Play,0,1,3,Normal
+3900603,Jimmy Briand,Guingamp,15.804113388608679,0.06265237280431064,False,Right Foot,Open Play,0,0,1,Normal
+3900603,Dorian Lévêque,Guingamp,34.90401123080269,0.07540715549140962,False,Left Foot,Open Play,1,0,1,Volley
+3900603,Wissam Ben Yedder,Toulouse,13.379461872586658,0.06158657601441653,False,Left Foot,Open Play,0,1,2,Normal
+3900603,Wissam Ben Yedder,Toulouse,28.43448610402517,0.05773577912691194,False,Right Foot,Free Kick,0,0,0,Normal
+3900603,Adrien Regattin,Toulouse,28.114942646215734,0.06978729900892526,False,Right Foot,Open Play,0,0,1,Normal
+3900603,Wissam Ben Yedder,Toulouse,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3900603,Óscar Guido Trejo,Toulouse,24.09024698918631,0.06715429501974345,False,Right Foot,Open Play,0,0,2,Normal
+3900603,Óscar Guido Trejo,Toulouse,30.178303464575336,0.05821137211942025,False,Right Foot,Open Play,0,0,1,Normal
+3900603,Jimmy Briand,Guingamp,15.344705927452633,0.056413193169680194,True,Left Foot,Open Play,1,0,0,Normal
+3900603,Adrien Regattin,Toulouse,22.74818674092509,0.06746616030386778,False,Right Foot,Free Kick,0,0,0,Normal
+3900603,Óscar Guido Trejo,Toulouse,23.961636004246458,0.06814283846710074,False,Right Foot,Open Play,1,1,2,Normal
+3900603,Martin Braithwaite Christensen,Toulouse,26.999999999999996,0.07025501609747706,False,Right Foot,Open Play,0,0,1,Normal
+3900603,Wissam Ben Yedder,Toulouse,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3900603,Tongo Hamed Doumbia,Toulouse,12.657408897558772,0.05522172740273901,False,Right Foot,Open Play,1,0,1,Normal

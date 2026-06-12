@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.05107707119995,0.06674115161705223,False,Right Foot,Open Play,0,0,2,Half Volley
-24.39057194901341,0.06610622068613937,False,Right Foot,Open Play,1,0,0,Volley
-13.346160496562293,0.05698788823679741,False,Right Foot,Open Play,1,1,4,Normal
-23.748894711122873,0.06759354969264977,True,Right Foot,Free Kick,0,0,0,Normal
-10.852188719332158,0.057834559592790796,False,Right Foot,Open Play,1,1,5,Half Volley
-8.591274643497322,0.058904165552040554,False,Head,Open Play,0,1,2,Normal
-4.751841748206692,0.053796846993885546,False,Left Foot,Open Play,1,0,3,Half Volley
-15.489673979784085,0.05491563975145841,False,Right Foot,Open Play,1,0,2,Normal
-16.368261972488092,0.05776041912682419,False,Right Foot,Open Play,0,0,2,Normal
-26.932879534130766,0.06989794351110476,False,Right Foot,Open Play,0,0,1,Normal
-16.896153408394472,0.06323314188776799,False,Head,Open Play,0,1,2,Normal
-11.043550153822817,0.060397268023240545,False,Left Foot,Open Play,0,0,2,Normal
-5.05371150739731,0.055872715951080926,True,Left Foot,Open Play,1,0,4,Volley
-21.545533179756774,0.06314768729645213,False,Right Foot,Open Play,1,0,2,Normal
-20.69033590834136,0.062072131563841795,False,Right Foot,Open Play,1,0,2,Normal
-26.828715958837833,0.05805766101373305,False,Right Foot,Free Kick,0,0,0,Normal
-8.84590300647707,0.058761399970932264,False,Head,Open Play,0,1,3,Normal
-21.57243611648903,0.054416162699485564,False,Right Foot,Open Play,0,0,1,Volley
-29.00241369265669,0.07150756731508988,False,Left Foot,Open Play,0,0,2,Normal
-6.0835844697020525,0.0561481148829451,False,Head,Open Play,0,1,6,Normal
-4.38292140016222,0.0554806340692682,False,Right Foot,Open Play,1,0,5,Half Volley
-18.071247881648898,0.060292260540651746,False,Left Foot,Open Play,0,1,3,Normal
-20.177710474679724,0.06565895463794295,False,Left Foot,Open Play,0,0,3,Normal
-23.49553149005147,0.05768287813253196,False,Left Foot,Open Play,0,1,1,Normal
-25.12468905280223,0.06748174798462225,False,Left Foot,Open Play,0,0,2,Normal
-9.518928511129806,0.056301538513539764,False,Head,Open Play,0,0,5,Normal
-21.912553479683748,0.06660044006845547,False,Right Foot,Open Play,0,0,4,Normal
-23.860008382228205,0.06121849856916122,False,Right Foot,Free Kick,0,0,0,Normal
-8.802272433866152,0.05820873071597355,False,Head,Open Play,0,0,2,Diving Header
-11.33578404875463,0.058979962655783987,False,Right Foot,Open Play,1,1,7,Volley
-13.290974381135499,0.058774608412702635,False,Right Foot,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754303,Chung-Yong Lee,Crystal Palace,22.05107707119995,0.06674115161705223,False,Right Foot,Open Play,0,0,2,Half Volley
+3754303,Yohan Cabaye,Crystal Palace,24.39057194901341,0.06610622068613937,False,Right Foot,Open Play,1,0,0,Volley
+3754303,Alberto Paloschi,Swansea City,13.346160496562293,0.05698788823679741,False,Right Foot,Open Play,1,1,4,Normal
+3754303,Gylfi Þór Sigurðsson,Swansea City,23.748894711122873,0.06759354969264977,True,Right Foot,Free Kick,0,0,0,Normal
+3754303,André Ayew Pelé,Swansea City,10.852188719332158,0.057834559592790796,False,Right Foot,Open Play,1,1,5,Half Volley
+3754303,Emmanuel Adebayor,Crystal Palace,8.591274643497322,0.058904165552040554,False,Head,Open Play,0,1,2,Normal
+3754303,André Ayew Pelé,Swansea City,4.751841748206692,0.053796846993885546,False,Left Foot,Open Play,1,0,3,Half Volley
+3754303,Wayne Routledge,Swansea City,15.489673979784085,0.05491563975145841,False,Right Foot,Open Play,1,0,2,Normal
+3754303,Emmanuel Adebayor,Crystal Palace,16.368261972488092,0.05776041912682419,False,Right Foot,Open Play,0,0,2,Normal
+3754303,Yohan Cabaye,Crystal Palace,26.932879534130766,0.06989794351110476,False,Right Foot,Open Play,0,0,1,Normal
+3754303,Scott Dann,Crystal Palace,16.896153408394472,0.06323314188776799,False,Head,Open Play,0,1,2,Normal
+3754303,Jordon Mutch,Crystal Palace,11.043550153822817,0.060397268023240545,False,Left Foot,Open Play,0,0,2,Normal
+3754303,Scott Dann,Crystal Palace,5.05371150739731,0.055872715951080926,True,Left Foot,Open Play,1,0,4,Volley
+3754303,Yohan Cabaye,Crystal Palace,21.545533179756774,0.06314768729645213,False,Right Foot,Open Play,1,0,2,Normal
+3754303,Emmanuel Adebayor,Crystal Palace,20.69033590834136,0.062072131563841795,False,Right Foot,Open Play,1,0,2,Normal
+3754303,Gylfi Þór Sigurðsson,Swansea City,26.828715958837833,0.05805766101373305,False,Right Foot,Free Kick,0,0,0,Normal
+3754303,Federico Fernández,Swansea City,8.84590300647707,0.058761399970932264,False,Head,Open Play,0,1,3,Normal
+3754303,Àngel Rangel Zaragoza,Swansea City,21.57243611648903,0.054416162699485564,False,Right Foot,Open Play,0,0,1,Volley
+3754303,André Ayew Pelé,Swansea City,29.00241369265669,0.07150756731508988,False,Left Foot,Open Play,0,0,2,Normal
+3754303,Federico Fernández,Swansea City,6.0835844697020525,0.0561481148829451,False,Head,Open Play,0,1,6,Normal
+3754303,Ashley Williams,Swansea City,4.38292140016222,0.0554806340692682,False,Right Foot,Open Play,1,0,5,Half Volley
+3754303,Modou Barrow,Swansea City,18.071247881648898,0.060292260540651746,False,Left Foot,Open Play,0,1,3,Normal
+3754303,André Ayew Pelé,Swansea City,20.177710474679724,0.06565895463794295,False,Left Foot,Open Play,0,0,3,Normal
+3754303,Modou Barrow,Swansea City,23.49553149005147,0.05768287813253196,False,Left Foot,Open Play,0,1,1,Normal
+3754303,Hiram Boateng,Crystal Palace,25.12468905280223,0.06748174798462225,False,Left Foot,Open Play,0,0,2,Normal
+3754303,Scott Dann,Crystal Palace,9.518928511129806,0.056301538513539764,False,Head,Open Play,0,0,5,Normal
+3754303,Gylfi Þór Sigurðsson,Swansea City,21.912553479683748,0.06660044006845547,False,Right Foot,Open Play,0,0,4,Normal
+3754303,Gylfi Þór Sigurðsson,Swansea City,23.860008382228205,0.06121849856916122,False,Right Foot,Free Kick,0,0,0,Normal
+3754303,Federico Fernández,Swansea City,8.802272433866152,0.05820873071597355,False,Head,Open Play,0,0,2,Diving Header
+3754303,Ashley Williams,Swansea City,11.33578404875463,0.058979962655783987,False,Right Foot,Open Play,1,1,7,Volley
+3754303,André Ayew Pelé,Swansea City,13.290974381135499,0.058774608412702635,False,Right Foot,Open Play,0,1,4,Normal

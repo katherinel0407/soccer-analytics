@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.62225595063791,0.05363403687816595,False,Right Foot,Open Play,0,1,2,Normal
-28.146935890075135,0.07112616853879591,False,Right Foot,Open Play,1,0,1,Normal
-32.60981447355994,0.06875771641272123,False,Right Foot,Open Play,0,1,1,Normal
-14.30034964607509,0.060528905763035726,False,Head,Open Play,0,0,3,Normal
-29.25354679350865,0.07208967938350166,False,Right Foot,Free Kick,0,0,0,Normal
-32.70015290484129,0.06934976559122162,False,Right Foot,Free Kick,0,0,0,Normal
-12.014990636700473,0.059806055846004215,False,Head,Open Play,0,0,3,Normal
-5.124451190127577,0.056657598217138484,False,Head,Open Play,0,0,2,Normal
-31.907679326456826,0.06928658000934443,False,Right Foot,Open Play,0,0,1,Normal
-9.980981915623328,0.056984983769414,True,Right Foot,Open Play,1,0,1,Volley
-9.211405973031475,0.05941264662776927,False,Head,Open Play,0,0,5,Normal
-32.20093166354043,0.05680798603018545,False,Right Foot,Open Play,0,0,0,Normal
-5.457105459856898,0.056801538244734044,False,Head,Open Play,0,0,3,Normal
-5.883026432033091,0.055804236118086284,False,Head,Open Play,0,1,6,Normal
-11.727318534089536,0.05966669295930865,False,Right Foot,Open Play,0,1,2,Normal
-24.30740627874558,0.06218345763937324,False,Right Foot,Open Play,1,0,1,Normal
-15.412008305214473,0.062382902550757936,False,Right Foot,Open Play,0,1,2,Normal
-13.82461572702837,0.05889570795363294,False,Head,Open Play,0,0,1,Normal
-14.855302083767938,0.06224737807678637,True,Right Foot,Open Play,0,0,0,Normal
-27.118443908159623,0.06593913229890308,False,Right Foot,Free Kick,0,0,0,Normal
-8.736704184073073,0.05436828215049495,False,Head,Open Play,0,1,4,Normal
-13.482581355215329,0.05573588765462089,False,Head,Open Play,0,0,2,Normal
-8.987213138676525,0.05916538291938767,False,Left Foot,Open Play,1,0,1,Half Volley
-10.822661410207745,0.06027683537102448,False,Head,Open Play,0,0,2,Normal
-24.196900627972994,0.06835216625583312,False,Left Foot,Open Play,1,0,1,Normal
-23.559499145779814,0.0605450796972011,False,Left Foot,Open Play,0,0,3,Normal
-18.467809832245944,0.06428344074001319,False,Left Foot,Open Play,0,0,1,Normal
-14.738385257551117,0.06217232844575403,False,Head,Open Play,0,0,5,Normal
-8.657944328765339,0.05852437726973807,True,Right Foot,Open Play,1,0,4,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829457,Kévin Bérigaud,Montpellier,25.62225595063791,0.05363403687816595,False,Right Foot,Open Play,0,1,2,Normal
+3829457,Kévin Bérigaud,Montpellier,28.146935890075135,0.07112616853879591,False,Right Foot,Open Play,1,0,1,Normal
+3829457,Romain Hamouma,Saint-Étienne,32.60981447355994,0.06875771641272123,False,Right Foot,Open Play,0,1,1,Normal
+3829457,Ramy Bensebaini,Montpellier,14.30034964607509,0.060528905763035726,False,Head,Open Play,0,0,3,Normal
+3829457,Quentin Cornette,Montpellier,29.25354679350865,0.07208967938350166,False,Right Foot,Free Kick,0,0,0,Normal
+3829457,Quentin Cornette,Montpellier,32.70015290484129,0.06934976559122162,False,Right Foot,Free Kick,0,0,0,Normal
+3829457,Vitorino Hilton da Silva,Montpellier,12.014990636700473,0.059806055846004215,False,Head,Open Play,0,0,3,Normal
+3829457,Kévin Monnet-Paquet,Saint-Étienne,5.124451190127577,0.056657598217138484,False,Head,Open Play,0,0,2,Normal
+3829457,Vincent Pajot,Saint-Étienne,31.907679326456826,0.06928658000934443,False,Right Foot,Open Play,0,0,1,Normal
+3829457,Moustapha Bayal Sall,Saint-Étienne,9.980981915623328,0.056984983769414,True,Right Foot,Open Play,1,0,1,Volley
+3829457,Bryan Dabo,Montpellier,9.211405973031475,0.05941264662776927,False,Head,Open Play,0,0,5,Normal
+3829457,Mathieu Deplagne,Montpellier,32.20093166354043,0.05680798603018545,False,Right Foot,Open Play,0,0,0,Normal
+3829457,Moustapha Bayal Sall,Saint-Étienne,5.457105459856898,0.056801538244734044,False,Head,Open Play,0,0,3,Normal
+3829457,Daniel Congré,Montpellier,5.883026432033091,0.055804236118086284,False,Head,Open Play,0,1,6,Normal
+3829457,Nolan Roux,Saint-Étienne,11.727318534089536,0.05966669295930865,False,Right Foot,Open Play,0,1,2,Normal
+3829457,Vincent Pajot,Saint-Étienne,24.30740627874558,0.06218345763937324,False,Right Foot,Open Play,1,0,1,Normal
+3829457,Romain Hamouma,Saint-Étienne,15.412008305214473,0.062382902550757936,False,Right Foot,Open Play,0,1,2,Normal
+3829457,Ryad Boudebouz,Montpellier,13.82461572702837,0.05889570795363294,False,Head,Open Play,0,0,1,Normal
+3829457,Nolan Roux,Saint-Étienne,14.855302083767938,0.06224737807678637,True,Right Foot,Open Play,0,0,0,Normal
+3829457,Valentin Eysseric,Saint-Étienne,27.118443908159623,0.06593913229890308,False,Right Foot,Free Kick,0,0,0,Normal
+3829457,Bryan Dabo,Montpellier,8.736704184073073,0.05436828215049495,False,Head,Open Play,0,1,4,Normal
+3829457,Mustapha Yatabaré,Montpellier,13.482581355215329,0.05573588765462089,False,Head,Open Play,0,0,2,Normal
+3829457,Joris Marveaux,Montpellier,8.987213138676525,0.05916538291938767,False,Left Foot,Open Play,1,0,1,Half Volley
+3829457,Nolan Roux,Saint-Étienne,10.822661410207745,0.06027683537102448,False,Head,Open Play,0,0,2,Normal
+3829457,Ryad Boudebouz,Montpellier,24.196900627972994,0.06835216625583312,False,Left Foot,Open Play,1,0,1,Normal
+3829457,Jonathan Bamba,Saint-Étienne,23.559499145779814,0.0605450796972011,False,Left Foot,Open Play,0,0,3,Normal
+3829457,Ryad Boudebouz,Montpellier,18.467809832245944,0.06428344074001319,False,Left Foot,Open Play,0,0,1,Normal
+3829457,Vitorino Hilton da Silva,Montpellier,14.738385257551117,0.06217232844575403,False,Head,Open Play,0,0,5,Normal
+3829457,Joris Marveaux,Montpellier,8.657944328765339,0.05852437726973807,True,Right Foot,Open Play,1,0,4,Half Volley

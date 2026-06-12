@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.57901609482466,0.06789181632837987,False,Right Foot,Open Play,0,1,2,Normal
-9.019977827023745,0.05855650783297585,False,Head,Open Play,0,1,3,Normal
-9.302150289046073,0.0585453965690193,False,Head,Open Play,0,1,2,Normal
-33.64817974274388,0.06864525640947927,False,Right Foot,Free Kick,0,0,0,Normal
-15.673225577397902,0.05925170848430182,False,Right Foot,Open Play,1,1,1,Half Volley
-26.380485211610498,0.056219754765581505,False,Right Foot,Open Play,1,0,2,Normal
-33.13683750752325,0.06459377743366296,False,Right Foot,Open Play,0,0,1,Normal
-16.420109622045764,0.05540780457604851,False,Head,Open Play,0,0,1,Normal
-10.076705810928493,0.05984299103790408,False,Head,Open Play,0,1,2,Normal
-20.145719148245867,0.06522483326433326,False,Right Foot,Open Play,1,0,0,Half Volley
-8.421401308570927,0.05791525793844267,True,Head,Open Play,0,0,5,Normal
-10.581587782558914,0.05953151790318846,False,Right Foot,Open Play,1,0,1,Half Volley
-13.42385935563987,0.06161435719965095,False,Head,Open Play,0,1,4,Normal
-34.79683893689196,0.06045999881264369,False,Right Foot,Open Play,0,0,0,Normal
-8.026207074328452,0.05878557510196689,False,Head,Open Play,0,0,4,Normal
-28.778464170278447,0.06186412809433545,False,Right Foot,Open Play,1,0,1,Half Volley
-25.369272752682523,0.06214721265071266,False,Left Foot,Free Kick,0,0,1,Normal
-19.6847656831368,0.059043653216599774,False,Right Foot,Open Play,1,0,2,Normal
-24.4695729427385,0.0678362091916733,False,Right Foot,Open Play,1,0,1,Normal
-11.981652640600128,0.060914544694421584,False,Right Foot,Open Play,0,0,2,Backheel
-29.15956103922005,0.07121560983676872,False,Right Foot,Free Kick,0,0,0,Normal
-21.734994824015953,0.05987008368591019,False,Right Foot,Open Play,1,0,1,Half Volley
-12.70039369468522,0.05984922987712665,False,Right Foot,Open Play,1,0,5,Normal
-5.189412298131653,0.057314637438363875,False,Head,Open Play,0,1,3,Normal
-11.868024266911492,0.05290441583539588,False,Right Foot,Open Play,1,1,1,Normal
-26.941789101691082,0.06558251885823278,False,Right Foot,Open Play,1,0,0,Half Volley
-12.6241831418908,0.06089647905919386,False,Head,Open Play,0,0,0,Normal
-8.591274643497322,0.058904165552040554,False,Right Foot,Open Play,0,0,2,Normal
-35.16503945682416,0.07385315281096307,False,Left Foot,Open Play,1,0,1,Volley
-11.140017953306904,0.05992588961792516,False,Head,Open Play,0,1,3,Normal
-28.001785657346925,0.05379563755715896,False,Left Foot,Open Play,0,1,2,Normal
-21.255117030964563,0.06038884986042106,False,Right Foot,Open Play,1,0,2,Half Volley
-21.280977421161836,0.059505261108810555,False,Right Foot,Open Play,0,0,1,Normal
-15.532224567009067,0.053546597480817804,False,Right Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890393,Haris Seferović,Eintracht Frankfurt,23.57901609482466,0.06789181632837987,False,Right Foot,Open Play,0,1,2,Normal
+3890393,David Ángel Abraham,Eintracht Frankfurt,9.019977827023745,0.05855650783297585,False,Head,Open Play,0,1,3,Normal
+3890393,Sandro Wagner,Darmstadt 98,9.302150289046073,0.0585453965690193,False,Head,Open Play,0,1,2,Normal
+3890393,Tobias Kempe,Darmstadt 98,33.64817974274388,0.06864525640947927,False,Right Foot,Free Kick,0,0,0,Normal
+3890393,Sandro Wagner,Darmstadt 98,15.673225577397902,0.05925170848430182,False,Right Foot,Open Play,1,1,1,Half Volley
+3890393,Marc Stendera,Eintracht Frankfurt,26.380485211610498,0.056219754765581505,False,Right Foot,Open Play,1,0,2,Normal
+3890393,Stefan Reinartz,Eintracht Frankfurt,33.13683750752325,0.06459377743366296,False,Right Foot,Open Play,0,0,1,Normal
+3890393,Jan Rosenthal,Darmstadt 98,16.420109622045764,0.05540780457604851,False,Head,Open Play,0,0,1,Normal
+3890393,Stefan Aigner,Eintracht Frankfurt,10.076705810928493,0.05984299103790408,False,Head,Open Play,0,1,2,Normal
+3890393,Tobias Kempe,Darmstadt 98,20.145719148245867,0.06522483326433326,False,Right Foot,Open Play,1,0,0,Half Volley
+3890393,Aytac Sulu,Darmstadt 98,8.421401308570927,0.05791525793844267,True,Head,Open Play,0,0,5,Normal
+3890393,Marc Stendera,Eintracht Frankfurt,10.581587782558914,0.05953151790318846,False,Right Foot,Open Play,1,0,1,Half Volley
+3890393,Aytac Sulu,Darmstadt 98,13.42385935563987,0.06161435719965095,False,Head,Open Play,0,1,4,Normal
+3890393,Florian Jungwirth,Darmstadt 98,34.79683893689196,0.06045999881264369,False,Right Foot,Open Play,0,0,0,Normal
+3890393,Luca Caldirola,Darmstadt 98,8.026207074328452,0.05878557510196689,False,Head,Open Play,0,0,4,Normal
+3890393,Marcel Heller,Darmstadt 98,28.778464170278447,0.06186412809433545,False,Right Foot,Open Play,1,0,1,Half Volley
+3890393,Bastian Oczipka,Eintracht Frankfurt,25.369272752682523,0.06214721265071266,False,Left Foot,Free Kick,0,0,1,Normal
+3890393,Stefan Aigner,Eintracht Frankfurt,19.6847656831368,0.059043653216599774,False,Right Foot,Open Play,1,0,2,Normal
+3890393,Marc Stendera,Eintracht Frankfurt,24.4695729427385,0.0678362091916733,False,Right Foot,Open Play,1,0,1,Normal
+3890393,Marco Russ,Eintracht Frankfurt,11.981652640600128,0.060914544694421584,False,Right Foot,Open Play,0,0,2,Backheel
+3890393,Tobias Kempe,Darmstadt 98,29.15956103922005,0.07121560983676872,False,Right Foot,Free Kick,0,0,0,Normal
+3890393,Stefan Reinartz,Eintracht Frankfurt,21.734994824015953,0.05987008368591019,False,Right Foot,Open Play,1,0,1,Half Volley
+3890393,Aytac Sulu,Darmstadt 98,12.70039369468522,0.05984922987712665,False,Right Foot,Open Play,1,0,5,Normal
+3890393,Sandro Wagner,Darmstadt 98,5.189412298131653,0.057314637438363875,False,Head,Open Play,0,1,3,Normal
+3890393,Stefan Aigner,Eintracht Frankfurt,11.868024266911492,0.05290441583539588,False,Right Foot,Open Play,1,1,1,Normal
+3890393,Florian Jungwirth,Darmstadt 98,26.941789101691082,0.06558251885823278,False,Right Foot,Open Play,1,0,0,Half Volley
+3890393,Luca Caldirola,Darmstadt 98,12.6241831418908,0.06089647905919386,False,Head,Open Play,0,0,0,Normal
+3890393,Marcel Heller,Darmstadt 98,8.591274643497322,0.058904165552040554,False,Right Foot,Open Play,0,0,2,Normal
+3890393,Júnior Enrique Díaz Campbell,Darmstadt 98,35.16503945682416,0.07385315281096307,False,Left Foot,Open Play,1,0,1,Volley
+3890393,Sandro Wagner,Darmstadt 98,11.140017953306904,0.05992588961792516,False,Head,Open Play,0,1,3,Normal
+3890393,Haris Seferović,Eintracht Frankfurt,28.001785657346925,0.05379563755715896,False,Left Foot,Open Play,0,1,2,Normal
+3890393,Marco Russ,Eintracht Frankfurt,21.255117030964563,0.06038884986042106,False,Right Foot,Open Play,1,0,2,Half Volley
+3890393,Marco Sailer,Darmstadt 98,21.280977421161836,0.059505261108810555,False,Right Foot,Open Play,0,0,1,Normal
+3890393,Václav Kadlec,Eintracht Frankfurt,15.532224567009067,0.053546597480817804,False,Right Foot,Open Play,1,1,1,Normal

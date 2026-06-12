@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.317103251970684,0.05751297494751139,False,Head,Open Play,0,1,4,Normal
-15.970284906663377,0.0627888302125466,True,Right Foot,Open Play,1,0,1,Normal
-30.815742729974886,0.06562851866166047,False,Left Foot,Open Play,0,0,1,Normal
-10.900000000000006,0.059133843329375116,True,Right Foot,Open Play,1,0,2,Overhead Kick
-13.737903770226376,0.06189685211377932,False,Right Foot,Open Play,0,0,1,Normal
-12.856126943990555,0.06036334429777956,False,Head,Open Play,0,0,1,Normal
-9.377099764852671,0.05774619808038464,True,Head,Open Play,0,0,1,Normal
-19.757024067404483,0.06465947937014614,False,Right Foot,Open Play,0,0,1,Half Volley
-9.53519795284818,0.05797221615511347,True,Head,Open Play,0,0,3,Normal
-26.341791890454225,0.06931426702898616,False,Right Foot,Open Play,0,0,2,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-13.1137332594498,0.05983307433013013,True,Left Foot,Open Play,1,0,1,Half Volley
-22.04109797628059,0.06029524949515823,False,Right Foot,Open Play,1,0,0,Normal
-10.877959367454906,0.058634910343534935,False,Head,Open Play,0,1,4,Normal
-27.15529414313165,0.06489149088516953,False,Right Foot,Open Play,0,0,0,Volley
-17.410341754256297,0.062164879484941475,False,Head,Open Play,0,1,3,Normal
-22.398660674245686,0.061781471457284964,False,Right Foot,Open Play,1,0,1,Normal
-17.552492700468502,0.06038399939309029,False,Right Foot,Open Play,0,0,2,Lob
-24.158021442162852,0.05364213359228373,False,Right Foot,Open Play,1,0,2,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825747,Eneko Bóveda Altube,Athletic Club,7.317103251970684,0.05751297494751139,False,Head,Open Play,0,1,4,Normal
+3825747,Borja González Tomás,Eibar,15.970284906663377,0.0627888302125466,True,Right Foot,Open Play,1,0,1,Normal
+3825747,Adrián González Morales,Eibar,30.815742729974886,0.06562851866166047,False,Left Foot,Open Play,0,0,1,Normal
+3825747,Aritz Aduriz Zubeldia,Athletic Club,10.900000000000006,0.059133843329375116,True,Right Foot,Open Play,1,0,2,Overhead Kick
+3825747,Saúl Berjón Pérez,Eibar,13.737903770226376,0.06189685211377932,False,Right Foot,Open Play,0,0,1,Normal
+3825747,Mikel San José Domínguez,Athletic Club,12.856126943990555,0.06036334429777956,False,Head,Open Play,0,0,1,Normal
+3825747,Sabin Merino Zuloaga,Athletic Club,9.377099764852671,0.05774619808038464,True,Head,Open Play,0,0,1,Normal
+3825747,Borja González Tomás,Eibar,19.757024067404483,0.06465947937014614,False,Right Foot,Open Play,0,0,1,Half Volley
+3825747,Aymeric Laporte,Athletic Club,9.53519795284818,0.05797221615511347,True,Head,Open Play,0,0,3,Normal
+3825747,Iker Muniain Goñi,Athletic Club,26.341791890454225,0.06931426702898616,False,Right Foot,Open Play,0,0,2,Normal
+3825747,Borja González Tomás,Eibar,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+3825747,Aritz Aduriz Zubeldia,Athletic Club,13.1137332594498,0.05983307433013013,True,Left Foot,Open Play,1,0,1,Half Volley
+3825747,Daniel García Carrillo,Eibar,22.04109797628059,0.06029524949515823,False,Right Foot,Open Play,1,0,0,Normal
+3825747,Sergio Enrich Ametller,Eibar,10.877959367454906,0.058634910343534935,False,Head,Open Play,0,1,4,Normal
+3825747,Borja González Tomás,Eibar,27.15529414313165,0.06489149088516953,False,Right Foot,Open Play,0,0,0,Volley
+3825747,Aritz Aduriz Zubeldia,Athletic Club,17.410341754256297,0.062164879484941475,False,Head,Open Play,0,1,3,Normal
+3825747,Borja Viguera Manzanares,Athletic Club,22.398660674245686,0.061781471457284964,False,Right Foot,Open Play,1,0,1,Normal
+3825747,Aritz Aduriz Zubeldia,Athletic Club,17.552492700468502,0.06038399939309029,False,Right Foot,Open Play,0,0,2,Lob
+3825747,Sergio Gontán Gallardo,Eibar,24.158021442162852,0.05364213359228373,False,Right Foot,Open Play,1,0,2,Lob

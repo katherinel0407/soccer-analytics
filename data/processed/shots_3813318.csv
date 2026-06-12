@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.51065909225016,0.057624341390632015,False,Head,Open Play,0,0,3,Normal
-25.352711886502398,0.057986135341730444,False,Left Foot,Open Play,0,0,1,Normal
-19.601020381602584,0.06537377820543007,False,Left Foot,Open Play,0,0,3,Normal
-25.946483384073463,0.06942799106627716,False,Left Foot,Open Play,0,0,2,Normal
-27.1014759745664,0.07043594344266343,False,Right Foot,Open Play,0,0,2,Normal
-21.158922467838483,0.05814589707543709,False,Left Foot,Open Play,0,1,2,Normal
-14.766516176810294,0.060199036493860505,False,Right Foot,Open Play,1,0,1,Half Volley
-11.795338062132856,0.05271731872744547,False,Right Foot,Open Play,1,0,2,Half Volley
-7.099999999999994,0.05759528047093247,False,Head,Open Play,0,1,4,Normal
-16.380781422142235,0.0538356378610214,False,Right Foot,Open Play,0,0,2,Normal
-14.800337833982038,0.0623199626032936,False,Head,Open Play,0,0,2,Normal
-13.296616110875732,0.060681717133774286,False,Left Foot,Open Play,1,0,1,Volley
-18.970766985021985,0.05784070787890116,False,Right Foot,Open Play,1,0,2,Normal
-13.32253729587574,0.055992788702430095,True,Right Foot,Open Play,0,0,2,Half Volley
-8.319855767980592,0.05860889666629836,True,Left Foot,Open Play,1,0,3,Normal
-19.433990840792323,0.06514013316949882,False,Right Foot,Open Play,1,0,2,Volley
-20.74656598090392,0.05910794090278032,False,Right Foot,Open Play,0,0,2,Volley
-17.200290695217916,0.06313452205187163,True,Left Foot,Open Play,1,1,1,Normal
-12.625371281669297,0.06013324479524604,False,Left Foot,Open Play,1,1,2,Volley
-7.778174593052025,0.057473555072988396,True,Left Foot,Open Play,1,0,1,Normal
-10.016985574512923,0.05634160244587399,True,Right Foot,Open Play,0,0,2,Normal
-24.370679104202246,0.057546137286407194,False,Left Foot,Open Play,0,0,3,Normal
-29.87657945615596,0.0593804494142907,False,Right Foot,Open Play,0,0,1,Normal
-14.588008774332431,0.061255537459655486,False,Right Foot,Open Play,1,0,3,Volley
-18.204395073717773,0.06452380807295524,False,Left Foot,Open Play,0,0,1,Normal
-8.631338250816036,0.055077004893888656,False,Left Foot,Open Play,1,0,1,Backheel
-33.082321563034235,0.07446468557986961,False,Right Foot,Open Play,0,0,1,Normal
-13.64990842460124,0.061803015257656385,False,Head,Open Play,0,0,1,Normal
-18.701871564097537,0.06425851310382175,False,Left Foot,Open Play,1,0,0,Half Volley
-6.8007352543677255,0.05803302806588406,True,Right Foot,Open Play,0,0,2,Half Volley
-30.018827425467506,0.06235670029967645,False,Left Foot,Open Play,0,0,3,Normal
-18.52835664596297,0.0643300247125968,False,Left Foot,Open Play,0,0,1,Half Volley
-14.832734070291963,0.062219387605320156,False,Left Foot,Open Play,0,1,1,Normal
-11.292918134831224,0.06021794231124917,False,Left Foot,Open Play,1,1,1,Half Volley
-10.989540481749003,0.05863959903447786,False,Head,Open Play,0,0,4,Normal
-5.688585061331151,0.057313663442093425,False,Right Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813318,Ygor de Oliveira Ferreira,Mumbai City,7.51065909225016,0.057624341390632015,False,Head,Open Play,0,0,3,Normal
+3813318,Cássio Gabriel Vilela Ferreira,Mumbai City,25.352711886502398,0.057986135341730444,False,Left Foot,Open Play,0,0,1,Normal
+3813318,Bipin Singh Thounajam,Mumbai City,19.601020381602584,0.06537377820543007,False,Left Foot,Open Play,0,0,3,Normal
+3813318,Rahul Bheke,Mumbai City,25.946483384073463,0.06942799106627716,False,Left Foot,Open Play,0,0,2,Normal
+3813318,Cássio Gabriel Vilela Ferreira,Mumbai City,27.1014759745664,0.07043594344266343,False,Right Foot,Open Play,0,0,2,Normal
+3813318,Suhair Vadakkepeedika,NorthEast United,21.158922467838483,0.05814589707543709,False,Left Foot,Open Play,0,1,2,Normal
+3813318,Provat Lakra,NorthEast United,14.766516176810294,0.060199036493860505,False,Right Foot,Open Play,1,0,1,Half Volley
+3813318,Suhair Vadakkepeedika,NorthEast United,11.795338062132856,0.05271731872744547,False,Right Foot,Open Play,1,0,2,Half Volley
+3813318,Mathias Coureur,NorthEast United,7.099999999999994,0.05759528047093247,False,Head,Open Play,0,1,4,Normal
+3813318,Ygor de Oliveira Ferreira,Mumbai City,16.380781422142235,0.0538356378610214,False,Right Foot,Open Play,0,0,2,Normal
+3813318,Cássio Gabriel Vilela Ferreira,Mumbai City,14.800337833982038,0.0623199626032936,False,Head,Open Play,0,0,2,Normal
+3813318,Pragyan Sundar Gogoi,NorthEast United,13.296616110875732,0.060681717133774286,False,Left Foot,Open Play,1,0,1,Volley
+3813318,Provat Lakra,NorthEast United,18.970766985021985,0.05784070787890116,False,Right Foot,Open Play,1,0,2,Normal
+3813318,Deshorn Brown,NorthEast United,13.32253729587574,0.055992788702430095,True,Right Foot,Open Play,0,0,2,Half Volley
+3813318,Igor Angulo Albóniga,Mumbai City,8.319855767980592,0.05860889666629836,True,Left Foot,Open Play,1,0,3,Normal
+3813318,Hernán Daniel Santana Trujillo,NorthEast United,19.433990840792323,0.06514013316949882,False,Right Foot,Open Play,1,0,2,Volley
+3813318,Mathias Coureur,NorthEast United,20.74656598090392,0.05910794090278032,False,Right Foot,Open Play,0,0,2,Volley
+3813318,Bipin Singh Thounajam,Mumbai City,17.200290695217916,0.06313452205187163,True,Left Foot,Open Play,1,1,1,Normal
+3813318,Hernán Daniel Santana Trujillo,NorthEast United,12.625371281669297,0.06013324479524604,False,Left Foot,Open Play,1,1,2,Volley
+3813318,Igor Angulo Albóniga,Mumbai City,7.778174593052025,0.057473555072988396,True,Left Foot,Open Play,1,0,1,Normal
+3813318,Deshorn Brown,NorthEast United,10.016985574512923,0.05634160244587399,True,Right Foot,Open Play,0,0,2,Normal
+3813318,Ygor de Oliveira Ferreira,Mumbai City,24.370679104202246,0.057546137286407194,False,Left Foot,Open Play,0,0,3,Normal
+3813318,Cássio Gabriel Vilela Ferreira,Mumbai City,29.87657945615596,0.0593804494142907,False,Right Foot,Open Play,0,0,1,Normal
+3813318,Rochharzela Rochharzela,NorthEast United,14.588008774332431,0.061255537459655486,False,Right Foot,Open Play,1,0,3,Volley
+3813318,Bipin Singh Thounajam,Mumbai City,18.204395073717773,0.06452380807295524,False,Left Foot,Open Play,0,0,1,Normal
+3813318,Igor Angulo Albóniga,Mumbai City,8.631338250816036,0.055077004893888656,False,Left Foot,Open Play,1,0,1,Backheel
+3813318,Lalengmawia Ralte,Mumbai City,33.082321563034235,0.07446468557986961,False,Right Foot,Open Play,0,0,1,Normal
+3813318,Cássio Gabriel Vilela Ferreira,Mumbai City,13.64990842460124,0.061803015257656385,False,Head,Open Play,0,0,1,Normal
+3813318,Imran Khan,NorthEast United,18.701871564097537,0.06425851310382175,False,Left Foot,Open Play,1,0,0,Half Volley
+3813318,Deshorn Brown,NorthEast United,6.8007352543677255,0.05803302806588406,True,Right Foot,Open Play,0,0,2,Half Volley
+3813318,Ygor de Oliveira Ferreira,Mumbai City,30.018827425467506,0.06235670029967645,False,Left Foot,Open Play,0,0,3,Normal
+3813318,Deshorn Brown,NorthEast United,18.52835664596297,0.0643300247125968,False,Left Foot,Open Play,0,0,1,Half Volley
+3813318,Mathias Coureur,NorthEast United,14.832734070291963,0.062219387605320156,False,Left Foot,Open Play,0,1,1,Normal
+3813318,Igor Angulo Albóniga,Mumbai City,11.292918134831224,0.06021794231124917,False,Left Foot,Open Play,1,1,1,Half Volley
+3813318,Igor Angulo Albóniga,Mumbai City,10.989540481749003,0.05863959903447786,False,Head,Open Play,0,0,4,Normal
+3813318,Rahul Bheke,Mumbai City,5.688585061331151,0.057313663442093425,False,Right Foot,Open Play,0,0,3,Half Volley

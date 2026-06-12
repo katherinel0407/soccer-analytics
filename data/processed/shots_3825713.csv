@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.38457387931777,0.054114657594199,False,Right Foot,Open Play,0,0,1,Normal
-32.72995569810629,0.07012512344747966,False,Right Foot,Open Play,0,0,2,Half Volley
-28.74665197896965,0.06874503251279113,False,Left Foot,Open Play,0,0,1,Normal
-23.973527066328806,0.05995859411129393,False,Left Foot,Free Kick,0,0,0,Normal
-32.439482116704646,0.0700806997659556,False,Right Foot,Open Play,0,0,1,Normal
-23.020860105565127,0.06764577452475186,False,Right Foot,Open Play,0,1,1,Normal
-15.623699945915506,0.058971483867509944,False,Right Foot,Open Play,0,0,2,Normal
-12.14578116055118,0.05933902725770007,False,Left Foot,Open Play,0,0,1,Normal
-30.39161068452937,0.07026382956604978,False,Right Foot,Open Play,0,1,1,Normal
-10.23962889952561,0.056378731573412236,False,Right Foot,Open Play,1,0,2,Half Volley
-10.756393447619889,0.05943148178515546,False,Head,Open Play,0,0,4,Normal
-22.823890991677995,0.059877880639233404,True,Left Foot,Free Kick,0,0,0,Normal
-16.70568765420927,0.057044225261296655,False,Right Foot,Open Play,1,0,2,Half Volley
-27.912004585840837,0.07014694015143974,False,Right Foot,Open Play,0,0,1,Normal
-29.235765767292634,0.06994880616971358,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825713,Jonathan dos Santos Ramírez,Villarreal,21.38457387931777,0.054114657594199,False,Right Foot,Open Play,0,0,1,Normal
+3825713,Roberto Soldado Rillo,Villarreal,32.72995569810629,0.07012512344747966,False,Right Foot,Open Play,0,0,2,Half Volley
+3825713,Bruno Soriano Llido,Villarreal,28.74665197896965,0.06874503251279113,False,Left Foot,Open Play,0,0,1,Normal
+3825713,Bruno Soriano Llido,Villarreal,23.973527066328806,0.05995859411129393,False,Left Foot,Free Kick,0,0,0,Normal
+3825713,Jonathan dos Santos Ramírez,Villarreal,32.439482116704646,0.0700806997659556,False,Right Foot,Open Play,0,0,1,Normal
+3825713,Denis Suárez Fernández,Villarreal,23.020860105565127,0.06764577452475186,False,Right Foot,Open Play,0,1,1,Normal
+3825713,André Filipe Tavares Gomes,Valencia,15.623699945915506,0.058971483867509944,False,Right Foot,Open Play,0,0,2,Normal
+3825713,André Filipe Tavares Gomes,Valencia,12.14578116055118,0.05933902725770007,False,Left Foot,Open Play,0,0,1,Normal
+3825713,Daniel Parejo Muñoz,Valencia,30.39161068452937,0.07026382956604978,False,Right Foot,Open Play,0,1,1,Normal
+3825713,Francisco Alcácer García,Valencia,10.23962889952561,0.056378731573412236,False,Right Foot,Open Play,1,0,2,Half Volley
+3825713,Aderllan Leandro de Jesus Santos,Valencia,10.756393447619889,0.05943148178515546,False,Head,Open Play,0,0,4,Normal
+3825713,Bruno Soriano Llido,Villarreal,22.823890991677995,0.059877880639233404,True,Left Foot,Free Kick,0,0,0,Normal
+3825713,Francisco Alcácer García,Valencia,16.70568765420927,0.057044225261296655,False,Right Foot,Open Play,1,0,2,Half Volley
+3825713,Denis Suárez Fernández,Villarreal,27.912004585840837,0.07014694015143974,False,Right Foot,Open Play,0,0,1,Normal
+3825713,Denis Suárez Fernández,Villarreal,29.235765767292634,0.06994880616971358,False,Right Foot,Open Play,1,0,1,Normal

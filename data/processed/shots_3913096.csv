@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.04495957273638,0.06898928231422093,False,Left Foot,Open Play,1,0,1,Normal
-7.951100552753684,0.058738835801848376,False,Head,Open Play,0,0,3,Normal
-10.376897416858279,0.05677422823957013,False,Head,Open Play,0,1,4,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-10.230347012687306,0.05570562818974639,False,Head,Open Play,0,1,4,Normal
-5.544366510251643,0.05752938765785914,True,Head,Open Play,0,0,5,Normal
-10.440306508910558,0.0559879522812235,False,Head,Open Play,0,1,4,Normal
-9.962429422585632,0.059814272707495834,False,Head,Open Play,0,1,3,Normal
-11.947384651043928,0.05692530491421725,False,Right Foot,Open Play,1,0,1,Volley
-7.523961722390671,0.0529232381865023,False,Right Foot,Open Play,1,0,2,Half Volley
-6.774215821775976,0.05596804985078428,False,Head,Open Play,0,0,6,Normal
-13.569450983735488,0.05702202047165867,False,Right Foot,Open Play,1,0,1,Normal
-10.660675400742669,0.056023414109378056,True,Left Foot,Open Play,1,0,3,Half Volley
-20.385534086699806,0.06458867650887846,False,Left Foot,Open Play,0,0,1,Normal
-11.985407794480757,0.06037647729186986,False,Head,Open Play,0,0,3,Normal
-22.69273011340856,0.06738983471324539,True,Left Foot,Open Play,1,0,0,Half Volley
-22.087100307645635,0.06550344915573089,False,Right Foot,Open Play,0,0,1,Normal
-16.178998732925347,0.06223593449507054,True,Left Foot,Open Play,1,1,2,Half Volley
-35.52421709200641,0.062064920227452414,False,Right Foot,Open Play,0,0,0,Normal
-7.470609078247899,0.05626195173347833,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913096,Riko Ueki,West Ham United LFC,25.04495957273638,0.06898928231422093,False,Left Foot,Open Play,1,0,1,Normal
+3913096,Riko Ueki,West Ham United LFC,7.951100552753684,0.058738835801848376,False,Head,Open Play,0,0,3,Normal
+3913096,Danielle Turner,Aston Villa W,10.376897416858279,0.05677422823957013,False,Head,Open Play,0,1,4,Normal
+3913096,Viviane Asseyi,West Ham United LFC,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3913096,Rachel Daly,Aston Villa W,10.230347012687306,0.05570562818974639,False,Head,Open Play,0,1,4,Normal
+3913096,Anna Patten,Aston Villa W,5.544366510251643,0.05752938765785914,True,Head,Open Play,0,0,5,Normal
+3913096,Rachel Daly,Aston Villa W,10.440306508910558,0.0559879522812235,False,Head,Open Play,0,1,4,Normal
+3913096,Riko Ueki,West Ham United LFC,9.962429422585632,0.059814272707495834,False,Head,Open Play,0,1,3,Normal
+3913096,Adriana Kristina Leon,Aston Villa W,11.947384651043928,0.05692530491421725,False,Right Foot,Open Play,1,0,1,Volley
+3913096,Adriana Kristina Leon,Aston Villa W,7.523961722390671,0.0529232381865023,False,Right Foot,Open Play,1,0,2,Half Volley
+3913096,Rachel Daly,Aston Villa W,6.774215821775976,0.05596804985078428,False,Head,Open Play,0,0,6,Normal
+3913096,Shannon Cooke,West Ham United LFC,13.569450983735488,0.05702202047165867,False,Right Foot,Open Play,1,0,1,Normal
+3913096,Adriana Kristina Leon,Aston Villa W,10.660675400742669,0.056023414109378056,True,Left Foot,Open Play,1,0,3,Half Volley
+3913096,Viviane Asseyi,West Ham United LFC,20.385534086699806,0.06458867650887846,False,Left Foot,Open Play,0,0,1,Normal
+3913096,Abbey-Leigh Stringer,West Ham United LFC,11.985407794480757,0.06037647729186986,False,Head,Open Play,0,0,3,Normal
+3913096,Lisa Evans,West Ham United LFC,22.69273011340856,0.06738983471324539,True,Left Foot,Open Play,1,0,0,Half Volley
+3913096,Ebony Salmon,Aston Villa W,22.087100307645635,0.06550344915573089,False,Right Foot,Open Play,0,0,1,Normal
+3913096,Rachel Daly,Aston Villa W,16.178998732925347,0.06223593449507054,True,Left Foot,Open Play,1,1,2,Half Volley
+3913096,Shannon Cooke,West Ham United LFC,35.52421709200641,0.062064920227452414,False,Right Foot,Open Play,0,0,0,Normal
+3913096,Riko Ueki,West Ham United LFC,7.470609078247899,0.05626195173347833,False,Head,Open Play,0,1,3,Normal

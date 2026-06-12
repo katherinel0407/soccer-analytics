@@ -1,42 +1,42 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.947864092356706,0.05979312968935068,False,Right Foot,Open Play,1,0,3,Normal
-19.16507239746304,0.06473769094309524,True,Left Foot,Open Play,0,1,1,Normal
-17.64001133786483,0.06419616157375274,False,Left Foot,Open Play,0,0,2,Normal
-17.306646122227146,0.05334707269982727,False,Right Foot,Open Play,1,0,0,Normal
-33.28242779606079,0.07515804924001257,False,Right Foot,Open Play,0,0,3,Normal
-28.7640400500347,0.07174674354979162,False,Right Foot,Open Play,0,0,0,Normal
-22.631835983852486,0.0672875967005034,False,Right Foot,Open Play,1,0,0,Normal
-18.287700784953802,0.05429910456505179,False,Right Foot,Open Play,1,0,0,Normal
-13.288340754210061,0.05334474543773384,False,Head,Open Play,0,0,1,Normal
-36.731457907357836,0.0642593469726621,False,Left Foot,Free Kick,0,0,0,Normal
-16.601807130550583,0.06171270990197934,False,Left Foot,Open Play,0,0,1,Normal
-8.926925562588721,0.052809137596015465,False,Left Foot,Open Play,0,1,2,Normal
-17.520559351801534,0.06323829349219835,False,Left Foot,Open Play,0,1,1,Normal
-27.816002588438188,0.07008777776580317,False,Right Foot,Open Play,0,0,2,Half Volley
-7.571657678474376,0.05592009377931385,False,Head,Open Play,0,0,3,Normal
-26.348624252510795,0.05704879435003095,False,Right Foot,Open Play,0,0,1,Normal
-31.719394697881604,0.07358288430617202,False,Left Foot,Open Play,0,0,1,Normal
-13.37946187258665,0.05816203070202357,False,Head,Open Play,0,1,1,Normal
-26.64751395533925,0.06757624064730729,False,Right Foot,Open Play,1,0,2,Half Volley
-12.816005617976293,0.061378403375874975,False,Left Foot,Open Play,1,0,3,Half Volley
-27.578614903580636,0.053787385207365555,True,Left Foot,Open Play,0,0,1,Normal
-24.042046501909944,0.054332322820235784,False,Right Foot,Open Play,0,0,1,Volley
-7.823042886243175,0.056029064718834454,True,Other,Open Play,0,0,1,Normal
-22.91571513176056,0.06330809083361968,False,Right Foot,Open Play,0,1,2,Normal
-11.941942890501524,0.06084492095249017,False,Head,Open Play,0,1,1,Normal
-17.68191166135608,0.060130694511110465,False,Left Foot,Open Play,1,0,3,Volley
-13.063307391315577,0.056509694802799694,False,Head,Open Play,0,0,2,Normal
-17.042300314218146,0.05641529945931544,False,Right Foot,Open Play,0,0,1,Normal
-12.998846102635422,0.05831335965874348,True,Left Foot,Open Play,1,0,2,Half Volley
-5.738466694161425,0.05761464936401309,True,Right Foot,Open Play,1,1,4,Normal
-23.879907872519112,0.05701846745239446,False,Right Foot,Open Play,0,1,2,Normal
-18.504323819042945,0.06456467000188935,False,Left Foot,Open Play,1,0,3,Half Volley
-16.415846003176327,0.06325192655265152,True,Right Foot,Open Play,1,1,1,Normal
-36.23285801589491,0.06772910737398449,False,Left Foot,Free Kick,0,0,0,Normal
-18.832153355365396,0.062159231855819966,False,Right Foot,Open Play,0,0,1,Half Volley
-19.657314160383148,0.06354987113449256,False,Left Foot,Open Play,1,1,2,Half Volley
-12.248265183282085,0.05849266070203816,False,Right Foot,Open Play,1,0,1,Volley
-7.907591289387689,0.05873054433107531,False,Head,Open Play,0,1,3,Normal
-6.407807737440316,0.05744670535909829,False,Head,Open Play,0,0,2,Normal
-12.342204017111367,0.060485071243339524,False,Right Foot,Open Play,0,1,2,Half Volley
-22.777181564012704,0.06010658727275546,True,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901148,Jimmy Briand,Guingamp,9.947864092356706,0.05979312968935068,False,Right Foot,Open Play,1,0,3,Normal
+3901148,Yannis Salibur,Guingamp,19.16507239746304,0.06473769094309524,True,Left Foot,Open Play,0,1,1,Normal
+3901148,Maxime Barthelmé,Lorient,17.64001133786483,0.06419616157375274,False,Left Foot,Open Play,0,0,2,Normal
+3901148,Jimmy Cabot,Lorient,17.306646122227146,0.05334707269982727,False,Right Foot,Open Play,1,0,0,Normal
+3901148,Benjamin Moukandjo Bilé,Lorient,33.28242779606079,0.07515804924001257,False,Right Foot,Open Play,0,0,3,Normal
+3901148,Abdul Majeed Waris,Lorient,28.7640400500347,0.07174674354979162,False,Right Foot,Open Play,0,0,0,Normal
+3901148,Nicolas Benezet,Guingamp,22.631835983852486,0.0672875967005034,False,Right Foot,Open Play,1,0,0,Normal
+3901148,Jimmy Cabot,Lorient,18.287700784953802,0.05429910456505179,False,Right Foot,Open Play,1,0,0,Normal
+3901148,Jimmy Cabot,Lorient,13.288340754210061,0.05334474543773384,False,Head,Open Play,0,0,1,Normal
+3901148,Yannis Salibur,Guingamp,36.731457907357836,0.0642593469726621,False,Left Foot,Free Kick,0,0,0,Normal
+3901148,Maxime Barthelmé,Lorient,16.601807130550583,0.06171270990197934,False,Left Foot,Open Play,0,0,1,Normal
+3901148,Pape Abdou Paye,Lorient,8.926925562588721,0.052809137596015465,False,Left Foot,Open Play,0,1,2,Normal
+3901148,Mevlüt Erdinç,Guingamp,17.520559351801534,0.06323829349219835,False,Left Foot,Open Play,0,1,1,Normal
+3901148,Jimmy Briand,Guingamp,27.816002588438188,0.07008777776580317,False,Right Foot,Open Play,0,0,2,Half Volley
+3901148,Benjamin Jeannot,Lorient,7.571657678474376,0.05592009377931385,False,Head,Open Play,0,0,3,Normal
+3901148,Yannis Salibur,Guingamp,26.348624252510795,0.05704879435003095,False,Right Foot,Open Play,0,0,1,Normal
+3901148,Benjamin Jeannot,Lorient,31.719394697881604,0.07358288430617202,False,Left Foot,Open Play,0,0,1,Normal
+3901148,Zargo Touré,Lorient,13.37946187258665,0.05816203070202357,False,Head,Open Play,0,1,1,Normal
+3901148,Didier Ndong Ibrahim,Lorient,26.64751395533925,0.06757624064730729,False,Right Foot,Open Play,1,0,2,Half Volley
+3901148,Abdul Majeed Waris,Lorient,12.816005617976293,0.061378403375874975,False,Left Foot,Open Play,1,0,3,Half Volley
+3901148,Yannis Salibur,Guingamp,27.578614903580636,0.053787385207365555,True,Left Foot,Open Play,0,0,1,Normal
+3901148,Jimmy Cabot,Lorient,24.042046501909944,0.054332322820235784,False,Right Foot,Open Play,0,0,1,Volley
+3901148,Abdul Majeed Waris,Lorient,7.823042886243175,0.056029064718834454,True,Other,Open Play,0,0,1,Normal
+3901148,Abdul Majeed Waris,Lorient,22.91571513176056,0.06330809083361968,False,Right Foot,Open Play,0,1,2,Normal
+3901148,Zargo Touré,Lorient,11.941942890501524,0.06084492095249017,False,Head,Open Play,0,1,1,Normal
+3901148,Maxime Barthelmé,Lorient,17.68191166135608,0.060130694511110465,False,Left Foot,Open Play,1,0,3,Volley
+3901148,Zargo Touré,Lorient,13.063307391315577,0.056509694802799694,False,Head,Open Play,0,0,2,Normal
+3901148,Benjamin Jeannot,Lorient,17.042300314218146,0.05641529945931544,False,Right Foot,Open Play,0,0,1,Normal
+3901148,Benjamin Jeannot,Lorient,12.998846102635422,0.05831335965874348,True,Left Foot,Open Play,1,0,2,Half Volley
+3901148,Abdul Majeed Waris,Lorient,5.738466694161425,0.05761464936401309,True,Right Foot,Open Play,1,1,4,Normal
+3901148,Yannis Salibur,Guingamp,23.879907872519112,0.05701846745239446,False,Right Foot,Open Play,0,1,2,Normal
+3901148,Maxime Barthelmé,Lorient,18.504323819042945,0.06456467000188935,False,Left Foot,Open Play,1,0,3,Half Volley
+3901148,Jimmy Briand,Guingamp,16.415846003176327,0.06325192655265152,True,Right Foot,Open Play,1,1,1,Normal
+3901148,Yannis Salibur,Guingamp,36.23285801589491,0.06772910737398449,False,Left Foot,Free Kick,0,0,0,Normal
+3901148,Nicolas Benezet,Guingamp,18.832153355365396,0.062159231855819966,False,Right Foot,Open Play,0,0,1,Half Volley
+3901148,Yannis Salibur,Guingamp,19.657314160383148,0.06354987113449256,False,Left Foot,Open Play,1,1,2,Half Volley
+3901148,Benjamin Jeannot,Lorient,12.248265183282085,0.05849266070203816,False,Right Foot,Open Play,1,0,1,Volley
+3901148,Lindsay Rose,Lorient,7.907591289387689,0.05873054433107531,False,Head,Open Play,0,1,3,Normal
+3901148,Abdul Majeed Waris,Lorient,6.407807737440316,0.05744670535909829,False,Head,Open Play,0,0,2,Normal
+3901148,Marcus Coco,Guingamp,12.342204017111367,0.060485071243339524,False,Right Foot,Open Play,0,1,2,Half Volley
+3901148,Raphaël Adelino José Guerreiro,Lorient,22.777181564012704,0.06010658727275546,True,Left Foot,Free Kick,0,0,0,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.742354978244656,0.06668659746102985,False,Right Foot,Open Play,0,1,3,Normal
-26.45184303597766,0.06903584887417694,False,Left Foot,Open Play,0,0,1,Normal
-15.700318468107582,0.06300424418643816,False,Left Foot,Open Play,1,0,1,Normal
-23.517227727774376,0.06429347421975093,False,Right Foot,Open Play,1,0,0,Normal
-34.100146627250744,0.05712222778217462,False,Right Foot,Open Play,0,0,2,Normal
-16.192899678562828,0.063043773386014,True,Left Foot,Open Play,0,0,2,Normal
-5.573149917237109,0.05668659987567637,False,Head,Open Play,0,0,4,Normal
-8.452810183601661,0.05754109273338578,False,Left Foot,Open Play,1,0,3,Volley
-27.300183149568802,0.05368472553439587,False,Left Foot,Open Play,0,0,2,Normal
-32.39027631867317,0.06337002102601419,False,Right Foot,Open Play,0,0,1,Normal
-21.396495040076072,0.0653323922903765,False,Right Foot,Open Play,0,0,2,Half Volley
-13.800362314084369,0.06178097797383127,True,Left Foot,Open Play,0,0,3,Lob
-14.28005602229907,0.05417088686851252,False,Right Foot,Open Play,1,0,1,Volley
-22.114474897677308,0.0636953193802962,True,Left Foot,Open Play,1,0,3,Normal
-24.176021178018523,0.06128721218235774,False,Left Foot,Open Play,0,0,1,Normal
-16.76573887426379,0.06345057534402776,False,Right Foot,Open Play,0,0,2,Normal
-33.79245477913672,0.06564858106268079,False,Left Foot,Free Kick,0,0,0,Normal
-25.994230129011324,0.06768816185377553,False,Right Foot,Free Kick,0,0,0,Normal
-23.945354455509733,0.06827872945737087,False,Left Foot,Free Kick,0,0,0,Normal
-30.4277833566627,0.07289780589069995,False,Right Foot,Open Play,0,0,1,Normal
-27.237107041681206,0.07052021363639407,False,Right Foot,Free Kick,0,0,0,Normal
-13.515176654413365,0.0617703663817951,True,Right Foot,Open Play,0,0,2,Normal
-14.221462653327892,0.06189069376919511,True,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70275,Pedro Eliezer Rodríguez Ledesma,Barcelona,21.742354978244656,0.06668659746102985,False,Right Foot,Open Play,0,1,3,Normal
+70275,Álvaro Negredo Sánchez,Sevilla,26.45184303597766,0.06903584887417694,False,Left Foot,Open Play,0,0,1,Normal
+70275,Lionel Andrés Messi Cuccittini,Barcelona,15.700318468107582,0.06300424418643816,False,Left Foot,Open Play,1,0,1,Normal
+70275,Ivan Rakitić,Sevilla,23.517227727774376,0.06429347421975093,False,Right Foot,Open Play,1,0,0,Normal
+70275,Gary Alexis Medel Soto,Sevilla,34.100146627250744,0.05712222778217462,False,Right Foot,Open Play,0,0,2,Normal
+70275,Piotr Trochowski,Sevilla,16.192899678562828,0.063043773386014,True,Left Foot,Open Play,0,0,2,Normal
+70275,Francesc Fàbregas i Soler,Barcelona,5.573149917237109,0.05668659987567637,False,Head,Open Play,0,0,4,Normal
+70275,Lionel Andrés Messi Cuccittini,Barcelona,8.452810183601661,0.05754109273338578,False,Left Foot,Open Play,1,0,3,Volley
+70275,Álvaro Negredo Sánchez,Sevilla,27.300183149568802,0.05368472553439587,False,Left Foot,Open Play,0,0,2,Normal
+70275,Gary Alexis Medel Soto,Sevilla,32.39027631867317,0.06337002102601419,False,Right Foot,Open Play,0,0,1,Normal
+70275,Francesc Fàbregas i Soler,Barcelona,21.396495040076072,0.0653323922903765,False,Right Foot,Open Play,0,0,2,Half Volley
+70275,Álvaro Negredo Sánchez,Sevilla,13.800362314084369,0.06178097797383127,True,Left Foot,Open Play,0,0,3,Lob
+70275,Pedro Eliezer Rodríguez Ledesma,Barcelona,14.28005602229907,0.05417088686851252,False,Right Foot,Open Play,1,0,1,Volley
+70275,Francesc Fàbregas i Soler,Barcelona,22.114474897677308,0.0636953193802962,True,Left Foot,Open Play,1,0,3,Normal
+70275,Lionel Andrés Messi Cuccittini,Barcelona,24.176021178018523,0.06128721218235774,False,Left Foot,Open Play,0,0,1,Normal
+70275,Alexis Alejandro Sánchez Sánchez,Barcelona,16.76573887426379,0.06345057534402776,False,Right Foot,Open Play,0,0,2,Normal
+70275,Lionel Andrés Messi Cuccittini,Barcelona,33.79245477913672,0.06564858106268079,False,Left Foot,Free Kick,0,0,0,Normal
+70275,Xavier Hernández Creus,Barcelona,25.994230129011324,0.06768816185377553,False,Right Foot,Free Kick,0,0,0,Normal
+70275,Lionel Andrés Messi Cuccittini,Barcelona,23.945354455509733,0.06827872945737087,False,Left Foot,Free Kick,0,0,0,Normal
+70275,Manuel del Moral Fernández,Sevilla,30.4277833566627,0.07289780589069995,False,Right Foot,Open Play,0,0,1,Normal
+70275,Xavier Hernández Creus,Barcelona,27.237107041681206,0.07052021363639407,False,Right Foot,Free Kick,0,0,0,Normal
+70275,Francesc Fàbregas i Soler,Barcelona,13.515176654413365,0.0617703663817951,True,Right Foot,Open Play,0,0,2,Normal
+70275,David Villa Sánchez,Barcelona,14.221462653327892,0.06189069376919511,True,Left Foot,Open Play,0,0,2,Normal

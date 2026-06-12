@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.12084653714864,0.054135785280389155,False,Right Foot,Open Play,0,0,2,Normal
-20.747288979526946,0.06614912673691832,False,Right Foot,Open Play,0,0,2,Normal
-23.910876186371752,0.06594830021047478,False,Left Foot,Open Play,0,0,3,Normal
-30.90064724241225,0.05565957249269647,False,Left Foot,Open Play,0,0,1,Normal
-16.268988905276196,0.0631599920512076,False,Right Foot,Open Play,0,0,1,Normal
-14.089002803605371,0.06205158332521483,False,Left Foot,Open Play,1,1,2,Normal
-21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,1,0,1,Normal
-14.006427096158395,0.056602202097301726,False,Right Foot,Open Play,0,0,1,Normal
-20.096019506359955,0.0657119347669266,False,Left Foot,Open Play,0,1,1,Half Volley
-19.936148073286375,0.06545084621056432,False,Right Foot,Open Play,0,1,2,Normal
-28.730819688968147,0.05434563011954816,False,Left Foot,Open Play,0,0,2,Normal
-8.709190547921203,0.05915262161616622,False,Head,Open Play,0,0,3,Normal
-5.331041174104741,0.057365292247414504,True,Head,Open Play,0,1,4,Normal
-6.2641839053463295,0.057717914734062216,False,Head,Open Play,0,0,2,Normal
-27.618110000505098,0.06722988206587198,False,Left Foot,Free Kick,0,0,0,Normal
-8.811923740024085,0.05776511351452403,False,Head,Open Play,0,1,4,Normal
-8.407734534343957,0.05649386028129938,False,Head,Open Play,0,0,4,Normal
-6.657326790837291,0.05809224093015776,False,Head,Open Play,0,1,5,Normal
-11.562439189029277,0.05895379856815326,False,Head,Open Play,0,1,5,Normal
-23.23101375317057,0.0651403943825458,False,Right Foot,Open Play,0,0,2,Normal
-14.27795503564849,0.05324351764865415,False,Right Foot,Open Play,0,0,2,Normal
-21.651789764358977,0.061632827569731805,False,Right Foot,Open Play,0,1,1,Normal
-11.981652640600121,0.05833785105495312,False,Right Foot,Open Play,1,0,4,Half Volley
-8.863972021616494,0.05370807088245587,False,Right Foot,Open Play,0,0,2,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825835,Borja Viguera Manzanares,Athletic Club,15.12084653714864,0.054135785280389155,False,Right Foot,Open Play,0,0,2,Normal
+3825835,Juan Pablo Añor Acosta,Málaga,20.747288979526946,0.06614912673691832,False,Right Foot,Open Play,0,0,2,Normal
+3825835,Gonzalo Castro Irizábal,Málaga,23.910876186371752,0.06594830021047478,False,Left Foot,Open Play,0,0,3,Normal
+3825835,Juan Pablo Añor Acosta,Málaga,30.90064724241225,0.05565957249269647,False,Left Foot,Open Play,0,0,1,Normal
+3825835,José Luis García del Pozo,Málaga,16.268988905276196,0.0631599920512076,False,Right Foot,Open Play,0,0,1,Normal
+3825835,Juan Pablo Añor Acosta,Málaga,14.089002803605371,0.06205158332521483,False,Left Foot,Open Play,1,1,2,Normal
+3825835,Mikel Rico Moreno,Athletic Club,21.470910553583888,0.06658130687966891,False,Right Foot,Open Play,1,0,1,Normal
+3825835,Íñigo Lekue Martínez,Athletic Club,14.006427096158395,0.056602202097301726,False,Right Foot,Open Play,0,0,1,Normal
+3825835,Federico Ricca Rostagnol,Málaga,20.096019506359955,0.0657119347669266,False,Left Foot,Open Play,0,1,1,Half Volley
+3825835,Gonzalo Castro Irizábal,Málaga,19.936148073286375,0.06545084621056432,False,Right Foot,Open Play,0,1,2,Normal
+3825835,Juan Pablo Añor Acosta,Málaga,28.730819688968147,0.05434563011954816,False,Left Foot,Open Play,0,0,2,Normal
+3825835,Raúl Albentosa Redal,Málaga,8.709190547921203,0.05915262161616622,False,Head,Open Play,0,0,3,Normal
+3825835,Raúl García Escudero,Athletic Club,5.331041174104741,0.057365292247414504,True,Head,Open Play,0,1,4,Normal
+3825835,Duje Čop,Málaga,6.2641839053463295,0.057717914734062216,False,Head,Open Play,0,0,2,Normal
+3825835,Juan Pablo Añor Acosta,Málaga,27.618110000505098,0.06722988206587198,False,Left Foot,Free Kick,0,0,0,Normal
+3825835,Raúl Albentosa Redal,Málaga,8.811923740024085,0.05776511351452403,False,Head,Open Play,0,1,4,Normal
+3825835,Ignacio Camacho Barnola,Málaga,8.407734534343957,0.05649386028129938,False,Head,Open Play,0,0,4,Normal
+3825835,Charles Días Barbosa de Oliveira,Málaga,6.657326790837291,0.05809224093015776,False,Head,Open Play,0,1,5,Normal
+3825835,Raúl Albentosa Redal,Málaga,11.562439189029277,0.05895379856815326,False,Head,Open Play,0,1,5,Normal
+3825835,Juan Pablo Añor Acosta,Málaga,23.23101375317057,0.0651403943825458,False,Right Foot,Open Play,0,0,2,Normal
+3825835,Borja Viguera Manzanares,Athletic Club,14.27795503564849,0.05324351764865415,False,Right Foot,Open Play,0,0,2,Normal
+3825835,Charles Días Barbosa de Oliveira,Málaga,21.651789764358977,0.061632827569731805,False,Right Foot,Open Play,0,1,1,Normal
+3825835,Charles Días Barbosa de Oliveira,Málaga,11.981652640600121,0.05833785105495312,False,Right Foot,Open Play,1,0,4,Half Volley
+3825835,Borja Viguera Manzanares,Athletic Club,8.863972021616494,0.05370807088245587,False,Right Foot,Open Play,0,0,2,Lob

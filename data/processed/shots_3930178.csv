@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.36264151881387,0.06096598891531935,False,Left Foot,Open Play,0,0,1,Normal
-18.64322933399683,0.06481237990796558,False,Head,Open Play,0,0,1,Normal
-6.942621983083909,0.05702629910206049,False,Head,Open Play,0,1,2,Normal
-14.34050208326054,0.06177428265837628,False,Right Foot,Open Play,0,0,2,Half Volley
-16.738578195294846,0.06242201769494846,False,Left Foot,Open Play,1,0,2,Normal
-9.350935782048769,0.05944616339417112,False,Head,Open Play,0,0,3,Normal
-24.74934342563455,0.056591574599767276,False,Right Foot,Open Play,0,0,2,Normal
-21.023082552280478,0.06622355227813455,False,Left Foot,Open Play,0,0,4,Normal
-18.603494295427403,0.06433304320683235,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-8.746427842267954,0.05793395450093394,False,Left Foot,Open Play,1,1,2,Volley
-6.801470429252776,0.0581443596438265,True,Left Foot,Open Play,1,0,2,Normal
-16.070469812671938,0.06318734579822081,False,Right Foot,Open Play,1,0,2,Normal
-6.484597134749387,0.05616277473243824,False,Head,Open Play,0,0,6,Normal
-14.283556979968262,0.06142268411205703,False,Left Foot,Open Play,0,0,1,Normal
-26.139625092950354,0.06367848042296588,False,Right Foot,Free Kick,0,0,0,Normal
-7.496665925596531,0.05846956046817395,False,Head,Open Play,0,1,4,Normal
-33.86871712952825,0.07489106703140656,False,Right Foot,Open Play,0,0,2,Normal
-20.483163818121454,0.06593787370254793,True,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930178,Luka Sučić,Croatia,30.36264151881387,0.06096598891531935,False,Left Foot,Open Play,0,0,1,Normal
+3930178,Lorenzo Pellegrini,Italy,18.64322933399683,0.06481237990796558,False,Head,Open Play,0,0,1,Normal
+3930178,Mateo Retegui,Italy,6.942621983083909,0.05702629910206049,False,Head,Open Play,0,1,2,Normal
+3930178,Mateo Retegui,Italy,14.34050208326054,0.06177428265837628,False,Right Foot,Open Play,0,0,2,Half Volley
+3930178,Mateo Retegui,Italy,16.738578195294846,0.06242201769494846,False,Left Foot,Open Play,1,0,2,Normal
+3930178,Alessandro Bastoni,Italy,9.350935782048769,0.05944616339417112,False,Head,Open Play,0,0,3,Normal
+3930178,Luka Modrić,Croatia,24.74934342563455,0.056591574599767276,False,Right Foot,Open Play,0,0,2,Normal
+3930178,Lorenzo Pellegrini,Italy,21.023082552280478,0.06622355227813455,False,Left Foot,Open Play,0,0,4,Normal
+3930178,Andrej Kramarić,Croatia,18.603494295427403,0.06433304320683235,False,Right Foot,Open Play,0,0,2,Normal
+3930178,Luka Modrić,Croatia,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3930178,Ante Budimir,Croatia,8.746427842267954,0.05793395450093394,False,Left Foot,Open Play,1,1,2,Volley
+3930178,Luka Modrić,Croatia,6.801470429252776,0.0581443596438265,True,Left Foot,Open Play,1,0,2,Normal
+3930178,Davide Frattesi,Italy,16.070469812671938,0.06318734579822081,False,Right Foot,Open Play,1,0,2,Normal
+3930178,Alessandro Bastoni,Italy,6.484597134749387,0.05616277473243824,False,Head,Open Play,0,0,6,Normal
+3930178,Matteo Darmian,Italy,14.283556979968262,0.06142268411205703,False,Left Foot,Open Play,0,0,1,Normal
+3930178,Giacomo Raspadori,Italy,26.139625092950354,0.06367848042296588,False,Right Foot,Free Kick,0,0,0,Normal
+3930178,Giovanni Di Lorenzo,Italy,7.496665925596531,0.05846956046817395,False,Head,Open Play,0,1,4,Normal
+3930178,Gianluca Scamacca,Italy,33.86871712952825,0.07489106703140656,False,Right Foot,Open Play,0,0,2,Normal
+3930178,Mattia Zaccagni,Italy,20.483163818121454,0.06593787370254793,True,Right Foot,Open Play,1,0,1,Normal

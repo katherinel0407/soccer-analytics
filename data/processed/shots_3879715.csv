@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.289911979223973,0.057536503438874884,False,Right Foot,Open Play,0,0,3,Normal
-26.890146894355187,0.06516916848888872,False,Right Foot,Open Play,0,0,0,Normal
-18.064883060789516,0.06344359319627628,False,Left Foot,Open Play,1,0,0,Half Volley
-10.508092119885507,0.05978037390966964,False,Head,Open Play,0,1,4,Normal
-26.102107194630864,0.05771941146308646,False,Right Foot,Open Play,0,0,1,Normal
-29.71363323459452,0.06825264811162754,False,Right Foot,Open Play,0,0,2,Normal
-18.024705268048073,0.06438518904745331,False,Left Foot,Open Play,0,1,2,Normal
-11.406138698087094,0.060517720048931266,False,Head,Open Play,0,0,4,Normal
-26.550517885721177,0.05478688180244649,False,Right Foot,Open Play,0,0,1,Normal
-28.06439024814187,0.06211006903800742,False,Right Foot,Open Play,0,0,1,Normal
-25.325086376950424,0.06909475336839399,False,Right Foot,Open Play,1,0,1,Normal
-32.150272160589864,0.0581689774180006,False,Right Foot,Open Play,1,1,1,Normal
-10.32327467424945,0.054634326727179654,False,Left Foot,Open Play,0,1,2,Half Volley
-19.764867821465444,0.05972252147774992,False,Right Foot,Free Kick,0,0,0,Normal
-16.73618833546038,0.05568380494194078,False,Right Foot,Open Play,0,1,3,Half Volley
-9.60468635614927,0.05927377632465321,False,Head,Open Play,0,1,5,Normal
-26.704681237565822,0.06782329988717442,False,Left Foot,Open Play,0,0,1,Normal
-24.10746772267879,0.06529478634094552,False,Left Foot,Open Play,0,0,3,Normal
-9.920181449953418,0.05773757026182644,False,Right Foot,Open Play,1,1,2,Half Volley
-7.881624198095207,0.0584619636926467,False,Other,Open Play,0,0,3,Normal
-33.374391380218455,0.0747963091537689,False,Right Foot,Open Play,0,0,1,Normal
-11.723907198540939,0.05849101007968751,False,Right Foot,Open Play,0,0,1,Lob
-31.928827100286668,0.06141146169472973,False,Right Foot,Open Play,0,1,1,Normal
-9.902019995940217,0.05463673925146017,False,Right Foot,Open Play,1,0,2,Half Volley
-36.49671218068827,0.0640168638135635,False,Left Foot,Open Play,0,0,1,Normal
-20.5526154053444,0.055913953513363965,False,Right Foot,Open Play,0,0,2,Normal
-9.5524865872714,0.05953244375565651,False,Left Foot,Open Play,0,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879715,Marco Benassi,Torino,23.289911979223973,0.057536503438874884,False,Right Foot,Open Play,0,0,3,Normal
+3879715,Artur Ioniţă,Hellas Verona,26.890146894355187,0.06516916848888872,False,Right Foot,Open Play,0,0,0,Normal
+3879715,Andrea Belotti,Torino,18.064883060789516,0.06344359319627628,False,Left Foot,Open Play,1,0,0,Half Volley
+3879715,Emiliano Moretti,Torino,10.508092119885507,0.05978037390966964,False,Head,Open Play,0,1,4,Normal
+3879715,Andrea Belotti,Torino,26.102107194630864,0.05771941146308646,False,Right Foot,Open Play,0,0,1,Normal
+3879715,Marco Benassi,Torino,29.71363323459452,0.06825264811162754,False,Right Foot,Open Play,0,0,2,Normal
+3879715,Marco Benassi,Torino,18.024705268048073,0.06438518904745331,False,Left Foot,Open Play,0,1,2,Normal
+3879715,Marco Benassi,Torino,11.406138698087094,0.060517720048931266,False,Head,Open Play,0,0,4,Normal
+3879715,Afriyie Acquah,Torino,26.550517885721177,0.05478688180244649,False,Right Foot,Open Play,0,0,1,Normal
+3879715,Juan Ignacio Gómez Taleb,Hellas Verona,28.06439024814187,0.06211006903800742,False,Right Foot,Open Play,0,0,1,Normal
+3879715,Boško Janković,Hellas Verona,25.325086376950424,0.06909475336839399,False,Right Foot,Open Play,1,0,1,Normal
+3879715,Eros Pisano,Hellas Verona,32.150272160589864,0.0581689774180006,False,Right Foot,Open Play,1,1,1,Normal
+3879715,Luca Toni,Hellas Verona,10.32327467424945,0.054634326727179654,False,Left Foot,Open Play,0,1,2,Half Volley
+3879715,Ciro Immobile,Torino,19.764867821465444,0.05972252147774992,False,Right Foot,Free Kick,0,0,0,Normal
+3879715,Giampaolo Pazzini,Hellas Verona,16.73618833546038,0.05568380494194078,False,Right Foot,Open Play,0,1,3,Half Volley
+3879715,Pontus Jansson,Torino,9.60468635614927,0.05927377632465321,False,Head,Open Play,0,1,5,Normal
+3879715,Artur Ioniţă,Hellas Verona,26.704681237565822,0.06782329988717442,False,Left Foot,Open Play,0,0,1,Normal
+3879715,Marco Benassi,Torino,24.10746772267879,0.06529478634094552,False,Left Foot,Open Play,0,0,3,Normal
+3879715,Luca Toni,Hellas Verona,9.920181449953418,0.05773757026182644,False,Right Foot,Open Play,1,1,2,Half Volley
+3879715,Luca Toni,Hellas Verona,7.881624198095207,0.0584619636926467,False,Other,Open Play,0,0,3,Normal
+3879715,Bruno da Silva Peres,Torino,33.374391380218455,0.0747963091537689,False,Right Foot,Open Play,0,0,1,Normal
+3879715,Ciro Immobile,Torino,11.723907198540939,0.05849101007968751,False,Right Foot,Open Play,0,0,1,Lob
+3879715,Daniele Baselli,Torino,31.928827100286668,0.06141146169472973,False,Right Foot,Open Play,0,1,1,Normal
+3879715,Ciro Immobile,Torino,9.902019995940217,0.05463673925146017,False,Right Foot,Open Play,1,0,2,Half Volley
+3879715,Mohamed Salim Fares,Hellas Verona,36.49671218068827,0.0640168638135635,False,Left Foot,Open Play,0,0,1,Normal
+3879715,Marco Benassi,Torino,20.5526154053444,0.055913953513363965,False,Right Foot,Open Play,0,0,2,Normal
+3879715,Josef Alexander Martínez Mencia,Torino,9.5524865872714,0.05953244375565651,False,Left Foot,Open Play,0,1,1,Half Volley

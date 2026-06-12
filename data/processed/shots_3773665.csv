@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-80.20280543721647,0.07950348957878783,False,Right Foot,Open Play,0,0,0,Normal
-20.011246837716033,0.061728222353689265,False,Left Foot,Open Play,0,0,3,Normal
-6.896375859826661,0.05802286302164468,False,Head,Open Play,0,0,4,Normal
-18.87988347421668,0.061392756144247954,False,Left Foot,Open Play,0,1,5,Normal
-11.772000679578642,0.0599771372526025,False,Right Foot,Open Play,1,0,2,Volley
-12.500399993600205,0.059765111387437356,False,Head,Open Play,0,1,2,Normal
-13.669308687713512,0.060917996196997386,True,Left Foot,Open Play,0,0,1,Normal
-12.840560735419615,0.0609268355445289,False,Left Foot,Open Play,0,0,1,Normal
-17.50114281982751,0.06188359999570776,False,Head,Open Play,0,1,2,Normal
-26.51867266663247,0.07008975844617589,False,Left Foot,Open Play,0,0,1,Normal
-21.12060605191054,0.06625276544358975,False,Left Foot,Open Play,0,0,3,Normal
-26.67601919327544,0.0618713259305911,False,Left Foot,Open Play,0,0,2,Normal
-24.20185943269649,0.06491000629953853,False,Right Foot,Open Play,0,0,2,Normal
-21.0304541082688,0.05725067807859945,False,Left Foot,Open Play,0,0,1,Normal
-14.176741515595184,0.054654315121825114,False,Right Foot,Open Play,0,0,1,Normal
-8.766413177577242,0.0587522775966609,False,Head,Open Play,0,1,2,Normal
-27.925973573001897,0.07006631128185005,False,Right Foot,Open Play,1,0,0,Normal
-10.42161215935423,0.05920628114650724,False,Left Foot,Open Play,1,0,2,Volley
-10.818964830333814,0.05517936734915163,False,Left Foot,Open Play,0,0,4,Normal
-18.339302058693505,0.06181919747036595,True,Left Foot,Open Play,0,0,4,Normal
-14.101418368376985,0.060556331282269,False,Left Foot,Open Play,0,0,2,Half Volley
-19.637973418863773,0.056759305959791444,False,Right Foot,Open Play,1,0,1,Half Volley
-7.596051605933175,0.05834112542134677,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773665,Jonathan Calleri,Osasuna,80.20280543721647,0.07950348957878783,False,Right Foot,Open Play,0,0,0,Normal
+3773665,Enrique Barja Afonso,Osasuna,20.011246837716033,0.061728222353689265,False,Left Foot,Open Play,0,0,3,Normal
+3773665,Jonathan Calleri,Osasuna,6.896375859826661,0.05802286302164468,False,Head,Open Play,0,0,4,Normal
+3773665,Lionel Andrés Messi Cuccittini,Barcelona,18.87988347421668,0.061392756144247954,False,Left Foot,Open Play,0,1,5,Normal
+3773665,Jonathan Calleri,Osasuna,11.772000679578642,0.0599771372526025,False,Right Foot,Open Play,1,0,2,Volley
+3773665,Antoine Griezmann,Barcelona,12.500399993600205,0.059765111387437356,False,Head,Open Play,0,1,2,Normal
+3773665,Jordi Alba Ramos,Barcelona,13.669308687713512,0.060917996196997386,True,Left Foot,Open Play,0,0,1,Normal
+3773665,Rubén García Santos,Osasuna,12.840560735419615,0.0609268355445289,False,Left Foot,Open Play,0,0,1,Normal
+3773665,Jonathan Calleri,Osasuna,17.50114281982751,0.06188359999570776,False,Head,Open Play,0,1,2,Normal
+3773665,Lionel Andrés Messi Cuccittini,Barcelona,26.51867266663247,0.07008975844617589,False,Left Foot,Open Play,0,0,1,Normal
+3773665,Lionel Andrés Messi Cuccittini,Barcelona,21.12060605191054,0.06625276544358975,False,Left Foot,Open Play,0,0,3,Normal
+3773665,Lionel Andrés Messi Cuccittini,Barcelona,26.67601919327544,0.0618713259305911,False,Left Foot,Open Play,0,0,2,Normal
+3773665,Ousmane Dembélé,Barcelona,24.20185943269649,0.06491000629953853,False,Right Foot,Open Play,0,0,2,Normal
+3773665,Sergino Dest,Barcelona,21.0304541082688,0.05725067807859945,False,Left Foot,Open Play,0,0,1,Normal
+3773665,Frenkie de Jong,Barcelona,14.176741515595184,0.054654315121825114,False,Right Foot,Open Play,0,0,1,Normal
+3773665,Jonathan Calleri,Osasuna,8.766413177577242,0.0587522775966609,False,Head,Open Play,0,1,2,Normal
+3773665,Pedro González López,Barcelona,27.925973573001897,0.07006631128185005,False,Right Foot,Open Play,1,0,0,Normal
+3773665,Jordi Alba Ramos,Barcelona,10.42161215935423,0.05920628114650724,False,Left Foot,Open Play,1,0,2,Volley
+3773665,Lionel Andrés Messi Cuccittini,Barcelona,10.818964830333814,0.05517936734915163,False,Left Foot,Open Play,0,0,4,Normal
+3773665,Moriba Kourouma Kourouma,Barcelona,18.339302058693505,0.06181919747036595,True,Left Foot,Open Play,0,0,4,Normal
+3773665,Ante Budimir,Osasuna,14.101418368376985,0.060556331282269,False,Left Foot,Open Play,0,0,2,Half Volley
+3773665,Adrián López Álvarez,Osasuna,19.637973418863773,0.056759305959791444,False,Right Foot,Open Play,1,0,1,Half Volley
+3773665,David García Zubiría,Osasuna,7.596051605933175,0.05834112542134677,False,Head,Open Play,0,1,3,Normal

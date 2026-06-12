@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.79846486059971,0.06653758714566581,False,Left Foot,Open Play,0,1,2,Normal
-20.497804760510327,0.0653921018571821,False,Left Foot,Open Play,1,1,0,Normal
-19.287560758167427,0.053776707755559795,False,Right Foot,Open Play,1,0,1,Normal
-20.52997808084558,0.055276244725347846,False,Right Foot,Open Play,0,0,2,Normal
-16.585535867134354,0.06254963121749668,False,Left Foot,Open Play,0,0,1,Normal
-36.051352263126,0.05712575659383806,False,Left Foot,Open Play,0,0,3,Half Volley
-10.824047302187841,0.056850042434882606,False,Head,Open Play,0,0,3,Normal
-20.371057900855316,0.06396655505448955,False,Left Foot,Open Play,0,0,1,Normal
-8.015609770940705,0.05443075699830621,False,Head,Open Play,0,0,2,Normal
-20.424739900424676,0.0565430723748863,False,Left Foot,Open Play,1,1,2,Normal
-10.989540481748993,0.057983951702607825,False,Head,Open Play,0,0,3,Normal
-15.990622251807467,0.06284800004705972,False,Left Foot,Open Play,0,0,1,Normal
-21.73660507070964,0.06144622577513031,False,Left Foot,Open Play,0,0,1,Normal
-3.18904374382039,0.05634450245861452,False,Head,Open Play,0,1,4,Normal
-8.741853350405732,0.05590610538564962,False,Head,Open Play,0,0,2,Normal
-27.788126960988215,0.07004149131401118,False,Right Foot,Open Play,0,1,3,Normal
-17.017637908946117,0.05209310804918399,False,Right Foot,Open Play,0,0,2,Normal
-25.42380773999049,0.06617500147067557,False,Left Foot,Open Play,0,1,2,Normal
-14.061649974309557,0.059325484650112066,True,Head,Open Play,0,0,3,Normal
-10.304368005850721,0.05898985585986925,False,Right Foot,Open Play,1,0,2,Half Volley
-10.404806581575647,0.05793206613078392,False,Head,Open Play,0,1,4,Normal
-4.404543109109054,0.05648080668898576,False,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829428,Jonathan Delaplace,Stade Malherbe Caen,22.79846486059971,0.06653758714566581,False,Left Foot,Open Play,0,1,2,Normal
+3829428,Jonathan Delaplace,Stade Malherbe Caen,20.497804760510327,0.0653921018571821,False,Left Foot,Open Play,1,1,0,Normal
+3829428,Martin Braithwaite Christensen,Toulouse,19.287560758167427,0.053776707755559795,False,Right Foot,Open Play,1,0,1,Normal
+3829428,Martin Braithwaite Christensen,Toulouse,20.52997808084558,0.055276244725347846,False,Right Foot,Open Play,0,0,2,Normal
+3829428,Martin Braithwaite Christensen,Toulouse,16.585535867134354,0.06254963121749668,False,Left Foot,Open Play,0,0,1,Normal
+3829428,Vincent Bessat,Stade Malherbe Caen,36.051352263126,0.05712575659383806,False,Left Foot,Open Play,0,0,3,Half Volley
+3829428,Martin Braithwaite Christensen,Toulouse,10.824047302187841,0.056850042434882606,False,Head,Open Play,0,0,3,Normal
+3829428,Jean-Armel Kana-Biyik,Toulouse,20.371057900855316,0.06396655505448955,False,Left Foot,Open Play,0,0,1,Normal
+3829428,Wissam Ben Yedder,Toulouse,8.015609770940705,0.05443075699830621,False,Head,Open Play,0,0,2,Normal
+3829428,Jonathan Delaplace,Stade Malherbe Caen,20.424739900424676,0.0565430723748863,False,Left Foot,Open Play,1,1,2,Normal
+3829428,Andy Delort,Stade Malherbe Caen,10.989540481748993,0.057983951702607825,False,Head,Open Play,0,0,3,Normal
+3829428,Wissam Ben Yedder,Toulouse,15.990622251807467,0.06284800004705972,False,Left Foot,Open Play,0,0,1,Normal
+3829428,Martin Braithwaite Christensen,Toulouse,21.73660507070964,0.06144622577513031,False,Left Foot,Open Play,0,0,1,Normal
+3829428,Andy Delort,Stade Malherbe Caen,3.18904374382039,0.05634450245861452,False,Head,Open Play,0,1,4,Normal
+3829428,Martin Braithwaite Christensen,Toulouse,8.741853350405732,0.05590610538564962,False,Head,Open Play,0,0,2,Normal
+3829428,Óscar Guido Trejo,Toulouse,27.788126960988215,0.07004149131401118,False,Right Foot,Open Play,0,1,3,Normal
+3829428,Martin Braithwaite Christensen,Toulouse,17.017637908946117,0.05209310804918399,False,Right Foot,Open Play,0,0,2,Normal
+3829428,Vincent Bessat,Stade Malherbe Caen,25.42380773999049,0.06617500147067557,False,Left Foot,Open Play,0,1,2,Normal
+3829428,Damien Da Silva,Stade Malherbe Caen,14.061649974309557,0.059325484650112066,True,Head,Open Play,0,0,3,Normal
+3829428,Alaeddine Yahia,Stade Malherbe Caen,10.304368005850721,0.05898985585986925,False,Right Foot,Open Play,1,0,2,Half Volley
+3829428,Uroš Spajić,Toulouse,10.404806581575647,0.05793206613078392,False,Head,Open Play,0,1,4,Normal
+3829428,Wissam Ben Yedder,Toulouse,4.404543109109054,0.05648080668898576,False,Head,Open Play,0,1,5,Normal

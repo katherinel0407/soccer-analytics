@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.790721916936707,0.0740413211595124,False,Right Foot,Open Play,0,0,1,Normal
-25.853626438084085,0.06957776870710095,False,Left Foot,Open Play,0,0,2,Normal
-15.020652449211385,0.0592876650716003,False,Left Foot,Open Play,1,0,1,Normal
-24.249536078036627,0.06835258814457239,False,Left Foot,Open Play,0,0,2,Normal
-15.368799562750498,0.06283675880123912,False,Head,Open Play,0,1,1,Normal
-12.159358535712311,0.05919842758667518,False,Right Foot,Open Play,1,0,1,Half Volley
-10.42161215935423,0.053570089781407204,True,Right Foot,Open Play,0,1,3,Normal
-19.588006534611935,0.0582130760528796,False,Right Foot,Open Play,1,0,1,Normal
-13.771347065556082,0.060828161801418965,True,Right Foot,Open Play,0,0,2,Half Volley
-11.783462988442746,0.060043243030858576,False,Head,Open Play,0,1,2,Normal
-24.748737341529164,0.054319605325685166,False,Right Foot,Open Play,1,0,2,Normal
-16.31931371106028,0.06104439781099372,False,Left Foot,Open Play,0,1,2,Normal
-33.104078298602424,0.06329578922867779,False,Right Foot,Open Play,0,0,1,Normal
-11.42803570172932,0.05641616611860279,False,Head,Open Play,0,1,1,Normal
-17.5285481429581,0.06351901313242338,False,Right Foot,Open Play,1,0,1,Volley
-25.560125195311546,0.06924577319161768,False,Right Foot,Open Play,0,0,1,Normal
-13.277424449041312,0.059004228829122866,False,Head,Open Play,0,0,2,Normal
-27.943156586184028,0.07086655480303691,True,Right Foot,Free Kick,0,0,0,Normal
-13.336041391657423,0.06164151848835557,False,Head,Open Play,0,1,5,Normal
-28.18013484708687,0.057081315596122506,False,Right Foot,Free Kick,0,0,0,Normal
-12.408464852672152,0.06101523285811931,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879815,Maximiliano Gastón López,Torino,31.790721916936707,0.0740413211595124,False,Right Foot,Open Play,0,0,1,Normal
+3879815,Alejandro Darío Gómez,Atalanta,25.853626438084085,0.06957776870710095,False,Left Foot,Open Play,0,0,2,Normal
+3879815,Mauricio Ricardo Pinilla Ferreira,Atalanta,15.020652449211385,0.0592876650716003,False,Left Foot,Open Play,1,0,1,Normal
+3879815,Boukary Dramé,Atalanta,24.249536078036627,0.06835258814457239,False,Left Foot,Open Play,0,0,2,Normal
+3879815,Mauricio Ricardo Pinilla Ferreira,Atalanta,15.368799562750498,0.06283675880123912,False,Head,Open Play,0,1,1,Normal
+3879815,Mauricio Ricardo Pinilla Ferreira,Atalanta,12.159358535712311,0.05919842758667518,False,Right Foot,Open Play,1,0,1,Half Volley
+3879815,Bruno da Silva Peres,Torino,10.42161215935423,0.053570089781407204,True,Right Foot,Open Play,0,1,3,Normal
+3879815,Andrea Belotti,Torino,19.588006534611935,0.0582130760528796,False,Right Foot,Open Play,1,0,1,Normal
+3879815,Maximiliano Gastón López,Torino,13.771347065556082,0.060828161801418965,True,Right Foot,Open Play,0,0,2,Half Volley
+3879815,Jasmin Kurtič,Atalanta,11.783462988442746,0.060043243030858576,False,Head,Open Play,0,1,2,Normal
+3879815,Jasmin Kurtič,Atalanta,24.748737341529164,0.054319605325685166,False,Right Foot,Open Play,1,0,2,Normal
+3879815,Alejandro Darío Gómez,Atalanta,16.31931371106028,0.06104439781099372,False,Left Foot,Open Play,0,1,2,Normal
+3879815,Luca Cigarini,Atalanta,33.104078298602424,0.06329578922867779,False,Right Foot,Open Play,0,0,1,Normal
+3879815,Jasmin Kurtič,Atalanta,11.42803570172932,0.05641616611860279,False,Head,Open Play,0,1,1,Normal
+3879815,Luca Cigarini,Atalanta,17.5285481429581,0.06351901313242338,False,Right Foot,Open Play,1,0,1,Volley
+3879815,Serge Gakpé,Atalanta,25.560125195311546,0.06924577319161768,False,Right Foot,Open Play,0,0,1,Normal
+3879815,Serge Gakpé,Atalanta,13.277424449041312,0.059004228829122866,False,Head,Open Play,0,0,2,Normal
+3879815,Luca Cigarini,Atalanta,27.943156586184028,0.07086655480303691,True,Right Foot,Free Kick,0,0,0,Normal
+3879815,Marten de Roon,Atalanta,13.336041391657423,0.06164151848835557,False,Head,Open Play,0,1,5,Normal
+3879815,Cesare Bovo,Torino,28.18013484708687,0.057081315596122506,False,Right Foot,Free Kick,0,0,0,Normal
+3879815,Mauricio Ricardo Pinilla Ferreira,Atalanta,12.408464852672152,0.06101523285811931,False,Head,Open Play,0,1,2,Normal

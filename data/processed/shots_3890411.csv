@@ -1,13 +1,13 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.312128781197414,0.05742339262011934,False,Head,Open Play,0,1,5,Normal
-11.67647206993619,0.06070854856198051,False,Right Foot,Open Play,1,1,3,Volley
-20.925821369781403,0.06512159079661216,True,Left Foot,Open Play,0,0,2,Normal
-10.378824596263302,0.05699061472671088,False,Head,Open Play,0,1,3,Normal
-3.324154027718929,0.05623847730874724,False,Other,Open Play,0,0,3,Normal
-17.015581094984675,0.06272237058617654,True,Right Foot,Open Play,0,1,3,Normal
-19.35355264544472,0.06477635067928318,False,Right Foot,Open Play,0,1,2,Normal
-8.709190547921203,0.056010248865498616,False,Head,Open Play,0,1,4,Normal
-12.107848694132256,0.05670419297981639,False,Head,Open Play,0,1,3,Normal
-14.560906565183362,0.05375675114965557,False,Right Foot,Open Play,1,1,1,Volley
-6.251399843235116,0.05698753787719568,False,Right Foot,Open Play,0,0,3,Backheel
-29.521856310198384,0.07111680388187783,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890411,John Anthony Brooks,Hertha Berlin,10.312128781197414,0.05742339262011934,False,Head,Open Play,0,1,5,Normal
+3890411,Vedad Ibišević,Hertha Berlin,11.67647206993619,0.06070854856198051,False,Right Foot,Open Play,1,1,3,Volley
+3890411,Vladimír Darida,Hertha Berlin,20.925821369781403,0.06512159079661216,True,Left Foot,Open Play,0,0,2,Normal
+3890411,John Anthony Brooks,Hertha Berlin,10.378824596263302,0.05699061472671088,False,Head,Open Play,0,1,3,Normal
+3890411,Sebastian Langkamp,Hertha Berlin,3.324154027718929,0.05623847730874724,False,Other,Open Play,0,0,3,Normal
+3890411,Salomon Armand Magloire Kalou,Hertha Berlin,17.015581094984675,0.06272237058617654,True,Right Foot,Open Play,0,1,3,Normal
+3890411,Jairo Samperio Bustara,FSV Mainz 05,19.35355264544472,0.06477635067928318,False,Right Foot,Open Play,0,1,2,Normal
+3890411,Niko Bungert,FSV Mainz 05,8.709190547921203,0.056010248865498616,False,Head,Open Play,0,1,4,Normal
+3890411,Niko Bungert,FSV Mainz 05,12.107848694132256,0.05670419297981639,False,Head,Open Play,0,1,3,Normal
+3890411,Pablo Ezequiel De Blasis,FSV Mainz 05,14.560906565183362,0.05375675114965557,False,Right Foot,Open Play,1,1,1,Volley
+3890411,Vedad Ibišević,Hertha Berlin,6.251399843235116,0.05698753787719568,False,Right Foot,Open Play,0,0,3,Backheel
+3890411,Pablo Ezequiel De Blasis,FSV Mainz 05,29.521856310198384,0.07111680388187783,False,Right Foot,Open Play,0,1,1,Normal

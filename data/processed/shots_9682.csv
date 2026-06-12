@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.473972903610143,0.06059645873166722,False,Right Foot,Open Play,1,0,1,Volley
-21.66033240742164,0.06667264153393596,False,Right Foot,Open Play,0,0,3,Normal
-16.747537132366652,0.0543270194382668,False,Right Foot,Open Play,1,0,1,Volley
-25.164459064323232,0.06774865169769825,False,Right Foot,Open Play,1,0,0,Normal
-5.056678751908212,0.05430649718361793,True,Left Foot,Open Play,1,0,2,Half Volley
-27.300000000000004,0.060144516657582865,False,Right Foot,Open Play,1,0,1,Half Volley
-19.524343778985255,0.06484941115067726,False,Right Foot,Open Play,1,0,2,Normal
-24.39200688750313,0.0640663804484798,False,Right Foot,Open Play,0,0,1,Normal
-13.159027319676785,0.06145539965734958,False,Right Foot,Open Play,1,0,3,Volley
-14.425324953012325,0.057081012373043666,False,Right Foot,Open Play,1,0,1,Half Volley
-25.083261350948764,0.05304550654661689,False,Right Foot,Open Play,0,0,2,Normal
-33.60907615511024,0.06005243246719062,False,Left Foot,Open Play,0,0,1,Normal
-11.232987136109433,0.059991213549653526,False,Left Foot,Open Play,1,0,1,Half Volley
-14.243595051811885,0.056005351462376236,True,Right Foot,Open Play,1,0,0,Half Volley
-27.38558014722347,0.05956770263469299,False,Right Foot,Open Play,0,0,2,Normal
-11.995415791042841,0.06089448564936568,False,Left Foot,Open Play,1,0,2,Normal
-22.900873345791858,0.06617581314077649,False,Right Foot,Open Play,0,0,1,Normal
-35.12406582387637,0.06356766738982919,False,Right Foot,Open Play,0,0,0,Normal
-12.376186811776876,0.0586830101345322,False,Left Foot,Open Play,1,0,0,Half Volley
-34.42092386906546,0.07092779467415457,False,Right Foot,Open Play,0,0,0,Normal
-13.282319074619465,0.061573062067056726,False,Right Foot,Open Play,1,0,1,Normal
-12.972663566130125,0.05564021757849598,False,Right Foot,Open Play,1,0,0,Half Volley
-22.710790386950432,0.06743851970156597,False,Left Foot,Open Play,1,0,1,Half Volley
-38.50207786600614,0.07265206016638275,False,Left Foot,Free Kick,0,0,0,Normal
-25.4566297847928,0.06773585301191841,False,Left Foot,Open Play,0,0,1,Normal
-15.401947928752389,0.061825494253286824,False,Right Foot,Open Play,1,0,1,Normal
-11.704699910719626,0.05937729985753049,False,Left Foot,Open Play,0,0,3,Normal
-8.091971329657568,0.05881046359144165,True,Right Foot,Open Play,1,0,3,Normal
-14.880860190190619,0.06254168296673658,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9682,Luis Alberto Suárez Díaz,Barcelona,12.473972903610143,0.06059645873166722,False,Right Foot,Open Play,1,0,1,Volley
+9682,Nordin Amrabat,Leganés,21.66033240742164,0.06667264153393596,False,Right Foot,Open Play,0,0,3,Normal
+9682,Lionel Andrés Messi Cuccittini,Barcelona,16.747537132366652,0.0543270194382668,False,Right Foot,Open Play,1,0,1,Volley
+9682,Gabriel Appelt Pires,Leganés,25.164459064323232,0.06774865169769825,False,Right Foot,Open Play,1,0,0,Normal
+9682,Luis Alberto Suárez Díaz,Barcelona,5.056678751908212,0.05430649718361793,True,Left Foot,Open Play,1,0,2,Half Volley
+9682,Nabil El Zhar,Leganés,27.300000000000004,0.060144516657582865,False,Right Foot,Open Play,1,0,1,Half Volley
+9682,Alexander Szymanowski,Leganés,19.524343778985255,0.06484941115067726,False,Right Foot,Open Play,1,0,2,Normal
+9682,Nordin Amrabat,Leganés,24.39200688750313,0.0640663804484798,False,Right Foot,Open Play,0,0,1,Normal
+9682,Gabriel Appelt Pires,Leganés,13.159027319676785,0.06145539965734958,False,Right Foot,Open Play,1,0,3,Volley
+9682,Claudio Beauvue,Leganés,14.425324953012325,0.057081012373043666,False,Right Foot,Open Play,1,0,1,Half Volley
+9682,Nordin Amrabat,Leganés,25.083261350948764,0.05304550654661689,False,Right Foot,Open Play,0,0,2,Normal
+9682,Gabriel Appelt Pires,Leganés,33.60907615511024,0.06005243246719062,False,Left Foot,Open Play,0,0,1,Normal
+9682,Francisco Alcácer García,Barcelona,11.232987136109433,0.059991213549653526,False,Left Foot,Open Play,1,0,1,Half Volley
+9682,Luis Alberto Suárez Díaz,Barcelona,14.243595051811885,0.056005351462376236,True,Right Foot,Open Play,1,0,0,Half Volley
+9682,Nordin Amrabat,Leganés,27.38558014722347,0.05956770263469299,False,Right Foot,Open Play,0,0,2,Normal
+9682,Nordin Amrabat,Leganés,11.995415791042841,0.06089448564936568,False,Left Foot,Open Play,1,0,2,Normal
+9682,Alexander Szymanowski,Leganés,22.900873345791858,0.06617581314077649,False,Right Foot,Open Play,0,0,1,Normal
+9682,Joseba Zaldúa Bengoetxea,Leganés,35.12406582387637,0.06356766738982919,False,Right Foot,Open Play,0,0,0,Normal
+9682,Claudio Beauvue,Leganés,12.376186811776876,0.0586830101345322,False,Left Foot,Open Play,1,0,0,Half Volley
+9682,Nabil El Zhar,Leganés,34.42092386906546,0.07092779467415457,False,Right Foot,Open Play,0,0,0,Normal
+9682,Luis Alberto Suárez Díaz,Barcelona,13.282319074619465,0.061573062067056726,False,Right Foot,Open Play,1,0,1,Normal
+9682,Aleix Vidal Parreu,Barcelona,12.972663566130125,0.05564021757849598,False,Right Foot,Open Play,1,0,0,Half Volley
+9682,Gerard Gumbau Garriga,Leganés,22.710790386950432,0.06743851970156597,False,Left Foot,Open Play,1,0,1,Half Volley
+9682,Diego Rico Salguero,Leganés,38.50207786600614,0.07265206016638275,False,Left Foot,Free Kick,0,0,0,Normal
+9682,Lionel Andrés Messi Cuccittini,Barcelona,25.4566297847928,0.06773585301191841,False,Left Foot,Open Play,0,0,1,Normal
+9682,Luis Alberto Suárez Díaz,Barcelona,15.401947928752389,0.061825494253286824,False,Right Foot,Open Play,1,0,1,Normal
+9682,Lionel Andrés Messi Cuccittini,Barcelona,11.704699910719626,0.05937729985753049,False,Left Foot,Open Play,0,0,3,Normal
+9682,José Paulo Bezzera Maciel Júnior,Barcelona,8.091971329657568,0.05881046359144165,True,Right Foot,Open Play,1,0,3,Normal
+9682,Nordin Amrabat,Leganés,14.880860190190619,0.06254168296673658,False,Right Foot,Open Play,0,0,1,Normal

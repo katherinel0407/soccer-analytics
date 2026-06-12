@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.693938775447087,0.05811240161445238,False,Right Foot,Open Play,1,0,1,Normal
-14.389232085139216,0.05846839720180507,True,Left Foot,Open Play,0,1,2,Normal
-19.52075818199693,0.06324896511660125,False,Right Foot,Open Play,1,0,0,Normal
-19.860010070490905,0.0648233839972333,False,Right Foot,Open Play,0,1,0,Normal
-24.063457773146407,0.0635540619164021,False,Left Foot,Free Kick,0,0,0,Normal
-9.10933587041339,0.05732126465983009,False,Head,Open Play,0,1,6,Normal
-12.453112060846477,0.05363024432641,False,Right Foot,Open Play,0,1,4,Normal
-20.795432190748038,0.05838265268182182,False,Left Foot,Open Play,1,1,1,Normal
-9.72008230417829,0.05936415035973778,False,Left Foot,Open Play,1,0,1,Volley
-23.576471322061746,0.06628932227036051,True,Left Foot,Open Play,0,0,2,Normal
-18.110770276274835,0.061351480882246026,True,Right Foot,Open Play,0,1,4,Normal
-7.712976079309464,0.05832933961143499,True,Head,Open Play,0,0,5,Normal
-21.26146749403718,0.05792933463726654,False,Right Foot,Open Play,1,0,1,Volley
-26.69175902783479,0.06853313717184215,False,Left Foot,Free Kick,0,0,0,Normal
-20.468756679388218,0.06535255868879941,False,Left Foot,Open Play,1,1,1,Half Volley
-26.498490523046787,0.06299010689579543,False,Right Foot,Open Play,1,0,1,Normal
-16.313184851524248,0.055704955654616306,True,Right Foot,Open Play,0,0,1,Normal
-13.720058308913995,0.056906977307531234,True,Right Foot,Open Play,1,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266320,Anaitz Arbilla Zabala,Espanyol,29.693938775447087,0.05811240161445238,False,Right Foot,Open Play,1,0,1,Normal
+266320,Sergio García De La Fuente,Espanyol,14.389232085139216,0.05846839720180507,True,Left Foot,Open Play,0,1,2,Normal
+266320,Xavier Hernández Creus,Barcelona,19.52075818199693,0.06324896511660125,False,Right Foot,Open Play,1,0,0,Normal
+266320,Sergio García De La Fuente,Espanyol,19.860010070490905,0.0648233839972333,False,Right Foot,Open Play,0,1,0,Normal
+266320,Lionel Andrés Messi Cuccittini,Barcelona,24.063457773146407,0.0635540619164021,False,Left Foot,Free Kick,0,0,0,Normal
+266320,Gerard Piqué Bernabéu,Barcelona,9.10933587041339,0.05732126465983009,False,Head,Open Play,0,1,6,Normal
+266320,Lionel Andrés Messi Cuccittini,Barcelona,12.453112060846477,0.05363024432641,False,Right Foot,Open Play,0,1,4,Normal
+266320,Luis Alberto Suárez Díaz,Barcelona,20.795432190748038,0.05838265268182182,False,Left Foot,Open Play,1,1,1,Normal
+266320,Jordi Alba Ramos,Barcelona,9.72008230417829,0.05936415035973778,False,Left Foot,Open Play,1,0,1,Volley
+266320,Lionel Andrés Messi Cuccittini,Barcelona,23.576471322061746,0.06628932227036051,True,Left Foot,Open Play,0,0,2,Normal
+266320,Lionel Andrés Messi Cuccittini,Barcelona,18.110770276274835,0.061351480882246026,True,Right Foot,Open Play,0,1,4,Normal
+266320,Gerard Piqué Bernabéu,Barcelona,7.712976079309464,0.05832933961143499,True,Head,Open Play,0,0,5,Normal
+266320,Ivan Rakitić,Barcelona,21.26146749403718,0.05792933463726654,False,Right Foot,Open Play,1,0,1,Volley
+266320,Lionel Andrés Messi Cuccittini,Barcelona,26.69175902783479,0.06853313717184215,False,Left Foot,Free Kick,0,0,0,Normal
+266320,Andrés Iniesta Luján,Barcelona,20.468756679388218,0.06535255868879941,False,Left Foot,Open Play,1,1,1,Half Volley
+266320,Xavier Hernández Creus,Barcelona,26.498490523046787,0.06299010689579543,False,Right Foot,Open Play,1,0,1,Normal
+266320,Pedro Eliezer Rodríguez Ledesma,Barcelona,16.313184851524248,0.055704955654616306,True,Right Foot,Open Play,0,0,1,Normal
+266320,Lionel Andrés Messi Cuccittini,Barcelona,13.720058308913995,0.056906977307531234,True,Right Foot,Open Play,1,0,4,Normal

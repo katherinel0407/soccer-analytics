@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.40357114390472,0.0643872459045684,False,Left Foot,Open Play,0,0,1,Normal
-17.230786401090345,0.062413097986519804,False,Right Foot,Open Play,1,0,0,Half Volley
-24.32632319114419,0.06189386259097637,False,Right Foot,Open Play,1,0,1,Normal
-9.618731725128834,0.058395568480773236,False,Left Foot,Open Play,1,0,2,Volley
-19.584943196241337,0.053684835616531645,False,Right Foot,Open Play,1,0,1,Normal
-22.992390045404154,0.05950630397972155,False,Right Foot,Open Play,0,0,1,Normal
-33.30540496676177,0.07431341094472423,False,Right Foot,Open Play,0,0,1,Normal
-24.123432591569554,0.06690375499221951,False,Left Foot,Open Play,1,0,1,Normal
-28.61625412243888,0.07117711710987763,True,Right Foot,Free Kick,0,0,0,Normal
-24.923884127479003,0.06705990959900199,False,Right Foot,Open Play,0,0,2,Normal
-21.51394896340511,0.06168428820132043,False,Left Foot,Open Play,0,0,1,Volley
-3.5510561809129437,0.05471819741230044,True,Head,Open Play,0,0,4,Normal
-28.827764394763605,0.058298602728016895,False,Left Foot,Open Play,0,0,1,Normal
-20.511947737842938,0.052452527047452104,False,Right Foot,Open Play,0,0,2,Half Volley
-11.54339638061519,0.0539473364395199,False,Right Foot,Open Play,0,0,1,Normal
-8.015609770940701,0.05878992625463274,False,Right Foot,Open Play,0,0,1,Half Volley
-14.36836803537549,0.06194665452014908,True,Left Foot,Open Play,1,0,1,Normal
-26.66270803950716,0.05589901887849506,False,Right Foot,Open Play,0,0,2,Normal
-28.908822182856216,0.07099979688179195,False,Right Foot,Open Play,0,0,1,Normal
-13.322161986704712,0.06075387347486729,True,Right Foot,Open Play,0,0,3,Normal
-15.242703172337905,0.05881605523685347,False,Right Foot,Open Play,1,0,2,Normal
-10.322790320451157,0.05605872551443525,False,Head,Open Play,0,1,5,Normal
-17.029386365926403,0.062145228145235654,False,Left Foot,Open Play,1,0,1,Normal
-25.128668886353687,0.06489140674902359,False,Left Foot,Free Kick,0,0,0,Normal
-19.242141252989494,0.052623688340816724,False,Left Foot,Open Play,1,0,2,Half Volley
-24.48060456769808,0.0681232450180126,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825622,Beñat Etxebarria Urkiaga,Athletic Club,22.40357114390472,0.0643872459045684,False,Left Foot,Open Play,0,0,1,Normal
+3825622,Iñaki Williams Arthuer,Athletic Club,17.230786401090345,0.062413097986519804,False,Right Foot,Open Play,1,0,0,Half Volley
+3825622,Raúl García Escudero,Athletic Club,24.32632319114419,0.06189386259097637,False,Right Foot,Open Play,1,0,1,Normal
+3825622,Raúl García Escudero,Athletic Club,9.618731725128834,0.058395568480773236,False,Left Foot,Open Play,1,0,2,Volley
+3825622,Iñaki Williams Arthuer,Athletic Club,19.584943196241337,0.053684835616531645,False,Right Foot,Open Play,1,0,1,Normal
+3825622,André Filipe Tavares Gomes,Valencia,22.992390045404154,0.05950630397972155,False,Right Foot,Open Play,0,0,1,Normal
+3825622,Sofiane Feghouli,Valencia,33.30540496676177,0.07431341094472423,False,Right Foot,Open Play,0,0,1,Normal
+3825622,Daniel Parejo Muñoz,Valencia,24.123432591569554,0.06690375499221951,False,Left Foot,Open Play,1,0,1,Normal
+3825622,Daniel Parejo Muñoz,Valencia,28.61625412243888,0.07117711710987763,True,Right Foot,Free Kick,0,0,0,Normal
+3825622,Markel Susaeta Laskurain,Athletic Club,24.923884127479003,0.06705990959900199,False,Right Foot,Open Play,0,0,2,Normal
+3825622,Aymeric Laporte,Athletic Club,21.51394896340511,0.06168428820132043,False,Left Foot,Open Play,0,0,1,Volley
+3825622,Aymeric Laporte,Athletic Club,3.5510561809129437,0.05471819741230044,True,Head,Open Play,0,0,4,Normal
+3825622,Iñaki Williams Arthuer,Athletic Club,28.827764394763605,0.058298602728016895,False,Left Foot,Open Play,0,0,1,Normal
+3825622,Iñaki Williams Arthuer,Athletic Club,20.511947737842938,0.052452527047452104,False,Right Foot,Open Play,0,0,2,Half Volley
+3825622,Álvaro Negredo Sánchez,Valencia,11.54339638061519,0.0539473364395199,False,Right Foot,Open Play,0,0,1,Normal
+3825622,Aritz Aduriz Zubeldia,Athletic Club,8.015609770940701,0.05878992625463274,False,Right Foot,Open Play,0,0,1,Half Volley
+3825622,Markel Susaeta Laskurain,Athletic Club,14.36836803537549,0.06194665452014908,True,Left Foot,Open Play,1,0,1,Normal
+3825622,Iñaki Williams Arthuer,Athletic Club,26.66270803950716,0.05589901887849506,False,Right Foot,Open Play,0,0,2,Normal
+3825622,Rodrigo Javier De Paul,Valencia,28.908822182856216,0.07099979688179195,False,Right Foot,Open Play,0,0,1,Normal
+3825622,Aritz Aduriz Zubeldia,Athletic Club,13.322161986704712,0.06075387347486729,True,Right Foot,Open Play,0,0,3,Normal
+3825622,Rodrigo Javier De Paul,Valencia,15.242703172337905,0.05881605523685347,False,Right Foot,Open Play,1,0,2,Normal
+3825622,Shkodran Mustafi,Valencia,10.322790320451157,0.05605872551443525,False,Head,Open Play,0,1,5,Normal
+3825622,Daniel Parejo Muñoz,Valencia,17.029386365926403,0.062145228145235654,False,Left Foot,Open Play,1,0,1,Normal
+3825622,Aymeric Laporte,Athletic Club,25.128668886353687,0.06489140674902359,False,Left Foot,Free Kick,0,0,0,Normal
+3825622,Rodrigo Moreno Machado,Valencia,19.242141252989494,0.052623688340816724,False,Left Foot,Open Play,1,0,2,Half Volley
+3825622,Sabin Merino Zuloaga,Athletic Club,24.48060456769808,0.0681232450180126,False,Left Foot,Open Play,0,1,2,Normal

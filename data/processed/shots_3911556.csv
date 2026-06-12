@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.821511831131151,0.057239002343339535,True,Right Foot,Open Play,1,0,2,Volley
-22.2524155992108,0.05792889957357065,False,Left Foot,Open Play,0,0,4,Normal
-3.801315561749649,0.0556509153964213,True,Head,Open Play,0,0,3,Normal
-21.400934559032695,0.05618714245567163,False,Left Foot,Open Play,0,0,1,Normal
-22.556817151362463,0.0608042356278558,False,Left Foot,Free Kick,0,0,0,Normal
-5.824946351684276,0.05748263234414564,False,Left Foot,Open Play,1,0,2,Half Volley
-21.467417171145673,0.05400143115941455,False,Right Foot,Open Play,0,0,1,Half Volley
-6.200000000000003,0.05724038509124616,False,Right Foot,Open Play,1,1,3,Normal
-6.242595614005441,0.05467066207629049,True,Left Foot,Open Play,1,0,1,Half Volley
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-8.83911760301898,0.0591246225661446,False,Head,Open Play,0,0,3,Normal
-25.773047937719745,0.06889385876380794,False,Left Foot,Open Play,1,1,1,Normal
-4.76759897642409,0.056412288383178126,False,Head,Open Play,0,0,4,Normal
-50.08492787256462,0.06134817391978178,False,Right Foot,Open Play,0,0,1,Normal
-23.131147831441478,0.06396626526663908,False,Left Foot,Open Play,1,0,1,Half Volley
-26.44730610100016,0.06924688659970407,False,Right Foot,Open Play,0,0,1,Normal
-29.565689574234526,0.06999503667410732,False,Right Foot,Free Kick,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-12.24499897917513,0.05670325026667153,False,Right Foot,Open Play,1,0,2,Normal
-74.92082487533088,0.06224282757057353,False,Right Foot,Open Play,0,0,2,Lob
-11.244554237496478,0.060176171434673964,False,Right Foot,Open Play,0,1,3,Half Volley
-7.023531875061152,0.05785831060662068,False,Right Foot,Open Play,1,0,4,Half Volley
-8.168843247363728,0.05483540527175402,False,Left Foot,Open Play,0,1,2,Normal
-13.293607486307097,0.061463498481388004,False,Right Foot,Open Play,0,0,4,Normal
-13.08166656049603,0.06133990719833595,False,Right Foot,Open Play,1,0,1,Half Volley
-13.368619973654726,0.055883031565231736,False,Head,Open Play,0,0,2,Normal
-20.099751242241783,0.06573683534841333,False,Right Foot,Open Play,1,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911556,Fridolina Rolfö,Barcelona WFC,5.821511831131151,0.057239002343339535,True,Right Foot,Open Play,1,0,2,Volley
+3911556,Caroline Graham Hansen,Barcelona WFC,22.2524155992108,0.05792889957357065,False,Left Foot,Open Play,0,0,4,Normal
+3911556,Lucy Bronze,Barcelona WFC,3.801315561749649,0.0556509153964213,True,Head,Open Play,0,0,3,Normal
+3911556,Caroline Graham Hansen,Barcelona WFC,21.400934559032695,0.05618714245567163,False,Left Foot,Open Play,0,0,1,Normal
+3911556,Alexia Putellas Segura,Barcelona WFC,22.556817151362463,0.0608042356278558,False,Left Foot,Free Kick,0,0,0,Normal
+3911556,Fridolina Rolfö,Barcelona WFC,5.824946351684276,0.05748263234414564,False,Left Foot,Open Play,1,0,2,Half Volley
+3911556,Lucy Bronze,Barcelona WFC,21.467417171145673,0.05400143115941455,False,Right Foot,Open Play,0,0,1,Half Volley
+3911556,Caroline Graham Hansen,Barcelona WFC,6.200000000000003,0.05724038509124616,False,Right Foot,Open Play,1,1,3,Normal
+3911556,Caroline Graham Hansen,Barcelona WFC,6.242595614005441,0.05467066207629049,True,Left Foot,Open Play,1,0,1,Half Volley
+3911556,Laura Pérez Martín,Granada W,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3911556,Irene Paredes Hernandez,Barcelona WFC,8.83911760301898,0.0591246225661446,False,Head,Open Play,0,0,3,Normal
+3911556,Fridolina Rolfö,Barcelona WFC,25.773047937719745,0.06889385876380794,False,Left Foot,Open Play,1,1,1,Normal
+3911556,Caroline Graham Hansen,Barcelona WFC,4.76759897642409,0.056412288383178126,False,Head,Open Play,0,0,4,Normal
+3911556,Andrea Gómez Oliver,Granada W,50.08492787256462,0.06134817391978178,False,Right Foot,Open Play,0,0,1,Normal
+3911556,Claudia Pina Medina,Barcelona WFC,23.131147831441478,0.06396626526663908,False,Left Foot,Open Play,1,0,1,Half Volley
+3911556,Claudia Pina Medina,Barcelona WFC,26.44730610100016,0.06924688659970407,False,Right Foot,Open Play,0,0,1,Normal
+3911556,Alicia Redondo González,Granada W,29.565689574234526,0.06999503667410732,False,Right Foot,Free Kick,0,0,0,Normal
+3911556,Fridolina Rolfö,Barcelona WFC,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3911556,Bruna Vilamala Costa,Barcelona WFC,12.24499897917513,0.05670325026667153,False,Right Foot,Open Play,1,0,2,Normal
+3911556,Edna Imade,Granada W,74.92082487533088,0.06224282757057353,False,Right Foot,Open Play,0,0,2,Lob
+3911556,Claudia Pina Medina,Barcelona WFC,11.244554237496478,0.060176171434673964,False,Right Foot,Open Play,0,1,3,Half Volley
+3911556,Claudia Pina Medina,Barcelona WFC,7.023531875061152,0.05785831060662068,False,Right Foot,Open Play,1,0,4,Half Volley
+3911556,Caroline Graham Hansen,Barcelona WFC,8.168843247363728,0.05483540527175402,False,Left Foot,Open Play,0,1,2,Normal
+3911556,Claudia Pina Medina,Barcelona WFC,13.293607486307097,0.061463498481388004,False,Right Foot,Open Play,0,0,4,Normal
+3911556,María Francesca Caldentey Oliver,Barcelona WFC,13.08166656049603,0.06133990719833595,False,Right Foot,Open Play,1,0,1,Half Volley
+3911556,Caroline Graham Hansen,Barcelona WFC,13.368619973654726,0.055883031565231736,False,Head,Open Play,0,0,2,Normal
+3911556,María Francesca Caldentey Oliver,Barcelona WFC,20.099751242241783,0.06573683534841333,False,Right Foot,Open Play,1,1,3,Normal

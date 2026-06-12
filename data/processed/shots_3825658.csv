@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.43158053648607,0.06354120493039152,False,Left Foot,Open Play,0,1,1,Normal
-32.85863661200811,0.07496533227641307,False,Right Foot,Open Play,0,0,1,Normal
-24.318922673506734,0.06799773144634051,False,Right Foot,Open Play,0,0,3,Normal
-30.870050210519583,0.05759167075100957,False,Right Foot,Open Play,0,0,3,Half Volley
-13.61249426078851,0.061476921047763866,False,Head,Open Play,0,0,3,Normal
-10.131633629380797,0.05907777656627302,False,Head,Open Play,0,1,2,Normal
-22.524875138388676,0.0670300719643689,False,Right Foot,Open Play,0,0,3,Normal
-14.244297104455525,0.05882000686103197,False,Left Foot,Open Play,1,0,2,Normal
-28.601573383294838,0.06704149621486995,False,Right Foot,Open Play,1,0,1,Normal
-6.576473218982951,0.05799238888146286,False,Left Foot,Open Play,1,0,3,Normal
-32.04403220570095,0.07425295362082579,False,Right Foot,Open Play,0,0,0,Normal
-16.924833824885845,0.0633010036876286,False,Left Foot,Open Play,0,0,4,Normal
-11.910079764636343,0.05740561831490243,False,Right Foot,Open Play,1,0,1,Half Volley
-7.605918747922574,0.05647268895223518,False,Left Foot,Open Play,1,0,3,Volley
-27.806474066303334,0.07089511749270518,False,Left Foot,Open Play,0,0,1,Normal
-37.4593112590181,0.07459752259406825,False,Left Foot,Open Play,0,0,1,Normal
-14.743473132203276,0.06243761458980753,False,Right Foot,Open Play,0,0,3,Half Volley
-21.313845265460667,0.06264869640695005,False,Right Foot,Open Play,1,0,0,Half Volley
-33.614877658560644,0.07037048330587187,False,Right Foot,Open Play,0,0,2,Normal
-22.563022847127556,0.05798471624090382,False,Right Foot,Open Play,1,0,1,Half Volley
-19.56859729260123,0.05731934949367411,False,Right Foot,Open Play,0,0,3,Normal
-9.79438614717635,0.05416731295507722,False,Head,Open Play,0,1,4,Normal
-15.440207252495023,0.062418909032806606,False,Right Foot,Open Play,0,0,2,Volley
-10.316006979447044,0.057712782489982344,True,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825658,Jonathan Rodríguez Menéndez,Sporting Gijón,17.43158053648607,0.06354120493039152,False,Left Foot,Open Play,0,1,1,Normal
+3825658,Miguel Ángel Guerrero Martín,Sporting Gijón,32.85863661200811,0.07496533227641307,False,Right Foot,Open Play,0,0,1,Normal
+3825658,Yannick Ferreira Carrasco,Atlético Madrid,24.318922673506734,0.06799773144634051,False,Right Foot,Open Play,0,0,3,Normal
+3825658,Pablo Pérez Rodríguez,Sporting Gijón,30.870050210519583,0.05759167075100957,False,Right Foot,Open Play,0,0,3,Half Volley
+3825658,Jorge Resurrección Merodio,Atlético Madrid,13.61249426078851,0.061476921047763866,False,Head,Open Play,0,0,3,Normal
+3825658,Tiago Cardoso Mendes,Atlético Madrid,10.131633629380797,0.05907777656627302,False,Head,Open Play,0,1,2,Normal
+3825658,Yannick Ferreira Carrasco,Atlético Madrid,22.524875138388676,0.0670300719643689,False,Right Foot,Open Play,0,0,3,Normal
+3825658,Alen Halilović,Sporting Gijón,14.244297104455525,0.05882000686103197,False,Left Foot,Open Play,1,0,2,Normal
+3825658,Gabriel Fernández Arenas,Atlético Madrid,28.601573383294838,0.06704149621486995,False,Right Foot,Open Play,1,0,1,Normal
+3825658,Antoine Griezmann,Atlético Madrid,6.576473218982951,0.05799238888146286,False,Left Foot,Open Play,1,0,3,Normal
+3825658,Jorge Resurrección Merodio,Atlético Madrid,32.04403220570095,0.07425295362082579,False,Right Foot,Open Play,0,0,0,Normal
+3825658,Alejandro Menéndez Díez,Sporting Gijón,16.924833824885845,0.0633010036876286,False,Left Foot,Open Play,0,0,4,Normal
+3825658,Antoine Griezmann,Atlético Madrid,11.910079764636343,0.05740561831490243,False,Right Foot,Open Play,1,0,1,Half Volley
+3825658,Antoine Griezmann,Atlético Madrid,7.605918747922574,0.05647268895223518,False,Left Foot,Open Play,1,0,3,Volley
+3825658,Jonathan Rodríguez Menéndez,Sporting Gijón,27.806474066303334,0.07089511749270518,False,Left Foot,Open Play,0,0,1,Normal
+3825658,Alejandro Menéndez Díez,Sporting Gijón,37.4593112590181,0.07459752259406825,False,Left Foot,Open Play,0,0,1,Normal
+3825658,Pablo Pérez Rodríguez,Sporting Gijón,14.743473132203276,0.06243761458980753,False,Right Foot,Open Play,0,0,3,Half Volley
+3825658,Bernardo José Espinosa Zúñiga,Sporting Gijón,21.313845265460667,0.06264869640695005,False,Right Foot,Open Play,1,0,0,Half Volley
+3825658,Yannick Ferreira Carrasco,Atlético Madrid,33.614877658560644,0.07037048330587187,False,Right Foot,Open Play,0,0,2,Normal
+3825658,Jesús Gámez Duarte,Atlético Madrid,22.563022847127556,0.05798471624090382,False,Right Foot,Open Play,1,0,1,Half Volley
+3825658,Jackson Arley Martínez Valencia,Atlético Madrid,19.56859729260123,0.05731934949367411,False,Right Foot,Open Play,0,0,3,Normal
+3825658,Diego Roberto Godín Leal,Atlético Madrid,9.79438614717635,0.05416731295507722,False,Head,Open Play,0,1,4,Normal
+3825658,Jackson Arley Martínez Valencia,Atlético Madrid,15.440207252495023,0.062418909032806606,False,Right Foot,Open Play,0,0,2,Volley
+3825658,Antoine Griezmann,Atlético Madrid,10.316006979447044,0.057712782489982344,True,Head,Open Play,0,0,3,Normal

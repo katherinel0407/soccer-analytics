@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.85909310982273,0.07437022126951313,False,Right Foot,Open Play,0,0,0,Normal
-10.200000000000003,0.05884548763787881,False,Right Foot,Open Play,0,0,2,Volley
-28.362298919516373,0.06014170953034672,False,Right Foot,Open Play,1,1,1,Normal
-23.464441182350793,0.06069118105612997,False,Left Foot,Open Play,0,0,1,Normal
-24.44994887520218,0.06842756240974018,False,Left Foot,Open Play,0,0,3,Normal
-15.117208737065189,0.06269667923367911,False,Left Foot,Open Play,0,0,2,Normal
-20.37081245311536,0.06573084065085533,False,Right Foot,Open Play,0,1,2,Normal
-20.496341136895627,0.0655872871929189,False,Right Foot,Free Kick,0,0,0,Normal
-14.199295757184586,0.06209680126848788,False,Right Foot,Open Play,1,0,2,Normal
-32.3736003558455,0.07141284322075193,False,Right Foot,Open Play,0,0,0,Normal
-7.955501241279523,0.05847493427987403,False,Head,Open Play,0,0,1,Normal
-17.622996340009838,0.06409139750317486,False,Right Foot,Open Play,0,0,1,Volley
-13.207573584879247,0.05669208828345872,False,Right Foot,Open Play,0,1,2,Normal
-23.84491560060551,0.060845575241759875,False,Left Foot,Open Play,0,0,2,Normal
-22.690967365892536,0.06714917582990852,False,Right Foot,Open Play,0,0,2,Normal
-22.138202275704327,0.06697080210217447,False,Right Foot,Open Play,0,0,1,Normal
-11.164676439557034,0.05659752720222653,False,Head,Open Play,0,0,2,Normal
-19.091883092036785,0.05487925337384795,False,Right Foot,Open Play,1,1,1,Half Volley
-33.455193916640205,0.06606304695093106,False,Right Foot,Free Kick,0,0,0,Normal
-12.615070352558483,0.060411830975419474,True,Head,Open Play,0,0,4,Normal
-11.183022847155414,0.060471116701168955,False,Head,Open Play,0,1,1,Normal
-8.02309167341369,0.05869300833800212,True,Head,Open Play,0,1,3,Normal
-20.106217943710845,0.05772735096681296,False,Right Foot,Open Play,0,1,2,Normal
-11.80720119249266,0.05348253006417545,False,Right Foot,Open Play,1,0,1,Normal
-16.9729196074217,0.06353736251341525,False,Right Foot,Open Play,0,0,2,Normal
-19.988246546408213,0.06492144776426555,False,Right Foot,Open Play,0,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69205,Valentina Cernoia,Italy Women's,32.85909310982273,0.07437022126951313,False,Right Foot,Open Play,0,0,0,Normal
+69205,Valentina Bergamaschi,Italy Women's,10.200000000000003,0.05884548763787881,False,Right Foot,Open Play,0,0,2,Volley
+69205,Aurora Galli,Italy Women's,28.362298919516373,0.06014170953034672,False,Right Foot,Open Play,1,1,1,Normal
+69205,Danielle van de Donk,Netherlands Women's,23.464441182350793,0.06069118105612997,False,Left Foot,Open Play,0,0,1,Normal
+69205,Vivianne Miedema,Netherlands Women's,24.44994887520218,0.06842756240974018,False,Left Foot,Open Play,0,0,3,Normal
+69205,Valentina Giacinti,Italy Women's,15.117208737065189,0.06269667923367911,False,Left Foot,Open Play,0,0,2,Normal
+69205,Lieke Martens,Netherlands Women's,20.37081245311536,0.06573084065085533,False,Right Foot,Open Play,0,1,2,Normal
+69205,Sherida Spitse,Netherlands Women's,20.496341136895627,0.0655872871929189,False,Right Foot,Free Kick,0,0,0,Normal
+69205,Lieke Martens,Netherlands Women's,14.199295757184586,0.06209680126848788,False,Right Foot,Open Play,1,0,2,Normal
+69205,Sherida Spitse,Netherlands Women's,32.3736003558455,0.07141284322075193,False,Right Foot,Open Play,0,0,0,Normal
+69205,Vivianne Miedema,Netherlands Women's,7.955501241279523,0.05847493427987403,False,Head,Open Play,0,0,1,Normal
+69205,Lieke Martens,Netherlands Women's,17.622996340009838,0.06409139750317486,False,Right Foot,Open Play,0,0,1,Volley
+69205,Jackie Groenen,Netherlands Women's,13.207573584879247,0.05669208828345872,False,Right Foot,Open Play,0,1,2,Normal
+69205,Shanice van de Sanden,Netherlands Women's,23.84491560060551,0.060845575241759875,False,Left Foot,Open Play,0,0,2,Normal
+69205,Lieke Martens,Netherlands Women's,22.690967365892536,0.06714917582990852,False,Right Foot,Open Play,0,0,2,Normal
+69205,Danielle van de Donk,Netherlands Women's,22.138202275704327,0.06697080210217447,False,Right Foot,Open Play,0,0,1,Normal
+69205,Dominique Johanna Anna Petrone Janssen,Netherlands Women's,11.164676439557034,0.05659752720222653,False,Head,Open Play,0,0,2,Normal
+69205,Lineth Beerensteyn,Netherlands Women's,19.091883092036785,0.05487925337384795,False,Right Foot,Open Play,1,1,1,Half Volley
+69205,Sherida Spitse,Netherlands Women's,33.455193916640205,0.06606304695093106,False,Right Foot,Free Kick,0,0,0,Normal
+69205,Vivianne Miedema,Netherlands Women's,12.615070352558483,0.060411830975419474,True,Head,Open Play,0,0,4,Normal
+69205,Lieke Martens,Netherlands Women's,11.183022847155414,0.060471116701168955,False,Head,Open Play,0,1,1,Normal
+69205,Stephanie van der Gragt,Netherlands Women's,8.02309167341369,0.05869300833800212,True,Head,Open Play,0,1,3,Normal
+69205,Vivianne Miedema,Netherlands Women's,20.106217943710845,0.05772735096681296,False,Right Foot,Open Play,0,1,2,Normal
+69205,Daniela Sabatino,Italy Women's,11.80720119249266,0.05348253006417545,False,Right Foot,Open Play,1,0,1,Normal
+69205,Lieke Martens,Netherlands Women's,16.9729196074217,0.06353736251341525,False,Right Foot,Open Play,0,0,2,Normal
+69205,Daniela Sabatino,Italy Women's,19.988246546408213,0.06492144776426555,False,Right Foot,Open Play,0,0,3,Half Volley

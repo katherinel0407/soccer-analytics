@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.956001688119784,0.06440622898175748,True,Right Foot,Open Play,0,1,2,Half Volley
-33.65739146160915,0.07352875491125149,False,Right Foot,Open Play,0,0,0,Normal
-11.859595271340424,0.05688875334213666,False,Right Foot,Open Play,1,1,2,Normal
-11.759676866308869,0.06079200588147979,False,Head,Open Play,0,1,3,Normal
-9.002777349240619,0.05927197738002926,True,Right Foot,Open Play,0,0,3,Half Volley
-38.816748962271426,0.07997836649920655,True,Right Foot,Free Kick,0,0,0,Normal
-24.101867147588376,0.06823419648304603,False,Right Foot,Free Kick,0,0,0,Normal
-19.13765920900463,0.06318974486749292,False,Right Foot,Open Play,1,0,1,Half Volley
-25.54858117391257,0.054772019719085296,False,Right Foot,Open Play,0,0,1,Normal
-13.507405376311171,0.05657568489837122,False,Head,Open Play,0,1,2,Normal
-19.730686759461772,0.06471496738982571,False,Left Foot,Open Play,0,0,1,Lob
-13.634148304899721,0.06122743272791093,True,Right Foot,Open Play,0,1,1,Normal
-8.832326986700618,0.058740351023914394,False,Head,Open Play,0,0,2,Normal
-27.127108213003464,0.06411236128861528,False,Left Foot,Open Play,0,1,2,Normal
-22.47220505424423,0.05986089032781617,False,Left Foot,Open Play,1,0,3,Half Volley
-23.97331850203471,0.05892661109733395,False,Right Foot,Open Play,0,1,3,Normal
-9.640020746865641,0.05963749104219251,False,Head,Open Play,0,1,2,Normal
-14.52205219657332,0.060346802366007285,True,Right Foot,Open Play,1,0,0,Normal
-17.300289014926886,0.06183590011660869,False,Head,Open Play,0,0,2,Normal
-14.317821063276353,0.06154419091020416,False,Head,Open Play,0,0,2,Normal
-9.718538984847468,0.05559993717204297,False,Right Foot,Open Play,1,1,2,Half Volley
-14.143903280212289,0.05276970734808287,False,Right Foot,Open Play,0,0,1,Half Volley
-38.28446159997552,0.07904083930683348,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901170,Ousmane Dembélé,Rennes,18.956001688119784,0.06440622898175748,True,Right Foot,Open Play,0,1,2,Half Volley
+3901170,Ousmane Dembélé,Rennes,33.65739146160915,0.07352875491125149,False,Right Foot,Open Play,0,0,0,Normal
+3901170,Ousmane Dembélé,Rennes,11.859595271340424,0.05688875334213666,False,Right Foot,Open Play,1,1,2,Normal
+3901170,Lorik Agim Cana,Nantes,11.759676866308869,0.06079200588147979,False,Head,Open Play,0,1,3,Normal
+3901170,Kamil Grosicki,Rennes,9.002777349240619,0.05927197738002926,True,Right Foot,Open Play,0,0,3,Half Volley
+3901170,Ousmane Dembélé,Rennes,38.816748962271426,0.07997836649920655,True,Right Foot,Free Kick,0,0,0,Normal
+3901170,Adryan Oliveira Tavares,Nantes,24.101867147588376,0.06823419648304603,False,Right Foot,Free Kick,0,0,0,Normal
+3901170,Rémi Gomis,Nantes,19.13765920900463,0.06318974486749292,False,Right Foot,Open Play,1,0,1,Half Volley
+3901170,Ousmane Dembélé,Rennes,25.54858117391257,0.054772019719085296,False,Right Foot,Open Play,0,0,1,Normal
+3901170,Alejandro Bedoya,Nantes,13.507405376311171,0.05657568489837122,False,Head,Open Play,0,1,2,Normal
+3901170,Yoann Gourcuff,Rennes,19.730686759461772,0.06471496738982571,False,Left Foot,Open Play,0,0,1,Lob
+3901170,Ousmane Dembélé,Rennes,13.634148304899721,0.06122743272791093,True,Right Foot,Open Play,0,1,1,Normal
+3901170,Giovanni-Guy Yann Sio,Rennes,8.832326986700618,0.058740351023914394,False,Head,Open Play,0,0,2,Normal
+3901170,Alejandro Bedoya,Nantes,27.127108213003464,0.06411236128861528,False,Left Foot,Open Play,0,1,2,Normal
+3901170,Kamil Grosicki,Rennes,22.47220505424423,0.05986089032781617,False,Left Foot,Open Play,1,0,3,Half Volley
+3901170,Kamil Grosicki,Rennes,23.97331850203471,0.05892661109733395,False,Right Foot,Open Play,0,1,3,Normal
+3901170,Pedro Filipe Teodósio Mendes,Rennes,9.640020746865641,0.05963749104219251,False,Head,Open Play,0,1,2,Normal
+3901170,Adryan Oliveira Tavares,Nantes,14.52205219657332,0.060346802366007285,True,Right Foot,Open Play,1,0,0,Normal
+3901170,Johan Audel,Nantes,17.300289014926886,0.06183590011660869,False,Head,Open Play,0,0,2,Normal
+3901170,Yacine Bammou,Nantes,14.317821063276353,0.06154419091020416,False,Head,Open Play,0,0,2,Normal
+3901170,Oswaldo Augusto Vizcarrondo Araújo,Nantes,9.718538984847468,0.05559993717204297,False,Right Foot,Open Play,1,1,2,Half Volley
+3901170,Alejandro Bedoya,Nantes,14.143903280212289,0.05276970734808287,False,Right Foot,Open Play,0,0,1,Half Volley
+3901170,Wilfried Moimbé,Nantes,38.28446159997552,0.07904083930683348,False,Left Foot,Open Play,0,0,1,Normal

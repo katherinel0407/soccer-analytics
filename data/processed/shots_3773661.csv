@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.2438226315322,0.06638246016058295,False,Left Foot,Open Play,0,0,3,Normal
-17.542234749312872,0.06411648361565789,True,Left Foot,Open Play,0,0,2,Normal
-9.72008230417829,0.05591516153486097,False,Left Foot,Open Play,1,0,1,Volley
-9.170605214488297,0.059323174928938384,False,Right Foot,Open Play,1,0,1,Volley
-20.164572894063493,0.06577543991222233,False,Left Foot,Open Play,1,1,2,Normal
-23.067076104266015,0.05751735276090748,False,Left Foot,Open Play,1,0,1,Volley
-18.466456075814868,0.054602863370112845,False,Right Foot,Open Play,1,0,1,Volley
-7.694153624668539,0.05308623535629854,True,Left Foot,Open Play,1,0,1,Half Volley
-7.984985911070857,0.058662173547921324,False,Head,Open Play,0,1,5,Normal
-12.200000000000003,0.05967536621333517,True,Right Foot,Penalty,0,0,0,Normal
-9.52102935611481,0.05924862356805902,False,Head,Open Play,0,1,1,Normal
-4.741307836451884,0.05446283453223921,True,Head,Open Play,0,1,4,Normal
-15.493547043850223,0.055342937372387,False,Right Foot,Open Play,1,0,2,Normal
-12.425779653607258,0.059468066022200325,True,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773661,Lionel Andrés Messi Cuccittini,Barcelona,21.2438226315322,0.06638246016058295,False,Left Foot,Open Play,0,0,3,Normal
+3773661,Lionel Andrés Messi Cuccittini,Barcelona,17.542234749312872,0.06411648361565789,True,Left Foot,Open Play,0,0,2,Normal
+3773661,Takefusa Kubo,Getafe,9.72008230417829,0.05591516153486097,False,Left Foot,Open Play,1,0,1,Volley
+3773661,Ángel Luis Rodríguez Díaz,Getafe,9.170605214488297,0.059323174928938384,False,Right Foot,Open Play,1,0,1,Volley
+3773661,Lionel Andrés Messi Cuccittini,Barcelona,20.164572894063493,0.06577543991222233,False,Left Foot,Open Play,1,1,2,Normal
+3773661,Lionel Andrés Messi Cuccittini,Barcelona,23.067076104266015,0.05751735276090748,False,Left Foot,Open Play,1,0,1,Volley
+3773661,Lionel Andrés Messi Cuccittini,Barcelona,18.466456075814868,0.054602863370112845,False,Right Foot,Open Play,1,0,1,Volley
+3773661,Lionel Andrés Messi Cuccittini,Barcelona,7.694153624668539,0.05308623535629854,True,Left Foot,Open Play,1,0,1,Half Volley
+3773661,Sofian Chakla,Getafe,7.984985911070857,0.058662173547921324,False,Head,Open Play,0,1,5,Normal
+3773661,Enes Ünal,Getafe,12.200000000000003,0.05967536621333517,True,Right Foot,Penalty,0,0,0,Normal
+3773661,José Antonio Miranda Boacho,Getafe,9.52102935611481,0.05924862356805902,False,Head,Open Play,0,1,1,Normal
+3773661,Ronald Federico Araújo da Silva,Barcelona,4.741307836451884,0.05446283453223921,True,Head,Open Play,0,1,4,Normal
+3773661,Lionel Andrés Messi Cuccittini,Barcelona,15.493547043850223,0.055342937372387,False,Right Foot,Open Play,1,0,2,Normal
+3773661,Antoine Griezmann,Barcelona,12.425779653607258,0.059468066022200325,True,Left Foot,Penalty,0,0,0,Normal

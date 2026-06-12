@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.13254343282882,0.05649847297704715,False,Right Foot,Open Play,1,0,1,Volley
-25.550146770615623,0.05577132053492338,False,Right Foot,Open Play,0,0,1,Normal
-10.377379245262262,0.05637947328196343,False,Right Foot,Open Play,1,0,4,Half Volley
-25.603515383634335,0.05450405802619219,False,Left Foot,Open Play,0,1,1,Normal
-6.760177512462231,0.058128024227932076,False,Left Foot,Open Play,1,0,2,Half Volley
-27.158792314828727,0.0685253334397326,False,Right Foot,Open Play,0,0,0,Normal
-20.240800379431636,0.05640154036891998,False,Right Foot,Open Play,1,0,0,Half Volley
-13.403357788255894,0.05410054051811217,False,Right Foot,Open Play,1,0,1,Half Volley
-16.36001222493431,0.05551985666417895,False,Left Foot,Open Play,0,0,2,Normal
-9.000000000000005,0.0590251425109317,False,Left Foot,Open Play,1,0,2,Normal
-5.608029957123981,0.05412317617971249,True,Right Foot,Open Play,1,0,1,Normal
-18.95098942008042,0.054961814026844365,True,Right Foot,Open Play,1,0,0,Normal
-20.44015655517345,0.05330854853119616,False,Right Foot,Open Play,0,0,1,Normal
-11.970797801316333,0.060897261639944585,False,Right Foot,Open Play,0,0,2,Normal
-35.12406582387638,0.04741466747912937,False,Left Foot,Free Kick,0,0,0,Normal
-6.700746227100381,0.05811304313502442,False,Head,Open Play,0,0,3,Normal
-29.006378608850852,0.06386891082088884,False,Left Foot,Open Play,0,0,2,Normal
-25.439536159293468,0.0693175247347423,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-10.060318086422516,0.0591376538145445,True,Left Foot,Open Play,1,0,2,Half Volley
-14.177799547179381,0.05739015088519285,False,Right Foot,Open Play,1,0,1,Normal
-33.74685170501095,0.0753942851655509,False,Right Foot,Open Play,0,0,2,Normal
-30.556505035753027,0.07298848267385079,False,Right Foot,Open Play,0,0,0,Normal
-12.4310096130604,0.05793117129371364,False,Left Foot,Open Play,1,0,1,Half Volley
-35.403530897355424,0.05107545259767628,False,Left Foot,Free Kick,0,0,0,Normal
-11.700427342623007,0.05943049385923767,False,Left Foot,Penalty,0,0,0,Normal
-23.78949347926517,0.06293832780348411,False,Left Foot,Open Play,0,0,2,Normal
-14.764823060233395,0.061523245786695636,False,Head,Open Play,0,0,3,Normal
-25.9268200904006,0.054986205955045137,False,Right Foot,Open Play,0,0,3,Normal
-29.83035366870464,0.06409005364943414,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788758,Oleksandr Karavaev,Ukraine,28.13254343282882,0.05649847297704715,False,Right Foot,Open Play,1,0,1,Volley
+3788758,Andriy Yarmolenko,Ukraine,25.550146770615623,0.05577132053492338,False,Right Foot,Open Play,0,0,1,Normal
+3788758,Illia Zabarnyi,Ukraine,10.377379245262262,0.05637947328196343,False,Right Foot,Open Play,1,0,4,Half Volley
+3788758,Ruslan Malinovskiy,Ukraine,25.603515383634335,0.05450405802619219,False,Left Foot,Open Play,0,1,1,Normal
+3788758,Andriy Yarmolenko,Ukraine,6.760177512462231,0.058128024227932076,False,Left Foot,Open Play,1,0,2,Half Volley
+3788758,Enis Bardhi,North Macedonia,27.158792314828727,0.0685253334397326,False,Right Foot,Open Play,0,0,0,Normal
+3788758,Boban Nikolov,North Macedonia,20.240800379431636,0.05640154036891998,False,Right Foot,Open Play,1,0,0,Half Volley
+3788758,Eljif Elmas,North Macedonia,13.403357788255894,0.05410054051811217,False,Right Foot,Open Play,1,0,1,Half Volley
+3788758,Andriy Yarmolenko,Ukraine,16.36001222493431,0.05551985666417895,False,Left Foot,Open Play,0,0,2,Normal
+3788758,Andriy Yarmolenko,Ukraine,9.000000000000005,0.0590251425109317,False,Left Foot,Open Play,1,0,2,Normal
+3788758,Andriy Yarmolenko,Ukraine,5.608029957123981,0.05412317617971249,True,Right Foot,Open Play,1,0,1,Normal
+3788758,Roman Yaremchuk,Ukraine,18.95098942008042,0.054961814026844365,True,Right Foot,Open Play,1,0,0,Normal
+3788758,Oleksandr Karavaev,Ukraine,20.44015655517345,0.05330854853119616,False,Right Foot,Open Play,0,0,1,Normal
+3788758,Arijan Ademi,North Macedonia,11.970797801316333,0.060897261639944585,False,Right Foot,Open Play,0,0,2,Normal
+3788758,Ruslan Malinovskiy,Ukraine,35.12406582387638,0.04741466747912937,False,Left Foot,Free Kick,0,0,0,Normal
+3788758,Illia Zabarnyi,Ukraine,6.700746227100381,0.05811304313502442,False,Head,Open Play,0,0,3,Normal
+3788758,Eljif Elmas,North Macedonia,29.006378608850852,0.06386891082088884,False,Left Foot,Open Play,0,0,2,Normal
+3788758,Aleksandar Trajkovski,North Macedonia,25.439536159293468,0.0693175247347423,False,Right Foot,Open Play,0,0,1,Normal
+3788758,Ezgjan Alioski,North Macedonia,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+3788758,Ezgjan Alioski,North Macedonia,10.060318086422516,0.0591376538145445,True,Left Foot,Open Play,1,0,2,Half Volley
+3788758,Ruslan Malinovskiy,Ukraine,14.177799547179381,0.05739015088519285,False,Right Foot,Open Play,1,0,1,Normal
+3788758,Aleksandar Trajkovski,North Macedonia,33.74685170501095,0.0753942851655509,False,Right Foot,Open Play,0,0,2,Normal
+3788758,Enis Bardhi,North Macedonia,30.556505035753027,0.07298848267385079,False,Right Foot,Open Play,0,0,0,Normal
+3788758,Viktor Tsygankov,Ukraine,12.4310096130604,0.05793117129371364,False,Left Foot,Open Play,1,0,1,Half Volley
+3788758,Ruslan Malinovskiy,Ukraine,35.403530897355424,0.05107545259767628,False,Left Foot,Free Kick,0,0,0,Normal
+3788758,Ruslan Malinovskiy,Ukraine,11.700427342623007,0.05943049385923767,False,Left Foot,Penalty,0,0,0,Normal
+3788758,Ruslan Malinovskiy,Ukraine,23.78949347926517,0.06293832780348411,False,Left Foot,Open Play,0,0,2,Normal
+3788758,Daniel Avramovski,North Macedonia,14.764823060233395,0.061523245786695636,False,Head,Open Play,0,0,3,Normal
+3788758,Aleksandar Trajkovski,North Macedonia,25.9268200904006,0.054986205955045137,False,Right Foot,Open Play,0,0,3,Normal
+3788758,Aleksandar Trajkovski,North Macedonia,29.83035366870464,0.06409005364943414,False,Right Foot,Open Play,1,0,2,Half Volley

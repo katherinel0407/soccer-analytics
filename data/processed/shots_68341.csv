@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-38.38137569186389,0.06692856959324403,True,Right Foot,Open Play,0,0,1,Normal
-21.18962010041709,0.0527119077236705,False,Right Foot,Open Play,0,0,1,Normal
-8.860022573334673,0.058315595777932126,False,Head,Open Play,0,0,1,Normal
-14.557815770231468,0.05446732657235333,False,Right Foot,Open Play,0,0,3,Normal
-38.739772843939086,0.07832865364880146,False,Left Foot,Open Play,0,0,0,Normal
-9.749871794028879,0.057195781179565,False,Right Foot,Open Play,1,0,0,Normal
-23.747420912595956,0.0587734090795435,False,Left Foot,Open Play,0,0,2,Normal
-20.223253941935262,0.059140519650427756,False,Left Foot,Open Play,1,0,0,Normal
-27.74617090699184,0.06759278828505487,False,Left Foot,Open Play,0,0,2,Normal
-19.602295783912663,0.05524097607296871,False,Left Foot,Open Play,0,0,2,Normal
-13.008458786497341,0.05387872763357446,True,Right Foot,Open Play,0,0,3,Lob
-10.300485425454466,0.0544654092986263,False,Right Foot,Open Play,0,0,3,Normal
-9.786214794291,0.05268222231438924,True,Right Foot,Open Play,1,0,0,Volley
-33.7249166047894,0.06795908302126383,False,Left Foot,Open Play,0,0,1,Normal
-20.734753434752967,0.057395860496185745,False,Right Foot,Open Play,1,0,0,Normal
-23.2606964642076,0.06768865441437541,False,Right Foot,Open Play,0,0,1,Normal
-11.800423721205945,0.05807378021117247,False,Head,Open Play,0,1,4,Normal
-30.419894805866775,0.06748534132131155,False,Right Foot,Open Play,1,0,0,Normal
-27.36457564078054,0.07048351991213268,False,Right Foot,Open Play,0,0,2,Normal
-28.52823163114041,0.06129411681615428,False,Right Foot,Open Play,0,0,2,Normal
-13.892443989449804,0.06101605530510962,False,Left Foot,Open Play,0,1,1,Normal
-18.87326150934173,0.05411794326742835,False,Right Foot,Open Play,1,0,0,Volley
-20.525106577068,0.05270829567942942,False,Left Foot,Open Play,0,0,1,Normal
-18.534832073693035,0.06423265622034971,True,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68341,Samuel Eto''o Fils,Barcelona,38.38137569186389,0.06692856959324403,True,Right Foot,Open Play,0,0,1,Normal
+68341,Florent Sinama-Pongolle,Recreativo Huelva,21.18962010041709,0.0527119077236705,False,Right Foot,Open Play,0,0,1,Normal
+68341,Ronaldo de Assis Moreira,Barcelona,8.860022573334673,0.058315595777932126,False,Head,Open Play,0,0,1,Normal
+68341,Samuel Eto''o Fils,Barcelona,14.557815770231468,0.05446732657235333,False,Right Foot,Open Play,0,0,3,Normal
+68341,Aitor Tornavaca Fernández,Recreativo Huelva,38.739772843939086,0.07832865364880146,False,Left Foot,Open Play,0,0,0,Normal
+68341,Rafael Barber Rodríguez,Recreativo Huelva,9.749871794028879,0.057195781179565,False,Right Foot,Open Play,1,0,0,Normal
+68341,Juan Manuel Gómez Sánchez,Recreativo Huelva,23.747420912595956,0.0587734090795435,False,Left Foot,Open Play,0,0,2,Normal
+68341,Antonio Jesús Vázquez Muñoz,Recreativo Huelva,20.223253941935262,0.059140519650427756,False,Left Foot,Open Play,1,0,0,Normal
+68341,Anderson Luís de Souza,Barcelona,27.74617090699184,0.06759278828505487,False,Left Foot,Open Play,0,0,2,Normal
+68341,Lionel Andrés Messi Cuccittini,Barcelona,19.602295783912663,0.05524097607296871,False,Left Foot,Open Play,0,0,2,Normal
+68341,Gianluca Zambrotta,Barcelona,13.008458786497341,0.05387872763357446,True,Right Foot,Open Play,0,0,3,Lob
+68341,Samuel Eto''o Fils,Barcelona,10.300485425454466,0.0544654092986263,False,Right Foot,Open Play,0,0,3,Normal
+68341,Samuel Eto''o Fils,Barcelona,9.786214794291,0.05268222231438924,True,Right Foot,Open Play,1,0,0,Volley
+68341,Antonio Jesús Vázquez Muñoz,Recreativo Huelva,33.7249166047894,0.06795908302126383,False,Left Foot,Open Play,0,0,1,Normal
+68341,Juan Manuel Gómez Sánchez,Recreativo Huelva,20.734753434752967,0.057395860496185745,False,Right Foot,Open Play,1,0,0,Normal
+68341,Aitor Tornavaca Fernández,Recreativo Huelva,23.2606964642076,0.06768865441437541,False,Right Foot,Open Play,0,0,1,Normal
+68341,Ikechukwu Uche,Recreativo Huelva,11.800423721205945,0.05807378021117247,False,Head,Open Play,0,1,4,Normal
+68341,Samuel Eto''o Fils,Barcelona,30.419894805866775,0.06748534132131155,False,Right Foot,Open Play,1,0,0,Normal
+68341,Ikechukwu Uche,Recreativo Huelva,27.36457564078054,0.07048351991213268,False,Right Foot,Open Play,0,0,2,Normal
+68341,Rafael Barber Rodríguez,Recreativo Huelva,28.52823163114041,0.06129411681615428,False,Right Foot,Open Play,0,0,2,Normal
+68341,Ikechukwu Uche,Recreativo Huelva,13.892443989449804,0.06101605530510962,False,Left Foot,Open Play,0,1,1,Normal
+68341,José Manuel González Ortiz,Recreativo Huelva,18.87326150934173,0.05411794326742835,False,Right Foot,Open Play,1,0,0,Volley
+68341,Lionel Andrés Messi Cuccittini,Barcelona,20.525106577068,0.05270829567942942,False,Left Foot,Open Play,0,0,1,Normal
+68341,Lionel Andrés Messi Cuccittini,Barcelona,18.534832073693035,0.06423265622034971,True,Left Foot,Open Play,0,0,2,Normal

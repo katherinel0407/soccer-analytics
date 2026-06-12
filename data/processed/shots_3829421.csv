@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.6209397619988,0.05605861830266944,False,Right Foot,Open Play,1,1,1,Normal
-12.081390648431169,0.06071739067808443,False,Head,Open Play,0,0,1,Normal
-28.53559181092973,0.06109406029074107,False,Left Foot,Open Play,0,0,1,Normal
-7.940403012442132,0.058173615635422796,True,Head,Open Play,0,1,5,Normal
-12.433824833895644,0.06052682406072493,False,Left Foot,Open Play,1,0,1,Half Volley
-32.77575323314477,0.061146826547713334,True,Right Foot,Free Kick,0,0,0,Normal
-17.415510328439986,0.06042704960310031,False,Right Foot,Open Play,0,0,2,Normal
-30.178303464575343,0.07228586979441659,True,Right Foot,Free Kick,0,0,0,Normal
-25.156311335328954,0.05818306740516798,False,Left Foot,Open Play,0,0,1,Normal
-18.681541692269402,0.062168029761518896,False,Right Foot,Open Play,0,0,2,Normal
-21.726711670199883,0.06531925839098995,False,Left Foot,Open Play,0,0,1,Normal
-17.667201249773548,0.056804268530436276,False,Right Foot,Open Play,0,1,1,Normal
-27.353427573157994,0.05975936456012557,False,Right Foot,Open Play,0,0,1,Normal
-16.205246064160825,0.06295426726327236,False,Head,Open Play,0,1,2,Normal
-21.756838005555856,0.06017982437438044,False,Right Foot,Open Play,0,0,4,Normal
-37.48172888221673,0.059594135602457604,False,Right Foot,Open Play,0,0,2,Normal
-15.802847844613327,0.0628682788196544,False,Head,Open Play,0,1,1,Normal
-38.14315141673536,0.07951351893799032,False,Right Foot,Open Play,0,0,2,Normal
-33.008029326210924,0.07388564703197036,False,Right Foot,Open Play,0,0,1,Normal
-13.68539367354845,0.06179303450093754,False,Head,Open Play,0,1,3,Normal
-12.56025477448607,0.059025777614192865,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829421,Wissam Ben Yedder,Toulouse,13.6209397619988,0.05605861830266944,False,Right Foot,Open Play,1,1,1,Normal
+3829421,Jonathan Bamba,Saint-Étienne,12.081390648431169,0.06071739067808443,False,Head,Open Play,0,0,1,Normal
+3829421,Kévin Monnet-Paquet,Saint-Étienne,28.53559181092973,0.06109406029074107,False,Left Foot,Open Play,0,0,1,Normal
+3829421,Loïc Perrin,Saint-Étienne,7.940403012442132,0.058173615635422796,True,Head,Open Play,0,1,5,Normal
+3829421,Martin Braithwaite Christensen,Toulouse,12.433824833895644,0.06052682406072493,False,Left Foot,Open Play,1,0,1,Half Volley
+3829421,Martin Braithwaite Christensen,Toulouse,32.77575323314477,0.061146826547713334,True,Right Foot,Free Kick,0,0,0,Normal
+3829421,Jonathan Bamba,Saint-Étienne,17.415510328439986,0.06042704960310031,False,Right Foot,Open Play,0,0,2,Normal
+3829421,Wissam Ben Yedder,Toulouse,30.178303464575343,0.07228586979441659,True,Right Foot,Free Kick,0,0,0,Normal
+3829421,François Clerc,Saint-Étienne,25.156311335328954,0.05818306740516798,False,Left Foot,Open Play,0,0,1,Normal
+3829421,Martin Braithwaite Christensen,Toulouse,18.681541692269402,0.062168029761518896,False,Right Foot,Open Play,0,0,2,Normal
+3829421,Martin Braithwaite Christensen,Toulouse,21.726711670199883,0.06531925839098995,False,Left Foot,Open Play,0,0,1,Normal
+3829421,Jonathan Bamba,Saint-Étienne,17.667201249773548,0.056804268530436276,False,Right Foot,Open Play,0,1,1,Normal
+3829421,Romain Hamouma,Saint-Étienne,27.353427573157994,0.05975936456012557,False,Right Foot,Open Play,0,0,1,Normal
+3829421,Adrien Regattin,Toulouse,16.205246064160825,0.06295426726327236,False,Head,Open Play,0,1,2,Normal
+3829421,Tongo Hamed Doumbia,Toulouse,21.756838005555856,0.06017982437438044,False,Right Foot,Open Play,0,0,4,Normal
+3829421,Ismaël Tiémoko Diomandé,Saint-Étienne,37.48172888221673,0.059594135602457604,False,Right Foot,Open Play,0,0,2,Normal
+3829421,Nolan Roux,Saint-Étienne,15.802847844613327,0.0628682788196544,False,Head,Open Play,0,1,1,Normal
+3829421,Aleksandar Pešić,Toulouse,38.14315141673536,0.07951351893799032,False,Right Foot,Open Play,0,0,2,Normal
+3829421,Yohan Mollo,Saint-Étienne,33.008029326210924,0.07388564703197036,False,Right Foot,Open Play,0,0,1,Normal
+3829421,Nolan Roux,Saint-Étienne,13.68539367354845,0.06179303450093754,False,Head,Open Play,0,1,3,Normal
+3829421,Kévin Théophile-Catherine,Saint-Étienne,12.56025477448607,0.059025777614192865,False,Head,Open Play,0,0,2,Normal

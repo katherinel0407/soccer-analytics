@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.00657780874821,0.0565688567690372,False,Right Foot,Open Play,1,0,1,Volley
-17.46424919657298,0.06393103316233788,False,Left Foot,Open Play,1,0,2,Normal
-11.597413504743201,0.05990962336621735,False,Left Foot,Open Play,1,0,1,Normal
-24.888752479784916,0.06430416928494374,False,Right Foot,Open Play,1,0,1,Normal
-18.40434731252375,0.05450123354626173,False,Right Foot,Open Play,1,1,2,Normal
-7.454528824815159,0.058003194042621845,False,Head,Open Play,0,0,2,Normal
-16.953170794869024,0.06322929003646179,False,Right Foot,Open Play,0,0,2,Normal
-19.37524193397337,0.06381896060116012,False,Left Foot,Open Play,0,0,1,Normal
-21.270166901084714,0.06625083591546777,False,Right Foot,Open Play,0,0,3,Normal
-17.314156057977527,0.06159060728797355,False,Left Foot,Open Play,0,1,1,Half Volley
-17.608236708995033,0.0608030526682099,False,Right Foot,Open Play,1,0,1,Normal
-22.05175729958953,0.06684304577250161,False,Left Foot,Open Play,0,0,3,Normal
-25.146769176178484,0.06882256215394039,False,Right Foot,Open Play,0,0,2,Normal
-27.247201691182898,0.07017610835675406,False,Right Foot,Open Play,0,0,2,Normal
-7.864477096412707,0.05834823737210683,False,Head,Open Play,0,0,1,Normal
-26.715164233071825,0.06579988788607201,False,Right Foot,Open Play,0,0,1,Normal
-11.353413583587983,0.053917628162827726,False,Right Foot,Open Play,1,0,1,Volley
-19.633135256499408,0.05196447376444692,False,Right Foot,Open Play,0,0,1,Normal
-13.376471881628579,0.05986924581998844,True,Right Foot,Open Play,0,0,2,Normal
-9.679876032264044,0.05966435561725691,False,Head,Open Play,0,0,2,Normal
-20.319940944796073,0.06362173386381924,False,Right Foot,Free Kick,0,0,0,Normal
-10.381233067415453,0.0526776845641139,True,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303470,Karim Benzema,Real Madrid,19.00657780874821,0.0565688567690372,False,Right Foot,Open Play,1,0,1,Volley
+303470,Toni Kroos,Real Madrid,17.46424919657298,0.06393103316233788,False,Left Foot,Open Play,1,0,2,Normal
+303470,Antoine Griezmann,Barcelona,11.597413504743201,0.05990962336621735,False,Left Foot,Open Play,1,0,1,Normal
+303470,Toni Kroos,Real Madrid,24.888752479784916,0.06430416928494374,False,Right Foot,Open Play,1,0,1,Normal
+303470,Lionel Andrés Messi Cuccittini,Barcelona,18.40434731252375,0.05450123354626173,False,Right Foot,Open Play,1,1,2,Normal
+303470,Karim Benzema,Real Madrid,7.454528824815159,0.058003194042621845,False,Head,Open Play,0,0,2,Normal
+303470,Arthur Henrique Ramos de Oliveira Melo,Barcelona,16.953170794869024,0.06322929003646179,False,Right Foot,Open Play,0,0,2,Normal
+303470,Antoine Griezmann,Barcelona,19.37524193397337,0.06381896060116012,False,Left Foot,Open Play,0,0,1,Normal
+303470,Vinícius José Paixão de Oliveira Júnior,Real Madrid,21.270166901084714,0.06625083591546777,False,Right Foot,Open Play,0,0,3,Normal
+303470,Lionel Andrés Messi Cuccittini,Barcelona,17.314156057977527,0.06159060728797355,False,Left Foot,Open Play,0,1,1,Half Volley
+303470,Arturo Erasmo Vidal Pardo,Barcelona,17.608236708995033,0.0608030526682099,False,Right Foot,Open Play,1,0,1,Normal
+303470,Lionel Andrés Messi Cuccittini,Barcelona,22.05175729958953,0.06684304577250161,False,Left Foot,Open Play,0,0,3,Normal
+303470,Francisco Román Alarcón Suárez,Real Madrid,25.146769176178484,0.06882256215394039,False,Right Foot,Open Play,0,0,2,Normal
+303470,Carlos Henrique Casimiro,Real Madrid,27.247201691182898,0.07017610835675406,False,Right Foot,Open Play,0,0,2,Normal
+303470,Francisco Román Alarcón Suárez,Real Madrid,7.864477096412707,0.05834823737210683,False,Head,Open Play,0,0,1,Normal
+303470,Toni Kroos,Real Madrid,26.715164233071825,0.06579988788607201,False,Right Foot,Open Play,0,0,1,Normal
+303470,Karim Benzema,Real Madrid,11.353413583587983,0.053917628162827726,False,Right Foot,Open Play,1,0,1,Volley
+303470,Martin Braithwaite Christensen,Barcelona,19.633135256499408,0.05196447376444692,False,Right Foot,Open Play,0,0,1,Normal
+303470,Vinícius José Paixão de Oliveira Júnior,Real Madrid,13.376471881628579,0.05986924581998844,True,Right Foot,Open Play,0,0,2,Normal
+303470,Gerard Piqué Bernabéu,Barcelona,9.679876032264044,0.05966435561725691,False,Head,Open Play,0,0,2,Normal
+303470,Sergio Ramos García,Real Madrid,20.319940944796073,0.06362173386381924,False,Right Foot,Free Kick,0,0,0,Normal
+303470,Mariano Díaz Mejía,Real Madrid,10.381233067415453,0.0526776845641139,True,Right Foot,Open Play,0,1,2,Normal

@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.132355423880174,0.06530949894283418,False,Right Foot,Free Kick,0,0,0,Normal
-12.050726119201286,0.054782182972075766,False,Right Foot,Open Play,1,0,2,Volley
-16.204937519163717,0.06319547072718759,False,Head,Open Play,0,0,1,Normal
-12.080149005703534,0.056086178882479056,False,Right Foot,Open Play,1,0,2,Half Volley
-13.461797799699715,0.06173436873327511,True,Left Foot,Open Play,0,0,1,Normal
-17.709884245810304,0.06242448495996181,False,Left Foot,Open Play,0,0,2,Normal
-10.11335750381643,0.05698701723253252,False,Left Foot,Open Play,1,0,1,Volley
-23.425200105868893,0.05942327453227888,False,Right Foot,Open Play,1,0,1,Volley
-34.83231258472512,0.07659822089755179,False,Left Foot,Open Play,0,0,2,Normal
-34.08474732193272,0.05799965861175741,False,Left Foot,Open Play,0,0,2,Normal
-21.855205329623416,0.06515972342586211,False,Right Foot,Open Play,0,0,1,Normal
-26.43936459145719,0.06145451737461634,False,Right Foot,Free Kick,0,0,0,Normal
-15.393505123915086,0.057945321566261886,False,Right Foot,Open Play,1,0,2,Half Volley
-19.849433241279208,0.05411083737358477,False,Left Foot,Open Play,0,0,1,Normal
-18.609674903124994,0.05913762309307582,False,Left Foot,Open Play,0,1,3,Normal
-11.370136322841516,0.0605448432192786,False,Left Foot,Open Play,1,0,1,Half Volley
-27.99589255587326,0.049801423225991216,False,Left Foot,Free Kick,0,0,0,Normal
-9.767292357659818,0.0592037065187184,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879852,Aleksandar Trajkovski,Palermo,26.132355423880174,0.06530949894283418,False,Right Foot,Free Kick,0,0,0,Normal
+3879852,Fabio Quagliarella,Sampdoria,12.050726119201286,0.054782182972075766,False,Right Foot,Open Play,1,0,2,Volley
+3879852,Oscar Hiljemark,Palermo,16.204937519163717,0.06319547072718759,False,Head,Open Play,0,0,1,Normal
+3879852,Fabio Quagliarella,Sampdoria,12.080149005703534,0.056086178882479056,False,Right Foot,Open Play,1,0,2,Half Volley
+3879852,Franco Damián Vázquez,Palermo,13.461797799699715,0.06173436873327511,True,Left Foot,Open Play,0,0,1,Normal
+3879852,Ricardo Gabriel Álvarez,Sampdoria,17.709884245810304,0.06242448495996181,False,Left Foot,Open Play,0,0,2,Normal
+3879852,Lorenzo De Silvestri,Sampdoria,10.11335750381643,0.05698701723253252,False,Left Foot,Open Play,1,0,1,Volley
+3879852,Roberto Soriano,Sampdoria,23.425200105868893,0.05942327453227888,False,Right Foot,Open Play,1,0,1,Volley
+3879852,Ricardo Gabriel Álvarez,Sampdoria,34.83231258472512,0.07659822089755179,False,Left Foot,Open Play,0,0,2,Normal
+3879852,Ricardo Gabriel Álvarez,Sampdoria,34.08474732193272,0.05799965861175741,False,Left Foot,Open Play,0,0,2,Normal
+3879852,Michel Morganella,Palermo,21.855205329623416,0.06515972342586211,False,Right Foot,Open Play,0,0,1,Normal
+3879852,Enzo Maresca,Palermo,26.43936459145719,0.06145451737461634,False,Right Foot,Free Kick,0,0,0,Normal
+3879852,Enzo Maresca,Palermo,15.393505123915086,0.057945321566261886,False,Right Foot,Open Play,1,0,2,Half Volley
+3879852,Franco Damián Vázquez,Palermo,19.849433241279208,0.05411083737358477,False,Left Foot,Open Play,0,0,1,Normal
+3879852,Franco Damián Vázquez,Palermo,18.609674903124994,0.05913762309307582,False,Left Foot,Open Play,0,1,3,Normal
+3879852,Alberto Gilardino,Palermo,11.370136322841516,0.0605448432192786,False,Left Foot,Open Play,1,0,1,Half Volley
+3879852,Franco Damián Vázquez,Palermo,27.99589255587326,0.049801423225991216,False,Left Foot,Free Kick,0,0,0,Normal
+3879852,Luis Fernando Muriel Fruto,Sampdoria,9.767292357659818,0.0592037065187184,False,Head,Open Play,0,1,4,Normal

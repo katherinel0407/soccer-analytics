@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.443091742689013,0.06595402198914514,False,Left Foot,Open Play,0,0,4,Normal
-30.948344059093046,0.0593387048126068,False,Left Foot,Open Play,0,0,0,Normal
-17.607100840286005,0.06384110698162974,False,Left Foot,Open Play,1,0,0,Volley
-15.768639763784323,0.06282895927907718,False,Right Foot,Open Play,1,0,2,Normal
-20.22992832414391,0.06564544950831959,False,Left Foot,Open Play,1,0,1,Volley
-17.608236708995022,0.06344261468276971,False,Right Foot,Open Play,0,0,1,Normal
-8.170679286326193,0.05874614964744566,True,Right Foot,Open Play,0,0,2,Normal
-17.97386992275175,0.06359781832150568,False,Right Foot,Open Play,0,0,3,Normal
-11.833004690272036,0.05287362745056463,False,Right Foot,Open Play,0,0,2,Normal
-15.640012787718556,0.05621532304325431,False,Right Foot,Open Play,0,0,2,Normal
-24.525293066546627,0.06866463173232508,False,Left Foot,Open Play,0,0,1,Normal
-16.6012047755577,0.06148701382474527,False,Right Foot,Open Play,1,0,2,Normal
-19.051771571168917,0.06359328686604575,True,Left Foot,Open Play,1,0,1,Normal
-17.14671980292441,0.06295590444963761,False,Left Foot,Open Play,1,0,1,Normal
-18.59462287867113,0.05947428747447618,False,Left Foot,Open Play,1,0,1,Normal
-20.858571379651103,0.06620415668869685,False,Left Foot,Open Play,0,0,1,Normal
-17.18138527593162,0.06017894613854343,False,Left Foot,Open Play,0,0,0,Normal
-8.919641248391098,0.055422323596462486,False,Head,Open Play,0,0,5,Normal
-27.701624501101012,0.0709423320919069,False,Left Foot,Open Play,0,0,2,Normal
-17.557049866079435,0.06363671535036812,False,Right Foot,Open Play,0,0,3,Normal
-14.431216164966832,0.055348644466479184,True,Right Foot,Open Play,0,0,0,Normal
-9.529428104561159,0.056585290620511576,False,Head,Open Play,0,1,1,Normal
-15.880806024884247,0.06314027643215507,False,Left Foot,Open Play,1,0,2,Normal
-9.580187889597987,0.05290348728658846,False,Right Foot,Open Play,0,0,1,Normal
-6.072890580275587,0.05763720532806905,False,Head,Open Play,0,0,4,Normal
-9.827003612495515,0.05787734654946387,False,Right Foot,Open Play,0,0,1,Normal
-13.929106216839608,0.061991298682386266,False,Head,Open Play,0,1,3,Normal
-24.865437860612875,0.06882978731238083,False,Left Foot,Open Play,1,0,2,Normal
-25.404920783186874,0.06587928417638131,False,Right Foot,Open Play,1,0,0,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266989,Luciano Vietto,Sevilla,20.443091742689013,0.06595402198914514,False,Left Foot,Open Play,0,0,4,Normal
+266989,Franco Damián Vázquez,Sevilla,30.948344059093046,0.0593387048126068,False,Left Foot,Open Play,0,0,0,Normal
+266989,Franco Damián Vázquez,Sevilla,17.607100840286005,0.06384110698162974,False,Left Foot,Open Play,1,0,0,Volley
+266989,Luis Alberto Suárez Díaz,Barcelona,15.768639763784323,0.06282895927907718,False,Right Foot,Open Play,1,0,2,Normal
+266989,Sergio Escudero Palomo,Sevilla,20.22992832414391,0.06564544950831959,False,Left Foot,Open Play,1,0,1,Volley
+266989,Víctor Machín Pérez,Sevilla,17.608236708995022,0.06344261468276971,False,Right Foot,Open Play,0,0,1,Normal
+266989,Víctor Machín Pérez,Sevilla,8.170679286326193,0.05874614964744566,True,Right Foot,Open Play,0,0,2,Normal
+266989,Denis Suárez Fernández,Barcelona,17.97386992275175,0.06359781832150568,False,Right Foot,Open Play,0,0,3,Normal
+266989,Luciano Vietto,Sevilla,11.833004690272036,0.05287362745056463,False,Right Foot,Open Play,0,0,2,Normal
+266989,Pablo Sarabia García,Sevilla,15.640012787718556,0.05621532304325431,False,Right Foot,Open Play,0,0,2,Normal
+266989,Lionel Andrés Messi Cuccittini,Barcelona,24.525293066546627,0.06866463173232508,False,Left Foot,Open Play,0,0,1,Normal
+266989,Víctor Machín Pérez,Sevilla,16.6012047755577,0.06148701382474527,False,Right Foot,Open Play,1,0,2,Normal
+266989,Lionel Andrés Messi Cuccittini,Barcelona,19.051771571168917,0.06359328686604575,True,Left Foot,Open Play,1,0,1,Normal
+266989,Samir Nasri,Sevilla,17.14671980292441,0.06295590444963761,False,Left Foot,Open Play,1,0,1,Normal
+266989,Ivan Rakitić,Barcelona,18.59462287867113,0.05947428747447618,False,Left Foot,Open Play,1,0,1,Normal
+266989,Lionel Andrés Messi Cuccittini,Barcelona,20.858571379651103,0.06620415668869685,False,Left Foot,Open Play,0,0,1,Normal
+266989,Lionel Andrés Messi Cuccittini,Barcelona,17.18138527593162,0.06017894613854343,False,Left Foot,Open Play,0,0,0,Normal
+266989,Ivan Rakitić,Barcelona,8.919641248391098,0.055422323596462486,False,Head,Open Play,0,0,5,Normal
+266989,Sergio Escudero Palomo,Sevilla,27.701624501101012,0.0709423320919069,False,Left Foot,Open Play,0,0,2,Normal
+266989,Lionel Andrés Messi Cuccittini,Barcelona,17.557049866079435,0.06363671535036812,False,Right Foot,Open Play,0,0,3,Normal
+266989,Luis Alberto Suárez Díaz,Barcelona,14.431216164966832,0.055348644466479184,True,Right Foot,Open Play,0,0,0,Normal
+266989,Luciano Vietto,Sevilla,9.529428104561159,0.056585290620511576,False,Head,Open Play,0,1,1,Normal
+266989,Sergio Escudero Palomo,Sevilla,15.880806024884247,0.06314027643215507,False,Left Foot,Open Play,1,0,2,Normal
+266989,Luis Alberto Suárez Díaz,Barcelona,9.580187889597987,0.05290348728658846,False,Right Foot,Open Play,0,0,1,Normal
+266989,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,6.072890580275587,0.05763720532806905,False,Head,Open Play,0,0,4,Normal
+266989,Luis Alberto Suárez Díaz,Barcelona,9.827003612495515,0.05787734654946387,False,Right Foot,Open Play,0,0,1,Normal
+266989,Lionel Andrés Messi Cuccittini,Barcelona,13.929106216839608,0.061991298682386266,False,Head,Open Play,0,1,3,Normal
+266989,Samuel Yves Umtiti,Barcelona,24.865437860612875,0.06882978731238083,False,Left Foot,Open Play,1,0,2,Normal
+266989,Víctor Machín Pérez,Sevilla,25.404920783186874,0.06587928417638131,False,Right Foot,Open Play,1,0,0,Volley

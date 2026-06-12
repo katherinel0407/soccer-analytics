@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.39459831515124,0.07458017047510224,False,Right Foot,Open Play,0,0,1,Volley
-16.776471619503315,0.06349449481883859,False,Left Foot,Open Play,0,0,2,Half Volley
-27.04163456597992,0.055253704435001605,False,Right Foot,Free Kick,0,0,0,Normal
-12.397580409095957,0.058645884989000266,False,Head,Open Play,0,0,1,Normal
-12.940247292845688,0.06106578172428145,True,Right Foot,Open Play,1,0,2,Normal
-24.420073709962466,0.06847335778041176,False,Right Foot,Open Play,0,0,2,Normal
-38.60323820614016,0.07207430846840966,False,Right Foot,Free Kick,0,0,0,Normal
-20.799278833651908,0.06587051146174454,False,Right Foot,Open Play,1,0,1,Normal
-33.266199061509866,0.07193883087675143,False,Right Foot,Open Play,0,0,1,Normal
-14.22743827960607,0.06169528321454645,False,Right Foot,Open Play,0,0,1,Normal
-24.529370150902775,0.06461198784680487,False,Right Foot,Open Play,1,0,0,Volley
-12.949517365523702,0.055427026894735505,False,Right Foot,Open Play,1,0,2,Normal
-22.886240407720965,0.06755794560021089,False,Right Foot,Open Play,0,0,1,Normal
-26.300570336021238,0.05555330365246384,False,Left Foot,Open Play,1,0,1,Normal
-18.427153876819943,0.06278311526049635,False,Right Foot,Open Play,0,0,1,Normal
-14.235167719419398,0.06089941430401763,False,Right Foot,Open Play,0,0,1,Half Volley
-10.92748827498799,0.056669458090078756,False,Left Foot,Open Play,1,0,3,Half Volley
-23.23122898169617,0.06762439769728505,False,Left Foot,Open Play,1,0,1,Normal
-17.331185764395933,0.054747742893230034,False,Right Foot,Open Play,1,0,1,Normal
-13.228000604777732,0.05963888534244416,False,Left Foot,Open Play,1,0,1,Normal
-27.56555822035897,0.06565317415265672,False,Left Foot,Open Play,0,0,1,Normal
-17.30028901492689,0.0634378417125157,True,Left Foot,Open Play,0,0,1,Normal
-36.29944903163131,0.06855636154171962,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749522,Colin Cameron,Wolverhampton Wanderers,32.39459831515124,0.07458017047510224,False,Right Foot,Open Play,0,0,1,Volley
+3749522,Thierry Henry,Arsenal,16.776471619503315,0.06349449481883859,False,Left Foot,Open Play,0,0,2,Half Volley
+3749522,Thierry Henry,Arsenal,27.04163456597992,0.055253704435001605,False,Right Foot,Free Kick,0,0,0,Normal
+3749522,Fredrik Ljungberg,Arsenal,12.397580409095957,0.058645884989000266,False,Head,Open Play,0,0,1,Normal
+3749522,Thierry Henry,Arsenal,12.940247292845688,0.06106578172428145,True,Right Foot,Open Play,1,0,2,Normal
+3749522,Dennis Bergkamp,Arsenal,24.420073709962466,0.06847335778041176,False,Right Foot,Open Play,0,0,2,Normal
+3749522,Thierry Henry,Arsenal,38.60323820614016,0.07207430846840966,False,Right Foot,Free Kick,0,0,0,Normal
+3749522,Kenny Miller,Wolverhampton Wanderers,20.799278833651908,0.06587051146174454,False,Right Foot,Open Play,1,0,1,Normal
+3749522,Ray Parlour,Arsenal,33.266199061509866,0.07193883087675143,False,Right Foot,Open Play,0,0,1,Normal
+3749522,Dennis Bergkamp,Arsenal,14.22743827960607,0.06169528321454645,False,Right Foot,Open Play,0,0,1,Normal
+3749522,Henri Camara,Wolverhampton Wanderers,24.529370150902775,0.06461198784680487,False,Right Foot,Open Play,1,0,0,Volley
+3749522,Jody Craddock,Wolverhampton Wanderers,12.949517365523702,0.055427026894735505,False,Right Foot,Open Play,1,0,2,Normal
+3749522,Robert Pirès,Arsenal,22.886240407720965,0.06755794560021089,False,Right Foot,Open Play,0,0,1,Normal
+3749522,Mark Kennedy,Wolverhampton Wanderers,26.300570336021238,0.05555330365246384,False,Left Foot,Open Play,1,0,1,Normal
+3749522,Dennis Bergkamp,Arsenal,18.427153876819943,0.06278311526049635,False,Right Foot,Open Play,0,0,1,Normal
+3749522,Sulzeer Jeremiah ''Sol' Campbell,Arsenal,14.235167719419398,0.06089941430401763,False,Right Foot,Open Play,0,0,1,Half Volley
+3749522,Sulzeer Jeremiah ''Sol' Campbell,Arsenal,10.92748827498799,0.056669458090078756,False,Left Foot,Open Play,1,0,3,Half Volley
+3749522,Paul Ince,Wolverhampton Wanderers,23.23122898169617,0.06762439769728505,False,Left Foot,Open Play,1,0,1,Normal
+3749522,Dennis Bergkamp,Arsenal,17.331185764395933,0.054747742893230034,False,Right Foot,Open Play,1,0,1,Normal
+3749522,Jérémie Aliadière,Arsenal,13.228000604777732,0.05963888534244416,False,Left Foot,Open Play,1,0,1,Normal
+3749522,Eduardo César Daude Gaspar,Arsenal,27.56555822035897,0.06565317415265672,False,Left Foot,Open Play,0,0,1,Normal
+3749522,Thierry Henry,Arsenal,17.30028901492689,0.0634378417125157,True,Left Foot,Open Play,0,0,1,Normal
+3749522,Lee Naylor,Wolverhampton Wanderers,36.29944903163131,0.06855636154171962,False,Left Foot,Free Kick,0,0,0,Normal

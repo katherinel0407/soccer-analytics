@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.698067542647557,0.06477898177393905,False,Right Foot,Open Play,1,1,1,Half Volley
-24.768124676688785,0.06881015157943499,False,Right Foot,Open Play,0,0,3,Normal
-28.54645336990219,0.07112863622215645,False,Right Foot,Free Kick,0,0,0,Normal
-9.075791976461332,0.05721426482783518,False,Head,Open Play,0,0,2,Normal
-34.53056616969957,0.0682768156383702,False,Right Foot,Open Play,0,0,0,Normal
-20.72414051293805,0.0629692127319071,False,Left Foot,Open Play,0,1,2,Half Volley
-25.9724854413281,0.06068612826690267,False,Left Foot,Open Play,0,1,1,Normal
-32.909725006447566,0.069874661807846,False,Right Foot,Open Play,0,0,0,Half Volley
-40.20572098594924,0.056469800831368225,False,Right Foot,Open Play,0,0,2,Half Volley
-19.4,0.054357094247141045,False,Right Foot,Open Play,1,0,2,Normal
-6.438167441127955,0.057096856166154016,False,Right Foot,Open Play,1,0,3,Volley
-4.5343136195018525,0.056976601347909196,True,Right Foot,Open Play,1,0,2,Half Volley
-9.377632963600146,0.059370072627504926,False,Right Foot,Open Play,0,1,4,Normal
-11.943617542436632,0.05859790712154858,False,Left Foot,Open Play,1,0,2,Normal
-39.81017457886865,0.07373426503098525,False,Left Foot,Open Play,0,0,0,Normal
-6.463745044476924,0.05778377766861416,False,Head,Open Play,0,0,5,Normal
-30.548649724660507,0.06180526504182768,True,Right Foot,Free Kick,0,0,0,Normal
-18.042172818150263,0.05721343923879074,True,Right Foot,Open Play,0,1,1,Normal
-16.949926253526886,0.06282837414825829,False,Right Foot,Open Play,0,0,1,Normal
-10.245974819410788,0.05698889437007297,True,Right Foot,Open Play,1,0,1,Half Volley
-4.341658669218477,0.05672674247599761,True,Right Foot,Open Play,1,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901225,Mathieu Valbuena,Lyon,20.698067542647557,0.06477898177393905,False,Right Foot,Open Play,1,1,1,Half Volley
+3901225,Martin Braithwaite Christensen,Toulouse,24.768124676688785,0.06881015157943499,False,Right Foot,Open Play,0,0,3,Normal
+3901225,Mathieu Valbuena,Lyon,28.54645336990219,0.07112863622215645,False,Right Foot,Free Kick,0,0,0,Normal
+3901225,Tongo Hamed Doumbia,Toulouse,9.075791976461332,0.05721426482783518,False,Head,Open Play,0,0,2,Normal
+3901225,Corentin Tolisso,Lyon,34.53056616969957,0.0682768156383702,False,Right Foot,Open Play,0,0,0,Normal
+3901225,Rachid Ghezzal,Lyon,20.72414051293805,0.0629692127319071,False,Left Foot,Open Play,0,1,2,Half Volley
+3901225,Rafael Pereira da Silva,Lyon,25.9724854413281,0.06068612826690267,False,Left Foot,Open Play,0,1,1,Normal
+3901225,Alexis Blin,Toulouse,32.909725006447566,0.069874661807846,False,Right Foot,Open Play,0,0,0,Half Volley
+3901225,Tongo Hamed Doumbia,Toulouse,40.20572098594924,0.056469800831368225,False,Right Foot,Open Play,0,0,2,Half Volley
+3901225,Wissam Ben Yedder,Toulouse,19.4,0.054357094247141045,False,Right Foot,Open Play,1,0,2,Normal
+3901225,Tongo Hamed Doumbia,Toulouse,6.438167441127955,0.057096856166154016,False,Right Foot,Open Play,1,0,3,Volley
+3901225,Marcel Tisserand,Toulouse,4.5343136195018525,0.056976601347909196,True,Right Foot,Open Play,1,0,2,Half Volley
+3901225,Corentin Tolisso,Lyon,9.377632963600146,0.059370072627504926,False,Right Foot,Open Play,0,1,4,Normal
+3901225,Rafael Pereira da Silva,Lyon,11.943617542436632,0.05859790712154858,False,Left Foot,Open Play,1,0,2,Normal
+3901225,Samuel Yves Umtiti,Lyon,39.81017457886865,0.07373426503098525,False,Left Foot,Open Play,0,0,0,Normal
+3901225,Mapou Yanga-Mbiwa,Lyon,6.463745044476924,0.05778377766861416,False,Head,Open Play,0,0,5,Normal
+3901225,Clément Grenier,Lyon,30.548649724660507,0.06180526504182768,True,Right Foot,Free Kick,0,0,0,Normal
+3901225,Alexandre Lacazette,Lyon,18.042172818150263,0.05721343923879074,True,Right Foot,Open Play,0,1,1,Normal
+3901225,Martin Braithwaite Christensen,Toulouse,16.949926253526886,0.06282837414825829,False,Right Foot,Open Play,0,0,1,Normal
+3901225,Wissam Ben Yedder,Toulouse,10.245974819410788,0.05698889437007297,True,Right Foot,Open Play,1,0,1,Half Volley
+3901225,Corentin Tolisso,Lyon,4.341658669218477,0.05672674247599761,True,Right Foot,Open Play,1,1,4,Normal

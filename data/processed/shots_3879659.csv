@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.120986138138658,0.058659713522728786,True,Right Foot,Open Play,1,0,0,Normal
-22.68082890901476,0.05537248247970872,False,Right Foot,Open Play,1,0,0,Volley
-21.251352898109797,0.060034176852746444,False,Left Foot,Open Play,0,1,1,Half Volley
-28.142672225643388,0.06951158832324797,False,Left Foot,Open Play,0,0,2,Normal
-28.03711825420009,0.07054212185028269,False,Right Foot,Free Kick,0,0,0,Normal
-11.963277142990547,0.05451016142866139,False,Right Foot,Open Play,1,0,2,Normal
-23.12768903284546,0.06721123658277094,False,Right Foot,Open Play,1,0,3,Normal
-11.90378091196239,0.05424078085874823,False,Left Foot,Open Play,1,0,4,Normal
-18.708554193202637,0.06422928370663311,True,Right Foot,Open Play,0,0,3,Normal
-20.739575694791835,0.06108358348426484,False,Right Foot,Free Kick,0,0,0,Normal
-10.916501271011704,0.059342933189250435,False,Head,Open Play,0,1,3,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-7.788452991448302,0.058423707686038356,True,Left Foot,Open Play,1,0,0,Half Volley
-10.817116066678771,0.05805262163342614,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879659,Antonio Candreva,Lazio,23.120986138138658,0.058659713522728786,True,Right Foot,Open Play,1,0,0,Normal
+3879659,Antonio Candreva,Lazio,22.68082890901476,0.05537248247970872,False,Right Foot,Open Play,1,0,0,Volley
+3879659,Ivan Perišić,Inter Milan,21.251352898109797,0.060034176852746444,False,Left Foot,Open Play,0,1,1,Half Volley
+3879659,Sergej Milinković-Savić,Lazio,28.142672225643388,0.06951158832324797,False,Left Foot,Open Play,0,0,2,Normal
+3879659,Stevan Jovetić,Inter Milan,28.03711825420009,0.07054212185028269,False,Right Foot,Free Kick,0,0,0,Normal
+3879659,Antonio Candreva,Lazio,11.963277142990547,0.05451016142866139,False,Right Foot,Open Play,1,0,2,Normal
+3879659,Jonathan Ludovic Biabiany,Inter Milan,23.12768903284546,0.06721123658277094,False,Right Foot,Open Play,1,0,3,Normal
+3879659,Alex Nicolao Telles,Inter Milan,11.90378091196239,0.05424078085874823,False,Left Foot,Open Play,1,0,4,Normal
+3879659,Mauro Emanuel Icardi Rivero,Inter Milan,18.708554193202637,0.06422928370663311,True,Right Foot,Open Play,0,0,3,Normal
+3879659,Antonio Candreva,Lazio,20.739575694791835,0.06108358348426484,False,Right Foot,Free Kick,0,0,0,Normal
+3879659,Ivan Perišić,Inter Milan,10.916501271011704,0.059342933189250435,False,Head,Open Play,0,1,3,Normal
+3879659,Antonio Candreva,Lazio,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3879659,Antonio Candreva,Lazio,7.788452991448302,0.058423707686038356,True,Left Foot,Open Play,1,0,0,Half Volley
+3879659,Mauro Emanuel Icardi Rivero,Inter Milan,10.817116066678771,0.05805262163342614,False,Head,Open Play,0,1,4,Normal

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.098675438593945,0.06257906898555171,True,Right Foot,Open Play,0,0,2,Normal
-15.562133529821674,0.054877070316259116,False,Left Foot,Open Play,0,0,2,Normal
-24.28600419995022,0.06832930535354315,False,Right Foot,Open Play,0,0,3,Normal
-27.702707448911923,0.061304568591412714,False,Left Foot,Open Play,0,0,1,Normal
-10.480935072788121,0.05847422907063593,False,Head,Open Play,0,1,3,Normal
-15.670673246545595,0.05674057523983114,False,Head,Open Play,0,0,2,Normal
-8.631338250816034,0.05864599327317069,False,Head,Open Play,0,1,3,Normal
-7.736924453553884,0.05860501454360772,False,Right Foot,Open Play,1,0,2,Half Volley
-21.284031572989168,0.054731893175299556,False,Right Foot,Open Play,1,0,1,Normal
-7.60065786626394,0.05782641866718528,False,Head,Open Play,0,1,2,Normal
-13.623509092741124,0.05573225277235513,False,Right Foot,Open Play,0,0,1,Normal
-19.743606560099398,0.055229935065283745,False,Left Foot,Open Play,0,0,1,Normal
-28.622543562723422,0.07159114966615016,False,Right Foot,Open Play,0,0,0,Normal
-22.737853900489373,0.06312456549193343,False,Left Foot,Open Play,0,0,1,Normal
-33.23386826717588,0.06043562163318416,False,Right Foot,Open Play,0,0,1,Normal
-13.315404612703286,0.05950079109802689,False,Head,Open Play,0,1,3,Normal
-7.910120100226044,0.05778276097471377,False,Head,Open Play,0,0,4,Normal
-11.739250401963492,0.05770130278140308,True,Right Foot,Open Play,0,0,1,Normal
-19.404123273160277,0.06264763399943962,False,Left Foot,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879690,Carlos Arturo Bacca Ahumada,AC Milan,15.098675438593945,0.06257906898555171,True,Right Foot,Open Play,0,0,2,Normal
+3879690,Federico Bernardeschi,Fiorentina,15.562133529821674,0.054877070316259116,False,Left Foot,Open Play,0,0,2,Normal
+3879690,Mario Suárez Mata,Fiorentina,24.28600419995022,0.06832930535354315,False,Right Foot,Open Play,0,0,3,Normal
+3879690,Josip Iličić,Fiorentina,27.702707448911923,0.061304568591412714,False,Left Foot,Open Play,0,0,1,Normal
+3879690,Nikola Kalinić,Fiorentina,10.480935072788121,0.05847422907063593,False,Head,Open Play,0,1,3,Normal
+3879690,Nenad Tomović,Fiorentina,15.670673246545595,0.05674057523983114,False,Head,Open Play,0,0,2,Normal
+3879690,Nikola Kalinić,Fiorentina,8.631338250816034,0.05864599327317069,False,Head,Open Play,0,1,3,Normal
+3879690,Davide Astori,Fiorentina,7.736924453553884,0.05860501454360772,False,Right Foot,Open Play,1,0,2,Half Volley
+3879690,Nikola Kalinić,Fiorentina,21.284031572989168,0.054731893175299556,False,Right Foot,Open Play,1,0,1,Normal
+3879690,Nikola Kalinić,Fiorentina,7.60065786626394,0.05782641866718528,False,Head,Open Play,0,1,2,Normal
+3879690,Luca Antonelli,AC Milan,13.623509092741124,0.05573225277235513,False,Right Foot,Open Play,0,0,1,Normal
+3879690,Federico Bernardeschi,Fiorentina,19.743606560099398,0.055229935065283745,False,Left Foot,Open Play,0,0,1,Normal
+3879690,Borja Valero Iglesias,Fiorentina,28.622543562723422,0.07159114966615016,False,Right Foot,Open Play,0,0,0,Normal
+3879690,Keisuke Honda,AC Milan,22.737853900489373,0.06312456549193343,False,Left Foot,Open Play,0,0,1,Normal
+3879690,Facundo Sebastián Roncaglia,Fiorentina,33.23386826717588,0.06043562163318416,False,Right Foot,Open Play,0,0,1,Normal
+3879690,Nenad Tomović,Fiorentina,13.315404612703286,0.05950079109802689,False,Head,Open Play,0,1,3,Normal
+3879690,Khouma El Hadji Babacar,Fiorentina,7.910120100226044,0.05778276097471377,False,Head,Open Play,0,0,4,Normal
+3879690,Kevin-Prince Boateng,AC Milan,11.739250401963492,0.05770130278140308,True,Right Foot,Open Play,0,0,1,Normal
+3879690,Giuseppe Rossi,Fiorentina,19.404123273160277,0.06264763399943962,False,Left Foot,Open Play,0,1,4,Normal

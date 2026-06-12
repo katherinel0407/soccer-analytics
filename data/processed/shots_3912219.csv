@@ -1,43 +1,43 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.888161534045086,0.06292676421102081,False,Left Foot,Open Play,1,0,1,Half Volley
-44.73175605763762,0.04856694881040765,False,Right Foot,Open Play,0,0,0,Normal
-16.417368851311103,0.0592429018543488,False,Left Foot,Open Play,0,0,2,Normal
-16.56804152578089,0.05547294350728775,False,Left Foot,Open Play,1,0,3,Normal
-26.342740935597423,0.05910533672240893,True,Right Foot,Open Play,1,1,2,Half Volley
-10.963576058932595,0.06003047389838546,False,Head,Open Play,0,1,1,Normal
-15.408114745159454,0.060847068578150594,False,Head,Open Play,0,0,3,Normal
-26.786003807959112,0.061464668045122114,False,Right Foot,Open Play,0,1,1,Normal
-16.175598906995678,0.06306198992702768,False,Right Foot,Open Play,1,1,3,Normal
-19.498974332000127,0.06534263033670246,False,Left Foot,Open Play,0,0,1,Normal
-12.688971589533955,0.06038415342511352,False,Head,Open Play,0,0,2,Normal
-8.190848551890088,0.05704563640073287,False,Right Foot,Open Play,0,0,2,Normal
-24.75419156425837,0.06855689586121716,False,Left Foot,Open Play,1,0,0,Half Volley
-6.191122676865642,0.055882038207312884,False,Head,Open Play,0,1,5,Normal
-33.04920573932148,0.07416476700385564,False,Right Foot,Open Play,1,1,1,Normal
-12.664912159190054,0.05229249098852738,False,Right Foot,Open Play,0,0,1,Normal
-11.954078801814886,0.05410561357941567,False,Right Foot,Open Play,1,0,2,Half Volley
-25.088842141477958,0.06901061658816043,False,Right Foot,Open Play,0,0,1,Normal
-27.066769293729905,0.06738523337937485,False,Right Foot,Open Play,0,0,4,Normal
-24.872675770813238,0.06626291970330157,False,Right Foot,Open Play,1,0,3,Normal
-16.058953888718904,0.06289836071014686,False,Left Foot,Open Play,0,0,1,Normal
-32.13098193333033,0.05613343435613385,False,Left Foot,Open Play,0,0,1,Normal
-15.449595463959566,0.0594131977624328,False,Right Foot,Open Play,0,0,2,Normal
-13.9344895851983,0.05532939054328141,False,Head,Open Play,0,0,2,Normal
-4.38634243989226,0.05691931707711345,False,Head,Open Play,0,0,3,Normal
-21.68155898453799,0.06250324890476151,False,Right Foot,Open Play,1,0,1,Volley
-15.875137794677556,0.06274104115491581,False,Right Foot,Open Play,1,0,3,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-21.587033144922902,0.065714944738453,False,Left Foot,Open Play,0,0,1,Normal
-7.640026177965628,0.05831967316413812,False,Head,Open Play,0,1,5,Normal
-9.718538984847468,0.058844266645067325,False,Head,Open Play,0,1,6,Normal
-21.292721761202817,0.055659192552500646,False,Right Foot,Open Play,0,0,4,Normal
-19.30414463269481,0.06294435541913901,False,Left Foot,Open Play,0,1,2,Half Volley
-7.788452991448302,0.057064920894334084,False,Head,Open Play,0,1,2,Normal
-6.774215821775976,0.058145748710295965,True,Head,Open Play,0,0,5,Normal
-11.909659944767522,0.054784842923810875,False,Head,Open Play,0,1,3,Normal
-19.262658175859325,0.05758042653045299,False,Right Foot,Open Play,0,0,3,Normal
-9.330058949438635,0.05928617386797565,False,Head,Open Play,0,1,5,Normal
-26.265186083483204,0.06988948735412746,False,Left Foot,Open Play,1,0,0,Half Volley
-21.617816726024852,0.055440105954989286,False,Right Foot,Open Play,0,1,4,Half Volley
-8.702298546935749,0.05816851013039093,False,Head,Open Play,0,1,8,Normal
-25.670410982296325,0.06666785683660612,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912219,Chantal Hagel,VfL Wolfsburg WFC,16.888161534045086,0.06292676421102081,False,Left Foot,Open Play,1,0,1,Half Volley
+3912219,Alexandra Popp,VfL Wolfsburg WFC,44.73175605763762,0.04856694881040765,False,Right Foot,Open Play,0,0,0,Normal
+3912219,Mara Alber,Hoffenheim W,16.417368851311103,0.0592429018543488,False,Left Foot,Open Play,0,0,2,Normal
+3912219,Klara Melissa Kössler,Hoffenheim W,16.56804152578089,0.05547294350728775,False,Left Foot,Open Play,1,0,3,Normal
+3912219,Paulina Käte Krumbiegel,Hoffenheim W,26.342740935597423,0.05910533672240893,True,Right Foot,Open Play,1,1,2,Half Volley
+3912219,Jule Brand,VfL Wolfsburg WFC,10.963576058932595,0.06003047389838546,False,Head,Open Play,0,1,1,Normal
+3912219,Alexandra Popp,VfL Wolfsburg WFC,15.408114745159454,0.060847068578150594,False,Head,Open Play,0,0,3,Normal
+3912219,Svenja Huth,VfL Wolfsburg WFC,26.786003807959112,0.061464668045122114,False,Right Foot,Open Play,0,1,1,Normal
+3912219,Sveindís Jane Jónsdóttir,VfL Wolfsburg WFC,16.175598906995678,0.06306198992702768,False,Right Foot,Open Play,1,1,3,Normal
+3912219,Chantal Hagel,VfL Wolfsburg WFC,19.498974332000127,0.06534263033670246,False,Left Foot,Open Play,0,0,1,Normal
+3912219,Chantal Hagel,VfL Wolfsburg WFC,12.688971589533955,0.06038415342511352,False,Head,Open Play,0,0,2,Normal
+3912219,Jule Brand,VfL Wolfsburg WFC,8.190848551890088,0.05704563640073287,False,Right Foot,Open Play,0,0,2,Normal
+3912219,Lena Oberdorf,VfL Wolfsburg WFC,24.75419156425837,0.06855689586121716,False,Left Foot,Open Play,1,0,0,Half Volley
+3912219,Lena Oberdorf,VfL Wolfsburg WFC,6.191122676865642,0.055882038207312884,False,Head,Open Play,0,1,5,Normal
+3912219,Svenja Huth,VfL Wolfsburg WFC,33.04920573932148,0.07416476700385564,False,Right Foot,Open Play,1,1,1,Normal
+3912219,Julia Hickelsberger Füller,Hoffenheim W,12.664912159190054,0.05229249098852738,False,Right Foot,Open Play,0,0,1,Normal
+3912219,Fenna Kalma,VfL Wolfsburg WFC,11.954078801814886,0.05410561357941567,False,Right Foot,Open Play,1,0,2,Half Volley
+3912219,Dominique Johanna Anna Petrone Janssen,VfL Wolfsburg WFC,25.088842141477958,0.06901061658816043,False,Right Foot,Open Play,0,0,1,Normal
+3912219,Marina Hegering,VfL Wolfsburg WFC,27.066769293729905,0.06738523337937485,False,Right Foot,Open Play,0,0,4,Normal
+3912219,Marina Hegering,VfL Wolfsburg WFC,24.872675770813238,0.06626291970330157,False,Right Foot,Open Play,1,0,3,Normal
+3912219,Chantal Hagel,VfL Wolfsburg WFC,16.058953888718904,0.06289836071014686,False,Left Foot,Open Play,0,0,1,Normal
+3912219,Sveindís Jane Jónsdóttir,VfL Wolfsburg WFC,32.13098193333033,0.05613343435613385,False,Left Foot,Open Play,0,0,1,Normal
+3912219,Fenna Kalma,VfL Wolfsburg WFC,15.449595463959566,0.0594131977624328,False,Right Foot,Open Play,0,0,2,Normal
+3912219,Sveindís Jane Jónsdóttir,VfL Wolfsburg WFC,13.9344895851983,0.05532939054328141,False,Head,Open Play,0,0,2,Normal
+3912219,Jule Brand,VfL Wolfsburg WFC,4.38634243989226,0.05691931707711345,False,Head,Open Play,0,0,3,Normal
+3912219,Paulina Käte Krumbiegel,Hoffenheim W,21.68155898453799,0.06250324890476151,False,Right Foot,Open Play,1,0,1,Volley
+3912219,Fabienne Dongus,Hoffenheim W,15.875137794677556,0.06274104115491581,False,Right Foot,Open Play,1,0,3,Normal
+3912219,Michaela Specht,Hoffenheim W,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3912219,Mara Alber,Hoffenheim W,21.587033144922902,0.065714944738453,False,Left Foot,Open Play,0,0,1,Normal
+3912219,Fenna Kalma,VfL Wolfsburg WFC,7.640026177965628,0.05831967316413812,False,Head,Open Play,0,1,5,Normal
+3912219,Lena Oberdorf,VfL Wolfsburg WFC,9.718538984847468,0.058844266645067325,False,Head,Open Play,0,1,6,Normal
+3912219,Svenja Huth,VfL Wolfsburg WFC,21.292721761202817,0.055659192552500646,False,Right Foot,Open Play,0,0,4,Normal
+3912219,Jule Brand,VfL Wolfsburg WFC,19.30414463269481,0.06294435541913901,False,Left Foot,Open Play,0,1,2,Half Volley
+3912219,Sveindís Jane Jónsdóttir,VfL Wolfsburg WFC,7.788452991448302,0.057064920894334084,False,Head,Open Play,0,1,2,Normal
+3912219,Jule Brand,VfL Wolfsburg WFC,6.774215821775976,0.058145748710295965,True,Head,Open Play,0,0,5,Normal
+3912219,Fenna Kalma,VfL Wolfsburg WFC,11.909659944767522,0.054784842923810875,False,Head,Open Play,0,1,3,Normal
+3912219,Jule Brand,VfL Wolfsburg WFC,19.262658175859325,0.05758042653045299,False,Right Foot,Open Play,0,0,3,Normal
+3912219,Lena Oberdorf,VfL Wolfsburg WFC,9.330058949438635,0.05928617386797565,False,Head,Open Play,0,1,5,Normal
+3912219,Lena Oberdorf,VfL Wolfsburg WFC,26.265186083483204,0.06988948735412746,False,Left Foot,Open Play,1,0,0,Half Volley
+3912219,Fenna Kalma,VfL Wolfsburg WFC,21.617816726024852,0.055440105954989286,False,Right Foot,Open Play,0,1,4,Half Volley
+3912219,Jule Brand,VfL Wolfsburg WFC,8.702298546935749,0.05816851013039093,False,Head,Open Play,0,1,8,Normal
+3912219,Jule Brand,VfL Wolfsburg WFC,25.670410982296325,0.06666785683660612,False,Right Foot,Open Play,1,0,1,Half Volley

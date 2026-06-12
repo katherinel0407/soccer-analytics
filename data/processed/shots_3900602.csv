@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.92012064294388,0.05616767270315118,False,Right Foot,Open Play,1,0,1,Normal
-13.598897014096396,0.05755044105457817,False,Left Foot,Open Play,0,0,1,Normal
-11.364858116140297,0.060541273043015154,True,Head,Open Play,0,0,2,Normal
-11.548592987892505,0.060649376500234754,False,Left Foot,Open Play,0,1,2,Half Volley
-9.213034245024819,0.05876667655026704,False,Head,Open Play,0,0,1,Normal
-39.256209699867874,0.06131682077022048,False,Left Foot,Open Play,0,0,1,Half Volley
-10.473776778220927,0.05822290232058249,False,Right Foot,Open Play,0,1,2,Volley
-8.415461959987704,0.05884125126860307,False,Head,Open Play,0,0,1,Normal
-25.374396544548603,0.05018446507713944,False,Right Foot,Open Play,0,0,2,Normal
-6.139218191268331,0.05756499326438479,True,Head,Open Play,0,1,4,Normal
-7.629547824084989,0.057296738627248246,False,Head,Open Play,0,1,4,Normal
-13.813399291991818,0.06115308606629958,False,Left Foot,Open Play,0,1,2,Overhead Kick
-29.931254567759098,0.06623128399064067,False,Right Foot,Open Play,1,0,0,Volley
-12.657013865837389,0.060521650407776184,False,Left Foot,Open Play,1,0,2,Normal
-13.12173768980313,0.05945578704366605,False,Left Foot,Open Play,1,0,1,Half Volley
-6.276941930590093,0.05591867182361511,False,Head,Open Play,0,0,1,Normal
-8.80227243386616,0.059062081316669096,False,Right Foot,Open Play,0,0,3,Normal
-29.819792085123595,0.07250762580181624,False,Left Foot,Open Play,0,0,2,Normal
-17.058135888777528,0.05687367356356986,False,Right Foot,Open Play,0,0,2,Normal
-15.654072952429981,0.058771202081019235,False,Left Foot,Open Play,0,0,2,Normal
-13.953135848260061,0.06195307432421206,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900602,Nicolas de Roussel de Préville,Stade de Reims,14.92012064294388,0.05616767270315118,False,Right Foot,Open Play,1,0,1,Normal
+3900602,Nicolas de Roussel de Préville,Stade de Reims,13.598897014096396,0.05755044105457817,False,Left Foot,Open Play,0,0,1,Normal
+3900602,Zargo Touré,Lorient,11.364858116140297,0.060541273043015154,True,Head,Open Play,0,0,2,Normal
+3900602,Nicolas de Roussel de Préville,Stade de Reims,11.548592987892505,0.060649376500234754,False,Left Foot,Open Play,0,1,2,Half Volley
+3900602,Benjamin Moukandjo Bilé,Lorient,9.213034245024819,0.05876667655026704,False,Head,Open Play,0,0,1,Normal
+3900602,Diego Rigonato Rodrigues,Stade de Reims,39.256209699867874,0.06131682077022048,False,Left Foot,Open Play,0,0,1,Half Volley
+3900602,Benjamin Moukandjo Bilé,Lorient,10.473776778220927,0.05822290232058249,False,Right Foot,Open Play,0,1,2,Volley
+3900602,Antoine Devaux,Stade de Reims,8.415461959987704,0.05884125126860307,False,Head,Open Play,0,0,1,Normal
+3900602,Benjamin Moukandjo Bilé,Lorient,25.374396544548603,0.05018446507713944,False,Right Foot,Open Play,0,0,2,Normal
+3900602,Zargo Touré,Lorient,6.139218191268331,0.05756499326438479,True,Head,Open Play,0,1,4,Normal
+3900602,Benjamin Moukandjo Bilé,Lorient,7.629547824084989,0.057296738627248246,False,Head,Open Play,0,1,4,Normal
+3900602,Diego Rigonato Rodrigues,Stade de Reims,13.813399291991818,0.06115308606629958,False,Left Foot,Open Play,0,1,2,Overhead Kick
+3900602,Hamari Traoré,Stade de Reims,29.931254567759098,0.06623128399064067,False,Right Foot,Open Play,1,0,0,Volley
+3900602,Nicolas de Roussel de Préville,Stade de Reims,12.657013865837389,0.060521650407776184,False,Left Foot,Open Play,1,0,2,Normal
+3900602,Diego Rigonato Rodrigues,Stade de Reims,13.12173768980313,0.05945578704366605,False,Left Foot,Open Play,1,0,1,Half Volley
+3900602,Benjamin Moukandjo Bilé,Lorient,6.276941930590093,0.05591867182361511,False,Head,Open Play,0,0,1,Normal
+3900602,Walid Mesloub,Lorient,8.80227243386616,0.059062081316669096,False,Right Foot,Open Play,0,0,3,Normal
+3900602,Diego Rigonato Rodrigues,Stade de Reims,29.819792085123595,0.07250762580181624,False,Left Foot,Open Play,0,0,2,Normal
+3900602,Benjamin Moukandjo Bilé,Lorient,17.058135888777528,0.05687367356356986,False,Right Foot,Open Play,0,0,2,Normal
+3900602,Thievy Guivane Bifouma Koulossa,Stade de Reims,15.654072952429981,0.058771202081019235,False,Left Foot,Open Play,0,0,2,Normal
+3900602,Diego Rigonato Rodrigues,Stade de Reims,13.953135848260061,0.06195307432421206,False,Head,Open Play,0,1,1,Normal

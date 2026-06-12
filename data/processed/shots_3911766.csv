@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.883061192507952,0.0645207336626847,False,Left Foot,Open Play,0,0,1,Half Volley
-19.909043171383196,0.06529772188809066,False,Left Foot,Open Play,0,0,1,Normal
-10.375451797391761,0.05922539888838532,False,Left Foot,Open Play,0,1,2,Backheel
-25.74218327958994,0.06885043334823054,False,Right Foot,Open Play,0,0,1,Normal
-16.352675622050363,0.06310072583627017,False,Left Foot,Open Play,1,0,2,Normal
-6.744627491566898,0.05678171511185827,False,Head,Open Play,0,1,2,Normal
-24.177882454838766,0.05984805644425891,False,Right Foot,Open Play,0,0,0,Normal
-20.40049019018906,0.06516491946793125,False,Right Foot,Open Play,0,0,1,Normal
-14.03460010117851,0.06206885749265339,False,Right Foot,Open Play,1,0,1,Volley
-21.14000946073582,0.060573476481751355,True,Left Foot,Open Play,0,0,1,Normal
-21.980445855350613,0.06685693787658442,False,Right Foot,Open Play,0,1,2,Normal
-15.559562975867925,0.06074562004996717,False,Left Foot,Open Play,1,0,1,Volley
-8.561541917201595,0.05737230780131003,False,Head,Open Play,0,1,3,Normal
-16.858232410309213,0.05553069395154176,False,Right Foot,Open Play,0,0,2,Normal
-28.459796204470614,0.05844623128460581,False,Right Foot,Open Play,0,0,2,Normal
-27.577164466275352,0.060250847110798846,False,Right Foot,Open Play,0,1,2,Normal
-21.165301793265314,0.06639659610141296,False,Right Foot,Open Play,0,0,3,Normal
-21.736835096213984,0.06519893994739592,False,Left Foot,Open Play,0,0,3,Normal
-17.215400082484294,0.06373912523178418,True,Left Foot,Open Play,0,0,3,Normal
-15.730543537970966,0.058530668020729815,False,Left Foot,Open Play,1,1,3,Volley
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-10.511898020814325,0.054261979049160795,False,Right Foot,Open Play,1,0,2,Normal
-24.49020212248156,0.05945407046864206,False,Left Foot,Open Play,0,0,1,Normal
-30.305940011819462,0.05747030089911096,True,Left Foot,Open Play,1,0,1,Normal
-12.529964086141668,0.053110244838507494,True,Right Foot,Open Play,0,0,2,Normal
-11.220071301021221,0.06048739744315688,False,Head,Open Play,0,0,3,Normal
-9.33916484488843,0.05768228693387723,False,Right Foot,Open Play,1,0,2,Half Volley
-15.953996364547665,0.058287157961543636,False,Left Foot,Open Play,0,1,3,Half Volley
-11.670903992407785,0.057774756904986735,False,Left Foot,Open Play,0,0,5,Normal
-10.914210919713797,0.05989715444662647,False,Left Foot,Open Play,0,0,3,Normal
-8.028075734570518,0.05724677266963538,False,Head,Open Play,0,1,4,Normal
-17.893294833540303,0.05478355805739752,False,Right Foot,Open Play,1,0,2,Normal
-16.617159805454122,0.06328145763509797,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911766,Sofie Zdebel,TSV Bayer 04 Leverkusen,18.883061192507952,0.0645207336626847,False,Left Foot,Open Play,0,0,1,Half Volley
+3911766,Janou Levels,TSV Bayer 04 Leverkusen,19.909043171383196,0.06529772188809066,False,Left Foot,Open Play,0,0,1,Normal
+3911766,Karólína Lea Vilhjálmsdóttir,TSV Bayer 04 Leverkusen,10.375451797391761,0.05922539888838532,False,Left Foot,Open Play,0,1,2,Backheel
+3911766,Ereleta Memeti,Hoffenheim W,25.74218327958994,0.06885043334823054,False,Right Foot,Open Play,0,0,1,Normal
+3911766,Ereleta Memeti,Hoffenheim W,16.352675622050363,0.06310072583627017,False,Left Foot,Open Play,1,0,2,Normal
+3911766,Ereleta Memeti,Hoffenheim W,6.744627491566898,0.05678171511185827,False,Head,Open Play,0,1,2,Normal
+3911766,Paulina Käte Krumbiegel,Hoffenheim W,24.177882454838766,0.05984805644425891,False,Right Foot,Open Play,0,0,0,Normal
+3911766,Kristin Kögel,TSV Bayer 04 Leverkusen,20.40049019018906,0.06516491946793125,False,Right Foot,Open Play,0,0,1,Normal
+3911766,Sarai Linder,Hoffenheim W,14.03460010117851,0.06206885749265339,False,Right Foot,Open Play,1,0,1,Volley
+3911766,Karólína Lea Vilhjálmsdóttir,TSV Bayer 04 Leverkusen,21.14000946073582,0.060573476481751355,True,Left Foot,Open Play,0,0,1,Normal
+3911766,Nikola Karczewska,TSV Bayer 04 Leverkusen,21.980445855350613,0.06685693787658442,False,Right Foot,Open Play,0,1,2,Normal
+3911766,Lilla Turányi,TSV Bayer 04 Leverkusen,15.559562975867925,0.06074562004996717,False,Left Foot,Open Play,1,0,1,Volley
+3911766,Fabienne Dongus,Hoffenheim W,8.561541917201595,0.05737230780131003,False,Head,Open Play,0,1,3,Normal
+3911766,Paulina Käte Krumbiegel,Hoffenheim W,16.858232410309213,0.05553069395154176,False,Right Foot,Open Play,0,0,2,Normal
+3911766,Elisa Senß,TSV Bayer 04 Leverkusen,28.459796204470614,0.05844623128460581,False,Right Foot,Open Play,0,0,2,Normal
+3911766,Fabienne Dongus,Hoffenheim W,27.577164466275352,0.060250847110798846,False,Right Foot,Open Play,0,1,2,Normal
+3911766,Ereleta Memeti,Hoffenheim W,21.165301793265314,0.06639659610141296,False,Right Foot,Open Play,0,0,3,Normal
+3911766,Kristin Kögel,TSV Bayer 04 Leverkusen,21.736835096213984,0.06519893994739592,False,Left Foot,Open Play,0,0,3,Normal
+3911766,Kristin Kögel,TSV Bayer 04 Leverkusen,17.215400082484294,0.06373912523178418,True,Left Foot,Open Play,0,0,3,Normal
+3911766,Franziska Harsch,Hoffenheim W,15.730543537970966,0.058530668020729815,False,Left Foot,Open Play,1,1,3,Volley
+3911766,Nikola Karczewska,TSV Bayer 04 Leverkusen,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3911766,Synne Skinnes Hansen,TSV Bayer 04 Leverkusen,10.511898020814325,0.054261979049160795,False,Right Foot,Open Play,1,0,2,Normal
+3911766,Kristin Kögel,TSV Bayer 04 Leverkusen,24.49020212248156,0.05945407046864206,False,Left Foot,Open Play,0,0,1,Normal
+3911766,Mara Alber,Hoffenheim W,30.305940011819462,0.05747030089911096,True,Left Foot,Open Play,1,0,1,Normal
+3911766,Ereleta Memeti,Hoffenheim W,12.529964086141668,0.053110244838507494,True,Right Foot,Open Play,0,0,2,Normal
+3911766,Lisa Doorn,Hoffenheim W,11.220071301021221,0.06048739744315688,False,Head,Open Play,0,0,3,Normal
+3911766,Vanessa Diehm,Hoffenheim W,9.33916484488843,0.05768228693387723,False,Right Foot,Open Play,1,0,2,Half Volley
+3911766,Lisa Doorn,Hoffenheim W,15.953996364547665,0.058287157961543636,False,Left Foot,Open Play,0,1,3,Half Volley
+3911766,Mara Alber,Hoffenheim W,11.670903992407785,0.057774756904986735,False,Left Foot,Open Play,0,0,5,Normal
+3911766,Jill Janssens,Hoffenheim W,10.914210919713797,0.05989715444662647,False,Left Foot,Open Play,0,0,3,Normal
+3911766,Vanessa Diehm,Hoffenheim W,8.028075734570518,0.05724677266963538,False,Head,Open Play,0,1,4,Normal
+3911766,Vanessa Leimenstoll,Hoffenheim W,17.893294833540303,0.05478355805739752,False,Right Foot,Open Play,1,0,2,Normal
+3911766,Verena Wieder,TSV Bayer 04 Leverkusen,16.617159805454122,0.06328145763509797,False,Left Foot,Open Play,1,0,1,Normal

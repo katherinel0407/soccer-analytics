@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.80631212517868,0.06321682502090266,False,Left Foot,Open Play,1,0,0,Half Volley
-11.574541027617471,0.060649624336304636,False,Head,Open Play,0,1,3,Normal
-13.103434664239757,0.05729062644905067,True,Head,Open Play,0,0,4,Normal
-18.95283619936605,0.057519071330403126,False,Left Foot,Open Play,0,0,3,Normal
-11.795338062132856,0.06052802042600349,False,Head,Open Play,0,1,4,Normal
-14.20035210831055,0.06216501620533113,False,Head,Open Play,0,0,2,Normal
-17.753027910753698,0.05664525986356733,False,Right Foot,Open Play,0,0,3,Normal
-30.260535355475778,0.05573390793443922,False,Left Foot,Free Kick,0,0,0,Normal
-15.789236840328918,0.05945219810695651,False,Left Foot,Open Play,0,0,4,Normal
-23.213142829009605,0.051224147684656274,False,Left Foot,Open Play,0,0,1,Normal
-34.93322201000074,0.07521522239713296,False,Right Foot,Open Play,0,0,3,Normal
-10.111874208078344,0.05979268262303255,True,Right Foot,Open Play,1,0,0,Half Volley
-14.96829983665479,0.06192741931635242,False,Left Foot,Open Play,0,1,3,Half Volley
-8.605230967266369,0.05477105586712112,True,Head,Open Play,0,0,1,Normal
-12.340583454602134,0.06007642233192333,False,Left Foot,Open Play,1,0,1,Normal
-30.043302082161347,0.061678999819419614,False,Right Foot,Open Play,0,0,1,Normal
-10.983624174196782,0.05978112581143321,False,Head,Open Play,0,0,2,Normal
-14.571547618561317,0.05957676810441037,False,Left Foot,Open Play,0,1,2,Normal
-15.945218719101968,0.06239068437420246,False,Right Foot,Open Play,1,0,2,Lob
-16.73588957898564,0.05276654566755001,True,Right Foot,Open Play,1,0,0,Normal
-18.360010893242958,0.06459745792613765,False,Right Foot,Open Play,0,0,3,Half Volley
-26.184346468835162,0.061287590999070884,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303652,Ivan Rakitić,Barcelona,19.80631212517868,0.06321682502090266,False,Left Foot,Open Play,1,0,0,Half Volley
+303652,Bernardo José Espinosa Zúñiga,Espanyol,11.574541027617471,0.060649624336304636,False,Head,Open Play,0,1,3,Normal
+303652,David López Silva,Espanyol,13.103434664239757,0.05729062644905067,True,Head,Open Play,0,0,4,Normal
+303652,Lionel Andrés Messi Cuccittini,Barcelona,18.95283619936605,0.057519071330403126,False,Left Foot,Open Play,0,0,3,Normal
+303652,Clément Lenglet,Barcelona,11.795338062132856,0.06052802042600349,False,Head,Open Play,0,1,4,Normal
+303652,Lionel Andrés Messi Cuccittini,Barcelona,14.20035210831055,0.06216501620533113,False,Head,Open Play,0,0,2,Normal
+303652,Luis Alberto Suárez Díaz,Barcelona,17.753027910753698,0.05664525986356733,False,Right Foot,Open Play,0,0,3,Normal
+303652,Lionel Andrés Messi Cuccittini,Barcelona,30.260535355475778,0.05573390793443922,False,Left Foot,Free Kick,0,0,0,Normal
+303652,Lionel Andrés Messi Cuccittini,Barcelona,15.789236840328918,0.05945219810695651,False,Left Foot,Open Play,0,0,4,Normal
+303652,Lionel Andrés Messi Cuccittini,Barcelona,23.213142829009605,0.051224147684656274,False,Left Foot,Open Play,0,0,1,Normal
+303652,Sergi Darder Moll,Espanyol,34.93322201000074,0.07521522239713296,False,Right Foot,Open Play,0,0,3,Normal
+303652,Luis Alberto Suárez Díaz,Barcelona,10.111874208078344,0.05979268262303255,True,Right Foot,Open Play,1,0,0,Half Volley
+303652,Antoine Griezmann,Barcelona,14.96829983665479,0.06192741931635242,False,Left Foot,Open Play,0,1,3,Half Volley
+303652,Arturo Erasmo Vidal Pardo,Barcelona,8.605230967266369,0.05477105586712112,True,Head,Open Play,0,0,1,Normal
+303652,Luis Alberto Suárez Díaz,Barcelona,12.340583454602134,0.06007642233192333,False,Left Foot,Open Play,1,0,1,Normal
+303652,Matías Ezequiel Vargas Martín,Espanyol,30.043302082161347,0.061678999819419614,False,Right Foot,Open Play,0,0,1,Normal
+303652,Lei Wu,Espanyol,10.983624174196782,0.05978112581143321,False,Head,Open Play,0,0,2,Normal
+303652,Luis Alberto Suárez Díaz,Barcelona,14.571547618561317,0.05957676810441037,False,Left Foot,Open Play,0,1,2,Normal
+303652,Luis Alberto Suárez Díaz,Barcelona,15.945218719101968,0.06239068437420246,False,Right Foot,Open Play,1,0,2,Lob
+303652,Lei Wu,Espanyol,16.73588957898564,0.05276654566755001,True,Right Foot,Open Play,1,0,0,Normal
+303652,Jonathan Calleri,Espanyol,18.360010893242958,0.06459745792613765,False,Right Foot,Open Play,0,0,3,Half Volley
+303652,Lei Wu,Espanyol,26.184346468835162,0.061287590999070884,False,Right Foot,Open Play,1,0,2,Half Volley

@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.25699921617557,0.0581550427114582,False,Left Foot,Open Play,0,0,1,Normal
-15.63105882530035,0.06268557795501555,False,Right Foot,Open Play,1,0,0,Volley
-8.24924238945614,0.0583280674021788,False,Head,Open Play,0,1,4,Normal
-24.401844192601516,0.06529561204515197,False,Right Foot,Open Play,0,0,1,Normal
-18.391846019364127,0.06354445349096775,True,Left Foot,Open Play,1,0,1,Normal
-10.989540481749003,0.05863959903447786,False,Right Foot,Open Play,1,0,1,Normal
-5.714017850864663,0.05692009418458574,True,Left Foot,Open Play,1,0,3,Half Volley
-27.906450867138236,0.05893902433247468,False,Right Foot,Open Play,0,0,2,Normal
-31.16472364709817,0.07022453609431717,False,Right Foot,Free Kick,0,0,0,Normal
-27.344103569142653,0.06316246663118621,True,Left Foot,Free Kick,0,0,0,Normal
-15.000333329629711,0.060907079703224336,True,Right Foot,Open Play,1,0,1,Normal
-23.623716896373438,0.06803460228449251,False,Left Foot,Open Play,0,0,1,Normal
-16.33554406807438,0.06316704944667274,False,Left Foot,Open Play,1,0,2,Normal
-27.189152248645048,0.05735642568193723,False,Left Foot,Free Kick,0,0,0,Normal
-14.934523762075576,0.05220687505022292,False,Right Foot,Open Play,0,0,1,Normal
-23.170886905770356,0.05775790231770654,False,Right Foot,Open Play,1,0,2,Normal
-28.053163814443465,0.071196738073845,False,Right Foot,Free Kick,0,0,0,Normal
-21.306337085477644,0.0619198031848212,False,Left Foot,Open Play,0,0,3,Normal
-21.644860821913362,0.06489416928188825,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70300,Ángel Fabián Di María Hernández,Real Madrid,31.25699921617557,0.0581550427114582,False,Left Foot,Open Play,0,0,1,Normal
+70300,Karim Benzema,Real Madrid,15.63105882530035,0.06268557795501555,False,Right Foot,Open Play,1,0,0,Volley
+70300,Sergio Ramos García,Real Madrid,8.24924238945614,0.0583280674021788,False,Head,Open Play,0,1,4,Normal
+70300,Andrés Iniesta Luján,Barcelona,24.401844192601516,0.06529561204515197,False,Right Foot,Open Play,0,0,1,Normal
+70300,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,18.391846019364127,0.06354445349096775,True,Left Foot,Open Play,1,0,1,Normal
+70300,Karim Benzema,Real Madrid,10.989540481749003,0.05863959903447786,False,Right Foot,Open Play,1,0,1,Normal
+70300,Lionel Andrés Messi Cuccittini,Barcelona,5.714017850864663,0.05692009418458574,True,Left Foot,Open Play,1,0,3,Half Volley
+70300,Xavier Hernández Creus,Barcelona,27.906450867138236,0.05893902433247468,False,Right Foot,Open Play,0,0,2,Normal
+70300,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31.16472364709817,0.07022453609431717,False,Right Foot,Free Kick,0,0,0,Normal
+70300,Lionel Andrés Messi Cuccittini,Barcelona,27.344103569142653,0.06316246663118621,True,Left Foot,Free Kick,0,0,0,Normal
+70300,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,15.000333329629711,0.060907079703224336,True,Right Foot,Open Play,1,0,1,Normal
+70300,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23.623716896373438,0.06803460228449251,False,Left Foot,Open Play,0,0,1,Normal
+70300,Lionel Andrés Messi Cuccittini,Barcelona,16.33554406807438,0.06316704944667274,False,Left Foot,Open Play,1,0,2,Normal
+70300,Lionel Andrés Messi Cuccittini,Barcelona,27.189152248645048,0.05735642568193723,False,Left Foot,Free Kick,0,0,0,Normal
+70300,Gonzalo Gerardo Higuaín,Real Madrid,14.934523762075576,0.05220687505022292,False,Right Foot,Open Play,0,0,1,Normal
+70300,Martín Montoya Torralbo,Barcelona,23.170886905770356,0.05775790231770654,False,Right Foot,Open Play,1,0,2,Normal
+70300,Xavier Hernández Creus,Barcelona,28.053163814443465,0.071196738073845,False,Right Foot,Free Kick,0,0,0,Normal
+70300,Pedro Eliezer Rodríguez Ledesma,Barcelona,21.306337085477644,0.0619198031848212,False,Left Foot,Open Play,0,0,3,Normal
+70300,Pedro Eliezer Rodríguez Ledesma,Barcelona,21.644860821913362,0.06489416928188825,False,Left Foot,Open Play,0,0,0,Normal

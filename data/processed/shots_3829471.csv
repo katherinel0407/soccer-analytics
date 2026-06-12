@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.714618581533124,0.05696021602611093,False,Right Foot,Open Play,1,1,1,Normal
-2.6000000000000054,0.055489969557021956,False,Head,Open Play,0,0,6,Normal
-32.975748664738454,0.07135721555170363,False,Right Foot,Free Kick,0,0,0,Normal
-24.97779013443743,0.06862483558851483,True,Right Foot,Open Play,0,0,2,Normal
-19.811360377318866,0.05722255954051747,False,Right Foot,Open Play,0,0,1,Normal
-11.682893477217018,0.05616209696941705,False,Right Foot,Open Play,1,1,2,Normal
-13.732079230764722,0.05955115287288642,False,Head,Open Play,0,1,1,Normal
-30.60800548876061,0.0686075540273353,False,Right Foot,Open Play,1,0,0,Half Volley
-37.85828839237188,0.07342700911629892,False,Right Foot,Open Play,0,0,0,Half Volley
-14.957606760441323,0.06250013988781991,False,Right Foot,Open Play,0,0,3,Normal
-24.667590072806057,0.06215649008820334,False,Right Foot,Open Play,1,1,1,Normal
-19.494101672044284,0.06099171845312561,False,Right Foot,Open Play,0,0,1,Normal
-17.666352198459084,0.057867873163671854,False,Left Foot,Open Play,1,0,1,Normal
-6.551335741663684,0.05774012840670016,False,Head,Open Play,0,1,7,Normal
-11.136426715962346,0.058898449068016744,False,Head,Open Play,0,1,2,Normal
-13.500370365289983,0.06018756897833713,False,Right Foot,Open Play,1,1,1,Normal
-16.160754932861277,0.05908483703153125,False,Right Foot,Open Play,1,0,2,Half Volley
-25.912352266824403,0.059477845119517335,False,Right Foot,Free Kick,0,0,0,Normal
-22.87400271050084,0.06666459720889654,False,Left Foot,Open Play,1,0,1,Half Volley
-23.773935307390744,0.06661121587428395,False,Right Foot,Open Play,0,0,2,Normal
-25.518032839543103,0.057157028167007705,False,Right Foot,Free Kick,0,0,0,Normal
-12.322337440599492,0.06109790865262662,False,Left Foot,Open Play,1,0,1,Normal
-7.900000000000006,0.057913768113340515,False,Head,Open Play,0,1,5,Normal
-11.043550153822817,0.05612965762846001,True,Other,Open Play,0,0,0,Normal
-9.771898484941396,0.059468253579180785,False,Head,Open Play,0,1,2,Normal
-7.854934754662196,0.056098911306297856,False,Head,Open Play,0,0,2,Normal
-22.987170334775882,0.06349544940964788,False,Right Foot,Open Play,1,0,1,Overhead Kick
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829471,Diego Alejandro Rolan Silva,Bordeaux,14.714618581533124,0.05696021602611093,False,Right Foot,Open Play,1,1,1,Normal
+3829471,Pablo Nascimento Castro,Bordeaux,2.6000000000000054,0.055489969557021956,False,Head,Open Play,0,0,6,Normal
+3829471,Martin Braithwaite Christensen,Toulouse,32.975748664738454,0.07135721555170363,False,Right Foot,Free Kick,0,0,0,Normal
+3829471,Adrien Regattin,Toulouse,24.97779013443743,0.06862483558851483,True,Right Foot,Open Play,0,0,2,Normal
+3829471,André Biyogo Poko,Bordeaux,19.811360377318866,0.05722255954051747,False,Right Foot,Open Play,0,0,1,Normal
+3829471,Isaac Kiese Thelin,Bordeaux,11.682893477217018,0.05616209696941705,False,Right Foot,Open Play,1,1,2,Normal
+3829471,Martin Braithwaite Christensen,Toulouse,13.732079230764722,0.05955115287288642,False,Head,Open Play,0,1,1,Normal
+3829471,Adrien Regattin,Toulouse,30.60800548876061,0.0686075540273353,False,Right Foot,Open Play,1,0,0,Half Volley
+3829471,André Biyogo Poko,Bordeaux,37.85828839237188,0.07342700911629892,False,Right Foot,Open Play,0,0,0,Half Volley
+3829471,Wahbi Khazri,Bordeaux,14.957606760441323,0.06250013988781991,False,Right Foot,Open Play,0,0,3,Normal
+3829471,André Biyogo Poko,Bordeaux,24.667590072806057,0.06215649008820334,False,Right Foot,Open Play,1,1,1,Normal
+3829471,Tongo Hamed Doumbia,Toulouse,19.494101672044284,0.06099171845312561,False,Right Foot,Open Play,0,0,1,Normal
+3829471,Diego Alejandro Rolan Silva,Bordeaux,17.666352198459084,0.057867873163671854,False,Left Foot,Open Play,1,0,1,Normal
+3829471,Pablo Nascimento Castro,Bordeaux,6.551335741663684,0.05774012840670016,False,Head,Open Play,0,1,7,Normal
+3829471,Martin Braithwaite Christensen,Toulouse,11.136426715962346,0.058898449068016744,False,Head,Open Play,0,1,2,Normal
+3829471,Tongo Hamed Doumbia,Toulouse,13.500370365289983,0.06018756897833713,False,Right Foot,Open Play,1,1,1,Normal
+3829471,Diego Alejandro Rolan Silva,Bordeaux,16.160754932861277,0.05908483703153125,False,Right Foot,Open Play,1,0,2,Half Volley
+3829471,Wahbi Khazri,Bordeaux,25.912352266824403,0.059477845119517335,False,Right Foot,Free Kick,0,0,0,Normal
+3829471,Nicolas Pallois,Bordeaux,22.87400271050084,0.06666459720889654,False,Left Foot,Open Play,1,0,1,Half Volley
+3829471,Nicolas Maurice-Belay,Bordeaux,23.773935307390744,0.06661121587428395,False,Right Foot,Open Play,0,0,2,Normal
+3829471,Adrien Regattin,Toulouse,25.518032839543103,0.057157028167007705,False,Right Foot,Free Kick,0,0,0,Normal
+3829471,Tongo Hamed Doumbia,Toulouse,12.322337440599492,0.06109790865262662,False,Left Foot,Open Play,1,0,1,Normal
+3829471,Enzo Crivelli,Bordeaux,7.900000000000006,0.057913768113340515,False,Head,Open Play,0,1,5,Normal
+3829471,Enzo Crivelli,Bordeaux,11.043550153822817,0.05612965762846001,True,Other,Open Play,0,0,0,Normal
+3829471,Diego Alejandro Rolan Silva,Bordeaux,9.771898484941396,0.059468253579180785,False,Head,Open Play,0,1,2,Normal
+3829471,Diego Alejandro Rolan Silva,Bordeaux,7.854934754662196,0.056098911306297856,False,Head,Open Play,0,0,2,Normal
+3829471,Enzo Crivelli,Bordeaux,22.987170334775882,0.06349544940964788,False,Right Foot,Open Play,1,0,1,Overhead Kick

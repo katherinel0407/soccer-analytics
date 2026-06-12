@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.207140580897523,0.05911681994432954,True,Left Foot,Open Play,1,0,1,Normal
-10.473776778220927,0.05953362313028726,True,Left Foot,Open Play,0,1,3,Half Volley
-20.124611797498105,0.061415650916171884,False,Right Foot,Open Play,0,1,1,Normal
-25.697665263599344,0.06752816085913817,False,Right Foot,Open Play,0,1,0,Half Volley
-24.438698819699873,0.06862216688675758,False,Right Foot,Open Play,0,0,3,Normal
-7.4215901261117905,0.05704924855733916,True,Head,Open Play,0,1,1,Diving Header
-21.580083410404143,0.06063869053782507,False,Left Foot,Open Play,0,0,1,Normal
-6.685057965343305,0.05810920410006435,False,Left Foot,Open Play,1,0,1,Half Volley
-26.30589287593181,0.06386926181594642,False,Left Foot,Open Play,0,0,2,Normal
-38.73706235635325,0.08001782784031242,False,Left Foot,Open Play,1,0,1,Normal
-15.480633061990712,0.056147233687125646,False,Right Foot,Open Play,1,0,0,Normal
-10.53802638068439,0.05833323424919978,False,Head,Open Play,0,0,2,Normal
-13.799275343292493,0.061705039601149064,False,Left Foot,Open Play,0,0,2,Normal
-20.12287255836005,0.06453607818446348,False,Left Foot,Open Play,1,0,1,Normal
-18.20357107822528,0.055487799581412194,False,Right Foot,Open Play,1,0,0,Normal
-21.377090541044165,0.06020375657088981,False,Right Foot,Open Play,0,0,1,Normal
-21.044001520623393,0.061430770800708696,False,Left Foot,Open Play,0,0,3,Normal
-27.181243532995328,0.05622882999393329,False,Right Foot,Open Play,0,0,2,Normal
-9.596353474106714,0.05616094372000087,False,Right Foot,Open Play,1,0,4,Normal
-15.393505123915086,0.057945321566261886,False,Right Foot,Open Play,0,0,1,Normal
-28.908303305451877,0.06864211823859985,False,Right Foot,Free Kick,0,0,0,Normal
-14.71869559437928,0.06214914940850967,False,Left Foot,Open Play,1,0,1,Normal
-19.030764566879604,0.053258713517559016,False,Left Foot,Open Play,0,1,3,Normal
-7.702596964660688,0.057898817498525414,True,Left Foot,Open Play,1,0,2,Normal
-19.84363877921587,0.06155455504589534,True,Right Foot,Open Play,0,0,2,Normal
-20.576685836159328,0.060512824095216924,False,Right Foot,Open Play,0,0,1,Normal
-9.84784240328814,0.05626923769776544,False,Left Foot,Open Play,0,0,1,Normal
-19.92109434744989,0.05221973468400317,False,Right Foot,Open Play,0,1,1,Normal
-9.525754563287887,0.058321131380799036,False,Left Foot,Open Play,1,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913168,Leila Ouahabi El Ouahabi,Manchester City WFC,11.207140580897523,0.05911681994432954,True,Left Foot,Open Play,1,0,1,Normal
+3913168,Khadija Monifa Shaw,Manchester City WFC,10.473776778220927,0.05953362313028726,True,Left Foot,Open Play,0,1,3,Half Volley
+3913168,Khadija Monifa Shaw,Manchester City WFC,20.124611797498105,0.061415650916171884,False,Right Foot,Open Play,0,1,1,Normal
+3913168,Yui Hasegawa,Manchester City WFC,25.697665263599344,0.06752816085913817,False,Right Foot,Open Play,0,1,0,Half Volley
+3913168,Jessica Park,Manchester City WFC,24.438698819699873,0.06862216688675758,False,Right Foot,Open Play,0,0,3,Normal
+3913168,Khadija Monifa Shaw,Manchester City WFC,7.4215901261117905,0.05704924855733916,True,Head,Open Play,0,1,1,Diving Header
+3913168,Riko Ueki,West Ham United LFC,21.580083410404143,0.06063869053782507,False,Left Foot,Open Play,0,0,1,Normal
+3913168,Viviane Asseyi,West Ham United LFC,6.685057965343305,0.05810920410006435,False,Left Foot,Open Play,1,0,1,Half Volley
+3913168,Mary Boio Fowler,Manchester City WFC,26.30589287593181,0.06386926181594642,False,Left Foot,Open Play,0,0,2,Normal
+3913168,Viviane Asseyi,West Ham United LFC,38.73706235635325,0.08001782784031242,False,Left Foot,Open Play,1,0,1,Normal
+3913168,Laura Coombs,Manchester City WFC,15.480633061990712,0.056147233687125646,False,Right Foot,Open Play,1,0,0,Normal
+3913168,Jessica Ziu,West Ham United LFC,10.53802638068439,0.05833323424919978,False,Head,Open Play,0,0,2,Normal
+3913168,Riko Ueki,West Ham United LFC,13.799275343292493,0.061705039601149064,False,Left Foot,Open Play,0,0,2,Normal
+3913168,Kirsty Smith,West Ham United LFC,20.12287255836005,0.06453607818446348,False,Left Foot,Open Play,1,0,1,Normal
+3913168,Jessica Ziu,West Ham United LFC,18.20357107822528,0.055487799581412194,False,Right Foot,Open Play,1,0,0,Normal
+3913168,Jessica Park,Manchester City WFC,21.377090541044165,0.06020375657088981,False,Right Foot,Open Play,0,0,1,Normal
+3913168,Viviane Asseyi,West Ham United LFC,21.044001520623393,0.061430770800708696,False,Left Foot,Open Play,0,0,3,Normal
+3913168,Riko Ueki,West Ham United LFC,27.181243532995328,0.05622882999393329,False,Right Foot,Open Play,0,0,2,Normal
+3913168,Laura Coombs,Manchester City WFC,9.596353474106714,0.05616094372000087,False,Right Foot,Open Play,1,0,4,Normal
+3913168,Riko Ueki,West Ham United LFC,15.393505123915086,0.057945321566261886,False,Right Foot,Open Play,0,0,1,Normal
+3913168,Alanna Stephanie Kennedy,Manchester City WFC,28.908303305451877,0.06864211823859985,False,Right Foot,Free Kick,0,0,0,Normal
+3913168,Lauren Hemp,Manchester City WFC,14.71869559437928,0.06214914940850967,False,Left Foot,Open Play,1,0,1,Normal
+3913168,Mary Boio Fowler,Manchester City WFC,19.030764566879604,0.053258713517559016,False,Left Foot,Open Play,0,1,3,Normal
+3913168,Laura Madison Blindkilde Brown,Manchester City WFC,7.702596964660688,0.057898817498525414,True,Left Foot,Open Play,1,0,2,Normal
+3913168,Jessica Park,Manchester City WFC,19.84363877921587,0.06155455504589534,True,Right Foot,Open Play,0,0,2,Normal
+3913168,Viviane Asseyi,West Ham United LFC,20.576685836159328,0.060512824095216924,False,Right Foot,Open Play,0,0,1,Normal
+3913168,Jessica Park,Manchester City WFC,9.84784240328814,0.05626923769776544,False,Left Foot,Open Play,0,0,1,Normal
+3913168,Chloe Kelly,Manchester City WFC,19.92109434744989,0.05221973468400317,False,Right Foot,Open Play,0,1,1,Normal
+3913168,Laia Aleixandri López,Manchester City WFC,9.525754563287887,0.058321131380799036,False,Left Foot,Open Play,1,1,3,Half Volley

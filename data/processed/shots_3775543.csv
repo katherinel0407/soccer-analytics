@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.616609558901157,0.07396028512953155,False,Left Foot,Open Play,0,0,1,Normal
-20.693235609734884,0.05590213820885061,False,Right Foot,Open Play,0,0,3,Normal
-23.21077336066164,0.05856454189277116,True,Right Foot,Open Play,0,0,1,Normal
-10.60235822824337,0.06007849707040622,False,Right Foot,Open Play,1,1,4,Normal
-20.242529486207992,0.056130784265054294,False,Right Foot,Open Play,1,0,0,Normal
-6.171709649683792,0.05493701061060183,False,Left Foot,Open Play,1,0,3,Normal
-16.414627622946554,0.05533565519455673,False,Right Foot,Open Play,0,0,1,Normal
-43.73602633984939,0.08162907377377336,False,Right Foot,Open Play,0,0,1,Normal
-17.933767033169573,0.06429776465543413,False,Left Foot,Open Play,0,0,1,Normal
-22.330472453577872,0.06469697442413795,False,Right Foot,Open Play,0,0,3,Normal
-19.560163598497837,0.06474707298012918,False,Right Foot,Open Play,1,1,1,Normal
-17.173234989366453,0.057968904399398155,True,Right Foot,Open Play,1,0,2,Normal
-22.400000000000006,0.06420326590728809,False,Left Foot,Open Play,0,0,2,Normal
-5.300943312279423,0.05726464565437412,True,Head,Open Play,0,0,4,Normal
-17.655594014362695,0.06257891469922326,False,Left Foot,Open Play,0,0,2,Normal
-35.30099148749224,0.07455929692450651,False,Left Foot,Open Play,0,0,0,Normal
-10.34794665622122,0.05997499257654243,False,Head,Open Play,0,1,2,Normal
-4.716990566028302,0.054228976787270636,True,Right Foot,Open Play,1,0,2,Volley
-24.708095839218366,0.06362075710140806,False,Right Foot,Open Play,0,0,3,Normal
-16.25330735573532,0.06336615787612387,False,Right Foot,Open Play,0,0,1,Normal
-14.770578864756784,0.06209043047928599,False,Right Foot,Open Play,0,0,3,Normal
-21.483016547961792,0.066576151383224,False,Left Foot,Open Play,0,0,2,Normal
-8.237718130647583,0.05749673063264933,True,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775543,Inessa Kaagman,Brighton & Hove Albion WFC,31.616609558901157,0.07396028512953155,False,Left Foot,Open Play,0,0,1,Normal
+3775543,Denise O'Sullivan,Brighton & Hove Albion WFC,20.693235609734884,0.05590213820885061,False,Right Foot,Open Play,0,0,3,Normal
+3775543,Vivianne Miedema,Arsenal WFC,23.21077336066164,0.05856454189277116,True,Right Foot,Open Play,0,0,1,Normal
+3775543,Bethany Mead,Arsenal WFC,10.60235822824337,0.06007849707040622,False,Right Foot,Open Play,1,1,4,Normal
+3775543,Vivianne Miedema,Arsenal WFC,20.242529486207992,0.056130784265054294,False,Right Foot,Open Play,1,0,0,Normal
+3775543,Aileen Whelan,Brighton & Hove Albion WFC,6.171709649683792,0.05493701061060183,False,Left Foot,Open Play,1,0,3,Normal
+3775543,Denise O'Sullivan,Brighton & Hove Albion WFC,16.414627622946554,0.05533565519455673,False,Right Foot,Open Play,0,0,1,Normal
+3775543,Vivianne Miedema,Arsenal WFC,43.73602633984939,0.08162907377377336,False,Right Foot,Open Play,0,0,1,Normal
+3775543,Caitlin Jade Foord,Arsenal WFC,17.933767033169573,0.06429776465543413,False,Left Foot,Open Play,0,0,1,Normal
+3775543,Bethany Mead,Arsenal WFC,22.330472453577872,0.06469697442413795,False,Right Foot,Open Play,0,0,3,Normal
+3775543,Vivianne Miedema,Arsenal WFC,19.560163598497837,0.06474707298012918,False,Right Foot,Open Play,1,1,1,Normal
+3775543,Danielle van de Donk,Arsenal WFC,17.173234989366453,0.057968904399398155,True,Right Foot,Open Play,1,0,2,Normal
+3775543,Inessa Kaagman,Brighton & Hove Albion WFC,22.400000000000006,0.06420326590728809,False,Left Foot,Open Play,0,0,2,Normal
+3775543,Jennifer Patricia Beattie,Arsenal WFC,5.300943312279423,0.05726464565437412,True,Head,Open Play,0,0,4,Normal
+3775543,Vivianne Miedema,Arsenal WFC,17.655594014362695,0.06257891469922326,False,Left Foot,Open Play,0,0,2,Normal
+3775543,Inessa Kaagman,Brighton & Hove Albion WFC,35.30099148749224,0.07455929692450651,False,Left Foot,Open Play,0,0,0,Normal
+3775543,Kayleigh Green,Brighton & Hove Albion WFC,10.34794665622122,0.05997499257654243,False,Head,Open Play,0,1,2,Normal
+3775543,Carlotte Wubben-Moy,Arsenal WFC,4.716990566028302,0.054228976787270636,True,Right Foot,Open Play,1,0,2,Volley
+3775543,Geum-Min Lee,Brighton & Hove Albion WFC,24.708095839218366,0.06362075710140806,False,Right Foot,Open Play,0,0,3,Normal
+3775543,Katie McCabe,Arsenal WFC,16.25330735573532,0.06336615787612387,False,Right Foot,Open Play,0,0,1,Normal
+3775543,Vivianne Miedema,Arsenal WFC,14.770578864756784,0.06209043047928599,False,Right Foot,Open Play,0,0,3,Normal
+3775543,Katie McCabe,Arsenal WFC,21.483016547961792,0.066576151383224,False,Left Foot,Open Play,0,0,2,Normal
+3775543,Vivianne Miedema,Arsenal WFC,8.237718130647583,0.05749673063264933,True,Right Foot,Open Play,1,0,2,Half Volley

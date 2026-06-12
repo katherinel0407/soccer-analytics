@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.5524865872714,0.05889583923584783,False,Head,Open Play,0,1,2,Normal
-31.105787242890987,0.06881048540998705,False,Left Foot,Open Play,0,0,1,Normal
-28.883905553093054,0.06848329829609287,False,Right Foot,Open Play,0,0,0,Normal
-26.70823842936857,0.059379070986413436,False,Right Foot,Open Play,0,0,0,Normal
-29.474904579998224,0.06643835152593734,False,Left Foot,Open Play,1,0,0,Normal
-10.837435120913064,0.05940478208710993,False,Right Foot,Open Play,1,0,4,Normal
-16.322070947033655,0.056111502503466165,False,Right Foot,Open Play,0,0,1,Normal
-23.971858501167578,0.06307364220236009,False,Right Foot,Free Kick,0,0,0,Normal
-17.118703221914913,0.06378574399824094,False,Right Foot,Open Play,0,0,3,Normal
-11.01635148313633,0.05938479666125943,False,Right Foot,Open Play,1,1,2,Half Volley
-15.565667348366407,0.06294879463060916,False,Left Foot,Open Play,1,0,1,Half Volley
-25.30553299181821,0.06882158731212662,False,Right Foot,Open Play,0,0,0,Normal
-14.51688671857709,0.06149838064196577,False,Left Foot,Open Play,0,0,3,Normal
-13.865785228395826,0.05536708946597986,False,Right Foot,Open Play,1,0,1,Volley
-8.452810183601661,0.05754109273338578,True,Head,Open Play,0,1,4,Normal
-20.494877408757535,0.06596303944232304,False,Left Foot,Open Play,1,0,0,Volley
-13.831124321616088,0.05332570610171852,False,Right Foot,Open Play,0,0,2,Normal
-22.464416306683784,0.06341285119141257,False,Left Foot,Open Play,0,0,2,Normal
-22.34502181695064,0.05451927251868372,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754128,Marc Pugh,AFC Bournemouth,9.5524865872714,0.05889583923584783,False,Head,Open Play,0,1,2,Normal
+3754128,Matt Ritchie,AFC Bournemouth,31.105787242890987,0.06881048540998705,False,Left Foot,Open Play,0,0,1,Normal
+3754128,Idrissa Gana Gueye,Aston Villa,28.883905553093054,0.06848329829609287,False,Right Foot,Open Play,0,0,0,Normal
+3754128,Joshua King,AFC Bournemouth,26.70823842936857,0.059379070986413436,False,Right Foot,Open Play,0,0,0,Normal
+3754128,Andrew Surman,AFC Bournemouth,29.474904579998224,0.06643835152593734,False,Left Foot,Open Play,1,0,0,Normal
+3754128,Dan Gosling,AFC Bournemouth,10.837435120913064,0.05940478208710993,False,Right Foot,Open Play,1,0,4,Normal
+3754128,Callum Wilson,AFC Bournemouth,16.322070947033655,0.056111502503466165,False,Right Foot,Open Play,0,0,1,Normal
+3754128,Leandro Bacuna,Aston Villa,23.971858501167578,0.06307364220236009,False,Right Foot,Free Kick,0,0,0,Normal
+3754128,Joshua King,AFC Bournemouth,17.118703221914913,0.06378574399824094,False,Right Foot,Open Play,0,0,3,Normal
+3754128,Marc Pugh,AFC Bournemouth,11.01635148313633,0.05938479666125943,False,Right Foot,Open Play,1,1,2,Half Volley
+3754128,Idrissa Gana Gueye,Aston Villa,15.565667348366407,0.06294879463060916,False,Left Foot,Open Play,1,0,1,Half Volley
+3754128,Callum Wilson,AFC Bournemouth,25.30553299181821,0.06882158731212662,False,Right Foot,Open Play,0,0,0,Normal
+3754128,Gabriel Imuetinyan Agbonlahor,Aston Villa,14.51688671857709,0.06149838064196577,False,Left Foot,Open Play,0,0,3,Normal
+3754128,Rudy Gestede,Aston Villa,13.865785228395826,0.05536708946597986,False,Right Foot,Open Play,1,0,1,Volley
+3754128,Rudy Gestede,Aston Villa,8.452810183601661,0.05754109273338578,True,Head,Open Play,0,1,4,Normal
+3754128,Andrew Surman,AFC Bournemouth,20.494877408757535,0.06596303944232304,False,Left Foot,Open Play,1,0,0,Volley
+3754128,Callum Wilson,AFC Bournemouth,13.831124321616088,0.05332570610171852,False,Right Foot,Open Play,0,0,2,Normal
+3754128,Gabriel Imuetinyan Agbonlahor,Aston Villa,22.464416306683784,0.06341285119141257,False,Left Foot,Open Play,0,0,2,Normal
+3754128,Matt Ritchie,AFC Bournemouth,22.34502181695064,0.05451927251868372,False,Right Foot,Open Play,0,1,2,Normal

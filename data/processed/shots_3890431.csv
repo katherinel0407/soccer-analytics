@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.024470060806207,0.05900226257804371,False,Head,Open Play,0,1,5,Normal
-21.611570974827355,0.06099785806843042,False,Right Foot,Open Play,1,0,0,Volley
-29.57110075732725,0.06149589837478738,False,Right Foot,Open Play,0,0,0,Half Volley
-15.640012787718558,0.06283458848198627,False,Left Foot,Open Play,1,0,0,Normal
-17.81039022593273,0.05422713383057057,False,Right Foot,Open Play,0,0,1,Half Volley
-16.228986413205234,0.05690999165584261,False,Left Foot,Open Play,0,0,3,Normal
-27.580065264607335,0.06864610534456454,False,Right Foot,Open Play,1,0,0,Volley
-12.97112177107285,0.057404377455682186,False,Left Foot,Open Play,1,0,1,Volley
-13.851353724455961,0.06135327742802317,False,Left Foot,Open Play,1,0,1,Normal
-16.979988221432905,0.059684486759648776,False,Right Foot,Open Play,1,0,3,Normal
-15.559562975867932,0.06262154879076359,False,Right Foot,Open Play,0,0,2,Normal
-13.159027319676785,0.06145539965734958,False,Right Foot,Open Play,0,1,3,Half Volley
-13.670405992508046,0.061624641640174734,False,Head,Open Play,0,1,2,Normal
-16.72154299100415,0.053024032934669035,False,Right Foot,Open Play,1,0,0,Half Volley
-22.981731875557156,0.06762724239538127,False,Right Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890431,Ömer Toprak,Bayer Leverkusen,10.024470060806207,0.05900226257804371,False,Head,Open Play,0,1,5,Normal
+3890431,Arjen Robben,Bayern Munich,21.611570974827355,0.06099785806843042,False,Right Foot,Open Play,1,0,0,Volley
+3890431,Javier Hernández Balcázar,Bayer Leverkusen,29.57110075732725,0.06149589837478738,False,Right Foot,Open Play,0,0,0,Half Volley
+3890431,Hakan Çalhanoğlu,Bayer Leverkusen,15.640012787718558,0.06283458848198627,False,Left Foot,Open Play,1,0,0,Normal
+3890431,Robert Lewandowski,Bayern Munich,17.81039022593273,0.05422713383057057,False,Right Foot,Open Play,0,0,1,Half Volley
+3890431,Christoph Kramer,Bayer Leverkusen,16.228986413205234,0.05690999165584261,False,Left Foot,Open Play,0,0,3,Normal
+3890431,Hakan Çalhanoğlu,Bayer Leverkusen,27.580065264607335,0.06864610534456454,False,Right Foot,Open Play,1,0,0,Volley
+3890431,Thomas Müller,Bayern Munich,12.97112177107285,0.057404377455682186,False,Left Foot,Open Play,1,0,1,Volley
+3890431,Thomas Müller,Bayern Munich,13.851353724455961,0.06135327742802317,False,Left Foot,Open Play,1,0,1,Normal
+3890431,Thiago Alcântara do Nascimento,Bayern Munich,16.979988221432905,0.059684486759648776,False,Right Foot,Open Play,1,0,3,Normal
+3890431,Thomas Müller,Bayern Munich,15.559562975867932,0.06262154879076359,False,Right Foot,Open Play,0,0,2,Normal
+3890431,Robert Lewandowski,Bayern Munich,13.159027319676785,0.06145539965734958,False,Right Foot,Open Play,0,1,3,Half Volley
+3890431,Holger Badstuber,Bayern Munich,13.670405992508046,0.061624641640174734,False,Head,Open Play,0,1,2,Normal
+3890431,Julian Brandt,Bayer Leverkusen,16.72154299100415,0.053024032934669035,False,Right Foot,Open Play,1,0,0,Half Volley
+3890431,Sebastian Rode,Bayern Munich,22.981731875557156,0.06762724239538127,False,Right Foot,Open Play,1,1,1,Normal

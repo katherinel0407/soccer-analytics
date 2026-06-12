@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.623088063270488,0.05797454353482644,False,Head,Open Play,0,1,2,Normal
-32.23864141058056,0.06566511345105522,False,Right Foot,Free Kick,0,0,0,Normal
-15.469324484281785,0.05709064176901478,False,Right Foot,Open Play,0,0,1,Volley
-14.173919711921611,0.05370599806998059,False,Right Foot,Open Play,0,0,2,Normal
-30.80584360149872,0.05483527367146738,False,Left Foot,Open Play,0,0,3,Normal
-30.11660671456863,0.07261945139655097,False,Right Foot,Open Play,0,0,2,Normal
-18.245547402037573,0.0547958719253703,False,Head,Open Play,0,1,1,Normal
-22.762249449472257,0.05281490975627256,False,Right Foot,Open Play,0,1,1,Normal
-35.02284968417047,0.06136102084434739,False,Right Foot,Open Play,0,1,2,Normal
-11.503912377969506,0.06054327925155405,False,Head,Open Play,0,1,2,Normal
-20.885641000457703,0.05829215465512935,True,Right Foot,Open Play,1,0,2,Lob
-21.219095173922938,0.06008033748346151,False,Right Foot,Open Play,0,0,4,Normal
-10.064790112068899,0.056914424698949105,True,Left Foot,Open Play,1,0,3,Half Volley
-32.88920795641025,0.07424887103482247,False,Right Foot,Free Kick,0,0,0,Normal
-6.5375836514724615,0.057135701084228795,True,Head,Open Play,0,0,3,Normal
-17.5641680702503,0.0636448804923211,False,Right Foot,Open Play,0,0,2,Normal
-35.17570184090148,0.07482763374463568,False,Right Foot,Open Play,1,0,0,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-10.399999999999995,0.05720783001014765,False,Right Foot,Open Play,0,0,2,Normal
-15.19210321186635,0.0590548711794499,False,Left Foot,Open Play,1,0,2,Normal
-28.050846689538627,0.06863217520318485,False,Right Foot,Free Kick,0,0,0,Normal
-13.961733416735902,0.062017519976403875,False,Left Foot,Open Play,0,0,2,Half Volley
-13.91761473816544,0.05212813894551545,False,Right Foot,Open Play,0,1,2,Normal
-27.399452549275505,0.06915554382777521,False,Right Foot,Free Kick,0,0,0,Normal
-11.708543888972702,0.06015167293427489,False,Left Foot,Open Play,1,0,0,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890518,Christian Pulisic,Borussia Dortmund,10.623088063270488,0.05797454353482644,False,Head,Open Play,0,1,2,Normal
+3890518,Johannes Geis,Schalke 04,32.23864141058056,0.06566511345105522,False,Right Foot,Free Kick,0,0,0,Normal
+3890518,Moritz Leitner,Borussia Dortmund,15.469324484281785,0.05709064176901478,False,Right Foot,Open Play,0,0,1,Volley
+3890518,Christian Pulisic,Borussia Dortmund,14.173919711921611,0.05370599806998059,False,Right Foot,Open Play,0,0,2,Normal
+3890518,Leroy Sané,Schalke 04,30.80584360149872,0.05483527367146738,False,Left Foot,Open Play,0,0,3,Normal
+3890518,Moritz Leitner,Borussia Dortmund,30.11660671456863,0.07261945139655097,False,Right Foot,Open Play,0,0,2,Normal
+3890518,Matthias Ginter,Borussia Dortmund,18.245547402037573,0.0547958719253703,False,Head,Open Play,0,1,1,Normal
+3890518,Uilson de Souza Paula Júnior,Schalke 04,22.762249449472257,0.05281490975627256,False,Right Foot,Open Play,0,1,1,Normal
+3890518,Johannes Geis,Schalke 04,35.02284968417047,0.06136102084434739,False,Right Foot,Open Play,0,1,2,Normal
+3890518,Klaas-Jan Huntelaar,Schalke 04,11.503912377969506,0.06054327925155405,False,Head,Open Play,0,1,2,Normal
+3890518,Shinji Kagawa,Borussia Dortmund,20.885641000457703,0.05829215465512935,True,Right Foot,Open Play,1,0,2,Lob
+3890518,Pierre-Emile Højbjerg,Schalke 04,21.219095173922938,0.06008033748346151,False,Right Foot,Open Play,0,0,4,Normal
+3890518,Leroy Sané,Schalke 04,10.064790112068899,0.056914424698949105,True,Left Foot,Open Play,1,0,3,Half Volley
+3890518,Henrikh Mkhitaryan,Borussia Dortmund,32.88920795641025,0.07424887103482247,False,Right Foot,Free Kick,0,0,0,Normal
+3890518,Matthias Ginter,Borussia Dortmund,6.5375836514724615,0.057135701084228795,True,Head,Open Play,0,0,3,Normal
+3890518,Henrikh Mkhitaryan,Borussia Dortmund,17.5641680702503,0.0636448804923211,False,Right Foot,Open Play,0,0,2,Normal
+3890518,Erik Durm,Borussia Dortmund,35.17570184090148,0.07482763374463568,False,Right Foot,Open Play,1,0,0,Half Volley
+3890518,Klaas-Jan Huntelaar,Schalke 04,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3890518,Shinji Kagawa,Borussia Dortmund,10.399999999999995,0.05720783001014765,False,Right Foot,Open Play,0,0,2,Normal
+3890518,Henrikh Mkhitaryan,Borussia Dortmund,15.19210321186635,0.0590548711794499,False,Left Foot,Open Play,1,0,2,Normal
+3890518,Johannes Geis,Schalke 04,28.050846689538627,0.06863217520318485,False,Right Foot,Free Kick,0,0,0,Normal
+3890518,Pierre-Emerick Aubameyang,Borussia Dortmund,13.961733416735902,0.062017519976403875,False,Left Foot,Open Play,0,0,2,Half Volley
+3890518,Sokratis Papastathopoulos,Borussia Dortmund,13.91761473816544,0.05212813894551545,False,Right Foot,Open Play,0,1,2,Normal
+3890518,Pierre-Emerick Aubameyang,Borussia Dortmund,27.399452549275505,0.06915554382777521,False,Right Foot,Free Kick,0,0,0,Normal
+3890518,Max Meyer,Schalke 04,11.708543888972702,0.06015167293427489,False,Left Foot,Open Play,1,0,0,Volley

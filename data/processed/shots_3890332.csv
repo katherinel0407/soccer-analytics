@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.274562336608895,0.06953925583401535,False,Right Foot,Free Kick,0,0,0,Normal
-18.99736823878508,0.05912050619253165,False,Right Foot,Open Play,0,0,1,Normal
-30.778239065937477,0.07303868982617974,False,Left Foot,Open Play,0,0,1,Normal
-8.94427190999916,0.058627918422720963,False,Head,Open Play,0,0,0,Diving Header
-4.632493928760186,0.056913584268493154,True,Left Foot,Open Play,0,0,1,Normal
-19.202343606966313,0.06332415802793219,False,Left Foot,Open Play,1,0,1,Volley
-28.445913590531767,0.07135428159535771,False,Left Foot,Open Play,0,0,3,Normal
-11.629703349613012,0.06014255754473021,False,Head,Open Play,0,0,4,Normal
-25.9532271596424,0.06894858667902519,False,Right Foot,Free Kick,0,0,0,Normal
-6.212889826803629,0.05786872981124245,False,Right Foot,Open Play,1,0,2,Volley
-9.48946784598589,0.05807552444590239,False,Head,Open Play,0,0,2,Normal
-14.493101807411685,0.05769131361633255,False,Head,Open Play,0,0,1,Normal
-7.3790243257493,0.05632815922149839,False,Right Foot,Open Play,0,1,3,Backheel
-9.075791976461332,0.05721426482783518,False,Right Foot,Open Play,0,1,1,Normal
-23.711811402758755,0.062223717363853,False,Right Foot,Open Play,1,0,2,Normal
-32.16224494652075,0.06778950249723042,False,Right Foot,Open Play,1,0,0,Half Volley
-16.83448840921517,0.05481212529504231,False,Right Foot,Open Play,0,0,1,Normal
-15.079124643028853,0.06255849635129648,False,Left Foot,Open Play,1,0,1,Half Volley
-30.410853325745407,0.07277500920875356,False,Right Foot,Open Play,1,0,0,Normal
-16.060199251565965,0.05398812266104077,False,Right Foot,Open Play,1,1,1,Normal
-24.352823244954582,0.05767485221201293,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890332,Xabier Alonso Olano,Bayern Munich,29.274562336608895,0.06953925583401535,False,Right Foot,Free Kick,0,0,0,Normal
+3890332,Melvyn Lorenzen,Werder Bremen,18.99736823878508,0.05912050619253165,False,Right Foot,Open Play,0,0,1,Normal
+3890332,Arturo Erasmo Vidal Pardo,Bayern Munich,30.778239065937477,0.07303868982617974,False,Left Foot,Open Play,0,0,1,Normal
+3890332,Robert Lewandowski,Bayern Munich,8.94427190999916,0.058627918422720963,False,Head,Open Play,0,0,0,Diving Header
+3890332,Thomas Müller,Bayern Munich,4.632493928760186,0.056913584268493154,True,Left Foot,Open Play,0,0,1,Normal
+3890332,Juan Bernat Velasco,Bayern Munich,19.202343606966313,0.06332415802793219,False,Left Foot,Open Play,1,0,1,Volley
+3890332,Juan Bernat Velasco,Bayern Munich,28.445913590531767,0.07135428159535771,False,Left Foot,Open Play,0,0,3,Normal
+3890332,Robert Lewandowski,Bayern Munich,11.629703349613012,0.06014255754473021,False,Head,Open Play,0,0,4,Normal
+3890332,Zlatko Junuzović,Werder Bremen,25.9532271596424,0.06894858667902519,False,Right Foot,Free Kick,0,0,0,Normal
+3890332,Thomas Müller,Bayern Munich,6.212889826803629,0.05786872981124245,False,Right Foot,Open Play,1,0,2,Volley
+3890332,Robert Lewandowski,Bayern Munich,9.48946784598589,0.05807552444590239,False,Head,Open Play,0,0,2,Normal
+3890332,Thomas Müller,Bayern Munich,14.493101807411685,0.05769131361633255,False,Head,Open Play,0,0,1,Normal
+3890332,Robert Lewandowski,Bayern Munich,7.3790243257493,0.05632815922149839,False,Right Foot,Open Play,0,1,3,Backheel
+3890332,Anthony Ujah,Werder Bremen,9.075791976461332,0.05721426482783518,False,Right Foot,Open Play,0,1,1,Normal
+3890332,Fin Bartels,Werder Bremen,23.711811402758755,0.062223717363853,False,Right Foot,Open Play,1,0,2,Normal
+3890332,Philipp Bargfrede,Werder Bremen,32.16224494652075,0.06778950249723042,False,Right Foot,Open Play,1,0,0,Half Volley
+3890332,Anthony Ujah,Werder Bremen,16.83448840921517,0.05481212529504231,False,Right Foot,Open Play,0,0,1,Normal
+3890332,Philipp Bargfrede,Werder Bremen,15.079124643028853,0.06255849635129648,False,Left Foot,Open Play,1,0,1,Half Volley
+3890332,Alejandro Gálvez Jimena,Werder Bremen,30.410853325745407,0.07277500920875356,False,Right Foot,Open Play,1,0,0,Normal
+3890332,Thiago Alcântara do Nascimento,Bayern Munich,16.060199251565965,0.05398812266104077,False,Right Foot,Open Play,1,1,1,Normal
+3890332,Robert Lewandowski,Bayern Munich,24.352823244954582,0.05767485221201293,False,Right Foot,Open Play,0,0,2,Normal

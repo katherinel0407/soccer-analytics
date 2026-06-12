@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.44461558652647,0.06338590701718831,False,Right Foot,Open Play,1,0,1,Normal
-30.041637771599603,0.07197926282596469,False,Left Foot,Open Play,0,0,1,Normal
-8.3868945385047,0.055624023502472815,False,Left Foot,Open Play,1,0,3,Normal
-24.36739624990737,0.06670361457105498,False,Left Foot,Open Play,0,0,1,Normal
-31.184932259025345,0.06977599353856183,False,Right Foot,Open Play,0,0,0,Normal
-40.92725253422223,0.0817541893725187,False,Left Foot,Open Play,0,0,1,Normal
-17.641145087550303,0.05880210092807036,False,Left Foot,Open Play,0,0,4,Normal
-15.179591562357661,0.06104468967857107,False,Left Foot,Open Play,0,1,2,Normal
-26.683515510516976,0.05675232077143595,False,Right Foot,Open Play,0,0,1,Normal
-28.301590061337546,0.07062053083771468,False,Right Foot,Open Play,0,0,1,Normal
-19.40025773024679,0.06277644116797283,False,Right Foot,Open Play,0,1,2,Normal
-34.979422522391644,0.07601059078712744,False,Left Foot,Open Play,1,0,1,Normal
-26.760605374318423,0.06533206183512114,False,Left Foot,Open Play,0,0,3,Normal
-22.122612865572638,0.05291507142813241,False,Right Foot,Open Play,1,0,1,Normal
-15.89024858207071,0.05738540533994177,False,Head,Open Play,0,1,1,Normal
-11.676043850551437,0.05807170966580063,False,Head,Open Play,0,1,3,Normal
-15.915401345866213,0.058327822764517236,False,Right Foot,Open Play,1,0,1,Normal
-33.402395123703336,0.06940899065446894,False,Left Foot,Open Play,0,0,0,Normal
-27.8044960393099,0.06706928956543416,False,Left Foot,Open Play,0,0,3,Normal
-16.464810961562844,0.06345586427162267,False,Left Foot,Open Play,0,1,1,Normal
-20.62474242263404,0.05868980489054498,False,Right Foot,Open Play,0,0,2,Normal
-9.400531899844824,0.05848486456985425,False,Right Foot,Open Play,1,0,2,Normal
-26.58006772000402,0.05615176553393775,False,Left Foot,Open Play,0,0,1,Normal
-25.307113624433747,0.052220274582852555,False,Left Foot,Open Play,0,0,0,Normal
-27.09630971184083,0.0701924519591012,True,Right Foot,Open Play,0,1,2,Normal
-10.406248123122957,0.05987228895097956,False,Head,Open Play,0,0,6,Normal
-17.176728442867113,0.05258075564282494,False,Right Foot,Open Play,1,0,1,Half Volley
-25.195634542515492,0.05096044784212892,False,Left Foot,Free Kick,0,0,0,Normal
-11.936498649101424,0.06088263540911165,True,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749233,Ray Parlour,Arsenal,23.44461558652647,0.06338590701718831,False,Right Foot,Open Play,1,0,1,Normal
+3749233,Gilberto Aparecido da Silva,Arsenal,30.041637771599603,0.07197926282596469,False,Left Foot,Open Play,0,0,1,Normal
+3749233,Thierry Henry,Arsenal,8.3868945385047,0.055624023502472815,False,Left Foot,Open Play,1,0,3,Normal
+3749233,Joey Barton,Manchester City,24.36739624990737,0.06670361457105498,False,Left Foot,Open Play,0,0,1,Normal
+3749233,Joey Barton,Manchester City,31.184932259025345,0.06977599353856183,False,Right Foot,Open Play,0,0,0,Normal
+3749233,Michael Tarnat,Manchester City,40.92725253422223,0.0817541893725187,False,Left Foot,Open Play,0,0,1,Normal
+3749233,Nicolas Anelka,Manchester City,17.641145087550303,0.05880210092807036,False,Left Foot,Open Play,0,0,4,Normal
+3749233,Gilberto Aparecido da Silva,Arsenal,15.179591562357661,0.06104468967857107,False,Left Foot,Open Play,0,1,2,Normal
+3749233,Laureano Bisan-Etame Mayer,Arsenal,26.683515510516976,0.05675232077143595,False,Right Foot,Open Play,0,0,1,Normal
+3749233,Robert Pirès,Arsenal,28.301590061337546,0.07062053083771468,False,Right Foot,Open Play,0,0,1,Normal
+3749233,Dennis Bergkamp,Arsenal,19.40025773024679,0.06277644116797283,False,Right Foot,Open Play,0,1,2,Normal
+3749233,Ashley Cole,Arsenal,34.979422522391644,0.07601059078712744,False,Left Foot,Open Play,1,0,1,Normal
+3749233,Jihai Sun,Manchester City,26.760605374318423,0.06533206183512114,False,Left Foot,Open Play,0,0,3,Normal
+3749233,Paul Bosvelt,Manchester City,22.122612865572638,0.05291507142813241,False,Right Foot,Open Play,1,0,1,Normal
+3749233,Richard Dunne,Manchester City,15.89024858207071,0.05738540533994177,False,Head,Open Play,0,1,1,Normal
+3749233,Sylvain Distin,Manchester City,11.676043850551437,0.05807170966580063,False,Head,Open Play,0,1,3,Normal
+3749233,Robert Pirès,Arsenal,15.915401345866213,0.058327822764517236,False,Right Foot,Open Play,1,0,1,Normal
+3749233,Eduardo César Daude Gaspar,Arsenal,33.402395123703336,0.06940899065446894,False,Left Foot,Open Play,0,0,0,Normal
+3749233,Thierry Henry,Arsenal,27.8044960393099,0.06706928956543416,False,Left Foot,Open Play,0,0,3,Normal
+3749233,Nicolas Anelka,Manchester City,16.464810961562844,0.06345586427162267,False,Left Foot,Open Play,0,1,1,Normal
+3749233,José Antonio Reyes Calderón,Arsenal,20.62474242263404,0.05868980489054498,False,Right Foot,Open Play,0,0,2,Normal
+3749233,Thierry Henry,Arsenal,9.400531899844824,0.05848486456985425,False,Right Foot,Open Play,1,0,2,Normal
+3749233,Nicolas Anelka,Manchester City,26.58006772000402,0.05615176553393775,False,Left Foot,Open Play,0,0,1,Normal
+3749233,Robbie Fowler,Manchester City,25.307113624433747,0.052220274582852555,False,Left Foot,Open Play,0,0,0,Normal
+3749233,Thierry Henry,Arsenal,27.09630971184083,0.0701924519591012,True,Right Foot,Open Play,0,1,2,Normal
+3749233,Sylvain Distin,Manchester City,10.406248123122957,0.05987228895097956,False,Head,Open Play,0,0,6,Normal
+3749233,Steve McManaman,Manchester City,17.176728442867113,0.05258075564282494,False,Right Foot,Open Play,1,0,1,Half Volley
+3749233,Michael Tarnat,Manchester City,25.195634542515492,0.05096044784212892,False,Left Foot,Free Kick,0,0,0,Normal
+3749233,Nicolas Anelka,Manchester City,11.936498649101424,0.06088263540911165,True,Left Foot,Open Play,0,0,1,Normal

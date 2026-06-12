@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.840520221436769,0.06142705637033784,False,Right Foot,Open Play,1,0,1,Volley
-20.3678668495255,0.06588966464523716,False,Left Foot,Open Play,1,0,2,Normal
-29.822307087145358,0.06207380161463277,False,Right Foot,Open Play,1,0,2,Half Volley
-17.424408167854654,0.05143602247932577,False,Right Foot,Open Play,0,0,1,Normal
-26.11551263138443,0.06551388220767972,False,Left Foot,Open Play,0,0,1,Normal
-16.23730273167314,0.0632366887523151,False,Left Foot,Open Play,0,0,2,Normal
-7.416872656315469,0.057875287689899,False,Right Foot,Open Play,1,0,3,Normal
-20.961870145576224,0.06459411311356139,False,Right Foot,Open Play,0,1,2,Normal
-10.423531071570714,0.0537659729962532,False,Right Foot,Open Play,1,0,2,Normal
-10.720074626605912,0.05598779424423678,False,Head,Open Play,0,0,5,Normal
-9.950376877284604,0.05837844469859935,False,Head,Open Play,0,0,5,Normal
-24.044126101815383,0.06835011942758311,False,Left Foot,Open Play,0,0,2,Normal
-30.763127279260807,0.05712445452950099,False,Left Foot,Open Play,0,0,0,Normal
-9.047098982546832,0.053642941345790986,False,Left Foot,Open Play,1,0,2,Half Volley
-21.722108553268946,0.06609183380928374,False,Right Foot,Open Play,1,0,1,Normal
-20.905980005730413,0.06608732939240533,False,Right Foot,Open Play,1,0,2,Half Volley
-12.149074038789948,0.060366034646423004,False,Head,Open Play,0,0,2,Normal
-20.197277044195832,0.06506813272662153,False,Right Foot,Open Play,0,0,2,Normal
-28.660251220113196,0.06922160853802067,False,Right Foot,Open Play,0,0,1,Normal
-21.43501807790234,0.06645309449837465,False,Left Foot,Open Play,0,0,1,Half Volley
-11.1610931364271,0.059959728271002995,False,Right Foot,Open Play,1,0,2,Volley
-23.022814771439226,0.0612333802707685,False,Left Foot,Open Play,0,0,1,Normal
-19.33416664870767,0.05316875523044026,True,Right Foot,Open Play,0,0,2,Normal
-22.970633426181347,0.05968657281159391,True,Left Foot,Open Play,0,0,2,Normal
-19.594131774590068,0.06338516577772266,False,Left Foot,Open Play,0,0,2,Normal
-23.920075250717748,0.05620650118996579,True,Right Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901158,Alexis Blin,Toulouse,13.840520221436769,0.06142705637033784,False,Right Foot,Open Play,1,0,1,Volley
+3901158,Giovanni-Guy Yann Sio,Rennes,20.3678668495255,0.06588966464523716,False,Left Foot,Open Play,1,0,2,Normal
+3901158,Jean-Daniel Akpa Akpro,Toulouse,29.822307087145358,0.06207380161463277,False,Right Foot,Open Play,1,0,2,Half Volley
+3901158,Ousmane Dembélé,Rennes,17.424408167854654,0.05143602247932577,False,Right Foot,Open Play,0,0,1,Normal
+3901158,Benjamin André,Rennes,26.11551263138443,0.06551388220767972,False,Left Foot,Open Play,0,0,1,Normal
+3901158,Giovanni-Guy Yann Sio,Rennes,16.23730273167314,0.0632366887523151,False,Left Foot,Open Play,0,0,2,Normal
+3901158,Pedro Henrique Konzen Medina da Silva,Rennes,7.416872656315469,0.057875287689899,False,Right Foot,Open Play,1,0,3,Normal
+3901158,Ousmane Dembélé,Rennes,20.961870145576224,0.06459411311356139,False,Right Foot,Open Play,0,1,2,Normal
+3901158,Pedro Henrique Konzen Medina da Silva,Rennes,10.423531071570714,0.0537659729962532,False,Right Foot,Open Play,1,0,2,Normal
+3901158,Cheikh M''Bengue,Rennes,10.720074626605912,0.05598779424423678,False,Head,Open Play,0,0,5,Normal
+3901158,Sylvain Armand,Rennes,9.950376877284604,0.05837844469859935,False,Head,Open Play,0,0,5,Normal
+3901158,Ousmane Dembélé,Rennes,24.044126101815383,0.06835011942758311,False,Left Foot,Open Play,0,0,2,Normal
+3901158,Giovanni-Guy Yann Sio,Rennes,30.763127279260807,0.05712445452950099,False,Left Foot,Open Play,0,0,0,Normal
+3901158,Wissam Ben Yedder,Toulouse,9.047098982546832,0.053642941345790986,False,Left Foot,Open Play,1,0,2,Half Volley
+3901158,Wissam Ben Yedder,Toulouse,21.722108553268946,0.06609183380928374,False,Right Foot,Open Play,1,0,1,Normal
+3901158,Ousmane Dembélé,Rennes,20.905980005730413,0.06608732939240533,False,Right Foot,Open Play,1,0,2,Half Volley
+3901158,Giovanni-Guy Yann Sio,Rennes,12.149074038789948,0.060366034646423004,False,Head,Open Play,0,0,2,Normal
+3901158,Pedro Filipe Teodósio Mendes,Rennes,20.197277044195832,0.06506813272662153,False,Right Foot,Open Play,0,0,2,Normal
+3901158,Paul-Georges Ntep de Madiba,Rennes,28.660251220113196,0.06922160853802067,False,Right Foot,Open Play,0,0,1,Normal
+3901158,Wissam Ben Yedder,Toulouse,21.43501807790234,0.06645309449837465,False,Left Foot,Open Play,0,0,1,Half Volley
+3901158,Martin Braithwaite Christensen,Toulouse,11.1610931364271,0.059959728271002995,False,Right Foot,Open Play,1,0,2,Volley
+3901158,Ousmane Dembélé,Rennes,23.022814771439226,0.0612333802707685,False,Left Foot,Open Play,0,0,1,Normal
+3901158,Wissam Ben Yedder,Toulouse,19.33416664870767,0.05316875523044026,True,Right Foot,Open Play,0,0,2,Normal
+3901158,Ousmane Dembélé,Rennes,22.970633426181347,0.05968657281159391,True,Left Foot,Open Play,0,0,2,Normal
+3901158,Zinédine Machach,Toulouse,19.594131774590068,0.06338516577772266,False,Left Foot,Open Play,0,0,2,Normal
+3901158,Kamil Grosicki,Rennes,23.920075250717748,0.05620650118996579,True,Right Foot,Open Play,1,1,1,Normal

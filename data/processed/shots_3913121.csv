@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.5,0.05830852463557535,False,Head,Open Play,0,0,3,Normal
-16.589454481688065,0.06046931848036943,False,Right Foot,Open Play,1,0,3,Normal
-19.677398201998145,0.05824890745648894,False,Left Foot,Open Play,1,0,1,Half Volley
-9.900505037623084,0.05347746959697318,True,Right Foot,Open Play,1,0,2,Normal
-19.672569735548024,0.06545888200937869,False,Left Foot,Open Play,0,0,5,Normal
-22.933381782894553,0.0672907237338743,False,Left Foot,Open Play,1,0,2,Normal
-23.280034364235807,0.06613499733962536,False,Right Foot,Open Play,0,0,0,Half Volley
-14.431216164966832,0.055348644466479184,True,Right Foot,Open Play,1,0,1,Half Volley
-8.881441324469812,0.05893787007458492,False,Left Foot,Open Play,1,0,1,Volley
-24.871268564349503,0.06248107999370352,False,Right Foot,Open Play,0,0,2,Normal
-11.672617529928756,0.05703580976864908,False,Right Foot,Open Play,1,0,2,Normal
-7.368174807915457,0.056808250952949495,True,Right Foot,Open Play,1,0,4,Normal
-18.264993840677857,0.06088374937750986,False,Right Foot,Open Play,1,0,0,Half Volley
-9.74525525576421,0.05470507110367312,False,Head,Open Play,0,0,1,Normal
-23.36942446873692,0.0654672441723512,False,Right Foot,Open Play,1,0,0,Half Volley
-9.617692030835672,0.05906229146999046,False,Right Foot,Open Play,0,0,2,Normal
-14.48447444679993,0.06163888126564986,False,Left Foot,Open Play,0,1,1,Normal
-6.356099432828276,0.0574617914195768,False,Head,Open Play,0,1,4,Normal
-20.24252948620799,0.057717732677213446,False,Left Foot,Open Play,0,0,2,Normal
-12.003749414245535,0.05948365679406363,False,Right Foot,Open Play,1,1,2,Volley
-9.752948272189286,0.05904565159383346,False,Head,Open Play,0,0,2,Normal
-14.90369081804906,0.062118479927298666,False,Left Foot,Open Play,0,1,1,Normal
-17.910890541790497,0.05850489752226874,False,Right Foot,Open Play,0,0,1,Half Volley
-15.626259949200898,0.06269235474246487,True,Left Foot,Open Play,0,1,1,Normal
-7.58023746329889,0.0573954672265941,False,Head,Open Play,0,0,8,Normal
-17.50114281982751,0.06188359999570776,False,Right Foot,Open Play,1,0,1,Volley
-20.69033590834136,0.06531843798559928,False,Right Foot,Open Play,0,0,3,Normal
-16.447796204963144,0.05304006119300557,False,Right Foot,Open Play,1,0,1,Normal
-27.586228448267445,0.07008332224503008,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913121,Gun Nathalie Björn,Chelsea FCW,12.5,0.05830852463557535,False,Head,Open Play,0,0,3,Normal
+3913121,Melanie Leupolz,Chelsea FCW,16.589454481688065,0.06046931848036943,False,Right Foot,Open Play,1,0,3,Normal
+3913121,Gun Nathalie Björn,Chelsea FCW,19.677398201998145,0.05824890745648894,False,Left Foot,Open Play,1,0,1,Half Volley
+3913121,Lauren James,Chelsea FCW,9.900505037623084,0.05347746959697318,True,Right Foot,Open Play,1,0,2,Normal
+3913121,Lauren James,Chelsea FCW,19.672569735548024,0.06545888200937869,False,Left Foot,Open Play,0,0,5,Normal
+3913121,Katie Zelem,Manchester United W,22.933381782894553,0.0672907237338743,False,Left Foot,Open Play,1,0,2,Normal
+3913121,Erin Cuthbert,Chelsea FCW,23.280034364235807,0.06613499733962536,False,Right Foot,Open Play,0,0,0,Half Volley
+3913121,Lauren James,Chelsea FCW,14.431216164966832,0.055348644466479184,True,Right Foot,Open Play,1,0,1,Half Volley
+3913121,Niamh Charles,Chelsea FCW,8.881441324469812,0.05893787007458492,False,Left Foot,Open Play,1,0,1,Volley
+3913121,Lucía García Córdoba,Manchester United W,24.871268564349503,0.06248107999370352,False,Right Foot,Open Play,0,0,2,Normal
+3913121,Lucía García Córdoba,Manchester United W,11.672617529928756,0.05703580976864908,False,Right Foot,Open Play,1,0,2,Normal
+3913121,Hayley Ladd,Manchester United W,7.368174807915457,0.056808250952949495,True,Right Foot,Open Play,1,0,4,Normal
+3913121,Johanna Rytting-Kaneryd,Chelsea FCW,18.264993840677857,0.06088374937750986,False,Right Foot,Open Play,1,0,0,Half Volley
+3913121,Lucía García Córdoba,Manchester United W,9.74525525576421,0.05470507110367312,False,Head,Open Play,0,0,1,Normal
+3913121,Melanie Leupolz,Chelsea FCW,23.36942446873692,0.0654672441723512,False,Right Foot,Open Play,1,0,0,Half Volley
+3913121,Hayley Ladd,Manchester United W,9.617692030835672,0.05906229146999046,False,Right Foot,Open Play,0,0,2,Normal
+3913121,Lauren James,Chelsea FCW,14.48447444679993,0.06163888126564986,False,Left Foot,Open Play,0,1,1,Normal
+3913121,Melanie Leupolz,Chelsea FCW,6.356099432828276,0.0574617914195768,False,Head,Open Play,0,1,4,Normal
+3913121,Lauren James,Chelsea FCW,20.24252948620799,0.057717732677213446,False,Left Foot,Open Play,0,0,2,Normal
+3913121,Guro Reiten,Chelsea FCW,12.003749414245535,0.05948365679406363,False,Right Foot,Open Play,1,1,2,Volley
+3913121,Gun Nathalie Björn,Chelsea FCW,9.752948272189286,0.05904565159383346,False,Head,Open Play,0,0,2,Normal
+3913121,Lauren James,Chelsea FCW,14.90369081804906,0.062118479927298666,False,Left Foot,Open Play,0,1,1,Normal
+3913121,Melanie Leupolz,Chelsea FCW,17.910890541790497,0.05850489752226874,False,Right Foot,Open Play,0,0,1,Half Volley
+3913121,Lauren James,Chelsea FCW,15.626259949200898,0.06269235474246487,True,Left Foot,Open Play,0,1,1,Normal
+3913121,Rachel Williams,Manchester United W,7.58023746329889,0.0573954672265941,False,Head,Open Play,0,0,8,Normal
+3913121,Geyse da Silva Ferreira,Manchester United W,17.50114281982751,0.06188359999570776,False,Right Foot,Open Play,1,0,1,Volley
+3913121,Lisa Fjeldstad Naalsund,Manchester United W,20.69033590834136,0.06531843798559928,False,Right Foot,Open Play,0,0,3,Normal
+3913121,Sjoeke Nüsken,Chelsea FCW,16.447796204963144,0.05304006119300557,False,Right Foot,Open Play,1,0,1,Normal
+3913121,Francesca Kirby,Chelsea FCW,27.586228448267445,0.07008332224503008,False,Right Foot,Open Play,0,1,1,Normal

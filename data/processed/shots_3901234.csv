@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.60525312327347,0.05517067658823809,False,Right Foot,Open Play,0,0,1,Normal
-22.953213282675698,0.058202477676005664,False,Right Foot,Open Play,0,0,3,Normal
-13.875157656761964,0.05881855058980816,False,Left Foot,Open Play,0,0,2,Normal
-29.80603965641863,0.07235467865286803,False,Left Foot,Open Play,0,0,1,Half Volley
-6.664833081180658,0.058068601946744396,True,Head,Open Play,0,1,3,Normal
-27.748333283280274,0.056432533897125915,False,Right Foot,Free Kick,0,0,0,Normal
-24.32817296880306,0.0545906167606036,False,Right Foot,Open Play,1,1,3,Half Volley
-13.797463535012518,0.061661500607948345,False,Left Foot,Open Play,0,0,3,Half Volley
-25.52214724508892,0.0689742980906088,False,Left Foot,Open Play,1,0,1,Volley
-14.509651959988563,0.06076026962869044,False,Right Foot,Open Play,1,1,2,Normal
-26.956446353330776,0.06972207682003277,False,Right Foot,Open Play,1,0,1,Normal
-16.01311962111069,0.06199868732490894,False,Head,Open Play,0,0,5,Normal
-10.155294185792947,0.0569516415590898,False,Head,Open Play,0,0,1,Normal
-16.200308639035242,0.06313098224822009,False,Head,Open Play,0,0,1,Normal
-37.993288881064245,0.06223724260701336,False,Left Foot,Open Play,0,0,1,Normal
-13.43018987207553,0.05672552379823502,False,Head,Open Play,0,1,3,Normal
-9.968951800465286,0.05941113544676233,False,Head,Open Play,0,0,5,Normal
-13.74627222195166,0.061002839710365166,False,Right Foot,Open Play,1,0,1,Volley
-26.193892417890087,0.05348673728830384,False,Left Foot,Open Play,0,1,1,Normal
-37.88310969284333,0.0604898468273985,False,Right Foot,Open Play,0,0,0,Half Volley
-5.021951811795882,0.05727697348525952,True,Head,Open Play,0,1,8,Normal
-10.829589096544705,0.05937027503318122,True,Head,Open Play,0,0,3,Normal
-11.833004690272032,0.060616231488774645,True,Left Foot,Open Play,0,0,3,Normal
-15.284632805533802,0.060994610820380976,False,Right Foot,Open Play,0,0,1,Normal
-13.41715320028805,0.061102094063555344,False,Right Foot,Open Play,0,0,2,Normal
-5.872818744010408,0.05506370968882207,True,Right Foot,Open Play,1,0,1,Normal
-28.352072234670963,0.07047802792422259,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901234,Nicolas de Roussel de Préville,Stade de Reims,27.60525312327347,0.05517067658823809,False,Right Foot,Open Play,0,0,1,Normal
+3901234,Nicolas de Roussel de Préville,Stade de Reims,22.953213282675698,0.058202477676005664,False,Right Foot,Open Play,0,0,3,Normal
+3901234,Souleymane Camara,Montpellier,13.875157656761964,0.05881855058980816,False,Left Foot,Open Play,0,0,2,Normal
+3901234,Jérôme Roussillon,Montpellier,29.80603965641863,0.07235467865286803,False,Left Foot,Open Play,0,0,1,Half Volley
+3901234,Souleymane Camara,Montpellier,6.664833081180658,0.058068601946744396,True,Head,Open Play,0,1,3,Normal
+3901234,Nicolas de Roussel de Préville,Stade de Reims,27.748333283280274,0.056432533897125915,False,Right Foot,Free Kick,0,0,0,Normal
+3901234,Aly Ndom,Stade de Reims,24.32817296880306,0.0545906167606036,False,Right Foot,Open Play,1,1,3,Half Volley
+3901234,Nicolas de Roussel de Préville,Stade de Reims,13.797463535012518,0.061661500607948345,False,Left Foot,Open Play,0,0,3,Half Volley
+3901234,Franck Signorino,Stade de Reims,25.52214724508892,0.0689742980906088,False,Left Foot,Open Play,1,0,1,Volley
+3901234,Antoine Conte,Stade de Reims,14.509651959988563,0.06076026962869044,False,Right Foot,Open Play,1,1,2,Normal
+3901234,Ryad Boudebouz,Montpellier,26.956446353330776,0.06972207682003277,False,Right Foot,Open Play,1,0,1,Normal
+3901234,Hugo Rodriguez,Stade de Reims,16.01311962111069,0.06199868732490894,False,Head,Open Play,0,0,5,Normal
+3901234,Nicolas de Roussel de Préville,Stade de Reims,10.155294185792947,0.0569516415590898,False,Head,Open Play,0,0,1,Normal
+3901234,Nicolas de Roussel de Préville,Stade de Reims,16.200308639035242,0.06313098224822009,False,Head,Open Play,0,0,1,Normal
+3901234,Diego Rigonato Rodrigues,Stade de Reims,37.993288881064245,0.06223724260701336,False,Left Foot,Open Play,0,0,1,Normal
+3901234,Souleymane Camara,Montpellier,13.43018987207553,0.05672552379823502,False,Head,Open Play,0,1,3,Normal
+3901234,Nicolas de Roussel de Préville,Stade de Reims,9.968951800465286,0.05941113544676233,False,Head,Open Play,0,0,5,Normal
+3901234,Prince Oniangué,Stade de Reims,13.74627222195166,0.061002839710365166,False,Right Foot,Open Play,1,0,1,Volley
+3901234,Ryad Boudebouz,Montpellier,26.193892417890087,0.05348673728830384,False,Left Foot,Open Play,0,1,1,Normal
+3901234,Jonas Martin,Montpellier,37.88310969284333,0.0604898468273985,False,Right Foot,Open Play,0,0,0,Half Volley
+3901234,Prince Oniangué,Stade de Reims,5.021951811795882,0.05727697348525952,True,Head,Open Play,0,1,8,Normal
+3901234,Daniel Congré,Montpellier,10.829589096544705,0.05937027503318122,True,Head,Open Play,0,0,3,Normal
+3901234,Morgan Sanson,Montpellier,11.833004690272032,0.060616231488774645,True,Left Foot,Open Play,0,0,3,Normal
+3901234,Rodrigue Casimir Ninga,Montpellier,15.284632805533802,0.060994610820380976,False,Right Foot,Open Play,0,0,1,Normal
+3901234,Grejohn Kyei,Stade de Reims,13.41715320028805,0.061102094063555344,False,Right Foot,Open Play,0,0,2,Normal
+3901234,Thievy Guivane Bifouma Koulossa,Stade de Reims,5.872818744010408,0.05506370968882207,True,Right Foot,Open Play,1,0,1,Normal
+3901234,Sébastien Wüthrich,Montpellier,28.352072234670963,0.07047802792422259,False,Right Foot,Open Play,0,0,0,Normal

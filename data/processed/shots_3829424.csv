@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.817164277464116,0.05526095620672206,False,Right Foot,Open Play,0,0,1,Half Volley
-38.042213395122005,0.06766378307038841,False,Right Foot,Free Kick,0,0,0,Normal
-33.576479863142296,0.06694450606860462,False,Right Foot,Open Play,0,0,1,Normal
-14.383671297690308,0.061652174536199846,False,Right Foot,Open Play,1,1,2,Normal
-34.35476677260376,0.07481226706446033,False,Right Foot,Open Play,0,0,1,Normal
-8.405950273467006,0.058607555988161995,False,Head,Open Play,0,0,1,Diving Header
-8.000000000000002,0.05877979930231661,False,Head,Open Play,0,1,2,Normal
-18.74593289223025,0.06476042992852943,False,Right Foot,Open Play,0,0,3,Normal
-8.982761268117951,0.059227098175523255,False,Head,Open Play,0,0,2,Normal
-15.921369287847071,0.0526229860836148,False,Right Foot,Open Play,0,1,1,Half Volley
-8.352843827104639,0.0585644699200649,False,Right Foot,Open Play,0,1,3,Normal
-8.485281374238577,0.057714660915776074,False,Left Foot,Open Play,1,1,3,Volley
-7.443117626371361,0.058484961350608745,False,Left Foot,Open Play,1,0,0,Backheel
-29.68164415931166,0.07240436293722485,False,Left Foot,Open Play,1,0,1,Normal
-19.31320791582797,0.06523962800115847,True,Right Foot,Open Play,1,0,1,Normal
-4.825971404805463,0.05469871658278814,False,Head,Open Play,0,1,3,Normal
-29.03411786157795,0.0718202376790322,False,Right Foot,Open Play,0,1,1,Normal
-14.616771189288006,0.05654899178917331,False,Right Foot,Open Play,1,1,1,Half Volley
-9.245539465060975,0.05570213075269897,False,Head,Open Play,0,0,3,Normal
-8.876936408468861,0.05912464825549026,False,Head,Open Play,0,1,3,Normal
-15.084097586531316,0.06232565925254515,False,Right Foot,Open Play,1,1,1,Volley
-33.40134727821619,0.06983704740175908,False,Right Foot,Open Play,1,0,0,Half Volley
-12.780062597655776,0.061342781229250444,False,Head,Open Play,0,1,4,Normal
-16.62437968767557,0.06321319248917674,False,Right Foot,Open Play,0,0,0,Half Volley
-22.372527796384563,0.06497575704988041,True,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829424,André Biyogo Poko,Bordeaux,19.817164277464116,0.05526095620672206,False,Right Foot,Open Play,0,0,1,Half Volley
+3829424,Jean-Christophe Bahebeck,Saint-Étienne,38.042213395122005,0.06766378307038841,False,Right Foot,Free Kick,0,0,0,Normal
+3829424,Clément Chantôme,Bordeaux,33.576479863142296,0.06694450606860462,False,Right Foot,Open Play,0,0,1,Normal
+3829424,Frédéric Guilbert,Bordeaux,14.383671297690308,0.061652174536199846,False,Right Foot,Open Play,1,1,2,Normal
+3829424,Wahbi Khazri,Bordeaux,34.35476677260376,0.07481226706446033,False,Right Foot,Open Play,0,0,1,Normal
+3829424,Jean-Christophe Bahebeck,Saint-Étienne,8.405950273467006,0.058607555988161995,False,Head,Open Play,0,0,1,Diving Header
+3829424,Cheick Tidiane Diabaté,Bordeaux,8.000000000000002,0.05877979930231661,False,Head,Open Play,0,1,2,Normal
+3829424,Wahbi Khazri,Bordeaux,18.74593289223025,0.06476042992852943,False,Right Foot,Open Play,0,0,3,Normal
+3829424,Jean-Christophe Bahebeck,Saint-Étienne,8.982761268117951,0.059227098175523255,False,Head,Open Play,0,0,2,Normal
+3829424,André Biyogo Poko,Bordeaux,15.921369287847071,0.0526229860836148,False,Right Foot,Open Play,0,1,1,Half Volley
+3829424,André Biyogo Poko,Bordeaux,8.352843827104639,0.0585644699200649,False,Right Foot,Open Play,0,1,3,Normal
+3829424,Clément Chantôme,Bordeaux,8.485281374238577,0.057714660915776074,False,Left Foot,Open Play,1,1,3,Volley
+3829424,Nolan Roux,Saint-Étienne,7.443117626371361,0.058484961350608745,False,Left Foot,Open Play,1,0,0,Backheel
+3829424,Benoît Assou-Ekotto,Saint-Étienne,29.68164415931166,0.07240436293722485,False,Left Foot,Open Play,1,0,1,Normal
+3829424,Romain Hamouma,Saint-Étienne,19.31320791582797,0.06523962800115847,True,Right Foot,Open Play,1,0,1,Normal
+3829424,Cheick Tidiane Diabaté,Bordeaux,4.825971404805463,0.05469871658278814,False,Head,Open Play,0,1,3,Normal
+3829424,Henri Saivet,Bordeaux,29.03411786157795,0.0718202376790322,False,Right Foot,Open Play,0,1,1,Normal
+3829424,Cheick Tidiane Diabaté,Bordeaux,14.616771189288006,0.05654899178917331,False,Right Foot,Open Play,1,1,1,Half Volley
+3829424,Cheick Tidiane Diabaté,Bordeaux,9.245539465060975,0.05570213075269897,False,Head,Open Play,0,0,3,Normal
+3829424,Cédric Yambéré,Bordeaux,8.876936408468861,0.05912464825549026,False,Head,Open Play,0,1,3,Normal
+3829424,Cédric Yambéré,Bordeaux,15.084097586531316,0.06232565925254515,False,Right Foot,Open Play,1,1,1,Volley
+3829424,Frédéric Guilbert,Bordeaux,33.40134727821619,0.06983704740175908,False,Right Foot,Open Play,1,0,0,Half Volley
+3829424,Cédric Yambéré,Bordeaux,12.780062597655776,0.061342781229250444,False,Head,Open Play,0,1,4,Normal
+3829424,Florentin Pogba,Saint-Étienne,16.62437968767557,0.06321319248917674,False,Right Foot,Open Play,0,0,0,Half Volley
+3829424,Henri Saivet,Bordeaux,22.372527796384563,0.06497575704988041,True,Right Foot,Free Kick,0,0,0,Normal

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.84491190615538,0.06682828582679964,False,Right Foot,Open Play,0,1,3,Normal
-28.504736448527282,0.07100506205030566,False,Right Foot,Free Kick,0,0,0,Normal
-8.827797007181347,0.05804102929202995,False,Left Foot,Open Play,1,0,1,Normal
-26.86000744601535,0.07015907104486842,False,Left Foot,Open Play,0,0,2,Normal
-18.208239892971534,0.05832836375502363,False,Left Foot,Open Play,1,0,1,Normal
-12.317873193047571,0.058624381470448045,False,Left Foot,Open Play,0,0,1,Normal
-16.977926846349646,0.06172675939573038,False,Left Foot,Open Play,0,1,2,Normal
-17.810109488714556,0.0603388139822204,False,Left Foot,Open Play,0,1,4,Normal
-9.104943712072032,0.05912905068274147,False,Head,Open Play,0,1,3,Normal
-13.640014662748722,0.0618258708053658,False,Left Foot,Open Play,0,0,3,Normal
-11.80169479354554,0.05943636326064076,False,Left Foot,Open Play,1,0,2,Half Volley
-9.93680028983173,0.059628883744027854,False,Head,Open Play,0,0,4,Normal
-26.529417634015267,0.05849602838416118,False,Right Foot,Open Play,0,0,1,Half Volley
-19.116746585127917,0.06499120568736028,False,Right Foot,Open Play,1,0,2,Half Volley
-8.71435597161374,0.05840087237108446,False,Left Foot,Open Play,1,1,3,Half Volley
-8.74757109145161,0.058719865332872614,False,Head,Open Play,0,1,2,Normal
-28.99275771636772,0.05385768214995956,False,Left Foot,Free Kick,0,0,0,Normal
-10.890362712049582,0.05957658951909537,False,Head,Open Play,0,1,6,Normal
-11.920570456148484,0.06058053840409283,False,Left Foot,Open Play,1,1,1,Half Volley
-32.572534442379514,0.07313914021927946,False,Right Foot,Open Play,0,0,2,Normal
-7.151223671512452,0.05662910070504932,False,Head,Open Play,0,1,3,Normal
-28.112808468738944,0.06922124929946388,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773372,Thomas Lemar,Atlético Madrid,22.84491190615538,0.06682828582679964,False,Right Foot,Open Play,0,1,3,Normal
+3773372,Luis Alberto Suárez Díaz,Atlético Madrid,28.504736448527282,0.07100506205030566,False,Right Foot,Free Kick,0,0,0,Normal
+3773372,Ángel Martín Correa,Atlético Madrid,8.827797007181347,0.05804102929202995,False,Left Foot,Open Play,1,0,1,Normal
+3773372,Antoine Griezmann,Barcelona,26.86000744601535,0.07015907104486842,False,Left Foot,Open Play,0,0,2,Normal
+3773372,Marcos Llorente Moreno,Atlético Madrid,18.208239892971534,0.05832836375502363,False,Left Foot,Open Play,1,0,1,Normal
+3773372,Luis Alberto Suárez Díaz,Atlético Madrid,12.317873193047571,0.058624381470448045,False,Left Foot,Open Play,0,0,1,Normal
+3773372,Yannick Ferreira Carrasco,Atlético Madrid,16.977926846349646,0.06172675939573038,False,Left Foot,Open Play,0,1,2,Normal
+3773372,Lionel Andrés Messi Cuccittini,Barcelona,17.810109488714556,0.0603388139822204,False,Left Foot,Open Play,0,1,4,Normal
+3773372,Moriba Kourouma Kourouma,Barcelona,9.104943712072032,0.05912905068274147,False,Head,Open Play,0,1,3,Normal
+3773372,Yannick Ferreira Carrasco,Atlético Madrid,13.640014662748722,0.0618258708053658,False,Left Foot,Open Play,0,0,3,Normal
+3773372,Felipe Augusto de Almeida Monteiro,Atlético Madrid,11.80169479354554,0.05943636326064076,False,Left Foot,Open Play,1,0,2,Half Volley
+3773372,Clément Lenglet,Barcelona,9.93680028983173,0.059628883744027854,False,Head,Open Play,0,0,4,Normal
+3773372,Luis Alberto Suárez Díaz,Atlético Madrid,26.529417634015267,0.05849602838416118,False,Right Foot,Open Play,0,0,1,Half Volley
+3773372,Yannick Ferreira Carrasco,Atlético Madrid,19.116746585127917,0.06499120568736028,False,Right Foot,Open Play,1,0,2,Half Volley
+3773372,Moriba Kourouma Kourouma,Barcelona,8.71435597161374,0.05840087237108446,False,Left Foot,Open Play,1,1,3,Half Volley
+3773372,Gerard Piqué Bernabéu,Barcelona,8.74757109145161,0.058719865332872614,False,Head,Open Play,0,1,2,Normal
+3773372,Lionel Andrés Messi Cuccittini,Barcelona,28.99275771636772,0.05385768214995956,False,Left Foot,Free Kick,0,0,0,Normal
+3773372,Gerard Piqué Bernabéu,Barcelona,10.890362712049582,0.05957658951909537,False,Head,Open Play,0,1,6,Normal
+3773372,Antoine Griezmann,Barcelona,11.920570456148484,0.06058053840409283,False,Left Foot,Open Play,1,1,1,Half Volley
+3773372,Moriba Kourouma Kourouma,Barcelona,32.572534442379514,0.07313914021927946,False,Right Foot,Open Play,0,0,2,Normal
+3773372,Ousmane Dembélé,Barcelona,7.151223671512452,0.05662910070504932,False,Head,Open Play,0,1,3,Normal
+3773372,Lionel Andrés Messi Cuccittini,Barcelona,28.112808468738944,0.06922124929946388,False,Left Foot,Free Kick,0,0,0,Normal

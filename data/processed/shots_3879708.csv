@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.700000000000003,0.05988573760180717,False,Left Foot,Open Play,0,1,4,Normal
-16.658031096140988,0.05739630710515238,False,Right Foot,Open Play,0,0,4,Normal
-20.000000000000004,0.06502880272953449,False,Left Foot,Open Play,1,1,1,Normal
-37.47692623468472,0.07861748928082252,False,Right Foot,Open Play,0,0,2,Normal
-5.235456045083365,0.05736236990659207,True,Left Foot,Open Play,1,0,3,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-7.553806987208502,0.05746107481854214,True,Right Foot,Open Play,1,0,2,Normal
-14.946571513226699,0.05787664883805006,False,Head,Open Play,0,0,2,Normal
-9.9569071503153,0.05426642761439424,False,Head,Open Play,0,1,2,Normal
-24.57356303021603,0.06611200204742579,False,Left Foot,Open Play,1,0,1,Normal
-21.03188056261256,0.06120603102063209,False,Right Foot,Open Play,1,1,3,Normal
-32.0777181233329,0.07328569020786693,False,Left Foot,Open Play,1,0,0,Normal
-27.024803422041757,0.06879530299288807,False,Left Foot,Open Play,0,0,2,Normal
-19.014205216100933,0.06434018927549695,False,Right Foot,Open Play,1,0,1,Normal
-33.999117635609316,0.06699957475298288,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879708,Diego Falcinelli,Sassuolo,12.700000000000003,0.05988573760180717,False,Left Foot,Open Play,0,1,4,Normal
+3879708,Germán Gustavo Denis,Atalanta,16.658031096140988,0.05739630710515238,False,Right Foot,Open Play,0,0,4,Normal
+3879708,Joseph Alfred Duncan,Sassuolo,20.000000000000004,0.06502880272953449,False,Left Foot,Open Play,1,1,1,Normal
+3879708,Francesco Magnanelli,Sassuolo,37.47692623468472,0.07861748928082252,False,Right Foot,Open Play,0,0,2,Normal
+3879708,Domenico Berardi,Sassuolo,5.235456045083365,0.05736236990659207,True,Left Foot,Open Play,1,0,3,Normal
+3879708,Germán Gustavo Denis,Atalanta,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3879708,Germán Gustavo Denis,Atalanta,7.553806987208502,0.05746107481854214,True,Right Foot,Open Play,1,0,2,Normal
+3879708,Germán Gustavo Denis,Atalanta,14.946571513226699,0.05787664883805006,False,Head,Open Play,0,0,2,Normal
+3879708,Davide Biondini,Sassuolo,9.9569071503153,0.05426642761439424,False,Head,Open Play,0,1,2,Normal
+3879708,Joseph Alfred Duncan,Sassuolo,24.57356303021603,0.06611200204742579,False,Left Foot,Open Play,1,0,1,Normal
+3879708,Domenico Berardi,Sassuolo,21.03188056261256,0.06120603102063209,False,Right Foot,Open Play,1,1,3,Normal
+3879708,Alessandro Longhi,Sassuolo,32.0777181233329,0.07328569020786693,False,Left Foot,Open Play,1,0,0,Normal
+3879708,Alejandro Darío Gómez,Atalanta,27.024803422041757,0.06879530299288807,False,Left Foot,Open Play,0,0,2,Normal
+3879708,Luca Cigarini,Atalanta,19.014205216100933,0.06434018927549695,False,Right Foot,Open Play,1,0,1,Normal
+3879708,Francesco Magnanelli,Sassuolo,33.999117635609316,0.06699957475298288,False,Right Foot,Open Play,0,0,0,Normal

@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.388613177238113,0.06276026642228073,False,Right Foot,Open Play,1,0,1,Volley
-13.081666560496028,0.05521177981716855,False,Right Foot,Open Play,0,1,2,Volley
-28.113519879232477,0.06140007148866952,False,Left Foot,Open Play,0,0,2,Normal
-18.59946235782099,0.06443294795792331,False,Right Foot,Open Play,1,0,2,Half Volley
-23.168297304722245,0.06605781591400821,False,Right Foot,Open Play,1,0,2,Half Volley
-9.047098982546835,0.05756574007267768,False,Right Foot,Open Play,1,1,2,Normal
-7.467261881037788,0.05670915917297217,True,Left Foot,Open Play,1,1,4,Half Volley
-29.533032353620584,0.07231861009079496,False,Right Foot,Open Play,1,1,1,Normal
-19.749683541768462,0.06355457922010087,False,Left Foot,Open Play,0,0,3,Half Volley
-21.464622055838763,0.06573075352839264,False,Left Foot,Open Play,0,0,1,Half Volley
-21.89360637263765,0.05950582058159416,False,Right Foot,Open Play,1,0,2,Normal
-24.010206163213176,0.06462247223343102,False,Left Foot,Free Kick,0,0,0,Normal
-24.69109151090733,0.06264066330738885,False,Left Foot,Open Play,0,0,1,Normal
-23.2131428290096,0.06773558031393138,False,Right Foot,Open Play,0,0,2,Normal
-28.689545134072794,0.061221680103702845,False,Right Foot,Open Play,0,0,1,Normal
-18.69866305381216,0.06345513527471744,False,Left Foot,Open Play,1,0,1,Normal
-23.83212118129648,0.0673938149734648,False,Right Foot,Open Play,1,0,1,Half Volley
-18.172781845386243,0.06416410077988427,False,Right Foot,Open Play,0,1,2,Normal
-11.22719911643149,0.05784204379840055,False,Right Foot,Open Play,0,0,2,Half Volley
-13.923002549737614,0.05381506145208687,False,Left Foot,Open Play,0,0,2,Normal
-8.500588214941365,0.05812138231056161,False,Right Foot,Open Play,0,0,1,Lob
-11.307077429645556,0.059158008894404535,True,Head,Open Play,0,1,6,Normal
-9.544108130150242,0.05959245674911262,True,Left Foot,Open Play,0,0,3,Half Volley
-21.856349191939632,0.05560656251765002,False,Left Foot,Open Play,0,1,2,Normal
-34.162113517755316,0.0663036506151751,False,Right Foot,Open Play,0,0,0,Normal
-12.55388386118017,0.05677427219116045,False,Left Foot,Open Play,1,0,2,Normal
-10.75406899736095,0.06022687044456342,False,Right Foot,Open Play,1,0,3,Normal
-9.96393496566492,0.05467036098902637,False,Head,Open Play,0,1,4,Normal
-22.67906523646863,0.0673062087920555,False,Left Foot,Open Play,1,0,2,Volley
-14.92816130673835,0.06227546032619488,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825821,Mikel Rico Moreno,Athletic Club,22.388613177238113,0.06276026642228073,False,Right Foot,Open Play,1,0,1,Volley
+3825821,Óscar de Marcos Arana,Athletic Club,13.081666560496028,0.05521177981716855,False,Right Foot,Open Play,0,1,2,Volley
+3825821,Aritz Aduriz Zubeldia,Athletic Club,28.113519879232477,0.06140007148866952,False,Left Foot,Open Play,0,0,2,Normal
+3825821,Mikel Rico Moreno,Athletic Club,18.59946235782099,0.06443294795792331,False,Right Foot,Open Play,1,0,2,Half Volley
+3825821,Abraham González Casanova,Espanyol,23.168297304722245,0.06605781591400821,False,Right Foot,Open Play,1,0,2,Half Volley
+3825821,Javier Eraso Goñi,Athletic Club,9.047098982546835,0.05756574007267768,False,Right Foot,Open Play,1,1,2,Normal
+3825821,Javier Eraso Goñi,Athletic Club,7.467261881037788,0.05670915917297217,True,Left Foot,Open Play,1,1,4,Half Volley
+3825821,Papa Kouly Diop,Espanyol,29.533032353620584,0.07231861009079496,False,Right Foot,Open Play,1,1,1,Normal
+3825821,Marco Asensio Willemsen,Espanyol,19.749683541768462,0.06355457922010087,False,Left Foot,Open Play,0,0,3,Half Volley
+3825821,Gerard Moreno Balaguero,Espanyol,21.464622055838763,0.06573075352839264,False,Left Foot,Open Play,0,0,1,Half Volley
+3825821,Abraham González Casanova,Espanyol,21.89360637263765,0.05950582058159416,False,Right Foot,Open Play,1,0,2,Normal
+3825821,Marco Asensio Willemsen,Espanyol,24.010206163213176,0.06462247223343102,False,Left Foot,Free Kick,0,0,0,Normal
+3825821,Marco Asensio Willemsen,Espanyol,24.69109151090733,0.06264066330738885,False,Left Foot,Open Play,0,0,1,Normal
+3825821,Íñigo Lekue Martínez,Athletic Club,23.2131428290096,0.06773558031393138,False,Right Foot,Open Play,0,0,2,Normal
+3825821,Ander Iturraspe Derteano,Athletic Club,28.689545134072794,0.061221680103702845,False,Right Foot,Open Play,0,0,1,Normal
+3825821,Rubén Duarte Sánchez,Espanyol,18.69866305381216,0.06345513527471744,False,Left Foot,Open Play,1,0,1,Normal
+3825821,Hernán Arsenio Pérez González,Espanyol,23.83212118129648,0.0673938149734648,False,Right Foot,Open Play,1,0,1,Half Volley
+3825821,Íñigo Lekue Martínez,Athletic Club,18.172781845386243,0.06416410077988427,False,Right Foot,Open Play,0,1,2,Normal
+3825821,Marco Asensio Willemsen,Espanyol,11.22719911643149,0.05784204379840055,False,Right Foot,Open Play,0,0,2,Half Volley
+3825821,Hernán Arsenio Pérez González,Espanyol,13.923002549737614,0.05381506145208687,False,Left Foot,Open Play,0,0,2,Normal
+3825821,Gerard Moreno Balaguero,Espanyol,8.500588214941365,0.05812138231056161,False,Right Foot,Open Play,0,0,1,Lob
+3825821,Papa Kouly Diop,Espanyol,11.307077429645556,0.059158008894404535,True,Head,Open Play,0,1,6,Normal
+3825821,Felipe Salvador Caicedo Corozo,Espanyol,9.544108130150242,0.05959245674911262,True,Left Foot,Open Play,0,0,3,Half Volley
+3825821,Hernán Arsenio Pérez González,Espanyol,21.856349191939632,0.05560656251765002,False,Left Foot,Open Play,0,1,2,Normal
+3825821,Beñat Etxebarria Urkiaga,Athletic Club,34.162113517755316,0.0663036506151751,False,Right Foot,Open Play,0,0,0,Normal
+3825821,Abraham González Casanova,Espanyol,12.55388386118017,0.05677427219116045,False,Left Foot,Open Play,1,0,2,Normal
+3825821,Aymeric Laporte,Athletic Club,10.75406899736095,0.06022687044456342,False,Right Foot,Open Play,1,0,3,Normal
+3825821,Xabier Etxeita Gorritxategi,Athletic Club,9.96393496566492,0.05467036098902637,False,Head,Open Play,0,1,4,Normal
+3825821,Raúl García Escudero,Athletic Club,22.67906523646863,0.0673062087920555,False,Left Foot,Open Play,1,0,2,Volley
+3825821,Mamadou Sylla Diallo,Espanyol,14.92816130673835,0.06227546032619488,False,Left Foot,Open Play,0,0,1,Normal

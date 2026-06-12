@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.456001209555456,0.05561045410356522,False,Left Foot,Free Kick,0,0,0,Normal
-11.86001686339442,0.0560525761691405,False,Right Foot,Open Play,0,0,2,Half Volley
-21.40093455903269,0.06583153382708135,False,Right Foot,Open Play,1,1,1,Normal
-14.302447343024904,0.061972374307190985,False,Head,Open Play,0,0,2,Normal
-11.447707194019246,0.0546214777863768,False,Head,Open Play,0,0,1,Normal
-17.083617883809044,0.055628489903855556,False,Right Foot,Open Play,0,0,2,Normal
-25.134836382996408,0.06669972568814976,False,Left Foot,Open Play,1,0,0,Half Volley
-13.510366390294527,0.06162581594290907,False,Right Foot,Open Play,0,0,1,Half Volley
-23.086792761230388,0.06769665613498403,False,Right Foot,Open Play,1,0,2,Volley
-11.454256850621087,0.06053057652293335,True,Left Foot,Open Play,1,0,1,Normal
-20.977368757782752,0.058201571747965905,False,Left Foot,Free Kick,0,0,0,Normal
-34.20321622303961,0.06539581618139538,False,Right Foot,Open Play,0,0,0,Normal
-17.780044994318768,0.05551449476279641,False,Left Foot,Open Play,0,0,2,Normal
-16.089748288895013,0.06326085452315394,False,Left Foot,Open Play,0,0,1,Normal
-8.508818954473066,0.05632122974420812,True,Right Foot,Open Play,1,1,2,Volley
-12.72006289292628,0.06094140509420618,False,Left Foot,Open Play,1,1,2,Normal
-6.2241465278381725,0.05510633496822966,True,Left Foot,Open Play,1,0,3,Half Volley
-13.613228860193313,0.061058185573178346,True,Left Foot,Open Play,1,0,2,Normal
-21.27087210247854,0.06562727324233393,False,Right Foot,Free Kick,0,0,0,Normal
-34.20365477547685,0.07038434426537123,False,Left Foot,Open Play,1,0,1,Half Volley
-12.390722335683261,0.0548787713118664,False,Right Foot,Open Play,1,0,0,Half Volley
-11.440279716860074,0.05605612290214827,False,Right Foot,Open Play,1,0,1,Normal
-25.012197024651798,0.062421354490945116,False,Left Foot,Open Play,0,0,1,Normal
-18.30437106267244,0.06453276779861876,False,Left Foot,Open Play,0,0,2,Normal
-16.41493222648208,0.06174253597661412,False,Left Foot,Open Play,0,0,1,Normal
-26.400000000000006,0.06611732979063606,False,Left Foot,Open Play,0,0,1,Normal
-12.794139283281233,0.06036855463422588,False,Head,Open Play,0,1,2,Normal
-12.343824366864585,0.05725736323444389,True,Right Foot,Open Play,1,0,1,Normal
-16.47543626129518,0.062448877470435045,False,Left Foot,Open Play,0,0,2,Normal
-25.825762331439517,0.05466051169831459,False,Right Foot,Open Play,0,0,1,Normal
-21.2438226315322,0.06638246016058295,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879819,Riccardo Gagliolo,Carpi,26.456001209555456,0.05561045410356522,False,Left Foot,Free Kick,0,0,0,Normal
+3879819,Jerry Uche Mbakogu,Carpi,11.86001686339442,0.0560525761691405,False,Right Foot,Open Play,0,0,2,Half Volley
+3879819,Antonio Di Gaudio,Carpi,21.40093455903269,0.06583153382708135,False,Right Foot,Open Play,1,1,1,Normal
+3879819,Leonardo Pavoletti,Genoa,14.302447343024904,0.061972374307190985,False,Head,Open Play,0,0,2,Normal
+3879819,Luca Rigoni,Genoa,11.447707194019246,0.0546214777863768,False,Head,Open Play,0,0,1,Normal
+3879819,Luca Rigoni,Genoa,17.083617883809044,0.055628489903855556,False,Right Foot,Open Play,0,0,2,Normal
+3879819,Blerim Džemaili,Genoa,25.134836382996408,0.06669972568814976,False,Left Foot,Open Play,1,0,0,Half Volley
+3879819,Leonardo Pavoletti,Genoa,13.510366390294527,0.06162581594290907,False,Right Foot,Open Play,0,0,1,Half Volley
+3879819,Leonardo Pavoletti,Genoa,23.086792761230388,0.06769665613498403,False,Right Foot,Open Play,1,0,2,Volley
+3879819,Leonardo Pavoletti,Genoa,11.454256850621087,0.06053057652293335,True,Left Foot,Open Play,1,0,1,Normal
+3879819,Riccardo Gagliolo,Carpi,20.977368757782752,0.058201571747965905,False,Left Foot,Free Kick,0,0,0,Normal
+3879819,Gaetano Letizia,Carpi,34.20321622303961,0.06539581618139538,False,Right Foot,Open Play,0,0,0,Normal
+3879819,Cristian Daniel Ansaldi,Genoa,17.780044994318768,0.05551449476279641,False,Left Foot,Open Play,0,0,2,Normal
+3879819,Alessio Cerci,Genoa,16.089748288895013,0.06326085452315394,False,Left Foot,Open Play,0,0,1,Normal
+3879819,Antonio Di Gaudio,Carpi,8.508818954473066,0.05632122974420812,True,Right Foot,Open Play,1,1,2,Volley
+3879819,Lorenzo Lollo,Carpi,12.72006289292628,0.06094140509420618,False,Left Foot,Open Play,1,1,2,Normal
+3879819,Lorenzo Lollo,Carpi,6.2241465278381725,0.05510633496822966,True,Left Foot,Open Play,1,0,3,Half Volley
+3879819,Lorenzo Pasciuti,Carpi,13.613228860193313,0.061058185573178346,True,Left Foot,Open Play,1,0,2,Normal
+3879819,Darko Lazović,Genoa,21.27087210247854,0.06562727324233393,False,Right Foot,Free Kick,0,0,0,Normal
+3879819,Cristian Daniel Ansaldi,Genoa,34.20365477547685,0.07038434426537123,False,Left Foot,Open Play,1,0,1,Half Volley
+3879819,Darko Lazović,Genoa,12.390722335683261,0.0548787713118664,False,Right Foot,Open Play,1,0,0,Half Volley
+3879819,Darko Lazović,Genoa,11.440279716860074,0.05605612290214827,False,Right Foot,Open Play,1,0,1,Normal
+3879819,Kevin Lasagna,Carpi,25.012197024651798,0.062421354490945116,False,Left Foot,Open Play,0,0,1,Normal
+3879819,Kevin Lasagna,Carpi,18.30437106267244,0.06453276779861876,False,Left Foot,Open Play,0,0,2,Normal
+3879819,Kevin Lasagna,Carpi,16.41493222648208,0.06174253597661412,False,Left Foot,Open Play,0,0,1,Normal
+3879819,Raffaele Bianco,Carpi,26.400000000000006,0.06611732979063606,False,Left Foot,Open Play,0,0,1,Normal
+3879819,Panagiotis Tachtsidis,Genoa,12.794139283281233,0.06036855463422588,False,Head,Open Play,0,1,2,Normal
+3879819,Stefano Sabelli,Carpi,12.343824366864585,0.05725736323444389,True,Right Foot,Open Play,1,0,1,Normal
+3879819,Diego Sebastián Laxalt Suárez,Genoa,16.47543626129518,0.062448877470435045,False,Left Foot,Open Play,0,0,2,Normal
+3879819,Blerim Džemaili,Genoa,25.825762331439517,0.05466051169831459,False,Right Foot,Open Play,0,0,1,Normal
+3879819,Marco Crimi,Carpi,21.2438226315322,0.06638246016058295,False,Right Foot,Open Play,0,1,2,Normal

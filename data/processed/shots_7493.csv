@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.209372712298546,0.053816974541706926,False,Right Foot,Open Play,0,0,0,Normal
-24.698178070456937,0.057466446940234,False,Right Foot,Free Kick,0,0,0,Normal
-22.02271554554524,0.06355739422521517,False,Right Foot,Open Play,0,1,2,Normal
-9.848857801796104,0.0588837603223269,False,Left Foot,Open Play,0,0,2,Normal
-19.849433241279208,0.05411083737358477,False,Right Foot,Open Play,0,0,3,Normal
-24.020824298928627,0.06447734515930043,False,Right Foot,Open Play,0,0,2,Lob
-6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,2,Normal
-5.0,0.057142015113999835,False,Right Foot,Open Play,1,0,3,Normal
-10.63014581273465,0.05995590329582852,False,Right Foot,Open Play,1,0,1,Half Volley
-32.69556544854363,0.060391225475806797,False,Right Foot,Open Play,0,0,1,Normal
-9.486832980505138,0.05933973589891108,False,Right Foot,Open Play,0,0,3,Half Volley
-13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,1,Volley
-22.80350850198276,0.05314392371668994,False,Right Foot,Open Play,0,1,2,Normal
-9.433981132056603,0.054201915489028224,False,Right Foot,Open Play,0,0,2,Half Volley
-26.019223662515376,0.06642440035610261,False,Left Foot,Open Play,0,0,2,Normal
-8.94427190999916,0.059225041351301994,True,Right Foot,Open Play,0,0,2,Lob
-16.278820596099706,0.06298210882459589,False,Right Foot,Open Play,0,0,1,Normal
-33.61547262794322,0.07528983845942953,False,Left Foot,Open Play,0,0,2,Normal
-5.830951894845301,0.057413694988867656,False,Head,Open Play,0,1,4,Normal
-13.92838827718412,0.061785603505146204,False,Left Foot,Open Play,0,1,2,Half Volley
-22.02271554554524,0.06355739422521517,False,Right Foot,Open Play,0,1,2,Half Volley
-25.612496949731394,0.05572386125008547,False,Right Foot,Open Play,0,1,2,Normal
-26.90724809414742,0.06979644433255193,False,Right Foot,Open Play,0,0,2,Normal
-26.92582403567252,0.06229282135453244,False,Right Foot,Open Play,0,1,1,Normal
-12.041594578792296,0.060871607794059486,False,Right Foot,Open Play,1,0,1,Normal
-4.47213595499958,0.055780969328069314,False,Head,Open Play,0,0,4,Normal
-21.213203435596427,0.054702205026093,False,Left Foot,Open Play,1,0,3,Half Volley
-8.94427190999916,0.058627918422720963,True,Right Foot,Open Play,1,0,1,Lob
-9.219544457292887,0.0593883558980146,False,Left Foot,Open Play,0,1,1,Normal
-22.360679774997898,0.06713754122477203,False,Right Foot,Open Play,0,0,2,Normal
-24.331050121192877,0.06683491761687067,False,Left Foot,Open Play,1,0,0,Normal
-26.419689627245813,0.05811253790093695,False,Right Foot,Open Play,1,0,2,Normal
-8.94427190999916,0.059225041351301994,False,Right Foot,Open Play,0,0,2,Normal
-15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7493,Jasmyne Spencer,OL Reign,19.209372712298546,0.053816974541706926,False,Right Foot,Open Play,0,0,0,Normal
+7493,Tori Huster,Washington Spirit,24.698178070456937,0.057466446940234,False,Right Foot,Free Kick,0,0,0,Normal
+7493,Ashley Hatch,Washington Spirit,22.02271554554524,0.06355739422521517,False,Right Foot,Open Play,0,1,2,Normal
+7493,Megan Anna Rapinoe,OL Reign,9.848857801796104,0.0588837603223269,False,Left Foot,Open Play,0,0,2,Normal
+7493,Jodie Taylor,OL Reign,19.849433241279208,0.05411083737358477,False,Right Foot,Open Play,0,0,3,Normal
+7493,Jessica Fishlock,OL Reign,24.020824298928627,0.06447734515930043,False,Right Foot,Open Play,0,0,2,Lob
+7493,Ashley Hatch,Washington Spirit,6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,2,Normal
+7493,Jessica Fishlock,OL Reign,5.0,0.057142015113999835,False,Right Foot,Open Play,1,0,3,Normal
+7493,Jessica Fishlock,OL Reign,10.63014581273465,0.05995590329582852,False,Right Foot,Open Play,1,0,1,Half Volley
+7493,Jessica Fishlock,OL Reign,32.69556544854363,0.060391225475806797,False,Right Foot,Open Play,0,0,1,Normal
+7493,Allie Long,OL Reign,9.486832980505138,0.05933973589891108,False,Right Foot,Open Play,0,0,3,Half Volley
+7493,Megan Anna Rapinoe,OL Reign,13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,1,Volley
+7493,Taylor Smith,Washington Spirit,22.80350850198276,0.05314392371668994,False,Right Foot,Open Play,0,1,2,Normal
+7493,Jodie Taylor,OL Reign,9.433981132056603,0.054201915489028224,False,Right Foot,Open Play,0,0,2,Half Volley
+7493,Jasmyne Spencer,OL Reign,26.019223662515376,0.06642440035610261,False,Left Foot,Open Play,0,0,2,Normal
+7493,Jasmyne Spencer,OL Reign,8.94427190999916,0.059225041351301994,True,Right Foot,Open Play,0,0,2,Lob
+7493,Alyssa Kleiner,OL Reign,16.278820596099706,0.06298210882459589,False,Right Foot,Open Play,0,0,1,Normal
+7493,Ashley Hatch,Washington Spirit,33.61547262794322,0.07528983845942953,False,Left Foot,Open Play,0,0,2,Normal
+7493,Ashley Hatch,Washington Spirit,5.830951894845301,0.057413694988867656,False,Head,Open Play,0,1,4,Normal
+7493,Meggie Dougherty Howard,Washington Spirit,13.92838827718412,0.061785603505146204,False,Left Foot,Open Play,0,1,2,Half Volley
+7493,Havana Solaun,Washington Spirit,22.02271554554524,0.06355739422521517,False,Right Foot,Open Play,0,1,2,Half Volley
+7493,Ashley Hatch,Washington Spirit,25.612496949731394,0.05572386125008547,False,Right Foot,Open Play,0,1,2,Normal
+7493,Megan Anna Rapinoe,OL Reign,26.90724809414742,0.06979644433255193,False,Right Foot,Open Play,0,0,2,Normal
+7493,Whitney Church,Washington Spirit,26.92582403567252,0.06229282135453244,False,Right Foot,Open Play,0,1,1,Normal
+7493,Jodie Taylor,OL Reign,12.041594578792296,0.060871607794059486,False,Right Foot,Open Play,1,0,1,Normal
+7493,Jasmyne Spencer,OL Reign,4.47213595499958,0.055780969328069314,False,Head,Open Play,0,0,4,Normal
+7493,Allie Long,OL Reign,21.213203435596427,0.054702205026093,False,Left Foot,Open Play,1,0,3,Half Volley
+7493,Jodie Taylor,OL Reign,8.94427190999916,0.058627918422720963,True,Right Foot,Open Play,1,0,1,Lob
+7493,Caprice Dydasco,Washington Spirit,9.219544457292887,0.0593883558980146,False,Left Foot,Open Play,0,1,1,Normal
+7493,Megan Anna Rapinoe,OL Reign,22.360679774997898,0.06713754122477203,False,Right Foot,Open Play,0,0,2,Normal
+7493,Allie Long,OL Reign,24.331050121192877,0.06683491761687067,False,Left Foot,Open Play,1,0,0,Normal
+7493,Jessica Fishlock,OL Reign,26.419689627245813,0.05811253790093695,False,Right Foot,Open Play,1,0,2,Normal
+7493,Caprice Dydasco,Washington Spirit,8.94427190999916,0.059225041351301994,False,Right Foot,Open Play,0,0,2,Normal
+7493,Andi Sullivan,Washington Spirit,15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,1,Normal

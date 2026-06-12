@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.531485111749642,0.05835145388565812,False,Right Foot,Open Play,0,0,2,Normal
-3.0463092423455618,0.05627821027338239,True,Head,Open Play,0,1,4,Normal
-17.880715869338115,0.053642372374054746,False,Right Foot,Open Play,0,0,1,Normal
-13.860014430006919,0.055084033574471565,False,Head,Open Play,0,1,1,Normal
-8.273451516749228,0.05649070171103731,False,Head,Open Play,0,1,2,Normal
-18.701069488133562,0.0625867663786533,False,Right Foot,Open Play,1,0,1,Half Volley
-6.082762530298223,0.057774496208007994,False,Head,Open Play,0,0,4,Normal
-15.880806024884254,0.05161688943303104,False,Right Foot,Open Play,0,0,1,Normal
-23.657979626333265,0.06760590063352857,False,Left Foot,Open Play,1,0,1,Half Volley
-16.507574019219174,0.05413413811449977,False,Left Foot,Open Play,0,1,2,Normal
-29.65569085352759,0.06062992841100978,False,Left Foot,Open Play,0,0,1,Normal
-5.197114584074508,0.056502659460162905,True,Head,Open Play,0,0,2,Normal
-26.93120866207085,0.06855484535490647,False,Left Foot,Open Play,0,0,1,Normal
-17.971366113904647,0.06147721760070925,False,Left Foot,Open Play,1,0,0,Volley
-12.791403363196702,0.05455946390683521,False,Left Foot,Open Play,1,0,2,Normal
-10.735455276791944,0.05681323445727548,False,Right Foot,Open Play,1,0,3,Half Volley
-13.759360450253487,0.05668208772319863,False,Right Foot,Open Play,1,1,3,Normal
-24.436857408431223,0.06710793799899041,False,Left Foot,Open Play,1,0,1,Half Volley
-9.995999199679845,0.05964010962182565,False,Head,Open Play,0,0,2,Normal
-6.640783086353594,0.05793114506509197,False,Left Foot,Open Play,1,0,3,Half Volley
-15.446682491719708,0.061505163812696335,False,Left Foot,Open Play,0,0,3,Half Volley
-20.373021376320203,0.06530097300532398,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775591,Martha Thomas,West Ham United LFC,16.531485111749642,0.05835145388565812,False,Right Foot,Open Play,0,0,2,Normal
+3775591,Samantha May Kerr,Chelsea FCW,3.0463092423455618,0.05627821027338239,True,Head,Open Play,0,1,4,Normal
+3775591,Samantha May Kerr,Chelsea FCW,17.880715869338115,0.053642372374054746,False,Right Foot,Open Play,0,0,1,Normal
+3775591,Martha Thomas,West Ham United LFC,13.860014430006919,0.055084033574471565,False,Head,Open Play,0,1,1,Normal
+3775591,Samantha May Kerr,Chelsea FCW,8.273451516749228,0.05649070171103731,False,Head,Open Play,0,1,2,Normal
+3775591,So-Yun Ji,Chelsea FCW,18.701069488133562,0.0625867663786533,False,Right Foot,Open Play,1,0,1,Half Volley
+3775591,Pernille Mosegaard Harder,Chelsea FCW,6.082762530298223,0.057774496208007994,False,Head,Open Play,0,0,4,Normal
+3775591,Pernille Mosegaard Harder,Chelsea FCW,15.880806024884254,0.05161688943303104,False,Right Foot,Open Play,0,0,1,Normal
+3775591,Martha Thomas,West Ham United LFC,23.657979626333265,0.06760590063352857,False,Left Foot,Open Play,1,0,1,Half Volley
+3775591,Pernille Mosegaard Harder,Chelsea FCW,16.507574019219174,0.05413413811449977,False,Left Foot,Open Play,0,1,2,Normal
+3775591,Sophie Louise Ingle,Chelsea FCW,29.65569085352759,0.06062992841100978,False,Left Foot,Open Play,0,0,1,Normal
+3775591,Bethany England,Chelsea FCW,5.197114584074508,0.056502659460162905,True,Head,Open Play,0,0,2,Normal
+3775591,Jonna Ann-Charlotte Andersson,Chelsea FCW,26.93120866207085,0.06855484535490647,False,Left Foot,Open Play,0,0,1,Normal
+3775591,Sophie Louise Ingle,Chelsea FCW,17.971366113904647,0.06147721760070925,False,Left Foot,Open Play,1,0,0,Volley
+3775591,Martha Thomas,West Ham United LFC,12.791403363196702,0.05455946390683521,False,Left Foot,Open Play,1,0,2,Normal
+3775591,Emily Louise van Egmond,West Ham United LFC,10.735455276791944,0.05681323445727548,False,Right Foot,Open Play,1,0,3,Half Volley
+3775591,Bethany England,Chelsea FCW,13.759360450253487,0.05668208772319863,False,Right Foot,Open Play,1,1,3,Normal
+3775591,Sophie Louise Ingle,Chelsea FCW,24.436857408431223,0.06710793799899041,False,Left Foot,Open Play,1,0,1,Half Volley
+3775591,Francesca Kirby,Chelsea FCW,9.995999199679845,0.05964010962182565,False,Head,Open Play,0,0,2,Normal
+3775591,Guro Reiten,Chelsea FCW,6.640783086353594,0.05793114506509197,False,Left Foot,Open Play,1,0,3,Half Volley
+3775591,Martha Thomas,West Ham United LFC,15.446682491719708,0.061505163812696335,False,Left Foot,Open Play,0,0,3,Half Volley
+3775591,Kenza Dali,West Ham United LFC,20.373021376320203,0.06530097300532398,False,Right Foot,Free Kick,0,0,0,Normal

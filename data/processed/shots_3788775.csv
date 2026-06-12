@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.964113005150026,0.058868115056543005,False,Left Foot,Open Play,1,1,1,Normal
-15.216109883935514,0.05478712169361025,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-13.92623423614582,0.05931088970956065,False,Left Foot,Open Play,1,0,3,Half Volley
-12.625371281669297,0.059550901441774315,False,Head,Open Play,0,1,5,Normal
-16.471186963907613,0.06290400697499299,False,Right Foot,Open Play,1,0,3,Volley
-7.910120100226044,0.058044057567218636,False,Left Foot,Open Play,1,0,2,Volley
-8.207923001588156,0.05676788561265424,False,Head,Open Play,0,1,3,Normal
-21.393690658696546,0.06278419402278151,False,Right Foot,Open Play,0,0,4,Normal
-18.335757415498275,0.0602443371330101,False,Left Foot,Open Play,0,0,4,Normal
-36.76098475285993,0.05921778630774563,False,Right Foot,Open Play,0,0,1,Normal
-20.223748416156685,0.061768608541538206,False,Left Foot,Open Play,0,1,2,Normal
-4.802082881417183,0.05566335753320272,True,Head,Open Play,0,1,4,Normal
-24.972985404232304,0.06728976778098332,False,Right Foot,Open Play,0,1,2,Normal
-24.424782496472723,0.06761177707309741,False,Left Foot,Open Play,1,0,1,Half Volley
-9.472592042308163,0.05907746776602798,True,Left Foot,Open Play,1,0,3,Half Volley
-28.60996329952207,0.06476919496278881,False,Right Foot,Open Play,0,0,1,Normal
-3.679673898594822,0.055154141469809875,True,Right Foot,Open Play,1,0,4,Backheel
-19.32588937151406,0.05948619049275862,False,Right Foot,Open Play,1,1,2,Volley
-5.186520991955977,0.05467658965108432,False,Head,Open Play,0,1,2,Normal
-24.068444071023787,0.06711002037738986,False,Left Foot,Open Play,0,0,1,Normal
-15.402921800749366,0.06237566577133708,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788775,Álvaro Borja Morata Martín,Spain,11.964113005150026,0.058868115056543005,False,Left Foot,Open Play,1,1,1,Normal
+3788775,César Azpilicueta Tanco,Spain,15.216109883935514,0.05478712169361025,False,Right Foot,Open Play,1,0,1,Normal
+3788775,Álvaro Borja Morata Martín,Spain,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3788775,Gerard Moreno Balaguero,Spain,13.92623423614582,0.05931088970956065,False,Left Foot,Open Play,1,0,3,Half Volley
+3788775,César Azpilicueta Tanco,Spain,12.625371281669297,0.059550901441774315,False,Head,Open Play,0,1,5,Normal
+3788775,Eric García Martret,Spain,16.471186963907613,0.06290400697499299,False,Right Foot,Open Play,1,0,3,Volley
+3788775,Pablo Sarabia García,Spain,7.910120100226044,0.058044057567218636,False,Left Foot,Open Play,1,0,2,Volley
+3788775,Álvaro Borja Morata Martín,Spain,8.207923001588156,0.05676788561265424,False,Head,Open Play,0,1,3,Normal
+3788775,Álvaro Borja Morata Martín,Spain,21.393690658696546,0.06278419402278151,False,Right Foot,Open Play,0,0,4,Normal
+3788775,Pablo Sarabia García,Spain,18.335757415498275,0.0602443371330101,False,Left Foot,Open Play,0,0,4,Normal
+3788775,Jorge Resurrección Merodio,Spain,36.76098475285993,0.05921778630774563,False,Right Foot,Open Play,0,0,1,Normal
+3788775,Gerard Moreno Balaguero,Spain,20.223748416156685,0.061768608541538206,False,Left Foot,Open Play,0,1,2,Normal
+3788775,Aymeric Laporte,Spain,4.802082881417183,0.05566335753320272,True,Head,Open Play,0,1,4,Normal
+3788775,Michal Ďuriš,Slovakia,24.972985404232304,0.06728976778098332,False,Right Foot,Open Play,0,1,2,Normal
+3788775,Michal Ďuriš,Slovakia,24.424782496472723,0.06761177707309741,False,Left Foot,Open Play,1,0,1,Half Volley
+3788775,Pablo Sarabia García,Spain,9.472592042308163,0.05907746776602798,True,Left Foot,Open Play,1,0,3,Half Volley
+3788775,Lukáš Haraslín,Slovakia,28.60996329952207,0.06476919496278881,False,Right Foot,Open Play,0,0,1,Normal
+3788775,Ferrán Torres García,Spain,3.679673898594822,0.055154141469809875,True,Right Foot,Open Play,1,0,4,Backheel
+3788775,Thiago Alcântara do Nascimento,Spain,19.32588937151406,0.05948619049275862,False,Right Foot,Open Play,1,1,2,Volley
+3788775,Pau Francisco Torres,Spain,5.186520991955977,0.05467658965108432,False,Head,Open Play,0,1,2,Normal
+3788775,Pablo Sarabia García,Spain,24.068444071023787,0.06711002037738986,False,Left Foot,Open Play,0,0,1,Normal
+3788775,Mikel Oyarzabal Ugarte,Spain,15.402921800749366,0.06237566577133708,False,Left Foot,Open Play,0,0,2,Normal

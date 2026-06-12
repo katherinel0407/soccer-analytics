@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.013878188659975,0.05928666593685774,False,Left Foot,Open Play,1,0,2,Volley
-19.817668884104403,0.06464167463600123,False,Left Foot,Open Play,1,0,2,Half Volley
-16.660432167263853,0.06358103338170283,False,Right Foot,Open Play,1,0,0,Half Volley
-24.681369491987265,0.06699031636525096,False,Right Foot,Open Play,1,0,1,Volley
-14.649232061783993,0.06237003619376037,False,Right Foot,Open Play,0,0,3,Half Volley
-28.452943608702416,0.07106666349358856,False,Right Foot,Open Play,0,0,2,Normal
-33.1436268383531,0.07294420746123442,False,Left Foot,Open Play,0,0,1,Normal
-16.904733065032406,0.062061040489396514,False,Right Foot,Open Play,0,1,2,Normal
-29.44961799412685,0.07148907005244237,False,Right Foot,Open Play,0,0,1,Normal
-23.21745033374681,0.056763669445387244,False,Left Foot,Open Play,0,0,2,Normal
-21.86869909253863,0.053649648102516344,False,Right Foot,Open Play,0,1,2,Normal
-23.34180798481557,0.062009273295463074,False,Right Foot,Free Kick,0,0,0,Normal
-33.05419791796497,0.05883655955595562,False,Right Foot,Free Kick,0,0,0,Normal
-24.65319451916932,0.06874599744167056,True,Right Foot,Free Kick,0,0,0,Normal
-17.02380685980665,0.06137818176529884,False,Left Foot,Open Play,1,0,2,Normal
-16.6388100536066,0.058509027931640846,True,Right Foot,Open Play,0,0,3,Normal
-18.74593289223025,0.05842521962662105,False,Right Foot,Open Play,1,0,0,Normal
-24.698178070456937,0.057466446940234,False,Right Foot,Open Play,0,0,1,Normal
-16.794344286098223,0.05289088369453956,False,Right Foot,Open Play,0,0,1,Normal
-8.902246907382422,0.05741998949300543,False,Head,Open Play,0,0,5,Normal
-30.07607022202202,0.05415823942843215,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901153,Alassane Pléa,OGC Nice,9.013878188659975,0.05928666593685774,False,Left Foot,Open Play,1,0,2,Volley
+3901153,Rémi Walter,OGC Nice,19.817668884104403,0.06464167463600123,False,Left Foot,Open Play,1,0,2,Half Volley
+3901153,Jérémy Pied,OGC Nice,16.660432167263853,0.06358103338170283,False,Right Foot,Open Play,1,0,0,Half Volley
+3901153,François Modesto,Bastia,24.681369491987265,0.06699031636525096,False,Right Foot,Open Play,1,0,1,Volley
+3901153,François Modesto,Bastia,14.649232061783993,0.06237003619376037,False,Right Foot,Open Play,0,0,3,Half Volley
+3901153,Floyd Ayité,Bastia,28.452943608702416,0.07106666349358856,False,Right Foot,Open Play,0,0,2,Normal
+3901153,Evaeverson Lemos da Silva Brandão,Bastia,33.1436268383531,0.07294420746123442,False,Left Foot,Open Play,0,0,1,Normal
+3901153,Floyd Ayité,Bastia,16.904733065032406,0.062061040489396514,False,Right Foot,Open Play,0,1,2,Normal
+3901153,Alassane Pléa,OGC Nice,29.44961799412685,0.07148907005244237,False,Right Foot,Open Play,0,0,1,Normal
+3901153,Valère Germain,OGC Nice,23.21745033374681,0.056763669445387244,False,Left Foot,Open Play,0,0,2,Normal
+3901153,Alassane Pléa,OGC Nice,21.86869909253863,0.053649648102516344,False,Right Foot,Open Play,0,1,2,Normal
+3901153,Floyd Ayité,Bastia,23.34180798481557,0.062009273295463074,False,Right Foot,Free Kick,0,0,0,Normal
+3901153,Abdoulaye Sadio Diallo,Bastia,33.05419791796497,0.05883655955595562,False,Right Foot,Free Kick,0,0,0,Normal
+3901153,Abdoulaye Sadio Diallo,Bastia,24.65319451916932,0.06874599744167056,True,Right Foot,Free Kick,0,0,0,Normal
+3901153,Rémi Walter,OGC Nice,17.02380685980665,0.06137818176529884,False,Left Foot,Open Play,1,0,2,Normal
+3901153,Floyd Ayité,Bastia,16.6388100536066,0.058509027931640846,True,Right Foot,Open Play,0,0,3,Normal
+3901153,Valère Germain,OGC Nice,18.74593289223025,0.05842521962662105,False,Right Foot,Open Play,1,0,0,Normal
+3901153,Floyd Ayité,Bastia,24.698178070456937,0.057466446940234,False,Right Foot,Open Play,0,0,1,Normal
+3901153,Seko Fofana,Bastia,16.794344286098223,0.05289088369453956,False,Right Foot,Open Play,0,0,1,Normal
+3901153,Valère Germain,OGC Nice,8.902246907382422,0.05741998949300543,False,Head,Open Play,0,0,5,Normal
+3901153,Alassane Pléa,OGC Nice,30.07607022202202,0.05415823942843215,False,Right Foot,Open Play,1,0,1,Half Volley

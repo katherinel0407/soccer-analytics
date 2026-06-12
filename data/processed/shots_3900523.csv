@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.229417280560355,0.06837268879269913,False,Left Foot,Open Play,0,1,1,Normal
-44.11133641140336,0.07465327974160667,False,Left Foot,Free Kick,0,0,0,Normal
-28.822560607968196,0.05081205127079817,False,Left Foot,Free Kick,0,0,0,Normal
-28.092703679069416,0.055057523832259814,False,Left Foot,Open Play,0,0,1,Normal
-40.50888791364187,0.08076518295237861,False,Right Foot,Open Play,0,0,1,Normal
-29.451655301527627,0.06076084805148158,False,Right Foot,Open Play,0,0,1,Normal
-15.439235732380025,0.061466847525830925,False,Left Foot,Open Play,1,1,3,Normal
-26.84771871127973,0.0703120396771809,False,Right Foot,Open Play,0,1,1,Normal
-14.412841496387863,0.06124076817410607,False,Right Foot,Open Play,1,0,1,Volley
-13.43726162579266,0.05873784631789523,True,Right Foot,Open Play,0,1,2,Normal
-21.430818929756274,0.06635214437878444,False,Head,Open Play,0,0,0,Normal
-24.240462041801102,0.05701925835395313,False,Left Foot,Open Play,0,0,2,Normal
-19.39922678871506,0.05245197129511695,False,Right Foot,Open Play,0,1,1,Normal
-12.826534995859165,0.05895709616842667,True,Right Foot,Open Play,0,0,1,Normal
-21.053503271427303,0.05549189034920706,False,Right Foot,Open Play,0,0,2,Normal
-25.360007886434108,0.06744061636827946,True,Right Foot,Open Play,0,1,1,Normal
-21.305398376937237,0.06555105787642522,False,Left Foot,Open Play,0,0,1,Normal
-18.47620090819538,0.057070842180473966,False,Right Foot,Open Play,1,0,1,Normal
-14.33387595872101,0.059054897523735266,False,Right Foot,Open Play,1,1,2,Normal
-12.816005617976296,0.05793293263537658,True,Right Foot,Open Play,1,0,0,Normal
-15.024313628249374,0.0560164739780628,False,Right Foot,Open Play,0,0,2,Normal
-19.016834647227704,0.06297568957697221,False,Left Foot,Open Play,0,0,3,Normal
-8.486459803710847,0.05360934477844814,False,Head,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900523,Diego Rigonato Rodrigues,Stade de Reims,28.229417280560355,0.06837268879269913,False,Left Foot,Open Play,0,1,1,Normal
+3900523,Diego Rigonato Rodrigues,Stade de Reims,44.11133641140336,0.07465327974160667,False,Left Foot,Free Kick,0,0,0,Normal
+3900523,Diego Rigonato Rodrigues,Stade de Reims,28.822560607968196,0.05081205127079817,False,Left Foot,Free Kick,0,0,0,Normal
+3900523,Benjamin André,Rennes,28.092703679069416,0.055057523832259814,False,Left Foot,Open Play,0,0,1,Normal
+3900523,Yacouba Sylla,Rennes,40.50888791364187,0.08076518295237861,False,Right Foot,Open Play,0,0,1,Normal
+3900523,Jeremie Boga,Rennes,29.451655301527627,0.06076084805148158,False,Right Foot,Open Play,0,0,1,Normal
+3900523,Nicolas de Roussel de Préville,Stade de Reims,15.439235732380025,0.061466847525830925,False,Left Foot,Open Play,1,1,3,Normal
+3900523,Pedro Henrique Konzen Medina da Silva,Rennes,26.84771871127973,0.0703120396771809,False,Right Foot,Open Play,0,1,1,Normal
+3900523,"David N""Gog",Stade de Reims,14.412841496387863,0.06124076817410607,False,Right Foot,Open Play,1,0,1,Volley
+3900523,Jeremie Boga,Rennes,13.43726162579266,0.05873784631789523,True,Right Foot,Open Play,0,1,2,Normal
+3900523,Diego Rigonato Rodrigues,Stade de Reims,21.430818929756274,0.06635214437878444,False,Head,Open Play,0,0,0,Normal
+3900523,Juan Fernando Quintero Paniagua,Rennes,24.240462041801102,0.05701925835395313,False,Left Foot,Open Play,0,0,2,Normal
+3900523,Kamil Grosicki,Rennes,19.39922678871506,0.05245197129511695,False,Right Foot,Open Play,0,1,1,Normal
+3900523,Aïssa Mandi,Stade de Reims,12.826534995859165,0.05895709616842667,True,Right Foot,Open Play,0,0,1,Normal
+3900523,Odaïr Junior Lopes Fortes,Stade de Reims,21.053503271427303,0.05549189034920706,False,Right Foot,Open Play,0,0,2,Normal
+3900523,Nicolas de Roussel de Préville,Stade de Reims,25.360007886434108,0.06744061636827946,True,Right Foot,Open Play,0,1,1,Normal
+3900523,Pedro Henrique Konzen Medina da Silva,Rennes,21.305398376937237,0.06555105787642522,False,Left Foot,Open Play,0,0,1,Normal
+3900523,Benjamin André,Rennes,18.47620090819538,0.057070842180473966,False,Right Foot,Open Play,1,0,1,Normal
+3900523,Nicolas de Roussel de Préville,Stade de Reims,14.33387595872101,0.059054897523735266,False,Right Foot,Open Play,1,1,2,Normal
+3900523,Kamil Grosicki,Rennes,12.816005617976296,0.05793293263537658,True,Right Foot,Open Play,1,0,0,Normal
+3900523,Prince Oniangué,Stade de Reims,15.024313628249374,0.0560164739780628,False,Right Foot,Open Play,0,0,2,Normal
+3900523,Giovanni-Guy Yann Sio,Rennes,19.016834647227704,0.06297568957697221,False,Left Foot,Open Play,0,0,3,Normal
+3900523,Alexi Peuget,Stade de Reims,8.486459803710847,0.05360934477844814,False,Head,Open Play,0,0,1,Normal

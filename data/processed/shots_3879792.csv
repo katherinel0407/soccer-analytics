@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.626006440887105,0.05501207491760228,False,Head,Open Play,0,0,3,Normal
-20.86552180032888,0.06063201284127021,False,Left Foot,Open Play,0,0,2,Volley
-13.598897014096396,0.05755044105457817,False,Head,Open Play,0,1,3,Normal
-16.32482771731451,0.05577790012764641,False,Left Foot,Open Play,0,1,1,Normal
-9.183681179135084,0.05446954445739174,False,Head,Open Play,0,0,3,Normal
-5.3160135440008,0.05634667938760199,True,Head,Open Play,0,0,3,Normal
-21.10094784600919,0.06509259330157877,False,Right Foot,Open Play,1,0,1,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-9.972462083156792,0.059499549913012546,False,Left Foot,Open Play,1,0,4,Half Volley
-19.426270872197787,0.06511905160098128,False,Right Foot,Open Play,1,0,2,Volley
-19.425756098540926,0.05777255655119834,False,Right Foot,Open Play,1,0,3,Volley
-31.009837148879065,0.06492707764729765,False,Right Foot,Open Play,1,1,1,Half Volley
-15.326447729333768,0.0544690706778743,False,Right Foot,Open Play,1,0,2,Lob
-24.214252001662157,0.06845169275111956,False,Left Foot,Open Play,0,0,1,Normal
-24.424782496472723,0.06568041866599168,False,Right Foot,Open Play,0,0,2,Normal
-6.964194138592066,0.05593930905738835,False,Head,Open Play,0,0,4,Normal
-21.900913222968587,0.06406049177820966,False,Right Foot,Open Play,0,0,2,Half Volley
-26.847904946196454,0.06965125189467443,False,Left Foot,Open Play,0,0,2,Half Volley
-17.17352613763405,0.06385714315417328,False,Left Foot,Open Play,1,1,1,Normal
-6.2072538211354,0.057334480734455295,False,Head,Open Play,0,1,4,Normal
-11.900420160649794,0.054853888240353185,False,Right Foot,Open Play,0,0,2,Half Volley
-23.482972554597946,0.06679005788606177,False,Left Foot,Open Play,1,1,2,Half Volley
-20.815378930012297,0.06310365353871024,False,Left Foot,Free Kick,0,0,0,Normal
-33.19292093203008,0.06670171853321773,False,Right Foot,Free Kick,0,0,0,Normal
-14.819244245237345,0.059253601585626134,False,Left Foot,Open Play,1,0,2,Volley
-14.960280746028793,0.05854211163217672,False,Left Foot,Open Play,0,0,1,Normal
-17.80168531347524,0.06429599090521651,False,Right Foot,Open Play,0,0,3,Normal
-11.818629362155322,0.05319190666125293,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879792,Nicolás Federico Spolli,Chievo,9.626006440887105,0.05501207491760228,False,Head,Open Play,0,0,3,Normal
+3879792,Fabio Quagliarella,Sampdoria,20.86552180032888,0.06063201284127021,False,Left Foot,Open Play,0,0,2,Volley
+3879792,Antonio Cassano,Sampdoria,13.598897014096396,0.05755044105457817,False,Head,Open Play,0,1,3,Normal
+3879792,Riccardo Meggiorini,Chievo,16.32482771731451,0.05577790012764641,False,Left Foot,Open Play,0,1,1,Normal
+3879792,Riccardo Meggiorini,Chievo,9.183681179135084,0.05446954445739174,False,Head,Open Play,0,0,3,Normal
+3879792,Riccardo Meggiorini,Chievo,5.3160135440008,0.05634667938760199,True,Head,Open Play,0,0,3,Normal
+3879792,José Rodolfo Pires Ribeiro,Sampdoria,21.10094784600919,0.06509259330157877,False,Right Foot,Open Play,1,0,1,Normal
+3879792,Valter Birsa,Chievo,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+3879792,Valter Birsa,Chievo,9.972462083156792,0.059499549913012546,False,Left Foot,Open Play,1,0,4,Half Volley
+3879792,Simone Pepe,Chievo,19.426270872197787,0.06511905160098128,False,Right Foot,Open Play,1,0,2,Volley
+3879792,Roberto Soriano,Sampdoria,19.425756098540926,0.05777255655119834,False,Right Foot,Open Play,1,0,3,Volley
+3879792,Simone Pepe,Chievo,31.009837148879065,0.06492707764729765,False,Right Foot,Open Play,1,1,1,Half Volley
+3879792,Fabio Quagliarella,Sampdoria,15.326447729333768,0.0544690706778743,False,Right Foot,Open Play,1,0,2,Lob
+3879792,Riccardo Meggiorini,Chievo,24.214252001662157,0.06845169275111956,False,Left Foot,Open Play,0,0,1,Normal
+3879792,Valter Birsa,Chievo,24.424782496472723,0.06568041866599168,False,Right Foot,Open Play,0,0,2,Normal
+3879792,Lorenzo De Silvestri,Sampdoria,6.964194138592066,0.05593930905738835,False,Head,Open Play,0,0,4,Normal
+3879792,Fernando Lucas Martins,Sampdoria,21.900913222968587,0.06406049177820966,False,Right Foot,Open Play,0,0,2,Half Volley
+3879792,Massimo Gobbi,Chievo,26.847904946196454,0.06965125189467443,False,Left Foot,Open Play,0,0,2,Half Volley
+3879792,Riccardo Meggiorini,Chievo,17.17352613763405,0.06385714315417328,False,Left Foot,Open Play,1,1,1,Normal
+3879792,Lorenzo De Silvestri,Sampdoria,6.2072538211354,0.057334480734455295,False,Head,Open Play,0,1,4,Normal
+3879792,Fabio Quagliarella,Sampdoria,11.900420160649794,0.054853888240353185,False,Right Foot,Open Play,0,0,2,Half Volley
+3879792,Fabio Quagliarella,Sampdoria,23.482972554597946,0.06679005788606177,False,Left Foot,Open Play,1,1,2,Half Volley
+3879792,José Rodolfo Pires Ribeiro,Sampdoria,20.815378930012297,0.06310365353871024,False,Left Foot,Free Kick,0,0,0,Normal
+3879792,Fernando Lucas Martins,Sampdoria,33.19292093203008,0.06670171853321773,False,Right Foot,Free Kick,0,0,0,Normal
+3879792,Lorenzo De Silvestri,Sampdoria,14.819244245237345,0.059253601585626134,False,Left Foot,Open Play,1,0,2,Volley
+3879792,Roberto Soriano,Sampdoria,14.960280746028793,0.05854211163217672,False,Left Foot,Open Play,0,0,1,Normal
+3879792,Fabio Quagliarella,Sampdoria,17.80168531347524,0.06429599090521651,False,Right Foot,Open Play,0,0,3,Normal
+3879792,Roberto Soriano,Sampdoria,11.818629362155322,0.05319190666125293,False,Right Foot,Open Play,0,0,2,Normal

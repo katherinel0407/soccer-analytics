@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.153862967628438,0.060267647972581044,False,Right Foot,Open Play,0,1,1,Normal
-32.47460546334627,0.07383153936056035,False,Left Foot,Open Play,1,0,0,Normal
-12.202458768625286,0.05856669331636605,False,Right Foot,Open Play,1,0,3,Normal
-22.42699266508999,0.06470725061685535,False,Left Foot,Open Play,1,0,0,Volley
-13.688316185711077,0.057246153631248096,False,Right Foot,Open Play,1,0,2,Normal
-32.23491895445062,0.061669198821760446,False,Right Foot,Open Play,1,0,1,Normal
-13.505924625881784,0.053111705361165856,False,Right Foot,Open Play,0,0,2,Normal
-15.06253630701018,0.05969113549270164,False,Head,Open Play,0,1,4,Normal
-22.77410810547802,0.06649511134059523,False,Left Foot,Open Play,0,0,4,Normal
-23.21077336066164,0.061547137412920463,False,Right Foot,Open Play,1,0,1,Half Volley
-7.161005515987261,0.05812905156851303,False,Head,Open Play,0,1,5,Normal
-15.932670836994022,0.057036460965612976,False,Right Foot,Open Play,1,0,2,Normal
-31.308145904859966,0.058891857544929344,False,Right Foot,Open Play,0,0,2,Half Volley
-13.228000604777733,0.06120147775606391,False,Head,Open Play,0,1,5,Normal
-13.951702405083047,0.05554318974011594,False,Right Foot,Open Play,0,0,2,Half Volley
-8.702298546935749,0.05816851013039093,False,Head,Open Play,0,1,2,Normal
-36.164347083833825,0.07508420404441989,False,Right Foot,Free Kick,0,0,0,Normal
-23.750789460563205,0.06141502709883224,False,Right Foot,Open Play,0,0,2,Half Volley
-8.049844718999243,0.05399973475515253,False,Head,Open Play,0,0,5,Normal
-8.602325267042621,0.0582610828671978,False,Head,Open Play,0,1,3,Normal
-18.607794065928392,0.06227785023642664,False,Right Foot,Open Play,0,1,1,Normal
-26.653705183332388,0.05688149074913164,False,Right Foot,Open Play,0,0,1,Normal
-30.591011751820172,0.07306641593042601,False,Left Foot,Open Play,0,0,1,Normal
-28.840596387730955,0.07113963081819517,False,Right Foot,Open Play,0,0,2,Normal
-24.932909978580515,0.06895338816718814,False,Right Foot,Open Play,0,0,2,Normal
-5.434151267677408,0.05651632673609507,False,Head,Open Play,0,0,3,Normal
-11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890300,Lukas Hinterseer,Ingolstadt,28.153862967628438,0.060267647972581044,False,Right Foot,Open Play,0,1,1,Normal
+3890300,Markus Suttner,Ingolstadt,32.47460546334627,0.07383153936056035,False,Left Foot,Open Play,1,0,0,Normal
+3890300,Fin Bartels,Werder Bremen,12.202458768625286,0.05856669331636605,False,Right Foot,Open Play,1,0,3,Normal
+3890300,Markus Suttner,Ingolstadt,22.42699266508999,0.06470725061685535,False,Left Foot,Open Play,1,0,0,Volley
+3890300,Stefan Lex,Ingolstadt,13.688316185711077,0.057246153631248096,False,Right Foot,Open Play,1,0,2,Normal
+3890300,Philipp Bargfrede,Werder Bremen,32.23491895445062,0.061669198821760446,False,Right Foot,Open Play,1,0,1,Normal
+3890300,Fin Bartels,Werder Bremen,13.505924625881784,0.053111705361165856,False,Right Foot,Open Play,0,0,2,Normal
+3890300,Jannik Vestergaard,Werder Bremen,15.06253630701018,0.05969113549270164,False,Head,Open Play,0,1,4,Normal
+3890300,Aron Jóhannsson,Werder Bremen,22.77410810547802,0.06649511134059523,False,Left Foot,Open Play,0,0,4,Normal
+3890300,Stefan Lex,Ingolstadt,23.21077336066164,0.061547137412920463,False,Right Foot,Open Play,1,0,1,Half Volley
+3890300,Santiago García,Werder Bremen,7.161005515987261,0.05812905156851303,False,Head,Open Play,0,1,5,Normal
+3890300,Fin Bartels,Werder Bremen,15.932670836994022,0.057036460965612976,False,Right Foot,Open Play,1,0,2,Normal
+3890300,Mathew Leckie,Ingolstadt,31.308145904859966,0.058891857544929344,False,Right Foot,Open Play,0,0,2,Half Volley
+3890300,Marvin Matip,Ingolstadt,13.228000604777733,0.06120147775606391,False,Head,Open Play,0,1,5,Normal
+3890300,Theodor Gebre Selassie,Werder Bremen,13.951702405083047,0.05554318974011594,False,Right Foot,Open Play,0,0,2,Half Volley
+3890300,Claudio Miguel Pizarro Bossio,Werder Bremen,8.702298546935749,0.05816851013039093,False,Head,Open Play,0,1,2,Normal
+3890300,Pascal Groß,Ingolstadt,36.164347083833825,0.07508420404441989,False,Right Foot,Free Kick,0,0,0,Normal
+3890300,Alfredo Morales,Ingolstadt,23.750789460563205,0.06141502709883224,False,Right Foot,Open Play,0,0,2,Half Volley
+3890300,Anthony Ujah,Werder Bremen,8.049844718999243,0.05399973475515253,False,Head,Open Play,0,0,5,Normal
+3890300,Alfredo Morales,Ingolstadt,8.602325267042621,0.0582610828671978,False,Head,Open Play,0,1,3,Normal
+3890300,Mathew Leckie,Ingolstadt,18.607794065928392,0.06227785023642664,False,Right Foot,Open Play,0,1,1,Normal
+3890300,Mathew Leckie,Ingolstadt,26.653705183332388,0.05688149074913164,False,Right Foot,Open Play,0,0,1,Normal
+3890300,Philipp Bargfrede,Werder Bremen,30.591011751820172,0.07306641593042601,False,Left Foot,Open Play,0,0,1,Normal
+3890300,Levin Mete Öztunali,Werder Bremen,28.840596387730955,0.07113963081819517,False,Right Foot,Open Play,0,0,2,Normal
+3890300,Anthony Ujah,Werder Bremen,24.932909978580515,0.06895338816718814,False,Right Foot,Open Play,0,0,2,Normal
+3890300,Claudio Miguel Pizarro Bossio,Werder Bremen,5.434151267677408,0.05651632673609507,False,Head,Open Play,0,0,3,Normal
+3890300,Moritz Hartmann,Ingolstadt,11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal

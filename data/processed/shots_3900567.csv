@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.55792239125495,0.06896341898214041,False,Right Foot,Free Kick,0,0,0,Normal
-33.96763165132359,0.06290378955977556,False,Left Foot,Open Play,0,0,0,Normal
-8.60232526704263,0.05716432425515546,False,Right Foot,Open Play,1,0,2,Volley
-30.34880557781476,0.07277384540616132,False,Right Foot,Open Play,1,1,2,Normal
-34.53534421429733,0.07635685964798972,False,Right Foot,Open Play,0,0,1,Normal
-28.300706704957037,0.06363197764788911,False,Right Foot,Open Play,0,1,1,Normal
-18.174707700538125,0.058493539331426966,False,Right Foot,Open Play,0,1,2,Normal
-30.153772566629204,0.054834275840480826,False,Left Foot,Open Play,0,0,2,Normal
-31.723808094237366,0.06047601743214855,False,Right Foot,Open Play,1,0,0,Normal
-9.783659846908009,0.05968057358307984,False,Left Foot,Open Play,1,0,1,Half Volley
-12.986531484580482,0.06134313486884726,False,Left Foot,Open Play,1,0,1,Normal
-8.905054744357273,0.059255278594876205,True,Head,Open Play,0,0,4,Normal
-10.255242561733981,0.05986364926203875,True,Right Foot,Open Play,0,0,2,Normal
-21.866183937761065,0.05287500451607929,False,Left Foot,Open Play,0,0,1,Normal
-30.2420237418067,0.06452892633921231,False,Left Foot,Open Play,0,0,2,Normal
-9.230926280715279,0.05693494901794837,False,Right Foot,Open Play,1,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900567,Henri Saivet,Bordeaux,34.55792239125495,0.06896341898214041,False,Right Foot,Free Kick,0,0,0,Normal
+3900567,Adam Ounas,Bordeaux,33.96763165132359,0.06290378955977556,False,Left Foot,Open Play,0,0,0,Normal
+3900567,Henri Saivet,Bordeaux,8.60232526704263,0.05716432425515546,False,Right Foot,Open Play,1,0,2,Volley
+3900567,Abdelaziz Barrada,Olympique de Marseille,30.34880557781476,0.07277384540616132,False,Right Foot,Open Play,1,1,2,Normal
+3900567,Wahbi Khazri,Bordeaux,34.53534421429733,0.07635685964798972,False,Right Foot,Open Play,0,0,1,Normal
+3900567,Henri Saivet,Bordeaux,28.300706704957037,0.06363197764788911,False,Right Foot,Open Play,0,1,1,Normal
+3900567,Michy Batshuayi Tunga,Olympique de Marseille,18.174707700538125,0.058493539331426966,False,Right Foot,Open Play,0,1,2,Normal
+3900567,Adam Ounas,Bordeaux,30.153772566629204,0.054834275840480826,False,Left Foot,Open Play,0,0,2,Normal
+3900567,Lassana Diarra,Olympique de Marseille,31.723808094237366,0.06047601743214855,False,Right Foot,Open Play,1,0,0,Normal
+3900567,Adam Ounas,Bordeaux,9.783659846908009,0.05968057358307984,False,Left Foot,Open Play,1,0,1,Half Volley
+3900567,Michy Batshuayi Tunga,Olympique de Marseille,12.986531484580482,0.06134313486884726,False,Left Foot,Open Play,1,0,1,Normal
+3900567,Jacques-Alaixys Romao,Olympique de Marseille,8.905054744357273,0.059255278594876205,True,Head,Open Play,0,0,4,Normal
+3900567,Wahbi Khazri,Bordeaux,10.255242561733981,0.05986364926203875,True,Right Foot,Open Play,0,0,2,Normal
+3900567,Michy Batshuayi Tunga,Olympique de Marseille,21.866183937761065,0.05287500451607929,False,Left Foot,Open Play,0,0,1,Normal
+3900567,Wahbi Khazri,Bordeaux,30.2420237418067,0.06452892633921231,False,Left Foot,Open Play,0,0,2,Normal
+3900567,Diego Alejandro Rolan Silva,Bordeaux,9.230926280715279,0.05693494901794837,False,Right Foot,Open Play,1,1,3,Half Volley

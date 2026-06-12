@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.202458768625286,0.060498801563521734,False,Head,Open Play,0,0,3,Normal
-8.386298349093,0.05767537359233125,False,Head,Open Play,0,1,2,Normal
-10.543718509140879,0.05971391484138268,False,Head,Open Play,0,0,4,Normal
-4.951767361255984,0.055069571246915104,True,Right Foot,Open Play,1,0,1,Normal
-28.212408617486027,0.07077905738485582,False,Right Foot,Open Play,0,1,2,Normal
-12.800390619039716,0.05614828857318083,False,Right Foot,Open Play,0,0,2,Normal
-14.88220413782851,0.054626954989071004,False,Right Foot,Open Play,1,0,1,Normal
-4.5,0.05657974570702806,True,Right Foot,Open Play,1,1,3,Normal
-19.66545193988686,0.06517910516045643,False,Right Foot,Open Play,1,1,2,Overhead Kick
-6.407807737440316,0.05744670535909829,False,Head,Open Play,0,1,4,Normal
-22.487552112224222,0.057823645160286805,False,Right Foot,Open Play,1,0,1,Normal
-22.165288177689007,0.05723316715114914,True,Left Foot,Open Play,1,0,0,Normal
-11.497825881443852,0.060359454377542414,True,Left Foot,Open Play,0,0,3,Normal
-11.371895180663605,0.060466238026239544,False,Left Foot,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
-9.044335243676004,0.05724865068911427,False,Right Foot,Open Play,1,0,3,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900519,Ludovic Lamine Sané,Bordeaux,12.202458768625286,0.060498801563521734,False,Head,Open Play,0,0,3,Normal
+3900519,Fallou Diagne,Rennes,8.386298349093,0.05767537359233125,False,Head,Open Play,0,1,2,Normal
+3900519,Giovanni-Guy Yann Sio,Rennes,10.543718509140879,0.05971391484138268,False,Head,Open Play,0,0,4,Normal
+3900519,Ousmane Dembélé,Rennes,4.951767361255984,0.055069571246915104,True,Right Foot,Open Play,1,0,1,Normal
+3900519,Paul-Georges Ntep de Madiba,Rennes,28.212408617486027,0.07077905738485582,False,Right Foot,Open Play,0,1,2,Normal
+3900519,Wahbi Khazri,Bordeaux,12.800390619039716,0.05614828857318083,False,Right Foot,Open Play,0,0,2,Normal
+3900519,Wahbi Khazri,Bordeaux,14.88220413782851,0.054626954989071004,False,Right Foot,Open Play,1,0,1,Normal
+3900519,Enzo Crivelli,Bordeaux,4.5,0.05657974570702806,True,Right Foot,Open Play,1,1,3,Normal
+3900519,Enzo Crivelli,Bordeaux,19.66545193988686,0.06517910516045643,False,Right Foot,Open Play,1,1,2,Overhead Kick
+3900519,Abdoulaye Doucouré,Rennes,6.407807737440316,0.05744670535909829,False,Head,Open Play,0,1,4,Normal
+3900519,Frédéric Guilbert,Bordeaux,22.487552112224222,0.057823645160286805,False,Right Foot,Open Play,1,0,1,Normal
+3900519,Kamil Grosicki,Rennes,22.165288177689007,0.05723316715114914,True,Left Foot,Open Play,1,0,0,Normal
+3900519,Diego Armando Valentin Contento,Bordeaux,11.497825881443852,0.060359454377542414,True,Left Foot,Open Play,0,0,3,Normal
+3900519,Adam Ounas,Bordeaux,11.371895180663605,0.060466238026239544,False,Left Foot,Open Play,0,1,2,Normal
+3900519,Giovanni-Guy Yann Sio,Rennes,11.900420160649796,0.05951387036924867,False,Left Foot,Penalty,0,0,0,Normal
+3900519,Fallou Diagne,Rennes,9.044335243676004,0.05724865068911427,False,Right Foot,Open Play,1,0,3,Volley

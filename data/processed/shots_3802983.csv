@@ -1,11 +1,11 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.964290828502367,0.06179015549780403,True,Left Foot,Open Play,1,0,2,Volley
-25.00119997120138,0.05899467279676499,False,Left Foot,Free Kick,0,0,0,Normal
-2.408318915758458,0.05509472848333956,True,Right Foot,Open Play,1,1,5,Normal
-30.592973049378507,0.06258481178815639,False,Right Foot,Free Kick,0,0,0,Normal
-11.543396380615201,0.06066981296566599,False,Left Foot,Open Play,1,0,3,Volley
-17.980545041794475,0.06435629447121677,False,Left Foot,Open Play,1,1,2,Half Volley
-12.747548783981962,0.06125118030344912,False,Left Foot,Open Play,1,0,3,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-14.494136745594746,0.05734594544882764,False,Head,Open Play,0,0,2,Normal
-23.4104677441524,0.0677292702550274,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3802983,Neymar da Silva Santos Junior,Paris Saint-Germain,14.964290828502367,0.06179015549780403,True,Left Foot,Open Play,1,0,2,Volley
+3802983,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,25.00119997120138,0.05899467279676499,False,Left Foot,Free Kick,0,0,0,Normal
+3802983,Duje Ćaleta-Car,Olympique de Marseille,2.408318915758458,0.05509472848333956,True,Right Foot,Open Play,1,1,5,Normal
+3802983,Neymar da Silva Santos Junior,Paris Saint-Germain,30.592973049378507,0.06258481178815639,False,Right Foot,Free Kick,0,0,0,Normal
+3802983,Kylian Mbappé Lottin,Paris Saint-Germain,11.543396380615201,0.06066981296566599,False,Left Foot,Open Play,1,0,3,Volley
+3802983,Neymar da Silva Santos Junior,Paris Saint-Germain,17.980545041794475,0.06435629447121677,False,Left Foot,Open Play,1,1,2,Half Volley
+3802983,Kylian Mbappé Lottin,Paris Saint-Germain,12.747548783981962,0.06125118030344912,False,Left Foot,Open Play,1,0,3,Normal
+3802983,Kylian Mbappé Lottin,Paris Saint-Germain,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+3802983,Mattéo Guendouzi Olié,Olympique de Marseille,14.494136745594746,0.05734594544882764,False,Head,Open Play,0,0,2,Normal
+3802983,Mattéo Guendouzi Olié,Olympique de Marseille,23.4104677441524,0.0677292702550274,False,Right Foot,Open Play,0,0,3,Normal

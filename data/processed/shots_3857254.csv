@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.912539176739916,0.060097103483450785,False,Right Foot,Open Play,0,0,3,Normal
-15.9699718221417,0.052154496949348234,False,Left Foot,Open Play,0,0,2,Normal
-26.977953962448666,0.06386639029904191,False,Right Foot,Open Play,0,0,1,Normal
-11.67261752992875,0.0598196016378597,False,Head,Open Play,0,0,2,Normal
-8.850988645343527,0.05880074853597348,False,Right Foot,Open Play,1,0,2,Volley
-22.498444390668432,0.06719407934471228,False,Left Foot,Open Play,1,0,1,Half Volley
-32.34439673266453,0.07377268059001675,False,Right Foot,Open Play,0,0,1,Normal
-12.666885963013952,0.05494195300905964,False,Right Foot,Open Play,1,0,5,Half Volley
-13.18483977907961,0.05277327599064628,False,Right Foot,Open Play,1,0,1,Normal
-9.381364506296512,0.05629994603287991,False,Right Foot,Open Play,0,0,2,Lob
-20.220039564748635,0.06278915358710195,False,Left Foot,Open Play,1,0,2,Half Volley
-10.893117092916981,0.055352767601568834,False,Head,Open Play,0,1,2,Normal
-10.187246929372039,0.054065037762919155,False,Right Foot,Open Play,1,0,4,Volley
-29.31433096626972,0.06173753080941447,False,Right Foot,Open Play,0,0,0,Normal
-20.503902067655318,0.06349715935031852,False,Right Foot,Open Play,1,0,2,Volley
-16.497575579460147,0.06273759405684676,False,Right Foot,Open Play,0,0,3,Half Volley
-5.830951894845301,0.057413694988867656,False,Head,Open Play,0,0,2,Normal
-21.044714300745447,0.06485058083462046,False,Left Foot,Open Play,0,0,2,Normal
-3.9698866482558377,0.05670669813856411,False,Head,Open Play,0,1,5,Normal
-4.2953463189829035,0.05441403385243899,False,Head,Open Play,0,0,4,Normal
-23.577319610167734,0.06762254551059195,False,Right Foot,Open Play,0,0,2,Normal
-6.449806198638836,0.05797461519066483,False,Head,Open Play,0,1,4,Normal
-26.852187992787478,0.06996069757493967,False,Right Foot,Open Play,0,0,4,Normal
-12.89961239727768,0.0569189023244934,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857254,Youssef Msakni,Tunisia,29.912539176739916,0.060097103483450785,False,Right Foot,Open Play,0,0,3,Normal
+3857254,Issam Jebali,Tunisia,15.9699718221417,0.052154496949348234,False,Left Foot,Open Play,0,0,2,Normal
+3857254,Mohamed Dräger,Tunisia,26.977953962448666,0.06386639029904191,False,Right Foot,Open Play,0,0,1,Normal
+3857254,Youssef Msakni,Tunisia,11.67261752992875,0.0598196016378597,False,Head,Open Play,0,0,2,Normal
+3857254,Kasper Dolberg,Denmark,8.850988645343527,0.05880074853597348,False,Right Foot,Open Play,1,0,2,Volley
+3857254,Joachim Andersen,Denmark,22.498444390668432,0.06719407934471228,False,Left Foot,Open Play,1,0,1,Half Volley
+3857254,Pierre-Emile Højbjerg,Denmark,32.34439673266453,0.07377268059001675,False,Right Foot,Open Play,0,0,1,Normal
+3857254,Yassine Meriah,Tunisia,12.666885963013952,0.05494195300905964,False,Right Foot,Open Play,1,0,5,Half Volley
+3857254,Aïssa Bilal Laïdouni,Tunisia,13.18483977907961,0.05277327599064628,False,Right Foot,Open Play,1,0,1,Normal
+3857254,Issam Jebali,Tunisia,9.381364506296512,0.05629994603287991,False,Right Foot,Open Play,0,0,2,Lob
+3857254,Ellyes Joris Skhiri,Tunisia,20.220039564748635,0.06278915358710195,False,Left Foot,Open Play,1,0,2,Half Volley
+3857254,Issam Jebali,Tunisia,10.893117092916981,0.055352767601568834,False,Head,Open Play,0,1,2,Normal
+3857254,Youssef Msakni,Tunisia,10.187246929372039,0.054065037762919155,False,Right Foot,Open Play,1,0,4,Volley
+3857254,Mohamed Dräger,Tunisia,29.31433096626972,0.06173753080941447,False,Right Foot,Open Play,0,0,0,Normal
+3857254,Ellyes Joris Skhiri,Tunisia,20.503902067655318,0.06349715935031852,False,Right Foot,Open Play,1,0,2,Volley
+3857254,Dylan Daniel Mahmoud Bronn,Tunisia,16.497575579460147,0.06273759405684676,False,Right Foot,Open Play,0,0,3,Half Volley
+3857254,Kasper Dolberg,Denmark,5.830951894845301,0.057413694988867656,False,Head,Open Play,0,0,2,Normal
+3857254,Christian Dannemann Eriksen,Denmark,21.044714300745447,0.06485058083462046,False,Left Foot,Open Play,0,0,2,Normal
+3857254,Andreas Christensen,Denmark,3.9698866482558377,0.05670669813856411,False,Head,Open Play,0,1,5,Normal
+3857254,Andreas Evald Cornelius,Denmark,4.2953463189829035,0.05441403385243899,False,Head,Open Play,0,0,4,Normal
+3857254,Mathias Jensen,Denmark,23.577319610167734,0.06762254551059195,False,Right Foot,Open Play,0,0,2,Normal
+3857254,Andreas Evald Cornelius,Denmark,6.449806198638836,0.05797461519066483,False,Head,Open Play,0,1,4,Normal
+3857254,Joakim Mæhle,Denmark,26.852187992787478,0.06996069757493967,False,Right Foot,Open Play,0,0,4,Normal
+3857254,Andreas Evald Cornelius,Denmark,12.89961239727768,0.0569189023244934,False,Head,Open Play,0,1,3,Normal

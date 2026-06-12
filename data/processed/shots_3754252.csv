@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.128199269734164,0.06781627715298964,False,Right Foot,Open Play,1,0,0,Normal
-26.853118999475644,0.06096895826070181,False,Left Foot,Free Kick,0,0,0,Normal
-18.604300578092147,0.06228929964937575,True,Right Foot,Open Play,0,0,1,Normal
-25.177172200229318,0.06792050628792734,False,Left Foot,Open Play,0,0,2,Normal
-24.964975465639856,0.06897430573991142,False,Left Foot,Open Play,1,0,1,Half Volley
-32.09750769140807,0.06744184651815315,False,Right Foot,Open Play,0,0,1,Lob
-35.35647041207592,0.06117712260277376,False,Right Foot,Free Kick,0,0,0,Normal
-15.13803157613301,0.060200749683822476,False,Left Foot,Open Play,0,0,2,Normal
-13.238202294873727,0.05907998072575901,False,Right Foot,Open Play,1,0,0,Normal
-13.502962637880618,0.05831546099996639,False,Left Foot,Open Play,0,1,3,Overhead Kick
-32.259572222830236,0.07304275775908677,False,Right Foot,Open Play,0,0,0,Normal
-17.10467772277513,0.061625583397098165,False,Left Foot,Open Play,0,0,2,Normal
-13.865424623862047,0.05754737009994326,False,Right Foot,Open Play,0,0,2,Normal
-19.61045639448506,0.052308498992012474,False,Right Foot,Open Play,0,0,1,Normal
-23.910876186371752,0.06375415669216222,False,Right Foot,Open Play,0,0,3,Normal
-7.340980860893184,0.0583698594123115,False,Head,Open Play,0,1,3,Normal
-31.831116851282484,0.07296594945375312,False,Right Foot,Free Kick,0,0,0,Normal
-18.693581786270926,0.062833735463308,False,Right Foot,Open Play,1,0,2,Half Volley
-10.480935072788112,0.060075863656012876,False,Right Foot,Open Play,1,0,4,Half Volley
-8.845903006477064,0.05857369225786517,False,Right Foot,Open Play,1,0,2,Volley
-18.597042775667322,0.06443253229425212,False,Right Foot,Open Play,1,0,0,Volley
-20.15589243868899,0.06498301697364336,False,Left Foot,Open Play,0,1,2,Normal
-27.536339626028727,0.05817947983883517,False,Left Foot,Open Play,0,0,2,Normal
-11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
-23.835477759004533,0.06548046026152447,False,Right Foot,Open Play,0,0,3,Normal
-14.795945390545338,0.05976714325140118,False,Right Foot,Open Play,1,1,2,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754252,Tom Cleverley,Everton,24.128199269734164,0.06781627715298964,False,Right Foot,Open Play,1,0,0,Normal
+3754252,Romelu Lukaku Menama,Everton,26.853118999475644,0.06096895826070181,False,Left Foot,Free Kick,0,0,0,Normal
+3754252,Aaron Lennon,Everton,18.604300578092147,0.06228929964937575,True,Right Foot,Open Play,0,0,1,Normal
+3754252,Jonjo Shelvey,Newcastle United,25.177172200229318,0.06792050628792734,False,Left Foot,Open Play,0,0,2,Normal
+3754252,Paul Dummett,Newcastle United,24.964975465639856,0.06897430573991142,False,Left Foot,Open Play,1,0,1,Half Volley
+3754252,Ross Barkley,Everton,32.09750769140807,0.06744184651815315,False,Right Foot,Open Play,0,0,1,Lob
+3754252,Ross Barkley,Everton,35.35647041207592,0.06117712260277376,False,Right Foot,Free Kick,0,0,0,Normal
+3754252,Ross Barkley,Everton,15.13803157613301,0.060200749683822476,False,Left Foot,Open Play,0,0,2,Normal
+3754252,Aaron Lennon,Everton,13.238202294873727,0.05907998072575901,False,Right Foot,Open Play,1,0,0,Normal
+3754252,Romelu Lukaku Menama,Everton,13.502962637880618,0.05831546099996639,False,Left Foot,Open Play,0,1,3,Overhead Kick
+3754252,Jonjo Shelvey,Newcastle United,32.259572222830236,0.07304275775908677,False,Right Foot,Open Play,0,0,0,Normal
+3754252,Aaron Lennon,Everton,17.10467772277513,0.061625583397098165,False,Left Foot,Open Play,0,0,2,Normal
+3754252,Arouna Koné,Everton,13.865424623862047,0.05754737009994326,False,Right Foot,Open Play,0,0,2,Normal
+3754252,Arouna Koné,Everton,19.61045639448506,0.052308498992012474,False,Right Foot,Open Play,0,0,1,Normal
+3754252,Ross Barkley,Everton,23.910876186371752,0.06375415669216222,False,Right Foot,Open Play,0,0,3,Normal
+3754252,José Ramiro Funes Mori,Everton,7.340980860893184,0.0583698594123115,False,Head,Open Play,0,1,3,Normal
+3754252,Tom Cleverley,Everton,31.831116851282484,0.07296594945375312,False,Right Foot,Free Kick,0,0,0,Normal
+3754252,José Ramiro Funes Mori,Everton,18.693581786270926,0.062833735463308,False,Right Foot,Open Play,1,0,2,Half Volley
+3754252,Jamaal Lascelles,Newcastle United,10.480935072788112,0.060075863656012876,False,Right Foot,Open Play,1,0,4,Half Volley
+3754252,Aleksandar Mitrović,Newcastle United,8.845903006477064,0.05857369225786517,False,Right Foot,Open Play,1,0,2,Volley
+3754252,Ayoze Pérez Gutiérrez,Newcastle United,18.597042775667322,0.06443253229425212,False,Right Foot,Open Play,1,0,0,Volley
+3754252,Ross Barkley,Everton,20.15589243868899,0.06498301697364336,False,Left Foot,Open Play,0,1,2,Normal
+3754252,Daryl Janmaat,Newcastle United,27.536339626028727,0.05817947983883517,False,Left Foot,Open Play,0,0,2,Normal
+3754252,Ross Barkley,Everton,11.800423721205943,0.05947215900191016,True,Right Foot,Penalty,0,0,0,Normal
+3754252,Ross Barkley,Everton,23.835477759004533,0.06548046026152447,False,Right Foot,Open Play,0,0,3,Normal
+3754252,Arouna Koné,Everton,14.795945390545338,0.05976714325140118,False,Right Foot,Open Play,1,1,2,Normal
+3754252,Ross Barkley,Everton,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal

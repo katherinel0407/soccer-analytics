@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.38931379925457,0.05863409735893429,False,Left Foot,Open Play,0,0,2,Normal
-23.957044892891112,0.06312277124637829,False,Left Foot,Open Play,0,0,4,Normal
-11.406138698087096,0.05358819340540174,False,Head,Open Play,0,1,3,Normal
-26.801865606707306,0.05509472463765019,False,Right Foot,Open Play,1,0,1,Normal
-11.01362792180669,0.06019510945266068,False,Right Foot,Open Play,1,0,1,Normal
-7.762087348130006,0.05564877919258373,True,Right Foot,Open Play,1,0,2,Volley
-16.911830178901393,0.05470174137034794,True,Right Foot,Open Play,1,1,1,Normal
-26.055517649818434,0.06677267579362688,False,Right Foot,Open Play,0,0,1,Normal
-27.69295939404093,0.07081290346506092,False,Right Foot,Open Play,0,0,2,Normal
-18.023595645708436,0.058133547003849095,False,Right Foot,Open Play,0,1,1,Normal
-7.424957912338629,0.058427191382143834,False,Head,Open Play,0,1,4,Normal
-7.106335201775941,0.05769130689527431,True,Head,Open Play,0,0,3,Normal
-16.866831356244713,0.061046976508118606,False,Left Foot,Open Play,0,0,4,Normal
-6.489992295835186,0.05800947136512907,False,Head,Open Play,0,1,4,Normal
-1.5297058540778348,0.05552908343102235,False,Head,Open Play,0,1,3,Normal
-2.7856776554368254,0.05451678923736091,True,Left Foot,Open Play,1,1,3,Volley
-9.669022701390249,0.05916157732899778,False,Right Foot,Open Play,1,0,2,Overhead Kick
-15.383432646844463,0.0570550887910138,True,Right Foot,Open Play,0,1,2,Normal
-21.51278689523977,0.0551138710563823,False,Right Foot,Open Play,0,0,2,Normal
-21.69055093813894,0.05711353943780629,True,Left Foot,Open Play,0,0,1,Normal
-26.65801943130809,0.06128355987060878,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754320,Sadio Mané,Southampton,23.38931379925457,0.05863409735893429,False,Left Foot,Open Play,0,0,2,Normal
+3754320,Sadio Mané,Southampton,23.957044892891112,0.06312277124637829,False,Left Foot,Open Play,0,0,4,Normal
+3754320,José Miguel da Rocha Fonte,Southampton,11.406138698087096,0.05358819340540174,False,Head,Open Play,0,1,3,Normal
+3754320,Shane Long,Southampton,26.801865606707306,0.05509472463765019,False,Right Foot,Open Play,1,0,1,Normal
+3754320,Raheem Sterling,Manchester City,11.01362792180669,0.06019510945266068,False,Right Foot,Open Play,1,0,1,Normal
+3754320,Shane Long,Southampton,7.762087348130006,0.05564877919258373,True,Right Foot,Open Play,1,0,2,Volley
+3754320,Sadio Mané,Southampton,16.911830178901393,0.05470174137034794,True,Right Foot,Open Play,1,1,1,Normal
+3754320,Steven Davis,Southampton,26.055517649818434,0.06677267579362688,False,Right Foot,Open Play,0,0,1,Normal
+3754320,Fabian Delph,Manchester City,27.69295939404093,0.07081290346506092,False,Right Foot,Open Play,0,0,2,Normal
+3754320,Jordy Clasie,Southampton,18.023595645708436,0.058133547003849095,False,Right Foot,Open Play,0,1,1,Normal
+3754320,José Miguel da Rocha Fonte,Southampton,7.424957912338629,0.058427191382143834,False,Head,Open Play,0,1,4,Normal
+3754320,Kelechi Promise Iheanacho,Manchester City,7.106335201775941,0.05769130689527431,True,Head,Open Play,0,0,3,Normal
+3754320,Kelechi Promise Iheanacho,Manchester City,16.866831356244713,0.061046976508118606,False,Left Foot,Open Play,0,0,4,Normal
+3754320,Virgil van Dijk,Southampton,6.489992295835186,0.05800947136512907,False,Head,Open Play,0,1,4,Normal
+3754320,José Miguel da Rocha Fonte,Southampton,1.5297058540778348,0.05552908343102235,False,Head,Open Play,0,1,3,Normal
+3754320,Sadio Mané,Southampton,2.7856776554368254,0.05451678923736091,True,Left Foot,Open Play,1,1,3,Volley
+3754320,Virgil van Dijk,Southampton,9.669022701390249,0.05916157732899778,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3754320,Sadio Mané,Southampton,15.383432646844463,0.0570550887910138,True,Right Foot,Open Play,0,1,2,Normal
+3754320,Jesús Navas González,Manchester City,21.51278689523977,0.0551138710563823,False,Right Foot,Open Play,0,0,2,Normal
+3754320,Kelechi Promise Iheanacho,Manchester City,21.69055093813894,0.05711353943780629,True,Left Foot,Open Play,0,0,1,Normal
+3754320,James Ward-Prowse,Southampton,26.65801943130809,0.06128355987060878,False,Right Foot,Open Play,0,0,1,Normal

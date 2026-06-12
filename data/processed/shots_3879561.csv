@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-26.26670896781704,0.0687041243562608,False,Right Foot,Open Play,0,0,1,Normal
-25.876823607235877,0.06781859911523341,False,Right Foot,Open Play,0,0,1,Normal
-23.33430950339007,0.06338983053699904,False,Left Foot,Open Play,1,1,2,Half Volley
-15.532224567009068,0.05202517626583012,False,Right Foot,Open Play,1,0,2,Normal
-17.057842770995396,0.06384312037789207,False,Left Foot,Open Play,1,0,0,Half Volley
-20.13752715702701,0.06044439951016607,False,Left Foot,Open Play,0,0,3,Normal
-10.866462165764897,0.05867037512534585,False,Right Foot,Open Play,0,0,3,Normal
-24.239843233816504,0.06374121781636945,False,Left Foot,Open Play,0,0,4,Normal
-24.626002517664126,0.06021727847342,False,Left Foot,Open Play,1,1,2,Normal
-8.485281374238577,0.05850740692489415,True,Right Foot,Open Play,1,0,1,Normal
-23.169160537231384,0.05887294312185063,False,Left Foot,Open Play,0,0,1,Normal
-30.26615271222955,0.06687514591611635,False,Right Foot,Open Play,0,0,0,Volley
-18.850198937942274,0.05387859162186762,False,Right Foot,Open Play,1,1,1,Normal
-32.47845439672277,0.06368826221227561,False,Left Foot,Open Play,0,0,0,Normal
-30.37844630655096,0.05433226135332228,False,Left Foot,Free Kick,0,0,0,Normal
-10.206860437960346,0.054873517329697905,False,Head,Open Play,0,1,3,Normal
-17.182840277439585,0.06362346495927174,False,Right Foot,Open Play,0,0,2,Normal
-12.257650672131264,0.059948419190402835,False,Head,Open Play,0,1,2,Normal
-21.828879952943076,0.06619257298204961,False,Right Foot,Free Kick,0,0,0,Normal
-28.702787321094796,0.06703678085751594,False,Left Foot,Open Play,0,0,2,Normal
-22.28923506987173,0.066231424631139,False,Left Foot,Open Play,0,0,2,Normal
-18.056023925549063,0.06323209559365785,False,Left Foot,Open Play,0,0,2,Normal
-29.643549045281333,0.06996897506003531,False,Left Foot,Open Play,1,0,1,Normal
-27.92436212342191,0.06132549864927796,False,Right Foot,Open Play,0,0,1,Normal
-20.796634343085422,0.05445251476132299,False,Right Foot,Open Play,1,1,1,Normal
-7.002856560004639,0.05749157465949261,False,Head,Open Play,0,1,1,Normal
-24.041006634498487,0.06365215177223219,False,Right Foot,Open Play,0,0,1,Normal
-32.46783023240081,0.07459906425882921,False,Right Foot,Open Play,0,0,0,Normal
-30.9118100408242,0.058681943993163316,False,Right Foot,Open Play,0,0,2,Half Volley
-27.526351011349103,0.07064897609613845,False,Right Foot,Open Play,0,0,1,Normal
-16.59518002312719,0.06344855936537941,True,Right Foot,Open Play,1,0,1,Volley
-25.20019841191732,0.06808943145491539,False,Left Foot,Open Play,1,0,0,Half Volley
-61.693759814101135,0.09000587154125343,False,Right Foot,Open Play,0,0,0,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879561,Josip Iličić,Fiorentina,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3879561,Borja Valero Iglesias,Fiorentina,26.26670896781704,0.0687041243562608,False,Right Foot,Open Play,0,0,1,Normal
+3879561,Milan Badelj,Fiorentina,25.876823607235877,0.06781859911523341,False,Right Foot,Open Play,0,0,1,Normal
+3879561,Josip Iličić,Fiorentina,23.33430950339007,0.06338983053699904,False,Left Foot,Open Play,1,1,2,Half Volley
+3879561,Nikola Kalinić,Fiorentina,15.532224567009068,0.05202517626583012,False,Right Foot,Open Play,1,0,2,Normal
+3879561,Federico Bernardeschi,Fiorentina,17.057842770995396,0.06384312037789207,False,Left Foot,Open Play,1,0,0,Half Volley
+3879561,Josip Iličić,Fiorentina,20.13752715702701,0.06044439951016607,False,Left Foot,Open Play,0,0,3,Normal
+3879561,Maximiliano Nicol Moralez,Atalanta,10.866462165764897,0.05867037512534585,False,Right Foot,Open Play,0,0,3,Normal
+3879561,Josip Iličić,Fiorentina,24.239843233816504,0.06374121781636945,False,Left Foot,Open Play,0,0,4,Normal
+3879561,Alberto Grassi,Atalanta,24.626002517664126,0.06021727847342,False,Left Foot,Open Play,1,1,2,Normal
+3879561,Borja Valero Iglesias,Fiorentina,8.485281374238577,0.05850740692489415,True,Right Foot,Open Play,1,0,1,Normal
+3879561,Jakub Błaszczykowski,Fiorentina,23.169160537231384,0.05887294312185063,False,Left Foot,Open Play,0,0,1,Normal
+3879561,Marten de Roon,Atalanta,30.26615271222955,0.06687514591611635,False,Right Foot,Open Play,0,0,0,Volley
+3879561,Nikola Kalinić,Fiorentina,18.850198937942274,0.05387859162186762,False,Right Foot,Open Play,1,1,1,Normal
+3879561,Josip Iličić,Fiorentina,32.47845439672277,0.06368826221227561,False,Left Foot,Open Play,0,0,0,Normal
+3879561,Josip Iličić,Fiorentina,30.37844630655096,0.05433226135332228,False,Left Foot,Free Kick,0,0,0,Normal
+3879561,Davide Astori,Fiorentina,10.206860437960346,0.054873517329697905,False,Head,Open Play,0,1,3,Normal
+3879561,Nikola Kalinić,Fiorentina,17.182840277439585,0.06362346495927174,False,Right Foot,Open Play,0,0,2,Normal
+3879561,Boukary Dramé,Atalanta,12.257650672131264,0.059948419190402835,False,Head,Open Play,0,1,2,Normal
+3879561,Borja Valero Iglesias,Fiorentina,21.828879952943076,0.06619257298204961,False,Right Foot,Free Kick,0,0,0,Normal
+3879561,Josip Iličić,Fiorentina,28.702787321094796,0.06703678085751594,False,Left Foot,Open Play,0,0,2,Normal
+3879561,Federico Bernardeschi,Fiorentina,22.28923506987173,0.066231424631139,False,Left Foot,Open Play,0,0,2,Normal
+3879561,Marcos Alonso Mendoza,Fiorentina,18.056023925549063,0.06323209559365785,False,Left Foot,Open Play,0,0,2,Normal
+3879561,Federico Bernardeschi,Fiorentina,29.643549045281333,0.06996897506003531,False,Left Foot,Open Play,1,0,1,Normal
+3879561,Matías Vecino Falero,Fiorentina,27.92436212342191,0.06132549864927796,False,Right Foot,Open Play,0,0,1,Normal
+3879561,Nikola Kalinić,Fiorentina,20.796634343085422,0.05445251476132299,False,Right Foot,Open Play,1,1,1,Normal
+3879561,Nikola Kalinić,Fiorentina,7.002856560004639,0.05749157465949261,False,Head,Open Play,0,1,1,Normal
+3879561,Matías Vecino Falero,Fiorentina,24.041006634498487,0.06365215177223219,False,Right Foot,Open Play,0,0,1,Normal
+3879561,Matías Vecino Falero,Fiorentina,32.46783023240081,0.07459906425882921,False,Right Foot,Open Play,0,0,0,Normal
+3879561,Jakub Błaszczykowski,Fiorentina,30.9118100408242,0.058681943993163316,False,Right Foot,Open Play,0,0,2,Half Volley
+3879561,Matías Ariel Fernández Fernández,Fiorentina,27.526351011349103,0.07064897609613845,False,Right Foot,Open Play,0,0,1,Normal
+3879561,Joan Verdú Fernández,Fiorentina,16.59518002312719,0.06344855936537941,True,Right Foot,Open Play,1,0,1,Volley
+3879561,Alberto Grassi,Atalanta,25.20019841191732,0.06808943145491539,False,Left Foot,Open Play,1,0,0,Half Volley
+3879561,Matías Vecino Falero,Fiorentina,61.693759814101135,0.09000587154125343,False,Right Foot,Open Play,0,0,0,Lob

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.739502518971026,0.0708888019567897,False,Right Foot,Free Kick,0,0,0,Normal
-8.354639429682168,0.0588363599882401,False,Left Foot,Open Play,1,1,2,Half Volley
-5.400925846556317,0.056958773040553565,False,Head,Open Play,0,0,6,Normal
-11.268096556206824,0.05395217999980777,False,Head,Open Play,0,0,1,Normal
-15.109268678529746,0.06268294955237559,False,Head,Open Play,0,1,1,Normal
-33.14754892899323,0.06488077275687987,False,Right Foot,Open Play,0,0,3,Normal
-30.801623333843946,0.062181998886637065,False,Right Foot,Open Play,0,0,1,Normal
-20.398284241572863,0.06409497215837624,False,Right Foot,Open Play,0,1,3,Normal
-17.870926109186392,0.05188435450016285,False,Left Foot,Open Play,0,1,2,Normal
-33.37079561532808,0.07530504317901283,False,Left Foot,Free Kick,0,0,0,Normal
-34.70230539892127,0.07536347144041329,False,Right Foot,Open Play,0,0,1,Normal
-12.870508925446579,0.06111180794234401,False,Head,Open Play,0,1,3,Normal
-11.720068259186885,0.057220018804799606,False,Right Foot,Open Play,1,1,1,Half Volley
-11.400438588054403,0.058287815004822774,False,Head,Open Play,0,1,4,Normal
-34.2720002334267,0.059909560345076905,False,Right Foot,Open Play,0,0,0,Normal
-18.366273438016762,0.06383697976814823,False,Left Foot,Open Play,0,0,1,Normal
-27.816002588438188,0.062140663649241826,False,Left Foot,Open Play,0,0,1,Normal
-27.518175811634034,0.06329899375843313,False,Left Foot,Open Play,0,0,3,Normal
-7.083784299369935,0.058285189629933155,True,Head,Open Play,0,0,3,Normal
-16.065490966665166,0.053752029805591836,False,Right Foot,Open Play,1,0,1,Half Volley
-15.92262541165872,0.05539573880529139,False,Left Foot,Open Play,1,0,1,Half Volley
-8.54458893101359,0.05906638617244284,False,Head,Open Play,0,0,3,Normal
-7.267048919609667,0.05840562796065099,False,Left Foot,Open Play,1,0,3,Normal
-2.9154759474226553,0.05605683204220449,True,Right Foot,Open Play,0,1,7,Normal
-37.521327268634835,0.06831359590574684,False,Right Foot,Open Play,0,0,1,Normal
-19.928873525616048,0.06395218997754158,False,Head,Open Play,0,1,2,Normal
-14.035668847618197,0.055648525844395835,False,Right Foot,Open Play,0,0,1,Normal
-26.184346468835148,0.06489865419929222,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900639,Renaud Cohade,Saint-Étienne,27.739502518971026,0.0708888019567897,False,Right Foot,Free Kick,0,0,0,Normal
+3900639,Alexander Toft Søderlund,Saint-Étienne,8.354639429682168,0.0588363599882401,False,Left Foot,Open Play,1,1,2,Half Volley
+3900639,Moustapha Bayal Sall,Saint-Étienne,5.400925846556317,0.056958773040553565,False,Head,Open Play,0,0,6,Normal
+3900639,Kévin Monnet-Paquet,Saint-Étienne,11.268096556206824,0.05395217999980777,False,Head,Open Play,0,0,1,Normal
+3900639,Alexander Toft Søderlund,Saint-Étienne,15.109268678529746,0.06268294955237559,False,Head,Open Play,0,1,1,Normal
+3900639,João Filipe Iria Santos Moutinho,AS Monaco,33.14754892899323,0.06488077275687987,False,Right Foot,Open Play,0,0,3,Normal
+3900639,Oussama Tannane,Saint-Étienne,30.801623333843946,0.062181998886637065,False,Right Foot,Open Play,0,0,1,Normal
+3900639,Kévin Monnet-Paquet,Saint-Étienne,20.398284241572863,0.06409497215837624,False,Right Foot,Open Play,0,1,3,Normal
+3900639,Thomas Lemar,AS Monaco,17.870926109186392,0.05188435450016285,False,Left Foot,Open Play,0,1,2,Normal
+3900639,Oussama Tannane,Saint-Étienne,33.37079561532808,0.07530504317901283,False,Left Foot,Free Kick,0,0,0,Normal
+3900639,Vincent Pajot,Saint-Étienne,34.70230539892127,0.07536347144041329,False,Right Foot,Open Play,0,0,1,Normal
+3900639,Mario Pašalić,AS Monaco,12.870508925446579,0.06111180794234401,False,Head,Open Play,0,1,3,Normal
+3900639,Kévin Monnet-Paquet,Saint-Étienne,11.720068259186885,0.057220018804799606,False,Right Foot,Open Play,1,1,1,Half Volley
+3900639,Moustapha Bayal Sall,Saint-Étienne,11.400438588054403,0.058287815004822774,False,Head,Open Play,0,1,4,Normal
+3900639,Renaud Cohade,Saint-Étienne,34.2720002334267,0.059909560345076905,False,Right Foot,Open Play,0,0,0,Normal
+3900639,Oussama Tannane,Saint-Étienne,18.366273438016762,0.06383697976814823,False,Left Foot,Open Play,0,0,1,Normal
+3900639,Oussama Tannane,Saint-Étienne,27.816002588438188,0.062140663649241826,False,Left Foot,Open Play,0,0,1,Normal
+3900639,Alexander Toft Søderlund,Saint-Étienne,27.518175811634034,0.06329899375843313,False,Left Foot,Open Play,0,0,3,Normal
+3900639,Moustapha Bayal Sall,Saint-Étienne,7.083784299369935,0.058285189629933155,True,Head,Open Play,0,0,3,Normal
+3900639,Vágner Silva de Souza,AS Monaco,16.065490966665166,0.053752029805591836,False,Right Foot,Open Play,1,0,1,Half Volley
+3900639,Thomas Lemar,AS Monaco,15.92262541165872,0.05539573880529139,False,Left Foot,Open Play,1,0,1,Half Volley
+3900639,Guido Marcelo Carrillo,AS Monaco,8.54458893101359,0.05906638617244284,False,Head,Open Play,0,0,3,Normal
+3900639,Guido Marcelo Carrillo,AS Monaco,7.267048919609667,0.05840562796065099,False,Left Foot,Open Play,1,0,3,Normal
+3900639,Vágner Silva de Souza,AS Monaco,2.9154759474226553,0.05605683204220449,True,Right Foot,Open Play,0,1,7,Normal
+3900639,Moustapha Bayal Sall,Saint-Étienne,37.521327268634835,0.06831359590574684,False,Right Foot,Open Play,0,0,1,Normal
+3900639,Valentin Eysseric,Saint-Étienne,19.928873525616048,0.06395218997754158,False,Head,Open Play,0,1,2,Normal
+3900639,Florentin Pogba,Saint-Étienne,14.035668847618197,0.055648525844395835,False,Right Foot,Open Play,0,0,1,Normal
+3900639,Franck Tabanou,Saint-Étienne,26.184346468835148,0.06489865419929222,False,Right Foot,Open Play,0,0,2,Normal

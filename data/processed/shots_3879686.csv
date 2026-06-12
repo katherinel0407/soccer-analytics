@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-7.106335201775954,0.05696702410338964,False,Head,Open Play,0,1,4,Normal
-19.2379832622861,0.05508573354081404,False,Right Foot,Open Play,0,1,1,Normal
-28.260573242593647,0.07112680906416204,False,Right Foot,Open Play,0,0,1,Normal
-39.35543164545397,0.08064433645032915,False,Left Foot,Open Play,0,0,0,Normal
-5.131276644266996,0.057143013075178856,True,Head,Open Play,0,0,3,Normal
-26.67376988728815,0.06953865378689943,False,Right Foot,Open Play,0,0,4,Half Volley
-20.21806123247232,0.0657680001075122,False,Left Foot,Open Play,0,0,1,Half Volley
-24.06200324162558,0.06744622342217943,False,Left Foot,Open Play,1,0,0,Volley
-25.366316248127156,0.06892257337772849,False,Right Foot,Open Play,0,0,3,Normal
-11.624543001770002,0.06054778062457627,False,Head,Open Play,0,0,1,Normal
-33.83681427085003,0.07563479398212217,False,Right Foot,Open Play,0,0,1,Normal
-22.635370551417974,0.05827474902451574,False,Left Foot,Open Play,0,1,2,Normal
-21.79747691821235,0.06683780768206314,False,Right Foot,Open Play,0,0,2,Normal
-6.341135544995075,0.05793102628826723,True,Right Foot,Open Play,1,0,4,Normal
-21.250882334623196,0.06594316596474194,False,Left Foot,Open Play,1,0,0,Volley
-24.350770008359078,0.06809602048008172,False,Right Foot,Open Play,0,0,2,Normal
-21.360009363293827,0.05319028258975222,False,Right Foot,Open Play,0,0,1,Half Volley
-18.117670931993434,0.06189980050931422,False,Left Foot,Open Play,0,0,1,Normal
-24.89196657558418,0.06301867115372382,False,Left Foot,Open Play,1,0,1,Half Volley
-57.277046013215454,0.08825841524792295,False,Right Foot,Open Play,0,0,0,Normal
-25.972485441328097,0.06860205188580341,False,Right Foot,Open Play,0,0,1,Volley
-11.943617542436627,0.057257491157020696,False,Right Foot,Open Play,1,0,1,Normal
-15.435025105259792,0.05701522757449097,False,Right Foot,Open Play,1,0,3,Normal
-28.0515596714336,0.06599562102560837,False,Right Foot,Open Play,1,0,0,Normal
-19.99849994374578,0.06431532933779806,False,Right Foot,Open Play,0,0,1,Normal
-28.10871750898642,0.06658076613595389,False,Left Foot,Open Play,0,1,2,Half Volley
-23.41644721130855,0.0597376595568236,False,Right Foot,Open Play,0,0,2,Normal
-10.678014796768176,0.05627308471396059,False,Head,Open Play,0,0,2,Normal
-17.695479648769066,0.055890169146150075,True,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879686,Diego Falcinelli,Sassuolo,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3879686,Simone Missiroli,Sassuolo,7.106335201775954,0.05696702410338964,False,Head,Open Play,0,1,4,Normal
+3879686,Gonzalo Gerardo Higuaín,Napoli,19.2379832622861,0.05508573354081404,False,Right Foot,Open Play,0,1,1,Normal
+3879686,Lorenzo Insigne,Napoli,28.260573242593647,0.07112680906416204,False,Right Foot,Open Play,0,0,1,Normal
+3879686,Faouzi Ghoulam,Napoli,39.35543164545397,0.08064433645032915,False,Left Foot,Open Play,0,0,0,Normal
+3879686,José María Callejón Bueno,Napoli,5.131276644266996,0.057143013075178856,True,Head,Open Play,0,0,3,Normal
+3879686,Faouzi Ghoulam,Napoli,26.67376988728815,0.06953865378689943,False,Right Foot,Open Play,0,0,4,Half Volley
+3879686,Joseph Alfred Duncan,Sassuolo,20.21806123247232,0.0657680001075122,False,Left Foot,Open Play,0,0,1,Half Volley
+3879686,Joseph Alfred Duncan,Sassuolo,24.06200324162558,0.06744622342217943,False,Left Foot,Open Play,1,0,0,Volley
+3879686,Nicola Sansone,Sassuolo,25.366316248127156,0.06892257337772849,False,Right Foot,Open Play,0,0,3,Normal
+3879686,Diego Falcinelli,Sassuolo,11.624543001770002,0.06054778062457627,False,Head,Open Play,0,0,1,Normal
+3879686,Marek Hamšík,Napoli,33.83681427085003,0.07563479398212217,False,Right Foot,Open Play,0,0,1,Normal
+3879686,Matteo Politano,Sassuolo,22.635370551417974,0.05827474902451574,False,Left Foot,Open Play,0,1,2,Normal
+3879686,Lorenzo Insigne,Napoli,21.79747691821235,0.06683780768206314,False,Right Foot,Open Play,0,0,2,Normal
+3879686,Gonzalo Gerardo Higuaín,Napoli,6.341135544995075,0.05793102628826723,True,Right Foot,Open Play,1,0,4,Normal
+3879686,Marek Hamšík,Napoli,21.250882334623196,0.06594316596474194,False,Left Foot,Open Play,1,0,0,Volley
+3879686,Lorenzo Insigne,Napoli,24.350770008359078,0.06809602048008172,False,Right Foot,Open Play,0,0,2,Normal
+3879686,Gonzalo Gerardo Higuaín,Napoli,21.360009363293827,0.05319028258975222,False,Right Foot,Open Play,0,0,1,Half Volley
+3879686,Gonzalo Gerardo Higuaín,Napoli,18.117670931993434,0.06189980050931422,False,Left Foot,Open Play,0,0,1,Normal
+3879686,Matteo Politano,Sassuolo,24.89196657558418,0.06301867115372382,False,Left Foot,Open Play,1,0,1,Half Volley
+3879686,Marek Hamšík,Napoli,57.277046013215454,0.08825841524792295,False,Right Foot,Open Play,0,0,0,Normal
+3879686,Lorenzo Insigne,Napoli,25.972485441328097,0.06860205188580341,False,Right Foot,Open Play,0,0,1,Volley
+3879686,Gonzalo Gerardo Higuaín,Napoli,11.943617542436627,0.057257491157020696,False,Right Foot,Open Play,1,0,1,Normal
+3879686,Gonzalo Gerardo Higuaín,Napoli,15.435025105259792,0.05701522757449097,False,Right Foot,Open Play,1,0,3,Normal
+3879686,Antonio Floro Flores,Sassuolo,28.0515596714336,0.06599562102560837,False,Right Foot,Open Play,1,0,0,Normal
+3879686,Lorenzo Insigne,Napoli,19.99849994374578,0.06431532933779806,False,Right Foot,Open Play,0,0,1,Normal
+3879686,Marek Hamšík,Napoli,28.10871750898642,0.06658076613595389,False,Left Foot,Open Play,0,1,2,Half Volley
+3879686,Gonzalo Gerardo Higuaín,Napoli,23.41644721130855,0.0597376595568236,False,Right Foot,Open Play,0,0,2,Normal
+3879686,Lorenzo Pellegrini,Sassuolo,10.678014796768176,0.05627308471396059,False,Head,Open Play,0,0,2,Normal
+3879686,Gonzalo Gerardo Higuaín,Napoli,17.695479648769066,0.055890169146150075,True,Left Foot,Open Play,0,0,3,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.698178070456933,0.06630508340582843,False,Right Foot,Open Play,1,1,2,Normal
-22.541739063346462,0.0658337797350058,False,Right Foot,Open Play,0,0,1,Normal
-25.05034929896188,0.06881999801902082,False,Left Foot,Open Play,0,1,3,Normal
-24.12073796549351,0.054726061403309045,False,Left Foot,Open Play,1,0,0,Half Volley
-19.94843352245985,0.06561276603523304,True,Left Foot,Open Play,1,1,1,Normal
-18.32157198495806,0.06458714594923343,False,Left Foot,Open Play,0,0,1,Normal
-18.915602025841,0.06366513228947228,False,Left Foot,Open Play,1,0,0,Normal
-13.870832707519762,0.0618468829005509,False,Right Foot,Open Play,0,1,3,Half Volley
-18.81116689628796,0.06459222745389247,False,Left Foot,Open Play,1,0,0,Normal
-23.988330496305903,0.06627236794216003,False,Left Foot,Open Play,1,0,0,Volley
-19.860010070490898,0.06381556127343262,False,Left Foot,Open Play,0,1,3,Normal
-12.747548783981962,0.05553800234040701,False,Right Foot,Open Play,0,1,3,Normal
-17.771043863543863,0.061875111933291295,False,Left Foot,Open Play,1,1,1,Normal
-20.652602741543255,0.06522766829495429,False,Left Foot,Open Play,0,1,2,Normal
-8.049844718999246,0.05876178527047449,False,Left Foot,Open Play,1,1,1,Normal
-7.800640999302556,0.05578709385850602,False,Head,Open Play,0,1,2,Normal
-10.307764064044152,0.05900944723549551,False,Head,Open Play,0,1,2,Normal
-22.41093483101497,0.0670771013011156,False,Right Foot,Open Play,0,0,3,Normal
-7.3239333694402236,0.05459002487718733,True,Head,Open Play,0,0,5,Normal
-12.332882874656681,0.05804314964746176,False,Head,Open Play,0,0,2,Normal
-24.263758983306776,0.062282884486547355,True,Left Foot,Open Play,0,1,3,Normal
-8.237718130647583,0.058480832258389535,True,Head,Open Play,0,0,2,Normal
-29.066303514551006,0.07190696126997213,False,Left Foot,Open Play,0,1,2,Normal
-20.86264604502507,0.062248838894603566,False,Right Foot,Open Play,0,0,1,Half Volley
-28.2177249260106,0.062039969314841965,False,Right Foot,Open Play,1,1,0,Normal
-15.880806024884247,0.06314027643215507,False,Right Foot,Open Play,0,0,3,Normal
-18.87432117984644,0.06142693887396561,False,Left Foot,Open Play,0,1,2,Normal
-25.37892826736385,0.0645824897159375,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878549,Alberto Paloschi,Chievo,24.698178070456933,0.06630508340582843,False,Right Foot,Open Play,1,1,2,Normal
+3878549,Massimo Maccarone,Empoli,22.541739063346462,0.0658337797350058,False,Right Foot,Open Play,0,0,1,Normal
+3878549,Riccardo Saponara,Empoli,25.05034929896188,0.06881999801902082,False,Left Foot,Open Play,0,1,3,Normal
+3878549,Boštjan Cesar,Chievo,24.12073796549351,0.054726061403309045,False,Left Foot,Open Play,1,0,0,Half Volley
+3878549,Riccardo Saponara,Empoli,19.94843352245985,0.06561276603523304,True,Left Foot,Open Play,1,1,1,Normal
+3878549,Paul-José M''Poku Ebunge,Chievo,18.32157198495806,0.06458714594923343,False,Left Foot,Open Play,0,0,1,Normal
+3878549,Riccardo Saponara,Empoli,18.915602025841,0.06366513228947228,False,Left Foot,Open Play,1,0,0,Normal
+3878549,Alberto Paloschi,Chievo,13.870832707519762,0.0618468829005509,False,Right Foot,Open Play,0,1,3,Half Volley
+3878549,Daniele Croce,Empoli,18.81116689628796,0.06459222745389247,False,Left Foot,Open Play,1,0,0,Normal
+3878549,Assane Dioussé El Hadji,Empoli,23.988330496305903,0.06627236794216003,False,Left Foot,Open Play,1,0,0,Volley
+3878549,Riccardo Saponara,Empoli,19.860010070490898,0.06381556127343262,False,Left Foot,Open Play,0,1,3,Normal
+3878549,Massimo Maccarone,Empoli,12.747548783981962,0.05553800234040701,False,Right Foot,Open Play,0,1,3,Normal
+3878549,Massimo Maccarone,Empoli,17.771043863543863,0.061875111933291295,False,Left Foot,Open Play,1,1,1,Normal
+3878549,Riccardo Saponara,Empoli,20.652602741543255,0.06522766829495429,False,Left Foot,Open Play,0,1,2,Normal
+3878549,Massimo Maccarone,Empoli,8.049844718999246,0.05876178527047449,False,Left Foot,Open Play,1,1,1,Normal
+3878549,Luca Martinelli,Empoli,7.800640999302556,0.05578709385850602,False,Head,Open Play,0,1,2,Normal
+3878549,Lucas Nahuel Castro,Chievo,10.307764064044152,0.05900944723549551,False,Head,Open Play,0,1,2,Normal
+3878549,Perparim Hetemaj,Chievo,22.41093483101497,0.0670771013011156,False,Right Foot,Open Play,0,0,3,Normal
+3878549,Riccardo Meggiorini,Chievo,7.3239333694402236,0.05459002487718733,True,Head,Open Play,0,0,5,Normal
+3878549,Riccardo Meggiorini,Chievo,12.332882874656681,0.05804314964746176,False,Head,Open Play,0,0,2,Normal
+3878549,Valter Birsa,Chievo,24.263758983306776,0.062282884486547355,True,Left Foot,Open Play,0,1,3,Normal
+3878549,Alberto Paloschi,Chievo,8.237718130647583,0.058480832258389535,True,Head,Open Play,0,0,2,Normal
+3878549,Levan Mchedlidze,Empoli,29.066303514551006,0.07190696126997213,False,Left Foot,Open Play,0,1,2,Normal
+3878549,Piotr Zieliński,Empoli,20.86264604502507,0.062248838894603566,False,Right Foot,Open Play,0,0,1,Half Volley
+3878549,Lucas Nahuel Castro,Chievo,28.2177249260106,0.062039969314841965,False,Right Foot,Open Play,1,1,0,Normal
+3878549,Lucas Nahuel Castro,Chievo,15.880806024884247,0.06314027643215507,False,Right Foot,Open Play,0,0,3,Normal
+3878549,Levan Mchedlidze,Empoli,18.87432117984644,0.06142693887396561,False,Left Foot,Open Play,0,1,2,Normal
+3878549,Piotr Zieliński,Empoli,25.37892826736385,0.0645824897159375,False,Left Foot,Open Play,0,0,2,Normal

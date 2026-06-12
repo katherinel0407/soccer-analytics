@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.634941650019815,0.07090369198264501,False,Left Foot,Open Play,1,1,1,Normal
-27.747792705006287,0.06855998447635976,False,Left Foot,Open Play,1,0,0,Normal
-21.001190442448728,0.054685464936792876,False,Right Foot,Open Play,0,0,1,Normal
-16.81338752304247,0.0631218716611026,False,Right Foot,Open Play,0,1,3,Normal
-14.28005602229907,0.061630314967794024,True,Left Foot,Open Play,0,0,2,Normal
-5.408326913195984,0.05727848987622231,False,Head,Open Play,0,1,6,Normal
-20.915305400591215,0.06457851726571003,False,Right Foot,Open Play,0,1,2,Normal
-25.750339803583177,0.060662976574515075,False,Right Foot,Open Play,0,0,1,Normal
-20.48316381812146,0.05844652708666138,False,Right Foot,Open Play,1,0,2,Volley
-6.224146527838177,0.05780756077051693,False,Left Foot,Open Play,1,0,2,Backheel
-9.202173656261872,0.05501156040142183,False,Head,Open Play,0,1,3,Normal
-11.676472069936196,0.05634261926243584,True,Right Foot,Open Play,1,0,1,Normal
-22.06173157302029,0.05944922966459783,False,Right Foot,Open Play,0,1,5,Normal
-13.407833531186169,0.06154079042898096,False,Head,Open Play,0,1,5,Normal
-27.148848962709263,0.05872701032815502,False,Right Foot,Open Play,1,0,1,Half Volley
-16.63850954863446,0.057988708766103396,False,Head,Open Play,0,1,2,Normal
-18.908199279677582,0.06100390304837508,False,Right Foot,Open Play,1,1,1,Volley
-19.382982226685343,0.05457070417715514,False,Right Foot,Open Play,0,0,3,Normal
-24.498979570586204,0.06407322212128158,False,Left Foot,Open Play,0,0,2,Half Volley
-25.39940944195357,0.06929228442113207,False,Right Foot,Open Play,0,1,2,Normal
-29.38860323322631,0.0721949632159377,False,Right Foot,Open Play,0,0,1,Normal
-26.313684652666943,0.05308779481857037,False,Right Foot,Open Play,0,0,1,Normal
-23.41324411524383,0.06569750732634157,False,Right Foot,Open Play,0,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901736,Katrine Veje,Denmark Women's,27.634941650019815,0.07090369198264501,False,Left Foot,Open Play,1,1,1,Normal
+3901736,Katrina Gorry,Australia Women's,27.747792705006287,0.06855998447635976,False,Left Foot,Open Play,1,0,0,Normal
+3901736,Pernille Mosegaard Harder,Denmark Women's,21.001190442448728,0.054685464936792876,False,Right Foot,Open Play,0,0,1,Normal
+3901736,Pernille Mosegaard Harder,Denmark Women's,16.81338752304247,0.0631218716611026,False,Right Foot,Open Play,0,1,3,Normal
+3901736,Caitlin Jade Foord,Australia Women's,14.28005602229907,0.061630314967794024,True,Left Foot,Open Play,0,0,2,Normal
+3901736,Simone Boye-Sørensen,Denmark Women's,5.408326913195984,0.05727848987622231,False,Head,Open Play,0,1,6,Normal
+3901736,Caitlin Jade Foord,Australia Women's,20.915305400591215,0.06457851726571003,False,Right Foot,Open Play,0,1,2,Normal
+3901736,Pernille Mosegaard Harder,Denmark Women's,25.750339803583177,0.060662976574515075,False,Right Foot,Open Play,0,0,1,Normal
+3901736,Kathrine Møller Kühl,Denmark Women's,20.48316381812146,0.05844652708666138,False,Right Foot,Open Play,1,0,2,Volley
+3901736,Emily Louise van Egmond,Australia Women's,6.224146527838177,0.05780756077051693,False,Left Foot,Open Play,1,0,2,Backheel
+3901736,Alanna Stephanie Kennedy,Australia Women's,9.202173656261872,0.05501156040142183,False,Head,Open Play,0,1,3,Normal
+3901736,Hayley Emma Raso,Australia Women's,11.676472069936196,0.05634261926243584,True,Right Foot,Open Play,1,0,1,Normal
+3901736,Kathrine Møller Kühl,Denmark Women's,22.06173157302029,0.05944922966459783,False,Right Foot,Open Play,0,1,5,Normal
+3901736,Pernille Mosegaard Harder,Denmark Women's,13.407833531186169,0.06154079042898096,False,Head,Open Play,0,1,5,Normal
+3901736,Janni Thomsen,Denmark Women's,27.148848962709263,0.05872701032815502,False,Right Foot,Open Play,1,0,1,Half Volley
+3901736,Signe Kallesøe Bruun,Denmark Women's,16.63850954863446,0.057988708766103396,False,Head,Open Play,0,1,2,Normal
+3901736,Pernille Mosegaard Harder,Denmark Women's,18.908199279677582,0.06100390304837508,False,Right Foot,Open Play,1,1,1,Volley
+3901736,Samantha May Kerr,Australia Women's,19.382982226685343,0.05457070417715514,False,Right Foot,Open Play,0,0,3,Normal
+3901736,Emma Snerle,Denmark Women's,24.498979570586204,0.06407322212128158,False,Left Foot,Open Play,0,0,2,Half Volley
+3901736,Caitlin Jade Foord,Australia Women's,25.39940944195357,0.06929228442113207,False,Right Foot,Open Play,0,1,2,Normal
+3901736,Katrina Gorry,Australia Women's,29.38860323322631,0.0721949632159377,False,Right Foot,Open Play,0,0,1,Normal
+3901736,Ellie Madison Carpenter,Australia Women's,26.313684652666943,0.05308779481857037,False,Right Foot,Open Play,0,0,1,Normal
+3901736,Signe Kallesøe Bruun,Denmark Women's,23.41324411524383,0.06569750732634157,False,Right Foot,Open Play,0,1,3,Half Volley

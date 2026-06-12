@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.209844813622906,0.06157980002348562,False,Right Foot,Open Play,0,0,2,Normal
-27.802877548915685,0.06239588813673682,True,Left Foot,Free Kick,0,0,0,Normal
-30.010164944565034,0.0719321119707234,True,Right Foot,Open Play,0,0,0,Normal
-10.41729331448434,0.05871930950123271,False,Head,Open Play,0,0,2,Normal
-23.76972864800942,0.05586932349860984,False,Left Foot,Open Play,0,0,2,Normal
-31.535694062442964,0.07185538155795337,False,Right Foot,Open Play,0,0,0,Normal
-34.03307215048327,0.0562960030837459,False,Left Foot,Open Play,0,0,0,Normal
-21.641164478835233,0.05983224527914854,False,Left Foot,Open Play,0,0,1,Normal
-16.700299398513792,0.06157107001065718,False,Left Foot,Open Play,1,0,3,Half Volley
-37.301474501686926,0.0759930201961194,False,Right Foot,Open Play,0,1,1,Normal
-24.740654801358836,0.05252013111690718,False,Right Foot,Open Play,1,0,1,Half Volley
-26.430474834932493,0.06996563660454526,False,Right Foot,Open Play,0,0,1,Half Volley
-12.269066794177952,0.060140125481499586,False,Head,Open Play,0,0,2,Normal
-24.095020232404863,0.06817584404622216,False,Right Foot,Open Play,0,0,3,Half Volley
-23.100865784641055,0.0646262588006445,False,Right Foot,Open Play,1,0,1,Half Volley
-22.83965849131725,0.06694876711722449,False,Right Foot,Open Play,0,0,2,Half Volley
-21.583790213954547,0.06291848016928961,False,Right Foot,Open Play,1,0,0,Half Volley
-9.457801012920505,0.05722463971238137,False,Right Foot,Open Play,0,0,3,Normal
-9.183681179135084,0.05598112833351666,False,Head,Open Play,0,0,4,Normal
-9.4191294714533,0.05831507622157272,True,Other,Open Play,0,0,3,Normal
-11.125196627475843,0.06044256449298023,False,Head,Open Play,0,1,2,Normal
-21.410511437142276,0.06600887157514469,False,Right Foot,Open Play,1,0,0,Normal
-18.32402794147618,0.0598632645638184,False,Right Foot,Open Play,1,0,5,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749079,Thierry Henry,Arsenal,13.209844813622906,0.06157980002348562,False,Right Foot,Open Play,0,0,2,Normal
+3749079,Eduardo César Daude Gaspar,Arsenal,27.802877548915685,0.06239588813673682,True,Left Foot,Free Kick,0,0,0,Normal
+3749079,Hernán Jorge Crespo,Chelsea,30.010164944565034,0.0719321119707234,True,Right Foot,Open Play,0,0,0,Normal
+3749079,Hernán Jorge Crespo,Chelsea,10.41729331448434,0.05871930950123271,False,Head,Open Play,0,0,2,Normal
+3749079,Glen Johnson,Chelsea,23.76972864800942,0.05586932349860984,False,Left Foot,Open Play,0,0,2,Normal
+3749079,Frank Lampard,Chelsea,31.535694062442964,0.07185538155795337,False,Right Foot,Open Play,0,0,0,Normal
+3749079,Glen Johnson,Chelsea,34.03307215048327,0.0562960030837459,False,Left Foot,Open Play,0,0,0,Normal
+3749079,Laureano Bisan-Etame Mayer,Arsenal,21.641164478835233,0.05983224527914854,False,Left Foot,Open Play,0,0,1,Normal
+3749079,Eduardo César Daude Gaspar,Arsenal,16.700299398513792,0.06157107001065718,False,Left Foot,Open Play,1,0,3,Half Volley
+3749079,"Gérémi Sorele N""Djitap Fotso",Chelsea,37.301474501686926,0.0759930201961194,False,Right Foot,Open Play,0,1,1,Normal
+3749079,Hernán Jorge Crespo,Chelsea,24.740654801358836,0.05252013111690718,False,Right Foot,Open Play,1,0,1,Half Volley
+3749079,Robert Pirès,Arsenal,26.430474834932493,0.06996563660454526,False,Right Foot,Open Play,0,0,1,Half Volley
+3749079,Thierry Henry,Arsenal,12.269066794177952,0.060140125481499586,False,Head,Open Play,0,0,2,Normal
+3749079,Robert Pirès,Arsenal,24.095020232404863,0.06817584404622216,False,Right Foot,Open Play,0,0,3,Half Volley
+3749079,Gilberto Aparecido da Silva,Arsenal,23.100865784641055,0.0646262588006445,False,Right Foot,Open Play,1,0,1,Half Volley
+3749079,Robert Pirès,Arsenal,22.83965849131725,0.06694876711722449,False,Right Foot,Open Play,0,0,2,Half Volley
+3749079,Robert Pirès,Arsenal,21.583790213954547,0.06291848016928961,False,Right Foot,Open Play,1,0,0,Half Volley
+3749079,Thierry Henry,Arsenal,9.457801012920505,0.05722463971238137,False,Right Foot,Open Play,0,0,3,Normal
+3749079,Nwankwo Christian Kanu,Arsenal,9.183681179135084,0.05598112833351666,False,Head,Open Play,0,0,4,Normal
+3749079,Thierry Henry,Arsenal,9.4191294714533,0.05831507622157272,True,Other,Open Play,0,0,3,Normal
+3749079,Thierry Henry,Arsenal,11.125196627475843,0.06044256449298023,False,Head,Open Play,0,1,2,Normal
+3749079,Dennis Bergkamp,Arsenal,21.410511437142276,0.06600887157514469,False,Right Foot,Open Play,1,0,0,Normal
+3749079,Joe Cole,Chelsea,18.32402794147618,0.0598632645638184,False,Right Foot,Open Play,1,0,5,Half Volley

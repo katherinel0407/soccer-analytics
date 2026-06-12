@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.76960201323612,0.07148282169818954,False,Right Foot,Open Play,0,0,2,Normal
-22.55038802326914,0.06298923312672207,False,Right Foot,Open Play,1,0,0,Normal
-24.298148077579903,0.06034134140654141,False,Left Foot,Open Play,0,0,2,Normal
-18.201648277010516,0.05808454812464878,False,Left Foot,Open Play,0,0,2,Normal
-11.377170122662315,0.05995318818455817,False,Head,Open Play,0,0,2,Normal
-7.615773105863913,0.058288240663531755,False,Left Foot,Open Play,1,0,2,Half Volley
-19.041270965983337,0.0641246999177679,False,Right Foot,Open Play,0,0,1,Normal
-15.91540134586621,0.06308684857939256,False,Right Foot,Open Play,1,1,2,Normal
-18.504323819042945,0.06456467000188935,False,Left Foot,Open Play,0,1,2,Normal
-27.254724361108483,0.05835301206695802,False,Right Foot,Open Play,0,0,0,Normal
-26.806902096288564,0.05437611206573125,False,Left Foot,Open Play,0,1,1,Normal
-21.004047229046115,0.06589645031132521,False,Right Foot,Open Play,0,0,1,Normal
-15.368799562750496,0.05648728326627797,False,Right Foot,Open Play,1,0,2,Normal
-19.453534383242545,0.06459012403470198,False,Left Foot,Open Play,1,0,2,Normal
-11.947384651043928,0.06086285129053326,False,Left Foot,Open Play,0,0,3,Half Volley
-21.677868898948528,0.06658471839881326,False,Left Foot,Open Play,0,1,3,Normal
-19.221342304844367,0.0569847673718486,False,Left Foot,Open Play,0,1,3,Normal
-8.06225774829855,0.057624201777450715,False,Head,Open Play,0,0,3,Normal
-12.593649193144937,0.05895146692688744,False,Right Foot,Open Play,1,0,3,Overhead Kick
-18.725650856512306,0.06478418280797194,False,Right Foot,Open Play,0,1,3,Normal
-25.00079998720041,0.06533998177554186,False,Left Foot,Open Play,1,0,0,Normal
-13.011533345459334,0.05934050151062382,True,Right Foot,Open Play,0,0,3,Normal
-31.71576894858455,0.05802258894265385,False,Right Foot,Open Play,1,1,1,Half Volley
-18.891532494744833,0.06495424631974972,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788768,Axel Witsel,Belgium,28.76960201323612,0.07148282169818954,False,Right Foot,Open Play,0,0,2,Normal
+3788768,Axel Witsel,Belgium,22.55038802326914,0.06298923312672207,False,Right Foot,Open Play,1,0,0,Normal
+3788768,Leandro Trossard,Belgium,24.298148077579903,0.06034134140654141,False,Left Foot,Open Play,0,0,2,Normal
+3788768,Jeremy Doku,Belgium,18.201648277010516,0.05808454812464878,False,Left Foot,Open Play,0,0,2,Normal
+3788768,Romelu Lukaku Menama,Belgium,11.377170122662315,0.05995318818455817,False,Head,Open Play,0,0,2,Normal
+3788768,Romelu Lukaku Menama,Belgium,7.615773105863913,0.058288240663531755,False,Left Foot,Open Play,1,0,2,Half Volley
+3788768,Jeremy Doku,Belgium,19.041270965983337,0.0641246999177679,False,Right Foot,Open Play,0,0,1,Normal
+3788768,Joel Pohjanpalo,Finland,15.91540134586621,0.06308684857939256,False,Right Foot,Open Play,1,1,2,Normal
+3788768,Teemu Pukki,Finland,18.504323819042945,0.06456467000188935,False,Left Foot,Open Play,0,1,2,Normal
+3788768,Jason Denayer,Belgium,27.254724361108483,0.05835301206695802,False,Right Foot,Open Play,0,0,0,Normal
+3788768,Eden Hazard,Belgium,26.806902096288564,0.05437611206573125,False,Left Foot,Open Play,0,1,1,Normal
+3788768,Nacer Chadli,Belgium,21.004047229046115,0.06589645031132521,False,Right Foot,Open Play,0,0,1,Normal
+3788768,Eden Hazard,Belgium,15.368799562750496,0.05648728326627797,False,Right Foot,Open Play,1,0,2,Normal
+3788768,Glen Kamara,Finland,19.453534383242545,0.06459012403470198,False,Left Foot,Open Play,1,0,2,Normal
+3788768,Eden Hazard,Belgium,11.947384651043928,0.06086285129053326,False,Left Foot,Open Play,0,0,3,Half Volley
+3788768,Joel Pohjanpalo,Finland,21.677868898948528,0.06658471839881326,False,Left Foot,Open Play,0,1,3,Normal
+3788768,Romelu Lukaku Menama,Belgium,19.221342304844367,0.0569847673718486,False,Left Foot,Open Play,0,1,3,Normal
+3788768,Thomas Vermaelen,Belgium,8.06225774829855,0.057624201777450715,False,Head,Open Play,0,0,3,Normal
+3788768,Kevin De Bruyne,Belgium,12.593649193144937,0.05895146692688744,False,Right Foot,Open Play,1,0,3,Overhead Kick
+3788768,Teemu Pukki,Finland,18.725650856512306,0.06478418280797194,False,Right Foot,Open Play,0,1,3,Normal
+3788768,Robin Lod,Finland,25.00079998720041,0.06533998177554186,False,Left Foot,Open Play,1,0,0,Normal
+3788768,Romelu Lukaku Menama,Belgium,13.011533345459334,0.05934050151062382,True,Right Foot,Open Play,0,0,3,Normal
+3788768,Nikolai Alho,Finland,31.71576894858455,0.05802258894265385,False,Right Foot,Open Play,1,1,1,Half Volley
+3788768,Eden Hazard,Belgium,18.891532494744833,0.06495424631974972,False,Right Foot,Open Play,0,0,2,Normal

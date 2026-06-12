@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.621484790916233,0.05573080170193726,True,Right Foot,Open Play,1,1,1,Normal
-8.160882305241262,0.057079259139479976,False,Head,Open Play,0,0,3,Normal
-24.358366119261774,0.06836976358875206,False,Left Foot,Free Kick,0,0,0,Normal
-15.802847844613327,0.061869596372458986,False,Head,Open Play,0,0,2,Normal
-17.760912138738817,0.06422088145341008,False,Right Foot,Open Play,0,0,1,Normal
-13.931618714277246,0.06183716404729739,False,Right Foot,Open Play,0,0,3,Normal
-12.808200498118383,0.05493858589879161,False,Right Foot,Open Play,0,0,1,Half Volley
-27.286077035733808,0.07064446484032404,False,Right Foot,Open Play,0,0,0,Normal
-12.539936203984459,0.05688524520773964,True,Right Foot,Open Play,0,0,3,Normal
-28.988618456214844,0.06424568350679644,False,Right Foot,Open Play,0,0,2,Normal
-9.167878707749132,0.055666739995086645,False,Head,Open Play,0,0,5,Normal
-17.608236708995022,0.060048145118157106,False,Left Foot,Open Play,0,0,3,Normal
-26.68276597356428,0.06512913814500323,False,Right Foot,Free Kick,0,0,0,Normal
-6.844705983459043,0.056987831134776304,False,Head,Open Play,0,1,5,Normal
-19.99649969369639,0.06555261627288868,False,Right Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3837818,Hugo Ekitike,Paris Saint-Germain,8.621484790916233,0.05573080170193726,True,Right Foot,Open Play,1,1,1,Normal
+3837818,Sergio Ramos García,Paris Saint-Germain,8.160882305241262,0.057079259139479976,False,Head,Open Play,0,0,3,Normal
+3837818,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,24.358366119261774,0.06836976358875206,False,Left Foot,Free Kick,0,0,0,Normal
+3837818,Himad Abdelli,Angers,15.802847844613327,0.061869596372458986,False,Head,Open Play,0,0,2,Normal
+3837818,Himad Abdelli,Angers,17.760912138738817,0.06422088145341008,False,Right Foot,Open Play,0,0,1,Normal
+3837818,Hugo Ekitike,Paris Saint-Germain,13.931618714277246,0.06183716404729739,False,Right Foot,Open Play,0,0,3,Normal
+3837818,Abdallah Dipo Sima,Angers,12.808200498118383,0.05493858589879161,False,Right Foot,Open Play,0,0,1,Half Volley
+3837818,Farid El Melali,Angers,27.286077035733808,0.07064446484032404,False,Right Foot,Open Play,0,0,0,Normal
+3837818,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,12.539936203984459,0.05688524520773964,True,Right Foot,Open Play,0,0,3,Normal
+3837818,Warren Zaire Emery,Paris Saint-Germain,28.988618456214844,0.06424568350679644,False,Right Foot,Open Play,0,0,2,Normal
+3837818,Nordi Mukiele Mulere,Paris Saint-Germain,9.167878707749132,0.055666739995086645,False,Head,Open Play,0,0,5,Normal
+3837818,Sada Thioub,Angers,17.608236708995022,0.060048145118157106,False,Left Foot,Open Play,0,0,3,Normal
+3837818,Neymar da Silva Santos Junior,Paris Saint-Germain,26.68276597356428,0.06512913814500323,False,Right Foot,Free Kick,0,0,0,Normal
+3837818,Nordi Mukiele Mulere,Paris Saint-Germain,6.844705983459043,0.056987831134776304,False,Head,Open Play,0,1,5,Normal
+3837818,Farid El Melali,Angers,19.99649969369639,0.06555261627288868,False,Right Foot,Open Play,0,1,3,Normal

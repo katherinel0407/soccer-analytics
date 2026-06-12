@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.5081379947219,0.05770194161115111,False,Left Foot,Open Play,0,0,2,Normal
-33.6648184311159,0.0756321640367391,False,Left Foot,Open Play,1,0,0,Half Volley
-35.966234164838546,0.07752645770231348,False,Right Foot,Open Play,0,0,1,Normal
-26.443335644354704,0.06209417294198056,False,Right Foot,Open Play,1,0,1,Normal
-16.783920876839233,0.058223308212024254,False,Right Foot,Open Play,0,0,4,Normal
-23.56374333589635,0.0564852662518974,False,Left Foot,Open Play,1,0,1,Normal
-13.882723075823419,0.05846988779079944,False,Head,Open Play,0,0,2,Normal
-24.0401747081838,0.06742906510616406,False,Right Foot,Free Kick,0,0,0,Normal
-15.839823231336894,0.05514808705610485,False,Right Foot,Open Play,1,0,1,Volley
-39.46770831958704,0.06668272953342154,False,Right Foot,Free Kick,0,0,0,Normal
-16.829735589129143,0.06343477335499437,False,Right Foot,Open Play,1,1,0,Normal
-15.753729717117787,0.06065964692594358,False,Left Foot,Open Play,0,1,2,Half Volley
-20.85976989326584,0.05477063751564884,False,Right Foot,Open Play,1,0,0,Half Volley
-23.217450333746807,0.06774583419351032,False,Right Foot,Open Play,0,1,3,Normal
-35.810892197765746,0.06592646007294305,False,Right Foot,Open Play,0,0,2,Normal
-12.238055401083953,0.05502069136624116,True,Right Foot,Open Play,1,0,0,Half Volley
-24.603251817595176,0.06096687582833813,False,Right Foot,Open Play,0,0,2,Half Volley
-11.002272492535353,0.057032989945566125,False,Right Foot,Open Play,1,0,1,Normal
-29.500169491038523,0.06759936469024783,False,Right Foot,Open Play,0,0,1,Normal
-33.98249549400396,0.0612156994645741,False,Right Foot,Open Play,0,0,2,Normal
-6.946221994724908,0.05645101763377338,False,Right Foot,Open Play,1,1,2,Normal
-7.940403012442132,0.058173615635422796,True,Head,Open Play,0,0,2,Normal
-23.062523712724932,0.054882820762585195,False,Right Foot,Open Play,0,0,1,Half Volley
-25.309681941897253,0.06592886825106171,False,Right Foot,Open Play,0,0,2,Normal
-22.20022522408275,0.06700283317033247,False,Left Foot,Open Play,0,0,1,Normal
-10.261578825892242,0.05460086498236631,False,Left Foot,Open Play,0,0,2,Normal
-29.861346252304163,0.060008061123906324,False,Right Foot,Open Play,0,0,0,Lob
-16.032778923193572,0.05657499924037438,False,Right Foot,Open Play,0,1,4,Normal
-14.564683312726025,0.061476833424955274,False,Left Foot,Open Play,1,0,0,Volley
-27.16486701605587,0.06122385423164499,False,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879577,Piotr Zieliński,Empoli,21.5081379947219,0.05770194161115111,False,Left Foot,Open Play,0,0,2,Normal
+3879577,Mário Rui Silva Duarte,Empoli,33.6648184311159,0.0756321640367391,False,Left Foot,Open Play,1,0,0,Half Volley
+3879577,Diego Perotti,Genoa,35.966234164838546,0.07752645770231348,False,Right Foot,Open Play,0,0,1,Normal
+3879577,Piotr Zieliński,Empoli,26.443335644354704,0.06209417294198056,False,Right Foot,Open Play,1,0,1,Normal
+3879577,Diego Perotti,Genoa,16.783920876839233,0.058223308212024254,False,Right Foot,Open Play,0,0,4,Normal
+3879577,Serge Gakpé,Genoa,23.56374333589635,0.0564852662518974,False,Left Foot,Open Play,1,0,1,Normal
+3879577,Giovanni Marchese,Genoa,13.882723075823419,0.05846988779079944,False,Head,Open Play,0,0,2,Normal
+3879577,Massimo Maccarone,Empoli,24.0401747081838,0.06742906510616406,False,Right Foot,Free Kick,0,0,0,Normal
+3879577,Rade Krunić,Empoli,15.839823231336894,0.05514808705610485,False,Right Foot,Open Play,1,0,1,Volley
+3879577,Leandro Daniel Paredes,Empoli,39.46770831958704,0.06668272953342154,False,Right Foot,Free Kick,0,0,0,Normal
+3879577,Manuel Pucciarelli,Empoli,16.829735589129143,0.06343477335499437,False,Right Foot,Open Play,1,1,0,Normal
+3879577,Diego Perotti,Genoa,15.753729717117787,0.06065964692594358,False,Left Foot,Open Play,0,1,2,Half Volley
+3879577,Tomás Eduardo Rincón Hernández,Genoa,20.85976989326584,0.05477063751564884,False,Right Foot,Open Play,1,0,0,Half Volley
+3879577,Leonardo Pavoletti,Genoa,23.217450333746807,0.06774583419351032,False,Right Foot,Open Play,0,1,3,Normal
+3879577,Leandro Daniel Paredes,Empoli,35.810892197765746,0.06592646007294305,False,Right Foot,Open Play,0,0,2,Normal
+3879577,Rade Krunić,Empoli,12.238055401083953,0.05502069136624116,True,Right Foot,Open Play,1,0,0,Half Volley
+3879577,Serge Gakpé,Genoa,24.603251817595176,0.06096687582833813,False,Right Foot,Open Play,0,0,2,Half Volley
+3879577,Massimo Maccarone,Empoli,11.002272492535353,0.057032989945566125,False,Right Foot,Open Play,1,0,1,Normal
+3879577,Jules Olivier Ntcham,Genoa,29.500169491038523,0.06759936469024783,False,Right Foot,Open Play,0,0,1,Normal
+3879577,Leandro Daniel Paredes,Empoli,33.98249549400396,0.0612156994645741,False,Right Foot,Open Play,0,0,2,Normal
+3879577,Massimo Maccarone,Empoli,6.946221994724908,0.05645101763377338,False,Right Foot,Open Play,1,1,2,Normal
+3879577,Piotr Zieliński,Empoli,7.940403012442132,0.058173615635422796,True,Head,Open Play,0,0,2,Normal
+3879577,Piotr Zieliński,Empoli,23.062523712724932,0.054882820762585195,False,Right Foot,Open Play,0,0,1,Half Volley
+3879577,Jules Olivier Ntcham,Genoa,25.309681941897253,0.06592886825106171,False,Right Foot,Open Play,0,0,2,Normal
+3879577,Diego Sebastián Laxalt Suárez,Genoa,22.20022522408275,0.06700283317033247,False,Left Foot,Open Play,0,0,1,Normal
+3879577,Rade Krunić,Empoli,10.261578825892242,0.05460086498236631,False,Left Foot,Open Play,0,0,2,Normal
+3879577,Raffaele Maiello,Empoli,29.861346252304163,0.060008061123906324,False,Right Foot,Open Play,0,0,0,Lob
+3879577,Serge Gakpé,Genoa,16.032778923193572,0.05657499924037438,False,Right Foot,Open Play,0,1,4,Normal
+3879577,Diego Ángel Capel Trinidad,Genoa,14.564683312726025,0.061476833424955274,False,Left Foot,Open Play,1,0,0,Volley
+3879577,Darko Lazović,Genoa,27.16486701605587,0.06122385423164499,False,Right Foot,Open Play,0,0,2,Half Volley

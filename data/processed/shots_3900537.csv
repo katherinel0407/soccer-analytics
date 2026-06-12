@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.314132102234568,0.05621510965459205,True,Head,Open Play,0,0,6,Normal
-28.56081231337792,0.07119854524273797,False,Right Foot,Open Play,0,0,2,Normal
-31.84493680320312,0.07259308615836008,False,Left Foot,Open Play,0,1,1,Normal
-22.273975846265074,0.06660546038461049,False,Right Foot,Open Play,0,0,2,Normal
-8.62844134244418,0.05842599098156889,False,Head,Open Play,0,1,2,Normal
-30.891584614583955,0.07153840756683554,False,Right Foot,Open Play,0,0,1,Normal
-7.083784299369935,0.05498969372245916,False,Right Foot,Open Play,0,0,3,Normal
-12.445079348883235,0.06100895224986034,False,Left Foot,Open Play,1,0,3,Normal
-18.04716044146558,0.0644353839746544,False,Right Foot,Open Play,1,0,1,Volley
-28.873690446494713,0.07002299001208855,False,Right Foot,Open Play,0,0,1,Normal
-7.778174593052025,0.0581887838489704,False,Head,Open Play,0,1,3,Normal
-19.96246477767713,0.0525005306263814,False,Left Foot,Open Play,0,0,1,Normal
-29.123358322830843,0.06927484601943514,False,Right Foot,Open Play,0,0,1,Normal
-16.606625183943912,0.05576405522796801,True,Right Foot,Open Play,0,1,3,Normal
-32.01405941145233,0.07406640639688468,False,Right Foot,Open Play,0,1,2,Normal
-18.22004390774072,0.056311557743180675,False,Left Foot,Open Play,0,0,3,Normal
-14.094325099131213,0.060428936928301334,False,Left Foot,Open Play,1,0,1,Normal
-12.390722335683261,0.05550940903229429,False,Head,Open Play,0,1,3,Normal
-13.154847015454031,0.05960963625872347,False,Head,Open Play,0,0,1,Normal
-13.061393493804554,0.06142851355737911,False,Left Foot,Open Play,0,0,2,Normal
-15.527073130503382,0.05190445380760041,False,Right Foot,Open Play,0,0,1,Normal
-51.46620250222471,0.06682443661897876,False,Right Foot,Open Play,1,0,0,Lob
-9.718538984847468,0.05843588093047215,False,Head,Open Play,0,1,3,Normal
-23.426694175662085,0.05310881737915241,False,Right Foot,Open Play,1,0,1,Half Volley
-31.60917588296158,0.0726511345565748,False,Right Foot,Open Play,1,0,0,Half Volley
-12.170866854912182,0.06012475104470594,False,Head,Open Play,0,0,1,Normal
-17.949373248110923,0.06437607987930354,True,Right Foot,Open Play,0,0,1,Normal
-22.87116088002531,0.06654805518946014,False,Left Foot,Open Play,0,0,2,Half Volley
-12.296747537458838,0.06108303096739628,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900537,Issa Diop,Toulouse,5.314132102234568,0.05621510965459205,True,Head,Open Play,0,0,6,Normal
+3900537,Mouhamadou Dabo,Troyes,28.56081231337792,0.07119854524273797,False,Right Foot,Open Play,0,0,2,Normal
+3900537,Jessy Pi,Troyes,31.84493680320312,0.07259308615836008,False,Left Foot,Open Play,0,1,1,Normal
+3900537,Martin Braithwaite Christensen,Toulouse,22.273975846265074,0.06660546038461049,False,Right Foot,Open Play,0,0,2,Normal
+3900537,Johan Martial,Troyes,8.62844134244418,0.05842599098156889,False,Head,Open Play,0,1,2,Normal
+3900537,Óscar Guido Trejo,Toulouse,30.891584614583955,0.07153840756683554,False,Right Foot,Open Play,0,0,1,Normal
+3900537,Martin Braithwaite Christensen,Toulouse,7.083784299369935,0.05498969372245916,False,Right Foot,Open Play,0,0,3,Normal
+3900537,Wissam Ben Yedder,Toulouse,12.445079348883235,0.06100895224986034,False,Left Foot,Open Play,1,0,3,Normal
+3900537,Fabien Camus,Troyes,18.04716044146558,0.0644353839746544,False,Right Foot,Open Play,1,0,1,Volley
+3900537,Lossémy Karaboué,Troyes,28.873690446494713,0.07002299001208855,False,Right Foot,Open Play,0,0,1,Normal
+3900537,Thomas Ayasse,Troyes,7.778174593052025,0.0581887838489704,False,Head,Open Play,0,1,3,Normal
+3900537,Stéphane Darbion,Troyes,19.96246477767713,0.0525005306263814,False,Left Foot,Open Play,0,0,1,Normal
+3900537,Thomas Ayasse,Troyes,29.123358322830843,0.06927484601943514,False,Right Foot,Open Play,0,0,1,Normal
+3900537,Jean-Daniel Akpa Akpro,Toulouse,16.606625183943912,0.05576405522796801,True,Right Foot,Open Play,0,1,3,Normal
+3900537,Zinédine Machach,Toulouse,32.01405941145233,0.07406640639688468,False,Right Foot,Open Play,0,1,2,Normal
+3900537,Stéphane Darbion,Troyes,18.22004390774072,0.056311557743180675,False,Left Foot,Open Play,0,0,3,Normal
+3900537,Lossémy Karaboué,Troyes,14.094325099131213,0.060428936928301334,False,Left Foot,Open Play,1,0,1,Normal
+3900537,Benjamin Nivet,Troyes,12.390722335683261,0.05550940903229429,False,Head,Open Play,0,1,3,Normal
+3900537,Benjamin Nivet,Troyes,13.154847015454031,0.05960963625872347,False,Head,Open Play,0,0,1,Normal
+3900537,Wissam Ben Yedder,Toulouse,13.061393493804554,0.06142851355737911,False,Left Foot,Open Play,0,0,2,Normal
+3900537,Óscar Guido Trejo,Toulouse,15.527073130503382,0.05190445380760041,False,Right Foot,Open Play,0,0,1,Normal
+3900537,Óscar Guido Trejo,Toulouse,51.46620250222471,0.06682443661897876,False,Right Foot,Open Play,1,0,0,Lob
+3900537,Matthieu Saunier,Troyes,9.718538984847468,0.05843588093047215,False,Head,Open Play,0,1,3,Normal
+3900537,Jimmy Cabot,Troyes,23.426694175662085,0.05310881737915241,False,Right Foot,Open Play,1,0,1,Half Volley
+3900537,Mouhamadou Dabo,Troyes,31.60917588296158,0.0726511345565748,False,Right Foot,Open Play,1,0,0,Half Volley
+3900537,Jimmy Cabot,Troyes,12.170866854912182,0.06012475104470594,False,Head,Open Play,0,0,1,Normal
+3900537,Aleksandar Pešić,Toulouse,17.949373248110923,0.06437607987930354,True,Right Foot,Open Play,0,0,1,Normal
+3900537,Mouhamadou Dabo,Troyes,22.87116088002531,0.06654805518946014,False,Left Foot,Open Play,0,0,2,Half Volley
+3900537,Henri Bienvenu Ntsama,Troyes,12.296747537458838,0.06108303096739628,False,Head,Open Play,0,1,2,Normal

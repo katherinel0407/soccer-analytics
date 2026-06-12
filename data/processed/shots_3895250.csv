@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.771388153997638,0.07060186755076105,True,Left Foot,Open Play,1,0,0,Normal
-9.313431161500038,0.058646082873496666,True,Head,Open Play,0,0,3,Normal
-33.01893396219812,0.07106271722880282,False,Right Foot,Open Play,0,0,1,Normal
-27.542875666858023,0.057134406481767874,False,Right Foot,Open Play,1,0,0,Half Volley
-25.2253840406841,0.06196478470409779,False,Right Foot,Open Play,1,0,2,Half Volley
-12.924782396620845,0.05319492519655773,False,Right Foot,Open Play,1,0,1,Normal
-25.497450852977444,0.06857528854300327,False,Left Foot,Open Play,1,0,0,Normal
-11.795761950802502,0.05892642362805568,False,Left Foot,Open Play,1,0,1,Volley
-22.18400324558217,0.06704284128785462,False,Left Foot,Open Play,0,0,2,Normal
-7.269112738154502,0.05795415787286488,False,Head,Open Play,0,1,5,Normal
-19.500000000000004,0.06051226351227032,False,Right Foot,Open Play,1,0,0,Normal
-20.09601950635996,0.06540210093253906,False,Right Foot,Open Play,0,0,1,Normal
-20.036965838170207,0.06564355055137557,False,Left Foot,Open Play,0,0,2,Normal
-22.703523955544878,0.06674298421492067,False,Right Foot,Open Play,0,0,1,Normal
-11.720068259186887,0.05437920794872215,False,Right Foot,Open Play,1,0,2,Normal
-12.20040982918197,0.06101899056690996,False,Head,Open Play,0,0,0,Normal
-28.478764018124103,0.0640881011907128,False,Left Foot,Free Kick,0,0,0,Normal
-33.11027030998086,0.07426626759232643,False,Right Foot,Open Play,0,0,1,Normal
-6.95701085237043,0.05808434465116962,False,Head,Open Play,0,1,2,Normal
-8.713208364316783,0.054268175419606095,False,Right Foot,Open Play,1,0,2,Volley
-21.2513528981098,0.065698321970578,False,Right Foot,Open Play,0,0,1,Normal
-19.136614120580468,0.0642932541009407,False,Left Foot,Open Play,1,0,1,Normal
-10.307764064044152,0.05973082868845702,False,Head,Open Play,0,1,4,Normal
-22.89650628371062,0.06756967214854545,False,Right Foot,Open Play,0,0,3,Normal
-21.617122842783683,0.05896049748202846,False,Right Foot,Open Play,0,0,2,Half Volley
-34.9521100936696,0.07604245582121222,True,Right Foot,Open Play,0,0,0,Normal
-24.365549449991885,0.06849020685984845,False,Left Foot,Open Play,0,0,1,Normal
-22.6497240601293,0.06717376668511452,False,Left Foot,Open Play,1,0,1,Half Volley
-23.632604596192948,0.0658898255762013,False,Right Foot,Open Play,1,0,3,Normal
-27.24151243965723,0.0695297917816814,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895250,Granit Xhaka,Bayer Leverkusen,27.771388153997638,0.07060186755076105,True,Left Foot,Open Play,1,0,0,Normal
+3895250,Dominik Kohr,FSV Mainz 05,9.313431161500038,0.058646082873496666,True,Head,Open Play,0,0,3,Normal
+3895250,Karim Onisiwo,FSV Mainz 05,33.01893396219812,0.07106271722880282,False,Right Foot,Open Play,0,0,1,Normal
+3895250,Leandro Barreiro Martins,FSV Mainz 05,27.542875666858023,0.057134406481767874,False,Right Foot,Open Play,1,0,0,Half Volley
+3895250,Anthony Caci,FSV Mainz 05,25.2253840406841,0.06196478470409779,False,Right Foot,Open Play,1,0,2,Half Volley
+3895250,Jonas Hofmann,Bayer Leverkusen,12.924782396620845,0.05319492519655773,False,Right Foot,Open Play,1,0,1,Normal
+3895250,Granit Xhaka,Bayer Leverkusen,25.497450852977444,0.06857528854300327,False,Left Foot,Open Play,1,0,0,Normal
+3895250,Jeremie Frimpong,Bayer Leverkusen,11.795761950802502,0.05892642362805568,False,Left Foot,Open Play,1,0,1,Volley
+3895250,Nadiem Amiri,FSV Mainz 05,22.18400324558217,0.06704284128785462,False,Left Foot,Open Play,0,0,2,Normal
+3895250,Dominik Kohr,FSV Mainz 05,7.269112738154502,0.05795415787286488,False,Head,Open Play,0,1,5,Normal
+3895250,Jonas Hofmann,Bayer Leverkusen,19.500000000000004,0.06051226351227032,False,Right Foot,Open Play,1,0,0,Normal
+3895250,Edmond Fayçal Tapsoba,Bayer Leverkusen,20.09601950635996,0.06540210093253906,False,Right Foot,Open Play,0,0,1,Normal
+3895250,Alejandro Grimaldo García,Bayer Leverkusen,20.036965838170207,0.06564355055137557,False,Left Foot,Open Play,0,0,2,Normal
+3895250,Jonas Hofmann,Bayer Leverkusen,22.703523955544878,0.06674298421492067,False,Right Foot,Open Play,0,0,1,Normal
+3895250,Jonas Hofmann,Bayer Leverkusen,11.720068259186887,0.05437920794872215,False,Right Foot,Open Play,1,0,2,Normal
+3895250,Florian Wirtz,Bayer Leverkusen,12.20040982918197,0.06101899056690996,False,Head,Open Play,0,0,0,Normal
+3895250,Alejandro Grimaldo García,Bayer Leverkusen,28.478764018124103,0.0640881011907128,False,Left Foot,Free Kick,0,0,0,Normal
+3895250,Edmond Fayçal Tapsoba,Bayer Leverkusen,33.11027030998086,0.07426626759232643,False,Right Foot,Open Play,0,0,1,Normal
+3895250,Philipp Mwene,FSV Mainz 05,6.95701085237043,0.05808434465116962,False,Head,Open Play,0,1,2,Normal
+3895250,Leandro Barreiro Martins,FSV Mainz 05,8.713208364316783,0.054268175419606095,False,Right Foot,Open Play,1,0,2,Volley
+3895250,Florian Wirtz,Bayer Leverkusen,21.2513528981098,0.065698321970578,False,Right Foot,Open Play,0,0,1,Normal
+3895250,Jae-Sung Lee,FSV Mainz 05,19.136614120580468,0.0642932541009407,False,Left Foot,Open Play,1,0,1,Normal
+3895250,Amine Adli,Bayer Leverkusen,10.307764064044152,0.05973082868845702,False,Head,Open Play,0,1,4,Normal
+3895250,Florian Wirtz,Bayer Leverkusen,22.89650628371062,0.06756967214854545,False,Right Foot,Open Play,0,0,3,Normal
+3895250,Jessic Ngankam,FSV Mainz 05,21.617122842783683,0.05896049748202846,False,Right Foot,Open Play,0,0,2,Half Volley
+3895250,Robert Andrich,Bayer Leverkusen,34.9521100936696,0.07604245582121222,True,Right Foot,Open Play,0,0,0,Normal
+3895250,Alejandro Grimaldo García,Bayer Leverkusen,24.365549449991885,0.06849020685984845,False,Left Foot,Open Play,0,0,1,Normal
+3895250,Tom Krauß,FSV Mainz 05,22.6497240601293,0.06717376668511452,False,Left Foot,Open Play,1,0,1,Half Volley
+3895250,Tom Krauß,FSV Mainz 05,23.632604596192948,0.0658898255762013,False,Right Foot,Open Play,1,0,3,Normal
+3895250,Jae-Sung Lee,FSV Mainz 05,27.24151243965723,0.0695297917816814,False,Left Foot,Open Play,0,1,2,Normal

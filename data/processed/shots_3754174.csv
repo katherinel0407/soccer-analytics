@@ -1,43 +1,43 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.649232061783993,0.06237003619376037,False,Left Foot,Open Play,1,0,2,Half Volley
-16.32329623574846,0.058437375309484875,False,Right Foot,Open Play,1,0,0,Half Volley
-24.40758078958257,0.06771097775733709,False,Left Foot,Open Play,0,0,2,Normal
-18.61182419861095,0.06351759910556952,False,Left Foot,Open Play,0,0,3,Normal
-15.610893632332521,0.06138249848171603,True,Right Foot,Open Play,0,0,1,Normal
-28.2398654387729,0.06619848828967971,False,Left Foot,Open Play,0,0,2,Normal
-10.911003620199196,0.05891973629797192,False,Left Foot,Open Play,1,0,2,Normal
-24.158021442162852,0.06737398733819014,False,Right Foot,Open Play,0,0,1,Normal
-23.05319934412576,0.05670008293020371,False,Left Foot,Open Play,0,1,2,Normal
-5.141984052872977,0.05640248509760188,False,Head,Open Play,0,1,3,Normal
-14.24254190796011,0.06208869556968303,True,Left Foot,Open Play,0,0,2,Normal
-16.66763330530162,0.060961684730540915,False,Right Foot,Open Play,0,0,3,Normal
-6.640030120413609,0.05808416979038177,True,Right Foot,Open Play,1,0,0,Normal
-26.491508073343045,0.053305548654916254,False,Right Foot,Open Play,0,0,2,Normal
-23.522754940695183,0.06784273283125457,False,Right Foot,Open Play,0,1,1,Normal
-25.52645686341918,0.06917202743917136,False,Left Foot,Open Play,0,0,1,Normal
-9.765244492586962,0.059710337041258,False,Right Foot,Open Play,0,0,3,Normal
-16.465721970202214,0.0557710623112456,False,Right Foot,Open Play,0,0,1,Normal
-13.28495389529072,0.05953842230202092,False,Right Foot,Open Play,0,1,3,Normal
-11.401754250991383,0.05937054177663888,False,Head,Open Play,0,0,1,Normal
-23.889118861942148,0.06817967855121633,False,Left Foot,Open Play,0,0,2,Normal
-5.622277118748233,0.05716027919627257,True,Head,Open Play,0,0,2,Normal
-17.87652091431664,0.060211404658739406,False,Right Foot,Open Play,1,0,1,Normal
-26.174797038372624,0.06956372056848839,False,Right Foot,Open Play,0,0,3,Normal
-15.04160895649132,0.06264978813067588,False,Left Foot,Open Play,0,0,2,Normal
-18.069310999592652,0.060081032359817654,False,Right Foot,Open Play,1,0,1,Half Volley
-16.523922052587878,0.06347050676646632,False,Right Foot,Open Play,0,0,3,Normal
-31.42817207538485,0.07266382894720019,False,Right Foot,Open Play,0,0,0,Normal
-31.785531299633796,0.06319904116285947,False,Right Foot,Open Play,0,0,0,Normal
-19.01183841715472,0.05841131633083654,False,Right Foot,Open Play,0,0,2,Normal
-25.235689013775712,0.05834822189903768,False,Right Foot,Open Play,0,0,1,Normal
-14.080127840328723,0.058702816314711144,False,Right Foot,Open Play,0,0,3,Normal
-18.86054081939327,0.056772895365661755,False,Right Foot,Open Play,1,0,1,Normal
-29.618406439239774,0.07203101507082998,True,Right Foot,Open Play,0,0,0,Normal
-12.06150902665168,0.06065449939769298,False,Left Foot,Open Play,0,0,2,Normal
-18.031361568112377,0.06315312532635776,False,Left Foot,Open Play,0,0,0,Normal
-7.7155686763841365,0.05852520398643906,False,Head,Open Play,0,1,3,Normal
-16.776471619503308,0.054639060433278694,False,Right Foot,Open Play,1,0,0,Half Volley
-7.605918747922571,0.05855113339024859,False,Right Foot,Open Play,1,0,2,Volley
-16.34441800738099,0.06257320266200114,True,Right Foot,Open Play,0,0,0,Normal
-16.933103672983286,0.06327723796716818,False,Left Foot,Open Play,0,0,1,Normal
-12.016655108639846,0.0606505807227264,True,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754174,Aaron Ramsey,Arsenal,14.649232061783993,0.06237003619376037,False,Left Foot,Open Play,1,0,2,Half Volley
+3754174,Santiago Cazorla González,Arsenal,16.32329623574846,0.058437375309484875,False,Right Foot,Open Play,1,0,0,Half Volley
+3754174,Jeffrey Schlupp,Leicester City,24.40758078958257,0.06771097775733709,False,Left Foot,Open Play,0,0,2,Normal
+3754174,Jamie Vardy,Leicester City,18.61182419861095,0.06351759910556952,False,Left Foot,Open Play,0,0,3,Normal
+3754174,Jamie Vardy,Leicester City,15.610893632332521,0.06138249848171603,True,Right Foot,Open Play,0,0,1,Normal
+3754174,Riyad Mahrez,Leicester City,28.2398654387729,0.06619848828967971,False,Left Foot,Open Play,0,0,2,Normal
+3754174,Theo Walcott,Arsenal,10.911003620199196,0.05891973629797192,False,Left Foot,Open Play,1,0,2,Normal
+3754174,Santiago Cazorla González,Arsenal,24.158021442162852,0.06737398733819014,False,Right Foot,Open Play,0,0,1,Normal
+3754174,Jamie Vardy,Leicester City,23.05319934412576,0.05670008293020371,False,Left Foot,Open Play,0,1,2,Normal
+3754174,Jamie Vardy,Leicester City,5.141984052872977,0.05640248509760188,False,Head,Open Play,0,1,3,Normal
+3754174,Theo Walcott,Arsenal,14.24254190796011,0.06208869556968303,True,Left Foot,Open Play,0,0,2,Normal
+3754174,Santiago Cazorla González,Arsenal,16.66763330530162,0.060961684730540915,False,Right Foot,Open Play,0,0,3,Normal
+3754174,Alexis Alejandro Sánchez Sánchez,Arsenal,6.640030120413609,0.05808416979038177,True,Right Foot,Open Play,1,0,0,Normal
+3754174,Santiago Cazorla González,Arsenal,26.491508073343045,0.053305548654916254,False,Right Foot,Open Play,0,0,2,Normal
+3754174,Theo Walcott,Arsenal,23.522754940695183,0.06784273283125457,False,Right Foot,Open Play,0,1,1,Normal
+3754174,Riyad Mahrez,Leicester City,25.52645686341918,0.06917202743917136,False,Left Foot,Open Play,0,0,1,Normal
+3754174,Alexis Alejandro Sánchez Sánchez,Arsenal,9.765244492586962,0.059710337041258,False,Right Foot,Open Play,0,0,3,Normal
+3754174,Alexis Alejandro Sánchez Sánchez,Arsenal,16.465721970202214,0.0557710623112456,False,Right Foot,Open Play,0,0,1,Normal
+3754174,Theo Walcott,Arsenal,13.28495389529072,0.05953842230202092,False,Right Foot,Open Play,0,1,3,Normal
+3754174,Alexis Alejandro Sánchez Sánchez,Arsenal,11.401754250991383,0.05937054177663888,False,Head,Open Play,0,0,1,Normal
+3754174,Jeffrey Schlupp,Leicester City,23.889118861942148,0.06817967855121633,False,Left Foot,Open Play,0,0,2,Normal
+3754174,Alexis Alejandro Sánchez Sánchez,Arsenal,5.622277118748233,0.05716027919627257,True,Head,Open Play,0,0,2,Normal
+3754174,Theo Walcott,Arsenal,17.87652091431664,0.060211404658739406,False,Right Foot,Open Play,1,0,1,Normal
+3754174,Theo Walcott,Arsenal,26.174797038372624,0.06956372056848839,False,Right Foot,Open Play,0,0,3,Normal
+3754174,Mesut Özil,Arsenal,15.04160895649132,0.06264978813067588,False,Left Foot,Open Play,0,0,2,Normal
+3754174,Andrew Philip King,Leicester City,18.069310999592652,0.060081032359817654,False,Right Foot,Open Play,1,0,1,Half Volley
+3754174,Theo Walcott,Arsenal,16.523922052587878,0.06347050676646632,False,Right Foot,Open Play,0,0,3,Normal
+3754174,N''Golo Kanté,Leicester City,31.42817207538485,0.07266382894720019,False,Right Foot,Open Play,0,0,0,Normal
+3754174,Santiago Cazorla González,Arsenal,31.785531299633796,0.06319904116285947,False,Right Foot,Open Play,0,0,0,Normal
+3754174,Aaron Ramsey,Arsenal,19.01183841715472,0.05841131633083654,False,Right Foot,Open Play,0,0,2,Normal
+3754174,Aaron Ramsey,Arsenal,25.235689013775712,0.05834822189903768,False,Right Foot,Open Play,0,0,1,Normal
+3754174,Theo Walcott,Arsenal,14.080127840328723,0.058702816314711144,False,Right Foot,Open Play,0,0,3,Normal
+3754174,Mesut Özil,Arsenal,18.86054081939327,0.056772895365661755,False,Right Foot,Open Play,1,0,1,Normal
+3754174,Alexis Alejandro Sánchez Sánchez,Arsenal,29.618406439239774,0.07203101507082998,True,Right Foot,Open Play,0,0,0,Normal
+3754174,Jamie Vardy,Leicester City,12.06150902665168,0.06065449939769298,False,Left Foot,Open Play,0,0,2,Normal
+3754174,Riyad Mahrez,Leicester City,18.031361568112377,0.06315312532635776,False,Left Foot,Open Play,0,0,0,Normal
+3754174,Wes Morgan,Leicester City,7.7155686763841365,0.05852520398643906,False,Head,Open Play,0,1,3,Normal
+3754174,Riyad Mahrez,Leicester City,16.776471619503308,0.054639060433278694,False,Right Foot,Open Play,1,0,0,Half Volley
+3754174,Andrej Kramarić,Leicester City,7.605918747922571,0.05855113339024859,False,Right Foot,Open Play,1,0,2,Volley
+3754174,Jamie Vardy,Leicester City,16.34441800738099,0.06257320266200114,True,Right Foot,Open Play,0,0,0,Normal
+3754174,Mesut Özil,Arsenal,16.933103672983286,0.06327723796716818,False,Left Foot,Open Play,0,0,1,Normal
+3754174,Olivier Giroud,Arsenal,12.016655108639846,0.0606505807227264,True,Left Foot,Open Play,1,0,2,Normal

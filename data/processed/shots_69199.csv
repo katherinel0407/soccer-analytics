@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.253888216967509,0.0581369625062893,True,Right Foot,Open Play,1,0,0,Normal
-32.91337114304762,0.0660309543275016,False,Right Foot,Open Play,0,0,2,Normal
-13.260844618650804,0.05377145433287869,False,Left Foot,Open Play,0,0,1,Normal
-22.11085706163377,0.0666210097088039,False,Right Foot,Open Play,0,0,2,Normal
-13.591173606425608,0.05379364693924565,False,Right Foot,Open Play,1,0,1,Half Volley
-23.74384130674731,0.06708599364632063,False,Left Foot,Open Play,0,0,0,Normal
-19.20937271229855,0.06247207294915151,False,Left Foot,Open Play,0,0,1,Normal
-11.090987332063813,0.05356104432171077,False,Head,Open Play,0,0,1,Normal
-5.47813836992093,0.05618968219567843,True,Right Foot,Open Play,1,0,2,Normal
-6.135144660071184,0.053904925199093755,False,Right Foot,Open Play,1,0,2,Volley
-22.284748147555984,0.05653698772651324,False,Left Foot,Open Play,0,0,2,Normal
-27.832534918688236,0.059599540809656175,False,Right Foot,Open Play,0,0,1,Normal
-20.619650821485806,0.06064362091913439,True,Right Foot,Open Play,1,0,1,Normal
-22.03837562072123,0.05214804011026372,False,Right Foot,Open Play,0,0,1,Normal
-15.142654985173504,0.05118680557918758,False,Right Foot,Open Play,0,0,2,Normal
-15.30816775450282,0.06080408671408358,False,Right Foot,Open Play,0,1,2,Normal
-18.409780009549266,0.05973389791529815,False,Right Foot,Open Play,0,0,2,Normal
-12.757742747053651,0.058846006533109486,False,Right Foot,Open Play,0,0,1,Normal
-5.787054518492114,0.05392937030182921,False,Right Foot,Open Play,1,0,4,Volley
-17.893294833540303,0.05478355805739752,False,Right Foot,Open Play,1,0,1,Normal
-16.263455967290586,0.060426044182501935,False,Left Foot,Open Play,0,0,2,Normal
-23.624140195994432,0.06728433551846255,False,Right Foot,Open Play,0,0,1,Normal
-32.512151574449824,0.0626347811126658,False,Right Foot,Open Play,0,0,1,Normal
-13.700000000000003,0.06030999559731551,False,Right Foot,Open Play,0,0,2,Backheel
-12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
-17.149344010777796,0.05208479431872157,False,Right Foot,Open Play,1,0,0,Normal
-19.557607215607952,0.054204331931673205,False,Right Foot,Open Play,0,0,1,Normal
-17.682194433949643,0.05992118204138485,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69199,Jill Scott,England Women's,11.253888216967509,0.0581369625062893,True,Right Foot,Open Play,1,0,0,Normal
+69199,Karina Sævik,Norway Women's,32.91337114304762,0.0660309543275016,False,Right Foot,Open Play,0,0,2,Normal
+69199,Nikita Parris,England Women's,13.260844618650804,0.05377145433287869,False,Left Foot,Open Play,0,0,1,Normal
+69199,Caroline Graham Hansen,Norway Women's,22.11085706163377,0.0666210097088039,False,Right Foot,Open Play,0,0,2,Normal
+69199,Ellen White,England Women's,13.591173606425608,0.05379364693924565,False,Right Foot,Open Play,1,0,1,Half Volley
+69199,Francesca Kirby,England Women's,23.74384130674731,0.06708599364632063,False,Left Foot,Open Play,0,0,0,Normal
+69199,Guro Reiten,Norway Women's,19.20937271229855,0.06247207294915151,False,Left Foot,Open Play,0,0,1,Normal
+69199,Nikita Parris,England Women's,11.090987332063813,0.05356104432171077,False,Head,Open Play,0,0,1,Normal
+69199,Ellen White,England Women's,5.47813836992093,0.05618968219567843,True,Right Foot,Open Play,1,0,2,Normal
+69199,Jill Scott,England Women's,6.135144660071184,0.053904925199093755,False,Right Foot,Open Play,1,0,2,Volley
+69199,Isabell Herlovsen,Norway Women's,22.284748147555984,0.05653698772651324,False,Left Foot,Open Play,0,0,2,Normal
+69199,Lucy Bronze,England Women's,27.832534918688236,0.059599540809656175,False,Right Foot,Open Play,0,0,1,Normal
+69199,Lucy Bronze,England Women's,20.619650821485806,0.06064362091913439,True,Right Foot,Open Play,1,0,1,Normal
+69199,Jill Scott,England Women's,22.03837562072123,0.05214804011026372,False,Right Foot,Open Play,0,0,1,Normal
+69199,Nikita Parris,England Women's,15.142654985173504,0.05118680557918758,False,Right Foot,Open Play,0,0,2,Normal
+69199,Isabell Herlovsen,Norway Women's,15.30816775450282,0.06080408671408358,False,Right Foot,Open Play,0,1,2,Normal
+69199,Ellen White,England Women's,18.409780009549266,0.05973389791529815,False,Right Foot,Open Play,0,0,2,Normal
+69199,Lisa-Marie Utland,Norway Women's,12.757742747053651,0.058846006533109486,False,Right Foot,Open Play,0,0,1,Normal
+69199,Lisa-Marie Utland,Norway Women's,5.787054518492114,0.05392937030182921,False,Right Foot,Open Play,1,0,4,Volley
+69199,Lisa-Marie Utland,Norway Women's,17.893294833540303,0.05478355805739752,False,Right Foot,Open Play,1,0,1,Normal
+69199,Isabell Herlovsen,Norway Women's,16.263455967290586,0.060426044182501935,False,Left Foot,Open Play,0,0,2,Normal
+69199,Bethany Mead,England Women's,23.624140195994432,0.06728433551846255,False,Right Foot,Open Play,0,0,1,Normal
+69199,Ingrid Syrstad Engen,Norway Women's,32.512151574449824,0.0626347811126658,False,Right Foot,Open Play,0,0,1,Normal
+69199,Lisa-Marie Utland,Norway Women's,13.700000000000003,0.06030999559731551,False,Right Foot,Open Play,0,0,2,Backheel
+69199,Nikita Parris,England Women's,12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
+69199,Synne Skinnes Hansen,Norway Women's,17.149344010777796,0.05208479431872157,False,Right Foot,Open Play,1,0,0,Normal
+69199,Georgia Stanway,England Women's,19.557607215607952,0.054204331931673205,False,Right Foot,Open Play,0,0,1,Normal
+69199,Georgia Stanway,England Women's,17.682194433949643,0.05992118204138485,False,Right Foot,Open Play,0,0,0,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.884331034521258,0.056840098785951226,False,Head,Open Play,0,1,6,Normal
-21.823381956058043,0.0666296702840222,False,Right Foot,Free Kick,0,0,0,Normal
-29.567718883945037,0.06654176155441123,False,Left Foot,Open Play,0,0,2,Normal
-15.749285698088027,0.06257961954919157,False,Left Foot,Open Play,0,0,1,Normal
-6.2201286160335965,0.05770197318670985,False,Head,Open Play,0,1,5,Normal
-13.461797799699706,0.05889191423686478,True,Right Foot,Open Play,0,1,1,Overhead Kick
-10.890362712049582,0.05957658951909537,False,Head,Open Play,0,0,2,Normal
-17.86197077592503,0.057579059743742084,True,Right Foot,Open Play,0,0,2,Normal
-21.146394491733098,0.056016358650293044,False,Left Foot,Open Play,0,0,3,Normal
-38.147345910298924,0.07882349897265205,False,Right Foot,Open Play,0,0,1,Normal
-20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,1,0,1,Normal
-10.840664186294127,0.056632999707652454,False,Head,Open Play,0,1,2,Normal
-10.904127658827177,0.060255288756628576,False,Head,Open Play,0,0,1,Normal
-4.875448697299568,0.055897999921332715,True,Left Foot,Open Play,0,0,3,Half Volley
-45.80884194126719,0.07720555455689276,False,Left Foot,Open Play,0,0,1,Normal
-14.356183336806483,0.05757830096369233,False,Right Foot,Open Play,0,1,1,Normal
-25.11613027518371,0.06504084073285894,False,Right Foot,Open Play,1,0,1,Volley
-16.070469812671938,0.05593728615896871,False,Right Foot,Open Play,0,0,1,Normal
-30.27606315226602,0.07169091330105999,False,Right Foot,Open Play,0,0,0,Normal
-8.200609733428363,0.05888095708844709,False,Head,Open Play,0,0,6,Normal
-23.800840321299578,0.06476868179645463,False,Right Foot,Open Play,0,0,0,Normal
-23.90020920410531,0.06758336289562744,False,Left Foot,Open Play,1,0,2,Normal
-26.920809794655135,0.06086395275030588,False,Right Foot,Open Play,0,0,2,Normal
-3.744329045369809,0.05653678989891009,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69208,Alexandra Popp,Germany Women's,9.884331034521258,0.056840098785951226,False,Head,Open Play,0,1,6,Normal
+69208,Lina Magull,Germany Women's,21.823381956058043,0.0666296702840222,False,Right Foot,Free Kick,0,0,0,Normal
+69208,Sara Däbritz,Germany Women's,29.567718883945037,0.06654176155441123,False,Left Foot,Open Play,0,0,2,Normal
+69208,Eva Sofia Jakobsson,Sweden Women's,15.749285698088027,0.06257961954919157,False,Left Foot,Open Play,0,0,1,Normal
+69208,Magdalena Lilly Eriksson,Sweden Women's,6.2201286160335965,0.05770197318670985,False,Head,Open Play,0,1,5,Normal
+69208,Lina Magull,Germany Women's,13.461797799699706,0.05889191423686478,True,Right Foot,Open Play,0,1,1,Overhead Kick
+69208,Lea Schüller,Germany Women's,10.890362712049582,0.05957658951909537,False,Head,Open Play,0,0,2,Normal
+69208,Eva Sofia Jakobsson,Sweden Women's,17.86197077592503,0.057579059743742084,True,Right Foot,Open Play,0,0,2,Normal
+69208,Linda Dallmann,Germany Women's,21.146394491733098,0.056016358650293044,False,Left Foot,Open Play,0,0,3,Normal
+69208,Linda Brigitta Sembrant,Sweden Women's,38.147345910298924,0.07882349897265205,False,Right Foot,Open Play,0,0,1,Normal
+69208,Emma Stina Blackstenius,Sweden Women's,20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,1,0,1,Normal
+69208,Fridolina Rolfö,Sweden Women's,10.840664186294127,0.056632999707652454,False,Head,Open Play,0,1,2,Normal
+69208,Fridolina Rolfö,Sweden Women's,10.904127658827177,0.060255288756628576,False,Head,Open Play,0,0,1,Normal
+69208,Emma Stina Blackstenius,Sweden Women's,4.875448697299568,0.055897999921332715,True,Left Foot,Open Play,0,0,3,Half Volley
+69208,Sara Däbritz,Germany Women's,45.80884194126719,0.07720555455689276,False,Left Foot,Open Play,0,0,1,Normal
+69208,Emma Stina Blackstenius,Sweden Women's,14.356183336806483,0.05757830096369233,False,Right Foot,Open Play,0,1,1,Normal
+69208,Giulia Gwinn,Germany Women's,25.11613027518371,0.06504084073285894,False,Right Foot,Open Play,1,0,1,Volley
+69208,Eva Sofia Jakobsson,Sweden Women's,16.070469812671938,0.05593728615896871,False,Right Foot,Open Play,0,0,1,Normal
+69208,Alexandra Popp,Germany Women's,30.27606315226602,0.07169091330105999,False,Right Foot,Open Play,0,0,0,Normal
+69208,Lena Oberdorf,Germany Women's,8.200609733428363,0.05888095708844709,False,Head,Open Play,0,0,6,Normal
+69208,Emma Stina Blackstenius,Sweden Women's,23.800840321299578,0.06476868179645463,False,Right Foot,Open Play,0,0,0,Normal
+69208,Sara Däbritz,Germany Women's,23.90020920410531,0.06758336289562744,False,Left Foot,Open Play,1,0,2,Normal
+69208,Svenja Huth,Germany Women's,26.920809794655135,0.06086395275030588,False,Right Foot,Open Play,0,0,2,Normal
+69208,Marina Hegering,Germany Women's,3.744329045369809,0.05653678989891009,False,Head,Open Play,0,1,2,Normal

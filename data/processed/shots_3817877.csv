@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.90083680543424,0.06005655976762288,False,Left Foot,Open Play,0,0,0,Normal
-35.47393409251362,0.0677435624389809,False,Left Foot,Open Play,0,0,0,Normal
-10.670520137275409,0.05961888741069599,False,Head,Open Play,0,1,1,Normal
-17.530829986055995,0.057994195641954446,False,Head,Open Play,0,0,2,Normal
-24.40737593433592,0.06544030233811217,False,Right Foot,Open Play,0,0,2,Normal
-7.119691004531025,0.05713594432180708,False,Head,Open Play,0,1,2,Normal
-17.93014221917941,0.055578923501677834,False,Right Foot,Open Play,0,0,1,Normal
-35.67211796347393,0.051650213940854166,False,Right Foot,Free Kick,0,0,0,Normal
-25.59882809817668,0.0636164936294026,False,Right Foot,Open Play,1,0,1,Normal
-31.633684578309875,0.07191588101719303,False,Left Foot,Open Play,1,0,0,Volley
-14.1718029904455,0.05959967512295377,False,Right Foot,Open Play,1,0,2,Normal
-28.537869577107543,0.06360526110521979,False,Right Foot,Open Play,1,0,1,Normal
-33.64669374544846,0.06241620115596119,False,Right Foot,Open Play,0,0,1,Normal
-23.592583580438998,0.05805399461618025,False,Right Foot,Open Play,0,0,2,Normal
-8.50235261559999,0.058220649367342135,False,Head,Open Play,0,0,2,Normal
-22.67906523646863,0.0673062087920555,False,Right Foot,Open Play,0,1,3,Normal
-24.224987100099767,0.06452163383144209,False,Left Foot,Open Play,1,0,1,Half Volley
-9.765244492586962,0.05605633705560286,False,Right Foot,Open Play,0,0,3,Normal
-16.21110730332755,0.06326804454040956,False,Head,Open Play,0,1,1,Normal
-11.053506231056277,0.05556182698149897,False,Right Foot,Open Play,1,0,1,Normal
-4.949747468305833,0.05720526494579369,True,Right Foot,Open Play,1,0,3,Volley
-26.761913235043558,0.06944242454345616,False,Right Foot,Open Play,1,0,0,Normal
-15.226949793047849,0.06220449527114255,False,Left Foot,Open Play,0,0,1,Half Volley
-11.713667231059622,0.056596579587161744,True,Head,Open Play,0,1,2,Normal
-15.255490814785343,0.061848103062638625,False,Left Foot,Open Play,0,0,3,Normal
-2.6400757564888138,0.05520390781321065,True,Right Foot,Open Play,1,0,1,Half Volley
-32.01890066819909,0.06827721698250494,False,Right Foot,Free Kick,0,0,0,Normal
-22.240728405337812,0.06705315061101706,False,Right Foot,Open Play,1,0,2,Half Volley
-12.56065284927499,0.05571994962608871,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817877,Suresh Singh Wangjam,Bengaluru,23.90083680543424,0.06005655976762288,False,Left Foot,Open Play,0,0,0,Normal
+3817877,Bruno Edgar Silva Almeida,Bengaluru,35.47393409251362,0.0677435624389809,False,Left Foot,Open Play,0,0,0,Normal
+3817877,Sunil Chhetri,Bengaluru,10.670520137275409,0.05961888741069599,False,Head,Open Play,0,1,1,Normal
+3817877,Suhair Vadakkepeedika,NorthEast United,17.530829986055995,0.057994195641954446,False,Head,Open Play,0,0,2,Normal
+3817877,Sunil Chhetri,Bengaluru,24.40737593433592,0.06544030233811217,False,Right Foot,Open Play,0,0,2,Normal
+3817877,Imran Khan,NorthEast United,7.119691004531025,0.05713594432180708,False,Head,Open Play,0,1,2,Normal
+3817877,Deshorn Brown,NorthEast United,17.93014221917941,0.055578923501677834,False,Right Foot,Open Play,0,0,1,Normal
+3817877,Cleiton Augusto Oliveira Silva,Bengaluru,35.67211796347393,0.051650213940854166,False,Right Foot,Free Kick,0,0,0,Normal
+3817877,Hernán Daniel Santana Trujillo,NorthEast United,25.59882809817668,0.0636164936294026,False,Right Foot,Open Play,1,0,1,Normal
+3817877,Hernán Daniel Santana Trujillo,NorthEast United,31.633684578309875,0.07191588101719303,False,Left Foot,Open Play,1,0,0,Volley
+3817877,Cleiton Augusto Oliveira Silva,Bengaluru,14.1718029904455,0.05959967512295377,False,Right Foot,Open Play,1,0,2,Normal
+3817877,Hernán Daniel Santana Trujillo,NorthEast United,28.537869577107543,0.06360526110521979,False,Right Foot,Open Play,1,0,1,Normal
+3817877,Hernán Daniel Santana Trujillo,NorthEast United,33.64669374544846,0.06241620115596119,False,Right Foot,Open Play,0,0,1,Normal
+3817877,Namgyal Bhutia,Bengaluru,23.592583580438998,0.05805399461618025,False,Right Foot,Open Play,0,0,2,Normal
+3817877,Suhair Vadakkepeedika,NorthEast United,8.50235261559999,0.058220649367342135,False,Head,Open Play,0,0,2,Normal
+3817877,Cleiton Augusto Oliveira Silva,Bengaluru,22.67906523646863,0.0673062087920555,False,Right Foot,Open Play,0,1,3,Normal
+3817877,Bruno Edgar Silva Almeida,Bengaluru,24.224987100099767,0.06452163383144209,False,Left Foot,Open Play,1,0,1,Half Volley
+3817877,Sunil Chhetri,Bengaluru,9.765244492586962,0.05605633705560286,False,Right Foot,Open Play,0,0,3,Normal
+3817877,Sunil Chhetri,Bengaluru,16.21110730332755,0.06326804454040956,False,Head,Open Play,0,1,1,Normal
+3817877,Suhair Vadakkepeedika,NorthEast United,11.053506231056277,0.05556182698149897,False,Right Foot,Open Play,1,0,1,Normal
+3817877,Cleiton Augusto Oliveira Silva,Bengaluru,4.949747468305833,0.05720526494579369,True,Right Foot,Open Play,1,0,3,Volley
+3817877,Bruno Edgar Silva Almeida,Bengaluru,26.761913235043558,0.06944242454345616,False,Right Foot,Open Play,1,0,0,Normal
+3817877,Wungngayam Muirang,Bengaluru,15.226949793047849,0.06220449527114255,False,Left Foot,Open Play,0,0,1,Half Volley
+3817877,Deshorn Brown,NorthEast United,11.713667231059622,0.056596579587161744,True,Head,Open Play,0,1,2,Normal
+3817877,Marcelo Leite Pereira,NorthEast United,15.255490814785343,0.061848103062638625,False,Left Foot,Open Play,0,0,3,Normal
+3817877,Laldanmawia Ralte,NorthEast United,2.6400757564888138,0.05520390781321065,True,Right Foot,Open Play,1,0,1,Half Volley
+3817877,Cleiton Augusto Oliveira Silva,Bengaluru,32.01890066819909,0.06827721698250494,False,Right Foot,Free Kick,0,0,0,Normal
+3817877,Hernán Daniel Santana Trujillo,NorthEast United,22.240728405337812,0.06705315061101706,False,Right Foot,Open Play,1,0,2,Half Volley
+3817877,Deshorn Brown,NorthEast United,12.56065284927499,0.05571994962608871,False,Right Foot,Open Play,0,0,1,Normal

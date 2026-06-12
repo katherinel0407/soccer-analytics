@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.85307609250701,0.0594965390019327,False,Right Foot,Free Kick,0,0,0,Normal
-19.65756851698602,0.05483582233071916,False,Right Foot,Open Play,0,0,2,Normal
-10.890362712049582,0.05957658951909537,False,Right Foot,Open Play,1,0,2,Half Volley
-17.27425830535135,0.061176779250253575,False,Right Foot,Open Play,1,0,3,Volley
-19.027611515899725,0.06504112187638429,False,Left Foot,Open Play,1,1,1,Normal
-32.21878334139885,0.055004066543605394,False,Right Foot,Open Play,0,0,1,Normal
-18.122085972646747,0.06304638286285948,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-10.656922632730335,0.058891598405568776,False,Left Foot,Open Play,0,0,1,Normal
-16.60662518394391,0.06302194790906097,False,Right Foot,Open Play,0,0,2,Normal
-21.82956710519015,0.06681957711801242,False,Right Foot,Open Play,0,0,1,Normal
-17.246738822165767,0.06005351703525737,False,Right Foot,Open Play,0,1,3,Half Volley
-12.913945950018526,0.05680738106436324,False,Head,Open Play,0,0,5,Normal
-10.381233067415446,0.059660139922964414,False,Head,Open Play,0,0,2,Normal
-22.676198976018892,0.06024986543232619,False,Left Foot,Open Play,0,0,2,Normal
-11.539497389401332,0.060594686229044126,False,Right Foot,Open Play,0,0,4,Normal
-22.389506470666117,0.0632274624789811,False,Right Foot,Open Play,1,1,1,Half Volley
-31.620562929840442,0.07393168564582105,False,Right Foot,Open Play,0,0,1,Normal
-21.60046295800162,0.05360737889776463,False,Right Foot,Open Play,0,0,2,Normal
-37.62685211388271,0.07673759775970385,False,Right Foot,Open Play,0,0,0,Normal
-16.959363195591983,0.06226482102662955,False,Right Foot,Open Play,0,0,1,Normal
-9.873196037757983,0.05908770976058095,False,Head,Open Play,0,1,3,Normal
-29.34706118165838,0.06490960931835164,False,Right Foot,Free Kick,0,0,0,Normal
-18.792817777012573,0.051516620282054004,False,Right Foot,Open Play,0,0,1,Normal
-21.77062240727169,0.06190268999843666,False,Right Foot,Open Play,1,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912541,Lana Clelland,Sassuolo W,28.85307609250701,0.0594965390019327,False,Right Foot,Free Kick,0,0,0,Normal
+3912541,Nadia Nadim,AC Milan W,19.65756851698602,0.05483582233071916,False,Right Foot,Open Play,0,0,2,Normal
+3912541,Nadia Nadim,AC Milan W,10.890362712049582,0.05957658951909537,False,Right Foot,Open Play,1,0,2,Half Volley
+3912541,Lana Clelland,Sassuolo W,17.27425830535135,0.061176779250253575,False,Right Foot,Open Play,1,0,3,Volley
+3912541,Giada Pondini,Sassuolo W,19.027611515899725,0.06504112187638429,False,Left Foot,Open Play,1,1,1,Normal
+3912541,Loreta Kullashi,Sassuolo W,32.21878334139885,0.055004066543605394,False,Right Foot,Open Play,0,0,1,Normal
+3912541,Kamila Dubcová,AC Milan W,18.122085972646747,0.06304638286285948,False,Right Foot,Open Play,0,0,1,Normal
+3912541,Daniela Sabatino,Sassuolo W,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3912541,Emelyne Laurent,AC Milan W,10.656922632730335,0.058891598405568776,False,Left Foot,Open Play,0,0,1,Normal
+3912541,Emelyne Laurent,AC Milan W,16.60662518394391,0.06302194790906097,False,Right Foot,Open Play,0,0,2,Normal
+3912541,Emelyne Laurent,AC Milan W,21.82956710519015,0.06681957711801242,False,Right Foot,Open Play,0,0,1,Normal
+3912541,Emelyne Laurent,AC Milan W,17.246738822165767,0.06005351703525737,False,Right Foot,Open Play,0,1,3,Half Volley
+3912541,Chanté-Mary Dompig,AC Milan W,12.913945950018526,0.05680738106436324,False,Head,Open Play,0,0,5,Normal
+3912541,Daniela Sabatino,Sassuolo W,10.381233067415446,0.059660139922964414,False,Head,Open Play,0,0,2,Normal
+3912541,Emelyne Laurent,AC Milan W,22.676198976018892,0.06024986543232619,False,Left Foot,Open Play,0,0,2,Normal
+3912541,Angelica Soffia,AC Milan W,11.539497389401332,0.060594686229044126,False,Right Foot,Open Play,0,0,4,Normal
+3912541,Marta Mascarello,AC Milan W,22.389506470666117,0.0632274624789811,False,Right Foot,Open Play,1,1,1,Half Volley
+3912541,Loreta Kullashi,Sassuolo W,31.620562929840442,0.07393168564582105,False,Right Foot,Open Play,0,0,1,Normal
+3912541,Loreta Kullashi,Sassuolo W,21.60046295800162,0.05360737889776463,False,Right Foot,Open Play,0,0,2,Normal
+3912541,Lana Clelland,Sassuolo W,37.62685211388271,0.07673759775970385,False,Right Foot,Open Play,0,0,0,Normal
+3912541,Lana Clelland,Sassuolo W,16.959363195591983,0.06226482102662955,False,Right Foot,Open Play,0,0,1,Normal
+3912541,Chiara Beccari,Sassuolo W,9.873196037757983,0.05908770976058095,False,Head,Open Play,0,1,3,Normal
+3912541,Andrea Stašková,AC Milan W,29.34706118165838,0.06490960931835164,False,Right Foot,Free Kick,0,0,0,Normal
+3912541,Emelyne Laurent,AC Milan W,18.792817777012573,0.051516620282054004,False,Right Foot,Open Play,0,0,1,Normal
+3912541,Valery Vigilucci,AC Milan W,21.77062240727169,0.06190268999843666,False,Right Foot,Open Play,1,1,3,Half Volley

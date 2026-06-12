@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-37.03079799302197,0.07821112014226024,False,Right Foot,Open Play,0,0,1,Normal
-20.615528128088304,0.06592117750098617,False,Right Foot,Open Play,1,1,4,Normal
-24.80725700274014,0.06366477781942227,False,Left Foot,Open Play,0,1,1,Normal
-10.688779163215974,0.0582665892853374,False,Head,Open Play,0,1,2,Normal
-28.8027776438315,0.058850447368387834,False,Right Foot,Open Play,0,0,1,Normal
-34.80057470789814,0.07623893291404892,False,Right Foot,Free Kick,0,0,0,Normal
-11.112605455067683,0.06035860548226781,False,Left Foot,Open Play,1,1,1,Normal
-5.968249324550714,0.05684014056386507,True,Right Foot,Open Play,1,1,2,Half Volley
-12.143310915891103,0.06098902990575786,False,Head,Open Play,0,0,2,Normal
-25.500196077677515,0.06322343480231425,False,Left Foot,Open Play,0,1,1,Normal
-38.45958918137322,0.07864029611741319,False,Left Foot,Open Play,0,0,0,Normal
-30.617805277321885,0.05339866066559618,False,Left Foot,Open Play,0,0,1,Normal
-22.051077071199945,0.06517376697836165,False,Right Foot,Open Play,0,0,1,Normal
-34.398401125633725,0.06848381162887451,False,Right Foot,Open Play,0,0,0,Half Volley
-29.650295108143528,0.07236215560935025,False,Left Foot,Open Play,0,0,1,Normal
-29.917386249470393,0.06573058113213175,False,Right Foot,Open Play,0,0,1,Normal
-25.26915115313532,0.06762200232077265,False,Left Foot,Open Play,0,0,1,Normal
-27.8044960393099,0.06706928956543416,False,Right Foot,Open Play,0,0,1,Normal
-26.20915870454448,0.0697698375156214,False,Right Foot,Open Play,0,0,1,Normal
-15.781318069160132,0.061792979173493294,False,Head,Open Play,0,0,2,Normal
-22.817756243767697,0.05821526342006285,False,Left Foot,Open Play,0,1,2,Normal
-12.952991932368368,0.05401368525112447,False,Right Foot,Open Play,0,0,0,Normal
-24.566847579614283,0.06720229748461312,False,Right Foot,Open Play,0,0,2,Normal
-24.295884425144934,0.06849473490699665,False,Left Foot,Open Play,1,0,1,Half Volley
-6.152235366108804,0.0569488920199506,False,Left Foot,Open Play,1,1,4,Volley
-25.434818654749634,0.05962495660345013,False,Right Foot,Open Play,0,0,2,Normal
-33.4647575816709,0.07545821497390637,False,Right Foot,Open Play,0,0,1,Normal
-16.204937519163725,0.06123243973553839,False,Left Foot,Open Play,0,0,1,Normal
-21.73499482401595,0.05856522576825687,False,Right Foot,Open Play,0,0,1,Half Volley
-17.678235206037954,0.055047795180228766,False,Right Foot,Open Play,1,0,1,Normal
-35.00357124637427,0.0735515116297195,False,Right Foot,Open Play,0,0,1,Normal
-27.472895733795525,0.06555321087510353,True,Left Foot,Open Play,0,0,1,Normal
-29.976657585528116,0.07265813643039173,False,Left Foot,Open Play,0,1,1,Normal
-16.397560794215707,0.06343909880649706,False,Right Foot,Open Play,1,1,1,Normal
-17.93878479719293,0.06438091893466864,False,Right Foot,Open Play,0,1,1,Normal
-22.030206535572926,0.06212259648085159,False,Right Foot,Open Play,0,0,1,Normal
-30.252437918290155,0.0700463453339807,False,Left Foot,Open Play,0,1,1,Normal
-26.45996976566678,0.06411332286828002,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878559,Mauricio Ricardo Pinilla Ferreira,Atalanta,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3878559,Jasmin Kurtič,Atalanta,37.03079799302197,0.07821112014226024,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Alejandro Darío Gómez,Atalanta,20.615528128088304,0.06592117750098617,False,Right Foot,Open Play,1,1,4,Normal
+3878559,Alejandro Darío Gómez,Atalanta,24.80725700274014,0.06366477781942227,False,Left Foot,Open Play,0,1,1,Normal
+3878559,Mauricio Ricardo Pinilla Ferreira,Atalanta,10.688779163215974,0.0582665892853374,False,Head,Open Play,0,1,2,Normal
+3878559,Maximiliano Nicol Moralez,Atalanta,28.8027776438315,0.058850447368387834,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Jasmin Kurtič,Atalanta,34.80057470789814,0.07623893291404892,False,Right Foot,Free Kick,0,0,0,Normal
+3878559,Boukary Dramé,Atalanta,11.112605455067683,0.06035860548226781,False,Left Foot,Open Play,1,1,1,Normal
+3878559,Guglielmo Stendardo,Atalanta,5.968249324550714,0.05684014056386507,True,Right Foot,Open Play,1,1,2,Half Volley
+3878559,Samuele Longo,Frosinone,12.143310915891103,0.06098902990575786,False,Head,Open Play,0,0,2,Normal
+3878559,Mauricio Ricardo Pinilla Ferreira,Atalanta,25.500196077677515,0.06322343480231425,False,Left Foot,Open Play,0,1,1,Normal
+3878559,Boukary Dramé,Atalanta,38.45958918137322,0.07864029611741319,False,Left Foot,Open Play,0,0,0,Normal
+3878559,Federico Dionisi,Frosinone,30.617805277321885,0.05339866066559618,False,Left Foot,Open Play,0,0,1,Normal
+3878559,Federico Dionisi,Frosinone,22.051077071199945,0.06517376697836165,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Marten de Roon,Atalanta,34.398401125633725,0.06848381162887451,False,Right Foot,Open Play,0,0,0,Half Volley
+3878559,Danilo Soddimo,Frosinone,29.650295108143528,0.07236215560935025,False,Left Foot,Open Play,0,0,1,Normal
+3878559,Robert Gucher,Frosinone,29.917386249470393,0.06573058113213175,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Jasmin Kurtič,Atalanta,25.26915115313532,0.06762200232077265,False,Left Foot,Open Play,0,0,1,Normal
+3878559,Alejandro Darío Gómez,Atalanta,27.8044960393099,0.06706928956543416,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Alejandro Darío Gómez,Atalanta,26.20915870454448,0.0697698375156214,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Maximiliano Nicol Moralez,Atalanta,15.781318069160132,0.061792979173493294,False,Head,Open Play,0,0,2,Normal
+3878559,Daniel Ciofani,Frosinone,22.817756243767697,0.05821526342006285,False,Left Foot,Open Play,0,1,2,Normal
+3878559,Maximiliano Nicol Moralez,Atalanta,12.952991932368368,0.05401368525112447,False,Right Foot,Open Play,0,0,0,Normal
+3878559,Federico Dionisi,Frosinone,24.566847579614283,0.06720229748461312,False,Right Foot,Open Play,0,0,2,Normal
+3878559,Danilo Soddimo,Frosinone,24.295884425144934,0.06849473490699665,False,Left Foot,Open Play,1,0,1,Half Volley
+3878559,Leonardo Blanchard,Frosinone,6.152235366108804,0.0569488920199506,False,Left Foot,Open Play,1,1,4,Volley
+3878559,Maximiliano Nicol Moralez,Atalanta,25.434818654749634,0.05962495660345013,False,Right Foot,Open Play,0,0,2,Normal
+3878559,Daniel Ciofani,Frosinone,33.4647575816709,0.07545821497390637,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Maximiliano Nicol Moralez,Atalanta,16.204937519163725,0.06123243973553839,False,Left Foot,Open Play,0,0,1,Normal
+3878559,Marten de Roon,Atalanta,21.73499482401595,0.05856522576825687,False,Right Foot,Open Play,0,0,1,Half Volley
+3878559,Aleandro Rosi,Frosinone,17.678235206037954,0.055047795180228766,False,Right Foot,Open Play,1,0,1,Normal
+3878559,Robert Gucher,Frosinone,35.00357124637427,0.0735515116297195,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Alejandro Darío Gómez,Atalanta,27.472895733795525,0.06555321087510353,True,Left Foot,Open Play,0,0,1,Normal
+3878559,Aleksandar Tonev,Frosinone,29.976657585528116,0.07265813643039173,False,Left Foot,Open Play,0,1,1,Normal
+3878559,Mauricio Ricardo Pinilla Ferreira,Atalanta,16.397560794215707,0.06343909880649706,False,Right Foot,Open Play,1,1,1,Normal
+3878559,Mauricio Ricardo Pinilla Ferreira,Atalanta,17.93878479719293,0.06438091893466864,False,Right Foot,Open Play,0,1,1,Normal
+3878559,Marten de Roon,Atalanta,22.030206535572926,0.06212259648085159,False,Right Foot,Open Play,0,0,1,Normal
+3878559,Boukary Dramé,Atalanta,30.252437918290155,0.0700463453339807,False,Left Foot,Open Play,0,1,1,Normal
+3878559,Robert Gucher,Frosinone,26.45996976566678,0.06411332286828002,False,Right Foot,Open Play,1,0,1,Normal

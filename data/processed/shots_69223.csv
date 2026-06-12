@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.919641248391104,0.059121703788013916,False,Right Foot,Open Play,1,0,0,Normal
-18.02942040111107,0.06440248769710097,False,Right Foot,Open Play,1,0,3,Half Volley
-31.148836254345042,0.061966926900537726,False,Right Foot,Open Play,0,0,1,Normal
-16.06549096666516,0.056460312642934364,False,Right Foot,Open Play,1,0,1,Normal
-8.720091742636658,0.059154863885636476,True,Left Foot,Open Play,0,0,4,Normal
-5.108815909777914,0.05690327373843504,False,Head,Open Play,0,1,4,Normal
-6.708203932499369,0.05808002030195169,False,Right Foot,Open Play,1,0,3,Overhead Kick
-9.313431161500041,0.05745003883017019,False,Right Foot,Open Play,0,1,1,Normal
-10.486181383134664,0.05966893841535888,False,Left Foot,Open Play,1,1,2,Normal
-22.004772209682155,0.054230979131752836,False,Left Foot,Open Play,0,0,1,Normal
-35.723941551850075,0.07374013643402266,False,Right Foot,Open Play,0,0,2,Normal
-26.000769219390413,0.06582138396143093,False,Right Foot,Free Kick,0,0,0,Normal
-23.18469322635087,0.06774619405697109,False,Left Foot,Open Play,0,0,2,Normal
-16.710774967068403,0.05594386305474726,False,Left Foot,Open Play,1,0,2,Half Volley
-7.513321502504736,0.056332051726797075,False,Left Foot,Open Play,1,1,2,Normal
-12.525174649480936,0.05449779784381685,False,Head,Open Play,0,1,2,Normal
-19.18593234638338,0.06117245250930487,False,Left Foot,Free Kick,0,0,0,Normal
-6.9028979421689325,0.05757987791781484,False,Left Foot,Open Play,1,0,3,Overhead Kick
-23.577107541002565,0.06256594859313612,False,Left Foot,Open Play,0,0,2,Normal
-38.20497349822403,0.077846278023502,False,Right Foot,Open Play,0,0,2,Normal
-15.393829932801003,0.056750315402018546,False,Right Foot,Open Play,0,1,2,Normal
-16.707483353276164,0.06181114415324849,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69223,Thierry Henry,Barcelona,8.919641248391104,0.059121703788013916,False,Right Foot,Open Play,1,0,0,Normal
+69223,Thierry Henry,Barcelona,18.02942040111107,0.06440248769710097,False,Right Foot,Open Play,1,0,3,Half Volley
+69223,Sergio Busquets i Burgos,Barcelona,31.148836254345042,0.061966926900537726,False,Right Foot,Open Play,0,0,1,Normal
+69223,Thierry Henry,Barcelona,16.06549096666516,0.056460312642934364,False,Right Foot,Open Play,1,0,1,Normal
+69223,Lionel Andrés Messi Cuccittini,Barcelona,8.720091742636658,0.059154863885636476,True,Left Foot,Open Play,0,0,4,Normal
+69223,Samuel Eto''o Fils,Barcelona,5.108815909777914,0.05690327373843504,False,Head,Open Play,0,1,4,Normal
+69223,Gerard Piqué Bernabéu,Barcelona,6.708203932499369,0.05808002030195169,False,Right Foot,Open Play,1,0,3,Overhead Kick
+69223,Thierry Henry,Barcelona,9.313431161500041,0.05745003883017019,False,Right Foot,Open Play,0,1,1,Normal
+69223,Thierry Henry,Barcelona,10.486181383134664,0.05966893841535888,False,Left Foot,Open Play,1,1,2,Normal
+69223,Lionel Andrés Messi Cuccittini,Barcelona,22.004772209682155,0.054230979131752836,False,Left Foot,Open Play,0,0,1,Normal
+69223,Manuel del Moral Fernández,Getafe,35.723941551850075,0.07374013643402266,False,Right Foot,Open Play,0,0,2,Normal
+69223,Xavier Hernández Creus,Barcelona,26.000769219390413,0.06582138396143093,False,Right Foot,Free Kick,0,0,0,Normal
+69223,Jaime Gavilán Martínez,Getafe,23.18469322635087,0.06774619405697109,False,Left Foot,Open Play,0,0,2,Normal
+69223,Lionel Andrés Messi Cuccittini,Barcelona,16.710774967068403,0.05594386305474726,False,Left Foot,Open Play,1,0,2,Half Volley
+69223,Roberto Soldado Rillo,Getafe,7.513321502504736,0.056332051726797075,False,Left Foot,Open Play,1,1,2,Normal
+69223,Rafael Márquez Álvarez,Barcelona,12.525174649480936,0.05449779784381685,False,Head,Open Play,0,1,2,Normal
+69223,Lionel Andrés Messi Cuccittini,Barcelona,19.18593234638338,0.06117245250930487,False,Left Foot,Free Kick,0,0,0,Normal
+69223,Lionel Andrés Messi Cuccittini,Barcelona,6.9028979421689325,0.05757987791781484,False,Left Foot,Open Play,1,0,3,Overhead Kick
+69223,Seydou Kéita,Barcelona,23.577107541002565,0.06256594859313612,False,Left Foot,Open Play,0,0,2,Normal
+69223,Andrés Iniesta Luján,Barcelona,38.20497349822403,0.077846278023502,False,Right Foot,Open Play,0,0,2,Normal
+69223,Samuel Eto''o Fils,Barcelona,15.393829932801003,0.056750315402018546,False,Right Foot,Open Play,0,1,2,Normal
+69223,Samuel Eto''o Fils,Barcelona,16.707483353276164,0.06181114415324849,False,Right Foot,Open Play,1,0,0,Normal

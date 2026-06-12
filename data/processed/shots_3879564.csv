@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.394147114027964,0.059477697737178,True,Left Foot,Open Play,1,0,3,Normal
-24.04537377542716,0.06757533713830641,False,Left Foot,Open Play,0,0,2,Normal
-14.698639392814556,0.06004062636244229,False,Left Foot,Open Play,1,1,1,Half Volley
-24.927294277558488,0.06262352786899708,False,Right Foot,Open Play,1,1,2,Normal
-14.56708618770412,0.0597633858442081,True,Right Foot,Open Play,0,1,1,Normal
-24.682990094394967,0.06372059939408138,False,Right Foot,Open Play,0,1,2,Normal
-17.568437608393072,0.06357307869423125,True,Right Foot,Open Play,0,0,2,Normal
-6.299999999999997,0.05727964091944076,False,Head,Open Play,0,1,5,Normal
-25.70700293694308,0.0660762233035427,False,Right Foot,Free Kick,0,0,0,Normal
-13.124023773218333,0.06066602045970752,False,Left Foot,Open Play,0,0,1,Normal
-27.95442719856731,0.058749062167577554,False,Right Foot,Open Play,0,0,0,Normal
-28.405985284795175,0.05946968499970092,False,Right Foot,Open Play,0,0,1,Normal
-20.911719202399404,0.05592167429337137,False,Right Foot,Open Play,0,1,2,Normal
-19.37679023987203,0.06481962498799687,False,Left Foot,Open Play,1,0,0,Normal
-7.951100552753693,0.05761801363719595,False,Head,Open Play,0,1,3,Normal
-27.84420945187706,0.07058351215762501,False,Right Foot,Open Play,0,0,1,Half Volley
-10.971326264403949,0.055457101184288544,True,Left Foot,Open Play,0,0,2,Normal
-17.301156030739676,0.06364927152527473,False,Right Foot,Open Play,0,0,2,Normal
-9.200543462209179,0.05840377488205233,False,Head,Open Play,0,0,2,Normal
-30.793668180325643,0.07326496833770961,False,Right Foot,Open Play,0,0,1,Normal
-34.485069232930364,0.0759754524808973,False,Left Foot,Open Play,0,0,0,Normal
-8.558621384311849,0.05628722677808112,False,Left Foot,Open Play,1,0,4,Volley
-7.810249675906654,0.0586673424891239,False,Head,Open Play,0,0,4,Normal
-28.040149785619906,0.07086949093157265,False,Left Foot,Open Play,0,1,1,Normal
-16.924833824885837,0.06022221754112384,False,Right Foot,Open Play,0,0,2,Normal
-9.453041838477185,0.05885437512742336,True,Head,Open Play,0,1,4,Normal
-15.002999700059986,0.0607528270962085,True,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879564,Miralem Pjanić,AS Roma,9.394147114027964,0.059477697737178,True,Left Foot,Open Play,1,0,3,Normal
+3879564,Franco Damián Vázquez,Palermo,24.04537377542716,0.06757533713830641,False,Left Foot,Open Play,0,0,2,Normal
+3879564,Luca Rigoni,Palermo,14.698639392814556,0.06004062636244229,False,Left Foot,Open Play,1,1,1,Half Volley
+3879564,Miralem Pjanić,AS Roma,24.927294277558488,0.06262352786899708,False,Right Foot,Open Play,1,1,2,Normal
+3879564,Alessandro Florenzi,AS Roma,14.56708618770412,0.0597633858442081,True,Right Foot,Open Play,0,1,1,Normal
+3879564,Franco Damián Vázquez,Palermo,24.682990094394967,0.06372059939408138,False,Right Foot,Open Play,0,1,2,Normal
+3879564,Gervais Lombe Yao Kouassi,AS Roma,17.568437608393072,0.06357307869423125,True,Right Foot,Open Play,0,0,2,Normal
+3879564,Franco Damián Vázquez,Palermo,6.299999999999997,0.05727964091944076,False,Head,Open Play,0,1,5,Normal
+3879564,Aleksandar Trajkovski,Palermo,25.70700293694308,0.0660762233035427,False,Right Foot,Free Kick,0,0,0,Normal
+3879564,Radja Nainggolan,AS Roma,13.124023773218333,0.06066602045970752,False,Left Foot,Open Play,0,0,1,Normal
+3879564,Alessandro Florenzi,AS Roma,27.95442719856731,0.058749062167577554,False,Right Foot,Open Play,0,0,0,Normal
+3879564,Miralem Pjanić,AS Roma,28.405985284795175,0.05946968499970092,False,Right Foot,Open Play,0,0,1,Normal
+3879564,Gervais Lombe Yao Kouassi,AS Roma,20.911719202399404,0.05592167429337137,False,Right Foot,Open Play,0,1,2,Normal
+3879564,Lucas Digne,AS Roma,19.37679023987203,0.06481962498799687,False,Left Foot,Open Play,1,0,0,Normal
+3879564,Vassilis Torosidis,AS Roma,7.951100552753693,0.05761801363719595,False,Head,Open Play,0,1,3,Normal
+3879564,Aleksandar Trajkovski,Palermo,27.84420945187706,0.07058351215762501,False,Right Foot,Open Play,0,0,1,Half Volley
+3879564,Alberto Gilardino,Palermo,10.971326264403949,0.055457101184288544,True,Left Foot,Open Play,0,0,2,Normal
+3879564,Iago Falqué Silva,AS Roma,17.301156030739676,0.06364927152527473,False,Right Foot,Open Play,0,0,2,Normal
+3879564,Franco Damián Vázquez,Palermo,9.200543462209179,0.05840377488205233,False,Head,Open Play,0,0,2,Normal
+3879564,Robin Quaison,Palermo,30.793668180325643,0.07326496833770961,False,Right Foot,Open Play,0,0,1,Normal
+3879564,Achraf Lazaar,Palermo,34.485069232930364,0.0759754524808973,False,Left Foot,Open Play,0,0,0,Normal
+3879564,Franco Damián Vázquez,Palermo,8.558621384311849,0.05628722677808112,False,Left Foot,Open Play,1,0,4,Volley
+3879564,Alberto Gilardino,Palermo,7.810249675906654,0.0586673424891239,False,Head,Open Play,0,0,4,Normal
+3879564,Ivaylo Chochev,Palermo,28.040149785619906,0.07086949093157265,False,Left Foot,Open Play,0,1,1,Normal
+3879564,Salih Uçan,AS Roma,16.924833824885837,0.06022221754112384,False,Right Foot,Open Play,0,0,2,Normal
+3879564,Giancarlo González Castro,Palermo,9.453041838477185,0.05885437512742336,True,Head,Open Play,0,1,4,Normal
+3879564,Gervais Lombe Yao Kouassi,AS Roma,15.002999700059986,0.0607528270962085,True,Right Foot,Open Play,0,0,2,Normal

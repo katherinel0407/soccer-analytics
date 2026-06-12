@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.160324907365418,0.06567998046524991,False,Left Foot,Open Play,1,0,1,Volley
-15.915401345866208,0.061974618554300254,False,Right Foot,Open Play,0,0,1,Half Volley
-17.45222048909536,0.0557184386387337,True,Right Foot,Open Play,0,0,2,Normal
-15.711460785044784,0.06297641772553562,False,Head,Open Play,0,0,2,Normal
-4.341658669218482,0.056856793418758864,False,Right Foot,Open Play,0,0,4,Backheel
-24.329817097545146,0.06213369892025418,False,Left Foot,Open Play,0,1,1,Normal
-23.201939574095956,0.06206485598887438,False,Left Foot,Open Play,0,1,2,Normal
-11.7881296226331,0.05243765849120974,False,Right Foot,Open Play,0,0,2,Normal
-6.911584478250995,0.057388026263746665,False,Head,Open Play,0,0,3,Normal
-29.14309523712263,0.06412050665310601,False,Right Foot,Open Play,0,0,0,Normal
-6.191122676865642,0.057851343722091164,False,Head,Open Play,0,1,4,Normal
-20.203217565526533,0.060749598221835385,False,Right Foot,Open Play,0,0,2,Normal
-19.93614807328638,0.06356336491333396,False,Left Foot,Open Play,0,1,2,Normal
-14.583552379307317,0.0577283175088419,True,Right Foot,Open Play,1,0,1,Normal
-27.031278179176066,0.058339457945331324,False,Right Foot,Open Play,0,0,2,Normal
-25.638252670570193,0.06642245795384724,True,Right Foot,Free Kick,0,0,0,Normal
-18.254314558481784,0.06211222832712904,False,Right Foot,Open Play,0,0,2,Normal
-34.07080861969671,0.07513112905512943,False,Right Foot,Open Play,0,0,1,Normal
-5.536244214266566,0.056258624556303316,False,Head,Open Play,0,1,4,Normal
-8.54400374531753,0.05819700100170532,False,Head,Open Play,0,1,4,Normal
-18.7211110781385,0.06420646470206397,False,Left Foot,Open Play,0,1,1,Normal
-5.714017850864655,0.05459121798457978,False,Head,Open Play,0,1,3,Normal
-17.824140933015535,0.05475245979034252,False,Right Foot,Open Play,1,0,1,Normal
-4.939635614091381,0.0571569236298852,False,Right Foot,Open Play,0,0,3,Half Volley
-16.024044433288363,0.056050499731850494,False,Left Foot,Open Play,1,0,0,Half Volley
-25.262224763468478,0.0626469439370323,False,Right Foot,Open Play,1,0,1,Half Volley
-20.052431274037566,0.06425616186603453,False,Right Foot,Open Play,0,0,2,Normal
-9.570788891204316,0.0567637897833002,False,Head,Open Play,0,0,2,Normal
-34.61748113309228,0.07097461524422262,False,Right Foot,Open Play,1,0,0,Normal
-30.283989169196314,0.06408451769384702,False,Right Foot,Open Play,0,1,1,Normal
-15.697452022541748,0.06297384250323144,False,Left Foot,Open Play,1,0,1,Normal
-11.512167476196655,0.05645205790820841,False,Right Foot,Open Play,1,0,1,Normal
-21.48883430993874,0.06663549535363178,False,Left Foot,Open Play,0,0,1,Normal
-11.377170122662315,0.05220015721631381,False,Left Foot,Open Play,1,0,1,Overhead Kick
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754231,Danny Drinkwater,Leicester City,22.160324907365418,0.06567998046524991,False,Left Foot,Open Play,1,0,1,Volley
+3754231,Andrew Philip King,Leicester City,15.915401345866208,0.061974618554300254,False,Right Foot,Open Play,0,0,1,Half Volley
+3754231,José Salomón Rondón Giménez,West Bromwich Albion,17.45222048909536,0.0557184386387337,True,Right Foot,Open Play,0,0,2,Normal
+3754231,Robert Huth,Leicester City,15.711460785044784,0.06297641772553562,False,Head,Open Play,0,0,2,Normal
+3754231,Shinji Okazaki,Leicester City,4.341658669218482,0.056856793418758864,False,Right Foot,Open Play,0,0,4,Backheel
+3754231,Shinji Okazaki,Leicester City,24.329817097545146,0.06213369892025418,False,Left Foot,Open Play,0,1,1,Normal
+3754231,Riyad Mahrez,Leicester City,23.201939574095956,0.06206485598887438,False,Left Foot,Open Play,0,1,2,Normal
+3754231,Riyad Mahrez,Leicester City,11.7881296226331,0.05243765849120974,False,Right Foot,Open Play,0,0,2,Normal
+3754231,Jamie Vardy,Leicester City,6.911584478250995,0.057388026263746665,False,Head,Open Play,0,0,3,Normal
+3754231,Danny Drinkwater,Leicester City,29.14309523712263,0.06412050665310601,False,Right Foot,Open Play,0,0,0,Normal
+3754231,Jamie Vardy,Leicester City,6.191122676865642,0.057851343722091164,False,Head,Open Play,0,1,4,Normal
+3754231,José Salomón Rondón Giménez,West Bromwich Albion,20.203217565526533,0.060749598221835385,False,Right Foot,Open Play,0,0,2,Normal
+3754231,Riyad Mahrez,Leicester City,19.93614807328638,0.06356336491333396,False,Left Foot,Open Play,0,1,2,Normal
+3754231,Andrew Philip King,Leicester City,14.583552379307317,0.0577283175088419,True,Right Foot,Open Play,1,0,1,Normal
+3754231,Stéphane Sessègnon,West Bromwich Albion,27.031278179176066,0.058339457945331324,False,Right Foot,Open Play,0,0,2,Normal
+3754231,Craig Gardner,West Bromwich Albion,25.638252670570193,0.06642245795384724,True,Right Foot,Free Kick,0,0,0,Normal
+3754231,Marc Albrighton,Leicester City,18.254314558481784,0.06211222832712904,False,Right Foot,Open Play,0,0,2,Normal
+3754231,Craig Gardner,West Bromwich Albion,34.07080861969671,0.07513112905512943,False,Right Foot,Open Play,0,0,1,Normal
+3754231,Shinji Okazaki,Leicester City,5.536244214266566,0.056258624556303316,False,Head,Open Play,0,1,4,Normal
+3754231,Jonas Olsson,West Bromwich Albion,8.54400374531753,0.05819700100170532,False,Head,Open Play,0,1,4,Normal
+3754231,Jeffrey Schlupp,Leicester City,18.7211110781385,0.06420646470206397,False,Left Foot,Open Play,0,1,1,Normal
+3754231,Gareth McAuley,West Bromwich Albion,5.714017850864655,0.05459121798457978,False,Head,Open Play,0,1,3,Normal
+3754231,Craig Dawson,West Bromwich Albion,17.824140933015535,0.05475245979034252,False,Right Foot,Open Play,1,0,1,Normal
+3754231,José Salomón Rondón Giménez,West Bromwich Albion,4.939635614091381,0.0571569236298852,False,Right Foot,Open Play,0,0,3,Half Volley
+3754231,Riyad Mahrez,Leicester City,16.024044433288363,0.056050499731850494,False,Left Foot,Open Play,1,0,0,Half Volley
+3754231,Danny Drinkwater,Leicester City,25.262224763468478,0.0626469439370323,False,Right Foot,Open Play,1,0,1,Half Volley
+3754231,Jamie Vardy,Leicester City,20.052431274037566,0.06425616186603453,False,Right Foot,Open Play,0,0,2,Normal
+3754231,Robert Huth,Leicester City,9.570788891204316,0.0567637897833002,False,Head,Open Play,0,0,2,Normal
+3754231,Craig Gardner,West Bromwich Albion,34.61748113309228,0.07097461524422262,False,Right Foot,Open Play,1,0,0,Normal
+3754231,Craig Gardner,West Bromwich Albion,30.283989169196314,0.06408451769384702,False,Right Foot,Open Play,0,1,1,Normal
+3754231,Jamie Vardy,Leicester City,15.697452022541748,0.06297384250323144,False,Left Foot,Open Play,1,0,1,Normal
+3754231,Wes Morgan,Leicester City,11.512167476196655,0.05645205790820841,False,Right Foot,Open Play,1,0,1,Normal
+3754231,Jeffrey Schlupp,Leicester City,21.48883430993874,0.06663549535363178,False,Left Foot,Open Play,0,0,1,Normal
+3754231,Riyad Mahrez,Leicester City,11.377170122662315,0.05220015721631381,False,Left Foot,Open Play,1,0,1,Overhead Kick

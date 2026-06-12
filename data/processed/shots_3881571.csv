@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.681628884240272,0.06341912789727232,False,Left Foot,Open Play,1,0,2,Half Volley
-10.465658125507442,0.060040208013261646,False,Left Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-21.592822881689187,0.05740693897119323,False,Right Foot,Open Play,0,1,2,Normal
-8.421401308570927,0.05831167792753249,False,Head,Open Play,0,1,3,Normal
-34.52086325687699,0.0709824603078827,False,Left Foot,Free Kick,0,0,0,Normal
-30.571228303749912,0.06118491018931121,False,Right Foot,Open Play,1,1,1,Half Volley
-33.955411939777726,0.07270430612247547,False,Right Foot,Open Play,0,0,2,Normal
-16.3783393541592,0.06294040064822896,False,Left Foot,Open Play,0,1,1,Normal
-15.285614151874956,0.0625363549845191,False,Left Foot,Open Play,0,0,3,Normal
-18.31747799234381,0.06198782043624396,False,Head,Open Play,0,1,2,Normal
-20.97474672075923,0.06623682246645238,False,Right Foot,Open Play,0,1,3,Normal
-9.786214794290993,0.05794699044501445,False,Head,Open Play,0,1,4,Normal
-11.822859214251006,0.05590951849251468,False,Head,Open Play,0,1,2,Normal
-12.747548783981959,0.0571437033099627,False,Left Foot,Open Play,1,1,2,Volley
-2.7802877548915728,0.05613416497841112,True,Right Foot,Open Play,1,1,5,Half Volley
-20.161349161204463,0.06460596165806716,False,Right Foot,Open Play,0,1,3,Half Volley
-26.463937726649828,0.06048688247904239,False,Left Foot,Open Play,0,0,1,Normal
-17.44276354251241,0.06298799220434373,False,Right Foot,Open Play,0,1,2,Half Volley
-18.257053431482312,0.05530083520524228,False,Right Foot,Open Play,1,0,1,Normal
-20.02623279601034,0.06417264360971495,False,Right Foot,Open Play,0,0,1,Normal
-18.315294155431957,0.06422073627117943,False,Head,Open Play,0,0,2,Normal
-13.277424449041316,0.06158237205425825,False,Left Foot,Open Play,1,0,2,Half Volley
-9.51892851112981,0.05789763671073984,False,Left Foot,Open Play,0,0,2,Normal
-15.095032295427528,0.053207736177036856,False,Right Foot,Open Play,0,0,1,Normal
-27.86269907959385,0.05885373168715642,False,Right Foot,Open Play,0,0,1,Normal
-14.458561477546787,0.06231124926828393,False,Right Foot,Open Play,1,0,3,Normal
-27.435196372543064,0.07058707510837309,False,Right Foot,Open Play,0,0,2,Normal
-18.44478246008881,0.05762850424531602,False,Right Foot,Open Play,0,0,2,Normal
-13.168523075880605,0.060773354127491575,True,Head,Open Play,0,0,4,Normal
-7.94040301244212,0.05703645526388755,False,Head,Open Play,0,1,1,Normal
-22.548835890129677,0.06731448350198696,False,Left Foot,Open Play,1,0,1,Half Volley
-20.946837470128997,0.06412264239432854,False,Right Foot,Open Play,1,1,5,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881571,Ashley Hatch,Washington Spirit,17.681628884240272,0.06341912789727232,False,Left Foot,Open Play,1,0,2,Half Volley
+3881571,Taylor Kornieck,San Diego Wave,10.465658125507442,0.060040208013261646,False,Left Foot,Open Play,1,0,1,Normal
+3881571,Ashley Hatch,Washington Spirit,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3881571,Meggie Dougherty Howard,San Diego Wave,21.592822881689187,0.05740693897119323,False,Right Foot,Open Play,0,1,2,Normal
+3881571,Lena Silano,Washington Spirit,8.421401308570927,0.05831167792753249,False,Head,Open Play,0,1,3,Normal
+3881571,Samantha Staab,Washington Spirit,34.52086325687699,0.0709824603078827,False,Left Foot,Free Kick,0,0,0,Normal
+3881571,Meggie Dougherty Howard,San Diego Wave,30.571228303749912,0.06118491018931121,False,Right Foot,Open Play,1,1,1,Half Volley
+3881571,Jaedyn Reese Shaw,San Diego Wave,33.955411939777726,0.07270430612247547,False,Right Foot,Open Play,0,0,2,Normal
+3881571,Makenzy Doniak,San Diego Wave,16.3783393541592,0.06294040064822896,False,Left Foot,Open Play,0,1,1,Normal
+3881571,Lena Silano,Washington Spirit,15.285614151874956,0.0625363549845191,False,Left Foot,Open Play,0,0,3,Normal
+3881571,Taylor Kornieck,San Diego Wave,18.31747799234381,0.06198782043624396,False,Head,Open Play,0,1,2,Normal
+3881571,Jaedyn Reese Shaw,San Diego Wave,20.97474672075923,0.06623682246645238,False,Right Foot,Open Play,0,1,3,Normal
+3881571,Taylor Kornieck,San Diego Wave,9.786214794290993,0.05794699044501445,False,Head,Open Play,0,1,4,Normal
+3881571,Jaedyn Reese Shaw,San Diego Wave,11.822859214251006,0.05590951849251468,False,Head,Open Play,0,1,2,Normal
+3881571,Meggie Dougherty Howard,San Diego Wave,12.747548783981959,0.0571437033099627,False,Left Foot,Open Play,1,1,2,Volley
+3881571,Cheyenne Janae Shorts,San Diego Wave,2.7802877548915728,0.05613416497841112,True,Right Foot,Open Play,1,1,5,Half Volley
+3881571,Jaedyn Reese Shaw,San Diego Wave,20.161349161204463,0.06460596165806716,False,Right Foot,Open Play,0,1,3,Half Volley
+3881571,Jaedyn Reese Shaw,San Diego Wave,26.463937726649828,0.06048688247904239,False,Left Foot,Open Play,0,0,1,Normal
+3881571,Meggie Dougherty Howard,San Diego Wave,17.44276354251241,0.06298799220434373,False,Right Foot,Open Play,0,1,2,Half Volley
+3881571,Rachel Hill,San Diego Wave,18.257053431482312,0.05530083520524228,False,Right Foot,Open Play,1,0,1,Normal
+3881571,Lena Silano,Washington Spirit,20.02623279601034,0.06417264360971495,False,Right Foot,Open Play,0,0,1,Normal
+3881571,Lena Silano,Washington Spirit,18.315294155431957,0.06422073627117943,False,Head,Open Play,0,0,2,Normal
+3881571,Lena Silano,Washington Spirit,13.277424449041316,0.06158237205425825,False,Left Foot,Open Play,1,0,2,Half Volley
+3881571,Melanie Barcenas,San Diego Wave,9.51892851112981,0.05789763671073984,False,Left Foot,Open Play,0,0,2,Normal
+3881571,Melanie Barcenas,San Diego Wave,15.095032295427528,0.053207736177036856,False,Right Foot,Open Play,0,0,1,Normal
+3881571,Melanie Barcenas,San Diego Wave,27.86269907959385,0.05885373168715642,False,Right Foot,Open Play,0,0,1,Normal
+3881571,Taylor Kornieck,San Diego Wave,14.458561477546787,0.06231124926828393,False,Right Foot,Open Play,1,0,3,Normal
+3881571,Ashley Hatch,Washington Spirit,27.435196372543064,0.07058707510837309,False,Right Foot,Open Play,0,0,2,Normal
+3881571,Nicole Douglas,Washington Spirit,18.44478246008881,0.05762850424531602,False,Right Foot,Open Play,0,0,2,Normal
+3881571,Taylor Kornieck,San Diego Wave,13.168523075880605,0.060773354127491575,True,Head,Open Play,0,0,4,Normal
+3881571,Amirah Ali,San Diego Wave,7.94040301244212,0.05703645526388755,False,Head,Open Play,0,1,1,Normal
+3881571,Danielle Colaprico,San Diego Wave,22.548835890129677,0.06731448350198696,False,Left Foot,Open Play,1,0,1,Half Volley
+3881571,Melanie Barcenas,San Diego Wave,20.946837470128997,0.06412264239432854,False,Right Foot,Open Play,1,1,5,Half Volley

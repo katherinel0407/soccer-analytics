@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.504323819042945,0.06456467000188935,False,Right Foot,Open Play,0,0,4,Half Volley
-16.85852899869974,0.061000285871039825,False,Left Foot,Open Play,0,1,1,Normal
-22.594247055390007,0.06723077473069791,False,Left Foot,Open Play,1,0,1,Normal
-6.4412731660751685,0.05760080610523887,False,Head,Open Play,0,1,3,Normal
-20.21410398706804,0.06345628455877743,False,Left Foot,Open Play,1,0,1,Half Volley
-8.823264701911649,0.0559420143229979,False,Right Foot,Open Play,1,0,3,Normal
-11.447707194019241,0.05821519241348684,False,Right Foot,Open Play,1,0,2,Half Volley
-14.596232390586271,0.062169580928167316,False,Right Foot,Open Play,1,0,1,Normal
-7.269112738154502,0.05715731449286301,False,Left Foot,Open Play,1,0,2,Normal
-10.282509421342635,0.05839414594732754,False,Head,Open Play,0,0,4,Normal
-26.43217736017977,0.05873237882733877,False,Right Foot,Open Play,0,0,1,Normal
-25.793216162394334,0.0627518587442511,False,Right Foot,Open Play,0,0,4,Normal
-27.044038160008572,0.06278492238074258,False,Right Foot,Open Play,0,1,1,Normal
-18.77711372921834,0.064699028203714,True,Left Foot,Open Play,0,0,2,Normal
-20.518284528683196,0.06422852727292508,False,Right Foot,Open Play,1,0,3,Volley
-3.5902646142032477,0.056432371620793446,False,Head,Open Play,0,0,6,Normal
-16.42010962204577,0.053934771630698305,False,Right Foot,Open Play,0,1,3,Normal
-22.717834403833475,0.06002112139243703,False,Left Foot,Open Play,0,0,2,Normal
-11.552056094046637,0.05559245245140221,False,Head,Open Play,0,0,3,Normal
-4.720169488482375,0.057128022424911475,False,Head,Open Play,0,1,5,Normal
-6.802940540677977,0.057412776067004706,False,Head,Open Play,0,0,4,Normal
-23.84386713601634,0.06787457717251473,False,Right Foot,Open Play,1,0,0,Half Volley
-19.632880583347923,0.0652331050209163,False,Left Foot,Open Play,0,0,2,Normal
-33.88952640566109,0.07438474456326143,False,Left Foot,Open Play,0,0,1,Normal
-26.098467387952113,0.05819816424255588,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754289,José Holebas,Watford,18.504323819042945,0.06456467000188935,False,Right Foot,Open Play,0,0,4,Half Volley
+3754289,Jamie Vardy,Leicester City,16.85852899869974,0.061000285871039825,False,Left Foot,Open Play,0,1,1,Normal
+3754289,Christian Fuchs,Leicester City,22.594247055390007,0.06723077473069791,False,Left Foot,Open Play,1,0,1,Normal
+3754289,Nathan Aké,Watford,6.4412731660751685,0.05760080610523887,False,Head,Open Play,0,1,3,Normal
+3754289,Jamie Vardy,Leicester City,20.21410398706804,0.06345628455877743,False,Left Foot,Open Play,1,0,1,Half Volley
+3754289,Jamie Vardy,Leicester City,8.823264701911649,0.0559420143229979,False,Right Foot,Open Play,1,0,3,Normal
+3754289,Nordin Amrabat,Watford,11.447707194019241,0.05821519241348684,False,Right Foot,Open Play,1,0,2,Half Volley
+3754289,Troy Deeney,Watford,14.596232390586271,0.062169580928167316,False,Right Foot,Open Play,1,0,1,Normal
+3754289,Shinji Okazaki,Leicester City,7.269112738154502,0.05715731449286301,False,Left Foot,Open Play,1,0,2,Normal
+3754289,Wes Morgan,Leicester City,10.282509421342635,0.05839414594732754,False,Head,Open Play,0,0,4,Normal
+3754289,Troy Deeney,Watford,26.43217736017977,0.05873237882733877,False,Right Foot,Open Play,0,0,1,Normal
+3754289,Mario Suárez Mata,Watford,25.793216162394334,0.0627518587442511,False,Right Foot,Open Play,0,0,4,Normal
+3754289,Danny Drinkwater,Leicester City,27.044038160008572,0.06278492238074258,False,Right Foot,Open Play,0,1,1,Normal
+3754289,Riyad Mahrez,Leicester City,18.77711372921834,0.064699028203714,True,Left Foot,Open Play,0,0,2,Normal
+3754289,Troy Deeney,Watford,20.518284528683196,0.06422852727292508,False,Right Foot,Open Play,1,0,3,Volley
+3754289,Robert Huth,Leicester City,3.5902646142032477,0.056432371620793446,False,Head,Open Play,0,0,6,Normal
+3754289,Nordin Amrabat,Watford,16.42010962204577,0.053934771630698305,False,Right Foot,Open Play,0,1,3,Normal
+3754289,Riyad Mahrez,Leicester City,22.717834403833475,0.06002112139243703,False,Left Foot,Open Play,0,0,2,Normal
+3754289,Robert Huth,Leicester City,11.552056094046637,0.05559245245140221,False,Head,Open Play,0,0,3,Normal
+3754289,Robert Huth,Leicester City,4.720169488482375,0.057128022424911475,False,Head,Open Play,0,1,5,Normal
+3754289,Odion Jude Ighalo,Watford,6.802940540677977,0.057412776067004706,False,Head,Open Play,0,0,4,Normal
+3754289,Almen Abdi,Watford,23.84386713601634,0.06787457717251473,False,Right Foot,Open Play,1,0,0,Half Volley
+3754289,Jeffrey Schlupp,Leicester City,19.632880583347923,0.0652331050209163,False,Left Foot,Open Play,0,0,2,Normal
+3754289,Nathan Aké,Watford,33.88952640566109,0.07438474456326143,False,Left Foot,Open Play,0,0,1,Normal
+3754289,Danny Simpson,Leicester City,26.098467387952113,0.05819816424255588,False,Left Foot,Open Play,0,0,0,Normal

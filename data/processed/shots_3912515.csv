@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.2379832622861,0.0648642341511463,False,Right Foot,Open Play,0,0,1,Normal
-29.597972903562162,0.054429316475993555,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-7.52728370662352,0.05838272709714383,False,Head,Open Play,0,0,3,Normal
-16.082288394379695,0.06237119732131541,False,Left Foot,Open Play,1,0,1,Normal
-24.397745797511696,0.06679563606704028,False,Right Foot,Open Play,1,0,0,Volley
-18.28004376362376,0.06454481906673291,False,Right Foot,Open Play,0,0,2,Normal
-25.86600085053737,0.06960741755360607,False,Left Foot,Open Play,0,1,1,Normal
-23.244139046219804,0.06659703714773263,False,Right Foot,Open Play,0,0,1,Normal
-24.613004692641645,0.06563426240772,False,Right Foot,Open Play,0,1,2,Normal
-10.404326023342412,0.05882368082453312,False,Right Foot,Open Play,1,0,1,Overhead Kick
-18.71710447692164,0.06216441339761659,False,Right Foot,Open Play,1,0,1,Half Volley
-20.38062805705457,0.06472398117664888,False,Left Foot,Open Play,0,0,2,Normal
-14.508618128546908,0.05592404757592075,False,Head,Open Play,0,1,3,Normal
-12.36931687685298,0.06064627765111373,True,Left Foot,Open Play,1,0,1,Normal
-24.686838598735157,0.05867458122113142,False,Right Foot,Open Play,1,0,0,Normal
-15.282997088267738,0.05949316683089098,True,Right Foot,Open Play,0,0,2,Half Volley
-15.560205654167946,0.056181266148082394,False,Left Foot,Open Play,0,0,2,Normal
-8.820430828479981,0.05920919538682021,False,Head,Open Play,0,1,4,Normal
-23.41367122003724,0.06612808182200673,False,Left Foot,Open Play,0,0,1,Normal
-15.306207890917987,0.06164383167580331,False,Left Foot,Open Play,0,1,2,Normal
-12.868954891520907,0.054523219147411345,False,Right Foot,Open Play,1,1,2,Normal
-35.21505359927769,0.07337291076037056,False,Right Foot,Open Play,0,1,1,Normal
-19.902261178067175,0.06556825989068467,False,Right Foot,Open Play,0,0,2,Normal
-29.3945573193406,0.06995455322033302,False,Right Foot,Open Play,0,0,2,Normal
-23.718558134928863,0.05383398208752641,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912515,Emilie Haavi,AS Roma W,19.2379832622861,0.0648642341511463,False,Right Foot,Open Play,0,0,1,Normal
+3912515,Manuela Giugliano,AS Roma W,29.597972903562162,0.054429316475993555,False,Right Foot,Open Play,0,0,1,Normal
+3912515,Kosovare Asllani,AC Milan W,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3912515,Kamila Dubcová,AC Milan W,7.52728370662352,0.05838272709714383,False,Head,Open Play,0,0,3,Normal
+3912515,Eseosa Aigbogun,AS Roma W,16.082288394379695,0.06237119732131541,False,Left Foot,Open Play,1,0,1,Normal
+3912515,Emilie Haavi,AS Roma W,24.397745797511696,0.06679563606704028,False,Right Foot,Open Play,1,0,0,Volley
+3912515,Emilie Haavi,AS Roma W,18.28004376362376,0.06454481906673291,False,Right Foot,Open Play,0,0,2,Normal
+3912515,Valentina Cernoia,AC Milan W,25.86600085053737,0.06960741755360607,False,Left Foot,Open Play,0,1,1,Normal
+3912515,Emilie Haavi,AS Roma W,23.244139046219804,0.06659703714773263,False,Right Foot,Open Play,0,0,1,Normal
+3912515,Giada Greggi,AS Roma W,24.613004692641645,0.06563426240772,False,Right Foot,Open Play,0,1,2,Normal
+3912515,Andrea Stašková,AC Milan W,10.404326023342412,0.05882368082453312,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3912515,Emilie Haavi,AS Roma W,18.71710447692164,0.06216441339761659,False,Right Foot,Open Play,1,0,1,Half Volley
+3912515,Kamila Dubcová,AC Milan W,20.38062805705457,0.06472398117664888,False,Left Foot,Open Play,0,0,2,Normal
+3912515,Andrea Stašková,AC Milan W,14.508618128546908,0.05592404757592075,False,Head,Open Play,0,1,3,Normal
+3912515,Manuela Giugliano,AS Roma W,12.36931687685298,0.06064627765111373,True,Left Foot,Open Play,1,0,1,Normal
+3912515,Saki Kumagai,AS Roma W,24.686838598735157,0.05867458122113142,False,Right Foot,Open Play,1,0,0,Normal
+3912515,Lucia Di Guglielmo,AS Roma W,15.282997088267738,0.05949316683089098,True,Right Foot,Open Play,0,0,2,Half Volley
+3912515,Christy Grimshaw,AC Milan W,15.560205654167946,0.056181266148082394,False,Left Foot,Open Play,0,0,2,Normal
+3912515,Elena Linari,AS Roma W,8.820430828479981,0.05920919538682021,False,Head,Open Play,0,1,4,Normal
+3912515,Manuela Giugliano,AS Roma W,23.41367122003724,0.06612808182200673,False,Left Foot,Open Play,0,0,1,Normal
+3912515,Laura Feiersinger,AS Roma W,15.306207890917987,0.06164383167580331,False,Left Foot,Open Play,0,1,2,Normal
+3912515,Annamaria Serturini,AS Roma W,12.868954891520907,0.054523219147411345,False,Right Foot,Open Play,1,1,2,Normal
+3912515,Saki Kumagai,AS Roma W,35.21505359927769,0.07337291076037056,False,Right Foot,Open Play,0,1,1,Normal
+3912515,Gloria Marinelli,AC Milan W,19.902261178067175,0.06556825989068467,False,Right Foot,Open Play,0,0,2,Normal
+3912515,Valentina Giacinti,AS Roma W,29.3945573193406,0.06995455322033302,False,Right Foot,Open Play,0,0,2,Normal
+3912515,Annamaria Serturini,AS Roma W,23.718558134928863,0.05383398208752641,False,Left Foot,Open Play,0,0,1,Normal

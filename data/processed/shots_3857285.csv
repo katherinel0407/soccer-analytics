@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.31420213932346,0.06426954536218221,False,Left Foot,Open Play,0,0,3,Half Volley
-17.74063133036702,0.06385977103711821,False,Left Foot,Open Play,1,0,1,Normal
-22.870505022845474,0.062318305049567306,False,Left Foot,Open Play,0,1,1,Normal
-10.111874208078344,0.05979268262303255,False,Head,Open Play,0,1,1,Normal
-22.121934815924217,0.06188753716006345,False,Left Foot,Open Play,0,1,2,Normal
-22.318154045529838,0.06699319994064264,False,Right Foot,Open Play,0,0,1,Normal
-10.787029248129436,0.059695399789491434,False,Head,Open Play,0,1,6,Normal
-20.86552180032888,0.05897147333020374,False,Right Foot,Open Play,0,0,1,Normal
-25.991537084212624,0.05543902968396125,False,Left Foot,Open Play,0,0,1,Normal
-37.974860105074775,0.06145104265773804,False,Right Foot,Open Play,0,0,0,Normal
-23.940133667128926,0.06088423558880285,False,Left Foot,Open Play,0,0,2,Volley
-8.902246907382434,0.05824899610544021,False,Head,Open Play,0,1,5,Normal
-29.223620583356876,0.055667850078991284,False,Right Foot,Open Play,0,0,0,Normal
-11.545128842936313,0.05329397249133207,False,Right Foot,Open Play,1,0,1,Half Volley
-25.728000310945276,0.06865761431345789,False,Left Foot,Open Play,0,0,2,Normal
-20.64000968992021,0.053324244964846154,False,Right Foot,Open Play,1,0,2,Normal
-16.704789732289363,0.06145038336027044,False,Right Foot,Open Play,0,1,3,Half Volley
-17.758941409892653,0.06423140373061091,False,Left Foot,Open Play,1,0,3,Half Volley
-8.720665112249183,0.05803474209322461,False,Head,Open Play,0,1,2,Normal
-7.764663547121668,0.05815675096157928,True,Head,Open Play,0,0,2,Normal
-31.123624467596958,0.057102100277780496,False,Left Foot,Open Play,0,0,1,Normal
-31.579265349276255,0.07368403831146478,False,Left Foot,Open Play,1,0,0,Half Volley
-8.386298349093002,0.058973359247443694,False,Head,Open Play,0,0,4,Normal
-21.341274563624356,0.058089763970856696,False,Left Foot,Open Play,0,0,1,Normal
-11.717081547894084,0.06070379309186593,True,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857285,Boulaye Dia,Senegal,18.31420213932346,0.06426954536218221,False,Left Foot,Open Play,0,0,3,Half Volley
+3857285,Vincent Janssen,Netherlands,17.74063133036702,0.06385977103711821,False,Left Foot,Open Play,1,0,1,Normal
+3857285,Ismaïla Sarr,Senegal,22.870505022845474,0.062318305049567306,False,Left Foot,Open Play,0,1,1,Normal
+3857285,Daley Blind,Netherlands,10.111874208078344,0.05979268262303255,False,Head,Open Play,0,1,1,Normal
+3857285,Vincent Janssen,Netherlands,22.121934815924217,0.06188753716006345,False,Left Foot,Open Play,0,1,2,Normal
+3857285,Ismaïla Sarr,Senegal,22.318154045529838,0.06699319994064264,False,Right Foot,Open Play,0,0,1,Normal
+3857285,Virgil van Dijk,Netherlands,10.787029248129436,0.059695399789491434,False,Head,Open Play,0,1,6,Normal
+3857285,Idrissa Gana Gueye,Senegal,20.86552180032888,0.05897147333020374,False,Right Foot,Open Play,0,0,1,Normal
+3857285,Krépin Diatta,Senegal,25.991537084212624,0.05543902968396125,False,Left Foot,Open Play,0,0,1,Normal
+3857285,Youssouf Sabaly,Senegal,37.974860105074775,0.06145104265773804,False,Right Foot,Open Play,0,0,0,Normal
+3857285,Steven Berghuis,Netherlands,23.940133667128926,0.06088423558880285,False,Left Foot,Open Play,0,0,2,Volley
+3857285,Virgil van Dijk,Netherlands,8.902246907382434,0.05824899610544021,False,Head,Open Play,0,1,5,Normal
+3857285,Youssouf Sabaly,Senegal,29.223620583356876,0.055667850078991284,False,Right Foot,Open Play,0,0,0,Normal
+3857285,Krépin Diatta,Senegal,11.545128842936313,0.05329397249133207,False,Right Foot,Open Play,1,0,1,Half Volley
+3857285,Steven Berghuis,Netherlands,25.728000310945276,0.06865761431345789,False,Left Foot,Open Play,0,0,2,Normal
+3857285,Boulaye Dia,Senegal,20.64000968992021,0.053324244964846154,False,Right Foot,Open Play,1,0,2,Normal
+3857285,Idrissa Gana Gueye,Senegal,16.704789732289363,0.06145038336027044,False,Right Foot,Open Play,0,1,3,Half Volley
+3857285,Cheikh Ahmadou Bamba Mbacke Dieng,Senegal,17.758941409892653,0.06423140373061091,False,Left Foot,Open Play,1,0,3,Half Volley
+3857285,Ismaïla Sarr,Senegal,8.720665112249183,0.05803474209322461,False,Head,Open Play,0,1,2,Normal
+3857285,Cody Mathès Gakpo,Netherlands,7.764663547121668,0.05815675096157928,True,Head,Open Play,0,0,2,Normal
+3857285,Pape Gueye,Senegal,31.123624467596958,0.057102100277780496,False,Left Foot,Open Play,0,0,1,Normal
+3857285,Ismail Jakobs,Senegal,31.579265349276255,0.07368403831146478,False,Left Foot,Open Play,1,0,0,Half Volley
+3857285,Cheikh Ahmadou Bamba Mbacke Dieng,Senegal,8.386298349093002,0.058973359247443694,False,Head,Open Play,0,0,4,Normal
+3857285,Memphis Depay,Netherlands,21.341274563624356,0.058089763970856696,False,Left Foot,Open Play,0,0,1,Normal
+3857285,Davy Klaassen,Netherlands,11.717081547894084,0.06070379309186593,True,Left Foot,Open Play,1,0,1,Normal

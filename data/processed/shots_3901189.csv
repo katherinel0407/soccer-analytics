@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.866462165764897,0.05950801306396583,False,Head,Open Play,0,1,4,Normal
-17.535392781457734,0.06343239361744073,True,Right Foot,Open Play,0,1,2,Normal
-29.08264087045741,0.07197259276887152,False,Right Foot,Open Play,1,0,1,Normal
-12.38224535373128,0.06112923347856505,False,Head,Open Play,0,1,2,Normal
-41.16369759873376,0.08214366710558864,False,Left Foot,Open Play,1,0,0,Lob
-21.756838005555863,0.06679537897632912,False,Left Foot,Open Play,0,0,1,Normal
-25.773823930491957,0.0681061884151667,False,Right Foot,Open Play,1,0,3,Normal
-7.316419889536137,0.058319934188203595,False,Right Foot,Open Play,1,0,2,Normal
-14.313629868066307,0.061738857091293495,False,Head,Open Play,0,0,2,Diving Header
-19.4164878389476,0.05673570806796809,False,Right Foot,Open Play,0,0,0,Normal
-27.065106687393648,0.05793728333076147,False,Right Foot,Open Play,1,0,0,Normal
-19.52895286491316,0.0552098974036471,False,Right Foot,Open Play,1,1,1,Normal
-15.523530526268825,0.05747433557089681,False,Right Foot,Open Play,1,0,2,Normal
-25.625963396524238,0.06936885206072203,False,Right Foot,Open Play,0,0,1,Half Volley
-18.572291188757518,0.06378085056019075,False,Right Foot,Open Play,1,0,1,Half Volley
-36.44859393721519,0.07799786054713401,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901189,Marcel Tisserand,Toulouse,10.866462165764897,0.05950801306396583,False,Head,Open Play,0,1,4,Normal
+3901189,Morgan Amalfitano,Lille,17.535392781457734,0.06343239361744073,True,Right Foot,Open Play,0,1,2,Normal
+3901189,Mounir Obbadi,Lille,29.08264087045741,0.07197259276887152,False,Right Foot,Open Play,1,0,1,Normal
+3901189,Wissam Ben Yedder,Toulouse,12.38224535373128,0.06112923347856505,False,Head,Open Play,0,1,2,Normal
+3901189,Mounir Obbadi,Lille,41.16369759873376,0.08214366710558864,False,Left Foot,Open Play,1,0,0,Lob
+3901189,Sofiane Boufal,Lille,21.756838005555863,0.06679537897632912,False,Left Foot,Open Play,0,0,1,Normal
+3901189,Éderzito António Macedo Lopes,Lille,25.773823930491957,0.0681061884151667,False,Right Foot,Open Play,1,0,3,Normal
+3901189,Wissam Ben Yedder,Toulouse,7.316419889536137,0.058319934188203595,False,Right Foot,Open Play,1,0,2,Normal
+3901189,Adrien Regattin,Toulouse,14.313629868066307,0.061738857091293495,False,Head,Open Play,0,0,2,Diving Header
+3901189,Tongo Hamed Doumbia,Toulouse,19.4164878389476,0.05673570806796809,False,Right Foot,Open Play,0,0,0,Normal
+3901189,Florent Balmont,Lille,27.065106687393648,0.05793728333076147,False,Right Foot,Open Play,1,0,0,Normal
+3901189,Adrien Regattin,Toulouse,19.52895286491316,0.0552098974036471,False,Right Foot,Open Play,1,1,1,Normal
+3901189,Martin Braithwaite Christensen,Toulouse,15.523530526268825,0.05747433557089681,False,Right Foot,Open Play,1,0,2,Normal
+3901189,Aleksandar Pešić,Toulouse,25.625963396524238,0.06936885206072203,False,Right Foot,Open Play,0,0,1,Half Volley
+3901189,Martin Braithwaite Christensen,Toulouse,18.572291188757518,0.06378085056019075,False,Right Foot,Open Play,1,0,1,Half Volley
+3901189,Jacques François Moubandje,Toulouse,36.44859393721519,0.07799786054713401,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.718361660232206,0.05699909586612029,False,Right Foot,Open Play,1,0,2,Normal
-28.146047679914133,0.07066605249326229,False,Right Foot,Open Play,0,0,1,Normal
-16.461470165206997,0.05379747196754402,False,Right Foot,Open Play,0,0,1,Normal
-30.119926958742784,0.05840447396925252,False,Right Foot,Open Play,1,0,1,Volley
-23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,0,0,2,Normal
-32.13051509079803,0.06980163671393871,False,Left Foot,Open Play,0,0,1,Normal
-17.839282496782204,0.06397042483064744,False,Right Foot,Open Play,0,1,1,Normal
-28.327018904219347,0.05303469857584039,False,Right Foot,Open Play,0,0,1,Normal
-28.690416518412555,0.06535497642016108,False,Right Foot,Open Play,1,0,1,Half Volley
-15.844872987815338,0.05486377173009273,False,Right Foot,Open Play,0,0,1,Normal
-33.29294219500584,0.07430739636203165,False,Right Foot,Open Play,0,0,1,Normal
-28.469281690973517,0.05781856482388969,False,Left Foot,Open Play,0,0,1,Normal
-28.683270385365752,0.07090993233558947,False,Right Foot,Open Play,0,1,1,Normal
-27.069724786188715,0.07045052759785207,False,Left Foot,Open Play,0,1,2,Normal
-12.02206305090769,0.06031682559961093,False,Head,Open Play,0,1,6,Normal
-18.91295852054882,0.053908136976547436,False,Right Foot,Open Play,1,1,1,Normal
-13.74372584127026,0.05598268830130489,False,Head,Open Play,0,1,4,Normal
-11.10405331399305,0.060410575276240726,False,Left Foot,Open Play,1,0,2,Half Volley
-30.96724075535307,0.06470893617043173,False,Right Foot,Open Play,1,0,1,Normal
-18.300273222004087,0.06236449655568464,False,Right Foot,Open Play,0,0,2,Normal
-29.066303514551006,0.06968170318816756,False,Right Foot,Open Play,1,1,1,Normal
-25.203174403237387,0.0653367013486724,False,Right Foot,Open Play,1,0,1,Normal
-29.34706118165838,0.07193014353651679,False,Right Foot,Open Play,0,0,1,Normal
-7.433034373659256,0.05591693069240074,False,Head,Open Play,0,1,2,Normal
-8.409518416651462,0.05798177576752405,False,Head,Open Play,0,1,6,Normal
-29.980827206733313,0.06907074957529567,False,Right Foot,Open Play,0,0,0,Normal
-22.99239004540415,0.061514602686930764,True,Left Foot,Open Play,0,1,1,Normal
-10.264989040422785,0.05546057149702714,False,Head,Open Play,0,0,2,Normal
-13.37011593068662,0.06150724022995087,False,Head,Open Play,0,1,2,Normal
-5.0159744815937755,0.056003310520919954,False,Head,Open Play,0,1,2,Diving Header
-30.653711031455874,0.07111282140346983,False,Right Foot,Open Play,0,0,1,Normal
-37.23237838226293,0.07833821733509726,False,Right Foot,Free Kick,0,0,0,Normal
-10.060318086422516,0.05985904129887976,False,Head,Open Play,0,1,2,Normal
-16.97792684634964,0.05841792164116215,False,Right Foot,Open Play,1,1,2,Overhead Kick
-34.47027705139604,0.0715471184724853,False,Right Foot,Open Play,0,0,0,Normal
-24.67893838883675,0.06690641632938149,False,Right Foot,Open Play,0,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878600,Luiz Adriano de Souza da Silva,AC Milan,11.718361660232206,0.05699909586612029,False,Right Foot,Open Play,1,0,2,Normal
+3878600,Stevan Jovetić,Inter Milan,28.146047679914133,0.07066605249326229,False,Right Foot,Open Play,0,0,1,Normal
+3878600,Luiz Adriano de Souza da Silva,AC Milan,16.461470165206997,0.05379747196754402,False,Right Foot,Open Play,0,0,1,Normal
+3878600,Ivan Perišić,Inter Milan,30.119926958742784,0.05840447396925252,False,Right Foot,Open Play,1,0,1,Volley
+3878600,Keisuke Honda,AC Milan,23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,0,0,2,Normal
+3878600,Geoffrey Kondogbia,Inter Milan,32.13051509079803,0.06980163671393871,False,Left Foot,Open Play,0,0,1,Normal
+3878600,Luiz Adriano de Souza da Silva,AC Milan,17.839282496782204,0.06397042483064744,False,Right Foot,Open Play,0,1,1,Normal
+3878600,Juraj Kucka,AC Milan,28.327018904219347,0.05303469857584039,False,Right Foot,Open Play,0,0,1,Normal
+3878600,Giacomo Bonaventura,AC Milan,28.690416518412555,0.06535497642016108,False,Right Foot,Open Play,1,0,1,Half Volley
+3878600,Fredy Alejandro Guarín Vásquez,Inter Milan,15.844872987815338,0.05486377173009273,False,Right Foot,Open Play,0,0,1,Normal
+3878600,Mattia De Sciglio,AC Milan,33.29294219500584,0.07430739636203165,False,Right Foot,Open Play,0,0,1,Normal
+3878600,Keisuke Honda,AC Milan,28.469281690973517,0.05781856482388969,False,Left Foot,Open Play,0,0,1,Normal
+3878600,Riccardo Montolivo,AC Milan,28.683270385365752,0.07090993233558947,False,Right Foot,Open Play,0,1,1,Normal
+3878600,Stevan Jovetić,Inter Milan,27.069724786188715,0.07045052759785207,False,Left Foot,Open Play,0,1,2,Normal
+3878600,Fredy Alejandro Guarín Vásquez,Inter Milan,12.02206305090769,0.06031682559961093,False,Head,Open Play,0,1,6,Normal
+3878600,Mauro Emanuel Icardi Rivero,Inter Milan,18.91295852054882,0.053908136976547436,False,Right Foot,Open Play,1,1,1,Normal
+3878600,Felipe Melo de Carvalho,Inter Milan,13.74372584127026,0.05598268830130489,False,Head,Open Play,0,1,4,Normal
+3878600,Mauro Emanuel Icardi Rivero,Inter Milan,11.10405331399305,0.060410575276240726,False,Left Foot,Open Play,1,0,2,Half Volley
+3878600,Fredy Alejandro Guarín Vásquez,Inter Milan,30.96724075535307,0.06470893617043173,False,Right Foot,Open Play,1,0,1,Normal
+3878600,Stevan Jovetić,Inter Milan,18.300273222004087,0.06236449655568464,False,Right Foot,Open Play,0,0,2,Normal
+3878600,Riccardo Montolivo,AC Milan,29.066303514551006,0.06968170318816756,False,Right Foot,Open Play,1,1,1,Normal
+3878600,Giacomo Bonaventura,AC Milan,25.203174403237387,0.0653367013486724,False,Right Foot,Open Play,1,0,1,Normal
+3878600,Riccardo Montolivo,AC Milan,29.34706118165838,0.07193014353651679,False,Right Foot,Open Play,0,0,1,Normal
+3878600,Fredy Alejandro Guarín Vásquez,Inter Milan,7.433034373659256,0.05591693069240074,False,Head,Open Play,0,1,2,Normal
+3878600,Fredy Alejandro Guarín Vásquez,Inter Milan,8.409518416651462,0.05798177576752405,False,Head,Open Play,0,1,6,Normal
+3878600,Giacomo Bonaventura,AC Milan,29.980827206733313,0.06907074957529567,False,Right Foot,Open Play,0,0,0,Normal
+3878600,Fredy Alejandro Guarín Vásquez,Inter Milan,22.99239004540415,0.061514602686930764,True,Left Foot,Open Play,0,1,1,Normal
+3878600,Juraj Kucka,AC Milan,10.264989040422785,0.05546057149702714,False,Head,Open Play,0,0,2,Normal
+3878600,Giacomo Bonaventura,AC Milan,13.37011593068662,0.06150724022995087,False,Head,Open Play,0,1,2,Normal
+3878600,Mauro Emanuel Icardi Rivero,Inter Milan,5.0159744815937755,0.056003310520919954,False,Head,Open Play,0,1,2,Diving Header
+3878600,Mario Barwuah Balotelli,AC Milan,30.653711031455874,0.07111282140346983,False,Right Foot,Open Play,0,0,1,Normal
+3878600,Mario Barwuah Balotelli,AC Milan,37.23237838226293,0.07833821733509726,False,Right Foot,Free Kick,0,0,0,Normal
+3878600,Cristian Eduardo Zapata Valencia,AC Milan,10.060318086422516,0.05985904129887976,False,Head,Open Play,0,1,2,Normal
+3878600,Jeison Fabián Murillo Cerón,Inter Milan,16.97792684634964,0.05841792164116215,False,Right Foot,Open Play,1,1,2,Overhead Kick
+3878600,Giacomo Bonaventura,AC Milan,34.47027705139604,0.0715471184724853,False,Right Foot,Open Play,0,0,0,Normal
+3878600,Giacomo Bonaventura,AC Milan,24.67893838883675,0.06690641632938149,False,Right Foot,Open Play,0,1,1,Half Volley

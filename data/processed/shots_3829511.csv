@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.360665341853096,0.05519187980749012,False,Left Foot,Open Play,0,0,1,Normal
-7.907591289387689,0.0560654599161029,False,Head,Open Play,0,1,2,Normal
-33.5538373364359,0.06610641345923897,False,Right Foot,Free Kick,0,0,0,Normal
-25.059928172283332,0.06706942806435348,False,Right Foot,Open Play,1,0,0,Normal
-20.554804791094465,0.0639756688178828,False,Right Foot,Open Play,0,0,2,Normal
-7.106335201775941,0.05769130689527431,False,Head,Open Play,0,1,2,Normal
-16.16446720433433,0.05604424326696605,False,Head,Open Play,0,0,2,Normal
-8.22192191643779,0.05783582074689917,False,Head,Open Play,0,1,3,Normal
-23.397649454592656,0.06777778582836241,False,Left Foot,Open Play,1,0,0,Normal
-31.56010139400696,0.06226653789114422,False,Right Foot,Open Play,1,0,0,Half Volley
-25.224789394561853,0.05901411970792478,False,Left Foot,Open Play,0,0,2,Normal
-14.867750334196492,0.0624981234043748,False,Head,Open Play,0,0,1,Normal
-9.847842403288148,0.058055918336197505,False,Left Foot,Open Play,1,0,2,Half Volley
-31.216181701162625,0.06071920629332118,False,Right Foot,Open Play,0,1,1,Normal
-29.092954473549085,0.06171847510298523,False,Right Foot,Open Play,1,0,0,Half Volley
-17.69180601295414,0.06319993289795597,False,Left Foot,Open Play,0,0,4,Normal
-26.11972434770321,0.05534406231474253,False,Left Foot,Free Kick,0,0,0,Normal
-19.795959183631393,0.05766715812047658,False,Left Foot,Open Play,0,0,2,Normal
-16.83240921555795,0.057467611456469996,False,Left Foot,Open Play,1,1,3,Normal
-26.803357998579212,0.06920702885920099,False,Left Foot,Open Play,1,0,0,Normal
-17.786792853125597,0.0642920573588735,False,Left Foot,Open Play,0,0,2,Normal
-11.827087553578018,0.05788809163608292,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829511,Adam Ounas,Bordeaux,30.360665341853096,0.05519187980749012,False,Left Foot,Open Play,0,0,1,Normal
+3829511,Nicolas Maurice-Belay,Bordeaux,7.907591289387689,0.0560654599161029,False,Head,Open Play,0,1,2,Normal
+3829511,Henri Saivet,Bordeaux,33.5538373364359,0.06610641345923897,False,Right Foot,Free Kick,0,0,0,Normal
+3829511,Henri Saivet,Bordeaux,25.059928172283332,0.06706942806435348,False,Right Foot,Open Play,1,0,0,Normal
+3829511,Rodrigue Casimir Ninga,Montpellier,20.554804791094465,0.0639756688178828,False,Right Foot,Open Play,0,0,2,Normal
+3829511,Rodrigue Casimir Ninga,Montpellier,7.106335201775941,0.05769130689527431,False,Head,Open Play,0,1,2,Normal
+3829511,Paul Lasne,Montpellier,16.16446720433433,0.05604424326696605,False,Head,Open Play,0,0,2,Normal
+3829511,Pablo Nascimento Castro,Bordeaux,8.22192191643779,0.05783582074689917,False,Head,Open Play,0,1,3,Normal
+3829511,Nicolas Maurice-Belay,Bordeaux,23.397649454592656,0.06777778582836241,False,Left Foot,Open Play,1,0,0,Normal
+3829511,William Jean Rémy,Montpellier,31.56010139400696,0.06226653789114422,False,Right Foot,Open Play,1,0,0,Half Volley
+3829511,Adam Ounas,Bordeaux,25.224789394561853,0.05901411970792478,False,Left Foot,Open Play,0,0,2,Normal
+3829511,Henri Saivet,Bordeaux,14.867750334196492,0.0624981234043748,False,Head,Open Play,0,0,1,Normal
+3829511,Adam Ounas,Bordeaux,9.847842403288148,0.058055918336197505,False,Left Foot,Open Play,1,0,2,Half Volley
+3829511,Jaroslav Plašil,Bordeaux,31.216181701162625,0.06071920629332118,False,Right Foot,Open Play,0,1,1,Normal
+3829511,Frédéric Guilbert,Bordeaux,29.092954473549085,0.06171847510298523,False,Right Foot,Open Play,1,0,0,Half Volley
+3829511,Quentin Cornette,Montpellier,17.69180601295414,0.06319993289795597,False,Left Foot,Open Play,0,0,4,Normal
+3829511,Jaroslav Plašil,Bordeaux,26.11972434770321,0.05534406231474253,False,Left Foot,Free Kick,0,0,0,Normal
+3829511,Thomas Touré,Bordeaux,19.795959183631393,0.05766715812047658,False,Left Foot,Open Play,0,0,2,Normal
+3829511,Thomas Touré,Bordeaux,16.83240921555795,0.057467611456469996,False,Left Foot,Open Play,1,1,3,Normal
+3829511,Ryad Boudebouz,Montpellier,26.803357998579212,0.06920702885920099,False,Left Foot,Open Play,1,0,0,Normal
+3829511,Cheick Tidiane Diabaté,Bordeaux,17.786792853125597,0.0642920573588735,False,Left Foot,Open Play,0,0,2,Normal
+3829511,Cheick Tidiane Diabaté,Bordeaux,11.827087553578018,0.05788809163608292,False,Head,Open Play,0,1,4,Normal

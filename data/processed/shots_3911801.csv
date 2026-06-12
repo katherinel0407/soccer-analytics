@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.187318280774557,0.06207807969478486,False,Left Foot,Open Play,0,0,1,Normal
-16.584631439980807,0.05843014853560975,False,Left Foot,Open Play,1,0,1,Half Volley
-18.456435192094922,0.06469252624599751,False,Right Foot,Open Play,0,0,2,Normal
-24.113274352522104,0.06335741743565465,False,Left Foot,Open Play,0,0,3,Normal
-8.640023148117136,0.058851685120398844,False,Head,Open Play,0,0,3,Normal
-24.291562321102365,0.06108878976647982,False,Right Foot,Open Play,0,1,2,Normal
-13.296616110875727,0.06121213193820286,False,Head,Open Play,0,1,4,Normal
-11.08873302050329,0.05966155703402803,False,Left Foot,Open Play,1,0,3,Volley
-7.286288492778747,0.05832845095422173,False,Right Foot,Open Play,1,0,1,Volley
-12.200409829181968,0.060871187100971516,False,Head,Open Play,0,1,2,Normal
-33.811980125393426,0.06458659247531645,False,Right Foot,Open Play,0,0,1,Half Volley
-18.13422179196008,0.05756517883911111,False,Left Foot,Open Play,0,0,1,Normal
-29.496101437308635,0.0721230819067255,False,Right Foot,Open Play,1,1,1,Half Volley
-23.447814397081867,0.06791897661128997,False,Right Foot,Open Play,0,0,4,Normal
-30.459973736035955,0.05493682714090601,False,Left Foot,Open Play,0,0,0,Normal
-25.5049014897137,0.06735302727198396,False,Right Foot,Open Play,1,0,2,Normal
-19.55760721560794,0.06506663757764478,False,Right Foot,Free Kick,0,0,0,Normal
-14.207744367069667,0.062002239215521164,False,Left Foot,Open Play,0,0,1,Half Volley
-7.500666637039671,0.057786512054707605,False,Left Foot,Open Play,1,0,6,Half Volley
-15.787653403846948,0.055474271674993914,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911801,Vanessa Haim,Nürnberg W,14.187318280774557,0.06207807969478486,False,Left Foot,Open Play,0,0,1,Normal
+3911801,Amélie Thöle,Nürnberg W,16.584631439980807,0.05843014853560975,False,Left Foot,Open Play,1,0,1,Half Volley
+3911801,Vanessa Haim,Nürnberg W,18.456435192094922,0.06469252624599751,False,Right Foot,Open Play,0,0,2,Normal
+3911801,Vanessa Fudalla,RB Leipzig W,24.113274352522104,0.06335741743565465,False,Left Foot,Open Play,0,0,3,Normal
+3911801,Victoria Krug,RB Leipzig W,8.640023148117136,0.058851685120398844,False,Head,Open Play,0,0,3,Normal
+3911801,Sandra Starke,RB Leipzig W,24.291562321102365,0.06108878976647982,False,Right Foot,Open Play,0,1,2,Normal
+3911801,Madeleine Steck,Nürnberg W,13.296616110875727,0.06121213193820286,False,Head,Open Play,0,1,4,Normal
+3911801,Medina Desic,Nürnberg W,11.08873302050329,0.05966155703402803,False,Left Foot,Open Play,1,0,3,Volley
+3911801,Vanessa Haim,Nürnberg W,7.286288492778747,0.05832845095422173,False,Right Foot,Open Play,1,0,1,Volley
+3911801,Vanessa Haim,Nürnberg W,12.200409829181968,0.060871187100971516,False,Head,Open Play,0,1,2,Normal
+3911801,Nadja Burkard,Nürnberg W,33.811980125393426,0.06458659247531645,False,Right Foot,Open Play,0,0,1,Half Volley
+3911801,Vanessa Fudalla,RB Leipzig W,18.13422179196008,0.05756517883911111,False,Left Foot,Open Play,0,0,1,Normal
+3911801,Jenny Hipp,RB Leipzig W,29.496101437308635,0.0721230819067255,False,Right Foot,Open Play,1,1,1,Half Volley
+3911801,Luca Maria Graf,RB Leipzig W,23.447814397081867,0.06791897661128997,False,Right Foot,Open Play,0,0,4,Normal
+3911801,Vanessa Fudalla,RB Leipzig W,30.459973736035955,0.05493682714090601,False,Left Foot,Open Play,0,0,0,Normal
+3911801,Lydia Andrade,RB Leipzig W,25.5049014897137,0.06735302727198396,False,Right Foot,Open Play,1,0,2,Normal
+3911801,Jenny Hipp,RB Leipzig W,19.55760721560794,0.06506663757764478,False,Right Foot,Free Kick,0,0,0,Normal
+3911801,Lydia Andrade,RB Leipzig W,14.207744367069667,0.062002239215521164,False,Left Foot,Open Play,0,0,1,Half Volley
+3911801,Marlene Müller,RB Leipzig W,7.500666637039671,0.057786512054707605,False,Left Foot,Open Play,1,0,6,Half Volley
+3911801,Lydia Andrade,RB Leipzig W,15.787653403846948,0.055474271674993914,False,Right Foot,Open Play,0,0,2,Normal

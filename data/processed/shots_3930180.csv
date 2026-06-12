@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.544740676735012,0.06063078895573343,False,Right Foot,Open Play,1,0,1,Normal
-16.05521722057974,0.06317020244047271,False,Left Foot,Open Play,1,0,1,Normal
-18.439631232755165,0.06445111495997274,False,Right Foot,Open Play,1,0,2,Half Volley
-29.85029313088902,0.07253866353369103,False,Right Foot,Open Play,1,0,1,Volley
-25.241434190631875,0.06299409025790771,False,Right Foot,Open Play,0,0,2,Normal
-26.54241887997399,0.07006635867385096,False,Right Foot,Open Play,0,0,1,Normal
-20.602184350209086,0.06586842247530214,False,Right Foot,Open Play,0,0,1,Normal
-7.414849964766647,0.05725206624407033,False,Right Foot,Open Play,1,0,2,Volley
-25.30494022913312,0.06533468711755595,False,Right Foot,Open Play,0,0,2,Normal
-16.070469812671938,0.05593728615896871,False,Right Foot,Open Play,1,0,1,Normal
-6.543699259593151,0.05802991430565526,False,Head,Open Play,0,0,0,Normal
-8.354639429682173,0.057502149778296104,False,Head,Open Play,0,0,7,Normal
-15.962455951387927,0.06314624395339807,True,Right Foot,Open Play,0,0,2,Normal
-6.216912416947817,0.057826455459770804,False,Head,Open Play,0,1,5,Normal
-9.824968193332738,0.058441833848733665,True,Head,Open Play,0,1,2,Normal
-46.65661796572915,0.06980365376198727,False,Right Foot,Open Play,0,0,1,Half Volley
-10.599056561788881,0.05973426719533998,True,Right Foot,Open Play,0,1,2,Half Volley
-12.034118164618457,0.059853082540623784,True,Left Foot,Open Play,1,0,1,Normal
-12.766362050325851,0.0594075775876122,False,Head,Open Play,0,1,2,Diving Header
-17.304623659588785,0.06261873436332246,False,Right Foot,Open Play,0,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3930180,Tijjani Reijnders,Netherlands,13.544740676735012,0.06063078895573343,False,Right Foot,Open Play,1,0,1,Normal
+3930180,Donyell Malen,Netherlands,16.05521722057974,0.06317020244047271,False,Left Foot,Open Play,1,0,1,Normal
+3930180,Marcel Sabitzer,Austria,18.439631232755165,0.06445111495997274,False,Right Foot,Open Play,1,0,2,Half Volley
+3930180,Florian Grillitsch,Austria,29.85029313088902,0.07253866353369103,False,Right Foot,Open Play,1,0,1,Volley
+3930180,Tijjani Reijnders,Netherlands,25.241434190631875,0.06299409025790771,False,Right Foot,Open Play,0,0,2,Normal
+3930180,Marcel Sabitzer,Austria,26.54241887997399,0.07006635867385096,False,Right Foot,Open Play,0,0,1,Normal
+3930180,Florian Grillitsch,Austria,20.602184350209086,0.06586842247530214,False,Right Foot,Open Play,0,0,1,Normal
+3930180,Marko Arnautović,Austria,7.414849964766647,0.05725206624407033,False,Right Foot,Open Play,1,0,2,Volley
+3930180,Patrick Wimmer,Austria,25.30494022913312,0.06533468711755595,False,Right Foot,Open Play,0,0,2,Normal
+3930180,Jerdy Schouten,Netherlands,16.070469812671938,0.05593728615896871,False,Right Foot,Open Play,1,0,1,Normal
+3930180,Memphis Depay,Netherlands,6.543699259593151,0.05802991430565526,False,Head,Open Play,0,0,0,Normal
+3930180,Florian Grillitsch,Austria,8.354639429682173,0.057502149778296104,False,Head,Open Play,0,0,7,Normal
+3930180,Cody Mathès Gakpo,Netherlands,15.962455951387927,0.06314624395339807,True,Right Foot,Open Play,0,0,2,Normal
+3930180,Virgil van Dijk,Netherlands,6.216912416947817,0.057826455459770804,False,Head,Open Play,0,1,5,Normal
+3930180,Romano Schmid,Austria,9.824968193332738,0.058441833848733665,True,Head,Open Play,0,1,2,Normal
+3930180,Xavi Simons,Netherlands,46.65661796572915,0.06980365376198727,False,Right Foot,Open Play,0,0,1,Half Volley
+3930180,Memphis Depay,Netherlands,10.599056561788881,0.05973426719533998,True,Right Foot,Open Play,0,1,2,Half Volley
+3930180,Marcel Sabitzer,Austria,12.034118164618457,0.059853082540623784,True,Left Foot,Open Play,1,0,1,Normal
+3930180,Wout Weghorst,Netherlands,12.766362050325851,0.0594075775876122,False,Head,Open Play,0,1,2,Diving Header
+3930180,Memphis Depay,Netherlands,17.304623659588785,0.06261873436332246,False,Right Foot,Open Play,0,0,0,Half Volley

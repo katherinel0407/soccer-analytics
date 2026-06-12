@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.667201249773548,0.05329064314816253,False,Left Foot,Open Play,0,0,1,Normal
-29.236962906567427,0.05717104166190999,False,Left Foot,Free Kick,0,0,0,Normal
-11.503912377969506,0.05729273606276674,False,Head,Open Play,0,0,3,Normal
-17.71383639983163,0.06234092155784176,False,Right Foot,Open Play,0,0,1,Normal
-3.3015148038438324,0.0561504057444792,True,Right Foot,Open Play,1,0,2,Normal
-5.464430436925701,0.05749601411129156,False,Left Foot,Open Play,1,1,3,Normal
-14.866068747318502,0.060240922082774095,False,Right Foot,Open Play,1,0,0,Normal
-12.206555615733706,0.05981923358880575,False,Left Foot,Open Play,1,0,1,Half Volley
-8.74642784226795,0.05916225288996153,False,Head,Open Play,0,0,3,Normal
-14.800675660252805,0.06212576510462979,False,Right Foot,Open Play,1,1,2,Normal
-25.67975856584325,0.0633601209250834,False,Right Foot,Open Play,0,1,1,Half Volley
-15.340469353966975,0.062185591627943584,False,Left Foot,Open Play,0,1,1,Normal
-21.996590644915862,0.06631869007636813,False,Right Foot,Open Play,1,0,0,Normal
-14.616771189288004,0.06096174860266447,True,Right Foot,Open Play,0,0,3,Normal
-20.052929960482082,0.055916412174341616,False,Left Foot,Open Play,1,0,2,Half Volley
-16.322070947033655,0.056111502503466165,True,Right Foot,Open Play,0,0,1,Normal
-29.179616172938264,0.07156412341463414,False,Right Foot,Open Play,0,0,1,Normal
-26.35185002993149,0.06983259833045966,False,Right Foot,Free Kick,0,0,0,Normal
-35.73023929390902,0.07718104403637806,False,Right Foot,Free Kick,0,0,0,Normal
-21.711057090800526,0.05447448534343243,False,Right Foot,Open Play,0,0,1,Normal
-13.340539719216766,0.058698476906978686,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890471,Thorgan Hazard,Borussia Mönchengladbach,17.667201249773548,0.05329064314816253,False,Left Foot,Open Play,0,0,1,Normal
+3890471,Daniel Didavi,VfB Stuttgart,29.236962906567427,0.05717104166190999,False,Left Foot,Free Kick,0,0,0,Normal
+3890471,Timo Werner,VfB Stuttgart,11.503912377969506,0.05729273606276674,False,Head,Open Play,0,0,3,Normal
+3890471,Lars Edi Stindl,Borussia Mönchengladbach,17.71383639983163,0.06234092155784176,False,Right Foot,Open Play,0,0,1,Normal
+3890471,Thorgan Hazard,Borussia Mönchengladbach,3.3015148038438324,0.0561504057444792,True,Right Foot,Open Play,1,0,2,Normal
+3890471,Lars Edi Stindl,Borussia Mönchengladbach,5.464430436925701,0.05749601411129156,False,Left Foot,Open Play,1,1,3,Normal
+3890471,Thorgan Hazard,Borussia Mönchengladbach,14.866068747318502,0.060240922082774095,False,Right Foot,Open Play,1,0,0,Normal
+3890471,Thorgan Hazard,Borussia Mönchengladbach,12.206555615733706,0.05981923358880575,False,Left Foot,Open Play,1,0,1,Half Volley
+3890471,Artem Kravets,VfB Stuttgart,8.74642784226795,0.05916225288996153,False,Head,Open Play,0,0,3,Normal
+3890471,Lars Edi Stindl,Borussia Mönchengladbach,14.800675660252805,0.06212576510462979,False,Right Foot,Open Play,1,1,2,Normal
+3890471,Lukas Rupp,VfB Stuttgart,25.67975856584325,0.0633601209250834,False,Right Foot,Open Play,0,1,1,Half Volley
+3890471,Raffael Caetano de Araújo,Borussia Mönchengladbach,15.340469353966975,0.062185591627943584,False,Left Foot,Open Play,0,1,1,Normal
+3890471,Thorgan Hazard,Borussia Mönchengladbach,21.996590644915862,0.06631869007636813,False,Right Foot,Open Play,1,0,0,Normal
+3890471,Raffael Caetano de Araújo,Borussia Mönchengladbach,14.616771189288004,0.06096174860266447,True,Right Foot,Open Play,0,0,3,Normal
+3890471,Fabian Johnson,Borussia Mönchengladbach,20.052929960482082,0.055916412174341616,False,Left Foot,Open Play,1,0,2,Half Volley
+3890471,Patrick Herrmann,Borussia Mönchengladbach,16.322070947033655,0.056111502503466165,True,Right Foot,Open Play,0,0,1,Normal
+3890471,Artem Kravets,VfB Stuttgart,29.179616172938264,0.07156412341463414,False,Right Foot,Open Play,0,0,1,Normal
+3890471,Raffael Caetano de Araújo,Borussia Mönchengladbach,26.35185002993149,0.06983259833045966,False,Right Foot,Free Kick,0,0,0,Normal
+3890471,Håvard Nordtveit,Borussia Mönchengladbach,35.73023929390902,0.07718104403637806,False,Right Foot,Free Kick,0,0,0,Normal
+3890471,Lukas Rupp,VfB Stuttgart,21.711057090800526,0.05447448534343243,False,Right Foot,Open Play,0,0,1,Normal
+3890471,Martin Harnik,VfB Stuttgart,13.340539719216766,0.058698476906978686,False,Head,Open Play,0,1,1,Normal

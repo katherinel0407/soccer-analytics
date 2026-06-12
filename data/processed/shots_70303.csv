@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.80029761641144,0.053811658336761145,False,Right Foot,Open Play,0,0,1,Normal
-5.1,0.05729304778718571,True,Left Foot,Open Play,1,0,4,Normal
-21.6453228204155,0.064818348657475,False,Left Foot,Open Play,1,0,0,Normal
-6.38122245341753,0.05795102863410062,False,Left Foot,Open Play,1,0,4,Normal
-20.777150911518163,0.06617074014948482,False,Right Foot,Open Play,1,0,2,Normal
-19.984994370777297,0.06481229698330375,False,Right Foot,Open Play,1,1,1,Normal
-30.92329219213246,0.06767389503344835,False,Right Foot,Open Play,1,0,1,Volley
-6.935416353759886,0.057291509231921355,False,Head,Open Play,0,0,3,Normal
-11.327841806805031,0.0603402429159039,False,Head,Open Play,0,0,1,Normal
-11.449017425089366,0.05288162197808536,False,Right Foot,Open Play,0,0,3,Normal
-13.647344063956181,0.061814907376489855,True,Right Foot,Open Play,1,0,0,Normal
-15.673225577397906,0.06228814529236379,False,Head,Open Play,0,0,2,Normal
-10.893117092916981,0.055352767601568834,False,Head,Open Play,0,1,1,Normal
-24.095850265139013,0.0683854605573465,False,Right Foot,Open Play,0,0,2,Normal
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-19.65756851698602,0.06503606751716763,False,Right Foot,Open Play,0,0,1,Normal
-11.326517558367179,0.060104481642925596,False,Left Foot,Open Play,0,1,4,Normal
-32.03248351283428,0.07309675139841673,False,Left Foot,Free Kick,0,0,0,Normal
-21.062288574606516,0.059957422916161886,False,Left Foot,Open Play,1,1,1,Normal
-32.90379917273992,0.06909138181052085,False,Right Foot,Open Play,1,0,1,Half Volley
-8.273451516749228,0.05649070171103731,True,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70303,Lionel Andrés Messi Cuccittini,Barcelona,16.80029761641144,0.053811658336761145,False,Right Foot,Open Play,0,0,1,Normal
+70303,Neymar da Silva Santos Junior,Barcelona,5.1,0.05729304778718571,True,Left Foot,Open Play,1,0,4,Normal
+70303,Jordi Alba Ramos,Barcelona,21.6453228204155,0.064818348657475,False,Left Foot,Open Play,1,0,0,Normal
+70303,Luis Alberto Suárez Díaz,Barcelona,6.38122245341753,0.05795102863410062,False,Left Foot,Open Play,1,0,4,Normal
+70303,Jorge Resurrección Merodio,Atlético Madrid,20.777150911518163,0.06617074014948482,False,Right Foot,Open Play,1,0,2,Normal
+70303,Neymar da Silva Santos Junior,Barcelona,19.984994370777297,0.06481229698330375,False,Right Foot,Open Play,1,1,1,Normal
+70303,Ivan Rakitić,Barcelona,30.92329219213246,0.06767389503344835,False,Right Foot,Open Play,1,0,1,Volley
+70303,Neymar da Silva Santos Junior,Barcelona,6.935416353759886,0.057291509231921355,False,Head,Open Play,0,0,3,Normal
+70303,Neymar da Silva Santos Junior,Barcelona,11.327841806805031,0.0603402429159039,False,Head,Open Play,0,0,1,Normal
+70303,Lionel Andrés Messi Cuccittini,Barcelona,11.449017425089366,0.05288162197808536,False,Right Foot,Open Play,0,0,3,Normal
+70303,Luis Alberto Suárez Díaz,Barcelona,13.647344063956181,0.061814907376489855,True,Right Foot,Open Play,1,0,0,Normal
+70303,Lionel Andrés Messi Cuccittini,Barcelona,15.673225577397906,0.06228814529236379,False,Head,Open Play,0,0,2,Normal
+70303,Diego Roberto Godín Leal,Atlético Madrid,10.893117092916981,0.055352767601568834,False,Head,Open Play,0,1,1,Normal
+70303,Andrés Iniesta Luján,Barcelona,24.095850265139013,0.0683854605573465,False,Right Foot,Open Play,0,0,2,Normal
+70303,Mario Mandžukić,Atlético Madrid,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+70303,Neymar da Silva Santos Junior,Barcelona,19.65756851698602,0.06503606751716763,False,Right Foot,Open Play,0,0,1,Normal
+70303,Lionel Andrés Messi Cuccittini,Barcelona,11.326517558367179,0.060104481642925596,False,Left Foot,Open Play,0,1,4,Normal
+70303,Lionel Andrés Messi Cuccittini,Barcelona,32.03248351283428,0.07309675139841673,False,Left Foot,Free Kick,0,0,0,Normal
+70303,Lionel Andrés Messi Cuccittini,Barcelona,21.062288574606516,0.059957422916161886,False,Left Foot,Open Play,1,1,1,Normal
+70303,Tiago Cardoso Mendes,Atlético Madrid,32.90379917273992,0.06909138181052085,False,Right Foot,Open Play,1,0,1,Half Volley
+70303,Lionel Andrés Messi Cuccittini,Barcelona,8.273451516749228,0.05649070171103731,True,Left Foot,Open Play,0,0,3,Normal

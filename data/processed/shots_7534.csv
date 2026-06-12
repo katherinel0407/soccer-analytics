@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.212670403551895,0.06171667333254851,False,Right Foot,Open Play,0,0,3,Normal
-15.231546211727817,0.0524395051352899,False,Right Foot,Open Play,0,0,1,Normal
-17.029386365926403,0.061337337653039524,False,Left Foot,Open Play,0,1,1,Half Volley
-25.079872407968907,0.066411974585162,False,Right Foot,Free Kick,0,0,0,Normal
-29.0,0.06740348403237609,False,Right Foot,Open Play,0,1,2,Normal
-10.04987562112089,0.05910387785405155,False,Head,Open Play,0,0,4,Normal
-28.635642126552707,0.0715036143149941,False,Right Foot,Open Play,1,0,0,Half Volley
-37.12142238654117,0.07860962014154133,False,Right Foot,Open Play,0,0,1,Normal
-16.15549442140351,0.05848161988819341,False,Left Foot,Open Play,0,0,3,Normal
-26.419689627245813,0.07001551335143366,False,Left Foot,Open Play,0,0,1,Normal
-21.93171219946131,0.06676456494118087,False,Left Foot,Open Play,0,0,2,Normal
-25.019992006393608,0.06592787182616974,False,Right Foot,Open Play,0,0,1,Normal
-23.769728648009426,0.06719083977593687,False,Right Foot,Open Play,0,1,1,Normal
-13.601470508735444,0.061812598113754634,True,Right Foot,Open Play,0,0,2,Normal
-16.401219466856727,0.05614516653493011,False,Right Foot,Open Play,1,0,1,Volley
-26.570660511172846,0.06085738750959254,False,Right Foot,Free Kick,0,0,0,Normal
-19.697715603592208,0.06531788956144415,False,Left Foot,Open Play,0,1,2,Normal
-26.92582403567252,0.07004540394100207,False,Left Foot,Open Play,0,0,1,Normal
-27.0,0.06641121129317956,False,Left Foot,Open Play,0,0,2,Normal
-21.213203435596427,0.06595439570017494,False,Right Foot,Open Play,1,0,1,Normal
-18.439088914585774,0.06380181878070314,False,Right Foot,Open Play,0,0,2,Normal
-21.095023109728988,0.0663790356225681,False,Left Foot,Open Play,1,0,0,Normal
-22.847319317591726,0.0673189681267889,False,Right Foot,Open Play,0,0,3,Normal
-11.045361017187261,0.058822261465885754,False,Right Foot,Open Play,1,0,2,Overhead Kick
-18.35755975068582,0.06462474310610325,False,Right Foot,Open Play,0,0,2,Normal
-8.48528137423857,0.05895299279142968,False,Right Foot,Open Play,1,0,1,Volley
-18.973665961010276,0.05100485838251827,False,Right Foot,Open Play,0,0,1,Volley
-21.93171219946131,0.059022694088302366,False,Right Foot,Open Play,1,0,0,Normal
-14.0,0.060438191179105843,False,Left Foot,Open Play,0,1,3,Normal
-24.351591323771842,0.06061488589249553,False,Right Foot,Open Play,0,1,1,Normal
-24.186773244895647,0.05794841336575842,False,Left Foot,Open Play,1,1,1,Half Volley
-23.600847442411894,0.05636136207591756,False,Right Foot,Open Play,0,1,1,Normal
-22.135943621178654,0.06652908246992177,False,Left Foot,Open Play,0,1,1,Normal
-8.602325267042627,0.059095933698217445,False,Head,Open Play,0,1,2,Normal
-7.0,0.05755567023984417,False,Head,Open Play,0,1,2,Normal
-3.1622776601683795,0.05629777381173174,False,Right Foot,Open Play,0,0,3,Normal
-25.632011235952593,0.06903096576610863,False,Right Foot,Open Play,0,0,0,Half Volley
-31.400636936215164,0.05560754652686434,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7534,Hirving Rodrigo Lozano Bahena,Mexico,14.212670403551895,0.06171667333254851,False,Right Foot,Open Play,0,0,3,Normal
+7534,Timo Werner,Germany,15.231546211727817,0.0524395051352899,False,Right Foot,Open Play,0,0,1,Normal
+7534,Mats Hummels,Germany,17.029386365926403,0.061337337653039524,False,Left Foot,Open Play,0,1,1,Half Volley
+7534,Miguel Arturo Layún Prado,Mexico,25.079872407968907,0.066411974585162,False,Right Foot,Free Kick,0,0,0,Normal
+7534,Héctor Miguel Herrera López,Mexico,29.0,0.06740348403237609,False,Right Foot,Open Play,0,1,2,Normal
+7534,Héctor Alfredo Moreno Herrera,Mexico,10.04987562112089,0.05910387785405155,False,Head,Open Play,0,0,4,Normal
+7534,Julian Draxler,Germany,28.635642126552707,0.0715036143149941,False,Right Foot,Open Play,1,0,0,Half Volley
+7534,Toni Kroos,Germany,37.12142238654117,0.07860962014154133,False,Right Foot,Open Play,0,0,1,Normal
+7534,Timo Werner,Germany,16.15549442140351,0.05848161988819341,False,Left Foot,Open Play,0,0,3,Normal
+7534,Toni Kroos,Germany,26.419689627245813,0.07001551335143366,False,Left Foot,Open Play,0,0,1,Normal
+7534,Javier Hernández Balcázar,Mexico,21.93171219946131,0.06676456494118087,False,Left Foot,Open Play,0,0,2,Normal
+7534,Miguel Arturo Layún Prado,Mexico,25.019992006393608,0.06592787182616974,False,Right Foot,Open Play,0,0,1,Normal
+7534,Miguel Arturo Layún Prado,Mexico,23.769728648009426,0.06719083977593687,False,Right Foot,Open Play,0,1,1,Normal
+7534,Hirving Rodrigo Lozano Bahena,Mexico,13.601470508735444,0.061812598113754634,True,Right Foot,Open Play,0,0,2,Normal
+7534,Sami Khedira,Germany,16.401219466856727,0.05614516653493011,False,Right Foot,Open Play,1,0,1,Volley
+7534,Toni Kroos,Germany,26.570660511172846,0.06085738750959254,False,Right Foot,Free Kick,0,0,0,Normal
+7534,Carlos Alberto Vela Garrido,Mexico,19.697715603592208,0.06531788956144415,False,Left Foot,Open Play,0,1,2,Normal
+7534,Marvin Plattenhardt,Germany,26.92582403567252,0.07004540394100207,False,Left Foot,Open Play,0,0,1,Normal
+7534,Joshua Kimmich,Germany,27.0,0.06641121129317956,False,Left Foot,Open Play,0,0,2,Normal
+7534,Julian Draxler,Germany,21.213203435596427,0.06595439570017494,False,Right Foot,Open Play,1,0,1,Normal
+7534,Toni Kroos,Germany,18.439088914585774,0.06380181878070314,False,Right Foot,Open Play,0,0,2,Normal
+7534,José Andrés Guardado Hernández,Mexico,21.095023109728988,0.0663790356225681,False,Left Foot,Open Play,1,0,0,Normal
+7534,Julian Draxler,Germany,22.847319317591726,0.0673189681267889,False,Right Foot,Open Play,0,0,3,Normal
+7534,Joshua Kimmich,Germany,11.045361017187261,0.058822261465885754,False,Right Foot,Open Play,1,0,2,Overhead Kick
+7534,Julian Draxler,Germany,18.35755975068582,0.06462474310610325,False,Right Foot,Open Play,0,0,2,Normal
+7534,Timo Werner,Germany,8.48528137423857,0.05895299279142968,False,Right Foot,Open Play,1,0,1,Volley
+7534,Marco Reus,Germany,18.973665961010276,0.05100485838251827,False,Right Foot,Open Play,0,0,1,Volley
+7534,Toni Kroos,Germany,21.93171219946131,0.059022694088302366,False,Right Foot,Open Play,1,0,0,Normal
+7534,Julian Draxler,Germany,14.0,0.060438191179105843,False,Left Foot,Open Play,0,1,3,Normal
+7534,Miguel Arturo Layún Prado,Mexico,24.351591323771842,0.06061488589249553,False,Right Foot,Open Play,0,1,1,Normal
+7534,Mesut Özil,Germany,24.186773244895647,0.05794841336575842,False,Left Foot,Open Play,1,1,1,Half Volley
+7534,Miguel Arturo Layún Prado,Mexico,23.600847442411894,0.05636136207591756,False,Right Foot,Open Play,0,1,1,Normal
+7534,Toni Kroos,Germany,22.135943621178654,0.06652908246992177,False,Left Foot,Open Play,0,1,1,Normal
+7534,Mario Gómez García,Germany,8.602325267042627,0.059095933698217445,False,Head,Open Play,0,1,2,Normal
+7534,Mario Gómez García,Germany,7.0,0.05755567023984417,False,Head,Open Play,0,1,2,Normal
+7534,Mario Gómez García,Germany,3.1622776601683795,0.05629777381173174,False,Right Foot,Open Play,0,0,3,Normal
+7534,Julian Brandt,Germany,25.632011235952593,0.06903096576610863,False,Right Foot,Open Play,0,0,0,Half Volley
+7534,Jérôme Boateng,Germany,31.400636936215164,0.05560754652686434,False,Left Foot,Open Play,0,0,1,Normal

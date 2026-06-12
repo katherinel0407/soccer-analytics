@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.70469991071963,0.060168941675701984,False,Head,Open Play,0,0,2,Normal
-14.985659811966912,0.058227420098111576,True,Left Foot,Open Play,0,0,3,Lob
-9.669022701390249,0.05916157732899778,False,Right Foot,Open Play,1,0,2,Volley
-29.107559155655768,0.06602752818207122,False,Left Foot,Free Kick,0,0,0,Normal
-27.051986988019937,0.05807092436503339,False,Left Foot,Free Kick,0,0,0,Normal
-14.369411957348849,0.061343417322439635,False,Right Foot,Open Play,1,0,1,Volley
-26.06395979125198,0.06393763367485668,False,Left Foot,Free Kick,0,0,0,Normal
-22.273302404448252,0.059965242990432786,False,Left Foot,Open Play,0,1,3,Normal
-34.20716299256634,0.07587608700530955,False,Right Foot,Open Play,0,0,0,Normal
-27.07563480326916,0.0704033013117666,False,Left Foot,Open Play,0,0,2,Normal
-12.270289320142368,0.06080716528680696,False,Left Foot,Open Play,1,0,1,Volley
-28.589683454001378,0.0716069444653416,False,Right Foot,Open Play,0,0,3,Normal
-33.86000590667403,0.06161414901703984,False,Right Foot,Open Play,0,0,0,Normal
-18.14083790788066,0.06350878488438924,False,Right Foot,Open Play,0,0,2,Half Volley
-17.949373248110923,0.06275816734301583,False,Left Foot,Open Play,0,1,1,Normal
-13.120975573485385,0.06152759487065046,False,Left Foot,Open Play,1,0,1,Half Volley
-24.194420844483957,0.0683878372355665,False,Right Foot,Open Play,0,1,2,Normal
-13.981773850266636,0.06203935272208447,True,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825631,Jorge Resurrección Merodio,Atlético Madrid,11.70469991071963,0.060168941675701984,False,Head,Open Play,0,0,2,Normal
+3825631,Antoine Griezmann,Atlético Madrid,14.985659811966912,0.058227420098111576,True,Left Foot,Open Play,0,0,3,Lob
+3825631,David Zurutuza Veillet,Real Sociedad,9.669022701390249,0.05916157732899778,False,Right Foot,Open Play,1,0,2,Volley
+3825631,Sergio Canales Madrazo,Real Sociedad,29.107559155655768,0.06602752818207122,False,Left Foot,Free Kick,0,0,0,Normal
+3825631,Sergio Canales Madrazo,Real Sociedad,27.051986988019937,0.05807092436503339,False,Left Foot,Free Kick,0,0,0,Normal
+3825631,Imanol Agirretxe Arruti,Real Sociedad,14.369411957348849,0.061343417322439635,False,Right Foot,Open Play,1,0,1,Volley
+3825631,Antoine Griezmann,Atlético Madrid,26.06395979125198,0.06393763367485668,False,Left Foot,Free Kick,0,0,0,Normal
+3825631,Jackson Arley Martínez Valencia,Atlético Madrid,22.273302404448252,0.059965242990432786,False,Left Foot,Open Play,0,1,3,Normal
+3825631,Asier Illarramendi Andonegi,Real Sociedad,34.20716299256634,0.07587608700530955,False,Right Foot,Open Play,0,0,0,Normal
+3825631,Carlos Alberto Vela Garrido,Real Sociedad,27.07563480326916,0.0704033013117666,False,Left Foot,Open Play,0,0,2,Normal
+3825631,Íñigo Martínez Berridi,Real Sociedad,12.270289320142368,0.06080716528680696,False,Left Foot,Open Play,1,0,1,Volley
+3825631,Armindo Tué Na Bangna,Real Sociedad,28.589683454001378,0.0716069444653416,False,Right Foot,Open Play,0,0,3,Normal
+3825631,Diego Antonio Reyes Rosales,Real Sociedad,33.86000590667403,0.06161414901703984,False,Right Foot,Open Play,0,0,0,Normal
+3825631,Carlos Alberto Vela Garrido,Real Sociedad,18.14083790788066,0.06350878488438924,False,Right Foot,Open Play,0,0,2,Half Volley
+3825631,Saúl Ñíguez Esclapez,Atlético Madrid,17.949373248110923,0.06275816734301583,False,Left Foot,Open Play,0,1,1,Normal
+3825631,Tiago Cardoso Mendes,Atlético Madrid,13.120975573485385,0.06152759487065046,False,Left Foot,Open Play,1,0,1,Half Volley
+3825631,Imanol Agirretxe Arruti,Real Sociedad,24.194420844483957,0.0683878372355665,False,Right Foot,Open Play,0,1,2,Normal
+3825631,Yannick Ferreira Carrasco,Atlético Madrid,13.981773850266636,0.06203935272208447,True,Left Foot,Open Play,0,0,3,Normal

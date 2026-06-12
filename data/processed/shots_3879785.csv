@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.681961721786358,0.06240725698350408,False,Right Foot,Open Play,1,0,1,Half Volley
-13.624243098242188,0.05631488698034288,False,Right Foot,Open Play,0,1,1,Normal
-23.603813251252433,0.06804201367006389,False,Right Foot,Open Play,0,0,2,Normal
-33.373642294481435,0.07158705500817172,False,Left Foot,Open Play,1,0,0,Volley
-31.756889016400834,0.07397545805393504,False,Right Foot,Open Play,0,0,0,Normal
-20.34158302591025,0.057304556471005935,False,Right Foot,Open Play,1,0,0,Half Volley
-10.176934705499496,0.05980005136859741,False,Head,Open Play,0,1,4,Normal
-11.046266337545918,0.06033853257790996,False,Head,Open Play,0,1,3,Normal
-18.252123164169145,0.054653109916000274,True,Right Foot,Open Play,1,0,1,Normal
-16.71705715728698,0.05952403378658526,False,Right Foot,Open Play,0,0,2,Normal
-21.540659228538015,0.0647082998429969,False,Left Foot,Open Play,0,0,1,Normal
-13.24839612934335,0.06159463799992004,False,Left Foot,Open Play,1,1,2,Normal
-22.800219297190974,0.06042195408727231,False,Right Foot,Open Play,1,0,0,Half Volley
-15.601281998605112,0.05632879715854903,False,Right Foot,Open Play,0,1,2,Normal
-35.933967217661895,0.07610778468716611,False,Right Foot,Open Play,0,0,0,Normal
-10.508092119885507,0.05779006344269134,True,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879785,Gabriel Alejandro Paletta,Atalanta,14.681961721786358,0.06240725698350408,False,Right Foot,Open Play,1,0,1,Half Volley
+3879785,Marco D''Alessandro,Atalanta,13.624243098242188,0.05631488698034288,False,Right Foot,Open Play,0,1,1,Normal
+3879785,Alejandro Darío Gómez,Atalanta,23.603813251252433,0.06804201367006389,False,Right Foot,Open Play,0,0,2,Normal
+3879785,Ogenyi Eddy Onazi,Lazio,33.373642294481435,0.07158705500817172,False,Left Foot,Open Play,1,0,0,Volley
+3879785,Mauricio Ricardo Pinilla Ferreira,Atalanta,31.756889016400834,0.07397545805393504,False,Right Foot,Open Play,0,0,0,Normal
+3879785,Luca Cigarini,Atalanta,20.34158302591025,0.057304556471005935,False,Right Foot,Open Play,1,0,0,Half Volley
+3879785,Miroslav Klose,Lazio,10.176934705499496,0.05980005136859741,False,Head,Open Play,0,1,4,Normal
+3879785,Gabriel Alejandro Paletta,Atalanta,11.046266337545918,0.06033853257790996,False,Head,Open Play,0,1,3,Normal
+3879785,Miroslav Klose,Lazio,18.252123164169145,0.054653109916000274,True,Right Foot,Open Play,1,0,1,Normal
+3879785,Luca Cigarini,Atalanta,16.71705715728698,0.05952403378658526,False,Right Foot,Open Play,0,0,2,Normal
+3879785,Marco Borriello,Atalanta,21.540659228538015,0.0647082998429969,False,Left Foot,Open Play,0,0,1,Normal
+3879785,Marco D''Alessandro,Atalanta,13.24839612934335,0.06159463799992004,False,Left Foot,Open Play,1,1,2,Normal
+3879785,Rafael Tolói,Atalanta,22.800219297190974,0.06042195408727231,False,Right Foot,Open Play,1,0,0,Half Volley
+3879785,Felipe Anderson Pereira Gomes,Lazio,15.601281998605112,0.05632879715854903,False,Right Foot,Open Play,0,1,2,Normal
+3879785,Jasmin Kurtič,Atalanta,35.933967217661895,0.07610778468716611,False,Right Foot,Open Play,0,0,0,Normal
+3879785,Miroslav Klose,Lazio,10.508092119885507,0.05779006344269134,True,Right Foot,Open Play,1,0,2,Normal

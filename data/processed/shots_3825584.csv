@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.58007971642262,0.0614007571605549,False,Left Foot,Open Play,1,0,0,Normal
-10.435037134576955,0.05567027108408352,False,Head,Open Play,0,1,5,Normal
-29.002241292700123,0.07191368525994812,False,Left Foot,Open Play,0,0,1,Normal
-24.379089400549805,0.06855434819473809,False,Left Foot,Open Play,0,0,2,Normal
-28.440112517358294,0.05180977018376239,False,Left Foot,Open Play,0,0,1,Normal
-21.262408142070832,0.06622190320421842,True,Right Foot,Open Play,0,0,1,Normal
-13.908630414242808,0.059400594401869046,True,Right Foot,Open Play,1,0,2,Normal
-21.896118377465903,0.06672909362229029,False,Left Foot,Open Play,1,0,0,Volley
-33.48447401408599,0.07481585881391865,False,Right Foot,Open Play,0,0,1,Half Volley
-31.092282000522257,0.06250488284435754,False,Left Foot,Open Play,0,0,1,Half Volley
-6.801470429252782,0.05498439309653289,False,Head,Open Play,0,0,2,Normal
-27.07489612168438,0.062226442113785564,False,Left Foot,Open Play,0,0,2,Normal
-15.074813431681335,0.06028564701378466,True,Right Foot,Open Play,1,0,3,Half Volley
-18.867167248953937,0.053337604988563755,False,Right Foot,Open Play,1,0,1,Normal
-25.80426321366297,0.06113489364297384,False,Left Foot,Open Play,0,1,3,Normal
-6.118823416311343,0.057534268305218975,False,Head,Open Play,0,1,7,Normal
-17.366634676873925,0.059843730931991926,False,Right Foot,Open Play,1,0,1,Volley
-16.19783936208777,0.06239788803618518,False,Right Foot,Open Play,1,0,0,Normal
-34.34239362653687,0.07595503072776127,False,Left Foot,Open Play,1,0,1,Half Volley
-6.711929677819927,0.056306527946686266,False,Head,Open Play,0,0,1,Normal
-13.420134127496643,0.061700155091539935,False,Right Foot,Open Play,1,0,1,Volley
-18.005554698481237,0.06426407453340936,False,Right Foot,Open Play,1,0,1,Normal
-12.97998459167036,0.05394613271868274,True,Right Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825584,Javier Márquez Moreno,Granada,22.58007971642262,0.0614007571605549,False,Left Foot,Open Play,1,0,0,Normal
+3825584,Roberto Soldado Rillo,Villarreal,10.435037134576955,0.05567027108408352,False,Head,Open Play,0,1,5,Normal
+3825584,Javier Márquez Moreno,Granada,29.002241292700123,0.07191368525994812,False,Left Foot,Open Play,0,0,1,Normal
+3825584,Samuel Castillejo Azuaga,Villarreal,24.379089400549805,0.06855434819473809,False,Left Foot,Open Play,0,0,2,Normal
+3825584,Samuel Castillejo Azuaga,Villarreal,28.440112517358294,0.05180977018376239,False,Left Foot,Open Play,0,0,1,Normal
+3825584,Manuel Trigueros Muñoz,Villarreal,21.262408142070832,0.06622190320421842,True,Right Foot,Open Play,0,0,1,Normal
+3825584,Cédric Bakambu,Villarreal,13.908630414242808,0.059400594401869046,True,Right Foot,Open Play,1,0,2,Normal
+3825584,Javier Márquez Moreno,Granada,21.896118377465903,0.06672909362229029,False,Left Foot,Open Play,1,0,0,Volley
+3825584,Isaac Ajayi Success,Granada,33.48447401408599,0.07481585881391865,False,Right Foot,Open Play,0,0,1,Half Volley
+3825584,Rubén Rochina Naixes,Granada,31.092282000522257,0.06250488284435754,False,Left Foot,Open Play,0,0,1,Half Volley
+3825584,Youssef El-Arabi,Granada,6.801470429252782,0.05498439309653289,False,Head,Open Play,0,0,2,Normal
+3825584,Robert Ibáñez Castro,Granada,27.07489612168438,0.062226442113785564,False,Left Foot,Open Play,0,0,2,Normal
+3825584,Francisco Manuel Rico Castro,Granada,15.074813431681335,0.06028564701378466,True,Right Foot,Open Play,1,0,3,Half Volley
+3825584,Samuel García Sánchez,Villarreal,18.867167248953937,0.053337604988563755,False,Right Foot,Open Play,1,0,1,Normal
+3825584,Robert Ibáñez Castro,Granada,25.80426321366297,0.06113489364297384,False,Left Foot,Open Play,0,1,3,Normal
+3825584,Isaac Ajayi Success,Granada,6.118823416311343,0.057534268305218975,False,Head,Open Play,0,1,7,Normal
+3825584,Robert Ibáñez Castro,Granada,17.366634676873925,0.059843730931991926,False,Right Foot,Open Play,1,0,1,Volley
+3825584,Adrián López Álvarez,Villarreal,16.19783936208777,0.06239788803618518,False,Right Foot,Open Play,1,0,0,Normal
+3825584,Rubén Rochina Naixes,Granada,34.34239362653687,0.07595503072776127,False,Left Foot,Open Play,1,0,1,Half Volley
+3825584,Youssef El-Arabi,Granada,6.711929677819927,0.056306527946686266,False,Head,Open Play,0,0,1,Normal
+3825584,Rene Krhin,Granada,13.420134127496643,0.061700155091539935,False,Right Foot,Open Play,1,0,1,Volley
+3825584,Denis Suárez Fernández,Villarreal,18.005554698481237,0.06426407453340936,False,Right Foot,Open Play,1,0,1,Normal
+3825584,Samuel García Sánchez,Villarreal,12.97998459167036,0.05394613271868274,True,Right Foot,Open Play,1,0,0,Half Volley

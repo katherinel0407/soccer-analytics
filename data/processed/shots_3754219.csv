@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.07455932598119,0.07184960591570604,False,Right Foot,Open Play,1,0,1,Normal
-32.70244639166924,0.054433418697422076,False,Right Foot,Open Play,0,1,1,Half Volley
-20.006249023742555,0.0656450055763597,False,Right Foot,Open Play,0,1,2,Normal
-21.029740844813094,0.06630218634782234,False,Left Foot,Open Play,0,0,3,Normal
-25.831182706178986,0.06934538172627362,False,Left Foot,Open Play,0,0,3,Normal
-20.729206448873047,0.06525395245163065,False,Left Foot,Open Play,0,1,2,Normal
-20.488289338058458,0.06594666965718893,False,Right Foot,Open Play,0,0,2,Normal
-6.390618123468184,0.056463314747919366,False,Head,Open Play,0,1,1,Normal
-25.02818411311536,0.061451216449326884,False,Right Foot,Open Play,0,0,3,Normal
-14.287407042567239,0.05893733099773588,False,Right Foot,Open Play,0,1,3,Half Volley
-24.70080970332754,0.06062881230273506,True,Left Foot,Open Play,0,0,2,Normal
-26.672082783314845,0.05834373259759532,False,Left Foot,Open Play,0,0,2,Normal
-13.3843191832831,0.05877330184380246,False,Right Foot,Open Play,0,0,2,Normal
-7.942921376924233,0.05835746760773345,False,Head,Open Play,0,1,6,Normal
-9.976472322419383,0.0538356040208278,True,Head,Open Play,0,1,2,Normal
-27.906450867138236,0.06717219514747459,False,Left Foot,Open Play,0,0,3,Half Volley
-29.822474746405607,0.06923422240246124,False,Left Foot,Open Play,0,0,3,Normal
-33.92491709643519,0.06737803337641286,False,Left Foot,Open Play,1,0,0,Normal
-9.84123975929862,0.05546085119102642,False,Head,Open Play,0,1,5,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-13.03572015655445,0.06085029660156127,False,Right Foot,Open Play,0,0,1,Normal
-30.43451987464234,0.07042440479760369,False,Right Foot,Open Play,0,0,1,Normal
-19.204426573058626,0.06458395682134103,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754219,Junior Stanislas,AFC Bournemouth,29.07455932598119,0.07184960591570604,False,Right Foot,Open Play,1,0,1,Normal
+3754219,James Morrison,West Bromwich Albion,32.70244639166924,0.054433418697422076,False,Right Foot,Open Play,0,1,1,Half Volley
+3754219,Glenn Murray,AFC Bournemouth,20.006249023742555,0.0656450055763597,False,Right Foot,Open Play,0,1,2,Normal
+3754219,Charlie Daniels,AFC Bournemouth,21.029740844813094,0.06630218634782234,False,Left Foot,Open Play,0,0,3,Normal
+3754219,Harry Arter,AFC Bournemouth,25.831182706178986,0.06934538172627362,False,Left Foot,Open Play,0,0,3,Normal
+3754219,Charlie Daniels,AFC Bournemouth,20.729206448873047,0.06525395245163065,False,Left Foot,Open Play,0,1,2,Normal
+3754219,Glenn Murray,AFC Bournemouth,20.488289338058458,0.06594666965718893,False,Right Foot,Open Play,0,0,2,Normal
+3754219,Matt Ritchie,AFC Bournemouth,6.390618123468184,0.056463314747919366,False,Head,Open Play,0,1,1,Normal
+3754219,José Salomón Rondón Giménez,West Bromwich Albion,25.02818411311536,0.061451216449326884,False,Right Foot,Open Play,0,0,3,Normal
+3754219,José Salomón Rondón Giménez,West Bromwich Albion,14.287407042567239,0.05893733099773588,False,Right Foot,Open Play,0,1,3,Half Volley
+3754219,Adam Smith,AFC Bournemouth,24.70080970332754,0.06062881230273506,True,Left Foot,Open Play,0,0,2,Normal
+3754219,Matt Ritchie,AFC Bournemouth,26.672082783314845,0.05834373259759532,False,Left Foot,Open Play,0,0,2,Normal
+3754219,Junior Stanislas,AFC Bournemouth,13.3843191832831,0.05877330184380246,False,Right Foot,Open Play,0,0,2,Normal
+3754219,Glenn Murray,AFC Bournemouth,7.942921376924233,0.05835746760773345,False,Head,Open Play,0,1,6,Normal
+3754219,Gareth McAuley,West Bromwich Albion,9.976472322419383,0.0538356040208278,True,Head,Open Play,0,1,2,Normal
+3754219,Harry Arter,AFC Bournemouth,27.906450867138236,0.06717219514747459,False,Left Foot,Open Play,0,0,3,Half Volley
+3754219,Harry Arter,AFC Bournemouth,29.822474746405607,0.06923422240246124,False,Left Foot,Open Play,0,0,3,Normal
+3754219,Matt Ritchie,AFC Bournemouth,33.92491709643519,0.06737803337641286,False,Left Foot,Open Play,1,0,0,Normal
+3754219,Craig Dawson,West Bromwich Albion,9.84123975929862,0.05546085119102642,False,Head,Open Play,0,1,5,Normal
+3754219,Charlie Daniels,AFC Bournemouth,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3754219,Marc Pugh,AFC Bournemouth,13.03572015655445,0.06085029660156127,False,Right Foot,Open Play,0,0,1,Normal
+3754219,Adam Smith,AFC Bournemouth,30.43451987464234,0.07042440479760369,False,Right Foot,Open Play,0,0,1,Normal
+3754219,José Salomón Rondón Giménez,West Bromwich Albion,19.204426573058626,0.06458395682134103,False,Left Foot,Open Play,0,0,2,Normal

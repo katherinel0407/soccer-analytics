@@ -1,13 +1,13 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.961212388028947,0.060758555657232066,True,Right Foot,Open Play,1,0,0,Normal
-32.86122334910859,0.05397711320562323,False,Left Foot,Free Kick,0,0,0,Normal
-33.77839546218855,0.07535881042851177,False,Right Foot,Free Kick,0,0,0,Normal
-13.713132391981048,0.061832897633064945,False,Head,Open Play,0,1,1,Normal
-23.221541723150082,0.06778788499409417,False,Left Foot,Open Play,1,1,2,Normal
-17.09502851708648,0.062462788384268504,False,Right Foot,Open Play,0,0,3,Normal
-31.027246091137382,0.06915690617947731,False,Right Foot,Free Kick,0,0,0,Normal
-14.900335566691112,0.06086373513281699,False,Right Foot,Open Play,0,0,2,Normal
-17.61391495380854,0.05136465693464231,False,Right Foot,Open Play,1,0,1,Half Volley
-21.602083232873625,0.05612999032897665,False,Right Foot,Open Play,0,0,2,Normal
-15.264337522473747,0.0627797409042985,False,Left Foot,Open Play,1,0,2,Normal
-7.930952023559335,0.0538016900180157,False,Right Foot,Open Play,1,0,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890495,Robert Lewandowski,Bayern Munich,19.961212388028947,0.060758555657232066,True,Right Foot,Open Play,1,0,0,Normal
+3890495,Douglas Costa de Souza,Bayern Munich,32.86122334910859,0.05397711320562323,False,Left Foot,Free Kick,0,0,0,Normal
+3890495,Marcel Risse,FC Köln,33.77839546218855,0.07535881042851177,False,Right Foot,Free Kick,0,0,0,Normal
+3890495,Thiago Alcântara do Nascimento,Bayern Munich,13.713132391981048,0.061832897633064945,False,Head,Open Play,0,1,1,Normal
+3890495,Leonardo Bittencourt,FC Köln,23.221541723150082,0.06778788499409417,False,Left Foot,Open Play,1,1,2,Normal
+3890495,Robert Lewandowski,Bayern Munich,17.09502851708648,0.062462788384268504,False,Right Foot,Open Play,0,0,3,Normal
+3890495,Marcel Risse,FC Köln,31.027246091137382,0.06915690617947731,False,Right Foot,Free Kick,0,0,0,Normal
+3890495,Anthony Modeste,FC Köln,14.900335566691112,0.06086373513281699,False,Right Foot,Open Play,0,0,2,Normal
+3890495,Leonardo Bittencourt,FC Köln,17.61391495380854,0.05136465693464231,False,Right Foot,Open Play,1,0,1,Half Volley
+3890495,Robert Lewandowski,Bayern Munich,21.602083232873625,0.05612999032897665,False,Right Foot,Open Play,0,0,2,Normal
+3890495,Kingsley Coman,Bayern Munich,15.264337522473747,0.0627797409042985,False,Left Foot,Open Play,1,0,2,Normal
+3890495,Leonardo Bittencourt,FC Köln,7.930952023559335,0.0538016900180157,False,Right Foot,Open Play,1,0,3,Half Volley

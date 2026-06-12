@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.941603515752362,0.0694389671856309,False,Right Foot,Open Play,0,0,2,Normal
-27.029613389761973,0.06860999670817394,False,Right Foot,Open Play,0,0,1,Normal
-19.091883092036785,0.05487925337384795,True,Left Foot,Open Play,0,0,2,Normal
-18.220043907740735,0.06362673303816416,False,Right Foot,Open Play,1,0,2,Half Volley
-32.52199255888237,0.0742614218293782,False,Left Foot,Open Play,0,0,1,Normal
-31.344058448133353,0.07374300760262464,False,Right Foot,Open Play,0,0,1,Normal
-12.349089035228474,0.06070461938884677,False,Head,Open Play,0,0,2,Normal
-10.435037134576955,0.060035567631308594,False,Head,Open Play,0,0,1,Normal
-27.909317440596784,0.0694875741267597,False,Right Foot,Open Play,0,0,1,Normal
-20.303940504246953,0.06484085602030148,False,Left Foot,Open Play,0,0,1,Normal
-7.427651041883964,0.05839877841987441,False,Head,Open Play,0,0,3,Normal
-8.90898422941696,0.058181895638775905,True,Head,Open Play,0,0,5,Normal
-14.339107364128358,0.05655666884472273,False,Head,Open Play,0,0,1,Normal
-16.5873445734994,0.06083780420257541,False,Left Foot,Open Play,0,0,1,Normal
-21.408409562599466,0.064005945687531,False,Right Foot,Open Play,0,1,3,Normal
-12.714165328483025,0.06045539037723839,False,Head,Open Play,0,0,0,Normal
-27.95442719856731,0.07110438740214003,False,Right Foot,Open Play,0,1,1,Normal
-28.41214529035074,0.0646812082547242,False,Right Foot,Open Play,1,0,0,Volley
-3.5383612025908313,0.055016087725085545,True,Left Foot,Open Play,1,0,2,Normal
-12.741271522104846,0.05422104053888884,False,Right Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303715,Martin Braithwaite Christensen,Leganés,26.941603515752362,0.0694389671856309,False,Right Foot,Open Play,0,0,2,Normal
+303715,Roque Mesa Quevedo,Leganés,27.029613389761973,0.06860999670817394,False,Right Foot,Open Play,0,0,1,Normal
+303715,Youssef En-Nesyri,Leganés,19.091883092036785,0.05487925337384795,True,Left Foot,Open Play,0,0,2,Normal
+303715,Óscar Rodríguez Arnaiz,Leganés,18.220043907740735,0.06362673303816416,False,Right Foot,Open Play,1,0,2,Half Volley
+303715,Antoine Griezmann,Barcelona,32.52199255888237,0.0742614218293782,False,Left Foot,Open Play,0,0,1,Normal
+303715,Ousmane Dembélé,Barcelona,31.344058448133353,0.07374300760262464,False,Right Foot,Open Play,0,0,1,Normal
+303715,Luis Alberto Suárez Díaz,Barcelona,12.349089035228474,0.06070461938884677,False,Head,Open Play,0,0,2,Normal
+303715,Luis Alberto Suárez Díaz,Barcelona,10.435037134576955,0.060035567631308594,False,Head,Open Play,0,0,1,Normal
+303715,Roque Mesa Quevedo,Leganés,27.909317440596784,0.0694875741267597,False,Right Foot,Open Play,0,0,1,Normal
+303715,Youssef En-Nesyri,Leganés,20.303940504246953,0.06484085602030148,False,Left Foot,Open Play,0,0,1,Normal
+303715,Gerard Piqué Bernabéu,Barcelona,7.427651041883964,0.05839877841987441,False,Head,Open Play,0,0,3,Normal
+303715,Luis Alberto Suárez Díaz,Barcelona,8.90898422941696,0.058181895638775905,True,Head,Open Play,0,0,5,Normal
+303715,Youssef En-Nesyri,Leganés,14.339107364128358,0.05655666884472273,False,Head,Open Play,0,0,1,Normal
+303715,Lionel Andrés Messi Cuccittini,Barcelona,16.5873445734994,0.06083780420257541,False,Left Foot,Open Play,0,0,1,Normal
+303715,Luis Alberto Suárez Díaz,Barcelona,21.408409562599466,0.064005945687531,False,Right Foot,Open Play,0,1,3,Normal
+303715,Javier Eraso Goñi,Leganés,12.714165328483025,0.06045539037723839,False,Head,Open Play,0,0,0,Normal
+303715,Ivan Rakitić,Barcelona,27.95442719856731,0.07110438740214003,False,Right Foot,Open Play,0,1,1,Normal
+303715,Rubén Salvador Pérez Del Mármol,Leganés,28.41214529035074,0.0646812082547242,False,Right Foot,Open Play,1,0,0,Volley
+303715,Arturo Erasmo Vidal Pardo,Barcelona,3.5383612025908313,0.055016087725085545,True,Left Foot,Open Play,1,0,2,Normal
+303715,Ousmane Dembélé,Barcelona,12.741271522104846,0.05422104053888884,False,Right Foot,Open Play,1,0,3,Normal

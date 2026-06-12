@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.06225774829855,0.05827886915945493,False,Head,Open Play,0,1,4,Normal
-34.52535300326414,0.0735931863772636,False,Right Foot,Open Play,0,0,1,Normal
-13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,0,1,1,Normal
-27.892651361962706,0.06988985867582403,False,Left Foot,Open Play,0,0,2,Normal
-10.63014581273465,0.06012303228523406,False,Head,Open Play,0,1,3,Normal
-30.14962686336267,0.0662100679016442,True,Right Foot,Open Play,0,0,1,Normal
-9.848857801796104,0.059657413278702213,False,Head,Open Play,0,0,0,Normal
-29.410882339705484,0.05637629800266653,False,Left Foot,Open Play,0,0,2,Normal
-18.681541692269406,0.06006488713675577,False,Head,Open Play,0,0,1,Normal
-17.46424919657298,0.0619656128230866,False,Right Foot,Open Play,0,0,0,Normal
-11.180339887498949,0.06041496471578293,False,Head,Open Play,0,1,1,Normal
-21.93171219946131,0.05427386530531506,False,Left Foot,Open Play,0,0,2,Normal
-17.69180601295413,0.06377327899593536,False,Left Foot,Open Play,0,1,2,Half Volley
-18.439088914585774,0.05565740298714331,False,Right Foot,Open Play,0,0,1,Normal
-20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,1,0,1,Normal
-7.810249675906654,0.0586673424891239,False,Left Foot,Open Play,1,0,3,Normal
-7.615773105863909,0.05794136762478923,False,Right Foot,Open Play,1,0,4,Normal
-4.47213595499958,0.055780969328069314,False,Right Foot,Open Play,1,1,5,Normal
-56.00892785976178,0.083409362665991,False,Right Foot,Open Play,0,0,1,Normal
-35.84689665786984,0.060741084205167266,False,Right Foot,Open Play,1,0,0,Normal
-10.816653826391969,0.05627318492021817,False,Right Foot,Open Play,0,0,4,Normal
-5.0,0.055471542355656905,False,Right Foot,Open Play,0,0,6,Normal
-14.866068747318506,0.05850375134067572,False,Right Foot,Open Play,0,0,3,Half Volley
-26.832815729997478,0.06629945036181753,False,Right Foot,Free Kick,0,0,0,Normal
-8.06225774829855,0.057624201777450715,False,Right Foot,Open Play,0,0,3,Normal
-26.248809496813376,0.05524908615279072,False,Right Foot,Open Play,0,0,1,Normal
-8.94427190999916,0.059225041351301994,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19729,Lucy Hope,Bristol City WFC,8.06225774829855,0.05827886915945493,False,Head,Open Play,0,1,4,Normal
+19729,Gabrielle George,Everton LFC,34.52535300326414,0.0735931863772636,False,Right Foot,Open Play,0,0,1,Normal
+19729,Simone Magill,Everton LFC,13.92838827718412,0.058122043033188894,False,Right Foot,Open Play,0,1,1,Normal
+19729,Gabrielle George,Everton LFC,27.892651361962706,0.06988985867582403,False,Left Foot,Open Play,0,0,2,Normal
+19729,Frankie Brown,Bristol City WFC,10.63014581273465,0.06012303228523406,False,Head,Open Play,0,1,3,Normal
+19729,Lucy Hope,Bristol City WFC,30.14962686336267,0.0662100679016442,True,Right Foot,Open Play,0,0,1,Normal
+19729,Gabrielle George,Everton LFC,9.848857801796104,0.059657413278702213,False,Head,Open Play,0,0,0,Normal
+19729,Ella Rutherford,Bristol City WFC,29.410882339705484,0.05637629800266653,False,Left Foot,Open Play,0,0,2,Normal
+19729,Carla Humphrey,Bristol City WFC,18.681541692269406,0.06006488713675577,False,Head,Open Play,0,0,1,Normal
+19729,Inessa Kaagman,Everton LFC,17.46424919657298,0.0619656128230866,False,Right Foot,Open Play,0,0,0,Normal
+19729,Megan Finnigan,Everton LFC,11.180339887498949,0.06041496471578293,False,Head,Open Play,0,1,1,Normal
+19729,Lucy Hope,Bristol City WFC,21.93171219946131,0.05427386530531506,False,Left Foot,Open Play,0,0,2,Normal
+19729,Ella Rutherford,Bristol City WFC,17.69180601295413,0.06377327899593536,False,Left Foot,Open Play,0,1,2,Half Volley
+19729,Carla Humphrey,Bristol City WFC,18.439088914585774,0.05565740298714331,False,Right Foot,Open Play,0,0,1,Normal
+19729,Julie Biesmans,Bristol City WFC,20.615528128088304,0.05587054225818022,False,Right Foot,Open Play,1,0,1,Normal
+19729,Elise Hughes,Everton LFC,7.810249675906654,0.0586673424891239,False,Left Foot,Open Play,1,0,3,Normal
+19729,Elise Hughes,Everton LFC,7.615773105863909,0.05794136762478923,False,Right Foot,Open Play,1,0,4,Normal
+19729,Angharad James,Everton LFC,4.47213595499958,0.055780969328069314,False,Right Foot,Open Play,1,1,5,Normal
+19729,Abigail Harrison,Bristol City WFC,56.00892785976178,0.083409362665991,False,Right Foot,Open Play,0,0,1,Normal
+19729,Georgia Brougham,Everton LFC,35.84689665786984,0.060741084205167266,False,Right Foot,Open Play,1,0,0,Normal
+19729,Elise Hughes,Everton LFC,10.816653826391969,0.05627318492021817,False,Right Foot,Open Play,0,0,4,Normal
+19729,Angharad James,Everton LFC,5.0,0.055471542355656905,False,Right Foot,Open Play,0,0,6,Normal
+19729,Gabrielle George,Everton LFC,14.866068747318506,0.05850375134067572,False,Right Foot,Open Play,0,0,3,Half Volley
+19729,Julie Biesmans,Bristol City WFC,26.832815729997478,0.06629945036181753,False,Right Foot,Free Kick,0,0,0,Normal
+19729,Hannah Cain,Everton LFC,8.06225774829855,0.057624201777450715,False,Right Foot,Open Play,0,0,3,Normal
+19729,Chantelle Boye-Hlorkah,Everton LFC,26.248809496813376,0.05524908615279072,False,Right Foot,Open Play,0,0,1,Normal
+19729,Megan Finnigan,Everton LFC,8.94427190999916,0.059225041351301994,False,Head,Open Play,0,1,3,Normal

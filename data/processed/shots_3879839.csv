@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.07719310048533,0.05859878799156828,False,Left Foot,Open Play,0,0,1,Normal
-27.563200104487137,0.0685014545216582,False,Left Foot,Open Play,1,0,1,Normal
-27.511452160872928,0.057961859067380106,False,Left Foot,Open Play,0,0,2,Normal
-25.31600284405103,0.06838731678052977,False,Left Foot,Open Play,1,0,2,Normal
-30.108138434649195,0.0562568679000249,False,Left Foot,Open Play,0,0,2,Normal
-11.859595271340421,0.057851255270070796,True,Left Foot,Open Play,1,1,1,Volley
-6.860029154457004,0.05818724417392908,False,Head,Open Play,0,1,3,Normal
-22.004772209682155,0.057700604706323995,False,Left Foot,Open Play,1,0,0,Normal
-30.372685096974877,0.06686569748949775,False,Right Foot,Open Play,1,1,1,Half Volley
-15.345683432157724,0.06255099081975642,False,Left Foot,Open Play,0,1,1,Normal
-23.7065391822594,0.06800659469558008,False,Right Foot,Free Kick,0,0,0,Normal
-20.382345301755635,0.05434682167591439,False,Left Foot,Open Play,0,1,4,Normal
-17.71327186038762,0.06226748095329045,False,Left Foot,Open Play,0,0,1,Normal
-25.22399651125888,0.06220859472335398,False,Left Foot,Open Play,0,1,3,Normal
-29.82415128716993,0.07213350563099873,False,Left Foot,Open Play,0,0,1,Normal
-18.72244642134142,0.05301918938190946,False,Right Foot,Open Play,0,0,2,Half Volley
-17.06282508847817,0.06298348324794602,False,Left Foot,Open Play,1,0,1,Half Volley
-35.15480052567501,0.07618423243237828,False,Right Foot,Free Kick,0,0,0,Normal
-20.619408332927506,0.06456844122343065,True,Right Foot,Open Play,0,0,3,Normal
-11.352973178863762,0.05784421360527492,False,Left Foot,Open Play,1,0,1,Normal
-5.020956084253273,0.05724560694426575,True,Right Foot,Open Play,1,0,4,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-8.280096617793776,0.05576076484032137,False,Left Foot,Open Play,1,1,2,Normal
-8.658521813797094,0.058797766541547336,False,Head,Open Play,0,1,2,Normal
-29.924738929521173,0.07238276417035507,False,Right Foot,Free Kick,0,0,0,Normal
-10.040418317978588,0.059391959544336105,False,Head,Open Play,0,1,3,Normal
-4.341658669218477,0.05454900576317136,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879839,Josip Iličić,Fiorentina,26.07719310048533,0.05859878799156828,False,Left Foot,Open Play,0,0,1,Normal
+3879839,Josip Iličić,Fiorentina,27.563200104487137,0.0685014545216582,False,Left Foot,Open Play,1,0,1,Normal
+3879839,Paulo Bruno Exequiel Dybala,Juventus,27.511452160872928,0.057961859067380106,False,Left Foot,Open Play,0,0,2,Normal
+3879839,Milan Badelj,Fiorentina,25.31600284405103,0.06838731678052977,False,Left Foot,Open Play,1,0,2,Normal
+3879839,Cristian Tello Herrera,Fiorentina,30.108138434649195,0.0562568679000249,False,Left Foot,Open Play,0,0,2,Normal
+3879839,Mario Mandžukić,Juventus,11.859595271340421,0.057851255270070796,True,Left Foot,Open Play,1,1,1,Volley
+3879839,Marcos Alonso Mendoza,Fiorentina,6.860029154457004,0.05818724417392908,False,Head,Open Play,0,1,3,Normal
+3879839,Josip Iličić,Fiorentina,22.004772209682155,0.057700604706323995,False,Left Foot,Open Play,1,0,0,Normal
+3879839,Milan Badelj,Fiorentina,30.372685096974877,0.06686569748949775,False,Right Foot,Open Play,1,1,1,Half Volley
+3879839,Paul Pogba,Juventus,15.345683432157724,0.06255099081975642,False,Left Foot,Open Play,0,1,1,Normal
+3879839,Paul Pogba,Juventus,23.7065391822594,0.06800659469558008,False,Right Foot,Free Kick,0,0,0,Normal
+3879839,Mauro Matías Zárate,Fiorentina,20.382345301755635,0.05434682167591439,False,Left Foot,Open Play,0,1,4,Normal
+3879839,Nikola Kalinić,Fiorentina,17.71327186038762,0.06226748095329045,False,Left Foot,Open Play,0,0,1,Normal
+3879839,Mauro Matías Zárate,Fiorentina,25.22399651125888,0.06220859472335398,False,Left Foot,Open Play,0,1,3,Normal
+3879839,Federico Bernardeschi,Fiorentina,29.82415128716993,0.07213350563099873,False,Left Foot,Open Play,0,0,1,Normal
+3879839,Matías Ariel Fernández Fernández,Fiorentina,18.72244642134142,0.05301918938190946,False,Right Foot,Open Play,0,0,2,Half Volley
+3879839,Marcos Alonso Mendoza,Fiorentina,17.06282508847817,0.06298348324794602,False,Left Foot,Open Play,1,0,1,Half Volley
+3879839,Matías Ariel Fernández Fernández,Fiorentina,35.15480052567501,0.07618423243237828,False,Right Foot,Free Kick,0,0,0,Normal
+3879839,Nikola Kalinić,Fiorentina,20.619408332927506,0.06456844122343065,True,Right Foot,Open Play,0,0,3,Normal
+3879839,Patrice Evra,Juventus,11.352973178863762,0.05784421360527492,False,Left Foot,Open Play,1,0,1,Normal
+3879839,Álvaro Borja Morata Martín,Juventus,5.020956084253273,0.05724560694426575,True,Right Foot,Open Play,1,0,4,Normal
+3879839,Nikola Kalinić,Fiorentina,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3879839,Federico Bernardeschi,Fiorentina,8.280096617793776,0.05576076484032137,False,Left Foot,Open Play,1,1,2,Normal
+3879839,Nikola Kalinić,Fiorentina,8.658521813797094,0.058797766541547336,False,Head,Open Play,0,1,2,Normal
+3879839,Mauro Matías Zárate,Fiorentina,29.924738929521173,0.07238276417035507,False,Right Foot,Free Kick,0,0,0,Normal
+3879839,Davide Astori,Fiorentina,10.040418317978588,0.059391959544336105,False,Head,Open Play,0,1,3,Normal
+3879839,Nikola Kalinić,Fiorentina,4.341658669218477,0.05454900576317136,False,Head,Open Play,0,0,4,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.4191836617451,0.06361875084026924,False,Right Foot,Open Play,1,0,0,Normal
-25.622255950637914,0.06144272330117759,False,Right Foot,Open Play,1,0,0,Normal
-21.75890622251036,0.05907943842895555,False,Right Foot,Open Play,1,0,1,Normal
-13.182564242210242,0.06157836048257338,False,Right Foot,Open Play,1,0,1,Volley
-21.708293346092407,0.058996732479885246,False,Left Foot,Open Play,0,0,2,Normal
-13.647344063956181,0.06049835665082164,True,Right Foot,Open Play,0,0,2,Normal
-26.897211751406502,0.05958599006120401,False,Right Foot,Open Play,1,1,1,Half Volley
-25.323901753086947,0.056807536696010984,False,Left Foot,Open Play,0,1,3,Normal
-17.901117283566407,0.05879248195259254,False,Right Foot,Open Play,1,0,2,Normal
-22.649061790723255,0.06700849851997495,False,Right Foot,Open Play,0,0,3,Normal
-9.158602513484245,0.05626182831186403,False,Head,Open Play,0,1,4,Normal
-10.846197490365,0.05922287951356293,True,Head,Open Play,0,0,2,Normal
-19.490510511528427,0.053794773610563826,False,Right Foot,Open Play,0,0,1,Normal
-7.5927597090912835,0.05855354389899848,True,Left Foot,Open Play,1,0,5,Volley
-20.20816666597937,0.059786798177005246,False,Right Foot,Open Play,0,0,1,Normal
-7.340980860893184,0.05646445628973127,False,Head,Open Play,0,1,4,Normal
-12.657408897558778,0.05515155212689532,False,Right Foot,Open Play,1,0,1,Backheel
-17.807021087200404,0.061892595922555485,False,Right Foot,Open Play,1,0,0,Normal
-23.160310878742536,0.06765084650591136,False,Left Foot,Open Play,0,1,3,Normal
-27.37243138634199,0.06868423232668071,False,Right Foot,Free Kick,0,0,0,Normal
-7.060453243241535,0.05829611577293063,True,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829484,Henri Saivet,Bordeaux,28.4191836617451,0.06361875084026924,False,Right Foot,Open Play,1,0,0,Normal
+3829484,Jaroslav Plašil,Bordeaux,25.622255950637914,0.06144272330117759,False,Right Foot,Open Play,1,0,0,Normal
+3829484,Henri Saivet,Bordeaux,21.75890622251036,0.05907943842895555,False,Right Foot,Open Play,1,0,1,Normal
+3829484,Jaroslav Plašil,Bordeaux,13.182564242210242,0.06157836048257338,False,Right Foot,Open Play,1,0,1,Volley
+3829484,Claudio Beauvue,Lyon,21.708293346092407,0.058996732479885246,False,Left Foot,Open Play,0,0,2,Normal
+3829484,Wahbi Khazri,Bordeaux,13.647344063956181,0.06049835665082164,True,Right Foot,Open Play,0,0,2,Normal
+3829484,Claudio Beauvue,Lyon,26.897211751406502,0.05958599006120401,False,Right Foot,Open Play,1,1,1,Half Volley
+3829484,Gnaly Maxwell Cornet,Lyon,25.323901753086947,0.056807536696010984,False,Left Foot,Open Play,0,1,3,Normal
+3829484,Mathieu Valbuena,Lyon,17.901117283566407,0.05879248195259254,False,Right Foot,Open Play,1,0,2,Normal
+3829484,Nicolas Maurice-Belay,Bordeaux,22.649061790723255,0.06700849851997495,False,Right Foot,Open Play,0,0,3,Normal
+3829484,Corentin Tolisso,Lyon,9.158602513484245,0.05626182831186403,False,Head,Open Play,0,1,4,Normal
+3829484,Jaroslav Plašil,Bordeaux,10.846197490365,0.05922287951356293,True,Head,Open Play,0,0,2,Normal
+3829484,Diego Alejandro Rolan Silva,Bordeaux,19.490510511528427,0.053794773610563826,False,Right Foot,Open Play,0,0,1,Normal
+3829484,Pablo Nascimento Castro,Bordeaux,7.5927597090912835,0.05855354389899848,True,Left Foot,Open Play,1,0,5,Volley
+3829484,Jordan Ferri,Lyon,20.20816666597937,0.059786798177005246,False,Right Foot,Open Play,0,0,1,Normal
+3829484,Lindsay Rose,Lyon,7.340980860893184,0.05646445628973127,False,Head,Open Play,0,1,4,Normal
+3829484,Wahbi Khazri,Bordeaux,12.657408897558778,0.05515155212689532,False,Right Foot,Open Play,1,0,1,Backheel
+3829484,Diego Alejandro Rolan Silva,Bordeaux,17.807021087200404,0.061892595922555485,False,Right Foot,Open Play,1,0,0,Normal
+3829484,Rachid Ghezzal,Lyon,23.160310878742536,0.06765084650591136,False,Left Foot,Open Play,0,1,3,Normal
+3829484,Claudio Beauvue,Lyon,27.37243138634199,0.06868423232668071,False,Right Foot,Free Kick,0,0,0,Normal
+3829484,Claudio Beauvue,Lyon,7.060453243241535,0.05829611577293063,True,Head,Open Play,0,1,5,Normal

@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.855415113272386,0.06743770314602528,False,Left Foot,Open Play,1,0,0,Half Volley
-21.555741694499865,0.058494336681047775,False,Left Foot,Open Play,0,1,1,Normal
-34.205262752974136,0.06122105895415547,False,Right Foot,Open Play,0,0,0,Normal
-20.584703058339223,0.06593885114380968,False,Left Foot,Open Play,0,0,2,Normal
-5.977457653551384,0.057107448463151286,False,Other,Open Play,1,0,1,Normal
-9.903534722511958,0.05964257784593056,False,Head,Open Play,0,0,2,Normal
-27.469437562498438,0.051730863711316494,False,Left Foot,Free Kick,0,0,0,Normal
-32.181050324686424,0.05578763948710713,False,Right Foot,Open Play,0,0,0,Normal
-24.983394485137524,0.06799098229503758,False,Left Foot,Open Play,1,0,0,Half Volley
-19.642046736529267,0.06391104190816355,False,Left Foot,Open Play,1,1,2,Normal
-11.332254850646455,0.060195133964380775,False,Head,Open Play,0,1,2,Normal
-19.574728606036913,0.06491677131162317,False,Left Foot,Open Play,1,0,2,Volley
-9.263368717696604,0.055183087143157825,False,Head,Open Play,0,1,2,Normal
-32.80137192252787,0.0691609502851973,False,Left Foot,Free Kick,0,0,0,Normal
-9.265527507918804,0.05880474642871871,False,Head,Open Play,0,0,3,Normal
-1.7029386365926389,0.05567758584132331,False,Right Foot,Open Play,1,0,3,Normal
-16.55566368346494,0.05423437489545397,False,Right Foot,Open Play,0,0,2,Normal
-10.412012293500233,0.05973714027246506,False,Right Foot,Open Play,1,0,3,Normal
-22.641775548750594,0.05814659774314323,False,Right Foot,Open Play,1,0,0,Normal
-18.599999999999994,0.06245764564440511,False,Left Foot,Open Play,0,0,3,Normal
-14.932514858522659,0.06027669221593609,False,Left Foot,Open Play,1,0,1,Normal
-15.901257811883934,0.06311561393149265,False,Left Foot,Open Play,0,0,2,Normal
-13.160547101089675,0.058428912360713875,False,Right Foot,Open Play,1,0,1,Normal
-13.333041663476488,0.05755283068569374,False,Left Foot,Open Play,1,0,2,Normal
-10.824047302187845,0.05276624499639088,False,Left Foot,Open Play,0,0,2,Normal
-0.7000000000000028,0.055147943463356885,True,Left Foot,Open Play,1,0,2,Normal
-30.71677066359679,0.06558413866395452,False,Right Foot,Open Play,0,0,2,Normal
-13.074020039758242,0.057933262647876446,False,Head,Open Play,0,0,4,Normal
-8.881441324469808,0.05762789189264087,False,Left Foot,Open Play,0,0,0,Volley
-31.190543438677047,0.07206533128970287,False,Left Foot,Open Play,0,0,1,Normal
-15.860012610335469,0.05396466353178202,False,Right Foot,Open Play,1,0,1,Half Volley
-6.1983868869246885,0.05754343565354957,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266406,Munir El Haddadi Mohamed,Barcelona,22.855415113272386,0.06743770314602528,False,Left Foot,Open Play,1,0,0,Half Volley
+266406,Lionel Andrés Messi Cuccittini,Barcelona,21.555741694499865,0.058494336681047775,False,Left Foot,Open Play,0,1,1,Normal
+266406,Ivan Rakitić,Barcelona,34.205262752974136,0.06122105895415547,False,Right Foot,Open Play,0,0,0,Normal
+266406,Pedro Eliezer Rodríguez Ledesma,Barcelona,20.584703058339223,0.06593885114380968,False,Left Foot,Open Play,0,0,2,Normal
+266406,Víctor Ruíz Torre,Villarreal,5.977457653551384,0.057107448463151286,False,Other,Open Play,1,0,1,Normal
+266406,Rafael Alcântara do Nascimento,Barcelona,9.903534722511958,0.05964257784593056,False,Head,Open Play,0,0,2,Normal
+266406,Lionel Andrés Messi Cuccittini,Barcelona,27.469437562498438,0.051730863711316494,False,Left Foot,Free Kick,0,0,0,Normal
+266406,Daniel Alves da Silva,Barcelona,32.181050324686424,0.05578763948710713,False,Right Foot,Open Play,0,0,0,Normal
+266406,Jérémy Mathieu,Barcelona,24.983394485137524,0.06799098229503758,False,Left Foot,Open Play,1,0,0,Half Volley
+266406,Denis Cheryshev,Villarreal,19.642046736529267,0.06391104190816355,False,Left Foot,Open Play,1,1,2,Normal
+266406,Munir El Haddadi Mohamed,Barcelona,11.332254850646455,0.060195133964380775,False,Head,Open Play,0,1,2,Normal
+266406,Rafael Alcântara do Nascimento,Barcelona,19.574728606036913,0.06491677131162317,False,Left Foot,Open Play,1,0,2,Volley
+266406,Rafael Alcântara do Nascimento,Barcelona,9.263368717696604,0.055183087143157825,False,Head,Open Play,0,1,2,Normal
+266406,Lionel Andrés Messi Cuccittini,Barcelona,32.80137192252787,0.0691609502851973,False,Left Foot,Free Kick,0,0,0,Normal
+266406,Lionel Andrés Messi Cuccittini,Barcelona,9.265527507918804,0.05880474642871871,False,Head,Open Play,0,0,3,Normal
+266406,Neymar da Silva Santos Junior,Barcelona,1.7029386365926389,0.05567758584132331,False,Right Foot,Open Play,1,0,3,Normal
+266406,Sandro Ramírez Castillo,Barcelona,16.55566368346494,0.05423437489545397,False,Right Foot,Open Play,0,0,2,Normal
+266406,Neymar da Silva Santos Junior,Barcelona,10.412012293500233,0.05973714027246506,False,Right Foot,Open Play,1,0,3,Normal
+266406,Tomás Pina Isla,Villarreal,22.641775548750594,0.05814659774314323,False,Right Foot,Open Play,1,0,0,Normal
+266406,Tomás Pina Isla,Villarreal,18.599999999999994,0.06245764564440511,False,Left Foot,Open Play,0,0,3,Normal
+266406,Javier Espinosa González,Villarreal,14.932514858522659,0.06027669221593609,False,Left Foot,Open Play,1,0,1,Normal
+266406,Lionel Andrés Messi Cuccittini,Barcelona,15.901257811883934,0.06311561393149265,False,Left Foot,Open Play,0,0,2,Normal
+266406,Lionel Andrés Messi Cuccittini,Barcelona,13.160547101089675,0.058428912360713875,False,Right Foot,Open Play,1,0,1,Normal
+266406,Lionel Andrés Messi Cuccittini,Barcelona,13.333041663476488,0.05755283068569374,False,Left Foot,Open Play,1,0,2,Normal
+266406,Lionel Andrés Messi Cuccittini,Barcelona,10.824047302187845,0.05276624499639088,False,Left Foot,Open Play,0,0,2,Normal
+266406,Sandro Ramírez Castillo,Barcelona,0.7000000000000028,0.055147943463356885,True,Left Foot,Open Play,1,0,2,Normal
+266406,Luciano Vietto,Villarreal,30.71677066359679,0.06558413866395452,False,Right Foot,Open Play,0,0,2,Normal
+266406,Mateo Pablo Musacchio,Villarreal,13.074020039758242,0.057933262647876446,False,Head,Open Play,0,0,4,Normal
+266406,Giovani dos Santos Ramírez,Villarreal,8.881441324469808,0.05762789189264087,False,Left Foot,Open Play,0,0,0,Volley
+266406,Manuel Trigueros Muñoz,Villarreal,31.190543438677047,0.07206533128970287,False,Left Foot,Open Play,0,0,1,Normal
+266406,Luciano Vietto,Villarreal,15.860012610335469,0.05396466353178202,False,Right Foot,Open Play,1,0,1,Half Volley
+266406,Neymar da Silva Santos Junior,Barcelona,6.1983868869246885,0.05754343565354957,False,Head,Open Play,0,0,2,Normal

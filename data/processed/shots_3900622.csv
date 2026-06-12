@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.852459815773603,0.06640631415234191,False,Right Foot,Open Play,1,0,0,Volley
-15.748650735856712,0.06271705067259037,True,Right Foot,Open Play,0,1,2,Normal
-8.438601779915915,0.055521165734985736,False,Head,Open Play,0,1,4,Normal
-27.0325729445053,0.06949384418403767,False,Right Foot,Open Play,1,0,1,Normal
-28.46348538039571,0.06811375546189313,False,Right Foot,Open Play,0,0,2,Half Volley
-34.401308114663316,0.06998934172524571,False,Right Foot,Open Play,0,0,1,Normal
-29.909530253750226,0.05776137258396119,False,Left Foot,Free Kick,0,0,0,Normal
-29.065787448476264,0.06564782612151093,False,Right Foot,Open Play,0,0,2,Normal
-23.52955588191158,0.06796110760063699,False,Right Foot,Free Kick,0,0,0,Normal
-8.681589716175264,0.05671050143847655,False,Head,Open Play,0,1,5,Normal
-29.118550788114437,0.07198462413539011,False,Right Foot,Open Play,0,0,2,Normal
-13.237824594698333,0.06046402957451881,False,Right Foot,Open Play,1,0,0,Normal
-28.502806879323302,0.05534560061851399,False,Right Foot,Open Play,1,0,2,Lob
-13.694524453225823,0.0610668143152533,False,Right Foot,Open Play,1,1,1,Normal
-29.1547594742265,0.05311264712591615,False,Left Foot,Open Play,0,1,2,Normal
-15.164761785138602,0.056011348834787957,False,Left Foot,Open Play,0,0,2,Normal
-28.221445746098837,0.06758827207553766,False,Right Foot,Open Play,0,0,2,Normal
-22.594247055390007,0.05896809957230553,False,Left Foot,Open Play,0,0,2,Normal
-15.164761785138602,0.056011348834787957,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-27.098523945041727,0.06772577390382097,False,Left Foot,Open Play,0,0,1,Normal
-18.909521411183306,0.06476677532194405,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900622,Gaël Danic,Bastia,21.852459815773603,0.06640631415234191,False,Right Foot,Open Play,1,0,0,Volley
+3900622,Floyd Ayité,Bastia,15.748650735856712,0.06271705067259037,True,Right Foot,Open Play,0,1,2,Normal
+3900622,Axel Ngando,Bastia,8.438601779915915,0.055521165734985736,False,Head,Open Play,0,1,4,Normal
+3900622,Jessy Pi,Troyes,27.0325729445053,0.06949384418403767,False,Right Foot,Open Play,1,0,1,Normal
+3900622,Jessy Pi,Troyes,28.46348538039571,0.06811375546189313,False,Right Foot,Open Play,0,0,2,Half Volley
+3900622,Jessy Pi,Troyes,34.401308114663316,0.06998934172524571,False,Right Foot,Open Play,0,0,1,Normal
+3900622,Stéphane Darbion,Troyes,29.909530253750226,0.05776137258396119,False,Left Foot,Free Kick,0,0,0,Normal
+3900622,Benjamin Nivet,Troyes,29.065787448476264,0.06564782612151093,False,Right Foot,Open Play,0,0,2,Normal
+3900622,Fabien Camus,Troyes,23.52955588191158,0.06796110760063699,False,Right Foot,Free Kick,0,0,0,Normal
+3900622,Sébastien Squillaci,Bastia,8.681589716175264,0.05671050143847655,False,Head,Open Play,0,1,5,Normal
+3900622,Fabien Camus,Troyes,29.118550788114437,0.07198462413539011,False,Right Foot,Open Play,0,0,2,Normal
+3900622,Seko Fofana,Bastia,13.237824594698333,0.06046402957451881,False,Right Foot,Open Play,1,0,0,Normal
+3900622,Corentin Jean,Troyes,28.502806879323302,0.05534560061851399,False,Right Foot,Open Play,1,0,2,Lob
+3900622,Floyd Ayité,Bastia,13.694524453225823,0.0610668143152533,False,Right Foot,Open Play,1,1,1,Normal
+3900622,Gaël Danic,Bastia,29.1547594742265,0.05311264712591615,False,Left Foot,Open Play,0,1,2,Normal
+3900622,Stéphane Darbion,Troyes,15.164761785138602,0.056011348834787957,False,Left Foot,Open Play,0,0,2,Normal
+3900622,Floyd Ayité,Bastia,28.221445746098837,0.06758827207553766,False,Right Foot,Open Play,0,0,2,Normal
+3900622,Chaouki Ben Saada,Troyes,22.594247055390007,0.05896809957230553,False,Left Foot,Open Play,0,0,2,Normal
+3900622,François Kamano,Bastia,15.164761785138602,0.056011348834787957,False,Right Foot,Open Play,0,0,2,Normal
+3900622,Floyd Ayité,Bastia,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3900622,Yoann Court,Troyes,27.098523945041727,0.06772577390382097,False,Left Foot,Open Play,0,0,1,Normal
+3900622,Seko Fofana,Bastia,18.909521411183306,0.06476677532194405,False,Left Foot,Open Play,0,1,2,Normal

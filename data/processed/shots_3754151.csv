@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.181143738917022,0.05605597972140825,False,Right Foot,Open Play,1,0,2,Half Volley
-22.60199106273604,0.053131846659173074,False,Left Foot,Open Play,0,0,1,Normal
-12.734991166074671,0.05850063603678823,False,Head,Open Play,0,0,2,Normal
-25.60312480928842,0.06942526494054821,False,Right Foot,Open Play,1,0,0,Normal
-25.630060475933334,0.05856524055386572,False,Right Foot,Open Play,1,0,1,Normal
-19.053608582103283,0.06496060167591947,False,Right Foot,Open Play,0,1,3,Normal
-8.316850365372696,0.053446317077568146,False,Left Foot,Open Play,1,0,1,Volley
-24.02269760039451,0.05290552915041243,False,Left Foot,Open Play,0,0,3,Normal
-16.06019925156596,0.06321592826398618,True,Right Foot,Open Play,0,0,1,Normal
-11.684177335182826,0.05835917183416606,False,Right Foot,Open Play,0,0,1,Normal
-18.23869512876401,0.06020411638053154,False,Right Foot,Open Play,0,0,1,Volley
-10.916501271011704,0.057105166995561334,False,Head,Open Play,0,0,2,Normal
-32.261432082286746,0.07382993360577582,False,Right Foot,Free Kick,0,0,0,Normal
-6.440496875241843,0.05619509639390106,False,Right Foot,Open Play,1,0,2,Half Volley
-15.174320413118995,0.06148548551184938,False,Right Foot,Open Play,1,0,3,Normal
-14.780054127099799,0.05980633764122841,False,Right Foot,Open Play,0,0,3,Normal
-14.17674151559518,0.061780036067206494,False,Right Foot,Open Play,0,0,2,Normal
-10.149384217773997,0.05845874653073537,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754151,Alberto Paloschi,Swansea City,25.181143738917022,0.05605597972140825,False,Right Foot,Open Play,1,0,2,Half Volley
+3754151,Nathan Redmond,Norwich City,22.60199106273604,0.053131846659173074,False,Left Foot,Open Play,0,0,1,Normal
+3754151,André Ayew Pelé,Swansea City,12.734991166074671,0.05850063603678823,False,Head,Open Play,0,0,2,Normal
+3754151,Cameron Jerome,Norwich City,25.60312480928842,0.06942526494054821,False,Right Foot,Open Play,1,0,0,Normal
+3754151,Àngel Rangel Zaragoza,Swansea City,25.630060475933334,0.05856524055386572,False,Right Foot,Open Play,1,0,1,Normal
+3754151,Gylfi Þór Sigurðsson,Swansea City,19.053608582103283,0.06496060167591947,False,Right Foot,Open Play,0,1,3,Normal
+3754151,Modou Barrow,Swansea City,8.316850365372696,0.053446317077568146,False,Left Foot,Open Play,1,0,1,Volley
+3754151,André Ayew Pelé,Swansea City,24.02269760039451,0.05290552915041243,False,Left Foot,Open Play,0,0,3,Normal
+3754151,Gylfi Þór Sigurðsson,Swansea City,16.06019925156596,0.06321592826398618,True,Right Foot,Open Play,0,0,1,Normal
+3754151,Wayne Routledge,Swansea City,11.684177335182826,0.05835917183416606,False,Right Foot,Open Play,0,0,1,Normal
+3754151,Gylfi Þór Sigurðsson,Swansea City,18.23869512876401,0.06020411638053154,False,Right Foot,Open Play,0,0,1,Volley
+3754151,Dieumerci Mbokani Bezua,Norwich City,10.916501271011704,0.057105166995561334,False,Head,Open Play,0,0,2,Normal
+3754151,Gylfi Þór Sigurðsson,Swansea City,32.261432082286746,0.07382993360577582,False,Right Foot,Free Kick,0,0,0,Normal
+3754151,Wes Hoolahan,Norwich City,6.440496875241843,0.05619509639390106,False,Right Foot,Open Play,1,0,2,Half Volley
+3754151,Nathan Redmond,Norwich City,15.174320413118995,0.06148548551184938,False,Right Foot,Open Play,1,0,3,Normal
+3754151,Nathan Redmond,Norwich City,14.780054127099799,0.05980633764122841,False,Right Foot,Open Play,0,0,3,Normal
+3754151,Patrick Bamford,Norwich City,14.17674151559518,0.061780036067206494,False,Right Foot,Open Play,0,0,2,Normal
+3754151,Patrick Bamford,Norwich City,10.149384217773997,0.05845874653073537,False,Head,Open Play,0,1,3,Normal

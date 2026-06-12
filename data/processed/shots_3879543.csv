@@ -1,47 +1,47 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.41671529616041,0.06277245765104389,False,Right Foot,Open Play,0,1,1,Normal
-21.402102700435766,0.05646075590872064,False,Left Foot,Open Play,0,0,3,Normal
-29.094501198680135,0.056979101519199174,False,Right Foot,Open Play,0,0,2,Normal
-10.860018416190648,0.054459896239560684,False,Head,Open Play,0,0,1,Normal
-28.474023249270548,0.06446136138315713,False,Right Foot,Open Play,1,0,1,Lob
-25.047954008261836,0.06900550562118882,False,Right Foot,Open Play,0,0,0,Normal
-29.16727618410742,0.05500225413374423,False,Left Foot,Open Play,0,0,1,Normal
-27.20459520007603,0.060443307157822986,False,Right Foot,Open Play,0,0,3,Normal
-29.88394217635953,0.06175495793763942,False,Right Foot,Open Play,0,0,0,Normal
-6.741661516273273,0.0558989650392496,False,Left Foot,Open Play,1,0,1,Overhead Kick
-39.53795644693843,0.07520946462689579,False,Right Foot,Open Play,1,0,1,Normal
-8.814193099768126,0.05671358233229381,False,Right Foot,Open Play,1,0,4,Half Volley
-9.912618221237011,0.0597796903797158,False,Right Foot,Open Play,1,0,3,Half Volley
-8.429116205154607,0.055452175127058446,False,Head,Open Play,0,0,1,Normal
-10.30048542545447,0.058921027126874755,False,Head,Open Play,0,1,4,Normal
-25.67975856584325,0.0633601209250834,False,Left Foot,Open Play,1,1,1,Normal
-9.243916918709301,0.05629820214450957,False,Head,Open Play,0,1,3,Normal
-13.098091464026353,0.05941882472414553,False,Head,Open Play,0,0,3,Normal
-26.090994615000785,0.06941682652024031,False,Right Foot,Open Play,0,1,1,Normal
-24.73863375370596,0.05974618223358697,False,Left Foot,Open Play,0,0,2,Normal
-11.160645142642965,0.0604574143257598,False,Head,Open Play,0,1,2,Normal
-12.123530838827445,0.05350784743224283,False,Right Foot,Open Play,1,0,1,Normal
-19.016045856065872,0.06052687587985577,True,Right Foot,Open Play,1,0,3,Normal
-13.903237033151667,0.056308321492765954,False,Head,Open Play,0,1,2,Normal
-18.650737250843463,0.058265827475851996,False,Right Foot,Open Play,1,0,4,Half Volley
-20.31772625073977,0.06572893504844102,False,Left Foot,Open Play,0,0,2,Normal
-14.375673897247392,0.062246887291114536,False,Right Foot,Open Play,1,0,1,Normal
-37.58097923152083,0.07879664723088774,False,Right Foot,Open Play,0,0,1,Normal
-29.66243415500488,0.05567493598588036,False,Right Foot,Open Play,1,0,1,Normal
-35.143278162402545,0.07343335081970893,False,Right Foot,Open Play,0,1,1,Normal
-38.8614204578268,0.06923176668769612,False,Right Foot,Open Play,0,0,1,Normal
-23.926972228010797,0.05858034386421607,False,Right Foot,Open Play,0,0,3,Normal
-22.225210910135367,0.0667478640711243,False,Left Foot,Open Play,1,0,0,Normal
-24.46630335788388,0.06329023801644042,False,Left Foot,Open Play,0,0,1,Normal
-16.410971939528757,0.061239358595699164,False,Right Foot,Open Play,0,1,2,Normal
-12.191800523302538,0.060964554839931524,False,Head,Open Play,0,1,2,Normal
-21.319005605327845,0.06559659206083898,False,Right Foot,Open Play,1,0,3,Half Volley
-27.00592527576124,0.06129192837630084,False,Left Foot,Open Play,0,0,1,Normal
-12.81444497432487,0.06111232340503845,False,Head,Open Play,0,0,1,Normal
-15.023315213360865,0.061579502647194494,False,Right Foot,Open Play,0,0,1,Normal
-11.140017953306895,0.060364246717280634,False,Head,Open Play,0,0,2,Normal
-22.005681084665387,0.05967385376052966,False,Left Foot,Open Play,0,1,2,Normal
-14.373586887064759,0.052416528653709916,False,Right Foot,Open Play,1,1,1,Half Volley
-26.103064954139,0.06820264752715136,False,Left Foot,Open Play,0,1,2,Normal
-17.605112893702213,0.055783726712435956,False,Left Foot,Open Play,0,1,3,Normal
-7.169379331573971,0.05608183339115316,True,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879543,Juan Guillermo Cuadrado Bello,Juventus,31.41671529616041,0.06277245765104389,False,Right Foot,Open Play,0,1,1,Normal
+3879543,Simone Zaza,Juventus,21.402102700435766,0.05646075590872064,False,Left Foot,Open Play,0,0,3,Normal
+3879543,Danilo Soddimo,Frosinone,29.094501198680135,0.056979101519199174,False,Right Foot,Open Play,0,0,2,Normal
+3879543,Simone Zaza,Juventus,10.860018416190648,0.054459896239560684,False,Head,Open Play,0,0,1,Normal
+3879543,Stephan Lichtsteiner,Juventus,28.474023249270548,0.06446136138315713,False,Right Foot,Open Play,1,0,1,Lob
+3879543,Paul Pogba,Juventus,25.047954008261836,0.06900550562118882,False,Right Foot,Open Play,0,0,0,Normal
+3879543,Paul Pogba,Juventus,29.16727618410742,0.05500225413374423,False,Left Foot,Open Play,0,0,1,Normal
+3879543,Juan Guillermo Cuadrado Bello,Juventus,27.20459520007603,0.060443307157822986,False,Right Foot,Open Play,0,0,3,Normal
+3879543,Stephan Lichtsteiner,Juventus,29.88394217635953,0.06175495793763942,False,Right Foot,Open Play,0,0,0,Normal
+3879543,Simone Zaza,Juventus,6.741661516273273,0.0558989650392496,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3879543,Nicolás Ignacio Castillo Mora,Frosinone,39.53795644693843,0.07520946462689579,False,Right Foot,Open Play,1,0,1,Normal
+3879543,Nicolás Ignacio Castillo Mora,Frosinone,8.814193099768126,0.05671358233229381,False,Right Foot,Open Play,1,0,4,Half Volley
+3879543,Alessandro Frara,Frosinone,9.912618221237011,0.0597796903797158,False,Right Foot,Open Play,1,0,3,Half Volley
+3879543,Stefano Sturaro,Juventus,8.429116205154607,0.055452175127058446,False,Head,Open Play,0,0,1,Normal
+3879543,Alex Sandro Lobo Silva,Juventus,10.30048542545447,0.058921027126874755,False,Head,Open Play,0,1,4,Normal
+3879543,Simone Zaza,Juventus,25.67975856584325,0.0633601209250834,False,Left Foot,Open Play,1,1,1,Normal
+3879543,Paul Pogba,Juventus,9.243916918709301,0.05629820214450957,False,Head,Open Play,0,1,3,Normal
+3879543,Leonardo Blanchard,Frosinone,13.098091464026353,0.05941882472414553,False,Head,Open Play,0,0,3,Normal
+3879543,Paul Pogba,Juventus,26.090994615000785,0.06941682652024031,False,Right Foot,Open Play,0,1,1,Normal
+3879543,Paulo Bruno Exequiel Dybala,Juventus,24.73863375370596,0.05974618223358697,False,Left Foot,Open Play,0,0,2,Normal
+3879543,Simone Zaza,Juventus,11.160645142642965,0.0604574143257598,False,Head,Open Play,0,1,2,Normal
+3879543,Juan Guillermo Cuadrado Bello,Juventus,12.123530838827445,0.05350784743224283,False,Right Foot,Open Play,1,0,1,Normal
+3879543,Simone Zaza,Juventus,19.016045856065872,0.06052687587985577,True,Right Foot,Open Play,1,0,3,Normal
+3879543,Daniel Ciofani,Frosinone,13.903237033151667,0.056308321492765954,False,Head,Open Play,0,1,2,Normal
+3879543,Modibo Diakité,Frosinone,18.650737250843463,0.058265827475851996,False,Right Foot,Open Play,1,0,4,Half Volley
+3879543,Simone Zaza,Juventus,20.31772625073977,0.06572893504844102,False,Left Foot,Open Play,0,0,2,Normal
+3879543,Paul Pogba,Juventus,14.375673897247392,0.062246887291114536,False,Right Foot,Open Play,1,0,1,Normal
+3879543,Paul Pogba,Juventus,37.58097923152083,0.07879664723088774,False,Right Foot,Open Play,0,0,1,Normal
+3879543,Juan Guillermo Cuadrado Bello,Juventus,29.66243415500488,0.05567493598588036,False,Right Foot,Open Play,1,0,1,Normal
+3879543,Danilo Soddimo,Frosinone,35.143278162402545,0.07343335081970893,False,Right Foot,Open Play,0,1,1,Normal
+3879543,Leonardo Bonucci,Juventus,38.8614204578268,0.06923176668769612,False,Right Foot,Open Play,0,0,1,Normal
+3879543,Juan Guillermo Cuadrado Bello,Juventus,23.926972228010797,0.05858034386421607,False,Right Foot,Open Play,0,0,3,Normal
+3879543,Paulo Bruno Exequiel Dybala,Juventus,22.225210910135367,0.0667478640711243,False,Left Foot,Open Play,1,0,0,Normal
+3879543,Paulo Bruno Exequiel Dybala,Juventus,24.46630335788388,0.06329023801644042,False,Left Foot,Open Play,0,0,1,Normal
+3879543,Daniel Ciofani,Frosinone,16.410971939528757,0.061239358595699164,False,Right Foot,Open Play,0,1,2,Normal
+3879543,Paulo Bruno Exequiel Dybala,Juventus,12.191800523302538,0.060964554839931524,False,Head,Open Play,0,1,2,Normal
+3879543,Leonardo Bonucci,Juventus,21.319005605327845,0.06559659206083898,False,Right Foot,Open Play,1,0,3,Half Volley
+3879543,Anderson Hernanes de Carvalho Andrade,Juventus,27.00592527576124,0.06129192837630084,False,Left Foot,Open Play,0,0,1,Normal
+3879543,Giorgio Chiellini,Juventus,12.81444497432487,0.06111232340503845,False,Head,Open Play,0,0,1,Normal
+3879543,Roberto Maximiliano Pereyra,Juventus,15.023315213360865,0.061579502647194494,False,Right Foot,Open Play,0,0,1,Normal
+3879543,Paul Pogba,Juventus,11.140017953306895,0.060364246717280634,False,Head,Open Play,0,0,2,Normal
+3879543,Anderson Hernanes de Carvalho Andrade,Juventus,22.005681084665387,0.05967385376052966,False,Left Foot,Open Play,0,1,2,Normal
+3879543,Roberto Maximiliano Pereyra,Juventus,14.373586887064759,0.052416528653709916,False,Right Foot,Open Play,1,1,1,Half Volley
+3879543,Paulo Bruno Exequiel Dybala,Juventus,26.103064954139,0.06820264752715136,False,Left Foot,Open Play,0,1,2,Normal
+3879543,Paulo Bruno Exequiel Dybala,Juventus,17.605112893702213,0.055783726712435956,False,Left Foot,Open Play,0,1,3,Normal
+3879543,Leonardo Blanchard,Frosinone,7.169379331573971,0.05608183339115316,True,Head,Open Play,0,0,4,Normal

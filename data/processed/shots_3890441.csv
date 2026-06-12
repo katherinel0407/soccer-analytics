@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.604686356149273,0.05960816817405236,False,Left Foot,Open Play,1,0,1,Half Volley
-32.86609194899813,0.06728733374720142,False,Right Foot,Open Play,0,0,0,Normal
-29.08264087045741,0.07197259276887152,False,Left Foot,Open Play,1,0,0,Volley
-39.404568263083405,0.06128579664919693,False,Right Foot,Corner,0,0,0,Normal
-11.463420083029323,0.06051100441141224,False,Head,Open Play,0,0,3,Normal
-23.361720827028126,0.05965266136664316,False,Left Foot,Free Kick,0,0,0,Normal
-17.886866690396058,0.06042201370192319,False,Right Foot,Open Play,0,1,2,Normal
-9.296235797353674,0.05902624719805032,False,Head,Open Play,0,0,1,Normal
-21.662179022434472,0.06672676779326156,False,Right Foot,Open Play,0,0,2,Normal
-23.36685687036235,0.05338761693394161,False,Right Foot,Open Play,0,0,1,Normal
-19.443507913954207,0.06531897507532572,True,Right Foot,Open Play,1,0,2,Half Volley
-13.962807740565646,0.06152331802591131,False,Left Foot,Open Play,1,0,1,Half Volley
-11.101801655587261,0.05968687041923784,False,Head,Open Play,0,0,2,Normal
-27.67417568781408,0.06825691005006118,False,Left Foot,Open Play,0,0,2,Normal
-19.67587355112855,0.05951225858275853,False,Left Foot,Open Play,0,1,2,Normal
-24.15802144216285,0.067286701643106,False,Right Foot,Open Play,0,0,1,Normal
-17.618172436436193,0.05413605413875625,False,Right Foot,Open Play,0,1,1,Half Volley
-28.765604460883488,0.06920987211746449,False,Right Foot,Open Play,0,1,2,Normal
-13.35402561027947,0.061527932491126265,True,Left Foot,Open Play,0,1,1,Normal
-21.444113411377028,0.06580205746563147,False,Left Foot,Open Play,0,0,2,Normal
-14.28005602229907,0.05417088686851252,False,Right Foot,Open Play,0,0,1,Normal
-23.566925976885486,0.05157875700509434,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890441,Filip Kostić,VfB Stuttgart,9.604686356149273,0.05960816817405236,False,Left Foot,Open Play,1,0,1,Half Volley
+3890441,Sereso Geoffroy Gonzaroua Dié,VfB Stuttgart,32.86609194899813,0.06728733374720142,False,Right Foot,Open Play,0,0,0,Normal
+3890441,Emiliano Adrián Insúa Zapata,VfB Stuttgart,29.08264087045741,0.07197259276887152,False,Left Foot,Open Play,1,0,0,Volley
+3890441,Alexandru Iulian Maxim,VfB Stuttgart,39.404568263083405,0.06128579664919693,False,Right Foot,Corner,0,0,0,Normal
+3890441,Timo Werner,VfB Stuttgart,11.463420083029323,0.06051100441141224,False,Head,Open Play,0,0,3,Normal
+3890441,Marvin Plattenhardt,Hertha Berlin,23.361720827028126,0.05965266136664316,False,Left Foot,Free Kick,0,0,0,Normal
+3890441,Vedad Ibišević,Hertha Berlin,17.886866690396058,0.06042201370192319,False,Right Foot,Open Play,0,1,2,Normal
+3890441,Tolga Ciğerci,Hertha Berlin,9.296235797353674,0.05902624719805032,False,Head,Open Play,0,0,1,Normal
+3890441,Vedad Ibišević,Hertha Berlin,21.662179022434472,0.06672676779326156,False,Right Foot,Open Play,0,0,2,Normal
+3890441,Alexandru Iulian Maxim,VfB Stuttgart,23.36685687036235,0.05338761693394161,False,Right Foot,Open Play,0,0,1,Normal
+3890441,Sereso Geoffroy Gonzaroua Dié,VfB Stuttgart,19.443507913954207,0.06531897507532572,True,Right Foot,Open Play,1,0,2,Half Volley
+3890441,John Anthony Brooks,Hertha Berlin,13.962807740565646,0.06152331802591131,False,Left Foot,Open Play,1,0,1,Half Volley
+3890441,Christian Gentner,VfB Stuttgart,11.101801655587261,0.05968687041923784,False,Head,Open Play,0,0,2,Normal
+3890441,Filip Kostić,VfB Stuttgart,27.67417568781408,0.06825691005006118,False,Left Foot,Open Play,0,0,2,Normal
+3890441,Vedad Ibišević,Hertha Berlin,19.67587355112855,0.05951225858275853,False,Left Foot,Open Play,0,1,2,Normal
+3890441,Vedad Ibišević,Hertha Berlin,24.15802144216285,0.067286701643106,False,Right Foot,Open Play,0,0,1,Normal
+3890441,Martin Harnik,VfB Stuttgart,17.618172436436193,0.05413605413875625,False,Right Foot,Open Play,0,1,1,Half Volley
+3890441,Martin Harnik,VfB Stuttgart,28.765604460883488,0.06920987211746449,False,Right Foot,Open Play,0,1,2,Normal
+3890441,Filip Kostić,VfB Stuttgart,13.35402561027947,0.061527932491126265,True,Left Foot,Open Play,0,1,1,Normal
+3890441,Filip Kostić,VfB Stuttgart,21.444113411377028,0.06580205746563147,False,Left Foot,Open Play,0,0,2,Normal
+3890441,Martin Harnik,VfB Stuttgart,14.28005602229907,0.05417088686851252,False,Right Foot,Open Play,0,0,1,Normal
+3890441,Filip Kostić,VfB Stuttgart,23.566925976885486,0.05157875700509434,False,Left Foot,Open Play,0,1,1,Normal

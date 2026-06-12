@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.258536219475598,0.05880050581203042,True,Right Foot,Open Play,1,0,1,Normal
-15.950548579907839,0.05369125978058483,False,Left Foot,Open Play,0,0,2,Normal
-18.494593804677084,0.06412533664596122,True,Right Foot,Open Play,0,0,2,Normal
-28.546453369902185,0.060211352680162804,False,Right Foot,Open Play,0,0,0,Half Volley
-17.47254989977136,0.05473911969303677,True,Left Foot,Open Play,0,0,2,Normal
-37.08598117887675,0.06646208354473025,False,Right Foot,Open Play,0,0,0,Normal
-20.576928828180357,0.06559001821236107,False,Right Foot,Open Play,0,0,2,Lob
-17.647946056127886,0.05437665115868632,False,Right Foot,Open Play,1,0,0,Normal
-36.744795549846245,0.07629069743654811,False,Left Foot,Open Play,0,0,1,Normal
-38.401171857119145,0.07542562816465313,False,Right Foot,Open Play,1,0,1,Normal
-31.40015923526504,0.06867761710795389,False,Right Foot,Open Play,1,0,2,Normal
-8.57263086805912,0.053318426768727,False,Head,Open Play,0,0,4,Normal
-69.20960915942237,0.04493334251476021,False,Right Foot,Open Play,0,0,0,Normal
-24.310080213771403,0.06543975169198486,False,Right Foot,Open Play,0,0,2,Normal
-37.138928363645604,0.07275568720179096,False,Right Foot,Open Play,0,0,1,Normal
-20.607280266934787,0.0568836746706837,False,Right Foot,Open Play,0,0,1,Normal
-13.201893803541974,0.0608446488133095,False,Right Foot,Open Play,1,0,1,Volley
-31.38056723515367,0.0718403964733217,False,Right Foot,Open Play,0,0,2,Normal
-12.82809416865966,0.061377780540740896,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69301,Kosovare Asllani,Sweden Women's,16.258536219475598,0.05880050581203042,True,Right Foot,Open Play,1,0,1,Normal
+69301,Eva Sofia Jakobsson,Sweden Women's,15.950548579907839,0.05369125978058483,False,Left Foot,Open Play,0,0,2,Normal
+69301,Eva Sofia Jakobsson,Sweden Women's,18.494593804677084,0.06412533664596122,True,Right Foot,Open Play,0,0,2,Normal
+69301,Lucy Bronze,England Women's,28.546453369902185,0.060211352680162804,False,Right Foot,Open Play,0,0,0,Half Volley
+69301,Francesca Kirby,England Women's,17.47254989977136,0.05473911969303677,True,Left Foot,Open Play,0,0,2,Normal
+69301,Hanna Erica Maria Glas,Sweden Women's,37.08598117887675,0.06646208354473025,False,Right Foot,Open Play,0,0,0,Normal
+69301,Emma Stina Blackstenius,Sweden Women's,20.576928828180357,0.06559001821236107,False,Right Foot,Open Play,0,0,2,Lob
+69301,Ellen White,England Women's,17.647946056127886,0.05437665115868632,False,Right Foot,Open Play,1,0,0,Normal
+69301,Alex Greenwood,England Women's,36.744795549846245,0.07629069743654811,False,Left Foot,Open Play,0,0,1,Normal
+69301,Jade Moore,England Women's,38.401171857119145,0.07542562816465313,False,Right Foot,Open Play,1,0,1,Normal
+69301,Jill Scott,England Women's,31.40015923526504,0.06867761710795389,False,Right Foot,Open Play,1,0,2,Normal
+69301,Stephanie Houghton,England Women's,8.57263086805912,0.053318426768727,False,Head,Open Play,0,0,4,Normal
+69301,Lucy Bronze,England Women's,69.20960915942237,0.04493334251476021,False,Right Foot,Open Play,0,0,0,Normal
+69301,Julia Zigiotti-Olme,Sweden Women's,24.310080213771403,0.06543975169198486,False,Right Foot,Open Play,0,0,2,Normal
+69301,Jade Moore,England Women's,37.138928363645604,0.07275568720179096,False,Right Foot,Open Play,0,0,1,Normal
+69301,Eva Sofia Jakobsson,Sweden Women's,20.607280266934787,0.0568836746706837,False,Right Foot,Open Play,0,0,1,Normal
+69301,Lucy Bronze,England Women's,13.201893803541974,0.0608446488133095,False,Right Foot,Open Play,1,0,1,Volley
+69301,Karen Julia Carney,England Women's,31.38056723515367,0.0718403964733217,False,Right Foot,Open Play,0,0,2,Normal
+69301,Julia Zigiotti-Olme,Sweden Women's,12.82809416865966,0.061377780540740896,False,Left Foot,Open Play,0,0,2,Normal

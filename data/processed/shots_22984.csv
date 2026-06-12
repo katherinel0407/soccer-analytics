@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.774215821775981,0.057752730762694146,False,Right Foot,Open Play,1,0,2,Volley
-26.63324989557226,0.06815546642034943,False,Right Foot,Open Play,0,0,3,Normal
-6.2369864518050635,0.05760507151942316,True,Head,Open Play,0,0,5,Normal
-40.46986533212088,0.07753242899216108,False,Left Foot,Open Play,0,0,1,Normal
-13.542894816101914,0.06118760716293381,False,Left Foot,Open Play,0,1,2,Normal
-5.9304300012731,0.05693477437913831,False,Left Foot,Open Play,1,0,2,Half Volley
-6.676076692189812,0.056711302449466074,False,Right Foot,Open Play,1,0,4,Normal
-12.42779143693681,0.05808163975559765,True,Left Foot,Open Play,1,0,2,Normal
-7.51065909225016,0.05788327745583036,False,Right Foot,Open Play,1,0,2,Normal
-17.551353224181884,0.06376078144824013,False,Right Foot,Open Play,0,0,1,Normal
-6.736467917239719,0.05765852099416859,True,Head,Open Play,0,1,3,Normal
-13.106105447462257,0.060201809815049245,False,Left Foot,Open Play,1,1,2,Half Volley
-23.380547470065792,0.06789016525858445,False,Right Foot,Open Play,0,1,2,Normal
-25.670410982296325,0.06477088183440928,False,Left Foot,Open Play,0,0,2,Normal
-26.744719104899943,0.06638115363859018,False,Right Foot,Free Kick,0,0,0,Normal
-7.632168761236867,0.0566804701693511,False,Head,Open Play,0,1,4,Normal
-7.632168761236874,0.05605928107293339,False,Head,Open Play,0,1,2,Normal
-12.020815280171306,0.06070582877501906,False,Head,Open Play,0,0,3,Diving Header
-2.5059928172283374,0.05470402995800511,True,Left Foot,Open Play,1,0,4,Half Volley
-12.47798060585125,0.06046571801286916,False,Right Foot,Open Play,1,0,4,Volley
-13.160927019021115,0.06154781962251542,False,Left Foot,Open Play,0,0,4,Normal
-15.033296378372906,0.0622169659505825,False,Right Foot,Open Play,0,0,3,Normal
-38.51571108002551,0.07159841523268677,False,Right Foot,Open Play,0,0,1,Normal
-9.968951800465286,0.05941113544676233,False,Left Foot,Open Play,0,1,2,Half Volley
-16.079800993793423,0.06192851386326093,False,Right Foot,Open Play,0,0,2,Normal
-31.785531299633796,0.05688917816765203,False,Right Foot,Open Play,0,0,1,Normal
-26.795895208035134,0.06994291419075968,False,Right Foot,Open Play,0,0,2,Normal
-43.96202907055133,0.06075131544065717,False,Right Foot,Open Play,1,0,0,Normal
-16.979988221432905,0.06358217894501388,False,Left Foot,Open Play,1,1,1,Half Volley
-16.414627622946554,0.06308347606761892,False,Left Foot,Open Play,0,0,2,Normal
-11.211155159036917,0.059081382321810275,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+22984,Sara Däbritz,Germany Women's,6.774215821775981,0.057752730762694146,False,Right Foot,Open Play,1,0,2,Volley
+22984,Sara Däbritz,Germany Women's,26.63324989557226,0.06815546642034943,False,Right Foot,Open Play,0,0,3,Normal
+22984,Melanie Leupolz,Germany Women's,6.2369864518050635,0.05760507151942316,True,Head,Open Play,0,0,5,Normal
+22984,Nothando Vilakazi,South Africa Women's,40.46986533212088,0.07753242899216108,False,Left Foot,Open Play,0,0,1,Normal
+22984,Sara Däbritz,Germany Women's,13.542894816101914,0.06118760716293381,False,Left Foot,Open Play,0,1,2,Normal
+22984,Alexandra Popp,Germany Women's,5.9304300012731,0.05693477437913831,False,Left Foot,Open Play,1,0,2,Half Volley
+22984,Sara Däbritz,Germany Women's,6.676076692189812,0.056711302449466074,False,Right Foot,Open Play,1,0,4,Normal
+22984,Sara Däbritz,Germany Women's,12.42779143693681,0.05808163975559765,True,Left Foot,Open Play,1,0,2,Normal
+22984,Svenja Huth,Germany Women's,7.51065909225016,0.05788327745583036,False,Right Foot,Open Play,1,0,2,Normal
+22984,Lina Magull,Germany Women's,17.551353224181884,0.06376078144824013,False,Right Foot,Open Play,0,0,1,Normal
+22984,Alexandra Popp,Germany Women's,6.736467917239719,0.05765852099416859,True,Head,Open Play,0,1,3,Normal
+22984,Alexandra Popp,Germany Women's,13.106105447462257,0.060201809815049245,False,Left Foot,Open Play,1,1,2,Half Volley
+22984,Busisiwe Ndimeni,South Africa Women's,23.380547470065792,0.06789016525858445,False,Right Foot,Open Play,0,1,2,Normal
+22984,Klara Bühl,Germany Women's,25.670410982296325,0.06477088183440928,False,Left Foot,Open Play,0,0,2,Normal
+22984,Lina Magull,Germany Women's,26.744719104899943,0.06638115363859018,False,Right Foot,Free Kick,0,0,0,Normal
+22984,Melanie Leupolz,Germany Women's,7.632168761236867,0.0566804701693511,False,Head,Open Play,0,1,4,Normal
+22984,Alexandra Popp,Germany Women's,7.632168761236874,0.05605928107293339,False,Head,Open Play,0,1,2,Normal
+22984,Marina Hegering,Germany Women's,12.020815280171306,0.06070582877501906,False,Head,Open Play,0,0,3,Diving Header
+22984,Lina Magull,Germany Women's,2.5059928172283374,0.05470402995800511,True,Left Foot,Open Play,1,0,4,Half Volley
+22984,Marina Hegering,Germany Women's,12.47798060585125,0.06046571801286916,False,Right Foot,Open Play,1,0,4,Volley
+22984,Lina Magull,Germany Women's,13.160927019021115,0.06154781962251542,False,Left Foot,Open Play,0,0,4,Normal
+22984,Sara Däbritz,Germany Women's,15.033296378372906,0.0622169659505825,False,Right Foot,Open Play,0,0,3,Normal
+22984,Janine van Wyk,South Africa Women's,38.51571108002551,0.07159841523268677,False,Right Foot,Open Play,0,0,1,Normal
+22984,Sara Däbritz,Germany Women's,9.968951800465286,0.05941113544676233,False,Left Foot,Open Play,0,1,2,Half Volley
+22984,Thembi Kgatlana,South Africa Women's,16.079800993793423,0.06192851386326093,False,Right Foot,Open Play,0,0,2,Normal
+22984,Rhoda Mulaudzi,South Africa Women's,31.785531299633796,0.05688917816765203,False,Right Foot,Open Play,0,0,1,Normal
+22984,Thembi Kgatlana,South Africa Women's,26.795895208035134,0.06994291419075968,False,Right Foot,Open Play,0,0,2,Normal
+22984,Kholosa Biyana,South Africa Women's,43.96202907055133,0.06075131544065717,False,Right Foot,Open Play,1,0,0,Normal
+22984,Rhoda Mulaudzi,South Africa Women's,16.979988221432905,0.06358217894501388,False,Left Foot,Open Play,1,1,1,Half Volley
+22984,Carolin Simon,Germany Women's,16.414627622946554,0.06308347606761892,False,Left Foot,Open Play,0,0,2,Normal
+22984,Lea Schüller,Germany Women's,11.211155159036917,0.059081382321810275,False,Right Foot,Open Play,0,0,1,Normal

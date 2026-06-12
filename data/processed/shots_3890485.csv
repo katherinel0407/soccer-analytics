@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.020445045457187,0.05302501096619425,True,Right Foot,Open Play,1,0,1,Normal
-6.010823570859488,0.05771453536625072,False,Head,Open Play,0,0,3,Normal
-14.404513181638592,0.0618624219580656,True,Left Foot,Open Play,0,0,1,Normal
-33.91710482927457,0.07316249410742065,False,Left Foot,Open Play,0,1,1,Normal
-20.620620747203514,0.0649426017383663,False,Left Foot,Open Play,1,0,2,Half Volley
-6.087692502089766,0.05772920308524099,False,Right Foot,Open Play,1,0,2,Volley
-20.130822139197395,0.053707588386848616,False,Right Foot,Open Play,1,0,0,Half Volley
-26.936406590337924,0.06707983278419095,False,Right Foot,Open Play,0,0,1,Normal
-22.528204544525963,0.06529455341465511,False,Right Foot,Free Kick,0,0,0,Normal
-16.430459518832695,0.05320326723064844,False,Left Foot,Open Play,0,0,1,Normal
-29.42872746144488,0.05666803526913301,False,Right Foot,Free Kick,0,0,0,Normal
-15.526107045875989,0.06073288244918625,False,Head,Open Play,0,0,2,Normal
-12.175795661885921,0.054067290426119824,False,Right Foot,Open Play,1,0,3,Overhead Kick
-22.705505940189926,0.06692077327805923,False,Left Foot,Open Play,1,0,1,Half Volley
-20.518528212325567,0.06514603400739344,False,Right Foot,Open Play,1,1,1,Volley
-30.990321069650122,0.06204594646739534,False,Right Foot,Open Play,0,0,1,Normal
-12.673200069437867,0.05487239408840126,False,Right Foot,Open Play,1,1,1,Volley
-6.519202405202649,0.05751595067448574,False,Left Foot,Open Play,1,0,2,Half Volley
-32.63387810236473,0.0667821102093035,False,Right Foot,Open Play,1,0,2,Half Volley
-22.940139493908923,0.06004852086387353,False,Right Foot,Open Play,1,0,1,Normal
-15.929846201391905,0.05594352705134241,False,Right Foot,Open Play,1,0,2,Normal
-31.56010139400696,0.07308064609442137,False,Right Foot,Free Kick,0,0,0,Normal
-4.1048751503547525,0.056486024912448675,True,Head,Open Play,0,0,5,Normal
-33.96233207540377,0.07581940403294042,False,Right Foot,Open Play,0,1,2,Normal
-24.473046398027357,0.06749336062308117,True,Right Foot,Free Kick,0,0,0,Normal
-32.481533215043896,0.056971707434500175,False,Right Foot,Open Play,0,1,2,Half Volley
-21.400233643584368,0.06378197951103047,False,Left Foot,Open Play,1,0,1,Normal
-30.501147519396703,0.06129845348720811,False,Right Foot,Open Play,0,0,1,Normal
-17.10584695360039,0.06376446400930535,False,Right Foot,Open Play,0,0,1,Half Volley
-9.436630754670862,0.05901163307185635,False,Head,Open Play,0,1,3,Normal
-8.273451516749219,0.0551762474476623,True,Right Foot,Open Play,1,0,3,Volley
-9.751410154434078,0.05829831656859089,False,Head,Open Play,0,0,4,Normal
-12.963024338479041,0.06102122838469469,False,Left Foot,Open Play,0,0,1,Normal
-23.022814771439226,0.05606796446255025,False,Left Foot,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-27.142954887042052,0.06088517306603239,False,Right Foot,Free Kick,0,0,0,Normal
-37.52998800959042,0.07865356965791492,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890485,Moritz Hartmann,Ingolstadt,22.020445045457187,0.05302501096619425,True,Right Foot,Open Play,1,0,1,Normal
+3890485,Lukas Rupp,VfB Stuttgart,6.010823570859488,0.05771453536625072,False,Head,Open Play,0,0,3,Normal
+3890485,Filip Kostić,VfB Stuttgart,14.404513181638592,0.0618624219580656,True,Left Foot,Open Play,0,0,1,Normal
+3890485,Daniel Didavi,VfB Stuttgart,33.91710482927457,0.07316249410742065,False,Left Foot,Open Play,0,1,1,Normal
+3890485,Almog Cohen,Ingolstadt,20.620620747203514,0.0649426017383663,False,Left Foot,Open Play,1,0,2,Half Volley
+3890485,Timo Werner,VfB Stuttgart,6.087692502089766,0.05772920308524099,False,Right Foot,Open Play,1,0,2,Volley
+3890485,Moritz Hartmann,Ingolstadt,20.130822139197395,0.053707588386848616,False,Right Foot,Open Play,1,0,0,Half Volley
+3890485,Mathew Leckie,Ingolstadt,26.936406590337924,0.06707983278419095,False,Right Foot,Open Play,0,0,1,Normal
+3890485,Dario Lezcano,Ingolstadt,22.528204544525963,0.06529455341465511,False,Right Foot,Free Kick,0,0,0,Normal
+3890485,Dario Lezcano,Ingolstadt,16.430459518832695,0.05320326723064844,False,Left Foot,Open Play,0,0,1,Normal
+3890485,Roger de Oliveira Bernardo,Ingolstadt,29.42872746144488,0.05666803526913301,False,Right Foot,Free Kick,0,0,0,Normal
+3890485,Moritz Hartmann,Ingolstadt,15.526107045875989,0.06073288244918625,False,Head,Open Play,0,0,2,Normal
+3890485,Moritz Hartmann,Ingolstadt,12.175795661885921,0.054067290426119824,False,Right Foot,Open Play,1,0,3,Overhead Kick
+3890485,Almog Cohen,Ingolstadt,22.705505940189926,0.06692077327805923,False,Left Foot,Open Play,1,0,1,Half Volley
+3890485,Almog Cohen,Ingolstadt,20.518528212325567,0.06514603400739344,False,Right Foot,Open Play,1,1,1,Volley
+3890485,Almog Cohen,Ingolstadt,30.990321069650122,0.06204594646739534,False,Right Foot,Open Play,0,0,1,Normal
+3890485,Kevin Großkreutz,VfB Stuttgart,12.673200069437867,0.05487239408840126,False,Right Foot,Open Play,1,1,1,Volley
+3890485,Lukas Rupp,VfB Stuttgart,6.519202405202649,0.05751595067448574,False,Left Foot,Open Play,1,0,2,Half Volley
+3890485,Sereso Geoffroy Gonzaroua Dié,VfB Stuttgart,32.63387810236473,0.0667821102093035,False,Right Foot,Open Play,1,0,2,Half Volley
+3890485,Kevin Großkreutz,VfB Stuttgart,22.940139493908923,0.06004852086387353,False,Right Foot,Open Play,1,0,1,Normal
+3890485,Christian Gentner,VfB Stuttgart,15.929846201391905,0.05594352705134241,False,Right Foot,Open Play,1,0,2,Normal
+3890485,Dario Lezcano,Ingolstadt,31.56010139400696,0.07308064609442137,False,Right Foot,Free Kick,0,0,0,Normal
+3890485,Mathew Leckie,Ingolstadt,4.1048751503547525,0.056486024912448675,True,Head,Open Play,0,0,5,Normal
+3890485,Dario Lezcano,Ingolstadt,33.96233207540377,0.07581940403294042,False,Right Foot,Open Play,0,1,2,Normal
+3890485,Dario Lezcano,Ingolstadt,24.473046398027357,0.06749336062308117,True,Right Foot,Free Kick,0,0,0,Normal
+3890485,Max Christiansen,Ingolstadt,32.481533215043896,0.056971707434500175,False,Right Foot,Open Play,0,1,2,Half Volley
+3890485,Moritz Hartmann,Ingolstadt,21.400233643584368,0.06378197951103047,False,Left Foot,Open Play,1,0,1,Normal
+3890485,Max Christiansen,Ingolstadt,30.501147519396703,0.06129845348720811,False,Right Foot,Open Play,0,0,1,Normal
+3890485,Dario Lezcano,Ingolstadt,17.10584695360039,0.06376446400930535,False,Right Foot,Open Play,0,0,1,Half Volley
+3890485,Borys Tashchy,VfB Stuttgart,9.436630754670862,0.05901163307185635,False,Head,Open Play,0,1,3,Normal
+3890485,Lukas Rupp,VfB Stuttgart,8.273451516749219,0.0551762474476623,True,Right Foot,Open Play,1,0,3,Volley
+3890485,Borys Tashchy,VfB Stuttgart,9.751410154434078,0.05829831656859089,False,Head,Open Play,0,0,4,Normal
+3890485,Emiliano Adrián Insúa Zapata,VfB Stuttgart,12.963024338479041,0.06102122838469469,False,Left Foot,Open Play,0,0,1,Normal
+3890485,Moritz Hartmann,Ingolstadt,23.022814771439226,0.05606796446255025,False,Left Foot,Open Play,0,1,2,Normal
+3890485,Daniel Didavi,VfB Stuttgart,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3890485,Roger de Oliveira Bernardo,Ingolstadt,27.142954887042052,0.06088517306603239,False,Right Foot,Free Kick,0,0,0,Normal
+3890485,Daniel Didavi,VfB Stuttgart,37.52998800959042,0.07865356965791492,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.9375366108338,0.06155449596072987,False,Head,Open Play,0,1,2,Normal
-28.616254122438875,0.06044357776890997,False,Right Foot,Open Play,0,0,1,Normal
-6.3953107821277975,0.054241074868648397,True,Right Foot,Open Play,1,0,3,Volley
-10.42353107157071,0.060027146861956655,False,Right Foot,Open Play,1,0,2,Volley
-14.807092894960848,0.06177210337039459,True,Left Foot,Open Play,0,0,3,Normal
-30.244668951734283,0.06333119879250142,False,Right Foot,Open Play,0,0,2,Normal
-23.300214591286498,0.058729687954060424,False,Left Foot,Open Play,1,0,0,Half Volley
-12.1433109158911,0.053703601305471756,False,Right Foot,Open Play,1,0,2,Normal
-19.743353311937664,0.05391161413225318,False,Left Foot,Open Play,1,0,1,Half Volley
-7.462573282722252,0.05850225608830431,False,Head,Open Play,0,1,3,Normal
-10.857716150277643,0.05476576051002857,False,Head,Open Play,0,1,4,Normal
-24.329817097545142,0.06759316621762887,False,Left Foot,Open Play,0,0,2,Normal
-24.96898075613019,0.06838761064390414,False,Left Foot,Open Play,1,0,0,Half Volley
-14.003213916812097,0.06055082382873576,False,Left Foot,Open Play,1,0,1,Normal
-6.3285069329186925,0.057467853604484996,True,Right Foot,Open Play,1,0,3,Volley
-24.308229059312403,0.06824613421856204,False,Left Foot,Open Play,0,0,1,Normal
-13.829316685939327,0.060013852392312744,True,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788747,Christoph Baumgartner,Austria,14.9375366108338,0.06155449596072987,False,Head,Open Play,0,1,2,Normal
+3788747,Sasa Kalajdzic,Austria,28.616254122438875,0.06044357776890997,False,Right Foot,Open Play,0,0,1,Normal
+3788747,Stefan Lainer,Austria,6.3953107821277975,0.054241074868648397,True,Right Foot,Open Play,1,0,3,Volley
+3788747,Sasa Kalajdzic,Austria,10.42353107157071,0.060027146861956655,False,Right Foot,Open Play,1,0,2,Volley
+3788747,Goran Pandev,North Macedonia,14.807092894960848,0.06177210337039459,True,Left Foot,Open Play,0,0,3,Normal
+3788747,Stefan Ristovski,North Macedonia,30.244668951734283,0.06333119879250142,False,Right Foot,Open Play,0,0,2,Normal
+3788747,Boban Nikolov,North Macedonia,23.300214591286498,0.058729687954060424,False,Left Foot,Open Play,1,0,0,Half Volley
+3788747,Boban Nikolov,North Macedonia,12.1433109158911,0.053703601305471756,False,Right Foot,Open Play,1,0,2,Normal
+3788747,Goran Pandev,North Macedonia,19.743353311937664,0.05391161413225318,False,Left Foot,Open Play,1,0,1,Half Volley
+3788747,Michael Gregoritsch,Austria,7.462573282722252,0.05850225608830431,False,Head,Open Play,0,1,3,Normal
+3788747,Marcel Sabitzer,Austria,10.857716150277643,0.05476576051002857,False,Head,Open Play,0,1,4,Normal
+3788747,Xaver Schlager,Austria,24.329817097545142,0.06759316621762887,False,Left Foot,Open Play,0,0,2,Normal
+3788747,Ezgjan Alioski,North Macedonia,24.96898075613019,0.06838761064390414,False,Left Foot,Open Play,1,0,0,Half Volley
+3788747,Eljif Elmas,North Macedonia,14.003213916812097,0.06055082382873576,False,Left Foot,Open Play,1,0,1,Normal
+3788747,Michael Gregoritsch,Austria,6.3285069329186925,0.057467853604484996,True,Right Foot,Open Play,1,0,3,Volley
+3788747,Marcel Sabitzer,Austria,24.308229059312403,0.06824613421856204,False,Left Foot,Open Play,0,0,1,Normal
+3788747,Marko Arnautović,Austria,13.829316685939327,0.060013852392312744,True,Right Foot,Open Play,0,1,2,Normal

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-40.22437072223754,0.06331400064737985,False,Right Foot,Open Play,0,0,1,Normal
-14.32829368766567,0.06090580641069326,False,Head,Open Play,0,1,3,Normal
-31.189902212094218,0.0720812260336113,False,Right Foot,Free Kick,0,0,0,Normal
-27.04736586065268,0.06557718501907812,False,Right Foot,Open Play,0,0,1,Normal
-16.86683135624472,0.054079378230435925,False,Right Foot,Open Play,0,0,1,Normal
-15.17959156235767,0.0625866325291535,False,Right Foot,Open Play,1,0,1,Volley
-19.309324172533845,0.06521386949488163,False,Right Foot,Open Play,1,1,1,Lob
-4.346262762420147,0.05434920720237095,True,Right Foot,Open Play,1,0,2,Half Volley
-10.846658471621579,0.05616581652485568,False,Left Foot,Open Play,1,0,2,Normal
-11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
-31.6760161636529,0.0739904603492508,False,Left Foot,Open Play,0,1,1,Normal
-22.826519664635697,0.05688467610271985,False,Right Foot,Open Play,0,0,3,Normal
-30.127230207903274,0.07153075200429326,False,Right Foot,Open Play,0,0,2,Normal
-21.72763217656264,0.06606253066690294,False,Left Foot,Open Play,0,0,1,Normal
-20.02623279601034,0.05520732940171471,False,Right Foot,Open Play,0,0,3,Normal
-32.066493416025395,0.06239135651968045,False,Right Foot,Open Play,0,0,1,Normal
-14.34050208326054,0.05885923992834643,False,Right Foot,Open Play,0,0,3,Overhead Kick
-24.629250902128547,0.06582701684024721,False,Right Foot,Open Play,1,0,0,Normal
-18.069310999592645,0.055980064587440356,False,Left Foot,Open Play,1,0,0,Normal
-7.942921376924233,0.05835746760773345,False,Right Foot,Open Play,1,0,3,Volley
-4.24499705535822,0.05609365708624351,False,Head,Open Play,0,1,5,Normal
-19.22758435165479,0.05659272249485737,True,Left Foot,Open Play,1,0,2,Half Volley
-24.712952069714376,0.06881264739496519,False,Left Foot,Open Play,1,0,0,Half Volley
-29.470324056582747,0.060560086203383594,False,Right Foot,Open Play,0,0,1,Normal
-11.197321108193695,0.05787828164779966,False,Right Foot,Open Play,1,0,2,Volley
-15.448624534242521,0.06197205890078882,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754250,Jordan Veretout,Aston Villa,40.22437072223754,0.06331400064737985,False,Right Foot,Open Play,0,0,1,Normal
+3754250,Jamie Vardy,Leicester City,14.32829368766567,0.06090580641069326,False,Head,Open Play,0,1,3,Normal
+3754250,Marc Albrighton,Leicester City,31.189902212094218,0.0720812260336113,False,Right Foot,Free Kick,0,0,0,Normal
+3754250,Marc Albrighton,Leicester City,27.04736586065268,0.06557718501907812,False,Right Foot,Open Play,0,0,1,Normal
+3754250,Libor Kozák,Aston Villa,16.86683135624472,0.054079378230435925,False,Right Foot,Open Play,0,0,1,Normal
+3754250,Ashley Westwood,Aston Villa,15.17959156235767,0.0625866325291535,False,Right Foot,Open Play,1,0,1,Volley
+3754250,Jamie Vardy,Leicester City,19.309324172533845,0.06521386949488163,False,Right Foot,Open Play,1,1,1,Lob
+3754250,Shinji Okazaki,Leicester City,4.346262762420147,0.05434920720237095,True,Right Foot,Open Play,1,0,2,Half Volley
+3754250,Riyad Mahrez,Leicester City,10.846658471621579,0.05616581652485568,False,Left Foot,Open Play,1,0,2,Normal
+3754250,Riyad Mahrez,Leicester City,11.800423721205943,0.05947215900191016,False,Left Foot,Penalty,0,0,0,Normal
+3754250,Aly Cissokho,Aston Villa,31.6760161636529,0.0739904603492508,False,Left Foot,Open Play,0,1,1,Normal
+3754250,Idrissa Gana Gueye,Aston Villa,22.826519664635697,0.05688467610271985,False,Right Foot,Open Play,0,0,3,Normal
+3754250,Marc Albrighton,Leicester City,30.127230207903274,0.07153075200429326,False,Right Foot,Open Play,0,0,2,Normal
+3754250,Aly Cissokho,Aston Villa,21.72763217656264,0.06606253066690294,False,Left Foot,Open Play,0,0,1,Normal
+3754250,Leandro Bacuna,Aston Villa,20.02623279601034,0.05520732940171471,False,Right Foot,Open Play,0,0,3,Normal
+3754250,Idrissa Gana Gueye,Aston Villa,32.066493416025395,0.06239135651968045,False,Right Foot,Open Play,0,0,1,Normal
+3754250,Jordan Ayew,Aston Villa,14.34050208326054,0.05885923992834643,False,Right Foot,Open Play,0,0,3,Overhead Kick
+3754250,Danny Drinkwater,Leicester City,24.629250902128547,0.06582701684024721,False,Right Foot,Open Play,1,0,0,Normal
+3754250,Leandro Bacuna,Aston Villa,18.069310999592645,0.055980064587440356,False,Left Foot,Open Play,1,0,0,Normal
+3754250,Danny Drinkwater,Leicester City,7.942921376924233,0.05835746760773345,False,Right Foot,Open Play,1,0,3,Volley
+3754250,Libor Kozák,Aston Villa,4.24499705535822,0.05609365708624351,False,Head,Open Play,0,1,5,Normal
+3754250,Rudy Gestede,Aston Villa,19.22758435165479,0.05659272249485737,True,Left Foot,Open Play,1,0,2,Half Volley
+3754250,Danny Drinkwater,Leicester City,24.712952069714376,0.06881264739496519,False,Left Foot,Open Play,1,0,0,Half Volley
+3754250,Idrissa Gana Gueye,Aston Villa,29.470324056582747,0.060560086203383594,False,Right Foot,Open Play,0,0,1,Normal
+3754250,Libor Kozák,Aston Villa,11.197321108193695,0.05787828164779966,False,Right Foot,Open Play,1,0,2,Volley
+3754250,Jamie Vardy,Leicester City,15.448624534242521,0.06197205890078882,False,Left Foot,Open Play,0,0,1,Normal

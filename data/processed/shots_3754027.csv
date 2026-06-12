@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.200446419674527,0.05448925684630543,False,Head,Open Play,0,1,2,Normal
-3.832753579347357,0.056459790129748784,False,Head,Open Play,0,0,4,Normal
-28.511050489240134,0.06919748315407985,False,Right Foot,Open Play,0,0,1,Normal
-23.732045845227926,0.0678416089807913,False,Left Foot,Open Play,1,1,1,Half Volley
-12.875169901791581,0.06116778894656291,False,Left Foot,Open Play,1,0,2,Half Volley
-8.556284240252888,0.05899627527153127,False,Left Foot,Open Play,1,0,2,Normal
-21.714741536569118,0.06149292700561184,False,Right Foot,Open Play,0,0,1,Half Volley
-29.60608045655487,0.0723371262171487,False,Left Foot,Open Play,0,0,0,Normal
-28.720027855139694,0.07148747103960205,False,Right Foot,Open Play,0,0,3,Half Volley
-20.03521899056759,0.058267652492655905,False,Left Foot,Open Play,0,0,2,Normal
-5.522680508593631,0.05681157362438647,False,Head,Open Play,0,1,3,Normal
-20.0322240402807,0.06506906700602758,False,Left Foot,Open Play,0,0,1,Normal
-9.749358953285084,0.058983311064965516,True,Left Foot,Open Play,0,1,3,Normal
-15.14760707174569,0.05383108215212082,False,Right Foot,Open Play,1,0,2,Normal
-19.448907424325927,0.05573593088795015,True,Right Foot,Open Play,1,0,1,Half Volley
-19.725364381932216,0.06338449800261751,False,Right Foot,Open Play,1,0,0,Normal
-28.201595699534455,0.06684391969616903,False,Left Foot,Open Play,0,0,1,Normal
-11.360017605620158,0.056961824887535956,False,Right Foot,Open Play,1,0,2,Volley
-23.033888078220745,0.06725806653082732,False,Right Foot,Open Play,0,0,3,Normal
-15.901257811883942,0.062490610673970944,False,Left Foot,Open Play,1,0,1,Normal
-9.121403400793108,0.055770835255565344,False,Head,Open Play,0,0,1,Normal
-27.730849247724098,0.06923617878600313,False,Right Foot,Open Play,1,0,0,Normal
-28.940110573389315,0.07047793337959012,False,Right Foot,Open Play,0,1,4,Normal
-22.027482833950863,0.06351125839249648,False,Left Foot,Open Play,0,1,2,Normal
-16.694010902116965,0.05858809263032228,True,Left Foot,Open Play,0,1,3,Normal
-30.793668180325646,0.06688295364765472,True,Left Foot,Open Play,0,0,1,Normal
-20.462893246068607,0.054233923037848346,False,Right Foot,Open Play,0,0,1,Normal
-12.003749414245535,0.05948365679406363,True,Right Foot,Penalty,0,0,0,Normal
-6.999999999999997,0.05566707811587913,False,Head,Open Play,0,1,4,Normal
-20.92868844433401,0.0594847435926943,False,Right Foot,Open Play,0,0,2,Normal
-29.372095601097303,0.05821105172571788,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754027,Jan Vertonghen,Tottenham Hotspur,11.200446419674527,0.05448925684630543,False,Head,Open Play,0,1,2,Normal
+3754027,Toby Alderweireld,Tottenham Hotspur,3.832753579347357,0.056459790129748784,False,Head,Open Play,0,0,4,Normal
+3754027,Harry Kane,Tottenham Hotspur,28.511050489240134,0.06919748315407985,False,Right Foot,Open Play,0,0,1,Normal
+3754027,Danny Rose,Tottenham Hotspur,23.732045845227926,0.0678416089807913,False,Left Foot,Open Play,1,1,1,Half Volley
+3754027,Bamidele Alli,Tottenham Hotspur,12.875169901791581,0.06116778894656291,False,Left Foot,Open Play,1,0,2,Half Volley
+3754027,Harry Kane,Tottenham Hotspur,8.556284240252888,0.05899627527153127,False,Left Foot,Open Play,1,0,2,Normal
+3754027,Mousa Sidi Yaya Dembélé,Tottenham Hotspur,21.714741536569118,0.06149292700561184,False,Right Foot,Open Play,0,0,1,Half Volley
+3754027,Danny Rose,Tottenham Hotspur,29.60608045655487,0.0723371262171487,False,Left Foot,Open Play,0,0,0,Normal
+3754027,Jeremain Lens,Sunderland,28.720027855139694,0.07148747103960205,False,Right Foot,Open Play,0,0,3,Half Volley
+3754027,Harry Kane,Tottenham Hotspur,20.03521899056759,0.058267652492655905,False,Left Foot,Open Play,0,0,2,Normal
+3754027,Harry Kane,Tottenham Hotspur,5.522680508593631,0.05681157362438647,False,Head,Open Play,0,1,3,Normal
+3754027,Erik Lamela,Tottenham Hotspur,20.0322240402807,0.06506906700602758,False,Left Foot,Open Play,0,0,1,Normal
+3754027,Patrick van Aanholt,Sunderland,9.749358953285084,0.058983311064965516,True,Left Foot,Open Play,0,1,3,Normal
+3754027,Harry Kane,Tottenham Hotspur,15.14760707174569,0.05383108215212082,False,Right Foot,Open Play,1,0,2,Normal
+3754027,Christian Dannemann Eriksen,Tottenham Hotspur,19.448907424325927,0.05573593088795015,True,Right Foot,Open Play,1,0,1,Half Volley
+3754027,Jermain Defoe,Sunderland,19.725364381932216,0.06338449800261751,False,Right Foot,Open Play,1,0,0,Normal
+3754027,Christian Dannemann Eriksen,Tottenham Hotspur,28.201595699534455,0.06684391969616903,False,Left Foot,Open Play,0,0,1,Normal
+3754027,Toby Alderweireld,Tottenham Hotspur,11.360017605620158,0.056961824887535956,False,Right Foot,Open Play,1,0,2,Volley
+3754027,Bamidele Alli,Tottenham Hotspur,23.033888078220745,0.06725806653082732,False,Right Foot,Open Play,0,0,3,Normal
+3754027,Jermain Defoe,Sunderland,15.901257811883942,0.062490610673970944,False,Left Foot,Open Play,1,0,1,Normal
+3754027,Bamidele Alli,Tottenham Hotspur,9.121403400793108,0.055770835255565344,False,Head,Open Play,0,0,1,Normal
+3754027,Jan Vertonghen,Tottenham Hotspur,27.730849247724098,0.06923617878600313,False,Right Foot,Open Play,1,0,0,Normal
+3754027,Harry Kane,Tottenham Hotspur,28.940110573389315,0.07047793337959012,False,Right Foot,Open Play,0,1,4,Normal
+3754027,Danny Rose,Tottenham Hotspur,22.027482833950863,0.06351125839249648,False,Left Foot,Open Play,0,1,2,Normal
+3754027,Mousa Sidi Yaya Dembélé,Tottenham Hotspur,16.694010902116965,0.05858809263032228,True,Left Foot,Open Play,0,1,3,Normal
+3754027,Christian Dannemann Eriksen,Tottenham Hotspur,30.793668180325646,0.06688295364765472,True,Left Foot,Open Play,0,0,1,Normal
+3754027,Harry Kane,Tottenham Hotspur,20.462893246068607,0.054233923037848346,False,Right Foot,Open Play,0,0,1,Normal
+3754027,Harry Kane,Tottenham Hotspur,12.003749414245535,0.05948365679406363,True,Right Foot,Penalty,0,0,0,Normal
+3754027,Toby Alderweireld,Tottenham Hotspur,6.999999999999997,0.05566707811587913,False,Head,Open Play,0,1,4,Normal
+3754027,Billy Jones,Sunderland,20.92868844433401,0.0594847435926943,False,Right Foot,Open Play,0,0,2,Normal
+3754027,Christian Dannemann Eriksen,Tottenham Hotspur,29.372095601097303,0.05821105172571788,False,Left Foot,Open Play,0,0,1,Normal

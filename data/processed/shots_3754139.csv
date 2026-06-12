@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.88835620163914,0.0643946221783101,False,Right Foot,Open Play,1,0,2,Volley
-28.112808468738944,0.061599926419382126,False,Left Foot,Open Play,0,0,1,Normal
-20.40833163195855,0.06230045678440217,False,Left Foot,Open Play,0,0,3,Normal
-10.511898020814321,0.05984822748985514,False,Head,Open Play,0,1,2,Normal
-10.679419459877016,0.0585544837884681,False,Right Foot,Open Play,0,0,4,Half Volley
-21.09502310972898,0.0660597446198404,False,Left Foot,Open Play,1,0,1,Half Volley
-28.40422503783548,0.0687878569914551,False,Left Foot,Open Play,0,0,2,Normal
-30.887052303513844,0.0731725199246844,False,Left Foot,Open Play,0,0,1,Normal
-29.786070569982876,0.07248402297690311,False,Right Foot,Open Play,0,0,0,Normal
-22.62918469587449,0.06686387958231449,False,Right Foot,Open Play,0,0,3,Normal
-27.154373496731605,0.06955614404948751,False,Right Foot,Open Play,0,0,1,Normal
-19.337269714207327,0.06328283423441762,False,Left Foot,Open Play,0,0,3,Normal
-16.171889190815026,0.06331101162859962,False,Left Foot,Open Play,1,0,1,Volley
-10.770793842609745,0.05978700582644071,False,Head,Open Play,0,0,2,Normal
-6.71192967781994,0.05809833827874748,False,Head,Open Play,0,0,3,Normal
-13.061393493804554,0.05744144106897229,False,Head,Open Play,0,1,2,Normal
-25.214479966876173,0.0666551946786159,False,Right Foot,Open Play,0,0,1,Half Volley
-37.56940244401021,0.07696287620788686,False,Left Foot,Open Play,0,0,1,Normal
-28.370407117276265,0.05966358008865471,False,Right Foot,Open Play,1,0,2,Normal
-10.617438485811917,0.06015129336105507,False,Head,Open Play,0,1,3,Normal
-19.256687150182408,0.05910811070366183,False,Right Foot,Open Play,0,0,1,Normal
-8.357032966310468,0.05687693408791698,True,Head,Open Play,0,0,1,Normal
-15.984992962150473,0.053293185056152256,False,Left Foot,Open Play,0,1,2,Normal
-8.174350127074318,0.05763024029992976,False,Head,Open Play,0,1,3,Normal
-30.751910509755326,0.07117196130638624,False,Left Foot,Open Play,1,0,0,Half Volley
-11.84736257569591,0.06067019069793465,False,Head,Open Play,0,1,3,Normal
-7.343704787094859,0.05793096010185696,False,Head,Open Play,0,0,5,Normal
-21.284971223847126,0.054587114607106,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754139,Graziano Pellè,Southampton,18.88835620163914,0.0643946221783101,False,Right Foot,Open Play,1,0,2,Volley
+3754139,André Ayew Pelé,Swansea City,28.112808468738944,0.061599926419382126,False,Left Foot,Open Play,0,0,1,Normal
+3754139,Oriol Romeu Vidal,Southampton,20.40833163195855,0.06230045678440217,False,Left Foot,Open Play,0,0,3,Normal
+3754139,José Miguel da Rocha Fonte,Southampton,10.511898020814321,0.05984822748985514,False,Head,Open Play,0,1,2,Normal
+3754139,Oriol Romeu Vidal,Southampton,10.679419459877016,0.0585544837884681,False,Right Foot,Open Play,0,0,4,Half Volley
+3754139,Oriol Romeu Vidal,Southampton,21.09502310972898,0.0660597446198404,False,Left Foot,Open Play,1,0,1,Half Volley
+3754139,Gylfi Þór Sigurðsson,Swansea City,28.40422503783548,0.0687878569914551,False,Left Foot,Open Play,0,0,2,Normal
+3754139,Ryan Bertrand,Southampton,30.887052303513844,0.0731725199246844,False,Left Foot,Open Play,0,0,1,Normal
+3754139,Leon Britton,Swansea City,29.786070569982876,0.07248402297690311,False,Right Foot,Open Play,0,0,0,Normal
+3754139,Alberto Paloschi,Swansea City,22.62918469587449,0.06686387958231449,False,Right Foot,Open Play,0,0,3,Normal
+3754139,Shane Long,Southampton,27.154373496731605,0.06955614404948751,False,Right Foot,Open Play,0,0,1,Normal
+3754139,Jordy Clasie,Southampton,19.337269714207327,0.06328283423441762,False,Left Foot,Open Play,0,0,3,Normal
+3754139,Gylfi Þór Sigurðsson,Swansea City,16.171889190815026,0.06331101162859962,False,Left Foot,Open Play,1,0,1,Volley
+3754139,Shane Long,Southampton,10.770793842609745,0.05978700582644071,False,Head,Open Play,0,0,2,Normal
+3754139,Oriol Romeu Vidal,Southampton,6.71192967781994,0.05809833827874748,False,Head,Open Play,0,0,3,Normal
+3754139,Graziano Pellè,Southampton,13.061393493804554,0.05744144106897229,False,Head,Open Play,0,1,2,Normal
+3754139,Gylfi Þór Sigurðsson,Swansea City,25.214479966876173,0.0666551946786159,False,Right Foot,Open Play,0,0,1,Half Volley
+3754139,Neil Taylor,Swansea City,37.56940244401021,0.07696287620788686,False,Left Foot,Open Play,0,0,1,Normal
+3754139,James Ward-Prowse,Southampton,28.370407117276265,0.05966358008865471,False,Right Foot,Open Play,1,0,2,Normal
+3754139,Ashley Williams,Swansea City,10.617438485811917,0.06015129336105507,False,Head,Open Play,0,1,3,Normal
+3754139,Shane Long,Southampton,19.256687150182408,0.05910811070366183,False,Right Foot,Open Play,0,0,1,Normal
+3754139,Shane Long,Southampton,8.357032966310468,0.05687693408791698,True,Head,Open Play,0,0,1,Normal
+3754139,Modou Barrow,Swansea City,15.984992962150473,0.053293185056152256,False,Left Foot,Open Play,0,1,2,Normal
+3754139,Bafétimbi Gomis,Swansea City,8.174350127074318,0.05763024029992976,False,Head,Open Play,0,1,3,Normal
+3754139,Neil Taylor,Swansea City,30.751910509755326,0.07117196130638624,False,Left Foot,Open Play,1,0,0,Half Volley
+3754139,Ashley Williams,Swansea City,11.84736257569591,0.06067019069793465,False,Head,Open Play,0,1,3,Normal
+3754139,André Ayew Pelé,Swansea City,7.343704787094859,0.05793096010185696,False,Head,Open Play,0,0,5,Normal
+3754139,Charlie Austin,Southampton,21.284971223847126,0.054587114607106,False,Right Foot,Open Play,0,0,1,Normal

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.255094743687362,0.054677225422765284,False,Right Foot,Open Play,0,0,1,Normal
-22.970633426181358,0.06359053050053025,False,Left Foot,Open Play,0,0,2,Normal
-30.516389039334264,0.07237419026924127,False,Left Foot,Open Play,1,0,0,Normal
-19.91230775173988,0.06274232243686324,False,Right Foot,Open Play,1,1,1,Normal
-26.644323973409428,0.06425386446373758,False,Left Foot,Free Kick,0,0,0,Normal
-26.109002278907557,0.06948266754978333,False,Right Foot,Open Play,1,0,1,Normal
-7.451845409024532,0.05489439742246565,False,Right Foot,Open Play,1,1,4,Backheel
-11.634861408714753,0.05910256400917105,False,Right Foot,Open Play,1,1,3,Volley
-27.285527299284503,0.07028572869252495,False,Right Foot,Open Play,0,1,2,Normal
-22.60464554024239,0.06643168507236437,False,Right Foot,Open Play,1,0,0,Volley
-22.420749318432694,0.06677815186288136,False,Right Foot,Open Play,1,1,1,Half Volley
-19.259543089076647,0.05957435250935468,False,Left Foot,Open Play,0,1,2,Normal
-29.40425139329346,0.067328434427228,False,Right Foot,Open Play,1,0,0,Half Volley
-22.65502151841839,0.05755766875414373,False,Left Foot,Open Play,0,0,2,Normal
-30.002833199549666,0.07034946963194297,False,Right Foot,Open Play,0,0,2,Normal
-23.476371099469354,0.0672176922123191,False,Right Foot,Open Play,0,1,2,Normal
-14.454411091428115,0.06152618301970999,False,Right Foot,Open Play,0,1,1,Normal
-10.139033484509259,0.057780046054650966,True,Right Foot,Open Play,0,0,3,Normal
-27.715699522112015,0.07047880743517707,True,Right Foot,Open Play,0,1,2,Normal
-25.27231687044146,0.06869527643917869,False,Left Foot,Open Play,0,0,1,Normal
-23.668544526438453,0.06561577777812598,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878601,Saphir Sliti Taïder,Bologna,26.255094743687362,0.054677225422765284,False,Right Foot,Open Play,0,0,1,Normal
+3878601,Anthony Mounier,Bologna,22.970633426181358,0.06359053050053025,False,Left Foot,Open Play,0,0,2,Normal
+3878601,Godfred Donsah,Bologna,30.516389039334264,0.07237419026924127,False,Left Foot,Open Play,1,0,0,Normal
+3878601,Roberto Soriano,Sampdoria,19.91230775173988,0.06274232243686324,False,Right Foot,Open Play,1,1,1,Normal
+3878601,Franco Brienza,Bologna,26.644323973409428,0.06425386446373758,False,Left Foot,Free Kick,0,0,0,Normal
+3878601,Luis Fernando Muriel Fruto,Sampdoria,26.109002278907557,0.06948266754978333,False,Right Foot,Open Play,1,0,1,Normal
+3878601,Luis Fernando Muriel Fruto,Sampdoria,7.451845409024532,0.05489439742246565,False,Right Foot,Open Play,1,1,4,Backheel
+3878601,Édgar Osvaldo Barreto Cáceres,Sampdoria,11.634861408714753,0.05910256400917105,False,Right Foot,Open Play,1,1,3,Volley
+3878601,Luis Fernando Muriel Fruto,Sampdoria,27.285527299284503,0.07028572869252495,False,Right Foot,Open Play,0,1,2,Normal
+3878601,Luca Rizzo,Bologna,22.60464554024239,0.06643168507236437,False,Right Foot,Open Play,1,0,0,Volley
+3878601,Godfred Donsah,Bologna,22.420749318432694,0.06677815186288136,False,Right Foot,Open Play,1,1,1,Half Volley
+3878601,Dávid Ivan,Sampdoria,19.259543089076647,0.05957435250935468,False,Left Foot,Open Play,0,1,2,Normal
+3878601,Édgar Osvaldo Barreto Cáceres,Sampdoria,29.40425139329346,0.067328434427228,False,Right Foot,Open Play,1,0,0,Half Volley
+3878601,Alex Ferrari,Bologna,22.65502151841839,0.05755766875414373,False,Left Foot,Open Play,0,0,2,Normal
+3878601,Eder Citadin Martins,Sampdoria,30.002833199549666,0.07034946963194297,False,Right Foot,Open Play,0,0,2,Normal
+3878601,Carlos Joaquín Correa,Sampdoria,23.476371099469354,0.0672176922123191,False,Right Foot,Open Play,0,1,2,Normal
+3878601,Luis Fernando Muriel Fruto,Sampdoria,14.454411091428115,0.06152618301970999,False,Right Foot,Open Play,0,1,1,Normal
+3878601,Eder Citadin Martins,Sampdoria,10.139033484509259,0.057780046054650966,True,Right Foot,Open Play,0,0,3,Normal
+3878601,Roberto Soriano,Sampdoria,27.715699522112015,0.07047880743517707,True,Right Foot,Open Play,0,1,2,Normal
+3878601,Franco Brienza,Bologna,25.27231687044146,0.06869527643917869,False,Left Foot,Open Play,0,0,1,Normal
+3878601,Franco Brienza,Bologna,23.668544526438453,0.06561577777812598,False,Left Foot,Open Play,0,0,2,Normal

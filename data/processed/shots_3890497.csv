@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.097515336225026,0.06095218595541013,False,Left Foot,Open Play,0,0,1,Half Volley
-7.206247289678591,0.05773117925595583,False,Right Foot,Open Play,1,1,2,Volley
-20.619650821485795,0.06108831639233768,False,Left Foot,Open Play,0,0,1,Normal
-24.51652503924648,0.06279881982041517,False,Right Foot,Open Play,1,0,1,Half Volley
-12.07849328351844,0.05233863202311579,True,Right Foot,Open Play,0,0,3,Normal
-16.395731151735802,0.06010021078720038,False,Left Foot,Open Play,0,1,2,Normal
-6.020797289396148,0.05775341594082388,False,Head,Open Play,0,0,5,Normal
-26.63681662661662,0.06692731007285864,False,Left Foot,Open Play,0,1,2,Normal
-30.51032612083981,0.07296625886307359,False,Right Foot,Open Play,1,1,1,Normal
-19.14627901186024,0.06248604518271899,False,Left Foot,Open Play,0,0,1,Half Volley
-8.649277426467485,0.057724959259228686,False,Left Foot,Open Play,0,0,0,Half Volley
-23.735627229968035,0.06419373102713045,False,Right Foot,Open Play,0,1,2,Normal
-13.296992141082127,0.06162669658672813,False,Left Foot,Open Play,0,1,1,Half Volley
-8.220097323024826,0.05889457076372538,False,Head,Open Play,0,1,5,Normal
-18.270467974302136,0.06295934580918264,False,Left Foot,Open Play,1,0,1,Half Volley
-31.579265349276262,0.07393000264806297,False,Left Foot,Open Play,0,1,1,Normal
-23.607625886564698,0.06448339587314281,False,Left Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890497,Edgar Prib,Hannover 96,16.097515336225026,0.06095218595541013,False,Left Foot,Open Play,0,0,1,Half Volley
+3890497,Marco Russ,Eintracht Frankfurt,7.206247289678591,0.05773117925595583,False,Right Foot,Open Play,1,1,2,Volley
+3890497,Kenan Karaman,Hannover 96,20.619650821485795,0.06108831639233768,False,Left Foot,Open Play,0,0,1,Normal
+3890497,Stefan Reinartz,Eintracht Frankfurt,24.51652503924648,0.06279881982041517,False,Right Foot,Open Play,1,0,1,Half Volley
+3890497,Änis Ben-Hatira,Eintracht Frankfurt,12.07849328351844,0.05233863202311579,True,Right Foot,Open Play,0,0,3,Normal
+3890497,Haris Seferović,Eintracht Frankfurt,16.395731151735802,0.06010021078720038,False,Left Foot,Open Play,0,1,2,Normal
+3890497,Stefan Aigner,Eintracht Frankfurt,6.020797289396148,0.05775341594082388,False,Head,Open Play,0,0,5,Normal
+3890497,Hiroshi Kiyotake,Hannover 96,26.63681662661662,0.06692731007285864,False,Left Foot,Open Play,0,1,2,Normal
+3890497,Marco Russ,Eintracht Frankfurt,30.51032612083981,0.07296625886307359,False,Right Foot,Open Play,1,1,1,Normal
+3890497,Hugo Miguel Pereira de Almeida,Hannover 96,19.14627901186024,0.06248604518271899,False,Left Foot,Open Play,0,0,1,Half Volley
+3890497,Änis Ben-Hatira,Eintracht Frankfurt,8.649277426467485,0.057724959259228686,False,Left Foot,Open Play,0,0,0,Half Volley
+3890497,Marc Stendera,Eintracht Frankfurt,23.735627229968035,0.06419373102713045,False,Right Foot,Open Play,0,1,2,Normal
+3890497,Änis Ben-Hatira,Eintracht Frankfurt,13.296992141082127,0.06162669658672813,False,Left Foot,Open Play,0,1,1,Half Volley
+3890497,Hugo Miguel Pereira de Almeida,Hannover 96,8.220097323024826,0.05889457076372538,False,Head,Open Play,0,1,5,Normal
+3890497,Edgar Prib,Hannover 96,18.270467974302136,0.06295934580918264,False,Left Foot,Open Play,1,0,1,Half Volley
+3890497,Tohouri Zahoui Constant Djakpa,Eintracht Frankfurt,31.579265349276262,0.07393000264806297,False,Left Foot,Open Play,0,1,1,Normal
+3890497,Allan Saint-Maximin,Hannover 96,23.607625886564698,0.06448339587314281,False,Left Foot,Open Play,0,1,2,Normal

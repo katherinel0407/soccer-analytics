@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.75178153623284,0.0652422405112845,False,Left Foot,Open Play,1,1,1,Normal
-30.723606559126488,0.05918754848931698,False,Right Foot,Open Play,0,0,0,Normal
-10.660675400742669,0.056023414109378056,False,Head,Open Play,0,0,1,Normal
-31.554555930958685,0.06622217653642841,False,Right Foot,Free Kick,0,0,0,Normal
-6.580273550544837,0.05667335818519484,True,Head,Open Play,0,0,2,Normal
-21.795871168641085,0.05801059729561698,False,Left Foot,Open Play,0,1,2,Normal
-14.30034964607509,0.060528905763035726,False,Right Foot,Open Play,1,1,1,Normal
-22.151523649627354,0.05508897480972906,False,Right Foot,Open Play,1,0,1,Volley
-34.83044645134484,0.05816281519187244,False,Right Foot,Open Play,0,0,0,Normal
-30.96837096135346,0.07324178053733751,False,Left Foot,Open Play,0,0,1,Normal
-33.45235417724737,0.058089398949574204,False,Right Foot,Open Play,0,0,0,Normal
-14.410065926289162,0.05995408357175191,False,Right Foot,Open Play,0,0,1,Normal
-21.883326986543885,0.06634149978264624,False,Right Foot,Open Play,0,0,2,Normal
-9.343446901438464,0.0594309857375597,True,Right Foot,Open Play,0,1,3,Half Volley
-39.24754769409166,0.07814458485790829,False,Right Foot,Open Play,0,0,1,Normal
-15.60128199860511,0.06296139713753929,False,Right Foot,Open Play,0,1,3,Normal
-28.220028348674628,0.05603203022405221,False,Left Foot,Open Play,1,0,1,Volley
-9.900505037623088,0.058688381808071934,False,Head,Open Play,0,1,3,Normal
-23.079428069170174,0.0539411091397274,False,Right Foot,Open Play,1,0,0,Half Volley
-13.395894893585874,0.05350390984874018,False,Right Foot,Open Play,1,1,2,Normal
-8.154140052758477,0.05815501859540286,False,Right Foot,Open Play,1,0,4,Volley
-20.872230355187256,0.06594685145165856,False,Right Foot,Open Play,0,1,3,Normal
-25.086251214559734,0.05228085243871605,False,Left Foot,Open Play,0,0,2,Normal
-22.881652038259823,0.06754466595338032,False,Right Foot,Open Play,0,1,3,Normal
-18.741664813991306,0.0634099358876081,False,Right Foot,Open Play,0,0,1,Normal
-28.7062710918712,0.06692818687498078,False,Right Foot,Open Play,0,0,1,Normal
-10.244998779892562,0.05968599592742198,True,Head,Open Play,0,0,3,Normal
-27.006665843824557,0.06609982578143773,False,Right Foot,Open Play,1,1,1,Half Volley
-37.14458237751503,0.0638002913996083,False,Right Foot,Open Play,0,0,1,Normal
-38.69987080081793,0.06784359402367486,False,Left Foot,Open Play,1,1,1,Half Volley
-9.508417323613852,0.05869452145788629,False,Right Foot,Open Play,1,0,6,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3893815,Sandie Toletti,France Women's,21.75178153623284,0.0652422405112845,False,Left Foot,Open Play,1,1,1,Normal
+3893815,Eve Perisset,France Women's,30.723606559126488,0.05918754848931698,False,Right Foot,Open Play,0,0,0,Normal
+3893815,Eugénie Le Sommer,France Women's,10.660675400742669,0.056023414109378056,False,Head,Open Play,0,0,1,Normal
+3893815,Adriana Leal da Silva,Brazil Women's,31.554555930958685,0.06622217653642841,False,Right Foot,Free Kick,0,0,0,Normal
+3893815,Eugénie Le Sommer,France Women's,6.580273550544837,0.05667335818519484,True,Head,Open Play,0,0,2,Normal
+3893815,Ariadina Alves Borges,Brazil Women's,21.795871168641085,0.05801059729561698,False,Left Foot,Open Play,0,1,2,Normal
+3893815,Adriana Leal da Silva,Brazil Women's,14.30034964607509,0.060528905763035726,False,Right Foot,Open Play,1,1,1,Normal
+3893815,Kenza Dali,France Women's,22.151523649627354,0.05508897480972906,False,Right Foot,Open Play,1,0,1,Volley
+3893815,Antonia Ronnycleide da Costa Silva,Brazil Women's,34.83044645134484,0.05816281519187244,False,Right Foot,Open Play,0,0,0,Normal
+3893815,Selma Bacha,France Women's,30.96837096135346,0.07324178053733751,False,Left Foot,Open Play,0,0,1,Normal
+3893815,Sandie Toletti,France Women's,33.45235417724737,0.058089398949574204,False,Right Foot,Open Play,0,0,0,Normal
+3893815,Eugénie Le Sommer,France Women's,14.410065926289162,0.05995408357175191,False,Right Foot,Open Play,0,0,1,Normal
+3893815,Kerolin Nicoli Israel Ferraz,Brazil Women's,21.883326986543885,0.06634149978264624,False,Right Foot,Open Play,0,0,2,Normal
+3893815,Débora Cristiane de Oliveira,Brazil Women's,9.343446901438464,0.0594309857375597,True,Right Foot,Open Play,0,1,3,Half Volley
+3893815,Sakina Karchaoui,France Women's,39.24754769409166,0.07814458485790829,False,Right Foot,Open Play,0,0,1,Normal
+3893815,Onema Grace Geyoro,France Women's,15.60128199860511,0.06296139713753929,False,Right Foot,Open Play,0,1,3,Normal
+3893815,Selma Bacha,France Women's,28.220028348674628,0.05603203022405221,False,Left Foot,Open Play,1,0,1,Volley
+3893815,Vicki Becho,France Women's,9.900505037623088,0.058688381808071934,False,Head,Open Play,0,1,3,Normal
+3893815,Kenza Dali,France Women's,23.079428069170174,0.0539411091397274,False,Right Foot,Open Play,1,0,0,Half Volley
+3893815,Kenza Dali,France Women's,13.395894893585874,0.05350390984874018,False,Right Foot,Open Play,1,1,2,Normal
+3893815,Kerolin Nicoli Israel Ferraz,Brazil Women's,8.154140052758477,0.05815501859540286,False,Right Foot,Open Play,1,0,4,Volley
+3893815,Kenza Dali,France Women's,20.872230355187256,0.06594685145165856,False,Right Foot,Open Play,0,1,3,Normal
+3893815,Selma Bacha,France Women's,25.086251214559734,0.05228085243871605,False,Left Foot,Open Play,0,0,2,Normal
+3893815,Kadidiatou Diani,France Women's,22.881652038259823,0.06754466595338032,False,Right Foot,Open Play,0,1,3,Normal
+3893815,Kerolin Nicoli Israel Ferraz,Brazil Women's,18.741664813991306,0.0634099358876081,False,Right Foot,Open Play,0,0,1,Normal
+3893815,Luana Bertolucci Paixão,Brazil Women's,28.7062710918712,0.06692818687498078,False,Right Foot,Open Play,0,0,1,Normal
+3893815,Wendie Renard,France Women's,10.244998779892562,0.05968599592742198,True,Head,Open Play,0,0,3,Normal
+3893815,Monica Hickmann Alves,Brazil Women's,27.006665843824557,0.06609982578143773,False,Right Foot,Open Play,1,1,1,Half Volley
+3893815,Léa Le Garrec,France Women's,37.14458237751503,0.0638002913996083,False,Right Foot,Open Play,0,0,1,Normal
+3893815,Selma Bacha,France Women's,38.69987080081793,0.06784359402367486,False,Left Foot,Open Play,1,1,1,Half Volley
+3893815,Luana Bertolucci Paixão,Brazil Women's,9.508417323613852,0.05869452145788629,False,Right Foot,Open Play,1,0,6,Half Volley

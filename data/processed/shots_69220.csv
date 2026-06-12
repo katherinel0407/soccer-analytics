@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.660568707605513,0.0607795753828803,False,Right Foot,Open Play,0,0,3,Normal
-26.093102536877446,0.06903688637129086,False,Left Foot,Open Play,0,0,1,Normal
-16.84042754801671,0.0631590231188899,False,Left Foot,Open Play,0,1,1,Normal
-18.189282558693737,0.06430691208022113,False,Left Foot,Open Play,0,0,2,Normal
-12.913945950018537,0.0597494454026934,False,Head,Open Play,0,0,2,Normal
-16.59518002312719,0.06344855936537941,True,Left Foot,Open Play,0,0,0,Normal
-11.73243367763057,0.059311036216516455,False,Left Foot,Open Play,0,1,2,Normal
-30.401480227120523,0.07275952064093762,False,Right Foot,Open Play,0,1,2,Normal
-33.391166496545154,0.07211397137597725,False,Right Foot,Free Kick,0,0,0,Normal
-13.509256086106296,0.061340182209116995,False,Right Foot,Open Play,0,0,2,Normal
-26.522820362849806,0.06999186889601265,False,Right Foot,Free Kick,0,0,0,Normal
-22.98368986912241,0.06264317328513852,False,Left Foot,Open Play,1,0,1,Normal
-32.601380338875224,0.05541448138923376,False,Right Foot,Open Play,0,1,2,Normal
-30.953513532392414,0.058768134312896333,False,Left Foot,Free Kick,0,0,0,Normal
-55.024449111281434,0.06837979398641665,False,Left Foot,Open Play,1,0,0,Lob
-15.179262169156976,0.06273074901648366,False,Left Foot,Open Play,1,0,0,Normal
-21.42171795164898,0.06651031845374289,False,Right Foot,Open Play,0,0,3,Normal
-8.759566199304619,0.057134313679727225,False,Head,Open Play,0,1,6,Normal
-27.94852411130147,0.06896592430027174,False,Right Foot,Open Play,0,0,2,Normal
-10.98590005416033,0.060367105284527336,False,Right Foot,Open Play,1,1,1,Normal
-10.008995953640904,0.053347534645547104,False,Right Foot,Open Play,0,0,2,Normal
-24.499999999999996,0.0685333901633866,False,Right Foot,Open Play,0,0,1,Normal
-28.814059068447815,0.06681367668863196,False,Right Foot,Free Kick,0,0,0,Normal
-23.13655116909173,0.06770998284772499,False,Right Foot,Open Play,0,0,2,Normal
-21.542516101885596,0.06639713458385986,False,Left Foot,Open Play,0,0,0,Normal
-15.786703265723336,0.06226954134841274,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69220,Andrés Iniesta Luján,Barcelona,12.660568707605513,0.0607795753828803,False,Right Foot,Open Play,0,0,3,Normal
+69220,Lionel Andrés Messi Cuccittini,Barcelona,26.093102536877446,0.06903688637129086,False,Left Foot,Open Play,0,0,1,Normal
+69220,Mate Bilić,Sporting Gijón,16.84042754801671,0.0631590231188899,False,Left Foot,Open Play,0,1,1,Normal
+69220,Zlatan Ibrahimović,Barcelona,18.189282558693737,0.06430691208022113,False,Left Foot,Open Play,0,0,2,Normal
+69220,Mate Bilić,Sporting Gijón,12.913945950018537,0.0597494454026934,False,Head,Open Play,0,0,2,Normal
+69220,Pedro Eliezer Rodríguez Ledesma,Barcelona,16.59518002312719,0.06344855936537941,True,Left Foot,Open Play,0,0,0,Normal
+69220,Lionel Andrés Messi Cuccittini,Barcelona,11.73243367763057,0.059311036216516455,False,Left Foot,Open Play,0,1,2,Normal
+69220,Miguel Ángel De las Cuevas Barberá,Sporting Gijón,30.401480227120523,0.07275952064093762,False,Right Foot,Open Play,0,1,2,Normal
+69220,Zlatan Ibrahimović,Barcelona,33.391166496545154,0.07211397137597725,False,Right Foot,Free Kick,0,0,0,Normal
+69220,Zlatan Ibrahimović,Barcelona,13.509256086106296,0.061340182209116995,False,Right Foot,Open Play,0,0,2,Normal
+69220,Xavier Hernández Creus,Barcelona,26.522820362849806,0.06999186889601265,False,Right Foot,Free Kick,0,0,0,Normal
+69220,Andrés Iniesta Luján,Barcelona,22.98368986912241,0.06264317328513852,False,Left Foot,Open Play,1,0,1,Normal
+69220,Mate Bilić,Sporting Gijón,32.601380338875224,0.05541448138923376,False,Right Foot,Open Play,0,1,2,Normal
+69220,Cristian Portilla Rodríguez,Sporting Gijón,30.953513532392414,0.058768134312896333,False,Left Foot,Free Kick,0,0,0,Normal
+69220,Lionel Andrés Messi Cuccittini,Barcelona,55.024449111281434,0.06837979398641665,False,Left Foot,Open Play,1,0,0,Lob
+69220,Lionel Andrés Messi Cuccittini,Barcelona,15.179262169156976,0.06273074901648366,False,Left Foot,Open Play,1,0,0,Normal
+69220,Zlatan Ibrahimović,Barcelona,21.42171795164898,0.06651031845374289,False,Right Foot,Open Play,0,0,3,Normal
+69220,Rafael Márquez Álvarez,Barcelona,8.759566199304619,0.057134313679727225,False,Head,Open Play,0,1,6,Normal
+69220,Pedro Eliezer Rodríguez Ledesma,Barcelona,27.94852411130147,0.06896592430027174,False,Right Foot,Open Play,0,0,2,Normal
+69220,Pedro Eliezer Rodríguez Ledesma,Barcelona,10.98590005416033,0.060367105284527336,False,Right Foot,Open Play,1,1,1,Normal
+69220,Zlatan Ibrahimović,Barcelona,10.008995953640904,0.053347534645547104,False,Right Foot,Open Play,0,0,2,Normal
+69220,Pedro Eliezer Rodríguez Ledesma,Barcelona,24.499999999999996,0.0685333901633866,False,Right Foot,Open Play,0,0,1,Normal
+69220,Rafael Márquez Álvarez,Barcelona,28.814059068447815,0.06681367668863196,False,Right Foot,Free Kick,0,0,0,Normal
+69220,Zlatan Ibrahimović,Barcelona,23.13655116909173,0.06770998284772499,False,Right Foot,Open Play,0,0,2,Normal
+69220,Pedro Eliezer Rodríguez Ledesma,Barcelona,21.542516101885596,0.06639713458385986,False,Left Foot,Open Play,0,0,0,Normal
+69220,Zlatan Ibrahimović,Barcelona,15.786703265723336,0.06226954134841274,False,Left Foot,Open Play,0,0,2,Normal

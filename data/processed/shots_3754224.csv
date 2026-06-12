@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.44162420161373,0.05681740547507008,False,Left Foot,Open Play,1,0,1,Normal
-19.257466084612485,0.060519977909724576,False,Right Foot,Open Play,0,0,1,Normal
-9.879271228182775,0.054133603385852117,False,Head,Open Play,0,1,1,Normal
-22.64332131115045,0.06029757529465133,False,Right Foot,Open Play,0,0,0,Normal
-7.242237223399969,0.0557752993914257,False,Head,Open Play,0,1,2,Normal
-4.891829923454007,0.05496752277583912,False,Head,Open Play,0,1,5,Normal
-26.496980960101848,0.05779696098530437,False,Left Foot,Open Play,0,0,3,Normal
-29.532693747777223,0.0654932901965508,False,Right Foot,Free Kick,0,0,0,Normal
-22.989562849258363,0.06758455115575875,False,Right Foot,Open Play,0,0,1,Normal
-11.783462988442746,0.05896271467597496,False,Head,Open Play,0,1,2,Normal
-16.936646657470302,0.05956155911373274,False,Right Foot,Open Play,1,0,1,Normal
-29.32319900692965,0.0719734595349218,False,Left Foot,Open Play,1,0,0,Volley
-24.607722365143832,0.06115554169794324,False,Left Foot,Open Play,0,0,3,Normal
-12.252754792290586,0.0606601040077744,False,Right Foot,Open Play,0,1,3,Overhead Kick
-9.340770846134703,0.059178932018379066,False,Head,Open Play,0,1,5,Normal
-8.732124598286484,0.059144801058401954,True,Other,Open Play,0,0,5,Normal
-24.162988225796905,0.06752695315888144,False,Left Foot,Open Play,1,1,1,Half Volley
-21.12936345468078,0.06124691472953777,False,Right Foot,Open Play,0,0,2,Normal
-9.154780172128651,0.05873026913760759,False,Head,Open Play,0,1,6,Normal
-20.206187171260197,0.06296513025964942,False,Right Foot,Open Play,0,0,3,Half Volley
-10.538500842150178,0.05927889876421616,False,Right Foot,Open Play,1,0,2,Half Volley
-25.111352014576998,0.06072957753923536,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754224,Joleon Lescott,Aston Villa,20.44162420161373,0.05681740547507008,False,Left Foot,Open Play,1,0,1,Normal
+3754224,Jordan Ayew,Aston Villa,19.257466084612485,0.060519977909724576,False,Right Foot,Open Play,0,0,1,Normal
+3754224,Jack Frank Porteous Cork,Swansea City,9.879271228182775,0.054133603385852117,False,Head,Open Play,0,1,1,Normal
+3754224,Idrissa Gana Gueye,Aston Villa,22.64332131115045,0.06029757529465133,False,Right Foot,Open Play,0,0,0,Normal
+3754224,Jordan Ayew,Aston Villa,7.242237223399969,0.0557752993914257,False,Head,Open Play,0,1,2,Normal
+3754224,Ciaran Clark,Aston Villa,4.891829923454007,0.05496752277583912,False,Head,Open Play,0,1,5,Normal
+3754224,Modou Barrow,Swansea City,26.496980960101848,0.05779696098530437,False,Left Foot,Open Play,0,0,3,Normal
+3754224,Gylfi Þór Sigurðsson,Swansea City,29.532693747777223,0.0654932901965508,False,Right Foot,Free Kick,0,0,0,Normal
+3754224,Idrissa Gana Gueye,Aston Villa,22.989562849258363,0.06758455115575875,False,Right Foot,Open Play,0,0,1,Normal
+3754224,Rudy Gestede,Aston Villa,11.783462988442746,0.05896271467597496,False,Head,Open Play,0,1,2,Normal
+3754224,Gylfi Þór Sigurðsson,Swansea City,16.936646657470302,0.05956155911373274,False,Right Foot,Open Play,1,0,1,Normal
+3754224,Stephen Kingsley,Swansea City,29.32319900692965,0.0719734595349218,False,Left Foot,Open Play,1,0,0,Volley
+3754224,Bafétimbi Gomis,Swansea City,24.607722365143832,0.06115554169794324,False,Left Foot,Open Play,0,0,3,Normal
+3754224,Rudy Gestede,Aston Villa,12.252754792290586,0.0606601040077744,False,Right Foot,Open Play,0,1,3,Overhead Kick
+3754224,Ciaran Clark,Aston Villa,9.340770846134703,0.059178932018379066,False,Head,Open Play,0,1,5,Normal
+3754224,Federico Fernández,Swansea City,8.732124598286484,0.059144801058401954,True,Other,Open Play,0,0,5,Normal
+3754224,Leon Britton,Swansea City,24.162988225796905,0.06752695315888144,False,Left Foot,Open Play,1,1,1,Half Volley
+3754224,Gylfi Þór Sigurðsson,Swansea City,21.12936345468078,0.06124691472953777,False,Right Foot,Open Play,0,0,2,Normal
+3754224,Joleon Lescott,Aston Villa,9.154780172128651,0.05873026913760759,False,Head,Open Play,0,1,6,Normal
+3754224,Andre Green,Aston Villa,20.206187171260197,0.06296513025964942,False,Right Foot,Open Play,0,0,3,Half Volley
+3754224,Rudy Gestede,Aston Villa,10.538500842150178,0.05927889876421616,False,Right Foot,Open Play,1,0,2,Half Volley
+3754224,Bafétimbi Gomis,Swansea City,25.111352014576998,0.06072957753923536,False,Right Foot,Open Play,0,0,2,Normal

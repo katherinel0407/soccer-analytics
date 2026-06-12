@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.3027302482209,0.06063525450484486,False,Right Foot,Open Play,0,1,1,Normal
-31.481423093627775,0.07089240474002549,False,Right Foot,Open Play,1,1,1,Normal
-8.049844718999246,0.05876178527047449,False,Left Foot,Open Play,0,0,2,Normal
-8.236504112789602,0.058883001939945244,True,Right Foot,Open Play,1,0,3,Normal
-21.60601768026677,0.06669365021186888,False,Right Foot,Open Play,0,0,3,Normal
-4.308131845707604,0.05590364881039144,False,Head,Open Play,0,0,4,Normal
-9.860020283954798,0.05453551664024169,False,Head,Open Play,0,1,3,Normal
-2.8017851452243785,0.05619898386297823,False,Left Foot,Open Play,1,0,3,Normal
-10.912378292562995,0.060102063816630524,False,Left Foot,Open Play,1,1,1,Normal
-6.705221845696089,0.05794129955193746,True,Head,Open Play,0,1,1,Normal
-18.978935691971767,0.06362746185539397,False,Right Foot,Open Play,0,1,3,Normal
-24.31830586204557,0.06833030416352703,False,Right Foot,Free Kick,0,0,0,Normal
-9.604165762834379,0.05961749521278592,False,Head,Open Play,0,0,3,Normal
-6.503076195155644,0.05742148542744622,False,Head,Open Play,0,0,1,Normal
-28.136808632110363,0.07010160825022972,False,Right Foot,Open Play,0,0,1,Normal
-32.04652867316521,0.06598294074021985,False,Right Foot,Free Kick,0,0,0,Normal
-5.44518135602479,0.05511860586648552,False,Head,Open Play,0,1,2,Normal
-29.56771888394504,0.05477973794767968,False,Right Foot,Open Play,0,0,2,Normal
-5.954829972383761,0.05536857793759736,False,Head,Open Play,0,0,4,Normal
-6.648308055437869,0.057879905533977455,False,Head,Open Play,0,0,5,Normal
-8.300602387778847,0.056177618203758474,False,Right Foot,Open Play,1,0,2,Volley
-6.7601775124622305,0.05772137361238655,False,Head,Open Play,0,0,3,Normal
-14.080127840328727,0.06150701385443859,False,Left Foot,Open Play,1,0,3,Normal
-32.9812067699167,0.06619783253416495,False,Right Foot,Free Kick,0,0,0,Normal
-27.80017985553331,0.07024003482290517,False,Right Foot,Free Kick,0,0,0,Normal
-24.46385088247556,0.06859625864142231,False,Right Foot,Open Play,0,0,1,Normal
-17.300289014926886,0.05374753789165734,False,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275045,Melissa Lawley,Liverpool WFC,29.3027302482209,0.06063525450484486,False,Right Foot,Open Play,0,1,1,Normal
+2275045,Kirsty Linnett,Liverpool WFC,31.481423093627775,0.07089240474002549,False,Right Foot,Open Play,1,1,1,Normal
+2275045,Jade Bailey,Liverpool WFC,8.049844718999246,0.05876178527047449,False,Left Foot,Open Play,0,0,2,Normal
+2275045,Niamh Charles,Liverpool WFC,8.236504112789602,0.058883001939945244,True,Right Foot,Open Play,1,0,3,Normal
+2275045,Guro Reiten,Chelsea FCW,21.60601768026677,0.06669365021186888,False,Right Foot,Open Play,0,0,3,Normal
+2275045,Drew Spence,Chelsea FCW,4.308131845707604,0.05590364881039144,False,Head,Open Play,0,0,4,Normal
+2275045,Maren Nævdal Mjelde,Chelsea FCW,9.860020283954798,0.05453551664024169,False,Head,Open Play,0,1,3,Normal
+2275045,Bethany England,Chelsea FCW,2.8017851452243785,0.05619898386297823,False,Left Foot,Open Play,1,0,3,Normal
+2275045,Guro Reiten,Chelsea FCW,10.912378292562995,0.060102063816630524,False,Left Foot,Open Play,1,1,1,Normal
+2275045,Bethany England,Chelsea FCW,6.705221845696089,0.05794129955193746,True,Head,Open Play,0,1,1,Normal
+2275045,Drew Spence,Chelsea FCW,18.978935691971767,0.06362746185539397,False,Right Foot,Open Play,0,1,3,Normal
+2275045,Maren Nævdal Mjelde,Chelsea FCW,24.31830586204557,0.06833030416352703,False,Right Foot,Free Kick,0,0,0,Normal
+2275045,Niamh Charles,Liverpool WFC,9.604165762834379,0.05961749521278592,False,Head,Open Play,0,0,3,Normal
+2275045,Bethany England,Chelsea FCW,6.503076195155644,0.05742148542744622,False,Head,Open Play,0,0,1,Normal
+2275045,Melissa Lawley,Liverpool WFC,28.136808632110363,0.07010160825022972,False,Right Foot,Open Play,0,0,1,Normal
+2275045,Kirsty Linnett,Liverpool WFC,32.04652867316521,0.06598294074021985,False,Right Foot,Free Kick,0,0,0,Normal
+2275045,Bethany England,Chelsea FCW,5.44518135602479,0.05511860586648552,False,Head,Open Play,0,1,2,Normal
+2275045,Maren Nævdal Mjelde,Chelsea FCW,29.56771888394504,0.05477973794767968,False,Right Foot,Open Play,0,0,2,Normal
+2275045,Magdalena Lilly Eriksson,Chelsea FCW,5.954829972383761,0.05536857793759736,False,Head,Open Play,0,0,4,Normal
+2275045,Magdalena Lilly Eriksson,Chelsea FCW,6.648308055437869,0.057879905533977455,False,Head,Open Play,0,0,5,Normal
+2275045,Sophie Louise Ingle,Chelsea FCW,8.300602387778847,0.056177618203758474,False,Right Foot,Open Play,1,0,2,Volley
+2275045,Sophie Louise Ingle,Chelsea FCW,6.7601775124622305,0.05772137361238655,False,Head,Open Play,0,0,3,Normal
+2275045,Guro Reiten,Chelsea FCW,14.080127840328727,0.06150701385443859,False,Left Foot,Open Play,1,0,3,Normal
+2275045,Kirsty Linnett,Liverpool WFC,32.9812067699167,0.06619783253416495,False,Right Foot,Free Kick,0,0,0,Normal
+2275045,Maren Nævdal Mjelde,Chelsea FCW,27.80017985553331,0.07024003482290517,False,Right Foot,Free Kick,0,0,0,Normal
+2275045,Erin Cuthbert,Chelsea FCW,24.46385088247556,0.06859625864142231,False,Right Foot,Open Play,0,0,1,Normal
+2275045,Rinsola Babajide,Liverpool WFC,17.300289014926886,0.05374753789165734,False,Left Foot,Open Play,0,1,3,Normal

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.43808503136037,0.056750524459443376,False,Left Foot,Open Play,1,0,2,Normal
-21.46718425877041,0.05958008066009962,False,Right Foot,Open Play,1,1,1,Half Volley
-27.47107569790451,0.06408228252207215,False,Left Foot,Open Play,0,0,1,Normal
-24.095850265139013,0.05757676073279965,False,Right Foot,Open Play,1,0,1,Half Volley
-32.95572787847357,0.07124050038206042,False,Left Foot,Open Play,1,0,0,Half Volley
-32.13113754600045,0.06720186451222548,False,Right Foot,Open Play,0,1,1,Normal
-9.323625904121203,0.059461623986648,False,Head,Open Play,0,1,1,Normal
-33.103474137920934,0.05340241374790205,False,Left Foot,Open Play,0,0,0,Normal
-27.37754554374807,0.07038262620545899,False,Right Foot,Open Play,0,0,2,Normal
-29.525582128046185,0.06065029292446961,False,Right Foot,Open Play,0,0,2,Normal
-18.07678068683692,0.057728003375293754,False,Right Foot,Open Play,1,0,1,Normal
-20.80024038322635,0.0661450285346623,False,Right Foot,Open Play,0,0,1,Normal
-18.545619428857048,0.0645242243920839,False,Right Foot,Open Play,1,0,0,Normal
-30.20016556246008,0.07213651844621934,False,Right Foot,Open Play,0,0,1,Normal
-23.750789460563205,0.06726562020675407,False,Right Foot,Open Play,0,1,1,Normal
-24.365549449991885,0.06849020685984845,False,Right Foot,Free Kick,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-25.578311124857326,0.06666582652406242,False,Left Foot,Open Play,1,0,0,Volley
-6.926037828369112,0.05672219073319248,True,Head,Open Play,0,0,1,Normal
-10.90412765882719,0.05902867264055064,False,Right Foot,Open Play,1,0,3,Volley
-20.993808611111994,0.06492816256755451,False,Right Foot,Open Play,0,0,2,Normal
-10.264989040422792,0.05957050373177487,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825692,Éver Maximiliano David Banega,Sevilla,24.43808503136037,0.056750524459443376,False,Left Foot,Open Play,1,0,2,Normal
+3825692,Omar Mascarell González,Sporting Gijón,21.46718425877041,0.05958008066009962,False,Right Foot,Open Play,1,1,1,Half Volley
+3825692,Alen Halilović,Sporting Gijón,27.47107569790451,0.06408228252207215,False,Left Foot,Open Play,0,0,1,Normal
+3825692,Mariano Ferreira Filho,Sevilla,24.095850265139013,0.05757676073279965,False,Right Foot,Open Play,1,0,1,Half Volley
+3825692,Sergio Escudero Palomo,Sevilla,32.95572787847357,0.07124050038206042,False,Left Foot,Open Play,1,0,0,Half Volley
+3825692,Steven N''Kemboanza Mike Christopher Nzonzi,Sevilla,32.13113754600045,0.06720186451222548,False,Right Foot,Open Play,0,1,1,Normal
+3825692,Fernando Llorente Torres,Sevilla,9.323625904121203,0.059461623986648,False,Head,Open Play,0,1,1,Normal
+3825692,Jonathan Rodríguez Menéndez,Sporting Gijón,33.103474137920934,0.05340241374790205,False,Left Foot,Open Play,0,0,0,Normal
+3825692,Yevhen Konoplyanka,Sevilla,27.37754554374807,0.07038262620545899,False,Right Foot,Open Play,0,0,2,Normal
+3825692,Yevhen Konoplyanka,Sevilla,29.525582128046185,0.06065029292446961,False,Right Foot,Open Play,0,0,2,Normal
+3825692,Éver Maximiliano David Banega,Sevilla,18.07678068683692,0.057728003375293754,False,Right Foot,Open Play,1,0,1,Normal
+3825692,Éver Maximiliano David Banega,Sevilla,20.80024038322635,0.0661450285346623,False,Right Foot,Open Play,0,0,1,Normal
+3825692,Yevhen Konoplyanka,Sevilla,18.545619428857048,0.0645242243920839,False,Right Foot,Open Play,1,0,0,Normal
+3825692,Éver Maximiliano David Banega,Sevilla,30.20016556246008,0.07213651844621934,False,Right Foot,Open Play,0,0,1,Normal
+3825692,Yevhen Konoplyanka,Sevilla,23.750789460563205,0.06726562020675407,False,Right Foot,Open Play,0,1,1,Normal
+3825692,Éver Maximiliano David Banega,Sevilla,24.365549449991885,0.06849020685984845,False,Right Foot,Free Kick,0,0,0,Normal
+3825692,Kevin Gameiro,Sevilla,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3825692,Jonathan Rodríguez Menéndez,Sporting Gijón,25.578311124857326,0.06666582652406242,False,Left Foot,Open Play,1,0,0,Volley
+3825692,Kevin Gameiro,Sevilla,6.926037828369112,0.05672219073319248,True,Head,Open Play,0,0,1,Normal
+3825692,Yevhen Konoplyanka,Sevilla,10.90412765882719,0.05902867264055064,False,Right Foot,Open Play,1,0,3,Volley
+3825692,Éver Maximiliano David Banega,Sevilla,20.993808611111994,0.06492816256755451,False,Right Foot,Open Play,0,0,2,Normal
+3825692,Yevhen Konoplyanka,Sevilla,10.264989040422792,0.05957050373177487,False,Right Foot,Open Play,1,0,1,Half Volley

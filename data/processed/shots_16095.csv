@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.646179233290663,0.05338743397225394,False,Right Foot,Open Play,0,1,1,Normal
-11.331813623599716,0.060433983571456205,False,Head,Open Play,0,1,4,Normal
-24.410038918445014,0.06481009883406584,False,Left Foot,Open Play,0,0,2,Normal
-33.082019285406396,0.058260815537025695,False,Left Foot,Open Play,0,0,2,Normal
-27.278746305503116,0.06033800245215535,False,Left Foot,Free Kick,0,0,0,Normal
-31.079253530289307,0.057375077990540965,False,Left Foot,Free Kick,0,0,0,Normal
-10.489041900955495,0.06004894305060432,False,Left Foot,Open Play,0,0,2,Normal
-18.534832073693035,0.06428000605112602,False,Left Foot,Open Play,0,0,2,Normal
-20.93895890439637,0.06567923650500394,False,Left Foot,Open Play,0,0,2,Normal
-10.339245620450264,0.058574154275093486,True,Right Foot,Open Play,1,0,2,Volley
-15.52417469626002,0.06101509190988671,False,Right Foot,Open Play,0,0,2,Normal
-7.874642849044012,0.05851763361349017,False,Head,Open Play,0,1,3,Normal
-34.00838131990407,0.05746049208850763,False,Right Foot,Open Play,0,0,1,Normal
-12.448293055676345,0.05505122571147538,True,Right Foot,Open Play,0,1,2,Normal
-16.47786393923679,0.062109961548428,True,Left Foot,Open Play,1,0,1,Normal
-22.273975846265078,0.06657631102485306,False,Left Foot,Open Play,0,0,2,Normal
-30.07407521437691,0.062035664740757925,False,Left Foot,Open Play,1,1,1,Normal
-15.814234094637651,0.0625091570730879,False,Left Foot,Open Play,1,0,1,Normal
-12.88448679614365,0.05445452307573773,False,Right Foot,Open Play,0,0,1,Normal
-30.957067044537663,0.07108359233369224,False,Right Foot,Free Kick,0,0,0,Normal
-5.232590180780453,0.05734400610969863,True,Left Foot,Open Play,1,0,1,Volley
-9.660745312862772,0.05889535053898542,False,Right Foot,Open Play,1,0,3,Backheel
-26.196182928052707,0.06750956755219109,False,Right Foot,Open Play,0,0,1,Normal
-28.8294987816299,0.06404951552229168,False,Right Foot,Open Play,0,1,1,Normal
-30.182279569310193,0.06437182313562005,False,Right Foot,Open Play,1,0,0,Half Volley
-30.99322506613341,0.07312407106018329,False,Right Foot,Open Play,0,0,1,Normal
-26.025564355072113,0.06115958657883672,False,Left Foot,Free Kick,0,0,0,Normal
-25.109759058979435,0.06514023581822542,False,Right Foot,Open Play,0,0,1,Normal
-17.12687945890903,0.06005491983758376,False,Right Foot,Open Play,1,0,0,Normal
-17.40258601472781,0.056434605715599086,False,Right Foot,Open Play,0,0,3,Normal
-20.682843131445928,0.060154805202687234,False,Right Foot,Open Play,1,0,1,Volley
-19.220822042774337,0.06419327793878923,False,Right Foot,Open Play,0,0,3,Normal
-13.509256086106296,0.055879664528516435,False,Right Foot,Open Play,0,0,2,Normal
-20.18142710513803,0.06190273518379257,False,Left Foot,Open Play,0,0,2,Half Volley
-10.914210919713797,0.05989715444662647,True,Left Foot,Open Play,0,0,3,Normal
-25.001799935204666,0.06558582067504788,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16095,Emmanuel Okyere Boateng,Levante UD,18.646179233290663,0.05338743397225394,False,Right Foot,Open Play,0,1,1,Normal
+16095,Thomas Vermaelen,Barcelona,11.331813623599716,0.060433983571456205,False,Head,Open Play,0,1,4,Normal
+16095,Lionel Andrés Messi Cuccittini,Barcelona,24.410038918445014,0.06481009883406584,False,Left Foot,Open Play,0,0,2,Normal
+16095,Rubén Rochina Naixes,Levante UD,33.082019285406396,0.058260815537025695,False,Left Foot,Open Play,0,0,2,Normal
+16095,Lionel Andrés Messi Cuccittini,Barcelona,27.278746305503116,0.06033800245215535,False,Left Foot,Free Kick,0,0,0,Normal
+16095,Rubén Rochina Naixes,Levante UD,31.079253530289307,0.057375077990540965,False,Left Foot,Free Kick,0,0,0,Normal
+16095,Emmanuel Okyere Boateng,Levante UD,10.489041900955495,0.06004894305060432,False,Left Foot,Open Play,0,0,2,Normal
+16095,José Ángel Gómez Campaña,Levante UD,18.534832073693035,0.06428000605112602,False,Left Foot,Open Play,0,0,2,Normal
+16095,Lionel Andrés Messi Cuccittini,Barcelona,20.93895890439637,0.06567923650500394,False,Left Foot,Open Play,0,0,2,Normal
+16095,Luis Alberto Suárez Díaz,Barcelona,10.339245620450264,0.058574154275093486,True,Right Foot,Open Play,1,0,2,Volley
+16095,José Luis Morales Nogales,Levante UD,15.52417469626002,0.06101509190988671,False,Right Foot,Open Play,0,0,2,Normal
+16095,Erick Cathriel Cabaco Almada,Levante UD,7.874642849044012,0.05851763361349017,False,Head,Open Play,0,1,3,Normal
+16095,Ivan Rakitić,Barcelona,34.00838131990407,0.05746049208850763,False,Right Foot,Open Play,0,0,1,Normal
+16095,Lionel Andrés Messi Cuccittini,Barcelona,12.448293055676345,0.05505122571147538,True,Right Foot,Open Play,0,1,2,Normal
+16095,Lionel Andrés Messi Cuccittini,Barcelona,16.47786393923679,0.062109961548428,True,Left Foot,Open Play,1,0,1,Normal
+16095,Antonio García Aranda,Levante UD,22.273975846265078,0.06657631102485306,False,Left Foot,Open Play,0,0,2,Normal
+16095,Enis Bardhi,Levante UD,30.07407521437691,0.062035664740757925,False,Left Foot,Open Play,1,1,1,Normal
+16095,José Ángel Gómez Campaña,Levante UD,15.814234094637651,0.0625091570730879,False,Left Foot,Open Play,1,0,1,Normal
+16095,Luis Alberto Suárez Díaz,Barcelona,12.88448679614365,0.05445452307573773,False,Right Foot,Open Play,0,0,1,Normal
+16095,Enis Bardhi,Levante UD,30.957067044537663,0.07108359233369224,False,Right Foot,Free Kick,0,0,0,Normal
+16095,Lionel Andrés Messi Cuccittini,Barcelona,5.232590180780453,0.05734400610969863,True,Left Foot,Open Play,1,0,1,Volley
+16095,Erick Cathriel Cabaco Almada,Levante UD,9.660745312862772,0.05889535053898542,False,Right Foot,Open Play,1,0,3,Backheel
+16095,Arthur Henrique Ramos de Oliveira Melo,Barcelona,26.196182928052707,0.06750956755219109,False,Right Foot,Open Play,0,0,1,Normal
+16095,Enis Bardhi,Levante UD,28.8294987816299,0.06404951552229168,False,Right Foot,Open Play,0,1,1,Normal
+16095,Sanjin Prcić,Levante UD,30.182279569310193,0.06437182313562005,False,Right Foot,Open Play,1,0,0,Half Volley
+16095,José Ángel Gómez Campaña,Levante UD,30.99322506613341,0.07312407106018329,False,Right Foot,Open Play,0,0,1,Normal
+16095,Lionel Andrés Messi Cuccittini,Barcelona,26.025564355072113,0.06115958657883672,False,Left Foot,Free Kick,0,0,0,Normal
+16095,Sanjin Prcić,Levante UD,25.109759058979435,0.06514023581822542,False,Right Foot,Open Play,0,0,1,Normal
+16095,Luis Alberto Suárez Díaz,Barcelona,17.12687945890903,0.06005491983758376,False,Right Foot,Open Play,1,0,0,Normal
+16095,Borja Mayoral Moya,Levante UD,17.40258601472781,0.056434605715599086,False,Right Foot,Open Play,0,0,3,Normal
+16095,David Remeseiro Salgueiro,Levante UD,20.682843131445928,0.060154805202687234,False,Right Foot,Open Play,1,0,1,Volley
+16095,Philippe Coutinho Correia,Barcelona,19.220822042774337,0.06419327793878923,False,Right Foot,Open Play,0,0,3,Normal
+16095,Denis Suárez Fernández,Barcelona,13.509256086106296,0.055879664528516435,False,Right Foot,Open Play,0,0,2,Normal
+16095,Sanjin Prcić,Levante UD,20.18142710513803,0.06190273518379257,False,Left Foot,Open Play,0,0,2,Half Volley
+16095,Gerard Piqué Bernabéu,Barcelona,10.914210919713797,0.05989715444662647,True,Left Foot,Open Play,0,0,3,Normal
+16095,Sanjin Prcić,Levante UD,25.001799935204666,0.06558582067504788,False,Right Foot,Open Play,0,0,3,Normal

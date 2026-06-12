@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.629703349613004,0.060676889344616555,False,Right Foot,Open Play,1,0,1,Half Volley
-14.105672617780414,0.05948176253610017,False,Head,Open Play,0,1,5,Normal
-27.28827587078377,0.0706240582124624,False,Left Foot,Open Play,1,0,1,Volley
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-12.267436570041841,0.06101112344519084,False,Head,Open Play,0,0,0,Normal
-23.085276693165273,0.0674674837153751,False,Left Foot,Open Play,0,0,0,Normal
-29.760544349860265,0.06313240984368097,False,Right Foot,Free Kick,0,0,0,Normal
-13.482581355215329,0.05573588765462089,False,Right Foot,Open Play,1,1,2,Half Volley
-14.926486525636234,0.05642748178391137,False,Left Foot,Open Play,1,1,3,Half Volley
-41.200121359044566,0.07377819417185211,False,Right Foot,Open Play,0,0,0,Normal
-14.0,0.060438191179105843,False,Right Foot,Open Play,1,1,5,Half Volley
-14.205632685663813,0.06067468344949113,False,Left Foot,Open Play,0,0,5,Half Volley
-24.67589917307979,0.05340534645192208,False,Left Foot,Open Play,1,1,1,Normal
-15.839823231336897,0.061984124732866165,False,Left Foot,Open Play,0,0,2,Normal
-16.961426826773746,0.06376516788743004,False,Left Foot,Open Play,0,0,1,Normal
-12.300406497347964,0.05324460567200266,False,Right Foot,Open Play,0,0,2,Normal
-29.67237772744207,0.052782529686163294,False,Right Foot,Open Play,0,0,2,Normal
-13.869751259485517,0.06197296195157209,True,Left Foot,Open Play,0,0,1,Normal
-9.289241088485108,0.05911425252497018,False,Head,Open Play,0,0,2,Normal
-19.166898549321946,0.06335690625381342,False,Right Foot,Open Play,1,0,1,Normal
-11.237882362794155,0.05375478147625764,False,Right Foot,Open Play,1,0,2,Normal
-28.93060663034911,0.05713466058526674,False,Right Foot,Open Play,0,0,1,Normal
-9.33916484488843,0.05768228693387723,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879766,Miroslav Klose,Lazio,11.629703349613004,0.060676889344616555,False,Right Foot,Open Play,1,0,1,Half Volley
+3879766,Maurício dos Santos Nascimento,Lazio,14.105672617780414,0.05948176253610017,False,Head,Open Play,0,1,5,Normal
+3879766,Federico Peluso,Sassuolo,27.28827587078377,0.0706240582124624,False,Left Foot,Open Play,1,0,1,Volley
+3879766,Domenico Berardi,Sassuolo,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3879766,Marco Parolo,Lazio,12.267436570041841,0.06101112344519084,False,Head,Open Play,0,0,0,Normal
+3879766,Joseph Alfred Duncan,Sassuolo,23.085276693165273,0.0674674837153751,False,Left Foot,Open Play,0,0,0,Normal
+3879766,Antonio Candreva,Lazio,29.760544349860265,0.06313240984368097,False,Right Foot,Free Kick,0,0,0,Normal
+3879766,Miroslav Klose,Lazio,13.482581355215329,0.05573588765462089,False,Right Foot,Open Play,1,1,2,Half Volley
+3879766,Marco Parolo,Lazio,14.926486525636234,0.05642748178391137,False,Left Foot,Open Play,1,1,3,Half Volley
+3879766,Maurício dos Santos Nascimento,Lazio,41.200121359044566,0.07377819417185211,False,Right Foot,Open Play,0,0,0,Normal
+3879766,Marco Parolo,Lazio,14.0,0.060438191179105843,False,Right Foot,Open Play,1,1,5,Half Volley
+3879766,Marco Parolo,Lazio,14.205632685663813,0.06067468344949113,False,Left Foot,Open Play,0,0,5,Half Volley
+3879766,Domenico Berardi,Sassuolo,24.67589917307979,0.05340534645192208,False,Left Foot,Open Play,1,1,1,Normal
+3879766,Domenico Berardi,Sassuolo,15.839823231336897,0.061984124732866165,False,Left Foot,Open Play,0,0,2,Normal
+3879766,Joseph Alfred Duncan,Sassuolo,16.961426826773746,0.06376516788743004,False,Left Foot,Open Play,0,0,1,Normal
+3879766,Keita Baldé Diao,Lazio,12.300406497347964,0.05324460567200266,False,Right Foot,Open Play,0,0,2,Normal
+3879766,Felipe Anderson Pereira Gomes,Lazio,29.67237772744207,0.052782529686163294,False,Right Foot,Open Play,0,0,2,Normal
+3879766,Gregoire Defrel,Sassuolo,13.869751259485517,0.06197296195157209,True,Left Foot,Open Play,0,0,1,Normal
+3879766,Miroslav Klose,Lazio,9.289241088485108,0.05911425252497018,False,Head,Open Play,0,0,2,Normal
+3879766,Lucas Rodrigo Biglia,Lazio,19.166898549321946,0.06335690625381342,False,Right Foot,Open Play,1,0,1,Normal
+3879766,Filip Đorđević,Lazio,11.237882362794155,0.05375478147625764,False,Right Foot,Open Play,1,0,2,Normal
+3879766,Sergej Milinković-Savić,Lazio,28.93060663034911,0.05713466058526674,False,Right Foot,Open Play,0,0,1,Normal
+3879766,Marcello Trotta,Sassuolo,9.33916484488843,0.05768228693387723,False,Head,Open Play,0,0,2,Normal

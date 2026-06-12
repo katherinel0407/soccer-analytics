@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.164572894063497,0.0650914177128793,False,Right Foot,Open Play,0,1,2,Normal
-11.047624178980744,0.059576856826127955,True,Left Foot,Open Play,0,0,2,Normal
-15.789236840328918,0.062472467352163136,False,Head,Open Play,0,0,3,Normal
-26.39412813487121,0.05002444419699282,False,Right Foot,Open Play,0,0,0,Normal
-22.924222996647014,0.0675210700041661,False,Right Foot,Open Play,0,0,2,Normal
-29.54335796757031,0.06853115640009658,False,Left Foot,Open Play,0,1,3,Normal
-29.918723234790615,0.07255972383951036,False,Left Foot,Free Kick,0,0,0,Normal
-24.894176025729386,0.06746475096803839,False,Right Foot,Open Play,0,0,1,Normal
-19.944924166313598,0.06527970814142013,False,Right Foot,Open Play,1,0,2,Half Volley
-26.828715958837833,0.06868392279260271,False,Left Foot,Open Play,1,0,1,Normal
-18.166177363441104,0.05198550163095695,False,Right Foot,Open Play,0,0,1,Normal
-15.41492782986674,0.05509609043758192,False,Right Foot,Open Play,1,1,4,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-10.90045870594445,0.05916880831087229,False,Left Foot,Open Play,1,0,1,Volley
-28.949956822074885,0.057566481504188347,False,Left Foot,Open Play,0,0,0,Normal
-42.20675301418009,0.07201932424990218,False,Right Foot,Open Play,0,1,1,Normal
-18.333030300525873,0.0627783769353383,False,Right Foot,Open Play,1,0,0,Normal
-24.52264259821931,0.056017634256908914,False,Left Foot,Open Play,0,0,2,Normal
-29.584624384974035,0.06939187665271496,False,Right Foot,Open Play,0,0,1,Normal
-10.70186899564744,0.05717569806507332,False,Head,Open Play,0,1,2,Normal
-9.299999999999997,0.05847804246130194,False,Head,Open Play,0,1,2,Normal
-19.413912537147166,0.06365959340464472,False,Left Foot,Open Play,1,0,2,Normal
-12.845621822239663,0.05891962601579639,False,Right Foot,Open Play,0,0,4,Normal
-7.017834423809097,0.057987908728217526,False,Left Foot,Open Play,1,1,2,Normal
-25.988074187980917,0.05705476609117815,False,Right Foot,Open Play,1,0,1,Volley
-10.139033484509259,0.057780046054650966,False,Left Foot,Open Play,1,0,2,Half Volley
-27.005369836386244,0.06213389343493717,False,Right Foot,Free Kick,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-8.200609733428363,0.05572498729927704,True,Right Foot,Open Play,0,0,1,Normal
-19.042058712229625,0.06503181303612295,False,Left Foot,Open Play,0,1,2,Half Volley
-12.433824833895644,0.06052682406072493,False,Right Foot,Open Play,0,0,2,Half Volley
-10.492378186092987,0.0581875451388003,False,Left Foot,Open Play,0,0,4,Normal
-7.70064932327138,0.05862299618911229,False,Right Foot,Open Play,0,1,4,Normal
-14.9833240637717,0.06182693393275936,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901176,André Biyogo Poko,Bordeaux,20.164572894063497,0.0650914177128793,False,Right Foot,Open Play,0,1,2,Normal
+3901176,Wissam Ben Yedder,Toulouse,11.047624178980744,0.059576856826127955,True,Left Foot,Open Play,0,0,2,Normal
+3901176,Alexis Blin,Toulouse,15.789236840328918,0.062472467352163136,False,Head,Open Play,0,0,3,Normal
+3901176,Martin Braithwaite Christensen,Toulouse,26.39412813487121,0.05002444419699282,False,Right Foot,Open Play,0,0,0,Normal
+3901176,Martin Braithwaite Christensen,Toulouse,22.924222996647014,0.0675210700041661,False,Right Foot,Open Play,0,0,2,Normal
+3901176,Adam Ounas,Bordeaux,29.54335796757031,0.06853115640009658,False,Left Foot,Open Play,0,1,3,Normal
+3901176,Malcom Filipe Silva de Oliveira,Bordeaux,29.918723234790615,0.07255972383951036,False,Left Foot,Free Kick,0,0,0,Normal
+3901176,Martin Braithwaite Christensen,Toulouse,24.894176025729386,0.06746475096803839,False,Right Foot,Open Play,0,0,1,Normal
+3901176,Mauro Wilney Arambarri Rosa,Bordeaux,19.944924166313598,0.06527970814142013,False,Right Foot,Open Play,1,0,2,Half Volley
+3901176,Étienne Didot,Toulouse,26.828715958837833,0.06868392279260271,False,Left Foot,Open Play,1,0,1,Normal
+3901176,Adam Ounas,Bordeaux,18.166177363441104,0.05198550163095695,False,Right Foot,Open Play,0,0,1,Normal
+3901176,André Biyogo Poko,Bordeaux,15.41492782986674,0.05509609043758192,False,Right Foot,Open Play,1,1,4,Normal
+3901176,Wissam Ben Yedder,Toulouse,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3901176,Tongo Hamed Doumbia,Toulouse,10.90045870594445,0.05916880831087229,False,Left Foot,Open Play,1,0,1,Volley
+3901176,Adam Ounas,Bordeaux,28.949956822074885,0.057566481504188347,False,Left Foot,Open Play,0,0,0,Normal
+3901176,Cédric Yambéré,Bordeaux,42.20675301418009,0.07201932424990218,False,Right Foot,Open Play,0,1,1,Normal
+3901176,Wissam Ben Yedder,Toulouse,18.333030300525873,0.0627783769353383,False,Right Foot,Open Play,1,0,0,Normal
+3901176,Adam Ounas,Bordeaux,24.52264259821931,0.056017634256908914,False,Left Foot,Open Play,0,0,2,Normal
+3901176,Tongo Hamed Doumbia,Toulouse,29.584624384974035,0.06939187665271496,False,Right Foot,Open Play,0,0,1,Normal
+3901176,Cheick Tidiane Diabaté,Bordeaux,10.70186899564744,0.05717569806507332,False,Head,Open Play,0,1,2,Normal
+3901176,Tongo Hamed Doumbia,Toulouse,9.299999999999997,0.05847804246130194,False,Head,Open Play,0,1,2,Normal
+3901176,Wergiton do Rosário Calmon,Toulouse,19.413912537147166,0.06365959340464472,False,Left Foot,Open Play,1,0,2,Normal
+3901176,Tongo Hamed Doumbia,Toulouse,12.845621822239663,0.05891962601579639,False,Right Foot,Open Play,0,0,4,Normal
+3901176,Martin Braithwaite Christensen,Toulouse,7.017834423809097,0.057987908728217526,False,Left Foot,Open Play,1,1,2,Normal
+3901176,Étienne Didot,Toulouse,25.988074187980917,0.05705476609117815,False,Right Foot,Open Play,1,0,1,Volley
+3901176,Wissam Ben Yedder,Toulouse,10.139033484509259,0.057780046054650966,False,Left Foot,Open Play,1,0,2,Half Volley
+3901176,Thomas Touré,Bordeaux,27.005369836386244,0.06213389343493717,False,Right Foot,Free Kick,0,0,0,Normal
+3901176,Martin Braithwaite Christensen,Toulouse,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3901176,Óscar Guido Trejo,Toulouse,8.200609733428363,0.05572498729927704,True,Right Foot,Open Play,0,0,1,Normal
+3901176,Enzo Crivelli,Bordeaux,19.042058712229625,0.06503181303612295,False,Left Foot,Open Play,0,1,2,Half Volley
+3901176,Óscar Guido Trejo,Toulouse,12.433824833895644,0.06052682406072493,False,Right Foot,Open Play,0,0,2,Half Volley
+3901176,Wissam Ben Yedder,Toulouse,10.492378186092987,0.0581875451388003,False,Left Foot,Open Play,0,0,4,Normal
+3901176,Óscar Guido Trejo,Toulouse,7.70064932327138,0.05862299618911229,False,Right Foot,Open Play,0,1,4,Normal
+3901176,André Biyogo Poko,Bordeaux,14.9833240637717,0.06182693393275936,False,Left Foot,Open Play,0,0,3,Normal

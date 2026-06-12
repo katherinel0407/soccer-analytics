@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.800337833982038,0.0623199626032936,True,Right Foot,Open Play,1,0,2,Normal
-12.453112060846477,0.06115875843949349,True,Right Foot,Open Play,0,1,2,Normal
-31.32491021535417,0.05990216806470648,False,Left Foot,Free Kick,0,0,0,Normal
-32.03903868720159,0.06051813257181856,False,Right Foot,Open Play,1,0,0,Volley
-27.43902330623304,0.05373606087505807,False,Right Foot,Free Kick,0,0,0,Normal
-25.831182706178986,0.06324836149766538,False,Left Foot,Open Play,1,0,1,Volley
-29.11391419922783,0.06794319557714229,False,Right Foot,Open Play,0,0,2,Normal
-26.70299608658174,0.06031538897250976,False,Left Foot,Open Play,1,1,1,Normal
-19.334942461771124,0.06441918994384827,False,Left Foot,Open Play,0,1,1,Normal
-25.459379411132552,0.06022380946671171,False,Right Foot,Open Play,0,0,2,Normal
-20.831226560142827,0.06166353439086731,False,Right Foot,Open Play,0,0,3,Half Volley
-22.78464395157405,0.06743054117240854,False,Left Foot,Open Play,0,0,2,Normal
-18.762729012593027,0.06486182104427067,True,Left Foot,Open Play,1,0,1,Half Volley
-16.807438829280326,0.06277430102027319,False,Left Foot,Open Play,1,0,1,Normal
-16.07762420259909,0.05553349995275311,True,Left Foot,Open Play,0,0,1,Normal
-32.19720484762613,0.060286224257350106,False,Right Foot,Free Kick,0,0,0,Normal
-19.751708786836645,0.06094093618917578,False,Left Foot,Open Play,0,0,0,Normal
-13.851353724455954,0.06166067576893482,False,Right Foot,Open Play,1,1,2,Normal
-28.786281454887504,0.06956379412736033,False,Right Foot,Open Play,1,0,1,Half Volley
-16.400304875214978,0.061518945708050075,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901199,Kamil Grosicki,Rennes,14.800337833982038,0.0623199626032936,True,Right Foot,Open Play,1,0,2,Normal
+3901199,Ousmane Dembélé,Rennes,12.453112060846477,0.06115875843949349,True,Right Foot,Open Play,0,1,2,Normal
+3901199,Diego Rigonato Rodrigues,Stade de Reims,31.32491021535417,0.05990216806470648,False,Left Foot,Free Kick,0,0,0,Normal
+3901199,Nicolas de Roussel de Préville,Stade de Reims,32.03903868720159,0.06051813257181856,False,Right Foot,Open Play,1,0,0,Volley
+3901199,Kamil Grosicki,Rennes,27.43902330623304,0.05373606087505807,False,Right Foot,Free Kick,0,0,0,Normal
+3901199,Kamil Grosicki,Rennes,25.831182706178986,0.06324836149766538,False,Left Foot,Open Play,1,0,1,Volley
+3901199,Omenuke Mfulu,Stade de Reims,29.11391419922783,0.06794319557714229,False,Right Foot,Open Play,0,0,2,Normal
+3901199,Hamari Traoré,Stade de Reims,26.70299608658174,0.06031538897250976,False,Left Foot,Open Play,1,1,1,Normal
+3901199,Kamil Grosicki,Rennes,19.334942461771124,0.06441918994384827,False,Left Foot,Open Play,0,1,1,Normal
+3901199,Omenuke Mfulu,Stade de Reims,25.459379411132552,0.06022380946671171,False,Right Foot,Open Play,0,0,2,Normal
+3901199,Omenuke Mfulu,Stade de Reims,20.831226560142827,0.06166353439086731,False,Right Foot,Open Play,0,0,3,Half Volley
+3901199,Aly Ndom,Stade de Reims,22.78464395157405,0.06743054117240854,False,Left Foot,Open Play,0,0,2,Normal
+3901199,Aïssa Mandi,Stade de Reims,18.762729012593027,0.06486182104427067,True,Left Foot,Open Play,1,0,1,Half Volley
+3901199,Yoann Gourcuff,Rennes,16.807438829280326,0.06277430102027319,False,Left Foot,Open Play,1,0,1,Normal
+3901199,Ousmane Dembélé,Rennes,16.07762420259909,0.05553349995275311,True,Left Foot,Open Play,0,0,1,Normal
+3901199,Nicolas de Roussel de Préville,Stade de Reims,32.19720484762613,0.060286224257350106,False,Right Foot,Free Kick,0,0,0,Normal
+3901199,Yoann Gourcuff,Rennes,19.751708786836645,0.06094093618917578,False,Left Foot,Open Play,0,0,0,Normal
+3901199,Gélson da Conceição Tavares Fernandes,Rennes,13.851353724455954,0.06166067576893482,False,Right Foot,Open Play,1,1,2,Normal
+3901199,Gélson da Conceição Tavares Fernandes,Rennes,28.786281454887504,0.06956379412736033,False,Right Foot,Open Play,1,0,1,Half Volley
+3901199,Thievy Guivane Bifouma Koulossa,Stade de Reims,16.400304875214978,0.061518945708050075,False,Head,Open Play,0,1,4,Normal

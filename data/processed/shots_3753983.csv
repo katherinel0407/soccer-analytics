@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.117242768623694,0.06364025599468424,False,Left Foot,Open Play,1,1,2,Normal
-23.914012628582434,0.057303945048808765,False,Left Foot,Open Play,1,0,1,Normal
-11.268096556206816,0.0565250801398077,False,Head,Open Play,0,1,1,Normal
-16.966437457521835,0.0582974330543208,False,Left Foot,Open Play,1,0,0,Normal
-27.44485379811669,0.06999114110313749,False,Right Foot,Free Kick,0,0,0,Normal
-10.903669107231746,0.05961080377463826,False,Head,Open Play,0,0,2,Normal
-24.833847869389867,0.0635645434471026,False,Left Foot,Open Play,0,0,1,Normal
-29.61384811198977,0.07104140147256062,False,Right Foot,Open Play,1,0,1,Half Volley
-7.0178344238090995,0.05739510148734901,True,Head,Open Play,0,0,3,Normal
-23.846593048064538,0.06771746029284076,False,Left Foot,Open Play,0,0,2,Normal
-23.170886905770352,0.058352794173658885,False,Right Foot,Open Play,0,0,2,Normal
-22.284748147555984,0.06710277710319881,False,Right Foot,Open Play,0,0,1,Normal
-8.000624975587838,0.05696954799309894,False,Head,Open Play,0,0,5,Normal
-11.027692415006864,0.05972573793919924,False,Head,Open Play,0,0,1,Normal
-6.935416353759874,0.056143471237083964,True,Right Foot,Open Play,0,0,2,Half Volley
-11.52562362737913,0.054586161352702875,True,Left Foot,Open Play,0,0,0,Normal
-24.92007223103497,0.0688112936884416,False,Left Foot,Open Play,0,0,1,Normal
-25.12130569854999,0.06876184677400878,False,Left Foot,Open Play,0,0,2,Normal
-17.182840277439585,0.052675339252158934,False,Right Foot,Open Play,0,0,2,Normal
-16.337992532744035,0.05487441214313521,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753983,Ignacio Monreal Eraso,Arsenal,17.117242768623694,0.06364025599468424,False,Left Foot,Open Play,1,1,2,Normal
+3753983,Joel Nathaniel Campbell Samuels,Arsenal,23.914012628582434,0.057303945048808765,False,Left Foot,Open Play,1,0,1,Normal
+3753983,Bafétimbi Gomis,Swansea City,11.268096556206816,0.0565250801398077,False,Head,Open Play,0,1,1,Normal
+3753983,Olivier Giroud,Arsenal,16.966437457521835,0.0582974330543208,False,Left Foot,Open Play,1,0,0,Normal
+3753983,Gylfi Þór Sigurðsson,Swansea City,27.44485379811669,0.06999114110313749,False,Right Foot,Free Kick,0,0,0,Normal
+3753983,Jonjo Shelvey,Swansea City,10.903669107231746,0.05961080377463826,False,Head,Open Play,0,0,2,Normal
+3753983,Joel Nathaniel Campbell Samuels,Arsenal,24.833847869389867,0.0635645434471026,False,Left Foot,Open Play,0,0,1,Normal
+3753983,Gylfi Þór Sigurðsson,Swansea City,29.61384811198977,0.07104140147256062,False,Right Foot,Open Play,1,0,1,Half Volley
+3753983,Olivier Giroud,Arsenal,7.0178344238090995,0.05739510148734901,True,Head,Open Play,0,0,3,Normal
+3753983,Gylfi Þór Sigurðsson,Swansea City,23.846593048064538,0.06771746029284076,False,Left Foot,Open Play,0,0,2,Normal
+3753983,Gylfi Þór Sigurðsson,Swansea City,23.170886905770352,0.058352794173658885,False,Right Foot,Open Play,0,0,2,Normal
+3753983,Alexis Alejandro Sánchez Sánchez,Arsenal,22.284748147555984,0.06710277710319881,False,Right Foot,Open Play,0,0,1,Normal
+3753983,Laurent Koscielny,Arsenal,8.000624975587838,0.05696954799309894,False,Head,Open Play,0,0,5,Normal
+3753983,Alexis Alejandro Sánchez Sánchez,Arsenal,11.027692415006864,0.05972573793919924,False,Head,Open Play,0,0,1,Normal
+3753983,Laurent Koscielny,Arsenal,6.935416353759874,0.056143471237083964,True,Right Foot,Open Play,0,0,2,Half Volley
+3753983,Joel Nathaniel Campbell Samuels,Arsenal,11.52562362737913,0.054586161352702875,True,Left Foot,Open Play,0,0,0,Normal
+3753983,Ashley Williams,Swansea City,24.92007223103497,0.0688112936884416,False,Left Foot,Open Play,0,0,1,Normal
+3753983,Joel Nathaniel Campbell Samuels,Arsenal,25.12130569854999,0.06876184677400878,False,Left Foot,Open Play,0,0,2,Normal
+3753983,Alexis Alejandro Sánchez Sánchez,Arsenal,17.182840277439585,0.052675339252158934,False,Right Foot,Open Play,0,0,2,Normal
+3753983,Mesut Özil,Arsenal,16.337992532744035,0.05487441214313521,False,Left Foot,Open Play,0,0,2,Normal

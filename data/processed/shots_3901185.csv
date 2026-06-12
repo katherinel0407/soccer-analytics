@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.626096818924715,0.07351637110429779,False,Right Foot,Open Play,1,1,1,Normal
-14.303146506975308,0.06068024627498478,False,Right Foot,Open Play,1,0,1,Normal
-44.97199128346442,0.08329388243064766,False,Right Foot,Free Kick,0,0,0,Lob
-11.484337159801605,0.05266124602914781,True,Left Foot,Open Play,0,0,2,Normal
-25.050349298961873,0.06854776166311612,False,Left Foot,Open Play,0,0,3,Normal
-34.36277055186325,0.059940273896509334,False,Right Foot,Open Play,0,0,1,Normal
-25.707780923292464,0.06951081168168839,False,Right Foot,Open Play,0,0,1,Normal
-24.695141222515815,0.053858760290130286,False,Right Foot,Open Play,1,1,1,Normal
-5.374011537017757,0.0551499160321363,False,Head,Open Play,0,1,3,Normal
-23.711811402758755,0.062223717363853,False,Left Foot,Open Play,0,0,2,Normal
-31.607752213657967,0.07363813899668639,False,Right Foot,Open Play,0,0,1,Normal
-35.7594742690661,0.06794635641508241,False,Right Foot,Open Play,0,0,0,Half Volley
-19.110729970359586,0.06455261257421126,False,Left Foot,Open Play,1,1,2,Normal
-15.100331122197291,0.05810796924214969,False,Left Foot,Open Play,0,1,4,Normal
-19.625493624365216,0.06333792638874042,False,Right Foot,Open Play,1,1,1,Half Volley
-19.63084307919555,0.0633804206616412,False,Left Foot,Open Play,0,0,2,Lob
-30.567957079268478,0.052872749023961545,False,Right Foot,Open Play,0,0,1,Normal
-35.107976301689625,0.05721252762095139,False,Right Foot,Open Play,0,0,0,Normal
-23.81134183535233,0.06370936610937973,False,Right Foot,Open Play,1,0,1,Normal
-8.228000972289687,0.056872987589022476,False,Head,Open Play,0,0,4,Normal
-8.769264507357494,0.05908108458061883,False,Right Foot,Open Play,1,0,1,Volley
-7.685050422736341,0.058616183594729324,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901185,Nicolas de Roussel de Préville,Stade de Reims,31.626096818924715,0.07351637110429779,False,Right Foot,Open Play,1,1,1,Normal
+3901185,Gaëtan Charbonnier,Stade de Reims,14.303146506975308,0.06068024627498478,False,Right Foot,Open Play,1,0,1,Normal
+3901185,Nicolas de Roussel de Préville,Stade de Reims,44.97199128346442,0.08329388243064766,False,Right Foot,Free Kick,0,0,0,Lob
+3901185,Younousse Sankharé,Guingamp,11.484337159801605,0.05266124602914781,True,Left Foot,Open Play,0,0,2,Normal
+3901185,Gaëtan Charbonnier,Stade de Reims,25.050349298961873,0.06854776166311612,False,Left Foot,Open Play,0,0,3,Normal
+3901185,Nicolas de Roussel de Préville,Stade de Reims,34.36277055186325,0.059940273896509334,False,Right Foot,Open Play,0,0,1,Normal
+3901185,Gaëtan Charbonnier,Stade de Reims,25.707780923292464,0.06951081168168839,False,Right Foot,Open Play,0,0,1,Normal
+3901185,Nicolas de Roussel de Préville,Stade de Reims,24.695141222515815,0.053858760290130286,False,Right Foot,Open Play,1,1,1,Normal
+3901185,Aïssa Mandi,Stade de Reims,5.374011537017757,0.0551499160321363,False,Head,Open Play,0,1,3,Normal
+3901185,Thievy Guivane Bifouma Koulossa,Stade de Reims,23.711811402758755,0.062223717363853,False,Left Foot,Open Play,0,0,2,Normal
+3901185,Aïssa Mandi,Stade de Reims,31.607752213657967,0.07363813899668639,False,Right Foot,Open Play,0,0,1,Normal
+3901185,Aïssa Mandi,Stade de Reims,35.7594742690661,0.06794635641508241,False,Right Foot,Open Play,0,0,0,Half Volley
+3901185,Thievy Guivane Bifouma Koulossa,Stade de Reims,19.110729970359586,0.06455261257421126,False,Left Foot,Open Play,1,1,2,Normal
+3901185,Thievy Guivane Bifouma Koulossa,Stade de Reims,15.100331122197291,0.05810796924214969,False,Left Foot,Open Play,0,1,4,Normal
+3901185,Jaba Kankava,Stade de Reims,19.625493624365216,0.06333792638874042,False,Right Foot,Open Play,1,1,1,Half Volley
+3901185,Mana Dembélé,Guingamp,19.63084307919555,0.0633804206616412,False,Left Foot,Open Play,0,0,2,Lob
+3901185,Antoine Conte,Stade de Reims,30.567957079268478,0.052872749023961545,False,Right Foot,Open Play,0,0,1,Normal
+3901185,Alhassane Bangoura,Stade de Reims,35.107976301689625,0.05721252762095139,False,Right Foot,Open Play,0,0,0,Normal
+3901185,Antoine Conte,Stade de Reims,23.81134183535233,0.06370936610937973,False,Right Foot,Open Play,1,0,1,Normal
+3901185,Aïssa Mandi,Stade de Reims,8.228000972289687,0.056872987589022476,False,Head,Open Play,0,0,4,Normal
+3901185,Alhassane Bangoura,Stade de Reims,8.769264507357494,0.05908108458061883,False,Right Foot,Open Play,1,0,1,Volley
+3901185,Theoson Jordan Siebatcheu,Stade de Reims,7.685050422736341,0.058616183594729324,False,Head,Open Play,0,1,3,Normal

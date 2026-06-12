@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-43.48850422812907,0.0838812597362309,False,Right Foot,Open Play,0,1,0,Normal
-28.32966642938105,0.0650100363339363,False,Left Foot,Open Play,0,1,1,Normal
-39.128122878563964,0.07916542753171706,False,Right Foot,Open Play,0,0,1,Half Volley
-32.162866787648134,0.07297925301790076,False,Right Foot,Open Play,0,0,1,Normal
-34.28644046850008,0.05828558208336977,False,Right Foot,Open Play,0,0,0,Normal
-29.689223634174063,0.0554686911264713,False,Right Foot,Open Play,0,1,1,Normal
-8.697700845625812,0.055180043818111084,False,Head,Open Play,0,1,2,Normal
-15.123822268196621,0.06196518015133045,False,Right Foot,Open Play,1,0,1,Overhead Kick
-14.396180048887965,0.061844960908819656,False,Head,Open Play,0,1,1,Normal
-17.940178371465546,0.06434608450570303,False,Right Foot,Open Play,0,0,2,Normal
-32.190837205639745,0.0744123722511493,False,Right Foot,Open Play,1,0,2,Normal
-27.513632984395212,0.06162571577939378,False,Left Foot,Open Play,0,1,1,Normal
-8.417244204607584,0.05760831717474827,True,Head,Open Play,0,1,4,Normal
-28.935963782117227,0.07062263430902595,False,Left Foot,Open Play,0,0,1,Normal
-30.137849956491586,0.07025309787037179,False,Right Foot,Open Play,0,0,1,Normal
-32.93584673270144,0.0744570994292937,False,Left Foot,Open Play,1,1,1,Half Volley
-21.821548982599744,0.06561260389871591,False,Left Foot,Open Play,1,0,1,Normal
-28.478237305001866,0.07037362062025107,False,Left Foot,Open Play,1,0,0,Half Volley
-29.85849962740928,0.05781477148659622,False,Right Foot,Open Play,0,0,1,Normal
-29.914712099567332,0.07156738603192346,False,Left Foot,Open Play,0,0,1,Normal
-13.471451295239131,0.06167114158207067,False,Left Foot,Open Play,0,0,3,Normal
-19.77296133612768,0.06541048638146596,False,Left Foot,Open Play,1,0,1,Normal
-45.29514322750288,0.05984822161191657,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879546,Ronaldo Pompeu da Silva,Empoli,43.48850422812907,0.0838812597362309,False,Right Foot,Open Play,0,1,0,Normal
+3879546,Alejandro Darío Gómez,Atalanta,28.32966642938105,0.0650100363339363,False,Left Foot,Open Play,0,1,1,Normal
+3879546,Ronaldo Pompeu da Silva,Empoli,39.128122878563964,0.07916542753171706,False,Right Foot,Open Play,0,0,1,Half Volley
+3879546,Mauricio Ricardo Pinilla Ferreira,Atalanta,32.162866787648134,0.07297925301790076,False,Right Foot,Open Play,0,0,1,Normal
+3879546,Alberto Grassi,Atalanta,34.28644046850008,0.05828558208336977,False,Right Foot,Open Play,0,0,0,Normal
+3879546,Jasmin Kurtič,Atalanta,29.689223634174063,0.0554686911264713,False,Right Foot,Open Play,0,1,1,Normal
+3879546,Alessandro Piu,Empoli,8.697700845625812,0.055180043818111084,False,Head,Open Play,0,1,2,Normal
+3879546,Mauricio Ricardo Pinilla Ferreira,Atalanta,15.123822268196621,0.06196518015133045,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3879546,Mauricio Ricardo Pinilla Ferreira,Atalanta,14.396180048887965,0.061844960908819656,False,Head,Open Play,0,1,1,Normal
+3879546,Maximiliano Nicol Moralez,Atalanta,17.940178371465546,0.06434608450570303,False,Right Foot,Open Play,0,0,2,Normal
+3879546,Jasmin Kurtič,Atalanta,32.190837205639745,0.0744123722511493,False,Right Foot,Open Play,1,0,2,Normal
+3879546,Alejandro Darío Gómez,Atalanta,27.513632984395212,0.06162571577939378,False,Left Foot,Open Play,0,1,1,Normal
+3879546,Rafael Tolói,Atalanta,8.417244204607584,0.05760831717474827,True,Head,Open Play,0,1,4,Normal
+3879546,Riccardo Saponara,Empoli,28.935963782117227,0.07062263430902595,False,Left Foot,Open Play,0,0,1,Normal
+3879546,Ronaldo Pompeu da Silva,Empoli,30.137849956491586,0.07025309787037179,False,Right Foot,Open Play,0,0,1,Normal
+3879546,Assane Dioussé El Hadji,Empoli,32.93584673270144,0.0744570994292937,False,Left Foot,Open Play,1,1,1,Half Volley
+3879546,Mauricio Ricardo Pinilla Ferreira,Atalanta,21.821548982599744,0.06561260389871591,False,Left Foot,Open Play,1,0,1,Normal
+3879546,Assane Dioussé El Hadji,Empoli,28.478237305001866,0.07037362062025107,False,Left Foot,Open Play,1,0,0,Half Volley
+3879546,Alejandro Darío Gómez,Atalanta,29.85849962740928,0.05781477148659622,False,Right Foot,Open Play,0,0,1,Normal
+3879546,Boukary Dramé,Atalanta,29.914712099567332,0.07156738603192346,False,Left Foot,Open Play,0,0,1,Normal
+3879546,Riccardo Saponara,Empoli,13.471451295239131,0.06167114158207067,False,Left Foot,Open Play,0,0,3,Normal
+3879546,Marko Livaja,Empoli,19.77296133612768,0.06541048638146596,False,Left Foot,Open Play,1,0,1,Normal
+3879546,Leandro Daniel Paredes,Empoli,45.29514322750288,0.05984822161191657,False,Right Foot,Open Play,0,1,1,Normal

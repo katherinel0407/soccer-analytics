@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.226201372462338,0.05822773593132116,False,Right Foot,Open Play,0,0,3,Normal
-23.303433223454434,0.0664551552983854,False,Left Foot,Open Play,1,0,1,Normal
-31.834729463276418,0.06446852171041148,False,Right Foot,Open Play,0,0,1,Normal
-30.231771367222265,0.07253104395911425,False,Right Foot,Open Play,0,0,1,Normal
-21.693316943243147,0.0656452533534816,False,Right Foot,Open Play,0,0,2,Normal
-11.433722053644647,0.06031353914793334,False,Right Foot,Open Play,1,1,2,Normal
-22.552383466055208,0.06733805210142865,False,Right Foot,Open Play,1,0,2,Normal
-15.420765220960988,0.056635975621331734,False,Right Foot,Open Play,1,1,2,Half Volley
-25.139013504909055,0.06617208262595792,False,Left Foot,Free Kick,0,0,1,Normal
-23.48041737278109,0.06647063946420015,False,Right Foot,Open Play,0,0,2,Normal
-19.81136037731887,0.06395850686572875,False,Right Foot,Open Play,0,0,4,Normal
-12.108261642366335,0.05488453938814071,True,Right Foot,Open Play,1,0,2,Half Volley
-26.610148440021906,0.07007094027225697,False,Right Foot,Open Play,0,0,0,Normal
-8.2,0.05735744992072633,False,Head,Open Play,0,0,2,Normal
-11.264102272262978,0.0601846579208098,False,Head,Open Play,0,0,4,Normal
-8.54751425854324,0.05845066794970768,False,Head,Open Play,0,1,3,Normal
-16.979988221432894,0.0633994215426066,False,Left Foot,Open Play,0,0,1,Normal
-29.987997599039524,0.061380918920285875,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+15956,Ousmane Dembélé,Barcelona,12.226201372462338,0.05822773593132116,False,Right Foot,Open Play,0,0,3,Normal
+15956,Enes Ünal,Real Valladolid,23.303433223454434,0.0664551552983854,False,Left Foot,Open Play,1,0,1,Normal
+15956,Rubén Alcaraz Jiménez,Real Valladolid,31.834729463276418,0.06446852171041148,False,Right Foot,Open Play,0,0,1,Normal
+15956,Ousmane Dembélé,Barcelona,30.231771367222265,0.07253104395911425,False,Right Foot,Open Play,0,0,1,Normal
+15956,Ousmane Dembélé,Barcelona,21.693316943243147,0.0656452533534816,False,Right Foot,Open Play,0,0,2,Normal
+15956,Luis Alberto Suárez Díaz,Barcelona,11.433722053644647,0.06031353914793334,False,Right Foot,Open Play,1,1,2,Normal
+15956,Philippe Coutinho Correia,Barcelona,22.552383466055208,0.06733805210142865,False,Right Foot,Open Play,1,0,2,Normal
+15956,Luis Alberto Suárez Díaz,Barcelona,15.420765220960988,0.056635975621331734,False,Right Foot,Open Play,1,1,2,Half Volley
+15956,Lionel Andrés Messi Cuccittini,Barcelona,25.139013504909055,0.06617208262595792,False,Left Foot,Free Kick,0,0,1,Normal
+15956,Enes Ünal,Real Valladolid,23.48041737278109,0.06647063946420015,False,Right Foot,Open Play,0,0,2,Normal
+15956,Ousmane Dembélé,Barcelona,19.81136037731887,0.06395850686572875,False,Right Foot,Open Play,0,0,4,Normal
+15956,Ousmane Dembélé,Barcelona,12.108261642366335,0.05488453938814071,True,Right Foot,Open Play,1,0,2,Half Volley
+15956,Óscar Plano Pedreño,Real Valladolid,26.610148440021906,0.07007094027225697,False,Right Foot,Open Play,0,0,0,Normal
+15956,Sergio Gontán Gallardo,Real Valladolid,8.2,0.05735744992072633,False,Head,Open Play,0,0,2,Normal
+15956,Francisco José Olivas Alba,Real Valladolid,11.264102272262978,0.0601846579208098,False,Head,Open Play,0,0,4,Normal
+15956,Gerard Piqué Bernabéu,Barcelona,8.54751425854324,0.05845066794970768,False,Head,Open Play,0,1,3,Normal
+15956,Malcom Filipe Silva de Oliveira,Barcelona,16.979988221432894,0.0633994215426066,False,Left Foot,Open Play,0,0,1,Normal
+15956,Rubén Alcaraz Jiménez,Real Valladolid,29.987997599039524,0.061380918920285875,False,Right Foot,Open Play,0,0,2,Normal

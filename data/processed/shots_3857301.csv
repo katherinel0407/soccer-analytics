@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.000357138301863,0.05315771942696511,False,Right Foot,Open Play,0,1,2,Normal
-26.20934947685654,0.06637350676078076,False,Right Foot,Open Play,0,0,1,Half Volley
-27.54087870784082,0.0658659212428376,False,Right Foot,Open Play,1,0,1,Half Volley
-15.947727110782903,0.06222252777770392,False,Left Foot,Open Play,0,1,1,Normal
-7.2367119605522445,0.058039886175919236,False,Head,Open Play,0,0,5,Normal
-27.684833393033085,0.05878804338256899,False,Right Foot,Open Play,1,0,2,Normal
-32.940097146183405,0.07466203293437008,False,Left Foot,Open Play,0,0,2,Normal
-14.447491131680959,0.062260188599878453,True,Right Foot,Open Play,1,0,3,Normal
-11.039021695784461,0.055004265656316394,True,Head,Open Play,0,0,2,Normal
-8.429116205154614,0.05834441664997856,False,Right Foot,Open Play,1,0,3,Half Volley
-15.041608956491327,0.061652076592377626,False,Left Foot,Open Play,0,0,2,Half Volley
-14.120906486483086,0.056082096093191404,False,Right Foot,Open Play,1,1,1,Half Volley
-34.9665554494577,0.07673200670465458,False,Right Foot,Open Play,0,0,1,Normal
-18.278949641595936,0.06412072397041459,False,Left Foot,Open Play,0,0,3,Normal
-6.818357573492311,0.057316736354800724,False,Other,Open Play,0,0,4,Normal
-18.46212338816963,0.054674125561131805,False,Right Foot,Open Play,0,0,2,Normal
-9.9849887330933,0.0591631223985176,True,Head,Open Play,0,1,2,Normal
-12.955693729013516,0.06040663154292115,False,Head,Open Play,0,1,5,Normal
-13.301503674397118,0.057704745167648994,True,Right Foot,Open Play,1,0,1,Normal
-27.41477703721115,0.05910052928100489,False,Left Foot,Open Play,1,0,1,Normal
-9.513148795220223,0.05872819185630076,False,Head,Open Play,0,1,2,Normal
-22.970633426181358,0.06359053050053025,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857301,Ismaïla Sarr,Senegal,14.000357138301863,0.05315771942696511,False,Right Foot,Open Play,0,1,2,Normal
+3857301,Nampalys Mendy,Senegal,26.20934947685654,0.06637350676078076,False,Right Foot,Open Play,0,0,1,Half Volley
+3857301,Akram Hassan Afif,Qatar,27.54087870784082,0.0658659212428376,False,Right Foot,Open Play,1,0,1,Half Volley
+3857301,Krépin Diatta,Senegal,15.947727110782903,0.06222252777770392,False,Left Foot,Open Play,0,1,1,Normal
+3857301,Famara Diedhiou,Senegal,7.2367119605522445,0.058039886175919236,False,Head,Open Play,0,0,5,Normal
+3857301,Idrissa Gana Gueye,Senegal,27.684833393033085,0.05878804338256899,False,Right Foot,Open Play,1,0,2,Normal
+3857301,Abdelkarim Hassan Al Haj Fadlalla,Qatar,32.940097146183405,0.07466203293437008,False,Left Foot,Open Play,0,0,2,Normal
+3857301,Boulaye Dia,Senegal,14.447491131680959,0.062260188599878453,True,Right Foot,Open Play,1,0,3,Normal
+3857301,Famara Diedhiou,Senegal,11.039021695784461,0.055004265656316394,True,Head,Open Play,0,0,2,Normal
+3857301,Abdelkarim Hassan Al Haj Fadlalla,Qatar,8.429116205154614,0.05834441664997856,False,Right Foot,Open Play,1,0,3,Half Volley
+3857301,Ismaïla Sarr,Senegal,15.041608956491327,0.061652076592377626,False,Left Foot,Open Play,0,0,2,Half Volley
+3857301,Famara Diedhiou,Senegal,14.120906486483086,0.056082096093191404,False,Right Foot,Open Play,1,1,1,Half Volley
+3857301,Abdelkarim Hassan Al Haj Fadlalla,Qatar,34.9665554494577,0.07673200670465458,False,Right Foot,Open Play,0,0,1,Normal
+3857301,Almoez Ali Zainalabiddin Abdulla,Qatar,18.278949641595936,0.06412072397041459,False,Left Foot,Open Play,0,0,3,Normal
+3857301,Ismaeel Mohammad Mohammad,Qatar,6.818357573492311,0.057316736354800724,False,Other,Open Play,0,0,4,Normal
+3857301,Nampalys Mendy,Senegal,18.46212338816963,0.054674125561131805,False,Right Foot,Open Play,0,0,2,Normal
+3857301,Mohammed Muntari,Qatar,9.9849887330933,0.0591631223985176,True,Head,Open Play,0,1,2,Normal
+3857301,Boulaye Dia,Senegal,12.955693729013516,0.06040663154292115,False,Head,Open Play,0,1,5,Normal
+3857301,Cheikh Ahmadou Bamba Mbacke Dieng,Senegal,13.301503674397118,0.057704745167648994,True,Right Foot,Open Play,1,0,1,Normal
+3857301,Abdelkarim Hassan Al Haj Fadlalla,Qatar,27.41477703721115,0.05910052928100489,False,Left Foot,Open Play,1,0,1,Normal
+3857301,Mohammed Muntari,Qatar,9.513148795220223,0.05872819185630076,False,Head,Open Play,0,1,2,Normal
+3857301,Almoez Ali Zainalabiddin Abdulla,Qatar,22.970633426181358,0.06359053050053025,False,Left Foot,Open Play,0,0,2,Normal

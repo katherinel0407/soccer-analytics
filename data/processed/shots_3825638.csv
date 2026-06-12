@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.469968901141424,0.05796211303109392,False,Head,Open Play,0,1,3,Normal
-16.570153891862322,0.0634807072436723,False,Right Foot,Open Play,0,0,2,Normal
-23.58495283014151,0.06768157987184333,False,Right Foot,Open Play,0,0,1,Normal
-25.946483384073463,0.06942799106627716,False,Right Foot,Free Kick,0,0,0,Normal
-23.076394865749723,0.05114963037494628,False,Left Foot,Open Play,0,1,3,Normal
-17.677386684688432,0.051301827734944835,False,Right Foot,Open Play,1,0,1,Normal
-8.268010643437755,0.05891783256359246,False,Head,Open Play,0,0,4,Normal
-29.165219011692677,0.06569356974315438,False,Left Foot,Open Play,0,1,1,Normal
-13.97032569412754,0.060916039542041875,True,Right Foot,Open Play,0,0,1,Normal
-12.653062870309302,0.05827247370805293,False,Right Foot,Open Play,0,0,1,Normal
-10.090094152187083,0.0573826866677976,False,Head,Open Play,0,0,6,Normal
-24.113274352522104,0.06641582444089261,True,Right Foot,Open Play,0,0,0,Normal
-31.201442274356488,0.06869010544043369,False,Right Foot,Open Play,0,0,2,Normal
-17.69124077050561,0.06034044300803267,False,Left Foot,Open Play,0,0,2,Normal
-18.009997223764362,0.06193929218484387,False,Right Foot,Open Play,1,0,1,Volley
-9.231467922275412,0.05940314629856896,False,Right Foot,Open Play,1,1,1,Half Volley
-31.257799026802896,0.06960424647277008,False,Right Foot,Open Play,1,0,0,Normal
-11.799999999999997,0.05950790851848517,True,Right Foot,Penalty,0,0,0,Normal
-19.425756098540933,0.0623887461685447,False,Right Foot,Open Play,0,0,3,Normal
-10.272779565434076,0.056450402839675236,False,Right Foot,Open Play,0,1,1,Half Volley
-7.550496672405073,0.0572250599991926,False,Head,Open Play,0,0,2,Normal
-41.232268916468804,0.0712983920441792,False,Right Foot,Open Play,0,0,0,Normal
-23.750789460563198,0.06293658043483269,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825638,Rodrigo Moreno Machado,Valencia,14.469968901141424,0.05796211303109392,False,Head,Open Play,0,1,3,Normal
+3825638,Jorge Resurrección Merodio,Atlético Madrid,16.570153891862322,0.0634807072436723,False,Right Foot,Open Play,0,0,2,Normal
+3825638,Yannick Ferreira Carrasco,Atlético Madrid,23.58495283014151,0.06768157987184333,False,Right Foot,Open Play,0,0,1,Normal
+3825638,Gabriel Fernández Arenas,Atlético Madrid,25.946483384073463,0.06942799106627716,False,Right Foot,Free Kick,0,0,0,Normal
+3825638,Rodrigo Moreno Machado,Valencia,23.076394865749723,0.05114963037494628,False,Left Foot,Open Play,0,1,3,Normal
+3825638,João Pedro Cavaco Cancelo,Valencia,17.677386684688432,0.051301827734944835,False,Right Foot,Open Play,1,0,1,Normal
+3825638,José María Giménez de Vargas,Atlético Madrid,8.268010643437755,0.05891783256359246,False,Head,Open Play,0,0,4,Normal
+3825638,Antoine Griezmann,Atlético Madrid,29.165219011692677,0.06569356974315438,False,Left Foot,Open Play,0,1,1,Normal
+3825638,Jackson Arley Martínez Valencia,Atlético Madrid,13.97032569412754,0.060916039542041875,True,Right Foot,Open Play,0,0,1,Normal
+3825638,Jackson Arley Martínez Valencia,Atlético Madrid,12.653062870309302,0.05827247370805293,False,Right Foot,Open Play,0,0,1,Normal
+3825638,Diego Roberto Godín Leal,Atlético Madrid,10.090094152187083,0.0573826866677976,False,Head,Open Play,0,0,6,Normal
+3825638,Yannick Ferreira Carrasco,Atlético Madrid,24.113274352522104,0.06641582444089261,True,Right Foot,Open Play,0,0,0,Normal
+3825638,Jorge Resurrección Merodio,Atlético Madrid,31.201442274356488,0.06869010544043369,False,Right Foot,Open Play,0,0,2,Normal
+3825638,Jackson Arley Martínez Valencia,Atlético Madrid,17.69124077050561,0.06034044300803267,False,Left Foot,Open Play,0,0,2,Normal
+3825638,Yannick Ferreira Carrasco,Atlético Madrid,18.009997223764362,0.06193929218484387,False,Right Foot,Open Play,1,0,1,Volley
+3825638,Antoine Griezmann,Atlético Madrid,9.231467922275412,0.05940314629856896,False,Right Foot,Open Play,1,1,1,Half Volley
+3825638,André Filipe Tavares Gomes,Valencia,31.257799026802896,0.06960424647277008,False,Right Foot,Open Play,1,0,0,Normal
+3825638,Francisco Alcácer García,Valencia,11.799999999999997,0.05950790851848517,True,Right Foot,Penalty,0,0,0,Normal
+3825638,Tiago Cardoso Mendes,Atlético Madrid,19.425756098540933,0.0623887461685447,False,Right Foot,Open Play,0,0,3,Normal
+3825638,Juan Francisco Torres Belén,Atlético Madrid,10.272779565434076,0.056450402839675236,False,Right Foot,Open Play,0,1,1,Half Volley
+3825638,Fernando José Torres Sanz,Atlético Madrid,7.550496672405073,0.0572250599991926,False,Head,Open Play,0,0,2,Normal
+3825638,João Pedro Cavaco Cancelo,Valencia,41.232268916468804,0.0712983920441792,False,Right Foot,Open Play,0,0,0,Normal
+3825638,Zakaria Bakkali,Valencia,23.750789460563198,0.06293658043483269,False,Right Foot,Free Kick,0,0,0,Normal

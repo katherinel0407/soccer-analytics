@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.794054339163374,0.0637445028304425,False,Right Foot,Open Play,0,0,1,Normal
-9.121951545584974,0.057638845825600735,False,Head,Open Play,0,1,2,Normal
-8.453401682163221,0.056459927788699266,False,Head,Open Play,0,0,3,Normal
-13.544002362669609,0.06137248148029047,True,Left Foot,Open Play,1,0,0,Half Volley
-35.28469923352046,0.07667427399264101,False,Right Foot,Free Kick,0,0,0,Normal
-9.763708311906907,0.056233105959310865,False,Right Foot,Open Play,1,0,1,Backheel
-16.760966559241144,0.06362312196752097,False,Left Foot,Open Play,0,0,3,Half Volley
-10.825894882179485,0.057067937071984265,False,Head,Open Play,0,1,5,Normal
-9.457801012920498,0.054301870584062426,False,Head,Open Play,0,1,4,Normal
-26.35014231460619,0.05542918480554398,False,Left Foot,Open Play,0,1,1,Normal
-21.338462924962524,0.059283715632601396,False,Right Foot,Open Play,0,1,3,Normal
-27.053465582065453,0.0672836209195084,False,Left Foot,Open Play,1,0,0,Half Volley
-15.184531602917485,0.06152332144649879,False,Right Foot,Open Play,0,1,2,Half Volley
-20.402205763103165,0.06469443439988443,False,Right Foot,Open Play,0,0,1,Normal
-15.523208431248992,0.05949326430439768,True,Left Foot,Open Play,1,0,1,Half Volley
-28.10160137785746,0.07122488931320536,False,Right Foot,Open Play,0,0,2,Normal
-6.879680225126745,0.05791906007390189,False,Left Foot,Open Play,1,0,1,Half Volley
-9.751410154434078,0.05897891091918926,False,Head,Open Play,0,0,4,Normal
-19.686035659827503,0.0640046972205663,False,Right Foot,Free Kick,0,0,0,Normal
-14.560219778561033,0.062346336587483196,False,Left Foot,Open Play,1,0,3,Volley
-16.032778923193572,0.05122794931381638,False,Right Foot,Open Play,1,0,1,Normal
-11.412712210513327,0.05681582823935268,False,Right Foot,Open Play,1,0,2,Half Volley
-23.735627229968035,0.06543137721322763,False,Left Foot,Open Play,0,0,1,Normal
-78.40822660920217,0.14669901913352057,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901207,Birama Touré,Nantes,32.794054339163374,0.0637445028304425,False,Right Foot,Open Play,0,0,1,Normal
+3901207,Yacine Bammou,Nantes,9.121951545584974,0.057638845825600735,False,Head,Open Play,0,1,2,Normal
+3901207,Kolbeinn Sigþórsson,Nantes,8.453401682163221,0.056459927788699266,False,Head,Open Play,0,0,3,Normal
+3901207,Prince Oniangué,Stade de Reims,13.544002362669609,0.06137248148029047,True,Left Foot,Open Play,1,0,0,Half Volley
+3901207,Kolbeinn Sigþórsson,Nantes,35.28469923352046,0.07667427399264101,False,Right Foot,Free Kick,0,0,0,Normal
+3901207,Kolbeinn Sigþórsson,Nantes,9.763708311906907,0.056233105959310865,False,Right Foot,Open Play,1,0,1,Backheel
+3901207,Thievy Guivane Bifouma Koulossa,Stade de Reims,16.760966559241144,0.06362312196752097,False,Left Foot,Open Play,0,0,3,Half Volley
+3901207,Anthony Weber,Stade de Reims,10.825894882179485,0.057067937071984265,False,Head,Open Play,0,1,5,Normal
+3901207,Antoine Devaux,Stade de Reims,9.457801012920498,0.054301870584062426,False,Head,Open Play,0,1,4,Normal
+3901207,Nicolas de Roussel de Préville,Stade de Reims,26.35014231460619,0.05542918480554398,False,Left Foot,Open Play,0,1,1,Normal
+3901207,Thievy Guivane Bifouma Koulossa,Stade de Reims,21.338462924962524,0.059283715632601396,False,Right Foot,Open Play,0,1,3,Normal
+3901207,Johan Audel,Nantes,27.053465582065453,0.0672836209195084,False,Left Foot,Open Play,1,0,0,Half Volley
+3901207,Emiliano Sala,Nantes,15.184531602917485,0.06152332144649879,False,Right Foot,Open Play,0,1,2,Half Volley
+3901207,Emiliano Sala,Nantes,20.402205763103165,0.06469443439988443,False,Right Foot,Open Play,0,0,1,Normal
+3901207,Johan Audel,Nantes,15.523208431248992,0.05949326430439768,True,Left Foot,Open Play,1,0,1,Half Volley
+3901207,Birama Touré,Nantes,28.10160137785746,0.07122488931320536,False,Right Foot,Open Play,0,0,2,Normal
+3901207,Ermir Lenjani,Nantes,6.879680225126745,0.05791906007390189,False,Left Foot,Open Play,1,0,1,Half Volley
+3901207,Emiliano Sala,Nantes,9.751410154434078,0.05897891091918926,False,Head,Open Play,0,0,4,Normal
+3901207,Nicolas de Roussel de Préville,Stade de Reims,19.686035659827503,0.0640046972205663,False,Right Foot,Free Kick,0,0,0,Normal
+3901207,Ermir Lenjani,Nantes,14.560219778561033,0.062346336587483196,False,Left Foot,Open Play,1,0,3,Volley
+3901207,Antoine Conte,Stade de Reims,16.032778923193572,0.05122794931381638,False,Right Foot,Open Play,1,0,1,Normal
+3901207,Emiliano Sala,Nantes,11.412712210513327,0.05681582823935268,False,Right Foot,Open Play,1,0,2,Half Volley
+3901207,Aly Ndom,Stade de Reims,23.735627229968035,0.06543137721322763,False,Left Foot,Open Play,0,0,1,Normal
+3901207,Atila Turan,Stade de Reims,78.40822660920217,0.14669901913352057,False,Left Foot,Open Play,0,0,1,Normal

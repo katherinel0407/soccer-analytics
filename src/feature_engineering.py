@@ -90,7 +90,7 @@ def extract_technique(shot):
     )
 
 # building final dataset
-def build_shot_dataset(event_df):
+def build_shot_dataset(event_df, match_id):
 
     shots = event_df[
         event_df["type"].apply(
@@ -162,8 +162,22 @@ def build_shot_dataset(event_df):
         axis=1
     )
 
+    # for prediction tables
+    shots["match_id"] = match_id
+
+    shots["player"] = shots["player"].apply(
+        lambda x: x["name"] if isinstance(x, dict) else None
+    )
+
+    shots["team"] = shots["team"].apply(
+        lambda x: x["name"] if isinstance(x, dict) else None
+    )
+
     final_dataset = shots[
         [
+            "match_id",
+            "player",
+            "team",
             "distance",
             "angle",
             "goal",

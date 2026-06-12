@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.011032384249962,0.06783774863279882,False,Right Foot,Open Play,0,0,1,Normal
-22.361797781037197,0.06136740747922348,True,Left Foot,Free Kick,0,0,0,Normal
-13.46291201783626,0.05793248186199609,True,Left Foot,Open Play,1,0,1,Volley
-33.81153649274164,0.06523074293862711,False,Right Foot,Open Play,0,0,1,Normal
-20.00849819451725,0.06443301419475518,True,Right Foot,Open Play,1,1,3,Normal
-3.744329045369807,0.05541993977832472,True,Right Foot,Open Play,1,0,2,Half Volley
-14.001428498549709,0.055079467082079094,False,Right Foot,Open Play,0,0,1,Normal
-16.131955864060625,0.06292635114820931,False,Left Foot,Open Play,0,0,1,Normal
-26.95644635333078,0.06925705802865292,False,Right Foot,Open Play,1,0,4,Half Volley
-19.665706191235547,0.05703359029628268,False,Right Foot,Open Play,0,1,1,Normal
-28.40070421662111,0.06919778990177045,False,Right Foot,Open Play,0,0,1,Normal
-32.75362575349483,0.05851673362415712,False,Right Foot,Open Play,0,0,1,Normal
-27.622635645426747,0.06475123233019114,False,Right Foot,Open Play,0,0,1,Half Volley
-31.412736270500215,0.05849640971236806,False,Right Foot,Open Play,0,0,1,Normal
-22.627416997969522,0.06680495517404733,False,Right Foot,Open Play,0,0,2,Normal
-25.995576546789653,0.0655898910963509,False,Right Foot,Free Kick,0,0,0,Normal
-10.101980003939829,0.05973623610450059,False,Head,Open Play,0,1,2,Normal
-14.741099009232663,0.05628464896266259,False,Right Foot,Open Play,0,1,1,Normal
-27.67417568781408,0.06501111838459053,False,Left Foot,Open Play,0,0,1,Half Volley
-35.734717013011306,0.06878485846092217,False,Left Foot,Open Play,1,0,2,Volley
-15.883639381451594,0.054133244502154884,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825697,Francisco Alcácer García,Valencia,29.011032384249962,0.06783774863279882,False,Right Foot,Open Play,0,0,1,Normal
+3825697,Pablo Sarabia García,Getafe,22.361797781037197,0.06136740747922348,True,Left Foot,Free Kick,0,0,0,Normal
+3825697,Francisco Alcácer García,Valencia,13.46291201783626,0.05793248186199609,True,Left Foot,Open Play,1,0,1,Volley
+3825697,João Pedro Cavaco Cancelo,Valencia,33.81153649274164,0.06523074293862711,False,Right Foot,Open Play,0,0,1,Normal
+3825697,Ángel Lafita Castillo,Getafe,20.00849819451725,0.06443301419475518,True,Right Foot,Open Play,1,1,3,Normal
+3825697,Santiago Mina Lorenzo,Valencia,3.744329045369807,0.05541993977832472,True,Right Foot,Open Play,1,0,2,Half Volley
+3825697,Stefan Šćepović,Getafe,14.001428498549709,0.055079467082079094,False,Right Foot,Open Play,0,0,1,Normal
+3825697,Danilo Barbosa da Silva,Valencia,16.131955864060625,0.06292635114820931,False,Left Foot,Open Play,0,0,1,Normal
+3825697,Ángel Lafita Castillo,Getafe,26.95644635333078,0.06925705802865292,False,Right Foot,Open Play,1,0,4,Half Volley
+3825697,Santiago Mina Lorenzo,Valencia,19.665706191235547,0.05703359029628268,False,Right Foot,Open Play,0,1,1,Normal
+3825697,André Filipe Tavares Gomes,Valencia,28.40070421662111,0.06919778990177045,False,Right Foot,Open Play,0,0,1,Normal
+3825697,André Filipe Tavares Gomes,Valencia,32.75362575349483,0.05851673362415712,False,Right Foot,Open Play,0,0,1,Normal
+3825697,Danilo Barbosa da Silva,Valencia,27.622635645426747,0.06475123233019114,False,Right Foot,Open Play,0,0,1,Half Volley
+3825697,Damián Nicolás Suárez Suárez,Getafe,31.412736270500215,0.05849640971236806,False,Right Foot,Open Play,0,0,1,Normal
+3825697,João Pedro Cavaco Cancelo,Valencia,22.627416997969522,0.06680495517404733,False,Right Foot,Open Play,0,0,2,Normal
+3825697,Daniel Parejo Muñoz,Valencia,25.995576546789653,0.0655898910963509,False,Right Foot,Free Kick,0,0,0,Normal
+3825697,Álvaro Negredo Sánchez,Valencia,10.101980003939829,0.05973623610450059,False,Head,Open Play,0,1,2,Normal
+3825697,Álvaro Vázquez García,Getafe,14.741099009232663,0.05628464896266259,False,Right Foot,Open Play,0,1,1,Normal
+3825697,Mehdi Lacen,Getafe,27.67417568781408,0.06501111838459053,False,Left Foot,Open Play,0,0,1,Half Volley
+3825697,Juan Antonio Rodríguez Villamuela,Getafe,35.734717013011306,0.06878485846092217,False,Left Foot,Open Play,1,0,2,Volley
+3825697,Ángel Lafita Castillo,Getafe,15.883639381451594,0.054133244502154884,False,Right Foot,Open Play,0,0,1,Normal

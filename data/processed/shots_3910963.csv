@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.44803512572545,0.06411847083630663,False,Right Foot,Open Play,1,0,5,Volley
-16.336768346279506,0.06247355721854132,False,Left Foot,Open Play,0,0,2,Normal
-21.567568244936663,0.06620789332888416,False,Left Foot,Open Play,0,1,1,Normal
-11.690166808048549,0.05862791495698545,False,Head,Open Play,0,1,3,Normal
-11.676472069936196,0.0541112173759197,False,Right Foot,Open Play,0,1,1,Normal
-25.58612905462645,0.06932797344192039,False,Left Foot,Open Play,1,0,0,Normal
-8.683893136145787,0.05913909335167069,False,Head,Open Play,0,1,3,Normal
-30.909545451203254,0.0580359073905139,False,Right Foot,Open Play,1,1,1,Lob
-22.45217138719549,0.06673119854073467,False,Left Foot,Open Play,1,0,2,Normal
-13.031116606031887,0.059679978574009244,False,Head,Open Play,0,0,2,Normal
-6.046486583132393,0.05757811351586899,False,Left Foot,Open Play,1,1,3,Normal
-7.242237223399969,0.056803234481089905,False,Head,Open Play,0,1,3,Normal
-14.84856895461647,0.05749168994791823,False,Left Foot,Open Play,1,0,0,Normal
-28.53646789636026,0.07154198535213649,False,Right Foot,Open Play,0,0,1,Normal
-21.107818456676192,0.06638193896268732,False,Right Foot,Open Play,0,1,5,Normal
-16.287418457201863,0.05807948146552697,False,Right Foot,Open Play,1,1,2,Normal
-37.23130403303112,0.07749005914841753,False,Left Foot,Open Play,0,0,1,Normal
-8.022468448052631,0.05814938621840974,False,Head,Open Play,0,1,4,Normal
-17.998055450520205,0.059620206880675555,True,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3910963,Jessica Dahiana Martínez Villagra,FC Levante Badalona,18.44803512572545,0.06411847083630663,False,Right Foot,Open Play,1,0,5,Volley
+3910963,Cristina Baudet Lucena,FC Levante Badalona,16.336768346279506,0.06247355721854132,False,Left Foot,Open Play,0,0,2,Normal
+3910963,Irina Priscilla Uribe García,FC Levante Badalona,21.567568244936663,0.06620789332888416,False,Left Foot,Open Play,0,1,1,Normal
+3910963,Carlota Suárez Crespo,Granada W,11.690166808048549,0.05862791495698545,False,Head,Open Play,0,1,3,Normal
+3910963,Irina Priscilla Uribe García,FC Levante Badalona,11.676472069936196,0.0541112173759197,False,Right Foot,Open Play,0,1,1,Normal
+3910963,Esther Martín-Pozuelo Aranda,Granada W,25.58612905462645,0.06932797344192039,False,Left Foot,Open Play,1,0,0,Normal
+3910963,Carlota Suárez Crespo,Granada W,8.683893136145787,0.05913909335167069,False,Head,Open Play,0,1,3,Normal
+3910963,Irina Priscilla Uribe García,FC Levante Badalona,30.909545451203254,0.0580359073905139,False,Right Foot,Open Play,1,1,1,Lob
+3910963,Carlota Suárez Crespo,Granada W,22.45217138719549,0.06673119854073467,False,Left Foot,Open Play,1,0,2,Normal
+3910963,Edna Imade,Granada W,13.031116606031887,0.059679978574009244,False,Head,Open Play,0,0,2,Normal
+3910963,Carlota Suárez Crespo,Granada W,6.046486583132393,0.05757811351586899,False,Left Foot,Open Play,1,1,3,Normal
+3910963,Cristina Postigo Martín,Granada W,7.242237223399969,0.056803234481089905,False,Head,Open Play,0,1,3,Normal
+3910963,Ariadna Mingueza García,Granada W,14.84856895461647,0.05749168994791823,False,Left Foot,Open Play,1,0,0,Normal
+3910963,Elena Julve Pérez,FC Levante Badalona,28.53646789636026,0.07154198535213649,False,Right Foot,Open Play,0,0,1,Normal
+3910963,Cristina Baudet Lucena,FC Levante Badalona,21.107818456676192,0.06638193896268732,False,Right Foot,Open Play,0,1,5,Normal
+3910963,Carlota Suárez Crespo,Granada W,16.287418457201863,0.05807948146552697,False,Right Foot,Open Play,1,1,2,Normal
+3910963,Esther Martín-Pozuelo Aranda,Granada W,37.23130403303112,0.07749005914841753,False,Left Foot,Open Play,0,0,1,Normal
+3910963,Cristina Postigo Martín,Granada W,8.022468448052631,0.05814938621840974,False,Head,Open Play,0,1,4,Normal
+3910963,Jiali Tang,FC Levante Badalona,17.998055450520205,0.059620206880675555,True,Right Foot,Open Play,0,0,2,Normal

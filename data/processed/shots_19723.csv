@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.194827009486403,0.06306122612050967,False,Left Foot,Open Play,0,0,1,Normal
-20.8806130178211,0.06559953735901075,False,Right Foot,Open Play,0,0,2,Normal
-24.186773244895647,0.06637476208566208,False,Left Foot,Open Play,0,0,0,Normal
-23.600847442411894,0.05636136207591756,True,Right Foot,Open Play,0,0,1,Normal
-40.049968789001575,0.07464455471176282,False,Right Foot,Open Play,0,0,1,Normal
-26.476404589747453,0.06837524055390798,False,Right Foot,Open Play,0,0,1,Normal
-31.04834939252005,0.0633186778043385,False,Right Foot,Open Play,0,0,0,Normal
-16.401219466856727,0.05400365542765763,False,Right Foot,Open Play,0,0,1,Normal
-26.0,0.06944644313286802,False,Right Foot,Free Kick,0,0,0,Normal
-31.575306807693888,0.06490329666080727,False,Left Foot,Open Play,0,0,0,Normal
-37.57658845611187,0.059776941859353734,False,Right Foot,Open Play,0,0,1,Normal
-16.401219466856727,0.05400365542765763,False,Right Foot,Open Play,0,1,1,Normal
-4.123105625617661,0.05668489521201082,False,Head,Open Play,0,1,5,Normal
-15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,2,Normal
-29.614185789921695,0.06406334908014616,False,Right Foot,Open Play,0,0,0,Normal
-21.02379604162864,0.06621807171982491,False,Right Foot,Open Play,0,0,3,Normal
-36.124783736376884,0.06904295690567004,False,Head,Open Play,0,0,1,Normal
-7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,0,3,Normal
-34.0,0.05863565958152048,False,Right Foot,Open Play,0,0,3,Normal
-5.385164807134504,0.057375734640212235,False,Head,Open Play,0,1,6,Normal
-19.1049731745428,0.054520996667156416,False,Right Foot,Open Play,0,0,2,Normal
-21.213203435596427,0.054702205026093,False,Right Foot,Open Play,0,0,1,Normal
-10.295630140987,0.056629711407834134,False,Head,Open Play,0,0,3,Normal
-8.602325267042627,0.05453517154336879,True,Right Foot,Open Play,0,0,2,Normal
-29.154759474226502,0.06051017811921214,False,Right Foot,Open Play,1,0,0,Volley
-10.295630140987,0.056629711407834134,True,Right Foot,Open Play,0,0,1,Normal
-22.360679774997898,0.06713754122477203,False,Right Foot,Open Play,0,0,0,Normal
-22.67156809750927,0.05384463717649032,False,Right Foot,Open Play,0,0,3,Normal
-27.85677655436824,0.07065336086307102,False,Right Foot,Open Play,0,0,1,Normal
-26.0,0.06592238762509454,False,Right Foot,Open Play,0,0,1,Normal
-29.546573405388315,0.059961873998743885,False,Right Foot,Open Play,0,0,1,Normal
-14.866068747318506,0.055476284459140046,False,Right Foot,Open Play,0,0,1,Backheel
-23.323807579381203,0.051791587735446794,False,Right Foot,Open Play,0,0,1,Normal
-30.14962686336267,0.06956055447763869,False,Left Foot,Open Play,0,0,2,Normal
-25.612496949731394,0.06919046601801389,False,Right Foot,Open Play,0,0,2,Normal
-12.165525060596439,0.06029976687390507,False,Head,Open Play,0,0,1,Normal
-13.601470508735444,0.061812598113754634,False,Left Foot,Open Play,0,0,2,Normal
-11.180339887498949,0.06041496471578293,False,Head,Open Play,0,0,5,Normal
-18.027756377319946,0.05323321400889284,True,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19723,Claudia Walker,Everton LFC,23.194827009486403,0.06306122612050967,False,Left Foot,Open Play,0,0,1,Normal
+19723,Claudia Walker,Everton LFC,20.8806130178211,0.06559953735901075,False,Right Foot,Open Play,0,0,2,Normal
+19723,Inessa Kaagman,Everton LFC,24.186773244895647,0.06637476208566208,False,Left Foot,Open Play,0,0,0,Normal
+19723,Georgia Stanway,Manchester City WFC,23.600847442411894,0.05636136207591756,True,Right Foot,Open Play,0,0,1,Normal
+19723,Chloe Kelly,Everton LFC,40.049968789001575,0.07464455471176282,False,Right Foot,Open Play,0,0,1,Normal
+19723,Georgia Stanway,Manchester City WFC,26.476404589747453,0.06837524055390798,False,Right Foot,Open Play,0,0,1,Normal
+19723,Chloe Kelly,Everton LFC,31.04834939252005,0.0633186778043385,False,Right Foot,Open Play,0,0,0,Normal
+19723,Nikita Parris,Manchester City WFC,16.401219466856727,0.05400365542765763,False,Right Foot,Open Play,0,0,1,Normal
+19723,Stephanie Houghton,Manchester City WFC,26.0,0.06944644313286802,False,Right Foot,Free Kick,0,0,0,Normal
+19723,Caroline Weir,Manchester City WFC,31.575306807693888,0.06490329666080727,False,Left Foot,Open Play,0,0,0,Normal
+19723,Claudia Walker,Everton LFC,37.57658845611187,0.059776941859353734,False,Right Foot,Open Play,0,0,1,Normal
+19723,Claudia Walker,Everton LFC,16.401219466856727,0.05400365542765763,False,Right Foot,Open Play,0,1,1,Normal
+19723,Jennifer Patricia Beattie,Manchester City WFC,4.123105625617661,0.05668489521201082,False,Head,Open Play,0,1,5,Normal
+19723,Nadia Nadim,Manchester City WFC,15.811388300841896,0.05654602879823344,False,Right Foot,Open Play,0,0,2,Normal
+19723,Georgia Stanway,Manchester City WFC,29.614185789921695,0.06406334908014616,False,Right Foot,Open Play,0,0,0,Normal
+19723,Melissa Lawley,Manchester City WFC,21.02379604162864,0.06621807171982491,False,Right Foot,Open Play,0,0,3,Normal
+19723,Georgia Brougham,Everton LFC,36.124783736376884,0.06904295690567004,False,Head,Open Play,0,0,1,Normal
+19723,Nikita Parris,Manchester City WFC,7.0710678118654755,0.055192419496982205,False,Head,Open Play,0,0,3,Normal
+19723,Georgia Stanway,Manchester City WFC,34.0,0.05863565958152048,False,Right Foot,Open Play,0,0,3,Normal
+19723,Jill Scott,Manchester City WFC,5.385164807134504,0.057375734640212235,False,Head,Open Play,0,1,6,Normal
+19723,Stephanie Houghton,Manchester City WFC,19.1049731745428,0.054520996667156416,False,Right Foot,Open Play,0,0,2,Normal
+19723,Nikita Parris,Manchester City WFC,21.213203435596427,0.054702205026093,False,Right Foot,Open Play,0,0,1,Normal
+19723,Claudia Walker,Everton LFC,10.295630140987,0.056629711407834134,False,Head,Open Play,0,0,3,Normal
+19723,Nikita Parris,Manchester City WFC,8.602325267042627,0.05453517154336879,True,Right Foot,Open Play,0,0,2,Normal
+19723,Georgia Stanway,Manchester City WFC,29.154759474226502,0.06051017811921214,False,Right Foot,Open Play,1,0,0,Volley
+19723,Nikita Parris,Manchester City WFC,10.295630140987,0.056629711407834134,True,Right Foot,Open Play,0,0,1,Normal
+19723,Tessa Wullaert,Manchester City WFC,22.360679774997898,0.06713754122477203,False,Right Foot,Open Play,0,0,0,Normal
+19723,Lauren Hemp,Manchester City WFC,22.67156809750927,0.05384463717649032,False,Right Foot,Open Play,0,0,3,Normal
+19723,Gabrielle George,Everton LFC,27.85677655436824,0.07065336086307102,False,Right Foot,Open Play,0,0,1,Normal
+19723,Georgia Stanway,Manchester City WFC,26.0,0.06592238762509454,False,Right Foot,Open Play,0,0,1,Normal
+19723,Gemma Bonner,Manchester City WFC,29.546573405388315,0.059961873998743885,False,Right Foot,Open Play,0,0,1,Normal
+19723,Nikita Parris,Manchester City WFC,14.866068747318506,0.055476284459140046,False,Right Foot,Open Play,0,0,1,Backheel
+19723,Hannah Cain,Everton LFC,23.323807579381203,0.051791587735446794,False,Right Foot,Open Play,0,0,1,Normal
+19723,Chloe Kelly,Everton LFC,30.14962686336267,0.06956055447763869,False,Left Foot,Open Play,0,0,2,Normal
+19723,Tessa Wullaert,Manchester City WFC,25.612496949731394,0.06919046601801389,False,Right Foot,Open Play,0,0,2,Normal
+19723,Nikita Parris,Manchester City WFC,12.165525060596439,0.06029976687390507,False,Head,Open Play,0,0,1,Normal
+19723,Tessa Wullaert,Manchester City WFC,13.601470508735444,0.061812598113754634,False,Left Foot,Open Play,0,0,2,Normal
+19723,Lauren Hemp,Manchester City WFC,11.180339887498949,0.06041496471578293,False,Head,Open Play,0,0,5,Normal
+19723,Claire Emslie,Manchester City WFC,18.027756377319946,0.05323321400889284,True,Right Foot,Open Play,0,0,0,Normal

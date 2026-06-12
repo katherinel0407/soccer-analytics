@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.625487000666508,0.05963420203844237,False,Left Foot,Open Play,1,0,2,Volley
-10.43551627855565,0.058798818505600606,False,Head,Open Play,0,1,2,Normal
-30.70146576305438,0.06809106922432459,False,Left Foot,Free Kick,0,0,0,Normal
-29.39931972002074,0.056800483767839596,False,Left Foot,Open Play,0,1,1,Normal
-8.50235261559999,0.058220649367342135,False,Left Foot,Open Play,1,0,2,Normal
-14.949581933953873,0.06259885049007148,False,Left Foot,Open Play,0,0,4,Normal
-19.0829767070025,0.05699385151850742,False,Left Foot,Open Play,0,0,2,Normal
-6.694027188471823,0.05355582537483791,False,Left Foot,Open Play,0,0,2,Normal
-21.115160430363776,0.059559825778329786,False,Left Foot,Open Play,0,1,1,Normal
-34.17864830563081,0.06480920065175282,False,Right Foot,Open Play,0,0,0,Normal
-20.263267258761605,0.06560090982358725,False,Left Foot,Open Play,1,0,0,Normal
-10.307764064044152,0.05973082868845702,False,Head,Open Play,0,1,4,Normal
-15.843295111813074,0.06276489407334969,False,Left Foot,Open Play,1,0,1,Overhead Kick
-32.773922560474816,0.06795930960675602,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266670,Jordi Alba Ramos,Barcelona,9.625487000666508,0.05963420203844237,False,Left Foot,Open Play,1,0,2,Volley
+266670,Álvaro González Soberón,Espanyol,10.43551627855565,0.058798818505600606,False,Head,Open Play,0,1,2,Normal
+266670,Lionel Andrés Messi Cuccittini,Barcelona,30.70146576305438,0.06809106922432459,False,Left Foot,Free Kick,0,0,0,Normal
+266670,Andrés Iniesta Luján,Barcelona,29.39931972002074,0.056800483767839596,False,Left Foot,Open Play,0,1,1,Normal
+266670,Neymar da Silva Santos Junior,Barcelona,8.50235261559999,0.058220649367342135,False,Left Foot,Open Play,1,0,2,Normal
+266670,Lionel Andrés Messi Cuccittini,Barcelona,14.949581933953873,0.06259885049007148,False,Left Foot,Open Play,0,0,4,Normal
+266670,Hernán Arsenio Pérez González,Espanyol,19.0829767070025,0.05699385151850742,False,Left Foot,Open Play,0,0,2,Normal
+266670,Luis Alberto Suárez Díaz,Barcelona,6.694027188471823,0.05355582537483791,False,Left Foot,Open Play,0,0,2,Normal
+266670,Lionel Andrés Messi Cuccittini,Barcelona,21.115160430363776,0.059559825778329786,False,Left Foot,Open Play,0,1,1,Normal
+266670,Papa Kouly Diop,Espanyol,34.17864830563081,0.06480920065175282,False,Right Foot,Open Play,0,0,0,Normal
+266670,Gerard Moreno Balaguero,Espanyol,20.263267258761605,0.06560090982358725,False,Left Foot,Open Play,1,0,0,Normal
+266670,Sergio Busquets i Burgos,Barcelona,10.307764064044152,0.05973082868845702,False,Head,Open Play,0,1,4,Normal
+266670,Neymar da Silva Santos Junior,Barcelona,15.843295111813074,0.06276489407334969,False,Left Foot,Open Play,1,0,1,Overhead Kick
+266670,Lionel Andrés Messi Cuccittini,Barcelona,32.773922560474816,0.06795930960675602,False,Left Foot,Free Kick,0,0,0,Normal

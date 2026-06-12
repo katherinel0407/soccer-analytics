@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-56.70282179927203,0.062091932190485886,False,Right Foot,Open Play,0,0,1,Lob
-11.985407794480759,0.06061709228588111,False,Head,Open Play,0,1,3,Normal
-24.26870412692033,0.06846905964416415,False,Left Foot,Open Play,0,1,2,Normal
-33.60252966667837,0.07357636378614767,False,Right Foot,Open Play,0,0,1,Normal
-14.140014144264494,0.05615493074064984,False,Right Foot,Open Play,1,0,1,Volley
-18.32184488527288,0.06455449147696776,False,Right Foot,Open Play,0,1,2,Normal
-34.93665696657308,0.07458213708407212,False,Right Foot,Open Play,0,0,0,Normal
-15.420116731075675,0.06221205459116152,True,Left Foot,Open Play,0,1,1,Normal
-11.289375536317324,0.060273316361769,False,Head,Open Play,0,1,3,Normal
-8.809086218218095,0.05562887819218117,False,Left Foot,Open Play,1,0,2,Volley
-6.9079664156682234,0.05648369092029586,False,Head,Open Play,0,0,2,Normal
-8.73212459828649,0.05880743535595448,False,Head,Open Play,0,1,3,Normal
-17.711578134090708,0.05917073831837219,False,Left Foot,Open Play,0,0,1,Normal
-36.76955262170047,0.07795942239891163,False,Right Foot,Open Play,0,0,1,Normal
-24.224367896810026,0.06062646054002356,False,Left Foot,Open Play,0,1,2,Normal
-3.3015148038438413,0.054807297284126304,False,Head,Open Play,0,1,4,Normal
-11.34636505670428,0.05425100164425204,False,Left Foot,Open Play,1,0,0,Normal
-30.746056657724424,0.06546777813827248,False,Right Foot,Open Play,0,0,3,Normal
-27.73535649671733,0.07037907808313289,False,Right Foot,Open Play,1,0,1,Half Volley
-9.548298277703735,0.05951688929158002,False,Head,Open Play,0,1,1,Normal
-15.504837954651448,0.057166230224015846,False,Right Foot,Open Play,0,1,2,Normal
-31.1931082131935,0.0537343380259882,False,Left Foot,Open Play,0,0,1,Normal
-30.069585963228697,0.07246894309533279,False,Right Foot,Open Play,1,0,0,Half Volley
-39.78190543450627,0.07568462475329603,False,Right Foot,Open Play,0,0,3,Half Volley
-13.7800580550301,0.06137902908317214,False,Left Foot,Open Play,1,0,1,Volley
-8.497058314499194,0.05653087693603595,False,Head,Open Play,0,1,3,Normal
-16.177144370994533,0.058321325622518315,False,Left Foot,Open Play,1,0,2,Half Volley
-16.140012391568973,0.05395002865838986,False,Right Foot,Open Play,0,0,1,Normal
-10.551303237041388,0.05975755454805413,False,Head,Open Play,0,1,5,Normal
-34.74953237095429,0.07648405280101339,False,Right Foot,Open Play,0,1,1,Normal
-20.693960471596537,0.05295401118727531,False,Left Foot,Open Play,1,0,1,Half Volley
-11.088733020503286,0.055773421087609125,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878608,Saphir Sliti Taïder,Bologna,56.70282179927203,0.062091932190485886,False,Right Foot,Open Play,0,0,1,Lob
+3878608,Leonardo Blanchard,Frosinone,11.985407794480759,0.06061709228588111,False,Head,Open Play,0,1,3,Normal
+3878608,Franco Brienza,Bologna,24.26870412692033,0.06846905964416415,False,Left Foot,Open Play,0,1,2,Normal
+3878608,Aleksandar Tonev,Frosinone,33.60252966667837,0.07357636378614767,False,Right Foot,Open Play,0,0,1,Normal
+3878608,Mattia Destro,Bologna,14.140014144264494,0.05615493074064984,False,Right Foot,Open Play,1,0,1,Volley
+3878608,Mattia Destro,Bologna,18.32184488527288,0.06455449147696776,False,Right Foot,Open Play,0,1,2,Normal
+3878608,Federico Dionisi,Frosinone,34.93665696657308,0.07458213708407212,False,Right Foot,Open Play,0,0,0,Normal
+3878608,Anthony Mounier,Bologna,15.420116731075675,0.06221205459116152,True,Left Foot,Open Play,0,1,1,Normal
+3878608,Luca Paganini,Frosinone,11.289375536317324,0.060273316361769,False,Head,Open Play,0,1,3,Normal
+3878608,Aleandro Rosi,Frosinone,8.809086218218095,0.05562887819218117,False,Left Foot,Open Play,1,0,2,Volley
+3878608,Samuele Longo,Frosinone,6.9079664156682234,0.05648369092029586,False,Head,Open Play,0,0,2,Normal
+3878608,Marios Oikonomou,Bologna,8.73212459828649,0.05880743535595448,False,Head,Open Play,0,1,3,Normal
+3878608,Franco Brienza,Bologna,17.711578134090708,0.05917073831837219,False,Left Foot,Open Play,0,0,1,Normal
+3878608,Amadou Diawara,Bologna,36.76955262170047,0.07795942239891163,False,Right Foot,Open Play,0,0,1,Normal
+3878608,Alex Ferrari,Bologna,24.224367896810026,0.06062646054002356,False,Left Foot,Open Play,0,1,2,Normal
+3878608,Modibo Diakité,Frosinone,3.3015148038438413,0.054807297284126304,False,Head,Open Play,0,1,4,Normal
+3878608,Franco Brienza,Bologna,11.34636505670428,0.05425100164425204,False,Left Foot,Open Play,1,0,0,Normal
+3878608,Federico Dionisi,Frosinone,30.746056657724424,0.06546777813827248,False,Right Foot,Open Play,0,0,3,Normal
+3878608,Yussif Raman Chibsah,Frosinone,27.73535649671733,0.07037907808313289,False,Right Foot,Open Play,1,0,1,Half Volley
+3878608,Daniel Ciofani,Frosinone,9.548298277703735,0.05951688929158002,False,Head,Open Play,0,1,1,Normal
+3878608,Daniel Ciofani,Frosinone,15.504837954651448,0.057166230224015846,False,Right Foot,Open Play,0,1,2,Normal
+3878608,Franco Brienza,Bologna,31.1931082131935,0.0537343380259882,False,Left Foot,Open Play,0,0,1,Normal
+3878608,Yussif Raman Chibsah,Frosinone,30.069585963228697,0.07246894309533279,False,Right Foot,Open Play,1,0,0,Half Volley
+3878608,Federico Dionisi,Frosinone,39.78190543450627,0.07568462475329603,False,Right Foot,Open Play,0,0,3,Half Volley
+3878608,Danilo Soddimo,Frosinone,13.7800580550301,0.06137902908317214,False,Left Foot,Open Play,1,0,1,Volley
+3878608,Daniel Ciofani,Frosinone,8.497058314499194,0.05653087693603595,False,Head,Open Play,0,1,3,Normal
+3878608,Leonardo Blanchard,Frosinone,16.177144370994533,0.058321325622518315,False,Left Foot,Open Play,1,0,2,Half Volley
+3878608,Daniele Verde,Frosinone,16.140012391568973,0.05395002865838986,False,Right Foot,Open Play,0,0,1,Normal
+3878608,Marios Oikonomou,Bologna,10.551303237041388,0.05975755454805413,False,Head,Open Play,0,1,5,Normal
+3878608,Danilo Soddimo,Frosinone,34.74953237095429,0.07648405280101339,False,Right Foot,Open Play,0,1,1,Normal
+3878608,Daniele Verde,Frosinone,20.693960471596537,0.05295401118727531,False,Left Foot,Open Play,1,0,1,Half Volley
+3878608,Daniel Ciofani,Frosinone,11.088733020503286,0.055773421087609125,False,Head,Open Play,0,0,2,Normal

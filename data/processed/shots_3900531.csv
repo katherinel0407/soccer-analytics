@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.851624682608104,0.06806349385845055,False,Left Foot,Open Play,0,0,1,Normal
-30.502622838044598,0.06838655456044095,False,Right Foot,Open Play,1,0,0,Normal
-7.731752712031085,0.057605190504004304,False,Head,Open Play,0,1,2,Normal
-33.24154027718932,0.07250951718624472,False,Left Foot,Open Play,0,0,3,Normal
-17.362315513778686,0.053376533810237145,False,Right Foot,Open Play,1,0,1,Volley
-6.26817357768593,0.05574917829314024,False,Other,Open Play,0,1,3,Normal
-22.77740108089595,0.06746617684074098,False,Right Foot,Open Play,1,0,1,Normal
-19.327959023135367,0.06524536454674464,False,Left Foot,Open Play,1,0,2,Volley
-28.955828428832767,0.06565758975556507,False,Left Foot,Open Play,1,0,0,Half Volley
-54.422513723641984,0.09185601493148454,False,Left Foot,Open Play,0,1,1,Lob
-43.245924663487074,0.0845221243350452,False,Left Foot,Open Play,1,0,1,Normal
-27.88691449407768,0.06563264254594864,False,Right Foot,Open Play,0,1,1,Half Volley
-32.869438693108215,0.07170437286600638,False,Right Foot,Open Play,0,0,0,Normal
-36.41112467364886,0.07183351069665364,False,Left Foot,Free Kick,0,0,0,Normal
-15.14760707174569,0.061942021351947825,False,Left Foot,Open Play,1,0,0,Half Volley
-22.743130831088326,0.06702758225256801,False,Left Foot,Free Kick,0,0,0,Normal
-18.613167382259263,0.06062227115525038,False,Right Foot,Open Play,0,0,2,Normal
-27.197426348829406,0.06117091286006722,False,Left Foot,Free Kick,0,0,0,Normal
-12.646343345014797,0.05770623849146643,False,Right Foot,Open Play,1,0,2,Half Volley
-19.56016359849784,0.05351753562763958,False,Right Foot,Open Play,0,0,1,Normal
-23.627949551325862,0.06756213499739627,False,Left Foot,Open Play,0,1,2,Normal
-32.7099373279742,0.07135866389835856,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900531,Didier Ndong Ibrahim,Lorient,23.851624682608104,0.06806349385845055,False,Left Foot,Open Play,0,0,1,Normal
+3900531,Rémi Mulumba,Lorient,30.502622838044598,0.06838655456044095,False,Right Foot,Open Play,1,0,0,Normal
+3900531,Lamine Koné,Lorient,7.731752712031085,0.057605190504004304,False,Head,Open Play,0,1,2,Normal
+3900531,Wallyson Teixeira Mallmann,OGC Nice,33.24154027718932,0.07250951718624472,False,Left Foot,Open Play,0,0,3,Normal
+3900531,Benjamin Jeannot,Lorient,17.362315513778686,0.053376533810237145,False,Right Foot,Open Play,1,0,1,Volley
+3900531,Paul Baysse,OGC Nice,6.26817357768593,0.05574917829314024,False,Other,Open Play,0,1,3,Normal
+3900531,Paulin Puel,OGC Nice,22.77740108089595,0.06746617684074098,False,Right Foot,Open Play,1,0,1,Normal
+3900531,Yann Jouffre,Lorient,19.327959023135367,0.06524536454674464,False,Left Foot,Open Play,1,0,2,Volley
+3900531,Raphaël Adelino José Guerreiro,Lorient,28.955828428832767,0.06565758975556507,False,Left Foot,Open Play,1,0,0,Half Volley
+3900531,Wallyson Teixeira Mallmann,OGC Nice,54.422513723641984,0.09185601493148454,False,Left Foot,Open Play,0,1,1,Lob
+3900531,Raphaël Adelino José Guerreiro,Lorient,43.245924663487074,0.0845221243350452,False,Left Foot,Open Play,1,0,1,Normal
+3900531,Didier Ndong Ibrahim,Lorient,27.88691449407768,0.06563264254594864,False,Right Foot,Open Play,0,1,1,Half Volley
+3900531,Paulin Puel,OGC Nice,32.869438693108215,0.07170437286600638,False,Right Foot,Open Play,0,0,0,Normal
+3900531,Wallyson Teixeira Mallmann,OGC Nice,36.41112467364886,0.07183351069665364,False,Left Foot,Free Kick,0,0,0,Normal
+3900531,Niklas Hult,OGC Nice,15.14760707174569,0.061942021351947825,False,Left Foot,Open Play,1,0,0,Half Volley
+3900531,Wallyson Teixeira Mallmann,OGC Nice,22.743130831088326,0.06702758225256801,False,Left Foot,Free Kick,0,0,0,Normal
+3900531,Valère Germain,OGC Nice,18.613167382259263,0.06062227115525038,False,Right Foot,Open Play,0,0,2,Normal
+3900531,Yann Jouffre,Lorient,27.197426348829406,0.06117091286006722,False,Left Foot,Free Kick,0,0,0,Normal
+3900531,Alexandre Mendy,OGC Nice,12.646343345014797,0.05770623849146643,False,Right Foot,Open Play,1,0,2,Half Volley
+3900531,Alexandre Mendy,OGC Nice,19.56016359849784,0.05351753562763958,False,Right Foot,Open Play,0,0,1,Normal
+3900531,Romain Philippoteaux,Lorient,23.627949551325862,0.06756213499739627,False,Left Foot,Open Play,0,1,2,Normal
+3900531,Jean Michaël Seri,OGC Nice,32.7099373279742,0.07135866389835856,False,Right Foot,Free Kick,0,0,0,Normal

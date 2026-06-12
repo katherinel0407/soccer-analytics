@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.660675400742674,0.05442839254387495,False,Right Foot,Open Play,1,0,1,Volley
-32.97104790570054,0.07480048060382985,False,Left Foot,Open Play,0,1,2,Normal
-9.202173656261875,0.05850464295922526,False,Right Foot,Open Play,0,0,2,Normal
-34.65905365124674,0.06609281961915094,False,Left Foot,Open Play,0,0,1,Normal
-28.160255680657446,0.06847395556901158,False,Left Foot,Open Play,0,0,1,Normal
-14.893287078412207,0.05151857159277289,False,Left Foot,Open Play,0,0,2,Normal
-17.656726763474598,0.06312163588502684,False,Left Foot,Open Play,0,0,3,Normal
-9.436630754670867,0.05559882948213179,False,Right Foot,Open Play,1,0,1,Volley
-26.914122686797732,0.06981202164297841,False,Left Foot,Open Play,1,0,2,Normal
-8.919641248391098,0.055422323596462486,False,Head,Open Play,0,1,2,Diving Header
-10.183319694480778,0.05756505694336205,False,Right Foot,Open Play,1,0,1,Volley
-29.877416220282505,0.07245531227579421,False,Left Foot,Open Play,0,0,2,Normal
-31.598101208775184,0.060000003848365034,False,Left Foot,Open Play,0,1,2,Normal
-23.048210342670867,0.05239222399536842,False,Left Foot,Open Play,0,0,1,Normal
-29.88109770406703,0.06657135117570234,False,Right Foot,Open Play,0,0,1,Normal
-32.86609194899813,0.07124175046350004,True,Left Foot,Open Play,1,0,1,Half Volley
-19.812369873389706,0.05836495342628433,False,Right Foot,Open Play,1,0,1,Normal
-3.361547262794322,0.05447656019281836,True,Head,Open Play,0,0,2,Normal
-21.98294793698061,0.06652731563847024,False,Right Foot,Open Play,0,1,3,Normal
-25.280031645549816,0.06905852087016696,False,Left Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901192,Enzo Crivelli,Bordeaux,10.660675400742674,0.05442839254387495,False,Right Foot,Open Play,1,0,1,Volley
+3901192,Floyd Ayité,Bastia,32.97104790570054,0.07480048060382985,False,Left Foot,Open Play,0,1,2,Normal
+3901192,Enzo Crivelli,Bordeaux,9.202173656261875,0.05850464295922526,False,Right Foot,Open Play,0,0,2,Normal
+3901192,Gaël Danic,Bastia,34.65905365124674,0.06609281961915094,False,Left Foot,Open Play,0,0,1,Normal
+3901192,Seko Fofana,Bastia,28.160255680657446,0.06847395556901158,False,Left Foot,Open Play,0,0,1,Normal
+3901192,Adam Ounas,Bordeaux,14.893287078412207,0.05151857159277289,False,Left Foot,Open Play,0,0,2,Normal
+3901192,Diego Alejandro Rolan Silva,Bordeaux,17.656726763474598,0.06312163588502684,False,Left Foot,Open Play,0,0,3,Normal
+3901192,Diego Alejandro Rolan Silva,Bordeaux,9.436630754670867,0.05559882948213179,False,Right Foot,Open Play,1,0,1,Volley
+3901192,Cédric Yambéré,Bordeaux,26.914122686797732,0.06981202164297841,False,Left Foot,Open Play,1,0,2,Normal
+3901192,Floyd Ayité,Bastia,8.919641248391098,0.055422323596462486,False,Head,Open Play,0,1,2,Diving Header
+3901192,Enzo Crivelli,Bordeaux,10.183319694480778,0.05756505694336205,False,Right Foot,Open Play,1,0,1,Volley
+3901192,Floyd Ayité,Bastia,29.877416220282505,0.07245531227579421,False,Left Foot,Open Play,0,0,2,Normal
+3901192,Adam Ounas,Bordeaux,31.598101208775184,0.060000003848365034,False,Left Foot,Open Play,0,1,2,Normal
+3901192,Malcom Filipe Silva de Oliveira,Bordeaux,23.048210342670867,0.05239222399536842,False,Left Foot,Open Play,0,0,1,Normal
+3901192,Seko Fofana,Bastia,29.88109770406703,0.06657135117570234,False,Right Foot,Open Play,0,0,1,Normal
+3901192,Diego Armando Valentin Contento,Bordeaux,32.86609194899813,0.07124175046350004,True,Left Foot,Open Play,1,0,1,Half Volley
+3901192,Floyd Ayité,Bastia,19.812369873389706,0.05836495342628433,False,Right Foot,Open Play,1,0,1,Normal
+3901192,Axel Ngando,Bastia,3.361547262794322,0.05447656019281836,True,Head,Open Play,0,0,2,Normal
+3901192,Adam Ounas,Bordeaux,21.98294793698061,0.06652731563847024,False,Right Foot,Open Play,0,1,3,Normal
+3901192,Adam Ounas,Bordeaux,25.280031645549816,0.06905852087016696,False,Left Foot,Open Play,1,0,1,Half Volley

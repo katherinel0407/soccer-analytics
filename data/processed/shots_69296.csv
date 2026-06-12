@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.55945268321995,0.05824019886648335,False,Right Foot,Open Play,1,0,1,Volley
-12.495199078045937,0.058869201423302715,False,Left Foot,Open Play,1,0,1,Normal
-18.04716044146558,0.05752987426678416,False,Left Foot,Open Play,0,1,3,Normal
-24.288680491125902,0.06824551054432669,False,Right Foot,Open Play,0,1,1,Normal
-16.473008225579203,0.05744261685505767,False,Left Foot,Open Play,0,1,2,Normal
-26.789923478800752,0.06858846472179338,False,Right Foot,Open Play,0,1,1,Normal
-7.566372975210778,0.05807557339645584,False,Right Foot,Open Play,1,1,3,Half Volley
-17.531685600648895,0.057873893869369614,False,Right Foot,Open Play,1,0,1,Half Volley
-11.920570456148486,0.05979921660085004,False,Head,Open Play,0,1,2,Normal
-20.652602741543255,0.06590210276787266,False,Right Foot,Open Play,0,1,3,Normal
-29.8564900817226,0.07112250559948523,False,Right Foot,Open Play,0,0,2,Normal
-16.487874332369223,0.05536811014404094,True,Right Foot,Open Play,0,1,2,Normal
-28.53348909614806,0.04980614640839405,False,Left Foot,Free Kick,0,0,0,Normal
-25.865227623200997,0.06951758684904094,False,Right Foot,Open Play,0,0,3,Normal
-24.742069436488134,0.06176449972743123,False,Right Foot,Open Play,0,0,3,Normal
-20.096019506359966,0.06424008678659882,False,Right Foot,Open Play,0,0,2,Volley
-18.024705268048077,0.057332733617281036,False,Right Foot,Open Play,0,0,2,Normal
-17.977764043395382,0.06411703859726074,False,Left Foot,Open Play,0,0,3,Normal
-17.310401497365678,0.06211988736716272,False,Left Foot,Open Play,0,0,3,Normal
-24.82136176763878,0.061613595650894276,False,Left Foot,Open Play,0,0,1,Normal
-11.859595271340423,0.05277859863024624,False,Right Foot,Open Play,0,1,3,Normal
-17.42555594522022,0.06361307812872939,True,Left Foot,Open Play,0,0,2,Normal
-3.1827660925679098,0.05636690784451565,True,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69296,Xavier Hernández Creus,Barcelona,21.55945268321995,0.05824019886648335,False,Right Foot,Open Play,1,0,1,Volley
+69296,Lionel Andrés Messi Cuccittini,Barcelona,12.495199078045937,0.058869201423302715,False,Left Foot,Open Play,1,0,1,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,18.04716044146558,0.05752987426678416,False,Left Foot,Open Play,0,1,3,Normal
+69296,Pedro Eliezer Rodríguez Ledesma,Barcelona,24.288680491125902,0.06824551054432669,False,Right Foot,Open Play,0,1,1,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,16.473008225579203,0.05744261685505767,False,Left Foot,Open Play,0,1,2,Normal
+69296,Francisco Femenía Far,Hércules,26.789923478800752,0.06858846472179338,False,Right Foot,Open Play,0,1,1,Normal
+69296,David Sergio Trézéguet,Hércules,7.566372975210778,0.05807557339645584,False,Right Foot,Open Play,1,1,3,Half Volley
+69296,Pedro Eliezer Rodríguez Ledesma,Barcelona,17.531685600648895,0.057873893869369614,False,Right Foot,Open Play,1,0,1,Half Volley
+69296,Nelson Antonio Haedo Valdez,Hércules,11.920570456148486,0.05979921660085004,False,Head,Open Play,0,1,2,Normal
+69296,David Villa Sánchez,Barcelona,20.652602741543255,0.06590210276787266,False,Right Foot,Open Play,0,1,3,Normal
+69296,Andrés Iniesta Luján,Barcelona,29.8564900817226,0.07112250559948523,False,Right Foot,Open Play,0,0,2,Normal
+69296,Pedro Eliezer Rodríguez Ledesma,Barcelona,16.487874332369223,0.05536811014404094,True,Right Foot,Open Play,0,1,2,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,28.53348909614806,0.04980614640839405,False,Left Foot,Free Kick,0,0,0,Normal
+69296,David Villa Sánchez,Barcelona,25.865227623200997,0.06951758684904094,False,Right Foot,Open Play,0,0,3,Normal
+69296,Xavier Hernández Creus,Barcelona,24.742069436488134,0.06176449972743123,False,Right Foot,Open Play,0,0,3,Normal
+69296,Nelson Antonio Haedo Valdez,Hércules,20.096019506359966,0.06424008678659882,False,Right Foot,Open Play,0,0,2,Volley
+69296,Pedro Eliezer Rodríguez Ledesma,Barcelona,18.024705268048077,0.057332733617281036,False,Right Foot,Open Play,0,0,2,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,17.977764043395382,0.06411703859726074,False,Left Foot,Open Play,0,0,3,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,17.310401497365678,0.06211988736716272,False,Left Foot,Open Play,0,0,3,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,24.82136176763878,0.061613595650894276,False,Left Foot,Open Play,0,0,1,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,11.859595271340423,0.05277859863024624,False,Right Foot,Open Play,0,1,3,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,17.42555594522022,0.06361307812872939,True,Left Foot,Open Play,0,0,2,Normal
+69296,Lionel Andrés Messi Cuccittini,Barcelona,3.1827660925679098,0.05636690784451565,True,Left Foot,Open Play,1,0,1,Normal

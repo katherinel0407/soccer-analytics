@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.399385238157127,0.06615340897701351,True,Right Foot,Open Play,0,0,3,Normal
-9.849365461794992,0.0597095492805875,False,Left Foot,Open Play,1,0,4,Normal
-21.345959805077865,0.06305804018131358,False,Right Foot,Open Play,1,0,0,Volley
-23.50531854708632,0.05306619599678802,False,Right Foot,Open Play,0,1,2,Normal
-15.181897114655996,0.05721425543224979,False,Right Foot,Open Play,1,0,2,Normal
-8.005623023850172,0.05544673167746405,False,Head,Open Play,0,0,3,Normal
-24.673872821265817,0.06049124326069624,False,Right Foot,Open Play,1,0,0,Normal
-19.985995096567,0.06516067498877443,False,Left Foot,Open Play,1,0,1,Normal
-27.011849251763564,0.06168524852060835,False,Right Foot,Open Play,0,0,1,Normal
-21.108529081866404,0.06332943852783283,True,Right Foot,Free Kick,0,0,0,Normal
-22.52198925494815,0.06697784276098907,False,Left Foot,Open Play,1,0,2,Normal
-29.837727795527595,0.05957773125653909,False,Right Foot,Open Play,0,0,1,Normal
-11.646887996370527,0.06071209762027572,False,Head,Open Play,0,1,2,Normal
-14.061649974309558,0.0620856636695954,False,Left Foot,Open Play,1,0,2,Half Volley
-10.650821564555477,0.05426050966944984,False,Right Foot,Open Play,1,0,2,Normal
-15.041608956491324,0.05417331799594608,False,Left Foot,Open Play,0,1,1,Normal
-20.120139164528663,0.059575318253637766,False,Right Foot,Open Play,1,0,1,Half Volley
-4.780167361086849,0.05483049989275717,False,Right Foot,Open Play,1,0,3,Half Volley
-30.03747659175118,0.06873989273191314,False,Left Foot,Open Play,1,0,1,Half Volley
-25.645662401271686,0.06852449041571146,False,Right Foot,Open Play,0,0,2,Normal
-33.3073565447635,0.07002733842708125,False,Right Foot,Open Play,1,0,1,Half Volley
-17.194475857088523,0.06350664240255274,False,Left Foot,Open Play,0,0,1,Normal
-12.51758762701504,0.061074096712057165,False,Left Foot,Open Play,0,0,3,Normal
-10.606601717798213,0.060041166312685086,False,Right Foot,Open Play,1,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754284,Alexis Alejandro Sánchez Sánchez,Arsenal,24.399385238157127,0.06615340897701351,True,Right Foot,Open Play,0,0,3,Normal
+3754284,Mesut Özil,Arsenal,9.849365461794992,0.0597095492805875,False,Left Foot,Open Play,1,0,4,Normal
+3754284,Aaron Ramsey,Arsenal,21.345959805077865,0.06305804018131358,False,Right Foot,Open Play,1,0,0,Volley
+3754284,Héctor Bellerín Moruno,Arsenal,23.50531854708632,0.05306619599678802,False,Right Foot,Open Play,0,1,2,Normal
+3754284,Darren Fletcher,West Bromwich Albion,15.181897114655996,0.05721425543224979,False,Right Foot,Open Play,1,0,2,Normal
+3754284,Gareth McAuley,West Bromwich Albion,8.005623023850172,0.05544673167746405,False,Head,Open Play,0,0,3,Normal
+3754284,Héctor Bellerín Moruno,Arsenal,24.673872821265817,0.06049124326069624,False,Right Foot,Open Play,1,0,0,Normal
+3754284,Mesut Özil,Arsenal,19.985995096567,0.06516067498877443,False,Left Foot,Open Play,1,0,1,Normal
+3754284,Mohamed Naser Elsayed Elneny,Arsenal,27.011849251763564,0.06168524852060835,False,Right Foot,Open Play,0,0,1,Normal
+3754284,Alexis Alejandro Sánchez Sánchez,Arsenal,21.108529081866404,0.06332943852783283,True,Right Foot,Free Kick,0,0,0,Normal
+3754284,Olivier Giroud,Arsenal,22.52198925494815,0.06697784276098907,False,Left Foot,Open Play,1,0,2,Normal
+3754284,José Salomón Rondón Giménez,West Bromwich Albion,29.837727795527595,0.05957773125653909,False,Right Foot,Open Play,0,0,1,Normal
+3754284,James McClean,West Bromwich Albion,11.646887996370527,0.06071209762027572,False,Head,Open Play,0,1,2,Normal
+3754284,Olivier Giroud,Arsenal,14.061649974309558,0.0620856636695954,False,Left Foot,Open Play,1,0,2,Half Volley
+3754284,Mesut Özil,Arsenal,10.650821564555477,0.05426050966944984,False,Right Foot,Open Play,1,0,2,Normal
+3754284,Mesut Özil,Arsenal,15.041608956491324,0.05417331799594608,False,Left Foot,Open Play,0,1,1,Normal
+3754284,Alex Iwobi,Arsenal,20.120139164528663,0.059575318253637766,False,Right Foot,Open Play,1,0,1,Half Volley
+3754284,José Salomón Rondón Giménez,West Bromwich Albion,4.780167361086849,0.05483049989275717,False,Right Foot,Open Play,1,0,3,Half Volley
+3754284,Jonathan Grant Evans,West Bromwich Albion,30.03747659175118,0.06873989273191314,False,Left Foot,Open Play,1,0,1,Half Volley
+3754284,Craig Gardner,West Bromwich Albion,25.645662401271686,0.06852449041571146,False,Right Foot,Open Play,0,0,2,Normal
+3754284,Claudio Ariel Yacob,West Bromwich Albion,33.3073565447635,0.07002733842708125,False,Right Foot,Open Play,1,0,1,Half Volley
+3754284,Joel Nathaniel Campbell Samuels,Arsenal,17.194475857088523,0.06350664240255274,False,Left Foot,Open Play,0,0,1,Normal
+3754284,Olivier Giroud,Arsenal,12.51758762701504,0.061074096712057165,False,Left Foot,Open Play,0,0,3,Normal
+3754284,Olivier Giroud,Arsenal,10.606601717798213,0.060041166312685086,False,Right Foot,Open Play,1,1,3,Half Volley

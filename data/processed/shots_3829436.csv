@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.844705911375797,0.06476912557327937,False,Left Foot,Open Play,0,0,2,Half Volley
-28.738301967931232,0.0508554228903351,False,Left Foot,Open Play,0,0,1,Normal
-7.665507158694726,0.05705984437992438,False,Head,Open Play,0,1,1,Normal
-17.32772345116346,0.06267363879949447,False,Head,Open Play,0,1,1,Normal
-20.262773748921934,0.06573166584122611,False,Left Foot,Open Play,1,0,1,Volley
-28.884944175123483,0.06457972546835099,False,Left Foot,Open Play,0,0,1,Normal
-30.41989480586677,0.06105763359451198,False,Left Foot,Open Play,0,0,1,Normal
-24.216729754448682,0.06461900474024487,False,Left Foot,Open Play,1,0,2,Half Volley
-27.969268849935993,0.06019734748596433,False,Left Foot,Open Play,0,0,1,Normal
-33.20376484677604,0.07311052056721186,False,Right Foot,Free Kick,0,0,0,Normal
-10.948059188732953,0.06004856896957829,False,Left Foot,Open Play,1,0,1,Half Volley
-6.835934464285037,0.057698499322142736,False,Head,Open Play,0,0,2,Normal
-4.6529560496527385,0.05638159982051047,False,Left Foot,Open Play,1,1,2,Half Volley
-14.288806808127818,0.06116420668621928,True,Left Foot,Open Play,0,0,1,Normal
-12.264175471673585,0.05622862093212644,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829436,Kolbeinn Sigþórsson,Nantes,23.844705911375797,0.06476912557327937,False,Left Foot,Open Play,0,0,2,Half Volley
+3829436,Johan Audel,Nantes,28.738301967931232,0.0508554228903351,False,Left Foot,Open Play,0,0,1,Normal
+3829436,Kolbeinn Sigþórsson,Nantes,7.665507158694726,0.05705984437992438,False,Head,Open Play,0,1,1,Normal
+3829436,Johan Audel,Nantes,17.32772345116346,0.06267363879949447,False,Head,Open Play,0,1,1,Normal
+3829436,Valentin Rongier,Nantes,20.262773748921934,0.06573166584122611,False,Left Foot,Open Play,1,0,1,Volley
+3829436,Adryan Oliveira Tavares,Nantes,28.884944175123483,0.06457972546835099,False,Left Foot,Open Play,0,0,1,Normal
+3829436,Frédéric Bulot,Stade de Reims,30.41989480586677,0.06105763359451198,False,Left Foot,Open Play,0,0,1,Normal
+3829436,Birama Touré,Nantes,24.216729754448682,0.06461900474024487,False,Left Foot,Open Play,1,0,2,Half Volley
+3829436,Adrien Thomasson,Nantes,27.969268849935993,0.06019734748596433,False,Left Foot,Open Play,0,0,1,Normal
+3829436,Kolbeinn Sigþórsson,Nantes,33.20376484677604,0.07311052056721186,False,Right Foot,Free Kick,0,0,0,Normal
+3829436,Kolbeinn Sigþórsson,Nantes,10.948059188732953,0.06004856896957829,False,Left Foot,Open Play,1,0,1,Half Volley
+3829436,Johan Audel,Nantes,6.835934464285037,0.057698499322142736,False,Head,Open Play,0,0,2,Normal
+3829436,Johan Audel,Nantes,4.6529560496527385,0.05638159982051047,False,Left Foot,Open Play,1,1,2,Half Volley
+3829436,Ermir Lenjani,Nantes,14.288806808127818,0.06116420668621928,True,Left Foot,Open Play,0,0,1,Normal
+3829436,Nicolas de Roussel de Préville,Stade de Reims,12.264175471673585,0.05622862093212644,False,Right Foot,Open Play,1,0,2,Half Volley

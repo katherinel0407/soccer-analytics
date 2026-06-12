@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.962182495454165,0.05932881659045837,False,Right Foot,Open Play,0,1,1,Normal
-5.277309920783507,0.05657188556812916,True,Right Foot,Open Play,1,0,2,Normal
-32.800000000000004,0.0645948109846433,False,Right Foot,Open Play,0,0,2,Normal
-14.057738082636192,0.061866333706239014,False,Head,Open Play,0,0,2,Normal
-30.40213808270728,0.06994257149447745,False,Left Foot,Open Play,0,0,0,Normal
-27.874360979222462,0.07103764044522774,False,Left Foot,Open Play,0,0,2,Normal
-11.88486432400471,0.06083380997129091,False,Right Foot,Open Play,1,0,2,Half Volley
-29.932757975168283,0.06863213527078364,False,Right Foot,Open Play,0,1,2,Normal
-13.88848443855556,0.061579384267376365,True,Left Foot,Open Play,0,1,4,Normal
-25.143587651725436,0.0626562019905439,False,Left Foot,Open Play,1,0,2,Half Volley
-31.093407661432025,0.060389522355732354,False,Left Foot,Open Play,0,0,1,Normal
-13.41118935814419,0.05683752519736306,False,Right Foot,Open Play,1,0,1,Normal
-23.221541723150082,0.06410717735365994,False,Left Foot,Open Play,0,1,2,Normal
-15.590060936378661,0.06259804129138687,True,Right Foot,Open Play,1,0,2,Normal
-9.075791976461332,0.05721426482783518,False,Head,Open Play,0,0,4,Normal
-20.80216334903656,0.06617131201323255,False,Left Foot,Open Play,0,1,2,Normal
-9.534149149242424,0.059495829886996726,False,Head,Open Play,0,0,2,Normal
-9.15478017212866,0.05918915112280935,True,Left Foot,Open Play,1,0,1,Half Volley
-27.951565251341467,0.069584612572024,False,Left Foot,Open Play,0,0,1,Normal
-8.713208364316792,0.05914926919006601,False,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890501,Caiuby Francisco da Silva,Augsburg,17.962182495454165,0.05932881659045837,False,Right Foot,Open Play,0,1,1,Normal
+3890501,Alfreð Finnbogason,Augsburg,5.277309920783507,0.05657188556812916,True,Right Foot,Open Play,1,0,2,Normal
+3890501,Henrikh Mkhitaryan,Borussia Dortmund,32.800000000000004,0.0645948109846433,False,Right Foot,Open Play,0,0,2,Normal
+3890501,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,14.057738082636192,0.061866333706239014,False,Head,Open Play,0,0,2,Normal
+3890501,Nuri Şahin,Borussia Dortmund,30.40213808270728,0.06994257149447745,False,Left Foot,Open Play,0,0,0,Normal
+3890501,Ja-Cheol Koo,Augsburg,27.874360979222462,0.07103764044522774,False,Left Foot,Open Play,0,0,2,Normal
+3890501,Marco Reus,Borussia Dortmund,11.88486432400471,0.06083380997129091,False,Right Foot,Open Play,1,0,2,Half Volley
+3890501,Alfreð Finnbogason,Augsburg,29.932757975168283,0.06863213527078364,False,Right Foot,Open Play,0,1,2,Normal
+3890501,Henrikh Mkhitaryan,Borussia Dortmund,13.88848443855556,0.061579384267376365,True,Left Foot,Open Play,0,1,4,Normal
+3890501,Markus Feulner,Augsburg,25.143587651725436,0.0626562019905439,False,Left Foot,Open Play,1,0,2,Half Volley
+3890501,Łukasz Piszczek,Borussia Dortmund,31.093407661432025,0.060389522355732354,False,Left Foot,Open Play,0,0,1,Normal
+3890501,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,13.41118935814419,0.05683752519736306,False,Right Foot,Open Play,1,0,1,Normal
+3890501,Moritz Leitner,Borussia Dortmund,23.221541723150082,0.06410717735365994,False,Left Foot,Open Play,0,1,2,Normal
+3890501,Gonzalo Castro Randon,Borussia Dortmund,15.590060936378661,0.06259804129138687,True,Right Foot,Open Play,1,0,2,Normal
+3890501,Jeong-Ho Hong,Augsburg,9.075791976461332,0.05721426482783518,False,Head,Open Play,0,0,4,Normal
+3890501,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,20.80216334903656,0.06617131201323255,False,Left Foot,Open Play,0,1,2,Normal
+3890501,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,9.534149149242424,0.059495829886996726,False,Head,Open Play,0,0,2,Normal
+3890501,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,9.15478017212866,0.05918915112280935,True,Left Foot,Open Play,1,0,1,Half Volley
+3890501,Julian Weigl,Borussia Dortmund,27.951565251341467,0.069584612572024,False,Left Foot,Open Play,0,0,1,Normal
+3890501,Alfreð Finnbogason,Augsburg,8.713208364316792,0.05914926919006601,False,Right Foot,Open Play,1,0,2,Volley

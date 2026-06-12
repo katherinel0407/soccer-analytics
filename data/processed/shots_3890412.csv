@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.287339742040269,0.05763612870511966,False,Head,Open Play,0,1,6,Normal
-5.536244214266566,0.056258624556303316,False,Head,Open Play,0,1,6,Normal
-14.168274418573349,0.06177630445575364,False,Head,Open Play,0,0,3,Normal
-31.0195099896823,0.0690433380091941,False,Left Foot,Open Play,0,0,2,Normal
-30.32952357027719,0.055397437935413504,False,Right Foot,Open Play,0,0,2,Normal
-12.030378215168465,0.059919891815564466,False,Head,Open Play,0,0,2,Normal
-12.865457628860307,0.06077339954799995,False,Head,Open Play,0,0,3,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-9.124143795447328,0.05925291340363243,False,Head,Open Play,0,1,4,Normal
-23.68818270783979,0.05440968925124231,False,Left Foot,Open Play,0,0,2,Normal
-32.51245915030113,0.06972145890312409,False,Left Foot,Open Play,0,0,1,Normal
-22.91724241700995,0.06549038774636927,False,Left Foot,Open Play,0,0,1,Half Volley
-19.1637678967368,0.05766727804020475,False,Right Foot,Open Play,0,1,2,Normal
-11.04400289750052,0.057911909071360845,False,Head,Open Play,0,0,1,Normal
-23.404700382615452,0.0591587328667995,False,Right Foot,Open Play,1,0,1,Normal
-17.86393013869008,0.06408929024709348,False,Right Foot,Open Play,0,1,3,Half Volley
-20.497804760510338,0.06238887101694425,False,Right Foot,Open Play,0,0,2,Volley
-11.772000679578644,0.05992551092682713,True,Left Foot,Open Play,0,0,2,Half Volley
-32.459975354272835,0.061104072158226275,False,Left Foot,Free Kick,0,0,0,Normal
-7.8000000000000025,0.05665137108284404,False,Left Foot,Open Play,1,0,2,Half Volley
-9.99849988748312,0.0540333296665509,False,Right Foot,Open Play,1,0,1,Volley
-12.07393887677091,0.06025321877518785,False,Left Foot,Open Play,1,0,1,Volley
-20.30270917882636,0.05982524674952055,False,Right Foot,Open Play,1,0,1,Normal
-20.321417273408862,0.06462242817613296,False,Left Foot,Free Kick,0,0,0,Normal
-19.734234213670412,0.06498051439312859,False,Left Foot,Open Play,1,0,1,Half Volley
-29.509659435513647,0.07006319429899074,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890412,Cleber Janderson Pereira Reis,Hamburger SV,8.287339742040269,0.05763612870511966,False,Head,Open Play,0,1,6,Normal
+3890412,Thiago Alcântara do Nascimento,Bayern Munich,5.536244214266566,0.056258624556303316,False,Head,Open Play,0,1,6,Normal
+3890412,David Olatukunbo Alaba,Bayern Munich,14.168274418573349,0.06177630445575364,False,Head,Open Play,0,0,3,Normal
+3890412,Aaron Hunt,Hamburger SV,31.0195099896823,0.0690433380091941,False,Left Foot,Open Play,0,0,2,Normal
+3890412,Dennis Diekmeier,Hamburger SV,30.32952357027719,0.055397437935413504,False,Right Foot,Open Play,0,0,2,Normal
+3890412,David Olatukunbo Alaba,Bayern Munich,12.030378215168465,0.059919891815564466,False,Head,Open Play,0,0,2,Normal
+3890412,Robert Lewandowski,Bayern Munich,12.865457628860307,0.06077339954799995,False,Head,Open Play,0,0,3,Normal
+3890412,Robert Lewandowski,Bayern Munich,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3890412,Thomas Müller,Bayern Munich,9.124143795447328,0.05925291340363243,False,Head,Open Play,0,1,4,Normal
+3890412,Kingsley Coman,Bayern Munich,23.68818270783979,0.05440968925124231,False,Left Foot,Open Play,0,0,2,Normal
+3890412,Jérôme Boateng,Bayern Munich,32.51245915030113,0.06972145890312409,False,Left Foot,Open Play,0,0,1,Normal
+3890412,Douglas Costa de Souza,Bayern Munich,22.91724241700995,0.06549038774636927,False,Left Foot,Open Play,0,0,1,Half Volley
+3890412,Robert Lewandowski,Bayern Munich,19.1637678967368,0.05766727804020475,False,Right Foot,Open Play,0,1,2,Normal
+3890412,Thiago Alcântara do Nascimento,Bayern Munich,11.04400289750052,0.057911909071360845,False,Head,Open Play,0,0,1,Normal
+3890412,Pierre-Michel Lasogga,Hamburger SV,23.404700382615452,0.0591587328667995,False,Right Foot,Open Play,1,0,1,Normal
+3890412,Robert Lewandowski,Bayern Munich,17.86393013869008,0.06408929024709348,False,Right Foot,Open Play,0,1,3,Half Volley
+3890412,Thomas Müller,Bayern Munich,20.497804760510338,0.06238887101694425,False,Right Foot,Open Play,0,0,2,Volley
+3890412,Robert Lewandowski,Bayern Munich,11.772000679578644,0.05992551092682713,True,Left Foot,Open Play,0,0,2,Half Volley
+3890412,David Olatukunbo Alaba,Bayern Munich,32.459975354272835,0.061104072158226275,False,Left Foot,Free Kick,0,0,0,Normal
+3890412,Robert Lewandowski,Bayern Munich,7.8000000000000025,0.05665137108284404,False,Left Foot,Open Play,1,0,2,Half Volley
+3890412,Robert Lewandowski,Bayern Munich,9.99849988748312,0.0540333296665509,False,Right Foot,Open Play,1,0,1,Volley
+3890412,Douglas Costa de Souza,Bayern Munich,12.07393887677091,0.06025321877518785,False,Left Foot,Open Play,1,0,1,Volley
+3890412,Thiago Alcântara do Nascimento,Bayern Munich,20.30270917882636,0.05982524674952055,False,Right Foot,Open Play,1,0,1,Normal
+3890412,Michael Gregoritsch,Hamburger SV,20.321417273408862,0.06462242817613296,False,Left Foot,Free Kick,0,0,0,Normal
+3890412,Michael Gregoritsch,Hamburger SV,19.734234213670412,0.06498051439312859,False,Left Foot,Open Play,1,0,1,Half Volley
+3890412,Michael Gregoritsch,Hamburger SV,29.509659435513647,0.07006319429899074,False,Left Foot,Free Kick,0,0,0,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.02639536382451,0.06968967549711956,False,Left Foot,Open Play,1,0,1,Normal
-21.818570072303086,0.06432963423471098,False,Right Foot,Open Play,1,0,1,Normal
-11.175866856758805,0.05535029576142733,True,Left Foot,Open Play,1,0,2,Normal
-10.49571341072154,0.06009299323743545,False,Right Foot,Open Play,1,0,2,Volley
-10.80740486888504,0.060245077062603826,False,Left Foot,Open Play,1,0,2,Half Volley
-7.454528824815159,0.058003194042621845,True,Head,Open Play,0,0,5,Normal
-28.62463973572419,0.07012589298022051,False,Left Foot,Open Play,1,0,0,Half Volley
-15.996249560443847,0.06304351091566915,False,Left Foot,Open Play,0,0,2,Normal
-11.250777750893496,0.05385330046960418,True,Right Foot,Open Play,0,0,1,Half Volley
-11.605602095539895,0.0578480629163248,False,Head,Open Play,0,1,4,Normal
-30.0,0.06790687534121487,False,Right Foot,Open Play,1,0,0,Normal
-29.34706118165838,0.07193014353651679,False,Left Foot,Open Play,1,0,1,Normal
-18.70721785835617,0.05241130554031422,False,Right Foot,Open Play,1,0,1,Normal
-15.462535367784934,0.062284718850425996,False,Left Foot,Open Play,1,0,1,Normal
-16.896153408394465,0.06092409395229362,False,Left Foot,Open Play,0,0,1,Normal
-34.57817230566127,0.07318650897998545,False,Right Foot,Open Play,0,0,2,Normal
-22.009543384632035,0.06596180602164281,False,Right Foot,Open Play,0,0,2,Normal
-27.701624501101012,0.06894865212337035,False,Right Foot,Open Play,0,0,1,Normal
-13.961733416735903,0.05408143684121037,False,Right Foot,Open Play,0,0,1,Normal
-27.081543530604012,0.05548248412005409,False,Right Foot,Open Play,1,0,1,Normal
-23.880536007384762,0.06791475939575937,False,Left Foot,Open Play,1,0,0,Normal
-32.45304300061861,0.07410147607274879,False,Right Foot,Open Play,0,0,0,Normal
-8.077747210701755,0.05870413607747493,False,Left Foot,Open Play,1,0,2,Normal
-27.551043537405256,0.07072991785260359,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69269,Diego Forlán Corazo,Atlético Madrid,32.02639536382451,0.06968967549711956,False,Left Foot,Open Play,1,0,1,Normal
+69269,David Villa Sánchez,Barcelona,21.818570072303086,0.06432963423471098,False,Right Foot,Open Play,1,0,1,Normal
+69269,Lionel Andrés Messi Cuccittini,Barcelona,11.175866856758805,0.05535029576142733,True,Left Foot,Open Play,1,0,2,Normal
+69269,Gerard Piqué Bernabéu,Barcelona,10.49571341072154,0.06009299323743545,False,Right Foot,Open Play,1,0,2,Volley
+69269,Lionel Andrés Messi Cuccittini,Barcelona,10.80740486888504,0.060245077062603826,False,Left Foot,Open Play,1,0,2,Half Volley
+69269,Raúl García Escudero,Atlético Madrid,7.454528824815159,0.058003194042621845,True,Head,Open Play,0,0,5,Normal
+69269,Diego Forlán Corazo,Atlético Madrid,28.62463973572419,0.07012589298022051,False,Left Foot,Open Play,1,0,0,Half Volley
+69269,Lionel Andrés Messi Cuccittini,Barcelona,15.996249560443847,0.06304351091566915,False,Left Foot,Open Play,0,0,2,Normal
+69269,Gerard Piqué Bernabéu,Barcelona,11.250777750893496,0.05385330046960418,True,Right Foot,Open Play,0,0,1,Half Volley
+69269,Tomáš Ujfaluši,Atlético Madrid,11.605602095539895,0.0578480629163248,False,Head,Open Play,0,1,4,Normal
+69269,Xavier Hernández Creus,Barcelona,30.0,0.06790687534121487,False,Right Foot,Open Play,1,0,0,Normal
+69269,Pedro Eliezer Rodríguez Ledesma,Barcelona,29.34706118165838,0.07193014353651679,False,Left Foot,Open Play,1,0,1,Normal
+69269,David Villa Sánchez,Barcelona,18.70721785835617,0.05241130554031422,False,Right Foot,Open Play,1,0,1,Normal
+69269,David Villa Sánchez,Barcelona,15.462535367784934,0.062284718850425996,False,Left Foot,Open Play,1,0,1,Normal
+69269,David Villa Sánchez,Barcelona,16.896153408394465,0.06092409395229362,False,Left Foot,Open Play,0,0,1,Normal
+69269,Pedro Eliezer Rodríguez Ledesma,Barcelona,34.57817230566127,0.07318650897998545,False,Right Foot,Open Play,0,0,2,Normal
+69269,David Villa Sánchez,Barcelona,22.009543384632035,0.06596180602164281,False,Right Foot,Open Play,0,0,2,Normal
+69269,David Villa Sánchez,Barcelona,27.701624501101012,0.06894865212337035,False,Right Foot,Open Play,0,0,1,Normal
+69269,David Villa Sánchez,Barcelona,13.961733416735903,0.05408143684121037,False,Right Foot,Open Play,0,0,1,Normal
+69269,Daniel Alves da Silva,Barcelona,27.081543530604012,0.05548248412005409,False,Right Foot,Open Play,1,0,1,Normal
+69269,José Antonio Reyes Calderón,Atlético Madrid,23.880536007384762,0.06791475939575937,False,Left Foot,Open Play,1,0,0,Normal
+69269,Antonio López Guerrero,Atlético Madrid,32.45304300061861,0.07410147607274879,False,Right Foot,Open Play,0,0,0,Normal
+69269,Lionel Andrés Messi Cuccittini,Barcelona,8.077747210701755,0.05870413607747493,False,Left Foot,Open Play,1,0,2,Normal
+69269,José Antonio Reyes Calderón,Atlético Madrid,27.551043537405256,0.07072991785260359,False,Left Foot,Open Play,0,0,1,Normal

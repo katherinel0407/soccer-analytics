@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.020391683584815,0.05819901991147228,False,Right Foot,Open Play,0,0,2,Normal
-26.073166282597906,0.05900307330925783,False,Left Foot,Open Play,1,1,1,Normal
-12.278843593759149,0.06075612302177557,False,Head,Open Play,0,0,2,Normal
-28.66810073932349,0.07163103965955019,False,Left Foot,Open Play,0,0,1,Normal
-21.019038988498018,0.06625518961168536,False,Left Foot,Open Play,1,0,2,Normal
-15.538983235720412,0.06065400252207184,False,Left Foot,Open Play,0,0,3,Normal
-16.807736313971606,0.06302038708859628,False,Right Foot,Open Play,0,1,4,Normal
-20.45922774691166,0.05134928431509678,False,Right Foot,Open Play,0,0,1,Normal
-4.545327270945403,0.057036489811833915,False,Head,Open Play,0,0,4,Normal
-14.368368035375484,0.06003193145116419,False,Right Foot,Open Play,0,0,2,Normal
-20.470710783946895,0.054162950972168306,False,Right Foot,Open Play,0,0,1,Normal
-18.456706098326435,0.05481715121655103,False,Right Foot,Open Play,0,0,2,Normal
-13.535139452550908,0.06178456053511229,False,Right Foot,Open Play,0,0,3,Normal
-7.300684899377589,0.057706833455877585,False,Head,Open Play,0,1,2,Normal
-17.362315513778686,0.053376533810237145,False,Right Foot,Open Play,1,0,1,Volley
-29.20975864330276,0.07196780980014365,False,Right Foot,Open Play,0,1,2,Normal
-14.770578864756784,0.06209043047928599,False,Right Foot,Open Play,1,0,3,Half Volley
-17.511424842085233,0.05880662464358869,True,Right Foot,Open Play,1,0,2,Volley
-10.283968105745952,0.059572263249997315,False,Head,Open Play,0,1,4,Normal
-3.195309061734092,0.05568272061772183,True,Right Foot,Open Play,0,0,3,Volley
-9.841239759298626,0.05666073948685086,False,Right Foot,Open Play,0,0,2,Normal
-15.41752249876743,0.06172674042714754,True,Left Foot,Open Play,1,0,1,Overhead Kick
-22.487552112224222,0.06017370730497086,False,Left Foot,Open Play,0,0,3,Normal
-21.825672956406176,0.05152028710668625,False,Right Foot,Open Play,1,0,2,Half Volley
-12.876334882255895,0.060435223017853465,False,Left Foot,Open Play,0,0,1,Normal
-16.440194646049665,0.06344851557043832,False,Right Foot,Open Play,1,0,1,Volley
-35.12833614050059,0.05707100225951826,True,Left Foot,Open Play,0,0,0,Normal
-16.417368851311103,0.06299218757141842,False,Left Foot,Open Play,0,0,4,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+18245,Georginio Wijnaldum,Liverpool,25.020391683584815,0.05819901991147228,False,Right Foot,Open Play,0,0,2,Normal
+18245,Mohamed Salah,Liverpool,26.073166282597906,0.05900307330925783,False,Left Foot,Open Play,1,1,1,Normal
+18245,Roberto Firmino Barbosa de Oliveira,Liverpool,12.278843593759149,0.06075612302177557,False,Head,Open Play,0,0,2,Normal
+18245,Marcelo Vieira da Silva Júnior,Real Madrid,28.66810073932349,0.07163103965955019,False,Left Foot,Open Play,0,0,1,Normal
+18245,James Philip Milner,Liverpool,21.019038988498018,0.06625518961168536,False,Left Foot,Open Play,1,0,2,Normal
+18245,Mohamed Salah,Liverpool,15.538983235720412,0.06065400252207184,False,Left Foot,Open Play,0,0,3,Normal
+18245,Sadio Mané,Liverpool,16.807736313971606,0.06302038708859628,False,Right Foot,Open Play,0,1,4,Normal
+18245,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,20.45922774691166,0.05134928431509678,False,Right Foot,Open Play,0,0,1,Normal
+18245,Virgil van Dijk,Liverpool,4.545327270945403,0.057036489811833915,False,Head,Open Play,0,0,4,Normal
+18245,Roberto Firmino Barbosa de Oliveira,Liverpool,14.368368035375484,0.06003193145116419,False,Right Foot,Open Play,0,0,2,Normal
+18245,Trent Alexander-Arnold,Liverpool,20.470710783946895,0.054162950972168306,False,Right Foot,Open Play,0,0,1,Normal
+18245,Luka Modrić,Real Madrid,18.456706098326435,0.05481715121655103,False,Right Foot,Open Play,0,0,2,Normal
+18245,Karim Benzema,Real Madrid,13.535139452550908,0.06178456053511229,False,Right Foot,Open Play,0,0,3,Normal
+18245,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,7.300684899377589,0.057706833455877585,False,Head,Open Play,0,1,2,Normal
+18245,José Ignacio Fernández Iglesias,Real Madrid,17.362315513778686,0.053376533810237145,False,Right Foot,Open Play,1,0,1,Volley
+18245,Karim Benzema,Real Madrid,29.20975864330276,0.07196780980014365,False,Right Foot,Open Play,0,1,2,Normal
+18245,Francisco Román Alarcón Suárez,Real Madrid,14.770578864756784,0.06209043047928599,False,Right Foot,Open Play,1,0,3,Half Volley
+18245,Karim Benzema,Real Madrid,17.511424842085233,0.05880662464358869,True,Right Foot,Open Play,1,0,2,Volley
+18245,Dejan Lovren,Liverpool,10.283968105745952,0.059572263249997315,False,Head,Open Play,0,1,4,Normal
+18245,Sadio Mané,Liverpool,3.195309061734092,0.05568272061772183,True,Right Foot,Open Play,0,0,3,Volley
+18245,Francisco Román Alarcón Suárez,Real Madrid,9.841239759298626,0.05666073948685086,False,Right Foot,Open Play,0,0,2,Normal
+18245,Gareth Frank Bale,Real Madrid,15.41752249876743,0.06172674042714754,True,Left Foot,Open Play,1,0,1,Overhead Kick
+18245,Sadio Mané,Liverpool,22.487552112224222,0.06017370730497086,False,Left Foot,Open Play,0,0,3,Normal
+18245,Roberto Firmino Barbosa de Oliveira,Liverpool,21.825672956406176,0.05152028710668625,False,Right Foot,Open Play,1,0,2,Half Volley
+18245,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,12.876334882255895,0.060435223017853465,False,Left Foot,Open Play,0,0,1,Normal
+18245,Karim Benzema,Real Madrid,16.440194646049665,0.06344851557043832,False,Right Foot,Open Play,1,0,1,Volley
+18245,Gareth Frank Bale,Real Madrid,35.12833614050059,0.05707100225951826,True,Left Foot,Open Play,0,0,0,Normal
+18245,Adam David Lallana,Liverpool,16.417368851311103,0.06299218757141842,False,Left Foot,Open Play,0,0,4,Half Volley

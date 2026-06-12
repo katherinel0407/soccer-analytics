@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.770509831248418,0.0634726091730016,False,Left Foot,Open Play,1,1,2,Normal
-31.384709652950434,0.07044813106491132,False,Right Foot,Open Play,0,1,2,Half Volley
-20.33838735003344,0.061187439783176895,False,Right Foot,Open Play,1,0,3,Normal
-5.807753438292639,0.05717705566790399,True,Head,Open Play,0,0,2,Normal
-16.41493222648209,0.06175671106512969,True,Right Foot,Open Play,0,1,1,Normal
-26.653705183332388,0.05688149074913164,True,Right Foot,Open Play,0,0,2,Half Volley
-19.448650338776723,0.06497586669311627,False,Left Foot,Open Play,0,0,2,Normal
-33.16896139465328,0.05741233864681043,False,Left Foot,Open Play,0,0,1,Normal
-18.249657531033293,0.06457280773405687,False,Right Foot,Open Play,0,0,2,Normal
-24.191940806805896,0.06789985059001322,False,Right Foot,Open Play,0,0,2,Normal
-33.723137457834504,0.07523695507039445,False,Right Foot,Open Play,0,0,0,Normal
-31.300000000000004,0.0699434237432959,False,Right Foot,Open Play,0,0,2,Normal
-28.991378028648448,0.05729784491072716,False,Right Foot,Open Play,0,0,2,Normal
-20.90287061625747,0.06001075174274954,False,Right Foot,Open Play,0,1,4,Normal
-7.7155686763841365,0.058596991981171284,False,Left Foot,Open Play,1,0,3,Normal
-15.623699945915504,0.06297999759863217,False,Head,Open Play,0,1,3,Normal
-14.76787053031005,0.05862256016519264,False,Head,Open Play,0,0,1,Normal
-14.591093173576814,0.05944936483512718,True,Right Foot,Open Play,1,1,1,Normal
-17.88854381999831,0.0632951534541026,False,Right Foot,Open Play,1,0,2,Half Volley
-16.59457742758158,0.06352203159525015,False,Right Foot,Open Play,0,0,2,Normal
-16.73618833546038,0.05568380494194078,False,Right Foot,Open Play,0,1,2,Normal
-15.297058540778353,0.05779126485993714,False,Right Foot,Open Play,0,1,2,Overhead Kick
-20.86264604502506,0.06479391135211977,False,Right Foot,Open Play,0,0,1,Normal
-13.42609399639374,0.05263965943511987,False,Right Foot,Open Play,1,0,1,Half Volley
-9.91816515288993,0.05892690567337411,False,Head,Open Play,0,0,1,Normal
-15.026975743641833,0.061213269174202896,True,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879590,Andrea Belotti,Torino,16.770509831248418,0.0634726091730016,False,Left Foot,Open Play,1,1,2,Normal
+3879590,Afriyie Acquah,Torino,31.384709652950434,0.07044813106491132,False,Right Foot,Open Play,0,1,2,Half Volley
+3879590,Maximiliano Gastón López,Torino,20.33838735003344,0.061187439783176895,False,Right Foot,Open Play,1,0,3,Normal
+3879590,Diego Sebastián Laxalt Suárez,Genoa,5.807753438292639,0.05717705566790399,True,Head,Open Play,0,0,2,Normal
+3879590,Maximiliano Gastón López,Torino,16.41493222648209,0.06175671106512969,True,Right Foot,Open Play,0,1,1,Normal
+3879590,Davide Zappacosta,Torino,26.653705183332388,0.05688149074913164,True,Right Foot,Open Play,0,0,2,Half Volley
+3879590,Maximiliano Gastón López,Torino,19.448650338776723,0.06497586669311627,False,Left Foot,Open Play,0,0,2,Normal
+3879590,Alberto Facundo Costa,Genoa,33.16896139465328,0.05741233864681043,False,Left Foot,Open Play,0,0,1,Normal
+3879590,Andrea Belotti,Torino,18.249657531033293,0.06457280773405687,False,Right Foot,Open Play,0,0,2,Normal
+3879590,Cristian Molinaro,Torino,24.191940806805896,0.06789985059001322,False,Right Foot,Open Play,0,0,2,Normal
+3879590,Cristian Daniel Ansaldi,Genoa,33.723137457834504,0.07523695507039445,False,Right Foot,Open Play,0,0,0,Normal
+3879590,Afriyie Acquah,Torino,31.300000000000004,0.0699434237432959,False,Right Foot,Open Play,0,0,2,Normal
+3879590,Jules Olivier Ntcham,Genoa,28.991378028648448,0.05729784491072716,False,Right Foot,Open Play,0,0,2,Normal
+3879590,Afriyie Acquah,Torino,20.90287061625747,0.06001075174274954,False,Right Foot,Open Play,0,1,4,Normal
+3879590,Leonardo Pavoletti,Genoa,7.7155686763841365,0.058596991981171284,False,Left Foot,Open Play,1,0,3,Normal
+3879590,Ezequiel Muñoz,Genoa,15.623699945915504,0.06297999759863217,False,Head,Open Play,0,1,3,Normal
+3879590,Leonardo Pavoletti,Genoa,14.76787053031005,0.05862256016519264,False,Head,Open Play,0,0,1,Normal
+3879590,Leonardo Pavoletti,Genoa,14.591093173576814,0.05944936483512718,True,Right Foot,Open Play,1,1,1,Normal
+3879590,Andrea Belotti,Torino,17.88854381999831,0.0632951534541026,False,Right Foot,Open Play,1,0,2,Half Volley
+3879590,Daniele Baselli,Torino,16.59457742758158,0.06352203159525015,False,Right Foot,Open Play,0,0,2,Normal
+3879590,Marco Benassi,Torino,16.73618833546038,0.05568380494194078,False,Right Foot,Open Play,0,1,2,Normal
+3879590,Josef Alexander Martínez Mencia,Torino,15.297058540778353,0.05779126485993714,False,Right Foot,Open Play,0,1,2,Overhead Kick
+3879590,Diego Sebastián Laxalt Suárez,Genoa,20.86264604502506,0.06479391135211977,False,Right Foot,Open Play,0,0,1,Normal
+3879590,Maximiliano Gastón López,Torino,13.42609399639374,0.05263965943511987,False,Right Foot,Open Play,1,0,1,Half Volley
+3879590,Marco Benassi,Torino,9.91816515288993,0.05892690567337411,False,Head,Open Play,0,0,1,Normal
+3879590,Diego Sebastián Laxalt Suárez,Genoa,15.026975743641833,0.061213269174202896,True,Head,Open Play,0,0,3,Normal

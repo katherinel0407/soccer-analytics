@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.893628559937294,0.05568683764539724,False,Left Foot,Open Play,0,0,3,Normal
-44.32268042436062,0.08052232657954765,False,Right Foot,Free Kick,0,0,0,Normal
-27.663152387246107,0.0650648304490135,False,Left Foot,Open Play,1,0,0,Half Volley
-11.237882362794155,0.05375478147625764,False,Left Foot,Open Play,1,0,1,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-20.77137453323684,0.053996389756612376,True,Right Foot,Open Play,0,0,0,Normal
-31.70015772831422,0.06068255268261591,False,Right Foot,Free Kick,0,0,0,Normal
-23.627949551325866,0.054092569876746883,False,Left Foot,Open Play,1,0,2,Half Volley
-30.040306256761102,0.06622081880745087,False,Left Foot,Open Play,0,0,1,Normal
-35.10911562543266,0.050561211504845625,False,Left Foot,Open Play,1,0,1,Half Volley
-18.754466134763746,0.05942590426291715,False,Right Foot,Open Play,0,0,1,Normal
-22.262299971027257,0.06574756066958694,False,Right Foot,Open Play,0,0,1,Half Volley
-18.98420396013486,0.06444477584243605,False,Left Foot,Open Play,1,0,1,Half Volley
-24.35775030662726,0.06042836377542347,False,Left Foot,Open Play,1,0,1,Normal
-26.65070355544108,0.055039320242970535,False,Right Foot,Open Play,1,0,0,Normal
-15.201315732527894,0.06103253986622065,False,Left Foot,Open Play,1,0,3,Normal
-10.017983829094554,0.05896829579044792,False,Head,Open Play,0,1,5,Normal
-27.220947815974373,0.06348330880489324,False,Right Foot,Open Play,1,0,1,Normal
-10.825894882179481,0.05976285670708632,False,Left Foot,Open Play,1,0,1,Volley
-20.60218435020908,0.05614002438987755,False,Right Foot,Open Play,0,1,2,Half Volley
-20.135789033459805,0.06573080653294038,True,Right Foot,Open Play,1,1,2,Half Volley
-28.420063335608532,0.07147955656378469,False,Right Foot,Open Play,0,0,2,Normal
-34.24733566279281,0.06894197250565436,False,Right Foot,Free Kick,0,0,0,Normal
-28.117787964205146,0.06641987826805598,False,Left Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825577,Youssef El-Arabi,Granada,25.893628559937294,0.05568683764539724,False,Left Foot,Open Play,0,0,3,Normal
+3825577,Rubén Salvador Pérez Del Mármol,Granada,44.32268042436062,0.08052232657954765,False,Right Foot,Free Kick,0,0,0,Normal
+3825577,Mehdi Lacen,Getafe,27.663152387246107,0.0650648304490135,False,Left Foot,Open Play,1,0,0,Half Volley
+3825577,Rubén Rochina Naixes,Granada,11.237882362794155,0.05375478147625764,False,Left Foot,Open Play,1,0,1,Normal
+3825577,Youssef El-Arabi,Granada,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+3825577,Isaac Ajayi Success,Granada,20.77137453323684,0.053996389756612376,True,Right Foot,Open Play,0,0,0,Normal
+3825577,Pedro León Sánchez Gil,Getafe,31.70015772831422,0.06068255268261591,False,Right Foot,Free Kick,0,0,0,Normal
+3825577,Damián Nicolás Suárez Suárez,Getafe,23.627949551325866,0.054092569876746883,False,Left Foot,Open Play,1,0,2,Half Volley
+3825577,Javier Márquez Moreno,Granada,30.040306256761102,0.06622081880745087,False,Left Foot,Open Play,0,0,1,Normal
+3825577,Rubén Rochina Naixes,Granada,35.10911562543266,0.050561211504845625,False,Left Foot,Open Play,1,0,1,Half Volley
+3825577,Youssef El-Arabi,Granada,18.754466134763746,0.05942590426291715,False,Right Foot,Open Play,0,0,1,Normal
+3825577,Emiliano Buendía,Getafe,22.262299971027257,0.06574756066958694,False,Right Foot,Open Play,0,0,1,Half Volley
+3825577,Emiliano Buendía,Getafe,18.98420396013486,0.06444477584243605,False,Left Foot,Open Play,1,0,1,Half Volley
+3825577,Damián Nicolás Suárez Suárez,Getafe,24.35775030662726,0.06042836377542347,False,Left Foot,Open Play,1,0,1,Normal
+3825577,Álvaro Medrán Just,Getafe,26.65070355544108,0.055039320242970535,False,Right Foot,Open Play,1,0,0,Normal
+3825577,Youssef El-Arabi,Granada,15.201315732527894,0.06103253986622065,False,Left Foot,Open Play,1,0,3,Normal
+3825577,Emiliano Daniel Velázquez Maldonado,Getafe,10.017983829094554,0.05896829579044792,False,Head,Open Play,0,1,5,Normal
+3825577,Álvaro Medrán Just,Getafe,27.220947815974373,0.06348330880489324,False,Right Foot,Open Play,1,0,1,Normal
+3825577,Ángel Lafita Castillo,Getafe,10.825894882179481,0.05976285670708632,False,Left Foot,Open Play,1,0,1,Volley
+3825577,Víctor Rodríguez Romero,Getafe,20.60218435020908,0.05614002438987755,False,Right Foot,Open Play,0,1,2,Half Volley
+3825577,Ángel Lafita Castillo,Getafe,20.135789033459805,0.06573080653294038,True,Right Foot,Open Play,1,1,2,Half Volley
+3825577,Wanderson Maciel Sousa Campos,Getafe,28.420063335608532,0.07147955656378469,False,Right Foot,Open Play,0,0,2,Normal
+3825577,Ángel Lafita Castillo,Getafe,34.24733566279281,0.06894197250565436,False,Right Foot,Free Kick,0,0,0,Normal
+3825577,Mehdi Lacen,Getafe,28.117787964205146,0.06641987826805598,False,Left Foot,Open Play,1,0,1,Volley

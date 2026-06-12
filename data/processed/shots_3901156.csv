@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.742156599601476,0.05293830587369405,False,Right Foot,Open Play,1,0,0,Normal
-10.187246929372039,0.05992910439443034,False,Left Foot,Open Play,0,1,1,Half Volley
-11.305308487608825,0.058064509599343665,False,Head,Open Play,0,0,2,Normal
-18.847280971004814,0.06448480270043593,False,Left Foot,Open Play,0,0,1,Volley
-23.941595602632667,0.06360767825302312,False,Right Foot,Open Play,1,0,1,Half Volley
-24.613004692641645,0.06563426240772,True,Left Foot,Open Play,0,1,2,Volley
-20.903827400741715,0.06018689450045528,False,Left Foot,Open Play,0,0,2,Normal
-7.409453421137088,0.05836138059346031,False,Left Foot,Open Play,1,1,4,Volley
-2.8600699292150176,0.05524739433108614,True,Left Foot,Open Play,1,0,1,Normal
-31.154132952146174,0.06518903033605725,False,Right Foot,Open Play,0,0,2,Normal
-6.789698078707185,0.05708480749741754,False,Head,Open Play,0,0,3,Normal
-28.3171326232018,0.06878479955424832,False,Left Foot,Open Play,0,0,2,Half Volley
-7.00927956355002,0.058011610842969324,False,Head,Open Play,0,1,3,Normal
-18.925643978475346,0.0646834435373172,False,Left Foot,Open Play,0,0,3,Half Volley
-27.45906043549196,0.060942769417336826,False,Left Foot,Open Play,0,0,2,Normal
-27.111805546661778,0.05250080923134934,False,Right Foot,Open Play,0,0,2,Half Volley
-17.05315220127939,0.05890270040704881,False,Right Foot,Open Play,1,0,2,Normal
-12.000416659433121,0.059555627998902204,True,Left Foot,Penalty,0,0,0,Normal
-23.905857022913864,0.0554287018802417,False,Right Foot,Open Play,0,1,1,Normal
-29.200684923473972,0.06739415509880262,False,Right Foot,Open Play,0,0,2,Normal
-21.518828964420905,0.06337578657365385,False,Right Foot,Open Play,1,0,2,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-15.48063306199072,0.059172864360297145,False,Right Foot,Open Play,1,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901156,Gilles Sunu,Angers,23.742156599601476,0.05293830587369405,False,Right Foot,Open Play,1,0,0,Normal
+3901156,Sloan Privat,Guingamp,10.187246929372039,0.05992910439443034,False,Left Foot,Open Play,0,1,1,Half Volley
+3901156,Jimmy Briand,Guingamp,11.305308487608825,0.058064509599343665,False,Head,Open Play,0,0,2,Normal
+3901156,Gilles Sunu,Angers,18.847280971004814,0.06448480270043593,False,Left Foot,Open Play,0,0,1,Volley
+3901156,Billy Ketkeophomphone,Angers,23.941595602632667,0.06360767825302312,False,Right Foot,Open Play,1,0,1,Half Volley
+3901156,Pierrick Capelle,Angers,24.613004692641645,0.06563426240772,True,Left Foot,Open Play,0,1,2,Volley
+3901156,Thibault Giresse,Guingamp,20.903827400741715,0.06018689450045528,False,Left Foot,Open Play,0,0,2,Normal
+3901156,Sloan Privat,Guingamp,7.409453421137088,0.05836138059346031,False,Left Foot,Open Play,1,1,4,Volley
+3901156,Sloan Privat,Guingamp,2.8600699292150176,0.05524739433108614,True,Left Foot,Open Play,1,0,1,Normal
+3901156,Billy Ketkeophomphone,Angers,31.154132952146174,0.06518903033605725,False,Right Foot,Open Play,0,0,2,Normal
+3901156,Sloan Privat,Guingamp,6.789698078707185,0.05708480749741754,False,Head,Open Play,0,0,3,Normal
+3901156,Ludovic Blas,Guingamp,28.3171326232018,0.06878479955424832,False,Left Foot,Open Play,0,0,2,Half Volley
+3901156,Sloan Privat,Guingamp,7.00927956355002,0.058011610842969324,False,Head,Open Play,0,1,3,Normal
+3901156,Jimmy Briand,Guingamp,18.925643978475346,0.0646834435373172,False,Left Foot,Open Play,0,0,3,Half Volley
+3901156,Thibault Giresse,Guingamp,27.45906043549196,0.060942769417336826,False,Left Foot,Open Play,0,0,2,Normal
+3901156,Mohamed Lamine Yattara,Angers,27.111805546661778,0.05250080923134934,False,Right Foot,Open Play,0,0,2,Half Volley
+3901156,Billy Ketkeophomphone,Angers,17.05315220127939,0.05890270040704881,False,Right Foot,Open Play,1,0,2,Normal
+3901156,Thibault Giresse,Guingamp,12.000416659433121,0.059555627998902204,True,Left Foot,Penalty,0,0,0,Normal
+3901156,Yannis Salibur,Guingamp,23.905857022913864,0.0554287018802417,False,Right Foot,Open Play,0,1,1,Normal
+3901156,Yannis Salibur,Guingamp,29.200684923473972,0.06739415509880262,False,Right Foot,Open Play,0,0,2,Normal
+3901156,Thibault Giresse,Guingamp,21.518828964420905,0.06337578657365385,False,Right Foot,Open Play,1,0,2,Half Volley
+3901156,Billy Ketkeophomphone,Angers,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3901156,Brou Benjamin Angoua,Guingamp,15.48063306199072,0.059172864360297145,False,Right Foot,Open Play,1,1,3,Normal

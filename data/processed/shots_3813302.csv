@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.954078801814886,0.05410561357941567,True,Right Foot,Open Play,0,0,1,Normal
-28.00178565734693,0.06455996000206955,False,Right Foot,Open Play,0,0,1,Normal
-7.072481884034773,0.05587381373652859,False,Head,Open Play,0,0,3,Diving Header
-30.9278191924358,0.059973379545996255,False,Right Foot,Open Play,0,0,2,Normal
-16.33707440149551,0.060995383833154324,False,Right Foot,Open Play,1,0,1,Normal
-19.52434377898525,0.06505517092046788,False,Left Foot,Open Play,1,0,0,Normal
-26.95793018760899,0.059811480601749865,False,Left Foot,Open Play,0,0,1,Half Volley
-25.083859352181033,0.055949103738400056,False,Left Foot,Open Play,0,0,2,Normal
-19.469976887505545,0.06533109242927698,False,Right Foot,Open Play,0,0,3,Normal
-13.817742217887844,0.05963029595066704,False,Left Foot,Open Play,0,0,3,Half Volley
-5.235456045083365,0.05736236990659207,True,Head,Open Play,0,0,3,Normal
-18.033579788827293,0.05837709464866849,False,Right Foot,Open Play,0,0,2,Normal
-17.853010950537165,0.052887017107616396,False,Right Foot,Open Play,0,0,1,Normal
-29.82834222681508,0.057376859982667734,False,Left Foot,Open Play,0,0,3,Normal
-12.847178678604891,0.061393902892874275,True,Right Foot,Open Play,1,0,1,Normal
-31.152046481732146,0.061757137550888096,False,Left Foot,Free Kick,0,0,0,Normal
-8.401190391843286,0.05849869738074923,False,Right Foot,Open Play,1,0,2,Normal
-15.205262246998576,0.06273812475220697,False,Left Foot,Open Play,0,0,2,Normal
-14.413882197381795,0.06226242348784099,False,Right Foot,Open Play,0,0,1,Normal
-18.428781837115544,0.054289232569350504,False,Right Foot,Open Play,0,0,1,Normal
-29.931254567759098,0.06934270958897056,False,Left Foot,Open Play,1,1,2,Half Volley
-24.904015740438332,0.06146246081009433,False,Right Foot,Open Play,1,0,1,Volley
-12.77810627597063,0.055751660520333944,False,Right Foot,Open Play,0,1,1,Half Volley
-22.343231637343774,0.05649160565720008,False,Right Foot,Open Play,0,0,1,Normal
-35.02584759859495,0.07481029204700623,False,Left Foot,Free Kick,0,0,0,Normal
-15.29575104399911,0.06274525802526056,False,Left Foot,Open Play,1,0,2,Half Volley
-11.386395390991837,0.055104011216252594,True,Right Foot,Open Play,0,0,0,Normal
-6.140032573203495,0.057419610294876126,True,Left Foot,Open Play,0,0,2,Half Volley
-30.627601930285046,0.07080178195967791,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813302,Deshorn Brown,NorthEast United,11.954078801814886,0.05410561357941567,True,Right Foot,Open Play,0,0,1,Normal
+3813302,Deshorn Brown,NorthEast United,28.00178565734693,0.06455996000206955,False,Right Foot,Open Play,0,0,1,Normal
+3813302,Jordan Murray,Jamshedpur,7.072481884034773,0.05587381373652859,False,Head,Open Play,0,0,3,Diving Header
+3813302,Hernán Daniel Santana Trujillo,NorthEast United,30.9278191924358,0.059973379545996255,False,Right Foot,Open Play,0,0,2,Normal
+3813302,Jordan Murray,Jamshedpur,16.33707440149551,0.060995383833154324,False,Right Foot,Open Play,1,0,1,Normal
+3813302,Boris Singh Thangjam,Jamshedpur,19.52434377898525,0.06505517092046788,False,Left Foot,Open Play,1,0,0,Normal
+3813302,Greg Stewart,Jamshedpur,26.95793018760899,0.059811480601749865,False,Left Foot,Open Play,0,0,1,Half Volley
+3813302,Imran Khan,NorthEast United,25.083859352181033,0.055949103738400056,False,Left Foot,Open Play,0,0,2,Normal
+3813302,Greg Stewart,Jamshedpur,19.469976887505545,0.06533109242927698,False,Right Foot,Open Play,0,0,3,Normal
+3813302,Greg Stewart,Jamshedpur,13.817742217887844,0.05963029595066704,False,Left Foot,Open Play,0,0,3,Half Volley
+3813302,Jordan Murray,Jamshedpur,5.235456045083365,0.05736236990659207,True,Head,Open Play,0,0,3,Normal
+3813302,Seminlen Doungel,Jamshedpur,18.033579788827293,0.05837709464866849,False,Right Foot,Open Play,0,0,2,Normal
+3813302,Jordan Murray,Jamshedpur,17.853010950537165,0.052887017107616396,False,Right Foot,Open Play,0,0,1,Normal
+3813302,Greg Stewart,Jamshedpur,29.82834222681508,0.057376859982667734,False,Left Foot,Open Play,0,0,3,Normal
+3813302,Boris Singh Thangjam,Jamshedpur,12.847178678604891,0.061393902892874275,True,Right Foot,Open Play,1,0,1,Normal
+3813302,Greg Stewart,Jamshedpur,31.152046481732146,0.061757137550888096,False,Left Foot,Free Kick,0,0,0,Normal
+3813302,Jordan Murray,Jamshedpur,8.401190391843286,0.05849869738074923,False,Right Foot,Open Play,1,0,2,Normal
+3813302,Boris Singh Thangjam,Jamshedpur,15.205262246998576,0.06273812475220697,False,Left Foot,Open Play,0,0,2,Normal
+3813302,Boris Singh Thangjam,Jamshedpur,14.413882197381795,0.06226242348784099,False,Right Foot,Open Play,0,0,1,Normal
+3813302,Seminlen Doungel,Jamshedpur,18.428781837115544,0.054289232569350504,False,Right Foot,Open Play,0,0,1,Normal
+3813302,Suhair Vadakkepeedika,NorthEast United,29.931254567759098,0.06934270958897056,False,Left Foot,Open Play,1,1,2,Half Volley
+3813302,Mohammad Mobashir Rahman,Jamshedpur,24.904015740438332,0.06146246081009433,False,Right Foot,Open Play,1,0,1,Volley
+3813302,Jordan Murray,Jamshedpur,12.77810627597063,0.055751660520333944,False,Right Foot,Open Play,0,1,1,Half Volley
+3813302,Mohammad Mobashir Rahman,Jamshedpur,22.343231637343774,0.05649160565720008,False,Right Foot,Open Play,0,0,1,Normal
+3813302,Greg Stewart,Jamshedpur,35.02584759859495,0.07481029204700623,False,Left Foot,Free Kick,0,0,0,Normal
+3813302,Rochharzela Rochharzela,NorthEast United,15.29575104399911,0.06274525802526056,False,Left Foot,Open Play,1,0,2,Half Volley
+3813302,Deshorn Brown,NorthEast United,11.386395390991837,0.055104011216252594,True,Right Foot,Open Play,0,0,0,Normal
+3813302,Ishan Pandita,Jamshedpur,6.140032573203495,0.057419610294876126,True,Left Foot,Open Play,0,0,2,Half Volley
+3813302,Hernán Daniel Santana Trujillo,NorthEast United,30.627601930285046,0.07080178195967791,False,Right Foot,Open Play,1,0,2,Half Volley

@@ -1,34 +1,34 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.296824596572472,0.05642574438252691,False,Left Foot,Open Play,1,0,3,Half Volley
-18.117670931993437,0.05406840086482954,False,Right Foot,Open Play,1,0,2,Half Volley
-17.904468715937934,0.06197824339095666,False,Right Foot,Open Play,0,0,3,Volley
-34.1353189526625,0.07602004534239801,False,Right Foot,Open Play,0,0,3,Normal
-7.376313442364005,0.058227619466626246,False,Head,Open Play,0,0,3,Normal
-15.772444325468392,0.055258646786973495,True,Right Foot,Open Play,1,0,1,Lob
-21.200000000000003,0.05731783139200896,False,Right Foot,Open Play,1,0,1,Half Volley
-11.700000000000003,0.05946616036314761,True,Right Foot,Penalty,0,0,0,Normal
-15.016324450410627,0.06113701674909488,False,Right Foot,Open Play,1,0,2,Normal
-9.476286192385706,0.05528701559735927,True,Right Foot,Open Play,1,0,2,Normal
-31.956532978406784,0.06998381615499355,False,Left Foot,Open Play,0,0,1,Normal
-14.512063946937385,0.062327299329162,False,Head,Open Play,0,0,2,Diving Header
-29.553003231482247,0.07184429757239372,False,Right Foot,Open Play,1,0,0,Normal
-20.021238722916216,0.0653600871015123,False,Right Foot,Open Play,0,0,2,Normal
-18.24636950190366,0.06164453318362961,False,Right Foot,Open Play,0,0,2,Normal
-12.034118164618457,0.05492053005232513,False,Head,Open Play,0,0,2,Normal
-10.770329614269007,0.060095212670544365,False,Right Foot,Open Play,1,0,3,Half Volley
-26.130633363927483,0.057246342992348216,False,Left Foot,Open Play,1,0,0,Normal
-21.418916872708568,0.06620495914762048,False,Right Foot,Open Play,0,0,2,Half Volley
-8.547514258543242,0.05904125184081578,False,Right Foot,Open Play,0,0,2,Normal
-34.28352373954579,0.06719847615961938,False,Right Foot,Free Kick,0,0,0,Normal
-13.038404810405298,0.05265257182502167,False,Right Foot,Open Play,0,0,1,Normal
-21.999318171252497,0.061387318501029686,False,Right Foot,Open Play,1,0,0,Normal
-15.31698403733581,0.056904662399514715,False,Right Foot,Open Play,1,0,1,Normal
-12.593649193144929,0.05789440735467621,False,Right Foot,Open Play,1,0,2,Normal
-7.805767098754609,0.05797136368699208,False,Right Foot,Open Play,1,0,2,Normal
-23.20861908860585,0.06696449336043683,False,Right Foot,Open Play,0,0,3,Normal
-27.947450688747985,0.060392787222528825,False,Left Foot,Open Play,0,0,1,Normal
-11.360017605620166,0.057991900338533575,False,Right Foot,Open Play,1,0,1,Volley
-18.166452598127126,0.06452052329658307,False,Left Foot,Open Play,0,0,1,Normal
-18.741664813991314,0.06456343417231468,False,Left Foot,Open Play,1,0,1,Volley
-12.340583454602134,0.059353605743958794,False,Head,Open Play,0,0,2,Normal
-8.45281018360166,0.05656484728780577,True,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68322,Jonathan Sesma González,Cádiz,6.296824596572472,0.05642574438252691,False,Left Foot,Open Play,1,0,3,Half Volley
+68322,Enrique Fernando Ortiz Moruno,Cádiz,18.117670931993437,0.05406840086482954,False,Right Foot,Open Play,1,0,2,Half Volley
+68322,Samuel Eto''o Fils,Barcelona,17.904468715937934,0.06197824339095666,False,Right Foot,Open Play,0,0,3,Volley
+68322,Anderson Luís de Souza,Barcelona,34.1353189526625,0.07602004534239801,False,Right Foot,Open Play,0,0,3,Normal
+68322,Matías Nicolás Pavoni,Cádiz,7.376313442364005,0.058227619466626246,False,Head,Open Play,0,0,3,Normal
+68322,Ludovic Giuly,Barcelona,15.772444325468392,0.055258646786973495,True,Right Foot,Open Play,1,0,1,Lob
+68322,Ludovic Giuly,Barcelona,21.200000000000003,0.05731783139200896,False,Right Foot,Open Play,1,0,1,Half Volley
+68322,Samuel Eto''o Fils,Barcelona,11.700000000000003,0.05946616036314761,True,Right Foot,Penalty,0,0,0,Normal
+68322,Samuel Eto''o Fils,Barcelona,15.016324450410627,0.06113701674909488,False,Right Foot,Open Play,1,0,2,Normal
+68322,Samuel Eto''o Fils,Barcelona,9.476286192385706,0.05528701559735927,True,Right Foot,Open Play,1,0,2,Normal
+68322,Jonathan Sesma González,Cádiz,31.956532978406784,0.06998381615499355,False,Left Foot,Open Play,0,0,1,Normal
+68322,Oliverio Jesús Alvarez González,Cádiz,14.512063946937385,0.062327299329162,False,Head,Open Play,0,0,2,Diving Header
+68322,Enrique Fernando Ortiz Moruno,Cádiz,29.553003231482247,0.07184429757239372,False,Right Foot,Open Play,1,0,0,Normal
+68322,Samuel Eto''o Fils,Barcelona,20.021238722916216,0.0653600871015123,False,Right Foot,Open Play,0,0,2,Normal
+68322,Fabián Larry Estoyanoff Poggio,Cádiz,18.24636950190366,0.06164453318362961,False,Right Foot,Open Play,0,0,2,Normal
+68322,Enrique Fernando Ortiz Moruno,Cádiz,12.034118164618457,0.05492053005232513,False,Head,Open Play,0,0,2,Normal
+68322,Lionel Andrés Messi Cuccittini,Barcelona,10.770329614269007,0.060095212670544365,False,Right Foot,Open Play,1,0,3,Half Volley
+68322,Oleguer Presas Renom,Barcelona,26.130633363927483,0.057246342992348216,False,Left Foot,Open Play,1,0,0,Normal
+68322,Fabián Larry Estoyanoff Poggio,Cádiz,21.418916872708568,0.06620495914762048,False,Right Foot,Open Play,0,0,2,Half Volley
+68322,Lionel Andrés Messi Cuccittini,Barcelona,8.547514258543242,0.05904125184081578,False,Right Foot,Open Play,0,0,2,Normal
+68322,Anderson Luís de Souza,Barcelona,34.28352373954579,0.06719847615961938,False,Right Foot,Free Kick,0,0,0,Normal
+68322,Anderson Luís de Souza,Barcelona,13.038404810405298,0.05265257182502167,False,Right Foot,Open Play,0,0,1,Normal
+68322,Andrés Iniesta Luján,Barcelona,21.999318171252497,0.061387318501029686,False,Right Foot,Open Play,1,0,0,Normal
+68322,Henrik Larsson,Barcelona,15.31698403733581,0.056904662399514715,False,Right Foot,Open Play,1,0,1,Normal
+68322,Oleguer Presas Renom,Barcelona,12.593649193144929,0.05789440735467621,False,Right Foot,Open Play,1,0,2,Normal
+68322,Henrik Larsson,Barcelona,7.805767098754609,0.05797136368699208,False,Right Foot,Open Play,1,0,2,Normal
+68322,Anderson Luís de Souza,Barcelona,23.20861908860585,0.06696449336043683,False,Right Foot,Open Play,0,0,3,Normal
+68322,Thiago Motta,Barcelona,27.947450688747985,0.060392787222528825,False,Left Foot,Open Play,0,0,1,Normal
+68322,Carles Puyol i Saforcada,Barcelona,11.360017605620166,0.057991900338533575,False,Right Foot,Open Play,1,0,1,Volley
+68322,Thiago Motta,Barcelona,18.166452598127126,0.06452052329658307,False,Left Foot,Open Play,0,0,1,Normal
+68322,Jonathan Sesma González,Cádiz,18.741664813991314,0.06456343417231468,False,Left Foot,Open Play,1,0,1,Volley
+68322,Nenad Mirosavljević,Cádiz,12.340583454602134,0.059353605743958794,False,Head,Open Play,0,0,2,Normal
+68322,Nenad Mirosavljević,Cádiz,8.45281018360166,0.05656484728780577,True,Right Foot,Open Play,0,0,3,Normal

@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-70.49858154601411,0.07340985481547542,False,Right Foot,Open Play,0,0,0,Normal
-15.2029602380589,0.06251519295595652,False,Right Foot,Open Play,0,0,3,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-6.894925670375279,0.05807399574904411,True,Right Foot,Open Play,0,0,1,Volley
-8.300602387778854,0.055830308829864436,False,Right Foot,Open Play,0,0,3,Normal
-19.647391684394144,0.06530176573640882,True,Left Foot,Open Play,0,0,2,Normal
-25.9433999313891,0.055917575250784876,False,Left Foot,Open Play,0,0,1,Normal
-19.312690128513943,0.0630716687925025,False,Right Foot,Open Play,0,0,3,Normal
-7.518643494673753,0.05708763058042826,True,Left Foot,Open Play,0,0,4,Half Volley
-17.47226373427324,0.05967525805574444,False,Left Foot,Open Play,0,0,2,Normal
-13.150285168010614,0.06116331893322857,False,Left Foot,Open Play,0,0,2,Half Volley
-14.866068747318511,0.05665405739955197,False,Right Foot,Open Play,0,0,2,Normal
-19.163767896736804,0.06470951490792362,False,Left Foot,Open Play,1,0,1,Lob
-22.334278586961346,0.06719190971501783,False,Right Foot,Open Play,0,0,1,Normal
-14.937536610833792,0.0625334511859574,False,Head,Open Play,0,0,1,Normal
-11.95491530710277,0.05803879576481461,True,Head,Open Play,0,1,2,Normal
-32.697400508297285,0.0734029141773434,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303707,Marc Bartra Aregall,Real Betis,70.49858154601411,0.07340985481547542,False,Right Foot,Open Play,0,0,0,Normal
+303707,Nabil Fekir,Real Betis,15.2029602380589,0.06251519295595652,False,Right Foot,Open Play,0,0,3,Normal
+303707,Sergio Canales Madrazo,Real Betis,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+303707,Frenkie de Jong,Barcelona,6.894925670375279,0.05807399574904411,True,Right Foot,Open Play,0,0,1,Volley
+303707,Lionel Andrés Messi Cuccittini,Barcelona,8.300602387778854,0.055830308829864436,False,Right Foot,Open Play,0,0,3,Normal
+303707,Nabil Fekir,Real Betis,19.647391684394144,0.06530176573640882,True,Left Foot,Open Play,0,0,2,Normal
+303707,Carles Aleña Castillo,Real Betis,25.9433999313891,0.055917575250784876,False,Left Foot,Open Play,0,0,1,Normal
+303707,Nabil Fekir,Real Betis,19.312690128513943,0.0630716687925025,False,Right Foot,Open Play,0,0,3,Normal
+303707,Sergio Busquets i Burgos,Barcelona,7.518643494673753,0.05708763058042826,True,Left Foot,Open Play,0,0,4,Half Volley
+303707,Lionel Andrés Messi Cuccittini,Barcelona,17.47226373427324,0.05967525805574444,False,Left Foot,Open Play,0,0,2,Normal
+303707,Héctor Junior Firpo Adames,Barcelona,13.150285168010614,0.06116331893322857,False,Left Foot,Open Play,0,0,2,Half Volley
+303707,Lionel Andrés Messi Cuccittini,Barcelona,14.866068747318511,0.05665405739955197,False,Right Foot,Open Play,0,0,2,Normal
+303707,Lionel Andrés Messi Cuccittini,Barcelona,19.163767896736804,0.06470951490792362,False,Left Foot,Open Play,1,0,1,Lob
+303707,Arthur Henrique Ramos de Oliveira Melo,Barcelona,22.334278586961346,0.06719190971501783,False,Right Foot,Open Play,0,0,1,Normal
+303707,Clément Lenglet,Barcelona,14.937536610833792,0.0625334511859574,False,Head,Open Play,0,0,1,Normal
+303707,Clément Lenglet,Barcelona,11.95491530710277,0.05803879576481461,True,Head,Open Play,0,1,2,Normal
+303707,Lorenzo Jesús Morón García,Real Betis,32.697400508297285,0.0734029141773434,False,Right Foot,Open Play,0,0,0,Normal

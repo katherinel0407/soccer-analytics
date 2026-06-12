@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.686967917994114,0.07319153152176482,False,Right Foot,Open Play,0,1,3,Normal
-21.503488089144984,0.062004350478897824,False,Left Foot,Open Play,0,0,2,Normal
-58.01939330947886,0.04816805348559588,False,Right Foot,Open Play,0,0,1,Normal
-22.86153975566825,0.05181129836168681,False,Right Foot,Open Play,1,0,0,Normal
-18.16039647144302,0.05362315417272818,False,Right Foot,Open Play,0,0,2,Normal
-32.981964768642875,0.05575154249207125,False,Right Foot,Free Kick,0,0,0,Normal
-8.052949770115292,0.05655470337280306,True,Left Foot,Open Play,1,1,1,Normal
-10.191172650877817,0.059869562768562465,False,Head,Open Play,0,0,1,Diving Header
-14.261837188805657,0.062015350147155285,False,Left Foot,Open Play,0,0,5,Normal
-9.323089616645328,0.05697248757012723,True,Head,Open Play,0,0,5,Normal
-28.058510295452255,0.0578812915135297,False,Right Foot,Open Play,1,0,3,Half Volley
-8.658521813797094,0.058797766541547336,False,Head,Open Play,0,1,3,Normal
-6.8709533545207595,0.05809393634791695,False,Left Foot,Open Play,1,0,3,Half Volley
-24.38216561341507,0.06093971376382978,False,Right Foot,Open Play,0,0,3,Normal
-9.972462083156797,0.0553219628198244,False,Right Foot,Open Play,1,0,2,Volley
-32.09143187830671,0.07418868507025726,False,Left Foot,Free Kick,0,0,0,Normal
-15.142654985173504,0.06238084149286058,True,Right Foot,Open Play,0,1,3,Normal
-24.79132912935488,0.06015448230883511,False,Left Foot,Free Kick,0,0,0,Normal
-23.3420221917468,0.0678704637238499,False,Right Foot,Open Play,0,0,2,Normal
-11.473883387938015,0.0538164152003759,False,Right Foot,Open Play,1,0,2,Volley
-30.974344222275306,0.07344770437960262,False,Left Foot,Open Play,0,0,0,Normal
-11.853269591129697,0.060799404582035775,False,Left Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+266669,Ibai Gómez Pérez,Deportivo Alavés,30.686967917994114,0.07319153152176482,False,Right Foot,Open Play,0,1,3,Normal
+266669,Ivan Rakitić,Barcelona,21.503488089144984,0.062004350478897824,False,Left Foot,Open Play,0,0,2,Normal
+266669,Edgar Antonio Méndez Ortega,Deportivo Alavés,58.01939330947886,0.04816805348559588,False,Right Foot,Open Play,0,0,1,Normal
+266669,Aleix Vidal Parreu,Barcelona,22.86153975566825,0.05181129836168681,False,Right Foot,Open Play,1,0,0,Normal
+266669,Aleix Vidal Parreu,Barcelona,18.16039647144302,0.05362315417272818,False,Right Foot,Open Play,0,0,2,Normal
+266669,Neymar da Silva Santos Junior,Barcelona,32.981964768642875,0.05575154249207125,False,Right Foot,Free Kick,0,0,0,Normal
+266669,Deyverson Brum Silva Acosta,Deportivo Alavés,8.052949770115292,0.05655470337280306,True,Left Foot,Open Play,1,1,1,Normal
+266669,Neymar da Silva Santos Junior,Barcelona,10.191172650877817,0.059869562768562465,False,Head,Open Play,0,0,1,Diving Header
+266669,Ivan Rakitić,Barcelona,14.261837188805657,0.062015350147155285,False,Left Foot,Open Play,0,0,5,Normal
+266669,Jérémy Mathieu,Barcelona,9.323089616645328,0.05697248757012723,True,Head,Open Play,0,0,5,Normal
+266669,Ibai Gómez Pérez,Deportivo Alavés,28.058510295452255,0.0578812915135297,False,Right Foot,Open Play,1,0,3,Half Volley
+266669,Jérémy Mathieu,Barcelona,8.658521813797094,0.058797766541547336,False,Head,Open Play,0,1,3,Normal
+266669,Jérémy Mathieu,Barcelona,6.8709533545207595,0.05809393634791695,False,Left Foot,Open Play,1,0,3,Half Volley
+266669,Neymar da Silva Santos Junior,Barcelona,24.38216561341507,0.06093971376382978,False,Right Foot,Open Play,0,0,3,Normal
+266669,Francisco Alcácer García,Barcelona,9.972462083156797,0.0553219628198244,False,Right Foot,Open Play,1,0,2,Volley
+266669,Lionel Andrés Messi Cuccittini,Barcelona,32.09143187830671,0.07418868507025726,False,Left Foot,Free Kick,0,0,0,Normal
+266669,Ibai Gómez Pérez,Deportivo Alavés,15.142654985173504,0.06238084149286058,True,Right Foot,Open Play,0,1,3,Normal
+266669,Lionel Andrés Messi Cuccittini,Barcelona,24.79132912935488,0.06015448230883511,False,Left Foot,Free Kick,0,0,0,Normal
+266669,Andrés Iniesta Luján,Barcelona,23.3420221917468,0.0678704637238499,False,Right Foot,Open Play,0,0,2,Normal
+266669,Javier Alejandro Mascherano,Barcelona,11.473883387938015,0.0538164152003759,False,Right Foot,Open Play,1,0,2,Volley
+266669,Lucas Digne,Barcelona,30.974344222275306,0.07344770437960262,False,Left Foot,Open Play,0,0,0,Normal
+266669,Lionel Andrés Messi Cuccittini,Barcelona,11.853269591129697,0.060799404582035775,False,Left Foot,Open Play,1,0,3,Normal

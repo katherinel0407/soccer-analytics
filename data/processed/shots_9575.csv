@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.39422916814903,0.05814808497156513,False,Right Foot,Open Play,1,1,2,Normal
-21.784857125994655,0.058775309074655384,False,Left Foot,Open Play,0,0,3,Normal
-25.07369139157615,0.06904359067846035,False,Left Foot,Free Kick,0,0,0,Normal
-11.526057435220427,0.05524145360140941,False,Right Foot,Open Play,0,0,3,Normal
-24.813101378102655,0.0618548698370207,False,Left Foot,Open Play,0,0,2,Normal
-17.21046193453273,0.06158783779717825,False,Left Foot,Open Play,0,1,4,Normal
-14.23024947075771,0.062179186401006746,False,Right Foot,Open Play,0,0,4,Normal
-16.865645555388618,0.06259933127548155,False,Left Foot,Open Play,0,1,2,Half Volley
-27.81258707851537,0.06542496838850846,False,Left Foot,Free Kick,0,0,0,Normal
-11.800423721205943,0.05947215900191016,True,Right Foot,Open Play,1,0,1,Normal
-22.945151993395033,0.06667560739397592,False,Left Foot,Open Play,0,1,2,Normal
-24.60020325119286,0.06519754697341462,False,Right Foot,Open Play,1,0,0,Normal
-30.555195957479963,0.05381269184795539,False,Left Foot,Free Kick,0,0,0,Normal
-24.534873140083683,0.06833766401927319,False,Left Foot,Open Play,0,0,1,Normal
-18.95283619936604,0.06501354331034513,False,Left Foot,Open Play,1,0,3,Half Volley
-8.635392289873108,0.059084051024615496,False,Head,Open Play,0,0,3,Normal
-17.523127574722498,0.05909399746187657,False,Left Foot,Open Play,0,0,4,Normal
-20.132560691576217,0.0648324133665549,False,Left Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9575,Gerard Deulofeu Lázaro,Barcelona,10.39422916814903,0.05814808497156513,False,Right Foot,Open Play,1,1,2,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,21.784857125994655,0.058775309074655384,False,Left Foot,Open Play,0,0,3,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,25.07369139157615,0.06904359067846035,False,Left Foot,Free Kick,0,0,0,Normal
+9575,Gerard Deulofeu Lázaro,Barcelona,11.526057435220427,0.05524145360140941,False,Right Foot,Open Play,0,0,3,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,24.813101378102655,0.0618548698370207,False,Left Foot,Open Play,0,0,2,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,17.21046193453273,0.06158783779717825,False,Left Foot,Open Play,0,1,4,Normal
+9575,Sergio León Limones,Real Betis,14.23024947075771,0.062179186401006746,False,Right Foot,Open Play,0,0,4,Normal
+9575,Sergi Roberto Carnicer,Barcelona,16.865645555388618,0.06259933127548155,False,Left Foot,Open Play,0,1,2,Half Volley
+9575,Lionel Andrés Messi Cuccittini,Barcelona,27.81258707851537,0.06542496838850846,False,Left Foot,Free Kick,0,0,0,Normal
+9575,Sergi Roberto Carnicer,Barcelona,11.800423721205943,0.05947215900191016,True,Right Foot,Open Play,1,0,1,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,22.945151993395033,0.06667560739397592,False,Left Foot,Open Play,0,1,2,Normal
+9575,Matías Nahuel Leiva Esquivel,Real Betis,24.60020325119286,0.06519754697341462,False,Right Foot,Open Play,1,0,0,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,30.555195957479963,0.05381269184795539,False,Left Foot,Free Kick,0,0,0,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,24.534873140083683,0.06833766401927319,False,Left Foot,Open Play,0,0,1,Normal
+9575,Francisco Alcácer García,Barcelona,18.95283619936604,0.06501354331034513,False,Left Foot,Open Play,1,0,3,Half Volley
+9575,Lionel Andrés Messi Cuccittini,Barcelona,8.635392289873108,0.059084051024615496,False,Head,Open Play,0,0,3,Normal
+9575,Lionel Andrés Messi Cuccittini,Barcelona,17.523127574722498,0.05909399746187657,False,Left Foot,Open Play,0,0,4,Normal
+9575,Fabián Ruiz Peña,Real Betis,20.132560691576217,0.0648324133665549,False,Left Foot,Open Play,1,0,0,Normal

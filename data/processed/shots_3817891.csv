@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.7315587862957,0.06873923845049139,False,Right Foot,Open Play,0,0,1,Normal
-30.38190250790756,0.05155846907577892,False,Left Foot,Free Kick,0,0,0,Normal
-21.65386801474508,0.06649875499881666,False,Left Foot,Open Play,1,0,0,Normal
-23.657979626333265,0.06651417083473316,False,Left Foot,Open Play,0,1,2,Normal
-29.822307087145358,0.06207380161463277,False,Left Foot,Open Play,1,0,0,Half Volley
-16.227445886522005,0.06263364903180557,True,Right Foot,Open Play,0,0,3,Normal
-5.560575509783141,0.05549098514837682,False,Head,Open Play,0,0,3,Normal
-25.124689052802225,0.06002736863624945,False,Left Foot,Open Play,0,0,2,Normal
-15.26106156202772,0.0541293967456411,False,Right Foot,Open Play,0,1,1,Normal
-29.644055053248035,0.06368236142123265,False,Right Foot,Open Play,1,0,1,Volley
-7.742092740338362,0.05864946850168795,False,Head,Open Play,0,1,5,Normal
-26.941603515752362,0.06438658612876333,False,Right Foot,Open Play,0,1,1,Normal
-21.73476477903546,0.06199594103253865,False,Right Foot,Open Play,0,0,3,Normal
-17.651062290978413,0.061597501634460136,False,Left Foot,Open Play,0,1,2,Normal
-42.85148772213165,0.07639379346357653,False,Right Foot,Open Play,1,0,0,Half Volley
-15.595512174981616,0.0623786193956677,False,Right Foot,Open Play,1,0,1,Half Volley
-17.80365131089688,0.059375408639574724,False,Left Foot,Open Play,0,0,3,Normal
-13.103434664239751,0.061095593360476874,False,Left Foot,Open Play,1,0,2,Normal
-36.69577632371333,0.055979147830455496,False,Right Foot,Open Play,0,0,0,Normal
-33.784315887701496,0.06606769884667416,False,Right Foot,Open Play,0,0,1,Normal
-17.309246084101982,0.05808369704886677,False,Right Foot,Open Play,0,0,3,Normal
-22.489997776789572,0.0543600910422859,False,Right Foot,Open Play,1,0,1,Half Volley
-8.401190391843286,0.0576418664940453,False,Right Foot,Open Play,1,0,1,Half Volley
-31.123785116852353,0.07313939824998585,False,Right Foot,Free Kick,0,0,0,Normal
-27.286077035733808,0.07064446484032404,False,Left Foot,Open Play,1,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817891,Subha Ghosh,East Bengal,24.7315587862957,0.06873923845049139,False,Right Foot,Open Play,0,0,1,Normal
+3817891,Antonio Perošević,East Bengal,30.38190250790756,0.05155846907577892,False,Left Foot,Free Kick,0,0,0,Normal
+3817891,Antonio Perošević,East Bengal,21.65386801474508,0.06649875499881666,False,Left Foot,Open Play,1,0,0,Normal
+3817891,Lalrinliana Hnamte,East Bengal,23.657979626333265,0.06651417083473316,False,Left Foot,Open Play,0,1,2,Normal
+3817891,Naocha Huidrom Singh,East Bengal,29.822307087145358,0.06207380161463277,False,Left Foot,Open Play,1,0,0,Half Volley
+3817891,Sunil Chhetri,Bengaluru,16.227445886522005,0.06263364903180557,True,Right Foot,Open Play,0,0,3,Normal
+3817891,Franjo Prce,East Bengal,5.560575509783141,0.05549098514837682,False,Head,Open Play,0,0,3,Normal
+3817891,Udanta Kumam Singh,Bengaluru,25.124689052802225,0.06002736863624945,False,Left Foot,Open Play,0,0,2,Normal
+3817891,Antonio Perošević,East Bengal,15.26106156202772,0.0541293967456411,False,Right Foot,Open Play,0,1,1,Normal
+3817891,Sourav Das,East Bengal,29.644055053248035,0.06368236142123265,False,Right Foot,Open Play,1,0,1,Volley
+3817891,Cleiton Augusto Oliveira Silva,Bengaluru,7.742092740338362,0.05864946850168795,False,Head,Open Play,0,1,5,Normal
+3817891,Naorem Roshan Singh,Bengaluru,26.941603515752362,0.06438658612876333,False,Right Foot,Open Play,0,1,1,Normal
+3817891,Marcelo Ribeiro dos Santos,East Bengal,21.73476477903546,0.06199594103253865,False,Right Foot,Open Play,0,0,3,Normal
+3817891,Naorem Mahesh Singh,East Bengal,17.651062290978413,0.061597501634460136,False,Left Foot,Open Play,0,1,2,Normal
+3817891,Naorem Roshan Singh,Bengaluru,42.85148772213165,0.07639379346357653,False,Right Foot,Open Play,1,0,0,Half Volley
+3817891,Thongkhosiem Haokip,East Bengal,15.595512174981616,0.0623786193956677,False,Right Foot,Open Play,1,0,1,Half Volley
+3817891,Marcelo Ribeiro dos Santos,East Bengal,17.80365131089688,0.059375408639574724,False,Left Foot,Open Play,0,0,3,Normal
+3817891,Marcelo Ribeiro dos Santos,East Bengal,13.103434664239751,0.061095593360476874,False,Left Foot,Open Play,1,0,2,Normal
+3817891,Marcelo Ribeiro dos Santos,East Bengal,36.69577632371333,0.055979147830455496,False,Right Foot,Open Play,0,0,0,Normal
+3817891,Songpu Singsit,East Bengal,33.784315887701496,0.06606769884667416,False,Right Foot,Open Play,0,0,1,Normal
+3817891,Sunil Chhetri,Bengaluru,17.309246084101982,0.05808369704886677,False,Right Foot,Open Play,0,0,3,Normal
+3817891,Leon Augustine Asokan,Bengaluru,22.489997776789572,0.0543600910422859,False,Right Foot,Open Play,1,0,1,Half Volley
+3817891,Sunil Chhetri,Bengaluru,8.401190391843286,0.0576418664940453,False,Right Foot,Open Play,1,0,1,Half Volley
+3817891,Songpu Singsit,East Bengal,31.123785116852353,0.07313939824998585,False,Right Foot,Free Kick,0,0,0,Normal
+3817891,Songpu Singsit,East Bengal,27.286077035733808,0.07064446484032404,False,Left Foot,Open Play,1,1,1,Half Volley

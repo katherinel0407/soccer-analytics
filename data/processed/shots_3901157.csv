@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.17345816405093,0.061132208443472134,False,Head,Open Play,0,0,4,Normal
-23.971024175032653,0.06764266549053308,False,Right Foot,Open Play,0,0,1,Normal
-13.0862523283024,0.06139628743763092,False,Head,Open Play,0,1,3,Normal
-16.237302731673136,0.06286251218381406,False,Left Foot,Open Play,0,0,3,Normal
-8.904493247793496,0.05430196764757566,True,Head,Open Play,0,0,3,Normal
-33.049054449408985,0.06341773484353105,False,Right Foot,Open Play,0,0,1,Normal
-19.831288409984865,0.05540782229749137,False,Right Foot,Open Play,0,0,4,Normal
-12.298373876248837,0.060413207933858,True,Left Foot,Open Play,0,0,1,Normal
-29.567718883945037,0.06654176155441123,False,Left Foot,Free Kick,0,0,0,Normal
-28.165581833152324,0.06401508201480009,False,Right Foot,Open Play,0,0,3,Half Volley
-25.32133487792459,0.06308733661071929,False,Right Foot,Open Play,0,0,3,Half Volley
-23.769307941124406,0.05480399811728392,False,Right Foot,Open Play,0,0,1,Normal
-32.760494501762324,0.05546454748143651,False,Right Foot,Open Play,0,0,2,Normal
-30.598365969443527,0.07300173070323666,False,Left Foot,Open Play,0,0,0,Normal
-11.374532957444888,0.05883673008528371,False,Head,Open Play,0,0,2,Normal
-18.24828759089466,0.06092647242856885,True,Right Foot,Open Play,1,1,2,Normal
-17.998055450520205,0.059620206880675555,True,Left Foot,Open Play,0,0,2,Normal
-18.34475401851985,0.054399981311325875,False,Right Foot,Open Play,0,0,2,Normal
-11.74563748802082,0.06058024819502143,False,Right Foot,Open Play,1,0,4,Normal
-16.926015479137433,0.05833904601071793,True,Right Foot,Open Play,0,0,1,Normal
-19.948433522459855,0.05510344400157373,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901157,Abdelhamid El Kaoutari,Stade de Reims,13.17345816405093,0.061132208443472134,False,Head,Open Play,0,0,4,Normal
+3901157,Nicolas de Roussel de Préville,Stade de Reims,23.971024175032653,0.06764266549053308,False,Right Foot,Open Play,0,0,1,Normal
+3901157,Cédric Yambéré,Bordeaux,13.0862523283024,0.06139628743763092,False,Head,Open Play,0,1,3,Normal
+3901157,Thievy Guivane Bifouma Koulossa,Stade de Reims,16.237302731673136,0.06286251218381406,False,Left Foot,Open Play,0,0,3,Normal
+3901157,Aïssa Mandi,Stade de Reims,8.904493247793496,0.05430196764757566,True,Head,Open Play,0,0,3,Normal
+3901157,Antoine Devaux,Stade de Reims,33.049054449408985,0.06341773484353105,False,Right Foot,Open Play,0,0,1,Normal
+3901157,Hamari Traoré,Stade de Reims,19.831288409984865,0.05540782229749137,False,Right Foot,Open Play,0,0,4,Normal
+3901157,Thievy Guivane Bifouma Koulossa,Stade de Reims,12.298373876248837,0.060413207933858,True,Left Foot,Open Play,0,0,1,Normal
+3901157,Diego Armando Valentin Contento,Bordeaux,29.567718883945037,0.06654176155441123,False,Left Foot,Free Kick,0,0,0,Normal
+3901157,Enzo Crivelli,Bordeaux,28.165581833152324,0.06401508201480009,False,Right Foot,Open Play,0,0,3,Half Volley
+3901157,Hamari Traoré,Stade de Reims,25.32133487792459,0.06308733661071929,False,Right Foot,Open Play,0,0,3,Half Volley
+3901157,Gaëtan Charbonnier,Stade de Reims,23.769307941124406,0.05480399811728392,False,Right Foot,Open Play,0,0,1,Normal
+3901157,Hamari Traoré,Stade de Reims,32.760494501762324,0.05546454748143651,False,Right Foot,Open Play,0,0,2,Normal
+3901157,Diego Rigonato Rodrigues,Stade de Reims,30.598365969443527,0.07300173070323666,False,Left Foot,Open Play,0,0,0,Normal
+3901157,Enzo Crivelli,Bordeaux,11.374532957444888,0.05883673008528371,False,Head,Open Play,0,0,2,Normal
+3901157,Gaëtan Charbonnier,Stade de Reims,18.24828759089466,0.06092647242856885,True,Right Foot,Open Play,1,1,2,Normal
+3901157,Adam Ounas,Bordeaux,17.998055450520205,0.059620206880675555,True,Left Foot,Open Play,0,0,2,Normal
+3901157,Alhassane Bangoura,Stade de Reims,18.34475401851985,0.054399981311325875,False,Right Foot,Open Play,0,0,2,Normal
+3901157,Clément Chantôme,Bordeaux,11.74563748802082,0.06058024819502143,False,Right Foot,Open Play,1,0,4,Normal
+3901157,Alhassane Bangoura,Stade de Reims,16.926015479137433,0.05833904601071793,True,Right Foot,Open Play,0,0,1,Normal
+3901157,Alhassane Bangoura,Stade de Reims,19.948433522459855,0.05510344400157373,False,Right Foot,Open Play,0,0,2,Normal

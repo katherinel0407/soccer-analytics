@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.386136081297785,0.06383124489016627,False,Right Foot,Open Play,0,0,2,Normal
-11.552056094046632,0.05843932499651865,False,Head,Open Play,0,1,3,Normal
-18.757931655702347,0.06412735274240505,False,Left Foot,Open Play,0,1,1,Normal
-13.038404810405295,0.05993748005315874,False,Left Foot,Open Play,0,0,1,Normal
-17.756407294269863,0.052198727220280294,False,Right Foot,Open Play,1,0,0,Normal
-39.866401894327005,0.07474174976257078,False,Right Foot,Open Play,0,0,1,Normal
-14.142842712835346,0.06089284451013588,False,Head,Open Play,0,0,3,Normal
-23.72551369306891,0.06533738687835768,False,Right Foot,Open Play,0,1,3,Normal
-11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
-16.4453640883989,0.06341978168834342,False,Right Foot,Open Play,1,0,0,Half Volley
-8.949860334105784,0.055630203595253835,False,Head,Open Play,0,1,4,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-11.098198051936178,0.059427156110460996,False,Left Foot,Open Play,1,1,1,Volley
-6.7416615162732665,0.05802251823527983,False,Head,Open Play,0,1,4,Normal
-27.296336750560506,0.05725552505981482,False,Left Foot,Free Kick,0,0,0,Normal
-21.779348015953094,0.054721044023611706,False,Left Foot,Open Play,0,0,2,Normal
-19.782062582046397,0.0637238068959296,False,Left Foot,Open Play,0,1,1,Half Volley
-28.663042406555515,0.06617072944878236,False,Right Foot,Open Play,0,0,2,Normal
-16.83448840921517,0.05481212529504231,False,Right Foot,Open Play,0,1,2,Normal
-14.176036117335475,0.05874188677483697,False,Right Foot,Open Play,1,1,1,Half Volley
-10.012991560967187,0.05820472687623454,False,Right Foot,Open Play,0,0,2,Half Volley
-15.809174551506478,0.0631025172931822,False,Left Foot,Open Play,0,1,1,Normal
-26.117618574441273,0.06974385198882936,False,Right Foot,Open Play,0,0,1,Normal
-20.56428943581567,0.06603582336999725,False,Left Foot,Open Play,0,1,2,Normal
-15.5183762037141,0.052738756331509165,False,Right Foot,Open Play,0,0,3,Normal
-15.371727293964074,0.062442451760867185,True,Left Foot,Open Play,0,0,2,Normal
-27.28827587078377,0.06809340294700279,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881520,Penelope Hocking,Chicago Red Stars,18.386136081297785,0.06383124489016627,False,Right Foot,Open Play,0,0,2,Normal
+3881520,Yuki Nagasato,Chicago Red Stars,11.552056094046632,0.05843932499651865,False,Head,Open Play,0,1,3,Normal
+3881520,Uchenna Kanu,Racing Louisville FC,18.757931655702347,0.06412735274240505,False,Left Foot,Open Play,0,1,1,Normal
+3881520,Penelope Hocking,Chicago Red Stars,13.038404810405295,0.05993748005315874,False,Left Foot,Open Play,0,0,1,Normal
+3881520,Uchenna Kanu,Racing Louisville FC,17.756407294269863,0.052198727220280294,False,Right Foot,Open Play,1,0,0,Normal
+3881520,Júlia Bianchi,Chicago Red Stars,39.866401894327005,0.07474174976257078,False,Right Foot,Open Play,0,0,1,Normal
+3881520,Jaelin Marie Howell,Racing Louisville FC,14.142842712835346,0.06089284451013588,False,Head,Open Play,0,0,3,Normal
+3881520,Ariadina Alves Borges,Racing Louisville FC,23.72551369306891,0.06533738687835768,False,Right Foot,Open Play,0,1,3,Normal
+3881520,Savannah Marie DeMelo,Racing Louisville FC,11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
+3881520,Savannah Marie DeMelo,Racing Louisville FC,16.4453640883989,0.06341978168834342,False,Right Foot,Open Play,1,0,0,Half Volley
+3881520,Uchenna Kanu,Racing Louisville FC,8.949860334105784,0.055630203595253835,False,Head,Open Play,0,1,4,Normal
+3881520,Shuang Wang,Racing Louisville FC,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3881520,Abby Erceg,Racing Louisville FC,11.098198051936178,0.059427156110460996,False,Left Foot,Open Play,1,1,1,Volley
+3881520,Paige Monaghan,Racing Louisville FC,6.7416615162732665,0.05802251823527983,False,Head,Open Play,0,1,4,Normal
+3881520,Shuang Wang,Racing Louisville FC,27.296336750560506,0.05725552505981482,False,Left Foot,Free Kick,0,0,0,Normal
+3881520,Shuang Wang,Racing Louisville FC,21.779348015953094,0.054721044023611706,False,Left Foot,Open Play,0,0,2,Normal
+3881520,Jenna Bike,Chicago Red Stars,19.782062582046397,0.0637238068959296,False,Left Foot,Open Play,0,1,1,Half Volley
+3881520,Penelope Hocking,Chicago Red Stars,28.663042406555515,0.06617072944878236,False,Right Foot,Open Play,0,0,2,Normal
+3881520,Lauren Milliet,Racing Louisville FC,16.83448840921517,0.05481212529504231,False,Right Foot,Open Play,0,1,2,Normal
+3881520,Penelope Hocking,Chicago Red Stars,14.176036117335475,0.05874188677483697,False,Right Foot,Open Play,1,1,1,Half Volley
+3881520,Penelope Hocking,Chicago Red Stars,10.012991560967187,0.05820472687623454,False,Right Foot,Open Play,0,0,2,Half Volley
+3881520,Savannah Marie DeMelo,Racing Louisville FC,15.809174551506478,0.0631025172931822,False,Left Foot,Open Play,0,1,1,Normal
+3881520,Penelope Hocking,Chicago Red Stars,26.117618574441273,0.06974385198882936,False,Right Foot,Open Play,0,0,1,Normal
+3881520,Casey Marie Krueger,Chicago Red Stars,20.56428943581567,0.06603582336999725,False,Left Foot,Open Play,0,1,2,Normal
+3881520,Penelope Hocking,Chicago Red Stars,15.5183762037141,0.052738756331509165,False,Right Foot,Open Play,0,0,3,Normal
+3881520,Parker Goins,Racing Louisville FC,15.371727293964074,0.062442451760867185,True,Left Foot,Open Play,0,0,2,Normal
+3881520,Penelope Hocking,Chicago Red Stars,27.28827587078377,0.06809340294700279,False,Right Foot,Free Kick,0,0,0,Normal

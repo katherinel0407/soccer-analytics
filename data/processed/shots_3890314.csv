@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.01558466350387,0.07322434047785589,False,Right Foot,Open Play,0,0,1,Normal
-23.272515979154466,0.06782319208633902,False,Right Foot,Open Play,0,0,1,Normal
-14.360013927569849,0.06223662948797584,False,Right Foot,Open Play,1,0,2,Volley
-17.711578134090708,0.05917073831837219,True,Left Foot,Open Play,0,0,3,Normal
-35.61797299117399,0.05677492151057528,False,Right Foot,Open Play,0,0,1,Normal
-18.70962319235746,0.06275434643016242,False,Right Foot,Open Play,1,0,0,Normal
-17.961347388211163,0.056403362799317014,False,Right Foot,Open Play,0,0,2,Half Volley
-10.636728820459794,0.05955128547516579,False,Head,Open Play,0,0,3,Normal
-32.23553939365681,0.07439784805998204,False,Left Foot,Open Play,0,0,2,Normal
-5.345091205957102,0.056315360545564234,False,Head,Open Play,0,0,3,Normal
-30.61045573002793,0.06866397490777384,False,Right Foot,Open Play,0,0,0,Normal
-14.855638660118252,0.06099894448091824,False,Right Foot,Open Play,1,0,1,Normal
-28.362298919516373,0.06014170953034672,False,Left Foot,Open Play,0,1,2,Normal
-8.72811548961172,0.058001189822575135,False,Head,Open Play,0,1,2,Normal
-13.148383931114877,0.05736547202294955,True,Head,Open Play,0,0,1,Normal
-25.506861821870608,0.05831576640313534,False,Right Foot,Open Play,0,0,1,Normal
-23.988538930080754,0.05588352597622904,False,Right Foot,Open Play,0,0,2,Normal
-26.250523804297693,0.06201487568557247,False,Right Foot,Free Kick,0,0,0,Normal
-11.136426715962358,0.056924462997943764,False,Head,Open Play,0,0,2,Normal
-27.629332239487802,0.07033128579778278,False,Right Foot,Open Play,0,1,2,Normal
-5.92114853723499,0.05727843126147685,False,Head,Open Play,0,1,7,Normal
-37.569269356749544,0.06100741942271804,False,Left Foot,Free Kick,0,0,0,Normal
-30.90064724241226,0.06847839877220868,False,Right Foot,Open Play,0,0,0,Normal
-27.071202411418664,0.049765534407862536,False,Right Foot,Open Play,1,0,0,Half Volley
-24.700202428320303,0.06524539904377649,False,Right Foot,Open Play,1,0,2,Half Volley
-25.780031031788923,0.06540049946941126,False,Right Foot,Free Kick,0,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-30.427126055544583,0.07295878659442079,False,Right Foot,Open Play,0,0,2,Normal
-16.33707440149552,0.06327921419608905,True,Right Foot,Open Play,1,0,1,Normal
-26.53450583674021,0.06810129185339929,False,Right Foot,Open Play,0,0,0,Half Volley
-23.866294224282075,0.053296149095227875,False,Right Foot,Open Play,1,0,1,Normal
-9.823441352194246,0.0571256637381928,False,Head,Open Play,0,1,2,Normal
-22.046541678911908,0.06677741860500917,False,Right Foot,Free Kick,0,0,0,Normal
-15.51934276958918,0.0628760607948777,False,Left Foot,Open Play,0,1,5,Normal
-22.720035211240322,0.05843802729808242,False,Right Foot,Open Play,1,0,1,Normal
-15.316004700965586,0.061268987708047326,False,Right Foot,Open Play,1,0,3,Volley
-17.114321488157227,0.06352562507018399,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890314,Dominik Kohr,Augsburg,34.01558466350387,0.07322434047785589,False,Right Foot,Open Play,0,0,1,Normal
+3890314,Alexander Esswein,Augsburg,23.272515979154466,0.06782319208633902,False,Right Foot,Open Play,0,0,1,Normal
+3890314,Raúl Marcelo Bobadilla,Augsburg,14.360013927569849,0.06223662948797584,False,Right Foot,Open Play,1,0,2,Volley
+3890314,Kevin Volland,Hoffenheim,17.711578134090708,0.05917073831837219,True,Left Foot,Open Play,0,0,3,Normal
+3890314,Jeong-Ho Hong,Augsburg,35.61797299117399,0.05677492151057528,False,Right Foot,Open Play,0,0,1,Normal
+3890314,Eduardo Jesús Vargas Rojas,Hoffenheim,18.70962319235746,0.06275434643016242,False,Right Foot,Open Play,1,0,0,Normal
+3890314,Alexander Esswein,Augsburg,17.961347388211163,0.056403362799317014,False,Right Foot,Open Play,0,0,2,Half Volley
+3890314,Ja-Cheol Koo,Augsburg,10.636728820459794,0.05955128547516579,False,Head,Open Play,0,0,3,Normal
+3890314,Konstantinos Stafylidis,Augsburg,32.23553939365681,0.07439784805998204,False,Left Foot,Open Play,0,0,2,Normal
+3890314,Halil Altıntop,Augsburg,5.345091205957102,0.056315360545564234,False,Head,Open Play,0,0,3,Normal
+3890314,Daniel Baier,Augsburg,30.61045573002793,0.06866397490777384,False,Right Foot,Open Play,0,0,0,Normal
+3890314,Jonathan Schmid,Hoffenheim,14.855638660118252,0.06099894448091824,False,Right Foot,Open Play,1,0,1,Normal
+3890314,Ja-Cheol Koo,Augsburg,28.362298919516373,0.06014170953034672,False,Left Foot,Open Play,0,1,2,Normal
+3890314,Ja-Cheol Koo,Augsburg,8.72811548961172,0.058001189822575135,False,Head,Open Play,0,1,2,Normal
+3890314,Ja-Cheol Koo,Augsburg,13.148383931114877,0.05736547202294955,True,Head,Open Play,0,0,1,Normal
+3890314,Sebastian Rudy,Hoffenheim,25.506861821870608,0.05831576640313534,False,Right Foot,Open Play,0,0,1,Normal
+3890314,Raúl Marcelo Bobadilla,Augsburg,23.988538930080754,0.05588352597622904,False,Right Foot,Open Play,0,0,2,Normal
+3890314,Raúl Marcelo Bobadilla,Augsburg,26.250523804297693,0.06201487568557247,False,Right Foot,Free Kick,0,0,0,Normal
+3890314,Raúl Marcelo Bobadilla,Augsburg,11.136426715962358,0.056924462997943764,False,Head,Open Play,0,0,2,Normal
+3890314,Raúl Marcelo Bobadilla,Augsburg,27.629332239487802,0.07033128579778278,False,Right Foot,Open Play,0,1,2,Normal
+3890314,Ja-Cheol Koo,Augsburg,5.92114853723499,0.05727843126147685,False,Head,Open Play,0,1,7,Normal
+3890314,Kevin Volland,Hoffenheim,37.569269356749544,0.06100741942271804,False,Left Foot,Free Kick,0,0,0,Normal
+3890314,Dominik Kohr,Augsburg,30.90064724241226,0.06847839877220868,False,Right Foot,Open Play,0,0,0,Normal
+3890314,Eugen Polanski,Hoffenheim,27.071202411418664,0.049765534407862536,False,Right Foot,Open Play,1,0,0,Half Volley
+3890314,Daniel Baier,Augsburg,24.700202428320303,0.06524539904377649,False,Right Foot,Open Play,1,0,2,Half Volley
+3890314,Raúl Marcelo Bobadilla,Augsburg,25.780031031788923,0.06540049946941126,False,Right Foot,Free Kick,0,0,0,Normal
+3890314,Kevin Volland,Hoffenheim,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3890314,Alexander Esswein,Augsburg,30.427126055544583,0.07295878659442079,False,Right Foot,Open Play,0,0,2,Normal
+3890314,Jonathan Schmid,Hoffenheim,16.33707440149552,0.06327921419608905,True,Right Foot,Open Play,1,0,1,Normal
+3890314,Eduardo Jesús Vargas Rojas,Hoffenheim,26.53450583674021,0.06810129185339929,False,Right Foot,Open Play,0,0,0,Half Volley
+3890314,Eugen Polanski,Hoffenheim,23.866294224282075,0.053296149095227875,False,Right Foot,Open Play,1,0,1,Normal
+3890314,Dong-Won Ji,Augsburg,9.823441352194246,0.0571256637381928,False,Head,Open Play,0,1,2,Normal
+3890314,Piotr Trochowski,Augsburg,22.046541678911908,0.06677741860500917,False,Right Foot,Free Kick,0,0,0,Normal
+3890314,Ja-Cheol Koo,Augsburg,15.51934276958918,0.0628760607948777,False,Left Foot,Open Play,0,1,5,Normal
+3890314,Piotr Trochowski,Augsburg,22.720035211240322,0.05843802729808242,False,Right Foot,Open Play,1,0,1,Normal
+3890314,Tim Matavž,Augsburg,15.316004700965586,0.061268987708047326,False,Right Foot,Open Play,1,0,3,Volley
+3890314,Steven Zuber,Hoffenheim,17.114321488157227,0.06352562507018399,False,Left Foot,Open Play,0,0,2,Normal

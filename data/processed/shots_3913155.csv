@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.015974481593783,0.056900620648086445,False,Head,Open Play,0,0,5,Normal
-14.071602609511114,0.0551830821368301,False,Right Foot,Open Play,0,0,3,Normal
-17.93348822733603,0.06431609370542522,False,Right Foot,Open Play,0,1,2,Normal
-15.222680447279973,0.05549841862468454,False,Left Foot,Open Play,0,0,1,Normal
-12.78827588066507,0.0563306519123332,False,Right Foot,Open Play,1,0,1,Half Volley
-32.10763149159401,0.0685649285917978,False,Right Foot,Open Play,0,1,2,Normal
-14.599315052426261,0.05999909996099064,False,Left Foot,Open Play,1,1,3,Normal
-21.54158768521949,0.061364305189246265,False,Left Foot,Open Play,1,1,1,Normal
-31.80393057469469,0.06853141376671434,False,Right Foot,Open Play,1,0,1,Normal
-12.030378215168467,0.05845083276182874,True,Right Foot,Open Play,1,0,3,Volley
-19.093716243832688,0.06018013986907655,False,Right Foot,Open Play,1,1,1,Normal
-23.210557942453683,0.05104595973856042,False,Right Foot,Open Play,0,0,1,Normal
-5.993329625508684,0.056111022447854465,False,Head,Open Play,0,1,9,Normal
-11.677756633874498,0.060652712563142884,False,Head,Open Play,0,1,4,Normal
-5.663920903402519,0.05529281289131979,True,Right Foot,Open Play,1,1,4,Volley
-9.130169768410662,0.05934768474925645,True,Right Foot,Open Play,0,0,4,Normal
-10.34794665622122,0.0555652245189214,False,Head,Open Play,0,1,3,Normal
-10.904127658827182,0.05432458040697098,False,Left Foot,Open Play,0,1,3,Half Volley
-5.81377674149945,0.054961521893209804,False,Head,Open Play,0,0,3,Normal
-16.101242188104614,0.05997779074316167,False,Right Foot,Open Play,0,0,1,Normal
-17.118703221914906,0.06211035676717959,False,Right Foot,Open Play,0,0,2,Normal
-19.420865068271297,0.06320260179064795,False,Right Foot,Open Play,1,0,2,Volley
-22.5399645075142,0.05849715012194745,False,Left Foot,Open Play,0,0,2,Normal
-16.324827717314506,0.061719279713003915,False,Right Foot,Open Play,0,0,1,Half Volley
-25.374396544548603,0.05018446507713944,False,Right Foot,Open Play,0,0,1,Normal
-19.94843352245985,0.05661901643137449,False,Right Foot,Open Play,0,0,2,Normal
-19.54942454396037,0.06003387411679313,False,Right Foot,Open Play,1,0,1,Volley
-21.261467494037195,0.06632405862234642,False,Right Foot,Open Play,0,0,2,Normal
-13.106105447462257,0.059907192989551085,False,Head,Open Play,0,1,2,Normal
-11.951987282456416,0.058820999112976516,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3913155,Maya Le Tissier,Manchester United W,5.015974481593783,0.056900620648086445,False,Head,Open Play,0,0,5,Normal
+3913155,Nikita Parris,Manchester United W,14.071602609511114,0.0551830821368301,False,Right Foot,Open Play,0,0,3,Normal
+3913155,Lucía García Córdoba,Manchester United W,17.93348822733603,0.06431609370542522,False,Right Foot,Open Play,0,1,2,Normal
+3913155,Geyse da Silva Ferreira,Manchester United W,15.222680447279973,0.05549841862468454,False,Left Foot,Open Play,0,0,1,Normal
+3913155,Geyse da Silva Ferreira,Manchester United W,12.78827588066507,0.0563306519123332,False,Right Foot,Open Play,1,0,1,Half Volley
+3913155,Jessica Park,Manchester City WFC,32.10763149159401,0.0685649285917978,False,Right Foot,Open Play,0,1,2,Normal
+3913155,Lucía García Córdoba,Manchester United W,14.599315052426261,0.05999909996099064,False,Left Foot,Open Play,1,1,3,Normal
+3913155,Jessica Park,Manchester City WFC,21.54158768521949,0.061364305189246265,False,Left Foot,Open Play,1,1,1,Normal
+3913155,Yui Hasegawa,Manchester City WFC,31.80393057469469,0.06853141376671434,False,Right Foot,Open Play,1,0,1,Normal
+3913155,Jessica Park,Manchester City WFC,12.030378215168467,0.05845083276182874,True,Right Foot,Open Play,1,0,3,Volley
+3913155,Laura Coombs,Manchester City WFC,19.093716243832688,0.06018013986907655,False,Right Foot,Open Play,1,1,1,Normal
+3913155,Geyse da Silva Ferreira,Manchester United W,23.210557942453683,0.05104595973856042,False,Right Foot,Open Play,0,0,1,Normal
+3913155,Maya Le Tissier,Manchester United W,5.993329625508684,0.056111022447854465,False,Head,Open Play,0,1,9,Normal
+3913155,Alanna Stephanie Kennedy,Manchester City WFC,11.677756633874498,0.060652712563142884,False,Head,Open Play,0,1,4,Normal
+3913155,Jessica Park,Manchester City WFC,5.663920903402519,0.05529281289131979,True,Right Foot,Open Play,1,1,4,Volley
+3913155,Khadija Monifa Shaw,Manchester City WFC,9.130169768410662,0.05934768474925645,True,Right Foot,Open Play,0,0,4,Normal
+3913155,Khadija Monifa Shaw,Manchester City WFC,10.34794665622122,0.0555652245189214,False,Head,Open Play,0,1,3,Normal
+3913155,Lauren Hemp,Manchester City WFC,10.904127658827182,0.05432458040697098,False,Left Foot,Open Play,0,1,3,Half Volley
+3913155,Khadija Monifa Shaw,Manchester City WFC,5.81377674149945,0.054961521893209804,False,Head,Open Play,0,0,3,Normal
+3913155,Laura Coombs,Manchester City WFC,16.101242188104614,0.05997779074316167,False,Right Foot,Open Play,0,0,1,Normal
+3913155,Lucía García Córdoba,Manchester United W,17.118703221914906,0.06211035676717959,False,Right Foot,Open Play,0,0,2,Normal
+3913155,Lucía García Córdoba,Manchester United W,19.420865068271297,0.06320260179064795,False,Right Foot,Open Play,1,0,2,Volley
+3913155,Mary Boio Fowler,Manchester City WFC,22.5399645075142,0.05849715012194745,False,Left Foot,Open Play,0,0,2,Normal
+3913155,Khadija Monifa Shaw,Manchester City WFC,16.324827717314506,0.061719279713003915,False,Right Foot,Open Play,0,0,1,Half Volley
+3913155,Geyse da Silva Ferreira,Manchester United W,25.374396544548603,0.05018446507713944,False,Right Foot,Open Play,0,0,1,Normal
+3913155,Geyse da Silva Ferreira,Manchester United W,19.94843352245985,0.05661901643137449,False,Right Foot,Open Play,0,0,2,Normal
+3913155,Ella Toone,Manchester United W,19.54942454396037,0.06003387411679313,False,Right Foot,Open Play,1,0,1,Volley
+3913155,Ella Toone,Manchester United W,21.261467494037195,0.06632405862234642,False,Right Foot,Open Play,0,0,2,Normal
+3913155,Millie Turner,Manchester United W,13.106105447462257,0.059907192989551085,False,Head,Open Play,0,1,2,Normal
+3913155,Khadija Monifa Shaw,Manchester City WFC,11.951987282456416,0.058820999112976516,False,Right Foot,Open Play,1,0,1,Half Volley

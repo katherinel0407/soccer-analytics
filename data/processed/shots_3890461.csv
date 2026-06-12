@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.3005830854229,0.07025039215813875,False,Right Foot,Free Kick,0,0,0,Normal
-29.93860384186276,0.06038707586620645,False,Left Foot,Open Play,1,0,0,Normal
-4.031128874149275,0.05678008545824353,True,Right Foot,Open Play,1,0,1,Half Volley
-18.42606849004964,0.06462603753346656,False,Left Foot,Open Play,0,0,2,Normal
-30.902588888311612,0.0685925846499711,False,Right Foot,Open Play,1,0,1,Normal
-17.993887851156575,0.06417584223566178,False,Right Foot,Open Play,0,1,3,Normal
-11.643023662262301,0.05977770434449697,False,Head,Open Play,0,1,3,Normal
-19.404123273160277,0.06299014684428787,False,Left Foot,Open Play,0,1,2,Normal
-15.608331108738046,0.052797550691999456,False,Right Foot,Open Play,0,0,2,Normal
-20.357799488156868,0.056982768268494556,False,Left Foot,Open Play,1,0,0,Normal
-19.123022773609822,0.05726866334759829,False,Left Foot,Open Play,1,0,2,Overhead Kick
-28.690067967852574,0.07155124688464003,False,Left Foot,Open Play,0,1,1,Half Volley
-14.214429288578554,0.061151774032889475,False,Head,Open Play,0,1,3,Normal
-16.804761230080004,0.056050877752832885,False,Left Foot,Open Play,0,1,3,Normal
-31.187337173923652,0.07212466275604111,False,Right Foot,Open Play,0,0,1,Normal
-6.580273550544841,0.05471124509429695,True,Head,Open Play,0,1,6,Normal
-10.692988356862644,0.057066619086887406,False,Head,Open Play,0,1,3,Normal
-17.2072659071684,0.05454381683061266,False,Right Foot,Open Play,1,0,2,Normal
-22.437914341578185,0.057870125994032955,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890461,Pascal Groß,Ingolstadt,34.3005830854229,0.07025039215813875,False,Right Foot,Free Kick,0,0,0,Normal
+3890461,Gotoku Sakai,Hamburger SV,29.93860384186276,0.06038707586620645,False,Left Foot,Open Play,1,0,0,Normal
+3890461,Josip Drmic,Hamburger SV,4.031128874149275,0.05678008545824353,True,Right Foot,Open Play,1,0,1,Half Volley
+3890461,Mathew Leckie,Ingolstadt,18.42606849004964,0.06462603753346656,False,Left Foot,Open Play,0,0,2,Normal
+3890461,Pascal Groß,Ingolstadt,30.902588888311612,0.0685925846499711,False,Right Foot,Open Play,1,0,1,Normal
+3890461,Mathew Leckie,Ingolstadt,17.993887851156575,0.06417584223566178,False,Right Foot,Open Play,0,1,3,Normal
+3890461,Benjamin Hübner,Ingolstadt,11.643023662262301,0.05977770434449697,False,Head,Open Play,0,1,3,Normal
+3890461,Lewis Harry Holtby,Hamburger SV,19.404123273160277,0.06299014684428787,False,Left Foot,Open Play,0,1,2,Normal
+3890461,Pascal Groß,Ingolstadt,15.608331108738046,0.052797550691999456,False,Right Foot,Open Play,0,0,2,Normal
+3890461,Aaron Hunt,Hamburger SV,20.357799488156868,0.056982768268494556,False,Left Foot,Open Play,1,0,0,Normal
+3890461,Aaron Hunt,Hamburger SV,19.123022773609822,0.05726866334759829,False,Left Foot,Open Play,1,0,2,Overhead Kick
+3890461,Lewis Harry Holtby,Hamburger SV,28.690067967852574,0.07155124688464003,False,Left Foot,Open Play,0,1,1,Half Volley
+3890461,Dario Lezcano,Ingolstadt,14.214429288578554,0.061151774032889475,False,Head,Open Play,0,1,3,Normal
+3890461,Almog Cohen,Ingolstadt,16.804761230080004,0.056050877752832885,False,Left Foot,Open Play,0,1,3,Normal
+3890461,Lukas Hinterseer,Ingolstadt,31.187337173923652,0.07212466275604111,False,Right Foot,Open Play,0,0,1,Normal
+3890461,Lukas Hinterseer,Ingolstadt,6.580273550544841,0.05471124509429695,True,Head,Open Play,0,1,6,Normal
+3890461,Dario Lezcano,Ingolstadt,10.692988356862644,0.057066619086887406,False,Head,Open Play,0,1,3,Normal
+3890461,Lukas Hinterseer,Ingolstadt,17.2072659071684,0.05454381683061266,False,Right Foot,Open Play,1,0,2,Normal
+3890461,Gideon Jung,Hamburger SV,22.437914341578185,0.057870125994032955,False,Left Foot,Open Play,0,0,1,Normal

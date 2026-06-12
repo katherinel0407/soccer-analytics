@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.640006527414453,0.07283661656396595,False,Right Foot,Free Kick,0,0,0,Normal
-16.794344286098223,0.05289088369453956,False,Right Foot,Open Play,0,0,2,Normal
-9.404786015641182,0.0589456021377174,True,Head,Open Play,0,1,2,Normal
-8.672946442818606,0.05898832557049977,False,Other,Open Play,1,0,1,Normal
-40.75904807524337,0.08202970495190519,False,Right Foot,Open Play,0,0,2,Normal
-23.40341855370707,0.06448499341697347,False,Right Foot,Open Play,1,0,1,Half Volley
-16.857342613828557,0.0589894776673779,False,Left Foot,Open Play,0,0,2,Normal
-23.73036030067812,0.06424192921288548,False,Right Foot,Open Play,1,0,0,Normal
-16.86208765248242,0.05238085787339237,False,Right Foot,Open Play,0,0,1,Normal
-14.07586587034702,0.0618344555374776,True,Right Foot,Open Play,1,0,0,Normal
-17.48056063174176,0.06328960468033366,False,Left Foot,Open Play,0,0,1,Normal
-19.927869931329845,0.05369062639389769,False,Right Foot,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-19.843638779215876,0.06557478248055121,False,Left Foot,Open Play,0,1,2,Normal
-12.85029182548007,0.060483477556276845,False,Left Foot,Open Play,0,0,1,Normal
-29.822139426942535,0.0702868400389961,False,Left Foot,Open Play,0,0,0,Normal
-14.541320435228707,0.05313566787775733,False,Right Foot,Open Play,1,0,0,Normal
-33.753518335130636,0.07097251371633102,False,Left Foot,Open Play,0,1,1,Normal
-9.12852671574116,0.05538917743414019,False,Head,Open Play,0,1,2,Normal
-27.480356620684525,0.06258563028042498,False,Right Foot,Free Kick,0,0,0,Normal
-31.041262860908223,0.06932685471348055,False,Right Foot,Open Play,1,0,0,Normal
-25.556212551941254,0.06906796252373336,False,Right Foot,Open Play,0,0,2,Normal
-26.534694269955324,0.06935698080898466,False,Right Foot,Free Kick,0,0,0,Normal
-18.176083186429356,0.06423617462311866,True,Right Foot,Open Play,0,0,1,Normal
-12.447088012864697,0.05586520959598595,False,Right Foot,Open Play,0,1,1,Normal
-22.203603311174522,0.057975229691869905,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+267611,Neymar da Silva Santos Junior,Barcelona,30.640006527414453,0.07283661656396595,False,Right Foot,Free Kick,0,0,0,Normal
+267611,Sergio Ezequiel Araújo,Las Palmas,16.794344286098223,0.05289088369453956,False,Right Foot,Open Play,0,0,2,Normal
+267611,Luis Alberto Suárez Díaz,Barcelona,9.404786015641182,0.0589456021377174,True,Head,Open Play,0,1,2,Normal
+267611,Neymar da Silva Santos Junior,Barcelona,8.672946442818606,0.05898832557049977,False,Other,Open Play,1,0,1,Normal
+267611,Jonathan Viera Ramos,Las Palmas,40.75904807524337,0.08202970495190519,False,Right Foot,Open Play,0,0,2,Normal
+267611,Sergio Busquets i Burgos,Barcelona,23.40341855370707,0.06448499341697347,False,Right Foot,Open Play,1,0,1,Half Volley
+267611,Jonathan Viera Ramos,Las Palmas,16.857342613828557,0.0589894776673779,False,Left Foot,Open Play,0,0,2,Normal
+267611,Ivan Rakitić,Barcelona,23.73036030067812,0.06424192921288548,False,Right Foot,Open Play,1,0,0,Normal
+267611,Luis Alberto Suárez Díaz,Barcelona,16.86208765248242,0.05238085787339237,False,Right Foot,Open Play,0,0,1,Normal
+267611,Luis Alberto Suárez Díaz,Barcelona,14.07586587034702,0.0618344555374776,True,Right Foot,Open Play,1,0,0,Normal
+267611,Sergio Ezequiel Araújo,Las Palmas,17.48056063174176,0.06328960468033366,False,Left Foot,Open Play,0,0,1,Normal
+267611,Neymar da Silva Santos Junior,Barcelona,19.927869931329845,0.05369062639389769,False,Right Foot,Open Play,0,1,1,Normal
+267611,Neymar da Silva Santos Junior,Barcelona,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+267611,David Simón Rodríguez Santana,Las Palmas,19.843638779215876,0.06557478248055121,False,Left Foot,Open Play,0,1,2,Normal
+267611,Neymar da Silva Santos Junior,Barcelona,12.85029182548007,0.060483477556276845,False,Left Foot,Open Play,0,0,1,Normal
+267611,Munir El Haddadi Mohamed,Barcelona,29.822139426942535,0.0702868400389961,False,Left Foot,Open Play,0,0,0,Normal
+267611,Luis Alberto Suárez Díaz,Barcelona,14.541320435228707,0.05313566787775733,False,Right Foot,Open Play,1,0,0,Normal
+267611,Mubarak Wakaso,Las Palmas,33.753518335130636,0.07097251371633102,False,Left Foot,Open Play,0,1,1,Normal
+267611,Antolín Alcáraz Viveros,Las Palmas,9.12852671574116,0.05538917743414019,False,Head,Open Play,0,1,2,Normal
+267611,Jonathan Viera Ramos,Las Palmas,27.480356620684525,0.06258563028042498,False,Right Foot,Free Kick,0,0,0,Normal
+267611,Javier Alejandro Mascherano,Barcelona,31.041262860908223,0.06932685471348055,False,Right Foot,Open Play,1,0,0,Normal
+267611,Sandro Ramírez Castillo,Barcelona,25.556212551941254,0.06906796252373336,False,Right Foot,Open Play,0,0,2,Normal
+267611,Luis Alberto Suárez Díaz,Barcelona,26.534694269955324,0.06935698080898466,False,Right Foot,Free Kick,0,0,0,Normal
+267611,Jonathan Viera Ramos,Las Palmas,18.176083186429356,0.06423617462311866,True,Right Foot,Open Play,0,0,1,Normal
+267611,Sandro Ramírez Castillo,Barcelona,12.447088012864697,0.05586520959598595,False,Right Foot,Open Play,0,1,1,Normal
+267611,Jonathan Viera Ramos,Las Palmas,22.203603311174522,0.057975229691869905,False,Right Foot,Open Play,0,0,3,Normal

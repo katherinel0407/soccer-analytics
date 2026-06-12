@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.34636435754147,0.06657485539325957,False,Right Foot,Open Play,0,0,2,Normal
-16.812197952677092,0.05571665790165273,False,Right Foot,Open Play,0,0,1,Normal
-14.871785366928886,0.06253704747502216,False,Left Foot,Open Play,0,1,2,Normal
-22.999347816840366,0.06721789424361621,True,Right Foot,Open Play,0,0,3,Normal
-27.166155414412255,0.07056131712336298,False,Left Foot,Open Play,0,0,1,Volley
-21.390885909657875,0.06657080721120204,False,Left Foot,Open Play,0,1,3,Half Volley
-12.860015552090132,0.06090654464306757,False,Left Foot,Open Play,0,0,3,Normal
-23.179516819813134,0.06744410741695375,False,Left Foot,Open Play,0,0,5,Normal
-21.42195135836136,0.06404476024233827,False,Right Foot,Open Play,1,0,1,Normal
-17.306646122227146,0.06290366386932907,False,Left Foot,Open Play,1,0,0,Half Volley
-22.181974664127626,0.05848553694408643,False,Right Foot,Open Play,0,0,1,Normal
-26.303041649208552,0.06586477757204315,False,Left Foot,Free Kick,0,0,0,Normal
-16.824089871371942,0.06244653049169011,False,Left Foot,Open Play,0,1,2,Normal
-17.02380685980665,0.06137818176529884,False,Left Foot,Open Play,0,1,2,Normal
-26.860379744151047,0.07032916819579177,False,Left Foot,Open Play,0,0,1,Normal
-21.801146758828995,0.06681624149198293,False,Left Foot,Open Play,0,1,2,Normal
-13.583077707206128,0.055375354039715115,False,Right Foot,Open Play,0,1,3,Half Volley
-6.499999999999994,0.05800409739260636,True,Head,Open Play,0,0,2,Normal
-20.549695861496343,0.06529626453667452,False,Right Foot,Open Play,0,0,2,Normal
-18.509727172489605,0.062160466355814174,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+9642,Andrés Iniesta Luján,Barcelona,22.34636435754147,0.06657485539325957,False,Right Foot,Open Play,0,0,2,Normal
+9642,Antoine Griezmann,Atlético Madrid,16.812197952677092,0.05571665790165273,False,Right Foot,Open Play,0,0,1,Normal
+9642,Antoine Griezmann,Atlético Madrid,14.871785366928886,0.06253704747502216,False,Left Foot,Open Play,0,1,2,Normal
+9642,Saúl Ñíguez Esclapez,Atlético Madrid,22.999347816840366,0.06721789424361621,True,Right Foot,Open Play,0,0,3,Normal
+9642,Andrés Iniesta Luján,Barcelona,27.166155414412255,0.07056131712336298,False,Left Foot,Open Play,0,0,1,Volley
+9642,Lionel Andrés Messi Cuccittini,Barcelona,21.390885909657875,0.06657080721120204,False,Left Foot,Open Play,0,1,3,Half Volley
+9642,Luis Alberto Suárez Díaz,Barcelona,12.860015552090132,0.06090654464306757,False,Left Foot,Open Play,0,0,3,Normal
+9642,Lionel Andrés Messi Cuccittini,Barcelona,23.179516819813134,0.06744410741695375,False,Left Foot,Open Play,0,0,5,Normal
+9642,Yannick Ferreira Carrasco,Atlético Madrid,21.42195135836136,0.06404476024233827,False,Right Foot,Open Play,1,0,1,Normal
+9642,Antoine Griezmann,Atlético Madrid,17.306646122227146,0.06290366386932907,False,Left Foot,Open Play,1,0,0,Half Volley
+9642,Luis Alberto Suárez Díaz,Barcelona,22.181974664127626,0.05848553694408643,False,Right Foot,Open Play,0,0,1,Normal
+9642,Lionel Andrés Messi Cuccittini,Barcelona,26.303041649208552,0.06586477757204315,False,Left Foot,Free Kick,0,0,0,Normal
+9642,Lionel Andrés Messi Cuccittini,Barcelona,16.824089871371942,0.06244653049169011,False,Left Foot,Open Play,0,1,2,Normal
+9642,Lionel Andrés Messi Cuccittini,Barcelona,17.02380685980665,0.06137818176529884,False,Left Foot,Open Play,0,1,2,Normal
+9642,André Filipe Tavares Gomes,Barcelona,26.860379744151047,0.07032916819579177,False,Left Foot,Open Play,0,0,1,Normal
+9642,Samuel Yves Umtiti,Barcelona,21.801146758828995,0.06681624149198293,False,Left Foot,Open Play,0,1,2,Normal
+9642,Luis Alberto Suárez Díaz,Barcelona,13.583077707206128,0.055375354039715115,False,Right Foot,Open Play,0,1,3,Half Volley
+9642,Luis Alberto Suárez Díaz,Barcelona,6.499999999999994,0.05800409739260636,True,Head,Open Play,0,0,2,Normal
+9642,Luis Alberto Suárez Díaz,Barcelona,20.549695861496343,0.06529626453667452,False,Right Foot,Open Play,0,0,2,Normal
+9642,Lionel Andrés Messi Cuccittini,Barcelona,18.509727172489605,0.062160466355814174,False,Left Foot,Free Kick,0,0,0,Normal

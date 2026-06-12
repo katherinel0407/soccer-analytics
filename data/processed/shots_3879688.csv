@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.72460392504752,0.05808087552528455,False,Right Foot,Open Play,1,0,0,Half Volley
-12.551493934986382,0.058799785894290274,False,Left Foot,Open Play,1,0,3,Half Volley
-20.655265672462317,0.0655088383762615,False,Left Foot,Open Play,1,1,1,Normal
-10.60754448494089,0.05914860113936092,False,Head,Open Play,0,0,3,Normal
-24.63371673134202,0.06249863871074686,False,Left Foot,Open Play,0,0,2,Normal
-32.77575323314476,0.07356008875385434,False,Right Foot,Open Play,0,0,1,Normal
-27.132637173706506,0.06127677854911382,False,Right Foot,Open Play,1,1,1,Normal
-19.55760721560795,0.06471608400378884,False,Left Foot,Open Play,0,1,2,Normal
-10.868302535354822,0.05251602586286892,False,Left Foot,Open Play,0,0,2,Normal
-27.411676344215074,0.07063212694718334,False,Right Foot,Open Play,0,0,1,Normal
-30.205959676858477,0.06834446690631718,False,Right Foot,Open Play,1,0,1,Half Volley
-27.60163038662752,0.06654897254695025,False,Right Foot,Open Play,0,1,1,Normal
-10.089598604503552,0.05473769078403414,False,Right Foot,Open Play,1,1,2,Volley
-10.689246933250258,0.058935888965807745,False,Left Foot,Open Play,1,0,1,Volley
-21.91460700081112,0.06638164986916682,False,Right Foot,Open Play,0,0,2,Normal
-14.991330828181997,0.06221949299774913,False,Left Foot,Open Play,1,1,1,Half Volley
-26.409278672466613,0.06727360682955986,False,Left Foot,Open Play,1,1,0,Half Volley
-15.936436239009018,0.06275270800974261,False,Left Foot,Open Play,1,0,1,Volley
-9.708243919473798,0.05887695648275195,False,Head,Open Play,0,0,4,Normal
-12.124768039018317,0.0562302063813248,False,Left Foot,Open Play,1,0,1,Overhead Kick
-26.726765610526083,0.06752928448107229,False,Right Foot,Free Kick,0,0,0,Normal
-6.264982043070834,0.05787449510278163,False,Right Foot,Open Play,1,0,2,Half Volley
-10.64800450788785,0.059800737363952396,False,Head,Open Play,0,0,1,Normal
-25.541534801182166,0.05853169332195961,False,Right Foot,Open Play,1,0,0,Volley
-13.038404810405298,0.061503283343951824,False,Left Foot,Open Play,1,0,2,Volley
-15.262044423995103,0.054437473356249974,False,Right Foot,Open Play,1,0,1,Volley
-13.232157798333576,0.0554202387194991,False,Head,Open Play,0,0,2,Normal
-26.9386339668514,0.07023846145256439,False,Right Foot,Open Play,0,0,1,Normal
-20.412006270820118,0.06559740476739631,False,Right Foot,Free Kick,0,0,0,Normal
-7.1693793315739685,0.053924251705813914,False,Left Foot,Open Play,1,0,1,Volley
-22.62940564840358,0.05866135126081263,False,Right Foot,Open Play,1,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879688,Luca Cigarini,Atalanta,19.72460392504752,0.05808087552528455,False,Right Foot,Open Play,1,0,0,Half Volley
+3879688,Jasmin Kurtič,Atalanta,12.551493934986382,0.058799785894290274,False,Left Foot,Open Play,1,0,3,Half Volley
+3879688,Boukary Dramé,Atalanta,20.655265672462317,0.0655088383762615,False,Left Foot,Open Play,1,1,1,Normal
+3879688,Jasmin Kurtič,Atalanta,10.60754448494089,0.05914860113936092,False,Head,Open Play,0,0,3,Normal
+3879688,Fredy Alejandro Guarín Vásquez,Inter Milan,24.63371673134202,0.06249863871074686,False,Left Foot,Open Play,0,0,2,Normal
+3879688,Marcelo Brozović,Inter Milan,32.77575323314476,0.07356008875385434,False,Right Foot,Open Play,0,0,1,Normal
+3879688,Fredy Alejandro Guarín Vásquez,Inter Milan,27.132637173706506,0.06127677854911382,False,Right Foot,Open Play,1,1,1,Normal
+3879688,Boukary Dramé,Atalanta,19.55760721560795,0.06471608400378884,False,Left Foot,Open Play,0,1,2,Normal
+3879688,Gaetano Monachello,Atalanta,10.868302535354822,0.05251602586286892,False,Left Foot,Open Play,0,0,2,Normal
+3879688,Alejandro Darío Gómez,Atalanta,27.411676344215074,0.07063212694718334,False,Right Foot,Open Play,0,0,1,Normal
+3879688,Marten de Roon,Atalanta,30.205959676858477,0.06834446690631718,False,Right Foot,Open Play,1,0,1,Half Volley
+3879688,Marcelo Brozović,Inter Milan,27.60163038662752,0.06654897254695025,False,Right Foot,Open Play,0,1,1,Normal
+3879688,Gaetano Monachello,Atalanta,10.089598604503552,0.05473769078403414,False,Right Foot,Open Play,1,1,2,Volley
+3879688,Marcelo Brozović,Inter Milan,10.689246933250258,0.058935888965807745,False,Left Foot,Open Play,1,0,1,Volley
+3879688,Stevan Jovetić,Inter Milan,21.91460700081112,0.06638164986916682,False,Right Foot,Open Play,0,0,2,Normal
+3879688,Gaetano Monachello,Atalanta,14.991330828181997,0.06221949299774913,False,Left Foot,Open Play,1,1,1,Half Volley
+3879688,Boukary Dramé,Atalanta,26.409278672466613,0.06727360682955986,False,Left Foot,Open Play,1,1,0,Half Volley
+3879688,Gaetano Monachello,Atalanta,15.936436239009018,0.06275270800974261,False,Left Foot,Open Play,1,0,1,Volley
+3879688,Rafael Tolói,Atalanta,9.708243919473798,0.05887695648275195,False,Head,Open Play,0,0,4,Normal
+3879688,Gaetano Monachello,Atalanta,12.124768039018317,0.0562302063813248,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3879688,Luca Cigarini,Atalanta,26.726765610526083,0.06752928448107229,False,Right Foot,Free Kick,0,0,0,Normal
+3879688,Luca Cigarini,Atalanta,6.264982043070834,0.05787449510278163,False,Right Foot,Open Play,1,0,2,Half Volley
+3879688,Mauro Emanuel Icardi Rivero,Inter Milan,10.64800450788785,0.059800737363952396,False,Head,Open Play,0,0,1,Normal
+3879688,Luca Cigarini,Atalanta,25.541534801182166,0.05853169332195961,False,Right Foot,Open Play,1,0,0,Volley
+3879688,Mauro Emanuel Icardi Rivero,Inter Milan,13.038404810405298,0.061503283343951824,False,Left Foot,Open Play,1,0,2,Volley
+3879688,Mauro Emanuel Icardi Rivero,Inter Milan,15.262044423995103,0.054437473356249974,False,Right Foot,Open Play,1,0,1,Volley
+3879688,Nicolò Cherubin,Atalanta,13.232157798333576,0.0554202387194991,False,Head,Open Play,0,0,2,Normal
+3879688,Ivan Perišić,Inter Milan,26.9386339668514,0.07023846145256439,False,Right Foot,Open Play,0,0,1,Normal
+3879688,Adem Ljajić,Inter Milan,20.412006270820118,0.06559740476739631,False,Right Foot,Free Kick,0,0,0,Normal
+3879688,Gaetano Monachello,Atalanta,7.1693793315739685,0.053924251705813914,False,Left Foot,Open Play,1,0,1,Volley
+3879688,Jonathan Ludovic Biabiany,Inter Milan,22.62940564840358,0.05866135126081263,False,Right Foot,Open Play,1,1,1,Half Volley

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.652838532700803,0.059816885319694826,False,Left Foot,Open Play,1,0,0,Normal
-24.98039231077046,0.05262218723106171,False,Left Foot,Open Play,0,0,4,Normal
-22.302690420664494,0.06266976064696161,False,Right Foot,Open Play,1,0,2,Normal
-25.858847615468093,0.05844863632527107,False,Right Foot,Open Play,0,0,2,Half Volley
-26.054174329653968,0.06946466899496952,False,Right Foot,Open Play,0,0,1,Normal
-11.405700329221348,0.05995957533769151,False,Right Foot,Open Play,0,1,2,Half Volley
-21.693316943243136,0.06623485561432292,False,Left Foot,Open Play,0,0,3,Normal
-18.330848316430973,0.058733623361605695,False,Right Foot,Open Play,1,0,1,Normal
-21.02974084481309,0.0657982625646839,False,Right Foot,Open Play,1,0,0,Normal
-15.376930773076925,0.05933331511181909,False,Right Foot,Open Play,1,0,2,Volley
-25.48666317900404,0.06457768675397606,False,Right Foot,Open Play,0,1,3,Normal
-10.480458005259118,0.05549486249733606,False,Right Foot,Open Play,0,0,4,Normal
-25.7,0.06406263454327155,False,Right Foot,Free Kick,0,0,0,Normal
-9.1214034007931,0.05906209867460593,False,Head,Open Play,0,1,3,Normal
-18.86001060445088,0.05997385443209486,False,Right Foot,Open Play,1,0,1,Half Volley
-14.03460010117851,0.06206885749265339,False,Head,Open Play,0,1,2,Normal
-11.981652640600128,0.05641298790184088,True,Left Foot,Open Play,1,0,0,Normal
-53.69851022142048,0.06137736845597946,False,Right Foot,Open Play,0,0,1,Lob
-26.554848898082632,0.05536181508952346,False,Left Foot,Free Kick,0,0,0,Normal
-28.257742301889582,0.066204004836983,False,Right Foot,Free Kick,0,0,0,Normal
-21.741205118392124,0.0557700671071296,True,Right Foot,Open Play,1,0,1,Lob
-24.754191564258367,0.06461838911137535,False,Right Foot,Open Play,0,0,2,Normal
-15.383757668398182,0.06280536866879376,False,Right Foot,Open Play,0,1,2,Normal
-23.553555994796206,0.057301214510910574,False,Right Foot,Open Play,0,0,2,Normal
-7.569015788066501,0.058309862391020775,False,Head,Open Play,0,0,0,Normal
-17.94240786516681,0.05903869732782227,False,Left Foot,Open Play,0,0,2,Normal
-29.682654867784322,0.07244320734923773,False,Left Foot,Open Play,0,1,1,Normal
-41.96593856927306,0.06053094996397611,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879664,Roberto Soriano,Sampdoria,13.652838532700803,0.059816885319694826,False,Left Foot,Open Play,1,0,0,Normal
+3879664,Franco Damián Vázquez,Palermo,24.98039231077046,0.05262218723106171,False,Left Foot,Open Play,0,0,4,Normal
+3879664,Roberto Soriano,Sampdoria,22.302690420664494,0.06266976064696161,False,Right Foot,Open Play,1,0,2,Normal
+3879664,Aleksandar Trajkovski,Palermo,25.858847615468093,0.05844863632527107,False,Right Foot,Open Play,0,0,2,Half Volley
+3879664,Aleksandar Trajkovski,Palermo,26.054174329653968,0.06946466899496952,False,Right Foot,Open Play,0,0,1,Normal
+3879664,Alberto Gilardino,Palermo,11.405700329221348,0.05995957533769151,False,Right Foot,Open Play,0,1,2,Half Volley
+3879664,Fernando Lucas Martins,Sampdoria,21.693316943243136,0.06623485561432292,False,Left Foot,Open Play,0,0,3,Normal
+3879664,Antonio Cassano,Sampdoria,18.330848316430973,0.058733623361605695,False,Right Foot,Open Play,1,0,1,Normal
+3879664,Fernando Lucas Martins,Sampdoria,21.02974084481309,0.0657982625646839,False,Right Foot,Open Play,1,0,0,Normal
+3879664,Alberto Gilardino,Palermo,15.376930773076925,0.05933331511181909,False,Right Foot,Open Play,1,0,2,Volley
+3879664,Fernando Lucas Martins,Sampdoria,25.48666317900404,0.06457768675397606,False,Right Foot,Open Play,0,1,3,Normal
+3879664,Antonio Cassano,Sampdoria,10.480458005259118,0.05549486249733606,False,Right Foot,Open Play,0,0,4,Normal
+3879664,Fernando Lucas Martins,Sampdoria,25.7,0.06406263454327155,False,Right Foot,Free Kick,0,0,0,Normal
+3879664,Niklas Moisander,Sampdoria,9.1214034007931,0.05906209867460593,False,Head,Open Play,0,1,3,Normal
+3879664,Roberto Soriano,Sampdoria,18.86001060445088,0.05997385443209486,False,Right Foot,Open Play,1,0,1,Half Volley
+3879664,Alberto Gilardino,Palermo,14.03460010117851,0.06206885749265339,False,Head,Open Play,0,1,2,Normal
+3879664,Roberto Soriano,Sampdoria,11.981652640600128,0.05641298790184088,True,Left Foot,Open Play,1,0,0,Normal
+3879664,Antonio Cassano,Sampdoria,53.69851022142048,0.06137736845597946,False,Right Foot,Open Play,0,0,1,Lob
+3879664,Franco Damián Vázquez,Palermo,26.554848898082632,0.05536181508952346,False,Left Foot,Free Kick,0,0,0,Normal
+3879664,Aleksandar Trajkovski,Palermo,28.257742301889582,0.066204004836983,False,Right Foot,Free Kick,0,0,0,Normal
+3879664,Dávid Ivan,Sampdoria,21.741205118392124,0.0557700671071296,True,Right Foot,Open Play,1,0,1,Lob
+3879664,Carlos Mario Carbonero Mancilla,Sampdoria,24.754191564258367,0.06461838911137535,False,Right Foot,Open Play,0,0,2,Normal
+3879664,Aleksandar Trajkovski,Palermo,15.383757668398182,0.06280536866879376,False,Right Foot,Open Play,0,1,2,Normal
+3879664,Luis Fernando Muriel Fruto,Sampdoria,23.553555994796206,0.057301214510910574,False,Right Foot,Open Play,0,0,2,Normal
+3879664,Lorenzo De Silvestri,Sampdoria,7.569015788066501,0.058309862391020775,False,Head,Open Play,0,0,0,Normal
+3879664,Lorenzo De Silvestri,Sampdoria,17.94240786516681,0.05903869732782227,False,Left Foot,Open Play,0,0,2,Normal
+3879664,Achraf Lazaar,Palermo,29.682654867784322,0.07244320734923773,False,Left Foot,Open Play,0,1,1,Normal
+3879664,Edoardo Goldaniga,Palermo,41.96593856927306,0.06053094996397611,False,Right Foot,Open Play,0,0,0,Normal

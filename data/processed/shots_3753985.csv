@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.533065746772083,0.058937817617513676,False,Left Foot,Open Play,1,0,0,Half Volley
-31.108198276338673,0.07171128973981787,False,Left Foot,Open Play,1,1,1,Half Volley
-26.424609741678307,0.06970308125900784,False,Right Foot,Open Play,0,0,0,Normal
-24.917664417035557,0.06804398184700562,False,Right Foot,Open Play,0,0,2,Normal
-24.66779276708802,0.05233308925018255,False,Right Foot,Open Play,0,0,2,Normal
-15.008331019803633,0.06262664404525078,False,Left Foot,Open Play,1,0,1,Normal
-11.783462988442746,0.0599605051823724,False,Left Foot,Open Play,0,1,2,Normal
-30.022158483360247,0.05565351854069848,False,Left Foot,Open Play,0,0,2,Normal
-20.70193227696391,0.06436104931583932,False,Left Foot,Open Play,0,1,1,Normal
-15.641611170208776,0.06299311536524113,False,Right Foot,Open Play,0,0,3,Normal
-9.700515450222223,0.05867490569987584,False,Head,Open Play,0,1,4,Normal
-31.00258053775524,0.0686442155885,False,Right Foot,Open Play,1,0,1,Volley
-17.831432920547922,0.058589958269224335,False,Left Foot,Open Play,1,0,1,Normal
-29.638488490474675,0.07095285840616929,True,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753985,Charlie Adam,Stoke City,14.533065746772083,0.058937817617513676,False,Left Foot,Open Play,1,0,0,Half Volley
+3753985,Mame Biram Diouf,Stoke City,31.108198276338673,0.07171128973981787,False,Left Foot,Open Play,1,1,1,Half Volley
+3753985,Adam David Lallana,Liverpool,26.424609741678307,0.06970308125900784,False,Right Foot,Open Play,0,0,0,Normal
+3753985,Philippe Coutinho Correia,Liverpool,24.917664417035557,0.06804398184700562,False,Right Foot,Open Play,0,0,2,Normal
+3753985,Jordon Ibe,Liverpool,24.66779276708802,0.05233308925018255,False,Right Foot,Open Play,0,0,2,Normal
+3753985,Ibrahim Afellay,Stoke City,15.008331019803633,0.06262664404525078,False,Left Foot,Open Play,1,0,1,Normal
+3753985,Glen Johnson,Stoke City,11.783462988442746,0.0599605051823724,False,Left Foot,Open Play,0,1,2,Normal
+3753985,Marco van Ginkel,Stoke City,30.022158483360247,0.05565351854069848,False,Left Foot,Open Play,0,0,2,Normal
+3753985,Dejan Lovren,Liverpool,20.70193227696391,0.06436104931583932,False,Left Foot,Open Play,0,1,1,Normal
+3753985,Christian Benteke Liolo,Liverpool,15.641611170208776,0.06299311536524113,False,Right Foot,Open Play,0,0,3,Normal
+3753985,Martin Škrtel,Liverpool,9.700515450222223,0.05867490569987584,False,Head,Open Play,0,1,4,Normal
+3753985,Philippe Coutinho Correia,Liverpool,31.00258053775524,0.0686442155885,False,Right Foot,Open Play,1,0,1,Volley
+3753985,Marco van Ginkel,Stoke City,17.831432920547922,0.058589958269224335,False,Left Foot,Open Play,1,0,1,Normal
+3753985,Philippe Coutinho Correia,Liverpool,29.638488490474675,0.07095285840616929,True,Right Foot,Open Play,0,0,2,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.462535367784938,0.05607383112300204,False,Right Foot,Open Play,1,0,2,Normal
-31.70646621747684,0.07397102546511357,False,Left Foot,Free Kick,0,0,0,Normal
-26.454678225221343,0.06524412483381686,True,Right Foot,Open Play,0,0,0,Normal
-25.16028616689405,0.059518507803510486,False,Right Foot,Open Play,1,0,1,Half Volley
-25.400196849630916,0.06568111269399834,False,Left Foot,Open Play,0,0,2,Normal
-27.056422527747458,0.05896653106820526,False,Left Foot,Open Play,0,0,1,Normal
-11.940268003692383,0.05296606173149101,False,Right Foot,Open Play,1,0,1,Half Volley
-24.075090861718472,0.05922703997882596,False,Right Foot,Open Play,1,0,1,Normal
-20.4658251727117,0.06435029737511928,False,Left Foot,Open Play,0,0,2,Normal
-30.780025990892206,0.05576364590973014,False,Left Foot,Open Play,0,0,1,Normal
-28.146047679914133,0.07015352068548694,False,Right Foot,Open Play,0,0,1,Normal
-10.008995953640904,0.05720107105190672,False,Head,Open Play,0,1,3,Normal
-24.463850882475555,0.056829265345749704,False,Left Foot,Open Play,0,0,1,Normal
-11.423221962301183,0.060404941167571655,False,Head,Open Play,0,0,3,Normal
-18.585209172888,0.06414110336900312,False,Right Foot,Open Play,0,0,4,Normal
-17.79915728342215,0.06370190565703034,False,Right Foot,Open Play,0,0,1,Normal
-6.579513659838394,0.057990155930840656,False,Head,Open Play,0,1,3,Normal
-17.0510996712822,0.0631913088116021,True,Right Foot,Open Play,1,0,2,Normal
-15.684705926474997,0.054417681667881565,False,Right Foot,Open Play,0,0,1,Normal
-6.525335240430178,0.05365054864015058,True,Right Foot,Open Play,1,0,1,Half Volley
-5.4230987451825055,0.05708173530777288,False,Head,Open Play,0,1,3,Normal
-26.852187992787478,0.06996069757493967,False,Right Foot,Free Kick,0,0,0,Normal
-9.451454914456297,0.05644231393415095,False,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890296,Arturo Erasmo Vidal Pardo,Bayern Munich,15.462535367784938,0.05607383112300204,False,Right Foot,Open Play,1,0,2,Normal
+3890296,Douglas Costa de Souza,Bayern Munich,31.70646621747684,0.07397102546511357,False,Left Foot,Free Kick,0,0,0,Normal
+3890296,Arturo Erasmo Vidal Pardo,Bayern Munich,26.454678225221343,0.06524412483381686,True,Right Foot,Open Play,0,0,0,Normal
+3890296,Dominik Stroh-Engel,Darmstadt 98,25.16028616689405,0.059518507803510486,False,Right Foot,Open Play,1,0,1,Half Volley
+3890296,Douglas Costa de Souza,Bayern Munich,25.400196849630916,0.06568111269399834,False,Left Foot,Open Play,0,0,2,Normal
+3890296,Douglas Costa de Souza,Bayern Munich,27.056422527747458,0.05896653106820526,False,Left Foot,Open Play,0,0,1,Normal
+3890296,Marcel Heller,Darmstadt 98,11.940268003692383,0.05296606173149101,False,Right Foot,Open Play,1,0,1,Half Volley
+3890296,Peter Niemeyer,Darmstadt 98,24.075090861718472,0.05922703997882596,False,Right Foot,Open Play,1,0,1,Normal
+3890296,Konstantin Rausch,Darmstadt 98,20.4658251727117,0.06435029737511928,False,Left Foot,Open Play,0,0,2,Normal
+3890296,Douglas Costa de Souza,Bayern Munich,30.780025990892206,0.05576364590973014,False,Left Foot,Open Play,0,0,1,Normal
+3890296,Kingsley Coman,Bayern Munich,28.146047679914133,0.07015352068548694,False,Right Foot,Open Play,0,0,1,Normal
+3890296,Arturo Erasmo Vidal Pardo,Bayern Munich,10.008995953640904,0.05720107105190672,False,Head,Open Play,0,1,3,Normal
+3890296,Douglas Costa de Souza,Bayern Munich,24.463850882475555,0.056829265345749704,False,Left Foot,Open Play,0,0,1,Normal
+3890296,Kingsley Coman,Bayern Munich,11.423221962301183,0.060404941167571655,False,Head,Open Play,0,0,3,Normal
+3890296,David Olatukunbo Alaba,Bayern Munich,18.585209172888,0.06414110336900312,False,Right Foot,Open Play,0,0,4,Normal
+3890296,Mario Götze,Bayern Munich,17.79915728342215,0.06370190565703034,False,Right Foot,Open Play,0,0,1,Normal
+3890296,Sandro Wagner,Darmstadt 98,6.579513659838394,0.057990155930840656,False,Head,Open Play,0,1,3,Normal
+3890296,Kingsley Coman,Bayern Munich,17.0510996712822,0.0631913088116021,True,Right Foot,Open Play,1,0,2,Normal
+3890296,Sebastian Rode,Bayern Munich,15.684705926474997,0.054417681667881565,False,Right Foot,Open Play,0,0,1,Normal
+3890296,Sebastian Rode,Bayern Munich,6.525335240430178,0.05365054864015058,True,Right Foot,Open Play,1,0,1,Half Volley
+3890296,Javier Martínez Aginaga,Bayern Munich,5.4230987451825055,0.05708173530777288,False,Head,Open Play,0,1,3,Normal
+3890296,Xabier Alonso Olano,Bayern Munich,26.852187992787478,0.06996069757493967,False,Right Foot,Free Kick,0,0,0,Normal
+3890296,Joshua Kimmich,Bayern Munich,9.451454914456297,0.05644231393415095,False,Head,Open Play,0,0,2,Normal

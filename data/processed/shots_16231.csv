@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.276151068094475,0.061562673506623894,False,Head,Open Play,0,0,1,Normal
-10.101980003939824,0.05988849432117314,False,Left Foot,Open Play,0,0,5,Normal
-21.788299612406657,0.05813718312685014,False,Right Foot,Open Play,0,0,2,Normal
-12.205326705991931,0.06020292858169922,False,Left Foot,Open Play,1,0,4,Volley
-14.84082207965583,0.06162496362943605,False,Left Foot,Open Play,0,1,2,Half Volley
-29.704208456042053,0.06803212963838123,False,Left Foot,Free Kick,0,0,0,Normal
-14.213022197970425,0.06195158354588528,False,Left Foot,Open Play,1,0,3,Normal
-14.367324037551326,0.060760611700344344,False,Left Foot,Open Play,1,0,2,Half Volley
-17.77245059073172,0.05941794517222198,False,Left Foot,Open Play,0,0,3,Normal
-13.54843164355196,0.06091480916857169,False,Left Foot,Open Play,1,1,1,Normal
-27.684291574826332,0.05920111571494307,False,Right Foot,Open Play,0,1,1,Normal
-18.75233318816621,0.06488811457967812,False,Right Foot,Open Play,1,0,2,Normal
-19.06829829848484,0.06065497699509936,True,Left Foot,Free Kick,0,0,0,Normal
-18.43908891458577,0.06455035714181609,False,Left Foot,Open Play,1,0,2,Normal
-12.522779244241276,0.060908469031948555,True,Left Foot,Open Play,1,0,3,Normal
-27.2066168422316,0.07032064760643394,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16231,Óscar Melendo Jiménez,Espanyol,19.276151068094475,0.061562673506623894,False,Head,Open Play,0,0,1,Normal
+16231,Lionel Andrés Messi Cuccittini,Barcelona,10.101980003939824,0.05988849432117314,False,Left Foot,Open Play,0,0,5,Normal
+16231,Ivan Rakitić,Barcelona,21.788299612406657,0.05813718312685014,False,Right Foot,Open Play,0,0,2,Normal
+16231,Clément Lenglet,Barcelona,12.205326705991931,0.06020292858169922,False,Left Foot,Open Play,1,0,4,Volley
+16231,Luis Alberto Suárez Díaz,Barcelona,14.84082207965583,0.06162496362943605,False,Left Foot,Open Play,0,1,2,Half Volley
+16231,Lionel Andrés Messi Cuccittini,Barcelona,29.704208456042053,0.06803212963838123,False,Left Foot,Free Kick,0,0,0,Normal
+16231,Lionel Andrés Messi Cuccittini,Barcelona,14.213022197970425,0.06195158354588528,False,Left Foot,Open Play,1,0,3,Normal
+16231,Jordi Alba Ramos,Barcelona,14.367324037551326,0.060760611700344344,False,Left Foot,Open Play,1,0,2,Half Volley
+16231,Óscar Melendo Jiménez,Espanyol,17.77245059073172,0.05941794517222198,False,Left Foot,Open Play,0,0,3,Normal
+16231,Malcom Filipe Silva de Oliveira,Barcelona,13.54843164355196,0.06091480916857169,False,Left Foot,Open Play,1,1,1,Normal
+16231,Ivan Rakitić,Barcelona,27.684291574826332,0.05920111571494307,False,Right Foot,Open Play,0,1,1,Normal
+16231,Philippe Coutinho Correia,Barcelona,18.75233318816621,0.06488811457967812,False,Right Foot,Open Play,1,0,2,Normal
+16231,Lionel Andrés Messi Cuccittini,Barcelona,19.06829829848484,0.06065497699509936,True,Left Foot,Free Kick,0,0,0,Normal
+16231,Lionel Andrés Messi Cuccittini,Barcelona,18.43908891458577,0.06455035714181609,False,Left Foot,Open Play,1,0,2,Normal
+16231,Lionel Andrés Messi Cuccittini,Barcelona,12.522779244241276,0.060908469031948555,True,Left Foot,Open Play,1,0,3,Normal
+16231,Esteban Félix Granero Molina,Espanyol,27.2066168422316,0.07032064760643394,False,Right Foot,Free Kick,0,0,0,Normal

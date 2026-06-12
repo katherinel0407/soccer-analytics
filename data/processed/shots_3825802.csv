@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.847291878588358,0.04969079704889682,False,Left Foot,Free Kick,0,0,0,Normal
-4.560701700396551,0.05695176645258705,True,Left Foot,Open Play,1,0,3,Half Volley
-13.063307391315567,0.058085299303197,False,Right Foot,Open Play,1,0,1,Half Volley
-14.287407042567246,0.0564092849954082,False,Head,Open Play,0,0,2,Normal
-16.414627622946554,0.0632614023519015,False,Head,Open Play,0,1,1,Normal
-7.003570517957257,0.05712979090368093,True,Right Foot,Open Play,1,0,1,Volley
-21.645322820415505,0.06673849184784424,False,Left Foot,Open Play,0,0,2,Normal
-8.823831367382308,0.05911316745945393,False,Head,Open Play,0,1,3,Normal
-6.958448102845926,0.05722694936206295,False,Head,Open Play,0,1,3,Normal
-32.30108357315587,0.06629749662391346,False,Left Foot,Free Kick,0,0,0,Normal
-26.469982999616754,0.05468502688891811,False,Right Foot,Open Play,0,0,2,Normal
-33.40134727821619,0.05704847359679274,False,Right Foot,Open Play,1,0,1,Half Volley
-12.61150268604023,0.05725645442802756,False,Left Foot,Open Play,0,1,3,Normal
-22.87290974056428,0.060874088750818525,False,Left Foot,Open Play,0,0,2,Normal
-11.643023662262301,0.05977770434449697,False,Left Foot,Open Play,0,1,4,Normal
-23.640854468483155,0.06180366176439505,False,Right Foot,Open Play,0,0,1,Normal
-21.888809926535515,0.0664734041307258,False,Left Foot,Open Play,0,0,4,Normal
-9.245539465060975,0.05920038298900889,False,Head,Open Play,0,1,2,Normal
-20.554804791094465,0.0646293718924864,False,Left Foot,Open Play,1,1,1,Half Volley
-28.040328100790827,0.05905763879986559,True,Left Foot,Open Play,1,0,0,Normal
-15.307514494521959,0.06239624229974912,False,Left Foot,Open Play,0,1,2,Normal
-19.94492416631359,0.06512235003807838,False,Left Foot,Open Play,0,1,2,Normal
-17.920379460268137,0.05891544277454355,False,Left Foot,Open Play,1,0,1,Normal
-19.07904609774818,0.06491128334405011,False,Right Foot,Open Play,0,0,3,Normal
-19.209633000138236,0.06450068414043517,False,Left Foot,Open Play,0,0,0,Normal
-23.037577997697586,0.06283017873046798,False,Left Foot,Open Play,0,0,1,Half Volley
-14.603081866510234,0.062358439549769086,False,Right Foot,Open Play,0,0,2,Normal
-6.912307863514186,0.05689048165405686,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825802,Juan Manuel Vargas Risco,Real Betis,31.847291878588358,0.04969079704889682,False,Left Foot,Free Kick,0,0,0,Normal
+3825802,Rubén Castro Martín,Real Betis,4.560701700396551,0.05695176645258705,True,Left Foot,Open Play,1,0,3,Half Volley
+3825802,Gerard Moreno Balaguero,Espanyol,13.063307391315567,0.058085299303197,False,Right Foot,Open Play,1,0,1,Half Volley
+3825802,Felipe Salvador Caicedo Corozo,Espanyol,14.287407042567246,0.0564092849954082,False,Head,Open Play,0,0,2,Normal
+3825802,Hernán Arsenio Pérez González,Espanyol,16.414627622946554,0.0632614023519015,False,Head,Open Play,0,1,1,Normal
+3825802,Germán Alejandro Pezzella,Real Betis,7.003570517957257,0.05712979090368093,True,Right Foot,Open Play,1,0,1,Volley
+3825802,Víctor Sánchez Mata,Espanyol,21.645322820415505,0.06673849184784424,False,Left Foot,Open Play,0,0,2,Normal
+3825802,Felipe Salvador Caicedo Corozo,Espanyol,8.823831367382308,0.05911316745945393,False,Head,Open Play,0,1,3,Normal
+3825802,Óscar Esau Duarte Gaitán,Espanyol,6.958448102845926,0.05722694936206295,False,Head,Open Play,0,1,3,Normal
+3825802,Marco Asensio Willemsen,Espanyol,32.30108357315587,0.06629749662391346,False,Left Foot,Free Kick,0,0,0,Normal
+3825802,Francisco José Molinero Calderón,Real Betis,26.469982999616754,0.05468502688891811,False,Right Foot,Open Play,0,0,2,Normal
+3825802,Javier López Rodríguez,Espanyol,33.40134727821619,0.05704847359679274,False,Right Foot,Open Play,1,0,1,Half Volley
+3825802,Marco Asensio Willemsen,Espanyol,12.61150268604023,0.05725645442802756,False,Left Foot,Open Play,0,1,3,Normal
+3825802,Fabián Ruiz Peña,Real Betis,22.87290974056428,0.060874088750818525,False,Left Foot,Open Play,0,0,2,Normal
+3825802,Felipe Salvador Caicedo Corozo,Espanyol,11.643023662262301,0.05977770434449697,False,Left Foot,Open Play,0,1,4,Normal
+3825802,Víctor Sánchez Mata,Espanyol,23.640854468483155,0.06180366176439505,False,Right Foot,Open Play,0,0,1,Normal
+3825802,Marco Asensio Willemsen,Espanyol,21.888809926535515,0.0664734041307258,False,Left Foot,Open Play,0,0,4,Normal
+3825802,Hernán Arsenio Pérez González,Espanyol,9.245539465060975,0.05920038298900889,False,Head,Open Play,0,1,2,Normal
+3825802,Hernán Arsenio Pérez González,Espanyol,20.554804791094465,0.0646293718924864,False,Left Foot,Open Play,1,1,1,Half Volley
+3825802,Juan Manuel Vargas Risco,Real Betis,28.040328100790827,0.05905763879986559,True,Left Foot,Open Play,1,0,0,Normal
+3825802,Marco Asensio Willemsen,Espanyol,15.307514494521959,0.06239624229974912,False,Left Foot,Open Play,0,1,2,Normal
+3825802,Álvaro Cejudo Carmona,Real Betis,19.94492416631359,0.06512235003807838,False,Left Foot,Open Play,0,1,2,Normal
+3825802,Marco Asensio Willemsen,Espanyol,17.920379460268137,0.05891544277454355,False,Left Foot,Open Play,1,0,1,Normal
+3825802,Francisco Portillo Soler,Real Betis,19.07904609774818,0.06491128334405011,False,Right Foot,Open Play,0,0,3,Normal
+3825802,Gerard Moreno Balaguero,Espanyol,19.209633000138236,0.06450068414043517,False,Left Foot,Open Play,0,0,0,Normal
+3825802,Abraham González Casanova,Espanyol,23.037577997697586,0.06283017873046798,False,Left Foot,Open Play,0,0,1,Half Volley
+3825802,Joaquín Sánchez Rodríguez,Real Betis,14.603081866510234,0.062358439549769086,False,Right Foot,Open Play,0,0,2,Normal
+3825802,Óscar Esau Duarte Gaitán,Espanyol,6.912307863514186,0.05689048165405686,False,Head,Open Play,0,0,4,Normal

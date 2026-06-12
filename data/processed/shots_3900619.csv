@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-40.34476422040412,0.07981226742514301,False,Right Foot,Open Play,0,0,0,Normal
-25.230140705116963,0.05340486722570297,False,Left Foot,Open Play,0,1,2,Normal
-19.915069670980316,0.06540177225843426,False,Right Foot,Open Play,0,0,1,Normal
-24.035390573069538,0.06055046968793749,False,Right Foot,Open Play,1,0,0,Volley
-36.54531433713493,0.061434212490132464,False,Right Foot,Open Play,0,0,1,Normal
-28.94563870430224,0.068853040491509,False,Right Foot,Open Play,1,0,1,Normal
-11.128791488746657,0.055596462793695484,False,Left Foot,Open Play,1,1,1,Half Volley
-14.972307771349083,0.062123709843934664,False,Right Foot,Open Play,1,0,1,Normal
-24.61381725779242,0.05404719487319077,False,Right Foot,Open Play,0,1,3,Normal
-30.988546271162832,0.07276242194989795,False,Left Foot,Open Play,0,0,1,Half Volley
-14.645477117526761,0.062008434720086325,False,Left Foot,Open Play,1,1,2,Overhead Kick
-21.857950498617207,0.06057707217963665,False,Right Foot,Open Play,1,0,2,Volley
-8.832326986700618,0.058740351023914394,True,Head,Open Play,0,1,2,Normal
-12.76244490683505,0.06134721124415936,False,Left Foot,Open Play,1,0,2,Normal
-9.654014708917742,0.059622447904801555,False,Left Foot,Open Play,0,1,1,Half Volley
-9.492101980067428,0.05939291946974081,False,Head,Open Play,0,1,2,Normal
-34.98128070840175,0.076472163446607,False,Left Foot,Open Play,0,0,1,Normal
-39.9892485550804,0.07984919016766863,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900619,Yacouba Sylla,Rennes,40.34476422040412,0.07981226742514301,False,Right Foot,Open Play,0,0,0,Normal
+3900619,Kévin Monnet-Paquet,Saint-Étienne,25.230140705116963,0.05340486722570297,False,Left Foot,Open Play,0,1,2,Normal
+3900619,Jean-Christophe Bahebeck,Saint-Étienne,19.915069670980316,0.06540177225843426,False,Right Foot,Open Play,0,0,1,Normal
+3900619,Fabien Lemoine,Saint-Étienne,24.035390573069538,0.06055046968793749,False,Right Foot,Open Play,1,0,0,Volley
+3900619,Kévin Théophile-Catherine,Saint-Étienne,36.54531433713493,0.061434212490132464,False,Right Foot,Open Play,0,0,1,Normal
+3900619,Jean-Christophe Bahebeck,Saint-Étienne,28.94563870430224,0.068853040491509,False,Right Foot,Open Play,1,0,1,Normal
+3900619,Alexander Toft Søderlund,Saint-Étienne,11.128791488746657,0.055596462793695484,False,Left Foot,Open Play,1,1,1,Half Volley
+3900619,Jeremie Boga,Rennes,14.972307771349083,0.062123709843934664,False,Right Foot,Open Play,1,0,1,Normal
+3900619,Jean-Christophe Bahebeck,Saint-Étienne,24.61381725779242,0.05404719487319077,False,Right Foot,Open Play,0,1,3,Normal
+3900619,Franck Tabanou,Saint-Étienne,30.988546271162832,0.07276242194989795,False,Left Foot,Open Play,0,0,1,Half Volley
+3900619,Florentin Pogba,Saint-Étienne,14.645477117526761,0.062008434720086325,False,Left Foot,Open Play,1,1,2,Overhead Kick
+3900619,Fabien Lemoine,Saint-Étienne,21.857950498617207,0.06057707217963665,False,Right Foot,Open Play,1,0,2,Volley
+3900619,Moustapha Bayal Sall,Saint-Étienne,8.832326986700618,0.058740351023914394,True,Head,Open Play,0,1,2,Normal
+3900619,Giovanni-Guy Yann Sio,Rennes,12.76244490683505,0.06134721124415936,False,Left Foot,Open Play,1,0,2,Normal
+3900619,Kamil Grosicki,Rennes,9.654014708917742,0.059622447904801555,False,Left Foot,Open Play,0,1,1,Half Volley
+3900619,Giovanni-Guy Yann Sio,Rennes,9.492101980067428,0.05939291946974081,False,Head,Open Play,0,1,2,Normal
+3900619,Franck Tabanou,Saint-Étienne,34.98128070840175,0.076472163446607,False,Left Foot,Open Play,0,0,1,Normal
+3900619,Vincent Pajot,Saint-Étienne,39.9892485550804,0.07984919016766863,False,Right Foot,Open Play,1,0,1,Half Volley

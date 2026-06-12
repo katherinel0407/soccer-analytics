@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.33354166564943,0.06549118502225913,False,Right Foot,Open Play,0,1,2,Normal
-9.202173656261872,0.05542414448914984,True,Right Foot,Open Play,1,0,2,Volley
-34.26558039782779,0.06592309839858479,False,Right Foot,Open Play,0,0,1,Normal
-26.092910914652663,0.06480126409461508,False,Right Foot,Open Play,0,0,2,Lob
-29.584624384974035,0.06939187665271496,False,Right Foot,Open Play,0,1,1,Normal
-14.59897256658838,0.06237545097620761,False,Right Foot,Open Play,1,0,2,Overhead Kick
-25.025187311986297,0.06266521897548812,False,Left Foot,Open Play,0,1,2,Normal
-26.55202440493003,0.06188468127835231,False,Right Foot,Open Play,1,1,1,Volley
-8.640601830891184,0.05902795333686716,False,Left Foot,Open Play,1,1,2,Normal
-16.400000000000006,0.061479147357425094,False,Left Foot,Open Play,0,1,2,Normal
-26.412307737113764,0.06885239022497308,False,Right Foot,Open Play,0,0,0,Normal
-29.34706118165838,0.07173369338175102,False,Right Foot,Open Play,0,0,3,Normal
-18.05463929299059,0.06393602125556838,False,Right Foot,Open Play,0,0,1,Normal
-22.599557517792245,0.0671700995525617,False,Right Foot,Open Play,0,1,3,Normal
-26.36000758725232,0.06908947637274312,False,Left Foot,Open Play,0,0,0,Half Volley
-20.922953902353278,0.05557873921507204,False,Right Foot,Open Play,1,1,2,Lob
-20.5526154053444,0.06589035479526706,False,Right Foot,Open Play,0,1,1,Normal
-12.495199078045934,0.05891130537853865,True,Head,Open Play,0,0,2,Normal
-14.257980221616245,0.059406200591062504,True,Left Foot,Open Play,1,0,2,Normal
-10.404806581575647,0.05793206613078392,False,Head,Open Play,0,1,2,Normal
-14.54269576110289,0.062351526140106764,False,Left Foot,Open Play,0,0,0,Normal
-10.111874208078342,0.05927227250532752,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879855,Faouzi Ghoulam,Napoli,21.33354166564943,0.06549118502225913,False,Right Foot,Open Play,0,1,2,Normal
+3879855,Gonzalo Gerardo Higuaín,Napoli,9.202173656261872,0.05542414448914984,True,Right Foot,Open Play,1,0,2,Volley
+3879855,Lorenzo Insigne,Napoli,34.26558039782779,0.06592309839858479,False,Right Foot,Open Play,0,0,1,Normal
+3879855,Lorenzo Insigne,Napoli,26.092910914652663,0.06480126409461508,False,Right Foot,Open Play,0,0,2,Lob
+3879855,Allan Marques Loureiro,Napoli,29.584624384974035,0.06939187665271496,False,Right Foot,Open Play,0,1,1,Normal
+3879855,Lorenzo Insigne,Napoli,14.59897256658838,0.06237545097620761,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3879855,Alessandro Diamanti,Atalanta,25.025187311986297,0.06266521897548812,False,Left Foot,Open Play,0,1,2,Normal
+3879855,Elseid Hysaj,Napoli,26.55202440493003,0.06188468127835231,False,Right Foot,Open Play,1,1,1,Volley
+3879855,Gonzalo Gerardo Higuaín,Napoli,8.640601830891184,0.05902795333686716,False,Left Foot,Open Play,1,1,2,Normal
+3879855,Marek Hamšík,Napoli,16.400000000000006,0.061479147357425094,False,Left Foot,Open Play,0,1,2,Normal
+3879855,Lorenzo Insigne,Napoli,26.412307737113764,0.06885239022497308,False,Right Foot,Open Play,0,0,0,Normal
+3879855,Marek Hamšík,Napoli,29.34706118165838,0.07173369338175102,False,Right Foot,Open Play,0,0,3,Normal
+3879855,Allan Marques Loureiro,Napoli,18.05463929299059,0.06393602125556838,False,Right Foot,Open Play,0,0,1,Normal
+3879855,Dries Mertens,Napoli,22.599557517792245,0.0671700995525617,False,Right Foot,Open Play,0,1,3,Normal
+3879855,Boukary Dramé,Atalanta,26.36000758725232,0.06908947637274312,False,Left Foot,Open Play,0,0,0,Half Volley
+3879855,José María Callejón Bueno,Napoli,20.922953902353278,0.05557873921507204,False,Right Foot,Open Play,1,1,2,Lob
+3879855,Dries Mertens,Napoli,20.5526154053444,0.06589035479526706,False,Right Foot,Open Play,0,1,1,Normal
+3879855,Gonzalo Gerardo Higuaín,Napoli,12.495199078045934,0.05891130537853865,True,Head,Open Play,0,0,2,Normal
+3879855,Remo Freuler,Atalanta,14.257980221616245,0.059406200591062504,True,Left Foot,Open Play,1,0,2,Normal
+3879855,Marco Borriello,Atalanta,10.404806581575647,0.05793206613078392,False,Head,Open Play,0,1,2,Normal
+3879855,Dries Mertens,Napoli,14.54269576110289,0.062351526140106764,False,Left Foot,Open Play,0,0,0,Normal
+3879855,Omar El Kaddouri,Napoli,10.111874208078342,0.05927227250532752,False,Left Foot,Open Play,1,0,1,Normal

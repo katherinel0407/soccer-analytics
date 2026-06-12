@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.312232530251874,0.05370053706574167,False,Right Foot,Open Play,0,0,1,Half Volley
-28.811108968590567,0.06773540164309826,False,Right Foot,Open Play,0,0,3,Normal
-16.44384383287558,0.06099790236370044,False,Right Foot,Open Play,1,0,1,Normal
-24.806853891616324,0.053458451374989335,False,Right Foot,Open Play,0,0,2,Normal
-17.34416328336423,0.06400182703780015,False,Left Foot,Open Play,1,0,1,Normal
-14.06627171641441,0.06208285255140149,False,Left Foot,Open Play,1,1,2,Normal
-19.646882704388503,0.06264199059138971,False,Left Foot,Open Play,1,0,1,Volley
-27.879203718901294,0.06568641462449962,False,Right Foot,Open Play,0,0,2,Normal
-31.73546911580165,0.06789185400077362,False,Right Foot,Free Kick,0,0,0,Normal
-19.632880583347923,0.0652331050209163,False,Head,Open Play,0,0,1,Normal
-20.56817930688081,0.05360118098380521,False,Right Foot,Open Play,0,0,1,Normal
-17.424408167854654,0.06367464717926981,True,Right Foot,Open Play,0,0,2,Normal
-7.798717843338091,0.05853823662979653,True,Right Foot,Open Play,0,0,1,Normal
-24.496938584239466,0.06827200762440197,False,Left Foot,Open Play,0,0,2,Normal
-21.25111761766896,0.06569807737741916,False,Right Foot,Open Play,0,0,3,Normal
-12.96533840669036,0.060442681177731765,False,Head,Open Play,0,0,1,Normal
-28.76178019525217,0.05163111397568197,False,Left Foot,Free Kick,0,0,0,Normal
-17.22353041626483,0.06383550282053127,False,Right Foot,Open Play,0,0,3,Normal
-28.100711734758608,0.058455233452482505,False,Right Foot,Open Play,0,0,2,Normal
-14.763468427168462,0.05635819367698633,False,Right Foot,Open Play,1,0,1,Normal
-13.885243966167819,0.05920646812605712,False,Right Foot,Open Play,1,0,1,Normal
-16.12761606685874,0.05527777751993164,False,Left Foot,Open Play,0,0,1,Normal
-13.43018987207553,0.060514079332047874,False,Left Foot,Open Play,1,1,3,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754188,Sadio Mané,Southampton,14.312232530251874,0.05370053706574167,False,Right Foot,Open Play,0,0,1,Half Volley
+3754188,Sadio Mané,Southampton,28.811108968590567,0.06773540164309826,False,Right Foot,Open Play,0,0,3,Normal
+3754188,Sadio Mané,Southampton,16.44384383287558,0.06099790236370044,False,Right Foot,Open Play,1,0,1,Normal
+3754188,Christian Dannemann Eriksen,Tottenham Hotspur,24.806853891616324,0.053458451374989335,False,Right Foot,Open Play,0,0,2,Normal
+3754188,Erik Lamela,Tottenham Hotspur,17.34416328336423,0.06400182703780015,False,Left Foot,Open Play,1,0,1,Normal
+3754188,Sadio Mané,Southampton,14.06627171641441,0.06208285255140149,False,Left Foot,Open Play,1,1,2,Normal
+3754188,Erik Lamela,Tottenham Hotspur,19.646882704388503,0.06264199059138971,False,Left Foot,Open Play,1,0,1,Volley
+3754188,Bamidele Alli,Tottenham Hotspur,27.879203718901294,0.06568641462449962,False,Right Foot,Open Play,0,0,2,Normal
+3754188,Christian Dannemann Eriksen,Tottenham Hotspur,31.73546911580165,0.06789185400077362,False,Right Foot,Free Kick,0,0,0,Normal
+3754188,Toby Alderweireld,Tottenham Hotspur,19.632880583347923,0.0652331050209163,False,Head,Open Play,0,0,1,Normal
+3754188,Harry Kane,Tottenham Hotspur,20.56817930688081,0.05360118098380521,False,Right Foot,Open Play,0,0,1,Normal
+3754188,Harry Kane,Tottenham Hotspur,17.424408167854654,0.06367464717926981,True,Right Foot,Open Play,0,0,2,Normal
+3754188,Bamidele Alli,Tottenham Hotspur,7.798717843338091,0.05853823662979653,True,Right Foot,Open Play,0,0,1,Normal
+3754188,Steven Davis,Southampton,24.496938584239466,0.06827200762440197,False,Left Foot,Open Play,0,0,2,Normal
+3754188,Graziano Pellè,Southampton,21.25111761766896,0.06569807737741916,False,Right Foot,Open Play,0,0,3,Normal
+3754188,Graziano Pellè,Southampton,12.96533840669036,0.060442681177731765,False,Head,Open Play,0,0,1,Normal
+3754188,Erik Lamela,Tottenham Hotspur,28.76178019525217,0.05163111397568197,False,Left Foot,Free Kick,0,0,0,Normal
+3754188,Graziano Pellè,Southampton,17.22353041626483,0.06383550282053127,False,Right Foot,Open Play,0,0,3,Normal
+3754188,Christian Dannemann Eriksen,Tottenham Hotspur,28.100711734758608,0.058455233452482505,False,Right Foot,Open Play,0,0,2,Normal
+3754188,Tom Carroll,Tottenham Hotspur,14.763468427168462,0.05635819367698633,False,Right Foot,Open Play,1,0,1,Normal
+3754188,James Ward-Prowse,Southampton,13.885243966167819,0.05920646812605712,False,Right Foot,Open Play,1,0,1,Normal
+3754188,Sadio Mané,Southampton,16.12761606685874,0.05527777751993164,False,Left Foot,Open Play,0,0,1,Normal
+3754188,Shane Long,Southampton,13.43018987207553,0.060514079332047874,False,Left Foot,Open Play,1,1,3,Half Volley

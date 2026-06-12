@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.825762331439506,0.06854943461127994,False,Left Foot,Open Play,1,0,1,Half Volley
-27.31226830565342,0.06954127006168091,False,Right Foot,Free Kick,0,0,0,Normal
-28.130588333698245,0.06449494686959188,False,Right Foot,Free Kick,0,0,0,Normal
-18.822327167489142,0.05454199058575341,False,Right Foot,Open Play,0,0,1,Normal
-33.54101966249684,0.07297268969790849,False,Right Foot,Free Kick,0,0,0,Normal
-16.585837331892535,0.06350108354048051,False,Left Foot,Open Play,0,1,1,Normal
-21.38878210651556,0.06425106297077682,False,Right Foot,Open Play,0,0,1,Normal
-18.47159982243011,0.06471019224597042,False,Left Foot,Open Play,0,1,1,Normal
-19.016834647227704,0.062297342513881644,False,Left Foot,Open Play,1,0,0,Normal
-10.523307464861036,0.059210316756176794,False,Left Foot,Open Play,1,0,2,Volley
-15.728954192825414,0.06226039172049275,True,Right Foot,Open Play,0,1,3,Normal
-13.59595528089145,0.06102227523180106,False,Left Foot,Open Play,1,1,1,Normal
-23.545912596457164,0.06783311033264672,False,Left Foot,Open Play,0,0,1,Normal
-15.074813431681338,0.06266644903176362,False,Right Foot,Open Play,1,0,2,Normal
-11.772000679578639,0.060438344820045814,False,Right Foot,Open Play,0,1,2,Normal
-31.49492022533158,0.0709476368200771,False,Right Foot,Open Play,0,0,2,Normal
-18.52376851507273,0.06471241992572117,False,Right Foot,Open Play,0,0,2,Normal
-30.08205445111753,0.061417038679432524,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901244,Charles Traoré,Troyes,25.825762331439506,0.06854943461127994,False,Left Foot,Open Play,1,0,1,Half Volley
+3901244,Benjamin Nivet,Troyes,27.31226830565342,0.06954127006168091,False,Right Foot,Free Kick,0,0,0,Normal
+3901244,Martin Braithwaite Christensen,Toulouse,28.130588333698245,0.06449494686959188,False,Right Foot,Free Kick,0,0,0,Normal
+3901244,Wissam Ben Yedder,Toulouse,18.822327167489142,0.05454199058575341,False,Right Foot,Open Play,0,0,1,Normal
+3901244,Adrien Regattin,Toulouse,33.54101966249684,0.07297268969790849,False,Right Foot,Free Kick,0,0,0,Normal
+3901244,Wissam Ben Yedder,Toulouse,16.585837331892535,0.06350108354048051,False,Left Foot,Open Play,0,1,1,Normal
+3901244,Martin Braithwaite Christensen,Toulouse,21.38878210651556,0.06425106297077682,False,Right Foot,Open Play,0,0,1,Normal
+3901244,Martin Braithwaite Christensen,Toulouse,18.47159982243011,0.06471019224597042,False,Left Foot,Open Play,0,1,1,Normal
+3901244,Wissam Ben Yedder,Toulouse,19.016834647227704,0.062297342513881644,False,Left Foot,Open Play,1,0,0,Normal
+3901244,Wergiton do Rosário Calmon,Toulouse,10.523307464861036,0.059210316756176794,False,Left Foot,Open Play,1,0,2,Volley
+3901244,Óscar Guido Trejo,Toulouse,15.728954192825414,0.06226039172049275,True,Right Foot,Open Play,0,1,3,Normal
+3901244,Wissam Ben Yedder,Toulouse,13.59595528089145,0.06102227523180106,False,Left Foot,Open Play,1,1,1,Normal
+3901244,Corentin Jean,Troyes,23.545912596457164,0.06783311033264672,False,Left Foot,Open Play,0,0,1,Normal
+3901244,Wissam Ben Yedder,Toulouse,15.074813431681338,0.06266644903176362,False,Right Foot,Open Play,1,0,2,Normal
+3901244,Martin Braithwaite Christensen,Toulouse,11.772000679578639,0.060438344820045814,False,Right Foot,Open Play,0,1,2,Normal
+3901244,Jessy Pi,Troyes,31.49492022533158,0.0709476368200771,False,Right Foot,Open Play,0,0,2,Normal
+3901244,Óscar Guido Trejo,Toulouse,18.52376851507273,0.06471241992572117,False,Right Foot,Open Play,0,0,2,Normal
+3901244,Wissam Ben Yedder,Toulouse,30.08205445111753,0.061417038679432524,False,Right Foot,Free Kick,0,0,0,Normal

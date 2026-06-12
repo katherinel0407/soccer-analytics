@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.355270219373313,0.057382862266729354,False,Right Foot,Open Play,1,0,3,Volley
-33.85867687905126,0.06446165081506845,False,Left Foot,Open Play,0,0,1,Normal
-33.755147755564636,0.06506447168760517,False,Left Foot,Open Play,0,1,2,Normal
-21.2339351039792,0.06417770528354365,True,Right Foot,Open Play,0,0,3,Normal
-21.924415613648634,0.06686685902340772,False,Left Foot,Open Play,1,0,1,Normal
-8.402380615040009,0.058048116782890104,False,Head,Open Play,0,0,4,Normal
-27.081543530604012,0.0653142538706008,False,Right Foot,Open Play,0,0,0,Normal
-11.205802068571447,0.0563806572422224,False,Head,Open Play,0,1,2,Normal
-29.612159664570225,0.07186208206441241,False,Right Foot,Open Play,0,0,2,Normal
-32.049492975708674,0.05610714548879211,False,Left Foot,Open Play,0,0,2,Normal
-33.65367736221408,0.06358420428784406,False,Left Foot,Open Play,0,0,0,Normal
-39.3325564895037,0.07165702904224822,False,Left Foot,Free Kick,0,0,0,Normal
-13.38805437694365,0.05881415126879199,False,Left Foot,Open Play,1,0,1,Normal
-33.16338342208165,0.07299972727941723,False,Right Foot,Free Kick,0,0,0,Normal
-12.857682528356344,0.05943330298129003,False,Right Foot,Open Play,0,1,2,Normal
-6.300793600809342,0.05791464337029422,False,Head,Open Play,0,1,3,Normal
-19.13765920900464,0.06512575083318758,False,Right Foot,Open Play,0,1,1,Normal
-11.101801655587261,0.06040618116867073,False,Head,Open Play,0,0,2,Normal
-22.726636354727027,0.06485186927339062,False,Right Foot,Open Play,0,0,1,Normal
-15.250245899656836,0.052847225071222255,False,Right Foot,Open Play,0,0,1,Normal
-27.859827709445735,0.0704102186199684,False,Left Foot,Open Play,0,0,0,Normal
-21.770622407271688,0.05592087618320276,False,Left Foot,Open Play,1,0,1,Half Volley
-18.81515346735179,0.05281750042471312,False,Left Foot,Open Play,0,1,1,Normal
-5.590169943749474,0.05505587835906771,True,Left Foot,Open Play,1,1,3,Normal
-10.090094152187087,0.0587448744603063,False,Left Foot,Open Play,1,0,2,Normal
-16.020611723651506,0.06275741622133434,True,Right Foot,Open Play,0,1,3,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-14.166156853571826,0.06116211226563727,False,Left Foot,Open Play,1,0,0,Normal
-23.756472802164893,0.0665663216081451,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829473,Edinson Roberto Cavani Gómez,Paris Saint-Germain,7.355270219373313,0.057382862266729354,False,Right Foot,Open Play,1,0,3,Volley
+3829473,Yannis Salibur,Guingamp,33.85867687905126,0.06446165081506845,False,Left Foot,Open Play,0,0,1,Normal
+3829473,Ángel Fabián Di María Hernández,Paris Saint-Germain,33.755147755564636,0.06506447168760517,False,Left Foot,Open Play,0,1,2,Normal
+3829473,Javier Matías Pastore,Paris Saint-Germain,21.2339351039792,0.06417770528354365,True,Right Foot,Open Play,0,0,3,Normal
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,21.924415613648634,0.06686685902340772,False,Left Foot,Open Play,1,0,1,Normal
+3829473,Thiago Motta,Paris Saint-Germain,8.402380615040009,0.058048116782890104,False,Head,Open Play,0,0,4,Normal
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,27.081543530604012,0.0653142538706008,False,Right Foot,Open Play,0,0,0,Normal
+3829473,Nill De Pauw,Guingamp,11.205802068571447,0.0563806572422224,False,Head,Open Play,0,1,2,Normal
+3829473,Marcus Coco,Guingamp,29.612159664570225,0.07186208206441241,False,Right Foot,Open Play,0,0,2,Normal
+3829473,Yannis Salibur,Guingamp,32.049492975708674,0.05610714548879211,False,Left Foot,Open Play,0,0,2,Normal
+3829473,Yannis Salibur,Guingamp,33.65367736221408,0.06358420428784406,False,Left Foot,Open Play,0,0,0,Normal
+3829473,Yannis Salibur,Guingamp,39.3325564895037,0.07165702904224822,False,Left Foot,Free Kick,0,0,0,Normal
+3829473,Younousse Sankharé,Guingamp,13.38805437694365,0.05881415126879199,False,Left Foot,Open Play,1,0,1,Normal
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,33.16338342208165,0.07299972727941723,False,Right Foot,Free Kick,0,0,0,Normal
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,12.857682528356344,0.05943330298129003,False,Right Foot,Open Play,0,1,2,Normal
+3829473,Marcos Aoás Corrêa,Paris Saint-Germain,6.300793600809342,0.05791464337029422,False,Head,Open Play,0,1,3,Normal
+3829473,Nicolas Benezet,Guingamp,19.13765920900464,0.06512575083318758,False,Right Foot,Open Play,0,1,1,Normal
+3829473,Edinson Roberto Cavani Gómez,Paris Saint-Germain,11.101801655587261,0.06040618116867073,False,Head,Open Play,0,0,2,Normal
+3829473,Yannis Salibur,Guingamp,22.726636354727027,0.06485186927339062,False,Right Foot,Open Play,0,0,1,Normal
+3829473,Javier Matías Pastore,Paris Saint-Germain,15.250245899656836,0.052847225071222255,False,Right Foot,Open Play,0,0,1,Normal
+3829473,Ángel Fabián Di María Hernández,Paris Saint-Germain,27.859827709445735,0.0704102186199684,False,Left Foot,Open Play,0,0,0,Normal
+3829473,Ángel Fabián Di María Hernández,Paris Saint-Germain,21.770622407271688,0.05592087618320276,False,Left Foot,Open Play,1,0,1,Half Volley
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,18.81515346735179,0.05281750042471312,False,Left Foot,Open Play,0,1,1,Normal
+3829473,Ángel Fabián Di María Hernández,Paris Saint-Germain,5.590169943749474,0.05505587835906771,True,Left Foot,Open Play,1,1,3,Normal
+3829473,Maxwell Scherrer Cabelino Andrade,Paris Saint-Germain,10.090094152187087,0.0587448744603063,False,Left Foot,Open Play,1,0,2,Normal
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,16.020611723651506,0.06275741622133434,True,Right Foot,Open Play,0,1,3,Normal
+3829473,Zlatan Ibrahimović,Paris Saint-Germain,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3829473,Edinson Roberto Cavani Gómez,Paris Saint-Germain,14.166156853571826,0.06116211226563727,False,Left Foot,Open Play,1,0,0,Normal
+3829473,Nicolas Benezet,Guingamp,23.756472802164893,0.0665663216081451,False,Right Foot,Open Play,0,0,1,Normal

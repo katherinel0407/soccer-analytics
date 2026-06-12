@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.332313707143644,0.06995149113058591,False,Right Foot,Open Play,0,0,1,Normal
-24.93772243008571,0.06891135873608689,False,Right Foot,Open Play,1,1,0,Normal
-22.47420743875076,0.06700354606078683,False,Right Foot,Open Play,0,0,2,Normal
-29.58530040408581,0.056221798329009774,False,Left Foot,Open Play,0,0,0,Normal
-9.563472172804186,0.05892922620226003,False,Head,Open Play,0,1,4,Normal
-21.784857125994655,0.06677773233486814,False,Left Foot,Open Play,0,0,3,Normal
-21.1482859825566,0.062424317272439904,False,Left Foot,Open Play,1,0,0,Half Volley
-38.7815677867721,0.07810704999563017,False,Left Foot,Open Play,0,0,1,Normal
-26.440121028467324,0.05223212612373795,False,Left Foot,Open Play,0,0,2,Normal
-31.780497164141412,0.054575152577670774,False,Left Foot,Open Play,0,0,1,Normal
-25.63006047593333,0.06351404501205288,False,Left Foot,Free Kick,0,0,0,Normal
-22.74313083108832,0.06745323410167346,False,Right Foot,Open Play,0,1,2,Half Volley
-25.583783926542214,0.06742757657858663,False,Left Foot,Open Play,1,1,1,Normal
-26.81063221932672,0.06959566369313418,False,Left Foot,Open Play,0,0,2,Normal
-13.081666560496028,0.05521177981716855,True,Right Foot,Open Play,1,0,1,Normal
-24.350154003619775,0.06633743112375227,False,Right Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878550,Erick Antonio Pulgar Farfán,Bologna,28.332313707143644,0.06995149113058591,False,Right Foot,Open Play,0,0,1,Normal
+3878550,Mattia Destro,Bologna,24.93772243008571,0.06891135873608689,False,Right Foot,Open Play,1,1,0,Normal
+3878550,Nicola Sansone,Sassuolo,22.47420743875076,0.06700354606078683,False,Right Foot,Open Play,0,0,2,Normal
+3878550,Filippo Falco,Bologna,29.58530040408581,0.056221798329009774,False,Left Foot,Open Play,0,0,0,Normal
+3878550,Simone Missiroli,Sassuolo,9.563472172804186,0.05892922620226003,False,Head,Open Play,0,1,4,Normal
+3878550,Gregoire Defrel,Sassuolo,21.784857125994655,0.06677773233486814,False,Left Foot,Open Play,0,0,3,Normal
+3878550,Matteo Politano,Sassuolo,21.1482859825566,0.062424317272439904,False,Left Foot,Open Play,1,0,0,Half Volley
+3878550,Joseph Alfred Duncan,Sassuolo,38.7815677867721,0.07810704999563017,False,Left Foot,Open Play,0,0,1,Normal
+3878550,Alex Ferrari,Bologna,26.440121028467324,0.05223212612373795,False,Left Foot,Open Play,0,0,2,Normal
+3878550,Matteo Politano,Sassuolo,31.780497164141412,0.054575152577670774,False,Left Foot,Open Play,0,0,1,Normal
+3878550,Matteo Politano,Sassuolo,25.63006047593333,0.06351404501205288,False,Left Foot,Free Kick,0,0,0,Normal
+3878550,Erick Antonio Pulgar Farfán,Bologna,22.74313083108832,0.06745323410167346,False,Right Foot,Open Play,0,1,2,Half Volley
+3878550,Lorenzo Crisetig,Bologna,25.583783926542214,0.06742757657858663,False,Left Foot,Open Play,1,1,1,Normal
+3878550,Franco Brienza,Bologna,26.81063221932672,0.06959566369313418,False,Left Foot,Open Play,0,0,2,Normal
+3878550,Antonio Floro Flores,Sassuolo,13.081666560496028,0.05521177981716855,True,Right Foot,Open Play,1,0,1,Normal
+3878550,Antonio Floro Flores,Sassuolo,24.350154003619775,0.06633743112375227,False,Right Foot,Open Play,0,0,3,Normal

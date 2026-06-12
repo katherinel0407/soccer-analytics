@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.280109889280518,0.05818657105361519,False,Head,Open Play,0,0,2,Normal
-5.656854249492381,0.057548353589171,False,Left Foot,Open Play,0,0,2,Normal
-15.033296378372908,0.061251320416057825,False,Left Foot,Open Play,1,0,3,Normal
-21.0,0.0635519190906132,False,Left Foot,Open Play,0,0,2,Normal
-15.264337522473747,0.0533951656955732,False,Right Foot,Open Play,0,0,2,Normal
-6.324555320336759,0.05777875134233442,False,Head,Open Play,0,0,4,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-3.1622776601683795,0.05629777381173174,False,Right Foot,Open Play,0,0,2,Normal
-17.69180601295413,0.06400943786694582,False,Right Foot,Open Play,0,0,2,Lob
-34.0147027033899,0.07575294922846049,False,Left Foot,Open Play,0,0,1,Normal
-29.154759474226502,0.0657493190440007,False,Right Foot,Open Play,0,0,0,Normal
-24.351591323771842,0.06803943379041962,False,Left Foot,Open Play,0,0,0,Normal
-18.439088914585774,0.06380181878070314,False,Right Foot,Open Play,0,1,2,Normal
-7.810249675906654,0.05852323815906913,True,Head,Open Play,0,0,1,Normal
-7.615773105863909,0.05849483251010046,True,Left Foot,Open Play,0,0,2,Volley
-10.770329614269007,0.057358586558931925,False,Left Foot,Open Play,0,0,1,Normal
-14.212670403551895,0.06211537532525958,False,Head,Open Play,0,0,4,Normal
-5.385164807134504,0.057375734640212235,False,Head,Open Play,0,0,6,Normal
-3.1622776601683795,0.055712428357468424,True,Head,Open Play,0,0,5,Normal
-19.0,0.06263807366013797,False,Left Foot,Open Play,1,0,3,Volley
-13.892443989449804,0.056978846643416965,False,Left Foot,Open Play,0,0,1,Normal
-23.08679276123039,0.060720523147420054,False,Right Foot,Open Play,0,0,0,Normal
-8.06225774829855,0.056242166694479165,False,Left Foot,Open Play,0,0,2,Normal
-20.615528128088304,0.05587054225818022,False,Left Foot,Open Play,0,0,2,Normal
-20.024984394500787,0.06265569559280218,False,Right Foot,Open Play,0,0,1,Normal
-28.284271247461902,0.07035905827760959,False,Right Foot,Free Kick,0,0,0,Normal
-17.69180601295413,0.05461931533860276,True,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7519,Ana-Maria Crnogorčević,Portland Thorns,7.280109889280518,0.05818657105361519,False,Head,Open Play,0,0,2,Normal
+7519,Jessica McDonald,North Carolina Courage,5.656854249492381,0.057548353589171,False,Left Foot,Open Play,0,0,2,Normal
+7519,Ana-Maria Crnogorčević,Portland Thorns,15.033296378372908,0.061251320416057825,False,Left Foot,Open Play,1,0,3,Normal
+7519,Crystal Alyssia Dunn Soubrier,North Carolina Courage,21.0,0.0635519190906132,False,Left Foot,Open Play,0,0,2,Normal
+7519,Crystal Alyssia Dunn Soubrier,North Carolina Courage,15.264337522473747,0.0533951656955732,False,Right Foot,Open Play,0,0,2,Normal
+7519,Jessica McDonald,North Carolina Courage,6.324555320336759,0.05777875134233442,False,Head,Open Play,0,0,4,Normal
+7519,Lynn Raenie Williams,North Carolina Courage,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7519,Jessica McDonald,North Carolina Courage,3.1622776601683795,0.05629777381173174,False,Right Foot,Open Play,0,0,2,Normal
+7519,Lynn Raenie Williams,North Carolina Courage,17.69180601295413,0.06400943786694582,False,Right Foot,Open Play,0,0,2,Lob
+7519,Tobin Powell Heath,Portland Thorns,34.0147027033899,0.07575294922846049,False,Left Foot,Open Play,0,0,1,Normal
+7519,Samantha June Mewis,North Carolina Courage,29.154759474226502,0.0657493190440007,False,Right Foot,Open Play,0,0,0,Normal
+7519,Lynn Raenie Williams,North Carolina Courage,24.351591323771842,0.06803943379041962,False,Left Foot,Open Play,0,0,0,Normal
+7519,Ifeoma Onumonu,Portland Thorns,18.439088914585774,0.06380181878070314,False,Right Foot,Open Play,0,1,2,Normal
+7519,Débora Cristiane de Oliveira,North Carolina Courage,7.810249675906654,0.05852323815906913,True,Head,Open Play,0,0,1,Normal
+7519,Lynn Raenie Williams,North Carolina Courage,7.615773105863909,0.05849483251010046,True,Left Foot,Open Play,0,0,2,Volley
+7519,Lynn Raenie Williams,North Carolina Courage,10.770329614269007,0.057358586558931925,False,Left Foot,Open Play,0,0,1,Normal
+7519,Jessica McDonald,North Carolina Courage,14.212670403551895,0.06211537532525958,False,Head,Open Play,0,0,4,Normal
+7519,McCall Zerboni,North Carolina Courage,5.385164807134504,0.057375734640212235,False,Head,Open Play,0,0,6,Normal
+7519,Samantha June Mewis,North Carolina Courage,3.1622776601683795,0.055712428357468424,True,Head,Open Play,0,0,5,Normal
+7519,Christine Margaret Sinclair,Portland Thorns,19.0,0.06263807366013797,False,Left Foot,Open Play,1,0,3,Volley
+7519,Débora Cristiane de Oliveira,North Carolina Courage,13.892443989449804,0.056978846643416965,False,Left Foot,Open Play,0,0,1,Normal
+7519,Andressa Cavalari Machry,Portland Thorns,23.08679276123039,0.060720523147420054,False,Right Foot,Open Play,0,0,0,Normal
+7519,Kristen Hamilton,North Carolina Courage,8.06225774829855,0.056242166694479165,False,Left Foot,Open Play,0,0,2,Normal
+7519,Crystal Alyssia Dunn Soubrier,North Carolina Courage,20.615528128088304,0.05587054225818022,False,Left Foot,Open Play,0,0,2,Normal
+7519,Christine Margaret Sinclair,Portland Thorns,20.024984394500787,0.06265569559280218,False,Right Foot,Open Play,0,0,1,Normal
+7519,Tobin Powell Heath,Portland Thorns,28.284271247461902,0.07035905827760959,False,Right Foot,Free Kick,0,0,0,Normal
+7519,Katherine Reynolds,Portland Thorns,17.69180601295413,0.05461931533860276,True,Right Foot,Open Play,1,0,2,Half Volley

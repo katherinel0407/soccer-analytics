@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.340469353966979,0.06279384015179106,False,Left Foot,Open Play,1,0,0,Volley
-27.762204523416365,0.06957665796844507,False,Right Foot,Free Kick,0,0,0,Normal
-18.005554698481237,0.06426407453340936,False,Right Foot,Open Play,0,0,2,Normal
-10.705606008068857,0.05817690837513065,False,Left Foot,Open Play,1,0,1,Normal
-11.207140580897521,0.0562007781965078,False,Right Foot,Open Play,1,0,4,Half Volley
-9.420191080864551,0.059519995633889,False,Head,Open Play,0,0,2,Normal
-32.45751068705054,0.07396891346144659,False,Left Foot,Open Play,0,0,1,Normal
-14.582523787054143,0.06114337500299767,False,Left Foot,Open Play,0,0,1,Normal
-7.305477397131557,0.058269186829196594,True,Head,Open Play,0,0,2,Normal
-14.538225476308996,0.051156384708721754,False,Right Foot,Open Play,0,0,1,Normal
-16.144658559412143,0.06086969912488584,False,Right Foot,Open Play,1,0,1,Normal
-17.43158053648607,0.06354120493039152,False,Right Foot,Open Play,1,0,0,Half Volley
-6.824954212300623,0.057846523105449,False,Head,Open Play,0,0,5,Normal
-19.13765920900463,0.06318974486749292,True,Left Foot,Open Play,1,1,2,Normal
-10.269371937952194,0.05984372836604579,False,Head,Open Play,0,1,5,Normal
-14.061649974309557,0.059325484650112066,False,Right Foot,Open Play,0,0,4,Normal
-20.938003725283842,0.05501913522315074,False,Right Foot,Open Play,1,0,1,Volley
-14.808105888330218,0.05889805672588404,False,Left Foot,Open Play,1,0,4,Volley
-14.611296999240004,0.05941019930865289,False,Right Foot,Open Play,0,0,3,Half Volley
-10.121264743103998,0.05988860879310416,False,Head,Open Play,0,0,4,Normal
-10.378824596263302,0.05995863454863702,False,Head,Open Play,0,1,2,Normal
-31.4839641722576,0.05924085953916502,False,Right Foot,Open Play,0,0,1,Normal
-20.530221625691237,0.05815081089279695,False,Right Foot,Open Play,0,0,4,Normal
-25.947061490658243,0.059290815329512095,False,Left Foot,Open Play,0,0,4,Normal
-19.030764566879594,0.05664489478589145,False,Right Foot,Open Play,1,0,1,Volley
-16.01124604770035,0.06313624585662911,True,Right Foot,Open Play,0,0,1,Normal
-18.904232330353956,0.05908279025588684,False,Left Foot,Open Play,0,0,3,Half Volley
-31.776248991975123,0.06347497427408895,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754034,Graziano Pellè,Southampton,15.340469353966979,0.06279384015179106,False,Left Foot,Open Play,1,0,0,Volley
+3754034,Ross Barkley,Everton,27.762204523416365,0.06957665796844507,False,Right Foot,Free Kick,0,0,0,Normal
+3754034,Arouna Koné,Everton,18.005554698481237,0.06426407453340936,False,Right Foot,Open Play,0,0,2,Normal
+3754034,Sadio Mané,Southampton,10.705606008068857,0.05817690837513065,False,Left Foot,Open Play,1,0,1,Normal
+3754034,Dušan Tadić,Southampton,11.207140580897521,0.0562007781965078,False,Right Foot,Open Play,1,0,4,Half Volley
+3754034,Graziano Pellè,Southampton,9.420191080864551,0.059519995633889,False,Head,Open Play,0,0,2,Normal
+3754034,Matt Targett,Southampton,32.45751068705054,0.07396891346144659,False,Left Foot,Open Play,0,0,1,Normal
+3754034,Sadio Mané,Southampton,14.582523787054143,0.06114337500299767,False,Left Foot,Open Play,0,0,1,Normal
+3754034,Romelu Lukaku Menama,Everton,7.305477397131557,0.058269186829196594,True,Head,Open Play,0,0,2,Normal
+3754034,James McCarthy,Everton,14.538225476308996,0.051156384708721754,False,Right Foot,Open Play,0,0,1,Normal
+3754034,Ross Barkley,Everton,16.144658559412143,0.06086969912488584,False,Right Foot,Open Play,1,0,1,Normal
+3754034,Tom Cleverley,Everton,17.43158053648607,0.06354120493039152,False,Right Foot,Open Play,1,0,0,Half Volley
+3754034,Victor Wanyama,Southampton,6.824954212300623,0.057846523105449,False,Head,Open Play,0,0,5,Normal
+3754034,Romelu Lukaku Menama,Everton,19.13765920900463,0.06318974486749292,True,Left Foot,Open Play,1,1,2,Normal
+3754034,Victor Wanyama,Southampton,10.269371937952194,0.05984372836604579,False,Head,Open Play,0,1,5,Normal
+3754034,Graziano Pellè,Southampton,14.061649974309557,0.059325484650112066,False,Right Foot,Open Play,0,0,4,Normal
+3754034,Cédric Ricardo Alves Soares,Southampton,20.938003725283842,0.05501913522315074,False,Right Foot,Open Play,1,0,1,Volley
+3754034,Graziano Pellè,Southampton,14.808105888330218,0.05889805672588404,False,Left Foot,Open Play,1,0,4,Volley
+3754034,Graziano Pellè,Southampton,14.611296999240004,0.05941019930865289,False,Right Foot,Open Play,0,0,3,Half Volley
+3754034,Graziano Pellè,Southampton,10.121264743103998,0.05988860879310416,False,Head,Open Play,0,0,4,Normal
+3754034,Phil Jagielka,Everton,10.378824596263302,0.05995863454863702,False,Head,Open Play,0,1,2,Normal
+3754034,Sadio Mané,Southampton,31.4839641722576,0.05924085953916502,False,Right Foot,Open Play,0,0,1,Normal
+3754034,Victor Wanyama,Southampton,20.530221625691237,0.05815081089279695,False,Right Foot,Open Play,0,0,4,Normal
+3754034,Romelu Lukaku Menama,Everton,25.947061490658243,0.059290815329512095,False,Left Foot,Open Play,0,0,4,Normal
+3754034,Tom Cleverley,Everton,19.030764566879594,0.05664489478589145,False,Right Foot,Open Play,1,0,1,Volley
+3754034,Ross Barkley,Everton,16.01124604770035,0.06313624585662911,True,Right Foot,Open Play,0,0,1,Normal
+3754034,Graziano Pellè,Southampton,18.904232330353956,0.05908279025588684,False,Left Foot,Open Play,0,0,3,Half Volley
+3754034,Jay Rodriguez,Southampton,31.776248991975123,0.06347497427408895,False,Right Foot,Open Play,0,0,0,Normal

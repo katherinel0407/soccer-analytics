@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.214205793893134,0.05970536060272352,True,Head,Open Play,0,0,2,Normal
-23.777720664521237,0.05799216229293869,False,Left Foot,Open Play,1,0,1,Normal
-6.746851117373194,0.056949404624955284,False,Head,Open Play,0,1,3,Normal
-28.5012280437177,0.06580333222317143,False,Right Foot,Open Play,0,0,1,Normal
-14.373586887064764,0.06204107132566175,False,Right Foot,Open Play,0,0,3,Normal
-21.566872745022632,0.06615148899401667,False,Right Foot,Open Play,0,0,2,Normal
-6.935416353759878,0.055325346613394846,False,Right Foot,Open Play,1,0,1,Half Volley
-7.256031973468692,0.05838354382952239,False,Left Foot,Open Play,1,0,2,Volley
-14.43606594609487,0.06199538366788226,False,Left Foot,Open Play,0,0,4,Normal
-29.82834222681508,0.06852466838232077,False,Right Foot,Open Play,0,0,0,Normal
-12.570600622086435,0.05707043656834303,False,Head,Open Play,0,1,3,Normal
-21.160576551691584,0.06287790333926875,False,Left Foot,Open Play,1,0,0,Normal
-25.100199202396777,0.06905842684057655,False,Right Foot,Free Kick,0,0,0,Normal
-11.645600027478196,0.05766327321527271,False,Right Foot,Open Play,1,0,1,Volley
-17.520559351801523,0.05635215081065336,False,Right Foot,Open Play,0,1,2,Normal
-8.481155581640987,0.05880172521822315,True,Left Foot,Open Play,1,1,3,Normal
-11.60387866189577,0.06068227614886523,True,Left Foot,Open Play,1,0,0,Normal
-21.079373804740978,0.06603011216987498,False,Right Foot,Open Play,0,0,4,Normal
-24.31666095499133,0.06466569241796105,False,Right Foot,Open Play,1,0,2,Lob
-10.288342918079671,0.05966116490211022,False,Head,Open Play,0,0,4,Normal
-12.182364302548173,0.05447159970566403,False,Right Foot,Open Play,0,0,3,Normal
-23.165707414193076,0.061778541228925024,False,Right Foot,Open Play,0,0,0,Lob
-12.174152947946721,0.05740630087988877,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754041,Olivier Giroud,Arsenal,10.214205793893134,0.05970536060272352,True,Head,Open Play,0,0,2,Normal
+3754041,Olivier Giroud,Arsenal,23.777720664521237,0.05799216229293869,False,Left Foot,Open Play,1,0,1,Normal
+3754041,Gabriel Armando de Abreu,Arsenal,6.746851117373194,0.056949404624955284,False,Head,Open Play,0,1,3,Normal
+3754041,Ashley Westwood,Aston Villa,28.5012280437177,0.06580333222317143,False,Right Foot,Open Play,0,0,1,Normal
+3754041,Alexis Alejandro Sánchez Sánchez,Arsenal,14.373586887064764,0.06204107132566175,False,Right Foot,Open Play,0,0,3,Normal
+3754041,Alexis Alejandro Sánchez Sánchez,Arsenal,21.566872745022632,0.06615148899401667,False,Right Foot,Open Play,0,0,2,Normal
+3754041,Jack Wilshere,Arsenal,6.935416353759878,0.055325346613394846,False,Right Foot,Open Play,1,0,1,Half Volley
+3754041,Alexis Alejandro Sánchez Sánchez,Arsenal,7.256031973468692,0.05838354382952239,False,Left Foot,Open Play,1,0,2,Volley
+3754041,Scott Sinclair,Aston Villa,14.43606594609487,0.06199538366788226,False,Left Foot,Open Play,0,0,4,Normal
+3754041,Carlos Alberto Sánchez Moreno,Aston Villa,29.82834222681508,0.06852466838232077,False,Right Foot,Open Play,0,0,0,Normal
+3754041,Kevin Toner,Aston Villa,12.570600622086435,0.05707043656834303,False,Head,Open Play,0,1,3,Normal
+3754041,Héctor Bellerín Moruno,Arsenal,21.160576551691584,0.06287790333926875,False,Left Foot,Open Play,1,0,0,Normal
+3754041,Alexis Alejandro Sánchez Sánchez,Arsenal,25.100199202396777,0.06905842684057655,False,Right Foot,Free Kick,0,0,0,Normal
+3754041,Mohamed Naser Elsayed Elneny,Arsenal,11.645600027478196,0.05766327321527271,False,Right Foot,Open Play,1,0,1,Volley
+3754041,Santiago Cazorla González,Arsenal,17.520559351801523,0.05635215081065336,False,Right Foot,Open Play,0,1,2,Normal
+3754041,Olivier Giroud,Arsenal,8.481155581640987,0.05880172521822315,True,Left Foot,Open Play,1,1,3,Normal
+3754041,Olivier Giroud,Arsenal,11.60387866189577,0.06068227614886523,True,Left Foot,Open Play,1,0,0,Normal
+3754041,Jack Grealish,Aston Villa,21.079373804740978,0.06603011216987498,False,Right Foot,Open Play,0,0,4,Normal
+3754041,Alexis Alejandro Sánchez Sánchez,Arsenal,24.31666095499133,0.06466569241796105,False,Right Foot,Open Play,1,0,2,Lob
+3754041,Micah Richards,Aston Villa,10.288342918079671,0.05966116490211022,False,Head,Open Play,0,0,4,Normal
+3754041,Mohamed Naser Elsayed Elneny,Arsenal,12.182364302548173,0.05447159970566403,False,Right Foot,Open Play,0,0,3,Normal
+3754041,Alexis Alejandro Sánchez Sánchez,Arsenal,23.165707414193076,0.061778541228925024,False,Right Foot,Open Play,0,0,0,Lob
+3754041,Mikel Arteta Amatriain,Arsenal,12.174152947946721,0.05740630087988877,False,Right Foot,Open Play,1,0,0,Normal

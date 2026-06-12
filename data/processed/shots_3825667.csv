@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.175795661885921,0.05792915841638685,False,Right Foot,Open Play,1,0,2,Half Volley
-9.551963149007644,0.053286021944045234,False,Right Foot,Open Play,1,0,3,Half Volley
-10.478549517943785,0.057136558700036186,False,Right Foot,Open Play,1,0,5,Volley
-14.073023839957067,0.0617878147626461,False,Right Foot,Open Play,1,1,1,Normal
-25.744902408049633,0.06886408963367266,False,Right Foot,Open Play,0,0,1,Normal
-21.46112764977647,0.056416186579974,False,Left Foot,Open Play,0,1,3,Normal
-11.800423721205943,0.05947215900191016,True,Left Foot,Open Play,1,0,2,Volley
-26.87322087134327,0.06265059742240477,False,Left Foot,Open Play,0,0,2,Normal
-6.606814663663566,0.05749262105862138,False,Left Foot,Open Play,1,0,1,Half Volley
-11.962023240238251,0.05748007006400167,False,Head,Open Play,0,1,1,Normal
-9.588534820294496,0.0581152027518435,False,Right Foot,Open Play,1,0,1,Half Volley
-12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
-26.68501452126268,0.05469245468788341,False,Left Foot,Open Play,0,0,2,Normal
-8.161494961096283,0.057376301479948,False,Head,Open Play,0,0,2,Diving Header
-7.660939890117924,0.05462795027959175,False,Head,Open Play,0,1,3,Normal
-13.934489585198301,0.06175792028619232,False,Right Foot,Open Play,0,0,2,Normal
-16.324827717314506,0.06107576986003306,False,Left Foot,Open Play,1,0,0,Half Volley
-18.399184764548675,0.06454981963309937,False,Right Foot,Open Play,0,0,3,Normal
-20.256603861457133,0.06583831833576365,False,Right Foot,Open Play,0,0,2,Normal
-19.787369708983555,0.05601317627235941,False,Right Foot,Open Play,0,0,1,Normal
-27.96855377026134,0.07023951966803639,False,Right Foot,Open Play,1,0,0,Normal
-26.11225765804252,0.06048036164973762,False,Right Foot,Open Play,0,0,1,Half Volley
-8.57962703152066,0.05552275730955842,False,Head,Open Play,0,1,4,Normal
-16.22744588652201,0.06288565916302677,False,Left Foot,Open Play,0,0,1,Volley
-9.924716620639611,0.05896079401107419,False,Head,Open Play,0,0,3,Normal
-13.471451295239131,0.06167114158207067,True,Left Foot,Open Play,0,1,2,Normal
-10.062305898749054,0.05370389518988323,False,Right Foot,Open Play,1,0,3,Half Volley
-25.59238167892937,0.06916863686340191,False,Left Foot,Open Play,0,0,0,Half Volley
-33.932432862970494,0.0645638514742477,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825667,Cédric Bakambu,Villarreal,12.175795661885921,0.05792915841638685,False,Right Foot,Open Play,1,0,2,Half Volley
+3825667,Borja González Tomás,Eibar,9.551963149007644,0.053286021944045234,False,Right Foot,Open Play,1,0,3,Half Volley
+3825667,Mauro Javier Dos Santos,Eibar,10.478549517943785,0.057136558700036186,False,Right Foot,Open Play,1,0,5,Volley
+3825667,Borja González Tomás,Eibar,14.073023839957067,0.0617878147626461,False,Right Foot,Open Play,1,1,1,Normal
+3825667,Borja González Tomás,Eibar,25.744902408049633,0.06886408963367266,False,Right Foot,Open Play,0,0,1,Normal
+3825667,Samuel Castillejo Azuaga,Villarreal,21.46112764977647,0.056416186579974,False,Left Foot,Open Play,0,1,3,Normal
+3825667,Sergio Enrich Ametller,Eibar,11.800423721205943,0.05947215900191016,True,Left Foot,Open Play,1,0,2,Volley
+3825667,Sergio Gontán Gallardo,Eibar,26.87322087134327,0.06265059742240477,False,Left Foot,Open Play,0,0,2,Normal
+3825667,Sergio Enrich Ametller,Eibar,6.606814663663566,0.05749262105862138,False,Left Foot,Open Play,1,0,1,Half Volley
+3825667,Sergio Enrich Ametller,Eibar,11.962023240238251,0.05748007006400167,False,Head,Open Play,0,1,1,Normal
+3825667,Roberto Soldado Rillo,Villarreal,9.588534820294496,0.0581152027518435,False,Right Foot,Open Play,1,0,1,Half Volley
+3825667,Daniel García Carrillo,Eibar,12.000416659433121,0.059627414004283334,False,Right Foot,Penalty,0,0,0,Normal
+3825667,Samuel Castillejo Azuaga,Villarreal,26.68501452126268,0.05469245468788341,False,Left Foot,Open Play,0,0,2,Normal
+3825667,Víctor Ruíz Torre,Villarreal,8.161494961096283,0.057376301479948,False,Head,Open Play,0,0,2,Diving Header
+3825667,Cédric Bakambu,Villarreal,7.660939890117924,0.05462795027959175,False,Head,Open Play,0,1,3,Normal
+3825667,Denis Suárez Fernández,Villarreal,13.934489585198301,0.06175792028619232,False,Right Foot,Open Play,0,0,2,Normal
+3825667,Bruno Soriano Llido,Villarreal,16.324827717314506,0.06107576986003306,False,Left Foot,Open Play,1,0,0,Half Volley
+3825667,Saúl Berjón Pérez,Eibar,18.399184764548675,0.06454981963309937,False,Right Foot,Open Play,0,0,3,Normal
+3825667,Borja González Tomás,Eibar,20.256603861457133,0.06583831833576365,False,Right Foot,Open Play,0,0,2,Normal
+3825667,Sergio Gontán Gallardo,Eibar,19.787369708983555,0.05601317627235941,False,Right Foot,Open Play,0,0,1,Normal
+3825667,Daniel García Carrillo,Eibar,27.96855377026134,0.07023951966803639,False,Right Foot,Open Play,1,0,0,Normal
+3825667,Borja González Tomás,Eibar,26.11225765804252,0.06048036164973762,False,Right Foot,Open Play,0,0,1,Half Volley
+3825667,Samuel Castillejo Azuaga,Villarreal,8.57962703152066,0.05552275730955842,False,Head,Open Play,0,1,4,Normal
+3825667,Saúl Berjón Pérez,Eibar,16.22744588652201,0.06288565916302677,False,Left Foot,Open Play,0,0,1,Volley
+3825667,Borja González Tomás,Eibar,9.924716620639611,0.05896079401107419,False,Head,Open Play,0,0,3,Normal
+3825667,Jaume Vicent Costa Jordá,Villarreal,13.471451295239131,0.06167114158207067,True,Left Foot,Open Play,0,1,2,Normal
+3825667,Roberto Soldado Rillo,Villarreal,10.062305898749054,0.05370389518988323,False,Right Foot,Open Play,1,0,3,Half Volley
+3825667,Jaume Vicent Costa Jordá,Villarreal,25.59238167892937,0.06916863686340191,False,Left Foot,Open Play,0,0,0,Half Volley
+3825667,Aleksandar Pantić,Eibar,33.932432862970494,0.0645638514742477,False,Left Foot,Open Play,1,0,1,Normal

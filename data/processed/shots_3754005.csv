@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.42102311063474,0.058756586535191294,False,Left Foot,Open Play,0,0,2,Normal
-20.977368757782752,0.058201571747965905,False,Right Foot,Open Play,0,0,1,Normal
-30.619764858666052,0.07306833540412931,False,Right Foot,Open Play,0,0,2,Normal
-20.78701517774979,0.052427601088510946,False,Left Foot,Open Play,0,0,1,Normal
-16.070469812671938,0.06318734579822081,False,Head,Open Play,0,1,3,Normal
-24.35282324495457,0.06665750909334571,False,Right Foot,Open Play,0,0,1,Volley
-18.886238376129853,0.054643773163110324,False,Right Foot,Open Play,1,1,2,Normal
-25.92778432492835,0.062441929255414634,True,Left Foot,Open Play,0,0,2,Normal
-28.851689725213664,0.0712878203565573,False,Left Foot,Open Play,0,0,1,Normal
-29.954131601500322,0.06684522072612532,False,Right Foot,Open Play,1,0,1,Normal
-22.202026934494068,0.06424700272686572,False,Left Foot,Open Play,0,0,3,Normal
-17.760912138738814,0.05618698457405642,False,Right Foot,Open Play,1,1,2,Normal
-11.305308487608825,0.060161663209613754,False,Left Foot,Open Play,1,0,2,Volley
-20.197277044195832,0.05549013811726958,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754005,Aleksandar Mitrović,Newcastle United,16.42102311063474,0.058756586535191294,False,Left Foot,Open Play,0,0,2,Normal
+3754005,Jonjo Shelvey,Newcastle United,20.977368757782752,0.058201571747965905,False,Right Foot,Open Play,0,0,1,Normal
+3754005,Marko Arnautović,Stoke City,30.619764858666052,0.07306833540412931,False,Right Foot,Open Play,0,0,2,Normal
+3754005,Xherdan Shaqiri,Stoke City,20.78701517774979,0.052427601088510946,False,Left Foot,Open Play,0,0,1,Normal
+3754005,Aleksandar Mitrović,Newcastle United,16.070469812671938,0.06318734579822081,False,Head,Open Play,0,1,3,Normal
+3754005,Ibrahim Afellay,Stoke City,24.35282324495457,0.06665750909334571,False,Right Foot,Open Play,0,0,1,Volley
+3754005,Jonathan Walters,Stoke City,18.886238376129853,0.054643773163110324,False,Right Foot,Open Play,1,1,2,Normal
+3754005,Xherdan Shaqiri,Stoke City,25.92778432492835,0.062441929255414634,True,Left Foot,Open Play,0,0,2,Normal
+3754005,Mame Biram Diouf,Stoke City,28.851689725213664,0.0712878203565573,False,Left Foot,Open Play,0,0,1,Normal
+3754005,Glenn Whelan,Stoke City,29.954131601500322,0.06684522072612532,False,Right Foot,Open Play,1,0,1,Normal
+3754005,Gilbert Gianelli Imbula Wanga,Stoke City,22.202026934494068,0.06424700272686572,False,Left Foot,Open Play,0,0,3,Normal
+3754005,Emmanuel Rivière,Newcastle United,17.760912138738814,0.05618698457405642,False,Right Foot,Open Play,1,1,2,Normal
+3754005,Seydou Doumbia,Newcastle United,11.305308487608825,0.060161663209613754,False,Left Foot,Open Play,1,0,2,Volley
+3754005,Marko Arnautović,Stoke City,20.197277044195832,0.05549013811726958,False,Right Foot,Open Play,1,0,1,Volley

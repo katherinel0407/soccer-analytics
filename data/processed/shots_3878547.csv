@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.42439773131312,0.06253527615773785,False,Right Foot,Open Play,0,0,0,Normal
-8.409518416651462,0.05798177576752405,True,Right Foot,Open Play,1,0,2,Volley
-5.234500931320963,0.05703386233655576,False,Head,Open Play,0,0,5,Normal
-10.0568384694197,0.05741796413388832,False,Head,Open Play,0,0,3,Normal
-25.998846128241922,0.060826323082285715,False,Right Foot,Open Play,1,0,1,Volley
-7.97558775263617,0.05620551712677111,False,Head,Open Play,0,1,2,Normal
-27.083020511013906,0.06963716130323669,False,Right Foot,Open Play,0,0,0,Normal
-50.522569214164086,0.07341411890109668,False,Left Foot,Open Play,0,0,1,Half Volley
-3.86005181312375,0.05535948081149382,False,Right Foot,Open Play,0,0,2,Volley
-7.9309520235593425,0.057208260714696695,False,Head,Open Play,0,0,5,Normal
-26.660270066149,0.06147891606415467,False,Left Foot,Open Play,0,0,2,Normal
-8.4380092438916,0.05859108117691773,False,Head,Open Play,0,0,2,Normal
-28.872997766078957,0.05675944880711439,False,Right Foot,Open Play,0,0,1,Normal
-26.205342966654715,0.06286572430387019,False,Right Foot,Open Play,0,0,1,Normal
-11.289375536317317,0.06053333675878523,False,Head,Open Play,0,1,1,Normal
-20.10621794371084,0.06335541898557452,False,Left Foot,Open Play,1,1,4,Normal
-20.927493877672028,0.06614329423251541,False,Right Foot,Open Play,0,1,2,Normal
-24.501836665850174,0.06505239412062658,False,Left Foot,Open Play,0,0,1,Normal
-11.315917991926243,0.05710803028891961,False,Right Foot,Open Play,1,1,2,Half Volley
-16.30828010551695,0.05831780312066818,False,Right Foot,Open Play,0,0,3,Half Volley
-23.027375013231534,0.06644832468026811,False,Left Foot,Open Play,1,0,1,Volley
-11.148542505637227,0.05940706579701515,False,Left Foot,Open Play,0,1,2,Normal
-26.034592372457077,0.06974109650197471,False,Left Foot,Open Play,0,0,1,Normal
-24.32632319114419,0.06189386259097637,False,Right Foot,Open Play,0,1,1,Normal
-20.171762441591458,0.062391066041303254,False,Right Foot,Open Play,0,1,2,Normal
-11.085576214162254,0.05820604419231015,True,Left Foot,Open Play,1,1,2,Volley
-24.426420122482124,0.06169454561157737,False,Right Foot,Open Play,0,1,1,Normal
-15.640012787718558,0.06283458848198627,False,Left Foot,Open Play,1,1,1,Normal
-25.806975801127873,0.06886429648916213,True,Right Foot,Open Play,0,0,1,Normal
-10.248902380255169,0.05918742932654405,False,Head,Open Play,0,0,3,Normal
-6.972087205421349,0.057194605490611686,False,Head,Open Play,0,1,4,Normal
-37.04186820342623,0.06552922874670213,False,Right Foot,Open Play,0,0,2,Half Volley
-11.61034021896,0.058551704799169824,False,Right Foot,Open Play,1,0,2,Overhead Kick
-39.39543120718442,0.07824170977301126,False,Right Foot,Open Play,0,0,0,Normal
-22.75016483456768,0.05665066614597636,False,Left Foot,Open Play,0,0,2,Normal
-40.480242094137736,0.08012453249177702,False,Left Foot,Open Play,0,0,0,Normal
-15.6348968656656,0.06266371941326274,False,Left Foot,Open Play,1,1,2,Normal
-22.95059912072014,0.05089795226868936,False,Right Foot,Open Play,0,1,1,Normal
-32.828341414089145,0.05730228919228468,False,Right Foot,Open Play,1,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878547,Federico Dionisi,Frosinone,25.42439773131312,0.06253527615773785,False,Right Foot,Open Play,0,0,0,Normal
+3878547,Danilo Soddimo,Frosinone,8.409518416651462,0.05798177576752405,True,Right Foot,Open Play,1,0,2,Volley
+3878547,Fabio Quagliarella,Torino,5.234500931320963,0.05703386233655576,False,Head,Open Play,0,0,5,Normal
+3878547,Nikola Maksimović,Torino,10.0568384694197,0.05741796413388832,False,Head,Open Play,0,0,3,Normal
+3878547,Danilo Soddimo,Frosinone,25.998846128241922,0.060826323082285715,False,Right Foot,Open Play,1,0,1,Volley
+3878547,Luca Paganini,Frosinone,7.97558775263617,0.05620551712677111,False,Head,Open Play,0,1,2,Normal
+3878547,Daniele Baselli,Torino,27.083020511013906,0.06963716130323669,False,Right Foot,Open Play,0,0,0,Normal
+3878547,Mirko Gori,Frosinone,50.522569214164086,0.07341411890109668,False,Left Foot,Open Play,0,0,1,Half Volley
+3878547,Maximiliano Gastón López,Torino,3.86005181312375,0.05535948081149382,False,Right Foot,Open Play,0,0,2,Volley
+3878547,Kamil Glik,Torino,7.9309520235593425,0.057208260714696695,False,Head,Open Play,0,0,5,Normal
+3878547,Mirko Gori,Frosinone,26.660270066149,0.06147891606415467,False,Left Foot,Open Play,0,0,2,Normal
+3878547,Fabio Quagliarella,Torino,8.4380092438916,0.05859108117691773,False,Head,Open Play,0,0,2,Normal
+3878547,Marco Benassi,Torino,28.872997766078957,0.05675944880711439,False,Right Foot,Open Play,0,0,1,Normal
+3878547,Bruno da Silva Peres,Torino,26.205342966654715,0.06286572430387019,False,Right Foot,Open Play,0,0,1,Normal
+3878547,Maximiliano Gastón López,Torino,11.289375536317317,0.06053333675878523,False,Head,Open Play,0,1,1,Normal
+3878547,Fabio Quagliarella,Torino,20.10621794371084,0.06335541898557452,False,Left Foot,Open Play,1,1,4,Normal
+3878547,Federico Dionisi,Frosinone,20.927493877672028,0.06614329423251541,False,Right Foot,Open Play,0,1,2,Normal
+3878547,Marco Benassi,Torino,24.501836665850174,0.06505239412062658,False,Left Foot,Open Play,0,0,1,Normal
+3878547,Marco Benassi,Torino,11.315917991926243,0.05710803028891961,False,Right Foot,Open Play,1,1,2,Half Volley
+3878547,Fabio Quagliarella,Torino,16.30828010551695,0.05831780312066818,False,Right Foot,Open Play,0,0,3,Half Volley
+3878547,Alessandro Gazzi,Torino,23.027375013231534,0.06644832468026811,False,Left Foot,Open Play,1,0,1,Volley
+3878547,Fabio Quagliarella,Torino,11.148542505637227,0.05940706579701515,False,Left Foot,Open Play,0,1,2,Normal
+3878547,Daniele Baselli,Torino,26.034592372457077,0.06974109650197471,False,Left Foot,Open Play,0,0,1,Normal
+3878547,Bruno da Silva Peres,Torino,24.32632319114419,0.06189386259097637,False,Right Foot,Open Play,0,1,1,Normal
+3878547,Fabio Quagliarella,Torino,20.171762441591458,0.062391066041303254,False,Right Foot,Open Play,0,1,2,Normal
+3878547,Fabio Quagliarella,Torino,11.085576214162254,0.05820604419231015,True,Left Foot,Open Play,1,1,2,Volley
+3878547,Josef Alexander Martínez Mencia,Torino,24.426420122482124,0.06169454561157737,False,Right Foot,Open Play,0,1,1,Normal
+3878547,Danilo Fernando Avelar,Torino,15.640012787718558,0.06283458848198627,False,Left Foot,Open Play,1,1,1,Normal
+3878547,Daniele Baselli,Torino,25.806975801127873,0.06886429648916213,True,Right Foot,Open Play,0,0,1,Normal
+3878547,Danilo Fernando Avelar,Torino,10.248902380255169,0.05918742932654405,False,Head,Open Play,0,0,3,Normal
+3878547,Modibo Diakité,Frosinone,6.972087205421349,0.057194605490611686,False,Head,Open Play,0,1,4,Normal
+3878547,Robert Gucher,Frosinone,37.04186820342623,0.06552922874670213,False,Right Foot,Open Play,0,0,2,Half Volley
+3878547,Josef Alexander Martínez Mencia,Torino,11.61034021896,0.058551704799169824,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3878547,Robert Gucher,Frosinone,39.39543120718442,0.07824170977301126,False,Right Foot,Open Play,0,0,0,Normal
+3878547,Samuele Longo,Frosinone,22.75016483456768,0.05665066614597636,False,Left Foot,Open Play,0,0,2,Normal
+3878547,Daniele Verde,Frosinone,40.480242094137736,0.08012453249177702,False,Left Foot,Open Play,0,0,0,Normal
+3878547,Roberto Crivello,Frosinone,15.6348968656656,0.06266371941326274,False,Left Foot,Open Play,1,1,2,Normal
+3878547,Afriyie Acquah,Torino,22.95059912072014,0.05089795226868936,False,Right Foot,Open Play,0,1,1,Normal
+3878547,Afriyie Acquah,Torino,32.828341414089145,0.05730228919228468,False,Right Foot,Open Play,1,0,1,Half Volley

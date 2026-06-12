@@ -1,59 +1,59 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.278402556022233,0.055519801907230666,False,Right Foot,Open Play,0,0,2,Normal
-13.536986370680886,0.06170059902685674,False,Left Foot,Open Play,1,0,1,Volley
-3.361547262794316,0.05566020710320939,False,Right Foot,Open Play,1,0,4,Half Volley
-29.217118269945793,0.06804892543407949,False,Left Foot,Open Play,1,0,1,Half Volley
-23.879907872519105,0.06098263627694406,False,Right Foot,Open Play,0,0,2,Normal
-22.63183598385248,0.05694453687154714,False,Right Foot,Open Play,1,0,0,Volley
-13.688316185711084,0.05463645013154594,False,Right Foot,Open Play,0,1,4,Normal
-12.963410045200302,0.05892205721354291,False,Head,Open Play,0,1,1,Normal
-22.763567382991617,0.05851997544244486,False,Right Foot,Open Play,1,0,2,Half Volley
-35.17740752244259,0.07662504359986051,False,Left Foot,Open Play,0,0,0,Half Volley
-9.929753269845131,0.05612804357151196,False,Right Foot,Open Play,1,0,1,Normal
-16.62077013859467,0.06253589920119407,False,Left Foot,Open Play,1,1,3,Half Volley
-27.56174885597792,0.0705844046864629,False,Right Foot,Free Kick,0,0,0,Normal
-17.310401497365685,0.05889510369336526,False,Right Foot,Open Play,0,0,4,Normal
-12.529964086141673,0.061113473885250326,False,Right Foot,Open Play,1,0,1,Volley
-7.803204469959764,0.058286673297268124,False,Left Foot,Open Play,1,0,2,Volley
-23.123364807051757,0.05949491613774092,False,Left Foot,Open Play,0,0,2,Normal
-11.107204868912785,0.0593568748102853,False,Head,Open Play,0,1,4,Normal
-13.330416347586445,0.05980484571824283,False,Left Foot,Open Play,0,0,3,Half Volley
-15.48709139896837,0.06291021737353839,False,Left Foot,Open Play,0,0,3,Normal
-7.1175838597096925,0.05775509922463671,False,Head,Open Play,0,0,4,Normal
-9.585405573057404,0.053544110966594075,False,Left Foot,Open Play,1,0,2,Half Volley
-21.856349191939625,0.06582301404277517,False,Right Foot,Open Play,1,0,3,Normal
-6.747592163134936,0.05800645195944273,False,Head,Open Play,0,1,7,Normal
-15.877657257920633,0.05761938903103801,False,Right Foot,Open Play,1,0,1,Volley
-33.26334318735866,0.057077568104032354,False,Right Foot,Open Play,0,0,0,Normal
-26.622171211229183,0.07002791045649777,False,Left Foot,Open Play,0,0,0,Normal
-22.21733557382613,0.0625794810171843,False,Right Foot,Open Play,0,1,1,Normal
-12.491997438360285,0.05800685643616587,False,Head,Open Play,0,1,5,Normal
-11.313708498984765,0.05868864822876416,False,Head,Open Play,0,0,4,Normal
-6.382005954243544,0.05775656205798262,False,Right Foot,Open Play,1,0,3,Half Volley
-19.037857022259622,0.0646489766861215,False,Right Foot,Open Play,0,0,2,Normal
-20.20544481074347,0.06150233168702203,False,Right Foot,Open Play,1,0,3,Normal
-21.223571801183706,0.06408933301804465,False,Right Foot,Open Play,1,0,1,Volley
-7.366138744281158,0.05540195953179043,False,Other,Open Play,0,0,3,Normal
-23.221541723150082,0.0659553841185351,False,Left Foot,Open Play,0,0,2,Normal
-24.06262662304346,0.06595975290688569,False,Right Foot,Open Play,0,0,1,Normal
-22.854758804240316,0.05354718968412004,False,Right Foot,Open Play,0,0,0,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3902968,Kadidiatou Diani,France Women's,18.278402556022233,0.055519801907230666,False,Right Foot,Open Play,0,0,2,Normal
+3902968,Eugénie Le Sommer,France Women's,13.536986370680886,0.06170059902685674,False,Left Foot,Open Play,1,0,1,Volley
+3902968,Maëlle Lakrar,France Women's,3.361547262794316,0.05566020710320939,False,Right Foot,Open Play,1,0,4,Half Volley
+3902968,Katrina Gorry,Australia Women's,29.217118269945793,0.06804892543407949,False,Left Foot,Open Play,1,0,1,Half Volley
+3902968,Eugénie Le Sommer,France Women's,23.879907872519105,0.06098263627694406,False,Right Foot,Open Play,0,0,2,Normal
+3902968,Kenza Dali,France Women's,22.63183598385248,0.05694453687154714,False,Right Foot,Open Play,1,0,0,Volley
+3902968,Maëlle Lakrar,France Women's,13.688316185711084,0.05463645013154594,False,Right Foot,Open Play,0,1,4,Normal
+3902968,Maëlle Lakrar,France Women's,12.963410045200302,0.05892205721354291,False,Head,Open Play,0,1,1,Normal
+3902968,Kenza Dali,France Women's,22.763567382991617,0.05851997544244486,False,Right Foot,Open Play,1,0,2,Half Volley
+3902968,Sakina Karchaoui,France Women's,35.17740752244259,0.07662504359986051,False,Left Foot,Open Play,0,0,0,Half Volley
+3902968,Mary Boio Fowler,Australia Women's,9.929753269845131,0.05612804357151196,False,Right Foot,Open Play,1,0,1,Normal
+3902968,Mary Boio Fowler,Australia Women's,16.62077013859467,0.06253589920119407,False,Left Foot,Open Play,1,1,3,Half Volley
+3902968,Alanna Stephanie Kennedy,Australia Women's,27.56174885597792,0.0705844046864629,False,Right Foot,Free Kick,0,0,0,Normal
+3902968,Mary Boio Fowler,Australia Women's,17.310401497365685,0.05889510369336526,False,Right Foot,Open Play,0,0,4,Normal
+3902968,Mary Boio Fowler,Australia Women's,12.529964086141673,0.061113473885250326,False,Right Foot,Open Play,1,0,1,Volley
+3902968,Eugénie Le Sommer,France Women's,7.803204469959764,0.058286673297268124,False,Left Foot,Open Play,1,0,2,Volley
+3902968,Hayley Emma Raso,Australia Women's,23.123364807051757,0.05949491613774092,False,Left Foot,Open Play,0,0,2,Normal
+3902968,Alanna Stephanie Kennedy,Australia Women's,11.107204868912785,0.0593568748102853,False,Head,Open Play,0,1,4,Normal
+3902968,Mary Boio Fowler,Australia Women's,13.330416347586445,0.05980484571824283,False,Left Foot,Open Play,0,0,3,Half Volley
+3902968,Mary Boio Fowler,Australia Women's,15.48709139896837,0.06291021737353839,False,Left Foot,Open Play,0,0,3,Normal
+3902968,Alanna Stephanie Kennedy,Australia Women's,7.1175838597096925,0.05775509922463671,False,Head,Open Play,0,0,4,Normal
+3902968,Samantha May Kerr,Australia Women's,9.585405573057404,0.053544110966594075,False,Left Foot,Open Play,1,0,2,Half Volley
+3902968,Kenza Dali,France Women's,21.856349191939625,0.06582301404277517,False,Right Foot,Open Play,1,0,3,Normal
+3902968,Maëlle Lakrar,France Women's,6.747592163134936,0.05800645195944273,False,Head,Open Play,0,1,7,Normal
+3902968,Mary Boio Fowler,Australia Women's,15.877657257920633,0.05761938903103801,False,Right Foot,Open Play,1,0,1,Volley
+3902968,Ellie Madison Carpenter,Australia Women's,33.26334318735866,0.057077568104032354,False,Right Foot,Open Play,0,0,0,Normal
+3902968,Selma Bacha,France Women's,26.622171211229183,0.07002791045649777,False,Left Foot,Open Play,0,0,0,Normal
+3902968,Kenza Dali,France Women's,22.21733557382613,0.0625794810171843,False,Right Foot,Open Play,0,1,1,Normal
+3902968,Wendie Renard,France Women's,12.491997438360285,0.05800685643616587,False,Head,Open Play,0,1,5,Normal
+3902968,Elisa De Almeida,France Women's,11.313708498984765,0.05868864822876416,False,Head,Open Play,0,0,4,Normal
+3902968,Cortnee Brooke Vine,Australia Women's,6.382005954243544,0.05775656205798262,False,Right Foot,Open Play,1,0,3,Half Volley
+3902968,Kadidiatou Diani,France Women's,19.037857022259622,0.0646489766861215,False,Right Foot,Open Play,0,0,2,Normal
+3902968,Vicki Becho,France Women's,20.20544481074347,0.06150233168702203,False,Right Foot,Open Play,1,0,3,Normal
+3902968,Kenza Dali,France Women's,21.223571801183706,0.06408933301804465,False,Right Foot,Open Play,1,0,1,Volley
+3902968,Cortnee Brooke Vine,Australia Women's,7.366138744281158,0.05540195953179043,False,Other,Open Play,0,0,3,Normal
+3902968,Selma Bacha,France Women's,23.221541723150082,0.0659553841185351,False,Left Foot,Open Play,0,0,2,Normal
+3902968,Vicki Becho,France Women's,24.06262662304346,0.06595975290688569,False,Right Foot,Open Play,0,0,1,Normal
+3902968,Eugénie Le Sommer,France Women's,22.854758804240316,0.05354718968412004,False,Right Foot,Open Play,0,0,0,Normal
+3902968,Selma Bacha,France Women's,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+3902968,Caitlin Jade Foord,Australia Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Kadidiatou Diani,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Stephanie-Elise Catley,Australia Women's,12.0,0.05959154427448477,False,Left Foot,Penalty,0,0,0,Normal
+3902968,Wendie Renard,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Samantha May Kerr,Australia Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Eugénie Le Sommer,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Mary Boio Fowler,Australia Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Eve Perisset,France Women's,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3902968,Mackenzie Arnold,Australia Women's,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3902968,Onema Grace Geyoro,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Katrina Gorry,Australia Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Sakina Karchaoui,France Women's,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3902968,Tameka Yallop,Australia Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Maëlle Lakrar,France Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Ellie Madison Carpenter,Australia Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3902968,Kenza Dali,France Women's,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3902968,Clare Hunt,Australia Women's,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3902968,Vicki Becho,France Women's,12.0,0.05959154427448477,False,Right Foot,Penalty,0,0,0,Normal
+3902968,Cortnee Brooke Vine,Australia Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal

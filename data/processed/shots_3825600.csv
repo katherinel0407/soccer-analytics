@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-61.216010977521236,0.08701434348288839,False,Left Foot,Open Play,0,1,1,Lob
-26.72395928750079,0.07000298855140781,False,Right Foot,Open Play,0,0,2,Normal
-13.43018987207553,0.05672552379823502,False,Right Foot,Open Play,0,1,2,Normal
-29.80771712157776,0.07225161154661042,False,Right Foot,Open Play,0,1,2,Normal
-10.023971268913334,0.05918587116898089,False,Right Foot,Open Play,1,0,1,Half Volley
-18.617196351760377,0.05399870351583413,False,Right Foot,Open Play,0,1,1,Normal
-14.339107364128353,0.05379909005548658,False,Right Foot,Open Play,0,0,1,Normal
-12.342204017111364,0.05399661236208205,False,Head,Open Play,0,1,3,Normal
-30.411346566701052,0.06657898548572634,False,Right Foot,Open Play,0,0,1,Normal
-12.293087488503453,0.05766786286853147,False,Left Foot,Open Play,0,0,2,Normal
-17.765415840897163,0.06406161091659975,False,Right Foot,Open Play,0,0,2,Normal
-35.117659375305756,0.0668677433321378,False,Left Foot,Free Kick,0,0,0,Normal
-9.219544457292887,0.059233034771095816,False,Head,Open Play,0,1,2,Normal
-24.001041644062035,0.05503847666984342,False,Left Foot,Open Play,0,1,2,Normal
-11.936498649101424,0.05384009813562602,False,Right Foot,Open Play,1,0,1,Overhead Kick
-25.419677417308034,0.0631297899267409,False,Right Foot,Open Play,1,0,2,Normal
-15.16080472798196,0.059731784607414073,False,Right Foot,Open Play,0,0,4,Half Volley
-31.755471969410248,0.07245806899729862,False,Right Foot,Open Play,0,0,0,Normal
-6.8425141578223965,0.05620880770850163,False,Head,Open Play,0,1,3,Normal
-9.526804291051647,0.05956409125270407,False,Head,Open Play,0,1,1,Normal
-20.651876428063385,0.057687716595844624,False,Right Foot,Open Play,0,1,3,Normal
-18.398097727754354,0.05852445572853251,False,Right Foot,Open Play,0,0,2,Half Volley
-25.236679654819888,0.06882310306326772,False,Right Foot,Open Play,0,1,2,Normal
-23.249946236496978,0.0660453141635999,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825600,Sérgio Paulo Barbosa Valente,Málaga,61.216010977521236,0.08701434348288839,False,Left Foot,Open Play,0,1,1,Lob
+3825600,José Luis García del Pozo,Málaga,26.72395928750079,0.07000298855140781,False,Right Foot,Open Play,0,0,2,Normal
+3825600,Matías Nahuel Leiva Esquivel,Villarreal,13.43018987207553,0.05672552379823502,False,Right Foot,Open Play,0,1,2,Normal
+3825600,Denis Suárez Fernández,Villarreal,29.80771712157776,0.07225161154661042,False,Right Foot,Open Play,0,1,2,Normal
+3825600,Ricardo Jorge Luz Horta,Málaga,10.023971268913334,0.05918587116898089,False,Right Foot,Open Play,1,0,1,Half Volley
+3825600,Leonardo Carrilho Baptistão,Villarreal,18.617196351760377,0.05399870351583413,False,Right Foot,Open Play,0,1,1,Normal
+3825600,Leonardo Carrilho Baptistão,Villarreal,14.339107364128353,0.05379909005548658,False,Right Foot,Open Play,0,0,1,Normal
+3825600,Mario Gaspar Pérez Martínez,Villarreal,12.342204017111364,0.05399661236208205,False,Head,Open Play,0,1,3,Normal
+3825600,Charles Días Barbosa de Oliveira,Málaga,30.411346566701052,0.06657898548572634,False,Right Foot,Open Play,0,0,1,Normal
+3825600,Leonardo Carrilho Baptistão,Villarreal,12.293087488503453,0.05766786286853147,False,Left Foot,Open Play,0,0,2,Normal
+3825600,Leonardo Carrilho Baptistão,Villarreal,17.765415840897163,0.06406161091659975,False,Right Foot,Open Play,0,0,2,Normal
+3825600,Sérgio Paulo Barbosa Valente,Málaga,35.117659375305756,0.0668677433321378,False,Left Foot,Free Kick,0,0,0,Normal
+3825600,Duje Čop,Málaga,9.219544457292887,0.059233034771095816,False,Head,Open Play,0,1,2,Normal
+3825600,Adnane Tighadouini,Málaga,24.001041644062035,0.05503847666984342,False,Left Foot,Open Play,0,1,2,Normal
+3825600,Duje Čop,Málaga,11.936498649101424,0.05384009813562602,False,Right Foot,Open Play,1,0,1,Overhead Kick
+3825600,Fernando Damián Tissone,Málaga,25.419677417308034,0.0631297899267409,False,Right Foot,Open Play,1,0,2,Normal
+3825600,Charles Días Barbosa de Oliveira,Málaga,15.16080472798196,0.059731784607414073,False,Right Foot,Open Play,0,0,4,Half Volley
+3825600,Adnane Tighadouini,Málaga,31.755471969410248,0.07245806899729862,False,Right Foot,Open Play,0,0,0,Normal
+3825600,Charles Días Barbosa de Oliveira,Málaga,6.8425141578223965,0.05620880770850163,False,Head,Open Play,0,1,3,Normal
+3825600,Sérgio Paulo Barbosa Valente,Málaga,9.526804291051647,0.05956409125270407,False,Head,Open Play,0,1,1,Normal
+3825600,Denis Suárez Fernández,Villarreal,20.651876428063385,0.057687716595844624,False,Right Foot,Open Play,0,1,3,Normal
+3825600,Duje Čop,Málaga,18.398097727754354,0.05852445572853251,False,Right Foot,Open Play,0,0,2,Half Volley
+3825600,Adnane Tighadouini,Málaga,25.236679654819888,0.06882310306326772,False,Right Foot,Open Play,0,1,2,Normal
+3825600,Matías Nahuel Leiva Esquivel,Villarreal,23.249946236496978,0.0660453141635999,False,Right Foot,Open Play,0,0,2,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-22.651490017215206,0.06200115995881766,False,Right Foot,Open Play,1,0,0,Normal
-23.617789905069436,0.05438145392004054,False,Right Foot,Open Play,0,0,2,Half Volley
-19.849433241279208,0.06485095240794746,False,Right Foot,Open Play,0,0,1,Normal
-33.480292710787346,0.07504495609923131,False,Left Foot,Open Play,0,0,1,Normal
-8.266196223173026,0.05892138703427899,False,Left Foot,Open Play,1,0,0,Half Volley
-14.046351839534708,0.061443896803515106,False,Right Foot,Open Play,1,0,1,Normal
-17.39482681718907,0.06405340347881905,False,Right Foot,Open Play,0,0,2,Normal
-22.04109797628059,0.06029524949515823,False,Left Foot,Open Play,0,0,1,Normal
-32.21335126931067,0.0705556333419193,False,Right Foot,Open Play,0,1,2,Normal
-5.107837115648857,0.056040505618199184,False,Head,Open Play,0,0,4,Normal
-6.762396025078685,0.05814186473224872,False,Right Foot,Open Play,1,0,1,Volley
-22.418965185752885,0.057332309886484974,False,Right Foot,Open Play,1,0,1,Volley
-16.385664466233887,0.06342282781190459,False,Right Foot,Open Play,0,0,4,Normal
-9.12688336728371,0.05619105069386554,True,Right Foot,Open Play,1,0,1,Normal
-7.543208866258441,0.057054620108719555,False,Head,Open Play,0,1,5,Normal
-8.400000000000006,0.058114279246910615,False,Head,Open Play,0,1,6,Normal
-24.876695922087407,0.06890187009215809,False,Right Foot,Open Play,0,0,3,Normal
-32.34439673266453,0.07377268059001675,False,Left Foot,Open Play,0,0,0,Normal
-11.314592347937248,0.06039325066099853,False,Head,Open Play,0,1,2,Normal
-10.435037134576955,0.060035567631308594,False,Head,Open Play,0,0,1,Normal
-11.315917991926238,0.05951067276143273,False,Head,Open Play,0,1,2,Normal
-23.189868477419182,0.05361420496556047,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788756,Memphis Depay,Netherlands,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+3788756,Memphis Depay,Netherlands,22.651490017215206,0.06200115995881766,False,Right Foot,Open Play,1,0,0,Normal
+3788756,Memphis Depay,Netherlands,23.617789905069436,0.05438145392004054,False,Right Foot,Open Play,0,0,2,Half Volley
+3788756,Christoph Baumgartner,Austria,19.849433241279208,0.06485095240794746,False,Right Foot,Open Play,0,0,1,Normal
+3788756,Martin Hinteregger,Austria,33.480292710787346,0.07504495609923131,False,Left Foot,Open Play,0,0,1,Normal
+3788756,Memphis Depay,Netherlands,8.266196223173026,0.05892138703427899,False,Left Foot,Open Play,1,0,0,Half Volley
+3788756,Georginio Wijnaldum,Netherlands,14.046351839534708,0.061443896803515106,False,Right Foot,Open Play,1,0,1,Normal
+3788756,Memphis Depay,Netherlands,17.39482681718907,0.06405340347881905,False,Right Foot,Open Play,0,0,2,Normal
+3788756,Georginio Wijnaldum,Netherlands,22.04109797628059,0.06029524949515823,False,Left Foot,Open Play,0,0,1,Normal
+3788756,Marcel Sabitzer,Austria,32.21335126931067,0.0705556333419193,False,Right Foot,Open Play,0,1,2,Normal
+3788756,Stefan de Vrij,Netherlands,5.107837115648857,0.056040505618199184,False,Head,Open Play,0,0,4,Normal
+3788756,Matthijs de Ligt,Netherlands,6.762396025078685,0.05814186473224872,False,Right Foot,Open Play,1,0,1,Volley
+3788756,Marten de Roon,Netherlands,22.418965185752885,0.057332309886484974,False,Right Foot,Open Play,1,0,1,Volley
+3788756,Wout Weghorst,Netherlands,16.385664466233887,0.06342282781190459,False,Right Foot,Open Play,0,0,4,Normal
+3788756,Denzel Dumfries,Netherlands,9.12688336728371,0.05619105069386554,True,Right Foot,Open Play,1,0,1,Normal
+3788756,Martin Hinteregger,Austria,7.543208866258441,0.057054620108719555,False,Head,Open Play,0,1,5,Normal
+3788756,Sasa Kalajdzic,Austria,8.400000000000006,0.058114279246910615,False,Head,Open Play,0,1,6,Normal
+3788756,Memphis Depay,Netherlands,24.876695922087407,0.06890187009215809,False,Right Foot,Open Play,0,0,3,Normal
+3788756,David Olatukunbo Alaba,Austria,32.34439673266453,0.07377268059001675,False,Left Foot,Open Play,0,0,0,Normal
+3788756,Sasa Kalajdzic,Austria,11.314592347937248,0.06039325066099853,False,Head,Open Play,0,1,2,Normal
+3788756,Karim Onisiwo,Austria,10.435037134576955,0.060035567631308594,False,Head,Open Play,0,0,1,Normal
+3788756,Sasa Kalajdzic,Austria,11.315917991926238,0.05951067276143273,False,Head,Open Play,0,1,2,Normal
+3788756,Donyell Malen,Netherlands,23.189868477419182,0.05361420496556047,False,Right Foot,Open Play,0,0,1,Normal

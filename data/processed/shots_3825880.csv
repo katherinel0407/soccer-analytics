@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.575364531836623,0.06513497674259507,False,Right Foot,Open Play,0,0,1,Normal
-22.703523955544878,0.054301757279080154,False,Left Foot,Open Play,0,0,2,Normal
-51.007842534261336,0.07474425166358373,False,Right Foot,Open Play,0,1,1,Lob
-19.74082065163452,0.05336839440641646,False,Right Foot,Open Play,0,0,1,Normal
-55.20443822737444,0.08101453477041326,False,Right Foot,Open Play,0,0,0,Lob
-16.264070831129576,0.05512741966301465,False,Right Foot,Open Play,0,0,1,Half Volley
-24.480400323524123,0.0527172858696992,False,Right Foot,Open Play,1,0,1,Half Volley
-22.873784120691532,0.058040056947233826,False,Left Foot,Open Play,1,0,1,Normal
-7.851751396981437,0.057578714624074684,True,Right Foot,Open Play,0,0,4,Normal
-11.253888216967509,0.060094562110471046,True,Left Foot,Open Play,0,1,3,Normal
-20.470710783946902,0.055392787969697384,False,Left Foot,Open Play,0,0,3,Normal
-31.07426588030681,0.0632603261571997,False,Right Foot,Open Play,1,0,0,Normal
-14.089002803605368,0.060759970884490005,False,Head,Open Play,0,1,1,Normal
-29.29590415058051,0.059380058686851506,False,Right Foot,Open Play,1,0,1,Volley
-29.821636440678432,0.05268828146195637,False,Left Foot,Open Play,0,0,3,Normal
-18.630351580150066,0.06147990491265676,False,Right Foot,Open Play,1,0,1,Half Volley
-9.343446901438458,0.05501187690288421,False,Right Foot,Open Play,1,0,3,Backheel
-33.67862823809782,0.05415496566404185,False,Left Foot,Open Play,0,0,2,Normal
-5.456189146281497,0.0571420433738224,False,Right Foot,Open Play,0,1,2,Half Volley
-9.167878707749141,0.05934197127152632,False,Left Foot,Open Play,1,0,1,Normal
-23.302574965011914,0.06773987429005181,False,Right Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825880,Celso Borges Mora,RC Deportivo La Coruña,26.575364531836623,0.06513497674259507,False,Right Foot,Open Play,0,0,1,Normal
+3825880,Lucas Pérez Martínez,RC Deportivo La Coruña,22.703523955544878,0.054301757279080154,False,Left Foot,Open Play,0,0,2,Normal
+3825880,Joan Verdú Fernández,Levante UD,51.007842534261336,0.07474425166358373,False,Right Foot,Open Play,0,1,1,Lob
+3825880,Fayçal Fajr,RC Deportivo La Coruña,19.74082065163452,0.05336839440641646,False,Right Foot,Open Play,0,0,1,Normal
+3825880,José Antonio García Rabasco,Levante UD,55.20443822737444,0.08101453477041326,False,Right Foot,Open Play,0,0,0,Lob
+3825880,José Luis Morales Nogales,Levante UD,16.264070831129576,0.05512741966301465,False,Right Foot,Open Play,0,0,1,Half Volley
+3825880,Fayçal Fajr,RC Deportivo La Coruña,24.480400323524123,0.0527172858696992,False,Right Foot,Open Play,1,0,1,Half Volley
+3825880,José Antonio García Rabasco,Levante UD,22.873784120691532,0.058040056947233826,False,Left Foot,Open Play,1,0,1,Normal
+3825880,Luis Alberto Romero Alconchel,RC Deportivo La Coruña,7.851751396981437,0.057578714624074684,True,Right Foot,Open Play,0,0,4,Normal
+3825880,Giuseppe Rossi,Levante UD,11.253888216967509,0.060094562110471046,True,Left Foot,Open Play,0,1,3,Normal
+3825880,Lucas Pérez Martínez,RC Deportivo La Coruña,20.470710783946902,0.055392787969697384,False,Left Foot,Open Play,0,0,3,Normal
+3825880,Fayçal Fajr,RC Deportivo La Coruña,31.07426588030681,0.0632603261571997,False,Right Foot,Open Play,1,0,0,Normal
+3825880,Rubén Gracia Calmache,RC Deportivo La Coruña,14.089002803605368,0.060759970884490005,False,Head,Open Play,0,1,1,Normal
+3825880,Simão Mate,Levante UD,29.29590415058051,0.059380058686851506,False,Right Foot,Open Play,1,0,1,Volley
+3825880,Federico Nicolás Cartabia,RC Deportivo La Coruña,29.821636440678432,0.05268828146195637,False,Left Foot,Open Play,0,0,3,Normal
+3825880,Fayçal Fajr,RC Deportivo La Coruña,18.630351580150066,0.06147990491265676,False,Right Foot,Open Play,1,0,1,Half Volley
+3825880,Lucas Pérez Martínez,RC Deportivo La Coruña,9.343446901438458,0.05501187690288421,False,Right Foot,Open Play,1,0,3,Backheel
+3825880,Federico Nicolás Cartabia,RC Deportivo La Coruña,33.67862823809782,0.05415496566404185,False,Left Foot,Open Play,0,0,2,Normal
+3825880,Luis Alberto Romero Alconchel,RC Deportivo La Coruña,5.456189146281497,0.0571420433738224,False,Right Foot,Open Play,0,1,2,Half Volley
+3825880,Lucas Pérez Martínez,RC Deportivo La Coruña,9.167878707749141,0.05934197127152632,False,Left Foot,Open Play,1,0,1,Normal
+3825880,Carl Medjani,Levante UD,23.302574965011914,0.06773987429005181,False,Right Foot,Open Play,0,0,2,Half Volley

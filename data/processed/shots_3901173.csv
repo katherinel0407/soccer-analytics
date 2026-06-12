@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.00906121709914,0.06461069720243964,False,Right Foot,Open Play,1,0,1,Half Volley
-23.572229423624737,0.06727225813653635,False,Right Foot,Open Play,1,0,2,Normal
-5.11077293567226,0.057311081148931416,False,Head,Open Play,0,1,6,Normal
-19.63670033381372,0.0640229756497364,False,Right Foot,Open Play,0,0,1,Normal
-23.90062760682238,0.0676146220160284,False,Right Foot,Open Play,0,0,2,Normal
-30.07806509734295,0.06224325135977553,False,Left Foot,Free Kick,0,0,0,Normal
-30.880738333142226,0.06400028270134013,False,Right Foot,Open Play,0,0,0,Normal
-13.536986370680886,0.06170059902685674,False,Head,Open Play,0,1,1,Normal
-19.691876497683,0.06547152118232472,False,Right Foot,Open Play,1,0,2,Normal
-16.42010962204577,0.05807541195173402,False,Left Foot,Open Play,0,0,2,Normal
-32.76492026543023,0.05713616454486939,False,Left Foot,Open Play,1,0,1,Normal
-13.656500283747663,0.061721045621358495,False,Left Foot,Open Play,1,0,1,Normal
-30.937517676762624,0.07300798183384666,False,Right Foot,Open Play,0,0,2,Normal
-28.591082525850613,0.06530968124995862,False,Right Foot,Open Play,1,0,0,Normal
-10.259142264341596,0.055390902561889666,False,Right Foot,Open Play,1,1,4,Normal
-24.258812831628838,0.06791222513649049,False,Left Foot,Open Play,1,0,1,Normal
-13.314653581674595,0.061659965917407696,False,Left Foot,Open Play,0,1,1,Normal
-19.825236442474022,0.05742235080087285,False,Right Foot,Open Play,0,1,1,Normal
-9.5603347221737,0.057547961782353066,True,Left Foot,Open Play,0,0,2,Normal
-15.50483795465145,0.060334707922819544,False,Right Foot,Open Play,1,0,0,Normal
-14.848568954616464,0.06031877973260927,False,Right Foot,Open Play,1,1,1,Normal
-9.84123975929862,0.05546085119102642,False,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901173,Jérôme Le Moigne,Gazélec Ajaccio,32.00906121709914,0.06461069720243964,False,Right Foot,Open Play,1,0,1,Half Volley
+3901173,Jacques-Alaixys Romao,Marseille,23.572229423624737,0.06727225813653635,False,Right Foot,Open Play,1,0,2,Normal
+3901173,Roderic Filippi,Gazélec Ajaccio,5.11077293567226,0.057311081148931416,False,Head,Open Play,0,1,6,Normal
+3901173,Georges-Kévin Nkoudou Mbida,Marseille,19.63670033381372,0.0640229756497364,False,Right Foot,Open Play,0,0,1,Normal
+3901173,Georges-Kévin Nkoudou Mbida,Marseille,23.90062760682238,0.0676146220160284,False,Right Foot,Open Play,0,0,2,Normal
+3901173,Damjan Đoković,Gazélec Ajaccio,30.07806509734295,0.06224325135977553,False,Left Foot,Free Kick,0,0,0,Normal
+3901173,Jérôme Le Moigne,Gazélec Ajaccio,30.880738333142226,0.06400028270134013,False,Right Foot,Open Play,0,0,0,Normal
+3901173,Jacques Zoua Daogari,Gazélec Ajaccio,13.536986370680886,0.06170059902685674,False,Head,Open Play,0,1,1,Normal
+3901173,Georges-Kévin Nkoudou Mbida,Marseille,19.691876497683,0.06547152118232472,False,Right Foot,Open Play,1,0,2,Normal
+3901173,Michy Batshuayi Tunga,Marseille,16.42010962204577,0.05807541195173402,False,Left Foot,Open Play,0,0,2,Normal
+3901173,Issiaga Sylla,Gazélec Ajaccio,32.76492026543023,0.05713616454486939,False,Left Foot,Open Play,1,0,1,Normal
+3901173,Mohamed Larbi,Gazélec Ajaccio,13.656500283747663,0.061721045621358495,False,Left Foot,Open Play,1,0,1,Normal
+3901173,Jacques Zoua Daogari,Gazélec Ajaccio,30.937517676762624,0.07300798183384666,False,Right Foot,Open Play,0,0,2,Normal
+3901173,Jérôme Le Moigne,Gazélec Ajaccio,28.591082525850613,0.06530968124995862,False,Right Foot,Open Play,1,0,0,Normal
+3901173,Jacques Zoua Daogari,Gazélec Ajaccio,10.259142264341596,0.055390902561889666,False,Right Foot,Open Play,1,1,4,Normal
+3901173,Damjan Đoković,Gazélec Ajaccio,24.258812831628838,0.06791222513649049,False,Left Foot,Open Play,1,0,1,Normal
+3901173,Khalid Boutaïb,Gazélec Ajaccio,13.314653581674595,0.061659965917407696,False,Left Foot,Open Play,0,1,1,Normal
+3901173,David Ducourtioux,Gazélec Ajaccio,19.825236442474022,0.05742235080087285,False,Right Foot,Open Play,0,1,1,Normal
+3901173,Rémy Cabella,Marseille,9.5603347221737,0.057547961782353066,True,Left Foot,Open Play,0,0,2,Normal
+3901173,David Ducourtioux,Gazélec Ajaccio,15.50483795465145,0.060334707922819544,False,Right Foot,Open Play,1,0,0,Normal
+3901173,Khalid Boutaïb,Gazélec Ajaccio,14.848568954616464,0.06031877973260927,False,Right Foot,Open Play,1,1,1,Normal
+3901173,Roderic Filippi,Gazélec Ajaccio,9.84123975929862,0.05546085119102642,False,Head,Open Play,0,1,5,Normal

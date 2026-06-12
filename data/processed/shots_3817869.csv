@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.513994404475525,0.062250489498169845,False,Left Foot,Open Play,0,1,2,Volley
-12.080562900792332,0.058040413780762204,True,Right Foot,Open Play,1,0,3,Normal
-8.32165848854662,0.05858082565486565,False,Right Foot,Open Play,1,0,3,Normal
-20.884922791334425,0.06472590768191033,False,Right Foot,Open Play,1,0,0,Normal
-26.40473442396269,0.06637155119354464,False,Right Foot,Open Play,1,0,1,Normal
-24.382165613415065,0.06285610086852209,True,Right Foot,Open Play,0,0,1,Normal
-34.85541564807397,0.07626240992867078,False,Right Foot,Open Play,0,0,2,Normal
-19.677398201998145,0.06539507020216435,False,Left Foot,Open Play,0,0,2,Normal
-41.262210314039166,0.08203128633559491,False,Left Foot,Open Play,0,0,1,Normal
-15.320900756809303,0.060686800545232664,False,Left Foot,Open Play,1,0,3,Volley
-6.082762530298219,0.05685857206203014,False,Head,Open Play,0,0,4,Normal
-13.99464183178691,0.05448841289104527,False,Right Foot,Open Play,1,0,2,Half Volley
-19.221342304844367,0.0569847673718486,False,Right Foot,Open Play,0,0,5,Half Volley
-7.381734213584229,0.058464157769461775,False,Head,Open Play,0,0,2,Normal
-26.66270803950716,0.05589901887849506,False,Right Foot,Free Kick,0,0,0,Normal
-57.78477308080391,0.07337605582592384,False,Right Foot,Open Play,0,0,1,Lob
-8.421995013059552,0.05628458357002613,False,Head,Open Play,0,0,1,Normal
-23.07661153635863,0.058707273209706645,False,Right Foot,Open Play,1,0,2,Volley
-8.62844134244418,0.05796139401949334,True,Right Foot,Open Play,1,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3817869,Prince Vinny Ibara Doniama,Bengaluru,17.513994404475525,0.062250489498169845,False,Left Foot,Open Play,0,1,2,Volley
+3817869,Javier Siverio Toro,Hyderabad,12.080562900792332,0.058040413780762204,True,Right Foot,Open Play,1,0,3,Normal
+3817869,Javier Siverio Toro,Hyderabad,8.32165848854662,0.05858082565486565,False,Right Foot,Open Play,1,0,3,Normal
+3817869,Rohit Danu,Hyderabad,20.884922791334425,0.06472590768191033,False,Right Foot,Open Play,1,0,0,Normal
+3817869,Souvik Chakrabarti,Hyderabad,26.40473442396269,0.06637155119354464,False,Right Foot,Open Play,1,0,1,Normal
+3817869,João Victor de Albuquerque Bruno,Hyderabad,24.382165613415065,0.06285610086852209,True,Right Foot,Open Play,0,0,1,Normal
+3817869,Rohit Danu,Hyderabad,34.85541564807397,0.07626240992867078,False,Right Foot,Open Play,0,0,2,Normal
+3817869,Bartholomew Owogbalor Ogbeche,Hyderabad,19.677398201998145,0.06539507020216435,False,Left Foot,Open Play,0,0,2,Normal
+3817869,Naorem Roshan Singh,Bengaluru,41.262210314039166,0.08203128633559491,False,Left Foot,Open Play,0,0,1,Normal
+3817869,Nikhil Poojary,Hyderabad,15.320900756809303,0.060686800545232664,False,Left Foot,Open Play,1,0,3,Volley
+3817869,Sunil Chhetri,Bengaluru,6.082762530298219,0.05685857206203014,False,Head,Open Play,0,0,4,Normal
+3817869,Prince Vinny Ibara Doniama,Bengaluru,13.99464183178691,0.05448841289104527,False,Right Foot,Open Play,1,0,2,Half Volley
+3817869,Suresh Singh Wangjam,Bengaluru,19.221342304844367,0.0569847673718486,False,Right Foot,Open Play,0,0,5,Half Volley
+3817869,Cleiton Augusto Oliveira Silva,Bengaluru,7.381734213584229,0.058464157769461775,False,Head,Open Play,0,0,2,Normal
+3817869,Bartholomew Owogbalor Ogbeche,Hyderabad,26.66270803950716,0.05589901887849506,False,Right Foot,Free Kick,0,0,0,Normal
+3817869,João Victor de Albuquerque Bruno,Hyderabad,57.78477308080391,0.07337605582592384,False,Right Foot,Open Play,0,0,1,Lob
+3817869,Sunil Chhetri,Bengaluru,8.421995013059552,0.05628458357002613,False,Head,Open Play,0,0,1,Normal
+3817869,Sahil Tavora,Hyderabad,23.07661153635863,0.058707273209706645,False,Right Foot,Open Play,1,0,2,Volley
+3817869,Sunil Chhetri,Bengaluru,8.62844134244418,0.05796139401949334,True,Right Foot,Open Play,1,0,3,Normal

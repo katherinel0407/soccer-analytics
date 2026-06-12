@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.592419889539799,0.057970909475590277,True,Head,Open Play,0,1,5,Normal
-23.56459208218975,0.06756317790920405,False,Left Foot,Open Play,1,0,1,Half Volley
-19.331321734428823,0.06500863120018635,False,Right Foot,Open Play,0,0,1,Half Volley
-6.161980201201555,0.05782299394098033,True,Right Foot,Open Play,0,0,4,Normal
-21.176638071233118,0.06614223139428003,False,Right Foot,Open Play,0,1,2,Normal
-9.220086767487608,0.05587646358352918,False,Left Foot,Open Play,1,0,2,Normal
-22.27913822390803,0.06691287909122788,False,Left Foot,Open Play,0,0,1,Normal
-2.9681644159311626,0.054759272491735046,False,Head,Open Play,0,1,5,Normal
-13.176494222667877,0.060833919892078814,True,Right Foot,Open Play,1,1,1,Normal
-23.830232898568152,0.06543337269682947,False,Left Foot,Open Play,1,0,2,Normal
-13.756816492197604,0.05831547674229943,False,Head,Open Play,0,1,2,Normal
-26.4372842780797,0.06259337420195633,False,Right Foot,Open Play,0,0,0,Normal
-11.021796586763882,0.058313819457322974,False,Right Foot,Open Play,1,0,1,Half Volley
-11.920570456148486,0.05979921660085004,False,Head,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19811,Louise Quinn,Arsenal WFC,6.592419889539799,0.057970909475590277,True,Head,Open Play,0,1,5,Normal
+19811,Katie McCabe,Arsenal WFC,23.56459208218975,0.06756317790920405,False,Left Foot,Open Play,1,0,1,Half Volley
+19811,Kim Little,Arsenal WFC,19.331321734428823,0.06500863120018635,False,Right Foot,Open Play,0,0,1,Half Volley
+19811,Vivianne Miedema,Arsenal WFC,6.161980201201555,0.05782299394098033,True,Right Foot,Open Play,0,0,4,Normal
+19811,Chantelle Boye-Hlorkah,Everton LFC,21.176638071233118,0.06614223139428003,False,Right Foot,Open Play,0,1,2,Normal
+19811,Vivianne Miedema,Arsenal WFC,9.220086767487608,0.05587646358352918,False,Left Foot,Open Play,1,0,2,Normal
+19811,Katrine Veje,Arsenal WFC,22.27913822390803,0.06691287909122788,False,Left Foot,Open Play,0,0,1,Normal
+19811,Leah Williamson,Arsenal WFC,2.9681644159311626,0.054759272491735046,False,Head,Open Play,0,1,5,Normal
+19811,Chantelle Boye-Hlorkah,Everton LFC,13.176494222667877,0.060833919892078814,True,Right Foot,Open Play,1,1,1,Normal
+19811,Katie McCabe,Arsenal WFC,23.830232898568152,0.06543337269682947,False,Left Foot,Open Play,1,0,2,Normal
+19811,Elise Hughes,Everton LFC,13.756816492197604,0.05831547674229943,False,Head,Open Play,0,1,2,Normal
+19811,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,26.4372842780797,0.06259337420195633,False,Right Foot,Open Play,0,0,0,Normal
+19811,Vivianne Miedema,Arsenal WFC,11.021796586763882,0.058313819457322974,False,Right Foot,Open Play,1,0,1,Half Volley
+19811,Danielle van de Donk,Arsenal WFC,11.920570456148486,0.05979921660085004,False,Head,Open Play,0,1,1,Normal

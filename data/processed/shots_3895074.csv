@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.43551627855565,0.058798818505600606,False,Left Foot,Open Play,1,0,1,Volley
-15.769908052997645,0.05518710034054716,False,Left Foot,Open Play,1,0,2,Normal
-5.622277118748238,0.05745508620564315,True,Head,Open Play,0,0,1,Normal
-18.27922317824256,0.0629776844149309,False,Left Foot,Open Play,0,1,1,Normal
-16.72991332912397,0.06329515099120386,False,Right Foot,Open Play,0,1,3,Normal
-25.49509756796393,0.06452702896964452,True,Left Foot,Free Kick,0,0,0,Normal
-8.386298349093003,0.0575081694441716,False,Right Foot,Open Play,0,0,2,Normal
-34.856993559399235,0.07616041233246539,False,Left Foot,Open Play,0,0,0,Normal
-14.368020044529448,0.06177084321046234,False,Left Foot,Open Play,0,1,2,Normal
-10.417773274553447,0.05731674706309317,False,Head,Open Play,0,0,2,Normal
-13.24009063413087,0.05367306825515051,False,Right Foot,Open Play,1,0,0,Half Volley
-13.68539367354845,0.06179303450093754,False,Right Foot,Open Play,0,1,3,Normal
-22.955827146935924,0.0636854405050514,False,Left Foot,Open Play,0,1,2,Normal
-14.6972786596703,0.061552008126010374,False,Right Foot,Open Play,0,0,4,Normal
-10.394229168149028,0.06003144215110895,False,Head,Open Play,0,0,2,Normal
-15.341773039645709,0.06145858488088045,False,Right Foot,Open Play,0,1,1,Normal
-23.807561823924765,0.06514973328038352,False,Left Foot,Open Play,1,0,1,Half Volley
-8.268010643437755,0.05610741068753733,False,Head,Open Play,0,0,2,Normal
-61.544211750578135,0.06777547916363706,False,Right Foot,Open Play,1,0,1,Lob
-30.25524747874325,0.061135189182460845,False,Left Foot,Open Play,0,1,1,Normal
-9.677293009927936,0.059283595810465474,False,Right Foot,Open Play,1,1,4,Normal
-10.043903623591778,0.056057835991811696,False,Head,Open Play,0,0,3,Normal
-10.25329215423027,0.059865891345145535,False,Left Foot,Open Play,0,0,2,Normal
-12.093386622447824,0.06016614362836821,False,Right Foot,Open Play,0,0,2,Normal
-21.43735058256967,0.06660099547511412,False,Left Foot,Open Play,0,0,1,Half Volley
-17.36116355547634,0.06360098040223018,False,Right Foot,Open Play,0,1,3,Normal
-9.10054943396276,0.058430434944228,True,Left Foot,Open Play,1,0,3,Normal
-12.185236969382256,0.06089154906141658,False,Left Foot,Open Play,1,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895074,Serge Gnabry,Bayern Munich,10.43551627855565,0.058798818505600606,False,Left Foot,Open Play,1,0,1,Volley
+3895074,Konrad Laimer,Bayern Munich,15.769908052997645,0.05518710034054716,False,Left Foot,Open Play,1,0,2,Normal
+3895074,Harry Kane,Bayern Munich,5.622277118748238,0.05745508620564315,True,Head,Open Play,0,0,1,Normal
+3895074,Leroy Sané,Bayern Munich,18.27922317824256,0.0629776844149309,False,Left Foot,Open Play,0,1,1,Normal
+3895074,Victor Okoh Boniface,Bayer Leverkusen,16.72991332912397,0.06329515099120386,False,Right Foot,Open Play,0,1,3,Normal
+3895074,Alejandro Grimaldo García,Bayer Leverkusen,25.49509756796393,0.06452702896964452,True,Left Foot,Free Kick,0,0,0,Normal
+3895074,Victor Okoh Boniface,Bayer Leverkusen,8.386298349093003,0.0575081694441716,False,Right Foot,Open Play,0,0,2,Normal
+3895074,Granit Xhaka,Bayer Leverkusen,34.856993559399235,0.07616041233246539,False,Left Foot,Open Play,0,0,0,Normal
+3895074,Victor Okoh Boniface,Bayer Leverkusen,14.368020044529448,0.06177084321046234,False,Left Foot,Open Play,0,1,2,Normal
+3895074,Thomas Müller,Bayern Munich,10.417773274553447,0.05731674706309317,False,Head,Open Play,0,0,2,Normal
+3895074,Serge Gnabry,Bayern Munich,13.24009063413087,0.05367306825515051,False,Right Foot,Open Play,1,0,0,Half Volley
+3895074,Victor Okoh Boniface,Bayer Leverkusen,13.68539367354845,0.06179303450093754,False,Right Foot,Open Play,0,1,3,Normal
+3895074,Leroy Sané,Bayern Munich,22.955827146935924,0.0636854405050514,False,Left Foot,Open Play,0,1,2,Normal
+3895074,Min Jae Kim,Bayern Munich,14.6972786596703,0.061552008126010374,False,Right Foot,Open Play,0,0,4,Normal
+3895074,Leon Goretzka,Bayern Munich,10.394229168149028,0.06003144215110895,False,Head,Open Play,0,0,2,Normal
+3895074,Serge Gnabry,Bayern Munich,15.341773039645709,0.06145858488088045,False,Right Foot,Open Play,0,1,1,Normal
+3895074,Konrad Laimer,Bayern Munich,23.807561823924765,0.06514973328038352,False,Left Foot,Open Play,1,0,1,Half Volley
+3895074,Serge Gnabry,Bayern Munich,8.268010643437755,0.05610741068753733,False,Head,Open Play,0,0,2,Normal
+3895074,Victor Okoh Boniface,Bayer Leverkusen,61.544211750578135,0.06777547916363706,False,Right Foot,Open Play,1,0,1,Lob
+3895074,Joshua Kimmich,Bayern Munich,30.25524747874325,0.061135189182460845,False,Left Foot,Open Play,0,1,1,Normal
+3895074,Harry Kane,Bayern Munich,9.677293009927936,0.059283595810465474,False,Right Foot,Open Play,1,1,4,Normal
+3895074,Dayotchanculle Upamecano,Bayern Munich,10.043903623591778,0.056057835991811696,False,Head,Open Play,0,0,3,Normal
+3895074,Florian Wirtz,Bayer Leverkusen,10.25329215423027,0.059865891345145535,False,Left Foot,Open Play,0,0,2,Normal
+3895074,Victor Okoh Boniface,Bayer Leverkusen,12.093386622447824,0.06016614362836821,False,Right Foot,Open Play,0,0,2,Normal
+3895074,Alejandro Grimaldo García,Bayer Leverkusen,21.43735058256967,0.06660099547511412,False,Left Foot,Open Play,0,0,1,Half Volley
+3895074,Victor Okoh Boniface,Bayer Leverkusen,17.36116355547634,0.06360098040223018,False,Right Foot,Open Play,0,1,3,Normal
+3895074,Leon Goretzka,Bayern Munich,9.10054943396276,0.058430434944228,True,Left Foot,Open Play,1,0,3,Normal
+3895074,Victor Okoh Boniface,Bayer Leverkusen,12.185236969382256,0.06089154906141658,False,Left Foot,Open Play,1,0,0,Normal
+3895074,Exequiel Alejandro Palacios,Bayer Leverkusen,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal

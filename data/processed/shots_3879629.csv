@@ -1,33 +1,33 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.741205118392127,0.06661549893404231,False,Right Foot,Open Play,0,1,2,Normal
-24.35775030662726,0.06261483276098537,False,Right Foot,Open Play,1,1,3,Volley
-10.90045870594444,0.0573603521397611,False,Right Foot,Open Play,1,0,2,Half Volley
-26.479614800823676,0.06995219163735211,False,Right Foot,Open Play,1,0,3,Normal
-22.980426453832393,0.06109723813114649,False,Left Foot,Open Play,0,1,3,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-33.194125986385,0.07233848279547235,False,Right Foot,Open Play,0,0,1,Normal
-10.963576058932595,0.054594161501107956,False,Head,Open Play,0,0,2,Normal
-8.374365647617738,0.05746855065037494,False,Right Foot,Open Play,1,0,4,Half Volley
-34.08650759464806,0.05645863263903,False,Right Foot,Open Play,0,0,1,Normal
-39.7443077685346,0.08073112980624532,False,Right Foot,Open Play,0,0,0,Normal
-17.10818517552344,0.059146781113926426,False,Right Foot,Open Play,1,0,1,Half Volley
-7.7794601355106945,0.0584761017640569,False,Head,Open Play,0,0,2,Diving Header
-17.30462365958879,0.06326246516628674,False,Left Foot,Open Play,1,0,1,Normal
-10.467568963231152,0.05985713953604165,True,Head,Open Play,0,1,3,Normal
-15.906288064787454,0.06277695096676925,False,Head,Open Play,0,0,6,Normal
-20.949701668520245,0.06233751794329682,False,Right Foot,Open Play,0,1,3,Half Volley
-38.702067128255564,0.054898369137858304,False,Right Foot,Open Play,0,0,1,Normal
-11.788553770501276,0.05866783031065108,True,Right Foot,Open Play,1,0,2,Normal
-29.20616373302047,0.0678314734721707,False,Left Foot,Open Play,0,0,1,Half Volley
-8.205485969764378,0.05793507983557479,False,Head,Open Play,0,1,1,Normal
-16.39176622576103,0.06236642265476158,False,Right Foot,Open Play,0,1,1,Normal
-20.53411795037712,0.0658923093902459,True,Right Foot,Free Kick,0,0,0,Normal
-17.0484603410396,0.06345080489552085,False,Left Foot,Open Play,1,0,3,Volley
-16.101242188104617,0.061623279143015124,False,Left Foot,Open Play,1,1,1,Half Volley
-10.423531071570714,0.05916861091947878,True,Head,Open Play,0,0,4,Normal
-14.477914214416382,0.05379346698768763,False,Left Foot,Open Play,0,0,1,Normal
-28.46137733842128,0.07045646711849331,False,Left Foot,Open Play,0,0,1,Normal
-26.6120273560659,0.0698771476890937,False,Left Foot,Open Play,1,0,2,Normal
-21.414014102918674,0.052496544234288206,False,Right Foot,Open Play,0,0,0,Normal
-41.87469402873291,0.07225854407685889,False,Right Foot,Open Play,1,0,1,Normal
-17.310401497365685,0.05889510369336526,False,Right Foot,Open Play,1,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879629,Samuel Souprayen,Hellas Verona,21.741205118392127,0.06661549893404231,False,Right Foot,Open Play,0,1,2,Normal
+3879629,Federico Dionisi,Frosinone,24.35775030662726,0.06261483276098537,False,Right Foot,Open Play,1,1,3,Volley
+3879629,Daniel Ciofani,Frosinone,10.90045870594444,0.0573603521397611,False,Right Foot,Open Play,1,0,2,Half Volley
+3879629,Federico Dionisi,Frosinone,26.479614800823676,0.06995219163735211,False,Right Foot,Open Play,1,0,3,Normal
+3879629,Luca Siligardi,Hellas Verona,22.980426453832393,0.06109723813114649,False,Left Foot,Open Play,0,1,3,Normal
+3879629,Daniel Ciofani,Frosinone,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3879629,Federico Viviani,Hellas Verona,33.194125986385,0.07233848279547235,False,Right Foot,Open Play,0,0,1,Normal
+3879629,Luca Toni,Hellas Verona,10.963576058932595,0.054594161501107956,False,Head,Open Play,0,0,2,Normal
+3879629,Eros Pisano,Hellas Verona,8.374365647617738,0.05746855065037494,False,Right Foot,Open Play,1,0,4,Half Volley
+3879629,Federico Viviani,Hellas Verona,34.08650759464806,0.05645863263903,False,Right Foot,Open Play,0,0,1,Normal
+3879629,Federico Dionisi,Frosinone,39.7443077685346,0.08073112980624532,False,Right Foot,Open Play,0,0,0,Normal
+3879629,Paolo Sammarco,Frosinone,17.10818517552344,0.059146781113926426,False,Right Foot,Open Play,1,0,1,Half Volley
+3879629,Luca Paganini,Frosinone,7.7794601355106945,0.0584761017640569,False,Head,Open Play,0,0,2,Diving Header
+3879629,Federico Dionisi,Frosinone,17.30462365958879,0.06326246516628674,False,Left Foot,Open Play,1,0,1,Normal
+3879629,Daniel Ciofani,Frosinone,10.467568963231152,0.05985713953604165,True,Head,Open Play,0,1,3,Normal
+3879629,Luca Toni,Hellas Verona,15.906288064787454,0.06277695096676925,False,Head,Open Play,0,0,6,Normal
+3879629,Luca Toni,Hellas Verona,20.949701668520245,0.06233751794329682,False,Right Foot,Open Play,0,1,3,Half Volley
+3879629,Aleandro Rosi,Frosinone,38.702067128255564,0.054898369137858304,False,Right Foot,Open Play,0,0,1,Normal
+3879629,Federico Dionisi,Frosinone,11.788553770501276,0.05866783031065108,True,Right Foot,Open Play,1,0,2,Normal
+3879629,Emil Hallfreðsson,Hellas Verona,29.20616373302047,0.0678314734721707,False,Left Foot,Open Play,0,0,1,Half Volley
+3879629,Luca Paganini,Frosinone,8.205485969764378,0.05793507983557479,False,Head,Open Play,0,1,1,Normal
+3879629,Giampaolo Pazzini,Hellas Verona,16.39176622576103,0.06236642265476158,False,Right Foot,Open Play,0,1,1,Normal
+3879629,Federico Viviani,Hellas Verona,20.53411795037712,0.0658923093902459,True,Right Foot,Free Kick,0,0,0,Normal
+3879629,Luca Toni,Hellas Verona,17.0484603410396,0.06345080489552085,False,Left Foot,Open Play,1,0,3,Volley
+3879629,Emil Hallfreðsson,Hellas Verona,16.101242188104617,0.061623279143015124,False,Left Foot,Open Play,1,1,1,Half Volley
+3879629,Vangelis Moras,Hellas Verona,10.423531071570714,0.05916861091947878,True,Head,Open Play,0,0,4,Normal
+3879629,Federico Dionisi,Frosinone,14.477914214416382,0.05379346698768763,False,Left Foot,Open Play,0,0,1,Normal
+3879629,Mirko Gori,Frosinone,28.46137733842128,0.07045646711849331,False,Left Foot,Open Play,0,0,1,Normal
+3879629,Emil Hallfreðsson,Hellas Verona,26.6120273560659,0.0698771476890937,False,Left Foot,Open Play,1,0,2,Normal
+3879629,Luca Paganini,Frosinone,21.414014102918674,0.052496544234288206,False,Right Foot,Open Play,0,0,0,Normal
+3879629,Paolo Sammarco,Frosinone,41.87469402873291,0.07225854407685889,False,Right Foot,Open Play,1,0,1,Normal
+3879629,Eros Pisano,Hellas Verona,17.310401497365685,0.05889510369336526,False,Right Foot,Open Play,1,1,2,Half Volley

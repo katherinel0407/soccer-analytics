@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-37.0600863463646,0.06400008008320583,False,Right Foot,Open Play,1,0,0,Volley
-14.046351839534708,0.062000038723067294,False,Left Foot,Open Play,0,0,1,Normal
-16.935760980835795,0.061253304187667924,False,Left Foot,Open Play,1,0,1,Normal
-30.47769676337108,0.061149532052594366,False,Right Foot,Open Play,0,0,3,Normal
-24.95375723212839,0.06827903759536728,False,Right Foot,Open Play,1,0,0,Normal
-23.116444363266602,0.06048895358317078,True,Left Foot,Open Play,0,0,3,Normal
-20.011246837716033,0.054771179562927486,False,Left Foot,Open Play,1,0,1,Normal
-30.8716698608935,0.07241850867526105,True,Right Foot,Open Play,0,1,1,Normal
-18.047160441465582,0.0630798895346946,True,Right Foot,Open Play,0,1,2,Normal
-26.0823695242591,0.06820413589895778,False,Right Foot,Open Play,0,0,1,Normal
-14.16509795236164,0.06210368249041694,False,Left Foot,Open Play,1,1,2,Lob
-27.865749586185547,0.06993391711707062,False,Left Foot,Open Play,0,0,2,Normal
-17.31040149736568,0.06398993663752388,False,Right Foot,Open Play,0,0,3,Normal
-18.617196351760384,0.0646861923153663,False,Left Foot,Open Play,0,1,1,Normal
-18.53968716025165,0.05456231709185061,False,Head,Open Play,0,0,1,Normal
-19.77725966861941,0.06142369869079376,False,Left Foot,Open Play,1,1,3,Normal
-8.2,0.05853556284971418,False,Right Foot,Open Play,1,0,3,Half Volley
-20.008498194517248,0.05781586248919328,True,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829464,Gilles Cioni,Bastia,37.0600863463646,0.06400008008320583,False,Right Foot,Open Play,1,0,0,Volley
+3829464,Alassane Pléa,OGC Nice,14.046351839534708,0.062000038723067294,False,Left Foot,Open Play,0,0,1,Normal
+3829464,Evaeverson Lemos da Silva Brandão,Bastia,16.935760980835795,0.061253304187667924,False,Left Foot,Open Play,1,0,1,Normal
+3829464,Alassane Pléa,OGC Nice,30.47769676337108,0.061149532052594366,False,Right Foot,Open Play,0,0,3,Normal
+3829464,Jean Michaël Seri,OGC Nice,24.95375723212839,0.06827903759536728,False,Right Foot,Open Play,1,0,0,Normal
+3829464,Gaël Danic,Bastia,23.116444363266602,0.06048895358317078,True,Left Foot,Open Play,0,0,3,Normal
+3829464,Gaël Danic,Bastia,20.011246837716033,0.054771179562927486,False,Left Foot,Open Play,1,0,1,Normal
+3829464,Nampalys Mendy,OGC Nice,30.8716698608935,0.07241850867526105,True,Right Foot,Open Play,0,1,1,Normal
+3829464,Valère Germain,OGC Nice,18.047160441465582,0.0630798895346946,True,Right Foot,Open Play,0,1,2,Normal
+3829464,Julian Palmieri,Bastia,26.0823695242591,0.06820413589895778,False,Right Foot,Open Play,0,0,1,Normal
+3829464,Valère Germain,OGC Nice,14.16509795236164,0.06210368249041694,False,Left Foot,Open Play,1,1,2,Lob
+3829464,Julian Palmieri,Bastia,27.865749586185547,0.06993391711707062,False,Left Foot,Open Play,0,0,2,Normal
+3829464,Seko Fofana,Bastia,17.31040149736568,0.06398993663752388,False,Right Foot,Open Play,0,0,3,Normal
+3829464,Valère Germain,OGC Nice,18.617196351760384,0.0646861923153663,False,Left Foot,Open Play,0,1,1,Normal
+3829464,Florian Marange,Bastia,18.53968716025165,0.05456231709185061,False,Head,Open Play,0,0,1,Normal
+3829464,Wallyson Teixeira Mallmann,OGC Nice,19.77725966861941,0.06142369869079376,False,Left Foot,Open Play,1,1,3,Normal
+3829464,Mickaël Le Bihan,OGC Nice,8.2,0.05853556284971418,False,Right Foot,Open Play,1,0,3,Half Volley
+3829464,Mohamed Saïd Benrahma,OGC Nice,20.008498194517248,0.05781586248919328,True,Right Foot,Open Play,0,1,1,Normal

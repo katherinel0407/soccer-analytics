@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.220031720836516,0.06152965649076565,False,Left Foot,Open Play,0,0,1,Normal
-13.68575902169843,0.053592221863575956,False,Right Foot,Open Play,1,0,0,Normal
-28.017494534665296,0.06972960556078732,False,Left Foot,Free Kick,0,0,0,Normal
-26.971281022598827,0.06927562347128668,False,Left Foot,Open Play,0,0,1,Half Volley
-20.86552180032888,0.0654909320950741,False,Left Foot,Open Play,0,0,2,Normal
-33.300150149811635,0.0750328895972482,False,Right Foot,Open Play,0,0,1,Normal
-26.340273347101014,0.06884154421440072,False,Right Foot,Open Play,0,0,2,Normal
-29.06819567843866,0.07187916656833399,False,Right Foot,Open Play,0,0,2,Normal
-30.602614267411866,0.07279154604095209,False,Right Foot,Open Play,0,0,1,Normal
-11.164676439557033,0.05879158219098758,False,Head,Open Play,0,1,2,Normal
-25.5049014897137,0.06592828116463766,False,Left Foot,Open Play,0,0,2,Normal
-4.244997055358219,0.05517718589095375,True,Right Foot,Open Play,0,1,1,Half Volley
-30.688760157425715,0.05349497516410964,False,Left Foot,Open Play,0,1,1,Normal
-23.25725693197716,0.06324939599239511,False,Right Foot,Open Play,0,0,3,Normal
-24.946743274423618,0.06889032286576548,False,Right Foot,Open Play,0,0,1,Normal
-30.991934434623474,0.07340962646563763,False,Right Foot,Open Play,0,0,2,Normal
-8.237718130647583,0.05749673063264933,False,Head,Open Play,0,1,3,Normal
-20.75764919252659,0.0586807123096942,False,Left Foot,Open Play,0,0,5,Normal
-19.553260597659925,0.06535865787778215,False,Right Foot,Open Play,1,0,2,Overhead Kick
-27.378823933836163,0.0691074942113444,False,Left Foot,Open Play,0,0,2,Normal
-16.883423823383687,0.059644765030755595,False,Right Foot,Open Play,1,0,1,Volley
-18.786431273661318,0.06473084685474463,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754263,Marc Albrighton,Leicester City,25.220031720836516,0.06152965649076565,False,Left Foot,Open Play,0,0,1,Normal
+3754263,Riyad Mahrez,Leicester City,13.68575902169843,0.053592221863575956,False,Right Foot,Open Play,1,0,0,Normal
+3754263,Riyad Mahrez,Leicester City,28.017494534665296,0.06972960556078732,False,Left Foot,Free Kick,0,0,0,Normal
+3754263,Riyad Mahrez,Leicester City,26.971281022598827,0.06927562347128668,False,Left Foot,Open Play,0,0,1,Half Volley
+3754263,Jeffrey Schlupp,Leicester City,20.86552180032888,0.0654909320950741,False,Left Foot,Open Play,0,0,2,Normal
+3754263,N''Golo Kanté,Leicester City,33.300150149811635,0.0750328895972482,False,Right Foot,Open Play,0,0,1,Normal
+3754263,Danny Drinkwater,Leicester City,26.340273347101014,0.06884154421440072,False,Right Foot,Open Play,0,0,2,Normal
+3754263,Yannick Bolasie Yala,Crystal Palace,29.06819567843866,0.07187916656833399,False,Right Foot,Open Play,0,0,2,Normal
+3754263,Yohan Cabaye,Crystal Palace,30.602614267411866,0.07279154604095209,False,Right Foot,Open Play,0,0,1,Normal
+3754263,Scott Dann,Crystal Palace,11.164676439557033,0.05879158219098758,False,Head,Open Play,0,1,2,Normal
+3754263,Jeffrey Schlupp,Leicester City,25.5049014897137,0.06592828116463766,False,Left Foot,Open Play,0,0,2,Normal
+3754263,Jamie Vardy,Leicester City,4.244997055358219,0.05517718589095375,True,Right Foot,Open Play,0,1,1,Half Volley
+3754263,Bakary Sako,Crystal Palace,30.688760157425715,0.05349497516410964,False,Left Foot,Open Play,0,1,1,Normal
+3754263,Jamie Vardy,Leicester City,23.25725693197716,0.06324939599239511,False,Right Foot,Open Play,0,0,3,Normal
+3754263,Jamie Vardy,Leicester City,24.946743274423618,0.06889032286576548,False,Right Foot,Open Play,0,0,1,Normal
+3754263,Yannick Bolasie Yala,Crystal Palace,30.991934434623474,0.07340962646563763,False,Right Foot,Open Play,0,0,2,Normal
+3754263,Patrick Bamford,Crystal Palace,8.237718130647583,0.05749673063264933,False,Head,Open Play,0,1,3,Normal
+3754263,Patrick Bamford,Crystal Palace,20.75764919252659,0.0586807123096942,False,Left Foot,Open Play,0,0,5,Normal
+3754263,Yohan Cabaye,Crystal Palace,19.553260597659925,0.06535865787778215,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3754263,James McArthur,Crystal Palace,27.378823933836163,0.0691074942113444,False,Left Foot,Open Play,0,0,2,Normal
+3754263,Yohan Cabaye,Crystal Palace,16.883423823383687,0.059644765030755595,False,Right Foot,Open Play,1,0,1,Volley
+3754263,Jeffrey Schlupp,Leicester City,18.786431273661318,0.06473084685474463,False,Left Foot,Open Play,0,0,1,Normal

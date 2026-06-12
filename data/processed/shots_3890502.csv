@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.769014676829084,0.05383253070321839,False,Right Foot,Open Play,0,1,1,Normal
-38.14249598544909,0.06844400458960496,False,Right Foot,Open Play,0,1,2,Normal
-21.922134932528817,0.06643487535937798,False,Left Foot,Open Play,1,0,2,Normal
-20.82162337571209,0.05340874819351621,False,Right Foot,Open Play,0,0,1,Normal
-17.681911661356082,0.059545357686253984,False,Left Foot,Open Play,1,0,4,Normal
-15.205262246998569,0.0619912435574946,False,Left Foot,Open Play,1,0,1,Normal
-13.980700983856288,0.059827340711188046,True,Right Foot,Open Play,1,1,2,Normal
-16.031219541881395,0.06224785704444901,False,Left Foot,Open Play,0,0,1,Normal
-25.603515383634335,0.0685041558854348,False,Right Foot,Open Play,0,1,1,Normal
-22.34390297150433,0.06694319287738869,False,Right Foot,Open Play,0,1,1,Normal
-22.931419493786244,0.06713731834091932,False,Right Foot,Open Play,0,1,3,Normal
-41.0440007796511,0.07231068954945614,False,Right Foot,Open Play,1,1,1,Normal
-8.705170877128149,0.05813513471638299,False,Head,Open Play,0,1,1,Normal
-12.007081243999304,0.060503334984369626,False,Head,Open Play,0,1,2,Normal
-13.771347065556075,0.061013212106069935,False,Left Foot,Open Play,0,0,2,Normal
-19.08219064992277,0.0650845073406409,False,Left Foot,Open Play,0,1,1,Normal
-17.422973339817744,0.06356558188115795,False,Left Foot,Open Play,1,0,0,Half Volley
-27.294321753800734,0.06971942508266529,True,Right Foot,Open Play,0,0,0,Normal
-24.308229059312406,0.059835345265756595,False,Right Foot,Open Play,0,0,0,Normal
-21.979080963497992,0.06263335839631394,True,Right Foot,Open Play,1,1,1,Normal
-10.022474744293444,0.05694972231163079,False,Right Foot,Open Play,1,1,1,Volley
-11.734564329364765,0.053976832405115145,False,Right Foot,Open Play,1,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890502,Karim Bellarabi,Bayer Leverkusen,21.769014676829084,0.05383253070321839,False,Right Foot,Open Play,0,1,1,Normal
+3890502,Karim Bellarabi,Bayer Leverkusen,38.14249598544909,0.06844400458960496,False,Right Foot,Open Play,0,1,2,Normal
+3890502,Maximilian Arnold,Wolfsburg,21.922134932528817,0.06643487535937798,False,Left Foot,Open Play,1,0,2,Normal
+3890502,Karim Bellarabi,Bayer Leverkusen,20.82162337571209,0.05340874819351621,False,Right Foot,Open Play,0,0,1,Normal
+3890502,Max Kruse,Wolfsburg,17.681911661356082,0.059545357686253984,False,Left Foot,Open Play,1,0,4,Normal
+3890502,André Schürrle,Wolfsburg,15.205262246998569,0.0619912435574946,False,Left Foot,Open Play,1,0,1,Normal
+3890502,Julian Brandt,Bayer Leverkusen,13.980700983856288,0.059827340711188046,True,Right Foot,Open Play,1,1,2,Normal
+3890502,Max Kruse,Wolfsburg,16.031219541881395,0.06224785704444901,False,Left Foot,Open Play,0,0,1,Normal
+3890502,Julian Brandt,Bayer Leverkusen,25.603515383634335,0.0685041558854348,False,Right Foot,Open Play,0,1,1,Normal
+3890502,Hakan Çalhanoğlu,Bayer Leverkusen,22.34390297150433,0.06694319287738869,False,Right Foot,Open Play,0,1,1,Normal
+3890502,Hakan Çalhanoğlu,Bayer Leverkusen,22.931419493786244,0.06713731834091932,False,Right Foot,Open Play,0,1,3,Normal
+3890502,Josuha Guilavogui,Wolfsburg,41.0440007796511,0.07231068954945614,False,Right Foot,Open Play,1,1,1,Normal
+3890502,Bruno Henrique Pinto,Wolfsburg,8.705170877128149,0.05813513471638299,False,Head,Open Play,0,1,1,Normal
+3890502,André Ramalho Silva,Bayer Leverkusen,12.007081243999304,0.060503334984369626,False,Head,Open Play,0,1,2,Normal
+3890502,Javier Hernández Balcázar,Bayer Leverkusen,13.771347065556075,0.061013212106069935,False,Left Foot,Open Play,0,0,2,Normal
+3890502,Marcel Schäfer,Wolfsburg,19.08219064992277,0.0650845073406409,False,Left Foot,Open Play,0,1,1,Normal
+3890502,Wendell Nascimento Borges,Bayer Leverkusen,17.422973339817744,0.06356558188115795,False,Left Foot,Open Play,1,0,0,Half Volley
+3890502,Javier Hernández Balcázar,Bayer Leverkusen,27.294321753800734,0.06971942508266529,True,Right Foot,Open Play,0,0,0,Normal
+3890502,André Schürrle,Wolfsburg,24.308229059312406,0.059835345265756595,False,Right Foot,Open Play,0,0,0,Normal
+3890502,Vladlen Yurchenko,Bayer Leverkusen,21.979080963497992,0.06263335839631394,True,Right Foot,Open Play,1,1,1,Normal
+3890502,André Schürrle,Wolfsburg,10.022474744293444,0.05694972231163079,False,Right Foot,Open Play,1,1,1,Volley
+3890502,André Schürrle,Wolfsburg,11.734564329364765,0.053976832405115145,False,Right Foot,Open Play,1,1,2,Normal

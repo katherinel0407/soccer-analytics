@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.852079220055007,0.059120577853321046,False,Left Foot,Free Kick,0,0,0,Normal
-29.873901653449952,0.05710719868854313,False,Left Foot,Open Play,0,0,1,Normal
-32.27692674341843,0.06067620419871845,False,Right Foot,Open Play,0,0,0,Normal
-31.310701046127985,0.07088729449583497,False,Left Foot,Open Play,0,0,0,Normal
-23.83149177034455,0.06814657242132556,False,Right Foot,Open Play,0,0,2,Normal
-19.623710148695125,0.06190923587905021,False,Right Foot,Open Play,0,0,3,Half Volley
-16.330646037435258,0.06103559942754268,False,Head,Open Play,0,0,1,Normal
-27.1016604657353,0.06661579863868881,False,Left Foot,Open Play,0,0,3,Half Volley
-15.643848631331105,0.06235213944027371,True,Left Foot,Open Play,1,1,2,Normal
-21.996590644915862,0.06631869007636813,False,Left Foot,Open Play,1,0,0,Half Volley
-13.66199107011859,0.06156535422204789,False,Right Foot,Open Play,1,0,2,Normal
-18.704277585621963,0.062333925528227516,False,Right Foot,Open Play,0,1,1,Normal
-13.91761473816544,0.05212813894551545,False,Right Foot,Open Play,1,0,0,Normal
-13.0862523283024,0.05535291066020777,False,Left Foot,Open Play,0,0,4,Normal
-22.37073981789605,0.06708140815897479,True,Right Foot,Free Kick,0,0,0,Normal
-30.323753065872303,0.06873144284285371,False,Right Foot,Open Play,0,0,1,Normal
-19.828262657126565,0.06159892027006829,False,Left Foot,Open Play,0,0,2,Normal
-20.012246250733575,0.06520356171654061,False,Right Foot,Open Play,1,0,1,Normal
-30.103986446980738,0.07099776519916011,False,Right Foot,Free Kick,0,0,0,Normal
-3.832753579347357,0.05616187363885013,True,Right Foot,Open Play,0,0,3,Normal
-28.00714194629649,0.05952780842558452,False,Right Foot,Open Play,1,0,1,Volley
-21.731313812100726,0.06584488997343717,False,Left Foot,Open Play,0,0,2,Normal
-21.459729728027796,0.06560288476771053,False,Left Foot,Open Play,0,0,1,Normal
-24.060133000463654,0.06822977962853018,False,Right Foot,Free Kick,0,0,0,Normal
-6.013318551349163,0.05703649278680505,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825569,Juan Francisco García García,Levante UD,25.852079220055007,0.059120577853321046,False,Left Foot,Free Kick,0,0,0,Normal
+3825569,Iago Aspas Juncal,Celta Vigo,29.873901653449952,0.05710719868854313,False,Left Foot,Open Play,0,0,1,Normal
+3825569,Iván López Mendoza,Levante UD,32.27692674341843,0.06067620419871845,False,Right Foot,Open Play,0,0,0,Normal
+3825569,Augusto Matías Fernández,Celta Vigo,31.310701046127985,0.07088729449583497,False,Left Foot,Open Play,0,0,0,Normal
+3825569,Jonathan Castro Otto,Celta Vigo,23.83149177034455,0.06814657242132556,False,Right Foot,Open Play,0,0,2,Normal
+3825569,Deyverson Brum Silva Acosta,Levante UD,19.623710148695125,0.06190923587905021,False,Right Foot,Open Play,0,0,3,Half Volley
+3825569,Pedro Pablo Hernández,Celta Vigo,16.330646037435258,0.06103559942754268,False,Head,Open Play,0,0,1,Normal
+3825569,Nabil Ghilas,Levante UD,27.1016604657353,0.06661579863868881,False,Left Foot,Open Play,0,0,3,Half Volley
+3825569,Fabián Ariel Orellana Valenzuela,Celta Vigo,15.643848631331105,0.06235213944027371,True,Left Foot,Open Play,1,1,2,Normal
+3825569,Deyverson Brum Silva Acosta,Levante UD,21.996590644915862,0.06631869007636813,False,Left Foot,Open Play,1,0,0,Half Volley
+3825569,Fabián Ariel Orellana Valenzuela,Celta Vigo,13.66199107011859,0.06156535422204789,False,Right Foot,Open Play,1,0,2,Normal
+3825569,Manuel Agudo Durán,Celta Vigo,18.704277585621963,0.062333925528227516,False,Right Foot,Open Play,0,1,1,Normal
+3825569,Fabián Ariel Orellana Valenzuela,Celta Vigo,13.91761473816544,0.05212813894551545,False,Right Foot,Open Play,1,0,0,Normal
+3825569,Daniel Wass,Celta Vigo,13.0862523283024,0.05535291066020777,False,Left Foot,Open Play,0,0,4,Normal
+3825569,José Antonio García Rabasco,Levante UD,22.37073981789605,0.06708140815897479,True,Right Foot,Free Kick,0,0,0,Normal
+3825569,Víctor Camarasa Ferrando,Levante UD,30.323753065872303,0.06873144284285371,False,Right Foot,Open Play,0,0,1,Normal
+3825569,Fabián Ariel Orellana Valenzuela,Celta Vigo,19.828262657126565,0.06159892027006829,False,Left Foot,Open Play,0,0,2,Normal
+3825569,Manuel Agudo Durán,Celta Vigo,20.012246250733575,0.06520356171654061,False,Right Foot,Open Play,1,0,1,Normal
+3825569,José Antonio García Rabasco,Levante UD,30.103986446980738,0.07099776519916011,False,Right Foot,Free Kick,0,0,0,Normal
+3825569,Iago Aspas Juncal,Celta Vigo,3.832753579347357,0.05616187363885013,True,Right Foot,Open Play,0,0,3,Normal
+3825569,José Luis Morales Nogales,Levante UD,28.00714194629649,0.05952780842558452,False,Right Foot,Open Play,1,0,1,Volley
+3825569,Iago Aspas Juncal,Celta Vigo,21.731313812100726,0.06584488997343717,False,Left Foot,Open Play,0,0,2,Normal
+3825569,Rubén García Santos,Levante UD,21.459729728027796,0.06560288476771053,False,Left Foot,Open Play,0,0,1,Normal
+3825569,Manuel Agudo Durán,Celta Vigo,24.060133000463654,0.06822977962853018,False,Right Foot,Free Kick,0,0,0,Normal
+3825569,Víctor Casadesús Castaño,Levante UD,6.013318551349163,0.05703649278680505,False,Head,Open Play,0,1,4,Normal

@@ -1,11 +1,11 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.544588931013594,0.05450133596756944,False,Head,Open Play,0,1,3,Normal
-21.19292334719304,0.05357801397801221,False,Right Foot,Open Play,1,0,1,Volley
-15.814550262337534,0.05872867151810735,True,Right Foot,Open Play,0,0,3,Normal
-13.885243966167826,0.061648779705461905,False,Left Foot,Open Play,0,1,2,Normal
-31.599525312890385,0.0729633386179949,False,Left Foot,Open Play,0,0,1,Normal
-16.881350656863926,0.06372341753540216,False,Head,Open Play,0,1,7,Normal
-4.964876634922569,0.056976886156116104,True,Left Foot,Open Play,1,0,3,Normal
-8.415461959987704,0.05694855576324541,True,Head,Open Play,0,0,4,Normal
-7.186793443532382,0.05824799712255524,False,Head,Open Play,0,0,3,Normal
-17.00176461429813,0.059849358177696,True,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3920400,Abdou Diallo,Senegal,8.544588931013594,0.05450133596756944,False,Head,Open Play,0,1,3,Normal
+3920400,Nicolas Moumi Ngamaleu,Cameroon,21.19292334719304,0.05357801397801221,False,Right Foot,Open Play,1,0,1,Volley
+3920400,Ismaïla Sarr,Senegal,15.814550262337534,0.05872867151810735,True,Right Foot,Open Play,0,0,3,Normal
+3920400,Sadio Mané,Senegal,13.885243966167826,0.061648779705461905,False,Left Foot,Open Play,0,1,2,Normal
+3920400,Nouhou Tolo,Cameroon,31.599525312890385,0.0729633386179949,False,Left Foot,Open Play,0,0,1,Normal
+3920400,Olivier Michel Kemen,Cameroon,16.881350656863926,0.06372341753540216,False,Head,Open Play,0,1,7,Normal
+3920400,Habibou Mouhamadou Diallo,Senegal,4.964876634922569,0.056976886156116104,True,Left Foot,Open Play,1,0,3,Normal
+3920400,Jean-Charles Castelletto,Cameroon,8.415461959987704,0.05694855576324541,True,Head,Open Play,0,0,4,Normal
+3920400,Georges-Kévin Nkoudou Mbida,Cameroon,7.186793443532382,0.05824799712255524,False,Head,Open Play,0,0,3,Normal
+3920400,Sadio Mané,Senegal,17.00176461429813,0.059849358177696,True,Right Foot,Open Play,1,0,1,Normal

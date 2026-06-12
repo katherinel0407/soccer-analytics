@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.240165743959175,0.05838875941562161,True,Right Foot,Open Play,1,0,0,Normal
-21.087437018281765,0.06633469378928955,False,Right Foot,Open Play,0,0,1,Normal
-33.08609980036934,0.07277716208221104,False,Right Foot,Open Play,1,1,1,Normal
-29.084875794818174,0.07152941452462497,False,Right Foot,Open Play,0,0,0,Normal
-15.515798400340216,0.06135721647389109,True,Left Foot,Open Play,0,0,3,Normal
-12.788275880665068,0.05842545803151593,False,Right Foot,Open Play,1,0,1,Normal
-11.414026458704225,0.06002160425243131,True,Left Foot,Open Play,1,0,2,Normal
-19.597193676646665,0.0545183295783959,False,Left Foot,Open Play,0,0,2,Normal
-13.423859355639864,0.06168846118344009,False,Left Foot,Open Play,1,0,4,Lob
-12.551493934986382,0.058799785894290274,False,Left Foot,Open Play,0,0,2,Half Volley
-35.866976454672056,0.07678818673483744,False,Right Foot,Open Play,0,0,1,Normal
-16.101242188104614,0.06322222706474327,False,Right Foot,Open Play,1,0,1,Normal
-20.278560106674234,0.06585103248299885,False,Right Foot,Open Play,1,0,2,Lob
-23.125094594401116,0.061975084614421826,False,Right Foot,Open Play,1,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68362,Stephanie Houghton,England Women's,7.240165743959175,0.05838875941562161,True,Right Foot,Open Play,1,0,0,Normal
+68362,Toni Duggan,England Women's,21.087437018281765,0.06633469378928955,False,Right Foot,Open Play,0,0,1,Normal
+68362,Gaelle Enganamouit,Cameroon W,33.08609980036934,0.07277716208221104,False,Right Foot,Open Play,1,1,1,Normal
+68362,Gaelle Enganamouit,Cameroon W,29.084875794818174,0.07152941452462497,False,Right Foot,Open Play,0,0,0,Normal
+68362,Ellen White,England Women's,15.515798400340216,0.06135721647389109,True,Left Foot,Open Play,0,0,3,Normal
+68362,Alexandra Takounda Engolo,Cameroon W,12.788275880665068,0.05842545803151593,False,Right Foot,Open Play,1,0,1,Normal
+68362,Alex Greenwood,England Women's,11.414026458704225,0.06002160425243131,True,Left Foot,Open Play,1,0,2,Normal
+68362,Ajara Nchout,Cameroon W,19.597193676646665,0.0545183295783959,False,Left Foot,Open Play,0,0,2,Normal
+68362,Ellen White,England Women's,13.423859355639864,0.06168846118344009,False,Left Foot,Open Play,1,0,4,Lob
+68362,Ajara Nchout,Cameroon W,12.551493934986382,0.058799785894290274,False,Left Foot,Open Play,0,0,2,Half Volley
+68362,Therese Ninon Abena,Cameroon W,35.866976454672056,0.07678818673483744,False,Right Foot,Open Play,0,0,1,Normal
+68362,Jodie Taylor,England Women's,16.101242188104614,0.06322222706474327,False,Right Foot,Open Play,1,0,1,Normal
+68362,Jodie Taylor,England Women's,20.278560106674234,0.06585103248299885,False,Right Foot,Open Play,1,0,2,Lob
+68362,Therese Ninon Abena,Cameroon W,23.125094594401116,0.061975084614421826,False,Right Foot,Open Play,1,1,3,Normal

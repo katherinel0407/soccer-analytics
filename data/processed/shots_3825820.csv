@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.310401497365678,0.04982722179389252,False,Left Foot,Open Play,0,1,1,Normal
-13.86001443000692,0.06108355313658045,True,Right Foot,Open Play,1,0,1,Half Volley
-17.431580536486067,0.05557205309704893,False,Right Foot,Open Play,0,0,2,Volley
-23.148218073968458,0.06621011928551698,False,Right Foot,Open Play,1,0,1,Normal
-28.820999288713075,0.06221601221504644,False,Left Foot,Open Play,0,0,2,Normal
-21.53415891090247,0.06264447245295778,False,Left Foot,Open Play,0,0,3,Normal
-10.509519494249018,0.05688369581171942,False,Head,Open Play,0,0,3,Normal
-28.346781122377894,0.07112446621010096,False,Right Foot,Open Play,1,0,2,Normal
-11.112605455067685,0.057986764076535934,False,Head,Open Play,0,1,6,Normal
-22.00568108466539,0.06697572760072008,False,Right Foot,Open Play,0,0,2,Normal
-11.82708755357801,0.059792211214371914,False,Right Foot,Open Play,1,0,3,Normal
-7.021395872616778,0.054119876269961495,False,Head,Open Play,0,1,2,Normal
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-15.211837495845135,0.05262789253041851,False,Right Foot,Open Play,1,0,1,Volley
-19.221342304844367,0.0569847673718486,False,Right Foot,Open Play,0,0,3,Normal
-29.2138665705175,0.060946071794314466,False,Right Foot,Open Play,0,0,2,Normal
-21.42195135836135,0.0665281424980614,False,Right Foot,Open Play,0,0,2,Normal
-24.71942555966866,0.057337923548226574,False,Right Foot,Open Play,0,0,2,Normal
-17.993887851156575,0.058830101046462274,False,Right Foot,Open Play,1,0,2,Normal
-24.583734460004244,0.06658027829907366,False,Left Foot,Open Play,0,0,1,Normal
-23.98270209963839,0.058270876155892146,False,Left Foot,Open Play,0,0,2,Normal
-11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
-24.286621831782202,0.060714071467040706,False,Left Foot,Open Play,0,0,3,Normal
-25.68598839834667,0.06466918745223507,False,Right Foot,Open Play,1,0,0,Half Volley
-7.710382610480488,0.057368565041987875,False,Head,Open Play,0,0,5,Normal
-28.64000698323937,0.07049265684259097,False,Right Foot,Free Kick,0,0,0,Normal
-5.565968020030297,0.05740625301455725,True,Left Foot,Open Play,1,0,1,Half Volley
-11.207140580897523,0.05939867082294231,False,Right Foot,Open Play,1,0,2,Lob
-5.16236379965612,0.05510982340296641,True,Right Foot,Open Play,1,0,1,Half Volley
-24.18780684559888,0.0681270269471656,False,Right Foot,Open Play,0,1,2,Normal
-14.111342955225773,0.061731586625922326,False,Left Foot,Open Play,0,0,1,Normal
-13.892443989449804,0.056978846643416965,False,Right Foot,Open Play,0,0,2,Normal
-10.383159442096606,0.06001393766852897,True,Right Foot,Open Play,1,0,3,Normal
-15.980613254815973,0.0629363330386796,False,Left Foot,Open Play,1,0,0,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825820,Sergio Escudero Palomo,Sevilla,17.310401497365678,0.04982722179389252,False,Left Foot,Open Play,0,1,1,Normal
+3825820,Karim Benzema,Real Madrid,13.86001443000692,0.06108355313658045,True,Right Foot,Open Play,1,0,1,Half Volley
+3825820,Kevin Gameiro,Sevilla,17.431580536486067,0.05557205309704893,False,Right Foot,Open Play,0,0,2,Volley
+3825820,Luka Modrić,Real Madrid,23.148218073968458,0.06621011928551698,False,Right Foot,Open Play,1,0,1,Normal
+3825820,Gareth Frank Bale,Real Madrid,28.820999288713075,0.06221601221504644,False,Left Foot,Open Play,0,0,2,Normal
+3825820,Gareth Frank Bale,Real Madrid,21.53415891090247,0.06264447245295778,False,Left Foot,Open Play,0,0,3,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,10.509519494249018,0.05688369581171942,False,Head,Open Play,0,0,3,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28.346781122377894,0.07112446621010096,False,Right Foot,Open Play,1,0,2,Normal
+3825820,Karim Benzema,Real Madrid,11.112605455067685,0.057986764076535934,False,Head,Open Play,0,1,6,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,22.00568108466539,0.06697572760072008,False,Right Foot,Open Play,0,0,2,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,11.82708755357801,0.059792211214371914,False,Right Foot,Open Play,1,0,3,Normal
+3825820,Gareth Frank Bale,Real Madrid,7.021395872616778,0.054119876269961495,False,Head,Open Play,0,1,2,Normal
+3825820,Kevin Gameiro,Sevilla,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3825820,Jorge Andújar Moreno,Sevilla,15.211837495845135,0.05262789253041851,False,Right Foot,Open Play,1,0,1,Volley
+3825820,Karim Benzema,Real Madrid,19.221342304844367,0.0569847673718486,False,Right Foot,Open Play,0,0,3,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,29.2138665705175,0.060946071794314466,False,Right Foot,Open Play,0,0,2,Normal
+3825820,Marcelo Vieira da Silva Júnior,Real Madrid,21.42195135836135,0.0665281424980614,False,Right Foot,Open Play,0,0,2,Normal
+3825820,Danilo Luiz da Silva,Real Madrid,24.71942555966866,0.057337923548226574,False,Right Foot,Open Play,0,0,2,Normal
+3825820,Karim Benzema,Real Madrid,17.993887851156575,0.058830101046462274,False,Right Foot,Open Play,1,0,2,Normal
+3825820,Gareth Frank Bale,Real Madrid,24.583734460004244,0.06658027829907366,False,Left Foot,Open Play,0,0,1,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23.98270209963839,0.058270876155892146,False,Left Foot,Open Play,0,0,2,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,11.800423721205943,0.05947215900191016,False,Right Foot,Penalty,0,0,0,Normal
+3825820,Gareth Frank Bale,Real Madrid,24.286621831782202,0.060714071467040706,False,Left Foot,Open Play,0,0,3,Normal
+3825820,Toni Kroos,Real Madrid,25.68598839834667,0.06466918745223507,False,Right Foot,Open Play,1,0,0,Half Volley
+3825820,Gareth Frank Bale,Real Madrid,7.710382610480488,0.057368565041987875,False,Head,Open Play,0,0,5,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,28.64000698323937,0.07049265684259097,False,Right Foot,Free Kick,0,0,0,Normal
+3825820,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,5.565968020030297,0.05740625301455725,True,Left Foot,Open Play,1,0,1,Half Volley
+3825820,Karim Benzema,Real Madrid,11.207140580897523,0.05939867082294231,False,Right Foot,Open Play,1,0,2,Lob
+3825820,Gareth Frank Bale,Real Madrid,5.16236379965612,0.05510982340296641,True,Right Foot,Open Play,1,0,1,Half Volley
+3825820,Kevin Gameiro,Sevilla,24.18780684559888,0.0681270269471656,False,Right Foot,Open Play,0,1,2,Normal
+3825820,Sergio Escudero Palomo,Sevilla,14.111342955225773,0.061731586625922326,False,Left Foot,Open Play,0,0,1,Normal
+3825820,Kevin Gameiro,Sevilla,13.892443989449804,0.056978846643416965,False,Right Foot,Open Play,0,0,2,Normal
+3825820,Jesé Rodríguez Ruiz,Real Madrid,10.383159442096606,0.06001393766852897,True,Right Foot,Open Play,1,0,3,Normal
+3825820,Benoît Trémoulinas,Sevilla,15.980613254815973,0.0629363330386796,False,Left Foot,Open Play,1,0,0,Volley

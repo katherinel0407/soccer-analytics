@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.088018058667737,0.05810462003151631,False,Head,Open Play,0,1,2,Normal
-11.30884609498246,0.05747514640766191,True,Right Foot,Open Play,1,0,4,Volley
-21.862525014279566,0.0592454720341769,False,Left Foot,Open Play,0,0,3,Half Volley
-26.737987957211743,0.057121974812521785,False,Left Foot,Open Play,0,0,1,Normal
-13.074020039758242,0.057933262647876446,False,Right Foot,Open Play,1,0,2,Half Volley
-9.459386872308379,0.05916625612144991,False,Right Foot,Open Play,1,0,3,Volley
-12.13424904969401,0.05893816743545576,False,Head,Open Play,0,1,1,Normal
-40.557736623238725,0.06172641243535154,False,Left Foot,Open Play,0,0,0,Normal
-11.485643212288979,0.054248665356613525,False,Left Foot,Open Play,1,0,4,Backheel
-11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
-10.707007051459337,0.05968521997581341,False,Right Foot,Open Play,0,1,4,Overhead Kick
-13.003461077728497,0.05989128950689874,False,Left Foot,Open Play,1,0,0,Normal
-18.247739586041885,0.05736028317547901,False,Right Foot,Open Play,0,0,1,Normal
-31.390444405901622,0.07326334863975108,False,Left Foot,Open Play,0,0,2,Normal
-40.512343797909296,0.0727246233875914,False,Left Foot,Free Kick,0,0,0,Normal
-6.139218191268331,0.056751580769536555,False,Head,Open Play,0,0,3,Normal
-12.090492132250032,0.05774151546623601,True,Right Foot,Open Play,1,0,0,Normal
-5.024937810560451,0.055038600985301236,False,Right Foot,Open Play,1,0,3,Backheel
-17.53681841155915,0.06378911043589536,False,Left Foot,Open Play,0,0,3,Normal
-3.832753579347363,0.0565682891141635,False,Head,Open Play,0,0,3,Normal
-25.709920264364875,0.06929049342051938,False,Right Foot,Open Play,0,0,1,Normal
-23.402991261802406,0.06727569689751409,False,Right Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3920405,Youssef En-Nesyri,Morocco,7.088018058667737,0.05810462003151631,False,Head,Open Play,0,1,2,Normal
+3920405,Achraf Hakimi Mouh,Morocco,11.30884609498246,0.05747514640766191,True,Right Foot,Open Play,1,0,4,Volley
+3920405,Samuel Moutoussamy,Congo DR,21.862525014279566,0.0592454720341769,False,Left Foot,Open Play,0,0,3,Half Volley
+3920405,Hakim Ziyech,Morocco,26.737987957211743,0.057121974812521785,False,Left Foot,Open Play,0,0,1,Normal
+3920405,Théo Bongonda Mbul'Ofeko Batombo,Congo DR,13.074020039758242,0.057933262647876446,False,Right Foot,Open Play,1,0,2,Half Volley
+3920405,Chancel Mbemba Mangulu,Congo DR,9.459386872308379,0.05916625612144991,False,Right Foot,Open Play,1,0,3,Volley
+3920405,Youssef En-Nesyri,Morocco,12.13424904969401,0.05893816743545576,False,Head,Open Play,0,1,1,Normal
+3920405,Hakim Ziyech,Morocco,40.557736623238725,0.06172641243535154,False,Left Foot,Open Play,0,0,0,Normal
+3920405,Gaël Kakuta,Congo DR,11.485643212288979,0.054248665356613525,False,Left Foot,Open Play,1,0,4,Backheel
+3920405,Cédric Bakambu,Congo DR,11.900420160649796,0.05951387036924867,False,Right Foot,Penalty,0,0,0,Normal
+3920405,Cédric Bakambu,Congo DR,10.707007051459337,0.05968521997581341,False,Right Foot,Open Play,0,1,4,Overhead Kick
+3920405,Sofiane Boufal,Morocco,13.003461077728497,0.05989128950689874,False,Left Foot,Open Play,1,0,0,Normal
+3920405,Azzedine Ounahi,Morocco,18.247739586041885,0.05736028317547901,False,Right Foot,Open Play,0,0,1,Normal
+3920405,Arthur Masuaku,Congo DR,31.390444405901622,0.07326334863975108,False,Left Foot,Open Play,0,0,2,Normal
+3920405,Hakim Ziyech,Morocco,40.512343797909296,0.0727246233875914,False,Left Foot,Free Kick,0,0,0,Normal
+3920405,Fiston Kalala Mayele,Congo DR,6.139218191268331,0.056751580769536555,False,Head,Open Play,0,0,3,Normal
+3920405,Silas Katompa Mvumpa,Congo DR,12.090492132250032,0.05774151546623601,True,Right Foot,Open Play,1,0,0,Normal
+3920405,Samuel Moutoussamy,Congo DR,5.024937810560451,0.055038600985301236,False,Right Foot,Open Play,1,0,3,Backheel
+3920405,Fiston Kalala Mayele,Congo DR,17.53681841155915,0.06378911043589536,False,Left Foot,Open Play,0,0,3,Normal
+3920405,Ayoub El Kaabi,Morocco,3.832753579347363,0.0565682891141635,False,Head,Open Play,0,0,3,Normal
+3920405,Abdessamad Ezzalzouli,Morocco,25.709920264364875,0.06929049342051938,False,Right Foot,Open Play,0,0,1,Normal
+3920405,Bilal El Khannous,Morocco,23.402991261802406,0.06727569689751409,False,Right Foot,Open Play,0,1,3,Normal

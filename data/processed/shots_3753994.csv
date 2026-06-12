@@ -1,36 +1,36 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.400757564888174,0.06621916807552121,False,Right Foot,Open Play,1,0,1,Normal
-21.293426215618755,0.06612049607517748,False,Left Foot,Open Play,1,0,4,Half Volley
-26.617663308412332,0.0511347363197083,False,Left Foot,Open Play,0,0,1,Normal
-16.42467655693713,0.05748353757298963,False,Right Foot,Open Play,1,1,1,Normal
-6.963476143421471,0.056993818101098756,False,Head,Open Play,0,1,3,Normal
-24.133793734098248,0.0629195404602271,False,Left Foot,Open Play,1,0,1,Normal
-23.971024175032657,0.06821629999686744,False,Left Foot,Open Play,0,0,2,Normal
-31.473480900593117,0.06663689836038726,False,Left Foot,Open Play,0,0,0,Normal
-30.67784216661921,0.07069978540401906,False,Right Foot,Free Kick,0,0,0,Normal
-20.311819219360924,0.051999126154385907,False,Right Foot,Open Play,0,0,1,Normal
-29.07232360854564,0.05936813937380149,False,Right Foot,Open Play,0,0,0,Normal
-27.706497432912734,0.07057421132237257,False,Left Foot,Open Play,0,0,1,Normal
-16.924833824885837,0.06022221754112384,True,Left Foot,Open Play,1,0,2,Half Volley
-12.912009913255185,0.06103142411885333,False,Right Foot,Open Play,0,1,1,Normal
-32.101246081733336,0.05822499011108031,False,Left Foot,Free Kick,0,0,0,Normal
-6.718630812896331,0.05788968356437559,False,Head,Open Play,0,1,3,Normal
-32.207607796916555,0.06861543663982503,False,Right Foot,Open Play,0,0,1,Normal
-27.20459520007603,0.060443307157822986,False,Left Foot,Open Play,0,0,2,Normal
-22.09524835796149,0.06225888273087063,False,Left Foot,Open Play,0,0,1,Normal
-12.159769734661925,0.0586405660957261,False,Left Foot,Open Play,1,0,1,Half Volley
-7.889233169326405,0.058313261996111684,True,Head,Open Play,0,1,3,Normal
-20.60097085090894,0.056411602454256644,True,Left Foot,Open Play,0,0,1,Normal
-19.309324172533845,0.05662600130685779,False,Left Foot,Open Play,0,0,1,Normal
-14.080127840328725,0.058237039889949736,False,Right Foot,Open Play,1,0,3,Volley
-22.453730202351682,0.05833377308580452,False,Right Foot,Open Play,0,1,2,Half Volley
-10.594810050208547,0.05880320074967037,False,Head,Open Play,0,1,1,Normal
-12.900000000000006,0.05997021356003223,True,Left Foot,Penalty,0,0,0,Normal
-21.284971223847126,0.06595457908618359,False,Right Foot,Open Play,0,0,2,Normal
-12.963410045200295,0.06116799698417708,False,Left Foot,Open Play,0,0,2,Normal
-21.952904135899654,0.06610462514373197,False,Right Foot,Open Play,0,0,1,Normal
-13.926952286842946,0.0539818763653503,False,Left Foot,Open Play,0,0,3,Normal
-18.335757415498282,0.06455637631862556,False,Left Foot,Open Play,0,0,1,Normal
-12.293087488503453,0.05766786286853147,True,Right Foot,Open Play,1,0,2,Half Volley
-6.9202601107183845,0.055631075594578805,False,Head,Open Play,0,1,5,Normal
-23.576471322061746,0.06290101746031604,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3753994,Victor Wanyama,Southampton,26.400757564888174,0.06621916807552121,False,Right Foot,Open Play,1,0,1,Normal
+3753994,Dwight Gayle,Crystal Palace,21.293426215618755,0.06612049607517748,False,Left Foot,Open Play,1,0,4,Half Volley
+3753994,Dušan Tadić,Southampton,26.617663308412332,0.0511347363197083,False,Left Foot,Open Play,0,0,1,Normal
+3753994,Sadio Mané,Southampton,16.42467655693713,0.05748353757298963,False,Right Foot,Open Play,1,1,1,Normal
+3753994,Shane Long,Southampton,6.963476143421471,0.056993818101098756,False,Head,Open Play,0,1,3,Normal
+3753994,Oriol Romeu Vidal,Southampton,24.133793734098248,0.0629195404602271,False,Left Foot,Open Play,1,0,1,Normal
+3753994,Jason Puncheon,Crystal Palace,23.971024175032657,0.06821629999686744,False,Left Foot,Open Play,0,0,2,Normal
+3753994,Pape N''Diaye Souaré,Crystal Palace,31.473480900593117,0.06663689836038726,False,Left Foot,Open Play,0,0,0,Normal
+3753994,Virgil van Dijk,Southampton,30.67784216661921,0.07069978540401906,False,Right Foot,Free Kick,0,0,0,Normal
+3753994,Jason Puncheon,Crystal Palace,20.311819219360924,0.051999126154385907,False,Right Foot,Open Play,0,0,1,Normal
+3753994,Joel Ward,Crystal Palace,29.07232360854564,0.05936813937380149,False,Right Foot,Open Play,0,0,0,Normal
+3753994,Ryan Bertrand,Southampton,27.706497432912734,0.07057421132237257,False,Left Foot,Open Play,0,0,1,Normal
+3753994,Sadio Mané,Southampton,16.924833824885837,0.06022221754112384,True,Left Foot,Open Play,1,0,2,Half Volley
+3753994,Dwight Gayle,Crystal Palace,12.912009913255185,0.06103142411885333,False,Right Foot,Open Play,0,1,1,Normal
+3753994,Ryan Bertrand,Southampton,32.101246081733336,0.05822499011108031,False,Left Foot,Free Kick,0,0,0,Normal
+3753994,Virgil van Dijk,Southampton,6.718630812896331,0.05788968356437559,False,Head,Open Play,0,1,3,Normal
+3753994,Shane Long,Southampton,32.207607796916555,0.06861543663982503,False,Right Foot,Open Play,0,0,1,Normal
+3753994,Sullay Kaikai,Crystal Palace,27.20459520007603,0.060443307157822986,False,Left Foot,Open Play,0,0,2,Normal
+3753994,Sadio Mané,Southampton,22.09524835796149,0.06225888273087063,False,Left Foot,Open Play,0,0,1,Normal
+3753994,Sullay Kaikai,Crystal Palace,12.159769734661925,0.0586405660957261,False,Left Foot,Open Play,1,0,1,Half Volley
+3753994,Graziano Pellè,Southampton,7.889233169326405,0.058313261996111684,True,Head,Open Play,0,1,3,Normal
+3753994,Jason Puncheon,Crystal Palace,20.60097085090894,0.056411602454256644,True,Left Foot,Open Play,0,0,1,Normal
+3753994,James McArthur,Crystal Palace,19.309324172533845,0.05662600130685779,False,Left Foot,Open Play,0,0,1,Normal
+3753994,James McArthur,Crystal Palace,14.080127840328725,0.058237039889949736,False,Right Foot,Open Play,1,0,3,Volley
+3753994,Joel Ward,Crystal Palace,22.453730202351682,0.05833377308580452,False,Right Foot,Open Play,0,1,2,Half Volley
+3753994,Shane Long,Southampton,10.594810050208547,0.05880320074967037,False,Head,Open Play,0,1,1,Normal
+3753994,Ryan Bertrand,Southampton,12.900000000000006,0.05997021356003223,True,Left Foot,Penalty,0,0,0,Normal
+3753994,Sullay Kaikai,Crystal Palace,21.284971223847126,0.06595457908618359,False,Right Foot,Open Play,0,0,2,Normal
+3753994,Jason Puncheon,Crystal Palace,12.963410045200295,0.06116799698417708,False,Left Foot,Open Play,0,0,2,Normal
+3753994,Sadio Mané,Southampton,21.952904135899654,0.06610462514373197,False,Right Foot,Open Play,0,0,1,Normal
+3753994,Sadio Mané,Southampton,13.926952286842946,0.0539818763653503,False,Left Foot,Open Play,0,0,3,Normal
+3753994,Steven Davis,Southampton,18.335757415498282,0.06455637631862556,False,Left Foot,Open Play,0,0,1,Normal
+3753994,Steven Davis,Southampton,12.293087488503453,0.05766786286853147,True,Right Foot,Open Play,1,0,2,Half Volley
+3753994,Dwight Gayle,Crystal Palace,6.9202601107183845,0.055631075594578805,False,Head,Open Play,0,1,5,Normal
+3753994,Jason Puncheon,Crystal Palace,23.576471322061746,0.06290101746031604,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.755280904564703,0.053088142363803416,False,Right Foot,Open Play,0,0,1,Normal
-17.395401691251635,0.055065050624446596,False,Left Foot,Open Play,0,0,2,Normal
-14.436065946094867,0.06215715786634757,True,Left Foot,Open Play,0,1,1,Normal
-24.98159322381181,0.0679342512764048,False,Right Foot,Open Play,0,0,2,Normal
-12.238055401083953,0.06094103989822231,False,Left Foot,Open Play,1,0,0,Normal
-18.14745161172775,0.06442755449331891,False,Left Foot,Open Play,0,1,2,Normal
-31.2166622174761,0.07360194913450746,False,Right Foot,Open Play,0,0,0,Normal
-15.404220200970904,0.061907100311960464,False,Left Foot,Open Play,0,1,3,Normal
-8.902246907382422,0.05894571663444407,True,Head,Open Play,0,1,2,Normal
-9.167878707749141,0.05934197127152632,True,Right Foot,Open Play,0,0,3,Volley
-28.11138559374119,0.0665271818299111,False,Left Foot,Free Kick,0,0,3,Normal
-9.060905032059438,0.055423307223758184,False,Left Foot,Open Play,0,0,2,Normal
-23.25725693197716,0.06781021711865953,False,Right Foot,Free Kick,0,0,4,Normal
-20.200000000000003,0.06318403527906516,False,Left Foot,Open Play,1,1,1,Half Volley
-31.607752213657964,0.07106065687127906,False,Right Foot,Free Kick,0,0,0,Normal
-9.254188241007423,0.058098754407505344,False,Head,Open Play,0,1,3,Normal
-11.985407794480757,0.05852445026882042,True,Left Foot,Open Play,0,1,4,Normal
-8.653323061113575,0.05912288042320975,False,Head,Open Play,0,1,2,Normal
-15.769908052997646,0.05821223720159255,False,Right Foot,Open Play,1,0,2,Normal
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-12.525174649480938,0.052667863091052744,False,Right Foot,Open Play,1,0,1,Normal
-27.20771949282041,0.0703165616449785,False,Left Foot,Open Play,1,0,1,Half Volley
-29.051161766786546,0.05830834259162055,False,Left Foot,Open Play,0,0,1,Normal
-12.200409829181972,0.059711403609872725,True,Left Foot,Penalty,0,0,0,Normal
-29.451655301527623,0.06280527851568454,False,Right Foot,Open Play,0,1,2,Normal
-10.480458005259118,0.06003296517406287,False,Head,Open Play,0,0,2,Normal
-20.21806123247232,0.05808959751949597,False,Left Foot,Open Play,1,1,1,Normal
-27.335325130680257,0.058520842073244345,False,Right Foot,Open Play,0,0,0,Normal
-34.46403922931843,0.06353551141905642,False,Right Foot,Open Play,0,1,1,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-16.505150711217397,0.057993201730320534,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+265857,Neymar da Silva Santos Junior,Barcelona,17.755280904564703,0.053088142363803416,False,Right Foot,Open Play,0,0,1,Normal
+265857,Karim Benzema,Real Madrid,17.395401691251635,0.055065050624446596,False,Left Foot,Open Play,0,0,2,Normal
+265857,Andrés Iniesta Luján,Barcelona,14.436065946094867,0.06215715786634757,True,Left Foot,Open Play,0,1,1,Normal
+265857,Karim Benzema,Real Madrid,24.98159322381181,0.0679342512764048,False,Right Foot,Open Play,0,0,2,Normal
+265857,Karim Benzema,Real Madrid,12.238055401083953,0.06094103989822231,False,Left Foot,Open Play,1,0,0,Normal
+265857,Lionel Andrés Messi Cuccittini,Barcelona,18.14745161172775,0.06442755449331891,False,Left Foot,Open Play,0,1,2,Normal
+265857,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31.2166622174761,0.07360194913450746,False,Right Foot,Open Play,0,0,0,Normal
+265857,Neymar da Silva Santos Junior,Barcelona,15.404220200970904,0.061907100311960464,False,Left Foot,Open Play,0,1,3,Normal
+265857,Karim Benzema,Real Madrid,8.902246907382422,0.05894571663444407,True,Head,Open Play,0,1,2,Normal
+265857,Karim Benzema,Real Madrid,9.167878707749141,0.05934197127152632,True,Right Foot,Open Play,0,0,3,Volley
+265857,Lionel Andrés Messi Cuccittini,Barcelona,28.11138559374119,0.0665271818299111,False,Left Foot,Free Kick,0,0,3,Normal
+265857,Karim Benzema,Real Madrid,9.060905032059438,0.055423307223758184,False,Left Foot,Open Play,0,0,2,Normal
+265857,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,23.25725693197716,0.06781021711865953,False,Right Foot,Free Kick,0,0,4,Normal
+265857,Luka Modrić,Real Madrid,20.200000000000003,0.06318403527906516,False,Left Foot,Open Play,1,1,1,Half Volley
+265857,Xavier Hernández Creus,Barcelona,31.607752213657964,0.07106065687127906,False,Right Foot,Free Kick,0,0,0,Normal
+265857,Gerard Piqué Bernabéu,Barcelona,9.254188241007423,0.058098754407505344,False,Head,Open Play,0,1,3,Normal
+265857,Lionel Andrés Messi Cuccittini,Barcelona,11.985407794480757,0.05852445026882042,True,Left Foot,Open Play,0,1,4,Normal
+265857,Karim Benzema,Real Madrid,8.653323061113575,0.05912288042320975,False,Head,Open Play,0,1,2,Normal
+265857,Karim Benzema,Real Madrid,15.769908052997646,0.05821223720159255,False,Right Foot,Open Play,1,0,2,Normal
+265857,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+265857,Gareth Frank Bale,Real Madrid,12.525174649480938,0.052667863091052744,False,Right Foot,Open Play,1,0,1,Normal
+265857,Andrés Iniesta Luján,Barcelona,27.20771949282041,0.0703165616449785,False,Left Foot,Open Play,1,0,1,Half Volley
+265857,Neymar da Silva Santos Junior,Barcelona,29.051161766786546,0.05830834259162055,False,Left Foot,Open Play,0,0,1,Normal
+265857,Lionel Andrés Messi Cuccittini,Barcelona,12.200409829181972,0.059711403609872725,True,Left Foot,Penalty,0,0,0,Normal
+265857,Andrés Iniesta Luján,Barcelona,29.451655301527623,0.06280527851568454,False,Right Foot,Open Play,0,1,2,Normal
+265857,Sergio Busquets i Burgos,Barcelona,10.480458005259118,0.06003296517406287,False,Head,Open Play,0,0,2,Normal
+265857,Lionel Andrés Messi Cuccittini,Barcelona,20.21806123247232,0.05808959751949597,False,Left Foot,Open Play,1,1,1,Normal
+265857,Daniel Alves da Silva,Barcelona,27.335325130680257,0.058520842073244345,False,Right Foot,Open Play,0,0,0,Normal
+265857,Javier Alejandro Mascherano,Barcelona,34.46403922931843,0.06353551141905642,False,Right Foot,Open Play,0,1,1,Normal
+265857,Lionel Andrés Messi Cuccittini,Barcelona,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+265857,Alexis Alejandro Sánchez Sánchez,Barcelona,16.505150711217397,0.057993201730320534,False,Right Foot,Open Play,0,0,2,Normal

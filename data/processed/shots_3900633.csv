@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-4.750789408087876,0.05569434919532727,True,Head,Open Play,0,1,7,Normal
-22.44749429223672,0.06692021001394656,False,Right Foot,Open Play,1,0,2,Normal
-24.224987100099767,0.06821473262913891,True,Left Foot,Open Play,0,0,1,Normal
-9.202173656261875,0.05837006150877943,False,Head,Open Play,0,1,7,Normal
-24.742069436488134,0.06709139125353927,False,Left Foot,Open Play,1,0,0,Normal
-18.21016199818112,0.061394217099334805,False,Left Foot,Open Play,0,0,2,Normal
-21.275807857752433,0.06649315091554407,False,Left Foot,Open Play,0,0,2,Normal
-20.15589243868899,0.06498301697364336,True,Left Foot,Open Play,1,1,2,Normal
-4.47213595499958,0.05674066471206799,False,Head,Open Play,0,1,2,Normal
-15.383757668398182,0.06280536866879376,True,Right Foot,Open Play,1,0,2,Normal
-11.05486318323298,0.0595581365408934,False,Head,Open Play,0,0,5,Normal
-28.938901153983018,0.05938891723006904,False,Left Foot,Free Kick,0,0,0,Normal
-5.458937625582471,0.05588927851564817,True,Head,Open Play,0,1,7,Normal
-25.503921267130675,0.0667605760093336,False,Right Foot,Open Play,0,0,0,Normal
-9.060905032059443,0.05887725344571602,False,Right Foot,Open Play,1,0,2,Overhead Kick
-11.985407794480748,0.060859481730142294,False,Left Foot,Open Play,1,0,2,Half Volley
-34.6,0.06299645152371625,False,Right Foot,Open Play,1,1,1,Normal
-8.338465086573185,0.05780897546836457,False,Head,Open Play,0,1,5,Normal
-12.646343345014797,0.05288446042212162,False,Right Foot,Open Play,1,1,2,Half Volley
-24.39877046082445,0.06858313665784449,False,Right Foot,Open Play,1,0,1,Normal
-19.758542456365557,0.05925191009964694,False,Right Foot,Open Play,0,0,1,Normal
-6.85054742338158,0.05583382718977647,False,Right Foot,Open Play,1,0,3,Normal
-12.465151423067432,0.060952652175697265,False,Right Foot,Open Play,1,0,6,Overhead Kick
-11.700427342623,0.0604835672881681,False,Head,Open Play,0,1,2,Normal
-23.14238535674315,0.06387123980381502,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900633,Jacques Zoua Daogari,Gazélec Ajaccio,4.750789408087876,0.05569434919532727,True,Head,Open Play,0,1,7,Normal
+3900633,Mohamed Larbi,Gazélec Ajaccio,22.44749429223672,0.06692021001394656,False,Right Foot,Open Play,1,0,2,Normal
+3900633,Chaouki Ben Saada,Troyes,24.224987100099767,0.06821473262913891,True,Left Foot,Open Play,0,0,1,Normal
+3900633,Khalid Boutaïb,Gazélec Ajaccio,9.202173656261875,0.05837006150877943,False,Head,Open Play,0,1,7,Normal
+3900633,Chaouki Ben Saada,Troyes,24.742069436488134,0.06709139125353927,False,Left Foot,Open Play,1,0,0,Normal
+3900633,Jacques Zoua Daogari,Gazélec Ajaccio,18.21016199818112,0.061394217099334805,False,Left Foot,Open Play,0,0,2,Normal
+3900633,Pablo Jean Antoine Martínez,Gazélec Ajaccio,21.275807857752433,0.06649315091554407,False,Left Foot,Open Play,0,0,2,Normal
+3900633,Karim Azamoum,Troyes,20.15589243868899,0.06498301697364336,True,Left Foot,Open Play,1,1,2,Normal
+3900633,Jacques Zoua Daogari,Gazélec Ajaccio,4.47213595499958,0.05674066471206799,False,Head,Open Play,0,1,2,Normal
+3900633,Karim Azamoum,Troyes,15.383757668398182,0.06280536866879376,True,Right Foot,Open Play,1,0,2,Normal
+3900633,Khalid Boutaïb,Gazélec Ajaccio,11.05486318323298,0.0595581365408934,False,Head,Open Play,0,0,5,Normal
+3900633,Chaouki Ben Saada,Troyes,28.938901153983018,0.05938891723006904,False,Left Foot,Free Kick,0,0,0,Normal
+3900633,Roderic Filippi,Gazélec Ajaccio,5.458937625582471,0.05588927851564817,True,Head,Open Play,0,1,7,Normal
+3900633,Amos Youga,Gazélec Ajaccio,25.503921267130675,0.0667605760093336,False,Right Foot,Open Play,0,0,0,Normal
+3900633,Jacques Zoua Daogari,Gazélec Ajaccio,9.060905032059443,0.05887725344571602,False,Right Foot,Open Play,1,0,2,Overhead Kick
+3900633,Khalid Boutaïb,Gazélec Ajaccio,11.985407794480748,0.060859481730142294,False,Left Foot,Open Play,1,0,2,Half Volley
+3900633,Roderic Filippi,Gazélec Ajaccio,34.6,0.06299645152371625,False,Right Foot,Open Play,1,1,1,Normal
+3900633,Kévin Mayi,Gazélec Ajaccio,8.338465086573185,0.05780897546836457,False,Head,Open Play,0,1,5,Normal
+3900633,Jacques Zoua Daogari,Gazélec Ajaccio,12.646343345014797,0.05288446042212162,False,Right Foot,Open Play,1,1,2,Half Volley
+3900633,Kévin Mayi,Gazélec Ajaccio,24.39877046082445,0.06858313665784449,False,Right Foot,Open Play,1,0,1,Normal
+3900633,Karim Azamoum,Troyes,19.758542456365557,0.05925191009964694,False,Right Foot,Open Play,0,0,1,Normal
+3900633,Khalid Boutaïb,Gazélec Ajaccio,6.85054742338158,0.05583382718977647,False,Right Foot,Open Play,1,0,3,Normal
+3900633,Jérôme Le Moigne,Gazélec Ajaccio,12.465151423067432,0.060952652175697265,False,Right Foot,Open Play,1,0,6,Overhead Kick
+3900633,Kévin Mayi,Gazélec Ajaccio,11.700427342623,0.0604835672881681,False,Head,Open Play,0,1,2,Normal
+3900633,Abdou Kader Mangane,Gazélec Ajaccio,23.14238535674315,0.06387123980381502,False,Right Foot,Open Play,0,1,2,Normal

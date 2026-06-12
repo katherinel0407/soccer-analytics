@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.958369702689684,0.06323506499521205,False,Left Foot,Open Play,1,1,1,Normal
-22.93861373317926,0.06278695073996036,False,Right Foot,Open Play,0,1,1,Normal
-12.209013064126026,0.05337594406742938,False,Head,Open Play,0,1,1,Normal
-10.604244433244645,0.057828762670944334,False,Head,Open Play,0,0,3,Normal
-4.410215414239995,0.05468464794766119,True,Right Foot,Open Play,1,1,6,Normal
-33.11827290182869,0.07385972952245501,False,Right Foot,Open Play,0,1,1,Normal
-5.069516742254633,0.05607170977677659,False,Head,Open Play,0,0,4,Normal
-20.471443525066814,0.06517580691838994,False,Left Foot,Open Play,1,0,1,Volley
-8.982204629154245,0.05766827877037428,False,Head,Open Play,0,0,3,Normal
-14.417003849621455,0.06222375034923489,False,Right Foot,Open Play,0,0,2,Lob
-22.999347816840366,0.05405596930087375,False,Right Foot,Open Play,1,1,1,Normal
-9.502105029939418,0.058627041550319614,False,Head,Open Play,0,0,3,Normal
-5.345091205957102,0.056315360545564234,False,Right Foot,Open Play,1,0,3,Volley
-23.18706535980783,0.05688838785277435,False,Right Foot,Open Play,1,1,1,Normal
-37.473323845103465,0.06925700600468834,False,Right Foot,Open Play,0,0,1,Normal
-25.700194551792794,0.06572660031843364,False,Left Foot,Open Play,0,1,1,Normal
-24.05265058158872,0.0682982276106014,False,Right Foot,Open Play,0,0,2,Normal
-15.100331122197282,0.06087325747781686,False,Head,Open Play,0,0,4,Normal
-24.344609259546562,0.06806526364028828,False,Left Foot,Open Play,0,0,1,Normal
-35.545604510262585,0.06958920994230325,False,Right Foot,Open Play,1,1,0,Normal
-15.852129194527782,0.06256074806527598,False,Left Foot,Open Play,0,0,1,Normal
-24.436857408431223,0.06710793799899041,False,Right Foot,Open Play,0,0,1,Normal
-29.069055712217413,0.05337478235472206,False,Left Foot,Open Play,0,1,2,Normal
-13.240090634130867,0.06161286952707968,False,Left Foot,Open Play,0,1,3,Normal
-20.20099007474634,0.06327125732711729,False,Left Foot,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900576,André Biyogo Poko,Bordeaux,21.958369702689684,0.06323506499521205,False,Left Foot,Open Play,1,1,1,Normal
+3900576,Mustapha Yatabaré,Montpellier,22.93861373317926,0.06278695073996036,False,Right Foot,Open Play,0,1,1,Normal
+3900576,Diego Alejandro Rolan Silva,Bordeaux,12.209013064126026,0.05337594406742938,False,Head,Open Play,0,1,1,Normal
+3900576,Cédric Yambéré,Bordeaux,10.604244433244645,0.057828762670944334,False,Head,Open Play,0,0,3,Normal
+3900576,Cheick Tidiane Diabaté,Bordeaux,4.410215414239995,0.05468464794766119,True,Right Foot,Open Play,1,1,6,Normal
+3900576,Wahbi Khazri,Bordeaux,33.11827290182869,0.07385972952245501,False,Right Foot,Open Play,0,1,1,Normal
+3900576,William Jean Rémy,Montpellier,5.069516742254633,0.05607170977677659,False,Head,Open Play,0,0,4,Normal
+3900576,Nicolas Maurice-Belay,Bordeaux,20.471443525066814,0.06517580691838994,False,Left Foot,Open Play,1,0,1,Volley
+3900576,Rodrigue Casimir Ninga,Montpellier,8.982204629154245,0.05766827877037428,False,Head,Open Play,0,0,3,Normal
+3900576,Diego Alejandro Rolan Silva,Bordeaux,14.417003849621455,0.06222375034923489,False,Right Foot,Open Play,0,0,2,Lob
+3900576,André Biyogo Poko,Bordeaux,22.999347816840366,0.05405596930087375,False,Right Foot,Open Play,1,1,1,Normal
+3900576,Diego Alejandro Rolan Silva,Bordeaux,9.502105029939418,0.058627041550319614,False,Head,Open Play,0,0,3,Normal
+3900576,Souleymane Camara,Montpellier,5.345091205957102,0.056315360545564234,False,Right Foot,Open Play,1,0,3,Volley
+3900576,Wahbi Khazri,Bordeaux,23.18706535980783,0.05688838785277435,False,Right Foot,Open Play,1,1,1,Normal
+3900576,William Jean Rémy,Montpellier,37.473323845103465,0.06925700600468834,False,Right Foot,Open Play,0,0,1,Normal
+3900576,Wahbi Khazri,Bordeaux,25.700194551792794,0.06572660031843364,False,Left Foot,Open Play,0,1,1,Normal
+3900576,Rodrigue Casimir Ninga,Montpellier,24.05265058158872,0.0682982276106014,False,Right Foot,Open Play,0,0,2,Normal
+3900576,Vitorino Hilton da Silva,Montpellier,15.100331122197282,0.06087325747781686,False,Head,Open Play,0,0,4,Normal
+3900576,Diego Armando Valentin Contento,Bordeaux,24.344609259546562,0.06806526364028828,False,Left Foot,Open Play,0,0,1,Normal
+3900576,Henri Saivet,Bordeaux,35.545604510262585,0.06958920994230325,False,Right Foot,Open Play,1,1,0,Normal
+3900576,Rodrigue Casimir Ninga,Montpellier,15.852129194527782,0.06256074806527598,False,Left Foot,Open Play,0,0,1,Normal
+3900576,Souleymane Camara,Montpellier,24.436857408431223,0.06710793799899041,False,Right Foot,Open Play,0,0,1,Normal
+3900576,Ryad Boudebouz,Montpellier,29.069055712217413,0.05337478235472206,False,Left Foot,Open Play,0,1,2,Normal
+3900576,Jérôme Roussillon,Montpellier,13.240090634130867,0.06161286952707968,False,Left Foot,Open Play,0,1,3,Normal
+3900576,Vitorino Hilton da Silva,Montpellier,20.20099007474634,0.06327125732711729,False,Left Foot,Open Play,0,1,3,Normal

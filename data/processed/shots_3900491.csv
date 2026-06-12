@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.628468189275303,0.07256044538604822,False,Left Foot,Open Play,1,1,2,Half Volley
-35.89122455419988,0.06843575531431284,False,Right Foot,Open Play,0,1,1,Normal
-9.762171889492627,0.05957000210491747,False,Head,Open Play,0,1,3,Normal
-23.104112188093264,0.06645735518246629,False,Right Foot,Open Play,0,0,3,Normal
-13.780058055030104,0.06190412858831683,False,Right Foot,Open Play,0,0,1,Half Volley
-29.789259809535384,0.061718070556984,False,Right Foot,Open Play,1,0,1,Volley
-6.029925372672534,0.05697347630687842,False,Head,Open Play,0,1,4,Normal
-5.47813836992093,0.05618968219567843,False,Left Foot,Open Play,0,1,2,Half Volley
-34.02425605358624,0.06152609548936457,False,Left Foot,Open Play,0,0,2,Normal
-11.815244390193541,0.06026098627767474,False,Head,Open Play,0,0,1,Normal
-7.907591289387689,0.05873054433107531,False,Right Foot,Open Play,1,0,5,Volley
-20.695168518279818,0.06509420538750457,False,Right Foot,Open Play,0,0,3,Normal
-11.7881296226331,0.05243765849120974,False,Right Foot,Open Play,0,0,0,Normal
-31.522690240523573,0.07325036576289054,False,Right Foot,Open Play,0,0,2,Normal
-30.23640190234281,0.058801163820827736,False,Left Foot,Open Play,0,0,1,Normal
-26.804663773306313,0.06656988645284315,False,Right Foot,Open Play,0,0,1,Normal
-15.493224325491449,0.054323536250713574,False,Right Foot,Open Play,1,0,0,Normal
-22.464416306683773,0.05383152491377374,False,Right Foot,Open Play,0,0,1,Half Volley
-11.264102272262983,0.05967750128150838,False,Right Foot,Open Play,1,0,4,Half Volley
-5.3600373133029615,0.05644707292187726,True,Left Foot,Open Play,1,0,2,Normal
-11.014535850411486,0.060361266683051265,False,Right Foot,Open Play,1,0,1,Volley
-11.354734695271398,0.05769671330076518,False,Right Foot,Open Play,1,1,2,Normal
-14.122676800097063,0.06017789138686378,False,Right Foot,Open Play,0,0,1,Normal
-25.63201123595259,0.06163554760989898,False,Right Foot,Open Play,1,1,1,Half Volley
-14.029255147726131,0.059674172447968576,True,Right Foot,Open Play,0,0,2,Normal
-20.60412580043133,0.06208428574855688,False,Left Foot,Open Play,0,1,1,Normal
-13.029965464267352,0.06122512859126737,False,Right Foot,Open Play,1,0,2,Normal
-13.501481400201978,0.06029902382977337,False,Right Foot,Open Play,1,1,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900491,Benoît Assou-Ekotto,Saint-Étienne,31.628468189275303,0.07256044538604822,False,Left Foot,Open Play,1,1,2,Half Volley
+3900491,Antoine Devaux,Stade de Reims,35.89122455419988,0.06843575531431284,False,Right Foot,Open Play,0,1,1,Normal
+3900491,Theoson Jordan Siebatcheu,Stade de Reims,9.762171889492627,0.05957000210491747,False,Head,Open Play,0,1,3,Normal
+3900491,Frédéric Bulot,Stade de Reims,23.104112188093264,0.06645735518246629,False,Right Foot,Open Play,0,0,3,Normal
+3900491,Robert Berič,Saint-Étienne,13.780058055030104,0.06190412858831683,False,Right Foot,Open Play,0,0,1,Half Volley
+3900491,François Clerc,Saint-Étienne,29.789259809535384,0.061718070556984,False,Right Foot,Open Play,1,0,1,Volley
+3900491,Nolan Roux,Saint-Étienne,6.029925372672534,0.05697347630687842,False,Head,Open Play,0,1,4,Normal
+3900491,Robert Berič,Saint-Étienne,5.47813836992093,0.05618968219567843,False,Left Foot,Open Play,0,1,2,Half Volley
+3900491,Frédéric Bulot,Stade de Reims,34.02425605358624,0.06152609548936457,False,Left Foot,Open Play,0,0,2,Normal
+3900491,Mickaël Tacalfred,Stade de Reims,11.815244390193541,0.06026098627767474,False,Head,Open Play,0,0,1,Normal
+3900491,Anthony Weber,Stade de Reims,7.907591289387689,0.05873054433107531,False,Right Foot,Open Play,1,0,5,Volley
+3900491,Kévin Monnet-Paquet,Saint-Étienne,20.695168518279818,0.06509420538750457,False,Right Foot,Open Play,0,0,3,Normal
+3900491,Robert Berič,Saint-Étienne,11.7881296226331,0.05243765849120974,False,Right Foot,Open Play,0,0,0,Normal
+3900491,Kévin Monnet-Paquet,Saint-Étienne,31.522690240523573,0.07325036576289054,False,Right Foot,Open Play,0,0,2,Normal
+3900491,Valentin Eysseric,Saint-Étienne,30.23640190234281,0.058801163820827736,False,Left Foot,Open Play,0,0,1,Normal
+3900491,Vincent Pajot,Saint-Étienne,26.804663773306313,0.06656988645284315,False,Right Foot,Open Play,0,0,1,Normal
+3900491,Loïc Perrin,Saint-Étienne,15.493224325491449,0.054323536250713574,False,Right Foot,Open Play,1,0,0,Normal
+3900491,Nolan Roux,Saint-Étienne,22.464416306683773,0.05383152491377374,False,Right Foot,Open Play,0,0,1,Half Volley
+3900491,Vincent Pajot,Saint-Étienne,11.264102272262983,0.05967750128150838,False,Right Foot,Open Play,1,0,4,Half Volley
+3900491,Robert Berič,Saint-Étienne,5.3600373133029615,0.05644707292187726,True,Left Foot,Open Play,1,0,2,Normal
+3900491,Kévin Monnet-Paquet,Saint-Étienne,11.014535850411486,0.060361266683051265,False,Right Foot,Open Play,1,0,1,Volley
+3900491,Vincent Pajot,Saint-Étienne,11.354734695271398,0.05769671330076518,False,Right Foot,Open Play,1,1,2,Normal
+3900491,Robert Berič,Saint-Étienne,14.122676800097063,0.06017789138686378,False,Right Foot,Open Play,0,0,1,Normal
+3900491,Jérémy Clément,Saint-Étienne,25.63201123595259,0.06163554760989898,False,Right Foot,Open Play,1,1,1,Half Volley
+3900491,Valentin Eysseric,Saint-Étienne,14.029255147726131,0.059674172447968576,True,Right Foot,Open Play,0,0,2,Normal
+3900491,Jean-Christophe Bahebeck,Saint-Étienne,20.60412580043133,0.06208428574855688,False,Left Foot,Open Play,0,1,1,Normal
+3900491,Prince Oniangué,Stade de Reims,13.029965464267352,0.06122512859126737,False,Right Foot,Open Play,1,0,2,Normal
+3900491,Nicolas de Roussel de Préville,Stade de Reims,13.501481400201978,0.06029902382977337,False,Right Foot,Open Play,1,1,1,Volley

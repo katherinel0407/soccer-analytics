@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.509996003196804,0.05961929907205432,False,Head,Open Play,0,1,3,Normal
-9.625487000666512,0.05357639097114368,False,Head,Open Play,0,0,1,Normal
-13.990353819685902,0.0594796341132999,False,Right Foot,Open Play,1,0,2,Normal
-7.3824115301167,0.05802171248300404,True,Left Foot,Open Play,1,1,2,Normal
-5.470831746635973,0.055789463246670556,False,Head,Open Play,0,0,3,Normal
-30.841530441921975,0.06739387428892867,False,Left Foot,Open Play,1,0,0,Normal
-22.510886255321,0.06457239638678951,False,Right Foot,Open Play,0,0,1,Normal
-12.714165328483027,0.05695788893216158,True,Right Foot,Open Play,1,0,2,Volley
-58.20137455421478,0.08398057939825812,False,Right Foot,Open Play,1,0,1,Normal
-16.046183346827366,0.06009943022216549,False,Left Foot,Open Play,0,1,2,Lob
-16.842802617141835,0.06116946468636359,False,Head,Open Play,0,0,2,Diving Header
-7.930952023559337,0.05500225692643692,False,Right Foot,Open Play,1,0,2,Half Volley
-8.720665112249176,0.056570863574260846,True,Left Foot,Open Play,1,0,3,Half Volley
-19.89271223337833,0.061421226280375996,False,Right Foot,Open Play,1,0,0,Volley
-9.734988443752776,0.059267691607094816,False,Right Foot,Open Play,1,1,4,Backheel
-21.28685040112792,0.06606579627126796,False,Right Foot,Open Play,0,1,1,Normal
-7.057619995437555,0.057841875728428103,False,Head,Open Play,0,0,5,Normal
-24.999399992799834,0.06893403006118326,False,Left Foot,Free Kick,0,0,0,Normal
-6.530696746902282,0.056232201833047626,False,Left Foot,Open Play,0,0,4,Half Volley
-10.463746938836014,0.05581108965082641,False,Head,Open Play,0,0,1,Normal
-9.794386147176347,0.059664318529679954,False,Head,Open Play,0,0,4,Normal
-12.608727136392476,0.05986453710973225,False,Left Foot,Open Play,1,0,2,Normal
-16.894081803992776,0.06373940825522634,False,Right Foot,Open Play,1,0,2,Normal
-7.647875521999555,0.058563006080894105,False,Right Foot,Open Play,1,0,3,Normal
-29.543527209864436,0.07230130966163627,False,Right Foot,Free Kick,0,0,0,Normal
-19.25019480420912,0.06164991983547051,False,Left Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825775,Jonathas Cristian de Jesus,Real Sociedad,12.509996003196804,0.05961929907205432,False,Head,Open Play,0,1,3,Normal
+3825775,Ricardo Miguel Moreira da Costa,Granada,9.625487000666512,0.05357639097114368,False,Head,Open Play,0,0,1,Normal
+3825775,Xabier Prieto Argarate,Real Sociedad,13.990353819685902,0.0594796341132999,False,Right Foot,Open Play,1,0,2,Normal
+3825775,Mikel Oyarzabal Ugarte,Real Sociedad,7.3824115301167,0.05802171248300404,True,Left Foot,Open Play,1,1,2,Normal
+3825775,Aritz Elustondo Irribaria,Real Sociedad,5.470831746635973,0.055789463246670556,False,Head,Open Play,0,0,3,Normal
+3825775,Rubén Rochina Naixes,Granada,30.841530441921975,0.06739387428892867,False,Left Foot,Open Play,1,0,0,Normal
+3825775,Youssef El-Arabi,Granada,22.510886255321,0.06457239638678951,False,Right Foot,Open Play,0,0,1,Normal
+3825775,Jonathas Cristian de Jesus,Real Sociedad,12.714165328483027,0.05695788893216158,True,Right Foot,Open Play,1,0,2,Volley
+3825775,Rubén Pardo Gutiérrez,Real Sociedad,58.20137455421478,0.08398057939825812,False,Right Foot,Open Play,1,0,1,Normal
+3825775,Carlos Alberto Vela Garrido,Real Sociedad,16.046183346827366,0.06009943022216549,False,Left Foot,Open Play,0,1,2,Lob
+3825775,Ricardo Miguel Moreira da Costa,Granada,16.842802617141835,0.06116946468636359,False,Head,Open Play,0,0,2,Diving Header
+3825775,Youssef El-Arabi,Granada,7.930952023559337,0.05500225692643692,False,Right Foot,Open Play,1,0,2,Half Volley
+3825775,Mikel Oyarzabal Ugarte,Real Sociedad,8.720665112249176,0.056570863574260846,True,Left Foot,Open Play,1,0,3,Half Volley
+3825775,Francisco Manuel Rico Castro,Granada,19.89271223337833,0.061421226280375996,False,Right Foot,Open Play,1,0,0,Volley
+3825775,David Barral Torres,Granada,9.734988443752776,0.059267691607094816,False,Right Foot,Open Play,1,1,4,Backheel
+3825775,Armindo Tué Na Bangna,Real Sociedad,21.28685040112792,0.06606579627126796,False,Right Foot,Open Play,0,1,1,Normal
+3825775,David Barral Torres,Granada,7.057619995437555,0.057841875728428103,False,Head,Open Play,0,0,5,Normal
+3825775,Rubén Rochina Naixes,Granada,24.999399992799834,0.06893403006118326,False,Left Foot,Free Kick,0,0,0,Normal
+3825775,David Barral Torres,Granada,6.530696746902282,0.056232201833047626,False,Left Foot,Open Play,0,0,4,Half Volley
+3825775,David Rodríguez Lombán,Granada,10.463746938836014,0.05581108965082641,False,Head,Open Play,0,0,1,Normal
+3825775,Ricardo Miguel Moreira da Costa,Granada,9.794386147176347,0.059664318529679954,False,Head,Open Play,0,0,4,Normal
+3825775,Carlos Alberto Vela Garrido,Real Sociedad,12.608727136392476,0.05986453710973225,False,Left Foot,Open Play,1,0,2,Normal
+3825775,Markel Bergara Larrañaga,Real Sociedad,16.894081803992776,0.06373940825522634,False,Right Foot,Open Play,1,0,2,Normal
+3825775,Diego Antonio Reyes Rosales,Real Sociedad,7.647875521999555,0.058563006080894105,False,Right Foot,Open Play,1,0,3,Normal
+3825775,Francisco Manuel Rico Castro,Granada,29.543527209864436,0.07230130966163627,False,Right Foot,Free Kick,0,0,0,Normal
+3825775,Rubén Rochina Naixes,Granada,19.25019480420912,0.06164991983547051,False,Left Foot,Open Play,1,0,2,Half Volley

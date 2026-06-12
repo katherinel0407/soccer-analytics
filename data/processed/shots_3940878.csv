@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.618363336983574,0.05493050737417602,False,Right Foot,Open Play,1,1,2,Volley
-16.704789732289356,0.06362006416011783,False,Right Foot,Open Play,1,0,1,Half Volley
-15.814234094637651,0.05569138530089927,False,Left Foot,Open Play,0,0,3,Normal
-25.72178065375723,0.06446531095271985,False,Right Foot,Open Play,0,0,1,Normal
-26.5452443951831,0.0678637862706649,False,Left Foot,Open Play,0,0,1,Normal
-16.671232707871365,0.06307285344865245,False,Right Foot,Open Play,0,1,4,Normal
-17.758941409892653,0.054126899663410645,False,Right Foot,Open Play,0,0,2,Normal
-19.147062437878038,0.053787658831447864,False,Left Foot,Open Play,0,0,2,Normal
-31.842110482818192,0.07409716231700689,False,Left Foot,Open Play,0,0,1,Normal
-10.515227054134405,0.060109657960403885,True,Left Foot,Open Play,0,0,2,Half Volley
-33.120386471175124,0.05080523869986863,False,Left Foot,Free Kick,0,0,0,Normal
-21.9,0.06662711947057656,True,Right Foot,Open Play,0,0,2,Normal
-11.827087553578018,0.05274794720977878,False,Right Foot,Open Play,1,1,1,Half Volley
-24.709917037497316,0.0656347761228486,False,Left Foot,Open Play,0,0,1,Half Volley
-30.677679182102423,0.0728815846775911,False,Left Foot,Open Play,0,0,1,Normal
-30.464569585011372,0.06488755963858545,False,Right Foot,Open Play,0,0,1,Normal
-28.08504940355277,0.05900497822006678,False,Left Foot,Open Play,0,0,1,Normal
-22.09275899474758,0.06696981140838824,False,Left Foot,Open Play,0,0,2,Normal
-21.421951358361362,0.06136976894404769,False,Left Foot,Open Play,0,0,2,Normal
-10.720074626605912,0.05844831813035283,False,Head,Open Play,0,0,2,Normal
-6.6648330811806495,0.057695369592115374,False,Right Foot,Open Play,1,0,2,Half Volley
-30.900647242412248,0.07305809365039982,False,Right Foot,Open Play,0,0,2,Normal
-22.699118925632334,0.06284335804983972,False,Right Foot,Open Play,1,0,1,Half Volley
-21.302112571292074,0.06355589482412154,False,Left Foot,Open Play,1,0,1,Half Volley
-14.187318280774559,0.060452252703538,False,Left Foot,Open Play,1,0,1,Normal
-28.82724405835563,0.07131511307370048,False,Right Foot,Open Play,0,0,1,Normal
-28.445913590531767,0.05158445904970517,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3940878,Dan Ndoye,Switzerland,16.618363336983574,0.05493050737417602,False,Right Foot,Open Play,1,1,2,Volley
+3940878,Breel-Donald Embolo,Switzerland,16.704789732289356,0.06362006416011783,False,Right Foot,Open Play,1,0,1,Half Volley
+3940878,Dan Ndoye,Switzerland,15.814234094637651,0.05569138530089927,False,Left Foot,Open Play,0,0,3,Normal
+3940878,Remo Freuler,Switzerland,25.72178065375723,0.06446531095271985,False,Right Foot,Open Play,0,0,1,Normal
+3940878,Breel-Donald Embolo,Switzerland,26.5452443951831,0.0678637862706649,False,Left Foot,Open Play,0,0,1,Normal
+3940878,Federico Chiesa,Italy,16.671232707871365,0.06307285344865245,False,Right Foot,Open Play,0,1,4,Normal
+3940878,Dan Ndoye,Switzerland,17.758941409892653,0.054126899663410645,False,Right Foot,Open Play,0,0,2,Normal
+3940878,Fabian Lukas Schär,Switzerland,19.147062437878038,0.053787658831447864,False,Left Foot,Open Play,0,0,2,Normal
+3940878,Ricardo Iván Rodríguez Araya,Switzerland,31.842110482818192,0.07409716231700689,False,Left Foot,Open Play,0,0,1,Normal
+3940878,Remo Freuler,Switzerland,10.515227054134405,0.060109657960403885,True,Left Foot,Open Play,0,0,2,Half Volley
+3940878,Fabian Rieder,Switzerland,33.120386471175124,0.05080523869986863,False,Left Foot,Free Kick,0,0,0,Normal
+3940878,Ruben Vargas,Switzerland,21.9,0.06662711947057656,True,Right Foot,Open Play,0,0,2,Normal
+3940878,Federico Chiesa,Italy,11.827087553578018,0.05274794720977878,False,Right Foot,Open Play,1,1,1,Half Volley
+3940878,Federico Chiesa,Italy,24.709917037497316,0.0656347761228486,False,Left Foot,Open Play,0,0,1,Half Volley
+3940878,Ricardo Iván Rodríguez Araya,Switzerland,30.677679182102423,0.0728815846775911,False,Left Foot,Open Play,0,0,1,Normal
+3940878,Bryan Cristante,Italy,30.464569585011372,0.06488755963858545,False,Right Foot,Open Play,0,0,1,Normal
+3940878,Dan Ndoye,Switzerland,28.08504940355277,0.05900497822006678,False,Left Foot,Open Play,0,0,1,Normal
+3940878,Granit Xhaka,Switzerland,22.09275899474758,0.06696981140838824,False,Left Foot,Open Play,0,0,2,Normal
+3940878,Mateo Retegui,Italy,21.421951358361362,0.06136976894404769,False,Left Foot,Open Play,0,0,2,Normal
+3940878,Mattia Zaccagni,Italy,10.720074626605912,0.05844831813035283,False,Head,Open Play,0,0,2,Normal
+3940878,Gianluca Scamacca,Italy,6.6648330811806495,0.057695369592115374,False,Right Foot,Open Play,1,0,2,Half Volley
+3940878,Nicolò Fagioli,Italy,30.900647242412248,0.07305809365039982,False,Right Foot,Open Play,0,0,2,Normal
+3940878,Gianluca Scamacca,Italy,22.699118925632334,0.06284335804983972,False,Right Foot,Open Play,1,0,1,Half Volley
+3940878,Remo Freuler,Switzerland,21.302112571292074,0.06355589482412154,False,Left Foot,Open Play,1,0,1,Half Volley
+3940878,Steven Zuber,Switzerland,14.187318280774559,0.060452252703538,False,Left Foot,Open Play,1,0,1,Normal
+3940878,Lorenzo Pellegrini,Italy,28.82724405835563,0.07131511307370048,False,Right Foot,Open Play,0,0,1,Normal
+3940878,Federico Chiesa,Italy,28.445913590531767,0.05158445904970517,False,Left Foot,Open Play,0,1,1,Normal

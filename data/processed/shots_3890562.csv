@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.47508262498911,0.06998779325879827,True,Right Foot,Open Play,0,0,0,Normal
-13.83979768638256,0.0618145331632703,False,Right Foot,Open Play,0,0,1,Half Volley
-8.53814968245462,0.057092250473235684,True,Right Foot,Open Play,1,0,1,Normal
-14.90134222142422,0.06074839032924988,False,Right Foot,Open Play,1,0,1,Volley
-33.02605032394883,0.07282675301230675,False,Right Foot,Open Play,0,0,0,Normal
-35.163759753473464,0.06587416808184214,False,Right Foot,Open Play,0,0,0,Normal
-28.26764935398768,0.07137415453476618,False,Right Foot,Open Play,0,1,1,Normal
-5.692099788303087,0.05636531812739362,False,Right Foot,Open Play,0,0,2,Half Volley
-25.779255225859423,0.06955674965730078,True,Right Foot,Open Play,1,0,0,Lob
-13.102671483327361,0.053677392911832114,False,Right Foot,Open Play,1,1,2,Normal
-15.89370944745121,0.06314780308015569,False,Right Foot,Open Play,0,1,2,Normal
-27.20165436145383,0.068858760048049,False,Right Foot,Open Play,0,1,3,Normal
-20.71834935510066,0.06461757417517769,True,Right Foot,Free Kick,0,0,0,Normal
-32.702446391669234,0.06952943685452238,False,Right Foot,Open Play,0,0,0,Normal
-19.00657780874821,0.05816481501298149,False,Right Foot,Open Play,0,0,3,Normal
-21.350644018389698,0.06612676664324102,False,Right Foot,Open Play,1,1,3,Normal
-13.737903770226376,0.06189685211377932,False,Head,Open Play,0,1,2,Normal
-8.207313811473277,0.058839394447507395,False,Head,Open Play,0,1,1,Normal
-20.163581031156152,0.05609865745199274,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890562,Gonzalo Castro Randon,Borussia Dortmund,26.47508262498911,0.06998779325879827,True,Right Foot,Open Play,0,0,0,Normal
+3890562,Leonardo Bittencourt,FC Köln,13.83979768638256,0.0618145331632703,False,Right Foot,Open Play,0,0,1,Half Volley
+3890562,Anthony Modeste,FC Köln,8.53814968245462,0.057092250473235684,True,Right Foot,Open Play,1,0,1,Normal
+3890562,Marco Reus,Borussia Dortmund,14.90134222142422,0.06074839032924988,False,Right Foot,Open Play,1,0,1,Volley
+3890562,Gonzalo Castro Randon,Borussia Dortmund,33.02605032394883,0.07282675301230675,False,Right Foot,Open Play,0,0,0,Normal
+3890562,Marcel Risse,FC Köln,35.163759753473464,0.06587416808184214,False,Right Foot,Open Play,0,0,0,Normal
+3890562,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,28.26764935398768,0.07137415453476618,False,Right Foot,Open Play,0,1,1,Normal
+3890562,Pierre-Emerick Aubameyang,Borussia Dortmund,5.692099788303087,0.05636531812739362,False,Right Foot,Open Play,0,0,2,Half Volley
+3890562,Miloš Jojić,FC Köln,25.779255225859423,0.06955674965730078,True,Right Foot,Open Play,1,0,0,Lob
+3890562,Paweł Olkowski,FC Köln,13.102671483327361,0.053677392911832114,False,Right Foot,Open Play,1,1,2,Normal
+3890562,Anthony Modeste,FC Köln,15.89370944745121,0.06314780308015569,False,Right Foot,Open Play,0,1,2,Normal
+3890562,Moritz Leitner,Borussia Dortmund,27.20165436145383,0.068858760048049,False,Right Foot,Open Play,0,1,3,Normal
+3890562,Marco Reus,Borussia Dortmund,20.71834935510066,0.06461757417517769,True,Right Foot,Free Kick,0,0,0,Normal
+3890562,Moritz Leitner,Borussia Dortmund,32.702446391669234,0.06952943685452238,False,Right Foot,Open Play,0,0,0,Normal
+3890562,Marco Reus,Borussia Dortmund,19.00657780874821,0.05816481501298149,False,Right Foot,Open Play,0,0,3,Normal
+3890562,Mats Hummels,Borussia Dortmund,21.350644018389698,0.06612676664324102,False,Right Foot,Open Play,1,1,3,Normal
+3890562,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,13.737903770226376,0.06189685211377932,False,Head,Open Play,0,1,2,Normal
+3890562,Gustavo Adrián Ramos Vásquez,Borussia Dortmund,8.207313811473277,0.058839394447507395,False,Head,Open Play,0,1,1,Normal
+3890562,Erik Durm,Borussia Dortmund,20.163581031156152,0.05609865745199274,False,Left Foot,Open Play,0,0,2,Normal

@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-45.2442261509687,0.07777670898123526,False,Right Foot,Open Play,0,0,0,Normal
-22.82542442102665,0.0627914965162983,False,Right Foot,Open Play,0,0,2,Normal
-18.21482912354656,0.060247027868678214,False,Head,Open Play,0,1,1,Normal
-46.062566146492536,0.08727008768385747,False,Right Foot,Open Play,0,0,1,Normal
-13.315029102484157,0.061304959335183214,False,Right Foot,Open Play,1,0,2,Lob
-18.544001725625456,0.05989899518894019,False,Right Foot,Open Play,1,0,2,Normal
-30.661539426454112,0.07290541581551305,False,Right Foot,Free Kick,0,0,0,Normal
-28.820131852578328,0.07141127461863112,False,Right Foot,Open Play,1,0,0,Volley
-23.0540668863435,0.060402480664222734,False,Right Foot,Open Play,1,0,0,Normal
-14.239382009062055,0.062166635078947985,True,Left Foot,Open Play,0,0,1,Normal
-24.79516081819192,0.05937679564003032,False,Right Foot,Open Play,0,0,2,Normal
-13.106105447462257,0.061498090557964534,False,Head,Open Play,0,0,1,Normal
-35.11723223717952,0.07288342754779492,False,Left Foot,Free Kick,0,0,0,Normal
-16.278820596099706,0.05541485668804581,False,Head,Open Play,0,0,3,Normal
-13.319534526401439,0.06141836624541285,True,Right Foot,Open Play,0,1,3,Normal
-12.22988143850953,0.06103500452514009,False,Left Foot,Open Play,1,0,2,Normal
-16.445364088398897,0.06282186477732182,True,Left Foot,Open Play,1,0,2,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68325,José Edmílson Gomes de Moraes,Barcelona,45.2442261509687,0.07777670898123526,False,Right Foot,Open Play,0,0,0,Normal
+68325,Ludovic Giuly,Barcelona,22.82542442102665,0.0627914965162983,False,Right Foot,Open Play,0,0,2,Normal
+68325,Yoshito Ōkubo,Mallorca,18.21482912354656,0.060247027868678214,False,Head,Open Play,0,1,1,Normal
+68325,Yoshito Ōkubo,Mallorca,46.062566146492536,0.08727008768385747,False,Right Foot,Open Play,0,0,1,Normal
+68325,Henrik Larsson,Barcelona,13.315029102484157,0.061304959335183214,False,Right Foot,Open Play,1,0,2,Lob
+68325,Henrik Larsson,Barcelona,18.544001725625456,0.05989899518894019,False,Right Foot,Open Play,1,0,2,Normal
+68325,Ronaldo de Assis Moreira,Barcelona,30.661539426454112,0.07290541581551305,False,Right Foot,Free Kick,0,0,0,Normal
+68325,Mark van Bommel,Barcelona,28.820131852578328,0.07141127461863112,False,Right Foot,Open Play,1,0,0,Volley
+68325,Ludovic Giuly,Barcelona,23.0540668863435,0.060402480664222734,False,Right Foot,Open Play,1,0,0,Normal
+68325,Ludovic Giuly,Barcelona,14.239382009062055,0.062166635078947985,True,Left Foot,Open Play,0,0,1,Normal
+68325,Cristiano Doni,Mallorca,24.79516081819192,0.05937679564003032,False,Right Foot,Open Play,0,0,2,Normal
+68325,José Edmílson Gomes de Moraes,Barcelona,13.106105447462257,0.061498090557964534,False,Head,Open Play,0,0,1,Normal
+68325,Juan Fernando Arango Sáenz,Mallorca,35.11723223717952,0.07288342754779492,False,Left Foot,Free Kick,0,0,0,Normal
+68325,José Carlos de Araújo Nunes,Mallorca,16.278820596099706,0.05541485668804581,False,Head,Open Play,0,0,3,Normal
+68325,Lionel Andrés Messi Cuccittini,Barcelona,13.319534526401439,0.06141836624541285,True,Right Foot,Open Play,0,1,3,Normal
+68325,Ronaldo de Assis Moreira,Barcelona,12.22988143850953,0.06103500452514009,False,Left Foot,Open Play,1,0,2,Normal
+68325,Lionel Andrés Messi Cuccittini,Barcelona,16.445364088398897,0.06282186477732182,True,Left Foot,Open Play,1,0,2,Lob

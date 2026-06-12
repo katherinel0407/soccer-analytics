@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.678429182629873,0.06334135472632482,False,Left Foot,Open Play,0,0,1,Normal
-9.013878188659975,0.055596056460607016,False,Head,Open Play,0,1,4,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-32.432237048961014,0.06437185844862761,False,Right Foot,Open Play,0,0,0,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-8.300602387778856,0.058819264411033904,False,Left Foot,Open Play,0,1,3,Volley
-10.043903623591774,0.05792061509658082,False,Head,Open Play,0,0,1,Normal
-5.510898293381948,0.057264833276797926,False,Head,Open Play,0,1,4,Normal
-14.090067423543436,0.062102315501508215,True,Left Foot,Open Play,1,0,1,Lob
-23.926554285981084,0.05592976293870777,False,Right Foot,Open Play,0,0,2,Normal
-6.161168720299746,0.055644493803090125,False,Head,Open Play,0,1,4,Normal
-21.010711553871758,0.065702741626368,False,Right Foot,Open Play,1,0,2,Normal
-20.332486321156097,0.06588444944961824,False,Right Foot,Open Play,1,0,2,Lob
-19.858751219550545,0.0641246857862182,False,Right Foot,Open Play,1,0,1,Normal
-6.4621977685614045,0.057899846582251766,False,Head,Open Play,0,1,2,Normal
-7.2138755187485755,0.05830040723725184,False,Left Foot,Open Play,1,0,2,Backheel
-21.169081227110453,0.055257079347318064,True,Right Foot,Open Play,0,0,2,Half Volley
-15.261061562027724,0.0622638732656913,False,Left Foot,Open Play,1,1,3,Normal
-6.046486583132393,0.054632772405717185,True,Head,Open Play,0,1,7,Normal
-8.486459803710845,0.058967892890201205,False,Head,Open Play,0,1,3,Normal
-15.738487856207792,0.06294626960359523,False,Left Foot,Open Play,0,1,1,Normal
-18.574444810007115,0.05918095725279063,False,Right Foot,Open Play,0,0,2,Normal
-28.0,0.06690491840941816,False,Left Foot,Open Play,0,0,1,Normal
-22.861539755668254,0.057704479401265656,False,Left Foot,Open Play,0,0,1,Half Volley
-23.307724041613334,0.06722091101180153,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775552,Angela Addison,Tottenham Hotspur Women,16.678429182629873,0.06334135472632482,False,Left Foot,Open Play,0,0,1,Normal
+3775552,Alanna Stephanie Kennedy,Tottenham Hotspur Women,9.013878188659975,0.055596056460607016,False,Head,Open Play,0,1,4,Normal
+3775552,Valérie Gauvin,Everton LFC,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3775552,Ria Percival,Tottenham Hotspur Women,32.432237048961014,0.06437185844862761,False,Right Foot,Open Play,0,0,0,Normal
+3775552,Valérie Gauvin,Everton LFC,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3775552,Alanna Stephanie Kennedy,Tottenham Hotspur Women,8.300602387778856,0.058819264411033904,False,Left Foot,Open Play,0,1,3,Volley
+3775552,Valérie Gauvin,Everton LFC,10.043903623591774,0.05792061509658082,False,Head,Open Play,0,0,1,Normal
+3775552,Jill Scott,Everton LFC,5.510898293381948,0.057264833276797926,False,Head,Open Play,0,1,4,Normal
+3775552,Angela Addison,Tottenham Hotspur Women,14.090067423543436,0.062102315501508215,True,Left Foot,Open Play,1,0,1,Lob
+3775552,Alanna Stephanie Kennedy,Tottenham Hotspur Women,23.926554285981084,0.05592976293870777,False,Right Foot,Open Play,0,0,2,Normal
+3775552,Valérie Gauvin,Everton LFC,6.161168720299746,0.055644493803090125,False,Head,Open Play,0,1,4,Normal
+3775552,Nicoline Sørensen,Everton LFC,21.010711553871758,0.065702741626368,False,Right Foot,Open Play,1,0,2,Normal
+3775552,Rosella Ayane,Tottenham Hotspur Women,20.332486321156097,0.06588444944961824,False,Right Foot,Open Play,1,0,2,Lob
+3775552,Rosella Ayane,Tottenham Hotspur Women,19.858751219550545,0.0641246857862182,False,Right Foot,Open Play,1,0,1,Normal
+3775552,Valérie Gauvin,Everton LFC,6.4621977685614045,0.057899846582251766,False,Head,Open Play,0,1,2,Normal
+3775552,Valérie Gauvin,Everton LFC,7.2138755187485755,0.05830040723725184,False,Left Foot,Open Play,1,0,2,Backheel
+3775552,Gemma Suzanne Davison,Tottenham Hotspur Women,21.169081227110453,0.055257079347318064,True,Right Foot,Open Play,0,0,2,Half Volley
+3775552,Claire Emslie,Everton LFC,15.261061562027724,0.0622638732656913,False,Left Foot,Open Play,1,1,3,Normal
+3775552,Jill Scott,Everton LFC,6.046486583132393,0.054632772405717185,True,Head,Open Play,0,1,7,Normal
+3775552,Valérie Gauvin,Everton LFC,8.486459803710845,0.058967892890201205,False,Head,Open Play,0,1,3,Normal
+3775552,Isobel Mary Christiansen,Everton LFC,15.738487856207792,0.06294626960359523,False,Left Foot,Open Play,0,1,1,Normal
+3775552,Jill Scott,Everton LFC,18.574444810007115,0.05918095725279063,False,Right Foot,Open Play,0,0,2,Normal
+3775552,Danielle Turner,Everton LFC,28.0,0.06690491840941816,False,Left Foot,Open Play,0,0,1,Normal
+3775552,Kit Graham,Tottenham Hotspur Women,22.861539755668254,0.057704479401265656,False,Left Foot,Open Play,0,0,1,Half Volley
+3775552,Simone Magill,Everton LFC,23.307724041613334,0.06722091101180153,False,Right Foot,Open Play,0,0,2,Normal

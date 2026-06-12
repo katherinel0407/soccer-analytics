@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.971399357258386,0.0517647755699126,False,Right Foot,Open Play,1,0,1,Normal
-21.053503271427296,0.05397059880825227,False,Left Foot,Open Play,0,0,4,Normal
-27.969268849935993,0.07087380393397699,False,Right Foot,Open Play,0,0,1,Normal
-36.07020931461308,0.06866256644724585,False,Right Foot,Open Play,1,0,1,Normal
-8.805112151472004,0.05837531203625763,False,Head,Open Play,0,1,4,Normal
-36.202209877298934,0.07086844615958951,False,Left Foot,Open Play,0,0,1,Normal
-24.38770181874463,0.0659510014239311,False,Right Foot,Open Play,1,0,0,Normal
-29.925240182828936,0.07227681375613845,False,Right Foot,Open Play,0,0,1,Normal
-40.651814227657795,0.059050357962811134,False,Right Foot,Open Play,0,0,0,Normal
-31.136473788789896,0.05969162830098642,False,Left Foot,Open Play,0,1,1,Normal
-38.83722441163889,0.07373075406761308,False,Right Foot,Open Play,1,0,0,Normal
-15.435349040433126,0.06284491646038208,False,Right Foot,Open Play,0,0,0,Volley
-11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
-7.782673062643714,0.05633939941115047,True,Right Foot,Open Play,1,0,2,Normal
-27.26407893181062,0.05821818096288917,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68351,Lionel Andrés Messi Cuccittini,Barcelona,13.971399357258386,0.0517647755699126,False,Right Foot,Open Play,1,0,1,Normal
+68351,Diego Alberto Milito,Real Zaragoza,21.053503271427296,0.05397059880825227,False,Left Foot,Open Play,0,0,4,Normal
+68351,Ewerthon Henrique de Souza,Real Zaragoza,27.969268849935993,0.07087380393397699,False,Right Foot,Open Play,0,0,1,Normal
+68351,Samuel Eto''o Fils,Barcelona,36.07020931461308,0.06866256644724585,False,Right Foot,Open Play,1,0,1,Normal
+68351,Álvaro Luiz Maior de Aquino,Real Zaragoza,8.805112151472004,0.05837531203625763,False,Head,Open Play,0,1,4,Normal
+68351,Thiago Motta,Barcelona,36.202209877298934,0.07086844615958951,False,Left Foot,Open Play,0,0,1,Normal
+68351,Samuel Eto''o Fils,Barcelona,24.38770181874463,0.0659510014239311,False,Right Foot,Open Play,1,0,0,Normal
+68351,Rubén Gracia Calmache,Real Zaragoza,29.925240182828936,0.07227681375613845,False,Right Foot,Open Play,0,0,1,Normal
+68351,Mark van Bommel,Barcelona,40.651814227657795,0.059050357962811134,False,Right Foot,Open Play,0,0,0,Normal
+68351,Óscar Javier González Marcos,Real Zaragoza,31.136473788789896,0.05969162830098642,False,Left Foot,Open Play,0,1,1,Normal
+68351,Rafael Márquez Álvarez,Barcelona,38.83722441163889,0.07373075406761308,False,Right Foot,Open Play,1,0,0,Normal
+68351,José Edmílson Gomes de Moraes,Barcelona,15.435349040433126,0.06284491646038208,False,Right Foot,Open Play,0,0,0,Volley
+68351,Ronaldo de Assis Moreira,Barcelona,11.900000000000006,0.05954970314276759,True,Right Foot,Penalty,0,0,0,Normal
+68351,Henrik Larsson,Barcelona,7.782673062643714,0.05633939941115047,True,Right Foot,Open Play,1,0,2,Normal
+68351,Ewerthon Henrique de Souza,Real Zaragoza,27.26407893181062,0.05821818096288917,False,Right Foot,Open Play,0,0,2,Normal

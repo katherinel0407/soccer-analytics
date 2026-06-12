@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.732938484199597,0.06939751406564973,False,Right Foot,Free Kick,0,0,0,Normal
-27.478173156161603,0.06849696613429399,False,Right Foot,Open Play,0,0,1,Normal
-11.128791488746657,0.06039164934021729,False,Head,Open Play,0,1,3,Normal
-11.830891766895686,0.060690638789133056,True,Right Foot,Open Play,1,0,3,Normal
-13.541787178950942,0.058123589749878406,True,Right Foot,Open Play,0,0,2,Normal
-10.86324076875773,0.05317745639890413,True,Right Foot,Open Play,0,1,3,Normal
-11.52605743522042,0.060513383853608486,False,Left Foot,Open Play,0,1,2,Normal
-5.721887800367989,0.056888817917447654,False,Head,Open Play,0,0,4,Normal
-20.957099035887577,0.05900808243562125,False,Right Foot,Open Play,1,0,1,Half Volley
-12.515989773086272,0.059136929920071385,False,Left Foot,Open Play,1,0,1,Half Volley
-7.98310716450681,0.058421155995806946,False,Head,Open Play,0,1,2,Normal
-12.606347607455541,0.05554084407763862,True,Right Foot,Open Play,1,0,1,Normal
-15.065855435387661,0.06265781190511435,True,Right Foot,Open Play,0,0,2,Normal
-9.044335243676004,0.059105536788943126,False,Other,Open Play,0,1,4,Normal
-21.35602959353634,0.06653786847946103,False,Right Foot,Open Play,0,1,2,Normal
-8.237718130647588,0.054399110711551554,False,Left Foot,Open Play,1,0,3,Half Volley
-25.350542400508907,0.06636964026934694,False,Left Foot,Open Play,1,0,1,Half Volley
-20.359273071502336,0.06587375525480028,False,Right Foot,Open Play,0,0,2,Normal
-23.803361107205003,0.06505477144765669,False,Right Foot,Open Play,0,0,1,Half Volley
-26.342740935597423,0.05910533672240893,False,Left Foot,Open Play,0,0,3,Normal
-19.675619431164044,0.06451140487074457,False,Right Foot,Open Play,0,0,2,Normal
-5.661271941887271,0.05744627889173328,False,Left Foot,Open Play,1,0,2,Normal
-23.41559309520047,0.05731570925236858,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881543,Kerolin Nicoli Israel Ferraz,North Carolina Courage,26.732938484199597,0.06939751406564973,False,Right Foot,Free Kick,0,0,0,Normal
+3881543,Denise O'Sullivan,North Carolina Courage,27.478173156161603,0.06849696613429399,False,Right Foot,Open Play,0,0,1,Normal
+3881543,Kaleigh Kurtz,North Carolina Courage,11.128791488746657,0.06039164934021729,False,Head,Open Play,0,1,3,Normal
+3881543,Kerolin Nicoli Israel Ferraz,North Carolina Courage,11.830891766895686,0.060690638789133056,True,Right Foot,Open Play,1,0,3,Normal
+3881543,Mille Gejl Jensen,North Carolina Courage,13.541787178950942,0.058123589749878406,True,Right Foot,Open Play,0,0,2,Normal
+3881543,Kerolin Nicoli Israel Ferraz,North Carolina Courage,10.86324076875773,0.05317745639890413,True,Right Foot,Open Play,0,1,3,Normal
+3881543,Tess Boade,North Carolina Courage,11.52605743522042,0.060513383853608486,False,Left Foot,Open Play,0,1,2,Normal
+3881543,Bianca St Georges,Chicago Red Stars,5.721887800367989,0.056888817917447654,False,Head,Open Play,0,0,4,Normal
+3881543,Bianca St Georges,Chicago Red Stars,20.957099035887577,0.05900808243562125,False,Right Foot,Open Play,1,0,1,Half Volley
+3881543,Casey Marie Krueger,Chicago Red Stars,12.515989773086272,0.059136929920071385,False,Left Foot,Open Play,1,0,1,Half Volley
+3881543,Tess Boade,North Carolina Courage,7.98310716450681,0.058421155995806946,False,Head,Open Play,0,1,2,Normal
+3881543,Denise O'Sullivan,North Carolina Courage,12.606347607455541,0.05554084407763862,True,Right Foot,Open Play,1,0,1,Normal
+3881543,Kerolin Nicoli Israel Ferraz,North Carolina Courage,15.065855435387661,0.06265781190511435,True,Right Foot,Open Play,0,0,2,Normal
+3881543,Tess Boade,North Carolina Courage,9.044335243676004,0.059105536788943126,False,Other,Open Play,0,1,4,Normal
+3881543,Kerolin Nicoli Israel Ferraz,North Carolina Courage,21.35602959353634,0.06653786847946103,False,Right Foot,Open Play,0,1,2,Normal
+3881543,Jillienne Aguilera,Chicago Red Stars,8.237718130647588,0.054399110711551554,False,Left Foot,Open Play,1,0,3,Half Volley
+3881543,Jenna Bike,Chicago Red Stars,25.350542400508907,0.06636964026934694,False,Left Foot,Open Play,1,0,1,Half Volley
+3881543,Kerolin Nicoli Israel Ferraz,North Carolina Courage,20.359273071502336,0.06587375525480028,False,Right Foot,Open Play,0,0,2,Normal
+3881543,Malia Berkely,North Carolina Courage,23.803361107205003,0.06505477144765669,False,Right Foot,Open Play,0,0,1,Half Volley
+3881543,Tatumn Milazzo,Chicago Red Stars,26.342740935597423,0.05910533672240893,False,Left Foot,Open Play,0,0,3,Normal
+3881543,Jillienne Aguilera,Chicago Red Stars,19.675619431164044,0.06451140487074457,False,Right Foot,Open Play,0,0,2,Normal
+3881543,Cheyna Lee Matthews,Chicago Red Stars,5.661271941887271,0.05744627889173328,False,Left Foot,Open Play,1,0,2,Normal
+3881543,Olivia Wingate,North Carolina Courage,23.41559309520047,0.05731570925236858,False,Left Foot,Open Play,0,0,2,Normal

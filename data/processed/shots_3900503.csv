@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.355270219373313,0.057382862266729354,False,Right Foot,Open Play,1,0,5,Overhead Kick
-13.312400234367958,0.055525058058609175,False,Right Foot,Open Play,0,1,2,Half Volley
-24.20020661068827,0.06669120830326164,False,Left Foot,Open Play,0,0,3,Normal
-19.448650338776723,0.06378419301574807,False,Left Foot,Open Play,1,1,1,Half Volley
-3.827531841800921,0.05584593061926413,False,Head,Open Play,0,0,3,Normal
-36.41112467364886,0.07789578485218801,False,Right Foot,Open Play,0,0,1,Normal
-7.433034373659248,0.058289810024805766,False,Head,Open Play,0,1,2,Normal
-19.110729970359586,0.06455261257421126,False,Head,Open Play,0,1,1,Normal
-30.866324692130096,0.0664182661234421,False,Right Foot,Open Play,0,0,0,Normal
-29.80738163609813,0.07198424636001974,False,Left Foot,Open Play,0,0,1,Normal
-25.532724100651702,0.06432399562927396,False,Left Foot,Open Play,0,0,0,Normal
-26.184155514356387,0.06746086111486528,False,Left Foot,Open Play,0,0,1,Normal
-14.786818454285562,0.06134459123007684,True,Left Foot,Open Play,1,0,1,Normal
-12.646343345014797,0.06111903420736117,False,Head,Open Play,0,0,1,Normal
-11.05350623105628,0.06037491630498358,False,Head,Open Play,0,1,1,Normal
-23.12249986485025,0.06709105585643427,False,Left Foot,Open Play,0,1,1,Normal
-19.990247622278215,0.06554708642089764,True,Right Foot,Open Play,1,1,2,Normal
-29.149442533262963,0.06968658399513403,False,Right Foot,Open Play,0,0,1,Normal
-25.181342299408897,0.05633632718235339,False,Right Foot,Free Kick,0,0,0,Normal
-27.845466417354185,0.06305738704026177,False,Right Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900503,Marko Baša,Lille,7.355270219373313,0.057382862266729354,False,Right Foot,Open Play,1,0,5,Overhead Kick
+3900503,Florian Raspentino,Bastia,13.312400234367958,0.055525058058609175,False,Right Foot,Open Play,0,1,2,Half Volley
+3900503,Sofiane Boufal,Lille,24.20020661068827,0.06669120830326164,False,Left Foot,Open Play,0,0,3,Normal
+3900503,Mounir Obbadi,Lille,19.448650338776723,0.06378419301574807,False,Left Foot,Open Play,1,1,1,Half Volley
+3900503,Éric Bauthéac,Lille,3.827531841800921,0.05584593061926413,False,Head,Open Play,0,0,3,Normal
+3900503,Seko Fofana,Bastia,36.41112467364886,0.07789578485218801,False,Right Foot,Open Play,0,0,1,Normal
+3900503,Bakary Adama Soumaoro,Lille,7.433034373659248,0.058289810024805766,False,Head,Open Play,0,1,2,Normal
+3900503,Éric Bauthéac,Lille,19.110729970359586,0.06455261257421126,False,Head,Open Play,0,1,1,Normal
+3900503,Seko Fofana,Bastia,30.866324692130096,0.0664182661234421,False,Right Foot,Open Play,0,0,0,Normal
+3900503,Evaeverson Lemos da Silva Brandão,Bastia,29.80738163609813,0.07198424636001974,False,Left Foot,Open Play,0,0,1,Normal
+3900503,Mounir Obbadi,Lille,25.532724100651702,0.06432399562927396,False,Left Foot,Open Play,0,0,0,Normal
+3900503,Gaël Danic,Bastia,26.184155514356387,0.06746086111486528,False,Left Foot,Open Play,0,0,1,Normal
+3900503,Gaël Danic,Bastia,14.786818454285562,0.06134459123007684,True,Left Foot,Open Play,1,0,1,Normal
+3900503,Evaeverson Lemos da Silva Brandão,Bastia,12.646343345014797,0.06111903420736117,False,Head,Open Play,0,0,1,Normal
+3900503,Marko Baša,Lille,11.05350623105628,0.06037491630498358,False,Head,Open Play,0,1,1,Normal
+3900503,Evaeverson Lemos da Silva Brandão,Bastia,23.12249986485025,0.06709105585643427,False,Left Foot,Open Play,0,1,1,Normal
+3900503,Djibril Sidibé,Lille,19.990247622278215,0.06554708642089764,True,Right Foot,Open Play,1,1,2,Normal
+3900503,Seko Fofana,Bastia,29.149442533262963,0.06968658399513403,False,Right Foot,Open Play,0,0,1,Normal
+3900503,Djibril Sidibé,Lille,25.181342299408897,0.05633632718235339,False,Right Foot,Free Kick,0,0,0,Normal
+3900503,Mounir Obbadi,Lille,27.845466417354185,0.06305738704026177,False,Right Foot,Open Play,1,1,1,Normal

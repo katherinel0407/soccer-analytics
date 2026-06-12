@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.586637720873165,0.05432898776275706,False,Right Foot,Open Play,1,0,1,Normal
-37.8714932369982,0.07437669128158614,False,Right Foot,Open Play,0,0,1,Normal
-7.119691004531025,0.05713594432180708,False,Head,Open Play,0,0,2,Normal
-16.5,0.0634795402333704,False,Right Foot,Open Play,0,0,2,Half Volley
-18.902380802428034,0.056459798439524436,False,Left Foot,Open Play,0,0,1,Half Volley
-13.02497600765544,0.061017761618659246,False,Left Foot,Open Play,1,1,1,Half Volley
-18.402445489662508,0.06365106551048617,False,Left Foot,Open Play,1,0,1,Normal
-21.801376103356414,0.06608962337402587,False,Right Foot,Open Play,1,1,1,Lob
-25.60312480928842,0.05821646826600473,False,Left Foot,Open Play,0,0,2,Normal
-21.19669785603409,0.05977334682287127,False,Right Foot,Open Play,0,0,3,Normal
-29.669681494751504,0.07227288439706807,False,Right Foot,Open Play,0,0,2,Normal
-26.382190962844618,0.05593795711231386,False,Right Foot,Open Play,0,0,1,Normal
-23.93532953606447,0.06552959736549686,True,Right Foot,Free Kick,0,0,1,Normal
-13.511846653955189,0.06070606505645653,False,Right Foot,Open Play,0,1,1,Normal
-7.939773296511685,0.058724911592764155,True,Head,Open Play,0,1,5,Normal
-8.393449827097314,0.05870443070859086,True,Left Foot,Open Play,1,0,2,Half Volley
-24.420483205702542,0.05064403086350725,False,Right Foot,Open Play,0,0,1,Normal
-21.81238180483736,0.06153404703443994,False,Right Foot,Open Play,0,0,2,Half Volley
-22.53974267821175,0.06724977330322836,True,Left Foot,Open Play,0,0,2,Normal
-21.51325173003839,0.066600503751164,False,Left Foot,Open Play,1,0,1,Normal
-31.033691369220005,0.07249612750124372,False,Right Foot,Open Play,1,0,0,Normal
-26.350332066218826,0.06946069383353097,False,Right Foot,Open Play,0,0,2,Normal
-18.56582882609877,0.06439567166088578,False,Left Foot,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879567,Gervais Lombe Yao Kouassi,AS Roma,14.586637720873165,0.05432898776275706,False,Right Foot,Open Play,1,0,1,Normal
+3879567,Leandro Daniel Paredes,Empoli,37.8714932369982,0.07437669128158614,False,Right Foot,Open Play,0,0,1,Normal
+3879567,Gervais Lombe Yao Kouassi,AS Roma,7.119691004531025,0.05713594432180708,False,Head,Open Play,0,0,2,Normal
+3879567,Manuel Pucciarelli,Empoli,16.5,0.0634795402333704,False,Right Foot,Open Play,0,0,2,Half Volley
+3879567,Mohamed Salah,AS Roma,18.902380802428034,0.056459798439524436,False,Left Foot,Open Play,0,0,1,Half Volley
+3879567,Federico Barba,Empoli,13.02497600765544,0.061017761618659246,False,Left Foot,Open Play,1,1,1,Half Volley
+3879567,Rade Krunić,Empoli,18.402445489662508,0.06365106551048617,False,Left Foot,Open Play,1,0,1,Normal
+3879567,Rade Krunić,Empoli,21.801376103356414,0.06608962337402587,False,Right Foot,Open Play,1,1,1,Lob
+3879567,Massimo Maccarone,Empoli,25.60312480928842,0.05821646826600473,False,Left Foot,Open Play,0,0,2,Normal
+3879567,Alessandro Florenzi,AS Roma,21.19669785603409,0.05977334682287127,False,Right Foot,Open Play,0,0,3,Normal
+3879567,Alessandro Florenzi,AS Roma,29.669681494751504,0.07227288439706807,False,Right Foot,Open Play,0,0,2,Normal
+3879567,Leandro Daniel Paredes,Empoli,26.382190962844618,0.05593795711231386,False,Right Foot,Open Play,0,0,1,Normal
+3879567,Miralem Pjanić,AS Roma,23.93532953606447,0.06552959736549686,True,Right Foot,Free Kick,0,0,1,Normal
+3879567,Gervais Lombe Yao Kouassi,AS Roma,13.511846653955189,0.06070606505645653,False,Right Foot,Open Play,0,1,1,Normal
+3879567,Daniele De Rossi,AS Roma,7.939773296511685,0.058724911592764155,True,Head,Open Play,0,1,5,Normal
+3879567,Mohamed Salah,AS Roma,8.393449827097314,0.05870443070859086,True,Left Foot,Open Play,1,0,2,Half Volley
+3879567,Marco Zambelli,Empoli,24.420483205702542,0.05064403086350725,False,Right Foot,Open Play,0,0,1,Normal
+3879567,Marcel Büchel,Empoli,21.81238180483736,0.06153404703443994,False,Right Foot,Open Play,0,0,2,Half Volley
+3879567,Marcel Büchel,Empoli,22.53974267821175,0.06724977330322836,True,Left Foot,Open Play,0,0,2,Normal
+3879567,Alessandro Piu,Empoli,21.51325173003839,0.066600503751164,False,Left Foot,Open Play,1,0,1,Normal
+3879567,Radja Nainggolan,AS Roma,31.033691369220005,0.07249612750124372,False,Right Foot,Open Play,1,0,0,Normal
+3879567,Alessandro Piu,Empoli,26.350332066218826,0.06946069383353097,False,Right Foot,Open Play,0,0,2,Normal
+3879567,Marko Livaja,Empoli,18.56582882609877,0.06439567166088578,False,Left Foot,Open Play,0,0,4,Normal

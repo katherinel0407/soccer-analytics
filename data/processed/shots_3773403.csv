@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.588013350011561,0.05403555044329362,False,Left Foot,Open Play,0,0,1,Normal
-19.506409203131156,0.06444379306716175,False,Left Foot,Open Play,0,0,1,Normal
-22.41985726984006,0.06173399553884338,False,Right Foot,Open Play,1,0,0,Half Volley
-8.139410298049853,0.05873741989686698,False,Other,Open Play,0,0,1,Normal
-24.82901528454159,0.06475149675749173,True,Left Foot,Free Kick,0,0,0,Normal
-26.394885868288956,0.06999836486881195,False,Right Foot,Open Play,0,0,2,Normal
-23.71181140275875,0.05499680024068244,False,Right Foot,Open Play,0,0,3,Normal
-19.681463360228065,0.05617409887519081,False,Right Foot,Open Play,0,0,1,Normal
-20.9861859326558,0.06434045289911568,False,Left Foot,Open Play,0,0,3,Normal
-25.77692766797471,0.06956079548130836,False,Left Foot,Open Play,0,0,3,Normal
-46.37811984114923,0.07015334342875212,False,Right Foot,Open Play,0,0,1,Lob
-9.751410154434078,0.05897891091918926,False,Head,Open Play,0,0,3,Normal
-7.169379331573971,0.05834177528758995,False,Head,Open Play,0,0,4,Normal
-19.307252523339514,0.05468352056630776,False,Right Foot,Open Play,0,1,2,Normal
-8.139410298049848,0.057729926200616365,True,Left Foot,Open Play,1,0,2,Normal
-12.265398485169573,0.057443660848125584,False,Right Foot,Open Play,1,0,3,Backheel
-26.8330020683486,0.06973318220687737,False,Right Foot,Open Play,1,0,1,Normal
-17.613914953808536,0.05665285089320059,False,Right Foot,Open Play,0,0,4,Normal
-14.07195793057953,0.06203706355905286,False,Left Foot,Open Play,1,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3773403,Lionel Andrés Messi Cuccittini,Barcelona,9.588013350011561,0.05403555044329362,False,Left Foot,Open Play,0,0,1,Normal
+3773403,Antoine Griezmann,Barcelona,19.506409203131156,0.06444379306716175,False,Left Foot,Open Play,0,0,1,Normal
+3773403,Miralem Pjanić,Barcelona,22.41985726984006,0.06173399553884338,False,Right Foot,Open Play,1,0,0,Half Volley
+3773403,Lionel Andrés Messi Cuccittini,Barcelona,8.139410298049853,0.05873741989686698,False,Other,Open Play,0,0,1,Normal
+3773403,Lionel Andrés Messi Cuccittini,Barcelona,24.82901528454159,0.06475149675749173,True,Left Foot,Free Kick,0,0,0,Normal
+3773403,Yuri Berchiche Izeta,Athletic Club,26.394885868288956,0.06999836486881195,False,Right Foot,Open Play,0,0,2,Normal
+3773403,Ronald Federico Araújo da Silva,Barcelona,23.71181140275875,0.05499680024068244,False,Right Foot,Open Play,0,0,3,Normal
+3773403,Ousmane Dembélé,Barcelona,19.681463360228065,0.05617409887519081,False,Right Foot,Open Play,0,0,1,Normal
+3773403,Lionel Andrés Messi Cuccittini,Barcelona,20.9861859326558,0.06434045289911568,False,Left Foot,Open Play,0,0,3,Normal
+3773403,Yuri Berchiche Izeta,Athletic Club,25.77692766797471,0.06956079548130836,False,Left Foot,Open Play,0,0,3,Normal
+3773403,Iñaki Williams Arthuer,Athletic Club,46.37811984114923,0.07015334342875212,False,Right Foot,Open Play,0,0,1,Lob
+3773403,Miralem Pjanić,Barcelona,9.751410154434078,0.05897891091918926,False,Head,Open Play,0,0,3,Normal
+3773403,Antoine Griezmann,Barcelona,7.169379331573971,0.05834177528758995,False,Head,Open Play,0,0,4,Normal
+3773403,Alejandro Berenguer Remiro,Athletic Club,19.307252523339514,0.05468352056630776,False,Right Foot,Open Play,0,1,2,Normal
+3773403,Antoine Griezmann,Barcelona,8.139410298049848,0.057729926200616365,True,Left Foot,Open Play,1,0,2,Normal
+3773403,Raúl García Escudero,Athletic Club,12.265398485169573,0.057443660848125584,False,Right Foot,Open Play,1,0,3,Backheel
+3773403,Raúl García Escudero,Athletic Club,26.8330020683486,0.06973318220687737,False,Right Foot,Open Play,1,0,1,Normal
+3773403,Yeray Álvarez López,Athletic Club,17.613914953808536,0.05665285089320059,False,Right Foot,Open Play,0,0,4,Normal
+3773403,Jordi Alba Ramos,Barcelona,14.07195793057953,0.06203706355905286,False,Left Foot,Open Play,1,1,1,Normal

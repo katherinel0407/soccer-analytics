@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.087398519186312,0.061493011584609056,False,Right Foot,Open Play,1,1,2,Volley
-15.59743568667619,0.055664291083681115,False,Head,Open Play,0,0,2,Normal
-37.1012129181783,0.07710586721999917,False,Right Foot,Open Play,1,0,0,Normal
-21.508137994721903,0.06642823128680102,False,Left Foot,Open Play,0,0,2,Half Volley
-9.483142938920622,0.059198823002126304,False,Left Foot,Open Play,1,0,3,Half Volley
-7.21248916810279,0.05817654851657335,True,Right Foot,Open Play,1,1,2,Normal
-24.82841114529885,0.06118300748918423,False,Right Foot,Open Play,1,0,1,Normal
-31.829074758779903,0.06907959130443113,False,Right Foot,Open Play,0,0,1,Normal
-31.751692868255066,0.07050434955424383,False,Right Foot,Open Play,0,0,1,Normal
-12.347064428438038,0.053469766329063584,False,Right Foot,Open Play,1,0,1,Volley
-16.01530517973354,0.061578659039681495,False,Right Foot,Open Play,1,0,1,Half Volley
-25.515681452785063,0.06908696128164087,False,Right Foot,Open Play,0,0,3,Normal
-9.266067126888295,0.05647506610338818,False,Right Foot,Open Play,1,0,1,Half Volley
-8.982761268117951,0.059227098175523255,False,Head,Open Play,0,0,2,Normal
-9.466784036831097,0.05904710514479499,True,Head,Open Play,0,1,3,Normal
-25.751310646256435,0.06285494277448445,False,Right Foot,Open Play,1,1,1,Normal
-20.663494380186524,0.06502699703689359,False,Left Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3900631,Mustapha Yatabaré,Montpellier,13.087398519186312,0.061493011584609056,False,Right Foot,Open Play,1,1,2,Volley
+3900631,Wissam Ben Yedder,Toulouse,15.59743568667619,0.055664291083681115,False,Head,Open Play,0,0,2,Normal
+3900631,Étienne Didot,Toulouse,37.1012129181783,0.07710586721999917,False,Right Foot,Open Play,1,0,0,Normal
+3900631,Óscar Guido Trejo,Toulouse,21.508137994721903,0.06642823128680102,False,Left Foot,Open Play,0,0,2,Half Volley
+3900631,Mustapha Yatabaré,Montpellier,9.483142938920622,0.059198823002126304,False,Left Foot,Open Play,1,0,3,Half Volley
+3900631,Mustapha Yatabaré,Montpellier,7.21248916810279,0.05817654851657335,True,Right Foot,Open Play,1,1,2,Normal
+3900631,Étienne Didot,Toulouse,24.82841114529885,0.06118300748918423,False,Right Foot,Open Play,1,0,1,Normal
+3900631,Adrien Regattin,Toulouse,31.829074758779903,0.06907959130443113,False,Right Foot,Open Play,0,0,1,Normal
+3900631,Mustapha Yatabaré,Montpellier,31.751692868255066,0.07050434955424383,False,Right Foot,Open Play,0,0,1,Normal
+3900631,Wissam Ben Yedder,Toulouse,12.347064428438038,0.053469766329063584,False,Right Foot,Open Play,1,0,1,Volley
+3900631,Wissam Ben Yedder,Toulouse,16.01530517973354,0.061578659039681495,False,Right Foot,Open Play,1,0,1,Half Volley
+3900631,Ryad Boudebouz,Montpellier,25.515681452785063,0.06908696128164087,False,Right Foot,Open Play,0,0,3,Normal
+3900631,Kévin Bérigaud,Montpellier,9.266067126888295,0.05647506610338818,False,Right Foot,Open Play,1,0,1,Half Volley
+3900631,Zinédine Machach,Toulouse,8.982761268117951,0.059227098175523255,False,Head,Open Play,0,0,2,Normal
+3900631,Souleymane Camara,Montpellier,9.466784036831097,0.05904710514479499,True,Head,Open Play,0,1,3,Normal
+3900631,Jean-Daniel Akpa Akpro,Toulouse,25.751310646256435,0.06285494277448445,False,Right Foot,Open Play,1,1,1,Normal
+3900631,Wissam Ben Yedder,Toulouse,20.663494380186524,0.06502699703689359,False,Left Foot,Open Play,1,0,1,Normal

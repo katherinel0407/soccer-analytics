@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.773922560474816,0.05772163310940656,False,Right Foot,Open Play,0,0,0,Normal
-24.20185943269649,0.06491000629953853,False,Right Foot,Open Play,1,0,1,Normal
-32.77270205521663,0.07380156804800699,False,Right Foot,Open Play,0,0,2,Normal
-23.777720664521237,0.05143231543487177,False,Right Foot,Open Play,1,0,0,Half Volley
-14.716657229140043,0.05277698341298548,False,Right Foot,Open Play,1,1,1,Normal
-34.27725193185708,0.066283454188086,False,Left Foot,Open Play,0,1,1,Normal
-13.24386650491464,0.061142583656077026,False,Head,Open Play,0,1,3,Normal
-21.160340261914506,0.05636438124758315,False,Right Foot,Open Play,0,0,1,Normal
-12.587295182047649,0.06091961098361072,False,Head,Open Play,0,0,2,Normal
-19.952944644838762,0.06560700522343943,False,Right Foot,Open Play,0,0,3,Normal
-31.315970366571747,0.06798775807189014,False,Left Foot,Open Play,0,0,0,Normal
-34.02822357984619,0.07497548129333698,False,Left Foot,Open Play,0,0,2,Normal
-16.01030917877603,0.05268123505365778,False,Right Foot,Open Play,0,0,2,Half Volley
-7.071067811865476,0.05614753756074547,False,Right Foot,Open Play,1,0,3,Normal
-21.10213259365033,0.0634639977783265,False,Right Foot,Open Play,1,0,2,Normal
-21.498139454380695,0.05717087789003255,False,Right Foot,Open Play,0,0,2,Normal
-9.929753269845126,0.059221509299016414,False,Right Foot,Open Play,0,0,1,Normal
-18.49540483471503,0.0589754406324261,False,Head,Open Play,0,0,2,Normal
-12.568611697399195,0.05838490270080917,False,Head,Open Play,0,0,2,Normal
-30.417100453527787,0.0631985861913724,False,Left Foot,Open Play,0,1,1,Normal
-7.317103251970684,0.05783517924433272,False,Head,Open Play,0,1,5,Normal
-27.779488836189916,0.06785135738962844,False,Right Foot,Open Play,0,1,2,Half Volley
-26.660832695172896,0.055114709020163806,False,Left Foot,Open Play,0,0,1,Normal
-24.068444071023787,0.06220026173229808,False,Right Foot,Open Play,1,0,1,Half Volley
-11.936498649101415,0.06014321615633322,False,Left Foot,Open Play,0,0,3,Normal
-24.075090861718472,0.05922703997882596,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829480,Jessy Pi,Troyes,32.773922560474816,0.05772163310940656,False,Right Foot,Open Play,0,0,0,Normal
+3829480,Romain Hamouma,Saint-Étienne,24.20185943269649,0.06491000629953853,False,Right Foot,Open Play,1,0,1,Normal
+3829480,Lossémy Karaboué,Troyes,32.77270205521663,0.07380156804800699,False,Right Foot,Open Play,0,0,2,Normal
+3829480,François Clerc,Saint-Étienne,23.777720664521237,0.05143231543487177,False,Right Foot,Open Play,1,0,0,Half Volley
+3829480,Corentin Jean,Troyes,14.716657229140043,0.05277698341298548,False,Right Foot,Open Play,1,1,1,Normal
+3829480,Thomas Ayasse,Troyes,34.27725193185708,0.066283454188086,False,Left Foot,Open Play,0,1,1,Normal
+3829480,Benjamin Corgnet,Saint-Étienne,13.24386650491464,0.061142583656077026,False,Head,Open Play,0,1,3,Normal
+3829480,François Clerc,Saint-Étienne,21.160340261914506,0.05636438124758315,False,Right Foot,Open Play,0,0,1,Normal
+3829480,Nolan Roux,Saint-Étienne,12.587295182047649,0.06091961098361072,False,Head,Open Play,0,0,2,Normal
+3829480,Nolan Roux,Saint-Étienne,19.952944644838762,0.06560700522343943,False,Right Foot,Open Play,0,0,3,Normal
+3829480,Jessy Pi,Troyes,31.315970366571747,0.06798775807189014,False,Left Foot,Open Play,0,0,0,Normal
+3829480,Yoann Court,Troyes,34.02822357984619,0.07497548129333698,False,Left Foot,Open Play,0,0,2,Normal
+3829480,Fabien Lemoine,Saint-Étienne,16.01030917877603,0.05268123505365778,False,Right Foot,Open Play,0,0,2,Half Volley
+3829480,Nolan Roux,Saint-Étienne,7.071067811865476,0.05614753756074547,False,Right Foot,Open Play,1,0,3,Normal
+3829480,Romain Hamouma,Saint-Étienne,21.10213259365033,0.0634639977783265,False,Right Foot,Open Play,1,0,2,Normal
+3829480,Corentin Jean,Troyes,21.498139454380695,0.05717087789003255,False,Right Foot,Open Play,0,0,2,Normal
+3829480,Romain Hamouma,Saint-Étienne,9.929753269845126,0.059221509299016414,False,Right Foot,Open Play,0,0,1,Normal
+3829480,Corentin Jean,Troyes,18.49540483471503,0.0589754406324261,False,Head,Open Play,0,0,2,Normal
+3829480,Romain Hamouma,Saint-Étienne,12.568611697399195,0.05838490270080917,False,Head,Open Play,0,0,2,Normal
+3829480,Chaouki Ben Saada,Troyes,30.417100453527787,0.0631985861913724,False,Left Foot,Open Play,0,1,1,Normal
+3829480,Thomas Ayasse,Troyes,7.317103251970684,0.05783517924433272,False,Head,Open Play,0,1,5,Normal
+3829480,Jessy Pi,Troyes,27.779488836189916,0.06785135738962844,False,Right Foot,Open Play,0,1,2,Half Volley
+3829480,Corentin Jean,Troyes,26.660832695172896,0.055114709020163806,False,Left Foot,Open Play,0,0,1,Normal
+3829480,Benjamin Nivet,Troyes,24.068444071023787,0.06220026173229808,False,Right Foot,Open Play,1,0,1,Half Volley
+3829480,Robert Berič,Saint-Étienne,11.936498649101415,0.06014321615633322,False,Left Foot,Open Play,0,0,3,Normal
+3829480,Kévin Monnet-Paquet,Saint-Étienne,24.075090861718472,0.05922703997882596,False,Right Foot,Open Play,0,0,0,Normal

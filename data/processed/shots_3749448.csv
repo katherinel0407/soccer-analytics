@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-39.65614706448421,0.07939360493868365,False,Left Foot,Open Play,0,1,1,Half Volley
-2.247220505424417,0.05543742675816691,True,Head,Open Play,0,0,5,Diving Header
-23.324021951627472,0.06707907764378239,False,Left Foot,Open Play,1,0,1,Half Volley
-7.810249675906651,0.058003794089075224,False,Head,Open Play,0,1,4,Normal
-15.681836627130123,0.054109302116608554,False,Right Foot,Open Play,0,1,1,Normal
-20.669300907384365,0.06607093746258673,False,Right Foot,Open Play,0,0,1,Volley
-13.060245020672474,0.06120264939318032,False,Right Foot,Open Play,1,1,2,Lob
-18.454809671194123,0.064703245179751,True,Left Foot,Open Play,0,0,2,Normal
-31.888869531546586,0.07409254994240658,False,Right Foot,Open Play,0,0,0,Normal
-11.317243480636087,0.055070202602799566,True,Right Foot,Open Play,1,0,1,Normal
-14.466858677681206,0.06052178554921992,False,Left Foot,Open Play,1,0,1,Half Volley
-11.423659658795868,0.056706489819550086,False,Right Foot,Open Play,1,0,2,Volley
-7.592759709091285,0.053310446899493595,False,Left Foot,Open Play,1,0,2,Normal
-27.167075661542967,0.06436893630864396,False,Right Foot,Open Play,1,0,0,Normal
-11.128791488746653,0.06020310773015985,True,Left Foot,Open Play,1,0,1,Half Volley
-12.744018204632324,0.060919925594937835,True,Right Foot,Open Play,0,0,1,Normal
-32.52598960831169,0.07413819496106021,False,Right Foot,Open Play,0,0,0,Normal
-26.89237810235458,0.07036204825159673,False,Right Foot,Open Play,0,0,1,Half Volley
-8.637129152675667,0.05845883339877463,False,Head,Open Play,0,0,2,Normal
-27.30293024567144,0.05830166088501174,False,Right Foot,Free Kick,0,0,0,Normal
-8.485281374238577,0.057714660915776074,False,Right Foot,Open Play,0,0,2,Normal
-7.596051605933173,0.056713691501813775,True,Other,Open Play,1,0,2,Normal
-29.161961525247243,0.06943147255402653,False,Right Foot,Open Play,1,0,0,Normal
-15.670673246545595,0.06302103107583801,False,Right Foot,Open Play,0,0,2,Half Volley
-29.025850547399983,0.07002592384497824,False,Right Foot,Open Play,0,0,0,Normal
-15.443445211480501,0.05946088474271725,False,Right Foot,Open Play,0,0,1,Normal
-29.505423230314804,0.07164968049630613,False,Right Foot,Open Play,0,0,1,Volley
-16.635203635663732,0.06341407569142386,False,Right Foot,Open Play,0,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749448,John Arne Semundseth Riise,Liverpool,39.65614706448421,0.07939360493868365,False,Left Foot,Open Play,0,1,1,Half Volley
+3749448,Sami Hyypiä,Liverpool,2.247220505424417,0.05543742675816691,True,Head,Open Play,0,0,5,Diving Header
+3749448,Harry Kewell,Liverpool,23.324021951627472,0.06707907764378239,False,Left Foot,Open Play,1,0,1,Half Volley
+3749448,Sami Hyypiä,Liverpool,7.810249675906651,0.058003794089075224,False,Head,Open Play,0,1,4,Normal
+3749448,Fredrik Ljungberg,Arsenal,15.681836627130123,0.054109302116608554,False,Right Foot,Open Play,0,1,1,Normal
+3749448,Thierry Henry,Arsenal,20.669300907384365,0.06607093746258673,False,Right Foot,Open Play,0,0,1,Volley
+3749448,Michael Owen,Liverpool,13.060245020672474,0.06120264939318032,False,Right Foot,Open Play,1,1,2,Lob
+3749448,Thierry Henry,Arsenal,18.454809671194123,0.064703245179751,True,Left Foot,Open Play,0,0,2,Normal
+3749448,Thierry Henry,Arsenal,31.888869531546586,0.07409254994240658,False,Right Foot,Open Play,0,0,0,Normal
+3749448,Michael Owen,Liverpool,11.317243480636087,0.055070202602799566,True,Right Foot,Open Play,1,0,1,Normal
+3749448,Harry Kewell,Liverpool,14.466858677681206,0.06052178554921992,False,Left Foot,Open Play,1,0,1,Half Volley
+3749448,Laureano Bisan-Etame Mayer,Arsenal,11.423659658795868,0.056706489819550086,False,Right Foot,Open Play,1,0,2,Volley
+3749448,Thierry Henry,Arsenal,7.592759709091285,0.053310446899493595,False,Left Foot,Open Play,1,0,2,Normal
+3749448,Harry Kewell,Liverpool,27.167075661542967,0.06436893630864396,False,Right Foot,Open Play,1,0,0,Normal
+3749448,Robert Pirès,Arsenal,11.128791488746653,0.06020310773015985,True,Left Foot,Open Play,1,0,1,Half Volley
+3749448,Thierry Henry,Arsenal,12.744018204632324,0.060919925594937835,True,Right Foot,Open Play,0,0,1,Normal
+3749448,Thierry Henry,Arsenal,32.52598960831169,0.07413819496106021,False,Right Foot,Open Play,0,0,0,Normal
+3749448,Harry Kewell,Liverpool,26.89237810235458,0.07036204825159673,False,Right Foot,Open Play,0,0,1,Half Volley
+3749448,Thierry Henry,Arsenal,8.637129152675667,0.05845883339877463,False,Head,Open Play,0,0,2,Normal
+3749448,Steven Gerrard,Liverpool,27.30293024567144,0.05830166088501174,False,Right Foot,Free Kick,0,0,0,Normal
+3749448,Thierry Henry,Arsenal,8.485281374238577,0.057714660915776074,False,Right Foot,Open Play,0,0,2,Normal
+3749448,Thierry Henry,Arsenal,7.596051605933173,0.056713691501813775,True,Other,Open Play,1,0,2,Normal
+3749448,Steven Gerrard,Liverpool,29.161961525247243,0.06943147255402653,False,Right Foot,Open Play,1,0,0,Normal
+3749448,Michael Owen,Liverpool,15.670673246545595,0.06302103107583801,False,Right Foot,Open Play,0,0,2,Half Volley
+3749448,Dennis Bergkamp,Arsenal,29.025850547399983,0.07002592384497824,False,Right Foot,Open Play,0,0,0,Normal
+3749448,Fredrik Ljungberg,Arsenal,15.443445211480501,0.05946088474271725,False,Right Foot,Open Play,0,0,1,Normal
+3749448,Steven Gerrard,Liverpool,29.505423230314804,0.07164968049630613,False,Right Foot,Open Play,0,0,1,Volley
+3749448,Dennis Bergkamp,Arsenal,16.635203635663732,0.06341407569142386,False,Right Foot,Open Play,0,0,2,Volley

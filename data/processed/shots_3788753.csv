@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-21.708293346092407,0.05943169028383792,False,Right Foot,Open Play,0,0,4,Half Volley
-13.75354499756336,0.055656704903872034,False,Right Foot,Open Play,1,0,0,Normal
-13.853880322855394,0.05793015881442181,False,Right Foot,Open Play,0,0,1,Normal
-13.819189556555038,0.061600603592483656,False,Head,Open Play,0,1,2,Normal
-5.608029957123985,0.05619548680052277,False,Head,Open Play,0,1,4,Normal
-9.604686356149267,0.05849804309068901,False,Head,Open Play,0,0,5,Normal
-11.9104995697074,0.05937007910032352,False,Head,Open Play,0,1,3,Normal
-15.425303886795875,0.055381841562660315,True,Left Foot,Open Play,0,0,4,Normal
-10.800462953040483,0.05912739580563089,False,Head,Open Play,0,1,2,Normal
-13.21892582625381,0.06131641299773199,False,Left Foot,Open Play,1,1,2,Volley
-19.840614909825753,0.06468183477862749,False,Right Foot,Open Play,1,1,1,Normal
-11.920570456148486,0.059297910785848944,False,Head,Open Play,0,1,1,Normal
-27.627884464793905,0.0694995959671033,False,Right Foot,Open Play,0,1,1,Normal
-19.327959023135367,0.06524536454674464,False,Right Foot,Open Play,0,0,4,Normal
-15.77846633865281,0.05715725535916864,False,Left Foot,Open Play,0,0,2,Normal
-14.741099009232663,0.05628464896266259,False,Right Foot,Open Play,0,1,2,Normal
-19.235384061671343,0.06388674836407605,False,Right Foot,Open Play,0,0,4,Normal
-21.198113123577766,0.06636431743336411,False,Right Foot,Open Play,0,0,2,Normal
-16.66883319251831,0.06361345086167383,False,Left Foot,Open Play,0,1,1,Normal
-24.73701679669559,0.06396457547175669,False,Left Foot,Open Play,0,0,1,Normal
-18.489456454963737,0.06456588551316163,False,Right Foot,Open Play,0,0,0,Normal
-30.212083675244905,0.06939740780942899,False,Right Foot,Open Play,0,0,1,Normal
-18.944656238633634,0.05607422148993743,False,Right Foot,Open Play,1,0,1,Half Volley
-5.953990258641683,0.05687172760009982,False,Head,Open Play,0,1,4,Normal
-14.672763884149433,0.06243821095630956,False,Right Foot,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788753,Magomed Ozdoev,Russia,21.708293346092407,0.05943169028383792,False,Right Foot,Open Play,0,0,4,Half Volley
+3788753,Magomed Ozdoev,Russia,13.75354499756336,0.055656704903872034,False,Right Foot,Open Play,1,0,0,Normal
+3788753,Joel Pohjanpalo,Finland,13.853880322855394,0.05793015881442181,False,Right Foot,Open Play,0,0,1,Normal
+3788753,Joona Toivio,Finland,13.819189556555038,0.061600603592483656,False,Head,Open Play,0,1,2,Normal
+3788753,Artem Dzyuba,Russia,5.608029957123985,0.05619548680052277,False,Head,Open Play,0,1,4,Normal
+3788753,Igor Diveev,Russia,9.604686356149267,0.05849804309068901,False,Head,Open Play,0,0,5,Normal
+3788753,Magomed Ozdoev,Russia,11.9104995697074,0.05937007910032352,False,Head,Open Play,0,1,3,Normal
+3788753,Aleksey Miranchuk,Russia,15.425303886795875,0.055381841562660315,True,Left Foot,Open Play,0,0,4,Normal
+3788753,Artem Dzyuba,Russia,10.800462953040483,0.05912739580563089,False,Head,Open Play,0,1,2,Normal
+3788753,Joel Pohjanpalo,Finland,13.21892582625381,0.06131641299773199,False,Left Foot,Open Play,1,1,2,Volley
+3788753,Teemu Pukki,Finland,19.840614909825753,0.06468183477862749,False,Right Foot,Open Play,1,1,1,Normal
+3788753,Joel Pohjanpalo,Finland,11.920570456148486,0.059297910785848944,False,Head,Open Play,0,1,1,Normal
+3788753,Aleksandr Golovin,Russia,27.627884464793905,0.0694995959671033,False,Right Foot,Open Play,0,1,1,Normal
+3788753,Teemu Pukki,Finland,19.327959023135367,0.06524536454674464,False,Right Foot,Open Play,0,0,4,Normal
+3788753,Robin Lod,Finland,15.77846633865281,0.05715725535916864,False,Left Foot,Open Play,0,0,2,Normal
+3788753,Joel Pohjanpalo,Finland,14.741099009232663,0.05628464896266259,False,Right Foot,Open Play,0,1,2,Normal
+3788753,Artem Dzyuba,Russia,19.235384061671343,0.06388674836407605,False,Right Foot,Open Play,0,0,4,Normal
+3788753,Aleksandr Golovin,Russia,21.198113123577766,0.06636431743336411,False,Right Foot,Open Play,0,0,2,Normal
+3788753,Rifat Zhemaletdinov,Russia,16.66883319251831,0.06361345086167383,False,Left Foot,Open Play,0,1,1,Normal
+3788753,Joni Ensio Kauko,Finland,24.73701679669559,0.06396457547175669,False,Left Foot,Open Play,0,0,1,Normal
+3788753,Daler Kuzyaev,Russia,18.489456454963737,0.06456588551316163,False,Right Foot,Open Play,0,0,0,Normal
+3788753,Joni Ensio Kauko,Finland,30.212083675244905,0.06939740780942899,False,Right Foot,Open Play,0,0,1,Normal
+3788753,Roman Zobnin,Russia,18.944656238633634,0.05607422148993743,False,Right Foot,Open Play,1,0,1,Half Volley
+3788753,Paulus Arajuuri,Finland,5.953990258641683,0.05687172760009982,False,Head,Open Play,0,1,4,Normal
+3788753,Rifat Zhemaletdinov,Russia,14.672763884149433,0.06243821095630956,False,Right Foot,Open Play,0,1,4,Normal

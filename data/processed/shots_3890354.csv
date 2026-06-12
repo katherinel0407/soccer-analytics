@@ -1,37 +1,37 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.411676344215063,0.06065741298146961,False,Right Foot,Open Play,0,1,3,Normal
-29.960307074527798,0.07145776610200626,False,Left Foot,Open Play,1,0,0,Half Volley
-14.749237268414936,0.06247251586062383,False,Head,Open Play,0,1,2,Normal
-3.2695565448543618,0.055623183455196394,True,Left Foot,Open Play,1,0,2,Normal
-27.864852413031006,0.06579383887559079,False,Left Foot,Open Play,0,1,2,Normal
-12.614277624977188,0.05736855346252231,False,Right Foot,Open Play,1,1,2,Normal
-10.625441167311589,0.059911641914888084,False,Left Foot,Open Play,1,0,3,Half Volley
-10.042410069301095,0.05956922614064002,False,Head,Open Play,0,1,4,Normal
-7.22772439983706,0.05697260689185484,False,Other,Open Play,1,1,4,Normal
-16.19876538505327,0.06303951770962864,False,Right Foot,Open Play,1,0,2,Normal
-8.228000972289687,0.056872987589022476,True,Right Foot,Open Play,1,0,2,Normal
-26.401515108038783,0.06962389798722336,False,Right Foot,Open Play,0,0,1,Normal
-32.31253626690421,0.06854651885807177,False,Right Foot,Free Kick,0,0,0,Normal
-22.910477952238363,0.05712044534751787,False,Right Foot,Open Play,1,1,1,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-29.860006697922888,0.07200609089132852,False,Right Foot,Free Kick,0,0,0,Normal
-12.68108828137396,0.061221963359246394,False,Right Foot,Open Play,1,0,3,Backheel
-22.98368986912241,0.06598123463062314,False,Right Foot,Free Kick,0,0,0,Normal
-4.275511665286393,0.0567035340048882,True,Right Foot,Open Play,1,0,3,Volley
-33.86000590667403,0.07525109495286317,False,Right Foot,Open Play,0,0,0,Normal
-31.792137392757976,0.07112095807146672,False,Left Foot,Open Play,0,0,0,Normal
-28.702787321094796,0.056201704089142525,False,Left Foot,Open Play,0,0,2,Normal
-7.924645102463577,0.05869666200766407,False,Left Foot,Open Play,1,1,2,Half Volley
-20.577900767571023,0.0656168689829287,False,Left Foot,Open Play,1,1,1,Volley
-13.12288078129189,0.053775785140938066,False,Right Foot,Open Play,0,1,2,Lob
-36.20842443410096,0.07693688020660973,False,Right Foot,Open Play,0,1,1,Half Volley
-10.901834707974613,0.05588074656481411,False,Head,Open Play,0,1,4,Normal
-5.693856338194707,0.05760034250343949,False,Right Foot,Open Play,1,0,4,Overhead Kick
-15.047258886587954,0.061621339592805004,False,Head,Open Play,0,1,3,Normal
-23.93846277437213,0.05676678082274349,False,Right Foot,Open Play,0,1,1,Normal
-31.022894771442587,0.05829024407815299,False,Right Foot,Open Play,0,0,2,Normal
-15.109268678529746,0.06259876314322702,True,Left Foot,Open Play,1,1,2,Normal
-22.41160413714288,0.061503001395575026,False,Right Foot,Open Play,1,1,2,Normal
-15.840454538932908,0.05801293973199684,False,Left Foot,Open Play,0,0,2,Normal
-27.08449741088064,0.05418839366038071,False,Right Foot,Open Play,0,0,1,Normal
-16.197839362087777,0.06332955389516037,True,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890354,Dong-Won Ji,Augsburg,27.411676344215063,0.06065741298146961,False,Right Foot,Open Play,0,1,3,Normal
+3890354,Markus Feulner,Augsburg,29.960307074527798,0.07145776610200626,False,Left Foot,Open Play,1,0,0,Half Volley
+3890354,Jeong-Ho Hong,Augsburg,14.749237268414936,0.06247251586062383,False,Head,Open Play,0,1,2,Normal
+3890354,Yoshinori Muto,FSV Mainz 05,3.2695565448543618,0.055623183455196394,True,Left Foot,Open Play,1,0,2,Normal
+3890354,Raúl Marcelo Bobadilla,Augsburg,27.864852413031006,0.06579383887559079,False,Left Foot,Open Play,0,1,2,Normal
+3890354,Raúl Marcelo Bobadilla,Augsburg,12.614277624977188,0.05736855346252231,False,Right Foot,Open Play,1,1,2,Normal
+3890354,Dong-Won Ji,Augsburg,10.625441167311589,0.059911641914888084,False,Left Foot,Open Play,1,0,3,Half Volley
+3890354,Tim Matavž,Augsburg,10.042410069301095,0.05956922614064002,False,Head,Open Play,0,1,4,Normal
+3890354,Ragnar Klavan,Augsburg,7.22772439983706,0.05697260689185484,False,Other,Open Play,1,1,4,Normal
+3890354,Jairo Samperio Bustara,FSV Mainz 05,16.19876538505327,0.06303951770962864,False,Right Foot,Open Play,1,0,2,Normal
+3890354,Yoshinori Muto,FSV Mainz 05,8.228000972289687,0.056872987589022476,True,Right Foot,Open Play,1,0,2,Normal
+3890354,Caiuby Francisco da Silva,Augsburg,26.401515108038783,0.06962389798722336,False,Right Foot,Open Play,0,0,1,Normal
+3890354,Jeong-Ho Hong,Augsburg,32.31253626690421,0.06854651885807177,False,Right Foot,Free Kick,0,0,0,Normal
+3890354,Paul Verhaegh,Augsburg,22.910477952238363,0.05712044534751787,False,Right Foot,Open Play,1,1,1,Half Volley
+3890354,Paul Verhaegh,Augsburg,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3890354,Raúl Marcelo Bobadilla,Augsburg,29.860006697922888,0.07200609089132852,False,Right Foot,Free Kick,0,0,0,Normal
+3890354,Tim Matavž,Augsburg,12.68108828137396,0.061221963359246394,False,Right Foot,Open Play,1,0,3,Backheel
+3890354,Raúl Marcelo Bobadilla,Augsburg,22.98368986912241,0.06598123463062314,False,Right Foot,Free Kick,0,0,0,Normal
+3890354,Ja-Cheol Koo,Augsburg,4.275511665286393,0.0567035340048882,True,Right Foot,Open Play,1,0,3,Volley
+3890354,Yoshinori Muto,FSV Mainz 05,33.86000590667403,0.07525109495286317,False,Right Foot,Open Play,0,0,0,Normal
+3890354,Danny Latza,FSV Mainz 05,31.792137392757976,0.07112095807146672,False,Left Foot,Open Play,0,0,0,Normal
+3890354,Pablo Ezequiel De Blasis,FSV Mainz 05,28.702787321094796,0.056201704089142525,False,Left Foot,Open Play,0,0,2,Normal
+3890354,Caiuby Francisco da Silva,Augsburg,7.924645102463577,0.05869666200766407,False,Left Foot,Open Play,1,1,2,Half Volley
+3890354,Caiuby Francisco da Silva,Augsburg,20.577900767571023,0.0656168689829287,False,Left Foot,Open Play,1,1,1,Volley
+3890354,Raúl Marcelo Bobadilla,Augsburg,13.12288078129189,0.053775785140938066,False,Right Foot,Open Play,0,1,2,Lob
+3890354,Jairo Samperio Bustara,FSV Mainz 05,36.20842443410096,0.07693688020660973,False,Right Foot,Open Play,0,1,1,Half Volley
+3890354,Stefan Bell,FSV Mainz 05,10.901834707974613,0.05588074656481411,False,Head,Open Play,0,1,4,Normal
+3890354,Niko Bungert,FSV Mainz 05,5.693856338194707,0.05760034250343949,False,Right Foot,Open Play,1,0,4,Overhead Kick
+3890354,Caiuby Francisco da Silva,Augsburg,15.047258886587954,0.061621339592805004,False,Head,Open Play,0,1,3,Normal
+3890354,Yunus Mallı,FSV Mainz 05,23.93846277437213,0.05676678082274349,False,Right Foot,Open Play,0,1,1,Normal
+3890354,Ja-Cheol Koo,Augsburg,31.022894771442587,0.05829024407815299,False,Right Foot,Open Play,0,0,2,Normal
+3890354,Raúl Marcelo Bobadilla,Augsburg,15.109268678529746,0.06259876314322702,True,Left Foot,Open Play,1,1,2,Normal
+3890354,Caiuby Francisco da Silva,Augsburg,22.41160413714288,0.061503001395575026,False,Right Foot,Open Play,1,1,2,Normal
+3890354,Raúl Marcelo Bobadilla,Augsburg,15.840454538932908,0.05801293973199684,False,Left Foot,Open Play,0,0,2,Normal
+3890354,Alexander Esswein,Augsburg,27.08449741088064,0.05418839366038071,False,Right Foot,Open Play,0,0,1,Normal
+3890354,Yoshinori Muto,FSV Mainz 05,16.197839362087777,0.06332955389516037,True,Right Foot,Open Play,0,1,2,Normal

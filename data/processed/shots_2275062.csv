@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.901117283566414,0.06206110055220606,False,Right Foot,Open Play,0,1,1,Normal
-30.172835465033778,0.0632342188374355,False,Right Foot,Free Kick,0,0,0,Normal
-24.60101623917191,0.06870807592597972,False,Right Foot,Open Play,0,0,1,Normal
-13.200378782444087,0.06006034147833397,True,Left Foot,Open Play,0,0,1,Normal
-20.905740838343906,0.057463750791530696,False,Right Foot,Open Play,1,0,1,Normal
-7.427651041883964,0.05509699585479397,True,Left Foot,Open Play,1,1,2,Half Volley
-7.200000000000003,0.057634935203920094,True,Head,Open Play,0,0,1,Normal
-18.43610587949635,0.052781361105480894,False,Right Foot,Open Play,1,0,1,Half Volley
-16.642415690037314,0.06343566256114071,False,Right Foot,Open Play,0,0,3,Normal
-20.179197209007096,0.06079461988020777,True,Left Foot,Open Play,1,0,1,Half Volley
-8.98943824718764,0.05925578304562664,False,Head,Open Play,0,1,4,Normal
-24.607722365143832,0.06406883100137531,False,Right Foot,Open Play,0,0,2,Normal
-19.401030900444447,0.06522099622100169,False,Right Foot,Open Play,1,0,2,Normal
-5.281098370604358,0.0572864573040685,True,Head,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+2275062,Jordan Nobbs,Arsenal WFC,17.901117283566414,0.06206110055220606,False,Right Foot,Open Play,0,1,1,Normal
+2275062,Jordan Nobbs,Arsenal WFC,30.172835465033778,0.0632342188374355,False,Right Foot,Free Kick,0,0,0,Normal
+2275062,Bethany Mead,Arsenal WFC,24.60101623917191,0.06870807592597972,False,Right Foot,Open Play,0,0,1,Normal
+2275062,Rinsola Babajide,Liverpool WFC,13.200378782444087,0.06006034147833397,True,Left Foot,Open Play,0,0,1,Normal
+2275062,Jordan Nobbs,Arsenal WFC,20.905740838343906,0.057463750791530696,False,Right Foot,Open Play,1,0,1,Normal
+2275062,Vivianne Miedema,Arsenal WFC,7.427651041883964,0.05509699585479397,True,Left Foot,Open Play,1,1,2,Half Volley
+2275062,Jordan Nobbs,Arsenal WFC,7.200000000000003,0.057634935203920094,True,Head,Open Play,0,0,1,Normal
+2275062,Melissa Lawley,Liverpool WFC,18.43610587949635,0.052781361105480894,False,Right Foot,Open Play,1,0,1,Half Volley
+2275062,Lisa Evans,Arsenal WFC,16.642415690037314,0.06343566256114071,False,Right Foot,Open Play,0,0,3,Normal
+2275062,Rachel Furness,Liverpool WFC,20.179197209007096,0.06079461988020777,True,Left Foot,Open Play,1,0,1,Half Volley
+2275062,Niamh Fahey,Liverpool WFC,8.98943824718764,0.05925578304562664,False,Head,Open Play,0,1,4,Normal
+2275062,Vivianne Miedema,Arsenal WFC,24.607722365143832,0.06406883100137531,False,Right Foot,Open Play,0,0,2,Normal
+2275062,Vivianne Miedema,Arsenal WFC,19.401030900444447,0.06522099622100169,False,Right Foot,Open Play,1,0,2,Normal
+2275062,Vivianne Miedema,Arsenal WFC,5.281098370604358,0.0572864573040685,True,Head,Open Play,0,0,2,Normal

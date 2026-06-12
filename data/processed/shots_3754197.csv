@@ -1,39 +1,39 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-41.28353182565658,0.06888388300461327,False,Right Foot,Open Play,0,0,1,Normal
-15.109268678529745,0.0557204689174168,False,Left Foot,Open Play,0,0,2,Volley
-24.919470299346255,0.06365861519395037,False,Left Foot,Open Play,1,0,0,Normal
-27.788126960988215,0.07004149131401118,False,Right Foot,Open Play,0,0,2,Half Volley
-24.900000000000006,0.06539034289673867,False,Right Foot,Open Play,0,0,1,Normal
-11.250777750893496,0.05663381511627734,False,Right Foot,Open Play,1,0,2,Half Volley
-15.493547043850219,0.05484498917739386,True,Right Foot,Open Play,0,0,1,Normal
-21.622673285234647,0.0653264164169768,False,Left Foot,Open Play,0,1,1,Normal
-15.263354808167177,0.053892772586437085,False,Right Foot,Open Play,0,1,3,Normal
-18.942280749687992,0.06419427162366707,False,Right Foot,Open Play,0,0,1,Normal
-25.501568579207042,0.06397396303202482,False,Right Foot,Open Play,0,0,1,Normal
-22.961271741782944,0.05152358208367608,False,Right Foot,Open Play,0,0,1,Normal
-17.310401497365685,0.05889510369336526,False,Left Foot,Open Play,1,0,0,Normal
-20.251419703319566,0.05667439280870891,False,Left Foot,Open Play,0,0,3,Normal
-16.857342613828557,0.06338016819592562,False,Left Foot,Open Play,0,0,3,Normal
-15.646085772486359,0.06300667720958979,False,Left Foot,Open Play,0,0,3,Normal
-11.020889256316847,0.060382062190610285,False,Head,Open Play,0,1,3,Normal
-17.800280896660027,0.06339327537975618,False,Left Foot,Open Play,1,0,2,Normal
-6.942621983083909,0.05702629910206049,False,Left Foot,Open Play,1,0,3,Normal
-29.16864755178066,0.06635211596518396,True,Right Foot,Open Play,1,1,1,Normal
-19.31864384474232,0.06424248560438021,False,Right Foot,Open Play,1,0,1,Normal
-8.254089895318561,0.05697827257071267,True,Head,Open Play,0,1,5,Normal
-21.760744472558834,0.06671164904367462,False,Right Foot,Open Play,0,0,1,Normal
-29.134343994674058,0.06353384985385371,False,Right Foot,Free Kick,0,0,0,Normal
-14.961617559608985,0.05885785161032172,True,Right Foot,Open Play,0,0,2,Half Volley
-36.138621999185304,0.07598581957499814,False,Left Foot,Free Kick,0,0,0,Normal
-23.02086010556513,0.051639539111109856,False,Right Foot,Open Play,0,0,3,Normal
-13.761540611428652,0.05982054722498552,False,Right Foot,Open Play,0,1,2,Normal
-17.871765441612084,0.06275168077671969,False,Right Foot,Open Play,0,0,3,Normal
-7.766595135579041,0.05452862511540103,False,Head,Open Play,0,1,4,Normal
-19.416487838947603,0.05173792230544567,False,Right Foot,Open Play,0,0,1,Normal
-29.20992981847097,0.07173223072621851,False,Right Foot,Open Play,0,0,1,Normal
-9.873702446397706,0.05976861905132091,True,Left Foot,Open Play,0,0,1,Normal
-22.80350850198276,0.06736575895826241,False,Right Foot,Open Play,0,0,2,Normal
-19.66214637317096,0.054620018050395236,False,Right Foot,Open Play,1,0,0,Half Volley
-22.614154859291112,0.055838073728100686,False,Right Foot,Open Play,0,0,1,Normal
-30.155928107090322,0.07265954398816943,False,Right Foot,Free Kick,0,0,0,Normal
-20.030227157973023,0.064398645891639,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754197,Kevin De Bruyne,Manchester City,41.28353182565658,0.06888388300461327,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Erik Lamela,Tottenham Hotspur,15.109268678529745,0.0557204689174168,False,Left Foot,Open Play,0,0,2,Volley
+3754197,Gnégnéri Yaya Touré,Manchester City,24.919470299346255,0.06365861519395037,False,Left Foot,Open Play,1,0,0,Normal
+3754197,Fernando Francisco Reges,Manchester City,27.788126960988215,0.07004149131401118,False,Right Foot,Open Play,0,0,2,Half Volley
+3754197,Sergio Leonel Agüero del Castillo,Manchester City,24.900000000000006,0.06539034289673867,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Sergio Leonel Agüero del Castillo,Manchester City,11.250777750893496,0.05663381511627734,False,Right Foot,Open Play,1,0,2,Half Volley
+3754197,Kevin De Bruyne,Manchester City,15.493547043850219,0.05484498917739386,True,Right Foot,Open Play,0,0,1,Normal
+3754197,Heung-Min Son,Tottenham Hotspur,21.622673285234647,0.0653264164169768,False,Left Foot,Open Play,0,1,1,Normal
+3754197,Sergio Leonel Agüero del Castillo,Manchester City,15.263354808167177,0.053892772586437085,False,Right Foot,Open Play,0,1,3,Normal
+3754197,Raheem Sterling,Manchester City,18.942280749687992,0.06419427162366707,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Harry Kane,Tottenham Hotspur,25.501568579207042,0.06397396303202482,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Fernando Luiz Rosa,Manchester City,22.961271741782944,0.05152358208367608,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Erik Lamela,Tottenham Hotspur,17.310401497365685,0.05889510369336526,False,Left Foot,Open Play,1,0,0,Normal
+3754197,Erik Lamela,Tottenham Hotspur,20.251419703319566,0.05667439280870891,False,Left Foot,Open Play,0,0,3,Normal
+3754197,Harry Kane,Tottenham Hotspur,16.857342613828557,0.06338016819592562,False,Left Foot,Open Play,0,0,3,Normal
+3754197,Sergio Leonel Agüero del Castillo,Manchester City,15.646085772486359,0.06300667720958979,False,Left Foot,Open Play,0,0,3,Normal
+3754197,Nicolás Hernán Otamendi,Manchester City,11.020889256316847,0.060382062190610285,False,Head,Open Play,0,1,3,Normal
+3754197,Aleksandar Kolarov,Manchester City,17.800280896660027,0.06339327537975618,False,Left Foot,Open Play,1,0,2,Normal
+3754197,Heung-Min Son,Tottenham Hotspur,6.942621983083909,0.05702629910206049,False,Left Foot,Open Play,1,0,3,Normal
+3754197,Eric Dier,Tottenham Hotspur,29.16864755178066,0.06635211596518396,True,Right Foot,Open Play,1,1,1,Normal
+3754197,Gnégnéri Yaya Touré,Manchester City,19.31864384474232,0.06424248560438021,False,Right Foot,Open Play,1,0,1,Normal
+3754197,Toby Alderweireld,Tottenham Hotspur,8.254089895318561,0.05697827257071267,True,Head,Open Play,0,1,5,Normal
+3754197,Raheem Sterling,Manchester City,21.760744472558834,0.06671164904367462,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Christian Dannemann Eriksen,Tottenham Hotspur,29.134343994674058,0.06353384985385371,False,Right Foot,Free Kick,0,0,0,Normal
+3754197,Harry Kane,Tottenham Hotspur,14.961617559608985,0.05885785161032172,True,Right Foot,Open Play,0,0,2,Half Volley
+3754197,Aleksandar Kolarov,Manchester City,36.138621999185304,0.07598581957499814,False,Left Foot,Free Kick,0,0,0,Normal
+3754197,Jesús Navas González,Manchester City,23.02086010556513,0.051639539111109856,False,Right Foot,Open Play,0,0,3,Normal
+3754197,Martín Gastón Demichelis,Manchester City,13.761540611428652,0.05982054722498552,False,Right Foot,Open Play,0,1,2,Normal
+3754197,Raheem Sterling,Manchester City,17.871765441612084,0.06275168077671969,False,Right Foot,Open Play,0,0,3,Normal
+3754197,Nacer Chadli,Tottenham Hotspur,7.766595135579041,0.05452862511540103,False,Head,Open Play,0,1,4,Normal
+3754197,Harry Kane,Tottenham Hotspur,19.416487838947603,0.05173792230544567,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Samir Nasri,Manchester City,29.20992981847097,0.07173223072621851,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Erik Lamela,Tottenham Hotspur,9.873702446397706,0.05976861905132091,True,Left Foot,Open Play,0,0,1,Normal
+3754197,Sergio Leonel Agüero del Castillo,Manchester City,22.80350850198276,0.06736575895826241,False,Right Foot,Open Play,0,0,2,Normal
+3754197,Jesús Navas González,Manchester City,19.66214637317096,0.054620018050395236,False,Right Foot,Open Play,1,0,0,Half Volley
+3754197,Jesús Navas González,Manchester City,22.614154859291112,0.055838073728100686,False,Right Foot,Open Play,0,0,1,Normal
+3754197,Kevin De Bruyne,Manchester City,30.155928107090322,0.07265954398816943,False,Right Foot,Free Kick,0,0,0,Normal
+3754197,Clinton Mua N''Jie,Tottenham Hotspur,20.030227157973023,0.064398645891639,False,Right Foot,Open Play,0,0,2,Normal

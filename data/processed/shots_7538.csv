@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.68787265568828,0.06332346714425499,False,Right Foot,Open Play,0,0,1,Half Volley
-7.280109889280518,0.05818657105361519,False,Left Foot,Open Play,1,0,2,Normal
-11.045361017187261,0.05952356516638149,False,Head,Open Play,0,0,4,Normal
-12.041594578792296,0.060871607794059486,False,Head,Open Play,0,0,2,Normal
-10.0,0.059829415731508184,False,Left Foot,Open Play,1,1,3,Normal
-21.2602916254693,0.0539861691254706,False,Left Foot,Open Play,0,0,1,Normal
-34.0,0.07590491791696151,False,Right Foot,Open Play,0,1,1,Normal
-11.180339887498949,0.05848685069205587,False,Right Foot,Open Play,0,0,2,Half Volley
-28.231188426986208,0.07108327941655054,False,Right Foot,Open Play,1,0,1,Half Volley
-20.0,0.06560915817967398,False,Right Foot,Open Play,1,0,1,Normal
-9.219544457292887,0.05901685537769923,False,Head,Open Play,0,1,2,Normal
-21.213203435596427,0.06486412534269076,False,Right Foot,Open Play,0,0,1,Normal
-16.401219466856727,0.06340913375881178,False,Head,Open Play,0,0,1,Normal
-7.615773105863909,0.05849483251010046,False,Head,Open Play,0,0,4,Normal
-27.459060435491963,0.07073976803324834,False,Right Foot,Open Play,0,0,1,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-37.656340767525464,0.06677854008635024,False,Right Foot,Open Play,0,0,0,Normal
-23.08679276123039,0.06707027599506439,False,Right Foot,Open Play,0,1,3,Normal
-22.47220505424423,0.05986089032781617,False,Right Foot,Open Play,1,0,1,Half Volley
-25.612496949731394,0.05572386125008547,False,Left Foot,Open Play,0,1,2,Normal
-10.198039027185569,0.05943943692925755,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7538,Mikael Lustig,Sweden,36.68787265568828,0.06332346714425499,False,Right Foot,Open Play,0,0,1,Half Volley
+7538,Marcus Berg,Sweden,7.280109889280518,0.05818657105361519,False,Left Foot,Open Play,1,0,2,Normal
+7538,Pontus Jansson,Sweden,11.045361017187261,0.05952356516638149,False,Head,Open Play,0,0,4,Normal
+7538,Andreas Granqvist,Sweden,12.041594578792296,0.060871607794059486,False,Head,Open Play,0,0,2,Normal
+7538,Marcus Berg,Sweden,10.0,0.059829415731508184,False,Left Foot,Open Play,1,1,3,Normal
+7538,Jae-Sung Lee,South Korea,21.2602916254693,0.0539861691254706,False,Left Foot,Open Play,0,0,1,Normal
+7538,Emil Peter Forsberg,Sweden,34.0,0.07590491791696151,False,Right Foot,Open Play,0,1,1,Normal
+7538,Marcus Berg,Sweden,11.180339887498949,0.05848685069205587,False,Right Foot,Open Play,0,0,2,Half Volley
+7538,Emil Peter Forsberg,Sweden,28.231188426986208,0.07108327941655054,False,Right Foot,Open Play,1,0,1,Half Volley
+7538,Andreas Granqvist,Sweden,20.0,0.06560915817967398,False,Right Foot,Open Play,1,0,1,Normal
+7538,Viktor Claesson,Sweden,9.219544457292887,0.05901685537769923,False,Head,Open Play,0,1,2,Normal
+7538,Emil Peter Forsberg,Sweden,21.213203435596427,0.06486412534269076,False,Right Foot,Open Play,0,0,1,Normal
+7538,Ja-Cheol Koo,South Korea,16.401219466856727,0.06340913375881178,False,Head,Open Play,0,0,1,Normal
+7538,Ola Toivonen,Sweden,7.615773105863909,0.05849483251010046,False,Head,Open Play,0,0,4,Normal
+7538,Min-Woo Kim,South Korea,27.459060435491963,0.07073976803324834,False,Right Foot,Open Play,0,0,1,Normal
+7538,Andreas Granqvist,Sweden,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7538,Sebastian Larsson,Sweden,37.656340767525464,0.06677854008635024,False,Right Foot,Open Play,0,0,0,Normal
+7538,Emil Peter Forsberg,Sweden,23.08679276123039,0.06707027599506439,False,Right Foot,Open Play,0,1,3,Normal
+7538,Viktor Claesson,Sweden,22.47220505424423,0.05986089032781617,False,Right Foot,Open Play,1,0,1,Half Volley
+7538,Seung-Woo Lee,South Korea,25.612496949731394,0.05572386125008547,False,Left Foot,Open Play,0,1,2,Normal
+7538,Hee-Chan Hwang,South Korea,10.198039027185569,0.05943943692925755,False,Head,Open Play,0,0,3,Normal

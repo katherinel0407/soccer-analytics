@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.800568163476717,0.05919816191521839,True,Right Foot,Open Play,1,0,3,Normal
-21.602083232873625,0.06369410059147447,False,Left Foot,Open Play,1,1,3,Normal
-39.30203557069277,0.07252116409991216,False,Right Foot,Open Play,0,0,0,Normal
-27.508725888343143,0.05412595297376363,False,Left Foot,Open Play,0,0,0,Normal
-19.84036289990685,0.060543824531164275,False,Left Foot,Open Play,1,0,1,Normal
-19.864037857394457,0.06519794029776214,False,Left Foot,Open Play,0,0,2,Normal
-12.621014222319854,0.053075759950550395,False,Left Foot,Open Play,0,0,1,Normal
-19.617339269126177,0.05883645752536686,False,Right Foot,Open Play,1,1,3,Normal
-16.966437457521835,0.06364583343313791,True,Left Foot,Open Play,1,1,1,Normal
-16.823792675850473,0.06219086104394729,False,Left Foot,Open Play,0,1,2,Normal
-9.433981132056603,0.05906464092025609,False,Right Foot,Open Play,1,0,4,Volley
-18.976037521042166,0.05588290427707719,False,Left Foot,Open Play,0,0,3,Normal
-45.21470999575248,0.05876508906416725,True,Right Foot,Open Play,0,1,1,Lob
-29.328825411188898,0.06683632540055437,False,Right Foot,Open Play,0,0,1,Normal
-7.397972695272669,0.05728482858316026,True,Right Foot,Open Play,1,0,0,Half Volley
-7.002856560004639,0.05749157465949261,False,Head,Open Play,0,0,1,Normal
-32.088003989029914,0.07319850974634527,False,Left Foot,Open Play,0,0,0,Normal
-6.4031242374328485,0.05795975247380255,False,Head,Open Play,0,0,2,Normal
-18.236227680087786,0.06429086835552114,True,Left Foot,Open Play,0,0,1,Normal
-18.353473785635238,0.06445883499947544,False,Right Foot,Open Play,0,1,3,Normal
-19.125375813301027,0.06490358825884394,False,Left Foot,Open Play,0,1,2,Normal
-20.758853532890488,0.06612608124638009,False,Left Foot,Open Play,0,0,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895134,Florian Wirtz,Bayer Leverkusen,8.800568163476717,0.05919816191521839,True,Right Foot,Open Play,1,0,3,Normal
+3895134,Victor Okoh Boniface,Bayer Leverkusen,21.602083232873625,0.06369410059147447,False,Left Foot,Open Play,1,1,3,Normal
+3895134,Marius Bülter,Hoffenheim,39.30203557069277,0.07252116409991216,False,Right Foot,Open Play,0,0,0,Normal
+3895134,Finn Ole Becker,Hoffenheim,27.508725888343143,0.05412595297376363,False,Left Foot,Open Play,0,0,0,Normal
+3895134,Jonas Hofmann,Bayer Leverkusen,19.84036289990685,0.060543824531164275,False,Left Foot,Open Play,1,0,1,Normal
+3895134,Robert Skov,Hoffenheim,19.864037857394457,0.06519794029776214,False,Left Foot,Open Play,0,0,2,Normal
+3895134,Jeremie Frimpong,Bayer Leverkusen,12.621014222319854,0.053075759950550395,False,Left Foot,Open Play,0,0,1,Normal
+3895134,Jonas Hofmann,Bayer Leverkusen,19.617339269126177,0.05883645752536686,False,Right Foot,Open Play,1,1,3,Normal
+3895134,Alejandro Grimaldo García,Bayer Leverkusen,16.966437457521835,0.06364583343313791,True,Left Foot,Open Play,1,1,1,Normal
+3895134,Maximilian Beier,Hoffenheim,16.823792675850473,0.06219086104394729,False,Left Foot,Open Play,0,1,2,Normal
+3895134,Maximilian Beier,Hoffenheim,9.433981132056603,0.05906464092025609,False,Right Foot,Open Play,1,0,4,Volley
+3895134,Robert Skov,Hoffenheim,18.976037521042166,0.05588290427707719,False,Left Foot,Open Play,0,0,3,Normal
+3895134,Anton Stach,Hoffenheim,45.21470999575248,0.05876508906416725,True,Right Foot,Open Play,0,1,1,Lob
+3895134,Maximilian Beier,Hoffenheim,29.328825411188898,0.06683632540055437,False,Right Foot,Open Play,0,0,1,Normal
+3895134,Wout Weghorst,Hoffenheim,7.397972695272669,0.05728482858316026,True,Right Foot,Open Play,1,0,0,Half Volley
+3895134,Wout Weghorst,Hoffenheim,7.002856560004639,0.05749157465949261,False,Head,Open Play,0,0,1,Normal
+3895134,Alejandro Grimaldo García,Bayer Leverkusen,32.088003989029914,0.07319850974634527,False,Left Foot,Open Play,0,0,0,Normal
+3895134,Victor Okoh Boniface,Bayer Leverkusen,6.4031242374328485,0.05795975247380255,False,Head,Open Play,0,0,2,Normal
+3895134,Alejandro Grimaldo García,Bayer Leverkusen,18.236227680087786,0.06429086835552114,True,Left Foot,Open Play,0,0,1,Normal
+3895134,Maximilian Beier,Hoffenheim,18.353473785635238,0.06445883499947544,False,Right Foot,Open Play,0,1,3,Normal
+3895134,Jeremie Frimpong,Bayer Leverkusen,19.125375813301027,0.06490358825884394,False,Left Foot,Open Play,0,1,2,Normal
+3895134,Andrej Kramarić,Hoffenheim,20.758853532890488,0.06612608124638009,False,Left Foot,Open Play,0,0,1,Half Volley

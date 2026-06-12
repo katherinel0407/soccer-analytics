@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.028306624500315,0.05217186905069177,False,Right Foot,Open Play,0,0,1,Normal
-19.94617757867407,0.06555440309244641,False,Head,Open Play,0,0,1,Normal
-27.181243532995317,0.06536063358901932,False,Right Foot,Open Play,0,0,0,Normal
-23.46167086973986,0.06781098561652796,False,Right Foot,Open Play,0,0,2,Normal
-10.292715870944853,0.059990103958676926,False,Right Foot,Open Play,1,0,1,Volley
-15.004665940966495,0.06177152473200777,False,Left Foot,Open Play,1,0,1,Normal
-44.19287272852943,0.08546706842225057,False,Right Foot,Open Play,0,0,1,Normal
-17.901117283566414,0.06206110055220606,False,Right Foot,Open Play,1,0,0,Normal
-19.009734348485782,0.05941530260089078,True,Head,Open Play,1,0,3,Lob
-15.155856953666458,0.06233757815280361,False,Right Foot,Open Play,0,0,1,Normal
-6.378871373526827,0.05770678533365575,False,Right Foot,Open Play,1,0,2,Normal
-22.622555116520324,0.06731510102808624,False,Right Foot,Open Play,1,0,2,Normal
-12.304470732217618,0.06095182670403389,False,Right Foot,Open Play,0,0,2,Normal
-11.815244390193541,0.05972142120823835,False,Head,Open Play,0,1,3,Normal
-27.1016604657353,0.06661579863868881,False,Left Foot,Open Play,1,1,1,Volley
-11.837651794169316,0.05881729465969081,False,Right Foot,Open Play,0,1,3,Normal
-23.839882550046255,0.05179518222466491,False,Right Foot,Open Play,0,0,0,Normal
-7.881624198095218,0.058721257108073806,False,Other,Open Play,1,0,2,Normal
-26.79888057363591,0.06507068355440158,False,Right Foot,Open Play,1,0,0,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69273,Pedro Eliezer Rodríguez Ledesma,Barcelona,15.028306624500315,0.05217186905069177,False,Right Foot,Open Play,0,0,1,Normal
+69273,Borja Fernández Fernández,Real Valladolid,19.94617757867407,0.06555440309244641,False,Head,Open Play,0,0,1,Normal
+69273,Xavier Hernández Creus,Barcelona,27.181243532995317,0.06536063358901932,False,Right Foot,Open Play,0,0,0,Normal
+69273,Andrés Iniesta Luján,Barcelona,23.46167086973986,0.06781098561652796,False,Right Foot,Open Play,0,0,2,Normal
+69273,Samuel Eto''o Fils,Barcelona,10.292715870944853,0.059990103958676926,False,Right Foot,Open Play,1,0,1,Volley
+69273,Jonathan Sesma González,Real Valladolid,15.004665940966495,0.06177152473200777,False,Left Foot,Open Play,1,0,1,Normal
+69273,Borja Fernández Fernández,Real Valladolid,44.19287272852943,0.08546706842225057,False,Right Foot,Open Play,0,0,1,Normal
+69273,Xavier Hernández Creus,Barcelona,17.901117283566414,0.06206110055220606,False,Right Foot,Open Play,1,0,0,Normal
+69273,Samuel Eto''o Fils,Barcelona,19.009734348485782,0.05941530260089078,True,Head,Open Play,1,0,3,Lob
+69273,Andrés Iniesta Luján,Barcelona,15.155856953666458,0.06233757815280361,False,Right Foot,Open Play,0,0,1,Normal
+69273,Samuel Eto''o Fils,Barcelona,6.378871373526827,0.05770678533365575,False,Right Foot,Open Play,1,0,2,Normal
+69273,Marcos Sebastián Aguirre,Real Valladolid,22.622555116520324,0.06731510102808624,False,Right Foot,Open Play,1,0,2,Normal
+69273,Damián Ariel Escudero,Real Valladolid,12.304470732217618,0.06095182670403389,False,Right Foot,Open Play,0,0,2,Normal
+69273,Seydou Kéita,Barcelona,11.815244390193541,0.05972142120823835,False,Head,Open Play,0,1,3,Normal
+69273,Lionel Andrés Messi Cuccittini,Barcelona,27.1016604657353,0.06661579863868881,False,Left Foot,Open Play,1,1,1,Volley
+69273,Andrés Iniesta Luján,Barcelona,11.837651794169316,0.05881729465969081,False,Right Foot,Open Play,0,1,3,Normal
+69273,Daniel Alves da Silva,Barcelona,23.839882550046255,0.05179518222466491,False,Right Foot,Open Play,0,0,0,Normal
+69273,Samuel Eto''o Fils,Barcelona,7.881624198095218,0.058721257108073806,False,Other,Open Play,1,0,2,Normal
+69273,Álvaro Rubio Robles,Real Valladolid,26.79888057363591,0.06507068355440158,False,Right Foot,Open Play,1,0,0,Volley

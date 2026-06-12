@@ -1,40 +1,40 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.249719099350443,0.050454954358259044,False,Right Foot,Open Play,0,0,1,Normal
-29.980326882807674,0.07238349680756201,False,Right Foot,Open Play,0,1,2,Normal
-6.937578828380981,0.0568579498630508,False,Right Foot,Open Play,1,0,4,Half Volley
-29.427877939124325,0.05893650781987661,False,Left Foot,Open Play,1,0,0,Half Volley
-25.717892604177344,0.06148157644941011,False,Right Foot,Open Play,1,0,3,Volley
-19.07799779851125,0.0647484036141786,False,Right Foot,Open Play,0,0,1,Normal
-23.70759372015642,0.06673670369626739,False,Right Foot,Open Play,0,0,2,Normal
-20.717142660125692,0.0659324219585137,False,Left Foot,Open Play,1,1,1,Normal
-8.125269226308756,0.05852601699821928,False,Left Foot,Open Play,1,1,1,Normal
-34.41060882925497,0.0731825000082776,False,Right Foot,Free Kick,0,0,0,Normal
-24.82438317461282,0.06080479964201188,False,Right Foot,Open Play,1,0,0,Half Volley
-24.485914318236105,0.06820544680370501,False,Right Foot,Open Play,1,0,1,Normal
-23.81008189822119,0.06255263411885364,False,Left Foot,Free Kick,0,0,0,Normal
-23.64339231159522,0.06347449611026328,False,Left Foot,Open Play,1,1,1,Half Volley
-23.979366130071078,0.05408760284156289,False,Left Foot,Open Play,0,0,2,Normal
-15.21085138971518,0.05485752709762023,False,Left Foot,Open Play,1,0,1,Overhead Kick
-12.965338406690353,0.05819901755965053,False,Head,Open Play,0,0,2,Normal
-15.482893786369528,0.06041401838447728,False,Head,Open Play,0,1,4,Normal
-20.43942269243435,0.06585773433852109,False,Right Foot,Open Play,0,0,1,Normal
-30.084713726409298,0.07255620226733471,False,Left Foot,Free Kick,0,0,0,Normal
-9.873196037757983,0.052401415538469165,False,Left Foot,Open Play,0,0,4,Normal
-24.545875417267155,0.05539158617670162,False,Left Foot,Open Play,0,0,2,Normal
-23.51871595134394,0.06610831388907105,False,Left Foot,Open Play,1,0,0,Volley
-27.12673957555534,0.06813593241094922,False,Right Foot,Open Play,1,0,1,Normal
-25.283393759541067,0.06259602466500144,False,Left Foot,Open Play,0,0,3,Normal
-16.43471934655411,0.05736599367014091,False,Left Foot,Open Play,0,1,1,Normal
-7.424957912338631,0.05843048831968027,False,Head,Open Play,0,1,4,Normal
-20.069130524265375,0.06190445826891802,False,Left Foot,Open Play,0,0,2,Normal
-28.4622557082182,0.07074232967660098,False,Right Foot,Open Play,1,0,2,Lob
-17.41952927033334,0.06324137215582123,False,Head,Open Play,0,0,3,Normal
-9.40212741883453,0.05647706066537159,False,Head,Open Play,0,0,3,Normal
-20.19504889818294,0.06428871509493522,False,Left Foot,Open Play,1,0,2,Normal
-23.064474847695966,0.06695847214196016,False,Right Foot,Open Play,0,0,1,Normal
-22.41472730148641,0.0669124637753067,False,Left Foot,Open Play,0,0,2,Normal
-10.707940978544848,0.052456190370500345,True,Right Foot,Open Play,1,0,0,Normal
-20.756203891848823,0.06550772526964735,False,Left Foot,Open Play,1,0,1,Half Volley
-21.692625475031836,0.06661043718402963,False,Left Foot,Open Play,0,0,2,Normal
-30.770277866798665,0.07259684915686332,False,Left Foot,Open Play,1,0,1,Half Volley
-16.788686666919478,0.05597712116741751,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879861,Federico Dionisi,Frosinone,22.249719099350443,0.050454954358259044,False,Right Foot,Open Play,0,0,1,Normal
+3879861,Robert Gucher,Frosinone,29.980326882807674,0.07238349680756201,False,Right Foot,Open Play,0,1,2,Normal
+3879861,Federico Dionisi,Frosinone,6.937578828380981,0.0568579498630508,False,Right Foot,Open Play,1,0,4,Half Volley
+3879861,Federico Peluso,Sassuolo,29.427877939124325,0.05893650781987661,False,Left Foot,Open Play,1,0,0,Half Volley
+3879861,Šime Vrsaljko,Sassuolo,25.717892604177344,0.06148157644941011,False,Right Foot,Open Play,1,0,3,Volley
+3879861,Nicola Sansone,Sassuolo,19.07799779851125,0.0647484036141786,False,Right Foot,Open Play,0,0,1,Normal
+3879861,Federico Dionisi,Frosinone,23.70759372015642,0.06673670369626739,False,Right Foot,Open Play,0,0,2,Normal
+3879861,Joseph Alfred Duncan,Sassuolo,20.717142660125692,0.0659324219585137,False,Left Foot,Open Play,1,1,1,Normal
+3879861,Gregoire Defrel,Sassuolo,8.125269226308756,0.05852601699821928,False,Left Foot,Open Play,1,1,1,Normal
+3879861,Lorenzo Pellegrini,Sassuolo,34.41060882925497,0.0731825000082776,False,Right Foot,Free Kick,0,0,0,Normal
+3879861,Robert Gucher,Frosinone,24.82438317461282,0.06080479964201188,False,Right Foot,Open Play,1,0,0,Half Volley
+3879861,Robert Gucher,Frosinone,24.485914318236105,0.06820544680370501,False,Right Foot,Open Play,1,0,1,Normal
+3879861,Domenico Berardi,Sassuolo,23.81008189822119,0.06255263411885364,False,Left Foot,Free Kick,0,0,0,Normal
+3879861,Domenico Berardi,Sassuolo,23.64339231159522,0.06347449611026328,False,Left Foot,Open Play,1,1,1,Half Volley
+3879861,Domenico Berardi,Sassuolo,23.979366130071078,0.05408760284156289,False,Left Foot,Open Play,0,0,2,Normal
+3879861,Domenico Berardi,Sassuolo,15.21085138971518,0.05485752709762023,False,Left Foot,Open Play,1,0,1,Overhead Kick
+3879861,Paolo Sammarco,Frosinone,12.965338406690353,0.05819901755965053,False,Head,Open Play,0,0,2,Normal
+3879861,Arlind Afrim Ajeti,Frosinone,15.482893786369528,0.06041401838447728,False,Head,Open Play,0,1,4,Normal
+3879861,Nicola Sansone,Sassuolo,20.43942269243435,0.06585773433852109,False,Right Foot,Open Play,0,0,1,Normal
+3879861,Oliver Kragl,Frosinone,30.084713726409298,0.07255620226733471,False,Left Foot,Free Kick,0,0,0,Normal
+3879861,Domenico Berardi,Sassuolo,9.873196037757983,0.052401415538469165,False,Left Foot,Open Play,0,0,4,Normal
+3879861,Daniel Ciofani,Frosinone,24.545875417267155,0.05539158617670162,False,Left Foot,Open Play,0,0,2,Normal
+3879861,Federico Peluso,Sassuolo,23.51871595134394,0.06610831388907105,False,Left Foot,Open Play,1,0,0,Volley
+3879861,Matteo Politano,Sassuolo,27.12673957555534,0.06813593241094922,False,Right Foot,Open Play,1,0,1,Normal
+3879861,Oliver Kragl,Frosinone,25.283393759541067,0.06259602466500144,False,Left Foot,Open Play,0,0,3,Normal
+3879861,Gregoire Defrel,Sassuolo,16.43471934655411,0.05736599367014091,False,Left Foot,Open Play,0,1,1,Normal
+3879861,Federico Peluso,Sassuolo,7.424957912338631,0.05843048831968027,False,Head,Open Play,0,1,4,Normal
+3879861,Federico Dionisi,Frosinone,20.069130524265375,0.06190445826891802,False,Left Foot,Open Play,0,0,2,Normal
+3879861,Daniel Ciofani,Frosinone,28.4622557082182,0.07074232967660098,False,Right Foot,Open Play,1,0,2,Lob
+3879861,Arlind Afrim Ajeti,Frosinone,17.41952927033334,0.06324137215582123,False,Head,Open Play,0,0,3,Normal
+3879861,Samuele Longo,Frosinone,9.40212741883453,0.05647706066537159,False,Head,Open Play,0,0,3,Normal
+3879861,Joseph Alfred Duncan,Sassuolo,20.19504889818294,0.06428871509493522,False,Left Foot,Open Play,1,0,2,Normal
+3879861,Federico Dionisi,Frosinone,23.064474847695966,0.06695847214196016,False,Right Foot,Open Play,0,0,1,Normal
+3879861,Diego Falcinelli,Sassuolo,22.41472730148641,0.0669124637753067,False,Left Foot,Open Play,0,0,2,Normal
+3879861,Matteo Politano,Sassuolo,10.707940978544848,0.052456190370500345,True,Right Foot,Open Play,1,0,0,Normal
+3879861,Matteo Politano,Sassuolo,20.756203891848823,0.06550772526964735,False,Left Foot,Open Play,1,0,1,Half Volley
+3879861,Samuele Longo,Frosinone,21.692625475031836,0.06661043718402963,False,Left Foot,Open Play,0,0,2,Normal
+3879861,Oliver Kragl,Frosinone,30.770277866798665,0.07259684915686332,False,Left Foot,Open Play,1,0,1,Half Volley
+3879861,Matteo Politano,Sassuolo,16.788686666919478,0.05597712116741751,False,Left Foot,Open Play,0,0,2,Normal

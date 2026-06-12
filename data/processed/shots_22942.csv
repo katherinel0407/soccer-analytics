@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.787653403846946,0.06300424883002315,False,Right Foot,Open Play,1,0,1,Normal
-20.806249061279647,0.06605363962677142,False,Left Foot,Open Play,0,0,1,Normal
-12.999999999999995,0.05865621305697018,False,Head,Open Play,0,1,3,Normal
-6.711929677819927,0.058061277844053905,False,Head,Open Play,0,1,3,Normal
-3.2802438933713463,0.05487268044633803,False,Head,Open Play,0,0,3,Normal
-14.016062214473795,0.05708955092925354,False,Right Foot,Open Play,1,0,2,Normal
-29.20017123237465,0.06755851654639015,False,Left Foot,Open Play,0,0,4,Normal
-23.360008561642264,0.06786129512989898,False,Right Foot,Open Play,0,0,3,Normal
-6.801470429252782,0.05806239781574906,False,Right Foot,Open Play,1,0,6,Half Volley
-32.13502761785027,0.06808853933796755,False,Left Foot,Open Play,1,0,1,Normal
-6.606814663663566,0.05749262105862138,False,Right Foot,Open Play,1,0,1,Volley
-18.95098942008042,0.06459944955246281,False,Left Foot,Open Play,0,0,2,Normal
-6.606814663663569,0.05548742118667436,False,Right Foot,Open Play,1,0,3,Normal
-31.270753108935516,0.056214212421364054,False,Right Foot,Open Play,0,0,0,Normal
-16.24838453508533,0.05204734493114641,False,Right Foot,Open Play,0,1,1,Normal
-11.65203844827161,0.05981276439505612,False,Head,Open Play,0,1,2,Normal
-9.990495483208027,0.055530602991392786,False,Head,Open Play,0,1,3,Normal
-26.151290599127226,0.0627203276181791,False,Right Foot,Open Play,1,0,1,Half Volley
-17.160710940983765,0.06022068041795194,False,Right Foot,Open Play,0,0,3,Normal
-32.179496577790026,0.07422228661703979,False,Left Foot,Open Play,0,1,1,Normal
-7.373601562330316,0.056671483535965766,False,Head,Open Play,0,1,1,Normal
-6.34113554499508,0.05778480737642698,True,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+22942,Lieke Martens,Netherlands Women's,15.787653403846946,0.06300424883002315,False,Right Foot,Open Play,1,0,1,Normal
+22942,Olivia Chance,New Zealand Women's,20.806249061279647,0.06605363962677142,False,Left Foot,Open Play,0,0,1,Normal
+22942,Sarah Gregorius,New Zealand Women's,12.999999999999995,0.05865621305697018,False,Head,Open Play,0,1,3,Normal
+22942,Vivianne Miedema,Netherlands Women's,6.711929677819927,0.058061277844053905,False,Head,Open Play,0,1,3,Normal
+22942,Lieke Martens,Netherlands Women's,3.2802438933713463,0.05487268044633803,False,Head,Open Play,0,0,3,Normal
+22942,Jackie Groenen,Netherlands Women's,14.016062214473795,0.05708955092925354,False,Right Foot,Open Play,1,0,2,Normal
+22942,Rosie White,New Zealand Women's,29.20017123237465,0.06755851654639015,False,Left Foot,Open Play,0,0,4,Normal
+22942,Vivianne Miedema,Netherlands Women's,23.360008561642264,0.06786129512989898,False,Right Foot,Open Play,0,0,3,Normal
+22942,Dominique Johanna Anna Petrone Janssen,Netherlands Women's,6.801470429252782,0.05806239781574906,False,Right Foot,Open Play,1,0,6,Half Volley
+22942,Ria Percival,New Zealand Women's,32.13502761785027,0.06808853933796755,False,Left Foot,Open Play,1,0,1,Normal
+22942,Sarah Gregorius,New Zealand Women's,6.606814663663566,0.05749262105862138,False,Right Foot,Open Play,1,0,1,Volley
+22942,Lieke Martens,Netherlands Women's,18.95098942008042,0.06459944955246281,False,Left Foot,Open Play,0,0,2,Normal
+22942,Vivianne Miedema,Netherlands Women's,6.606814663663569,0.05548742118667436,False,Right Foot,Open Play,1,0,3,Normal
+22942,Desiree van Lunteren,Netherlands Women's,31.270753108935516,0.056214212421364054,False,Right Foot,Open Play,0,0,0,Normal
+22942,Paige Therese Satchell,New Zealand Women's,16.24838453508533,0.05204734493114641,False,Right Foot,Open Play,0,1,1,Normal
+22942,Danielle van de Donk,Netherlands Women's,11.65203844827161,0.05981276439505612,False,Head,Open Play,0,1,2,Normal
+22942,Vivianne Miedema,Netherlands Women's,9.990495483208027,0.055530602991392786,False,Head,Open Play,0,1,3,Normal
+22942,Sherida Spitse,Netherlands Women's,26.151290599127226,0.0627203276181791,False,Right Foot,Open Play,1,0,1,Half Volley
+22942,Vivianne Miedema,Netherlands Women's,17.160710940983765,0.06022068041795194,False,Right Foot,Open Play,0,0,3,Normal
+22942,Merel van Dongen,Netherlands Women's,32.179496577790026,0.07422228661703979,False,Left Foot,Open Play,0,1,1,Normal
+22942,Lineth Beerensteyn,Netherlands Women's,7.373601562330316,0.056671483535965766,False,Head,Open Play,0,1,1,Normal
+22942,Jill Roord,Netherlands Women's,6.34113554499508,0.05778480737642698,True,Head,Open Play,0,1,2,Normal

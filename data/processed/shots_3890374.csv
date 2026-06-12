@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-35.04882309008392,0.06487282655112425,False,Left Foot,Free Kick,0,0,0,Normal
-18.930662957223657,0.057762053419579656,False,Right Foot,Open Play,1,0,3,Volley
-6.824954212300623,0.057020198318481416,True,Head,Open Play,0,1,5,Normal
-25.457415422622933,0.0540843401436135,False,Right Foot,Open Play,1,0,1,Normal
-20.601456259206525,0.05376933962127998,False,Left Foot,Open Play,1,0,2,Half Volley
-14.165097952361636,0.05597112257268566,False,Right Foot,Open Play,1,0,1,Volley
-7.1196910045310275,0.05831203675831844,False,Right Foot,Open Play,1,1,4,Half Volley
-28.694424545545434,0.06486852436778201,False,Right Foot,Free Kick,0,0,0,Normal
-9.34719209174605,0.05377309360413072,False,Right Foot,Open Play,1,0,2,Normal
-38.50012986991083,0.06102238802682134,False,Right Foot,Corner,0,0,0,Normal
-7.61642960973184,0.05763124030413038,False,Head,Open Play,0,1,5,Normal
-7.6026311234992905,0.05459371421451719,False,Head,Open Play,0,0,3,Normal
-18.852055590836777,0.05425863192727958,False,Left Foot,Open Play,0,1,2,Normal
-15.802847844613327,0.058449626673752385,False,Right Foot,Open Play,1,0,1,Normal
-9.786214794290993,0.057160741184500596,False,Right Foot,Open Play,1,0,4,Volley
-37.651162000660754,0.05676656425720098,False,Right Foot,Open Play,0,0,0,Normal
-22.81622229905731,0.06539845973372493,True,Right Foot,Open Play,0,1,2,Half Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-31.29233132893745,0.0606047872988897,False,Left Foot,Free Kick,0,0,0,Normal
-27.789386463180506,0.06452613841492415,False,Right Foot,Open Play,0,0,2,Normal
-11.01362792180669,0.05750817848108525,False,Left Foot,Open Play,1,1,3,Half Volley
-15.78765340384694,0.06269736117493277,False,Right Foot,Open Play,0,1,2,Normal
-7.752418977325725,0.05812467117785954,True,Head,Open Play,0,0,3,Diving Header
-12.758134659894454,0.06114373426525824,False,Right Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890374,Markus Suttner,Ingolstadt,35.04882309008392,0.06487282655112425,False,Left Foot,Free Kick,0,0,0,Normal
+3890374,Dominik Stroh-Engel,Darmstadt 98,18.930662957223657,0.057762053419579656,False,Right Foot,Open Play,1,0,3,Volley
+3890374,Aytac Sulu,Darmstadt 98,6.824954212300623,0.057020198318481416,True,Head,Open Play,0,1,5,Normal
+3890374,Jérôme Gondorf,Darmstadt 98,25.457415422622933,0.0540843401436135,False,Right Foot,Open Play,1,0,1,Normal
+3890374,Dominik Stroh-Engel,Darmstadt 98,20.601456259206525,0.05376933962127998,False,Left Foot,Open Play,1,0,2,Half Volley
+3890374,Marvin Matip,Ingolstadt,14.165097952361636,0.05597112257268566,False,Right Foot,Open Play,1,0,1,Volley
+3890374,Romain Brégerie,Ingolstadt,7.1196910045310275,0.05831203675831844,False,Right Foot,Open Play,1,1,4,Half Volley
+3890374,Pascal Groß,Ingolstadt,28.694424545545434,0.06486852436778201,False,Right Foot,Free Kick,0,0,0,Normal
+3890374,Moritz Hartmann,Ingolstadt,9.34719209174605,0.05377309360413072,False,Right Foot,Open Play,1,0,2,Normal
+3890374,Pascal Groß,Ingolstadt,38.50012986991083,0.06102238802682134,False,Right Foot,Corner,0,0,0,Normal
+3890374,Moritz Hartmann,Ingolstadt,7.61642960973184,0.05763124030413038,False,Head,Open Play,0,1,5,Normal
+3890374,Lukas Hinterseer,Ingolstadt,7.6026311234992905,0.05459371421451719,False,Head,Open Play,0,0,3,Normal
+3890374,Marcel Heller,Darmstadt 98,18.852055590836777,0.05425863192727958,False,Left Foot,Open Play,0,1,2,Normal
+3890374,Romain Brégerie,Ingolstadt,15.802847844613327,0.058449626673752385,False,Right Foot,Open Play,1,0,1,Normal
+3890374,Benjamin Hübner,Ingolstadt,9.786214794290993,0.057160741184500596,False,Right Foot,Open Play,1,0,4,Volley
+3890374,Tobias Levels,Ingolstadt,37.651162000660754,0.05676656425720098,False,Right Foot,Open Play,0,0,0,Normal
+3890374,Robert Bauer,Ingolstadt,22.81622229905731,0.06539845973372493,True,Right Foot,Open Play,0,1,2,Half Volley
+3890374,Moritz Hartmann,Ingolstadt,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3890374,Konstantin Rausch,Darmstadt 98,31.29233132893745,0.0606047872988897,False,Left Foot,Free Kick,0,0,0,Normal
+3890374,Stefan Lex,Ingolstadt,27.789386463180506,0.06452613841492415,False,Right Foot,Open Play,0,0,2,Normal
+3890374,Tobias Kempe,Darmstadt 98,11.01362792180669,0.05750817848108525,False,Left Foot,Open Play,1,1,3,Half Volley
+3890374,Alfredo Morales,Ingolstadt,15.78765340384694,0.06269736117493277,False,Right Foot,Open Play,0,1,2,Normal
+3890374,Moritz Hartmann,Ingolstadt,7.752418977325725,0.05812467117785954,True,Head,Open Play,0,0,3,Diving Header
+3890374,Slobodan Rajković,Darmstadt 98,12.758134659894454,0.06114373426525824,False,Right Foot,Open Play,1,0,2,Volley

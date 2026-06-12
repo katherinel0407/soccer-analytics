@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.116204388189338,0.05900491945294842,False,Right Foot,Open Play,1,1,3,Overhead Kick
-25.912352266824403,0.06827017023609037,False,Right Foot,Open Play,0,0,2,Normal
-12.714165328483025,0.059218230941132155,True,Right Foot,Open Play,1,0,1,Half Volley
-8.202438661763955,0.057968077809472884,False,Head,Open Play,0,1,6,Normal
-23.501914815605982,0.06486369451538301,False,Right Foot,Open Play,0,0,2,Normal
-28.756390594092302,0.06627290304541054,False,Left Foot,Open Play,0,0,2,Normal
-25.420070810286898,0.06750059124440524,False,Right Foot,Open Play,0,1,2,Normal
-27.895877831679716,0.06118078076649075,False,Left Foot,Open Play,0,1,2,Normal
-26.184155514356384,0.06946836678741532,False,Right Foot,Open Play,0,0,0,Half Volley
-7.736924453553878,0.05812695155540433,False,Head,Open Play,0,0,2,Normal
-28.62481440987871,0.0713992913727548,False,Right Foot,Open Play,0,0,1,Normal
-19.704060495238032,0.06429951453967234,False,Left Foot,Open Play,0,0,3,Normal
-32.363096267199154,0.07453267926309215,False,Left Foot,Open Play,0,0,1,Normal
-23.920702330826323,0.06370537085390687,False,Right Foot,Open Play,1,0,0,Half Volley
-7.178439941937241,0.05673250087176407,False,Head,Open Play,0,0,1,Normal
-25.775181861628052,0.06720267223485916,True,Right Foot,Open Play,1,1,0,Normal
-18.01554883982167,0.0642335508726294,False,Head,Open Play,0,0,2,Diving Header
-18.788294228055943,0.0639177455690353,True,Right Foot,Open Play,0,0,2,Normal
-17.68671818060094,0.06379754644579874,False,Head,Open Play,0,1,2,Normal
-15.420116731075673,0.054054076830300855,True,Right Foot,Open Play,1,1,3,Normal
-28.36564823867067,0.0707580973236522,False,Right Foot,Open Play,0,0,1,Normal
-17.0,0.06223820099491056,False,Left Foot,Open Play,1,0,2,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754300,Troy Deeney,Watford,11.116204388189338,0.05900491945294842,False,Right Foot,Open Play,1,1,3,Overhead Kick
+3754300,Troy Deeney,Watford,25.912352266824403,0.06827017023609037,False,Right Foot,Open Play,0,0,2,Normal
+3754300,Miguel Arturo Layún Prado,Watford,12.714165328483025,0.059218230941132155,True,Right Foot,Open Play,1,0,1,Half Volley
+3754300,Gareth Barry,Everton,8.202438661763955,0.057968077809472884,False,Head,Open Play,0,1,6,Normal
+3754300,Ross Barkley,Everton,23.501914815605982,0.06486369451538301,False,Right Foot,Open Play,0,0,2,Normal
+3754300,Ross Barkley,Everton,28.756390594092302,0.06627290304541054,False,Left Foot,Open Play,0,0,2,Normal
+3754300,Ross Barkley,Everton,25.420070810286898,0.06750059124440524,False,Right Foot,Open Play,0,1,2,Normal
+3754300,Etienne Capoue,Watford,27.895877831679716,0.06118078076649075,False,Left Foot,Open Play,0,1,2,Normal
+3754300,Miguel Arturo Layún Prado,Watford,26.184155514356384,0.06946836678741532,False,Right Foot,Open Play,0,0,0,Half Volley
+3754300,Romelu Lukaku Menama,Everton,7.736924453553878,0.05812695155540433,False,Head,Open Play,0,0,2,Normal
+3754300,Kevin Mirallas,Everton,28.62481440987871,0.0713992913727548,False,Right Foot,Open Play,0,0,1,Normal
+3754300,Ikechi Anya,Watford,19.704060495238032,0.06429951453967234,False,Left Foot,Open Play,0,0,3,Normal
+3754300,José Holebas,Watford,32.363096267199154,0.07453267926309215,False,Left Foot,Open Play,0,0,1,Normal
+3754300,José Manuel Jurado Marín,Watford,23.920702330826323,0.06370537085390687,False,Right Foot,Open Play,1,0,0,Half Volley
+3754300,Arouna Koné,Everton,7.178439941937241,0.05673250087176407,False,Head,Open Play,0,0,1,Normal
+3754300,Ross Barkley,Everton,25.775181861628052,0.06720267223485916,True,Right Foot,Open Play,1,1,0,Normal
+3754300,Troy Deeney,Watford,18.01554883982167,0.0642335508726294,False,Head,Open Play,0,0,2,Diving Header
+3754300,Odion Jude Ighalo,Watford,18.788294228055943,0.0639177455690353,True,Right Foot,Open Play,0,0,2,Normal
+3754300,Phil Jagielka,Everton,17.68671818060094,0.06379754644579874,False,Head,Open Play,0,1,2,Normal
+3754300,Arouna Koné,Everton,15.420116731075673,0.054054076830300855,True,Right Foot,Open Play,1,1,3,Normal
+3754300,Ikechi Anya,Watford,28.36564823867067,0.0707580973236522,False,Right Foot,Open Play,0,0,1,Normal
+3754300,Romelu Lukaku Menama,Everton,17.0,0.06223820099491056,False,Left Foot,Open Play,1,0,2,Volley

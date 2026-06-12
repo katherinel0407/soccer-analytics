@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-10.34069630150697,0.05978117348205395,False,Head,Open Play,0,1,2,Normal
-19.67028215354319,0.059684015103005424,False,Right Foot,Open Play,0,0,3,Normal
-31.549326458737596,0.05493398422718172,False,Left Foot,Open Play,0,0,2,Normal
-28.626211764744568,0.05284914024127882,False,Right Foot,Open Play,1,0,2,Half Volley
-26.122212769977974,0.06855612844634355,False,Right Foot,Free Kick,0,0,0,Normal
-11.205802068571437,0.05992654435977038,False,Right Foot,Open Play,1,1,1,Normal
-21.367732682715776,0.06292131206668819,False,Right Foot,Open Play,1,1,2,Normal
-11.62110149684616,0.058144889438942124,False,Head,Open Play,0,1,3,Normal
-30.36609951903603,0.07073290690611027,False,Left Foot,Open Play,0,0,1,Half Volley
-12.287391912037313,0.061083808575070724,False,Right Foot,Open Play,1,0,1,Volley
-8.450443775329202,0.054837728242759204,True,Right Foot,Open Play,1,0,1,Volley
-17.758941409892653,0.06416587991349051,False,Right Foot,Open Play,1,1,2,Normal
-13.990353819685902,0.0594796341132999,False,Head,Open Play,0,0,2,Normal
-7.368174807915455,0.05799458300608512,False,Head,Open Play,0,1,3,Normal
-20.112185361118765,0.06572165921195179,False,Right Foot,Open Play,0,0,3,Normal
-6.800735254367722,0.05796332151350384,False,Head,Open Play,0,1,3,Normal
-26.54524439518311,0.060716175354107636,False,Left Foot,Open Play,0,0,2,Normal
-35.328883367578996,0.07632622961376087,False,Right Foot,Open Play,0,0,0,Normal
-22.931419493786258,0.06499462875450306,False,Right Foot,Open Play,0,0,3,Half Volley
-16.925720073308547,0.05649704915495634,False,Head,Open Play,0,1,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825725,Rubén Castro Martín,Real Betis,10.34069630150697,0.05978117348205395,False,Head,Open Play,0,1,2,Normal
+3825725,Rubén Castro Martín,Real Betis,19.67028215354319,0.059684015103005424,False,Right Foot,Open Play,0,0,3,Normal
+3825725,Cristiano Piccini,Real Betis,31.549326458737596,0.05493398422718172,False,Left Foot,Open Play,0,0,2,Normal
+3825725,Álvaro Vázquez García,Getafe,28.626211764744568,0.05284914024127882,False,Right Foot,Open Play,1,0,2,Half Volley
+3825725,Rubén Castro Martín,Real Betis,26.122212769977974,0.06855612844634355,False,Right Foot,Free Kick,0,0,0,Normal
+3825725,Víctor Rodríguez Romero,Getafe,11.205802068571437,0.05992654435977038,False,Right Foot,Open Play,1,1,1,Normal
+3825725,Jorge Molina Vidal,Real Betis,21.367732682715776,0.06292131206668819,False,Right Foot,Open Play,1,1,2,Normal
+3825725,Germán Alejandro Pezzella,Real Betis,11.62110149684616,0.058144889438942124,False,Head,Open Play,0,1,3,Normal
+3825725,Pablo Sarabia García,Getafe,30.36609951903603,0.07073290690611027,False,Left Foot,Open Play,0,0,1,Half Volley
+3825725,Alfred John Momar N''Diaye,Real Betis,12.287391912037313,0.061083808575070724,False,Right Foot,Open Play,1,0,1,Volley
+3825725,Álvaro Vázquez García,Getafe,8.450443775329202,0.054837728242759204,True,Right Foot,Open Play,1,0,1,Volley
+3825725,Alfred John Momar N''Diaye,Real Betis,17.758941409892653,0.06416587991349051,False,Right Foot,Open Play,1,1,2,Normal
+3825725,Germán Alejandro Pezzella,Real Betis,13.990353819685902,0.0594796341132999,False,Head,Open Play,0,0,2,Normal
+3825725,Juan Torres Ruiz,Getafe,7.368174807915455,0.05799458300608512,False,Head,Open Play,0,1,3,Normal
+3825725,Víctor Rodríguez Romero,Getafe,20.112185361118765,0.06572165921195179,False,Right Foot,Open Play,0,0,3,Normal
+3825725,Álvaro Vázquez García,Getafe,6.800735254367722,0.05796332151350384,False,Head,Open Play,0,1,3,Normal
+3825725,Mehdi Lacen,Getafe,26.54524439518311,0.060716175354107636,False,Left Foot,Open Play,0,0,2,Normal
+3825725,Bernard Mensah,Getafe,35.328883367578996,0.07632622961376087,False,Right Foot,Open Play,0,0,0,Normal
+3825725,Francisco Portillo Soler,Real Betis,22.931419493786258,0.06499462875450306,False,Right Foot,Open Play,0,0,3,Half Volley
+3825725,Germán Alejandro Pezzella,Real Betis,16.925720073308547,0.05649704915495634,False,Head,Open Play,0,1,3,Normal

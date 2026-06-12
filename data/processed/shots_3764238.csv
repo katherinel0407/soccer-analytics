@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.56320010448714,0.07030174462774531,False,Right Foot,Open Play,0,0,1,Normal
-21.160576551691584,0.06287790333926875,False,Right Foot,Open Play,0,0,0,Half Volley
-16.758579892103036,0.05321673921908153,False,Left Foot,Open Play,0,0,2,Normal
-10.822661410207747,0.05933572001064369,True,Right Foot,Open Play,1,0,1,Volley
-21.446211786700232,0.06479587966494155,True,Right Foot,Open Play,0,0,0,Half Volley
-8.319855767980592,0.05860889666629836,False,Right Foot,Open Play,0,0,2,Normal
-16.620770138594658,0.05296550461399069,False,Right Foot,Open Play,1,0,0,Half Volley
-16.597891432347666,0.0607970890707869,False,Right Foot,Open Play,1,0,1,Half Volley
-14.36558387257545,0.06222988853621765,False,Right Foot,Open Play,0,0,2,Normal
-9.761659694949419,0.059687862108287096,True,Right Foot,Open Play,1,0,1,Normal
-11.280514172678476,0.060258448751794515,False,Left Foot,Open Play,0,0,1,Normal
-9.700515450222222,0.059667021378824375,True,Right Foot,Open Play,1,0,3,Normal
-17.961069010501568,0.0548862379755247,True,Left Foot,Open Play,1,0,0,Normal
-18.339302058693512,0.060032117859214126,False,Right Foot,Open Play,0,0,2,Normal
-17.932372960654142,0.06389666058581495,False,Right Foot,Open Play,1,0,3,Volley
-15.726728839781016,0.06299607783802376,False,Head,Open Play,0,1,1,Normal
-6.51152823843988,0.055315746215594416,True,Right Foot,Open Play,1,0,2,Normal
-17.836199146679203,0.055881807217205925,True,Right Foot,Open Play,0,0,1,Normal
-14.808443537387712,0.06097319686834541,True,Right Foot,Open Play,0,0,3,Normal
-22.75016483456768,0.05665066614597636,False,Right Foot,Open Play,0,0,3,Normal
-11.936498649101418,0.05857989069587437,False,Left Foot,Open Play,1,0,0,Normal
-11.61808934377766,0.058865372195930125,False,Left Foot,Open Play,1,0,1,Half Volley
-9.14111590562115,0.05784522306235121,False,Right Foot,Open Play,0,0,3,Normal
-9.021086409075124,0.059314514277364415,True,Right Foot,Open Play,1,0,1,Half Volley
-21.70829334609241,0.06511215847305074,False,Right Foot,Open Play,1,0,3,Normal
-29.301535795927144,0.06771849313922623,False,Right Foot,Open Play,0,0,1,Normal
-6.044005294504628,0.057606853796819325,True,Right Foot,Open Play,1,0,1,Normal
-30.996774025695,0.06162746472440555,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3764238,Jordan Nobbs,Arsenal WFC,27.56320010448714,0.07030174462774531,False,Right Foot,Open Play,0,0,1,Normal
+3764238,Adriana Kristina Leon,West Ham United LFC,21.160576551691584,0.06287790333926875,False,Right Foot,Open Play,0,0,0,Half Volley
+3764238,Vivianne Miedema,Arsenal WFC,16.758579892103036,0.05321673921908153,False,Left Foot,Open Play,0,0,2,Normal
+3764238,Jill Roord,Arsenal WFC,10.822661410207747,0.05933572001064369,True,Right Foot,Open Play,1,0,1,Volley
+3764238,Kenza Dali,West Ham United LFC,21.446211786700232,0.06479587966494155,True,Right Foot,Open Play,0,0,0,Half Volley
+3764238,Vivianne Miedema,Arsenal WFC,8.319855767980592,0.05860889666629836,False,Right Foot,Open Play,0,0,2,Normal
+3764238,Bethany Mead,Arsenal WFC,16.620770138594658,0.05296550461399069,False,Right Foot,Open Play,1,0,0,Half Volley
+3764238,Jill Roord,Arsenal WFC,16.597891432347666,0.0607970890707869,False,Right Foot,Open Play,1,0,1,Half Volley
+3764238,Vivianne Miedema,Arsenal WFC,14.36558387257545,0.06222988853621765,False,Right Foot,Open Play,0,0,2,Normal
+3764238,Vivianne Miedema,Arsenal WFC,9.761659694949419,0.059687862108287096,True,Right Foot,Open Play,1,0,1,Normal
+3764238,Jordan Nobbs,Arsenal WFC,11.280514172678476,0.060258448751794515,False,Left Foot,Open Play,0,0,1,Normal
+3764238,Kim Little,Arsenal WFC,9.700515450222222,0.059667021378824375,True,Right Foot,Open Play,1,0,3,Normal
+3764238,Bethany Mead,Arsenal WFC,17.961069010501568,0.0548862379755247,True,Left Foot,Open Play,1,0,0,Normal
+3764238,Vivianne Miedema,Arsenal WFC,18.339302058693512,0.060032117859214126,False,Right Foot,Open Play,0,0,2,Normal
+3764238,Jordan Nobbs,Arsenal WFC,17.932372960654142,0.06389666058581495,False,Right Foot,Open Play,1,0,3,Volley
+3764238,Leah Williamson,Arsenal WFC,15.726728839781016,0.06299607783802376,False,Head,Open Play,0,1,1,Normal
+3764238,Jill Roord,Arsenal WFC,6.51152823843988,0.055315746215594416,True,Right Foot,Open Play,1,0,2,Normal
+3764238,Vivianne Miedema,Arsenal WFC,17.836199146679203,0.055881807217205925,True,Right Foot,Open Play,0,0,1,Normal
+3764238,Jill Roord,Arsenal WFC,14.808443537387712,0.06097319686834541,True,Right Foot,Open Play,0,0,3,Normal
+3764238,Vivianne Miedema,Arsenal WFC,22.75016483456768,0.05665066614597636,False,Right Foot,Open Play,0,0,3,Normal
+3764238,Jordan Nobbs,Arsenal WFC,11.936498649101418,0.05857989069587437,False,Left Foot,Open Play,1,0,0,Normal
+3764238,Caitlin Jade Foord,Arsenal WFC,11.61808934377766,0.058865372195930125,False,Left Foot,Open Play,1,0,1,Half Volley
+3764238,Vivianne Miedema,Arsenal WFC,9.14111590562115,0.05784522306235121,False,Right Foot,Open Play,0,0,3,Normal
+3764238,Leah Williamson,Arsenal WFC,9.021086409075124,0.059314514277364415,True,Right Foot,Open Play,1,0,1,Half Volley
+3764238,So-Hyun Cho,West Ham United LFC,21.70829334609241,0.06511215847305074,False,Right Foot,Open Play,1,0,3,Normal
+3764238,Caitlin Jade Foord,Arsenal WFC,29.301535795927144,0.06771849313922623,False,Right Foot,Open Play,0,0,1,Normal
+3764238,Caitlin Jade Foord,Arsenal WFC,6.044005294504628,0.057606853796819325,True,Right Foot,Open Play,1,0,1,Normal
+3764238,Caitlin Jade Foord,Arsenal WFC,30.996774025695,0.06162746472440555,False,Left Foot,Open Play,0,0,2,Normal

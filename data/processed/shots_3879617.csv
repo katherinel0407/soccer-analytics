@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-42.480701500799164,0.06880948647231719,False,Right Foot,Open Play,1,0,0,Normal
-11.926860441876567,0.057777471629343144,False,Right Foot,Open Play,1,0,2,Normal
-10.575916035975318,0.06010976628206973,True,Left Foot,Open Play,1,0,1,Half Volley
-9.26120942425988,0.053707906804136514,False,Left Foot,Open Play,0,0,6,Normal
-17.45680383117139,0.05917846206917771,False,Right Foot,Open Play,1,0,0,Normal
-23.107790893982052,0.06770321394478584,False,Right Foot,Free Kick,0,0,0,Normal
-15.717824276915687,0.05813439930527308,False,Right Foot,Open Play,0,1,4,Normal
-26.53639010867906,0.05836176136186651,False,Right Foot,Open Play,1,0,1,Normal
-30.911001277862223,0.07286148798122989,False,Right Foot,Free Kick,0,0,0,Normal
-26.12316979235101,0.06908086764908578,False,Right Foot,Free Kick,0,0,0,Normal
-28.853076092507017,0.07178955683498656,False,Right Foot,Open Play,1,0,2,Volley
-17.34041521994211,0.06397234494330939,False,Left Foot,Open Play,1,1,3,Normal
-19.834565788037818,0.05589547147564952,False,Right Foot,Open Play,0,0,1,Normal
-11.331813623599716,0.060433983571456205,False,Right Foot,Open Play,1,0,2,Volley
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-9.4762861923857,0.0551492400270336,False,Head,Open Play,0,1,1,Normal
-18.653149868051777,0.05789913528034111,False,Right Foot,Open Play,1,0,2,Half Volley
-18.730189534545563,0.057173984054295246,False,Right Foot,Open Play,1,0,0,Normal
-24.107467722678802,0.05851795207150274,False,Right Foot,Open Play,0,1,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-10.198039027185573,0.05691622993476577,False,Head,Open Play,0,0,3,Normal
-17.64001133786484,0.05335845126466065,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879617,Antonio Rüdiger,AS Roma,42.480701500799164,0.06880948647231719,False,Right Foot,Open Play,1,0,0,Normal
+3879617,Luca Rossettini,Bologna,11.926860441876567,0.057777471629343144,False,Right Foot,Open Play,1,0,2,Normal
+3879617,Adam Masina,Bologna,10.575916035975318,0.06010976628206973,True,Left Foot,Open Play,1,0,1,Half Volley
+3879617,Anthony Mounier,Bologna,9.26120942425988,0.053707906804136514,False,Left Foot,Open Play,0,0,6,Normal
+3879617,Amadou Diawara,Bologna,17.45680383117139,0.05917846206917771,False,Right Foot,Open Play,1,0,0,Normal
+3879617,Miralem Pjanić,AS Roma,23.107790893982052,0.06770321394478584,False,Right Foot,Free Kick,0,0,0,Normal
+3879617,Daniele Gastaldello,Bologna,15.717824276915687,0.05813439930527308,False,Right Foot,Open Play,0,1,4,Normal
+3879617,Emanuele Giaccherini,Bologna,26.53639010867906,0.05836176136186651,False,Right Foot,Open Play,1,0,1,Normal
+3879617,Miralem Pjanić,AS Roma,30.911001277862223,0.07286148798122989,False,Right Foot,Free Kick,0,0,0,Normal
+3879617,Miralem Pjanić,AS Roma,26.12316979235101,0.06908086764908578,False,Right Foot,Free Kick,0,0,0,Normal
+3879617,Radja Nainggolan,AS Roma,28.853076092507017,0.07178955683498656,False,Right Foot,Open Play,1,0,2,Volley
+3879617,Miralem Pjanić,AS Roma,17.34041521994211,0.06397234494330939,False,Left Foot,Open Play,1,1,3,Normal
+3879617,Mattia Destro,Bologna,19.834565788037818,0.05589547147564952,False,Right Foot,Open Play,0,0,1,Normal
+3879617,Alessandro Florenzi,AS Roma,11.331813623599716,0.060433983571456205,False,Right Foot,Open Play,1,0,2,Volley
+3879617,Miralem Pjanić,AS Roma,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3879617,Edin Džeko,AS Roma,9.4762861923857,0.0551492400270336,False,Head,Open Play,0,1,1,Normal
+3879617,Edin Džeko,AS Roma,18.653149868051777,0.05789913528034111,False,Right Foot,Open Play,1,0,2,Half Volley
+3879617,Miralem Pjanić,AS Roma,18.730189534545563,0.057173984054295246,False,Right Foot,Open Play,1,0,0,Normal
+3879617,Alessandro Florenzi,AS Roma,24.107467722678802,0.05851795207150274,False,Right Foot,Open Play,0,1,1,Normal
+3879617,Edin Džeko,AS Roma,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3879617,Mattia Destro,Bologna,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3879617,Luca Rossettini,Bologna,10.198039027185573,0.05691622993476577,False,Head,Open Play,0,0,3,Normal
+3879617,Alessandro Florenzi,AS Roma,17.64001133786484,0.05335845126466065,False,Right Foot,Open Play,0,1,1,Normal

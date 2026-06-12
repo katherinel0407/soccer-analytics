@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.839823231336888,0.055005604630629104,False,Right Foot,Open Play,1,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-34.8742024998422,0.07656966490354114,False,Right Foot,Open Play,0,0,0,Normal
-10.080178569846867,0.054500648992367624,False,Right Foot,Open Play,1,0,1,Volley
-13.701094846763155,0.05385630292564202,False,Right Foot,Open Play,0,0,1,Normal
-22.924222996647014,0.05651300488811418,False,Left Foot,Open Play,0,0,2,Normal
-15.59390906732498,0.059011831212981446,False,Right Foot,Open Play,0,0,3,Normal
-7.668767828015137,0.0582661847560015,False,Left Foot,Open Play,0,0,6,Normal
-29.786070569982876,0.07248402297690311,False,Right Foot,Open Play,0,0,2,Normal
-13.473678042761744,0.057665613965375645,False,Right Foot,Open Play,1,0,1,Half Volley
-12.839003076563223,0.06029126600294023,False,Head,Open Play,0,0,2,Normal
-6.020797289396148,0.05533675580501395,False,Left Foot,Open Play,0,1,6,Half Volley
-26.943273743181244,0.055859286987802986,False,Left Foot,Open Play,1,1,2,Normal
-13.867948658687771,0.0612009480135157,False,Left Foot,Open Play,1,0,1,Normal
-26.313684652666947,0.05520159532526354,False,Left Foot,Open Play,0,0,2,Normal
-23.392520172055,0.061207271635256806,False,Left Foot,Open Play,0,0,2,Normal
-27.93796699833401,0.07029617621986128,False,Right Foot,Open Play,0,0,2,Normal
-15.254179755070409,0.05783124597975716,False,Head,Open Play,0,1,3,Normal
-12.72006289292628,0.06131254280824054,False,Left Foot,Open Play,0,0,2,Normal
-34.66020773163369,0.055390836183918775,False,Right Foot,Open Play,1,0,2,Lob
-21.04661492972207,0.06417032950155374,False,Right Foot,Free Kick,0,0,0,Normal
-20.386760409638406,0.05272060671156812,False,Left Foot,Open Play,0,0,1,Normal
-11.101801655587261,0.06040618116867073,True,Left Foot,Open Play,0,1,2,Normal
-16.560193235587562,0.06279976372832088,False,Right Foot,Open Play,0,0,3,Normal
-8.660831368869852,0.05587023050764636,False,Left Foot,Open Play,1,0,2,Normal
-8.22192191643779,0.05783582074689917,False,Right Foot,Open Play,1,0,1,Normal
-4.669047011971495,0.05637427495216662,True,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775562,Leah Galton,Manchester United W,15.839823231336888,0.055005604630629104,False,Right Foot,Open Play,1,0,2,Normal
+3775562,Ella Toone,Manchester United W,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3775562,Inessa Kaagman,Brighton & Hove Albion WFC,34.8742024998422,0.07656966490354114,False,Right Foot,Open Play,0,0,0,Normal
+3775562,Ella Toone,Manchester United W,10.080178569846867,0.054500648992367624,False,Right Foot,Open Play,1,0,1,Volley
+3775562,Alessia Russo,Manchester United W,13.701094846763155,0.05385630292564202,False,Right Foot,Open Play,0,0,1,Normal
+3775562,Ella Toone,Manchester United W,22.924222996647014,0.05651300488811418,False,Left Foot,Open Play,0,0,2,Normal
+3775562,Ella Toone,Manchester United W,15.59390906732498,0.059011831212981446,False,Right Foot,Open Play,0,0,3,Normal
+3775562,Alessia Russo,Manchester United W,7.668767828015137,0.0582661847560015,False,Left Foot,Open Play,0,0,6,Normal
+3775562,Alessia Russo,Manchester United W,29.786070569982876,0.07248402297690311,False,Right Foot,Open Play,0,0,2,Normal
+3775562,Ella Toone,Manchester United W,13.473678042761744,0.057665613965375645,False,Right Foot,Open Play,1,0,1,Half Volley
+3775562,Kirsty Hanson,Manchester United W,12.839003076563223,0.06029126600294023,False,Head,Open Play,0,0,2,Normal
+3775562,Megan Connolly,Brighton & Hove Albion WFC,6.020797289396148,0.05533675580501395,False,Left Foot,Open Play,0,1,6,Half Volley
+3775562,Aileen Whelan,Brighton & Hove Albion WFC,26.943273743181244,0.055859286987802986,False,Left Foot,Open Play,1,1,2,Normal
+3775562,Felicity Gibbons,Brighton & Hove Albion WFC,13.867948658687771,0.0612009480135157,False,Left Foot,Open Play,1,0,1,Normal
+3775562,Denise O'Sullivan,Brighton & Hove Albion WFC,26.313684652666947,0.05520159532526354,False,Left Foot,Open Play,0,0,2,Normal
+3775562,Kirsty Hanson,Manchester United W,23.392520172055,0.061207271635256806,False,Left Foot,Open Play,0,0,2,Normal
+3775562,Ella Toone,Manchester United W,27.93796699833401,0.07029617621986128,False,Right Foot,Open Play,0,0,2,Normal
+3775562,Kirsty Hanson,Manchester United W,15.254179755070409,0.05783124597975716,False,Head,Open Play,0,1,3,Normal
+3775562,Leah Galton,Manchester United W,12.72006289292628,0.06131254280824054,False,Left Foot,Open Play,0,0,2,Normal
+3775562,Ella Toone,Manchester United W,34.66020773163369,0.055390836183918775,False,Right Foot,Open Play,1,0,2,Lob
+3775562,Alessia Russo,Manchester United W,21.04661492972207,0.06417032950155374,False,Right Foot,Free Kick,0,0,0,Normal
+3775562,Kirsty Hanson,Manchester United W,20.386760409638406,0.05272060671156812,False,Left Foot,Open Play,0,0,1,Normal
+3775562,Alessia Russo,Manchester United W,11.101801655587261,0.06040618116867073,True,Left Foot,Open Play,0,1,2,Normal
+3775562,Tobin Powell Heath,Manchester United W,16.560193235587562,0.06279976372832088,False,Right Foot,Open Play,0,0,3,Normal
+3775562,Leah Galton,Manchester United W,8.660831368869852,0.05587023050764636,False,Left Foot,Open Play,1,0,2,Normal
+3775562,Christen Annemarie Press,Manchester United W,8.22192191643779,0.05783582074689917,False,Right Foot,Open Play,1,0,1,Normal
+3775562,Jane Ross,Manchester United W,4.669047011971495,0.05637427495216662,True,Head,Open Play,0,0,4,Normal

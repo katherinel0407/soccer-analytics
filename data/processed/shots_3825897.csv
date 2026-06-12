@@ -1,16 +1,16 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.81026927406997,0.06882499438840972,False,Right Foot,Open Play,1,1,1,Half Volley
-24.46385088247556,0.06859625864142231,True,Right Foot,Open Play,0,0,2,Half Volley
-15.976545308670456,0.06272804883277354,False,Left Foot,Open Play,0,1,2,Lob
-12.133424908079329,0.05995530621453661,False,Head,Open Play,0,1,6,Normal
-8.54400374531753,0.05867743479677867,True,Head,Open Play,0,0,2,Normal
-14.488616221019871,0.059996334954684774,False,Head,Open Play,0,1,3,Normal
-8.746427842267954,0.05793395450093394,False,Head,Open Play,0,0,3,Normal
-17.017637908946114,0.05742055434425393,False,Right Foot,Open Play,0,0,2,Normal
-8.300602387778856,0.058819264411033904,True,Head,Open Play,0,0,2,Normal
-23.060138768012653,0.05294842703876425,False,Left Foot,Open Play,0,0,2,Normal
-5.124451190127577,0.056657598217138484,False,Head,Open Play,0,1,4,Normal
-17.32974321794758,0.059182036720915904,False,Right Foot,Open Play,1,0,2,Normal
-16.122654868228125,0.06303714919447574,False,Right Foot,Open Play,0,0,2,Normal
-9.39201788754685,0.0584221972557589,False,Left Foot,Open Play,0,0,2,Half Volley
-21.840329667841555,0.06080399497245784,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825897,Takashi Inui,Eibar,25.81026927406997,0.06882499438840972,False,Right Foot,Open Play,1,1,1,Half Volley
+3825897,David Zurutuza Veillet,Real Sociedad,24.46385088247556,0.06859625864142231,True,Right Foot,Open Play,0,0,2,Half Volley
+3825897,Carlos Alberto Vela Garrido,Real Sociedad,15.976545308670456,0.06272804883277354,False,Left Foot,Open Play,0,1,2,Lob
+3825897,Jon Ansotegi Gorostola,Eibar,12.133424908079329,0.05995530621453661,False,Head,Open Play,0,1,6,Normal
+3825897,Sergio Enrich Ametller,Eibar,8.54400374531753,0.05867743479677867,True,Head,Open Play,0,0,2,Normal
+3825897,Markel Bergara Larrañaga,Real Sociedad,14.488616221019871,0.059996334954684774,False,Head,Open Play,0,1,3,Normal
+3825897,Markel Bergara Larrañaga,Real Sociedad,8.746427842267954,0.05793395450093394,False,Head,Open Play,0,0,3,Normal
+3825897,Borja González Tomás,Eibar,17.017637908946114,0.05742055434425393,False,Right Foot,Open Play,0,0,2,Normal
+3825897,Gonzalo Escalante,Eibar,8.300602387778856,0.058819264411033904,True,Head,Open Play,0,0,2,Normal
+3825897,Carlos Alberto Vela Garrido,Real Sociedad,23.060138768012653,0.05294842703876425,False,Left Foot,Open Play,0,0,2,Normal
+3825897,Markel Bergara Larrañaga,Real Sociedad,5.124451190127577,0.056657598217138484,False,Head,Open Play,0,1,4,Normal
+3825897,Sergio Gontán Gallardo,Eibar,17.32974321794758,0.059182036720915904,False,Right Foot,Open Play,1,0,2,Normal
+3825897,Sergio Gontán Gallardo,Eibar,16.122654868228125,0.06303714919447574,False,Right Foot,Open Play,0,0,2,Normal
+3825897,Gonzalo Escalante,Eibar,9.39201788754685,0.0584221972557589,False,Left Foot,Open Play,0,0,2,Half Volley
+3825897,Carlos Alberto Vela Garrido,Real Sociedad,21.840329667841555,0.06080399497245784,False,Left Foot,Free Kick,0,0,0,Normal

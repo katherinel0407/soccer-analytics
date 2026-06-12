@@ -1,38 +1,38 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.341555662160772,0.07156459759740709,False,Left Foot,Open Play,0,0,1,Normal
-11.24455423749648,0.05960808355616434,False,Head,Open Play,0,1,5,Normal
-10.682696288858919,0.055846024682311514,False,Head,Open Play,0,0,1,Normal
-24.35775030662725,0.06117744464770332,False,Left Foot,Open Play,0,1,4,Normal
-8.850988645343527,0.05880074853597348,False,Head,Open Play,0,1,2,Normal
-31.3789738519283,0.0727856573071135,False,Right Foot,Open Play,0,1,1,Normal
-12.376186811776886,0.06073873246105002,False,Head,Open Play,0,0,1,Normal
-5.590169943749474,0.0574945815952633,True,Head,Open Play,0,0,6,Normal
-32.387188825212974,0.07412631213546743,False,Right Foot,Free Kick,0,0,0,Normal
-12.664912159190054,0.05229249098852738,False,Right Foot,Open Play,1,0,1,Normal
-17.863090438107285,0.06271128223881046,False,Head,Open Play,0,0,2,Normal
-6.200806399171,0.057271794672529054,False,Head,Open Play,0,1,3,Normal
-18.257053431482312,0.06433619206463036,False,Right Foot,Open Play,0,0,2,Normal
-25.14060460689042,0.06853541270001226,False,Left Foot,Open Play,1,0,1,Normal
-4.640043103248073,0.05708803042146075,True,Left Foot,Open Play,1,0,3,Volley
-5.8523499553598075,0.05647241147368977,True,Right Foot,Open Play,0,0,0,Normal
-20.0810856280232,0.06571099427272695,False,Left Foot,Open Play,1,0,2,Half Volley
-26.58759109058209,0.06923183332862774,False,Right Foot,Open Play,0,0,2,Normal
-11.36353818139403,0.05887260357196603,True,Left Foot,Open Play,1,0,1,Normal
-22.8232337761326,0.0595651669310708,False,Right Foot,Open Play,0,0,2,Half Volley
-22.909386722476878,0.05691685428314217,False,Left Foot,Open Play,0,0,2,Normal
-21.535319825811737,0.06281562799498379,False,Left Foot,Open Play,1,0,1,Normal
-18.97630100941698,0.06450957709718652,True,Left Foot,Open Play,1,1,2,Lob
-24.159884105682288,0.06418277496078154,False,Right Foot,Open Play,1,0,1,Half Volley
-25.191466809219346,0.06693788839315541,False,Right Foot,Open Play,0,0,0,Normal
-27.453597214208557,0.05446824515321086,False,Right Foot,Open Play,0,0,2,Normal
-19.20520762709948,0.06380503802403542,True,Left Foot,Open Play,0,0,2,Normal
-33.97793401606402,0.0713269901513841,False,Right Foot,Open Play,0,0,0,Normal
-26.096934685897494,0.06950138772498068,False,Right Foot,Open Play,0,0,1,Normal
-11.573245007343443,0.0584029491681986,False,Head,Open Play,0,1,1,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-13.49703671181197,0.06086735943001903,False,Left Foot,Open Play,0,0,2,Normal
-18.30956034425731,0.05415865147419071,False,Left Foot,Open Play,0,0,1,Normal
-22.203152929257595,0.06594530469790653,True,Right Foot,Free Kick,0,0,0,Normal
-19.601020381602588,0.06539342547476924,False,Right Foot,Open Play,1,0,0,Normal
-25.211505310076188,0.051943596951096314,False,Right Foot,Open Play,0,0,1,Normal
-17.899720668211565,0.06358789328242478,False,Left Foot,Open Play,1,0,0,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69186,Iván Daniel Alonso Vallejo,Real Murcia CF,30.341555662160772,0.07156459759740709,False,Left Foot,Open Play,0,0,1,Normal
+69186,Juan Cruz Ochoa López,Real Murcia CF,11.24455423749648,0.05960808355616434,False,Head,Open Play,0,1,5,Normal
+69186,Iván Daniel Alonso Vallejo,Real Murcia CF,10.682696288858919,0.055846024682311514,False,Head,Open Play,0,0,1,Normal
+69186,Lionel Andrés Messi Cuccittini,Barcelona,24.35775030662725,0.06117744464770332,False,Left Foot,Open Play,0,1,4,Normal
+69186,Carles Puyol i Saforcada,Barcelona,8.850988645343527,0.05880074853597348,False,Head,Open Play,0,1,2,Normal
+69186,Eiður Smári Guðjohnsen,Barcelona,31.3789738519283,0.0727856573071135,False,Right Foot,Open Play,0,1,1,Normal
+69186,Iván Daniel Alonso Vallejo,Real Murcia CF,12.376186811776886,0.06073873246105002,False,Head,Open Play,0,0,1,Normal
+69186,Juan Cruz Ochoa López,Real Murcia CF,5.590169943749474,0.0574945815952633,True,Head,Open Play,0,0,6,Normal
+69186,Samuel Eto''o Fils,Barcelona,32.387188825212974,0.07412631213546743,False,Right Foot,Free Kick,0,0,0,Normal
+69186,Íñigo Vélez De Mendizábal Fernández De García,Real Murcia CF,12.664912159190054,0.05229249098852738,False,Right Foot,Open Play,1,0,1,Normal
+69186,Enrique de Lucas Martínez,Real Murcia CF,17.863090438107285,0.06271128223881046,False,Head,Open Play,0,0,2,Normal
+69186,Íñigo Vélez De Mendizábal Fernández De García,Real Murcia CF,6.200806399171,0.057271794672529054,False,Head,Open Play,0,1,3,Normal
+69186,Daniel Aquino Pintos,Real Murcia CF,18.257053431482312,0.06433619206463036,False,Right Foot,Open Play,0,0,2,Normal
+69186,Alejandro Marañón Pérez,Real Murcia CF,25.14060460689042,0.06853541270001226,False,Left Foot,Open Play,1,0,1,Normal
+69186,Samuel Eto''o Fils,Barcelona,4.640043103248073,0.05708803042146075,True,Left Foot,Open Play,1,0,3,Volley
+69186,Thierry Henry,Barcelona,5.8523499553598075,0.05647241147368977,True,Right Foot,Open Play,0,0,0,Normal
+69186,Íñigo Vélez De Mendizábal Fernández De García,Real Murcia CF,20.0810856280232,0.06571099427272695,False,Left Foot,Open Play,1,0,2,Half Volley
+69186,Thierry Henry,Barcelona,26.58759109058209,0.06923183332862774,False,Right Foot,Open Play,0,0,2,Normal
+69186,Giovani dos Santos Ramírez,Barcelona,11.36353818139403,0.05887260357196603,True,Left Foot,Open Play,1,0,1,Normal
+69186,Eiður Smári Guðjohnsen,Barcelona,22.8232337761326,0.0595651669310708,False,Right Foot,Open Play,0,0,2,Half Volley
+69186,Lionel Andrés Messi Cuccittini,Barcelona,22.909386722476878,0.05691685428314217,False,Left Foot,Open Play,0,0,2,Normal
+69186,Íñigo Vélez De Mendizábal Fernández De García,Real Murcia CF,21.535319825811737,0.06281562799498379,False,Left Foot,Open Play,1,0,1,Normal
+69186,Giovani dos Santos Ramírez,Barcelona,18.97630100941698,0.06450957709718652,True,Left Foot,Open Play,1,1,2,Lob
+69186,Enrique de Lucas Martínez,Real Murcia CF,24.159884105682288,0.06418277496078154,False,Right Foot,Open Play,1,0,1,Half Volley
+69186,Ricardo Pérez de Zabalza Goytre,Real Murcia CF,25.191466809219346,0.06693788839315541,False,Right Foot,Open Play,0,0,0,Normal
+69186,David Gutiérrez de Coz,Real Murcia CF,27.453597214208557,0.05446824515321086,False,Right Foot,Open Play,0,0,2,Normal
+69186,Giovani dos Santos Ramírez,Barcelona,19.20520762709948,0.06380503802403542,True,Left Foot,Open Play,0,0,2,Normal
+69186,Rosinei Adolfo,Real Murcia CF,33.97793401606402,0.0713269901513841,False,Right Foot,Open Play,0,0,0,Normal
+69186,Thierry Henry,Barcelona,26.096934685897494,0.06950138772498068,False,Right Foot,Open Play,0,0,1,Normal
+69186,Iván Daniel Alonso Vallejo,Real Murcia CF,11.573245007343443,0.0584029491681986,False,Head,Open Play,0,1,1,Normal
+69186,Iván Daniel Alonso Vallejo,Real Murcia CF,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+69186,Bojan Krkíc Pérez,Barcelona,13.49703671181197,0.06086735943001903,False,Left Foot,Open Play,0,0,2,Normal
+69186,Samuel Eto''o Fils,Barcelona,18.30956034425731,0.05415865147419071,False,Left Foot,Open Play,0,0,1,Normal
+69186,Abel Gómez Moreno,Real Murcia CF,22.203152929257595,0.06594530469790653,True,Right Foot,Free Kick,0,0,0,Normal
+69186,José Manuel Rueda Sampedro,Barcelona,19.601020381602588,0.06539342547476924,False,Right Foot,Open Play,1,0,0,Normal
+69186,Rosinei Adolfo,Real Murcia CF,25.211505310076188,0.051943596951096314,False,Right Foot,Open Play,0,0,1,Normal
+69186,Abel Gómez Moreno,Real Murcia CF,17.899720668211565,0.06358789328242478,False,Left Foot,Open Play,1,0,0,Half Volley

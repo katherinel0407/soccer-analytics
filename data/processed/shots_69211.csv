@@ -1,35 +1,35 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-33.53937983922779,0.05701915181284705,False,Right Foot,Open Play,0,0,2,Normal
-19.990497742677643,0.06493214124079083,False,Right Foot,Open Play,0,0,2,Normal
-17.21423829276219,0.06211521948130676,False,Left Foot,Open Play,0,0,1,Normal
-30.04080558174165,0.07160460536645186,False,Right Foot,Open Play,0,0,1,Normal
-12.354756169184398,0.05692354264008827,False,Head,Open Play,0,0,2,Normal
-21.44108206224677,0.06604881927945225,False,Right Foot,Open Play,1,0,4,Normal
-4.201190307519996,0.05678946289546043,True,Right Foot,Open Play,1,0,3,Normal
-38.86296437483893,0.08018708588815285,False,Right Foot,Free Kick,0,0,0,Normal
-29.854312921251427,0.06879877770216943,False,Right Foot,Open Play,0,0,0,Normal
-13.243866504914644,0.05441022281293901,False,Left Foot,Open Play,0,0,2,Normal
-6.862215385719107,0.05811824646268378,False,Right Foot,Open Play,1,0,1,Volley
-8.766413177577242,0.05762426850567352,False,Head,Open Play,0,1,4,Normal
-17.935997323817823,0.057855274290037166,False,Left Foot,Open Play,0,0,2,Normal
-16.83151805393679,0.062442446526721714,False,Right Foot,Open Play,1,0,1,Normal
-13.940229553346677,0.06200010350148747,False,Head,Open Play,0,0,0,Normal
-22.68082890901476,0.06167321666275821,False,Left Foot,Open Play,0,1,2,Normal
-23.88493248891443,0.06717076993142812,False,Right Foot,Open Play,0,0,4,Normal
-27.46069918993324,0.07068460482198381,False,Right Foot,Free Kick,0,0,0,Normal
-23.605296015936755,0.06500607119359048,False,Right Foot,Open Play,1,0,1,Normal
-21.601157376399993,0.06041313798892335,False,Right Foot,Open Play,1,0,1,Half Volley
-17.439323381370045,0.06097023423288483,False,Right Foot,Open Play,0,0,2,Overhead Kick
-23.809661904361427,0.062265268655982885,False,Right Foot,Open Play,1,0,0,Normal
-28.31130516242584,0.06748044301468144,False,Right Foot,Open Play,0,0,0,Half Volley
-17.361163555476338,0.06297981809856523,False,Right Foot,Open Play,1,1,2,Normal
-6.200806399171,0.057271794672529054,False,Head,Open Play,0,1,2,Normal
-21.788299612406657,0.05813718312685014,False,Left Foot,Open Play,0,0,2,Normal
-12.701574705523718,0.06113146457994149,False,Head,Open Play,0,1,4,Normal
-11.271202242884298,0.05967293781850528,False,Right Foot,Open Play,0,0,2,Normal
-19.241621553289107,0.06487447488231857,False,Right Foot,Open Play,0,0,1,Normal
-28.700174215499114,0.06719932116430549,False,Right Foot,Open Play,0,0,3,Normal
-8.841379982785497,0.059154986510588814,True,Right Foot,Open Play,1,0,2,Normal
-24.535892076710805,0.06245707059465641,False,Right Foot,Open Play,0,0,1,Normal
-10.295630140987003,0.058359121059614716,False,Head,Open Play,0,0,3,Normal
-12.000416659433121,0.059627414004283334,True,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69211,Daniel Alves da Silva,Barcelona,33.53937983922779,0.05701915181284705,False,Right Foot,Open Play,0,0,2,Normal
+69211,Andrés Iniesta Luján,Barcelona,19.990497742677643,0.06493214124079083,False,Right Foot,Open Play,0,0,2,Normal
+69211,Thierry Henry,Barcelona,17.21423829276219,0.06211521948130676,False,Left Foot,Open Play,0,0,1,Normal
+69211,Xavier Hernández Creus,Barcelona,30.04080558174165,0.07160460536645186,False,Right Foot,Open Play,0,0,1,Normal
+69211,Gerard Piqué Bernabéu,Barcelona,12.354756169184398,0.05692354264008827,False,Head,Open Play,0,0,2,Normal
+69211,Ferrán Corominas Telechea,Espanyol,21.44108206224677,0.06604881927945225,False,Right Foot,Open Play,1,0,4,Normal
+69211,Ferrán Corominas Telechea,Espanyol,4.201190307519996,0.05678946289546043,True,Right Foot,Open Play,1,0,3,Normal
+69211,Ferrán Corominas Telechea,Espanyol,38.86296437483893,0.08018708588815285,False,Right Foot,Free Kick,0,0,0,Normal
+69211,Daniel Alves da Silva,Barcelona,29.854312921251427,0.06879877770216943,False,Right Foot,Open Play,0,0,0,Normal
+69211,Lionel Andrés Messi Cuccittini,Barcelona,13.243866504914644,0.05441022281293901,False,Left Foot,Open Play,0,0,2,Normal
+69211,Thierry Henry,Barcelona,6.862215385719107,0.05811824646268378,False,Right Foot,Open Play,1,0,1,Volley
+69211,Eiður Smári Guðjohnsen,Barcelona,8.766413177577242,0.05762426850567352,False,Head,Open Play,0,1,4,Normal
+69211,Lionel Andrés Messi Cuccittini,Barcelona,17.935997323817823,0.057855274290037166,False,Left Foot,Open Play,0,0,2,Normal
+69211,Xavier Hernández Creus,Barcelona,16.83151805393679,0.062442446526721714,False,Right Foot,Open Play,1,0,1,Normal
+69211,Eiður Smári Guðjohnsen,Barcelona,13.940229553346677,0.06200010350148747,False,Head,Open Play,0,0,0,Normal
+69211,Lionel Andrés Messi Cuccittini,Barcelona,22.68082890901476,0.06167321666275821,False,Left Foot,Open Play,0,1,2,Normal
+69211,Thierry Henry,Barcelona,23.88493248891443,0.06717076993142812,False,Right Foot,Open Play,0,0,4,Normal
+69211,Xavier Hernández Creus,Barcelona,27.46069918993324,0.07068460482198381,False,Right Foot,Free Kick,0,0,0,Normal
+69211,Lionel Andrés Messi Cuccittini,Barcelona,23.605296015936755,0.06500607119359048,False,Right Foot,Open Play,1,0,1,Normal
+69211,Sergio Busquets i Burgos,Barcelona,21.601157376399993,0.06041313798892335,False,Right Foot,Open Play,1,0,1,Half Volley
+69211,Thierry Henry,Barcelona,17.439323381370045,0.06097023423288483,False,Right Foot,Open Play,0,0,2,Overhead Kick
+69211,Daniel Alves da Silva,Barcelona,23.809661904361427,0.062265268655982885,False,Right Foot,Open Play,1,0,0,Normal
+69211,Carles Puyol i Saforcada,Barcelona,28.31130516242584,0.06748044301468144,False,Right Foot,Open Play,0,0,0,Half Volley
+69211,Samuel Eto''o Fils,Barcelona,17.361163555476338,0.06297981809856523,False,Right Foot,Open Play,1,1,2,Normal
+69211,Thierry Henry,Barcelona,6.200806399171,0.057271794672529054,False,Head,Open Play,0,1,2,Normal
+69211,Lionel Andrés Messi Cuccittini,Barcelona,21.788299612406657,0.05813718312685014,False,Left Foot,Open Play,0,0,2,Normal
+69211,Gerard Piqué Bernabéu,Barcelona,12.701574705523718,0.06113146457994149,False,Head,Open Play,0,1,4,Normal
+69211,Thierry Henry,Barcelona,11.271202242884298,0.05967293781850528,False,Right Foot,Open Play,0,0,2,Normal
+69211,Andrés Iniesta Luján,Barcelona,19.241621553289107,0.06487447488231857,False,Right Foot,Open Play,0,0,1,Normal
+69211,Bojan Krkíc Pérez,Barcelona,28.700174215499114,0.06719932116430549,False,Right Foot,Open Play,0,0,3,Normal
+69211,Thierry Henry,Barcelona,8.841379982785497,0.059154986510588814,True,Right Foot,Open Play,1,0,2,Normal
+69211,Bojan Krkíc Pérez,Barcelona,24.535892076710805,0.06245707059465641,False,Right Foot,Open Play,0,0,1,Normal
+69211,Seydou Kéita,Barcelona,10.295630140987003,0.058359121059614716,False,Head,Open Play,0,0,3,Normal
+69211,Lionel Andrés Messi Cuccittini,Barcelona,12.000416659433121,0.059627414004283334,True,Left Foot,Penalty,0,0,0,Normal

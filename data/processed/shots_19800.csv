@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.80697580112788,0.05649973265650003,False,Right Foot,Open Play,0,0,1,Normal
-10.44030650891055,0.0597699592379618,False,Head,Open Play,0,0,0,Normal
-21.2602916254693,0.0656691490109315,False,Right Foot,Open Play,0,0,3,Normal
-11.40175425099138,0.060576983983408474,True,Left Foot,Open Play,0,0,4,Normal
-11.045361017187261,0.058822261465885754,False,Head,Open Play,0,0,4,Normal
-18.867962264113206,0.057165539497993224,False,Right Foot,Open Play,0,0,2,Normal
-28.160255680657446,0.06214880144436016,False,Right Foot,Open Play,0,0,1,Normal
-15.264337522473747,0.056944377721215564,False,Left Foot,Open Play,1,0,1,Normal
-10.44030650891055,0.05771588406306943,False,Head,Open Play,0,1,2,Normal
-11.661903789690601,0.060728982799624055,True,Right Foot,Open Play,0,0,2,Normal
-28.600699292150182,0.056094685191864425,False,Left Foot,Open Play,0,0,2,Normal
-10.0,0.059829415731508184,False,Right Foot,Open Play,0,0,3,Normal
-12.806248474865697,0.060967023380698634,False,Left Foot,Open Play,0,0,1,Normal
-7.615773105863909,0.05849483251010046,True,Left Foot,Open Play,0,0,1,Normal
-6.4031242374328485,0.054841624801478805,True,Left Foot,Open Play,1,0,2,Normal
-17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,1,3,Normal
-18.601075237738275,0.05352441346771902,False,Left Foot,Open Play,0,0,1,Normal
-11.40175425099138,0.06020545138587247,False,Right Foot,Open Play,0,0,3,Volley
-10.0,0.05950726864497867,False,Left Foot,Open Play,1,0,1,Volley
-30.870698080866262,0.05973910539264036,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19800,Carla Humphrey,Bristol City WFC,25.80697580112788,0.05649973265650003,False,Right Foot,Open Play,0,0,1,Normal
+19800,Danielle van de Donk,Arsenal WFC,10.44030650891055,0.0597699592379618,False,Head,Open Play,0,0,0,Normal
+19800,Katrine Veje,Arsenal WFC,21.2602916254693,0.0656691490109315,False,Right Foot,Open Play,0,0,3,Normal
+19800,Vivianne Miedema,Arsenal WFC,11.40175425099138,0.060576983983408474,True,Left Foot,Open Play,0,0,4,Normal
+19800,Vivianne Miedema,Arsenal WFC,11.045361017187261,0.058822261465885754,False,Head,Open Play,0,0,4,Normal
+19800,Abigail Harrison,Bristol City WFC,18.867962264113206,0.057165539497993224,False,Right Foot,Open Play,0,0,2,Normal
+19800,Dominique Johanna Anna Petrone Janssen,Arsenal WFC,28.160255680657446,0.06214880144436016,False,Right Foot,Open Play,0,0,1,Normal
+19800,Abigail Harrison,Bristol City WFC,15.264337522473747,0.056944377721215564,False,Left Foot,Open Play,1,0,1,Normal
+19800,Lucy Hope,Bristol City WFC,10.44030650891055,0.05771588406306943,False,Head,Open Play,0,1,2,Normal
+19800,Vivianne Miedema,Arsenal WFC,11.661903789690601,0.060728982799624055,True,Right Foot,Open Play,0,0,2,Normal
+19800,Katie McCabe,Arsenal WFC,28.600699292150182,0.056094685191864425,False,Left Foot,Open Play,0,0,2,Normal
+19800,Kim Little,Arsenal WFC,10.0,0.059829415731508184,False,Right Foot,Open Play,0,0,3,Normal
+19800,Vivianne Miedema,Arsenal WFC,12.806248474865697,0.060967023380698634,False,Left Foot,Open Play,0,0,1,Normal
+19800,Katie McCabe,Arsenal WFC,7.615773105863909,0.05849483251010046,True,Left Foot,Open Play,0,0,1,Normal
+19800,Vivianne Miedema,Arsenal WFC,6.4031242374328485,0.054841624801478805,True,Left Foot,Open Play,1,0,2,Normal
+19800,Abigail Harrison,Bristol City WFC,17.08800749063506,0.05886089512173881,False,Left Foot,Open Play,0,1,3,Normal
+19800,Abigail Harrison,Bristol City WFC,18.601075237738275,0.05352441346771902,False,Left Foot,Open Play,0,0,1,Normal
+19800,Louise Quinn,Arsenal WFC,11.40175425099138,0.06020545138587247,False,Right Foot,Open Play,0,0,3,Volley
+19800,Ella Rutherford,Bristol City WFC,10.0,0.05950726864497867,False,Left Foot,Open Play,1,0,1,Volley
+19800,Danielle Carter,Arsenal WFC,30.870698080866262,0.05973910539264036,False,Left Foot,Open Play,0,0,2,Normal

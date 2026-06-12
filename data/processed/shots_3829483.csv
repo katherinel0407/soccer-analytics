@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.929423807734041,0.06087845137902383,False,Head,Open Play,0,1,1,Normal
-27.26939676633863,0.061854146085100925,False,Right Foot,Open Play,0,0,0,Normal
-12.865457628860307,0.06077339954799995,True,Head,Open Play,0,0,3,Normal
-8.072174428244224,0.055413370832525045,False,Head,Open Play,0,1,2,Normal
-18.840382161729103,0.06399278165788974,False,Right Foot,Open Play,0,1,2,Normal
-16.614752480852676,0.0535546820138588,False,Right Foot,Open Play,0,0,2,Normal
-9.226592003551474,0.05751109363496,False,Left Foot,Open Play,1,0,0,Normal
-24.7588368062799,0.06307659111420505,False,Right Foot,Open Play,1,0,0,Half Volley
-24.19132075766017,0.053053716629472496,False,Left Foot,Open Play,0,0,1,Normal
-7.5584389922787585,0.05850254364413844,False,Head,Open Play,0,1,5,Normal
-9.121951545584974,0.05897487202444904,False,Right Foot,Open Play,0,0,4,Normal
-37.58403916558198,0.06705406468294219,False,Right Foot,Free Kick,0,0,0,Normal
-11.86970934774732,0.05874433123017816,False,Left Foot,Open Play,1,1,2,Volley
-6.046486583132388,0.055708501942625235,True,Right Foot,Open Play,0,0,4,Half Volley
-30.305280068001345,0.07117865219550686,False,Right Foot,Free Kick,0,0,0,Normal
-16.810710871346277,0.06369017643326917,False,Left Foot,Open Play,0,1,3,Normal
-20.314772949752598,0.06557964117795247,False,Left Foot,Open Play,1,1,1,Half Volley
-9.123595782365637,0.0566847945066627,False,Head,Open Play,0,0,3,Normal
-12.486793023030371,0.05382694637316855,True,Head,Open Play,0,0,1,Normal
-20.688644228175026,0.06520722847019012,True,Left Foot,Open Play,1,0,2,Lob
-19.952944644838762,0.06560700522343943,False,Right Foot,Open Play,1,0,1,Normal
-9.234717104492153,0.05732507072389883,True,Right Foot,Open Play,1,0,3,Overhead Kick
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829483,Yacine Bammou,Nantes,12.929423807734041,0.06087845137902383,False,Head,Open Play,0,1,1,Normal
+3829483,Birama Touré,Nantes,27.26939676633863,0.061854146085100925,False,Right Foot,Open Play,0,0,0,Normal
+3829483,Yacine Bammou,Nantes,12.865457628860307,0.06077339954799995,True,Head,Open Play,0,0,3,Normal
+3829483,Yacine Bammou,Nantes,8.072174428244224,0.055413370832525045,False,Head,Open Play,0,1,2,Normal
+3829483,Zlatan Ibrahimović,Paris Saint-Germain,18.840382161729103,0.06399278165788974,False,Right Foot,Open Play,0,1,2,Normal
+3829483,Jules Iloki,Nantes,16.614752480852676,0.0535546820138588,False,Right Foot,Open Play,0,0,2,Normal
+3829483,Wilfried Moimbé,Nantes,9.226592003551474,0.05751109363496,False,Left Foot,Open Play,1,0,0,Normal
+3829483,Javier Matías Pastore,Paris Saint-Germain,24.7588368062799,0.06307659111420505,False,Right Foot,Open Play,1,0,0,Half Volley
+3829483,Ángel Fabián Di María Hernández,Paris Saint-Germain,24.19132075766017,0.053053716629472496,False,Left Foot,Open Play,0,0,1,Normal
+3829483,Serge Aurier,Paris Saint-Germain,7.5584389922787585,0.05850254364413844,False,Head,Open Play,0,1,5,Normal
+3829483,Serge Aurier,Paris Saint-Germain,9.121951545584974,0.05897487202444904,False,Right Foot,Open Play,0,0,4,Normal
+3829483,Zlatan Ibrahimović,Paris Saint-Germain,37.58403916558198,0.06705406468294219,False,Right Foot,Free Kick,0,0,0,Normal
+3829483,Ángel Fabián Di María Hernández,Paris Saint-Germain,11.86970934774732,0.05874433123017816,False,Left Foot,Open Play,1,1,2,Volley
+3829483,Zlatan Ibrahimović,Paris Saint-Germain,6.046486583132388,0.055708501942625235,True,Right Foot,Open Play,0,0,4,Half Volley
+3829483,Zlatan Ibrahimović,Paris Saint-Germain,30.305280068001345,0.07117865219550686,False,Right Foot,Free Kick,0,0,0,Normal
+3829483,Yacine Bammou,Nantes,16.810710871346277,0.06369017643326917,False,Left Foot,Open Play,0,1,3,Normal
+3829483,Ángel Fabián Di María Hernández,Paris Saint-Germain,20.314772949752598,0.06557964117795247,False,Left Foot,Open Play,1,1,1,Half Volley
+3829483,Zlatan Ibrahimović,Paris Saint-Germain,9.123595782365637,0.0566847945066627,False,Head,Open Play,0,0,3,Normal
+3829483,Edinson Roberto Cavani Gómez,Paris Saint-Germain,12.486793023030371,0.05382694637316855,True,Head,Open Play,0,0,1,Normal
+3829483,Ángel Fabián Di María Hernández,Paris Saint-Germain,20.688644228175026,0.06520722847019012,True,Left Foot,Open Play,1,0,2,Lob
+3829483,Ezequiel Iván Lavezzi,Paris Saint-Germain,19.952944644838762,0.06560700522343943,False,Right Foot,Open Play,1,0,1,Normal
+3829483,Serge Aurier,Paris Saint-Germain,9.234717104492153,0.05732507072389883,True,Right Foot,Open Play,1,0,3,Overhead Kick

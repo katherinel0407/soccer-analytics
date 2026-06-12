@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.042791745233572,0.06169520131145671,False,Left Foot,Open Play,1,0,3,Volley
-22.563022847127556,0.05798471624090382,False,Left Foot,Open Play,0,0,1,Normal
-33.59345174286202,0.07493526256326687,False,Right Foot,Open Play,0,0,1,Normal
-28.30635970943632,0.06737413036099205,False,Right Foot,Free Kick,0,0,0,Normal
-34.985997198879446,0.07609345283722796,False,Left Foot,Open Play,0,0,0,Normal
-26.97647122957337,0.07039823583854142,False,Right Foot,Open Play,0,1,2,Normal
-28.119210515233174,0.058182973081092076,False,Left Foot,Free Kick,0,0,0,Normal
-16.65172663719892,0.052238526479356534,False,Head,Open Play,0,1,2,Normal
-6.449806198638836,0.05599205155579265,False,Head,Open Play,0,1,4,Normal
-19.307252523339514,0.06489308077529532,True,Right Foot,Open Play,1,0,2,Normal
-19.88617610301186,0.06115687280949653,False,Left Foot,Open Play,0,0,1,Normal
-20.781963333621775,0.05392587727209746,False,Right Foot,Open Play,0,0,2,Normal
-8.2,0.05853556284971418,False,Head,Open Play,0,0,3,Normal
-14.903019828209311,0.05635371649217999,False,Right Foot,Open Play,0,0,1,Normal
-23.576683396949623,0.06381321529331453,False,Right Foot,Open Play,0,0,1,Normal
-11.289818421923357,0.06053258805924161,False,Right Foot,Open Play,1,0,2,Volley
-17.58550539506897,0.05604633509832464,False,Right Foot,Open Play,0,0,1,Normal
-25.352711886502394,0.051120366000471144,False,Left Foot,Open Play,0,1,1,Normal
-27.212129648375555,0.06077959404973712,False,Right Foot,Open Play,1,0,1,Half Volley
-17.823860412379805,0.0642985366641527,True,Right Foot,Open Play,1,1,2,Half Volley
-20.379646709401023,0.06400941574921461,False,Right Foot,Open Play,0,0,2,Normal
-13.819189556555049,0.06187297377318653,True,Left Foot,Open Play,0,1,2,Normal
-30.127230207903285,0.07240843738940193,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879572,Federico Bernardeschi,Fiorentina,14.042791745233572,0.06169520131145671,False,Left Foot,Open Play,1,0,3,Volley
+3879572,Jakub Błaszczykowski,Fiorentina,22.563022847127556,0.05798471624090382,False,Left Foot,Open Play,0,0,1,Normal
+3879572,Marek Hamšík,Napoli,33.59345174286202,0.07493526256326687,False,Right Foot,Open Play,0,0,1,Normal
+3879572,Lorenzo Insigne,Napoli,28.30635970943632,0.06737413036099205,False,Right Foot,Free Kick,0,0,0,Normal
+3879572,Marcos Alonso Mendoza,Fiorentina,34.985997198879446,0.07609345283722796,False,Left Foot,Open Play,0,0,0,Normal
+3879572,Matías Vecino Falero,Fiorentina,26.97647122957337,0.07039823583854142,False,Right Foot,Open Play,0,1,2,Normal
+3879572,Marcos Alonso Mendoza,Fiorentina,28.119210515233174,0.058182973081092076,False,Left Foot,Free Kick,0,0,0,Normal
+3879572,Marcos Alonso Mendoza,Fiorentina,16.65172663719892,0.052238526479356534,False,Head,Open Play,0,1,2,Normal
+3879572,Gonzalo Gerardo Higuaín,Napoli,6.449806198638836,0.05599205155579265,False,Head,Open Play,0,1,4,Normal
+3879572,Lorenzo Insigne,Napoli,19.307252523339514,0.06489308077529532,True,Right Foot,Open Play,1,0,2,Normal
+3879572,Gonzalo Gerardo Higuaín,Napoli,19.88617610301186,0.06115687280949653,False,Left Foot,Open Play,0,0,1,Normal
+3879572,Allan Marques Loureiro,Napoli,20.781963333621775,0.05392587727209746,False,Right Foot,Open Play,0,0,2,Normal
+3879572,Raúl Albiol i Tortajada,Napoli,8.2,0.05853556284971418,False,Head,Open Play,0,0,3,Normal
+3879572,Nikola Kalinić,Fiorentina,14.903019828209311,0.05635371649217999,False,Right Foot,Open Play,0,0,1,Normal
+3879572,Nikola Kalinić,Fiorentina,23.576683396949623,0.06381321529331453,False,Right Foot,Open Play,0,0,1,Normal
+3879572,Gonzalo Javier Rodríguez,Fiorentina,11.289818421923357,0.06053258805924161,False,Right Foot,Open Play,1,0,2,Volley
+3879572,José María Callejón Bueno,Napoli,17.58550539506897,0.05604633509832464,False,Right Foot,Open Play,0,0,1,Normal
+3879572,Elseid Hysaj,Napoli,25.352711886502394,0.051120366000471144,False,Left Foot,Open Play,0,1,1,Normal
+3879572,José María Callejón Bueno,Napoli,27.212129648375555,0.06077959404973712,False,Right Foot,Open Play,1,0,1,Half Volley
+3879572,Nikola Kalinić,Fiorentina,17.823860412379805,0.0642985366641527,True,Right Foot,Open Play,1,1,2,Half Volley
+3879572,Gonzalo Gerardo Higuaín,Napoli,20.379646709401023,0.06400941574921461,False,Right Foot,Open Play,0,0,2,Normal
+3879572,Gonzalo Gerardo Higuaín,Napoli,13.819189556555049,0.06187297377318653,True,Left Foot,Open Play,0,1,2,Normal
+3879572,Omar El Kaddouri,Napoli,30.127230207903285,0.07240843738940193,False,Right Foot,Free Kick,0,0,0,Normal

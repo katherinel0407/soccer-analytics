@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.31372986032051,0.059123030149657065,False,Left Foot,Open Play,1,0,1,Half Volley
-26.043233286210835,0.06667344205490582,False,Right Foot,Open Play,0,1,1,Normal
-25.20019841191732,0.06558427398214263,False,Right Foot,Open Play,0,0,1,Normal
-12.006664815842907,0.05944760235620801,False,Left Foot,Open Play,0,0,2,Normal
-20.40049019018906,0.06516491946793125,False,Left Foot,Open Play,1,0,2,Normal
-28.7,0.06348088102758512,False,Right Foot,Open Play,1,0,1,Volley
-24.314810301542558,0.06305481930022136,False,Right Foot,Open Play,0,0,2,Normal
-21.11516043036377,0.06538405140285684,False,Left Foot,Open Play,0,0,2,Normal
-25.2857667473225,0.06318913380946696,False,Left Foot,Open Play,0,1,1,Half Volley
-24.995399576722107,0.068999799794018,False,Left Foot,Open Play,0,0,3,Normal
-20.115665537088255,0.0505705197511897,False,Right Foot,Open Play,0,0,2,Normal
-23.753947040439407,0.06705319950321448,False,Right Foot,Open Play,0,1,2,Normal
-20.16581265409356,0.06561502985839905,False,Right Foot,Open Play,0,1,2,Normal
-26.268802789621006,0.06883045130036244,False,Right Foot,Open Play,0,0,2,Normal
-20.961870145576228,0.05339584950042274,False,Right Foot,Open Play,0,0,1,Normal
-10.625441167311592,0.05974071036042974,False,Left Foot,Open Play,1,1,2,Half Volley
-29.74726878219243,0.07237632907029352,False,Right Foot,Open Play,0,0,0,Normal
-19.07799779851125,0.0636752511564542,True,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879845,Mohamed Salah,AS Roma,23.31372986032051,0.059123030149657065,False,Left Foot,Open Play,1,0,1,Half Volley
+3879845,Alessandro Florenzi,AS Roma,26.043233286210835,0.06667344205490582,False,Right Foot,Open Play,0,1,1,Normal
+3879845,Dries Mertens,Napoli,25.20019841191732,0.06558427398214263,False,Right Foot,Open Play,0,0,1,Normal
+3879845,Gonzalo Gerardo Higuaín,Napoli,12.006664815842907,0.05944760235620801,False,Left Foot,Open Play,0,0,2,Normal
+3879845,Mohamed Salah,AS Roma,20.40049019018906,0.06516491946793125,False,Left Foot,Open Play,1,0,2,Normal
+3879845,Miralem Pjanić,AS Roma,28.7,0.06348088102758512,False,Right Foot,Open Play,1,0,1,Volley
+3879845,Marek Hamšík,Napoli,24.314810301542558,0.06305481930022136,False,Right Foot,Open Play,0,0,2,Normal
+3879845,Marek Hamšík,Napoli,21.11516043036377,0.06538405140285684,False,Left Foot,Open Play,0,0,2,Normal
+3879845,Seydou Kéita,AS Roma,25.2857667473225,0.06318913380946696,False,Left Foot,Open Play,0,1,1,Half Volley
+3879845,Stephan El Shaarawy,AS Roma,24.995399576722107,0.068999799794018,False,Left Foot,Open Play,0,0,3,Normal
+3879845,Maicon Douglas Sisenando,AS Roma,20.115665537088255,0.0505705197511897,False,Right Foot,Open Play,0,0,2,Normal
+3879845,Stephan El Shaarawy,AS Roma,23.753947040439407,0.06705319950321448,False,Right Foot,Open Play,0,1,2,Normal
+3879845,Dries Mertens,Napoli,20.16581265409356,0.06561502985839905,False,Right Foot,Open Play,0,1,2,Normal
+3879845,Dries Mertens,Napoli,26.268802789621006,0.06883045130036244,False,Right Foot,Open Play,0,0,2,Normal
+3879845,José María Callejón Bueno,Napoli,20.961870145576228,0.05339584950042274,False,Right Foot,Open Play,0,0,1,Normal
+3879845,Gonzalo Gerardo Higuaín,Napoli,10.625441167311592,0.05974071036042974,False,Left Foot,Open Play,1,1,2,Half Volley
+3879845,Lorenzo Insigne,Napoli,29.74726878219243,0.07237632907029352,False,Right Foot,Open Play,0,0,0,Normal
+3879845,Radja Nainggolan,AS Roma,19.07799779851125,0.0636752511564542,True,Right Foot,Open Play,1,0,1,Normal

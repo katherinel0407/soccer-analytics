@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.736447866897763,0.06068109959031635,False,Right Foot,Open Play,1,0,0,Normal
-13.170041761513136,0.052868390824553343,False,Right Foot,Open Play,0,0,2,Half Volley
-20.50219500443794,0.06318945852351268,False,Right Foot,Open Play,0,0,1,Normal
-30.15824928605771,0.05976494837022801,False,Left Foot,Open Play,0,0,1,Normal
-10.375451797391763,0.05688231761357689,False,Right Foot,Open Play,0,1,4,Half Volley
-11.194641575325226,0.060420781510273455,True,Head,Open Play,0,0,2,Normal
-12.095040305844378,0.05393592161423079,False,Head,Open Play,0,0,1,Normal
-9.58801335001157,0.0593285824404823,False,Head,Open Play,0,0,2,Normal
-11.634861408714753,0.05910256400917105,False,Left Foot,Open Play,0,0,4,Normal
-21.246176126540977,0.06624412075703327,False,Left Foot,Open Play,0,1,3,Normal
-1.769180601295413,0.054963603648181675,True,Other,Open Play,0,0,3,Normal
-14.821943192442752,0.056319169677856745,False,Left Foot,Open Play,1,0,1,Volley
-7.402702209328698,0.05560762449574966,False,Head,Open Play,0,0,2,Normal
-8.919641248391109,0.05710388212875015,True,Head,Open Play,0,0,1,Normal
-31.01548000595831,0.07319284561241055,False,Right Foot,Open Play,0,0,1,Normal
-23.623081932719963,0.06705051460609604,False,Right Foot,Open Play,1,0,2,Normal
-8.633075929238666,0.05713032142538238,False,Head,Open Play,0,0,3,Normal
-27.05124766069025,0.0565347638659798,False,Left Foot,Open Play,0,0,2,Normal
-11.815244390193541,0.06026098627767474,False,Left Foot,Open Play,1,0,3,Volley
-15.763248396190424,0.05383481325017754,False,Right Foot,Open Play,0,1,2,Half Volley
-7.083078426785918,0.05802117870075057,True,Head,Open Play,0,1,3,Normal
-34.16957711181102,0.06783326185118337,False,Right Foot,Open Play,0,0,2,Normal
-13.875157656761964,0.06148487643454898,False,Right Foot,Open Play,0,0,4,Normal
-17.561605849124383,0.060132606652105965,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754112,Georginio Wijnaldum,Newcastle United,13.736447866897763,0.06068109959031635,False,Right Foot,Open Play,1,0,0,Normal
+3754112,Cédric Ricardo Alves Soares,Southampton,13.170041761513136,0.052868390824553343,False,Right Foot,Open Play,0,0,2,Half Volley
+3754112,Papiss Demba Cissé,Newcastle United,20.50219500443794,0.06318945852351268,False,Right Foot,Open Play,0,0,1,Normal
+3754112,Dušan Tadić,Southampton,30.15824928605771,0.05976494837022801,False,Left Foot,Open Play,0,0,1,Normal
+3754112,Fabricio Coloccini,Newcastle United,10.375451797391763,0.05688231761357689,False,Right Foot,Open Play,0,1,4,Half Volley
+3754112,Graziano Pellè,Southampton,11.194641575325226,0.060420781510273455,True,Head,Open Play,0,0,2,Normal
+3754112,Papiss Demba Cissé,Newcastle United,12.095040305844378,0.05393592161423079,False,Head,Open Play,0,0,1,Normal
+3754112,Jay Rodriguez,Southampton,9.58801335001157,0.0593285824404823,False,Head,Open Play,0,0,2,Normal
+3754112,Fabricio Coloccini,Newcastle United,11.634861408714753,0.05910256400917105,False,Left Foot,Open Play,0,0,4,Normal
+3754112,Sadio Mané,Southampton,21.246176126540977,0.06624412075703327,False,Left Foot,Open Play,0,1,3,Normal
+3754112,Papiss Demba Cissé,Newcastle United,1.769180601295413,0.054963603648181675,True,Other,Open Play,0,0,3,Normal
+3754112,Dušan Tadić,Southampton,14.821943192442752,0.056319169677856745,False,Left Foot,Open Play,1,0,1,Volley
+3754112,Maya Yoshida,Southampton,7.402702209328698,0.05560762449574966,False,Head,Open Play,0,0,2,Normal
+3754112,Georginio Wijnaldum,Newcastle United,8.919641248391109,0.05710388212875015,True,Head,Open Play,0,0,1,Normal
+3754112,Gabriel Antoine Obertan,Newcastle United,31.01548000595831,0.07319284561241055,False,Right Foot,Open Play,0,0,1,Normal
+3754112,Vurnon Anita,Newcastle United,23.623081932719963,0.06705051460609604,False,Right Foot,Open Play,1,0,2,Normal
+3754112,José Miguel da Rocha Fonte,Southampton,8.633075929238666,0.05713032142538238,False,Head,Open Play,0,0,3,Normal
+3754112,Dušan Tadić,Southampton,27.05124766069025,0.0565347638659798,False,Left Foot,Open Play,0,0,2,Normal
+3754112,Papiss Demba Cissé,Newcastle United,11.815244390193541,0.06026098627767474,False,Left Foot,Open Play,1,0,3,Volley
+3754112,Graziano Pellè,Southampton,15.763248396190424,0.05383481325017754,False,Right Foot,Open Play,0,1,2,Half Volley
+3754112,Shane Long,Southampton,7.083078426785918,0.05802117870075057,True,Head,Open Play,0,1,3,Normal
+3754112,Shane Long,Southampton,34.16957711181102,0.06783326185118337,False,Right Foot,Open Play,0,0,2,Normal
+3754112,Sadio Mané,Southampton,13.875157656761964,0.06148487643454898,False,Right Foot,Open Play,0,0,4,Normal
+3754112,Sadio Mané,Southampton,17.561605849124383,0.060132606652105965,False,Left Foot,Open Play,0,0,2,Normal

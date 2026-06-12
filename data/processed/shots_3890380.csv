@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.911584478250995,0.057388026263746665,True,Head,Open Play,0,1,8,Normal
-32.41866746181898,0.06978639628481009,False,Right Foot,Open Play,0,0,1,Normal
-55.7000897665345,0.04772770149334978,False,Right Foot,Free Kick,0,0,0,Normal
-20.803124765284654,0.06462426580888259,False,Right Foot,Open Play,0,1,2,Half Volley
-7.151223671512452,0.05662910070504932,True,Head,Open Play,0,0,0,Normal
-24.46078494243388,0.06643531502878536,True,Right Foot,Open Play,0,0,2,Normal
-18.6077940659284,0.06457499007616511,False,Right Foot,Open Play,1,0,1,Normal
-11.300000000000002,0.058724568201778585,False,Head,Open Play,0,1,2,Normal
-34.035863438437985,0.0673608852135294,False,Right Foot,Open Play,0,1,1,Half Volley
-32.06696119060863,0.05705404838041054,False,Right Foot,Open Play,1,1,2,Half Volley
-10.846658471621572,0.05983934595576309,False,Head,Open Play,0,1,2,Normal
-16.401524319403975,0.05431176536980802,False,Right Foot,Open Play,0,0,3,Normal
-19.541238445912274,0.06530624971442686,False,Right Foot,Open Play,0,0,2,Normal
-29.36153946917634,0.07161821844156702,False,Right Foot,Open Play,1,0,0,Normal
-28.166114393007778,0.05993057732326173,False,Right Foot,Open Play,0,0,1,Normal
-8.73212459828649,0.05483948549819095,False,Head,Open Play,0,0,1,Normal
-18.66815470259447,0.05701999573705398,True,Right Foot,Open Play,0,1,1,Normal
-20.693960471596537,0.06609359207619289,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890380,Marcelo Antônio Guedes Filho,Hannover 96,6.911584478250995,0.057388026263746665,True,Head,Open Play,0,1,8,Normal
+3890380,Moritz Hartmann,Ingolstadt,32.41866746181898,0.06978639628481009,False,Right Foot,Open Play,0,0,1,Normal
+3890380,Pascal Groß,Ingolstadt,55.7000897665345,0.04772770149334978,False,Right Foot,Free Kick,0,0,0,Normal
+3890380,Moritz Hartmann,Ingolstadt,20.803124765284654,0.06462426580888259,False,Right Foot,Open Play,0,1,2,Half Volley
+3890380,Leon Andreasen,Hannover 96,7.151223671512452,0.05662910070504932,True,Head,Open Play,0,0,0,Normal
+3890380,Kenan Karaman,Hannover 96,24.46078494243388,0.06643531502878536,True,Right Foot,Open Play,0,0,2,Normal
+3890380,Pascal Groß,Ingolstadt,18.6077940659284,0.06457499007616511,False,Right Foot,Open Play,1,0,1,Normal
+3890380,Tomáš Pekhart,Ingolstadt,11.300000000000002,0.058724568201778585,False,Head,Open Play,0,1,2,Normal
+3890380,Pascal Groß,Ingolstadt,34.035863438437985,0.0673608852135294,False,Right Foot,Open Play,0,1,1,Half Volley
+3890380,Leon Andreasen,Hannover 96,32.06696119060863,0.05705404838041054,False,Right Foot,Open Play,1,1,2,Half Volley
+3890380,Artur Sobiech,Hannover 96,10.846658471621572,0.05983934595576309,False,Head,Open Play,0,1,2,Normal
+3890380,Alfredo Morales,Ingolstadt,16.401524319403975,0.05431176536980802,False,Right Foot,Open Play,0,0,3,Normal
+3890380,Leon Andreasen,Hannover 96,19.541238445912274,0.06530624971442686,False,Right Foot,Open Play,0,0,2,Normal
+3890380,Pascal Groß,Ingolstadt,29.36153946917634,0.07161821844156702,False,Right Foot,Open Play,1,0,0,Normal
+3890380,Pascal Groß,Ingolstadt,28.166114393007778,0.05993057732326173,False,Right Foot,Open Play,0,0,1,Normal
+3890380,Charlison Benschop,Hannover 96,8.73212459828649,0.05483948549819095,False,Head,Open Play,0,0,1,Normal
+3890380,Uffe Manich Bech,Hannover 96,18.66815470259447,0.05701999573705398,True,Right Foot,Open Play,0,1,1,Normal
+3890380,Alfredo Morales,Ingolstadt,20.693960471596537,0.06609359207619289,False,Right Foot,Open Play,0,0,2,Normal

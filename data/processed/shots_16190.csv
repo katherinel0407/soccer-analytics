@@ -1,32 +1,32 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-29.313819266687176,0.07199393090567843,False,Right Foot,Open Play,0,0,1,Normal
-19.052034012146837,0.06445635005103631,False,Left Foot,Open Play,0,0,3,Half Volley
-29.705891671518632,0.07199690558745721,False,Right Foot,Open Play,0,1,2,Normal
-29.115803269015263,0.052805183240133835,False,Left Foot,Free Kick,0,0,0,Normal
-14.64923206178399,0.06192236418475913,False,Right Foot,Open Play,0,0,2,Normal
-16.383528313522707,0.05607137232463744,True,Right Foot,Open Play,0,1,1,Normal
-12.808200498118385,0.058235971216641154,False,Head,Open Play,0,0,2,Normal
-14.627713423498555,0.06035059696680944,True,Left Foot,Open Play,1,0,1,Volley
-17.670880000724356,0.06297645083451783,False,Left Foot,Open Play,1,0,1,Half Volley
-12.010412149464308,0.05461151039691637,True,Right Foot,Open Play,1,0,1,Normal
-19.465353837010003,0.06519677464011696,False,Right Foot,Open Play,0,0,3,Normal
-5.885575587824862,0.053569314275845346,False,Head,Open Play,0,0,2,Normal
-25.672748197261622,0.05445796180216492,False,Right Foot,Open Play,1,0,2,Normal
-10.223991392797632,0.05860338765650537,False,Right Foot,Open Play,1,0,2,Half Volley
-21.920310216782973,0.05463452112515017,False,Left Foot,Open Play,0,0,1,Normal
-21.213674834879498,0.0659821116323837,False,Left Foot,Open Play,0,0,3,Normal
-28.30194339616982,0.06073246712562074,False,Left Foot,Open Play,0,0,0,Normal
-19.448650338776723,0.053225736235681435,False,Right Foot,Open Play,1,0,2,Lob
-16.954055562018194,0.059355612016902676,True,Right Foot,Open Play,0,0,2,Normal
-24.515301344262532,0.05516626227563402,False,Left Foot,Open Play,0,0,3,Normal
-10.34794665622122,0.05487269554756937,False,Right Foot,Open Play,1,0,2,Normal
-25.58534736914861,0.05915236158314735,False,Right Foot,Open Play,0,0,1,Normal
-22.21936092690336,0.06510148216579074,False,Left Foot,Open Play,0,1,0,Normal
-20.335437049643172,0.06545780604057544,False,Left Foot,Open Play,1,0,2,Overhead Kick
-22.93686988235318,0.0650406567145027,False,Left Foot,Open Play,1,0,0,Volley
-22.823233776132597,0.061385768527545355,False,Left Foot,Open Play,0,0,1,Normal
-9.625487000666508,0.05953912802106489,True,Left Foot,Open Play,1,0,2,Lob
-7.615773105863909,0.05386420335801105,False,Right Foot,Open Play,1,0,2,Volley
-11.19464157532522,0.06022921634896534,False,Head,Open Play,0,1,3,Normal
-10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,1,1,3,Half Volley
-15.431461369552784,0.06267558274125469,True,Right Foot,Open Play,1,0,1,Lob
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16190,Marko Rog,Sevilla,29.313819266687176,0.07199393090567843,False,Right Foot,Open Play,0,0,1,Normal
+16190,Lionel Andrés Messi Cuccittini,Barcelona,19.052034012146837,0.06445635005103631,False,Left Foot,Open Play,0,0,3,Half Volley
+16190,Philippe Coutinho Correia,Barcelona,29.705891671518632,0.07199690558745721,False,Right Foot,Open Play,0,1,2,Normal
+16190,Pablo Sarabia García,Sevilla,29.115803269015263,0.052805183240133835,False,Left Foot,Free Kick,0,0,0,Normal
+16190,Wissam Ben Yedder,Sevilla,14.64923206178399,0.06192236418475913,False,Right Foot,Open Play,0,0,2,Normal
+16190,Jesús Navas González,Sevilla,16.383528313522707,0.05607137232463744,True,Right Foot,Open Play,0,1,1,Normal
+16190,Arturo Erasmo Vidal Pardo,Barcelona,12.808200498118385,0.058235971216641154,False,Head,Open Play,0,0,2,Normal
+16190,Lionel Andrés Messi Cuccittini,Barcelona,14.627713423498555,0.06035059696680944,True,Left Foot,Open Play,1,0,1,Volley
+16190,Quincy Anton Promes,Sevilla,17.670880000724356,0.06297645083451783,False,Left Foot,Open Play,1,0,1,Half Volley
+16190,Gabriel Iván Mercado,Sevilla,12.010412149464308,0.05461151039691637,True,Right Foot,Open Play,1,0,1,Normal
+16190,Philippe Coutinho Correia,Barcelona,19.465353837010003,0.06519677464011696,False,Right Foot,Open Play,0,0,3,Normal
+16190,Simon Thorup Kjær,Sevilla,5.885575587824862,0.053569314275845346,False,Head,Open Play,0,0,2,Normal
+16190,Gabriel Iván Mercado,Sevilla,25.672748197261622,0.05445796180216492,False,Right Foot,Open Play,1,0,2,Normal
+16190,Ousmane Dembélé,Barcelona,10.223991392797632,0.05860338765650537,False,Right Foot,Open Play,1,0,2,Half Volley
+16190,Pablo Sarabia García,Sevilla,21.920310216782973,0.05463452112515017,False,Left Foot,Open Play,0,0,1,Normal
+16190,Lionel Andrés Messi Cuccittini,Barcelona,21.213674834879498,0.0659821116323837,False,Left Foot,Open Play,0,0,3,Normal
+16190,Ivan Rakitić,Barcelona,28.30194339616982,0.06073246712562074,False,Left Foot,Open Play,0,0,0,Normal
+16190,Luis Alberto Suárez Díaz,Barcelona,19.448650338776723,0.053225736235681435,False,Right Foot,Open Play,1,0,2,Lob
+16190,Lionel Andrés Messi Cuccittini,Barcelona,16.954055562018194,0.059355612016902676,True,Right Foot,Open Play,0,0,2,Normal
+16190,Lionel Andrés Messi Cuccittini,Barcelona,24.515301344262532,0.05516626227563402,False,Left Foot,Open Play,0,0,3,Normal
+16190,Wissam Ben Yedder,Sevilla,10.34794665622122,0.05487269554756937,False,Right Foot,Open Play,1,0,2,Normal
+16190,Éver Maximiliano David Banega,Sevilla,25.58534736914861,0.05915236158314735,False,Right Foot,Open Play,0,0,1,Normal
+16190,Lionel Andrés Messi Cuccittini,Barcelona,22.21936092690336,0.06510148216579074,False,Left Foot,Open Play,0,1,0,Normal
+16190,Lionel Andrés Messi Cuccittini,Barcelona,20.335437049643172,0.06545780604057544,False,Left Foot,Open Play,1,0,2,Overhead Kick
+16190,Carles Aleña Castillo,Barcelona,22.93686988235318,0.0650406567145027,False,Left Foot,Open Play,1,0,0,Volley
+16190,Carles Aleña Castillo,Barcelona,22.823233776132597,0.061385768527545355,False,Left Foot,Open Play,0,0,1,Normal
+16190,Lionel Andrés Messi Cuccittini,Barcelona,9.625487000666508,0.05953912802106489,True,Left Foot,Open Play,1,0,2,Lob
+16190,Wissam Ben Yedder,Sevilla,7.615773105863909,0.05386420335801105,False,Right Foot,Open Play,1,0,2,Volley
+16190,Sergi Gómez Solà,Sevilla,11.19464157532522,0.06022921634896534,False,Head,Open Play,0,1,3,Normal
+16190,Franco Damián Vázquez,Sevilla,10.770329614269007,0.057358586558931925,False,Right Foot,Open Play,1,1,3,Half Volley
+16190,Luis Alberto Suárez Díaz,Barcelona,15.431461369552784,0.06267558274125469,True,Right Foot,Open Play,1,0,1,Lob

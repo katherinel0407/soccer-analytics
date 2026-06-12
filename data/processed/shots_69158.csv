@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.731905245200796,0.06746050853356139,False,Right Foot,Open Play,0,0,0,Normal
-19.840362899906843,0.0655002480118086,False,Right Foot,Open Play,0,0,2,Normal
-16.493938280471408,0.06333380532148974,False,Left Foot,Open Play,0,0,3,Normal
-32.57514389837749,0.06429100124146508,False,Right Foot,Open Play,0,0,1,Normal
-8.805112151472004,0.058175279158456085,False,Head,Open Play,0,1,4,Normal
-17.492855684535904,0.06388879287194718,False,Left Foot,Open Play,1,0,3,Volley
-29.867038688159226,0.07173740507469219,False,Right Foot,Free Kick,0,0,0,Normal
-15.966527487215247,0.05765572439222123,False,Left Foot,Open Play,0,1,2,Normal
-10.744766167767455,0.05984397236023219,True,Right Foot,Open Play,1,0,1,Volley
-24.410653411983876,0.06348891886713143,False,Right Foot,Open Play,1,0,1,Volley
-34.586268951709734,0.0599413525761253,False,Right Foot,Open Play,0,0,0,Normal
-10.373041983911948,0.057497012492115876,False,Head,Open Play,0,0,2,Normal
-17.07629936490925,0.06121666958197328,False,Left Foot,Open Play,1,0,0,Normal
-22.88776965979866,0.06723922183086978,False,Left Foot,Open Play,1,0,0,Half Volley
-20.70990101376634,0.0660191778628202,False,Right Foot,Open Play,1,0,1,Half Volley
-19.942417105255817,0.06525385436627526,False,Right Foot,Open Play,0,0,2,Normal
-19.246298345396184,0.05523131413675073,False,Left Foot,Open Play,1,1,1,Half Volley
-9.291393867445295,0.05887091516288572,False,Head,Open Play,0,1,5,Normal
-19.70609042910338,0.05730998189588886,False,Right Foot,Open Play,0,0,2,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-15.246311029229325,0.06257961352233551,False,Left Foot,Open Play,1,0,2,Volley
-15.340469353966975,0.062185591627943584,False,Left Foot,Open Play,0,1,1,Normal
-14.564683312726025,0.061476833424955274,False,Left Foot,Open Play,0,0,1,Normal
-19.24214125298949,0.06519217886562609,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69158,Gnégnéri Yaya Touré,Barcelona,30.731905245200796,0.06746050853356139,False,Right Foot,Open Play,0,0,0,Normal
+69158,Ronaldo de Assis Moreira,Barcelona,19.840362899906843,0.0655002480118086,False,Right Foot,Open Play,0,0,2,Normal
+69158,Álvaro Negredo Sánchez,Almería,16.493938280471408,0.06333380532148974,False,Left Foot,Open Play,0,0,3,Normal
+69158,Fernando Soriano Marco,Almería,32.57514389837749,0.06429100124146508,False,Right Foot,Open Play,0,0,1,Normal
+69158,Gabriel Alejandro Milito,Barcelona,8.805112151472004,0.058175279158456085,False,Head,Open Play,0,1,4,Normal
+69158,Gabriel Alejandro Milito,Barcelona,17.492855684535904,0.06388879287194718,False,Left Foot,Open Play,1,0,3,Volley
+69158,Ronaldo de Assis Moreira,Barcelona,29.867038688159226,0.07173740507469219,False,Right Foot,Free Kick,0,0,0,Normal
+69158,Giovani dos Santos Ramírez,Barcelona,15.966527487215247,0.05765572439222123,False,Left Foot,Open Play,0,1,2,Normal
+69158,Thierry Henry,Barcelona,10.744766167767455,0.05984397236023219,True,Right Foot,Open Play,1,0,1,Volley
+69158,Gianluca Zambrotta,Barcelona,24.410653411983876,0.06348891886713143,False,Right Foot,Open Play,1,0,1,Volley
+69158,Fernando Soriano Marco,Almería,34.586268951709734,0.0599413525761253,False,Right Foot,Open Play,0,0,0,Normal
+69158,Albert Crusat Domene,Almería,10.373041983911948,0.057497012492115876,False,Head,Open Play,0,0,2,Normal
+69158,Thierry Henry,Barcelona,17.07629936490925,0.06121666958197328,False,Left Foot,Open Play,1,0,0,Normal
+69158,Andrés Iniesta Luján,Barcelona,22.88776965979866,0.06723922183086978,False,Left Foot,Open Play,1,0,0,Half Volley
+69158,Xavier Hernández Creus,Barcelona,20.70990101376634,0.0660191778628202,False,Right Foot,Open Play,1,0,1,Half Volley
+69158,Andrés Iniesta Luján,Barcelona,19.942417105255817,0.06525385436627526,False,Right Foot,Open Play,0,0,2,Normal
+69158,Giovani dos Santos Ramírez,Barcelona,19.246298345396184,0.05523131413675073,False,Left Foot,Open Play,1,1,1,Half Volley
+69158,Rafael Márquez Álvarez,Barcelona,9.291393867445295,0.05887091516288572,False,Head,Open Play,0,1,5,Normal
+69158,José Ortiz Bernal,Almería,19.70609042910338,0.05730998189588886,False,Right Foot,Open Play,0,0,2,Normal
+69158,Lionel Andrés Messi Cuccittini,Barcelona,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+69158,Álvaro Negredo Sánchez,Almería,15.246311029229325,0.06257961352233551,False,Left Foot,Open Play,1,0,2,Volley
+69158,Giovani dos Santos Ramírez,Barcelona,15.340469353966975,0.062185591627943584,False,Left Foot,Open Play,0,1,1,Normal
+69158,Thierry Henry,Barcelona,14.564683312726025,0.061476833424955274,False,Left Foot,Open Play,0,0,1,Normal
+69158,Thierry Henry,Barcelona,19.24214125298949,0.06519217886562609,False,Right Foot,Open Play,0,0,2,Normal

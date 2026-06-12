@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.420332093147057,0.05734598640722366,True,Right Foot,Open Play,1,0,3,Normal
-15.400000000000006,0.06104207743120745,False,Right Foot,Open Play,0,0,3,Normal
-22.29282395749807,0.054130744089542174,False,Right Foot,Open Play,1,0,1,Normal
-34.409301068170514,0.06967427370955741,False,Right Foot,Free Kick,0,0,0,Normal
-17.640861656959956,0.05692195184467749,True,Right Foot,Open Play,1,0,1,Lob
-10.29028668210949,0.05999197460569819,False,Right Foot,Open Play,1,0,3,Volley
-12.220065466273079,0.056084474044351476,True,Left Foot,Open Play,0,0,2,Normal
-10.655045753069295,0.05949364299733551,False,Left Foot,Open Play,0,0,2,Half Volley
-16.752313273097542,0.05338114675371931,False,Left Foot,Open Play,0,0,2,Normal
-18.431766057543154,0.06322763756179818,False,Right Foot,Open Play,0,0,2,Normal
-28.87663415289255,0.060748416893035104,False,Right Foot,Open Play,0,0,1,Normal
-33.75751768125139,0.0725838166994772,False,Right Foot,Open Play,1,0,0,Normal
-27.120471972294283,0.05599440360505669,False,Left Foot,Open Play,0,0,1,Normal
-23.3111561274854,0.06686458133661678,False,Left Foot,Open Play,0,0,1,Normal
-26.665520808714767,0.06915161642301837,False,Left Foot,Open Play,1,0,0,Half Volley
-24.347689828811276,0.06688058465710818,False,Left Foot,Open Play,1,0,0,Volley
-11.947384651043924,0.05457860766910147,False,Left Foot,Open Play,0,0,1,Normal
-14.693195704134617,0.05799769330797036,False,Right Foot,Open Play,1,0,1,Volley
-26.800186566514796,0.06001954319819321,False,Left Foot,Open Play,1,0,2,Normal
-22.435685859808252,0.0659717564072252,False,Head,Open Play,0,1,1,Normal
-5.420332093147057,0.05747229684237147,False,Right Foot,Open Play,1,0,2,Volley
-24.819548746905124,0.05434725526014433,False,Right Foot,Open Play,0,0,2,Normal
-14.317821063276353,0.053177275334947004,False,Right Foot,Open Play,0,0,2,Normal
-15.469324484281785,0.05825825609200094,False,Head,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+68327,Samuel Eto''o Fils,Barcelona,5.420332093147057,0.05734598640722366,True,Right Foot,Open Play,1,0,3,Normal
+68327,Samuel Eto''o Fils,Barcelona,15.400000000000006,0.06104207743120745,False,Right Foot,Open Play,0,0,3,Normal
+68327,Samuel Eto''o Fils,Barcelona,22.29282395749807,0.054130744089542174,False,Right Foot,Open Play,1,0,1,Normal
+68327,Rafael Márquez Álvarez,Barcelona,34.409301068170514,0.06967427370955741,False,Right Foot,Free Kick,0,0,0,Normal
+68327,Samuel Eto''o Fils,Barcelona,17.640861656959956,0.05692195184467749,True,Right Foot,Open Play,1,0,1,Lob
+68327,Rafael Márquez Álvarez,Barcelona,10.29028668210949,0.05999197460569819,False,Right Foot,Open Play,1,0,3,Volley
+68327,Lionel Andrés Messi Cuccittini,Barcelona,12.220065466273079,0.056084474044351476,True,Left Foot,Open Play,0,0,2,Normal
+68327,Samuel Eto''o Fils,Barcelona,10.655045753069295,0.05949364299733551,False,Left Foot,Open Play,0,0,2,Half Volley
+68327,Samuel Eto''o Fils,Barcelona,16.752313273097542,0.05338114675371931,False,Left Foot,Open Play,0,0,2,Normal
+68327,Samuel Eto''o Fils,Barcelona,18.431766057543154,0.06322763756179818,False,Right Foot,Open Play,0,0,2,Normal
+68327,Raúl García Escudero,Osasuna,28.87663415289255,0.060748416893035104,False,Right Foot,Open Play,0,0,1,Normal
+68327,José Edmílson Gomes de Moraes,Barcelona,33.75751768125139,0.0725838166994772,False,Right Foot,Open Play,1,0,0,Normal
+68327,Gianluca Zambrotta,Barcelona,27.120471972294283,0.05599440360505669,False,Left Foot,Open Play,0,0,1,Normal
+68327,Ludovic Delporte,Osasuna,23.3111561274854,0.06686458133661678,False,Left Foot,Open Play,0,0,1,Normal
+68327,Ludovic Delporte,Osasuna,26.665520808714767,0.06915161642301837,False,Left Foot,Open Play,1,0,0,Half Volley
+68327,Ludovic Delporte,Osasuna,24.347689828811276,0.06688058465710818,False,Left Foot,Open Play,1,0,0,Volley
+68327,Lionel Andrés Messi Cuccittini,Barcelona,11.947384651043924,0.05457860766910147,False,Left Foot,Open Play,0,0,1,Normal
+68327,Roberto Soldado Rillo,Osasuna,14.693195704134617,0.05799769330797036,False,Right Foot,Open Play,1,0,1,Volley
+68327,Andrés Iniesta Luján,Barcelona,26.800186566514796,0.06001954319819321,False,Left Foot,Open Play,1,0,2,Normal
+68327,Raúl García Escudero,Osasuna,22.435685859808252,0.0659717564072252,False,Head,Open Play,0,1,1,Normal
+68327,Ludovic Giuly,Barcelona,5.420332093147057,0.05747229684237147,False,Right Foot,Open Play,1,0,2,Volley
+68327,Valmiro Lópes Rocha,Osasuna,24.819548746905124,0.05434725526014433,False,Right Foot,Open Play,0,0,2,Normal
+68327,Valmiro Lópes Rocha,Osasuna,14.317821063276353,0.053177275334947004,False,Right Foot,Open Play,0,0,2,Normal
+68327,Ludovic Giuly,Barcelona,15.469324484281785,0.05825825609200094,False,Head,Open Play,0,0,0,Normal

@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-36.49657518178932,0.07485798833904092,False,Right Foot,Free Kick,0,0,0,Normal
-25.495097567963924,0.06782847153348155,False,Left Foot,Open Play,1,0,0,Half Volley
-12.727922061357855,0.05518504660009867,False,Head,Open Play,0,0,0,Diving Header
-19.924858845171276,0.06001754119593364,False,Left Foot,Open Play,0,0,3,Volley
-22.47220505424423,0.05986089032781617,False,Right Foot,Open Play,0,1,2,Normal
-6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,8,Normal
-31.11269837220809,0.05334577547530407,False,Right Foot,Open Play,0,0,1,Normal
-25.0,0.061501761444683875,False,Right Foot,Free Kick,0,0,0,Normal
-12.083045973594572,0.060866000238953805,False,Left Foot,Open Play,0,0,3,Volley
-12.0,0.05959154427448477,False,Right Foot,Open Play,0,0,3,Half Volley
-14.7648230602334,0.05309371146959412,False,Right Foot,Open Play,1,0,1,Volley
-7.0,0.05755567023984417,True,Right Foot,Open Play,0,0,0,Normal
-28.635642126552707,0.06364678565071621,False,Right Foot,Open Play,0,0,2,Normal
-7.211102550927978,0.05452150131035393,False,Left Foot,Open Play,1,0,2,Normal
-10.295630140987,0.056629711407834134,False,Head,Open Play,0,1,2,Normal
-6.082762530298219,0.057472679332615344,True,Head,Open Play,0,0,2,Diving Header
-32.0624390837628,0.07009617039243426,False,Left Foot,Open Play,0,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7539,Salif Sané,Senegal,36.49657518178932,0.07485798833904092,False,Right Foot,Free Kick,0,0,0,Normal
+7539,Piotr Zieliński,Poland,25.495097567963924,0.06782847153348155,False,Left Foot,Open Play,1,0,0,Half Volley
+7539,Kamil Grosicki,Poland,12.727922061357855,0.05518504660009867,False,Head,Open Play,0,0,0,Diving Header
+7539,Robert Lewandowski,Poland,19.924858845171276,0.06001754119593364,False,Left Foot,Open Play,0,0,3,Volley
+7539,Idrissa Gana Gueye,Senegal,22.47220505424423,0.05986089032781617,False,Right Foot,Open Play,0,1,2,Normal
+7539,Salif Sané,Senegal,6.708203932499369,0.056204379769354176,False,Head,Open Play,0,0,8,Normal
+7539,Idrissa Gana Gueye,Senegal,31.11269837220809,0.05334577547530407,False,Right Foot,Open Play,0,0,1,Normal
+7539,Robert Lewandowski,Poland,25.0,0.061501761444683875,False,Right Foot,Free Kick,0,0,0,Normal
+7539,Sadio Mané,Senegal,12.083045973594572,0.060866000238953805,False,Left Foot,Open Play,0,0,3,Volley
+7539,Mame Biram Diouf,Senegal,12.0,0.05959154427448477,False,Right Foot,Open Play,0,0,3,Half Volley
+7539,Łukasz Piszczek,Poland,14.7648230602334,0.05309371146959412,False,Right Foot,Open Play,1,0,1,Volley
+7539,M'Baye Babacar Niang,Senegal,7.0,0.05755567023984417,True,Right Foot,Open Play,0,0,0,Normal
+7539,Kamil Grosicki,Poland,28.635642126552707,0.06364678565071621,False,Right Foot,Open Play,0,0,2,Normal
+7539,Arkadiusz Milik,Poland,7.211102550927978,0.05452150131035393,False,Left Foot,Open Play,1,0,2,Normal
+7539,Dawid Kownacki,Poland,10.295630140987,0.056629711407834134,False,Head,Open Play,0,1,2,Normal
+7539,Grzegorz Krychowiak,Poland,6.082762530298219,0.057472679332615344,True,Head,Open Play,0,0,2,Diving Header
+7539,Kamil Grosicki,Poland,32.0624390837628,0.07009617039243426,False,Left Foot,Open Play,0,0,2,Half Volley

@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-11.555085460523431,0.05955122734244954,False,Left Foot,Open Play,1,0,1,Half Volley
-24.316660954991338,0.05572825701770784,False,Left Foot,Open Play,0,0,2,Normal
-11.241441188744437,0.05435352859236867,False,Right Foot,Open Play,1,0,2,Normal
-9.525754563287887,0.058321131380799036,False,Head,Open Play,0,1,5,Normal
-8.246211251235321,0.058599252830825864,True,Head,Open Play,0,1,2,Normal
-15.970597985047403,0.061844709967970514,True,Left Foot,Open Play,1,0,2,Half Volley
-9.425497334358543,0.057401647259466525,True,Right Foot,Open Play,1,0,3,Volley
-16.198765385053264,0.056834609156392664,False,Right Foot,Open Play,1,0,1,Volley
-28.853076092507013,0.07169183156234527,False,Right Foot,Free Kick,0,0,0,Normal
-26.653705183332388,0.0701353670601173,False,Left Foot,Open Play,1,0,1,Normal
-36.47862387755328,0.07404435362065649,False,Right Foot,Open Play,0,0,0,Normal
-15.993123522314209,0.05824646182567487,True,Left Foot,Open Play,0,0,3,Normal
-13.041855696180662,0.055998713396226266,True,Right Foot,Open Play,1,1,2,Normal
-18.208239892971534,0.06443212283256697,False,Right Foot,Open Play,0,0,3,Normal
-22.800877176108823,0.06641988174710965,False,Left Foot,Open Play,1,0,1,Volley
-12.860015552090129,0.05611093749816399,True,Left Foot,Open Play,0,0,2,Normal
-20.860728654579642,0.054843220428666684,False,Right Foot,Open Play,1,1,1,Half Volley
-15.634896865665606,0.055336729306306016,False,Left Foot,Open Play,0,0,3,Normal
-8.000624975587845,0.057986494915723066,True,Right Foot,Open Play,1,0,1,Normal
-13.155227098001763,0.06134911374398582,False,Right Foot,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857271,Harry Maguire,England,11.555085460523431,0.05955122734244954,False,Left Foot,Open Play,1,0,1,Half Volley
+3857271,Bukayo Saka,England,24.316660954991338,0.05572825701770784,False,Left Foot,Open Play,0,0,2,Normal
+3857271,Mason Mount,England,11.241441188744437,0.05435352859236867,False,Right Foot,Open Play,1,0,2,Normal
+3857271,Harry Maguire,England,9.525754563287887,0.058321131380799036,False,Head,Open Play,0,1,5,Normal
+3857271,Jude Bellingham,England,8.246211251235321,0.058599252830825864,True,Head,Open Play,0,1,2,Normal
+3857271,Bukayo Saka,England,15.970597985047403,0.061844709967970514,True,Left Foot,Open Play,1,0,2,Half Volley
+3857271,Raheem Sterling,England,9.425497334358543,0.057401647259466525,True,Right Foot,Open Play,1,0,3,Volley
+3857271,Alireza Jahanbakhsh,Iran,16.198765385053264,0.056834609156392664,False,Right Foot,Open Play,1,0,1,Volley
+3857271,Kieran Trippier,England,28.853076092507013,0.07169183156234527,False,Right Foot,Free Kick,0,0,0,Normal
+3857271,Luke Shaw,England,26.653705183332388,0.0701353670601173,False,Left Foot,Open Play,1,0,1,Normal
+3857271,Saeid Ezatolahi Afagh,Iran,36.47862387755328,0.07404435362065649,False,Right Foot,Open Play,0,0,0,Normal
+3857271,Bukayo Saka,England,15.993123522314209,0.05824646182567487,True,Left Foot,Open Play,0,0,3,Normal
+3857271,Mehdi Taremi,Iran,13.041855696180662,0.055998713396226266,True,Right Foot,Open Play,1,1,2,Normal
+3857271,Mehdi Torabi,Iran,18.208239892971534,0.06443212283256697,False,Right Foot,Open Play,0,0,3,Normal
+3857271,Ahmad Nourollahi,Iran,22.800877176108823,0.06641988174710965,False,Left Foot,Open Play,1,0,1,Volley
+3857271,Marcus Rashford,England,12.860015552090129,0.05611093749816399,True,Left Foot,Open Play,0,0,2,Normal
+3857271,Mehdi Taremi,Iran,20.860728654579642,0.054843220428666684,False,Right Foot,Open Play,1,1,1,Half Volley
+3857271,Marcus Rashford,England,15.634896865665606,0.055336729306306016,False,Left Foot,Open Play,0,0,3,Normal
+3857271,Jack Grealish,England,8.000624975587845,0.057986494915723066,True,Right Foot,Open Play,1,0,1,Normal
+3857271,Sardar Azmoun,Iran,13.155227098001763,0.06134911374398582,False,Right Foot,Open Play,0,0,1,Normal
+3857271,Mehdi Taremi,Iran,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal

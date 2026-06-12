@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.621178142898738,0.05626934567493445,False,Head,Open Play,0,1,1,Normal
-26.307793522072497,0.06761110406831879,False,Left Foot,Open Play,1,1,1,Normal
-24.94513980718489,0.0646489974729357,False,Left Foot,Open Play,1,0,0,Normal
-5.643580423808988,0.057571131119896146,True,Left Foot,Open Play,1,0,4,Normal
-16.97586522095413,0.05480409513966002,False,Right Foot,Open Play,0,1,4,Normal
-15.800316452527142,0.06125556266765305,False,Right Foot,Open Play,1,0,0,Normal
-14.612323566086259,0.0623919147208971,False,Left Foot,Open Play,0,1,3,Normal
-35.604634529791205,0.07553169597503671,False,Left Foot,Free Kick,0,0,0,Normal
-32.188507265792865,0.06509670509018678,True,Right Foot,Free Kick,0,0,0,Normal
-31.184130579511116,0.06592401128315888,False,Left Foot,Open Play,0,0,1,Normal
-9.741663102366042,0.05633926338679236,False,Head,Open Play,0,1,2,Normal
-28.532788156785514,0.05916996939372208,False,Left Foot,Open Play,0,0,1,Normal
-28.157592226609143,0.06598892688486657,False,Right Foot,Open Play,0,0,1,Normal
-21.941968918034675,0.06674389169844014,False,Right Foot,Open Play,1,0,3,Normal
-20.87773934122179,0.06602898330152902,False,Right Foot,Open Play,0,0,4,Normal
-16.683225107874076,0.05770970961503579,False,Left Foot,Open Play,0,1,2,Normal
-20.161349161204463,0.061326002827187885,False,Left Foot,Open Play,0,0,0,Normal
-16.478470802838473,0.05584421960483824,False,Right Foot,Open Play,0,0,1,Lob
-24.575190741884388,0.06163453027380045,False,Right Foot,Open Play,1,1,2,Volley
-12.403628501370068,0.053598782912963425,False,Right Foot,Open Play,1,1,1,Normal
-17.572706109191035,0.05441632666939052,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3829516,Giovanni-Guy Yann Sio,Rennes,6.621178142898738,0.05626934567493445,False,Head,Open Play,0,1,1,Normal
+3829516,Benjamin André,Rennes,26.307793522072497,0.06761110406831879,False,Left Foot,Open Play,1,1,1,Normal
+3829516,Yann Jouffre,Lorient,24.94513980718489,0.0646489974729357,False,Left Foot,Open Play,1,0,0,Normal
+3829516,Raphaël Adelino José Guerreiro,Lorient,5.643580423808988,0.057571131119896146,True,Left Foot,Open Play,1,0,4,Normal
+3829516,Benjamin Moukandjo Bilé,Lorient,16.97586522095413,0.05480409513966002,False,Right Foot,Open Play,0,1,4,Normal
+3829516,Yann Jouffre,Lorient,15.800316452527142,0.06125556266765305,False,Right Foot,Open Play,1,0,0,Normal
+3829516,Vincent Le Goff,Lorient,14.612323566086259,0.0623919147208971,False,Left Foot,Open Play,0,1,3,Normal
+3829516,Juan Fernando Quintero Paniagua,Rennes,35.604634529791205,0.07553169597503671,False,Left Foot,Free Kick,0,0,0,Normal
+3829516,Kamil Grosicki,Rennes,32.188507265792865,0.06509670509018678,True,Right Foot,Free Kick,0,0,0,Normal
+3829516,Juan Fernando Quintero Paniagua,Rennes,31.184130579511116,0.06592401128315888,False,Left Foot,Open Play,0,0,1,Normal
+3829516,Giovanni-Guy Yann Sio,Rennes,9.741663102366042,0.05633926338679236,False,Head,Open Play,0,1,2,Normal
+3829516,Juan Fernando Quintero Paniagua,Rennes,28.532788156785514,0.05916996939372208,False,Left Foot,Open Play,0,0,1,Normal
+3829516,Jeremie Boga,Rennes,28.157592226609143,0.06598892688486657,False,Right Foot,Open Play,0,0,1,Normal
+3829516,Benjamin Moukandjo Bilé,Lorient,21.941968918034675,0.06674389169844014,False,Right Foot,Open Play,1,0,3,Normal
+3829516,Benjamin Moukandjo Bilé,Lorient,20.87773934122179,0.06602898330152902,False,Right Foot,Open Play,0,0,4,Normal
+3829516,Juan Fernando Quintero Paniagua,Rennes,16.683225107874076,0.05770970961503579,False,Left Foot,Open Play,0,1,2,Normal
+3829516,Wesley Lautoa,Lorient,20.161349161204463,0.061326002827187885,False,Left Foot,Open Play,0,0,0,Normal
+3829516,Kamil Grosicki,Rennes,16.478470802838473,0.05584421960483824,False,Right Foot,Open Play,0,0,1,Lob
+3829516,Rafidine Abdullah,Lorient,24.575190741884388,0.06163453027380045,False,Right Foot,Open Play,1,1,2,Volley
+3829516,Abdul Majeed Waris,Lorient,12.403628501370068,0.053598782912963425,False,Right Foot,Open Play,1,1,1,Normal
+3829516,Juan Fernando Quintero Paniagua,Rennes,17.572706109191035,0.05441632666939052,False,Left Foot,Open Play,0,0,2,Normal

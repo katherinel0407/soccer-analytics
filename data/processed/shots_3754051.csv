@@ -1,19 +1,19 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-2.8178005607210728,0.05606142761058781,True,Left Foot,Open Play,1,0,3,Normal
-24.760654272454115,0.056107905808963,False,Right Foot,Open Play,1,1,1,Normal
-24.363292059982367,0.06826316714900256,False,Right Foot,Open Play,0,0,0,Normal
-15.707959765672946,0.054799868607343594,True,Right Foot,Open Play,1,0,1,Half Volley
-29.035323314886654,0.0658145514867221,False,Right Foot,Open Play,1,0,1,Normal
-15.660459763365825,0.053940950693582,False,Right Foot,Open Play,1,0,0,Normal
-12.870120434556934,0.061216793390998,False,Right Foot,Open Play,1,0,1,Half Volley
-12.66964877176948,0.05907101120907331,False,Left Foot,Open Play,0,0,0,Normal
-18.027756377319946,0.055758204181507606,False,Right Foot,Open Play,0,1,2,Half Volley
-15.007331541616582,0.0624898811567861,False,Head,Open Play,0,1,2,Normal
-15.84834376204656,0.058688083804962335,False,Right Foot,Open Play,0,0,0,Normal
-16.82973558912914,0.05495451358325549,False,Right Foot,Open Play,0,0,2,Half Volley
-27.330020124398008,0.058656747248659484,False,Right Foot,Open Play,0,0,0,Normal
-23.920702330826323,0.054935408511105024,False,Right Foot,Open Play,1,0,1,Half Volley
-21.708293346092407,0.05943169028383792,False,Right Foot,Open Play,1,0,0,Half Volley
-14.006427096158395,0.062054357784624856,False,Head,Open Play,0,0,3,Normal
-8.02309167341369,0.058366551362075525,True,Head,Open Play,0,0,3,Normal
-25.871219530590352,0.05952861307812151,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754051,Nathan Aké,Watford,2.8178005607210728,0.05606142761058781,True,Left Foot,Open Play,1,0,3,Normal
+3754051,Nathaniel Edwin Clyne,Liverpool,24.760654272454115,0.056107905808963,False,Right Foot,Open Play,1,1,1,Normal
+3754051,Philippe Coutinho Correia,Liverpool,24.363292059982367,0.06826316714900256,False,Right Foot,Open Play,0,0,0,Normal
+3754051,Odion Jude Ighalo,Watford,15.707959765672946,0.054799868607343594,True,Right Foot,Open Play,1,0,1,Half Volley
+3754051,Etienne Capoue,Watford,29.035323314886654,0.0658145514867221,False,Right Foot,Open Play,1,0,1,Normal
+3754051,José Manuel Jurado Marín,Watford,15.660459763365825,0.053940950693582,False,Right Foot,Open Play,1,0,0,Normal
+3754051,Adam David Lallana,Liverpool,12.870120434556934,0.061216793390998,False,Right Foot,Open Play,1,0,1,Half Volley
+3754051,Alberto Moreno Pérez,Liverpool,12.66964877176948,0.05907101120907331,False,Left Foot,Open Play,0,0,0,Normal
+3754051,Divock Okoth Origi,Liverpool,18.027756377319946,0.055758204181507606,False,Right Foot,Open Play,0,1,2,Half Volley
+3754051,Adam David Lallana,Liverpool,15.007331541616582,0.0624898811567861,False,Head,Open Play,0,1,2,Normal
+3754051,Odion Jude Ighalo,Watford,15.84834376204656,0.058688083804962335,False,Right Foot,Open Play,0,0,0,Normal
+3754051,Jordan Brian Henderson,Liverpool,16.82973558912914,0.05495451358325549,False,Right Foot,Open Play,0,0,2,Half Volley
+3754051,Emre Can,Liverpool,27.330020124398008,0.058656747248659484,False,Right Foot,Open Play,0,0,0,Normal
+3754051,Jordon Ibe,Liverpool,23.920702330826323,0.054935408511105024,False,Right Foot,Open Play,1,0,1,Half Volley
+3754051,Jordan Brian Henderson,Liverpool,21.708293346092407,0.05943169028383792,False,Right Foot,Open Play,1,0,0,Half Volley
+3754051,Christian Benteke Liolo,Liverpool,14.006427096158395,0.062054357784624856,False,Head,Open Play,0,0,3,Normal
+3754051,Odion Jude Ighalo,Watford,8.02309167341369,0.058366551362075525,True,Head,Open Play,0,0,3,Normal
+3754051,Jordon Ibe,Liverpool,25.871219530590352,0.05952861307812151,False,Left Foot,Open Play,0,0,1,Normal

@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.658963975468307,0.07377331616375905,False,Right Foot,Open Play,0,0,2,Normal
-35.88606972071475,0.07725995117816065,False,Left Foot,Open Play,0,0,0,Half Volley
-6.400000000000006,0.05731894089044362,False,Head,Open Play,0,0,3,Normal
-6.081118318204305,0.055170023767186785,False,Right Foot,Open Play,0,0,2,Half Volley
-29.05047331800293,0.056394235198409706,False,Left Foot,Open Play,0,0,2,Normal
-25.670410982296335,0.06942469736503622,False,Right Foot,Open Play,0,0,1,Normal
-8.363013810822027,0.05548581868797127,False,Left Foot,Open Play,0,0,4,Normal
-43.02197113103954,0.05880421627332831,False,Left Foot,Open Play,0,1,1,Normal
-9.859513172565878,0.059548316941512906,False,Head,Open Play,0,0,2,Normal
-11.049434374663708,0.06022762189423527,True,Head,Open Play,0,1,3,Normal
-24.96898075613019,0.06390373496060311,False,Right Foot,Free Kick,0,0,0,Normal
-18.456706098326435,0.05481715121655103,False,Left Foot,Open Play,0,0,1,Normal
-32.617173390715514,0.06589992215369067,True,Right Foot,Open Play,0,0,1,Normal
-27.244265451650556,0.06939816303318821,False,Right Foot,Open Play,0,0,2,Normal
-26.992035862453942,0.07042574337259162,True,Right Foot,Free Kick,0,0,0,Normal
-31.45155004129367,0.07372911211684774,False,Right Foot,Free Kick,0,0,0,Normal
-37.522926325114895,0.05891908189608695,False,Right Foot,Open Play,1,1,1,Half Volley
-14.466858677681206,0.05823397502698575,True,Left Foot,Open Play,0,0,2,Lob
-5.360037313302956,0.05664124980232401,True,Right Foot,Open Play,1,0,3,Normal
-8.602325267042621,0.058128334307346236,False,Head,Open Play,0,0,1,Normal
-14.681961721786365,0.05422275424544287,False,Right Foot,Open Play,0,0,1,Normal
-8.260750571225357,0.058360516454620245,True,Head,Open Play,0,1,7,Normal
-14.358621103713272,0.06171371557452698,True,Right Foot,Open Play,0,0,4,Normal
-23.413884769512304,0.06773760154383732,True,Left Foot,Open Play,0,0,2,Normal
-28.4541736833105,0.05955672602899242,False,Right Foot,Open Play,0,0,2,Normal
-70.41370605216005,0.1073495358883543,False,Right Foot,Open Play,0,0,1,Lob
-17.96218249545417,0.05383963206539885,False,Right Foot,Open Play,1,0,2,Normal
-16.321764610482536,0.05637388372312557,False,Left Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825806,Danilo Luiz da Silva,Real Madrid,31.658963975468307,0.07377331616375905,False,Right Foot,Open Play,0,0,2,Normal
+3825806,Sergio Ramos García,Real Madrid,35.88606972071475,0.07725995117816065,False,Left Foot,Open Play,0,0,0,Half Volley
+3825806,Iago Aspas Juncal,Celta Vigo,6.400000000000006,0.05731894089044362,False,Head,Open Play,0,0,3,Normal
+3825806,Iago Aspas Juncal,Celta Vigo,6.081118318204305,0.055170023767186785,False,Right Foot,Open Play,0,0,2,Half Volley
+3825806,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,29.05047331800293,0.056394235198409706,False,Left Foot,Open Play,0,0,2,Normal
+3825806,Carlos Henrique Casimiro,Real Madrid,25.670410982296335,0.06942469736503622,False,Right Foot,Open Play,0,0,1,Normal
+3825806,Francisco Román Alarcón Suárez,Real Madrid,8.363013810822027,0.05548581868797127,False,Left Foot,Open Play,0,0,4,Normal
+3825806,Iago Aspas Juncal,Celta Vigo,43.02197113103954,0.05880421627332831,False,Left Foot,Open Play,0,1,1,Normal
+3825806,Carlos Henrique Casimiro,Real Madrid,9.859513172565878,0.059548316941512906,False,Head,Open Play,0,0,2,Normal
+3825806,Kléper Laveran Lima Ferreira,Real Madrid,11.049434374663708,0.06022762189423527,True,Head,Open Play,0,1,3,Normal
+3825806,Fabián Ariel Orellana Valenzuela,Celta Vigo,24.96898075613019,0.06390373496060311,False,Right Foot,Free Kick,0,0,0,Normal
+3825806,Lucas Vázquez Iglesias,Real Madrid,18.456706098326435,0.05481715121655103,False,Left Foot,Open Play,0,0,1,Normal
+3825806,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,32.617173390715514,0.06589992215369067,True,Right Foot,Open Play,0,0,1,Normal
+3825806,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,27.244265451650556,0.06939816303318821,False,Right Foot,Open Play,0,0,2,Normal
+3825806,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,26.992035862453942,0.07042574337259162,True,Right Foot,Free Kick,0,0,0,Normal
+3825806,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,31.45155004129367,0.07372911211684774,False,Right Foot,Free Kick,0,0,0,Normal
+3825806,Kléper Laveran Lima Ferreira,Real Madrid,37.522926325114895,0.05891908189608695,False,Right Foot,Open Play,1,1,1,Half Volley
+3825806,Iago Aspas Juncal,Celta Vigo,14.466858677681206,0.05823397502698575,True,Left Foot,Open Play,0,0,2,Lob
+3825806,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,5.360037313302956,0.05664124980232401,True,Right Foot,Open Play,1,0,3,Normal
+3825806,John Guidetti,Celta Vigo,8.602325267042621,0.058128334307346236,False,Head,Open Play,0,0,1,Normal
+3825806,John Guidetti,Celta Vigo,14.681961721786365,0.05422275424544287,False,Right Foot,Open Play,0,0,1,Normal
+3825806,Cristiano Ronaldo dos Santos Aveiro,Real Madrid,8.260750571225357,0.058360516454620245,True,Head,Open Play,0,1,7,Normal
+3825806,Jesé Rodríguez Ruiz,Real Madrid,14.358621103713272,0.06171371557452698,True,Right Foot,Open Play,0,0,4,Normal
+3825806,Gareth Frank Bale,Real Madrid,23.413884769512304,0.06773760154383732,True,Left Foot,Open Play,0,0,2,Normal
+3825806,Claudio Beauvue,Celta Vigo,28.4541736833105,0.05955672602899242,False,Right Foot,Open Play,0,0,2,Normal
+3825806,Carlos Henrique Casimiro,Real Madrid,70.41370605216005,0.1073495358883543,False,Right Foot,Open Play,0,0,1,Lob
+3825806,Gareth Frank Bale,Real Madrid,17.96218249545417,0.05383963206539885,False,Right Foot,Open Play,1,0,2,Normal
+3825806,Lucas Vázquez Iglesias,Real Madrid,16.321764610482536,0.05637388372312557,False,Left Foot,Open Play,1,0,2,Normal

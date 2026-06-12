@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.958206332233367,0.06155230343621445,False,Left Foot,Open Play,0,0,1,Half Volley
-7.072481884034773,0.05587381373652859,False,Head,Open Play,0,1,6,Normal
-27.343737857140166,0.06794540307704602,False,Right Foot,Free Kick,0,0,0,Normal
-15.041608956491327,0.0626152219178864,False,Left Foot,Open Play,1,0,0,Half Volley
-8.127115109311548,0.05697398495373639,False,Right Foot,Open Play,1,1,2,Half Volley
-15.474172029546526,0.062056344314315066,False,Left Foot,Open Play,1,0,0,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-14.751271131668616,0.06206378303992335,False,Left Foot,Open Play,0,0,2,Normal
-26.690822392725178,0.07020376783383843,False,Right Foot,Open Play,0,0,2,Normal
-27.963190089830594,0.07061727051185399,False,Left Foot,Free Kick,0,0,0,Normal
-31.828446396266344,0.07282868946856774,False,Right Foot,Open Play,1,1,1,Normal
-19.997249810911498,0.06420239193460249,True,Right Foot,Open Play,0,0,2,Normal
-27.73193105429191,0.060038997383272445,False,Right Foot,Open Play,1,1,1,Normal
-7.111961754677814,0.0582939685007429,False,Head,Open Play,0,1,1,Normal
-27.423530042647688,0.07074420458980071,False,Right Foot,Open Play,0,0,1,Normal
-20.161349161204463,0.06460596165806716,False,Right Foot,Open Play,0,0,3,Normal
-9.126883367283714,0.05894115002506968,False,Left Foot,Open Play,1,0,2,Backheel
-6.9771054170049664,0.05621309255426611,False,Head,Open Play,0,0,4,Normal
-13.060245020672474,0.06120264939318032,False,Right Foot,Open Play,0,1,3,Normal
-12.482387592123551,0.06115577213933975,False,Right Foot,Open Play,1,1,2,Volley
-14.649232061783993,0.061851700182309156,False,Right Foot,Open Play,0,0,1,Half Volley
-10.822661410207747,0.058847045547159076,False,Head,Open Play,0,1,5,Diving Header
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3788760,Vladimír Coufal,Czech Republic,19.958206332233367,0.06155230343621445,False,Left Foot,Open Play,0,0,1,Half Volley
+3788760,Tomáš Souček,Czech Republic,7.072481884034773,0.05587381373652859,False,Head,Open Play,0,1,6,Normal
+3788760,Dejan Lovren,Croatia,27.343737857140166,0.06794540307704602,False,Right Foot,Free Kick,0,0,0,Normal
+3788760,Jakub Jankto,Czech Republic,15.041608956491327,0.0626152219178864,False,Left Foot,Open Play,1,0,0,Half Volley
+3788760,Patrik Schick,Czech Republic,8.127115109311548,0.05697398495373639,False,Right Foot,Open Play,1,1,2,Half Volley
+3788760,Ivan Perišić,Croatia,15.474172029546526,0.062056344314315066,False,Left Foot,Open Play,1,0,0,Normal
+3788760,Patrik Schick,Czech Republic,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3788760,Ante Rebić,Croatia,14.751271131668616,0.06206378303992335,False,Left Foot,Open Play,0,0,2,Normal
+3788760,Andrej Kramarić,Croatia,26.690822392725178,0.07020376783383843,False,Right Foot,Open Play,0,0,2,Normal
+3788760,Patrik Schick,Czech Republic,27.963190089830594,0.07061727051185399,False,Left Foot,Free Kick,0,0,0,Normal
+3788760,Mateo Kovačić,Croatia,31.828446396266344,0.07282868946856774,False,Right Foot,Open Play,1,1,1,Normal
+3788760,Ivan Perišić,Croatia,19.997249810911498,0.06420239193460249,True,Right Foot,Open Play,0,0,2,Normal
+3788760,Tomáš Souček,Czech Republic,27.73193105429191,0.060038997383272445,False,Right Foot,Open Play,1,1,1,Normal
+3788760,Jan Bořil,Czech Republic,7.111961754677814,0.0582939685007429,False,Head,Open Play,0,1,1,Normal
+3788760,Luka Ivanušec,Croatia,27.423530042647688,0.07074420458980071,False,Right Foot,Open Play,0,0,1,Normal
+3788760,Andrej Kramarić,Croatia,20.161349161204463,0.06460596165806716,False,Right Foot,Open Play,0,0,3,Normal
+3788760,Tomáš Souček,Czech Republic,9.126883367283714,0.05894115002506968,False,Left Foot,Open Play,1,0,2,Backheel
+3788760,Patrik Schick,Czech Republic,6.9771054170049664,0.05621309255426611,False,Head,Open Play,0,0,4,Normal
+3788760,Nikola Vlašić,Croatia,13.060245020672474,0.06120264939318032,False,Right Foot,Open Play,0,1,3,Normal
+3788760,Adam Hložek,Czech Republic,12.482387592123551,0.06115577213933975,False,Right Foot,Open Play,1,1,2,Volley
+3788760,Bruno Petković,Croatia,14.649232061783993,0.061851700182309156,False,Right Foot,Open Play,0,0,1,Half Volley
+3788760,Bruno Petković,Croatia,10.822661410207747,0.058847045547159076,False,Head,Open Play,0,1,5,Diving Header

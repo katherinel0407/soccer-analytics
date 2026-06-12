@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.6080299571239784,0.05755975012674356,False,Head,Open Play,0,1,2,Normal
-10.217631819555836,0.059720568566529894,False,Right Foot,Open Play,1,0,3,Backheel
-18.906612599828662,0.06400629622250024,False,Right Foot,Open Play,1,0,1,Normal
-27.937251117459642,0.07112722764154912,False,Right Foot,Open Play,0,0,0,Normal
-25.892469947843917,0.06872678215926112,False,Right Foot,Open Play,0,0,2,Normal
-25.700778198334774,0.06587673866157442,False,Right Foot,Open Play,0,0,1,Normal
-22.239604313026792,0.06188204165174897,False,Left Foot,Open Play,0,0,3,Normal
-25.880108191427638,0.05673638322706793,False,Right Foot,Open Play,0,0,0,Normal
-16.1245154965971,0.055206042852772384,True,Right Foot,Open Play,1,0,2,Lob
-11.011357772772618,0.06038203465852698,False,Head,Open Play,0,1,3,Normal
-15.02065244921138,0.05627542231438903,False,Head,Open Play,0,0,2,Normal
-23.110170921046866,0.059362726074161036,False,Left Foot,Open Play,0,0,1,Normal
-3.5777087639996665,0.055607271786383465,False,Head,Open Play,0,0,6,Normal
-28.50438562747845,0.05754950696542207,False,Right Foot,Open Play,1,0,1,Normal
-7.668767828015137,0.0582661847560015,False,Left Foot,Open Play,1,0,0,Volley
-9.219544457292885,0.058643835924038476,False,Head,Open Play,0,0,2,Normal
-30.37136809562586,0.07295236602145334,False,Right Foot,Open Play,0,0,1,Normal
-22.64332131115045,0.06418888245560855,True,Right Foot,Open Play,0,0,3,Normal
-11.000454536063499,0.059140128953365505,False,Left Foot,Open Play,0,1,3,Normal
-25.51430971043504,0.06392300373908134,False,Right Foot,Open Play,0,0,3,Normal
-22.522211259110417,0.06378567225351396,False,Right Foot,Open Play,0,0,2,Normal
-24.107467722678802,0.06834628691380332,False,Right Foot,Open Play,0,1,3,Normal
-29.306142700805914,0.06788254425754488,False,Right Foot,Open Play,0,0,2,Half Volley
-28.08629559055448,0.07000668911109352,False,Left Foot,Open Play,0,0,0,Normal
-8.268010643437755,0.05610741068753733,True,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754012,Shane Long,Southampton,5.6080299571239784,0.05755975012674356,False,Head,Open Play,0,1,2,Normal
+3754012,Diego da Silva Costa,Chelsea,10.217631819555836,0.059720568566529894,False,Right Foot,Open Play,1,0,3,Backheel
+3754012,Charlie Austin,Southampton,18.906612599828662,0.06400629622250024,False,Right Foot,Open Play,1,0,1,Normal
+3754012,Jordy Clasie,Southampton,27.937251117459642,0.07112722764154912,False,Right Foot,Open Play,0,0,0,Normal
+3754012,Oscar dos Santos Emboaba Júnior,Chelsea,25.892469947843917,0.06872678215926112,False,Right Foot,Open Play,0,0,2,Normal
+3754012,Diego da Silva Costa,Chelsea,25.700778198334774,0.06587673866157442,False,Right Foot,Open Play,0,0,1,Normal
+3754012,Charlie Austin,Southampton,22.239604313026792,0.06188204165174897,False,Left Foot,Open Play,0,0,3,Normal
+3754012,Eden Hazard,Chelsea,25.880108191427638,0.05673638322706793,False,Right Foot,Open Play,0,0,0,Normal
+3754012,Shane Long,Southampton,16.1245154965971,0.055206042852772384,True,Right Foot,Open Play,1,0,2,Lob
+3754012,Francesc Fàbregas i Soler,Chelsea,11.011357772772618,0.06038203465852698,False,Head,Open Play,0,1,3,Normal
+3754012,Francesc Fàbregas i Soler,Chelsea,15.02065244921138,0.05627542231438903,False,Head,Open Play,0,0,2,Normal
+3754012,Eden Hazard,Chelsea,23.110170921046866,0.059362726074161036,False,Left Foot,Open Play,0,0,1,Normal
+3754012,John Michael Nchekwube Obinna,Chelsea,3.5777087639996665,0.055607271786383465,False,Head,Open Play,0,0,6,Normal
+3754012,César Azpilicueta Tanco,Chelsea,28.50438562747845,0.05754950696542207,False,Right Foot,Open Play,1,0,1,Normal
+3754012,Diego da Silva Costa,Chelsea,7.668767828015137,0.0582661847560015,False,Left Foot,Open Play,1,0,0,Volley
+3754012,Virgil van Dijk,Southampton,9.219544457292885,0.058643835924038476,False,Head,Open Play,0,0,2,Normal
+3754012,Virgil van Dijk,Southampton,30.37136809562586,0.07295236602145334,False,Right Foot,Open Play,0,0,1,Normal
+3754012,Francesc Fàbregas i Soler,Chelsea,22.64332131115045,0.06418888245560855,True,Right Foot,Open Play,0,0,3,Normal
+3754012,Diego da Silva Costa,Chelsea,11.000454536063499,0.059140128953365505,False,Left Foot,Open Play,0,1,3,Normal
+3754012,Robert Kenedy Nunes do Nascimento,Chelsea,25.51430971043504,0.06392300373908134,False,Right Foot,Open Play,0,0,3,Normal
+3754012,Willian Borges da Silva,Chelsea,22.522211259110417,0.06378567225351396,False,Right Foot,Open Play,0,0,2,Normal
+3754012,Oscar dos Santos Emboaba Júnior,Chelsea,24.107467722678802,0.06834628691380332,False,Right Foot,Open Play,0,1,3,Normal
+3754012,Graziano Pellè,Southampton,29.306142700805914,0.06788254425754488,False,Right Foot,Open Play,0,0,2,Half Volley
+3754012,Robert Kenedy Nunes do Nascimento,Chelsea,28.08629559055448,0.07000668911109352,False,Left Foot,Open Play,0,0,0,Normal
+3754012,Branislav Ivanović,Chelsea,8.268010643437755,0.05610741068753733,True,Head,Open Play,0,1,5,Normal

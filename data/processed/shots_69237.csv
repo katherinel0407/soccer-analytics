@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-20.262773748921937,0.05854519115066548,False,Right Foot,Open Play,0,0,2,Half Volley
-19.946177578674067,0.05835654329129346,True,Right Foot,Open Play,1,0,1,Normal
-22.807893370497855,0.0646695640270763,False,Left Foot,Open Play,0,0,1,Normal
-14.492066795319436,0.05882009238424407,False,Right Foot,Open Play,0,1,1,Normal
-23.781084920583417,0.06057258460213202,False,Left Foot,Open Play,1,0,0,Volley
-26.43577122007225,0.058597515844838306,False,Left Foot,Open Play,0,0,1,Normal
-25.601953050499876,0.06941726300776063,True,Right Foot,Free Kick,0,0,0,Normal
-7.106335201775948,0.054855236684502026,True,Right Foot,Open Play,1,0,1,Volley
-15.493224325491452,0.05977403818002221,False,Right Foot,Open Play,0,1,5,Half Volley
-15.706368135250107,0.0574300898369815,False,Right Foot,Open Play,1,0,2,Normal
-19.876116320851008,0.06028055236771094,False,Left Foot,Open Play,0,1,3,Normal
-7.60591874792257,0.05557731306661988,False,Head,Open Play,0,1,2,Normal
-19.89798984822336,0.06535207177702486,False,Right Foot,Open Play,0,0,1,Normal
-24.671440979399645,0.06269082909660809,False,Left Foot,Open Play,0,1,2,Normal
-18.042449944505872,0.063985631515405,False,Right Foot,Open Play,0,0,2,Normal
-19.588006534611935,0.053214428017925426,False,Right Foot,Open Play,1,0,0,Normal
-21.475567512873788,0.06662661776925626,False,Right Foot,Open Play,0,0,1,Normal
-19.62090721653818,0.05727576304555487,False,Right Foot,Open Play,0,1,2,Normal
-11.992080720208648,0.05980731924562733,False,Left Foot,Open Play,0,1,1,Normal
-10.800462953040487,0.05602321286652203,False,Head,Open Play,0,1,3,Normal
-11.778370006074693,0.057405030893431234,False,Head,Open Play,0,1,4,Normal
-14.848568954616466,0.06121632533240457,False,Left Foot,Open Play,0,0,1,Half Volley
-26.00999807766236,0.06796721212020346,False,Right Foot,Free Kick,0,0,0,Normal
-15.947727110782905,0.06224946308434557,False,Head,Open Play,0,0,2,Normal
-25.401771591761083,0.06548214944869495,False,Left Foot,Open Play,0,1,2,Normal
-23.855607307297795,0.06822050565270152,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69237,Sergio Leonel Agüero del Castillo,Atlético Madrid,20.262773748921937,0.05854519115066548,False,Right Foot,Open Play,0,0,2,Half Volley
+69237,Diego Forlán Corazo,Atlético Madrid,19.946177578674067,0.05835654329129346,True,Right Foot,Open Play,1,0,1,Normal
+69237,Lionel Andrés Messi Cuccittini,Barcelona,22.807893370497855,0.0646695640270763,False,Left Foot,Open Play,0,0,1,Normal
+69237,Zlatan Ibrahimović,Barcelona,14.492066795319436,0.05882009238424407,False,Right Foot,Open Play,0,1,1,Normal
+69237,José Antonio Reyes Calderón,Atlético Madrid,23.781084920583417,0.06057258460213202,False,Left Foot,Open Play,1,0,0,Volley
+69237,Lionel Andrés Messi Cuccittini,Barcelona,26.43577122007225,0.058597515844838306,False,Left Foot,Open Play,0,0,1,Normal
+69237,Simão Pedro Fonseca Sabrosa,Atlético Madrid,25.601953050499876,0.06941726300776063,True,Right Foot,Free Kick,0,0,0,Normal
+69237,Zlatan Ibrahimović,Barcelona,7.106335201775948,0.054855236684502026,True,Right Foot,Open Play,1,0,1,Volley
+69237,Sergio Leonel Agüero del Castillo,Atlético Madrid,15.493224325491452,0.05977403818002221,False,Right Foot,Open Play,0,1,5,Half Volley
+69237,Zlatan Ibrahimović,Barcelona,15.706368135250107,0.0574300898369815,False,Right Foot,Open Play,1,0,2,Normal
+69237,Lionel Andrés Messi Cuccittini,Barcelona,19.876116320851008,0.06028055236771094,False,Left Foot,Open Play,0,1,3,Normal
+69237,Zlatan Ibrahimović,Barcelona,7.60591874792257,0.05557731306661988,False,Head,Open Play,0,1,2,Normal
+69237,Zlatan Ibrahimović,Barcelona,19.89798984822336,0.06535207177702486,False,Right Foot,Open Play,0,0,1,Normal
+69237,Lionel Andrés Messi Cuccittini,Barcelona,24.671440979399645,0.06269082909660809,False,Left Foot,Open Play,0,1,2,Normal
+69237,Sergio Leonel Agüero del Castillo,Atlético Madrid,18.042449944505872,0.063985631515405,False,Right Foot,Open Play,0,0,2,Normal
+69237,Sergio Leonel Agüero del Castillo,Atlético Madrid,19.588006534611935,0.053214428017925426,False,Right Foot,Open Play,1,0,0,Normal
+69237,Lionel Andrés Messi Cuccittini,Barcelona,21.475567512873788,0.06662661776925626,False,Right Foot,Open Play,0,0,1,Normal
+69237,Zlatan Ibrahimović,Barcelona,19.62090721653818,0.05727576304555487,False,Right Foot,Open Play,0,1,2,Normal
+69237,Sergio Leonel Agüero del Castillo,Atlético Madrid,11.992080720208648,0.05980731924562733,False,Left Foot,Open Play,0,1,1,Normal
+69237,Tiago Cardoso Mendes,Atlético Madrid,10.800462953040487,0.05602321286652203,False,Head,Open Play,0,1,3,Normal
+69237,Álvaro Domínguez Soto,Atlético Madrid,11.778370006074693,0.057405030893431234,False,Head,Open Play,0,1,4,Normal
+69237,Tomáš Ujfaluši,Atlético Madrid,14.848568954616466,0.06121632533240457,False,Left Foot,Open Play,0,0,1,Half Volley
+69237,Simão Pedro Fonseca Sabrosa,Atlético Madrid,26.00999807766236,0.06796721212020346,False,Right Foot,Free Kick,0,0,0,Normal
+69237,Zlatan Ibrahimović,Barcelona,15.947727110782905,0.06224946308434557,False,Head,Open Play,0,0,2,Normal
+69237,Lionel Andrés Messi Cuccittini,Barcelona,25.401771591761083,0.06548214944869495,False,Left Foot,Open Play,0,1,2,Normal
+69237,José Manuel Jurado Marín,Atlético Madrid,23.855607307297795,0.06822050565270152,False,Right Foot,Open Play,0,0,2,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.742448744256347,0.061331179463864405,False,Head,Open Play,0,0,1,Normal
-17.08478855590551,0.06280246068008641,False,Right Foot,Open Play,0,0,1,Normal
-28.70766448180695,0.0567014614592711,False,Right Foot,Open Play,0,0,0,Normal
-12.180722474467602,0.0586036498052132,False,Right Foot,Open Play,0,1,5,Half Volley
-17.556765077883796,0.06395077428138479,False,Right Foot,Open Play,0,0,3,Normal
-20.83962571640863,0.06443850768392337,False,Left Foot,Open Play,0,1,1,Normal
-12.63843344722755,0.05846145010411567,False,Head,Open Play,0,0,2,Normal
-11.475626344561762,0.05858442033587294,False,Right Foot,Open Play,1,0,1,Normal
-8.464632301523798,0.058714296244150206,False,Right Foot,Open Play,1,0,1,Half Volley
-26.513770007299982,0.07008659050457156,False,Right Foot,Open Play,1,0,1,Normal
-24.781444671366526,0.05910842933705672,False,Right Foot,Open Play,0,0,1,Normal
-8.590692637965818,0.057512534929471344,True,Head,Open Play,0,0,1,Normal
-16.707483353276164,0.06141006017094961,True,Right Foot,Open Play,1,1,3,Volley
-16.63850954863446,0.057988708766103396,False,Right Foot,Open Play,1,1,2,Normal
-31.923972183924732,0.07411653990105714,False,Right Foot,Open Play,0,0,1,Normal
-21.760974242896385,0.060001408520890115,False,Right Foot,Open Play,1,0,0,Half Volley
-29.264654448668956,0.06573934821021679,False,Right Foot,Free Kick,0,0,0,Normal
-15.882380174268594,0.06209816935257532,False,Right Foot,Open Play,1,0,2,Normal
-17.101169550647693,0.061868848731350484,False,Right Foot,Open Play,0,0,3,Normal
-25.362176562747923,0.06881998442680322,False,Right Foot,Open Play,0,1,2,Normal
-11.360017605620158,0.056961824887535956,False,Right Foot,Open Play,0,0,2,Normal
-12.175385004179535,0.058416301166180136,False,Head,Open Play,0,1,1,Normal
-23.712443990445188,0.06785588613796076,False,Right Foot,Open Play,0,1,2,Normal
-8.336066218546975,0.05753570736190171,False,Left Foot,Open Play,1,0,4,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879736,Miralem Pjanić,AS Roma,12.742448744256347,0.061331179463864405,False,Head,Open Play,0,0,1,Normal
+3879736,Stephan El Shaarawy,AS Roma,17.08478855590551,0.06280246068008641,False,Right Foot,Open Play,0,0,1,Normal
+3879736,Alessandro Florenzi,AS Roma,28.70766448180695,0.0567014614592711,False,Right Foot,Open Play,0,0,0,Normal
+3879736,Antonio Rüdiger,AS Roma,12.180722474467602,0.0586036498052132,False,Right Foot,Open Play,0,1,5,Half Volley
+3879736,Stephan El Shaarawy,AS Roma,17.556765077883796,0.06395077428138479,False,Right Foot,Open Play,0,0,3,Normal
+3879736,Luis Fernando Muriel Fruto,Sampdoria,20.83962571640863,0.06443850768392337,False,Left Foot,Open Play,0,1,1,Normal
+3879736,Miralem Pjanić,AS Roma,12.63843344722755,0.05846145010411567,False,Head,Open Play,0,0,2,Normal
+3879736,Stephan El Shaarawy,AS Roma,11.475626344561762,0.05858442033587294,False,Right Foot,Open Play,1,0,1,Normal
+3879736,Alessandro Florenzi,AS Roma,8.464632301523798,0.058714296244150206,False,Right Foot,Open Play,1,0,1,Half Volley
+3879736,Carlos Joaquín Correa,Sampdoria,26.513770007299982,0.07008659050457156,False,Right Foot,Open Play,1,0,1,Normal
+3879736,Stephan El Shaarawy,AS Roma,24.781444671366526,0.05910842933705672,False,Right Foot,Open Play,0,0,1,Normal
+3879736,Alessandro Florenzi,AS Roma,8.590692637965818,0.057512534929471344,True,Head,Open Play,0,0,1,Normal
+3879736,Diego Perotti,AS Roma,16.707483353276164,0.06141006017094961,True,Right Foot,Open Play,1,1,3,Volley
+3879736,Miralem Pjanić,AS Roma,16.63850954863446,0.057988708766103396,False,Right Foot,Open Play,1,1,2,Normal
+3879736,Carlos Joaquín Correa,Sampdoria,31.923972183924732,0.07411653990105714,False,Right Foot,Open Play,0,0,1,Normal
+3879736,Fernando Lucas Martins,Sampdoria,21.760974242896385,0.060001408520890115,False,Right Foot,Open Play,1,0,0,Half Volley
+3879736,Fernando Lucas Martins,Sampdoria,29.264654448668956,0.06573934821021679,False,Right Foot,Free Kick,0,0,0,Normal
+3879736,Stephan El Shaarawy,AS Roma,15.882380174268594,0.06209816935257532,False,Right Foot,Open Play,1,0,2,Normal
+3879736,Fabio Quagliarella,Sampdoria,17.101169550647693,0.061868848731350484,False,Right Foot,Open Play,0,0,3,Normal
+3879736,Roberto Soriano,Sampdoria,25.362176562747923,0.06881998442680322,False,Right Foot,Open Play,0,1,2,Normal
+3879736,Antonio Cassano,Sampdoria,11.360017605620158,0.056961824887535956,False,Right Foot,Open Play,0,0,2,Normal
+3879736,Edin Džeko,AS Roma,12.175385004179535,0.058416301166180136,False,Head,Open Play,0,1,1,Normal
+3879736,José Rodolfo Pires Ribeiro,Sampdoria,23.712443990445188,0.06785588613796076,False,Right Foot,Open Play,0,1,2,Normal
+3879736,Mattia Cassani,Sampdoria,8.336066218546975,0.05753570736190171,False,Left Foot,Open Play,1,0,4,Volley

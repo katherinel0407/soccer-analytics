@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.743725841270265,0.05336138911386406,False,Right Foot,Open Play,1,1,1,Normal
-20.012496096189498,0.055692561763232215,False,Right Foot,Open Play,0,0,1,Normal
-5.693856338194707,0.05760034250343949,True,Right Foot,Open Play,1,0,2,Normal
-31.3789738519283,0.06261762887989046,False,Right Foot,Open Play,0,0,1,Normal
-25.366316248127163,0.057855095319679486,False,Right Foot,Open Play,1,0,2,Half Volley
-14.904026301640773,0.05893720570862482,True,Right Foot,Open Play,1,0,0,Volley
-7.969943538068504,0.05700302146671662,False,Head,Open Play,0,0,5,Normal
-26.713479743380493,0.05725246990153483,False,Left Foot,Open Play,0,0,2,Normal
-22.565681908597405,0.054898563942725694,False,Left Foot,Open Play,0,0,2,Normal
-8.381527307120106,0.058757612858761715,True,Right Foot,Open Play,1,0,2,Volley
-23.819319889535045,0.06711193584400287,False,Right Foot,Open Play,0,0,1,Normal
-17.477127910500624,0.05531333216546396,False,Left Foot,Open Play,0,0,2,Normal
-12.435433245367848,0.053434971299433406,False,Right Foot,Open Play,0,0,2,Normal
-39.874051712862084,0.06008579995396535,False,Right Foot,Open Play,0,0,0,Normal
-29.614354627443767,0.06620470153496327,False,Right Foot,Open Play,0,0,2,Normal
-15.183214415926559,0.05925388523942137,False,Head,Open Play,0,0,1,Normal
-23.364930986416375,0.06651300275625127,False,Left Foot,Open Play,1,0,1,Volley
-23.02020851339101,0.055223434382552866,False,Right Foot,Open Play,0,0,1,Half Volley
-26.791789787171744,0.05501933500993325,False,Left Foot,Open Play,0,0,1,Normal
-4.609772228646438,0.056709041535297496,True,Right Foot,Open Play,1,0,1,Normal
-56.89578191746731,0.0618257528262574,False,Right Foot,Open Play,0,0,1,Normal
-23.84365743756607,0.0631284166971792,False,Left Foot,Open Play,0,0,2,Normal
-34.66237152879185,0.07430036212259344,False,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749358,Szilárd Németh,Middlesbrough,13.743725841270265,0.05336138911386406,False,Right Foot,Open Play,1,1,1,Normal
+3749358,Fredrik Ljungberg,Arsenal,20.012496096189498,0.055692561763232215,False,Right Foot,Open Play,0,0,1,Normal
+3749358,Thierry Henry,Arsenal,5.693856338194707,0.05760034250343949,True,Right Foot,Open Play,1,0,2,Normal
+3749358,Sylvain Wiltord,Arsenal,31.3789738519283,0.06261762887989046,False,Right Foot,Open Play,0,0,1,Normal
+3749358,Fredrik Ljungberg,Arsenal,25.366316248127163,0.057855095319679486,False,Right Foot,Open Play,1,0,2,Half Volley
+3749358,Gilberto Aparecido da Silva,Arsenal,14.904026301640773,0.05893720570862482,True,Right Foot,Open Play,1,0,0,Volley
+3749358,Sulzeer Jeremiah ''Sol' Campbell,Arsenal,7.969943538068504,0.05700302146671662,False,Head,Open Play,0,0,5,Normal
+3749358,Thierry Henry,Arsenal,26.713479743380493,0.05725246990153483,False,Left Foot,Open Play,0,0,2,Normal
+3749358,Laureano Bisan-Etame Mayer,Arsenal,22.565681908597405,0.054898563942725694,False,Left Foot,Open Play,0,0,2,Normal
+3749358,Sylvain Wiltord,Arsenal,8.381527307120106,0.058757612858761715,True,Right Foot,Open Play,1,0,2,Volley
+3749358,Szilárd Németh,Middlesbrough,23.819319889535045,0.06711193584400287,False,Right Foot,Open Play,0,0,1,Normal
+3749358,Thierry Henry,Arsenal,17.477127910500624,0.05531333216546396,False,Left Foot,Open Play,0,0,2,Normal
+3749358,Szilárd Németh,Middlesbrough,12.435433245367848,0.053434971299433406,False,Right Foot,Open Play,0,0,2,Normal
+3749358,George Boateng,Middlesbrough,39.874051712862084,0.06008579995396535,False,Right Foot,Open Play,0,0,0,Normal
+3749358,Thierry Henry,Arsenal,29.614354627443767,0.06620470153496327,False,Right Foot,Open Play,0,0,2,Normal
+3749358,Thierry Henry,Arsenal,15.183214415926559,0.05925388523942137,False,Head,Open Play,0,0,1,Normal
+3749358,Dorival Guidoni Júnior,Middlesbrough,23.364930986416375,0.06651300275625127,False,Left Foot,Open Play,1,0,1,Volley
+3749358,Thierry Henry,Arsenal,23.02020851339101,0.055223434382552866,False,Right Foot,Open Play,0,0,1,Half Volley
+3749358,Oswaldo Giroldo Júnior,Middlesbrough,26.791789787171744,0.05501933500993325,False,Left Foot,Open Play,0,0,1,Normal
+3749358,Sylvain Wiltord,Arsenal,4.609772228646438,0.056709041535297496,True,Right Foot,Open Play,1,0,1,Normal
+3749358,Oswaldo Giroldo Júnior,Middlesbrough,56.89578191746731,0.0618257528262574,False,Right Foot,Open Play,0,0,1,Normal
+3749358,Oswaldo Giroldo Júnior,Middlesbrough,23.84365743756607,0.0631284166971792,False,Left Foot,Open Play,0,0,2,Normal
+3749358,Dorival Guidoni Júnior,Middlesbrough,34.66237152879185,0.07430036212259344,False,Right Foot,Open Play,0,0,0,Normal

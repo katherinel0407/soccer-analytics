@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.47104599288238,0.05665603331794817,False,Right Foot,Open Play,0,0,2,Half Volley
-18.931983519959026,0.06305514868125266,False,Right Foot,Open Play,0,0,2,Half Volley
-14.552319402761878,0.06180564839239767,True,Right Foot,Open Play,1,0,0,Normal
-11.950732195141859,0.0591530385620351,False,Head,Open Play,0,0,3,Normal
-19.659603251337497,0.05767624198747862,False,Right Foot,Open Play,0,0,2,Normal
-8.154140052758473,0.056001103437713695,True,Head,Open Play,0,1,2,Normal
-13.018832512940628,0.060268548581083166,True,Right Foot,Open Play,1,0,1,Normal
-22.87793696992803,0.057577680415558524,False,Right Foot,Open Play,0,1,1,Normal
-25.34284909002932,0.06717983077676913,False,Left Foot,Open Play,1,0,0,Normal
-17.7158121462156,0.058717332458073784,False,Right Foot,Open Play,1,1,1,Normal
-8.297590011563592,0.05739615951341582,False,Right Foot,Open Play,0,0,5,Normal
-11.315917991926243,0.05630826726778067,True,Left Foot,Open Play,1,0,3,Normal
-15.938004893963354,0.05888693600158037,True,Right Foot,Open Play,0,0,2,Normal
-22.700881040171108,0.06425111647684958,False,Right Foot,Open Play,1,0,2,Normal
-11.172287142747454,0.05521079238618236,False,Right Foot,Open Play,1,1,3,Backheel
-20.130822139197395,0.0606643132982746,False,Right Foot,Open Play,0,1,1,Half Volley
-22.27128195681605,0.06708154899163149,False,Left Foot,Open Play,0,1,1,Normal
-19.7327139542436,0.0597670914818168,False,Right Foot,Open Play,0,0,3,Normal
-9.68762096698668,0.05955792708850263,False,Right Foot,Open Play,0,1,1,Half Volley
-26.201717500957834,0.06954211196213567,False,Left Foot,Open Play,0,1,2,Normal
-12.355565547557909,0.06107491342680975,False,Left Foot,Open Play,1,1,1,Half Volley
-30.259709185648163,0.06936442639956479,True,Right Foot,Free Kick,0,0,0,Normal
-11.399122773266368,0.05982399713560012,True,Right Foot,Open Play,1,0,2,Normal
-15.12117720285031,0.059572277932956955,False,Right Foot,Open Play,1,0,1,Normal
-13.209844813622906,0.053477370326718454,False,Right Foot,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3881502,Bianca St Georges,Chicago Red Stars,23.47104599288238,0.05665603331794817,False,Right Foot,Open Play,0,0,2,Half Volley
+3881502,Jordyn Pamela Huitema,Seattle Reign,18.931983519959026,0.06305514868125266,False,Right Foot,Open Play,0,0,2,Half Volley
+3881502,Bethany Balcer,Seattle Reign,14.552319402761878,0.06180564839239767,True,Right Foot,Open Play,1,0,0,Normal
+3881502,Yuki Nagasato,Chicago Red Stars,11.950732195141859,0.0591530385620351,False,Head,Open Play,0,0,3,Normal
+3881502,Veronica Latsko,Seattle Reign,19.659603251337497,0.05767624198747862,False,Right Foot,Open Play,0,0,2,Normal
+3881502,Bethany Balcer,Seattle Reign,8.154140052758473,0.056001103437713695,True,Head,Open Play,0,1,2,Normal
+3881502,Arin Wright,Chicago Red Stars,13.018832512940628,0.060268548581083166,True,Right Foot,Open Play,1,0,1,Normal
+3881502,Penelope Hocking,Chicago Red Stars,22.87793696992803,0.057577680415558524,False,Right Foot,Open Play,0,1,1,Normal
+3881502,Tierna Lillis Davidson,Chicago Red Stars,25.34284909002932,0.06717983077676913,False,Left Foot,Open Play,1,0,0,Normal
+3881502,Veronica Latsko,Seattle Reign,17.7158121462156,0.058717332458073784,False,Right Foot,Open Play,1,1,1,Normal
+3881502,Bethany Balcer,Seattle Reign,8.297590011563592,0.05739615951341582,False,Right Foot,Open Play,0,0,5,Normal
+3881502,Jessica Fishlock,Seattle Reign,11.315917991926243,0.05630826726778067,True,Left Foot,Open Play,1,0,3,Normal
+3881502,Allyson Schlegel,Chicago Red Stars,15.938004893963354,0.05888693600158037,True,Right Foot,Open Play,0,0,2,Normal
+3881502,Megan Anna Rapinoe,Seattle Reign,22.700881040171108,0.06425111647684958,False,Right Foot,Open Play,1,0,2,Normal
+3881502,Jessica Fishlock,Seattle Reign,11.172287142747454,0.05521079238618236,False,Right Foot,Open Play,1,1,3,Backheel
+3881502,Jessica Fishlock,Seattle Reign,20.130822139197395,0.0606643132982746,False,Right Foot,Open Play,0,1,1,Half Volley
+3881502,Jordyn Pamela Huitema,Seattle Reign,22.27128195681605,0.06708154899163149,False,Left Foot,Open Play,0,1,1,Normal
+3881502,Penelope Hocking,Chicago Red Stars,19.7327139542436,0.0597670914818168,False,Right Foot,Open Play,0,0,3,Normal
+3881502,Jordyn Pamela Huitema,Seattle Reign,9.68762096698668,0.05955792708850263,False,Right Foot,Open Play,0,1,1,Half Volley
+3881502,Ava Cook,Chicago Red Stars,26.201717500957834,0.06954211196213567,False,Left Foot,Open Play,0,1,2,Normal
+3881502,Arin Wright,Chicago Red Stars,12.355565547557909,0.06107491342680975,False,Left Foot,Open Play,1,1,1,Half Volley
+3881502,Megan Anna Rapinoe,Seattle Reign,30.259709185648163,0.06936442639956479,True,Right Foot,Free Kick,0,0,0,Normal
+3881502,Jessica Fishlock,Seattle Reign,11.399122773266368,0.05982399713560012,True,Right Foot,Open Play,1,0,2,Normal
+3881502,Nikki Stanton,Seattle Reign,15.12117720285031,0.059572277932956955,False,Right Foot,Open Play,1,0,1,Normal
+3881502,Jenna Bike,Chicago Red Stars,13.209844813622906,0.053477370326718454,False,Right Foot,Open Play,0,1,2,Normal

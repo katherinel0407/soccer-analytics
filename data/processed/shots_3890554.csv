@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.40737593433592,0.06544030233811217,False,Left Foot,Open Play,0,1,2,Normal
-15.435349040433131,0.05296575567511668,False,Right Foot,Open Play,0,0,2,Normal
-20.306649157357295,0.055744304258786424,False,Right Foot,Open Play,0,1,2,Normal
-12.747548783981962,0.06125723475480202,False,Head,Open Play,0,1,2,Normal
-9.158602513484245,0.059382483398055234,False,Head,Open Play,0,1,3,Normal
-28.273308968000187,0.06516168472988572,False,Right Foot,Free Kick,0,0,0,Normal
-23.429255216502295,0.06157930874970146,False,Right Foot,Open Play,0,1,1,Normal
-12.384264209067888,0.06103442393771662,False,Head,Open Play,0,1,3,Normal
-21.24758809841719,0.06469782074721042,False,Right Foot,Open Play,1,1,1,Half Volley
-13.567977004697497,0.05369515823865693,False,Right Foot,Open Play,1,1,1,Volley
-17.996110690924308,0.06385861018971994,False,Left Foot,Open Play,0,0,1,Normal
-16.223748025656704,0.06054755453012205,False,Head,Open Play,0,1,1,Normal
-30.194370336206713,0.05956610439736569,False,Right Foot,Open Play,0,0,1,Normal
-9.871676655968827,0.05780753922674419,False,Head,Open Play,0,1,6,Normal
-14.92816130673835,0.06227546032619488,False,Left Foot,Open Play,1,0,1,Normal
-28.800173610587837,0.06853590241259437,False,Right Foot,Open Play,0,0,3,Normal
-12.995768542106312,0.0614282016680374,False,Left Foot,Open Play,1,1,2,Volley
-11.364858116140297,0.056852254072246304,False,Right Foot,Open Play,1,1,1,Normal
-14.350261321662401,0.06010888391250732,False,Right Foot,Open Play,1,0,1,Normal
-8.41724420460759,0.05740122861722812,False,Head,Open Play,0,1,4,Normal
-24.85558287387362,0.06094340390091404,False,Right Foot,Open Play,0,1,3,Normal
-15.92890454488318,0.05468391198136501,False,Right Foot,Open Play,1,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890554,Clemens Fritz,Werder Bremen,24.40737593433592,0.06544030233811217,False,Left Foot,Open Play,0,1,2,Normal
+3890554,Simon Zoller,FC Köln,15.435349040433131,0.05296575567511668,False,Right Foot,Open Play,0,0,2,Normal
+3890554,Fin Bartels,Werder Bremen,20.306649157357295,0.055744304258786424,False,Right Foot,Open Play,0,1,2,Normal
+3890554,Papiss Mison Djilobodji,Werder Bremen,12.747548783981962,0.06125723475480202,False,Head,Open Play,0,1,2,Normal
+3890554,Jannik Vestergaard,Werder Bremen,9.158602513484245,0.059382483398055234,False,Head,Open Play,0,1,3,Normal
+3890554,Zlatko Junuzović,Werder Bremen,28.273308968000187,0.06516168472988572,False,Right Foot,Free Kick,0,0,0,Normal
+3890554,Clemens Fritz,Werder Bremen,23.429255216502295,0.06157930874970146,False,Right Foot,Open Play,0,1,1,Normal
+3890554,Papiss Mison Djilobodji,Werder Bremen,12.384264209067888,0.06103442393771662,False,Head,Open Play,0,1,3,Normal
+3890554,Zlatko Junuzović,Werder Bremen,21.24758809841719,0.06469782074721042,False,Right Foot,Open Play,1,1,1,Half Volley
+3890554,Zlatko Junuzović,Werder Bremen,13.567977004697497,0.05369515823865693,False,Right Foot,Open Play,1,1,1,Volley
+3890554,Anthony Modeste,FC Köln,17.996110690924308,0.06385861018971994,False,Left Foot,Open Play,0,0,1,Normal
+3890554,Anthony Modeste,FC Köln,16.223748025656704,0.06054755453012205,False,Head,Open Play,0,1,1,Normal
+3890554,Levin Mete Öztunali,Werder Bremen,30.194370336206713,0.05956610439736569,False,Right Foot,Open Play,0,0,1,Normal
+3890554,Papiss Mison Djilobodji,Werder Bremen,9.871676655968827,0.05780753922674419,False,Head,Open Play,0,1,6,Normal
+3890554,Leonardo Bittencourt,FC Köln,14.92816130673835,0.06227546032619488,False,Left Foot,Open Play,1,0,1,Normal
+3890554,Marcel Hartel,FC Köln,28.800173610587837,0.06853590241259437,False,Right Foot,Open Play,0,0,3,Normal
+3890554,Anthony Modeste,FC Köln,12.995768542106312,0.0614282016680374,False,Left Foot,Open Play,1,1,2,Volley
+3890554,Marcel Hartel,FC Köln,11.364858116140297,0.056852254072246304,False,Right Foot,Open Play,1,1,1,Normal
+3890554,Claudio Miguel Pizarro Bossio,Werder Bremen,14.350261321662401,0.06010888391250732,False,Right Foot,Open Play,1,0,1,Normal
+3890554,Claudio Miguel Pizarro Bossio,Werder Bremen,8.41724420460759,0.05740122861722812,False,Head,Open Play,0,1,4,Normal
+3890554,Marcel Hartel,FC Köln,24.85558287387362,0.06094340390091404,False,Right Foot,Open Play,0,1,3,Normal
+3890554,Jonas Hector,FC Köln,15.92890454488318,0.05468391198136501,False,Right Foot,Open Play,1,0,2,Normal

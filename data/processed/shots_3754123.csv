@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.552627846210903,0.06420390313627833,False,Left Foot,Open Play,1,0,2,Half Volley
-22.46285823309224,0.06537880534794979,False,Right Foot,Open Play,0,0,2,Normal
-31.89890280244761,0.07416870063200083,False,Right Foot,Open Play,0,0,1,Normal
-16.823792675850473,0.05919443185453113,False,Left Foot,Open Play,0,0,2,Normal
-18.201098867925534,0.062194728048919165,False,Left Foot,Open Play,1,0,1,Normal
-15.226949793047849,0.054267335567084254,False,Right Foot,Open Play,1,1,1,Normal
-11.469088891450795,0.060553664916118806,False,Head,Open Play,0,0,2,Normal
-24.42334948363963,0.06193436987170788,True,Right Foot,Open Play,1,0,1,Normal
-9.002777349240619,0.05890052359402336,False,Head,Open Play,0,1,2,Normal
-9.394147114027968,0.056796270647518694,False,Head,Open Play,0,1,2,Normal
-17.632356620712958,0.0641050651415709,False,Left Foot,Open Play,0,0,2,Normal
-22.27936264797536,0.06669199777216703,False,Right Foot,Open Play,0,0,2,Normal
-10.830050784737805,0.060209956865027704,False,Head,Open Play,0,1,2,Normal
-14.80607983228512,0.05842584255132252,False,Right Foot,Open Play,1,0,0,Normal
-18.866372200293302,0.06392666126690674,False,Right Foot,Open Play,1,0,1,Normal
-26.803917624108603,0.05379245597380973,False,Left Foot,Free Kick,0,0,0,Normal
-11.80169479354554,0.05943636326064076,True,Left Foot,Penalty,0,0,0,Normal
-6.762396025078688,0.058072302561509345,True,Right Foot,Open Play,1,0,1,Half Volley
-34.86617271797981,0.07294834971315038,False,Left Foot,Free Kick,0,0,0,Normal
-23.49553149005147,0.05768287813253196,False,Right Foot,Open Play,1,0,1,Half Volley
-16.702694393420483,0.061659247173607525,False,Left Foot,Open Play,0,0,1,Half Volley
-8.832326986700618,0.058740351023914394,False,Head,Open Play,0,1,1,Normal
-20.25660386145713,0.06492711090649453,False,Left Foot,Open Play,0,0,2,Normal
-5.510898293381948,0.057264833276797926,False,Head,Open Play,0,1,6,Normal
-18.48053029542172,0.058438353110897866,False,Left Foot,Open Play,0,0,1,Normal
-20.057168294652165,0.06569288086904934,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754123,Romelu Lukaku Menama,Everton,18.552627846210903,0.06420390313627833,False,Left Foot,Open Play,1,0,2,Half Volley
+3754123,Tom Davies,Everton,22.46285823309224,0.06537880534794979,False,Right Foot,Open Play,0,0,2,Normal
+3754123,Nathan Redmond,Norwich City,31.89890280244761,0.07416870063200083,False,Right Foot,Open Play,0,0,1,Normal
+3754123,Romelu Lukaku Menama,Everton,16.823792675850473,0.05919443185453113,False,Left Foot,Open Play,0,0,2,Normal
+3754123,Romelu Lukaku Menama,Everton,18.201098867925534,0.062194728048919165,False,Left Foot,Open Play,1,0,1,Normal
+3754123,Cameron Jerome,Norwich City,15.226949793047849,0.054267335567084254,False,Right Foot,Open Play,1,1,1,Normal
+3754123,Cameron Jerome,Norwich City,11.469088891450795,0.060553664916118806,False,Head,Open Play,0,0,2,Normal
+3754123,James McCarthy,Everton,24.42334948363963,0.06193436987170788,True,Right Foot,Open Play,1,0,1,Normal
+3754123,Romelu Lukaku Menama,Everton,9.002777349240619,0.05890052359402336,False,Head,Open Play,0,1,2,Normal
+3754123,Romelu Lukaku Menama,Everton,9.394147114027968,0.056796270647518694,False,Head,Open Play,0,1,2,Normal
+3754123,Kevin Mirallas,Everton,17.632356620712958,0.0641050651415709,False,Left Foot,Open Play,0,0,2,Normal
+3754123,Nathan Redmond,Norwich City,22.27936264797536,0.06669199777216703,False,Right Foot,Open Play,0,0,2,Normal
+3754123,Russell Martin,Norwich City,10.830050784737805,0.060209956865027704,False,Head,Open Play,0,1,2,Normal
+3754123,Steven Naismith,Norwich City,14.80607983228512,0.05842584255132252,False,Right Foot,Open Play,1,0,0,Normal
+3754123,Matt Jarvis,Norwich City,18.866372200293302,0.06392666126690674,False,Right Foot,Open Play,1,0,1,Normal
+3754123,Leighton Baines,Everton,26.803917624108603,0.05379245597380973,False,Left Foot,Free Kick,0,0,0,Normal
+3754123,Leighton Baines,Everton,11.80169479354554,0.05943636326064076,True,Left Foot,Penalty,0,0,0,Normal
+3754123,Kevin Mirallas,Everton,6.762396025078688,0.058072302561509345,True,Right Foot,Open Play,1,0,1,Half Volley
+3754123,Leighton Baines,Everton,34.86617271797981,0.07294834971315038,False,Left Foot,Free Kick,0,0,0,Normal
+3754123,Graham Dorrans,Norwich City,23.49553149005147,0.05768287813253196,False,Right Foot,Open Play,1,0,1,Half Volley
+3754123,Robert Brady,Norwich City,16.702694393420483,0.061659247173607525,False,Left Foot,Open Play,0,0,1,Half Volley
+3754123,Cameron Jerome,Norwich City,8.832326986700618,0.058740351023914394,False,Head,Open Play,0,1,1,Normal
+3754123,Ross Barkley,Everton,20.25660386145713,0.06492711090649453,False,Left Foot,Open Play,0,0,2,Normal
+3754123,Sébastien Aymar Bassong Nguena,Norwich City,5.510898293381948,0.057264833276797926,False,Head,Open Play,0,1,6,Normal
+3754123,Jonjoe Kenny,Everton,18.48053029542172,0.058438353110897866,False,Left Foot,Open Play,0,0,1,Normal
+3754123,Aaron Lennon,Everton,20.057168294652165,0.06569288086904934,False,Right Foot,Open Play,0,0,2,Normal

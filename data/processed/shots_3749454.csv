@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-25.355078386784772,0.06689852935863085,False,Right Foot,Open Play,1,0,0,Volley
-31.59398676963703,0.07100534166867625,False,Right Foot,Open Play,0,0,2,Normal
-23.97331850203471,0.06819808900953922,False,Left Foot,Open Play,1,0,1,Volley
-23.935329536064465,0.05064297117693449,False,Right Foot,Open Play,0,0,2,Normal
-34.86215713348788,0.06070649499608313,False,Right Foot,Open Play,1,0,1,Half Volley
-12.592855117089211,0.06067543482260582,False,Other,Open Play,0,0,2,Normal
-22.6503863101714,0.06738842089800598,False,Right Foot,Open Play,1,0,1,Normal
-32.4154284253656,0.04967501729650932,False,Left Foot,Free Kick,0,0,0,Normal
-22.027255843613382,0.06698757519524018,False,Left Foot,Open Play,0,0,2,Normal
-22.380571931923456,0.056369220016112165,False,Right Foot,Open Play,1,0,1,Normal
-19.89773856497265,0.053830039216510556,False,Right Foot,Open Play,0,0,1,Normal
-23.880117252643462,0.0680028958270748,False,Right Foot,Open Play,0,0,1,Volley
-24.493468517137384,0.06737532218640618,False,Right Foot,Open Play,1,0,2,Half Volley
-7.9404030124421325,0.058750555098824875,True,Left Foot,Open Play,1,0,2,Normal
-23.135254483147577,0.056731870397725974,False,Left Foot,Open Play,1,0,1,Volley
-9.84784240328814,0.054200323297588414,False,Right Foot,Open Play,1,0,2,Volley
-13.19393800197651,0.05873510443199912,False,Right Foot,Open Play,0,0,2,Normal
-23.42007685726074,0.061158606420329636,False,Right Foot,Open Play,0,0,1,Normal
-13.508515832614625,0.057513381945498064,False,Right Foot,Open Play,1,0,1,Volley
-59.87929525303383,0.10215500473697543,False,Left Foot,Open Play,0,0,0,Normal
-12.224974437601091,0.06053323893225721,True,Right Foot,Open Play,1,0,3,Normal
-21.992044015961767,0.06659167981495538,False,Right Foot,Open Play,0,0,4,Normal
-9.466784036831088,0.05954340488246415,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749454,Thierry Henry,Arsenal,25.355078386784772,0.06689852935863085,False,Right Foot,Open Play,1,0,0,Volley
+3749454,Robert Pirès,Arsenal,31.59398676963703,0.07100534166867625,False,Right Foot,Open Play,0,0,2,Normal
+3749454,Antoine Sibierski,Manchester City,23.97331850203471,0.06819808900953922,False,Left Foot,Open Play,1,0,1,Volley
+3749454,Nicolas Anelka,Manchester City,23.935329536064465,0.05064297117693449,False,Right Foot,Open Play,0,0,2,Normal
+3749454,Shaun Wright-Phillips,Manchester City,34.86215713348788,0.06070649499608313,False,Right Foot,Open Play,1,0,1,Half Volley
+3749454,Nicolas Anelka,Manchester City,12.592855117089211,0.06067543482260582,False,Other,Open Play,0,0,2,Normal
+3749454,Nicolas Anelka,Manchester City,22.6503863101714,0.06738842089800598,False,Right Foot,Open Play,1,0,1,Normal
+3749454,Michael Tarnat,Manchester City,32.4154284253656,0.04967501729650932,False,Left Foot,Free Kick,0,0,0,Normal
+3749454,Antoine Sibierski,Manchester City,22.027255843613382,0.06698757519524018,False,Left Foot,Open Play,0,0,2,Normal
+3749454,Nicolas Anelka,Manchester City,22.380571931923456,0.056369220016112165,False,Right Foot,Open Play,1,0,1,Normal
+3749454,Fredrik Ljungberg,Arsenal,19.89773856497265,0.053830039216510556,False,Right Foot,Open Play,0,0,1,Normal
+3749454,Sylvain Wiltord,Arsenal,23.880117252643462,0.0680028958270748,False,Right Foot,Open Play,0,0,1,Volley
+3749454,Sylvain Wiltord,Arsenal,24.493468517137384,0.06737532218640618,False,Right Foot,Open Play,1,0,2,Half Volley
+3749454,Sylvain Wiltord,Arsenal,7.9404030124421325,0.058750555098824875,True,Left Foot,Open Play,1,0,2,Normal
+3749454,Robert Pirès,Arsenal,23.135254483147577,0.056731870397725974,False,Left Foot,Open Play,1,0,1,Volley
+3749454,Fredrik Ljungberg,Arsenal,9.84784240328814,0.054200323297588414,False,Right Foot,Open Play,1,0,2,Volley
+3749454,Antoine Sibierski,Manchester City,13.19393800197651,0.05873510443199912,False,Right Foot,Open Play,0,0,2,Normal
+3749454,Nicolas Anelka,Manchester City,23.42007685726074,0.061158606420329636,False,Right Foot,Open Play,0,0,1,Normal
+3749454,Robert Pirès,Arsenal,13.508515832614625,0.057513381945498064,False,Right Foot,Open Play,1,0,1,Volley
+3749454,Michael Tarnat,Manchester City,59.87929525303383,0.10215500473697543,False,Left Foot,Open Play,0,0,0,Normal
+3749454,Fredrik Ljungberg,Arsenal,12.224974437601091,0.06053323893225721,True,Right Foot,Open Play,1,0,3,Normal
+3749454,Thierry Henry,Arsenal,21.992044015961767,0.06659167981495538,False,Right Foot,Open Play,0,0,4,Normal
+3749454,Robbie Fowler,Manchester City,9.466784036831088,0.05954340488246415,False,Head,Open Play,0,1,4,Normal

@@ -1,23 +1,23 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.517538463198402,0.07144926366629356,False,Left Foot,Open Play,0,0,2,Normal
-13.822083779228084,0.056273489807860476,False,Left Foot,Open Play,1,1,2,Half Volley
-36.444478319767455,0.0777741917887831,False,Right Foot,Open Play,0,1,1,Normal
-21.411212016137714,0.06633716654429231,False,Left Foot,Open Play,1,0,1,Normal
-27.576983156248257,0.07047002012729979,False,Left Foot,Open Play,0,1,1,Half Volley
-28.856195175386514,0.06827072441371822,False,Left Foot,Open Play,0,0,1,Normal
-10.400480758118825,0.05504404288678345,False,Head,Open Play,0,0,2,Normal
-14.701360481261592,0.060662389824686115,False,Left Foot,Open Play,1,0,2,Normal
-19.743606560099398,0.06521801046108289,False,Left Foot,Open Play,1,1,2,Normal
-31.629100524675064,0.07078475354310164,True,Left Foot,Free Kick,0,0,0,Normal
-17.44161689752415,0.06407544316470934,False,Right Foot,Open Play,1,1,1,Half Volley
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-14.08012784032872,0.062087515703349895,False,Right Foot,Open Play,1,0,0,Half Volley
-12.432618388738558,0.05943144865318561,False,Other,Open Play,0,0,1,Normal
-15.915401345866217,0.061534270874133934,False,Head,Open Play,0,1,5,Normal
-15.697770542341349,0.05778103907577466,False,Left Foot,Open Play,0,0,2,Normal
-26.28193295783246,0.06295935870076434,False,Left Foot,Open Play,0,0,2,Normal
-19.260841103129426,0.053608954597666174,False,Left Foot,Open Play,0,0,2,Normal
-13.94883507680838,0.05909084504515913,False,Head,Open Play,0,1,3,Normal
-6.706713054842882,0.05654381914619297,True,Right Foot,Open Play,1,0,4,Overhead Kick
-20.17176244159147,0.06444857874664144,False,Left Foot,Open Play,0,1,2,Normal
-10.420172743289815,0.06000889919895487,False,Head,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901162,Vincent Bessat,Stade Malherbe Caen,28.517538463198402,0.07144926366629356,False,Left Foot,Open Play,0,0,2,Normal
+3901162,Thomas Lemar,AS Monaco,13.822083779228084,0.056273489807860476,False,Left Foot,Open Play,1,1,2,Half Volley
+3901162,Ronny Rodelin,Stade Malherbe Caen,36.444478319767455,0.0777741917887831,False,Right Foot,Open Play,0,1,1,Normal
+3901162,Elderson Uwa Echiejile,AS Monaco,21.411212016137714,0.06633716654429231,False,Left Foot,Open Play,1,0,1,Normal
+3901162,Thomas Lemar,AS Monaco,27.576983156248257,0.07047002012729979,False,Left Foot,Open Play,0,1,1,Half Volley
+3901162,Michaël Jordan Nkololo,Stade Malherbe Caen,28.856195175386514,0.06827072441371822,False,Left Foot,Open Play,0,0,1,Normal
+3901162,Alaeddine Yahia,Stade Malherbe Caen,10.400480758118825,0.05504404288678345,False,Head,Open Play,0,0,2,Normal
+3901162,Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,14.701360481261592,0.060662389824686115,False,Left Foot,Open Play,1,0,2,Normal
+3901162,Lacina Traoré,AS Monaco,19.743606560099398,0.06521801046108289,False,Left Foot,Open Play,1,1,2,Normal
+3901162,Thomas Lemar,AS Monaco,31.629100524675064,0.07078475354310164,True,Left Foot,Free Kick,0,0,0,Normal
+3901162,Nicolas Seube,Stade Malherbe Caen,17.44161689752415,0.06407544316470934,False,Right Foot,Open Play,1,1,1,Half Volley
+3901162,Julien Féret,Stade Malherbe Caen,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3901162,Hélder Wander Sousa Azevedo Costa,AS Monaco,14.08012784032872,0.062087515703349895,False,Right Foot,Open Play,1,0,0,Half Volley
+3901162,Michaël Jordan Nkololo,Stade Malherbe Caen,12.432618388738558,0.05943144865318561,False,Other,Open Play,0,0,1,Normal
+3901162,Alaeddine Yahia,Stade Malherbe Caen,15.915401345866217,0.061534270874133934,False,Head,Open Play,0,1,5,Normal
+3901162,Jeff Louis,Stade Malherbe Caen,15.697770542341349,0.05778103907577466,False,Left Foot,Open Play,0,0,2,Normal
+3901162,Dennis Appiah,Stade Malherbe Caen,26.28193295783246,0.06295935870076434,False,Left Foot,Open Play,0,0,2,Normal
+3901162,Jeff Louis,Stade Malherbe Caen,19.260841103129426,0.053608954597666174,False,Left Foot,Open Play,0,0,2,Normal
+3901162,Damien Da Silva,Stade Malherbe Caen,13.94883507680838,0.05909084504515913,False,Head,Open Play,0,1,3,Normal
+3901162,Christian Kouakou Yao,Stade Malherbe Caen,6.706713054842882,0.05654381914619297,True,Right Foot,Open Play,1,0,4,Overhead Kick
+3901162,Jeff Louis,Stade Malherbe Caen,20.17176244159147,0.06444857874664144,False,Left Foot,Open Play,0,1,2,Normal
+3901162,Ricardo Alberto Silveira de Carvalho,AS Monaco,10.420172743289815,0.06000889919895487,False,Head,Open Play,0,0,3,Normal

@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.041594578792296,0.05485128092507768,False,Head,Open Play,0,0,3,Normal
-16.278820596099706,0.06320301473971049,False,Left Foot,Open Play,0,0,1,Volley
-17.0,0.06377392421668256,True,Left Foot,Open Play,0,0,2,Half Volley
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-12.041594578792296,0.05923032748333684,False,Left Foot,Open Play,0,0,3,Half Volley
-6.708203932499369,0.05768020589547797,False,Head,Open Play,0,1,3,Normal
-15.652475842498529,0.06150543791049415,False,Right Foot,Open Play,1,0,2,Half Volley
-5.0,0.05677274173885964,False,Head,Open Play,0,0,5,Normal
-25.495097567963924,0.06292532539615285,False,Left Foot,Open Play,1,0,1,Normal
-18.439088914585774,0.06404673369992225,False,Left Foot,Open Play,0,0,2,Normal
-12.206555615733702,0.06103703463512825,False,Head,Open Play,0,1,3,Normal
-30.083217912982647,0.06292711152415441,False,Right Foot,Open Play,0,0,1,Volley
-15.811388300841896,0.05179943686464094,False,Right Foot,Open Play,0,0,3,Normal
-21.02379604162864,0.06310426200516898,False,Right Foot,Open Play,1,0,1,Normal
-18.027756377319946,0.06259983326144378,True,Left Foot,Open Play,1,0,1,Normal
-13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,3,Overhead Kick
-26.40075756488817,0.06985307636404452,False,Right Foot,Open Play,0,0,1,Normal
-26.0,0.06592238762509454,True,Right Foot,Open Play,0,0,1,Normal
-6.708203932499369,0.056204379769354176,True,Right Foot,Open Play,1,0,1,Normal
-42.0,0.07429779793954071,False,Right Foot,Open Play,0,0,0,Normal
-21.470910553583888,0.06658130687966891,False,Left Foot,Open Play,0,1,1,Normal
-30.4138126514911,0.05383774596123744,False,Left Foot,Open Play,0,1,3,Normal
-34.0,0.07590491791696151,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+8658,Domagoj Vida,Croatia,12.041594578792296,0.05485128092507768,False,Head,Open Play,0,0,3,Normal
+8658,Ivan Rakitić,Croatia,16.278820596099706,0.06320301473971049,False,Left Foot,Open Play,0,0,1,Volley
+8658,Ivan Perišić,Croatia,17.0,0.06377392421668256,True,Left Foot,Open Play,0,0,2,Half Volley
+8658,Antoine Griezmann,France,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+8658,Ante Rebić,Croatia,12.041594578792296,0.05923032748333684,False,Left Foot,Open Play,0,0,3,Half Volley
+8658,Ivan Perišić,Croatia,6.708203932499369,0.05768020589547797,False,Head,Open Play,0,1,3,Normal
+8658,Dejan Lovren,Croatia,15.652475842498529,0.06150543791049415,False,Right Foot,Open Play,1,0,2,Half Volley
+8658,Domagoj Vida,Croatia,5.0,0.05677274173885964,False,Head,Open Play,0,0,5,Normal
+8658,Antoine Griezmann,France,25.495097567963924,0.06292532539615285,False,Left Foot,Open Play,1,0,1,Normal
+8658,Ante Rebić,Croatia,18.439088914585774,0.06404673369992225,False,Left Foot,Open Play,0,0,2,Normal
+8658,Dejan Lovren,Croatia,12.206555615733702,0.06103703463512825,False,Head,Open Play,0,1,3,Normal
+8658,Šime Vrsaljko,Croatia,30.083217912982647,0.06292711152415441,False,Right Foot,Open Play,0,0,1,Volley
+8658,Kylian Mbappé Lottin,France,15.811388300841896,0.05179943686464094,False,Right Foot,Open Play,0,0,3,Normal
+8658,Paul Pogba,France,21.02379604162864,0.06310426200516898,False,Right Foot,Open Play,1,0,1,Normal
+8658,Paul Pogba,France,18.027756377319946,0.06259983326144378,True,Left Foot,Open Play,1,0,1,Normal
+8658,Olivier Giroud,France,13.601470508735444,0.061235359818740384,False,Left Foot,Open Play,1,0,3,Overhead Kick
+8658,Ante Rebić,Croatia,26.40075756488817,0.06985307636404452,False,Right Foot,Open Play,0,0,1,Normal
+8658,Kylian Mbappé Lottin,France,26.0,0.06592238762509454,True,Right Foot,Open Play,0,0,1,Normal
+8658,Mario Mandžukić,Croatia,6.708203932499369,0.056204379769354176,True,Right Foot,Open Play,1,0,1,Normal
+8658,Šime Vrsaljko,Croatia,42.0,0.07429779793954071,False,Right Foot,Open Play,0,0,0,Normal
+8658,Ivan Rakitić,Croatia,21.470910553583888,0.06658130687966891,False,Left Foot,Open Play,0,1,1,Normal
+8658,Nabil Fekir,France,30.4138126514911,0.05383774596123744,False,Left Foot,Open Play,0,1,3,Normal
+8658,Ivan Rakitić,Croatia,34.0,0.07590491791696151,False,Right Foot,Open Play,0,0,2,Normal

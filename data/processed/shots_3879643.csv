@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.68882932020083,0.06544670508938041,False,Left Foot,Open Play,0,0,3,Normal
-7.9404030124421325,0.055789682323028326,False,Head,Open Play,0,1,3,Normal
-8.935882720806049,0.05858177231633554,True,Right Foot,Open Play,1,0,4,Half Volley
-22.594247055390007,0.06723077473069791,False,Right Foot,Open Play,0,1,2,Normal
-23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,1,0,2,Half Volley
-24.742069436488126,0.05603078606991947,False,Left Foot,Open Play,0,0,2,Normal
-27.614670014323913,0.07004800816768326,False,Right Foot,Open Play,1,0,1,Normal
-25.400000000000006,0.0656314451258654,False,Left Foot,Open Play,0,1,1,Volley
-12.001666550941998,0.059519665423498846,True,Right Foot,Open Play,0,0,3,Normal
-7.727871634544665,0.057421467258606564,False,Head,Open Play,0,1,5,Normal
-25.872379094316013,0.06141745439335755,False,Right Foot,Free Kick,0,0,0,Normal
-17.26615185847732,0.06387029426722693,False,Left Foot,Open Play,0,0,1,Normal
-11.951987282456416,0.058820999112976516,False,Right Foot,Open Play,1,1,2,Half Volley
-14.750254235097096,0.06148617658568012,False,Left Foot,Open Play,1,1,3,Normal
-9.749358953285084,0.059651813601206555,True,Right Foot,Open Play,1,0,2,Normal
-14.305593311708542,0.054340014137997494,False,Right Foot,Open Play,1,0,1,Normal
-20.327321515635056,0.06570853712100168,False,Right Foot,Open Play,0,0,2,Normal
-8.621484790916233,0.059097678390122595,False,Head,Open Play,0,1,1,Normal
-12.376186811776881,0.05239264661825003,False,Right Foot,Open Play,0,0,2,Half Volley
-18.760863519571803,0.056200787040052665,False,Left Foot,Open Play,0,1,2,Normal
-19.060167890131506,0.06501965071613028,False,Left Foot,Open Play,0,1,3,Normal
-18.13422179196008,0.05756517883911111,False,Right Foot,Open Play,0,0,3,Normal
-7.665507158694726,0.05705984437992438,False,Head,Open Play,0,0,5,Normal
-19.568597292601225,0.05599158952897795,False,Left Foot,Open Play,0,0,1,Normal
-19.31035991378721,0.06491810606809358,True,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879643,Vasco Regini,Sampdoria,19.68882932020083,0.06544670508938041,False,Left Foot,Open Play,0,0,3,Normal
+3879643,Karim Laribi,Sassuolo,7.9404030124421325,0.055789682323028326,False,Head,Open Play,0,1,3,Normal
+3879643,Francesco Acerbi,Sassuolo,8.935882720806049,0.05858177231633554,True,Right Foot,Open Play,1,0,4,Half Volley
+3879643,Nicola Sansone,Sassuolo,22.594247055390007,0.06723077473069791,False,Right Foot,Open Play,0,1,2,Normal
+3879643,Lorenzo Pellegrini,Sassuolo,23.769307941124413,0.06813085160982665,False,Right Foot,Open Play,1,0,2,Half Volley
+3879643,Matteo Politano,Sassuolo,24.742069436488126,0.05603078606991947,False,Left Foot,Open Play,0,0,2,Normal
+3879643,Lorenzo Pellegrini,Sassuolo,27.614670014323913,0.07004800816768326,False,Right Foot,Open Play,1,0,1,Normal
+3879643,Lorenzo Pellegrini,Sassuolo,25.400000000000006,0.0656314451258654,False,Left Foot,Open Play,0,1,1,Volley
+3879643,Sergio Floccari,Sassuolo,12.001666550941998,0.059519665423498846,True,Right Foot,Open Play,0,0,3,Normal
+3879643,Antonio Cassano,Sampdoria,7.727871634544665,0.057421467258606564,False,Head,Open Play,0,1,5,Normal
+3879643,Eder Citadin Martins,Sampdoria,25.872379094316013,0.06141745439335755,False,Right Foot,Free Kick,0,0,0,Normal
+3879643,Sergio Floccari,Sassuolo,17.26615185847732,0.06387029426722693,False,Left Foot,Open Play,0,0,1,Normal
+3879643,Nicola Sansone,Sassuolo,11.951987282456416,0.058820999112976516,False,Right Foot,Open Play,1,1,2,Half Volley
+3879643,Lorenzo Pellegrini,Sassuolo,14.750254235097096,0.06148617658568012,False,Left Foot,Open Play,1,1,3,Normal
+3879643,Lorenzo Pellegrini,Sassuolo,9.749358953285084,0.059651813601206555,True,Right Foot,Open Play,1,0,2,Normal
+3879643,Eder Citadin Martins,Sampdoria,14.305593311708542,0.054340014137997494,False,Right Foot,Open Play,1,0,1,Normal
+3879643,Antonio Cassano,Sampdoria,20.327321515635056,0.06570853712100168,False,Right Foot,Open Play,0,0,2,Normal
+3879643,Sergio Floccari,Sassuolo,8.621484790916233,0.059097678390122595,False,Head,Open Play,0,1,1,Normal
+3879643,Antonio Cassano,Sampdoria,12.376186811776881,0.05239264661825003,False,Right Foot,Open Play,0,0,2,Half Volley
+3879643,Matteo Politano,Sassuolo,18.760863519571803,0.056200787040052665,False,Left Foot,Open Play,0,1,2,Normal
+3879643,Matteo Politano,Sassuolo,19.060167890131506,0.06501965071613028,False,Left Foot,Open Play,0,1,3,Normal
+3879643,Roberto Soriano,Sampdoria,18.13422179196008,0.05756517883911111,False,Right Foot,Open Play,0,0,3,Normal
+3879643,Sergio Floccari,Sassuolo,7.665507158694726,0.05705984437992438,False,Head,Open Play,0,0,5,Normal
+3879643,Simone Missiroli,Sassuolo,19.568597292601225,0.05599158952897795,False,Left Foot,Open Play,0,0,1,Normal
+3879643,Ervin Zukanović,Sampdoria,19.31035991378721,0.06491810606809358,True,Head,Open Play,0,1,2,Normal

@@ -1,42 +1,42 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-34.66987164671943,0.07634121627735525,False,Left Foot,Open Play,0,1,1,Normal
-26.832815729997478,0.05895096143276292,False,Right Foot,Open Play,0,1,1,Normal
-18.35755975068582,0.06462474310610325,False,Right Foot,Open Play,0,1,1,Normal
-12.206555615733702,0.06103703463512825,False,Head,Open Play,0,0,4,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-23.853720883753127,0.06820563083154639,False,Right Foot,Open Play,0,0,1,Normal
-11.40175425099138,0.05256937493952818,False,Right Foot,Open Play,1,0,2,Normal
-9.899494936611665,0.05521824177545141,False,Head,Open Play,0,0,3,Normal
-11.40175425099138,0.05591342651236463,False,Right Foot,Open Play,0,0,1,Normal
-11.661903789690601,0.060728982799624055,False,Other,Open Play,1,0,3,Normal
-12.529964086141668,0.061187670556394506,False,Head,Open Play,0,1,3,Normal
-24.041630560342615,0.06761890740333981,False,Left Foot,Open Play,1,0,0,Volley
-10.816653826391969,0.05627318492021817,False,Head,Open Play,0,0,2,Normal
-11.045361017187261,0.058822261465885754,False,Right Foot,Open Play,1,0,3,Volley
-21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,1,0,2,Volley
-14.866068747318506,0.060541131590670504,False,Left Foot,Open Play,1,0,1,Normal
-9.433981132056603,0.05953001347627859,False,Head,Open Play,0,1,4,Normal
-8.246211251235321,0.05729034715112584,False,Head,Open Play,0,1,3,Normal
-22.627416997969522,0.06680495517404733,False,Right Foot,Open Play,0,0,1,Normal
-8.06225774829855,0.05827886915945493,False,Head,Open Play,0,0,1,Normal
-28.653097563788805,0.07165954036182329,False,Left Foot,Open Play,0,0,1,Normal
-36.0,0.07102554700820925,False,Right Foot,Open Play,0,0,0,Normal
-24.351591323771842,0.06803943379041962,False,Left Foot,Open Play,0,0,2,Normal
-19.1049731745428,0.06483084575520397,False,Left Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,False,Head,Open Play,0,0,5,Normal
-22.135943621178654,0.06652908246992177,False,Left Foot,Open Play,0,0,1,Normal
-15.231546211727817,0.0524395051352899,False,Right Foot,Open Play,0,1,2,Normal
-12.165525060596439,0.05886470108823898,False,Left Foot,Open Play,1,0,2,Volley
-19.4164878389476,0.0609064397868972,False,Left Foot,Open Play,1,0,1,Volley
-22.47220505424423,0.052198157546165684,False,Left Foot,Open Play,0,1,1,Normal
-8.602325267042627,0.055904217137125255,False,Head,Open Play,0,1,5,Normal
-21.587033144922902,0.06570986017853818,False,Left Foot,Open Play,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,False,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
-11.045361017187261,0.058822261465885754,False,Left Foot,Penalty,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7582,Yuri Zhirkov,Russia,34.66987164671943,0.07634121627735525,False,Left Foot,Open Play,0,1,1,Normal
+7582,Roman Zobnin,Russia,26.832815729997478,0.05895096143276292,False,Right Foot,Open Play,0,1,1,Normal
+7582,Aleksandr Golovin,Russia,18.35755975068582,0.06462474310610325,False,Right Foot,Open Play,0,1,1,Normal
+7582,Artem Dzyuba,Russia,12.206555615733702,0.06103703463512825,False,Head,Open Play,0,0,4,Normal
+7582,Artem Dzyuba,Russia,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+7582,Francisco Román Alarcón Suárez,Spain,23.853720883753127,0.06820563083154639,False,Right Foot,Open Play,0,0,1,Normal
+7582,Diego da Silva Costa,Spain,11.40175425099138,0.05256937493952818,False,Right Foot,Open Play,1,0,2,Normal
+7582,Diego da Silva Costa,Spain,9.899494936611665,0.05521824177545141,False,Head,Open Play,0,0,3,Normal
+7582,Marco Asensio Willemsen,Spain,11.40175425099138,0.05591342651236463,False,Right Foot,Open Play,0,0,1,Normal
+7582,Jordi Alba Ramos,Spain,11.661903789690601,0.060728982799624055,False,Other,Open Play,1,0,3,Normal
+7582,Diego da Silva Costa,Spain,12.529964086141668,0.061187670556394506,False,Head,Open Play,0,1,3,Normal
+7582,Sergio Busquets i Burgos,Spain,24.041630560342615,0.06761890740333981,False,Left Foot,Open Play,1,0,0,Volley
+7582,David Josué Jiménez Silva,Spain,10.816653826391969,0.05627318492021817,False,Head,Open Play,0,0,2,Normal
+7582,Sergio Busquets i Burgos,Spain,11.045361017187261,0.058822261465885754,False,Right Foot,Open Play,1,0,3,Volley
+7582,Andrés Iniesta Luján,Spain,21.840329667841555,0.06612296148668041,False,Right Foot,Open Play,1,0,2,Volley
+7582,Iago Aspas Juncal,Spain,14.866068747318506,0.060541131590670504,False,Left Foot,Open Play,1,0,1,Normal
+7582,Gerard Piqué Bernabéu,Spain,9.433981132056603,0.05953001347627859,False,Head,Open Play,0,1,4,Normal
+7582,Sergio Ramos García,Spain,8.246211251235321,0.05729034715112584,False,Head,Open Play,0,1,3,Normal
+7582,Fyodor Smolov,Russia,22.627416997969522,0.06680495517404733,False,Right Foot,Open Play,0,0,1,Normal
+7582,Denis Cheryshev,Russia,8.06225774829855,0.05827886915945493,False,Head,Open Play,0,0,1,Normal
+7582,Jordi Alba Ramos,Spain,28.653097563788805,0.07165954036182329,False,Left Foot,Open Play,0,0,1,Normal
+7582,Jorge Resurrección Merodio,Spain,36.0,0.07102554700820925,False,Right Foot,Open Play,0,0,0,Normal
+7582,Marco Asensio Willemsen,Spain,24.351591323771842,0.06803943379041962,False,Left Foot,Open Play,0,0,2,Normal
+7582,Iago Aspas Juncal,Spain,19.1049731745428,0.06483084575520397,False,Left Foot,Open Play,0,0,2,Normal
+7582,Gerard Piqué Bernabéu,Spain,12.0,0.05959154427448477,False,Head,Open Play,0,0,5,Normal
+7582,Andrés Iniesta Luján,Spain,22.135943621178654,0.06652908246992177,False,Left Foot,Open Play,0,0,1,Normal
+7582,Rodrigo Moreno Machado,Spain,15.231546211727817,0.0524395051352899,False,Right Foot,Open Play,0,1,2,Normal
+7582,Daniel Carvajal Ramos,Spain,12.165525060596439,0.05886470108823898,False,Left Foot,Open Play,1,0,2,Volley
+7582,Rodrigo Moreno Machado,Spain,19.4164878389476,0.0609064397868972,False,Left Foot,Open Play,1,0,1,Volley
+7582,Gerard Piqué Bernabéu,Spain,22.47220505424423,0.052198157546165684,False,Left Foot,Open Play,0,1,1,Normal
+7582,Aleksandr Erokhin,Russia,8.602325267042627,0.055904217137125255,False,Head,Open Play,0,1,5,Normal
+7582,Rodrigo Moreno Machado,Spain,21.587033144922902,0.06570986017853818,False,Left Foot,Open Play,0,0,0,Normal
+7582,Andrés Iniesta Luján,Spain,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7582,Fyodor Smolov,Russia,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7582,Gerard Piqué Bernabéu,Spain,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7582,Sergei Ignashevich,Russia,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7582,Jorge Resurrección Merodio,Spain,11.045361017187261,0.058822261465885754,False,Right Foot,Penalty,0,0,0,Normal
+7582,Aleksandr Golovin,Russia,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7582,Sergio Ramos García,Spain,11.045361017187261,0.058822261465885754,True,Right Foot,Penalty,0,0,0,Normal
+7582,Denis Cheryshev,Russia,11.045361017187261,0.058822261465885754,True,Left Foot,Penalty,0,0,0,Normal
+7582,Iago Aspas Juncal,Spain,11.045361017187261,0.058822261465885754,False,Left Foot,Penalty,0,0,0,Normal

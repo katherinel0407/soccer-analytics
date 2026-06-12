@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-24.242112119202815,0.06832572871960886,False,Right Foot,Open Play,0,0,1,Normal
-20.4658251727117,0.06435029737511928,False,Right Foot,Open Play,1,0,1,Normal
-27.48545069668679,0.06108610314535808,False,Left Foot,Open Play,0,0,1,Normal
-22.156263222845137,0.06632259897786902,False,Right Foot,Free Kick,0,0,0,Normal
-15.9699718221417,0.052154496949348234,False,Right Foot,Open Play,1,0,1,Normal
-14.773286702694163,0.062471950023739405,False,Head,Open Play,0,0,1,Normal
-31.435807608521852,0.06774475627860743,False,Right Foot,Open Play,0,0,2,Normal
-15.030635382444743,0.057797195141934536,False,Left Foot,Open Play,0,0,2,Normal
-9.109335870413386,0.05824318065920292,False,Head,Open Play,0,0,2,Normal
-29.025850547399983,0.07002592384497824,False,Right Foot,Open Play,1,0,1,Normal
-14.312581877495058,0.060793246744217405,False,Right Foot,Open Play,0,0,3,Half Volley
-33.28798582071315,0.06479820746190575,False,Right Foot,Open Play,0,0,0,Normal
-30.90906016041251,0.07105293785289732,False,Right Foot,Free Kick,0,0,0,Normal
-18.151583952922678,0.05123975175256311,False,Left Foot,Open Play,0,0,1,Normal
-6.109828148156055,0.05635072237917548,False,Head,Open Play,0,1,6,Normal
-12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
-24.544856895080898,0.06783063373456005,False,Right Foot,Open Play,0,0,2,Normal
-22.580079716422617,0.06511884750072056,False,Right Foot,Open Play,0,0,1,Half Volley
-8.44037913840368,0.05736750613944177,False,Head,Open Play,0,0,2,Normal
-18.248287590894666,0.052319690400781584,False,Left Foot,Open Play,0,0,1,Normal
-29.502542263337237,0.06375432570125962,False,Right Foot,Open Play,1,0,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3813309,Eduardo García Martín,Hyderabad,24.242112119202815,0.06832572871960886,False,Right Foot,Open Play,0,0,1,Normal
+3813309,Hitesh Sharma,Hyderabad,20.4658251727117,0.06435029737511928,False,Right Foot,Open Play,1,0,1,Normal
+3813309,Nikhil Poojary,Hyderabad,27.48545069668679,0.06108610314535808,False,Left Foot,Open Play,0,0,1,Normal
+3813309,Eduardo García Martín,Hyderabad,22.156263222845137,0.06632259897786902,False,Right Foot,Free Kick,0,0,0,Normal
+3813309,Bartholomew Owogbalor Ogbeche,Hyderabad,15.9699718221417,0.052154496949348234,False,Right Foot,Open Play,1,0,1,Normal
+3813309,Bartholomew Owogbalor Ogbeche,Hyderabad,14.773286702694163,0.062471950023739405,False,Head,Open Play,0,0,1,Normal
+3813309,Eduardo García Martín,Hyderabad,31.435807608521852,0.06774475627860743,False,Right Foot,Open Play,0,0,2,Normal
+3813309,Nikhil Poojary,Hyderabad,15.030635382444743,0.057797195141934536,False,Left Foot,Open Play,0,0,2,Normal
+3813309,Mirlan Murzaev,Chennaiyin,9.109335870413386,0.05824318065920292,False,Head,Open Play,0,0,2,Normal
+3813309,Ariel Borysiuk,Chennaiyin,29.025850547399983,0.07002592384497824,False,Right Foot,Open Play,1,0,1,Normal
+3813309,Bartholomew Owogbalor Ogbeche,Hyderabad,14.312581877495058,0.060793246744217405,False,Right Foot,Open Play,0,0,3,Half Volley
+3813309,João Victor de Albuquerque Bruno,Hyderabad,33.28798582071315,0.06479820746190575,False,Right Foot,Open Play,0,0,0,Normal
+3813309,Mirlan Murzaev,Chennaiyin,30.90906016041251,0.07105293785289732,False,Right Foot,Free Kick,0,0,0,Normal
+3813309,Lallianzuala Chhangte,Chennaiyin,18.151583952922678,0.05123975175256311,False,Left Foot,Open Play,0,0,1,Normal
+3813309,Eduardo García Martín,Hyderabad,6.109828148156055,0.05635072237917548,False,Head,Open Play,0,1,6,Normal
+3813309,Vladimir Koman Jr.,Chennaiyin,12.099999999999994,0.05963343195195743,True,Right Foot,Penalty,0,0,0,Normal
+3813309,Mirlan Murzaev,Chennaiyin,24.544856895080898,0.06783063373456005,False,Right Foot,Open Play,0,0,2,Normal
+3813309,Rohit Danu,Hyderabad,22.580079716422617,0.06511884750072056,False,Right Foot,Open Play,0,0,1,Half Volley
+3813309,Javier Siverio Toro,Hyderabad,8.44037913840368,0.05736750613944177,False,Head,Open Play,0,0,2,Normal
+3813309,Joel Joseph Chianese,Hyderabad,18.248287590894666,0.052319690400781584,False,Left Foot,Open Play,0,0,1,Normal
+3813309,Edwin Sydney Vanspaul,Chennaiyin,29.502542263337237,0.06375432570125962,False,Right Foot,Open Play,1,0,2,Half Volley

@@ -1,17 +1,17 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.09463546401827,0.06886613119730674,False,Right Foot,Free Kick,0,0,0,Normal
-28.470335438838795,0.06602175696565173,False,Left Foot,Free Kick,0,0,0,Normal
-13.52368293032634,0.05992588032154348,False,Head,Open Play,0,0,3,Normal
-26.5,0.05745208683918683,False,Left Foot,Open Play,0,0,1,Normal
-12.98653148458048,0.06055559008724051,False,Left Foot,Open Play,1,0,1,Volley
-20.796634343085422,0.06612797803933498,False,Left Foot,Open Play,1,0,0,Volley
-16.76007159889241,0.051042265261030347,False,Right Foot,Open Play,0,1,2,Half Volley
-6.419501538281619,0.05747625125423483,False,Head,Open Play,0,1,6,Normal
-21.901826407859232,0.06602170937630784,True,Left Foot,Free Kick,0,0,1,Normal
-15.310127367203707,0.05671530306403118,True,Right Foot,Open Play,1,0,0,Half Volley
-15.500322577288513,0.06112452140342956,False,Right Foot,Open Play,0,0,2,Normal
-24.307406278745578,0.06481176773428687,False,Right Foot,Open Play,0,0,1,Normal
-25.61444904736387,0.06105866804158831,False,Right Foot,Open Play,0,0,2,Normal
-22.54994456755937,0.06732814530852003,False,Right Foot,Open Play,0,0,2,Normal
-22.20360331117452,0.05287370931864473,False,Right Foot,Open Play,1,0,0,Half Volley
-18.964440408301,0.06087333484206215,False,Right Foot,Open Play,1,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895095,Edimilson Fernandes,FSV Mainz 05,26.09463546401827,0.06886613119730674,False,Right Foot,Free Kick,0,0,0,Normal
+3895095,Alejandro Grimaldo García,Bayer Leverkusen,28.470335438838795,0.06602175696565173,False,Left Foot,Free Kick,0,0,0,Normal
+3895095,Karim Onisiwo,FSV Mainz 05,13.52368293032634,0.05992588032154348,False,Head,Open Play,0,0,3,Normal
+3895095,Brajan Gruda,FSV Mainz 05,26.5,0.05745208683918683,False,Left Foot,Open Play,0,0,1,Normal
+3895095,Dominik Kohr,FSV Mainz 05,12.98653148458048,0.06055559008724051,False,Left Foot,Open Play,1,0,1,Volley
+3895095,Stefan Bell,FSV Mainz 05,20.796634343085422,0.06612797803933498,False,Left Foot,Open Play,1,0,0,Volley
+3895095,Karim Onisiwo,FSV Mainz 05,16.76007159889241,0.051042265261030347,False,Right Foot,Open Play,0,1,2,Half Volley
+3895095,Karim Onisiwo,FSV Mainz 05,6.419501538281619,0.05747625125423483,False,Head,Open Play,0,1,6,Normal
+3895095,Alejandro Grimaldo García,Bayer Leverkusen,21.901826407859232,0.06602170937630784,True,Left Foot,Free Kick,0,0,1,Normal
+3895095,Jonas Hofmann,Bayer Leverkusen,15.310127367203707,0.05671530306403118,True,Right Foot,Open Play,1,0,0,Half Volley
+3895095,Victor Okoh Boniface,Bayer Leverkusen,15.500322577288513,0.06112452140342956,False,Right Foot,Open Play,0,0,2,Normal
+3895095,Anwar El Ghazi,FSV Mainz 05,24.307406278745578,0.06481176773428687,False,Right Foot,Open Play,0,0,1,Normal
+3895095,Tom Krauß,FSV Mainz 05,25.61444904736387,0.06105866804158831,False,Right Foot,Open Play,0,0,2,Normal
+3895095,Amine Adli,Bayer Leverkusen,22.54994456755937,0.06732814530852003,False,Right Foot,Open Play,0,0,2,Normal
+3895095,Jonas Hofmann,Bayer Leverkusen,22.20360331117452,0.05287370931864473,False,Right Foot,Open Play,1,0,0,Half Volley
+3895095,Aymen Barkok,FSV Mainz 05,18.964440408301,0.06087333484206215,False,Right Foot,Open Play,1,0,1,Normal

@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-22.200900882621863,0.0640177972695398,False,Right Foot,Open Play,0,1,4,Normal
-30.207614933986434,0.07020373167082704,False,Right Foot,Open Play,0,0,2,Normal
-12.10165277968261,0.05956138556761399,True,Right Foot,Penalty,0,0,0,Normal
-31.232034836046143,0.07055710777626958,False,Right Foot,Free Kick,0,0,0,Normal
-30.998225755678337,0.06628922664648809,False,Left Foot,Open Play,1,0,1,Normal
-16.901183390520323,0.05615830234413152,False,Right Foot,Open Play,1,0,1,Half Volley
-11.090987332063813,0.05356104432171077,False,Left Foot,Open Play,1,0,1,Backheel
-11.194641575325226,0.05486466991286016,False,Head,Open Play,0,1,2,Normal
-13.377593206552515,0.05366859748838577,False,Right Foot,Open Play,1,1,2,Half Volley
-20.25487595617411,0.06515068352362184,True,Left Foot,Open Play,1,0,2,Normal
-18.59247159470736,0.06478887752705591,False,Right Foot,Open Play,0,0,3,Normal
-21.076052761368764,0.054498668525832024,False,Right Foot,Open Play,0,0,1,Normal
-16.07762420259909,0.06311488003023566,False,Left Foot,Open Play,1,0,2,Normal
-11.910499569707392,0.05909045720636387,False,Left Foot,Open Play,1,0,1,Half Volley
-23.005434140654675,0.06226438178048349,False,Left Foot,Open Play,0,0,1,Normal
-21.514878572745886,0.06414246737855295,False,Left Foot,Open Play,1,0,4,Normal
-20.92868844433401,0.0594847435926943,False,Left Foot,Open Play,0,0,3,Normal
-25.401771591761083,0.06548214944869495,False,Right Foot,Open Play,0,1,2,Half Volley
-12.220065466273086,0.05942181288041858,False,Right Foot,Open Play,1,0,3,Half Volley
-23.717082451262844,0.06808007893353929,False,Left Foot,Open Play,0,0,2,Normal
-23.357439928211317,0.06224508566387799,False,Left Foot,Open Play,0,0,2,Normal
-9.027181176868005,0.05812083938046399,False,Head,Open Play,0,0,3,Normal
-10.971326264403949,0.055457101184288544,False,Right Foot,Open Play,0,0,1,Normal
-11.204017136723778,0.05915221228849219,False,Head,Open Play,0,0,4,Normal
-12.02538980657176,0.06056997593468038,False,Head,Open Play,0,1,4,Normal
-4.177319714841078,0.05520766295389332,False,Left Foot,Open Play,0,0,3,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754163,Muhamed Bešić,Everton,22.200900882621863,0.0640177972695398,False,Right Foot,Open Play,0,1,4,Normal
+3754163,Gerard Deulofeu Lázaro,Everton,30.207614933986434,0.07020373167082704,False,Right Foot,Open Play,0,0,2,Normal
+3754163,Gylfi Þór Sigurðsson,Swansea City,12.10165277968261,0.05956138556761399,True,Right Foot,Penalty,0,0,0,Normal
+3754163,Kevin Mirallas,Everton,31.232034836046143,0.07055710777626958,False,Right Foot,Free Kick,0,0,0,Normal
+3754163,André Ayew Pelé,Swansea City,30.998225755678337,0.06628922664648809,False,Left Foot,Open Play,1,0,1,Normal
+3754163,Gerard Deulofeu Lázaro,Everton,16.901183390520323,0.05615830234413152,False,Right Foot,Open Play,1,0,1,Half Volley
+3754163,Gareth Barry,Everton,11.090987332063813,0.05356104432171077,False,Left Foot,Open Play,1,0,1,Backheel
+3754163,Romelu Lukaku Menama,Everton,11.194641575325226,0.05486466991286016,False,Head,Open Play,0,1,2,Normal
+3754163,Wayne Routledge,Swansea City,13.377593206552515,0.05366859748838577,False,Right Foot,Open Play,1,1,2,Half Volley
+3754163,André Ayew Pelé,Swansea City,20.25487595617411,0.06515068352362184,True,Left Foot,Open Play,1,0,2,Normal
+3754163,Romelu Lukaku Menama,Everton,18.59247159470736,0.06478887752705591,False,Right Foot,Open Play,0,0,3,Normal
+3754163,Ross Barkley,Everton,21.076052761368764,0.054498668525832024,False,Right Foot,Open Play,0,0,1,Normal
+3754163,Wayne Routledge,Swansea City,16.07762420259909,0.06311488003023566,False,Left Foot,Open Play,1,0,2,Normal
+3754163,Steven Pienaar,Everton,11.910499569707392,0.05909045720636387,False,Left Foot,Open Play,1,0,1,Half Volley
+3754163,Gylfi Þór Sigurðsson,Swansea City,23.005434140654675,0.06226438178048349,False,Left Foot,Open Play,0,0,1,Normal
+3754163,Ross Barkley,Everton,21.514878572745886,0.06414246737855295,False,Left Foot,Open Play,1,0,4,Normal
+3754163,Romelu Lukaku Menama,Everton,20.92868844433401,0.0594847435926943,False,Left Foot,Open Play,0,0,3,Normal
+3754163,Jack Frank Porteous Cork,Swansea City,25.401771591761083,0.06548214944869495,False,Right Foot,Open Play,0,1,2,Half Volley
+3754163,John Stones,Everton,12.220065466273086,0.05942181288041858,False,Right Foot,Open Play,1,0,3,Half Volley
+3754163,Romelu Lukaku Menama,Everton,23.717082451262844,0.06808007893353929,False,Left Foot,Open Play,0,0,2,Normal
+3754163,Steven Pienaar,Everton,23.357439928211317,0.06224508566387799,False,Left Foot,Open Play,0,0,2,Normal
+3754163,Romelu Lukaku Menama,Everton,9.027181176868005,0.05812083938046399,False,Head,Open Play,0,0,3,Normal
+3754163,Séamus Coleman,Everton,10.971326264403949,0.055457101184288544,False,Right Foot,Open Play,0,0,1,Normal
+3754163,Romelu Lukaku Menama,Everton,11.204017136723778,0.05915221228849219,False,Head,Open Play,0,0,4,Normal
+3754163,John Stones,Everton,12.02538980657176,0.06056997593468038,False,Head,Open Play,0,1,4,Normal
+3754163,Séamus Coleman,Everton,4.177319714841078,0.05520766295389332,False,Left Foot,Open Play,0,0,3,Volley

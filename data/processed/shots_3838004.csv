@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.990353819685902,0.05143939058248353,False,Right Foot,Open Play,0,0,1,Normal
-29.562983611266308,0.06587689184776807,False,Right Foot,Open Play,0,0,2,Normal
-22.31434516180119,0.06146226982856511,False,Right Foot,Open Play,0,1,2,Normal
-16.812197952677103,0.0631510030386923,False,Left Foot,Open Play,0,1,2,Normal
-7.856844150166142,0.05537604983426952,False,Head,Open Play,0,1,4,Normal
-26.442579299304374,0.0668761172518875,False,Right Foot,Open Play,0,0,3,Normal
-12.093386622447824,0.05904805024190931,False,Right Foot,Open Play,1,0,3,Volley
-12.998846102635424,0.06055052787639565,False,Right Foot,Open Play,1,0,4,Half Volley
-21.0646623519106,0.0613848586735855,False,Right Foot,Open Play,1,0,1,Normal
-24.72569513684095,0.06317690919958953,False,Right Foot,Open Play,0,0,1,Normal
-26.66083269517289,0.06712887990525529,False,Left Foot,Free Kick,0,0,0,Normal
-23.576471322061746,0.06290101746031604,False,Left Foot,Open Play,1,1,1,Normal
-9.176055797563567,0.05912637631603643,False,Head,Open Play,0,1,6,Normal
-10.978615577567144,0.060147517738446996,True,Left Foot,Open Play,0,1,3,Normal
-28.403696942475644,0.056665365859655446,False,Right Foot,Open Play,0,0,1,Normal
-26.02306669091865,0.06750094222947868,False,Right Foot,Open Play,0,0,2,Normal
-10.183319694480778,0.05756505694336205,False,Right Foot,Open Play,1,0,2,Normal
-7.924645102463582,0.05863857400057205,False,Right Foot,Open Play,1,0,1,Normal
-27.884224930953344,0.062233709284412735,False,Right Foot,Open Play,0,0,0,Normal
-30.161730719572446,0.06109970493213582,False,Right Foot,Open Play,0,0,2,Normal
-24.035182545593447,0.06433180892721278,False,Right Foot,Open Play,1,0,0,Volley
-14.12303083619094,0.05944315651891015,False,Right Foot,Open Play,1,0,1,Normal
-6.341135544995075,0.0555482073645637,True,Left Foot,Open Play,1,0,4,Lob
-22.626754075651235,0.0637846444057417,False,Left Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3838004,Habibou Mouhamadou Diallo,Strasbourg,13.990353819685902,0.05143939058248353,False,Right Foot,Open Play,0,0,1,Normal
+3838004,Morgan Sanson,Strasbourg,29.562983611266308,0.06587689184776807,False,Right Foot,Open Play,0,0,2,Normal
+3838004,Morgan Sanson,Strasbourg,22.31434516180119,0.06146226982856511,False,Right Foot,Open Play,0,1,2,Normal
+3838004,Habibou Mouhamadou Diallo,Strasbourg,16.812197952677103,0.0631510030386923,False,Left Foot,Open Play,0,1,2,Normal
+3838004,Lucas Perrin,Strasbourg,7.856844150166142,0.05537604983426952,False,Head,Open Play,0,1,4,Normal
+3838004,Habibou Mouhamadou Diallo,Strasbourg,26.442579299304374,0.0668761172518875,False,Right Foot,Open Play,0,0,3,Normal
+3838004,Renato Júnior Luz Sanches,Paris Saint-Germain,12.093386622447824,0.05904805024190931,False,Right Foot,Open Play,1,0,3,Volley
+3838004,Marco Verratti,Paris Saint-Germain,12.998846102635424,0.06055052787639565,False,Right Foot,Open Play,1,0,4,Half Volley
+3838004,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,21.0646623519106,0.0613848586735855,False,Right Foot,Open Play,1,0,1,Normal
+3838004,Habibou Mouhamadou Diallo,Strasbourg,24.72569513684095,0.06317690919958953,False,Right Foot,Open Play,0,0,1,Normal
+3838004,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,26.66083269517289,0.06712887990525529,False,Left Foot,Free Kick,0,0,0,Normal
+3838004,Jean-Ricner Bellegarde,Strasbourg,23.576471322061746,0.06290101746031604,False,Left Foot,Open Play,1,1,1,Normal
+3838004,Sergio Ramos García,Paris Saint-Germain,9.176055797563567,0.05912637631603643,False,Head,Open Play,0,1,6,Normal
+3838004,Lionel Andrés Messi Cuccittini,Paris Saint-Germain,10.978615577567144,0.060147517738446996,True,Left Foot,Open Play,0,1,3,Normal
+3838004,Ibrahima Sissoko,Strasbourg,28.403696942475644,0.056665365859655446,False,Right Foot,Open Play,0,0,1,Normal
+3838004,Jean-Ricner Bellegarde,Strasbourg,26.02306669091865,0.06750094222947868,False,Right Foot,Open Play,0,0,2,Normal
+3838004,Habibou Mouhamadou Diallo,Strasbourg,10.183319694480778,0.05756505694336205,False,Right Foot,Open Play,1,0,2,Normal
+3838004,Kylian Mbappé Lottin,Paris Saint-Germain,7.924645102463582,0.05863857400057205,False,Right Foot,Open Play,1,0,1,Normal
+3838004,Frédéric Guilbert,Strasbourg,27.884224930953344,0.062233709284412735,False,Right Foot,Open Play,0,0,0,Normal
+3838004,Mouhamadou Diarra,Strasbourg,30.161730719572446,0.06109970493213582,False,Right Foot,Open Play,0,0,2,Normal
+3838004,Frédéric Guilbert,Strasbourg,24.035182545593447,0.06433180892721278,False,Right Foot,Open Play,1,0,0,Volley
+3838004,Morgan Sanson,Strasbourg,14.12303083619094,0.05944315651891015,False,Right Foot,Open Play,1,0,1,Normal
+3838004,Kevin Gameiro,Strasbourg,6.341135544995075,0.0555482073645637,True,Left Foot,Open Play,1,0,4,Lob
+3838004,Dimitri Liénard,Strasbourg,22.626754075651235,0.0637846444057417,False,Left Foot,Free Kick,0,0,0,Normal

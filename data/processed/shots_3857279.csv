@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.188547115103578,0.06148160901343608,False,Left Foot,Open Play,1,0,1,Volley
-30.513275799232044,0.06866817028471402,False,Right Foot,Open Play,0,0,2,Normal
-10.456098698845567,0.059605773950812874,True,Left Foot,Open Play,1,0,0,Half Volley
-27.951565251341467,0.069584612572024,False,Left Foot,Open Play,1,0,1,Volley
-29.712287020692305,0.06351246043261256,False,Right Foot,Open Play,0,0,2,Normal
-14.95660389259541,0.05347510810823724,False,Right Foot,Open Play,0,0,2,Half Volley
-8.634813257969167,0.05744482788526013,True,Head,Open Play,0,0,3,Normal
-7.702596964660688,0.057898817498525414,False,Head,Open Play,0,1,3,Normal
-9.533624704172071,0.05882892211307446,True,Right Foot,Open Play,1,0,1,Normal
-16.63850954863446,0.057988708766103396,False,Right Foot,Open Play,1,0,2,Half Volley
-15.538983235720412,0.06151135595321211,False,Right Foot,Open Play,1,0,1,Half Volley
-13.6194713553794,0.06088604039827802,False,Right Foot,Open Play,1,0,1,Half Volley
-21.828879952943073,0.059907947691614324,False,Left Foot,Open Play,1,0,1,Normal
-7.1028163428318996,0.05753103999796579,False,Right Foot,Open Play,1,0,3,Volley
-10.467568963231152,0.057535197084496933,False,Head,Open Play,0,0,2,Normal
-23.71349826575573,0.06443427055706578,False,Right Foot,Open Play,1,0,1,Normal
-9.391485505499123,0.05668966950429888,False,Left Foot,Open Play,1,0,2,Overhead Kick
-15.344705927452633,0.06281859314157207,False,Right Foot,Open Play,1,0,1,Normal
-14.650938536489733,0.06228401779693343,False,Left Foot,Open Play,0,0,3,Normal
-7.0,0.05755567023984417,False,Head,Open Play,0,1,6,Normal
-19.053608582103287,0.06425967738199562,False,Right Foot,Open Play,0,0,2,Normal
-15.183214415926559,0.062155412706888534,False,Left Foot,Open Play,1,0,0,Normal
-15.892765649816901,0.06049342056552302,False,Left Foot,Open Play,1,0,2,Normal
-6.8622153857191055,0.05665176144696388,True,Head,Open Play,0,1,2,Normal
-7.000714249274855,0.05652117145857568,True,Head,Open Play,0,0,3,Normal
-8.02309167341369,0.05745219292620888,False,Head,Open Play,0,0,5,Normal
-10.688779163215976,0.060018416197262406,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3857279,Ousmane Dembélé,France,26.188547115103578,0.06148160901343608,False,Left Foot,Open Play,1,0,1,Volley
+3857279,Riley McGree,Australia,30.513275799232044,0.06866817028471402,False,Right Foot,Open Play,0,0,2,Normal
+3857279,Craig Goodwin,Australia,10.456098698845567,0.059605773950812874,True,Left Foot,Open Play,1,0,0,Half Volley
+3857279,Theo Bernard François Hernández,France,27.951565251341467,0.069584612572024,False,Left Foot,Open Play,1,0,1,Volley
+3857279,Mitchell Thomas Duke,Australia,29.712287020692305,0.06351246043261256,False,Right Foot,Open Play,0,0,2,Normal
+3857279,Antoine Griezmann,France,14.95660389259541,0.05347510810823724,False,Right Foot,Open Play,0,0,2,Half Volley
+3857279,Adrien Rabiot,France,8.634813257969167,0.05744482788526013,True,Head,Open Play,0,0,3,Normal
+3857279,Olivier Giroud,France,7.702596964660688,0.057898817498525414,False,Head,Open Play,0,1,3,Normal
+3857279,Olivier Giroud,France,9.533624704172071,0.05882892211307446,True,Right Foot,Open Play,1,0,1,Normal
+3857279,Kylian Mbappé Lottin,France,16.63850954863446,0.057988708766103396,False,Right Foot,Open Play,1,0,2,Half Volley
+3857279,Olivier Giroud,France,15.538983235720412,0.06151135595321211,False,Right Foot,Open Play,1,0,1,Half Volley
+3857279,Ousmane Dembélé,France,13.6194713553794,0.06088604039827802,False,Right Foot,Open Play,1,0,1,Half Volley
+3857279,Antoine Griezmann,France,21.828879952943073,0.059907947691614324,False,Left Foot,Open Play,1,0,1,Normal
+3857279,Kylian Mbappé Lottin,France,7.1028163428318996,0.05753103999796579,False,Right Foot,Open Play,1,0,3,Volley
+3857279,Jackson Irvine,Australia,10.467568963231152,0.057535197084496933,False,Head,Open Play,0,0,2,Normal
+3857279,Aurélien Djani Tchouaméni,France,23.71349826575573,0.06443427055706578,False,Right Foot,Open Play,1,0,1,Normal
+3857279,Olivier Giroud,France,9.391485505499123,0.05668966950429888,False,Left Foot,Open Play,1,0,2,Overhead Kick
+3857279,Kylian Mbappé Lottin,France,15.344705927452633,0.06281859314157207,False,Right Foot,Open Play,1,0,1,Normal
+3857279,Kylian Mbappé Lottin,France,14.650938536489733,0.06228401779693343,False,Left Foot,Open Play,0,0,3,Normal
+3857279,Ibrahima Konaté,France,7.0,0.05755567023984417,False,Head,Open Play,0,1,6,Normal
+3857279,Kylian Mbappé Lottin,France,19.053608582103287,0.06425967738199562,False,Right Foot,Open Play,0,0,2,Normal
+3857279,Antoine Griezmann,France,15.183214415926559,0.062155412706888534,False,Left Foot,Open Play,1,0,0,Normal
+3857279,Kylian Mbappé Lottin,France,15.892765649816901,0.06049342056552302,False,Left Foot,Open Play,1,0,2,Normal
+3857279,Kylian Mbappé Lottin,France,6.8622153857191055,0.05665176144696388,True,Head,Open Play,0,1,2,Normal
+3857279,Olivier Giroud,France,7.000714249274855,0.05652117145857568,True,Head,Open Play,0,0,3,Normal
+3857279,Ibrahima Konaté,France,8.02309167341369,0.05745219292620888,False,Head,Open Play,0,0,5,Normal
+3857279,Theo Bernard François Hernández,France,10.688779163215976,0.060018416197262406,False,Head,Open Play,0,1,2,Normal

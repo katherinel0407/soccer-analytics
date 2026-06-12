@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-30.900000000000006,0.0683640194624415,False,Left Foot,Open Play,0,0,2,Normal
-14.920120642943873,0.055152295842727565,False,Right Foot,Open Play,1,0,1,Normal
-27.995713957675736,0.06247484934940596,False,Right Foot,Open Play,0,0,2,Normal
-9.202173656261875,0.05837006150877943,False,Head,Open Play,0,0,1,Normal
-21.18537231204587,0.06443697313913657,False,Left Foot,Open Play,1,1,1,Normal
-26.42820463065927,0.060538733424205106,False,Left Foot,Open Play,0,1,2,Normal
-13.793114224133722,0.06177954435136857,False,Left Foot,Open Play,0,0,1,Normal
-12.36931687685298,0.06064627765111373,False,Right Foot,Open Play,1,0,0,Volley
-32.08317315977333,0.05850879323922528,False,Right Foot,Open Play,0,0,1,Normal
-26.2682317638626,0.06975240548041252,False,Right Foot,Free Kick,0,0,0,Normal
-17.605112893702213,0.054205879990128915,False,Right Foot,Open Play,0,1,1,Normal
-18.00555469848124,0.06383346277071159,True,Left Foot,Open Play,1,0,1,Half Volley
-28.720027855139698,0.055993755290858864,False,Right Foot,Open Play,0,0,0,Normal
-30.07806509734295,0.06224325135977553,False,Right Foot,Open Play,0,0,1,Half Volley
-16.072336482291558,0.05920736827480173,True,Right Foot,Open Play,0,0,2,Half Volley
-16.209873534361705,0.06026284058695176,False,Right Foot,Open Play,1,0,0,Normal
-20.54190838262112,0.06596995349115478,True,Left Foot,Open Play,0,0,2,Normal
-18.410051602317683,0.06011509253819372,False,Left Foot,Open Play,0,0,1,Half Volley
-10.822661410207754,0.0564527051143482,False,Left Foot,Open Play,1,0,2,Volley
-21.9184853491294,0.05766675050199642,False,Right Foot,Open Play,1,0,1,Normal
-26.732751448363857,0.062213292995678265,False,Left Foot,Free Kick,0,0,0,Normal
-5.913543776789013,0.05699765010472329,False,Right Foot,Open Play,1,0,2,Normal
-15.623699945915497,0.06221768345841806,False,Right Foot,Open Play,0,0,1,Normal
-8.077747210701762,0.056138357739671824,False,Left Foot,Open Play,1,0,2,Normal
-9.600520819205586,0.058634046191821755,True,Left Foot,Open Play,1,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3895320,Robert Andrich,Bayer Leverkusen,30.900000000000006,0.0683640194624415,False,Left Foot,Open Play,0,0,2,Normal
+3895320,Jeremie Frimpong,Bayer Leverkusen,14.920120642943873,0.055152295842727565,False,Right Foot,Open Play,1,0,1,Normal
+3895320,Serhou Guirassy,VfB Stuttgart,27.995713957675736,0.06247484934940596,False,Right Foot,Open Play,0,0,2,Normal
+3895320,Serhou Guirassy,VfB Stuttgart,9.202173656261875,0.05837006150877943,False,Head,Open Play,0,0,1,Normal
+3895320,Patrik Schick,Bayer Leverkusen,21.18537231204587,0.06443697313913657,False,Left Foot,Open Play,1,1,1,Normal
+3895320,Patrik Schick,Bayer Leverkusen,26.42820463065927,0.060538733424205106,False,Left Foot,Open Play,0,1,2,Normal
+3895320,Alejandro Grimaldo García,Bayer Leverkusen,13.793114224133722,0.06177954435136857,False,Left Foot,Open Play,0,0,1,Normal
+3895320,Patrik Schick,Bayer Leverkusen,12.36931687685298,0.06064627765111373,False,Right Foot,Open Play,1,0,0,Volley
+3895320,Robert Andrich,Bayer Leverkusen,32.08317315977333,0.05850879323922528,False,Right Foot,Open Play,0,0,1,Normal
+3895320,Robert Andrich,Bayer Leverkusen,26.2682317638626,0.06975240548041252,False,Right Foot,Free Kick,0,0,0,Normal
+3895320,Jamie Leweling,VfB Stuttgart,17.605112893702213,0.054205879990128915,False,Right Foot,Open Play,0,1,1,Normal
+3895320,Chris Führich,VfB Stuttgart,18.00555469848124,0.06383346277071159,True,Left Foot,Open Play,1,0,1,Half Volley
+3895320,Serhou Guirassy,VfB Stuttgart,28.720027855139698,0.055993755290858864,False,Right Foot,Open Play,0,0,0,Normal
+3895320,Leonidas Stergiou,VfB Stuttgart,30.07806509734295,0.06224325135977553,False,Right Foot,Open Play,0,0,1,Half Volley
+3895320,Deniz Undav,VfB Stuttgart,16.072336482291558,0.05920736827480173,True,Right Foot,Open Play,0,0,2,Half Volley
+3895320,Serhou Guirassy,VfB Stuttgart,16.209873534361705,0.06026284058695176,False,Right Foot,Open Play,1,0,0,Normal
+3895320,Amine Adli,Bayer Leverkusen,20.54190838262112,0.06596995349115478,True,Left Foot,Open Play,0,0,2,Normal
+3895320,Amine Adli,Bayer Leverkusen,18.410051602317683,0.06011509253819372,False,Left Foot,Open Play,0,0,1,Half Volley
+3895320,Jonas Hofmann,Bayer Leverkusen,10.822661410207754,0.0564527051143482,False,Left Foot,Open Play,1,0,2,Volley
+3895320,Edmond Fayçal Tapsoba,Bayer Leverkusen,21.9184853491294,0.05766675050199642,False,Right Foot,Open Play,1,0,1,Normal
+3895320,Alejandro Grimaldo García,Bayer Leverkusen,26.732751448363857,0.062213292995678265,False,Left Foot,Free Kick,0,0,0,Normal
+3895320,Serhou Guirassy,VfB Stuttgart,5.913543776789013,0.05699765010472329,False,Right Foot,Open Play,1,0,2,Normal
+3895320,Chris Führich,VfB Stuttgart,15.623699945915497,0.06221768345841806,False,Right Foot,Open Play,0,0,1,Normal
+3895320,Serhou Guirassy,VfB Stuttgart,8.077747210701762,0.056138357739671824,False,Left Foot,Open Play,1,0,2,Normal
+3895320,Robert Andrich,Bayer Leverkusen,9.600520819205586,0.058634046191821755,True,Left Foot,Open Play,1,1,2,Half Volley

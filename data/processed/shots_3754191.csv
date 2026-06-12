@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.601204775557704,0.053128326798085726,False,Right Foot,Open Play,1,0,1,Half Volley
-18.411409506064434,0.059229320017554356,False,Right Foot,Open Play,1,0,2,Normal
-29.732137494637016,0.0622428206460108,False,Left Foot,Open Play,1,0,1,Volley
-12.393950137062841,0.05845770902865365,False,Right Foot,Open Play,1,0,2,Half Volley
-18.655294154743316,0.06470873671140896,False,Left Foot,Open Play,0,1,2,Normal
-25.64702711816713,0.06119923068620433,False,Right Foot,Open Play,0,0,1,Half Volley
-7.378346698278689,0.0544570867279461,True,Right Foot,Open Play,1,0,0,Volley
-6.216912416947817,0.05615314256494653,True,Head,Open Play,0,1,2,Normal
-7.736924453553884,0.05637277787111258,False,Head,Open Play,0,1,4,Normal
-13.379461872586655,0.06141379668007112,False,Right Foot,Open Play,0,1,2,Normal
-9.84123975929863,0.05967667626479657,False,Head,Open Play,0,1,3,Normal
-26.593232221751453,0.06917175479587716,False,Left Foot,Open Play,0,0,3,Normal
-28.43132075722125,0.07060232454903059,False,Right Foot,Open Play,0,0,1,Normal
-28.645767575682104,0.070444391160484,False,Left Foot,Open Play,0,0,3,Normal
-30.12806001056159,0.0657640206163487,False,Right Foot,Free Kick,0,0,0,Normal
-19.68247951859724,0.06535767298959981,False,Right Foot,Open Play,1,0,4,Normal
-31.191024349963246,0.06351437652250623,False,Left Foot,Open Play,0,0,1,Normal
-37.38796597837331,0.0658225250264727,False,Right Foot,Open Play,1,0,1,Normal
-25.57655176133014,0.06801287529574714,False,Right Foot,Free Kick,0,0,0,Normal
-6.4621977685614045,0.057899846582251766,False,Head,Open Play,0,1,4,Normal
-23.207972767995056,0.06301310471548581,False,Left Foot,Open Play,0,0,1,Volley
-30.348640826238004,0.06967057995073092,False,Left Foot,Open Play,0,0,2,Normal
-15.984992962150473,0.0620987920412483,False,Left Foot,Open Play,0,1,1,Normal
-24.869660230891775,0.06892013706076615,False,Right Foot,Open Play,0,0,4,Normal
-16.69041641182148,0.059565428837825916,False,Head,Open Play,0,0,1,Normal
-23.792856070678024,0.06777025847382889,False,Right Foot,Open Play,0,0,1,Normal
-7.640026177965619,0.0585939019018443,False,Head,Open Play,0,0,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754191,Graziano Pellè,Southampton,16.601204775557704,0.053128326798085726,False,Right Foot,Open Play,1,0,1,Half Volley
+3754191,Sadio Mané,Southampton,18.411409506064434,0.059229320017554356,False,Right Foot,Open Play,1,0,2,Normal
+3754191,Dušan Tadić,Southampton,29.732137494637016,0.0622428206460108,False,Left Foot,Open Play,1,0,1,Volley
+3754191,Sadio Mané,Southampton,12.393950137062841,0.05845770902865365,False,Right Foot,Open Play,1,0,2,Half Volley
+3754191,Dušan Tadić,Southampton,18.655294154743316,0.06470873671140896,False,Left Foot,Open Play,0,1,2,Normal
+3754191,Jordy Clasie,Southampton,25.64702711816713,0.06119923068620433,False,Right Foot,Open Play,0,0,1,Half Volley
+3754191,Steven Davis,Southampton,7.378346698278689,0.0544570867279461,True,Right Foot,Open Play,1,0,0,Volley
+3754191,Graziano Pellè,Southampton,6.216912416947817,0.05615314256494653,True,Head,Open Play,0,1,2,Normal
+3754191,José Miguel da Rocha Fonte,Southampton,7.736924453553884,0.05637277787111258,False,Head,Open Play,0,1,4,Normal
+3754191,Glenn Murray,AFC Bournemouth,13.379461872586655,0.06141379668007112,False,Right Foot,Open Play,0,1,2,Normal
+3754191,Dan Gosling,AFC Bournemouth,9.84123975929863,0.05967667626479657,False,Head,Open Play,0,1,3,Normal
+3754191,Dan Gosling,AFC Bournemouth,26.593232221751453,0.06917175479587716,False,Left Foot,Open Play,0,0,3,Normal
+3754191,Junior Stanislas,AFC Bournemouth,28.43132075722125,0.07060232454903059,False,Right Foot,Open Play,0,0,1,Normal
+3754191,Dušan Tadić,Southampton,28.645767575682104,0.070444391160484,False,Left Foot,Open Play,0,0,3,Normal
+3754191,Junior Stanislas,AFC Bournemouth,30.12806001056159,0.0657640206163487,False,Right Foot,Free Kick,0,0,0,Normal
+3754191,Charlie Daniels,AFC Bournemouth,19.68247951859724,0.06535767298959981,False,Right Foot,Open Play,1,0,4,Normal
+3754191,Harry Arter,AFC Bournemouth,31.191024349963246,0.06351437652250623,False,Left Foot,Open Play,0,0,1,Normal
+3754191,Victor Wanyama,Southampton,37.38796597837331,0.0658225250264727,False,Right Foot,Open Play,1,0,1,Normal
+3754191,Junior Stanislas,AFC Bournemouth,25.57655176133014,0.06801287529574714,False,Right Foot,Free Kick,0,0,0,Normal
+3754191,Dan Gosling,AFC Bournemouth,6.4621977685614045,0.057899846582251766,False,Head,Open Play,0,1,4,Normal
+3754191,Matt Ritchie,AFC Bournemouth,23.207972767995056,0.06301310471548581,False,Left Foot,Open Play,0,0,1,Volley
+3754191,Matt Ritchie,AFC Bournemouth,30.348640826238004,0.06967057995073092,False,Left Foot,Open Play,0,0,2,Normal
+3754191,Lee Tomlin,AFC Bournemouth,15.984992962150473,0.0620987920412483,False,Left Foot,Open Play,0,1,1,Normal
+3754191,Joshua King,AFC Bournemouth,24.869660230891775,0.06892013706076615,False,Right Foot,Open Play,0,0,4,Normal
+3754191,Dan Gosling,AFC Bournemouth,16.69041641182148,0.059565428837825916,False,Head,Open Play,0,0,1,Normal
+3754191,Junior Stanislas,AFC Bournemouth,23.792856070678024,0.06777025847382889,False,Right Foot,Open Play,0,0,1,Normal
+3754191,Adam Smith,AFC Bournemouth,7.640026177965619,0.0585939019018443,False,Head,Open Play,0,0,4,Normal

@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.206059215375342,0.05632350359697843,False,Left Foot,Open Play,1,0,1,Half Volley
-12.963024338479045,0.05441830530013967,False,Right Foot,Open Play,0,0,1,Normal
-8.414867794564573,0.05890976639532018,False,Head,Open Play,0,0,2,Normal
-24.76307735318855,0.06816634543044532,False,Left Foot,Open Play,0,0,2,Normal
-25.33396929026322,0.06924188556041388,False,Right Foot,Open Play,0,0,1,Normal
-13.72770920437929,0.06144234250469261,False,Head,Open Play,0,0,1,Normal
-5.263078946776301,0.056409194824587,True,Head,Open Play,0,1,8,Normal
-36.95794907729594,0.06738750052326982,False,Right Foot,Open Play,1,0,1,Half Volley
-10.720541031123386,0.059955238209379626,False,Left Foot,Open Play,1,0,2,Normal
-29.0998281781869,0.058255278537069036,False,Left Foot,Open Play,0,0,2,Normal
-14.832734070291963,0.058543389040324474,False,Right Foot,Open Play,1,1,1,Normal
-12.578155667664477,0.06121950839769005,False,Right Foot,Open Play,1,0,3,Volley
-30.413812651491103,0.06999677793703483,False,Left Foot,Open Play,0,0,0,Normal
-11.197321108193695,0.05276038790351683,False,Right Foot,Open Play,0,0,1,Normal
-21.350644018389698,0.06612676664324102,False,Left Foot,Open Play,1,1,1,Normal
-21.09834116702069,0.06637209716461472,True,Right Foot,Open Play,0,1,2,Normal
-12.165525060596442,0.05505688384955229,False,Right Foot,Open Play,0,1,3,Normal
-28.362298919516373,0.06014170953034672,False,Right Foot,Open Play,0,1,2,Normal
-9.818350166906859,0.058476237643119766,False,Right Foot,Open Play,1,0,2,Volley
-10.218121158021175,0.059472719639776093,False,Head,Open Play,0,0,2,Normal
-31.157984530453824,0.06736492900760392,False,Left Foot,Open Play,0,0,1,Normal
-21.508370463612533,0.06405301423368605,False,Right Foot,Open Play,0,0,1,Normal
-15.400324671902206,0.05877460739047034,False,Right Foot,Open Play,1,0,1,Normal
-8.338465086573185,0.05780897546836457,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3911503,Marina Martí Serna,Valencia CF,13.206059215375342,0.05632350359697843,False,Left Foot,Open Play,1,0,1,Half Volley
+3911503,Ana Marcos Moral,Valencia CF,12.963024338479045,0.05441830530013967,False,Right Foot,Open Play,0,0,1,Normal
+3911503,Bibiane Schulze-Solano,Athletic Club Bilbao,8.414867794564573,0.05890976639532018,False,Head,Open Play,0,0,2,Normal
+3911503,Paula Sancho González,Valencia CF,24.76307735318855,0.06816634543044532,False,Left Foot,Open Play,0,0,2,Normal
+3911503,Maite Zubieta Aranbarri,Athletic Club Bilbao,25.33396929026322,0.06924188556041388,False,Right Foot,Open Play,0,0,1,Normal
+3911503,Bibiane Schulze-Solano,Athletic Club Bilbao,13.72770920437929,0.06144234250469261,False,Head,Open Play,0,0,1,Normal
+3911503,Irene Oguiza,Athletic Club Bilbao,5.263078946776301,0.056409194824587,True,Head,Open Play,0,1,8,Normal
+3911503,Sara Tamarit,Valencia CF,36.95794907729594,0.06738750052326982,False,Right Foot,Open Play,1,0,1,Half Volley
+3911503,Ane Azkona Fuente,Athletic Club Bilbao,10.720541031123386,0.059955238209379626,False,Left Foot,Open Play,1,0,2,Normal
+3911503,Marina Martí Serna,Valencia CF,29.0998281781869,0.058255278537069036,False,Left Foot,Open Play,0,0,2,Normal
+3911503,Nahikari García Pérez,Athletic Club Bilbao,14.832734070291963,0.058543389040324474,False,Right Foot,Open Play,1,1,1,Normal
+3911503,Ana Marcos Moral,Valencia CF,12.578155667664477,0.06121950839769005,False,Right Foot,Open Play,1,0,3,Volley
+3911503,Ascensión Martínez Salinas,Valencia CF,30.413812651491103,0.06999677793703483,False,Left Foot,Open Play,0,0,0,Normal
+3911503,Marta San Adrián Rocandio,Athletic Club Bilbao,11.197321108193695,0.05276038790351683,False,Right Foot,Open Play,0,0,1,Normal
+3911503,Paula Sancho González,Valencia CF,21.350644018389698,0.06612676664324102,False,Left Foot,Open Play,1,1,1,Normal
+3911503,Marta San Adrián Rocandio,Athletic Club Bilbao,21.09834116702069,0.06637209716461472,True,Right Foot,Open Play,0,1,2,Normal
+3911503,Ainhoa Alguacil Amores,Valencia CF,12.165525060596442,0.05505688384955229,False,Right Foot,Open Play,0,1,3,Normal
+3911503,Fiamma Iannuzzi,Valencia CF,28.362298919516373,0.06014170953034672,False,Right Foot,Open Play,0,1,2,Normal
+3911503,Ana Marcos Moral,Valencia CF,9.818350166906859,0.058476237643119766,False,Right Foot,Open Play,1,0,2,Volley
+3911503,Estela Fernández Pablos,Valencia CF,10.218121158021175,0.059472719639776093,False,Head,Open Play,0,0,2,Normal
+3911503,Paula Sancho González,Valencia CF,31.157984530453824,0.06736492900760392,False,Left Foot,Open Play,0,0,1,Normal
+3911503,Patricia Zugasti Osés,Athletic Club Bilbao,21.508370463612533,0.06405301423368605,False,Right Foot,Open Play,0,0,1,Normal
+3911503,Ascensión Martínez Salinas,Valencia CF,15.400324671902206,0.05877460739047034,False,Right Foot,Open Play,1,0,1,Normal
+3911503,Ana Marcos Moral,Valencia CF,8.338465086573185,0.05780897546836457,False,Head,Open Play,0,1,4,Normal

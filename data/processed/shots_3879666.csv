@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-7.571657678474376,0.05592009377931385,False,Head,Open Play,0,1,3,Normal
-16.98116603770189,0.05703196388588848,False,Right Foot,Open Play,1,1,2,Normal
-27.765085989422037,0.057144147052221324,False,Left Foot,Free Kick,0,0,0,Normal
-12.065239326262864,0.05400309240563098,False,Head,Open Play,0,0,1,Normal
-17.189822570346678,0.05832984709959815,True,Right Foot,Open Play,1,1,1,Volley
-29.706901555025897,0.05797497791066031,False,Right Foot,Open Play,0,0,1,Half Volley
-28.768037819774914,0.06279149754179347,False,Right Foot,Free Kick,0,0,0,Normal
-11.12879148874665,0.05893398356712788,False,Head,Open Play,0,0,3,Normal
-18.270467974302136,0.06295934580918264,False,Left Foot,Open Play,0,0,1,Normal
-16.400000000000002,0.06269044742464006,True,Right Foot,Open Play,0,0,1,Normal
-26.395643579954626,0.0700027590815298,False,Right Foot,Free Kick,0,0,0,Normal
-13.024976007655445,0.053450607379901004,False,Head,Open Play,0,1,2,Normal
-14.279005567615696,0.059951812307445715,True,Left Foot,Open Play,1,1,2,Normal
-29.57870855869133,0.07026943958709289,False,Left Foot,Open Play,1,0,0,Half Volley
-28.131477031965453,0.059229607695017936,False,Left Foot,Open Play,0,0,1,Normal
-18.24828759089466,0.06092647242856885,False,Left Foot,Open Play,1,0,1,Volley
-27.684652788142387,0.05802501309834922,False,Left Foot,Open Play,0,0,1,Normal
-18.77471704180918,0.05908862282028873,False,Right Foot,Open Play,0,0,3,Normal
-7.877182237323188,0.05822951632345474,True,Head,Open Play,0,1,4,Normal
-12.999999999999995,0.06098301613150731,False,Right Foot,Open Play,0,0,1,Normal
-20.0124960961895,0.06474179202337721,False,Right Foot,Open Play,0,0,3,Normal
-10.099999999999994,0.05880447762035179,False,Head,Open Play,0,1,2,Normal
-1.4142135623730951,0.05553680631235164,True,Head,Open Play,0,1,1,Normal
-32.94616821422485,0.0674568006731335,False,Right Foot,Open Play,0,0,1,Normal
-33.054651715000716,0.06088366610057903,False,Left Foot,Open Play,0,0,0,Normal
-6.390618123468184,0.056463314747919366,False,Right Foot,Open Play,1,1,4,Volley
-24.022697600394505,0.06817464717278889,False,Right Foot,Open Play,0,0,3,Normal
-14.493101807411692,0.060903801501145195,False,Left Foot,Open Play,1,0,1,Half Volley
-15.289865924853622,0.05545958239865622,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879666,Leonardo Pavoletti,Genoa,7.571657678474376,0.05592009377931385,False,Head,Open Play,0,1,3,Normal
+3879666,Eder Citadin Martins,Sampdoria,16.98116603770189,0.05703196388588848,False,Right Foot,Open Play,1,1,2,Normal
+3879666,Ervin Zukanović,Sampdoria,27.765085989422037,0.057144147052221324,False,Left Foot,Free Kick,0,0,0,Normal
+3879666,Eder Citadin Martins,Sampdoria,12.065239326262864,0.05400309240563098,False,Head,Open Play,0,0,1,Normal
+3879666,Roberto Soriano,Sampdoria,17.189822570346678,0.05832984709959815,True,Right Foot,Open Play,1,1,1,Volley
+3879666,Lorenzo De Silvestri,Sampdoria,29.706901555025897,0.05797497791066031,False,Right Foot,Open Play,0,0,1,Half Volley
+3879666,Blerim Džemaili,Genoa,28.768037819774914,0.06279149754179347,False,Right Foot,Free Kick,0,0,0,Normal
+3879666,Nicolás Andrés Burdisso,Genoa,11.12879148874665,0.05893398356712788,False,Head,Open Play,0,0,3,Normal
+3879666,Diego Sebastián Laxalt Suárez,Genoa,18.270467974302136,0.06295934580918264,False,Left Foot,Open Play,0,0,1,Normal
+3879666,Eder Citadin Martins,Sampdoria,16.400000000000002,0.06269044742464006,True,Right Foot,Open Play,0,0,1,Normal
+3879666,Darko Lazović,Genoa,26.395643579954626,0.0700027590815298,False,Right Foot,Free Kick,0,0,0,Normal
+3879666,Eder Citadin Martins,Sampdoria,13.024976007655445,0.053450607379901004,False,Head,Open Play,0,1,2,Normal
+3879666,Roberto Soriano,Sampdoria,14.279005567615696,0.059951812307445715,True,Left Foot,Open Play,1,1,2,Normal
+3879666,Cristian Daniel Ansaldi,Genoa,29.57870855869133,0.07026943958709289,False,Left Foot,Open Play,1,0,0,Half Volley
+3879666,Jesús Joaquín Fernández Sáez de la Torre,Genoa,28.131477031965453,0.059229607695017936,False,Left Foot,Open Play,0,0,1,Normal
+3879666,Darko Lazović,Genoa,18.24828759089466,0.06092647242856885,False,Left Foot,Open Play,1,0,1,Volley
+3879666,Jesús Joaquín Fernández Sáez de la Torre,Genoa,27.684652788142387,0.05802501309834922,False,Left Foot,Open Play,0,0,1,Normal
+3879666,Leonardo Pavoletti,Genoa,18.77471704180918,0.05908862282028873,False,Right Foot,Open Play,0,0,3,Normal
+3879666,Leonardo Pavoletti,Genoa,7.877182237323188,0.05822951632345474,True,Head,Open Play,0,1,4,Normal
+3879666,Darko Lazović,Genoa,12.999999999999995,0.06098301613150731,False,Right Foot,Open Play,0,0,1,Normal
+3879666,Luis Fernando Muriel Fruto,Sampdoria,20.0124960961895,0.06474179202337721,False,Right Foot,Open Play,0,0,3,Normal
+3879666,Leonardo Pavoletti,Genoa,10.099999999999994,0.05880447762035179,False,Head,Open Play,0,1,2,Normal
+3879666,Leonardo Pavoletti,Genoa,1.4142135623730951,0.05553680631235164,True,Head,Open Play,0,1,1,Normal
+3879666,Carlos Joaquín Correa,Sampdoria,32.94616821422485,0.0674568006731335,False,Right Foot,Open Play,0,0,1,Normal
+3879666,Jesús Joaquín Fernández Sáez de la Torre,Genoa,33.054651715000716,0.06088366610057903,False,Left Foot,Open Play,0,0,0,Normal
+3879666,Leonardo Pavoletti,Genoa,6.390618123468184,0.056463314747919366,False,Right Foot,Open Play,1,1,4,Volley
+3879666,Serge Gakpé,Genoa,24.022697600394505,0.06817464717278889,False,Right Foot,Open Play,0,0,3,Normal
+3879666,Jesús Joaquín Fernández Sáez de la Torre,Genoa,14.493101807411692,0.060903801501145195,False,Left Foot,Open Play,1,0,1,Half Volley
+3879666,Édgar Osvaldo Barreto Cáceres,Sampdoria,15.289865924853622,0.05545958239865622,False,Right Foot,Open Play,0,0,1,Normal

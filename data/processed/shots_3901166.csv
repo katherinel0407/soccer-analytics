@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-5.522680508593633,0.057453758723968636,False,Left Foot,Open Play,1,0,3,Volley
-9.687620966986685,0.059573868080783514,False,Right Foot,Open Play,1,1,2,Normal
-21.063950246807934,0.06550190207804125,False,Right Foot,Open Play,0,0,3,Normal
-34.578750700394025,0.07376801803211992,False,Left Foot,Open Play,0,0,0,Normal
-39.110356684643,0.042650955849593705,False,Left Foot,Corner,0,0,0,Normal
-33.734255586866,0.059874461159927596,False,Left Foot,Free Kick,0,0,0,Normal
-13.401492454200762,0.0560273458155934,False,Head,Open Play,0,0,2,Normal
-43.57912344230893,0.06383266439692453,False,Left Foot,Open Play,0,1,1,Half Volley
-34.44836716014273,0.07481728571351112,False,Right Foot,Open Play,0,0,1,Normal
-10.454664030948104,0.05993124568133751,False,Right Foot,Open Play,0,1,2,Normal
-27.41422988157792,0.0652408594420469,False,Right Foot,Open Play,0,0,1,Normal
-30.997419247414776,0.07174494682519368,False,Right Foot,Free Kick,0,0,0,Normal
-7.470609078247899,0.05847914392835341,False,Head,Open Play,0,1,3,Normal
-18.466456075814868,0.054602863370112845,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901166,Edinson Roberto Cavani Gómez,Paris Saint-Germain,5.522680508593633,0.057453758723968636,False,Left Foot,Open Play,1,0,3,Volley
+3901166,Edinson Roberto Cavani Gómez,Paris Saint-Germain,9.687620966986685,0.059573868080783514,False,Right Foot,Open Play,1,1,2,Normal
+3901166,Jonas Martin,Montpellier,21.063950246807934,0.06550190207804125,False,Right Foot,Open Play,0,0,3,Normal
+3901166,Ángel Fabián Di María Hernández,Paris Saint-Germain,34.578750700394025,0.07376801803211992,False,Left Foot,Open Play,0,0,0,Normal
+3901166,Ángel Fabián Di María Hernández,Paris Saint-Germain,39.110356684643,0.042650955849593705,False,Left Foot,Corner,0,0,0,Normal
+3901166,Ángel Fabián Di María Hernández,Paris Saint-Germain,33.734255586866,0.059874461159927596,False,Left Foot,Free Kick,0,0,0,Normal
+3901166,Kévin Bérigaud,Montpellier,13.401492454200762,0.0560273458155934,False,Head,Open Play,0,0,2,Normal
+3901166,Adrien Rabiot,Paris Saint-Germain,43.57912344230893,0.06383266439692453,False,Left Foot,Open Play,0,1,1,Half Volley
+3901166,Rodrigue Casimir Ninga,Montpellier,34.44836716014273,0.07481728571351112,False,Right Foot,Open Play,0,0,1,Normal
+3901166,Rodrigue Casimir Ninga,Montpellier,10.454664030948104,0.05993124568133751,False,Right Foot,Open Play,0,1,2,Normal
+3901166,Rodrigue Casimir Ninga,Montpellier,27.41422988157792,0.0652408594420469,False,Right Foot,Open Play,0,0,1,Normal
+3901166,Zlatan Ibrahimović,Paris Saint-Germain,30.997419247414776,0.07174494682519368,False,Right Foot,Free Kick,0,0,0,Normal
+3901166,Daniel Congré,Montpellier,7.470609078247899,0.05847914392835341,False,Head,Open Play,0,1,3,Normal
+3901166,Zlatan Ibrahimović,Paris Saint-Germain,18.466456075814868,0.054602863370112845,False,Right Foot,Open Play,1,0,0,Normal

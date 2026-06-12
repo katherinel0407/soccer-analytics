@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-13.188252348207472,0.05680372060143217,False,Head,Open Play,0,1,3,Normal
-24.382165613415065,0.06857063967377953,False,Left Foot,Free Kick,0,0,0,Normal
-10.761505470890214,0.055881226936714344,False,Right Foot,Open Play,1,1,2,Half Volley
-34.11231449198369,0.06118801760953918,False,Right Foot,Open Play,0,0,0,Normal
-29.883942176359536,0.07182226326992676,False,Left Foot,Open Play,0,0,1,Normal
-16.94992625352689,0.062111104953677505,False,Left Foot,Open Play,1,0,1,Half Volley
-8.757282683572573,0.05856546073287619,False,Head,Open Play,0,1,5,Normal
-32.089406351629506,0.05669922098184089,False,Right Foot,Open Play,0,0,1,Normal
-37.54210969031975,0.05831656308378294,False,Right Foot,Open Play,0,0,1,Normal
-10.530906893520617,0.05999529666896598,False,Head,Open Play,0,1,5,Normal
-11.340634902861483,0.05448717697783048,False,Head,Open Play,0,0,1,Normal
-13.951702405083042,0.06169702454785181,False,Right Foot,Open Play,0,0,2,Half Volley
-20.22770377477384,0.06499364150331537,False,Left Foot,Open Play,0,0,1,Normal
-17.24093964956667,0.06187102230459533,False,Left Foot,Open Play,0,1,1,Normal
-6.363961030678924,0.05699435589873143,True,Head,Open Play,0,0,4,Normal
-19.807321878537746,0.06539023331590231,False,Left Foot,Open Play,0,0,2,Normal
-26.699250925821865,0.06502472500074828,False,Left Foot,Open Play,0,0,1,Normal
-18.529975715040752,0.06395813346819751,False,Left Foot,Open Play,0,0,3,Normal
-13.536986370680888,0.0566492862721245,False,Right Foot,Open Play,0,0,3,Normal
-25.207141845120006,0.05585461632959843,False,Left Foot,Open Play,1,0,0,Lob
-7.420242583635663,0.055676464085622435,False,Other,Open Play,0,0,4,Normal
-36.96701232179847,0.0780355327963484,False,Right Foot,Open Play,1,0,0,Half Volley
-15.273833834371773,0.060557903373836076,False,Left Foot,Open Play,0,1,1,Normal
-8.720665112249177,0.055524203375213105,False,Head,Open Play,0,1,2,Normal
-16.153327830512204,0.059652531971878864,True,Right Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879841,Daniel Ciofani,Frosinone,13.188252348207472,0.05680372060143217,False,Head,Open Play,0,1,3,Normal
+3879841,Franco Damián Vázquez,Palermo,24.382165613415065,0.06857063967377953,False,Left Foot,Free Kick,0,0,0,Normal
+3879841,Alberto Gilardino,Palermo,10.761505470890214,0.055881226936714344,False,Right Foot,Open Play,1,1,2,Half Volley
+3879841,Robert Gucher,Frosinone,34.11231449198369,0.06118801760953918,False,Right Foot,Open Play,0,0,0,Normal
+3879841,Franco Damián Vázquez,Palermo,29.883942176359536,0.07182226326992676,False,Left Foot,Open Play,0,0,1,Normal
+3879841,Oliver Kragl,Frosinone,16.94992625352689,0.062111104953677505,False,Left Foot,Open Play,1,0,1,Half Volley
+3879841,Leonardo Blanchard,Frosinone,8.757282683572573,0.05856546073287619,False,Head,Open Play,0,1,5,Normal
+3879841,Danilo Soddimo,Frosinone,32.089406351629506,0.05669922098184089,False,Right Foot,Open Play,0,0,1,Normal
+3879841,Danilo Soddimo,Frosinone,37.54210969031975,0.05831656308378294,False,Right Foot,Open Play,0,0,1,Normal
+3879841,Leonardo Blanchard,Frosinone,10.530906893520617,0.05999529666896598,False,Head,Open Play,0,1,5,Normal
+3879841,Luca Paganini,Frosinone,11.340634902861483,0.05448717697783048,False,Head,Open Play,0,0,1,Normal
+3879841,Luca Paganini,Frosinone,13.951702405083042,0.06169702454785181,False,Right Foot,Open Play,0,0,2,Half Volley
+3879841,Danilo Soddimo,Frosinone,20.22770377477384,0.06499364150331537,False,Left Foot,Open Play,0,0,1,Normal
+3879841,Oliver Kragl,Frosinone,17.24093964956667,0.06187102230459533,False,Left Foot,Open Play,0,1,1,Normal
+3879841,Alberto Gilardino,Palermo,6.363961030678924,0.05699435589873143,True,Head,Open Play,0,0,4,Normal
+3879841,Daniel Ciofani,Frosinone,19.807321878537746,0.06539023331590231,False,Left Foot,Open Play,0,0,2,Normal
+3879841,Enzo Maresca,Palermo,26.699250925821865,0.06502472500074828,False,Left Foot,Open Play,0,0,1,Normal
+3879841,Federico Dionisi,Frosinone,18.529975715040752,0.06395813346819751,False,Left Foot,Open Play,0,0,3,Normal
+3879841,Luca Paganini,Frosinone,13.536986370680888,0.0566492862721245,False,Right Foot,Open Play,0,0,3,Normal
+3879841,Aleandro Rosi,Frosinone,25.207141845120006,0.05585461632959843,False,Left Foot,Open Play,1,0,0,Lob
+3879841,Daniel Ciofani,Frosinone,7.420242583635663,0.055676464085622435,False,Other,Open Play,0,0,4,Normal
+3879841,Aleksandar Trajkovski,Palermo,36.96701232179847,0.0780355327963484,False,Right Foot,Open Play,1,0,0,Half Volley
+3879841,Federico Dionisi,Frosinone,15.273833834371773,0.060557903373836076,False,Left Foot,Open Play,0,1,1,Normal
+3879841,Luca Paganini,Frosinone,8.720665112249177,0.055524203375213105,False,Head,Open Play,0,1,2,Normal
+3879841,Aleksandar Trajkovski,Palermo,16.153327830512204,0.059652531971878864,True,Right Foot,Open Play,0,0,0,Normal

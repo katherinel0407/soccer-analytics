@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-23.135254483147577,0.0676876118204549,False,Left Foot,Open Play,0,0,1,Normal
-31.87804887379401,0.07234943731068505,False,Left Foot,Free Kick,0,0,0,Normal
-26.923595599399427,0.054923960162415526,False,Right Foot,Open Play,0,1,2,Normal
-22.21733557382613,0.061191936934639236,False,Right Foot,Open Play,0,1,2,Normal
-24.68116690920427,0.06426295375987744,False,Right Foot,Open Play,1,0,3,Normal
-19.40309253701584,0.06451126092919424,False,Left Foot,Open Play,1,0,0,Normal
-22.261176967986213,0.06506464671376787,False,Right Foot,Open Play,0,0,1,Normal
-14.556098378343012,0.061707584277175674,True,Right Foot,Open Play,1,0,1,Normal
-31.813519138881816,0.07219007765515473,False,Left Foot,Free Kick,0,0,0,Normal
-13.897481786280567,0.0566791717895955,False,Head,Open Play,0,0,1,Normal
-24.39938523815713,0.06198424559350972,False,Right Foot,Open Play,0,0,1,Normal
-23.64444966583067,0.05387775037439047,False,Right Foot,Open Play,0,0,0,Normal
-33.20391543176798,0.06239488735110812,False,Right Foot,Open Play,0,0,0,Normal
-25.457808232446098,0.06273005471121783,False,Right Foot,Open Play,0,0,0,Normal
-34.0812265037513,0.0740546631400868,False,Right Foot,Open Play,0,0,2,Normal
-25.22419473442116,0.05593148535338976,False,Right Foot,Free Kick,0,0,0,Normal
-13.269890730522235,0.05862110891798085,True,Right Foot,Open Play,0,0,4,Normal
-10.770329614269007,0.05399260816602884,False,Head,Open Play,0,1,1,Normal
-6.888396039717806,0.05712349232982114,False,Head,Open Play,0,1,4,Normal
-12.270289320142368,0.06080716528680696,False,Left Foot,Open Play,0,0,2,Normal
-16.9446156639801,0.0628978991159737,False,Left Foot,Open Play,1,1,3,Half Volley
-17.582377541163197,0.05563691927067294,False,Right Foot,Open Play,0,0,1,Half Volley
-13.662357044082846,0.058277061680852955,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+70284,Radamel Falcao García Zárate,Atlético Madrid,23.135254483147577,0.0676876118204549,False,Left Foot,Open Play,0,0,1,Normal
+70284,Lionel Andrés Messi Cuccittini,Barcelona,31.87804887379401,0.07234943731068505,False,Left Foot,Free Kick,0,0,0,Normal
+70284,Adrián López Álvarez,Atlético Madrid,26.923595599399427,0.054923960162415526,False,Right Foot,Open Play,0,1,2,Normal
+70284,Jorge Resurrección Merodio,Atlético Madrid,22.21733557382613,0.061191936934639236,False,Right Foot,Open Play,0,1,2,Normal
+70284,Jorge Resurrección Merodio,Atlético Madrid,24.68116690920427,0.06426295375987744,False,Right Foot,Open Play,1,0,3,Normal
+70284,Lionel Andrés Messi Cuccittini,Barcelona,19.40309253701584,0.06451126092919424,False,Left Foot,Open Play,1,0,0,Normal
+70284,Cristian Tello Herrera,Barcelona,22.261176967986213,0.06506464671376787,False,Right Foot,Open Play,0,0,1,Normal
+70284,Radamel Falcao García Zárate,Atlético Madrid,14.556098378343012,0.061707584277175674,True,Right Foot,Open Play,1,0,1,Normal
+70284,Lionel Andrés Messi Cuccittini,Barcelona,31.813519138881816,0.07219007765515473,False,Left Foot,Free Kick,0,0,0,Normal
+70284,Francesc Fàbregas i Soler,Barcelona,13.897481786280567,0.0566791717895955,False,Head,Open Play,0,0,1,Normal
+70284,Radamel Falcao García Zárate,Atlético Madrid,24.39938523815713,0.06198424559350972,False,Right Foot,Open Play,0,0,1,Normal
+70284,Alexis Alejandro Sánchez Sánchez,Barcelona,23.64444966583067,0.05387775037439047,False,Right Foot,Open Play,0,0,0,Normal
+70284,Alexis Alejandro Sánchez Sánchez,Barcelona,33.20391543176798,0.06239488735110812,False,Right Foot,Open Play,0,0,0,Normal
+70284,Jorge Resurrección Merodio,Atlético Madrid,25.457808232446098,0.06273005471121783,False,Right Foot,Open Play,0,0,0,Normal
+70284,Andrés Iniesta Luján,Barcelona,34.0812265037513,0.0740546631400868,False,Right Foot,Open Play,0,0,2,Normal
+70284,David Villa Sánchez,Barcelona,25.22419473442116,0.05593148535338976,False,Right Foot,Free Kick,0,0,0,Normal
+70284,Alexis Alejandro Sánchez Sánchez,Barcelona,13.269890730522235,0.05862110891798085,True,Right Foot,Open Play,0,0,4,Normal
+70284,Diego Roberto Godín Leal,Atlético Madrid,10.770329614269007,0.05399260816602884,False,Head,Open Play,0,1,1,Normal
+70284,Diego Roberto Godín Leal,Atlético Madrid,6.888396039717806,0.05712349232982114,False,Head,Open Play,0,1,4,Normal
+70284,David Villa Sánchez,Barcelona,12.270289320142368,0.06080716528680696,False,Left Foot,Open Play,0,0,2,Normal
+70284,Emiliano Adrián Insúa Zapata,Atlético Madrid,16.9446156639801,0.0628978991159737,False,Left Foot,Open Play,1,1,3,Half Volley
+70284,Diego da Silva Costa,Atlético Madrid,17.582377541163197,0.05563691927067294,False,Right Foot,Open Play,0,0,1,Half Volley
+70284,Diego Roberto Godín Leal,Atlético Madrid,13.662357044082846,0.058277061680852955,False,Head,Open Play,0,1,4,Normal

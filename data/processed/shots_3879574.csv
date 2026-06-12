@@ -1,24 +1,24 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.393297811357403,0.05442812992949381,False,Right Foot,Open Play,0,1,1,Normal
-19.63517252279694,0.06310677687422739,False,Left Foot,Open Play,1,0,1,Half Volley
-33.42813186524189,0.07495320659418958,False,Right Foot,Free Kick,0,0,0,Normal
-15.962455951387938,0.059370247568812894,False,Head,Open Play,0,1,2,Normal
-28.557660968643773,0.07051608053758386,False,Left Foot,Open Play,0,0,2,Normal
-13.69525465261599,0.060825681430864253,False,Left Foot,Open Play,1,1,2,Normal
-26.612966764342527,0.06600714260572008,False,Right Foot,Open Play,0,0,2,Normal
-33.98072983324519,0.07199363135542977,False,Right Foot,Open Play,0,0,2,Half Volley
-12.521980673998826,0.06115155583882494,False,Head,Open Play,0,1,3,Normal
-15.611854470241513,0.052892879417121307,False,Right Foot,Open Play,0,0,1,Normal
-23.16246964380094,0.057218019541347344,False,Left Foot,Open Play,0,1,1,Normal
-23.6763595174596,0.0656622974852778,False,Left Foot,Open Play,1,0,0,Volley
-29.28822288907266,0.06138616728066632,False,Left Foot,Open Play,1,0,1,Half Volley
-28.811803136909017,0.07176399975814755,False,Right Foot,Open Play,0,0,1,Normal
-26.752569970004746,0.06849272487999969,False,Left Foot,Open Play,0,1,1,Normal
-31.44932431706602,0.05425161869420964,False,Right Foot,Open Play,0,0,1,Normal
-10.107917688624097,0.05687909114663969,False,Right Foot,Open Play,1,0,2,Normal
-10.192153844992722,0.05289951765372769,False,Head,Open Play,0,1,3,Normal
-29.180986960690685,0.06978957348126827,False,Right Foot,Open Play,0,0,0,Normal
-29.783384629689092,0.0711121683682487,False,Left Foot,Open Play,0,0,1,Normal
-24.196900627972994,0.06835216625583312,False,Right Foot,Free Kick,0,0,0,Normal
-27.259126911917047,0.055260941056022944,False,Left Foot,Free Kick,0,0,0,Normal
-12.060265337047937,0.060531361466705444,False,Right Foot,Open Play,1,0,1,Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879574,Juan Guillermo Cuadrado Bello,Juventus,19.393297811357403,0.05442812992949381,False,Right Foot,Open Play,0,1,1,Normal
+3879574,Simone Zaza,Juventus,19.63517252279694,0.06310677687422739,False,Left Foot,Open Play,1,0,1,Half Volley
+3879574,Stevan Jovetić,Inter Milan,33.42813186524189,0.07495320659418958,False,Right Foot,Free Kick,0,0,0,Normal
+3879574,Simone Zaza,Juventus,15.962455951387938,0.059370247568812894,False,Head,Open Play,0,1,2,Normal
+3879574,Paul Pogba,Juventus,28.557660968643773,0.07051608053758386,False,Left Foot,Open Play,0,0,2,Normal
+3879574,Stevan Jovetić,Inter Milan,13.69525465261599,0.060825681430864253,False,Left Foot,Open Play,1,1,2,Normal
+3879574,Marcelo Brozović,Inter Milan,26.612966764342527,0.06600714260572008,False,Right Foot,Open Play,0,0,2,Normal
+3879574,Ivan Perišić,Inter Milan,33.98072983324519,0.07199363135542977,False,Right Foot,Open Play,0,0,2,Half Volley
+3879574,Leonardo Bonucci,Juventus,12.521980673998826,0.06115155583882494,False,Head,Open Play,0,1,3,Normal
+3879574,Juan Guillermo Cuadrado Bello,Juventus,15.611854470241513,0.052892879417121307,False,Right Foot,Open Play,0,0,1,Normal
+3879574,Juan Guillermo Cuadrado Bello,Juventus,23.16246964380094,0.057218019541347344,False,Left Foot,Open Play,0,1,1,Normal
+3879574,Claudio Marchisio,Juventus,23.6763595174596,0.0656622974852778,False,Left Foot,Open Play,1,0,0,Volley
+3879574,Stevan Jovetić,Inter Milan,29.28822288907266,0.06138616728066632,False,Left Foot,Open Play,1,0,1,Half Volley
+3879574,Paul Pogba,Juventus,28.811803136909017,0.07176399975814755,False,Right Foot,Open Play,0,0,1,Normal
+3879574,Claudio Marchisio,Juventus,26.752569970004746,0.06849272487999969,False,Left Foot,Open Play,0,1,1,Normal
+3879574,Juan Guillermo Cuadrado Bello,Juventus,31.44932431706602,0.05425161869420964,False,Right Foot,Open Play,0,0,1,Normal
+3879574,Sami Khedira,Juventus,10.107917688624097,0.05687909114663969,False,Right Foot,Open Play,1,0,2,Normal
+3879574,Paul Pogba,Juventus,10.192153844992722,0.05289951765372769,False,Head,Open Play,0,1,3,Normal
+3879574,Ivan Perišić,Inter Milan,29.180986960690685,0.06978957348126827,False,Right Foot,Open Play,0,0,0,Normal
+3879574,Simone Zaza,Juventus,29.783384629689092,0.0711121683682487,False,Left Foot,Open Play,0,0,1,Normal
+3879574,Stevan Jovetić,Inter Milan,24.196900627972994,0.06835216625583312,False,Right Foot,Free Kick,0,0,0,Normal
+3879574,Ivan Perišić,Inter Milan,27.259126911917047,0.055260941056022944,False,Left Foot,Free Kick,0,0,0,Normal
+3879574,Mario Mandžukić,Juventus,12.060265337047937,0.060531361466705444,False,Right Foot,Open Play,1,0,1,Volley

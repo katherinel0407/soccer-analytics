@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-32.73178882982108,0.06512464727908307,False,Left Foot,Open Play,0,1,3,Normal
-12.882546332150337,0.06137283666286042,False,Head,Open Play,0,1,2,Normal
-28.67769167837607,0.059570515043686635,False,Right Foot,Open Play,1,0,2,Normal
-30.486718419665962,0.055450013560795264,False,Left Foot,Open Play,0,0,1,Normal
-32.512305362739205,0.06751168574076459,False,Right Foot,Open Play,1,0,0,Normal
-6.152235366108804,0.0569488920199506,False,Head,Open Play,0,1,2,Normal
-24.77357463104588,0.06243968891236857,False,Right Foot,Open Play,0,0,1,Normal
-26.833002068348602,0.06029930910523683,False,Right Foot,Open Play,1,0,2,Normal
-10.43934863868431,0.0582934919817171,False,Right Foot,Open Play,0,1,3,Normal
-19.285486771144775,0.05654988646363415,True,Left Foot,Open Play,1,0,1,Normal
-32.15120526512186,0.07386955870396253,False,Right Foot,Open Play,1,0,0,Normal
-27.596557756357953,0.056872444042119115,False,Left Foot,Open Play,1,0,2,Normal
-20.246728130737566,0.06582003564921782,False,Right Foot,Open Play,1,0,1,Normal
-13.875518008348369,0.05679166469403837,False,Left Foot,Open Play,1,1,1,Normal
-20.16754819009986,0.06517842638527233,False,Left Foot,Open Play,0,0,2,Normal
-29.264654448668956,0.06573934821021679,False,Right Foot,Open Play,1,1,1,Half Volley
-23.93094231324792,0.06604118606212138,False,Right Foot,Open Play,0,0,1,Normal
-23.90690276886573,0.05763943187841876,False,Left Foot,Open Play,0,0,2,Normal
-22.922478051031046,0.05799306957503849,False,Left Foot,Open Play,0,1,2,Normal
-8.3773504164503,0.05888121021020529,False,Left Foot,Open Play,1,0,3,Normal
-8.376156636548771,0.05603981916871616,True,Left Foot,Open Play,1,0,1,Normal
-19.843638779215876,0.06557478248055121,False,Left Foot,Open Play,0,0,2,Normal
-24.113274352522104,0.05428769464609258,False,Right Foot,Open Play,1,0,1,Normal
-27.29468812791236,0.07050434100859074,False,Left Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69181,Pablo Orbaiz Lesaka,Athletic Club,32.73178882982108,0.06512464727908307,False,Left Foot,Open Play,0,1,3,Normal
+69181,Aritz Aduriz Zubeldia,Athletic Club,12.882546332150337,0.06137283666286042,False,Head,Open Play,0,1,2,Normal
+69181,Markel Susaeta Laskurain,Athletic Club,28.67769167837607,0.059570515043686635,False,Right Foot,Open Play,1,0,2,Normal
+69181,Lionel Andrés Messi Cuccittini,Barcelona,30.486718419665962,0.055450013560795264,False,Left Foot,Open Play,0,0,1,Normal
+69181,Andrés Iniesta Luján,Barcelona,32.512305362739205,0.06751168574076459,False,Right Foot,Open Play,1,0,0,Normal
+69181,Francisco Javier Yeste Navarro,Athletic Club,6.152235366108804,0.0569488920199506,False,Head,Open Play,0,1,2,Normal
+69181,Markel Susaeta Laskurain,Athletic Club,24.77357463104588,0.06243968891236857,False,Right Foot,Open Play,0,0,1,Normal
+69181,Javier Martínez Aginaga,Athletic Club,26.833002068348602,0.06029930910523683,False,Right Foot,Open Play,1,0,2,Normal
+69181,Aritz Aduriz Zubeldia,Athletic Club,10.43934863868431,0.0582934919817171,False,Right Foot,Open Play,0,1,3,Normal
+69181,Bojan Krkíc Pérez,Barcelona,19.285486771144775,0.05654988646363415,True,Left Foot,Open Play,1,0,1,Normal
+69181,Aitor Ocio Carrión,Athletic Club,32.15120526512186,0.07386955870396253,False,Right Foot,Open Play,1,0,0,Normal
+69181,Markel Susaeta Laskurain,Athletic Club,27.596557756357953,0.056872444042119115,False,Left Foot,Open Play,1,0,2,Normal
+69181,Thierry Henry,Barcelona,20.246728130737566,0.06582003564921782,False,Right Foot,Open Play,1,0,1,Normal
+69181,Anderson Luís de Souza,Barcelona,13.875518008348369,0.05679166469403837,False,Left Foot,Open Play,1,1,1,Normal
+69181,Joseba Garmendia Elorriaga,Athletic Club,20.16754819009986,0.06517842638527233,False,Left Foot,Open Play,0,0,2,Normal
+69181,David López Moreno,Athletic Club,29.264654448668956,0.06573934821021679,False,Right Foot,Open Play,1,1,1,Half Volley
+69181,Javier Martínez Aginaga,Athletic Club,23.93094231324792,0.06604118606212138,False,Right Foot,Open Play,0,0,1,Normal
+69181,Lionel Andrés Messi Cuccittini,Barcelona,23.90690276886573,0.05763943187841876,False,Left Foot,Open Play,0,0,2,Normal
+69181,Lionel Andrés Messi Cuccittini,Barcelona,22.922478051031046,0.05799306957503849,False,Left Foot,Open Play,0,1,2,Normal
+69181,Carles Puyol i Saforcada,Barcelona,8.3773504164503,0.05888121021020529,False,Left Foot,Open Play,1,0,3,Normal
+69181,Fernando Llorente Torres,Athletic Club,8.376156636548771,0.05603981916871616,True,Left Foot,Open Play,1,0,1,Normal
+69181,Joseba Garmendia Elorriaga,Athletic Club,19.843638779215876,0.06557478248055121,False,Left Foot,Open Play,0,0,2,Normal
+69181,Aitor Ramos Leniz,Athletic Club,24.113274352522104,0.05428769464609258,False,Right Foot,Open Play,1,0,1,Normal
+69181,Francisco Javier Yeste Navarro,Athletic Club,27.29468812791236,0.07050434100859074,False,Left Foot,Open Play,0,0,1,Normal

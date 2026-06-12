@@ -1,15 +1,15 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-17.094151046483706,0.0557015822952391,False,Left Foot,Open Play,1,0,3,Half Volley
-15.75436447464638,0.06277564783473474,False,Right Foot,Open Play,0,1,1,Volley
-14.862705002791378,0.06219625595710774,False,Head,Open Play,0,0,1,Normal
-33.24154027718932,0.06603832994675825,False,Right Foot,Free Kick,0,0,0,Normal
-21.720036832381293,0.06546934311641778,False,Left Foot,Open Play,0,1,1,Normal
-10.771258050942794,0.06002891706520968,False,Head,Open Play,0,0,2,Normal
-9.193475947648958,0.055286033476851994,False,Right Foot,Open Play,1,0,1,Volley
-8.109870529176154,0.058124721704562406,False,Head,Open Play,0,1,4,Normal
-23.807771840304586,0.05970192124617756,False,Left Foot,Open Play,0,0,4,Normal
-23.192455669894034,0.06772073167936295,False,Right Foot,Open Play,0,1,2,Normal
-23.71181140275875,0.05390533232472782,False,Right Foot,Open Play,1,1,1,Normal
-26.248238036104436,0.06967012768063742,False,Left Foot,Open Play,1,0,0,Normal
-9.128526715741152,0.05929210887645219,False,Head,Open Play,0,1,2,Normal
-13.891724155050015,0.061156051853771695,False,Head,Open Play,0,1,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+69213,Pablo Daniel Osvaldo,Espanyol,17.094151046483706,0.0557015822952391,False,Left Foot,Open Play,1,0,3,Half Volley
+69213,José María Callejón Bueno,Espanyol,15.75436447464638,0.06277564783473474,False,Right Foot,Open Play,0,1,1,Volley
+69213,Joan Verdú Fernández,Espanyol,14.862705002791378,0.06219625595710774,False,Head,Open Play,0,0,1,Normal
+69213,Nicolás Martín Pareja,Espanyol,33.24154027718932,0.06603832994675825,False,Right Foot,Free Kick,0,0,0,Normal
+69213,Maxwell Scherrer Cabelino Andrade,Barcelona,21.720036832381293,0.06546934311641778,False,Left Foot,Open Play,0,1,1,Normal
+69213,José Raúl Baena Urdiales,Espanyol,10.771258050942794,0.06002891706520968,False,Head,Open Play,0,0,2,Normal
+69213,Pablo Daniel Osvaldo,Espanyol,9.193475947648958,0.055286033476851994,False,Right Foot,Open Play,1,0,1,Volley
+69213,Juan Daniel Forlín,Espanyol,8.109870529176154,0.058124721704562406,False,Head,Open Play,0,1,4,Normal
+69213,Lionel Andrés Messi Cuccittini,Barcelona,23.807771840304586,0.05970192124617756,False,Left Foot,Open Play,0,0,4,Normal
+69213,Thierry Henry,Barcelona,23.192455669894034,0.06772073167936295,False,Right Foot,Open Play,0,1,2,Normal
+69213,Iván Daniel Alonso Vallejo,Espanyol,23.71181140275875,0.05390533232472782,False,Right Foot,Open Play,1,1,1,Normal
+69213,Iván Daniel Alonso Vallejo,Espanyol,26.248238036104436,0.06967012768063742,False,Left Foot,Open Play,1,0,0,Normal
+69213,Pablo Daniel Osvaldo,Espanyol,9.128526715741152,0.05929210887645219,False,Head,Open Play,0,1,2,Normal
+69213,Gerard Piqué Bernabéu,Barcelona,13.891724155050015,0.061156051853771695,False,Head,Open Play,0,1,2,Normal

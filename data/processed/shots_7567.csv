@@ -1,42 +1,42 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.313207915827967,0.06239508959578039,False,Right Foot,Open Play,0,1,1,Volley
-9.219544457292887,0.0576777719680193,False,Head,Open Play,0,1,5,Normal
-34.20526275297414,0.06387455453156092,False,Right Foot,Free Kick,0,0,0,Normal
-30.675723300355934,0.06178460481160256,False,Right Foot,Open Play,1,0,0,Volley
-16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,1,0,1,Volley
-23.08679276123039,0.06354026126612096,False,Left Foot,Open Play,0,0,0,Normal
-16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,0,0,2,Normal
-8.54400374531753,0.056952429299174226,False,Head,Open Play,0,0,4,Normal
-5.0,0.057265343813584856,False,Right Foot,Open Play,0,0,5,Normal
-25.0,0.05255359062777123,False,Left Foot,Open Play,0,0,1,Normal
-24.698178070456937,0.057466446940234,False,Right Foot,Open Play,0,0,4,Normal
-31.064449134018133,0.06955267838756787,False,Right Foot,Open Play,0,1,1,Normal
-9.055385138137417,0.05868899575295716,False,Head,Open Play,0,0,4,Normal
-35.05709628591621,0.07176062813840083,False,Right Foot,Open Play,0,0,1,Normal
-12.36931687685298,0.06064627765111373,False,Right Foot,Open Play,0,0,1,Volley
-9.055385138137417,0.05759080895715485,False,Right Foot,Open Play,0,0,1,Normal
-23.345235059857504,0.0548518347809503,False,Left Foot,Open Play,0,0,2,Normal
-28.635642126552707,0.05962418748883262,False,Right Foot,Open Play,0,0,1,Normal
-18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,0,0,0,Normal
-24.08318915758459,0.06399068887447368,False,Right Foot,Open Play,0,0,1,Normal
-14.422205101855956,0.061496850175109356,False,Right Foot,Open Play,0,1,1,Normal
-7.0710678118654755,0.05787344747263225,False,Head,Open Play,0,0,3,Normal
-26.019223662515376,0.06642440035610261,False,Left Foot,Open Play,0,1,1,Normal
-5.830951894845301,0.05583607260534165,False,Left Foot,Open Play,0,0,3,Normal
-21.095023109728988,0.0663790356225681,False,Right Foot,Open Play,0,0,3,Normal
-8.94427190999916,0.05661065938655103,False,Head,Open Play,0,1,2,Normal
-26.92582403567252,0.057608604131764996,False,Right Foot,Open Play,0,0,1,Normal
-15.556349186104045,0.06270036604226387,False,Right Foot,Open Play,0,0,1,Normal
-25.96150997149434,0.06873889561919842,False,Right Foot,Open Play,0,0,2,Normal
-8.06225774829855,0.05827886915945493,False,Other,Open Play,0,0,3,Normal
-22.02271554554524,0.06355739422521517,False,Right Foot,Open Play,0,0,1,Normal
-34.0147027033899,0.07058648459998179,False,Right Foot,Open Play,0,0,0,Normal
-22.090722034374522,0.06309403827342801,False,Left Foot,Open Play,0,1,1,Normal
-5.385164807134504,0.05615232855593911,True,Left Foot,Open Play,0,0,3,Normal
-12.649110640673518,0.06098738942947037,False,Head,Open Play,0,0,2,Normal
-8.602325267042627,0.05453517154336879,False,Head,Open Play,0,0,2,Normal
-8.94427190999916,0.058627918422720963,True,Left Foot,Open Play,1,0,0,Normal
-21.587033144922902,0.06570986017853818,False,Right Foot,Open Play,0,0,2,Normal
-20.12461179749811,0.05830338173475267,False,Right Foot,Open Play,0,0,2,Normal
-14.866068747318506,0.06225433667386876,False,Left Foot,Open Play,0,0,1,Normal
-7.0710678118654755,0.05787344747263225,False,Head,Open Play,0,0,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+7567,Marco Reus,Germany,19.313207915827967,0.06239508959578039,False,Right Foot,Open Play,0,1,1,Volley
+7567,Sami Khedira,Germany,9.219544457292887,0.0576777719680193,False,Head,Open Play,0,1,5,Normal
+7567,Woo-Young Jung,South Korea,34.20526275297414,0.06387455453156092,False,Right Foot,Free Kick,0,0,0,Normal
+7567,Yong Lee,South Korea,30.675723300355934,0.06178460481160256,False,Right Foot,Open Play,1,0,0,Volley
+7567,Heung-Min Son,South Korea,16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,1,0,1,Volley
+7567,Marco Reus,Germany,23.08679276123039,0.06354026126612096,False,Left Foot,Open Play,0,0,0,Normal
+7567,Timo Werner,Germany,16.278820596099706,0.05541485668804581,False,Right Foot,Open Play,0,0,2,Normal
+7567,Leon Goretzka,Germany,8.54400374531753,0.056952429299174226,False,Head,Open Play,0,0,4,Normal
+7567,Mats Hummels,Germany,5.0,0.057265343813584856,False,Right Foot,Open Play,0,0,5,Normal
+7567,Mesut Özil,Germany,25.0,0.05255359062777123,False,Left Foot,Open Play,0,0,1,Normal
+7567,Heung-Min Son,South Korea,24.698178070456937,0.057466446940234,False,Right Foot,Open Play,0,0,4,Normal
+7567,Woo-Young Jung,South Korea,31.064449134018133,0.06955267838756787,False,Right Foot,Open Play,0,1,1,Normal
+7567,Leon Goretzka,Germany,9.055385138137417,0.05868899575295716,False,Head,Open Play,0,0,4,Normal
+7567,Toni Kroos,Germany,35.05709628591621,0.07176062813840083,False,Right Foot,Open Play,0,0,1,Normal
+7567,Timo Werner,Germany,12.36931687685298,0.06064627765111373,False,Right Foot,Open Play,0,0,1,Volley
+7567,Heung-Min Son,South Korea,9.055385138137417,0.05759080895715485,False,Right Foot,Open Play,0,0,1,Normal
+7567,Joshua Kimmich,Germany,23.345235059857504,0.0548518347809503,False,Left Foot,Open Play,0,0,2,Normal
+7567,Sami Khedira,Germany,28.635642126552707,0.05962418748883262,False,Right Foot,Open Play,0,0,1,Normal
+7567,Toni Kroos,Germany,18.35755975068582,0.06462474310610325,False,Left Foot,Open Play,0,0,0,Normal
+7567,Heung-Min Son,South Korea,24.08318915758459,0.06399068887447368,False,Right Foot,Open Play,0,0,1,Normal
+7567,Timo Werner,Germany,14.422205101855956,0.061496850175109356,False,Right Foot,Open Play,0,1,1,Normal
+7567,Mario Gómez García,Germany,7.0710678118654755,0.05787344747263225,False,Head,Open Play,0,0,3,Normal
+7567,Toni Kroos,Germany,26.019223662515376,0.06642440035610261,False,Left Foot,Open Play,0,1,1,Normal
+7567,Mario Gómez García,Germany,5.830951894845301,0.05583607260534165,False,Left Foot,Open Play,0,0,3,Normal
+7567,Heung-Min Son,South Korea,21.095023109728988,0.0663790356225681,False,Right Foot,Open Play,0,0,3,Normal
+7567,Thomas Müller,Germany,8.94427190999916,0.05661065938655103,False,Head,Open Play,0,1,2,Normal
+7567,Marco Reus,Germany,26.92582403567252,0.057608604131764996,False,Right Foot,Open Play,0,0,1,Normal
+7567,Julian Brandt,Germany,15.556349186104045,0.06270036604226387,False,Right Foot,Open Play,0,0,1,Normal
+7567,Toni Kroos,Germany,25.96150997149434,0.06873889561919842,False,Right Foot,Open Play,0,0,2,Normal
+7567,Mats Hummels,Germany,8.06225774829855,0.05827886915945493,False,Other,Open Play,0,0,3,Normal
+7567,Toni Kroos,Germany,22.02271554554524,0.06355739422521517,False,Right Foot,Open Play,0,0,1,Normal
+7567,Woo-Young Jung,South Korea,34.0147027033899,0.07058648459998179,False,Right Foot,Open Play,0,0,0,Normal
+7567,Jae-Sung Lee,South Korea,22.090722034374522,0.06309403827342801,False,Left Foot,Open Play,0,1,1,Normal
+7567,Young-Gwon Kim,South Korea,5.385164807134504,0.05615232855593911,True,Left Foot,Open Play,0,0,3,Normal
+7567,Thomas Müller,Germany,12.649110640673518,0.06098738942947037,False,Head,Open Play,0,0,2,Normal
+7567,Mats Hummels,Germany,8.602325267042627,0.05453517154336879,False,Head,Open Play,0,0,2,Normal
+7567,Heung-Min Son,South Korea,8.94427190999916,0.058627918422720963,True,Left Foot,Open Play,1,0,0,Normal
+7567,Thomas Müller,Germany,21.587033144922902,0.06570986017853818,False,Right Foot,Open Play,0,0,2,Normal
+7567,Julian Brandt,Germany,20.12461179749811,0.05830338173475267,False,Right Foot,Open Play,0,0,2,Normal
+7567,Mats Hummels,Germany,14.866068747318506,0.06225433667386876,False,Left Foot,Open Play,0,0,1,Normal
+7567,Mats Hummels,Germany,7.0710678118654755,0.05787344747263225,False,Head,Open Play,0,0,5,Normal

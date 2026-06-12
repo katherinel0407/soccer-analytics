@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.722575896672325,0.05832897703726647,False,Left Foot,Open Play,0,0,3,Normal
-12.506398362438324,0.059946328996345485,False,Right Foot,Open Play,1,0,1,Volley
-10.358571330062851,0.060017808580370716,False,Left Foot,Open Play,1,0,1,Normal
-20.6929939834718,0.06611569146636229,False,Left Foot,Open Play,0,0,3,Normal
-27.56174885597792,0.06010972524565478,False,Right Foot,Free Kick,0,0,0,Normal
-7.102112361825882,0.05716848732485098,True,Right Foot,Open Play,1,0,0,Half Volley
-20.753072061745463,0.06588574416699879,False,Right Foot,Open Play,0,0,2,Normal
-10.748023074035519,0.06011479003844498,False,Head,Open Play,0,0,2,Normal
-18.775782273982617,0.06402702985990458,False,Right Foot,Open Play,1,0,1,Volley
-11.543396380615198,0.054894259657046314,False,Right Foot,Open Play,0,0,2,Normal
-8.220097323024826,0.05753017117207337,False,Head,Open Play,0,1,7,Normal
-23.286262044390032,0.0675370795990399,False,Left Foot,Open Play,1,0,1,Normal
-24.35077000835907,0.06751675443795419,False,Right Foot,Open Play,1,0,1,Volley
-19.59311103423854,0.06490353110995484,True,Left Foot,Open Play,0,1,1,Half Volley
-16.410971939528757,0.061239358595699164,True,Right Foot,Open Play,1,0,2,Normal
-35.93243659981883,0.061148795807231725,False,Left Foot,Free Kick,0,0,0,Normal
-17.08830009099793,0.057693726298070215,False,Right Foot,Open Play,1,0,2,Normal
-15.763248396190427,0.06229342289979035,True,Right Foot,Open Play,0,0,2,Normal
-8.213403679352423,0.05541522414879842,True,Right Foot,Open Play,1,0,2,Normal
-27.752117036363188,0.06905727094099846,False,Left Foot,Open Play,0,0,1,Normal
-28.091991741419832,0.07123757735920772,False,Left Foot,Open Play,0,0,1,Half Volley
-24.917664417035557,0.06892403225544975,False,Right Foot,Open Play,0,0,2,Normal
-18.28797419070795,0.06388837247294256,False,Left Foot,Open Play,0,0,1,Normal
-11.375851616472502,0.058884471047235085,False,Left Foot,Open Play,1,0,1,Normal
-19.50410213262841,0.06383404424332881,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825749,Jonathan Viera Ramos,Las Palmas,19.722575896672325,0.05832897703726647,False,Left Foot,Open Play,0,0,3,Normal
+3825749,Víctor Camarasa Ferrando,Levante UD,12.506398362438324,0.059946328996345485,False,Right Foot,Open Play,1,0,1,Volley
+3825749,Willian José da Silva,Las Palmas,10.358571330062851,0.060017808580370716,False,Left Foot,Open Play,1,0,1,Normal
+3825749,Mubarak Wakaso,Las Palmas,20.6929939834718,0.06611569146636229,False,Left Foot,Open Play,0,0,3,Normal
+3825749,José Antonio García Rabasco,Levante UD,27.56174885597792,0.06010972524565478,False,Right Foot,Free Kick,0,0,0,Normal
+3825749,José Luis Morales Nogales,Levante UD,7.102112361825882,0.05716848732485098,True,Right Foot,Open Play,1,0,0,Half Volley
+3825749,José Luis Morales Nogales,Levante UD,20.753072061745463,0.06588574416699879,False,Right Foot,Open Play,0,0,2,Normal
+3825749,Deyverson Brum Silva Acosta,Levante UD,10.748023074035519,0.06011479003844498,False,Head,Open Play,0,0,2,Normal
+3825749,David García Santana,Las Palmas,18.775782273982617,0.06402702985990458,False,Right Foot,Open Play,1,0,1,Volley
+3825749,Pedro Taunausú Domínguez Placeres,Las Palmas,11.543396380615198,0.054894259657046314,False,Right Foot,Open Play,0,0,2,Normal
+3825749,David Simón Rodríguez Santana,Las Palmas,8.220097323024826,0.05753017117207337,False,Head,Open Play,0,1,7,Normal
+3825749,Dani Castellano Betancor,Las Palmas,23.286262044390032,0.0675370795990399,False,Left Foot,Open Play,1,0,1,Normal
+3825749,Jordi Xumetra Feliu,Levante UD,24.35077000835907,0.06751675443795419,False,Right Foot,Open Play,1,0,1,Volley
+3825749,Deyverson Brum Silva Acosta,Levante UD,19.59311103423854,0.06490353110995484,True,Left Foot,Open Play,0,1,1,Half Volley
+3825749,Willian José da Silva,Las Palmas,16.410971939528757,0.061239358595699164,True,Right Foot,Open Play,1,0,2,Normal
+3825749,Mubarak Wakaso,Las Palmas,35.93243659981883,0.061148795807231725,False,Left Foot,Free Kick,0,0,0,Normal
+3825749,David Simón Rodríguez Santana,Las Palmas,17.08830009099793,0.057693726298070215,False,Right Foot,Open Play,1,0,2,Normal
+3825749,José Luis Morales Nogales,Levante UD,15.763248396190427,0.06229342289979035,True,Right Foot,Open Play,0,0,2,Normal
+3825749,Willian José da Silva,Las Palmas,8.213403679352423,0.05541522414879842,True,Right Foot,Open Play,1,0,2,Normal
+3825749,Mubarak Wakaso,Las Palmas,27.752117036363188,0.06905727094099846,False,Left Foot,Open Play,0,0,1,Normal
+3825749,Sergio Ezequiel Araújo,Las Palmas,28.091991741419832,0.07123757735920772,False,Left Foot,Open Play,0,0,1,Half Volley
+3825749,José Luis Morales Nogales,Levante UD,24.917664417035557,0.06892403225544975,False,Right Foot,Open Play,0,0,2,Normal
+3825749,Giuseppe Rossi,Levante UD,18.28797419070795,0.06388837247294256,False,Left Foot,Open Play,0,0,1,Normal
+3825749,Giuseppe Rossi,Levante UD,11.375851616472502,0.058884471047235085,False,Left Foot,Open Play,1,0,1,Normal
+3825749,José Luis Morales Nogales,Levante UD,19.50410213262841,0.06383404424332881,False,Right Foot,Open Play,0,0,2,Normal

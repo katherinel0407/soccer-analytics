@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.851391347650843,0.06826203938255088,False,Right Foot,Open Play,1,0,1,Half Volley
-14.28005602229907,0.05417088686851252,False,Right Foot,Open Play,1,0,2,Normal
-30.751422731314403,0.05747947056748426,False,Right Foot,Open Play,0,0,1,Normal
-27.12655525495267,0.07046208536254045,False,Right Foot,Open Play,0,0,1,Normal
-6.013318551349163,0.057286814467256586,True,Right Foot,Open Play,1,0,1,Normal
-11.594826432508597,0.05818142108666551,False,Right Foot,Open Play,0,1,4,Volley
-22.86000874890471,0.06721171698348946,False,Right Foot,Open Play,0,0,2,Normal
-7.720103626247519,0.05699347351262801,False,Head,Open Play,0,1,4,Normal
-16.877203559831823,0.06361044453908427,True,Left Foot,Open Play,0,0,2,Normal
-7.366138744281158,0.05842654733723845,False,Head,Open Play,0,1,5,Normal
-6.126989472816157,0.056116081794846326,True,Head,Open Play,0,1,5,Normal
-27.518720900506985,0.0572660099903381,False,Right Foot,Open Play,0,1,2,Normal
-18.638669480410876,0.05694327763457775,False,Right Foot,Open Play,0,0,1,Normal
-19.266551326067674,0.05545098488236772,False,Right Foot,Open Play,0,0,4,Normal
-9.80051019080129,0.05864758756544275,False,Head,Open Play,0,1,1,Normal
-20.518284528683193,0.05440593738871705,False,Right Foot,Open Play,0,0,1,Half Volley
-21.523243250030884,0.06333025736529119,False,Right Foot,Open Play,1,0,1,Volley
-22.998478210525143,0.06763729829555733,True,Right Foot,Open Play,0,1,2,Normal
-27.94154612758571,0.05741840952006496,False,Right Foot,Open Play,1,0,2,Half Volley
-13.136970731489052,0.06154965666322067,False,Right Foot,Open Play,0,0,5,Normal
-15.094369811290564,0.05687363751378979,False,Left Foot,Open Play,1,0,2,Normal
-11.381124724736132,0.05609233319996815,False,Head,Open Play,0,1,4,Normal
-11.107204868912795,0.05754615016134177,False,Head,Open Play,0,0,2,Diving Header
-14.68400490329528,0.05889838695731717,False,Left Foot,Open Play,1,0,1,Normal
-22.06195820864503,0.0667680610327753,False,Left Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890370,Kevin Kampl,Bayer Leverkusen,27.851391347650843,0.06826203938255088,False,Right Foot,Open Play,1,0,1,Half Volley
+3890370,Admir Mehmedi,Bayer Leverkusen,14.28005602229907,0.05417088686851252,False,Right Foot,Open Play,1,0,2,Normal
+3890370,Giulio Donati,Bayer Leverkusen,30.751422731314403,0.05747947056748426,False,Right Foot,Open Play,0,0,1,Normal
+3890370,Hakan Çalhanoğlu,Bayer Leverkusen,27.12655525495267,0.07046208536254045,False,Right Foot,Open Play,0,0,1,Normal
+3890370,Javier Hernández Balcázar,Bayer Leverkusen,6.013318551349163,0.057286814467256586,True,Right Foot,Open Play,1,0,1,Normal
+3890370,Aleksandar Ignjovski,Eintracht Frankfurt,11.594826432508597,0.05818142108666551,False,Right Foot,Open Play,0,1,4,Volley
+3890370,Kevin Kampl,Bayer Leverkusen,22.86000874890471,0.06721171698348946,False,Right Foot,Open Play,0,0,2,Normal
+3890370,Alexander Meier,Eintracht Frankfurt,7.720103626247519,0.05699347351262801,False,Head,Open Play,0,1,4,Normal
+3890370,Javier Hernández Balcázar,Bayer Leverkusen,16.877203559831823,0.06361044453908427,True,Left Foot,Open Play,0,0,2,Normal
+3890370,Slobodan Medojević,Eintracht Frankfurt,7.366138744281158,0.05842654733723845,False,Head,Open Play,0,1,5,Normal
+3890370,Slobodan Medojević,Eintracht Frankfurt,6.126989472816157,0.056116081794846326,True,Head,Open Play,0,1,5,Normal
+3890370,Karim Bellarabi,Bayer Leverkusen,27.518720900506985,0.0572660099903381,False,Right Foot,Open Play,0,1,2,Normal
+3890370,Stefan Aigner,Eintracht Frankfurt,18.638669480410876,0.05694327763457775,False,Right Foot,Open Play,0,0,1,Normal
+3890370,Marc Stendera,Eintracht Frankfurt,19.266551326067674,0.05545098488236772,False,Right Foot,Open Play,0,0,4,Normal
+3890370,Stefan Kießling,Bayer Leverkusen,9.80051019080129,0.05864758756544275,False,Head,Open Play,0,1,1,Normal
+3890370,Christoph Kramer,Bayer Leverkusen,20.518284528683193,0.05440593738871705,False,Right Foot,Open Play,0,0,1,Half Volley
+3890370,Hakan Çalhanoğlu,Bayer Leverkusen,21.523243250030884,0.06333025736529119,False,Right Foot,Open Play,1,0,1,Volley
+3890370,Hakan Çalhanoğlu,Bayer Leverkusen,22.998478210525143,0.06763729829555733,True,Right Foot,Open Play,0,1,2,Normal
+3890370,Makoto Hasebe,Eintracht Frankfurt,27.94154612758571,0.05741840952006496,False,Right Foot,Open Play,1,0,2,Half Volley
+3890370,Marc Stendera,Eintracht Frankfurt,13.136970731489052,0.06154965666322067,False,Right Foot,Open Play,0,0,5,Normal
+3890370,Hakan Çalhanoğlu,Bayer Leverkusen,15.094369811290564,0.05687363751378979,False,Left Foot,Open Play,1,0,2,Normal
+3890370,Stefan Kießling,Bayer Leverkusen,11.381124724736132,0.05609233319996815,False,Head,Open Play,0,1,4,Normal
+3890370,Stefan Kießling,Bayer Leverkusen,11.107204868912795,0.05754615016134177,False,Head,Open Play,0,0,2,Diving Header
+3890370,Stefan Aigner,Eintracht Frankfurt,14.68400490329528,0.05889838695731717,False,Left Foot,Open Play,1,0,1,Normal
+3890370,Wendell Nascimento Borges,Bayer Leverkusen,22.06195820864503,0.0667680610327753,False,Left Foot,Open Play,0,1,1,Normal

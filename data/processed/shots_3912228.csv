@@ -1,30 +1,30 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.480530295421723,0.05370160977483705,False,Right Foot,Open Play,1,0,1,Normal
-28.114942646215734,0.06323445681661216,False,Right Foot,Open Play,0,0,2,Normal
-30.139011264472494,0.05301787006989327,False,Left Foot,Open Play,0,0,2,Normal
-27.34117773615467,0.06577128347109627,False,Left Foot,Open Play,1,0,2,Half Volley
-35.56585441121864,0.06530566675926902,False,Left Foot,Free Kick,0,0,0,Normal
-22.24679752234015,0.05952307959207546,False,Left Foot,Open Play,0,1,2,Normal
-14.339107364128354,0.05925069502169235,False,Right Foot,Open Play,1,1,2,Half Volley
-26.22403477728017,0.062066947596453995,False,Left Foot,Open Play,1,0,1,Normal
-35.03655234180441,0.06946850493431936,False,Right Foot,Open Play,0,0,1,Normal
-16.412799883018135,0.057837831866150866,False,Right Foot,Open Play,1,0,2,Half Volley
-12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
-18.033579788827286,0.061730366268334426,False,Left Foot,Open Play,0,0,2,Normal
-32.617173390715514,0.0720355989248637,False,Right Foot,Open Play,0,0,1,Normal
-4.825971404805463,0.05469871658278814,True,Right Foot,Open Play,1,0,0,Half Volley
-18.7040102651811,0.06472473259524465,False,Left Foot,Open Play,0,0,2,Normal
-39.802009999496256,0.061184747774059293,True,Right Foot,Corner,0,0,0,Normal
-13.083195328359205,0.06137763442660784,False,Left Foot,Open Play,1,0,1,Normal
-11.950732195141859,0.059940740115867266,False,Right Foot,Open Play,1,0,2,Normal
-13.505924625881784,0.06156823570058004,False,Left Foot,Open Play,1,0,2,Normal
-36.87180494632721,0.07298109697132496,False,Right Foot,Open Play,0,0,1,Normal
-24.439312592624205,0.06426869149333701,False,Right Foot,Open Play,0,0,0,Normal
-9.055385138137417,0.05868899575295716,False,Head,Open Play,0,1,3,Normal
-6.46606526413088,0.05487655180630892,False,Left Foot,Open Play,1,0,6,Half Volley
-5.9615434243155505,0.05624398127822413,False,Right Foot,Open Play,1,0,6,Normal
-22.219360926903363,0.0667198057851,False,Right Foot,Open Play,1,1,3,Normal
-8.60348766489497,0.05702427876222196,False,Right Foot,Open Play,0,0,3,Normal
-17.5316856006489,0.05346500955482823,False,Right Foot,Open Play,0,0,3,Normal
-17.536248173426383,0.0549847131858982,False,Left Foot,Open Play,0,0,1,Normal
-8.050465825031493,0.05824656846017509,False,Head,Open Play,0,1,4,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3912228,Mimmi Wahlström,RB Leipzig W,18.480530295421723,0.05370160977483705,False,Right Foot,Open Play,1,0,1,Normal
+3912228,Gianna Rackow,RB Leipzig W,28.114942646215734,0.06323445681661216,False,Right Foot,Open Play,0,0,2,Normal
+3912228,Vanessa Fudalla,RB Leipzig W,30.139011264472494,0.05301787006989327,False,Left Foot,Open Play,0,0,2,Normal
+3912228,Vanessa Fudalla,RB Leipzig W,27.34117773615467,0.06577128347109627,False,Left Foot,Open Play,1,0,2,Half Volley
+3912228,Vanessa Fudalla,RB Leipzig W,35.56585441121864,0.06530566675926902,False,Left Foot,Free Kick,0,0,0,Normal
+3912228,Sarah Freutel,Duisburg WFC,22.24679752234015,0.05952307959207546,False,Left Foot,Open Play,0,1,2,Normal
+3912228,Lydia Andrade,RB Leipzig W,14.339107364128354,0.05925069502169235,False,Right Foot,Open Play,1,1,2,Half Volley
+3912228,Marlene Müller,RB Leipzig W,26.22403477728017,0.062066947596453995,False,Left Foot,Open Play,1,0,1,Normal
+3912228,Jenny Hipp,RB Leipzig W,35.03655234180441,0.06946850493431936,False,Right Foot,Open Play,0,0,1,Normal
+3912228,Sarah Freutel,Duisburg WFC,16.412799883018135,0.057837831866150866,False,Right Foot,Open Play,1,0,2,Half Volley
+3912228,Jenny Hipp,RB Leipzig W,12.000416659433121,0.059555627998902204,True,Right Foot,Penalty,0,0,0,Normal
+3912228,Vanessa Fudalla,RB Leipzig W,18.033579788827286,0.061730366268334426,False,Left Foot,Open Play,0,0,2,Normal
+3912228,Lydia Andrade,RB Leipzig W,32.617173390715514,0.0720355989248637,False,Right Foot,Open Play,0,0,1,Normal
+3912228,Lydia Andrade,RB Leipzig W,4.825971404805463,0.05469871658278814,True,Right Foot,Open Play,1,0,0,Half Volley
+3912228,Mimmi Wahlström,RB Leipzig W,18.7040102651811,0.06472473259524465,False,Left Foot,Open Play,0,0,2,Normal
+3912228,Jenny Hipp,RB Leipzig W,39.802009999496256,0.061184747774059293,True,Right Foot,Corner,0,0,0,Normal
+3912228,Samantha Jerabek,Duisburg WFC,13.083195328359205,0.06137763442660784,False,Left Foot,Open Play,1,0,1,Normal
+3912228,Samantha Jerabek,Duisburg WFC,11.950732195141859,0.059940740115867266,False,Right Foot,Open Play,1,0,2,Normal
+3912228,Samantha Jerabek,Duisburg WFC,13.505924625881784,0.06156823570058004,False,Left Foot,Open Play,1,0,2,Normal
+3912228,Miray Cin,Duisburg WFC,36.87180494632721,0.07298109697132496,False,Right Foot,Open Play,0,0,1,Normal
+3912228,Samantha Jerabek,Duisburg WFC,24.439312592624205,0.06426869149333701,False,Right Foot,Open Play,0,0,0,Normal
+3912228,Jelena Prvulovic,Duisburg WFC,9.055385138137417,0.05868899575295716,False,Head,Open Play,0,1,3,Normal
+3912228,Haley Marie Thomas,Duisburg WFC,6.46606526413088,0.05487655180630892,False,Left Foot,Open Play,1,0,6,Half Volley
+3912228,Taryn Ries,Duisburg WFC,5.9615434243155505,0.05624398127822413,False,Right Foot,Open Play,1,0,6,Normal
+3912228,Kara Bathmann,Duisburg WFC,22.219360926903363,0.0667198057851,False,Right Foot,Open Play,1,1,3,Normal
+3912228,Samantha Jerabek,Duisburg WFC,8.60348766489497,0.05702427876222196,False,Right Foot,Open Play,0,0,3,Normal
+3912228,Lisa Josten,Duisburg WFC,17.5316856006489,0.05346500955482823,False,Right Foot,Open Play,0,0,3,Normal
+3912228,Taryn Ries,Duisburg WFC,17.536248173426383,0.0549847131858982,False,Left Foot,Open Play,0,0,1,Normal
+3912228,Samantha Jerabek,Duisburg WFC,8.050465825031493,0.05824656846017509,False,Head,Open Play,0,1,4,Normal

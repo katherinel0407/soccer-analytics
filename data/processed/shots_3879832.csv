@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-8.598255637046393,0.05872069727051608,False,Head,Open Play,0,0,1,Normal
-12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
-7.35391052434009,0.05835049519418996,False,Head,Open Play,0,1,5,Normal
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-24.189667215569546,0.054680918269093305,False,Left Foot,Open Play,0,0,1,Normal
-11.094142598686929,0.05685146641699338,False,Head,Open Play,0,0,1,Normal
-28.96963927977012,0.06044017007860815,False,Left Foot,Open Play,1,0,1,Half Volley
-10.762899237658969,0.055493535114524116,False,Left Foot,Open Play,1,0,2,Half Volley
-14.509651959988561,0.057922825615129514,True,Head,Open Play,0,0,2,Normal
-16.446884203398525,0.061114833102963555,False,Left Foot,Open Play,0,1,1,Normal
-7.684399781375248,0.05862013180828184,False,Head,Open Play,0,0,4,Normal
-12.364869590901478,0.0580058603049841,False,Left Foot,Open Play,1,0,2,Volley
-7.496665925596531,0.05526798857682909,True,Right Foot,Open Play,1,1,3,Normal
-25.314027731674777,0.06923162130991166,False,Right Foot,Open Play,0,0,2,Normal
-32.161623093370146,0.07352058207535861,False,Left Foot,Open Play,0,0,1,Normal
-26.66027006614899,0.06922336454993325,False,Right Foot,Free Kick,0,0,0,Normal
-7.9906195003891884,0.05517300159210258,False,Right Foot,Open Play,1,0,2,Half Volley
-24.545875417267155,0.06867385926881374,False,Left Foot,Open Play,1,1,2,Normal
-8.558621384311845,0.058483341160961114,False,Head,Open Play,0,0,4,Normal
-8.637708029332776,0.0569902346721414,False,Left Foot,Open Play,1,1,4,Volley
-22.095474649801037,0.06612643026496152,False,Left Foot,Free Kick,0,0,0,Normal
-31.0871356030111,0.07165896331740776,False,Left Foot,Free Kick,0,0,0,Normal
-23.786130412490387,0.06799657435076281,False,Left Foot,Open Play,0,0,1,Normal
-7.632168761236874,0.058586498404780224,False,Left Foot,Open Play,1,1,1,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879832,Ivaylo Chochev,Palermo,8.598255637046393,0.05872069727051608,False,Head,Open Play,0,0,1,Normal
+3879832,Franco Damián Vázquez,Palermo,12.0,0.05959154427448477,True,Left Foot,Penalty,0,0,0,Normal
+3879832,Gabriel Alejandro Paletta,Atalanta,7.35391052434009,0.05835049519418996,False,Head,Open Play,0,1,5,Normal
+3879832,Marco Borriello,Atalanta,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3879832,Cristian Raimondi,Atalanta,24.189667215569546,0.054680918269093305,False,Left Foot,Open Play,0,0,1,Normal
+3879832,Cristian Raimondi,Atalanta,11.094142598686929,0.05685146641699338,False,Head,Open Play,0,0,1,Normal
+3879832,Luca Cigarini,Atalanta,28.96963927977012,0.06044017007860815,False,Left Foot,Open Play,1,0,1,Half Volley
+3879832,Aleksandar Trajkovski,Palermo,10.762899237658969,0.055493535114524116,False,Left Foot,Open Play,1,0,2,Half Volley
+3879832,Gabriel Alejandro Paletta,Atalanta,14.509651959988561,0.057922825615129514,True,Head,Open Play,0,0,2,Normal
+3879832,Franco Damián Vázquez,Palermo,16.446884203398525,0.061114833102963555,False,Left Foot,Open Play,0,1,1,Normal
+3879832,Boukary Dramé,Atalanta,7.684399781375248,0.05862013180828184,False,Head,Open Play,0,0,4,Normal
+3879832,Mato Jajalo,Palermo,12.364869590901478,0.0580058603049841,False,Left Foot,Open Play,1,0,2,Volley
+3879832,Aljaž Struna,Palermo,7.496665925596531,0.05526798857682909,True,Right Foot,Open Play,1,1,3,Normal
+3879832,Robin Quaison,Palermo,25.314027731674777,0.06923162130991166,False,Right Foot,Open Play,0,0,2,Normal
+3879832,Achraf Lazaar,Palermo,32.161623093370146,0.07352058207535861,False,Left Foot,Open Play,0,0,1,Normal
+3879832,Aleksandar Trajkovski,Palermo,26.66027006614899,0.06922336454993325,False,Right Foot,Free Kick,0,0,0,Normal
+3879832,Mato Jajalo,Palermo,7.9906195003891884,0.05517300159210258,False,Right Foot,Open Play,1,0,2,Half Volley
+3879832,Franco Damián Vázquez,Palermo,24.545875417267155,0.06867385926881374,False,Left Foot,Open Play,1,1,2,Normal
+3879832,Giancarlo González Castro,Palermo,8.558621384311845,0.058483341160961114,False,Head,Open Play,0,0,4,Normal
+3879832,Alberto Gilardino,Palermo,8.637708029332776,0.0569902346721414,False,Left Foot,Open Play,1,1,4,Volley
+3879832,Alessandro Diamanti,Atalanta,22.095474649801037,0.06612643026496152,False,Left Foot,Free Kick,0,0,0,Normal
+3879832,Alessandro Diamanti,Atalanta,31.0871356030111,0.07165896331740776,False,Left Foot,Free Kick,0,0,0,Normal
+3879832,Marco Borriello,Atalanta,23.786130412490387,0.06799657435076281,False,Left Foot,Open Play,0,0,1,Normal
+3879832,Remo Freuler,Atalanta,7.632168761236874,0.058586498404780224,False,Left Foot,Open Play,1,1,1,Half Volley

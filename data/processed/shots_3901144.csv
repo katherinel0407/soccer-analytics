@@ -1,25 +1,25 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-31.834101212379156,0.06595426654161979,False,Left Foot,Open Play,0,0,1,Normal
-9.349331526906079,0.05423537205351135,False,Head,Open Play,0,1,1,Normal
-5.869412236331677,0.057475508495613246,False,Head,Open Play,0,1,5,Normal
-9.289241088485108,0.05757452606362336,False,Head,Open Play,0,1,4,Normal
-19.560163598497834,0.05625986049586,False,Right Foot,Open Play,0,1,2,Half Volley
-9.202716990106783,0.05721787705285035,False,Head,Open Play,0,1,2,Normal
-35.892199709686224,0.07666836263997263,False,Right Foot,Open Play,1,0,0,Normal
-25.057733337235437,0.06183396299554284,False,Right Foot,Open Play,0,1,2,Normal
-8.381527307120109,0.05698241037493316,False,Head,Open Play,0,0,3,Normal
-27.390509305231987,0.07071457347769627,False,Right Foot,Free Kick,0,0,0,Normal
-12.18277472499594,0.05554842894901206,False,Left Foot,Open Play,1,0,2,Half Volley
-10.430723848324236,0.06006505902731023,False,Head,Open Play,0,1,2,Normal
-7.116881339463236,0.056661912730261436,False,Left Foot,Open Play,1,1,3,Half Volley
-10.324727599312247,0.05987778423315483,False,Head,Open Play,0,1,3,Normal
-10.840664186294118,0.06027625024391413,False,Left Foot,Open Play,1,1,2,Half Volley
-33.138648131750934,0.07046164672709194,False,Left Foot,Open Play,0,0,2,Normal
-9.284934033152842,0.057007140990156545,False,Head,Open Play,0,1,3,Normal
-17.840403582878945,0.06347122821901638,False,Left Foot,Open Play,1,0,1,Volley
-29.210443337957063,0.07078085404961816,False,Right Foot,Open Play,0,0,2,Normal
-26.701685340067957,0.06610975496309901,False,Right Foot,Open Play,1,0,1,Half Volley
-24.331255619059206,0.05965120960746142,False,Right Foot,Open Play,0,0,1,Normal
-25.985572920372565,0.06735577352914555,False,Left Foot,Open Play,0,1,3,Normal
-19.94843352245985,0.06530541086595654,False,Left Foot,Open Play,0,0,2,Normal
-25.55190795224497,0.06116089340881089,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901144,Adam Ounas,Bordeaux,31.834101212379156,0.06595426654161979,False,Left Foot,Open Play,0,0,1,Normal
+3901144,Paul Baysse,OGC Nice,9.349331526906079,0.05423537205351135,False,Head,Open Play,0,1,1,Normal
+3901144,Paul Baysse,OGC Nice,5.869412236331677,0.057475508495613246,False,Head,Open Play,0,1,5,Normal
+3901144,Paul Baysse,OGC Nice,9.289241088485108,0.05757452606362336,False,Head,Open Play,0,1,4,Normal
+3901144,Valère Germain,OGC Nice,19.560163598497834,0.05625986049586,False,Right Foot,Open Play,0,1,2,Half Volley
+3901144,Cheick Tidiane Diabaté,Bordeaux,9.202716990106783,0.05721787705285035,False,Head,Open Play,0,1,2,Normal
+3901144,Clément Chantôme,Bordeaux,35.892199709686224,0.07666836263997263,False,Right Foot,Open Play,1,0,0,Normal
+3901144,Adam Ounas,Bordeaux,25.057733337235437,0.06183396299554284,False,Right Foot,Open Play,0,1,2,Normal
+3901144,Cédric Yambéré,Bordeaux,8.381527307120109,0.05698241037493316,False,Head,Open Play,0,0,3,Normal
+3901144,Thomas Touré,Bordeaux,27.390509305231987,0.07071457347769627,False,Right Foot,Free Kick,0,0,0,Normal
+3901144,Diego Alejandro Rolan Silva,Bordeaux,12.18277472499594,0.05554842894901206,False,Left Foot,Open Play,1,0,2,Half Volley
+3901144,Cheick Tidiane Diabaté,Bordeaux,10.430723848324236,0.06006505902731023,False,Head,Open Play,0,1,2,Normal
+3901144,Cheick Tidiane Diabaté,Bordeaux,7.116881339463236,0.056661912730261436,False,Left Foot,Open Play,1,1,3,Half Volley
+3901144,Cédric Yambéré,Bordeaux,10.324727599312247,0.05987778423315483,False,Head,Open Play,0,1,3,Normal
+3901144,Thomas Touré,Bordeaux,10.840664186294118,0.06027625024391413,False,Left Foot,Open Play,1,1,2,Half Volley
+3901144,Rémi Walter,OGC Nice,33.138648131750934,0.07046164672709194,False,Left Foot,Open Play,0,0,2,Normal
+3901144,Cheick Tidiane Diabaté,Bordeaux,9.284934033152842,0.057007140990156545,False,Head,Open Play,0,1,3,Normal
+3901144,Jérémy Pied,OGC Nice,17.840403582878945,0.06347122821901638,False,Left Foot,Open Play,1,0,1,Volley
+3901144,Dorian Caddy,OGC Nice,29.210443337957063,0.07078085404961816,False,Right Foot,Open Play,0,0,2,Normal
+3901144,Jean Michaël Seri,OGC Nice,26.701685340067957,0.06610975496309901,False,Right Foot,Open Play,1,0,1,Half Volley
+3901144,Jean Michaël Seri,OGC Nice,24.331255619059206,0.05965120960746142,False,Right Foot,Open Play,0,0,1,Normal
+3901144,Valère Germain,OGC Nice,25.985572920372565,0.06735577352914555,False,Left Foot,Open Play,0,1,3,Normal
+3901144,Thomas Touré,Bordeaux,19.94843352245985,0.06530541086595654,False,Left Foot,Open Play,0,0,2,Normal
+3901144,Clément Chantôme,Bordeaux,25.55190795224497,0.06116089340881089,False,Right Foot,Open Play,0,0,2,Normal

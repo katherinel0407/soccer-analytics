@@ -1,18 +1,18 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-3.224903099319423,0.05590026594962399,True,Head,Open Play,0,0,1,Normal
-24.42375892445714,0.058440463513127525,False,Left Foot,Open Play,0,0,2,Normal
-23.39850422569785,0.06644690087867484,False,Right Foot,Free Kick,0,0,0,Normal
-18.031361568112377,0.06421203332074733,False,Head,Open Play,0,1,2,Normal
-20.930838492521026,0.06094125348395494,False,Left Foot,Open Play,0,0,3,Normal
-30.013496963866107,0.06740179558993645,False,Left Foot,Open Play,0,0,2,Normal
-26.60300734879424,0.06993274707901442,False,Left Foot,Open Play,1,0,2,Normal
-11.395174417269798,0.058508416689946434,False,Left Foot,Open Play,1,0,2,Half Volley
-33.11827290182869,0.07385972952245501,False,Left Foot,Free Kick,0,0,0,Normal
-39.555783395099134,0.07442136418785618,False,Right Foot,Open Play,0,0,2,Normal
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-31.758620876857986,0.07223492200291941,False,Left Foot,Open Play,0,0,0,Normal
-18.843831882077485,0.053405976545597214,False,Left Foot,Open Play,1,0,1,Normal
-24.865236777477108,0.0587430496022231,False,Left Foot,Open Play,0,0,3,Normal
-18.1,0.06296567392931315,False,Right Foot,Open Play,1,0,1,Normal
-17.638594048279476,0.06417979852449036,False,Left Foot,Open Play,1,1,3,Normal
-24.04163056034261,0.06036497990322559,False,Right Foot,Free Kick,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+303666,Ramon Olamilekan Azeez,Granada,3.224903099319423,0.05590026594962399,True,Head,Open Play,0,0,1,Normal
+303666,José Antonio Rodríguez Díaz,Granada,24.42375892445714,0.058440463513127525,False,Left Foot,Open Play,0,0,2,Normal
+303666,Luis Alberto Suárez Díaz,Barcelona,23.39850422569785,0.06644690087867484,False,Right Foot,Free Kick,0,0,0,Normal
+303666,Germán Sánchez Barahona,Granada,18.031361568112377,0.06421203332074733,False,Head,Open Play,0,1,2,Normal
+303666,Luis Alberto Suárez Díaz,Barcelona,20.930838492521026,0.06094125348395494,False,Left Foot,Open Play,0,0,3,Normal
+303666,Yangel Clemente Herrera Ravelo,Granada,30.013496963866107,0.06740179558993645,False,Left Foot,Open Play,0,0,2,Normal
+303666,Carlos Neva Tey,Granada,26.60300734879424,0.06993274707901442,False,Left Foot,Open Play,1,0,2,Normal
+303666,Luis Alberto Suárez Díaz,Barcelona,11.395174417269798,0.058508416689946434,False,Left Foot,Open Play,1,0,2,Half Volley
+303666,Lionel Andrés Messi Cuccittini,Barcelona,33.11827290182869,0.07385972952245501,False,Left Foot,Free Kick,0,0,0,Normal
+303666,Darwin Daniel Machís Marcano,Granada,39.555783395099134,0.07442136418785618,False,Right Foot,Open Play,0,0,2,Normal
+303666,Álvaro Vadillo Cifuentes,Granada,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+303666,Clément Lenglet,Barcelona,31.758620876857986,0.07223492200291941,False,Left Foot,Open Play,0,0,0,Normal
+303666,Antoine Griezmann,Barcelona,18.843831882077485,0.053405976545597214,False,Left Foot,Open Play,1,0,1,Normal
+303666,José Antonio Rodríguez Díaz,Granada,24.865236777477108,0.0587430496022231,False,Left Foot,Open Play,0,0,3,Normal
+303666,Arturo Erasmo Vidal Pardo,Barcelona,18.1,0.06296567392931315,False,Right Foot,Open Play,1,0,1,Normal
+303666,Lionel Andrés Messi Cuccittini,Barcelona,17.638594048279476,0.06417979852449036,False,Left Foot,Open Play,1,1,3,Normal
+303666,Álvaro Vadillo Cifuentes,Granada,24.04163056034261,0.06036497990322559,False,Right Foot,Free Kick,0,0,0,Normal

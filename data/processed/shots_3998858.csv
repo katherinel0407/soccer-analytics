@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
-31.751692868255066,0.07050434955424383,False,Right Foot,Open Play,0,1,2,Normal
-5.135172830587101,0.05699467846197982,False,Right Foot,Open Play,1,0,4,Normal
-3.805259518088087,0.05637086788375169,True,Right Foot,Open Play,1,0,5,Volley
-23.100865784641055,0.0644386437907357,False,Right Foot,Open Play,0,1,3,Normal
-15.743252522906444,0.05933162925520179,False,Left Foot,Open Play,1,1,2,Volley
-17.608236708995022,0.06344261468276971,False,Right Foot,Open Play,1,1,4,Normal
-9.08240056372763,0.05650740861191277,False,Head,Open Play,0,1,2,Normal
-6.313477647065836,0.05758894119600536,True,Head,Open Play,0,1,2,Normal
-19.616319736382763,0.06482515364271418,False,Right Foot,Open Play,1,1,2,Normal
-9.265527507918804,0.05835416528753009,False,Head,Open Play,0,1,3,Normal
-6.95701085237043,0.05808434465116962,False,Head,Open Play,0,1,2,Normal
-10.542295765154758,0.055846306038926284,False,Right Foot,Open Play,1,1,1,Volley
-6.220128616033597,0.05708267975806318,True,Right Foot,Open Play,0,0,4,Normal
-9.314504817756013,0.05754002994996553,False,Left Foot,Open Play,1,0,2,Half Volley
-20.066140635408686,0.06101921358350175,False,Right Foot,Open Play,0,1,3,Normal
-18.978935691971767,0.061435174504436134,False,Left Foot,Open Play,0,0,0,Normal
-9.381364506296514,0.0545030872567034,False,Right Foot,Open Play,1,0,2,Volley
-5.374011537017757,0.0551499160321363,False,Right Foot,Open Play,1,1,3,Half Volley
-10.041912168506556,0.05528721521410964,False,Right Foot,Open Play,1,0,2,Volley
-10.88531120363584,0.05462907553101758,False,Right Foot,Open Play,1,0,3,Normal
-8.091971329657568,0.055551018876903745,False,Head,Open Play,0,1,4,Normal
-9.563472172804186,0.058184018487768725,False,Head,Open Play,0,1,4,Normal
-22.72993620756556,0.06612690600609782,False,Right Foot,Open Play,0,0,1,Normal
-17.66182323544203,0.06393043422232186,False,Right Foot,Open Play,0,0,2,Normal
-12.165525060596439,0.06029976687390507,True,Left Foot,Open Play,0,0,2,Normal
-22.67906523646863,0.05887364066943414,False,Right Foot,Open Play,1,1,1,Half Volley
-10.538026380684377,0.060029234815884215,True,Left Foot,Open Play,1,0,1,Normal
-4.802082881417183,0.057161941843970394,True,Head,Open Play,0,0,2,Normal
-19.86454127333425,0.06368655564141708,False,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3998858,Georgia Stanway,England Women's,12.0,0.05959154427448477,True,Right Foot,Penalty,0,0,0,Normal
+3998858,Jessica Fishlock,Wales W,31.751692868255066,0.07050434955424383,False,Right Foot,Open Play,0,1,2,Normal
+3998858,Ella Toone,England Women's,5.135172830587101,0.05699467846197982,False,Right Foot,Open Play,1,0,4,Normal
+3998858,Ella Toone,England Women's,3.805259518088087,0.05637086788375169,True,Right Foot,Open Play,1,0,5,Volley
+3998858,Keira Walsh,England Women's,23.100865784641055,0.0644386437907357,False,Right Foot,Open Play,0,1,3,Normal
+3998858,Lauren James,England Women's,15.743252522906444,0.05933162925520179,False,Left Foot,Open Play,1,1,2,Volley
+3998858,Angharad James,Wales W,17.608236708995022,0.06344261468276971,False,Right Foot,Open Play,1,1,4,Normal
+3998858,Alessia Russo,England Women's,9.08240056372763,0.05650740861191277,False,Head,Open Play,0,1,2,Normal
+3998858,Lauren Hemp,England Women's,6.313477647065836,0.05758894119600536,True,Head,Open Play,0,1,2,Normal
+3998858,Keira Walsh,England Women's,19.616319736382763,0.06482515364271418,False,Right Foot,Open Play,1,1,2,Normal
+3998858,Leah Williamson,England Women's,9.265527507918804,0.05835416528753009,False,Head,Open Play,0,1,3,Normal
+3998858,Lauren Hemp,England Women's,6.95701085237043,0.05808434465116962,False,Head,Open Play,0,1,2,Normal
+3998858,Alessia Russo,England Women's,10.542295765154758,0.055846306038926284,False,Right Foot,Open Play,1,1,1,Volley
+3998858,Alessia Russo,England Women's,6.220128616033597,0.05708267975806318,True,Right Foot,Open Play,0,0,4,Normal
+3998858,Lauren James,England Women's,9.314504817756013,0.05754002994996553,False,Left Foot,Open Play,1,0,2,Half Volley
+3998858,Rachel Rowe,Wales W,20.066140635408686,0.06101921358350175,False,Right Foot,Open Play,0,1,3,Normal
+3998858,Jessica Fishlock,Wales W,18.978935691971767,0.061435174504436134,False,Left Foot,Open Play,0,0,0,Normal
+3998858,Leah Williamson,England Women's,9.381364506296514,0.0545030872567034,False,Right Foot,Open Play,1,0,2,Volley
+3998858,Georgia Stanway,England Women's,5.374011537017757,0.0551499160321363,False,Right Foot,Open Play,1,1,3,Half Volley
+3998858,Jessica Park,England Women's,10.041912168506556,0.05528721521410964,False,Right Foot,Open Play,1,0,2,Volley
+3998858,Georgia Stanway,England Women's,10.88531120363584,0.05462907553101758,False,Right Foot,Open Play,1,0,3,Normal
+3998858,Lucy Bronze,England Women's,8.091971329657568,0.055551018876903745,False,Head,Open Play,0,1,4,Normal
+3998858,Jessica Fishlock,Wales W,9.563472172804186,0.058184018487768725,False,Head,Open Play,0,1,4,Normal
+3998858,Georgia Stanway,England Women's,22.72993620756556,0.06612690600609782,False,Right Foot,Open Play,0,0,1,Normal
+3998858,Chloe Kelly,England Women's,17.66182323544203,0.06393043422232186,False,Right Foot,Open Play,0,0,2,Normal
+3998858,Bethany Mead,England Women's,12.165525060596439,0.06029976687390507,True,Left Foot,Open Play,0,0,2,Normal
+3998858,Chloe Kelly,England Women's,22.67906523646863,0.05887364066943414,False,Right Foot,Open Play,1,1,1,Half Volley
+3998858,Hannah Cain,Wales W,10.538026380684377,0.060029234815884215,True,Left Foot,Open Play,1,0,1,Normal
+3998858,Agnes Beever-Jones,England Women's,4.802082881417183,0.057161941843970394,True,Head,Open Play,0,0,2,Normal
+3998858,Keira Walsh,England Women's,19.86454127333425,0.06368655564141708,False,Right Foot,Open Play,0,1,1,Normal

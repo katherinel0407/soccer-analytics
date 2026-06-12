@@ -1,31 +1,31 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-14.851935900750451,0.05695651424285166,False,Right Foot,Open Play,1,0,1,Half Volley
-12.952219886953737,0.05873167179089314,False,Right Foot,Open Play,1,1,2,Half Volley
-17.673992191918618,0.06316081320540327,False,Right Foot,Open Play,1,0,2,Volley
-20.883007446246815,0.05374390459369117,False,Right Foot,Open Play,0,0,2,Half Volley
-27.93223943761044,0.07093912843036126,False,Right Foot,Free Kick,0,0,0,Normal
-12.316655390161724,0.05547531675358058,False,Right Foot,Open Play,1,1,3,Volley
-26.643010340425125,0.07017664092519711,False,Left Foot,Open Play,0,0,2,Normal
-25.964976410541954,0.06389379814255351,False,Right Foot,Open Play,0,0,3,Normal
-11.166467659918245,0.06044016256539148,False,Left Foot,Open Play,1,0,5,Normal
-26.720029940102986,0.0681791869025835,False,Right Foot,Open Play,1,0,1,Volley
-24.186773244895654,0.059529943616268725,False,Right Foot,Open Play,0,0,1,Normal
-13.752454326410254,0.05985846712160739,False,Head,Open Play,0,1,1,Normal
-6.514598989960935,0.05785992914983895,False,Head,Open Play,0,1,2,Normal
-29.945617375502547,0.07263050433636353,False,Right Foot,Open Play,0,0,1,Normal
-13.882723075823419,0.05846988779079944,False,Head,Open Play,0,0,1,Normal
-25.241434190631875,0.05677666317784454,False,Right Foot,Open Play,1,0,2,Normal
-9.442986815621428,0.05882101751976545,True,Right Foot,Open Play,1,1,3,Volley
-30.393584849438206,0.06379669073176225,False,Left Foot,Free Kick,0,0,0,Normal
-32.22995501082806,0.07152152379959265,False,Left Foot,Open Play,0,0,1,Half Volley
-19.86479297652004,0.06555349482983704,False,Right Foot,Open Play,1,1,2,Normal
-44.13275427616092,0.07686028922807518,False,Right Foot,Open Play,1,0,1,Normal
-25.70992026436488,0.05973154347437355,False,Right Foot,Open Play,0,0,3,Normal
-9.80459076147495,0.058579182316788,False,Head,Open Play,0,1,3,Normal
-13.877319625922002,0.06166921603483937,False,Left Foot,Open Play,1,0,1,Lob
-18.218671740826778,0.05965560546485473,False,Left Foot,Open Play,0,0,1,Normal
-21.041150158677162,0.05618010549186737,False,Right Foot,Open Play,1,1,1,Volley
-7.343704787094859,0.05793096010185696,False,Head,Open Play,0,1,4,Normal
-16.918924315688624,0.05923328923415535,False,Right Foot,Open Play,0,1,1,Half Volley
-12.048651376813925,0.06068401360170316,False,Head,Open Play,0,1,2,Normal
-25.65501900213679,0.05693109930925939,False,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3879621,Andrea Belotti,Torino,14.851935900750451,0.05695651424285166,False,Right Foot,Open Play,1,0,1,Half Volley
+3879621,Fabio Quagliarella,Torino,12.952219886953737,0.05873167179089314,False,Right Foot,Open Play,1,1,2,Half Volley
+3879621,Daniele Baselli,Torino,17.673992191918618,0.06316081320540327,False,Right Foot,Open Play,1,0,2,Volley
+3879621,Afriyie Acquah,Torino,20.883007446246815,0.05374390459369117,False,Right Foot,Open Play,0,0,2,Half Volley
+3879621,Maximiliano Nicol Moralez,Atalanta,27.93223943761044,0.07093912843036126,False,Right Foot,Free Kick,0,0,0,Normal
+3879621,Andrea Belotti,Torino,12.316655390161724,0.05547531675358058,False,Right Foot,Open Play,1,1,3,Volley
+3879621,Alejandro Darío Gómez,Atalanta,26.643010340425125,0.07017664092519711,False,Left Foot,Open Play,0,0,2,Normal
+3879621,Andrea Belotti,Torino,25.964976410541954,0.06389379814255351,False,Right Foot,Open Play,0,0,3,Normal
+3879621,Luca Cigarini,Atalanta,11.166467659918245,0.06044016256539148,False,Left Foot,Open Play,1,0,5,Normal
+3879621,Alejandro Darío Gómez,Atalanta,26.720029940102986,0.0681791869025835,False,Right Foot,Open Play,1,0,1,Volley
+3879621,Marten de Roon,Atalanta,24.186773244895654,0.059529943616268725,False,Right Foot,Open Play,0,0,1,Normal
+3879621,Germán Gustavo Denis,Atalanta,13.752454326410254,0.05985846712160739,False,Head,Open Play,0,1,1,Normal
+3879621,Andrea Belotti,Torino,6.514598989960935,0.05785992914983895,False,Head,Open Play,0,1,2,Normal
+3879621,Germán Gustavo Denis,Atalanta,29.945617375502547,0.07263050433636353,False,Right Foot,Open Play,0,0,1,Normal
+3879621,Luca Cigarini,Atalanta,13.882723075823419,0.05846988779079944,False,Head,Open Play,0,0,1,Normal
+3879621,Fabio Quagliarella,Torino,25.241434190631875,0.05677666317784454,False,Right Foot,Open Play,1,0,2,Normal
+3879621,Cesare Bovo,Torino,9.442986815621428,0.05882101751976545,True,Right Foot,Open Play,1,1,3,Volley
+3879621,Davide Brivio,Atalanta,30.393584849438206,0.06379669073176225,False,Left Foot,Free Kick,0,0,0,Normal
+3879621,Luca Cigarini,Atalanta,32.22995501082806,0.07152152379959265,False,Left Foot,Open Play,0,0,1,Half Volley
+3879621,Giuseppe Vives,Torino,19.86479297652004,0.06555349482983704,False,Right Foot,Open Play,1,1,2,Normal
+3879621,Marten de Roon,Atalanta,44.13275427616092,0.07686028922807518,False,Right Foot,Open Play,1,0,1,Normal
+3879621,Alejandro Darío Gómez,Atalanta,25.70992026436488,0.05973154347437355,False,Right Foot,Open Play,0,0,3,Normal
+3879621,Germán Gustavo Denis,Atalanta,9.80459076147495,0.058579182316788,False,Head,Open Play,0,1,3,Normal
+3879621,Germán Gustavo Denis,Atalanta,13.877319625922002,0.06166921603483937,False,Left Foot,Open Play,1,0,1,Lob
+3879621,Andrea Belotti,Torino,18.218671740826778,0.05965560546485473,False,Left Foot,Open Play,0,0,1,Normal
+3879621,Afriyie Acquah,Torino,21.041150158677162,0.05618010549186737,False,Right Foot,Open Play,1,1,1,Volley
+3879621,Cristian Raimondi,Atalanta,7.343704787094859,0.05793096010185696,False,Head,Open Play,0,1,4,Normal
+3879621,Andrea Belotti,Torino,16.918924315688624,0.05923328923415535,False,Right Foot,Open Play,0,1,1,Half Volley
+3879621,Germán Gustavo Denis,Atalanta,12.048651376813925,0.06068401360170316,False,Head,Open Play,0,1,2,Normal
+3879621,Afriyie Acquah,Torino,25.65501900213679,0.05693109930925939,False,Right Foot,Open Play,0,0,1,Normal

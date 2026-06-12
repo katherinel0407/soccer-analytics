@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-9.602083107326237,0.059275642530729304,False,Head,Open Play,0,1,1,Normal
-17.687566254292875,0.058473169513633724,False,Left Foot,Open Play,1,1,1,Normal
-13.548431643551952,0.06178604924569283,False,Head,Open Play,0,1,2,Normal
-24.86463351831271,0.0528032042863766,False,Left Foot,Open Play,1,0,1,Normal
-6.664833081180658,0.058068601946744396,False,Head,Open Play,0,1,2,Normal
-5.515432893255073,0.05515420861800621,False,Left Foot,Open Play,0,0,5,Normal
-4.640043103248073,0.05482579817099465,False,Left Foot,Open Play,1,0,5,Normal
-10.204410811016968,0.05350736715111401,False,Head,Open Play,0,0,2,Normal
-23.920075250717748,0.06658036592938288,False,Right Foot,Open Play,1,0,3,Half Volley
-23.970815588961504,0.050930573596074454,False,Right Foot,Open Play,1,0,1,Half Volley
-14.800675660252805,0.05874039824592201,False,Right Foot,Open Play,1,0,2,Half Volley
-38.85421470059587,0.0608748996877963,False,Right Foot,Open Play,0,0,1,Normal
-12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
-29.41700188666411,0.05349688359036086,False,Right Foot,Open Play,1,0,0,Normal
-11.05350623105628,0.05677862891820001,False,Head,Open Play,0,1,2,Normal
-13.583077707206122,0.0549523072738926,True,Right Foot,Open Play,0,0,2,Normal
-20.158620984581255,0.05504963143311139,False,Right Foot,Open Play,0,0,1,Normal
-17.530829986056,0.058642301434325486,False,Left Foot,Open Play,0,0,2,Normal
-12.080562900792332,0.0606617111500475,False,Head,Open Play,0,1,2,Normal
-13.631214179228493,0.05223038846961712,False,Left Foot,Open Play,0,0,1,Normal
-22.737853900489373,0.06655897743763743,False,Left Foot,Open Play,0,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+19806,Remi Allen,Reading WFC,9.602083107326237,0.059275642530729304,False,Head,Open Play,0,1,1,Normal
+19806,Lucy Hope,Bristol City WFC,17.687566254292875,0.058473169513633724,False,Left Foot,Open Play,1,1,1,Normal
+19806,Abigail Harrison,Bristol City WFC,13.548431643551952,0.06178604924569283,False,Head,Open Play,0,1,2,Normal
+19806,Fara Williams,Reading WFC,24.86463351831271,0.0528032042863766,False,Left Foot,Open Play,1,0,1,Normal
+19806,Remi Allen,Reading WFC,6.664833081180658,0.058068601946744396,False,Head,Open Play,0,1,2,Normal
+19806,Jade Moore,Reading WFC,5.515432893255073,0.05515420861800621,False,Left Foot,Open Play,0,0,5,Normal
+19806,Brooke Chaplen,Reading WFC,4.640043103248073,0.05482579817099465,False,Left Foot,Open Play,1,0,5,Normal
+19806,Rachel Furness,Reading WFC,10.204410811016968,0.05350736715111401,False,Head,Open Play,0,0,2,Normal
+19806,Lauren Bruton,Reading WFC,23.920075250717748,0.06658036592938288,False,Right Foot,Open Play,1,0,3,Half Volley
+19806,Jade Moore,Reading WFC,23.970815588961504,0.050930573596074454,False,Right Foot,Open Play,1,0,1,Half Volley
+19806,Carla Humphrey,Bristol City WFC,14.800675660252805,0.05874039824592201,False,Right Foot,Open Play,1,0,2,Half Volley
+19806,Carla Humphrey,Bristol City WFC,38.85421470059587,0.0608748996877963,False,Right Foot,Open Play,0,0,1,Normal
+19806,Fara Williams,Reading WFC,12.000416659433121,0.059555627998902204,False,Right Foot,Penalty,0,0,0,Normal
+19806,Molly Bartrip,Reading WFC,29.41700188666411,0.05349688359036086,False,Right Foot,Open Play,1,0,0,Normal
+19806,Lucy Hope,Bristol City WFC,11.05350623105628,0.05677862891820001,False,Head,Open Play,0,1,2,Normal
+19806,Brooke Chaplen,Reading WFC,13.583077707206122,0.0549523072738926,True,Right Foot,Open Play,0,0,2,Normal
+19806,Abigail Harrison,Bristol City WFC,20.158620984581255,0.05504963143311139,False,Right Foot,Open Play,0,0,1,Normal
+19806,Brooke Chaplen,Reading WFC,17.530829986056,0.058642301434325486,False,Left Foot,Open Play,0,0,2,Normal
+19806,Abigail Harrison,Bristol City WFC,12.080562900792332,0.0606617111500475,False,Head,Open Play,0,1,2,Normal
+19806,Lauren Bruton,Reading WFC,13.631214179228493,0.05223038846961712,False,Left Foot,Open Play,0,0,1,Normal
+19806,Poppy Pattinson,Bristol City WFC,22.737853900489373,0.06655897743763743,False,Left Foot,Open Play,0,0,0,Normal

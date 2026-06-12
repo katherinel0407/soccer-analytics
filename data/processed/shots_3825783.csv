@@ -1,20 +1,20 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-26.60695397823659,0.05523807088953571,False,Right Foot,Open Play,0,0,4,Normal
-15.367498169838838,0.055966805616997385,False,Right Foot,Open Play,1,0,1,Normal
-29.107559155655768,0.07130696814858464,False,Right Foot,Free Kick,0,0,0,Normal
-31.888869531546586,0.07409254994240658,False,Right Foot,Open Play,0,0,3,Normal
-20.87510479015614,0.06622731227496402,True,Left Foot,Open Play,0,0,2,Normal
-26.943273743181248,0.0684647534426644,False,Right Foot,Open Play,0,0,2,Normal
-18.088670487352022,0.06402114114428407,False,Right Foot,Open Play,1,0,1,Half Volley
-23.26972281742952,0.0654178446652205,False,Right Foot,Open Play,1,0,1,Normal
-20.379646709401023,0.06400941574921461,False,Right Foot,Open Play,0,0,2,Normal
-24.961770770520268,0.05418404969545123,False,Left Foot,Open Play,0,1,2,Normal
-7.068238818828922,0.058245340911099355,False,Head,Open Play,0,1,6,Normal
-21.111608181282634,0.06328449099688563,False,Right Foot,Open Play,1,0,0,Normal
-12.304470732217622,0.06024620101139409,False,Head,Open Play,0,1,4,Normal
-9.689685237405806,0.05914385149582785,False,Left Foot,Open Play,0,0,1,Volley
-11.493476410555683,0.060030645738535254,False,Right Foot,Open Play,1,0,3,Volley
-18.755532517100125,0.06437082485071328,False,Left Foot,Open Play,0,0,3,Normal
-23.551220775153045,0.06692059941013426,False,Right Foot,Open Play,0,0,3,Normal
-16.367040050051813,0.05414189330766489,False,Right Foot,Open Play,0,0,1,Normal
-26.471494102146938,0.055687192506674275,False,Left Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3825783,Diego Antonio Reyes Rosales,Real Sociedad,26.60695397823659,0.05523807088953571,False,Right Foot,Open Play,0,0,4,Normal
+3825783,Asier Illarramendi Andonegi,Real Sociedad,15.367498169838838,0.055966805616997385,False,Right Foot,Open Play,1,0,1,Normal
+3825783,Beñat Etxebarria Urkiaga,Athletic Club,29.107559155655768,0.07130696814858464,False,Right Foot,Free Kick,0,0,0,Normal
+3825783,Jonathas Cristian de Jesus,Real Sociedad,31.888869531546586,0.07409254994240658,False,Right Foot,Open Play,0,0,3,Normal
+3825783,Jonathas Cristian de Jesus,Real Sociedad,20.87510479015614,0.06622731227496402,True,Left Foot,Open Play,0,0,2,Normal
+3825783,Markel Susaeta Laskurain,Athletic Club,26.943273743181248,0.0684647534426644,False,Right Foot,Open Play,0,0,2,Normal
+3825783,Iker Muniain Goñi,Athletic Club,18.088670487352022,0.06402114114428407,False,Right Foot,Open Play,1,0,1,Half Volley
+3825783,Mikel San José Domínguez,Athletic Club,23.26972281742952,0.0654178446652205,False,Right Foot,Open Play,1,0,1,Normal
+3825783,Jonathas Cristian de Jesus,Real Sociedad,20.379646709401023,0.06400941574921461,False,Right Foot,Open Play,0,0,2,Normal
+3825783,Carlos Alberto Vela Garrido,Real Sociedad,24.961770770520268,0.05418404969545123,False,Left Foot,Open Play,0,1,2,Normal
+3825783,Raúl García Escudero,Athletic Club,7.068238818828922,0.058245340911099355,False,Head,Open Play,0,1,6,Normal
+3825783,Beñat Etxebarria Urkiaga,Athletic Club,21.111608181282634,0.06328449099688563,False,Right Foot,Open Play,1,0,0,Normal
+3825783,Aritz Aduriz Zubeldia,Athletic Club,12.304470732217622,0.06024620101139409,False,Head,Open Play,0,1,4,Normal
+3825783,Aymeric Laporte,Athletic Club,9.689685237405806,0.05914385149582785,False,Left Foot,Open Play,0,0,1,Volley
+3825783,Aritz Aduriz Zubeldia,Athletic Club,11.493476410555683,0.060030645738535254,False,Right Foot,Open Play,1,0,3,Volley
+3825783,Iker Muniain Goñi,Athletic Club,18.755532517100125,0.06437082485071328,False,Left Foot,Open Play,0,0,3,Normal
+3825783,Rubén Pardo Gutiérrez,Real Sociedad,23.551220775153045,0.06692059941013426,False,Right Foot,Open Play,0,0,3,Normal
+3825783,Xabier Prieto Argarate,Real Sociedad,16.367040050051813,0.05414189330766489,False,Right Foot,Open Play,0,0,1,Normal
+3825783,Rubén Pardo Gutiérrez,Real Sociedad,26.471494102146938,0.055687192506674275,False,Left Foot,Open Play,0,0,2,Normal

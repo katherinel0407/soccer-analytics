@@ -1,26 +1,26 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-16.681127060243867,0.0578284347023143,False,Right Foot,Open Play,1,0,1,Normal
-13.729530217745978,0.05743497441932369,False,Right Foot,Open Play,1,0,1,Volley
-26.679017972931465,0.06897627238555583,False,Left Foot,Open Play,0,0,0,Half Volley
-11.322543883774532,0.056128512654854405,False,Head,Open Play,0,0,3,Normal
-11.815244390193541,0.06026098627767474,False,Head,Open Play,0,1,3,Normal
-23.132012450281973,0.06104023489363079,False,Right Foot,Open Play,0,0,2,Normal
-8.27647267862342,0.05889527500717121,False,Head,Open Play,0,1,3,Normal
-33.417510380038784,0.07517215378890127,False,Right Foot,Free Kick,0,0,0,Normal
-30.332325990599532,0.06884282008468695,False,Left Foot,Open Play,0,0,1,Normal
-25.386019774671254,0.06845672181789729,False,Left Foot,Open Play,0,0,2,Normal
-22.92007853389687,0.06663315963504267,False,Head,Open Play,0,0,1,Normal
-25.607030284669868,0.06880723620142347,False,Left Foot,Open Play,0,1,1,Normal
-33.50373113550191,0.07517318873896785,False,Right Foot,Open Play,0,0,0,Normal
-19.180198122021572,0.060912077653153464,False,Right Foot,Open Play,1,0,3,Normal
-19.512560057562922,0.06316392711552092,False,Right Foot,Open Play,0,1,3,Half Volley
-25.966516901579233,0.06318738669995921,False,Left Foot,Open Play,0,0,3,Normal
-14.797972834141847,0.06138201332912875,False,Right Foot,Open Play,0,0,2,Half Volley
-31.473480900593117,0.07044848645819896,False,Right Foot,Free Kick,0,0,0,Normal
-26.773867856549973,0.054869128617642406,False,Left Foot,Open Play,0,0,2,Normal
-13.324038426843419,0.05966163711481351,False,Left Foot,Open Play,1,1,2,Half Volley
-20.008498194517248,0.05781586248919328,False,Left Foot,Open Play,0,0,2,Half Volley
-11.016805344563373,0.05330339205118961,False,Other,Open Play,0,0,2,Normal
-7.900000000000006,0.057913768113340515,True,Head,Open Play,0,0,2,Normal
-14.35444182126216,0.06204882914929438,False,Left Foot,Open Play,1,0,1,Half Volley
-9.265527507918808,0.05932494847738615,True,Head,Open Play,0,1,1,Diving Header
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3878610,Alberto Grassi,Atalanta,16.681127060243867,0.0578284347023143,False,Right Foot,Open Play,1,0,1,Normal
+3878610,Germán Gustavo Denis,Atalanta,13.729530217745978,0.05743497441932369,False,Right Foot,Open Play,1,0,1,Volley
+3878610,Gianpaolo Bellini,Atalanta,26.679017972931465,0.06897627238555583,False,Left Foot,Open Play,0,0,0,Half Volley
+3878610,Germán Gustavo Denis,Atalanta,11.322543883774532,0.056128512654854405,False,Head,Open Play,0,0,3,Normal
+3878610,Guglielmo Stendardo,Atalanta,11.815244390193541,0.06026098627767474,False,Head,Open Play,0,1,3,Normal
+3878610,Luca Toni,Hellas Verona,23.132012450281973,0.06104023489363079,False,Right Foot,Open Play,0,0,2,Normal
+3878610,Eros Pisano,Hellas Verona,8.27647267862342,0.05889527500717121,False,Head,Open Play,0,1,3,Normal
+3878610,Rafael Márquez Álvarez,Hellas Verona,33.417510380038784,0.07517215378890127,False,Right Foot,Free Kick,0,0,0,Normal
+3878610,Alejandro Darío Gómez,Atalanta,30.332325990599532,0.06884282008468695,False,Left Foot,Open Play,0,0,1,Normal
+3878610,Jasmin Kurtič,Atalanta,25.386019774671254,0.06845672181789729,False,Left Foot,Open Play,0,0,2,Normal
+3878610,Boško Janković,Hellas Verona,22.92007853389687,0.06663315963504267,False,Head,Open Play,0,0,1,Normal
+3878610,Alejandro Darío Gómez,Atalanta,25.607030284669868,0.06880723620142347,False,Left Foot,Open Play,0,1,1,Normal
+3878610,Jasmin Kurtič,Atalanta,33.50373113550191,0.07517318873896785,False,Right Foot,Open Play,0,0,0,Normal
+3878610,Boško Janković,Hellas Verona,19.180198122021572,0.060912077653153464,False,Right Foot,Open Play,1,0,3,Normal
+3878610,Maximiliano Nicol Moralez,Atalanta,19.512560057562922,0.06316392711552092,False,Right Foot,Open Play,0,1,3,Half Volley
+3878610,Federico Viviani,Hellas Verona,25.966516901579233,0.06318738669995921,False,Left Foot,Open Play,0,0,3,Normal
+3878610,Giampaolo Pazzini,Hellas Verona,14.797972834141847,0.06138201332912875,False,Right Foot,Open Play,0,0,2,Half Volley
+3878610,Jasmin Kurtič,Atalanta,31.473480900593117,0.07044848645819896,False,Right Foot,Free Kick,0,0,0,Normal
+3878610,Alejandro Darío Gómez,Atalanta,26.773867856549973,0.054869128617642406,False,Left Foot,Open Play,0,0,2,Normal
+3878610,Alejandro Darío Gómez,Atalanta,13.324038426843419,0.05966163711481351,False,Left Foot,Open Play,1,1,2,Half Volley
+3878610,Juan Ignacio Gómez Taleb,Hellas Verona,20.008498194517248,0.05781586248919328,False,Left Foot,Open Play,0,0,2,Half Volley
+3878610,Jasmin Kurtič,Atalanta,11.016805344563373,0.05330339205118961,False,Other,Open Play,0,0,2,Normal
+3878610,Maximiliano Nicol Moralez,Atalanta,7.900000000000006,0.057913768113340515,True,Head,Open Play,0,0,2,Normal
+3878610,Leandro Greco,Hellas Verona,14.35444182126216,0.06204882914929438,False,Left Foot,Open Play,1,0,1,Half Volley
+3878610,Eros Pisano,Hellas Verona,9.265527507918808,0.05932494847738615,True,Head,Open Play,0,1,1,Diving Header

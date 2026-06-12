@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.427791436936817,0.06116040172633083,False,Right Foot,Open Play,1,0,3,Volley
-21.358136622842355,0.06652536777956923,False,Right Foot,Open Play,1,0,1,Normal
-15.349592828475934,0.06282880038939125,False,Right Foot,Open Play,0,1,2,Normal
-9.626006440887101,0.054401832970989404,False,Head,Open Play,0,1,4,Normal
-8.969392398596462,0.054168988311870635,False,Head,Open Play,0,0,3,Normal
-26.295436866498335,0.06432953052318212,False,Left Foot,Open Play,0,0,2,Half Volley
-10.594810050208547,0.05880320074967037,False,Head,Open Play,0,1,2,Normal
-23.71033529918968,0.06514876978154241,False,Right Foot,Open Play,0,1,1,Normal
-24.777610861420843,0.06844355956994941,False,Left Foot,Open Play,0,1,3,Normal
-25.452701231892853,0.06933005359012466,False,Left Foot,Open Play,0,1,2,Half Volley
-39.73977856002723,0.061629045215973254,False,Left Foot,Free Kick,0,0,0,Normal
-15.572411502397435,0.06187549609980273,True,Left Foot,Open Play,0,0,0,Normal
-26.40776400985135,0.06972648088851788,False,Left Foot,Open Play,0,0,1,Normal
-22.80372776543344,0.06704211607746333,False,Left Foot,Open Play,0,0,1,Normal
-24.10580842867544,0.06838278639578896,False,Left Foot,Open Play,0,0,3,Half Volley
-5.9304300012731,0.05730940702724839,False,Head,Open Play,0,1,6,Normal
-12.82224629306425,0.05557204704038175,False,Right Foot,Open Play,0,1,1,Normal
-16.589454481688065,0.06245894730924985,False,Right Foot,Open Play,1,0,2,Volley
-23.00543414065469,0.06545243934803002,False,Left Foot,Open Play,0,0,0,Volley
-22.30896680709351,0.05929806526985673,False,Right Foot,Open Play,1,0,0,Normal
-18.927493230747704,0.06433981493537967,False,Left Foot,Open Play,0,1,1,Normal
-29.231831964486933,0.059915004156323545,False,Right Foot,Open Play,0,0,1,Normal
-12.120231020900553,0.05403517920677249,False,Right Foot,Open Play,1,0,2,Backheel
-22.28990803031722,0.06318294553551408,False,Right Foot,Open Play,0,0,2,Half Volley
-15.132745950421556,0.06008911136715584,False,Head,Open Play,0,1,1,Normal
-16.23730273167314,0.0632366887523151,False,Right Foot,Open Play,0,0,1,Half Volley
-13.384319183283099,0.05595510788280408,False,Right Foot,Open Play,1,0,0,Normal
-13.544002362669609,0.06137248148029047,True,Right Foot,Open Play,0,0,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3749631,Robert Pirès,Arsenal,12.427791436936817,0.06116040172633083,False,Right Foot,Open Play,1,0,3,Volley
+3749631,Robert Pirès,Arsenal,21.358136622842355,0.06652536777956923,False,Right Foot,Open Play,1,0,1,Normal
+3749631,Kevin Phillips,Southampton,15.349592828475934,0.06282880038939125,False,Right Foot,Open Play,0,1,2,Normal
+3749631,Rory Delap,Southampton,9.626006440887101,0.054401832970989404,False,Head,Open Play,0,1,4,Normal
+3749631,Rory Delap,Southampton,8.969392398596462,0.054168988311870635,False,Head,Open Play,0,0,3,Normal
+3749631,Graeme Le Saux,Southampton,26.295436866498335,0.06432953052318212,False,Left Foot,Open Play,0,0,2,Half Volley
+3749631,Danny Higginbotham,Southampton,10.594810050208547,0.05880320074967037,False,Head,Open Play,0,1,2,Normal
+3749631,Patrick Vieira,Arsenal,23.71033529918968,0.06514876978154241,False,Right Foot,Open Play,0,1,1,Normal
+3749631,Graeme Le Saux,Southampton,24.777610861420843,0.06844355956994941,False,Left Foot,Open Play,0,1,3,Normal
+3749631,Thierry Henry,Arsenal,25.452701231892853,0.06933005359012466,False,Left Foot,Open Play,0,1,2,Half Volley
+3749631,Graeme Le Saux,Southampton,39.73977856002723,0.061629045215973254,False,Left Foot,Free Kick,0,0,0,Normal
+3749631,Thierry Henry,Arsenal,15.572411502397435,0.06187549609980273,True,Left Foot,Open Play,0,0,0,Normal
+3749631,Thierry Henry,Arsenal,26.40776400985135,0.06972648088851788,False,Left Foot,Open Play,0,0,1,Normal
+3749631,Graeme Le Saux,Southampton,22.80372776543344,0.06704211607746333,False,Left Foot,Open Play,0,0,1,Normal
+3749631,José Antonio Reyes Calderón,Arsenal,24.10580842867544,0.06838278639578896,False,Left Foot,Open Play,0,0,3,Half Volley
+3749631,Sulzeer Jeremiah ''Sol' Campbell,Arsenal,5.9304300012731,0.05730940702724839,False,Head,Open Play,0,1,6,Normal
+3749631,Brett Ormerod,Southampton,12.82224629306425,0.05557204704038175,False,Right Foot,Open Play,0,1,1,Normal
+3749631,Chris Baird,Southampton,16.589454481688065,0.06245894730924985,False,Right Foot,Open Play,1,0,2,Volley
+3749631,José Antonio Reyes Calderón,Arsenal,23.00543414065469,0.06545243934803002,False,Left Foot,Open Play,0,0,0,Volley
+3749631,Ray Parlour,Arsenal,22.30896680709351,0.05929806526985673,False,Right Foot,Open Play,1,0,0,Normal
+3749631,Brett Ormerod,Southampton,18.927493230747704,0.06433981493537967,False,Left Foot,Open Play,0,1,1,Normal
+3749631,Gilberto Aparecido da Silva,Arsenal,29.231831964486933,0.059915004156323545,False,Right Foot,Open Play,0,0,1,Normal
+3749631,Kolo Habib Touré,Arsenal,12.120231020900553,0.05403517920677249,False,Right Foot,Open Play,1,0,2,Backheel
+3749631,Rory Delap,Southampton,22.28990803031722,0.06318294553551408,False,Right Foot,Open Play,0,0,2,Half Volley
+3749631,Michael Lennart Svensson,Southampton,15.132745950421556,0.06008911136715584,False,Head,Open Play,0,1,1,Normal
+3749631,Thierry Henry,Arsenal,16.23730273167314,0.0632366887523151,False,Right Foot,Open Play,0,0,1,Half Volley
+3749631,Gilberto Aparecido da Silva,Arsenal,13.384319183283099,0.05595510788280408,False,Right Foot,Open Play,1,0,0,Normal
+3749631,Thierry Henry,Arsenal,13.544002362669609,0.06137248148029047,True,Right Foot,Open Play,0,0,1,Normal

@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-18.938056922503954,0.06431340506536792,False,Left Foot,Open Play,1,0,1,Half Volley
-34.14395993437199,0.06558554915473129,False,Right Foot,Open Play,0,0,1,Normal
-32.57376244771241,0.05721963511661209,False,Left Foot,Free Kick,0,0,0,Normal
-3.623534186398684,0.05659026902593192,True,Right Foot,Open Play,1,1,3,Normal
-11.981652640600121,0.05833785105495312,False,Right Foot,Open Play,1,1,3,Normal
-12.277214667830807,0.06093693007873889,False,Head,Open Play,0,1,2,Normal
-23.895187800057144,0.062068531330786374,False,Left Foot,Free Kick,0,0,0,Normal
-12.541929676090518,0.0522959625835538,False,Right Foot,Open Play,0,1,1,Normal
-9.235799911215057,0.05924346827921033,False,Head,Open Play,0,1,4,Normal
-26.69175902783479,0.06853313717184215,True,Left Foot,Open Play,1,0,0,Normal
-28.126144421160888,0.07104292728165812,False,Right Foot,Open Play,0,0,2,Normal
-9.929753269845135,0.05741501359640412,False,Right Foot,Open Play,1,0,2,Volley
-24.328172968803063,0.0572577752788234,False,Right Foot,Free Kick,0,0,0,Normal
-9.80815986819138,0.055705028104048655,False,Right Foot,Open Play,0,0,1,Normal
-24.167953988701655,0.05657870088067965,False,Right Foot,Open Play,1,0,1,Normal
-24.200826432169627,0.06515118982628589,False,Right Foot,Open Play,0,0,1,Normal
-7.161005515987261,0.05812905156851303,True,Head,Open Play,0,1,3,Normal
-27.004073766748608,0.05545439180911714,False,Left Foot,Open Play,0,0,2,Normal
-28.263050083103206,0.07136672311390241,False,Right Foot,Open Play,0,0,2,Normal
-14.940214188558338,0.062460589864767456,False,Left Foot,Open Play,0,0,3,Lob
-17.22353041626484,0.06390882147337917,False,Right Foot,Open Play,1,0,1,Half Volley
-27.008332047721872,0.0631448591136853,False,Right Foot,Open Play,0,1,3,Normal
-27.212129648375555,0.07013284974569957,False,Left Foot,Open Play,0,0,2,Normal
-14.355835050598765,0.060974996658319215,True,Left Foot,Open Play,0,0,1,Half Volley
-26.732751448363857,0.06919551918545788,False,Right Foot,Free Kick,0,0,0,Normal
-19.633135256499404,0.05816903256046011,False,Right Foot,Open Play,0,0,2,Normal
-16.75977326815611,0.054922780120691475,False,Left Foot,Open Play,0,0,3,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3754028,Raheem Sterling,Manchester City,18.938056922503954,0.06431340506536792,False,Left Foot,Open Play,1,0,1,Half Volley
+3754028,Fernando Luiz Rosa,Manchester City,34.14395993437199,0.06558554915473129,False,Right Foot,Open Play,0,0,1,Normal
+3754028,Aleksandar Kolarov,Manchester City,32.57376244771241,0.05721963511661209,False,Left Foot,Free Kick,0,0,0,Normal
+3754028,Kevin De Bruyne,Manchester City,3.623534186398684,0.05659026902593192,True,Right Foot,Open Play,1,1,3,Normal
+3754028,Sergio Leonel Agüero del Castillo,Manchester City,11.981652640600121,0.05833785105495312,False,Right Foot,Open Play,1,1,3,Normal
+3754028,Nicolás Hernán Otamendi,Manchester City,12.277214667830807,0.06093693007873889,False,Head,Open Play,0,1,2,Normal
+3754028,Aleksandar Kolarov,Manchester City,23.895187800057144,0.062068531330786374,False,Left Foot,Free Kick,0,0,0,Normal
+3754028,Sergio Leonel Agüero del Castillo,Manchester City,12.541929676090518,0.0522959625835538,False,Right Foot,Open Play,0,1,1,Normal
+3754028,Fernando Luiz Rosa,Manchester City,9.235799911215057,0.05924346827921033,False,Head,Open Play,0,1,4,Normal
+3754028,Fabian Delph,Manchester City,26.69175902783479,0.06853313717184215,True,Left Foot,Open Play,1,0,0,Normal
+3754028,Virgil van Dijk,Southampton,28.126144421160888,0.07104292728165812,False,Right Foot,Open Play,0,0,2,Normal
+3754028,Victor Wanyama,Southampton,9.929753269845135,0.05741501359640412,False,Right Foot,Open Play,1,0,2,Volley
+3754028,James Ward-Prowse,Southampton,24.328172968803063,0.0572577752788234,False,Right Foot,Free Kick,0,0,0,Normal
+3754028,Raheem Sterling,Manchester City,9.80815986819138,0.055705028104048655,False,Right Foot,Open Play,0,0,1,Normal
+3754028,Shane Long,Southampton,24.167953988701655,0.05657870088067965,False,Right Foot,Open Play,1,0,1,Normal
+3754028,Victor Wanyama,Southampton,24.200826432169627,0.06515118982628589,False,Right Foot,Open Play,0,0,1,Normal
+3754028,Shane Long,Southampton,7.161005515987261,0.05812905156851303,True,Head,Open Play,0,1,3,Normal
+3754028,Fabian Delph,Manchester City,27.004073766748608,0.05545439180911714,False,Left Foot,Open Play,0,0,2,Normal
+3754028,Gnégnéri Yaya Touré,Manchester City,28.263050083103206,0.07136672311390241,False,Right Foot,Open Play,0,0,2,Normal
+3754028,Dušan Tadić,Southampton,14.940214188558338,0.062460589864767456,False,Left Foot,Open Play,0,0,3,Lob
+3754028,Shane Long,Southampton,17.22353041626484,0.06390882147337917,False,Right Foot,Open Play,1,0,1,Half Volley
+3754028,Gnégnéri Yaya Touré,Manchester City,27.008332047721872,0.0631448591136853,False,Right Foot,Open Play,0,1,3,Normal
+3754028,Dušan Tadić,Southampton,27.212129648375555,0.07013284974569957,False,Left Foot,Open Play,0,0,2,Normal
+3754028,Aleksandar Kolarov,Manchester City,14.355835050598765,0.060974996658319215,True,Left Foot,Open Play,0,0,1,Half Volley
+3754028,Gnégnéri Yaya Touré,Manchester City,26.732751448363857,0.06919551918545788,False,Right Foot,Free Kick,0,0,0,Normal
+3754028,Sadio Mané,Southampton,19.633135256499404,0.05816903256046011,False,Right Foot,Open Play,0,0,2,Normal
+3754028,Sadio Mané,Southampton,16.75977326815611,0.054922780120691475,False,Left Foot,Open Play,0,0,3,Normal

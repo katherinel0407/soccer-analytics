@@ -1,28 +1,28 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-12.753430910935293,0.05748054870166107,False,Right Foot,Open Play,1,0,1,Normal
-13.983204210766575,0.05924663712976856,False,Right Foot,Open Play,1,0,2,Half Volley
-8.45281018360166,0.05656484728780577,True,Head,Open Play,0,1,4,Diving Header
-6.521502894272144,0.05782535655879134,True,Head,Open Play,0,0,4,Normal
-13.364505228402582,0.05520436730682594,False,Right Foot,Open Play,0,1,3,Normal
-27.465068723744352,0.05731667759818289,True,Right Foot,Open Play,0,1,1,Normal
-25.40649523251879,0.05195046474452296,True,Left Foot,Open Play,0,0,1,Normal
-26.722649569232466,0.06682595038523897,False,Right Foot,Open Play,1,0,1,Normal
-14.991330828181999,0.06236688899320928,False,Left Foot,Open Play,0,0,2,Normal
-15.572411502397436,0.05473604791924816,False,Right Foot,Open Play,1,0,2,Normal
-34.532593299664015,0.07614501358405502,False,Right Foot,Open Play,0,0,1,Normal
-7.666159403508386,0.058217533584939474,True,Right Foot,Open Play,1,0,4,Half Volley
-7.738862965578344,0.05831836211825046,False,Right Foot,Open Play,1,0,3,Normal
-17.426416728633573,0.050439096140760205,False,Right Foot,Open Play,1,0,1,Normal
-30.555032318752335,0.07242755250972917,True,Right Foot,Open Play,0,0,0,Normal
-29.516944286290883,0.06820400128545889,False,Right Foot,Open Play,0,0,0,Normal
-19.195051445620038,0.06514934656459291,False,Right Foot,Open Play,0,1,2,Normal
-8.935882720806049,0.05858177231633554,False,Right Foot,Open Play,1,1,2,Volley
-28.166114393007778,0.07108496830561924,False,Left Foot,Open Play,1,0,1,Volley
-9.575489543621257,0.059527135179507855,False,Head,Open Play,0,1,2,Normal
-16.83597339033297,0.05684552512758632,False,Left Foot,Open Play,0,0,2,Normal
-17.940178371465542,0.06347096318451029,False,Left Foot,Open Play,1,0,1,Normal
-25.42616762313975,0.06767011760698348,False,Left Foot,Open Play,1,0,1,Normal
-16.144658559412154,0.06014048023278367,True,Right Foot,Open Play,0,1,1,Normal
-18.732058082335744,0.06061980607643381,False,Right Foot,Open Play,0,0,1,Normal
-10.096038827183662,0.05767090011516482,False,Head,Open Play,0,1,1,Normal
-29.125418451929583,0.07124748227217459,False,Right Foot,Open Play,0,0,2,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3901184,Yoann Gourcuff,Rennes,12.753430910935293,0.05748054870166107,False,Right Foot,Open Play,1,0,1,Normal
+3901184,Gélson da Conceição Tavares Fernandes,Rennes,13.983204210766575,0.05924663712976856,False,Right Foot,Open Play,1,0,2,Half Volley
+3901184,Yoann Gourcuff,Rennes,8.45281018360166,0.05656484728780577,True,Head,Open Play,0,1,4,Diving Header
+3901184,Fallou Diagne,Rennes,6.521502894272144,0.05782535655879134,True,Head,Open Play,0,0,4,Normal
+3901184,Florian Thauvin,Olympique de Marseille,13.364505228402582,0.05520436730682594,False,Right Foot,Open Play,0,1,3,Normal
+3901184,Ousmane Dembélé,Rennes,27.465068723744352,0.05731667759818289,True,Right Foot,Open Play,0,1,1,Normal
+3901184,Florian Thauvin,Olympique de Marseille,25.40649523251879,0.05195046474452296,True,Left Foot,Open Play,0,0,1,Normal
+3901184,Michy Batshuayi Tunga,Olympique de Marseille,26.722649569232466,0.06682595038523897,False,Right Foot,Open Play,1,0,1,Normal
+3901184,Rémy Cabella,Olympique de Marseille,14.991330828181999,0.06236688899320928,False,Left Foot,Open Play,0,0,2,Normal
+3901184,Michy Batshuayi Tunga,Olympique de Marseille,15.572411502397436,0.05473604791924816,False,Right Foot,Open Play,1,0,2,Normal
+3901184,Lassana Diarra,Olympique de Marseille,34.532593299664015,0.07614501358405502,False,Right Foot,Open Play,0,0,1,Normal
+3901184,Rolando Jorge Pires da Fonseca,Olympique de Marseille,7.666159403508386,0.058217533584939474,True,Right Foot,Open Play,1,0,4,Half Volley
+3901184,Rémy Cabella,Olympique de Marseille,7.738862965578344,0.05831836211825046,False,Right Foot,Open Play,1,0,3,Normal
+3901184,Ousmane Dembélé,Rennes,17.426416728633573,0.050439096140760205,False,Right Foot,Open Play,1,0,1,Normal
+3901184,Yoann Gourcuff,Rennes,30.555032318752335,0.07242755250972917,True,Right Foot,Open Play,0,0,0,Normal
+3901184,Yoann Gourcuff,Rennes,29.516944286290883,0.06820400128545889,False,Right Foot,Open Play,0,0,0,Normal
+3901184,Giovanni-Guy Yann Sio,Rennes,19.195051445620038,0.06514934656459291,False,Right Foot,Open Play,0,1,2,Normal
+3901184,Fallou Diagne,Rennes,8.935882720806049,0.05858177231633554,False,Right Foot,Open Play,1,1,2,Volley
+3901184,Romain Alessandrini,Olympique de Marseille,28.166114393007778,0.07108496830561924,False,Left Foot,Open Play,1,0,1,Volley
+3901184,Rémy Cabella,Olympique de Marseille,9.575489543621257,0.059527135179507855,False,Head,Open Play,0,1,2,Normal
+3901184,Ousmane Dembélé,Rennes,16.83597339033297,0.05684552512758632,False,Left Foot,Open Play,0,0,2,Normal
+3901184,Romain Alessandrini,Olympique de Marseille,17.940178371465542,0.06347096318451029,False,Left Foot,Open Play,1,0,1,Normal
+3901184,Michy Batshuayi Tunga,Olympique de Marseille,25.42616762313975,0.06767011760698348,False,Left Foot,Open Play,1,0,1,Normal
+3901184,Giovanni-Guy Yann Sio,Rennes,16.144658559412154,0.06014048023278367,True,Right Foot,Open Play,0,1,1,Normal
+3901184,Jeremie Boga,Rennes,18.732058082335744,0.06061980607643381,False,Right Foot,Open Play,0,0,1,Normal
+3901184,Michy Batshuayi Tunga,Olympique de Marseille,10.096038827183662,0.05767090011516482,False,Head,Open Play,0,1,1,Normal
+3901184,Javier Manquillo Gaitán,Olympique de Marseille,29.125418451929583,0.07124748227217459,False,Right Foot,Open Play,0,0,2,Normal

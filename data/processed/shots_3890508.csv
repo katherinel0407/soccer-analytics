@@ -1,22 +1,22 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-6.438167441127955,0.057096856166154016,False,Head,Open Play,0,1,6,Normal
-24.174573419193976,0.06632840661335093,False,Right Foot,Open Play,1,0,1,Volley
-16.591865476793135,0.052585093174695625,False,Right Foot,Open Play,1,0,2,Half Volley
-35.52379484233068,0.07159598633572042,False,Right Foot,Open Play,1,0,0,Volley
-16.265915283192648,0.0631382608262037,False,Left Foot,Open Play,0,1,1,Normal
-6.512296062065975,0.057231355127113505,False,Head,Open Play,0,1,5,Normal
-33.67729205265768,0.05343309065386924,False,Left Foot,Open Play,0,0,1,Normal
-13.237824594698328,0.05728937228550827,False,Right Foot,Open Play,1,0,1,Normal
-11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
-22.051077071199945,0.06332626544820125,False,Right Foot,Open Play,1,0,1,Half Volley
-15.02065244921139,0.054004859367427424,True,Right Foot,Open Play,1,0,2,Normal
-16.559287424282488,0.056857856218294735,False,Left Foot,Open Play,1,1,2,Half Volley
-17.065755183993467,0.06042877362339299,False,Right Foot,Open Play,1,0,3,Normal
-34.796695245382146,0.05889461508116741,False,Right Foot,Open Play,0,0,1,Normal
-18.071247881648898,0.05557006221124316,False,Right Foot,Open Play,1,0,3,Normal
-11.164676439557033,0.05879158219098758,True,Left Foot,Open Play,1,1,2,Half Volley
-39.33153950711821,0.08028802134581826,False,Right Foot,Open Play,0,0,0,Normal
-12.203687967167962,0.056447444375104704,False,Head,Open Play,0,0,4,Normal
-15.563097378092838,0.057667552320125284,False,Left Foot,Open Play,1,0,3,Volley
-26.40927867246661,0.058245850223915846,False,Right Foot,Open Play,1,0,0,Normal
-22.337636401374258,0.061923697818138224,False,Right Foot,Open Play,1,0,0,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890508,Joël Andre Job Matip,Schalke 04,6.438167441127955,0.057096856166154016,False,Head,Open Play,0,1,6,Normal
+3890508,Robert Bauer,Ingolstadt,24.174573419193976,0.06632840661335093,False,Right Foot,Open Play,1,0,1,Volley
+3890508,Dario Lezcano,Ingolstadt,16.591865476793135,0.052585093174695625,False,Right Foot,Open Play,1,0,2,Half Volley
+3890508,Uilson de Souza Paula Júnior,Schalke 04,35.52379484233068,0.07159598633572042,False,Right Foot,Open Play,1,0,0,Volley
+3890508,Leon Goretzka,Schalke 04,16.265915283192648,0.0631382608262037,False,Left Foot,Open Play,0,1,1,Normal
+3890508,Leon Goretzka,Schalke 04,6.512296062065975,0.057231355127113505,False,Head,Open Play,0,1,5,Normal
+3890508,Pascal Groß,Ingolstadt,33.67729205265768,0.05343309065386924,False,Left Foot,Open Play,0,0,1,Normal
+3890508,Franco Matías Di Santo,Schalke 04,13.237824594698328,0.05728937228550827,False,Right Foot,Open Play,1,0,1,Normal
+3890508,Moritz Hartmann,Ingolstadt,11.900420160649796,0.05951387036924867,True,Right Foot,Penalty,0,0,0,Normal
+3890508,Danny Vieira da Costa,Ingolstadt,22.051077071199945,0.06332626544820125,False,Right Foot,Open Play,1,0,1,Half Volley
+3890508,Lukas Hinterseer,Ingolstadt,15.02065244921139,0.054004859367427424,True,Right Foot,Open Play,1,0,2,Normal
+3890508,Roman Neustädter,Schalke 04,16.559287424282488,0.056857856218294735,False,Left Foot,Open Play,1,1,2,Half Volley
+3890508,Leon Goretzka,Schalke 04,17.065755183993467,0.06042877362339299,False,Right Foot,Open Play,1,0,3,Normal
+3890508,Pascal Groß,Ingolstadt,34.796695245382146,0.05889461508116741,False,Right Foot,Open Play,0,0,1,Normal
+3890508,Leroy Sané,Schalke 04,18.071247881648898,0.05557006221124316,False,Right Foot,Open Play,1,0,3,Normal
+3890508,Dario Lezcano,Ingolstadt,11.164676439557033,0.05879158219098758,True,Left Foot,Open Play,1,1,2,Half Volley
+3890508,Johannes Geis,Schalke 04,39.33153950711821,0.08028802134581826,False,Right Foot,Open Play,0,0,0,Normal
+3890508,Marvin Matip,Ingolstadt,12.203687967167962,0.056447444375104704,False,Head,Open Play,0,0,4,Normal
+3890508,Marvin Matip,Ingolstadt,15.563097378092838,0.057667552320125284,False,Left Foot,Open Play,1,0,3,Volley
+3890508,Pascal Groß,Ingolstadt,26.40927867246661,0.058245850223915846,False,Right Foot,Open Play,1,0,0,Normal
+3890508,Almog Cohen,Ingolstadt,22.337636401374258,0.061923697818138224,False,Right Foot,Open Play,1,0,0,Normal

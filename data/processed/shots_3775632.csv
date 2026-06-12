@@ -1,29 +1,29 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-15.587815754620657,0.06254738397719274,False,Left Foot,Open Play,0,0,1,Normal
-16.501212076693033,0.061443186592671124,False,Left Foot,Open Play,1,0,1,Volley
-9.4762861923857,0.05944121689002775,False,Head,Open Play,0,0,4,Normal
-31.965137259207886,0.05825151175804105,False,Right Foot,Open Play,1,0,0,Normal
-20.12461179749811,0.06567935701359869,False,Right Foot,Open Play,1,0,3,Normal
-9.884331034521258,0.056840098785951226,False,Head,Open Play,0,1,2,Normal
-21.88880992653553,0.06574802255143185,False,Left Foot,Open Play,0,0,2,Normal
-30.490162347878698,0.06994399477898665,False,Right Foot,Open Play,1,0,0,Half Volley
-9.80815986819138,0.05881780152054213,True,Head,Open Play,0,0,2,Normal
-6.5795136598383905,0.05801926615854178,True,Head,Open Play,0,1,5,Normal
-12.076837334335512,0.057035564581852084,False,Right Foot,Open Play,0,0,1,Normal
-28.438354382769763,0.05336889419498728,False,Left Foot,Free Kick,0,0,0,Normal
-9.513148795220221,0.054335162769192875,False,Right Foot,Open Play,1,0,1,Volley
-15.640012787718554,0.0626417202638631,False,Right Foot,Open Play,1,0,1,Half Volley
-8.407734534343957,0.05396901441807815,True,Head,Open Play,0,0,2,Normal
-24.523050381222966,0.06666859122282956,False,Left Foot,Open Play,0,0,1,Normal
-21.681558984537986,0.053025675359128235,False,Right Foot,Open Play,0,1,1,Normal
-26.300760445279906,0.0671723034737102,False,Right Foot,Open Play,1,0,1,Normal
-9.560334722173689,0.05584402052581746,False,Head,Open Play,0,1,7,Normal
-6.96419413859206,0.05655387790595624,False,Head,Open Play,0,1,5,Normal
-17.695479648769066,0.055890169146150075,False,Right Foot,Open Play,0,0,1,Half Volley
-19.601020381602584,0.05641117857326131,False,Left Foot,Open Play,0,0,2,Normal
-13.636715146984622,0.060637586188144896,False,Head,Open Play,0,1,2,Normal
-31.36000637755037,0.0715818695668714,False,Left Foot,Open Play,0,0,0,Normal
-27.465068723744345,0.0586377919059495,False,Right Foot,Open Play,1,0,0,Normal
-7.532595834106593,0.05752651127225946,False,Head,Open Play,0,1,3,Normal
-17.393389548906214,0.06260095934658655,False,Left Foot,Open Play,0,0,2,Normal
-19.823723161908816,0.0553343015296234,False,Right Foot,Open Play,1,1,2,Half Volley
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3775632,Demi Stokes,Manchester City WFC,15.587815754620657,0.06254738397719274,False,Left Foot,Open Play,0,0,1,Normal
+3775632,Rosemary Kathleen Lavelle,Manchester City WFC,16.501212076693033,0.061443186592671124,False,Left Foot,Open Play,1,0,1,Volley
+3775632,Gemma Bonner,Manchester City WFC,9.4762861923857,0.05944121689002775,False,Head,Open Play,0,0,4,Normal
+3775632,Abbey-Leigh Stringer,Everton LFC,31.965137259207886,0.05825151175804105,False,Right Foot,Open Play,1,0,0,Normal
+3775632,Janine Elizabeth Beckie,Manchester City WFC,20.12461179749811,0.06567935701359869,False,Right Foot,Open Play,1,0,3,Normal
+3775632,Megan Finnigan,Everton LFC,9.884331034521258,0.056840098785951226,False,Head,Open Play,0,1,2,Normal
+3775632,Rosemary Kathleen Lavelle,Manchester City WFC,21.88880992653553,0.06574802255143185,False,Left Foot,Open Play,0,0,2,Normal
+3775632,Ingrid Moe Wold,Everton LFC,30.490162347878698,0.06994399477898665,False,Right Foot,Open Play,1,0,0,Half Volley
+3775632,Ellen White,Manchester City WFC,9.80815986819138,0.05881780152054213,True,Head,Open Play,0,0,2,Normal
+3775632,Gemma Bonner,Manchester City WFC,6.5795136598383905,0.05801926615854178,True,Head,Open Play,0,1,5,Normal
+3775632,Janine Elizabeth Beckie,Manchester City WFC,12.076837334335512,0.057035564581852084,False,Right Foot,Open Play,0,0,1,Normal
+3775632,Caroline Weir,Manchester City WFC,28.438354382769763,0.05336889419498728,False,Left Foot,Free Kick,0,0,0,Normal
+3775632,Gemma Bonner,Manchester City WFC,9.513148795220221,0.054335162769192875,False,Right Foot,Open Play,1,0,1,Volley
+3775632,Janine Elizabeth Beckie,Manchester City WFC,15.640012787718554,0.0626417202638631,False,Right Foot,Open Play,1,0,1,Half Volley
+3775632,Janine Elizabeth Beckie,Manchester City WFC,8.407734534343957,0.05396901441807815,True,Head,Open Play,0,0,2,Normal
+3775632,Caroline Weir,Manchester City WFC,24.523050381222966,0.06666859122282956,False,Left Foot,Open Play,0,0,1,Normal
+3775632,Nicoline Sørensen,Everton LFC,21.681558984537986,0.053025675359128235,False,Right Foot,Open Play,0,1,1,Normal
+3775632,Keira Walsh,Manchester City WFC,26.300760445279906,0.0671723034737102,False,Right Foot,Open Play,1,0,1,Normal
+3775632,Megan Finnigan,Everton LFC,9.560334722173689,0.05584402052581746,False,Head,Open Play,0,1,7,Normal
+3775632,Jill Scott,Manchester City WFC,6.96419413859206,0.05655387790595624,False,Head,Open Play,0,1,5,Normal
+3775632,Lucy Bronze,Manchester City WFC,17.695479648769066,0.055890169146150075,False,Right Foot,Open Play,0,0,1,Half Volley
+3775632,Samantha June Mewis,Manchester City WFC,19.601020381602584,0.05641117857326131,False,Left Foot,Open Play,0,0,2,Normal
+3775632,Stephanie Houghton,Manchester City WFC,13.636715146984622,0.060637586188144896,False,Head,Open Play,0,1,2,Normal
+3775632,Demi Stokes,Manchester City WFC,31.36000637755037,0.0715818695668714,False,Left Foot,Open Play,0,0,0,Normal
+3775632,Lucy Bronze,Manchester City WFC,27.465068723744345,0.0586377919059495,False,Right Foot,Open Play,1,0,0,Normal
+3775632,Chantelle Boye-Hlorkah,Everton LFC,7.532595834106593,0.05752651127225946,False,Head,Open Play,0,1,3,Normal
+3775632,Samantha June Mewis,Manchester City WFC,17.393389548906214,0.06260095934658655,False,Left Foot,Open Play,0,0,2,Normal
+3775632,Lucy Hope,Everton LFC,19.823723161908816,0.0553343015296234,False,Right Foot,Open Play,1,1,2,Half Volley

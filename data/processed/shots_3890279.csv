@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-19.03181546778972,0.06310145950683796,False,Right Foot,Open Play,0,0,3,Normal
-14.103191128251787,0.0620865423901001,False,Right Foot,Open Play,1,0,3,Half Volley
-23.407904647789383,0.06735535552965724,False,Right Foot,Open Play,0,0,1,Normal
-13.822445514452214,0.06191678119248814,False,Left Foot,Open Play,1,1,1,Normal
-5.860034129593442,0.05610582301954555,True,Left Foot,Open Play,1,0,3,Normal
-40.335840142483704,0.07460315988315908,False,Left Foot,Free Kick,0,0,0,Normal
-3.3541019662496847,0.05556348525320901,False,Right Foot,Open Play,1,0,2,Half Volley
-5.894064811316553,0.05657372960217244,True,Right Foot,Open Play,1,0,2,Normal
-23.572229423624737,0.061100480644063884,False,Right Foot,Open Play,0,0,3,Normal
-25.089440009693316,0.06345032960809015,False,Left Foot,Open Play,0,0,0,Half Volley
-11.025878649794759,0.060365160612928265,False,Left Foot,Open Play,1,0,2,Normal
-10.182337649086287,0.05982110954422421,False,Left Foot,Open Play,1,1,2,Half Volley
-19.00789309734249,0.06499097542467294,False,Right Foot,Open Play,0,0,4,Normal
-37.49946666287403,0.048566984728041426,False,Left Foot,Free Kick,0,0,0,Normal
-6.428841264178176,0.057194875169080645,False,Head,Open Play,0,0,3,Normal
-15.008331019803634,0.053244202227456655,False,Right Foot,Open Play,1,0,0,Volley
-11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
-16.61926592843378,0.06299808094350108,False,Left Foot,Open Play,0,1,2,Half Volley
-16.322989922192566,0.06217402183953517,False,Right Foot,Open Play,1,0,1,Half Volley
-19.043371550227125,0.06482583731765285,True,Right Foot,Open Play,0,1,1,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3890279,Marc Stendera,Eintracht Frankfurt,19.03181546778972,0.06310145950683796,False,Right Foot,Open Play,0,0,3,Normal
+3890279,Christian Gentner,VfB Stuttgart,14.103191128251787,0.0620865423901001,False,Right Foot,Open Play,1,0,3,Half Volley
+3890279,Daniel Ginczek,VfB Stuttgart,23.407904647789383,0.06735535552965724,False,Right Foot,Open Play,0,0,1,Normal
+3890279,Daniel Didavi,VfB Stuttgart,13.822445514452214,0.06191678119248814,False,Left Foot,Open Play,1,1,1,Normal
+3890279,Daniel Didavi,VfB Stuttgart,5.860034129593442,0.05610582301954555,True,Left Foot,Open Play,1,0,3,Normal
+3890279,Daniel Didavi,VfB Stuttgart,40.335840142483704,0.07460315988315908,False,Left Foot,Free Kick,0,0,0,Normal
+3890279,Martin Harnik,VfB Stuttgart,3.3541019662496847,0.05556348525320901,False,Right Foot,Open Play,1,0,2,Half Volley
+3890279,Luc Castaignos,Eintracht Frankfurt,5.894064811316553,0.05657372960217244,True,Right Foot,Open Play,1,0,2,Normal
+3890279,Daniel Ginczek,VfB Stuttgart,23.572229423624737,0.061100480644063884,False,Right Foot,Open Play,0,0,3,Normal
+3890279,Filip Kostić,VfB Stuttgart,25.089440009693316,0.06345032960809015,False,Left Foot,Open Play,0,0,0,Half Volley
+3890279,Haris Seferović,Eintracht Frankfurt,11.025878649794759,0.060365160612928265,False,Left Foot,Open Play,1,0,2,Normal
+3890279,Timo Werner,VfB Stuttgart,10.182337649086287,0.05982110954422421,False,Left Foot,Open Play,1,1,2,Half Volley
+3890279,Timo Werner,VfB Stuttgart,19.00789309734249,0.06499097542467294,False,Right Foot,Open Play,0,0,4,Normal
+3890279,Daniel Didavi,VfB Stuttgart,37.49946666287403,0.048566984728041426,False,Left Foot,Free Kick,0,0,0,Normal
+3890279,Timo Baumgartl,VfB Stuttgart,6.428841264178176,0.057194875169080645,False,Head,Open Play,0,0,3,Normal
+3890279,Stefan Aigner,Eintracht Frankfurt,15.008331019803634,0.053244202227456655,False,Right Foot,Open Play,1,0,0,Volley
+3890279,Haris Seferović,Eintracht Frankfurt,11.900420160649796,0.05951387036924867,True,Left Foot,Penalty,0,0,0,Normal
+3890279,Christian Gentner,VfB Stuttgart,16.61926592843378,0.06299808094350108,False,Left Foot,Open Play,0,1,2,Half Volley
+3890279,Christian Gentner,VfB Stuttgart,16.322989922192566,0.06217402183953517,False,Right Foot,Open Play,1,0,1,Half Volley
+3890279,Luc Castaignos,Eintracht Frankfurt,19.043371550227125,0.06482583731765285,True,Right Foot,Open Play,0,1,1,Normal

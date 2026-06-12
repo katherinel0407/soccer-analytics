@@ -1,21 +1,21 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-28.074543629416315,0.07102239475978897,False,Left Foot,Free Kick,0,0,0,Normal
-23.306007809146546,0.06056567980548364,False,Left Foot,Free Kick,0,0,0,Normal
-10.113357503816426,0.059022536026199675,False,Right Foot,Open Play,0,0,1,Normal
-7.653757247260978,0.058403504245704736,False,Right Foot,Open Play,1,0,2,Half Volley
-26.184155514356384,0.05529657522252938,False,Left Foot,Open Play,0,0,1,Normal
-17.25340546095176,0.06365201248464429,False,Right Foot,Open Play,1,1,1,Normal
-6.706713054842882,0.05799210926299192,True,Head,Open Play,0,1,3,Normal
-11.788977903109332,0.05626950359912341,False,Head,Open Play,0,1,2,Normal
-10.601886624558853,0.059079386714067574,False,Head,Open Play,0,1,3,Normal
-30.9594896598765,0.07343795799954043,False,Right Foot,Open Play,0,0,1,Normal
-21.211553455605276,0.06395638215188935,False,Left Foot,Open Play,1,0,1,Half Volley
-19.34140636044856,0.064608096424171,False,Right Foot,Open Play,1,0,1,Normal
-11.289375536317317,0.05623638569137959,True,Right Foot,Open Play,1,0,2,Normal
-19.530488985173925,0.065353589867029,True,Right Foot,Open Play,0,0,4,Normal
-34.78289809662214,0.0688056381653172,False,Right Foot,Open Play,0,1,1,Normal
-12.397580409095966,0.06053163785793224,False,Left Foot,Open Play,0,0,1,Normal
-6.661080993352358,0.05789427630763593,False,Left Foot,Open Play,1,0,2,Volley
-15.654072952429988,0.05893110141423604,False,Left Foot,Open Play,0,0,4,Normal
-20.84322431870846,0.06610971068474569,False,Right Foot,Open Play,0,0,2,Normal
-6.258594091327534,0.05675789269568889,False,Head,Open Play,0,1,5,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+16265,Lionel Andrés Messi Cuccittini,Barcelona,28.074543629416315,0.07102239475978897,False,Left Foot,Free Kick,0,0,0,Normal
+16265,Lionel Andrés Messi Cuccittini,Barcelona,23.306007809146546,0.06056567980548364,False,Left Foot,Free Kick,0,0,0,Normal
+16265,Juan Miguel Jiménez López,Real Sociedad,10.113357503816426,0.059022536026199675,False,Right Foot,Open Play,0,0,1,Normal
+16265,Willian José da Silva,Real Sociedad,7.653757247260978,0.058403504245704736,False,Right Foot,Open Play,1,0,2,Half Volley
+16265,Lionel Andrés Messi Cuccittini,Barcelona,26.184155514356384,0.05529657522252938,False,Left Foot,Open Play,0,0,1,Normal
+16265,Luis Alberto Suárez Díaz,Barcelona,17.25340546095176,0.06365201248464429,False,Right Foot,Open Play,1,1,1,Normal
+16265,Clément Lenglet,Barcelona,6.706713054842882,0.05799210926299192,True,Head,Open Play,0,1,3,Normal
+16265,Mikel Oyarzabal Ugarte,Real Sociedad,11.788977903109332,0.05626950359912341,False,Head,Open Play,0,1,2,Normal
+16265,Willian José da Silva,Real Sociedad,10.601886624558853,0.059079386714067574,False,Head,Open Play,0,1,3,Normal
+16265,Rubén Pardo Gutiérrez,Real Sociedad,30.9594896598765,0.07343795799954043,False,Right Foot,Open Play,0,0,1,Normal
+16265,Luca Sangalli Fuentes,Real Sociedad,21.211553455605276,0.06395638215188935,False,Left Foot,Open Play,1,0,1,Half Volley
+16265,Ousmane Dembélé,Barcelona,19.34140636044856,0.064608096424171,False,Right Foot,Open Play,1,0,1,Normal
+16265,Juan Miguel Jiménez López,Real Sociedad,11.289375536317317,0.05623638569137959,True,Right Foot,Open Play,1,0,2,Normal
+16265,Jordi Alba Ramos,Barcelona,19.530488985173925,0.065353589867029,True,Right Foot,Open Play,0,0,4,Normal
+16265,Luca Sangalli Fuentes,Real Sociedad,34.78289809662214,0.0688056381653172,False,Right Foot,Open Play,0,1,1,Normal
+16265,Ivan Rakitić,Barcelona,12.397580409095966,0.06053163785793224,False,Left Foot,Open Play,0,0,1,Normal
+16265,Arturo Erasmo Vidal Pardo,Barcelona,6.661080993352358,0.05789427630763593,False,Left Foot,Open Play,1,0,2,Volley
+16265,Mikel Oyarzabal Ugarte,Real Sociedad,15.654072952429988,0.05893110141423604,False,Left Foot,Open Play,0,0,4,Normal
+16265,Philippe Coutinho Correia,Barcelona,20.84322431870846,0.06610971068474569,False,Right Foot,Open Play,0,0,2,Normal
+16265,Arturo Erasmo Vidal Pardo,Barcelona,6.258594091327534,0.05675789269568889,False,Head,Open Play,0,1,5,Normal

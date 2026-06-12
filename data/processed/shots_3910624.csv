@@ -1,27 +1,27 @@
-distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
-27.676163028859335,0.0686059197047995,False,Left Foot,Open Play,1,1,1,Half Volley
-3.8600518131237593,0.05594365354906676,True,Head,Open Play,0,0,5,Normal
-34.83633160939883,0.06345727947375739,False,Right Foot,Free Kick,0,0,0,Normal
-13.66199107011859,0.05484523559653765,False,Right Foot,Open Play,0,1,2,Normal
-2.5059928172283374,0.05470402995800511,True,Right Foot,Open Play,0,0,1,Normal
-11.244554237496477,0.0558433633210914,False,Head,Open Play,0,1,3,Normal
-8.823831367382308,0.05681944031431904,False,Right Foot,Open Play,1,1,2,Half Volley
-11.402192771568108,0.05552349437979828,False,Head,Open Play,0,0,1,Normal
-16.62077013859466,0.05322488137338585,False,Right Foot,Open Play,0,0,2,Normal
-29.53252444339969,0.06263670521485287,False,Right Foot,Open Play,0,0,1,Normal
-7.636753236814717,0.0585261163608645,False,Head,Open Play,0,0,1,Normal
-20.761743664731053,0.059235914691020373,False,Left Foot,Open Play,0,0,2,Normal
-29.154759474226502,0.0657493190440007,False,Right Foot,Open Play,1,0,1,Half Volley
-21.941968918034675,0.0591522258109327,False,Right Foot,Open Play,1,0,0,Half Volley
-4.879549159502339,0.057177257974780286,False,Head,Open Play,0,1,4,Normal
-26.974246977441283,0.05934433571924982,False,Right Foot,Free Kick,0,0,0,Normal
-31.334485794408696,0.07126478984620783,False,Right Foot,Open Play,0,0,3,Normal
-15.640012787718558,0.05540856019731565,False,Left Foot,Open Play,0,0,3,Normal
-15.50290295396317,0.060968426799017164,False,Left Foot,Open Play,0,1,3,Half Volley
-16.74305826305338,0.06112650712728873,False,Left Foot,Open Play,0,1,1,Normal
-12.114866899805374,0.059416741683416895,False,Left Foot,Open Play,1,0,2,Volley
-16.507574019219184,0.06345028114447616,False,Left Foot,Open Play,0,0,2,Normal
-19.99049774267764,0.06509531041444216,False,Left Foot,Open Play,1,1,4,Half Volley
-19.87083289648424,0.05471067472017307,False,Left Foot,Open Play,1,0,1,Volley
-38.388149213005825,0.07043849360627812,False,Right Foot,Free Kick,0,0,0,Normal
-7.2532751223154355,0.05815547404764581,False,Head,Open Play,0,1,6,Normal
+match_id,player,team,distance,angle,goal,body_part,shot_type,first_time,under_pressure,num_opponents,technique
+3910624,Eva Schatzer,Sampdoria W,27.676163028859335,0.0686059197047995,False,Left Foot,Open Play,1,1,1,Half Volley
+3910624,Sofie Junge Pedersen,FC Internazionale Milano W,3.8600518131237593,0.05594365354906676,True,Head,Open Play,0,0,5,Normal
+3910624,Alice Benoit,Sampdoria W,34.83633160939883,0.06345727947375739,False,Right Foot,Free Kick,0,0,0,Normal
+3910624,Agnese Bonfantini,FC Internazionale Milano W,13.66199107011859,0.05484523559653765,False,Right Foot,Open Play,0,1,2,Normal
+3910624,Michela Cambiaghi,FC Internazionale Milano W,2.5059928172283374,0.05470402995800511,True,Right Foot,Open Play,0,0,1,Normal
+3910624,Michela Cambiaghi,FC Internazionale Milano W,11.244554237496477,0.0558433633210914,False,Head,Open Play,0,1,3,Normal
+3910624,Michela Cambiaghi,FC Internazionale Milano W,8.823831367382308,0.05681944031431904,False,Right Foot,Open Play,1,1,2,Half Volley
+3910624,Ghoutia Karchouni,FC Internazionale Milano W,11.402192771568108,0.05552349437979828,False,Head,Open Play,0,0,1,Normal
+3910624,Agnese Bonfantini,FC Internazionale Milano W,16.62077013859466,0.05322488137338585,False,Right Foot,Open Play,0,0,2,Normal
+3910624,Asia Bragonzi,Sampdoria W,29.53252444339969,0.06263670521485287,False,Right Foot,Open Play,0,0,1,Normal
+3910624,Haley Bugeja,FC Internazionale Milano W,7.636753236814717,0.0585261163608645,False,Head,Open Play,0,0,1,Normal
+3910624,Alice Benoit,Sampdoria W,20.761743664731053,0.059235914691020373,False,Left Foot,Open Play,0,0,2,Normal
+3910624,Eva Schatzer,Sampdoria W,29.154759474226502,0.0657493190440007,False,Right Foot,Open Play,1,0,1,Half Volley
+3910624,Stefania Tarenzi,Sampdoria W,21.941968918034675,0.0591522258109327,False,Right Foot,Open Play,1,0,0,Half Volley
+3910624,Agnese Bonfantini,FC Internazionale Milano W,4.879549159502339,0.057177257974780286,False,Head,Open Play,0,1,4,Normal
+3910624,Ghoutia Karchouni,FC Internazionale Milano W,26.974246977441283,0.05934433571924982,False,Right Foot,Free Kick,0,0,0,Normal
+3910624,Haley Bugeja,FC Internazionale Milano W,31.334485794408696,0.07126478984620783,False,Right Foot,Open Play,0,0,3,Normal
+3910624,Agnese Bonfantini,FC Internazionale Milano W,15.640012787718558,0.05540856019731565,False,Left Foot,Open Play,0,0,3,Normal
+3910624,Stefania Tarenzi,Sampdoria W,15.50290295396317,0.060968426799017164,False,Left Foot,Open Play,0,1,3,Half Volley
+3910624,Michela Giordano,Sampdoria W,16.74305826305338,0.06112650712728873,False,Left Foot,Open Play,0,1,1,Normal
+3910624,Marta Pandini,FC Internazionale Milano W,12.114866899805374,0.059416741683416895,False,Left Foot,Open Play,1,0,2,Volley
+3910624,Michela Cambiaghi,FC Internazionale Milano W,16.507574019219184,0.06345028114447616,False,Left Foot,Open Play,0,0,2,Normal
+3910624,Ghoutia Karchouni,FC Internazionale Milano W,19.99049774267764,0.06509531041444216,False,Left Foot,Open Play,1,1,4,Half Volley
+3910624,Beatrice Merlo,FC Internazionale Milano W,19.87083289648424,0.05471067472017307,False,Left Foot,Open Play,1,0,1,Volley
+3910624,Alice Benoit,Sampdoria W,38.388149213005825,0.07043849360627812,False,Right Foot,Free Kick,0,0,0,Normal
+3910624,Marta Pandini,FC Internazionale Milano W,7.2532751223154355,0.05815547404764581,False,Head,Open Play,0,1,6,Normal
