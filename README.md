@@ -22,7 +22,7 @@ Data source:
 
 https://github.com/statsbomb/open-data
 
-[!img/SB_logo.png]
+![StatsBomb logo](img/SB_logo.png)
 
 There are 4235 matches/events included in this dataset. The dataset contains detailed event-level information, including:
 
@@ -39,6 +39,7 @@ There are 4235 matches/events included in this dataset. The dataset contains det
 
 ## Project Structure
 
+```text
 soccer-analytics/
 │
 ├── data/
@@ -68,6 +69,7 @@ soccer-analytics/
 │   └── team_xg_ex.png
 │
 └── README.md
+```
 
 ---
 
@@ -181,6 +183,9 @@ Used to identify:
 - Low performing finishers
 - High-volume shooters
 
+Example: Top 10 players by xG
+![Top 10 players](img/player_xg_ex.png)
+
 ### Team Analytics
 
 `team_xg.csv`
@@ -198,6 +203,9 @@ Used to evaluate:
 - Attacking quality
 - Finishing efficiency
 - Team performance trends
+
+Example: Top 10 teams by xG
+![Top 10 teams](img/team_xg_ex.png)
 
 ---
 
