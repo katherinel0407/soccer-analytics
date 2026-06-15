@@ -46,7 +46,9 @@ soccer-analytics/
 │   ├── processed/
 │   ├── shot_predictions.csv
 │   ├── player_xg.csv
-│   └── team_xg.csv
+│   ├── team_xg.csv
+│   ├── team_ratings.csv
+│   └── matches.csv
 │
 ├── models/
 │   ├── xgboost_xg_model.pkl
@@ -61,7 +63,11 @@ soccer-analytics/
 │   ├── build_dataset.py
 │   ├── load_data.py
 │   ├── train_model.py
-│   └── xg_tables.py
+│   ├── xg_tables.py
+│   ├── team_ratings.py
+│   ├── match_dataset.py
+│   ├── match_predictor.py
+│   └── run_match_predictor.py
 |
 ├── img/
 │   ├── player_xg_ex.png
@@ -254,6 +260,38 @@ python/xg_tables.py
 
 ---
 
+## Match Prediction (Interactive CLI Tool)
+
+The project includes an interactive command-line tool that allows users to input any two teams and receive match predictions powered by the trained xG model and team strength ratings.
+
+### Running the Predictor
+
+```bash
+python src/run_match_predictor.py
+```
+
+You will be prompted to enter:
+
+```text
+Enter home team: [your choice of home team]
+Enter away team: [your choice of away team]
+```
+
+---
+
+## How It Works
+
+1. Loads precomputed team strength ratings from `team_ratings.csv`
+2. Retrieves attack strength for both teams
+3. Estimates expected goals using learned team strengths
+4. Simulates match outcomes using a Poisson model
+5. Home team has an added 30% boost to account for home stadium advantage
+6. Outputs:
+   - Expected goals (xG) for both teams
+   - Win / Draw / Loss probabilities
+
+---
+
 ## Future Improvements
 
 ### Additional Features
@@ -272,6 +310,10 @@ python/xg_tables.py
 
 - Potential interactive streamlit dashboard
 - Player comparison dashboards
+
+### Team Naming
+
+Because of how StatsBomb data is created, there is a slight issue with how teams are named. For a few teams, they are not titled by their official name, rather the name that fans are more accustomed to saying (e.g. Barcelona vs. FC Barcelona). In addition, women's teams naming can vary from [team name] Women’s, [team name] W, or [team name] WFC. Improvements can be made by creating uniform team names and an extra validation step when user is entering their home and away teams of choice.
 
 ---
 
