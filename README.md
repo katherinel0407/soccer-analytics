@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project builds an Expected Goals (xG) model using StatsBomb event data and XGBoost to estimate the probability that a soccer shot results in a goal.
+This project builds an end-to-end soccer analytics system centered around Expected Goals (xG), using StatsBomb event data and machine learning (XGBoost) to estimate shot quality, simulate match outcomes, and predict player performance.
 
 The system processes raw match event data, engineers shot-level features, trains a machine learning model, and generates player and team-level analytics based on predicted xG values.
 
@@ -13,6 +13,14 @@ The goal of the project is to demonstrate an end-to-end machine learning pipelin
 - Predictive modeling
 - Model evaluation
 - Sports analytics applications
+
+The final system allows users to:
+
+- Predict the probability that any shot results in a goal
+- Compare player finishing performance using xG vs goals
+- Evaluate team attacking strength
+- Simulate match outcomes between two teams via a command-line interface
+- Predict player performance (expected goals and shots)
 
 ---
 
