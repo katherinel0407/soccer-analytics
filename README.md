@@ -421,6 +421,16 @@ For player perfomance:
 
 ---
 
+## How the App Looks
+
+### Dropdown Menu
+
+![dropdown](img/app_dropdown.png)
+
+### Example of Match Prediction Output
+
+![output](img/app_ex.png)
+
 ## Future Improvements
 
 ### Additional Features
