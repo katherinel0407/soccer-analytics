@@ -21,6 +21,78 @@ The final system allows users to:
 - Evaluate team attacking strength
 - Simulate match outcomes between two teams via a command-line interface
 - Predict player performance (expected goals and shots)
+- Interactively explore analytics through a web application
+
+---
+
+## Key Features
+
+### Shot-Level Expected Goals Modeling
+
+Predicts the probability that a shot becomes a goal using features such as:
+
+- Shot distance
+- Shot angle
+- Body part used
+- Shot type
+- Shot technique
+- First-time shot indicator
+- Defensive pressure
+- Number of nearby defenders
+
+### Player Analytics
+
+Aggregates shot-level predictions to generate:
+
+- Total xG
+- Goals scored
+- xG per shot
+- Finishing performance
+- Expected goals per match
+
+### Team Analytics
+
+Computes team-level metrics including:
+
+- Total xG
+- Goals scored
+- Attack strength ratings
+- Finishing efficiency
+
+### Match Outcome Prediction
+
+Simulates matches using team strength ratings and Poisson goal distributions to estimate:
+
+- Expected goals for each team
+- Home win probability
+- Draw probability
+- Away win probability
+
+### Interactive Streamlit Dashboard
+
+The project includes a Streamlit application that allows users to interact with the models through a web interface.
+
+#### Match Predictor
+
+Users can:
+
+- Select a home team
+- Select an away team
+- Generate expected goals projections
+- View win, draw, and loss probabilities
+
+#### Player Goal Predictor
+
+Users can:
+
+- Select a player from the dataset
+- Estimate expected goals per match
+- Explore player scoring performance metrics
+- Searchable Team and Player Selection
+
+#### Usability
+
+The dashboard uses searchable dropdown menus populated directly from the dataset to prevent invalid inputs and allow users to explore their options.
 
 ---
 
@@ -56,6 +128,8 @@ soccer-analytics/
 │   ├── player_xg.csv
 │   ├── team_xg.csv
 │   ├── team_ratings.csv
+│   ├── player_xg.csv
+│   ├── player_ratings.csv
 │   └── matches.csv
 │
 ├── models/
@@ -75,7 +149,11 @@ soccer-analytics/
 │   ├── team_ratings.py
 │   ├── match_dataset.py
 │   ├── match_predictor.py
-│   └── run_match_predictor.py
+│   ├── run_match_predictor.py
+│   ├── player_ratings.py
+│   ├── player_predictor.py
+│   ├── run_player_predictor.py
+│   └── app/py
 |
 ├── img/
 │   ├── player_xg_ex.png
@@ -232,6 +310,7 @@ Example: Top 10 teams by xG
 - XGBoost
 - Matplotlib
 - Jupyter Notebook
+- Streamlit
 
 ---
 
@@ -258,19 +337,49 @@ python src/load_data.py
 ### Training Model
 
 ```bash
-python/train_model.py
+python src/train_model.py
 ```
 
 ### Create Player and Team Predictions
+
 ```bash
-python/xg_tables.py
+python src/xg_tables.py
+```
+
+### Get Match Predictions
+
+```bash
+python src/match_dataset.py
+
+python src/team_ratings.py
+
+python src/match_predictor.py
+
+python src/run_match_predictor.py
+```
+
+### Get Player Predictions
+
+```bash
+pythom src/player_ratings.py
+
+python src/player_predictor.py
+
+python src/run_player_predictor.py
+
+```
+
+## Opening Web Application
+
+```bash
+streamlit run src/app/app.py
 ```
 
 ---
 
-## Match Prediction (Interactive CLI Tool)
+## Match and Player Performance Prediction (Interactive CLI Tool) -- REMOVED FOR WEB APPLICATION, BUT CODE NEEDED IS STILL IN THE FILE (COMMENTED OUT)
 
-The project includes an interactive command-line tool that allows users to input any two teams and receive match predictions powered by the trained xG model and team strength ratings.
+The project includes an interactive command-line tool that allows users to input any two teams and receive match predictions powered by the trained xG model and team strength ratings. It also allow the user to input any player name and returns predicted performance in terms of expected goals and shots.
 
 ### Running the Predictor
 
@@ -283,11 +392,19 @@ You will be prompted to enter:
 ```text
 Enter home team: [your choice of home team]
 Enter away team: [your choice of away team]
+``'
+
+or,
+
+```text
+Enter player name: [your choice of player]
 ```
 
 ---
 
 ## How It Works
+
+For match outcome:
 
 1. Loads precomputed team strength ratings from `team_ratings.csv`
 2. Retrieves attack strength for both teams
@@ -297,6 +414,10 @@ Enter away team: [your choice of away team]
 6. Outputs:
    - Expected goals (xG) for both teams
    - Win / Draw / Loss probabilities
+
+For player perfomance:
+1. Load precomputed player ratings from `player_ratings.csv`
+2. Estimates expected goals using learned player strengths
 
 ---
 
@@ -318,10 +439,6 @@ Enter away team: [your choice of away team]
 
 - Potential interactive streamlit dashboard
 - Player comparison dashboards
-
-### Team Naming
-
-Because of how StatsBomb data is created, there is a slight issue with how teams are named. For a few teams, they are not titled by their official name, rather the name that fans are more accustomed to saying (e.g. Barcelona vs. FC Barcelona). In addition, women's teams naming can vary from [team name] Women’s, [team name] W, or [team name] WFC. Improvements can be made by creating uniform team names and an extra validation step when user is entering their home and away teams of choice.
 
 ---
 

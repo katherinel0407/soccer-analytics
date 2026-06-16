@@ -19,15 +19,14 @@ def predict_player_goals(player_name):
 
     expected_goals = expected_shots * xg_per_shot
 
-    print(f"\nPlayer: {player_name}")
-    print(f"Expected Goals per Match: {expected_goals:.2f}")
-    print(f"Expected Shots: {expected_shots:.2f}")
-    print(f"xG per Shot: {xg_per_shot:.2f}")
+    # print(f"\nPlayer: {player_name}")
+    # print(f"Expected Goals per Match: {expected_goals:.2f}")
+    # print(f"Expected Shots: {expected_shots:.2f}")
+    # print(f"xG per Shot: {xg_per_shot:.2f}")
 
     return expected_goals
 
+# if __name__ == "__main__":
+#     player = input("Enter Player Name: ")
 
-if __name__ == "__main__":
-    player = input("Enter Player Name: ")
-
-    predict_player_goals(player)
+#     predict_player_goals(player)

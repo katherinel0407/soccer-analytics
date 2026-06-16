@@ -10,6 +10,5 @@ def main():
 
     predict_player_goals(player_name)
 
-
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

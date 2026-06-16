@@ -30,10 +30,19 @@ def predict_match(home_team, away_team):
     away_xg = away["attack_strength"] * 1.2
 
     home_win, draw, away_win = simulate_match(home_xg, away_xg)
+    # result = {
+    #     "home_team": home_team,
+    #     "away_team": away_team,
+    #     "home_xg": home_xg,
+    #     "away_xg": away_xg,
+    #     "home_win": home_win,
+    #     "draw": draw,
+    #     "away_win": away_win
+    # }
 
-    result = {
-        "home_team": home_team,
-        "away_team": away_team,
+    # return result
+
+    return {
         "home_xg": home_xg,
         "away_xg": away_xg,
         "home_win": home_win,
@@ -41,18 +50,10 @@ def predict_match(home_team, away_team):
         "away_win": away_win
     }
 
-    print(f"\n{home_team} vs {away_team}")
-    print(f"Expected Goals: {home_xg:.2f} - {away_xg:.2f}")
-    print(f"Home Win: {home_win:.2%}")
-    print(f"Draw: {draw:.2%}")
-    print(f"Away Win: {away_win:.2%}")
 
-    return result
+# if __name__ == "__main__":
 
+#     home_team = input("Enter home team: ")
+#     away_team = input("Enter away team: ")
 
-if __name__ == "__main__":
-
-    home_team = input("Enter home team: ")
-    away_team = input("Enter away team: ")
-
-    predict_match(home_team, away_team)
+#     predict_match(home_team, away_team)
